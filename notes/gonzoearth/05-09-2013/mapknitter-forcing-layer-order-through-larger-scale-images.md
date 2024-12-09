@@ -1,5 +1,5 @@
 ---
-title: MapKnitter: forcing layer order through larger scale images
+title: 'MapKnitter: forcing layer order through larger scale images'
 tagnames: balloon-mapping, kite-mapping, mapknitter, tips
 author: gonzoearth
 path: /notes/gonzoearth/05-09-2013/mapknitter-forcing-layer-order-through-larger-scale-images.md

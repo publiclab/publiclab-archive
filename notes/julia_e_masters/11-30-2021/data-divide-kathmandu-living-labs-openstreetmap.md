@@ -1,5 +1,5 @@
 ---
-title: Data Divide: Kathmandu Living Labs & OpenStreetMap
+title: 'Data Divide: Kathmandu Living Labs & OpenStreetMap'
 tagnames: mapping, osm, climate-change, disaster-response, open-data
 author: julia_e_masters
 path: /notes/julia_e_masters/11-30-2021/data-divide-kathmandu-living-labs-openstreetmap.md

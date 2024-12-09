@@ -1,5 +1,5 @@
 ---
-title: mapknitter2
+title: 'mapknitter2'
 tagnames: 
 author: warren
 path: /wiki/mapknitter2.md

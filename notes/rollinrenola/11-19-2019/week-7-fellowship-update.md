@@ -1,5 +1,5 @@
 ---
-title: Week 7 Fellowship Update 
+title: 'Week 7 Fellowship Update '
 tagnames: lat:1, lon:10, oil-and-gas-water-trio
 author: rollinrenola
 path: /notes/rollinrenola/11-19-2019/week-7-fellowship-update.md

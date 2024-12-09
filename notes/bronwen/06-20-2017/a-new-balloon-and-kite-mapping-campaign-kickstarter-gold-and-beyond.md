@@ -1,5 +1,5 @@
 ---
-title: A New Balloon and Kite Mapping campaign: Kickstarter Gold and Beyond!
+title: 'A New Balloon and Kite Mapping campaign: Kickstarter Gold and Beyond!'
 tagnames: balloon-mapping, kite-mapping, kickstarter, blog, mini-kite-kit, mini-balloon-kit
 author: Bronwen
 path: /notes/bronwen/06-20-2017/a-new-balloon-and-kite-mapping-campaign-kickstarter-gold-and-beyond.md

@@ -1,5 +1,5 @@
 ---
-title: The Squid and the Rok
+title: 'The Squid and the Rok'
 tagnames: kite-mapping, vermont, kite-aerial-photography, kickstarter, kap, mini-kite-kit, squidweek, squid, aerobee-rig, rokkaku
 author: cfastie
 path: /notes/cfastie/07-03-2017/the-squid-and-the-rok.md

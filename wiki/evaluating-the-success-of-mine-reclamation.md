@@ -1,5 +1,5 @@
 ---
-title: Evaluating the Success of Mine Reclamation
+title: 'Evaluating the Success of Mine Reclamation'
 tagnames: method, soil-health, research-curation-fellows, reclamation, mine-reclamation, evaluating-reclamation, parent:mine-reclamation, mine-soil-health
 author: laurel_mire
 path: /wiki/evaluating-the-success-of-mine-reclamation.md

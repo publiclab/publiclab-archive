@@ -1,5 +1,5 @@
 ---
-title: Echo Hack 2014 
+title: 'Echo Hack 2014 '
 tagnames: spectrometer, sky, replication:6168
 author: chrisjob
 path: /notes/chrisjob/05-10-2014/echo-hack-2014.md

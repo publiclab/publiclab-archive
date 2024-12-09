@@ -1,5 +1,5 @@
 ---
-title: Aerial Observation of North and South Facing Slope Ecologies
+title: 'Aerial Observation of North and South Facing Slope Ecologies'
 tagnames: balloon-mapping, event, hidden:response, response:14179
 author: aerialmapping123
 path: /notes/aerialmapping123/05-30-2017/aerial-observation-of-north-and-south-facing-slope-ecologies.md

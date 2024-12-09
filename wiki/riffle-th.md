@@ -1,5 +1,5 @@
 ---
-title: riffle-th
+title: 'riffle-th'
 tagnames: water-quality, riffle, open-water, riffle-th, parent:riffle
 author: donblair
 path: /wiki/riffle-th.md

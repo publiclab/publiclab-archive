@@ -1,5 +1,5 @@
 ---
-title: telephone poles & streetlights at sunset
+title: 'telephone poles & streetlights at sunset'
 tagnames: spectrometer
 author: mathew
 path: /notes/mathew/09-26-2013/telephone-poles-streetlights-at-sunset.md

@@ -1,5 +1,5 @@
 ---
-title: Testing of DF Robot Turbidity Sensor
+title: 'Testing of DF Robot Turbidity Sensor'
 tagnames: arduino, sensors, water-quality, turbidity, oil-and-gas-water-trio, activity:oil-and-gas-water-trio
 author: wmacfarl
 path: /notes/wmacfarl/10-12-2019/testing-of-df-robot-turbidity-sensor.md

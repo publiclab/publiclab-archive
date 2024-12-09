@@ -1,5 +1,5 @@
 ---
-title: Toxic City: Health Impacts of Chemicals Emitted in the South Durban Area
+title: 'Toxic City: Health Impacts of Chemicals Emitted in the South Durban Area'
 tagnames: air-quality, bucket-brigade, africa, oilandgas, air-sensing, oil-pollution, chemical-pollution, lat:-29.85868, lon:31.02184, zoom:6, bucket-monitor, lat:-29, lon:31, south-africa, south-durban
 author: kgradow1
 path: /notes/kgradow1/11-06-2020/toxic-city-health-impacts-of-chemicals-emitted-in-the-south-durban-area.md

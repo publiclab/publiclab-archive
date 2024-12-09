@@ -1,5 +1,5 @@
 ---
-title:  Can I use a tl074 instead of a mcp6004? 
+title: ' Can I use a tl074 instead of a mcp6004? '
 tagnames: question:general, general, first-time-poster
 author: daenorthugh
 path: /notes/daenorthugh/09-07-2021/can-i-use-a-tl074-instead-of-a-mcp6004.md

@@ -1,5 +1,5 @@
 ---
-title: What are different commercially available hydrogen sulfide detection methods?
+title: 'What are different commercially available hydrogen sulfide detection methods?'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, answered, question:hydrogen-sulfide, question:hydrogen-sulfide-detection, hydrogen-sulfide-detection
 author: warren
 path: /notes/warren/12-04-2017/what-are-different-commercially-available-hydrogen-sulfide-detection-methods.md

@@ -1,5 +1,5 @@
 ---
-title: An unserious exploration of common household parasites
+title: 'An unserious exploration of common household parasites'
 tagnames: barnraising2014
 author: kgradow1
 path: /wiki/an-unserious-exploration-of-common-household-parasites.md

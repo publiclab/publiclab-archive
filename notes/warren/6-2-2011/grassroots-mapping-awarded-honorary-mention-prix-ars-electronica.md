@@ -1,5 +1,5 @@
 ---
-title: Grassroots Mapping awarded Honorary Mention at Prix Ars Electronica
+title: 'Grassroots Mapping awarded Honorary Mention at Prix Ars Electronica'
 tagnames: media, award
 author: warren
 path: /notes/warren/6-2-2011/grassroots-mapping-awarded-honorary-mention-prix-ars-electronica.md

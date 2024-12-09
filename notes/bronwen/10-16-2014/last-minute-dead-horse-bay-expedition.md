@@ -1,5 +1,5 @@
 ---
-title: Last Minute Dead Horse Bay Expedition
+title: 'Last Minute Dead Horse Bay Expedition'
 tagnames: event, event:rsvp, date:10-19-2014
 author: Bronwen
 path: /notes/bronwen/10-16-2014/last-minute-dead-horse-bay-expedition.md

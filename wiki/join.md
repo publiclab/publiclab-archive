@@ -1,5 +1,5 @@
 ---
-title: Join Public Lab
+title: 'Join Public Lab'
 tagnames: community, welcome, out-of-date, redirect:1624, redirect:welcome
 author: warren
 path: /wiki/join.md

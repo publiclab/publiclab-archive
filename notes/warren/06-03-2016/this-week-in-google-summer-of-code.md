@@ -1,5 +1,5 @@
 ---
-title: This week in Google Summer of Code
+title: 'This week in Google Summer of Code'
 tagnames: website, software, gsoc, developers, coding, wwg, gsoc-2016, response:13150
 author: warren
 path: /notes/warren/06-03-2016/this-week-in-google-summer-of-code.md

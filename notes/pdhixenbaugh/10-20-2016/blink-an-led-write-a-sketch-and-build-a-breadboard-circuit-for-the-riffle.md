@@ -1,5 +1,5 @@
 ---
-title: Blink a LED - Write a 'Sketch' and build a breadboard circuit for the Riffle
+title: 'Blink a LED - Write a 'Sketch' and build a breadboard circuit for the Riffle'
 tagnames: riffle, riffle-beta, difficulty:medium, status:review-me, category:build, time:1h, activity:riffle, activity:datalogger, activity:data-logging
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-20-2016/blink-an-led-write-a-sketch-and-build-a-breadboard-circuit-for-the-riffle.md

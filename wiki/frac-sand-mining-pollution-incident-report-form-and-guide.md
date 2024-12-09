@@ -1,5 +1,5 @@
 ---
-title:  Frac Sand Violation Report Form and Support Materials 
+title: ' Frac Sand Violation Report Form and Support Materials '
 tagnames: reporting, wisconsin, frac-sand, midwest, frac-sand-reporting, sentinel, local-reporting, parent:the-sand-sentinel-program
 author: stevie
 path: /wiki/frac-sand-mining-pollution-incident-report-form-and-guide.md

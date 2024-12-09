@@ -1,5 +1,5 @@
 ---
-title: WSJ: "U.S. to Trim Commercial-Satellite Use"
+title: 'WSJ: "U.S. to Trim Commercial-Satellite Use"'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/2-20-2012/wsj-us-trim-commercial-satellite-use.md

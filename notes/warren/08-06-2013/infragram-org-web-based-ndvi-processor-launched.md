@@ -1,5 +1,5 @@
 ---
-title: Infragram.org web-based NDVI processor launched
+title: 'Infragram.org web-based NDVI processor launched'
 tagnames: near-infrared-camera, infragram
 author: warren
 path: /notes/warren/08-06-2013/infragram-org-web-based-ndvi-processor-launched.md

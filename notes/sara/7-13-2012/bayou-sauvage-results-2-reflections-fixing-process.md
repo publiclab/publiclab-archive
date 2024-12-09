@@ -1,5 +1,5 @@
 ---
-title: Bayou Sauvage Results 2: reflections on fixing process
+title: 'Bayou Sauvage Results 2: reflections on fixing process'
 tagnames: providence, hydrogen-sulfide-sensing, as220, hydrogen-sulfide, h2s, h2s-photopaper
 author: sara
 path: /notes/sara/7-13-2012/bayou-sauvage-results-2-reflections-fixing-process.md

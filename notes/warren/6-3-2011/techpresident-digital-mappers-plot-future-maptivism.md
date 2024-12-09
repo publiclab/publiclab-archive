@@ -1,5 +1,5 @@
 ---
-title: TechPresident: Digital Mappers Plot the Future of Maptivism
+title: 'TechPresident: Digital Mappers Plot the Future of Maptivism'
 tagnames: lima, open-source, media, techpresident, opensource
 author: warren
 path: /notes/warren/6-3-2011/techpresident-digital-mappers-plot-future-maptivism.md

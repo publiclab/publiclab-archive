@@ -1,5 +1,5 @@
 ---
-title: Channel swapping
+title: 'Channel swapping'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, infrablue, response:8190, tests, response:8261, infragram-conversion
 author: warren
 path: /notes/warren/06-21-2013/channel-swapping.md

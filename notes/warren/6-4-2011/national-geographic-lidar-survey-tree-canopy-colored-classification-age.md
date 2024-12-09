@@ -1,5 +1,5 @@
 ---
-title: National Geographic: LIDAR survey of tree canopy with colored classification of age
+title: 'National Geographic: LIDAR survey of tree canopy with colored classification of age'
 tagnames: 
 author: warren
 path: /notes/warren/6-4-2011/national-geographic-lidar-survey-tree-canopy-colored-classification-age.md

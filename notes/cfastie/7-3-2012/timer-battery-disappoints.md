@@ -1,5 +1,5 @@
 ---
-title: Timer battery disappoints
+title: 'Timer battery disappoints'
 tagnames: near-infrared-camera, kite-mapping, camera-triggering, mk111
 author: cfastie
 path: /notes/cfastie/7-3-2012/timer-battery-disappoints.md

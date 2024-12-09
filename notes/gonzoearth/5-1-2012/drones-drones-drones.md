@@ -1,5 +1,5 @@
 ---
-title: Drones Drones Drones
+title: 'Drones Drones Drones'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/5-1-2012/drones-drones-drones.md

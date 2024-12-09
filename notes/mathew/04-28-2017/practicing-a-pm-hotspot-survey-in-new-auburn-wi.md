@@ -1,5 +1,5 @@
 ---
-title: Practicing a PM hotspot survey in New Auburn, WI
+title: 'Practicing a PM hotspot survey in New Auburn, WI'
 tagnames: wisconsin, air-quality, dust, frac-sand, pm, particle-monitoring, with:warren, with:stevie, with:gretchengehrke, parent:frac-sand, pm-monitoring, with:marlokeno, hotspot-monitoring, activity:site-survey, activity:pm-monitoring, activity:pdr-1500, hot-spot
 author: mathew
 path: /notes/mathew/04-28-2017/practicing-a-pm-hotspot-survey-in-new-auburn-wi.md

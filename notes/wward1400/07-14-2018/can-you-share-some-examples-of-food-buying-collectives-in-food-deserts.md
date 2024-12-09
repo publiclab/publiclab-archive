@@ -1,5 +1,5 @@
 ---
-title: Can we share examples of food buying collectives in food deserts?
+title: 'Can we share examples of food buying collectives in food deserts?'
 tagnames: barnraising, food, request:activity, question:food, crisis-convening, question:food-desert, question:food-deserts
 author: wward1400
 path: /notes/wward1400/07-14-2018/can-you-share-some-examples-of-food-buying-collectives-in-food-deserts.md

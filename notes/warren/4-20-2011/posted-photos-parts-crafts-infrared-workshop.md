@@ -1,5 +1,5 @@
 ---
-title: Posted photos from Parts & Crafts infrared workshop
+title: 'Posted photos from Parts & Crafts infrared workshop'
 tagnames: near-infrared-camera, somerville-massachusetts, boston, partsandcrafts, parts-and-crafts, keychain-cameras, pole-photography
 author: warren
 path: /notes/warren/4-20-2011/posted-photos-parts-crafts-infrared-workshop.md

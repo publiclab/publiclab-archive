@@ -1,5 +1,5 @@
 ---
-title: HAK: Hot Air Kite
+title: 'HAK: Hot Air Kite'
 tagnames: balloon-mapping, kite-balloon-hybrid, first-time-poster
 author: smathermatherUf
 path: /notes/smathermatherUf/03-24-2020/hak-hot-air-kite.md

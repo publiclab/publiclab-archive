@@ -1,5 +1,5 @@
 ---
-title: Wobble adjustments for simple juice bottle rig
+title: 'Wobble adjustments for simple juice bottle rig'
 tagnames: balloon-mapping, kite-mapping, photo-rig, bottle-rig, activity:photo-rig, replication:13948
 author: warren
 path: /notes/warren/11-19-2012/wobble-adjustments-simple-juice-bottle-rig.md

@@ -1,5 +1,5 @@
 ---
-title: How can I can make a raspberry pi camera just with the filters process the crops and immediately produce the results to a computer or to other device, without having to use the website?
+title: 'How can I can make a raspberry pi camera just with the filters process the crops and immediately produce the results to a computer or to other device, without having to use the website?'
 tagnames: near-infrared-camera, remote-sensing, ndvi, near-infrared, infragram, question:ndvi, question:infragram, question:raspberry-pi, agricultural, question:raspberry-pi-infragram, question:image-sequencer, question:infragram-pi
 author: csteran
 path: /notes/csteran/03-13-2018/how-can-i-can-make-a-raspberry-pi-camera-just-with-the-filters-process-the-crops-and-immediately-produce-the-results-to-a-computer-or-to-other-device-without-having-to-use-the-website.md

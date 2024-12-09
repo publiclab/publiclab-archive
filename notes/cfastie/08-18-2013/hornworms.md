@@ -1,5 +1,5 @@
 ---
-title: HORNWORMS
+title: 'HORNWORMS'
 tagnames: near-infrared-camera, vermont, infrared, white-balance, infragram, garden, superblue, insects, ccd, response:8900, hornworms, activity:multispectral-imaging
 author: cfastie
 path: /notes/cfastie/08-18-2013/hornworms.md

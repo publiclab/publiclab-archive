@@ -1,5 +1,5 @@
 ---
-title: How do I...
+title: 'How do I...'
 tagnames: spectrometry, question:spectrometry, first-time-poster
 author: Mekis
 path: /notes/Mekis/04-12-2017/how-do-i.md

@@ -1,5 +1,5 @@
 ---
-title: Monitoring the O'Bannon Creek
+title: 'Monitoring the O'Bannon Creek'
 tagnames: water-quality, water, stream, mid-west, ohio, zoom:17, lat:39.267306, lon:-84.242402
 author: belkinsa
 path: /notes/belkinsa/02-20-2022/monitoring-the-o-bannon-creek.md

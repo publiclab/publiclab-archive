@@ -1,5 +1,5 @@
 ---
-title: Converting GoPro cameras
+title: 'Converting GoPro cameras'
 tagnames: infragram, gopro, infrared-conversion, gopro-ag, activity:infrared-camera-conversion, mini-camera, activity:mini-camera, activity:gopro, camera-conversion
 author: gonzoearth
 path: /notes/gonzoearth/06-24-2013/converting-gopro-cameras.md

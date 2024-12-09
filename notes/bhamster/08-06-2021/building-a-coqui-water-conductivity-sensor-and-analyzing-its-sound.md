@@ -1,5 +1,5 @@
 ---
-title: Building a Coqui water conductivity sensor and analyzing its sound
+title: 'Building a Coqui water conductivity sensor and analyzing its sound'
 tagnames: water-quality, conductivity, coqui, sound, replication:18313, replication:16465
 author: bhamster
 path: /notes/bhamster/08-06-2021/building-a-coqui-water-conductivity-sensor-and-analyzing-its-sound.md

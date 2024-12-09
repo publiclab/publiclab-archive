@@ -1,5 +1,5 @@
 ---
-title: Infrared photography sketches
+title: 'Infrared photography sketches'
 tagnames: 
 author: warren
 path: /notes/warren/2-6-2012/infrared-photography-sketches.md

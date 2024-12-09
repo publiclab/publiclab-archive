@@ -1,5 +1,5 @@
 ---
-title: Kite aerial mapping at 2015 Public Lab Barnraiser
+title: 'Kite aerial mapping at 2015 Public Lab Barnraiser'
 tagnames: mapknitter, kap, mobius-actioncam, stowaway-delta, levitation-delta, barnraising-2015, lat:29.254103, lon:-90.6626, gps-autoplace, canon-hs260sx, soft-parafoil-kites
 author: patcoyle
 path: /notes/patcoyle/11-21-2015/kite-aerial-mapping-at-2015-public-lab-barnraiser.md

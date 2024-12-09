@@ -1,5 +1,5 @@
 ---
-title: How do I take good photographs of environmental issues?
+title: 'How do I take good photographs of environmental issues?'
 tagnames: question:permit, sentinel, question:sentinel, question:reporting, faq-balloon-mapping
 author: stevie
 path: /notes/stevie/06-14-2019/how-do-i-take-good-photographs-of-environmental-issues.md

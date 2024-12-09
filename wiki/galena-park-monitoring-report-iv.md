@@ -1,5 +1,5 @@
 ---
-title: galena-park-monitoring-report-IV
+title: 'galena-park-monitoring-report-IV'
 tagnames: parent:texas, texas
 author: liz
 path: /wiki/galena-park-monitoring-report-iv.md

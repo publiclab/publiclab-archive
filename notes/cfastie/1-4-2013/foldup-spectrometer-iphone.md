@@ -1,5 +1,5 @@
 ---
-title: Foldup Spectrometer for iPhone
+title: 'Foldup Spectrometer for iPhone'
 tagnames: spectrometer, iphone, fold-up-mini-spectrometer, fold-up
 author: cfastie
 path: /notes/cfastie/1-4-2013/foldup-spectrometer-iphone.md

@@ -1,5 +1,5 @@
 ---
-title: Could local mining affect local radon levels? 
+title: 'Could local mining affect local radon levels? '
 tagnames: indoor-air-quality, question:radon, question:industry, question:mining, question:indoor-air-quality
 author: stevie
 path: /notes/stevie/05-03-2019/could-local-mining-affect-local-radon-levels.md

@@ -1,5 +1,5 @@
 ---
-title: "PLOTS-organizers" list nominations and criteria
+title: '"PLOTS-organizers" list nominations and criteria'
 tagnames: 
 author: warren
 path: /wiki/plots-organizers-list-nominations-and-criteria.md

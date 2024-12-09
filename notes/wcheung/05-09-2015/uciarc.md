@@ -1,5 +1,5 @@
 ---
-title: UCIARC
+title: 'UCIARC'
 tagnames: 
 author: wcheung
 path: /notes/wcheung/05-09-2015/uciarc.md

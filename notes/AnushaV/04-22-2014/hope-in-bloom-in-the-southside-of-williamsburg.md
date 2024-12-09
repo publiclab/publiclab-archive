@@ -1,5 +1,5 @@
 ---
-title: Hope in Bloom in the Southside of Williamsburg!
+title: 'Hope in Bloom in the Southside of Williamsburg!'
 tagnames: new-york-city, balloon-mapping, event, garden, southside, williamsburg
 author: AnushaV
 path: /notes/AnushaV/04-22-2014/hope-in-bloom-in-the-southside-of-williamsburg.md

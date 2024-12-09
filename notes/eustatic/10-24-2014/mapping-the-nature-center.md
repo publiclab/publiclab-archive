@@ -1,5 +1,5 @@
 ---
-title: Mapping the Nature Center
+title: 'Mapping the Nature Center'
 tagnames: gulf-coast, balloon-mapping, mobius, urbanwaters, epaurbanwater
 author: eustatic
 path: /10-24-2014/mapping-the-nature-center.md

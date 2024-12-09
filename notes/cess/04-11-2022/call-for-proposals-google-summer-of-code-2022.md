@@ -1,5 +1,5 @@
 ---
-title: Call for proposals:  Google Summer of Code 2022 
+title: 'Call for proposals:  Google Summer of Code 2022 '
 tagnames: gsoc, with:warren, with:liz, call-for-proposals, zoom:6, with:mathildaudufo, gsoc-2022, soc-2022
 author: cess
 path: /notes/cess/04-11-2022/call-for-proposals-google-summer-of-code-2022.md

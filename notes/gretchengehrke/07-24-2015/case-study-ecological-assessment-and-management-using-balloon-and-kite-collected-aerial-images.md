@@ -1,5 +1,5 @@
 ---
-title: Case Study: Ecological Assessment and Management  using Balloon- and Kite-collected Aerial Images
+title: 'Case Study: Ecological Assessment and Management  using Balloon- and Kite-collected Aerial Images'
 tagnames: blog, data-advocacy-case-studies
 author: gretchengehrke
 path: /notes/gretchengehrke/07-24-2015/case-study-ecological-assessment-and-management-using-balloon-and-kite-collected-aerial-images.md

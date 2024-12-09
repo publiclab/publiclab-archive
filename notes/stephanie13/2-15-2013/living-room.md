@@ -1,5 +1,5 @@
 ---
-title: THE LIVING ROOM
+title: 'THE LIVING ROOM'
 tagnames: new-york-city, cypress-hills, chaq, first-time-poster
 author: Stephanie13
 path: /notes/stephanie13/2-15-2013/living-room.md

@@ -1,5 +1,5 @@
 ---
-title: Another one about over-exposure...
+title: 'Another one about over-exposure...'
 tagnames: spectrometer, overexposure, clipping, exposure, sunlight, replication:13460
 author: viechdokter
 path: /notes/viechdokter/04-09-2016/another-one-about-over-exposure.md

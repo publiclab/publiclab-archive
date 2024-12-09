@@ -1,5 +1,5 @@
 ---
-title: Cheap UV photos: Using a UV-pass filter with a CMOS camera
+title: 'Cheap UV photos: Using a UV-pass filter with a CMOS camera'
 tagnames: uv, ultraviolet, filter, hoya, uv-imaging
 author: warren
 path: /notes/warren/4-28-2011/cheap-uv-photos-using-uv-pass-filter-cmos-camera.md

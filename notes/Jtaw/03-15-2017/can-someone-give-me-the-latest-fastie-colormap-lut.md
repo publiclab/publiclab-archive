@@ -1,5 +1,5 @@
 ---
-title: Can someone give me the latest fastie colormap LUT? 
+title: 'Can someone give me the latest fastie colormap LUT? '
 tagnames: question:question
 author: Jtaw
 path: /notes/Jtaw/03-15-2017/can-someone-give-me-the-latest-fastie-colormap-lut.md

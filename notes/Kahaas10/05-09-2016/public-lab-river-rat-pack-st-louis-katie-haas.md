@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack -- St. Louis -- Katie Haas
+title: 'Public Lab River Rat Pack -- St. Louis -- Katie Haas'
 tagnames: balloon-mapping, mississippi-river, mid-west, missouri, publiclabriverratpack, antidrone, pllrp, washu, stlouis
 author: Kahaas10
 path: /notes/Kahaas10/05-09-2016/public-lab-river-rat-pack-st-louis-katie-haas.md

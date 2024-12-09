@@ -1,5 +1,5 @@
 ---
-title: EDGI FOIA event at CUNY in New York City & online
+title: 'EDGI FOIA event at CUNY in New York City & online'
 tagnames: new-york-city, event, live-call, cuny, edgi
 author: liz
 path: /notes/liz/01-20-2017/edgi-foia-event-at-cuny-in-new-york-city-online.md

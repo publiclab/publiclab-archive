@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (403 South Main Street)
+title: 'Art in Ruins (403 South Main Street)'
 tagnames: hidden:response, lat:41.820455, zoom:10, lat:41.69957665997156, lon:-71.50039672851564, lon:-71.404266, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-403-south-main-street.md

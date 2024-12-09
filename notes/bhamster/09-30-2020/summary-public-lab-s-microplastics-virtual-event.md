@@ -1,5 +1,5 @@
 ---
-title: Summary: Public Lab’s microplastics virtual event
+title: 'Summary: Public Lab’s microplastics virtual event'
 tagnames: research, reviews, micro-plastics, microplastics, plastic, research-area-review
 author: bhamster
 path: /notes/bhamster/09-30-2020/summary-public-lab-s-microplastics-virtual-event.md

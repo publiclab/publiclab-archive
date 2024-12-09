@@ -1,5 +1,5 @@
 ---
-title: Why Image Sequencer fails to work from web page ?
+title: 'Why Image Sequencer fails to work from web page ?'
 tagnames: question:general, general
 author: dariusjack
 path: /notes/dariusjack/11-13-2020/why-image-sequencer-fails-to-work-from-web-page.md

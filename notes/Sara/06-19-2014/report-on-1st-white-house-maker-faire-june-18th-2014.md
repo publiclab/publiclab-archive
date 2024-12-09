@@ -1,5 +1,5 @@
 ---
-title: Report on 1st White House Maker Faire June 18th 2014
+title: 'Report on 1st White House Maker Faire June 18th 2014'
 tagnames: hydrogen-sulfide-sensing, grassrootsmapping, petcoke, makerfaire, chicago, white-house, make
 author: sara
 path: /notes/Sara/06-19-2014/report-on-1st-white-house-maker-faire-june-18th-2014.md

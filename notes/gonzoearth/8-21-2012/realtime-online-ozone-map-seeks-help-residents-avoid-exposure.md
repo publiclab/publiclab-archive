@@ -1,5 +1,5 @@
 ---
-title: realtime online ozone map seeks to help residents avoid exposure
+title: 'realtime online ozone map seeks to help residents avoid exposure'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/8-21-2012/realtime-online-ozone-map-seeks-help-residents-avoid-exposure.md

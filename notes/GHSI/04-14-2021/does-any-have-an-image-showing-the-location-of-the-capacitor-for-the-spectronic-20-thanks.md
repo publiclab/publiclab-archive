@@ -1,5 +1,5 @@
 ---
-title: Does any have an image showing the location of the capacitor for the Spectronic 20? Thanks
+title: 'Does any have an image showing the location of the capacitor for the Spectronic 20? Thanks'
 tagnames: question:general, general, first-time-poster
 author: GHSI
 path: /notes/GHSI/04-14-2021/does-any-have-an-image-showing-the-location-of-the-capacitor-for-the-spectronic-20-thanks.md

@@ -1,5 +1,5 @@
 ---
-title: Re3DP Trawl
+title: 'Re3DP Trawl'
 tagnames: water-quality, micro-plastics, microplastics, plastics, trawl, first-time-poster, activity:microplastics
 author: TestOurWaters
 path: /notes/TestOurWaters/06-19-2019/re3dp-trawl.md

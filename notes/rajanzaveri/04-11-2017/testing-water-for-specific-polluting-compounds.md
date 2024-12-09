@@ -1,5 +1,5 @@
 ---
-title: Testing Water For Specific Polluting Compounds
+title: 'Testing Water For Specific Polluting Compounds'
 tagnames: spectrometer, lead, mercury, question:spectrometry, tar, chromium, nickel, copper, vocs, question:general, question:spectrometry-sampling, question:water-sampling, naphthol, naphthalene, sevin, organochlorines, volatile-organochlorine-compounds, hexachloroethane, hexachlorobutadiene, hch, question:spectrometry-turbidity
 author: rajanzaveri
 path: /notes/rajanzaveri/04-11-2017/testing-water-for-specific-polluting-compounds.md

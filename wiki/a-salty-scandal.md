@@ -1,5 +1,5 @@
 ---
-title: A Salty Scandal
+title: 'A Salty Scandal'
 tagnames: 
 author: vvincent
 path: /wiki/a-salty-scandal.md

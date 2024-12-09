@@ -1,5 +1,5 @@
 ---
-title: Fall Workshops in NYC- Oil & Gas
+title: 'Fall Workshops in NYC- Oil & Gas'
 tagnames: workshops, nyc, oil-and-gas, simple-air-sensor
 author: Bronwen
 path: /notes/Bronwen/11-18-2019/fall-workshops-in-nyc-oil-gas.md

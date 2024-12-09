@@ -1,5 +1,5 @@
 ---
-title: "Worldometer" The Alarming Rise Of The World's Population Amid Depleting Water Resources 
+title: '"Worldometer" The Alarming Rise Of The World's Population Amid Depleting Water Resources '
 tagnames: microplastics, zoom:5, lat:22.004174, lon:76.003417
 author: TheChessGym
 path: /notes/TheChessGym/04-11-2022/worldometer-the-alarming-rise-of-the-world-s-population-amid-depleting-water-resources.md

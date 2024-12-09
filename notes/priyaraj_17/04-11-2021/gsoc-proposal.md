@@ -1,5 +1,5 @@
 ---
-title: GSOC Proposal
+title: 'GSOC Proposal'
 tagnames: first-time-poster, gsoc-2021-proposals
 author: priyaraj_17
 path: /notes/priyaraj_17/04-11-2021/gsoc-proposal.md

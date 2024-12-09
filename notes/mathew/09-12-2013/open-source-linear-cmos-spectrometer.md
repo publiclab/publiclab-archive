@@ -1,5 +1,5 @@
 ---
-title: Open Source Linear CMOS Spectrometer
+title: 'Open Source Linear CMOS Spectrometer'
 tagnames: spectrometer, spectrometry
 author: mathew
 path: /notes/mathew/09-12-2013/open-source-linear-cmos-spectrometer.md

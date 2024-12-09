@@ -1,5 +1,5 @@
 ---
-title: Event: Welcome to a research area review on mapping for organizing & advocacy
+title: 'Event: Welcome to a research area review on mapping for organizing & advocacy'
 tagnames: event, organizing, research, event:rsvp, rsvp:liz, advocacy, reviews, research-area-review, rsvp:amocorro, date:05-11-2021, rsvp:seankmcginnis
 author: bhamster
 path: /notes/bhamster/04-28-2021/event-welcome-to-a-research-area-review-on-mapping-for-organizing-advocacy.md

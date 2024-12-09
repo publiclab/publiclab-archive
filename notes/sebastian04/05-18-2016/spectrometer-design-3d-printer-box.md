@@ -1,5 +1,5 @@
 ---
-title:  Spectrometer design 3d printer box
+title: ' Spectrometer design 3d printer box'
 tagnames: spectrometer, 3d, webcam, 3d-printing
 author: sebastian04
 path: /notes/sebastian04/05-18-2016/spectrometer-design-3d-printer-box.md

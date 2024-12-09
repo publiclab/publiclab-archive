@@ -1,5 +1,5 @@
 ---
-title: Where can someone send a strange substance found on their property for analysis?
+title: 'Where can someone send a strange substance found on their property for analysis?'
 tagnames: soil, superfund, toxic-waste, soil-sampling, question:sampling, question:soil-sampling, question:superfund, labs, question:soil
 author: bbutler
 path: /notes/bbutler/09-14-2017/where-can-someone-send-a-strange-substance-found-on-their-property-for-analysis.md

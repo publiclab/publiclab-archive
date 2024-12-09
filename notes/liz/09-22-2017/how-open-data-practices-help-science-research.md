@@ -1,5 +1,5 @@
 ---
-title: how open data practices help science research
+title: 'how open data practices help science research'
 tagnames: readings, with:gretchengehrke, reproducibility
 author: liz
 path: /notes/liz/09-22-2017/how-open-data-practices-help-science-research.md

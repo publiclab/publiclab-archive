@@ -1,5 +1,5 @@
 ---
-title: Converging on an 1886 viewpoint
+title: 'Converging on an 1886 viewpoint'
 tagnames: kite-mapping, middlebury, vermont, kite, middlebury-college, kaptery, saturnv, skyshield, half-spherical, littleplanet, birdseye, response:12370, s100-gps
 author: cfastie
 path: /notes/cfastie/11-08-2015/converging-on-an-1886-viewpoint.md

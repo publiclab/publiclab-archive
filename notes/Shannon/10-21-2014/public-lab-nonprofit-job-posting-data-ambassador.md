@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit job posting: Data Ambassador
+title: 'Public Lab nonprofit job posting: Data Ambassador'
 tagnames: nonprofit
 author: Shannon
 path: /notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-data-ambassador.md

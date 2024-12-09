@@ -1,5 +1,5 @@
 ---
-title: Video tutorial: Decisions With Distortions
+title: 'Video tutorial: Decisions With Distortions'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/10-21-2011/decisions-distortions.md

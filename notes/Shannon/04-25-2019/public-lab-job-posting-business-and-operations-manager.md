@@ -1,5 +1,5 @@
 ---
-title: Public Lab job posting: Business and Operations Manager
+title: 'Public Lab job posting: Business and Operations Manager'
 tagnames: nonprofit, blog, jobs
 author: Shannon
 path: /notes/Shannon/04-25-2019/public-lab-job-posting-business-and-operations-manager.md

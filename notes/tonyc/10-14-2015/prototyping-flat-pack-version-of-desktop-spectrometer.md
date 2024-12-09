@@ -1,5 +1,5 @@
 ---
-title: Prototyping flat-pack version of Desktop Spectrometer 
+title: 'Prototyping flat-pack version of Desktop Spectrometer '
 tagnames: spectrometer, dsk, desktop-spectrometry-kit, papercraft, kits-initiative, dsk3
 author: tonyc
 path: /notes/tonyc/10-14-2015/prototyping-flat-pack-version-of-desktop-spectrometer.md

@@ -1,5 +1,5 @@
 ---
-title: Oil Testing Kit Initial Electronics
+title: 'Oil Testing Kit Initial Electronics'
 tagnames: spectrometer, fluorescence, cuvette, oil-testing-kit, barnstar:basic, cuvette-frame, response:12616
 author: cbreuer
 path: /notes/cbreuer/02-06-2016/oil-testing-kit-initial-electronics.md

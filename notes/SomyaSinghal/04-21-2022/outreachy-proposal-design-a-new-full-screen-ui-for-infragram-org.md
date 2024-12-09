@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal:Design a new full-screen UI for Infragram.org
+title: 'Outreachy proposal:Design a new full-screen UI for Infragram.org'
 tagnames: software, outreachy, first-time-poster, zoom:11, outreachy-2022, outreachy-summer-2022, lat:23.830576, lon:91.288146
 author: SomyaSinghal
 path: /notes/SomyaSinghal/04-21-2022/outreachy-proposal-design-a-new-full-screen-ui-for-infragram-org.md

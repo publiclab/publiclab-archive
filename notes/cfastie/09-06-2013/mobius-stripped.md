@@ -1,5 +1,5 @@
 ---
-title: Mobius, stripped
+title: 'Mobius, stripped'
 tagnames: near-infrared-camera, ndvi, infragram, histogram, infragram-conversion, infragram-sandbox, mobius-actioncam, rcgroups, response:9293
 author: cfastie
 path: /notes/cfastie/09-06-2013/mobius-stripped.md

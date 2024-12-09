@@ -1,5 +1,5 @@
 ---
-title: Fellowship Teams
+title: 'Fellowship Teams'
 tagnames: organizing, fellows, fellowship, parent:fellows, fellowship-team
 author: stevie
 path: /wiki/fellowship-teams.md

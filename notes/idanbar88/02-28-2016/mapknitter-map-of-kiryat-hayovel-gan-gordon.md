@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Kiryat HaYovel - Gan Gordon
+title: 'MapKnitter map of Kiryat HaYovel - Gan Gordon'
 tagnames: mapknitter, lat:31.768387, lon:35.176601
 author: idanbar88
 path: /notes/idanbar88/02-28-2016/mapknitter-map-of-kiryat-hayovel-gan-gordon.md

@@ -1,5 +1,5 @@
 ---
-title: Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works
+title: 'Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works'
 tagnames: csf, one-cranston, csf17, lat:41.781842, lon:-71.430369, unearthing-pvd, unearthing-pvd-sites, lat:41.013065, lon:-71.015625
 author: srgonsalves1
 path: /notes/srgonsalves1/12-05-2019/recipes-for-dyes-chemicals-metals-and-acids-at-cranston-print-works.md

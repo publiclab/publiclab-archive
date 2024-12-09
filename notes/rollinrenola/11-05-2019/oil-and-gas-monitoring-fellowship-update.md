@@ -1,5 +1,5 @@
 ---
-title: Oil and Gas Monitoring  Fellowship Update:
+title: 'Oil and Gas Monitoring  Fellowship Update:'
 tagnames: oil-and-gas-water-trio
 author: rollinrenola
 path: /notes/rollinrenola/11-05-2019/oil-and-gas-monitoring-fellowship-update.md

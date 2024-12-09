@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast Spring Fling! 
+title: 'Gulf Coast Spring Fling! '
 tagnames: gulf-coast, balloon-mapping, spectrometry, event, water-quality, event:rsvp, urbanwater, coqui, urbanwaters, waterquality, oiltestkit, date:03-14-2015, rsvp:jlwhitbeck, rsvp:abbeyghart, rsvp:jeanellsullivan
 author: stevie
 path: /notes/stevie/02-03-2015/gulf-coast-spring-fling.md

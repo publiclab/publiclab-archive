@@ -1,5 +1,5 @@
 ---
-title: Can I get spatial resolution by making multiple parallel slits?
+title: 'Can I get spatial resolution by making multiple parallel slits?'
 tagnames: question:spectrometer
 author: dgidon
 path: /notes/dgidon/02-22-2018/can-i-get-spatial-resolution-by-making-multiple-parallel-slits.md

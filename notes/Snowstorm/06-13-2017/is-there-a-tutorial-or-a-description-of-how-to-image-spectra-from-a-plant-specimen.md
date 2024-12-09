@@ -1,5 +1,5 @@
 ---
-title: Is there a tutorial or a description of how to image spectra from a plant specimen?
+title: 'Is there a tutorial or a description of how to image spectra from a plant specimen?'
 tagnames: spectrometer, spectralworkbench, red, uvc, save, question:general
 author: Snowstorm
 path: /notes/Snowstorm/06-13-2017/is-there-a-tutorial-or-a-description-of-how-to-image-spectra-from-a-plant-specimen.md

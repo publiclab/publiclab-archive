@@ -1,5 +1,5 @@
 ---
-title: How to install CHDK
+title: 'How to install CHDK'
 tagnames: near-infrared-camera, video, chdk, tutorial
 author: cfastie
 path: /notes/cfastie/5-14-2012/how-install-chdk.md

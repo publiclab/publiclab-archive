@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of SAE Balloon Mapping
+title: 'MapKnitter map of SAE Balloon Mapping'
 tagnames: mapknitter, first-time-poster, lat:29.8648599, lon:77.8965787
 author: saeiitr
 path: /notes/saeiitr/03-06-2019/mapknitter-map-of-sae-balloon-mapping.md

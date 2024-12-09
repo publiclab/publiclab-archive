@@ -1,5 +1,5 @@
 ---
-title: Riffle 0.1.1 Debugging
+title: 'Riffle 0.1.1 Debugging'
 tagnames: riffle, data-logging
 author: donblair
 path: /notes/donblair/01-21-2016/riffle-0-1-1-debugging.md

@@ -1,5 +1,5 @@
 ---
-title: Water Quality Sensor
+title: 'Water Quality Sensor'
 tagnames: new-york-city, arduino, water-quality, water, water-quality-sensor, tool, dontflushme, method, project:water-quality
 author: liz
 path: /wiki/water-quality-sensor.md

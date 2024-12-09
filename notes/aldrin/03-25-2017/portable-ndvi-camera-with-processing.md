@@ -1,5 +1,5 @@
 ---
-title: portable NDVi camera with processing
+title: 'portable NDVi camera with processing'
 tagnames: ndvi, question:general
 author: aldrin
 path: /notes/aldrin/03-25-2017/portable-ndvi-camera-with-processing.md

@@ -1,5 +1,5 @@
 ---
-title: How To Make Time Lapse Spectrometer
+title: 'How To Make Time Lapse Spectrometer'
 tagnames: spectrometry, raspberry-pi, timelapse, question:spectrometry, question:spectral-workbench, answered, pi-camera, question:timelapse, question:raspberry-pi, raspberry-pi-spectrometer, question:raspberry-pi-spectrometer, activity:pi-camera
 author: LightWaveResearch8000
 path: /notes/LightWaveResearch8000/07-14-2017/how-to-make-time-lapse-spectrometer.md

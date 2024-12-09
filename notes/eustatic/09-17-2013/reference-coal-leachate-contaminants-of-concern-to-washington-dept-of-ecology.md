@@ -1,5 +1,5 @@
 ---
-title: Reference:  Coal leachate contaminants of concern to Washington Dept of Ecology
+title: 'Reference:  Coal leachate contaminants of concern to Washington Dept of Ecology'
 tagnames: gulf-coast, coal, coal-export
 author: eustatic
 path: /09-17-2013/reference-coal-leachate-contaminants-of-concern-to-washington-dept-of-ecology.md

@@ -1,5 +1,5 @@
 ---
-title: Is our error reporting adequate?
+title: 'Is our error reporting adequate?'
 tagnames: website, question:website
 author: icarito
 path: /notes/icarito/06-23-2020/is-our-error-reporting-adequate.md

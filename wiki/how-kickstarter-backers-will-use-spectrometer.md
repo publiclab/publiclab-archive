@@ -1,5 +1,5 @@
 ---
-title: How Kickstarter backers will use the spectrometer
+title: 'How Kickstarter backers will use the spectrometer'
 tagnames: spectrometer, fold-up-mini-spectrometer
 author: Shannon
 path: /wiki/how-kickstarter-backers-will-use-spectrometer.md

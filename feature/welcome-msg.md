@@ -1,5 +1,5 @@
 ---
-title: welcome-msg
+title: 'welcome-msg'
 tagnames: 
 author: warren
 path: /feature/welcome-msg.md

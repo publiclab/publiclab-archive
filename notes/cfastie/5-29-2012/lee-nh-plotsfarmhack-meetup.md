@@ -1,5 +1,5 @@
 ---
-title: Lee, NH PLOTS/FarmHack Meetup
+title: 'Lee, NH PLOTS/FarmHack Meetup'
 tagnames: balloon-mapping, near-infrared-camera, grassrootsmapping, ndvi, nir, farmhack, cropcover, ifarm
 author: cfastie
 path: /notes/cfastie/5-29-2012/lee-nh-plotsfarmhack-meetup.md

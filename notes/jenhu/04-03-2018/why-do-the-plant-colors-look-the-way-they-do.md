@@ -1,5 +1,5 @@
 ---
-title: Why do the plant colors look the way they do?
+title: 'Why do the plant colors look the way they do?'
 tagnames: infrared, near-infrared, plant, plant-health, color, question:infragram, answered
 author: jenhu
 path: /notes/jenhu/04-03-2018/why-do-the-plant-colors-look-the-way-they-do.md

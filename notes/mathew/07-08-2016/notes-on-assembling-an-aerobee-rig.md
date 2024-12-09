@@ -1,5 +1,5 @@
 ---
-title: Notes on assembling an Aerobee Rig
+title: 'Notes on assembling an Aerobee Rig'
 tagnames: kite-mapping, kite-aerial-photography, kite, kaptery, aerobee, difficulty:easy, category:build, activity:photo-rig
 author: mathew
 path: /notes/mathew/07-08-2016/notes-on-assembling-an-aerobee-rig.md

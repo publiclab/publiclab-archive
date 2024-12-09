@@ -1,5 +1,5 @@
 ---
-title: Spectroscopy & My Life So Far
+title: 'Spectroscopy & My Life So Far'
 tagnames: spectrometer, spectral-analysis, openaccess, opendata, openinstrument, opentools, opendesign, commons-based-peer-production, systems-integration, openresearch, openscience, first-time-poster
 author: 31gane
 path: /notes/31gane/12-28-2017/spectroscopy-my-life-so-far.md

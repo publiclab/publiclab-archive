@@ -1,5 +1,5 @@
 ---
-title: Mapping Curriculum Image Processing
+title: 'Mapping Curriculum Image Processing'
 tagnames: education, curriculum, map-curriculum
 author: warren
 path: /wiki/mapping-curriculum-image-processing.md

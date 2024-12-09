@@ -1,5 +1,5 @@
 ---
-title: Spectrometry update on IdeaLab blog
+title: 'Spectrometry update on IdeaLab blog'
 tagnames: spectrometer, idealab
 author: warren
 path: /notes/warren/9-13-2012/spectrometry-update-idealab-blog.md

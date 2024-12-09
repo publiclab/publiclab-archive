@@ -1,5 +1,5 @@
 ---
-title: What are the best settings for a Camera?
+title: 'What are the best settings for a Camera?'
 tagnames: spectrometer, spectrometry, question:spectrometer, white, balance, gain, question:general, general
 author: amayas
 path: /notes/amayas/03-27-2021/what-are-the-best-settings-for-a-camera.md

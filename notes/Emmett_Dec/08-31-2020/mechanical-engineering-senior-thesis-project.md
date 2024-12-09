@@ -1,5 +1,5 @@
 ---
-title: Update #1: OSIDC Senior Thesis Project
+title: 'Update #1: OSIDC Senior Thesis Project'
 tagnames: raspberry-pi, umass-amherst, first-time-poster, zoom:6, lat:42.386759, lon:-72.530051
 author: Emmett_Dec
 path: /notes/Emmett_Dec/08-31-2020/mechanical-engineering-senior-thesis-project.md

@@ -1,5 +1,5 @@
 ---
-title: Do you do Soil Testing and Analysis? 
+title: 'Do you do Soil Testing and Analysis? '
 tagnames: event, soil, methods, openhour, soil-testing, soil-analysis, question:soil, soil-contamination, response:18344
 author: DanielleS
 path: /notes/DanielleS/03-24-2019/do-you-do-soil-testing-and-analysis.md

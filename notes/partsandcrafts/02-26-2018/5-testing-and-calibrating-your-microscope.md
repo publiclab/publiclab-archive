@@ -1,5 +1,5 @@
 ---
-title: Testing and Calibrating Your Microscope
+title: 'Testing and Calibrating Your Microscope'
 tagnames: raspberry-pi, with:kgradow1, with:warren, microscope, raspberry-pi-cameras, activity:microscope, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope, activity:community-microscope-usage, pin:activity:community-microscope-usage
 author: partsandcrafts
 path: /notes/partsandcrafts/02-26-2018/5-testing-and-calibrating-your-microscope.md

@@ -1,5 +1,5 @@
 ---
-title: Nighttime Balloon Mapping
+title: 'Nighttime Balloon Mapping'
 tagnames: balloon-mapping
 author: jbreen
 path: /notes/jbreen/10-17-2013/nighttime-balloon-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: Question: Could this be used to monitor a construction site? 
+title: 'Question: Could this be used to monitor a construction site? '
 tagnames: arduino, dustduino, question:dustduino, question:pm, demolition, question:demolition
 author: DustinBlock
 path: /notes/DustinBlock/02-24-2015/question-could-this-be-used-to-monitor-a-construction-site.md

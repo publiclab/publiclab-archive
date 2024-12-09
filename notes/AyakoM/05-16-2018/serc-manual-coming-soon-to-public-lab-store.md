@@ -1,5 +1,5 @@
 ---
-title: Introducing the SERC Manual
+title: 'Introducing the SERC Manual'
 tagnames: events, civic-event, organizing, guide, blog, communityengagement, manual, booklet, booklets, serc, ds4si, socialemergency, socialemergencyresponsecenter, sercmanual, socialintervention, radicallibrary, public-lab-press
 author: AyakoM
 path: /notes/AyakoM/05-16-2018/serc-manual-coming-soon-to-public-lab-store.md

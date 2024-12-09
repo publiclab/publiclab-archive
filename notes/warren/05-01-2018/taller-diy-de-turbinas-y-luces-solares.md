@@ -1,5 +1,5 @@
 ---
-title: Taller DIY de turbinas y luces solares
+title: 'Taller DIY de turbinas y luces solares'
 tagnames: 
 author: warren
 path: /notes/warren/05-01-2018/taller-diy-de-turbinas-y-luces-solares.md

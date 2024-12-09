@@ -1,5 +1,5 @@
 ---
-title: Do you or your community have a set of images in need of analysis? 
+title: 'Do you or your community have a set of images in need of analysis? '
 tagnames: barnraising, question:barnraising
 author: sspatharioti
 path: /notes/sspatharioti/10-31-2017/do-you-or-your-community-have-a-set-of-images-in-need-of-analysis.md

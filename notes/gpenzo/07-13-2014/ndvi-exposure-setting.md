@@ -1,5 +1,5 @@
 ---
-title: NDVI exposure setting
+title: 'NDVI exposure setting'
 tagnames: ndvi, calibration, infragram, exposure, time
 author: gpenzo
 path: /notes/gpenzo/07-13-2014/ndvi-exposure-setting.md

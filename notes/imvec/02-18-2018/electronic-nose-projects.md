@@ -1,5 +1,5 @@
 ---
-title: List of electronic nose projects
+title: 'List of electronic nose projects'
 tagnames: air-quality, odor, smell, smell-detection, odor-logging, activity:odor-logging
 author: imvec
 path: /notes/imvec/02-18-2018/electronic-nose-projects.md

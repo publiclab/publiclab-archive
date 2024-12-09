@@ -1,5 +1,5 @@
 ---
-title: Citizen Science Investigations on the Waterfront
+title: 'Citizen Science Investigations on the Waterfront'
 tagnames: new-york-city, event, event:rsvp, date:02-18-2015
 author: liz
 path: /notes/liz/02-18-2015/citizen-science-investigations-on-the-waterfront.md

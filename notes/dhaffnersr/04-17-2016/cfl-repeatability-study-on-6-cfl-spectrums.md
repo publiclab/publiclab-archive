@@ -1,5 +1,5 @@
 ---
-title: CFL Repeatability Study on 6 CFL spectrums
+title: 'CFL Repeatability Study on 6 CFL spectrums'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/04-17-2016/cfl-repeatability-study-on-6-cfl-spectrums.md

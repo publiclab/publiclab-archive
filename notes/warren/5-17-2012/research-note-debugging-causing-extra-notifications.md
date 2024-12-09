@@ -1,5 +1,5 @@
 ---
-title: Research Note debugging causing extra notifications
+title: 'Research Note debugging causing extra notifications'
 tagnames: bugs, server-status
 author: warren
 path: /notes/warren/5-17-2012/research-note-debugging-causing-extra-notifications.md

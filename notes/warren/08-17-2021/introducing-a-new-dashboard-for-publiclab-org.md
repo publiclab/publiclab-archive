@@ -1,5 +1,5 @@
 ---
-title: Introducing a new Dashboard for PublicLab.org
+title: 'Introducing a new Dashboard for PublicLab.org'
 tagnames: website, design, code, barnstar:basic, wwg, dashboard, ui, outreachy
 author: warren
 path: /notes/warren/08-17-2021/introducing-a-new-dashboard-for-publiclab-org.md

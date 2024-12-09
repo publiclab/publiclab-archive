@@ -1,5 +1,5 @@
 ---
-title: Toward calibrating H2S sensors.
+title: 'Toward calibrating H2S sensors.'
 tagnames: hydrogen-sulfide-sensing, calibration, hydrogen-sulfide, h2s, h2s-calibration
 author: JSummers
 path: /notes/JSummers/11-20-2014/toward-calibrating-h2s-sensors.md

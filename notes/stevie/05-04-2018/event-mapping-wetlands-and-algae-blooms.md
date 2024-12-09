@@ -1,5 +1,5 @@
 ---
-title: Event: Mapping wetlands and algae blooms 
+title: 'Event: Mapping wetlands and algae blooms '
 tagnames: gulf-coast, nir, wetlands, mapping, event, new-orleans, algae, nas
 author: stevie
 path: /notes/stevie/05-04-2018/event-mapping-wetlands-and-algae-blooms.md

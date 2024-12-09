@@ -1,5 +1,5 @@
 ---
-title: Build a sound-generating Coqui conductivity sensor (new version!)
+title: 'Build a sound-generating Coqui conductivity sensor (new version!)'
 tagnames: water-quality, conductivity, coqui, activity:coqui, sound, with:zengirl2, with:asnow, pin:activity:coqui, activity:one-cranston
 author: warren
 path: /notes/warren/03-01-2019/build-a-sound-generating-coqui-conductivity-sensor.md

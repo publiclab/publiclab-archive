@@ -1,5 +1,5 @@
 ---
-title: Wrapping up a research area review on soil contamination
+title: 'Wrapping up a research area review on soil contamination'
 tagnames: soil, research, reviews, soil-contamination, research-area-review, pin:soil
 author: bhamster
 path: /notes/bhamster/04-07-2021/wrapping-up-a-research-area-review-on-soil-contamination.md

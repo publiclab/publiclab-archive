@@ -1,5 +1,5 @@
 ---
-title: civil architecture and open hardware
+title: 'civil architecture and open hardware'
 tagnames: balloon-mapping, open-hardware, jerusalem, ohs, open-hardware-summit, civil-architecture, rome
 author: hagitkeysar
 path: /notes/hagitkeysar/06-12-2014/civil-architecture-and-open-hardware.md

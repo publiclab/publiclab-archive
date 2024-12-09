@@ -1,5 +1,5 @@
 ---
-title: More thermal flashlight images
+title: 'More thermal flashlight images'
 tagnames: 
 author: warren
 path: /notes/warren/12-31-2011/more-thermal-flashlight-images.md

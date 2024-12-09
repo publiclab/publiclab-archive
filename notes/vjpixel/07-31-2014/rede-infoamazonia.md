@@ -1,5 +1,5 @@
 ---
-title: Rede InfoAmazonia
+title: 'Rede InfoAmazonia'
 tagnames: water-quality-monitoring, water-quality, brasil, water-qualit-sensor, amazon, amazonia, redeinfoamazonia, first-time-poster
 author: vjpixel
 path: /notes/vjpixel/07-31-2014/rede-infoamazonia.md

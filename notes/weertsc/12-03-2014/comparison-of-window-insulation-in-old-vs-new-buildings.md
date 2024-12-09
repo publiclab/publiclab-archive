@@ -1,5 +1,5 @@
 ---
-title: Comparison of Window Insulation in Old vs New buildings
+title: 'Comparison of Window Insulation in Old vs New buildings'
 tagnames: thermal-photography, thermal-flashlight, insulation, windows, heat, replication:625
 author: weertsc
 path: /notes/weertsc/12-03-2014/comparison-of-window-insulation-in-old-vs-new-buildings.md

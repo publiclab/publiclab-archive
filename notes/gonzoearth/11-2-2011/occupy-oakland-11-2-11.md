@@ -1,5 +1,5 @@
 ---
-title: Occupy Oakland 11-2-11 
+title: 'Occupy Oakland 11-2-11 '
 tagnames: oakland, protest-mapping, protest, california, occupy
 author: gonzoearth
 path: /notes/gonzoearth/11-2-2011/occupy-oakland-11-2-11.md

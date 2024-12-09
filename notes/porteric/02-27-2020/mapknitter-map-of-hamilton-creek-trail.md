@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Hamilton Creek Trail
+title: 'MapKnitter map of Hamilton Creek Trail'
 tagnames: mapknitter, first-time-poster, lat:45.6370422912, lon:-121.9797441247, lat:45.636642, lon:-121.980088, zoom:17
 author: porteric
 path: /notes/porteric/02-27-2020/mapknitter-map-of-hamilton-creek-trail.md

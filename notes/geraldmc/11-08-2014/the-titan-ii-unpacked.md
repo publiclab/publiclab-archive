@@ -1,5 +1,5 @@
 ---
-title: The Titan II, Unpacked 
+title: 'The Titan II, Unpacked '
 tagnames: gulf-coast, ndvi, kite-aerial-photography, aerial-photography, kites, titan, sugarcane, kaptery
 author: geraldmc
 path: /notes/geraldmc/11-08-2014/the-titan-ii-unpacked.md

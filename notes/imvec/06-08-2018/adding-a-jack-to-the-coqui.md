@@ -1,5 +1,5 @@
 ---
-title: Adding a jack to the Coqui
+title: 'Adding a jack to the Coqui'
 tagnames: water, tutorial, conductivity, open-water, coqui, category:build, gaimec, dificulty:easy, replication:13459, activity:coqui-usage, coqui-audio-jack
 author: imvec
 path: /notes/imvec/06-08-2018/adding-a-jack-to-the-coqui.md

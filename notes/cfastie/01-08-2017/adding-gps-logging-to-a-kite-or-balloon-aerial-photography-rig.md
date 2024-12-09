@@ -1,5 +1,5 @@
 ---
-title: Adding GPS logging to a kite or balloon aerial photography rig
+title: 'Adding GPS logging to a kite or balloon aerial photography rig'
 tagnames: balloon-mapping, kite-mapping, arduino, kap, gps, kite-photography, skyshield, difficulty:medium, category:verify, activity:aerial-photography, skypod
 author: cfastie
 path: /notes/cfastie/01-08-2017/adding-gps-logging-to-a-kite-or-balloon-aerial-photography-rig.md

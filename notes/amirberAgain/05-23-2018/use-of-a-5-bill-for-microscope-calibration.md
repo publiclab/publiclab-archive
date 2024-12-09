@@ -1,5 +1,5 @@
 ---
-title: Use of a 5$ bill for microscope calibration
+title: 'Use of a 5$ bill for microscope calibration'
 tagnames: barnstar:basic, microscope, activity:microscope, microscope-calibration, activity:community-microscope-usage, activity:microscope-calibration, activity:starter-community-microscope
 author: amirberAgain
 path: /notes/amirberAgain/05-23-2018/use-of-a-5-bill-for-microscope-calibration.md

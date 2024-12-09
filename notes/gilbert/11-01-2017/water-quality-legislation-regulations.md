@@ -1,5 +1,5 @@
 ---
-title: Water Quality Legislation, Regulations & Availability
+title: 'Water Quality Legislation, Regulations & Availability'
 tagnames: water-quality, water-regulation, clean-water-act, global-water-availability
 author: gilbert
 path: /notes/gilbert/11-01-2017/water-quality-legislation-regulations.md

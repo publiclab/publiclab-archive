@@ -1,5 +1,5 @@
 ---
-title: Conducting a Literature Review
+title: 'Conducting a Literature Review'
 tagnames: research, tool, literature-review, method
 author: gretchengehrke
 path: /wiki/literature-review.md

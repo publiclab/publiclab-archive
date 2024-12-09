@@ -1,5 +1,5 @@
 ---
-title: How do I search for the spectra recorded by a specific user?
+title: 'How do I search for the spectra recorded by a specific user?'
 tagnames: search, question:spectral-workbench, user, first-time-poster, profile
 author: nnn16
 path: /notes/nnn16/02-27-2019/how-do-i-search-for-the-spectra-recorded-by-a-specific-user.md

@@ -1,5 +1,5 @@
 ---
-title: Outreachy: Infragram.org full-screen UI design 
+title: 'Outreachy: Infragram.org full-screen UI design '
 tagnames: outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
 author: muskansingh529020
 path: /notes/muskansingh529020/04-20-2022/outreachy-infragram-org-full-screen-ui-design.md

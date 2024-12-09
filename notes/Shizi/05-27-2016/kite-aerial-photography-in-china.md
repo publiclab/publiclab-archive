@@ -1,5 +1,5 @@
 ---
-title: Kite aerial photography in China
+title: 'Kite aerial photography in China'
 tagnames: kite-mapping, kite-aerial-photography, asia, china, prc, first-time-poster
 author: Shizi
 path: /notes/Shizi/05-27-2016/kite-aerial-photography-in-china.md

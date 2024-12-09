@@ -1,5 +1,5 @@
 ---
-title: Mobile cuvette holder
+title: 'Mobile cuvette holder'
 tagnames: spectrometer, vermont, cuvettes, 3d-printing, sampling, oil-sampling-kit, smartphone, snowfest2014, activity:spectrometry-sampling
 author: cfastie
 path: /notes/cfastie/02-25-2014/mobile-cuvette-holder.md

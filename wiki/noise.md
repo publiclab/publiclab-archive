@@ -1,5 +1,5 @@
 ---
-title: Noise
+title: 'Noise'
 tagnames: audio, noise, method, nuisance
 author: stevie
 path: /wiki/noise.md

@@ -1,5 +1,5 @@
 ---
-title: Jakarta Flood Kite Mapping 
+title: 'Jakarta Flood Kite Mapping '
 tagnames: kite-mapping, gopro, asia, indonesia, flood, stormwater, jakarta, flooding, activity:kite-mapping, water-level, flood-mapping, location:blurred, mini-camera, first-time-poster, activity:mini-camera, activity:flood-mapping, lat:-6, lon:106
 author: willie
 path: /notes/Willie/02-05-2014/jakarta-flood-kite-mapping.md

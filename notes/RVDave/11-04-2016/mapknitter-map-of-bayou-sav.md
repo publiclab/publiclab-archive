@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Bayou Sav
+title: 'MapKnitter map of Bayou Sav'
 tagnames: mapknitter, lat:30.0330059998, lon:-89.8617482185
 author: RVDave
 path: /notes/RVDave/11-04-2016/mapknitter-map-of-bayou-sav.md

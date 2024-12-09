@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Time Filter
+title: 'Spectrometer Time Filter'
 tagnames: spectrometer, webcam, desktop-spectrometer, noise-reduction, signal-to-noise-ratio, stability, noise
 author: stoft
 path: /notes/stoft/04-17-2016/spectrometer-time-filter.md

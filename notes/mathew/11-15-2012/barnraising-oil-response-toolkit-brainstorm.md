@@ -1,5 +1,5 @@
 ---
-title: Barnraising: Oil Response Toolkit Brainstorm
+title: 'Barnraising: Oil Response Toolkit Brainstorm'
 tagnames: balloon-mapping, spectrometer, kite-mapping, oil-spill, oil-spill-toolkit, oil-response-toolkit
 author: mathew
 path: /notes/mathew/11-15-2012/barnraising-oil-response-toolkit-brainstorm.md

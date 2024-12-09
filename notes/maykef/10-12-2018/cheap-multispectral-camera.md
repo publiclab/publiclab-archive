@@ -1,5 +1,5 @@
 ---
-title: Cheap multispectral camera 
+title: 'Cheap multispectral camera '
 tagnames: near-infrared-camera, remote-sensing, ndvi, wetlands, agriculture, software, near-infrared, soil, infragram, tool, 19, question:general, method, agricultural, fertilizer, remote-
 author: maykef
 path: /notes/maykef/10-12-2018/cheap-multispectral-camera.md

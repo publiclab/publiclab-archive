@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter 10.19.12
+title: 'Public Lab Community Newsletter 10.19.12'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/10-20-2012/public-lab-community-newsletter-101912.md

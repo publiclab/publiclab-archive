@@ -1,5 +1,5 @@
 ---
-title:  Canon PowerShot SD750 
+title: ' Canon PowerShot SD750 '
 tagnames: agriculture, urban-planning, tool, land-use, multispectral-imaging, question:general, land-change
 author: rjun86
 path: /notes/rjun86/01-26-2018/canon-powershot-sd750.md

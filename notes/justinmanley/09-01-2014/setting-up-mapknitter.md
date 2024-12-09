@@ -1,5 +1,5 @@
 ---
-title: Setting up MapKnitter
+title: 'Setting up MapKnitter'
 tagnames: mapknitter, gsoc, gsoc-2014, barnstar:basic, mapknitter-development
 author: justinmanley
 path: /notes/justinmanley/09-01-2014/setting-up-mapknitter.md

@@ -1,5 +1,5 @@
 ---
-title: Cool It 
+title: 'Cool It '
 tagnames: nasa, apps, space-apps-challenge, urban-heat-island
 author: baskotasusan
 path: /notes/baskotasusan/04-15-2014/cool-it.md

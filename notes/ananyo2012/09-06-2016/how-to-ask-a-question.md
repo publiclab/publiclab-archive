@@ -1,5 +1,5 @@
 ---
-title: How to ask a question
+title: 'How to ask a question'
 tagnames: answered, question:demo
 author: ananyo2012
 path: /notes/ananyo2012/09-06-2016/how-to-ask-a-question.md

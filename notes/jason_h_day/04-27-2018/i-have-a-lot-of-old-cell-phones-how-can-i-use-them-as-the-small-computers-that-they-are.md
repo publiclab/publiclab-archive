@@ -1,5 +1,5 @@
 ---
-title: I have a lot of "old" cell phones. How can I use them as the small computers that they are?
+title: 'I have a lot of "old" cell phones. How can I use them as the small computers that they are?'
 tagnames: equipment, landfills, recycling, question:general, electronics, cellphones, used, question:recycling, question:used-equipment, used-equipment
 author: jason_h_day
 path: /notes/jason_h_day/04-27-2018/i-have-a-lot-of-old-cell-phones-how-can-i-use-them-as-the-small-computers-that-they-are.md

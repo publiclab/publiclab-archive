@@ -1,5 +1,5 @@
 ---
-title: Fluorescent classroom lights
+title: 'Fluorescent classroom lights'
 tagnames: 
 author: sncato
 path: /notes/sncato/10-24-2018/fluorescent-classroom-lights.md

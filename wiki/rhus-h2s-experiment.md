@@ -1,5 +1,5 @@
 ---
-title: Rhus H2S experiment
+title: 'Rhus H2S experiment'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s
 author: sara
 path: /wiki/rhus-h2s-experiment.md

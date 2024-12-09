@@ -1,5 +1,5 @@
 ---
-title: Preliminary Plymouth Plant Plume Ponderings
+title: 'Preliminary Plymouth Plant Plume Ponderings'
 tagnames: thermal-photography, plume, massachusetts, tac, plymouth, thermal-imaging, cape-cod-bay-watch, landsat, nuclear, thermal-pollution, snowfest, satellite-imagery, northeast, barnstar:basic, response:7189, snowfest2014, lat:41.942861, lon:-70.576729, place:plymouth-nuclear-station
 author: donblair
 path: /notes/donblair/02-23-2014/preliminary-plymouth-plant-plume-ponderings.md

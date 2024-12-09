@@ -1,5 +1,5 @@
 ---
-title: Call for proposals: Outreachy Winter 2022 round
+title: 'Call for proposals: Outreachy Winter 2022 round'
 tagnames: with:warren, outreachy, call-for-proposals, zoom:6, outreachy-2022, with:mathildaudufo, lat:-1.010689, lon:35.99121
 author: cess
 path: /notes/cess/10-24-2022/call-for-proposals-outreachy-winter-2022-round.md

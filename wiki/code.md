@@ -1,5 +1,5 @@
 ---
-title: code
+title: 'code'
 tagnames: redirect:9491
 author: warren
 path: /wiki/code.md

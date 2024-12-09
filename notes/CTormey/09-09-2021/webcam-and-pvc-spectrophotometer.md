@@ -1,5 +1,5 @@
 ---
-title: Webcam and PVC Spectrophotometer 
+title: 'Webcam and PVC Spectrophotometer '
 tagnames: spectrophotometer, webcam, first-time-poster, zoom:6, lat:43.662938, lon:-116.687359
 author: CTormey
 path: /notes/CTormey/09-09-2021/webcam-and-pvc-spectrophotometer.md

@@ -1,5 +1,5 @@
 ---
-title: Can PM4 be monitored with the MiniVol?
+title: 'Can PM4 be monitored with the MiniVol?'
 tagnames: wisconsin, dust, silica, frac-sand, pm, particle-sensing, pm-monitoring, minivol, question:minivol, question:silica, question:pm-monitoring, question:dust, question:dust-sampling
 author: mathew
 path: /notes/mathew/02-11-2017/can-pm4-be-monitored-with-the-minivol.md

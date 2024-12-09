@@ -1,5 +1,5 @@
 ---
-title: Quantifying reflector brightness assistance
+title: 'Quantifying reflector brightness assistance'
 tagnames: spectrometer, reflective, cuvette, clipping, oil-testing-kit, exposure, brightness, reflector
 author: warren
 path: /notes/warren/10-17-2014/quantifying-reflector-brightness-assistance.md

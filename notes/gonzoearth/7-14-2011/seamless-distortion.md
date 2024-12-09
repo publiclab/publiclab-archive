@@ -1,5 +1,5 @@
 ---
-title: seamless distortion?
+title: 'seamless distortion?'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/7-14-2011/seamless-distortion.md

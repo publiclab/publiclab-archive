@@ -1,5 +1,5 @@
 ---
-title: Polynomial
+title: 'Polynomial'
 tagnames: spectrometer, vermont, calibration, spectralworkbench, cfl, ebert, nonlinear, non-linear, polynomial
 author: cfastie
 path: /notes/cfastie/3-6-2013/polynomial.md

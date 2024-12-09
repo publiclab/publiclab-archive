@@ -1,5 +1,5 @@
 ---
-title: Join DocCom -- the Barnraising documentation committee
+title: 'Join DocCom -- the Barnraising documentation committee'
 tagnames: documentation, barnraising, lumcon, doccom, barnraiser, barnraising-2016, replication:15986
 author: warren
 path: /notes/warren/11-03-2016/join-doccom-the-barnraising-documentation-committee.md

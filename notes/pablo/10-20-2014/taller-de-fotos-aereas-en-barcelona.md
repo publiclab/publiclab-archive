@@ -1,5 +1,5 @@
 ---
-title: Taller de fotos con globo en Barcelona
+title: 'Taller de fotos con globo en Barcelona'
 tagnames: balloon-mapping, spain, workshop, event, lang:es, event:rsvp, date:10-25-2014, rsvp:pablo, replication:14022
 author: pablo
 path: /notes/pablo/10-20-2014/taller-de-fotos-aereas-en-barcelona.md

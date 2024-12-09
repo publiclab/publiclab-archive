@@ -1,5 +1,5 @@
 ---
-title: gmf-8-Molly-Gordon
+title: 'gmf-8-Molly-Gordon'
 tagnames: grassrootsmappingforum, blog, style:fancy, gmf-8
 author: liz
 path: /wiki/gmf-8-molly-gordon.md

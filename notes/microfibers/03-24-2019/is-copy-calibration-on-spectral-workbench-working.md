@@ -1,5 +1,5 @@
 ---
-title: Is copy calibration on Spectral Workbench working?
+title: 'Is copy calibration on Spectral Workbench working?'
 tagnames: question:spectral-workbench, first-time-poster
 author: microfibers
 path: /notes/microfibers/03-24-2019/is-copy-calibration-on-spectral-workbench-working.md

@@ -1,5 +1,5 @@
 ---
-title: Clockwork Picavet
+title: 'Clockwork Picavet'
 tagnames: picavet, autokap, clockwork, cheap, first-time-poster
 author: John_Wells
 path: /notes/johnwells/2-26-2013/clockwork-picavet.md

@@ -1,5 +1,5 @@
 ---
-title: Aerial Mapping workshop Triennale Milano
+title: 'Aerial Mapping workshop Triennale Milano'
 tagnames: balloon-mapping, android, event, baloon-mapping, milano, milan, italy, replication:14022
 author: Costantino
 path: /notes/Costantino/05-15-2013/aerial-mapping-workshop-triennale-milano.md

@@ -1,5 +1,5 @@
 ---
-title: Can you blur the location of a Purple Air device?
+title: 'Can you blur the location of a Purple Air device?'
 tagnames: air-quality, pm, question:air-quality, question:pm, particulate-matter, purpleair, question:purpleair
 author: stevie
 path: /notes/stevie/03-05-2020/can-you-blur-the-location-of-a-purple-air-device.md

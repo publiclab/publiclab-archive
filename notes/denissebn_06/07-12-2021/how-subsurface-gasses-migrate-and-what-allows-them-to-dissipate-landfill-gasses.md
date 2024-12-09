@@ -1,5 +1,5 @@
 ---
-title: How subsurface gasses migrate and what allows them to dissipate? Landfill gasses
+title: 'How subsurface gasses migrate and what allows them to dissipate? Landfill gasses'
 tagnames: landfill, air-quality, air, waste, question:air-quality, air-monitoring, gas-monitoring, question:general, general, question:waste, with:sarasage, question:vvamp, subsurface-gasses, landuse, question:gas-monitoring
 author: denissebn_06
 path: /notes/denissebn_06/07-12-2021/how-subsurface-gasses-migrate-and-what-allows-them-to-dissipate-landfill-gasses.md

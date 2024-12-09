@@ -1,5 +1,5 @@
 ---
-title: pole-mapping-guide
+title: 'pole-mapping-guide'
 tagnames: workshop, polemapping, pole-mapping, parent:gardening-toolkit, gardening-toolkit
 author: liz
 path: /wiki/pole-mapping-guide.md

@@ -1,5 +1,5 @@
 ---
-title: Infragram Webcam and Arduino
+title: 'Infragram Webcam and Arduino'
 tagnames: radiosonde
 author: HoughtonHonors
 path: /notes/HoughtonHonors/03-08-2014/infragram-webcam-and-arduino.md

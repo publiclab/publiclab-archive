@@ -1,5 +1,5 @@
 ---
-title: Use of velcro ties in Balloon mapping
+title: 'Use of velcro ties in Balloon mapping'
 tagnames: gulf-coast, balloon-mapping, balloon-mapping-kit, kit, balloon, washustlouis, washu-stlouis, response:11137
 author: eustatic
 path: /09-16-2014/use-of-velcro-ties-in-balloon-mapping.md

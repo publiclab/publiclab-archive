@@ -1,5 +1,5 @@
 ---
-title: Strategic Plan
+title: 'Strategic Plan'
 tagnames: nonprofit, locked
 author: Shannon
 path: /wiki/strategic-plan.md

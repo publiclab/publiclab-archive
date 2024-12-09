@@ -1,5 +1,5 @@
 ---
-title: Batch work
+title: 'Batch work'
 tagnames: spectrometer, macro, serial, formats, file
 author: viechdokter
 path: /notes/viechdokter/04-17-2016/batch-work.md

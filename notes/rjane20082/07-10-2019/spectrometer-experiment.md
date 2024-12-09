@@ -1,5 +1,5 @@
 ---
-title: Spectrometer experiment
+title: 'Spectrometer experiment'
 tagnames: spectrometer, spectroscopy, question:general, first-time-poster, response:38
 author: rjane20082
 path: /notes/rjane20082/07-10-2019/spectrometer-experiment.md

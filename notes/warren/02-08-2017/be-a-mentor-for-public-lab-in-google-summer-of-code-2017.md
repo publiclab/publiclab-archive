@@ -1,5 +1,5 @@
 ---
-title: Be a mentor for Public Lab in Google Summer of Code 2017
+title: 'Be a mentor for Public Lab in Google Summer of Code 2017'
 tagnames: software, gsoc, web, developers, wwg, gsoc-2017
 author: warren
 path: /notes/warren/02-08-2017/be-a-mentor-for-public-lab-in-google-summer-of-code-2017.md

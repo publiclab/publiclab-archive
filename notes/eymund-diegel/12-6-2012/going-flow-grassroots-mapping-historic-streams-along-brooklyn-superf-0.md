@@ -1,5 +1,5 @@
 ---
-title: Going with the Flow – Grassroots mapping historic streams along a Brooklyn Superfund site.
+title: 'Going with the Flow – Grassroots mapping historic streams along a Brooklyn Superfund site.'
 tagnames: new-york-city, gowanus, brooklyn, new-york, gowanus-canal-conservancy, battle-of-brooklyn, gowanus-canal-superfund-site, water-quality-mapping, first-street-basin, Denton's Tidal Mill, gowanus-dredgers-canoe-club, proteus-gowanus, circuit-board-tombstones, northeast
 author: eymund
 path: /notes/eymund-diegel/12-6-2012/going-flow-grassroots-mapping-historic-streams-along-brooklyn-superf-0.md

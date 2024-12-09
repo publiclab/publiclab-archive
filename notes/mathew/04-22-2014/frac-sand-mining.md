@@ -1,5 +1,5 @@
 ---
-title: Frac Sand mining- polar light microscopy?
+title: 'Frac Sand mining- polar light microscopy?'
 tagnames: particulate-sensing, air-quality, dust, silica, particulate, frac-sand, pm, midwest, polarizer, polarized-light, polarized-light-microscopy, particle-monitoring, parent:frac-sand, polarizing-filter
 author: mathew
 path: /notes/mathew/04-22-2014/frac-sand-mining.md

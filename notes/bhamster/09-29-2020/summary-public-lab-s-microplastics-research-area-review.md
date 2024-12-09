@@ -1,5 +1,5 @@
 ---
-title: Summary: Public Lab’s microplastics research area review
+title: 'Summary: Public Lab’s microplastics research area review'
 tagnames: research, blog, reviews, micro-plastics, microplastics, plastic, research-area-review, plastic-pollution
 author: bhamster
 path: /notes/bhamster/09-29-2020/summary-public-lab-s-microplastics-research-area-review.md

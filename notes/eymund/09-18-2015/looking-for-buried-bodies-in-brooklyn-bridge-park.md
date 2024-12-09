@@ -1,5 +1,5 @@
 ---
-title: LOOKING FOR BURIED BODIES IN BROOKLYN BRIDGE PARK
+title: 'LOOKING FOR BURIED BODIES IN BROOKLYN BRIDGE PARK'
 tagnames: event, event:rsvp, date:09-19-2015
 author: eymund
 path: /notes/eymund/09-18-2015/looking-for-buried-bodies-in-brooklyn-bridge-park.md

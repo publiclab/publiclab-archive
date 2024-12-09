@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack -- St. Louis – Xiaoqing Qin
+title: 'Public Lab River Rat Pack -- St. Louis – Xiaoqing Qin'
 tagnames: balloon-mapping, blog, mississippi-river, mid-west, missouri, publiclabriverratpack, antidrone, stlouis, response:13093
 author: Xiaoqing
 path: /notes/Xiaoqing/05-11-2016/public-lab-river-rat-pack-st-louis-xiaoqing-qin.md

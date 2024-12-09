@@ -1,5 +1,5 @@
 ---
-title: Another low-fi pendulum rig
+title: 'Another low-fi pendulum rig'
 tagnames: diy-mount-kit
 author: tonyc
 path: /notes/tonyc/01-09-2016/another-low-fi-pendulum-rig.md

@@ -1,5 +1,5 @@
 ---
-title: Live Dissolved Oxygen and Redox Potential Sensor
+title: 'Live Dissolved Oxygen and Redox Potential Sensor'
 tagnames: water-quality, dissolved-oxygen, wastewater, define, include, orp, water-sensors, wastewater-organic-matter
 author: jesseslone
 path: /notes/jesseslone/04-10-2017/live-dissolved-oxygen-and-redox-potential-sensor.md

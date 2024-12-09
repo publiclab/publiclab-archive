@@ -1,5 +1,5 @@
 ---
-title: Spectrometer alignment ideas
+title: 'Spectrometer alignment ideas'
 tagnames: spectrometer, calibration
 author: warren
 path: /notes/warren/5-1-2012/spectrometer-alignment-ideas.md

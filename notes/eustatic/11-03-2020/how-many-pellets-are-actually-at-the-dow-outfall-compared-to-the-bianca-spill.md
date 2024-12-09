@@ -1,5 +1,5 @@
 ---
-title: How many pellets are actually at the Dow outfall, compared to the Bianca Spill?
+title: 'How many pellets are actually at the Dow outfall, compared to the Bianca Spill?'
 tagnames: water-quality, microplastics, zoom:13, nurdles, dow, nurdle-patrol, nurdle-survey, plastic-pellets, lat:29.999989, lon:-90.45209
 author: eustatic
 path: /11-03-2020/how-many-pellets-are-actually-at-the-dow-outfall-compared-to-the-bianca-spill.md

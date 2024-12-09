@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench usage
+title: 'Spectral Workbench usage'
 tagnames: spectrometer, spectralworkbench, upload, red, parent:spectral-workbench, uvc, manual, save
 author: warren
 path: /wiki/spectral-workbench-usage.md

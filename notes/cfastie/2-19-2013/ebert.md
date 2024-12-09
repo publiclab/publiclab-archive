@@ -1,5 +1,5 @@
 ---
-title: Ebert
+title: 'Ebert'
 tagnames: spectrometer, vermont, open-hardware, grating, desktop-spectrometer, ebert, upgrade:spectrometry
 author: cfastie
 path: /notes/cfastie/2-19-2013/ebert.md

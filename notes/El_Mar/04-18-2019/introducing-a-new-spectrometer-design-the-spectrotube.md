@@ -1,5 +1,5 @@
 ---
-title: Introducing a new spectrometer design - "The Spectrotube"
+title: 'Introducing a new spectrometer design - "The Spectrotube"'
 tagnames: spectrometer, spectrometry, camera, upgrade:spectrometry, noir, first-time-poster, spectrotube
 author: El_Mar
 path: /notes/El_Mar/04-18-2019/introducing-a-new-spectrometer-design-the-spectrotube.md

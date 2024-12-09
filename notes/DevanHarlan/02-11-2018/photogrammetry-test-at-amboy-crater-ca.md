@@ -1,5 +1,5 @@
 ---
-title: Aerial Photogrammetry Test at Amboy Crater, CA
+title: 'Aerial Photogrammetry Test at Amboy Crater, CA'
 tagnames: balloon-mapping, aerial-photography, photogrammetry, california, photo-rig, aerial-mapping, barnstar:basic, amboy, crater, place:amboy-crater-trail-california-united-states, lat:34.556335, lon:-115.78165
 author: DevanHarlan
 path: /notes/DevanHarlan/02-11-2018/photogrammetry-test-at-amboy-crater-ca.md

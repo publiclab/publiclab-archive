@@ -1,5 +1,5 @@
 ---
-title: Nonprofit Initiatives
+title: 'Nonprofit Initiatives'
 tagnames: nonprofit, open-water, open-air, style:fancy, kits-initiative, open-land, out-of-date
 author: Shannon
 path: /wiki/nonprofit-initiatives.md

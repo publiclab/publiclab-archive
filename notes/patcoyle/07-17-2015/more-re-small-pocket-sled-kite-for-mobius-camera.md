@@ -1,5 +1,5 @@
 ---
-title: More re: small pocket sled kite for Mobius camera
+title: 'More re: small pocket sled kite for Mobius camera'
 tagnames: kap, sled-kite, gimp, mobius-actioncam
 author: patcoyle
 path: /notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camera.md

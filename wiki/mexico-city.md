@@ -1,5 +1,5 @@
 ---
-title: Mexico City
+title: 'Mexico City'
 tagnames: 
 author: adam-griffith
 path: /wiki/mexico-city.md

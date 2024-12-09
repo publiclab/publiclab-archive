@@ -1,5 +1,5 @@
 ---
-title: Social Integration of Public Labs with FB
+title: 'Social Integration of Public Labs with FB'
 tagnames: question:website, question:website-structure
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/03-14-2018/social-integration-of-public-labs-with-fb.md

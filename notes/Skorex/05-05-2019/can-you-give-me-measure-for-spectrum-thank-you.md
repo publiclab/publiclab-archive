@@ -1,5 +1,5 @@
 ---
-title: Can you give me measure for spectrum? Thank you.
+title: 'Can you give me measure for spectrum? Thank you.'
 tagnames: question:spectrometry, question:foldable-spec, first-time-poster
 author: Skorex
 path: /notes/Skorex/05-05-2019/can-you-give-me-measure-for-spectrum-thank-you.md

@@ -1,5 +1,5 @@
 ---
-title: Notes on a method to estimate the slit width of PLOTS-type spectrometers using a reference atmospheric spectrum
+title: 'Notes on a method to estimate the slit width of PLOTS-type spectrometers using a reference atmospheric spectrum'
 tagnames: spectrometer, calibration
 author: dhaffner
 path: /notes/dhaffner/3-6-2012/notes-method-estimate-slit-width-plots-type-spectrometers-using-reference-at.md

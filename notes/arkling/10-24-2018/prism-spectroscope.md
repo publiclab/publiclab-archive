@@ -1,5 +1,5 @@
 ---
-title: Prism Spectroscope
+title: 'Prism Spectroscope'
 tagnames: spectroscopy, color, light, hidden:response, replication:15121, response:17384
 author: arkling
 path: /notes/arkling/10-24-2018/prism-spectroscope.md

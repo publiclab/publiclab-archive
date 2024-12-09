@@ -1,5 +1,5 @@
 ---
-title: Project Night:  DIY Microscopes!
+title: 'Project Night:  DIY Microscopes!'
 tagnames: event, event:rsvp, with:kgradow1, date:10-26-2017, with:wmacfarl, first-time-poster
 author: partsandcrafts
 path: /notes/partsandcrafts/10-22-2017/project-night-at-fabville-somerville-diy-microscopes.md

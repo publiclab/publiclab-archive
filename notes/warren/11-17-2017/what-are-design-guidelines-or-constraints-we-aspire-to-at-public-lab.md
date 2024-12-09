@@ -1,5 +1,5 @@
 ---
-title: What are design guidelines or constraints we aspire to at Public Lab?
+title: 'What are design guidelines or constraints we aspire to at Public Lab?'
 tagnames: kits, design, low-cost, newcomers, accessibility, design-philosophy, cost, question:kits, question:design, question:equity, equity, constraints, goals, question:constraints, complexity, question:community-kits, community-kits
 author: warren
 path: /notes/warren/11-17-2017/what-are-design-guidelines-or-constraints-we-aspire-to-at-public-lab.md

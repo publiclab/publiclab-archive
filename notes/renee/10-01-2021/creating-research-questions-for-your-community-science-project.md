@@ -1,5 +1,5 @@
 ---
-title: Creating Research Questions for Your Community Science Project
+title: 'Creating Research Questions for Your Community Science Project'
 tagnames: education, research, study-design, first-time-poster, infographic, pin:study-design, research-questions
 author: renee
 path: /notes/renee/10-01-2021/creating-research-questions-for-your-community-science-project.md

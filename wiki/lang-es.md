@@ -1,5 +1,5 @@
 ---
-title: lang:es
+title: 'lang:es'
 tagnames: 
 author: xose
 path: /wiki/lang-es.md

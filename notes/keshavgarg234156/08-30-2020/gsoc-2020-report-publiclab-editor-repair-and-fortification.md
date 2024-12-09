@@ -1,5 +1,5 @@
 ---
-title: GSoC 2020 Report: PublicLab.Editor Repair and Fortification
+title: 'GSoC 2020 Report: PublicLab.Editor Repair and Fortification'
 tagnames: 
 author: keshavgarg234156
 path: /notes/keshavgarg234156/08-30-2020/gsoc-2020-report-publiclab-editor-repair-and-fortification.md

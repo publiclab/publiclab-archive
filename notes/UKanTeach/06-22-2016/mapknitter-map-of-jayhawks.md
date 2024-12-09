@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Jayhawks
+title: 'MapKnitter map of Jayhawks'
 tagnames: mapknitter, lat:38.9008966, lon:-94.7253302
 author: UKanTeach
 path: /notes/UKanTeach/06-22-2016/mapknitter-map-of-jayhawks.md

@@ -1,5 +1,5 @@
 ---
-title: Images with our new selfbuilt camera
+title: 'Images with our new selfbuilt camera'
 tagnames: infragram, infragram-camera-testing
 author: GreenLeaves
 path: /notes/GreenLeaves/07-04-2014/images-with-our-new-selfbuilt-camera.md

@@ -1,5 +1,5 @@
 ---
-title: How to Take an Air Quality Sample with a Bucket Monitor
+title: 'How to Take an Air Quality Sample with a Bucket Monitor'
 tagnames: air-quality, bucket-brigade, barnstar:video-documentation, with:kgradow1, africa, advocacy, community-organizing, advocacy-pathways, bucket, bucket-monitor, activity:bucket-monitor, south-africa, south-durban
 author: A_SCH
 path: /notes/A_SCH/11-08-2020/how-to-take-a-sample-with-a-bucket-monitor.md

@@ -1,5 +1,5 @@
 ---
-title: uStream aerial video
+title: 'uStream aerial video'
 tagnames: balloon-mapping, live-streaming
 author: liz
 path: /notes/liz/4-27-2012/ustream-aerial-video.md

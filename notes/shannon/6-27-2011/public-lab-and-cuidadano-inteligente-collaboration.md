@@ -1,5 +1,5 @@
 ---
-title: Public Lab and Cuidadano Inteligente collaboration
+title: 'Public Lab and Cuidadano Inteligente collaboration'
 tagnames: protest-mapping
 author: Shannon
 path: /notes/shannon/6-27-2011/public-lab-and-cuidadano-inteligente-collaboration.md

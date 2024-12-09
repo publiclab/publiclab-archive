@@ -1,5 +1,5 @@
 ---
-title:  Visible Atmospherically Resistant Index (VARI)
+title: ' Visible Atmospherically Resistant Index (VARI)'
 tagnames: question:ndvi, question:infragram, index, question:multispectral-imaging, visible, atmospherically, resistant, indices
 author: rway
 path: /notes/rway/01-18-2018/visible-atmospherically-resistant-index-vari.md

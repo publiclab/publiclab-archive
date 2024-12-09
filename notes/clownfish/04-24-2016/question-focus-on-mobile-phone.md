@@ -1,5 +1,5 @@
 ---
-title: Question: Focus on mobile phone
+title: 'Question: Focus on mobile phone'
 tagnames: question:spectrometry, question:spectral-workbench
 author: clownfish
 path: /notes/clownfish/04-24-2016/question-focus-on-mobile-phone.md

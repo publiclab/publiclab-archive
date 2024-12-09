@@ -1,5 +1,5 @@
 ---
-title: Question: Is dontflush.me service closed? 
+title: 'Question: Is dontflush.me service closed? '
 tagnames: question:dontflushme, question:leif, percifield, question:open-water
 author: lyjune
 path: /notes/lyjune/03-09-2016/question-is-dontflush-me-service-closed.md

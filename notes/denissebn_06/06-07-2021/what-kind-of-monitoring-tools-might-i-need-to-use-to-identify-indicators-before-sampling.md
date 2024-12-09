@@ -1,5 +1,5 @@
 ---
-title: What kind of monitoring tools might I need to use to identify indicators before sampling with the bucket?
+title: 'What kind of monitoring tools might I need to use to identify indicators before sampling with the bucket?'
 tagnames: air-quality, air-monitoring, question:general, general, bucket, question:vvamp
 author: denissebn_06
 path: /notes/denissebn_06/06-07-2021/what-kind-of-monitoring-tools-might-i-need-to-use-to-identify-indicators-before-sampling.md

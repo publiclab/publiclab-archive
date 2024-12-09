@@ -1,5 +1,5 @@
 ---
-title: Thermal photo 2
+title: 'Thermal photo 2'
 tagnames: thermal-photography, thermal-camera, thermal, scanning
 author: warren
 path: /notes/warren/2-21-2011/thermal-photo-2.md

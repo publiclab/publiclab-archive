@@ -1,5 +1,5 @@
 ---
-title: UV Emission Sampling
+title: 'UV Emission Sampling'
 tagnames: 
 author: mathew
 path: /wiki/uv-emission-sampling.md

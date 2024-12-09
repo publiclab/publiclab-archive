@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Update 13: December
+title: 'Web Working Group Update 13: December'
 tagnames: community, web-development, software, plots2, outreach, gsoc, developers, wwg, webwg, gsoc-2016, rich-editor, first-timers-only, software-outreach, firsttimersonly, response:13746, google-code-in
 author: warren
 path: /notes/warren/01-05-2017/web-working-group-update-13-december.md

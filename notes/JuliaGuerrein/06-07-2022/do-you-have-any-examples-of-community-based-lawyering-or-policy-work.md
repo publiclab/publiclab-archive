@@ -1,5 +1,5 @@
 ---
-title: Do you have any examples of community-based lawyering or policy work?
+title: 'Do you have any examples of community-based lawyering or policy work?'
 tagnames: community, legal, advocacy, question:general, general, first-time-poster, law-and-policy
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/06-07-2022/do-you-have-any-examples-of-community-based-lawyering-or-policy-work.md

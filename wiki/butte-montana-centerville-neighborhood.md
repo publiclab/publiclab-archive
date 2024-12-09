@@ -1,5 +1,5 @@
 ---
-title: Butte, Montana: Centerville Neighborhood
+title: 'Butte, Montana: Centerville Neighborhood'
 tagnames: montana, reclamation
 author: Olivia
 path: /wiki/butte-montana-centerville-neighborhood.md

@@ -1,5 +1,5 @@
 ---
-title: Direct sunlight vs. diffuse sunlight...
+title: 'Direct sunlight vs. diffuse sunlight...'
 tagnames: spectrometer, spectrometry, sunlight, replication:13460
 author: viechdokter
 path: /notes/viechdokter/04-07-2016/direct-sunlight-vs-diffuse-sunlight.md

@@ -1,5 +1,5 @@
 ---
-title: Aerial Balloon Mapping in Amherst, MA
+title: 'Aerial Balloon Mapping in Amherst, MA'
 tagnames: amherst, balloon-mapping-kit, massachusetts, urban-planning, umass-amherst, helium, northeast, amherst-media, publiclab-at-umass, makers-and-amherst-media, amherstcollege, helium-balloon, city-planning, first-time-poster
 author: aferland
 path: /notes/aferland/10-21-2014/aerial-balloon-mapping.md

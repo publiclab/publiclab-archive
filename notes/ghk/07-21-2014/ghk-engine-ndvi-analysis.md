@@ -1,5 +1,5 @@
 ---
-title: ghk engine ndvi analysis
+title: 'ghk engine ndvi analysis'
 tagnames: infragram
 author: ghk
 path: /notes/ghk/07-21-2014/ghk-engine-ndvi-analysis.md

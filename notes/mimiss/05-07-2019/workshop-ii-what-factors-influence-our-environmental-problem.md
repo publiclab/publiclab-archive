@@ -1,5 +1,5 @@
 ---
-title: Workshop II: What Factors Influence Our Environmental Problem?
+title: 'Workshop II: What Factors Influence Our Environmental Problem?'
 tagnames: education, workshop, curriculum, activity:education, lesson, exploring-environmental-issues, parent:student-led-community-science-in-the-classroom-a-curriculum, series:student-community-science, activity:student-community-science, with:purl
 author: mimiss
 path: /notes/mimiss/05-07-2019/workshop-ii-what-factors-influence-our-environmental-problem.md

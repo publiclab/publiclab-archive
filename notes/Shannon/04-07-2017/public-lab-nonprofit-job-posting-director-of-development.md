@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit job posting: Director of Development
+title: 'Public Lab nonprofit job posting: Director of Development'
 tagnames: nonprofit, jobs
 author: Shannon
 path: /notes/Shannon/04-07-2017/public-lab-nonprofit-job-posting-director-of-development.md

@@ -1,5 +1,5 @@
 ---
-title: Finding closest match spectra from the database (GSoC) - work done so far
+title: 'Finding closest match spectra from the database (GSoC) - work done so far'
 tagnames: spectrometer, spectrum-matching, matching, spectral-workbench, gsoc, spectral-searching, closest-match
 author: Sreyanth
 path: /notes/Sreyanth/07-29-2013/finding-closest-match-spectra-from-the-database-gsoc-work-done-so-far.md

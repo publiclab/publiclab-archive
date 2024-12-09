@@ -1,5 +1,5 @@
 ---
-title: New Orleans Parish Educators: Join Public Lab for our February Microplastics Workshop!
+title: 'New Orleans Parish Educators: Join Public Lab for our February Microplastics Workshop!'
 tagnames: 
 author: purl
 path: /notes/purl/02-09-2021/new-orleans-parish-educators-join-public-lab-for-a-microplastics-workshop.md

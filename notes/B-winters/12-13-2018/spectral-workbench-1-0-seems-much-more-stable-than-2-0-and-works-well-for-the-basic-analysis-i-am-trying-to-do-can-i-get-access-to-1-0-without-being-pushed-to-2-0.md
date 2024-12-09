@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench 1.0 seems much more stable than 2.0 and works well for the basic analysis I am trying to do, can I get access to 1.0 without being pushed to 2.0?
+title: 'Spectral Workbench 1.0 seems much more stable than 2.0 and works well for the basic analysis I am trying to do, can I get access to 1.0 without being pushed to 2.0?'
 tagnames: spectrometer, spectralworkbench, spectral-workbench-api, question:spectral-workbench, first-time-poster
 author: B-winters
 path: /notes/B-winters/12-13-2018/spectral-workbench-1-0-seems-much-more-stable-than-2-0-and-works-well-for-the-basic-analysis-i-am-trying-to-do-can-i-get-access-to-1-0-without-being-pushed-to-2-0.md

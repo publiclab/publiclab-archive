@@ -1,5 +1,5 @@
 ---
-title: The Effects Of Microplastics On Drinking Water 
+title: 'The Effects Of Microplastics On Drinking Water '
 tagnames: microplastics, lat:22, lon:76, zoom:5
 author: TheChessGym
 path: /notes/TheChessGym/04-01-2022/the-effects-of-microplastics-on-drinking-water.md

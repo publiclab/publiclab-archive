@@ -1,5 +1,5 @@
 ---
-title: Question: Spectrometer  using photosensor
+title: 'Question: Spectrometer  using photosensor'
 tagnames: question:spectral-workbench
 author: Abhay7417
 path: /notes/Abhay7417/02-18-2016/question-spectrometer-using-photosensor.md

@@ -1,5 +1,5 @@
 ---
-title: Tribal usufructuary rights through treaties with the US Government
+title: 'Tribal usufructuary rights through treaties with the US Government'
 tagnames: minnesota, location:blurred, lat:44, place:united-states, zoom:6, mn-land-manoomin-protection, lon:-93, treaty-rights, environmental-law
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/10-22-2022/tribal-usufructuary-rights-through-treaties-with-the-us-government.md

@@ -1,5 +1,5 @@
 ---
-title: Thermal Imaging with RH Workshop's Camera
+title: 'Thermal Imaging with RH Workshop's Camera'
 tagnames: thermal-photography, thermal-flashlight
 author: mathew
 path: /notes/mathew/9-6-2012/thermal-imaging-rh-workshops-camera.md

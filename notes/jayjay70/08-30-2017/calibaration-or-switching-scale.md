@@ -1,5 +1,5 @@
 ---
-title: Calibaration or switching scale?
+title: 'Calibaration or switching scale?'
 tagnames: spectrometry, spectral-workbench, question:spectrometry, question:spectral-workbench
 author: jayjay70
 path: /notes/jayjay70/08-30-2017/calibaration-or-switching-scale.md

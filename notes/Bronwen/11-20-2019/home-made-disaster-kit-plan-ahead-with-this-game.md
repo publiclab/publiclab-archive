@@ -1,5 +1,5 @@
 ---
-title: Home-Made Disaster Kit: Plan Ahead With This Game!
+title: 'Home-Made Disaster Kit: Plan Ahead With This Game!'
 tagnames: barnraising, blog, disaster-response, activity:disaster-response, disaster-response-kit, txbarnraising, texas-barnraising, with:dbsnp, emergency-response-kit, reaccion, txbr2019
 author: Bronwen
 path: /notes/Bronwen/11-20-2019/home-made-disaster-kit-plan-ahead-with-this-game.md

@@ -1,5 +1,5 @@
 ---
-title: Bio-Climatic Housing Monitoring
+title: 'Bio-Climatic Housing Monitoring'
 tagnames: sensors, central-america, housing, heat, community-science, el-salvador, lat:13.69294, lon:-89.218191
 author: dbsnp
 path: /notes/dbsnp/04-09-2019/bio-climatic-housing-monitoring.md

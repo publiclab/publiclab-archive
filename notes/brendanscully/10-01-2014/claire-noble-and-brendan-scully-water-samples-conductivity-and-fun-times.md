@@ -1,5 +1,5 @@
 ---
-title: Claire Nobles and Brendan Scully - Water Samples, Conductivity, and Fun Times 
+title: 'Claire Nobles and Brendan Scully - Water Samples, Conductivity, and Fun Times '
 tagnames: first-time-poster
 author: brendanscully
 path: /notes/brendanscully/10-01-2014/claire-noble-and-brendan-scully-water-samples-conductivity-and-fun-times.md

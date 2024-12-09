@@ -1,5 +1,5 @@
 ---
-title: What’s in your AIRea? Public Lab virtual event on air quality monitoring
+title: 'What’s in your AIRea? Public Lab virtual event on air quality monitoring'
 tagnames: event, research, air-quality, event:rsvp, rsvp:liz, air-sampling, air-sensors, research-area-review, bucket-monitor, rsvp:amocorro, rsvp:ruthnwaiganjo
 author: bhamster
 path: /notes/bhamster/11-23-2020/what-s-in-your-airea-public-lab-virtual-event-on-air-quality-monitoring.md

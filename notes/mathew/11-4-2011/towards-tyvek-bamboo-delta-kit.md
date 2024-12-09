@@ -1,5 +1,5 @@
 ---
-title: Towards a Tyvek & Bamboo Delta Kit
+title: 'Towards a Tyvek & Bamboo Delta Kit'
 tagnames: kite-mapping, diy-kite, tyvek, diy-kites, kite-making, activity:kite-making, activity:tyvek
 author: mathew
 path: /notes/mathew/11-4-2011/towards-tyvek-bamboo-delta-kit.md

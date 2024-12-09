@@ -1,5 +1,5 @@
 ---
-title: IR Photo Reconstruction at Acacia Reservation
+title: 'IR Photo Reconstruction at Acacia Reservation'
 tagnames: balloon-mapping, kap, opendronemap, saturnv, skyshield
 author: dbenjamin
 path: /notes/dbenjamin/09-18-2015/ir-photo-reconstruction-at-acacia-reservation.md

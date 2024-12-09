@@ -1,5 +1,5 @@
 ---
-title: We are having trouble with our map knitting
+title: 'We are having trouble with our map knitting'
 tagnames: website, question:website
 author: jerejack0507
 path: /notes/jerejack0507/05-04-2021/we-are-having-trouble-with-our-map-knitting.md

@@ -1,5 +1,5 @@
 ---
-title: Eymund's thermal fishing sketches
+title: 'Eymund's thermal fishing sketches'
 tagnames: 
 author: warren
 path: /notes/warren/12-8-2011/eymunds-thermal-fishing-sketches.md

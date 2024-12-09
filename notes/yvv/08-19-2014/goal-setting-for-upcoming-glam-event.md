@@ -1,5 +1,5 @@
 ---
-title: Goal-Setting for Upcoming GLAM Event
+title: 'Goal-Setting for Upcoming GLAM Event'
 tagnames: new-york-city, gowanus, gowanus-canal, brooklyn, gowanus-canal-conservancy, event, glam, northeast, goal-setting, first-time-poster
 author: yvv
 path: /notes/yvv/08-19-2014/goal-setting-for-upcoming-glam-event.md

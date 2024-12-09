@@ -1,5 +1,5 @@
 ---
-title: Cancer Alley Air Quality Study
+title: 'Cancer Alley Air Quality Study'
 tagnames: air-quality, oxygen, carbon-dioxide, project, lat:30, lon:-91, study, zoom:6, cancer-alley, with:owentaylor, with:duynguyen
 author: NicholasNail
 path: /notes/NicholasNail/05-19-2021/cancer-alley-air-quality-study.md

@@ -1,5 +1,5 @@
 ---
-title: Power tool case houses multiple KAP rigs
+title: 'Power tool case houses multiple KAP rigs'
 tagnames: plots, barnraising2012, lumcon, publiclaboratory, cocodrie-la
 author: patcoyle
 path: /notes/patcoyle/11-23-2012/power-tool-cases-house-multiple-kap-rigs.md

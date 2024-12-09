@@ -1,5 +1,5 @@
 ---
-title: GIS Day 2021 - November 17th!
+title: 'GIS Day 2021 - November 17th!'
 tagnames: education, gis, data-visualization, research-curation-fellows
 author: laurel_mire
 path: /notes/laurel_mire/11-16-2021/gis-day-2021-november-17th.md

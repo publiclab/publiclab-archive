@@ -1,5 +1,5 @@
 ---
-title: Crown Point Fort infrared
+title: 'Crown Point Fort infrared'
 tagnames: near-infrared-camera, ndvi, kite-aerial-photography, infrared, kap, autokap, kaptery, saturnv, skyshield, response:11975, half-spherical
 author: cfastie
 path: /notes/cfastie/06-15-2015/crown-point-fort-infrared.md

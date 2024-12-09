@@ -1,5 +1,5 @@
 ---
-title: How to get NDVI image by image src instead of choosing image ?
+title: 'How to get NDVI image by image src instead of choosing image ?'
 tagnames: question:ndvi, question:infragram
 author: Ankita
 path: /notes/Ankita/02-12-2018/how-to-get-ndvi-image-by-image-src-instead-of-choosing-image.md

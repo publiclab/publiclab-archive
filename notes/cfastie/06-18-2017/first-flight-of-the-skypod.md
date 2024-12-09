@@ -1,5 +1,5 @@
 ---
-title: First flight of the SkyPod
+title: 'First flight of the SkyPod'
 tagnames: kite-mapping, arduino, kite-aerial-photography, kap, gps, saturnv, skyshield, half-spherical, eos_m, autodesk, skypod, bme280, ublox, skypod-gps-logger, activity:skypod-gps-logger
 author: cfastie
 path: /notes/cfastie/06-18-2017/first-flight-of-the-skypod.md

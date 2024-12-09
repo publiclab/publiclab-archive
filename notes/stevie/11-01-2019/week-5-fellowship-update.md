@@ -1,5 +1,5 @@
 ---
-title: Week 5 Fellowship Update 
+title: 'Week 5 Fellowship Update '
 tagnames: fellowship, oil-and-gas, oil-and-gas-water-trio, with:rollinrenola
 author: stevie
 path: /notes/stevie/11-01-2019/week-5-fellowship-update.md

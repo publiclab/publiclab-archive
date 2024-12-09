@@ -1,5 +1,5 @@
 ---
-title: Staten Island North Shore meets with GLAM
+title: 'Staten Island North Shore meets with GLAM'
 tagnames: new-york-city, event, glam, radiation, northeast, great-photos, staten-island
 author: liz
 path: /notes/liz/05-06-2014/staten-island-north-shore-meets-with-glam.md

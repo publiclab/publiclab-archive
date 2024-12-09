@@ -1,5 +1,5 @@
 ---
-title: Middlebury Meetup April 30
+title: 'Middlebury Meetup April 30'
 tagnames: near-infrared-camera, ndvi, vermont, farmhack, agriculture, event
 author: cfastie
 path: /notes/cfastie/04-26-2013/middlebury-meetup.md

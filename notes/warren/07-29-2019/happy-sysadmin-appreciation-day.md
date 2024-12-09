@@ -1,5 +1,5 @@
 ---
-title: Happy Sysadmin appreciation day!
+title: 'Happy Sysadmin appreciation day!'
 tagnames: code, wwg
 author: warren
 path: /notes/warren/07-29-2019/happy-sysadmin-appreciation-day.md

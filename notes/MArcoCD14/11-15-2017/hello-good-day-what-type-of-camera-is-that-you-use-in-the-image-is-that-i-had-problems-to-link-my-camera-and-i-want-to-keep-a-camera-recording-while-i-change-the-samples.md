@@ -1,5 +1,5 @@
 ---
-title: Hello good day what type of camera is that you use in the image?, is that I had problems to link my camera and I want to keep a camera recording while I change the samples
+title: 'Hello good day what type of camera is that you use in the image?, is that I had problems to link my camera and I want to keep a camera recording while I change the samples'
 tagnames: spectrometer, spectrometry, replication, leaffest-2016, dssk, question:general, response:13463
 author: MArcoCD14
 path: /notes/MArcoCD14/11-15-2017/hello-good-day-what-type-of-camera-is-that-you-use-in-the-image-is-that-i-had-problems-to-link-my-camera-and-i-want-to-keep-a-camera-recording-while-i-change-the-samples.md

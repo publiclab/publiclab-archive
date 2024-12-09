@@ -1,5 +1,5 @@
 ---
-title: Collaboratively generating more knowledge: Public Lab’s approach to citizen science
+title: 'Collaboratively generating more knowledge: Public Lab’s approach to citizen science'
 tagnames: 
 author: stevie
 path: /notes/stevie/09-08-2016/collaboratively-generating-more-knowledge-public-lab-s-approach-to-citizen-science.md

@@ -1,5 +1,5 @@
 ---
-title: How (not) to grow Lotus for wetland transplanting
+title: 'How (not) to grow Lotus for wetland transplanting'
 tagnames: bienvenue, plant, neworleans, cultivation, office, lotus, swamp, stbernard
 author: eustatic
 path: /08-23-2018/how-not-to-grow-lotus-for-wetland-transplanting.md

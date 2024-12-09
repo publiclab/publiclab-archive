@@ -1,5 +1,5 @@
 ---
-title: Public Lab Barnraisings
+title: 'Public Lab Barnraisings'
 tagnames: gulf-coast, conferences, events, registration, barnraising, events:gulf-coast, list:plots-barnraising, parent:events, locked, dataforblacklives, pin:barnraising, pin:events, pin:conference
 author: Shannon
 path: /wiki/barnraising.md

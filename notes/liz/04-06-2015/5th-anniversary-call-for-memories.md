@@ -1,5 +1,5 @@
 ---
-title: 5th Anniversary call for memories!
+title: '5th Anniversary call for memories!'
 tagnames: community, events, event
 author: liz
 path: /notes/liz/04-06-2015/5th-anniversary-call-for-memories.md

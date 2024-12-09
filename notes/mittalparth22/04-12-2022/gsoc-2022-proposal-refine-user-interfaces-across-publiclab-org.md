@@ -1,5 +1,5 @@
 ---
-title: GSoC'22 Proposal: Refine User Interfaces across PublicLab.org
+title: 'GSoC'22 Proposal: Refine User Interfaces across PublicLab.org'
 tagnames: software, gsoc, soc, first-time-poster, gsoc-2022, gsoc-2022-proposals, response:30348
 author: mittalparth22
 path: /notes/mittalparth22/04-12-2022/gsoc-2022-proposal-refine-user-interfaces-across-publiclab-org.md

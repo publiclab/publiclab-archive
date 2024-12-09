@@ -1,5 +1,5 @@
 ---
-title: A Catalogue of Civic Open Hardware Projects
+title: 'A Catalogue of Civic Open Hardware Projects'
 tagnames: open-hardware
 author: bsugar
 path: /wiki/a-catalogue-of-civic-open-hardware-projects.md

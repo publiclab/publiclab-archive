@@ -1,5 +1,5 @@
 ---
-title: Introducing the DH 4.2 Spectrometer (prototype build 4.0.1)
+title: 'Introducing the DH 4.2 Spectrometer (prototype build 4.0.1)'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-11-2016/introducing-the-dh-4-2-spectrometer-prototype-build-4-0-1.md

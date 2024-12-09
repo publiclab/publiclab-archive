@@ -1,5 +1,5 @@
 ---
-title: Question: RE: Desktop Spectrometry Kit
+title: 'Question: RE: Desktop Spectrometry Kit'
 tagnames: question:spectrometry
 author: Airship7
 path: /notes/Airship7/03-02-2016/question-re-desktop-spectrometry-kit.md

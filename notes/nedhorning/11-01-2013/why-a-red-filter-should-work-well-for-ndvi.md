@@ -1,5 +1,5 @@
 ---
-title: Why a red filter should work well for NDVI
+title: 'Why a red filter should work well for NDVI'
 tagnames: ndvi, calibration, infrared, infragram, wratten25a, super-red, red-vs-blue
 author: nedhorning
 path: /notes/nedhorning/11-01-2013/why-a-red-filter-should-work-well-for-ndvi.md

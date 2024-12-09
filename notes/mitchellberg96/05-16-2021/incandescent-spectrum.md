@@ -1,5 +1,5 @@
 ---
-title: Incandescent Spectrum
+title: 'Incandescent Spectrum'
 tagnames: first-time-poster, zoom:4, lat:42.287148, lon:-85.605247
 author: mitchellberg96
 path: /notes/mitchellberg96/05-16-2021/incandescent-spectrum.md

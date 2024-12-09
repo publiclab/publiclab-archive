@@ -1,5 +1,5 @@
 ---
-title: Kite Mapping Near Pilgrim Power Plant
+title: 'Kite Mapping Near Pilgrim Power Plant'
 tagnames: balloon-mapping, kite-mapping, boston, watchdog, plymouth, powerplant, cape-cod-bay-watch, nuclear, great-photos, first-time-poster
 author: karenv
 path: /notes/karenv/5-1-2013/kite-mapping-near-pilgrim.md

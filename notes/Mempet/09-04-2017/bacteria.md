@@ -1,5 +1,5 @@
 ---
-title: Bacteria
+title: 'Bacteria'
 tagnames: water-quality, bacteria
 author: Mempet
 path: /notes/Mempet/09-04-2017/bacteria.md

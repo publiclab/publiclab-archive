@@ -1,5 +1,5 @@
 ---
-title: manually type beta url
+title: 'manually type beta url'
 tagnames: 
 author: prof_braino
 path: /notes/profbraino/1-22-2013/manually-type-beta-url.md

@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight Workshop RISD!
+title: 'Thermal Flashlight Workshop RISD!'
 tagnames: 
 author: sara
 path: /notes/sara/2-23-2012/thermal-flashlight-workshop-risd.md

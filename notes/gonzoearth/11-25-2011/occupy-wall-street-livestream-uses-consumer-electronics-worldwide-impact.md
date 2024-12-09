@@ -1,5 +1,5 @@
 ---
-title: Occupy Wall Street livestream uses consumer electronics for worldwide impact
+title: 'Occupy Wall Street livestream uses consumer electronics for worldwide impact'
 tagnames: new-york-city, protest-mapping, occupy, northeast
 author: gonzoearth
 path: /notes/gonzoearth/11-25-2011/occupy-wall-street-livestream-uses-consumer-electronics-worldwide-impact.md

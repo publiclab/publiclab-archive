@@ -1,5 +1,5 @@
 ---
-title: Fracking
+title: 'Fracking'
 tagnames: fracking, environmental, hydrofracking, oil-and-gas
 author: laurel_mire
 path: /wiki/fracking.md

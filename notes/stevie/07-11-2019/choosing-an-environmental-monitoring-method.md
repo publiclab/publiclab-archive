@@ -1,5 +1,5 @@
 ---
-title: Choosing an Environmental Monitoring Method
+title: 'Choosing an Environmental Monitoring Method'
 tagnames: activity:education, study-design, with:mimiss, series:student-community-science, activity:student-community-science, pin:study-design
 author: stevie
 path: /notes/stevie/07-11-2019/choosing-an-environmental-monitoring-method.md

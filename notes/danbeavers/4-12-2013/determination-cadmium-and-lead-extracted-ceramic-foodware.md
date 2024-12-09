@@ -1,5 +1,5 @@
 ---
-title: Determination of Cadmium and Lead Extracted from Ceramic Foodware
+title: 'Determination of Cadmium and Lead Extracted from Ceramic Foodware'
 tagnames: spectrometer, contamination, spectralchallenge, assays
 author: danbeavers
 path: /notes/danbeavers/4-12-2013/determination-cadmium-and-lead-extracted-ceramic-foodware.md

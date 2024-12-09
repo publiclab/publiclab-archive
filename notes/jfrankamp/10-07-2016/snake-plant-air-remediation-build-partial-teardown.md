@@ -1,5 +1,5 @@
 ---
-title: Snake Plant Air Remediation Build & Partial Teardown
+title: 'Snake Plant Air Remediation Build & Partial Teardown'
 tagnames: remediation, air-quality, plant, barnstar:basic, formaldehyde, open-air, indoor-air-quality, indoor-air, pick, current, vocs, replication:13480, activity:formaldehyde, first-time-poster, activity:indoor-air-quality
 author: jfrankamp
 path: /notes/jfrankamp/10-07-2016/snake-plant-air-remediation-build-partial-teardown.md

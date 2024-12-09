@@ -1,5 +1,5 @@
 ---
-title: Reflection — sensor work
+title: 'Reflection — sensor work'
 tagnames: sensor-journalism
 author: jacktemp
 path: /notes/jacktemp/10-06-2014/reflection-sensor-work.md

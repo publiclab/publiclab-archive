@@ -1,5 +1,5 @@
 ---
-title: Wateristic: an underwater bioluminescence detector
+title: 'Wateristic: an underwater bioluminescence detector'
 tagnames: arduino, water, underwater, project, underwater-image, water-sensor, wateristic
 author: omarion
 path: /wiki/wateristic-and-underwater-bioluminescence-detector.md

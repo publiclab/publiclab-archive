@@ -1,5 +1,5 @@
 ---
-title: Putting Odor Issues on the Map: Using citizen science to curb odors in the EU
+title: 'Putting Odor Issues on the Map: Using citizen science to curb odors in the EU'
 tagnames: eu, europe, odor, odor-logging, csf, csf16
 author: joyofsoy
 path: /notes/joyofsoy/06-25-2019/putting-odour-issues-on-the-map-using-citizen-science-to-curb-odours-in-the-eu.md

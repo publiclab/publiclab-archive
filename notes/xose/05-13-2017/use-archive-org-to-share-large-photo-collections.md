@@ -1,5 +1,5 @@
 ---
-title: Use Archive.org to share large photo collections
+title: 'Use Archive.org to share large photo collections'
 tagnames: photo-monitoring, barnstar:basic, difficulty:easy, activity:photo-sharing, archiving, archive.org
 author: xose
 path: /notes/xose/05-13-2017/use-archive-org-to-share-large-photo-collections.md

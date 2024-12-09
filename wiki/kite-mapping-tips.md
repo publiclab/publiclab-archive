@@ -1,5 +1,5 @@
 ---
-title: Kite Mapping Tips
+title: 'Kite Mapping Tips'
 tagnames: kite-mapping, guide, quick-start, parent:kite-mapping
 author: warren
 path: /wiki/kite-mapping-tips.md

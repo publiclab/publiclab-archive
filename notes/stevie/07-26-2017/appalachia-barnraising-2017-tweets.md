@@ -1,5 +1,5 @@
 ---
-title: Appalachia Barnraising 2017 Tweets 
+title: 'Appalachia Barnraising 2017 Tweets '
 tagnames: barnraising, photos, appalachia-barnraising
 author: stevie
 path: /notes/stevie/07-26-2017/appalachia-barnraising-2017-tweets.md

@@ -1,5 +1,5 @@
 ---
-title: Television (TV) Camera Tube
+title: 'Television (TV) Camera Tube'
 tagnames: first-time-poster, lat:1.010689, lon:9.997558
 author: electronicsclub
 path: /notes/electronicsclub/10-22-2019/television-tv-camera-tube.md

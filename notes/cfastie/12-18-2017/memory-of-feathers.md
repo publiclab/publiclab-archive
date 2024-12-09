@@ -1,5 +1,5 @@
 ---
-title: Memory of Feathers
+title: 'Memory of Feathers'
 tagnames: arduino, sensors, datalogger, data-logging, feather, thermal-infrared, gy90614, relay, activity:feather, series:woodstove-control
 author: cfastie
 path: /notes/cfastie/12-18-2017/memory-of-feathers.md

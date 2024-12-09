@@ -1,5 +1,5 @@
 ---
-title: GSOC: First Evaluation Google Authentication
+title: 'GSOC: First Evaluation Google Authentication'
 tagnames: social-media, gsoc, soc, gsoc:2018
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/06-13-2018/gsoc-first-evaluation-google-authentication.md

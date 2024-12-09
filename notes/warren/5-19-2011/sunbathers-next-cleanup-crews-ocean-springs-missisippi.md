@@ -1,5 +1,5 @@
 ---
-title: Sunbathers next to cleanup crews in Ocean Springs, Missisippi
+title: 'Sunbathers next to cleanup crews in Ocean Springs, Missisippi'
 tagnames: gulf-coast, mississippi, ocean-springs
 author: warren
 path: /notes/warren/5-19-2011/sunbathers-next-cleanup-crews-ocean-springs-missisippi.md

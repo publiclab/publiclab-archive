@@ -1,5 +1,5 @@
 ---
-title: How to mount grating in 3D printed smartphone spec?
+title: 'How to mount grating in 3D printed smartphone spec?'
 tagnames: spectrometer, spectrometry, smartphone-spectrometer, question:general, 3d-print
 author: robert_winkler
 path: /notes/robert_winkler/01-30-2018/how-to-mount-grating-in-3d-printed-smartphone-spec.md

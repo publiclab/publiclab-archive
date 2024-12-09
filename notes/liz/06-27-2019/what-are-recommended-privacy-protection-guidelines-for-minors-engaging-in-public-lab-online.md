@@ -1,5 +1,5 @@
 ---
-title: What are recommended privacy protection guidelines for minors engaging in Public Lab online?
+title: 'What are recommended privacy protection guidelines for minors engaging in Public Lab online?'
 tagnames: question:privacy, question:conduct
 author: liz
 path: /notes/liz/06-27-2019/what-are-recommended-privacy-protection-guidelines-for-minors-engaging-in-public-lab-online.md

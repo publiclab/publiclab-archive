@@ -1,5 +1,5 @@
 ---
-title: NDVI Blue filter:  Morus nigra leave
+title: 'NDVI Blue filter:  Morus nigra leave'
 tagnames: infragram, location:blurred, first-time-poster, zoom:9, infragram-upload, lat:-27, lon:-48
 author: biozanco
 path: /notes/biozanco/01-23-2020/ndvi-blue-filter-morus-nigra-leave.md

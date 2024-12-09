@@ -1,5 +1,5 @@
 ---
-title: spectrum in sun ligth 
+title: 'spectrum in sun ligth '
 tagnames: first-time-poster
 author: sofisp1003
 path: /notes/sofisp1003/10-30-2019/spectrum-in-sun-ligth.md

@@ -1,5 +1,5 @@
 ---
-title: Copper Strip Test Preparation Using Solvents
+title: 'Copper Strip Test Preparation Using Solvents'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-copper-pipe, activity:hydrogen-sulfide, activity:h2s-copper-pipe, copper-sheets
 author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/copper-strip-test-preparation-using-solvents.md

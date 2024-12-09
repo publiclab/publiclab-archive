@@ -1,5 +1,5 @@
 ---
-title: denver--whittier-neighborhood
+title: 'denver--whittier-neighborhood'
 tagnames: 
 author: 
 path: /notes/5-15-2012/denver-whittier-neighborhood.md

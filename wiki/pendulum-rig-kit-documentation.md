@@ -1,5 +1,5 @@
 ---
-title: Pendulum Rig Kit Documentation
+title: 'Pendulum Rig Kit Documentation'
 tagnames: balloon-mapping, kite-mapping, polemapping, pole-mapping
 author: tonyc
 path: /wiki/pendulum-rig-kit-documentation.md

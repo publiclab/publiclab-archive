@@ -1,5 +1,5 @@
 ---
-title: The Barnraiser
+title: 'The Barnraiser'
 tagnames: barnraising, doccom, barnraiser, barnraising-2015, parent:doccom
 author: warren
 path: /wiki/the-barnraiser.md

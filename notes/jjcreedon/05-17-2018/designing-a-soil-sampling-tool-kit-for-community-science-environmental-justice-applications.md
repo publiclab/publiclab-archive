@@ -1,5 +1,5 @@
 ---
-title: Designing a soil sampling tool kit for community science /environmental justice applications
+title: 'Designing a soil sampling tool kit for community science /environmental justice applications'
 tagnames: industrial-monitoring, lead, advocacy, soil-sampling, activity:soil-sampling-toolkit
 author: jjcreedon
 path: /notes/jjcreedon/05-17-2018/designing-a-soil-sampling-tool-kit-for-community-science-environmental-justice-applications.md

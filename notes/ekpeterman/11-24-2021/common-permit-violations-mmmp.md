@@ -1,5 +1,5 @@
 ---
-title: Common Permit Violations: MMMP
+title: 'Common Permit Violations: MMMP'
 tagnames: coal-mining, organizing, mining, water-quality, advocacy, with:junior_walk1337, with:mmmp
 author: ekpeterman
 path: /notes/ekpeterman/11-24-2021/common-permit-violations-mmmp.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC  2020 proposal: Site Wide Accessiblity on PublicLab.org
+title: 'GSoC  2020 proposal: Site Wide Accessiblity on PublicLab.org'
 tagnames: software, soc, response:13975, soc-2020, soc-2020-proposals
 author: suyash1814
 path: /notes/suyash1814/03-07-2020/gsoc-2020-proposal-site-wide-accessiblity-on-publiclab-org.md

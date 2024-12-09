@@ -1,5 +1,5 @@
 ---
-title: DIY Document Scanning
+title: 'DIY Document Scanning'
 tagnames: archival, tool, open_source_hardware, diybookscanner, book-scanning
 author: ajawitz
 path: /notes/ajawitz/06-10-2015/diy-document-scanning.md

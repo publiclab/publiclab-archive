@@ -1,5 +1,5 @@
 ---
-title: Trying to detect emission lines in flare spectra from Chalmette
+title: 'Trying to detect emission lines in flare spectra from Chalmette'
 tagnames: gulf-coast, spectrometer, louisiana, analysis, emission-spectroscopy, spectral-analysis, spectral-workbench, flare, smoothing, chalmette, response:8946, response:8944, location:blurred, lat:29, lon:-89, place:chalmette-la
 author: warren
 path: /notes/warren/10-09-2013/trying-to-detect-emission-lines-in-flare-spectra-from-chalmette.md

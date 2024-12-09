@@ -1,5 +1,5 @@
 ---
-title: How to manage nature disaster recovery?
+title: 'How to manage nature disaster recovery?'
 tagnames: question:general, application, tech, disaster-recovery, first-time-poster
 author: maria_lazurka
 path: /notes/maria_lazurka/07-13-2019/how-to-manage-nature-disaster-recovery.md

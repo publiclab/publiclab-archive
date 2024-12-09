@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast 2015 Project Ideas
+title: 'Gulf Coast 2015 Project Ideas'
 tagnames: gulf-coast
 author: stevie
 path: /wiki/gulf-coast-2015-project-ideas.md

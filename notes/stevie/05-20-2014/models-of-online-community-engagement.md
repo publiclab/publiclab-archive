@@ -1,5 +1,5 @@
 ---
-title: Models of Online Community Engagement 
+title: 'Models of Online Community Engagement '
 tagnames: community, organizers, engagement
 author: stevie
 path: /notes/stevie/05-20-2014/models-of-online-community-engagement.md

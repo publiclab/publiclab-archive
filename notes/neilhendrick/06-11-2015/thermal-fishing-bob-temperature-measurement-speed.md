@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Bob Temperature Measurement Speed
+title: 'Thermal Fishing Bob Temperature Measurement Speed'
 tagnames: thermal-imaging, thermal-fishing-bob
 author: neilhendrick
 path: /notes/neilhendrick/06-11-2015/thermal-fishing-bob-temperature-measurement-speed.md

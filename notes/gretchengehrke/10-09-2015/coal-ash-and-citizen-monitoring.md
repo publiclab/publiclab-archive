@@ -1,5 +1,5 @@
 ---
-title: Coal Ash and Citizen Monitoring
+title: 'Coal Ash and Citizen Monitoring'
 tagnames: north-carolina, coal, particles, particle-sensing, particle-monitoring, coal-ash, passive-pm
 author: gretchengehrke
 path: /notes/gretchengehrke/10-09-2015/coal-ash-and-citizen-monitoring.md

@@ -1,5 +1,5 @@
 ---
-title: Free Online Courses from Harvard
+title: 'Free Online Courses from Harvard'
 tagnames: learning, fellows, research-curation-fellows
 author: laurel_mire
 path: /notes/laurel_mire/08-06-2021/free-online-courses-from-harvard.md

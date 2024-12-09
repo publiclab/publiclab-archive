@@ -1,5 +1,5 @@
 ---
-title: Citywide Street Quality Identification
+title: 'Citywide Street Quality Identification'
 tagnames: street-quality, potholes, bike-lanes
 author: vr00n
 path: /notes/vr00n/06-07-2017/citywide-street-quality-identification.md

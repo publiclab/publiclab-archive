@@ -1,5 +1,5 @@
 ---
-title: Help document how to connect different sensors to a data logger
+title: 'Help document how to connect different sensors to a data logger'
 tagnames: arduino, seeks:replications, requests, activity:requests
 author: warren
 path: /notes/warren/12-06-2017/help-document-how-to-connect-different-sensors-to-a-data-logger.md

@@ -1,5 +1,5 @@
 ---
-title: Op-Ed about the Talon-Rio Tinto Mine
+title: 'Op-Ed about the Talon-Rio Tinto Mine'
 tagnames: water-quality, lat:44, zoom:8, mn-land-manoomin-protection, lon:-93, minneosta
 author: noah_ben_furman
 path: /notes/noah_ben_furman/11-14-2022/op-ed-about-the-talon-rio-tinto-mine.md

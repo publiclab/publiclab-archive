@@ -1,5 +1,5 @@
 ---
-title: Slider Front Page
+title: 'Slider Front Page'
 tagnames: 
 author: warren
 path: /wiki/slider-front-page.md

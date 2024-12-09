@@ -1,5 +1,5 @@
 ---
-title: Thermal Images for Community Environmental College
+title: 'Thermal Images for Community Environmental College'
 tagnames: thermal-flashlight, replication:625
 author: sara
 path: /notes/sara/7-18-2012/thermal-images-community-environmental-college.md

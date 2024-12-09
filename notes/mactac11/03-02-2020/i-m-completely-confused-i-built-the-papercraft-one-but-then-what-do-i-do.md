@@ -1,5 +1,5 @@
 ---
-title: I'm completely confused.  I built the papercraft one, but then what do I do?
+title: 'I'm completely confused.  I built the papercraft one, but then what do I do?'
 tagnames: foldable-spec, question:foldable-spec, first-time-poster
 author: mactac11
 path: /notes/mactac11/03-02-2020/i-m-completely-confused-i-built-the-papercraft-one-but-then-what-do-i-do.md

@@ -1,5 +1,5 @@
 ---
-title: Creating Public Lab's Logic Model
+title: 'Creating Public Lab's Logic Model'
 tagnames: evaluation, replication:17235
 author: liz
 path: /notes/liz/10-05-2018/creating-public-lab-s-logic-model.md

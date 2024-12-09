@@ -1,5 +1,5 @@
 ---
-title: Air Quality Class 5
+title: 'Air Quality Class 5'
 tagnames: 
 author: liz
 path: /wiki/air-quality-class-5.md

@@ -1,5 +1,5 @@
 ---
-title: Frac Sand Tools for Action: Event report out
+title: 'Frac Sand Tools for Action: Event report out'
 tagnames: wisconsin, water-quality, dust, frac-sand, waterquality, indoor-air-quality-monitoring, with:gretchengehrke, fracsand, parent:frac-sand, parent:frac-sand-advocacy-leverage-points
 author: stevie
 path: /notes/stevie/08-14-2015/frac-sand-tools-for-action-event-report-out.md

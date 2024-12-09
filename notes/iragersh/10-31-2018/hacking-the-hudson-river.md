@@ -1,5 +1,5 @@
 ---
-title: Hacking the Hudson River
+title: 'Hacking the Hudson River'
 tagnames: new-york-city, urban, brooklyn, new-york, urban-design, water-quality, habitat, oysters, swimming, rivers, first-time-poster, smallfishbigdeal, hacking, mussels, hudson-river, waterfront, waterfront-access
 author: iragersh
 path: /notes/iragersh/10-31-2018/hacking-the-hudson-river.md

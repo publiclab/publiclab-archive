@@ -1,5 +1,5 @@
 ---
-title: Willow Creek Water Quality Monitoring (EC and TDS)
+title: 'Willow Creek Water Quality Monitoring (EC and TDS)'
 tagnames: water-quality, water-quality-sensor, activity:turbidity, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger, tds, activity:conductivity, response:14702, reclamation
 author: MadTinker
 path: /notes/MadTinker/03-21-2018/willow-creek-water-quality-monitoring-electrical-conductivity-sensor.md

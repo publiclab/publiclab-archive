@@ -1,5 +1,5 @@
 ---
-title: Contribute to GirlsGetGeeky on Mozilla Global Sprint
+title: 'Contribute to GirlsGetGeeky on Mozilla Global Sprint'
 tagnames: open-source, software, mozilla, developers, code, barnstar:basic, software-outreach, girls-get-geeky
 author: cess
 path: /notes/cess/05-09-2018/contribute-to-girlsgetgeeky-on-mozilla-global-sprint.md

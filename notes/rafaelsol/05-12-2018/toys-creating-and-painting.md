@@ -1,5 +1,5 @@
 ---
-title: Toys - Creating and Painting
+title: 'Toys - Creating and Painting'
 tagnames: 
 author: rafaelsol
 path: /notes/rafaelsol/05-12-2018/toys-creating-and-painting.md

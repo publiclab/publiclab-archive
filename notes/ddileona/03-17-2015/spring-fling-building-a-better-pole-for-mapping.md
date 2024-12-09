@@ -1,5 +1,5 @@
 ---
-title: Spring Fling: Building a Better Pole for Mapping
+title: 'Spring Fling: Building a Better Pole for Mapping'
 tagnames: polemapping, pole-mapping, gulfcoast, barnstar:basic, urbanwaters, springfling, first-time-poster
 author: ddileona
 path: /notes/ddileona/03-17-2015/spring-fling-building-a-better-pole-for-mapping.md

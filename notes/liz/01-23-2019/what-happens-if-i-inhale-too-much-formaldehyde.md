@@ -1,5 +1,5 @@
 ---
-title: What happens if I inhale too much formaldehyde?
+title: 'What happens if I inhale too much formaldehyde?'
 tagnames: answered, indoor-air-quality, question:formaldehyde, question:indoor-air-quality
 author: liz
 path: /notes/liz/01-23-2019/what-happens-if-i-inhale-too-much-formaldehyde.md

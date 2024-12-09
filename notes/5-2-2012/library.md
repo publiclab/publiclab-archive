@@ -1,5 +1,5 @@
 ---
-title: library
+title: 'library'
 tagnames: 
 author: 
 path: /notes/5-2-2012/library.md

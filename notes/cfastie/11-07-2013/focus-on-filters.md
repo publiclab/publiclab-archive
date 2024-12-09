@@ -1,5 +1,5 @@
 ---
-title: Focus on filters
+title: 'Focus on filters'
 tagnames: near-infrared-camera, vermont, infrared, a2200, conversion, filter, infragram, focus, infrablue, response:9740, bg3, wratten25a
 author: cfastie
 path: /notes/cfastie/11-07-2013/focus-on-filters.md

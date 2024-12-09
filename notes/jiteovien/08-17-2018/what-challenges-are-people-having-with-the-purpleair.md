@@ -1,5 +1,5 @@
 ---
-title: What challenges are people having with the PurpleAir?
+title: 'What challenges are people having with the PurpleAir?'
 tagnames: purpleair, question:purpleair
 author: jiteovien
 path: /notes/jiteovien/08-17-2018/what-challenges-are-people-having-with-the-purpleair.md

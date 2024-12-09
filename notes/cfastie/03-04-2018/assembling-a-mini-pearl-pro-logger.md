@@ -1,5 +1,5 @@
 ---
-title: Assembling a Mini Pearl Pro Logger
+title: 'Assembling a Mini Pearl Pro Logger'
 tagnames: arduino, sensors, datalogger, data-logging, activity:arduino, mini-pearl-logger, activity:mini-pearl-logger
 author: cfastie
 path: /notes/cfastie/03-04-2018/assembling-a-mini-pearl-pro-logger.md

@@ -1,5 +1,5 @@
 ---
-title: Mapping Trees In Berlin
+title: 'Mapping Trees In Berlin'
 tagnames: urban, tree, urban-ecology, trees, eu, ecology, berlin, germany, urban-forest, plant-identification, identifcation, plant-id
 author: chmooze
 path: /notes/chmooze/02-08-2016/mapping-trees-in-berlin.md

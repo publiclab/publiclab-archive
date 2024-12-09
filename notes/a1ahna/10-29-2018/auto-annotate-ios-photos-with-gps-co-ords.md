@@ -1,5 +1,5 @@
 ---
-title: Auto-annotate iOS photos with GPS co'ords?
+title: 'Auto-annotate iOS photos with GPS co'ords?'
 tagnames: photography, oil, mapping, app, annotation, monitoring, gas, question:question, pipelines, coordinates, theodolite
 author: a1ahna
 path: /notes/a1ahna/10-29-2018/auto-annotate-ios-photos-with-gps-co-ords.md

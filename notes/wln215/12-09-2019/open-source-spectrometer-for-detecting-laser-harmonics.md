@@ -1,5 +1,5 @@
 ---
-title: Open source spectrometer for detecting laser harmonics. 
+title: 'Open source spectrometer for detecting laser harmonics. '
 tagnames: spectrometer, spectroscopy, barnstar:basic, spectrometers, lasers, response:10692, lat:40.580584, lon:-73.828125
 author: wln215
 path: /notes/wln215/12-09-2019/open-source-spectrometer-for-detecting-laser-harmonics.md

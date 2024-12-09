@@ -1,5 +1,5 @@
 ---
-title: User Interface on Mac
+title: 'User Interface on Mac'
 tagnames: mapknitter, aerial-photography, aerial-imaging, question:mapknitter, question:aerial-imaging, question:aerial-photography
 author: mlapey
 path: /notes/mlapey/05-14-2017/user-interface-on-mac.md

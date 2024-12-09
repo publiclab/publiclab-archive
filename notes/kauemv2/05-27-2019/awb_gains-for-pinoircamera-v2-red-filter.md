@@ -1,5 +1,5 @@
 ---
-title: AWB_Gains for PiNoIRCamera V2 (Red Filter)
+title: 'AWB_Gains for PiNoIRCamera V2 (Red Filter)'
 tagnames: ndvi, calibration, white-balance, camera, question:ndvi, question:infragram, filters, raspberry, question:white-balance, pi-camera, question:filter-pack, awb, question:infragram-pi, pi-calibration
 author: kauemv2
 path: /notes/kauemv2/05-27-2019/awb_gains-for-pinoircamera-v2-red-filter.md

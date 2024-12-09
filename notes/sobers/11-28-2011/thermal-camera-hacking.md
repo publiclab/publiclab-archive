@@ -1,5 +1,5 @@
 ---
-title: Thermal Camera Hacking Notes
+title: 'Thermal Camera Hacking Notes'
 tagnames: thermal-photography, first-time-poster
 author: sobers
 path: /notes/sobers/11-28-2011/thermal-camera-hacking.md

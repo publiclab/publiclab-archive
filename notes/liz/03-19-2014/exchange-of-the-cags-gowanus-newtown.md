@@ -1,5 +1,5 @@
 ---
-title: Exchange of the CAGs: Gowanus <--> Newtown
+title: 'Exchange of the CAGs: Gowanus <--> Newtown'
 tagnames: new-york-city, epa, events:new-york-city, glam, cag
 author: liz
 path: /notes/liz/03-19-2014/exchange-of-the-cags-gowanus-newtown.md

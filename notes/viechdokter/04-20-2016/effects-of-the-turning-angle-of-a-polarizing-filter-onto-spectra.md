@@ -1,5 +1,5 @@
 ---
-title: Effects of the turning angle of a polarizing filter onto spectra
+title: 'Effects of the turning angle of a polarizing filter onto spectra'
 tagnames: spectrometer, spectroscopy, spectrum, polarizing_filter, polarisation_angle
 author: viechdokter
 path: /notes/viechdokter/04-20-2016/effects-of-the-turning-angle-of-a-polarizing-filter-onto-spectra.md

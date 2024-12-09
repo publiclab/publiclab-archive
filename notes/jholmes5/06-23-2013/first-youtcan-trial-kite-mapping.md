@@ -1,5 +1,5 @@
 ---
-title: First YouthCaN Trial Kite Mapping
+title: 'First YouthCaN Trial Kite Mapping'
 tagnames: new-york-city, kite-mapping, first-time-poster
 author: jholmes5
 path: /notes/jholmes5/06-23-2013/first-youtcan-trial-kite-mapping.md

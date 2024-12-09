@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight Calibration Nomogram
+title: 'Thermal Flashlight Calibration Nomogram'
 tagnames: thermal-photography, thermal-flashlight, nomogram, chart
 author: mathew
 path: /notes/mathew/7-13-2012/thermal-flashlight-calibration-nomogram.md

@@ -1,5 +1,5 @@
 ---
-title: Chandeleur Islands, Louisiana
+title: 'Chandeleur Islands, Louisiana'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/5-23-2011/chandeleur-islands-louisiana.md

@@ -1,5 +1,5 @@
 ---
-title: Infrared behavior of A810
+title: 'Infrared behavior of A810'
 tagnames: near-infrared-camera, spectrometer, vermont, infrared, leaffest, white-balance, infragram, histogram, led, leaffest2013, leds, a810, frosted-globe
 author: cfastie
 path: /notes/cfastie/09-11-2013/infrared-behavior-of-a810.md

@@ -1,5 +1,5 @@
 ---
-title: Why is 'peer-to-peer' file sharing useful?  Should I put effort into learning how to do it?
+title: 'Why is 'peer-to-peer' file sharing useful?  Should I put effort into learning how to do it?'
 tagnames: file-sharing, response:10694, question:file-sharing, p2p, question:image-sharing
 author: donblair
 path: /notes/donblair/07-15-2014/why-is-peer-to-peer-file-sharing-useful-should-i-put-effort-into-learning-how-to-do-it.md

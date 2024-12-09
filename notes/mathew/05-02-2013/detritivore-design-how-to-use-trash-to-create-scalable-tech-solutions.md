@@ -1,5 +1,5 @@
 ---
-title: 'Detritivore' Design: How to Use Trash to Create Scalable Tech Solutions
+title: ''Detritivore' Design: How to Use Trash to Create Scalable Tech Solutions'
 tagnames: spectrometer, reuse, idealab, waste
 author: mathew
 path: /notes/mathew/05-02-2013/detritivore-design-how-to-use-trash-to-create-scalable-tech-solutions.md

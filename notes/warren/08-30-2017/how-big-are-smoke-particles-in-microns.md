@@ -1,5 +1,5 @@
 ---
-title: How big are smoke particles, in microns?
+title: 'How big are smoke particles, in microns?'
 tagnames: nasa, dust, particulates, pm, particles, fire, answered, question:pm, question:particulates, smoke, microscopes, question:microscopes, aren, montana, forest-fires, wildfires, question:wildfires, question:dust-sampling
 author: warren
 path: /notes/warren/08-30-2017/how-big-are-smoke-particles-in-microns.md

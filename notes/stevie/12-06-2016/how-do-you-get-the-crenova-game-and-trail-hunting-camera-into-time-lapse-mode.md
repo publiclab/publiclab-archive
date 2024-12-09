@@ -1,5 +1,5 @@
 ---
-title: How do you get the Crenova Game and Trail Hunting Camera into time-lapse mode? 
+title: 'How do you get the Crenova Game and Trail Hunting Camera into time-lapse mode? '
 tagnames: answered, question:question, question:timelapse
 author: stevie
 path: /notes/stevie/12-06-2016/how-do-you-get-the-crenova-game-and-trail-hunting-camera-into-time-lapse-mode.md

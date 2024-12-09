@@ -1,5 +1,5 @@
 ---
-title: Inspirational deltas
+title: 'Inspirational deltas'
 tagnames: kite-mapping, diy-kite, delta, kites, tyvek, kite-making
 author: mathew
 path: /notes/mathew/2-23-2013/inspirational-deltas.md

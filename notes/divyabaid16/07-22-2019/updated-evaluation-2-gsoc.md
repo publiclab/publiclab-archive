@@ -1,5 +1,5 @@
 ---
-title: Updated: Evaluation 2 GSoC
+title: 'Updated: Evaluation 2 GSoC'
 tagnames: gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval
 author: divyabaid16
 path: /notes/divyabaid16/07-22-2019/updated-evaluation-2-gsoc.md

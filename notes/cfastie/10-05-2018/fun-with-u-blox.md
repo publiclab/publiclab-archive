@@ -1,5 +1,5 @@
 ---
-title: Fun with u-blox
+title: 'Fun with u-blox'
 tagnames: arduino, kite-aerial-photography, gps, ublox, skypod-gps-logger, activity:skypod-gps-logger
 author: cfastie
 path: /notes/cfastie/10-05-2018/fun-with-u-blox.md

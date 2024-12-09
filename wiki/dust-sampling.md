@@ -1,5 +1,5 @@
 ---
-title: Dust Sampling
+title: 'Dust Sampling'
 tagnames: particulate-sensing, dust, parent:air-quality
 author: warren
 path: /wiki/dust-sampling.md

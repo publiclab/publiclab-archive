@@ -1,5 +1,5 @@
 ---
-title: Simple data logger
+title: 'Simple data logger'
 tagnames: datalogger, pressure, barometric, activity:data-logging, datalogger-option
 author: david_uwi
 path: /notes/david_uwi/04-25-2017/simple-data-logger.md

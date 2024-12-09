@@ -1,5 +1,5 @@
 ---
-title: Best low cost camera for indoor plants?
+title: 'Best low cost camera for indoor plants?'
 tagnames: infragram, question:infragram, infrared-camera-conversion, question:infrared-camera-conversion, pin:question:infragram-challenges
 author: DrC
 path: /notes/DrC/08-10-2018/best-low-cost-camera-for-indoor-plants.md

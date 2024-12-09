@@ -1,5 +1,5 @@
 ---
-title: Booster hardware improves the usable WheeStat voltage range.
+title: 'Booster hardware improves the usable WheeStat voltage range.'
 tagnames: wheestat
 author: JSummers
 path: /notes/JSummers/06-19-2015/booster-hardware-improves-the-usable-wheestat-voltage-range.md

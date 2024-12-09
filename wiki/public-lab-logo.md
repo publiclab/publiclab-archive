@@ -1,5 +1,5 @@
 ---
-title: Public Lab logo
+title: 'Public Lab logo'
 tagnames: logo, redirect:15540
 author: gonzoearth
 path: /wiki/public-lab-logo.md

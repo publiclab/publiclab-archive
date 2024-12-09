@@ -1,5 +1,5 @@
 ---
-title: Infragram Plant Cam
+title: 'Infragram Plant Cam'
 tagnames: infragram, infragram-point-shoot, infragram-plant-cam, first-time-poster
 author: abdul
 path: /notes/abdul/06-22-2016/infragram-plant-cam.md

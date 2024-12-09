@@ -1,5 +1,5 @@
 ---
-title: Using the Spectroscope for Analysis of Concentration (Beer's Law)
+title: 'Using the Spectroscope for Analysis of Concentration (Beer's Law)'
 tagnames: spectrometer, education, curriculum, classroom, beers-law, concentration, sensitivity, quantitative, response:6566, response:6587, activity:spectrometry, time:3h, difficulty:medium, beer-lambert-law, category:test-limits, activity:education, activity:spectrometry-sampling, activity:classroom
 author: straylight
 path: /notes/straylight/05-13-2013/using-the-spectroscope-for-analysis-of-concentration-beer-s-law.md

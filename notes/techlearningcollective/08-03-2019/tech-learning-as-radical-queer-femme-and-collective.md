@@ -1,5 +1,5 @@
 ---
-title: Tech Learning as Radical, Queer, Femme, and Collective
+title: 'Tech Learning as Radical, Queer, Femme, and Collective'
 tagnames: education, pedagogy, blog-submission, community-organizing, lat:40.712775, lon:-74.005972, first-time-poster, tech-learning-collective, anarchotechnyc, queer, radical, train-the-trainers
 author: techlearningcollective
 path: /notes/techlearningcollective/08-03-2019/tech-learning-as-radical-queer-femme-and-collective.md

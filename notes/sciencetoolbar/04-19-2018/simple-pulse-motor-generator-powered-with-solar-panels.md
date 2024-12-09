@@ -1,5 +1,5 @@
 ---
-title: Simple pulse motor generator, powered with solar panels 
+title: 'Simple pulse motor generator, powered with solar panels '
 tagnames: classroom, generator, solar, activity:science-fair, science-fair, activity:solar, activity:classroom, activity:generator, motor-generator, pulse-motor, pulse-motor-generator, pmg
 author: sciencetoolbar
 path: /notes/sciencetoolbar/04-19-2018/simple-pulse-motor-generator-powered-with-solar-panels.md

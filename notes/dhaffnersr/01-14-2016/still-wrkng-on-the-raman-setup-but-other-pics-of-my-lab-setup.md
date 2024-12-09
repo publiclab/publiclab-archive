@@ -1,5 +1,5 @@
 ---
-title: STILL WRKNG ON THE RAMAN SETUP, BUT OTHER PICS OF MY LAB SETUP
+title: 'STILL WRKNG ON THE RAMAN SETUP, BUT OTHER PICS OF MY LAB SETUP'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/01-14-2016/still-wrkng-on-the-raman-setup-but-other-pics-of-my-lab-setup.md

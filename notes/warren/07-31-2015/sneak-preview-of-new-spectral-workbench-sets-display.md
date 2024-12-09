@@ -1,5 +1,5 @@
 ---
-title: Sneak preview of new Spectral Workbench sets display
+title: 'Sneak preview of new Spectral Workbench sets display'
 tagnames: spectrometer, software, spectral-workbench
 author: warren
 path: /notes/warren/07-31-2015/sneak-preview-of-new-spectral-workbench-sets-display.md

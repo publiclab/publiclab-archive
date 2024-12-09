@@ -1,5 +1,5 @@
 ---
-title: Info-Activsts on a boat, Lake Orta Italy
+title: 'Info-Activsts on a boat, Lake Orta Italy'
 tagnames: 
 author: hagitkeysar
 path: /notes/hagitkeysar/06-26-2013/info-activsts-on-a-boat-lake-orta-italy.md

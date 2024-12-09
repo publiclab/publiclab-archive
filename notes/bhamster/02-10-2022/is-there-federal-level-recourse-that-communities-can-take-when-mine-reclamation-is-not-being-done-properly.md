@@ -1,5 +1,5 @@
 ---
-title: Is there federal-level recourse that communities can take when mine reclamation is not being done properly?
+title: 'Is there federal-level recourse that communities can take when mine reclamation is not being done properly?'
 tagnames: epa, regulations, question:regulations, reclamation, mine-reclamation, question:mine-reclamation, question:reclamation
 author: bhamster
 path: /notes/bhamster/02-10-2022/is-there-federal-level-recourse-that-communities-can-take-when-mine-reclamation-is-not-being-done-properly.md

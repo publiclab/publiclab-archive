@@ -1,5 +1,5 @@
 ---
-title: First reading from the humidity and temperature sensor @ the community garden
+title: 'First reading from the humidity and temperature sensor @ the community garden'
 tagnames: arduino, diy, humidity-and-temperature-sensor
 author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/first-reading-humidity-and-temperature-senson-community-garden.md

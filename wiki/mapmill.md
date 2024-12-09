@@ -1,5 +1,5 @@
 ---
-title: MapMill
+title: 'MapMill'
 tagnames: software, needs-revision, developers, mapmill, photo-sharing
 author: warren
 path: /wiki/mapmill.md

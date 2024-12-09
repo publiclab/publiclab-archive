@@ -1,5 +1,5 @@
 ---
-title: (Towards) AI-Assisted Water Testing - Instructions
+title: '(Towards) AI-Assisted Water Testing - Instructions'
 tagnames: first-time-poster
 author: jrmc502
 path: /notes/jrmc502/10-07-2020/towards-ai-assisted-water-testing-instructions.md

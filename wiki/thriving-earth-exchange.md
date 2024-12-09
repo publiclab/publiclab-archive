@@ -1,5 +1,5 @@
 ---
-title: Thriving Earth Exchange
+title: 'Thriving Earth Exchange'
 tagnames: thriving-earth
 author: warren
 path: /wiki/thriving-earth-exchange.md

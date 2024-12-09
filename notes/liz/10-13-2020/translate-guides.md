@@ -1,5 +1,5 @@
 ---
-title: Translate guides!
+title: 'Translate guides!'
 tagnames: translation, activity:translation
 author: liz
 path: /notes/liz/10-13-2020/translate-guides.md

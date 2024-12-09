@@ -1,5 +1,5 @@
 ---
-title: Kits Initiative: August Report
+title: 'Kits Initiative: August Report'
 tagnames: newsletter, kits, kits-initiative
 author: Bronwen
 path: /notes/bronwen/09-04-2018/kits-initiative-august-report.md

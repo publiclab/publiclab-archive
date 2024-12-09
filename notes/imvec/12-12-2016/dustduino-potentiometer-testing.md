@@ -1,5 +1,5 @@
 ---
-title: Dustduino potentiometer testing
+title: 'Dustduino potentiometer testing'
 tagnames: arduino, calibration, particulate-sensing, barcelona, spain, air-quality, activity, dustduino, dust, pm, open-air, dust-monitoring, espana, validation, shinyei, colocation, dust-sensing, activity:dustduino, replication:9818, particulate-matter, activity:validation, activity:colocation
 author: imvec
 path: /notes/imvec/12-12-2016/dustduino-potentiometer-testing.md

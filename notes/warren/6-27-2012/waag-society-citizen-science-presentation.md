@@ -1,5 +1,5 @@
 ---
-title: Waag Society: Citizen Science presentation
+title: 'Waag Society: Citizen Science presentation'
 tagnames: waagsociety, amsterdam, presentations, presentation, waag
 author: warren
 path: /notes/warren/6-27-2012/waag-society-citizen-science-presentation.md

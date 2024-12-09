@@ -1,5 +1,5 @@
 ---
-title: Monsanto going after farmers for royalties from renewal seed harvests
+title: 'Monsanto going after farmers for royalties from renewal seed harvests'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/6-5-2012/monsanto-going-after-farmers-royalties-renewal-seed-harvests.md

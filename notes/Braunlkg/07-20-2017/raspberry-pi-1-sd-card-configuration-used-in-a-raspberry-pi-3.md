@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi 1 Sd card configuration used in a Raspberry Pi 3?
+title: 'Raspberry Pi 1 Sd card configuration used in a Raspberry Pi 3?'
 tagnames: question:question:raspberry, pi1:raspberry, pi3, first-time-poster
 author: Braunlkg
 path: /notes/Braunlkg/07-20-2017/raspberry-pi-1-sd-card-configuration-used-in-a-raspberry-pi-3.md

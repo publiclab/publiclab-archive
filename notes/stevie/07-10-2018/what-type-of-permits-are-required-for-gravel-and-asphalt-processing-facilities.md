@@ -1,5 +1,5 @@
 ---
-title: What type of permits are required for gravel and asphalt processing facilities?
+title: 'What type of permits are required for gravel and asphalt processing facilities?'
 tagnames: question:pm, question:general, question:regulations, question:permits, question:dust, location:blurred, place:united-states, question:regulation, lat:30, lon:-88, question:legal, with:ramseysprague, question:gravel, question:permit, question:asphalt, question:industry, law-and-policy, question:law-and-policy
 author: stevie
 path: /notes/stevie/07-10-2018/what-type-of-permits-are-required-for-gravel-and-asphalt-processing-facilities.md

@@ -1,5 +1,5 @@
 ---
-title: What are ways to identify pockets of heat/air pollution in a neighborhood?
+title: 'What are ways to identify pockets of heat/air pollution in a neighborhood?'
 tagnames: mapping, air-quality, climate-change, heat, question:general, general, urban-heat-island
 author: julia_e_masters
 path: /notes/julia_e_masters/10-07-2021/what-are-ways-to-identify-pockets-of-heat-air-pollution-in-a-neighborhood.md

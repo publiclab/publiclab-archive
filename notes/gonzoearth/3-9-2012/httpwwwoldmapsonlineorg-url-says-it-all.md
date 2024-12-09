@@ -1,5 +1,5 @@
 ---
-title: http://www.oldmapsonline.org; URL says it all
+title: 'http://www.oldmapsonline.org; URL says it all'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/3-9-2012/httpwwwoldmapsonlineorg-url-says-it-all.md

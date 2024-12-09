@@ -1,5 +1,5 @@
 ---
-title: New Knitter features - plus UNDO
+title: 'New Knitter features - plus UNDO'
 tagnames: 
 author: warren
 path: /notes/warren/7-12-2011/new-knitter-features-plus-undo.md

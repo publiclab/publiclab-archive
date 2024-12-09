@@ -1,5 +1,5 @@
 ---
-title: Natural tool light dimming tool
+title: 'Natural tool light dimming tool'
 tagnames: spectrometer, mango
 author: eigentuininhuis
 path: /notes/eigentuininhuis/02-03-2016/natural-tool-light-dimming-tool.md

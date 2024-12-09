@@ -1,5 +1,5 @@
 ---
-title: spectral-workbench-sidebar
+title: 'spectral-workbench-sidebar'
 tagnames: 
 author: warren
 path: /feature/spectral-workbench-sidebar.md

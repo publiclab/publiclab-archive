@@ -1,5 +1,5 @@
 ---
-title: Monitoring Sargent Sand Mining operation in Ludington, Michigan
+title: 'Monitoring Sargent Sand Mining operation in Ludington, Michigan'
 tagnames: sand, photo-monitoring, timelapse, mining, monitoring, trail-cam, photographic-evidence, photographic-monitoring, dune, story:timelapse, lat:43.9932773, lon:-86.4780084, timelapse-story
 author: glennwalquist
 path: /notes/glennwalquist/12-04-2016/monitoring-sargent-sand-mining-operation-in-ludington-michigan.md

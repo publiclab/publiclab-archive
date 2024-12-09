@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Bob: PLOTS Boston Toolshed Raising
+title: 'Thermal Fishing Bob: PLOTS Boston Toolshed Raising'
 tagnames: thermal-photography, thermal-imaging, thermal-fishing-bob, glowdoodle, northeast
 author: sara
 path: /wiki/thermal-fishing-bob-plots-boston-toolshed-raising.md

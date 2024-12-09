@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal: Draft Feature & Email Integration Project
+title: 'GSoC Proposal: Draft Feature & Email Integration Project'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-email, gsoc-2018-final, first-time-poster
 author: gauravano
 path: /notes/gauravano/02-18-2018/gsoc-proposal-email-integration-project.md

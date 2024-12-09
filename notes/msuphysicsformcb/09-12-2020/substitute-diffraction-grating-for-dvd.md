@@ -1,5 +1,5 @@
 ---
-title: Substitute diffraction grating for DVD?
+title: 'Substitute diffraction grating for DVD?'
 tagnames: spectrometer, spectrometry, diffraction-grating, question:spectrometer, question:spectrometry, question:general, general, question:diffraction-grating, first-time-poster
 author: msuphysicsformcb
 path: /notes/msuphysicsformcb/09-12-2020/substitute-diffraction-grating-for-dvd.md

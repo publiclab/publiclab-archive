@@ -1,5 +1,5 @@
 ---
-title: Folding-Beijing: A Board Game based on Beijing eviction action
+title: 'Folding-Beijing: A Board Game based on Beijing eviction action'
 tagnames: games, asia, china, barnraising-2017, board-games, beijing
 author: shanlter
 path: /notes/shanlter/12-04-2017/folding-beijing-a-board-game-based-on-beijing-eviction-action.md

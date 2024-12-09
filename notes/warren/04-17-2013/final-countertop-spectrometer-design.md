@@ -1,5 +1,5 @@
 ---
-title: Final Countertop Spectrometer Design
+title: 'Final Countertop Spectrometer Design'
 tagnames: spectrometer, countertop-spectrometer
 author: warren
 path: /notes/warren/04-17-2013/final-countertop-spectrometer-design.md

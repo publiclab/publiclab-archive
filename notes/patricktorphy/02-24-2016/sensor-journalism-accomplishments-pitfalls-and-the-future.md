@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism: Accomplishments, Pitfalls, and The Future 
+title: 'Sensor Journalism: Accomplishments, Pitfalls, and The Future '
 tagnames: sensor-journalism, response:12748, hidden:response
 author: patricktorphy
 path: /notes/patricktorphy/02-24-2016/sensor-journalism-accomplishments-pitfalls-and-the-future.md

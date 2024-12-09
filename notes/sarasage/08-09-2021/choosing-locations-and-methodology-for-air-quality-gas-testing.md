@@ -1,5 +1,5 @@
 ---
-title: Choosing Locations and Methodology for Air-Quality Gas Testing
+title: 'Choosing Locations and Methodology for Air-Quality Gas Testing'
 tagnames: landfill, air-quality, waste, losangeles, landfills, gas-monitoring, lat:34, air-quality-monitoring, lon:-118, zoom:8, bucket-monitor, VVAMP, prompt:vvamp, with:denissebn_06, kriging, transects
 author: sarasage
 path: /notes/sarasage/08-09-2021/choosing-locations-and-methodology-for-air-quality-gas-testing.md

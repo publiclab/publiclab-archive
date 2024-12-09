@@ -1,5 +1,5 @@
 ---
-title: Plastic in the Mississippi River:The Malleable Mississippi?
+title: 'Plastic in the Mississippi River:The Malleable Mississippi?'
 tagnames: gulf-coast, mississippi-river, issue-brief, microplastics, plastic, first-time-poster, student-community-science, lat:29.951065, lon:-90.071532, zoom:6
 author: chadalfonso
 path: /notes/chadalfonso/04-13-2021/plastic-in-the-mississippi-river-the-malleable-mississippi.md

@@ -1,5 +1,5 @@
 ---
-title: OTK Unboxing
+title: 'OTK Unboxing'
 tagnames: spectrometry, unboxing, otk
 author: Matej
 path: /notes/Matej/11-03-2015/otk-unboxing.md

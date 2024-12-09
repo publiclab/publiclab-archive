@@ -1,5 +1,5 @@
 ---
-title: Seeking Documentation Fellow for Fellowship Team
+title: 'Seeking Documentation Fellow for Fellowship Team'
 tagnames: photography, documentation, west-virginia, mountaintop-removal, mining, coal, jobs, fellows, fellowship, oil-and-gas, fellowships, mmmp
 author: stevie
 path: /notes/stevie/08-11-2021/seeking-documentation-fellow-for-fellowship-team.md

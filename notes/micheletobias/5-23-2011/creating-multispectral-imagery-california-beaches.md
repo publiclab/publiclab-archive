@@ -1,5 +1,5 @@
 ---
-title: Creating Multispectral Imagery for California Beaches
+title: 'Creating Multispectral Imagery for California Beaches'
 tagnames: balloon-mapping, nir, infrared, california, gdal, false-color, gis, activity:multispectral-imaging, activity:infragram, multispectral-imaging, beach, beach-mapping, santa-barbara, hot-air-balloon-mapping, first-time-poster
 author: MicheleTobias
 path: /notes/micheletobias/5-23-2011/creating-multispectral-imagery-california-beaches.md

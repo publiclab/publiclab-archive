@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (212 Union Street)
+title: 'Art in Ruins (212 Union Street)'
 tagnames: hidden:response, zoom:9, lat:41.822501, lon:-71.411132, lat:41.59537045291612, lon:-71.35208129882814, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-212-union-street.md

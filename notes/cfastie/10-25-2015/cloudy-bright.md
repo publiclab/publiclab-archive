@@ -1,5 +1,5 @@
 ---
-title: Cloudy Bright
+title: 'Cloudy Bright'
 tagnames: kite-mapping, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12333
 author: cfastie
 path: /notes/cfastie/10-25-2015/cloudy-bright.md

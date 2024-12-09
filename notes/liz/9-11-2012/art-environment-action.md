@@ -1,5 +1,5 @@
 ---
-title: Art Environment Action!
+title: 'Art Environment Action!'
 tagnames: balloon-mapping, mapknitter
 author: liz
 path: /notes/liz/9-11-2012/art-environment-action.md

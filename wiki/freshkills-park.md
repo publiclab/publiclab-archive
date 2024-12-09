@@ -1,5 +1,5 @@
 ---
-title: freshkills-park
+title: 'freshkills-park'
 tagnames: new-york-city, staten-island
 author: liz
 path: /wiki/freshkills-park.md

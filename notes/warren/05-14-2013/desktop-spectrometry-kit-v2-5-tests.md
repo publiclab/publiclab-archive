@@ -1,5 +1,5 @@
 ---
-title: Desktop Spectrometry Kit v2.5 tests
+title: 'Desktop Spectrometry Kit v2.5 tests'
 tagnames: spectrometer, kit, dsk, sanm
 author: warren
 path: /notes/warren/05-14-2013/desktop-spectrometry-kit-v2-5-tests.md

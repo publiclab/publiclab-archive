@@ -1,5 +1,5 @@
 ---
-title: Can I use the lego spectrometer to measure enviromental light spectrum?
+title: 'Can I use the lego spectrometer to measure enviromental light spectrum?'
 tagnames: question:lego-spectrometer, lego-spectrometer, response:15135
 author: baxamook
 path: /notes/baxamook/03-01-2018/can-i-use-the-lego-spectrometer-to-measure-enviromental-light-spectrum.md

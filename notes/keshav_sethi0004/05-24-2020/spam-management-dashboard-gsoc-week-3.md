@@ -1,5 +1,5 @@
 ---
-title: Spam management Dashboard @ GSoC week-3
+title: 'Spam management Dashboard @ GSoC week-3'
 tagnames: gsoc, spam, soc, gsoc-2020, keshav, smd, week3
 author: keshav_sethi0004
 path: /notes/keshav_sethi0004/05-24-2020/spam-management-dashboard-gsoc-week-3.md

@@ -1,5 +1,5 @@
 ---
-title: Single vs. dual cameras
+title: 'Single vs. dual cameras'
 tagnames: ndvi, infrared, filter, infragram, plant-health, dualband, midopt, dichroic, interference, response:12473
 author: cfastie
 path: /notes/cfastie/01-16-2016/single-vs-dual-cameras.md

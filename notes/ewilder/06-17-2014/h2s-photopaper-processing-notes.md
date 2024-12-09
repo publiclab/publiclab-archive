@@ -1,5 +1,5 @@
 ---
-title: H2S Photopaper Processing notes
+title: 'H2S Photopaper Processing notes'
 tagnames: hydrogen, hydrogen-sulfide, h2s, sulfide, h2s-photopaper, replication:509
 author: ewilder
 path: /notes/ewilder/06-17-2014/h2s-photopaper-processing-notes.md

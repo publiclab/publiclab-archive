@@ -1,5 +1,5 @@
 ---
-title: Concept of social rules from Recurse Center
+title: 'Concept of social rules from Recurse Center'
 tagnames: conduct, moderation
 author: liz
 path: /notes/liz/09-24-2018/concept-of-social-rules-from-recurse-center.md

@@ -1,5 +1,5 @@
 ---
-title: The Tags page mockup - let me know what you think! 
+title: 'The Tags page mockup - let me know what you think! '
 tagnames: design, ui, ui-designs
 author: edie_blues
 path: /notes/edie_blues/01-09-2019/the-tags-page-mockup-let-me-know-what-you-think.md

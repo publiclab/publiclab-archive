@@ -1,5 +1,5 @@
 ---
-title: $8 webcam for spectrometer is not great
+title: '$8 webcam for spectrometer is not great'
 tagnames: 
 author: warren
 path: /notes/warren/11-23-2011/8-webcam-spectrometer-not-great.md

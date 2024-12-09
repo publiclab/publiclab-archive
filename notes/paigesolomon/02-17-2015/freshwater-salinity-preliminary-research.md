@@ -1,5 +1,5 @@
 ---
-title: Freshwater Salinity Preliminary Research
+title: 'Freshwater Salinity Preliminary Research'
 tagnames: water-quality, first-time-poster
 author: paigesolomon
 path: /notes/paigesolomon/02-17-2015/freshwater-salinity-preliminary-research.md

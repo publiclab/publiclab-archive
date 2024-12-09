@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal 2019: Mapknitter's Rails Upgrade
+title: 'GSoC Proposal 2019: Mapknitter's Rails Upgrade'
 tagnames: mapknitter, gsoc, proposal, soc, first-time-poster, 2019, soc-2019, soc-2019-proposals, soc-2019-projects
 author: alaxallves
 path: /notes/alaxallves/04-03-2019/gsoc-proposal-2019-mapknitter-s-rails-upgrade.md

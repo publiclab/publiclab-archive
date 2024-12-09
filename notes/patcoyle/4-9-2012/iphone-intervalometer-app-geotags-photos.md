@@ -1,5 +1,5 @@
 ---
-title: iPhone intervalometer app geotags photos
+title: 'iPhone intervalometer app geotags photos'
 tagnames: iphone, camera-triggering
 author: patcoyle
 path: /notes/patcoyle/4-9-2012/iphone-intervalometer-app-geotags-photos.md

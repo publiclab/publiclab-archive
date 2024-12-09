@@ -1,5 +1,5 @@
 ---
-title: Silica (frac) Sand Research
+title: 'Silica (frac) Sand Research'
 tagnames: wisconsin, air-quality, timelapse, transportation, fracking, silica, frac-sand, particle-monitoring, traffic, fracsand, parent:frac-sand, trapcam, first-time-poster
 author: bkleist
 path: /notes/bkleist/08-30-2016/silica-frac-sand-research.md

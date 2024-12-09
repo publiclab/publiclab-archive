@@ -1,5 +1,5 @@
 ---
-title: "Dust in the Wind: How Data Visualization Can Help the Environment" 
+title: '"Dust in the Wind: How Data Visualization Can Help the Environment" '
 tagnames: air-quality, blog, dustduino, dust, open-air, data-visualization
 author: stevie
 path: /notes/stevie/07-21-2015/dust-in-the-wind-how-data-visualization-can-help-the-environment.md

@@ -1,5 +1,5 @@
 ---
-title: Dustduino Build for the AMP project
+title: 'Dustduino Build for the AMP project'
 tagnames: particulate-sensing, west-virginia, mountaintop-removal, dustduino, dust, pm, southeast, particulate-monitoring, amp, mtr, shinyei, appalachia, replication:9818, air-sensors
 author: LauraChipley
 path: /notes/LauraChipley/10-09-2015/dustduino-build-for-the-amp-project.md

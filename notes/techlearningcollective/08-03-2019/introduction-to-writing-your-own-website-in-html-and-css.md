@@ -1,5 +1,5 @@
 ---
-title: Introduction to Writing Your Own Website in HTML and CSS
+title: 'Introduction to Writing Your Own Website in HTML and CSS'
 tagnames: new-york-city, event, community-organizing, first-time-poster, html, css, semantic-web, lat:40.690447, lon:-73.916209
 author: techlearningcollective
 path: /notes/techlearningcollective/08-03-2019/introduction-to-writing-your-own-website-in-html-and-css.md

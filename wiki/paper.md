@@ -1,5 +1,5 @@
 ---
-title: paper
+title: 'paper'
 tagnames: redirect:papercraft-spectrometer
 author: warren
 path: /wiki/paper.md

@@ -1,5 +1,5 @@
 ---
-title: SPN-VEG - NDVI software for windows freeware
+title: 'SPN-VEG - NDVI software for windows freeware'
 tagnames: ndvi, software
 author: sneves
 path: /notes/sneves/11-10-2015/spn-veg-ndvi-software-for-windows-freeware.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of uw woolot map
+title: 'MapKnitter map of uw woolot map'
 tagnames: mapknitter, lat:43.4642578, lon:-80.5204096, first-time-poster
 author: paullin
 path: /notes/paullin/10-15-2015/mapknitter-map-of-uw-woolot-map.md

@@ -1,5 +1,5 @@
 ---
-title: World's fastest and super cheap automated cell counter!
+title: 'World's fastest and super cheap automated cell counter!'
 tagnames: image-processing, diy, 3d-printer, cell, opencv
 author: syoif
 path: /notes/syoif/04-12-2017/world-s-fastest-and-super-cheap-automated-cell-counter.md

@@ -1,5 +1,5 @@
 ---
-title: Barnraising: Liz Barry talks Gowanus Canal
+title: 'Barnraising: Liz Barry talks Gowanus Canal'
 tagnames: balloon-mapping, kite-mapping, barnraising, barnraising2012, epa
 author: mathew
 path: /notes/mathew/11-15-2012/barnraising-liz-barry-talks-gowanus-canal.md

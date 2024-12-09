@@ -1,5 +1,5 @@
 ---
-title: Advocacy with Maps
+title: 'Advocacy with Maps'
 tagnames: annotated-maps, aerial-photography, mapping, organizing, aerial-mapping, advocacy, method, community-organizing, advocacy-with-maps
 author: bhamster
 path: /wiki/advocacy-with-maps.md

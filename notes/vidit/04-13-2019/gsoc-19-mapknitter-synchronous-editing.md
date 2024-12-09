@@ -1,5 +1,5 @@
 ---
-title: GSOC-19 Mapknitter synchronous editing
+title: 'GSOC-19 Mapknitter synchronous editing'
 tagnames: summer-camp, gsoc, google-summer-of-code, gsoc-proposal, summer-of-code, soc-2019-proposals, soc-2019-projects
 author: vidit
 path: /notes/vidit/04-13-2019/gsoc-19-mapknitter-synchronous-editing.md

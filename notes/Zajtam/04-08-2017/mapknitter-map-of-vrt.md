@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Vrt
+title: 'MapKnitter map of Vrt'
 tagnames: mapknitter, lat:46.3971219122, lon:15.6556195021, first-time-poster
 author: Zajtam
 path: /notes/Zajtam/04-08-2017/mapknitter-map-of-vrt.md

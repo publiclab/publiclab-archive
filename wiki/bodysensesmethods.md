@@ -1,5 +1,5 @@
 ---
-title: Bodily Sense Environmental Data Methods
+title: 'Bodily Sense Environmental Data Methods'
 tagnames: regulations, methods, body-senses
 author: gretchengehrke
 path: /wiki/bodysensesmethods.md

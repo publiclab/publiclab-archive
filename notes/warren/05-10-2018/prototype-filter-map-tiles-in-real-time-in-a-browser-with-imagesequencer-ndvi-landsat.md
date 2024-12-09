@@ -1,5 +1,5 @@
 ---
-title: Prototype: filter map tiles in real-time in a browser with ImageSequencer (NDVI Landsat)
+title: 'Prototype: filter map tiles in real-time in a browser with ImageSequencer (NDVI Landsat)'
 tagnames: near-infrared-camera, remote-sensing, ndvi, multispectral, mapknitter, infrared, image-processing, agriculture, nasa, mapping, infragram, gsoc, vegetation, landsat, gis, satellite-imagery, mapbox, javascript, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:ndvi, soc, aren, gsoc-2018, soc-2018, image-sequencer, activity:image-sequencer, activity:gis, activity:aren
 author: warren
 path: /notes/warren/05-10-2018/prototype-filter-map-tiles-in-real-time-in-a-browser-with-imagesequencer-ndvi-landsat.md

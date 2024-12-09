@@ -1,5 +1,5 @@
 ---
-title: Forgotten stream hypothesis and proof of concept dye tracing in Gowanus Canal 5th Street basin 
+title: 'Forgotten stream hypothesis and proof of concept dye tracing in Gowanus Canal 5th Street basin '
 tagnames: new-york-city, gowanus, dye-tracing, northeast, with:eymund
 author: liz
 path: /notes/liz/10-01-2014/forgotten-stream-hypothesis-and-proof-of-concept-dye-tracing-in-gowanus-canal-5th-street-basin.md

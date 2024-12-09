@@ -1,5 +1,5 @@
 ---
-title: [draft]Intro to Aerial Photo interpretation of wetland class notes
+title: '[draft]Intro to Aerial Photo interpretation of wetland class notes'
 tagnames: balloon-mapping, near-infrared-camera, map-curriculum, delineation
 author: eustatic
 path: /10-28-2012/draftintro-aerial-photo-interpretation-wetland-class-notes.md

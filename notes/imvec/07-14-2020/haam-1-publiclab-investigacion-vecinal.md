@@ -1,5 +1,5 @@
 ---
-title: HAAM#1: Publiclab, investigacion vecinal
+title: 'HAAM#1: Publiclab, investigacion vecinal'
 tagnames: lang:es, basura, spanish, zoom:16, lat:41.408488, lon:2.199325, epidemiologia, haam
 author: imvec
 path: /notes/imvec/07-14-2020/haam-1-publiclab-investigacion-vecinal.md

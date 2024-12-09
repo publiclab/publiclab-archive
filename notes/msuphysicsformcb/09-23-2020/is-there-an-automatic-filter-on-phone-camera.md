@@ -1,5 +1,5 @@
 ---
-title: Is there an automatic filter on phone camera?
+title: 'Is there an automatic filter on phone camera?'
 tagnames: spectrometer, question:spectrometer, dvd, question:general, general, question:dvd
 author: msuphysicsformcb
 path: /notes/msuphysicsformcb/09-23-2020/is-there-an-automatic-filter-on-phone-camera.md

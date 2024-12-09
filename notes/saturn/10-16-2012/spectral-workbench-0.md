@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench
+title: 'Spectral Workbench'
 tagnames: 
 author: Saturn
 path: /notes/saturn/10-16-2012/spectral-workbench-0.md

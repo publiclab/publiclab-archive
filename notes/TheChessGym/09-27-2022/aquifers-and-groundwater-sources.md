@@ -1,5 +1,5 @@
 ---
-title: Aquifers and Groundwater Sources 
+title: 'Aquifers and Groundwater Sources '
 tagnames: lat:22, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/09-27-2022/aquifers-and-groundwater-sources.md

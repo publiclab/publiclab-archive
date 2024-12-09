@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of LDI
+title: 'A Day in the Life of LDI'
 tagnames: mapknitter, software, development, leaflet
 author: sashadev-sky
 path: /notes/sashadev-sky/08-11-2019/a-day-in-the-life-of-ldi.md

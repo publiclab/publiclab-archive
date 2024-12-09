@@ -1,5 +1,5 @@
 ---
-title: Reconfigurable Rig Pole Configuration and GitHub Repository
+title: 'Reconfigurable Rig Pole Configuration and GitHub Repository'
 tagnames: kite-aerial-photography, aerial-photography, kap, photo-rig, sfm, mapping, structure-from-motion, pole-photography, pole, aerial-mapping, aerial-photos, pole-aerial-photography, pole-mapping, kap-rigs, poles, reconfigurable, reconfigurable-rig, activity:photo-rig
 author: ranon
 path: /notes/ranon/08-10-2016/reconfigurable-rig-pole-configuration-and-github-repository.md

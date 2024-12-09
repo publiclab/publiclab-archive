@@ -1,5 +1,5 @@
 ---
-title: Infrared camera how-to guide for GM Forum
+title: 'Infrared camera how-to guide for GM Forum'
 tagnames: near-infrared-camera, great-photos
 author: warren
 path: /notes/warren/5-17-2012/infrared-camera-how-guide-gm-forum.md

@@ -1,5 +1,5 @@
 ---
-title: Infragram Point & Shoot
+title: 'Infragram Point & Shoot'
 tagnames: infragram, parent:infragram
 author: warren
 path: /wiki/infragram-point-shoot.md

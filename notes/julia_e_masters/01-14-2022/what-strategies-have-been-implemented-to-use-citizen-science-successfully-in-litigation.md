@@ -1,5 +1,5 @@
 ---
-title: What strategies have been implemented to use citizen science successfully in litigation?
+title: 'What strategies have been implemented to use citizen science successfully in litigation?'
 tagnames: organizing, advocacy, question:general, general, community-organizing, question:advocacy, law-and-policy, question:law-and-policy, question:organizing, question:community-organizing, presenting-data, question:presenting-data, air-quality-data, question:air-quality-data
 author: julia_e_masters
 path: /notes/julia_e_masters/01-14-2022/what-strategies-have-been-implemented-to-use-citizen-science-successfully-in-litigation.md

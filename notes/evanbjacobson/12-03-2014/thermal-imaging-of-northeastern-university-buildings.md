@@ -1,5 +1,5 @@
 ---
-title: Thermal Imaging of Northeastern University buildings
+title: 'Thermal Imaging of Northeastern University buildings'
 tagnames: thermal-photography, thermal-flashlight, thermal, insulation, heat, activity:thermal-flashlight, replication:625
 author: evanbjacobson
 path: /notes/evanbjacobson/12-03-2014/thermal-imaging-of-northeastern-university-buildings.md

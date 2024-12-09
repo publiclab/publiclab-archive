@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST project
+title: 'LEAFFEST project'
 tagnames: near-infrared-camera, ndvi, vermont, leaffest, infragram, garden, events:vermont, leaffest2013
 author: cfastie
 path: /notes/cfastie/09-02-2013/leaffest-test.md

@@ -1,5 +1,5 @@
 ---
-title: What resources are available to help people monitor noise pollution? 
+title: 'What resources are available to help people monitor noise pollution? '
 tagnames: gulf-coast, new-orleans, answered, noise, question:general, noise-pollution, nola, interstate, highway, roads, question:noise, question:noise-pollution
 author: stevie
 path: /notes/stevie/12-19-2017/what-resources-are-available-to-help-people-monitor-noise-pollution.md

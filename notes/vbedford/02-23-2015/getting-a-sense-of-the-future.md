@@ -1,5 +1,5 @@
 ---
-title: Getting a Sense of the Future 
+title: 'Getting a Sense of the Future '
 tagnames: sensors, data, journalism, sensor, sensor-journalism
 author: vbedford
 path: /notes/vbedford/02-23-2015/getting-a-sense-of-the-future.md

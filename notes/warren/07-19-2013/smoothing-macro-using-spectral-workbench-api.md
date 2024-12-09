@@ -1,5 +1,5 @@
 ---
-title: Smoothing macro using Spectral Workbench API
+title: 'Smoothing macro using Spectral Workbench API'
 tagnames: spectrometer, spectral-workbench, smoothing, spectral-workbench-api, macros, response:8906
 author: warren
 path: /notes/warren/07-19-2013/smoothing-macro-using-spectral-workbench-api.md

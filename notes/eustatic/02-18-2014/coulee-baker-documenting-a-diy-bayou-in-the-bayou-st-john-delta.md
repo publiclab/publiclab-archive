@@ -1,5 +1,5 @@
 ---
-title: Coulee Baker:  documenting a DIY bayou in the Bayou St John "delta"
+title: 'Coulee Baker:  documenting a DIY bayou in the Bayou St John "delta"'
 tagnames: gulf-coast, kite-mapping, wetlands, wetland, dredge-reuse, gopro, dredgefestla, bsj, response:9928
 author: eustatic
 path: /02-18-2014/coulee-baker-documenting-a-diy-bayou-in-the-bayou-st-john-delta.md

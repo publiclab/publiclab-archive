@@ -1,5 +1,5 @@
 ---
-title: How should I choose a secure/private file sharing system?
+title: 'How should I choose a secure/private file sharing system?'
 tagnames: security, file-sharing, privacy, collaborative-tools, question:security, question:privacy, question:file-sharing
 author: warren
 path: /notes/warren/01-05-2017/how-should-i-choose-a-secure-private-file-sharing-system.md

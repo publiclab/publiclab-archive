@@ -1,5 +1,5 @@
 ---
-title: ShenangoChannel.org - a dashboard for monitoring and sharing
+title: 'ShenangoChannel.org - a dashboard for monitoring and sharing'
 tagnames: photo-monitoring, cmu, timelapse, data, pm, particulate-monitoring, data-management, dashboard, drexel, smokestacks, smoke, story:timelapse, data-logging-visualization, data-visualization
 author: liz
 path: /notes/liz/01-10-2017/shenangochannel-org-a-dashboard-for-monitoring-and-sharing.md

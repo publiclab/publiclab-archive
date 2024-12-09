@@ -1,5 +1,5 @@
 ---
-title: Is it possible that receiving data in excel for y section, percentage? 
+title: 'Is it possible that receiving data in excel for y section, percentage? '
 tagnames: data, question:general, excel
 author: HanHeejo
 path: /notes/HanHeejo/12-05-2016/is-it-possible-that-receiving-data-in-excel-for-y-section-percentage.md

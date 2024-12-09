@@ -1,5 +1,5 @@
 ---
-title: five-borough-farm
+title: 'five-borough-farm'
 tagnames: 5bf
 author: liz
 path: /wiki/five-borough-farm.md

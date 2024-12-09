@@ -1,5 +1,5 @@
 ---
-title: Thermal photography
+title: 'Thermal photography'
 tagnames: thermal-photography, thermal-flashlight, urban-planning, thermal-camera, thermal-fishing-bob, methane, tabbed:notes, tabbed:wikis, indiawaterportal, tool, method
 author: warren
 path: /wiki/thermal-photography.md

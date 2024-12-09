@@ -1,5 +1,5 @@
 ---
-title: Mini Photocell arduino code
+title: 'Mini Photocell arduino code'
 tagnames: response:12507
 author: filimon_k
 path: /notes/filimon_k/12-13-2015/mini-photocell-arduino-code.md

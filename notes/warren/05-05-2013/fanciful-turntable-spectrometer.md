@@ -1,5 +1,5 @@
 ---
-title: Fanciful "turntable spectrometer"
+title: 'Fanciful "turntable spectrometer"'
 tagnames: spectrometer, parts-and-crafts, turntable
 author: warren
 path: /notes/warren/05-05-2013/fanciful-turntable-spectrometer.md

@@ -1,5 +1,5 @@
 ---
-title: A proposal for a way to remediate indoor silica dust
+title: 'A proposal for a way to remediate indoor silica dust'
 tagnames: remediation, wisconsin, air-quality, air, silica, quality, frac-sand, midwest, wherewebreathe, indoor-air-quality, air-monitoring, parent:frac-sand
 author: marlokeno
 path: /notes/marlokeno/12-23-2015/a-proposal-for-a-way-to-remediate-indoor-silica-dust.md

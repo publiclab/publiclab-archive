@@ -1,5 +1,5 @@
 ---
-title: New documentary: Promise in the Sand
+title: 'New documentary: Promise in the Sand'
 tagnames: wisconsin, air-quality, blog, fracking, frac-sand, midwest, parent:frac-sand, location:blurred, lat:43, place:united-states, lon:-90, fracksand
 author: stevie
 path: /notes/stevie/06-05-2018/new-documentary-promise-in-the-sand.md

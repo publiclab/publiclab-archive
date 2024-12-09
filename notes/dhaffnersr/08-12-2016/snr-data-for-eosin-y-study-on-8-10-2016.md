@@ -1,5 +1,5 @@
 ---
-title: SNR Data for Eosin Y Study on 8/10/2016
+title: 'SNR Data for Eosin Y Study on 8/10/2016'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-12-2016/snr-data-for-eosin-y-study-on-8-10-2016.md

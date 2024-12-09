@@ -1,5 +1,5 @@
 ---
-title: sidebar-feature-carousel-sandbox
+title: 'sidebar-feature-carousel-sandbox'
 tagnames: 
 author: warren
 path: /feature/sidebar-feature-carousel-sandbox.md

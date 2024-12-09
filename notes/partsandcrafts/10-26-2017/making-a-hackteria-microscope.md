@@ -1,5 +1,5 @@
 ---
-title: Making a Hackteria stage
+title: 'Making a Hackteria stage'
 tagnames: barnstar:basic, hackteria, with:kgradow1, with:warren, seeks:replications, microscopes, activity:microscopes, with:wmacfarl, with:bmela
 author: partsandcrafts
 path: /notes/partsandcrafts/10-26-2017/making-a-hackteria-microscope.md

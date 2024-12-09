@@ -1,5 +1,5 @@
 ---
-title: Equalizing area of spectral graphs for comparison
+title: 'Equalizing area of spectral graphs for comparison'
 tagnames: spectrometer, fluorescence, spectral-workbench, spectral-workbench-api, macros, normalizing, equalizing, equal-area
 author: warren
 path: /notes/warren/07-30-2014/equalizing-area-of-spectral-graphs-for-comparison.md

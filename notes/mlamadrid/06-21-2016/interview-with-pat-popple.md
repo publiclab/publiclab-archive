@@ -1,5 +1,5 @@
 ---
-title: Interview with Pat Popple
+title: 'Interview with Pat Popple'
 tagnames: wisconsin, blog, frac-sand, with:stevie, parent:frac-sand, communityscienceforum, with:pat
 author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/interview-with-pat-popple.md

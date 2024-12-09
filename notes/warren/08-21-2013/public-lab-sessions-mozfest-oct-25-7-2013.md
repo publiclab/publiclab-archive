@@ -1,5 +1,5 @@
 ---
-title: Public Lab sessions @ Mozfest, Oct 25-7 2013
+title: 'Public Lab sessions @ Mozfest, Oct 25-7 2013'
 tagnames: london, citizen-science, workshop, uk, event, mozfest, mozilla
 author: warren
 path: /notes/warren/08-21-2013/public-lab-sessions-mozfest-oct-25-7-2013.md

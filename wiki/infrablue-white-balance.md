@@ -1,5 +1,5 @@
 ---
-title: White balance for NDVI cameras
+title: 'White balance for NDVI cameras'
 tagnames: near-infrared-camera, ndvi, infrared, white-balance, infragram, parent:infragram, 2007, 74, 2008
 author: cfastie
 path: /wiki/infrablue-white-balance.md

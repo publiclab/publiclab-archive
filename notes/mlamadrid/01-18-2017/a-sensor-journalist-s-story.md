@@ -1,5 +1,5 @@
 ---
-title: A Sensor Journalist’s Story
+title: 'A Sensor Journalist’s Story'
 tagnames: arduino, water-quality, water, riffle, communityscienceforum, riffle-examples
 author: mlamadrid
 path: /notes/mlamadrid/01-18-2017/a-sensor-journalist-s-story.md

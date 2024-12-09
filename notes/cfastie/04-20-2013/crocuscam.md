@@ -1,5 +1,5 @@
 ---
-title: CrocusCam
+title: 'CrocusCam'
 tagnames: near-infrared-camera, nrg, ndvi, nir, vermont, infragram, plant-health, timelapse, category:observe, activity:timelapse, difficulty:hard, time:10h
 author: cfastie
 path: /notes/cfastie/04-20-2013/crocuscam.md

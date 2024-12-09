@@ -1,5 +1,5 @@
 ---
-title: river-point-golf-course
+title: 'river-point-golf-course'
 tagnames: 
 author: 
 path: /notes/5-11-2012/river-point-golf-course.md

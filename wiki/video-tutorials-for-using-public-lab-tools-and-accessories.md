@@ -1,5 +1,5 @@
 ---
-title: Video Tutorials for using Public Lab tools and accessories.
+title: 'Video Tutorials for using Public Lab tools and accessories.'
 tagnames: video, documentation, tutorial, videos, video-documentation, video-tutorial, tutorials
 author: btbonval
 path: /wiki/video-tutorials-for-using-public-lab-tools-and-accessories.md

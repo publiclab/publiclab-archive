@@ -1,5 +1,5 @@
 ---
-title: Methods
+title: 'Methods'
 tagnames: methods, organization
 author: warren
 path: /wiki/methods.md

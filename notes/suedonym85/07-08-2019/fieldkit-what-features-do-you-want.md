@@ -1,5 +1,5 @@
 ---
-title: FieldKit: What features do you want?
+title: 'FieldKit: What features do you want?'
 tagnames: software, sensing, sensors, visualization, sharing, data, environmental, hardware, storytelling, first-time-poster, lat:34.052659, lon:-118.234863
 author: suedonym85
 path: /notes/suedonym85/07-08-2019/fieldkit-what-features-do-you-want.md

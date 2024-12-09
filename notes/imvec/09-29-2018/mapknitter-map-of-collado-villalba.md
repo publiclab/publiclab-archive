@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Collado Villalba 
+title: 'MapKnitter map of Collado Villalba '
 tagnames: mapknitter, spain, river, eu, ballon-mapping, with:arturunderwater, with:xose, lat:40.6224872239, lon:-3.9988517761
 author: imvec
 path: /notes/imvec/09-29-2018/mapknitter-map-of-collado-villalba.md

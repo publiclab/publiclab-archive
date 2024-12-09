@@ -1,5 +1,5 @@
 ---
-title: FYS_JC&WM_Description 
+title: 'FYS_JC&WM_Description '
 tagnames: 
 author: chlwngml311
 path: /notes/chlwngml311/09-24-2015/ju-hee-choi-and-will-mccoy.md

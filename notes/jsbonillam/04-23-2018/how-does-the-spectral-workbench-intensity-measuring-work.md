@@ -1,5 +1,5 @@
 ---
-title: How does the Spectral Workbench intensity measuring work?
+title: 'How does the Spectral Workbench intensity measuring work?'
 tagnames: spectralworkbench, spectral-analysis, question:general
 author: jsbonillam
 path: /notes/jsbonillam/04-23-2018/how-does-the-spectral-workbench-intensity-measuring-work.md

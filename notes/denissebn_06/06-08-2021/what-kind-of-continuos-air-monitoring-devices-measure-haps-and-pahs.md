@@ -1,5 +1,5 @@
 ---
-title: What kind of continous air monitoring devices measure HAPs and PAHs?
+title: 'What kind of continous air monitoring devices measure HAPs and PAHs?'
 tagnames: landfill, california, air-quality, land-use, air-monitoring, polycyclic-aromatic-hydrocarbons, gas-monitoring, question:general, general, pahs, with:amocorro, question:vvamp, hazardous-air-polluntants, oregon, question:gas-monitoring
 author: denissebn_06
 path: /notes/denissebn_06/06-08-2021/what-kind-of-continuos-air-monitoring-devices-measure-haps-and-pahs.md

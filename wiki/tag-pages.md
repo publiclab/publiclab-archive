@@ -1,5 +1,5 @@
 ---
-title: Tag Pages
+title: 'Tag Pages'
 tagnames: redirect:topic-pages
 author: warren
 path: /wiki/tag-pages.md

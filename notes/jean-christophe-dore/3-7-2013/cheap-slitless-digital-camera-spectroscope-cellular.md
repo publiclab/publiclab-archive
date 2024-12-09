@@ -1,5 +1,5 @@
 ---
-title: cheap slitless digital camera spectroscope with cellular
+title: 'cheap slitless digital camera spectroscope with cellular'
 tagnames: spectrometer, cellular, slitless
 author: Jean-Christophe-DORE
 path: /notes/jean-christophe-dore/3-7-2013/cheap-slitless-digital-camera-spectroscope-cellular.md

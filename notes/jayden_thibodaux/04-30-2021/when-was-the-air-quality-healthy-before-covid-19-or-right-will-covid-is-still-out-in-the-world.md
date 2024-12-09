@@ -1,5 +1,5 @@
 ---
-title: When was the air quality healthy before Covid-19 or right will Covid is still out in the world?
+title: 'When was the air quality healthy before Covid-19 or right will Covid is still out in the world?'
 tagnames: first-time-poster
 author: jayden_thibodaux
 path: /notes/jayden_thibodaux/04-30-2021/when-was-the-air-quality-healthy-before-covid-19-or-right-will-covid-is-still-out-in-the-world.md

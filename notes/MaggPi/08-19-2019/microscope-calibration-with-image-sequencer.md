@@ -1,5 +1,5 @@
 ---
-title: MICROSCOPE CALIBRATION WITH IMAGE SEQUENCER
+title: 'MICROSCOPE CALIBRATION WITH IMAGE SEQUENCER'
 tagnames: calibration, image-processing, microscope, pi-camera, microscopy, raspberry-pi-cameras, microns, image-sequencer, gsoc-2019, overlay
 author: MaggPi
 path: /notes/MaggPi/08-19-2019/microscope-calibration-with-image-sequencer.md

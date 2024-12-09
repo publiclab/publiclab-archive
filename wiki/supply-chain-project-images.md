@@ -1,5 +1,5 @@
 ---
-title: Supply Chain Project Images
+title: 'Supply Chain Project Images'
 tagnames: 
 author: warren
 path: /wiki/supply-chain-project-images.md

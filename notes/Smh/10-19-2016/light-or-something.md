@@ -1,5 +1,5 @@
 ---
-title: Light or something 
+title: 'Light or something '
 tagnames: hidden:response, response:13586
 author: Smh
 path: /notes/Smh/10-19-2016/light-or-something.md

@@ -1,5 +1,5 @@
 ---
-title: Re-posting 2016 Dustduino report
+title: 'Re-posting 2016 Dustduino report'
 tagnames: arduino, sensors, dustduino, dust, brasil, pm, particulate-matter, with:willie
 author: liz
 path: /notes/liz/06-21-2017/re-posting-2016-dustduino-report.md

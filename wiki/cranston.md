@@ -1,5 +1,5 @@
 ---
-title: Cranston
+title: 'Cranston'
 tagnames: 
 author: warren
 path: /wiki/cranston.md

@@ -1,5 +1,5 @@
 ---
-title: Lens Distortion
+title: 'Lens Distortion'
 tagnames: gopro, mobius-action-cam, fisheyegl, parent:mini-camera
 author: warren
 path: /wiki/lens-distortion.md

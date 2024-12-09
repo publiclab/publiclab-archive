@@ -1,5 +1,5 @@
 ---
-title: Pipeline Monitoring
+title: 'Pipeline Monitoring'
 tagnames: pipeline, method, oil-and-gas, pipelines, pipeline-monitoring, redirect:pipeline
 author: a1ahna
 path: /wiki/pipeline-monitoring.md

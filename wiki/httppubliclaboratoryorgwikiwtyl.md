@@ -1,5 +1,5 @@
 ---
-title: http://publiclaboratory.org/wiki/WTYL
+title: 'http://publiclaboratory.org/wiki/WTYL'
 tagnames: sinkhole, karst
 author: arlisjohnson
 path: /wiki/httppubliclaboratoryorgwikiwtyl.md

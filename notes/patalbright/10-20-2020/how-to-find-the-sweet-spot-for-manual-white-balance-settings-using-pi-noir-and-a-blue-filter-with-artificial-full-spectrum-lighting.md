@@ -1,5 +1,5 @@
 ---
-title: How to find the sweet spot for manual white balance settings using Pi NoIR and a blue filter with artificial (full spectrum) lighting
+title: 'How to find the sweet spot for manual white balance settings using Pi NoIR and a blue filter with artificial (full spectrum) lighting'
 tagnames: ndvi, white-balance, infragram, question:ndvi, question:infragram, question:white-balance, whitebalance, raspberrypi, noir, first-time-poster, infragram-pi, question:infragram-pi, question:raspberrypi, bluefilter, question:whitebalance, question:noir, question:bluefilter
 author: patalbright
 path: /notes/patalbright/10-20-2020/how-to-find-the-sweet-spot-for-manual-white-balance-settings-using-pi-noir-and-a-blue-filter-with-artificial-full-spectrum-lighting.md

@@ -1,5 +1,5 @@
 ---
-title: How do different time intervals for timelapse cameras affect their required maintenance? 
+title: 'How do different time intervals for timelapse cameras affect their required maintenance? '
 tagnames: timelapse, answered, question:timelapse, first-time-poster
 author: cherylh
 path: /notes/cherylh/05-15-2017/how-do-different-time-intervals-for-timelapse-cameras-affect-their-required-maintenance.md

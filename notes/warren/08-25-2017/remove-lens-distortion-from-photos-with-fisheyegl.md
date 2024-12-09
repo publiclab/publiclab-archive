@@ -1,5 +1,5 @@
 ---
-title: Remove lens distortion from photos with FisheyeGL
+title: 'Remove lens distortion from photos with FisheyeGL'
 tagnames: nasa, infragram, fisheye, gopro, mobius, mobius-action-cam, javascript, lens-distortion, web-based, browser, activity:mobius, activity:mini-balloon-kit, activity:mini-kite-kit, activity:aerial-mapping, response:13826, activity:lens-distortion, aren, lens-swapping, lens-correction, activity:lens-correction, activity:mobius-action-cam, activity:infragram-point-shoot, mini-camera, activity:mini-camera
 author: warren
 path: /notes/warren/08-25-2017/remove-lens-distortion-from-photos-with-fisheyegl.md

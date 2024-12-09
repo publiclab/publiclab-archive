@@ -1,5 +1,5 @@
 ---
-title: Can geotagged aerial images be automatically placed in the right location on the map according to their coordinates?
+title: 'Can geotagged aerial images be automatically placed in the right location on the map according to their coordinates?'
 tagnames: balloon-mapping, mapknitter, aerial-photography, gps, georeferencing, question:mapknitter, geotagging, first-time-poster, question:geotagging
 author: se18023
 path: /notes/se18023/04-24-2019/can-geotagged-aerial-images-be-automatically-placed-in-the-right-location-on-the-map-according-to-their-coordinates.md

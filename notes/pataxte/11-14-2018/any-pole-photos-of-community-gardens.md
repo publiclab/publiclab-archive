@@ -1,5 +1,5 @@
 ---
-title: Any pole photos of community gardens?
+title: 'Any pole photos of community gardens?'
 tagnames: urban-ag, pole-mapping, question:general, gardens, first-time-poster
 author: pataxte
 path: /notes/pataxte/11-14-2018/any-pole-photos-of-community-gardens.md

@@ -1,5 +1,5 @@
 ---
-title: MQI Environmental Recorder
+title: 'MQI Environmental Recorder'
 tagnames: indoor-air-quality-mapping, thermal-flashlight, methane, natural-gas, co, lpg
 author: DJUltis
 path: /notes/DJUltis/12-09-2013/mqi-environmental-recorder.md

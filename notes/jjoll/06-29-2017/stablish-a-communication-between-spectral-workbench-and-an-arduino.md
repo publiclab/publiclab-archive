@@ -1,5 +1,5 @@
 ---
-title: stablish a communication between Spectral Workbench and an arduino???
+title: 'stablish a communication between Spectral Workbench and an arduino???'
 tagnames: spectrometer, spectralworkbench, question:general
 author: jjoll
 path: /notes/jjoll/06-29-2017/stablish-a-communication-between-spectral-workbench-and-an-arduino.md

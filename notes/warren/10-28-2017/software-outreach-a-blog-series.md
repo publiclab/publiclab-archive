@@ -1,5 +1,5 @@
 ---
-title: Software outreach: a blog series
+title: 'Software outreach: a blog series'
 tagnames: web-development, software, outreach, development, gsoc, blog, code, wwg, software-outreach, gsoc-2017, soc, response:15093, response:13687, series:software-outreach
 author: warren
 path: /notes/warren/10-28-2017/software-outreach-a-blog-series.md

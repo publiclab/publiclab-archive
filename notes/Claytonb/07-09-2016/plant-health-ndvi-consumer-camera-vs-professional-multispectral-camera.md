@@ -1,5 +1,5 @@
 ---
-title: Plant Health NDVI Consumer camera vs Professional multispectral camera
+title: 'Plant Health NDVI Consumer camera vs Professional multispectral camera'
 tagnames: ndvi, calibration, infrared, near-infrared, infragram, comparison, wratten25a, super-red, red-vs-blue, barnstar:basic, validation, response:12670
 author: Claytonb
 path: /notes/Claytonb/07-09-2016/plant-health-ndvi-consumer-camera-vs-professional-multispectral-camera.md

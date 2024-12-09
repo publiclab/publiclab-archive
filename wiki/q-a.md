@@ -1,5 +1,5 @@
 ---
-title: Q&A
+title: 'Q&A'
 tagnames: 
 author: liz
 path: /wiki/q-a.md

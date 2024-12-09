@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo mido el pH de una solución con un repollo morado? Su relación con la calidad de agua
+title: '¿Cómo mido el pH de una solución con un repollo morado? Su relación con la calidad de agua'
 tagnames: water-quality, lang:es, ph, activity:water-quality, activity:ph, zoom:6, lon:-64, lat:-31, research-curation-fellows
 author: alejobonifacio
 path: /notes/alejobonifacio/12-09-2021/como-mido-el-ph-de-una-solucion-con-un-repollo-morado-su-relacion-con-la-calidad-de-agua.md

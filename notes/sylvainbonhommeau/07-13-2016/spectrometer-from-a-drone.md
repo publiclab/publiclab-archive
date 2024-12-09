@@ -1,5 +1,5 @@
 ---
-title: Spectrometer from a drone
+title: 'Spectrometer from a drone'
 tagnames: spectrometer, hyperspectral, drone, question:spectrometry, drone-spectrometry
 author: sylvainbonhommeau
 path: /notes/sylvainbonhommeau/07-13-2016/spectrometer-from-a-drone.md

@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Update 23: August 2018
+title: 'Web Working Group Update 23: August 2018'
 tagnames: website, web-development, software, gsoc, developers, code, wwg, webwg, rgsoc, soc, soc-2018, wwg-report, response:16455
 author: warren
 path: /notes/warren/08-30-2018/web-working-group-update-23-august-2018.md

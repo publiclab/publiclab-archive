@@ -1,5 +1,5 @@
 ---
-title: Samsung PL57 conversion
+title: 'Samsung PL57 conversion'
 tagnames: 
 author: Whizzman
 path: /notes/Whizzman/01-28-2015/samsung-pl57-conversion.md

@@ -1,5 +1,5 @@
 ---
-title: Effects of Solvents on Fluorescence of Biological Dyes
+title: 'Effects of Solvents on Fluorescence of Biological Dyes'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-27-2016/effects-of-solvents-on-fluorescence-of-biological-dyes.md

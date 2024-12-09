@@ -1,5 +1,5 @@
 ---
-title: Public Lab job posting: Inventory and Shipping Coordinator
+title: 'Public Lab job posting: Inventory and Shipping Coordinator'
 tagnames: kits, nonprofit, jobs
 author: klie
 path: /notes/klie/01-28-2016/public-lab-job-posting-inventory-and-shipping-coordinator.md

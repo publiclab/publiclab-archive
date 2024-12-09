@@ -1,5 +1,5 @@
 ---
-title: Parurino
+title: 'Parurino'
 tagnames: parurino
 author: warren
 path: /wiki/parurino.md

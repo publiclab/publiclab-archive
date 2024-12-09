@@ -1,5 +1,5 @@
 ---
-title: Organization
+title: 'Organization'
 tagnames: 
 author: warren
 path: /wiki/organization.md

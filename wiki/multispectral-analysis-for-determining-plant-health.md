@@ -1,5 +1,5 @@
 ---
-title: Multispectral analysis for determining plant health
+title: 'Multispectral analysis for determining plant health'
 tagnames: spectrography, infrared, spectrometry, photosynthesis, plant-health, plant-biology
 author: btbonval
 path: /wiki/multispectral-analysis-for-determining-plant-health.md

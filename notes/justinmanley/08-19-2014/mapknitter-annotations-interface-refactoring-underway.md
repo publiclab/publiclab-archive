@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Annotations: Interface Refactoring Underway
+title: 'MapKnitter Annotations: Interface Refactoring Underway'
 tagnames: mapknitter, map-annotations, annotations
 author: justinmanley
 path: /notes/justinmanley/08-19-2014/mapknitter-annotations-interface-refactoring-underway.md

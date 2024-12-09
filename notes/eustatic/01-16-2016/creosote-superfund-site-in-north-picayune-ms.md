@@ -1,5 +1,5 @@
 ---
-title: Creosote Superfund site in north Picayune, MS
+title: 'Creosote Superfund site in north Picayune, MS'
 tagnames: gulf-coast, balloon-mapping
 author: eustatic
 path: /01-16-2016/creosote-superfund-site-in-north-picayune-ms.md

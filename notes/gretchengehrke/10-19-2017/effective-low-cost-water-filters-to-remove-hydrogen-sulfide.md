@@ -1,5 +1,5 @@
 ---
-title: Effective low-cost water filters to remove hydrogen sulfide?
+title: 'Effective low-cost water filters to remove hydrogen sulfide?'
 tagnames: hydrogen-sulfide, water-quality, filters, filtration, question:question, question:water-quality, water-filters, question:hydrogen-sulfide, question:filtration, question:filters
 author: gretchengehrke
 path: /notes/gretchengehrke/10-19-2017/effective-low-cost-water-filters-to-remove-hydrogen-sulfide.md

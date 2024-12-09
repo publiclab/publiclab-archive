@@ -1,5 +1,5 @@
 ---
-title: Oct 4: MicroBrews meet-up at AS220 Food, Providence
+title: 'Oct 4: MicroBrews meet-up at AS220 Food, Providence'
 tagnames: providence, events, workshop, event, rhode-island, microscopes, community-microscope, microbrews, date:10-04-2019, event:providence, lat:41.821603, lon:-71.415885
 author: warren
 path: /notes/warren/09-30-2019/microbrews-meet-up-at-as220-food-providence.md

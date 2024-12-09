@@ -1,5 +1,5 @@
 ---
-title: Updating the WheeTrometer: Code for running the CCD.
+title: 'Updating the WheeTrometer: Code for running the CCD.'
 tagnames: spectrometer, spectroscopy, wheetrometer
 author: JSummers
 path: /notes/JSummers/06-03-2018/updating-the-wheetrometer-code-for-running-the-ccd.md

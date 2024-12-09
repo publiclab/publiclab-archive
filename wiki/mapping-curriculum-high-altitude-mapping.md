@@ -1,5 +1,5 @@
 ---
-title: Mapping Curriculum: High Altitude Mapping
+title: 'Mapping Curriculum: High Altitude Mapping'
 tagnames: balloon-mapping, curriculum, map-curriculum, parent:mapping-curriculum, mapping-curriculum
 author: gonzoearth
 path: /wiki/mapping-curriculum-high-altitude-mapping.md

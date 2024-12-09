@@ -1,5 +1,5 @@
 ---
-title: Convening diversity and inclusion initiatives across open source projects
+title: 'Convening diversity and inclusion initiatives across open source projects'
 tagnames: community, evaluation, software-outreach, eval, diversity, welcoming, inclusion
 author: liz
 path: /notes/liz/02-28-2018/convening-diversity-and-inclusion-initiatives-across-open-source-projects.md

@@ -1,5 +1,5 @@
 ---
-title: What is the correct AQI measure ?
+title: 'What is the correct AQI measure ?'
 tagnames: mapping-meet-up, air-quality, leaflet, dust, pm, question:air-quality, question:pm, general, purpleair, soc-2018, question:purpleair, aqi
 author: sagarpreet
 path: /notes/sagarpreet/06-22-2018/what-is-the-correct-aqi-measure.md

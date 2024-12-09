@@ -1,5 +1,5 @@
 ---
-title: soda bottle rig for pendulum suspension
+title: 'soda bottle rig for pendulum suspension'
 tagnames: diy-mount-kit
 author: tonyc
 path: /notes/tonyc/12-12-2015/soda-bottle-rig-for-pendulum-suspension.md

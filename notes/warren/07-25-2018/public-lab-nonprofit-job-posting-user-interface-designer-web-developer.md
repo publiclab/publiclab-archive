@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit job posting: User interface designer/web developer
+title: 'Public Lab nonprofit job posting: User interface designer/web developer'
 tagnames: design, nonprofit, jobs, with:stevie, with:liz, ui, job
 author: warren
 path: /notes/warren/07-25-2018/public-lab-nonprofit-job-posting-user-interface-designer-web-developer.md

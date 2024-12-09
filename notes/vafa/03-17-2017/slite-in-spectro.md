@@ -1,5 +1,5 @@
 ---
-title: making a slit in spectrometer
+title: 'making a slit in spectrometer'
 tagnames: spectrometer, spectrometry, question:spectrometry, ambient-light, reflections, build:13470, adjustable-slit
 author: vafa
 path: /notes/vafa/03-17-2017/slite-in-spectro.md

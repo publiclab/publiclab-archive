@@ -1,5 +1,5 @@
 ---
-title: sandbox community science
+title: 'sandbox community science'
 tagnames: 
 author: liz
 path: /wiki/sandbox-community-science.md

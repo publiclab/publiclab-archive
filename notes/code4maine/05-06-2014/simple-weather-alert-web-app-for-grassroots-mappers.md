@@ -1,5 +1,5 @@
 ---
-title: Simple Weather-Alert Web App for Grassroots Mappers?
+title: 'Simple Weather-Alert Web App for Grassroots Mappers?'
 tagnames: mapping, grassroots, weather, webapp, forecast
 author: ajawitz
 path: /notes/code4maine/05-06-2014/simple-weather-alert-web-app-for-grassroots-mappers.md

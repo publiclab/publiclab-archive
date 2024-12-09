@@ -1,5 +1,5 @@
 ---
-title: DustDuino Data Quality
+title: 'DustDuino Data Quality'
 tagnames: indoor-air-quality-mapping, particulate-sensing, air-quality, internet, tool, dustduino, open-air
 author: willie
 path: /notes/Willie/03-06-2015/dustduino-data-quality.md

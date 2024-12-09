@@ -1,5 +1,5 @@
 ---
-title: White balancing a 4 channel RAW image?
+title: 'White balancing a 4 channel RAW image?'
 tagnames: near-infrared-camera, ndvi, white-balance
 author: Fi156
 path: /notes/Fi156/05-25-2015/white-balancing-a-4-channel-raw-image.md

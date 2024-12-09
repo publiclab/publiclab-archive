@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST 2016
+title: 'LEAFFEST 2016'
 tagnames: vermont, leaffest, northeast, response:12212, leaffest2016, leaffest-2016
 author: cfastie
 path: /notes/cfastie/08-12-2016/leaffest-2016.md

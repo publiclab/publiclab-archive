@@ -1,5 +1,5 @@
 ---
-title: Software outreach: Modularity is great for collaboration
+title: 'Software outreach: Modularity is great for collaboration'
 tagnames: website, software, gsoc, web, developers, wwg, software-outreach, soc, response:15093, response:13687, series:software-outreach, gsoc-2018, soc-2018, modularity
 author: warren
 path: /notes/warren/01-18-2018/software-outreach-modularity-is-great-for-collaboration.md

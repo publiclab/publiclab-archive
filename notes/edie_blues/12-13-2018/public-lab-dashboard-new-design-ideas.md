@@ -1,5 +1,5 @@
 ---
-title: Public Lab Dashboard - new design ideas 
+title: 'Public Lab Dashboard - new design ideas '
 tagnames: design, ui, ui-designs
 author: edie_blues
 path: /notes/edie_blues/12-13-2018/public-lab-dashboard-new-design-ideas.md

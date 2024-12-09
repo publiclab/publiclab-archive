@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of bay uhlan pigeon 7 dec 2017
+title: 'MapKnitter map of bay uhlan pigeon 7 dec 2017'
 tagnames: mapknitter, mgp, lat:29.5198101, lon:-89.6786824, uhlan
 author: eustatic
 path: /12-07-2017/mapknitter-map-of-bay-uhlan-pigeon-7-dec-2017.md

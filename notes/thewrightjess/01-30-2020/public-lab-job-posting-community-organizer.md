@@ -1,5 +1,5 @@
 ---
-title: Job Posting: Community Organizer 
+title: 'Job Posting: Community Organizer '
 tagnames: community, development, jobs, lat:29.951065, lon:-90.071532, zoom:6
 author: thewrightjess
 path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-community-organizer.md

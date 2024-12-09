@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast Photography sets to Map [draft]
+title: 'Gulf Coast Photography sets to Map [draft]'
 tagnames: gulf-coast, kite-mapping
 author: eustatic
 path: /wiki/gulf-coast-photography-sets-to-map-draft.md

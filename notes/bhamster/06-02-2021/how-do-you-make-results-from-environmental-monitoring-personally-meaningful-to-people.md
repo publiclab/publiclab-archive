@@ -1,5 +1,5 @@
 ---
-title: How do you make results from environmental monitoring personally meaningful to people?
+title: 'How do you make results from environmental monitoring personally meaningful to people?'
 tagnames: organizing, advocacy, question:general, general, community-organizing, question:advocacy, public-awareness, question:organizing, question:community-organizing, presenting-data, question:presenting-data, air-quality-data, question:air-quality-data, data-advocacy
 author: bhamster
 path: /notes/bhamster/06-02-2021/how-do-you-make-results-from-environmental-monitoring-personally-meaningful-to-people.md

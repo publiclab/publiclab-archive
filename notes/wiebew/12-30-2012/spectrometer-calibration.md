@@ -1,5 +1,5 @@
 ---
-title: Spectrometer calibration
+title: 'Spectrometer calibration'
 tagnames: spectrometer, calibration, spectrometer-calibration, intensity-calibration, wavelength
 author: wiebew
 path: /notes/wiebew/12-30-2012/spectrometer-calibration.md

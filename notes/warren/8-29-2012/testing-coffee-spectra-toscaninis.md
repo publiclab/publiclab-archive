@@ -1,5 +1,5 @@
 ---
-title: Testing coffee spectra at Toscanini's
+title: 'Testing coffee spectra at Toscanini's'
 tagnames: spectrometer, kickstarter, coffee, toscaninis
 author: warren
 path: /notes/warren/8-29-2012/testing-coffee-spectra-toscaninis.md

@@ -1,5 +1,5 @@
 ---
-title: Infrablue Webcam Panoramas in the Oakland Hills
+title: 'Infrablue Webcam Panoramas in the Oakland Hills'
 tagnames: near-infrared-camera, conversion, infragram, response:8285, infragram-camera-testing
 author: gonzoearth
 path: /notes/gonzoearth/07-02-2013/infrablue-webcam-panoramas-in-the-oakland-hills.md

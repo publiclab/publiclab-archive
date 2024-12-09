@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal : Tag/Topic System Refinements
+title: 'GSoC Proposal : Tag/Topic System Refinements'
 tagnames: gsoc, location:blurred, lat:28, lon:77, place:india, first-time-poster, zoom:6, gsoc-2021-proposals
 author: 17sushmita
 path: /notes/17sushmita/04-12-2021/gsoc-proposal-tag-topic-system-refinements.md

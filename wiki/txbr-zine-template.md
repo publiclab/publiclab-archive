@@ -1,5 +1,5 @@
 ---
-title: Txbr-zine-template
+title: 'Txbr-zine-template'
 tagnames: template, parent:templates
 author: warren
 path: /wiki/txbr-zine-template.md

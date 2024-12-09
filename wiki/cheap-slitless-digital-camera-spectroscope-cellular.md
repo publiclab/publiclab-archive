@@ -1,5 +1,5 @@
 ---
-title: cheap slitless digital camera spectroscope with cellular
+title: 'cheap slitless digital camera spectroscope with cellular'
 tagnames: 
 author: JCD
 path: /wiki/cheap-slitless-digital-camera-spectroscope-cellular.md

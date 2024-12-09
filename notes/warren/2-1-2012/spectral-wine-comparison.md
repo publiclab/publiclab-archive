@@ -1,5 +1,5 @@
 ---
-title: Spectral wine comparison
+title: 'Spectral wine comparison'
 tagnames: 
 author: warren
 path: /notes/warren/2-1-2012/spectral-wine-comparison.md

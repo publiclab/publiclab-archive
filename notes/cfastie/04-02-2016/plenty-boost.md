@@ -1,5 +1,5 @@
 ---
-title: Plenty boost
+title: 'Plenty boost'
 tagnames: kite-mapping, arduino, vermont, kite, saturnv, skyshield, response:12330, voltage, battery
 author: cfastie
 path: /notes/cfastie/04-02-2016/plenty-boost.md

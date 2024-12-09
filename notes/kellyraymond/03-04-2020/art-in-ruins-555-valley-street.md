@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (555 Valley Street)
+title: 'Art in Ruins (555 Valley Street)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.82887, lon:-71.430417, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-555-valley-street.md

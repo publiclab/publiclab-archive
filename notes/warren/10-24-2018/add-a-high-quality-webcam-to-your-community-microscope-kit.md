@@ -1,5 +1,5 @@
 ---
-title: Add a high-quality webcam to your Community Microscope kit using LEGO
+title: 'Add a high-quality webcam to your Community Microscope kit using LEGO'
 tagnames: kickstarter, webcam, lego, pi, seeks:replications, activity:microscope, microscopes, activity:microscopes, activity:basic-microscope, pi-, community-microscope, activity:lego, activity:community-microscope-assembly, community-microscope-assembly, build:lego
 author: warren
 path: /notes/warren/10-24-2018/add-a-high-quality-webcam-to-your-community-microscope-kit.md

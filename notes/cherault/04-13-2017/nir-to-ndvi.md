@@ -1,5 +1,5 @@
 ---
-title: NIR to NDVI
+title: 'NIR to NDVI'
 tagnames: event, event:rsvp, question:forum, date:04-13-2017
 author: cherault
 path: /notes/cherault/04-13-2017/nir-to-ndvi.md

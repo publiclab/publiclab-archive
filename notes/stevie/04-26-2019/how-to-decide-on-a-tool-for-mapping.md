@@ -1,5 +1,5 @@
 ---
-title: How to decide on a tool for mapping
+title: 'How to decide on a tool for mapping'
 tagnames: land-use, activity:aerial-photography, activity:kite-mapping, activity:pole-mapping, activity:balloon-mapping, activity:aerial-mapping, activity:getting-started, activity:mapping, activity:balloon, activity:publiclabriverratpack, activity:bourjalshamali, pin:activity:balloon-mapping, activity:land-use
 author: stevie
 path: /notes/stevie/04-26-2019/how-to-decide-on-a-tool-for-mapping.md

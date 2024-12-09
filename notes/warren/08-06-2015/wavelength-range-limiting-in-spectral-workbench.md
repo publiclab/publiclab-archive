@@ -1,5 +1,5 @@
 ---
-title: Wavelength range limiting in Spectral Workbench
+title: 'Wavelength range limiting in Spectral Workbench'
 tagnames: spectrometer, web-development, software, spectral-workbench, oil-testing-kit, response:12108
 author: warren
 path: /notes/warren/08-06-2015/wavelength-range-limiting-in-spectral-workbench.md

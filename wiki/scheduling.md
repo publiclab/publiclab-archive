@@ -1,5 +1,5 @@
 ---
-title: scheduling
+title: 'scheduling'
 tagnames: parent:gardening-toolkit, gardening-toolkit
 author: liz
 path: /wiki/scheduling.md

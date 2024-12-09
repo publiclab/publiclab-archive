@@ -1,5 +1,5 @@
 ---
-title: Emerson College JR-368 Water Sample Data
+title: 'Emerson College JR-368 Water Sample Data'
 tagnames: first-time-poster
 author: abcieslik
 path: /notes/abcieslik/09-29-2014/emerson-college-jr-368-water-sample-data.md

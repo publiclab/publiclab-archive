@@ -1,5 +1,5 @@
 ---
-title: The yellow lightbulb 2
+title: 'The yellow lightbulb 2'
 tagnames: hidden:response, response:13586
 author: Rmack2
 path: /notes/Rmack2/10-19-2016/the-yellow-lightbulb-2.md

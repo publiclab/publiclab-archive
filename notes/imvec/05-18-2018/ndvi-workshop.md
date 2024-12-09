@@ -1,5 +1,5 @@
 ---
-title: NDVI workshop - Barcelona
+title: 'NDVI workshop - Barcelona'
 tagnames: ndvi, spain, workshop, lang:es, event:rsvp, date:05-24-2018, with:arturunderwater, with:xose
 author: imvec
 path: /notes/imvec/05-18-2018/ndvi-workshop.md

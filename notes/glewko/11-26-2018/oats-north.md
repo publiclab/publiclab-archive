@@ -1,5 +1,5 @@
 ---
-title: Oats North
+title: 'Oats North'
 tagnames: first-time-poster
 author: glewko
 path: /notes/glewko/11-26-2018/oats-north.md

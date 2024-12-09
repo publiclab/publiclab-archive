@@ -1,5 +1,5 @@
 ---
-title: soc
+title: 'soc'
 tagnames: redirect:gsoc
 author: warren
 path: /wiki/soc.md

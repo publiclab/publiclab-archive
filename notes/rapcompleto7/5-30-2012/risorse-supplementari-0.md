@@ -1,5 +1,5 @@
 ---
-title: Risorse supplementari
+title: 'Risorse supplementari'
 tagnames: 
 author: Rapcompleto7
 path: /notes/rapcompleto7/5-30-2012/risorse-supplementari-0.md

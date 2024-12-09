@@ -1,5 +1,5 @@
 ---
-title: Keeping it easy, making it awesome: open source documentation
+title: 'Keeping it easy, making it awesome: open source documentation'
 tagnames: open-source, documentation, guides
 author: warren
 path: /notes/warren/6-20-2012/keeping-it-easy-making-it-awesome-open-source-documentation.md

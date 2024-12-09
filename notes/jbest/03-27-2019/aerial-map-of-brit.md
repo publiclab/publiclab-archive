@@ -1,5 +1,5 @@
 ---
-title: Aerial map of BRIT
+title: 'Aerial map of BRIT'
 tagnames: mapknitter, lat:32.750436, lon:-97.3345227
 author: jbest
 path: /notes/jbest/03-27-2019/aerial-map-of-brit.md

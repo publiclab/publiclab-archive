@@ -1,5 +1,5 @@
 ---
-title: Have you observed environmental or public health deregulation activity within your State's government? If so, can you share the details, as well as what community advocacy has occurred, if any, to challenge such deregulation?
+title: 'Have you observed environmental or public health deregulation activity within your State's government? If so, can you share the details, as well as what community advocacy has occurred, if any, to challenge such deregulation?'
 tagnames: state-regulations, environmental-legislation, public-health-laws, deregulation
 author: gilbert
 path: /notes/gilbert/11-30-2017/have-you-observed-environmental-or-public-health-deregulation-activity-within-your-state-s-government-if-so-can-you-share-the-details-as-well-as-what-community-advocacy-has-occurred-if-any-to-challenge-such-deregulation.md

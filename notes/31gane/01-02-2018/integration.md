@@ -1,5 +1,5 @@
 ---
-title: Systems Integration - Spectrometry
+title: 'Systems Integration - Spectrometry'
 tagnames: spectrometer, design, building, integration, abstraction, plan
 author: 31gane
 path: /notes/31gane/01-02-2018/integration.md

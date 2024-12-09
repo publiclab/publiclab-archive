@@ -1,5 +1,5 @@
 ---
-title: Cross-posting:: The Tapajos River communities begin to monitor water quality with sensor
+title: 'Cross-posting:: The Tapajos River communities begin to monitor water quality with sensor'
 tagnames: blog
 author: stevie
 path: /notes/stevie/12-01-2015/cross-posting-the-tapajos-river-communities-begin-to-monitor-water-quality-with-sensor.md

@@ -1,5 +1,5 @@
 ---
-title: Share Your Barnraising 2017 Photos!
+title: 'Share Your Barnraising 2017 Photos!'
 tagnames: events, louisiana, barnraising, barnraising-2017, barnraising2017
 author: Bronwen
 path: /notes/bronwen/11-05-2017/share-your-barnraising-2017-photos.md

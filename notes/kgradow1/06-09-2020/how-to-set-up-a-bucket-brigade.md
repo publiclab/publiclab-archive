@@ -1,5 +1,5 @@
 ---
-title: How to Set Up a Bucket Brigade
+title: 'How to Set Up a Bucket Brigade'
 tagnames: organizing, air-quality, bucket-brigade, advocacy, advocacy-pathways, air-sensors, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, activity:advocacy
 author: kgradow1
 path: /notes/kgradow1/06-09-2020/how-to-set-up-a-bucket-brigade.md

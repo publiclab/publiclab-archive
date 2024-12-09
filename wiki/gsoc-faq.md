@@ -1,5 +1,5 @@
 ---
-title: GSoC FAQ
+title: 'GSoC FAQ'
 tagnames: gsoc, gsoc-2014
 author: warren
 path: /wiki/gsoc-faq.md

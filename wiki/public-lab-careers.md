@@ -1,5 +1,5 @@
 ---
-title: Public Lab Careers
+title: 'Public Lab Careers'
 tagnames: staff, jobs, fellowships, careers
 author: thewrightjess
 path: /wiki/public-lab-careers.md

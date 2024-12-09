@@ -1,5 +1,5 @@
 ---
-title: Grassroots Newark Continues
+title: 'Grassroots Newark Continues'
 tagnames: balloon-mapping, newark, new-jersey, northeast, first-time-poster
 author: Hudonnoodles
 path: /notes/Hudonnoodles/05-01-2018/grassroots-newark-continues.md

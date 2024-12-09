@@ -1,5 +1,5 @@
 ---
-title: Kits Initiative
+title: 'Kits Initiative'
 tagnames: open-hardware, kits, special, kits-initiative, hardware, locked, location:blurred, zoom:6, lat:46, lon:7, place:switzerland
 author: warren
 path: /wiki/kits.md

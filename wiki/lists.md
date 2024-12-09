@@ -1,5 +1,5 @@
 ---
-title: Mailing lists
+title: 'Mailing lists'
 tagnames: spectrometer, community, kite, help, uk, hello-kitty, mailing-lists, research, forum, forums, lists, discussion, locked, sidebar:none
 author: warren
 path: /wiki/lists.md

@@ -1,5 +1,5 @@
 ---
-title: Grow kombucha leather (Parsons Healthy Materials Lab)
+title: 'Grow kombucha leather (Parsons Healthy Materials Lab)'
 tagnames: seeks:replications, kombucha-leather, activity:kombucha-leather
 author: liz
 path: /notes/liz/01-26-2018/grow-kombucha-leather-parsons-healthy-materials-lab.md

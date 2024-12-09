@@ -1,5 +1,5 @@
 ---
-title: Learning to search satellite imagery for thermally- or productivity- detectable ocean upwellings
+title: 'Learning to search satellite imagery for thermally- or productivity- detectable ocean upwellings'
 tagnames: first-time-poster
 author: ronhuber
 path: /notes/ron-huber/2-12-2012/learning-search-satellite-imagery-thermally-or-productivity-detectable-oce.md

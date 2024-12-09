@@ -1,5 +1,5 @@
 ---
-title: PhotosynQ demo, Thursday night at Mach 30
+title: 'PhotosynQ demo, Thursday night at Mach 30'
 tagnames: photosynq, demo
 author: gbathree
 path: /notes/gbathree/03-10-2014/photosynq-demo-thursday-night-at-mach-30.md

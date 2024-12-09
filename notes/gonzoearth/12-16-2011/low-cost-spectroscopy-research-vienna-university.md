@@ -1,5 +1,5 @@
 ---
-title: low cost spectroscopy research at Vienna University
+title: 'low cost spectroscopy research at Vienna University'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/12-16-2011/low-cost-spectroscopy-research-vienna-university.md

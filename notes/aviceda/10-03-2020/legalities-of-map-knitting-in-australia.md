@@ -1,5 +1,5 @@
 ---
-title: Legalities of 'map-knitting' in Australia
+title: 'Legalities of 'map-knitting' in Australia'
 tagnames: australia, mapping, aerial-mapping, general, first-time-poster, law, law-and-policy
 author: aviceda
 path: /notes/aviceda/10-03-2020/legalities-of-map-knitting-in-australia.md

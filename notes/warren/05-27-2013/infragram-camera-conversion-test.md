@@ -1,5 +1,5 @@
 ---
-title: Infragram camera conversion test
+title: 'Infragram camera conversion test'
 tagnames: near-infrared-camera, infragram, infragram-conversion
 author: warren
 path: /notes/warren/05-27-2013/infragram-camera-conversion-test.md

@@ -1,5 +1,5 @@
 ---
-title: Powering a synchronized USB trigger for dual camera rigs
+title: 'Powering a synchronized USB trigger for dual camera rigs'
 tagnames: near-infrared-camera
 author: warren
 path: /notes/warren/3-16-2012/powering-synchronized-usb-trigger-dual-camera-rigs.md

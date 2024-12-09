@@ -1,5 +1,5 @@
 ---
-title: Desktop Spectrometer Kit Availablility
+title: 'Desktop Spectrometer Kit Availablility'
 tagnames: question:spectrometry, question:dssk
 author: bicwood
 path: /notes/bicwood/04-18-2017/desktop-spectrometer-kit-availablility.md

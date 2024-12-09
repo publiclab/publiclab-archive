@@ -1,5 +1,5 @@
 ---
-title: Workshop VII: How will we study our environmental problem?
+title: 'Workshop VII: How will we study our environmental problem?'
 tagnames: education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, activity:student-community-science, with:purl
 author: mimiss
 path: /notes/mimiss/06-03-2019/workshop-vii-how-will-we-study-our-environmental-problem.md

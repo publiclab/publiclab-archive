@@ -1,5 +1,5 @@
 ---
-title: How to Describe Odors Using FIDO, illustrated by Sara Sage
+title: 'How to Describe Odors Using FIDO, illustrated by Sara Sage'
 tagnames: fido, odor, odor-logging, csf, csf16, with:sarasage
 author: joyofsoy
 path: /notes/joyofsoy/06-27-2019/how-to-describe-odors-using-fido-illustrations-by-sara-sage.md

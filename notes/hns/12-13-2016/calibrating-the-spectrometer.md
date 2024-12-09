@@ -1,5 +1,5 @@
 ---
-title: Calibrating the spectrometer
+title: 'Calibrating the spectrometer'
 tagnames: spectrometer, guide, cross-section, replication:13410
 author: hns
 path: /notes/hns/12-13-2016/calibrating-the-spectrometer.md

@@ -1,5 +1,5 @@
 ---
-title: Some amazing kite aerial thermal photography from West Lothian Archeology
+title: 'Some amazing kite aerial thermal photography from West Lothian Archeology'
 tagnames: thermal-photography, kite-mapping, archaeology, west-lothian-archaeology, thermal
 author: warren
 path: /notes/warren/11-28-2011/some-amazing-kite-aerial-thermal-photography-west-lothian-archeology.md

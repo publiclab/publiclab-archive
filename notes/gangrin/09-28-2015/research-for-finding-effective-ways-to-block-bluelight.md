@@ -1,5 +1,5 @@
 ---
-title:  Research for finding effective ways to block bluelight
+title: ' Research for finding effective ways to block bluelight'
 tagnames: bluelight, korea
 author: gangrin
 path: /notes/gangrin/09-28-2015/research-for-finding-effective-ways-to-block-bluelight.md

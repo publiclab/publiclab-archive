@@ -1,5 +1,5 @@
 ---
-title: Exciting news--Public Lab has launched its midyear fundraising appeal!
+title: 'Exciting news--Public Lab has launched its midyear fundraising appeal!'
 tagnames: fundraising, nonprofit
 author: Becki
 path: /notes/Becki/09-04-2013/exciting-news-public-lab-has-launched-its-midyear-fundraising-appeal.md

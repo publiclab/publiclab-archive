@@ -1,5 +1,5 @@
 ---
-title: Is there someone who can help pull and analyze Purple Air data?
+title: 'Is there someone who can help pull and analyze Purple Air data?'
 tagnames: question:air-quality, question:pm, question:purpleair, with:ramseysprague
 author: stevie
 path: /notes/stevie/05-29-2018/is-there-someone-who-can-help-pull-and-analyze-purple-air-data.md

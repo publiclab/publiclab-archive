@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Refine the public lab rich editor
+title: 'Outreachy proposal: Refine the public lab rich editor'
 tagnames: software, lat:0, lon:0, outreachy, first-time-poster, zoom:5, outreachy-2021, outreachy-winter-2021
 author: corpbjahmad
 path: /notes/corpbjahmad/11-04-2021/outreachy-proposal-refine-the-public-lab-rich-editor.md

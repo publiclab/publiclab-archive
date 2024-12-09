@@ -1,5 +1,5 @@
 ---
-title: Countertop and Mobile Spectrometers and iOS progress
+title: 'Countertop and Mobile Spectrometers and iOS progress'
 tagnames: spectrometer, kickstarter, dsk, ios, mobile, mobile-spectrometer, backpack
 author: warren
 path: /notes/warren/2-12-2013/countertop-and-mobile-spectrometers-and-ios-progress.md

@@ -1,5 +1,5 @@
 ---
-title: Papercraft Spectrometer Intro Kit
+title: 'Papercraft Spectrometer Intro Kit'
 tagnames: spectrometry, foldable, papercraft, parent:spectrometry, papercraft-spec, papercraft-spectrometer
 author: warren
 path: /wiki/papercraft-spectrometer.md

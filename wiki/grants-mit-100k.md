@@ -1,5 +1,5 @@
 ---
-title: Grants: MIT 100k
+title: 'Grants: MIT 100k'
 tagnames: education, kits, curriculum, baloon-mapping, grants, proposal, do_your_own_baloon_mapping
 author: warren
 path: /wiki/grants-mit-100k.md

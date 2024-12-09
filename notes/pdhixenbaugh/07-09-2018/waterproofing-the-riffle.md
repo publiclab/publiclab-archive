@@ -1,5 +1,5 @@
 ---
-title: Waterproofing the Riffle
+title: 'Waterproofing the Riffle'
 tagnames: water-quality-monitoring, water-quality, riffle, waterquality, waterproofing, waterproof
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/07-09-2018/waterproofing-the-riffle.md

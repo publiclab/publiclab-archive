@@ -1,5 +1,5 @@
 ---
-title: Workshop IV: What do we know, and what do we want to learn?
+title: 'Workshop IV: What do we know, and what do we want to learn?'
 tagnames: education, workshop, curriculum, activity:education, lesson, exploring-environmental-issues, parent:student-led-community-science-in-the-classroom-a-curriculum, activity:student-community-science, with:purl
 author: mimiss
 path: /notes/mimiss/05-21-2019/workshop-iv-what-do-we-know-and-what-do-we-want-to-learn.md

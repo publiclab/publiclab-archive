@@ -1,5 +1,5 @@
 ---
-title: Looking for recommendations of how to obtain air quality samples around a fracked gas compressor station
+title: 'Looking for recommendations of how to obtain air quality samples around a fracked gas compressor station'
 tagnames: air-quality, air, monitoring, quality, question:air-quality, air-monitoring, question:general, general, oil-and-gas, question:oil-and-gas, air-sampling, question:air-sampling, question:air-monitoring, first-time-poster
 author: SBucic
 path: /notes/SBucic/07-11-2022/looking-for-recommendations-of-how-to-obtain-air-quality-samples-around-a-fracked-gas-compressor-station.md

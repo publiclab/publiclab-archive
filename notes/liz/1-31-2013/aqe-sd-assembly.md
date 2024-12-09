@@ -1,5 +1,5 @@
 ---
-title: AQE-SD assembly
+title: 'AQE-SD assembly'
 tagnames: indoor-air-quality-mapping, chaq
 author: liz
 path: /notes/liz/1-31-2013/aqe-sd-assembly.md

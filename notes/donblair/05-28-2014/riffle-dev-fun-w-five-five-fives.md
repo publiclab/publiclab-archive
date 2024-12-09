@@ -1,5 +1,5 @@
 ---
-title: Riffle dev: 'Fun w/ Five-Five-Fives'
+title: 'Riffle dev: 'Fun w/ Five-Five-Fives''
 tagnames: water-quality, water-quality-sensor, conductivity, riffle, 555
 author: donblair
 path: /notes/donblair/05-28-2014/riffle-dev-fun-w-five-five-fives.md

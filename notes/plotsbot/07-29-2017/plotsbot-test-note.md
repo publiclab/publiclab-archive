@@ -1,5 +1,5 @@
 ---
-title: plotsbot test note
+title: 'plotsbot test note'
 tagnames: gsoc, plotsbot
 author: plotsbot
 path: /notes/plotsbot/07-29-2017/plotsbot-test-note.md

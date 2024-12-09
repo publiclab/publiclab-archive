@@ -1,5 +1,5 @@
 ---
-title: Embed a Q&A system on another website
+title: 'Embed a Q&A system on another website'
 tagnames: question, activities, activity:activities, activity:questions
 author: warren
 path: /notes/warren/12-06-2017/embed-a-q-a-system-on-another-website.md

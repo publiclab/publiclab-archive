@@ -1,5 +1,5 @@
 ---
-title: Hardware design work for the Oil Testing Kit
+title: 'Hardware design work for the Oil Testing Kit'
 tagnames: spectrometer, kits, fluorescence, desktop-spectrometer, oil-testing-kit, with:warren, with:stevie
 author: mathew
 path: /notes/mathew/08-01-2014/hardware-design-work-for-the-oil-testing-kit.md

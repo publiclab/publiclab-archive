@@ -1,5 +1,5 @@
 ---
-title: Open Hour on Water Quality, Monday July 21, 8pm
+title: 'Open Hour on Water Quality, Monday July 21, 8pm'
 tagnames: event, water-monitoring, event:rsvp, rsvp:warren, date:07-21-2014, with:jsummers, with:lilybui, with:kgradow1, with:warren, with:kanarinka, rsvp:donblair
 author: donblair
 path: /notes/donblair/07-21-2014/open-hour-on-water-quality-monday-july-21-8pm.md

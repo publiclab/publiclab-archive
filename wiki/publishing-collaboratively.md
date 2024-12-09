@@ -1,5 +1,5 @@
 ---
-title: Publishing Collaboratively 
+title: 'Publishing Collaboratively '
 tagnames: publication, research-notes, workflows
 author: nicholas
 path: /wiki/publishing-collaboratively.md

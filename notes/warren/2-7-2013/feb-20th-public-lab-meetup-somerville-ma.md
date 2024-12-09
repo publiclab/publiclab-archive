@@ -1,5 +1,5 @@
 ---
-title: Feb 20th Public Lab meetup in Somerville MA
+title: 'Feb 20th Public Lab meetup in Somerville MA'
 tagnames: meetup, event
 author: warren
 path: /notes/warren/2-7-2013/feb-20th-public-lab-meetup-somerville-ma.md

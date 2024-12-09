@@ -1,5 +1,5 @@
 ---
-title: Prototype CounterTop Spectrometer Built(Works)
+title: 'Prototype CounterTop Spectrometer Built(Works)'
 tagnames: spectrometer, kickstarter, countertop-spectrometer, first-time-poster
 author: cbreuer
 path: /notes/cbreuer/2-2-2013/prototype-countertop-spectrometer-builtworks.md

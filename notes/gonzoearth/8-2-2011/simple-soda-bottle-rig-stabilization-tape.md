@@ -1,5 +1,5 @@
 ---
-title: simple soda bottle rig stabilization with tape
+title: 'simple soda bottle rig stabilization with tape'
 tagnames: replication:13948
 author: gonzoearth
 path: /notes/gonzoearth/8-2-2011/simple-soda-bottle-rig-stabilization-tape.md

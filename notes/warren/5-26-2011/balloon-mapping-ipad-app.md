@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping iPad app
+title: 'Balloon Mapping iPad app'
 tagnames: 
 author: warren
 path: /notes/warren/5-26-2011/balloon-mapping-ipad-app.md

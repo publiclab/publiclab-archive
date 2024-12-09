@@ -1,5 +1,5 @@
 ---
-title: What are ways to monitor algae blooms? 
+title: 'What are ways to monitor algae blooms? '
 tagnames: algae, answered, question:water-quality, question:nir, question:general, question:algae, question:algaebloom, question:near-infrared, question:algae-bloom, question:nitrogen, algae-bloom
 author: stevie
 path: /notes/stevie/08-14-2018/what-are-ways-to-monitor-algae-blooms.md

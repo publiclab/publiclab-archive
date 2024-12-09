@@ -1,5 +1,5 @@
 ---
-title: Air Column Monitor EcoHack video
+title: 'Air Column Monitor EcoHack video'
 tagnames: air-column-monitor, diy-balloon
 author: Shannon
 path: /notes/shannon/5-25-2012/air-column-monitor-ecohack-video.md

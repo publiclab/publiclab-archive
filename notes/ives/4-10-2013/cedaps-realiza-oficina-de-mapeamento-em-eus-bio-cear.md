@@ -1,5 +1,5 @@
 ---
-title: CEDAPS realiza Oficina de Mapeamento em Eusébio, Ceará
+title: 'CEDAPS realiza Oficina de Mapeamento em Eusébio, Ceará'
 tagnames: kite-mapping, brazil, cedaps, Ceará, south-america, first-time-poster
 author: ives
 path: /notes/ives/4-10-2013/cedaps-realiza-oficina-de-mapeamento-em-eus-bio-cear.md

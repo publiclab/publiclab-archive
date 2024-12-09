@@ -1,5 +1,5 @@
 ---
-title: Using the Wheestat in a real time device
+title: 'Using the Wheestat in a real time device'
 tagnames: heavy-metals, water-quality, potentiostat, arsenic, lead, copper, wheestat, question:general, first-time-poster
 author: klplum
 path: /notes/klplum/02-19-2019/using-the-wheestat-in-a-real-time-device.md

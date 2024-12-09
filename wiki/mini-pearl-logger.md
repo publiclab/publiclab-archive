@@ -1,5 +1,5 @@
 ---
-title: Mini Pearl Logger
+title: 'Mini Pearl Logger'
 tagnames: arduino, sensors, datalogger, data-logging, parent:data-logging, mini-pearl-logger, activities:mini-pearl-logger, community-kits-prep
 author: cfastie
 path: /wiki/mini-pearl-logger.md

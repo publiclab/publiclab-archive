@@ -1,5 +1,5 @@
 ---
-title: What are good ways to capture outputs and notes at events? 
+title: 'What are good ways to capture outputs and notes at events? '
 tagnames: events, documentation, barnraising, barnstar:photo-documentation, answered, doccom, question:general, location:blurred, barnraising-host, host, question:hosting-materials, question:facilitation
 author: stevie
 path: /notes/stevie/12-15-2017/what-are-good-ways-to-capture-outputs-and-notes-at-events.md

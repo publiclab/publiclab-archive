@@ -1,5 +1,5 @@
 ---
-title: Tracks from the WashUstLouis trip to Bayou Plaquemines
+title: 'Tracks from the WashUstLouis trip to Bayou Plaquemines'
 tagnames: gulf-coast, balloon-mapping, washustlouis, washu-stlouis
 author: eustatic
 path: /09-11-2014/tracks-from-the-washustlouis-trip-to-bay-denesse.md

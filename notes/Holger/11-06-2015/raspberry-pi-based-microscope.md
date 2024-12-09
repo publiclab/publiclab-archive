@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi based microscope
+title: 'Raspberry Pi based microscope'
 tagnames: raspberry-pi, dust, pm, microscope, pi-camera, microscopy, microscopes
 author: Holger
 path: /notes/Holger/11-06-2015/raspberry-pi-based-microscope.md

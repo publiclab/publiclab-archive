@@ -1,5 +1,5 @@
 ---
-title: Experimentos con cometas, globos, y fotografía infraroja en FabLabLima 
+title: 'Experimentos con cometas, globos, y fotografía infraroja en FabLabLima '
 tagnames: 
 author: warren
 path: /notes/warren/05-01-2018/experimentos-con-cometas-globos-y-fotografia-infraroja-en-fablablima.md

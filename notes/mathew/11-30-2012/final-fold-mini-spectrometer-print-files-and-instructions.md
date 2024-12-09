@@ -1,5 +1,5 @@
 ---
-title: Final fold-up mini-spectrometer print files and instructions
+title: 'Final fold-up mini-spectrometer print files and instructions'
 tagnames: spectrometer, guides, fold-up-mini-spectrometer
 author: mathew
 path: /notes/mathew/11-30-2012/final-fold-mini-spectrometer-print-files-and-instructions.md

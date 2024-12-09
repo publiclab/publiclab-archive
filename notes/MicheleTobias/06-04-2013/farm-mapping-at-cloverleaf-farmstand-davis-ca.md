@@ -1,5 +1,5 @@
 ---
-title: Farm Mapping at Cloverleaf Farmstand, Davis, CA
+title: 'Farm Mapping at Cloverleaf Farmstand, Davis, CA'
 tagnames: gopro, gopro-ag
 author: MicheleTobias
 path: /notes/MicheleTobias/06-04-2013/farm-mapping-at-cloverleaf-farmstand-davis-ca.md

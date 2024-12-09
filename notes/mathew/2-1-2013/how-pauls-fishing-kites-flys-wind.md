@@ -1,5 +1,5 @@
 ---
-title: How Pauls Fishing Kites Flys off-wind
+title: 'How Pauls Fishing Kites Flys off-wind'
 tagnames: kite-mapping, kite-fishing, kite-techniques, off-wind-flying
 author: mathew
 path: /notes/mathew/2-1-2013/how-pauls-fishing-kites-flys-wind.md

@@ -1,5 +1,5 @@
 ---
-title: How about a book club on "Are we all scientific experts now?"
+title: 'How about a book club on "Are we all scientific experts now?"'
 tagnames: readings
 author: liz
 path: /notes/liz/03-12-2015/how-about-a-book-club-on-are-we-all-scientific-experts-now.md

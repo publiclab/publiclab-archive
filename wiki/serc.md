@@ -1,5 +1,5 @@
 ---
-title: SERC
+title: 'SERC'
 tagnames: serc, community-kits-prep
 author: warren
 path: /wiki/serc.md

@@ -1,5 +1,5 @@
 ---
-title: Measuring our community growth using web traffic
+title: 'Measuring our community growth using web traffic'
 tagnames: community-metrics, community, website, webworkinggroup, organizers, analytics, quantitative, evaluation
 author: warren
 path: /notes/warren/11-30-2012/measuring-our-community-growth-using-web-traffic.md

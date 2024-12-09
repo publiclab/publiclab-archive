@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Thomson Building IITR
+title: 'MapKnitter map of Thomson Building IITR'
 tagnames: mapknitter, lat:29.8542626, lon:77.8880002
 author: saeiitr
 path: /notes/saeiitr/03-07-2019/mapknitter-map-of-thomson-building-iitr.md

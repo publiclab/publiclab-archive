@@ -1,5 +1,5 @@
 ---
-title: Bay Area Maker Faire! 
+title: 'Bay Area Maker Faire! '
 tagnames: balloon-mapping, spectrometer, san-francisco, california, mapping, event, with:warren, coqui, microscope, make, maker-faire
 author: stevie
 path: /notes/stevie/05-14-2018/bay-area-maker-faire.md

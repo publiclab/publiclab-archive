@@ -1,5 +1,5 @@
 ---
-title: Automating Passive Particle Monitor Analysis
+title: 'Automating Passive Particle Monitor Analysis'
 tagnames: frac-sand, pm, polarized-light-microscopy, particle-monitoring, particle, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, pm-monitoring, with:simonpyle, microscopes, activity:microscopes, particle-imaging
 author: mathew
 path: /notes/mathew/03-26-2016/automating-passive-particle-monitor-analysis.md

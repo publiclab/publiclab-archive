@@ -1,5 +1,5 @@
 ---
-title: Sentinel Training Online
+title: 'Sentinel Training Online'
 tagnames: reporting, event, wisconsin, fracking, frac-sand, pm, parent:frac-sand, particulate-matter, with:pat, violation-reporting, frac-sand-reporting, sentinel, parent:the-sand-sentinel-program, sentinel-program
 author: stevie
 path: /notes/stevie/01-20-2021/sentinel-training-online.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Joshua Leslie Lab 5
+title: 'MapKnitter map of Joshua Leslie Lab 5'
 tagnames: mapknitter, lat:35.2963882421, lon:-80.7381820679
 author: joshpleslie
 path: /notes/joshpleslie/09-28-2016/mapknitter-map-of-joshua-leslie-lab-5.md

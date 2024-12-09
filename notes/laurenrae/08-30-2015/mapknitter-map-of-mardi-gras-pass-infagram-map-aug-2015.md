@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Mardi Gras Pass Infagram Aug 2015
+title: 'MapKnitter map of Mardi Gras Pass Infagram Aug 2015'
 tagnames: gulf-coast, mapknitter, lat:29.5330779025, lon:-89.7221821547, mardi-gras-pass, mardigraspass
 author: laurenrae
 path: /notes/laurenrae/08-30-2015/mapknitter-map-of-mardi-gras-pass-infagram-map-aug-2015.md

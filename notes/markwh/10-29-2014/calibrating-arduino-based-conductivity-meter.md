@@ -1,5 +1,5 @@
 ---
-title: Calibrating Arduino-based conductivity meter
+title: 'Calibrating Arduino-based conductivity meter'
 tagnames: umass-amherst, riffle, publiclab-at-umass, first-time-poster
 author: markwh
 path: /notes/markwh/10-29-2014/calibrating-arduino-based-conductivity-meter.md

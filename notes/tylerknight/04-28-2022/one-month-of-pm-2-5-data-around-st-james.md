@@ -1,5 +1,5 @@
 ---
-title: One Month of PM 2.5 Data around St James
+title: 'One Month of PM 2.5 Data around St James'
 tagnames: gulf-coast, air-quality, pm, particulate-matter, purpleair, st-james, formosaplastics
 author: tylerknight
 path: /notes/tylerknight/04-28-2022/one-month-of-pm-2-5-data-around-st-james.md

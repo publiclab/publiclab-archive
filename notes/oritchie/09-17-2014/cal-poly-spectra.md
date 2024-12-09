@@ -1,5 +1,5 @@
 ---
-title: Cal Poly Spectra
+title: 'Cal Poly Spectra'
 tagnames: barnstar:basic
 author: oritchie
 path: /notes/oritchie/09-17-2014/cal-poly-spectra.md

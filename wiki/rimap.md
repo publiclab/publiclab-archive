@@ -1,5 +1,5 @@
 ---
-title: Geo Storytelling
+title: 'Geo Storytelling'
 tagnames: onecranston, geo-storytelling
 author: warren
 path: /wiki/rimap.md

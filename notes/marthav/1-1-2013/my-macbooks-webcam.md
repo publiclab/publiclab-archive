@@ -1,5 +1,5 @@
 ---
-title: my MacBook's webcam is 
+title: 'my MacBook's webcam is '
 tagnames: troubleshooting, spectralworkbench
 author: MarthaV
 path: /notes/marthav/1-1-2013/my-macbooks-webcam.md

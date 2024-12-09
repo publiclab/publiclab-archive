@@ -1,5 +1,5 @@
 ---
-title: How can I obtain NDVI value of a  photo of a single plant that I took using the Raspberry Pi NoIR with blue filter
+title: 'How can I obtain NDVI value of a  photo of a single plant that I took using the Raspberry Pi NoIR with blue filter'
 tagnames: first-time-poster
 author: waynebekke
 path: /notes/waynebekke/12-08-2018/how-can-i-obtain-ndvi-value-of-a-photo-of-a-single-plant-that-i-took-using-the-raspberry-pi-noir-with-blue-filter.md

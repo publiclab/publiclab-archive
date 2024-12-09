@@ -1,5 +1,5 @@
 ---
-title: White Oak 1/8/22
+title: 'White Oak 1/8/22'
 tagnames: drones, water-quality, coal, extraction, land-use, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/01-08-2022/white-oak-1-8-22.md

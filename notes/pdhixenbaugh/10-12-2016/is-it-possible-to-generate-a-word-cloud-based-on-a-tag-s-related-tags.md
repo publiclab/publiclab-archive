@@ -1,5 +1,5 @@
 ---
-title: Is it possible to generate a word cloud based on a tag's related tags?
+title: 'Is it possible to generate a word cloud based on a tag's related tags?'
 tagnames: question:website, question:website-structure
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-12-2016/is-it-possible-to-generate-a-word-cloud-based-on-a-tag-s-related-tags.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of My map
+title: 'MapKnitter map of My map'
 tagnames: mapknitter, first-time-poster, lat:26.4170467538, lon:80.4057326755
 author: sidntrivedi012
 path: /notes/sidntrivedi012/03-11-2019/mapknitter-map-of-my-map.md

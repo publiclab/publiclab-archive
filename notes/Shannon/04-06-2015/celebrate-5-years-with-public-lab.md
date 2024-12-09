@@ -1,5 +1,5 @@
 ---
-title: Celebrate 5 years with Public Lab!
+title: 'Celebrate 5 years with Public Lab!'
 tagnames: nonprofit
 author: Shannon
 path: /notes/Shannon/04-06-2015/celebrate-5-years-with-public-lab.md

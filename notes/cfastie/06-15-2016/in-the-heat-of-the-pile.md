@@ -1,5 +1,5 @@
 ---
-title: In the heat of the pile
+title: 'In the heat of the pile'
 tagnames: arduino, vermont, temperature, sensors, water-quality, riffle, humidity, compost, response:13182, category:observe, data-logging, activity:riffle, riffle-examples, activity:data-logging
 author: cfastie
 path: /notes/cfastie/06-15-2016/in-the-heat-of-the-pile.md

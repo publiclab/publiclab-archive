@@ -1,5 +1,5 @@
 ---
-title: An attempt to test olive oil substance with spectrometer. 
+title: 'An attempt to test olive oil substance with spectrometer. '
 tagnames: spectrometer, oil, asia, olive-oil, taipei, first-time-poster
 author: muyueh
 path: /notes/muyueh/04-11-2014/an-attempt-to-test-olive-oil-substance-with-spectrometer.md

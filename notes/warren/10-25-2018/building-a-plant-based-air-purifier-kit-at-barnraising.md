@@ -1,5 +1,5 @@
 ---
-title: Building a plant-based air purifier kit at Barnraising
+title: 'Building a plant-based air purifier kit at Barnraising'
 tagnames: remediation, air-quality, formaldehyde, open-air, filters, with:liz, indoor-air-quality, indoor-air, pick, current, vocs, replication:13480, with:zengirl2, activity:indoor-air-quality
 author: warren
 path: /notes/warren/10-25-2018/building-a-plant-based-air-purifier-kit-at-barnraising.md

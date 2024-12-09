@@ -1,5 +1,5 @@
 ---
-title: GSoC 2021 Proposal: Geographic Features Refinement
+title: 'GSoC 2021 Proposal: Geographic Features Refinement'
 tagnames: software, soc, first-time-poster, gsoc-2021, gsoc-2021-proposals
 author: barun1024
 path: /notes/barun1024/03-24-2021/gsoc-2021-proposal-geographic-features-refinement.md

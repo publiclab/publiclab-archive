@@ -1,5 +1,5 @@
 ---
-title: History:  the first aerial photographers of New Orleans
+title: 'History:  the first aerial photographers of New Orleans'
 tagnames: gulf-coast
 author: eustatic
 path: /02-19-2014/history-the-first-aerial-photographers-of-new-orleans.md

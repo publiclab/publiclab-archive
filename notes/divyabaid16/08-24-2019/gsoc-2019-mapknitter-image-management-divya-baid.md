@@ -1,5 +1,5 @@
 ---
-title: GSoC 2019: Mapknitter Image Management - Divya Baid
+title: 'GSoC 2019: Mapknitter Image Management - Divya Baid'
 tagnames: mapknitter, open-source, gsoc, barnstar:basic, software-development, gsoc-2019, gsoc-2019-final-report
 author: divyabaid16
 path: /notes/divyabaid16/08-24-2019/gsoc-2019-mapknitter-image-management-divya-baid.md

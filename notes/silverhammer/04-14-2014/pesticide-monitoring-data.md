@@ -1,5 +1,5 @@
 ---
-title: Pesticide Monitoring Data Website
+title: 'Pesticide Monitoring Data Website'
 tagnames: pesticides, visualization
 author: silverhammer
 path: /notes/silverhammer/04-14-2014/pesticide-monitoring-data.md

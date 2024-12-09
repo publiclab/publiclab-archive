@@ -1,5 +1,5 @@
 ---
-title: Absorption And Emission - Using The Plab v2.5 Spectrometer
+title: 'Absorption And Emission - Using The Plab v2.5 Spectrometer'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/07-24-2016/absorption-and-emission-using-the-plab-v2-5-spectrometer.md

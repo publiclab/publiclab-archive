@@ -1,5 +1,5 @@
 ---
-title: How can you calculate microscope magnification with just a calibration slide?
+title: 'How can you calculate microscope magnification with just a calibration slide?'
 tagnames: question:calibration, question:general, question:microscope, question:community-microscope, question:microscope-calibration, faq-community-microscope
 author: Bronwen
 path: /notes/bronwen/10-04-2018/how-can-you-calculate-microscope-magnification-with-just-a-calibration-slide.md

@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (10 Railroad Street)
+title: 'Art in Ruins (10 Railroad Street)'
 tagnames: hidden:response, zoom:15, lat:41.99633850431087, lon:-71.58232212066652, lat:41.999878, lon:-71.577343, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-10-railroad-street.md

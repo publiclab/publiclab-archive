@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal SpectralWorkbench
+title: 'GSoC Proposal SpectralWorkbench'
 tagnames: spectrometer, calibration, image-processing, spectralworkbench, neon, gsoc, hdr, gsoc-2014, germany, first-time-poster
 author: PascalW
 path: /notes/PascalW/03-11-2014/gsoc-proposal-spectralworkbench.md

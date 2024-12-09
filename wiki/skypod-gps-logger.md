@@ -1,5 +1,5 @@
 ---
-title: SkyPod GPS Logger
+title: 'SkyPod GPS Logger'
 tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, balloon-telemetry-kit, kap, gps, datalogger, skypod, parent:data-logging, activities:skypod-gps-logger
 author: cfastie
 path: /wiki/skypod-gps-logger.md

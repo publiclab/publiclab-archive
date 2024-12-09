@@ -1,5 +1,5 @@
 ---
-title: Spruce tips
+title: 'Spruce tips'
 tagnames: near-infrared-camera, ndvi, infrared, alaska, infragram, plant-health, nbg, infrablue, treeline, akrange, infrabluephoto, activity:multispectral-imaging
 author: cfastie
 path: /notes/cfastie/07-10-2013/spruce-tips.md

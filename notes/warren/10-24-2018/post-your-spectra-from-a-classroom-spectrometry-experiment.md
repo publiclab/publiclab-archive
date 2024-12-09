@@ -1,5 +1,5 @@
 ---
-title: Post your spectra from a classroom spectrometry experiment
+title: 'Post your spectra from a classroom spectrometry experiment'
 tagnames: spectrometry, classroom, seeks:responses, assignment, assignment:spectrometry, response:15121
 author: warren
 path: /notes/warren/10-24-2018/post-your-spectra-from-a-classroom-spectrometry-experiment.md

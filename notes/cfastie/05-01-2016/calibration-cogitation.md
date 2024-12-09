@@ -1,5 +1,5 @@
 ---
-title: Calibration cogitation
+title: 'Calibration cogitation'
 tagnames: ndvi, calibration, infrared, filter, infragram, plant-health, targets, response:13028, qgis
 author: cfastie
 path: /notes/cfastie/05-01-2016/calibration-cogitation.md

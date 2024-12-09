@@ -1,5 +1,5 @@
 ---
-title: Publication Planning Archive
+title: 'Publication Planning Archive'
 tagnames: writing, publications
 author: warren
 path: /wiki/publication-planning-archive.md

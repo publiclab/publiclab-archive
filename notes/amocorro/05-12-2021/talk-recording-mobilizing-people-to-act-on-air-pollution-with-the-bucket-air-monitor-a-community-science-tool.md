@@ -1,5 +1,5 @@
 ---
-title: [Talk Recording] Mobilizing People to Act on Air Pollution with the Bucket Air Monitor - a Community Science Tool
+title: '[Talk Recording] Mobilizing People to Act on Air Pollution with the Bucket Air Monitor - a Community Science Tool'
 tagnames: open-hardware, diy, organizing, hydrogen-sulfide, air-quality, benzene, bucket-brigade, oshwa, fellows, advocacy, oil-and-gas, tech, bucket, air-pollution, bucket-monitor, south-africa, durban, petrochemical-plants, groundwork
 author: amocorro
 path: /notes/amocorro/05-12-2021/talk-recording-mobilizing-people-to-act-on-air-pollution-with-the-bucket-air-monitor-a-community-science-tool.md

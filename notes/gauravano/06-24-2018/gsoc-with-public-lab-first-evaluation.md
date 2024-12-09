@@ -1,5 +1,5 @@
 ---
-title: GSoC with Public Lab: First Evaluation 
+title: 'GSoC with Public Lab: First Evaluation '
 tagnames: gsoc, soc, gsoc-2018, draft-feature
 author: gauravano
 path: /notes/gauravano/06-24-2018/gsoc-with-public-lab-first-evaluation.md

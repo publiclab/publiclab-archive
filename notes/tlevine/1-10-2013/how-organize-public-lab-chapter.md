@@ -1,5 +1,5 @@
 ---
-title: How to organize a public lab chapter
+title: 'How to organize a public lab chapter'
 tagnames: community, organizers, organizing, participation
 author: tlevine
 path: /notes/tlevine/1-10-2013/how-organize-public-lab-chapter.md

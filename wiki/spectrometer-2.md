@@ -1,5 +1,5 @@
 ---
-title: Spectrometer
+title: 'Spectrometer'
 tagnames: 
 author: warren
 path: /wiki/spectrometer-2.md

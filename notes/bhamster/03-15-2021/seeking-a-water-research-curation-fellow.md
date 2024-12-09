@@ -1,5 +1,5 @@
 ---
-title: Seeking a Water Research Curation Fellow
+title: 'Seeking a Water Research Curation Fellow'
 tagnames: wetlands, water-quality, stormwater, jobs, fellows, fellowship, microplastics, fellow, research-curation-fellows
 author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-a-water-research-curation-fellow.md

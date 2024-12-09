@@ -1,5 +1,5 @@
 ---
-title: What are other ways to assess soil contamination, besides directly measuring contaminant concentrations?
+title: 'What are other ways to assess soil contamination, besides directly measuring contaminant concentrations?'
 tagnames: soil, bioassay, question:soil, soil-contamination, question:bioassay
 author: bhamster
 path: /notes/bhamster/02-05-2021/what-are-other-ways-to-assess-soil-contamination-besides-directly-measuring-contaminant-concentrations.md

@@ -1,5 +1,5 @@
 ---
-title: What does a raw NOAA image look like?
+title: 'What does a raw NOAA image look like?'
 tagnames: satellite-imagery, noaa, lat:51.50735, lon:-0.127758, zoom:6, open-weather
 author: sashae
 path: /notes/sashae/06-25-2020/what-does-a-raw-noaa-image-look-like.md

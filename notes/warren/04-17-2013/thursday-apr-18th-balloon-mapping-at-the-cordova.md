@@ -1,5 +1,5 @@
 ---
-title: Thursday Apr. 18th balloon mapping at the Cordova 
+title: 'Thursday Apr. 18th balloon mapping at the Cordova '
 tagnames: boston, event
 author: warren
 path: /notes/warren/04-17-2013/thursday-apr-18th-balloon-mapping-at-the-cordova.md

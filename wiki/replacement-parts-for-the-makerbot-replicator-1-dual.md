@@ -1,5 +1,5 @@
 ---
-title: Replacement Parts for the MakerBot Replicator 1 Dual
+title: 'Replacement Parts for the MakerBot Replicator 1 Dual'
 tagnames: makerbot, maintenance, 3dprinting
 author: cfastie
 path: /wiki/replacement-parts-for-the-makerbot-replicator-1-dual.md

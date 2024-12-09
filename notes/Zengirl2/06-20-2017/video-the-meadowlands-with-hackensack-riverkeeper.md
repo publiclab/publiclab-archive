@@ -1,5 +1,5 @@
 ---
-title: Video: The Meadowlands With Hackensack Riverkeeper
+title: 'Video: The Meadowlands With Hackensack Riverkeeper'
 tagnames: wetlands, citizen-science, new-jersey, water-quality, water
 author: zengirl2
 path: /notes/Zengirl2/06-20-2017/video-the-meadowlands-with-hackensack-riverkeeper.md

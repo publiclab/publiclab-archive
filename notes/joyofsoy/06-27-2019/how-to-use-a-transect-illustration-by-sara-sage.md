@@ -1,5 +1,5 @@
 ---
-title: How to Use a Transect, illustrated by Sara Sage
+title: 'How to Use a Transect, illustrated by Sara Sage'
 tagnames: blog, transect, graphic, odor, odor-logging, csf, csf16, with:sarasage
 author: joyofsoy
 path: /notes/joyofsoy/06-27-2019/how-to-use-a-transect-illustration-by-sara-sage.md

@@ -1,5 +1,5 @@
 ---
-title: NDVI with a key chain camera to use with a mini-drone - First steps
+title: 'NDVI with a key chain camera to use with a mini-drone - First steps'
 tagnames: ndvi, central-america, panama, uav-mapping, uav-field-monitoring, first-time-poster
 author: azaelb
 path: /notes/azaelb/04-11-2015/ndvi-with-a-key-chain-camera-from-a-mini-drone-first-steps.md

@@ -1,5 +1,5 @@
 ---
-title: Environmental & Public Health Advocacy Success Stories
+title: 'Environmental & Public Health Advocacy Success Stories'
 tagnames: public-health, environment, publiclab, advocacy, success-stories, myrwa
 author: gilbert
 path: /notes/gilbert/11-15-2017/environmental-public-health-advocacy-success-stories.md

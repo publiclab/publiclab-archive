@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping K Week
+title: 'Balloon Mapping K Week'
 tagnames: troubleshooting, balloon-mapping-kit, helium
 author: jbreen
 path: /notes/jbreen/10-09-2013/balloon-mapping-k-week.md

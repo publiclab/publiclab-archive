@@ -1,5 +1,5 @@
 ---
-title: Mãe d'água - Índice de qualidade / Water Mother - Quality index
+title: 'Mãe d'água - Índice de qualidade / Water Mother - Quality index'
 tagnames: water-quality, brasil, redeinfoamazonia, maedagua, lang:pt, first-time-poster
 author: GSan
 path: /notes/GSan/08-26-2015/mae-d-agua-indice-de-qualidade-water-mother-quality-index.md

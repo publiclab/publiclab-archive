@@ -1,5 +1,5 @@
 ---
-title: Only seeing part of color spectrum
+title: 'Only seeing part of color spectrum'
 tagnames: spectral-workbench, camera, question:spectral-workbench, answered, spectrum, first-time-poster, upside, down
 author: msolomon
 path: /notes/msolomon/11-08-2018/only-seeing-part-of-color-spectrum.md

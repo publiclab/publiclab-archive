@@ -1,5 +1,5 @@
 ---
-title: Workshop XI: How can we affect change?
+title: 'Workshop XI: How can we affect change?'
 tagnames: education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, lat:29.954934, lon:-90.076904, zoom:16, pin:study-design
 author: mimiss
 path: /notes/mimiss/04-13-2021/workshop-xi-how-can-we-affect-change.md

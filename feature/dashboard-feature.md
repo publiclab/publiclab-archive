@@ -1,5 +1,5 @@
 ---
-title: dashboard-feature
+title: 'dashboard-feature'
 tagnames: 
 author: warren
 path: /feature/dashboard-feature.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC 2014 - Automatic Spectrometer Calibration
+title: 'GSoC 2014 - Automatic Spectrometer Calibration'
 tagnames: spectralworkbench, gsoc, gsoc-2014, gsoc2014, response:10103, location:blurred, lat:-30, lon:140, zoom:4
 author: Sreyanth
 path: /notes/Sreyanth/05-20-2014/gsoc-2014-automatic-spectrometer-calibration.md

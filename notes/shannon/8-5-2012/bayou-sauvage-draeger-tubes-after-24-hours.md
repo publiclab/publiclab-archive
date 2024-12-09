@@ -1,5 +1,5 @@
 ---
-title: Bayou Sauvage Draeger tubes after 24 hours
+title: 'Bayou Sauvage Draeger tubes after 24 hours'
 tagnames: hydrogen-sulfide-sensing, draeger-tubes
 author: Shannon
 path: /notes/shannon/8-5-2012/bayou-sauvage-draeger-tubes-after-24-hours.md

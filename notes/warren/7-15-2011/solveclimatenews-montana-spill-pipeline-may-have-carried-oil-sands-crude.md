@@ -1,5 +1,5 @@
 ---
-title: SolveClimateNews: Montana Spill Pipeline May Have Carried Oil Sands Crude
+title: 'SolveClimateNews: Montana Spill Pipeline May Have Carried Oil Sands Crude'
 tagnames: oil-spill, tar-sands, pipeline, mountain-west, montana
 author: warren
 path: /notes/warren/7-15-2011/solveclimatenews-montana-spill-pipeline-may-have-carried-oil-sands-crude.md

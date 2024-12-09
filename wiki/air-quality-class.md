@@ -1,5 +1,5 @@
 ---
-title: Air Quality Class
+title: 'Air Quality Class'
 tagnames: education, curriculum, cypress-hills, air-quality, airquality, indoor-air-quality, eee, air-quality-projects, cccccc
 author: liz
 path: /wiki/air-quality-class.md

@@ -1,5 +1,5 @@
 ---
-title: DIY Oil Refinery Air Quality Monitoring?
+title: 'DIY Oil Refinery Air Quality Monitoring?'
 tagnames: oil, diy, refinery, air-quality, question:general, purple-air, new_orleans, question:industry
 author: scotttees
 path: /notes/scotttees/10-09-2018/diy-oil-refinery-air-quality-monitoring.md

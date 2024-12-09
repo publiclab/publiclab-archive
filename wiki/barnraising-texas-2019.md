@@ -1,5 +1,5 @@
 ---
-title: Barnraising Texas 2019
+title: 'Barnraising Texas 2019'
 tagnames: gulf-coast, barnraising, parent:barnraising, texas, houston, tejas, barnraising-texas-2019, galveston, dataforblacklives, txbarnraising, txbr
 author: stevie
 path: /wiki/barnraising-texas-2019.md

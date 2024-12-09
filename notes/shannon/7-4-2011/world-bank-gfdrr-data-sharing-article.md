@@ -1,5 +1,5 @@
 ---
-title: World Bank GFDRR data sharing article
+title: 'World Bank GFDRR data sharing article'
 tagnames: 
 author: Shannon
 path: /notes/shannon/7-4-2011/world-bank-gfdrr-data-sharing-article.md

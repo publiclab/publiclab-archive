@@ -1,5 +1,5 @@
 ---
-title: balloon rigging
+title: 'balloon rigging'
 tagnames: balloon-mapping, photo-rig
 author: gonzoearth
 path: /notes/gonzoearth/6-17-2011/balloon-rigging.md

@@ -1,5 +1,5 @@
 ---
-title: Humboldt Park mapping with Jen Hudon
+title: 'Humboldt Park mapping with Jen Hudon'
 tagnames: balloon-mapping, chicago, events:midwest, midwest
 author: warren
 path: /notes/warren/6-15-2011/humboldt-park-mapping-jen-hudon.md

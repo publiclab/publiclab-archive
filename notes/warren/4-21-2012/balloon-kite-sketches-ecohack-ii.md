@@ -1,5 +1,5 @@
 ---
-title: Balloon-kite sketches at EcoHack II
+title: 'Balloon-kite sketches at EcoHack II'
 tagnames: balloon-mapping
 author: warren
 path: /notes/warren/4-21-2012/balloon-kite-sketches-ecohack-ii.md

@@ -1,5 +1,5 @@
 ---
-title: NE Barnraising 2014
+title: 'NE Barnraising 2014'
 tagnames: barnraising, event, organizers, massachusetts, tidmarsh, northeast, nebarnraising, ma, response:10545
 author: cfastie
 path: /notes/cfastie/06-11-2014/ne-barnraising-2014.md

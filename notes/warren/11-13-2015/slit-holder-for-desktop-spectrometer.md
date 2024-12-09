@@ -1,5 +1,5 @@
 ---
-title: Slit holder for Desktop Spectrometer
+title: 'Slit holder for Desktop Spectrometer'
 tagnames: spectrometer, kits, dsk, slit, papercraft, slit-width, response:11649, response:12074, upgrade:spec
 author: warren
 path: /notes/warren/11-13-2015/slit-holder-for-desktop-spectrometer.md

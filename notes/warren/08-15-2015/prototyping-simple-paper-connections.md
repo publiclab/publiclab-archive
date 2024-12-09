@@ -1,5 +1,5 @@
 ---
-title: Prototyping simple paper connections
+title: 'Prototyping simple paper connections'
 tagnames: spectrometer, papercraft, die-cutting, silhouette-cameo, prototyping
 author: warren
 path: /notes/warren/08-15-2015/prototyping-simple-paper-connections.md

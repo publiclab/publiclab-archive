@@ -1,5 +1,5 @@
 ---
-title: Can I measure CSF turbidity in real time?
+title: 'Can I measure CSF turbidity in real time?'
 tagnames: arduino, spectrometry, raman, biohacking, spectro, question:spectrometry, lat:38, location:blurred, first-time-poster, zoom:6, neuroscience, lon:27, place:turkey
 author: Cheesealmighty
 path: /notes/Cheesealmighty/03-17-2022/can-i-measure-csf-turbidity-in-real-time.md

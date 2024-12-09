@@ -1,5 +1,5 @@
 ---
-title: Northshore Staten Island mapstitching event!
+title: 'Northshore Staten Island mapstitching event!'
 tagnames: new-york-city, event, staten-island, event:rsvp, date:08-01-2014, rsvp:bronwen, rsvp:liz, rsvp:carlosst, with:bronwen
 author: liz
 path: /notes/liz/07-23-2014/northshore-staten-island-mapstitching-event.md

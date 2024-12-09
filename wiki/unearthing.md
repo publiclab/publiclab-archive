@@ -1,5 +1,5 @@
 ---
-title: unearthing
+title: 'unearthing'
 tagnames: redirect:unearthing-pvd
 author: warren
 path: /wiki/unearthing.md

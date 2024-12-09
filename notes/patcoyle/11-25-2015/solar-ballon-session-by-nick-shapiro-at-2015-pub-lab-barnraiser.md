@@ -1,5 +1,5 @@
 ---
-title: Solar Balloon session by Nick Shapiro, at 2015 Public Lab Barnraiser
+title: 'Solar Balloon session by Nick Shapiro, at 2015 Public Lab Barnraiser'
 tagnames: solar-balloon, documentation, barnraising
 author: patcoyle
 path: /notes/patcoyle/11-25-2015/solar-ballon-session-by-nick-shapiro-at-2015-pub-lab-barnraiser.md

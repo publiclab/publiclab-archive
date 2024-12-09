@@ -1,5 +1,5 @@
 ---
-title: NDVI with red filters
+title: 'NDVI with red filters'
 tagnames: near-infrared-camera, super-red, barnstar:empiricism
 author: fliperbaker
 path: /notes/fliperbaker/10-06-2014/ndvi-with-red-filters.md

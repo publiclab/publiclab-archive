@@ -1,5 +1,5 @@
 ---
-title: Trail Cam: Stream/ Wetland Sedimentation
+title: 'Trail Cam: Stream/ Wetland Sedimentation'
 tagnames: sand, photo-monitoring, timelapse, water-quality, trail-camera, sedimentation, sand-mine, sand-mining, crenova, story:timelapse
 author: dswenson
 path: /notes/dswenson/02-26-2017/trail-cam-stream-wetland-sedimentation.md

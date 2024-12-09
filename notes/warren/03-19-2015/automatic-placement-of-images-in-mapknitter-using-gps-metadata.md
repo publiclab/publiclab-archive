@@ -1,5 +1,5 @@
 ---
-title: Automatic placement of images in MapKnitter using GPS metadata
+title: 'Automatic placement of images in MapKnitter using GPS metadata'
 tagnames: mapknitter, gps, gsoc, gsoc-2014, auto-placement, response:10999
 author: warren
 path: /notes/warren/03-19-2015/automatic-placement-of-images-in-mapknitter-using-gps-metadata.md

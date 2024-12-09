@@ -1,5 +1,5 @@
 ---
-title: Barnraising 2015 Photos
+title: 'Barnraising 2015 Photos'
 tagnames: barnraising, barnraising-2015, parent:barnraising-2015
 author: Bronwen
 path: /wiki/barnraising-2015-photos.md

@@ -1,5 +1,5 @@
 ---
-title: Grassroots Mapping Forum #4 in print
+title: 'Grassroots Mapping Forum #4 in print'
 tagnames: gmf
 author: mathew
 path: /notes/mathew/02-20-2014/grassroots-mapping-forum-4-in-print.md

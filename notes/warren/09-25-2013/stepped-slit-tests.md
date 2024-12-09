@@ -1,5 +1,5 @@
 ---
-title: Stepped slit tests
+title: 'Stepped slit tests'
 tagnames: spectrometer, slit, clipping, response:9366, stepped-slit, slit-width
 author: warren
 path: /notes/warren/09-25-2013/stepped-slit-tests.md

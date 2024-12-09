@@ -1,5 +1,5 @@
 ---
-title:  How cheaply can I get all the parts of the basic microscope kit?
+title: ' How cheaply can I get all the parts of the basic microscope kit?'
 tagnames: microscopes, sourcing, question:basic-microscope, basic-microscope
 author: warren
 path: /notes/warren/12-08-2017/how-cheaply-can-i-get-all-the-parts-of-the-basic-microscope-kit.md

@@ -1,5 +1,5 @@
 ---
-title: Nano Data Logger
+title: 'Nano Data Logger'
 tagnames: sensors, tool, datalogger, data-logging, method, nano-data-logger, parent:data-logging, activities:nano-data-logger
 author: warren
 path: /wiki/nano-data-logger.md

@@ -1,5 +1,5 @@
 ---
-title: Can Infragrams be used to count coconuts/crop productivity?
+title: 'Can Infragrams be used to count coconuts/crop productivity?'
 tagnames: agriculture, infragram, classification, crops, question:infragram, question:agriculture, coconut, question:classification
 author: James_Vagabond
 path: /notes/James_Vagabond/01-10-2018/can-infragrams-be-used-to-count-coconuts-crop-productivity.md

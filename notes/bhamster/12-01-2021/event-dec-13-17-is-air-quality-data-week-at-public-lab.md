@@ -1,5 +1,5 @@
 ---
-title: Event: Dec. 13-17 is Air Quality Data Week at Public Lab!
+title: 'Event: Dec. 13-17 is Air Quality Data Week at Public Lab!'
 tagnames: event, air-quality, event:rsvp, reviews, data-visualization, research-area-review, research-curation-fellows-event, presenting-data, with:fongvania, air-quality-data, rsvp:angappan367, date:12-16-2021, rsvp:cboggs18
 author: bhamster
 path: /notes/bhamster/12-01-2021/event-dec-13-17-is-air-quality-data-week-at-public-lab.md

@@ -1,5 +1,5 @@
 ---
-title: Vienna field
+title: 'Vienna field'
 tagnames: near-infrared-camera, ndvi, infragram
 author: GreenLeaves
 path: /notes/GreenLeaves/07-04-2014/vienna-field.md

@@ -1,5 +1,5 @@
 ---
-title: World Laws  Versus Federal and State Drinking Water Legislation
+title: 'World Laws  Versus Federal and State Drinking Water Legislation'
 tagnames: microplastics, zoom:6, lat:22.004174, lon:76.003417
 author: TheChessGym
 path: /notes/TheChessGym/05-10-2022/world-laws-versus-federal-and-state-drinking-water-legislation.md

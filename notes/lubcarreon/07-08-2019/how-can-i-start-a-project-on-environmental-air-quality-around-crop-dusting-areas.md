@@ -1,5 +1,5 @@
 ---
-title: How can I start a project on environmental air quality around crop dusting areas
+title: 'How can I start a project on environmental air quality around crop dusting areas'
 tagnames: agriculture, pesticides, air-quality, question:air-quality, texas, odor, question:odor, question:agriculture, issue-brief, question:pesticides, first-time-poster, question:crop-dusting
 author: lubcarreon
 path: /notes/lubcarreon/07-08-2019/how-can-i-start-a-project-on-environmental-air-quality-around-crop-dusting-areas.md

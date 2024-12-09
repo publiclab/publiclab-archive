@@ -1,5 +1,5 @@
 ---
-title: CFL Bulb
+title: 'CFL Bulb'
 tagnames: spectrometer, spectrum, cfl-calibration
 author: claudiaascher
 path: /notes/claudiaascher/06-07-2018/cfl-bulb.md

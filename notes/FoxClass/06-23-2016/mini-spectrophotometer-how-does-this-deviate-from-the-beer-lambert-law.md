@@ -1,5 +1,5 @@
 ---
-title: Mini spectrophotometer - how does this deviate from the Beer-Lambert law?
+title: 'Mini spectrophotometer - how does this deviate from the Beer-Lambert law?'
 tagnames: spectrometer, beers-law, question:spectrometer, question:spectrometry, question:foldable-mini-spectrometer, beer-lambert-law, question:spectrometry-sampling
 author: FoxClass
 path: /notes/FoxClass/06-23-2016/mini-spectrophotometer-how-does-this-deviate-from-the-beer-lambert-law.md

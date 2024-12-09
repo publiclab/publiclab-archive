@@ -1,5 +1,5 @@
 ---
-title: Constructing a <£2, 90g wooden/metal picavet
+title: 'Constructing a <£2, 90g wooden/metal picavet'
 tagnames: balloon-mapping, kite-mapping, picavet, photo-rig, camera-rig, activity:kite-mapping, activity:photo-rig, first-time-poster
 author: TedF
 path: /notes/TedF/08-18-2013/constructing-a-2-90g-wooden-metal-picavet.md

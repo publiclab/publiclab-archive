@@ -1,5 +1,5 @@
 ---
-title: Hudson Riverkeeper teaches how to report Gowanus pollution
+title: 'Hudson Riverkeeper teaches how to report Gowanus pollution'
 tagnames: new-york-city, gowanus-canal, watchdog
 author: liz
 path: /notes/liz/03-06-2014/hudson-riverkeeper-teaches-how-to-report-gowanus-pollution.md

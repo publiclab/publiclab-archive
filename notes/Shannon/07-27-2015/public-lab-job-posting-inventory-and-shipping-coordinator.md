@@ -1,5 +1,5 @@
 ---
-title: Public Lab job posting: Inventory and Shipping Coordinator
+title: 'Public Lab job posting: Inventory and Shipping Coordinator'
 tagnames: nonprofit
 author: Shannon
 path: /notes/Shannon/07-27-2015/public-lab-job-posting-inventory-and-shipping-coordinator.md

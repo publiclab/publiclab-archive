@@ -1,5 +1,5 @@
 ---
-title: Infragram FAQ
+title: 'Infragram FAQ'
 tagnames: near-infrared-camera, faq, infragram, parent:infragram
 author: liz
 path: /wiki/infragram-faq.md

@@ -1,5 +1,5 @@
 ---
-title: How do you put together the basic microscope kit, without the Raspberry Pi?? None of the instruction videos work. 
+title: 'How do you put together the basic microscope kit, without the Raspberry Pi?? None of the instruction videos work. '
 tagnames: webcam, microscope, question:general, community-kits, optics, community-microscope, first-time-poster, response:16310
 author: sja
 path: /notes/sja/12-10-2018/how-do-you-put-together-the-basic-microscope-kit-without-the-raspberry-pi-none-of-the-instruction-videos-work.md

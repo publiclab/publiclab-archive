@@ -1,5 +1,5 @@
 ---
-title: Toshiba Camileo S10 Infragram conversion.
+title: 'Toshiba Camileo S10 Infragram conversion.'
 tagnames: ir, conversion, filter, infragram, toshiba, camileo, s10, activity:infrared-camera-conversion
 author: limon93
 path: /notes/limon93/02-26-2015/toshiba-camileo-s10-infragram-conversion.md

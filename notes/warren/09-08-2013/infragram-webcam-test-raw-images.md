@@ -1,5 +1,5 @@
 ---
-title: Infragram webcam test raw images
+title: 'Infragram webcam test raw images'
 tagnames: near-infrared-camera, vermont, leaffest, infragram, infragram-conversion, leaffest2013, lat:44.02, lon:-73.09
 author: warren
 path: /notes/warren/09-08-2013/infragram-webcam-test-raw-images.md

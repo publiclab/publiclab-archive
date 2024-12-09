@@ -1,5 +1,5 @@
 ---
-title: Talk at the "Emerging ICT for Citizens’ Veillance" workshop in Ispra (Italy) 
+title: 'Talk at the "Emerging ICT for Citizens’ Veillance" workshop in Ispra (Italy) '
 tagnames: balloon-mapping, spain, presentations, presentation, italy
 author: pablo
 path: /notes/pablo/03-17-2014/talk-at-the-emerging-ict-for-citizens-veillance-workshop-in-ispra-italy.md

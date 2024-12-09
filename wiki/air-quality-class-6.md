@@ -1,5 +1,5 @@
 ---
-title: air quality class 6
+title: 'air quality class 6'
 tagnames: chaq
 author: liz
 path: /wiki/air-quality-class-6.md

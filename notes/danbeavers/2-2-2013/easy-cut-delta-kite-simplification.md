@@ -1,5 +1,5 @@
 ---
-title: Easy Cut Delta Kite simplification
+title: 'Easy Cut Delta Kite simplification'
 tagnames: kite-mapping, kite, diy-kite, homemade-kites, easy-cut-delta, kite-making, upgrade:kite-making, upgrade:easy-cut-delta, first-time-poster
 author: danbeavers
 path: /notes/danbeavers/2-2-2013/easy-cut-delta-kite-simplification.md

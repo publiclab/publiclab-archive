@@ -1,5 +1,5 @@
 ---
-title: Responding to Environmental Disasters-- Building a Kit
+title: 'Responding to Environmental Disasters-- Building a Kit'
 tagnames: disaster-preparedness, kits, climate-change, disaster-response, txbarnraising, txbr, texas-barnraising
 author: Bronwen
 path: /notes/Bronwen/11-20-2019/responding-to-environmental-disasters-building-a-kit.md

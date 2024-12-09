@@ -1,5 +1,5 @@
 ---
-title: EPA Reinstates Toxics Release Inventory Reporting Requirements For Hydrogen Sulfide 
+title: 'EPA Reinstates Toxics Release Inventory Reporting Requirements For Hydrogen Sulfide '
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-sites
 author: sara
 path: /notes/sara/12-15-2011/epa-reinstates-toxics-release-inventory-reporting-requirements-hydrogen-sulfid.md

@@ -1,5 +1,5 @@
 ---
-title: Call for Summer of Code 2019 proposals!
+title: 'Call for Summer of Code 2019 proposals!'
 tagnames: software, gsoc, blog, code, rgsoc, soc, outreachy, call-for-proposals, gsoc-2019, soc-2019, outreachy-2019
 author: warren
 path: /notes/warren/02-28-2019/call-for-summer-of-code-2019-proposals.md

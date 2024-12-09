@@ -1,5 +1,5 @@
 ---
-title: Can you give me mesure for spectrum? Thank you.
+title: 'Can you give me mesure for spectrum? Thank you.'
 tagnames: question:spectrometer, first-time-poster
 author: janajockovic47
 path: /notes/janajockovic47/05-05-2019/can-you-give-me-mesure-for-spectrum-thank-you.md

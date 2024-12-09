@@ -1,5 +1,5 @@
 ---
-title: Log Simple Air Sensor data to SD card
+title: 'Log Simple Air Sensor data to SD card'
 tagnames: arduino, air-quality, dust, pm, air-sensing, seeks:replications, activity:arduino, particulate-matter, datalogging, air-sensors, purpleair, plantower, purple-air, simple-air-sensor, activity:simple-air-sensor, activity:air-sensing, pin:simple-air-sensor, pin:activity:simple-air-sensor, simple-air, simple-air-sensor-data
 author: imvec
 path: /notes/imvec/12-17-2019/logging-simple-air-sensor-data-to-sd-card.md

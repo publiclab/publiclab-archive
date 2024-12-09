@@ -1,5 +1,5 @@
 ---
-title: KnowFlow will have a NB-IoT version one in few weeks
+title: 'KnowFlow will have a NB-IoT version one in few weeks'
 tagnames: water-quality, knowflow
 author: rockets
 path: /notes/rockets/11-05-2019/knowflow-will-have-a-nb-iot-version-one-in-few-weeks.md

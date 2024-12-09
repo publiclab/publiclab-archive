@@ -1,5 +1,5 @@
 ---
-title: Leptos: gas detection and monitoring station
+title: 'Leptos: gas detection and monitoring station'
 tagnames: arduino, barcelona, spain, air-quality, espana, gas-sensor, air-monitoring, activity:open-air, gas-monitoring, grove, first-time-poster
 author: imvec
 path: /notes/imvec/10-20-2016/leptos-gas-detection-and-monitoring-station.md

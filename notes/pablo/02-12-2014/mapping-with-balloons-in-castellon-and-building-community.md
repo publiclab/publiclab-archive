@@ -1,5 +1,5 @@
 ---
-title: Mapping with balloons in Castellón and building community (results)
+title: 'Mapping with balloons in Castellón and building community (results)'
 tagnames: balloon-mapping, wetlands, spain, events:spain, replication:14022
 author: pablo
 path: /notes/pablo/02-12-2014/mapping-with-balloons-in-castellon-and-building-community.md

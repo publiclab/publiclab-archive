@@ -1,5 +1,5 @@
 ---
-title: Soil Samples
+title: 'Soil Samples'
 tagnames: lat:30, lon:-90, first-time-poster, zoom:6
 author: JaydenBailey
 path: /notes/JaydenBailey/04-30-2021/soil-samples.md

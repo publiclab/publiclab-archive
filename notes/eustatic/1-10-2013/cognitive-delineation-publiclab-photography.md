@@ -1,5 +1,5 @@
 ---
-title: Cognitive delineation from PublicLab photography
+title: 'Cognitive delineation from PublicLab photography'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, barataria
 author: eustatic
 path: /1-10-2013/cognitive-delineation-publiclab-photography.md

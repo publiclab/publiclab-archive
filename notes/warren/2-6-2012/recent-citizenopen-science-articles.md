@@ -1,5 +1,5 @@
 ---
-title: Recent citizen/open science articles
+title: 'Recent citizen/open science articles'
 tagnames: readings
 author: warren
 path: /notes/warren/2-6-2012/recent-citizenopen-science-articles.md

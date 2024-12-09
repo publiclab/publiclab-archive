@@ -1,5 +1,5 @@
 ---
-title: Organizing
+title: 'Organizing'
 tagnames: organizing, community-organizing, youth-organizing
 author: warren
 path: /wiki/organizing.md

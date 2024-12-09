@@ -1,5 +1,5 @@
 ---
-title: SnapPiCam: a Raspberry Pi Point & Shoot
+title: 'SnapPiCam: a Raspberry Pi Point & Shoot'
 tagnames: raspberry-pi, infragram, pi-camera, infragram-pi
 author: mathew
 path: /notes/mathew/02-12-2014/snappicam-a-raspberry-pi-point-shoot.md

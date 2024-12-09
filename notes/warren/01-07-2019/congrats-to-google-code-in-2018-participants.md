@@ -1,5 +1,5 @@
 ---
-title: Congrats to Google Code-In 2018 participants!
+title: 'Congrats to Google Code-In 2018 participants!'
 tagnames: open-source, google, developers, code, wwg, software-outreach, gci, code-in
 author: warren
 path: /notes/warren/01-07-2019/congrats-to-google-code-in-2018-participants.md

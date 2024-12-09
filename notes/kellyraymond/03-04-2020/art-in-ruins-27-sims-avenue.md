@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (27 Sims Avenue)
+title: 'Art in Ruins (27 Sims Avenue)'
 tagnames: hidden:response, lon:-71.433105, zoom:9, lat:41.558820733561326, lon:-71.24505043029787, lat:41.826595, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-27-sims-avenue.md

@@ -1,5 +1,5 @@
 ---
-title: Window
+title: 'Window'
 tagnames: first-time-poster
 author: abhikashab
 path: /notes/abhikashab/11-30-2018/window.md

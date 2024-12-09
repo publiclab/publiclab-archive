@@ -1,5 +1,5 @@
 ---
-title: Article: "The Difference Between Scientific Evidence And The Scientific Method"
+title: 'Article: "The Difference Between Scientific Evidence And The Scientific Method"'
 tagnames: evidence, legal, law-and-policy
 author: warren
 path: /notes/warren/5-1-2012/article-difference-between-scientific-evidence-and-scientific-method.md

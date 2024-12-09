@@ -1,5 +1,5 @@
 ---
-title: Mobius
+title: 'Mobius'
 tagnames: infrared-camera, infragram, mobius-actioncam, mobius, pendulum-rig
 author: tonyc
 path: /wiki/mobius.md

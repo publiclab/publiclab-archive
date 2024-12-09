@@ -1,5 +1,5 @@
 ---
-title: What are some observable tell-tale signs of wastewater pollution?
+title: 'What are some observable tell-tale signs of wastewater pollution?'
 tagnames: water-quality, wastewater, question:water-quality, question:general, general, question:wastewater, detecting-wastewater, question:detecting-wastewater
 author: bhamster
 path: /notes/bhamster/07-28-2021/what-are-some-observable-tell-tale-signs-of-wastewater-pollution.md

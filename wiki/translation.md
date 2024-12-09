@@ -1,5 +1,5 @@
 ---
-title: Translation
+title: 'Translation'
 tagnames: community, website, internationalization, localization, translation, language, prompt:translation
 author: liz
 path: /wiki/translation.md

@@ -1,5 +1,5 @@
 ---
-title: Can Public Lab's Lego Spectrometer be used to measure sunscreen in water?
+title: 'Can Public Lab's Lego Spectrometer be used to measure sunscreen in water?'
 tagnames: question:general, general, first-time-poster, savetheocean, question:savetheocean
 author: amallozzi
 path: /notes/amallozzi/02-24-2020/can-public-lab-s-lego-spectrometer-be-used-to-measure-sunscreen-in-water.md

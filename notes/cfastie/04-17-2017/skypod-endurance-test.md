@@ -1,5 +1,5 @@
 ---
-title: SkyPod endurance test
+title: 'SkyPod endurance test'
 tagnames: balloon-mapping, kite-mapping, arduino, kap, gps, sensors, saturnv, skypod, response:14074, ublox
 author: cfastie
 path: /notes/cfastie/04-17-2017/skypod-endurance-test.md

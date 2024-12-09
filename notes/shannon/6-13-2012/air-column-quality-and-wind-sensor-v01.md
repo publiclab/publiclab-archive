@@ -1,5 +1,5 @@
 ---
-title: air column quality and wind sensor v01
+title: 'air column quality and wind sensor v01'
 tagnames: air-column-monitor
 author: Shannon
 path: /notes/shannon/6-13-2012/air-column-quality-and-wind-sensor-v01.md

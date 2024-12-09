@@ -1,5 +1,5 @@
 ---
-title: Thermal Imaging: Heat Insulation in Older Building
+title: 'Thermal Imaging: Heat Insulation in Older Building'
 tagnames: thermal-photography, thermal-flashlight, thermal-camera, tool, insulation, heat, replication:625
 author: SCG
 path: /notes/SCG/11-25-2014/thermal-imaging-heat-insulation-in-older-building.md

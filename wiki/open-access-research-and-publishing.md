@@ -1,5 +1,5 @@
 ---
-title: Open Access Research and Publishing
+title: 'Open Access Research and Publishing'
 tagnames: ip, intellectualproperty, openaccess
 author: Bronwen
 path: /wiki/open-access-research-and-publishing.md

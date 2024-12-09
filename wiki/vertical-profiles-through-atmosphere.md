@@ -1,5 +1,5 @@
 ---
-title: vertical atmospheric profiles
+title: 'vertical atmospheric profiles'
 tagnames: air-column-monitor, air-quality
 author: liz
 path: /wiki/vertical-profiles-through-atmosphere.md

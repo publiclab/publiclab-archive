@@ -1,5 +1,5 @@
 ---
-title: Ozone sensor (MiCS-2614) and Blue light sensor (mini photocell)
+title: 'Ozone sensor (MiCS-2614) and Blue light sensor (mini photocell)'
 tagnames: arduino, ozone, first-time-poster
 author: filimon_k
 path: /notes/filimon_k/12-13-2015/ozone-sensor-mics-2614-and-blue-light-sensor-mini-photocell.md

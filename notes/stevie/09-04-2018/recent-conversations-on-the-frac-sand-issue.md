@@ -1,5 +1,5 @@
 ---
-title: Recent conversations on the frac sand issue
+title: 'Recent conversations on the frac sand issue'
 tagnames: reporting, wisconsin, frac-sand, pm, midwest, parent:frac-sand, with:pat, with:marlokeno, with:dswenson, purple-air, with:glennwalquist, sentinel, parent:the-sand-sentinel-program, sand-sentinel
 author: stevie
 path: /notes/stevie/09-04-2018/recent-conversations-on-the-frac-sand-issue.md

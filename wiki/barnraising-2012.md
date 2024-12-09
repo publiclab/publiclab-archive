@@ -1,5 +1,5 @@
 ---
-title: barnraising-2012
+title: 'barnraising-2012'
 tagnames: gulf-coast, louisiana, barnraising, lumcon, list:plots-barnraising
 author: warren
 path: /wiki/barnraising-2012.md

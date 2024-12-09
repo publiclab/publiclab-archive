@@ -1,5 +1,5 @@
 ---
-title: Environmental bounty hunting on idling commercial vehicles
+title: 'Environmental bounty hunting on idling commercial vehicles'
 tagnames: new-york-city, air-quality, legal, law-and-policy
 author: liz
 path: /notes/liz/10-15-2019/environmental-bounty-hunting-on-idling-commercial-vehicles.md

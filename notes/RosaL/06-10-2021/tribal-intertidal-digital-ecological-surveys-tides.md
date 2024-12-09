@@ -1,5 +1,5 @@
 ---
-title: Tribal Intertidal Digital Ecological Surveys (TIDES)
+title: 'Tribal Intertidal Digital Ecological Surveys (TIDES)'
 tagnames: image-stitching, pvc, california, mapping, intertidal, coastalmonitoring, 3d-models, slr, pole-mapping, climate-change, climate, low-cost, oceanography, activity:camera-rigs, camera-rigs, site-survey, activity:site-survey, change, first-time-poster, pole-kit, zoom:8, 3d-mapping, carpgangster, lat:41.853196, lon:-124.189571, tides-project, tolowa-deeni-nation, uc-san-diego, scripps, rocky-intertidal, indigenous-mapping, pulley, indigenous-language, coastal-monitoring, fishing-reels, mounted-camera
 author: RosaL
 path: /notes/RosaL/06-10-2021/tribal-intertidal-digital-ecological-surveys-tides.md

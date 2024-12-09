@@ -1,5 +1,5 @@
 ---
-title: Underwater Plume Sampling Methods
+title: 'Underwater Plume Sampling Methods'
 tagnames: plume, water-quality, water-monitoring, sampling, underwater, methodology, thermal-plumes, hydrothermal, method, effluent, first-time-poster, effluent-plume
 author: maxliboiron
 path: /notes/maxliboiron/02-11-2014/underwater-plume-sampling-methods.md

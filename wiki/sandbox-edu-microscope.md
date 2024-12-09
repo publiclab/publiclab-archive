@@ -1,5 +1,5 @@
 ---
-title: sandbox-edu-microscope
+title: 'sandbox-edu-microscope'
 tagnames: 
 author: mimiss
 path: /wiki/sandbox-edu-microscope.md

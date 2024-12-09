@@ -1,5 +1,5 @@
 ---
-title: Visible and Infragram maps of goat brush control along Arroyo Mocho creek, Livermore CA
+title: 'Visible and Infragram maps of goat brush control along Arroyo Mocho creek, Livermore CA'
 tagnames: near-infrared-camera, kite-mapping, livermore, norcal, infragram, goats
 author: patcoyle
 path: /notes/patcoyle/08-16-2013/visible-and-infragram-maps-of-goat-brush-control-along-arroyo-mocho-creek-livermore-ca.md

@@ -1,5 +1,5 @@
 ---
-title: Balloon Telemetry Kit
+title: 'Balloon Telemetry Kit'
 tagnames: balloon-mapping, arduino, balloon-telemetry-kit, telemetry, photo-rig, mining, urban-planning, fracking, tool, land-use, industry, method, land-change
 author: lpercifield
 path: /wiki/balloon-telemetry-kit.md

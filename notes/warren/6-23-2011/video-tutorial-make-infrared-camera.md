@@ -1,5 +1,5 @@
 ---
-title: Video tutorial: make an infrared camera
+title: 'Video tutorial: make an infrared camera'
 tagnames: 
 author: warren
 path: /notes/warren/6-23-2011/video-tutorial-make-infrared-camera.md

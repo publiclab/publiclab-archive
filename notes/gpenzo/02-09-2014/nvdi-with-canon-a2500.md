@@ -1,5 +1,5 @@
 ---
-title: NVDI with canon a2500
+title: 'NVDI with canon a2500'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, nrg, ndvi, infrared, infragram, infrablue, first-time-poster
 author: gpenzo
 path: /notes/gpenzo/02-09-2014/nvdi-with-canon-a2500.md

@@ -1,5 +1,5 @@
 ---
-title: Ballon mapping workshop - University A Coruña
+title: 'Ballon mapping workshop - University A Coruña'
 tagnames: events, spain, aerial-photography, event, event:rsvp, eu, replication:14022, ballon-mapping, date:09-29-2017
 author: imvec
 path: /notes/imvec/09-08-2017/ballon-mapping-workshop-university-a-coruna.md

@@ -1,5 +1,5 @@
 ---
-title: odors
+title: 'odors'
 tagnames: redirect:odor
 author: joyofsoy
 path: /wiki/odors.md

@@ -1,5 +1,5 @@
 ---
-title: Toshiba "radiation camera" makes radioactivity heatmaps
+title: 'Toshiba "radiation camera" makes radioactivity heatmaps'
 tagnames: radiation
 author: warren
 path: /notes/warren/12-15-2011/toshiba-radiation-camera-makes-radioactivity-heatmaps.md

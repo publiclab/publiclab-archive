@@ -1,5 +1,5 @@
 ---
-title: Recap on FarmHack NH 2011
+title: 'Recap on FarmHack NH 2011'
 tagnames: farmhack, agriculture, farm, first-time-poster
 author: rjstatic
 path: /12-12-2011/recap-farmhack-nh-2011.md

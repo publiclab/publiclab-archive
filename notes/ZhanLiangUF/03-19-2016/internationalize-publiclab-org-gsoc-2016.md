@@ -1,5 +1,5 @@
 ---
-title: Internationalize publiclab.org GSoC 2016
+title: 'Internationalize publiclab.org GSoC 2016'
 tagnames: software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827
 author: ZhanLiangUF
 path: /notes/ZhanLiangUF/03-19-2016/internationalize-publiclab-org-gsoc-2016.md

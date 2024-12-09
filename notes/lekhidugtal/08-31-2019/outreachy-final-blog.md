@@ -1,5 +1,5 @@
 ---
-title: Outreachy Final Blog : An awesome Journey
+title: 'Outreachy Final Blog : An awesome Journey'
 tagnames: design, blog, barnstar:basic, blog-submission, soc, ui, summer-of-code, outreachy, outreachy-2019, gsoc-2019-final-report
 author: lekhidugtal
 path: /notes/lekhidugtal/08-31-2019/outreachy-final-blog.md

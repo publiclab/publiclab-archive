@@ -1,5 +1,5 @@
 ---
-title: Doing NDVI in one camera
+title: 'Doing NDVI in one camera'
 tagnames: near-infrared-camera, nrg, ndvi, superblue
 author: mathew
 path: /notes/mathew/9-6-2012/doing-ndvi-one-camera.md

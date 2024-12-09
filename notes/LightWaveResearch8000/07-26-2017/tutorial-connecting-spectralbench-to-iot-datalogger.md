@@ -1,5 +1,5 @@
 ---
-title: Tutorial Connecting SpectralBench To IoT Datalogger?
+title: 'Tutorial Connecting SpectralBench To IoT Datalogger?'
 tagnames: arduino, datalogger, sensor, data-logging, question:general, nano, response:14135, nano-data-logger
 author: LightWaveResearch8000
 path: /notes/LightWaveResearch8000/07-26-2017/tutorial-connecting-spectralbench-to-iot-datalogger.md

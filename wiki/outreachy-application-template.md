@@ -1,5 +1,5 @@
 ---
-title: Outreachy Application Template
+title: 'Outreachy Application Template'
 tagnames: outreachy, proposal-template
 author: warren
 path: /wiki/outreachy-application-template.md

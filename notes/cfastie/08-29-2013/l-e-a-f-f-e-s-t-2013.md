@@ -1,5 +1,5 @@
 ---
-title: L E A F F E S T 2013
+title: 'L E A F F E S T 2013'
 tagnames: near-infrared-camera, kite-mapping, vermont, events, leaffest, leaffest2012, infragram, events:vermont, pole-photography, leaffest2013
 author: cfastie
 path: /notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013.md

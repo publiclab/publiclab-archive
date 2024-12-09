@@ -1,5 +1,5 @@
 ---
-title: Mine Reclamation: Research Area Review Summary
+title: 'Mine Reclamation: Research Area Review Summary'
 tagnames: mining, reviews, research-area-review, reclamation, with:laurel_mire, mine-reclamation
 author: bhamster
 path: /notes/bhamster/04-12-2022/mine-reclamation-research-area-review-summary.md

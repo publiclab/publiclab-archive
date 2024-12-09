@@ -1,5 +1,5 @@
 ---
-title: Materials/ Instructable for Blue Light Sensor
+title: 'Materials/ Instructable for Blue Light Sensor'
 tagnames: sensors, light, blue, wearables, photocell
 author: filimon_k
 path: /notes/filimon_k/12-14-2015/materials-instructable-for-blue-light-sensor.md

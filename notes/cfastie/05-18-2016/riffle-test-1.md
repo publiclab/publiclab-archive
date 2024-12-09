@@ -1,5 +1,5 @@
 ---
-title: Riffle test 1
+title: 'Riffle test 1'
 tagnames: arduino, water-quality, riffle, micro-sd, category:verify, activity:riffle, activity:datalogger, activity:data-logging
 author: cfastie
 path: /notes/cfastie/05-18-2016/riffle-test-1.md

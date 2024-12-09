@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (52 Valley Street)
+title: 'Art in Ruins (52 Valley Street)'
 tagnames: hidden:response, zoom:10, lat:41.69957665997156, lon:-71.50039672851564, lat:41.818408, lon:-71.441345, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-52-valley-street.md

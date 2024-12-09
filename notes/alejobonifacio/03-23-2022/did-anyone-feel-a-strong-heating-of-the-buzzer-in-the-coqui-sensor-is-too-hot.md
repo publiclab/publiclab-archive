@@ -1,5 +1,5 @@
 ---
-title: Did anyone feel a strong heating of the buzzer in the Coqui sensor? is too hot
+title: 'Did anyone feel a strong heating of the buzzer in the Coqui sensor? is too hot'
 tagnames: coqui, question:coqui, question:general, general, research-curation-fellows, response:25251
 author: alejobonifacio
 path: /notes/alejobonifacio/03-23-2022/did-anyone-feel-a-strong-heating-of-the-buzzer-in-the-coqui-sensor-is-too-hot.md

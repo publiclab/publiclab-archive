@@ -1,5 +1,5 @@
 ---
-title: Programs for simple CHDK and Stereo Datamaker Installation
+title: 'Programs for simple CHDK and Stereo Datamaker Installation'
 tagnames: kite-mapping, chdk, dual-camera, camera-trigger, sdm, stereo-datamaker
 author: mathew
 path: /notes/mathew/1-31-2013/programs-simple-chdk-and-stereo-datamaker-installation.md

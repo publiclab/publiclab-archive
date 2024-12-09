@@ -1,5 +1,5 @@
 ---
-title: Demo of Ned Horning Fiji/Image-J plug-in
+title: 'Demo of Ned Horning Fiji/Image-J plug-in'
 tagnames: plots, barnraising2012, lumcon, cocodrie-la
 author: patcoyle
 path: /notes/patcoyle/11-12-2012/demo-ned-horning-fijiimage-j-plug.md

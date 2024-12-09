@@ -1,5 +1,5 @@
 ---
-title: gsoc:Editor repair and fortification
+title: 'gsoc:Editor repair and fortification'
 tagnames: 
 author: nitin_tech
 path: /notes/nitin_tech/03-19-2020/gsoc-editor-repair-and-fortification.md

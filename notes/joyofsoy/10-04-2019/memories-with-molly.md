@@ -1,5 +1,5 @@
 ---
-title: Memories with Molly
+title: 'Memories with Molly'
 tagnames: csf, one-cranston, csf17
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/memories-with-molly.md

@@ -1,5 +1,5 @@
 ---
-title: infrared-garden-experiment
+title: 'infrared-garden-experiment'
 tagnames: workshop, gardening-toolkit, parent:gardening:toolkit
 author: liz
 path: /wiki/infrared-garden-experiment.md

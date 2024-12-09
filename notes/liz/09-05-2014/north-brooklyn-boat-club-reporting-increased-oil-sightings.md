@@ -1,5 +1,5 @@
 ---
-title: North Brooklyn Boat Club reporting increased oil sightings 
+title: 'North Brooklyn Boat Club reporting increased oil sightings '
 tagnames: new-york-city, newtown-creek, oil-spill, oil, sample-prep, sampling, oil-sampling-kit, oil-testing-kit, northeast, gas, sheen, nbbc
 author: liz
 path: /notes/liz/09-05-2014/north-brooklyn-boat-club-reporting-increased-oil-sightings.md

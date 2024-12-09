@@ -1,5 +1,5 @@
 ---
-title: Tip: traveling with a demo coqui
+title: 'Tip: traveling with a demo coqui'
 tagnames: education, workshop, coqui
 author: stevie
 path: /notes/stevie/09-26-2019/tip-traveling-with-a-demo-coqui.md

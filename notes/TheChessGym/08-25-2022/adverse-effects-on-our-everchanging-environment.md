@@ -1,5 +1,5 @@
 ---
-title: Adverse Effects On Our Everchanging Environment
+title: 'Adverse Effects On Our Everchanging Environment'
 tagnames: lat:1, lat:22, lon:10, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/08-25-2022/adverse-effects-on-our-everchanging-environment.md

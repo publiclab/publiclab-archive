@@ -1,5 +1,5 @@
 ---
-title: Bridges between our community and our software contributors
+title: 'Bridges between our community and our software contributors'
 tagnames: community, software, outreach, gsoc, web, coding, wwg, software-outreach
 author: warren
 path: /notes/warren/11-06-2016/bridges-between-our-community-and-our-software-contributors.md

@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (299 Carpenter Street)
+title: 'Art in Ruins (299 Carpenter Street)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.818408, lon:-71.428985, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-299-carpenter-street.md

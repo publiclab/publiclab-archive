@@ -1,5 +1,5 @@
 ---
-title: Create a welcoming "first-timers-only" issue to invite new software contributors
+title: 'Create a welcoming "first-timers-only" issue to invite new software contributors'
 tagnames: community, outreach, gsoc, web, wwg, activity:software, first-timers-only, contributors, software-outreach, activity:soc, activity:software-outreach, first-timers-only-blog, series:software-outreach, activity:developers
 author: warren
 path: /notes/warren/10-31-2016/create-a-welcoming-first-timers-only-issue-to-invite-new-software-contributors.md

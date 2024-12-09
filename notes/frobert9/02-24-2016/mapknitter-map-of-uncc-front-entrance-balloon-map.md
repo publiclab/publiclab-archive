@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNCC Front Entrance Balloon Map
+title: 'MapKnitter map of UNCC Front Entrance Balloon Map'
 tagnames: mapknitter, lat:35.301447208, lon:-80.7316294312
 author: frobert9
 path: /notes/frobert9/02-24-2016/mapknitter-map-of-uncc-front-entrance-balloon-map.md

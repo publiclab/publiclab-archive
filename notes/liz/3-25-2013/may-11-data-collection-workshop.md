@@ -1,5 +1,5 @@
 ---
-title: May 11 data collection workshop
+title: 'May 11 data collection workshop'
 tagnames: new-york-city, event, 5bf, five-borough-farm, urban-ag, open-space-technology, garden
 author: liz
 path: /notes/liz/3-25-2013/may-11-data-collection-workshop.md

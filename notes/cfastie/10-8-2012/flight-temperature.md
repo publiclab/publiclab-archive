@@ -1,5 +1,5 @@
 ---
-title: Flight Temperature
+title: 'Flight Temperature'
 tagnames: kite-mapping, arduino, mapknitter, leaffest, leaffest2012, gps, jeenode, qgis
 author: cfastie
 path: /notes/cfastie/10-8-2012/flight-temperature.md

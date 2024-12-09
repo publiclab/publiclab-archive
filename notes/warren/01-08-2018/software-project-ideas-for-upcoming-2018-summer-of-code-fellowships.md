@@ -1,5 +1,5 @@
 ---
-title: Software project ideas for upcoming 2018 Summer of Code fellowships?
+title: 'Software project ideas for upcoming 2018 Summer of Code fellowships?'
 tagnames: software, gsoc, developers, code, response:12827, question:gsoc, soc, response:13975, summer-of-code, question:soc, question:developers, question:software
 author: warren
 path: /notes/warren/01-08-2018/software-project-ideas-for-upcoming-2018-summer-of-code-fellowships.md

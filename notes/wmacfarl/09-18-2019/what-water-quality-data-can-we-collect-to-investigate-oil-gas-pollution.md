@@ -1,5 +1,5 @@
 ---
-title: What water quality data can we collect to investigate oil/gas pollution?
+title: 'What water quality data can we collect to investigate oil/gas pollution?'
 tagnames: question:water-quality, oil-and-gas-water-trio, question:oil-and-gas-water-trio, oil-and-gas-water-quality, question:oil-and-gas-water-quality, simple-water-sensor-platform, question:simple-water-sensor-platform
 author: wmacfarl
 path: /notes/wmacfarl/09-18-2019/what-water-quality-data-can-we-collect-to-investigate-oil-gas-pollution.md

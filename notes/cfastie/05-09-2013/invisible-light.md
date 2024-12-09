@@ -1,5 +1,5 @@
 ---
-title: Invisible Rays
+title: 'Invisible Rays'
 tagnames: near-infrared-camera, ndvi, nir, vermont, infrared, infragram, plant-health, history, wratten87, infrablue
 author: cfastie
 path: /notes/cfastie/05-09-2013/invisible-light.md

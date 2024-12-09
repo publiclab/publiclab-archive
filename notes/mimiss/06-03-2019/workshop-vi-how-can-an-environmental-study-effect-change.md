@@ -1,5 +1,5 @@
 ---
-title: Workshop VI: How can an environmental study effect change?
+title: 'Workshop VI: How can an environmental study effect change?'
 tagnames: education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, activity:student-community-science, with:purl
 author: mimiss
 path: /notes/mimiss/06-03-2019/workshop-vi-how-can-an-environmental-study-effect-change.md

@@ -1,5 +1,5 @@
 ---
-title: Hi I'd like to know more on this project
+title: 'Hi I'd like to know more on this project'
 tagnames: ph, question:general, response:11418, titration
 author: Droopas
 path: /notes/Droopas/12-22-2017/hi-i-d-like-to-know-more-on-this-project.md

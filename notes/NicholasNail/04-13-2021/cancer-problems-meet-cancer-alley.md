@@ -1,5 +1,5 @@
 ---
-title: Cancer Problems: Meet Cancer Alley
+title: 'Cancer Problems: Meet Cancer Alley'
 tagnames: gulf-coast, air-quality, cancer, pollution, issue-brief, first-time-poster, zoom:7, cancer-alley, lat:30.177423, lon:-91.046702, with:owentaylor, with:duynguyen
 author: NicholasNail
 path: /notes/NicholasNail/04-13-2021/cancer-problems-meet-cancer-alley.md

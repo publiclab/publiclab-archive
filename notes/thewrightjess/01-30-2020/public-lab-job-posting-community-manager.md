@@ -1,5 +1,5 @@
 ---
-title: Job Posting: Community Manager
+title: 'Job Posting: Community Manager'
 tagnames: community, development, jobs
 author: thewrightjess
 path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-community-manager.md

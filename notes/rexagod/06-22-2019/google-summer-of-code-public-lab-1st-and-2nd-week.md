@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code @ Public Lab: 1st and 2nd Week
+title: 'Google Summer of Code @ Public Lab: 1st and 2nd Week'
 tagnames: gsoc, progress, soc, gsoc-2019, soc-2019
 author: rexagod
 path: /notes/rexagod/06-22-2019/google-summer-of-code-public-lab-1st-and-2nd-week.md

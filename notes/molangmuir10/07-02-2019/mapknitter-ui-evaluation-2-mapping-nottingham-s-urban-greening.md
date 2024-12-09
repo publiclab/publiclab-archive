@@ -1,5 +1,5 @@
 ---
-title: MapKnitter UI evaluation 2: Mapping Nottingham's Urban Greening
+title: 'MapKnitter UI evaluation 2: Mapping Nottingham's Urban Greening'
 tagnames: balloon-mapping, mapknitter, community, mapping, blog, barnstar:basic, fellowship, ui, community-atlas, lat:52.948637, lon:-1.16455, lat:52.9547832, lon:-1.1581086, community-atlas-ui
 author: molangmuir10
 path: /notes/molangmuir10/07-02-2019/mapknitter-ui-evaluation-2-mapping-nottingham-s-urban-greening.md

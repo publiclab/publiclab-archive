@@ -1,5 +1,5 @@
 ---
-title: Challenges and Solutions doing Fieldwork
+title: 'Challenges and Solutions doing Fieldwork'
 tagnames: csf, community-science-forum, student-community-science, classroom-community-science, csf18
 author: bhamster
 path: /notes/bhamster/03-02-2023/challenges-and-solutions-doing-fieldwork.md

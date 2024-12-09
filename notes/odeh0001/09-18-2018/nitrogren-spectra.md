@@ -1,5 +1,5 @@
 ---
-title: Nitrogren Spectra
+title: 'Nitrogren Spectra'
 tagnames: first-time-poster
 author: odeh0001
 path: /notes/odeh0001/09-18-2018/nitrogren-spectra.md

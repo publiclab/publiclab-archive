@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Snow Namseoul
+title: 'MapKnitter map of Snow Namseoul'
 tagnames: mapknitter, lat:36.9070865699, lon:127.1402692795
 author: nsugis
 path: /notes/nsugis/12-23-2015/mapknitter-map-of-snow-namseoul.md

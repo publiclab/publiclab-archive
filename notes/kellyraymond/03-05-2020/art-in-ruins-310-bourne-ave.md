@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (310 Bourne Ave)
+title: 'Art in Ruins (310 Bourne Ave)'
 tagnames: hidden:response, zoom:9, lat:41.842966, lat:41.55324897773725, lon:-71.47293090820314, lon:-71.369934, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-310-bourne-ave.md

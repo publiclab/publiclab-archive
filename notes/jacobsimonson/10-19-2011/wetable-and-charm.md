@@ -1,5 +1,5 @@
 ---
-title: The weTable and CHARM
+title: 'The weTable and CHARM'
 tagnames: university, texas
 author: jacobsimonson
 path: /notes/jacobsimonson/10-19-2011/wetable-and-charm.md

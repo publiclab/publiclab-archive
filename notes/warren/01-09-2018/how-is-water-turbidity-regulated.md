@@ -1,5 +1,5 @@
 ---
-title: How is water turbidity regulated?
+title: 'How is water turbidity regulated?'
 tagnames: water-quality, turbidity, question:water-quality, question:turbidity
 author: warren
 path: /notes/warren/01-09-2018/how-is-water-turbidity-regulated.md

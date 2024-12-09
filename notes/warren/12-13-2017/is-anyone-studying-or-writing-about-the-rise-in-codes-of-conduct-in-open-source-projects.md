@@ -1,5 +1,5 @@
 ---
-title: Is anyone studying or writing about the rise in Codes of Conduct in open source projects?
+title: 'Is anyone studying or writing about the rise in Codes of Conduct in open source projects?'
 tagnames: community, answered, conduct, software-outreach, question:evaluation, question:software-outreach, codes-of-conduct, question:conduct, civilservant
 author: warren
 path: /notes/warren/12-13-2017/is-anyone-studying-or-writing-about-the-rise-in-codes-of-conduct-in-open-source-projects.md

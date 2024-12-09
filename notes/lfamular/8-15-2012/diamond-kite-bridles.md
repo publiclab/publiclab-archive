@@ -1,5 +1,5 @@
 ---
-title: Diamond kite bridles
+title: 'Diamond kite bridles'
 tagnames: kite-mapping, kite, diy-kite, bridle, diamond, help, diy-kites, kite-making
 author: lfamular
 path: /notes/lfamular/8-15-2012/diamond-kite-bridles.md

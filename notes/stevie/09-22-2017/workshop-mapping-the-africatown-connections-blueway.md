@@ -1,5 +1,5 @@
 ---
-title: Workshop: Mapping the Africatown Connections Blueway
+title: 'Workshop: Mapping the Africatown Connections Blueway'
 tagnames: gulf-coast, balloon-mapping, kite-mapping, kite, mapping, balloon, event:rsvp, nas, mejac, africatown, alabama, blueway, africa-town, pritchard
 author: stevie
 path: /notes/stevie/09-22-2017/workshop-mapping-the-africatown-connections-blueway.md

@@ -1,5 +1,5 @@
 ---
-title: Logging firewood
+title: 'Logging firewood'
 tagnames: arduino, sensors, data-logging, temperature-sensing, thermal-infrared, gy90614, series:woodstove-control, response:15288
 author: cfastie
 path: /notes/cfastie/10-09-2018/logging-firewood.md

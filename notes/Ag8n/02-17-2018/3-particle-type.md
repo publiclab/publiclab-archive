@@ -1,5 +1,5 @@
 ---
-title: 3 particle type
+title: '3 particle type'
 tagnames: silica, question:air-quality, question:silica, question:air-sensors, air-sensors, mass-spectrometry, xray, sample-analysis, question:sample-analysis
 author: Ag8n
 path: /notes/Ag8n/02-17-2018/3-particle-type.md

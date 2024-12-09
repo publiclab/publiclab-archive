@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNCC Renovations
+title: 'MapKnitter map of UNCC Renovations'
 tagnames: 
 author: awelch18
 path: /notes/awelch18/10-04-2016/mapknitter-map-of-uncc-renovations.md

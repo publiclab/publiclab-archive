@@ -1,5 +1,5 @@
 ---
-title: Vancouver
+title: 'Vancouver'
 tagnames: canada
 author: ann
 path: /wiki/vancouver.md

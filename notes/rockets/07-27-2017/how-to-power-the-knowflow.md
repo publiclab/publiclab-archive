@@ -1,5 +1,5 @@
 ---
-title: How to power the KnowFlow?
+title: 'How to power the KnowFlow?'
 tagnames: power, data-logging, knowflow, question:knowflow, question:data-logging-power
 author: rockets
 path: /notes/rockets/07-27-2017/how-to-power-the-knowflow.md

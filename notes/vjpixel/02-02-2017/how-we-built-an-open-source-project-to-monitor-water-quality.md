@@ -1,5 +1,5 @@
 ---
-title: How we built an open source project to monitor water quality
+title: 'How we built an open source project to monitor water quality'
 tagnames: water-quality, list:plots-waterquality, brasil, parent:open-water, report, redeinfoamazonia, maedagua
 author: vjpixel
 path: /notes/vjpixel/02-02-2017/how-we-built-an-open-source-project-to-monitor-water-quality.md

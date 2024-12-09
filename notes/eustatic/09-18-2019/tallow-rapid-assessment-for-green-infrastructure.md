@@ -1,5 +1,5 @@
 ---
-title: Tallow Rapid Assessment for Green Infrastructure
+title: 'Tallow Rapid Assessment for Green Infrastructure'
 tagnames: gulf-coast, open-source, forest, invasive, tallow, climate, location:blurred, place:united-states, lat:30, lon:-84, reforestation, zoom:6
 author: eustatic
 path: /09-18-2019/tallow-rapid-assessment-for-green-infrastructure.md

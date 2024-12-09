@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal: Mapknitter Rails 6 upgrade
+title: 'GSoC Proposal: Mapknitter Rails 6 upgrade'
 tagnames: mapknitter, gsoc, soc, first-time-poster, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects
 author: kaustubh_nair
 path: /notes/kaustubh_nair/03-26-2019/gsoc-proposal-mapknitter-rails-6-upgrade.md

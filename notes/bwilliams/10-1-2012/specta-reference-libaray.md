@@ -1,5 +1,5 @@
 ---
-title: Specta Reference Libaray
+title: 'Specta Reference Libaray'
 tagnames: spectrometer, spectra, spectra-lines, database, first-time-poster
 author: B.Williams
 path: /notes/bwilliams/10-1-2012/specta-reference-libaray.md

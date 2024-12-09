@@ -1,5 +1,5 @@
 ---
-title: Rosco replacements for Wratten 25A, pt 2
+title: 'Rosco replacements for Wratten 25A, pt 2'
 tagnames: infrared, infragram, mobius
 author: mathew
 path: /notes/mathew/04-30-2014/rosco-replacements-for-wratten-25a-pt-2.md

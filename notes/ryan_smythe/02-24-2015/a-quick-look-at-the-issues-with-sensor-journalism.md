@@ -1,5 +1,5 @@
 ---
-title: A Quick Look At The Issues With Sensor Journalism
+title: 'A Quick Look At The Issues With Sensor Journalism'
 tagnames: sensor-journalism
 author: ryan_smythe
 path: /notes/ryan_smythe/02-24-2015/a-quick-look-at-the-issues-with-sensor-journalism.md

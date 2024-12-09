@@ -1,5 +1,5 @@
 ---
-title: How can I delete a User Account?
+title: 'How can I delete a User Account?'
 tagnames: question:website, question:website-structure
 author: niklasjordan
 path: /notes/niklasjordan/03-25-2019/how-can-i-delete-a-user-account.md

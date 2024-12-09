@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench Tools
+title: 'Spectral Workbench Tools'
 tagnames: fluorescence, spectral-workbench, transmittance, parent:spectral-workbench, wishlist
 author: warren
 path: /wiki/spectral-workbench-tools.md

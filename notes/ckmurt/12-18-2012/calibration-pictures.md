@@ -1,5 +1,5 @@
 ---
-title: Calibration Pictures
+title: 'Calibration Pictures'
 tagnames: spectrometer, troubleshooting, desktop-spectrometer, dsk
 author: ckmurt
 path: /notes/ckmurt/12-18-2012/calibration-pictures.md

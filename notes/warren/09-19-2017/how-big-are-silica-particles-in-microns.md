@@ -1,5 +1,5 @@
 ---
-title: How big are silica particles, in microns?
+title: 'How big are silica particles, in microns?'
 tagnames: particulate-sensing, dust, silica, pm, answered, question:pm, question:particulates, question:silica, microscopes, question:microscopes, question:dust, question:dust-sampling
 author: warren
 path: /notes/warren/09-19-2017/how-big-are-silica-particles-in-microns.md

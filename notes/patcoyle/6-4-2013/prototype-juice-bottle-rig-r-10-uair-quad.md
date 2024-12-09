@@ -1,5 +1,5 @@
 ---
-title: Prototype juice bottle rig on R-10 UAir quad
+title: 'Prototype juice bottle rig on R-10 UAir quad'
 tagnames: drones, uav, bottle-rig
 author: patcoyle
 path: /notes/patcoyle/6-4-2013/prototype-juice-bottle-rig-r-10-uair-quad.md

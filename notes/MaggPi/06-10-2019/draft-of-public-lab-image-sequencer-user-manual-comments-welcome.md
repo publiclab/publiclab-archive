@@ -1,5 +1,5 @@
 ---
-title: Draft of Public Lab Image Sequencer User Manual – Comments Welcome!
+title: 'Draft of Public Lab Image Sequencer User Manual – Comments Welcome!'
 tagnames: documentation, soc, activity:documentation, image-sequencer, activity:image-sequencer, gsoc-2019, soc-2019, status:request
 author: MaggPi
 path: /notes/MaggPi/06-10-2019/draft-of-public-lab-image-sequencer-user-manual-comments-welcome.md

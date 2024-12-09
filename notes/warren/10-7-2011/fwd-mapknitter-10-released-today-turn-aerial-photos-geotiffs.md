@@ -1,5 +1,5 @@
 ---
-title: MapKnitter 1.0 released today, turn aerial photos into GeoTiffs!
+title: 'MapKnitter 1.0 released today, turn aerial photos into GeoTiffs!'
 tagnames: 
 author: warren
 path: /notes/warren/10-7-2011/fwd-mapknitter-10-released-today-turn-aerial-photos-geotiffs.md

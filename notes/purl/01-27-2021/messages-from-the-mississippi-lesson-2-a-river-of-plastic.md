@@ -1,5 +1,5 @@
 ---
-title: Messages From the Mississippi Lesson 2: A River of Plastic
+title: 'Messages From the Mississippi Lesson 2: A River of Plastic'
 tagnames: microplastics, messagesfromthemississippi
 author: purl
 path: /notes/purl/01-27-2021/messages-from-the-mississippi-lesson-2-a-river-of-plastic.md

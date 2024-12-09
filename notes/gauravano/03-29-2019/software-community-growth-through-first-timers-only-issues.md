@@ -1,5 +1,5 @@
 ---
-title: Software Community Growth through "first-timers-only" issues
+title: 'Software Community Growth through "first-timers-only" issues'
 tagnames: web-development, webworkinggroup, software, blog, developers, community-building, with:warren, onboarding, first-timers-only, software-outreach
 author: gauravano
 path: /notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues.md

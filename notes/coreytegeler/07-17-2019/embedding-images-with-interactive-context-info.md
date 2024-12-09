@@ -1,5 +1,5 @@
 ---
-title: Embedding images with interactive context info
+title: 'Embedding images with interactive context info'
 tagnames: photography, software, ui, first-time-poster
 author: coreytegeler
 path: /notes/coreytegeler/07-17-2019/embedding-images-with-interactive-context-info.md

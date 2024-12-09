@@ -1,5 +1,5 @@
 ---
-title: bucket
+title: 'bucket'
 tagnames: redirect:air-sampling
 author: warren
 path: /wiki/bucket.md

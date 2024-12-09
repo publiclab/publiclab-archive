@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of College Creek Erosional Changes
+title: 'MapKnitter map of College Creek Erosional Changes'
 tagnames: mapknitter, first-time-poster, lat:37.2208606739, lon:-76.6968736053, lat:37.270702, lon:-76.707457
 author: tdjones8
 path: /notes/tdjones8/04-18-2019/mapknitter-map-of-college-creek-erosional-changes.md

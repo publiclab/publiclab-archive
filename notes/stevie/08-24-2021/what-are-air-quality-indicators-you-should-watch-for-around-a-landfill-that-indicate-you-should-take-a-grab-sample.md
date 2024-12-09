@@ -1,5 +1,5 @@
 ---
-title: What are air quality indicators you should watch for around a landfill that indicate you should take a grab sample?
+title: 'What are air quality indicators you should watch for around a landfill that indicate you should take a grab sample?'
 tagnames: landfill, air-quality, question:air-quality, odor, vocs, gas-monitoring, question:general, general, question:odor, question:vocs, question:landfill, VVAMP, question:vvamp, question:gas-monitoring
 author: stevie
 path: /notes/stevie/08-24-2021/what-are-air-quality-indicators-you-should-watch-for-around-a-landfill-that-indicate-you-should-take-a-grab-sample.md

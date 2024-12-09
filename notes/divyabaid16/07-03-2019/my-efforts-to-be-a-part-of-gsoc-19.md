@@ -1,5 +1,5 @@
 ---
-title: My efforts to be a part of GSoC’19
+title: 'My efforts to be a part of GSoC’19'
 tagnames: gsoc, soc, gsoc-2019, soc-2019
 author: divyabaid16
 path: /notes/divyabaid16/07-03-2019/my-efforts-to-be-a-part-of-gsoc-19.md

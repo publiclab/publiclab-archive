@@ -1,5 +1,5 @@
 ---
-title: choosing-how-to-track-progress
+title: 'choosing-how-to-track-progress'
 tagnames: parent:gardening-toolkit, gardening-toolkit
 author: liz
 path: /wiki/choosing-how-to-track-progress.md

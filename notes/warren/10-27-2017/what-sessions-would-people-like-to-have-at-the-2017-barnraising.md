@@ -1,5 +1,5 @@
 ---
-title: What sessions would people like to have at the 2017 Barnraising?
+title: 'What sessions would people like to have at the 2017 Barnraising?'
 tagnames: barnraising, question:barnraising, planning, marketplace, open-space, sessions
 author: warren
 path: /notes/warren/10-27-2017/what-sessions-would-people-like-to-have-at-the-2017-barnraising.md

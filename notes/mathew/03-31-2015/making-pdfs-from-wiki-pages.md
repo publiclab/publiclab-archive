@@ -1,5 +1,5 @@
 ---
-title: making PDFs from wiki pages
+title: 'making PDFs from wiki pages'
 tagnames: process, curriculum, plots2, how-to, publiclab.org, printing
 author: mathew
 path: /notes/mathew/03-31-2015/making-pdfs-from-wiki-pages.md

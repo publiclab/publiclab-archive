@@ -1,5 +1,5 @@
 ---
-title: Can you share details on any recent changes in environmental regulations or court rulings, particularly as relates to water quality, in the State where you reside?
+title: 'Can you share details on any recent changes in environmental regulations or court rulings, particularly as relates to water quality, in the State where you reside?'
 tagnames: water-quality, environmental-regulations, court-rulings
 author: gilbert
 path: /notes/gilbert/10-30-2017/can-you-share-details-on-any-recent-changes-in-environmental-regulations-or-court-rulings-particularly-as-relates-to-water-quality-in-the-state-where-you-reside.md

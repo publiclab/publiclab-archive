@@ -1,5 +1,5 @@
 ---
-title: Air Quality Data Visualization: No Coding Necessary
+title: 'Air Quality Data Visualization: No Coding Necessary'
 tagnames: providence, air-quality, sensors, visualization, data, dustduino, northeast, low, cost, location:blurred, data-visualization, collocation, lat:41.8, lon:-71.4, place:ri-02905-united-states, air-quality-data
 author: jiteovien
 path: /notes/jiteovien/08-01-2018/air-quality-data-visualization-no-coding-necessary.md

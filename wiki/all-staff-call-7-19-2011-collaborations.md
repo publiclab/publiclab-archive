@@ -1,5 +1,5 @@
 ---
-title: all staff call 7 19 2011 collaborations
+title: 'all staff call 7 19 2011 collaborations'
 tagnames: 
 author: warren
 path: /wiki/all-staff-call-7-19-2011-collaborations.md

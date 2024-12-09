@@ -1,5 +1,5 @@
 ---
-title: Summer of Maps Fellowship Presentation
+title: 'Summer of Maps Fellowship Presentation'
 tagnames: philadelphia, event, events:philadelphia, maine, northeast, penobscot, friends-of-penobscot-bay, event:rsvp, date:08-18-2015
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/08-17-2015/summer-of-maps-fellowship-presentation.md

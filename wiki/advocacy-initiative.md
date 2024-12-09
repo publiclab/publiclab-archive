@@ -1,5 +1,5 @@
 ---
-title: advocacy-initiative
+title: 'advocacy-initiative'
 tagnames: 
 author: liz
 path: /wiki/advocacy-initiative.md

@@ -1,5 +1,5 @@
 ---
-title: passive-pm
+title: 'passive-pm'
 tagnames: parent:pm
 author: mathew
 path: /wiki/passive-pm.md

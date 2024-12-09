@@ -1,5 +1,5 @@
 ---
-title: The Mother Lord of Nature: Potholes
+title: 'The Mother Lord of Nature: Potholes'
 tagnames: issue-brief, zoom:6, with:kevinmarinello, with:rayfieldlotten, lat:30.003812, lon:-90.059059
 author: adamroevens
 path: /notes/adamroevens/05-17-2021/the-mother-lord-of-nature-potholes.md

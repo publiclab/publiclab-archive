@@ -1,5 +1,5 @@
 ---
-title: State Park Land trail camera?
+title: 'State Park Land trail camera?'
 tagnames: park, sand, michigan, timelapse, mining, fracsand, trail-cam, state, sand-mining
 author: DMerwitz
 path: /notes/DMerwitz/10-17-2016/state-park-land-trail-camera.md

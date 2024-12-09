@@ -1,5 +1,5 @@
 ---
-title: Changes in factory pollution and asthma emergency department visits
+title: 'Changes in factory pollution and asthma emergency department visits'
 tagnames: air-quality, dust, pm
 author: DrJessie
 path: /notes/DrJessie/11-06-2017/changes-in-factory-pollution-and-asthma-emergency-department-visits.md

@@ -1,5 +1,5 @@
 ---
-title: Map of Maps
+title: 'Map of Maps'
 tagnames: 
 author: sara
 path: /wiki/map-maps.md

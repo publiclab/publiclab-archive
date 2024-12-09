@@ -1,5 +1,5 @@
 ---
-title: Reporting Forms for Louisiana (and other) pollution events
+title: 'Reporting Forms for Louisiana (and other) pollution events'
 tagnames: gulf-coast, evidence, louisiana, reporting, epa, skytruth, otk, citizen, advocacy, lean, gmc, coastguard, deq, reporting-forms, tulane, iwitness, reporting-form
 author: eustatic
 path: /01-26-2016/reporting-forms-for-louisiana-and-other-pollution-events.md

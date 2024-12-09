@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism- Kassandra Ryback
+title: 'Sensor Journalism- Kassandra Ryback'
 tagnames: sensor-journalism
 author: Kassandra_Ryback
 path: /notes/Kassandra_Ryback/02-20-2015/sensor-journalism-kassandra-ryback.md

@@ -1,5 +1,5 @@
 ---
-title: Stitching Images into Maps
+title: 'Stitching Images into Maps'
 tagnames: mapknitter, image-stitching, stitch, wetlands, mapping, sorting, stitching, parent:wetlands-toolkit, lat:41, location:blurred, place:united-states, activity:wetlands, lon:-74, activity:mapping, zoom:6
 author: stevie
 path: /wiki/stitching-images-into-maps.md

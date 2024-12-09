@@ -1,5 +1,5 @@
 ---
-title: DC-Baltimore 
+title: 'DC-Baltimore '
 tagnames: chapter, tabbed:notes, tabbed:wikis, events:dc-baltimore, list:plots-baltimore-dc, lat:38.8951, lon:-77.0367, northeast, great-photos, parent:northeast
 author: Pera
 path: /wiki/dc-baltimore.md

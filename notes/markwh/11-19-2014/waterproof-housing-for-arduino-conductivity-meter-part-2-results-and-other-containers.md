@@ -1,5 +1,5 @@
 ---
-title: Waterproof Housing for Arduino Conductivity Meter-- Part 2: results and other containers
+title: 'Waterproof Housing for Arduino Conductivity Meter-- Part 2: results and other containers'
 tagnames: water-sensing, water-quality-monitoring, water-quality, umass-amherst, publiclab-at-umass
 author: markwh
 path: /notes/markwh/11-19-2014/waterproof-housing-for-arduino-conductivity-meter-part-2-results-and-other-containers.md

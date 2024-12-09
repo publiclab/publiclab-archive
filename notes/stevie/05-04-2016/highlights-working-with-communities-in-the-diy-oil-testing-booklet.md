@@ -1,5 +1,5 @@
 ---
-title: Highlights: Working with Communities in the DIY Oil Testing Booklet
+title: 'Highlights: Working with Communities in the DIY Oil Testing Booklet'
 tagnames: spectrometer, community, workshops, blog, oil-testing-kit, homebrew-oil-testing-kit, booklet, response:13032
 author: stevie
 path: /notes/stevie/05-04-2016/highlights-working-with-communities-in-the-diy-oil-testing-booklet.md

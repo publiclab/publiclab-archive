@@ -1,5 +1,5 @@
 ---
-title: Finding Neon
+title: 'Finding Neon'
 tagnames: spectrometer, spectralworkbench, ebert, gsoc, gsoc-2013
 author: cfastie
 path: /notes/cfastie/09-14-2013/finding-neon.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab Privacy Policy
+title: 'Public Lab Privacy Policy'
 tagnames: locked, privacy, location:blurred, place:united-states, lat:22, lon:76, zoom:6
 author: warren
 path: /wiki/privacy.md

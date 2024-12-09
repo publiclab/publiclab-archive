@@ -1,5 +1,5 @@
 ---
-title: Mehak, Virginia, & Tori  Conductivity Research Summary
+title: 'Mehak, Virginia, & Tori  Conductivity Research Summary'
 tagnames: video, conductivity, salt, coqui, mission-hill, replication:11213
 author: mehaky
 path: /notes/mehaky/02-25-2015/mehak-virginia-tori-conductivity-research-summary.md

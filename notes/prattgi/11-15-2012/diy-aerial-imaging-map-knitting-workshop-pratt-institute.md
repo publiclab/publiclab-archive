@@ -1,5 +1,5 @@
 ---
-title: DIY Aerial Imaging + Map Knitting workshop at Pratt Institute
+title: 'DIY Aerial Imaging + Map Knitting workshop at Pratt Institute'
 tagnames: balloon-mapping, event, prattinstitute, green-infrastructures, pspd, pratt, replication:14022
 author: Pratt_GI
 path: /notes/prattgi/11-15-2012/diy-aerial-imaging-map-knitting-workshop-pratt-institute.md

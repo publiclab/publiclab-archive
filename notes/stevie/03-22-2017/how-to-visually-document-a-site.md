@@ -1,5 +1,5 @@
 ---
-title: How to visually document a site
+title: 'How to visually document a site'
 tagnames: wetlands, organizing, stormwater, getting-started, seeks:replications, activity:timelapse, activity:photo-monitoring, activity:stormwater, site-survey, activity:site-survey, activity:wetlands, activity:organizing, where-to-map
 author: stevie
 path: /notes/stevie/03-22-2017/how-to-visually-document-a-site.md

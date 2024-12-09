@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of bee leg stitch test
+title: 'MapKnitter map of bee leg stitch test'
 tagnames: mapknitter, image-stitching, stitch, microscopy, activity:microscope, activity:community-microscope, lat:37.09024, lon:-95.712891, activity:mapknitter
 author: MaggPi
 path: /notes/MaggPi/02-05-2019/mapknitter-map-of-bee-leg-stitch-test.md

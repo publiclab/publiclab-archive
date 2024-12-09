@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of 10,000 Suns in Providence
+title: 'MapKnitter map of 10,000 Suns in Providence'
 tagnames: providence, mapknitter, lat:41.8193634, lon:-71.4023211, 10000-suns, sunflowers
 author: warren
 path: /notes/warren/07-25-2018/mapknitter-map-of-10-000-suns-in-providence.md

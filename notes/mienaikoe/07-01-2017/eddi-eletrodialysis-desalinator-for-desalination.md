@@ -1,5 +1,5 @@
 ---
-title: EDDI - Eletrodialysis Desalinator for Desalination
+title: 'EDDI - Eletrodialysis Desalinator for Desalination'
 tagnames: water-quality, water, desalination
 author: mienaikoe
 path: /notes/mienaikoe/07-01-2017/eddi-eletrodialysis-desalinator-for-desalination.md

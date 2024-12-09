@@ -1,5 +1,5 @@
 ---
-title: MobiusActionCam vs S100
+title: 'MobiusActionCam vs S100'
 tagnames: infra-red, question:infragram, hardware, question:infrared, question:multispectral-imaging, first-time-poster
 author: ashwinvasudevan
 path: /notes/ashwinvasudevan/10-12-2016/mobiusactioncam-vs-s100.md

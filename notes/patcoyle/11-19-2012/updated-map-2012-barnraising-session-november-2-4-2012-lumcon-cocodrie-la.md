@@ -1,5 +1,5 @@
 ---
-title: updated map from 2012 Barnraising session November 2-4, 2012 at LUMCON, Cocodrie, LA
+title: 'updated map from 2012 Barnraising session November 2-4, 2012 at LUMCON, Cocodrie, LA'
 tagnames: plots, barnraising2012, lumcon, publiclaboratory, cocodrie-la
 author: patcoyle
 path: /notes/patcoyle/11-19-2012/updated-map-2012-barnraising-session-november-2-4-2012-lumcon-cocodrie-la.md

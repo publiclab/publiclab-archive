@@ -1,5 +1,5 @@
 ---
-title:  GUI code for connecting your computer to your microcontroller.
+title: ' GUI code for connecting your computer to your microcontroller.'
 tagnames: processing, datalogger, interface, microcontroller, graphic, user, graphic-user-interface, response:11822
 author: JSummers
 path: /notes/JSummers/01-01-2016/gui-code-for-connecting-your-computer-to-your-microcontroller.md

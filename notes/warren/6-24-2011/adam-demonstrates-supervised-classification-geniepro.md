@@ -1,5 +1,5 @@
 ---
-title: Adam demonstrates supervised classification with GeniePro
+title: 'Adam demonstrates supervised classification with GeniePro'
 tagnames: classification, geniepro
 author: warren
 path: /notes/warren/6-24-2011/adam-demonstrates-supervised-classification-geniepro.md

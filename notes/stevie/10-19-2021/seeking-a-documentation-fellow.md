@@ -1,5 +1,5 @@
 ---
-title: Seeking a Documentation Fellow
+title: 'Seeking a Documentation Fellow'
 tagnames: documentation, air-quality, jobs, fellows, fellowship, job, fellowship-team, careers, st-james, with:travislondon, formosaplastics
 author: stevie
 path: /notes/stevie/10-19-2021/seeking-a-documentation-fellow.md

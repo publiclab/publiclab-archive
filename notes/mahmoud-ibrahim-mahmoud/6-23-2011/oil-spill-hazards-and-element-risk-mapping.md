@@ -1,5 +1,5 @@
 ---
-title: Oil spill hazards and element at risk mapping
+title: 'Oil spill hazards and element at risk mapping'
 tagnames: 
 author: Mahmoud Ibrahim Mahmoud
 path: /notes/mahmoud-ibrahim-mahmoud/6-23-2011/oil-spill-hazards-and-element-risk-mapping.md

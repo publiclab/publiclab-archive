@@ -1,5 +1,5 @@
 ---
-title: Minnesota General Public Comment
+title: 'Minnesota General Public Comment'
 tagnames: minnesota, public-comment, environmental-policy, zoom:6, lat:46, mn-land-manoomin-protection, lon:-94
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/01-24-2023/minnesota-general-public-comment.md

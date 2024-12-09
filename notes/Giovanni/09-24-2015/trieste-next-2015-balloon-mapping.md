@@ -1,5 +1,5 @@
 ---
-title: Trieste Next 2015 - Balloon Mapping
+title: 'Trieste Next 2015 - Balloon Mapping'
 tagnames: balloon-mapping, italy, trieste
 author: Giovanni
 path: /notes/Giovanni/09-24-2015/trieste-next-2015-balloon-mapping.md

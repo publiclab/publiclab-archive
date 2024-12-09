@@ -1,5 +1,5 @@
 ---
-title: Excellent photographers handbook design by LIFE magazine
+title: 'Excellent photographers handbook design by LIFE magazine'
 tagnames: guides, design, instructions, steps, onboarding, accessibility, booklets
 author: warren
 path: /notes/warren/05-03-2016/excellent-photographers-handbook-design-by-life-magazine.md

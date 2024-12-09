@@ -1,5 +1,5 @@
 ---
-title: Can plastic trawls be used in rivers?
+title: 'Can plastic trawls be used in rivers?'
 tagnames: rivers, micro-plastics, question:microplastics, microplastics, plastics, question:plastics, question:babylegs, question:trawls, trawls, babylegs
 author: warren
 path: /notes/warren/07-11-2018/can-plastic-trawls-be-used-in-rivers.md

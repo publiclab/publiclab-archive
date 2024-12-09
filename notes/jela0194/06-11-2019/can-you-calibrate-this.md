@@ -1,5 +1,5 @@
 ---
-title: Can you calibrate this?
+title: 'Can you calibrate this?'
 tagnames: question:spectral-workbench, first-time-poster
 author: jela0194
 path: /notes/jela0194/06-11-2019/can-you-calibrate-this.md

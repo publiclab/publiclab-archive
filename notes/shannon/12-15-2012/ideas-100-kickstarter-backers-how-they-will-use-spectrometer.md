@@ -1,5 +1,5 @@
 ---
-title: Ideas from the $100 Kickstarter backers on how they will use the spectrometer
+title: 'Ideas from the $100 Kickstarter backers on how they will use the spectrometer'
 tagnames: spectrometer, fold-up-mini-spectrometer, desktop-spectrometer
 author: Shannon
 path: /notes/shannon/12-15-2012/ideas-100-kickstarter-backers-how-they-will-use-spectrometer.md

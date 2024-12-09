@@ -1,5 +1,5 @@
 ---
-title: Barataria 2014:  VI June 12th
+title: 'Barataria 2014:  VI June 12th'
 tagnames: gulf-coast, balloon-mapping, barataria-bay, wetlands, louisiana, wetland, barataria, bp, patagonia, response:10336, place:barataria-bay, lat:29.45604, lon:-89.845504
 author: eustatic
 path: /06-13-2014/barataria-2014-vii-june-12th.md

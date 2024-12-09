@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Kickstarter script
+title: 'Spectrometer Kickstarter script'
 tagnames: spectrometer, kickstarter
 author: warren
 path: /notes/warren/8-1-2012/spectrometer-kickstarter-script.md

@@ -1,5 +1,5 @@
 ---
-title: CHDK usb remote shutter Digispark sketch
+title: 'CHDK usb remote shutter Digispark sketch'
 tagnames: near-infrared-camera, triggering, chdk, camera-triggering
 author: patcoyle
 path: /notes/patcoyle/1-30-2013/chdk-usb-remote-shutter-digispark-sketch.md

@@ -1,5 +1,5 @@
 ---
-title: DIY Touchtable with Wii Remote
+title: 'DIY Touchtable with Wii Remote'
 tagnames: urban-planning, touchtable
 author: PlaceMatters
 path: /notes/placematters/5-5-2011/diy-touchtable-wii-remote.md

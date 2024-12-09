@@ -1,5 +1,5 @@
 ---
-title: Kickstarter Credits
+title: 'Kickstarter Credits'
 tagnames: 
 author: warren
 path: /wiki/kickstarter-credits.md

@@ -1,5 +1,5 @@
 ---
-title: How to Connect an ORP Sensor to the Simple Water Sensor Platform
+title: 'How to Connect an ORP Sensor to the Simple Water Sensor Platform'
 tagnames: arduino, sensors, water-quality, new, orp, water-sensors, activity:water-sensors, activity:new, dfrobot, oil-and-gas-water-trio, oil-and-gas-water-quality, activity:oil-and-gas-water-quality, simple-water-sensor-platform, activity:simple-water-sensor-platform
 author: wmacfarl
 path: /notes/wmacfarl/01-11-2020/how-to-connect-an-orp-sensor-to-the-simple-water-sensor-platform.md

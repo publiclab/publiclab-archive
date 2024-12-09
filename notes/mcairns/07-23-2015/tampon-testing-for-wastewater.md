@@ -1,5 +1,5 @@
 ---
-title: Tampon Testing for Wastewater
+title: 'Tampon Testing for Wastewater'
 tagnames: testing, northeastern, pollution, tampon, wastewater, university, wastewater-optical-brighteners
 author: mcairns
 path: /notes/mcairns/07-23-2015/tampon-testing-for-wastewater.md

@@ -1,5 +1,5 @@
 ---
-title: Seeking an Air Research Curation Fellow
+title: 'Seeking an Air Research Curation Fellow'
 tagnames: air-quality, jobs, pm, fellows, indoor-air-quality, fellowship, odor, particulate-matter, fellow, research-curation-fellows
 author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-an-air-research-curation-fellow.md

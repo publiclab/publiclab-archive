@@ -1,5 +1,5 @@
 ---
-title: Understanding the spectrum
+title: 'Understanding the spectrum'
 tagnames: 
 author: minot
 path: /notes/minot/12-13-2012/understanding-spectrum.md

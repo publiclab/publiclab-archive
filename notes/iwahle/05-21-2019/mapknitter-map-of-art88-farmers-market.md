@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of art88 farmers market
+title: 'MapKnitter map of art88 farmers market'
 tagnames: mapknitter, first-time-poster, lat:34.161908, lon:-118.091145
 author: iwahle
 path: /notes/iwahle/05-21-2019/mapknitter-map-of-art88-farmers-market.md

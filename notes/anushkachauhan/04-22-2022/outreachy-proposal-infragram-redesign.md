@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Infragram Redesign
+title: 'Outreachy proposal: Infragram Redesign'
 tagnames: software, outreachy, first-time-poster, zoom:6, outreachy-2022, outreachy-summer-2022, lat:21.145992, lon:79.079589
 author: anushkachauhan
 path: /notes/anushkachauhan/04-22-2022/outreachy-proposal-infragram-redesign.md

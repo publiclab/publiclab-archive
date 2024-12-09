@@ -1,5 +1,5 @@
 ---
-title: Preparing to map thermal pollution
+title: 'Preparing to map thermal pollution'
 tagnames: thermal-photography, tac, thermal-imaging, flir, thermal-pollution
 author: clairebwmiller
 path: /notes/clairebwmiller/02-04-2014/preparing-to-map-thermal-pollution.md

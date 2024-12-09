@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal:Editor repair and fortification
+title: 'GSoC Proposal:Editor repair and fortification'
 tagnames: markdown, first-time-poster, soc-2020, soc-2020-proposals
 author: keshavgarg234156
 path: /notes/keshavgarg234156/03-06-2020/gsoc-proposal-editor-repair-and-fortification.md

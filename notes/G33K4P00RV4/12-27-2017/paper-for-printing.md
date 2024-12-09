@@ -1,5 +1,5 @@
 ---
-title: Paper for printing
+title: 'Paper for printing'
 tagnames: paper, answered, question:foldable-spec, spectrometry-turbidity, cardstock
 author: G33K4P00RV4
 path: /notes/G33K4P00RV4/12-27-2017/paper-for-printing.md

@@ -1,5 +1,5 @@
 ---
-title: Separating power tags from normal tags
+title: 'Separating power tags from normal tags'
 tagnames: code, powertags
 author: gaeunkim
 path: /notes/gaeunkim/01-06-2017/separating-power-tags-from-normal-tags.md

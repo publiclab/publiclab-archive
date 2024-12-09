@@ -1,5 +1,5 @@
 ---
-title: WheeStat potentiostat "sold out" in Public Lab store, how can I learn more about this tool?
+title: 'WheeStat potentiostat "sold out" in Public Lab store, how can I learn more about this tool?'
 tagnames: kits, potentiostat, cheapstat, tool, wheestat, manual, question:general, general, chemicals, question:wheestat
 author: amocorro
 path: /notes/amocorro/05-26-2021/wheestat-potentiostat-sold-out-in-public-lab-store-how-can-i-learn-more-about-this-unit.md

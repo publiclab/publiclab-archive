@@ -1,5 +1,5 @@
 ---
-title: Random Bits: Atmel Low Power Libraries & RTC wakeup
+title: 'Random Bits: Atmel Low Power Libraries & RTC wakeup'
 tagnames: riffle, low-power
 author: donblair
 path: /notes/donblair/12-02-2015/random-bits-atmel-low-power-libraries-rtc-wakeup.md

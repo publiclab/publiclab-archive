@@ -1,5 +1,5 @@
 ---
-title: Make or buy a balloon mapping kit
+title: 'Make or buy a balloon mapping kit'
 tagnames: category:build, status:complete, activity:balloon-mapping, activity:bourjalshamali, pin:activity:balloon-mapping, pin:balloon-mapping
 author: liz
 path: /notes/liz/03-01-2017/make-or-buy-public-lab-s-balloon-mapping-kit.md

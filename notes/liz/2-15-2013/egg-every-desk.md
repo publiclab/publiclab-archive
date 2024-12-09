@@ -1,5 +1,5 @@
 ---
-title: An egg on every desk
+title: 'An egg on every desk'
 tagnames: new-york-city, cypress-hills, chaq
 author: liz
 path: /notes/liz/2-15-2013/egg-every-desk.md

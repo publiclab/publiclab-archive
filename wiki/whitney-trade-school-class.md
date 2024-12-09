@@ -1,5 +1,5 @@
 ---
-title: Whitney Trade School Class
+title: 'Whitney Trade School Class'
 tagnames: education
 author: warren
 path: /wiki/whitney-trade-school-class.md

@@ -1,5 +1,5 @@
 ---
-title: photo-monitoring-plugin
+title: 'photo-monitoring-plugin'
 tagnames: near-infrared-camera, ndvi, imagej, infragram, infrablue, fiji, photo-monitoring-plugin, parent:multispectral-imaging
 author: warren
 path: /wiki/photo-monitoring-plugin.md

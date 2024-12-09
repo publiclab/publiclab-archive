@@ -1,5 +1,5 @@
 ---
-title: First Infragram cam trials - Primeros ensayos con cámaras Infragram
+title: 'First Infragram cam trials - Primeros ensayos con cámaras Infragram'
 tagnames: infragram, camera, focus, sensation, gimp, question:infragram, filters, htc, sony, dsc, p41, vstarcam, t7837wip, ip, autofocus, negative, film, exposed
 author: ivalethia
 path: /notes/ivalethia/09-20-2014/first-infragram-cam-trials-primeros-ensayos-con-camaras-infragram.md

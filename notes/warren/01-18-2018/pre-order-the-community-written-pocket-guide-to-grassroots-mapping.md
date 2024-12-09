@@ -1,5 +1,5 @@
 ---
-title: Pre-order the community written Pocket Guide to Grassroots Mapping
+title: 'Pre-order the community written Pocket Guide to Grassroots Mapping'
 tagnames: balloon-mapping, kite-mapping, guides, kits, aerial-photography, grassroots-mapping, how-to, aerial-mapping, booklet
 author: warren
 path: /notes/warren/01-18-2018/pre-order-the-community-written-pocket-guide-to-grassroots-mapping.md

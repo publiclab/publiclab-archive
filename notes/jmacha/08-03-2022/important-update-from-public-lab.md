@@ -1,5 +1,5 @@
 ---
-title: Important Update from Public Lab
+title: 'Important Update from Public Lab'
 tagnames: education, events, kits, spectralworkbench, barnraising, organizing, research, fundraising, web, blog, barnstar:basic, kits-initiative, parent:mapknitter, publiclab.org, kits-store, updates, funding
 author: jmacha
 path: /notes/jmacha/08-03-2022/important-update-from-public-lab.md

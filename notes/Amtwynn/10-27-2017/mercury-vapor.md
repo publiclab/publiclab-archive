@@ -1,5 +1,5 @@
 ---
-title: Mercury Vapor 
+title: 'Mercury Vapor '
 tagnames: spectrometer, spectrometry, mercury, hidden:response, foldable-spec, replication:15121
 author: Amtwynn
 path: /notes/Amtwynn/10-27-2017/mercury-vapor.md

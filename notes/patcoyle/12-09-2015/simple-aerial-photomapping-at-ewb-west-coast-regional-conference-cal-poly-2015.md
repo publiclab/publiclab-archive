@@ -1,5 +1,5 @@
 ---
-title: Simple Aerial Photomapping at EWB West Coast Regional Conference, Cal Poly, 2015
+title: 'Simple Aerial Photomapping at EWB West Coast Regional Conference, Cal Poly, 2015'
 tagnames: balloon-mapping, mylar, bap, blog, mobius-actioncam, ewb, barnstar:basic, mini-balloon-mapping
 author: patcoyle
 path: /notes/patcoyle/12-09-2015/simple-aerial-photomapping-at-ewb-west-coast-regional-conference-cal-poly-2015.md

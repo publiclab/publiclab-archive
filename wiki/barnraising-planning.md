@@ -1,5 +1,5 @@
 ---
-title: Barnraising Planning
+title: 'Barnraising Planning'
 tagnames: barnraising, list:plots-barnraising
 author: warren
 path: /wiki/barnraising-planning.md

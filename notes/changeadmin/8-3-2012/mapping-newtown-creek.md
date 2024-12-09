@@ -1,5 +1,5 @@
 ---
-title: Mapping Newtown Creek 
+title: 'Mapping Newtown Creek '
 tagnames: new-york-city, kite-mapping, newtown-creek, tributary
 author: ChangeAdmin
 path: /notes/changeadmin/8-3-2012/mapping-newtown-creek.md

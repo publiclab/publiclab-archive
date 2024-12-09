@@ -1,5 +1,5 @@
 ---
-title: Washington University visits the Gulf Coast and Maps! 
+title: 'Washington University visits the Gulf Coast and Maps! '
 tagnames: gulf-coast, balloon-mapping, great-photos, barnstar:photo-documentation, washustlouis, washu-stlouis, urbanwaters
 author: stevie
 path: /notes/stevie/09-12-2014/washington-university-visits-the-gulf-coast-and-maps.md

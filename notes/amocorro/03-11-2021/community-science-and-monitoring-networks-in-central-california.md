@@ -1,5 +1,5 @@
 ---
-title: Community Science and Monitoring Networks in Central California
+title: 'Community Science and Monitoring Networks in Central California'
 tagnames: california, interview, reporting, air-quality, blog, global-community-monitor, ccejn, san_joaquin_valley, advocacy, environmental-justice, blog-submission, oil-and-gas, community-organizing, zoom:6, covid-19, bucket-monitor, youth-organizing, lat:35.493727, lon:-118.85968, monitoring-network, community-health
 author: amocorro
 path: /notes/amocorro/03-11-2021/community-science-and-monitoring-networks-in-central-california.md

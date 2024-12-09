@@ -1,5 +1,5 @@
 ---
-title: Slowing Sensor Journalism
+title: 'Slowing Sensor Journalism'
 tagnames: sensor-journalism, response:12748, hidden:response
 author: michalnon
 path: /notes/michalnon/02-24-2016/slowing-sensor-journalism.md

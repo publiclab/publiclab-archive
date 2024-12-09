@@ -1,5 +1,5 @@
 ---
-title: Wiki Templates 
+title: 'Wiki Templates '
 tagnames: issue, templates, template, parent:website
 author: stevie
 path: /wiki/wiki-templates.md

@@ -1,5 +1,5 @@
 ---
-title: Canon A1200 IR conversion at November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON 
+title: 'Canon A1200 IR conversion at November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON '
 tagnames: near-infrared-camera, infrared, conversion, barnraising, a1200, infragram-conversion, activity:infrared-camera-conversion
 author: patcoyle
 path: /notes/patcoyle/11-6-2012/canon-a1200-ir-conversion-november-2-4-2012-plots-barnraising-cocodrie-la-l.md

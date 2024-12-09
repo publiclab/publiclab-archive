@@ -1,5 +1,5 @@
 ---
-title: iFarm quad flight
+title: 'iFarm quad flight'
 tagnames: new-hampshire, farmhack, uav, farm, aerial-photography, infragram, ifarm, northeast, mobius, uas, ifarm2014, response:10503, multirotor
 author: cfastie
 path: /notes/cfastie/05-25-2014/ifarm-quad-flight.md

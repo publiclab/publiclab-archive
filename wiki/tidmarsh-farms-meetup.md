@@ -1,5 +1,5 @@
 ---
-title: Tidmarsh Farms meetup
+title: 'Tidmarsh Farms meetup'
 tagnames: balloon-mapping, boston, meetup, event, somerville, massachusetts, tidmarsh
 author: warren
 path: /wiki/tidmarsh-farms-meetup.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of St Matthews Satellite Imagery 
+title: 'MapKnitter map of St Matthews Satellite Imagery '
 tagnames: mapknitter, lat:34.0539038849, lon:-118.5403883457, first-time-poster
 author: natdep
 path: /notes/natdep/11-10-2015/mapknitter-map-of-st-matthews-satellite-imagery.md

@@ -1,5 +1,5 @@
 ---
-title: Scenes from a LEAFFEST
+title: 'Scenes from a LEAFFEST'
 tagnames: vermont, leaffest, leaffest2017
 author: cfastie
 path: /notes/cfastie/10-06-2017/scenes-from-a-leaffest.md

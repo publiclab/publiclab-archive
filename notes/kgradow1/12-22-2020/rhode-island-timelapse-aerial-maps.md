@@ -1,5 +1,5 @@
 ---
-title: Rhode Island Timelapse 
+title: 'Rhode Island Timelapse '
 tagnames: providence, balloon-mapping, aerial-photography, timelapse, development, rhode-island, northeast, lon:-71, lat:42, zoom:6
 author: kgradow1
 path: /notes/kgradow1/12-22-2020/rhode-island-timelapse-aerial-maps.md

@@ -1,5 +1,5 @@
 ---
-title: Final posts for Google Summer of Code
+title: 'Final posts for Google Summer of Code'
 tagnames: gsoc, google-summer-of-code, seeks:responses, gsoc-2017, soc, soc-2017
 author: liz
 path: /notes/liz/08-24-2017/final-posts-for-google-summer-of-code.md

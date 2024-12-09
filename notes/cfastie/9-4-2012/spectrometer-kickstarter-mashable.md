@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Kickstarter on Mashable
+title: 'Spectrometer Kickstarter on Mashable'
 tagnames: spectrometer, kickstarter, media
 author: cfastie
 path: /notes/cfastie/9-4-2012/spectrometer-kickstarter-mashable.md

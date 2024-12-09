@@ -1,5 +1,5 @@
 ---
-title: Voltage generation for conductivity sensor
+title: 'Voltage generation for conductivity sensor'
 tagnames: water-quality, conductivity, riffle, open-water, question:general
 author: roberts_ecofarm
 path: /notes/roberts_ecofarm/10-24-2018/voltage-generation-for-conductivity-sensor.md

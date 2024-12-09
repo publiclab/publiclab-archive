@@ -1,5 +1,5 @@
 ---
-title: waterquality
+title: 'waterquality'
 tagnames: redirect:9937
 author: liz
 path: /wiki/waterquality.md

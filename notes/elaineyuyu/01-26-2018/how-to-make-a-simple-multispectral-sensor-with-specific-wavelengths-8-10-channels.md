@@ -1,5 +1,5 @@
 ---
-title: How to make a simple multispectral sensor with specific wavelengths (8-10 channels)?
+title: 'How to make a simple multispectral sensor with specific wavelengths (8-10 channels)?'
 tagnames: infragram, hyperspectral, food-fraud, infragram-point-shoot, food-quality, parent:multispectral-imaging, question:general
 author: elaineyuyu
 path: /notes/elaineyuyu/01-26-2018/how-to-make-a-simple-multispectral-sensor-with-specific-wavelengths-8-10-channels.md

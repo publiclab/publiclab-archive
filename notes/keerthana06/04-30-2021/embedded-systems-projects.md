@@ -1,5 +1,5 @@
 ---
-title: Embedded Systems Projects
+title: 'Embedded Systems Projects'
 tagnames: first-time-poster
 author: keerthana06
 path: /notes/keerthana06/04-30-2021/embedded-systems-projects.md

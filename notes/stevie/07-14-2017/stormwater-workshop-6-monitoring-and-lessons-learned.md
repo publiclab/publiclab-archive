@@ -1,5 +1,5 @@
 ---
-title: Stormwater Workshop 6: Monitoring and Lessons Learned
+title: 'Stormwater Workshop 6: Monitoring and Lessons Learned'
 tagnames: gulf-coast, louisiana, time-lapse, photo-monitoring, timelapse, new-orleans, stormwater, story:timelapse, story:stormwater
 author: stevie
 path: /notes/stevie/07-14-2017/stormwater-workshop-6-monitoring-and-lessons-learned.md

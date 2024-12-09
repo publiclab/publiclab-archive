@@ -1,5 +1,5 @@
 ---
-title: beit-safafa embedding annotation screen in facebook for followers to comment on map
+title: 'beit-safafa embedding annotation screen in facebook for followers to comment on map'
 tagnames: mapknitter, beit-safafa, annotation
 author: hagitkeysar
 path: /notes/hagitkeysar/06-17-2013/beit-safafa-embedding-annotation-screen-in-facebook-for-followers-to-comment-on-map.md

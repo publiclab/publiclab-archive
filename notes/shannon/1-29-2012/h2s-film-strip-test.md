@@ -1,5 +1,5 @@
 ---
-title: H2S film strip recommendations
+title: 'H2S film strip recommendations'
 tagnames: 
 author: Shannon
 path: /notes/shannon/1-29-2012/h2s-film-strip-test.md

@@ -1,5 +1,5 @@
 ---
-title: Orangetown Aluf
+title: 'Orangetown Aluf'
 tagnames: air-quality, odor, project, plastics, air-quality-projects, platstic
 author: stevie
 path: /wiki/orangetown-aluf.md

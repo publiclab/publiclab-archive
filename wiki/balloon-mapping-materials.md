@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping Materials
+title: 'Balloon Mapping Materials'
 tagnames: balloon-mapping, materials, bom, parent:balloon-mapping, tagtest
 author: warren
 path: /wiki/balloon-mapping-materials.md

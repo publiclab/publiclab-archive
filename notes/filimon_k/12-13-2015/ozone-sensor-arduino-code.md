@@ -1,5 +1,5 @@
 ---
-title: Ozone sensor arduino code
+title: 'Ozone sensor arduino code'
 tagnames: response:12506
 author: filimon_k
 path: /notes/filimon_k/12-13-2015/ozone-sensor-arduino-code.md

@@ -1,5 +1,5 @@
 ---
-title: Riffle campout
+title: 'Riffle campout'
 tagnames: arduino, temperature, sensors, water-quality, riffle, noise, micro-sd, response:13128, category:test-limits, data-logging, activity:riffle, riffle-examples, activity:data-logging
 author: cfastie
 path: /notes/cfastie/05-27-2016/riffle-campout.md

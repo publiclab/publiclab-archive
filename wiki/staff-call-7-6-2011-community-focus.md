@@ -1,5 +1,5 @@
 ---
-title: Staff Call 7 6 2011: Community Focus
+title: 'Staff Call 7 6 2011: Community Focus'
 tagnames: 
 author: warren
 path: /wiki/staff-call-7-6-2011-community-focus.md

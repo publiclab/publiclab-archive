@@ -1,5 +1,5 @@
 ---
-title: Preliminary LED and isopropyl alcohol solvent tests for oil fluorescence analysis
+title: 'Preliminary LED and isopropyl alcohol solvent tests for oil fluorescence analysis'
 tagnames: new-york-city, spectrometer, oil, workshop, extraction, oil-testing-kit, otk, pig, isopropyl, response:12713, response:10074, activity:spectrometry-sampling
 author: warren
 path: /notes/warren/02-19-2016/preliminary-led-and-isopropyl-alcohol-solvent-tests-for-oil-fluorescence-analysis.md

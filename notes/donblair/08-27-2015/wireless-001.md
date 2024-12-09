@@ -1,5 +1,5 @@
 ---
-title: Wireless 001
+title: 'Wireless 001'
 tagnames: wireless, open-water, radio
 author: donblair
 path: /notes/donblair/08-27-2015/wireless-001.md

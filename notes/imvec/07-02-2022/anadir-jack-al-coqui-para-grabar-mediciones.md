@@ -1,5 +1,5 @@
 ---
-title: Añadir clavija al sensor Coqui para grabar las mediciones
+title: 'Añadir clavija al sensor Coqui para grabar las mediciones'
 tagnames: water-quality, water-quality-sensor, conductivity, lang:es, coqui, activity:coqui, with:xose, water-conductivity, agua, calidad-de-agua, conductividad
 author: imvec
 path: /notes/imvec/07-02-2022/anadir-jack-al-coqui-para-grabar-mediciones.md

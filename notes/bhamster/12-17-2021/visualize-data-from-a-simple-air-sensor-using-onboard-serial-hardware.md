@@ -1,5 +1,5 @@
 ---
-title: Visualize data from a Simple Air Sensor using onboard serial hardware
+title: 'Visualize data from a Simple Air Sensor using onboard serial hardware'
 tagnames: arduino, air-quality, activity:air-quality, data-visualization, simple-air-sensor, activity:simple-air-sensor, presenting-data, activity:presenting-data, air-quality-data, activity:air-quality-data, activity:data-visualization, simple-air-sensor-data
 author: bhamster
 path: /notes/bhamster/12-17-2021/visualize-data-from-a-simple-air-sensor-using-onboard-serial-hardware.md

@@ -1,5 +1,5 @@
 ---
-title: Interview: Nayamin Martinez and Gustavo Aguirre Jr.
+title: 'Interview: Nayamin Martinez and Gustavo Aguirre Jr.'
 tagnames: california, interview, blog, ccejn, san_joaquin_valley, val-verde, community-organizing, interview-series, central-valley, ca, regional-barnraising, series:community-interviews
 author: stevie
 path: /notes/stevie/08-30-2017/interview-nayamin-martinez-and-gustavo-aguirre-jr.md

@@ -1,5 +1,5 @@
 ---
-title: light proof changing bag...
+title: 'light proof changing bag...'
 tagnames: 
 author: mara
 path: /notes/mara/12-1-2011/light-proof-changing-bag.md

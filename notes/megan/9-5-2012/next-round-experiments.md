@@ -1,5 +1,5 @@
 ---
-title: Next Round of Experiments
+title: 'Next Round of Experiments'
 tagnames: hydrogen-sulfide-sensing, new-mexico, h2s
 author: megan
 path: /notes/megan/9-5-2012/next-round-experiments.md

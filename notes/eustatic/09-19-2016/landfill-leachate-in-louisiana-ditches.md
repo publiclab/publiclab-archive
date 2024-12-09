@@ -1,5 +1,5 @@
 ---
-title: Landfill leachate in Louisiana ditches?
+title: 'Landfill leachate in Louisiana ditches?'
 tagnames: gulf-coast, spectrometer, event, barnstar:watchdog, event:gulf-goast, event:gulf-coast
 author: eustatic
 path: /09-19-2016/landfill-leachate-in-louisiana-ditches.md

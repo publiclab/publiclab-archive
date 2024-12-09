@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (100 Fountain Street)
+title: 'Art in Ruins (100 Fountain Street)'
 tagnames: hidden:response, zoom:16, unearthing-pvd-stories, lat:41.82359166, lon:-71.4157894, lat:41.823591, lon:-71.415789, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/art-in-ruins-100-fountain-street.md

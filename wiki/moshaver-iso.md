@@ -1,5 +1,5 @@
 ---
-title: moshaver iso
+title: 'moshaver iso'
 tagnames: first-time-poster
 author: aryan
 path: /wiki/moshaver-iso.md

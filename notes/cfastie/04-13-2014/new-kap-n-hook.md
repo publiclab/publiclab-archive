@@ -1,5 +1,5 @@
 ---
-title: New KAP'n Hook
+title: 'New KAP'n Hook'
 tagnames: balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, response:10244
 author: cfastie
 path: /notes/cfastie/04-13-2014/new-kap-n-hook.md

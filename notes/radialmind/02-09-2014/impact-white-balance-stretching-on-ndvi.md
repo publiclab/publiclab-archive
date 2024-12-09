@@ -1,5 +1,5 @@
 ---
-title: Impact white balance & stretching on NDVI
+title: 'Impact white balance & stretching on NDVI'
 tagnames: near-infrared-camera, ndvi, infragram
 author: radialmind
 path: /notes/radialmind/02-09-2014/impact-white-balance-stretching-on-ndvi.md

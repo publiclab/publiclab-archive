@@ -1,5 +1,5 @@
 ---
-title: New Orleans Water Quality Meet-up
+title: 'New Orleans Water Quality Meet-up'
 tagnames: gulf-coast, event, water-quality, water, event:rsvp, rsvp:stevie, rsvp:geraldmc, coqui, urbanwaters, waterquality, date:01-24-2015, rsvp:gracecagle, rsvp:eustatic
 author: stevie
 path: /notes/stevie/01-08-2015/new-orleans-water-quality-meet-up.md

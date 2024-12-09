@@ -1,5 +1,5 @@
 ---
-title: microscope-photos
+title: 'microscope-photos'
 tagnames: communityscience, communitymicroscope
 author: liz
 path: /wiki/microscope-photos.md

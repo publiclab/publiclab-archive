@@ -1,5 +1,5 @@
 ---
-title: Use 3-D glasses to modify a camera for infrared
+title: 'Use 3-D glasses to modify a camera for infrared'
 tagnames: ndvi, multispectral, drones, infrared, infragram, eu, with, multispectral-imaging, uavs, sport-camera, first-time-poster, zoom:6, replication:13742, lat:52.635238, lon:4.725145
 author: umberto_rootman
 path: /notes/umberto_rootman/05-17-2020/cheap-sports-cam-mod.md

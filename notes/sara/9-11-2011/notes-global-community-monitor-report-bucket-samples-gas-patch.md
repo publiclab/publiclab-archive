@@ -1,5 +1,5 @@
 ---
-title: Notes on Global Community Monitor Report on Bucket samples from Gas Patch
+title: 'Notes on Global Community Monitor Report on Bucket samples from Gas Patch'
 tagnames: new-mexico, colorado, hydrogen-sulfide, h2s, benzene, acrylonitrile, ethylbenzene, xylene, gcm, bucket-brigade, global-community-monitor, mountain-west, bucket, bucket-monitor, methylene-chloride, wellwatch, san-juan-citizens-alliance, western-colorado-congress
 author: sara
 path: /notes/sara/9-11-2011/notes-global-community-monitor-report-bucket-samples-gas-patch.md

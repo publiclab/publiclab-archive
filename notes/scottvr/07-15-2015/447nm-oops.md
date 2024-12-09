@@ -1,5 +1,5 @@
 ---
-title: 447nm Oops!
+title: '447nm Oops!'
 tagnames: spectrometer, laser, 447nm, oops
 author: scottvr
 path: /notes/scottvr/07-15-2015/447nm-oops.md

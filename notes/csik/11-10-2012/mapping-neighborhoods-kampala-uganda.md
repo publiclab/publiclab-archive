@@ -1,5 +1,5 @@
 ---
-title: Mapping neighborhoods in Kampala, Uganda
+title: 'Mapping neighborhoods in Kampala, Uganda'
 tagnames: uganda, kampala, art-center, unicef, youth, africa, land-use
 author: csik
 path: /notes/csik/11-10-2012/mapping-neighborhoods-kampala-uganda.md

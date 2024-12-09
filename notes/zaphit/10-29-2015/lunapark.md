@@ -1,5 +1,5 @@
 ---
-title: LunaPark
+title: 'LunaPark'
 tagnames: mapknitter, lat:40.5736224589, lon:-73.9798441529
 author: zaphit
 path: /notes/zaphit/10-29-2015/lunapark.md

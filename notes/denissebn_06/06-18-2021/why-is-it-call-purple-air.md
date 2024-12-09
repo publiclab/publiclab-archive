@@ -1,5 +1,5 @@
 ---
-title: Why is it call Purple air?
+title: 'Why is it call Purple air?'
 tagnames: air, air-monitoring, question:general, general, purpleair, purple-air, question:air
 author: denissebn_06
 path: /notes/denissebn_06/06-18-2021/why-is-it-call-purple-air.md

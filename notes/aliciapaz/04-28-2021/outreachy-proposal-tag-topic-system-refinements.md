@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Tag/topic system refinements
+title: 'Outreachy proposal: Tag/topic system refinements'
 tagnames: software, outreachy, first-time-poster, outreachy-summer-2021, outreachy-2021, ofuses
 author: aliciapaz
 path: /notes/aliciapaz/04-28-2021/outreachy-proposal-tag-topic-system-refinements.md

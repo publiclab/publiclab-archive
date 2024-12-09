@@ -1,5 +1,5 @@
 ---
-title: Has anyone made a grating eyepiece for a telescope to look at star spectra?
+title: 'Has anyone made a grating eyepiece for a telescope to look at star spectra?'
 tagnames: question:general, general, first-time-poster
 author: mamartynyshyn
 path: /notes/mamartynyshyn/02-13-2021/has-anyone-made-a-grating-eyepiece-for-a-telescope-to-look-at-star-spectra.md

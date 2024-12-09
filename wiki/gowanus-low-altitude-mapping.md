@@ -1,5 +1,5 @@
 ---
-title: Gowanus Low Altitude Mapping
+title: 'Gowanus Low Altitude Mapping'
 tagnames: new-york-city, gowanus, glam, redirect:8980
 author: liz
 path: /wiki/gowanus-low-altitude-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: Water: Common Permit Violations
+title: 'Water: Common Permit Violations'
 tagnames: coal-mining, mountaintop-removal, water-quality, advocacy, permit-violation, with:junior_walk1337, mmmp, with:jfreemanfilm, reclamation
 author: ekpeterman
 path: /notes/ekpeterman/01-20-2022/common-permit-violations-water.md

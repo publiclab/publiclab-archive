@@ -1,5 +1,5 @@
 ---
-title: spectrometer-media
+title: 'spectrometer-media'
 tagnames: spectrometer, media, photos
 author: warren
 path: /wiki/spectrometer-media.md

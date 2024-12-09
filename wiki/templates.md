@@ -1,5 +1,5 @@
 ---
-title: templates
+title: 'templates'
 tagnames: redirect:15049
 author: warren
 path: /wiki/templates.md

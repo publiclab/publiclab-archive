@@ -1,5 +1,5 @@
 ---
-title: Thermal flashlight REVA -- mostly built!
+title: 'Thermal flashlight REVA -- mostly built!'
 tagnames: thermal-photography, arduino, thermal-flashlight, thermal-fishing, thermal-fishing-bob, pcb, response:9980
 author: donblair
 path: /notes/donblair/02-28-2014/thermal-flashlight-reva-mostly-built.md

@@ -1,5 +1,5 @@
 ---
-title: Find out what is planned for your state! 
+title: 'Find out what is planned for your state! '
 tagnames: database, permits, zoom:6, with:username, lat:30.984297, lon:-91.962332, with:travislondon, formosaplastics
 author: awoolverton1
 path: /notes/awoolverton1/04-07-2022/find-out-what-is-planned-for-your-state.md

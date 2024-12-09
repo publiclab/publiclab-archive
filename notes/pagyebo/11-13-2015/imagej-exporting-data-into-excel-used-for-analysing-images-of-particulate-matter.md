@@ -1,5 +1,5 @@
 ---
-title: ImageJ exporting data into Excel:  Used for Analysing Images of particulate matter
+title: 'ImageJ exporting data into Excel:  Used for Analysing Images of particulate matter'
 tagnames: chicago, barnstar:basic, midwest, passive-pm, data-management
 author: pagyebo
 path: /notes/pagyebo/11-13-2015/imagej-exporting-data-into-excel-used-for-analysing-images-of-particulate-matter.md

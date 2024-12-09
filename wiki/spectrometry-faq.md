@@ -1,5 +1,5 @@
 ---
-title: Spectrometry FAQ
+title: 'Spectrometry FAQ'
 tagnames: spectrometer
 author: warren
 path: /wiki/spectrometry-faq.md

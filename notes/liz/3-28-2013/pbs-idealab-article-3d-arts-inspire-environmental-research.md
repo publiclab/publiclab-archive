@@ -1,5 +1,5 @@
 ---
-title: PBS IdeaLab article 3d arts inspire environmental research
+title: 'PBS IdeaLab article 3d arts inspire environmental research'
 tagnames: ilab, pbs
 author: liz
 path: /notes/liz/3-28-2013/pbs-idealab-article-3d-arts-inspire-environmental-research.md

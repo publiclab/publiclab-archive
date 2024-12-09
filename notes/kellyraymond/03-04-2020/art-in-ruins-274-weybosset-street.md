@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (274 Weybosset Street)
+title: 'Art in Ruins (274 Weybosset Street)'
 tagnames: hidden:response, lat:41.7, lat:41.820455, lon:-71.5, zoom:10, lon:-71.413879, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-274-weybosset-street.md

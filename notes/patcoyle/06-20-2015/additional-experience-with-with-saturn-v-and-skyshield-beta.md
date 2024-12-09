@@ -1,5 +1,5 @@
 ---
-title: Additional experience with with Saturn V and SkyShield beta
+title: 'Additional experience with with Saturn V and SkyShield beta'
 tagnames: chdk, delta, kap, autokap, kap-rigs, kaptery, saturnv, skyshield
 author: patcoyle
 path: /notes/patcoyle/06-20-2015/additional-experience-with-with-saturn-v-and-skyshield-beta.md

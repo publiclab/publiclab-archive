@@ -1,5 +1,5 @@
 ---
-title: 3D Printed body for DIY Spectrometry Kit
+title: '3D Printed body for DIY Spectrometry Kit'
 tagnames: spectrometer, dsk, 3d-printing, instructables, response:10065
 author: RTegelbeckers
 path: /notes/RTegelbeckers/02-25-2014/3d-printed-body-for-diy-spectrometry-kit.md

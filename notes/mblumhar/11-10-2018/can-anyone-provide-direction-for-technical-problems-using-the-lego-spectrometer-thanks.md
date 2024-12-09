@@ -1,5 +1,5 @@
 ---
-title: Can anyone provide direction for technical problems using the lego spectrometer thanks
+title: 'Can anyone provide direction for technical problems using the lego spectrometer thanks'
 tagnames: question:general, first-time-poster
 author: mblumhar
 path: /notes/mblumhar/11-10-2018/can-anyone-provide-direction-for-technical-problems-using-the-lego-spectrometer-thanks.md

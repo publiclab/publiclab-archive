@@ -1,5 +1,5 @@
 ---
-title: Bayou Sauvage test #2 protocol
+title: 'Bayou Sauvage test #2 protocol'
 tagnames: hydrogen-sulfide-sensing
 author: Shannon
 path: /notes/shannon/8-2-2012/bayou-sauvage-test-2-protocol.md

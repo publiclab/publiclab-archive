@@ -1,5 +1,5 @@
 ---
-title: growing Github contributors
+title: 'growing Github contributors'
 tagnames: developers, evaluation, github, webwg
 author: liz
 path: /notes/liz/05-31-2017/growing-github-contributors.md

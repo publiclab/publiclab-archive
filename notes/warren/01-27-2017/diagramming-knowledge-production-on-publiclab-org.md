@@ -1,5 +1,5 @@
 ---
-title: Diagramming knowledge production on PublicLab.org
+title: 'Diagramming knowledge production on PublicLab.org'
 tagnames: organizers, organizing, newcomers, research-culture, site, diagramming, mental-model, knowledge-production, knowledge, flow-chart, ui, diagram, diagrams, contribute, research-questions
 author: warren
 path: /notes/warren/01-27-2017/diagramming-knowledge-production-on-publiclab-org.md

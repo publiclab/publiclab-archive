@@ -1,5 +1,5 @@
 ---
-title: Can you get color temperature from spectra
+title: 'Can you get color temperature from spectra'
 tagnames: question:spectral-workbench, first-time-poster
 author: miramon
 path: /notes/miramon/02-01-2018/can-you-get-color-temperature-from-spectra.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC 2021 Proposal: Legacy Code Deprecation
+title: 'GSoC 2021 Proposal: Legacy Code Deprecation'
 tagnames: software, soc, lat:20, lon:70, zoom:4, gsoc-2021, gsoc-2021-proposals
 author: gauravsingh2699
 path: /notes/gauravsingh2699/04-05-2021/gsoc-2021-proposal-legacy-code-deprecation.md

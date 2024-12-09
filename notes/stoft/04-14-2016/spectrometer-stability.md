@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Stability
+title: 'Spectrometer Stability'
 tagnames: spectrometer, intensity-calibration, intensity, stability, response:12962
 author: stoft
 path: /notes/stoft/04-14-2016/spectrometer-stability.md

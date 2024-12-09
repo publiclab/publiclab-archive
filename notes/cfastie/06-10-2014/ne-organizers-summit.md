@@ -1,5 +1,5 @@
 ---
-title: NE Organizers Summit
+title: 'NE Organizers Summit'
 tagnames: barnraising, event, organizers, massachusetts, tidmarsh, northeast, nebarnraising, ma, barnstar:photo-documentation
 author: cfastie
 path: /notes/cfastie/06-10-2014/ne-organizers-summit.md

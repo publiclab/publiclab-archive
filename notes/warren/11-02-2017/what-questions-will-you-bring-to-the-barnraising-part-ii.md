@@ -1,5 +1,5 @@
 ---
-title: What questions will you bring to the Barnraising? (Part II)
+title: 'What questions will you bring to the Barnraising? (Part II)'
 tagnames: west-virginia, cocodrie, barnraising, blog, videos, questions, barnraising-2017, regional-barnraising, barnraising-vw, morgantown, series:barnraising-questions
 author: warren
 path: /notes/warren/11-02-2017/what-questions-will-you-bring-to-the-barnraising-part-ii.md

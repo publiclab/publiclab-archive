@@ -1,5 +1,5 @@
 ---
-title: barnraising-2015-photos-bronwen
+title: 'barnraising-2015-photos-bronwen'
 tagnames: barnraising, lumcon, barnraising-2015
 author: Bronwen
 path: /wiki/barnraising-2015-photos-bronwen.md

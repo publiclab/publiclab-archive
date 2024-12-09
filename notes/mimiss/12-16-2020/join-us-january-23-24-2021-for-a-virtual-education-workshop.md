@@ -1,5 +1,5 @@
 ---
-title: Join us January 23-24, 2021 for a virtual education workshop!
+title: 'Join us January 23-24, 2021 for a virtual education workshop!'
 tagnames: gulf-coast, education, louisiana, mississippi, workshop, florida, texas, alabama, classroom-community-science, lesson-plan
 author: mimiss
 path: /notes/mimiss/12-16-2020/join-us-january-23-24-2021-for-a-virtual-education-workshop.md

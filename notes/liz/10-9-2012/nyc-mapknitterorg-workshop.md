@@ -1,5 +1,5 @@
 ---
-title: NYC Mapknitter.org workshop
+title: 'NYC Mapknitter.org workshop'
 tagnames: event
 author: liz
 path: /notes/liz/10-9-2012/nyc-mapknitterorg-workshop.md

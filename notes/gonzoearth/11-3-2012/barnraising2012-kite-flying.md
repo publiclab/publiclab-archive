@@ -1,5 +1,5 @@
 ---
-title: Barnraising2012 Kite Flying
+title: 'Barnraising2012 Kite Flying'
 tagnames: kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/11-3-2012/barnraising2012-kite-flying.md

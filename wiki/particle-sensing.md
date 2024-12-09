@@ -1,5 +1,5 @@
 ---
-title: Particle Sensing
+title: 'Particle Sensing'
 tagnames: indoor-air-quality-mapping, particulate-sensing, agriculture, air-quality, fracking, tool, dust, particulates, particulate, pm, method, oil-and-gas, parent:air-quality, particulate-sensing-overview, questions:dust-sampling
 author: mathew
 path: /wiki/particle-sensing.md

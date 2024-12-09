@@ -1,5 +1,5 @@
 ---
-title: How to make CHEAP spectrometer for chemical material analysis, and how can I compare sample spectra with my own database?? Is it some special soft??
+title: 'How to make CHEAP spectrometer for chemical material analysis, and how can I compare sample spectra with my own database?? Is it some special soft??'
 tagnames: spectra, cheap, chemical, question:general, affordable, first-time-poster, material
 author: super_smartaga
 path: /notes/super_smartaga/10-03-2019/how-to-make-cheap-spectrometer-for-chemical-material-analysis-and-how-can-i-compare-sample-spectra-with-my-own-database-is-it-some-special-soft.md

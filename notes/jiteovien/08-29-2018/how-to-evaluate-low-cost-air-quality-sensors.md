@@ -1,5 +1,5 @@
 ---
-title: How to evaluate low cost air quality sensors
+title: 'How to evaluate low cost air quality sensors'
 tagnames: air-quality, sensors, pm, particulate-matter, activity:sensors, air-sensors, purpleair, purple-air, collocation, air-sensor-eval
 author: jiteovien
 path: /notes/jiteovien/08-29-2018/how-to-evaluate-low-cost-air-quality-sensors.md

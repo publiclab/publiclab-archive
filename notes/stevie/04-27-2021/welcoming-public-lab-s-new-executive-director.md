@@ -1,5 +1,5 @@
 ---
-title: Welcoming Public Lab's new Executive Director
+title: 'Welcoming Public Lab's new Executive Director'
 tagnames: nonprofit, blog, location:blurred, place:united-states, lon:-119, zoom:6, lat:46
 author: stevie
 path: /notes/stevie/04-27-2021/welcoming-public-lab-s-new-executive-director.md

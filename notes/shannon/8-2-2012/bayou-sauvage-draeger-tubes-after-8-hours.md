@@ -1,5 +1,5 @@
 ---
-title: Bayou Sauvage Draeger tubes after 8 hours
+title: 'Bayou Sauvage Draeger tubes after 8 hours'
 tagnames: gulf-coast, hydrogen-sulfide-sensing, wetlands, h2s, lat:30.321357, lon:-89.935285, place:bayou-sauvage-lousiana
 author: Shannon
 path: /notes/shannon/8-2-2012/bayou-sauvage-draeger-tubes-after-8-hours.md

@@ -1,5 +1,5 @@
 ---
-title: Getting started with aerial mapmaking
+title: 'Getting started with aerial mapmaking'
 tagnames: 
 author: gonzoearth
 path: /wiki/getting-started-aerial-mapmaking.md

@@ -1,5 +1,5 @@
 ---
-title: PLANNING TO HOST AN EVENT?
+title: 'PLANNING TO HOST AN EVENT?'
 tagnames: open-source, community, events, software, event, organizers, outreach, organizing, developers, code, barnstar:basic, facilitation, rgsoc, activity:host-an-event, women, activity:facilitation, activity:events, rails-girls, event-how-to
 author: stella
 path: /notes/stella/04-25-2018/planning-to-host-an-event.md

@@ -1,5 +1,5 @@
 ---
-title: Join us for Public Lab 101!
+title: 'Join us for Public Lab 101!'
 tagnames: website, education, event, classroom, classroom-community-science, event:education
 author: mimiss
 path: /notes/mimiss/05-17-2021/join-us-for-public-lab-101.md

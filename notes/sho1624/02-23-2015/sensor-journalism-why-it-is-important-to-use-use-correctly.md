@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism - Why It Is Important To Use & Use Correctly
+title: 'Sensor Journalism - Why It Is Important To Use & Use Correctly'
 tagnames: testing, water, sensor-journalism
 author: sho1624
 path: /notes/sho1624/02-23-2015/sensor-journalism-why-it-is-important-to-use-use-correctly.md

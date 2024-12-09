@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of mostly parking lot near northrop grumman
+title: 'MapKnitter map of mostly parking lot near northrop grumman'
 tagnames: mapknitter, lat:34.1272301, lon:-117.9265341
 author: yesuh96
 path: /notes/yesuh96/05-24-2018/mapknitter-map-of-mostly-parking-lot-near-northrop-grumman.md

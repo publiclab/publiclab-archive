@@ -1,5 +1,5 @@
 ---
-title: Completing Your Looks with Women’s Tights
+title: 'Completing Your Looks with Women’s Tights'
 tagnames: 
 author: tights
 path: /wiki/completing-your-looks-women-s-tights.md

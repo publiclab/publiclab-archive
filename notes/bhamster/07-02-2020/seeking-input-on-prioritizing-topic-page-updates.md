@@ -1,5 +1,5 @@
 ---
-title: Seeking input on prioritizing Topic page updates
+title: 'Seeking input on prioritizing Topic page updates'
 tagnames: organizers, research, community-development, topics, research-area-review
 author: bhamster
 path: /notes/bhamster/07-02-2020/seeking-input-on-prioritizing-topic-page-updates.md

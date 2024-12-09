@@ -1,5 +1,5 @@
 ---
-title: Coastal Zone Flood Risk Mitigation
+title: 'Coastal Zone Flood Risk Mitigation'
 tagnames: flood-risk, flood-protection, flood-vulnerability
 author: gilbert
 path: /notes/gilbert/10-11-2017/coastal-zone-flood-risk-mitigation.md

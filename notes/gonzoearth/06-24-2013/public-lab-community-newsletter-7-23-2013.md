@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter 6.23.2013
+title: 'Public Lab Community Newsletter 6.23.2013'
 tagnames: newsletter, response:8141
 author: gonzoearth
 path: /notes/gonzoearth/06-24-2013/public-lab-community-newsletter-7-23-2013.md

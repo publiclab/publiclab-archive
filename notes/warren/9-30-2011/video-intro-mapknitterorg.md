@@ -1,5 +1,5 @@
 ---
-title: Video tutorial: Intro to MapKnitter.org
+title: 'Video tutorial: Intro to MapKnitter.org'
 tagnames: mapknitter
 author: warren
 path: /notes/warren/9-30-2011/video-intro-mapknitterorg.md

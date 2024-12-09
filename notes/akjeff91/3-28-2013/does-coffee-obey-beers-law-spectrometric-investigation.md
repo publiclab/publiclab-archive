@@ -1,5 +1,5 @@
 ---
-title: Does Coffee Obey Beer's Law? A Spectrometric Investigation
+title: 'Does Coffee Obey Beer's Law? A Spectrometric Investigation'
 tagnames: spectrometer, spectralworkbench, centre_college, beers-law, coffee, quantitative
 author: akjeff91
 path: /notes/akjeff91/3-28-2013/does-coffee-obey-beers-law-spectrometric-investigation.md

@@ -1,5 +1,5 @@
 ---
-title: Sensor Collection For KnowFlow --a water-quality-testing facility
+title: 'Sensor Collection For KnowFlow --a water-quality-testing facility'
 tagnames: water-quality, water, sensor, seeks:replications, knowflow, activity:data-logging, activity:knowflow, lang:zh, activity:water-sensors
 author: juncheng09
 path: /notes/juncheng09/12-09-2017/instruction-for-sensors.md

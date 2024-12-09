@@ -1,5 +1,5 @@
 ---
-title: Absorption and Emission of Safranin O using a 532nm green laser July 24, 2016
+title: 'Absorption and Emission of Safranin O using a 532nm green laser July 24, 2016'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/07-25-2016/absorption-and-emission-of-safranin-o-using-a-532nm-green-laser-july-24-2016.md

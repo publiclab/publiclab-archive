@@ -1,5 +1,5 @@
 ---
-title: how to delete unwanted spectra?
+title: 'how to delete unwanted spectra?'
 tagnames: spectral-workbench, question:spectral-workbench, first-time-poster
 author: a_sivolap978
 path: /notes/a_sivolap978/08-02-2021/how-to-delete-unwanted-spectra.md

@@ -1,5 +1,5 @@
 ---
-title: Gowanus Vegetation Mapping - Saturday June 8th
+title: 'Gowanus Vegetation Mapping - Saturday June 8th'
 tagnames: new-york-city, gowanus, events:new-york-city
 author: gwirth
 path: /notes/gwirth/06-05-2013/gowanus-vegetation-mapping-saturday-june-8th.md

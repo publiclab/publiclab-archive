@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight with LCD keypad display and Neopixel LEDs
+title: 'Thermal Flashlight with LCD keypad display and Neopixel LEDs'
 tagnames: thermal-photography, arduino, thermal-flashlight, fritzing, response:625, heat, activity:thermal-flashlight, activity:thermal-flashlight-assembly
 author: thosetechpeople
 path: /notes/thosetechpeople/02-13-2015/thermal-flashlight-with-lcd-keypad-display-and-neopixel-leds.md

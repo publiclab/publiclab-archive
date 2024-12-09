@@ -1,5 +1,5 @@
 ---
-title: Takes on the fold-up mini-spectrometer
+title: 'Takes on the fold-up mini-spectrometer'
 tagnames: spectrometer, fold-up-mini-spectrometer
 author: mathew
 path: /notes/mathew/11-19-2012/takes-fold-mini-spectrometer.md

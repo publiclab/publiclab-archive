@@ -1,5 +1,5 @@
 ---
-title: "The Scope Of The Alberta Oil Sands Must Be Seen To Be Believed"
+title: '"The Scope Of The Alberta Oil Sands Must Be Seen To Be Believed"'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/5-1-2012/scope-alberta-oil-sands-must-be-seen-be-believed.md

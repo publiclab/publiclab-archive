@@ -1,5 +1,5 @@
 ---
-title: How the Bucket Works
+title: 'How the Bucket Works'
 tagnames: air-quality, methods, bucket-brigade, lon:-71, lat:42, zoom:6, air-sensor, bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/06-09-2020/how-the-bucket-works.md

@@ -1,5 +1,5 @@
 ---
-title: Comparing Data Visualization Tools
+title: 'Comparing Data Visualization Tools'
 tagnames: data, free-software, data-visualization, research-area-review, research-curation-fellows, presenting-data, air-quality-data, data-visualization-tool
 author: fongvania
 path: /notes/fongvania/11-15-2021/comparing-data-visualization-tools.md

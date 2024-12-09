@@ -1,5 +1,5 @@
 ---
-title: First Measurement with Public Lab Desktop Spectrometry Kit
+title: 'First Measurement with Public Lab Desktop Spectrometry Kit'
 tagnames: spectrometer, dsk, unboxing
 author: pluharj
 path: /notes/pluharj/1-9-2013/first-measurement-public-lab-desktop-spectrometry-kit.md

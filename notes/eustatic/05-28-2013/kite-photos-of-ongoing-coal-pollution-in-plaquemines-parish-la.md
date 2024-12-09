@@ -1,5 +1,5 @@
 ---
-title: Kite Photo of Ongoing Coal Pollution in Plaquemines Parish, LA
+title: 'Kite Photo of Ongoing Coal Pollution in Plaquemines Parish, LA'
 tagnames: gulf-coast, kite-mapping, watchdog, water-quality, blog, pollution, oblique, coal, petcoke, water, legal, unitedbulk, petroleum-coke, monitoring, coal-terminal, citizen, ubt, cwa, litigation, citizen-suit, federal-court, story:kite-mapping, story:aerial-mapping, law-and-policy
 author: eustatic
 path: /05-28-2013/kite-photos-of-ongoing-coal-pollution-in-plaquemines-parish-la.md

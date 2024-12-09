@@ -1,5 +1,5 @@
 ---
-title: Accuracy of assembled Desktop Spectrometry kit?
+title: 'Accuracy of assembled Desktop Spectrometry kit?'
 tagnames: spectrometer, comparison, grass, question:spectrometry, accuracy
 author: WhiteRabbit
 path: /notes/WhiteRabbit/07-29-2014/question.md

@@ -1,5 +1,5 @@
 ---
-title: Publiclab Mastodon bot
+title: 'Publiclab Mastodon bot'
 tagnames: social-media, outreach, mirror, software-outreach, bot, federation, mastodon, tor
 author: imvec
 path: /notes/imvec/09-05-2018/publiclab-mastodon-bot.md

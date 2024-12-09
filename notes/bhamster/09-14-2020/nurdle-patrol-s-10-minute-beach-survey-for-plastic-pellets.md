@@ -1,5 +1,5 @@
 ---
-title: Nurdle Patrol’s 10-minute beach survey for plastic pellets
+title: 'Nurdle Patrol’s 10-minute beach survey for plastic pellets'
 tagnames: gulf-coast, protocol, texas, micro-plastics, beach, microplastics, activity:microplastics, gulf-of-mexico, marine-debris, nurdles, beach-cleanup, nurdle-patrol, beach-survey, nurdle-survey, plastic-pellets, activity:nurdle-survey
 author: bhamster
 path: /notes/bhamster/09-14-2020/nurdle-patrol-s-10-minute-beach-survey-for-plastic-pellets.md

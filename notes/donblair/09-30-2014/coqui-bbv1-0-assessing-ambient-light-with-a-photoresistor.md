@@ -1,5 +1,5 @@
 ---
-title: Coqui BBv1.0: Assessing Ambient Light with a Photoresistor
+title: 'Coqui BBv1.0: Assessing Ambient Light with a Photoresistor'
 tagnames: water-quality, difficulty:easy, category:observe, time:1h, status:draft, activity:coqui-usage
 author: donblair
 path: /notes/donblair/09-30-2014/coqui-bbv1-0-assessing-ambient-light-with-a-photoresistor.md

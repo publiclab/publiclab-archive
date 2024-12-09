@@ -1,5 +1,5 @@
 ---
-title: Mapping the NVCC campus using a flower pot as a camera rig
+title: 'Mapping the NVCC campus using a flower pot as a camera rig'
 tagnames: balloon-mapping, near-infrared-camera, triggering, chdk, field-test, photo-rig, southeast, virginia
 author: gustrow
 path: /notes/gustrow/04-05-2014/mapping-the-nvcc-campus-using-a-flower-pot-as-a-camera-rig.md

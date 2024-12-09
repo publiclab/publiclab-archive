@@ -1,5 +1,5 @@
 ---
-title: How do I calculate error for averages?
+title: 'How do I calculate error for averages?'
 tagnames: purpleair, question:purpleair, first-time-poster
 author: wu_ming2
 path: /notes/wu_ming2/02-02-2019/how-do-i-calculate-error-for-averages.md

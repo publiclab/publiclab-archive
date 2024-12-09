@@ -1,5 +1,5 @@
 ---
-title: Video spectrometer troubleshooting
+title: 'Video spectrometer troubleshooting'
 tagnames: spectrometer, troubleshooting
 author: warren
 path: /wiki/video-spectrometer-troubleshooting.md

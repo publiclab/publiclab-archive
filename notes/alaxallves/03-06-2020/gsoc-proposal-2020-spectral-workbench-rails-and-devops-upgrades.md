@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal 2020: Mapknitter Image Export and Spectral Workbench upgrade
+title: 'GSoC Proposal 2020: Mapknitter Image Export and Spectral Workbench upgrade'
 tagnames: soc-2020-proposals, zoom:18, lat:-15.890474, lon:-48.014493
 author: alaxallves
 path: /notes/alaxallves/03-06-2020/gsoc-proposal-2020-spectral-workbench-rails-and-devops-upgrades.md

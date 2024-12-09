@@ -1,5 +1,5 @@
 ---
-title: Summer of code with Public Lab
+title: 'Summer of code with Public Lab'
 tagnames: 
 author: sagarpreet
 path: /notes/sagarpreet/05-12-2018/summer-of-code-with-public-lab.md

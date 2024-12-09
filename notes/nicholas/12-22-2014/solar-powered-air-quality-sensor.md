@@ -1,5 +1,5 @@
 ---
-title: Solar Powered Air Quality Sensor
+title: 'Solar Powered Air Quality Sensor'
 tagnames: air-quality, cellular, dustduino, dust-monitoring, solar, gsm, shinyei, activity:dustduino, activity:pm, activity:arduino, replication:9818, activity:pm-monitoring, activity:dust, activity:sensors, activity:air-quality, activity:data-logging-power, air-sensors
 author: nicholas
 path: /notes/nicholas/12-22-2014/solar-powered-air-quality-sensor.md

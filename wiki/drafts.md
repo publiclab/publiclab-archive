@@ -1,5 +1,5 @@
 ---
-title: drafts
+title: 'drafts'
 tagnames: 
 author: donblair
 path: /wiki/drafts.md

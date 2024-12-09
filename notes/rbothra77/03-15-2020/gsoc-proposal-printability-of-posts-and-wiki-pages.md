@@ -1,5 +1,5 @@
 ---
-title: GSOC Proposal : Printability of posts and wiki pages
+title: 'GSOC Proposal : Printability of posts and wiki pages'
 tagnames: gsoc, printability, first-time-poster, gsoc-2020
 author: rbothra77
 path: /notes/rbothra77/03-15-2020/gsoc-proposal-printability-of-posts-and-wiki-pages.md

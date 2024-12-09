@@ -1,5 +1,5 @@
 ---
-title: How to Connect a pH Sensor to the Simple Water Sensor Platform
+title: 'How to Connect a pH Sensor to the Simple Water Sensor Platform'
 tagnames: arduino, sensors, water-quality, turbidity, new, ph, draft, time:3h, include, activity:arduino, water-sensors, activity:water-sensors, status:request, oil-and-gas-water-trio, oil-and-gas-water-quality, activity:oil-and-gas-water-quality, simple-water-sensor-platform, activity:simple-water-sensor-platform
 author: wmacfarl
 path: /notes/wmacfarl/12-09-2019/building-the-simple-ph-sensor-prototype.md

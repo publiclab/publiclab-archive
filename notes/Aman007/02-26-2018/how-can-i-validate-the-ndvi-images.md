@@ -1,5 +1,5 @@
 ---
-title: How can I validate the NDVI images
+title: 'How can I validate the NDVI images'
 tagnames: infragram, question:infragram
 author: Aman007
 path: /notes/Aman007/02-26-2018/how-can-i-validate-the-ndvi-images.md

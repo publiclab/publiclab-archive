@@ -1,5 +1,5 @@
 ---
-title: [GSOC PROPOSAL DRAFT] MapKnitter Enhancements.
+title: '[GSOC PROPOSAL DRAFT] MapKnitter Enhancements.'
 tagnames: mapknitter, gps, gsoc, gsoc-2014, coding, first-time-poster
 author: xvidun
 path: /notes/xvidun/03-07-2014/gsoc-proposal-draft-mapknitter-enhancements.md

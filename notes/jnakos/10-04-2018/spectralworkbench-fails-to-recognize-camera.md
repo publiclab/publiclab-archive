@@ -1,5 +1,5 @@
 ---
-title: spectralworkbench fails to recognize camera
+title: 'spectralworkbench fails to recognize camera'
 tagnames: question:general
 author: jnakos
 path: /notes/jnakos/10-04-2018/spectralworkbench-fails-to-recognize-camera.md

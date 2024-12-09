@@ -1,5 +1,5 @@
 ---
-title: How to analyze plastics forensically 
+title: 'How to analyze plastics forensically '
 tagnames: barnstar:empiricism, microscope, seeks:replications, micro-plastics, microplastics, babylegs, activity:babylegs, activity:microplastics
 author: maxliboiron
 path: /notes/maxliboiron/07-19-2018/how-to-analyze-plastics-forensically.md

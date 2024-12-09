@@ -1,5 +1,5 @@
 ---
-title: Video spectrometer setup with dimmer and sample platform
+title: 'Video spectrometer setup with dimmer and sample platform'
 tagnames: peru
 author: warren
 path: /notes/warren/8-17-2011/video-spectrometer-setup-dimmer-and-sample-platform.md

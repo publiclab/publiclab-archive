@@ -1,5 +1,5 @@
 ---
-title: Does anybody know how to create a tide gauge or tide staff that students could use to monitor sea level?
+title: 'Does anybody know how to create a tide gauge or tide staff that students could use to monitor sea level?'
 tagnames: water-sensing, education, climate-change, florida, question:general, general, water-level, pensacola, tide-gauge
 author: ChristianWagley
 path: /notes/ChristianWagley/03-15-2021/does-anybody-know-how-to-create-a-tide-gauge-or-tide-staff-that-students-could-use-to-monitor-sea-level.md

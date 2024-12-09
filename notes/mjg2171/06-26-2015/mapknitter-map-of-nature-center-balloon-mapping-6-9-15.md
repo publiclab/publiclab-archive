@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Nature Center Balloon Mapping 6.9.15
+title: 'MapKnitter map of Nature Center Balloon Mapping 6.9.15'
 tagnames: mapknitter, lat:30.0338465922, lon:-89.9616229534
 author: mjg2171
 path: /notes/mjg2171/06-26-2015/mapknitter-map-of-nature-center-balloon-mapping-6-9-15.md

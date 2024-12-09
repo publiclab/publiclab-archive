@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of bakkoon
+title: 'MapKnitter map of bakkoon'
 tagnames: mapknitter, lat:38.8996251744, lon:-94.7263473272, kansas, kansas-city, first-time-poster
 author: UKanTeach
 path: /notes/UKanTeach/06-22-2016/mapknitter-map-of-bakkoon.md

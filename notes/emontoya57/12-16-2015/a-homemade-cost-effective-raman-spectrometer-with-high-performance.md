@@ -1,5 +1,5 @@
 ---
-title: A Homemade Cost Effective Raman Spectrometer with High Performance
+title: 'A Homemade Cost Effective Raman Spectrometer with High Performance'
 tagnames: spectrometer, raman, barnstar:basic, diy-spectrometer, raman-spectrometer
 author: emontoya57
 path: /notes/emontoya57/12-16-2015/a-homemade-cost-effective-raman-spectrometer-with-high-performance.md

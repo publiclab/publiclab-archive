@@ -1,5 +1,5 @@
 ---
-title: White balance for all
+title: 'White balance for all'
 tagnames: near-infrared-camera, vermont, white-balance, infragram, list:plots-infrared, infrablue, led, ccd, response:8900, bg3, wratten25a, super-red, activity:white-balance
 author: cfastie
 path: /notes/cfastie/11-22-2013/white-balance-for-all.md

@@ -1,5 +1,5 @@
 ---
-title: Sumava, Czech Republic
+title: 'Sumava, Czech Republic'
 tagnames: chapter
 author: Shannon
 path: /wiki/sumava-czech-republic.md

@@ -1,5 +1,5 @@
 ---
-title: Oil Response Toolkit Planning
+title: 'Oil Response Toolkit Planning'
 tagnames: oil-spill-toolkit, cocodrie--la, oil-response-toolkit
 author: mathew
 path: /wiki/oil-response-toolkit-planning.md

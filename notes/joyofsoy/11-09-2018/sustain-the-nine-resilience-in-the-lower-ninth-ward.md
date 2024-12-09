@@ -1,5 +1,5 @@
 ---
-title: Sustain the Nine: Resilience in the Lower Ninth Ward
+title: 'Sustain the Nine: Resilience in the Lower Ninth Ward'
 tagnames: gulf-coast, balloon-mapping, wetlands, louisiana, wetland, bayou-bienvenue, bienvenue, new-orleans, water-quality, erosion, blog, csf15, response:16984
 author: joyofsoy
 path: /notes/joyofsoy/11-09-2018/sustain-the-nine-resilience-in-the-lower-ninth-ward.md

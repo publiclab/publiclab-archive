@@ -1,5 +1,5 @@
 ---
-title: Question: IR filter in the camera
+title: 'Question: IR filter in the camera'
 tagnames: question:spectrometry, answered
 author: Ripingill
 path: /notes/Ripingill/03-21-2015/question-ir-filter-in-the-camera.md

@@ -1,5 +1,5 @@
 ---
-title: Some Suggestions for Spectrometer v3.0 and Oil Testing Kit (OTK) Attachment
+title: 'Some Suggestions for Spectrometer v3.0 and Oil Testing Kit (OTK) Attachment'
 tagnames: spectrometer, desktop-spectrometer, oil-testing-kit, upgrade:spectrometry, upgrade:dssk
 author: ygzstc
 path: /notes/ygzstc/08-19-2015/some-suggestions-for-spectrometer-v3-0-and-oil-testing-kit-otk-attachment.md

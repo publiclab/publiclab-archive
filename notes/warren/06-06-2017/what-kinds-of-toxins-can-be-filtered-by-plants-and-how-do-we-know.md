@@ -1,5 +1,5 @@
 ---
-title: What kinds of toxins can be filtered by plants, and how do we know?
+title: 'What kinds of toxins can be filtered by plants, and how do we know?'
 tagnames: remediation, air-quality, indoor-air-quality, indoor-air, question:indoor-air-remediation, indoor-air-remediation, question:indoor-air, question:filters, question:indoor-air-quality
 author: warren
 path: /notes/warren/06-06-2017/what-kinds-of-toxins-can-be-filtered-by-plants-and-how-do-we-know.md

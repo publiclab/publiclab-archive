@@ -1,5 +1,5 @@
 ---
-title: How to make a low power timer
+title: 'How to make a low power timer'
 tagnames: data-logging, activity:datalogger, datalogging, mini-pearl-logger, activity:mini-pearl-logger, tpl5110, low-power-logging, log-a-long-timer, activity:log-a-long-timer
 author: cfastie
 path: /notes/cfastie/01-26-2018/how-to-make-a-low-power-timer.md

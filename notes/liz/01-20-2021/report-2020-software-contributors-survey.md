@@ -1,5 +1,5 @@
 ---
-title: Report: 2020 Software Contributors Survey
+title: 'Report: 2020 Software Contributors Survey'
 tagnames: community, developers, code, evaluation, diversity
 author: liz
 path: /notes/liz/01-20-2021/report-2020-software-contributors-survey.md

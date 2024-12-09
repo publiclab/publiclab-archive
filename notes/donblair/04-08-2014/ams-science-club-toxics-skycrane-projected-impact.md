@@ -1,5 +1,5 @@
 ---
-title: AMS Science Club: Toxics Skycrane + Projected Impacts
+title: 'AMS Science Club: Toxics Skycrane + Projected Impacts'
 tagnames: balloon-mapping
 author: donblair
 path: /notes/donblair/04-08-2014/ams-science-club-toxics-skycrane-projected-impact.md

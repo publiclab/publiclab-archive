@@ -1,5 +1,5 @@
 ---
-title: Flying off wind with the Dazzle Delta
+title: 'Flying off wind with the Dazzle Delta'
 tagnames: portland, kite-mapping, kite-fishing, kites, kite-techniques, off-wind-flying
 author: mathew
 path: /notes/mathew/2-14-2013/flying-wind-dazzle-delta.md

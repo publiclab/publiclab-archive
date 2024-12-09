@@ -1,5 +1,5 @@
 ---
-title: Is there a step by step to building the super pi Microscope kit
+title: 'Is there a step by step to building the super pi Microscope kit'
 tagnames: question:community-microscope, first-time-poster
 author: Hightower77
 path: /notes/Hightower77/11-23-2018/is-there-a-step-by-step-to-building-the-super-pi-microscope-kit.md

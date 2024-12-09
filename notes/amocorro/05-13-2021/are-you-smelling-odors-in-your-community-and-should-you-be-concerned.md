@@ -1,5 +1,5 @@
 ---
-title:  Are you smelling odors in your community, and should you be concerned?  
+title: ' Are you smelling odors in your community, and should you be concerned?  '
 tagnames: air-quality, air-monitoring, odors, odor, question:general, general, question:smell, smell, community-monitoring-costs, question:vvamp
 author: amocorro
 path: /notes/amocorro/05-13-2021/are-you-smelling-odors-in-your-community-and-should-you-be-concerned.md

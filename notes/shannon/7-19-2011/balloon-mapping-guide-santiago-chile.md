@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping guide from Santiago, Chile
+title: 'Balloon Mapping guide from Santiago, Chile'
 tagnames: guides, lang:es
 author: Shannon
 path: /notes/shannon/7-19-2011/balloon-mapping-guide-santiago-chile.md

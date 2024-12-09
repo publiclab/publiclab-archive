@@ -1,5 +1,5 @@
 ---
-title: Public Lab Launches a Kickstarter for a Homebrew Oil Testing Kit
+title: 'Public Lab Launches a Kickstarter for a Homebrew Oil Testing Kit'
 tagnames: spectrometer, kickstarter, press-release, oil-testing-kit, homebrew-oil-testing-kit
 author: liz
 path: /notes/liz/09-24-2014/public-lab-launches-a-kickstarter-for-a-homebrew-oil-testing-kit.md

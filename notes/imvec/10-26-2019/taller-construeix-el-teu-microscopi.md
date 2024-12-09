@@ -1,5 +1,5 @@
 ---
-title: Taller construeix el teu microscopi
+title: 'Taller construeix el teu microscopi'
 tagnames: barcelona, spain, workshop, event, lang:es, eu, lat:1, spanish, lon:10, community-microscope, communitymicroscope
 author: imvec
 path: /notes/imvec/10-26-2019/taller-construeix-el-teu-microscopi.md

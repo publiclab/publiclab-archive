@@ -1,5 +1,5 @@
 ---
-title: infrapi
+title: 'infrapi'
 tagnames: redirect:raspberry-pi-infragram
 author: warren
 path: /wiki/infrapi.md

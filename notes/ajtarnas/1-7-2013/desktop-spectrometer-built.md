@@ -1,5 +1,5 @@
 ---
-title: desktop spectrometer built
+title: 'desktop spectrometer built'
 tagnames: spectrometer
 author: ajtarnas
 path: /notes/ajtarnas/1-7-2013/desktop-spectrometer-built.md

@@ -1,5 +1,5 @@
 ---
-title: spectrometer hardware with higher resolution
+title: 'spectrometer hardware with higher resolution'
 tagnames: spectrometer
 author: mmittler
 path: /notes/mmittler/3-10-2012/spectrometer-hardware-higher-resolution.md

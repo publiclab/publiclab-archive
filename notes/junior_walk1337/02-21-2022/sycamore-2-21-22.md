@@ -1,5 +1,5 @@
 ---
-title: Sycamore 2/21/22
+title: 'Sycamore 2/21/22'
 tagnames: drones, coal-mining, coal, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/02-21-2022/sycamore-2-21-22.md

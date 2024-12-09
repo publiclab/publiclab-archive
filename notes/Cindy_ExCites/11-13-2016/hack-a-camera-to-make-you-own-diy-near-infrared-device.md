@@ -1,5 +1,5 @@
 ---
-title: Hack a camera to make you own DIY Near Infrared device
+title: 'Hack a camera to make you own DIY Near Infrared device'
 tagnames: nir, london, workshop, event, event:rsvp, date:11-14-2016, rsvp:davidmbatuegwu
 author: cindy_excites
 path: /notes/Cindy_ExCites/11-13-2016/hack-a-camera-to-make-you-own-diy-near-infrared-device.md

@@ -1,5 +1,5 @@
 ---
-title: Community Atlas
+title: 'Community Atlas'
 tagnames: community-atlas
 author: warren
 path: /wiki/community-atlas.md

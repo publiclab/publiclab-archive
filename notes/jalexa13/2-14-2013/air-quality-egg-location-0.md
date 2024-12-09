@@ -1,5 +1,5 @@
 ---
-title: Air Quality Egg Location
+title: 'Air Quality Egg Location'
 tagnames: new-york-city, cypress-hills, chaq, first-time-poster
 author: Jalexa13
 path: /notes/jalexa13/2-14-2013/air-quality-egg-location-0.md

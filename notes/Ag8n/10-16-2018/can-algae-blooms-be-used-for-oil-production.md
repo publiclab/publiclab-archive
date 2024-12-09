@@ -1,5 +1,5 @@
 ---
-title: Can algae blooms be used for oil production?
+title: 'Can algae blooms be used for oil production?'
 tagnames: algae, question:general, question:algae, question:algaebloom, question:energy, question:energy-production, question:algae-bloom
 author: Ag8n
 path: /notes/Ag8n/10-16-2018/can-algae-blooms-be-used-for-oil-production.md

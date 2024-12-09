@@ -1,5 +1,5 @@
 ---
-title: Design Ideas for Expanded Q & A Project
+title: 'Design Ideas for Expanded Q & A Project'
 tagnames: software, design, gsoc, web, developers, gsoc-2016, q-and-a, ui
 author: ananyo2012
 path: /notes/ananyo2012/05-11-2016/design-ideas-for-expanded-q-a-project.md

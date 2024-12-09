@@ -1,5 +1,5 @@
 ---
-title: CHAQ: Visualizing Air Quality - Class 5 - March 8th
+title: 'CHAQ: Visualizing Air Quality - Class 5 - March 8th'
 tagnames: new-york-city, cypress-hills, chaq, air-quality, air-quality-egg, visualization, data-visualization
 author: georgiabullen
 path: /notes/georgiabullen/3-19-2013/chaq-visualizing-air-quality-class-5-march-8th-0.md

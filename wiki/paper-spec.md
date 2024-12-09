@@ -1,5 +1,5 @@
 ---
-title: paper-spec
+title: 'paper-spec'
 tagnames: redirect:15277
 author: warren
 path: /wiki/paper-spec.md

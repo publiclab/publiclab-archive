@@ -1,5 +1,5 @@
 ---
-title: Place template
+title: 'Place template'
 tagnames: 
 author: warren
 path: /wiki/place-template.md

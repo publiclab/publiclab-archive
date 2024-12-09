@@ -1,5 +1,5 @@
 ---
-title: Uploading images from raspberry pi.
+title: 'Uploading images from raspberry pi.'
 tagnames: question:raspberry-pi, question:pi-camera, question:raspberry-pi-spectrometer, question:lego-spectrometer, first-time-poster
 author: cedarlodge
 path: /notes/cedarlodge/02-27-2018/uploading-images-from-raspberry-pi.md

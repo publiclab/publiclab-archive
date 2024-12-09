@@ -1,5 +1,5 @@
 ---
-title: This CFL works the best
+title: 'This CFL works the best'
 tagnames: barnstar:basic
 author: dhaffnersr
 path: /notes/dhaffnersr/02-04-2016/this-cfl-works-the-best.md

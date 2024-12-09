@@ -1,5 +1,5 @@
 ---
-title: UMass Open Hardware Workshop
+title: 'UMass Open Hardware Workshop'
 tagnames: near-infrared-camera, arduino, open-source, open-hardware, conferences, umass-amherst
 author: cfastie
 path: /notes/cfastie/7-17-2012/umass-open-hardware-workshop.md

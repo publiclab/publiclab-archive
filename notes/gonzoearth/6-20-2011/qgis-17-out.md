@@ -1,5 +1,5 @@
 ---
-title: QGIS 1.7 is out :)
+title: 'QGIS 1.7 is out :)'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/6-20-2011/qgis-17-out.md

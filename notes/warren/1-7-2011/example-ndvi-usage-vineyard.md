@@ -1,5 +1,5 @@
 ---
-title: Example NDVI usage in a vineyard
+title: 'Example NDVI usage in a vineyard'
 tagnames: near-infrared-camera, ndvi, vineyard, agriculture, farm
 author: warren
 path: /notes/warren/1-7-2011/example-ndvi-usage-vineyard.md

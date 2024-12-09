@@ -1,5 +1,5 @@
 ---
-title: What would be the day to day use of spectroscopy?
+title: 'What would be the day to day use of spectroscopy?'
 tagnames: answered, question:general, first-time-poster
 author: TK_Siddharth
 path: /notes/TK_Siddharth/09-20-2018/what-would-be-the-day-to-day-use-of-spectroscopy.md

@@ -1,5 +1,5 @@
 ---
-title: Smartphone spectrometer now available on Shapeways
+title: 'Smartphone spectrometer now available on Shapeways'
 tagnames: spectrometer, mobile-spectrometer, backpack
 author: warren
 path: /notes/warren/07-30-2013/smartphone-spectrometer-now-available-on-shapeways.md

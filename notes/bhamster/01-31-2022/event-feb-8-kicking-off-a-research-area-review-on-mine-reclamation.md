@@ -1,5 +1,5 @@
 ---
-title: EVENT Feb. 8: Kicking off a research area review on mine reclamation
+title: 'EVENT Feb. 8: Kicking off a research area review on mine reclamation'
 tagnames: event, mining, event:rsvp, reviews, research-area-review, research-curation-fellows-event, rsvp:pat, reclamation, with:laurel_mire, mine-reclamation, land-rehabilitation, rsvp:junior_walk1337
 author: bhamster
 path: /notes/bhamster/01-31-2022/event-feb-8-kicking-off-a-research-area-review-on-mine-reclamation.md

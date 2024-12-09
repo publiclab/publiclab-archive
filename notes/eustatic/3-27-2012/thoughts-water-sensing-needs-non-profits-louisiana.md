@@ -1,5 +1,5 @@
 ---
-title: Thoughts on water sensing needs of non-profits in Louisiana
+title: 'Thoughts on water sensing needs of non-profits in Louisiana'
 tagnames: gulf-coast, louisiana, water-quality, water, water-sensing, dissolved-oxygen, oxygen, probe, underwater, usecase, wastewater, do, first-time-poster
 author: eustatic
 path: /3-27-2012/thoughts-water-sensing-needs-non-profits-louisiana.md

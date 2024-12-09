@@ -1,5 +1,5 @@
 ---
-title: Using the Mapknitter 2 image placement using geotagged images
+title: 'Using the Mapknitter 2 image placement using geotagged images'
 tagnames: mapknitter, delta, kap, gps, sfm, software, structure-from-motion, sx260hs, gsoc, juice-bottle-rig, gsoc-2014, exif, auto-placement, mapknitter2
 author: patcoyle
 path: /notes/patcoyle/03-23-2015/using-the-mapknitter-2-image-placement-using-geotagged-images.md

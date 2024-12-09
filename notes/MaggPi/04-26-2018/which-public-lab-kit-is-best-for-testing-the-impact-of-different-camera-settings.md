@@ -1,5 +1,5 @@
 ---
-title: Which Public Lab kit is  best  for testing the impact of different camera settings?
+title: 'Which Public Lab kit is  best  for testing the impact of different camera settings?'
 tagnames: spectrometry, raspberry-pi, gsoc, question:spectrometry, pi-camera, soc, gsoc-2018, soc-2018
 author: MaggPi
 path: /notes/MaggPi/04-26-2018/which-public-lab-kit-is-best-for-testing-the-impact-of-different-camera-settings.md

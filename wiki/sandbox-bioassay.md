@@ -1,5 +1,5 @@
 ---
-title: sandbox-bioassay
+title: 'sandbox-bioassay'
 tagnames: 
 author: bhamster
 path: /wiki/sandbox-bioassay.md

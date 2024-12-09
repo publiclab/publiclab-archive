@@ -1,5 +1,5 @@
 ---
-title: driver usb camera community microscope
+title: 'driver usb camera community microscope'
 tagnames: question:general, general, first-time-poster
 author: francesco49
 path: /notes/francesco49/11-22-2019/driver-usb-camera-community-microscope.md

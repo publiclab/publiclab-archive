@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code @ Public Lab : First Phase Work
+title: 'Google Summer of Code @ Public Lab : First Phase Work'
 tagnames: gsoc, soc, gsoc-2019, soc-2019, gsoc-19
 author: namangupta
 path: /notes/namangupta/06-25-2019/google-summer-of-code-public-lab-first-phase-work.md

@@ -1,5 +1,5 @@
 ---
-title: PurpleAir Installation Guide
+title: 'PurpleAir Installation Guide'
 tagnames: air-quality, purpleair, purple-air, formosaplastics
 author: tylerknight
 path: /notes/tylerknight/02-18-2022/purpleair-installation-guide.md

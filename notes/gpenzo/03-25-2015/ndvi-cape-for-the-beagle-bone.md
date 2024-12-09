@@ -1,5 +1,5 @@
 ---
-title: NDVI cape for the beagle bone.
+title: 'NDVI cape for the beagle bone.'
 tagnames: ndvi, camera, barnstar:basic, barnstar:excessive-enthusiasm, two, beaglebone, black, response:4471, response:11448
 author: gpenzo
 path: /notes/gpenzo/03-25-2015/ndvi-cape-for-the-beagle-bone.md

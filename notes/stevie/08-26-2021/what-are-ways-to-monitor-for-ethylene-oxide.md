@@ -1,5 +1,5 @@
 ---
-title: What are ways to monitor for ethylene oxide?
+title: 'What are ways to monitor for ethylene oxide?'
 tagnames: air-quality, question:air-quality, gas-monitoring, question:general, general, question:gas-monitoring
 author: stevie
 path: /notes/stevie/08-26-2021/what-are-ways-to-monitor-for-ethylene-oxide.md

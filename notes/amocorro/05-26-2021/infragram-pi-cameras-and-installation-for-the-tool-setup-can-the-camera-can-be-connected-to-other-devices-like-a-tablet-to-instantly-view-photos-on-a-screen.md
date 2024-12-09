@@ -1,5 +1,5 @@
 ---
-title: Infragram Pi Cameras and public installation: For the tool setup, can the camera can be connected to other devices like a tablet, to instantly view photos on a screen?
+title: 'Infragram Pi Cameras and public installation: For the tool setup, can the camera can be connected to other devices like a tablet, to instantly view photos on a screen?'
 tagnames: kits, software, infragram, austria, climate-change, exhibition, micro-sd, multispectral-imaging, question:general, general, tablet, wifi, infragram-pi, artivism, installations
 author: amocorro
 path: /notes/amocorro/05-26-2021/infragram-pi-cameras-and-installation-for-the-tool-setup-can-the-camera-can-be-connected-to-other-devices-like-a-tablet-to-instantly-view-photos-on-a-screen.md

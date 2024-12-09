@@ -1,5 +1,5 @@
 ---
-title: easy cut delta kite plans
+title: 'easy cut delta kite plans'
 tagnames: kite-mapping, easy-cut-delta, diy-kite, difficulty:easy, time:3h, category:build, activity:aerial-photography, activity:kite-mapping, kite-making, activity:kite-making
 author: mathew
 path: /notes/mathew/7-19-2012/easy-cut-delta-kite-plans.md

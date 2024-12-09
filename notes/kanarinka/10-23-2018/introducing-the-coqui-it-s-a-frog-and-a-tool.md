@@ -1,5 +1,5 @@
 ---
-title: Introducing the Coquí – it's a frog and a tool!
+title: 'Introducing the Coquí – it's a frog and a tool!'
 tagnames: education, kits, water-quality, blog, sensor, coqui, hardware, community-kits
 author: kanarinka
 path: /notes/kanarinka/10-23-2018/introducing-the-coqui-it-s-a-frog-and-a-tool.md

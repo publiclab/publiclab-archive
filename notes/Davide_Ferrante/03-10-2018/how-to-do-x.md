@@ -1,5 +1,5 @@
 ---
-title: How to make this picture in an NDVI image
+title: 'How to make this picture in an NDVI image'
 tagnames: ndvi, question:ndvi, question:infragram
 author: Davide_Ferrante
 path: /notes/Davide_Ferrante/03-10-2018/how-to-do-x.md

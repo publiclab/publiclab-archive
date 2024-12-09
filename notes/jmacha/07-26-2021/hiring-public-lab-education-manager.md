@@ -1,5 +1,5 @@
 ---
-title: Hiring: Public Lab Education Manager
+title: 'Hiring: Public Lab Education Manager'
 tagnames: education, jobs, locked, careers
 author: jmacha
 path: /notes/jmacha/07-26-2021/hiring-public-lab-education-manager.md

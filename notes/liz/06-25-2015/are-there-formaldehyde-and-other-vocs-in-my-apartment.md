@@ -1,5 +1,5 @@
 ---
-title: are there formaldehyde and other VOCs in my apartment
+title: 'are there formaldehyde and other VOCs in my apartment'
 tagnames: formaldehyde, indoor-air-quality, voc
 author: liz
 path: /notes/liz/06-25-2015/are-there-formaldehyde-and-other-vocs-in-my-apartment.md

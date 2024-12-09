@@ -1,5 +1,5 @@
 ---
-title: Event Recap: Environmental Storytelling - Stories from the Field
+title: 'Event Recap: Environmental Storytelling - Stories from the Field'
 tagnames: video, air-quality, lead, lichen, summary, storytelling, refineries, artivism, research-curation-fellows, presenting-data
 author: fongvania
 path: /notes/fongvania/04-21-2022/event-recap-environmental-storytelling-stories-from-the-field.md

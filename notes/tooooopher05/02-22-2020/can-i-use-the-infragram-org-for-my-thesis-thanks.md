@@ -1,5 +1,5 @@
 ---
-title: Can I use the infragram.org for my thesis? Thanks!
+title: 'Can I use the infragram.org for my thesis? Thanks!'
 tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster
 author: tooooopher05
 path: /notes/tooooopher05/02-22-2020/can-i-use-the-infragram-org-for-my-thesis-thanks.md

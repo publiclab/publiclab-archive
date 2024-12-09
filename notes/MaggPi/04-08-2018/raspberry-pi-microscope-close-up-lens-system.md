@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Microscope/close up lens system
+title: 'Raspberry Pi Microscope/close up lens system'
 tagnames: webcam, raspberry-pi, gsoc, barnstar:basic, python, microscope, pi-camera, soc, gsoc-2018, soc-2018, pi-microscope, camera-comparison, series:community-microscope-tests
 author: MaggPi
 path: /notes/MaggPi/04-08-2018/raspberry-pi-microscope-close-up-lens-system.md

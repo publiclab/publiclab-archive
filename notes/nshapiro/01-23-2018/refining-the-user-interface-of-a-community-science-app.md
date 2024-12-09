@@ -1,5 +1,5 @@
 ---
-title: Refining the user interface of a community science app
+title: 'Refining the user interface of a community science app'
 tagnames: formaldehyde, indoor-air-quality, with:gretchengehrke, indoor-air, ui, smart-form, with:lightandluck
 author: nshapiro
 path: /notes/nshapiro/01-23-2018/refining-the-user-interface-of-a-community-science-app.md

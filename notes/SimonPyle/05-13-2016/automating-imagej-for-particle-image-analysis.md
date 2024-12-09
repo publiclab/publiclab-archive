@@ -1,5 +1,5 @@
 ---
-title: Automating ImageJ for particle image analysis
+title: 'Automating ImageJ for particle image analysis'
 tagnames: image-processing, dust, silica, pm, particle-sensing, image-analysis, microscope, passive-particle-monitors, passive-pm, activity:microscope, microscopes, activity:microscopes, particle-imaging, particle-analysis
 author: SimonPyle
 path: /notes/SimonPyle/05-13-2016/automating-imagej-for-particle-image-analysis.md

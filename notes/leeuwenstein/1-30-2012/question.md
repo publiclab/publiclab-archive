@@ -1,5 +1,5 @@
 ---
-title: QUESTION?
+title: 'QUESTION?'
 tagnames: first-time-poster
 author: leeuwenstein
 path: /notes/leeuwenstein/1-30-2012/question.md

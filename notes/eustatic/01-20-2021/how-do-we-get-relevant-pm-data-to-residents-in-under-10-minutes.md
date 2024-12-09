@@ -1,5 +1,5 @@
 ---
-title: How do we get relevant PM data to residents in under 10 minutes?
+title: 'How do we get relevant PM data to residents in under 10 minutes?'
 tagnames: air-quality, pm, particulate-monitoring, weather-station, particulate-matter, activity:air-quality, purpleair, sms, question:purpleair, healthygulf, airwyn, iseechange
 author: eustatic
 path: /01-20-2021/how-do-we-get-relevant-pm-data-to-residents-in-under-10-minutes.md

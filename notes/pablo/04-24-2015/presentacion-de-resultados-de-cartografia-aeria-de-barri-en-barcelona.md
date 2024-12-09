@@ -1,5 +1,5 @@
 ---
-title: Presentación de resultados de “Cartografia aèria de barri” en Barcelona 
+title: 'Presentación de resultados de “Cartografia aèria de barri” en Barcelona '
 tagnames: balloon-mapping, barcelona, spain, presentations, presentation, lang:es
 author: pablo
 path: /notes/pablo/04-24-2015/presentacion-de-resultados-de-cartografia-aeria-de-barri-en-barcelona.md

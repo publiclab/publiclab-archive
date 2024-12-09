@@ -1,5 +1,5 @@
 ---
-title: Schedule grid for Appalachian Barnraising 2017
+title: 'Schedule grid for Appalachian Barnraising 2017'
 tagnames: barnraising, replication:15884
 author: liz
 path: /notes/liz/03-08-2018/schedule-grid-for-appalachian-barnraising-2017.md

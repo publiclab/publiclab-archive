@@ -1,5 +1,5 @@
 ---
-title: Reply-by-email: a new way to use PublicLab.org
+title: 'Reply-by-email: a new way to use PublicLab.org'
 tagnames: community, gsoc, blog, code, barnstar:basic, forums, soc, soc-2018, google-groups, email, groups
 author: warren
 path: /notes/warren/10-04-2018/reply-by-email-a-new-way-to-use-publiclab-org.md

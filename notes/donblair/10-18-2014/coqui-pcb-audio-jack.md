@@ -1,5 +1,5 @@
 ---
-title: Coqui PCB + audio jack
+title: 'Coqui PCB + audio jack'
 tagnames: water-quality, open-water, openwater, coqui, category:build, status:proposal, coqui-audio-jack, activity:coqui-version
 author: donblair
 path: /notes/donblair/10-18-2014/coqui-pcb-audio-jack.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Isleta
+title: 'MapKnitter map of Isleta'
 tagnames: mapknitter, lat:28.1661169223, lon:-15.4411956668
 author: Cipis22
 path: /notes/Cipis22/10-14-2015/mapknitter-map-of-isleta.md

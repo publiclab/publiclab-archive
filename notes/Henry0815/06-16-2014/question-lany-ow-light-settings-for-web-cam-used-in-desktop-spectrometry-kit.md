@@ -1,5 +1,5 @@
 ---
-title: Question: any low light settings for web cam used in desktop spectrometry kit?
+title: 'Question: any low light settings for web cam used in desktop spectrometry kit?'
 tagnames: spectrometer, uv, laser, fluorescence, filter, oil-testing-kit, question:spectrometry, fluorophore, diode, uranium
 author: Henry0815
 path: /notes/Henry0815/06-16-2014/question-lany-ow-light-settings-for-web-cam-used-in-desktop-spectrometry-kit.md

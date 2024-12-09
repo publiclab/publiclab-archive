@@ -1,5 +1,5 @@
 ---
-title: Barnraising: Stewart talks map making
+title: 'Barnraising: Stewart talks map making'
 tagnames: balloon-mapping, kite-mapping, mapknitter, photoshop, balloon-mapping-kit, barnraising2012
 author: mathew
 path: /notes/mathew/11-3-2012/barnraising-stewart-talks-map-making.md

@@ -1,5 +1,5 @@
 ---
-title: china
+title: 'china'
 tagnames: chapter, asia, china, location:blurred, place:china, lat:20, lon:110
 author: liz
 path: /wiki/china.md

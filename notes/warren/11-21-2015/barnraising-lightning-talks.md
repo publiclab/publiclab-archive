@@ -1,5 +1,5 @@
 ---
-title: Barnraising Lightning Talks
+title: 'Barnraising Lightning Talks'
 tagnames: presentations, barnraising, presentation, barnraising-2015, lightning-talks
 author: warren
 path: /notes/warren/11-21-2015/barnraising-lightning-talks.md

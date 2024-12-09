@@ -1,5 +1,5 @@
 ---
-title: Cannot find colour spectrum
+title: 'Cannot find colour spectrum'
 tagnames: question:spectral-workbench
 author: SpencerH
 path: /notes/SpencerH/03-13-2017/cannot-find-colour-spectrum.md

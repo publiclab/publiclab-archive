@@ -1,5 +1,5 @@
 ---
-title: Historical Chart Of Odor Complaints for VVAMP
+title: 'Historical Chart Of Odor Complaints for VVAMP'
 tagnames: california, database, air-quality, bucket, environmental-advocacy, with:sarasage, community-voice, VVAMP, air-sample
 author: denissebn_06
 path: /notes/denissebn_06/10-04-2021/historical-chart-of-odor-complaints-for-vvamp.md

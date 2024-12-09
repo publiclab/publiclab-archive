@@ -1,5 +1,5 @@
 ---
-title: Bayou St John, first sproutings and west protection berm
+title: 'Bayou St John, first sproutings and west protection berm'
 tagnames: gulf-coast, kite-mapping, wetlands, eustatic, dredgefestla, bsj, dredgefest, response:10344, lat:29.997796, lon:-90.085229, place:bayou-st-john
 author: eustatic
 path: /06-23-2014/bayou-st-john-first-sproutings-and-west-protection-berm.md

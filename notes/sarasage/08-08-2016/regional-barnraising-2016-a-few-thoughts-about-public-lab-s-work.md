@@ -1,5 +1,5 @@
 ---
-title: Regional Barnraising 2016: A Few Thoughts About Public Lab's Work
+title: 'Regional Barnraising 2016: A Few Thoughts About Public Lab's Work'
 tagnames: landfill, barnraising, blog, val-verde, socalwastestream, first-time-poster
 author: sarasage
 path: /notes/sarasage/08-08-2016/regional-barnraising-2016-a-few-thoughts-about-public-lab-s-work.md

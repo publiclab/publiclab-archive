@@ -1,5 +1,5 @@
 ---
-title: Recent improvements to PublicLab.org
+title: 'Recent improvements to PublicLab.org'
 tagnames: website, plots2, developers, code, upgrades, features
 author: warren
 path: /notes/warren/07-16-2014/recent-improvements-to-publiclab-org.md

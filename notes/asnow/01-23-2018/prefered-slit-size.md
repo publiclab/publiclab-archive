@@ -1,5 +1,5 @@
 ---
-title: Preferred slit size?
+title: 'Preferred slit size?'
 tagnames: spectrometry, slit, question:spectrometry, slit-width, slit-width-comparison, spectrometry-challenge
 author: asnow
 path: /notes/asnow/01-23-2018/prefered-slit-size.md

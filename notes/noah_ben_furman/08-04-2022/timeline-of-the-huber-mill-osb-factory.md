@@ -1,5 +1,5 @@
 ---
-title: Timeline of the Huber Mill OSB Factory
+title: 'Timeline of the Huber Mill OSB Factory'
 tagnames: lat:47, zoom:8, mn-land-manoomin-protection, lon:-93
 author: noah_ben_furman
 path: /notes/noah_ben_furman/08-04-2022/timeline-of-the-huber-mill-osb-factory.md

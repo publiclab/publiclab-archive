@@ -1,5 +1,5 @@
 ---
-title: Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python
+title: 'Image + Video Segmentation in Near-Infrared Using HSV Color Spaces with OpenCV in Python'
 tagnames: ndvi, infrared, uav, mapping, plants, camera, vegetation, environment, drone, monitoring, coding, detection, python, project, lat:28, image, zoom:6, lon:-15
 author: ektopyrotic
 path: /notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-using-hsv-color-spaces-with-opencv-in-python.md

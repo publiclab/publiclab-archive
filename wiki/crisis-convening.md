@@ -1,5 +1,5 @@
 ---
-title: Crisis Convening
+title: 'Crisis Convening'
 tagnames: barnraising, newark, new-jersey, parent:barnraising
 author: devinb
 path: /wiki/crisis-convening.md

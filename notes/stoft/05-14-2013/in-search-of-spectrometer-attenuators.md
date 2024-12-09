@@ -1,5 +1,5 @@
 ---
-title: In Search of Spectrometer Attenuators
+title: 'In Search of Spectrometer Attenuators'
 tagnames: spectrometer, intensity-calibration, desktop-spectrometry-kit, slit, improvements, focus, response:7226, response:7507, hdr, attenuation
 author: stoft
 path: /notes/stoft/05-14-2013/in-search-of-spectrometer-attenuators.md

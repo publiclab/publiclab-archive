@@ -1,5 +1,5 @@
 ---
-title: Story Of Oil Field Worker's Death linked to VOCs
+title: 'Story Of Oil Field Worker's Death linked to VOCs'
 tagnames: hydrogen-sulfide-sensing
 author: sara
 path: /notes/sara/7-18-2012/story-oil-field-workers-death-linked-vocs.md

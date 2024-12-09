@@ -1,5 +1,5 @@
 ---
-title: When is litmus paper not good enough for measuring pH?
+title: 'When is litmus paper not good enough for measuring pH?'
 tagnames: answered, question:ph, question:ph-testing
 author: liz
 path: /notes/liz/09-22-2017/when-is-litmus-paper-not-good-enough-for-measuring-ph.md

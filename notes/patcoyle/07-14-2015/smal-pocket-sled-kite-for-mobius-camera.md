@@ -1,5 +1,5 @@
 ---
-title: Preliminary testing of small pocket sled kite for Mobius camera
+title: 'Preliminary testing of small pocket sled kite for Mobius camera'
 tagnames: kap, sled-kite, mobius-actioncam, barnstar:basic
 author: patcoyle
 path: /notes/patcoyle/07-14-2015/smal-pocket-sled-kite-for-mobius-camera.md

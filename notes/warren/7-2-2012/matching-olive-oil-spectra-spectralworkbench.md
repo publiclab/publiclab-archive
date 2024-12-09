@@ -1,5 +1,5 @@
 ---
-title: Matching olive oil spectra in SpectralWorkbench
+title: 'Matching olive oil spectra in SpectralWorkbench'
 tagnames: spectrometer, spectrum-matching, spectralworkbench, matching, olive-oil
 author: warren
 path: /notes/warren/7-2-2012/matching-olive-oil-spectra-spectralworkbench.md

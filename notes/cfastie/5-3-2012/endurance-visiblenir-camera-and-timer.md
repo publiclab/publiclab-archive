@@ -1,5 +1,5 @@
 ---
-title: Endurance of visible/NIR camera and timer
+title: 'Endurance of visible/NIR camera and timer'
 tagnames: near-infrared-camera, triggering, troubleshooting
 author: cfastie
 path: /notes/cfastie/5-3-2012/endurance-visiblenir-camera-and-timer.md

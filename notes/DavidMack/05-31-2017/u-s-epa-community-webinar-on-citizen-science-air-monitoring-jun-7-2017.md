@@ -1,5 +1,5 @@
 ---
-title: U.S. EPA Community Webinar on Citizen Science Air Monitoring: Jun 7, 2017
+title: 'U.S. EPA Community Webinar on Citizen Science Air Monitoring: Jun 7, 2017'
 tagnames: event
 author: DavidMack
 path: /notes/DavidMack/05-31-2017/u-s-epa-community-webinar-on-citizen-science-air-monitoring-jun-7-2017.md

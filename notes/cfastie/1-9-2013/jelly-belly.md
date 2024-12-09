@@ -1,5 +1,5 @@
 ---
-title: Jelly Belly
+title: 'Jelly Belly'
 tagnames: spectrometer, mobile-phone-camera, fold-up-mini-spectrometer, spectrometer-calibration
 author: cfastie
 path: /notes/cfastie/1-9-2013/jelly-belly.md

@@ -1,5 +1,5 @@
 ---
-title: Does anyone know the upper spectrum range of the Pi NoIR Camera V2?
+title: 'Does anyone know the upper spectrum range of the Pi NoIR Camera V2?'
 tagnames: ndvi, nir, infrared, agriculture, water, canada, question:ndvi, question:infrared, question:general, general, noir, first-time-poster, caj, pwi, dwsi
 author: justin_bauer
 path: /notes/justin_bauer/06-02-2020/does-anyone-know-the-upper-spectrum-range-of-the-pi-noir-camera-v2.md

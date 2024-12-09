@@ -1,5 +1,5 @@
 ---
-title: How can one Infragram photo produce different NDVI results?
+title: 'How can one Infragram photo produce different NDVI results?'
 tagnames: ndvi, infrared, infragram, question:infragram
 author: cfastie
 path: /notes/cfastie/12-05-2015/how-can-one-infragram-photo-produce-different-ndvi-results.md

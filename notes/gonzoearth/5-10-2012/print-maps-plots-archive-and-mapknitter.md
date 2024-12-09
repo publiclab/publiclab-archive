@@ -1,5 +1,5 @@
 ---
-title: Print maps from the PLOTS Archive and MapKnitter
+title: 'Print maps from the PLOTS Archive and MapKnitter'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/5-10-2012/print-maps-plots-archive-and-mapknitter.md

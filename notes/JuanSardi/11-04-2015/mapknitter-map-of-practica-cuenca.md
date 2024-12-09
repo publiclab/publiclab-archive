@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Practica Cuenca 
+title: 'MapKnitter map of Practica Cuenca '
 tagnames: mapknitter, lat:-2.9015475218, lon:-79.0097558498, llactalab
 author: JuanSardi
 path: /notes/JuanSardi/11-04-2015/mapknitter-map-of-practica-cuenca.md

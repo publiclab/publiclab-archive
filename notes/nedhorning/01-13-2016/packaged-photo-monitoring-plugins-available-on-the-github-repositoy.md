@@ -1,5 +1,5 @@
 ---
-title: Packaged photo monitoring plugins available on the GitHub repositoy
+title: 'Packaged photo monitoring plugins available on the GitHub repositoy'
 tagnames: remote-sensing, imagej, fiji, barnstar:basic
 author: nedhorning
 path: /notes/nedhorning/01-13-2016/packaged-photo-monitoring-plugins-available-on-the-github-repositoy.md

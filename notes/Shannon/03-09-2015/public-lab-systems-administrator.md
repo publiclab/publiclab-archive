@@ -1,5 +1,5 @@
 ---
-title: Public Lab: Systems Administrator
+title: 'Public Lab: Systems Administrator'
 tagnames: nonprofit, jobs
 author: Shannon
 path: /notes/Shannon/03-09-2015/public-lab-systems-administrator.md

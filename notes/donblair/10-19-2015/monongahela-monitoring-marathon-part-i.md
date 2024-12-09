@@ -1,5 +1,5 @@
 ---
-title: Monongahela Monitoring Marathon - Part I
+title: 'Monongahela Monitoring Marathon - Part I'
 tagnames: riffle, riffle-examples
 author: donblair
 path: /notes/donblair/10-19-2015/monongahela-monitoring-marathon-part-i.md

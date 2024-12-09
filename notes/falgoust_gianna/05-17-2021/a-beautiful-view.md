@@ -1,5 +1,5 @@
 ---
-title: A beautiful view! 
+title: 'A beautiful view! '
 tagnames: first-time-poster, zoom:0, lat:0.296924, lon:0.15625, chipmunkscityparkproject
 author: falgoust_gianna
 path: /notes/falgoust_gianna/05-17-2021/a-beautiful-view.md

@@ -1,5 +1,5 @@
 ---
-title: EPA awards brownfield cleanup funding to Portlard project
+title: 'EPA awards brownfield cleanup funding to Portlard project'
 tagnames: portland, epa
 author: gonzoearth
 path: /notes/gonzoearth/6-8-2011/epa-awards-brownfield-cleanup-funding-portlard-project.md

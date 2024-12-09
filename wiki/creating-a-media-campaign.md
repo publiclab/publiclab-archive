@@ -1,5 +1,5 @@
 ---
-title: Creating a Media Campaign
+title: 'Creating a Media Campaign'
 tagnames: media, organizing, tool, methods, advocacy, strategy, campaign, method, community-organizing
 author: stevie
 path: /wiki/creating-a-media-campaign.md

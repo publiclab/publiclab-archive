@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Bayou Savage 1 makarovich
+title: 'MapKnitter map of Bayou Savage 1 makarovich'
 tagnames: mapknitter, lat:30.0492174934, lon:-89.8750627041
 author: hmakarovich
 path: /notes/hmakarovich/11-04-2016/mapknitter-map-of-bayou-savage-1-makarovich.md

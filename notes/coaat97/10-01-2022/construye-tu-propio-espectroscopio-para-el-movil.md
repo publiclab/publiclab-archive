@@ -1,5 +1,5 @@
 ---
-title: Construye tu propio espectroscopio para el móvil
+title: 'Construye tu propio espectroscopio para el móvil'
 tagnames: lang:es, blog-submission, papercraft-spectrometer, first-time-poster, zoom:6, zoom:13, response:26745, espectroscopio, lat:37.422525, lon:-6.064453, lat:37.41, lon:-6.07
 author: coaat97
 path: /notes/coaat97/10-01-2022/construye-tu-propio-espectroscopio-para-el-movil.md

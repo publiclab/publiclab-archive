@@ -1,5 +1,5 @@
 ---
-title: Mashapaug Pond
+title: 'Mashapaug Pond'
 tagnames: location:blurred, lat:41.79, unearthing-pvd, unearthing-pvd-sites, lon:-71.43
 author: warren
 path: /notes/warren/11-16-2019/mashapaug-pond.md

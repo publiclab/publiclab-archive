@@ -1,5 +1,5 @@
 ---
-title: What could teenagers do to support Harvey response efforts?
+title: 'What could teenagers do to support Harvey response efforts?'
 tagnames: answered, harvey, question:harvey, teenagers
 author: warren
 path: /notes/warren/09-07-2017/what-could-teenagers-do-to-support-harvey-response-efforts.md

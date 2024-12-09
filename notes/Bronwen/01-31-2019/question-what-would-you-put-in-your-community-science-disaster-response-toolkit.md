@@ -1,5 +1,5 @@
 ---
-title: Question: What would you put in your Community Science Disaster Response Toolkit?
+title: 'Question: What would you put in your Community Science Disaster Response Toolkit?'
 tagnames: emergency, question:emergency-response, question:question:toolkit, question:crisis-response, question:rmediation, txbarnraising
 author: Bronwen
 path: /notes/Bronwen/01-31-2019/question-what-would-you-put-in-your-community-science-disaster-response-toolkit.md

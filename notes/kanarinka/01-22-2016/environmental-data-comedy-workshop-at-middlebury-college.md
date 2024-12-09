@@ -1,5 +1,5 @@
 ---
-title: Environmental Data Comedy workshop at Middlebury College
+title: 'Environmental Data Comedy workshop at Middlebury College'
 tagnames: water-quality-monitoring, water-quality, riffle, coqui, riffle-examples
 author: kanarinka
 path: /notes/kanarinka/01-22-2016/environmental-data-comedy-workshop-at-middlebury-college.md

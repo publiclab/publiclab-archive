@@ -1,5 +1,5 @@
 ---
-title: Anyone working on software to calculate CRI of LED light sources? 
+title: 'Anyone working on software to calculate CRI of LED light sources? '
 tagnames: question:spectrometer, first-time-poster
 author: FineArtLight
 path: /notes/FineArtLight/05-02-2018/anyone-working-on-software-to-calculate-cri-of-led-light-sources.md

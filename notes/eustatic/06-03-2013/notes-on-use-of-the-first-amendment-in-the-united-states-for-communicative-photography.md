@@ -1,5 +1,5 @@
 ---
-title: Notes on use of the first amendment in the United States for communicative photography
+title: 'Notes on use of the first amendment in the United States for communicative photography'
 tagnames: balloon-mapping, kite-mapping, evidence, legal, unitedbulk, photographers-rights, free-speech, response:7945, court, first-amendment, law-and-policy
 author: eustatic
 path: /06-03-2013/notes-on-use-of-the-first-amendment-in-the-united-states-for-communicative-photography.md

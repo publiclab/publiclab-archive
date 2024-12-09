@@ -1,5 +1,5 @@
 ---
-title: Drone Archaeology | Tomb Hunting Using NDVI, NIR Threshold with Bitwise NOT in Python
+title: 'Drone Archaeology | Tomb Hunting Using NDVI, NIR Threshold with Bitwise NOT in Python'
 tagnames: ndvi, infrared, image-processing, archaeology, mapping, near-infrared, drone, aerial, python, github, ireland, zoom:6, lat:53, contour, plot, tomb, lon:-7
 author: ektopyrotic
 path: /notes/ektopyrotic/01-03-2022/drone-archaeology-tomb-hunting-using-ndvi-nir-threshold-with-bitwise-not-in-python.md

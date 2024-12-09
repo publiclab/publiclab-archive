@@ -1,5 +1,5 @@
 ---
-title: Building a DustDuino -- My first Arduino project
+title: 'Building a DustDuino -- My first Arduino project'
 tagnames: arduino, diy, air-quality, sensors, dustduino, shinyei, activity:shinyei, activity:dustduino, activity:pm, activity:particulate-monitoring, activity:arduino, replication:9818, air-sensors
 author: MeganKierstead
 path: /notes/MeganKierstead/11-10-2015/building-a-dustduino-my-first-arduino-project.md

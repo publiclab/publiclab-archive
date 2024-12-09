@@ -1,5 +1,5 @@
 ---
-title: Smartphone Spectrometer and Infragram Webcam photoshoot
+title: 'Smartphone Spectrometer and Infragram Webcam photoshoot'
 tagnames: infragram, smartphone-spectrometer, spectro
 author: warren
 path: /notes/warren/11-08-2013/smartphone-spectrometer-and-infragram-webcam-photoshoot.md

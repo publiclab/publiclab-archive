@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (139 Point Street)
+title: 'Art in Ruins (139 Point Street)'
 tagnames: hidden:response, zoom:16, unearthing-pvd-stories, lat:41.815988, lon:-71.40881938, lon:-71.408819, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/further-information-139-point-street.md

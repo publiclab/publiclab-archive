@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST Aeropod flight
+title: 'LEAFFEST Aeropod flight'
 tagnames: air-column-monitor, nasa, kite, leaffest, anemometer, wind-speed-meter, wind-sensor, series:diy-wind-sensors, leaffest2017, wind-speed, aeropod, atmospheric-profile, response:14968, activity:wind-speed
 author: cfastie
 path: /notes/cfastie/10-03-2017/leaffest-aeropod-flight.md

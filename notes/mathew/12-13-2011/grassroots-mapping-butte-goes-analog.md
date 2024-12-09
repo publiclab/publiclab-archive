@@ -1,5 +1,5 @@
 ---
-title: Grassroots Mapping in Butte Goes Analog
+title: 'Grassroots Mapping in Butte Goes Analog'
 tagnames: annotated-maps, idealab, land-use, zoning, centerville, mountain-west, montana, reclamation
 author: mathew
 path: /notes/mathew/12-13-2011/grassroots-mapping-butte-goes-analog.md

@@ -1,5 +1,5 @@
 ---
-title: Newtown Creek Alliance public meeting
+title: 'Newtown Creek Alliance public meeting'
 tagnames: new-york-city, newtown-creek, event, superfund, northeast, event:rsvp, date:11-18-2014
 author: liz
 path: /notes/liz/11-18-2014/newtown-creek-alliance-public-meeting.md

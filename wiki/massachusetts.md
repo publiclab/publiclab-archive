@@ -1,5 +1,5 @@
 ---
-title: massachusetts
+title: 'massachusetts'
 tagnames: parent:northeast
 author: Hudonnoodles
 path: /wiki/massachusetts.md

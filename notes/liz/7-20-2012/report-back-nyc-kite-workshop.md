@@ -1,5 +1,5 @@
 ---
-title: Report back on NYC Kite Workshop
+title: 'Report back on NYC Kite Workshop'
 tagnames: balloon-mapping, kite-mapping, ilab
 author: liz
 path: /notes/liz/7-20-2012/report-back-nyc-kite-workshop.md

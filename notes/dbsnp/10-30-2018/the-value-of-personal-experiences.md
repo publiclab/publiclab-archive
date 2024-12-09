@@ -1,5 +1,5 @@
 ---
-title: The value of personal experiences
+title: 'The value of personal experiences'
 tagnames: central-america, barnraiser, storytelling, disaster-response, location:blurred, lon:-88, crisis-convening, barnraising-newark-2018, el-salvador, lat:13
 author: dbsnp
 path: /notes/dbsnp/10-30-2018/the-value-of-personal-experiences.md

@@ -1,5 +1,5 @@
 ---
-title: DIY cotton candy maker
+title: 'DIY cotton candy maker'
 tagnames: air-column-monitor, diy-bio, microbes, activity:cotton-candy, activity:microbes, first-time-poster
 author: kosamari
 path: /notes/kosamari/11-14-2012/diy-cotton-candy-maker-0.md

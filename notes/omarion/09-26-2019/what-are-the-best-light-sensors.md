@@ -1,5 +1,5 @@
 ---
-title: what are the best light sensors?
+title: 'what are the best light sensors?'
 tagnames: sensing, question:spectrometry, sensor, question:general, question:sensor, wateristic, question:wateristic, wateristics, question:led, question:light, with:amallozzi
 author: omarion
 path: /notes/omarion/09-26-2019/what-are-the-best-light-sensors.md

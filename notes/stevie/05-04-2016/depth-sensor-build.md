@@ -1,5 +1,5 @@
 ---
-title: Depth Sensor Build!
+title: 'Depth Sensor Build!'
 tagnames: gulf-coast, event, neworleans, depth, event:gulf-coast
 author: stevie
 path: /notes/stevie/05-04-2016/depth-sensor-build.md

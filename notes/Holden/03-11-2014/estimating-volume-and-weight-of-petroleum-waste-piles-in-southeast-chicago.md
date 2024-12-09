@@ -1,5 +1,5 @@
 ---
-title: Estimating Volume and Weight of Petroleum Waste Piles in Southeast Chicago
+title: 'Estimating Volume and Weight of Petroleum Waste Piles in Southeast Chicago'
 tagnames: balloon-mapping, landfill, waste, petcoke, petroleum-coke, chicago, response:9977, volume, midwest, first-time-poster
 author: holden
 path: /notes/Holden/03-11-2014/estimating-volume-and-weight-of-petroleum-waste-piles-in-southeast-chicago.md

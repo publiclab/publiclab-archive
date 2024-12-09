@@ -1,5 +1,5 @@
 ---
-title: Call for plotsbot behaviors
+title: 'Call for plotsbot behaviors'
 tagnames: google-summer-of-code, plotsbot
 author: ryzokuken
 path: /notes/ryzokuken/08-18-2017/call-for-plotsbot-behaviors.md

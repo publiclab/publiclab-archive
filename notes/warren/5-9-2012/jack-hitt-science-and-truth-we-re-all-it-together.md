@@ -1,5 +1,5 @@
 ---
-title: Jack Hitt: Science and Truth: We’re All in It Together
+title: 'Jack Hitt: Science and Truth: We’re All in It Together'
 tagnames: 
 author: warren
 path: /notes/warren/5-9-2012/jack-hitt-science-and-truth-we-re-all-it-together.md

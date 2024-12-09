@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight REVA reading changes over distance
+title: 'Thermal Flashlight REVA reading changes over distance'
 tagnames: thermal-photography, arduino, thermal-flashlight, thermal-fishing, thermal-fishing-bob, pcb, response:10094
 author: sekjal
 path: /notes/sekjal/04-15-2014/thermal-flashlight-reva-reading-changes-over-distance.md

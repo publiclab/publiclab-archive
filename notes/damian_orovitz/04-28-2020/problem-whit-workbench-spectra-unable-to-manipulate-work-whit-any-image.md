@@ -1,5 +1,5 @@
 ---
-title: Problem whit workbench spectra. Unable to manipulate(work) whit any image
+title: 'Problem whit workbench spectra. Unable to manipulate(work) whit any image'
 tagnames: spectrometer, spectrometry, spectral-workbench, question:spectrometer, question:spectrometry, question:spectral-workbench, first-time-poster
 author: damian_orovitz
 path: /notes/damian_orovitz/04-28-2020/problem-whit-workbench-spectra-unable-to-manipulate-work-whit-any-image.md

@@ -1,5 +1,5 @@
 ---
-title: Detecting wastewater pollution
+title: 'Detecting wastewater pollution'
 tagnames: sewage, water-quality, stormwater, wastewater, method, detecting-wastewater, detecting-wastewater-method, parent:wastewater
 author: bhamster
 path: /wiki/detecting-wastewater.md

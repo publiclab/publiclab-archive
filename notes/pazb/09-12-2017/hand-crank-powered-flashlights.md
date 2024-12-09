@@ -1,5 +1,5 @@
 ---
-title: Hand-crank powered flashlights 
+title: 'Hand-crank powered flashlights '
 tagnames: workshops, energy, barnstar:basic, flashlight, motor, activity:kids, activity:education, activity:science-fair, activity:energy, kids, workshop-formats, activity:classroom, activity:field-studies
 author: pazb
 path: /notes/pazb/09-12-2017/hand-crank-powered-flashlights.md

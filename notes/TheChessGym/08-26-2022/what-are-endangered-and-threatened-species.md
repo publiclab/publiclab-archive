@@ -1,5 +1,5 @@
 ---
-title: What Are Endangered and Threatened Species? 
+title: 'What Are Endangered and Threatened Species? '
 tagnames: first-time-poster, lat:20, lon:70, zoom:5
 author: TheChessGym
 path: /notes/TheChessGym/08-26-2022/what-are-endangered-and-threatened-species.md

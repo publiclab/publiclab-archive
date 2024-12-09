@@ -1,5 +1,5 @@
 ---
-title: Stitched panoramas from the PLOTS IR camera tool
+title: 'Stitched panoramas from the PLOTS IR camera tool'
 tagnames: near-infrared-camera, nrg, ndvi, nir, gigapan
 author: cfastie
 path: /notes/cfastie/5-8-2012/stitched-panoramas-plots-ir-camera-tool.md

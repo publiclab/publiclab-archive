@@ -1,5 +1,5 @@
 ---
-title: Thermal flashlight with supply list links
+title: 'Thermal flashlight with supply list links'
 tagnames: 
 author: Shannon
 path: /notes/shannon/1-27-2012/thermal-flashlight-supply-list-links.md

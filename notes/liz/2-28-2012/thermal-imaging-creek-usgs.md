@@ -1,5 +1,5 @@
 ---
-title: Thermal imaging of creek by USGS
+title: 'Thermal imaging of creek by USGS'
 tagnames: 
 author: liz
 path: /notes/liz/2-28-2012/thermal-imaging-creek-usgs.md

@@ -1,5 +1,5 @@
 ---
-title: Background on Frac Sand
+title: 'Background on Frac Sand'
 tagnames: parent:frac-sand
 author: gretchengehrke
 path: /wiki/nonmetallicmining.md

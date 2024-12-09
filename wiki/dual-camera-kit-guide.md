@@ -1,5 +1,5 @@
 ---
-title: Dual Camera Kit Guide
+title: 'Dual Camera Kit Guide'
 tagnames: near-infrared-camera, infrared, dual-camera, photo-rig
 author: warren
 path: /wiki/dual-camera-kit-guide.md

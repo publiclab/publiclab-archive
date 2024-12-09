@@ -1,5 +1,5 @@
 ---
-title: Mini Cameras
+title: 'Mini Cameras'
 tagnames: infragram, gopro, mini-camera, gitup
 author: warren
 path: /wiki/mini-cameras.md

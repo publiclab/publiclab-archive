@@ -1,5 +1,5 @@
 ---
-title: Is anyone working on the reception of satellite imagery using ham radio methods?
+title: 'Is anyone working on the reception of satellite imagery using ham radio methods?'
 tagnames: weather, radio, question:general, general, noaa, satellite, first-time-poster, hamradio, satelliteimagery
 author: sashae
 path: /notes/sashae/05-15-2020/is-anyone-working-on-the-reception-of-satellite-imagery-using-ham-radio-methods.md

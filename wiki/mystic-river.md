@@ -1,5 +1,5 @@
 ---
-title: Mystic River
+title: 'Mystic River'
 tagnames: somerville-massachusetts, boston, pvos, conductivity, ioby, mystic-river, style:nobanner
 author: donblair
 path: /wiki/mystic-river.md

@@ -1,5 +1,5 @@
 ---
-title: Is anyone here working on light pollution? Measuring,mapping, etc? 
+title: 'Is anyone here working on light pollution? Measuring,mapping, etc? '
 tagnames: question:general
 author: MadTinker
 path: /notes/MadTinker/08-25-2019/is-anyone-here-working-on-light-pollution-measuring-mapping-etc.md

@@ -1,5 +1,5 @@
 ---
-title: Description: Horwell et. al. 2004 Experimental Set for Testing Photopaper test strips
+title: 'Description: Horwell et. al. 2004 Experimental Set for Testing Photopaper test strips'
 tagnames: hydrogen-sulfide-sensing, h2s, photo-paper, h2s-photopaper
 author: sara
 path: /notes/sara/3-30-2012/description-horwell-et-al-2004-experimental-set-testing-photopaper-test-strips.md

@@ -1,5 +1,5 @@
 ---
-title: WATERCHESTNUT Big Picture
+title: 'WATERCHESTNUT Big Picture'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, vermont, vegetation-mapping, lake, pvos, event, massachusetts, invasive, umass-amherst, aquatic, usfws, classification, h2onutz, invasive-species, pioneer-valley
 author: cfastie
 path: /notes/cfastie/07-23-2013/waterchestnut-big-picture.md

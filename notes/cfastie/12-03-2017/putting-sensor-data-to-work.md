@@ -1,5 +1,5 @@
 ---
-title: Putting sensor data to work
+title: 'Putting sensor data to work'
 tagnames: arduino, temperature, datalogger, barnstar:photo-documentation, data-logging, activity:data-logging, feather, thermal-infrared, gy90614, relay, activity:feather, series:woodstove-control
 author: cfastie
 path: /notes/cfastie/12-03-2017/putting-sensor-data-to-work.md

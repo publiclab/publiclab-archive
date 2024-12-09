@@ -1,5 +1,5 @@
 ---
-title: Linear CCD
+title: 'Linear CCD'
 tagnames: spectrometer, linearccd
 author: borsaci06
 path: /notes/borsaci06/02-01-2014/linear-ccd.md

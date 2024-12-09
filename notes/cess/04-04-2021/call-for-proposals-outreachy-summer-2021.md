@@ -1,5 +1,5 @@
 ---
-title: Call for Proposals: Outreachy Summer 2021
+title: 'Call for Proposals: Outreachy Summer 2021'
 tagnames: with:warren, with:liz, seeks:responses, soc, outreachy, call-for-proposals, zoom:6, with:ruthnwaiganjo, outreachy-2021
 author: cess
 path: /notes/cess/04-04-2021/call-for-proposals-outreachy-summer-2021.md

@@ -1,5 +1,5 @@
 ---
-title: Blue Pennant 1/11/22
+title: 'Blue Pennant 1/11/22'
 tagnames: drones, west-virginia, coal, land-use, wv, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/01-11-2022/blue-pennant-1-11-22.md

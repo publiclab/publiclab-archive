@@ -1,5 +1,5 @@
 ---
-title: Determining wind direction with a kite and compass
+title: 'Determining wind direction with a kite and compass'
 tagnames: kite-mapping, anemometer, wind-speed-meter, with:gretchengehrke, kite-anemometer, with:marlokeno, activity:kite-anemometer, wind-speed, activity:wind-speed
 author: mathew
 path: /notes/mathew/04-28-2017/determining-wind-direction-with-a-kite-and-compass.md

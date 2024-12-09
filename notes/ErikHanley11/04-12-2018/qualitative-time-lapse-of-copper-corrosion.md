@@ -1,5 +1,5 @@
 ---
-title: Qualitative Time Lapse of Copper Corrosion
+title: 'Qualitative Time Lapse of Copper Corrosion'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, barnstar:basic, barnstar:empiricism, h2s-copper-pipe, activity:h2s, activity:hydrogen-sulfide, activity:h2s-copper-pipe, copper-rods, qualitative, replication:15142
 author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/qualitative-time-lapse-of-copper-corrosion.md

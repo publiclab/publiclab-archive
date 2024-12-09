@@ -1,5 +1,5 @@
 ---
-title: Computer vision  microscope observations of Elodea plant cells
+title: 'Computer vision  microscope observations of Elodea plant cells'
 tagnames: raspberry-pi, barnstar:basic, microscope, computer-vision, gsoc-2018, color-filter
 author: MaggPi
 path: /notes/MaggPi/08-14-2018/computer-vision-observations-of-elodea-plant-cells.md

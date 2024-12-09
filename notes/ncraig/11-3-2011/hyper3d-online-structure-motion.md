@@ -1,5 +1,5 @@
 ---
-title: Hypr3D: Online Structure from Motion
+title: 'Hypr3D: Online Structure from Motion'
 tagnames: first-time-poster
 author: ncraig
 path: /notes/ncraig/11-3-2011/hyper3d-online-structure-motion.md

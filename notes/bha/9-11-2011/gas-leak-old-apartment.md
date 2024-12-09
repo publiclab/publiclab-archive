@@ -1,5 +1,5 @@
 ---
-title: The gas leak from an old apartment.
+title: 'The gas leak from an old apartment.'
 tagnames: indoor-air-quality-mapping, first-time-poster
 author: bha
 path: /notes/bha/9-11-2011/gas-leak-old-apartment.md

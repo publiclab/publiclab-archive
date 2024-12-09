@@ -1,5 +1,5 @@
 ---
-title: New Google Maps republication of Public Lab maps
+title: 'New Google Maps republication of Public Lab maps'
 tagnames: balloon-mapping, new-hampshire, farmhack, archive, lee-nh, google-maps
 author: warren
 path: /notes/warren/04-20-2013/new-google-maps-republication-of-public-lab-maps.md

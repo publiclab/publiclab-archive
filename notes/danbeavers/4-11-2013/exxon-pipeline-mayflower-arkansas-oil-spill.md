@@ -1,5 +1,5 @@
 ---
-title: Exxon Pipeline Mayflower Arkansas Oil Spill 
+title: 'Exxon Pipeline Mayflower Arkansas Oil Spill '
 tagnames: oil-spill, oil, exxon, mayflower-ar, tar-sands, pipeline, oil-and-gas
 author: danbeavers
 path: /notes/danbeavers/4-11-2013/exxon-pipeline-mayflower-arkansas-oil-spill.md

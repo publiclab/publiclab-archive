@@ -1,5 +1,5 @@
 ---
-title: PiCamera filter mounting system.
+title: 'PiCamera filter mounting system.'
 tagnames: raspberry-pi, barnstar:basic, pi-camera, raspberry-pi-infragram, activity:raspberry-pi-infragram
 author: wln215
 path: /notes/wln215/08-25-2020/picamera-filter-mounting-system.md

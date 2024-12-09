@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping in Berlin
+title: 'Balloon Mapping in Berlin'
 tagnames: event
 author: clauds
 path: /notes/clauds/08-22-2016/balloon-mapping-in-berlin.md

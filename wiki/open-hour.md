@@ -1,5 +1,5 @@
 ---
-title: open-hour
+title: 'open-hour'
 tagnames: redirect:10388
 author: liz
 path: /wiki/open-hour.md

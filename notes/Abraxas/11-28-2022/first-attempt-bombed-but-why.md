@@ -1,5 +1,5 @@
 ---
-title: First Attempt Bombed... But Why ?
+title: 'First Attempt Bombed... But Why ?'
 tagnames: spectrometer, spectrometry, first-time-poster
 author: Abraxas
 path: /notes/Abraxas/11-28-2022/first-attempt-bombed-but-why.md

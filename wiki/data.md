@@ -1,5 +1,5 @@
 ---
-title: Data
+title: 'Data'
 tagnames: 
 author: warren
 path: /wiki/data.md

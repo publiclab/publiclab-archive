@@ -1,5 +1,5 @@
 ---
-title: Public Lab Workshop at the Sunview Luncheonette
+title: 'Public Lab Workshop at the Sunview Luncheonette'
 tagnames: new-york-city, oil, event, spill, nyc, creek, event:rsvp, rsvp:warren, rsvp:bronwen, rsvp:liz, otk, newtown, beta, oak, greenpoint, dep, date:02-13-2016, rsvp:englishkillsproject, rsvp:nicholas, rsvp:ianbarbour
 author: Matej
 path: /notes/Matej/02-04-2016/public-lab-workshop-at-the-subview-luncheonette.md

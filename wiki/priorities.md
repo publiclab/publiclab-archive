@@ -1,5 +1,5 @@
 ---
-title: Priorities
+title: 'Priorities'
 tagnames: 
 author: warren
 path: /wiki/priorities.md

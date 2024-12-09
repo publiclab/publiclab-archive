@@ -1,5 +1,5 @@
 ---
-title: Carbon and Oxygen Cycles 
+title: 'Carbon and Oxygen Cycles '
 tagnames: first-time-poster, lat:20, lon:70, zoom:5
 author: TheChessGym
 path: /notes/TheChessGym/10-07-2022/carbon-and-oxygen-cycles.md

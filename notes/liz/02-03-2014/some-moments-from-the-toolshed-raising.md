@@ -1,5 +1,5 @@
 ---
-title: Some moments from the Toolshed Raising
+title: 'Some moments from the Toolshed Raising'
 tagnames: boston, toolshed-raising, great-photos
 author: liz
 path: /notes/liz/02-03-2014/some-moments-from-the-toolshed-raising.md

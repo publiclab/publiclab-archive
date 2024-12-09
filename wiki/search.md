@@ -1,5 +1,5 @@
 ---
-title: Search
+title: 'Search'
 tagnames: search, style:nobanner, style:minimal
 author: warren
 path: /wiki/search.md

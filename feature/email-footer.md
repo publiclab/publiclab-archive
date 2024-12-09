@@ -1,5 +1,5 @@
 ---
-title: email-footer
+title: 'email-footer'
 tagnames: 
 author: warren
 path: /feature/email-footer.md

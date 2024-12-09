@@ -1,5 +1,5 @@
 ---
-title: Join a Citizen Science + Climate Change Monitoring Project
+title: 'Join a Citizen Science + Climate Change Monitoring Project'
 tagnames: remote-sensing, education, citizen-science, participation, air-quality, climate-change, first-time-poster, lat:30.267153, lon:-97.74306, zoom:2, greehouse-gas
 author: agentpesnot
 path: /notes/agentpesnot/08-03-2022/join-a-citizen-science-climate-change-monitoring-project.md

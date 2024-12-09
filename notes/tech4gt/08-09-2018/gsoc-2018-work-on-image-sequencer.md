@@ -1,5 +1,5 @@
 ---
-title: GSOC 2018 Work on Image Sequencer
+title: 'GSOC 2018 Work on Image Sequencer'
 tagnames: software, gsoc, code, soc, gsoc-2018, soc-2018, image-sequencer, soc-2018-final, soc-2018-final-report
 author: tech4gt
 path: /notes/tech4gt/08-09-2018/gsoc-2018-work-on-image-sequencer.md

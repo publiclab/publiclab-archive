@@ -1,5 +1,5 @@
 ---
-title: [reference] "Carbon Bombs" or "Climate Bombs" --EcoFys analysis for Greenpeace
+title: '[reference] "Carbon Bombs" or "Climate Bombs" --EcoFys analysis for Greenpeace'
 tagnames: gulf-coast, research, blog, climate-change, climate, global-climate-change, cop21, carbonbomb, reference, greenpeace
 author: eustatic
 path: /01-13-2016/reference-carbon-bombs-or-climate-bombs-ecofys-analysis-for-greenpeace.md

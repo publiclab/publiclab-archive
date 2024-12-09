@@ -1,5 +1,5 @@
 ---
-title: balloon mapping review
+title: 'balloon mapping review'
 tagnames: 
 author: gonzoearth
 path: /wiki/balloon-mapping-review.md

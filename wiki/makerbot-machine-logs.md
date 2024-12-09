@@ -1,5 +1,5 @@
 ---
-title: Makerbot machine logs
+title: 'Makerbot machine logs'
 tagnames: 3d-printing, makerbot, 2, 1
 author: cfastie
 path: /wiki/makerbot-machine-logs.md

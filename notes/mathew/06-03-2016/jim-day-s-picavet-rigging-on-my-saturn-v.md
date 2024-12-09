@@ -1,5 +1,5 @@
 ---
-title: Jim Day's Picavet rigging on my Saturn V
+title: 'Jim Day's Picavet rigging on my Saturn V'
 tagnames: kite-mapping, picavet, kite-aerial-photography, photo-rig, kap-rigs
 author: mathew
 path: /notes/mathew/06-03-2016/jim-day-s-picavet-rigging-on-my-saturn-v.md

@@ -1,5 +1,5 @@
 ---
-title: Announcing MapKnitter 2.0
+title: 'Announcing MapKnitter 2.0'
 tagnames: balloon-mapping, kite-mapping, grassrootsmapping, mapknitter, image-stitching, web-development, software, grassrootsmappingforum, gsoc, developers, gsoc-2014, stitching, mapknitter2, gmf-8
 author: warren
 path: /notes/warren/02-13-2015/announcing-mapknitter-2-0.md

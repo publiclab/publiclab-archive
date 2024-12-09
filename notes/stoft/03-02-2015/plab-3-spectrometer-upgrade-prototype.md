@@ -1,5 +1,5 @@
 ---
-title: PLab 3 Spectrometer Upgrade Prototype
+title: 'PLab 3 Spectrometer Upgrade Prototype'
 tagnames: spectrometer, barnstar:basic, spec-3, upgrade:spectrometry, upgrade:dssk, www.runsupplies.com, www.bitsnano.com
 author: stoft
 path: /notes/stoft/03-02-2015/plab-3-spectrometer-upgrade-prototype.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC"proposal: Full-screen UI and video upload 
+title: 'GSoC"proposal: Full-screen UI and video upload '
 tagnames: software, gsoc, soc, first-time-poster, gsoc-2022, gsoc-2022-proposals
 author: abhishekchauhan1509
 path: /notes/abhishekchauhan1509/04-17-2022/gsoc-proposal-full-screen-ui-and-video-upload.md

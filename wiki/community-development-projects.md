@@ -1,5 +1,5 @@
 ---
-title: community development projects
+title: 'community development projects'
 tagnames: 
 author: liz
 path: /wiki/community-development-projects.md

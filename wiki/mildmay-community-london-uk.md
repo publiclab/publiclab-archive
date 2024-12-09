@@ -1,5 +1,5 @@
 ---
-title: Mildmay community, London UK
+title: 'Mildmay community, London UK'
 tagnames: london, uk, excites, chapter, mildmay, lat:51.550578, lon:-0.082033, eu
 author: Shannon
 path: /wiki/mildmay-community-london-uk.md

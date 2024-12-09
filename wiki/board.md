@@ -1,5 +1,5 @@
 ---
-title: Board of Directors
+title: 'Board of Directors'
 tagnames: nonprofit, board, parent:about, locked, nosidebar
 author: warren
 path: /wiki/board.md

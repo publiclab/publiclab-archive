@@ -1,5 +1,5 @@
 ---
-title: Butte
+title: 'Butte'
 tagnames: chapter, parent:northwest, montana
 author: mathew
 path: /wiki/butte.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of FLC Wetland MO-1
+title: 'MapKnitter map of FLC Wetland MO-1'
 tagnames: mapknitter, lat:38.6628355686, lon:-121.1277329922
 author: maeganoverstreet
 path: /notes/maeganoverstreet/11-09-2015/mapknitter-map-of-flc-wetland-mo-1.md

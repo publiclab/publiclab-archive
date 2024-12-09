@@ -1,5 +1,5 @@
 ---
-title: Global helium shortage
+title: 'Global helium shortage'
 tagnames: balloon-mapping
 author: cfastie
 path: /notes/cfastie/8-24-2012/global-helium-shortage.md

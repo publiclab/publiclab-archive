@@ -1,5 +1,5 @@
 ---
-title: Grand Isle, Louisiana
+title: 'Grand Isle, Louisiana'
 tagnames: gulf-coast, grand-isle, louisiana, western-carolina-university, with:adam-griffith
 author: gonzoearth
 path: /notes/gonzoearth/5-13-2011/grand-isle-louisiana.md

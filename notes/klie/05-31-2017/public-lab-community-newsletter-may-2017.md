@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: May 2017
+title: 'Public Lab Community Newsletter: May 2017'
 tagnames: gulf-coast, newsletter, barnraising, openhardware, news, gsoc, gulf, facilitation, appalachia, gsoc2017, rgsoc, nas, soc2017, rgsoc2017
 author: klie
 path: /notes/klie/05-31-2017/public-lab-community-newsletter-may-2017.md

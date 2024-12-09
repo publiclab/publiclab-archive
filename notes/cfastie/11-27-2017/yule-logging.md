@@ -1,5 +1,5 @@
 ---
-title: Yule logging
+title: 'Yule logging'
 tagnames: arduino, sensors, datalogger, data-logging, arduino-nano, nano-data-logger, 16x2_lcd, bme280, gy90615, activity:nano-data-logger, thermal-infrared, gy90614, series:woodstove-control
 author: cfastie
 path: /notes/cfastie/11-27-2017/yule-logging.md

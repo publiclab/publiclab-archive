@@ -1,5 +1,5 @@
 ---
-title: Thermal Imaging: A Comparison of Heat Insulation
+title: 'Thermal Imaging: A Comparison of Heat Insulation'
 tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, insulation, heat, replication:625
 author: fkamara
 path: /notes/fkamara/12-03-2014/thermal-imaging-a-comparison-of-heat-insulation.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit job posting: Administrative Coordinator
+title: 'Public Lab nonprofit job posting: Administrative Coordinator'
 tagnames: nonprofit, jobs
 author: klie
 path: /notes/klie/06-22-2017/public-lab-nonprofit-job-posting-administrative-coordinator.md

@@ -1,5 +1,5 @@
 ---
-title: Events
+title: 'Events'
 tagnames: community, events, event, organizers, style:minimal, locked
 author: warren
 path: /wiki/events.md

@@ -1,5 +1,5 @@
 ---
-title: Barataria 2014:  II February 16th
+title: 'Barataria 2014:  II February 16th'
 tagnames: gulf-coast, balloon-mapping, barataria-bay, wetlands, louisiana, wetland, barataria, bp, patagonia
 author: eustatic
 path: /02-17-2014/barataria-2014-february-16th.md

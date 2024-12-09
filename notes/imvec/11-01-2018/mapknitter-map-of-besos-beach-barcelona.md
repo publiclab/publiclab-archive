@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Besos beach, Barcelona
+title: 'MapKnitter map of Besos beach, Barcelona'
 tagnames: kite-mapping, mapknitter, barcelona, spain, aerial-mapping, eu, with:xose, lat:41.419060954, lon:2.2326171398
 author: imvec
 path: /notes/imvec/11-01-2018/mapknitter-map-of-besos-beach-barcelona.md

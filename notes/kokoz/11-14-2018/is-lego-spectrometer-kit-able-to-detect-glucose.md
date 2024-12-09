@@ -1,5 +1,5 @@
 ---
-title: Is Lego Spectrometer Kit able to detect Glucose?
+title: 'Is Lego Spectrometer Kit able to detect Glucose?'
 tagnames: spectroscopy, sugar, urine, question:general, first-time-poster, glucose
 author: kokoz
 path: /notes/kokoz/11-14-2018/is-lego-spectrometer-kit-able-to-detect-glucose.md

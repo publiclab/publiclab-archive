@@ -1,5 +1,5 @@
 ---
-title: How can I purchase dustduino sensor?
+title: 'How can I purchase dustduino sensor?'
 tagnames: indoor-air-quality-mapping, particulate-sensing, agriculture, air-quality, internet, transportation, mining, fracking, dustduino, question:dustduino, question:general, oil-and-gas
 author: erumenig
 path: /notes/erumenig/09-19-2017/how-can-i-purchase-dustduino-sensor.md

@@ -1,5 +1,5 @@
 ---
-title: Interview: Karen Savage 
+title: 'Interview: Karen Savage '
 tagnames: gulf-coast, blog, journalism, environmental-justice, community-organizing, interview-series, environmental-journalism, series:community-interviews
 author: stevie
 path: /notes/stevie/08-17-2017/interview-karen-savage.md

@@ -1,5 +1,5 @@
 ---
-title: Gardening Toolkit Case Study
+title: 'Gardening Toolkit Case Study'
 tagnames: aerial-photography, new-jersey, infragram, grassrootsmappingforum, gardening, gardening-toolkit, gmf-9
 author: Shannon
 path: /wiki/gardening-toolkit-case-study.md

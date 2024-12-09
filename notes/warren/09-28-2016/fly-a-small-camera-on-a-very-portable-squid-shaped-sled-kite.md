@@ -1,5 +1,5 @@
 ---
-title: Fly a small camera on a very portable (squid-shaped) sled kite
+title: 'Fly a small camera on a very portable (squid-shaped) sled kite'
 tagnames: kite-mapping, kap, leaffest, mobius, kap-rigs, diy-mount-kit, mini-kite-kit, portability, activity:aerial-photography, activity:kite-mapping, replication:13163, activity:mini-kite-kit, activity:aerial-mapping
 author: warren
 path: /notes/warren/09-28-2016/fly-a-small-camera-on-a-very-portable-squid-shaped-sled-kite.md

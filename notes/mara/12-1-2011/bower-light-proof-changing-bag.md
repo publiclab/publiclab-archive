@@ -1,5 +1,5 @@
 ---
-title: Bower light proof changing bag...
+title: 'Bower light proof changing bag...'
 tagnames: 
 author: mara
 path: /notes/mara/12-1-2011/bower-light-proof-changing-bag.md

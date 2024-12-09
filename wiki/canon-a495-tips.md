@@ -1,5 +1,5 @@
 ---
-title: Canon A495 Tips
+title: 'Canon A495 Tips'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping
 author: cfastie
 path: /wiki/canon-a495-tips.md

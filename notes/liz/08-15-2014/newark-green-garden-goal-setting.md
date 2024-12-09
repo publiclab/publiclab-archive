@@ -1,5 +1,5 @@
 ---
-title: Newark Green Garden goal setting
+title: 'Newark Green Garden goal setting'
 tagnames: newark, new-jersey, 5bf, urban-ag, garden, elp, northeast, with:thegreencommunitygarden
 author: liz
 path: /notes/liz/08-15-2014/newark-green-garden-goal-setting.md

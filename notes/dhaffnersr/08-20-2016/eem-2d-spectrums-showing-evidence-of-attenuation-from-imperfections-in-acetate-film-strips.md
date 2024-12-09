@@ -1,5 +1,5 @@
 ---
-title: EEM 2D Spectrums Showing Evidence of Attenuation from Imperfections in Acetate Film Strips 
+title: 'EEM 2D Spectrums Showing Evidence of Attenuation from Imperfections in Acetate Film Strips '
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-20-2016/eem-2d-spectrums-showing-evidence-of-attenuation-from-imperfections-in-acetate-film-strips.md

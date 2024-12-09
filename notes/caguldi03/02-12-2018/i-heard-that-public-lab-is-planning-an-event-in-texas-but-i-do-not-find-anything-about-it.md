@@ -1,5 +1,5 @@
 ---
-title: I heard that Public Lab is planning an event in Texas, but I do not find anything about it.
+title: 'I heard that Public Lab is planning an event in Texas, but I do not find anything about it.'
 tagnames: barnraising, texas, question:general, question:barnraising
 author: caguldi03
 path: /notes/caguldi03/02-12-2018/i-heard-that-public-lab-is-planning-an-event-in-texas-but-i-do-not-find-anything-about-it.md

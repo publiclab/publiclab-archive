@@ -1,5 +1,5 @@
 ---
-title: SyringePump 2.3
+title: 'SyringePump 2.3'
 tagnames: syringe, pump, first-time-poster
 author: JSummers
 path: /notes/JSummers/10-08-2013/syringepump-2-3.md

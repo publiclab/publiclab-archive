@@ -1,5 +1,5 @@
 ---
-title: Successful Thermal Fishing Bob Maps!
+title: 'Successful Thermal Fishing Bob Maps!'
 tagnames: thermal-photography, boston, northeastern-university, thermal-imaging, thermal-fishing, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689
 author: sara
 path: /notes/Sara/04-23-2014/successful-thermal-fishing-bob-maps.md

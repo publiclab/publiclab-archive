@@ -1,5 +1,5 @@
 ---
-title: Introduction: I'm Charlotte, your new friendly neighborhood oil & gas water monitoring methods fellow!
+title: 'Introduction: I'm Charlotte, your new friendly neighborhood oil & gas water monitoring methods fellow!'
 tagnames: water-quality, fellowship, oil-and-gas, first-time-poster, oil-and-gas-water-trio
 author: charlotte_clarke
 path: /notes/charlotte_clarke/09-22-2019/introduction-i-m-charlotte-your-new-friendly-neighborhood-oil-gas-water-monitoring-methods-fellow.md

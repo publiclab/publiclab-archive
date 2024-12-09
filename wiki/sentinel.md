@@ -1,5 +1,5 @@
 ---
-title: sentinel
+title: 'sentinel'
 tagnames: redirect:19663
 author: joyofsoy
 path: /wiki/sentinel.md

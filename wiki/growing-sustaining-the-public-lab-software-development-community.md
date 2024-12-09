@@ -1,5 +1,5 @@
 ---
-title: Growing & Sustaining the Public Lab Software Development Community
+title: 'Growing & Sustaining the Public Lab Software Development Community'
 tagnames: community-metrics, grassrootsmappingforum, style:fancy, with:jeff, software-development, gmf-7, with:btbonval, with:justinmanley, software-outreach
 author: mollydanielsson
 path: /wiki/growing-sustaining-the-public-lab-software-development-community.md

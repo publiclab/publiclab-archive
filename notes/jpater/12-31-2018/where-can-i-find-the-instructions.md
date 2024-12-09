@@ -1,5 +1,5 @@
 ---
-title: Where can I find the instructions?
+title: 'Where can I find the instructions?'
 tagnames: image-processing, diy, biology, question:general, 3d-printer, cell, opencv, first-time-poster, response:14107, question:biology
 author: jpater
 path: /notes/jpater/12-31-2018/where-can-i-find-the-instructions.md

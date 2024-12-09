@@ -1,5 +1,5 @@
 ---
-title: Intertidal Zone at Leo Carrillo State Park, CA
+title: 'Intertidal Zone at Leo Carrillo State Park, CA'
 tagnames: 
 author: MicheleTobias
 path: /notes/micheletobias/11-26-2011/intertidal-zone-leo-carrillo-state-park-ca.md

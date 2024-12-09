@@ -1,5 +1,5 @@
 ---
-title: Helium
+title: 'Helium'
 tagnames: balloon-mapping, helium, table-lamp
 author: gonzoearth
 path: /wiki/helium.md

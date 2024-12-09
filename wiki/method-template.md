@@ -1,5 +1,5 @@
 ---
-title: Method template
+title: 'Method template'
 tagnames: methodologies, tags, template, methods-template
 author: warren
 path: /wiki/method-template.md

@@ -1,5 +1,5 @@
 ---
-title: wireless
+title: 'wireless'
 tagnames: wireless, mobile, sensors, wi-fi, bluetooth
 author: mathew
 path: /wiki/wireless.md

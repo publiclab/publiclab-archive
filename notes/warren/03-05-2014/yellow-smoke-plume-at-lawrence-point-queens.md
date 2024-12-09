@@ -1,5 +1,5 @@
 ---
-title: Yellow smoke plume at Lawrence Point, Queens
+title: 'Yellow smoke plume at Lawrence Point, Queens'
 tagnames: new-york-city, queens, plume, watchdog, smokestack
 author: warren
 path: /notes/warren/03-05-2014/yellow-smoke-plume-at-lawrence-point-queens.md

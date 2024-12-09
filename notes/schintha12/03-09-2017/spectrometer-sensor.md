@@ -1,5 +1,5 @@
 ---
-title: Spectrometer/Sensor
+title: 'Spectrometer/Sensor'
 tagnames: barnstar:basic, question:health
 author: schintha12
 path: /notes/schintha12/03-09-2017/spectrometer-sensor.md

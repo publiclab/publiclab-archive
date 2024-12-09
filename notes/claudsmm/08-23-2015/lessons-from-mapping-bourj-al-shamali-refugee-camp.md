@@ -1,5 +1,5 @@
 ---
-title: Lessons from mapping Bourj Al Shamali refugee camp in Lebanon
+title: 'Lessons from mapping Bourj Al Shamali refugee camp in Lebanon'
 tagnames: balloon-mapping, kite-mapping, blog, barnstar:basic, with:firas, with:mustafa10, lebanon, middle-east, bourjalshamali, with:mustapha, with:amal, first-time-poster
 author: clauds
 path: /notes/claudsmm/08-23-2015/lessons-from-mapping-bourj-al-shamali-refugee-camp.md

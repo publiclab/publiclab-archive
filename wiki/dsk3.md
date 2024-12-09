@@ -1,5 +1,5 @@
 ---
-title: dsk3
+title: 'dsk3'
 tagnames: spectrometer, kits, kit-parts, parts, spectrometer3, parent:desktop-spectrometry-kit-3-0, lego-spectrometer
 author: mathew
 path: /wiki/dsk3.md

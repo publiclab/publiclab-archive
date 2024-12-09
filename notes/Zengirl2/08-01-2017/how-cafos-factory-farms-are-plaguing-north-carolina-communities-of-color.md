@@ -1,5 +1,5 @@
 ---
-title: How CAFOS (Factory Farms) Are Plaguing North Carolina Communities of Color
+title: 'How CAFOS (Factory Farms) Are Plaguing North Carolina Communities of Color'
 tagnames: farming, agriculture, air-quality, health, north-carolina, public-health, water-quality, particulates, cafo, southeast, land-use, factory-farms
 author: zengirl2
 path: /notes/Zengirl2/08-01-2017/how-cafos-factory-farms-are-plaguing-north-carolina-communities-of-color.md

@@ -1,5 +1,5 @@
 ---
-title: Am October 19, 2016
+title: 'Am October 19, 2016'
 tagnames: hidden:response, response:13586
 author: Austin3mcgill
 path: /notes/Austin3mcgill/10-19-2016/am-october-19-2016.md

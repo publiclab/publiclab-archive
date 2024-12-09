@@ -1,5 +1,5 @@
 ---
-title: Speck particle monitor
+title: 'Speck particle monitor'
 tagnames: indoor-air-quality-mapping, particulate-sensing, pittsburgh, cmu, air-quality, visualization, dust, optical-sensor, particulate, speck, pennsylvania, air-sensors
 author: chrisbartley
 path: /notes/chrisbartley/04-15-2014/speck-particle-monitor.md

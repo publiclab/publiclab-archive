@@ -1,5 +1,5 @@
 ---
-title: Infragram Point & Shoot cameras now in production
+title: 'Infragram Point & Shoot cameras now in production'
 tagnames: near-infrared-camera, store, kickstarter, infragram, mobius-actioncam, mobius, first-time-poster
 author: natalie
 path: /notes/Natalie/06-19-2014/mobius-cam-point-and-shoot-shipping-update.md

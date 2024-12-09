@@ -1,5 +1,5 @@
 ---
-title: Water
+title: 'Water'
 tagnames: redirect:water-quality
 author: warren
 path: /wiki/water.md

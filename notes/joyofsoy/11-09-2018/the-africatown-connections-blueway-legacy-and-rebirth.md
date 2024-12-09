@@ -1,5 +1,5 @@
 ---
-title: The Africatown Connections Blueway: Legacy and Rebirth
+title: 'The Africatown Connections Blueway: Legacy and Rebirth'
 tagnames: balloon-mapping, mobile, water-quality, blog, with:stevie, mejac, africatown, blueway, chickasaw-creek, national-park-service, c.h.e.s.s., hogbayou, africatown_connections, csf15, response:14943
 author: joyofsoy
 path: /notes/joyofsoy/11-09-2018/the-africatown-connections-blueway-legacy-and-rebirth.md

@@ -1,5 +1,5 @@
 ---
-title: WATER HACKATHON SERIES #2: THE RIFFLE TRAINING
+title: 'WATER HACKATHON SERIES #2: THE RIFFLE TRAINING'
 tagnames: gulf-coast, water-sensing, event, riffle, event:rsvp, propeller, response:11334, date:11-20-2014
 author: eustatic
 path: /11-11-2014/water-hackathon-series-2-the-riffle-training.md

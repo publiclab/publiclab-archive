@@ -1,5 +1,5 @@
 ---
-title: Using Photosynth to automatically stitch images from kite-mapping
+title: 'Using Photosynth to automatically stitch images from kite-mapping'
 tagnames: kite-mapping, microsoft-ice, 2014, emf, microsoft, photosynth, activities:aerial-photography
 author: espero
 path: /notes/espero/09-13-2014/using-photosynth-to-automatically-stitch-images-from-kite-mapping.md

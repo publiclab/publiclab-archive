@@ -1,5 +1,5 @@
 ---
-title: turbidity sensor
+title: 'turbidity sensor'
 tagnames: water-quality, water-monitoring, turbidity, parent:turbidity
 author: liz
 path: /wiki/turbidity-meter.md

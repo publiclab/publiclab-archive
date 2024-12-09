@@ -1,5 +1,5 @@
 ---
-title: Smartphone App for Residential Testing of Formaldehyde (SMART-FORM) Interim report 
+title: 'Smartphone App for Residential Testing of Formaldehyde (SMART-FORM) Interim report '
 tagnames: smartphone, formaldehyde, indoor-air-quality, with:gretchengehrke, indoor-air, nsf, smart-form
 author: nshapiro
 path: /notes/nshapiro/09-04-2017/smartphone-app-for-residential-testing-of-formaldehyde-smart-form-interim-report.md

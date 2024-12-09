@@ -1,5 +1,5 @@
 ---
-title: South of France Forest monitoring
+title: 'South of France Forest monitoring'
 tagnames: near-infrared-camera, infragram, drone, tool
 author: DroneGo
 path: /notes/DroneGo/07-20-2014/south-of-france-forest-monitoring.md

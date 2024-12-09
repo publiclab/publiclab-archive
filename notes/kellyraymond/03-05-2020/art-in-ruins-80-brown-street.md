@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (80 Brown Street)
+title: 'Art in Ruins (80 Brown Street)'
 tagnames: hidden:response, zoom:7, lat:40.86489673619215, lon:-69.97192382812501, lat:41.828642, lon:-71.400146, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-80-brown-street.md

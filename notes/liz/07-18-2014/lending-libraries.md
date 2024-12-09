@@ -1,5 +1,5 @@
 ---
-title: Lending Libraries
+title: 'Lending Libraries'
 tagnames: community, lending-library, response:10953
 author: liz
 path: /notes/liz/07-18-2014/lending-libraries.md

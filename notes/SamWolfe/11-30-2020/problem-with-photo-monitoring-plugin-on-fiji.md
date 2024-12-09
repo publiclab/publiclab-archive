@@ -1,5 +1,5 @@
 ---
-title: Problem with Photo Monitoring Plugin on Fiji
+title: 'Problem with Photo Monitoring Plugin on Fiji'
 tagnames: website, photo-monitoring, fiji, photo-monitoring-plugin, question:website, question:photo-monitoring-plugin, first-time-poster
 author: SamWolfe
 path: /notes/SamWolfe/11-30-2020/problem-with-photo-monitoring-plugin-on-fiji.md

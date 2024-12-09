@@ -1,5 +1,5 @@
 ---
-title: Mockup for Spectral Workbench redesign
+title: 'Mockup for Spectral Workbench redesign'
 tagnames: 
 author: warren
 path: /notes/warren/11-8-2011/mockup-spectral-workbench-redesign.md

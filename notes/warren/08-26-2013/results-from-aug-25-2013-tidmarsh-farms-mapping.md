@@ -1,5 +1,5 @@
 ---
-title: Results from Aug 25, 2013 Tidmarsh Farms mapping
+title: 'Results from Aug 25, 2013 Tidmarsh Farms mapping'
 tagnames: near-infrared-camera, boston, wetlands, restoration, massachusetts, manomet, tidmarsh, infragram, northeast, lat:41.918373, lon:-70.573318, place:tidmarsh-farm-plymouth-ma
 author: warren
 path: /notes/warren/08-26-2013/results-from-aug-25-2013-tidmarsh-farms-mapping.md

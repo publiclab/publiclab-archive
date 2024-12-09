@@ -1,5 +1,5 @@
 ---
-title: Search Service System Design
+title: 'Search Service System Design'
 tagnames: plots2, search, gsoc, indexing, rich-search
 author: david-days
 path: /notes/david-days/05-15-2016/search-service-system-design.md

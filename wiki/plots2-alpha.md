@@ -1,5 +1,5 @@
 ---
-title: plots2 Alpha
+title: 'plots2 Alpha'
 tagnames: website, plots2, alphatest
 author: warren
 path: /wiki/plots2-alpha.md

@@ -1,5 +1,5 @@
 ---
-title: Kite Flying Tree
+title: 'Kite Flying Tree'
 tagnames: kite-mapping, kite, diy-kite, homemade-kites, easy-cut-delta
 author: danbeavers
 path: /notes/danbeavers/2-16-2013/kite-flying-tree.md

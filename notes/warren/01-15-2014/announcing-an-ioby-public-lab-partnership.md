@@ -1,5 +1,5 @@
 ---
-title: Announcing an ioby + Public Lab partnership
+title: 'Announcing an ioby + Public Lab partnership'
 tagnames: gulf-coast, refinery, crowdfunding, flare, ioby, local-projects
 author: warren
 path: /notes/warren/01-15-2014/announcing-an-ioby-public-lab-partnership.md

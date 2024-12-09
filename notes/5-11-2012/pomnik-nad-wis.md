@@ -1,5 +1,5 @@
 ---
-title: pomnik-nad-wisłą
+title: 'pomnik-nad-wisłą'
 tagnames: 
 author: 
 path: /notes/5-11-2012/pomnik-nad-wis.md

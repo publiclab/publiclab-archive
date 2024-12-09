@@ -1,5 +1,5 @@
 ---
-title: Sopa
+title: 'Sopa'
 tagnames: 
 author: warren
 path: /wiki/sopa.md

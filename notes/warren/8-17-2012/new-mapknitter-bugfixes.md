@@ -1,5 +1,5 @@
 ---
-title: New MapKnitter bugfixes
+title: 'New MapKnitter bugfixes'
 tagnames: balloon-mapping, mapknitter
 author: warren
 path: /notes/warren/8-17-2012/new-mapknitter-bugfixes.md

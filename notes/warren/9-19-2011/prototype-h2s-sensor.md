@@ -1,5 +1,5 @@
 ---
-title: Prototype H2S sensor
+title: 'Prototype H2S sensor'
 tagnames: hydrogen-sulfide, h2s, hydrogen-sulfide-detection, hydrogen-sulfide-sensor
 author: warren
 path: /notes/warren/9-19-2011/prototype-h2s-sensor.md

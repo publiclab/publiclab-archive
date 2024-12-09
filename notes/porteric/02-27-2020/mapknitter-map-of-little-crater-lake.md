@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Little Crater Lake
+title: 'MapKnitter map of Little Crater Lake'
 tagnames: mapknitter, first-time-poster, zoom:18, lat:45.148255, lon:-121.7508622, lat:45.148296, lon:-121.750797
 author: porteric
 path: /notes/porteric/02-27-2020/mapknitter-map-of-little-crater-lake.md

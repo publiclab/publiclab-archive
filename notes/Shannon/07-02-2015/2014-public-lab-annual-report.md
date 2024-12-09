@@ -1,5 +1,5 @@
 ---
-title: 2014 Public Lab Annual Report
+title: '2014 Public Lab Annual Report'
 tagnames: nonprofit, annual-report
 author: Shannon
 path: /notes/Shannon/07-02-2015/2014-public-lab-annual-report.md

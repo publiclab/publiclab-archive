@@ -1,5 +1,5 @@
 ---
-title: Thinking about a more stable spectrometer...
+title: 'Thinking about a more stable spectrometer...'
 tagnames: spectrometer, design, barnstar:basic, stability, setup, rigidness
 author: viechdokter
 path: /notes/viechdokter/04-15-2016/thinking-about-a-more-stable-spectrometer.md

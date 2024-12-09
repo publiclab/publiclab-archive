@@ -1,5 +1,5 @@
 ---
-title: Project Planning
+title: 'Project Planning'
 tagnames: 
 author: warren
 path: /wiki/project-planning.md

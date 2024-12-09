@@ -1,5 +1,5 @@
 ---
-title: Compartir imágenes usando Archive.org
+title: 'Compartir imágenes usando Archive.org'
 tagnames: lang:es, activity:photo-sharing, photo-sharing, ballon-mapping, spanish, cosquin
 author: imvec
 path: /notes/imvec/02-08-2020/compartir-imagenes-usando-archive-org.md

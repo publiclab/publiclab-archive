@@ -1,5 +1,5 @@
 ---
-title: Photo Documentation of Turbid Waters for Advocacy
+title: 'Photo Documentation of Turbid Waters for Advocacy'
 tagnames: wisconsin, water-quality, water, turbidity, stormwater, frac-sand, openwater, fracsand, parent:frac-sand, activity:stormwater, activity:site-survey, activity:turbidity, getting-started-wastewater, detecting-wastewater, wastewater-color, activity:detecting-wastewater
 author: gretchengehrke
 path: /notes/gretchengehrke/09-18-2015/photo-documentation-of-turbid-waters-for-advocacy.md

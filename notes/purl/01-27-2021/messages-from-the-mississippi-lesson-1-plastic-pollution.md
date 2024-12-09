@@ -1,5 +1,5 @@
 ---
-title: Messages From the Mississippi Lesson 1: Plastic Pollution
+title: 'Messages From the Mississippi Lesson 1: Plastic Pollution'
 tagnames: microplastics, messagesfromthemississippi
 author: purl
 path: /notes/purl/01-27-2021/messages-from-the-mississippi-lesson-1-plastic-pollution.md

@@ -1,5 +1,5 @@
 ---
-title: Coal Ash! You Dig?
+title: 'Coal Ash! You Dig?'
 tagnames: delta, mobile, water-quality, groundwater, southeast, environmental-justice, coal-ash, oil-and-gas, alabama, chemical-pollution, issue-brief, first-time-poster, freshwater, zoom:3, lat:30.661479, lon:-88.072121, alambama-power
 author: latrecejohnson59
 path: /notes/latrecejohnson59/07-01-2020/coal-ash-you-dig.md

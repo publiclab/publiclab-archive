@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: v2 API development | Grape | Swagger Specification
+title: 'GSoC proposal: v2 API development | Grape | Swagger Specification'
 tagnames: software, gsoc, grapes, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, rest-api, rails-api, swagger, soc-2018-api
 author: Raounak
 path: /notes/Raounak/02-21-2018/gsoc-proposal-v2-api-development.md

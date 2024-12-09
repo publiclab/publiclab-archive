@@ -1,5 +1,5 @@
 ---
-title: Public Lab Cartography Collective
+title: 'Public Lab Cartography Collective'
 tagnames: mapknitter, cartography-collective
 author: Shannon
 path: /wiki/public-lab-cartography-collective.md

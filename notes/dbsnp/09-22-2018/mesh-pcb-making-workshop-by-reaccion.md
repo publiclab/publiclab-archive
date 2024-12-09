@@ -1,5 +1,5 @@
 ---
-title: Mesh PCB making workshop by Reacción
+title: 'Mesh PCB making workshop by Reacción'
 tagnames: workshop, event, events:boston, ohs, open-hardware-summit, pcb, event:rsvp, date:09-26-2018, first-time-poster
 author: dbsnp
 path: /notes/dbsnp/09-22-2018/mesh-pcb-making-workshop-by-reaccion.md

@@ -1,5 +1,5 @@
 ---
-title: What are some lessons learned using the Riffle? (Especially Underwater)
+title: 'What are some lessons learned using the Riffle? (Especially Underwater)'
 tagnames: riffle, question:riffle, question:general
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/03-14-2017/what-are-some-lessons-learned-using-the-riffle-especially-underwater.md

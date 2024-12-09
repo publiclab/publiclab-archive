@@ -1,5 +1,5 @@
 ---
-title: What sensor would I need to detect spectra of small organisms (virtus, bacteria etc)
+title: 'What sensor would I need to detect spectra of small organisms (virtus, bacteria etc)'
 tagnames: question:spectrometry, question:bacteria
 author: fouadalnoor
 path: /notes/fouadalnoor/09-28-2016/what-sensor-would-i-need-to-detect-spectra-of-small-organisms-virtus-bacteria-etc.md

@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: Image Sequencer
+title: 'SoC proposal: Image Sequencer'
 tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, lat:10.850515, lon:76.271083
 author: lohithabhagam123
 path: /notes/lohithabhagam123/04-09-2019/soc-proposal-image-sequencer.md

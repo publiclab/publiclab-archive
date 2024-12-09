@@ -1,5 +1,5 @@
 ---
-title: Nurdle survey
+title: 'Nurdle survey'
 tagnames: method, beach, microplastics, marine-debris, nurdles, nurdle-patrol, nurdle-survey, plastic-pellets, method:microplastics
 author: bhamster
 path: /wiki/nurdle-survey.md

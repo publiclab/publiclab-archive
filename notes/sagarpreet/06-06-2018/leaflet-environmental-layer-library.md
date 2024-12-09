@@ -1,5 +1,5 @@
 ---
-title: Leaflet Environmental Layers Library
+title: 'Leaflet Environmental Layers Library'
 tagnames: mapping, gsoc, pollution, leaflet, skytruth, barnstar:basic, weather, alerts, odor, soc, lon:77, gsoc-2018, soc-2018, tri, odor-logging, odor-mapping, geographic, toxic-release-inventory, justicemap, skytruth-alerts, leaflet-environmental-layers, lat:17
 author: sagarpreet
 path: /notes/sagarpreet/06-06-2018/leaflet-environmental-layer-library.md

@@ -1,5 +1,5 @@
 ---
-title: Download & Analyze Purple Air data
+title: 'Download & Analyze Purple Air data'
 tagnames: analysis, air-quality, maps, dust, pm, seeks:replications, air-sensors, purpleair, activity:purpleair
 author: jiteovien
 path: /notes/jiteovien/08-28-2018/download-analyze-your-purple-air-data.md

@@ -1,5 +1,5 @@
 ---
-title: How do I find the reclamation permit for an active mine?
+title: 'How do I find the reclamation permit for an active mine?'
 tagnames: mining, permits, question:permits, question:mining, reclamation, mine-reclamation, question:mine-reclamation, question:reclamation
 author: bhamster
 path: /notes/bhamster/02-22-2022/how-do-i-find-the-reclamation-permit-for-an-active-mine.md

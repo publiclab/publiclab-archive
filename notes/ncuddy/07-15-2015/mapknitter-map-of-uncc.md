@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNCC
+title: 'MapKnitter map of UNCC'
 tagnames: western-north-carolina, mapknitter, north-carolina, southeast, lat:35.3075696, lon:-80.7285523
 author: ncuddy
 path: /notes/ncuddy/07-15-2015/mapknitter-map-of-uncc.md

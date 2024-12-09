@@ -1,5 +1,5 @@
 ---
-title: Kite Mapping on the Kill Van Kull
+title: 'Kite Mapping on the Kill Van Kull'
 tagnames: new-york-city, kite-mapping, new-york, event, northeast, staten-island, baykeeper, replication:14022
 author: melissachecker
 path: /notes/melissachecker/06-18-2014/kite-mapping-on-the-kill-van-kull.md

@@ -1,5 +1,5 @@
 ---
-title: GLAM
+title: 'GLAM'
 tagnames: new-york-city, gowanus, glam, northeast, parent:new-york-city, wastewater-project
 author: liz
 path: /wiki/glam.md

@@ -1,5 +1,5 @@
 ---
-title: Introduction to Community Organizing
+title: 'Introduction to Community Organizing'
 tagnames: video, organizing, advocacy, community-organizing, research-curation-fellows
 author: julia_e_masters
 path: /notes/julia_e_masters/05-25-2022/introduction-to-community-organizing.md

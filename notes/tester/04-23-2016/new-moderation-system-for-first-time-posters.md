@@ -1,5 +1,5 @@
 ---
-title: New moderation system for first-time posters
+title: 'New moderation system for first-time posters'
 tagnames: community, website, organizers, spam, barnstar:basic, with:warren, moderation, newcomers, location:blurred, lat:-80, lon:630, first-contribution
 author: tester
 path: /notes/tester/04-23-2016/new-moderation-system-for-first-time-posters.md

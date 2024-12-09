@@ -1,5 +1,5 @@
 ---
-title: Powered string winder for balloons
+title: 'Powered string winder for balloons'
 tagnames: balloon-mapping, winders, flying
 author: natevw
 path: /notes/natevw/5-3-2012/powered-string-winder-balloons.md

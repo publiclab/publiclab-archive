@@ -1,5 +1,5 @@
 ---
-title: Photoreactive purple dye: can it block wavelengths longer than green?
+title: 'Photoreactive purple dye: can it block wavelengths longer than green?'
 tagnames: question:spectrometer, question:spectrometry
 author: axman
 path: /notes/axman/11-20-2016/photoreactive-purple-dye-can-it-block-wavelengths-longer-than-green.md

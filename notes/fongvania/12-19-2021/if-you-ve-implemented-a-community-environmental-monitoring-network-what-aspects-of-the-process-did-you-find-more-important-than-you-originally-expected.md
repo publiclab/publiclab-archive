@@ -1,5 +1,5 @@
 ---
-title: If you've implemented a community environmental monitoring network, what aspects of the process did you find more important than you originally expected?
+title: 'If you've implemented a community environmental monitoring network, what aspects of the process did you find more important than you originally expected?'
 tagnames: question:general, general, study-design, plan, question:study-design
 author: fongvania
 path: /notes/fongvania/12-19-2021/if-you-ve-implemented-a-community-environmental-monitoring-network-what-aspects-of-the-process-did-you-find-more-important-than-you-originally-expected.md

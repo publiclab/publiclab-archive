@@ -1,5 +1,5 @@
 ---
-title: All about cheap Reflection Diffraction Gratings-Self manufacturing!
+title: 'All about cheap Reflection Diffraction Gratings-Self manufacturing!'
 tagnames: diffraction-grating
 author: shubham
 path: /notes/shubham/04-04-2016/all-about-cheap-reflection-diffraction-gratings-self-manufacturing.md

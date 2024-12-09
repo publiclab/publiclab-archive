@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal on expanded community stats system by Amy Chan
+title: 'Outreachy proposal on expanded community stats system by Amy Chan'
 tagnames: software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster
 author: amychan331
 path: /notes/amychan331/11-02-2018/outreachy-proposal-on-expanded-community-stats-system-by-amy-chan.md

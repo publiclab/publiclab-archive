@@ -1,5 +1,5 @@
 ---
-title: Peer Production Playbook
+title: 'Peer Production Playbook'
 tagnames: 
 author: warren
 path: /wiki/peer-production-playbook.md

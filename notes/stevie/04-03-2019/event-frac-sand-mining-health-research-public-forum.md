@@ -1,5 +1,5 @@
 ---
-title: Event: Frac Sand Mining Health Research Public Forum
+title: 'Event: Frac Sand Mining Health Research Public Forum'
 tagnames: event, wisconsin, silica, frac-sand, pm, midwest, event:rsvp, with:pat, date:04-13-2019, sentinel, parent:the-sand-sentinel-program, sand-sentinel
 author: stevie
 path: /notes/stevie/04-03-2019/event-frac-sand-mining-health-research-public-forum.md

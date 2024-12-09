@@ -1,5 +1,5 @@
 ---
-title: Has anyone modified a Go-Pro (or similar) action cam (besides the mobius) for infrared photography?
+title: 'Has anyone modified a Go-Pro (or similar) action cam (besides the mobius) for infrared photography?'
 tagnames: near-infrared-camera, infrared, answered, question:general
 author: Bronwen
 path: /notes/bronwen/11-21-2017/has-anyone-modified-a-go-pro-or-similar-action-cam-besides-the-mobius-for-infrared-photography.md

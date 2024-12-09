@@ -1,5 +1,5 @@
 ---
-title: forward into the light
+title: 'forward into the light'
 tagnames: 
 author: sonofaquark
 path: /notes/sonofaquark/4-1-2013/forward-light.md

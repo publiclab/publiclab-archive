@@ -1,5 +1,5 @@
 ---
-title: h2s photopaper
+title: 'h2s photopaper'
 tagnames: redirect:hydrogen-sulfide-photopaper
 author: liz
 path: /wiki/h2s-photopaper.md

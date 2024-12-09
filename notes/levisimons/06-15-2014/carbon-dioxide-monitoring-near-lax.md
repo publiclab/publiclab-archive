@@ -1,5 +1,5 @@
 ---
-title: Carbon dioxide monitoring near LAX
+title: 'Carbon dioxide monitoring near LAX'
 tagnames: air-quality, los-angeles
 author: levisimons
 path: /notes/levisimons/06-15-2014/carbon-dioxide-monitoring-near-lax.md

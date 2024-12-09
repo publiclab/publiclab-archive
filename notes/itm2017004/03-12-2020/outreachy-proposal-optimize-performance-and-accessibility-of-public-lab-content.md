@@ -1,5 +1,5 @@
 ---
-title: Outreachy Proposal: Optimize Performance and Accessibility of Public Lab Content.
+title: 'Outreachy Proposal: Optimize Performance and Accessibility of Public Lab Content.'
 tagnames: app, soc, first-time-poster, soc-2020-proposals, outreachy-2020, outreachy-2020-proposals
 author: itm2017004
 path: /notes/itm2017004/03-12-2020/outreachy-proposal-optimize-performance-and-accessibility-of-public-lab-content.md

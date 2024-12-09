@@ -1,5 +1,5 @@
 ---
-title: Water testing card idea: fluoride
+title: 'Water testing card idea: fluoride'
 tagnames: water-quality, fluoride, indiawaterportal
 author: liz
 path: /notes/liz/5-11-2012/water-testing-card-idea-fluoride.md

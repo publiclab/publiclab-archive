@@ -1,5 +1,5 @@
 ---
-title: can a spectrometer be used to measure color of water ?
+title: 'can a spectrometer be used to measure color of water ?'
 tagnames: spectrometry, water, color, question:spectrometry, answered, question:question
 author: thangvu
 path: /notes/thangvu/03-23-2018/can-a-spectrometer-be-used-to-measure-color-of-water.md

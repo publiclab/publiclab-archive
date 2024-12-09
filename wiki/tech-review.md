@@ -1,5 +1,5 @@
 ---
-title: tech-review
+title: 'tech-review'
 tagnames: method
 author: mathew
 path: /wiki/tech-review.md

@@ -1,5 +1,5 @@
 ---
-title: EcoSen -> How healthy are our water resources? (In construction)
+title: 'EcoSen -> How healthy are our water resources? (In construction)'
 tagnames: new, draft, south-america, argentina, activity:new, first-time-poster, zoom:14, place:cordoba-argentina, zoom:13, lat:-31.42046, lon:-64.18886, lat:-31.42002, lon:-64.188652
 author: alejobonifacio
 path: /notes/alejobonifacio/05-17-2020/how-healthy-are-our-water-resources.md

@@ -1,5 +1,5 @@
 ---
-title: Start an Environmental Monitoring Study
+title: 'Start an Environmental Monitoring Study'
 tagnames: research, research-plan, needs-revision, guidelines, tool, method, study-design, parent:study-design
 author: gretchengehrke
 path: /wiki/start-enviro-monitor-study.md

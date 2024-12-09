@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Long-Term Development
+title: 'MapKnitter Long-Term Development'
 tagnames: mapknitter, developers, coding, mapknitter-development, parent:mapknitter
 author: justinmanley
 path: /wiki/mapknitter-long-term-development.md

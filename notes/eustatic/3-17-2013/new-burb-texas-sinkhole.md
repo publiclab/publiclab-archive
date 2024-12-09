@@ -1,5 +1,5 @@
 ---
-title: a new burp in the Texas Brine Sinkhole
+title: 'a new burp in the Texas Brine Sinkhole'
 tagnames: sinkhole, passenger-pigeon
 author: eustatic
 path: /3-17-2013/new-burb-texas-sinkhole.md

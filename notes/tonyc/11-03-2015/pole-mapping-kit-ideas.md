@@ -1,5 +1,5 @@
 ---
-title: pole mapping kit ideas
+title: 'pole mapping kit ideas'
 tagnames: polemapping, pole-photography, pole-mapping
 author: tonyc
 path: /notes/tonyc/11-03-2015/pole-mapping-kit-ideas.md

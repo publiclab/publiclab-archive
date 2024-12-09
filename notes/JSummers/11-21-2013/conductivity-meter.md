@@ -1,5 +1,5 @@
 ---
-title: Conductivity meter
+title: 'Conductivity meter'
 tagnames: wcu, launchpad, conductivity, activity:conductivity
 author: JSummers
 path: /notes/JSummers/11-21-2013/conductivity-meter.md

@@ -1,5 +1,5 @@
 ---
-title: Workshop: Draft an Issue Brief with a group
+title: 'Workshop: Draft an Issue Brief with a group'
 tagnames: community, organizing, getting-started, draft, community-organizing, issue-brief, activity:community-organizing, activity:issue-brief, activity:getting-started, activity:new, activity:organizing
 author: stevie
 path: /notes/stevie/01-23-2018/workshop-draft-an-issue-brief-with-a-group.md

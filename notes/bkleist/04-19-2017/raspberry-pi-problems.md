@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi problems
+title: 'Raspberry Pi problems'
 tagnames: troubleshooting, raspberry-pi, air-quality, frac-sand, uwec, science-is-frustrating-sometimes, question:raspberry-pi
 author: bkleist
 path: /notes/bkleist/04-19-2017/raspberry-pi-problems.md

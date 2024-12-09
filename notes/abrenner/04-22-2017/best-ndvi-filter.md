@@ -1,5 +1,5 @@
 ---
-title: Best NDVI Filter
+title: 'Best NDVI Filter'
 tagnames: question:general
 author: abrenner
 path: /notes/abrenner/04-22-2017/best-ndvi-filter.md

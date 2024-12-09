@@ -1,5 +1,5 @@
 ---
-title: Guides wiki page
+title: 'Guides wiki page'
 tagnames: 
 author: warren
 path: /notes/warren/2-19-2011/guides-wiki-page.md

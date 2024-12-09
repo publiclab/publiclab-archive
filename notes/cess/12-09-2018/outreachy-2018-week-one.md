@@ -1,5 +1,5 @@
 ---
-title: Outreachy 2018: Week One
+title: 'Outreachy 2018: Week One'
 tagnames: blog, outreachy
 author: cess
 path: /notes/cess/12-09-2018/outreachy-2018-week-one.md

@@ -1,5 +1,5 @@
 ---
-title: Flocculation
+title: 'Flocculation'
 tagnames: industry, mine-reclamation, flocculants, parent:industry
 author: laurel_mire
 path: /wiki/flocculation.md

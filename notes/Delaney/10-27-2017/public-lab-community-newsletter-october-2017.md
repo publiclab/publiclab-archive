@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: October 2017
+title: 'Public Lab Community Newsletter: October 2017'
 tagnames: gulf-coast, newsletter, kits, barnraising, news, staff, kickstarter-gold, first-time-poster
 author: Delaney
 path: /notes/Delaney/10-27-2017/public-lab-community-newsletter-october-2017.md

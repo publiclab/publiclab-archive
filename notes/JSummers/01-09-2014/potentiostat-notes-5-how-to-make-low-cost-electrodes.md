@@ -1,5 +1,5 @@
 ---
-title: Potentiostat Notes 5:  How to make low cost electrodes.
+title: 'Potentiostat Notes 5:  How to make low cost electrodes.'
 tagnames: water-quality, potentiostat, cheapstat, tool, wheestat, activity:potentiostat, electrodes, potentiometry, pin:wheestat
 author: JSummers
 path: /notes/JSummers/01-09-2014/potentiostat-notes-5-how-to-make-low-cost-electrodes.md

@@ -1,5 +1,5 @@
 ---
-title: SmART-Form
+title: 'SmART-Form'
 tagnames: formaldehyde, indoor-air-quality-monitoring, indoor-air-quality, smart-form
 author: gretchengehrke
 path: /wiki/smart-form.md

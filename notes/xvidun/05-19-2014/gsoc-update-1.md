@@ -1,5 +1,5 @@
 ---
-title: GSoC Update 1.
+title: 'GSoC Update 1.'
 tagnames: mapknitter, gsoc, gsoc-2014, upload, response:10138
 author: xvidun
 path: /notes/xvidun/05-19-2014/gsoc-update-1.md

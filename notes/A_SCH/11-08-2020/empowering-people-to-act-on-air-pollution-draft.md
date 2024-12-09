@@ -1,5 +1,5 @@
 ---
-title: Empowering People to Act on Air Pollution
+title: 'Empowering People to Act on Air Pollution'
 tagnames: organizing, bucket-brigade, with:kgradow1, advocacy, community-organizing, advocacy-pathways, bucket-monitor
 author: A_SCH
 path: /notes/A_SCH/11-08-2020/empowering-people-to-act-on-air-pollution-draft.md

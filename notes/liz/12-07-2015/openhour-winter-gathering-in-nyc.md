@@ -1,5 +1,5 @@
 ---
-title: OpenHour winter gathering in NYC
+title: 'OpenHour winter gathering in NYC'
 tagnames: new-york-city, openhour, with:thegreencommunitygarden
 author: liz
 path: /notes/liz/12-07-2015/openhour-winter-gathering-in-nyc.md

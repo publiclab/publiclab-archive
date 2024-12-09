@@ -1,5 +1,5 @@
 ---
-title: Design recommendations for postcard research invitation?
+title: 'Design recommendations for postcard research invitation?'
 tagnames: design, formaldehyde, indoor-air-quality-monitoring, smart-form, question:design, question:outreach
 author: gretchengehrke
 path: /notes/gretchengehrke/03-12-2018/design-recommendations-for-postcard-research-invitation.md

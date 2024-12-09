@@ -1,5 +1,5 @@
 ---
-title: Dashboard
+title: 'Dashboard'
 tagnames: 
 author: warren
 path: /wiki/dashboard.md

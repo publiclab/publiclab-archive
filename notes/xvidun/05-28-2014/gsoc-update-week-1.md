@@ -1,5 +1,5 @@
 ---
-title: GSoC Update: Week 1
+title: 'GSoC Update: Week 1'
 tagnames: gsoc, upload, response:10138, gsoc14, jquery-file-upload
 author: xvidun
 path: /notes/xvidun/05-28-2014/gsoc-update-week-1.md

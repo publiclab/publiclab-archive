@@ -1,5 +1,5 @@
 ---
-title: Assembling a SkyPod GPS logger
+title: 'Assembling a SkyPod GPS logger'
 tagnames: arduino, kite-aerial-photography, aerial-photography, gps, sensors, data-logging, skypod, ublox, response:14551, skypod-gps-logger, activity:skypod-gps-logger
 author: cfastie
 path: /notes/cfastie/08-07-2017/assembling-a-skypod-gps-logger.md

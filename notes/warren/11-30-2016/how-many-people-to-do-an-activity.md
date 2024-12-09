@@ -1,5 +1,5 @@
 ---
-title: How many people to do an activity?
+title: 'How many people to do an activity?'
 tagnames: community, barnraising, organizing, research-culture, activity-grids, activities
 author: warren
 path: /notes/warren/11-30-2016/how-many-people-to-do-an-activity.md

@@ -1,5 +1,5 @@
 ---
-title: Prototyping A Cellphone Microscope
+title: 'Prototyping A Cellphone Microscope'
 tagnames: kits, water-quality, prototyping, prototyping-kit, community-kits, community-microscope, lat:40.660203, lon:-73.968955, cellphone-microscope
 author: Bronwen
 path: /notes/Bronwen/04-13-2019/prototyping-a-cellphone-microscope.md

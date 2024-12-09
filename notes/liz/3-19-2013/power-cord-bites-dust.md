@@ -1,5 +1,5 @@
 ---
-title: power cord bites the dust
+title: 'power cord bites the dust'
 tagnames: chaq
 author: liz
 path: /notes/liz/3-19-2013/power-cord-bites-dust.md

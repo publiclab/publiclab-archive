@@ -1,5 +1,5 @@
 ---
-title: Lycopene
+title: 'Lycopene'
 tagnames: near-infrared-camera, spectrometer, ndvi, vermont, ebert, absorption, infragram, par, photosynthesis, garden, infrablue, leaffest2013, response:9088, pigments, tomatoes, red-filter, ndvi-ag, activity:spectrometry, seeks:replications, activity:multispectral-imaging, activity:education, activity:science-fair, activity:classroom, activity:field-studies
 author: cfastie
 path: /notes/cfastie/10-10-2013/lycopene.md

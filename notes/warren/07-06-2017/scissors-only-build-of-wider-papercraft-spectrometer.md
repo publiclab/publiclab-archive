@@ -1,5 +1,5 @@
 ---
-title: Scissors-only build of wider papercraft spectrometer
+title: 'Scissors-only build of wider papercraft spectrometer'
 tagnames: spectrometer, spectrometry, fold-up-mini-spectrometer, instructions, foldable, papercraft, foldable-spectrometer, printability, glue, foldable-spec, build:13076
 author: warren
 path: /notes/warren/07-06-2017/scissors-only-build-of-wider-papercraft-spectrometer.md

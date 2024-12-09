@@ -1,5 +1,5 @@
 ---
-title: passive-pm-assembly
+title: 'passive-pm-assembly'
 tagnames: parent:passive-pm, activity:open-air
 author: mathew
 path: /wiki/passive-pm-assembly.md

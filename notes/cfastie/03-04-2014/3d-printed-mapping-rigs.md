@@ -1,5 +1,5 @@
 ---
-title: 3D printed mapping rigs
+title: '3D printed mapping rigs'
 tagnames: balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, snowfest, response:10097, snowfest2014
 author: cfastie
 path: /notes/cfastie/03-04-2014/3d-printed-mapping-rigs.md

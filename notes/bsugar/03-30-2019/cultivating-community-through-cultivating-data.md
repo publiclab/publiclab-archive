@@ -1,5 +1,5 @@
 ---
-title: Cultivating Community Through Cultivating Data
+title: 'Cultivating Community Through Cultivating Data'
 tagnames: community-metrics, data, evaluation, networks, community-analysis
 author: bsugar
 path: /notes/bsugar/03-30-2019/cultivating-community-through-cultivating-data.md

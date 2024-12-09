@@ -1,5 +1,5 @@
 ---
-title: Kits are on the move!
+title: 'Kits are on the move!'
 tagnames: providence, portland, kits, store, jobs, kits-initiative, kits-store
 author: Bronwen
 path: /notes/bronwen/08-24-2017/kits-are-on-the-move.md

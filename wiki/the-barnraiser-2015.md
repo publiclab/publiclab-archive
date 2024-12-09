@@ -1,5 +1,5 @@
 ---
-title: The Barnraiser 2015
+title: 'The Barnraiser 2015'
 tagnames: 
 author: warren
 path: /wiki/the-barnraiser-2015.md

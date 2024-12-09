@@ -1,5 +1,5 @@
 ---
-title: The Method Of Cleaning Sample Vial
+title: 'The Method Of Cleaning Sample Vial'
 tagnames: sample, first-time-poster, lat:34.341574, lon:108.93977, vial
 author: c329163204
 path: /notes/c329163204/05-22-2019/the-method-of-cleaning-sample-vial.md

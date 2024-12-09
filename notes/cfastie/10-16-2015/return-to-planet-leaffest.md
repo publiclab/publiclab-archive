@@ -1,5 +1,5 @@
 ---
-title: Return to Planet LEAFFEST
+title: 'Return to Planet LEAFFEST'
 tagnames: kite-mapping, vermont, kite, leaffest, grassrootsmappingforum, northeast, style:fancy, saturnv, skyshield, half-spherical, leaffest2015, response:12291, littleplanet, gmf-9
 author: cfastie
 path: /notes/cfastie/10-16-2015/return-to-planet-leaffest.md

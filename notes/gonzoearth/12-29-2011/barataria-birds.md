@@ -1,5 +1,5 @@
 ---
-title: Barataria Birds
+title: 'Barataria Birds'
 tagnames: barataria, birds, aerialwildlife, wildlife
 author: gonzoearth
 path: /notes/gonzoearth/12-29-2011/barataria-birds.md

@@ -1,5 +1,5 @@
 ---
-title: Strava 'heat map' shows re-enclosure of a commons in City Park New Orleans
+title: 'Strava 'heat map' shows re-enclosure of a commons in City Park New Orleans'
 tagnames: evidence, big-data, urban-planning, new-orleans, lousiana, enclosure, strava, commons, parks
 author: eustatic
 path: /01-31-2018/strava-heat-map-shows-re-enclosure-of-a-commons-in-city-park-new-orleans.md

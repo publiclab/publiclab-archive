@@ -1,5 +1,5 @@
 ---
-title: Research Area Reviews Archive
+title: 'Research Area Reviews Archive'
 tagnames: archive, reviews, research-area-review, parent:reviews
 author: bhamster
 path: /wiki/reviews-archive.md

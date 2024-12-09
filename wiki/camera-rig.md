@@ -1,5 +1,5 @@
 ---
-title: camera-rig
+title: 'camera-rig'
 tagnames: redirect:13764
 author: warren
 path: /wiki/camera-rig.md

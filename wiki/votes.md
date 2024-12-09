@@ -1,5 +1,5 @@
 ---
-title: Votes
+title: 'Votes'
 tagnames: 
 author: warren
 path: /wiki/votes.md

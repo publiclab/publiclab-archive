@@ -1,5 +1,5 @@
 ---
-title: Kite Balloon of R.H. Upson
+title: 'Kite Balloon of R.H. Upson'
 tagnames: balloon-mapping, kite-mapping, kite-balloon-hybrid
 author: mathew
 path: /notes/mathew/4-13-2012/kite-balloon-rh-upson.md

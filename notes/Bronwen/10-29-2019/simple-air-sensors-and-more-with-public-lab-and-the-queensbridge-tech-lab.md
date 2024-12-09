@@ -1,5 +1,5 @@
 ---
-title: Simple Air Sensors (and more) with Public Lab and the Queensbridge Tech Lab
+title: 'Simple Air Sensors (and more) with Public Lab and the Queensbridge Tech Lab'
 tagnames: events, workshops, nyc, lat:1, lon:10, simple-air-sensor, with:sadieprego, community-microcsope
 author: Bronwen
 path: /notes/Bronwen/10-29-2019/simple-air-sensors-and-more-with-public-lab-and-the-queensbridge-tech-lab.md

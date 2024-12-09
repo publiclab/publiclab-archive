@@ -1,5 +1,5 @@
 ---
-title: First surface mirrors can be found in old scanners
+title: 'First surface mirrors can be found in old scanners'
 tagnames: 
 author: warren
 path: /notes/warren/5-25-2011/first-surface-mirrors-can-be-found-old-scanners.md

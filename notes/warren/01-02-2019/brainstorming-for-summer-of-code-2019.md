@@ -1,5 +1,5 @@
 ---
-title: Brainstorming for Summer of Code 2019
+title: 'Brainstorming for Summer of Code 2019'
 tagnames: outreach, gsoc, code, wwg, software-outreach, rgsoc, soc, ideas, rgsoc-2019, gsoc-2019, soc-2019, soc-ideas, brainstorm, response:15477
 author: warren
 path: /notes/warren/01-02-2019/brainstorming-for-summer-of-code-2019.md

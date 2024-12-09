@@ -1,5 +1,5 @@
 ---
-title: Frac Sand Reporting 
+title: 'Frac Sand Reporting '
 tagnames: frac-sand, parent:frac-sand
 author: stevie
 path: /wiki/frac-sand-reporting.md

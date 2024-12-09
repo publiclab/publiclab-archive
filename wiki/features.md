@@ -1,5 +1,5 @@
 ---
-title: Features
+title: 'Features'
 tagnames: website, website-utilities
 author: warren
 path: /wiki/features.md

@@ -1,5 +1,5 @@
 ---
-title: RAILS GIRLS NAIROBI MEGA CODING EVENT
+title: 'RAILS GIRLS NAIROBI MEGA CODING EVENT'
 tagnames: education, events, workshop, software, event, open-space-technology, blog, kenya, coding, barnstar:basic, rails, africa, onboarding, software-outreach, rgsoc, soc, women, railsgirlsnairobi, nairobi, date:02-16-2018, coding-events
 author: stella
 path: /notes/stella/03-15-2018/rails-girls-nairobi-mega-coding-event.md

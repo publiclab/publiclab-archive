@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of geog187-waterloo map 
+title: 'MapKnitter map of geog187-waterloo map '
 tagnames: mapknitter, lat:43.4642578, lon:-80.5204096, first-time-poster
 author: allenhaoming
 path: /notes/allenhaoming/10-16-2015/mapknitter-map-of-geog187-waterloo-map.md

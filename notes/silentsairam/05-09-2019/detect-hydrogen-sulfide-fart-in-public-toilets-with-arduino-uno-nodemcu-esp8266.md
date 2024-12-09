@@ -1,5 +1,5 @@
 ---
-title: Detect Hydrogen Sulfide (Fart ) in Public Toilets with Arduino UNO/NodeMCU(ESP8266)
+title: 'Detect Hydrogen Sulfide (Fart ) in Public Toilets with Arduino UNO/NodeMCU(ESP8266)'
 tagnames: arduino, h2s, farts, arduino-uno, h2s-detector, hydrogen-sulfide-sensor, lat:12.945469, lon:80.147393
 author: silentsairam
 path: /notes/silentsairam/05-09-2019/detect-hydrogen-sulfide-fart-in-public-toilets-with-arduino-uno-nodemcu-esp8266.md

@@ -1,5 +1,5 @@
 ---
-title: Values statement
+title: 'Values statement'
 tagnames: community, organizers, chapters, values-statement
 author: warren
 path: /wiki/values-statement.md

@@ -1,5 +1,5 @@
 ---
-title: Louzaouiñ Seeds Of Contend
+title: 'Louzaouiñ Seeds Of Contend'
 tagnames: event, soil, water-quality, bioassay, seeds, zoom:6, lat:48.117266, lon:-1.677792, date:10-24-2022
 author: xavcc
 path: /notes/xavcc/09-16-2022/louzaouin-seeds-of-contend.md

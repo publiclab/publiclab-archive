@@ -1,5 +1,5 @@
 ---
-title: Experiment with polarizing filters to view crystalline dust
+title: 'Experiment with polarizing filters to view crystalline dust'
 tagnames: as220, blog, silica, polarizer, polarized-light, polarized-light-microscopy, microscope, hardware, activity:microscope, location:blurred, crystalline-silica, community-microscope, activity:community-microscope-usage, replication:15819, microbrews, grout, polarizing-filter, polarized-, dust-, community-, response:10482, response:17785, activity:dust-sampling, activity:starter-community-microscope, lat:41.821542, lon:-71.415705
 author: warren
 path: /notes/warren/01-14-2019/experiment-with-polarizing-filters-to-view-crystalline-dust.md

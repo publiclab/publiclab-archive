@@ -1,5 +1,5 @@
 ---
-title: Triggering A495 by button/USB
+title: 'Triggering A495 by button/USB'
 tagnames: 
 author: warren
 path: /notes/warren/3-1-2012/triggering-a495-buttonusb.md

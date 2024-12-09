@@ -1,5 +1,5 @@
 ---
-title: Clips for the next spectrometer
+title: 'Clips for the next spectrometer'
 tagnames: spectrometer, oil-testing-kit
 author: mathew
 path: /notes/mathew/08-20-2014/clips-for-the-next-spectrometer.md

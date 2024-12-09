@@ -1,5 +1,5 @@
 ---
-title: Mobius ActionCam for Aerial Photography
+title: 'Mobius ActionCam for Aerial Photography'
 tagnames: 
 author: tonyc
 path: /wiki/mobius-actioncam-for-aerial-photography.md

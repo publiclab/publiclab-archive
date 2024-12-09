@@ -1,5 +1,5 @@
 ---
-title: Reference graphic, Barataria work
+title: 'Reference graphic, Barataria work'
 tagnames: gulf-coast, mapknitter, wetlands, louisiana, barataria
 author: eustatic
 path: /08-15-2014/reference-graphic-barataria-work.md

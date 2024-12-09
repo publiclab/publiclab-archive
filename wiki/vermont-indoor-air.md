@@ -1,5 +1,5 @@
 ---
-title: Vermont Indoor Air
+title: 'Vermont Indoor Air'
 tagnames: vermont, indoor-air-quality, indoor-air, indoor-air-info-sheet
 author: gretchengehrke
 path: /wiki/vermont-indoor-air.md

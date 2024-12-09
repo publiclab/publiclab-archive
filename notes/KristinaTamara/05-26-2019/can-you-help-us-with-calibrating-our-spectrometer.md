@@ -1,5 +1,5 @@
 ---
-title: Can you help us with calibrating our spectrometer?
+title: 'Can you help us with calibrating our spectrometer?'
 tagnames: spectrometer, calibration, question:spectrometry, first-time-poster, calibrating
 author: KristinaTamara
 path: /notes/KristinaTamara/05-26-2019/can-you-help-us-with-calibrating-our-spectrometer.md

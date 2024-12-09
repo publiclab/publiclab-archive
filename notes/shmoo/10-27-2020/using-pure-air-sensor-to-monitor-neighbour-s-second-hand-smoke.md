@@ -1,5 +1,5 @@
 ---
-title: Using PurpleAir Sensor to monitor neighbour's second hand smoke
+title: 'Using PurpleAir Sensor to monitor neighbour's second hand smoke'
 tagnames: air-quality, purpleair, question:purpleair, first-time-poster
 author: shmoo
 path: /notes/shmoo/10-27-2020/using-pure-air-sensor-to-monitor-neighbour-s-second-hand-smoke.md

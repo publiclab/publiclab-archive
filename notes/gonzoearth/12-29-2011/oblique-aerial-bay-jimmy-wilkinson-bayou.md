@@ -1,5 +1,5 @@
 ---
-title: Oblique aerial of Bay Jimmy - Wilkinson Bayou
+title: 'Oblique aerial of Bay Jimmy - Wilkinson Bayou'
 tagnames: oblique, airplane, bayjimmy
 author: gonzoearth
 path: /notes/gonzoearth/12-29-2011/oblique-aerial-bay-jimmy-wilkinson-bayou.md

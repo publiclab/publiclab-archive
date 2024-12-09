@@ -1,5 +1,5 @@
 ---
-title: sensors in soda bottles
+title: 'sensors in soda bottles'
 tagnames: housing, water-quality, water, riffle, open-water, barnstar:basic, coqui, hydrology, case, enclosure, waterproofing, bottles, soda-bottle, rice, riffle-examples, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures
 author: mathew
 path: /notes/mathew/02-26-2015/sensors-in-soda-bottles.md

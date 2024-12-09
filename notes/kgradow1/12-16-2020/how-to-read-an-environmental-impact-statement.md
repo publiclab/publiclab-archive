@@ -1,5 +1,5 @@
 ---
-title: How to read an Environmental Impact Statement
+title: 'How to read an Environmental Impact Statement'
 tagnames: air-quality, water-quality, bucket-brigade, new, draft, soil-quality, activity:air-quality, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action
 author: kgradow1
 path: /notes/kgradow1/12-16-2020/how-to-read-an-environmental-impact-statement.md

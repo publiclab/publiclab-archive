@@ -1,5 +1,5 @@
 ---
-title: Grassroots Mapping Tshirts
+title: 'Grassroots Mapping Tshirts'
 tagnames: balloon-mapping
 author: warren
 path: /notes/warren/4-4-2012/grassroots-mapping-tshirts.md

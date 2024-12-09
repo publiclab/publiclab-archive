@@ -1,5 +1,5 @@
 ---
-title: Gowanus CSI: Creek Scene Investigation
+title: 'Gowanus CSI: Creek Scene Investigation'
 tagnames: new-york-city, gowanus, prospect-park, spring, gowanus-csi, with:eymund
 author: liz
 path: /notes/liz/05-07-2014/gowanus-csi-creek-scene-investigation.md

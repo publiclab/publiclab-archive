@@ -1,5 +1,5 @@
 ---
-title: New upgrade today for my spectrometer/New CCD camera module
+title: 'New upgrade today for my spectrometer/New CCD camera module'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-09-2016/new-upgrade-today-for-my-spectrometer-new-ccd-camera-module.md

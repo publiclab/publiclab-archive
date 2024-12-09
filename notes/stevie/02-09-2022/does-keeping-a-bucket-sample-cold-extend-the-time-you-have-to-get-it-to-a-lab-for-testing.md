@@ -1,5 +1,5 @@
 ---
-title: Does keeping a bucket sample cold extend the time you have to get it to a lab for testing? 
+title: 'Does keeping a bucket sample cold extend the time you have to get it to a lab for testing? '
 tagnames: air-quality, question:air-quality, question:general, general, bucket, air-quality-monitoring, bucket-monitor, question:bucket-monitor, question:bucket, suma, question:suma, question:air-quality-monitoring
 author: stevie
 path: /notes/stevie/02-09-2022/does-keeping-a-bucket-sample-cold-extend-the-time-you-have-to-get-it-to-a-lab-for-testing.md

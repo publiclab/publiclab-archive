@@ -1,5 +1,5 @@
 ---
-title: Build a "Mega Coqui" water conductivity sensor with an amplifier
+title: 'Build a "Mega Coqui" water conductivity sensor with an amplifier'
 tagnames: water-quality, coqui, seeks:replications, activity:coqui, lat:41.804078, lon:-71.433105, with:mimiss
 author: warren
 path: /notes/warren/03-26-2019/build-a-mega-coqui-water-conductivity-sensor-with-an-amplifier.md

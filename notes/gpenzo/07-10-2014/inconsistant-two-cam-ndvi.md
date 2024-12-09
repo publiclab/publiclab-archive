@@ -1,5 +1,5 @@
 ---
-title: Inconsistent two cam ndvi
+title: 'Inconsistent two cam ndvi'
 tagnames: ndvi, canon, a2500
 author: gpenzo
 path: /notes/gpenzo/07-10-2014/inconsistant-two-cam-ndvi.md

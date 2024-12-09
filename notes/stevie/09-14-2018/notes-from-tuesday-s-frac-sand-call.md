@@ -1,5 +1,5 @@
 ---
-title: Notes from Tuesday’s frac sand call
+title: 'Notes from Tuesday’s frac sand call'
 tagnames: reporting, wisconsin, frac-sand, pm, midwest, with:warren, with:liz, with:bronwen, parent:frac-sand, with:pat, open-call, with:dswenson, with:wicca, with:read_holman, sentinel, parent:the-sand-sentinel-program, sand-sentinel
 author: stevie
 path: /notes/stevie/09-14-2018/notes-from-tuesday-s-frac-sand-call.md

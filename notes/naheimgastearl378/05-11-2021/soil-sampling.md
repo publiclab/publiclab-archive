@@ -1,5 +1,5 @@
 ---
-title: Soil sampling 
+title: 'Soil sampling '
 tagnames: mapknitter, first-time-poster, zoom:17, lat:30.0182271289, lon:-90.5544877052, lat:30.016276, lon:-90.553145
 author: naheimgastearl378
 path: /notes/naheimgastearl378/05-11-2021/soil-sampling.md

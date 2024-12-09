@@ -1,5 +1,5 @@
 ---
-title: Correct Config. File & Trobule shooting2
+title: 'Correct Config. File & Trobule shooting2'
 tagnames: infragram, question:infragram, question:infragram-point-shoot
 author: will123
 path: /notes/will123/09-29-2016/correct-config-file-trobule-shooting2.md

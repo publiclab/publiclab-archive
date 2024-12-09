@@ -1,5 +1,5 @@
 ---
-title: DIY spectrophotometer?
+title: 'DIY spectrophotometer?'
 tagnames: spectrometer, spectrophotometer, diy, lens, detector, absorbance, diopter, focal
 author: Mekis
 path: /notes/Mekis/04-16-2017/diy-spectrophotometer.md

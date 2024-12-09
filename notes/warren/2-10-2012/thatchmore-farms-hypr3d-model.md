@@ -1,5 +1,5 @@
 ---
-title: Thatchmore farms hypr3d model
+title: 'Thatchmore farms hypr3d model'
 tagnames: 
 author: warren
 path: /notes/warren/2-10-2012/thatchmore-farms-hypr3d-model.md

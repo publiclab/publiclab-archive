@@ -1,5 +1,5 @@
 ---
-title: Event: Organize and advocate with maps! Wrapping up Public Lab’s latest research area review
+title: 'Event: Organize and advocate with maps! Wrapping up Public Lab’s latest research area review'
 tagnames: mapping, event, organizing, research, event:rsvp, advocacy, reviews, community-organizing, research-area-review, with:julia_e_masters, rsvp:rosal
 author: bhamster
 path: /notes/bhamster/06-08-2021/event-organize-and-advocate-with-maps-wrapping-up-public-lab-s-latest-research-area-review.md

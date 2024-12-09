@@ -1,5 +1,5 @@
 ---
-title: Whats the detection limit of the Desktop Spectrometry kit?
+title: 'Whats the detection limit of the Desktop Spectrometry kit?'
 tagnames: spectrometry, dsk, mercury, question:spectrometry, answered, question:dssk, dssk, detection-limit
 author: partyparrot4eva
 path: /notes/partyparrot4eva/01-17-2018/whats-the-detection-limit-of-the-desktop-spectrometry-kit.md

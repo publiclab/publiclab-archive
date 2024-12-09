@@ -1,5 +1,5 @@
 ---
-title: How do I set a custum white balance of the NoIR modulo cam?
+title: 'How do I set a custum white balance of the NoIR modulo cam?'
 tagnames: raspberry-pi, white-balance, pi-camera, pinoir, whitebalance, question:pi-camera, raspberry-pi-infragram, activity:raspberry-pi-infragram, question:raspberry-pi-infragram, question:infragram-filters, question:infrared-camera-conversion, first-time-poster
 author: LaPa
 path: /notes/LaPa/12-03-2015/how-do-i-set-a-costum-white-balance-of-the-noir-modulo-cam.md

@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench Offline
+title: 'Spectral Workbench Offline'
 tagnames: spectrometer, spectralworkbench, offline
 author: warren
 path: /notes/warren/10-28-2013/spectral-workbench-offline.md

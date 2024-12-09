@@ -1,5 +1,5 @@
 ---
-title: powertags
+title: 'powertags'
 tagnames: redirect:power-tags
 author: warren
 path: /wiki/powertags.md

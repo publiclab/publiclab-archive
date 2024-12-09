@@ -1,5 +1,5 @@
 ---
-title: DIY fluorometer and solvent free extraction and dispersion of oil in water
+title: 'DIY fluorometer and solvent free extraction and dispersion of oil in water'
 tagnames: oil, spectrometry, fluorescence, sampling, extraction, oil-testing, fluorometer, diy-fluorometer, activity:sampling, activity:oil-testing, activity:fluorescecne, activity:fluorescence
 author: jakemartin
 path: /notes/jakemartin/07-12-2016/diy-fluorometer-and-solvent-free-extraction-and-dispersion-of-oil-in-water.md

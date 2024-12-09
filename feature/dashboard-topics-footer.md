@@ -1,5 +1,5 @@
 ---
-title: dashboard-topics-footer
+title: 'dashboard-topics-footer'
 tagnames: 
 author: warren
 path: /feature/dashboard-topics-footer.md

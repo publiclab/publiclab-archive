@@ -1,5 +1,5 @@
 ---
-title: Early (2014) plant filter prototype
+title: 'Early (2014) plant filter prototype'
 tagnames: remediation, open-air, with:nshapiro, parent:diy-indoor-air-quality-remediation-kit
 author: liz
 path: /notes/liz/05-16-2017/early-2014-plant-filter-prototype.md

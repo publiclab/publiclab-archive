@@ -1,5 +1,5 @@
 ---
-title: ndvi plant
+title: 'ndvi plant'
 tagnames: greenleaves
 author: GreenLeaves
 path: /notes/GreenLeaves/07-11-2014/selfgrown-plant.md

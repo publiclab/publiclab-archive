@@ -1,5 +1,5 @@
 ---
-title: Delhi Open source meetup at NSIT
+title: 'Delhi Open source meetup at NSIT'
 tagnames: event, india, barnstar:basic, software-outreach, coding-events, new-delhi, with:gabru-md
 author: tech4gt
 path: /notes/tech4gt/04-14-2018/delhi-open-source-meetup-at-nsit.md

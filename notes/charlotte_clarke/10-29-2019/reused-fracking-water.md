@@ -1,5 +1,5 @@
 ---
-title: Reused fracking water?
+title: 'Reused fracking water?'
 tagnames: water-quality, fracking, question:water-quality, oil-and-gas, question:oil-and-gas, question:fracking, oil-and-gas-water-trio, question:oil-and-gas-water-trio, oil-and-gas-water-quality, question:oil-and-gas-water-quality
 author: charlotte_clarke
 path: /notes/charlotte_clarke/10-29-2019/reused-fracking-water.md

@@ -1,5 +1,5 @@
 ---
-title: Lee, NH – Help and learn about documenting cover crops using balloon mapping and spectral analysis
+title: 'Lee, NH – Help and learn about documenting cover crops using balloon mapping and spectral analysis'
 tagnames: balloon-mapping, near-infrared-camera, spectrometer, kite-mapping, events, meetup, field-test, ifarm
 author: warren
 path: /notes/warren/5-18-2012/lee-nh-help-and-learn-about-documenting-cover-crops-using-balloon-mapping-and.md

@@ -1,5 +1,5 @@
 ---
-title: Absorption spectra makes sense?
+title: 'Absorption spectra makes sense?'
 tagnames: 
 author: dckim11
 path: /notes/dckim11/01-16-2014/absorption-spectra-makes-sense.md

@@ -1,5 +1,5 @@
 ---
-title: Observable water quality violations related to frac sand mining 
+title: 'Observable water quality violations related to frac sand mining '
 tagnames: reporting, wisconsin, water-quality, frac-sand, midwest, frac-sand-reporting, sentinel, local-reporting, parent:the-sand-sentinel-program, reclamation
 author: kamau19
 path: /wiki/water-violations.md

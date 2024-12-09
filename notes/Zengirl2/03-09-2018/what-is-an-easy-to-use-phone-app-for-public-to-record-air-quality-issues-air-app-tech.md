@@ -1,5 +1,5 @@
 ---
-title: What is an easy-to-use phone app for public to record air quality issues? #air #app #tech
+title: 'What is an easy-to-use phone app for public to record air quality issues? #air #app #tech'
 tagnames: community, air-quality, cafo, answered, question:question, odor, question:odor, question:smell, factory-farms, question:cafo, odor-logging, question:odor-logging
 author: zengirl2
 path: /notes/Zengirl2/03-09-2018/what-is-an-easy-to-use-phone-app-for-public-to-record-air-quality-issues-air-app-tech.md

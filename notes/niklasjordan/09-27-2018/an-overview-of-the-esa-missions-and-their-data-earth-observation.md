@@ -1,5 +1,5 @@
 ---
-title: An overview of the ESA missions and their data (Earth observation)
+title: 'An overview of the ESA missions and their data (Earth observation)'
 tagnames: imagery, satellite-imagery, esa, satelite, earth, observation, european-space-agency
 author: niklasjordan
 path: /notes/niklasjordan/09-27-2018/an-overview-of-the-esa-missions-and-their-data-earth-observation.md

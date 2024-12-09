@@ -1,5 +1,5 @@
 ---
-title: How to read a Permit Application
+title: 'How to read a Permit Application'
 tagnames: air-quality, water-quality, bucket-brigade, new, soil-testing, draft, activity:air-quality, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action
 author: kgradow1
 path: /notes/kgradow1/12-16-2020/how-to-read-a-permit-application.md

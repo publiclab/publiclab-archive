@@ -1,5 +1,5 @@
 ---
-title: Post-ITP Camp Aerial Mapping @ Fresh Kills, Pre-Aerial Mapping with High School Kids!
+title: 'Post-ITP Camp Aerial Mapping @ Fresh Kills, Pre-Aerial Mapping with High School Kids!'
 tagnames: new-york-city, balloon-mapping, landfill, waste, trash, fresh-kills, itp, high-school
 author: christinameilene
 path: /notes/christinameilene/07-18-2013/post-itp-camp-aerial-mapping-fresh-kills-pre-aerial-mapping-with-high-school-kids.md

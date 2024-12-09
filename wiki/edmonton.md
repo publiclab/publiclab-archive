@@ -1,5 +1,5 @@
 ---
-title: Edmonton
+title: 'Edmonton'
 tagnames: edmonton, canada
 author: ann
 path: /wiki/edmonton.md

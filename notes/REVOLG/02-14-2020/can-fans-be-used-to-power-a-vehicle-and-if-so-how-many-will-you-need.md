@@ -1,5 +1,5 @@
 ---
-title: Can fans be used to power a vehicle and if so how many will you need?
+title: 'Can fans be used to power a vehicle and if so how many will you need?'
 tagnames: arduino, raspberry-pi, wind, question:general, general, wind-speed, question:electronics, electronics, first-time-poster, with:amallozzi, rvg-car, question:rvg-car, alternative-energy, wind-power, question:wind-power
 author: REVOLG
 path: /notes/REVOLG/02-14-2020/can-fans-be-used-to-power-a-vehicle-and-if-so-how-many-will-you-need.md

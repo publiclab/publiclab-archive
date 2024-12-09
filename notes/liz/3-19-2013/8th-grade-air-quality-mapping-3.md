@@ -1,5 +1,5 @@
 ---
-title: 8th grade audience survey viz
+title: '8th grade audience survey viz'
 tagnames: new-york-city, chaq, air-quality, air-quality-egg
 author: liz
 path: /notes/liz/3-19-2013/8th-grade-air-quality-mapping-3.md

@@ -1,5 +1,5 @@
 ---
-title: PBS post on Brooklyn mapping projects and recent imagery
+title: 'PBS post on Brooklyn mapping projects and recent imagery'
 tagnames: idealab
 author: warren
 path: /notes/warren/10-3-2011/pbs-post-brooklyn-mapping-projects-and-recent-imagery.md

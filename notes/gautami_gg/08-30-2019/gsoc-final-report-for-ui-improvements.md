@@ -1,5 +1,5 @@
 ---
-title: GSoC Final Report for UI Improvements
+title: 'GSoC Final Report for UI Improvements'
 tagnames: gsoc-2019-final-report
 author: gautami_gg
 path: /notes/gautami_gg/08-30-2019/gsoc-final-report-for-ui-improvements.md

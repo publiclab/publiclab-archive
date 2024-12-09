@@ -1,5 +1,5 @@
 ---
-title: Mockups for website improvements
+title: 'Mockups for website improvements'
 tagnames: website
 author: warren
 path: /notes/warren/5-30-2012/mockups-website-improvements.md

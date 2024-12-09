@@ -1,5 +1,5 @@
 ---
-title: August Pine Ridge RC school, Belize mapping session
+title: 'August Pine Ridge RC school, Belize mapping session'
 tagnames: balloon-mapping, kite-mapping, belize, belizeopensource
 author: patcoyle
 path: /notes/patcoyle/3-3-2013/august-pine-ridge-rc-school-belize-mapping-sessions-0.md

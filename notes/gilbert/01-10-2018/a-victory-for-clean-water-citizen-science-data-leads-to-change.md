@@ -1,5 +1,5 @@
 ---
-title: A Victory for Clean Water: Citizen Science Data Leads to Change by Andy Hrycyna
+title: 'A Victory for Clean Water: Citizen Science Data Leads to Change by Andy Hrycyna'
 tagnames: citizen-science, water-quality, blog, alewife-brook, mystic-river-watershed-association
 author: gilbert
 path: /notes/gilbert/01-10-2018/a-victory-for-clean-water-citizen-science-data-leads-to-change.md

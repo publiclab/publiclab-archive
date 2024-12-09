@@ -1,5 +1,5 @@
 ---
-title: How to find/request an air emissions permit for a facility in Quebec?
+title: 'How to find/request an air emissions permit for a facility in Quebec?'
 tagnames: air-quality, emissions, question:air-quality, question:general, general, question:permit, first-time-poster, question:emissions, zoom:6, permit, lat:45.86541, lon:-73.241282
 author: Fleer
 path: /notes/Fleer/01-27-2022/how-to-find-request-an-air-emissions-permit-for-a-facility-in-quebec.md

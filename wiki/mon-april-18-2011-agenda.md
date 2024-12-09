@@ -1,5 +1,5 @@
 ---
-title: Mon April 18 2011 Agenda
+title: 'Mon April 18 2011 Agenda'
 tagnames: 
 author: warren
 path: /wiki/mon-april-18-2011-agenda.md

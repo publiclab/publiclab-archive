@@ -1,5 +1,5 @@
 ---
-title: GSoD : System diagram and Roadmap for Plots2
+title: 'GSoD : System diagram and Roadmap for Plots2'
 tagnames: documentation, gsoc, gsoc-proposal, soc, gsod, gsod2019, gsod19
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/04-22-2019/gsod-system-diagram-and-roadmap-for-plots2.md

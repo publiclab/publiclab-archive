@@ -1,5 +1,5 @@
 ---
-title: Pyrex thermal infrared transmissivity
+title: 'Pyrex thermal infrared transmissivity'
 tagnames: thermal-photography, thermal-flashlight, pyrex, lenses
 author: warren
 path: /notes/warren/2-9-2011/pyrex-thermal-infrared-transmissivity.md

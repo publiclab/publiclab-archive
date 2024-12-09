@@ -1,5 +1,5 @@
 ---
-title: addmendum to my post...
+title: 'addmendum to my post...'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/02-16-2016/addmendum-to-my-post.md

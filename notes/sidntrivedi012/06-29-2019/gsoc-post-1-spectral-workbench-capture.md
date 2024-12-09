@@ -1,5 +1,5 @@
 ---
-title: GSoC Post 1: Spectral-Workbench-Capture
+title: 'GSoC Post 1: Spectral-Workbench-Capture'
 tagnames: open-source, spectral-workbench, gsoc, soc-2019, post-1
 author: sidntrivedi012
 path: /notes/sidntrivedi012/06-29-2019/gsoc-post-1-spectral-workbench-capture.md

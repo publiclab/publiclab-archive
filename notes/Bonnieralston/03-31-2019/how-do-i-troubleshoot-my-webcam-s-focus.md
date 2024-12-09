@@ -1,5 +1,5 @@
 ---
-title: How do I...troubleshoot my webcam's focus?
+title: 'How do I...troubleshoot my webcam's focus?'
 tagnames: community-microscope, question:community-microscope, first-time-poster, faq-community-microscope
 author: Bonnieralston
 path: /notes/Bonnieralston/03-31-2019/how-do-i-troubleshoot-my-webcam-s-focus.md

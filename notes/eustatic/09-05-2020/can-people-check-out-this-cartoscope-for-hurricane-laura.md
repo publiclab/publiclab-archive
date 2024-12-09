@@ -1,5 +1,5 @@
 ---
-title: Can People Check out This Cartoscope for Hurricane Laura?
+title: 'Can People Check out This Cartoscope for Hurricane Laura?'
 tagnames: gulf-coast, photo, aerial, mapmill, response, question:general, general, cartoscope
 author: eustatic
 path: /09-05-2020/can-people-check-out-this-cartoscope-for-hurricane-laura.md

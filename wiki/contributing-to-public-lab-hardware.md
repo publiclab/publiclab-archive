@@ -1,5 +1,5 @@
 ---
-title: Contributing to Public Lab hardware
+title: 'Contributing to Public Lab hardware'
 tagnames: collaboration, community, open-hardware, contributing
 author: warren
 path: /wiki/contributing-to-public-lab-hardware.md

@@ -1,5 +1,5 @@
 ---
-title: Bridge Trawl
+title: 'Bridge Trawl'
 tagnames: water-quality, micro-plastics, microplastics, plastics, trawl, oceans, activity:microplastics
 author: TestOurWaters
 path: /notes/TestOurWaters/06-20-2019/bridge-trawl.md

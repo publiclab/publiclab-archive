@@ -1,5 +1,5 @@
 ---
-title: Citizen Science Investigations: aka ‘Common Legal Issues when using Community Sourced Data’
+title: 'Citizen Science Investigations: aka ‘Common Legal Issues when using Community Sourced Data’'
 tagnames: evidence, blog, legal, evidence-project, series:evidence-project, first-time-poster, law-and-policy
 author: lenagd
 path: /notes/lenagd/12-20-2016/citizen-science-investigations-aka-common-legal-issues-when-using-community-sourced-data.md

@@ -1,5 +1,5 @@
 ---
-title: Harrisburg students use PLOTS balloon mapping (local TV clip)
+title: 'Harrisburg students use PLOTS balloon mapping (local TV clip)'
 tagnames: balloon-mapping
 author: warren
 path: /notes/warren/4-6-2012/harrisburg-students-use-plots-balloon-mapping-local-tv-clip.md

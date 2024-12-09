@@ -1,5 +1,5 @@
 ---
-title: "Cool" Riffle Data - with holes!
+title: '"Cool" Riffle Data - with holes!'
 tagnames: riffle-beta
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/07-09-2016/cool-riffle-data-with-holes.md

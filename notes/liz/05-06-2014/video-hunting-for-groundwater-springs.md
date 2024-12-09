@@ -1,5 +1,5 @@
 ---
-title: VIDEO: hunting for groundwater springs
+title: 'VIDEO: hunting for groundwater springs'
 tagnames: new-york-city, gowanus, proteus-gowanus, spring
 author: liz
 path: /notes/liz/05-06-2014/video-hunting-for-groundwater-springs.md

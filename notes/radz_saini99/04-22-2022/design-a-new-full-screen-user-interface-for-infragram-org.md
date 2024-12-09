@@ -1,5 +1,5 @@
 ---
-title: Design a new full-screen user interface for Infragram.org
+title: 'Design a new full-screen user interface for Infragram.org'
 tagnames: soc, soc-2019, soc-2019-proposals
 author: radz_saini99
 path: /notes/radz_saini99/04-22-2022/design-a-new-full-screen-user-interface-for-infragram-org.md

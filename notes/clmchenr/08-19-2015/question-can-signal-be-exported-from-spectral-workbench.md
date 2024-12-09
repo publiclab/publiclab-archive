@@ -1,5 +1,5 @@
 ---
-title: Question: Can signal be exported from Spectral Workbench? 
+title: 'Question: Can signal be exported from Spectral Workbench? '
 tagnames: software, spectral-workbench, question:spectrometry, answered, first-time-poster
 author: clmchenr
 path: /notes/clmchenr/08-19-2015/question-can-signal-be-exported-from-spectral-workbench.md

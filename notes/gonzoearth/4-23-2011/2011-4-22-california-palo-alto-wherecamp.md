@@ -1,5 +1,5 @@
 ---
-title: 2011-4-22 california - palo alto - wherecamp
+title: '2011-4-22 california - palo alto - wherecamp'
 tagnames: california
 author: gonzoearth
 path: /notes/gonzoearth/4-23-2011/2011-4-22-california-palo-alto-wherecamp.md

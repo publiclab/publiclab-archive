@@ -1,5 +1,5 @@
 ---
-title: UCLA engineers create cell phone-based sensor for detection of E. coli
+title: 'UCLA engineers create cell phone-based sensor for detection of E. coli'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/2-23-2012/ucla-engineers-create-cell-phone-based-sensor-detection-e-coli.md

@@ -1,5 +1,5 @@
 ---
-title: Winds aloft
+title: 'Winds aloft'
 tagnames: balloon-mapping, kite-mapping, arduino, kite-aerial-photography, kite, sensors, wind, saturnv, skyshield, half-spherical, skypod, nano-data-logger, bme280, ublox, response:14551, wind-sensor, rokkaku, series:diy-wind-sensors, skypod-gps-logger, activity:skypod-gps-logger, activity:as220-wind-sensors
 author: cfastie
 path: /notes/cfastie/08-03-2017/winds-aloft.md

@@ -1,5 +1,5 @@
 ---
-title: Dual camera KAP rig
+title: 'Dual camera KAP rig'
 tagnames: near-infrared-camera, kite-mapping, picavet, photo-rig, first-time-poster
 author: cfastie
 path: /notes/cfastie/2-22-2012/dual-camera-kap-rig.md

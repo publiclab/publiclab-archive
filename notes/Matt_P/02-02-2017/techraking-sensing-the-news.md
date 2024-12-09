@@ -1,5 +1,5 @@
 ---
-title: TechRaking: Sensing the News
+title: 'TechRaking: Sensing the News'
 tagnames: community, event, sensors, engagement
 author: Matt_P
 path: /notes/Matt_P/02-02-2017/techraking-sensing-the-news.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab community newsletter 8.24.12
+title: 'Public Lab community newsletter 8.24.12'
 tagnames: newsletter, newsletter-archive
 author: gonzoearth
 path: /notes/gonzoearth/8-24-2012/public-lab-community-newsletter-82412.md

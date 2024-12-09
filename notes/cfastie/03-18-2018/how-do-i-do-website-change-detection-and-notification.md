@@ -1,5 +1,5 @@
 ---
-title: How do I do website change detection and notification?
+title: 'How do I do website change detection and notification?'
 tagnames: pesticides, alerts, answered, question:alerts, question:pesticides
 author: cfastie
 path: /notes/cfastie/03-18-2018/how-do-i-do-website-change-detection-and-notification.md

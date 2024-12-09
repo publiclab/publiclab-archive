@@ -1,5 +1,5 @@
 ---
-title: oil-testing-workshop-calibration-and-scanning
+title: 'oil-testing-workshop-calibration-and-scanning'
 tagnames: workshop, oil-testing-kit, parent:oil-testing-workshops
 author: liz
 path: /wiki/oil-testing-workshop-calibration-and-scanning.md

@@ -1,5 +1,5 @@
 ---
-title: Donations/promos/consignment
+title: 'Donations/promos/consignment'
 tagnames: 
 author: natalie
 path: /wiki/donations-promos-consignment.md

@@ -1,5 +1,5 @@
 ---
-title: Spectrometer assembly in full swing
+title: 'Spectrometer assembly in full swing'
 tagnames: spectrometer, kickstarter, assembly
 author: warren
 path: /notes/warren/12-5-2012/spectrometer-assembly-full-swing.md

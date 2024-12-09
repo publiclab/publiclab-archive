@@ -1,5 +1,5 @@
 ---
-title: Energosberegayshaia lampa start e27 4000k
+title: 'Energosberegayshaia lampa start e27 4000k'
 tagnames: first-time-poster
 author: AlexanderZemliakov
 path: /notes/AlexanderZemliakov/10-31-2018/energosberegayshaia-lampa-start.md

@@ -1,5 +1,5 @@
 ---
-title: Accessible Vegetation Indices.
+title: 'Accessible Vegetation Indices.'
 tagnames: ndvi, nir, cameras, bone, two, beagle
 author: gpenzo
 path: /notes/gpenzo/12-11-2014/accessible-vegetation-indices.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Upgrade to Rails 5
+title: 'GSoC proposal: Upgrade to Rails 5'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, gsoc-2018-final, first-time-poster
 author: souravirus
 path: /notes/souravirus/02-25-2018/gsoc-proposal-upgrade-to-rails-5.md

@@ -1,5 +1,5 @@
 ---
-title: Everybody Struggles! - [Outreachy & Public Lab Internship] Blog #2
+title: 'Everybody Struggles! - [Outreachy & Public Lab Internship] Blog #2'
 tagnames: outreachy, outreachy-2020
 author: noi5e
 path: /notes/noi5e/01-08-2021/everybody-struggles-outreachy-public-lab-internship-blog-1.md

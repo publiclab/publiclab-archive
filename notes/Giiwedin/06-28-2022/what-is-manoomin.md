@@ -1,5 +1,5 @@
 ---
-title: What is Manoomin?
+title: 'What is Manoomin?'
 tagnames: lake, wetland, water, river, lon:-90, lat:40, zoom:5, wild-rice, mn-land-manoomin-protection, great-lakes-region, manoomin, minneosta
 author: Giiwedin
 path: /notes/Giiwedin/06-28-2022/what-is-manoomin.md

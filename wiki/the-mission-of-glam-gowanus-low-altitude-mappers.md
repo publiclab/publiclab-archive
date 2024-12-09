@@ -1,5 +1,5 @@
 ---
-title: The Mission of GLAM: Gowanus Low Altitude Mappers
+title: 'The Mission of GLAM: Gowanus Low Altitude Mappers'
 tagnames: gowanus, gowanus-canal, gowanus-canal-superfund-site, grassrootsmappingforum, glam, style:fancy, gmf-4
 author: mollydanielsson
 path: /wiki/the-mission-of-glam-gowanus-low-altitude-mappers.md

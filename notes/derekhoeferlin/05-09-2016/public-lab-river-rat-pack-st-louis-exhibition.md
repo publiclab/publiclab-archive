@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack -- St. Louis -- Exhibition
+title: 'Public Lab River Rat Pack -- St. Louis -- Exhibition'
 tagnames: balloon-mapping, blog, mississippi-river, barnstar:basic, barnstar:photo-documentation, mid-west, exhibition, missouri, publiclabriverratpack, antidrone, stlouis, fresh-water, public-access
 author: derekhoeferlin
 path: /notes/derekhoeferlin/05-09-2016/public-lab-river-rat-pack-st-louis-exhibition.md

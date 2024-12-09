@@ -1,5 +1,5 @@
 ---
-title: A sweet way to attach a camera to a kite or balloon line
+title: 'A sweet way to attach a camera to a kite or balloon line'
 tagnames: aerial-photography, photo-rig, bottle-rig, aerial-mapping, camera-rig, barnstar:basic, activity:photo-rig
 author: cfastie
 path: /notes/cfastie/07-05-2017/a-sweet-way-to-attach-a-camera-to-a-kite-or-balloon-line.md

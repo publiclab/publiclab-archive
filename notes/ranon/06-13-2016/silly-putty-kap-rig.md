@@ -1,5 +1,5 @@
 ---
-title: Silly Putty KAP Rig
+title: 'Silly Putty KAP Rig'
 tagnames: balloon-mapping, kite-aerial-photography, camera-rig-tests, kite, polemapping, photo-rig, panorama, camera-rig, jerkpan, reconfigurable-rig, activity:photo-rig
 author: ranon
 path: /notes/ranon/06-13-2016/silly-putty-kap-rig.md

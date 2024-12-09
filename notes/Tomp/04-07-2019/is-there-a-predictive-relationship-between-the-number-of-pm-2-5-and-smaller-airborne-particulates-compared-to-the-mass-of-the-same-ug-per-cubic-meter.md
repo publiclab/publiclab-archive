@@ -1,5 +1,5 @@
 ---
-title: Is there a predictive relationship between the number of PM 2.5 and smaller airborne particulates compared to the mass of the same ug per cubic meter?
+title: 'Is there a predictive relationship between the number of PM 2.5 and smaller airborne particulates compared to the mass of the same ug per cubic meter?'
 tagnames: air-quality, dust, particulates, pm, question:air-quality, air-sensing, particulate-matter, pm2.5, plantower, question:purpleair, first-time-poster, question:simple-air-sensor, question:plantower
 author: Tomp
 path: /notes/Tomp/04-07-2019/is-there-a-predictive-relationship-between-the-number-of-pm-2-5-and-smaller-airborne-particulates-compared-to-the-mass-of-the-same-ug-per-cubic-meter.md

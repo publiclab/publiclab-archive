@@ -1,5 +1,5 @@
 ---
-title: sandbox-Orangetown Aluf
+title: 'sandbox-Orangetown Aluf'
 tagnames: 
 author: stevie
 path: /wiki/sandbox-orangetown-aluf.md

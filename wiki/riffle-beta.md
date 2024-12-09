@@ -1,5 +1,5 @@
 ---
-title: Riffle Beta
+title: 'Riffle Beta'
 tagnames: parent:riffle
 author: liz
 path: /wiki/riffle-beta.md

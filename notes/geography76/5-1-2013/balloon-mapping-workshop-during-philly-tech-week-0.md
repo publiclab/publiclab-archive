@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping Workshop during Philly Tech Week
+title: 'Balloon Mapping Workshop during Philly Tech Week'
 tagnames: first-time-poster
 author: geography76
 path: /notes/geography76/5-1-2013/balloon-mapping-workshop-during-philly-tech-week-0.md

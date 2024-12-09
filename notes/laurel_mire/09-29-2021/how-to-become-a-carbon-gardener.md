@@ -1,5 +1,5 @@
 ---
-title: How To Become a Carbon Gardener
+title: 'How To Become a Carbon Gardener'
 tagnames: soil, gardening, climate-change, carbon, carbon-dioxide, how, why, what, motivation, more, research-curation-fellows, conclusion
 author: laurel_mire
 path: /notes/laurel_mire/09-29-2021/how-to-become-a-carbon-gardener.md

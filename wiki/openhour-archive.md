@@ -1,5 +1,5 @@
 ---
-title: OpenHour Archive 
+title: 'OpenHour Archive '
 tagnames: events, archive, event, openhour, seminar, parent:openhour, 2-
 author: stevie
 path: /wiki/openhour-archive.md

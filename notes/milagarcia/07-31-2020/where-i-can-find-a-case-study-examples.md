@@ -1,5 +1,5 @@
 ---
-title: Where I can find a Case study examples  ?
+title: 'Where I can find a Case study examples  ?'
 tagnames: lon:1, first-time-poster, lat:10, zoom:10
 author: milagarcia
 path: /notes/milagarcia/07-31-2020/where-i-can-find-a-case-study-examples.md

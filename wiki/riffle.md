@@ -1,5 +1,5 @@
 ---
-title: Riffle: an Open Source Water Monitoring Approach
+title: 'Riffle: an Open Source Water Monitoring Approach'
 tagnames: agriculture, pvos, mining, water-quality, water, water-monitoring, water-quality-sensor, fracking, tool, datalogger, riffle, list:plots-waterquality, open-water, data-logging, activities:riffle, upgrades:riffle, method, chemicals, oil-and-gas, electronic-sensors, parent:data-logging, project:water-quality
 author: donblair
 path: /wiki/riffle.md

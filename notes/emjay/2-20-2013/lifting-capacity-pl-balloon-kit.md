@@ -1,5 +1,5 @@
 ---
-title: Lifting capacity of PL balloon kit?
+title: 'Lifting capacity of PL balloon kit?'
 tagnames: balloon-mapping
 author: emjay
 path: /notes/emjay/2-20-2013/lifting-capacity-pl-balloon-kit.md

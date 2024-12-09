@@ -1,5 +1,5 @@
 ---
-title: Who has used vehicles as mobile sensor platforms?
+title: 'Who has used vehicles as mobile sensor platforms?'
 tagnames: air, data, platform, quality, weather, question:sensors, first-time-poster, vehicles, ambient
 author: waugh2k
 path: /notes/waugh2k/06-26-2019/who-has-used-vehicles-as-mobile-sensor-platforms.md

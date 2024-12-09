@@ -1,5 +1,5 @@
 ---
-title: 2-24-12 KAP Livermore CA development
+title: '2-24-12 KAP Livermore CA development'
 tagnames: first-time-poster
 author: patcoyle
 path: /notes/patcoyle/2-25-2012/2-24-12-kap-livermore-ca-development.md

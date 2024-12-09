@@ -1,5 +1,5 @@
 ---
-title: infragrampi
+title: 'infragrampi'
 tagnames: redirect:15134
 author: joyofsoy
 path: /wiki/infragrampi.md

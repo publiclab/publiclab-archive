@@ -1,5 +1,5 @@
 ---
-title: Thinking through Research Area Reviews 
+title: 'Thinking through Research Area Reviews '
 tagnames: community, organizers, research, organizer, community-development
 author: stevie
 path: /notes/stevie/05-23-2019/thinking-through-research-area-reviews.md

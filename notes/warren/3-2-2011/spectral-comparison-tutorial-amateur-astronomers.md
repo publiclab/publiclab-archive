@@ -1,5 +1,5 @@
 ---
-title: Spectral comparison tutorial for amateur astronomers
+title: 'Spectral comparison tutorial for amateur astronomers'
 tagnames: spectrometer, intensity-calibration, comparison, intensity, normalizing
 author: warren
 path: /notes/warren/3-2-2011/spectral-comparison-tutorial-amateur-astronomers.md

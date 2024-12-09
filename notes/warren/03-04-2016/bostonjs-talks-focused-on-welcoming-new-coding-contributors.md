@@ -1,5 +1,5 @@
 ---
-title: BostonJS talks focused on welcoming new coding contributors
+title: 'BostonJS talks focused on welcoming new coding contributors'
 tagnames: boston, community, presentations, developers, coding, talks, javascript, new-contributors, first-timers-only, software-outreach, first-timers-only-blog
 author: warren
 path: /notes/warren/03-04-2016/bostonjs-talks-focused-on-welcoming-new-coding-contributors.md

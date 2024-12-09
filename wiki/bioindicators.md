@@ -1,5 +1,5 @@
 ---
-title: Bioindicators
+title: 'Bioindicators'
 tagnames: bioassay, method, bioindicators
 author: alejobonifacio
 path: /wiki/bioindicators.md

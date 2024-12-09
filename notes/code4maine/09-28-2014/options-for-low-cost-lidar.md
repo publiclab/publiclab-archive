@@ -1,5 +1,5 @@
 ---
-title: Options for Low-Cost LIDAR 
+title: 'Options for Low-Cost LIDAR '
 tagnames: sensors, lidar, opendronemap
 author: ajawitz
 path: /notes/code4maine/09-28-2014/options-for-low-cost-lidar.md

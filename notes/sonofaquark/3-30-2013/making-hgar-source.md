@@ -1,5 +1,5 @@
 ---
-title: making a HgAr source
+title: 'making a HgAr source'
 tagnames: spectrometer
 author: sonofaquark
 path: /notes/sonofaquark/3-30-2013/making-hgar-source.md

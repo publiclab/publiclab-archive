@@ -1,5 +1,5 @@
 ---
-title: How to set automatic shoot in Mini Camera
+title: 'How to set automatic shoot in Mini Camera'
 tagnames: balloon-mapping, kite-mapping, mapping, camera, question:general
 author: severin
 path: /notes/severin/08-19-2018/how-to-set-automatic-shoot-in-mini-camera.md

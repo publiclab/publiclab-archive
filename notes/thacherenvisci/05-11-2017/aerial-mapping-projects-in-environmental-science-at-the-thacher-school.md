@@ -1,5 +1,5 @@
 ---
-title: Aerial Mapping Projects in Environmental Science at The Thacher School
+title: 'Aerial Mapping Projects in Environmental Science at The Thacher School'
 tagnames: balloon-mapping, education, mapping-with-youth, youth, event, youth-mapping, seeks:responses, activity:education, educators, activity:classroom
 author: thacherenvisci
 path: /notes/thacherenvisci/05-11-2017/aerial-mapping-projects-in-environmental-science-at-the-thacher-school.md

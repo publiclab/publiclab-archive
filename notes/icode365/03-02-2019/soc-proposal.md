@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: Community Toolbox overhaul
+title: 'SoC proposal: Community Toolbox overhaul'
 tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects
 author: icode365
 path: /notes/icode365/03-02-2019/soc-proposal.md

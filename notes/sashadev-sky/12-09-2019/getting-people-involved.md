@@ -1,5 +1,5 @@
 ---
-title: Getting people involved in OSS
+title: 'Getting people involved in OSS'
 tagnames: foss, software-outreach, welcoming, oss
 author: sashadev-sky
 path: /notes/sashadev-sky/12-09-2019/getting-people-involved.md

@@ -1,5 +1,5 @@
 ---
-title: Visualight board for Thermal Flashlights
+title: 'Visualight board for Thermal Flashlights'
 tagnames: thermal-photography, arduino, thermal-flashlight, led, visualight, activity:thermal-flashlight, upgrade:thermal-flashlight
 author: warren
 path: /notes/warren/11-15-2013/visualight-board-for-thermal-flashlights.md

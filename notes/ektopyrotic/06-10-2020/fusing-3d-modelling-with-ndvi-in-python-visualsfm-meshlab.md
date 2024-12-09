@@ -1,5 +1,5 @@
 ---
-title: Fusing 3D Modelling with NDVI in Python + VisualSFM + Meshlab
+title: 'Fusing 3D Modelling with NDVI in Python + VisualSFM + Meshlab'
 tagnames: 3d, ndvi, photography, infrared, photogrammetry, software, near-infrared, science, garden, plants, camera, vegetation, environment, coding, eu, python, physics, imaging, model, engineering, virtual, first-time-poster, zoom:4, lat:53.349805, lon:-6.260309, modelling, visualsfm, meshlab, augmented, reality, cacti, succulents
 author: ektopyrotic
 path: /notes/ektopyrotic/06-10-2020/fusing-3d-modelling-with-ndvi-in-python-visualsfm-meshlab.md

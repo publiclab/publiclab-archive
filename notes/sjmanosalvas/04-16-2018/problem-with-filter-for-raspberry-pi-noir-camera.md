@@ -1,5 +1,5 @@
 ---
-title: Problem with filter for Raspberry Pi NoIR Camera
+title: 'Problem with filter for Raspberry Pi NoIR Camera'
 tagnames: question:infragram, question:infrared, question:multispectral-imaging
 author: sjmanosalvas
 path: /notes/sjmanosalvas/04-16-2018/problem-with-filter-for-raspberry-pi-noir-camera.md

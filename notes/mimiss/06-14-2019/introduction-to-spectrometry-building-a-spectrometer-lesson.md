@@ -1,5 +1,5 @@
 ---
-title: Introduction to Spectrometry (& Building a Spectrometer!) Lesson
+title: 'Introduction to Spectrometry (& Building a Spectrometer!) Lesson'
 tagnames: education, spectrometry, activity:spectrometry, activity:education, lesson, activity:spectrometer, lesson-spectrometry, pin:spectrometry
 author: mimiss
 path: /notes/mimiss/06-14-2019/introduction-to-spectrometry-building-a-spectrometer-lesson.md

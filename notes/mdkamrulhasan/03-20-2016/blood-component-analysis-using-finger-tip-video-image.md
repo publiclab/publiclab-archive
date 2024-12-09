@@ -1,5 +1,5 @@
 ---
-title: Blood component analysis using Finger Tip video image
+title: 'Blood component analysis using Finger Tip video image'
 tagnames: 
 author: mdkamrulhasan
 path: /notes/mdkamrulhasan/03-20-2016/blood-component-analysis-using-finger-tip-video-image.md

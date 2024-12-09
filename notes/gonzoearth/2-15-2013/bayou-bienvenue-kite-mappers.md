@@ -1,5 +1,5 @@
 ---
-title: Bayou Bienvenue Kite Mappers
+title: 'Bayou Bienvenue Kite Mappers'
 tagnames: gulf-coast, kite-mapping, bienvenue
 author: gonzoearth
 path: /notes/gonzoearth/2-15-2013/bayou-bienvenue-kite-mappers.md

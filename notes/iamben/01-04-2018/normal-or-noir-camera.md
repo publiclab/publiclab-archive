@@ -1,5 +1,5 @@
 ---
-title: normal or noIR camera?
+title: 'normal or noIR camera?'
 tagnames: raspberry-pi, answered, raspberry-pi-spectrometer, question:raspberry-pi-spectrometer, question:lego-spectrometer, lego-spectrometer
 author: iamben
 path: /notes/iamben/01-04-2018/normal-or-noir-camera.md

@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: 'Getting Started'
 tagnames: community, welcome, style:minimal, locked, location:blurred, sidebar:none, parent:welcome, redirect:1624
 author: warren
 path: /wiki/getting-started.md

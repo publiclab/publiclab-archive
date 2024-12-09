@@ -1,5 +1,5 @@
 ---
-title: First Drone Flight and White Balance Issues
+title: 'First Drone Flight and White Balance Issues'
 tagnames: near-infrared-camera, ndvi, nir, near-infrared, question:white-balance
 author: amck
 path: /notes/amck/09-14-2015/first-drone-flight-and-white-balance-issues.md

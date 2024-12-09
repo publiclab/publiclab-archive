@@ -1,5 +1,5 @@
 ---
-title: JAM#6: Documentación Fotográfica
+title: 'JAM#6: Documentación Fotográfica'
 tagnames: photo-monitoring, lang:es, zoom:16, cosquin, lat:41.408488, lon:2.199325, jam, autodefensa, documentacion, fotografia
 author: imvec
 path: /notes/imvec/05-09-2020/jam-6-documentacion-fotografica.md

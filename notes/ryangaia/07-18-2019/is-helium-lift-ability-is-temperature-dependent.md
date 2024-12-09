@@ -1,5 +1,5 @@
 ---
-title: Is helium lift-ability is temperature dependent?
+title: 'Is helium lift-ability is temperature dependent?'
 tagnames: balloon-mapping, california, air-quality, helium, question:balloon-mapping, question:helium, first-time-poster, saltonsea, fav-balloon-mapping
 author: ryangaia
 path: /notes/ryangaia/07-18-2019/is-helium-lift-ability-is-temperature-dependent.md

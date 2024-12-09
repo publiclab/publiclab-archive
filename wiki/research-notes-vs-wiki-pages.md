@@ -1,5 +1,5 @@
 ---
-title: Research notes vs wiki pages
+title: 'Research notes vs wiki pages'
 tagnames: help
 author: warren
 path: /wiki/research-notes-vs-wiki-pages.md

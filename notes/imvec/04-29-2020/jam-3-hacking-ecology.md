@@ -1,5 +1,5 @@
 ---
-title: JAM#3: Hacking Ecology 
+title: 'JAM#3: Hacking Ecology '
 tagnames: water-quality, lang:es, spanish, zoom:14, cosquin, lat:41.408488, lon:2.199325, jam, charla, nayad, autodefensa-vecinal, hacking-ecology
 author: imvec
 path: /notes/imvec/04-29-2020/jam-3-hacking-ecology.md

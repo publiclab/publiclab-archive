@@ -1,5 +1,5 @@
 ---
-title: Citizen Science on Google+
+title: 'Citizen Science on Google+'
 tagnames: community, kap, social-media, outreach
 author: cfastie
 path: /notes/cfastie/12-10-2012/citizen-science-google.md

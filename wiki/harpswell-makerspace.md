@@ -1,5 +1,5 @@
 ---
-title: Harpswell Makerspace
+title: 'Harpswell Makerspace'
 tagnames: makerspaces
 author: ajawitz
 path: /wiki/harpswell-makerspace.md

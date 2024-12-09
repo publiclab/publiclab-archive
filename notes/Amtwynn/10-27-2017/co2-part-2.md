@@ -1,5 +1,5 @@
 ---
-title: CO2 part 2
+title: 'CO2 part 2'
 tagnames: spectrometer, spectrometry, co2, hidden:response, foldable-spec, replication:15121
 author: Amtwynn
 path: /notes/Amtwynn/10-27-2017/co2-part-2.md

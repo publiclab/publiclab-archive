@@ -1,5 +1,5 @@
 ---
-title: Spectrometry Meetups
+title: 'Spectrometry Meetups'
 tagnames: spectrometer, community, meetup, workshop, spectrometry
 author: warren
 path: /wiki/spectrometry-meetups.md

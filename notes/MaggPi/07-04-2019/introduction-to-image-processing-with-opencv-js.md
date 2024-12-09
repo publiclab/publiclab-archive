@@ -1,5 +1,5 @@
 ---
-title: Introduction to Image Processing with OpenCV.js
+title: 'Introduction to Image Processing with OpenCV.js'
 tagnames: opencv, gsoc-2019, opencv.js, visual-studio-code
 author: MaggPi
 path: /notes/MaggPi/07-04-2019/introduction-to-image-processing-with-opencv-js.md

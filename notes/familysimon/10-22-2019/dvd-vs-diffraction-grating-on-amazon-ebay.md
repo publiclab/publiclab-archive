@@ -1,5 +1,5 @@
 ---
-title: DVD vs. Diffraction Grating on Amazon / eBay
+title: 'DVD vs. Diffraction Grating on Amazon / eBay'
 tagnames: spectrometer, spectrometry, first-time-poster, replication:11515
 author: familysimon
 path: /notes/familysimon/10-22-2019/dvd-vs-diffraction-grating-on-amazon-ebay.md

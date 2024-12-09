@@ -1,5 +1,5 @@
 ---
-title: What is my potential all over the place?
+title: 'What is my potential all over the place?'
 tagnames: wheestat, question:question, question:wheestat
 author: Greg_H
 path: /notes/Greg_H/12-21-2017/what-is-my-potential-all-over-the-place.md

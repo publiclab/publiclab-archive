@@ -1,5 +1,5 @@
 ---
-title: Low floor, high ceiling for Public Lab research notes
+title: 'Low floor, high ceiling for Public Lab research notes'
 tagnames: collaboration, community, website, research, blog, authoring, research-notes, growth, ui
 author: warren
 path: /notes/warren/07-01-2015/low-floor-high-ceiling-for-public-lab-research-notes.md

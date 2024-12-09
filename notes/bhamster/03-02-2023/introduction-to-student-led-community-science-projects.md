@@ -1,5 +1,5 @@
 ---
-title: Introduction to Student-Led Community Science Projects
+title: 'Introduction to Student-Led Community Science Projects'
 tagnames: csf, community-science-forum, student-community-science, classroom-community-science, with:purl, csf18
 author: bhamster
 path: /notes/bhamster/03-02-2023/introduction-to-student-led-community-science-projects.md

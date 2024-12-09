@@ -1,5 +1,5 @@
 ---
-title: splitting bamboo for kites
+title: 'splitting bamboo for kites'
 tagnames: kite-mapping, diy-kite, bamboo, diy-kites, difficulty:easy, category:build, time:1h, kite-making, activity:kite-making, activity:bamboo
 author: mathew
 path: /notes/mathew/7-28-2011/splitting-bamboo-kites.md

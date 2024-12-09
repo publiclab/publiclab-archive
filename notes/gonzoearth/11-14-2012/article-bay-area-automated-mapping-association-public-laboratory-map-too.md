@@ -1,5 +1,5 @@
 ---
-title: Article: Bay Area Automated Mapping Association: "Public Laboratory Map Tools"
+title: 'Article: Bay Area Automated Mapping Association: "Public Laboratory Map Tools"'
 tagnames: balloon-mapping, kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/11-14-2012/article-bay-area-automated-mapping-association-public-laboratory-map-too.md

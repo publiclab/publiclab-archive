@@ -1,5 +1,5 @@
 ---
-title: 广州谷仓聚会自我介绍 Introduce yourself to other Guangzhou Barnraisers!
+title: '广州谷仓聚会自我介绍 Introduce yourself to other Guangzhou Barnraisers!'
 tagnames: 
 author: shanlter
 path: /wiki/introduce-yourself-to-other-guangzhou-barnraisers.md

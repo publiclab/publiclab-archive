@@ -1,5 +1,5 @@
 ---
-title: Further explaining quantum yield
+title: 'Further explaining quantum yield'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-07-2016/further-explaining-quantum-yield.md

@@ -1,5 +1,5 @@
 ---
-title: What's in Air quality that makes it so bad for the earth, people, animals and etc. 
+title: 'What's in Air quality that makes it so bad for the earth, people, animals and etc. '
 tagnames: first-time-poster
 author: Taneah_williamskarr
 path: /notes/Taneah_williamskarr/04-30-2021/what-s-in-air-quality-that-makes-it-so-bad-for-the-earth-people-animals-and-etc.md

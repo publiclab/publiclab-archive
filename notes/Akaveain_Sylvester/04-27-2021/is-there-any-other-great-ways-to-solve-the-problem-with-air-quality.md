@@ -1,5 +1,5 @@
 ---
-title: Does the air quality affect the animals in the environment?
+title: 'Does the air quality affect the animals in the environment?'
 tagnames: question:general, general, first-time-poster
 author: Akaveain_Sylvester
 path: /notes/Akaveain_Sylvester/04-27-2021/is-there-any-other-great-ways-to-solve-the-problem-with-air-quality.md

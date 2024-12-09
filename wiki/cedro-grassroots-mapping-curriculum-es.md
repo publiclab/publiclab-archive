@@ -1,5 +1,5 @@
 ---
-title: CEDRO Grassroots Mapping Curriculum (es)
+title: 'CEDRO Grassroots Mapping Curriculum (es)'
 tagnames: lima, balloon-mapping, peru, curriculum, classroom, lang:es, cedro
 author: warren
 path: /wiki/cedro-grassroots-mapping-curriculum-es.md

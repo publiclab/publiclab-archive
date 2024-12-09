@@ -1,5 +1,5 @@
 ---
-title: Soil Contamination in Edgard
+title: 'Soil Contamination in Edgard'
 tagnames: csf, community-science-forum, soil-contamination, student-community-science, classroom-community-science, csf18
 author: bhamster
 path: /notes/bhamster/03-02-2023/soil-contamination-in-edgard.md

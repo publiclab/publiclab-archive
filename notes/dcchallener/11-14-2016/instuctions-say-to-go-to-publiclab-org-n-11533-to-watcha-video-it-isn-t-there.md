@@ -1,5 +1,5 @@
 ---
-title: Instuctions say to go to publiclab.org/n/11533 to watcha video. It isn't there
+title: 'Instuctions say to go to publiclab.org/n/11533 to watcha video. It isn't there'
 tagnames: kits, spectrometry, assembly, question:spectrometer, beautiful, answered, question:dssk, question:generalspectrometer
 author: dcchallener
 path: /notes/dcchallener/11-14-2016/instuctions-say-to-go-to-publiclab-org-n-11533-to-watcha-video-it-isn-t-there.md

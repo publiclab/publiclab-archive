@@ -1,5 +1,5 @@
 ---
-title: Food grade oil samples
+title: 'Food grade oil samples'
 tagnames: new-york-city, spectrometer, oil, spectroscopy, oil-testing-kit, olive-oil
 author: liz
 path: /notes/liz/03-13-2014/food-grade-oil-samples.md

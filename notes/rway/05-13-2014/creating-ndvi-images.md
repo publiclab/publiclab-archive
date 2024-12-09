@@ -1,5 +1,5 @@
 ---
-title: Creating NDVI images?
+title: 'Creating NDVI images?'
 tagnames: ndvi, infrablue, fiji, question:ndvi, first-time-poster
 author: rway
 path: /notes/rway/05-13-2014/creating-ndvi-images.md

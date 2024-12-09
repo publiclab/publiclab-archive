@@ -1,5 +1,5 @@
 ---
-title: tuttle-red-cedar
+title: 'tuttle-red-cedar'
 tagnames: 
 author: 
 path: /notes/5-18-2012/tuttle-red-cedar.md

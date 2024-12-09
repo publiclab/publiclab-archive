@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Noise
+title: 'Spectrometer Noise'
 tagnames: spectrometer, webcam, desktop-spectrometer, barnstar:empiricism, noise-reduction, signal-to-noise-ratio, stability, noise, averaging
 author: stoft
 path: /notes/stoft/04-16-2016/spectrometer-noise.md

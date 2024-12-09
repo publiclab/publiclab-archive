@@ -1,5 +1,5 @@
 ---
-title: Prototyping with Raspberry Pi and Arduino
+title: 'Prototyping with Raspberry Pi and Arduino'
 tagnames: arduino, education, raspberry-pi, umass-amherst, prototyping, first-time-poster
 author: limako
 path: /notes/limako/09-17-2019/prototyping-with-raspberry-pi-and-arduino.md

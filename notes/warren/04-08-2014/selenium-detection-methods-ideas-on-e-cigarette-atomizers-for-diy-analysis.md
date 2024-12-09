@@ -1,5 +1,5 @@
 ---
-title: Selenium detection methods & ideas on e-cigarette atomizers for DIY analysis
+title: 'Selenium detection methods & ideas on e-cigarette atomizers for DIY analysis'
 tagnames: spectrometer, emission-spectroscopy, flame-spectroscopy, flame, sample-prep, vaporizer, emission, e-cigarette, selenium, atomizer
 author: warren
 path: /notes/warren/04-08-2014/selenium-detection-methods-ideas-on-e-cigarette-atomizers-for-diy-analysis.md

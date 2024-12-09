@@ -1,5 +1,5 @@
 ---
-title: Repeatability
+title: 'Repeatability'
 tagnames: spectrometer, oil-testing-kit, barnstar:empiricism, repeatability, empiricism
 author: viechdokter
 path: /notes/viechdokter/04-11-2016/repeatability.md

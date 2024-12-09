@@ -1,5 +1,5 @@
 ---
-title: Observable air quality violations related to frac sand mining
+title: 'Observable air quality violations related to frac sand mining'
 tagnames: reporting, wisconsin, air-quality, frac-sand, midwest, sentinel, local-reporting, parent:the-sand-sentinel-program
 author: stevie
 path: /wiki/observable-air-quality-violations-related-to-frac-sand-mining.md

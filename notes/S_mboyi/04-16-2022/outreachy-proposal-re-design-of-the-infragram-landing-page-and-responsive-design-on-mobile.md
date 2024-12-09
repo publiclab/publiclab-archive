@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Re-design of the Infragram landing page and responsive design on mobile 
+title: 'Outreachy proposal: Re-design of the Infragram landing page and responsive design on mobile '
 tagnames: software, outreachy, first-time-poster, lon:10.195312, zoom:4, lat:5.965753, outreachy-2022, outreachy-summer-2022
 author: S_mboyi
 path: /notes/S_mboyi/04-16-2022/outreachy-proposal-re-design-of-the-infragram-landing-page-and-responsive-design-on-mobile.md

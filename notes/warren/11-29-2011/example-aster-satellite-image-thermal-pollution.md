@@ -1,5 +1,5 @@
 ---
-title: Example ASTER Satellite image of thermal pollution
+title: 'Example ASTER Satellite image of thermal pollution'
 tagnames: 
 author: warren
 path: /notes/warren/11-29-2011/example-aster-satellite-image-thermal-pollution.md

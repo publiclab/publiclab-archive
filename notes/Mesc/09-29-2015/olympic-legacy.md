@@ -1,5 +1,5 @@
 ---
-title: Olympic Legacy
+title: 'Olympic Legacy'
 tagnames: 
 author: mesc
 path: /notes/Mesc/09-29-2015/olympic-legacy.md

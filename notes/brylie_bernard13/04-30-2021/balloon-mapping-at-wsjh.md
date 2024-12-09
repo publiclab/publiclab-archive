@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping at WSJH
+title: 'Balloon Mapping at WSJH'
 tagnames: lat:30, lon:-90, first-time-poster, zoom:6
 author: brylie_bernard13
 path: /notes/brylie_bernard13/04-30-2021/balloon-mapping-at-wsjh.md

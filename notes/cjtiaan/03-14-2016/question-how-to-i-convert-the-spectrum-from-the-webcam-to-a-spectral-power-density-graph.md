@@ -1,5 +1,5 @@
 ---
-title: Question:  How to I convert the spectrum from the webcam to a spectral power density graph.
+title: 'Question:  How to I convert the spectrum from the webcam to a spectral power density graph.'
 tagnames: spectrometer, question:spectrometry
 author: cjtiaan
 path: /notes/cjtiaan/03-14-2016/question-how-to-i-convert-the-spectrum-from-the-webcam-to-a-spectral-power-density-graph.md

@@ -1,5 +1,5 @@
 ---
-title: Nungesser test: collection of Coal or Petroleum coke for further testing
+title: 'Nungesser test: collection of Coal or Petroleum coke for further testing'
 tagnames: gulf-coast, spectrometer, coal, petcoke, unitedbulk
 author: eustatic
 path: /09-09-2013/nungesser-test-detection-of-coal-or-petroleum-coke-for-flame-spectrometry.md

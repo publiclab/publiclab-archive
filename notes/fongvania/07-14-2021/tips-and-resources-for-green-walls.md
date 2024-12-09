@@ -1,5 +1,5 @@
 ---
-title: Tips and Resources for Green Walls
+title: 'Tips and Resources for Green Walls'
 tagnames: plant, plants, urban-ecology, landscape, general, green-wall, vertical-garden
 author: fongvania
 path: /notes/fongvania/07-14-2021/tips-and-resources-for-green-walls.md

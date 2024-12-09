@@ -1,5 +1,5 @@
 ---
-title: Computer Vision: Auto selecting blob area from image
+title: 'Computer Vision: Auto selecting blob area from image'
 tagnames: matlab, computer-vision, question:computer-vision
 author: kaushalsingh
 path: /notes/kaushalsingh/11-13-2016/computer-vision-auto-selecting-blob-area-from-image.md

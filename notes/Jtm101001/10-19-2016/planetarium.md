@@ -1,5 +1,5 @@
 ---
-title: Planetarium 
+title: 'Planetarium '
 tagnames: hidden:response, response:13586, first-time-poster
 author: Jtm101001
 path: /notes/Jtm101001/10-19-2016/planetarium.md

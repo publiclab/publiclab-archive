@@ -1,5 +1,5 @@
 ---
-title: Using an Audio Jack to Assess Conductivity
+title: 'Using an Audio Jack to Assess Conductivity'
 tagnames: conductivity
 author: donblair
 path: /notes/donblair/06-18-2014/using-an-audio-jack-to-assess-conductivity.md

@@ -1,5 +1,5 @@
 ---
-title: Classroom
+title: 'Classroom'
 tagnames: redirect:education
 author: warren
 path: /wiki/classroom.md

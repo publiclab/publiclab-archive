@@ -1,5 +1,5 @@
 ---
-title: Fake alcoholic drinks
+title: 'Fake alcoholic drinks'
 tagnames: spectrometer, spectral-analysis, alcoholic-drinks, near-ir, eu, greece, location:blurred, lat:30, activity:spectrometer, lon:20, place:greece
 author: Dplus
 path: /notes/dplus/2-3-2013/fake-alcoholic-drinks.md

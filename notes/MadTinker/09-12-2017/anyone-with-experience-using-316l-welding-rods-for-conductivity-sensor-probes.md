@@ -1,5 +1,5 @@
 ---
-title: Anyone with experience using 316L welding rods for conductivity sensor probes?
+title: 'Anyone with experience using 316L welding rods for conductivity sensor probes?'
 tagnames: sensors, water-quality, conductivity, question:conductivity
 author: MadTinker
 path: /notes/MadTinker/09-12-2017/anyone-with-experience-using-316l-welding-rods-for-conductivity-sensor-probes.md

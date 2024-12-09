@@ -1,5 +1,5 @@
 ---
-title: Only getting color at top of image
+title: 'Only getting color at top of image'
 tagnames: calibration, troubleshooting
 author: BrentNewhall
 path: /notes/brentnewhall/1-5-2013/only-getting-spectra-top-image.md

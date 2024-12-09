@@ -1,5 +1,5 @@
 ---
-title: [GMC] [reference] on the need to monitor for Persistant Dispersant chemicals
+title: '[GMC] [reference] on the need to monitor for Persistant Dispersant chemicals'
 tagnames: gulf-coast, spectrometer, oil-spill, fluorescence, corexit, orca, oil-testing-kit, response:1724, dispersant, bp-spill
 author: eustatic
 path: /06-25-2014/gmc-reference-on-the-need-to-monitor-for-persistant-dispersant-chemicals.md

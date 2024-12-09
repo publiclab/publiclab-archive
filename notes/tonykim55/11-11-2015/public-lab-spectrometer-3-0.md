@@ -1,5 +1,5 @@
 ---
-title: Public Lab Spectrometer 3.0
+title: 'Public Lab Spectrometer 3.0'
 tagnames: 
 author: tonykim55
 path: /notes/tonykim55/11-11-2015/public-lab-spectrometer-3-0.md

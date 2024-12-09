@@ -1,5 +1,5 @@
 ---
-title: granite-falls--wa-ca--1941
+title: 'granite-falls--wa-ca--1941'
 tagnames: 
 author: 
 path: /notes/5-3-2012/granite-falls-wa-ca-1941.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit job posting: Open Hardware Community Manager
+title: 'Public Lab nonprofit job posting: Open Hardware Community Manager'
 tagnames: nonprofit, jobs
 author: Shannon
 path: /notes/Shannon/02-16-2017/public-lab-nonprofit-job-posting-open-hardware-community-manager.md

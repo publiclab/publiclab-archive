@@ -1,5 +1,5 @@
 ---
-title: New Raspberry PI open source guide
+title: 'New Raspberry PI open source guide'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/1-4-2013/new-raspberry-pi-open-source-guide.md

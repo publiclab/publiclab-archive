@@ -1,5 +1,5 @@
 ---
-title: Announcing New Fellowship Team: Game Over Formosa! 
+title: 'Announcing New Fellowship Team: Game Over Formosa! '
 tagnames: air-quality, blog, pollution, pm, environmental-justice, industry, fellowship, ej, particulate-matter, plastics, plastic, zoom:6, st-james, fellowship-teams, lat:30.101032, lon:-90.992877, with:travislondon, formosaplastics
 author: stevie
 path: /notes/stevie/10-19-2021/announcing-new-fellowship-team-game-over-formosa.md

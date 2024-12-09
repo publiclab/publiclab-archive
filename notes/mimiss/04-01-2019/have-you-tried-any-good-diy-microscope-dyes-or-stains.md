@@ -1,5 +1,5 @@
 ---
-title: Have you tried any good DIY microscope dyes or stains?
+title: 'Have you tried any good DIY microscope dyes or stains?'
 tagnames: dye, microscopy, question:general, question:microscope, question:education, stain
 author: mimiss
 path: /notes/mimiss/04-01-2019/have-you-tried-any-good-diy-microscope-dyes-or-stains.md

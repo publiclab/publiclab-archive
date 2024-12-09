@@ -1,5 +1,5 @@
 ---
-title: Mini Spectra
+title: 'Mini Spectra'
 tagnames: 
 author: Ruby_F
 path: /notes/Ruby_F/09-20-2015/mini-spectra.md

@@ -1,5 +1,5 @@
 ---
-title: A DIY pipetting robot for biochemistry applications, Part 1: Hardware.
+title: 'A DIY pipetting robot for biochemistry applications, Part 1: Hardware.'
 tagnames: diy-bio, processing, biohacking, hardware, laboratoryautomation, pipetting_robot
 author: JSummers
 path: /notes/JSummers/12-29-2018/a-diy-pipetting-robot-for-biochemistry-applications-part-1-hardware.md

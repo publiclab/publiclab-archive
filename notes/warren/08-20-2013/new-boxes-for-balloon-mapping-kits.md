@@ -1,5 +1,5 @@
 ---
-title: New boxes for balloon mapping kits
+title: 'New boxes for balloon mapping kits'
 tagnames: balloon-mapping, kits, balloon-mapping-kit, packaging, box
 author: warren
 path: /notes/warren/08-20-2013/new-boxes-for-balloon-mapping-kits.md

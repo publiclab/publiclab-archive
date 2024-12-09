@@ -1,5 +1,5 @@
 ---
-title: How does Riffle compatible with 5V sensors?
+title: 'How does Riffle compatible with 5V sensors?'
 tagnames: arduino, sensors, riffle, question:riffle, answered, voltage, question:arduino
 author: shanlter
 path: /notes/shanlter/11-04-2017/how-does-riffle-compatible-with-5v-sensors.md

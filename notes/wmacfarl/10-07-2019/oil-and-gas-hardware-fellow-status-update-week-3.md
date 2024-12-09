@@ -1,5 +1,5 @@
 ---
-title: Oil and Gas Hardware Fellow Status Update: Week 3!
+title: 'Oil and Gas Hardware Fellow Status Update: Week 3!'
 tagnames: water-quality, lat:41.834189, lon:-71.441798, oil-and-gas-water-trio
 author: wmacfarl
 path: /notes/wmacfarl/10-07-2019/oil-and-gas-hardware-fellow-status-update-week-3.md

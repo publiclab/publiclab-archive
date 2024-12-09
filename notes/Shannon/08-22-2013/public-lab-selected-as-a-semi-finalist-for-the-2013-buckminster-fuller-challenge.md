@@ -1,5 +1,5 @@
 ---
-title: Public Lab Selected as a Semi-Finalist for the 2013 Buckminster Fuller Challenge
+title: 'Public Lab Selected as a Semi-Finalist for the 2013 Buckminster Fuller Challenge'
 tagnames: press-release, press, buckminster-fuller-challenge
 author: Shannon
 path: /notes/Shannon/08-22-2013/public-lab-selected-as-a-semi-finalist-for-the-2013-buckminster-fuller-challenge.md

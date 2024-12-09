@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: Expanding Community Toolbox
+title: 'SoC proposal: Expanding Community Toolbox'
 tagnames: gsoc, soc, soc-2020, soc-2020-proposals
 author: icode365
 path: /notes/icode365/03-17-2020/soc-proposal-expanding-community-toolbox.md

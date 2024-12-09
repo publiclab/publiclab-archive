@@ -1,5 +1,5 @@
 ---
-title: DIY Salinity Measurements with Coqui and/or Multimeter?
+title: 'DIY Salinity Measurements with Coqui and/or Multimeter?'
 tagnames: answered, question:question, question:coqui, question:salinity
 author: Bronwen
 path: /notes/Bronwen/03-04-2019/diy-salinity-measurements-with-coqui-and-or-multimeter.md

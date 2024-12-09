@@ -1,5 +1,5 @@
 ---
-title: T-shirt Guide
+title: 'T-shirt Guide'
 tagnames: guides, illustrated-guides
 author: warren
 path: /wiki/t-shirt-guide.md

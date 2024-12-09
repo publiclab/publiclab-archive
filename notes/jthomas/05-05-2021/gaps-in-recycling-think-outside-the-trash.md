@@ -1,5 +1,5 @@
 ---
-title: Gaps in Recycling: Think Outside the Trash
+title: 'Gaps in Recycling: Think Outside the Trash'
 tagnames: lat:30, issue-brief, lon:-90, first-time-poster, zoom:12
 author: jthomas
 path: /notes/jthomas/05-05-2021/gaps-in-recycling-think-outside-the-trash.md

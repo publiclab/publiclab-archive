@@ -1,5 +1,5 @@
 ---
-title: PublicLab Mobius calibration 
+title: 'PublicLab Mobius calibration '
 tagnames: question:infragram
 author: dbehr
 path: /notes/dbehr/12-19-2016/publiclab-mobius-calibration.md

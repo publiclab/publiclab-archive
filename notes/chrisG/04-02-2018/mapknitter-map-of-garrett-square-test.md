@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Garrett Square Test
+title: 'MapKnitter map of Garrett Square Test'
 tagnames: mapknitter, lat:38.0272721529, lon:-78.4811911586
 author: chrisG
 path: /notes/chrisG/04-02-2018/mapknitter-map-of-garrett-square-test.md

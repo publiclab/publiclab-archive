@@ -1,5 +1,5 @@
 ---
-title: What tools or methods do you use to monitor odors?
+title: 'What tools or methods do you use to monitor odors?'
 tagnames: question:question, question:odor, question:odor-monitoring
 author: Bronwen
 path: /notes/Bronwen/02-13-2019/what-tools-or-methods-do-you-use-to-monitor-odors.md

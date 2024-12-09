@@ -1,5 +1,5 @@
 ---
-title: Mobile (Android) version of Spectral Workbench
+title: 'Mobile (Android) version of Spectral Workbench'
 tagnames: spectrometer, android, my-concern
 author: warren
 path: /notes/warren/6-12-2012/mobile-android-version-spectral-workbench.md

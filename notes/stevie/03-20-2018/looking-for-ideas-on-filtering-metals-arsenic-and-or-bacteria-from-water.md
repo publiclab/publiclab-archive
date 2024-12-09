@@ -1,5 +1,5 @@
 ---
-title: Looking for ideas on filtering metals, arsenic, and/or bacteria from water?
+title: 'Looking for ideas on filtering metals, arsenic, and/or bacteria from water?'
 tagnames: remediation, water-quality, arsenic, bacteria, lead, question:general, question:water-filters, water-filtration, water-remediation, question:remediation, question:water-filtration, question:lead, question:arsenic
 author: stevie
 path: /notes/stevie/03-20-2018/looking-for-ideas-on-filtering-metals-arsenic-and-or-bacteria-from-water.md

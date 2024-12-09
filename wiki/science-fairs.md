@@ -1,5 +1,5 @@
 ---
-title: Science Fairs
+title: 'Science Fairs'
 tagnames: education, classroom, parent:education, educators, science-fair
 author: warren
 path: /wiki/science-fairs.md

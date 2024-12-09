@@ -1,5 +1,5 @@
 ---
-title: Measuring Particulate Matter with the Girl Scouts
+title: 'Measuring Particulate Matter with the Girl Scouts'
 tagnames: air-quality, blog, dust, barnstar:basic, air-sensors
 author: nicholas
 path: /notes/nicholas/07-08-2015/measuring-particulate-matter-with-the-girl-scouts.md

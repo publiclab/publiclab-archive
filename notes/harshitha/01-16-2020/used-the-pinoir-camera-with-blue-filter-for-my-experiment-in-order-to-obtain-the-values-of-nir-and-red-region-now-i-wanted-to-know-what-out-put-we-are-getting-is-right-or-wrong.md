@@ -1,5 +1,5 @@
 ---
-title: Used the PiNoIR camera with blue filter for my experiment in order to obtain the values of NIR and Red region, now i wanted  to know  what out put we are getting is right or wrong?
+title: 'Used the PiNoIR camera with blue filter for my experiment in order to obtain the values of NIR and Red region, now i wanted  to know  what out put we are getting is right or wrong?'
 tagnames: ndvi, parrot, sky, crop, drone, red, pinoir, purple, opencv, dark, orange, first-time-poster, columns, rows, compute, based, grey, yellow, pink, imageprocessing, crophealth, picam, vegetativeindex
 author: harshitha
 path: /notes/harshitha/01-16-2020/used-the-pinoir-camera-with-blue-filter-for-my-experiment-in-order-to-obtain-the-values-of-nir-and-red-region-now-i-wanted-to-know-what-out-put-we-are-getting-is-right-or-wrong.md

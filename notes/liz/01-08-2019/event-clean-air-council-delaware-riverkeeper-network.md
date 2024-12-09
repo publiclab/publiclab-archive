@@ -1,5 +1,5 @@
 ---
-title: Event: Clean Air Council + Delaware Riverkeeper Network
+title: 'Event: Clean Air Council + Delaware Riverkeeper Network'
 tagnames: event, particulates, event:rsvp, event:pennsylvania, lat:40.396764, lon:-75.563964, place:bally-pennsylvania, rsvp:lakshit2000
 author: liz
 path: /notes/liz/01-08-2019/event-clean-air-council-delaware-riverkeeper-network.md

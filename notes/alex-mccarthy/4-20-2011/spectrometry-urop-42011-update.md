@@ -1,5 +1,5 @@
 ---
-title: Spectrometry UROP 4/20/11 update
+title: 'Spectrometry UROP 4/20/11 update'
 tagnames: spectrometer, uv, fluorescence, flame, pah, detergent, salt
 author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-20-2011/spectrometry-urop-42011-update.md

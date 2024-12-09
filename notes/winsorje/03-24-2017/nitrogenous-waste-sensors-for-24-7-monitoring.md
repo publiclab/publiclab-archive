@@ -1,5 +1,5 @@
 ---
-title: Nitrogenous waste sensors for 24/7 monitoring
+title: 'Nitrogenous waste sensors for 24/7 monitoring'
 tagnames: water-sensing, staff, contact, nitrate, nitrates, question:water-quality, question:nitrates, question:water-sensing, question:nitrogen, probes
 author: winsorje
 path: /notes/winsorje/03-24-2017/nitrogenous-waste-sensors-for-24-7-monitoring.md

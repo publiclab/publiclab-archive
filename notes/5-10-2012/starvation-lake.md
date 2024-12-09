@@ -1,5 +1,5 @@
 ---
-title: starvation-lake
+title: 'starvation-lake'
 tagnames: 
 author: 
 path: /notes/5-10-2012/starvation-lake.md

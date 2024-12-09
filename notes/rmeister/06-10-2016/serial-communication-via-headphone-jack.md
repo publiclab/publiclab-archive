@@ -1,5 +1,5 @@
 ---
-title: Serial communication via headphone jack
+title: 'Serial communication via headphone jack'
 tagnames: arduino, barnstar:basic, sensor-readout, sensor-nodes, serial-link, fsk-decoder, activity:webjack, category:dev
 author: rmeister
 path: /notes/rmeister/06-10-2016/serial-communication-via-headphone-jack.md

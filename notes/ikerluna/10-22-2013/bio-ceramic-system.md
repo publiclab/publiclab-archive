@@ -1,5 +1,5 @@
 ---
-title: Bio Ceramic System
+title: 'Bio Ceramic System'
 tagnames: barcelona, spain, infragram, moss, ceramic, bio-ceramic, iaac, qgis
 author: ikerluna
 path: /notes/ikerluna/10-22-2013/bio-ceramic-system.md

@@ -1,5 +1,5 @@
 ---
-title: Community Aerial Maps on Uni' Posters
+title: 'Community Aerial Maps on Uni' Posters'
 tagnames: balloon-mapping, kite-mapping, hagit-keysar, israel, palestine, design, publication, middle-east
 author: hagitkeysar
 path: /notes/hagitkeysar/3-30-2013/community-aerial-maps-uni-posters-0.md

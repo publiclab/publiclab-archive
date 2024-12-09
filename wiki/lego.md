@@ -1,5 +1,5 @@
 ---
-title: lego
+title: 'lego'
 tagnames: redirect:15354
 author: warren
 path: /wiki/lego.md

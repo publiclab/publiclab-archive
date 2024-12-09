@@ -1,5 +1,5 @@
 ---
-title: Using multispectral imagery to derive bathymetry
+title: 'Using multispectral imagery to derive bathymetry'
 tagnames: activity:multispectral-imaging, activity:image-analysis
 author: warren
 path: /notes/warren/6-6-2011/using-multispectral-imagery-derive-bathymetry.md

@@ -1,5 +1,5 @@
 ---
-title: Goldsmiths University First Mapping session
+title: 'Goldsmiths University First Mapping session'
 tagnames: balloon-mapping, london, uk, goldsmiths, eu
 author: cesarharada
 path: /notes/cesarharada/10-19-2011/goldsmiths-university-first-mapping-session.md

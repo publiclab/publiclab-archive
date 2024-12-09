@@ -1,5 +1,5 @@
 ---
-title: Why can't I calibrate? Glitch?
+title: 'Why can't I calibrate? Glitch?'
 tagnames: spectrometer, spectralworkbench, red, uvc, save, question:general
 author: hanswilms
 path: /notes/hanswilms/07-27-2017/why-can-t-i-calibrate-glitch.md

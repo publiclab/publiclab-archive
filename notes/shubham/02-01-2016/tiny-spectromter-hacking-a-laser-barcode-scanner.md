@@ -1,5 +1,5 @@
 ---
-title: Tiny spectromter - Hacking a LASER barcode scanner
+title: 'Tiny spectromter - Hacking a LASER barcode scanner'
 tagnames: spectrometer, ccd, reflection, pocket, sized, barcode, scanner, mirror, front
 author: shubham
 path: /notes/shubham/02-01-2016/tiny-spectromter-hacking-a-laser-barcode-scanner.md

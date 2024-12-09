@@ -1,5 +1,5 @@
 ---
-title: Water Quality Monitoring: Community-based Science
+title: 'Water Quality Monitoring: Community-based Science'
 tagnames: education, presentations, water-quality-monitoring, sensors, water-quality, water-sensors, stem
 author: MadTinker
 path: /notes/MadTinker/03-09-2018/water-quality-monitoring-community-based-science.md

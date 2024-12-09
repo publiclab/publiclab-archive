@@ -1,5 +1,5 @@
 ---
-title: Colorado Regulations Hotsheet
+title: 'Colorado Regulations Hotsheet'
 tagnames: colorado, air-quality, regulations, regional, airborne, hotsheet, visible, gaseous, effluent
 author: gretchengehrke
 path: /notes/gretchengehrke/10-28-2016/colorado-regulations-hotsheet.md

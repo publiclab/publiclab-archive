@@ -1,5 +1,5 @@
 ---
-title: UN-SPIDER argues for multispectral humanitarian satellite imagery
+title: 'UN-SPIDER argues for multispectral humanitarian satellite imagery'
 tagnames: 
 author: warren
 path: /notes/warren/12-5-2011/un-spider-argues-multispectral-humanitarian-satellite-imagery.md

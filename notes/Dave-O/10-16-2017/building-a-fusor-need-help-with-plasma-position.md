@@ -1,5 +1,5 @@
 ---
-title: Building a Fusor. Need help with plasma position
+title: 'Building a Fusor. Need help with plasma position'
 tagnames: health, radiation, pressure, cadmium, pump, physics, vacuum, voltage, thermocouple, gamma, fusion, fusor, plasma, gauge, deuterium, resistors, ohm, resistor, rays, geiger, counter, dosimetry, diffusion, kv, microns, irradiator
 author: Dave-O
 path: /notes/Dave-O/10-16-2017/building-a-fusor-need-help-with-plasma-position.md

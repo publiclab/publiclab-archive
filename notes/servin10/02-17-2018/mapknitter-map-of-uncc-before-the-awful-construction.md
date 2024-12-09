@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNCC before the Awful Construction
+title: 'MapKnitter map of UNCC before the Awful Construction'
 tagnames: mapknitter, north-carolina, southeast, lat:35.3059061035, lon:-80.7298082113
 author: servin10
 path: /notes/servin10/02-17-2018/mapknitter-map-of-uncc-before-the-awful-construction.md

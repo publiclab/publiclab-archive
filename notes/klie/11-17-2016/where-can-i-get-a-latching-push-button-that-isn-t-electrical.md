@@ -1,5 +1,5 @@
 ---
-title: Where can I get a latching push button that isn't electrical?
+title: 'Where can I get a latching push button that isn't electrical?'
 tagnames: answered, question:sourcing, sourcing, components, question:electronics, electronics, switches
 author: klie
 path: /notes/klie/11-17-2016/where-can-i-get-a-latching-push-button-that-isn-t-electrical.md

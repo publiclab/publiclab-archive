@@ -1,5 +1,5 @@
 ---
-title: Is there a need for safely collecting aerial imagery post-Harvey?
+title: 'Is there a need for safely collecting aerial imagery post-Harvey?'
 tagnames: balloon-mapping, kite-mapping, aerial-photography, hurricane, storm, harvey, harvey-response, question:harvey
 author: warren
 path: /notes/warren/08-31-2017/is-there-a-need-for-safely-collecting-aerial-imagery-post-harvey.md

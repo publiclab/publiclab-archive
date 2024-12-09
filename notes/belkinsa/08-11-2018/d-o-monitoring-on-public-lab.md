@@ -1,5 +1,5 @@
 ---
-title: D.O. Monitoring on Public Lab
+title: 'D.O. Monitoring on Public Lab'
 tagnames: question:question, question:water-quality, question:dissolved-oxygen, question:DO
 author: belkinsa
 path: /notes/belkinsa/08-11-2018/d-o-monitoring-on-public-lab.md

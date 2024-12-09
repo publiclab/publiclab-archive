@@ -1,5 +1,5 @@
 ---
-title: Measuring algal photosynthetic activity with Photosynq
+title: 'Measuring algal photosynthetic activity with Photosynq'
 tagnames: photosynthesis, photosynq, algae
 author: gbathree
 path: /notes/gbathree/07-11-2013/measuring-algal-photosynthetic-activity-with-photosynq.md

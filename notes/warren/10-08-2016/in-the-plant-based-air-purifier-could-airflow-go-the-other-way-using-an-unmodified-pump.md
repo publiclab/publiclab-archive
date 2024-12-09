@@ -1,5 +1,5 @@
 ---
-title: In the plant based air purifier, could airflow go the other way, using an unmodified pump?
+title: 'In the plant based air purifier, could airflow go the other way, using an unmodified pump?'
 tagnames: air-quality, formaldehyde, open-air, question:air-quality, indoor-air-quality, air-monitoring, indoor-air, question:plant-based-air-purifier, question:indoor-air-remediation, question:indoor-air, question:indoor-air-quality
 author: warren
 path: /notes/warren/10-08-2016/in-the-plant-based-air-purifier-could-airflow-go-the-other-way-using-an-unmodified-pump.md

@@ -1,5 +1,5 @@
 ---
-title: community-microscope
+title: 'community-microscope'
 tagnames: redirect:micro
 author: warren
 path: /wiki/community-microscope.md

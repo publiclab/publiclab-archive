@@ -1,5 +1,5 @@
 ---
-title: How can I get the menu to calibrate SpectralWorkbench?
+title: 'How can I get the menu to calibrate SpectralWorkbench?'
 tagnames: calibration, spectralworkbench, spectrometry, question:spectrometry, question:calibration, first-time-poster
 author: experimentierwerkstatt_dm
 path: /notes/experimentierwerkstatt_dm/04-27-2020/how-can-i-get-the-menu-to-calibrate-spectralworkbench.md

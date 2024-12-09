@@ -1,5 +1,5 @@
 ---
-title: Microscope from Tablet Computer
+title: 'Microscope from Tablet Computer'
 tagnames: dust, smartphone, pm, biology, microscope, microscopy, time:3h, status:complete, tablet, activity:microscopy, microscopes, activity:microscopes, lat:42.38, location:blurred, make-magazine, artisans-asylum, lon:-71.1, place:artisans-asylum
 author: MicroscopesAreCool
 path: /notes/MicroscopesAreCool/12-05-2016/microscope-from-tablet-computer.md

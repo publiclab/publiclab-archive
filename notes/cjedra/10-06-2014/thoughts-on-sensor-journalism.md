@@ -1,5 +1,5 @@
 ---
-title: Thoughts on sensor journalism 
+title: 'Thoughts on sensor journalism '
 tagnames: sensor-journalism
 author: cjedra
 path: /notes/cjedra/10-06-2014/thoughts-on-sensor-journalism.md

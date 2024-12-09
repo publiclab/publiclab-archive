@@ -1,5 +1,5 @@
 ---
-title: Public Lab Lesson 4: Environmental Monitoring curricular standards
+title: 'Public Lab Lesson 4: Environmental Monitoring curricular standards'
 tagnames: education, curriculum, parent:wetlands-lesson-plans
 author: mathew
 path: /wiki/public-lab-lesson-4-environmental-monitoring-curricular-standards.md

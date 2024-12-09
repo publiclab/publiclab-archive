@@ -1,5 +1,5 @@
 ---
-title: Creating a Biodegradable water resistant paper
+title: 'Creating a Biodegradable water resistant paper'
 tagnames: waste-management, waste, paper, plastics, lat:12.971598, lon:77.594562, zoom:4, biodegradable, water-repellent
 author: deeptalaxmibharadwaj
 path: /notes/deeptalaxmibharadwaj/10-25-2020/creating-a-biodegradable-water-resistant-paper.md

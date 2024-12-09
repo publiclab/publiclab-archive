@@ -1,5 +1,5 @@
 ---
-title: mapping curriculum: first flight
+title: 'mapping curriculum: first flight'
 tagnames: curriculum, parent:mapping-curriculum, mapping-curriculum
 author: gonzoearth
 path: /wiki/mapping-curriculum-first-flight.md

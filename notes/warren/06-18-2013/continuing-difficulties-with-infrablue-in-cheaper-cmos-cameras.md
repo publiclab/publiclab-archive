@@ -1,5 +1,5 @@
 ---
-title: Continuing difficulties with infrablue in cheaper CMOS cameras
+title: 'Continuing difficulties with infrablue in cheaper CMOS cameras'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, infrablue, tests, infragram-conversion
 author: warren
 path: /notes/warren/06-18-2013/continuing-difficulties-with-infrablue-in-cheaper-cmos-cameras.md

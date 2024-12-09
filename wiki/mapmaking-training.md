@@ -1,5 +1,5 @@
 ---
-title: Mapmaking Training
+title: 'Mapmaking Training'
 tagnames: 
 author: gonzoearth
 path: /wiki/mapmaking-training.md

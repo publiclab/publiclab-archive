@@ -1,5 +1,5 @@
 ---
-title: Support your favorite nonprofit (Public Lab!) on #GivingTuesday!
+title: 'Support your favorite nonprofit (Public Lab!) on #GivingTuesday!'
 tagnames: fundraising
 author: Becki
 path: /notes/Becki/12-03-2013/support-your-favorite-nonprofit-public-lab-on-givingtuesday.md

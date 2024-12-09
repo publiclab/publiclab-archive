@@ -1,5 +1,5 @@
 ---
-title: Common-anode LED thermal flashlight casing and circuit diagram
+title: 'Common-anode LED thermal flashlight casing and circuit diagram'
 tagnames: thermal-photography, thermal-flashlight, thermal-camera, tool, barnstar:basic, activity:thermal-flashlight, upgrade:thermal-flashlight
 author: lmc6399group
 path: /notes/lmc6399group/02-13-2015/common-anode-led-thermal-flashlight-casing-and-circuit-diagram.md

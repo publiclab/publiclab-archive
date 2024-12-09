@@ -1,5 +1,5 @@
 ---
-title: Where can I find models for community-university data co-ownership?
+title: 'Where can I find models for community-university data co-ownership?'
 tagnames: ethics, legal, data-collection, data, ip, answered, question:question, community-science, question:data, question:irb, question:ethics, question:data-sharing, data-sharing, irb, question:legal, law-and-policy, question:law-and-policy
 author: nshapiro
 path: /notes/nshapiro/09-27-2017/where-can-i-find-models-for-community-university-data-co-ownership.md

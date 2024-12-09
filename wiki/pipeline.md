@@ -1,5 +1,5 @@
 ---
-title: Pipeline
+title: 'Pipeline'
 tagnames: pipeline, pipeline-monitoring
 author: stevie
 path: /wiki/pipeline.md

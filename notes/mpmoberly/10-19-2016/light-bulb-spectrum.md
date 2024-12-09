@@ -1,5 +1,5 @@
 ---
-title: Light bulb spectrum 
+title: 'Light bulb spectrum '
 tagnames: hidden:response, response:13586, first-time-poster
 author: mpmoberly
 path: /notes/mpmoberly/10-19-2016/light-bulb-spectrum.md

@@ -1,5 +1,5 @@
 ---
-title: Updated photo monitoring plugin to compare NDVI with DVI
+title: 'Updated photo monitoring plugin to compare NDVI with DVI'
 tagnames: near-infrared-camera, ndvi, imagej, software, plugin, photo, infragram, fiji, photo-monitoring-plugin, monitoring, dvi
 author: nedhorning
 path: /notes/nedhorning/06-24-2014/updated-photo-monitoring-plugin-to-compare-ndvi-with-dvi.md

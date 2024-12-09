@@ -1,5 +1,5 @@
 ---
-title: Thermal Imaging Uses
+title: 'Thermal Imaging Uses'
 tagnames: first-time-poster
 author: Brittny
 path: /notes/brittny/11-28-2011/thermal-imaging-uses.md

@@ -1,5 +1,5 @@
 ---
-title: Leaflet Environmental Layer Library - Part 2
+title: 'Leaflet Environmental Layer Library - Part 2'
 tagnames: air-quality, pipeline, gsoc, maps, leaflet, code, fracking, fractracker, soc, purpleair, gsoc-2018, soc-2018, infrastructure, pipelines, leaflet-environmental-layers
 author: sagarpreet
 path: /notes/sagarpreet/07-16-2018/leaflet-environmental-layer-library-part-2.md

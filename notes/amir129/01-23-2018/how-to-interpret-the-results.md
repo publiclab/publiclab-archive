@@ -1,5 +1,5 @@
 ---
-title: How to interpret the results?
+title: 'How to interpret the results?'
 tagnames: spectrometry, question:spectrometry, answered
 author: amir129
 path: /notes/amir129/01-23-2018/how-to-interpret-the-results.md

@@ -1,5 +1,5 @@
 ---
-title: Barataria 2014: III February 27th
+title: 'Barataria 2014: III February 27th'
 tagnames: gulf-coast, balloon-mapping, barataria-bay, kite-mapping, wetlands, louisiana, wetland, kite, barataria, bp, boat, patagonia, response:10045, powered
 author: eustatic
 path: /04-20-2014/barataria-2014-february-27th.md

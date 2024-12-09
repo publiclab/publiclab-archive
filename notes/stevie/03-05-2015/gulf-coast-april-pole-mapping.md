@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast April Pole Mapping
+title: 'Gulf Coast April Pole Mapping'
 tagnames: events, polemapping, mapping, event, neworleans, pole-mapping, gulfcoast
 author: stevie
 path: /notes/stevie/03-05-2015/gulf-coast-april-pole-mapping.md

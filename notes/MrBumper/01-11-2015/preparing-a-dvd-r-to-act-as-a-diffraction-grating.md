@@ -1,5 +1,5 @@
 ---
-title: Preparing a DVD-R to act as a diffraction grating
+title: 'Preparing a DVD-R to act as a diffraction grating'
 tagnames: spectrometer, spectrometry, barnstar:basic, activity:spectrometry, activity:papercraft-spec, activity:lego-spectrometer
 author: MrBumper
 path: /notes/MrBumper/01-11-2015/preparing-a-dvd-r-to-act-as-a-diffraction-grating.md

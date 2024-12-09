@@ -1,5 +1,5 @@
 ---
-title: Infragram featured in April's issue of Wired
+title: 'Infragram featured in April's issue of Wired'
 tagnames: media, infragram, wired
 author: warren
 path: /notes/warren/04-15-2014/infragram-featured-in-april-s-issue-of-wired.md

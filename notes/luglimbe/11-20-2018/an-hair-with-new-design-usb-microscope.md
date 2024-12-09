@@ -1,5 +1,5 @@
 ---
-title: An hair with new design usb microscope
+title: 'An hair with new design usb microscope'
 tagnames: event, microscope, community-microscope, replication:15819
 author: luglimbe
 path: /notes/luglimbe/11-20-2018/an-hair-with-new-design-usb-microscope.md

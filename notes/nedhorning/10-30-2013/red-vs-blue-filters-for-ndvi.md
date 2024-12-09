@@ -1,5 +1,5 @@
 ---
-title: Red vs. blue filters for NDVI
+title: 'Red vs. blue filters for NDVI'
 tagnames: near-infrared-camera, ndvi, calibration, infrared, infragram, infrablue, wratten25a, super-red, red-vs-blue
 author: nedhorning
 path: /notes/nedhorning/10-30-2013/red-vs-blue-filters-for-ndvi.md

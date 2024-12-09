@@ -1,5 +1,5 @@
 ---
-title: Calibrating Spectrometers from fluorescent light bulbs
+title: 'Calibrating Spectrometers from fluorescent light bulbs'
 tagnames: new-york-city, spectrometer, calibration, troubleshooting, spectrometry, laser, overexposure, response:10190
 author: jholmes5
 path: /notes/jholmes5/03-18-2014/calibrating-spectrometers-from-fluorescent-light-bulbs.md

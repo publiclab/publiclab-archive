@@ -1,5 +1,5 @@
 ---
-title: Ida
+title: 'Ida'
 tagnames: hurricane, climate-change, disaster-response, ida, hurricane-ida
 author: stevie
 path: /wiki/ida.md

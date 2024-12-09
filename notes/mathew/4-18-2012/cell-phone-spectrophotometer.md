@@ -1,5 +1,5 @@
 ---
-title: Cell Phone Spectrophotometer
+title: 'Cell Phone Spectrophotometer'
 tagnames: spectrometer
 author: mathew
 path: /notes/mathew/4-18-2012/cell-phone-spectrophotometer.md

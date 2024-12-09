@@ -1,5 +1,5 @@
 ---
-title: Using 2 camera try to find NDVI Image. Please verify my image .
+title: 'Using 2 camera try to find NDVI Image. Please verify my image .'
 tagnames: ndvi, nera-infrared
 author: Kalarav
 path: /notes/Kalarav/08-19-2017/using-2-camera-try-to-find-ndvi-image-please-verify-my-image.md

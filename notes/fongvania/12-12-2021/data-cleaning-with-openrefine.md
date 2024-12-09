@@ -1,5 +1,5 @@
 ---
-title: Data Cleaning with OpenRefine
+title: 'Data Cleaning with OpenRefine'
 tagnames: data, research-area-review, research-curation-fellows, air-quality-data, data-cleaning, activity:air-quality-data, activity:data-cleaning
 author: fongvania
 path: /notes/fongvania/12-12-2021/data-cleaning-with-openrefine.md

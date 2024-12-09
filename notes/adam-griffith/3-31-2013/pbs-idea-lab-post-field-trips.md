@@ -1,5 +1,5 @@
 ---
-title: PBS Idea Lab Post: Field Trips
+title: 'PBS Idea Lab Post: Field Trips'
 tagnames: balloon-mapping, education, idealab, pbs, field-trip
 author: adam-griffith
 path: /notes/adam-griffith/3-31-2013/pbs-idea-lab-post-field-trips.md

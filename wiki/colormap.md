@@ -1,5 +1,5 @@
 ---
-title: colormap
+title: 'colormap'
 tagnames: ndvi, infragram, colormap, parent:infragram, multispectral-imaging, image-sequencer, colorize
 author: warren
 path: /wiki/colormap.md

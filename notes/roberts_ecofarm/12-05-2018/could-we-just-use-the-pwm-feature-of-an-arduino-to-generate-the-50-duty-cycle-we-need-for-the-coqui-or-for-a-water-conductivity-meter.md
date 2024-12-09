@@ -1,5 +1,5 @@
 ---
-title: Could we just use the PWM feature of an Arduino to generate the 50% duty cycle we need for the Coqui or for a water conductivity meter?
+title: 'Could we just use the PWM feature of an Arduino to generate the 50% duty cycle we need for the Coqui or for a water conductivity meter?'
 tagnames: sensors, water-quality, conductivity, coqui, question:coqui
 author: roberts_ecofarm
 path: /notes/roberts_ecofarm/12-05-2018/could-we-just-use-the-pwm-feature-of-an-arduino-to-generate-the-50-duty-cycle-we-need-for-the-coqui-or-for-a-water-conductivity-meter.md

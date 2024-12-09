@@ -1,5 +1,5 @@
 ---
-title: Can detect the camara,but can't show image
+title: 'Can detect the camara,but can't show image'
 tagnames: question:spectral-workbench, first-time-poster
 author: JHYeh
 path: /notes/JHYeh/01-02-2019/can-detect-the-camara-but-can-t-show-image.md

@@ -1,5 +1,5 @@
 ---
-title: What is the magnification on the Basic Microscope kit?
+title: 'What is the magnification on the Basic Microscope kit?'
 tagnames: question:basic-microscope, question:question:basic-microscope
 author: maxliboiron
 path: /notes/maxliboiron/07-18-2019/how-do-i.md

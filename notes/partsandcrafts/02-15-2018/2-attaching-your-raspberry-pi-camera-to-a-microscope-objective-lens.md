@@ -1,5 +1,5 @@
 ---
-title: Attaching a Raspberry Pi Camera to a Microscope Objective Lens
+title: 'Attaching a Raspberry Pi Camera to a Microscope Objective Lens'
 tagnames: raspberry-pi, with:kgradow1, with:warren, microscope, pi-camera, microscopes, with:wmacfarl, with:bmela, activity:basic-microscope, basic-microscope, series:basic-microscope
 author: partsandcrafts
 path: /notes/partsandcrafts/02-15-2018/2-attaching-your-raspberry-pi-camera-to-a-microscope-objective-lens.md

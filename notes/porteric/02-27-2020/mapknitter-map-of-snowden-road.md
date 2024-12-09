@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Snowden Road
+title: 'MapKnitter map of Snowden Road'
 tagnames: mapknitter, first-time-poster, zoom:17, lat:45.7578508607, lon:-121.4734254149, lat:45.757761, lon:-121.47249
 author: porteric
 path: /notes/porteric/02-27-2020/mapknitter-map-of-snowden-road.md

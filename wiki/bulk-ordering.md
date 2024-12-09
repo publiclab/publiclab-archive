@@ -1,5 +1,5 @@
 ---
-title: Bulk ordering
+title: 'Bulk ordering'
 tagnames: 
 author: warren
 path: /wiki/bulk-ordering.md

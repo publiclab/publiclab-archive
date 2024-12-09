@@ -1,5 +1,5 @@
 ---
-title: Toolshed Raising 02-02-14
+title: 'Toolshed Raising 02-02-14'
 tagnames: somerville-massachusetts, boston, event, toolshed-raising, toolshed
 author: warren
 path: /wiki/toolshed-raising-02-02-14.md

@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Sulfide Photopaper
+title: 'Hydrogen Sulfide Photopaper'
 tagnames: method, h2s-photopaper, parent:hydrogen-sulfide
 author: warren
 path: /wiki/hydrogen-sulfide-photopaper.md

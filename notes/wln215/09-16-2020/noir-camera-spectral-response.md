@@ -1,5 +1,5 @@
 ---
-title: NoIR Camera Spectral Response
+title: 'NoIR Camera Spectral Response'
 tagnames: spectralworkbench, spectrometry, raspberrypi, picamera, noir
 author: wln215
 path: /notes/wln215/09-16-2020/noir-camera-spectral-response.md

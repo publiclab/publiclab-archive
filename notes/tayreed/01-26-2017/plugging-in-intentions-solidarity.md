@@ -1,5 +1,5 @@
 ---
-title: Plugging In! (Intentions & Solidarity)
+title: 'Plugging In! (Intentions & Solidarity)'
 tagnames: statistics, spatial
 author: tayreed
 path: /notes/tayreed/01-26-2017/plugging-in-intentions-solidarity.md

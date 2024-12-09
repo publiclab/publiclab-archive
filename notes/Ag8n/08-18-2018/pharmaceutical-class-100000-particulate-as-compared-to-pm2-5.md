@@ -1,5 +1,5 @@
 ---
-title: Pharmaceutical class 100000 particulate as compared to pm2.5
+title: 'Pharmaceutical class 100000 particulate as compared to pm2.5'
 tagnames: pm, answered, particulate-matter, purpleair, pm2.5, question:purpleair
 author: Ag8n
 path: /notes/Ag8n/08-18-2018/pharmaceutical-class-100000-particulate-as-compared-to-pm2-5.md

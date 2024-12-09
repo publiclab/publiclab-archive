@@ -1,5 +1,5 @@
 ---
-title: Assembly completed but the camera doesn't work.
+title: 'Assembly completed but the camera doesn't work.'
 tagnames: question:spectrometry, answered, question:dssk, question:kits
 author: 1987123
 path: /notes/1987123/07-03-2017/assembly-completed-but-the-camera-doesn-t-work.md

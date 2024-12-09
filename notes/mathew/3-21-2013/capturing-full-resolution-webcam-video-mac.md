@@ -1,5 +1,5 @@
 ---
-title: Capturing full resolution webcam video on a mac
+title: 'Capturing full resolution webcam video on a mac'
 tagnames: near-infrared-camera, spectrometer, spectrometry, desktop-spectrometer
 author: mathew
 path: /notes/mathew/3-21-2013/capturing-full-resolution-webcam-video-mac.md

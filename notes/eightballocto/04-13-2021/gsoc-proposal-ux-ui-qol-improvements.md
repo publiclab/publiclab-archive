@@ -1,5 +1,5 @@
 ---
-title: GSoC!proposal:  UX/UI QoL Improvements
+title: 'GSoC!proposal:  UX/UI QoL Improvements'
 tagnames: software, soc, lat:0, lon:0, first-time-poster, zoom:2, gsoc-2021, gsoc-2021-proposals
 author: eightballocto
 path: /notes/eightballocto/04-13-2021/gsoc-proposal-ux-ui-qol-improvements.md

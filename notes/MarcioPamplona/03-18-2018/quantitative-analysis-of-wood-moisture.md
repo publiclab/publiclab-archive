@@ -1,5 +1,5 @@
 ---
-title: Quantitative analysis of wood moisture
+title: 'Quantitative analysis of wood moisture'
 tagnames: spectrometry, question:spectrometry, moisture, question:general, solid, question:wood, question:moisture, wood
 author: MarcioPamplona
 path: /notes/MarcioPamplona/03-18-2018/quantitative-analysis-of-wood-moisture.md

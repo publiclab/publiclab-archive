@@ -1,5 +1,5 @@
 ---
-title: Hyperlocal Air Quality Dataset for California Regions
+title: 'Hyperlocal Air Quality Dataset for California Regions'
 tagnames: air-quality, bay-area, research-curation-fellows
 author: fongvania
 path: /notes/fongvania/10-07-2021/hyperlocal-air-quality-dataset-for-california-regions.md

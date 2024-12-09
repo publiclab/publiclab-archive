@@ -1,5 +1,5 @@
 ---
-title: Using Fluxtream to look at Speck Data
+title: 'Using Fluxtream to look at Speck Data'
 tagnames: visualization, data, dust, silica, speck
 author: mathew
 path: /notes/mathew/06-05-2014/using-fluxtream-to-look-at-speck-data.md

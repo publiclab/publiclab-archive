@@ -1,5 +1,5 @@
 ---
-title: Incendios Forestales en El Salvador/Wildfires in El Salvador
+title: 'Incendios Forestales en El Salvador/Wildfires in El Salvador'
 tagnames: central-america, lang:es, pm, biodiversity, cuenca, particulate-matter, watershed, wildfires, issue-brief, el-salvador, zoom:12, lat:14, paticulate-matter, lon:-88.9, biodiversidad, incendio-forestal, material-particulado, with:amocorro
 author: denissebn_06
 path: /notes/denissebn_06/04-30-2021/wilfires-in-el-salvador.md

@@ -1,5 +1,5 @@
 ---
-title: abrdn
+title: 'abrdn'
 tagnames: 
 author: 
 path: /notes/5-13-2012/abrdn.md

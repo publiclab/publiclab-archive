@@ -1,5 +1,5 @@
 ---
-title: PhotosynQ midsummer update
+title: 'PhotosynQ midsummer update'
 tagnames: science, photosynthesis, photosynq, plant, multispeq
 author: gbathree
 path: /notes/gbathree/08-13-2014/photosynq-midsummer-update.md

@@ -1,5 +1,5 @@
 ---
-title: Question: Desktop Spectrometry Kit 
+title: 'Question: Desktop Spectrometry Kit '
 tagnames: desktop-spectrometry-kit, question:spectrometry, answered
 author: clmchenr
 path: /notes/clmchenr/08-19-2015/question-desktop-spectrometry-kit.md

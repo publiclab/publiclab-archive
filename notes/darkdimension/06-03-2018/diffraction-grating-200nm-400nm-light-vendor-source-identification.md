@@ -1,5 +1,5 @@
 ---
-title: Diffraction grating (200nm - 400nm) & Light, Vendor/Source Identification
+title: 'Diffraction grating (200nm - 400nm) & Light, Vendor/Source Identification'
 tagnames: spectrometer, spectralworkbench, uvc, question:general
 author: darkdimension
 path: /notes/darkdimension/06-03-2018/diffraction-grating-200nm-400nm-light-vendor-source-identification.md

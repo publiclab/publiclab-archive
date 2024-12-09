@@ -1,5 +1,5 @@
 ---
-title: next attempts at dye tracing
+title: 'next attempts at dye tracing'
 tagnames: new-york-city, balloon-mapping, gowanus, wetlands, dye-tracing, northeast, with:natasia, with:yvv, with:eymund, dye, inflow, lat:40.674568, lon:-73.989658, place:gowanus-canal
 author: liz
 path: /notes/liz/10-01-2014/next-attempts-at-dye-tracing.md

@@ -1,5 +1,5 @@
 ---
-title: General spectrometer thoughts
+title: 'General spectrometer thoughts'
 tagnames: spectrometer
 author: adam-griffith
 path: /notes/adam-griffith/4-30-2012/general-spectrometer-thoughts.md

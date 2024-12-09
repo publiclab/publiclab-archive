@@ -1,5 +1,5 @@
 ---
-title: How can i manipulate kombucha leather?
+title: 'How can i manipulate kombucha leather?'
 tagnames: kombucha, kombucha-leather, question:kombucha-leather
 author: liz
 path: /notes/liz/01-19-2018/how-can-i-manipulate-kombucha-leather.md

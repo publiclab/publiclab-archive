@@ -1,5 +1,5 @@
 ---
-title: Zero dark thirsty: Capturing replenishing nighttime rain events with a trail camera
+title: 'Zero dark thirsty: Capturing replenishing nighttime rain events with a trail camera'
 tagnames: nir, vermont, leaffest, photo-monitoring, timelapse, water-quality, stream, with:warren, trapcam, leaffest-2016, trail-camera, nighttime, environment-monitoring, story:timelapse, timelapse-story
 author: cfastie
 path: /notes/cfastie/09-20-2016/zero-dark-thirsty-capturing-replenishing-nighttime-rain-events-with-a-trail-camera.md

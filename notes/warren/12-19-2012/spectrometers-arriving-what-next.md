@@ -1,5 +1,5 @@
 ---
-title: Spectrometers arriving: what next?
+title: 'Spectrometers arriving: what next?'
 tagnames: spectrometer, spectralworkbench, kickstarter
 author: warren
 path: /notes/warren/12-19-2012/spectrometers-arriving-what-next.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit job posting: Business and Operations Manager
+title: 'Public Lab nonprofit job posting: Business and Operations Manager'
 tagnames: gulf-coast, staff, nonprofit, neworleans, jobs, barnstar:basic, location:neworleans
 author: Delaney
 path: /notes/Delaney/02-20-2018/public-lab-nonprofit-job-posting-business-and-operations-manager.md

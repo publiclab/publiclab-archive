@@ -1,5 +1,5 @@
 ---
-title: Outreachy Proposal - Refine the Public Lab Rich Editor
+title: 'Outreachy Proposal - Refine the Public Lab Rich Editor'
 tagnames: lat:0, lon:0, first-time-poster, zoom:0, outreachy-winter-2021
 author: NaruDesigns
 path: /notes/NaruDesigns/11-05-2021/outreachy-proposal-refine-the-public-lab-rich-editor.md

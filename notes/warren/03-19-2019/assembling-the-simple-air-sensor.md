@@ -1,5 +1,5 @@
 ---
-title: Assembling the Simple Air Sensor
+title: 'Assembling the Simple Air Sensor'
 tagnames: arduino, air-quality, dust, pm, air-sensing, seeks:replications, activity:arduino, air-sensors, purpleair, plantower, purple-air, simple-air-sensor, activity:simple-air-sensor, activity:air-sensing, lat:41.809115, lon:-71.426615, pin:simple-air-sensor, pin:activity:simple-air-sensor, sas-build
 author: warren
 path: /notes/warren/03-19-2019/assembling-the-simple-air-sensor.md

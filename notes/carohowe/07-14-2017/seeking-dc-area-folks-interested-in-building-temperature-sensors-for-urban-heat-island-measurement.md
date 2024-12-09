@@ -1,5 +1,5 @@
 ---
-title: Seeking DC-area folks interested in building temperature sensors for urban heat island measurement
+title: 'Seeking DC-area folks interested in building temperature sensors for urban heat island measurement'
 tagnames: temperature, heat, question:thermal-photography, question:general, question:sensors, dc, washington-dc, question:arduino, urban-heat-island, question:dc, baltimore-dc, question:urban-heat-island, question:heat
 author: carohowe
 path: /notes/carohowe/07-14-2017/seeking-dc-area-folks-interested-in-building-temperature-sensors-for-urban-heat-island-measurement.md

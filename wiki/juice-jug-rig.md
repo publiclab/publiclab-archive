@@ -1,5 +1,5 @@
 ---
-title: Juice jug rig
+title: 'Juice jug rig'
 tagnames: photo-rig
 author: warren
 path: /wiki/juice-jug-rig.md

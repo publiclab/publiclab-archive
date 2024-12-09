@@ -1,5 +1,5 @@
 ---
-title: Orange is the new red
+title: 'Orange is the new red'
 tagnames: ndvi, vermont, calibration, infrared, infragram, wratten25a, super-red, wratten15, response:9717, upgrade:multispectral-imaging
 author: cfastie
 path: /notes/cfastie/01-16-2015/orange-is-the-new-red.md

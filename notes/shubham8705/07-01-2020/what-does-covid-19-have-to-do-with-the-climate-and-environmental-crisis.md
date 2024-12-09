@@ -1,5 +1,5 @@
 ---
-title: What does COVID-19 have to do with the climate and environmental crisis
+title: 'What does COVID-19 have to do with the climate and environmental crisis'
 tagnames: forest, air-quality, climate-change, barnstar:watchdog, biodiversity, blog-submission, air-pollution, environmental-health, first-time-poster, covid-19, landscape-fragmentation, deforestation
 author: shubham8705
 path: /notes/shubham8705/07-01-2020/what-does-covid-19-have-to-do-with-the-climate-and-environmental-crisis.md

@@ -1,5 +1,5 @@
 ---
-title: Phone light, cereal box, dvd
+title: 'Phone light, cereal box, dvd'
 tagnames: box, dvd, light, phone, first-time-poster, cereal
 author: helenjoonie
 path: /notes/helenjoonie/06-08-2021/phone-light-cereal-box-dvd.md

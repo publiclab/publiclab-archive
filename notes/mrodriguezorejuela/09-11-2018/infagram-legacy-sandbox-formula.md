@@ -1,5 +1,5 @@
 ---
-title: Infragram - Legacy sandbox formula
+title: 'Infragram - Legacy sandbox formula'
 tagnames: question:general, first-time-poster
 author: mrodriguezorejuela
 path: /notes/mrodriguezorejuela/09-11-2018/infagram-legacy-sandbox-formula.md

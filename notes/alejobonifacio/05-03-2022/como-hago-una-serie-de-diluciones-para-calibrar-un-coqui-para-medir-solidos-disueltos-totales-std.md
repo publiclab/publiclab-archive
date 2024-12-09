@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo hago una serie de diluciones para calibrar un Coqui para medir sólidos disueltos totales (STD)?
+title: '¿Cómo hago una serie de diluciones para calibrar un Coqui para medir sólidos disueltos totales (STD)?'
 tagnames: calibration, water-quality, lang:es, coqui, activity:coqui, activity:new, zoom:6, lon:-64, lat:-31, conductividad, coqui-conductivity
 author: alejobonifacio
 path: /notes/alejobonifacio/05-03-2022/como-hago-una-serie-de-diluciones-para-calibrar-un-coqui-para-medir-solidos-disueltos-totales-std.md

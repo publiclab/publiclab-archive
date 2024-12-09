@@ -1,5 +1,5 @@
 ---
-title: Photosynq - Preparing for the Open Hardware Summit
+title: 'Photosynq - Preparing for the Open Hardware Summit'
 tagnames: open-hardware, photosynthesis, photosynq, ohs, open-hardware-summit
 author: gbathree
 path: /notes/gbathree/08-13-2013/photosynq-preparing-for-the-open-hardware-summit.md

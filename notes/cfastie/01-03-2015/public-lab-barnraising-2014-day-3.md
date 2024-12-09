@@ -1,5 +1,5 @@
 ---
-title: Public Lab Barnraising 2014, day 3
+title: 'Public Lab Barnraising 2014, day 3'
 tagnames: gulf-coast, louisiana, cocodrie, barnraising, lumcon, barnraising2014, response:11503
 author: cfastie
 path: /notes/cfastie/01-03-2015/public-lab-barnraising-2014-day-3.md

@@ -1,5 +1,5 @@
 ---
-title: NIR, Rosco fire #19 and my elph 300HS from Christmas
+title: 'NIR, Rosco fire #19 and my elph 300HS from Christmas'
 tagnames: ndvi, nir, infragram, rosco, fire, elph300hs
 author: admaltais
 path: /notes/admaltais/08-15-2015/nir-rosco-fire-19-and-my-elph-300hs-from-christmas.md

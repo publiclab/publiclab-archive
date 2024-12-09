@@ -1,5 +1,5 @@
 ---
-title: ITP Camp @ Fresh Kills
+title: 'ITP Camp @ Fresh Kills'
 tagnames: new-york-city, landfill, event, waste, trash, fresh-kills, itp, nyu, staten-island
 author: nicholas
 path: /notes/nejohnson2/06-17-2013/itp-camp-fresh-kills.md

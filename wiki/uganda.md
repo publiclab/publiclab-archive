@@ -1,5 +1,5 @@
 ---
-title: uganda
+title: 'uganda'
 tagnames: uganda, africa
 author: liz
 path: /wiki/uganda.md

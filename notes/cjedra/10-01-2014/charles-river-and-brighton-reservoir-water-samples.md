@@ -1,5 +1,5 @@
 ---
-title: Charles River and Brighton Reservoir Water Samples 
+title: 'Charles River and Brighton Reservoir Water Samples '
 tagnames: first-time-poster
 author: cjedra
 path: /notes/cjedra/10-01-2014/charles-river-and-brighton-reservoir-water-samples.md

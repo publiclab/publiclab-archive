@@ -1,5 +1,5 @@
 ---
-title: Flame testing metal salts
+title: 'Flame testing metal salts'
 tagnames: spectrometer, boston, education, partsandcrafts, curriculum, youth, somerville, massachusetts, flame, parts-and-crafts, aluminum, response:4406, copper, sodium, iron, emission-spectra, flame-test, strontium, potassium, activity:spectrometry, time:3h, difficulty:medium, category:observe, activity:education, activity:science-fair, activity:classroom, activity:curriculum, activity:nitrogen, fire-science
 author: kgradow1
 path: /notes/kgradow1/10-19-2015/pyrotechnics-101-flame-testing-metal-salts.md

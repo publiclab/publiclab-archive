@@ -1,5 +1,5 @@
 ---
-title: Creating an evaluation framework for Public Lab
+title: 'Creating an evaluation framework for Public Lab'
 tagnames: nonprofit, evaluation
 author: Shannon
 path: /notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab.md

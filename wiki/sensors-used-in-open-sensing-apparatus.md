@@ -1,5 +1,5 @@
 ---
-title: Sensors used in open sensing apparatus.
+title: 'Sensors used in open sensing apparatus.'
 tagnames: 
 author: briandegger
 path: /wiki/sensors-used-in-open-sensing-apparatus.md

@@ -1,5 +1,5 @@
 ---
-title: Quick Build:  Basic Microscope Kit with Raspberry Pi
+title: 'Quick Build:  Basic Microscope Kit with Raspberry Pi'
 tagnames: raspberry-pi, barnstar:photo-documentation, with:kgradow1, with:warren, microscope, passive-particle-monitors, microscopes, activity:microscopes, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope
 author: partsandcrafts
 path: /notes/partsandcrafts/12-02-2017/quick-build-raspberry-pi-microscope.md

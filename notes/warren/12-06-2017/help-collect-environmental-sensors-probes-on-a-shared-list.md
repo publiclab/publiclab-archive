@@ -1,5 +1,5 @@
 ---
-title: Help collect environmental sensors + probes on a shared list
+title: 'Help collect environmental sensors + probes on a shared list'
 tagnames: hydrogen-sulfide, data-logging, activity:data-logging, activity:sensors, requests, activity:requests, response:15308, activity:water-sensors
 author: warren
 path: /notes/warren/12-06-2017/help-collect-environmental-sensors-probes-on-a-shared-list.md

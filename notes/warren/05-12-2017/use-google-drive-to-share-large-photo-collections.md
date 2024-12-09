@@ -1,5 +1,5 @@
 ---
-title: Use Google Drive to share large photo collections
+title: 'Use Google Drive to share large photo collections'
 tagnames: balloon-mapping, photo-monitoring, timelapse, file-sharing, activity:photo-sharing, photo-sharing, activity:google-docs, google-docs, post-flight
 author: warren
 path: /notes/warren/05-12-2017/use-google-drive-to-share-large-photo-collections.md

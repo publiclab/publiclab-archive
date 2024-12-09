@@ -1,5 +1,5 @@
 ---
-title: Geologists take over Vienna
+title: 'Geologists take over Vienna'
 tagnames: spectrometer, image-compositing, image-stitching, conferences
 author: adam-griffith
 path: /notes/adam-griffith/5-3-2012/geologists-take-over-vienna.md

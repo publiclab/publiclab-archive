@@ -1,5 +1,5 @@
 ---
-title: Mobius MicroCam
+title: 'Mobius MicroCam'
 tagnames: mobius, microscope, microscopes
 author: tonyc
 path: /notes/tonyc/03-17-2016/mobius-microcam.md

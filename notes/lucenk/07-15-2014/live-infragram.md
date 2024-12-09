@@ -1,5 +1,5 @@
 ---
-title: Live Infragram
+title: 'Live Infragram'
 tagnames: near-infrared-camera, ndvi, infragram, maxmsp
 author: lucenk
 path: /notes/lucenk/07-15-2014/live-infragram.md

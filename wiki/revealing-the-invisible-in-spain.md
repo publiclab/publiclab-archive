@@ -1,5 +1,5 @@
 ---
-title: Revealing the Invisible in Spain
+title: 'Revealing the Invisible in Spain'
 tagnames: balloon-mapping, spain, grassrootsmappingforum, events:spain, with:shannon, style:fancy, with:basurama, gmf-5
 author: mollydanielsson
 path: /wiki/revealing-the-invisible-in-spain.md

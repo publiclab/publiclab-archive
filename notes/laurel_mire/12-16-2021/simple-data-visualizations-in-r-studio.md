@@ -1,5 +1,5 @@
 ---
-title: Simple Data Visualizations in R Studio
+title: 'Simple Data Visualizations in R Studio'
 tagnames: data, environmental-data, data-visualization, research-curation-fellows, presenting-data, air-quality-data, data-visualization-tool, data-viz, rstudio
 author: laurel_mire
 path: /notes/laurel_mire/12-16-2021/simple-data-visualizations-in-r-studio.md

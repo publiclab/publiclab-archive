@@ -1,5 +1,5 @@
 ---
-title: Air Quality Community Monitoring Funding Opportunity: Deadline 2/25/2022
+title: 'Air Quality Community Monitoring Funding Opportunity: Deadline 2/25/2022'
 tagnames: epa, air-quality, fundraising, grants, air-quality-monitoring, air-quality-projects, research-curation-fellows, funding
 author: fongvania
 path: /notes/fongvania/01-20-2022/air-quality-community-monitoring-funding-opportunity-deadline-2-25-2022.md

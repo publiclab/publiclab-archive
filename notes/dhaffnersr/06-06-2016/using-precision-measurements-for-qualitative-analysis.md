@@ -1,5 +1,5 @@
 ---
-title: Using Precision Measurements for Qualitative Analysis 
+title: 'Using Precision Measurements for Qualitative Analysis '
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/06-06-2016/using-precision-measurements-for-qualitative-analysis.md

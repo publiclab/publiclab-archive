@@ -1,5 +1,5 @@
 ---
-title: Georectifying in the Wetlands
+title: 'Georectifying in the Wetlands'
 tagnames: wetlands, idealab, barataria, rectifying, lat:29.476067, lon:-89.921722, place:wilkinson-bay-louisiana-usa
 author: gonzoearth
 path: /notes/gonzoearth/1-4-2012/georectifying-wetlands.md

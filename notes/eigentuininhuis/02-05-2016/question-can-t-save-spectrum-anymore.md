@@ -1,5 +1,5 @@
 ---
-title: Question: can't save spectrum anymore
+title: 'Question: can't save spectrum anymore'
 tagnames: question:spectral-workbench, answered
 author: eigentuininhuis
 path: /notes/eigentuininhuis/02-05-2016/question-can-t-save-spectrum-anymore.md

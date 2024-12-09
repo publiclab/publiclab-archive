@@ -1,5 +1,5 @@
 ---
-title: spectrum
+title: 'spectrum'
 tagnames: spectrum, first-time-poster
 author: scalajalal
 path: /notes/scalajalal/04-06-2020/spectrum.md

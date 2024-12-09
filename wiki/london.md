@@ -1,5 +1,5 @@
 ---
-title: London
+title: 'London'
 tagnames: redirect:512
 author: liz
 path: /wiki/london.md

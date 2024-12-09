@@ -1,5 +1,5 @@
 ---
-title: italia
+title: 'italia'
 tagnames: italy, eu, italia
 author: liz
 path: /wiki/italia.md

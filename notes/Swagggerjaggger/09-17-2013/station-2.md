@@ -1,5 +1,5 @@
 ---
-title: Station 2
+title: 'Station 2'
 tagnames: 
 author: Swagggerjaggger
 path: /notes/Swagggerjaggger/09-17-2013/station-2.md

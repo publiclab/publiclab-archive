@@ -1,5 +1,5 @@
 ---
-title: Youth Mapping Experiences
+title: 'Youth Mapping Experiences'
 tagnames: education, youth-mapping, groundworknola
 author: GroundworkNola
 path: /notes/groundworknola/5-9-2013/youth-mapping-experiences.md

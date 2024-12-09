@@ -1,5 +1,5 @@
 ---
-title: Copper Rod to Copper Sheet Discussion
+title: 'Copper Rod to Copper Sheet Discussion'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s, h2s-copper-pipe, h2s-copper-pipe-background, copper-sheet, copper-rod
 author: ErikHanley11
 path: /notes/ErikHanley11/04-11-2018/copper-rod-to-copper-sheet-discussion.md

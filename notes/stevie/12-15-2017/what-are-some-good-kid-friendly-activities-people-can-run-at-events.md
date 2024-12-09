@@ -1,5 +1,5 @@
 ---
-title: What are some good kid friendly activities people can run at events?
+title: 'What are some good kid friendly activities people can run at events?'
 tagnames: events, barnraising, answered, question:general, barnraising-host, question:hosting-materials, family-friendly, kidcom, question:facilitation
 author: stevie
 path: /notes/stevie/12-15-2017/what-are-some-good-kid-friendly-activities-people-can-run-at-events.md

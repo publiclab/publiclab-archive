@@ -1,5 +1,5 @@
 ---
-title: Materials Used and Instructable for Blue Light Sensor
+title: 'Materials Used and Instructable for Blue Light Sensor'
 tagnames: open-source, sensors, opensource, light, sensor, arduino-uno, wavelength, bluelight, wearables, photocell, lux, wearable
 author: filimon_k
 path: /notes/filimon_k/12-14-2015/materials-used-and-instructable-for-blue-light-sensor.md

@@ -1,5 +1,5 @@
 ---
-title: Ideas on opening "open hardware"
+title: 'Ideas on opening "open hardware"'
 tagnames: with:warren, with:donblair
 author: liz
 path: /notes/liz/09-28-2015/ideas-on-opening-open-hardware.md

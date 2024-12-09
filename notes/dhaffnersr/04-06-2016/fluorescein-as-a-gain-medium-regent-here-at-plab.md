@@ -1,5 +1,5 @@
 ---
-title: Fluorescein as a gain medium regent here at Plab
+title: 'Fluorescein as a gain medium regent here at Plab'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/04-06-2016/fluorescein-as-a-gain-medium-regent-here-at-plab.md

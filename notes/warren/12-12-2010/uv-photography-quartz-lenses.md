@@ -1,5 +1,5 @@
 ---
-title: UV photography & quartz lenses
+title: 'UV photography & quartz lenses'
 tagnames: 
 author: warren
 path: /notes/warren/12-12-2010/uv-photography-quartz-lenses.md

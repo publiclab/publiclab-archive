@@ -1,5 +1,5 @@
 ---
-title: Ambient/Light Bulb Testing
+title: 'Ambient/Light Bulb Testing'
 tagnames: spectrometer, spectrometry, question:spectrometry, exposure-calibration
 author: idev247
 path: /notes/idev247/12-06-2016/ambient-light-bulb-testing.md

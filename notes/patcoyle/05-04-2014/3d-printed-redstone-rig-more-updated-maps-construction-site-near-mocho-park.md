@@ -1,5 +1,5 @@
 ---
-title: 3D printed Redstone rig  - more updated maps construction site near Mocho Park
+title: '3D printed Redstone rig  - more updated maps construction site near Mocho Park'
 tagnames: 
 author: patcoyle
 path: /notes/patcoyle/05-04-2014/3d-printed-redstone-rig-more-updated-maps-construction-site-near-mocho-park.md

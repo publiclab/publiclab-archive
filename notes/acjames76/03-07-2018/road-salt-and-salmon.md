@@ -1,5 +1,5 @@
 ---
-title: Road Salt and Salmon
+title: 'Road Salt and Salmon'
 tagnames: science, water-quality, conductivity, salt, citizen, road, salmon
 author: acjames76
 path: /notes/acjames76/03-07-2018/road-salt-and-salmon.md

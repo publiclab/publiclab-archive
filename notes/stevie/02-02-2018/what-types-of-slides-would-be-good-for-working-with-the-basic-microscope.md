@@ -1,5 +1,5 @@
 ---
-title: What types of slides would be good for working with the basic microscope? 
+title: 'What types of slides would be good for working with the basic microscope? '
 tagnames: answered, question:basic-microscope, basic-microscope, question:community-microscope
 author: stevie
 path: /notes/stevie/02-02-2018/what-types-of-slides-would-be-good-for-working-with-the-basic-microscope.md

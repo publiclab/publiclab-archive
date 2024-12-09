@@ -1,5 +1,5 @@
 ---
-title: What actions can residents take to use environmental data to make an impact in their community? 
+title: 'What actions can residents take to use environmental data to make an impact in their community? '
 tagnames: community, science, data, stormwater, citizen, advocacy, question:general, general, question:advocacy, government, policy, first-time-poster, action, volunteers
 author: jessicac
 path: /notes/jessicac/12-06-2019/what-actions-can-residents-take-to-use-environmental-data-to-make-an-impact-in-their-community.md

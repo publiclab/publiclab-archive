@@ -1,5 +1,5 @@
 ---
-title: Frac Sand Mining: The community fight 
+title: 'Frac Sand Mining: The community fight '
 tagnames: wisconsin, air-quality, blog, frac-sand, barnstar:basic, stories, fracsand, parent:frac-sand, story, with:pat, parent:the-sand-sentinel-program, reclamation
 author: stevie
 path: /notes/stevie/01-21-2016/frac-sand-mining-the-community-fight.md

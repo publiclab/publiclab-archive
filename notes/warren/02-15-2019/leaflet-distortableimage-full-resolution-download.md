@@ -1,5 +1,5 @@
 ---
-title: Leaflet.DistortableImage full resolution download
+title: 'Leaflet.DistortableImage full resolution download'
 tagnames: balloon-mapping, kite-mapping, mapknitter, aerial-photography, blog, leaflet, pole-mapping, code, exporting, leaflet-distortable-image, orthorectification, rubber-sheeting
 author: warren
 path: /notes/warren/02-15-2019/leaflet-distortableimage-full-resolution-download.md

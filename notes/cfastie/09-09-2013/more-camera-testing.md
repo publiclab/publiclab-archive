@@ -1,5 +1,5 @@
 ---
-title: More camera testing
+title: 'More camera testing'
 tagnames: near-infrared-camera, vermont, leaffest, infragram, infrablue, infragram-conversion, leaffest2013, response:9302
 author: cfastie
 path: /notes/cfastie/09-09-2013/more-camera-testing.md

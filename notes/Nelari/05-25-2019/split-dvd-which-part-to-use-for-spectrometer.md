@@ -1,5 +1,5 @@
 ---
-title: Split DVD – which part to use for spectrometer
+title: 'Split DVD – which part to use for spectrometer'
 tagnames: spectrometer, diffraction-grating, question:spectrometry, dvd, question:foldable-mini-spectrometer, question:foldable-spec, first-time-poster, faq-lego-spec
 author: Nelari
 path: /notes/Nelari/05-25-2019/split-dvd-which-part-to-use-for-spectrometer.md

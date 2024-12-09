@@ -1,5 +1,5 @@
 ---
-title: Possibilities to use the dvd in reflection in the spectrometer ?
+title: 'Possibilities to use the dvd in reflection in the spectrometer ?'
 tagnames: question:lego-spectrometer, question:question:lego-spectrometer, first-time-poster, response:19700
 author: vnourrit
 path: /notes/vnourrit/09-20-2019/possibilities-to-use-the-dvd-in-reflection-in-the-spectrometer.md

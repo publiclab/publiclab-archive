@@ -1,5 +1,5 @@
 ---
-title: Increase in Human Death space
+title: 'Increase in Human Death space'
 tagnames: cemetery, compost, issue-brief, community-atlas, urbandeath, lat:10.758918, lon:78.813218
 author: silentsairam
 path: /notes/silentsairam/05-20-2019/increase-in-human-death-space.md

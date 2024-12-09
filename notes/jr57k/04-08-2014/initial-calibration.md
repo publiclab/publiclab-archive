@@ -1,5 +1,5 @@
 ---
-title: Initial Calibration
+title: 'Initial Calibration'
 tagnames: 
 author: jr57k
 path: /notes/jr57k/04-08-2014/initial-calibration.md

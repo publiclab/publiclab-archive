@@ -1,5 +1,5 @@
 ---
-title: Action-Oriented Resources
+title: 'Action-Oriented Resources'
 tagnames: frac-sand, advocacy, parent:frac-sand, advocacy-pathways
 author: stevie
 path: /wiki/frac-sand-action-oriented-resources.md

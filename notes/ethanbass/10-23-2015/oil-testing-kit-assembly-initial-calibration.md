@@ -1,5 +1,5 @@
 ---
-title: Oil testing kit: Assembly + Initial Calibration
+title: 'Oil testing kit: Assembly + Initial Calibration'
 tagnames: spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-alpha, first-time-poster
 author: ethanbass
 path: /notes/ethanbass/10-23-2015/oil-testing-kit-assembly-initial-calibration.md

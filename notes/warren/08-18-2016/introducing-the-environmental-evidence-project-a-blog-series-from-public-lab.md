@@ -1,5 +1,5 @@
 ---
-title: Introducing the Environmental Evidence Project, a blog series from Public Lab
+title: 'Introducing the Environmental Evidence Project, a blog series from Public Lab'
 tagnames: evidence, blog, legal, with:gretchengehrke, evidence-project, proof, series:evidence-project, law-and-policy
 author: warren
 path: /notes/warren/08-18-2016/introducing-the-environmental-evidence-project-a-blog-series-from-public-lab.md

@@ -1,5 +1,5 @@
 ---
-title: My Reflection on Sensor Journalism 
+title: 'My Reflection on Sensor Journalism '
 tagnames: sensor-journalism
 author: jessica_colarossi
 path: /notes/jessica_colarossi/02-23-2015/my-reflection-on-sensor-journalism.md

@@ -1,5 +1,5 @@
 ---
-title: Environmental Justice and Substantive Policies
+title: 'Environmental Justice and Substantive Policies'
 tagnames: blog, environmentaljustice, ej, law-and-policy
 author: stevie
 path: /notes/stevie/03-21-2016/environmental-justice-and-substantive-policies.md

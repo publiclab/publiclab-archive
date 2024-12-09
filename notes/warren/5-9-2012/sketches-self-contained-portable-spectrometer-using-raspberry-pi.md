@@ -1,5 +1,5 @@
 ---
-title: Sketches for a self-contained portable spectrometer using a Raspberry Pi
+title: 'Sketches for a self-contained portable spectrometer using a Raspberry Pi'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/5-9-2012/sketches-self-contained-portable-spectrometer-using-raspberry-pi.md

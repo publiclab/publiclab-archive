@@ -1,5 +1,5 @@
 ---
-title: Local  Knowledge and Aerial Imagery
+title: 'Local  Knowledge and Aerial Imagery'
 tagnames: wisconsin, blog, frac-sand, parent:frac-sand, communityscienceforum, with:marlokeno
 author: mlamadrid
 path: /notes/mlamadrid/06-22-2016/local-knowledge-and-aerial-imagery.md

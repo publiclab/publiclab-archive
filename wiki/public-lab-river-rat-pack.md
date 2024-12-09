@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack
+title: 'Public Lab River Rat Pack'
 tagnames: flood, mississippi-river, urbanwaters, lat:38, publiclabriverratpack, project, location:blurred, lon:-90, map-knitter, fresh-water, public-access
 author: stevie
 path: /wiki/public-lab-river-rat-pack.md

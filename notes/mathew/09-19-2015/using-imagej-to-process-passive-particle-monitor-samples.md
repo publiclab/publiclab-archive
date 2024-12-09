@@ -1,5 +1,5 @@
 ---
-title: Using ImageJ to process passive particle monitor samples
+title: 'Using ImageJ to process passive particle monitor samples'
 tagnames: image-processing, air-quality, petcoke, particulates, silica, pm, particle-sensing, particle-monitoring, image-analysis, passive-particle-monitors, passive-pm
 author: mathew
 path: /notes/mathew/09-19-2015/using-imagej-to-process-passive-particle-monitor-samples.md

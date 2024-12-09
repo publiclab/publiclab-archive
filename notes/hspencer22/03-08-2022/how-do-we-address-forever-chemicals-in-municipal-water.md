@@ -1,5 +1,5 @@
 ---
-title: How do we address forever chemicals in municipal water?
+title: 'How do we address forever chemicals in municipal water?'
 tagnames: west-virginia, epa, water-quality, southeast, issue-brief, first-time-poster, zoom:6, lat:39.602853, lon:-80.93677, tetrachloroethylene
 author: hspencer22
 path: /notes/hspencer22/03-08-2022/how-do-we-address-forever-chemicals-in-municipal-water.md

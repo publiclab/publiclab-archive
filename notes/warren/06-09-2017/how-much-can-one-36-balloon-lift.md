@@ -1,5 +1,5 @@
 ---
-title: How much can one 36" balloon lift?
+title: 'How much can one 36" balloon lift?'
 tagnames: balloon-mapping, mini-balloon-kit, question:mini-balloon-kit
 author: warren
 path: /notes/warren/06-09-2017/how-much-can-one-36-balloon-lift.md

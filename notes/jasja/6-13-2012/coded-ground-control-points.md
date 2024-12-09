@@ -1,5 +1,5 @@
 ---
-title: Coded ground control points
+title: 'Coded ground control points'
 tagnames: balloon-mapping, kite-mapping, ground-control-points, registration, activity:aerial-photography, activity:ground-control-points, activity:aerial-mapping
 author: Jasja
 path: /notes/jasja/6-13-2012/coded-ground-control-points.md

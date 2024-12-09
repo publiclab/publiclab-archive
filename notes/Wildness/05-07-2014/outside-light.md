@@ -1,5 +1,5 @@
 ---
-title: Outside light
+title: 'Outside light'
 tagnames: 
 author: Wildness
 path: /notes/Wildness/05-07-2014/outside-light.md

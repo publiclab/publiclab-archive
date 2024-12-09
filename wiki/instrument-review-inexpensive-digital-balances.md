@@ -1,5 +1,5 @@
 ---
-title: Instrument Review: Inexpensive Digital Balances
+title: 'Instrument Review: Inexpensive Digital Balances'
 tagnames: 
 author: JSummers
 path: /wiki/instrument-review-inexpensive-digital-balances.md

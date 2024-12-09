@@ -1,5 +1,5 @@
 ---
-title: mapknitter exports are very small scale, unreadable
+title: 'mapknitter exports are very small scale, unreadable'
 tagnames: mapknitter
 author: pataxte
 path: /notes/pataxte/05-07-2020/mapknitter-exports-are-very-small-scale-unreadable.md

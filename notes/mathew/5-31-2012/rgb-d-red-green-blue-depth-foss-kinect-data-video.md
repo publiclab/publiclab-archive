@@ -1,5 +1,5 @@
 ---
-title: RGB +D (red, green, blue, depth) FOSS for Kinect data + video
+title: 'RGB +D (red, green, blue, depth) FOSS for Kinect data + video'
 tagnames: balloon-mapping, thermal-photography, kite-mapping, 3d, thermal-flashlight
 author: mathew
 path: /notes/mathew/5-31-2012/rgb-d-red-green-blue-depth-foss-kinect-data-video.md

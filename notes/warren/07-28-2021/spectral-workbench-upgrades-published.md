@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench upgrades published
+title: 'Spectral Workbench upgrades published'
 tagnames: spectrometer, spectrometry, software, spectral-workbench, gsoc, code, lat:41, lon:-71, zoom:6
 author: warren
 path: /notes/warren/07-28-2021/spectral-workbench-upgrades-published.md

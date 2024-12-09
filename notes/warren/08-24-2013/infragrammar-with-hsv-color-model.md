@@ -1,5 +1,5 @@
 ---
-title: Infragrammar with HSV color model
+title: 'Infragrammar with HSV color model'
 tagnames: near-infrared-camera, ndvi, infragram, processing, compositing, infragram-sandbox, infragrammar, colormap
 author: warren
 path: /notes/warren/08-24-2013/infragrammar-with-hsv-color-model.md

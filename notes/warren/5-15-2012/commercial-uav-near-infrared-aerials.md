@@ -1,5 +1,5 @@
 ---
-title: Commercial UAV near-infrared aerials
+title: 'Commercial UAV near-infrared aerials'
 tagnames: near-infrared-camera
 author: warren
 path: /notes/warren/5-15-2012/commercial-uav-near-infrared-aerials.md

@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Bob Development Workshop on Northeastern's Campus
+title: 'Thermal Fishing Bob Development Workshop on Northeastern's Campus'
 tagnames: boston, thermal-flashlight, event, northeastern-university, thermal-fishing-bob, conductivity, event:rsvp, date:06-02-2015, rsvp:kgrevera, rsvp:neilhendrick
 author: kgrevera
 path: /notes/kgrevera/05-26-2015/thermal-fishing-bob-development-workshop-on-northeastern-s-campus.md

@@ -1,5 +1,5 @@
 ---
-title: How to measure nutrient concetration in hydroponic system?
+title: 'How to measure nutrient concetration in hydroponic system?'
 tagnames: hydroponics, question:spectrometry, question:water-quality, question:hydroponics, fertilizer, question:runoff, nutrients, nutrient, uptake, question:fertilizer, first-time-poster, question:nitrogen
 author: Aleksi12358
 path: /notes/Aleksi12358/07-07-2018/how-to-measure-nutrient-concetration-in-hydroponic-system.md

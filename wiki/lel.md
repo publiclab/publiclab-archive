@@ -1,5 +1,5 @@
 ---
-title: LEL
+title: 'LEL'
 tagnames: redirect:leaflet-environmental-layers
 author: warren
 path: /wiki/lel.md

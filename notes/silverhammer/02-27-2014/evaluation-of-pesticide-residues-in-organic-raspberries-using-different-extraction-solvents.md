@@ -1,5 +1,5 @@
 ---
-title: Evaluation of Pesticide Residues in Organic Raspberries using Different Extraction Solvents
+title: 'Evaluation of Pesticide Residues in Organic Raspberries using Different Extraction Solvents'
 tagnames: spectrometer, agriculture, pesticides, extraction, reagents, raspberries, organic, response:10014, solvents
 author: silverhammer
 path: /notes/silverhammer/02-27-2014/evaluation-of-pesticide-residues-in-organic-raspberries-using-different-extraction-solvents.md

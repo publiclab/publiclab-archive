@@ -1,5 +1,5 @@
 ---
-title: How i was getting different captured images in presence or absence of sun light ?
+title: 'How i was getting different captured images in presence or absence of sun light ?'
 tagnames: near-infrared-camera, ndvi, infragram, infragram-point-shoot, mobius-action-cam, p, first-time-poster
 author: Parth
 path: /notes/Parth/01-05-2016/how-i-was-getting-different-captured-images-in-presence-or-absence-of-sun-light.md

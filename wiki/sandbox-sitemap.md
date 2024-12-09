@@ -1,5 +1,5 @@
 ---
-title: sandbox-sitemap
+title: 'sandbox-sitemap'
 tagnames: community, sitemap
 author: liz
 path: /wiki/sandbox-sitemap.md

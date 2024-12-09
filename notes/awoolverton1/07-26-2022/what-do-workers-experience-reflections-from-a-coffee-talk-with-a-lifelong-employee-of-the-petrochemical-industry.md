@@ -1,5 +1,5 @@
 ---
-title: What do Workers Experience? Reflections from a coffee-talk with a lifelong employee of the petrochemical industry. 
+title: 'What do Workers Experience? Reflections from a coffee-talk with a lifelong employee of the petrochemical industry. '
 tagnames: zoom:8, formosaplastics, lat:30.035811, lon:-90.782577, stjames, workers-rights
 author: awoolverton1
 path: /notes/awoolverton1/07-26-2022/what-do-workers-experience-reflections-from-a-coffee-talk-with-a-lifelong-employee-of-the-petrochemical-industry.md

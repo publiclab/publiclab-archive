@@ -1,5 +1,5 @@
 ---
-title: Mapping Curriculum: Ground Control Point Targets
+title: 'Mapping Curriculum: Ground Control Point Targets'
 tagnames: balloon-mapping, rectification, ground-control-points, parent:mapping-curriculum
 author: MicheleTobias
 path: /wiki/ground-control-point-targets.md

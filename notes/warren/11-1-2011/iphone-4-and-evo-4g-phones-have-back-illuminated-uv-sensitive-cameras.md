@@ -1,5 +1,5 @@
 ---
-title: iPhone 4 and Evo 4G phones have back-illuminated UV-sensitive cameras
+title: 'iPhone 4 and Evo 4G phones have back-illuminated UV-sensitive cameras'
 tagnames: 
 author: warren
 path: /notes/warren/11-1-2011/iphone-4-and-evo-4g-phones-have-back-illuminated-uv-sensitive-cameras.md

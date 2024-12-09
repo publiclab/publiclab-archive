@@ -1,5 +1,5 @@
 ---
-title: Question: Will the desk top spectrometer sense wear metals in motor oil?
+title: 'Question: Will the desk top spectrometer sense wear metals in motor oil?'
 tagnames: question:spectrometry
 author: upson
 path: /notes/upson/09-25-2014/question-will-the-desk-top-spectrometer-sense-wear-metals-in-motor-oil.md

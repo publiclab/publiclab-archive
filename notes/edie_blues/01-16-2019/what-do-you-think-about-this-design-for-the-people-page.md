@@ -1,5 +1,5 @@
 ---
-title: What do you think about this design for the /people page?
+title: 'What do you think about this design for the /people page?'
 tagnames: design, ui, ui-designs
 author: edie_blues
 path: /notes/edie_blues/01-16-2019/what-do-you-think-about-this-design-for-the-people-page.md

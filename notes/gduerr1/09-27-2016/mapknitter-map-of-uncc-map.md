@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of uncc map
+title: 'MapKnitter map of uncc map'
 tagnames: mapknitter, north-carolina, southeast, lat:35.3009546787, lon:-80.734577179, nc
 author: gduerr1
 path: /notes/gduerr1/09-27-2016/mapknitter-map-of-uncc-map.md

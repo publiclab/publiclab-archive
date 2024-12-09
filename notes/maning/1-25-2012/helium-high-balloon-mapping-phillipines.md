@@ -1,5 +1,5 @@
 ---
-title: Helium high: balloon mapping in the Philippines
+title: 'Helium high: balloon mapping in the Philippines'
 tagnames: 
 author: maning
 path: /notes/maning/1-25-2012/helium-high-balloon-mapping-phillipines.md

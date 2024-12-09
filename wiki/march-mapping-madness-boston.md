@@ -1,5 +1,5 @@
 ---
-title: March Mapping Madness-Boston
+title: 'March Mapping Madness-Boston'
 tagnames: balloon-mapping, somerville-massachusetts
 author: sara
 path: /wiki/march-mapping-madness-boston.md

@@ -1,5 +1,5 @@
 ---
-title: An overview of the PublicLab.org website
+title: 'An overview of the PublicLab.org website'
 tagnames: video, website
 author: warren
 path: /notes/warren/09-09-2013/an-overview-of-the-publiclab-org-website.md

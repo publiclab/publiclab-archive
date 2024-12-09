@@ -1,5 +1,5 @@
 ---
-title: Initial results: PL Mobius Infragram Point and Shoot on Parrot AR.Drone 2.0 
+title: 'Initial results: PL Mobius Infragram Point and Shoot on Parrot AR.Drone 2.0 '
 tagnames: ndvi, infragram, fiji, uav-mapping, gimp, super-red, photomonitoring
 author: patcoyle
 path: /notes/patcoyle/11-27-2014/initial-results-pl-mobius-infragram-point-and-shoot-on-parrot-ar-drone-2-0.md

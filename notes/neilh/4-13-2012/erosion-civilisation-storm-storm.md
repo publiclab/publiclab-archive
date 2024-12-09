@@ -1,5 +1,5 @@
 ---
-title: Erosion of civilisation, storm by storm
+title: 'Erosion of civilisation, storm by storm'
 tagnames: california, water-quality, erosion
 author: neilh
 path: /notes/neilh/4-13-2012/erosion-civilisation-storm-storm.md

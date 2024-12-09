@@ -1,5 +1,5 @@
 ---
-title: An accessible browser-based decoder for NOAA images
+title: 'An accessible browser-based decoder for NOAA images'
 tagnames: seeks:replications, open-weather, activity:open-weather
 author: sashae
 path: /notes/sashae/05-03-2022/an-accessible-browser-based-decoder-for-noaa-images.md

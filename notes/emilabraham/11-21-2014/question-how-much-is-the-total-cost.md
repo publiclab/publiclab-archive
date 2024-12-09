@@ -1,5 +1,5 @@
 ---
-title: Question: How much is the total cost?
+title: 'Question: How much is the total cost?'
 tagnames: question:dustduino
 author: emilabraham
 path: /notes/emilabraham/11-21-2014/question-how-much-is-the-total-cost.md

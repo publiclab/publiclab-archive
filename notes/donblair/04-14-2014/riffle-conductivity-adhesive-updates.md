@@ -1,5 +1,5 @@
 ---
-title: RIFFLE: Conductivity + Adhesive updates
+title: 'RIFFLE: Conductivity + Adhesive updates'
 tagnames: water, quality
 author: donblair
 path: /notes/donblair/04-14-2014/riffle-conductivity-adhesive-updates.md

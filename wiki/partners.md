@@ -1,5 +1,5 @@
 ---
-title: Public Lab friends, partners and collaborators
+title: 'Public Lab friends, partners and collaborators'
 tagnames: community, partnerships, citizenscience
 author: Shannon
 path: /wiki/partners.md

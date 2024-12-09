@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench web video
+title: 'Spectral Workbench web video'
 tagnames: spectralworkbench
 author: warren
 path: /wiki/spectral-workbench-web-video.md

@@ -1,5 +1,5 @@
 ---
-title: Illustrated guide to spectrometer construction
+title: 'Illustrated guide to spectrometer construction'
 tagnames: spectrometer, guides, guide
 author: warren
 path: /notes/warren/8-6-2012/illustrated-guide-spectrometer-construction.md

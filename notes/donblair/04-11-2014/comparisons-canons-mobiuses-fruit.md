@@ -1,5 +1,5 @@
 ---
-title: Comparisons: Canons, Mobiuses, 'fruit
+title: 'Comparisons: Canons, Mobiuses, 'fruit'
 tagnames: 
 author: donblair
 path: /notes/donblair/04-11-2014/comparisons-canons-mobiuses-fruit.md

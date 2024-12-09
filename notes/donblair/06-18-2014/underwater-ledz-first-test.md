@@ -1,5 +1,5 @@
 ---
-title: "Underwater LEDz" -- first test
+title: '"Underwater LEDz" -- first test'
 tagnames: riffle, riffle-examples
 author: donblair
 path: /notes/donblair/06-18-2014/underwater-ledz-first-test.md

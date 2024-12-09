@@ -1,5 +1,5 @@
 ---
-title: Brendan & Claire's Water Samples -- Emerson Data Viz  
+title: 'Brendan & Claire's Water Samples -- Emerson Data Viz  '
 tagnames: boston, water-quality, northeast, first-time-poster
 author: cnobles
 path: /notes/cnobles/09-29-2014/brendan-claire-s-water-samples-emerson-data-viz.md

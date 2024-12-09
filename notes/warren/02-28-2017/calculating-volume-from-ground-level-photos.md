@@ -1,5 +1,5 @@
 ---
-title: Calculating volume from ground level photos?
+title: 'Calculating volume from ground level photos?'
 tagnames: sfm, timelapse, volume, answered, sand-mining, question:sfm
 author: warren
 path: /notes/warren/02-28-2017/calculating-volume-from-ground-level-photos.md

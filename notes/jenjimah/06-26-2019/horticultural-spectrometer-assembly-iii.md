@@ -1,5 +1,5 @@
 ---
-title: Horticultural Spectrometer - Assembly III
+title: 'Horticultural Spectrometer - Assembly III'
 tagnames: spectrometer, raspberry-pi, barnstar:basic, lego-spectrometer
 author: jenjimah
 path: /notes/jenjimah/06-26-2019/horticultural-spectrometer-assembly-iii.md

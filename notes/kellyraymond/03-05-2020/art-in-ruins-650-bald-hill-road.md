@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (650 Bald Hill Road)
+title: 'Art in Ruins (650 Bald Hill Road)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.72008, lon:-71.48117, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-650-bald-hill-road.md

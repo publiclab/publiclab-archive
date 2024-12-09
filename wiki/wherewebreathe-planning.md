@@ -1,5 +1,5 @@
 ---
-title: WhereWeBreathe Planning
+title: 'WhereWeBreathe Planning'
 tagnames: wherewebreathe, parent:wherewebreathe
 author: warren
 path: /wiki/wherewebreathe-planning.md

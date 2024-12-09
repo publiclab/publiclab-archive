@@ -1,5 +1,5 @@
 ---
-title: Barnraising 2015 Photos Bronwen
+title: 'Barnraising 2015 Photos Bronwen'
 tagnames: barnraising, photos, barnraising-2015
 author: Bronwen
 path: /notes/bronwen/11-21-2015/barnraising-2015-photos-bronwen.md

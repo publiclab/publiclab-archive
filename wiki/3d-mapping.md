@@ -1,5 +1,5 @@
 ---
-title: 3d-mapping
+title: '3d-mapping'
 tagnames: balloon-mapping, kite-mapping, 3d
 author: warren
 path: /wiki/3d-mapping.md

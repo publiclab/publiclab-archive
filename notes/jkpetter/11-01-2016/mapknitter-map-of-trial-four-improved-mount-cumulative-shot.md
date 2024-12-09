@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Trial Four: Improved Mount Cumulative Shot
+title: 'MapKnitter map of Trial Four: Improved Mount Cumulative Shot'
 tagnames: mapknitter, lat:35.989525575, lon:-78.9067362249
 author: jkpetter
 path: /notes/jkpetter/11-01-2016/mapknitter-map-of-trial-four-improved-mount-cumulative-shot.md

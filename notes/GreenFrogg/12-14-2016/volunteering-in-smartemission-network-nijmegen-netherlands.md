@@ -1,5 +1,5 @@
 ---
-title: Volunteering in Smartemission network Nijmegen Netherlands
+title: 'Volunteering in Smartemission network Nijmegen Netherlands'
 tagnames: blog-submission, first-time-poster
 author: GreenFrogg
 path: /notes/GreenFrogg/12-14-2016/volunteering-in-smartemission-network-nijmegen-netherlands.md

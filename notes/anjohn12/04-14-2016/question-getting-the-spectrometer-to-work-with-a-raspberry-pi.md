@@ -1,5 +1,5 @@
 ---
-title: Getting the spectrometer to work with a Raspberry Pi?
+title: 'Getting the spectrometer to work with a Raspberry Pi?'
 tagnames: spectrometer, raspberry-pi, question:spectrometry, question:spectral-workbench, answered, pi-camera, question:pi-camera, question:spectrometry-challenge, raspberry-pi-spectrometer, question:raspberry-pi-spectrometer, question:lego-spectrometer
 author: anjohn12
 path: /notes/anjohn12/04-14-2016/question-getting-the-spectrometer-to-work-with-a-raspberry-pi.md

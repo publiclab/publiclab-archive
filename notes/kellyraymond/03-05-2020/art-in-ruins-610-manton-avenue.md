@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (610 Manton Avenue)
+title: 'Art in Ruins (610 Manton Avenue)'
 tagnames: hidden:response, lat:41.7, zoom:9, lon:-71.5, zoom:10, lat:41.826595, lon:-71.460571, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-610-manton-avenue.md

@@ -1,5 +1,5 @@
 ---
-title: Tidmarsh Farms mapping meetup: success!
+title: 'Tidmarsh Farms mapping meetup: success!'
 tagnames: near-infrared-camera, kite-mapping, infrared, meetup, tidmarsh
 author: warren
 path: /notes/warren/11-18-2012/tidmarsh-farms-mapping-meetup-success.md

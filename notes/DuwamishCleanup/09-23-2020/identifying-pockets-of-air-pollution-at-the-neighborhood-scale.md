@@ -1,5 +1,5 @@
 ---
-title: Identifying Pockets of Air Pollution at the Neighborhood Scale
+title: 'Identifying Pockets of Air Pollution at the Neighborhood Scale'
 tagnames: heavy-metals, air-quality, air-monitoring, issue-brief, air-pollution, first-time-poster, zoom:7, community-participatory-science, metal-analysis, lat:47.540505, lon:-122.304543, bioindicators
 author: DuwamishCleanup
 path: /notes/DuwamishCleanup/09-23-2020/identifying-pockets-of-air-pollution-at-the-neighborhood-scale.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab at Science for Action 
+title: 'Public Lab at Science for Action '
 tagnames: gulf-coast, kite-mapping, conferences, louisiana, barnraising, barnraising2014, response:11376
 author: cfastie
 path: /notes/cfastie/01-03-2015/public-lab-at-science-for-action.md

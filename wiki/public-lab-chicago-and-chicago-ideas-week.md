@@ -1,5 +1,5 @@
 ---
-title: Public Lab Chicago and Chicago Ideas Week
+title: 'Public Lab Chicago and Chicago Ideas Week'
 tagnames: event, chicago, civiclab
 author: bsugar
 path: /wiki/public-lab-chicago-and-chicago-ideas-week.md

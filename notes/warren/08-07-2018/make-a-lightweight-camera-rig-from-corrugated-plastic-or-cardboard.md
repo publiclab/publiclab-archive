@@ -1,5 +1,5 @@
 ---
-title: Make a lightweight camera rig from corrugated plastic or cardboard
+title: 'Make a lightweight camera rig from corrugated plastic or cardboard'
 tagnames: balloon-mapping, kite-mapping, photo-rig, gopro, camera-rig, mobius, seeks:replications, activity:camera-rigs, activity:photo-rig, activity:camera-rig, activity:mobius, location:blurred, lat:41.8, lon:-71.4, place:ri-02905-united-states
 author: warren
 path: /notes/warren/08-07-2018/make-a-lightweight-camera-rig-from-corrugated-plastic-or-cardboard.md

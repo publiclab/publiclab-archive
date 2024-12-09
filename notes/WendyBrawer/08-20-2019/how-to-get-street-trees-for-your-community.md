@@ -1,5 +1,5 @@
 ---
-title: How to Get Street Trees for your Community
+title: 'How to Get Street Trees for your Community'
 tagnames: new-york-city, organizing, trees, habitat, stormwater, climate-change, land-use, advocacy, draft, lon:-73, activity:new, lat:40, first-time-poster, cities, zoom:6, street-trees
 author: WendyBrawer
 path: /notes/WendyBrawer/08-20-2019/how-to-get-street-trees-for-your-community.md

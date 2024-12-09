@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: 'Frequently Asked Questions'
 tagnames: community, welcome, needs-revision
 author: Shannon
 path: /wiki/frequently-asked-questions.md

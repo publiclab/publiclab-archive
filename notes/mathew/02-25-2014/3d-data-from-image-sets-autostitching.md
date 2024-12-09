@@ -1,5 +1,5 @@
 ---
-title: 3D data from image sets & Autostitching
+title: '3D data from image sets & Autostitching'
 tagnames: 3d, mapknitter, sfm, structure-from-motion
 author: mathew
 path: /notes/mathew/02-25-2014/3d-data-from-image-sets-autostitching.md

@@ -1,5 +1,5 @@
 ---
-title: WheeTrometer Optics and Wavelength Calibration
+title: 'WheeTrometer Optics and Wavelength Calibration'
 tagnames: spectrometer, wheetrometer, spectrophotometry
 author: JSummers
 path: /notes/JSummers/07-18-2019/wheetrometer-optics-and-wavelength-calibration.md

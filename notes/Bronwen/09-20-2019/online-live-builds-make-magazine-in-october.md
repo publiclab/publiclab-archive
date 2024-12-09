@@ -1,5 +1,5 @@
 ---
-title: Online Live Builds- Make Magazine in October
+title: 'Online Live Builds- Make Magazine in October'
 tagnames: education, events, workshops, coqui, open-hour, communitymicroscope, babylegs, simple-air-sensor, activity:make, sas
 author: Bronwen
 path: /notes/Bronwen/09-20-2019/online-live-builds-make-magazine-in-october.md

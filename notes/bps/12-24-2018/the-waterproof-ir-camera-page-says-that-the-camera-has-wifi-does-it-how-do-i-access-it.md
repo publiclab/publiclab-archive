@@ -1,5 +1,5 @@
 ---
-title: The waterproof IR camera page says that the camera has WiFi. Does it? How do I access it?
+title: 'The waterproof IR camera page says that the camera has WiFi. Does it? How do I access it?'
 tagnames: question:general, first-time-poster
 author: bps
 path: /notes/bps/12-24-2018/the-waterproof-ir-camera-page-says-that-the-camera-has-wifi-does-it-how-do-i-access-it.md

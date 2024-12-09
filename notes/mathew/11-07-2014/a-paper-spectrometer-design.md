@@ -1,5 +1,5 @@
 ---
-title: a paper spectrometer design
+title: 'a paper spectrometer design'
 tagnames: spectrometer, desktop-spectrometer, fold-up, dsk, oil-testing-kit, barnstar:photo-documentation, paper
 author: mathew
 path: /notes/mathew/11-07-2014/a-paper-spectrometer-design.md

@@ -1,5 +1,5 @@
 ---
-title: How to do the white-balancing for the RED filter?
+title: 'How to do the white-balancing for the RED filter?'
 tagnames: ndvi, infragram, rosco, canon, question:infragram, filters, first-time-poster, question:filters
 author: xmv79667
 path: /notes/xmv79667/01-03-2020/how-to-do-the-white-balancing-for-the-red-filter.md

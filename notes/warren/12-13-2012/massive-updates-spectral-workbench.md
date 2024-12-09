@@ -1,5 +1,5 @@
 ---
-title: Massive updates to Spectral Workbench
+title: 'Massive updates to Spectral Workbench'
 tagnames: spectrometer, spectralworkbench, kickstarter
 author: warren
 path: /notes/warren/12-13-2012/massive-updates-spectral-workbench.md

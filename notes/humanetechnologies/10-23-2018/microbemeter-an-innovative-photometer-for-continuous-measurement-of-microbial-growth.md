@@ -1,5 +1,5 @@
 ---
-title: MicrobeMeter - an innovative photometer for continuous measurement of microbial growth
+title: 'MicrobeMeter - an innovative photometer for continuous measurement of microbial growth'
 tagnames: spectrometer, microbes, sensors, turbidity, optical-sensor, biology, photometer, hardware, optical-spectroscopy, response:6649, response:15672, optical-density
 author: humanetechnologies
 path: /notes/humanetechnologies/10-23-2018/microbemeter-an-innovative-photometer-for-continuous-measurement-of-microbial-growth.md

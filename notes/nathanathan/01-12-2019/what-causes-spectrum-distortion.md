@@ -1,5 +1,5 @@
 ---
-title: What causes spectrum distortion?
+title: 'What causes spectrum distortion?'
 tagnames: spectrometer, distortion, hyperspectral, question:spectrometry
 author: nathanathan
 path: /notes/nathanathan/01-12-2019/what-causes-spectrum-distortion.md

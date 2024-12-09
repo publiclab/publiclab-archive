@@ -1,5 +1,5 @@
 ---
-title: Fluorescence of tabasco sauce
+title: 'Fluorescence of tabasco sauce'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/01-23-2016/fluorescence-of-tabasco-sauce.md

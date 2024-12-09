@@ -1,5 +1,5 @@
 ---
-title: Logging Complex Odors
+title: 'Logging Complex Odors'
 tagnames: landfill, air-quality, blog, barnstar:empiricism, odor, odor-mapping, VVAMP, ambient-air
 author: sarasage
 path: /notes/sarasage/10-29-2021/logging-complex-odors.md

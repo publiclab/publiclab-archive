@@ -1,5 +1,5 @@
 ---
-title: Regist.ro
+title: 'Regist.ro'
 tagnames: lang:es, odor, ballon-mapping, spanish, herramientas
 author: imvec
 path: /notes/imvec/12-04-2020/regist-ro.md

@@ -1,5 +1,5 @@
 ---
-title: Camera mismatch in Desktop Spectrometry Kit
+title: 'Camera mismatch in Desktop Spectrometry Kit'
 tagnames: troubleshooting
 author: edgeguy
 path: /notes/edgeguy/01-13-2014/edgeguy-aol-com.md

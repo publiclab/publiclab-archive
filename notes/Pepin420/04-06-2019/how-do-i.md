@@ -1,5 +1,5 @@
 ---
-title: How do I...
+title: 'How do I...'
 tagnames: question:spectral-workbench-calibration, first-time-poster, spectral-workbench-calibration
 author: Pepin420
 path: /notes/Pepin420/04-06-2019/how-do-i.md

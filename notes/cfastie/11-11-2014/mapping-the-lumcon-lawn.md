@@ -1,5 +1,5 @@
 ---
-title: Mapping the LUMCON lawn
+title: 'Mapping the LUMCON lawn'
 tagnames: near-infrared-camera, kite-mapping, image-stitching, louisiana, photoshop, cocodrie, barnraising, lumcon, aligning, gigapan, barnraising2014, response:4906
 author: cfastie
 path: /notes/cfastie/11-11-2014/mapping-the-lumcon-lawn.md

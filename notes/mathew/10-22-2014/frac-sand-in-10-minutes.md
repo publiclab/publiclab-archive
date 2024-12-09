@@ -1,5 +1,5 @@
 ---
-title: Frac Sand in 10 minutes
+title: 'Frac Sand in 10 minutes'
 tagnames: air-quality, air, monitoring, dust, silica, quality, frac-sand, particle-monitoring, barnstar:watchdog, mid-west, particle, fracsand, parent:frac-sand
 author: mathew
 path: /notes/mathew/10-22-2014/frac-sand-in-10-minutes.md

@@ -1,5 +1,5 @@
 ---
-title: My upcoming transition
+title: 'My upcoming transition'
 tagnames: news, staff
 author: warren
 path: /notes/warren/12-09-2019/my-upcoming-transition.md

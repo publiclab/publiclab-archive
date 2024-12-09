@@ -1,5 +1,5 @@
 ---
-title: Infragrams over NYC: River Garden
+title: 'Infragrams over NYC: River Garden'
 tagnames: new-york-city, 5bf, five-borough-farm, pole-photography, pole
 author: liz
 path: /notes/liz/07-02-2013/infragrams-over-nyc-river-garden.md

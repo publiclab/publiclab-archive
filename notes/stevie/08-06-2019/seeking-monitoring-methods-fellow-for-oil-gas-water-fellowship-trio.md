@@ -1,5 +1,5 @@
 ---
-title: Seeking Monitoring Methods Fellow for Oil & Gas Water Fellowship Trio
+title: 'Seeking Monitoring Methods Fellow for Oil & Gas Water Fellowship Trio'
 tagnames: organizers, water-quality, water, jobs, fellows, fellowship, oil-and-gas-water-trio
 author: stevie
 path: /notes/stevie/08-06-2019/seeking-monitoring-methods-fellow-for-oil-gas-water-fellowship-trio.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Hog Bayou, Mobile County
+title: 'MapKnitter map of Hog Bayou, Mobile County'
 tagnames: gulf-coast, kite-mapping, mapknitter, mapping-meet-up, kite, mobile, balloon, nas, mejac, africatown, blueway, africatown-blueway, lat:30.7540069488, lon:-88.048210144, with:gilbert
 author: stevie
 path: /notes/stevie/10-21-2017/mapknitter-map-of-hog-bayou-mobile-county.md

@@ -1,5 +1,5 @@
 ---
-title: Modifying Expectations: A Progress Report
+title: 'Modifying Expectations: A Progress Report'
 tagnames: blog-submission, outreachy
 author: christie_reni
 path: /notes/christie_reni/01-20-2020/modifying-expectations-a-progress-report.md

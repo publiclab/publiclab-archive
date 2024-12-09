@@ -1,5 +1,5 @@
 ---
-title: can anyone help me with my ndvi ( image processing ) ?
+title: 'can anyone help me with my ndvi ( image processing ) ?'
 tagnames: question:generalndvi
 author: ayu_puri
 path: /notes/ayu_puri/11-20-2016/can-anyone-help-me-with-my-ndvi-image-processing.md

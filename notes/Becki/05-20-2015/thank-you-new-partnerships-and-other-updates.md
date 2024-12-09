@@ -1,5 +1,5 @@
 ---
-title: THANK YOU, new partnerships, and other updates
+title: 'THANK YOU, new partnerships, and other updates'
 tagnames: 
 author: Becki
 path: /notes/Becki/05-20-2015/thank-you-new-partnerships-and-other-updates.md

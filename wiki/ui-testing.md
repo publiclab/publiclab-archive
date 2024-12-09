@@ -1,5 +1,5 @@
 ---
-title: UI Testing
+title: 'UI Testing'
 tagnames: style:minimal, ui, sidebar:none, ui-testing, lookback
 author: warren
 path: /wiki/ui-testing.md

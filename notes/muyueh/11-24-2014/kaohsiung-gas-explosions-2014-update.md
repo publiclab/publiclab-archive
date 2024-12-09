@@ -1,5 +1,5 @@
 ---
-title: Kaohsiung Gas Explosions 2014 (update)
+title: 'Kaohsiung Gas Explosions 2014 (update)'
 tagnames: mapknitter, uav, aerial-photography, watchdog, quadcopter, asia, barnstar:watchdog, gas, explosion, kaohsiung, taiwan, industry, oil-and-gas
 author: muyueh
 path: /notes/muyueh/11-24-2014/kaohsiung-gas-explosions-2014-update.md

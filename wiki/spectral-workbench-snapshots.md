@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench Snapshots
+title: 'Spectral Workbench Snapshots'
 tagnames: software, spectral-workbench, parent:spectral-workbench, data-management, versioning, 151
 author: warren
 path: /wiki/spectral-workbench-snapshots.md

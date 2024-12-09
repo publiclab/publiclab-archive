@@ -1,5 +1,5 @@
 ---
-title: Different approaches......
+title: 'Different approaches......'
 tagnames: ndvi, drone, mobius, uas, luts
 author: RQ-05
 path: /notes/RQ-05/07-11-2015/different-approaches.md

@@ -1,5 +1,5 @@
 ---
-title: What are ways to monitor for oil and gas spills on private property? 
+title: 'What are ways to monitor for oil and gas spills on private property? '
 tagnames: air-quality, water-quality, question:air-quality, question:water-quality, question:general, general, oil-and-gas, question:oil-and-gas
 author: stevie
 path: /notes/stevie/05-29-2020/what-are-ways-to-monitor-for-oil-and-gas-spills-on-private-property.md

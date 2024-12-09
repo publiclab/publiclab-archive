@@ -1,5 +1,5 @@
 ---
-title: How do we do user interface design work in a community process?
+title: 'How do we do user interface design work in a community process?'
 tagnames: design, evaluation, answered, autodesk, ux, ui, user-interface, question:ui, question:design, pro-bono, autodesk-pro-bono, user-experience, with:caufenkamp, with:tommystyles, with:julvie
 author: warren
 path: /notes/warren/01-22-2018/how-do-we-do-user-interface-design-work-in-a-community-process.md

@@ -1,5 +1,5 @@
 ---
-title: Documentation on Sensor Pipe prototypes for use with DustTrak
+title: 'Documentation on Sensor Pipe prototypes for use with DustTrak'
 tagnames: open-pipe-kit, sensor-pipe
 author: rjstatic
 path: /wiki/documentation-on-sensor-pipe-prototypes-for-use-with-dusttrak.md

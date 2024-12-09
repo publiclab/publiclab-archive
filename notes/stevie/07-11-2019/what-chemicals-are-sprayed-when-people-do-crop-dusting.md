@@ -1,5 +1,5 @@
 ---
-title: What chemicals are sprayed when people do crop dusting? 
+title: 'What chemicals are sprayed when people do crop dusting? '
 tagnames: question:general, question:agriculture, question:pesticides, question:crop-dusting, question:farming
 author: stevie
 path: /notes/stevie/07-11-2019/what-chemicals-are-sprayed-when-people-do-crop-dusting.md

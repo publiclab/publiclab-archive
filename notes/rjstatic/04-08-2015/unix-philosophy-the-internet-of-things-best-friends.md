@@ -1,5 +1,5 @@
 ---
-title: Unix Philosophy + The Internet of Things = Best Friends ?
+title: 'Unix Philosophy + The Internet of Things = Best Friends ?'
 tagnames: open-pipe-kit
 author: rjstatic
 path: /04-08-2015/unix-philosophy-the-internet-of-things-best-friends.md

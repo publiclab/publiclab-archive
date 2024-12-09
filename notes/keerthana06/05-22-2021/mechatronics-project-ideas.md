@@ -1,5 +1,5 @@
 ---
-title: mechatronics project ideas
+title: 'mechatronics project ideas'
 tagnames: issue-brief
 author: keerthana06
 path: /notes/keerthana06/05-22-2021/mechatronics-project-ideas.md

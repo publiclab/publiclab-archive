@@ -1,5 +1,5 @@
 ---
-title: Bug? My Spectrum loads then vanishes.
+title: 'Bug? My Spectrum loads then vanishes.'
 tagnames: question:spectral-workbench, answered
 author: SarahC
 path: /notes/SarahC/06-03-2018/bug-my-spectrum-loads-then-vanishes.md

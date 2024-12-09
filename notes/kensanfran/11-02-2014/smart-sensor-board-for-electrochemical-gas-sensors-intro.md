@@ -1,5 +1,5 @@
 ---
-title: Smart sensor board for electrochemical gas sensors (intro)
+title: 'Smart sensor board for electrochemical gas sensors (intro)'
 tagnames: air-quality, air, monitoring, barnstar:empiricism, gas, sensor, electrochemical, nerds-for-nature, gas-sensor, electrochemical-sensor, echem328, data-logging, air-sensors, kentucky, first-time-poster
 author: kensanfran
 path: /notes/kensanfran/11-02-2014/smart-sensor-board-for-electrochemical-gas-sensors-intro.md

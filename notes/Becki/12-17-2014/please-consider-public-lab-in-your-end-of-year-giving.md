@@ -1,5 +1,5 @@
 ---
-title: Please consider Public Lab in your end of year giving!
+title: 'Please consider Public Lab in your end of year giving!'
 tagnames: 
 author: Becki
 path: /notes/Becki/12-17-2014/please-consider-public-lab-in-your-end-of-year-giving.md

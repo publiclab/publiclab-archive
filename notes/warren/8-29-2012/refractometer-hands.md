@@ -1,5 +1,5 @@
 ---
-title: Refractometer: hands on
+title: 'Refractometer: hands on'
 tagnames: refractometer, brix
 author: warren
 path: /notes/warren/8-29-2012/refractometer-hands.md

@@ -1,5 +1,5 @@
 ---
-title: Limited "Steampunk edition" spectrometer - photos
+title: 'Limited "Steampunk edition" spectrometer - photos'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/9-18-2012/limited-steampunk-edition-spectrometer-photos.md

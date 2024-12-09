@@ -1,5 +1,5 @@
 ---
-title: Signature Development for Cartoscope 2022 Project: Wells and Vegetation
+title: 'Signature Development for Cartoscope 2022 Project: Wells and Vegetation'
 tagnames: wetlands, louisiana, aerial-photography, classification, oil-accountability, zoom:10, hilcorp, lat:29.578234, lon:-90.05629
 author: eustatic
 path: /03-11-2022/signature-development-for-cartoscope-2022-project-wells-and-vegetation.md

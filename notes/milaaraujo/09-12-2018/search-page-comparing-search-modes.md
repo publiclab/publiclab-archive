@@ -1,5 +1,5 @@
 ---
-title: Search page: Comparing search modes
+title: 'Search page: Comparing search modes'
 tagnames: search, answered, question:general, lat:1.010689, lon:9.997558
 author: milaaraujo
 path: /notes/milaaraujo/09-12-2018/search-page-comparing-search-modes.md

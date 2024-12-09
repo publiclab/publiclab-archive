@@ -1,5 +1,5 @@
 ---
-title: Exploring The Space Unseen: Historic Resources For Guiding Future Story Telling
+title: 'Exploring The Space Unseen: Historic Resources For Guiding Future Story Telling'
 tagnames: farm, plume, mapping, barnraising, massachusetts, plymouth, tidmarsh, plant, maps, nuclear, thermal-fishing-bob, thermal, northeast, stream, ma, 2014, pilgrim, old, storytelling
 author: eymund
 path: /notes/eymund/06-10-2014/exploring-the-space-unseen-historic-resources-for-guiding-future-story-telling.md

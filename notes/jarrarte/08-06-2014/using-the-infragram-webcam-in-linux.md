@@ -1,5 +1,5 @@
 ---
-title: Using the infragram webcam in Linux
+title: 'Using the infragram webcam in Linux'
 tagnames: webcam, infragram, linux, v4l2, uvc, first-time-poster
 author: jarrarte
 path: /notes/jarrarte/08-06-2014/using-the-infragram-webcam-in-linux.md

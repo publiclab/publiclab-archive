@@ -1,5 +1,5 @@
 ---
-title: Question: total beginner problems
+title: 'Question: total beginner problems'
 tagnames: question:spectral-workbench, answered, first-time-poster
 author: viechdokter
 path: /notes/viechdokter/03-24-2016/question-total-beginner-problems.md

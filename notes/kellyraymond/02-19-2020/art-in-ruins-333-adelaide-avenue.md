@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (333 Adelaide Avenue)
+title: 'Art in Ruins (333 Adelaide Avenue)'
 tagnames: hidden:response, zoom:16, unearthing-pvd-stories, lat:41.7950956, lon:-71.4277439, lat:41.795095, lon:-71.427743, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/art-in-ruins-333-adelaide-avenue.md

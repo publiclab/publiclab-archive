@@ -1,5 +1,5 @@
 ---
-title: How do I  identify the base polymers in an unknown plastic for recycling? 
+title: 'How do I  identify the base polymers in an unknown plastic for recycling? '
 tagnames: spectrometry, question:spectrometry, polymer, plastic, first-time-poster, ftir
 author: profpearce
 path: /notes/profpearce/05-30-2019/how-do-i-identify-the-base-polymers-in-an-unknown-plastic-for-recycling.md

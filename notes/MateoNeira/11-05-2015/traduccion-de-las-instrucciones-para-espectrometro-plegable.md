@@ -1,5 +1,5 @@
 ---
-title: Traducción de las instrucciones para espectrometro plegable 
+title: 'Traducción de las instrucciones para espectrometro plegable '
 tagnames: spectrometer, fold-up-mini-spectrometer, lang:es, barnstar:basic, llactalab
 author: MateoNeira
 path: /notes/MateoNeira/11-05-2015/traduccion-de-las-instrucciones-para-espectrometro-plegable.md

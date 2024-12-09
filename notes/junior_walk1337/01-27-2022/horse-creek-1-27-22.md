@@ -1,5 +1,5 @@
 ---
-title: Horse Creek 1/27/22
+title: 'Horse Creek 1/27/22'
 tagnames: drones, west-virginia, water-quality, coal, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/01-27-2022/horse-creek-1-27-22.md

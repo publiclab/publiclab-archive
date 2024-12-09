@@ -1,5 +1,5 @@
 ---
-title: A Short List of Community Air Guides
+title: 'A Short List of Community Air Guides'
 tagnames: research, air-quality, bucket-brigade, community-science, air-sampling, lon:-71, lat:42, zoom:6, bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/09-09-2020/a-short-list-of-community-air-guides.md

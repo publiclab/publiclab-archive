@@ -1,5 +1,5 @@
 ---
-title: Efficiently sort images with Finder & Preview (Mac)
+title: 'Efficiently sort images with Finder & Preview (Mac)'
 tagnames: balloon-mapping, sorting, image-sorting, activity:balloon-mapping, activity:image-sorting
 author: mathew
 path: /notes/mathew/1-30-2012/efficient-image-sorting-finder-preview-mac.md

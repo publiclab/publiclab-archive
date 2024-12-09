@@ -1,5 +1,5 @@
 ---
-title:  Talleres de Fotografía de bajo coste desde el aire en Madrid
+title: ' Talleres de Fotografía de bajo coste desde el aire en Madrid'
 tagnames: balloon-mapping, spain, workshop, madrid, event, lang:es, replication:14022
 author: pablo
 path: /notes/pablo/03-24-2015/talleres-de-fotografia-de-bajo-coste-desde-el-aire-en-madrid.md

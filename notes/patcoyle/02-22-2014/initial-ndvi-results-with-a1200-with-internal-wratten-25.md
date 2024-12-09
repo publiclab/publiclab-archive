@@ -1,5 +1,5 @@
 ---
-title: Updated initial NDVI results from A1200 with internal Wratten 25
+title: 'Updated initial NDVI results from A1200 with internal Wratten 25'
 tagnames: ndvi, a1200, infrared-camera, infrablue, wratten25a, a490
 author: patcoyle
 path: /notes/patcoyle/02-22-2014/initial-ndvi-results-with-a1200-with-internal-wratten-25.md

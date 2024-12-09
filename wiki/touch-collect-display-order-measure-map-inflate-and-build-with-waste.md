@@ -1,5 +1,5 @@
 ---
-title: Touch, Collect, Display, Order, Measure, Map, Inflate and Build with Waste! 
+title: 'Touch, Collect, Display, Order, Measure, Map, Inflate and Build with Waste! '
 tagnames: grassrootsmappingforum, waste, trash, basurama, gmf-6, style:fancy, with:basurama, germany, detritivore
 author: mollydanielsson
 path: /wiki/touch-collect-display-order-measure-map-inflate-and-build-with-waste.md

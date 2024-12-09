@@ -1,5 +1,5 @@
 ---
-title: Notes from 4-19 staff call
+title: 'Notes from 4-19 staff call'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/4-19-2011/notes-4-19-staff-call.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab job posting: Education Manager
+title: 'Public Lab job posting: Education Manager'
 tagnames: education, jobs
 author: Shannon
 path: /notes/Shannon/01-15-2019/public-lab-job-posting-education-manager.md

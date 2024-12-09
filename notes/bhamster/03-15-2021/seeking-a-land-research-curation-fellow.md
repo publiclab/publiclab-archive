@@ -1,5 +1,5 @@
 ---
-title: Seeking a Land Research Curation Fellow
+title: 'Seeking a Land Research Curation Fellow'
 tagnames: agriculture, soil, waste, jobs, land-use, fellows, fellowship, fellow, soil-contamination, research-curation-fellows
 author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-a-land-research-curation-fellow.md

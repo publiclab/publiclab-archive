@@ -1,5 +1,5 @@
 ---
-title: Testing a cheap webcam with Infragram - spoiler alert: nope
+title: 'Testing a cheap webcam with Infragram - spoiler alert: nope'
 tagnames: kits, webcam, infragram, infragram-conversion, lens, red-filter, infragram-webcam, aren, activity:infrared-camera-conversion, infrared-camera-conversion, ndvi:, infragram-testing, m12, negative-result
 author: warren
 path: /notes/warren/04-25-2018/testing-a-cheap-webcam-with-infragram-spoiler-alert-nope.md

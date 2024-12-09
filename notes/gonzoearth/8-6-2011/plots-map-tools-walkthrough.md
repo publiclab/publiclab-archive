@@ -1,5 +1,5 @@
 ---
-title: PLOTS map tools walkthrough  
+title: 'PLOTS map tools walkthrough  '
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/8-6-2011/plots-map-tools-walkthrough.md

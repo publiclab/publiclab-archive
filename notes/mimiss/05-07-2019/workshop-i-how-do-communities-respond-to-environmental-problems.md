@@ -1,5 +1,5 @@
 ---
-title: How do communities respond to environmental problems? (Lesson Plan)
+title: 'How do communities respond to environmental problems? (Lesson Plan)'
 tagnames: education, workshop, curriculum, activity:education, lesson, exploring-environmental-issues, parent:student-led-community-science-in-the-classroom-a-curriculum, series:student-community-science, activity:student-community-science, with:purl
 author: mimiss
 path: /notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environmental-problems.md

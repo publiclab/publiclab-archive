@@ -1,5 +1,5 @@
 ---
-title: Chlorophyll imaging to track algal blooms
+title: 'Chlorophyll imaging to track algal blooms'
 tagnames: multispectral, chlorophyll, algae, algal-blooms, modis, cyanobacteria
 author: warren
 path: /notes/warren/6-6-2011/chlorophyll-imaging-track-algal-blooms.md

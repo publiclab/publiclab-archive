@@ -1,5 +1,5 @@
 ---
-title: The Great GPS Ski-off
+title: 'The Great GPS Ski-off'
 tagnames: arduino, gps, sensors, data-logging, skypod, response:14020
 author: cfastie
 path: /notes/cfastie/03-18-2017/the-great-gps-ski-off.md

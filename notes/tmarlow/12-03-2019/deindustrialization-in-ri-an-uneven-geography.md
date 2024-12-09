@@ -1,5 +1,5 @@
 ---
-title: Deindustrialization in RI: An Uneven Geography
+title: 'Deindustrialization in RI: An Uneven Geography'
 tagnames: rhode-island, blog, industry, first-time-poster, employment, brown, unearthing-pvd, unearthing-pvd-analyses, lat:41.826858, lon:-71.401872, deindustrialization
 author: tmarlow
 path: /notes/tmarlow/12-03-2019/deindustrialization-in-ri-an-uneven-geography.md

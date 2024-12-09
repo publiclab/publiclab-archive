@@ -1,5 +1,5 @@
 ---
-title: Copper rod test for H2S
+title: 'Copper rod test for H2S'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, activity:h2s-copper-pipe
 author: Sharon Wilson
 path: /notes/sharon-wilson/3-21-2012/copper-rod-test-h2s.md

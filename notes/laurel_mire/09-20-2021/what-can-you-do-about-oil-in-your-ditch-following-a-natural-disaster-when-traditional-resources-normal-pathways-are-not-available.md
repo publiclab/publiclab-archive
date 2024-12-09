@@ -1,5 +1,5 @@
 ---
-title: What can you do about oil in your ditch following a natural disaster when traditional resources/normal pathways are not available?
+title: 'What can you do about oil in your ditch following a natural disaster when traditional resources/normal pathways are not available?'
 tagnames: oil, water-quality, water, stormwater, sheen, question:water-quality, question:general, general, question:stormwater, oil-and-gas, disaster-response, question:sheen, question:disaster-response, research-curation-fellows, ida
 author: laurel_mire
 path: /notes/laurel_mire/09-20-2021/what-can-you-do-about-oil-in-your-ditch-following-a-natural-disaster-when-traditional-resources-normal-pathways-are-not-available.md

@@ -1,5 +1,5 @@
 ---
-title: Rainbow Party at Assemble PGH
+title: 'Rainbow Party at Assemble PGH'
 tagnames: spectrometer, event, spectroscope, event:rsvp, date:09-11-2014
 author: ephemeralwaves
 path: /notes/ephemeralwaves/09-22-2015/rainbow-party-at-assemble-pgh.md

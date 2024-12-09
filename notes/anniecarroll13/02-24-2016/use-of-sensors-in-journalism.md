@@ -1,5 +1,5 @@
 ---
-title: Use of sensors in Journalism 
+title: 'Use of sensors in Journalism '
 tagnames: sensor-journalism, response:12748, hidden:response
 author: anniecarroll13
 path: /notes/anniecarroll13/02-24-2016/use-of-sensors-in-journalism.md

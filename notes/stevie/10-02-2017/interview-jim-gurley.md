@@ -1,5 +1,5 @@
 ---
-title: Interview: Jim Gurley
+title: 'Interview: Jim Gurley'
 tagnames: interview, blog, silica, frac-sand, midwest, grassroots, mid-west, fracsand, parent:frac-sand, community-organizing, story:frac-sand, interview-series, series:community-interviews
 author: stevie
 path: /notes/stevie/10-02-2017/interview-jim-gurley.md

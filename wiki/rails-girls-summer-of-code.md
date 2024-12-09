@@ -1,5 +1,5 @@
 ---
-title: Rails Girls Summer of Code
+title: 'Rails Girls Summer of Code'
 tagnames: software-outreach, rgsoc, soc, rails-girls, parent:soc
 author: warren
 path: /wiki/rails-girls-summer-of-code.md

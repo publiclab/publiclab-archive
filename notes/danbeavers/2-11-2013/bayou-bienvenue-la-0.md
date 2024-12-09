@@ -1,5 +1,5 @@
 ---
-title: Bayou Bienvenue LA
+title: 'Bayou Bienvenue LA'
 tagnames: gulf-coast, panorama, photo, bienvenue
 author: danbeavers
 path: /notes/danbeavers/2-11-2013/bayou-bienvenue-la-0.md

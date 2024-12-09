@@ -1,5 +1,5 @@
 ---
-title: Open hardware licensing logistics
+title: 'Open hardware licensing logistics'
 tagnames: 
 author: warren
 path: /wiki/open-hardware-licensing-logistics.md

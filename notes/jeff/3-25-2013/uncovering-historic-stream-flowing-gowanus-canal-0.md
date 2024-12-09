@@ -1,5 +1,5 @@
 ---
-title: Uncovering a Historic Stream Flowing into the Gowanus Canal
+title: 'Uncovering a Historic Stream Flowing into the Gowanus Canal'
 tagnames: new-york-city, balloon-mapping, gowanus, dye-tracing, first-time-poster
 author: jeff
 path: /notes/jeff/3-25-2013/uncovering-historic-stream-flowing-gowanus-canal-0.md

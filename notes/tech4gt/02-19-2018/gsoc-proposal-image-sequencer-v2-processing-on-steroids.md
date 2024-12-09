@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Image-Sequencer v2 : Processing on steroids
+title: 'GSoC proposal: Image-Sequencer v2 : Processing on steroids'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, image-sequencer, soc-2018-proposals, gsoc-2018-final, first-time-poster
 author: tech4gt
 path: /notes/tech4gt/02-19-2018/gsoc-proposal-image-sequencer-v2-processing-on-steroids.md

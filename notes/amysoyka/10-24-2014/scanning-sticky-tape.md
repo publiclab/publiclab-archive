@@ -1,5 +1,5 @@
 ---
-title: Scanning Sticky Tape
+title: 'Scanning Sticky Tape'
 tagnames: air-quality, dust, particle-monitoring, asbestos
 author: amysoyka
 path: /notes/amysoyka/10-24-2014/scanning-sticky-tape.md

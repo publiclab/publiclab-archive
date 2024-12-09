@@ -1,5 +1,5 @@
 ---
-title: Potentiostat Notes 2: Software
+title: 'Potentiostat Notes 2: Software'
 tagnames: potentiostat, wheestat
 author: JSummers
 path: /notes/JSummers/12-20-2013/potentiostat-software.md

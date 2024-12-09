@@ -1,5 +1,5 @@
 ---
-title: What are soil sampling protocols being used by groups along the gulf coast?
+title: 'What are soil sampling protocols being used by groups along the gulf coast?'
 tagnames: gulf-coast, soil, sampling, chemical, answered, harvey, question:harvey, sampling-protocol, hazardous, question:sampling, question:soil-sampling, question:soil
 author: stevie
 path: /notes/stevie/08-31-2017/what-are-soil-sampling-protocols-being-used-by-groups-along-the-gulf-coast.md

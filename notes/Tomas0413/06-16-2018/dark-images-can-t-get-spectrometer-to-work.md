@@ -1,5 +1,5 @@
 ---
-title: Dark images, can't get spectrometer to work
+title: 'Dark images, can't get spectrometer to work'
 tagnames: spectrometry, cfl, desktop-spectrometry-kit, failure, question:spectrometer, question:spectrometry, answered, dark, first-time-poster
 author: Tomas0413
 path: /notes/Tomas0413/06-16-2018/dark-images-can-t-get-spectrometer-to-work.md

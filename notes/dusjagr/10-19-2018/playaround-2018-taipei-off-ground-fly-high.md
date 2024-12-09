@@ -1,5 +1,5 @@
 ---
-title: playaround 2018 - Taipei | Off Ground - Fly High
+title: 'playaround 2018 - Taipei | Off Ground - Fly High'
 tagnames: balloon-mapping, events, aerial-photography, asia, taipei, taiwan, replication:14022
 author: dusjagr
 path: /notes/dusjagr/10-19-2018/playaround-2018-taipei-off-ground-fly-high.md

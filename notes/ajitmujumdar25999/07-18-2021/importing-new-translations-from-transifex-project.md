@@ -1,5 +1,5 @@
 ---
-title: Importing New Translations from Transifex Project ( managers only)
+title: 'Importing New Translations from Transifex Project ( managers only)'
 tagnames: localization, translation, activity:localization, activity:localization-managers, localization-managers
 author: ajitmujumdar25999
 path: /notes/ajitmujumdar25999/07-18-2021/importing-new-translations-from-transifex-project.md

@@ -1,5 +1,5 @@
 ---
-title: Open Institute presentation on facilitating community science
+title: 'Open Institute presentation on facilitating community science'
 tagnames: open-source, community, presentations, talk, eu, facilitation, madeira, slides, portugal, openness
 author: warren
 path: /notes/warren/12-20-2017/open-institute-presentation-on-facilitating-community-science.md

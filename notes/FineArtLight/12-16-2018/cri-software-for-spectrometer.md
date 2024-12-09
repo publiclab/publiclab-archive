@@ -1,5 +1,5 @@
 ---
-title: CRI software for spectrometer?
+title: 'CRI software for spectrometer?'
 tagnames: question:general, response:10238
 author: FineArtLight
 path: /notes/FineArtLight/12-16-2018/cri-software-for-spectrometer.md

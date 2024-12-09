@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (28 Bayley Street)
+title: 'Art in Ruins (28 Bayley Street)'
 tagnames: hidden:response, lat:41.878827861470725, lon:-71.38755619525911, zoom:18, lat:41.877624, lon:-71.388162, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/art-in-ruins-28-bayley-street.md

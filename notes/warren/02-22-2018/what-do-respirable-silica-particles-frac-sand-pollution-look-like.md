@@ -1,5 +1,5 @@
 ---
-title: What do respirable silica particles (frac sand pollution) look like?
+title: 'What do respirable silica particles (frac sand pollution) look like?'
 tagnames: sand, air-quality, fracking, silica, particulate, frac-sand, pm, question:pm, particulate-matter, question:silica, silica-monitoring, question:oil-and-gas, question:frac-sand, microscopes, question:microscopes, question:basic-microscope, basic-microscope, question:particulate-matter, air-pollution, question:fracking, question:community-microscope-challenges
 author: warren
 path: /notes/warren/02-22-2018/what-do-respirable-silica-particles-frac-sand-pollution-look-like.md

@@ -1,5 +1,5 @@
 ---
-title: Matt UNCC Map
+title: 'Matt UNCC Map'
 tagnames: 
 author: MattCannon
 path: /notes/MattCannon/02-18-2015/matt-uncc-map.md

@@ -1,5 +1,5 @@
 ---
-title: image-sharing
+title: 'image-sharing'
 tagnames: redirect:14184
 author: warren
 path: /wiki/image-sharing.md

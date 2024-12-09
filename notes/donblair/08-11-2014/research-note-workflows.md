@@ -1,5 +1,5 @@
 ---
-title: Research Note Workflows
+title: 'Research Note Workflows'
 tagnames: research
 author: donblair
 path: /notes/donblair/08-11-2014/research-note-workflows.md

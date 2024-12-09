@@ -1,5 +1,5 @@
 ---
-title: Fraunhofer
+title: 'Fraunhofer'
 tagnames: spectrometer, vermont, ebert, absorption, sky, fraunhofer, astronomy, sun, atmosphere, activity:spectrometry, time:30m, difficulty:easy, seeks:replications
 author: cfastie
 path: /notes/cfastie/3-2-2013/fraunhofer.md

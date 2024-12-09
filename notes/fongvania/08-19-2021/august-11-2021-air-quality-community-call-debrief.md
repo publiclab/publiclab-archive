@@ -1,5 +1,5 @@
 ---
-title: August 11, 2021 Air Quality Community Call Debrief 
+title: 'August 11, 2021 Air Quality Community Call Debrief '
 tagnames: air-quality, community-engagement, notes, air-quality-projects, research-curation-fellows, community-calls
 author: fongvania
 path: /notes/fongvania/08-19-2021/august-11-2021-air-quality-community-call-debrief.md

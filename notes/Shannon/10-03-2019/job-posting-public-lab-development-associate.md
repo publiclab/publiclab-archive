@@ -1,5 +1,5 @@
 ---
-title: Job posting: Public Lab Development Associate
+title: 'Job posting: Public Lab Development Associate'
 tagnames: jobs
 author: Shannon
 path: /notes/Shannon/10-03-2019/job-posting-public-lab-development-associate.md

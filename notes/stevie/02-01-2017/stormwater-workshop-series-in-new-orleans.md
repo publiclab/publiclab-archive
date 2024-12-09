@@ -1,5 +1,5 @@
 ---
-title: Stormwater Workshop Series in New Orleans! 
+title: 'Stormwater Workshop Series in New Orleans! '
 tagnames: gulf-coast, workshop, new-orleans, stormwater, flooding
 author: stevie
 path: /notes/stevie/02-01-2017/stormwater-workshop-series-in-new-orleans.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab Presentation at Personal Democracy Forum 2011
+title: 'Public Lab Presentation at Personal Democracy Forum 2011'
 tagnames: presentation
 author: warren
 path: /notes/warren/04-11-2013/public-lab-presentation-at-personal-democracy-forum-2011.md

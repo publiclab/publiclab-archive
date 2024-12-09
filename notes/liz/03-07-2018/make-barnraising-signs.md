@@ -1,5 +1,5 @@
 ---
-title: Make Open Space signs for an event like the Barnraising
+title: 'Make Open Space signs for an event like the Barnraising'
 tagnames: barnraising, activity:barnraising, activity:night-before-barnraising
 author: liz
 path: /notes/liz/03-07-2018/make-barnraising-signs.md

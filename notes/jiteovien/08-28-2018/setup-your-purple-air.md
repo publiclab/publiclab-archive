@@ -1,5 +1,5 @@
 ---
-title: Setup your Purple Air
+title: 'Setup your Purple Air'
 tagnames: seeks:replications, purpleair, activity:purpleair
 author: jiteovien
 path: /notes/jiteovien/08-28-2018/setup-your-purple-air.md

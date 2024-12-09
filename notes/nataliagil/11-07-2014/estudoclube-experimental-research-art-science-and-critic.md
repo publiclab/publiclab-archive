@@ -1,5 +1,5 @@
 ---
-title: estudoclube - experimental research: art, science and critic
+title: 'estudoclube - experimental research: art, science and critic'
 tagnames: education, science, research, art, experimental, critic
 author: nataliagil
 path: /notes/nataliagil/11-07-2014/estudoclube-experimental-research-art-science-and-critic.md

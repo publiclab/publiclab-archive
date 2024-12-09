@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal:  Extend community collaboration statistics and visualization system
+title: 'Outreachy proposal:  Extend community collaboration statistics and visualization system'
 tagnames: software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359
 author: cess
 path: /notes/cess/10-24-2018/outreachy-proposal.md

@@ -1,5 +1,5 @@
 ---
-title: NYC Winter Party
+title: 'NYC Winter Party'
 tagnames: event
 author: liz
 path: /notes/liz/12-7-2012/nyc-winter-party.md

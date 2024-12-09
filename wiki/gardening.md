@@ -1,5 +1,5 @@
 ---
-title: Gardening
+title: 'Gardening'
 tagnames: 
 author: warren
 path: /wiki/gardening.md

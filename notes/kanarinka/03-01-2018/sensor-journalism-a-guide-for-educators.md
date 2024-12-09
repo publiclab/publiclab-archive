@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism: A Guide for Educators
+title: 'Sensor Journalism: A Guide for Educators'
 tagnames: education, curriculum, water-quality, coqui, sensor-journalism, seeks:replications, storytelling, activity:coqui-usage, activity:edu-coqui
 author: kanarinka
 path: /notes/kanarinka/03-01-2018/sensor-journalism-a-guide-for-educators.md

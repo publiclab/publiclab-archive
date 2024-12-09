@@ -1,5 +1,5 @@
 ---
-title: setting-goals
+title: 'setting-goals'
 tagnames: parent:gardening-toolkit, gardening-toolkit
 author: liz
 path: /wiki/setting-goals.md

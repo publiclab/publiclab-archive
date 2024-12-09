@@ -1,5 +1,5 @@
 ---
-title: The RIFFLE Effect: Public Lab's New Pilot Water Monitoring Sensor Tool
+title: 'The RIFFLE Effect: Public Lab's New Pilot Water Monitoring Sensor Tool'
 tagnames: water-quality, water, water-monitoring, toolshed-raising, riffle, first-time-poster
 author: lilybui
 path: /notes/lilybui/02-07-2014/the-riffle-effect-public-lab-s-new-pilot-water-monitoring-sensor-tool.md

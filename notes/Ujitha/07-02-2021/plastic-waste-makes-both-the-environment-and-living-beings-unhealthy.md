@@ -1,5 +1,5 @@
 ---
-title: Plastic Waste Makes both the Environment and Living beings Unhealthy 
+title: 'Plastic Waste Makes both the Environment and Living beings Unhealthy '
 tagnames: waste, pollution, environment, issue-brief, plastic, zoom:12, colombo, sri-lanka, lat:6.927078, lon:79.861243
 author: Ujitha
 path: /notes/Ujitha/07-02-2021/plastic-waste-makes-both-the-environment-and-living-beings-unhealthy.md

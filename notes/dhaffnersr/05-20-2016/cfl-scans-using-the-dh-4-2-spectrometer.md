@@ -1,5 +1,5 @@
 ---
-title: CFL scans using the DH 4.2 spectrometer 
+title: 'CFL scans using the DH 4.2 spectrometer '
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-20-2016/cfl-scans-using-the-dh-4-2-spectrometer.md

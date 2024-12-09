@@ -1,5 +1,5 @@
 ---
-title: Public Lab virtual event on all things microplastics
+title: 'Public Lab virtual event on all things microplastics'
 tagnames: event, research, water-monitoring, event:rsvp, rsvp:liz, rivers, ocean, microplastics, plastic, research-area-review, freshwater, plastic-pollution
 author: bhamster
 path: /notes/bhamster/09-02-2020/public-lab-virtual-event-on-all-things-microplastics.md

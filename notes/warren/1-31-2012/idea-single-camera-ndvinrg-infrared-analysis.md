@@ -1,5 +1,5 @@
 ---
-title: Idea for single camera ndvi/nrg infrared analysis
+title: 'Idea for single camera ndvi/nrg infrared analysis'
 tagnames: near-infrared-camera, nrg, beamsplitter
 author: warren
 path: /notes/warren/1-31-2012/idea-single-camera-ndvinrg-infrared-analysis.md

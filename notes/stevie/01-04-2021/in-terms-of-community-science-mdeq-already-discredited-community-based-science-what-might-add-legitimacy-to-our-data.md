@@ -1,5 +1,5 @@
 ---
-title: In terms of community science, MDEQ already discredited community based science, what might add legitimacy to our data? 
+title: 'In terms of community science, MDEQ already discredited community based science, what might add legitimacy to our data? '
 tagnames: mississippi, data, data-advocacy-case-studies, question:general, general, community-science, location:blurred, place:united-states, lat:30, lon:-88, pascagoula, zoom:6, with:cherokeeconcernedcitizens
 author: stevie
 path: /notes/stevie/01-04-2021/in-terms-of-community-science-mdeq-already-discredited-community-based-science-what-might-add-legitimacy-to-our-data.md

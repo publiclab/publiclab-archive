@@ -1,5 +1,5 @@
 ---
-title: 3-D printed jar attachment for water-quality monitoring
+title: '3-D printed jar attachment for water-quality monitoring'
 tagnames: water-sensing, water-quality-monitoring, umass-amherst, publiclab-at-umass
 author: markwh
 path: /notes/markwh/12-16-2014/3-d-printed-jar-attachment-for-water-quality-monitoring.md

@@ -1,5 +1,5 @@
 ---
-title: Do you like this design for keeping track of events and projects?
+title: 'Do you like this design for keeping track of events and projects?'
 tagnames: design, ui, ui-designs
 author: edie_blues
 path: /notes/edie_blues/01-29-2019/do-you-like-this-design-for-keeping-track-of-events-and-projects.md

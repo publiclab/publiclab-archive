@@ -1,5 +1,5 @@
 ---
-title: Suratá Visible -- Part I
+title: 'Suratá Visible -- Part I'
 tagnames: colombia, water-quality, riffle, open-water, riffle-examples
 author: donblair
 path: /notes/donblair/10-19-2015/surata-visible-part-i.md

@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping Harvard GSD
+title: 'Balloon Mapping Harvard GSD'
 tagnames: balloon-mapping, boston, massachusetts, northeast
 author: warren
 path: /notes/warren/4-28-2011/balloon-mapping-harvard-gsd.md

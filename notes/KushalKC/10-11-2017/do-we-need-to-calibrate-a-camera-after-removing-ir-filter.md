@@ -1,5 +1,5 @@
 ---
-title: Do we need to calibrate a camera after removing IR filter?
+title: 'Do we need to calibrate a camera after removing IR filter?'
 tagnames: question:general, first-time-poster
 author: KushalKC
 path: /notes/KushalKC/10-11-2017/do-we-need-to-calibrate-a-camera-after-removing-ir-filter.md

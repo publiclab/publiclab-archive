@@ -1,5 +1,5 @@
 ---
-title: SmART-Form Paper Published by Public Health Nursing
+title: 'SmART-Form Paper Published by Public Health Nursing'
 tagnames: georgia, air-quality, publication, public-health, indoor, southeast, smart-form, community-science, feasibility
 author: nshapiro
 path: /notes/nshapiro/07-12-2018/smart-form-paper-published-by-public-health-nursing.md

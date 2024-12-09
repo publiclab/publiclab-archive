@@ -1,5 +1,5 @@
 ---
-title: How was the frequency response graph interpreted in @cfastie blogpost, and how the computation of the NDVI was derived?
+title: 'How was the frequency response graph interpreted in @cfastie blogpost, and how the computation of the NDVI was derived?'
 tagnames: question:ndvi, tsl2561
 author: manueldun
 path: /notes/manueldun/10-04-2018/how-was-the-frequency-response-graph-interpreted-in-cfastie-blogpost-and-how-the-computation-of-the-ndvi-was-derived.md

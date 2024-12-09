@@ -1,5 +1,5 @@
 ---
-title: How to delete the images which I do not want to place in the map?
+title: 'How to delete the images which I do not want to place in the map?'
 tagnames: ndvi, mapknitter, ballon-mapping, community-atlas, map-knitter, lat:12.919907, lon:77.59671
 author: silentsairam
 path: /notes/silentsairam/05-11-2019/how-to-delete-the-images-which-i-do-not-want-to-place-in-the-map.md

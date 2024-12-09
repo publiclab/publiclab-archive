@@ -1,5 +1,5 @@
 ---
-title: Literature Review: Copper Rod Analysis
+title: 'Literature Review: Copper Rod Analysis'
 tagnames: analysis, copper, corrosion, epoxies, sem, eds
 author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/literature-review-copper-rod-analysis.md

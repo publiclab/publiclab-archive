@@ -1,5 +1,5 @@
 ---
-title: Workshop Guide: Mapping Soil Data
+title: 'Workshop Guide: Mapping Soil Data'
 tagnames: education, soil, new, soil-testing, draft, soil-sampling, activity:soil-sampling, activity:new, lon:-71, lat:42, activity:soil, zoom:6, statistics-for-action
 author: kgradow1
 path: /notes/kgradow1/12-31-2020/workshop-guide-mapping-data.md

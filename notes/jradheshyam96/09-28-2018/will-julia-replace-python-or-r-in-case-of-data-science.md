@@ -1,5 +1,5 @@
 ---
-title: will julia replace python or R in case of Data Science?
+title: 'will julia replace python or R in case of Data Science?'
 tagnames: python, julia, data-science, question:data-science, first-time-poster
 author: jradheshyam96
 path: /notes/jradheshyam96/09-28-2018/will-julia-replace-python-or-r-in-case-of-data-science.md

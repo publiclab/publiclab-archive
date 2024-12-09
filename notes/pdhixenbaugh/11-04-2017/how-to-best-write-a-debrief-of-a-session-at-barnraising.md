@@ -1,5 +1,5 @@
 ---
-title: How to best write a debrief of a session at Barnraising?
+title: 'How to best write a debrief of a session at Barnraising?'
 tagnames: documentation, barnraising, question:question, question:barnraising, barnraising2017, question:hosting-materials
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/11-04-2017/how-to-best-write-a-debrief-of-a-session-at-barnraising.md

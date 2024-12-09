@@ -1,5 +1,5 @@
 ---
-title: Update 2 on Sky Cam Enhancement - GSoC 2014
+title: 'Update 2 on Sky Cam Enhancement - GSoC 2014'
 tagnames: image-processing, gsoc, skycam, gsoc-2014, image-streaming
 author: mercyorangi
 path: /notes/mercyorangi/06-17-2014/update-2-on-sky-cam-enhancement-gsoc-2014.md

@@ -1,5 +1,5 @@
 ---
-title: Has anyone used a RasPi camera in a DIY microscope?
+title: 'Has anyone used a RasPi camera in a DIY microscope?'
 tagnames: raspberry-pi, answered, question:raspberry-pi, microscopes, question:microscopes
 author: bmela
 path: /notes/bmela/10-01-2017/has-anyone-used-a-raspi-camera-in-a-diy-microscope.md

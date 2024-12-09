@@ -1,5 +1,5 @@
 ---
-title: How to build affordable DIY Near Infra red Spectrometer for analyzing wavelength range 1000nm to 1800nm ?
+title: 'How to build affordable DIY Near Infra red Spectrometer for analyzing wavelength range 1000nm to 1800nm ?'
 tagnames: spectrometer, spectrometry, question:spectrometer, question:general, general, first-time-poster
 author: apk87
 path: /notes/apk87/02-21-2022/how-to-build-affordable-diy-near-infra-red-spectrometer-for-analyzing-wavelength-range-1000nm-to-1800nm.md

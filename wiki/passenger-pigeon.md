@@ -1,5 +1,5 @@
 ---
-title: Aerial photos with Passenger Pigeon
+title: 'Aerial photos with Passenger Pigeon'
 tagnames: aerial-photos, passenger-pigeon, airplane, method, oil-and-gas
 author: warren
 path: /wiki/passenger-pigeon.md

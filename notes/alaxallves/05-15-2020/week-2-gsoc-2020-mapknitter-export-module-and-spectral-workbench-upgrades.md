@@ -1,5 +1,5 @@
 ---
-title: Week 2 @ GSOC 2020: Mapknitter Export Module and Spectral Workbench upgrades
+title: 'Week 2 @ GSOC 2020: Mapknitter Export Module and Spectral Workbench upgrades'
 tagnames: zoom:18, lat:-15.890176, lon:-48.014778
 author: alaxallves
 path: /notes/alaxallves/05-15-2020/week-2-gsoc-2020-mapknitter-export-module-and-spectral-workbench-upgrades.md

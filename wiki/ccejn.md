@@ -1,5 +1,5 @@
 ---
-title: ccejn
+title: 'ccejn'
 tagnames: farm, california, cafo, ccejn, environmentaljustice, san_joaquin_valley
 author: ccampos
 path: /wiki/ccejn.md

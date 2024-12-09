@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting the Bucket Monitor
+title: 'Troubleshooting the Bucket Monitor'
 tagnames: air-quality, lat:34, lon:-118, zoom:6, bucket-monitor, question:bucket-monitor, VVAMP, 316w3b
 author: sarasage
 path: /notes/sarasage/09-14-2021/troubleshooting-the-bucket-monitor.md

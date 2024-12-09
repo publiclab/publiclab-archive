@@ -1,5 +1,5 @@
 ---
-title: New wavelength calibration procedure preview for Spectral Workbench 2.0
+title: 'New wavelength calibration procedure preview for Spectral Workbench 2.0'
 tagnames: spectrometer, calibration, web-development, spectral-workbench, development, coding
 author: warren
 path: /notes/warren/09-30-2015/new-wavelength-calibration-procedure-preview-for-spectral-workbench-2-0.md

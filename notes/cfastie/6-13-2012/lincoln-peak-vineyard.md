@@ -1,5 +1,5 @@
 ---
-title: Lincoln Peak Vineyard
+title: 'Lincoln Peak Vineyard'
 tagnames: near-infrared-camera, kite-mapping, ndvi, nir, vineyard
 author: cfastie
 path: /notes/cfastie/6-13-2012/lincoln-peak-vineyard.md

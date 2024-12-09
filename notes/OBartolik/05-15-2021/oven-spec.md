@@ -1,5 +1,5 @@
 ---
-title: Oven Spec
+title: 'Oven Spec'
 tagnames: first-time-poster
 author: OBartolik
 path: /notes/OBartolik/05-15-2021/oven-spec.md

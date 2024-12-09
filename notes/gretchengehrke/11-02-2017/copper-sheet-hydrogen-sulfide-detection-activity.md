@@ -1,5 +1,5 @@
 ---
-title: Copper Sheet Hydrogen Sulfide Detection Activity
+title: 'Copper Sheet Hydrogen Sulfide Detection Activity'
 tagnames: barnraising, hydrogen-sulfide, difficulty:easy, category:test-limits, time:1h, status:draft, h2s-copper-pipe, barnraising-2017, activity:hydrogen-sulfide, activity:h2s-copper-pipe
 author: gretchengehrke
 path: /notes/gretchengehrke/11-02-2017/copper-sheet-hydrogen-sulfide-detection-activity.md

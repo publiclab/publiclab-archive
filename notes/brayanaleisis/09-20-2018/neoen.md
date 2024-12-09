@@ -1,5 +1,5 @@
 ---
-title: neoen
+title: 'neoen'
 tagnames: 
 author: brayanaleisis
 path: /notes/brayanaleisis/09-20-2018/neoen.md

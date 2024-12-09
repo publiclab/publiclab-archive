@@ -1,5 +1,5 @@
 ---
-title: Creating NDVI images with PI no ir V2
+title: 'Creating NDVI images with PI no ir V2'
 tagnames: ndvi, software, question:general, question:pi-camera, map, first-time-poster, knitting, question:infragram-pi, pi-calibration
 author: macmuzz
 path: /notes/macmuzz/05-05-2019/creating-ndvi-images-with-pi-no-ir-v2.md

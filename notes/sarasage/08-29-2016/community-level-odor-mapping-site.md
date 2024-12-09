@@ -1,5 +1,5 @@
 ---
-title: Community-level Odor Mapping Site
+title: 'Community-level Odor Mapping Site'
 tagnames: landfill, california, barnstar:basic, los-angeles, regionalbarnraising, landfills, val-verde, odors, odor, activity:socalwastestream, activity:waste, odor-log, activity:odor, odor-logging, activity:odor-logging, odor-mapping
 author: sarasage
 path: /notes/sarasage/08-29-2016/community-level-odor-mapping-site.md

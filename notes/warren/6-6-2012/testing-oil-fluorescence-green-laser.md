@@ -1,5 +1,5 @@
 ---
-title: Testing oil fluorescence with a green laser
+title: 'Testing oil fluorescence with a green laser'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/6-6-2012/testing-oil-fluorescence-green-laser.md

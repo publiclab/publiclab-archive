@@ -1,5 +1,5 @@
 ---
-title: Portable Energy Scavenging Kit 0.1a
+title: 'Portable Energy Scavenging Kit 0.1a'
 tagnames: pvos, portable-energy-scavenging-kit
 author: donblair
 path: /notes/donblair/12-17-2012/portable-energy-scavenging-kit-01a.md

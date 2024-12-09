@@ -1,5 +1,5 @@
 ---
-title: DIY Light Delta kite (Rogallo wing)
+title: 'DIY Light Delta kite (Rogallo wing)'
 tagnames: kite-mapping, nasa, kite-modeler, diy-kite, delta, rogallo, diy-kites, kite-making
 author: Safidy
 path: /notes/safidy/7-26-2012/light-delta-kite.md

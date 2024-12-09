@@ -1,5 +1,5 @@
 ---
-title: Pevnost Olomouc
+title: 'Pevnost Olomouc'
 tagnames: mapknitter, lat:49.5770086859, lon:17.2131621838
 author: bowgarden
 path: /notes/bowgarden/11-06-2016/pevnost-olomouc.md

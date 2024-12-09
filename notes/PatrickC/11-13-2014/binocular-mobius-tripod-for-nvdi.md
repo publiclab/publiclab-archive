@@ -1,5 +1,5 @@
 ---
-title: Binocular Mobius Tripod for NVDI.
+title: 'Binocular Mobius Tripod for NVDI.'
 tagnames: nvdi, gradient, first-time-poster
 author: PatrickC
 path: /notes/PatrickC/11-13-2014/binocular-mobius-tripod-for-nvdi.md

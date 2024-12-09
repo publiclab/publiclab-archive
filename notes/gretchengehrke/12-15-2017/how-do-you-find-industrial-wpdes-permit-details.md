@@ -1,5 +1,5 @@
 ---
-title: How do you find industrial WPDES permit details? 
+title: 'How do you find industrial WPDES permit details? '
 tagnames: barnstar:basic, question:question, question:water-quality, question:regulations, question:frac-sand, question:legal, law-and-policy, question:law-and-policy
 author: gretchengehrke
 path: /notes/gretchengehrke/12-15-2017/how-do-you-find-industrial-wpdes-permit-details.md

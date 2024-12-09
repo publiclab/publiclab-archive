@@ -1,5 +1,5 @@
 ---
-title: Some notes + updates from PhotosynQ
+title: 'Some notes + updates from PhotosynQ'
 tagnames: event, soil, photosynq, soilcarbon, event:rsvp, multispeq, soil-testing, date:04-22-2016
 author: gbathree
 path: /notes/gbathree/04-08-2016/some-notes-updates-from-photosynq.md

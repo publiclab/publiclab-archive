@@ -1,5 +1,5 @@
 ---
-title: Reflected sunlight and a spectrometer improving proposal
+title: 'Reflected sunlight and a spectrometer improving proposal'
 tagnames: 
 author: viechdokter
 path: /notes/viechdokter/04-10-2016/reflected-sunlight-and-a-spectrometer-improving-proposal.md

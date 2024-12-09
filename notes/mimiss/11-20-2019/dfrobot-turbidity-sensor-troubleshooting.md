@@ -1,5 +1,5 @@
 ---
-title: DFRobot Turbidity Sensor Troubleshooting
+title: 'DFRobot Turbidity Sensor Troubleshooting'
 tagnames: arduino, water-sensing, water-quality, water-monitoring, turbidity, question:water-quality, question:arduino, question:water-sensors, water-sensors, question:turbidity, water-sensor
 author: mimiss
 path: /notes/mimiss/11-20-2019/dfrobot-turbidity-sensor-troubleshooting.md

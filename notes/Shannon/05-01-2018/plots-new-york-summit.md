@@ -1,5 +1,5 @@
 ---
-title: PLOTS New York Summit
+title: 'PLOTS New York Summit'
 tagnames: new-york-city
 author: Shannon
 path: /notes/Shannon/05-01-2018/plots-new-york-summit.md

@@ -1,5 +1,5 @@
 ---
-title: 2013 Barnraising evaluation summary
+title: '2013 Barnraising evaluation summary'
 tagnames: community, barnraising, evaluation
 author: Shannon
 path: /notes/Shannon/10-27-2013/2013-barnraising-evaluation-summary.md

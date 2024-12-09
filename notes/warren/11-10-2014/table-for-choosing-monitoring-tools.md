@@ -1,5 +1,5 @@
 ---
-title: Table for choosing monitoring tools
+title: 'Table for choosing monitoring tools'
 tagnames: epa, development, comparison, sensitivity, regulations, monitoring, regulators
 author: warren
 path: /notes/warren/11-10-2014/table-for-choosing-monitoring-tools.md

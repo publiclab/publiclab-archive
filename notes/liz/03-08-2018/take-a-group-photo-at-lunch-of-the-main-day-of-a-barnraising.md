@@ -1,5 +1,5 @@
 ---
-title: Take a group photo at lunch of the main day
+title: 'Take a group photo at lunch of the main day'
 tagnames: barnraising, activity:during-barnraising
 author: liz
 path: /notes/liz/03-08-2018/take-a-group-photo-at-lunch-of-the-main-day-of-a-barnraising.md

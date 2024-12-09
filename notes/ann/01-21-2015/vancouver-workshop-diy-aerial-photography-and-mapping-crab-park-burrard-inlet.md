@@ -1,5 +1,5 @@
 ---
-title: Vancouver Workshop: DIY Aerial Photography and Mapping, Crab Park, Burrard Inlet
+title: 'Vancouver Workshop: DIY Aerial Photography and Mapping, Crab Park, Burrard Inlet'
 tagnames: kite-mapping, event, canada, event:rsvp, northwest, vancouver, events:northwest, date:01-31-2015, bc, rsvp:lmpatrick, rsvp:c5fritz1387
 author: ann
 path: /notes/ann/01-21-2015/vancouver-workshop-diy-aerial-photography-and-mapping-crab-park-burrard-inlet.md

@@ -1,5 +1,5 @@
 ---
-title: Smithers Workshop: DIY Aerial Photography and Mapping
+title: 'Smithers Workshop: DIY Aerial Photography and Mapping'
 tagnames: event, event:rsvp, events:northwest, date:04-19-2015, replication:14022
 author: ann
 path: /notes/ann/04-07-2015/smithers-workshop-diy-aerial-photography-and-mapping.md

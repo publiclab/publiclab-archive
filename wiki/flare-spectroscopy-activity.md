@@ -1,5 +1,5 @@
 ---
-title: Flare Spectroscopy Activity
+title: 'Flare Spectroscopy Activity'
 tagnames: education, spectrometry, classroom, activity, response:4406
 author: warren
 path: /wiki/flare-spectroscopy-activity.md

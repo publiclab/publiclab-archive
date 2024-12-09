@@ -1,5 +1,5 @@
 ---
-title: How a Compression Coupling Works
+title: 'How a Compression Coupling Works'
 tagnames: air-quality, tools, bucket-brigade, lat:42, lon:-70, zoom:6, bucket-monitor, tedlar-bag
 author: kgradow1
 path: /notes/kgradow1/07-29-2020/how-a-compression-coupling-works.md

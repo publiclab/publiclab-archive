@@ -1,5 +1,5 @@
 ---
-title: Inviting contributors
+title: 'Inviting contributors'
 tagnames: 
 author: warren
 path: /wiki/inviting-contributors.md

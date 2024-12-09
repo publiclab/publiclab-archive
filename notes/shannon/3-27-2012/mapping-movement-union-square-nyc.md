@@ -1,5 +1,5 @@
 ---
-title: Mapping movement in Union Square NYC
+title: 'Mapping movement in Union Square NYC'
 tagnames: balloon-mapping, ilab
 author: Shannon
 path: /notes/shannon/3-27-2012/mapping-movement-union-square-nyc.md

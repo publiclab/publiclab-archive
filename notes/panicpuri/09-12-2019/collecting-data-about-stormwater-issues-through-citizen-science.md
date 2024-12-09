@@ -1,5 +1,5 @@
 ---
-title: Collecting data about Stormwater Issues through Citizen Science
+title: 'Collecting data about Stormwater Issues through Citizen Science'
 tagnames: arduino, water-sensing, sensors, stormwater, flooding, runoff, study-design, community-organizing, irb, issue-brief, air-sensors, first-time-poster, lat:40.446947, lon:-80.002441
 author: panicpuri
 path: /notes/panicpuri/09-12-2019/collecting-data-about-stormwater-issues-through-citizen-science.md

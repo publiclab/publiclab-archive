@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of lumcon barnraising 2017
+title: 'MapKnitter map of lumcon barnraising 2017'
 tagnames: mapknitter, barnraising, lumcon, barnraising-2017, lat:29.2541243401, lon:-90.6614971161
 author: eustatic
 path: /11-06-2017/mapknitter-map-of-lumcon-barnraising-2017.md

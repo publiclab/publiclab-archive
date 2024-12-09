@@ -1,5 +1,5 @@
 ---
-title: Mapping Curriculum Activity Lens Calculation
+title: 'Mapping Curriculum Activity Lens Calculation'
 tagnames: balloon-mapping, curriculum, lens
 author: warren
 path: /wiki/mapping-curriculum-activity-lens-calculation.md

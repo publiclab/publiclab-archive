@@ -1,5 +1,5 @@
 ---
-title: H2S strip placement in Bayou Sauvage NWR, Orleans Parish, LA
+title: 'H2S strip placement in Bayou Sauvage NWR, Orleans Parish, LA'
 tagnames: hydrogen-sulfide-sensing, h2s, h2s-photopaper
 author: eustatic
 path: /6-23-2012/h2s-strip-placement-bayou-sauvage-nwr-orleans-parish-la.md

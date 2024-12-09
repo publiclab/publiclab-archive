@@ -1,5 +1,5 @@
 ---
-title: dashboard-sidebar
+title: 'dashboard-sidebar'
 tagnames: 
 author: warren
 path: /feature/dashboard-sidebar.md

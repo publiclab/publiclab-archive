@@ -1,5 +1,5 @@
 ---
-title: Mardi Gras Pass is digging in and building out: summer 2015 map
+title: 'Mardi Gras Pass is digging in and building out: summer 2015 map'
 tagnames: gulf-coast, balloon-mapping, mapknitter, bohemia, mississippi-river, response:12190, mgp
 author: eustatic
 path: /09-08-2015/mardi-gras-pass-is-digging-in-and-building-out-summer-2015-map.md

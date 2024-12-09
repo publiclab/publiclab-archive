@@ -1,5 +1,5 @@
 ---
-title: Oil Testing Kit Workshop at Art in Odd Places Festival
+title: 'Oil Testing Kit Workshop at Art in Odd Places Festival'
 tagnames: spectrometer, oil, event, unboxing, maine, oil-testing-kit, event:rsvp, penobscot-bay, oil-pollution, response:12219, date:10-11-2015, first-time-poster
 author: Matej
 path: /notes/Matej/09-18-2015/oil-testing-kit-workshop-at-art-in-odd-places-festival.md

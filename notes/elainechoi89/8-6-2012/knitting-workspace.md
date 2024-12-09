@@ -1,5 +1,5 @@
 ---
-title: Knitting a Workspace
+title: 'Knitting a Workspace'
 tagnames: kite, spaces
 author: elainechoi89
 path: /notes/elainechoi89/8-6-2012/knitting-workspace.md

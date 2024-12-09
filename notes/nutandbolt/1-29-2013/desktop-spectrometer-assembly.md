@@ -1,5 +1,5 @@
 ---
-title: Desktop Spectrometer assembly
+title: 'Desktop Spectrometer assembly'
 tagnames: spectrometer, desktop-spectrometer-assembly
 author: nutandbolt
 path: /notes/nutandbolt/1-29-2013/desktop-spectrometer-assembly.md

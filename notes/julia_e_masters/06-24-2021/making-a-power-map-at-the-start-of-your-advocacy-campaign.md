@@ -1,5 +1,5 @@
 ---
-title: Making a power map at the start of your advocacy campaign
+title: 'Making a power map at the start of your advocacy campaign'
 tagnames: mapping, organizing, advocacy, community-organizing, research-curation-fellows, activity:organizing, activity:advocacy, start-advocacy, advocacy-with-maps, activity:advocacy-with-maps, power-mapping
 author: julia_e_masters
 path: /notes/julia_e_masters/06-24-2021/making-a-power-map-at-the-start-of-your-advocacy-campaign.md

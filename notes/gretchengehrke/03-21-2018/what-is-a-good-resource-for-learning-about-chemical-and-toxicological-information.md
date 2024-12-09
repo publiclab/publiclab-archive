@@ -1,5 +1,5 @@
 ---
-title: What is a good resource for learning about chemical and toxicological information?
+title: 'What is a good resource for learning about chemical and toxicological information?'
 tagnames: ingredients, question:resources, question:toxicology, question:chemistry
 author: gretchengehrke
 path: /notes/gretchengehrke/03-21-2018/what-is-a-good-resource-for-learning-about-chemical-and-toxicological-information.md

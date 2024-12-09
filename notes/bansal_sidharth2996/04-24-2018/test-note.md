@@ -1,5 +1,5 @@
 ---
-title: Test Note
+title: 'Test Note'
 tagnames: 
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/04-24-2018/test-note.md

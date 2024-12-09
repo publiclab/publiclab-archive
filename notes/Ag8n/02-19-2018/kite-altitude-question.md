@@ -1,5 +1,5 @@
 ---
-title: Kite altitude question
+title: 'Kite altitude question'
 tagnames: question:balloon-mapping, answered, question:kite-mapping
 author: Ag8n
 path: /notes/Ag8n/02-19-2018/kite-altitude-question.md

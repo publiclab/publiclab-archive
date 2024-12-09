@@ -1,5 +1,5 @@
 ---
-title: Infrablue Highways
+title: 'Infrablue Highways'
 tagnames: near-infrared-camera, infrared, alaska, infragram, plant-health, timelapse, nbg, infrablue, treeline, akrange
 author: cfastie
 path: /notes/cfastie/07-13-2013/infrablue-highways.md

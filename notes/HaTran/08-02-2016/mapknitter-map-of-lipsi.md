@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Lipsi
+title: 'MapKnitter map of Lipsi'
 tagnames: mapknitter, lat:37.316945527, lon:26.7245006561, greece, mediterranean
 author: HaTran
 path: /notes/HaTran/08-02-2016/mapknitter-map-of-lipsi.md

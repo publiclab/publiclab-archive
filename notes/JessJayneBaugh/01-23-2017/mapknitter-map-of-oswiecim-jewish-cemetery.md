@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Oswiecim Jewish Cemetery 
+title: 'MapKnitter map of Oswiecim Jewish Cemetery '
 tagnames: mapknitter, lat:50.0343982, lon:19.2097782, first-time-poster
 author: JessJayneBaugh
 path: /notes/JessJayneBaugh/01-23-2017/mapknitter-map-of-oswiecim-jewish-cemetery.md

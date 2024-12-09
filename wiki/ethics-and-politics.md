@@ -1,5 +1,5 @@
 ---
-title: Ethics and Politics
+title: 'Ethics and Politics'
 tagnames: community, ethics, politics, consent
 author: sara
 path: /wiki/ethics-and-politics.md

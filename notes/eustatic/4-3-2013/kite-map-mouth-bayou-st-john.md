@@ -1,5 +1,5 @@
 ---
-title: Kite Map of the mouth of Bayou St John
+title: 'Kite Map of the mouth of Bayou St John'
 tagnames: gulf-coast, kite-mapping, eustatic, dredgefestla, bsj
 author: eustatic
 path: /4-3-2013/kite-map-mouth-bayou-st-john.md

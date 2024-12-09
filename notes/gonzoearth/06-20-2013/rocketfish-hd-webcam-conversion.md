@@ -1,5 +1,5 @@
 ---
-title: Rocketfish hd webcam conversion 
+title: 'Rocketfish hd webcam conversion '
 tagnames: near-infrared-camera, conversion, infragram, response:8285, infragram-conversion, armroyjem
 author: gonzoearth
 path: /notes/gonzoearth/06-20-2013/rocketfish-hd-webcam-conversion.md

@@ -1,5 +1,5 @@
 ---
-title: March Mapping Madness
+title: 'March Mapping Madness'
 tagnames: balloon-mapping, kite-mapping, march-mapping-madness
 author: liz
 path: /wiki/march-mapping-madness.md

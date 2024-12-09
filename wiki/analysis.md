@@ -1,5 +1,5 @@
 ---
-title: Analysis
+title: 'Analysis'
 tagnames: 
 author: warren
 path: /wiki/analysis.md

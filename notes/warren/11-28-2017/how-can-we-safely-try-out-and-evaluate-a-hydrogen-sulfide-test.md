@@ -1,5 +1,5 @@
 ---
-title: How can we safely try out and evaluate a hydrogen sulfide test?
+title: 'How can we safely try out and evaluate a hydrogen sulfide test?'
 tagnames: hydrogen-sulfide, h2s, validation, h2s-copper-pipe, question:h2s, question:hydrogen-sulfide, question:h2s-copper-pipe, question:validation, question:h2s-copper-pipe-challenge
 author: warren
 path: /notes/warren/11-28-2017/how-can-we-safely-try-out-and-evaluate-a-hydrogen-sulfide-test.md

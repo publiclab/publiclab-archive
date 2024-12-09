@@ -1,5 +1,5 @@
 ---
-title: Trees, Chainsaws, Protest and Balloons
+title: 'Trees, Chainsaws, Protest and Balloons'
 tagnames: protest-mapping, forest, czech-republic, logging, eu
 author: warren
 path: /notes/warren/9-28-2011/trees-chainsaws-protest-and-balloons.md

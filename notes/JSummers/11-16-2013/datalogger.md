@@ -1,5 +1,5 @@
 ---
-title: DataLogger
+title: 'DataLogger'
 tagnames: arduino, potentiostat, datalogger, logging, launchpad, data-logging
 author: JSummers
 path: /notes/JSummers/11-16-2013/datalogger.md

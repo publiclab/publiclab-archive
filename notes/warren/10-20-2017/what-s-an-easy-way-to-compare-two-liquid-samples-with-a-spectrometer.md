@@ -1,5 +1,5 @@
 ---
-title: What's an easy way to compare two liquid samples with a spectrometer?
+title: 'What's an easy way to compare two liquid samples with a spectrometer?'
 tagnames: spectrometry, turbidity, question:spectrometry, foldable-spec, question:foldable-spec, question:spectrometry-challenge, question:spectrometry-turbidity, question:lego-spectrometer
 author: warren
 path: /notes/warren/10-20-2017/what-s-an-easy-way-to-compare-two-liquid-samples-with-a-spectrometer.md

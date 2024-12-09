@@ -1,5 +1,5 @@
 ---
-title: Sizing particles in microscope images at Portland Science Hackday
+title: 'Sizing particles in microscope images at Portland Science Hackday'
 tagnames: calibration, silica, frac-sand, pm, particles, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, pm-monitoring, pm-sensing, microscopes, sizing, particle-imaging
 author: mathew
 path: /notes/mathew/10-07-2016/sizing-images-at-portland-science-hackday.md

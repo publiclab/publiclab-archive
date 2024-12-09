@@ -1,5 +1,5 @@
 ---
-title: NDVI Drone Mapping Research
+title: 'NDVI Drone Mapping Research'
 tagnames: ndvi, infrared, agriculture, remote, software, sensing, panorama, drone, monitoring, code, python, stitching, ecosystem, programming, first-time-poster, geography, zoom:6, lat:53.349805, lon:-6.260309, geomatics, esp32
 author: ektopyrotic
 path: /notes/ektopyrotic/06-04-2020/ndvi-drone-mapping-research.md

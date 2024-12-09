@@ -1,5 +1,5 @@
 ---
-title: M.Sc. student looking for community research to partner with
+title: 'M.Sc. student looking for community research to partner with'
 tagnames: community, water, canada, monitoring, environmental, engagement, community-driven
 author: patzerrpd
 path: /notes/patzerrpd/03-07-2016/m-sc-student-looking-for-community-research-to-partner-with.md

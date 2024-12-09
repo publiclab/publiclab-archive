@@ -1,5 +1,5 @@
 ---
-title: Open Hardware SCHOLARSHIP - deadline sept 14th
+title: 'Open Hardware SCHOLARSHIP - deadline sept 14th'
 tagnames: 
 author: warren
 path: /notes/warren/9-7-2011/open-hardware-scholarship-deadline-sept-14th.md

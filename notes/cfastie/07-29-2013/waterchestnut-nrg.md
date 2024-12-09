@@ -1,5 +1,5 @@
 ---
-title: Water chestnut NRG
+title: 'Water chestnut NRG'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, nrg, vermont, lake, gps, pvos, event, massachusetts, google-earth, invasive, umass-amherst, aquatic, usfws, classification, response:8926, georeferencing, h2onutz, response:8928, gigapan, invasives, waterchestnuts, invasive-species
 author: cfastie
 path: /notes/cfastie/07-29-2013/waterchestnut-nrg.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack -- St. Louis -- Micah Stanek
+title: 'Public Lab River Rat Pack -- St. Louis -- Micah Stanek'
 tagnames: publiclabriverratpack
 author: micahs
 path: /notes/micahs/05-10-2016/public-lab-river-rat-pack-st-louis-micah-stanek.md

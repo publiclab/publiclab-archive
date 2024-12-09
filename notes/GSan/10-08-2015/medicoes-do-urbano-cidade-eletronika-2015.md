@@ -1,5 +1,5 @@
 ---
-title: Medições do Urbano - Cidade Eletronika 2015
+title: 'Medições do Urbano - Cidade Eletronika 2015'
 tagnames: air, dustduino, dust, brasil, hackear, response:12177
 author: GSan
 path: /notes/GSan/10-08-2015/medicoes-do-urbano-cidade-eletronika-2015.md

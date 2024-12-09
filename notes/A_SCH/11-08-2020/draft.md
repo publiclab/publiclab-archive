@@ -1,5 +1,5 @@
 ---
-title: Addressing the Health Impacts of Petrochemical Production
+title: 'Addressing the Health Impacts of Petrochemical Production'
 tagnames: air-quality, bucket-brigade, with:kgradow1, advocacy, draft, community-organizing, advocacy-pathways, community-analysis, bucket-monitor, bucket-monitoring
 author: A_SCH
 path: /notes/A_SCH/11-08-2020/draft.md

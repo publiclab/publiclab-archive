@@ -1,5 +1,5 @@
 ---
-title: Data Collection and Curation Questions
+title: 'Data Collection and Curation Questions'
 tagnames: question:data-collection, curation, question:data-sharing, question:metadata
 author: gkb
 path: /notes/gkb/04-08-2017/data-collection-and-curation-questions.md

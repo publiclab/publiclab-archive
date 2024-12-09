@@ -1,5 +1,5 @@
 ---
-title: The fight to get out of Pascagoula
+title: 'The fight to get out of Pascagoula'
 tagnames: gulf-coast, mississippi, blog, pollution, pm, industry, odor, odor-log, chemicals, pascagoula, tri, toxics-release-inventory, odor-logging, chevron, mdeq, phosphates
 author: stevie
 path: /notes/stevie/08-06-2018/the-fight-to-get-out-of-pascagoula.md

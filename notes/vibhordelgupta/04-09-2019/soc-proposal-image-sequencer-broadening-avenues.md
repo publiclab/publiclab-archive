@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: Image Sequencer: Broadening Avenues
+title: 'SoC proposal: Image Sequencer: Broadening Avenues'
 tagnames: software, gsoc, soc, response:13975, image-sequencer, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, gsoc-19-proposal
 author: vibhordelgupta
 path: /notes/vibhordelgupta/04-09-2019/soc-proposal-image-sequencer-broadening-avenues.md

@@ -1,5 +1,5 @@
 ---
-title: Efficiency of Landfill Gas Collection 
+title: 'Efficiency of Landfill Gas Collection '
 tagnames: 
 author: beyondlandfilling
 path: /notes/beyondlandfilling/10-06-2014/efficiency-of-landfill-gas-collection.md

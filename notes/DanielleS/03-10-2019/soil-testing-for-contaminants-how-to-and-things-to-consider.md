@@ -1,5 +1,5 @@
 ---
-title: Things to Consider When Testing Soil for Contaminants  
+title: 'Things to Consider When Testing Soil for Contaminants  '
 tagnames: soil, soil-testing, soil-sampling, activity:soil-sampling, activity:oil-testing, activity:soil, soil-contaminants, soil-contaminant-testing, soil-testing-kits, activity:lead, activity:heavy-metals, mine-soil-health
 author: DanielleS
 path: /notes/DanielleS/03-10-2019/soil-testing-for-contaminants-how-to-and-things-to-consider.md

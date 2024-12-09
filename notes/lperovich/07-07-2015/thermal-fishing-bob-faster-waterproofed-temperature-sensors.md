@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Bob: faster waterproofed temperature sensors
+title: 'Thermal Fishing Bob: faster waterproofed temperature sensors'
 tagnames: water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689
 author: lperovich
 path: /notes/lperovich/07-07-2015/thermal-fishing-bob-faster-waterproofed-temperature-sensors.md

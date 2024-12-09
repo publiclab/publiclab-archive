@@ -1,5 +1,5 @@
 ---
-title: What goes into choosing a topic name?
+title: 'What goes into choosing a topic name?'
 tagnames: blog, with:warren, with:cfastie, with:nshapiro, with:gretchengehrke, with:bronwen, with:abdul, question:website, ui, tagging, question:tagging
 author: liz
 path: /notes/liz/09-27-2016/what-goes-into-choosing-a-topic-name.md

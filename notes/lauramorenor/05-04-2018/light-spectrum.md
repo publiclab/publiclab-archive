@@ -1,5 +1,5 @@
 ---
-title: LIGHT SPECTRUM
+title: 'LIGHT SPECTRUM'
 tagnames: first-time-poster
 author: lauramorenor
 path: /notes/lauramorenor/05-04-2018/light-spectrum.md

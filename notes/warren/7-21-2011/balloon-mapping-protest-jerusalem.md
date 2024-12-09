@@ -1,5 +1,5 @@
 ---
-title: Balloon-mapping a protest in Jerusalem
+title: 'Balloon-mapping a protest in Jerusalem'
 tagnames: balloon-mapping, jerusalem, protest-mapping, protest, march
 author: warren
 path: /notes/warren/7-21-2011/balloon-mapping-protest-jerusalem.md

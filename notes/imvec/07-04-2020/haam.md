@@ -1,5 +1,5 @@
 ---
-title: HAAM
+title: 'HAAM'
 tagnames: lang:es, openhour, spanish, zoom:14, lat:41.408488, lon:2.199325, horaabierta, haam
 author: imvec
 path: /notes/imvec/07-04-2020/haam.md

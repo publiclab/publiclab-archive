@@ -1,5 +1,5 @@
 ---
-title: Formaldehyde validation
+title: 'Formaldehyde validation'
 tagnames: smart-form, question:smart-form
 author: Ag8n
 path: /notes/Ag8n/01-18-2018/formaldehyde-validation.md

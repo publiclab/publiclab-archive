@@ -1,5 +1,5 @@
 ---
-title: Bayou Savage Results 2: degree of canister openness
+title: 'Bayou Savage Results 2: degree of canister openness'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
 author: sara
 path: /notes/sara/7-18-2012/bayou-savage-results-2-degree-canister-openness.md

@@ -1,5 +1,5 @@
 ---
-title: Flare Spectrometer proposal in Shreveport and Meraux Louisiana
+title: 'Flare Spectrometer proposal in Shreveport and Meraux Louisiana'
 tagnames: gulf-coast, spectrometer, spectrum-matching, spectralworkbench, flame-spectroscopy, watchdog, flare, shreveport, meraux, ioby
 author: AndyZ
 path: /notes/AndyZ/11-22-2013/flare-spectrometer-proposal-in-shreveport-and-meraux-louisiana.md

@@ -1,5 +1,5 @@
 ---
-title: What's happening at the 2017 Barnraising?
+title: 'What's happening at the 2017 Barnraising?'
 tagnames: gulf-coast, louisiana, documentation, cocodrie, barnraising, great-photos, doccom, barnraiser, question:barnraising, barnraising-2017, question:barnraiser
 author: warren
 path: /notes/warren/11-03-2017/what-s-happening-at-the-2017-barnraising.md

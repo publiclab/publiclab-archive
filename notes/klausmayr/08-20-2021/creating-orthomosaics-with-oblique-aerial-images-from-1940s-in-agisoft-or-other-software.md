@@ -1,5 +1,5 @@
 ---
-title: Creating orthomosaics with oblique aerial images from 1940s in Agisoft or other software?
+title: 'Creating orthomosaics with oblique aerial images from 1940s in Agisoft or other software?'
 tagnames: remote-sensing, mapping, question:general, general, aerial-imagery
 author: klausmayr
 path: /notes/klausmayr/08-20-2021/creating-orthomosaics-with-oblique-aerial-images-from-1940s-in-agisoft-or-other-software.md

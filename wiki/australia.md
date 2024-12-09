@@ -1,5 +1,5 @@
 ---
-title: australia
+title: 'australia'
 tagnames: australia, chapter
 author: cobi
 path: /wiki/australia.md

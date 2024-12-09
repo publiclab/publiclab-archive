@@ -1,5 +1,5 @@
 ---
-title: riffle-dev
+title: 'riffle-dev'
 tagnames: riffle, parent:riffle
 author: donblair
 path: /wiki/riffle-dev.md

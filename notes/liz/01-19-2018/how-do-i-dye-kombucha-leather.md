@@ -1,5 +1,5 @@
 ---
-title: How do I dye kombucha leather?
+title: 'How do I dye kombucha leather?'
 tagnames: kombucha, kombucha-leather, question:kombucha-leather
 author: liz
 path: /notes/liz/01-19-2018/how-do-i-dye-kombucha-leather.md

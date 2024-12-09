@@ -1,5 +1,5 @@
 ---
-title: Classroom Flame Spectroscopy
+title: 'Classroom Flame Spectroscopy'
 tagnames: spectrometer, education, flame-spectroscopy, flame, spectroscope, science, metal, bunsen, activity:spectrometry, activity:science-fair, activity:classroom, first-time-poster
 author: straylight
 path: /notes/straylight/10-14-2012/classroom-flame-spectroscopy.md

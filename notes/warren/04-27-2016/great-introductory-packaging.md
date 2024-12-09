@@ -1,5 +1,5 @@
 ---
-title: Great introductory packaging
+title: 'Great introductory packaging'
 tagnames: community, open-hardware, kits, unboxing, packaging, first-timers
 author: warren
 path: /notes/warren/04-27-2016/great-introductory-packaging.md

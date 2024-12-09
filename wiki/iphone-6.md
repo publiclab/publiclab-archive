@@ -1,5 +1,5 @@
 ---
-title: iphone 6
+title: 'iphone 6'
 tagnames: 
 author: s21xt
 path: /wiki/iphone-6.md

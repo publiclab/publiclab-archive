@@ -1,5 +1,5 @@
 ---
-title: World Maker Faire 2014
+title: 'World Maker Faire 2014'
 tagnames: new-york-city, event, makerfaire, northeast, event:rsvp, date:09-17-2014, date:09-20-2014, make
 author: liz
 path: /notes/liz/09-17-2014/world-maker-faire.md

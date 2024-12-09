@@ -1,5 +1,5 @@
 ---
-title: DustHack Event Menomonie Wisconsin ! 
+title: 'DustHack Event Menomonie Wisconsin ! '
 tagnames: event, wisconsin, dustduino, dust, silica, midwest, dylos, event:rsvp, date:10-27-2014, mid-west, rsvp:amysoyka, rsvp:marlokeno, rsvp:ethanbass
 author: stevie
 path: /notes/stevie/10-17-2014/dusthack-event-menomonie-wisconsin.md

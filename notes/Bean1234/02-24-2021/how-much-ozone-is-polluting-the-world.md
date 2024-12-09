@@ -1,5 +1,5 @@
 ---
-title: How much ozone is polluting the world?
+title: 'How much ozone is polluting the world?'
 tagnames: atmosphere, ozone, question:general, general, location:blurred, place:united-states, lat:30, lon:-91, first-time-poster, zoom:6
 author: Bean1234
 path: /notes/Bean1234/02-24-2021/how-much-ozone-is-polluting-the-world.md

@@ -1,5 +1,5 @@
 ---
-title: Has anyone organized "walking tours" or  "community walks" as part of their grassroots organizing practice?
+title: 'Has anyone organized "walking tours" or  "community walks" as part of their grassroots organizing practice?'
 tagnames: community-mapping, organizing, place, advocacy, environmental-justice, question:general, general, community-organizing, local-knowledge, question:organizing, walking-tours, toxic-tours
 author: amocorro
 path: /notes/amocorro/05-26-2021/has-anyone-organized-walking-tours-or-community-walks-as-part-of-their-grassroots-organizing-practice.md

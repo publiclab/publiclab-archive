@@ -1,5 +1,5 @@
 ---
-title: Infragrams from a Quadcopter
+title: 'Infragrams from a Quadcopter'
 tagnames: near-infrared-camera, infrared, infragram, quadcopter, drone, hooperfly
 author: mathew
 path: /notes/mathew/05-05-2014/infragrams-from-a-quadcopter.md

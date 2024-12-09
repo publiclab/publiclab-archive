@@ -1,5 +1,5 @@
 ---
-title: Gsoc-2019 Progress Blog: Phase 1 and Phase 2
+title: 'Gsoc-2019 Progress Blog: Phase 1 and Phase 2'
 tagnames: soc-2019-eval
 author: aashnaaashna
 path: /notes/aashnaaashna/07-25-2019/gsoc-2019-progress-blog-phase-1-and-phase-2.md

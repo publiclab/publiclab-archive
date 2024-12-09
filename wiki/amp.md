@@ -1,5 +1,5 @@
 ---
-title: amp
+title: 'amp'
 tagnames: coal-mining, west-virginia, mountaintop-removal, extraction, southeast, amp, mtr, appalachia
 author: liz
 path: /wiki/amp.md

@@ -1,5 +1,5 @@
 ---
-title: Subsoil sampling guide
+title: 'Subsoil sampling guide'
 tagnames: soil, guide, barnstar:photo-documentation, new, soil-testing, soil-sampling, activity:soil-sampling, activity:new, lang:en, with:arturunderwater, with:xose, activity:soil, parent:soil, parent:soil-sampling, guia, soil-sampling-toolkit, soil-sampling-main, subsoil-sampling, subsoil
 author: imvec
 path: /notes/imvec/07-01-2022/subsoil-sampling-guide.md

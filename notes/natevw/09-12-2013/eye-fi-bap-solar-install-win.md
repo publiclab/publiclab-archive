@@ -1,5 +1,5 @@
 ---
-title: Eye-Fi + BAP + Solar install = Win?
+title: 'Eye-Fi + BAP + Solar install = Win?'
 tagnames: balloon-mapping, live-streaming, photo-rig, eye-fi
 author: natevw
 path: /notes/natevw/09-12-2013/eye-fi-bap-solar-install-win.md

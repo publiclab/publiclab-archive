@@ -1,5 +1,5 @@
 ---
-title: Initial experience: SX260HS with gps
+title: 'Initial experience: SX260HS with gps'
 tagnames: kite-mapping, chdk, gps, sx260hs
 author: patcoyle
 path: /notes/patcoyle/2-21-2013/initial-experiences-sx260hs-gps.md

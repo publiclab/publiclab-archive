@@ -1,5 +1,5 @@
 ---
-title: Problem with registration
+title: 'Problem with registration'
 tagnames: question:general
 author: Slava1
 path: /notes/Slava1/06-12-2018/problem-with-registration.md

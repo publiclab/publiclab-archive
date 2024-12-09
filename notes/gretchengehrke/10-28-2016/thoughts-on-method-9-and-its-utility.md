@@ -1,5 +1,5 @@
 ---
-title: Thoughts on Method 9 and its utility 
+title: 'Thoughts on Method 9 and its utility '
 tagnames: plume, epa, air-quality, blog, pm, open-air, certification, smoke-school, method-9, fugitive-emissions, visible-emissions, alternative-method-82, method-22, visual-monitoring, opacity
 author: gretchengehrke
 path: /notes/gretchengehrke/10-28-2016/thoughts-on-method-9-and-its-utility.md

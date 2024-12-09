@@ -1,5 +1,5 @@
 ---
-title: Calibrate your spectrometer in Spectral Workbench
+title: 'Calibrate your spectrometer in Spectral Workbench'
 tagnames: spectrometer, spectrometry, guide, response:12258, cross-section, activity:spectrometry, difficulty:easy, seeks:replications, activity:dssk, activity:foldable-spec, time:15m, response:748, status:review-me, category:verify, parent:spectral-workbench-calibration, activity:papercraft-spec, spectral-workbench-calibration, pin:activity:papercraft-spec, pin:spectrometry, spectrometry-calibration, activity:spectrometry-calibration
 author: warren
 path: /notes/warren/09-01-2016/calibrating-your-spectrometer-in-spectral-workbench.md

@@ -1,5 +1,5 @@
 ---
-title: Reconfigurable Rig
+title: 'Reconfigurable Rig'
 tagnames: balloon-mapping, kite-mapping, photography, kap, photo-rig, kites, bap, pap, pole-mapping, diy-kites, kaptery, autodesk, reconfigurable-rig, activities:aerial-photography, camera-housing
 author: mathew
 path: /wiki/reconfigurable-rig.md

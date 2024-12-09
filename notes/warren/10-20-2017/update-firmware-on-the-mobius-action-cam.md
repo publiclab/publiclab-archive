@@ -1,5 +1,5 @@
 ---
-title: Update firmware on the Mobius Action Cam
+title: 'Update firmware on the Mobius Action Cam'
 tagnames: infrared, infragram, mobius-actioncam, mobius, infragram-point-shoot, mobius-action-cam, multispectral-analysis, activity:infragram, activity:mobius, activity:mobius-action-cam, activity:infragram-point-shoot
 author: warren
 path: /notes/warren/10-20-2017/update-firmware-on-the-mobius-action-cam.md

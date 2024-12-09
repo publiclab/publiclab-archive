@@ -1,5 +1,5 @@
 ---
-title: Mapir Survey3 RGN image processing pipeline
+title: 'Mapir Survey3 RGN image processing pipeline'
 tagnames: ndvi, question:question, rgn, mapir
 author: mrodriguezorejuela
 path: /notes/mrodriguezorejuela/09-28-2018/mapir-survey3-rgn-image-processing-pipeline.md

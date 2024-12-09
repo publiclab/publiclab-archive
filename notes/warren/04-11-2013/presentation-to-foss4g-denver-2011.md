@@ -1,5 +1,5 @@
 ---
-title: Presentation to FOSS4G Denver, 2011
+title: 'Presentation to FOSS4G Denver, 2011'
 tagnames: presentation, foss4g
 author: warren
 path: /notes/warren/04-11-2013/presentation-to-foss4g-denver-2011.md

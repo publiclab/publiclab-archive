@@ -1,5 +1,5 @@
 ---
-title: Plume spectrometry test in Garfield County
+title: 'Plume spectrometry test in Garfield County'
 tagnames: 
 author: warren
 path: /notes/warren/9-19-2011/plume-spectrometry-test-garfield-county.md

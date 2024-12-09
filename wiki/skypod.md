@@ -1,5 +1,5 @@
 ---
-title: skypod
+title: 'skypod'
 tagnames: redirect:14553
 author: warren
 path: /wiki/skypod.md

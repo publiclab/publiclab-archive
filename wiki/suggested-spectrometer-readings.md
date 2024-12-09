@@ -1,5 +1,5 @@
 ---
-title: Suggested Spectrometer Readings
+title: 'Suggested Spectrometer Readings'
 tagnames: spectrometer, curriculum, readings
 author: Shannon
 path: /wiki/suggested-spectrometer-readings.md

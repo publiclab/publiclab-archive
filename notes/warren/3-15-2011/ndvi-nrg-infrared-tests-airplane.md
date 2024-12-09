@@ -1,5 +1,5 @@
 ---
-title: NDVI-NRG infrared tests from an airplane
+title: 'NDVI-NRG infrared tests from an airplane'
 tagnames: near-infrared-camera, ndvi, passenger-pigeon, plane, window
 author: warren
 path: /notes/warren/3-15-2011/ndvi-nrg-infrared-tests-airplane.md

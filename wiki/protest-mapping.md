@@ -1,5 +1,5 @@
 ---
-title: protest-mapping
+title: 'protest-mapping'
 tagnames: protest-mapping
 author: liz
 path: /wiki/protest-mapping.md

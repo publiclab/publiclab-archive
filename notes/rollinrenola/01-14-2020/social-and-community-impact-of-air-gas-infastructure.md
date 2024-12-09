@@ -1,5 +1,5 @@
 ---
-title: Social and Community Impact of Oil & Gas Infastructure
+title: 'Social and Community Impact of Oil & Gas Infastructure'
 tagnames: blog-submission, oil-and-gas, location:blurred, lat:29, lon:-89, oil-and-gas-water-trio, zoom:6
 author: rollinrenola
 path: /notes/rollinrenola/01-14-2020/social-and-community-impact-of-air-gas-infastructure.md

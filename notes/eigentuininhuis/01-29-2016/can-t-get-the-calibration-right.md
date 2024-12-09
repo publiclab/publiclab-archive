@@ -1,5 +1,5 @@
 ---
-title: can't get the calibration right
+title: 'can't get the calibration right'
 tagnames: question:spectral-workbench, first-time-poster
 author: eigentuininhuis
 path: /notes/eigentuininhuis/01-29-2016/can-t-get-the-calibration-right.md

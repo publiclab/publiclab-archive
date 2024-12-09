@@ -1,5 +1,5 @@
 ---
-title: Findings from UI Analysis of PL website
+title: 'Findings from UI Analysis of PL website'
 tagnames: design, request, ui, pin:ui
 author: sylvan
 path: /notes/sylvan/03-04-2019/findings-from-ui-analysis-of-pl-website.md

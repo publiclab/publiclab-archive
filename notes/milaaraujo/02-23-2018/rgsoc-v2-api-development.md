@@ -1,5 +1,5 @@
 ---
-title: RGSoC: v2 API development
+title: 'RGSoC: v2 API development'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals, soc-2018-api, with:stefannibrasil, first-time-poster
 author: milaaraujo
 path: /notes/milaaraujo/02-23-2018/rgsoc-v2-api-development.md

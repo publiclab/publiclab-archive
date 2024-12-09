@@ -1,5 +1,5 @@
 ---
-title: Open Pipe Kit
+title: 'Open Pipe Kit'
 tagnames: fido, open-pipe-kit, parent:data-logging
 author: rjstatic
 path: /wiki/open-pipe-kit.md

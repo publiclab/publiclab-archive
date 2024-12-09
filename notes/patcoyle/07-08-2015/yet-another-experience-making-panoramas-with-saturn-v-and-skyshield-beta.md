@@ -1,5 +1,5 @@
 ---
-title: Yet another experience making panoramas with Saturn V and SkyShield beta
+title: 'Yet another experience making panoramas with Saturn V and SkyShield beta'
 tagnames: arduino, chdk, delta, a1200, autokap, kap-rigs, kaptery, saturnv, skyshield
 author: patcoyle
 path: /notes/patcoyle/07-08-2015/yet-another-experience-making-panoramas-with-saturn-v-and-skyshield-beta.md

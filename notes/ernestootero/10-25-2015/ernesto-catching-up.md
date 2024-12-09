@@ -1,5 +1,5 @@
 ---
-title: Ernesto. Catching up.
+title: 'Ernesto. Catching up.'
 tagnames: oil, kit, testing, first-time-poster
 author: ernestootero
 path: /notes/ernestootero/10-25-2015/ernesto-catching-up.md

@@ -1,5 +1,5 @@
 ---
-title: Auto EOS M
+title: 'Auto EOS M'
 tagnames: balloon-mapping, arduino, vermont, kite-aerial-photography, camera-triggering, kite, kap, camera, aerial-mapping, canon, skyshield, eos_m, mirrorless, response:12752, difficulty:hard, activity:camera-triggering
 author: cfastie
 path: /notes/cfastie/02-28-2016/auto-eos-m.md

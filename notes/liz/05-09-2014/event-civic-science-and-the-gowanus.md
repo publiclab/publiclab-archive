@@ -1,5 +1,5 @@
 ---
-title: Event--Civic Science and the Gowanus 
+title: 'Event--Civic Science and the Gowanus '
 tagnames: new-york-city, gowanus, event
 author: liz
 path: /notes/liz/05-09-2014/event-civic-science-and-the-gowanus.md

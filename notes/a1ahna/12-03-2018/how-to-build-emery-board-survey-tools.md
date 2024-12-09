@@ -1,5 +1,5 @@
 ---
-title: How to build Emery Board Survey Tools 
+title: 'How to build Emery Board Survey Tools '
 tagnames: oil, mapping, pipeline, survey, barnstar:basic, barnstar:photo-documentation, industry, hardware, draft, oil-and-gas, site-survey, activity:site-survey, beach, activity:new, pipelines, terrain, geography, geology, spoilbank, land-survey, emery-board
 author: a1ahna
 path: /notes/a1ahna/12-03-2018/how-to-build-emery-board-survey-tools.md

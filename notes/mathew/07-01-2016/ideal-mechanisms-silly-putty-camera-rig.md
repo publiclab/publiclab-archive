@@ -1,5 +1,5 @@
 ---
-title: ideal mechanisms & silly putty camera rig
+title: 'ideal mechanisms & silly putty camera rig'
 tagnames: kite-mapping, kap, photo-rig, autokap, kap-rigs, silly-putty, reconfigurable-rig
 author: mathew
 path: /notes/mathew/07-01-2016/ideal-mechanisms-silly-putty-camera-rig.md

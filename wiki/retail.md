@@ -1,5 +1,5 @@
 ---
-title: Retail 
+title: 'Retail '
 tagnames: 
 author: warren
 path: /wiki/retail.md

@@ -1,5 +1,5 @@
 ---
-title: What do I do with microplastics after being collected?
+title: 'What do I do with microplastics after being collected?'
 tagnames: disposal, question:microplastics, microplastics, question:babylegs, babylegs, plastic
 author: warren
 path: /notes/warren/06-24-2019/what-do-i-do-with-microplastics-after-being-collected.md

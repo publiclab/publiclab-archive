@@ -1,5 +1,5 @@
 ---
-title: grating calibration
+title: 'grating calibration'
 tagnames: spectrometer, spectrometry, grating, question:spectrometer, question:grating, first-time-poster
 author: cure828282
 path: /notes/cure828282/09-30-2021/grating-calibration.md

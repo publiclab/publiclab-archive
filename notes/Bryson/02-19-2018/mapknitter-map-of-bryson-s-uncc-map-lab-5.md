@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Bryson's UNCC Map (Lab 5)
+title: 'MapKnitter map of Bryson's UNCC Map (Lab 5)'
 tagnames: mapknitter, lat:35.3068692102, lon:-80.7329893112
 author: Bryson
 path: /notes/Bryson/02-19-2018/mapknitter-map-of-bryson-s-uncc-map-lab-5.md

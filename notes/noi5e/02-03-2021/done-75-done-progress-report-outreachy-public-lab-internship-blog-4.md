@@ -1,5 +1,5 @@
 ---
-title: ¾ Done! 75% Done! Progress Report! - [Outreachy & Public Lab Internship] Blog #4
+title: '¾ Done! 75% Done! Progress Report! - [Outreachy & Public Lab Internship] Blog #4'
 tagnames: outreachy, soc-2020, outreachy-2020
 author: noi5e
 path: /notes/noi5e/02-03-2021/done-75-done-progress-report-outreachy-public-lab-internship-blog-4.md

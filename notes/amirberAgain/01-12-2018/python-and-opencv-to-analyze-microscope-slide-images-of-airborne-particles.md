@@ -1,5 +1,5 @@
 ---
-title: Python and openCV to analyze microscope slide images of airborne particles
+title: 'Python and openCV to analyze microscope slide images of airborne particles'
 tagnames: air-quality, pm, python, microscope, passive-particle-monitors, microscopy, opencv, particle-imaging
 author: amirberAgain
 path: /notes/amirberAgain/01-12-2018/python-and-opencv-to-analyze-microscope-slide-images-of-airborne-particles.md

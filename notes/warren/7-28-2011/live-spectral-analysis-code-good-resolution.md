@@ -1,5 +1,5 @@
 ---
-title: Live spectral analysis code, good resolution
+title: 'Live spectral analysis code, good resolution'
 tagnames: 
 author: warren
 path: /notes/warren/7-28-2011/live-spectral-analysis-code-good-resolution.md

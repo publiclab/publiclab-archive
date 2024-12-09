@@ -1,5 +1,5 @@
 ---
-title: Anticipating sea-level rise in Louisiana
+title: 'Anticipating sea-level rise in Louisiana'
 tagnames: gulf-coast, louisiana
 author: Shannon
 path: /notes/shannon/2-8-2012/anticipating-sea-level-rise-louisiana.md

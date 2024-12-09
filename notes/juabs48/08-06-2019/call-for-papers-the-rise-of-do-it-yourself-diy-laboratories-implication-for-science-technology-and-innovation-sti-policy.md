@@ -1,5 +1,5 @@
 ---
-title: Call for papers: The rise of Do-It-Yourself (DIY) Laboratories: Implication for Science, Technology, and Innovation (STI) Policy
+title: 'Call for papers: The rise of Do-It-Yourself (DIY) Laboratories: Implication for Science, Technology, and Innovation (STI) Policy'
 tagnames: first-time-poster
 author: juabs48
 path: /notes/juabs48/08-06-2019/call-for-papers-the-rise-of-do-it-yourself-diy-laboratories-implication-for-science-technology-and-innovation-sti-policy.md

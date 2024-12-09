@@ -1,5 +1,5 @@
 ---
-title: Complete Redesign of Entrance Slit
+title: 'Complete Redesign of Entrance Slit'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-11-2016/complete-redesign-of-entrance-slit.md

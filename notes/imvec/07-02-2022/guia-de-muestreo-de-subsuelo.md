@@ -1,5 +1,5 @@
 ---
-title: Guía de muestreo de subsuelo
+title: 'Guía de muestreo de subsuelo'
 tagnames: soil, guide, lang:es, new, soil-testing, soil-sampling, activity:soil-sampling, with:arturunderwater, with:xose, activity:soil, parent:soil, parent:soil-sampling, guia, soil-sampling-toolkit, soil-sampling-main, subsoil-sampling, subsoil, subsoil-testing
 author: imvec
 path: /notes/imvec/07-02-2022/guia-de-muestreo-de-subsuelo.md

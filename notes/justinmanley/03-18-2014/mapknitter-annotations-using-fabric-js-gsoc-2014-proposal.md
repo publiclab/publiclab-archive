@@ -1,5 +1,5 @@
 ---
-title: Mapknitter Annotations using Fabric.js (GSOC 2014 Proposal)
+title: 'Mapknitter Annotations using Fabric.js (GSOC 2014 Proposal)'
 tagnames: mapknitter, gsoc, annotation, gsoc-2014, map-annotations, first-time-poster
 author: justinmanley
 path: /notes/justinmanley/03-18-2014/mapknitter-annotations-using-fabric-js-gsoc-2014-proposal.md

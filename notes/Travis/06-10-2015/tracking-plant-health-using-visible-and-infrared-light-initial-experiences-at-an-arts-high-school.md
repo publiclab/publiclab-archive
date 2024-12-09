@@ -1,5 +1,5 @@
 ---
-title: Tracking Plant Health Using Visible and Infrared Light -- Initial Experiences at an Arts High School
+title: 'Tracking Plant Health Using Visible and Infrared Light -- Initial Experiences at an Arts High School'
 tagnames: education, wetlands, infrared, wetland, spectrometry, curriculum, coastalmonitoring, wetlands-toolkit, parent:wetlands-lesson-plans, activity:spectrometry, activity:multispectral-imaging, multispectral-imaging, activity:infrared, activity:education, activity:classroom
 author: Travis
 path: /notes/Travis/06-10-2015/tracking-plant-health-using-visible-and-infrared-light-initial-experiences-at-an-arts-high-school.md

@@ -1,5 +1,5 @@
 ---
-title: Suggested Experiment for Collapsed Salt Marsh H2S Test Strip Study
+title: 'Suggested Experiment for Collapsed Salt Marsh H2S Test Strip Study'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, parent:hydrogen-sulfide-sensing
 author: deepwinter
 path: /wiki/suggested-experiment-collapsed-salt-marsh-h2s-test-strip-study.md

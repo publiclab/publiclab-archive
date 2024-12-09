@@ -1,5 +1,5 @@
 ---
-title: Infrablue Haze
+title: 'Infrablue Haze'
 tagnames: near-infrared-camera, nrg, ndvi, passenger-pigeon, infrared, michigan, infragram, infrablue, gigapan, a810, activity:multispectral-imaging
 author: cfastie
 path: /notes/cfastie/06-26-2013/infrablue-haze.md

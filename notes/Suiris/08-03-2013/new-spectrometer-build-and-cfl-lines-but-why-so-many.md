@@ -1,5 +1,5 @@
 ---
-title: New spectrometer build and CFL lines
+title: 'New spectrometer build and CFL lines'
 tagnames: spectrometer, spectroscopy, first-time-poster
 author: Suiris
 path: /notes/Suiris/08-03-2013/new-spectrometer-build-and-cfl-lines-but-why-so-many.md

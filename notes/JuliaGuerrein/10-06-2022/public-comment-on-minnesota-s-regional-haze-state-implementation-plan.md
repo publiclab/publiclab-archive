@@ -1,5 +1,5 @@
 ---
-title: Public Comment on Minnesota's Regional Haze State Implementation Plan
+title: 'Public Comment on Minnesota's Regional Haze State Implementation Plan'
 tagnames: air-quality, minnesota, haze, public-comment, lon:-90, lat:40, zoom:4, mn-land-manoomin-protection, regional-haze-state-implementation-plan, national-parks
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/10-06-2022/public-comment-on-minnesota-s-regional-haze-state-implementation-plan.md

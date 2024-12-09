@@ -1,5 +1,5 @@
 ---
-title: core microbolometer
+title: 'core microbolometer'
 tagnames: 
 author: therman
 path: /notes/therman/11-18-2014/core-microbolometer.md

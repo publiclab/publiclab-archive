@@ -1,5 +1,5 @@
 ---
-title: Spectrometer 3.0 Cuvette Add-on
+title: 'Spectrometer 3.0 Cuvette Add-on'
 tagnames: spectrometer, spectrometry, cuvette, thingiverse, activity:spectrometry, upgrade:dssk, add-on, upgrade, activity:3d-printing
 author: programmer1200
 path: /notes/programmer1200/11-25-2017/spectrometer-3-0-cuvette-add-on.md

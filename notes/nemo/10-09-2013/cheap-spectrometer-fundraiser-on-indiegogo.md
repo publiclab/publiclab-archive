@@ -1,5 +1,5 @@
 ---
-title: Cheap spectrometer fundraiser on indiegogo
+title: 'Cheap spectrometer fundraiser on indiegogo'
 tagnames: spectrometer
 author: nemo
 path: /notes/nemo/10-09-2013/cheap-spectrometer-fundraiser-on-indiegogo.md

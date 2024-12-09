@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping In Edgard, LA
+title: 'Balloon Mapping In Edgard, LA'
 tagnames: lat:30, lon:-90, zoom:9, wsjhsoil, mercuryinsoil
 author: scienceteacher7171
 path: /notes/scienceteacher7171/04-30-2021/balloon-mapping-in-edgard-la.md

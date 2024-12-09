@@ -1,5 +1,5 @@
 ---
-title: street lights
+title: 'street lights'
 tagnames: first-time-poster, zoom:16, zoom:17, lat:24.044, lon:-104.637
 author: sr71luis
 path: /notes/sr71luis/10-08-2021/street-lights.md

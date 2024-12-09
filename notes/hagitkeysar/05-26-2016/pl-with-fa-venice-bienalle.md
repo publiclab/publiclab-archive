@@ -1,5 +1,5 @@
 ---
-title: PL with FA @ Venice Bienalle
+title: 'PL with FA @ Venice Bienalle'
 tagnames: balloon-mapping, kite-mapping, 3d, brazil, blog, barnstar:basic, israel-palestine, forensic-architecture, venice-biennale
 author: hagitkeysar
 path: /notes/hagitkeysar/05-26-2016/pl-with-fa-venice-bienalle.md

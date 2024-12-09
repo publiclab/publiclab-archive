@@ -1,5 +1,5 @@
 ---
-title: Foldable Spectrometry Starter Kit
+title: 'Foldable Spectrometry Starter Kit'
 tagnames: spectrometer, kickstarter, spectrometry, fold-up-mini-spectrometer, how-to, kit, fold-up, guide, foldable, papercraft, parent:papercraft-spectrometer
 author: mathew
 path: /wiki/foldable-spec.md

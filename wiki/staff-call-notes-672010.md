@@ -1,5 +1,5 @@
 ---
-title: staff call notes 6-6-2011
+title: 'staff call notes 6-6-2011'
 tagnames: 
 author: gonzoearth
 path: /wiki/staff-call-notes-672010.md

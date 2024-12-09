@@ -1,5 +1,5 @@
 ---
-title: NIR Filter Switch Parts
+title: 'NIR Filter Switch Parts'
 tagnames: 
 author: danbeavers
 path: /notes/danbeavers/4-20-2013/nir-filter-switch-parts.md

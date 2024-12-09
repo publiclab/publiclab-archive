@@ -1,5 +1,5 @@
 ---
-title: Small kites for Mobius: Stowaway Delta 
+title: 'Small kites for Mobius: Stowaway Delta '
 tagnames: kap, infragram, gimp, infragram-point-shoot, mobius-action-cam, stowaway-delta
 author: patcoyle
 path: /notes/patcoyle/07-24-2015/small-kites-for-mobius-stowaway-delta.md

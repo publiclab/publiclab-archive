@@ -1,5 +1,5 @@
 ---
-title: Bayou St. John at Lake Pontchartrain
+title: 'Bayou St. John at Lake Pontchartrain'
 tagnames: gulf-coast, bsj
 author: liz
 path: /wiki/bayou-st-john-at-lake-pontchartrain.md

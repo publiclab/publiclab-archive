@@ -1,5 +1,5 @@
 ---
-title: parts needed for spectrometer
+title: 'parts needed for spectrometer'
 tagnames: question:question
 author: cpark09
 path: /notes/cpark09/03-14-2017/parts-needed-for-spectrometer.md

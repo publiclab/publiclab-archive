@@ -1,5 +1,5 @@
 ---
-title: Make stages for the Community Microscope Kit
+title: 'Make stages for the Community Microscope Kit'
 tagnames: spain, microscope, activity:microscope, community-microscope, activity:community-microscope-assembly, assembly:community-microscope, lasercut
 author: imvec
 path: /notes/imvec/11-10-2018/community-microscope-laser-cut-file.md

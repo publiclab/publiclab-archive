@@ -1,5 +1,5 @@
 ---
-title: west-virginia
+title: 'west-virginia'
 tagnames: parent:southeast
 author: liz
 path: /wiki/west-virginia.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab Providence has a PurpleAir
+title: 'Public Lab Providence has a PurpleAir'
 tagnames: providence, air-quality, pm, particulate-matter, air-sensors, purpleair, place:providence, purple-air, replication:17009, lat:41.809059, lon:-71.426406
 author: jiteovien
 path: /notes/jiteovien/08-28-2018/public-lab-providence-has-a-purpleair.md

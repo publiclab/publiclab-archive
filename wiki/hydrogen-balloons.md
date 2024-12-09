@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Balloons
+title: 'Hydrogen Balloons'
 tagnames: balloon-mapping, grassrootsmappingwiki, hydrogen, diy-balloon, nuvu
 author: warren
 path: /wiki/hydrogen-balloons.md

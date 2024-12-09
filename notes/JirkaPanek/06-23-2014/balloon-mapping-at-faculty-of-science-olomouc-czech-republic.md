@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping at Faculty of Science, Olomouc, Czech Republic
+title: 'Balloon Mapping at Faculty of Science, Olomouc, Czech Republic'
 tagnames: balloon-mapping, chdk, field, test
 author: JirkaPanek
 path: /notes/JirkaPanek/06-23-2014/balloon-mapping-at-faculty-of-science-olomouc-czech-republic.md

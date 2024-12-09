@@ -1,5 +1,5 @@
 ---
-title: Photos of building Coquis in Hong Kong
+title: 'Photos of building Coquis in Hong Kong'
 tagnames: hong-kong, open-water, coqui, china
 author: liz
 path: /notes/liz/02-09-2016/photos-of-building-coquis-in-hong-kong.md

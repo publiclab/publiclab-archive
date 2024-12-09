@@ -1,5 +1,5 @@
 ---
-title: WATER HACKATHON SERIES #1: BRAINSTORM SESSION
+title: 'WATER HACKATHON SERIES #1: BRAINSTORM SESSION'
 tagnames: gulf-coast, water-sensing, event, riffle, event:rsvp, propeller, date:11-18-2014
 author: eustatic
 path: /11-11-2014/water-hackathon-series-1-brainstorm-session.md

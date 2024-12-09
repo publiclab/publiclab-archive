@@ -1,5 +1,5 @@
 ---
-title: Laser Eye Safety!
+title: 'Laser Eye Safety!'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/02-15-2016/laser-eye-safety.md

@@ -1,5 +1,5 @@
 ---
-title: Spectrometer for analysing garden soil
+title: 'Spectrometer for analysing garden soil'
 tagnames: spectrometer, soil, spectrometer-calibration, garden, slit-width, spectrum-comparisons, nitrogen, phosphates, first-time-poster, project:water-quality, potash
 author: Guillaume123
 path: /notes/Guillaume123/01-21-2015/spectrometer-for-analysing-garden-soil.md

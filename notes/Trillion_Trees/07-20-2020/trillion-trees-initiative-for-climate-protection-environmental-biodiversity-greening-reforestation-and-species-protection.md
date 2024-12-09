@@ -1,5 +1,5 @@
 ---
-title: Trillion Trees Initiative for climate protection, environmental biodiversity, greening, reforestation and species protection
+title: 'Trillion Trees Initiative for climate protection, environmental biodiversity, greening, reforestation and species protection'
 tagnames: conservation, tree, environmental, wildlife, biodiversity, blog-submission, lat:50, lon:10, first-time-poster, environmentalism, reforestation, zoom:3, climate-crisis, climate-protection, greening, trillion-trees, species-protection, climate-adaption
 author: Trillion_Trees
 path: /notes/Trillion_Trees/07-20-2020/trillion-trees-initiative-for-climate-protection-environmental-biodiversity-greening-reforestation-and-species-protection.md

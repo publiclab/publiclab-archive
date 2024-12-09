@@ -1,5 +1,5 @@
 ---
-title: Grating angle
+title: 'Grating angle'
 tagnames: spectrometer, vermont, diffraction-grating, entrance-slit, ebert, focus, barnstar:empiricism, lego
 author: cfastie
 path: /notes/cfastie/2-5-2013/grating-angle.md

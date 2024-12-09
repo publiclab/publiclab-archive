@@ -1,5 +1,5 @@
 ---
-title: Raspberry PI NoIR close-up Imaging 
+title: 'Raspberry PI NoIR close-up Imaging '
 tagnames: near-infrared, raspberry-pi, gsoc, barnstar:basic, tool-focused, pi-camera, pinoir, soc, raspberry-pi-cameras, activity:microscope, gsoc-2018, soc-2018, activity:community-microscope, pi-microscope, series:community-microscope-tests, activity:community-microscope-usage
 author: MaggPi
 path: /notes/MaggPi/05-11-2018/raspberry-pi-noir-close-up-imaging.md

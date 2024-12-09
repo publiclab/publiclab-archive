@@ -1,5 +1,5 @@
 ---
-title: EcoHack is back, and this time it’s global! May 9th & 10th
+title: 'EcoHack is back, and this time it’s global! May 9th & 10th'
 tagnames: new-york-city, ecohack, norcal, event, brasil
 author: liz
 path: /notes/liz/03-19-2014/ecohack-is-back-and-this-time-it-s-global-may-9th-10th.md

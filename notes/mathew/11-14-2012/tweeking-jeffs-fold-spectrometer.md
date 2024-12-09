@@ -1,5 +1,5 @@
 ---
-title: Tweeking Jeff's fold-up Spectrometer
+title: 'Tweeking Jeff's fold-up Spectrometer'
 tagnames: spectrometer
 author: mathew
 path: /notes/mathew/11-14-2012/tweeking-jeffs-fold-spectrometer.md

@@ -1,5 +1,5 @@
 ---
-title: Private Drinking Water Well 
+title: 'Private Drinking Water Well '
 tagnames: microplastics, lat:22, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/04-04-2022/private-drinking-water-well.md

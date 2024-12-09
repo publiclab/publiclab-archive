@@ -1,5 +1,5 @@
 ---
-title: I am getting very low NDVI values.
+title: 'I am getting very low NDVI values.'
 tagnames: ndvi, agriculture, infragram, crops, aerial, question:ndvi, question:infragram, sugarcane, answered, imaging, hardware, pin:question:infragram-challenges
 author: Anice
 path: /notes/Anice/01-09-2019/i-am-getting-very-low-ndvi-values.md

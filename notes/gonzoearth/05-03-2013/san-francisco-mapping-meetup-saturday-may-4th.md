@@ -1,5 +1,5 @@
 ---
-title: San Francisco Mapping Meetup Saturday May 4th
+title: 'San Francisco Mapping Meetup Saturday May 4th'
 tagnames: meetup, norcal, california, event
 author: gonzoearth
 path: /notes/gonzoearth/05-03-2013/san-francisco-mapping-meetup-saturday-may-4th.md

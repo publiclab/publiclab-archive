@@ -1,5 +1,5 @@
 ---
-title: mapping curriculum publishing
+title: 'mapping curriculum publishing'
 tagnames: 
 author: gonzoearth
 path: /wiki/mapping-curriculum-publishing.md

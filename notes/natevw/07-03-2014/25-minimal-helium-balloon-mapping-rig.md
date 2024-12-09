@@ -1,5 +1,5 @@
 ---
-title: Make a $25 minimal-helium balloon mapping rig
+title: 'Make a $25 minimal-helium balloon mapping rig'
 tagnames: balloon-mapping, photo-rig, cheap, mobius, barnstar:basic, keychain-camera, low-cost, mini-balloon-kit, activity:balloon-mapping, activity:photo-rig, affordable, activity:mini-balloon-kit
 author: natevw
 path: /notes/natevw/07-03-2014/25-minimal-helium-balloon-mapping-rig.md

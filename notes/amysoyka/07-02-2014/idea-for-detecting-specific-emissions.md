@@ -1,5 +1,5 @@
 ---
-title: Idea For Detecting Specific Emissions.
+title: 'Idea For Detecting Specific Emissions.'
 tagnames: spectrometry, emission-spectroscopy, list:plots-spectrometry, emissions, gas
 author: amysoyka
 path: /notes/amysoyka/07-02-2014/idea-for-detecting-specific-emissions.md

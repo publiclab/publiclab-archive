@@ -1,5 +1,5 @@
 ---
-title: Question: 
+title: 'Question: '
 tagnames: question:near-infrared-camera
 author: juanquy
 path: /notes/juanquy/08-10-2015/question.md

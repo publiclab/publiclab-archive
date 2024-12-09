@@ -1,5 +1,5 @@
 ---
-title: Looking for open data resources to track public permitting processes. 
+title: 'Looking for open data resources to track public permitting processes. '
 tagnames: advocacy, permits, question:advocacy, question:legal, question:permitting, question:ordinances, ordinances, permitting, open-data, law-and-policy, question:law-and-policy
 author: kgradow1
 path: /notes/kgradow1/11-06-2017/looking-for-open-data-resources-to-track-public-permitting-processes.md

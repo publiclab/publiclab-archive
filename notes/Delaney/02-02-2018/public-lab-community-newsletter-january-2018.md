@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: January 2018
+title: 'Public Lab Community Newsletter: January 2018'
 tagnames: kite-mapping, water-quality, community-kits, open-hour, community-toolbox, diy-science, the-economist, indian-bayou
 author: Delaney
 path: /notes/Delaney/02-02-2018/public-lab-community-newsletter-january-2018.md

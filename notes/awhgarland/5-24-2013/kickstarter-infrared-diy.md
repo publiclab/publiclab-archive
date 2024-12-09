@@ -1,5 +1,5 @@
 ---
-title: Kickstarter Infrared DIY
+title: 'Kickstarter Infrared DIY'
 tagnames: 
 author: awhgarland
 path: /notes/awhgarland/5-24-2013/kickstarter-infrared-diy.md

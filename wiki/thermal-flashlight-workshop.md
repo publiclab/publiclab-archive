@@ -1,5 +1,5 @@
 ---
-title: Thermal flashlight workshop
+title: 'Thermal flashlight workshop'
 tagnames: 
 author: warren
 path: /wiki/thermal-flashlight-workshop.md

@@ -1,5 +1,5 @@
 ---
-title: El desagüe sospechoso en el río Suquía
+title: 'El desagüe sospechoso en el río Suquía'
 tagnames: sewage, water-quality, stormwater, lang:es, barnstar:photo-documentation, tampon, wastewater, south-america, zoom:15, research-curation-fellows, lat:-31.4, appear, bioindicators, lon:-64.2
 author: alejobonifacio
 path: /notes/alejobonifacio/10-13-2021/el-desague-sospechoso-en-el-rio-suquia.md

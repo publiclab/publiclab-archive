@@ -1,5 +1,5 @@
 ---
-title: brainstorming the significance of air quality
+title: 'brainstorming the significance of air quality'
 tagnames: new-york-city, chaq, air-quality, air-quality-egg
 author: liz
 path: /notes/liz/3-19-2013/brainstorming-significance-air-quality.md

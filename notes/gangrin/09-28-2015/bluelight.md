@@ -1,5 +1,5 @@
 ---
-title: Bluelight
+title: 'Bluelight'
 tagnames: event, event:rsvp, date:09-28-2015
 author: gangrin
 path: /notes/gangrin/09-28-2015/bluelight.md

@@ -1,5 +1,5 @@
 ---
-title: Bad NDVI Results from Pi NOIR with Blue Filter
+title: 'Bad NDVI Results from Pi NOIR with Blue Filter'
 tagnames: ndvi, raspberry-pi, infragram, infrablue, pi, question:infragram, rpi, raspberry, white, balance, noir, first-time-poster, ndvi-white-balance, infrapi
 author: nstarli
 path: /notes/nstarli/10-08-2019/bad-ndvi-results-from-pi-noir-with-blue-filter.md

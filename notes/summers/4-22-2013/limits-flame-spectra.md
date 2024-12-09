@@ -1,5 +1,5 @@
 ---
-title: Limits on Flame Spectra
+title: 'Limits on Flame Spectra'
 tagnames: flame-spectroscopy, spectralchallenge, flare
 author: Summers
 path: /notes/summers/4-22-2013/limits-flame-spectra.md

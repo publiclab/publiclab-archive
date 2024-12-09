@@ -1,5 +1,5 @@
 ---
-title: Vape detector
+title: 'Vape detector'
 tagnames: air-quality, question:air-quality, question:general, general, purpleair, question:purpleair, purple-air, first-time-poster, question:purple-air
 author: Ryanwest
 path: /notes/Ryanwest/12-10-2019/vape-detector.md

@@ -1,5 +1,5 @@
 ---
-title: reflect-and-look-ahead
+title: 'reflect-and-look-ahead'
 tagnames: parent:gardening-toolkit, gardening-toolkit
 author: liz
 path: /wiki/reflect-and-look-ahead.md

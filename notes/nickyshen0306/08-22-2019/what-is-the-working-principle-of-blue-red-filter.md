@@ -1,5 +1,5 @@
 ---
-title: What is the working principle of Blue/Red filter
+title: 'What is the working principle of Blue/Red filter'
 tagnames: ndvi, infragram, question:ndvi, question:infragram, question:infrared, first-time-poster, pin:question:infragram-challenges
 author: nickyshen0306
 path: /notes/nickyshen0306/08-22-2019/what-is-the-working-principle-of-blue-red-filter.md

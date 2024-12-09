@@ -1,5 +1,5 @@
 ---
-title: Distributed web + Data Together meetup today 4pm in NYC
+title: 'Distributed web + Data Together meetup today 4pm in NYC'
 tagnames: events:new-york-city, data-together
 author: liz
 path: /notes/liz/12-15-2017/distributed-web-data-together-meetup-today-4pm-in-nyc.md

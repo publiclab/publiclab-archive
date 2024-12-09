@@ -1,5 +1,5 @@
 ---
-title: Do you know of environmental justice applications of remote sensing data?
+title: 'Do you know of environmental justice applications of remote sensing data?'
 tagnames: question:question, question:general, question:remote-sensing, question:satellite-imagery
 author: gretchengehrke
 path: /notes/gretchengehrke/07-10-2017/do-you-know-of-environmental-justice-applications-of-remote-sensing-data.md

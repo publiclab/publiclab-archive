@@ -1,5 +1,5 @@
 ---
-title: A more compact spectrometer
+title: 'A more compact spectrometer'
 tagnames: spectrometer, spectrometry, italy, diy-spectrometer, webvalley, upgrade:spectrometry, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, first-time-poster
 author: cristoforetti
 path: /notes/cristoforetti/05-13-2016/a-more-compact-spectrometer.md

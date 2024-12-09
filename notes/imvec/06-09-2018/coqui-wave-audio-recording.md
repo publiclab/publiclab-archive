@@ -1,5 +1,5 @@
 ---
-title: Coqui wave audio recording
+title: 'Coqui wave audio recording'
 tagnames: water, coqui, gaimec, water-conductivity, activity:coqui-usage
 author: imvec
 path: /notes/imvec/06-09-2018/coqui-wave-audio-recording.md

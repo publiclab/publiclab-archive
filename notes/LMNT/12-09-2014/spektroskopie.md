@@ -1,5 +1,5 @@
 ---
-title: Spektroskopie 
+title: 'Spektroskopie '
 tagnames: 
 author: LMNT
 path: /notes/LMNT/12-09-2014/spektroskopie.md

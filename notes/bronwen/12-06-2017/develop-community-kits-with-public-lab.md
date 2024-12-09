@@ -1,5 +1,5 @@
 ---
-title: Develop Community Kits with Public Lab!
+title: 'Develop Community Kits with Public Lab!'
 tagnames: open-hardware, kits, store, kits-initiative, open_source_hardware, open-open-hardware, prototyping-kits
 author: Bronwen
 path: /notes/bronwen/12-06-2017/develop-community-kits-with-public-lab.md

@@ -1,5 +1,5 @@
 ---
-title: Oil Terminal Monitoring - Newburgh (NY)
+title: 'Oil Terminal Monitoring - Newburgh (NY)'
 tagnames: new-york, oil, tar-sands, bakken, oil-testing-kit, tar, valley, hudson, newburgh, sands, hudson-valley, first-time-poster
 author: joshuaflux
 path: /notes/joshuaflux/09-08-2014/oil-terminal-monitoring-newburgh-ny.md

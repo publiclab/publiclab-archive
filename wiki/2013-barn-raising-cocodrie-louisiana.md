@@ -1,5 +1,5 @@
 ---
-title: 2013 Barn Raising: Cocodrie, Louisiana
+title: '2013 Barn Raising: Cocodrie, Louisiana'
 tagnames: louisiana, barnraising
 author: Shannon
 path: /wiki/2013-barn-raising-cocodrie-louisiana.md

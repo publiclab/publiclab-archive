@@ -1,5 +1,5 @@
 ---
-title: Public Lab community growth, Dec 2010-Aug 2013
+title: 'Public Lab community growth, Dec 2010-Aug 2013'
 tagnames: community, website, statistics, evaluation
 author: warren
 path: /notes/warren/08-13-2013/public-lab-community-growth-dec-2010-aug-2013.md

@@ -1,5 +1,5 @@
 ---
-title: Strembot
+title: 'Strembot'
 tagnames: pvos, water-quality, water-monitoring, water-quality-sensor, tool, riffle
 author: flint
 path: /notes/flint/03-08-2014/strembot.md

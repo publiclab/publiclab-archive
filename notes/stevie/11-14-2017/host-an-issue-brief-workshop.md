@@ -1,5 +1,5 @@
 ---
-title: Workshop: Explore Issue Briefs with others 
+title: 'Workshop: Explore Issue Briefs with others '
 tagnames: organizing, barnstar:basic, facilitation, getting-started, community-organizing, issue-brief, activity:community-organizing, activity:issue-brief, activity:organizing
 author: stevie
 path: /notes/stevie/11-14-2017/host-an-issue-brief-workshop.md

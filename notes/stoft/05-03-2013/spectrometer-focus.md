@@ -1,5 +1,5 @@
 ---
-title: Spectrometer focus
+title: 'Spectrometer focus'
 tagnames: spectrometer, desktop-spectrometry-kit, slit, improvements, focus, first-time-poster
 author: stoft
 path: /notes/stoft/05-03-2013/spectrometer-focus.md

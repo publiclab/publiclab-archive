@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Bayou Casotte on a calm, sunny day
+title: 'MapKnitter map of Bayou Casotte on a calm, sunny day'
 tagnames: gulf-coast, mapknitter, mississippi, gulf-restoration-network, water, lat:30.3548447, lon:-88.5125205, pascagoula
 author: eustatic
 path: /11-14-2017/mapknitter-map-of-bayou-casotte-on-a-calm-sunny-day.md

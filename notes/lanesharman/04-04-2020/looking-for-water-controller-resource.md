@@ -1,5 +1,5 @@
 ---
-title: Looking for water controller resource 
+title: 'Looking for water controller resource '
 tagnames: water-quality, question:water-quality, first-time-poster, controller
 author: lanesharman
 path: /notes/lanesharman/04-04-2020/looking-for-water-controller-resource.md

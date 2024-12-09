@@ -1,5 +1,5 @@
 ---
-title: Smartphone spectrometer
+title: 'Smartphone spectrometer'
 tagnames: spectrometer, smartphone-spectrometer, instructions, parent:spectrometer, foldable, foldable-spectrometer
 author: warren
 path: /wiki/smartphone-spectrometer.md

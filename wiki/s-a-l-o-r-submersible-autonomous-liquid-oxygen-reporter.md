@@ -1,5 +1,5 @@
 ---
-title: S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)
+title: 'S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)'
 tagnames: open-source, open-hardware, conservation, openhardware, opensource, umass, umass-amherst, dissolved-oxygen, amherst-media, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, amherstcollege
 author: dsmoliga
 path: /wiki/s-a-l-o-r-submersible-autonomous-liquid-oxygen-reporter.md

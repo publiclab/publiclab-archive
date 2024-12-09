@@ -1,5 +1,5 @@
 ---
-title: Scanning spectrometry video test
+title: 'Scanning spectrometry video test'
 tagnames: 
 author: warren
 path: /notes/warren/12-9-2010/scanning-spectrometry-video-test.md

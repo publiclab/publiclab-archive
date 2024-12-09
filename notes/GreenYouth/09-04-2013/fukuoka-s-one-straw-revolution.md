@@ -1,5 +1,5 @@
 ---
-title: Fukuoka's One Straw Revolution
+title: 'Fukuoka's One Straw Revolution'
 tagnames: farming, agriculture, urban-ag, naturalfarming, onestrawrevolution, vietnam, green-youth-collective, asia
 author: GreenYouth
 path: /notes/GreenYouth/09-04-2013/fukuoka-s-one-straw-revolution.md

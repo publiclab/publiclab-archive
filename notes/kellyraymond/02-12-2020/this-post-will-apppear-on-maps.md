@@ -1,5 +1,5 @@
 ---
-title: This post will apppear on maps
+title: 'This post will apppear on maps'
 tagnames: hidden:response, first-time-poster, lat:41.7, zoom:11, lon:-71.5, zoom:10, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-12-2020/this-post-will-apppear-on-maps.md

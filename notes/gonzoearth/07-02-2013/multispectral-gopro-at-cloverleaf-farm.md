@@ -1,5 +1,5 @@
 ---
-title: Multispectral GoPro at Cloverleaf Farmstand
+title: 'Multispectral GoPro at Cloverleaf Farmstand'
 tagnames: near-infrared-camera, kite-mapping, ndvi, agriculture, infragram, gopro, gopro-ag, mini-camera, activity:mini-camera
 author: gonzoearth
 path: /notes/gonzoearth/07-02-2013/multispectral-gopro-at-cloverleaf-farm.md

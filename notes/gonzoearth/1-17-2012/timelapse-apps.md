@@ -1,5 +1,5 @@
 ---
-title: Timelapse Apps
+title: 'Timelapse Apps'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/1-17-2012/timelapse-apps.md

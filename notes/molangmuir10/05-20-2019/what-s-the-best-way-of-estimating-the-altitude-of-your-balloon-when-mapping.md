@@ -1,5 +1,5 @@
 ---
-title: What's the best way of estimating the altitude of your balloon when mapping?
+title: 'What's the best way of estimating the altitude of your balloon when mapping?'
 tagnames: balloon-mapping, kite-mapping, question:balloon-mapping, question:general, question:kite-mapping
 author: molangmuir10
 path: /notes/molangmuir10/05-20-2019/what-s-the-best-way-of-estimating-the-altitude-of-your-balloon-when-mapping.md

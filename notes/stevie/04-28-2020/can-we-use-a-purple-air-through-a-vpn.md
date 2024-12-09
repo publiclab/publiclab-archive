@@ -1,5 +1,5 @@
 ---
-title: Can we use a Purple Air through a VPN? 
+title: 'Can we use a Purple Air through a VPN? '
 tagnames: air-quality, pm, question:air-quality, question:pm, question:general, general, particulate-matter, wifi, purple-air, vpn, question:purple-air, question:vpn, question:wifi, anonymous, question:anonymous
 author: stevie
 path: /notes/stevie/04-28-2020/can-we-use-a-purple-air-through-a-vpn.md

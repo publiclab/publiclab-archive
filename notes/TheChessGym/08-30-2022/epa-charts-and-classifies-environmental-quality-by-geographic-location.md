@@ -1,5 +1,5 @@
 ---
-title: EPA Charts and Classifies Environmental Quality By Geographic Location
+title: 'EPA Charts and Classifies Environmental Quality By Geographic Location'
 tagnames: first-time-poster, lat:20, lon:70, zoom:5
 author: TheChessGym
 path: /notes/TheChessGym/08-30-2022/epa-charts-and-classifies-environmental-quality-by-geographic-location.md

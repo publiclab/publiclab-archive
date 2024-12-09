@@ -1,5 +1,5 @@
 ---
-title: Public Lab Tote Bags just in!
+title: 'Public Lab Tote Bags just in!'
 tagnames: sustaining-members
 author: Becki
 path: /notes/Becki/12-18-2015/public-lab-tote-bags-just-in.md

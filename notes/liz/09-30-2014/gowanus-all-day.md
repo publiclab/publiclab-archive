@@ -1,5 +1,5 @@
 ---
-title: Gowanus All Day
+title: 'Gowanus All Day'
 tagnames: new-york-city, gowanus, gowanus-canal, glam, northeast, gcc, with:natasia, with:yvv, with:eymund, with:jennmanta, with:p_silva_82
 author: liz
 path: /notes/liz/09-30-2014/gowanus-all-day.md

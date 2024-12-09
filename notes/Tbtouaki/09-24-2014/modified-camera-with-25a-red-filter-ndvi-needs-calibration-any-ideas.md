@@ -1,5 +1,5 @@
 ---
-title: Modified camera with 25A red filter - NDVI needs calibration- Any Ideas?
+title: 'Modified camera with 25A red filter - NDVI needs calibration- Any Ideas?'
 tagnames: balloon-mapping, near-infrared-camera, ndvi, infrared, infragram, super-red, question:infragram, question:white-balance
 author: Tbtouaki
 path: /notes/Tbtouaki/09-24-2014/modified-camera-with-25a-red-filter-ndvi-needs-calibration-any-ideas.md

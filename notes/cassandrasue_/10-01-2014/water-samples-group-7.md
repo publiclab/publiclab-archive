@@ -1,5 +1,5 @@
 ---
-title: Water Samples Group 7 
+title: 'Water Samples Group 7 '
 tagnames: 
 author: cassandrasue_
 path: /notes/cassandrasue_/10-01-2014/water-samples-group-7.md

@@ -1,5 +1,5 @@
 ---
-title: Reverse Engineering (a hands-on STEM activity)
+title: 'Reverse Engineering (a hands-on STEM activity)'
 tagnames: education, youth, outreach, kidcom, stem, engineering, activity:reverse-engineering, activity:kidcom, activity:session-ideas
 author: SuziT9
 path: /notes/SuziT9/04-16-2018/reverse-engineering-a-hands-on-stem-activity.md

@@ -1,5 +1,5 @@
 ---
-title: Report back on Creative Commons Sensor licensing workshop
+title: 'Report back on Creative Commons Sensor licensing workshop'
 tagnames: new-york-city, open-source, licensing, event, sensors, licenses, creativecommons, sensor-networks
 author: liz
 path: /notes/liz/10-22-2014/report-back-on-creative-commons-sensor-licensing-workshop.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Annotations: Textbox Rotation using CSS Transforms
+title: 'MapKnitter Annotations: Textbox Rotation using CSS Transforms'
 tagnames: mapknitter, gsoc, leaflet, gsoc-2014, map-annotations, leaflet.illustrate
 author: justinmanley
 path: /notes/justinmanley/07-02-2014/mapknitter-annotations-textbox-rotation-using-css-transforms.md

@@ -1,5 +1,5 @@
 ---
-title: Overview: Hackteria Remix: Building a Basic Microscope with Raspberry Pi
+title: 'Overview: Hackteria Remix: Building a Basic Microscope with Raspberry Pi'
 tagnames: raspberry-pi, dust, pm, barnstar:basic, hackteria, with:kgradow1, with:warren, microscope, passive-particle-monitors, microscopes, activity:microscopes, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope
 author: partsandcrafts
 path: /notes/partsandcrafts/11-26-2017/building-a-raspberry-pi-microscope.md

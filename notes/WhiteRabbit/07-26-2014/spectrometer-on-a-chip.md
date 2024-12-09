@@ -1,5 +1,5 @@
 ---
-title: Spectrometer on a chip
+title: 'Spectrometer on a chip'
 tagnames: spectrometer, chip
 author: WhiteRabbit
 path: /notes/WhiteRabbit/07-26-2014/spectrometer-on-a-chip.md

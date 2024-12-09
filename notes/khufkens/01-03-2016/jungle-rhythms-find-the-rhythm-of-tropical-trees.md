@@ -1,5 +1,5 @@
 ---
-title: Jungle Rhythms - find the rhythm of tropical trees
+title: 'Jungle Rhythms - find the rhythm of tropical trees'
 tagnames: forest, science, data, phenology, citizen, tropical, recovery
 author: khufkens
 path: /notes/khufkens/01-03-2016/jungle-rhythms-find-the-rhythm-of-tropical-trees.md

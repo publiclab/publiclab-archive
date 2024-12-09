@@ -1,5 +1,5 @@
 ---
-title: Smartphone spectrometer molded samples have arrived!
+title: 'Smartphone spectrometer molded samples have arrived!'
 tagnames: spectrometer, iphone, kickstarter, molding, smartphone-spectrometer, prototype
 author: warren
 path: /notes/warren/08-20-2013/smartphone-spectrometer-molded-samples-have-arrived.md

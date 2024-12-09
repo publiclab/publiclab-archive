@@ -1,5 +1,5 @@
 ---
-title: Range of Tiny Remote
+title: 'Range of Tiny Remote'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, triggering, photo-rig, replication:1746
 author: cfastie
 path: /notes/cfastie/5-21-2012/range-tiny-remote.md

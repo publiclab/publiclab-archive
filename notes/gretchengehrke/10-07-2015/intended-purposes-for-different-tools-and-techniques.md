@@ -1,5 +1,5 @@
 ---
-title: Intended Purposes for Different Tools and Techniques
+title: 'Intended Purposes for Different Tools and Techniques'
 tagnames: evidence, standards, data, evaluation, barnstar:basic, with:shannon, with:warren, with:donblair, certification
 author: gretchengehrke
 path: /notes/gretchengehrke/10-07-2015/intended-purposes-for-different-tools-and-techniques.md

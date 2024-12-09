@@ -1,5 +1,5 @@
 ---
-title: Kite Fisheye Photos of Bayou St John restoration
+title: 'Kite Fisheye Photos of Bayou St John restoration'
 tagnames: gulf-coast, kite-mapping, wetlands, wetland, dredge-reuse, fisheye, gopro, dredgefestla, bsj, wide-angle, wifi-camera, mini-camera, activity:mini-camera
 author: eustatic
 path: /01-07-2014/kite-fisheye-photos-of-bayou-st-john-restoration.md

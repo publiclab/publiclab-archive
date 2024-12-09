@@ -1,5 +1,5 @@
 ---
-title: Alternative solar materials
+title: 'Alternative solar materials'
 tagnames: 
 author: warren
 path: /wiki/alternative-solar-materials.md

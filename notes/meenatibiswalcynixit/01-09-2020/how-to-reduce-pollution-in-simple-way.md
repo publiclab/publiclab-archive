@@ -1,5 +1,5 @@
 ---
-title: How to reduce pollution in simple way?
+title: 'How to reduce pollution in simple way?'
 tagnames: pollution, weather, question:general, general, first-time-poster
 author: meenatibiswalcynixit
 path: /notes/meenatibiswalcynixit/01-09-2020/how-to-reduce-pollution-in-simple-way.md

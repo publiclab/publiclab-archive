@@ -1,5 +1,5 @@
 ---
-title: Riverside Cemetery
+title: 'Riverside Cemetery'
 tagnames: western-north-carolina, balloon-mapping, asheville, leaflet, bootstrap, western-carolina-university, first-time-poster
 author: cwhite
 path: /notes/cwhite/06-03-2013/riverside-cemetery.md

@@ -1,5 +1,5 @@
 ---
-title: IRCam compact wiring prototype
+title: 'IRCam compact wiring prototype'
 tagnames: near-infrared-camera, ircam
 author: warren
 path: /notes/warren/2-19-2013/ircam-compact-wiring-prototype.md

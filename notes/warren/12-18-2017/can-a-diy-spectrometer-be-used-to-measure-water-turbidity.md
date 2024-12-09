@@ -1,5 +1,5 @@
 ---
-title: Can a DIY spectrometer be used to measure water turbidity?
+title: 'Can a DIY spectrometer be used to measure water turbidity?'
 tagnames: spectrometry, beers-law, turbidity, question:spectrometry, answered, opacity, question:turbidity, question:spectrometry-challenge, question:beers-law, question:lego-spectrometer, question:lego-spectrometer-challenge
 author: warren
 path: /notes/warren/12-18-2017/can-a-diy-spectrometer-be-used-to-measure-water-turbidity.md

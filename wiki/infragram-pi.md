@@ -1,5 +1,5 @@
 ---
-title: Infragram Pi
+title: 'Infragram Pi'
 tagnames: redirect:raspberry-pi-infragram
 author: warren
 path: /wiki/infragram-pi.md

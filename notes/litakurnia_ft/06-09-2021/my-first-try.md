@@ -1,5 +1,5 @@
 ---
-title: my first try
+title: 'my first try'
 tagnames: infragram, multispectral-imaging, first-time-poster, infragram-upload
 author: litakurnia_ft
 path: /notes/litakurnia_ft/06-09-2021/my-first-try.md

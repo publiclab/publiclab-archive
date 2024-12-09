@@ -1,5 +1,5 @@
 ---
-title: KnowFlow
+title: 'KnowFlow'
 tagnames: water-quality-monitoring, water-quality, water-quality-sensor, tool, knowflow, parent:data-logging, project:water-quality
 author: shanlter
 path: /wiki/knowflow.md

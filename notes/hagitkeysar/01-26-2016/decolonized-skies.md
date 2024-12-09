@@ -1,5 +1,5 @@
 ---
-title: Decolonized Skies
+title: 'Decolonized Skies'
 tagnames: balloon-mapping, jerusalem, israel, palestine, exhibition
 author: hagitkeysar
 path: /notes/hagitkeysar/01-26-2016/decolonized-skies.md

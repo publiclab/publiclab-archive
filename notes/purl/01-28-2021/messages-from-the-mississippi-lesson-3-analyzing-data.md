@@ -1,5 +1,5 @@
 ---
-title: Messages From the Mississippi Lesson 3: Analyzing Data
+title: 'Messages From the Mississippi Lesson 3: Analyzing Data'
 tagnames: microplastics, babylegs, messagesfromthemississippi, lesson-community-microscope
 author: purl
 path: /notes/purl/01-28-2021/messages-from-the-mississippi-lesson-3-analyzing-data.md

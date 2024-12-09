@@ -1,5 +1,5 @@
 ---
-title: open-water-kickstarter
+title: 'open-water-kickstarter'
 tagnames: 
 author: donblair
 path: /wiki/open-water-kickstarter.md

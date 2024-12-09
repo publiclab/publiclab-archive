@@ -1,5 +1,5 @@
 ---
-title: wheetrometer
+title: 'wheetrometer'
 tagnames: 
 author: liz
 path: /wiki/wheetrometer.md

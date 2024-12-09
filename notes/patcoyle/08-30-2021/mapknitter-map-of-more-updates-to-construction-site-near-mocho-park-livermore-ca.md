@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of more updates to construction site near Mocho Park Livermore CA
+title: 'MapKnitter map of more updates to construction site near Mocho Park Livermore CA'
 tagnames: mapknitter, zoom:16, lat:37.673027255, lon:-121.780431834, lat:37.673027, lon:-121.780431
 author: patcoyle
 path: /notes/patcoyle/08-30-2021/mapknitter-map-of-more-updates-to-construction-site-near-mocho-park-livermore-ca.md

@@ -1,5 +1,5 @@
 ---
-title: Interview: Yvette Arellano
+title: 'Interview: Yvette Arellano'
 tagnames: gulf-coast, interview, blog, grassroots, texas, environmental-justice, community-organizing, interview-series, harvey, houston, tejas, hurricane-harvey, series:community-interviews
 author: stevie
 path: /notes/stevie/10-16-2017/interview-yvette-arellano.md

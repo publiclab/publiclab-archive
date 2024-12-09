@@ -1,5 +1,5 @@
 ---
-title: Earth and Sky
+title: 'Earth and Sky'
 tagnames: kite-aerial-photography, alaska, kap, autokap, kaptery, saturnv, skyshield, half-spherical, response:12032
 author: cfastie
 path: /notes/cfastie/07-12-2015/earth-and-sky.md

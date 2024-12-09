@@ -1,5 +1,5 @@
 ---
-title: XbeePal ready for monitoring
+title: 'XbeePal ready for monitoring'
 tagnames: air-quality, fracking, mesh, xbee, zigbee, network
 author: claf
 path: /notes/claf/04-05-2015/xbeepal-ready-for-monitoring.md

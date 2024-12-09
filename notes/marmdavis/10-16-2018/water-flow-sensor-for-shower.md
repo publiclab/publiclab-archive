@@ -1,5 +1,5 @@
 ---
-title: Water flow sensor for shower?
+title: 'Water flow sensor for shower?'
 tagnames: question, logger, water-sensors, water-sensor, shower-timer
 author: marmdavis
 path: /notes/marmdavis/10-16-2018/water-flow-sensor-for-shower.md

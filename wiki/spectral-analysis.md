@@ -1,5 +1,5 @@
 ---
-title: Spectral analysis
+title: 'Spectral analysis'
 tagnames: spectrometer, spectrometry, methodologies, location:blurred, lat:-32, zoom:7, place:argentina, lon:-64
 author: warren
 path: /wiki/spectral-analysis.md

@@ -1,5 +1,5 @@
 ---
-title: Mapknitter: Correcting lens distortion
+title: 'Mapknitter: Correcting lens distortion'
 tagnames: redirect:15086
 author: warren
 path: /wiki/mapknittercorrecting-lens-distortion.md

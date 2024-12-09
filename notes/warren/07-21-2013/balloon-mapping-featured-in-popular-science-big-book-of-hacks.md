@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping featured in Popular Science "Big Book of Hacks"
+title: 'Balloon Mapping featured in Popular Science "Big Book of Hacks"'
 tagnames: balloon-mapping, media, popular-science, book, hacks, attribution, contributing
 author: warren
 path: /notes/warren/07-21-2013/balloon-mapping-featured-in-popular-science-big-book-of-hacks.md

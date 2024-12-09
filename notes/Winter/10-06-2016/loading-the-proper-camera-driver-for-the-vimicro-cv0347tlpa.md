@@ -1,5 +1,5 @@
 ---
-title: loading the proper camera driver for the DSK webcam
+title: 'loading the proper camera driver for the DSK webcam'
 tagnames: webcam, dsk, infragram, camera, question:infragram, question:infrared, driver, question:infragram-webcam
 author: Winter
 path: /notes/Winter/10-06-2016/loading-the-proper-camera-driver-for-the-vimicro-cv0347tlpa.md

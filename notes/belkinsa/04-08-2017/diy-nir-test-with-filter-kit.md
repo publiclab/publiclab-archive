@@ -1,5 +1,5 @@
 ---
-title: DIY NIR Test with Filter Kit #1
+title: 'DIY NIR Test with Filter Kit #1'
 tagnames: nir, infragram, first-time-poster
 author: belkinsa
 path: /notes/belkinsa/04-08-2017/diy-nir-test-with-filter-kit.md

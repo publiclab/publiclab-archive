@@ -1,5 +1,5 @@
 ---
-title: GeoPhilly Balloon Mapping Workshop - April 22nd, 2015
+title: 'GeoPhilly Balloon Mapping Workshop - April 22nd, 2015'
 tagnames: balloon-mapping, philadelphia, event, new-jersey
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/02-15-2015/geophilly-balloon-mapping-workshop-april-22nd-2015.md

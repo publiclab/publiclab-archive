@@ -1,5 +1,5 @@
 ---
-title: Successful Calibration of the papercraft spectrometer
+title: 'Successful Calibration of the papercraft spectrometer'
 tagnames: spectrometer, guide, cross-section, replication:13410, foldable-spec, papercraft-spec
 author: scottkmcrae
 path: /notes/scottkmcrae/01-06-2018/successful-calibration-of-the-papercraft-spectrometer.md

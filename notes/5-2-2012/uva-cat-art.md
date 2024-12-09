@@ -1,5 +1,5 @@
 ---
-title: uva-cat-art
+title: 'uva-cat-art'
 tagnames: 
 author: 
 path: /notes/5-2-2012/uva-cat-art.md

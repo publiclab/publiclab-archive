@@ -1,5 +1,5 @@
 ---
-title: GroundWorksNOLA youth presenting at Barnraising 2015
+title: 'GroundWorksNOLA youth presenting at Barnraising 2015'
 tagnames: barnraising-2015
 author: liz
 path: /notes/liz/11-28-2015/greenworksnola-youth-presenting-at-barnraising-2015.md

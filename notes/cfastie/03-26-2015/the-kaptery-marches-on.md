@@ -1,5 +1,5 @@
 ---
-title: The KAPtery marches on
+title: 'The KAPtery marches on'
 tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery
 author: cfastie
 path: /notes/cfastie/03-26-2015/the-kaptery-marches-on.md

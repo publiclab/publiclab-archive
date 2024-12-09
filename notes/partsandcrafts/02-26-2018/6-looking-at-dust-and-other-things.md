@@ -1,5 +1,5 @@
 ---
-title: 6.  Looking at Dust (and other things)
+title: '6.  Looking at Dust (and other things)'
 tagnames: raspberry-pi, with:kgradow1, with:warren, microscope, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope, raspberry-pi-camera
 author: partsandcrafts
 path: /notes/partsandcrafts/02-26-2018/6-looking-at-dust-and-other-things.md

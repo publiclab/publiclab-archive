@@ -1,5 +1,5 @@
 ---
-title: Mobile Spectrometer Design Update
+title: 'Mobile Spectrometer Design Update'
 tagnames: spectrometer, mobile, backpack-spectrometer, backpack, mobile-spectrometer
 author: BradDudenhoffer
 path: /notes/braddudenhoffer/2-23-2013/mobile-spectrometer-design-update.md

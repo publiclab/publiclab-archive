@@ -1,5 +1,5 @@
 ---
-title: Collaboratively document an event with a mini newspaper
+title: 'Collaboratively document an event with a mini newspaper'
 tagnames: documentation, barnraising, facilitation, doccom, barnraiser, the-barnraiser, activity:barnraiser, activity:documentation, activity:barnraising, activity:doccom, activity:during-barnraising, 15124, activity:facilitation, activities:during-barnraising
 author: warren
 path: /notes/warren/03-20-2018/collaboratively-document-an-event-with-a-mini-newspaper.md

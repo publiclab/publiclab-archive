@@ -1,5 +1,5 @@
 ---
-title: GIS and balloon mapping at UK
+title: 'GIS and balloon mapping at UK'
 tagnames: 
 author: jeremy
 path: /notes/jeremy/1-10-2012/gis-and-balloon-mapping-uk.md

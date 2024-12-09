@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit internship posting: Environmental Kit Prototyping Intern
+title: 'Public Lab nonprofit internship posting: Environmental Kit Prototyping Intern'
 tagnames: kits, nonprofit, jobs, autodesk, prototyping-kits
 author: Delaney
 path: /notes/Delaney/02-14-2018/public-lab-nonprofit-internship-posting-environmental-kit-prototyping-intern.md

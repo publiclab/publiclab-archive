@@ -1,5 +1,5 @@
 ---
-title: sandbox-education-landing-page
+title: 'sandbox-education-landing-page'
 tagnames: 
 author: mimiss
 path: /wiki/sandbox-education-landing-page.md

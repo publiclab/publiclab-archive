@@ -1,5 +1,5 @@
 ---
-title: Mapping dust hotspots with low-cost monitors
+title: 'Mapping dust hotspots with low-cost monitors'
 tagnames: air-quality, frac-sand, pm, particles, particle-sensing, particle-monitoring, passive-particle-monitors, passive-pm, parent:frac-sand, pm-monitoring, seeks:replications, activity:pm, hotspot-monitoring, activity:site-survey, hot-spots
 author: mathew
 path: /notes/mathew/04-06-2016/mapping-dust-hotspots-with-low-cost-monitors.md

@@ -1,5 +1,5 @@
 ---
-title: jobs
+title: 'jobs'
 tagnames: 
 author: liz
 path: /wiki/jobs.md

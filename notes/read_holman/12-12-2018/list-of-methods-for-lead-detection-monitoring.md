@@ -1,5 +1,5 @@
 ---
-title: Chemical/Analytical Methods Used When Testing for Lead
+title: 'Chemical/Analytical Methods Used When Testing for Lead'
 tagnames: diy, testing, water-quality, lead, hardware, existing, paints
 author: read_holman
 path: /notes/read_holman/12-12-2018/list-of-methods-for-lead-detection-monitoring.md

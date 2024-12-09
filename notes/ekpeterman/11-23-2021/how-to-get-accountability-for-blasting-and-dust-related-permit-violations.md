@@ -1,5 +1,5 @@
 ---
-title: How to get accountability for blasting and dust related permit violations? 
+title: 'How to get accountability for blasting and dust related permit violations? '
 tagnames: coal-mining, epa, organizing, air-quality, mountaintop-removal, mining, coal, silica, advocacy, mmmp, question:mmmp
 author: ekpeterman
 path: /notes/ekpeterman/11-23-2021/how-to-get-accountability-for-blasting-and-dust-related-permit-violations.md

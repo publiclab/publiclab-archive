@@ -1,5 +1,5 @@
 ---
-title: Public Lab and UC-Davis partner to explore community science and civic engagement
+title: 'Public Lab and UC-Davis partner to explore community science and civic engagement'
 tagnames: non-profit, grants, moore-foundation, moore
 author: Shannon
 path: /notes/Shannon/01-18-2017/public-lab-and-uc-davis-partner-to-explore-community-science-and-civic-engagement.md

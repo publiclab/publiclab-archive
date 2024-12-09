@@ -1,5 +1,5 @@
 ---
-title: Workshop Series on Practical use of the Public Lab kit at the MboaLab
+title: 'Workshop Series on Practical use of the Public Lab kit at the MboaLab'
 tagnames: spectrometer, education, kits, workshops, water-quality, kenya, africa, hardware, community-microscope, make, cameroon, with:thomasmboa, mboalab
 author: Bronwen
 path: /notes/Bronwen/12-12-2019/workshop-series-on-practical-use-of-the-public-lab-kit-at-the-mboalab.md

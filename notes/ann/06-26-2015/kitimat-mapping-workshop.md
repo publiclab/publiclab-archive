@@ -1,5 +1,5 @@
 ---
-title: Kitimat Mapping Workshop
+title: 'Kitimat Mapping Workshop'
 tagnames: event, event:rsvp, northwest, date:07-26-2015, rsvp:rowlandr, rsvp:lavery
 author: ann
 path: /notes/ann/06-26-2015/kitimat-mapping-workshop.md

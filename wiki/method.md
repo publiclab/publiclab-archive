@@ -1,5 +1,5 @@
 ---
-title: Method
+title: 'Method'
 tagnames: redirect:14859
 author: warren
 path: /wiki/method.md

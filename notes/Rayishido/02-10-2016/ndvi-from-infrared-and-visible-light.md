@@ -1,5 +1,5 @@
 ---
-title: NDVI from infrared and visible-light
+title: 'NDVI from infrared and visible-light'
 tagnames: nrg, ndvi, infrared, photoshop, aerial-photography, raspberry-pi, infrared-photography, fiji, gimp, rasperry
 author: Rayishido
 path: /notes/Rayishido/02-10-2016/ndvi-from-infrared-and-visible-light.md

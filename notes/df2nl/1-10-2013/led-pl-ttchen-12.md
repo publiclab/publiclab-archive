@@ -1,5 +1,5 @@
 ---
-title: LED-PLÄTTCHEN - 12  
+title: 'LED-PLÄTTCHEN - 12  '
 tagnames: spektrometer
 author: df2nl
 path: /notes/df2nl/1-10-2013/led-pl-ttchen-12.md

@@ -1,5 +1,5 @@
 ---
-title: Jeff demos salt spectra
+title: 'Jeff demos salt spectra'
 tagnames: 
 author: 100ideas
 path: /notes/100ideas/07-16-2013/jeff-demos-salt-spectra.md

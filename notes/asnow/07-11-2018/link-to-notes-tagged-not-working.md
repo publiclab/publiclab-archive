@@ -1,5 +1,5 @@
 ---
-title: Link to notes tagged not working
+title: 'Link to notes tagged not working'
 tagnames: question:website, bug
 author: asnow
 path: /notes/asnow/07-11-2018/link-to-notes-tagged-not-working.md

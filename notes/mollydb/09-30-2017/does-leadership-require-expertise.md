@@ -1,5 +1,5 @@
 ---
-title: Does leadership require expertise?
+title: 'Does leadership require expertise?'
 tagnames: leaffest2017, question:leaffest, question:leaffest2017
 author: mollydb
 path: /notes/mollydb/09-30-2017/does-leadership-require-expertise.md

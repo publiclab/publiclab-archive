@@ -1,5 +1,5 @@
 ---
-title: Sample Images from Fieldtest of Photostrip H2S Dection Method
+title: 'Sample Images from Fieldtest of Photostrip H2S Dection Method'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
 author: MSGonzales
 path: /notes/msgonzales/5-22-2012/sample-images-fieldtest-photostrip-h2s-dection-method.md

@@ -1,5 +1,5 @@
 ---
-title: Desktop Spectrometry Starter Kit 3.0 Assembly Instructions
+title: 'Desktop Spectrometry Starter Kit 3.0 Assembly Instructions'
 tagnames: spectrometer, store, help, spectrometry, assembly, kit, desktop-spectrometry-kit, activity, instructions, barnstar:basic, with:warren, with:mathew, desktop, activity:spectrometry, activity:dssk, category:build, status:complete, 3.0, v3, spectrometer-instructions, time:45min, difficulty:introductory
 author: abdul
 path: /notes/abdul/10-13-2016/desktop-spectrometry-starter-kit-3-0-instructions.md

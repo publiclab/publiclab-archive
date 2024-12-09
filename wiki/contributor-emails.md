@@ -1,5 +1,5 @@
 ---
-title: Contributor emails
+title: 'Contributor emails'
 tagnames: 
 author: warren
 path: /wiki/contributor-emails.md

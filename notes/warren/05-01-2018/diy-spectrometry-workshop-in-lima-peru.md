@@ -1,5 +1,5 @@
 ---
-title: DIY Spectrometry Workshop in Lima, Peru 
+title: 'DIY Spectrometry Workshop in Lima, Peru '
 tagnames: lima, spectrometer, peru, workshop, spectrometry, event, escuelab, fablab, center-for-bits-and-atoms, cba
 author: warren
 path: /notes/warren/05-01-2018/diy-spectrometry-workshop-in-lima-peru.md

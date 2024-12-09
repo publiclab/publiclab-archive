@@ -1,5 +1,5 @@
 ---
-title: Field Test of DIY formaldehyde testing and remediation kit  
+title: 'Field Test of DIY formaldehyde testing and remediation kit  '
 tagnames: remediation, air-quality, formaldehyde, wherewebreathe, coast, gulf, indoor-air-quality-monitoring, indoor-air-quality, replication:13480, activity:formaldehyde
 author: nshapiro
 path: /notes/nshapiro/05-06-2015/field-test-of-diy-testing-and-remediation-kit.md

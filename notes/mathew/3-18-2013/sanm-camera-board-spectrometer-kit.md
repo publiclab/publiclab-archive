@@ -1,5 +1,5 @@
 ---
-title: Sanm camera board for spectrometer kit
+title: 'Sanm camera board for spectrometer kit'
 tagnames: spectrometer, kits, webcam, desktop-spectrometry-kit, sanm
 author: mathew
 path: /notes/mathew/3-18-2013/sanm-camera-board-spectrometer-kit.md

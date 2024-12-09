@@ -1,5 +1,5 @@
 ---
-title: Education Associate - Temporary - Spring 2021 Semester
+title: 'Education Associate - Temporary - Spring 2021 Semester'
 tagnames: education, nonprofit, jobs, lat:29.954934, lon:-90.065917, lat:29.951065, lon:-90.071532, zoom:6
 author: thewrightjess
 path: /notes/thewrightjess/11-19-2020/education-associate-temporary-spring-2021-semester.md

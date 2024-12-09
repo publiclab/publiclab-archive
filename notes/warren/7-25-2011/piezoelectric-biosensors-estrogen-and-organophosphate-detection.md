@@ -1,5 +1,5 @@
 ---
-title: Piezoelectric biosensors for estrogen and organophosphate detection
+title: 'Piezoelectric biosensors for estrogen and organophosphate detection'
 tagnames: estrogen, organophosphates, biosensors, piezoelectric
 author: warren
 path: /notes/warren/7-25-2011/piezoelectric-biosensors-estrogen-and-organophosphate-detection.md

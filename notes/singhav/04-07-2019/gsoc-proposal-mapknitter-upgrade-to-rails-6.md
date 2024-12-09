@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Mapknitter Upgrade to Rails 6
+title: 'GSoC proposal: Mapknitter Upgrade to Rails 6'
 tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, lat:23.241346, lon:72.421875
 author: singhav
 path: /notes/singhav/04-07-2019/gsoc-proposal-mapknitter-upgrade-to-rails-6.md

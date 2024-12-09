@@ -1,5 +1,5 @@
 ---
-title: Sanity check for air sensors
+title: 'Sanity check for air sensors'
 tagnames: particulate-sensing, dust, particulate, pm, answered, question:pm, question:general, question:pm-monitoring, purpleair, question:purpleair
 author: Ag8n
 path: /notes/Ag8n/08-31-2018/sanity-check-for-air-sensors.md

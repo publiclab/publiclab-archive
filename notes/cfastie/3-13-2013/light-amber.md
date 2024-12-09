@@ -1,5 +1,5 @@
 ---
-title: Light Amber
+title: 'Light Amber'
 tagnames: spectrometer, vermont, spectralworkbench, ebert, absorption, syrup, activity:spectrometry, activity:science-fair
 author: cfastie
 path: /notes/cfastie/3-13-2013/light-amber.md

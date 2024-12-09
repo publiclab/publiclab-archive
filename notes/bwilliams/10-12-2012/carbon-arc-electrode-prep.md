@@ -1,5 +1,5 @@
 ---
-title: Carbon Arc Electrode Prep
+title: 'Carbon Arc Electrode Prep'
 tagnames: spectrometer, carbon-arc, emission-spectroscopy, spectroscopy
 author: B.Williams
 path: /notes/bwilliams/10-12-2012/carbon-arc-electrode-prep.md

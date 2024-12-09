@@ -1,5 +1,5 @@
 ---
-title: Barnraising 2016 Photos
+title: 'Barnraising 2016 Photos'
 tagnames: barnraising, lumcon, barnraising-2016
 author: Bronwen
 path: /notes/bronwen/11-10-2016/barnraising-2016-photos.md

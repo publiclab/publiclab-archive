@@ -1,5 +1,5 @@
 ---
-title: Community Mapping to Reevaluate Space in a Refugee Camp
+title: 'Community Mapping to Reevaluate Space in a Refugee Camp'
 tagnames: balloon-mapping, kite-mapping, data-advocacy-case-studies, lebanon, middle-east, bourjalshamali
 author: gretchengehrke
 path: /notes/gretchengehrke/08-25-2015/community-mapping-to-reevaluate-space-in-a-refugee-camp.md

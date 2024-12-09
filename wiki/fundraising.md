@@ -1,5 +1,5 @@
 ---
-title: Fundraising
+title: 'Fundraising'
 tagnames: fundraising
 author: warren
 path: /wiki/fundraising.md

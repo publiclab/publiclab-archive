@@ -1,5 +1,5 @@
 ---
-title: Call for Submissions for Grassroots Mapping Forum#6: TRASH
+title: 'Call for Submissions for Grassroots Mapping Forum#6: TRASH'
 tagnames: gmf, publication, forum, trash, writing, barnstar:basic, gmf-6, first-time-poster
 author: mollydanielsson
 path: /notes/MollyDanielsson/06-23-2014/call-for-submissions-for-grassroots-mapping-forum-6-trash.md

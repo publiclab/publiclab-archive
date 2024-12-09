@@ -1,5 +1,5 @@
 ---
-title: And if I flip it over? Effects of a reversed polfilter on spectra.
+title: 'And if I flip it over? Effects of a reversed polfilter on spectra.'
 tagnames: spectrometer, spectrum, polarizing_filter, polfilter, polarisation, angle
 author: viechdokter
 path: /notes/viechdokter/04-21-2016/and-if-i-flip-it-over-effects-of-a-reversed-polfilter-on-spectra.md

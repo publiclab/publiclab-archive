@@ -1,5 +1,5 @@
 ---
-title: Lawn Fertilizer Runoff Causes Algae Bloom Locally and Contributes to Global Issues
+title: 'Lawn Fertilizer Runoff Causes Algae Bloom Locally and Contributes to Global Issues'
 tagnames: water-quality, water, algae, clay, phosphorus, runoff, fertilizer, issue-brief, nitrogen, first-time-poster, lawns, gulf-of-mexico, homeowners
 author: Dave
 path: /notes/Dave/01-02-2020/lawn-fertilizer-runoff-causes-algae-bloom-locally-and-contributes-to-global-issues.md

@@ -1,5 +1,5 @@
 ---
-title: Foothills Community Garden NRG Imagery
+title: 'Foothills Community Garden NRG Imagery'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/10-11-2011/foothills-community-garden-nrg-imagery.md

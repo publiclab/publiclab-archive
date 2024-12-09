@@ -1,5 +1,5 @@
 ---
-title: What are different methods of measuring water turbidity?
+title: 'What are different methods of measuring water turbidity?'
 tagnames: water-quality, turbidity, sediment, answered, runoff, question:water-quality, sedimentation, question:turbidity, question:sedimentation
 author: warren
 path: /notes/warren/01-09-2018/what-are-different-methods-of-measuring-water-turbidity.md

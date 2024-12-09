@@ -1,5 +1,5 @@
 ---
-title: Budidaya udang vaname
+title: 'Budidaya udang vaname'
 tagnames: first-time-poster, aquaculture
 author: vaname
 path: /notes/vaname/03-02-2022/budidaya-udang-vaname.md

@@ -1,5 +1,5 @@
 ---
-title: First Time Build: The Bucket Air Quality Monitor
+title: 'First Time Build: The Bucket Air Quality Monitor'
 tagnames: diy, how-to, air-quality, bucket-brigade, new, draft, air-sampling, air-quality-monitoring, air-quality-projects, zoom:16, air-sensor, bucket-monitor, tedlar-bag, replication:24950, lat:29.970884, lon:-90.066733
 author: a1ahna
 path: /notes/a1ahna/03-29-2021/first-time-build-the-bucket-air-quality-monitor.md

@@ -1,5 +1,5 @@
 ---
-title: Emerson College JR-368 Water Sample Data Results
+title: 'Emerson College JR-368 Water Sample Data Results'
 tagnames: water-quality, coqui
 author: abcieslik
 path: /notes/abcieslik/10-01-2014/emerson-college-jr-368-water-sample-data-results.md

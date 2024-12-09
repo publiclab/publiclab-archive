@@ -1,5 +1,5 @@
 ---
-title: Desktop spectrometry 3.0 kit: Can it quantify/identify a mixture of chemical solvents?
+title: 'Desktop spectrometry 3.0 kit: Can it quantify/identify a mixture of chemical solvents?'
 tagnames: question:spectrometer, question:dssk
 author: peace
 path: /notes/peace/07-01-2016/desktop-spectrometry-3-0-kit-can-it-quantify-identify-a-mixture-of-chemical-solvents.md

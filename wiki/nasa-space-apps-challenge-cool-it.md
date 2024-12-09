@@ -1,5 +1,5 @@
 ---
-title: NASA Space Apps Challenge: Cool It!
+title: 'NASA Space Apps Challenge: Cool It!'
 tagnames: nasa, epa, space-apps-challenge
 author: jmsaavedra
 path: /wiki/nasa-space-apps-challenge-cool-it.md

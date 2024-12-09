@@ -1,5 +1,5 @@
 ---
-title: Article on monitoring hydrogen sulfide with a copper pipe
+title: 'Article on monitoring hydrogen sulfide with a copper pipe'
 tagnames: hydrogen-sulfide, h2s, h2s-copper-pipe, response:1887, h2s-detection, test-magazine, discoloration, copper-pipe, h2s-copper-pipe-background
 author: warren
 path: /notes/warren/05-12-2017/articel-on-monitoring-hydrogen-sulfide-with-a-copper-pipe.md

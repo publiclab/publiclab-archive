@@ -1,5 +1,5 @@
 ---
-title: Picavet Rigging
+title: 'Picavet Rigging'
 tagnames: balloon-mapping, kite-mapping, photo-rig
 author: mathew
 path: /wiki/picavet-rigging.md

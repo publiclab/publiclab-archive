@@ -1,5 +1,5 @@
 ---
-title: DIY Micro Volume Spectrophotometer
+title: 'DIY Micro Volume Spectrophotometer'
 tagnames: spectrometer, nanometer, sampling, nano-drop, location:blurred, place:united-states, lat:35, lon:-78, zoom:6
 author: gaudi
 path: /notes/gaudi/04-03-2014/diy-micro-volume-spectrophotometer.md

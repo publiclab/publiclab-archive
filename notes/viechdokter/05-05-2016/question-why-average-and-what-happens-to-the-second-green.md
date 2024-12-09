@@ -1,5 +1,5 @@
 ---
-title: Question:  Why average? And what happens to the second Green?
+title: 'Question:  Why average? And what happens to the second Green?'
 tagnames: spectrometer, spectroscopy, rgb, question:spectrometry, question:spectral-workbench, average
 author: viechdokter
 path: /notes/viechdokter/05-05-2016/question-why-average-and-what-happens-to-the-second-green.md

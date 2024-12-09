@@ -1,5 +1,5 @@
 ---
-title: As Above So Below: Higher E+D workshop
+title: 'As Above So Below: Higher E+D workshop'
 tagnames: kite-mapping, ilab, events
 author: liz
 path: /notes/liz/9-13-2012/above-so-below-higher-ed-workshop.md

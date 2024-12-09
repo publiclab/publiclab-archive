@@ -1,5 +1,5 @@
 ---
-title: What are good humidity sensor/monitors to use with gas sampling kits?
+title: 'What are good humidity sensor/monitors to use with gas sampling kits?'
 tagnames: question:air-quality, answered, question:general, question:h2s, question:sensors, question:humidity
 author: gretchengehrke
 path: /notes/gretchengehrke/01-29-2018/what-are-good-humidity-sensor-monitors-to-use-with-gas-sampling-kits-that-sample-over-days.md

@@ -1,5 +1,5 @@
 ---
-title: taarifa
+title: 'taarifa'
 tagnames: 
 author: donblair
 path: /wiki/taarifa.md

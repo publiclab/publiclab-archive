@@ -1,5 +1,5 @@
 ---
-title: OV5647 (raspberry pi camera) spectral response / quantum efficiency
+title: 'OV5647 (raspberry pi camera) spectral response / quantum efficiency'
 tagnames: calibration, raspberry-pi, ov5647, spectral-response, pi-camera, quantum-efficiency
 author: khufkens
 path: /notes/khufkens/11-02-2015/ov5647-raspberry-pi-camera-spectral-response-quantum-efficiency.md

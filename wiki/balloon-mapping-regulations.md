@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping Regulations
+title: 'Balloon Mapping Regulations'
 tagnames: balloon-mapping, regulations, parent:balloon-mapping
 author: warren
 path: /wiki/balloon-mapping-regulations.md

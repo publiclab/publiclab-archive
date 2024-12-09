@@ -1,5 +1,5 @@
 ---
-title: KAP comes first
+title: 'KAP comes first'
 tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery, response:11726
 author: cfastie
 path: /notes/cfastie/06-18-2015/kap-comes-first.md

@@ -1,5 +1,5 @@
 ---
-title: Headless configuration and learning Shell, command lines, and git
+title: 'Headless configuration and learning Shell, command lines, and git'
 tagnames: raspberry-pi, github, learning, pi1:raspberry, git, headless
 author: ajguthrie99
 path: /notes/ajguthrie99/09-07-2020/headless-configuration-and-learning-shell-command-lines-and-git.md

@@ -1,5 +1,5 @@
 ---
-title: Bugs in IR
+title: 'Bugs in IR'
 tagnames: near-infrared-camera, infragram
 author: mathew
 path: /notes/mathew/05-28-2013/bugs-in-ir.md

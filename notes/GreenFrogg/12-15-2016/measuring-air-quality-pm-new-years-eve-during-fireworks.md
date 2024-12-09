@@ -1,5 +1,5 @@
 ---
-title: Measuring Air Quality (PM) @ new years eve during fireworks
+title: 'Measuring Air Quality (PM) @ new years eve during fireworks'
 tagnames: netherlands, dust, particulate, pm, particulate-monitoring, shinyei, blog-submission
 author: GreenFrogg
 path: /notes/GreenFrogg/12-15-2016/measuring-air-quality-pm-new-years-eve-during-fireworks.md

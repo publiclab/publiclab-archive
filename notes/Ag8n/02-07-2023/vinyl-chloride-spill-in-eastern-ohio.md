@@ -1,5 +1,5 @@
 ---
-title: Vinyl chloride spill in eastern ohio
+title: 'Vinyl chloride spill in eastern ohio'
 tagnames: question:general, general, place:ohio
 author: Ag8n
 path: /notes/Ag8n/02-07-2023/vinyl-chloride-spill-in-eastern-ohio.md

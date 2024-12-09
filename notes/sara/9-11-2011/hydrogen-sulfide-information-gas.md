@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Sulfide Information on the Gas
+title: 'Hydrogen Sulfide Information on the Gas'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s
 author: sara
 path: /notes/sara/9-11-2011/hydrogen-sulfide-information-gas.md

@@ -1,5 +1,5 @@
 ---
-title: method-template-lite
+title: 'method-template-lite'
 tagnames: template, parent:templates
 author: warren
 path: /wiki/method-template-lite.md

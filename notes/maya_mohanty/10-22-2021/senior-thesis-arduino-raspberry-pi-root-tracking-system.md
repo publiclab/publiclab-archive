@@ -1,5 +1,5 @@
 ---
-title: Senior Thesis: Arduino-Raspberry Pi Root tracking system
+title: 'Senior Thesis: Arduino-Raspberry Pi Root tracking system'
 tagnames: arduino, diy-bio, first-time-poster
 author: maya_mohanty
 path: /notes/maya_mohanty/10-22-2021/senior-thesis-arduino-raspberry-pi-root-tracking-system.md

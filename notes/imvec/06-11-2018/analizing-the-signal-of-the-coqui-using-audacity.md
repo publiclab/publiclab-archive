@@ -1,5 +1,5 @@
 ---
-title: Analizing the signal of the Coqui using Audacity
+title: 'Analizing the signal of the Coqui using Audacity'
 tagnames: water, coqui, gaimec, water-conductivity, activity:coqui-usage
 author: imvec
 path: /notes/imvec/06-11-2018/analizing-the-signal-of-the-coqui-using-audacity.md

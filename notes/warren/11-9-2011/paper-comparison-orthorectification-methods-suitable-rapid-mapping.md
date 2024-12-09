@@ -1,5 +1,5 @@
 ---
-title: Paper: Comparison of Orthorectification Methods Suitable for Rapid Mapping...
+title: 'Paper: Comparison of Orthorectification Methods Suitable for Rapid Mapping...'
 tagnames: 
 author: warren
 path: /notes/warren/11-9-2011/paper-comparison-orthorectification-methods-suitable-rapid-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: New Orleans City Park Mapping
+title: 'New Orleans City Park Mapping'
 tagnames: gulf-coast, balloon-mapping, kite-mapping, event, pole-mapping, event:rsvp, date:05-30-2015, rsvp:emilya, rsvp:dflores6073, replication:14022
 author: stevie
 path: /notes/stevie/05-13-2015/new-orleans-city-park-mapping.md

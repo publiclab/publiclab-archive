@@ -1,5 +1,5 @@
 ---
-title: MiCS-2614 Ozone sensor schematic
+title: 'MiCS-2614 Ozone sensor schematic'
 tagnames: sensing, ozone
 author: filimon_k
 path: /notes/filimon_k/12-14-2015/mics-2614-ozone-sensor-schematic.md

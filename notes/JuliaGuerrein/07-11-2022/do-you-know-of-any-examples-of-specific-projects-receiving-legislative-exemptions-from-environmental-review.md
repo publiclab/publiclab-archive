@@ -1,5 +1,5 @@
 ---
-title: Do you know of any examples of specific projects receiving legislative exemptions from environmental review?
+title: 'Do you know of any examples of specific projects receiving legislative exemptions from environmental review?'
 tagnames: epa, mn-land-manoomin-protection, question:mn-land-manoomin-protection, environmental-review, environmental-impact-statement
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/07-11-2022/do-you-know-of-any-examples-of-specific-projects-receiving-legislative-exemptions-from-environmental-review.md

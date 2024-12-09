@@ -1,5 +1,5 @@
 ---
-title: First wireless transmission, mchck to mchck!
+title: 'First wireless transmission, mchck to mchck!'
 tagnames: temperature, wireless, pvos, water-quality, water-monitoring, water-quality-sensor, ioby, mystic-river, mchck
 author: donblair
 path: /notes/donblair/01-14-2014/first-wireless-transmission-mchck-to-mchck.md

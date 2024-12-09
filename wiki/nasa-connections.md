@@ -1,5 +1,5 @@
 ---
-title: NASA connections
+title: 'NASA connections'
 tagnames: nasa, partnerships
 author: liz
 path: /wiki/nasa-connections.md

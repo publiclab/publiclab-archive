@@ -1,5 +1,5 @@
 ---
-title: How to connect a creative cam notebook with a smartphone?
+title: 'How to connect a creative cam notebook with a smartphone?'
 tagnames: question:spectrometry, question:general, question:webcam
 author: KushalKC
 path: /notes/KushalKC/10-24-2017/how-to-connect-a-creative-cam-notebook-with-a-smartphone.md

@@ -1,5 +1,5 @@
 ---
-title: Homemade Raman spectrometer
+title: 'Homemade Raman spectrometer'
 tagnames: spectrometer, raman, spectroscopy, homemade
 author: homechemist
 path: /notes/homechemist/08-16-2017/homemade-raman-spectrometer.md

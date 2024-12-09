@@ -1,5 +1,5 @@
 ---
-title: "...when the hydrogen sulfide concentration reaches approximately 15 ppm, the human nose becomes desensitized"
+title: '"...when the hydrogen sulfide concentration reaches approximately 15 ppm, the human nose becomes desensitized"'
 tagnames: hydrogen-sulfide, h2s, exposure, odor, desensitized, smell
 author: warren
 path: /notes/warren/9-26-2011/when-hydrogen-sulfide-concentration-reaches-approximately-15-ppm-human-nose-b.md

@@ -1,5 +1,5 @@
 ---
-title: Windmeter options for iPhone - Shaka and Wind Meter
+title: 'Windmeter options for iPhone - Shaka and Wind Meter'
 tagnames: balloon-mapping, kite-mapping, iphone, anemometer, wind-speed-meter, wind, wind-speed
 author: patcoyle
 path: /notes/patcoyle/08-18-2013/windmeter-options-for-iphone-shaka-and-wind-meter.md

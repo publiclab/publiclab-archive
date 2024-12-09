@@ -1,5 +1,5 @@
 ---
-title: mmmp
+title: 'mmmp'
 tagnames: redirect:the-mountains-and-mines-monitoring-project
 author: liz
 path: /wiki/mmmp.md

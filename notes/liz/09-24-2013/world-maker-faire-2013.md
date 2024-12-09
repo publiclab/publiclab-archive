@@ -1,5 +1,5 @@
 ---
-title: World Maker Faire 2013
+title: 'World Maker Faire 2013'
 tagnames: new-york-city, events, makerfaire, panel, with:donblair, make
 author: liz
 path: /notes/liz/09-24-2013/world-maker-faire-2013.md

@@ -1,5 +1,5 @@
 ---
-title: Stability upgrade mockup for PLab Spectrometer 3.0
+title: 'Stability upgrade mockup for PLab Spectrometer 3.0'
 tagnames: parent:desktop-spectrometry-kit-3-0, difficulty:easy, upgrade:spectrometry, upgrade:dssk, seeks:builds, status:review-me, category:build, time:1h
 author: stoft
 path: /notes/stoft/09-16-2016/stability-upgrade-mockup-for-plab-spectrometer-3-0.md

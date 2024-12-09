@@ -1,5 +1,5 @@
 ---
-title: 370nm UV detection of Corexit-dispersed oil on Gulf Coast Beaches
+title: '370nm UV detection of Corexit-dispersed oil on Gulf Coast Beaches'
 tagnames: gulf-coast, spectrometer, uv, oil, ultraviolet, fluorescence, surfrider, corexit
 author: eustatic
 path: /4-20-2012/370nm-uv-detection-corexit-dispersed-oil-gulf-coast-beaches.md

@@ -1,5 +1,5 @@
 ---
-title: Live video NDVI with infrared-visible-video-kit
+title: 'Live video NDVI with infrared-visible-video-kit'
 tagnames: video, ndvi, infrared, infragram
 author: warren
 path: /notes/warren/3-4-2011/live-video-ndvi-infrared-visible-video-kit.md

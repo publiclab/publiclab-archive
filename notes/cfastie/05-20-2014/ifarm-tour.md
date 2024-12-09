@@ -1,5 +1,5 @@
 ---
-title: iFarm tour
+title: 'iFarm tour'
 tagnames: boston, new-hampshire, farmhack, agriculture, farm, event, garden, ifarm, crops, northeast, ifarm2014, response:10485
 author: cfastie
 path: /notes/cfastie/05-20-2014/ifarm-tour.md

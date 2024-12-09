@@ -1,5 +1,5 @@
 ---
-title: how do i get my old map 
+title: 'how do i get my old map '
 tagnames: mapknitter, aerial-photography, aerial-imaging, question:mapknitter, question:aerial-imaging, question:aerial-photography
 author: jgee7
 path: /notes/jgee7/02-22-2017/how-do-i-get-my-old-map.md

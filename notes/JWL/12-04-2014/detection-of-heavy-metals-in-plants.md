@@ -1,5 +1,5 @@
 ---
-title: Detection of heavy metals in plants
+title: 'Detection of heavy metals in plants'
 tagnames: heavy-metals, question:heavy-metals
 author: JWL
 path: /notes/JWL/12-04-2014/detection-of-heavy-metals-in-plants.md

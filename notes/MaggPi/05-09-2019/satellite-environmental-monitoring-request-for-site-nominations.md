@@ -1,5 +1,5 @@
 ---
-title: Satellite Environmental Monitoring / Request for Site Nominations 
+title: 'Satellite Environmental Monitoring / Request for Site Nominations '
 tagnames: balloon-mapping, kite-mapping, ndvi, mapknitter, infrared, infragram, landsat, aerial-mapping, satellite, gsoc-2019, soc-2019, planet, qgis
 author: MaggPi
 path: /notes/MaggPi/05-09-2019/satellite-environmental-monitoring-request-for-site-nominations.md

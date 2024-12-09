@@ -1,5 +1,5 @@
 ---
-title: Back to School Sale happening now through September 30th!
+title: 'Back to School Sale happening now through September 30th!'
 tagnames: sales, special, sale, backtoschool, deal
 author: natalie
 path: /notes/Natalie/08-29-2014/back-to-school-sale-happening-now-through-september-30th.md

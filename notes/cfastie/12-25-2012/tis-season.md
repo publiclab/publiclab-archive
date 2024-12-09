@@ -1,5 +1,5 @@
 ---
-title: Tis the Season
+title: 'Tis the Season'
 tagnames: spectrometer, holiday, christmas
 author: cfastie
 path: /notes/cfastie/12-25-2012/tis-season.md

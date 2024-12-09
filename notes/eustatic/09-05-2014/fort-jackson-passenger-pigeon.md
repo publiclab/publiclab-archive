@@ -1,5 +1,5 @@
 ---
-title: Fort Jackson Passenger Pigeon
+title: 'Fort Jackson Passenger Pigeon'
 tagnames: gulf-coast, mapknitter, passenger-pigeon
 author: eustatic
 path: /09-05-2014/fort-jackson-passenger-pigeon.md

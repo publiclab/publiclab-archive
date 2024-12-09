@@ -1,5 +1,5 @@
 ---
-title: What fuels a movement?
+title: 'What fuels a movement?'
 tagnames: blog, petcoke, chicago, pm, midwest, pet-coke, with:olga, community-organizing, interview-series, series:community-interviews
 author: stevie
 path: /notes/stevie/12-01-2016/what-fuels-a-movement.md

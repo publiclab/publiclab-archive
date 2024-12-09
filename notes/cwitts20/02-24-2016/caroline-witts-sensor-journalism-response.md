@@ -1,5 +1,5 @@
 ---
-title: Caroline Witts Sensor Journalism Response
+title: 'Caroline Witts Sensor Journalism Response'
 tagnames: journalism, sensor, sensor-journalism, response:12748, hidden:response
 author: cwitts20
 path: /notes/cwitts20/02-24-2016/caroline-witts-sensor-journalism-response.md

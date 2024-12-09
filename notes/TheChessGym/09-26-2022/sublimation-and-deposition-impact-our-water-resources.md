@@ -1,5 +1,5 @@
 ---
-title: Sublimation and Deposition Impact Our Water Resources 
+title: 'Sublimation and Deposition Impact Our Water Resources '
 tagnames: first-time-poster, lat:20, lon:70, zoom:4
 author: TheChessGym
 path: /notes/TheChessGym/09-26-2022/sublimation-and-deposition-impact-our-water-resources.md

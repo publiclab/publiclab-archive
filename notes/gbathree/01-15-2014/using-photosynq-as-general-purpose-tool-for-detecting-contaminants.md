@@ -1,5 +1,5 @@
 ---
-title: Using PhotosynQ as general purpose tool for detecting contaminants
+title: 'Using PhotosynQ as general purpose tool for detecting contaminants'
 tagnames: spectrometer, fluorescence, photosynthesis, photosynq
 author: gbathree
 path: /notes/gbathree/01-15-2014/using-photosynq-as-general-purpose-tool-for-detecting-contaminants.md

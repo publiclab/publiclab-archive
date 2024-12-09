@@ -1,5 +1,5 @@
 ---
-title: Dreaming of sensitive friends
+title: 'Dreaming of sensitive friends'
 tagnames: gulf-coast, workshop, sensing, water-quality, open-water, great-photos, propeller
 author: warren
 path: /notes/warren/11-21-2014/dreaming-of-sensitive-friends.md

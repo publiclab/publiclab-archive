@@ -1,5 +1,5 @@
 ---
-title: Do you people have ideas on how to make demineralized water? 
+title: 'Do you people have ideas on how to make demineralized water? '
 tagnames: water, answered, question:general, demineralized
 author: aemilius89
 path: /notes/aemilius89/12-18-2018/do-you-people-have-ideas-on-how-to-make-demineralized-water.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Mighty Model Club mauritius
+title: 'MapKnitter map of Mighty Model Club mauritius'
 tagnames: mapknitter, africa, lat:-20.2293971505, lon:57.4419549108, mauritius, first-time-poster
 author: rajeev21
 path: /notes/rajeev21/05-11-2016/mapknitter-map-of-mighty-model-club-mauritius.md

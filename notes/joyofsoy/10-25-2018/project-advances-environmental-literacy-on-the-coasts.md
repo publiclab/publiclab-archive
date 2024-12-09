@@ -1,5 +1,5 @@
 ---
-title: Project Advances Environmental Literacy on the Coasts
+title: 'Project Advances Environmental Literacy on the Coasts'
 tagnames: gulf-coast, education, youth, blog, nas, national-academies-of-sciences
 author: joyofsoy
 path: /notes/joyofsoy/10-25-2018/project-advances-environmental-literacy-on-the-coasts.md

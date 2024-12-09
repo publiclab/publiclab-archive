@@ -1,5 +1,5 @@
 ---
-title: What are good resources, or things look look for, in reviewing environmental permits? 
+title: 'What are good resources, or things look look for, in reviewing environmental permits? '
 tagnames: question:general, question:permits, question:legal, question:permit, question:law, questions:requests, law-and-policy, question:law-and-policy
 author: stevie
 path: /notes/stevie/07-17-2018/what-are-good-resources-or-things-look-look-for-in-reviewing-environmental-permits.md

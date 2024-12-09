@@ -1,5 +1,5 @@
 ---
-title: Small camera conversion tests
+title: 'Small camera conversion tests'
 tagnames: near-infrared-camera, conversion, infragram, infragram-conversion, activity:infrared-camera-conversion
 author: warren
 path: /notes/warren/06-19-2013/small-camera-conversion-tests.md

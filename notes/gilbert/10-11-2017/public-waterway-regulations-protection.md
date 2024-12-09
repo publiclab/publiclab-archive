@@ -1,5 +1,5 @@
 ---
-title: Public Waterway Regulations & Protection
+title: 'Public Waterway Regulations & Protection'
 tagnames: water-quality-monitoring, water-quality, federal-regulations, state-regulations, county-rules, municipal-ordinances
 author: gilbert
 path: /notes/gilbert/10-11-2017/public-waterway-regulations-protection.md

@@ -1,5 +1,5 @@
 ---
-title: Pierre's plastic Picavet
+title: 'Pierre's plastic Picavet'
 tagnames: balloon-mapping, kite-mapping, vermont, picavet, kap, 3d-printing, makerbot, response:10230, titan, redstone
 author: cfastie
 path: /notes/cfastie/04-15-2014/pierre-s-plastic-picavet.md

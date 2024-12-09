@@ -1,5 +1,5 @@
 ---
-title: Particulate sensor using a STBM271
+title: 'Particulate sensor using a STBM271'
 tagnames: arduino, particulate-sensing, air-quality, particulates, pm, caribbean, hardware, air-sensors, stbm271, trinidad-and-tobago
 author: david_uwi
 path: /notes/david_uwi/12-19-2018/particulate-sensor-using-a-stbm271.md

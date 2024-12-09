@@ -1,5 +1,5 @@
 ---
-title: How to Build a Bucket Air Monitor
+title: 'How to Build a Bucket Air Monitor'
 tagnames: diy, air-quality, bucket-brigade, barnstar:photo-documentation, new, draft, activity:air-quality, air-sampling, activity:new, lon:-71, lat:42, air-quality-monitoring, air-quality-projects, zoom:6, air-sensor, bucket-monitor, activity:bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/11-08-2020/how-to-build-a-bucket-air-monitor.md

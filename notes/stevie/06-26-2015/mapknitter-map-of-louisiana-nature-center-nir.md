@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Louisiana Nature Center NIR
+title: 'MapKnitter map of Louisiana Nature Center NIR'
 tagnames: gulf-coast, nir, mapknitter, neworleans, gulfcoast, urbanwaters, lat:30.0311266, lon:-89.9609296
 author: stevie
 path: /notes/stevie/06-26-2015/mapknitter-map-of-louisiana-nature-center-nir.md

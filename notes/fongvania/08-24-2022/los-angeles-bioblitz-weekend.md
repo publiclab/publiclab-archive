@@ -1,5 +1,5 @@
 ---
-title: Los Angeles Bioblitz Weekend
+title: 'Los Angeles Bioblitz Weekend'
 tagnames: biodiversity, location:blurred, place:united-states, lat:36, zoom:6, lon:-121, research-curation-fellows, bioindicators, bioblitz
 author: fongvania
 path: /notes/fongvania/08-24-2022/los-angeles-bioblitz-weekend.md

@@ -1,5 +1,5 @@
 ---
-title: Sprint Fellowship Application: Public Lab Beta Oil Testing Kit
+title: 'Sprint Fellowship Application: Public Lab Beta Oil Testing Kit'
 tagnames: oil-testing-kit, fellows
 author: Shannon
 path: /notes/Shannon/05-12-2015/sprint-fellowship-application-public-lab-beta-oil-testing-kit.md

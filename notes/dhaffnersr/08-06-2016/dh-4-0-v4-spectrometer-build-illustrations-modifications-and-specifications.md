@@ -1,5 +1,5 @@
 ---
-title: DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications
+title: 'DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-06-2016/dh-4-0-v4-spectrometer-build-illustrations-modifications-and-specifications.md

@@ -1,5 +1,5 @@
 ---
-title: What is the location to get analyzed spectral data in [wavelength, intensity] at at the SpectralWorkbench/capture page?
+title: 'What is the location to get analyzed spectral data in [wavelength, intensity] at at the SpectralWorkbench/capture page?'
 tagnames: spectrometer, spectralworkbench, spectral-workbench-api, robotics, question:general
 author: Reallygeek
 path: /notes/Reallygeek/12-05-2017/what-is-the-location-to-get-analyzed-spectral-data-in-wavelength-intensity-at-at-the-spectralworkbench-capture-page.md

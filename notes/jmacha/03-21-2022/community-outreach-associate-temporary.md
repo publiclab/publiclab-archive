@@ -1,5 +1,5 @@
 ---
-title: Community Outreach Associate (Temporary)
+title: 'Community Outreach Associate (Temporary)'
 tagnames: outreach, organizing, jobs, job, career, careers
 author: jmacha
 path: /notes/jmacha/03-21-2022/community-outreach-associate-temporary.md

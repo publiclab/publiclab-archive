@@ -1,5 +1,5 @@
 ---
-title: Occupy UC Davis - Nov. 21, 2011
+title: 'Occupy UC Davis - Nov. 21, 2011'
 tagnames: davis, protest-mapping, protest, california, occupy
 author: MicheleTobias
 path: /notes/micheletobias/11-21-2011/occupy-uc-davis-nov-21-2011.md

@@ -1,5 +1,5 @@
 ---
-title: why is this website so freaking slow?
+title: 'why is this website so freaking slow?'
 tagnames: website, question:general, first-time-poster, slow
 author: iragersh
 path: /notes/iragersh/10-31-2018/why-is-this-website-so-freaking-slow.md

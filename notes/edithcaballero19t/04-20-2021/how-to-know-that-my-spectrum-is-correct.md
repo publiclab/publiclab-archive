@@ -1,5 +1,5 @@
 ---
-title: how to know that my spectrum is correct?
+title: 'how to know that my spectrum is correct?'
 tagnames: question:general, general, first-time-poster
 author: edithcaballero19t
 path: /notes/edithcaballero19t/04-20-2021/how-to-know-that-my-spectrum-is-correct.md

@@ -1,5 +1,5 @@
 ---
-title: Proving The Reliability Of The DH 4.0 v4 Spectrometer
+title: 'Proving The Reliability Of The DH 4.0 v4 Spectrometer'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-03-2016/proving-the-reliability-of-the-dh-4-0-v4-spectrometer.md

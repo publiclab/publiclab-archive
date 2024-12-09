@@ -1,5 +1,5 @@
 ---
-title: Registro de olores
+title: 'Registro de olores'
 tagnames: spain, air-quality, logging, lang:es, odors, odor, odor-log, smell, gaimec, spanish, olor, odor-logging, activity:odor-logging
 author: imvec
 path: /notes/imvec/02-04-2018/registro-de-olores.md

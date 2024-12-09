@@ -1,5 +1,5 @@
 ---
-title: A New Orleans Event
+title: 'A New Orleans Event'
 tagnames: gulf-coast, spectrometer, events, spectrometry, event, date:07-31-2014
 author: stevie
 path: /notes/stevie/07-09-2014/a-new-orleans-event-samples-with-spectrometry.md

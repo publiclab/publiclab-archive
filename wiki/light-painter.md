@@ -1,5 +1,5 @@
 ---
-title: Light Painter
+title: 'Light Painter'
 tagnames: thermal-flashlight, parent:thermal-photography
 author: warren
 path: /wiki/light-painter.md

@@ -1,5 +1,5 @@
 ---
-title: Yellow Bar Island - Dredge Reuse and FAA permitting
+title: 'Yellow Bar Island - Dredge Reuse and FAA permitting'
 tagnames: new-york-city, balloon-mapping, wetlands, jamaica-bay, sand, spartina, cordgrass, dredge-reuse, faa, salt-marsh, corrinetravis, lat:40.605663, lon:-73.871309, place:yellow-bar-island-jamaica-bay-ny
 author: gwirth
 path: /notes/gwirth/7-23-2012/yellow-bar-island-dredge-reuse.md

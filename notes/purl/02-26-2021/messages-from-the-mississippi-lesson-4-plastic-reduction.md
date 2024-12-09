@@ -1,5 +1,5 @@
 ---
-title: Messages from the Mississippi Lesson 4: Plastic Reduction
+title: 'Messages from the Mississippi Lesson 4: Plastic Reduction'
 tagnames: microplastics, messagesfromthemississippi
 author: purl
 path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-4-plastic-reduction.md

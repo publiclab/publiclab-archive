@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Berthoud Lighting
+title: 'MapKnitter map of Berthoud Lighting'
 tagnames: mapknitter, colorado, mountain-west, first-time-poster, zoom:16, lat:40.3083174, lon:-105.0810924, lat:40.305585, lon:-105.083179
 author: willkarspeck
 path: /notes/willkarspeck/08-10-2020/mapknitter-map-of-berthoud-lighting.md

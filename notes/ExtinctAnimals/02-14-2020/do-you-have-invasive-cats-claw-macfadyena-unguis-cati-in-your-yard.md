@@ -1,5 +1,5 @@
 ---
-title: Do you have invasive cats claw (Macfadyena unguis-cati) in your yard?
+title: 'Do you have invasive cats claw (Macfadyena unguis-cati) in your yard?'
 tagnames: plant-health, invasive, invasive-species, plant-matter, question:general, general, first-time-poster, with:amallozzi, plant-mapping, cats-claw-vine, question:cats-claw-vine
 author: ExtinctAnimals
 path: /notes/ExtinctAnimals/02-14-2020/do-you-have-invasive-cats-claw-macfadyena-unguis-cati-in-your-yard.md

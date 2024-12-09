@@ -1,5 +1,5 @@
 ---
-title: What Public lab has taught me so far working as a Fellow.
+title: 'What Public lab has taught me so far working as a Fellow.'
 tagnames: organizing, lang:es, air-monitoring, advocacy, community-science, women
 author: denissebn_06
 path: /notes/denissebn_06/07-07-2021/what-public-lab-has-taught-me-in-three-months-of-working-as-fellow.md

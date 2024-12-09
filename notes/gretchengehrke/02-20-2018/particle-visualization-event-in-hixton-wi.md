@@ -1,5 +1,5 @@
 ---
-title: Particle Visualization Event in Hixton, WI
+title: 'Particle Visualization Event in Hixton, WI'
 tagnames: event, wisconsin, air-quality, dust, particulates, frac-sand, pm, particle-monitoring, event:rsvp, parent:frac-sand, particulate-matter, microscopes, location:blurred, date:03-04-2018, lat:44.38, lon:-91.01, place:hixton-wi
 author: gretchengehrke
 path: /notes/gretchengehrke/02-20-2018/particle-visualization-event-in-hixton-wi.md

@@ -1,5 +1,5 @@
 ---
-title: NYC Data Rescue working group meeting tonight
+title: 'NYC Data Rescue working group meeting tonight'
 tagnames: new-york-city, event, nyc
 author: liz
 path: /notes/liz/02-28-2017/nyc-data-rescue-working-group-meeting-tonight.md

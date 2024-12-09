@@ -1,5 +1,5 @@
 ---
-title: First thermal photo
+title: 'First thermal photo'
 tagnames: thermal-photography, thermal-camera, scanning
 author: warren
 path: /notes/warren/2-20-2011/first-thermal-photo.md

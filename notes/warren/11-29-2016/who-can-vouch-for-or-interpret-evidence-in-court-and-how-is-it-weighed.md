@@ -1,5 +1,5 @@
 ---
-title: Who can vouch for, or interpret, evidence in court, and how is it weighed?
+title: 'Who can vouch for, or interpret, evidence in court, and how is it weighed?'
 tagnames: evidence, photo-monitoring, timelapse, legal, question:evidence, court, question:legal, law-and-policy, question:law-and-policy
 author: warren
 path: /notes/warren/11-29-2016/who-can-vouch-for-or-interpret-evidence-in-court-and-how-is-it-weighed.md

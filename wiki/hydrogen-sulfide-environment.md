@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Sulfide in the Environment
+title: 'Hydrogen Sulfide in the Environment'
 tagnames: hydrogen-sulfide, h2s, parent:hydrogen-sulfide
 author: gretchengehrke
 path: /wiki/hydrogen-sulfide-environment.md

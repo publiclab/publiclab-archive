@@ -1,5 +1,5 @@
 ---
-title: Community Kits Prerequisites Checklist
+title: 'Community Kits Prerequisites Checklist'
 tagnames: open-source, open-hardware, kits, hardware, community-kits, public-lab-store
 author: Bronwen
 path: /notes/bronwen/02-02-2018/community-kits-prerequisites-checklist.md

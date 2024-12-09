@@ -1,5 +1,5 @@
 ---
-title: Comparing air quality databases: a fun activity
+title: 'Comparing air quality databases: a fun activity'
 tagnames: epa, database, air-quality, emissions, skytruth, bucket-brigade, getting-started, advocacy, activity:air-quality, existing-data, toxics-release-inventory, air-pollution, national-emissions-inventory, bucket-monitor, activity:bucket-monitor, air-database, activity:air-database
 author: bhamster
 path: /notes/bhamster/11-30-2020/comparing-air-quality-databases-a-fun-activity.md

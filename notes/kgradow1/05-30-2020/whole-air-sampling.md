@@ -1,5 +1,5 @@
 ---
-title: Whole Air Sampling
+title: 'Whole Air Sampling'
 tagnames: air-quality, bucket-brigade, air-sampling, lat:42, lon:-70, zoom:6, bucket-monitor, activity:air-sampling
 author: kgradow1
 path: /notes/kgradow1/05-30-2020/whole-air-sampling.md

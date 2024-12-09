@@ -1,5 +1,5 @@
 ---
-title: Spectrometer DVD-Alignment Auto-Correction
+title: 'Spectrometer DVD-Alignment Auto-Correction'
 tagnames: spectrometer, desktop-spectrometer, noise-reduction, dvd-grating, dvd-alignment
 author: stoft
 path: /notes/stoft/04-26-2016/spectrometer-dvd-alignment-auto-correction.md

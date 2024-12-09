@@ -1,5 +1,5 @@
 ---
-title: Press Release: Public Lab Launches a Kickstarter for the Infrared Photography Project
+title: 'Press Release: Public Lab Launches a Kickstarter for the Infrared Photography Project'
 tagnames: near-infrared-camera, infrared, kickstarter, infragram, press-release
 author: Shannon
 path: /notes/Shannon/05-22-2013/press-release-public-lab-launches-a-kickstarter-for-the-infrared-photography-project.md

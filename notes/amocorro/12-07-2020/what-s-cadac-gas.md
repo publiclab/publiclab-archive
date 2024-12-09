@@ -1,5 +1,5 @@
 ---
-title: What's CADAC GAS?
+title: 'What's CADAC GAS?'
 tagnames: gulf-coast, louisiana, air-quality, chalmette, lpg, gas, odor-logging, cadac
 author: amocorro
 path: /notes/amocorro/12-07-2020/what-s-cadac-gas.md

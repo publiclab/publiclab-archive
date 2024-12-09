@@ -1,5 +1,5 @@
 ---
-title: Environment vs. Population
+title: 'Environment vs. Population'
 tagnames: first-time-poster
 author: mmonet3
 path: /notes/mmonet3/08-15-2022/environment-vs-population.md

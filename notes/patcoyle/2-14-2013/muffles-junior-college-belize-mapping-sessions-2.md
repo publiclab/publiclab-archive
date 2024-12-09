@@ -1,5 +1,5 @@
 ---
-title: Muffles Junior College, Belize mapping sessions
+title: 'Muffles Junior College, Belize mapping sessions'
 tagnames: balloon-mapping, kite-mapping, belize, muffles, belizeopensource
 author: patcoyle
 path: /notes/patcoyle/2-14-2013/muffles-junior-college-belize-mapping-sessions-2.md

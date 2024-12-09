@@ -1,5 +1,5 @@
 ---
-title: Spectra 1
+title: 'Spectra 1'
 tagnames: lat:30, first-time-poster, zoom:5, lon:-100
 author: jthiesen8595
 path: /notes/jthiesen8595/04-23-2021/spectra-1.md

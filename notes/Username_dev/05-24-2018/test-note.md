@@ -1,5 +1,5 @@
 ---
-title: Test Note
+title: 'Test Note'
 tagnames: question:rain
 author: Username_dev
 path: /notes/Username_dev/05-24-2018/test-note.md

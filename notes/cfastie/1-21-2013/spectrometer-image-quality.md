@@ -1,5 +1,5 @@
 ---
-title: Spectral image quality
+title: 'Spectral image quality'
 tagnames: spectrometer, vermont, fold-up-mini-spectrometer, slit-width
 author: cfastie
 path: /notes/cfastie/1-21-2013/spectrometer-image-quality.md

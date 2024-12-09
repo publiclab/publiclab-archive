@@ -1,5 +1,5 @@
 ---
-title: A Quick Note on Title VI
+title: 'A Quick Note on Title VI'
 tagnames: epa, environmental-justice, formosaplastics, title-vi
 author: caitlion
 path: /notes/caitlion/04-21-2022/a-quick-note-on-title-vi.md

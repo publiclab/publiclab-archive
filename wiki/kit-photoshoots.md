@@ -1,5 +1,5 @@
 ---
-title: Kit photoshoots
+title: 'Kit photoshoots'
 tagnames: kits, photoshoot
 author: warren
 path: /wiki/kit-photoshoots.md

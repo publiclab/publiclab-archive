@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter August 18, 2013
+title: 'Public Lab Community Newsletter August 18, 2013'
 tagnames: newsletter, blog, response:8936, response:8992, newsletter-archive
 author: gonzoearth
 path: /notes/gonzoearth/08-19-2013/public-lab-community-newsletter-august-18-2013.md

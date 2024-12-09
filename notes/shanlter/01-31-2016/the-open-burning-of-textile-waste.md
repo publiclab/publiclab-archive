@@ -1,5 +1,5 @@
 ---
-title: The open burning of textile waste
+title: 'The open burning of textile waste'
 tagnames: landfill, sewage, waste, asia, china
 author: shanlter
 path: /notes/shanlter/01-31-2016/the-open-burning-of-textile-waste.md

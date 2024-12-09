@@ -1,5 +1,5 @@
 ---
-title: How is a Technical Advisory Committee formed (for a Citizen Science Project)?
+title: 'How is a Technical Advisory Committee formed (for a Citizen Science Project)?'
 tagnames: answered, question:question, question:advocacy, question:soil-sampling-toolkit, first-time-poster
 author: jjcreedon
 path: /notes/jjcreedon/11-16-2017/how-is-technical-advisory-committee-formed-for-a-citizen-science-project.md

@@ -1,5 +1,5 @@
 ---
-title: First draft vector files for foldable mini-spectrometer
+title: 'First draft vector files for foldable mini-spectrometer'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/10-10-2012/first-draft-vector-files-foldable-mini-spectrometer.md

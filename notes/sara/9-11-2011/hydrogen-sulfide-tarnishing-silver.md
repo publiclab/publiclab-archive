@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Sulfide tarnishing Silver
+title: 'Hydrogen Sulfide tarnishing Silver'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, silver, chlorene
 author: sara
 path: /notes/sara/9-11-2011/hydrogen-sulfide-tarnishing-silver.md

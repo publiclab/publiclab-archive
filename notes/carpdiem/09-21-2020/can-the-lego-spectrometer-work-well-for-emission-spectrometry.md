@@ -1,5 +1,5 @@
 ---
-title: Can the lego spectrometer work well for emission spectrometry?
+title: 'Can the lego spectrometer work well for emission spectrometry?'
 tagnames: question:lego-spectrometer, lego-spectrometer, first-time-poster
 author: carpdiem
 path: /notes/carpdiem/09-21-2020/can-the-lego-spectrometer-work-well-for-emission-spectrometry.md

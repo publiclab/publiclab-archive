@@ -1,5 +1,5 @@
 ---
-title: DISASTER MANAGEMENT ORGANIZATIONS AND SOFTWARE - OPEN SOURCE & PROPRIETARY
+title: 'DISASTER MANAGEMENT ORGANIZATIONS AND SOFTWARE - OPEN SOURCE & PROPRIETARY'
 tagnames: disaster-preparedness, disaster-response, disaster-resilience, disaster-recovery, disaster-early-warning
 author: gilbert
 path: /notes/gilbert/08-30-2017/disaster-management-organizations-and-software-open-source-proprietary.md

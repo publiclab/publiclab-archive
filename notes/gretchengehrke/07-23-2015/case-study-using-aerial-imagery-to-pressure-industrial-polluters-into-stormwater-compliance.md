@@ -1,5 +1,5 @@
 ---
-title: Case Study: Using Aerial Imagery to Pressure Industrial Polluters into Stormwater Compliance 
+title: 'Case Study: Using Aerial Imagery to Pressure Industrial Polluters into Stormwater Compliance '
 tagnames: new-york-city, gowanus-canal, brooklyn, blog, nyc, barnstar:basic, image-analysis, data-advocacy-case-studies, activity:image-analysis
 author: gretchengehrke
 path: /notes/gretchengehrke/07-23-2015/case-study-using-aerial-imagery-to-pressure-industrial-polluters-into-stormwater-compliance.md

@@ -1,5 +1,5 @@
 ---
-title: Mary Dougherty's guidelines for submitting pollution photos to the Wisconsin DNR
+title: 'Mary Dougherty's guidelines for submitting pollution photos to the Wisconsin DNR'
 tagnames: photography, reporting, photo-monitoring, wisconsin, air-quality, water-quality, metadata, cafo, runoff, photo-survey, site-survey, dnr, reporting-forms, landmarks, timestamps, reporting-form
 author: mathew
 path: /notes/mathew/04-24-2017/mary-dougherty-s-guidelines-for-submitting-pollution-photos-to-the-wisconsin-dnr.md

@@ -1,5 +1,5 @@
 ---
-title: Possible sources of more spectrometer information
+title: 'Possible sources of more spectrometer information'
 tagnames: spectrometry, question:spectrometry, request:activity
 author: Ag8n
 path: /notes/Ag8n/02-03-2018/possible-sources-of-more-spectrometer-information.md

@@ -1,5 +1,5 @@
 ---
-title: Can Public Lab help eradicate guinea worm disease by illuminating unknown and potentially contaminated water sources across a jungle/swampy endemic area?
+title: 'Can Public Lab help eradicate guinea worm disease by illuminating unknown and potentially contaminated water sources across a jungle/swampy endemic area?'
 tagnames: kite-mapping, waterway, mapping, water-quality-mapping, water, africa, mapping-requests, water-borne-diseases, question:mapping, ethiopia, question:water, question:guinea-worm, guinea-worm
 author: CWells
 path: /notes/CWells/02-26-2018/can-public-lab-help-eradicate-guinea-worm-disease-by-illuminating-unknown-and-potentially-contaminated-water-sources-across-a-jungle-swampy-endemic-area.md

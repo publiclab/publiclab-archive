@@ -1,5 +1,5 @@
 ---
-title: When is the next workshop in education?
+title: 'When is the next workshop in education?'
 tagnames: education, workshop, question:general, general
 author: amocorro
 path: /notes/amocorro/03-10-2021/when-is-the-next-workshop-in-education.md

@@ -1,5 +1,5 @@
 ---
-title: Aerial mapping workshop in Washington DC - Monday, April 14!
+title: 'Aerial mapping workshop in Washington DC - Monday, April 14!'
 tagnames: dc-baltimore, first-time-poster
 author: Pera
 path: /notes/Pera/04-10-2014/aerial-mapping-workshop-in-washington-dc-monday-april-14.md

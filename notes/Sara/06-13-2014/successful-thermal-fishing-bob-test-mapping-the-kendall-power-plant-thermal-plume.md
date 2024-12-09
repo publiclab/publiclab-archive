@@ -1,5 +1,5 @@
 ---
-title: Successful Thermal Fishing Bob Test: Mapping the Kendall Power Plant Thermal Plume
+title: 'Successful Thermal Fishing Bob Test: Mapping the Kendall Power Plant Thermal Plume'
 tagnames: thermal-fishing, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689
 author: sara
 path: /notes/Sara/06-13-2014/successful-thermal-fishing-bob-test-mapping-the-kendall-power-plant-thermal-plume.md

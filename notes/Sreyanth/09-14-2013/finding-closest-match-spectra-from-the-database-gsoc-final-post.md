@@ -1,5 +1,5 @@
 ---
-title: Finding closest match spectra from the database (GSoC) - Final Post!
+title: 'Finding closest match spectra from the database (GSoC) - Final Post!'
 tagnames: spectrometer, spectralworkbench, spectrometry, gsoc-2013, spectral-matching, closest-match
 author: Sreyanth
 path: /notes/Sreyanth/09-14-2013/finding-closest-match-spectra-from-the-database-gsoc-final-post.md

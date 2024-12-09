@@ -1,5 +1,5 @@
 ---
-title: A Spectrometric Tool for Hydrocarbon Spill Response
+title: 'A Spectrometric Tool for Hydrocarbon Spill Response'
 tagnames: spectrometer, uv, oil, laser, fluorescence, spill, quebec, canada, municipal, led, aqueous, hydrocarbon, optic, fiber, petroleum, first-time-poster
 author: id022012
 path: /notes/id022012/07-08-2013/a-spectrometric-tool-for-hydrocarbon-spill-response.md

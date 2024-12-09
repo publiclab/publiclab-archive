@@ -1,5 +1,5 @@
 ---
-title: Easy Kites for Kite Trains
+title: 'Easy Kites for Kite Trains'
 tagnames: kite-mapping, air-column-monitor, diy-kite, diy-kites, difficulty:easy, category:build, activity:aerial-photography, activity:kite-mapping, kite-making, activity:kite-making
 author: mathew
 path: /notes/mathew/6-13-2012/easy-kites-kite-trains.md

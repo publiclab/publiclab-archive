@@ -1,5 +1,5 @@
 ---
-title: yes
+title: 'yes'
 tagnames: first-time-poster
 author: prankpetrol
 path: /notes/prankpetrol/07-31-2020/yes.md

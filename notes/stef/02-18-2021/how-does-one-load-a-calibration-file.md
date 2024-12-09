@@ -1,5 +1,5 @@
 ---
-title: how does one load a calibration file?
+title: 'how does one load a calibration file?'
 tagnames: spectral-workbench, question:spectral-workbench
 author: stef
 path: /notes/stef/02-18-2021/how-does-one-load-a-calibration-file.md

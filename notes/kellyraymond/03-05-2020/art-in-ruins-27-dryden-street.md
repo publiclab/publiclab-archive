@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (27 Dryden Street)
+title: 'Art in Ruins (27 Dryden Street)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.842966, lon:-71.409759, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-27-dryden-street.md

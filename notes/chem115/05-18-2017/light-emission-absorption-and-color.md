@@ -1,5 +1,5 @@
 ---
-title: LIGHT — Emission, Absorption and Color
+title: 'LIGHT — Emission, Absorption and Color'
 tagnames: 
 author: chem115
 path: /notes/chem115/05-18-2017/light-emission-absorption-and-color.md

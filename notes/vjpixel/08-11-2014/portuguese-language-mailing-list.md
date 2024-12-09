@@ -1,5 +1,5 @@
 ---
-title: Portuguese language mailing list
+title: 'Portuguese language mailing list'
 tagnames: mailing-lists, portuguese
 author: vjpixel
 path: /notes/vjpixel/08-11-2014/portuguese-language-mailing-list.md

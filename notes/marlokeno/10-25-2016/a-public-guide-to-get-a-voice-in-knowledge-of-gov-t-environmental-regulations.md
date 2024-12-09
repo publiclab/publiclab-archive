@@ -1,5 +1,5 @@
 ---
-title: a public guide to get a voice in & knowledge of  gov't environmental  regulations
+title: 'a public guide to get a voice in & knowledge of  gov't environmental  regulations'
 tagnames: 
 author: marlokeno
 path: /notes/marlokeno/10-25-2016/a-public-guide-to-get-a-voice-in-knowledge-of-gov-t-environmental-regulations.md

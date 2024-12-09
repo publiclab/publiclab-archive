@@ -1,5 +1,5 @@
 ---
-title: Sixth Period Lightbulb
+title: 'Sixth Period Lightbulb'
 tagnames: hidden:response, response:13586
 author: KMR
 path: /notes/KMR/10-19-2016/sixth-period-lightbulb.md

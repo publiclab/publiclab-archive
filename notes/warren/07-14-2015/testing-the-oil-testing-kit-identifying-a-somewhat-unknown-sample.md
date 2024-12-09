@@ -1,5 +1,5 @@
 ---
-title: Testing the Oil Testing Kit: identifying a "somewhat unknown" sample
+title: 'Testing the Oil Testing Kit: identifying a "somewhat unknown" sample'
 tagnames: spectrometer, laser, fluorescence, crude, oil-testing-kit, 405nm, response:11173, response:11163, response:12046, activity:spectrometry, activity:spectrometry-sampling
 author: warren
 path: /notes/warren/07-14-2015/testing-the-oil-testing-kit-identifying-a-somewhat-unknown-sample.md

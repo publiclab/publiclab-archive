@@ -1,5 +1,5 @@
 ---
-title: ARAMANI – Advanced decision-support tool for selecting optimal participatory mapping method
+title: 'ARAMANI – Advanced decision-support tool for selecting optimal participatory mapping method'
 tagnames: methodologies, decision-support
 author: JirkaPanek
 path: /notes/JirkaPanek/06-03-2014/aramani-advanced-decision-support-tool-for-selecting-optimal-participatory-mapping-method.md

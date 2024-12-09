@@ -1,5 +1,5 @@
 ---
-title: Sulfur, sodium detection in flame spectometer tests
+title: 'Sulfur, sodium detection in flame spectometer tests'
 tagnames: spectrometer, emission-spectroscopy, barnraising, barnraising2012, heavy-metals, flame
 author: warren
 path: /notes/warren/11-20-2012/sulfur-sodium-detection-flame-spectometer-tests.md

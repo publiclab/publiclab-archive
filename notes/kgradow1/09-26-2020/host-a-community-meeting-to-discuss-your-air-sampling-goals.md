@@ -1,5 +1,5 @@
 ---
-title: How to host a community meeting
+title: 'How to host a community meeting'
 tagnames: organizing, air-quality, bucket-brigade, new, getting-started, draft, community-organizing, activity:air-quality, air-sampling, activity:community-organizing, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:air-sampling, activity:bucket-monitor, community-meeting, activity:organizing
 author: kgradow1
 path: /notes/kgradow1/09-26-2020/host-a-community-meeting-to-discuss-your-air-sampling-goals.md

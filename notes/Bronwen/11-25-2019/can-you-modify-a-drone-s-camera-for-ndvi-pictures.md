@@ -1,5 +1,5 @@
 ---
-title: Can you modify a drone's camera for ndvi pictures?
+title: 'Can you modify a drone's camera for ndvi pictures?'
 tagnames: ndvi, aerial-mapping, drone, question:ndvi, question:aerial-mapping, question:general, general, question:drone
 author: Bronwen
 path: /notes/Bronwen/11-25-2019/can-you-modify-a-drone-s-camera-for-ndvi-pictures.md

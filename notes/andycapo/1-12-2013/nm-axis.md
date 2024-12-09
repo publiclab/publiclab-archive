@@ -1,5 +1,5 @@
 ---
-title: nm axis?
+title: 'nm axis?'
 tagnames: 
 author: andycapo
 path: /notes/andycapo/1-12-2013/nm-axis.md

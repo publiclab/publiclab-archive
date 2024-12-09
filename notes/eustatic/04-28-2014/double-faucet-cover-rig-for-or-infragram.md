@@ -1,5 +1,5 @@
 ---
-title: Double Faucet Cover Rig for or infragram
+title: 'Double Faucet Cover Rig for or infragram'
 tagnames: gulf-coast, balloon-mapping, kite-mapping, rig, photo-rig, photo, camera, tests, activity:photo-rig
 author: eustatic
 path: /04-28-2014/double-faucet-cover-rig-for-or-infragram.md

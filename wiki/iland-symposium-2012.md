@@ -1,5 +1,5 @@
 ---
-title: iLAND Symposium 2012
+title: 'iLAND Symposium 2012'
 tagnames: ilab
 author: liz
 path: /wiki/iland-symposium-2012.md

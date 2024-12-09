@@ -1,5 +1,5 @@
 ---
-title: Is it possible to calculate average NDVI in a picture using infragram's sand box?
+title: 'Is it possible to calculate average NDVI in a picture using infragram's sand box?'
 tagnames: ndvi, infragram, photo-monitoring-plugin, question:ndvi, question:infragram, answered, question:multispectral-imaging, multispectral-imaging, question:general, question:photo-monitoring-plugin, image-sequencer, question:image-sequencer
 author: Hala73
 path: /notes/Hala73/05-03-2018/is-it-possible-to-calculate-average-ndvi-in-a-picture-using-infragram-s-sand-box.md

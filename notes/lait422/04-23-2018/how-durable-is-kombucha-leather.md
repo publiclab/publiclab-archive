@@ -1,5 +1,5 @@
 ---
-title: How durable is kombucha leather?
+title: 'How durable is kombucha leather?'
 tagnames: kombucha-leather, question:kombucha-leather
 author: lait422
 path: /notes/lait422/04-23-2018/how-durable-is-kombucha-leather.md

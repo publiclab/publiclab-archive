@@ -1,5 +1,5 @@
 ---
-title: Canon A2400 IR conversion
+title: 'Canon A2400 IR conversion'
 tagnames: near-infrared-camera, conversion, filter, infragram, activity:infrared-camera-conversion, first-time-poster
 author: jbest
 path: /notes/jbest/11-06-2013/canon-a2400-ir-conversion.md

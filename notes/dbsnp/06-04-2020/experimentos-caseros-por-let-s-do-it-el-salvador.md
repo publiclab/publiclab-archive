@@ -1,5 +1,5 @@
 ---
-title: Pruebas del Community Microscope
+title: 'Pruebas del Community Microscope'
 tagnames: spanish, community-microscope, el-salvador, lat:13.69294, lon:-89.218191, zoom:6, zoom:9
 author: dbsnp
 path: /notes/dbsnp/06-04-2020/experimentos-caseros-por-let-s-do-it-el-salvador.md

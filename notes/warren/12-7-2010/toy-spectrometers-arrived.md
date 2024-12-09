@@ -1,5 +1,5 @@
 ---
-title: Toy spectrometers arrived
+title: 'Toy spectrometers arrived'
 tagnames: 
 author: warren
 path: /notes/warren/12-7-2010/toy-spectrometers-arrived.md

@@ -1,5 +1,5 @@
 ---
-title: <code> Into GSoC’19 with Public Lab </code>
+title: '<code> Into GSoC’19 with Public Lab </code>'
 tagnames: open-source, gsoc, soc, soc-2019
 author: IshaGupta18
 path: /notes/IshaGupta18/06-24-2019/code-into-gsoc-19-with-public-lab-code.md

@@ -1,5 +1,5 @@
 ---
-title: PLOTS Map Toolkit
+title: 'PLOTS Map Toolkit'
 tagnames: 
 author: gonzoearth
 path: /wiki/map-tools-roadmap.md

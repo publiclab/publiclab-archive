@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Sulfide Monitoring Tool Well Received at NIEHS Conference!
+title: 'Hydrogen Sulfide Monitoring Tool Well Received at NIEHS Conference!'
 tagnames: hydrogen-sulfide-sensing, oil, fracking, wyoming, hydrofracking
 author: sara
 path: /notes/Sara/09-25-2014/hydrogen-sulfide-monitoring-tool-well-received-at-niehs-conference.md

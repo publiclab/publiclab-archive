@@ -1,5 +1,5 @@
 ---
-title: Should /tools be renamed to /methods, /techniques, or something else?
+title: 'Should /tools be renamed to /methods, /techniques, or something else?'
 tagnames: 
 author: liz
 path: /notes/liz/09-30-2016/should-tools-be-renamed-to-methods-techniques-or-something-else.md

@@ -1,5 +1,5 @@
 ---
-title: Open source mapping database
+title: 'Open source mapping database'
 tagnames: 
 author: SyncPoint
 path: /notes/SyncPoint/02-06-2015/open-source-mapping-database.md

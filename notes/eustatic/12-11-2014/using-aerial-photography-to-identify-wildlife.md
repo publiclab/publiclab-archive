@@ -1,5 +1,5 @@
 ---
-title: Using Aerial Photography to Identify Wildlife
+title: 'Using Aerial Photography to Identify Wildlife'
 tagnames: gulf-coast, barataria-bay, mapknitter, barataria, washustlouis, washu-stlouis, bird, response:11129
 author: eustatic
 path: /12-11-2014/using-aerial-photography-to-identify-wildlife.md

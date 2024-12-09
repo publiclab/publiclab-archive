@@ -1,5 +1,5 @@
 ---
-title: Front-illumination CCDs (as used in digital cameras) don't perform well in UV
+title: 'Front-illumination CCDs (as used in digital cameras) don't perform well in UV'
 tagnames: spectrometer, uv, ultraviolet, ccd
 author: warren
 path: /notes/warren/12-12-2010/front-illumination-ccds-used-digital-cameras-dont-perform-well-uv.md

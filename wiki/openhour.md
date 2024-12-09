@@ -1,5 +1,5 @@
 ---
-title: OpenHour
+title: 'OpenHour'
 tagnames: community, events, openhour, parent:events, fenceline
 author: liz
 path: /wiki/openhour.md

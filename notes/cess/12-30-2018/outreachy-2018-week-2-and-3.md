@@ -1,5 +1,5 @@
 ---
-title: Outreachy 2018 Week 2 and 3
+title: 'Outreachy 2018 Week 2 and 3'
 tagnames: blog, outreachy, outreachy-2018
 author: cess
 path: /notes/cess/12-30-2018/outreachy-2018-week-2-and-3.md

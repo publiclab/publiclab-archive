@@ -1,5 +1,5 @@
 ---
-title: Passenger Pigeon methods:  getting your location, the hacky way
+title: 'Passenger Pigeon methods:  getting your location, the hacky way'
 tagnames: kite-mapping, passenger-pigeon, united-states, activity:passenger-pigeon
 author: eustatic
 path: /2-26-2013/passenger-pigeon-methods-getting-your-location.md

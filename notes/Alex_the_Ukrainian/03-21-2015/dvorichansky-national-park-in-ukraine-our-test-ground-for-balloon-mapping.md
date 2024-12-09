@@ -1,5 +1,5 @@
 ---
-title: Dvorichansky National Park in Ukraine, our test ground for balloon-mapping
+title: 'Dvorichansky National Park in Ukraine, our test ground for balloon-mapping'
 tagnames: balloon-mapping, park, diy-kite, diy-balloon, nature, ecology, ukraine, wild, preservation, conservationism, nation, ecosystem, biodiversity
 author: Alex_the_Ukrainian
 path: /notes/Alex_the_Ukrainian/03-21-2015/dvorichansky-national-park-in-ukraine-our-test-ground-for-balloon-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: Every spectrum is on its side?
+title: 'Every spectrum is on its side?'
 tagnames: webcam, spectral-workbench, question:general, general, first-time-poster
 author: wijnand_doffer
 path: /notes/wijnand_doffer/03-19-2021/every-spectrum-is-on-its-side.md

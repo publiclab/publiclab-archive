@@ -1,5 +1,5 @@
 ---
-title: mapknitter-sidebar
+title: 'mapknitter-sidebar'
 tagnames: 
 author: warren
 path: /feature/mapknitter-sidebar.md

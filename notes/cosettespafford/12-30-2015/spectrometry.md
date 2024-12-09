@@ -1,5 +1,5 @@
 ---
-title: Spectrometry
+title: 'Spectrometry'
 tagnames: spectrometer, spectroscopy, grating-angle, cooking, ingredients
 author: cosettespafford
 path: /notes/cosettespafford/12-30-2015/spectrometry.md

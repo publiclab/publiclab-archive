@@ -1,5 +1,5 @@
 ---
-title: Spectra Workbench for offline use?
+title: 'Spectra Workbench for offline use?'
 tagnames: spectrometer, spectralworkbench, software-deployment, offline
 author: drabanus
 path: /notes/drabanus/6-4-2013/spectra-workbench-offline-use.md

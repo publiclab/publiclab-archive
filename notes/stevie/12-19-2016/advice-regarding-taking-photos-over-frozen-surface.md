@@ -1,5 +1,5 @@
 ---
-title: Advice regarding taking photos over frozen surface?
+title: 'Advice regarding taking photos over frozen surface?'
 tagnames: timelapse, answered, question:timelapse
 author: stevie
 path: /notes/stevie/12-19-2016/advice-regarding-taking-photos-over-frozen-surface.md

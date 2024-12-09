@@ -1,5 +1,5 @@
 ---
-title: Infragram JS
+title: 'Infragram JS'
 tagnames: 
 author: warren
 path: /wiki/infragram-js.md

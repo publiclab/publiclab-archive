@@ -1,5 +1,5 @@
 ---
-title: Mercury 
+title: 'Mercury '
 tagnames: 
 author: Shawntez31
 path: /notes/Shawntez31/04-23-2018/mercury.md

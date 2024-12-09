@@ -1,5 +1,5 @@
 ---
-title: Knight Foundation funding drone journalism project
+title: 'Knight Foundation funding drone journalism project'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/6-25-2012/knight-foundation-funding-drone-journalism-project.md

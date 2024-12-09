@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Annotations Update: L.Illustrate.Textbox
+title: 'MapKnitter Annotations Update: L.Illustrate.Textbox'
 tagnames: mapknitter, gsoc, developers, gsoc-2014, barnstar:basic
 author: justinmanley
 path: /notes/justinmanley/06-25-2014/mapknitter-annotations-update-l-illustrate-textbox.md

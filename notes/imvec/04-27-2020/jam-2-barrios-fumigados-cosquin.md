@@ -1,5 +1,5 @@
 ---
-title: JAM#2: Barrios Fumigados Cosquín
+title: 'JAM#2: Barrios Fumigados Cosquín'
 tagnames: lang:es, argentina, spanish, zoom:16, cosquin, monsanto, glifosato, agrotoxicos, lat:41.408488, lon:2.199325, jam, autodefensa, atrazina, bayer, autodefensa-vecinal
 author: imvec
 path: /notes/imvec/04-27-2020/jam-2-barrios-fumigados-cosquin.md

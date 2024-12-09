@@ -1,5 +1,5 @@
 ---
-title: Invite someone to translate on Transifex (managers)
+title: 'Invite someone to translate on Transifex (managers)'
 tagnames: community, website, activity, localization, translation, language, activity:localization-managers
 author: liz
 path: /notes/liz/10-26-2016/how-to-invite-someone-to-translate-on-transifex.md

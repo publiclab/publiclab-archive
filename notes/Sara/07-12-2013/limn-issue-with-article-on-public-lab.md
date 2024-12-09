@@ -1,5 +1,5 @@
 ---
-title: Limn Issue with Article on Public Lab
+title: 'Limn Issue with Article on Public Lab'
 tagnames: boston
 author: sara
 path: /notes/Sara/07-12-2013/limn-issue-with-article-on-public-lab.md

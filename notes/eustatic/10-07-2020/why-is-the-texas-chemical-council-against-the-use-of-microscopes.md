@@ -1,5 +1,5 @@
 ---
-title: Why is the Texas Chemical Council against the use of Microscopes?
+title: 'Why is the Texas Chemical Council against the use of Microscopes?'
 tagnames: gulf-coast, water-quality, barnstar:watchdog, microscope, microplastics, zoom:16, lat:30.267147, lon:-97.743065
 author: eustatic
 path: /10-07-2020/why-is-the-texas-chemical-council-against-the-use-of-microscopes.md

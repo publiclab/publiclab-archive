@@ -1,5 +1,5 @@
 ---
-title: Northeast Tool-focused Barnraising: June 6-8, 2014
+title: 'Northeast Tool-focused Barnraising: June 6-8, 2014'
 tagnames: new-york-city, providence, somerville-massachusetts, vermont, boston, philadelphia, barnraising, event, plymouth, tidmarsh, dc-baltimore, northeast, tool-focused, jones-river, regional
 author: Hudonnoodles
 path: /notes/Hudonnoodles/04-30-2014/northeast-tool-focused-barnraising-june-6-8-2014.md

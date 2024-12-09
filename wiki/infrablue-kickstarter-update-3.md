@@ -1,5 +1,5 @@
 ---
-title: Infrablue Kickstarter Update 3
+title: 'Infrablue Kickstarter Update 3'
 tagnames: nrg, ndvi, infrared, gigapan
 author: cfastie
 path: /wiki/infrablue-kickstarter-update-3.md

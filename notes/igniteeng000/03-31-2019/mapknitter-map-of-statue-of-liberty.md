@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of statue of liberty
+title: 'MapKnitter map of statue of liberty'
 tagnames: mapknitter, lat:40.6892494, lon:-74.0445004
 author: igniteeng000
 path: /notes/igniteeng000/03-31-2019/mapknitter-map-of-statue-of-liberty.md

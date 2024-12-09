@@ -1,5 +1,5 @@
 ---
-title: Web Working Group
+title: 'Web Working Group'
 tagnames: website, working-groups, web-working-group, wwg, parent:working-groups, parent:website
 author: warren
 path: /wiki/wwg.md

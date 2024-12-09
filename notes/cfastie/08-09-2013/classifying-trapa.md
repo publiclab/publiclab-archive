@@ -1,5 +1,5 @@
 ---
-title: Classifying Trapa 
+title: 'Classifying Trapa '
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, vermont, lake, gps, pvos, event, massachusetts, invasive, umass-amherst, aquatic, usfws, classification, georeferencing, h2onutz, response:8928, response:8937, response:8958, invasive-species
 author: cfastie
 path: /notes/cfastie/08-09-2013/classifying-trapa.md

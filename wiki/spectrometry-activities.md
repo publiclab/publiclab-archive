@@ -1,5 +1,5 @@
 ---
-title: Spectrometry activities
+title: 'Spectrometry activities'
 tagnames: education, spectrometry, curriculum, classroom
 author: warren
 path: /wiki/spectrometry-activities.md

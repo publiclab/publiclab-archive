@@ -1,5 +1,5 @@
 ---
-title: GLAM featured on Gowanus Your Face Off
+title: 'GLAM featured on Gowanus Your Face Off'
 tagnames: new-york-city, balloon-mapping, gowanus, glam
 author: liz
 path: /notes/liz/07-31-2013/glam-featured-on-gowanus-your-face-off.md

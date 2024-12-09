@@ -1,5 +1,5 @@
 ---
-title: Workshop X: What Action Does our Data Support?
+title: 'Workshop X: What Action Does our Data Support?'
 tagnames: education, workshop, communityscience
 author: purl
 path: /notes/purl/03-17-2021/workshop-ix-what-action-does-our-data-support.md

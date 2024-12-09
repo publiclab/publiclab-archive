@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (387 Charles Street)
+title: 'Art in Ruins (387 Charles Street)'
 tagnames: hidden:response, lat:41.7, zoom:8, lon:-71.5, zoom:10, lon:-71.416625, lat:41.845012, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-387-charles-street.md

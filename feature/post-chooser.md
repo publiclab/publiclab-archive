@@ -1,5 +1,5 @@
 ---
-title: post-chooser
+title: 'post-chooser'
 tagnames: choose-screen
 author: warren
 path: /feature/post-chooser.md

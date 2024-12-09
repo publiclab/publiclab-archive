@@ -1,5 +1,5 @@
 ---
-title: CANCELED Event: Sand Sentinel Training, Bloomer WI
+title: 'CANCELED Event: Sand Sentinel Training, Bloomer WI'
 tagnames: event, frac-sand, pm, mid-west, particulate-matter, with:pat, this, sentinel, parent:the-sand-sentinel-program, zoom:11, lat:45.109392, lon:-91.484184, sand-sentinel, sentinel-program
 author: stevie
 path: /notes/stevie/03-04-2020/event-sand-sentinel-training-bloomer-wi.md

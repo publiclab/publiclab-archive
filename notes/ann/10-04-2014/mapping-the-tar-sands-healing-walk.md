@@ -1,5 +1,5 @@
 ---
-title: Mapping the Tar Sands Healing Walk
+title: 'Mapping the Tar Sands Healing Walk'
 tagnames: kite-mapping, protest-mapping, oil, pipeline, canada, alberta, oil-sands, fort-mcmurray, oil-and-gas, first-time-poster
 author: ann
 path: /notes/ann/10-04-2014/mapping-the-tar-sands-healing-walk.md

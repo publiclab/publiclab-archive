@@ -1,5 +1,5 @@
 ---
-title: People who work on soil- join us for methods jam this Tuesday! 
+title: 'People who work on soil- join us for methods jam this Tuesday! '
 tagnames: event, soil, event:rsvp, soil-testing, soil-contamination, soil-contamination-testing, date:05-07-2019
 author: DanielleS
 path: /notes/DanielleS/05-03-2019/people-who-work-on-soil-join-us-for-methods-jam-this-tuesday.md

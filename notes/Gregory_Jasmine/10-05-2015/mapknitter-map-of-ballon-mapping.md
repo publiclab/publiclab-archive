@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Ballon mapping
+title: 'MapKnitter map of Ballon mapping'
 tagnames: mapknitter, lat:35.3075696, lon:-80.7285523, first-time-poster
 author: Gregory_Jasmine
 path: /notes/Gregory_Jasmine/10-05-2015/mapknitter-map-of-ballon-mapping.md

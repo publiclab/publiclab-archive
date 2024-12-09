@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of STEM Magnet Program for New Orleans Pothole Research
+title: 'MapKnitter map of STEM Magnet Program for New Orleans Pothole Research'
 tagnames: gulf-coast, balloon-mapping, mapknitter, laplace, louisiana, transportation, new-orleans, stormwater, potholes, roads, zoom:16, zoom:17, asphalt, lat:30.0580906648, lon:-90.5734884739, lat:30.057505, lon:-90.573241, lat:30.057693, lon:-90.572898
 author: Rgaude
 path: /notes/Rgaude/05-10-2021/mapknitter-map-of-stem-magnet-program-for-new-orleans-pothole-research.md

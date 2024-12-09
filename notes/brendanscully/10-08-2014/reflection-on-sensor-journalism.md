@@ -1,5 +1,5 @@
 ---
-title: Reflection on Sensor Journalism 
+title: 'Reflection on Sensor Journalism '
 tagnames: sensor-journalism
 author: brendanscully
 path: /notes/brendanscully/10-08-2014/reflection-on-sensor-journalism.md

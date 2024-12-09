@@ -1,5 +1,5 @@
 ---
-title: Can you detect pvc microplastics with a nvdi camera?
+title: 'Can you detect pvc microplastics with a nvdi camera?'
 tagnames: ndvi, infrared, pvc, question:ndvi, ocean, question:microplastics, microplastics, polyethelene, polystyrene, vinyl
 author: Ag8n
 path: /notes/Ag8n/05-18-2018/can-you-detect-pvc-microplastics-with-a-nvdi-camera.md

@@ -1,5 +1,5 @@
 ---
-title: Roomba indoor air-quality sensing by RISD students
+title: 'Roomba indoor air-quality sensing by RISD students'
 tagnames: 
 author: warren
 path: /notes/warren/1-30-2011/roomba-indoor-air-quality-sensing-risd-students.md

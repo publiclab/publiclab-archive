@@ -1,5 +1,5 @@
 ---
-title: The LUMCON Lawn
+title: 'The LUMCON Lawn'
 tagnames: image-stitching, louisiana, photoshop, barnraising, barnraising2012, lumcon, aligning, gigapan
 author: cfastie
 path: /notes/cfastie/11-14-2012/lumcon-lawn.md

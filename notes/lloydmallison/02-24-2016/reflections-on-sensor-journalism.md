@@ -1,5 +1,5 @@
 ---
-title: Reflections on Sensor Journalism
+title: 'Reflections on Sensor Journalism'
 tagnames: sensor-journalism, response:12748, hidden:response
 author: lloydmallison
 path: /notes/lloydmallison/02-24-2016/reflections-on-sensor-journalism.md

@@ -1,5 +1,5 @@
 ---
-title: OpenHour NYC IRL
+title: 'OpenHour NYC IRL'
 tagnames: new-york-city, event, northeast, openhour
 author: liz
 path: /notes/liz/08-05-2014/openhour-nyc-irl.md

@@ -1,5 +1,5 @@
 ---
-title: Rough prototype of video analysis tool for monitoring a pixel's brightness/color over time
+title: 'Rough prototype of video analysis tool for monitoring a pixel's brightness/color over time'
 tagnames: video, photo-monitoring, timelapse, water-quality, turbidity, prototype, image-analysis, video-analysis
 author: warren
 path: /notes/warren/07-23-2017/rough-prototype-of-video-analysis-tool-for-monitoring-a-pixel.md

@@ -1,5 +1,5 @@
 ---
-title: Which No IR 12mm lens should I get for 640x480 webcam?
+title: 'Which No IR 12mm lens should I get for 640x480 webcam?'
 tagnames: spectrometer, infrared, spectrometry, webcam, ir, question:lego-spectrometer, lego-spectrometer
 author: jevs
 path: /notes/jevs/11-16-2019/which-no-ir-12mm-lens-should-i-get-for-640x480-webcam.md

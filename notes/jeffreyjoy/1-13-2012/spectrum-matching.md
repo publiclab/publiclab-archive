@@ -1,5 +1,5 @@
 ---
-title: spectrum matching
+title: 'spectrum matching'
 tagnames: spectrometer, spectrum-matching, matching, spectral-workbench
 author: jeffreyjoy
 path: /notes/jeffreyjoy/1-13-2012/spectrum-matching.md

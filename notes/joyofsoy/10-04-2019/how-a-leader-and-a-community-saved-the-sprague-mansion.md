@@ -1,5 +1,5 @@
 ---
-title: How a Leader and a Community Saved the Sprague Mansion
+title: 'How a Leader and a Community Saved the Sprague Mansion'
 tagnames: csf, one-cranston
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/how-a-leader-and-a-community-saved-the-sprague-mansion.md

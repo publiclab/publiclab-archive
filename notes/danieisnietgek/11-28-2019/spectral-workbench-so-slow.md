@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench so slow on raspberry pi zero
+title: 'Spectral Workbench so slow on raspberry pi zero'
 tagnames: spectral-workbench, question:spectral-workbench, question:lego-spectrometer, lego-spectrometer, first-time-poster
 author: danieisnietgek
 path: /notes/danieisnietgek/11-28-2019/spectral-workbench-so-slow.md

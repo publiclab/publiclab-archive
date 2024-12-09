@@ -1,5 +1,5 @@
 ---
-title: GitHub graphs
+title: 'GitHub graphs'
 tagnames: 
 author: warren
 path: /wiki/github-graphs.md

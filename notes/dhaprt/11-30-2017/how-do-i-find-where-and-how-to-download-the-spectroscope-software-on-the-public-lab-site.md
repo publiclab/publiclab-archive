@@ -1,5 +1,5 @@
 ---
-title: How do I find where and how to download the spectroscope software on the Public Lab site?
+title: 'How do I find where and how to download the spectroscope software on the Public Lab site?'
 tagnames: question:general
 author: dhaprt
 path: /notes/dhaprt/11-30-2017/how-do-i-find-where-and-how-to-download-the-spectroscope-software-on-the-public-lab-site.md

@@ -1,5 +1,5 @@
 ---
-title: Touch|Play|Learn: a space to explore & create
+title: 'Touch|Play|Learn: a space to explore & create'
 tagnames: london, diy-balloon-arduino-play-fun, uk, eu
 author: cindy_excites
 path: /notes/cindyexcites/9-26-2012/touchplaylearn-space-explore-create.md

@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism: Fad or Future? 
+title: 'Sensor Journalism: Fad or Future? '
 tagnames: sensor-journalism
 author: connorburton123
 path: /notes/connorburton123/02-23-2015/sensor-journalism-fad-or-future.md

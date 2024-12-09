@@ -1,5 +1,5 @@
 ---
-title: Public Lab trading cards
+title: 'Public Lab trading cards'
 tagnames: organizers, case-studies, trading-cards, illustrations, graphic
 author: warren
 path: /notes/warren/04-20-2014/public-lab-trading-cards.md

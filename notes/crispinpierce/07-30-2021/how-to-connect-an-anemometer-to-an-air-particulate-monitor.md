@@ -1,5 +1,5 @@
 ---
-title: How to connect an anemometer to an air particulate monitor?
+title: 'How to connect an anemometer to an air particulate monitor?'
 tagnames: anemometer, air-quality, wind, frac-sand, pm, weather, question:air-quality, question:general, general, particulate-matter, question:weather, question:air-sensors, air-sensors, purpleair, pm2.5, purple-air, first-time-poster, question:purple-air
 author: crispinpierce
 path: /notes/crispinpierce/07-30-2021/how-to-connect-an-anemometer-to-an-air-particulate-monitor.md

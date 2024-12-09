@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism Reflection 
+title: 'Sensor Journalism Reflection '
 tagnames: sensor-journalism
 author: TaylorKiss
 path: /notes/TaylorKiss/10-07-2014/sensor-journalism-reflection.md

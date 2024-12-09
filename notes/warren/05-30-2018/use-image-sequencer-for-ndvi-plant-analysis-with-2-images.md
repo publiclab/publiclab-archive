@@ -1,5 +1,5 @@
 ---
-title: Use Image Sequencer for NDVI plant analysis with 2 images
+title: 'Use Image Sequencer for NDVI plant analysis with 2 images'
 tagnames: near-infrared-camera, video, remote-sensing, ndvi, infrared, nasa, infragram, photosynthesis, infrared-photography, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:image-analysis, aren, image-sequencer, activity:image-sequencer, activity:aren, activity:nasa
 author: warren
 path: /notes/warren/05-30-2018/use-image-sequencer-for-ndvi-plant-analysis-with-2-images.md

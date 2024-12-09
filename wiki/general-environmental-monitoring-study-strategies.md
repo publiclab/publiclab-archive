@@ -1,5 +1,5 @@
 ---
-title: General Environmental Monitoring Study Strategies
+title: 'General Environmental Monitoring Study Strategies'
 tagnames: air-quality, monitoring, study-design
 author: gretchengehrke
 path: /wiki/general-environmental-monitoring-study-strategies.md

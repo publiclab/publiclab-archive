@@ -1,5 +1,5 @@
 ---
-title: School lights
+title: 'School lights'
 tagnames: spectrometer, classroom, spectrum, hidden:response, school, replication:15121, response:17384
 author: kjdemaree
 path: /notes/kjdemaree/10-24-2018/school-lights.md

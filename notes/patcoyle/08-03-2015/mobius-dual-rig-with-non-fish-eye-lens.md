@@ -1,5 +1,5 @@
 ---
-title: Mobius dual rig with non-fish-eye lens
+title: 'Mobius dual rig with non-fish-eye lens'
 tagnames: kap, mobius-actioncam, juice-bottle-rig, infragram-point-shoot, kap-rigs, photomonitoring, stowaway-delta, non-fish-eye, levitation-delta
 author: patcoyle
 path: /notes/patcoyle/08-03-2015/mobius-dual-rig-with-non-fish-eye-lens.md

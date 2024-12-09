@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNCC mosaic Brad Henson
+title: 'MapKnitter map of UNCC mosaic Brad Henson'
 tagnames: mapknitter, lat:35.3083817023, lon:-80.7339549065
 author: bhenson5
 path: /notes/bhenson5/02-13-2018/mapknitter-map-of-uncc-mosaic-brad-henson.md

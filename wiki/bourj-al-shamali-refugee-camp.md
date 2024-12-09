@@ -1,5 +1,5 @@
 ---
-title: Bourj Al Shamali Refugee Camp
+title: 'Bourj Al Shamali Refugee Camp'
 tagnames: aerial-photography, chapter, lebanon, refugees, refugeecamps, lat:33.267941, lon:35.236883, bourjalshamali, project, place:bourj-al-shamali
 author: clauds
 path: /wiki/bourj-al-shamali-refugee-camp.md

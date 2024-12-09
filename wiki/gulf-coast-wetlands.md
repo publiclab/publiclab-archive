@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast Wetlands 
+title: 'Gulf Coast Wetlands '
 tagnames: 
 author: stevie
 path: /wiki/gulf-coast-wetlands.md

@@ -1,5 +1,5 @@
 ---
-title: Extra-slow SD cards for balloon mapping
+title: 'Extra-slow SD cards for balloon mapping'
 tagnames: 
 author: warren
 path: /notes/warren/3-25-2011/extra-slow-sd-cards-balloon-mapping.md

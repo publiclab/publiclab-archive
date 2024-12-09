@@ -1,5 +1,5 @@
 ---
-title: Map of Trees to be cut for a golf course in City Park
+title: 'Map of Trees to be cut for a golf course in City Park'
 tagnames: gulf-coast, mapknitter, neworleans, land-use
 author: eustatic
 path: /02-28-2015/map-of-trees-to-be-cut-for-a-golf-course-in-city-park.md

@@ -1,5 +1,5 @@
 ---
-title: USB bare wire power cable
+title: 'USB bare wire power cable'
 tagnames: arduino, battery, power, activity:arduino, usb
 author: MadTinker
 path: /notes/MadTinker/02-08-2018/usb-bare-wire-power-cable.md

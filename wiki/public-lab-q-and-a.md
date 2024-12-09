@@ -1,5 +1,5 @@
 ---
-title: About Public Lab Questions & Answers
+title: 'About Public Lab Questions & Answers'
 tagnames: help, research, q-and-a, soc, questions, parent:website-basics, asking-questions
 author: ananyo2012
 path: /wiki/public-lab-q-and-a.md

@@ -1,5 +1,5 @@
 ---
-title: Question: Why I can not upload images to calibrate
+title: 'Question: Why I can not upload images to calibrate'
 tagnames: question:spectral-workbench
 author: congminhqt
 path: /notes/congminhqt/08-10-2015/question-why-i-can-not-upload-images-to-calibrate.md

@@ -1,5 +1,5 @@
 ---
-title: Hyperspectral scan of an apple at ~553 nanometers
+title: 'Hyperspectral scan of an apple at ~553 nanometers'
 tagnames: spectrometer, hyperspectral, apple
 author: warren
 path: /notes/warren/12-9-2011/hyperspectral-scan-apple-553-nanometers.md

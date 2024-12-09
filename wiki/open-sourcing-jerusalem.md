@@ -1,5 +1,5 @@
 ---
-title: Open Sourcing Jerusalem
+title: 'Open Sourcing Jerusalem'
 tagnames: style:fancy, with:hagitkeysar
 author: mollydanielsson
 path: /wiki/open-sourcing-jerusalem.md

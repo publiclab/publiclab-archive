@@ -1,5 +1,5 @@
 ---
-title: New Experimental Design, Aztec, New Mexico
+title: 'New Experimental Design, Aztec, New Mexico'
 tagnames: hydrogen-sulfide-sensing, study-design, h2s-study-design
 author: megan
 path: /notes/megan/8-14-2012/new-experimental-design-aztec-new-mexico.md

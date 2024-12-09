@@ -1,5 +1,5 @@
 ---
-title: How does data from a Kestrel wind sensor compare to an Modern Device wind sensor?
+title: 'How does data from a Kestrel wind sensor compare to an Modern Device wind sensor?'
 tagnames: as220, leaffest, wind, answered, data-logging, skypod, question:data-logging, question:wind, aren, leaffest2017, question:leaffest, leaffest-2017, kestrel, aeropod, question:skypod, question:leaffest2017, question:as220-wind-sensors
 author: warren
 path: /notes/warren/09-30-2017/how-does-data-from-a-kestrel-wind-sensor-compare-to-an-modern-device-wind-sensor.md

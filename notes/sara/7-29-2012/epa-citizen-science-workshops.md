@@ -1,5 +1,5 @@
 ---
-title: EPA Citizen Science Workshops
+title: 'EPA Citizen Science Workshops'
 tagnames: new-york-city, epa, new-jersey, northeast
 author: sara
 path: /notes/sara/7-29-2012/epa-citizen-science-workshops.md

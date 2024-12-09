@@ -1,5 +1,5 @@
 ---
-title: Multispectral raspberry pi: first light (NDVI images)
+title: 'Multispectral raspberry pi: first light (NDVI images)'
 tagnames: ndvi, raspberry-pi, infragram, barnstar:basic, multipspectral
 author: khufkens
 path: /notes/khufkens/05-10-2015/multispectral-raspberry-pi-first-light-ndvi-images.md

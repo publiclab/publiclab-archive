@@ -1,5 +1,5 @@
 ---
-title: Video tutorial: Build a $10 USB visible-light spectrometer 
+title: 'Video tutorial: Build a $10 USB visible-light spectrometer '
 tagnames: 
 author: warren
 path: /notes/warren/11-30-2011/video-tutorial-build-10-usb-visible-light-spectrometer.md

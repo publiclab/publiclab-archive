@@ -1,5 +1,5 @@
 ---
-title: Build an Infragram Pi Camera
+title: 'Build an Infragram Pi Camera'
 tagnames: multispectral, raspberry-pi, infragram, infragram-pi, activity:pi-camera-setup, pin:activity:infragram-pi, pi-camera-setup
 author: mimiss
 path: /notes/mimiss/03-31-2020/build-an-infragram-pi-camera.md

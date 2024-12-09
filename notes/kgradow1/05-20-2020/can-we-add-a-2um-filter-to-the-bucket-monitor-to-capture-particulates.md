@@ -1,5 +1,5 @@
 ---
-title: Can we add a 2um filter to the bucket monitor to capture particulates?
+title: 'Can we add a 2um filter to the bucket monitor to capture particulates?'
 tagnames: air-quality, question:air-quality, question:general, general, air-sensor, question:air-sensor, bucket-monitor, question:bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/05-20-2020/can-we-add-a-2um-filter-to-the-bucket-monitor-to-capture-particulates.md

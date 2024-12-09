@@ -1,5 +1,5 @@
 ---
-title: Lensless holograpic microscope
+title: 'Lensless holograpic microscope'
 tagnames: holographic, microscope, microscopy, microscopes, lensless, geekcon
 author: amirberAgain
 path: /notes/amirberAgain/04-30-2018/lensless-holograpic-microscope.md

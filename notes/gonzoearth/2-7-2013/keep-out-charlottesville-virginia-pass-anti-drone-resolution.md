@@ -1,5 +1,5 @@
 ---
-title: KEEP OUT: Charlottesville Virginia Pass Anti-Drone Resolution
+title: 'KEEP OUT: Charlottesville Virginia Pass Anti-Drone Resolution'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/2-7-2013/keep-out-charlottesville-virginia-pass-anti-drone-resolution.md

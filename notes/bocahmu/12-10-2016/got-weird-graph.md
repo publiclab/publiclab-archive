@@ -1,5 +1,5 @@
 ---
-title: got weird graph
+title: 'got weird graph'
 tagnames: spectrometer, spectralworkbench, red, uvc, save, question:general
 author: bocahmu
 path: /notes/bocahmu/12-10-2016/got-weird-graph.md

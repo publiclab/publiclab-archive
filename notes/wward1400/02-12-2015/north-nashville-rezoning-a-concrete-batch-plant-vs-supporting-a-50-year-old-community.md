@@ -1,5 +1,5 @@
 ---
-title: North Nashville: Concrete Batch Plant Rezoning Adjacent to a +50 Year Old Community
+title: 'North Nashville: Concrete Batch Plant Rezoning Adjacent to a +50 Year Old Community'
 tagnames: balloon-mapping, water-sensing, air-column-monitor, water-quality-mapping, air-quality, transportation, water-quality, southeast, traffic, land-use, zoning, tennessee, lulu
 author: wward1400
 path: /notes/wward1400/02-12-2015/north-nashville-rezoning-a-concrete-batch-plant-vs-supporting-a-50-year-old-community.md

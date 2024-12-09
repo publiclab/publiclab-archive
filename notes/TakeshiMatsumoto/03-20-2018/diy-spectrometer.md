@@ -1,5 +1,5 @@
 ---
-title: DIY-spectrometer
+title: 'DIY-spectrometer'
 tagnames: spectrometer, diy-bio, hardware, first-time-poster
 author: TakeshiMatsumoto
 path: /notes/TakeshiMatsumoto/03-20-2018/diy-spectrometer.md

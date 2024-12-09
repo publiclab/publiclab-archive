@@ -1,5 +1,5 @@
 ---
-title: investigation concepts from journalists
+title: 'investigation concepts from journalists'
 tagnames: evidence, journalism, lat:35, zoom:13, lon:-78.99, investigation, osint
 author: liz
 path: /notes/liz/06-16-2021/investigation-concepts-from-journalists.md

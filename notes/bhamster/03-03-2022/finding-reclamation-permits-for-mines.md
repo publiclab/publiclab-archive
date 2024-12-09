@@ -1,5 +1,5 @@
 ---
-title: Finding reclamation plans and permits for mines
+title: 'Finding reclamation plans and permits for mines'
 tagnames: mining, permits, reclamation, with:laurel_mire, mine-reclamation, activity:mine-reclamation, activity:reclamation, activity:permits
 author: bhamster
 path: /notes/bhamster/03-03-2022/finding-reclamation-permits-for-mines.md

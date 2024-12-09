@@ -1,5 +1,5 @@
 ---
-title: Infrared dual cameras shipping today
+title: 'Infrared dual cameras shipping today'
 tagnames: near-infrared-camera
 author: warren
 path: /notes/warren/4-25-2012/infrared-dual-cameras-shipping-today.md

@@ -1,5 +1,5 @@
 ---
-title: Camp Code: How to navigate a refugee settlement
+title: 'Camp Code: How to navigate a refugee settlement'
 tagnames: blog, bourjalshamali
 author: clauds
 path: /notes/clauds/04-28-2016/camp-code-how-to-navigate-a-refugee-settlement.md

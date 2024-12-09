@@ -1,5 +1,5 @@
 ---
-title: Flight-ready MK111 timer
+title: 'Flight-ready MK111 timer'
 tagnames: near-infrared-camera, kite-mapping, grassrootsmapping, triggering
 author: cfastie
 path: /notes/cfastie/5-10-2012/flight-ready-mk111-timer.md

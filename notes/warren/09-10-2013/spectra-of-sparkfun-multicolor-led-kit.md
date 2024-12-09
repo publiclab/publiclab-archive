@@ -1,5 +1,5 @@
 ---
-title: Spectra of Sparkfun Multicolor LED kit
+title: 'Spectra of Sparkfun Multicolor LED kit'
 tagnames: spectrometer, leaffest, smartphone-spectrometer, leaffest2013, sparkfun, leds
 author: warren
 path: /notes/warren/09-10-2013/spectra-of-sparkfun-multicolor-led-kit.md

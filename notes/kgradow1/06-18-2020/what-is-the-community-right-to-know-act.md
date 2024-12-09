@@ -1,5 +1,5 @@
 ---
-title: What is the Community Right-to-Know Act?
+title: 'What is the Community Right-to-Know Act?'
 tagnames: epa, air-quality, superfund, water-quality, legal, tools, methods, bucket-brigade, serc, hazardous, emergency, tri, toxics-release-inventory, lon:-71, lat:42, zoom:6, bucket-monitor, law-and-policy
 author: kgradow1
 path: /notes/kgradow1/06-18-2020/what-is-the-community-right-to-know-act.md

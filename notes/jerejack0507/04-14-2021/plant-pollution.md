@@ -1,5 +1,5 @@
 ---
-title: Plant Pollution
+title: 'Plant Pollution'
 tagnames: gulf-coast, cancer, lousiana, issue-brief, chloroprene, first-time-poster, zoom:6, lat:30.053813, lon:-90.551753, denka, dupont, st-john-parish
 author: jerejack0507
 path: /notes/jerejack0507/04-14-2021/plant-pollution.md

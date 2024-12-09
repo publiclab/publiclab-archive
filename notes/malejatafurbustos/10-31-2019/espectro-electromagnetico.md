@@ -1,5 +1,5 @@
 ---
-title: espectro electromagnetico
+title: 'espectro electromagnetico'
 tagnames: first-time-poster
 author: malejatafurbustos
 path: /notes/malejatafurbustos/10-31-2019/espectro-electromagnetico.md

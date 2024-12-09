@@ -1,5 +1,5 @@
 ---
-title: Photo-printed collimation slit for the Backpack Spectrometer 
+title: 'Photo-printed collimation slit for the Backpack Spectrometer '
 tagnames: spectrometer, slit, stepped-slit, slit-width
 author: mathew
 path: /notes/mathew/09-25-2013/photo-printed-collimation-slit-for-the-backpack-spectrometer.md

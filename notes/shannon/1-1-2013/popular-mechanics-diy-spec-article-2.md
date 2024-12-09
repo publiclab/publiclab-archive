@@ -1,5 +1,5 @@
 ---
-title: Popular Mechanics DIY Spec. article #2
+title: 'Popular Mechanics DIY Spec. article #2'
 tagnames: spectrometer
 author: Shannon
 path: /notes/shannon/1-1-2013/popular-mechanics-diy-spec-article-2.md

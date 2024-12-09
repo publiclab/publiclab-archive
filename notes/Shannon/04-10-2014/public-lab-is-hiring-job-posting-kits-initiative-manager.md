@@ -1,5 +1,5 @@
 ---
-title: Public Lab is hiring! Job Posting: Kits Initiative Manager
+title: 'Public Lab is hiring! Job Posting: Kits Initiative Manager'
 tagnames: jobs
 author: Shannon
 path: /notes/Shannon/04-10-2014/public-lab-is-hiring-job-posting-kits-initiative-manager.md

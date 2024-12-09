@@ -1,5 +1,5 @@
 ---
-title: Monitor transparency, dissolved oxygen, ORP, and ammonia from a river
+title: 'Monitor transparency, dissolved oxygen, ORP, and ammonia from a river'
 tagnames: water-quality, water-monitoring, turbidity, dissolved-oxygen, river, transparency, orp, ammonia, water-sensors, location:blurred, secchi-disk, lat:23, lon:113, place:china, wastewater-organic-matter
 author: shanlter
 path: /notes/shanlter/07-03-2017/monitor-transparency-dissolved-oxygen-orp-and-ammonia-from-a-river.md

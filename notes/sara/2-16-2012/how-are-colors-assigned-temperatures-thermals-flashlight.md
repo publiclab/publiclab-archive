@@ -1,5 +1,5 @@
 ---
-title: How are colors assigned to temperatures with the thermal flashlight?O
+title: 'How are colors assigned to temperatures with the thermal flashlight?O'
 tagnames: 
 author: sara
 path: /notes/sara/2-16-2012/how-are-colors-assigned-temperatures-thermals-flashlight.md

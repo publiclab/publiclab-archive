@@ -1,5 +1,5 @@
 ---
-title: Riffle Device: Water Conductivity Sensor
+title: 'Riffle Device: Water Conductivity Sensor'
 tagnames: water, data, probe, conductivity, riffle, logger, quality, coqui, open, rtc, drinking, surface, activity:riffle, riffle-examples, activity:conductivity, activity:coqui-version
 author: rebeccah
 path: /notes/rebeccah/08-29-2016/riffle-device-water-conductivity-sensor.md

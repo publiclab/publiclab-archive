@@ -1,5 +1,5 @@
 ---
-title: If a location have bad air quality, could it be reversed?
+title: 'If a location have bad air quality, could it be reversed?'
 tagnames: question:general, general, first-time-poster
 author: YaMya_Kinnard
 path: /notes/YaMya_Kinnard/04-27-2021/if-a-place-s-air-pollution-was-so-bad-could-they-still-fix-it-and-better-it-in-the-near-future.md

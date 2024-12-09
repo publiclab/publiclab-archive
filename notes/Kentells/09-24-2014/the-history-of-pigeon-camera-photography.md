@@ -1,5 +1,5 @@
 ---
-title: The History of Pigeon Camera Photography
+title: 'The History of Pigeon Camera Photography'
 tagnames: balloon-mapping, photo-rig
 author: Kentells
 path: /notes/Kentells/09-24-2014/the-history-of-pigeon-camera-photography.md

@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi camera (visible and NOIR) V2 / picamera effects demos
+title: 'Raspberry Pi camera (visible and NOIR) V2 / picamera effects demos'
 tagnames: webcam, camera, gsoc, pi, raspberry, pi-camera, pinoir, soc, gsoc-2018, soc-2018, pi-microscope, camera-comparison
 author: MaggPi
 path: /notes/MaggPi/06-02-2018/raspberry-pi-camera-visible-and-noir-v2-picamera-effects-demos.md

@@ -1,5 +1,5 @@
 ---
-title: Build a Coquí: A Simple Water Conductivity Sensor (version 1)
+title: 'Build a Coquí: A Simple Water Conductivity Sensor (version 1)'
 tagnames: water, tutorial, conductivity, open-water, with:kanarinka, coqui, tutorials, difficulty:easy, status:review-me, category:build, time:1h, activity:coqui
 author: akshaya
 path: /notes/ashkaya/09-17-2016/build-a-coqui-a-simple-water-conductivity-sensor.md

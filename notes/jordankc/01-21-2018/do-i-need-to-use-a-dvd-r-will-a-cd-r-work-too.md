@@ -1,5 +1,5 @@
 ---
-title: Do I need to use a DVD-R?  Will a CD-R work too?
+title: 'Do I need to use a DVD-R?  Will a CD-R work too?'
 tagnames: kits, spectrometry, assembly, foldable, papercraft, question:spectrometry, onboarding, question:dssk, question:foldable-mini-spectrometer, foldable-spec, question:foldable-spec, introductory, question:lego-spectrometer, response:15276
 author: jordankc
 path: /notes/jordankc/01-21-2018/do-i-need-to-use-a-dvd-r-will-a-cd-r-work-too.md

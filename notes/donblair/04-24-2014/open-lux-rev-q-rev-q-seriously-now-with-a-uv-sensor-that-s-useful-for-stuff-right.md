@@ -1,5 +1,5 @@
 ---
-title: Open-Lux:: REV-Q! (REV Q. Seriously?) Now with a UV sensor. That's useful for stuff, right?
+title: 'Open-Lux:: REV-Q! (REV Q. Seriously?) Now with a UV sensor. That's useful for stuff, right?'
 tagnames: thermal-flashlight, openlux
 author: donblair
 path: /notes/donblair/04-24-2014/open-lux-rev-q-rev-q-seriously-now-with-a-uv-sensor-that-s-useful-for-stuff-right.md

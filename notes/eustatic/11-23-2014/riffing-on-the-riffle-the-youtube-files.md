@@ -1,5 +1,5 @@
 ---
-title: Riffing on the Riffle:  the youtube files
+title: 'Riffing on the Riffle:  the youtube files'
 tagnames: gulf-coast, water, riffle, depth, water-depth
 author: eustatic
 path: /11-23-2014/riffing-on-the-riffle-the-youtube-files.md

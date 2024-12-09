@@ -1,5 +1,5 @@
 ---
-title: Dart balloon 1967
+title: 'Dart balloon 1967'
 tagnames: kite-balloon-hybrid
 author: liz
 path: /notes/liz/1-31-2013/dart-balloon-1967.md

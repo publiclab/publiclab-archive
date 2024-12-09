@@ -1,5 +1,5 @@
 ---
-title: NDVI Numerical Values
+title: 'NDVI Numerical Values'
 tagnames: answered, question:general
 author: AgtechMan
 path: /notes/AgtechMan/09-28-2018/ndvi-numerical-values.md

@@ -1,5 +1,5 @@
 ---
-title: OS Geo Live Boot DVD/Thumb Drive
+title: 'OS Geo Live Boot DVD/Thumb Drive'
 tagnames: balloon-mapping, kite-mapping, mapknitter, spectralworkbench, software, live-cd
 author: mathew
 path: /notes/mathew/10-18-2012/os-geo-live-boot-dvdthumb-drive.md

@@ -1,5 +1,5 @@
 ---
-title: Hope in Bloom: Hope in Balloon
+title: 'Hope in Bloom: Hope in Balloon'
 tagnames: new-york-city, balloon-mapping, nyc, elpuente, southside, williamsburg, first-time-poster
 author: stevie
 path: /notes/stevie/05-06-2014/hope-in-bloom-hope-in-balloon.md

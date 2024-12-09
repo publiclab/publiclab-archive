@@ -1,5 +1,5 @@
 ---
-title: infragram-webapp-dev
+title: 'infragram-webapp-dev'
 tagnames: near-infrared-camera, infragram, app
 author: donblair
 path: /wiki/infragram-webapp-dev.md

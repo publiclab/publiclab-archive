@@ -1,5 +1,5 @@
 ---
-title: PLab-3 Proto Slit Upgrade
+title: 'PLab-3 Proto Slit Upgrade'
 tagnames: spectrometer, spectrometry, desktop-spectrometer, upgrade:spectrometry, upgrade:dssk, seeks:builds
 author: stoft
 path: /notes/stoft/10-03-2016/plab-3-proto-slit-upgrade.md

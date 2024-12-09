@@ -1,5 +1,5 @@
 ---
-title: Selecting Kite Flight Launch Sites in Centerville
+title: 'Selecting Kite Flight Launch Sites in Centerville'
 tagnames: balloon-mapping, kite-mapping, diy-kite, pre-flight-planning, flying, activity:aerial-photography, activity:kite-mapping, activity:balloon-mapping, activity:site-survey, mountain-west, montana, location:blurred, first-time-poster, lat:47, lon:-111, place:centerville-montana, where-to-map
 author: Olivia
 path: /notes/olivia/2-16-2012/finding-kite-flight-launch-sites-centerville.md

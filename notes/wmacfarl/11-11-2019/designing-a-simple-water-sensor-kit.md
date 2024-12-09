@@ -1,5 +1,5 @@
 ---
-title: Designing a Simple Water Sensor Kit
+title: 'Designing a Simple Water Sensor Kit'
 tagnames: arduino, sensors, water-quality, oil-and-gas-water-trio, simple-water-sensor-platform
 author: wmacfarl
 path: /notes/wmacfarl/11-11-2019/designing-a-simple-water-sensor-kit.md

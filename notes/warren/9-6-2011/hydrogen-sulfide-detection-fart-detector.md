@@ -1,5 +1,5 @@
 ---
-title: Hydrogen sulfide detection for fart detector
+title: 'Hydrogen sulfide detection for fart detector'
 tagnames: hydrogen-sulfide-sensing, h2s, farts, hydrogen-sulfide-sensor
 author: warren
 path: /notes/warren/9-6-2011/hydrogen-sulfide-detection-fart-detector.md

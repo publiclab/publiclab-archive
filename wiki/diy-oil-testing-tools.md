@@ -1,5 +1,5 @@
 ---
-title: DIY Oil Testing Tools
+title: 'DIY Oil Testing Tools'
 tagnames: spectrometer, oil-testing-kit, draft
 author: warren
 path: /wiki/diy-oil-testing-tools.md

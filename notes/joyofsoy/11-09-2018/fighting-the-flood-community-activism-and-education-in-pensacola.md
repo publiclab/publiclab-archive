@@ -1,5 +1,5 @@
 ---
-title: Fighting the Flood: Community Activism and Education in Pensacola
+title: 'Fighting the Flood: Community Activism and Education in Pensacola'
 tagnames: gulf-coast, blog, stormwater, with:stevie, florida, flooding, activism, pensacola-stormwater, pensacola, naacp, csf15
 author: joyofsoy
 path: /notes/joyofsoy/11-09-2018/fighting-the-flood-community-activism-and-education-in-pensacola.md

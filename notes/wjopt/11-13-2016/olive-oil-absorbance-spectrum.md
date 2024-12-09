@@ -1,5 +1,5 @@
 ---
-title: olive oil absorbance spectrum
+title: 'olive oil absorbance spectrum'
 tagnames: spectrometry, mobile-spectrometer, olive-oil
 author: wjopt
 path: /notes/wjopt/11-13-2016/olive-oil-absorbance-spectrum.md

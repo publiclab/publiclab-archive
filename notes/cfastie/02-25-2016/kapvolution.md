@@ -1,5 +1,5 @@
 ---
-title: KAPvolution
+title: 'KAPvolution'
 tagnames: balloon-mapping, vermont, kite-aerial-photography, kite, kap, camera, focus, aerial-mapping, canon, response:11531, eos_m, mirrorless, image-quality
 author: cfastie
 path: /notes/cfastie/02-25-2016/kapvolution.md

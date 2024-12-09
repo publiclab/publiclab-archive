@@ -1,5 +1,5 @@
 ---
-title: Inexpensive data logging
+title: 'Inexpensive data logging'
 tagnames: arduino, sensors, datalogger, data-logging, nano, nano-data-logger, activity:nano-data-logger, bmp280
 author: cfastie
 path: /notes/cfastie/04-25-2017/inexpensive-data-logging.md

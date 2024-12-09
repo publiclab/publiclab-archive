@@ -1,5 +1,5 @@
 ---
-title: How do I...
+title: 'How do I...'
 tagnames: question:lego-spectrometer, question:question:lego-spectrometer
 author: Sahil
 path: /notes/Sahil/12-22-2017/how-do-i.md

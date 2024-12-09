@@ -1,5 +1,5 @@
 ---
-title: Research area review on air quality
+title: 'Research area review on air quality'
 tagnames: research, air-quality, bucket-brigade, reviews, simple-air-sensor, research-area-review, bucket-monitor
 author: bhamster
 path: /notes/bhamster/10-20-2020/research-area-review-on-air-quality.md

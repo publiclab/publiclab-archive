@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal:  Designing a whole new user-interface for Infragram website
+title: 'Outreachy proposal:  Designing a whole new user-interface for Infragram website'
 tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
 author: shivangi019717
 path: /notes/shivangi019717/04-21-2022/outreachy-proposal-designing-a-whole-new-user-interface-for-infragram-website.md

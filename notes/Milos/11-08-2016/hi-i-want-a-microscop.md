@@ -1,5 +1,5 @@
 ---
-title: Hi, I want a microscop
+title: 'Hi, I want a microscop'
 tagnames: question:generalblog
 author: Milos
 path: /notes/Milos/11-08-2016/hi-i-want-a-microscop.md

@@ -1,5 +1,5 @@
 ---
-title: Maps
+title: 'Maps'
 tagnames: 
 author: gonzoearth
 path: /wiki/maps.md

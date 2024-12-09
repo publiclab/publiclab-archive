@@ -1,5 +1,5 @@
 ---
-title: orientation of slit vs that of diffraction grating
+title: 'orientation of slit vs that of diffraction grating'
 tagnames: question:spectrometer, question:spectral-workbench, question:foldable-mini-spectrometer
 author: wlkwong
 path: /notes/wlkwong/01-01-2017/orientation-of-slit-vs-that-of-diffraction-grating.md

@@ -1,5 +1,5 @@
 ---
-title: Water Hackathon NYC Scribble Feed
+title: 'Water Hackathon NYC Scribble Feed'
 tagnames: new-york-city, water-quality, water, water-quality-sensor
 author: Shannon
 path: /notes/shannon/3-27-2012/water-hackathon-nyc-scribble-feed.md

@@ -1,5 +1,5 @@
 ---
-title: Scanning Full Spectrum Images via Smart Phone Spectrometer
+title: 'Scanning Full Spectrum Images via Smart Phone Spectrometer'
 tagnames: spectrometer
 author: nathanathan
 path: /notes/nathanathan/10-27-2018/scanning-full-spectrum-images-via-smart-phone-spectrometer.md

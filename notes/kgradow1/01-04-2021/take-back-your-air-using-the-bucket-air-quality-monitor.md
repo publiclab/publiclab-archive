@@ -1,5 +1,5 @@
 ---
-title: Take Back Your Air! Using the Bucket Air Quality Monitor
+title: 'Take Back Your Air! Using the Bucket Air Quality Monitor'
 tagnames: air-quality, bucket-brigade, advocacy, oil-and-gas, bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/01-04-2021/take-back-your-air-using-the-bucket-air-quality-monitor.md

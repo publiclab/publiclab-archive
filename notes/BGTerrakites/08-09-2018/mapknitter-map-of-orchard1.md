@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Orchard1
+title: 'MapKnitter map of Orchard1'
 tagnames: mapknitter, lat:38.2102166, lon:-75.6848002
 author: BGTerrakites
 path: /notes/BGTerrakites/08-09-2018/mapknitter-map-of-orchard1.md

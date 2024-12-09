@@ -1,5 +1,5 @@
 ---
-title: NASA Aeropod unboxing
+title: 'NASA Aeropod unboxing'
 tagnames: air-column-monitor, kap, leaffest, anemometer, wind-speed-meter, atmosphere, sensors, wind, data-logging, wind-sensor, series:diy-wind-sensors, leaffest2017, location:blurred, lon:-73, wind-speed, aeropod, lat:43.9
 author: cfastie
 path: /notes/cfastie/09-29-2017/nasa-aeropod-unboxing.md

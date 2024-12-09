@@ -1,5 +1,5 @@
 ---
-title: Data Collection Resources
+title: 'Data Collection Resources'
 tagnames: education, data-collection, study-design, activity:nas-student-community-science, series:student-community-science, activity:student-community-science, with:purl
 author: mimiss
 path: /notes/mimiss/06-14-2019/data-collection-resources.md

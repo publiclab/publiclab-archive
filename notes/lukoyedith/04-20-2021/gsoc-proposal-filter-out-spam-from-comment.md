@@ -1,5 +1,5 @@
 ---
-title: GSoC!proposal: Filter out spam from comment. 
+title: 'GSoC!proposal: Filter out spam from comment. '
 tagnames: software, soc, lat:-1.406108, zoom:4, gsoc-2021, gsoc-2021-proposals, outreachy-summer-2021, lon:37.440122, outreachy-proposals-2021
 author: lukoyedith
 path: /notes/lukoyedith/04-20-2021/gsoc-proposal-filter-out-spam-from-comment.md

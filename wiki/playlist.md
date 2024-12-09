@@ -1,5 +1,5 @@
 ---
-title: Playlist
+title: 'Playlist'
 tagnames: 
 author: warren
 path: /wiki/playlist.md

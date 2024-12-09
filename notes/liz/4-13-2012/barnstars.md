@@ -1,5 +1,5 @@
 ---
-title: barnstars
+title: 'barnstars'
 tagnames: community, metrics, barnstars
 author: liz
 path: /notes/liz/4-13-2012/barnstars.md

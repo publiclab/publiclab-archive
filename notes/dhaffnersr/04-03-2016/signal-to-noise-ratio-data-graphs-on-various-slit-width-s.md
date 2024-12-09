@@ -1,5 +1,5 @@
 ---
-title: Signal To Noise Ratio data graphs on various slit width's
+title: 'Signal To Noise Ratio data graphs on various slit width's'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/04-03-2016/signal-to-noise-ratio-data-graphs-on-various-slit-width-s.md

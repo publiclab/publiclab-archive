@@ -1,5 +1,5 @@
 ---
-title: Purafil Corrosion Coupons
+title: 'Purafil Corrosion Coupons'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-copper-pipe, parent:hydrogen-sulfide
 author: gretchengehrke
 path: /wiki/corrosion-coupons.md

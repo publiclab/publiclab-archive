@@ -1,5 +1,5 @@
 ---
-title: Event Oct. 26: Kicking off a research area review on air quality data
+title: 'Event Oct. 26: Kicking off a research area review on air quality data'
 tagnames: event, air-quality, event:rsvp, reviews, research-area-review, research-curation-fellows-event, with:fongvania, air-quality-data
 author: bhamster
 path: /notes/bhamster/10-18-2021/event-oct-26-kicking-off-a-research-area-review-on-air-quality-data.md

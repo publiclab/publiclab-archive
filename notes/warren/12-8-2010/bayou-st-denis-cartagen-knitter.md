@@ -1,5 +1,5 @@
 ---
-title: Bayou St. Denis in Cartagen Knitter
+title: 'Bayou St. Denis in Cartagen Knitter'
 tagnames: gulf-coast, mapknitter, bayou-st-denis
 author: warren
 path: /notes/warren/12-8-2010/bayou-st-denis-cartagen-knitter.md

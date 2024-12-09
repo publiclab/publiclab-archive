@@ -1,5 +1,5 @@
 ---
-title: 50% Hydrogen 50% Helium Light Spectroscopy
+title: '50% Hydrogen 50% Helium Light Spectroscopy'
 tagnames: spectrometer, hydrogen, spectrometry, helium, hidden:response, foldable-spec, replication:15121, first-time-poster
 author: PDiddy
 path: /notes/PDiddy/10-27-2017/50-hydrogen-50-helium-light-spectroscopy.md

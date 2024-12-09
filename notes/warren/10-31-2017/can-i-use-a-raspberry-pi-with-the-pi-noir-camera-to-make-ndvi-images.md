@@ -1,5 +1,5 @@
 ---
-title: Can I use a Raspberry Pi with the Pi Noir camera to make NDVI images?
+title: 'Can I use a Raspberry Pi with the Pi Noir camera to make NDVI images?'
 tagnames: raspberry-pi, infragram, infragram-filters, question:infragram, pi-camera, pi-noir, multispectral-imaging, question:raspberry-pi, question:pi-camera, question:infragram-challenges, raspberry-pi-infragram, question:raspberry-pi-infragram
 author: warren
 path: /notes/warren/10-31-2017/can-i-use-a-raspberry-pi-with-the-pi-noir-camera-to-make-ndvi-images.md

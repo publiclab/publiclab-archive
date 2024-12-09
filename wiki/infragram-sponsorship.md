@@ -1,5 +1,5 @@
 ---
-title: Infragram Sponsorship
+title: 'Infragram Sponsorship'
 tagnames: 
 author: warren
 path: /wiki/infragram-sponsorship.md

@@ -1,5 +1,5 @@
 ---
-title: Kite Aerial Mapping of Torry Battery
+title: 'Kite Aerial Mapping of Torry Battery'
 tagnames: mapknitter, scotland, first-time-poster, zoom:16, lat:57.142112681, lon:-2.0592893567, lat:57.142112, lon:-2.059289, lat:57.142107, lon:-2.059292
 author: Jvan
 path: /notes/Jvan/09-25-2021/kite-aerial-mapping-of-torry-battery.md

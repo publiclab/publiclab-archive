@@ -1,5 +1,5 @@
 ---
-title: Overexposure using YUV format and manual exposure settings with Infragram webcam
+title: 'Overexposure using YUV format and manual exposure settings with Infragram webcam'
 tagnames: webcam, infragram, overexposure, barnstar:empiricism, exposure, yuv, manual
 author: jarrarte
 path: /notes/jarrarte/08-06-2014/overexposure-using-yuv-format-and-manual-exposure-settings-with-infragram-webcam.md

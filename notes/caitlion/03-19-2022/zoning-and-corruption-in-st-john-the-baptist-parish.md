@@ -1,5 +1,5 @@
 ---
-title: Zoning and Corruption in St. John the Baptist Parish
+title: 'Zoning and Corruption in St. John the Baptist Parish'
 tagnames: gulf-coast, louisiana, land-use, zoning, zoom:6, law-and-policy, st-james, formosaplastics, lat:30.111833, lon:-90.487991
 author: caitlion
 path: /notes/caitlion/03-19-2022/zoning-and-corruption-in-st-john-the-baptist-parish.md

@@ -1,5 +1,5 @@
 ---
-title: GLAM and Gowanus Canal Conservancy Goal Setting Meeting
+title: 'GLAM and Gowanus Canal Conservancy Goal Setting Meeting'
 tagnames: new-york-city, gowanus-canal, brooklyn, gowanus-canal-conservancy, event, glam, northeast
 author: Bronwen
 path: /notes/bronwen/08-15-2014/glam-and-gowanus-canal-conservancy-goal-setting-meeting.md

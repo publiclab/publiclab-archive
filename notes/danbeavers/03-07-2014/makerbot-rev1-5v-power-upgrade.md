@@ -1,5 +1,5 @@
 ---
-title: Makerbot Rev1 5v Power Upgrade
+title: 'Makerbot Rev1 5v Power Upgrade'
 tagnames: 3d-printing, makerbot, maintenance
 author: danbeavers
 path: /notes/danbeavers/03-07-2014/makerbot-rev1-5v-power-upgrade.md

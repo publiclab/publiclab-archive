@@ -1,5 +1,5 @@
 ---
-title: How is the changing environmental governance landscape affecting YOUR work?
+title: 'How is the changing environmental governance landscape affecting YOUR work?'
 tagnames: epa, environment, climate-change, with:gretchengehrke, policy, governance
 author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/how-is-the-changing-environmental-governance-landscape-affecting-your-work.md

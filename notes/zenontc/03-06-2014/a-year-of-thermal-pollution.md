@@ -1,5 +1,5 @@
 ---
-title: A Year of Thermal Pollution from Oyster Creek Nuclear Plant
+title: 'A Year of Thermal Pollution from Oyster Creek Nuclear Plant'
 tagnames: thermal-photography, landsat, nuclear, satellite-imagery, satellite, lat:39.748887, lon:-74.39676, place:oyster-creek-nuclear-generating-station-u-s-9-forked-river-nj
 author: zenontc
 path: /notes/zenontc/03-06-2014/a-year-of-thermal-pollution.md

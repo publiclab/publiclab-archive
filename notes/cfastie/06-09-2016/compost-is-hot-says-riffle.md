@@ -1,5 +1,5 @@
 ---
-title: Compost is hot, says Riffle
+title: 'Compost is hot, says Riffle'
 tagnames: arduino, vermont, temperature, sensors, water-quality, riffle, barnstar:basic, humidity, compost, response:13158, category:field-test, data-logging, activity:riffle, riffle-examples, activity:data-logging
 author: cfastie
 path: /notes/cfastie/06-09-2016/compost-is-hot-says-riffle.md

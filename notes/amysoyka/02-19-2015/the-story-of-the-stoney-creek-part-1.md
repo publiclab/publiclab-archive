@@ -1,5 +1,5 @@
 ---
-title: The Story of the Stoney Creek. Part 1.
+title: 'The Story of the Stoney Creek. Part 1.'
 tagnames: waterway, historic-site, concrete, mining, pollution, creek
 author: amysoyka
 path: /notes/amysoyka/02-19-2015/the-story-of-the-stoney-creek-part-1.md

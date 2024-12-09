@@ -1,5 +1,5 @@
 ---
-title: The new Questions page design is ready to be reviewed :) 
+title: 'The new Questions page design is ready to be reviewed :) '
 tagnames: design, ui, ui-designs
 author: edie_blues
 path: /notes/edie_blues/01-07-2019/the-new-questions-page-design-is-ready-to-be-reviewed.md

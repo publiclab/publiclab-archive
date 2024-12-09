@@ -1,5 +1,5 @@
 ---
-title: Automatic Spectrometer Calibration and Offline SWB - GSoC 2014 Proposal
+title: 'Automatic Spectrometer Calibration and Offline SWB - GSoC 2014 Proposal'
 tagnames: spectrometer, spectralworkbench, matching, gsoc, gsoc-2014, gsoc-proposal
 author: Sreyanth
 path: /notes/Sreyanth/03-04-2014/automatic-spectrometer-calibration-and-offline-swb-gsoc-2014-proposal.md

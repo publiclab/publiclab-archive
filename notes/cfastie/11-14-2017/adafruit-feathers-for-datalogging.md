@@ -1,5 +1,5 @@
 ---
-title: Adafruit Feathers for datalogging
+title: 'Adafruit Feathers for datalogging'
 tagnames: sensors, datalogger, riffle, data-logging, mini-pearl-logger, location:blurred, adafruit, feather, mayfly, place:india, lat:22, datalogger-option, lon:76, zoom:6
 author: cfastie
 path: /notes/cfastie/11-14-2017/adafruit-feathers-for-datalogging.md

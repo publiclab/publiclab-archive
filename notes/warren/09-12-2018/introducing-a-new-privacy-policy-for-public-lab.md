@@ -1,5 +1,5 @@
 ---
-title: Introducing a new Privacy Policy for Public Lab
+title: 'Introducing a new Privacy Policy for Public Lab'
 tagnames: blog, privacy, privacy-policy, gdpr
 author: warren
 path: /notes/warren/09-12-2018/introducing-a-new-privacy-policy-for-public-lab.md

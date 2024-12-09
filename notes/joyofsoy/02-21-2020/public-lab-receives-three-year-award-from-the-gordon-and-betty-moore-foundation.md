@@ -1,5 +1,5 @@
 ---
-title: Public Lab Receives Three-year Award From the Gordon and Betty Moore Foundation
+title: 'Public Lab Receives Three-year Award From the Gordon and Betty Moore Foundation'
 tagnames: blog, press-release, moore-foundation
 author: joyofsoy
 path: /notes/joyofsoy/02-21-2020/public-lab-receives-three-year-award-from-the-gordon-and-betty-moore-foundation.md

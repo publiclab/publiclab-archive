@@ -1,5 +1,5 @@
 ---
-title: Free, prior informed consent obligation to Indigenous Tribes
+title: 'Free, prior informed consent obligation to Indigenous Tribes'
 tagnames: minnesota, zoom:6, lat:46, mn-land-manoomin-protection, lon:-94, environmental-law, international-law, indigenous-rights
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/10-23-2022/free-prior-informed-consent-obligation-to-indigenous-tribes.md

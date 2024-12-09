@@ -1,5 +1,5 @@
 ---
-title: WCU map completed
+title: 'WCU map completed'
 tagnames: western-carolina-university
 author: adam-griffith
 path: /notes/Adam-Griffith/05-01-2018/wcu-map-completed.md

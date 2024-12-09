@@ -1,5 +1,5 @@
 ---
-title: How to run ImageJ, Fiji in RPi?
+title: 'How to run ImageJ, Fiji in RPi?'
 tagnames: farming, agriculture, ir, raspberry-pi, plants, italy, water, rpi, stress, eu, raspberry, images, growing, condition, cultivated, question:general, response:12900, question:agriculture
 author: elongo
 path: /notes/elongo/08-22-2017/how-to-run-imagej-fiji-in-rpi.md

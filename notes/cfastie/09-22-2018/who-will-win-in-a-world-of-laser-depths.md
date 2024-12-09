@@ -1,5 +1,5 @@
 ---
-title: Who will win in a world of...LASER DEPTHS?
+title: 'Who will win in a world of...LASER DEPTHS?'
 tagnames: arduino, water-sensing, laser, sensors, battery, data-logging, mini-pearl-logger, activity:mini-pearl-logger, series:springhouse-water-level, low-power-logging, log-a-long-timer, range-finder, vl53lox
 author: cfastie
 path: /notes/cfastie/09-22-2018/who-will-win-in-a-world-of-laser-depths.md

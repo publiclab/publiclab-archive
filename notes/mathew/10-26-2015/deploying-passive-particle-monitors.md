@@ -1,5 +1,5 @@
 ---
-title: Deploying Passive Particle Monitors
+title: 'Deploying Passive Particle Monitors'
 tagnames: wisconsin, air-quality, petcoke, dust, silica, open-air, particle-sensing, passive-particle-monitors, passive-pm, activity:pm, activity:pm-monitoring
 author: mathew
 path: /notes/mathew/10-26-2015/deploying-passive-particle-monitors.md

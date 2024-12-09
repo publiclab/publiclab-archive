@@ -1,5 +1,5 @@
 ---
-title: ¿“Pelo” gris en el agua ríos y arroyos? 
+title: '¿“Pelo” gris en el agua ríos y arroyos? '
 tagnames: sewage, water-quality, bacteria, lang:es, new, wastewater, activity:new, zoom:6, lon:-64, lat:-31, research-curation-fellows, activity:wastewater
 author: alejobonifacio
 path: /notes/alejobonifacio/02-23-2022/pelo-gris-en-el-agua-rios-y-arroyos.md

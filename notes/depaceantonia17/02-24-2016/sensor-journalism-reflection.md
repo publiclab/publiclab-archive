@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism Reflection 
+title: 'Sensor Journalism Reflection '
 tagnames: sensor-journalism, response:12748, hidden:response
 author: depaceantonia17
 path: /notes/depaceantonia17/02-24-2016/sensor-journalism-reflection.md

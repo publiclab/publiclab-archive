@@ -1,5 +1,5 @@
 ---
-title: Update #2: OSIDC Optical Motion Tracking Project
+title: 'Update #2: OSIDC Optical Motion Tracking Project'
 tagnames: image-analysis, raspberry-pi-cameras, image-gathering
 author: Emmett_Dec
 path: /notes/Emmett_Dec/09-14-2020/update-2-osidc-optical-motion-tracking-project.md

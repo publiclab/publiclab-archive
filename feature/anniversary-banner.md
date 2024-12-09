@@ -1,5 +1,5 @@
 ---
-title: anniversary-banner
+title: 'anniversary-banner'
 tagnames: anniversary, header
 author: warren
 path: /feature/anniversary-banner.md

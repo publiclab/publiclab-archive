@@ -1,5 +1,5 @@
 ---
-title: Call for Proposals: Outreachy Winter 2021
+title: 'Call for Proposals: Outreachy Winter 2021'
 tagnames: with:warren, with:liz, soc, lat:0, lon:10, outreachy, call-for-proposals, zoom:4, with:itm2017004
 author: mathildaudufo
 path: /notes/mathildaudufo/10-18-2021/call-for-proposals-outreachy-winter-2021.md

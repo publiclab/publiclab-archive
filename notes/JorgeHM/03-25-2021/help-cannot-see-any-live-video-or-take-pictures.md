@@ -1,5 +1,5 @@
 ---
-title: HELP! Cannot see any live video or take pictures.
+title: 'HELP! Cannot see any live video or take pictures.'
 tagnames: android, wifi-camera, raspberry-pi-infragram, question:raspberry-pi-infragram, question:android, first-time-poster
 author: JorgeHM
 path: /notes/JorgeHM/03-25-2021/help-cannot-see-any-live-video-or-take-pictures.md

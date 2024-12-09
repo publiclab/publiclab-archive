@@ -1,5 +1,5 @@
 ---
-title: Pearl River Monitoring in Guangzhou
+title: 'Pearl River Monitoring in Guangzhou'
 tagnames: open-water, barnstar:basic, guangzhou, china, greenovation-hub
 author: shanlter
 path: /notes/shanlter/09-21-2016/pearl-river-monitoring-in-guangzhou.md

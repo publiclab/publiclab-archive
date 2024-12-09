@@ -1,5 +1,5 @@
 ---
-title: Public Lab 'Open Water Hackathon' @ Amherst College
+title: 'Public Lab 'Open Water Hackathon' @ Amherst College'
 tagnames: amherst, pvos, event, massachusetts, sensors, visualization, hackathon, water-quality, water, umass-amherst
 author: donblair
 path: /notes/donblair/01-22-2014/public-lab-open-water-hackathon-amherst-college.md

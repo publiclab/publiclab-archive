@@ -1,5 +1,5 @@
 ---
-title: GSoC 2022 Proposal - Legacy Code Deprecation
+title: 'GSoC 2022 Proposal - Legacy Code Deprecation'
 tagnames: gsoc, lon:77.1, zoom:10, lat:28.6, gsoc-2022, gsoc-2022-proposals, soc-2022, soc-2022-proposal, soc-2022-proposals, gsoc-2022-proposal
 author: anirudhprabhakaran3
 path: /notes/anirudhprabhakaran3/04-13-2022/gsoc-2022-proposal-legacy-code-deprecation.md

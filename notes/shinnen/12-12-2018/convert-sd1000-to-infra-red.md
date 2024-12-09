@@ -1,5 +1,5 @@
 ---
-title:  Convert SD1000 to infra-red
+title: ' Convert SD1000 to infra-red'
 tagnames: hardware, sd100
 author: shinnen
 path: /notes/shinnen/12-12-2018/convert-sd1000-to-infra-red.md

@@ -1,5 +1,5 @@
 ---
-title: If i'm worried about soil pollution, how should i decide where to take samples?
+title: 'If i'm worried about soil pollution, how should i decide where to take samples?'
 tagnames: soil-sampling, question:soil-sampling, question-soil
 author: liz
 path: /notes/liz/01-30-2018/if-i-m-worried-about-soil-pollution-how-should-i-decide-where-to-take-samples.md

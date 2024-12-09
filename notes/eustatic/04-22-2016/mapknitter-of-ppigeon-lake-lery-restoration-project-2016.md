@@ -1,5 +1,5 @@
 ---
-title: MapKnitter of PPigeon Lake Lery Restoration Project 2016
+title: 'MapKnitter of PPigeon Lake Lery Restoration Project 2016'
 tagnames: gulf-coast, mapknitter, louisiana, restoration, marsh, barnstar:basic, lat:29.7946132, lon:-89.8364558, ppigeon, lakelery, plaquemines, estuary
 author: eustatic
 path: /04-22-2016/mapknitter-of-ppigeon-lake-lery-restoration-project-2016.md

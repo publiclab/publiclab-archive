@@ -1,5 +1,5 @@
 ---
-title: Launch at Washington Crossing Historic Park
+title: 'Launch at Washington Crossing Historic Park'
 tagnames: philadelphia, events:philadelphia
 author: geography76
 path: /notes/geography76/5-1-2013/launch-washington-crossing-historic-park.md

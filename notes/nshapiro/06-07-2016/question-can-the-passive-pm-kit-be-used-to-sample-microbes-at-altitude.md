@@ -1,5 +1,5 @@
 ---
-title: Question: Can the passive PM kit be used to sample microbes at altitude? 
+title: 'Question: Can the passive PM kit be used to sample microbes at altitude? '
 tagnames: microbes, balloon, bacteria, solar, wwb, question:passive-pm
 author: nshapiro
 path: /notes/nshapiro/06-07-2016/question-can-the-passive-pm-kit-be-used-to-sample-microbes-at-altitude.md

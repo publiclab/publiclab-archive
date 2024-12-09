@@ -1,5 +1,5 @@
 ---
-title: Hi there! My name is Laurel, and I'm the new Land Research Curation Fellow!
+title: 'Hi there! My name is Laurel, and I'm the new Land Research Curation Fellow!'
 tagnames: soil, land-use, fellows, land, first-time-poster, lat:29.951065, lon:-90.071532, zoom:6, land-loss, research-curation-fellows
 author: laurel_mire
 path: /notes/laurel_mire/06-13-2021/hi-there-my-name-is-laurel-and-i-m-the-new-land-research-curation-fellow.md

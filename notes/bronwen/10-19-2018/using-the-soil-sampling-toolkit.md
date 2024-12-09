@@ -1,5 +1,5 @@
 ---
-title: Using the Soil Sampling Toolkit
+title: 'Using the Soil Sampling Toolkit'
 tagnames: heavy-metals, soil, pesticides, pah, pcb, metals, soil-testing, activity:soil-sampling, community-kits, activity:soil-testing-toolkit, soil-testing-toolkit, with:jjcreedon, activity:soil-testing, activity:soil, dioxin
 author: Bronwen
 path: /notes/bronwen/10-19-2018/using-the-soil-sampling-toolkit.md

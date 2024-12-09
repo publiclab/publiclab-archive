@@ -1,5 +1,5 @@
 ---
-title: balloon-mapping-media
+title: 'balloon-mapping-media'
 tagnames: balloon-mapping, kite-mapping, media
 author: warren
 path: /wiki/balloon-mapping-media.md

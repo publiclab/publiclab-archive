@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Begraafplaats
+title: 'MapKnitter map of Begraafplaats'
 tagnames: mapknitter, lat:50.90616791, lon:5.4267767072
 author: Jostev
 path: /notes/Jostev/04-28-2018/mapknitter-map-of-begraafplaats.md

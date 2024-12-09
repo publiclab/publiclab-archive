@@ -1,5 +1,5 @@
 ---
-title: Spectrometer in cellphone box
+title: 'Spectrometer in cellphone box'
 tagnames: spectrometer
 author: kosamari
 path: /notes/kosamari/11-14-2012/spectrometer-cellphone-box.md

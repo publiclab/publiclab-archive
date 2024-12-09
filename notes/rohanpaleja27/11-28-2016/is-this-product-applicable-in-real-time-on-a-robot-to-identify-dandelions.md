@@ -1,5 +1,5 @@
 ---
-title: Is this product applicable in real-time on a robot to identify dandelions?
+title: 'Is this product applicable in real-time on a robot to identify dandelions?'
 tagnames: spectrometry, tool, answered, question:general
 author: rohanpaleja27
 path: /notes/rohanpaleja27/11-28-2016/is-this-product-applicable-in-real-time-on-a-robot-to-identify-dandelions.md

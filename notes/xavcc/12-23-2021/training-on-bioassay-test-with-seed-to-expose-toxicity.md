@@ -1,5 +1,5 @@
 ---
-title: Training on "Bioassay Test with seed to expose toxicity"
+title: 'Training on "Bioassay Test with seed to expose toxicity"'
 tagnames: water-quality, bioassay, zoom:6, effect-based-test, lat:48.117266, lon:-1.677792, activity:bioassay
 author: xavcc
 path: /notes/xavcc/12-23-2021/training-on-bioassay-test-with-seed-to-expose-toxicity.md

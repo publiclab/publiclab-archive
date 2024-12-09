@@ -1,5 +1,5 @@
 ---
-title: Statistics
+title: 'Statistics'
 tagnames: 
 author: warren
 path: /wiki/statistics.md

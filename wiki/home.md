@@ -1,5 +1,5 @@
 ---
-title: The Public Laboratory
+title: 'The Public Laboratory'
 tagnames: attachments, content, slider
 author: warren
 path: /wiki/home.md

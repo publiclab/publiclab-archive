@@ -1,5 +1,5 @@
 ---
-title: search
+title: 'search'
 tagnames: 
 author: warren
 path: /feature/search.md

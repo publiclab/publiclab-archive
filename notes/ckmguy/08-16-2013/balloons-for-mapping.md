@@ -1,5 +1,5 @@
 ---
-title: Balloons for Mapping
+title: 'Balloons for Mapping'
 tagnames: balloon-mapping, kite-balloon-hybrid
 author: ckmguy
 path: /notes/ckmguy/08-16-2013/balloons-for-mapping.md

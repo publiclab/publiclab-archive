@@ -1,5 +1,5 @@
 ---
-title: Announcing a Public Lab booklet: DIY Oil Testing
+title: 'Announcing a Public Lab booklet: DIY Oil Testing'
 tagnames: spectrometer, publication, oil-testing-kit, barnstar:basic, homebrew-oil-testing-kit, booklet
 author: warren
 path: /notes/warren/04-26-2016/announcing-a-public-lab-booklet-diy-oil-testing.md

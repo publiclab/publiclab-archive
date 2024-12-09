@@ -1,5 +1,5 @@
 ---
-title: How to ... make your own community annotated map! 
+title: 'How to ... make your own community annotated map! '
 tagnames: annotated-maps, community-mapping, mapping, organizing, new, step, activity:new, activity:mapping, wrap, research-curation-fellows, activity:organizing, annotated-mapping, advocacy-with-maps, activity:advocacy-with-maps
 author: julia_e_masters
 path: /notes/julia_e_masters/06-09-2021/how-to-make-your-own-community-annotated-map.md

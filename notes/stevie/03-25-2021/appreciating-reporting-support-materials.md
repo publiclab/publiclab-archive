@@ -1,5 +1,5 @@
 ---
-title: Appreciating Reporting Support Materials
+title: 'Appreciating Reporting Support Materials'
 tagnames: farming, reporting, cafo, frac-sand, parent:frac-sand, permits, farm-animals, reporting-forms, frac-sand-reporting, sentinel, parent:the-sand-sentinel-program, permit-violation, sand-sentinel, sentinel-program, brown-water
 author: stevie
 path: /notes/stevie/03-25-2021/appreciating-reporting-support-materials.md

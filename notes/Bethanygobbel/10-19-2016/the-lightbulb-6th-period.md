@@ -1,5 +1,5 @@
 ---
-title: The Lightbulb 6th Period 
+title: 'The Lightbulb 6th Period '
 tagnames: hidden:response, response:13586
 author: Bethanygobbel
 path: /notes/Bethanygobbel/10-19-2016/the-lightbulb-6th-period.md

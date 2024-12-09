@@ -1,5 +1,5 @@
 ---
-title: Can we create a guide or set of guides to interpreting infrared or NDVI images?
+title: 'Can we create a guide or set of guides to interpreting infrared or NDVI images?'
 tagnames: infrared, infragram, multispectral-analysis, multispectral-imaging, question:infragram-challenges, infragram-challenges
 author: warren
 path: /notes/warren/11-16-2017/can-we-create-a-guide-or-set-of-guides-to-interpreting-infrared-or-ndvi-images.md

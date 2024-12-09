@@ -1,5 +1,5 @@
 ---
-title: Can infragrams provide useful measurements of how thirsty my lawn is?
+title: 'Can infragrams provide useful measurements of how thirsty my lawn is?'
 tagnames: near-infrared-camera, ndvi, uv, infrared, agriculture, spectrometry, fluorescence, soil, infragram, health, sensors, plant, plants, camera, nvdi, water, grass, gardening, landscape, irrigation, watering, thirst, dehydration, stress, moisture, sensor, detection, drought, lawn, spectral, dry, monitor, detect, detector, warning, land-cover, first-time-poster
 author: WhiteRabbit
 path: /notes/WhiteRabbit/07-25-2014/can-infragrams-provide-useful-measurements-of-thirsty-my-lawn-is.md

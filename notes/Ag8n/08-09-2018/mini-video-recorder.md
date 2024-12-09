@@ -1,5 +1,5 @@
 ---
-title: Mini video recorder
+title: 'Mini video recorder'
 tagnames: mapknitter, question:mapknitter
 author: Ag8n
 path: /notes/Ag8n/08-09-2018/mini-video-recorder.md

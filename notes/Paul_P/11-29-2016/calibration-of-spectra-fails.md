@@ -1,5 +1,5 @@
 ---
-title: Calibration of spectra fails
+title: 'Calibration of spectra fails'
 tagnames: question:spectral-workbench
 author: Paul_P
 path: /notes/Paul_P/11-29-2016/calibration-of-spectra-fails.md

@@ -1,5 +1,5 @@
 ---
-title: Newtown Creek CAG meeting at EPA
+title: 'Newtown Creek CAG meeting at EPA'
 tagnames: new-york-city, newtown-creek, epa, pah, qgis
 author: liz
 path: /notes/liz/02-25-2014/natural-resource-trustees-of-newtown-creek.md

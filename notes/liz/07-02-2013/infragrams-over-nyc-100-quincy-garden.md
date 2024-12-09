@@ -1,5 +1,5 @@
 ---
-title: Infragrams over NYC: 100 Quincy Garden
+title: 'Infragrams over NYC: 100 Quincy Garden'
 tagnames: new-york-city, near-infrared-camera, 5bf, five-borough-farm
 author: liz
 path: /notes/liz/07-02-2013/infragrams-over-nyc-100-quincy-garden.md

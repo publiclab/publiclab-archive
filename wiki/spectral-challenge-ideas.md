@@ -1,5 +1,5 @@
 ---
-title: Spectral Challenge ideas
+title: 'Spectral Challenge ideas'
 tagnames: spectrometer, spectralchallenge
 author: liz
 path: /wiki/spectral-challenge-ideas.md

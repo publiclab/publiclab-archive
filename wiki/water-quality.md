@@ -1,5 +1,5 @@
 ---
-title: Water quality
+title: 'Water quality'
 tagnames: water-quality, water, reagents
 author: donblair
 path: /wiki/water-quality.md

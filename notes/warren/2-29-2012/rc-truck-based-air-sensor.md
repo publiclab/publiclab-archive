@@ -1,5 +1,5 @@
 ---
-title: RC truck-based air sensor
+title: 'RC truck-based air sensor'
 tagnames: 
 author: warren
 path: /notes/warren/2-29-2012/rc-truck-based-air-sensor.md

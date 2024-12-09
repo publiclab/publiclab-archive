@@ -1,5 +1,5 @@
 ---
-title: Conference Booth Nuts
+title: 'Conference Booth Nuts'
 tagnames: 
 author: donblair
 path: /wiki/conference-booth-nuts.md

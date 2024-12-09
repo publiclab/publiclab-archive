@@ -1,5 +1,5 @@
 ---
-title: 3-camera housing photos and test KAP session
+title: '3-camera housing photos and test KAP session'
 tagnames: balloon-telemetry-kit, telemetry, camera-triggering, iphone-intervalometer, photo-rig
 author: patcoyle
 path: /notes/patcoyle/3-31-2012/3-camera-housing-photos-and-test-kap-session.md

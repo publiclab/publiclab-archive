@@ -1,5 +1,5 @@
 ---
-title: registration
+title: 'registration'
 tagnames: 
 author: warren
 path: /wiki/registration.md

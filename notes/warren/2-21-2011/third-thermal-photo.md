@@ -1,5 +1,5 @@
 ---
-title: Third thermal photo
+title: 'Third thermal photo'
 tagnames: thermal-photography, thermal-camera, scanning
 author: warren
 path: /notes/warren/2-21-2011/third-thermal-photo.md

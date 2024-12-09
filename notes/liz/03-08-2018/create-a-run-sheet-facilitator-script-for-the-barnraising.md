@@ -1,5 +1,5 @@
 ---
-title: Create a run sheet + facilitator script
+title: 'Create a run sheet + facilitator script'
 tagnames: barnraising, facilitation, activity:day-before-barnraising, activity:facilitation
 author: liz
 path: /notes/liz/03-08-2018/create-a-run-sheet-facilitator-script-for-the-barnraising.md

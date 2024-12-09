@@ -1,5 +1,5 @@
 ---
-title: Microscope webcam lens fused on
+title: 'Microscope webcam lens fused on'
 tagnames: question:general, general
 author: Meculus
 path: /notes/Meculus/02-18-2020/microscope-webcam-lens-fused-on.md

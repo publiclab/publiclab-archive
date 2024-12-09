@@ -1,5 +1,5 @@
 ---
-title: Odyssey magazine piece on Balloon Mapping
+title: 'Odyssey magazine piece on Balloon Mapping'
 tagnames: balloon-mapping, media, press, odyssey, magazine
 author: warren
 path: /notes/warren/09-03-2014/odyssey-magazine-piece-on-balloon-mapping.md

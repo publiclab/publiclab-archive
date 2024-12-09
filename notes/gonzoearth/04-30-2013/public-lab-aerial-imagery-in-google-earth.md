@@ -1,5 +1,5 @@
 ---
-title: Public Lab Aerial Imagery in Google Earth
+title: 'Public Lab Aerial Imagery in Google Earth'
 tagnames: balloon-mapping, kite-mapping, google, google-earth, maps
 author: gonzoearth
 path: /notes/gonzoearth/04-30-2013/public-lab-aerial-imagery-in-google-earth.md

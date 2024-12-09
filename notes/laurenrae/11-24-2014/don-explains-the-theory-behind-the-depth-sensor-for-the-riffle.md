@@ -1,5 +1,5 @@
 ---
-title: Don explains the theory behind the depth sensor for the Riffle
+title: 'Don explains the theory behind the depth sensor for the Riffle'
 tagnames: gulf-coast, water-sensing, water-quality-monitoring, sensors, riffle, coqui, depth, water-depth
 author: laurenrae
 path: /notes/laurenrae/11-24-2014/don-explains-the-theory-behind-the-depth-sensor-for-the-riffle.md

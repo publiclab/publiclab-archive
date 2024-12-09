@@ -1,5 +1,5 @@
 ---
-title: Reflections on Sensor Journalism
+title: 'Reflections on Sensor Journalism'
 tagnames: 
 author: AbbeyCollins
 path: /notes/AbbeyCollins/10-06-2014/reflections-on-sensor-journalism.md

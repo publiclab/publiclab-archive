@@ -1,5 +1,5 @@
 ---
-title: Spectroscopy of oxyhydrogen flames
+title: 'Spectroscopy of oxyhydrogen flames'
 tagnames: spectrometer, hydrogen, oxyhydrogen, diesel
 author: tungs10
 path: /notes/tungs10/11-08-2013/spectroscopy-of-oxyhydrogen-flames.md

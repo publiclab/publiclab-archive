@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UV station Violet
+title: 'MapKnitter map of UV station Violet'
 tagnames: mapknitter, lat:29.8825368526, lon:-89.877358675
 author: selimthegrim
 path: /notes/selimthegrim/08-19-2017/mapknitter-map-of-uv-station-violet.md

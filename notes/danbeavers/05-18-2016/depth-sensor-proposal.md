@@ -1,5 +1,5 @@
 ---
-title: Depth Sensor Proposal
+title: 'Depth Sensor Proposal'
 tagnames: water-quality, stormwater, depth, water-depth, activity:stormwater, activity:water-depth
 author: danbeavers
 path: /notes/danbeavers/05-18-2016/depth-sensor-proposal.md

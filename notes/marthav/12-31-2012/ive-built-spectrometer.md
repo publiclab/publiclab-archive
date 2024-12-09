@@ -1,5 +1,5 @@
 ---
-title: I've built the spectrometer
+title: 'I've built the spectrometer'
 tagnames: first-time-poster
 author: MarthaV
 path: /notes/marthav/12-31-2012/ive-built-spectrometer.md

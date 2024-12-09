@@ -1,5 +1,5 @@
 ---
-title: Filters and SJ4000
+title: 'Filters and SJ4000'
 tagnames: ndvi, filter, sj4000
 author: thechapu
 path: /notes/thechapu/07-25-2016/filters-and-sj4000.md

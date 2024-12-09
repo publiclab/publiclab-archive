@@ -1,5 +1,5 @@
 ---
-title: Thermal Camera NYC workshop 2
+title: 'Thermal Camera NYC workshop 2'
 tagnames: 
 author: sara
 path: /notes/sara/1-17-2012/thermal-camera-nyc-workshop-2.md

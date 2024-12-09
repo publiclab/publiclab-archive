@@ -1,5 +1,5 @@
 ---
-title: Germany
+title: 'Germany'
 tagnames: 
 author: stevie
 path: /wiki/germany.md

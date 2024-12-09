@@ -1,5 +1,5 @@
 ---
-title: Automatic Gain Control vs. Inverse square law
+title: 'Automatic Gain Control vs. Inverse square law'
 tagnames: spectrometer, intensity-calibration, intensity, distance, agc, gain-control
 author: viechdokter
 path: /notes/viechdokter/04-16-2016/automatic-gain-control-vs-inverse-square-law.md

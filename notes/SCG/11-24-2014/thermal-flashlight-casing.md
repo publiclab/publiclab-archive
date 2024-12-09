@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight Casing
+title: 'Thermal Flashlight Casing'
 tagnames: thermal-photography, thermal-flashlight, thermal-camera, insulation, heat, replication:625
 author: SCG
 path: /notes/SCG/11-24-2014/thermal-flashlight-casing.md

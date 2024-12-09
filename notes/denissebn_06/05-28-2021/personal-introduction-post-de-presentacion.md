@@ -1,5 +1,5 @@
 ---
-title: Personal Introduction / Post de Presentación 
+title: 'Personal Introduction / Post de Presentación '
 tagnames: air-quality, water, lang:es, zoom:14, VVAMP, lat:13.72, lon:-89.22
 author: denissebn_06
 path: /notes/denissebn_06/05-28-2021/personal-introduction-post-de-presentacion.md

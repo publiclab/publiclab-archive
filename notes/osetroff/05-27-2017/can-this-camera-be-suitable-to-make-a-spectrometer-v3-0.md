@@ -1,5 +1,5 @@
 ---
-title: Can this camera be suitable to make a spectrometer v3.0?
+title: 'Can this camera be suitable to make a spectrometer v3.0?'
 tagnames: spectrometer, modifications, question:spectrometry, how-do-i-build-a-spectrometer, build, specifications, how-to-build-a-spectrometer, question:general, first-time-poster
 author: osetroff
 path: /notes/osetroff/05-27-2017/can-this-camera-be-suitable-to-make-a-spectrometer-v3-0.md

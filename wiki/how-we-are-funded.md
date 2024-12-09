@@ -1,5 +1,5 @@
 ---
-title: Public Lab Financials
+title: 'Public Lab Financials'
 tagnames: fundraising, nonprofit, parent:about
 author: Shannon
 path: /wiki/how-we-are-funded.md

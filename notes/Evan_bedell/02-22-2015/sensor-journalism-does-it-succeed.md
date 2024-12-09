@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism: Does it Succeed? 
+title: 'Sensor Journalism: Does it Succeed? '
 tagnames: sensor-journalism
 author: Evan_bedell
 path: /notes/Evan_bedell/02-22-2015/sensor-journalism-does-it-succeed.md

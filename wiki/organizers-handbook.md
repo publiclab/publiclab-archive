@@ -1,5 +1,5 @@
 ---
-title: Organizers Handbook
+title: 'Organizers Handbook'
 tagnames: community, organizers
 author: stevie
 path: /wiki/organizers-handbook.md

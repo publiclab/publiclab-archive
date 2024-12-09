@@ -1,5 +1,5 @@
 ---
-title: Barnraising 2013
+title: 'Barnraising 2013'
 tagnames: gulf-coast, louisiana, barnraising, event, list:plots-barnraising, parent:barnraising
 author: warren
 path: /wiki/barnraising-2013.md

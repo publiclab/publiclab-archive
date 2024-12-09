@@ -1,5 +1,5 @@
 ---
-title: Interest in Hidrogen Sulfide Sensing
+title: 'Interest in Hidrogen Sulfide Sensing'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, question:h2s
 author: fernandolunav
 path: /notes/fernandolunav/9-24-2012/interest-hidrogen-sulfide-sensing.md

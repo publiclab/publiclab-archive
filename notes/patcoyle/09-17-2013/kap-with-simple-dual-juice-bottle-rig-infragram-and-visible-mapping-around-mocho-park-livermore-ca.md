@@ -1,5 +1,5 @@
 ---
-title: KAP with simple dual juice-bottle rig: Infragram and visible mapping around Mocho Park, Livermore CA
+title: 'KAP with simple dual juice-bottle rig: Infragram and visible mapping around Mocho Park, Livermore CA'
 tagnames: ndvi, mapknitter, livermore, norcal, california
 author: patcoyle
 path: /notes/patcoyle/09-17-2013/kap-with-simple-dual-juice-bottle-rig-infragram-and-visible-mapping-around-mocho-park-livermore-ca.md

@@ -1,5 +1,5 @@
 ---
-title: Summary of Water and Water community call
+title: 'Summary of Water and Water community call'
 tagnames: citizen-science, water-quality, stormwater, open-call, parent:water-quality, project:water-quality, research-curation-fellows, appear, hacking-ecology, vigilantes-del-agua
 author: alejobonifacio
 path: /notes/alejobonifacio/07-05-2021/summary-of-water-and-water-community-call.md

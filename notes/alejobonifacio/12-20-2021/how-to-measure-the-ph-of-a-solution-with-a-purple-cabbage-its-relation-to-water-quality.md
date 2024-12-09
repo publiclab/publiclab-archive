@@ -1,5 +1,5 @@
 ---
-title: How to measure the pH of a solution with a purple cabbage? Its relation to water quality
+title: 'How to measure the pH of a solution with a purple cabbage? Its relation to water quality'
 tagnames: education, classroom, water-quality, open-water, new, ph, activity:education, activity:water-quality, activity:classroom, activity:ph, activity:new, lat:-30, zoom:6, zoom:11, research-curation-fellows, lon:-63, lon:-64.2, lat:-31.2
 author: alejobonifacio
 path: /notes/alejobonifacio/12-20-2021/how-to-measure-the-ph-of-a-solution-with-a-purple-cabbage-its-relation-to-water-quality.md

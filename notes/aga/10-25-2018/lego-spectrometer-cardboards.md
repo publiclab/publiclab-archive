@@ -1,5 +1,5 @@
 ---
-title: Lego Spectrometer cardboard cut out template? 
+title: 'Lego Spectrometer cardboard cut out template? '
 tagnames: spectrometer, question:spectrometer, question:lego-spectrometer, lego-spectrometer, response:15360
 author: aga
 path: /notes/aga/10-25-2018/lego-spectrometer-cardboards.md

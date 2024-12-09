@@ -1,5 +1,5 @@
 ---
-title: Sharing
+title: 'Sharing'
 tagnames: sharing
 author: warren
 path: /wiki/sharing.md

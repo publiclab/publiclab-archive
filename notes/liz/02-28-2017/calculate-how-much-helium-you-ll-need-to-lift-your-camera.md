@@ -1,5 +1,5 @@
 ---
-title: Calculate how much helium you'll need to lift your camera
+title: 'Calculate how much helium you'll need to lift your camera'
 tagnames: activity:balloon-mapping, activity:publiclabriverratpack, activity:bourjalshamali
 author: liz
 path: /notes/liz/02-28-2017/calculate-how-much-helium-you-ll-need-to-lift-your-camera.md

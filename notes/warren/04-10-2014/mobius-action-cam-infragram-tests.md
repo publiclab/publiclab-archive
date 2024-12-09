@@ -1,5 +1,5 @@
 ---
-title: Mobius Action Cam Infragram tests
+title: 'Mobius Action Cam Infragram tests'
 tagnames: near-infrared-camera, ndvi, infragram, infragram-sandbox, mobius-actioncam, response:9293, response:9302, response:9325, response:9296
 author: warren
 path: /notes/warren/04-10-2014/mobius-action-cam-infragram-tests.md

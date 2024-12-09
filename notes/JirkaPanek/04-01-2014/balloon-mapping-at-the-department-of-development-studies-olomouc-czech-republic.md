@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping at the Department of Development Studies, Olomouc, Czech Republic
+title: 'Balloon mapping at the Department of Development Studies, Olomouc, Czech Republic'
 tagnames: balloon-mapping, chdk, field-test, failure, first-time-poster
 author: JirkaPanek
 path: /notes/JirkaPanek/04-01-2014/balloon-mapping-at-the-department-of-development-studies-olomouc-czech-republic.md

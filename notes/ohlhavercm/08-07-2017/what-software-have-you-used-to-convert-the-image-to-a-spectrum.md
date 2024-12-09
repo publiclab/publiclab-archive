@@ -1,5 +1,5 @@
 ---
-title: What software have you used to convert the image to a spectrum?
+title: 'What software have you used to convert the image to a spectrum?'
 tagnames: spectrometer, raman, diy-spectrometer, raman-spectrometer, question:general, response:12522
 author: ohlhavercm
 path: /notes/ohlhavercm/08-07-2017/what-software-have-you-used-to-convert-the-image-to-a-spectrum.md

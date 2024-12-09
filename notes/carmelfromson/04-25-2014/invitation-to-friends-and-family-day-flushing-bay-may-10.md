@@ -1,5 +1,5 @@
 ---
-title: Invitation to Friends and Family Day-Flushing Bay-May 10
+title: 'Invitation to Friends and Family Day-Flushing Bay-May 10'
 tagnames: new-york-city, queens, event, sewage, bacteria, flushing-bay, cso, empire-dragon-boat, northeast, flushing, response:10206, dragon-boat
 author: carmelfromson
 path: /notes/carmelfromson/04-25-2014/invitation-to-friends-and-family-day-flushing-bay-may-10.md

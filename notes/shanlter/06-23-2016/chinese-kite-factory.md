@@ -1,5 +1,5 @@
 ---
-title: Chinese kite factory 
+title: 'Chinese kite factory '
 tagnames: kite, history, china, chinese, factory
 author: shanlter
 path: /notes/shanlter/06-23-2016/chinese-kite-factory.md

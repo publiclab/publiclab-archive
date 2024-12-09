@@ -1,5 +1,5 @@
 ---
-title: Introducing a Lego Spectrometer
+title: 'Introducing a Lego Spectrometer'
 tagnames: spectrometer, kits, spectrometry, blog, lego, lego-spectrometer, lego-quickstart
 author: warren
 path: /notes/warren/12-13-2017/introducing-a-lego-spectrometer.md

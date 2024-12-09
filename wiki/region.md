@@ -1,5 +1,5 @@
 ---
-title: Region
+title: 'Region'
 tagnames: community, chapters, region, website-utilities, parent:locations
 author: liz
 path: /wiki/region.md

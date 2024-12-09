@@ -1,5 +1,5 @@
 ---
-title: Timeline of a Public Labs map project
+title: 'Timeline of a Public Labs map project'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, idealab
 author: gonzoearth
 path: /notes/gonzoearth/5-8-2012/timeline-public-labs-map-project.md

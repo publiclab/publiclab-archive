@@ -1,5 +1,5 @@
 ---
-title: yet more: small parafoil kite for Mobius camera
+title: 'yet more: small parafoil kite for Mobius camera'
 tagnames: kap, infragram, gimp, mobius-action-cam, parafoil, stowaway-delta
 author: patcoyle
 path: /notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera.md

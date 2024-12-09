@@ -1,5 +1,5 @@
 ---
-title: DiezelSun_(culture)
+title: 'DiezelSun_(culture)'
 tagnames: diezelsun
 author: Samel
 path: /wiki/diezelsun_-culture.md

@@ -1,5 +1,5 @@
 ---
-title: Towards a standard diamond kite kit
+title: 'Towards a standard diamond kite kit'
 tagnames: kite-mapping, diy-kite, tyvek, diy-kites, kite-making, activity:tyvek, first-time-poster
 author: lfamular
 path: /notes/lfamular/7-18-2012/towards-standard-diamond-kite-kit.md

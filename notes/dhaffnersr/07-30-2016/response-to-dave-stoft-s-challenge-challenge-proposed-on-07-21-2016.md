@@ -1,5 +1,5 @@
 ---
-title: Response to: Dave stoft's challenge (challenge proposed on 07/21/2016)
+title: 'Response to: Dave stoft's challenge (challenge proposed on 07/21/2016)'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/07-30-2016/response-to-dave-stoft-s-challenge-challenge-proposed-on-07-21-2016.md

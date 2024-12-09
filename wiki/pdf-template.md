@@ -1,5 +1,5 @@
 ---
-title: PDF template
+title: 'PDF template'
 tagnames: 
 author: warren
 path: /wiki/pdf-template.md

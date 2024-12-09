@@ -1,5 +1,5 @@
 ---
-title: Show You Can be Free in a Colony
+title: 'Show You Can be Free in a Colony'
 tagnames: barnraising, puerto-rico, location:blurred, crisis-convening, lat:18, lon:-66, csf14, place:puerto-rico, series:crisis-convening, first-time-poster
 author: joyofsoy
 path: /notes/joyofsoy/08-28-2018/show-you-can-be-free-in-a-colony.md

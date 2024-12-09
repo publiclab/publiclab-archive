@@ -1,5 +1,5 @@
 ---
-title: What are some options for copper materials to make a copper plate test kit?
+title: 'What are some options for copper materials to make a copper plate test kit?'
 tagnames: materials, hydrogen-sulfide, h2s, copper, answered, prototyping, h2s-copper-pipe, prototyping-kit, question:kits, sourcing, question:h2s-copper-pipe, proto-kit, question:materials, question:prototyping-kit, question:h2s-copper-pipe-challenge
 author: warren
 path: /notes/warren/12-06-2017/what-are-some-options-for-copper-materials-to-make-a-copper-plate-test-kit.md

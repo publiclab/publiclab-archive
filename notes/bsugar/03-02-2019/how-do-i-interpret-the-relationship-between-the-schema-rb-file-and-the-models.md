@@ -1,5 +1,5 @@
 ---
-title: How do I interpret the relationship between the schema.rb file and the models?
+title: 'How do I interpret the relationship between the schema.rb file and the models?'
 tagnames: visualization, code, answered, question:website, programming
 author: bsugar
 path: /notes/bsugar/03-02-2019/how-do-i-interpret-the-relationship-between-the-schema-rb-file-and-the-models.md

@@ -1,5 +1,5 @@
 ---
-title: what data-logger will work with my portable HCHO meter?
+title: 'what data-logger will work with my portable HCHO meter?'
 tagnames: air-quality, sensors, riffle, formaldehyde, question:air-quality, answered, resolution, data-logging, question:data-logging, nano-data-logger, question:sensors, datalogging, smart-form, question:sensitivity, question:air-sensors, air-sensors, question:resolution
 author: nshapiro
 path: /notes/nshapiro/03-27-2018/what-data-logger-will-work-with-my-portable-hcho-meter.md

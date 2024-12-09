@@ -1,5 +1,5 @@
 ---
-title: Blocking New Orleans Gutters
+title: 'Blocking New Orleans Gutters'
 tagnames: new-orleans, stormwater, issue-brief, storm-drain, first-time-poster, with:jeanellf73, lat:29.951065, lon:-90.071532
 author: JumpKitten8683
 path: /notes/JumpKitten8683/09-24-2019/blocking-new-orleans-gutters.md

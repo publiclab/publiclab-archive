@@ -1,5 +1,5 @@
 ---
-title: What is some ways that we the people impact our community in a positive and harmful way in our everyday activities?
+title: 'What is some ways that we the people impact our community in a positive and harmful way in our everyday activities?'
 tagnames: community, question:general, general, first-time-poster
 author: makayla_thomas
 path: /notes/makayla_thomas/04-27-2021/what-is-some-ways-that-we-the-people-impact-our-community-in-a-positive-and-harmful-way-in-our-everyday-activities.md

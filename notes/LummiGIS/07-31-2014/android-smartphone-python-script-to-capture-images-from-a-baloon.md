@@ -1,5 +1,5 @@
 ---
-title: Android smartphone/Python Script to capture images from a balloon.
+title: 'Android smartphone/Python Script to capture images from a balloon.'
 tagnames: balloon-mapping
 author: LummiGIS
 path: /notes/LummiGIS/07-31-2014/android-smartphone-python-script-to-capture-images-from-a-baloon.md

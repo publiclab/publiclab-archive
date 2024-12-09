@@ -1,5 +1,5 @@
 ---
-title: Infragram Pi Camera
+title: 'Infragram Pi Camera'
 tagnames: 
 author: joyofsoy
 path: /wiki/infragram-pi-camera.md

@@ -1,5 +1,5 @@
 ---
-title: Software for structure from motion
+title: 'Software for structure from motion'
 tagnames: sfm, software, mapping, structure-from-motion
 author: nedhorning
 path: /notes/nedhorning/10-10-2012/software-structure-motion.md

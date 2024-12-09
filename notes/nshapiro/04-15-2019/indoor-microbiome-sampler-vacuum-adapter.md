@@ -1,5 +1,5 @@
 ---
-title: Indoor microbiome sampler (vacuum adapter)
+title: 'Indoor microbiome sampler (vacuum adapter)'
 tagnames: 3d-printing, indoor, low-cost, indoor-air-quality, with:haines241, microbiome
 author: nshapiro
 path: /notes/nshapiro/04-15-2019/indoor-microbiome-sampler-vacuum-adapter.md

@@ -1,5 +1,5 @@
 ---
-title: Infrared camera test - film types
+title: 'Infrared camera test - film types'
 tagnames: near-infrared-camera, nrg, ndvi
 author: cindy_excites
 path: /notes/cindyexcites/9-20-2012/infrared-camera-test-film-types.md

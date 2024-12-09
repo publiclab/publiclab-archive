@@ -1,5 +1,5 @@
 ---
-title: winter-holidays
+title: 'winter-holidays'
 tagnames: community
 author: liz
 path: /wiki/winter-holidays.md

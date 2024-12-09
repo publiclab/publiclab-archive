@@ -1,5 +1,5 @@
 ---
-title: June PM 2.5 Data
+title: 'June PM 2.5 Data'
 tagnames: gulf-coast, air-quality, pm, particulate-matter, purpleair, st-james, formosaplastics
 author: tylerknight
 path: /notes/tylerknight/07-08-2022/june-pm-2-5-data.md

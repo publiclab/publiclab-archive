@@ -1,5 +1,5 @@
 ---
-title: anyone working on dataloggers for snow depth?
+title: 'anyone working on dataloggers for snow depth?'
 tagnames: datalogger, snow, question:general, general
 author: MadTinker
 path: /notes/MadTinker/01-24-2020/anyone-working-on-dataloggers-for-snow-depth.md

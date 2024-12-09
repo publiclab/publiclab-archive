@@ -1,5 +1,5 @@
 ---
-title: Question: Calibration...
+title: 'Question: Calibration...'
 tagnames: question:spectrometry, answered
 author: Georgi
 path: /notes/Georgi/05-02-2016/question-calibration.md

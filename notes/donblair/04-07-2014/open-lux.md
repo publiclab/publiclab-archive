@@ -1,5 +1,5 @@
 ---
-title: Open-Lux
+title: 'Open-Lux'
 tagnames: thermal-photography, ndvi, infrared, thermal-flashlight, thermal-imaging, thermal-technology, infragram, mercury, test-strips
 author: donblair
 path: /notes/donblair/04-07-2014/open-lux.md

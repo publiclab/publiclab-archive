@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack -- St. Louis -- Amanda Malone
+title: 'Public Lab River Rat Pack -- St. Louis -- Amanda Malone'
 tagnames: mid-west, missouri, publiclabriverratpack, stlouis
 author: amandamalone
 path: /notes/amandamalone/05-12-2016/public-lab-river-rat-pack-st-louis-amanda-malone.md

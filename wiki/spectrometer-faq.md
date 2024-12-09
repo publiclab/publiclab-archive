@@ -1,5 +1,5 @@
 ---
-title: Spectrometer FAQ
+title: 'Spectrometer FAQ'
 tagnames: spectrometer, documentation, help, faq, absorption-spectrometry
 author: warren
 path: /wiki/spectrometer-faq.md

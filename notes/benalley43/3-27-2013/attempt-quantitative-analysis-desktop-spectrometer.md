@@ -1,5 +1,5 @@
 ---
-title: Attempt at Quantitative Analysis for Desktop Spectrometer 
+title: 'Attempt at Quantitative Analysis for Desktop Spectrometer '
 tagnames: spectrometer, analysis, spectralworkbench, centre_college, beers-law, quantitative, activity:spectrometry, activity:dsk
 author: ben.alley43
 path: /notes/benalley43/3-27-2013/attempt-quantitative-analysis-desktop-spectrometer.md

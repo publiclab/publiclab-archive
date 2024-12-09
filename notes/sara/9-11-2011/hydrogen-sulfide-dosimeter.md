@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Sulfide Dosimeter
+title: 'Hydrogen Sulfide Dosimeter'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-dosimeter, h2s-badge, h2s-detection-method
 author: sara
 path: /notes/sara/9-11-2011/hydrogen-sulfide-dosimeter.md

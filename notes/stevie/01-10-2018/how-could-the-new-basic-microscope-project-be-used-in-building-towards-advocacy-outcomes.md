@@ -1,5 +1,5 @@
 ---
-title: How could the new basic microscope project be used in building towards advocacy outcomes?
+title: 'How could the new basic microscope project be used in building towards advocacy outcomes?'
 tagnames: microscope, advocacy, question:advocacy, question:microscope, question:microscopes, question:basic-microscope, basic-microscope, question:community-microscope
 author: stevie
 path: /notes/stevie/01-10-2018/how-could-the-new-basic-microscope-project-be-used-in-building-towards-advocacy-outcomes.md

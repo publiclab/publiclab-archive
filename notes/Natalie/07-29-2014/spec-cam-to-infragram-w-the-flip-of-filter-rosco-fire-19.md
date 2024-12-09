@@ -1,5 +1,5 @@
 ---
-title: Spec Cam to Infragram w/the flip of filter? (Rosco "Fire" #19)
+title: 'Spec Cam to Infragram w/the flip of filter? (Rosco "Fire" #19)'
 tagnames: near-infrared-camera, spectrometer, ndvi, near-infrared, infragram, infragram-conversion, infragram-filters, infragram-camera-testing, calibrate-ndvi, question:ndvi
 author: natalie
 path: /notes/Natalie/07-29-2014/spec-cam-to-infragram-w-the-flip-of-filter-rosco-fire-19.md

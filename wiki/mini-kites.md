@@ -1,5 +1,5 @@
 ---
-title: Mini Kites
+title: 'Mini Kites'
 tagnames: mini-kite
 author: mimiss
 path: /wiki/mini-kites.md

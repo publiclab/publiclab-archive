@@ -1,5 +1,5 @@
 ---
-title: Ideas for Footer Design - PublicLab.org
+title: 'Ideas for Footer Design - PublicLab.org'
 tagnames: design, ui, ideas
 author: divyabaid16
 path: /notes/divyabaid16/03-28-2019/ideas-for-footer-design-publiclab-org.md

@@ -1,5 +1,5 @@
 ---
-title: Environmental Impacts of Road Salt
+title: 'Environmental Impacts of Road Salt'
 tagnames: conductivity, journalism, salt
 author: kanarinka
 path: /wiki/environmental-impacts-of-road-salt.md

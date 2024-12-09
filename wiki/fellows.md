@@ -1,5 +1,5 @@
 ---
-title: Public Lab Fellows Program
+title: 'Public Lab Fellows Program'
 tagnames: community, nonprofit, openair, openwater, fellows, openland, parent:nonprofit-initiatives, contribute
 author: Shannon
 path: /wiki/fellows.md

@@ -1,5 +1,5 @@
 ---
-title: Use Image Sequencer for NDVI plant analysis with a modified mini sport camera
+title: 'Use Image Sequencer for NDVI plant analysis with a modified mini sport camera'
 tagnames: near-infrared-camera, ndvi, multispectral, nasa, infragram, mobius, infragram-point-shoot, filters, difficulty:easy, time:15m, status:review-me, category:observe, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:ndvi, response:13742, aren, activity:infrared-camera-conversion, infrared-camera-conversion, activity:image-sequencer, activity:aren, sport-camera, camera-hacking
 author: warren
 path: /notes/warren/08-02-2018/use-image-sequencer-for-ndvi-plant-analysis-with-a-modified-mini-sport-camera.md

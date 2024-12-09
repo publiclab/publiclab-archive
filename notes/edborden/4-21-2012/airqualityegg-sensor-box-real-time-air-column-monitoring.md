@@ -1,5 +1,5 @@
 ---
-title: AirQualityEgg sensor-box for real-time air column monitoring
+title: 'AirQualityEgg sensor-box for real-time air column monitoring'
 tagnames: balloon-mapping, kite-mapping
 author: edborden
 path: /notes/edborden/4-21-2012/airqualityegg-sensor-box-real-time-air-column-monitoring.md

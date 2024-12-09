@@ -1,5 +1,5 @@
 ---
-title: Vienna Plants
+title: 'Vienna Plants'
 tagnames: near-infrared-camera, ndvi, infragram, first-time-poster
 author: GreenLeaves
 path: /notes/GreenLeaves/07-04-2014/vienna-plants.md

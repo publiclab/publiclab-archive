@@ -1,5 +1,5 @@
 ---
-title: My experience during GSoC '22
+title: 'My experience during GSoC '22'
 tagnames: gsoc, lon:77.2, zoom:10, lat:28.6
 author: anirudhprabhakaran3
 path: /notes/anirudhprabhakaran3/09-09-2022/my-experience-during-gsoc-22.md

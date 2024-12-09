@@ -1,5 +1,5 @@
 ---
-title: ASD Field Spectrometer 3
+title: 'ASD Field Spectrometer 3'
 tagnames: 
 author: warren
 path: /notes/warren/6-15-2011/asd-field-spectrometer-3.md

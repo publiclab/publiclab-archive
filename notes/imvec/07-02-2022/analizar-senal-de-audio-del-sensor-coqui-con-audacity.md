@@ -1,5 +1,5 @@
 ---
-title: Analizar señal de audio del sensor Coqui con Audacity
+title: 'Analizar señal de audio del sensor Coqui con Audacity'
 tagnames: water-quality, water-quality-sensor, conductivity, lang:es, coqui, activity:coqui, with:xose, water-conductivity, agua, calidad-de-agua, conductividad
 author: imvec
 path: /notes/imvec/07-02-2022/analizar-senal-de-audio-del-sensor-coqui-con-audacity.md

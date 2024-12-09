@@ -1,5 +1,5 @@
 ---
-title: How can we connect a PMS5003 dust sensor to an Arduino?
+title: 'How can we connect a PMS5003 dust sensor to an Arduino?'
 tagnames: arduino, air-quality, question:air-quality, answered, question:arduino, question:air-sensors, purpleair, question:indoor-air, question:purpleair, purple-air, wiring
 author: warren
 path: /notes/warren/10-26-2018/how-can-we-connect-a-pms5003-dust-sensor-to-an-arduino.md

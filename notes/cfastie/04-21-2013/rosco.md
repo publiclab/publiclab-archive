@@ -1,5 +1,5 @@
 ---
-title: Rosco!
+title: 'Rosco!'
 tagnames: near-infrared-camera, nrg, ndvi, nir, vermont, infrared, white-balance, infragram, plant-health, development, superblue, rosco, vegetation, infrablue, infragram-filters
 author: cfastie
 path: /notes/cfastie/04-21-2013/rosco.md

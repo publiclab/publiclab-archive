@@ -1,5 +1,5 @@
 ---
-title: Do you have resources on odor logs and odor reporting platforms? 
+title: 'Do you have resources on odor logs and odor reporting platforms? '
 tagnames: question:air-quality, answered, question:odor, question:smell
 author: gretchengehrke
 path: /notes/gretchengehrke/07-07-2017/do-you-have-resources-on-odor-logs-and-odor-reporting-platforms.md

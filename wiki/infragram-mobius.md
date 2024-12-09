@@ -1,5 +1,5 @@
 ---
-title: infragram-mobius
+title: 'infragram-mobius'
 tagnames: 
 author: muratvarcin
 path: /wiki/infragram-mobius.md

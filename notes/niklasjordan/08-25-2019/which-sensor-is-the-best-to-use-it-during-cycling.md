@@ -1,5 +1,5 @@
 ---
-title: Which sensor is the best to use it during cycling?
+title: 'Which sensor is the best to use it during cycling?'
 tagnames: arduino, air-quality, question:air-quality
 author: niklasjordan
 path: /notes/niklasjordan/08-25-2019/which-sensor-is-the-best-to-use-it-during-cycling.md

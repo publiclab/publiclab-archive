@@ -1,5 +1,5 @@
 ---
-title: Calibrating raw images - a step toward JPEG calibration?
+title: 'Calibrating raw images - a step toward JPEG calibration?'
 tagnames: ndvi, nir, calibration, response:10389
 author: nedhorning
 path: /notes/nedhorning/06-23-2014/calibrating-raw-images-a-step-toward-jpeg-calibration.md

@@ -1,5 +1,5 @@
 ---
-title: a quoi correspondent l'intensité en axe y et le chiffres en axe x sur le spectre?
+title: 'a quoi correspondent l'intensité en axe y et le chiffres en axe x sur le spectre?'
 tagnames: spectral-workbench, lang:fr, question:spectral-workbench, first-time-poster, response:23097
 author: ra_owoussi
 path: /notes/ra_owoussi/03-21-2021/a-quoi-correspondent-l-intensite-en-axe-y-et-le-chiffres-en-axe-x-sur-le-spectre.md

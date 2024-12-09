@@ -1,5 +1,5 @@
 ---
-title: Research into Chloride in Boston with Journalism Class
+title: 'Research into Chloride in Boston with Journalism Class'
 tagnames: boston, classroom, water-quality, conductivity, journalism, emerson, sensor-journalism, myrwa, replication:11213, salinity, chloride
 author: kanarinka
 path: /wiki/research-into-chloride-in-boston-with-journalism-class.md

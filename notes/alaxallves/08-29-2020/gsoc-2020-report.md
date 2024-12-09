@@ -1,5 +1,5 @@
 ---
-title: GSoC 2020: Mapknitter Export Module and Spectral Workbench upgrades
+title: 'GSoC 2020: Mapknitter Export Module and Spectral Workbench upgrades'
 tagnames: mapknitter, spectral-workbench, gsoc, soc, zoom:16, gsoc2020, exporter-gem, lat:-15.889, lon:-48.015, soc-2020-final
 author: alaxallves
 path: /notes/alaxallves/08-29-2020/gsoc-2020-report.md

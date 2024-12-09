@@ -1,5 +1,5 @@
 ---
-title: Are algae blooms in Lake Pontchartrain preventable or will they continue to be a problem?
+title: 'Are algae blooms in Lake Pontchartrain preventable or will they continue to be a problem?'
 tagnames: algae, question:general, general, first-time-poster, blooms
 author: jmerrill
 path: /notes/jmerrill/03-07-2021/are-algae-blooms-in-lake-pontchartrain-preventable-or-will-they-continue-to-be-a-problem.md

@@ -1,5 +1,5 @@
 ---
-title: Recovering RI's Lost Industrial Footprint
+title: 'Recovering RI's Lost Industrial Footprint'
 tagnames: first-time-poster, unearthing-pvd, lat:41.0, lon:-71.0, unearthing-pvd-analyses, lat:41.826887, lon:-71.401911
 author: sfrickel
 path: /notes/sfrickel/12-06-2019/recovering-ri-s-lost-industrial-footprint.md

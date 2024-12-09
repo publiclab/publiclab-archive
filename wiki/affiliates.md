@@ -1,5 +1,5 @@
 ---
-title: affiliates
+title: 'affiliates'
 tagnames: retail
 author: liz
 path: /wiki/affiliates.md

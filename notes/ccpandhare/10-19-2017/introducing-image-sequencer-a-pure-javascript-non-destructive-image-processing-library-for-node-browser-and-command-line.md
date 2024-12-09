@@ -1,5 +1,5 @@
 ---
-title: Introducing Image Sequencer: a pure JavaScript non-destructive image processing library for Node, browser and command line
+title: 'Introducing Image Sequencer: a pure JavaScript non-destructive image processing library for Node, browser and command line'
 tagnames: image-processing, software, infragram, gsoc, web, with:warren, image-analysis, javascript, gsoc-2017, soc, soc-2017, image-sequencer
 author: ccpandhare
 path: /notes/ccpandhare/10-19-2017/introducing-image-sequencer-a-pure-javascript-non-destructive-image-processing-library-for-node-browser-and-command-line.md

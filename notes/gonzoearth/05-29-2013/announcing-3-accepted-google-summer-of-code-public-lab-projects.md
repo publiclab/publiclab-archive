@@ -1,5 +1,5 @@
 ---
-title: Announcing 3 Accepted Google Summer of Code Public Lab Projects! 
+title: 'Announcing 3 Accepted Google Summer of Code Public Lab Projects! '
 tagnames: gsoc
 author: gonzoearth
 path: /notes/gonzoearth/05-29-2013/announcing-3-accepted-google-summer-of-code-public-lab-projects.md

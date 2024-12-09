@@ -1,5 +1,5 @@
 ---
-title: March Mapping Madness-L.A./San Diego
+title: 'March Mapping Madness-L.A./San Diego'
 tagnames: 
 author: sara
 path: /wiki/march-mapping-madness-lasan-diego.md

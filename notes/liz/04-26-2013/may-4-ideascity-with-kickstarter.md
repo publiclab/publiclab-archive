@@ -1,5 +1,5 @@
 ---
-title: May 4 IdeasCity with Kickstarter!
+title: 'May 4 IdeasCity with Kickstarter!'
 tagnames: new-york-city, event
 author: liz
 path: /notes/liz/04-26-2013/may-4-ideascity-with-kickstarter.md

@@ -1,5 +1,5 @@
 ---
-title: Water Filter Effectiveness
+title: 'Water Filter Effectiveness'
 tagnames: filter, water-quality, turbidity, filters, question:water-quality, question:water-filters, water-filters, tds, question:turbidity, question:spectrometry-turbidity, first-time-poster, question:filters
 author: Mempet
 path: /notes/Mempet/09-04-2017/water-filter-effectiveness.md

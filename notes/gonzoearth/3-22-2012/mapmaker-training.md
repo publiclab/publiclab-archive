@@ -1,5 +1,5 @@
 ---
-title: MapMaker Training
+title: 'MapMaker Training'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/3-22-2012/mapmaker-training.md

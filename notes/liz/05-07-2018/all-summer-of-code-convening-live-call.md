@@ -1,5 +1,5 @@
 ---
-title: All Summer of Code convening Live Call
+title: 'All Summer of Code convening Live Call'
 tagnames: event, gsoc, software-outreach, soc, soc-18, gsoc-18
 author: liz
 path: /notes/liz/05-07-2018/all-summer-of-code-convening-live-call.md

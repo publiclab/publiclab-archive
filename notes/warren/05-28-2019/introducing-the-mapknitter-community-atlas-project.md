@@ -1,5 +1,5 @@
 ---
-title: Introducing the MapKnitter: Community Atlas project
+title: 'Introducing the MapKnitter: Community Atlas project'
 tagnames: balloon-mapping, kite-mapping, grassrootsmapping, mapknitter, aerial-photography, software, gsoc, blog, aerial-mapping, leaflet, code, fellows, soc, lon:-71.426406, gsoc-2019, soc-2019, community-atlas, lat:41.809084
 author: warren
 path: /notes/warren/05-28-2019/introducing-the-mapknitter-community-atlas-project.md

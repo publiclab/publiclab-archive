@@ -1,5 +1,5 @@
 ---
-title: Games/Activities to know about Air Pollution
+title: 'Games/Activities to know about Air Pollution'
 tagnames: education, workshop, curriculum, air-quality, lesson, exploring-environmental-issues, lat:12.944198, lon:80.148028
 author: silentsairam
 path: /notes/silentsairam/06-16-2019/games-activities-to-know-about-air-pollution.md

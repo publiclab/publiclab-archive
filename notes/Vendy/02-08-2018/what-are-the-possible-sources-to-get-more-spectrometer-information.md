@@ -1,5 +1,5 @@
 ---
-title: What are the possible sources to get more spectrometer information
+title: 'What are the possible sources to get more spectrometer information'
 tagnames: question:general, location:blurred, lon:0, lat:1, first-time-poster
 author: Vendy
 path: /notes/Vendy/02-08-2018/what-are-the-possible-sources-to-get-more-spectrometer-information.md

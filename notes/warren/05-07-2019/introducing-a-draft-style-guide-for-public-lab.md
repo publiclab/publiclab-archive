@@ -1,5 +1,5 @@
 ---
-title: Introducing a (draft) Style Guide for Public Lab
+title: 'Introducing a (draft) Style Guide for Public Lab'
 tagnames: website, design, blog, code, interface, style-guide, ui, with:sylvan, pin:ui
 author: warren
 path: /notes/warren/05-07-2019/introducing-a-draft-style-guide-for-public-lab.md

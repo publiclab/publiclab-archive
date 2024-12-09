@@ -1,5 +1,5 @@
 ---
-title: What causes shimmering air above flares?
+title: 'What causes shimmering air above flares?'
 tagnames: air-quality, flare, fire, haze, question:air-quality, emission-spectra, question:general, general
 author: kgradow1
 path: /notes/kgradow1/06-25-2020/what-causes-shimmering-air-above-flares.md

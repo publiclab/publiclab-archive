@@ -1,5 +1,5 @@
 ---
-title: ¿como se que mi espectro de una solución sigue la ley de beer? 
+title: '¿como se que mi espectro de una solución sigue la ley de beer? '
 tagnames: spectrometer, spectrometry, lang:es, question:spectrometer, question:spectrometry
 author: edithcaballero19t
 path: /notes/edithcaballero19t/05-02-2021/como-se-que-mi-espectro-de-una-solucion-sigue-la-ley-de-beer.md

@@ -1,5 +1,5 @@
 ---
-title: Need help to reduce the Blue in mobius point and shoot camera
+title: 'Need help to reduce the Blue in mobius point and shoot camera'
 tagnames: mobius, question:ndvi, question:infragram, infragram-point-shoot, question:infragram-point-shoot
 author: Muneeswaran
 path: /notes/Muneeswaran/08-26-2019/need-help-to-reduce-the-blue-in-mobius-point-and-shoot-camera.md

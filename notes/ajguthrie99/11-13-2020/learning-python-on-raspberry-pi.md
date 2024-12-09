@@ -1,5 +1,5 @@
 ---
-title: Learning Python on Raspberry Pi
+title: 'Learning Python on Raspberry Pi'
 tagnames: 
 author: ajguthrie99
 path: /notes/ajguthrie99/11-13-2020/learning-python-on-raspberry-pi.md

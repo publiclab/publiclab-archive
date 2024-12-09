@@ -1,5 +1,5 @@
 ---
-title: A DIY low power timer
+title: 'A DIY low power timer'
 tagnames: arduino, timer, barnstar:photo-documentation, data-logging, mini-pearl-logger, tpl5110, low-power-logging, log-a-long-timer, activity:log-a-long-timer
 author: cfastie
 path: /notes/cfastie/01-24-2018/a-diy-low-power-timer.md

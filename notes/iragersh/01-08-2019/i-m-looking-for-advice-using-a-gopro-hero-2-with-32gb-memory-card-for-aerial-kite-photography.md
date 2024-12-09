@@ -1,5 +1,5 @@
 ---
-title: I'm looking for advice using a gopro hero 2 with 32gb memory card for aerial kite photography.
+title: 'I'm looking for advice using a gopro hero 2 with 32gb memory card for aerial kite photography.'
 tagnames: picavet, photography, kite, gopro, hardware, question:gopro, mini-camera, question:mini-camera
 author: iragersh
 path: /notes/iragersh/01-08-2019/i-m-looking-for-advice-using-a-gopro-hero-2-with-32gb-memory-card-for-aerial-kite-photography.md

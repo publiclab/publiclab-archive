@@ -1,5 +1,5 @@
 ---
-title: Multiple Thermistor Fishing Bob Field Test
+title: 'Multiple Thermistor Fishing Bob Field Test'
 tagnames: thermal-photography, cape-cod, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, multiple-input-thermal-fishing-bob, replication:689, upgrade:thermal-fishing-bob
 author: kgrevera
 path: /notes/kgrevera/07-07-2015/multiple-thermistor-fishing-bob-field-test.md

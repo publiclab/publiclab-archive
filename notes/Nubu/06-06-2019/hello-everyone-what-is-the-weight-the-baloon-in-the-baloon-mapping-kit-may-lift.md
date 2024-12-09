@@ -1,5 +1,5 @@
 ---
-title: Hello everyone, what is the weight, the baloon in the baloon mapping kit may lift?
+title: 'Hello everyone, what is the weight, the baloon in the baloon mapping kit may lift?'
 tagnames: question:balloon-mapping, first-time-poster
 author: Nubu
 path: /notes/Nubu/06-06-2019/hello-everyone-what-is-the-weight-the-baloon-in-the-baloon-mapping-kit-may-lift.md

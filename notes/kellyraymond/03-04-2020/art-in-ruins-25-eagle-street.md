@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (25 Eagle Street)
+title: 'Art in Ruins (25 Eagle Street)'
 tagnames: hidden:response, zoom:13, lat:41.59555700085012, lon:-71.66254431009294, lat:41.826503, lon:-71.436178, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-25-eagle-street.md

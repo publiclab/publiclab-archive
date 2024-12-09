@@ -1,5 +1,5 @@
 ---
-title: Raspberry pi operating system for Lego spectrometer
+title: 'Raspberry pi operating system for Lego spectrometer'
 tagnames: raspbian, answered, question:lego-spectrometer, lego-spectrometer, operating, system, kodi
 author: Aleksi12358
 path: /notes/Aleksi12358/07-09-2018/raspberry-pi-operating-system-for-lego-spectrometer.md

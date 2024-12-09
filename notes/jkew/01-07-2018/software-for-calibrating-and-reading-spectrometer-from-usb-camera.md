@@ -1,5 +1,5 @@
 ---
-title: Software for Calibrating and Reading Spectrometer from USB Camera
+title: 'Software for Calibrating and Reading Spectrometer from USB Camera'
 tagnames: spectrometer, calibration, spectral-analysis
 author: jkew
 path: /notes/jkew/01-07-2018/software-for-calibrating-and-reading-spectrometer-from-usb-camera.md

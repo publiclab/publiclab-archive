@@ -1,5 +1,5 @@
 ---
-title: Camera sensor issues
+title: 'Camera sensor issues'
 tagnames: spectrometer, overexposure, sunlight, camera_sensor, channel_intensity
 author: viechdokter
 path: /notes/viechdokter/04-09-2016/camera-sensor-issues.md

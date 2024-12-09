@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Prairie Island Penstemon Pole Mapping 1
+title: 'MapKnitter map of Prairie Island Penstemon Pole Mapping 1'
 tagnames: mapknitter, north-carolina, southeast, durham, lat:35.9894642657, lon:-78.9068877697
 author: jkpetter
 path: /notes/jkpetter/09-21-2016/mapknitter-map-of-prairie-island-penstemon-pole-mapping-1.md

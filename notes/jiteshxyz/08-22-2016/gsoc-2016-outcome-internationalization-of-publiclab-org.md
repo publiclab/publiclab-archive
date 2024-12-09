@@ -1,5 +1,5 @@
 ---
-title: GSOC 2016 Outcome : Internationalization of Publiclab.org
+title: 'GSOC 2016 Outcome : Internationalization of Publiclab.org'
 tagnames: gsoc, gsoc-2016, internationalization, i18n, response:13397, translation
 author: jiteshxyz
 path: /notes/jiteshxyz/08-22-2016/gsoc-2016-outcome-internationalization-of-publiclab-org.md

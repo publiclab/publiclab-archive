@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of uncc balloon mapping-casey
+title: 'MapKnitter map of uncc balloon mapping-casey'
 tagnames: mapknitter, lat:35.3053942, lon:-80.7309334
 author: cstegal9
 path: /notes/cstegal9/02-19-2016/mapknitter-map-of-uncc-balloon-mapping-casey.md

@@ -1,5 +1,5 @@
 ---
-title: Youth Balloon Mapping Workshop Complete!
+title: 'Youth Balloon Mapping Workshop Complete!'
 tagnames: balloon-mapping, education, curriculum, youth, chicago, midwest, civiclab, civic-lab, activity:aerial-photography, activity:balloon-mapping, replication:14022, activity:classroom, activity:curriculum
 author: mjain26
 path: /notes/mjain26/07-28-2014/youth-balloon-mapping-workshop-complete.md

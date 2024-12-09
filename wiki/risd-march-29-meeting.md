@@ -1,5 +1,5 @@
 ---
-title: RISD March 29 meeting
+title: 'RISD March 29 meeting'
 tagnames: providence
 author: warren
 path: /wiki/risd-march-29-meeting.md

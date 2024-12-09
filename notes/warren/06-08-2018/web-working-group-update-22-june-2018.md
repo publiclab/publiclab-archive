@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Update 22: June 2018
+title: 'Web Working Group Update 22: June 2018'
 tagnames: web-development, software, plots2, gsoc, developers, code, libreplanet, wwg, webwg, onboarding, first-timers-only, software-outreach, rgsoc, soc, soc-2017, wwg-update, response:15687
 author: warren
 path: /notes/warren/06-08-2018/web-working-group-update-22-june-2018.md

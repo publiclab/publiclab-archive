@@ -1,5 +1,5 @@
 ---
-title: remote
+title: 'remote'
 tagnames: redirect:23163
 author: joyofsoy
 path: /wiki/remote.md

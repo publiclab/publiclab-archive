@@ -1,5 +1,5 @@
 ---
-title: Kite Mapping
+title: 'Kite Mapping'
 tagnames: kite-mapping, diy-kite, kit, parent:balloon-mapping, kite-kit
 author: warren
 path: /wiki/kite-mapping.md

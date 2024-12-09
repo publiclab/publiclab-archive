@@ -1,5 +1,5 @@
 ---
-title: How to download and analyze Landsat imagery
+title: 'How to download and analyze Landsat imagery'
 tagnames: satellite-images, thermal-imaging, cape-cod-bay-watch, landsat, satellite-imagery, barnstar:basic, with:nedhorning, with:karenv, activity:image-analysis, activity:remote-sensing, qgis
 author: donblair
 path: /notes/donblair/07-14-2014/how-to-download-and-use-landsat-images.md

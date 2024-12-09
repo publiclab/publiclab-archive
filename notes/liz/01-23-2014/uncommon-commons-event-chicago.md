@@ -1,5 +1,5 @@
 ---
-title: Uncommon Commons event Chicago
+title: 'Uncommon Commons event Chicago'
 tagnames: events, chicago
 author: liz
 path: /notes/liz/01-23-2014/uncommon-commons-event-chicago.md

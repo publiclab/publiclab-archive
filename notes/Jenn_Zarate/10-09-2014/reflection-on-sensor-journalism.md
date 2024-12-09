@@ -1,5 +1,5 @@
 ---
-title: Reflection on Sensor Journalism
+title: 'Reflection on Sensor Journalism'
 tagnames: water-sensing, conductivity, coqui, sensor-journalism
 author: Jenn_Zarate
 path: /notes/Jenn_Zarate/10-09-2014/reflection-on-sensor-journalism.md

@@ -1,5 +1,5 @@
 ---
-title: looking for ideas to detect/remove micro-beads/micro-fibers in water
+title: 'looking for ideas to detect/remove micro-beads/micro-fibers in water'
 tagnames: water, question:water-quality, question:microbeads, microbeads, microfibers, ocean, micro-plastics, question:microplastics, microplastics, question:micro-plastics
 author: vibhor
 path: /notes/vibhor/11-05-2016/looking-for-ideas-to-detect-remove-micro-beads-micro-fibers-in-water.md

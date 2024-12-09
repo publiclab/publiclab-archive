@@ -1,5 +1,5 @@
 ---
-title: Crowdfunding an open source community: how backers become contributors
+title: 'Crowdfunding an open source community: how backers become contributors'
 tagnames: idealab
 author: warren
 path: /notes/warren/4-2-2013/crowdfunding-open-source-community-how-backers-become-contributors.md

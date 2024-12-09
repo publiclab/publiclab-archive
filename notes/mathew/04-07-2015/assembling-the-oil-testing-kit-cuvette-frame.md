@@ -1,5 +1,5 @@
 ---
-title: Assembling the Oil Testing Kit Cuvette Frame
+title: 'Assembling the Oil Testing Kit Cuvette Frame'
 tagnames: spectrometry, laser, fluorescence, desktop-spectrometer, dsk, desktop-spectrometry-kit, oil-testing-kit, parent:oil-testing-kit, 405nm, otk
 author: mathew
 path: /notes/mathew/04-07-2015/assembling-the-oil-testing-kit-cuvette-frame.md

@@ -1,5 +1,5 @@
 ---
-title: Is there a file size limit to the image that can be uploaded? 
+title: 'Is there a file size limit to the image that can be uploaded? '
 tagnames: mapknitter, question:mapknitter, first-time-poster
 author: calmstrong
 path: /notes/calmstrong/01-25-2022/is-there-a-file-size-limit-to-the-image-that-can-be-uploaded.md

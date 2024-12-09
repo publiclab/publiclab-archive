@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping workshop in Castellón (Spain): opening a local chapter
+title: 'Balloon mapping workshop in Castellón (Spain): opening a local chapter'
 tagnames: balloon-mapping, spain, events:spain, eu
 author: pablo
 path: /notes/pablo/01-10-2014/balloon-mapping-workshop-in-castellon-spain-opening-a-local-chapter.md

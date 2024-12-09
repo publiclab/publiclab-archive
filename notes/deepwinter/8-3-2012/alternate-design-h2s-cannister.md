@@ -1,5 +1,5 @@
 ---
-title: Alternate Design for H2S Cannister
+title: 'Alternate Design for H2S Cannister'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
 author: deepwinter
 path: /notes/deepwinter/8-3-2012/alternate-design-h2s-cannister.md

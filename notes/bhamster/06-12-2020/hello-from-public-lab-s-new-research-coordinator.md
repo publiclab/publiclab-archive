@@ -1,5 +1,5 @@
 ---
-title: Hello from Public Lab's new Research Coordinator
+title: 'Hello from Public Lab's new Research Coordinator'
 tagnames: first-time-poster, zoom:6, lat:48, lon:-121
 author: bhamster
 path: /notes/bhamster/06-12-2020/hello-from-public-lab-s-new-research-coordinator.md

@@ -1,5 +1,5 @@
 ---
-title: Hi, about fido alarm output's
+title: 'Hi, about fido alarm output's'
 tagnames: question:fido
 author: Roey
 path: /notes/Roey/04-08-2017/hi-about-fido-alarm-output-s.md

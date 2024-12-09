@@ -1,5 +1,5 @@
 ---
-title: I just made my  Papercraft  Spectrometer and have no idea what to next!
+title: 'I just made my  Papercraft  Spectrometer and have no idea what to next!'
 tagnames: spectrometer, spectralworkbench, spectrometry, software, spectral-workbench, tool, question:general, method
 author: TeacherHelen
 path: /notes/TeacherHelen/03-22-2018/i-just-made-my-papercraft-spectrometer-and-have-no-idea-what-to-next.md

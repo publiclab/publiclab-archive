@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight: Tech Failure Spectacle
+title: 'Thermal Flashlight: Tech Failure Spectacle'
 tagnames: thermal-flashlight, thermal-pollution, thermal-plume, sociology-4107, newfoundland, holyrood, response:11466, replication:625
 author: acnud
 path: /notes/acnud/12-17-2014/thermal-flashlight-tech-failure-spectacle.md

@@ -1,5 +1,5 @@
 ---
-title: CFL Spectral Irradiance Study using Spekwin32
+title: 'CFL Spectral Irradiance Study using Spekwin32'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/09-01-2016/cfl-spectral-irradiance-study-using-spekwin32.md

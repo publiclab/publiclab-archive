@@ -1,5 +1,5 @@
 ---
-title: Hot off the presses--Public Lab waterproof pocket notebooks!
+title: 'Hot off the presses--Public Lab waterproof pocket notebooks!'
 tagnames: sustaining-members
 author: Becki
 path: /notes/Becki/02-09-2015/hot-off-the-presses-public-lab-waterproof-pocket-notebooks.md

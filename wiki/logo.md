@@ -1,5 +1,5 @@
 ---
-title: Logo
+title: 'Logo'
 tagnames: logo, logos
 author: warren
 path: /wiki/logo.md

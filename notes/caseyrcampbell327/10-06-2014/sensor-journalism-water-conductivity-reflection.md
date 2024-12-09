@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism & Water Conductivity Reflection 
+title: 'Sensor Journalism & Water Conductivity Reflection '
 tagnames: sensor-journalism
 author: caseyrcampbell327
 path: /notes/caseyrcampbell327/10-06-2014/sensor-journalism-water-conductivity-reflection.md

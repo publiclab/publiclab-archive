@@ -1,5 +1,5 @@
 ---
-title: The Opportnities Of Sensor Journalism
+title: 'The Opportnities Of Sensor Journalism'
 tagnames: sensor-journalism
 author: anthony_mastracci
 path: /notes/anthony_mastracci/02-23-2015/the-opportnities-of-sensor-journalism.md

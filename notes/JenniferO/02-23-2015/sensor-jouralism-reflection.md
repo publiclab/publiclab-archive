@@ -1,5 +1,5 @@
 ---
-title: Sensor Jouralism Reflection
+title: 'Sensor Jouralism Reflection'
 tagnames: sensor-journalism
 author: JenniferO
 path: /notes/JenniferO/02-23-2015/sensor-jouralism-reflection.md

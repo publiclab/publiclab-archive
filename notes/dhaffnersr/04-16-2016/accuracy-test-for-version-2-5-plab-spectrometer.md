@@ -1,5 +1,5 @@
 ---
-title: accuracy test for version 2.5 Plab spectrometer
+title: 'accuracy test for version 2.5 Plab spectrometer'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/04-16-2016/accuracy-test-for-version-2-5-plab-spectrometer.md

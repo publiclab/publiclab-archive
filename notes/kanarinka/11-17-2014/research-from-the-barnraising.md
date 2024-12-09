@@ -1,5 +1,5 @@
 ---
-title: Research From the Barnraising
+title: 'Research From the Barnraising'
 tagnames: barnraising, barnstar:excessive-enthusiasm, barnraising2014
 author: kanarinka
 path: /notes/kanarinka/11-17-2014/research-from-the-barnraising.md

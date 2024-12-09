@@ -1,5 +1,5 @@
 ---
-title: What are the differences in water quality in various bodies of water in the New Orleans area?
+title: 'What are the differences in water quality in various bodies of water in the New Orleans area?'
 tagnames: louisiana, new-orleans, water-quality, question:water-quality, question:general, general, first-time-poster
 author: Chickynuggies02
 path: /notes/Chickynuggies02/02-10-2021/what-are-the-differences-in-water-quality-in-various-bodies-of-water-in-the-new-orleans-area.md

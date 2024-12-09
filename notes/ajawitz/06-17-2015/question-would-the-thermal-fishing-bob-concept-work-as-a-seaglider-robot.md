@@ -1,5 +1,5 @@
 ---
-title: Question: Would the Thermal Fishing Bob concept work as a SeaGlider robot?
+title: 'Question: Would the Thermal Fishing Bob concept work as a SeaGlider robot?'
 tagnames: thermal-fishing-bob, thermal, robot, heat, question:thermal-photography, question:thermal-fishing-bob, seaglider
 author: ajawitz
 path: /notes/ajawitz/06-17-2015/question-would-the-thermal-fishing-bob-concept-work-as-a-seaglider-robot.md

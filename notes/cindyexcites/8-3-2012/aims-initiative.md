@@ -1,5 +1,5 @@
 ---
-title: Aims of initiative
+title: 'Aims of initiative'
 tagnames: diy, community-driven
 author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/aims-initiative.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC Update- Projective Transformations
+title: 'GSoC Update- Projective Transformations'
 tagnames: mapknitter, gsoc, developers, gsoc-2014
 author: anishshah101
 path: /notes/anishshah101/06-22-2014/gsoc-update-projective-transformations.md

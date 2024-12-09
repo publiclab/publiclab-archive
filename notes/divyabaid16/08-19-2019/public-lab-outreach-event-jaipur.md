@@ -1,5 +1,5 @@
 ---
-title: Public Lab Outreach Event - Jaipur
+title: 'Public Lab Outreach Event - Jaipur'
 tagnames: open-source, meetup, event, outreach, gsoc, india, software-outreach, soc, jaipur, coding-events, lat:26.936346, lon:75.923523
 author: divyabaid16
 path: /notes/divyabaid16/08-19-2019/public-lab-outreach-event-jaipur.md

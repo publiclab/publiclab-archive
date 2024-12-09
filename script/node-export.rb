@@ -29,8 +29,8 @@ Node.where(nid: nids).each do |node|
       file.write(node.type.split('redirect|').last)
     else
       text = "---\n"\
-        "title: #{node.title}\n"\
-        "tagnames: #{node.tagnames.join(', ')}\n"\
+        "title: '#{node.title}'\n"\
+        "tagnames: '#{node.tagnames.join(', ')}'\n"\
 	"author: #{node.author.username}\n"\
 	"path: #{path.split("static").last}\n"\
         "nid: #{node.nid}\n"\
@@ -45,7 +45,7 @@ Node.where(nid: nids).each do |node|
 
       text +=  "# " + node.title + "\n\n"
 
-      text += "by [#{node.author.username}](../profile/#{node.author.username}) #{node.created_at.to_s(:long)}\n\n" if node.type == "note"
+      text += "by [#{node.author.username}](../profile/#{node.author.username}) | #{node.created_at.to_s(:long)}\n\n" if node.type == "note"
       if node.type == "page" 
 	text += "by "
         authors = []

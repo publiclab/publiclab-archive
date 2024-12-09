@@ -1,5 +1,5 @@
 ---
-title: Delta kite bag made from 7 Pringles boxes
+title: 'Delta kite bag made from 7 Pringles boxes'
 tagnames: kite-mapping, diy-kite, delta, bag, reuse
 author: Safidy
 path: /notes/safidy/8-22-2012/delta-kite-bag-made-7-pringles-boxes.md

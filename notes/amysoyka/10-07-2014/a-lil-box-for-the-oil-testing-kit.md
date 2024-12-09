@@ -1,5 +1,5 @@
 ---
-title: A Lil' Box for the Oil Testing Kit. (Incomplete)
+title: 'A Lil' Box for the Oil Testing Kit. (Incomplete)'
 tagnames: spectrometer, box, oil-testing-kit
 author: amysoyka
 path: /notes/amysoyka/10-07-2014/a-lil-box-for-the-oil-testing-kit.md

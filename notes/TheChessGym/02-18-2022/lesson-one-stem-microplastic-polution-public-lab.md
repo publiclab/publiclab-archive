@@ -1,5 +1,5 @@
 ---
-title: Lesson One- STEM MICROPLASTIC POLUTION -PUBLIC LAB
+title: 'Lesson One- STEM MICROPLASTIC POLUTION -PUBLIC LAB'
 tagnames: microplastics, lat:22, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/02-18-2022/lesson-one-stem-microplastic-polution-public-lab.md

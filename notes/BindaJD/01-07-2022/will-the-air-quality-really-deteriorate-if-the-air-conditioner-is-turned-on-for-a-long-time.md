@@ -1,5 +1,5 @@
 ---
-title: Will the air quality really deteriorate if the air conditioner is turned on for a long time?
+title: 'Will the air quality really deteriorate if the air conditioner is turned on for a long time?'
 tagnames: question:general, general, first-time-poster
 author: BindaJD
 path: /notes/BindaJD/01-07-2022/will-the-air-quality-really-deteriorate-if-the-air-conditioner-is-turned-on-for-a-long-time.md

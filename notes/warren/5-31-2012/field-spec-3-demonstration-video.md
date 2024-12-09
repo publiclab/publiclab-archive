@@ -1,5 +1,5 @@
 ---
-title: Field Spec 3 demonstration video
+title: 'Field Spec 3 demonstration video'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/5-31-2012/field-spec-3-demonstration-video.md

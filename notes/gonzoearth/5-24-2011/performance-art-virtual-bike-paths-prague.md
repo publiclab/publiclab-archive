@@ -1,5 +1,5 @@
 ---
-title: performance art; virtual bike paths in Prague
+title: 'performance art; virtual bike paths in Prague'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/5-24-2011/performance-art-virtual-bike-paths-prague.md

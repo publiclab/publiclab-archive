@@ -1,5 +1,5 @@
 ---
-title: Environmental Science Climate Change Poster Campaign 
+title: 'Environmental Science Climate Change Poster Campaign '
 tagnames: first-time-poster, zoom:10, lat:22.004174, lon:76.003417
 author: TheChessGym
 path: /notes/TheChessGym/04-05-2022/environmental-science-climate-change-poster-campaign.md

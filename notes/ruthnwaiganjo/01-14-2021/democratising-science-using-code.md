@@ -1,5 +1,5 @@
 ---
-title: Democratizing Science Using Code
+title: 'Democratizing Science Using Code'
 tagnames: air-quality, coding, blog-submission, dashboard, community-science, outreachy
 author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/01-14-2021/democratising-science-using-code.md

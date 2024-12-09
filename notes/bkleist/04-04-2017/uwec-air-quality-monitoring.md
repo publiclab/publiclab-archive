@@ -1,5 +1,5 @@
 ---
-title: UWEC air quality monitoring
+title: 'UWEC air quality monitoring'
 tagnames: time-lapse, photo-monitoring, wisconsin, air-quality, timelapse, environment, pm, dylos, mid-west, air-monitoring, trail-camera, uwec, story:timelapse, frac-sand-team, lat:44.798745, timelapse-story, lon:-91.501195
 author: bkleist
 path: /notes/bkleist/04-04-2017/uwec-air-quality-monitoring.md

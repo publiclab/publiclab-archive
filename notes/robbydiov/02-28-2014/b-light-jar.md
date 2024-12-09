@@ -1,5 +1,5 @@
 ---
-title: B light jar 
+title: 'B light jar '
 tagnames: 
 author: robbydiov
 path: /notes/robbydiov/02-28-2014/b-light-jar.md

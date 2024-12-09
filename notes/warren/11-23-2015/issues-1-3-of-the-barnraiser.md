@@ -1,5 +1,5 @@
 ---
-title: Issues 1-3 of The Barnraiser
+title: 'Issues 1-3 of The Barnraiser'
 tagnames: community, louisiana, documentation, cocodrie, barnraising, blog, barnstar:photo-documentation, doccom, the-barnraiser
 author: warren
 path: /notes/warren/11-23-2015/issues-1-3-of-the-barnraiser.md

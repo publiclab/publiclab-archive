@@ -1,5 +1,5 @@
 ---
-title: Microscope not focusing right
+title: 'Microscope not focusing right'
 tagnames: microscope, general, question:microscope, community-microscope, question:community-microscope, first-time-poster
 author: Meculus
 path: /notes/Meculus/01-05-2020/microscope-not-focusing-right.md

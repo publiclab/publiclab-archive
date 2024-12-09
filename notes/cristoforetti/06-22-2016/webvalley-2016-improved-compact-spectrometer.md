@@ -1,5 +1,5 @@
 ---
-title: WebValley 2016: improved compact spectrometer
+title: 'WebValley 2016: improved compact spectrometer'
 tagnames: spectrometer, spectrometry, raspberry-pi, italy, portable, webvalley, raspberry-pi-spectrometer
 author: cristoforetti
 path: /notes/cristoforetti/06-22-2016/webvalley-2016-improved-compact-spectrometer.md

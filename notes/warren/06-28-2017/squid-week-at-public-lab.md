@@ -1,5 +1,5 @@
 ---
-title: Squid Week at Public Lab!
+title: 'Squid Week at Public Lab!'
 tagnames: kite-mapping, kickstarter, kites, mini-kite-kit, squidweek, squid, cephalopods, octopus
 author: warren
 path: /notes/warren/06-28-2017/squid-week-at-public-lab.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter 7.18.2014
+title: 'Public Lab Community Newsletter 7.18.2014'
 tagnames: newsletter, newsletter-archive
 author: Becki
 path: /notes/Becki/07-19-2014/public-lab-community-newsletter-7-18-2014.md

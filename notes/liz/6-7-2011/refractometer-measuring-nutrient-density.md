@@ -1,5 +1,5 @@
 ---
-title: Refractometer for measuring nutrient density in food
+title: 'Refractometer for measuring nutrient density in food'
 tagnames: refractometer, food, nutrient-density, first-time-poster
 author: liz
 path: /notes/liz/6-7-2011/refractometer-measuring-nutrient-density.md

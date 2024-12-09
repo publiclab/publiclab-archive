@@ -1,5 +1,5 @@
 ---
-title: Kite Machine
+title: 'Kite Machine'
 tagnames: new-york-city, kites, vending-machine
 author: liz
 path: /notes/liz/6-2-2012/kite-machine.md

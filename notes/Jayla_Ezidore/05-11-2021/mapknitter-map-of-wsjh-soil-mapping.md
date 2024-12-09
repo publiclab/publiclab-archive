@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of WSJH Soil Mapping
+title: 'MapKnitter map of WSJH Soil Mapping'
 tagnames: mapknitter, zoom:14, lat:30.043257, lon:-90.560086, lat:30.007496, lon:-90.5730713
 author: Jayla_Ezidore
 path: /notes/Jayla_Ezidore/05-11-2021/mapknitter-map-of-wsjh-soil-mapping.md

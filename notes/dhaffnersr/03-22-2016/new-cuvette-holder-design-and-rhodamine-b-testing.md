@@ -1,5 +1,5 @@
 ---
-title: New cuvette holder design and Rhodamine B testing
+title: 'New cuvette holder design and Rhodamine B testing'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/03-22-2016/new-cuvette-holder-design-and-rhodamine-b-testing.md

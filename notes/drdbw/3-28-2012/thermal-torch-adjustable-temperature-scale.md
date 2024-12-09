@@ -1,5 +1,5 @@
 ---
-title: Thermal Torch with Adjustable Temperature Scale
+title: 'Thermal Torch with Adjustable Temperature Scale'
 tagnames: thermal-photography
 author: dr_dbw
 path: /notes/drdbw/3-28-2012/thermal-torch-adjustable-temperature-scale.md

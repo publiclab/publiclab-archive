@@ -1,5 +1,5 @@
 ---
-title: Issue briefing: ultrafine particle pollution from dehydrated biosolids
+title: 'Issue briefing: ultrafine particle pollution from dehydrated biosolids'
 tagnames: agriculture, new-york, air-quality, pm, particles, ultrafine, biosolids, slaughterhouse, pennsylvania, with:zengirl2, brief, issue-brief
 author: liz
 path: /notes/liz/06-14-2017/issue-briefing-ultrafine-particle-pollution-from-dehydrated-biosolids.md

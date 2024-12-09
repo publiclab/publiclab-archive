@@ -1,5 +1,5 @@
 ---
-title: How to evaluate and choose an advocacy pathway
+title: 'How to evaluate and choose an advocacy pathway'
 tagnames: workshop, organizing, barnstar:basic, advocacy, seeks:replications, activity:advocacy-pathways, advocacy-pathways, activity:community-organizing, activity:advocacy, start-advocacy
 author: stevie
 path: /notes/stevie/03-22-2017/how-to-evaluate-and-choose-an-advocacy-pathway.md

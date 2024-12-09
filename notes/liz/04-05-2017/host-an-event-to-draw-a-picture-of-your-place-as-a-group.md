@@ -1,5 +1,5 @@
 ---
-title: Host a collaborative map drawing workshop
+title: 'Host a collaborative map drawing workshop'
 tagnames: elp, mental-mapping, getting-started, parent:gardening-toolkit, gardening-toolkit, land-use, time:3h, activity:teach-and-learn, activity:site-survey, activity:gardening, activity:getting-started, activity:land-use, getting-started-soil, activity:getting-started-soil
 author: liz
 path: /notes/liz/04-05-2017/host-an-event-to-draw-a-picture-of-your-place-as-a-group.md

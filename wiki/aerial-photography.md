@@ -1,5 +1,5 @@
 ---
-title: Aerial Photography
+title: 'Aerial Photography'
 tagnames: agriculture, mining, urban-planning, fracking, tool, land-use, industry, activities:aerial-photography, upgrades:aerial-photography, method, land-change, oil-and-gas
 author: Bronwen
 path: /wiki/aerial-photography.md

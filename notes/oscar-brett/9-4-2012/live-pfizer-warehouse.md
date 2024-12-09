@@ -1,5 +1,5 @@
 ---
-title: Live from the Pfizer warehouse
+title: 'Live from the Pfizer warehouse'
 tagnames: balloon-mapping, diy-satellite, weird-science, plots, oscar-brett
 author: oscarbrett
 path: /notes/oscar-brett/9-4-2012/live-pfizer-warehouse.md

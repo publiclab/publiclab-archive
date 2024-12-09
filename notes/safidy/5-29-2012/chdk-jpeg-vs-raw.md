@@ -1,5 +1,5 @@
 ---
-title: CHDK : Jpeg VS Raw
+title: 'CHDK : Jpeg VS Raw'
 tagnames: kite-mapping, chdk, safidy-andrianantenaina, raw, first-time-poster
 author: Safidy
 path: /notes/safidy/5-29-2012/chdk-jpeg-vs-raw.md

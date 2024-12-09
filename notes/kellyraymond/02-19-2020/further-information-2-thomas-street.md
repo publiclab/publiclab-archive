@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (2 Thomas Street)
+title: 'Art in Ruins (2 Thomas Street)'
 tagnames: hidden:response, zoom:16, unearthing-pvd-stories, lat:41.82753239, lon:-71.40905204, lat:41.827532, lon:-71.409052, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/further-information-2-thomas-street.md

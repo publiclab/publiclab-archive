@@ -1,5 +1,5 @@
 ---
-title: EPA's Advanced Monitoring Tech Demo Day
+title: 'EPA's Advanced Monitoring Tech Demo Day'
 tagnames: epa, water, riffle, demo, barnstar:basic, openwater
 author: donblair
 path: /notes/donblair/08-14-2014/epa-s-advanced-monitoring-tech-demo-day.md

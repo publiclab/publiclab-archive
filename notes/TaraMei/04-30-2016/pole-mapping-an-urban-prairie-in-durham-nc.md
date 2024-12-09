@@ -1,5 +1,5 @@
 ---
-title: Pole Mapping an Urban Prairie in Durham, NC
+title: 'Pole Mapping an Urban Prairie in Durham, NC'
 tagnames: polemapping, pole-photography, pole-aerial-photography, pole-mapping, southeast
 author: taramei
 path: /notes/TaraMei/04-30-2016/pole-mapping-an-urban-prairie-in-durham-nc.md

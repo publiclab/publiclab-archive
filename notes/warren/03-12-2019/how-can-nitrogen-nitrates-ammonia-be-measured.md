@@ -1,5 +1,5 @@
 ---
-title: How can nitrogen/nitrates/ammonia be measured?
+title: 'How can nitrogen/nitrates/ammonia be measured?'
 tagnames: water-quality, water, nitrate, question:nitrates, nitrogen, question:nitrogen
 author: warren
 path: /notes/warren/03-12-2019/how-can-nitrogen-nitrates-ammonia-be-measured.md

@@ -1,5 +1,5 @@
 ---
-title: How do we order from the online store?
+title: 'How do we order from the online store?'
 tagnames: question:general, first-time-poster
 author: DrJordanGSET
 path: /notes/DrJordanGSET/09-10-2019/how-do-we-order-from-the-online-store.md

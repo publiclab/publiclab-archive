@@ -1,5 +1,5 @@
 ---
-title: Make: Magazine
+title: 'Make: Magazine'
 tagnames: media, event, style:fancy, make-magazine
 author: Bronwen
 path: /wiki/make.md

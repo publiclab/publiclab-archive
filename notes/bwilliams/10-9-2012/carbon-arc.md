@@ -1,5 +1,5 @@
 ---
-title: Carbon Arc
+title: 'Carbon Arc'
 tagnames: spectrometer, spectrometry, emission-spectroscopy, carbon-arc
 author: B.Williams
 path: /notes/bwilliams/10-9-2012/carbon-arc.md

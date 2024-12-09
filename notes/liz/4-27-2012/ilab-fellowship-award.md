@@ -1,5 +1,5 @@
 ---
-title: iLAB Fellowship Award
+title: 'iLAB Fellowship Award'
 tagnames: balloon-mapping, kite-mapping, ilab
 author: liz
 path: /notes/liz/4-27-2012/ilab-fellowship-award.md

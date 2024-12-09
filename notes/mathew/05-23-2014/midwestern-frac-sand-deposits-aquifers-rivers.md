@@ -1,5 +1,5 @@
 ---
-title: Midwestern Frac Sand Deposits, Aquifers, & Rivers
+title: 'Midwestern Frac Sand Deposits, Aquifers, & Rivers'
 tagnames: sand, wisconsin, water-quality, water, particulates, silica, frac-sand, pm, midwest, groundwater, particles, aquifer, parent:frac-sand
 author: mathew
 path: /notes/mathew/05-23-2014/midwestern-frac-sand-deposits-aquifers-rivers.md

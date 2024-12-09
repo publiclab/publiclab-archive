@@ -1,5 +1,5 @@
 ---
-title: Mine Reclamation
+title: 'Mine Reclamation'
 tagnames: mining, reclamation, mine-reclamation
 author: laurel_mire
 path: /wiki/mine-reclamation.md

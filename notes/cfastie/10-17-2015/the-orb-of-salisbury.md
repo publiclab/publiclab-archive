@@ -1,5 +1,5 @@
 ---
-title: The Orb of Salisbury
+title: 'The Orb of Salisbury'
 tagnames: kite-mapping, vermont, kite, blog, gigapan, saturnv, skyshield, half-spherical, response:12313, littleplanet
 author: cfastie
 path: /notes/cfastie/10-17-2015/the-orb-of-salisbury.md

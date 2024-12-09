@@ -1,5 +1,5 @@
 ---
-title: What are the health impacts of the Aluf Plastics Plant from air pollution? 
+title: 'What are the health impacts of the Aluf Plastics Plant from air pollution? '
 tagnames: air-quality, question:air-quality, odor, question:plastic, question:odor, plastics, question:plastics, plastic, orangetown-aluf, question:orangetown-aluf
 author: stevie
 path: /notes/stevie/12-04-2019/what-are-the-health-impacts-of-the-aluf-plastics-plant-from-air-pollution.md

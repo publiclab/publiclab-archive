@@ -1,5 +1,5 @@
 ---
-title: IRCam
+title: 'IRCam'
 tagnames: near-infrared-camera, ircam, infragram
 author: warren
 path: /wiki/ircam.md

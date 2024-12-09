@@ -1,5 +1,5 @@
 ---
-title: logos
+title: 'logos'
 tagnames: redirect:15540
 author: warren
 path: /wiki/logos.md

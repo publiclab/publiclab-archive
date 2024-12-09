@@ -1,5 +1,5 @@
 ---
-title: Graded oils using UV fluorescence
+title: 'Graded oils using UV fluorescence'
 tagnames: spectrometer, oil, fluorescence, spectral-workbench, crude, smoothing, clipping, oil-testing-kit, barnstar:basic, exposure, with:warren, equalizing, 405nm
 author: mathew
 path: /notes/mathew/09-23-2014/graded-oils-using-uv-fluorescence.md

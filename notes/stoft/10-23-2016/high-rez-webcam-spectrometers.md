@@ -1,5 +1,5 @@
 ---
-title: High-Rez WebCam Spectrometers
+title: 'High-Rez WebCam Spectrometers'
 tagnames: spectrometer, spectrometry, desktop-spectrometer, diy-spectrometer, resolution
 author: stoft
 path: /notes/stoft/10-23-2016/high-rez-webcam-spectrometers.md

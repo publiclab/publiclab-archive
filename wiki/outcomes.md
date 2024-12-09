@@ -1,5 +1,5 @@
 ---
-title: Outcomes
+title: 'Outcomes'
 tagnames: 
 author: warren
 path: /wiki/outcomes.md

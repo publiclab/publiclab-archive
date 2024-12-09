@@ -1,5 +1,5 @@
 ---
-title: Improved top seal for homemade reference electrodes.
+title: 'Improved top seal for homemade reference electrodes.'
 tagnames: potentiostat, cheapstat, tool, wheestat, response:9932
 author: JSummers
 path: /notes/JSummers/11-03-2015/improved-top-seal-for-homemade-reference-electrodes.md

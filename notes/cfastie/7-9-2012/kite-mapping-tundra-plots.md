@@ -1,5 +1,5 @@
 ---
-title: Kite mapping tundra plots
+title: 'Kite mapping tundra plots'
 tagnames: kite-mapping, image-stitching, annotated-maps, alaska, tundra, photoshop, akrange, gigapan
 author: cfastie
 path: /notes/cfastie/7-9-2012/kite-mapping-tundra-plots.md

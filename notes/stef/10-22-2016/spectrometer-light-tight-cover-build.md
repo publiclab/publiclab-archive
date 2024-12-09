@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Light Tight Cover Build
+title: 'Spectrometer Light Tight Cover Build'
 tagnames: spectrometer, spectrometry, modification, time:30m, difficulty:easy, upgrade:spectrometry, upgrade:dssk, category:build, cover
 author: stef
 path: /notes/stef/10-22-2016/spectrometer-light-tight-cover-build.md

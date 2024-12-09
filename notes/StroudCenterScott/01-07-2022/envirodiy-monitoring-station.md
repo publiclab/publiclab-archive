@@ -1,5 +1,5 @@
 ---
-title: EnviroDIY Monitoring Station
+title: 'EnviroDIY Monitoring Station'
 tagnames: water-quality, seeks:replications, data-logging, activity:data-logging, water-sensors, lat:39, lon:-75, first-time-poster, zoom:6
 author: StroudCenterScott
 path: /notes/StroudCenterScott/01-07-2022/envirodiy-monitoring-station.md

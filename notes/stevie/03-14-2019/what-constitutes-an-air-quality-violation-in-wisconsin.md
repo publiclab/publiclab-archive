@@ -1,5 +1,5 @@
 ---
-title: What constitutes an air quality violation in Wisconsin? 
+title: 'What constitutes an air quality violation in Wisconsin? '
 tagnames: reporting, wisconsin, air-quality, legal, frac-sand, pm, question:general, particulate-matter, wisconsin-reporting, frac-sand-reporting, question:frac-sand-reporting, law-and-policy, question:law-and-policy
 author: stevie
 path: /notes/stevie/03-14-2019/what-constitutes-an-air-quality-violation-in-wisconsin.md

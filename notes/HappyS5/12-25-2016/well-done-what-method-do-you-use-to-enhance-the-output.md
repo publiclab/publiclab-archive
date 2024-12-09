@@ -1,5 +1,5 @@
 ---
-title: Well done. What method do you use to enhance the output? 
+title: 'Well done. What method do you use to enhance the output? '
 tagnames: spectrometer, spectrometry, raman, question:spectrometer, diy-spectrometer, raman-spectrometer, question:general, response:12522
 author: HappyS5
 path: /notes/HappyS5/12-25-2016/well-done-what-method-do-you-use-to-enhance-the-output.md

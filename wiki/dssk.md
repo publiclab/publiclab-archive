@@ -1,5 +1,5 @@
 ---
-title: dssk
+title: 'dssk'
 tagnames: redirect:11533
 author: warren
 path: /wiki/dssk.md

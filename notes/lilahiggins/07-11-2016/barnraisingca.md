@@ -1,5 +1,5 @@
 ---
-title: #BarnraisingCA
+title: '#BarnraisingCA'
 tagnames: landfill, mapping, balloon, barnraisingca, chiquita, canyon
 author: lilahiggins
 path: /notes/lilahiggins/07-11-2016/barnraisingca.md

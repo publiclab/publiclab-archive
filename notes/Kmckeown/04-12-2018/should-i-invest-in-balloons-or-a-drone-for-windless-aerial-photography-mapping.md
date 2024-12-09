@@ -1,5 +1,5 @@
 ---
-title: Should I invest in balloons or a drone for windless aerial photography/mapping? 
+title: 'Should I invest in balloons or a drone for windless aerial photography/mapping? '
 tagnames: balloon-mapping, kite-aerial-photography, drones, aerial-photography, kap, helium, helium-balloon, answered, question:general, first-time-poster
 author: Kmckeown
 path: /notes/Kmckeown/04-12-2018/should-i-invest-in-balloons-or-a-drone-for-windless-aerial-photography-mapping.md

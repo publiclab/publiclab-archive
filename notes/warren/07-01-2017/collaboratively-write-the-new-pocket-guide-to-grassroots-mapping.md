@@ -1,5 +1,5 @@
 ---
-title: Collaboratively write the new Pocket Guide to Grassroots Mapping
+title: 'Collaboratively write the new Pocket Guide to Grassroots Mapping'
 tagnames: balloon-mapping, kite-mapping, kickstarter, grassroots-mapping, guide, writing, booklet, mini-kite-kit, mini-balloon-kit, pocket-guide, collaborative-writing, activity:guides, activity:writing, activity:translation
 author: warren
 path: /notes/warren/07-01-2017/collaboratively-write-the-new-pocket-guide-to-grassroots-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: Update on Photosynq
+title: 'Update on Photosynq'
 tagnames: photosynq
 author: gbathree
 path: /notes/gbathree/12-23-2013/update-on-photosynq.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Uncc light rail 
+title: 'MapKnitter map of Uncc light rail '
 tagnames: mapknitter, north-carolina, lat:35.3053942, lon:-80.7309334, first-time-poster
 author: csteph14
 path: /notes/csteph14/02-17-2016/mapknitter-map-of-uncc-light-rail.md

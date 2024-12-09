@@ -1,5 +1,5 @@
 ---
-title: What is “data storytelling” and how can it be used for environmental data?
+title: 'What is “data storytelling” and how can it be used for environmental data?'
 tagnames: question:general, general, storytelling, presenting-data, question:presenting-data, air-quality-data, question:air-quality-data, question:storytelling, data-storytelling, data-story
 author: bhamster
 path: /notes/bhamster/11-08-2021/what-is-data-storytelling-and-how-can-it-be-used-for-environmental-data.md

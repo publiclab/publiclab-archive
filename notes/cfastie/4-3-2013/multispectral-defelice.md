@@ -1,5 +1,5 @@
 ---
-title: Multispectral DeFelice
+title: 'Multispectral DeFelice'
 tagnames: gulf-coast, near-infrared-camera, kite-mapping, nrg, ndvi, vegetation-mapping, louisiana, lumcon, cocodrie-la, cfastie, plant-health, gigapan
 author: cfastie
 path: /notes/cfastie/4-3-2013/multispectral-defelice.md

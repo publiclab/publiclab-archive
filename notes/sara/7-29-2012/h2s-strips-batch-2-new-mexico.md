@@ -1,5 +1,5 @@
 ---
-title: H2S strips batch 2: New Mexico
+title: 'H2S strips batch 2: New Mexico'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
 author: sara
 path: /notes/sara/7-29-2012/h2s-strips-batch-2-new-mexico.md

@@ -1,5 +1,5 @@
 ---
-title: WATERCHESTNUTS
+title: 'WATERCHESTNUTS'
 tagnames: near-infrared-camera, boston, amherst, pvos, event, massachusetts, water-chestnut, invasive, umass, umass-amherst
 author: donblair
 path: /wiki/waterchestnuts.md

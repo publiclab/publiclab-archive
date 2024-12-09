@@ -1,5 +1,5 @@
 ---
-title: Near-infrared spectral features of Benzine
+title: 'Near-infrared spectral features of Benzine'
 tagnames: spectrometer, benzene
 author: warren
 path: /notes/warren/7-27-2011/near-infrared-spectral-features-benzine.md

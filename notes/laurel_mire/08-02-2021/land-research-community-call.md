@@ -1,5 +1,5 @@
 ---
-title: Land Research Community Call
+title: 'Land Research Community Call'
 tagnames: event, soil, event:rsvp, land-use, fellows, land, soil-contamination, land-loss, rsvp:jjcreedon, research-curation-fellows, rsvp:seankmcginnis, research-curation-fellows-event, date:08-16-2021, rsvp:pataxte
 author: laurel_mire
 path: /notes/laurel_mire/08-02-2021/land-research-community-call.md

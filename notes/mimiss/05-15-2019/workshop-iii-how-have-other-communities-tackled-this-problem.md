@@ -1,5 +1,5 @@
 ---
-title: Workshop III: How Have Other Communities Tackled This Problem?
+title: 'Workshop III: How Have Other Communities Tackled This Problem?'
 tagnames: education, workshop, curriculum, activity:education, lesson, exploring-environmental-issues, parent:student-led-community-science-in-the-classroom-a-curriculum, series:student-community-science, activity:student-community-science, with:purl
 author: mimiss
 path: /notes/mimiss/05-15-2019/workshop-iii-how-have-other-communities-tackled-this-problem.md

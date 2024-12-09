@@ -1,5 +1,5 @@
 ---
-title: Pascal's Wager
+title: 'Pascal's Wager'
 tagnames: 
 author: sonofaquark
 path: /notes/sonofaquark/4-3-2013/pascals-wager.md

@@ -1,5 +1,5 @@
 ---
-title: What are good containers to use for spectrometry samples?
+title: 'What are good containers to use for spectrometry samples?'
 tagnames: spectrometer, spectrometry, sample-containers, sample-prep, sampling, question:spectrometry, answered, spectrometry-sampling, question:spectrometry-sampling, question:water-sampling, question:spectrometry-challenge, question:spectrometry-turbidity
 author: warren
 path: /notes/warren/09-29-2016/what-are-good-containers-to-use-for-spectrometry-samples.md

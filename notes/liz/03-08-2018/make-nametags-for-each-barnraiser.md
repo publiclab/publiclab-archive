@@ -1,5 +1,5 @@
 ---
-title: Make nametags for in-person events like the Barnraising
+title: 'Make nametags for in-person events like the Barnraising'
 tagnames: barnraising, facilitation, activity:day-before-barnraising, activity:facilitation
 author: liz
 path: /notes/liz/03-08-2018/make-nametags-for-each-barnraiser.md

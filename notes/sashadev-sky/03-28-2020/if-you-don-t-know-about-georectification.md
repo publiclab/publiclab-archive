@@ -1,5 +1,5 @@
 ---
-title:  If you don't know about georectification...
+title: ' If you don't know about georectification...'
 tagnames: software, leaflet, code, leaflet.distortableimage, lat:40, lon:-70, zoom:5, georectification
 author: sashadev-sky
 path: /notes/sashadev-sky/03-28-2020/if-you-don-t-know-about-georectification.md

@@ -1,5 +1,5 @@
 ---
-title: Blasting 101 with Vernon Haltom
+title: 'Blasting 101 with Vernon Haltom'
 tagnames: drones, coal-mining, blasting, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/03-15-2022/blasting-101-with-vernon-haltom.md

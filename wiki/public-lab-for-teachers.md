@@ -1,5 +1,5 @@
 ---
-title: Public Lab for Educators
+title: 'Public Lab for Educators'
 tagnames: education, teaching, classroom, teachers, parent:education
 author: warren
 path: /wiki/public-lab-for-teachers.md

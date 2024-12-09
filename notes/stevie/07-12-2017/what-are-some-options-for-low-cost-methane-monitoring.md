@@ -1,5 +1,5 @@
 ---
-title: What are some options for low cost methane monitoring? 
+title: 'What are some options for low cost methane monitoring? '
 tagnames: air-quality, methane, question:general
 author: stevie
 path: /notes/stevie/07-12-2017/what-are-some-options-for-low-cost-methane-monitoring.md

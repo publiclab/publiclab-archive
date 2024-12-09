@@ -1,5 +1,5 @@
 ---
-title: norcal
+title: 'norcal'
 tagnames: norcal, list:plots-norcal, events:norcal, chapter, lat:37.80, lon:-122.26, regional, region
 author: warren
 path: /wiki/norcal.md

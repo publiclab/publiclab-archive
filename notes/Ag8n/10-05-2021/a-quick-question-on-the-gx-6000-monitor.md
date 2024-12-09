@@ -1,5 +1,5 @@
 ---
-title: A quick question on the GX 6000 monitor 
+title: 'A quick question on the GX 6000 monitor '
 tagnames: VVAMP, question:vvamp
 author: Ag8n
 path: /notes/Ag8n/10-05-2021/a-quick-question-on-the-gx-6000-monitor.md

@@ -1,5 +1,5 @@
 ---
-title: Delta St John: continued plantings
+title: 'Delta St John: continued plantings'
 tagnames: gulf-coast, kite-mapping, wetlands, louisiana, eustatic, dredgefestla, bsj, bayou-st-john, response:10189, dredgefest
 author: eustatic
 path: /04-23-2014/delta-st-john-continued-plantings.md

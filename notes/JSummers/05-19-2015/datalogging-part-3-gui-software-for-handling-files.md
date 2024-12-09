@@ -1,5 +1,5 @@
 ---
-title: Datalogging, Part 3: GUI software for handling files
+title: 'Datalogging, Part 3: GUI software for handling files'
 tagnames: datalogger, interface, graphic, user, graphic-user-interface, data-logging
 author: JSummers
 path: /notes/JSummers/05-19-2015/datalogging-part-3-gui-software-for-handling-files.md

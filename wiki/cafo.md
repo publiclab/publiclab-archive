@@ -1,5 +1,5 @@
 ---
-title: CAFO
+title: 'CAFO'
 tagnames: agriculture, air-quality, water-quality, cafo, runoff, ag
 author: warren
 path: /wiki/cafo.md

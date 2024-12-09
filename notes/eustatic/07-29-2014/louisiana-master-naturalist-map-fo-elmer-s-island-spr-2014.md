@@ -1,5 +1,5 @@
 ---
-title: Louisiana Master Naturalist Map of Elmer's Island Spr 2014
+title: 'Louisiana Master Naturalist Map of Elmer's Island Spr 2014'
 tagnames: gulf-coast, kite-mapping, lmngno
 author: eustatic
 path: /07-29-2014/louisiana-master-naturalist-map-fo-elmer-s-island-spr-2014.md

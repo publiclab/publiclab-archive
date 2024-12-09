@@ -1,5 +1,5 @@
 ---
-title: comparison betweeen spectra made by manufacturer and spectralbench?
+title: 'comparison betweeen spectra made by manufacturer and spectralbench?'
 tagnames: question:spectral-workbench
 author: miramon
 path: /notes/miramon/02-12-2018/comparison-betweeen-spectra-made-by-manufacturer-and-spectralbench.md

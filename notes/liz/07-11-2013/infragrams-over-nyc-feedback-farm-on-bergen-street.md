@@ -1,5 +1,5 @@
 ---
-title: Infragrams over NYC: Feedback Farm on Bergen Street
+title: 'Infragrams over NYC: Feedback Farm on Bergen Street'
 tagnames: new-york-city, near-infrared-camera, polemapping, 5bf, five-borough-farm, infragram, pole-photography, pole, pole-mapping
 author: liz
 path: /notes/liz/07-11-2013/infragrams-over-nyc-feedback-farm-on-bergen-street.md

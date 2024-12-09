@@ -1,5 +1,5 @@
 ---
-title: What methods are available for doing air grab samples for hydrogen sulfide?
+title: 'What methods are available for doing air grab samples for hydrogen sulfide?'
 tagnames: hydrogen-sulfide, air-quality, air, h2s, sampling, answered, air-monitoring, question:sampling, question:hydrogen-sulfide, grab, grab-sample, bucket, air-sampling, question:air-sampling, bucket-monitor, question:bucket-monitor
 author: stevie
 path: /notes/stevie/10-10-2017/what-methods-are-available-for-doing-air-grab-samples-for-hydrogen-sulfide.md

@@ -1,5 +1,5 @@
 ---
-title: Can we take photos with the Raspberry Pi Zero W and Raspberry Pi camera?
+title: 'Can we take photos with the Raspberry Pi Zero W and Raspberry Pi camera?'
 tagnames: leaffest, raspberry-pi, pi, raspberry, microscope, pi-camera, question:raspberry-pi, question:microscope, leaffest2017, question:leaffest, leaffest-2017, question:pi-camera, question:leaffest2017
 author: wmacfarl
 path: /notes/wmacfarl/09-30-2017/can-we-take-photos-with-the-raspberry-pi-zero-w-and-raspberry-pi-camera.md

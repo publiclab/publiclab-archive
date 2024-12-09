@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST Report
+title: 'LEAFFEST Report'
 tagnames: near-infrared-camera, spectrometer, kite-mapping, events, leaffest, leaffest2012
 author: cfastie
 path: /notes/cfastie/9-25-2012/leaffest-report.md

@@ -1,5 +1,5 @@
 ---
-title: Dock Test!
+title: 'Dock Test!'
 tagnames: thermal-fishing-bob, riffle, open-water, riffle-examples
 author: donblair
 path: /notes/donblair/08-25-2015/dock-test.md

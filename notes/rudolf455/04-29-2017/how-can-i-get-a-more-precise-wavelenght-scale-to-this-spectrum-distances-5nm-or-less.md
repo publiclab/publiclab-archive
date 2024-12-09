@@ -1,5 +1,5 @@
 ---
-title: how can i get a more precise wavelenght-scale to  this spectrum --distances 5nm or less ?
+title: 'how can i get a more precise wavelenght-scale to  this spectrum --distances 5nm or less ?'
 tagnames: spectrometer, spectralworkbench, question:general, general, first-time-poster
 author: rudolf455
 path: /notes/rudolf455/04-29-2017/how-can-i-get-a-more-precise-wavelenght-scale-to-this-spectrum-distances-5nm-or-less.md

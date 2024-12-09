@@ -1,5 +1,5 @@
 ---
-title: Build a Raspberry Pi Zero aerial photo rig
+title: 'Build a Raspberry Pi Zero aerial photo rig'
 tagnames: balloon-mapping, near-infrared-camera, photo-rig, raspberry-pi, pi-camera, raspberry-pi-cameras, replication:10166, response:10166
 author: warren
 path: /notes/warren/05-30-2019/build-a-raspberry-pi-zero-aerial-photo-rig.md

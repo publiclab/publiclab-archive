@@ -1,5 +1,5 @@
 ---
-title: Reduce interior reflections in your spectrometer with black ink
+title: 'Reduce interior reflections in your spectrometer with black ink'
 tagnames: spectrometer, spectrometry, difficulty:easy, upgrade:spectrometry, upgrade:dssk, seeks:builds, status:review-me, category:build, ambient-light, reflections, response:13461, time:10m
 author: warren
 path: /notes/warren/09-22-2016/reduce-interior-reflections-in-your-spectrometer-with-black-ink.md

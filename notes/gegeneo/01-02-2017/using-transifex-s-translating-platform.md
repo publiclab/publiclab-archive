@@ -1,5 +1,5 @@
 ---
-title: Using Transifex's Translating Platform
+title: 'Using Transifex's Translating Platform'
 tagnames: internationalization, translation, transifex, first-time-poster
 author: gegeneo
 path: /notes/gegeneo/01-02-2017/using-transifex-s-translating-platform.md

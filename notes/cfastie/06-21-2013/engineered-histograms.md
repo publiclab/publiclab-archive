@@ -1,5 +1,5 @@
 ---
-title: Engineered Histograms
+title: 'Engineered Histograms'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, infrablue, response:8190, tests, response:8261, response:8353
 author: cfastie
 path: /notes/cfastie/06-21-2013/engineered-histograms.md

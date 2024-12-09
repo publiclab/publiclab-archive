@@ -1,5 +1,5 @@
 ---
-title: Illustrating Infragram Point & Shoot Instructions
+title: 'Illustrating Infragram Point & Shoot Instructions'
 tagnames: near-infrared-camera, infragram, instructions, mobius
 author: mathew
 path: /notes/mathew/05-10-2014/illustrating-infragram-point-shoot-instructions.md

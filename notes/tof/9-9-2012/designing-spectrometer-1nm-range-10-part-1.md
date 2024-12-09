@@ -1,5 +1,5 @@
 ---
-title: Designing a Spectrometer in the 1nm range for <10$ - PART 1
+title: 'Designing a Spectrometer in the 1nm range for <10$ - PART 1'
 tagnames: spectrometer, digicam, nanometer, slide-mount, first-time-poster
 author: ToF
 path: /notes/tof/9-9-2012/designing-spectrometer-1nm-range-10-part-1.md

@@ -1,5 +1,5 @@
 ---
-title: OSIDC Update #1
+title: 'OSIDC Update #1'
 tagnames: first-time-poster
 author: klauritsen
 path: /notes/klauritsen/09-17-2022/osidc-update-1.md

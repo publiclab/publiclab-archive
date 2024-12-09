@@ -1,5 +1,5 @@
 ---
-title: Improvements in Infragram NDVI with test cameras
+title: 'Improvements in Infragram NDVI with test cameras'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, infrablue, tests, response:8261, infragram-conversion, annazubkova2009jem
 author: warren
 path: /notes/warren/08-01-2013/improvements-in-infragram-ndvi-with-test-cameras.md

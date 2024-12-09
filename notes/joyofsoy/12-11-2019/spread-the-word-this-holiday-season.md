@@ -1,5 +1,5 @@
 ---
-title: Spread the word this holiday season
+title: 'Spread the word this holiday season'
 tagnames: blog, location:blurred, place:united-states, lat:37, lon:-95, zoom:6
 author: joyofsoy
 path: /notes/joyofsoy/12-11-2019/spread-the-word-this-holiday-season.md

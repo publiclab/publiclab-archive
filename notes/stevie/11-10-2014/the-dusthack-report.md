@@ -1,5 +1,5 @@
 ---
-title: The DustHack Report
+title: 'The DustHack Report'
 tagnames: event, wisconsin, air-quality, dustduino, dust, silica, frac-sand, midwest, particle-monitoring, dylos, mid-west, parent:frac-sand
 author: stevie
 path: /notes/stevie/11-10-2014/the-dusthack-report.md

@@ -1,5 +1,5 @@
 ---
-title: Expanding Rural Transit Accesibility through Open Source
+title: 'Expanding Rural Transit Accesibility through Open Source'
 tagnames: transit
 author: ajawitz
 path: /wiki/expanding-rural-transit-accesibility-through-open-source.md

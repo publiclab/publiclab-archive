@@ -1,5 +1,5 @@
 ---
-title: camera-triggering
+title: 'camera-triggering'
 tagnames: redirect:800
 author: warren
 path: /wiki/camera-triggering.md

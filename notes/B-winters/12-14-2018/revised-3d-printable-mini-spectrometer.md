@@ -1,5 +1,5 @@
 ---
-title: Revised 3D printable mini spectrometer
+title: 'Revised 3D printable mini spectrometer'
 tagnames: spectrometer, spectrometry, intensity-calibration, absorption, absorption-spectrometry, hardware, activity:spectrometry, vis-spectroscopy, 3d-print, build:13865, lat:1.655043, lon:3.863525
 author: B-winters
 path: /notes/B-winters/12-14-2018/revised-3d-printable-mini-spectrometer.md

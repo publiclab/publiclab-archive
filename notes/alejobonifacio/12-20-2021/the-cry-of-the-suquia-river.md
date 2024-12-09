@@ -1,5 +1,5 @@
 ---
-title: THE CRY OF THE SUQUÍA RIVER
+title: 'THE CRY OF THE SUQUÍA RIVER'
 tagnames: sewage, water-quality, wastewater, advocacy, documentary, zoom:0, zoom:12, research-curation-fellows, aguas-cloacales, lat:-31.406689, lon:-64.189246
 author: alejobonifacio
 path: /notes/alejobonifacio/12-20-2021/the-cry-of-the-suquia-river.md

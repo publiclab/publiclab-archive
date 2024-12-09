@@ -1,5 +1,5 @@
 ---
-title: Instructions for Desktop Spectrometry Kit & 'backpack' design sketches
+title: 'Instructions for Desktop Spectrometry Kit & 'backpack' design sketches'
 tagnames: spectrometer, guides, kickstarter
 author: warren
 path: /notes/warren/12-13-2012/instructions-desktop-spectrometry-kit-backpack-design-sketches.md

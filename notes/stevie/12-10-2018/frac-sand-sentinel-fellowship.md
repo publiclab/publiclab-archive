@@ -1,5 +1,5 @@
 ---
-title: Frac Sand Sentinel Fellowship 
+title: 'Frac Sand Sentinel Fellowship '
 tagnames: reporting, wisconsin, jobs, frac-sand, pm, mid-west, fellows, fellowship, job, sentinel, parent:the-sand-sentinel-program
 author: stevie
 path: /notes/stevie/12-10-2018/frac-sand-sentinel-fellowship.md

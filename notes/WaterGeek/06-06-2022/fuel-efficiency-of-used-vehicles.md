@@ -1,5 +1,5 @@
 ---
-title: Fuel Efficiency Of Used Vehicles
+title: 'Fuel Efficiency Of Used Vehicles'
 tagnames: fuel, car, question:general, general, first-time-poster, truck, automobile, motors, effiency
 author: WaterGeek
 path: /notes/WaterGeek/06-06-2022/fuel-efficiency-of-used-vehicles.md

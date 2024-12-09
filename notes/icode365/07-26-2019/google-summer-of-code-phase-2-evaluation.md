@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code: Phase 2 Evaluation
+title: 'Google Summer of Code: Phase 2 Evaluation'
 tagnames: gsoc, community-toolbox, gsoc-2019, soc-2019, soc-2019-eval
 author: icode365
 path: /notes/icode365/07-26-2019/google-summer-of-code-phase-2-evaluation.md

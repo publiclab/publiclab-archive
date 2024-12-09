@@ -1,5 +1,5 @@
 ---
-title: What can be a way to make air pollution less dangerous to the health of the world ?
+title: 'What can be a way to make air pollution less dangerous to the health of the world ?'
 tagnames: question:general, general, first-time-poster
 author: chloe_thomas
 path: /notes/chloe_thomas/04-22-2021/how-to-stop-air-pollution.md

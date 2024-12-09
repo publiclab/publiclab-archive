@@ -1,5 +1,5 @@
 ---
-title: Stormy O. Weathers' Horned Allison- towards a kite wind speed meter
+title: 'Stormy O. Weathers' Horned Allison- towards a kite wind speed meter'
 tagnames: kite-mapping, kite, diy-kite, wind-speed-meter, tyvek, diy-kites, open-air, air-monitoring, kite-anemometer, horned-allison, kite-making, activity:kite-making, activity:tyvek
 author: mathew
 path: /notes/mathew/05-02-2016/stormy-o-weathers-horned-allison-towards-a-kite-wind-speed-meter.md

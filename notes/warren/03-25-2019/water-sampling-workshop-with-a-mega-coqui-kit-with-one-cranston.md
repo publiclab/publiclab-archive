@@ -1,5 +1,5 @@
 ---
-title: Water sampling workshop with a "Mega-Coqui" kit with One Cranston
+title: 'Water sampling workshop with a "Mega-Coqui" kit with One Cranston'
 tagnames: providence, kite-mapping, workshop, event, rhode-island, classroom, water-quality, water, sampling, conductivity, northeast, coqui, water-testing, water-sampling, salinity, activity:coqui-usage, coqui-audio-jack, cranston, one-cranston, cranston-print-works, with:cgsear01, with:ayana14_ac, activity:edu-coqui
 author: warren
 path: /notes/warren/03-25-2019/water-sampling-workshop-with-a-mega-coqui-kit-with-one-cranston.md

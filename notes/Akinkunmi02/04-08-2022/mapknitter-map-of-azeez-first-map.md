@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Azeez first map
+title: 'MapKnitter map of Azeez first map'
 tagnames: mapknitter, first-time-poster, zoom:5, lat:6.5243793, lon:3.3792057, lat:6.524379, lon:3.379205
 author: Akinkunmi02
 path: /notes/Akinkunmi02/04-08-2022/mapknitter-map-of-azeez-first-map.md

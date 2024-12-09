@@ -1,5 +1,5 @@
 ---
-title: Help NEU researchers build better Citizen Science games [CLOSED]
+title: 'Help NEU researchers build better Citizen Science games [CLOSED]'
 tagnames: citizen-science, event, northeastern-university, app, games, research-study, cartoscope, first-time-poster
 author: kksgandhi
 path: /notes/kksgandhi/01-08-2021/help-neu-researchers-build-better-citizen-science-games.md

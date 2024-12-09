@@ -1,5 +1,5 @@
 ---
-title: PAR
+title: 'PAR'
 tagnames: spectrometer, vermont, ebert, absorption, par, photosynthesis, chlorophyll, pigments
 author: cfastie
 path: /notes/cfastie/3-16-2013/par.md

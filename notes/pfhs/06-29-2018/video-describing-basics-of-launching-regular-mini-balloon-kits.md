@@ -1,5 +1,5 @@
 ---
-title: Video describing basics of launching regular/mini balloon kits?
+title: 'Video describing basics of launching regular/mini balloon kits?'
 tagnames: balloon-mapping, question:balloon-mapping
 author: pfhs
 path: /notes/pfhs/06-29-2018/video-describing-basics-of-launching-regular-mini-balloon-kits.md

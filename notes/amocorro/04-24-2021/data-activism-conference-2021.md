@@ -1,5 +1,5 @@
 ---
-title: Data Activism Conference 2021
+title: 'Data Activism Conference 2021'
 tagnames: event, ethics, hackathon, workshops, data, environmental-justice, greenpeace, storytelling, data-activism, date:08-24-2021
 author: amocorro
 path: /notes/amocorro/04-24-2021/data-activism-conference-2021.md

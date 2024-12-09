@@ -1,5 +1,5 @@
 ---
-title: Aerial Cartography of the neighborhood. Rambla del Raval
+title: 'Aerial Cartography of the neighborhood. Rambla del Raval'
 tagnames: rambla, del, raval, first-time-poster
 author: duchamp
 path: /notes/duchamp/04-22-2015/aerial-cartography-of-the-neighborhood-rambla-del-raval.md

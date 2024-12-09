@@ -1,5 +1,5 @@
 ---
-title: Instructions for creating local mailing lists
+title: 'Instructions for creating local mailing lists'
 tagnames: mailing-lists
 author: Shannon
 path: /wiki/creating-local-mailing-lists.md

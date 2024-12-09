@@ -1,5 +1,5 @@
 ---
-title: Modification of camera position on older desktop spectrometer kit for flare spectrometry
+title: 'Modification of camera position on older desktop spectrometer kit for flare spectrometry'
 tagnames: gulf-coast, spectrometer, kits, desktop-spectrometer-assembly, desktop-spectrometry-kit, chapter, flare, modifications, barnraising-2013
 author: eustatic
 path: /10-08-2013/modification-of-older-desktop-spectrometer-kit-for-flare-spectrometry.md

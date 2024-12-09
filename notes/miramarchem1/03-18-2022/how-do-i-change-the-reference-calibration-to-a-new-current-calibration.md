@@ -1,5 +1,5 @@
 ---
-title: How do I change the reference calibration to a new current calibration?
+title: 'How do I change the reference calibration to a new current calibration?'
 tagnames: spectral-workbench, question:spectral-workbench, first-time-poster
 author: miramarchem1
 path: /notes/miramarchem1/03-18-2022/how-do-i-change-the-reference-calibration-to-a-new-current-calibration.md

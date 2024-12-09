@@ -1,5 +1,5 @@
 ---
-title: particulate-matter
+title: 'particulate-matter'
 tagnames: redirect:pm
 author: stevie
 path: /wiki/particulate-matter.md

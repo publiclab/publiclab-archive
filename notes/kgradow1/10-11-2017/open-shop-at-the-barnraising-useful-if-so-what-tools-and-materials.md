@@ -1,5 +1,5 @@
 ---
-title: Open shop at the Barnraising:  Useful?  If so, what tools and materials?
+title: 'Open shop at the Barnraising:  Useful?  If so, what tools and materials?'
 tagnames: barnraising, question:barnraising
 author: kgradow1
 path: /notes/kgradow1/10-11-2017/open-shop-at-the-barnraising-useful-if-so-what-tools-and-materials.md

@@ -1,5 +1,5 @@
 ---
-title: Choose a way to make your camera take pictures continuously
+title: 'Choose a way to make your camera take pictures continuously'
 tagnames: activity:balloon-mapping, activity:publiclabriverratpack, activity:bourjalshamali, pin:activity:balloon-mapping
 author: liz
 path: /notes/liz/03-01-2017/set-your-camera-to-take-pictures-continuously.md

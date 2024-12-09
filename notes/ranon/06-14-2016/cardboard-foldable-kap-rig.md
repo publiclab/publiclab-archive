@@ -1,5 +1,5 @@
 ---
-title: Cardboard Foldable KAP Rig
+title: 'Cardboard Foldable KAP Rig'
 tagnames: balloon-mapping, kite-aerial-photography, kap, fold-up, packaging, foldable, diy-mount-kit, cardboard
 author: ranon
 path: /notes/ranon/06-14-2016/cardboard-foldable-kap-rig.md

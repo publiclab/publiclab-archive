@@ -1,5 +1,5 @@
 ---
-title: NDVI to Assess Forage Quality, Question.
+title: 'NDVI to Assess Forage Quality, Question.'
 tagnames: near-infrared-camera, ndvi, imagej, infrared-conversion
 author: AFairbairn
 path: /notes/AFairbairn/03-12-2016/ndvi-to-assess-forage-quality-question.md

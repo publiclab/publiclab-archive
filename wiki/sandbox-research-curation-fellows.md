@@ -1,5 +1,5 @@
 ---
-title: sandbox-research-curation-fellows
+title: 'sandbox-research-curation-fellows'
 tagnames: 
 author: bhamster
 path: /wiki/sandbox-research-curation-fellows.md

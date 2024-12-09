@@ -1,5 +1,5 @@
 ---
-title: Bringing Public Lab’s multispectral image processing to Leaflet maps
+title: 'Bringing Public Lab’s multispectral image processing to Leaflet maps'
 tagnames: ndvi, multispectral, nasa, infragram, blog, leaflet, aren
 author: warren
 path: /notes/warren/08-27-2019/bringing-public-lab-s-multispectral-image-processing-to-leaflet-maps.md

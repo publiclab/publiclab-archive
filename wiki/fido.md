@@ -1,5 +1,5 @@
 ---
-title: fido
+title: 'fido'
 tagnames: fido
 author: liz
 path: /wiki/fido.md

@@ -1,5 +1,5 @@
 ---
-title: ArtLab Thermal Cameras
+title: 'ArtLab Thermal Cameras'
 tagnames: 
 author: Brittny
 path: /notes/brittny/12-5-2011/artlab-thermal-cameras-0.md

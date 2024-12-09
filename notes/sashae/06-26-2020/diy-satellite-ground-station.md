@@ -1,5 +1,5 @@
 ---
-title: DIY Satellite Ground Station
+title: 'DIY Satellite Ground Station'
 tagnames: satellite-imagery, barnstar:basic, barnstar:empiricism, seeks:replications, noaa, lat:51.50735, lon:-0.127758, antenna, zoom:6, open-weather, activity:open-weather, with:sophied
 author: sashae
 path: /notes/sashae/06-26-2020/diy-satellite-ground-station.md

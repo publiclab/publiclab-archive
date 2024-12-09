@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Jeanne Johnson Preserve 300x250
+title: 'MapKnitter map of Jeanne Johnson Preserve 300x250'
 tagnames: mapknitter, massachusetts, northeast, first-time-poster, zoom:16, lat:42.199072, lon:-71.661344
 author: kholberger
 path: /notes/kholberger/04-15-2021/mapknitter-map-of-jeanne-johnson-preserve-300x250.md

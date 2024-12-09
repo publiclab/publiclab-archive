@@ -1,5 +1,5 @@
 ---
-title: Thermal Imaging: Heat Insulation Comparison
+title: 'Thermal Imaging: Heat Insulation Comparison'
 tagnames: thermal-photography, thermal-flashlight, thermal-camera, tool, insulation, heat, replication:625, first-time-poster
 author: SCG
 path: /notes/SCG/11-23-2014/thermal-imaging-heat-insulation-comparison.md

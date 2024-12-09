@@ -1,5 +1,5 @@
 ---
-title: [Event] Oil rains from Valero / Murphy facility  Tania Dall / WWL
+title: '[Event] Oil rains from Valero / Murphy facility  Tania Dall / WWL'
 tagnames: gulf-coast, louisiana, oil, flare, spill, valero, ioby
 author: eustatic
 path: /10-27-2013/event-oil-rains-from-valero-murphy-facility-tania-dall-wwl.md

@@ -1,5 +1,5 @@
 ---
-title: Kukui'ula Resort
+title: 'Kukui'ula Resort'
 tagnames: 
 author: knygaard
 path: /notes/knygaard/12-21-2012/kukuiula-resort.md

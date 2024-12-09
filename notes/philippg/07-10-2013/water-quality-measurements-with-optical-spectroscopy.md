@@ -1,5 +1,5 @@
 ---
-title: Water Quality Measurements with Optical Spectroscopy
+title: 'Water Quality Measurements with Optical Spectroscopy'
 tagnames: spectrometer, water-quality, water, water-monitoring, estonia, chlorophyll, eutrophication, algae, algal-blooms, cyanobacteria, activity:spectrometry, status:under-development, first-time-poster
 author: philippg
 path: /notes/philippg/07-10-2013/water-quality-measurements-with-optical-spectroscopy.md

@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code 2019 - Final Work Product - Isha Gupta
+title: 'Google Summer of Code 2019 - Final Work Product - Isha Gupta'
 tagnames: open-source, gsoc, barnstar:excessive-enthusiasm, soc, gsoc-2019, soc-2019, gsoc-2019-final-report
 author: IshaGupta18
 path: /notes/IshaGupta18/08-26-2019/google-summer-of-code-2019-final-work-product-isha-gupta.md

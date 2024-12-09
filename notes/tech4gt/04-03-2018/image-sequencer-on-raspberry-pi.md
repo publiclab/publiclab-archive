@@ -1,5 +1,5 @@
 ---
-title: Image Sequencer on Raspberry PI
+title: 'Image Sequencer on Raspberry PI'
 tagnames: raspberry-pi, pi-camera, raspberry-pi-infragram, activity:raspberry-pi-infragram, activity:raspberry-pi-spectrometer, activity:pi-camera, image-sequencer
 author: tech4gt
 path: /notes/tech4gt/04-03-2018/image-sequencer-on-raspberry-pi.md

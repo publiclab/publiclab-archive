@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Infragram
+title: 'Raspberry Pi Infragram'
 tagnames: raspberry-pi, parent:infragram, pi-camera, method, raspberry-, pi-
 author: warren
 path: /wiki/raspberry-pi-infragram.md

@@ -1,5 +1,5 @@
 ---
-title: More Infragram sample webcam tests
+title: 'More Infragram sample webcam tests'
 tagnames: near-infrared-camera, infragram, infragram-conversion, infragram-camera-testing
 author: warren
 path: /notes/warren/08-05-2013/more-infragram-sample-webcam-tests.md

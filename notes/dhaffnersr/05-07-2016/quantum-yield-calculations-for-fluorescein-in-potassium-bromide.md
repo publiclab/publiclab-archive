@@ -1,5 +1,5 @@
 ---
-title: Quantum Yield calculations for Fluorescein in Potassium bromide
+title: 'Quantum Yield calculations for Fluorescein in Potassium bromide'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-07-2016/quantum-yield-calculations-for-fluorescein-in-potassium-bromide.md

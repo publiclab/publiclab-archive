@@ -1,5 +1,5 @@
 ---
-title: Riparian Industrial Facilities
+title: 'Riparian Industrial Facilities'
 tagnames: water-quality-monitoring, water-quality, riparian-industry, coastal-industry, shoreline-industry
 author: gilbert
 path: /notes/gilbert/10-11-2017/riparian-industrial-facilities.md

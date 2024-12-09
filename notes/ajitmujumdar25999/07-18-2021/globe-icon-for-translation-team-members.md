@@ -1,5 +1,5 @@
 ---
-title: Globe Icon for Translation Team Members
+title: 'Globe Icon for Translation Team Members'
 tagnames: translation
 author: ajitmujumdar25999
 path: /notes/ajitmujumdar25999/07-18-2021/globe-icon-for-translation-team-members.md

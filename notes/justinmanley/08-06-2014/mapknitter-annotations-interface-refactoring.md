@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Annotations: Interface Refactoring
+title: 'MapKnitter Annotations: Interface Refactoring'
 tagnames: balloon-mapping, mapknitter, software, gsoc, gsoc-2014
 author: justinmanley
 path: /notes/justinmanley/08-06-2014/mapknitter-annotations-interface-refactoring.md

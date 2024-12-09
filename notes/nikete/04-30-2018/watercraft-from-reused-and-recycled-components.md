@@ -1,5 +1,5 @@
 ---
-title: watercraft from reused and recycled components
+title: 'watercraft from reused and recycled components'
 tagnames: waterway, reuse, water-quality-mapping, water-quality, boat, south-america, recycling, raft
 author: nikete
 path: /notes/nikete/04-30-2018/watercraft-from-reused-and-recycled-components.md

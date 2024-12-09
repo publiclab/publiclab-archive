@@ -1,5 +1,5 @@
 ---
-title: Broadcast dust readings from a smartphone
+title: 'Broadcast dust readings from a smartphone'
 tagnames: particulate-sensing, air-quality, dustduino, dust, particulates, particulate, pm, dylos, air-sensors
 author: Schroyer
 path: /notes/Schroyer/06-26-2014/broadcast-dust-readings-from-a-smartphone.md

@@ -1,5 +1,5 @@
 ---
-title: Seeking support in having document translated or found, can you help?
+title: 'Seeking support in having document translated or found, can you help?'
 tagnames: brazil, icc, climate-change, amazon, amazonia, lang:pt, translation, question:general, general, environmental-journalism, environmental-regulations, lang:en, activity:translation, covid-19, obsclima, bolsonaro-administration
 author: amocorro
 path: /notes/amocorro/03-29-2021/seeking-support-in-having-document-translated.md

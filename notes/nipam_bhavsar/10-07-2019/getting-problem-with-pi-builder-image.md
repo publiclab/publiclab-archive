@@ -1,5 +1,5 @@
 ---
-title: Getting problem with Pi-builder image
+title: 'Getting problem with Pi-builder image'
 tagnames: camera, pi, raspberry, question:raspberry-pi, first-time-poster, pi-builder, question:pi-builder
 author: nipam_bhavsar
 path: /notes/nipam_bhavsar/10-07-2019/getting-problem-with-pi-builder-image.md

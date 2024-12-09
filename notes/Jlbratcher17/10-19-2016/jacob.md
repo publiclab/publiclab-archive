@@ -1,5 +1,5 @@
 ---
-title: Jacob
+title: 'Jacob'
 tagnames: hidden:response, response:13586
 author: Jlbratcher17
 path: /notes/Jlbratcher17/10-19-2016/jacob.md

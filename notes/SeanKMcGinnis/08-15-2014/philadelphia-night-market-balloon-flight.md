@@ -1,5 +1,5 @@
 ---
-title: Philadelphia Night Market Balloon Flight
+title: 'Philadelphia Night Market Balloon Flight'
 tagnames: balloon-mapping, philadelphia, event, urban-design, northeast, replication:14022
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/08-15-2014/philadelphia-night-market-balloon-flight.md

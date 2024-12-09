@@ -1,5 +1,5 @@
 ---
-title: Anyone still using the legacy editors? Speak up now!
+title: 'Anyone still using the legacy editors? Speak up now!'
 tagnames: website
 author: liz
 path: /notes/liz/07-14-2020/anyone-still-using-the-legacy-editors-speak-up-now.md

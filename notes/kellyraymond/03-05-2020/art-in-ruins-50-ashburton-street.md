@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (50 Ashburton Street)
+title: 'Art in Ruins (50 Ashburton Street)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.837851, lon:-71.415252, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-50-ashburton-street.md

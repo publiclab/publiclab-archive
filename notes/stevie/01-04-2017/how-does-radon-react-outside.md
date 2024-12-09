@@ -1,5 +1,5 @@
 ---
-title: How does radon react outside? 
+title: 'How does radon react outside? '
 tagnames: indoor-air, radon, question:radon
 author: stevie
 path: /notes/stevie/01-04-2017/how-does-radon-react-outside.md

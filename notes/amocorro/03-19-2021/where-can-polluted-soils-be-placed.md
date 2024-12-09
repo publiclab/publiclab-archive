@@ -1,5 +1,5 @@
 ---
-title: Where can polluted soils be placed?
+title: 'Where can polluted soils be placed?'
 tagnames: soil, wisconsin, question:general, general, with:pat, state-regulations, pollutant, question:soil, soil-contamination
 author: amocorro
 path: /notes/amocorro/03-19-2021/where-can-polluted-soils-be-placed.md

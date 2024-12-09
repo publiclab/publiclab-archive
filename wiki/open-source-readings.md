@@ -1,5 +1,5 @@
 ---
-title: Open source readings
+title: 'Open source readings'
 tagnames: 
 author: warren
 path: /wiki/open-source-readings.md

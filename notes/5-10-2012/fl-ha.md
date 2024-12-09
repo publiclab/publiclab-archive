@@ -1,5 +1,5 @@
 ---
-title: flöha
+title: 'flöha'
 tagnames: 
 author: 
 path: /notes/5-10-2012/fl-ha.md

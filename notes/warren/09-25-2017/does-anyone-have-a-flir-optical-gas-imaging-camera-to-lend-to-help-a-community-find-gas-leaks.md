@@ -1,5 +1,5 @@
 ---
-title: Does anyone have a FLIR Optical Gas Imaging camera to lend to help a community find gas leaks?
+title: 'Does anyone have a FLIR Optical Gas Imaging camera to lend to help a community find gas leaks?'
 tagnames: thermal-photography, flir, natural-gas, gas, answered, question:thermal-photography, gasfinder, gas-leaks, question:flir, question:gas, question:gas-leaks, lng, liquified-natural-gas
 author: warren
 path: /notes/warren/09-25-2017/does-anyone-have-a-flir-optical-gas-imaging-camera-to-lend-to-help-a-community-find-gas-leaks.md

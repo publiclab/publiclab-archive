@@ -1,5 +1,5 @@
 ---
-title: desperate newbie seeks info 
+title: 'desperate newbie seeks info '
 tagnames: spectrometer, desktop-spectrometer
 author: Smokey45
 path: /notes/smokey45/3-4-2013/desperate-newbie-seeks-info.md

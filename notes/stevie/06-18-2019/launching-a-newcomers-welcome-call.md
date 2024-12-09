@@ -1,5 +1,5 @@
 ---
-title: Launching a Newcomers Welcome Call! 
+title: 'Launching a Newcomers Welcome Call! '
 tagnames: organizing, blog, getting-started, organizer, opencall, location:blurred, organize, zoom:6, place:australia, lat:-36, lon:143
 author: stevie
 path: /notes/stevie/06-18-2019/launching-a-newcomers-welcome-call.md

@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping in Eastern Ukraine
+title: 'Balloon mapping in Eastern Ukraine'
 tagnames: balloon-mapping, ukraine, first-time-poster
 author: Alex_the_Ukrainian
 path: /notes/Alex_the_Ukrainian/03-12-2015/balloon-mapping-in-eastern-ukraine.md

@@ -1,5 +1,5 @@
 ---
-title: UNCC Spatial Thinking
+title: 'UNCC Spatial Thinking'
 tagnames: mapknitter, lat:35.3022987294, lon:-80.7319968939
 author: rmill105
 path: /notes/rmill105/10-06-2015/uncc-spatial-thinking.md

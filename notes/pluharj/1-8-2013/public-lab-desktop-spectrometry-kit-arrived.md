@@ -1,5 +1,5 @@
 ---
-title: Public Lab Desktop Spectrometry Kit arrived
+title: 'Public Lab Desktop Spectrometry Kit arrived'
 tagnames: spectrometer, first-time-poster
 author: pluharj
 path: /notes/pluharj/1-8-2013/public-lab-desktop-spectrometry-kit-arrived.md

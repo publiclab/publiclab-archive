@@ -1,5 +1,5 @@
 ---
-title: Job Posting: Development Manager
+title: 'Job Posting: Development Manager'
 tagnames: 
 author: Shannon
 path: /wiki/job-posting-development-manager.md

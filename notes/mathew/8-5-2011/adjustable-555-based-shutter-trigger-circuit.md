@@ -1,5 +1,5 @@
 ---
-title: Adjustable 555-based shutter trigger circuit  
+title: 'Adjustable 555-based shutter trigger circuit  '
 tagnames: camera-triggering, timelapse, intervalometer, 555, activity:camera-triggering
 author: mathew
 path: /notes/mathew/8-5-2011/adjustable-555-based-shutter-trigger-circuit.md

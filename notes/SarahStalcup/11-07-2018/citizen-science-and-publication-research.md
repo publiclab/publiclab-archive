@@ -1,5 +1,5 @@
 ---
-title: Citizen Science and Publication Research 
+title: 'Citizen Science and Publication Research '
 tagnames: participation, publication, peer-review, first-time-poster, citizen-sceince, community-based
 author: SarahStalcup
 path: /notes/SarahStalcup/11-07-2018/citizen-science-and-publication-research.md

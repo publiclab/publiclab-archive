@@ -1,5 +1,5 @@
 ---
-title: SE Regional Meeting of the Amer. Chem. Soc.
+title: 'SE Regional Meeting of the Amer. Chem. Soc.'
 tagnames: event, event:rsvp, response:11084, date:10-18-2014
 author: JSummers
 path: /notes/JSummers/09-01-2014/se-regional-meeting-of-the-amer-chem-soc.md

@@ -1,5 +1,5 @@
 ---
-title: Reconfigurable Rig
+title: 'Reconfigurable Rig'
 tagnames: balloon-mapping, kite-aerial-photography, polemapping, kap, photo-rig, autokap, landscape, kap-rigs, reconfigurable-rig, activity:photo-rig
 author: ranon
 path: /notes/ranon/07-07-2016/reconfigurable-rig.md

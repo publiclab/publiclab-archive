@@ -1,5 +1,5 @@
 ---
-title: Redstone Rig 2.0
+title: 'Redstone Rig 2.0'
 tagnames: balloon-mapping, kite-mapping, aerial-photography, kap, photo-rig, aerial-mapping, camera-rig, redstone, kaptery, autodesk
 author: cfastie
 path: /notes/cfastie/07-18-2017/redstone-rig-2-0.md

@@ -1,5 +1,5 @@
 ---
-title: Site Visits and Results
+title: 'Site Visits and Results'
 tagnames: arduino, thermal-flashlight, canada, sociology-4107, response:11460, newfoundland
 author: KKMS
 path: /notes/KKMS/12-17-2014/site-visits-and-results.md

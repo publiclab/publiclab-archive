@@ -1,5 +1,5 @@
 ---
-title: Partnering with a Local College for Environmental Testing
+title: 'Partnering with a Local College for Environmental Testing'
 tagnames: education, air-quality, water-quality, partnerships, lead, bucket-brigade, soil-testing, soil-quality, parent:water-quality, community-engagement, bucket-monitor
 author: read_holman
 path: /notes/read_holman/12-17-2018/partnering-with-a-local-college-for-environmental-testing.md

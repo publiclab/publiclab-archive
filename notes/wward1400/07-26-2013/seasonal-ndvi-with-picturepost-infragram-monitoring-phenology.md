@@ -1,5 +1,5 @@
 ---
-title: Seasonal NDVI with PicturePost & Infragram: Monitoring & Phenology
+title: 'Seasonal NDVI with PicturePost & Infragram: Monitoring & Phenology'
 tagnames: near-infrared-camera, nrg, nir, nasa, community-garden, infragram, picturepost, response:8074, image-analysis
 author: wward1400
 path: /notes/wward1400/07-26-2013/seasonal-ndvi-with-picturepost-infragram-monitoring-phenology.md

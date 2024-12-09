@@ -1,5 +1,5 @@
 ---
-title: water quality indices
+title: 'water quality indices'
 tagnames: water-quality, list:plots-waterquality, parent:mae-d-agua, parent:water-quality
 author: vjpixel
 path: /wiki/water-quality-indices.md

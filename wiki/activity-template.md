@@ -1,5 +1,5 @@
 ---
-title: activity-template
+title: 'activity-template'
 tagnames: template, parent:templates
 author: warren
 path: /wiki/activity-template.md

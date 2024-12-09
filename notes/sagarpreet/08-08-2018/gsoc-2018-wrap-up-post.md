@@ -1,5 +1,5 @@
 ---
-title: GSoC 2018 Wrap-Up Post
+title: 'GSoC 2018 Wrap-Up Post'
 tagnames: gsoc-2018-final, soc-2018-final, soc-2018-final-report
 author: sagarpreet
 path: /notes/sagarpreet/08-08-2018/gsoc-2018-wrap-up-post.md

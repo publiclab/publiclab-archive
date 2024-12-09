@@ -1,5 +1,5 @@
 ---
-title: NYC Workshop Saturday, 9/28: Simple Air Sensors and More!
+title: 'NYC Workshop Saturday, 9/28: Simple Air Sensors and More!'
 tagnames: new-york-city, events, workshop, nyc, oil-and-gas, simple-air-sensor, with:sadieprego, lat:40.712239, lon:-73.957135
 author: Bronwen
 path: /notes/Bronwen/09-26-2019/nyc-workshop-saturday-9-28-simple-air-sensors-and-more.md

@@ -1,5 +1,5 @@
 ---
-title: How long does an inflated neoprene balloon last? Mylar balloons better for summer camp?
+title: 'How long does an inflated neoprene balloon last? Mylar balloons better for summer camp?'
 tagnames: mylar, question:balloon-mapping, neoprene, question:mini-balloon-kit, question:mylar, chloroprene, first-time-poster, pin:question:balloon-mapping
 author: pfhs
 path: /notes/pfhs/06-03-2018/how-long-does-an-inflated-neoprene-balloon-last-mylar-balloons-better-for-summer-camp.md

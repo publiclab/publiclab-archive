@@ -1,5 +1,5 @@
 ---
-title: Testing wines with UV-visible spectrometry
+title: 'Testing wines with UV-visible spectrometry'
 tagnames: 
 author: warren
 path: /notes/warren/2-16-2012/testing-wines-uv-visible-spectrometry.md

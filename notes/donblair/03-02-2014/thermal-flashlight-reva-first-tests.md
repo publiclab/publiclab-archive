@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight REVA -- first tests
+title: 'Thermal Flashlight REVA -- first tests'
 tagnames: thermal-photography, arduino, thermal-flashlight, thermal-fishing-bob, pcb
 author: donblair
 path: /notes/donblair/03-02-2014/thermal-flashlight-reva-first-tests.md

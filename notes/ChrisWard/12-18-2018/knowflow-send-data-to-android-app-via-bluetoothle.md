@@ -1,5 +1,5 @@
 ---
-title: KnowFlow: Send Data to Android App via BluetoothLE
+title: 'KnowFlow: Send Data to Android App via BluetoothLE'
 tagnames: arduino, hardware, question:knowflow, first-time-poster
 author: ChrisWard
 path: /notes/ChrisWard/12-18-2018/knowflow-send-data-to-android-app-via-bluetoothle.md

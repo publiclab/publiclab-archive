@@ -1,5 +1,5 @@
 ---
-title: Light Aircraft Aerial Mapping Setup
+title: 'Light Aircraft Aerial Mapping Setup'
 tagnames: near-infrared-camera, aerial-photography, plane, overflight, hand-clamp, clamp, cessna, window
 author: gonzoearth
 path: /notes/gonzoearth/4-23-2012/light-aircraft-aerial-mapping-setup.md

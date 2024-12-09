@@ -1,5 +1,5 @@
 ---
-title: Plant Air Remediation Field Test #2 (Georgia)
+title: 'Plant Air Remediation Field Test #2 (Georgia)'
 tagnames: community, remediation, plant, formaldehyde, 2, with:liz, wwb, indoor-air-quality, with:gretchengehrke, indoor-air, with:silentdisaster, replication:13480, plant-air-purifier-prototypes
 author: nshapiro
 path: /notes/nshapiro/08-02-2016/plant-air-remediation-field-test-2-georgia.md

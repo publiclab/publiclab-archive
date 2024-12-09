@@ -1,5 +1,5 @@
 ---
-title: Thermal fishing bob
+title: 'Thermal fishing bob'
 tagnames: thermal-fishing-bob, parent:thermal-photography
 author: warren
 path: /wiki/thermal-fishing-bob.md

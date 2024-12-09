@@ -1,5 +1,5 @@
 ---
-title: Swamp Stomp Video
+title: 'Swamp Stomp Video'
 tagnames: balloon-mapping, kite-mapping
 author: eustatic
 path: /3-29-2013/swamp-stomp-video.md

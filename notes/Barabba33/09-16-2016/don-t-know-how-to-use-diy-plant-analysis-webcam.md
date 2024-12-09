@@ -1,5 +1,5 @@
 ---
-title: Don't know how to use DIY Plant Analysis Webcam
+title: 'Don't know how to use DIY Plant Analysis Webcam'
 tagnames: question:infragram, question:infrared
 author: Barabba33
 path: /notes/Barabba33/09-16-2016/don-t-know-how-to-use-diy-plant-analysis-webcam.md

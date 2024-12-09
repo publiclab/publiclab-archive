@@ -1,5 +1,5 @@
 ---
-title: Are there any other professional instruments that measures different VOC besides PID (photoionisation detector)?
+title: 'Are there any other professional instruments that measures different VOC besides PID (photoionisation detector)?'
 tagnames: formaldehyde, voc, question:general, general, question:formaldehyde, question:voc
 author: stevie
 path: /notes/stevie/02-06-2020/are-there-any-other-professional-instruments-that-measures-different-voc-besides-pid-photoionisation-detector.md

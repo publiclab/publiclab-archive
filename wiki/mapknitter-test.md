@@ -1,5 +1,5 @@
 ---
-title: mapknitter-test
+title: 'mapknitter-test'
 tagnames: 
 author: warren
 path: /wiki/mapknitter-test.md

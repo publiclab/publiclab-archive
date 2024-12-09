@@ -1,5 +1,5 @@
 ---
-title: Child-led R&D of camera rigs for mapping
+title: 'Child-led R&D of camera rigs for mapping'
 tagnames: education, rig, photo-rig, camera, classroom, activity:photo-rig, ballon-mapping, activity:classroom, community-atlas, urbangreeninginnottingham, urbangreeningnottingham, activity:urbangreeninginnottingham
 author: molangmuir10
 path: /notes/molangmuir10/06-20-2019/designing-alternative-rigs-for-mapping.md

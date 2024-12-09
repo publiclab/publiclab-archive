@@ -1,5 +1,5 @@
 ---
-title: Kite => GPS => Explicate
+title: 'Kite => GPS => Explicate'
 tagnames: kite-mapping, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12335, birdseye, bristol-vt, s100-gps
 author: cfastie
 path: /notes/cfastie/11-02-2015/kite-gps-explicate.md

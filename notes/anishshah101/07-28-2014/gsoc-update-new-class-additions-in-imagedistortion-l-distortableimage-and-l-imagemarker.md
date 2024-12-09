@@ -1,5 +1,5 @@
 ---
-title: GSoC Update- New class additions in ImageDistortion (L.DistortableImage and L.ImageMarker)
+title: 'GSoC Update- New class additions in ImageDistortion (L.DistortableImage and L.ImageMarker)'
 tagnames: mapknitter, gsoc, developers, gsoc-2014
 author: anishshah101
 path: /notes/anishshah101/07-28-2014/gsoc-update-new-class-additions-in-imagedistortion-l-distortableimage-and-l-imagemarker.md

@@ -1,5 +1,5 @@
 ---
-title: Automated captures?
+title: 'Automated captures?'
 tagnames: spectrometer, question:spectral-workbench, answered
 author: viechdokter
 path: /notes/viechdokter/04-13-2016/automated-captures.md

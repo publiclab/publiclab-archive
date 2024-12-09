@@ -1,5 +1,5 @@
 ---
-title: Build a papercraft spectrometer for your phone -- version 2.0
+title: 'Build a papercraft spectrometer for your phone -- version 2.0'
 tagnames: kits, spectrometry, assembly, foldable, papercraft, onboarding, activity:spectrometry, activity:foldable-spec, foldable-spec, response:13076, response:14625, improves-on:14625, improves-on:13076, introductory, activity:papercraft-spec, activity:newcomers, pin:activity:papercraft-spec
 author: warren
 path: /notes/warren/11-30-2017/build-a-papercraft-spectrometer-for-your-phone-version-2-0.md

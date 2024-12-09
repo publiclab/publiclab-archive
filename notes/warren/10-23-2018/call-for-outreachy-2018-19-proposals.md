@@ -1,5 +1,5 @@
 ---
-title: Call for Outreachy 2018-19 proposals!
+title: 'Call for Outreachy 2018-19 proposals!'
 tagnames: website, software, code, wwg, software-outreach, soc, outreachy, call-for-proposals, outreachy-2018, proposals, call-
 author: warren
 path: /notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals.md

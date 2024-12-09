@@ -1,5 +1,5 @@
 ---
-title: Stand Alone Data Logger for Field Use
+title: 'Stand Alone Data Logger for Field Use'
 tagnames: sensors, datalogger, logging
 author: bhickman
 path: /notes/bhickman/03-05-2015/stand-alone-data-logger-for-field-use.md

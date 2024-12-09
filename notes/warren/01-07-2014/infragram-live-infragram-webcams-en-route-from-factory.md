@@ -1,5 +1,5 @@
 ---
-title: Infragram Live & Infragram webcams en route from factory
+title: 'Infragram Live & Infragram webcams en route from factory'
 tagnames: near-infrared-camera, kickstarter, infragram, response:9917
 author: warren
 path: /notes/warren/01-07-2014/infragram-live-infragram-webcams-en-route-from-factory.md

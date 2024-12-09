@@ -1,5 +1,5 @@
 ---
-title: iFARM 2015 report
+title: 'iFARM 2015 report'
 tagnames: new-hampshire, uav, farm, kap, event, ifarm, 2015, hack, rov, nh, response:11790
 author: cfastie
 path: /notes/cfastie/05-21-2015/ifarm-2015-report.md

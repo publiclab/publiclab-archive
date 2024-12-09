@@ -1,5 +1,5 @@
 ---
-title: Mayfly
+title: 'Mayfly'
 tagnames: water-sensing, datalogger, data-logging, parent:data-logging, water-sensors, mayfly, stroud
 author: warren
 path: /wiki/mayfly.md

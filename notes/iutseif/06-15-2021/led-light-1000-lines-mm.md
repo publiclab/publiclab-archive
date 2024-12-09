@@ -1,5 +1,5 @@
 ---
-title: LED light 1000 lines/mm
+title: 'LED light 1000 lines/mm'
 tagnames: first-time-poster, zoom:1, lat:30.044419, lon:31.235711
 author: iutseif
 path: /notes/iutseif/06-15-2021/led-light-1000-lines-mm.md

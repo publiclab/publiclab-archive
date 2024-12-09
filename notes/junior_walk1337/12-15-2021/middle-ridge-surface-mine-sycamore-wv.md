@@ -1,5 +1,5 @@
 ---
-title: Middle Ridge surface mine, Sycamore WV
+title: 'Middle Ridge surface mine, Sycamore WV'
 tagnames: coal, drone, blasting, mmmp, westvirginia, surfacemine
 author: junior_walk1337
 path: /notes/junior_walk1337/12-15-2021/middle-ridge-surface-mine-sycamore-wv.md

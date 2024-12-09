@@ -1,5 +1,5 @@
 ---
-title: Wastewater
+title: 'Wastewater'
 tagnames: sewage, water-quality, stormwater, wastewater, parent:water-quality
 author: bhamster
 path: /wiki/wastewater.md

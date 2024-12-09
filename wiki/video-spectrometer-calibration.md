@@ -1,5 +1,5 @@
 ---
-title: Video spectrometer calibration
+title: 'Video spectrometer calibration'
 tagnames: 
 author: warren
 path: /wiki/video-spectrometer-calibration.md

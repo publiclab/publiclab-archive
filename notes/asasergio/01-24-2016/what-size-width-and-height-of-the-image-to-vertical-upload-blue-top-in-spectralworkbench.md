@@ -1,5 +1,5 @@
 ---
-title: What size (width and height) of the image to vertical upload (blue top) in SpectralWorkbench?
+title: 'What size (width and height) of the image to vertical upload (blue top) in SpectralWorkbench?'
 tagnames: question:spectral-workbench, answered
 author: asasergio
 path: /notes/asasergio/01-24-2016/what-size-width-and-height-of-the-image-to-vertical-upload-blue-top-in-spectralworkbench.md

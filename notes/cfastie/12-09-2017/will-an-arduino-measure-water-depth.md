@@ -1,5 +1,5 @@
 ---
-title: Will an Arduino measure water depth?
+title: 'Will an Arduino measure water depth?'
 tagnames: arduino, water-sensing, sensors, depth, water-depth, data-logging, nano-data-logger, activity:nano-data-logger, accelerometer, mma8451, series:springhouse-water-level
 author: cfastie
 path: /notes/cfastie/12-09-2017/will-an-arduino-measure-water-depth.md

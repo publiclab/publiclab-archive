@@ -1,5 +1,5 @@
 ---
-title: Riffle testing
+title: 'Riffle testing'
 tagnames: riffle
 author: tonyc
 path: /notes/tonyc/01-11-2016/riffle-testing.md

@@ -1,5 +1,5 @@
 ---
-title: Laser Calibration (532nm) of New DVD Diffration Grating 4.7 GB
+title: 'Laser Calibration (532nm) of New DVD Diffration Grating 4.7 GB'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/09-12-2016/laser-calibration-532nm-of-new-dvd-diffration-grating-4-7-gb.md

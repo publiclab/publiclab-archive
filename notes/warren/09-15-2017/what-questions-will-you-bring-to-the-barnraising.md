@@ -1,5 +1,5 @@
 ---
-title: What questions will you bring to the Barnraising?
+title: 'What questions will you bring to the Barnraising?'
 tagnames: west-virginia, barnraising, blog, videos, questions, barnraising-2017, regional-barnraising, barnraising-vw, morgantown, location:blurred, lat:29.3, lon:-90.7, place:cocodrie, series:barnraising-questions
 author: warren
 path: /notes/warren/09-15-2017/what-questions-will-you-bring-to-the-barnraising.md

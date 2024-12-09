@@ -1,5 +1,5 @@
 ---
-title: *FIXED* Riffle SD card Power Consumption
+title: '*FIXED* Riffle SD card Power Consumption'
 tagnames: riffle
 author: kinasmith
 path: /notes/kinasmith/06-14-2016/fixed-riffle-sd-card-power-consumption.md

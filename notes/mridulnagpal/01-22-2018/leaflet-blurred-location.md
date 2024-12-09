@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Leaflet Blurred Location Part 2
+title: 'GSoC proposal: Leaflet Blurred Location Part 2'
 tagnames: gsoc, soc, gsoc-2018, soc-2018-proposals, gsoc-2018-final
 author: mridulnagpal
 path: /notes/mridulnagpal/01-22-2018/leaflet-blurred-location.md

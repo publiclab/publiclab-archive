@@ -1,5 +1,5 @@
 ---
-title: Tail design variation on soda bottle rig
+title: 'Tail design variation on soda bottle rig'
 tagnames: balloon-mapping, kite-mapping, peru, photo-rig
 author: warren
 path: /notes/warren/8-17-2011/tail-design-variation-soda-bottle-rig.md

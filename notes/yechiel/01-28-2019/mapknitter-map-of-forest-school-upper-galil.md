@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Forest School Upper Galil
+title: 'MapKnitter map of Forest School Upper Galil'
 tagnames: mapknitter, first-time-poster, lat:32.9997008275, lon:35.4431402202
 author: yechiel
 path: /notes/yechiel/01-28-2019/mapknitter-map-of-forest-school-upper-galil.md

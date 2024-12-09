@@ -1,5 +1,5 @@
 ---
-title: Youth-led Environmental Justice Organizing during COVID-19
+title: 'Youth-led Environmental Justice Organizing during COVID-19'
 tagnames: youth, air-quality, transportation, asthma, environmental-justice, community-organizing, seattle, zoom:6, covid-19, with:duwamishcleanup, lat:47.532038, lon:-122.321777, youth-organizing, technology-gap, lat:47.528398, lon:-122.324025, washington, pacific-northwest
 author: amocorro
 path: /notes/amocorro/11-23-2020/youth-led-environmental-justice-organizing-during-covid-19.md

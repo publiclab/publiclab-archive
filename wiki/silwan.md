@@ -1,5 +1,5 @@
 ---
-title: Silwan
+title: 'Silwan'
 tagnames: 
 author: warren
 path: /wiki/silwan.md

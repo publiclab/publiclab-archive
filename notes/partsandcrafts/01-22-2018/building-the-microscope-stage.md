@@ -1,5 +1,5 @@
 ---
-title: Building a Basic Microscope Stage
+title: 'Building a Basic Microscope Stage'
 tagnames: raspberry-pi, with:kgradow1, with:warren, microscope, pi-camera, microscopes, activity:microscopes, with:wmacfarl, activity:pi-camera, with:bmela, activity:basic-microscope, basic-microscope, series:basic-microscope
 author: partsandcrafts
 path: /notes/partsandcrafts/01-22-2018/building-the-microscope-stage.md

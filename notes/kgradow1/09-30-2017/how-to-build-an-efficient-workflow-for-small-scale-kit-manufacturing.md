@@ -1,5 +1,5 @@
 ---
-title: How to build an efficient workflow for small-scale kit manufacturing?
+title: 'How to build an efficient workflow for small-scale kit manufacturing?'
 tagnames: kits, leaffest, manufacturing, question:kits, leaffest2017, question:leaffest, question:leaffest2017
 author: kgradow1
 path: /notes/kgradow1/09-30-2017/how-to-build-an-efficient-workflow-for-small-scale-kit-manufacturing.md

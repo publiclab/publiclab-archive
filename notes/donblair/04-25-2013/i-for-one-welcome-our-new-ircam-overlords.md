@@ -1,5 +1,5 @@
 ---
-title: I For One Welcome Our New IRCAM Overlords
+title: 'I For One Welcome Our New IRCAM Overlords'
 tagnames: near-infrared-camera, raspberry-pi, infrared-camera, nvdi
 author: donblair
 path: /notes/donblair/04-25-2013/i-for-one-welcome-our-new-ircam-overlords.md

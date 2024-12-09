@@ -1,5 +1,5 @@
 ---
-title: EcoHackII
+title: 'EcoHackII'
 tagnames: balloon-mapping, air-column-monitor
 author: liz
 path: /wiki/ecohackii.md

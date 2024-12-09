@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Update 20: August 2017
+title: 'Web Working Group Update 20: August 2017'
 tagnames: nasa, web-development, software, plots2, infragram, gsoc, developers, wwg, webwg, first-timers-only, soc, soc-2017, wwg-update, response:14614
 author: warren
 path: /notes/warren/09-01-2017/web-working-group-update-20-august-2017.md

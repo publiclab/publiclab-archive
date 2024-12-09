@@ -1,5 +1,5 @@
 ---
-title: GSOC 2019 wrapup 
+title: 'GSOC 2019 wrapup '
 tagnames: google-summer-of-code, summer-of-code, gsoc-19, gsoc-final-eval, gsoc-2019-final-report
 author: vidit
 path: /notes/vidit/08-26-2019/gsoc-2019-wrapup.md

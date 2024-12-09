@@ -1,5 +1,5 @@
 ---
-title: Spectrometry notes
+title: 'Spectrometry notes'
 tagnames: 
 author: warren
 path: /wiki/spectrometry-notes.md

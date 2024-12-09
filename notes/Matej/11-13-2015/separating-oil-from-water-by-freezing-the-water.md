@@ -1,5 +1,5 @@
 ---
-title: Separating Oil from Water by Freezing the Water
+title: 'Separating Oil from Water by Freezing the Water'
 tagnames: spectrometer, oil-spill, oil, crude, water-quality, oil-testing-kit, barnstar:basic, sheen, otk, os, ost, freezing-oil, activity:spectrometry-sampling
 author: Matej
 path: /notes/Matej/11-13-2015/separating-oil-from-water-by-freezing-the-water.md

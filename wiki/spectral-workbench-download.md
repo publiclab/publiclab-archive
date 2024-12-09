@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench download
+title: 'Spectral Workbench download'
 tagnames: 
 author: warren
 path: /wiki/spectral-workbench-download.md

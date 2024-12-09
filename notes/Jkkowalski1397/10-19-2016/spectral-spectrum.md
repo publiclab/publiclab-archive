@@ -1,5 +1,5 @@
 ---
-title: Spectral spectrum
+title: 'Spectral spectrum'
 tagnames: hidden:response, response:13586
 author: Jkkowalski1397
 path: /notes/Jkkowalski1397/10-19-2016/spectral-spectrum.md

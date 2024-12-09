@@ -1,5 +1,5 @@
 ---
-title: Aerial Photography Rigging Needs
+title: 'Aerial Photography Rigging Needs'
 tagnames: balloon-mapping, kite-mapping, kite, photo-rig, balloon, feedback, reconfigurable-rig
 author: mathew
 path: /notes/mathew/06-24-2016/aerial-photography-rigging-needs.md

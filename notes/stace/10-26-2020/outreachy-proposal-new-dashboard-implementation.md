@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: New Dashboard Implementation
+title: 'Outreachy proposal: New Dashboard Implementation'
 tagnames: software, first-time-poster, lat:1.010689, lon:9.997558, zoom:6, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
 author: stace
 path: /notes/stace/10-26-2020/outreachy-proposal-new-dashboard-implementation.md

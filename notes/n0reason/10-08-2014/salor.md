@@ -1,5 +1,5 @@
 ---
-title: S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)
+title: 'S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)'
 tagnames: gps, umass-amherst, oxygen, amherst-media, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, rov, location:blurred, nitrogen, lat:42.3, submersible, lon:-72.5, project:water-quality, openrov
 author: n0reason
 path: /notes/n0reason/10-08-2014/salor.md

@@ -1,5 +1,5 @@
 ---
-title: North Shore Community Resiliency Assessment Memorandum
+title: 'North Shore Community Resiliency Assessment Memorandum'
 tagnames: new-york-city, stormwater, staten-island, environmental-justice
 author: liz
 path: /notes/liz/11-13-2015/north-shore-community-resiliency-assessment-memorandum.md

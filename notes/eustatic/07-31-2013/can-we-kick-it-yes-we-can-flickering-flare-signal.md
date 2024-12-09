@@ -1,5 +1,5 @@
 ---
-title: Can we kick it?  Yes we can. Signal from a Flickering Refinery Flare 
+title: 'Can we kick it?  Yes we can. Signal from a Flickering Refinery Flare '
 tagnames: gulf-coast, spectrometer, spectrometry, flare, chalmette, distance-spectrometry
 author: eustatic
 path: /07-31-2013/can-we-kick-it-yes-we-can-flickering-flare-signal.md

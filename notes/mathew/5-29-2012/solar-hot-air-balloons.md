@@ -1,5 +1,5 @@
 ---
-title: Solar Hot Air Balloons
+title: 'Solar Hot Air Balloons'
 tagnames: balloon-mapping, solar-balloon, hot-air-balloon, diy-balloon
 author: mathew
 path: /notes/mathew/5-29-2012/solar-hot-air-balloons.md

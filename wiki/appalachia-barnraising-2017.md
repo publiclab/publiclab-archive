@@ -1,5 +1,5 @@
 ---
-title: Appalachia Barnraising 2017
+title: 'Appalachia Barnraising 2017'
 tagnames: barnraising, appalachia-barnraising
 author: stevie
 path: /wiki/appalachia-barnraising-2017.md

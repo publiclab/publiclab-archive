@@ -1,5 +1,5 @@
 ---
-title: Glossary of Terms 
+title: 'Glossary of Terms '
 tagnames: 
 author: stevie
 path: /wiki/glossary-of-terms.md

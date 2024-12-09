@@ -1,5 +1,5 @@
 ---
-title: The JerkPan
+title: 'The JerkPan'
 tagnames: kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, kaptery, response:12601, aerobee, jerkpan, activity:photo-rig, category:design
 author: cfastie
 path: /notes/cfastie/01-27-2016/the-jerkpan.md

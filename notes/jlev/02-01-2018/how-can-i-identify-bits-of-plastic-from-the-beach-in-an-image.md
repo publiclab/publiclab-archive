@@ -1,5 +1,5 @@
 ---
-title: How can I identify bits of plastic from the beach in an image?
+title: 'How can I identify bits of plastic from the beach in an image?'
 tagnames: image-processing, waste, micro-plastics, question:general, question:microscope, beach, question:microplastics, microplastics, plastics, particle-imaging, polymers, question:image-sequencer, question:waste, question:plastics
 author: jlev
 path: /notes/jlev/02-01-2018/how-can-i-identify-bits-of-plastic-from-the-beach-in-an-image.md

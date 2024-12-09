@@ -1,5 +1,5 @@
 ---
-title: Riffle Power Consumption
+title: 'Riffle Power Consumption'
 tagnames: riffle, low-power, riffle-beta, riffle-examples
 author: kinasmith
 path: /notes/kinasmith/06-09-2016/riffle-power-consumption.md

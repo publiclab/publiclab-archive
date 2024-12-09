@@ -1,5 +1,5 @@
 ---
-title: Activity: Learning to Spot Lichens and Mosses
+title: 'Activity: Learning to Spot Lichens and Mosses'
 tagnames: air-quality, moss, new, lichen, difficulty:easy, category:observe, time:1h, activity:air-quality, activity:new, nature-walk, research-curation-fellows, bioindicators, activity:bioindicators, activity:lichen
 author: fongvania
 path: /notes/fongvania/07-21-2021/learning-to-spot-lichens-and-mosses.md

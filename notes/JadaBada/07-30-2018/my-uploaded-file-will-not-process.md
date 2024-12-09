@@ -1,5 +1,5 @@
 ---
-title: My uploaded file will not process.
+title: 'My uploaded file will not process.'
 tagnames: spectrometer, spectral-workbench, barnstar:basic, question:spectral-workbench
 author: JadaBada
 path: /notes/JadaBada/07-30-2018/my-uploaded-file-will-not-process.md

@@ -1,5 +1,5 @@
 ---
-title: What is the best light source to use for the basic microscope?  
+title: 'What is the best light source to use for the basic microscope?  '
 tagnames: microscope, question:basic-microscope, basic-microscope, question:community-microscope
 author: stevie
 path: /notes/stevie/01-22-2018/what-is-the-best-light-source-to-use-for-the-basic-microscope.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of BOSSD site
+title: 'MapKnitter map of BOSSD site'
 tagnames: mapknitter, zoom:16, lat:17.9561450468, lon:-88.7280863849, lat:17.956137, lon:-88.728096
 author: patcoyle
 path: /notes/patcoyle/08-20-2021/mapknitter-map-of-bossd-site.md

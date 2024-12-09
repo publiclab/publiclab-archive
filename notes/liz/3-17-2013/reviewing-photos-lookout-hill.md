@@ -1,5 +1,5 @@
 ---
-title: Reviewing photos from Lookout Hill
+title: 'Reviewing photos from Lookout Hill'
 tagnames: new-york-city, lookout-hill, prospect-park
 author: liz
 path: /notes/liz/3-17-2013/reviewing-photos-lookout-hill.md

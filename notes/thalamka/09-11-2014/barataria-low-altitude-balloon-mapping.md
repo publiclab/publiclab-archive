@@ -1,5 +1,5 @@
 ---
-title: Barataria Low Altitude Balloon Mapping
+title: 'Barataria Low Altitude Balloon Mapping'
 tagnames: gulf-coast, barataria-bay, mapknitter, barataria, washustlouis, washu-stlouis, bird
 author: thalamka
 path: /notes/thalamka/09-11-2014/barataria-low-altitude-balloon-mapping.md

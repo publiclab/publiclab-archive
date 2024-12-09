@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping Presentation & Demonstration - Burlington County GIS Day
+title: 'Balloon Mapping Presentation & Demonstration - Burlington County GIS Day'
 tagnames: philadelphia, event, replication:14022
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/11-12-2013/balloon-mapping-presentation-demonstration-burlington-county-gis-day.md

@@ -1,5 +1,5 @@
 ---
-title: what are the requirements of a camera for Filter replacement and NDVI imaging?
+title: 'what are the requirements of a camera for Filter replacement and NDVI imaging?'
 tagnames: near-infrared-camera, ndvi, filter, infragram, cameras, question:infragram, answered, question:infrared
 author: Ajith_Kumar
 path: /notes/Ajith_Kumar/10-10-2016/what-are-the-requirements-of-a-camera-for-filter-replacement-and-ndvi-imaging.md

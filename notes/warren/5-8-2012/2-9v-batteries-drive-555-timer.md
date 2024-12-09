@@ -1,5 +1,5 @@
 ---
-title: 2 9v batteries to drive 555 timer
+title: '2 9v batteries to drive 555 timer'
 tagnames: near-infrared-camera, 555-timer
 author: warren
 path: /notes/warren/5-8-2012/2-9v-batteries-drive-555-timer.md

@@ -1,5 +1,5 @@
 ---
-title: Horticultural Spectrometer - Assembly
+title: 'Horticultural Spectrometer - Assembly'
 tagnames: spectrometer, spectrometry, lego, lego-spectrometer, horticulture, response:18991
 author: jenjimah
 path: /notes/jenjimah/05-30-2019/horticultural-spectrometer-assembly.md

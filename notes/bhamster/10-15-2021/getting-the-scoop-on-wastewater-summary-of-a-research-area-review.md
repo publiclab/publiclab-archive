@@ -1,5 +1,5 @@
 ---
-title: Getting the scoop on Wastewater: Summary of a research area review
+title: 'Getting the scoop on Wastewater: Summary of a research area review'
 tagnames: sewage, water-quality, stormwater, wastewater, reviews, research-area-review, pin:water-quality, with:alejobonifacio
 author: bhamster
 path: /notes/bhamster/10-15-2021/getting-the-scoop-on-wastewater-summary-of-a-research-area-review.md

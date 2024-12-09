@@ -1,5 +1,5 @@
 ---
-title: Dual camera kit electronics
+title: 'Dual camera kit electronics'
 tagnames: near-infrared-camera
 author: warren
 path: /wiki/dual-camera-kit-electronics.md

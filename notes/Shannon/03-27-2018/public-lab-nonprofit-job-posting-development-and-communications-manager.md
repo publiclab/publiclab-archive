@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit job posting: Development and Communications Manager
+title: 'Public Lab nonprofit job posting: Development and Communications Manager'
 tagnames: nonprofit, jobs, job
 author: Shannon
 path: /notes/Shannon/03-27-2018/public-lab-nonprofit-job-posting-development-and-communications-manager.md

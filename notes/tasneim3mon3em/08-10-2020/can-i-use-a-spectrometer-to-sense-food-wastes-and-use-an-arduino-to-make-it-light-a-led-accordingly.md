@@ -1,5 +1,5 @@
 ---
-title: can i use a spectrometer to sense food wastes and use an arduino to make it light a led accordingly?
+title: 'can i use a spectrometer to sense food wastes and use an arduino to make it light a led accordingly?'
 tagnames: spectrometer, arduino, spectrometry, waste, question:spectrometer, question:spectrometry, question:arduino, question:waste, first-time-poster
 author: tasneim3mon3em
 path: /notes/tasneim3mon3em/08-10-2020/can-i-use-a-spectrometer-to-sense-food-wastes-and-use-an-arduino-to-make-it-light-a-led-accordingly.md

@@ -1,5 +1,5 @@
 ---
-title: Spectronic 20 spectrometer for comparison to our own
+title: 'Spectronic 20 spectrometer for comparison to our own'
 tagnames: spectrometer, calibration
 author: warren
 path: /notes/warren/12-7-2012/spectronic-20-spectrometer-comparison-our-own.md

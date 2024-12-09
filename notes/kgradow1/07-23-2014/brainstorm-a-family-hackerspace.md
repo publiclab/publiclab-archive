@@ -1,5 +1,5 @@
 ---
-title: Brainstorm a Family Hackerspace!
+title: 'Brainstorm a Family Hackerspace!'
 tagnames: somerville-massachusetts, boston, partsandcrafts, event, somerville, events:boston, event:rsvp, date:07-24-2014
 author: kgradow1
 path: /notes/kgradow1/07-23-2014/brainstorm-a-family-hackerspace.md

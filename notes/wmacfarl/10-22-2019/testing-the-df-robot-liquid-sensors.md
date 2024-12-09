@@ -1,5 +1,5 @@
 ---
-title: Testing the DF Robot Liquid Sensors
+title: 'Testing the DF Robot Liquid Sensors'
 tagnames: arduino, sensors, new, draft, activity:new, dfrobot, oil-and-gas-water-trio, activity:oil-and-gas-water-trio
 author: wmacfarl
 path: /notes/wmacfarl/10-22-2019/testing-the-df-robot-liquid-sensors.md

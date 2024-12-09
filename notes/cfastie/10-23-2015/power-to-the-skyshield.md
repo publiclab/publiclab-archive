@@ -1,5 +1,5 @@
 ---
-title: Power to the SkyShield
+title: 'Power to the SkyShield'
 tagnames: kite-mapping, vermont, kite, saturnv, skyshield, response:12323
 author: cfastie
 path: /notes/cfastie/10-23-2015/power-to-the-skyshield.md

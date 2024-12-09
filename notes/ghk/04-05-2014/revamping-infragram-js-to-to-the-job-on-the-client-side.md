@@ -1,5 +1,5 @@
 ---
-title: Revamping infragram.js to to the job on the client side
+title: 'Revamping infragram.js to to the job on the client side'
 tagnames: near-infrared-camera, near-infrared, infragram, camera, first-time-poster
 author: ghk
 path: /notes/ghk/04-05-2014/revamping-infragram-js-to-to-the-job-on-the-client-side.md

@@ -1,5 +1,5 @@
 ---
-title: Infrablue minutiae
+title: 'Infrablue minutiae'
 tagnames: ndvi, vermont, white-balance, infragram, infrablue, cmos, response:8869, ccd, response:8900, metadata, standardization, data-collection
 author: cfastie
 path: /notes/cfastie/07-17-2013/infrablue-minutiae.md

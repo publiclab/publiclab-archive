@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal: v2 API development and third party app integrations
+title: 'GSoC Proposal: v2 API development and third party app integrations'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-api, first-time-poster
 author: sukhbir
 path: /notes/sukhbir/03-02-2018/gsoc-proposal-v2-api-development-and-providing-support-to-3rd-party-app-integrations.md

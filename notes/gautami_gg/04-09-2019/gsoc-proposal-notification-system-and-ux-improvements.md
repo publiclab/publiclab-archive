@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal : Notification System and UX Improvements
+title: 'GSoC Proposal : Notification System and UX Improvements'
 tagnames: gsoc, gsoc-proposal, summer-of-code
 author: gautami_gg
 path: /notes/gautami_gg/04-09-2019/gsoc-proposal-notification-system-and-ux-improvements.md

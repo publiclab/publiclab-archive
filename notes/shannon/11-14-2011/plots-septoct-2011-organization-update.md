@@ -1,5 +1,5 @@
 ---
-title: PLOTS Sept/Oct 2011 organization update
+title: 'PLOTS Sept/Oct 2011 organization update'
 tagnames: 
 author: Shannon
 path: /notes/shannon/11-14-2011/plots-septoct-2011-organization-update.md

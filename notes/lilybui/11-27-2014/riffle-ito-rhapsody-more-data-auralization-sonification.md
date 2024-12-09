@@ -1,5 +1,5 @@
 ---
-title: Riffle-ito Rhapsody: More Data Auralization/Sonification
+title: 'Riffle-ito Rhapsody: More Data Auralization/Sonification'
 tagnames: water, data, riffle, quality, openwater, coqui, riffle-examples, sound
 author: lilybui
 path: /notes/lilybui/11-27-2014/riffle-ito-rhapsody-more-data-auralization-sonification.md

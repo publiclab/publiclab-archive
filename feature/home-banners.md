@@ -1,5 +1,5 @@
 ---
-title: home-banners
+title: 'home-banners'
 tagnames: 
 author: warren
 path: /feature/home-banners.md

@@ -1,5 +1,5 @@
 ---
-title: About Hydrogen Sulfide Research Paper:  "Materializing Exposure"
+title: 'About Hydrogen Sulfide Research Paper:  "Materializing Exposure"'
 tagnames: 
 author: sara
 path: /notes/Sara/09-13-2017/about-hydrogen-sulfide-research-paper-materializing-exposure.md

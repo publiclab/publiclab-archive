@@ -1,5 +1,5 @@
 ---
-title: 5 Awesome Tech Moments at Open Hardware Summit #tech #opensource #Arduino #raspberrypi #diy #science
+title: '5 Awesome Tech Moments at Open Hardware Summit #tech #opensource #Arduino #raspberrypi #diy #science'
 tagnames: arduino, boston, open-source, open-hardware, event, massachusetts, northeast, oshwa
 author: zengirl2
 path: /notes/Zengirl2/10-04-2018/5-awesome-tech-moments-at-open-hardware-summit-tech-opensource-arduino-raspberrypi-diy-science.md

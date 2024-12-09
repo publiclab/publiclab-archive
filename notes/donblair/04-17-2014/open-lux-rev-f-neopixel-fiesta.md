@@ -1,5 +1,5 @@
 ---
-title: Open-Lux REV-F: "NeoPixel" Fiesta!
+title: 'Open-Lux REV-F: "NeoPixel" Fiesta!'
 tagnames: thermal-photography, open-hardware, calibration, thermal-flashlight, spectrometer-calibration, intensity-calibration, thermal-imaging, thermal-fishing, open-lux
 author: donblair
 path: /notes/donblair/04-17-2014/open-lux-rev-f-neopixel-fiesta.md

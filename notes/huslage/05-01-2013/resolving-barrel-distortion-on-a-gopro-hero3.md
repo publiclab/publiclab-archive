@@ -1,5 +1,5 @@
 ---
-title: Resolving Barrel Distortion on a GoPro Hero3
+title: 'Resolving Barrel Distortion on a GoPro Hero3'
 tagnames: balloon-mapping, development, distortion, fisheye
 author: huslage
 path: /notes/huslage/05-01-2013/resolving-barrel-distortion-on-a-gopro-hero3.md

@@ -1,5 +1,5 @@
 ---
-title: Ranon reconfigures the rig
+title: 'Ranon reconfigures the rig'
 tagnames: balloon-mapping, vermont, kite-aerial-photography, polemapping, kap, autokap, landscape, kap-rigs, reconfigurable-rig, response:13267, category:test-limits, activity:camera-rigs
 author: cfastie
 path: /notes/cfastie/08-27-2016/ranon-reconfigures-the-rig.md

@@ -1,5 +1,5 @@
 ---
-title: Can the New Auburn, WI Recreation Area be used to identify downwind dust from Great Northern Sand?
+title: 'Can the New Auburn, WI Recreation Area be used to identify downwind dust from Great Northern Sand?'
 tagnames: wisconsin, dust, frac-sand, pm, pm-monitoring, question:pm-monitoring, pdr-1500, question:frac-sand, optical-pm
 author: mathew
 path: /notes/mathew/03-15-2017/can-the-new-auburn-wi-recreation-area-be-used-to-identify-downwind-dust-from-great-northern-sand.md

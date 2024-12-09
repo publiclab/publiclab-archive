@@ -1,5 +1,5 @@
 ---
-title: The Cartography and Geographic Information Society Map Design Competition
+title: 'The Cartography and Geographic Information Society Map Design Competition'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/10-15-2012/cartography-and-geographic-information-society-map-design-competition.md

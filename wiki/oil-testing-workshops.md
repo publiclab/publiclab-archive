@@ -1,5 +1,5 @@
 ---
-title: Oil Testing Workshops
+title: 'Oil Testing Workshops'
 tagnames: workshop, workshops, oil-testing-kit, parent:diy-oil-testing
 author: liz
 path: /wiki/oil-testing-workshops.md

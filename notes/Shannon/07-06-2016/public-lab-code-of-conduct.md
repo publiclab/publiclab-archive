@@ -1,5 +1,5 @@
 ---
-title: Public Lab Code of Conduct
+title: 'Public Lab Code of Conduct'
 tagnames: blog, with:thegreencommunitygarden, with:liz, with:nshapiro, with:klie
 author: Shannon
 path: /notes/Shannon/07-06-2016/public-lab-code-of-conduct.md

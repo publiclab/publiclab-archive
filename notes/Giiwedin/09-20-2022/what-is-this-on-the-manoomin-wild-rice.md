@@ -1,5 +1,5 @@
 ---
-title: What is this on the Manoomin, wild rice?
+title: 'What is this on the Manoomin, wild rice?'
 tagnames: lake, fungus, biodiversity, wild-rice, mn-land-manoomin-protection, manoomin, wildrice, aquatic-species, aquatuc-species
 author: Giiwedin
 path: /notes/Giiwedin/09-20-2022/what-is-this-on-the-manoomin-wild-rice.md

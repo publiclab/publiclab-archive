@@ -1,5 +1,5 @@
 ---
-title: Paper spectrometer for phone: modification for hard-to-peel cd roms
+title: 'Paper spectrometer for phone: modification for hard-to-peel cd roms'
 tagnames: kits, spectrometry, assembly, foldable, papercraft, onboarding, foldable-spec, introductory, replication:15276
 author: Harristotle
 path: /notes/Harristotle/01-14-2018/paper-spectrometer-for-phone-modification-for-hard-to-peel-cd-roms.md

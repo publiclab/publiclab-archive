@@ -1,5 +1,5 @@
 ---
-title: Hg light
+title: 'Hg light'
 tagnames: 
 author: jienes
 path: /notes/jienes/07-01-2015/hg-light.md

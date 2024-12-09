@@ -1,5 +1,5 @@
 ---
-title: Some Thoughts on Sensor Journalism 
+title: 'Some Thoughts on Sensor Journalism '
 tagnames: journalism, sensor, sensor-journalism, emersondataviz
 author: mattmullen
 path: /notes/mattmullen/02-25-2015/some-thoughts-on-sensor-journalism.md

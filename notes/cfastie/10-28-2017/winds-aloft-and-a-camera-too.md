@@ -1,5 +1,5 @@
 ---
-title: Winds aloft: and a camera too
+title: 'Winds aloft: and a camera too'
 tagnames: kite-mapping, arduino, kite-aerial-photography, nasa, kite, anemometer, wind-speed-meter, sensors, wind, saturnv, skyshield, data-logging, skypod, ublox, series:diy-wind-sensors, skypod-gps-logger, activity:skypod-gps-logger, wind-speed, aeropod, activity:wind-speed, activity:as220-wind-sensors, activity:aren
 author: cfastie
 path: /notes/cfastie/10-28-2017/winds-aloft-and-a-camera-too.md

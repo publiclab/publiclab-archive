@@ -1,5 +1,5 @@
 ---
-title: My Journey in Open Source (GSoC’19)
+title: 'My Journey in Open Source (GSoC’19)'
 tagnames: open-source, open-source-communities, soc, gsoc-2019, soc-2019, gsoc-19
 author: IshaGupta18
 path: /notes/IshaGupta18/06-24-2019/my-journey-in-open-source-gsoc-19.md

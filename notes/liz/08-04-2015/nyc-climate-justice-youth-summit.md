@@ -1,5 +1,5 @@
 ---
-title: NYC Climate Justice Youth Summit
+title: 'NYC Climate Justice Youth Summit'
 tagnames: new-york-city, event, climate-change, climate, event:rsvp, rsvp:liz, date:08-06-2015
 author: liz
 path: /notes/liz/08-04-2015/nyc-climate-justice-youth-summit.md

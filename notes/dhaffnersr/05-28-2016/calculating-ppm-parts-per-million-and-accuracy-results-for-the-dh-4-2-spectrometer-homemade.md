@@ -1,5 +1,5 @@
 ---
-title: Calculating PPM (parts per million) and Accuracy results for The DH 4.2 spectrometer (homemade) 
+title: 'Calculating PPM (parts per million) and Accuracy results for The DH 4.2 spectrometer (homemade) '
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-28-2016/calculating-ppm-parts-per-million-and-accuracy-results-for-the-dh-4-2-spectrometer-homemade.md

@@ -1,5 +1,5 @@
 ---
-title: Mobius NDVI
+title: 'Mobius NDVI'
 tagnames: near-infrared-camera, ndvi, vermont, infrared, white-balance, infragram, mobius-actioncam, wratten25a, super-red, mobius, msetup, response:10353, activity:multispectral-imaging, activity:infragram
 author: cfastie
 path: /notes/cfastie/04-26-2014/mobius-ndvi.md

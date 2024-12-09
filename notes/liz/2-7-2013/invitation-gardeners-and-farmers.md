@@ -1,5 +1,5 @@
 ---
-title: Invitation to Gardeners and Farmers
+title: 'Invitation to Gardeners and Farmers'
 tagnames: 5bf, five-borough-farm, urban-ag, community-garden, food
 author: liz
 path: /notes/liz/2-7-2013/invitation-gardeners-and-farmers.md

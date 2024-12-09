@@ -1,5 +1,5 @@
 ---
-title: poor focus after conversion of Ixus 40 (SD300)
+title: 'poor focus after conversion of Ixus 40 (SD300)'
 tagnames: seeks:replications, activity:infrared-camera-conversion, infrared-camera-conversion, first-time-poster
 author: shinnen
 path: /notes/shinnen/06-13-2018/poor-focus-after-conversion-of-ixus-40-sd300.md

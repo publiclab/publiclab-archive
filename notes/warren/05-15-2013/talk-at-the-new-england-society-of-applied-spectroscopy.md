@@ -1,5 +1,5 @@
 ---
-title: Talk at the New England Society of Applied Spectroscopy
+title: 'Talk at the New England Society of Applied Spectroscopy'
 tagnames: spectrometer, presentation, nesas
 author: warren
 path: /notes/warren/05-15-2013/talk-at-the-new-england-society-of-applied-spectroscopy.md

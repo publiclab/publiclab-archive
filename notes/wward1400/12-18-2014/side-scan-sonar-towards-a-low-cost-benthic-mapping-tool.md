@@ -1,5 +1,5 @@
 ---
-title: Side Scan Sonar: Towards a Low Cost Benthic Mapping Tool
+title: 'Side Scan Sonar: Towards a Low Cost Benthic Mapping Tool'
 tagnames: gulf-coast, water-sensing, water-quality, rivers, aquatic-monitoring, side-imaging, side-scan-sonar, fish-sonar
 author: wward1400
 path: /notes/wward1400/12-18-2014/side-scan-sonar-towards-a-low-cost-benthic-mapping-tool.md

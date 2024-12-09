@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Chain of Rocks Canal 160218
+title: 'MapKnitter map of Chain of Rocks Canal 160218'
 tagnames: mapknitter, lat:38.7640388, lon:-90.1343868, first-time-poster
 author: micahs
 path: /notes/micahs/02-18-2016/mapknitter-map-of-chain-of-rocks-canal-160218.md

@@ -1,5 +1,5 @@
 ---
-title: Red Filter Rising
+title: 'Red Filter Rising'
 tagnames: near-infrared-camera, nrg, vermont, infrared, conversion, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, response:9744, scattering, nbn, nnr, super-red
 author: cfastie
 path: /notes/cfastie/11-12-2013/red-filter-rising.md

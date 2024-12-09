@@ -1,5 +1,5 @@
 ---
-title: How to use Alkaline Batteries with the Riffle?
+title: 'How to use Alkaline Batteries with the Riffle?'
 tagnames: riffle, question:riffle, answered
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/03-09-2017/how-to-use-alkaline-batteries-with-the-riffle.md

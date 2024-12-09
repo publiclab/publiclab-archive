@@ -1,5 +1,5 @@
 ---
-title: What's the best way to archive/store a timelapse video?
+title: 'What's the best way to archive/store a timelapse video?'
 tagnames: photo-monitoring, timelapse, question:timelapse, method82, smoke-school, question:evidence, question:legal, law-and-policy, question:law-and-policy
 author: warren
 path: /notes/warren/09-16-2016/what-s-the-best-way-to-archive-store-a-timelapse-video.md

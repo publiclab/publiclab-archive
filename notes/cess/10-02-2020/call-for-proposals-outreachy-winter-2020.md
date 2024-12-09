@@ -1,5 +1,5 @@
 ---
-title: Call for Proposals Outreachy Winter 2020
+title: 'Call for Proposals Outreachy Winter 2020'
 tagnames: with:warren, with:liz, seeks:responses, outreachy, lat:-1, call-for-proposals, with:sagarpreet, zoom:6, lon:35
 author: cess
 path: /notes/cess/10-02-2020/call-for-proposals-outreachy-winter-2020.md

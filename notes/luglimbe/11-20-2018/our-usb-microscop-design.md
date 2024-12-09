@@ -1,5 +1,5 @@
 ---
-title: Our usb microscop design
+title: 'Our usb microscop design'
 tagnames: event, location:blurred, lat:0, lon:10, community-microscope, cameroon, replication:17503
 author: luglimbe
 path: /notes/luglimbe/11-20-2018/our-usb-microscop-design.md

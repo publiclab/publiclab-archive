@@ -1,5 +1,5 @@
 ---
-title: How useful is a map?
+title: 'How useful is a map?'
 tagnames: balloon-mapping, mapping, evaluation, lebanon, middle-east, bourjalshamali, indicators, usefulness, dialogue, silvarclark
 author: clauds
 path: /notes/clauds/12-17-2016/how-useful-is-a-map.md

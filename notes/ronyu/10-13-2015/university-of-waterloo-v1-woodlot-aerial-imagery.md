@@ -1,5 +1,5 @@
 ---
-title: University of Waterloo V1/Woodlot Aerial Imagery
+title: 'University of Waterloo V1/Woodlot Aerial Imagery'
 tagnames: mapknitter, lat:43.470245798, lon:-80.5475735664, first-time-poster
 author: ronyu
 path: /notes/ronyu/10-13-2015/university-of-waterloo-v1-woodlot-aerial-imagery.md

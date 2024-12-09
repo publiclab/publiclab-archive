@@ -1,5 +1,5 @@
 ---
-title: Weeks Bay Kite Training
+title: 'Weeks Bay Kite Training'
 tagnames: kite-mapping, gulf-restoration-network, event, gulf-coast
 author: eustatic
 path: /3-29-2013/weeks-bay-kite-training.md

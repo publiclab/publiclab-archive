@@ -1,5 +1,5 @@
 ---
-title: What are the relative rates of hydrogen sulfide oxidation in ambient air?
+title: 'What are the relative rates of hydrogen sulfide oxidation in ambient air?'
 tagnames: hydrogen-sulfide, h2s, question:air-quality, question:h2s, question:hydrogen-sulfide, question:h2s-copper-pipe
 author: gretchengehrke
 path: /notes/gretchengehrke/09-08-2017/what-are-the-relative-rates-of-hydrogen-sulfide-oxidation-in-ambient-air.md

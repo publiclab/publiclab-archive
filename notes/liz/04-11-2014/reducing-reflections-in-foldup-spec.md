@@ -1,5 +1,5 @@
 ---
-title: reducing reflections in foldup spec
+title: 'reducing reflections in foldup spec'
 tagnames: spectrometer, fold-up, reflection
 author: liz
 path: /notes/liz/04-11-2014/reducing-reflections-in-foldup-spec.md

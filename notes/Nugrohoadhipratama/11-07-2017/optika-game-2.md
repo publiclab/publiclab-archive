@@ -1,5 +1,5 @@
 ---
-title: Optika Game 2
+title: 'Optika Game 2'
 tagnames: 
 author: Nugrohoadhipratama
 path: /notes/Nugrohoadhipratama/11-07-2017/optika-game-2.md

@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Curriculum
+title: 'Spectrometer Curriculum'
 tagnames: spectrometer, education, curriculum
 author: PeterDavidowicz
 path: /wiki/spectrometer-curriculum.md

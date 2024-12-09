@@ -1,5 +1,5 @@
 ---
-title: Aspen Leaf Miner
+title: 'Aspen Leaf Miner'
 tagnames: near-infrared-camera, ndvi, infrared, alaska, infragram, infrablue, insects, activity:multispectral-imaging
 author: cfastie
 path: /notes/cfastie/07-10-2013/aspen-leaf-miner.md

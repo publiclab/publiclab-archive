@@ -1,5 +1,5 @@
 ---
-title: Meeting Notes
+title: 'Meeting Notes'
 tagnames: 
 author: warren
 path: /wiki/meeting-notes.md

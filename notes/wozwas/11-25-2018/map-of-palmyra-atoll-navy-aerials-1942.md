@@ -1,5 +1,5 @@
 ---
-title: Map of Palmyra Atoll - Navy Aerials 1942
+title: 'Map of Palmyra Atoll - Navy Aerials 1942'
 tagnames: mapknitter, first-time-poster, lat:5.8806833722, lon:-162.0766059682
 author: wozwas
 path: /notes/wozwas/11-25-2018/map-of-palmyra-atoll-navy-aerials-1942.md

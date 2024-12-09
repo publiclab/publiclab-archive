@@ -1,5 +1,5 @@
 ---
-title: KAP Flight over Pacifica State Beach, CA
+title: 'KAP Flight over Pacifica State Beach, CA'
 tagnames: kite-mapping
 author: MicheleTobias
 path: /notes/micheletobias/2-20-2012/kap-flight-over-pacifica-state-beach-ca.md

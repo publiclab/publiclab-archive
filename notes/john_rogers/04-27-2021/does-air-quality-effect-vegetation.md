@@ -1,5 +1,5 @@
 ---
-title: Does air quality effect vegetation?
+title: 'Does air quality effect vegetation?'
 tagnames: question:general, general, first-time-poster
 author: john_rogers
 path: /notes/john_rogers/04-27-2021/does-air-quality-effect-vegetation.md

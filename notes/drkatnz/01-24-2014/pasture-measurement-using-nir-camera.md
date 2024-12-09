@@ -1,5 +1,5 @@
 ---
-title: Pasture measurement using NIR camera
+title: 'Pasture measurement using NIR camera'
 tagnames: near-infrared-camera, nir, infrared, filter, infragram, infrablue, canon, grass, pasture, measurement, crops, activity:infragram
 author: drkatnz
 path: /notes/drkatnz/01-24-2014/pasture-measurement-using-nir-camera.md

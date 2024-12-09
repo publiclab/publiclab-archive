@@ -1,5 +1,5 @@
 ---
-title: Step 3: Review what others have translated (draft)
+title: 'Step 3: Review what others have translated (draft)'
 tagnames: community, website, localization, translation, language, activity:localization
 author: liz
 path: /notes/liz/10-26-2016/review-what-others-have-translated-draft.md

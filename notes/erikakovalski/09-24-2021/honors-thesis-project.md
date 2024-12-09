@@ -1,5 +1,5 @@
 ---
-title: Honors Thesis Project
+title: 'Honors Thesis Project'
 tagnames: first-time-poster, zoom:6, lat:42.386759, lon:-72.530051
 author: erikakovalski
 path: /notes/erikakovalski/09-24-2021/honors-thesis-project.md

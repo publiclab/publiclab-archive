@@ -1,5 +1,5 @@
 ---
-title: What is the best way to formalize connecting needs with offers?
+title: 'What is the best way to formalize connecting needs with offers?'
 tagnames: hurricane, coordinating, harvey, hurricanes, storms, harvey-response, question:harvey, irma, ajustharveyrecovery, harvey-needs, question:matchmaking, question:coordination, question:organizers, question:requests
 author: bsugar
 path: /notes/bsugar/09-08-2017/what-is-the-best-way-to-formalize-connecting-needs-with-offers.md

@@ -1,5 +1,5 @@
 ---
-title: Automating NDVI calibration
+title: 'Automating NDVI calibration'
 tagnames: ndvi, calibration, infrared, infragram, response:10389, response:10607, ndvi-calibrate, midopt
 author: nedhorning
 path: /notes/nedhorning/06-30-2015/automating-ndvi-calibration.md

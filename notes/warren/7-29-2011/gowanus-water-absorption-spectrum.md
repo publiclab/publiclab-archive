@@ -1,5 +1,5 @@
 ---
-title: Gowanus water absorption spectrum
+title: 'Gowanus water absorption spectrum'
 tagnames: new-york-city, spectrometer, gowanus, absorption
 author: warren
 path: /notes/warren/7-29-2011/gowanus-water-absorption-spectrum.md

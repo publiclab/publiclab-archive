@@ -1,5 +1,5 @@
 ---
-title: Kidder Point. Facilitating EPA with citizen science & historic documents. DRAFT
+title: 'Kidder Point. Facilitating EPA with citizen science & historic documents. DRAFT'
 tagnames: epa, maine, northeast, gac-chemical, penobscot-bay, stockton-harbor
 author: ronhuber
 path: /notes/RonHuber/07-29-2014/kidder-point-facilitating-epa-with-citizen-science-historic-documents-draft.md

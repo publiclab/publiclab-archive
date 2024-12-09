@@ -1,5 +1,5 @@
 ---
-title: 2014 State of the Map Sprint at Red Cross
+title: '2014 State of the Map Sprint at Red Cross'
 tagnames: list:plots-baltimore-dc
 author: willie
 path: /wiki/2014-state-of-the-map-sprint-at-red-cross.md

@@ -1,5 +1,5 @@
 ---
-title: Prerequisite Before Posting New Wiki
+title: 'Prerequisite Before Posting New Wiki'
 tagnames: question:general, general, first-time-poster
 author: nicoleiocana
 path: /notes/nicoleiocana/04-05-2020/prerequisite-before-posting-new-wiki.md

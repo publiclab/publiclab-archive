@@ -1,5 +1,5 @@
 ---
-title: Reflectance spectrometry
+title: 'Reflectance spectrometry'
 tagnames: spectrometer, reflectance
 author: dmdc
 path: /notes/dmdc/4-30-2013/reflectance-spectrometry.md

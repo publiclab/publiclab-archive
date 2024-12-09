@@ -1,5 +1,5 @@
 ---
-title: Public Lab Jobs
+title: 'Public Lab Jobs'
 tagnames: jobs, redirect:27206
 author: Shannon
 path: /wiki/public-lab-jobs.md

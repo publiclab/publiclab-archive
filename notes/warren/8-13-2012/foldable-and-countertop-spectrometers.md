@@ -1,5 +1,5 @@
 ---
-title: Foldable and "countertop" spectrometers
+title: 'Foldable and "countertop" spectrometers'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/8-13-2012/foldable-and-countertop-spectrometers.md

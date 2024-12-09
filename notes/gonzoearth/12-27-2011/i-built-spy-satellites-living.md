@@ -1,5 +1,5 @@
 ---
-title: "I built spy satellites for a living"
+title: '"I built spy satellites for a living"'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/12-27-2011/i-built-spy-satellites-living.md

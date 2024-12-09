@@ -1,5 +1,5 @@
 ---
-title: Welcome to Public Lab
+title: 'Welcome to Public Lab'
 tagnames: community, website, welcome, getting-started, newcomers, onboarding, style:minimal, content
 author: warren
 path: /wiki/welcome.md

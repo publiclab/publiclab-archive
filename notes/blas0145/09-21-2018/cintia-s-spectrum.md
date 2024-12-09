@@ -1,5 +1,5 @@
 ---
-title: Cintia's Spectrum
+title: 'Cintia's Spectrum'
 tagnames: 
 author: blas0145
 path: /notes/blas0145/09-21-2018/cintia-s-spectrum.md

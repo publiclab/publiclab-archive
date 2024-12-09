@@ -1,5 +1,5 @@
 ---
-title: Now shipping open source spectrometers!! Plus iOS/Android & preorders
+title: 'Now shipping open source spectrometers!! Plus iOS/Android & preorders'
 tagnames: spectrometer, retail, kickstarter
 author: warren
 path: /notes/warren/12-14-2012/now-shipping-open-source-spectrometers-plus-iosandroid-preorders.md

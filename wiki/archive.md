@@ -1,5 +1,5 @@
 ---
-title: The PLOTS Archive
+title: 'The PLOTS Archive'
 tagnames: 
 author: warren
 path: /wiki/archive.md

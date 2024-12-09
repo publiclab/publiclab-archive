@@ -1,5 +1,5 @@
 ---
-title: How to tell if my filter is a Rosco 19
+title: 'How to tell if my filter is a Rosco 19'
 tagnames: infragram, seeks:replications, activity:infragram
 author: shinnen
 path: /notes/shinnen/03-15-2019/how-to-tell-if-my-filter-is-a-rosco-19.md

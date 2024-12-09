@@ -1,5 +1,5 @@
 ---
-title: pole-mapping kit, camera rig issues...
+title: 'pole-mapping kit, camera rig issues...'
 tagnames: question:general, response:11661
 author: pataxte
 path: /notes/pataxte/07-02-2019/pole-mapping-kit-camera-rig-issues.md

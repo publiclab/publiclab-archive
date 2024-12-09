@@ -1,5 +1,5 @@
 ---
-title: Question: "live" compare to camera feed
+title: 'Question: "live" compare to camera feed'
 tagnames: troubleshooting, software, spectral-workbench, question:spectral-workbench, answered
 author: wecapa
 path: /notes/wecapa/03-23-2015/question-live-compare-to-camera-feed.md

@@ -1,5 +1,5 @@
 ---
-title: CFL Cal Error Explained
+title: 'CFL Cal Error Explained'
 tagnames: spectrometer, cfl
 author: stoft
 path: /notes/stoft/03-02-2015/cfl-cal-error-explained.md

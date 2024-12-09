@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (1153 Westminster Street)
+title: 'Art in Ruins (1153 Westminster Street)'
 tagnames: hidden:response, unearthing-pvd-stories, lat:41.81706558, lon:-71.42778456, lat:41.817065, lon:-71.427784, zoom:13, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/art-in-ruins-1153-westminster-street.md

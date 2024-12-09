@@ -1,5 +1,5 @@
 ---
-title: Does the Beer Lambert law apply to the opacity of reagents?
+title: 'Does the Beer Lambert law apply to the opacity of reagents?'
 tagnames: beers-law, concentration, reagents, question:spectrometry, answered, beer-lambert-law, opacity, question:spectrometry-turbidity, question:reagents, question:beers-law, question:concentration, question:opacity, question:spectrometry-reagents
 author: warren
 path: /notes/warren/11-20-2017/does-the-beer-lambert-law-apply-to-the-opacity-of-reagents.md

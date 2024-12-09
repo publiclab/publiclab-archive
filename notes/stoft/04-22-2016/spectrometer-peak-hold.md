@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Peak-Hold
+title: 'Spectrometer Peak-Hold'
 tagnames: spectrometer, desktop-spectrometer, noise-reduction, signal-to-noise-ratio, noise
 author: stoft
 path: /notes/stoft/04-22-2016/spectrometer-peak-hold.md

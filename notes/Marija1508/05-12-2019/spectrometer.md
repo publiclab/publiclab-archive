@@ -1,5 +1,5 @@
 ---
-title: spectrometer
+title: 'spectrometer'
 tagnames: for, school, first-time-poster, lat:44.801326, lon:19.747126
 author: Marija1508
 path: /notes/Marija1508/05-12-2019/spectrometer.md

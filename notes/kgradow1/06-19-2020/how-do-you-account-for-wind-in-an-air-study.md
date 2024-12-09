@@ -1,5 +1,5 @@
 ---
-title: How do you account for wind in an air study?
+title: 'How do you account for wind in an air study?'
 tagnames: air-quality, wind, methods, question:air-quality, question:general, general, question:wind, bucket-monitor, question:bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/06-19-2020/how-do-you-account-for-wind-in-an-air-study.md

@@ -1,5 +1,5 @@
 ---
-title: Q&A enables automated FAQ
+title: 'Q&A enables automated FAQ'
 tagnames: community, blog, with:warren, with:gretchengehrke, research-culture, activity-grids, with:abdul
 author: liz
 path: /notes/liz/09-07-2016/q-a-enables-automated-faq.md

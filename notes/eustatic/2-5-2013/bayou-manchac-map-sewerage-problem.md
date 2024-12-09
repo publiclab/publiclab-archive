@@ -1,5 +1,5 @@
 ---
-title: Bayou Manchac map of sewerage problem
+title: 'Bayou Manchac map of sewerage problem'
 tagnames: balloon-mapping, kite-mapping, annotated-maps, map-aesthetics
 author: eustatic
 path: /2-5-2013/bayou-manchac-map-sewerage-problem.md

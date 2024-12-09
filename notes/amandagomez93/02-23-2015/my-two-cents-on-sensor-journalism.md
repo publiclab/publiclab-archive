@@ -1,5 +1,5 @@
 ---
-title: My Two Cents on Sensor Journalism 
+title: 'My Two Cents on Sensor Journalism '
 tagnames: sensors, journalism, sensor-journalism
 author: amandagomez93
 path: /notes/amandagomez93/02-23-2015/my-two-cents-on-sensor-journalism.md

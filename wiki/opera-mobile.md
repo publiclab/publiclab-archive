@@ -1,5 +1,5 @@
 ---
-title: Opera Mobile
+title: 'Opera Mobile'
 tagnames: 
 author: warren
 path: /wiki/opera-mobile.md

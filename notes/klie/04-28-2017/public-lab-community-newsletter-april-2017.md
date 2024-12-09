@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: April 2017
+title: 'Public Lab Community Newsletter: April 2017'
 tagnames: newsletter, events, frac-sand, edgi
 author: klie
 path: /notes/klie/04-28-2017/public-lab-community-newsletter-april-2017.md

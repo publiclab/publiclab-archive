@@ -1,5 +1,5 @@
 ---
-title: Working with the Spec. 3.0!
+title: 'Working with the Spec. 3.0!'
 tagnames: spectrometer, kits, spectrometry, oil-testing-kit, with:micheal, spec-3
 author: stevie
 path: /notes/stevie/01-28-2015/working-with-the-spec-3-0.md

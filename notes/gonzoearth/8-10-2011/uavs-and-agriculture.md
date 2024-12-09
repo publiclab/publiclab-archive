@@ -1,5 +1,5 @@
 ---
-title: UAVs and Agriculture
+title: 'UAVs and Agriculture'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/8-10-2011/uavs-and-agriculture.md

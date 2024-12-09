@@ -1,5 +1,5 @@
 ---
-title: co2
+title: 'co2'
 tagnames: hydrogen, spectrometry, helium, hidden:response, foldable-spec, replication:15121, first-time-poster
 author: brookepearce
 path: /notes/brookepearce/10-27-2017/co2.md

@@ -1,5 +1,5 @@
 ---
-title: I Got the InfraBlues - CMOS White Balance Work-around
+title: 'I Got the InfraBlues - CMOS White Balance Work-around'
 tagnames: near-infrared-camera, white-balance, infragram, infrablue, cmos
 author: geobduffy
 path: /notes/geobduffy/07-13-2013/i-got-the-cmos-infrablues-decrypting-custom-white-balance-settings.md

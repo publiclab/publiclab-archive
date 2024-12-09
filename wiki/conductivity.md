@@ -1,5 +1,5 @@
 ---
-title: Water conductivity monitoring
+title: 'Water conductivity monitoring'
 tagnames: conductivity, method, parent:water-quality
 author: warren
 path: /wiki/conductivity.md

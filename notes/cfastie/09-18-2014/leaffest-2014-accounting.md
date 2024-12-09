@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST 2014 accounting
+title: 'LEAFFEST 2014 accounting'
 tagnames: near-infrared-camera, spectrometer, vermont, new-hampshire, oil-spill-toolkit, leaffest, event, infragram, riffle, northeast, great-photos, barnstar:photo-documentation, leaffest2014, response:11076
 author: cfastie
 path: /notes/cfastie/09-18-2014/leaffest-2014-accounting.md

@@ -1,5 +1,5 @@
 ---
-title: Has anyone used a timelapse camera in stream monitoring?
+title: 'Has anyone used a timelapse camera in stream monitoring?'
 tagnames: timelapse, water, water-monitoring, sediment, question:timelapse, runoff, response:13266, question:photo-monitoring, sedimentation, question:sedimentation
 author: stevie
 path: /notes/stevie/09-06-2016/question-has-anyone-used-a-timelapse-camera-in-stream-monitoring.md

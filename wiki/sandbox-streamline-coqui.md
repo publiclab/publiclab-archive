@@ -1,5 +1,5 @@
 ---
-title: sandbox-streamline-coqui
+title: 'sandbox-streamline-coqui'
 tagnames: 
 author: mimiss
 path: /wiki/sandbox-streamline-coqui.md

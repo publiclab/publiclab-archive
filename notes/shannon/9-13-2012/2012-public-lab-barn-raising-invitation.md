@@ -1,5 +1,5 @@
 ---
-title: 2012 Public Lab barn raising invitation
+title: '2012 Public Lab barn raising invitation'
 tagnames: oil-spill-toolkit
 author: Shannon
 path: /notes/shannon/9-13-2012/2012-public-lab-barn-raising-invitation.md

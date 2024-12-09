@@ -1,5 +1,5 @@
 ---
-title: DIY Camera Mount for Pole Mapping
+title: 'DIY Camera Mount for Pole Mapping'
 tagnames: camera-rig-tests, polemapping, mapping, pole-photography, pole, pole-aerial-photography, pole-mapping, low-aerial, poles
 author: natalie
 path: /notes/Natalie/02-18-2015/diy-camera-mount-for-pole-mapping.md

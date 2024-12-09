@@ -1,5 +1,5 @@
 ---
-title: new USGS wetlands map
+title: 'new USGS wetlands map'
 tagnames: 
 author: Shannon
 path: /notes/shannon/6-3-2011/new-usgs-wetlands-map.md

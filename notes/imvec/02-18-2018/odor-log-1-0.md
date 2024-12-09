@@ -1,5 +1,5 @@
 ---
-title: Odor Log 1.0
+title: 'Odor Log 1.0'
 tagnames: air-quality, logging, getting-started, body-senses, odors, odor, odor-log, smell, gaimec, lang:en, activity:odor, odor-logging, activity:odor-logging
 author: imvec
 path: /notes/imvec/02-18-2018/odor-log-1-0.md

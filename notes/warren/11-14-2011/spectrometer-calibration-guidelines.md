@@ -1,5 +1,5 @@
 ---
-title: Spectrometer calibration guidelines
+title: 'Spectrometer calibration guidelines'
 tagnames: 
 author: warren
 path: /notes/warren/11-14-2011/spectrometer-calibration-guidelines.md

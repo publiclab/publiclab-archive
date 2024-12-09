@@ -1,5 +1,5 @@
 ---
-title: SpectraOnline.com spectrum searching
+title: 'SpectraOnline.com spectrum searching'
 tagnames: spectrometer, spectralworkbench, matching, search, spectraonline.com
 author: warren
 path: /notes/warren/2-18-2013/spectraonlinecom-spectrum-searching.md

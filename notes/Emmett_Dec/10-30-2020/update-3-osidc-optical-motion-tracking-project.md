@@ -1,5 +1,5 @@
 ---
-title: Update #3: OSIDC Optical Motion Tracking Project
+title: 'Update #3: OSIDC Optical Motion Tracking Project'
 tagnames: rpi, image-analysis, raspberry-pi-cameras, image-gathering, zoom:6, lat:42.386759, lon:-72.530051
 author: Emmett_Dec
 path: /notes/Emmett_Dec/10-30-2020/update-3-osidc-optical-motion-tracking-project.md

@@ -1,5 +1,5 @@
 ---
-title: MiniVol for gas sensing?
+title: 'MiniVol for gas sensing?'
 tagnames: air-quality, question:air-quality, minivol, method, question:minivol, question:method, air-sensor, question:air-sensor
 author: kgradow1
 path: /notes/kgradow1/05-08-2020/using-the-minivol-for-gas-sensing.md

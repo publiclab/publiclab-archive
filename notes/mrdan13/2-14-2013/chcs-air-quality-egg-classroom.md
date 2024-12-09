@@ -1,5 +1,5 @@
 ---
-title: CHCS Air Quality Egg in Classroom
+title: 'CHCS Air Quality Egg in Classroom'
 tagnames: new-york-city, cypress-hills, chaq, classroom
 author: MrDan13
 path: /notes/mrdan13/2-14-2013/chcs-air-quality-egg-classroom.md

@@ -1,5 +1,5 @@
 ---
-title: polycyclic-aromatic-hydrocarbons
+title: 'polycyclic-aromatic-hydrocarbons'
 tagnames: polycyclic-aromatic-hydrocarbons, pahs
 author: amocorro
 path: /wiki/polycyclic-aromatic-hydrocarbons.md

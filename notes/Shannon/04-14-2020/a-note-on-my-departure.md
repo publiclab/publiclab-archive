@@ -1,5 +1,5 @@
 ---
-title: A note on my departure
+title: 'A note on my departure'
 tagnames: blog
 author: Shannon
 path: /notes/Shannon/04-14-2020/a-note-on-my-departure.md

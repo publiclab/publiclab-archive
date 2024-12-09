@@ -1,5 +1,5 @@
 ---
-title: 14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star
+title: '14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star'
 tagnames: collaboration, process, open-source
 author: warren
 path: /notes/warren/3-14-2012/14-ways-contribute-open-source-without-being-programming-genius-or-rock-star.md

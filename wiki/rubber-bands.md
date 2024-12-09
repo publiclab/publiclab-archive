@@ -1,5 +1,5 @@
 ---
-title: Rubber Bands
+title: 'Rubber Bands'
 tagnames: 
 author: mathew
 path: /wiki/rubber-bands.md

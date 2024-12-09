@@ -1,5 +1,5 @@
 ---
-title: Decolonized Skies at Apexart
+title: 'Decolonized Skies at Apexart'
 tagnames: new-york-city, balloon-mapping, event, northeast, event:rsvp, date:10-18-2014
 author: liz
 path: /notes/liz/10-12-2014/decolonized-skies-at-apexart.md

@@ -1,5 +1,5 @@
 ---
-title: Finding Helium
+title: 'Finding Helium'
 tagnames: balloon-mapping, kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/6-28-2012/finding-helium.md

@@ -1,5 +1,5 @@
 ---
-title: Set up your development environment in Cloud9
+title: 'Set up your development environment in Cloud9'
 tagnames: software, web, developers, wwg, activity:software
 author: liz
 path: /notes/liz/11-30-2016/set-up-your-development-environment-in-cloud9.md

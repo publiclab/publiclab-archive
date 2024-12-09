@@ -1,5 +1,5 @@
 ---
-title: Has odor ever been used against an industry in court? 
+title: 'Has odor ever been used against an industry in court? '
 tagnames: evidence, advocacy, odor, question:general, odor-log, question:advocacy, law-and-policy, question:law-and-policy
 author: stevie
 path: /notes/stevie/12-07-2018/has-odor-ever-been-used-against-an-industry-in-court.md

@@ -1,5 +1,5 @@
 ---
-title: Seeking a Community Engagement Fellow 
+title: 'Seeking a Community Engagement Fellow '
 tagnames: heavy-metals, pipeline, mining, minnesota, fracking, jobs, midwest, fellows, fellowship, community-organizing, fellow, community-engagement, mill, fellowship-team, fellowship-teams, lumber, particle-board, with:bee
 author: stevie
 path: /notes/stevie/04-06-2022/seeking-a-community-engagement-fellow.md

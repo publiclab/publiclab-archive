@@ -1,5 +1,5 @@
 ---
-title: Getting a Raspberry Pi to output data by emulating a keyboard
+title: 'Getting a Raspberry Pi to output data by emulating a keyboard'
 tagnames: raspberry-pi, usb, ease-of-use, keyboard, hid, question:raspberry-pi, question:data-logging
 author: warren
 path: /notes/warren/04-29-2017/getting-a-raspberry-pi-to-output-data-by-emulating-a-keyboard.md

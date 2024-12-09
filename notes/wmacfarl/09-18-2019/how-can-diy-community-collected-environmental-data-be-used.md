@@ -1,5 +1,5 @@
 ---
-title: How can DIY/community-collected environmental data be used?
+title: 'How can DIY/community-collected environmental data be used?'
 tagnames: water-quality, data, advocacy, question:water-quality, question:general, oil-and-gas, question:advocacy, oil-and-gas-water-trio, question:oil-and-gas-water-trio
 author: wmacfarl
 path: /notes/wmacfarl/09-18-2019/how-can-diy-community-collected-environmental-data-be-used.md

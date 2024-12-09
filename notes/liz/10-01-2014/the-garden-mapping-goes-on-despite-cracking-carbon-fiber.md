@@ -1,5 +1,5 @@
 ---
-title: The garden mapping goes on despite cracking carbon fiber
+title: 'The garden mapping goes on despite cracking carbon fiber'
 tagnames: polemapping, newark, new-jersey, urban-ag, garden, pole, pole-mapping, elp, northeast, with:thegreencommunitygarden
 author: liz
 path: /notes/liz/10-01-2014/the-garden-mapping-goes-on-despite-cracking-carbon-fiber.md

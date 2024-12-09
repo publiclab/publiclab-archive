@@ -1,5 +1,5 @@
 ---
-title: Add Spinners for Comments
+title: 'Add Spinners for Comments'
 tagnames: 
 author: BrainBuzzer
 path: /notes/BrainBuzzer/12-25-2016/add-spinners-for-comments.md

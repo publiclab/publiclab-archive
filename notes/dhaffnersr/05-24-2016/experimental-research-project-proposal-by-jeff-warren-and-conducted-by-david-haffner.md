@@ -1,5 +1,5 @@
 ---
-title: Experimental research project proposal by Jeff Warren and conducted by David Haffner 
+title: 'Experimental research project proposal by Jeff Warren and conducted by David Haffner '
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-24-2016/experimental-research-project-proposal-by-jeff-warren-and-conducted-by-david-haffner.md

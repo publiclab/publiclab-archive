@@ -1,5 +1,5 @@
 ---
-title: Student-Led Inquiry Project Tracker
+title: 'Student-Led Inquiry Project Tracker'
 tagnames: education, with:stevie, with:liz, study-design, with:joyofsoy, series:student-community-science, project-tracking
 author: mimiss
 path: /notes/mimiss/07-25-2019/student-led-inquiry-project-tracker.md

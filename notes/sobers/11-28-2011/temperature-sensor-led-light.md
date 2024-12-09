@@ -1,5 +1,5 @@
 ---
-title: Temperature Sensor / LED light
+title: 'Temperature Sensor / LED light'
 tagnames: thermal-fishing-bob
 author: sobers
 path: /notes/sobers/11-28-2011/temperature-sensor-led-light.md

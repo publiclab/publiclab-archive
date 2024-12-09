@@ -1,5 +1,5 @@
 ---
-title: First EOS M aerials
+title: 'First EOS M aerials'
 tagnames: kite-aerial-photography, new-hampshire, farm, kap, autokap, ifarm, kaptery, nh, saturnv, skyshield, response:11830, half-spherical, littleplanet, eos_m, 2016, ifarm2016, category:verify
 author: cfastie
 path: /notes/cfastie/08-13-2016/first-eos-m-aerials.md

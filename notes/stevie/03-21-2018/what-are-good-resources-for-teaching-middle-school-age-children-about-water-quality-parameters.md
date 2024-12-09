@@ -1,5 +1,5 @@
 ---
-title: What are good resources for teaching middle school age children about water quality parameters? 
+title: 'What are good resources for teaching middle school age children about water quality parameters? '
 tagnames: answered, question:question, question:water-quality, question:water-sampling, question:education, question:water-sensing, question:water-monitoring
 author: stevie
 path: /notes/stevie/03-21-2018/what-are-good-resources-for-teaching-middle-school-age-children-about-water-quality-parameters.md

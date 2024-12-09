@@ -1,5 +1,5 @@
 ---
-title: Demo for leaflet-blurred-location
+title: 'Demo for leaflet-blurred-location'
 tagnames: website, geo-tagging, geolocation, soc, geographic-features
 author: mridulnagpal
 path: /notes/mridulnagpal/08-02-2017/demo-for-leaflet-blurred-location.md

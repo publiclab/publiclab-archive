@@ -1,5 +1,5 @@
 ---
-title: Calibration Issues with larger images 
+title: 'Calibration Issues with larger images '
 tagnames: question:spectral-workbench
 author: Anmar
 path: /notes/Anmar/08-19-2016/question-calibration-issues.md

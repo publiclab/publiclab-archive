@@ -1,5 +1,5 @@
 ---
-title: Oxygen Spectra
+title: 'Oxygen Spectra'
 tagnames: 
 author: odeh0001
 path: /notes/odeh0001/09-18-2018/oxygen-spectra.md

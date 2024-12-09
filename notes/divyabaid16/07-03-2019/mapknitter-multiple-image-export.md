@@ -1,5 +1,5 @@
 ---
-title: MapKnitter: Multiple image export
+title: 'MapKnitter: Multiple image export'
 tagnames: mapknitter, gsoc, export, soc, gsoc-2019, soc-2019, image
 author: divyabaid16
 path: /notes/divyabaid16/07-03-2019/mapknitter-multiple-image-export.md

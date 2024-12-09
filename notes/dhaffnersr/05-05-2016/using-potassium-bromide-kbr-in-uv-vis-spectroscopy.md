@@ -1,5 +1,5 @@
 ---
-title: Using Potassium Bromide (KBr) in UV/VIS spectroscopy
+title: 'Using Potassium Bromide (KBr) in UV/VIS spectroscopy'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-05-2016/using-potassium-bromide-kbr-in-uv-vis-spectroscopy.md

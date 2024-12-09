@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: Improving UI and Structure of Leaflet Environmental Layers
+title: 'SoC proposal: Improving UI and Structure of Leaflet Environmental Layers'
 tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, response:18440, lat:20.303417, lon:85.78125
 author: rkpattnaik780
 path: /notes/rkpattnaik780/04-05-2019/soc-proposal-improving-ui-and-structure-of-leaflet-environmental-layers.md

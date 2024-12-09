@@ -1,5 +1,5 @@
 ---
-title: Newark, NJ
+title: 'Newark, NJ'
 tagnames: newark, new-jersey, community-garden, garden, food, ironbound, elp, northeast, parent:northeast
 author: liz
 path: /wiki/newark.md

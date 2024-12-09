@@ -1,5 +1,5 @@
 ---
-title: A Questions page to encourage discussions through better UX
+title: 'A Questions page to encourage discussions through better UX'
 tagnames: website, software, barnstar:basic, ux, ui, interface-design, user-interface
 author: siyuan
 path: /notes/siyuan/06-12-2017/a-questions-page-to-encourage-discussions-through-better-ux.md

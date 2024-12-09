@@ -1,5 +1,5 @@
 ---
-title: The KAPtober Collection
+title: 'The KAPtober Collection'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infragram, gigapan, titan, redstone, response:11103
 author: cfastie
 path: /notes/cfastie/10-08-2014/the-kaptober-collection.md

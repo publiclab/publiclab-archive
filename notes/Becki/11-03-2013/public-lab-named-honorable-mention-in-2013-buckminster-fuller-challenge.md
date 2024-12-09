@@ -1,5 +1,5 @@
 ---
-title: Public Lab Named Honorable Mention in 2013 Buckminster Fuller Challenge
+title: 'Public Lab Named Honorable Mention in 2013 Buckminster Fuller Challenge'
 tagnames: buckminster-fuller-challenge
 author: Becki
 path: /notes/Becki/11-03-2013/public-lab-named-honorable-mention-in-2013-buckminster-fuller-challenge.md

@@ -1,5 +1,5 @@
 ---
-title: Cartography Primer - Pamet Marsh
+title: 'Cartography Primer - Pamet Marsh'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, boston, wetlands, oyster-reef, infragram, cape-cod, marsh, pamet, oyster, infrabluephoto, lat:41.997066, lon:-70.038032, place:pamet-marsh-ma
 author: wward1400
 path: /notes/wward1400/11-07-2013/cartography-primer-pamet-marsh.md

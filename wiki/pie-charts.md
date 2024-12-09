@@ -1,5 +1,5 @@
 ---
-title: Pie charts
+title: 'Pie charts'
 tagnames: 
 author: warren
 path: /wiki/pie-charts.md

@@ -1,5 +1,5 @@
 ---
-title: NDVI in realtime video
+title: 'NDVI in realtime video'
 tagnames: ndvi, infrared, question:ndvi, ndvi-arg, argiculture
 author: andresc4
 path: /notes/Andresc4/02-24-2015/ndvi-in-realtime-video.md

@@ -1,5 +1,5 @@
 ---
-title: LOW-COST WATER TESTING & MONITORING
+title: 'LOW-COST WATER TESTING & MONITORING'
 tagnames: water-quality-monitoring, water-quality, question:question
 author: gilbert
 path: /notes/gilbert/10-11-2017/low-cost-water-testing-monitoring.md

@@ -1,5 +1,5 @@
 ---
-title: Filter pinwheel for multispectral sensing
+title: 'Filter pinwheel for multispectral sensing'
 tagnames: 
 author: warren
 path: /notes/warren/6-5-2011/filter-pinwheel-multispectral-sensing.md

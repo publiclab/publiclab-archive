@@ -1,5 +1,5 @@
 ---
-title: PLOTS and LUMCON Collaboration
+title: 'PLOTS and LUMCON Collaboration'
 tagnames: gulf-coast, near-infrared-camera, lumcon
 author: Shannon
 path: /notes/shannon/5-29-2011/plots-and-lumcon-collaboration.md

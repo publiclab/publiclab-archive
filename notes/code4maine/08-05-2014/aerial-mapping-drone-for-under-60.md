@@ -1,5 +1,5 @@
 ---
-title: Aerial Mapping Drone for Under $60? 
+title: 'Aerial Mapping Drone for Under $60? '
 tagnames: grassrootsmapping, barnstar:basic
 author: ajawitz
 path: /notes/code4maine/08-05-2014/aerial-mapping-drone-for-under-60.md

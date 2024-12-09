@@ -1,5 +1,5 @@
 ---
-title: How a Glue Gun Works
+title: 'How a Glue Gun Works'
 tagnames: 
 author: amysoyka
 path: /notes/amysoyka/07-17-2014/how-a-glue-gun-works.md

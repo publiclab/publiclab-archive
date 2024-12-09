@@ -1,5 +1,5 @@
 ---
-title: Near-infrared absorption spectroscopy
+title: 'Near-infrared absorption spectroscopy'
 tagnames: spectrometer, nir, near-infrared, absorption, cuvette, ccd, linearccd, barnstar:basic, first-time-poster
 author: shubham
 path: /notes/shubham/01-27-2016/near-infrared-absorption-spectroscopy.md

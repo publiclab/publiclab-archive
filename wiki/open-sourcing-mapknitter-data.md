@@ -1,5 +1,5 @@
 ---
-title: Open sourcing MapKnitter data
+title: 'Open sourcing MapKnitter data'
 tagnames: 
 author: warren
 path: /wiki/open-sourcing-mapknitter-data.md

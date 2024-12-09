@@ -1,5 +1,5 @@
 ---
-title: Soil Sampling Toolkit by Citizen Science Community Resources: History and How-To Video
+title: 'Soil Sampling Toolkit by Citizen Science Community Resources: History and How-To Video'
 tagnames: video, soil, soil-testing, soil-sampling, soil-testing-toolkit, with:jjcreedon, soil-contamination, with:mike_cscr
 author: bhamster
 path: /notes/bhamster/04-07-2021/soil-sampling-toolkit-by-citizen-science-community-resources-history-and-how-to-video.md

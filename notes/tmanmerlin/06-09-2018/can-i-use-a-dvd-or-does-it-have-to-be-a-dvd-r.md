@@ -1,5 +1,5 @@
 ---
-title: Can I use a DVD or does it have to be a DVD-R ?
+title: 'Can I use a DVD or does it have to be a DVD-R ?'
 tagnames: question:spectrometry, dvd, question:dssk
 author: tmanmerlin
 path: /notes/tmanmerlin/06-09-2018/can-i-use-a-dvd-or-does-it-have-to-be-a-dvd-r.md

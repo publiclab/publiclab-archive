@@ -1,5 +1,5 @@
 ---
-title: First prototype of kayak towable thermal fishing bob rig
+title: 'First prototype of kayak towable thermal fishing bob rig'
 tagnames: thermal-photography, northeastern-university, water-quality, thermal-fishing-bob, thermal, thermal-pollution, fishing, heat, replication:689, first-time-poster
 author: kgrevera
 path: /notes/kgrevera/05-04-2015/first-prototype-of-kayak-towable-thermal-fishing-bob-rig.md

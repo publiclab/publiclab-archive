@@ -1,5 +1,5 @@
 ---
-title: Does anyone know what image processing spectral workbench does to find intensity at wavelength/ where to find the coding for that?
+title: 'Does anyone know what image processing spectral workbench does to find intensity at wavelength/ where to find the coding for that?'
 tagnames: arduino, image-processing, coding, question:spectrometry, github, question:spectral-workbench, first-time-poster
 author: Reallygeek
 path: /notes/Reallygeek/11-29-2017/does-anyone-know-what-image-processing-spectral-workbench-does-to-find-intensity-at-wavelength-where-to-find-the-coding-for-that.md

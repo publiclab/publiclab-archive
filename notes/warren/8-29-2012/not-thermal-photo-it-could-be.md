@@ -1,5 +1,5 @@
 ---
-title: This is not a thermal photo but it could be...
+title: 'This is not a thermal photo but it could be...'
 tagnames: thermal-photography, thermal-flashlight
 author: warren
 path: /notes/warren/8-29-2012/not-thermal-photo-it-could-be.md

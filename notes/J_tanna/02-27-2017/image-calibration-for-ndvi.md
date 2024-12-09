@@ -1,5 +1,5 @@
 ---
-title: Image Calibration For NDVI 
+title: 'Image Calibration For NDVI '
 tagnames: question:calibrate-ndvi
 author: J_tanna
 path: /notes/J_tanna/02-27-2017/image-calibration-for-ndvi.md

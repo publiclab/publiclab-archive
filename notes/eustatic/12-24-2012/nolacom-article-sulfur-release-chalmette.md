@@ -1,5 +1,5 @@
 ---
-title: NOLA.com article on Sulfur release to Chalmette
+title: 'NOLA.com article on Sulfur release to Chalmette'
 tagnames: hydrogen-sulfide-sensing
 author: eustatic
 path: /12-24-2012/nolacom-article-sulfur-release-chalmette.md

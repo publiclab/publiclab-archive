@@ -1,5 +1,5 @@
 ---
-title: Barnraising: K-12 curriculum
+title: 'Barnraising: K-12 curriculum'
 tagnames: balloon-mapping, education, curriculum, k-12
 author: mathew
 path: /notes/mathew/11-2-2012/barnraising-k-12-curriculum.md

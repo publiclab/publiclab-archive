@@ -1,5 +1,5 @@
 ---
-title: What do I do next, after using a low-cost or DIY air sensor?
+title: 'What do I do next, after using a low-cost or DIY air sensor?'
 tagnames: air-quality, dustduino, pm, question:dustduino, data-logging, particulate-matter, study-design, question:simple-air-sensor, simple-air-sensor
 author: warren
 path: /notes/warren/06-24-2019/what-do-i-do-next-after-using-a-low-cost-or-diy-air-sensor.md

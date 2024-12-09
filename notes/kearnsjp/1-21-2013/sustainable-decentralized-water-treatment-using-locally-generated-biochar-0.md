@@ -1,5 +1,5 @@
 ---
-title: Sustainable decentralized water treatment using locally generated biochar adsorbents
+title: 'Sustainable decentralized water treatment using locally generated biochar adsorbents'
 tagnames: water-treatment, pesticides, biochar, water
 author: kearnsjp
 path: /notes/kearnsjp/1-21-2013/sustainable-decentralized-water-treatment-using-locally-generated-biochar-0.md

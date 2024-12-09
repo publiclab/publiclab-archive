@@ -1,5 +1,5 @@
 ---
-title: mini-camera
+title: 'mini-camera'
 tagnames: redirect:mini-cameras
 author: warren
 path: /wiki/mini-camera.md

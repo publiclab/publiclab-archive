@@ -1,5 +1,5 @@
 ---
-title: Almost synchronous shutters
+title: 'Almost synchronous shutters'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, triggering, chdk, synchrony
 author: cfastie
 path: /notes/cfastie/4-10-2012/almost-synchronous-shutters.md

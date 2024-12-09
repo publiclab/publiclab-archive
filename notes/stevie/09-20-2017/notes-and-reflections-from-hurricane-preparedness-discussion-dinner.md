@@ -1,5 +1,5 @@
 ---
-title: Notes and Reflections from Hurricane Preparedness Discussion/Dinner
+title: 'Notes and Reflections from Hurricane Preparedness Discussion/Dinner'
 tagnames: gulf-coast, disaster-preparedness, workshop, new-orleans, hurricane, with:mimibell, nas, disaster-response, nola, resilience, water-works
 author: stevie
 path: /notes/stevie/09-20-2017/notes-and-reflections-from-hurricane-preparedness-discussion-dinner.md

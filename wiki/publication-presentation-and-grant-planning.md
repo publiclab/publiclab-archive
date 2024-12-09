@@ -1,5 +1,5 @@
 ---
-title: Publication, presentation and grant planning
+title: 'Publication, presentation and grant planning'
 tagnames: 
 author: warren
 path: /wiki/publication-presentation-and-grant-planning.md

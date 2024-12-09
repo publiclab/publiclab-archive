@@ -1,5 +1,5 @@
 ---
-title: Status ,Trends and Gap of Oceanography in the Gulf of Guinea a case study on the Coast of Cameroon
+title: 'Status ,Trends and Gap of Oceanography in the Gulf of Guinea a case study on the Coast of Cameroon'
 tagnames: lang:fr, climate-change, first-time-poster, zoom:6, lat:3.864254, lon:11.469726
 author: BIKIE-GERALD-24
 path: /notes/BIKIE-GERALD-24/07-09-2022/status-trends-and-gap-of-oceanography-in-the-gulf-of-guinea-a-case-study-on-the-coast-of-cameroon.md

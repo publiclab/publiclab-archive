@@ -1,5 +1,5 @@
 ---
-title: New UI features in Leaflet Environmental Layers
+title: 'New UI features in Leaflet Environmental Layers'
 tagnames: blog-submission
 author: christie_reni
 path: /notes/christie_reni/01-29-2020/new-features-in-leaflet-environmental-layers.md

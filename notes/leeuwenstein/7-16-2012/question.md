@@ -1,5 +1,5 @@
 ---
-title: question
+title: 'question'
 tagnames: spectrometer, question:spectrometer
 author: leeuwenstein
 path: /notes/leeuwenstein/7-16-2012/question.md

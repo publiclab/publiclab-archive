@@ -1,5 +1,5 @@
 ---
-title: Rough placement of Chandeleur map
+title: 'Rough placement of Chandeleur map'
 tagnames: balloon-mapping
 author: warren
 path: /notes/warren/3-19-2012/rough-placement-chandeleur-map.md

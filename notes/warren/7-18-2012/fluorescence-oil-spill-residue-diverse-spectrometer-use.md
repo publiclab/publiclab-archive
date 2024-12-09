@@ -1,5 +1,5 @@
 ---
-title: Fluorescence from oil spill residue & diverse spectrometer use
+title: 'Fluorescence from oil spill residue & diverse spectrometer use'
 tagnames: spectrometer, uv, fluorescence
 author: warren
 path: /notes/warren/7-18-2012/fluorescence-oil-spill-residue-diverse-spectrometer-use.md

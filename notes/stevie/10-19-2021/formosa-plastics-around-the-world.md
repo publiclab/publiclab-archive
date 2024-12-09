@@ -1,5 +1,5 @@
 ---
-title: Formosa Plastics around the world
+title: 'Formosa Plastics around the world'
 tagnames: louisiana, air-quality, pollution, pm, industry, particulate-matter, game-over-formosa, st-james, fellowship-teams, with:travislondon, with:caitlion, formosaplastics
 author: stevie
 path: /notes/stevie/10-19-2021/formosa-plastics-around-the-world.md

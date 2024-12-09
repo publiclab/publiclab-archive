@@ -1,5 +1,5 @@
 ---
-title: Seeking for bioindicator protozoans with the DIY microscope
+title: 'Seeking for bioindicator protozoans with the DIY microscope'
 tagnames: diy, water-quality, where, microscope, microscopy, zoom:6, lon:-64, lat:-31
 author: alejobonifacio
 path: /notes/alejobonifacio/07-27-2022/seeking-for-bioindicator-protozoans-with-the-diy-microscope.md

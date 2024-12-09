@@ -1,5 +1,5 @@
 ---
-title: Developing and Running a Public Lab Workshop
+title: 'Developing and Running a Public Lab Workshop'
 tagnames: community, workshop, event-how-to
 author: sara
 path: /wiki/developing-and-running-public-lab-workshop.md

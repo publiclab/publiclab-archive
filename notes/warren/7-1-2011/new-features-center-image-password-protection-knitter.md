@@ -1,5 +1,5 @@
 ---
-title: New features: center on image, password protection in Knitter
+title: 'New features: center on image, password protection in Knitter'
 tagnames: 
 author: warren
 path: /notes/warren/7-1-2011/new-features-center-image-password-protection-knitter.md

@@ -1,5 +1,5 @@
 ---
-title: Lots of sample Infragram images for testing
+title: 'Lots of sample Infragram images for testing'
 tagnames: near-infrared-camera, ndvi, boston, infragram, infrabluephoto
 author: warren
 path: /notes/warren/05-21-2013/lots-of-sample-infragram-images-for-testing.md

@@ -1,5 +1,5 @@
 ---
-title: Spectrometer 3.0 Upgrades
+title: 'Spectrometer 3.0 Upgrades'
 tagnames: spectrometer, spectrometry, cuvette, modifications, barnstar:basic, upgrade:spectrometry, upgrade:dssk, activity:dssk, dssk
 author: programmer1200
 path: /notes/programmer1200/11-20-2017/spectrometer-3-0-upgrades.md

@@ -1,5 +1,5 @@
 ---
-title: With which Android Tablets is the Mobius Action Cam compatible?
+title: 'With which Android Tablets is the Mobius Action Cam compatible?'
 tagnames: mobius-actioncam, mobius, question:mobius, question:general, question:android
 author: apparao
 path: /notes/apparao/09-29-2018/with-which-android-tablets-is-the-mobius-action-cam-compatible.md

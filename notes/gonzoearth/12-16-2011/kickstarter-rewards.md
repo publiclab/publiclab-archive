@@ -1,5 +1,5 @@
 ---
-title: Kickstarter Rewards
+title: 'Kickstarter Rewards'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/12-16-2011/kickstarter-rewards.md

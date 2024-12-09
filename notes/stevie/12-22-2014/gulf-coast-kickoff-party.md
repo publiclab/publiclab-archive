@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast 2015 Kickoff Party!
+title: 'Gulf Coast 2015 Kickoff Party!'
 tagnames: gulf-coast, event, neworleans, event:rsvp, rsvp:danbeavers, urbanwaters, date:01-07-2015, rsvp:micheal
 author: stevie
 path: /notes/stevie/12-22-2014/gulf-coast-kickoff-party.md

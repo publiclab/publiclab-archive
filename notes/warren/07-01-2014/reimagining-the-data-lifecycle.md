@@ -1,5 +1,5 @@
 ---
-title: Reimagining the data  lifecycle
+title: 'Reimagining the data  lifecycle'
 tagnames: gmf, grassrootsmappingforum, forum, with:shannon, gmf-1
 author: warren
 path: /notes/warren/07-01-2014/reimagining-the-data-lifecycle.md

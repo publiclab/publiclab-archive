@@ -1,5 +1,5 @@
 ---
-title: Attempting reflectance measurements with spectrometer
+title: 'Attempting reflectance measurements with spectrometer'
 tagnames: spectrometer, oil, kit, test, response:12074
 author: coight
 path: /notes/coight/09-06-2015/attempting-reflectance-measurements-with-spectrometer.md

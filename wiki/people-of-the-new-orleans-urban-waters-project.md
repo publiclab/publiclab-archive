@@ -1,5 +1,5 @@
 ---
-title: People of the New Orleans Urban Waters Project
+title: 'People of the New Orleans Urban Waters Project'
 tagnames: parent:urban-waters-mapping-nola
 author: stevie
 path: /wiki/people-of-the-new-orleans-urban-waters-project.md

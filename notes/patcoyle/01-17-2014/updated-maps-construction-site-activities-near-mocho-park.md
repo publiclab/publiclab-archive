@@ -1,5 +1,5 @@
 ---
-title: Updated maps - construction site activities near Mocho Park
+title: 'Updated maps - construction site activities near Mocho Park'
 tagnames: time-lapse, kap, sx260hs, construction, juice-bottle-rig
 author: patcoyle
 path: /notes/patcoyle/01-17-2014/updated-maps-construction-site-activities-near-mocho-park.md

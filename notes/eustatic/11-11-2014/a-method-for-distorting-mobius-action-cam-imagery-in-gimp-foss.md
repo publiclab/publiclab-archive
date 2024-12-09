@@ -1,5 +1,5 @@
 ---
-title: A Method for distorting Mobius Action Cam imagery in GIMP (FOSS)
+title: 'A Method for distorting Mobius Action Cam imagery in GIMP (FOSS)'
 tagnames: gulf-coast, balloon-mapping, pole-photography, new-orleans, neworleans, bsj, urbanwater, urbanwaters
 author: eustatic
 path: /11-11-2014/a-method-for-distorting-mobius-action-cam-imagery-in-gimp-foss.md

@@ -1,5 +1,5 @@
 ---
-title: Tiny remote control
+title: 'Tiny remote control'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, triggering, photo-rig, activity:camera-triggering
 author: cfastie
 path: /notes/cfastie/4-22-2012/tiny-remote-control.md

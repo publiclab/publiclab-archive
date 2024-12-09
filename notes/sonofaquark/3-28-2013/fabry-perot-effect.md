@@ -1,5 +1,5 @@
 ---
-title: Fabry-Perot Effect
+title: 'Fabry-Perot Effect'
 tagnames: spectrometer
 author: sonofaquark
 path: /notes/sonofaquark/3-28-2013/fabry-perot-effect.md

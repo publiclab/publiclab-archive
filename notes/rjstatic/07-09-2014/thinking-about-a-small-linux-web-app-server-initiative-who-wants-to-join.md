@@ -1,5 +1,5 @@
 ---
-title: Thinking about a small Linux web app server initiative. Who wants to join?
+title: 'Thinking about a small Linux web app server initiative. Who wants to join?'
 tagnames: server, farmhack, raspberry-pi, apitronics, open-ground, fido, rpi, groundhog, ole, agpl, couchdb, open-pipe-kit
 author: rjstatic
 path: /07-09-2014/thinking-about-a-small-linux-web-app-server-initiative-who-wants-to-join.md

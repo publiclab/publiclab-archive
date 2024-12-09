@@ -1,5 +1,5 @@
 ---
-title: Set up a Raspberry Pi Camera with Pi Builder
+title: 'Set up a Raspberry Pi Camera with Pi Builder'
 tagnames: balloon-mapping, kite-mapping, nasa, raspberry-pi, infragram, timelapse, pi-camera, activity:timelapse, activity:infragram, aren, location:blurred, activity:pi-camera, kite-, balloon-, infragram-pi, activity:infragram-pi, activity:pi-camera-setup, pin:activity:pi-camera-setup, zoom:6, lat:46, lon:48, place:russia
 author: warren
 path: /notes/warren/05-20-2019/set-up-a-raspberry-pi-camera-with-pi-builder.md

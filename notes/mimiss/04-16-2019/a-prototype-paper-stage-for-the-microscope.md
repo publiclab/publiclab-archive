@@ -1,5 +1,5 @@
 ---
-title: A Prototype Paper Stage for the Microscope
+title: 'A Prototype Paper Stage for the Microscope'
 tagnames: papercraft, prototyping, microscope, activity:microscope, activity:microscopes, microscope-stage, activity:community-microscope, community-microscope, community-microscope-prototyping, activity:community-microscope-usage
 author: mimiss
 path: /notes/mimiss/04-16-2019/a-prototype-paper-stage-for-the-microscope.md

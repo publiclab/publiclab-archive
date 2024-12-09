@@ -1,5 +1,5 @@
 ---
-title: Hackerspace.sg meetup
+title: 'Hackerspace.sg meetup'
 tagnames: event, asia, singapore, great-photos
 author: liz
 path: /notes/liz/01-23-2014/hackerspace-sg-meetup.md

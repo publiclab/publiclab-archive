@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Sensor data upload and display library 
+title: 'GSoC proposal: Sensor data upload and display library '
 tagnames: software, gsoc, soc, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, response:18440, soc-2019-projects
 author: IshaGupta18
 path: /notes/IshaGupta18/03-04-2019/gsoc-proposal-sensor-data-upload-and-display-library.md

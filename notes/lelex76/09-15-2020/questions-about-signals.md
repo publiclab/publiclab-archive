@@ -1,5 +1,5 @@
 ---
-title: questions about signals
+title: 'questions about signals'
 tagnames: satellite-imagery, radio, question:satellite-imagery, open-weather, question:open-weather
 author: lelex76
 path: /notes/lelex76/09-15-2020/questions-about-signals.md

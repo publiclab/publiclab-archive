@@ -1,5 +1,5 @@
 ---
-title: Longer Mini Pearl logging
+title: 'Longer Mini Pearl logging'
 tagnames: arduino, datalogger, low-power, data-logging, bme280, mcp9808, mini-pearl-logger, activity:mini-pearl-logger, bmp280
 author: cfastie
 path: /notes/cfastie/12-18-2017/longer-mini-pearl-logging.md

@@ -1,5 +1,5 @@
 ---
-title: Power Tags
+title: 'Power Tags'
 tagnames: posting, list:plots-dev, power-tags, tags, parent:authoring-help, activity-grids, location:blurred, lat:10, parent:website, lon:106, zoom:6, place:vietnam
 author: warren
 path: /wiki/power-tags.md

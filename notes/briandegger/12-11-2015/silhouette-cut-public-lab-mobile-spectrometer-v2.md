@@ -1,5 +1,5 @@
 ---
-title: Silhouette cut Public Lab Mobile spectrometer v2
+title: 'Silhouette cut Public Lab Mobile spectrometer v2'
 tagnames: spectrometer, instructables, foldable, papercraft, silhouette-cameo, foldable-spectrometer, silhouette, cameo, upgrade:foldable-spec
 author: briandegger
 path: /notes/briandegger/12-11-2015/silhouette-cut-public-lab-mobile-spectrometer-v2.md

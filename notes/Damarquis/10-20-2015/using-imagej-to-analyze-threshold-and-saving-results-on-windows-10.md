@@ -1,5 +1,5 @@
 ---
-title: Using imageJ to adjust threshold using mode Entropy 
+title: 'Using imageJ to adjust threshold using mode Entropy '
 tagnames: passive-pm
 author: damarquis
 path: /notes/Damarquis/10-20-2015/using-imagej-to-analyze-threshold-and-saving-results-on-windows-10.md

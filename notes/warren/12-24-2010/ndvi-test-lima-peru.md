@@ -1,5 +1,5 @@
 ---
-title: NDVI test in Lima Peru
+title: 'NDVI test in Lima Peru'
 tagnames: lima, near-infrared-camera, peru, ndvi, escuelab
 author: warren
 path: /notes/warren/12-24-2010/ndvi-test-lima-peru.md

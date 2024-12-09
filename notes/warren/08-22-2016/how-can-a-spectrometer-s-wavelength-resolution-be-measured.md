@@ -1,5 +1,5 @@
 ---
-title: How can a spectrometer's wavelength resolution be measured?
+title: 'How can a spectrometer's wavelength resolution be measured?'
 tagnames: question:spectrometer, question:spectrometry, question:dssk
 author: warren
 path: /notes/warren/08-22-2016/how-can-a-spectrometer-s-wavelength-resolution-be-measured.md

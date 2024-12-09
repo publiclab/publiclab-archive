@@ -1,5 +1,5 @@
 ---
-title: Improvements and additions to the new website
+title: 'Improvements and additions to the new website'
 tagnames: website, plots2
 author: warren
 path: /notes/warren/08-08-2013/improvements-and-additions-to-the-new-website.md

@@ -1,5 +1,5 @@
 ---
-title: to know process of NDVI calculation through point and shoot infrared camera
+title: 'to know process of NDVI calculation through point and shoot infrared camera'
 tagnames: first-time-poster
 author: rajsan1108
 path: /notes/rajsan1108/09-18-2015/to-know-process-of-ndvi-calculation-through-point-and-shoot-infrared-camera.md

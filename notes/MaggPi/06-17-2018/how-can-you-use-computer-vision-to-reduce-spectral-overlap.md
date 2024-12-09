@@ -1,5 +1,5 @@
 ---
-title: How can you use  computer vision to reduce spectral overlap? 
+title: 'How can you use  computer vision to reduce spectral overlap? '
 tagnames: spectrometer, raspberry-pi, spectral-analysis, pi-camera, gsoc-2018, soc-2018, spectral-staircase, noir
 author: MaggPi
 path: /notes/MaggPi/06-17-2018/how-can-you-use-computer-vision-to-reduce-spectral-overlap.md

@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Bob: multiple inputs/outputs 
+title: 'Thermal Fishing Bob: multiple inputs/outputs '
 tagnames: thermal-fishing-bob, activity:thermal-fishing-bob, first-time-poster
 author: lperovich
 path: /notes/lperovich/06-10-2015/thermal-fishing-bob-multiple-inputs-outputs.md

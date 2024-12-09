@@ -1,5 +1,5 @@
 ---
-title: Decibel meters for iPhones?
+title: 'Decibel meters for iPhones?'
 tagnames: answered, noise, question:decibels, question:sound, sound, decibel, decibel-meter, sound-pollution, noise-pollution, question:noise, question:noise-pollution
 author: warren
 path: /notes/warren/04-24-2017/decibel-meters-for-iphones.md

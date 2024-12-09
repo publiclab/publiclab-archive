@@ -1,5 +1,5 @@
 ---
-title: Webinar Series: Civilian Monitoring of Pipelines in Louisiana
+title: 'Webinar Series: Civilian Monitoring of Pipelines in Louisiana'
 tagnames: redirect:pipeline-webinar
 author: a1ahna
 path: /wiki/civilian-monitoring-of-pipelines-in-louisiana-a-webinar-series.md

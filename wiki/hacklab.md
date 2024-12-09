@@ -1,5 +1,5 @@
 ---
-title: hackLAB
+title: 'hackLAB'
 tagnames: location:blurred, lat:35, lon:-78, place:raleigh, raleigh
 author: hackLAB
 path: /wiki/hacklab.md

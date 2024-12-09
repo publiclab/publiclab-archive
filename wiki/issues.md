@@ -1,5 +1,5 @@
 ---
-title: Issues
+title: 'Issues'
 tagnames: website, troubleshooting, bugs, issues, parent:website, website-utilities
 author: warren
 path: /wiki/issues.md

@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping of wetlands near Clayton, NY
+title: 'Balloon mapping of wetlands near Clayton, NY'
 tagnames: balloon-mapping, wetlands, new-york, clayton, lat:44.222444, lon:-76.100406, place:clayton-ny
 author: nedhorning
 path: /notes/nedhorning/10-10-2013/balloon-mapping-of-wetlands-near-clayton-ny.md

@@ -1,5 +1,5 @@
 ---
-title: Nalgene submarine
+title: 'Nalgene submarine'
 tagnames: arduino, housing, water-quality, water, riffle, bottle, response:12674, nalgene, neoprene, hull-piercing, riffle-examples, data-logger-enclosures:, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures
 author: cfastie
 path: /notes/cfastie/03-11-2016/nalgene-submarine.md

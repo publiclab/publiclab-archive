@@ -1,5 +1,5 @@
 ---
-title: Instruction videos don't work!
+title: 'Instruction videos don't work!'
 tagnames: spectral-workbench, question:spectral-workbench, first-time-poster
 author: aemilius89
 path: /notes/aemilius89/12-08-2018/instruction-videos-don-t-work.md

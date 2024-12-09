@@ -1,5 +1,5 @@
 ---
-title: Broadening
+title: 'Broadening'
 tagnames: spectrometer, vermont, emission-spectroscopy, spectrometer-calibration, ebert, hps, broadening, na, absorption, barnstar:basic, sodium
 author: cfastie
 path: /notes/cfastie/2-26-2013/broadening.md

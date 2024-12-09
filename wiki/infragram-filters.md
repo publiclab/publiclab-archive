@@ -1,5 +1,5 @@
 ---
-title: Infragram Filters
+title: 'Infragram Filters'
 tagnames: infragram-filters, parent:infragram
 author: warren
 path: /wiki/infragram-filters.md

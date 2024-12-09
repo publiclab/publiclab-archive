@@ -1,5 +1,5 @@
 ---
-title: Live Build with Public Lab: Mini Kites! 
+title: 'Live Build with Public Lab: Mini Kites! '
 tagnames: education, diy-kite, diy-kites, open-hour, mini-kite-build, activity:mini-kite-build, live-build, mini-kite, indoor-kite
 author: mimiss
 path: /notes/mimiss/04-21-2020/live-build-with-public-lab-mini-kites.md

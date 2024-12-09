@@ -1,5 +1,5 @@
 ---
-title: Activity: Lichens for Qualitative Air Quality Determination
+title: 'Activity: Lichens for Qualitative Air Quality Determination'
 tagnames: air-quality, lichen, no2, difficulty:easy, category:observe, air-pollution, research-curation-fellows, bioindicators, activity:bioindicators, nh3, activity:lichen
 author: fongvania
 path: /notes/fongvania/09-21-2021/activity-lichens-for-qualitative-air-quality-determination.md

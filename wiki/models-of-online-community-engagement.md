@@ -1,5 +1,5 @@
 ---
-title: Models of Online Community Engagement 
+title: 'Models of Online Community Engagement '
 tagnames: community
 author: stevie
 path: /wiki/models-of-online-community-engagement.md

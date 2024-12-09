@@ -1,5 +1,5 @@
 ---
-title: Biomes Are Important to The Study Of Environmental Science
+title: 'Biomes Are Important to The Study Of Environmental Science'
 tagnames: lat:22, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/08-23-2022/biomes-are-important-to-the-study-of-environmental-science.md

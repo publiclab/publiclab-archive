@@ -1,5 +1,5 @@
 ---
-title: getting started
+title: 'getting started'
 tagnames: first-time-poster
 author: prof_braino
 path: /notes/profbraino/1-22-2013/getting-started.md

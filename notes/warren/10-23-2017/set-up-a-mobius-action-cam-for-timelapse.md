@@ -1,5 +1,5 @@
 ---
-title: Set up a Mobius Action Cam for timelapse 
+title: 'Set up a Mobius Action Cam for timelapse '
 tagnames: infrared, photo-monitoring, infragram, timelapse, mobius-actioncam, mobius, infragram-point-shoot, mobius-action-cam, mini-kite-kit, mini-balloon-kit, activity:timelapse, activity:photo-monitoring, multispectral-imaging, activity:mobius, activity:mini-balloon-kit, activity:mini-kite-kit, activity:mobius-action-cam, activity:infragram-point-shoot, near-infrared-photography
 author: warren
 path: /notes/warren/10-23-2017/set-up-a-mobius-action-cam-for-timelapse.md

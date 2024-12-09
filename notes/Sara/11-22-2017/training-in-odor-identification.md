@@ -1,5 +1,5 @@
 ---
-title: Training in odor identification?
+title: 'Training in odor identification?'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s, question:air-quality, odor, question:odor
 author: sara
 path: /notes/Sara/11-22-2017/training-in-odor-identification.md

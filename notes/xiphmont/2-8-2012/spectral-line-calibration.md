@@ -1,5 +1,5 @@
 ---
-title: SPECTRAL LINE CALIBRATION
+title: 'SPECTRAL LINE CALIBRATION'
 tagnames: 
 author: xiphmont
 path: /notes/xiphmont/2-8-2012/spectral-line-calibration.md

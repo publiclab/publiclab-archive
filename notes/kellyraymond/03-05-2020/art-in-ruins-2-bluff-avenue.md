@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (2 Bluff Avenue)
+title: 'Art in Ruins (2 Bluff Avenue)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.310409, lon:-71.853623, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-2-bluff-avenue.md

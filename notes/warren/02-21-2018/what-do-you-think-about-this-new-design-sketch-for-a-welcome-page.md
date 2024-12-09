@@ -1,5 +1,5 @@
 ---
-title: What do you think about this new design sketch for a Welcome page?
+title: 'What do you think about this new design sketch for a Welcome page?'
 tagnames: website, organizers, design, answered, newcomers, onboarding, ui, question:ui, question:design, welcoming, comment-template:ui-feedback-template
 author: warren
 path: /notes/warren/02-21-2018/what-do-you-think-about-this-new-design-sketch-for-a-welcome-page.md

@@ -1,5 +1,5 @@
 ---
-title: $0.75 lead testing color strips
+title: '$0.75 lead testing color strips'
 tagnames: soil, kit, lead, strip, lead-testing, lead-kits
 author: warren
 path: /notes/warren/04-18-2014/0-75-lead-testing-color-strips.md

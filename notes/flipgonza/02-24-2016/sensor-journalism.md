@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism 
+title: 'Sensor Journalism '
 tagnames: sensor-journalism, response:12748, hidden:response
 author: flipgonza
 path: /notes/flipgonza/02-24-2016/sensor-journalism.md

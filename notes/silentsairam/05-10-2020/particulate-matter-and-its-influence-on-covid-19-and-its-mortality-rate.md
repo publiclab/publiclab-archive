@@ -1,5 +1,5 @@
 ---
-title: Particulate Matter and its influence on CoVID-19 and its mortality rate
+title: 'Particulate Matter and its influence on CoVID-19 and its mortality rate'
 tagnames: air-quality, sensors, lat:12.940322, lon:80.15625, zoom:6, covidimpact
 author: silentsairam
 path: /notes/silentsairam/05-10-2020/particulate-matter-and-its-influence-on-covid-19-and-its-mortality-rate.md

@@ -1,5 +1,5 @@
 ---
-title: Making tent bags for photopaper test
+title: 'Making tent bags for photopaper test'
 tagnames: 
 author: megan
 path: /notes/megan/4-19-2012/making-tent-bags-photopaper-test.md

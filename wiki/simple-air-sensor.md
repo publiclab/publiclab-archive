@@ -1,5 +1,5 @@
 ---
-title: Simple Air Sensor
+title: 'Simple Air Sensor'
 tagnames: air-quality, air, sensors, design, open-air, air-sensing, method, air-sensors, purpleair, plantower, purple-air, particle-sensor, pms5003, simple-air-sensor
 author: warren
 path: /wiki/simple-air-sensor.md

@@ -1,5 +1,5 @@
 ---
-title: Mesh Networks for Rural Transit
+title: 'Mesh Networks for Rural Transit'
 tagnames: gps, transit, openwrt, mesh
 author: ajawitz
 path: /notes/code4maine/03-24-2014/mesh-networks-for-rural-transit.md

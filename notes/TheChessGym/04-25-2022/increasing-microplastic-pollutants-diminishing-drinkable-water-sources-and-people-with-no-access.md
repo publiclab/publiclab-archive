@@ -1,5 +1,5 @@
 ---
-title: Increasing Microplastic Pollutants, Diminishing Drinkable Water Sources, and People With No Access 
+title: 'Increasing Microplastic Pollutants, Diminishing Drinkable Water Sources, and People With No Access '
 tagnames: microplastics, lat:22, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/04-25-2022/increasing-microplastic-pollutants-diminishing-drinkable-water-sources-and-people-with-no-access.md

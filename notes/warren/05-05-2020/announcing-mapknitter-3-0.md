@@ -1,5 +1,5 @@
 ---
-title: Announcing MapKnitter 3.0
+title: 'Announcing MapKnitter 3.0'
 tagnames: balloon-mapping, kite-mapping, mapknitter, software, gsoc, blog, code, lat:41, lon:-71, community-atlas, zoom:6
 author: warren
 path: /notes/warren/05-05-2020/announcing-mapknitter-3-0.md

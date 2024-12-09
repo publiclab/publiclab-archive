@@ -1,5 +1,5 @@
 ---
-title: Homemade Colorimeter (determine the concentration of a sample)
+title: 'Homemade Colorimeter (determine the concentration of a sample)'
 tagnames: spectrometer, concentration, spectroscopy-concentration-analysis-light-colorimeter, colorimetry, proteins, chlorine, iron
 author: homechemist
 path: /notes/homechemist/08-04-2014/homemade-colorimter-determine-the-concentration-of-a-sample.md

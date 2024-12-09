@@ -1,5 +1,5 @@
 ---
-title: What is your favorite program to plot data from a data logger? 
+title: 'What is your favorite program to plot data from a data logger? '
 tagnames: question:general, question:data-logging, question:data-logger
 author: gretchengehrke
 path: /notes/gretchengehrke/08-02-2017/what-is-your-favorite-program-to-plot-data-from-a-data-logger.md

@@ -1,5 +1,5 @@
 ---
-title: Come try spectrometry at Science Hack Day
+title: 'Come try spectrometry at Science Hack Day'
 tagnames: new-york-city, spectrometry, event
 author: liz
 path: /notes/liz/05-23-2014/come-try-spectrometry-at-science-hack-day.md

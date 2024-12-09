@@ -1,5 +1,5 @@
 ---
-title: Modified TDS sensor as Conductivity Sensor? 
+title: 'Modified TDS sensor as Conductivity Sensor? '
 tagnames: water-quality-sensor, conductivity, answered, question:general, tds, salinity
 author: MadTinker
 path: /notes/MadTinker/03-10-2018/modified-tds-sensor-as-conductivity-sensor.md

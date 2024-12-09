@@ -1,5 +1,5 @@
 ---
-title: UNICEF Rio Proposal
+title: 'UNICEF Rio Proposal'
 tagnames: rio
 author: warren
 path: /wiki/unicef-rio-proposal.md

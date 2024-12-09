@@ -1,5 +1,5 @@
 ---
-title: Do you have any experience with wildfires in Indonesia?
+title: 'Do you have any experience with wildfires in Indonesia?'
 tagnames: community, farming, health, air, indonesia, airquality, question:general, general, wildfires, location:blurred, lat:0, lon:110, fires
 author: zengirl2
 path: /notes/zengirl2/10-16-2019/do-you-have-any-experience-with-wildfires-in-indonesia.md

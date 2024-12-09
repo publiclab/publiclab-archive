@@ -1,5 +1,5 @@
 ---
-title: Betelgeuse star spectrum
+title: 'Betelgeuse star spectrum'
 tagnames: location:blurred, lat:28, lon:77, place:india
 author: vishal
 path: /wiki/betelgeuse-star-spectrum.md

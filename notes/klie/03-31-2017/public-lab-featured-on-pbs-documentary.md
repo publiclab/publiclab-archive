@@ -1,5 +1,5 @@
 ---
-title: Public Lab Featured on PBS Documentary
+title: 'Public Lab Featured on PBS Documentary'
 tagnames: 
 author: klie
 path: /notes/klie/03-31-2017/public-lab-featured-on-pbs-documentary.md

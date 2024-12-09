@@ -1,5 +1,5 @@
 ---
-title: How long should you deploy babylegs for? 
+title: 'How long should you deploy babylegs for? '
 tagnames: micro-plastics, question:general, general, question:micro-plastics, question:babylegs, babylegs, trawl, question:trawl
 author: stevie
 path: /notes/stevie/04-28-2020/how-long-should-you-deploy-babylegs-for.md

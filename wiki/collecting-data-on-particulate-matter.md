@@ -1,5 +1,5 @@
 ---
-title: Collecting Data on Particulate Matter
+title: 'Collecting Data on Particulate Matter'
 tagnames: parent:pm
 author: mathew
 path: /wiki/collecting-data-on-particulate-matter.md

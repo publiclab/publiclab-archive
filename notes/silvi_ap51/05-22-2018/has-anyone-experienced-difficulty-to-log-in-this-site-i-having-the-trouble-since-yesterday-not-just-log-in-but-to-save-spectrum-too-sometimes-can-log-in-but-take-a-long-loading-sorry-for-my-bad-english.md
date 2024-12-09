@@ -1,5 +1,5 @@
 ---
-title: Has anyone experienced difficulty to log in this site? I having the trouble since yesterday. Not just log in, but to save spectrum too (sometimes can log in but take a long loading). sorry for my bad english.
+title: 'Has anyone experienced difficulty to log in this site? I having the trouble since yesterday. Not just log in, but to save spectrum too (sometimes can log in but take a long loading). sorry for my bad english.'
 tagnames: spectrometer, software, spectral-workbench, spectral-workbench-api, developers, question:spectral-workbench, first-time-poster
 author: silvi_ap51
 path: /notes/silvi_ap51/05-22-2018/has-anyone-experienced-difficulty-to-log-in-this-site-i-having-the-trouble-since-yesterday-not-just-log-in-but-to-save-spectrum-too-sometimes-can-log-in-but-take-a-long-loading-sorry-for-my-bad-english.md

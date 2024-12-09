@@ -1,5 +1,5 @@
 ---
-title: Arsenic detection in well water with spectrometry
+title: 'Arsenic detection in well water with spectrometry'
 tagnames: response:480
 author: LEGOnauts
 path: /notes/LEGOnauts/11-10-2017/arsenic-detection-in-well-water-with-spectrometry.md

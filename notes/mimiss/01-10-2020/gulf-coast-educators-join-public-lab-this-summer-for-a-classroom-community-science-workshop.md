@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast Educators: Join Public Lab this summer for a Classroom Community Science Workshop
+title: 'Gulf Coast Educators: Join Public Lab this summer for a Classroom Community Science Workshop'
 tagnames: gulf-coast, education, workshop, new-orleans, blog, environmental-education, lesson, lat:29.954934, lon:-90.076904
 author: mimiss
 path: /notes/mimiss/01-10-2020/gulf-coast-educators-join-public-lab-this-summer-for-a-classroom-community-science-workshop.md

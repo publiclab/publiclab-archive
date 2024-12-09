@@ -1,5 +1,5 @@
 ---
-title: Additive Image Stacking In Spectroscopy
+title: 'Additive Image Stacking In Spectroscopy'
 tagnames: 
 author: Ulao2
 path: /notes/ulao2/2-13-2013/additive-image-stacking-spectroscopy.md

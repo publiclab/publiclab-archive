@@ -1,5 +1,5 @@
 ---
-title: Riffle Beta project - Methane Gas Sensor
+title: 'Riffle Beta project - Methane Gas Sensor'
 tagnames: mapping, air-quality, methane, riffle, gas, gas-sensor, riffle-beta, activity:riffle, upgrade:riffle, oil-and-gas, riffle-examples, gas-leaks
 author: Bob
 path: /notes/Bob/06-17-2016/riffle-beta-project-methane-gas-sensor.md

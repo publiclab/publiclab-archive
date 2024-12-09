@@ -1,5 +1,5 @@
 ---
-title: Using Precision Measurements for Qualitative Analysis-Rhodamine B in Ethanol
+title: 'Using Precision Measurements for Qualitative Analysis-Rhodamine B in Ethanol'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/06-09-2016/using-precision-measurements-for-qualitative-analysis-rhodamine-b-in-ethanol.md

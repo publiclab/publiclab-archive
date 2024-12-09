@@ -1,5 +1,5 @@
 ---
-title: Replicating the Grading of oils with UV Fluorescence on other cameras pt 1
+title: 'Replicating the Grading of oils with UV Fluorescence on other cameras pt 1'
 tagnames: spectrometer, fluorescence, oil-testing-kit, 405nm
 author: mathew
 path: /notes/mathew/09-22-2014/replicating-the-grading-of-oils-with-uv-fluorescence-on-other-cameras-pt-1.md

@@ -1,5 +1,5 @@
 ---
-title: Experiments with compositing pole aerial photos of wetlands
+title: 'Experiments with compositing pole aerial photos of wetlands'
 tagnames: gulf-coast, pole-mapping
 author: liz
 path: /notes/liz/06-10-2015/experiments-with-compositing-pole-aerial-photos-of-wetlands.md

@@ -1,5 +1,5 @@
 ---
-title: A Reflection on Sensor Journalism
+title: 'A Reflection on Sensor Journalism'
 tagnames: water-sensing, conductivity, coqui, sensor-journalism
 author: madelinebilis
 path: /notes/madelinebilis/10-06-2014/a-reflection-on-sensor-journalism.md

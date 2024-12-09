@@ -1,5 +1,5 @@
 ---
-title: Aerial mapping a reclaimed landfill
+title: 'Aerial mapping a reclaimed landfill'
 tagnames: kite-mapping, vermont, kite-aerial-photography, landfill, kap, waste-management, waste, northeast, saturnv, skyshield, bristol-vt
 author: cfastie
 path: /notes/cfastie/10-08-2016/aerial-mapping-a-reclaimed-landfill.md

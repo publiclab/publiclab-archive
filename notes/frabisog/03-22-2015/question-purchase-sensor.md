@@ -1,5 +1,5 @@
 ---
-title: Question: purchase sensor
+title: 'Question: purchase sensor'
 tagnames: question:riffle
 author: frabisog
 path: /notes/frabisog/03-22-2015/question-purchase-sensor.md

@@ -1,5 +1,5 @@
 ---
-title: Is the Riffle for sale at the Public Lab Store?
+title: 'Is the Riffle for sale at the Public Lab Store?'
 tagnames: kits, riffle, open-water, kits-initiative, question:riffle, answered, community-kits
 author: cfastie
 path: /notes/cfastie/01-24-2018/is-the-riffle-for-sale-at-the-public-lab-store.md

@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism to Fight Censorship
+title: 'Sensor Journalism to Fight Censorship'
 tagnames: sensor-journalism, response:12723, response:12748, hidden:response
 author: mercybenzaquen
 path: /notes/mercybenzaquen/02-23-2016/sensor-journalism-to-fight-censorship.md

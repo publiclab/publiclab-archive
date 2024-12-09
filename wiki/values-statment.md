@@ -1,5 +1,5 @@
 ---
-title: Values statment
+title: 'Values statment'
 tagnames: redirect:values-statement
 author: cindy_excites
 path: /wiki/values-statment.md

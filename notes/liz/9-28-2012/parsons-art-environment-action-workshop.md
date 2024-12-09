@@ -1,5 +1,5 @@
 ---
-title: Parsons Art Environment Action! workshop
+title: 'Parsons Art Environment Action! workshop'
 tagnames: new-york-city, balloon-mapping, washington-square-park
 author: liz
 path: /notes/liz/9-28-2012/parsons-art-environment-action-workshop.md

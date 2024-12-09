@@ -1,5 +1,5 @@
 ---
-title: PET Bottle & Rubber Band Rig
+title: 'PET Bottle & Rubber Band Rig'
 tagnames: 1, difficulty:easy, time:3h, category:build, activity:aerial-photography, activity:camera-rigs, activity:balloon-mapping
 author: mathew
 path: /notes/mathew/09-23-2016/pet-bottle-rubber-band-rig-wiki-page-as-research-note.md

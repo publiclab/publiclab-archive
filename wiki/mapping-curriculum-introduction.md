@@ -1,5 +1,5 @@
 ---
-title: Mapping Curriculum Introduction
+title: 'Mapping Curriculum Introduction'
 tagnames: 
 author: warren
 path: /wiki/mapping-curriculum-introduction.md

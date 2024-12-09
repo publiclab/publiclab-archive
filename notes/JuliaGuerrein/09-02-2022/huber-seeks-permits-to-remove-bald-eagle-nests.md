@@ -1,5 +1,5 @@
 ---
-title: Huber seeks permits to remove bald eagle nests
+title: 'Huber seeks permits to remove bald eagle nests'
 tagnames: minnesota, zoom:6, law-and-policy, mn-land-manoomin-protection, eagle, lat:46.729553, lon:-94.685899
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/09-02-2022/huber-seeks-permits-to-remove-bald-eagle-nests.md

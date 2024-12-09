@@ -1,5 +1,5 @@
 ---
-title: Halo: Red vs. Blue
+title: 'Halo: Red vs. Blue'
 tagnames: vermont, infrared, sky, atmosphere, infragram, super-red, response:10523, activity:multispectral-imaging
 author: cfastie
 path: /notes/cfastie/06-03-2014/halo-red-vs-blue.md

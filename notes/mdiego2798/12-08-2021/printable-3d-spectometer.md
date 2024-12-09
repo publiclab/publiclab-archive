@@ -1,5 +1,5 @@
 ---
-title: Printable 3D Spectometer 
+title: 'Printable 3D Spectometer '
 tagnames: spectrometry, upgrade:spectrometry, seeks:builds, upgrade:foldable-spec, foldable-spec, first-time-poster
 author: mdiego2798
 path: /notes/mdiego2798/12-08-2021/printable-3d-spectometer.md

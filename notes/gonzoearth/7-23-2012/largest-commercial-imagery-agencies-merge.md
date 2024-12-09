@@ -1,5 +1,5 @@
 ---
-title: Largest commercial imagery agencies merge
+title: 'Largest commercial imagery agencies merge'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/7-23-2012/largest-commercial-imagery-agencies-merge.md

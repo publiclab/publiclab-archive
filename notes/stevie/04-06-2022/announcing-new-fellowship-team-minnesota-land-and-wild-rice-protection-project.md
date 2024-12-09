@@ -1,5 +1,5 @@
 ---
-title: Announcing New Fellowship Team: Minnesota Land and Wild Rice Protection Project
+title: 'Announcing New Fellowship Team: Minnesota Land and Wild Rice Protection Project'
 tagnames: heavy-metals, pipeline, mining, minnesota, fracking, jobs, midwest, ecology, fellows, fellowship, fellow, mill, fellowship-team, fellowship-teams, lumber, particle-board, with:bee, mn-land-manoomin-protection
 author: stevie
 path: /notes/stevie/04-06-2022/announcing-new-fellowship-team-minnesota-land-and-wild-rice-protection-project.md

@@ -1,5 +1,5 @@
 ---
-title: Odor Logging
+title: 'Odor Logging'
 tagnames: landfill, air-quality, air, waste, landfills, odor, method, oil-and-gas, smell, parent:air-quality, odor-logging, bucket-monitor
 author: imvec
 path: /wiki/odor.md

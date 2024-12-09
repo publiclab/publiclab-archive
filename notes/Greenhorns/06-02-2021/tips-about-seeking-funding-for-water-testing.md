@@ -1,5 +1,5 @@
 ---
-title: Tips about seeking funding for water testing?
+title: 'Tips about seeking funding for water testing?'
 tagnames: fundraising, mining, water-quality, water, maine, northeast, grants, question:water-quality, question:general, general, question:water, question:mining, question:maine, response:26582, funding, question:funding
 author: Greenhorns
 path: /notes/Greenhorns/06-02-2021/tips-about-seeking-funding-for-water-testing.md

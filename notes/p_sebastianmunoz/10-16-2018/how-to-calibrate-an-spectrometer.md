@@ -1,5 +1,5 @@
 ---
-title: How to calibrate an spectrometer?
+title: 'How to calibrate an spectrometer?'
 tagnames: question:general
 author: p_sebastianmunoz
 path: /notes/p_sebastianmunoz/10-16-2018/how-to-calibrate-an-spectrometer.md

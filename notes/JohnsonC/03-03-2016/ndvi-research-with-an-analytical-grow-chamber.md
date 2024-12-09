@@ -1,5 +1,5 @@
 ---
-title: NDVI Research with an Analytical Grow Chamber
+title: 'NDVI Research with an Analytical Grow Chamber'
 tagnames: ndvi, infrared, filter, infragram, led, stress, sensor, blue, 8-bit, yawcam, tableau
 author: JohnsonC
 path: /notes/JohnsonC/03-03-2016/ndvi-research-with-an-analytical-grow-chamber.md

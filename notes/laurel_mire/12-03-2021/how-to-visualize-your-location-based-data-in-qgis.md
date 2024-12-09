@@ -1,5 +1,5 @@
 ---
-title: How to visualize your location-based data in QGIS
+title: 'How to visualize your location-based data in QGIS'
 tagnames: mapping, air-quality, gis, barnstar:basic, data-visualization, activity:new, activity:gis, activity:mapping, research-curation-fellows, presenting-data, activity:presenting-data, air-quality-data, data-visualization-tool, activity:air-quality-data, data-viz
 author: laurel_mire
 path: /notes/laurel_mire/12-03-2021/how-to-visualize-your-location-based-data-in-qgis.md

@@ -1,5 +1,5 @@
 ---
-title: Gas-Calibrated Monitor Explainer
+title: 'Gas-Calibrated Monitor Explainer'
 tagnames: air-quality, air, blog, lang:es, gas-monitoring, air-sampling, purpleair, spanish, lat:34, technology, purple-air, lon:-118, zoom:6, activity:air-sampling, VVAMP, with:denissebn_06, activity:gas-monitoring
 author: sarasage
 path: /notes/sarasage/07-01-2021/gas-calibrated-monitor-explainer.md

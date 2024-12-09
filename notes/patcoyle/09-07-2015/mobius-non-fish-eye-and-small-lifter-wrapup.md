@@ -1,5 +1,5 @@
 ---
-title: Mobius non-fish eye and small lifter wrapup
+title: 'Mobius non-fish eye and small lifter wrapup'
 tagnames: balloon-mapping, mylar, photo-rig, mobius-actioncam, infragram-point-shoot, non-fish-eye, ardrone, mylar-balloons, balloons, mini-kite-kit, mini-balloon-kit, activity:infragram, lens-distortion, activity:mobius, activity:filter-swapping
 author: patcoyle
 path: /notes/patcoyle/09-07-2015/mobius-non-fish-eye-and-small-lifter-wrapup.md

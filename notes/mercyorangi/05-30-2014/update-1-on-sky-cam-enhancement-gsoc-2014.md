@@ -1,5 +1,5 @@
 ---
-title: Update 1 on Sky Cam Enhancement - GSoC 2014
+title: 'Update 1 on Sky Cam Enhancement - GSoC 2014'
 tagnames: plots, gsoc, skycam, gsoc-2014
 author: mercyorangi
 path: /notes/mercyorangi/05-30-2014/update-1-on-sky-cam-enhancement-gsoc-2014.md

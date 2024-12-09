@@ -1,5 +1,5 @@
 ---
-title: How do you choose where to take soil samples when concerned about leaching of contaminants from a landfill?
+title: 'How do you choose where to take soil samples when concerned about leaching of contaminants from a landfill?'
 tagnames: landfill, soil, soil-testing, soil-sampling, question:soil-sampling, question:soil, soil-contaminants, soil-contaminant-testing, soil-testing-kits, response:18505, question:landfill
 author: DanielleS
 path: /notes/DanielleS/03-12-2019/how-do-you-choose-where-to-take-soil-samples-when-concerned-about-leaching-of-contaminants-from-a-landfill.md

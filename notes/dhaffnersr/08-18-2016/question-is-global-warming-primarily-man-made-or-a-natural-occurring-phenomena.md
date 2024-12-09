@@ -1,5 +1,5 @@
 ---
-title: Question: Is Global Warming primarily man-made or a natural occurring phenomena?
+title: 'Question: Is Global Warming primarily man-made or a natural occurring phenomena?'
 tagnames: answered
 author: dhaffnersr
 path: /notes/dhaffnersr/08-18-2016/question-is-global-warming-primarily-man-made-or-a-natural-occurring-phenomena.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Prairie Island Pole Mapping 3, Grasses
+title: 'MapKnitter map of Prairie Island Pole Mapping 3, Grasses'
 tagnames: 
 author: jkpetter
 path: /notes/jkpetter/10-10-2016/mapknitter-map-of-prairie-island-pole-mapping-3-grasses.md

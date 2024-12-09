@@ -1,5 +1,5 @@
 ---
-title: Mapping Waste When Waste is Invisible
+title: 'Mapping Waste When Waste is Invisible'
 tagnames: gps, visualization, grassrootsmappingforum, trash, gmf-6, style:fancy
 author: mollydanielsson
 path: /wiki/mapping-waste-when-waste-is-invisible.md

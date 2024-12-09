@@ -1,5 +1,5 @@
 ---
-title: Questions About Gain Correction and their use in Plot Data
+title: 'Questions About Gain Correction and their use in Plot Data'
 tagnames: 
 author: dhaffnersr
 path: /wiki/questions-about-gain-correction-and-their-use-in-plot-data.md

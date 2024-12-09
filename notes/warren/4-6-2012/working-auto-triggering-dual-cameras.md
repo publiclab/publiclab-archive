@@ -1,5 +1,5 @@
 ---
-title: Working auto-triggering for dual cameras
+title: 'Working auto-triggering for dual cameras'
 tagnames: near-infrared-camera
 author: warren
 path: /notes/warren/4-6-2012/working-auto-triggering-dual-cameras.md

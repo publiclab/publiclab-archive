@@ -1,5 +1,5 @@
 ---
-title: Quick Kite Survey of Bayou St John Wetland, post-Cindy, July 1st 2017
+title: 'Quick Kite Survey of Bayou St John Wetland, post-Cindy, July 1st 2017'
 tagnames: gulf-coast, kite-mapping, bsj
 author: eustatic
 path: /07-10-2017/quick-kite-survey-of-bayou-st-john-wetland-post-cindy-july-1st-2017.md

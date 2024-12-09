@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal by narnt
+title: 'Outreachy proposal by narnt'
 tagnames: software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster
 author: thayshi
 path: /notes/thayshi/11-01-2018/outreachy-proposal-by-narnt.md

@@ -1,5 +1,5 @@
 ---
-title: Help us refine the search interface at PublicLab.org/search
+title: 'Help us refine the search interface at PublicLab.org/search'
 tagnames: question, search, rgsoc, ui, question:ui, comment-template:ui-feedback-template
 author: warren
 path: /notes/warren/10-29-2018/help-us-refine-the-search-interface-at-publiclab-org.md

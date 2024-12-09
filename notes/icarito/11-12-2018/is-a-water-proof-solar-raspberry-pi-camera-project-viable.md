@@ -1,5 +1,5 @@
 ---
-title: Is a Water Proof Solar Raspberry Pi Camera project viable?
+title: 'Is a Water Proof Solar Raspberry Pi Camera project viable?'
 tagnames: raspberry-pi, photo-monitoring, timelapse, pi-camera, question:timelapse, question:pi-camera
 author: icarito
 path: /notes/icarito/11-12-2018/is-a-water-proof-solar-raspberry-pi-camera-project-viable.md

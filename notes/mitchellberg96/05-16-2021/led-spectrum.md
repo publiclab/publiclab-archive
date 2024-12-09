@@ -1,5 +1,5 @@
 ---
-title: LED Spectrum
+title: 'LED Spectrum'
 tagnames: first-time-poster, zoom:5, lat:42.287148, lon:-85.605247
 author: mitchellberg96
 path: /notes/mitchellberg96/05-16-2021/led-spectrum.md

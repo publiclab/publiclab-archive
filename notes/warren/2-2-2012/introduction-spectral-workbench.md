@@ -1,5 +1,5 @@
 ---
-title: Introduction to Spectral Workbench
+title: 'Introduction to Spectral Workbench'
 tagnames: 
 author: warren
 path: /notes/warren/2-2-2012/introduction-spectral-workbench.md

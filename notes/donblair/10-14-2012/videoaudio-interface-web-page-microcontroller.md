@@ -1,5 +1,5 @@
 ---
-title: Video/Audio interface, Web page & Microcontroller
+title: 'Video/Audio interface, Web page & Microcontroller'
 tagnames: arduino, sensing
 author: donblair
 path: /notes/donblair/10-14-2012/videoaudio-interface-web-page-microcontroller.md

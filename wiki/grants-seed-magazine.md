@@ -1,5 +1,5 @@
 ---
-title: Grants: Seed Magazine
+title: 'Grants: Seed Magazine'
 tagnames: 
 author: warren
 path: /wiki/grants-seed-magazine.md

@@ -1,5 +1,5 @@
 ---
-title: Cigars
+title: 'Cigars'
 tagnames: spectrometer, vermont, emission-spectroscopy, ebert, neon-sign
 author: cfastie
 path: /notes/cfastie/2-21-2013/cigars.md

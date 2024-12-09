@@ -1,5 +1,5 @@
 ---
-title: Point Platte marsh restoration over time; air vs ground
+title: 'Point Platte marsh restoration over time; air vs ground'
 tagnames: balloon-mapping
 author: eustatic
 path: /6-11-2012/point-platte-marsh-restoration-over-time-air-vs-ground.md

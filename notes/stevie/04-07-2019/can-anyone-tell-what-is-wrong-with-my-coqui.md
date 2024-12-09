@@ -1,5 +1,5 @@
 ---
-title: Can anyone tell what is wrong with my coqui?
+title: 'Can anyone tell what is wrong with my coqui?'
 tagnames: question:water-quality, question:coqui, question:kits, question:make
 author: stevie
 path: /notes/stevie/04-07-2019/can-anyone-tell-what-is-wrong-with-my-coqui.md

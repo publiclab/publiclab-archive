@@ -1,5 +1,5 @@
 ---
-title: What is the best way to take a sample of snow to look for particulates? 
+title: 'What is the best way to take a sample of snow to look for particulates? '
 tagnames: air-quality, frac-sand, question:air-quality, microscope, question:question, question:frac-sand, question:microscope, question:sampling
 author: stevie
 path: /notes/stevie/12-19-2017/what-s-the-best-way-to-take-a-sample-of-snow-to-look-for-particulates.md

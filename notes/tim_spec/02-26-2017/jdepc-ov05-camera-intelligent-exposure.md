@@ -1,5 +1,5 @@
 ---
-title: JDEPC-OV05 camera intelligent exposure
+title: 'JDEPC-OV05 camera intelligent exposure'
 tagnames: spectrometry, webcam, question:spectrometry, exposure, question:dssk, color-correction
 author: tim_spec
 path: /notes/tim_spec/02-26-2017/jdepc-ov05-camera-intelligent-exposure.md

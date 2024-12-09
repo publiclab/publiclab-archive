@@ -1,5 +1,5 @@
 ---
-title: Video NDVI 
+title: 'Video NDVI '
 tagnames: near-infrared-camera, ndvi, infragram, infrablue, ffmpeg
 author: cfastie
 path: /notes/cfastie/06-02-2013/video-ndvi.md

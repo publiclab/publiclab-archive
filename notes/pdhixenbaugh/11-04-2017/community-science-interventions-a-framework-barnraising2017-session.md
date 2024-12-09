@@ -1,5 +1,5 @@
 ---
-title: Community Science Interventions: A Framework (Barnraising2017 Session)
+title: 'Community Science Interventions: A Framework (Barnraising2017 Session)'
 tagnames: community, gardening, barnraising-2017, barnraising2017, response:15142, response:14762, response:13862
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/11-04-2017/community-science-interventions-a-framework-barnraising2017-session.md

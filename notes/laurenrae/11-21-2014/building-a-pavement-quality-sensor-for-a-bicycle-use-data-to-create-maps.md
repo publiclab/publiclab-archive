@@ -1,5 +1,5 @@
 ---
-title: Building a pavement quality sensor for a bicycle, use data to create maps
+title: 'Building a pavement quality sensor for a bicycle, use data to create maps'
 tagnames: grassrootsmapping, remote-sensing, arduino, sensing, sensors, transportation, first-time-poster
 author: laurenrae
 path: /notes/laurenrae/11-21-2014/building-a-pavement-quality-sensor-for-a-bicycle-use-data-to-create-maps.md

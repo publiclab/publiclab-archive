@@ -1,5 +1,5 @@
 ---
-title: Barataria Bay Mapping Project 
+title: 'Barataria Bay Mapping Project '
 tagnames: gulf-coast, barataria-bay, wetlands, oil-spill, wetland, barataria, bp, crude-oil, lousiana, first, location:blurred, place:barataria-bay, lat:29.4, lon:-89.8, project:wetlands, second, third, fourthtrip:, flight:, fifthtrip:, sixth
 author: Shannon
 path: /wiki/barataria-bay-mapping-project.md

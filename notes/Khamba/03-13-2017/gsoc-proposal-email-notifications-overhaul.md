@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal - Email Notifications Overhaul
+title: 'GSoC Proposal - Email Notifications Overhaul'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, soc-2017-proposals, response:13975
 author: Khamba
 path: /notes/Khamba/03-13-2017/gsoc-proposal-email-notifications-overhaul.md

@@ -1,5 +1,5 @@
 ---
-title: Sunday 4.6.2014 -- Toolshed Raising
+title: 'Sunday 4.6.2014 -- Toolshed Raising'
 tagnames: first-time-poster
 author: kgradow1
 path: /notes/kgradow1/03-26-2014/sunday-3-30-somerville-ma-toolshed-raising-mbta-mapping-edition.md

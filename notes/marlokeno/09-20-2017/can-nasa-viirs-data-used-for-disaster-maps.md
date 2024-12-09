@@ -1,5 +1,5 @@
 ---
-title: Can NASA VIIRS data  used for disaster maps?
+title: 'Can NASA VIIRS data  used for disaster maps?'
 tagnames: remote-sensing, infrared, oil-spill, satellite-images, aerial-photography, epa, waste, hurricane, flood, hazards, answered, question:general, question:remote-sensing, harvey, question:harvey, harvey-needs, question:disaster-response
 author: marlokeno
 path: /notes/marlokeno/09-20-2017/can-nasa-viirs-data-used-for-disaster-maps.md

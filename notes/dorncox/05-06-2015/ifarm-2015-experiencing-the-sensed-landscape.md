@@ -1,5 +1,5 @@
 ---
-title:  iFARM 2015  “Experiencing the Sensed Landscape”
+title: ' iFARM 2015  “Experiencing the Sensed Landscape”'
 tagnames: uav, farm, event, ifarm, event:rsvp, 2015, new, hack, rov, hampshire, nh, date:05-12-2015
 author: dorncox
 path: /notes/dorncox/05-06-2015/ifarm-2015-experiencing-the-sensed-landscape.md

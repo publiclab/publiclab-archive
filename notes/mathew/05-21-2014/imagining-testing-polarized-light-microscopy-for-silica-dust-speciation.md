@@ -1,5 +1,5 @@
 ---
-title: Imagining & testing Polarized Light Microscopy for Silica dust speciation
+title: 'Imagining & testing Polarized Light Microscopy for Silica dust speciation'
 tagnames: particulate-sensing, air-quality, dust, particulates, silica, polarized-light, polarized-light-microscopy, open-air, particles, particle-sensing, passive-pm, activity:microscope, activity:microscopes, activity:community-microscope-usage, polarizing-filter
 author: mathew
 path: /notes/mathew/05-21-2014/imagining-testing-polarized-light-microscopy-for-silica-dust-speciation.md

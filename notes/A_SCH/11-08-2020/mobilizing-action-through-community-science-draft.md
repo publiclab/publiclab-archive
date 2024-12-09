@@ -1,5 +1,5 @@
 ---
-title: Bucket Successes 
+title: 'Bucket Successes '
 tagnames: air-quality, bucket-brigade, barnstar:watchdog, with:kgradow1, advocacy, community-organizing, advocacy-pathways, bucket-monitor
 author: A_SCH
 path: /notes/A_SCH/11-08-2020/mobilizing-action-through-community-science-draft.md

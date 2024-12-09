@@ -1,5 +1,5 @@
 ---
-title: [withdrawn] GSoC Proposal: Mapknitter Overhaul 
+title: '[withdrawn] GSoC Proposal: Mapknitter Overhaul '
 tagnames: outreach, gsoc, software-development, gsoc-2019, soc-2019, lat:28.704059, lon:77.10249, soc-2019-proposals
 author: gauravano
 path: /notes/gauravano/04-07-2019/gsoc-proposal-mapknitter-overhaul.md

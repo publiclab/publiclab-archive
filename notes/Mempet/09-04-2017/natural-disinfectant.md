@@ -1,5 +1,5 @@
 ---
-title: Natural Disinfectant
+title: 'Natural Disinfectant'
 tagnames: question:question, algea, disenfectant
 author: Mempet
 path: /notes/Mempet/09-04-2017/natural-disinfectant.md

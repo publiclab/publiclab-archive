@@ -1,5 +1,5 @@
 ---
-title: Sanm LeafKam
+title: 'Sanm LeafKam'
 tagnames: near-infrared-camera, nrg, ndvi, nir, vermont, infrared-camera, infragram, plant-health, development
 author: cfastie
 path: /notes/cfastie/4-14-2013/sanm-leafkam.md

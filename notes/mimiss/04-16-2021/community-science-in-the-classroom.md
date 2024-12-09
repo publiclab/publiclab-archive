@@ -1,5 +1,5 @@
 ---
-title: Community Science in the Classroom
+title: 'Community Science in the Classroom'
 tagnames: education, classroom, blog, community-science, classroom-community-science, with:purl, eeweek2021
 author: mimiss
 path: /notes/mimiss/04-16-2021/community-science-in-the-classroom.md

@@ -1,5 +1,5 @@
 ---
-title: Article: MODIS Detects Oil Spills in Lake Maracaibo, Venezuela
+title: 'Article: MODIS Detects Oil Spills in Lake Maracaibo, Venezuela'
 tagnames: remote-sensing, oil-spill, nasa, modis, south-america, satellite, venezuela
 author: warren
 path: /notes/warren/1-30-2011/article-modis-detects-oil-spills-lake-maracaibo-venezuela.md

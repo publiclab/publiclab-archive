@@ -1,5 +1,5 @@
 ---
-title: NPR Series on Toxic Places
+title: 'NPR Series on Toxic Places'
 tagnames: 
 author: Shannon
 path: /notes/shannon/11-7-2011/npr-series-toxic-places.md

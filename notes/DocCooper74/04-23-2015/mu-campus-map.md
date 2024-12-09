@@ -1,5 +1,5 @@
 ---
-title: MU Campus Map
+title: 'MU Campus Map'
 tagnames: mansfield, university, pennsylvania
 author: DocCooper74
 path: /notes/DocCooper74/04-23-2015/mu-campus-map.md

@@ -1,5 +1,5 @@
 ---
-title: Favorite camera for balloon/kite mapping?
+title: 'Favorite camera for balloon/kite mapping?'
 tagnames: kite, kap, mapping, bap, balloon, question:balloon-mapping, question:kite-mapping
 author: adam-griffith
 path: /notes/adam-griffith/08-27-2019/favorite-camera-for-balloon-kite-mapping.md

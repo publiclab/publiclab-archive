@@ -1,5 +1,5 @@
 ---
-title: GSoC 2017: Final Work Product of Image Sequencer Project
+title: 'GSoC 2017: Final Work Product of Image Sequencer Project'
 tagnames: image-processing, gsoc, google-summer-of-code, image-analysis, gsoc-2017, soc, soc-2017, response:14788
 author: ccpandhare
 path: /notes/ccpandhare/08-23-2017/gsoc-2017-final-work-product-of-image-sequencer-project.md

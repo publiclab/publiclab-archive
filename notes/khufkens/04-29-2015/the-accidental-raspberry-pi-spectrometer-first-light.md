@@ -1,5 +1,5 @@
 ---
-title: The accidental raspberry pi spectrometer: first light
+title: 'The accidental raspberry pi spectrometer: first light'
 tagnames: spectrometer, diy, light, first
 author: khufkens
 path: /notes/khufkens/04-29-2015/the-accidental-raspberry-pi-spectrometer-first-light.md

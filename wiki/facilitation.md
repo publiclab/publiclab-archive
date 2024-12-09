@@ -1,5 +1,5 @@
 ---
-title: Facilitate your meetings
+title: 'Facilitate your meetings'
 tagnames: community, organizing, methodologies, communityengagement, resources-on-facilitation, facilitation, resources-for-facilitation, method
 author: wward1400
 path: /wiki/facilitation.md

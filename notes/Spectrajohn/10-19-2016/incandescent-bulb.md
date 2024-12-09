@@ -1,5 +1,5 @@
 ---
-title: Incandescent Bulb
+title: 'Incandescent Bulb'
 tagnames: hidden:response, response:13586
 author: Spectrajohn
 path: /notes/Spectrajohn/10-19-2016/incandescent-bulb.md

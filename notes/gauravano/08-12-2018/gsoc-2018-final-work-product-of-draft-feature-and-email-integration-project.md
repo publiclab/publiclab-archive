@@ -1,5 +1,5 @@
 ---
-title: GSoC 2018: Final Work Product of Draft Feature and Email Integration Project 
+title: 'GSoC 2018: Final Work Product of Draft Feature and Email Integration Project '
 tagnames: software, gsoc, soc, gsoc-2018, soc-2018, gsoc-2018-final, draft-feature, soc-2018-final-report
 author: gauravano
 path: /notes/gauravano/08-12-2018/gsoc-2018-final-work-product-of-draft-feature-and-email-integration-project.md

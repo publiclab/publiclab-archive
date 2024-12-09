@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Camera Rig
+title: 'Raspberry Pi Camera Rig'
 tagnames: balloon-mapping, near-infrared-camera, photo-rig, raspberry-pi, activity:photo-rig, raspberry-pi-cameras, activity:raspberry-pi, activity:raspberry-pi-infragram, activity:pi-camera
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/03-12-2014/raspberry-pi-camera-rig.md

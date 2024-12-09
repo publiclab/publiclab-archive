@@ -1,5 +1,5 @@
 ---
-title: CivilServant Community Research Summit, community, society and moderation systems
+title: 'CivilServant Community Research Summit, community, society and moderation systems'
 tagnames: collaboration, outreach, research, peer-production, moderation, newcomers, onboarding, welcoming, wikipedia
 author: warren
 path: /notes/warren/01-27-2018/civilservant-community-research-summit-community-society-and-moderation-systems.md

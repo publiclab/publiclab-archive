@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Little Mountain Road
+title: 'MapKnitter map of Little Mountain Road'
 tagnames: mapknitter, first-time-poster, zoom:16, lat:45.98368408, lon:-121.4853504742, lat:45.983684, lon:-121.48535
 author: porteric
 path: /notes/porteric/02-27-2020/mapknitter-map-of-little-mountain-road.md

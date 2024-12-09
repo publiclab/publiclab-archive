@@ -1,5 +1,5 @@
 ---
-title: "CHEMICAL FALLOUT FROM HURRICANE IRMA COULD BE WORSE THAN HARVEY'S"
+title: '"CHEMICAL FALLOUT FROM HURRICANE IRMA COULD BE WORSE THAN HARVEY'S"'
 tagnames: hurricane, florida, texas, harvey, irma, chemical-pollution, arkema
 author: gilbert
 path: /notes/gilbert/09-08-2017/chemical-fallout-from-hurricane-irma-could-be-worse-than-harvey-s.md

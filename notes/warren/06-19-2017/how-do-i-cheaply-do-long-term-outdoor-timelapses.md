@@ -1,5 +1,5 @@
 ---
-title: How do I cheaply do long-term outdoor timelapses?
+title: 'How do I cheaply do long-term outdoor timelapses?'
 tagnames: photo-monitoring, timelapse, gopro, question:timelapse, question:photo-monitoring
 author: warren
 path: /notes/warren/06-19-2017/how-do-i-cheaply-do-long-term-outdoor-timelapses.md

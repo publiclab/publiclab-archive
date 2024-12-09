@@ -1,5 +1,5 @@
 ---
-title: Public Lab receives support from Open Society Foundations to launch Data Advocacy initiative
+title: 'Public Lab receives support from Open Society Foundations to launch Data Advocacy initiative'
 tagnames: nonprofit
 author: Shannon
 path: /notes/Shannon/10-18-2014/public-lab-receives-support-from-open-society-foundations-to-launch-data-advocacy-initiative.md

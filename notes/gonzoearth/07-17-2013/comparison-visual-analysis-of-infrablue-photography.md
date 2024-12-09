@@ -1,5 +1,5 @@
 ---
-title: comparison visual analysis of infrablue photography 
+title: 'comparison visual analysis of infrablue photography '
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/07-17-2013/comparison-visual-analysis-of-infrablue-photography.md

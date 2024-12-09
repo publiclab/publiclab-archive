@@ -1,5 +1,5 @@
 ---
-title:  iFarm (Imaging For Agricultural Research and Management) field day
+title: ' iFarm (Imaging For Agricultural Research and Management) field day'
 tagnames: vermont, boston, new-hampshire, farmhack, event, greenstart, ifarm, northeast, first-time-poster
 author: dorncox
 path: /notes/dorncox/4-23-2013/ifarm-imaging-agricultural-research-and-management-field-day.md

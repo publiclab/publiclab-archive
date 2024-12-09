@@ -1,5 +1,5 @@
 ---
-title: outreachy
+title: 'outreachy'
 tagnames: redirect:gsoc
 author: warren
 path: /wiki/outreachy.md

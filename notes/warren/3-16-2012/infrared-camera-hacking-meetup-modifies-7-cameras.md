@@ -1,5 +1,5 @@
 ---
-title: Infrared camera hacking meetup modifies 7 cameras
+title: 'Infrared camera hacking meetup modifies 7 cameras'
 tagnames: balloon-mapping, near-infrared-camera
 author: warren
 path: /notes/warren/3-16-2012/infrared-camera-hacking-meetup-modifies-7-cameras.md

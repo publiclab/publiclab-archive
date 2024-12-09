@@ -1,5 +1,5 @@
 ---
-title: Gear Map
+title: 'Gear Map'
 tagnames: 
 author: sara
 path: /wiki/gear-map.md

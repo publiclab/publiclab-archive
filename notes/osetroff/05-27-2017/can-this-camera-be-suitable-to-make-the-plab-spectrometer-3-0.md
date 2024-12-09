@@ -1,5 +1,5 @@
 ---
-title: Can this camera be suitable to make the PLAB spectrometer 3.0?
+title: 'Can this camera be suitable to make the PLAB spectrometer 3.0?'
 tagnames: question:generalspectrometer
 author: osetroff
 path: /notes/osetroff/05-27-2017/can-this-camera-be-suitable-to-make-the-plab-spectrometer-3-0.md

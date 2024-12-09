@@ -1,5 +1,5 @@
 ---
-title: csp
+title: 'csp'
 tagnames: 
 author: amocorro
 path: /wiki/csp.md

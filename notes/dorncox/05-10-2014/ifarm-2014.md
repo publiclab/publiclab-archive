@@ -1,5 +1,5 @@
 ---
-title: iFARM 2014
+title: 'iFARM 2014'
 tagnames: boston, new-hampshire, farmhack, uav, agriculture, event, garden, ifarm, crops, northeast, uas, ifarm2014, aerial-imaging, internet-of-things
 author: dorncox
 path: /notes/dorncox/05-10-2014/ifarm-2014.md

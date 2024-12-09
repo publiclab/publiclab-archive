@@ -1,5 +1,5 @@
 ---
-title: How can I make IR photos derived from various cutoff useful for creating NDVI (normalized difference vegetation index) images?
+title: 'How can I make IR photos derived from various cutoff useful for creating NDVI (normalized difference vegetation index) images?'
 tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster
 author: lev29
 path: /notes/lev29/01-15-2020/can-certain-types-of-ir-photos-i-could-submit-be-useful-or-convertible-to-infrablue-images.md

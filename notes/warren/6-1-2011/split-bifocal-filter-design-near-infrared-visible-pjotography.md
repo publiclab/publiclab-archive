@@ -1,5 +1,5 @@
 ---
-title: Split bifocal filter design for near-infrared + visible pjotography
+title: 'Split bifocal filter design for near-infrared + visible pjotography'
 tagnames: near-infrared-camera, beamsplitter
 author: warren
 path: /notes/warren/6-1-2011/split-bifocal-filter-design-near-infrared-visible-pjotography.md

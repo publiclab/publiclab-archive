@@ -1,5 +1,5 @@
 ---
-title: New foldable spectrometer packaging
+title: 'New foldable spectrometer packaging'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/07-05-2013/new-foldable-spectrometer-packaging.md

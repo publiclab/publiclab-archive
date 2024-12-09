@@ -1,5 +1,5 @@
 ---
-title: "IT'S A MAP!" @ Beam Camp, NH
+title: '"IT'S A MAP!" @ Beam Camp, NH'
 tagnames: education, new-hampshire, beam-camp, summer-camp, teaching, mapping-with-youth, campers, strafford-new-hampshire, northeast, strafford
 author: oscarbrett
 path: /notes/oscar-brett/8-1-2012/its-map-beam-camp-nh.md

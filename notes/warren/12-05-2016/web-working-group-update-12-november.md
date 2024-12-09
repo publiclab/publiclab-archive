@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Update 12: November
+title: 'Web Working Group Update 12: November'
 tagnames: community, web-development, software, plots2, outreach, developers, wwg, webwg, internationalization, software-outreach, firsttimersonly, response:12781
 author: warren
 path: /notes/warren/12-05-2016/web-working-group-update-12-november.md

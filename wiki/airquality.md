@@ -1,5 +1,5 @@
 ---
-title: airquality
+title: 'airquality'
 tagnames: redirect:air-quality
 author: warren
 path: /wiki/airquality.md

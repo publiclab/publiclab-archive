@@ -1,5 +1,5 @@
 ---
-title: Area calculation of Mestia, Georgia
+title: 'Area calculation of Mestia, Georgia'
 tagnames: balloon-mapping, georgia, middle-east
 author: warren
 path: /notes/warren/5-19-2011/area-calculation-mestia-georgia.md

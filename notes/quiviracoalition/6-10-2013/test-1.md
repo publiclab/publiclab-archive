@@ -1,5 +1,5 @@
 ---
-title: Test 1
+title: 'Test 1'
 tagnames: 
 author: quivira_coalition
 path: /notes/quiviracoalition/6-10-2013/test-1.md

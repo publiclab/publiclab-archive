@@ -1,5 +1,5 @@
 ---
-title: RGSoC proposal: Rich Editor Extras
+title: 'RGSoC proposal: Rich Editor Extras'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals
 author: soniya2903
 path: /notes/soniya2903/03-01-2018/rgsoc-proposal-rich-editor-extras.md

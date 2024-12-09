@@ -1,5 +1,5 @@
 ---
-title: Infrared Vegetation Analysis Activity
+title: 'Infrared Vegetation Analysis Activity'
 tagnames: near-infrared-camera, nrg, activity
 author: warren
 path: /wiki/infrared-vegetation-analysis-activity.md

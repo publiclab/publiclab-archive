@@ -1,5 +1,5 @@
 ---
-title: Video tutorial: Soda bottle rig mods by Pat Coyle
+title: 'Video tutorial: Soda bottle rig mods by Pat Coyle'
 tagnames: balloon-mapping, photo-rig, replication:13948
 author: warren
 path: /notes/warren/8-24-2011/video-soda-bottle-rig-mods-pat-coyle.md

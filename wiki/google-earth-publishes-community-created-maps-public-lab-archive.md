@@ -1,5 +1,5 @@
 ---
-title: Google Earth Publishes Community-created Maps from the Public Lab Archive
+title: 'Google Earth Publishes Community-created Maps from the Public Lab Archive'
 tagnames: balloon-mapping, kite-mapping
 author: Shannon
 path: /wiki/google-earth-publishes-community-created-maps-public-lab-archive.md

@@ -1,5 +1,5 @@
 ---
-title: Gather and analyze long term solar and wind data for my locale
+title: 'Gather and analyze long term solar and wind data for my locale'
 tagnames: arduino, wisconsin, wind, monitoring, weather, solar, activity:arduino, activity:weather, activity:wind, activity:solar
 author: wjw
 path: /notes/wjw/01-25-2016/gather-and-analyze-long-term-solar-and-wind-data-for-my-locale.md

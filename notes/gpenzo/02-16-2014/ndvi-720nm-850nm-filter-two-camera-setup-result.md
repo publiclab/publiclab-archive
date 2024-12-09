@@ -1,5 +1,5 @@
 ---
-title: NDVI 720nm, 850nm filter two camera setup result.
+title: 'NDVI 720nm, 850nm filter two camera setup result.'
 tagnames: near-infrared-camera, ndvi, nir, canon
 author: gpenzo
 path: /notes/gpenzo/02-16-2014/ndvi-720nm-850nm-filter-two-camera-setup-result.md

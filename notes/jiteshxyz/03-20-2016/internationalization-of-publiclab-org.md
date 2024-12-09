@@ -1,5 +1,5 @@
 ---
-title: Internationalization of Publiclab.org
+title: 'Internationalization of Publiclab.org'
 tagnames: software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827
 author: jiteshxyz
 path: /notes/jiteshxyz/03-20-2016/internationalization-of-publiclab-org.md

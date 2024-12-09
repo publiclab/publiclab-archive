@@ -1,5 +1,5 @@
 ---
-title: What gases can a FLIR GasFinder (OGI) infrared camera detect?
+title: 'What gases can a FLIR GasFinder (OGI) infrared camera detect?'
 tagnames: thermal-photography, flir, methane, benzene, gas, gas-sensor, question:thermal-photography, carbon-dioxide, question:oil-and-gas, carbon-monoxide, question:flir, gas-leak, gas-imaging, optical-gas-imaging, ogi, ethyl-alcohol, hydrocarbons, propane, butane, propylene, refrigerants, sulfur-hexafluoride, trichloroethylene, vinyl-chloride-monomer, question:methane
 author: warren
 path: /notes/warren/09-25-2017/what-gases-can-a-flir-gasfinder-ogi-infrared-camera-detect.md

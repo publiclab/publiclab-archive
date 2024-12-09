@@ -1,5 +1,5 @@
 ---
-title: Battlement Mesa Concerned Citizens Bucket Brigade
+title: 'Battlement Mesa Concerned Citizens Bucket Brigade'
 tagnames: 
 author: warren
 path: /notes/warren/9-19-2011/battlement-mesa-concerned-citizens-bucket-brigade.md

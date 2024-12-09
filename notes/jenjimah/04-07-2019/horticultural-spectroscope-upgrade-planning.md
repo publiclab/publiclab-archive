@@ -1,5 +1,5 @@
 ---
-title: Horticultural Spectrometer Upgrade - Planning
+title: 'Horticultural Spectrometer Upgrade - Planning'
 tagnames: agriculture, spectrometry, spectroscopy, spectroscope, pi-camera, upgrade, first-time-poster, horticulture, pi-calibration
 author: jenjimah
 path: /notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning.md

@@ -1,5 +1,5 @@
 ---
-title: Advice regarding taking photos over frozen
+title: 'Advice regarding taking photos over frozen'
 tagnames: timelapse, monitoring, fracking, frac-sand, question:timelapse, question:general, frozen, question:oil-and-gas
 author: dailyxeoto
 path: /notes/dailyxeoto/06-13-2018/advice-regarding-taking-photos-over-frozen.md

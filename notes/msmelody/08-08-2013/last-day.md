@@ -1,5 +1,5 @@
 ---
-title: Last Day!
+title: 'Last Day!'
 tagnames: new-york-city, chaq, air-quality, air-quality-egg
 author: msmelody
 path: /notes/msmelody/08-08-2013/last-day.md

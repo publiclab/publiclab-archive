@@ -1,5 +1,5 @@
 ---
-title: Four Thermal Flashlight hack day pics
+title: 'Four Thermal Flashlight hack day pics'
 tagnames: 
 author: warren
 path: /notes/warren/12-12-2011/fwd-four-hack-day-pics.md

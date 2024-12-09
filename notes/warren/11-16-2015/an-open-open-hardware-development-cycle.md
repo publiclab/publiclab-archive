@@ -1,5 +1,5 @@
 ---
-title: An "open open hardware" development cycle
+title: 'An "open open hardware" development cycle'
 tagnames: spectrometer, collaboration, community, open-hardware, kits, dsk, kits-initiative, with:mathew, with:liz, open-open-hardware, transparency, with:tonyc
 author: warren
 path: /notes/warren/11-16-2015/an-open-open-hardware-development-cycle.md

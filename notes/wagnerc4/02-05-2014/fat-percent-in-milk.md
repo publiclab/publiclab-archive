@@ -1,5 +1,5 @@
 ---
-title: Fat percent in milk
+title: 'Fat percent in milk'
 tagnames: spectrometer, milk, milk-fat, activity:spectrometry
 author: wagnerc4
 path: /notes/wagnerc4/02-05-2014/fat-percent-in-milk.md

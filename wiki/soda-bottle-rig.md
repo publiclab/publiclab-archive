@@ -1,5 +1,5 @@
 ---
-title: Soda Bottle Rig
+title: 'Soda Bottle Rig'
 tagnames: photo-rig, soda-bottle, camera-housing
 author: warren
 path: /wiki/soda-bottle-rig.md

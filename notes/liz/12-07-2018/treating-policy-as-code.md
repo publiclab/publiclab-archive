@@ -1,5 +1,5 @@
 ---
-title: Treating policy as code
+title: 'Treating policy as code'
 tagnames: writing, lead, versioning, policy
 author: liz
 path: /notes/liz/12-07-2018/treating-policy-as-code.md

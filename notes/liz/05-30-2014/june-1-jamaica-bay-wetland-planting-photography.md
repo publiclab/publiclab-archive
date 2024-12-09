@@ -1,5 +1,5 @@
 ---
-title: June 1 Jamaica Bay wetland planting photography
+title: 'June 1 Jamaica Bay wetland planting photography'
 tagnames: new-york-city, kite-mapping, wetlands, jamaica-bay, northeast, with:gwirth, place:rulers-bar-jamaica-bay, lat:40.610564, lon:-73.821601
 author: liz
 path: /notes/liz/05-30-2014/june-1-jamaica-bay-wetland-planting-photography.md

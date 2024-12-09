@@ -1,5 +1,5 @@
 ---
-title: Infragrams over NYC: Chenchita's Garden
+title: 'Infragrams over NYC: Chenchita's Garden'
 tagnames: new-york-city, polemapping, 5bf, five-borough-farm, infragram, pole-photography, pole, infrablue, pole-mapping
 author: liz
 path: /notes/liz/07-02-2013/infragrams-over-nyc-chenchita-s-garden.md

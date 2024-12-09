@@ -1,5 +1,5 @@
 ---
-title: The story of a DIY poem
+title: 'The story of a DIY poem'
 tagnames: politics, barnstar:empiricism, poem
 author: cindy_excites
 path: /notes/Cindy_ExCites/07-09-2014/the-story-of-a-diy-poem.md

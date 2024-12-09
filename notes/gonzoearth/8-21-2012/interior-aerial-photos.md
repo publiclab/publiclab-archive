@@ -1,5 +1,5 @@
 ---
-title: interior aerial photos
+title: 'interior aerial photos'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/8-21-2012/interior-aerial-photos.md

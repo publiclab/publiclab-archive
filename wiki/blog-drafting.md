@@ -1,5 +1,5 @@
 ---
-title: Blog Drafting
+title: 'Blog Drafting'
 tagnames: public-health, publiclab, advocacy, first-timers-only-blog, success-stories, environmental-advocacy, myrwa
 author: warren
 path: /wiki/blog-drafting.md

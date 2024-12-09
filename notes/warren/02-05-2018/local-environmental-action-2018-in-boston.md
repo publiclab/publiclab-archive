@@ -1,5 +1,5 @@
 ---
-title: Local Environmental Action 2018 in Boston
+title: 'Local Environmental Action 2018 in Boston'
 tagnames: boston, event, tac, organizing, northeastern, toxics-action-center, event:rsvp, community-organizing, local-environmental-action, conference, date:03-03-2018
 author: warren
 path: /notes/warren/02-05-2018/local-environmental-action-2018-in-boston.md

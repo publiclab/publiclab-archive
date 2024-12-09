@@ -1,5 +1,5 @@
 ---
-title: A First Look at Technical Documents
+title: 'A First Look at Technical Documents'
 tagnames: air-quality, bucket-brigade, new, advocacy, draft, permits, community-organizing, advocacy-pathways, activity:community-organizing, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action, interpret-results-intro
 author: kgradow1
 path: /notes/kgradow1/11-09-2020/a-first-look-at-technical-documents.md

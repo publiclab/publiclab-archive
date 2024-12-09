@@ -1,5 +1,5 @@
 ---
-title: values
+title: 'values'
 tagnames: redirect:public-lab-nonprofit-values
 author: warren
 path: /wiki/values.md

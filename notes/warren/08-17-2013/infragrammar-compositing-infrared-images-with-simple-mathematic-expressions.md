@@ -1,5 +1,5 @@
 ---
-title: Infragrammar: compositing infrared images with simple mathematic expressions
+title: 'Infragrammar: compositing infrared images with simple mathematic expressions'
 tagnames: near-infrared-camera, ndvi, infragram, nbg, processing, compositing, ngb, infragram-sandbox, infragrammar
 author: warren
 path: /notes/warren/08-17-2013/infragrammar-compositing-infrared-images-with-simple-mathematic-expressions.md

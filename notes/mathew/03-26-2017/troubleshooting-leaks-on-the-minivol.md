@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting leaks on the MiniVol
+title: 'Troubleshooting leaks on the MiniVol'
 tagnames: air-quality, dust, silica, pm, particle-sensing, pm-monitoring, pm-sensing, minivol, airmetrics, activity:minivol
 author: mathew
 path: /notes/mathew/03-26-2017/troubleshooting-leaks-on-the-minivol.md

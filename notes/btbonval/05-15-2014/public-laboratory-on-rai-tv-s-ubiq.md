@@ -1,5 +1,5 @@
 ---
-title: Public Laboratory on RAI TV's Ubiq
+title: 'Public Laboratory on RAI TV's Ubiq'
 tagnames: media, rai, ubiq, tv, variety, promotional, first-time-poster
 author: btbonval
 path: /notes/btbonval/05-15-2014/public-laboratory-on-rai-tv-s-ubiq.md

@@ -1,5 +1,5 @@
 ---
-title: The accidental raspberry pi spectrometer
+title: 'The accidental raspberry pi spectrometer'
 tagnames: diy, spectroscopy, pi, spectral, response, curve, raspberry
 author: khufkens
 path: /notes/khufkens/04-25-2015/the-accidental-raspberry-pi-spectrometer.md

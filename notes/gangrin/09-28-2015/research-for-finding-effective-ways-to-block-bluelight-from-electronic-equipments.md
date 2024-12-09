@@ -1,5 +1,5 @@
 ---
-title: Research for finding effective ways to block bluelight from electronic equipments
+title: 'Research for finding effective ways to block bluelight from electronic equipments'
 tagnames: bluelight, korea, first-time-poster
 author: gangrin
 path: /notes/gangrin/09-28-2015/research-for-finding-effective-ways-to-block-bluelight-from-electronic-equipments.md

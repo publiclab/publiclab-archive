@@ -1,5 +1,5 @@
 ---
-title: GSoC 2020 proposal: Spectral Workbench - Rails and DevOps upgrades
+title: 'GSoC 2020 proposal: Spectral Workbench - Rails and DevOps upgrades'
 tagnames: software, soc, response:13975, first-time-poster, lat:10, lon:70, zoom:5, soc-2020, soc-2020-proposals
 author: ruturaj_mohite
 path: /notes/ruturaj_mohite/03-19-2020/gsoc-2020-proposal-spectral-workbench-rails-and-devops-upgrades.md

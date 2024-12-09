@@ -1,5 +1,5 @@
 ---
-title: Usability of Public Lab's NDVI and Kite/Balloon Mapping for Remote Sensing in Academics/Research
+title: 'Usability of Public Lab's NDVI and Kite/Balloon Mapping for Remote Sensing in Academics/Research'
 tagnames: ndvi, qgis
 author: Roolark
 path: /notes/Roolark/01-01-2014/usability-of-public-lab-s-ndvi-and-kite-balloon-mapping-for-remote-sensing-in-academics-research.md

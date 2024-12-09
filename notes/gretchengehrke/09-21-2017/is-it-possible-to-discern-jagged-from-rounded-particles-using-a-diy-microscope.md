@@ -1,5 +1,5 @@
 ---
-title: Is it possible to discern jagged from rounded particles using a DIY microscope? 
+title: 'Is it possible to discern jagged from rounded particles using a DIY microscope? '
 tagnames: question:question, question:pm, question:pm-monitoring, question:frac-sand, question:microscopes, question:community-microscope-challenges
 author: gretchengehrke
 path: /notes/gretchengehrke/09-21-2017/is-it-possible-to-discern-jagged-from-rounded-particles-using-a-diy-microscope.md

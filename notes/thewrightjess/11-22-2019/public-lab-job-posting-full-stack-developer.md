@@ -1,5 +1,5 @@
 ---
-title: Public Lab Job Posting: Full Stack Developer
+title: 'Public Lab Job Posting: Full Stack Developer'
 tagnames: jobs
 author: thewrightjess
 path: /notes/thewrightjess/11-22-2019/public-lab-job-posting-full-stack-developer.md

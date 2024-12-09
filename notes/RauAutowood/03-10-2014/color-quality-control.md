@@ -1,5 +1,5 @@
 ---
-title: Color Quality Control
+title: 'Color Quality Control'
 tagnames: color
 author: RauAutowood
 path: /notes/RauAutowood/03-10-2014/color-quality-control.md

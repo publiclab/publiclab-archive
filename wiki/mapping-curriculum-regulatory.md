@@ -1,5 +1,5 @@
 ---
-title: Mapping Curriculum: Regulatory Situation
+title: 'Mapping Curriculum: Regulatory Situation'
 tagnames: balloon-mapping, curriculum, regulations, parent:balloon-mapping
 author: warren
 path: /wiki/mapping-curriculum-regulatory.md

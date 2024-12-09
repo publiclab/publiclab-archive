@@ -1,5 +1,5 @@
 ---
-title: Kharkiv' DIY egg-shaped balloons
+title: 'Kharkiv' DIY egg-shaped balloons'
 tagnames: balloon-mapping, heat-seaming, diy-balloon, design, nature, balloon, ukraine, technique, seam, semirigid, catenaria, tandem, egg-shaped, wild, preservation, activity:balloon-making, balloon-making
 author: Alex_the_Ukrainian
 path: /notes/Alex_the_Ukrainian/03-21-2015/kharkiv-diy-egg-shaped-balloons.md

@@ -1,5 +1,5 @@
 ---
-title: Titan 2 IR
+title: 'Titan 2 IR'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, infragram, 3d-printing, gigapan, makerbot, northeast, response:10523, titan, ndvi-ag, category:field-test
 author: cfastie
 path: /notes/cfastie/06-22-2014/titan-2-ir.md

@@ -1,5 +1,5 @@
 ---
-title: Seeking Hardware Fellow for Oil & Gas Water Fellowship Trio
+title: 'Seeking Hardware Fellow for Oil & Gas Water Fellowship Trio'
 tagnames: providence, organizers, water-quality, water, jobs, fellows, hardware, fellowship, oil-and-gas-water-trio
 author: stevie
 path: /notes/stevie/08-06-2019/seeking-hardware-fellow-for-oil-gas-water-fellowship-trio.md

@@ -1,5 +1,5 @@
 ---
-title: marsh-H2S videos and some graphics
+title: 'marsh-H2S videos and some graphics'
 tagnames: hydrogen-sulfide-sensing
 author: eustatic
 path: /7-11-2012/marsh-h2s-videos-and-some-graphics.md

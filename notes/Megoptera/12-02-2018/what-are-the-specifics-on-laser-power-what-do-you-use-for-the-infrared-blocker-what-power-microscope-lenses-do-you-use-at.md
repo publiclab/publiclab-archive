@@ -1,5 +1,5 @@
 ---
-title: What are the specifics on laser power?What do you use for the infrared blocker?What power microscope lenses do you use at [
+title: 'What are the specifics on laser power?What do you use for the infrared blocker?What power microscope lenses do you use at ['
 tagnames: question, first-time-poster
 author: Megoptera
 path: /notes/Megoptera/12-02-2018/what-are-the-specifics-on-laser-power-what-do-you-use-for-the-infrared-blocker-what-power-microscope-lenses-do-you-use-at.md

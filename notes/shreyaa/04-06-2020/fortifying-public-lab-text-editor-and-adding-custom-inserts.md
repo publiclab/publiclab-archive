@@ -1,5 +1,5 @@
 ---
-title: Fortifying Public Lab Text Editor and Adding Custom Inserts
+title: 'Fortifying Public Lab Text Editor and Adding Custom Inserts'
 tagnames: first-time-poster, outreachy-2020-proposals
 author: shreyaa
 path: /notes/shreyaa/04-06-2020/fortifying-public-lab-text-editor-and-adding-custom-inserts.md

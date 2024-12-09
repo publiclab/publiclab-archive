@@ -1,5 +1,5 @@
 ---
-title: Balancing act
+title: 'Balancing act'
 tagnames: near-infrared-camera, vermont, white-balance, infragram, infrablue, cmos, response:8869, ccd, a810, potato
 author: cfastie
 path: /notes/cfastie/07-17-2013/balancing-act.md

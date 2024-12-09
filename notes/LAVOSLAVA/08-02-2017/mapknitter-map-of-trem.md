@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of TREM
+title: 'MapKnitter map of TREM'
 tagnames: mapknitter, eu, germany, lat:51.5037206447, lon:7.4352550507, place:dortmund
 author: LAVOSLAVA
 path: /notes/LAVOSLAVA/08-02-2017/mapknitter-map-of-trem.md

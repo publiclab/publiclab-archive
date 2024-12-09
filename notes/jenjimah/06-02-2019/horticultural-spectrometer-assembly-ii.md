@@ -1,5 +1,5 @@
 ---
-title: Horticultural Spectrometer - Assembly II
+title: 'Horticultural Spectrometer - Assembly II'
 tagnames: spectrometer, slit, blade, razor
 author: jenjimah
 path: /notes/jenjimah/06-02-2019/horticultural-spectrometer-assembly-ii.md

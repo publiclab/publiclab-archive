@@ -1,5 +1,5 @@
 ---
-title: Public Mapping Mission
+title: 'Public Mapping Mission'
 tagnames: new-york-city, education, events, event, events:new-york-city, replication:14022
 author: nicholas
 path: /notes/nicholas/11-14-2013/public-mapping-mission.md

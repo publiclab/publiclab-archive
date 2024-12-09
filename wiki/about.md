@@ -1,5 +1,5 @@
 ---
-title: About Public Lab
+title: 'About Public Lab'
 tagnames: style:wide, about
 author: warren
 path: /wiki/about.md

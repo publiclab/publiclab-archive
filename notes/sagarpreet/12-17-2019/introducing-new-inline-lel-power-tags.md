@@ -1,5 +1,5 @@
 ---
-title: Introducing new inline LEL power tags
+title: 'Introducing new inline LEL power tags'
 tagnames: mapping, leaflet, location:blurred, lat:28, lon:77, leaflet-environmental-layers
 author: sagarpreet
 path: /notes/sagarpreet/12-17-2019/introducing-new-inline-lel-power-tags.md

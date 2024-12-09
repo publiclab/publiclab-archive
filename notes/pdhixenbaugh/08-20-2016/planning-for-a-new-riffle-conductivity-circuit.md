@@ -1,5 +1,5 @@
 ---
-title: Planning for a new Riffle conductivity circuit
+title: 'Planning for a new Riffle conductivity circuit'
 tagnames: conductivity, riffle
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-20-2016/planning-for-a-new-riffle-conductivity-circuit.md

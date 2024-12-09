@@ -1,5 +1,5 @@
 ---
-title: Website Basics
+title: 'Website Basics'
 tagnames: website, introduction, newcomers, basics, parent:website
 author: warren
 path: /wiki/website-basics.md

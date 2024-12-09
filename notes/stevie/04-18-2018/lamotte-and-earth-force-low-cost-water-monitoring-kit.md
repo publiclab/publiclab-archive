@@ -1,5 +1,5 @@
 ---
-title: LaMotte and Earth Force low cost Water Monitoring kit
+title: 'LaMotte and Earth Force low cost Water Monitoring kit'
 tagnames: gulf-coast, education, temperature, kits, mississippi, water-quality-monitoring, water-quality, water, water-monitoring, turbidity, dissolved-oxygen, reagents, nitrate, ph, water-testing, nas, water-sampling, phosphate, do, secchi-disk, bod, gulfport, nitrogen, activity:nitrogen
 author: stevie
 path: /notes/stevie/04-18-2018/lamotte-and-earth-force-low-cost-water-monitoring-kit.md

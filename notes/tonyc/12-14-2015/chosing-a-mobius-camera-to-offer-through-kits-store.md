@@ -1,5 +1,5 @@
 ---
-title: chosing a mobius camera to offer through kits store
+title: 'chosing a mobius camera to offer through kits store'
 tagnames: mapping, aerial, mobius, nonfisheye
 author: tonyc
 path: /notes/tonyc/12-14-2015/chosing-a-mobius-camera-to-offer-through-kits-store.md

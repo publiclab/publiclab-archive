@@ -1,5 +1,5 @@
 ---
-title: Introduction To Environmental Science
+title: 'Introduction To Environmental Science'
 tagnames: lat:22, first-time-poster, lon:76, zoom:7
 author: TheChessGym
 path: /notes/TheChessGym/08-15-2022/introduction-to-environmental-science.md

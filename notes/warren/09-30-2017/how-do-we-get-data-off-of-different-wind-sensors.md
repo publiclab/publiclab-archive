@@ -1,5 +1,5 @@
 ---
-title: How do we get data off of different wind sensors
+title: 'How do we get data off of different wind sensors'
 tagnames: vermont, as220, leaffest, wind, weather, answered, data-logging, skypod, question:data-logging, question:wind, wind-sensor, leaffest2017, question:leaffest, leaffest-2017, kestrel, question:leaffest2017
 author: warren
 path: /notes/warren/09-30-2017/how-do-we-get-data-off-of-different-wind-sensors.md

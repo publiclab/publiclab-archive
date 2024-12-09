@@ -1,5 +1,5 @@
 ---
-title: Landsat Image Analysis Over New York
+title: 'Landsat Image Analysis Over New York'
 tagnames: new-york-city, remote-sensing, thermal-imaging, landsat, thermal, satellite-imagery, image-analysis, activity:thermal-imaging, activity:remote-sensing, replication:10690
 author: nicholas
 path: /notes/nicholas/07-20-2014/landsat-image-analysis-over-new-york.md

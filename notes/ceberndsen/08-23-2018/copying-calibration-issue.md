@@ -1,5 +1,5 @@
 ---
-title: copying calibration issue
+title: 'copying calibration issue'
 tagnames: calibration, question:spectral-workbench
 author: ceberndsen
 path: /notes/ceberndsen/08-23-2018/copying-calibration-issue.md

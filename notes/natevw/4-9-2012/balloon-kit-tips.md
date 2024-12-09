@@ -1,5 +1,5 @@
 ---
-title: Balloon kit tips
+title: 'Balloon kit tips'
 tagnames: balloon-mapping, mobile-phone-camera, photo-rig, diy-balloon, camera-rig, first-time-poster
 author: natevw
 path: /notes/natevw/4-9-2012/balloon-kit-tips.md

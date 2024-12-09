@@ -1,5 +1,5 @@
 ---
-title: NDVI from Infrablue
+title: 'NDVI from Infrablue'
 tagnames: near-infrared-camera, ndvi, nir, vermont, infrared, new-york, infragram, rosco, infrablue, histogram, response:8190, response:8018, response:8196, response:8224
 author: cfastie
 path: /notes/cfastie/06-20-2013/ndvi-from-infrablue.md

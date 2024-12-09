@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (1 La Salle Square)
+title: 'Art in Ruins (1 La Salle Square)'
 tagnames: hidden:response, lat:41.7, lat:41.820455, zoom:7, lon:-71.5, zoom:10, lon:-71.411132, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-1-la-salle-square.md

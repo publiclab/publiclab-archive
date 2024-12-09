@@ -1,5 +1,5 @@
 ---
-title: Exploratory Lesson Activity for Image Sequencer
+title: 'Exploratory Lesson Activity for Image Sequencer'
 tagnames: ndvi, education, aren, image-sequencer, infragram-pi
 author: carmen2x
 path: /notes/carmen2x/04-20-2022/exploratory-lesson-activity-for-image-sequencer.md

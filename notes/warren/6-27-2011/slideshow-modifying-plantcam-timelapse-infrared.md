@@ -1,5 +1,5 @@
 ---
-title: Slideshow: Modifying a plantcam for timelapse infrared
+title: 'Slideshow: Modifying a plantcam for timelapse infrared'
 tagnames: near-infrared-camera, timelapse, plantcam
 author: warren
 path: /notes/warren/6-27-2011/slideshow-modifying-plantcam-timelapse-infrared.md

@@ -1,5 +1,5 @@
 ---
-title: NDVI from PiNoir with a blue filter
+title: 'NDVI from PiNoir with a blue filter'
 tagnames: ndvi, infrared, raspberry-pi, infrared-photography, fiji, ngb, raspberry, pi-camera, pinoir, raspberry-pi-infragram, activity:raspberry-pi-infragram, activity:pi-camera, first-time-poster
 author: carolccarvalho
 path: /notes/carolccarvalho/02-18-2016/ndvi-from-pinoir-with-a-blue-filter.md

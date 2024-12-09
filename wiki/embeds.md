@@ -1,5 +1,5 @@
 ---
-title: Embeds
+title: 'Embeds'
 tagnames: maps, activities, embeds
 author: warren
 path: /wiki/embeds.md

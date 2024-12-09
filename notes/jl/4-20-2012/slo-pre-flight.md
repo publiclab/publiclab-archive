@@ -1,5 +1,5 @@
 ---
-title: SLO pre flight
+title: 'SLO pre flight'
 tagnames: balloon-mapping, near-infrared-camera, vegetation-mapping, vineyard
 author: jl
 path: /notes/jl/4-20-2012/slo-pre-flight.md

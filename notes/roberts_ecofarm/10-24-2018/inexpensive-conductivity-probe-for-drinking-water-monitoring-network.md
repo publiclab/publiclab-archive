@@ -1,5 +1,5 @@
 ---
-title: Inexpensive conductivity probe for drinking water monitoring network
+title: 'Inexpensive conductivity probe for drinking water monitoring network'
 tagnames: water-sensing, water-quality, conductivity, drinking-water, data-logging, citizenscience, location:blurred, lat:40, lon:-80, place:ohio, cave-pearl
 author: roberts_ecofarm
 path: /notes/roberts_ecofarm/10-24-2018/inexpensive-conductivity-probe-for-drinking-water-monitoring-network.md

@@ -1,5 +1,5 @@
 ---
-title: CERN Open Hardware License transition update: 11 people left
+title: 'CERN Open Hardware License transition update: 11 people left'
 tagnames: open-source, licensing, open-hardware
 author: warren
 path: /notes/warren/5-31-2012/cern-open-hardware-license-transition-update-11-people-left.md

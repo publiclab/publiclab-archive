@@ -1,5 +1,5 @@
 ---
-title: Introducing the calibration plugin for ImageJ/Fiji
+title: 'Introducing the calibration plugin for ImageJ/Fiji'
 tagnames: near-infrared-camera, ndvi, imagej, infragram, infrared-photography, response:12021, ndvi-calibrate, midopt, activity:infragram, location:blurred, activity:photo-monitoring-plugin, lat:41.449, lon:31.76
 author: nedhorning
 path: /notes/nedhorning/07-22-2015/introducing-the-calibration-plugin-for-imagej-fiji.md

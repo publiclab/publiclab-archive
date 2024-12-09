@@ -1,5 +1,5 @@
 ---
-title: Signature Development for Aerial Photo Classification:  Louisiana Wetland Forest Mine Reclamation project
+title: 'Signature Development for Aerial Photo Classification:  Louisiana Wetland Forest Mine Reclamation project'
 tagnames: wetlands, louisiana, aerial-photography, mining, classification, methods, disaster-resilience, zoom:8, mine-reclamation, mine-reclamation-photography, signatures, floodplains, lat:30.82678, lon:-90.990077
 author: eustatic
 path: /03-11-2022/signature-development-for-aerial-photo-classification-louisiana-wetland-forest-mine-reclamation-project.md

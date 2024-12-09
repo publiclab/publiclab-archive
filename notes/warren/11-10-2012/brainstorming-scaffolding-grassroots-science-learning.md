@@ -1,5 +1,5 @@
 ---
-title: Brainstorming a scaffolding for grassroots science learning
+title: 'Brainstorming a scaffolding for grassroots science learning'
 tagnames: helloworld, pedagogy
 author: warren
 path: /notes/warren/11-10-2012/brainstorming-scaffolding-grassroots-science-learning.md

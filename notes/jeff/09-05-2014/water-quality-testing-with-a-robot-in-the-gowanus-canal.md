@@ -1,5 +1,5 @@
 ---
-title: Water quality testing with a robot in the Gowanus Canal
+title: 'Water quality testing with a robot in the Gowanus Canal'
 tagnames: new-york-city, gowanus, gowanus-canal, water-quality, northeast, robot
 author: jeff
 path: /notes/jeff/09-05-2014/water-quality-testing-with-a-robot-in-the-gowanus-canal.md

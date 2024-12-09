@@ -1,5 +1,5 @@
 ---
-title: Sustainable Oceans Alliance
+title: 'Sustainable Oceans Alliance'
 tagnames: ocean, sustainability
 author: hananbloomer
 path: /wiki/mailing-lists.md

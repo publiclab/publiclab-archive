@@ -1,5 +1,5 @@
 ---
-title: Minetest safe digital polluted areas
+title: 'Minetest safe digital polluted areas'
 tagnames: games, learning, kids, gaimec, minetest
 author: imvec
 path: /notes/imvec/03-08-2018/minetest-safe-digital-polluted-areas.md

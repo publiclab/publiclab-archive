@@ -1,5 +1,5 @@
 ---
-title: Open Hardware Summit talk: Building communities one kit at a time
+title: 'Open Hardware Summit talk: Building communities one kit at a time'
 tagnames: open-hardware, retail, kits, openhardware, presentation, ohs, open-hardware-summit
 author: warren
 path: /notes/warren/09-06-2013/open-hardware-summit-talk-building-communities-one-kit-at-a-time.md

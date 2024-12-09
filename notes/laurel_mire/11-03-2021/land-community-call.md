@@ -1,5 +1,5 @@
 ---
-title: Land Community Call
+title: 'Land Community Call'
 tagnames: landfill, event, soil, event:rsvp, land-use, land, oil-and-gas, rsvp:bhamster, research-curation-fellows-event, date:11-10-2021, rsvp:pat, rsvp:latrecejohnson59
 author: laurel_mire
 path: /notes/laurel_mire/11-03-2021/land-community-call.md

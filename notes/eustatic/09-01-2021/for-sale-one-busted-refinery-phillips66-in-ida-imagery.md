@@ -1,5 +1,5 @@
 ---
-title: For Sale: One Busted Refinery.  Phillips66 in Ida imagery
+title: 'For Sale: One Busted Refinery.  Phillips66 in Ida imagery'
 tagnames: refinery, barnstar:basic, disaster-response, lng, zoom:16, ida, lat:29.688544, lon:-89.981737
 author: eustatic
 path: /09-01-2021/for-sale-one-busted-refinery-phillips66-in-ida-imagery.md

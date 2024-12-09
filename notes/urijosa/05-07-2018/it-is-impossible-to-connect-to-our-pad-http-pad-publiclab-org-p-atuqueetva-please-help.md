@@ -1,5 +1,5 @@
 ---
-title: It is impossible to connect to our pad: http://pad.publiclab.org/p/atuqueetva PLEASE HELP
+title: 'It is impossible to connect to our pad: http://pad.publiclab.org/p/atuqueetva PLEASE HELP'
 tagnames: answered, question:website
 author: urijosa
 path: /notes/urijosa/05-07-2018/it-is-impossible-to-connect-to-our-pad-http-pad-publiclab-org-p-atuqueetva-please-help.md

@@ -1,5 +1,5 @@
 ---
-title: Calculating NDVI - using PiNoIR camera and blue filter
+title: 'Calculating NDVI - using PiNoIR camera and blue filter'
 tagnames: ndvi, nir, raspberry-pi, question:question
 author: JLJ
 path: /notes/JLJ/04-09-2018/calculating-ndvi-using-pinoir-camera-and-blue-filter.md

@@ -1,5 +1,5 @@
 ---
-title: What are good resources for journaling on health related issues that could be connected to environmental concerns? 
+title: 'What are good resources for journaling on health related issues that could be connected to environmental concerns? '
 tagnames: ethics, health, question:general, environmental-health, journal
 author: stevie
 path: /notes/stevie/03-21-2019/what-are-good-resources-for-journaling-on-health-related-issues-that-could-be-connected-to-environmental-concerns.md

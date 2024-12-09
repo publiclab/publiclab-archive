@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit job posting: Kit Fulfillment Coordinator
+title: 'Public Lab nonprofit job posting: Kit Fulfillment Coordinator'
 tagnames: nonprofit, jobs
 author: klie
 path: /notes/klie/08-18-2017/public-lab-nonprofit-job-posting-kit-fulfillment-coordinator.md

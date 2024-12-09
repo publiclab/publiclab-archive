@@ -1,5 +1,5 @@
 ---
-title: Pesticide Detection Methods Development
+title: 'Pesticide Detection Methods Development'
 tagnames: spectrometer, spectrometry, pesticides, quantitative, extraction, reagents, solvent
 author: silverhammer
 path: /wiki/pesticide-detection-methods-development.md

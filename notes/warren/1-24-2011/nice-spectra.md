@@ -1,5 +1,5 @@
 ---
-title: Nice spectra
+title: 'Nice spectra'
 tagnames: 
 author: warren
 path: /notes/warren/1-24-2011/nice-spectra.md

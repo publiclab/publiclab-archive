@@ -1,5 +1,5 @@
 ---
-title: What kind of event would trigger me needing to take an air sample with the bucket? 
+title: 'What kind of event would trigger me needing to take an air sample with the bucket? '
 tagnames: air-quality, bucket-brigade, air-monitoring, question:general, general, bucket, air-sampling, with:sarasage, air-lab-testing, question:air-lab-testing, bucket-kit, question:vvamp
 author: denissebn_06
 path: /notes/denissebn_06/06-07-2021/what-kind-of-event-would-trigger-me-needing-to-take-an-air-sample-with-the-bucket.md

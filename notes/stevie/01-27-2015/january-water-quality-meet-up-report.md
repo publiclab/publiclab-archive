@@ -1,5 +1,5 @@
 ---
-title: January Water Quality Meet-Up Report
+title: 'January Water Quality Meet-Up Report'
 tagnames: gulf-coast, polemapping, event, bsj, gulfcoast, urbanwater, urbanwaters
 author: stevie
 path: /notes/stevie/01-27-2015/january-water-quality-meet-up-report.md

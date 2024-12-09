@@ -1,5 +1,5 @@
 ---
-title: Past Public Lab Barnraisings
+title: 'Past Public Lab Barnraisings'
 tagnames: barnraising
 author: warren
 path: /wiki/past-barnraisings.md

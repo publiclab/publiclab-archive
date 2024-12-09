@@ -1,5 +1,5 @@
 ---
-title: NDVI MAPS for Precision Farming
+title: 'NDVI MAPS for Precision Farming'
 tagnames: near-infrared-camera, ndvi, imagej, infrared-conversion
 author: Monoxyde
 path: /notes/monoxyde/09-11-2015/ndvi-maps-for-precision-farming.md

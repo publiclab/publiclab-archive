@@ -1,5 +1,5 @@
 ---
-title: Job Posting: Special Projects Layout Editor
+title: 'Job Posting: Special Projects Layout Editor'
 tagnames: jobs
 author: Shannon
 path: /notes/Shannon/03-05-2014/job-posting-special-projects-layout-editor.md

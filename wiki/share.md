@@ -1,5 +1,5 @@
 ---
-title: share
+title: 'share'
 tagnames: redirect:spread-the-word-this-holiday-season
 author: joyofsoy
 path: /wiki/share.md

@@ -1,5 +1,5 @@
 ---
-title: Research Documentation
+title: 'Research Documentation'
 tagnames: 
 author: gretchengehrke
 path: /wiki/research-documentation.md

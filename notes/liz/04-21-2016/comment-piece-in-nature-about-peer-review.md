@@ -1,5 +1,5 @@
 ---
-title: Comment piece in Nature about peer review
+title: 'Comment piece in Nature about peer review'
 tagnames: barnstar:basic, with:warren, peer-production, peer-review
 author: liz
 path: /notes/liz/04-21-2016/comment-piece-in-nature-about-peer-review.md

@@ -1,5 +1,5 @@
 ---
-title: Open-Lux REV-N: Full Circle
+title: 'Open-Lux REV-N: Full Circle'
 tagnames: near-infrared-camera, thermal-photography, ndvi, calibration, thermal-flashlight, near-ir, thermal-fishing, infragram
 author: donblair
 path: /notes/donblair/04-21-2014/open-lux-rev-n-full-circle.md

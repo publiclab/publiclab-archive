@@ -1,5 +1,5 @@
 ---
-title: h2s-copper-rod
+title: 'h2s-copper-rod'
 tagnames: redirect:15067
 author: warren
 path: /wiki/h2s-copper-rod.md

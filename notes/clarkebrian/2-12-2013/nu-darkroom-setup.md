@@ -1,5 +1,5 @@
 ---
-title: NU Darkroom Setup
+title: 'NU Darkroom Setup'
 tagnames: boston, hydrogen-sulfide, northeastern-university, h2s, first-time-poster
 author: Clarke_Brian
 path: /notes/clarkebrian/2-12-2013/nu-darkroom-setup.md

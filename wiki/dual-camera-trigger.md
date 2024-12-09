@@ -1,5 +1,5 @@
 ---
-title: dual camera trigger
+title: 'dual camera trigger'
 tagnames: balloon-mapping, kite-mapping, triggering
 author: mathew
 path: /wiki/dual-camera-trigger.md

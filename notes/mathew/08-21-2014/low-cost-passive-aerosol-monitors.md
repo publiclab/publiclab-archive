@@ -1,5 +1,5 @@
 ---
-title: Low-cost passive aerosol monitors
+title: 'Low-cost passive aerosol monitors'
 tagnames: air-quality, dust, particulates, silica, frac-sand, pm, particle-sensing, particle-monitoring, fracsand, passive-particle-monitors, passive-pm, parent:frac-sand
 author: mathew
 path: /notes/mathew/08-21-2014/low-cost-passive-aerosol-monitors.md

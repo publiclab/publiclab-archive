@@ -1,5 +1,5 @@
 ---
-title: March Mapping Madness NY-NJ-CT
+title: 'March Mapping Madness NY-NJ-CT'
 tagnames: new-york-city, balloon-mapping, kite-mapping, events:new-york-city
 author: liz
 path: /wiki/march-mapping-madness-ny-nj-ct-region.md

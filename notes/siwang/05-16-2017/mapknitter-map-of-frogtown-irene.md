@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of frogtown irene
+title: 'MapKnitter map of frogtown irene'
 tagnames: mapknitter, lat:34.1068235, lon:-118.2459925
 author: siwang
 path: /notes/siwang/05-16-2017/mapknitter-map-of-frogtown-irene.md

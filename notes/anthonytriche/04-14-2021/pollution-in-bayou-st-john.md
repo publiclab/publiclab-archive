@@ -1,5 +1,5 @@
 ---
-title: Pollution in Bayou St. John
+title: 'Pollution in Bayou St. John'
 tagnames: location:blurred, place:united-states, issue-brief, lat:29, lon:-90, first-time-poster, zoom:6
 author: anthonytriche
 path: /notes/anthonytriche/04-14-2021/pollution-in-bayou-st-john.md

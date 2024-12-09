@@ -1,5 +1,5 @@
 ---
-title: What are some sources of funding for environmental projects?
+title: 'What are some sources of funding for environmental projects?'
 tagnames: question:general, question:fundraising
 author: Bronwen
 path: /notes/Bronwen/02-28-2019/what-are-some-sources-of-funding-for-environmental-projects.md

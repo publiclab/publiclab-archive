@@ -1,5 +1,5 @@
 ---
-title: Coqui - Kiwi kids investigate ("AKL Mini-Makers")
+title: 'Coqui - Kiwi kids investigate ("AKL Mini-Makers")'
 tagnames: water-quality, akl_mini-makers, kiwi
 author: NCartmell
 path: /notes/NCartmell/02-11-2017/coqui-kiwi-kids-investigate-akl-mini-makers.md

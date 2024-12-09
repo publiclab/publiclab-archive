@@ -1,5 +1,5 @@
 ---
-title: Fraunhofer Lines at higher resolutions?
+title: 'Fraunhofer Lines at higher resolutions?'
 tagnames: spectrometer, vermont, ebert, absorption, sky, fraunhofer, astronomy, sun, atmosphere, question:spectrometry, question:spectral-workbench, response:6168, question:general
 author: stef
 path: /notes/stef/01-26-2017/fraunhofer-lines-question.md

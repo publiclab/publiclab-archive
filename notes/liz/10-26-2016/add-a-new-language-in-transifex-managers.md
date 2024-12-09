@@ -1,5 +1,5 @@
 ---
-title: Add a new language in Transifex (managers)
+title: 'Add a new language in Transifex (managers)'
 tagnames: community, website, activity, category:verify, localization, translation, language, activity:localization-managers
 author: liz
 path: /notes/liz/10-26-2016/add-a-new-language-in-transifex-managers.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: February 2017
+title: 'Public Lab Community Newsletter: February 2017'
 tagnames: newsletter, gsoc, stormwater, gsoc2017
 author: klie
 path: /notes/klie/02-24-2017/public-lab-community-newsletter-february-2017.md

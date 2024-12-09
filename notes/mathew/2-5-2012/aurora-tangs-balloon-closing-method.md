@@ -1,5 +1,5 @@
 ---
-title: Aurora Tang's Balloon Closing Method
+title: 'Aurora Tang's Balloon Closing Method'
 tagnames: 
 author: mathew
 path: /notes/mathew/2-5-2012/aurora-tangs-balloon-closing-method.md

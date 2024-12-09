@@ -1,5 +1,5 @@
 ---
-title: NYC lab warming
+title: 'NYC lab warming'
 tagnames: 
 author: liz
 path: /notes/liz/9-4-2012/nyc-lab-warming.md

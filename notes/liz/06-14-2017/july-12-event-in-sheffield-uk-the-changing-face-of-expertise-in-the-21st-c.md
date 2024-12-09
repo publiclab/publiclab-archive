@@ -1,5 +1,5 @@
 ---
-title: July 12 event in Sheffield UK -- the changing face of expertise in the 21st C
+title: 'July 12 event in Sheffield UK -- the changing face of expertise in the 21st C'
 tagnames: uk, event, excites, panel, eu, with:cindy_excites, expertise, sheffield
 author: liz
 path: /notes/liz/06-14-2017/july-12-event-in-sheffield-uk-the-changing-face-of-expertise-in-the-21st-c.md

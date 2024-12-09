@@ -1,5 +1,5 @@
 ---
-title: Automated recording of daily behavioral and vibroacoustic activity in Xylocopa virginica
+title: 'Automated recording of daily behavioral and vibroacoustic activity in Xylocopa virginica'
 tagnames: raspberry-pi, massachusetts, insects, vibrations, northeast, rpi, bees, project
 author: ShawnSmall
 path: /wiki/monitoring-bee-behavior-with-a-raspberry-pi.md

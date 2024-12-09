@@ -1,5 +1,5 @@
 ---
-title: FABAoutfit for vertical  KAP and BAP
+title: 'FABAoutfit for vertical  KAP and BAP'
 tagnames: balloon-mapping, kite-mapping, picavet, chdk, rig, hangup, photo-rig, activity:photo-rig, first-time-poster
 author: Juan
 path: /notes/juan/6-5-2012/fabaoutfit-vertical-kap-and-bap.md

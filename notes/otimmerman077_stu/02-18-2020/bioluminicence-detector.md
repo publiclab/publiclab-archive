@@ -1,5 +1,5 @@
 ---
-title: Bioluminescence Detector
+title: 'Bioluminescence Detector'
 tagnames: arduino, water-sensing, sensors, first-time-poster, wateristic, with:amallozzi, zoom:6, lat:29.935895, lon:-90.109863, bioluminescence
 author: otimmerman077_stu
 path: /notes/otimmerman077_stu/02-18-2020/bioluminicence-detector.md

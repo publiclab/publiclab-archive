@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Sulfide Monitoring In Gas Patch Background 
+title: 'Hydrogen Sulfide Monitoring In Gas Patch Background '
 tagnames: colorado, hydrogen-sulfide, h2s, natural-gas, h2s-sites, mountain-west
 author: sara
 path: /notes/sara/9-11-2011/hydrogen-sulfide-monitoring-gas-patch-background.md

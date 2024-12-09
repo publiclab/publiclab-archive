@@ -1,5 +1,5 @@
 ---
-title: Should I use two sheets of filter?
+title: 'Should I use two sheets of filter?'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, infragram-sandbox, question:infragram, question:filter-pack, first-time-poster, infragram-pi
 author: kauemv2
 path: /notes/kauemv2/05-16-2019/should-i-use-two-sheets-of-filter.md

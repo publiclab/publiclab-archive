@@ -1,5 +1,5 @@
 ---
-title: Disaster-response
+title: 'Disaster-response'
 tagnames: disaster-preparedness, disaster-response
 author: stevie
 path: /wiki/disaster-response.md

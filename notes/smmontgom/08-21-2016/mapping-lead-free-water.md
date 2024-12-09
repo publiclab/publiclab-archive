@@ -1,5 +1,5 @@
 ---
-title: Mapping Lead-Free Water
+title: 'Mapping Lead-Free Water'
 tagnames: water-sensing, water-quality, conductivity, ioby, mystic-river, open-water, lead, initiative-area, first-time-poster
 author: smmontgom
 path: /notes/smmontgom/08-21-2016/mapping-lead-free-water.md

@@ -1,5 +1,5 @@
 ---
-title: Initiatives
+title: 'Initiatives'
 tagnames: style:presentation
 author: Shannon
 path: /wiki/initiatives.md

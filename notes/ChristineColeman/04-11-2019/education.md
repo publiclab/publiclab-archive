@@ -1,5 +1,5 @@
 ---
-title: Education 
+title: 'Education '
 tagnames: question:general, first-time-poster
 author: ChristineColeman
 path: /notes/ChristineColeman/04-11-2019/education.md

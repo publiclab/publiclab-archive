@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Pasadena Farmer's Market
+title: 'MapKnitter map of Pasadena Farmer's Market'
 tagnames: mapknitter, first-time-poster, lat:34.1610746305, lon:-118.0932402355, lat:34.161818, lon:-118.081054
 author: maria93101
 path: /notes/maria93101/05-20-2019/mapknitter-map-of-pasadena-farmer-s-market.md

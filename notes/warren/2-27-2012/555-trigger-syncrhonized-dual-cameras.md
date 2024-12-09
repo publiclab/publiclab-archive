@@ -1,5 +1,5 @@
 ---
-title: 555 Trigger for Synchronized Dual Cameras
+title: '555 Trigger for Synchronized Dual Cameras'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, triggering
 author: warren
 path: /notes/warren/2-27-2012/555-trigger-syncrhonized-dual-cameras.md

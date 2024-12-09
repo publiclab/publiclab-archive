@@ -1,5 +1,5 @@
 ---
-title: barnraising-2014-photos
+title: 'barnraising-2014-photos'
 tagnames: barnraising, photos, barnraising2014, pictures
 author: liz
 path: /wiki/barnraising-2014-photos.md

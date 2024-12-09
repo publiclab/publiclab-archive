@@ -1,5 +1,5 @@
 ---
-title: Possible portable spectrometer light sources
+title: 'Possible portable spectrometer light sources'
 tagnames: 
 author: warren
 path: /notes/warren/4-4-2012/possible-portable-spectrometer-light-sources.md

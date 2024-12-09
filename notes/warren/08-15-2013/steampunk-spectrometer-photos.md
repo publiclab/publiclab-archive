@@ -1,5 +1,5 @@
 ---
-title: Steampunk spectrometer photos
+title: 'Steampunk spectrometer photos'
 tagnames: spectrometer, kickstarter, steampunk, steampunk-spectrometer
 author: warren
 path: /notes/warren/08-15-2013/steampunk-spectrometer-photos.md

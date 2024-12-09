@@ -1,5 +1,5 @@
 ---
-title: ottawa/homemade-spectrophotometer
+title: 'ottawa/homemade-spectrophotometer'
 tagnames: spectrometer, spectrophotometer, guide, parent:spectrometer, first-time-poster
 author: Haripriya
 path: /wiki/ottawa-homemade-spectrophotometer.md

@@ -1,5 +1,5 @@
 ---
-title: FungalFest
+title: 'FungalFest'
 tagnames: near-infrared-camera, vermont, leaffest, infragram, leaffest2013, fungus
 author: cfastie
 path: /notes/cfastie/09-03-2013/fungalfest.md

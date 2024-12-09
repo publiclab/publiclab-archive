@@ -1,5 +1,5 @@
 ---
-title: Public Lab's contribution framework (deep dive 2019)
+title: 'Public Lab's contribution framework (deep dive 2019)'
 tagnames: software, blog, code, barnstar:basic, software-outreach, first-time-poster
 author: sashadev-sky
 path: /notes/sashadev-sky/05-16-2019/public-lab-s-contribution-framework-deep-dive-2019.md

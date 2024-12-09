@@ -1,5 +1,5 @@
 ---
-title: Definition of User Streaks 
+title: 'Definition of User Streaks '
 tagnames: web, activity, seeks:responses, feature
 author: ananyo2012
 path: /notes/ananyo2012/07-02-2016/definition-for-user-streaks.md

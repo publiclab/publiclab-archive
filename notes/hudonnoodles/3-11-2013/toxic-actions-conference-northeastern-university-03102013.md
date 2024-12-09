@@ -1,5 +1,5 @@
 ---
-title: Toxic Actions Conference @ Northeastern University, 03/10/2013
+title: 'Toxic Actions Conference @ Northeastern University, 03/10/2013'
 tagnames: balloon-mapping, spectrometer, conferences, thermal-flashlight
 author: Hudonnoodles
 path: /notes/hudonnoodles/3-11-2013/toxic-actions-conference-northeastern-university-03102013.md

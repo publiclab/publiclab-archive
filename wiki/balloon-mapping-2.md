@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping
+title: 'Balloon Mapping'
 tagnames: 
 author: warren
 path: /wiki/balloon-mapping-2.md

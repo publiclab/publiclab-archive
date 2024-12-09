@@ -1,5 +1,5 @@
 ---
-title: Seeking an Organizing & Advocacy Research Curation Fellow
+title: 'Seeking an Organizing & Advocacy Research Curation Fellow'
 tagnames: jobs, fellows, advocacy, fellowship, community-organizing, advocacy-pathways, fellow, law-and-policy, research-curation-fellows
 author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-an-organizing-advocacy-research-curation-fellow.md

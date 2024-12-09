@@ -1,5 +1,5 @@
 ---
-title: Is lab interested in expanding in India? 
+title: 'Is lab interested in expanding in India? '
 tagnames: india, question:general, question:india
 author: Shish
 path: /notes/Shish/06-13-2018/is-lab-interested-in-expanding-in-india.md

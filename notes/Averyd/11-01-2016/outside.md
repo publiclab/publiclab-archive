@@ -1,5 +1,5 @@
 ---
-title: Outside
+title: 'Outside'
 tagnames: 
 author: Averyd
 path: /notes/Averyd/11-01-2016/outside.md

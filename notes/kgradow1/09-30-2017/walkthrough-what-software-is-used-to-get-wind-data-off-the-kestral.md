@@ -1,5 +1,5 @@
 ---
-title: Walkthrough:  What software is used to get wind data off the Kestral?
+title: 'Walkthrough:  What software is used to get wind data off the Kestral?'
 tagnames: leaffest, wind, data-logging, question:data-logging, question:wind, leaffest2017, question:leaffest, leaffest-2017, kestrel, question:leaffest2017
 author: kgradow1
 path: /notes/kgradow1/09-30-2017/walkthrough-what-software-is-used-to-get-wind-data-off-the-kestral.md

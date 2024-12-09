@@ -1,5 +1,5 @@
 ---
-title: Public Lab Mascot Tryouts
+title: 'Public Lab Mascot Tryouts'
 tagnames: 
 author: donblair
 path: /notes/donblair/01-27-2014/public-lab-mascot-tryouts.md

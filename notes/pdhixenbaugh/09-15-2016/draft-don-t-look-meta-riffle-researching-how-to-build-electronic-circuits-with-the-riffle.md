@@ -1,5 +1,5 @@
 ---
-title: (Draft, don't look) Meta-Riffle: Researching how to build Electronic Circuits with the Riffle
+title: '(Draft, don't look) Meta-Riffle: Researching how to build Electronic Circuits with the Riffle'
 tagnames: draft
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/09-15-2016/draft-don-t-look-meta-riffle-researching-how-to-build-electronic-circuits-with-the-riffle.md

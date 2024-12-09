@@ -1,5 +1,5 @@
 ---
-title: Detection of Distilled Spirit Adulteration (with water) Using Visual Light Spectroscopy
+title: 'Detection of Distilled Spirit Adulteration (with water) Using Visual Light Spectroscopy'
 tagnames: desktop-spectrometer, barnstar:basic, food-fraud, food-safety, distilled-spirit-adulteration, replicable
 author: ygzstc
 path: /notes/ygzstc/12-09-2014/detection-of-distilled-spirit-adulteration-with-water-using-uv-vis-spectroscopy.md

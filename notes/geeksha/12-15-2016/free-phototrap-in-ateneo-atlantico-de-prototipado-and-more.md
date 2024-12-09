@@ -1,5 +1,5 @@
 ---
-title: Free Phototrap in Ateneo Atlántico de Prototipado and more
+title: 'Free Phototrap in Ateneo Atlántico de Prototipado and more'
 tagnames: spain, eu, prototyping-lab, cultural-mediation, diy-citizen-science-community, galicia
 author: geeksha
 path: /notes/geeksha/12-15-2016/free-phototrap-in-ateneo-atlantico-de-prototipado-and-more.md

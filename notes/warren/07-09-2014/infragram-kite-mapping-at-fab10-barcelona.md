@@ -1,5 +1,5 @@
 ---
-title: Infragram kite mapping at Fab10 Barcelona
+title: 'Infragram kite mapping at Fab10 Barcelona'
 tagnames: near-infrared-camera, kite-mapping, barcelona, spain, infragram, mobius, fab10, infragram-point-shoot, mini-kite-kit
 author: warren
 path: /notes/warren/07-09-2014/infragram-kite-mapping-at-fab10-barcelona.md

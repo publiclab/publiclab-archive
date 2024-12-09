@@ -1,5 +1,5 @@
 ---
-title: Meet Public Lab’s new Research Curation Fellows!
+title: 'Meet Public Lab’s new Research Curation Fellows!'
 tagnames: research, fellows, research-curation-fellows
 author: bhamster
 path: /notes/bhamster/06-15-2021/meet-public-lab-s-new-research-curation-fellows.md

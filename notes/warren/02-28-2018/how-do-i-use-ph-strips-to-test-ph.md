@@ -1,5 +1,5 @@
 ---
-title: How do I use pH strips to test pH?
+title: 'How do I use pH strips to test pH?'
 tagnames: water-quality, answered, ph, question:water-quality, question:ph
 author: warren
 path: /notes/warren/02-28-2018/how-do-i-use-ph-strips-to-test-ph.md

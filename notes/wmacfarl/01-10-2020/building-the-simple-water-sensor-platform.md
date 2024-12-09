@@ -1,5 +1,5 @@
 ---
-title: Building the Simple Water Sensor Platform
+title: 'Building the Simple Water Sensor Platform'
 tagnames: arduino, materials, sensors, water-quality, water-sensors, activity:water-sensors, dfrobot, oil-and-gas-water-trio, oil-and-gas-water-quality, activity:oil-and-gas-water-quality, simple-water-sensor-platform, activity:simple-water-sensor-platform
 author: wmacfarl
 path: /notes/wmacfarl/01-10-2020/building-the-simple-water-sensor-platform.md

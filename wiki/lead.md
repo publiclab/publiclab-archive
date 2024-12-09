@@ -1,5 +1,5 @@
 ---
-title: Lead (Pb)
+title: 'Lead (Pb)'
 tagnames: heavy-metals, lead, lead-testing
 author: liz
 path: /wiki/lead.md

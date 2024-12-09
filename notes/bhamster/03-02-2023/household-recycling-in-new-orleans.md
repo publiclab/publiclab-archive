@@ -1,5 +1,5 @@
 ---
-title: Household Recycling in New Orleans
+title: 'Household Recycling in New Orleans'
 tagnames: recycling, student-community-science, classroom-community-science
 author: bhamster
 path: /notes/bhamster/03-02-2023/household-recycling-in-new-orleans.md

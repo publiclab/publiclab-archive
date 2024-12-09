@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Wyldcity
+title: 'MapKnitter map of Wyldcity'
 tagnames: mapknitter, first-time-poster
 author: joeoilrigs
 path: /notes/joeoilrigs/11-22-2021/mapknitter-map-of-wyldcity.md

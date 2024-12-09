@@ -1,5 +1,5 @@
 ---
-title: Dragon Boats versus sewage
+title: 'Dragon Boats versus sewage'
 tagnames: new-york-city, queens, sewage, water-quality, flushing-bay, bb-06, cso, empire-dragon-boat, northeast, flushing, dragon-boat, wastewater
 author: eymund
 path: /notes/eymund/03-19-2014/dragon-boats-verses-sewage.md

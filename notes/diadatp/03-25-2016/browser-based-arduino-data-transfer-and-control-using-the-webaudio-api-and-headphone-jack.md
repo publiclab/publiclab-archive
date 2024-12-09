@@ -1,5 +1,5 @@
 ---
-title: Browser-based Arduino data transfer and control using the WebAudio API and headphone jack
+title: 'Browser-based Arduino data transfer and control using the WebAudio API and headphone jack'
 tagnames: software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827
 author: diadatp
 path: /notes/diadatp/03-25-2016/browser-based-arduino-data-transfer-and-control-using-the-webaudio-api-and-headphone-jack.md

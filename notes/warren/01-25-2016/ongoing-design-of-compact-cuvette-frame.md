@@ -1,5 +1,5 @@
 ---
-title: Ongoing design of compact cuvette frame
+title: 'Ongoing design of compact cuvette frame'
 tagnames: spectrometer, fluorescence, cuvette, oil-testing-kit, response:12462, response:11063, response:12472, cuvette-frame, response:12561, upgrade:spectrometry, upgrade:dssk, status:under-development, seeks:builds, time:5h, difficulty:medium
 author: warren
 path: /notes/warren/01-25-2016/ongoing-design-of-compact-cuvette-frame.md

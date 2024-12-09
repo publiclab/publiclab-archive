@@ -1,5 +1,5 @@
 ---
-title: How many regular ~1 foot balloons does it take to lift a camera?
+title: 'How many regular ~1 foot balloons does it take to lift a camera?'
 tagnames: balloon-mapping, helium, question:balloon-mapping, pi-camera, sourcing, party-balloons, faq-balloon-mapping
 author: warren
 path: /notes/warren/06-20-2019/how-many-regular-1-foot-balloons-does-it-take-to-lift-a-camera.md

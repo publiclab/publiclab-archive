@@ -1,5 +1,5 @@
 ---
-title: GSoC 2019: Final report
+title: 'GSoC 2019: Final report'
 tagnames: 
 author: aashnaaashna
 path: /notes/aashnaaashna/08-29-2019/gsoc-2019-final-report.md

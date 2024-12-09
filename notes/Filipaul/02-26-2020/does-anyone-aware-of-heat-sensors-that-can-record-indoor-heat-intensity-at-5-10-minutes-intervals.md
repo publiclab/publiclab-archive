@@ -1,5 +1,5 @@
 ---
-title: Does anyone aware of heat sensors that can record INDOOR heat intensity at 5-10 minutes intervals?
+title: 'Does anyone aware of heat sensors that can record INDOOR heat intensity at 5-10 minutes intervals?'
 tagnames: temperature, climate-change, climate, global, heat, question:general, general, wildfires, warming, ghg, question:climate-change
 author: Filipaul
 path: /notes/Filipaul/02-26-2020/does-anyone-aware-of-heat-sensors-that-can-record-indoor-heat-intensity-at-5-10-minutes-intervals.md

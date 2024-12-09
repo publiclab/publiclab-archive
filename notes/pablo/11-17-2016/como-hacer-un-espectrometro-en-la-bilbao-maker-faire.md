@@ -1,5 +1,5 @@
 ---
-title: Intro al espectrómetro de Public Lab en la Bilbao Maker Faire
+title: 'Intro al espectrómetro de Public Lab en la Bilbao Maker Faire'
 tagnames: spectrometer, spain, workshop, event, lang:es, event:rsvp, bilbao, date:11-18-2016, location:blurred, lat:43.2, lon:-2.9, place:bilbao-spain
 author: pablo
 path: /notes/pablo/11-17-2016/como-hacer-un-espectrometro-en-la-bilbao-maker-faire.md

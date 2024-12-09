@@ -1,5 +1,5 @@
 ---
-title: What is the standard 1-wire bus connector?
+title: 'What is the standard 1-wire bus connector?'
 tagnames: question:general
 author: yamadanao614
 path: /notes/yamadanao614/07-24-2017/what-is-the-standard-1-wire-bus-connector.md

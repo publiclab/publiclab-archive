@@ -1,5 +1,5 @@
 ---
-title: FOOLING OR REDUCING THE QUANTITY OF H2S (hydrogen sulfide) IN WELL TESTS.
+title: 'FOOLING OR REDUCING THE QUANTITY OF H2S (hydrogen sulfide) IN WELL TESTS.'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s
 author: sara
 path: /notes/sara/4-7-2012/fooling-or-reducing-quantity-h2s-hydrogen-sulfide-well-tests.md

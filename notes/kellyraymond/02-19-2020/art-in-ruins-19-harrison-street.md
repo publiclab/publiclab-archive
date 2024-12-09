@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (19 Harrison Street)
+title: 'Art in Ruins (19 Harrison Street)'
 tagnames: hidden:response, zoom:16, unearthing-pvd-stories, lat:41.81596327, lon:-71.43003822, lat:41.815963, lon:-71.430038, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/art-in-ruins-19-harrison-street.md

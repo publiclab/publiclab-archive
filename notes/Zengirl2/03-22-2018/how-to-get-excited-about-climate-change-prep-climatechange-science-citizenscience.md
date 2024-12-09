@@ -1,5 +1,5 @@
 ---
-title: How to Get Excited About Climate Change Prep #climatechange #science #citizenscience
+title: 'How to Get Excited About Climate Change Prep #climatechange #science #citizenscience'
 tagnames: disaster-preparedness, temperature, games, tool, tools, flood, stormwater, climate-change, climate, flooding, hurricane-preparedness, funcom, activity:funcom, activity:session-ideas
 author: zengirl2
 path: /notes/Zengirl2/03-22-2018/how-to-get-excited-about-climate-change-prep-climatechange-science-citizenscience.md

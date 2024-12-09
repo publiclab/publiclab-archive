@@ -1,5 +1,5 @@
 ---
-title: Interview series with Grassroots Community Organizers
+title: 'Interview series with Grassroots Community Organizers'
 tagnames: interview, chicago, environmental-justice, community-organizing, interview-series, series:community-interviews
 author: stevie
 path: /notes/stevie/08-11-2017/interview-series-with-grassroots-community-organizers.md

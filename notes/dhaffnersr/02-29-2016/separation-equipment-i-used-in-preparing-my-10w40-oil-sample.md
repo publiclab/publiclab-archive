@@ -1,5 +1,5 @@
 ---
-title: Separation equipment I used in preparing my 10w40 oil sample
+title: 'Separation equipment I used in preparing my 10w40 oil sample'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/02-29-2016/separation-equipment-i-used-in-preparing-my-10w40-oil-sample.md

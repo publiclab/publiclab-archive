@@ -1,5 +1,5 @@
 ---
-title: Reviewing and refreshing the topic of wastewater
+title: 'Reviewing and refreshing the topic of wastewater'
 tagnames: sewage, research, water-quality, stormwater, wastewater, reviews, research-area-review, with:alejobonifacio
 author: bhamster
 path: /notes/bhamster/07-23-2021/reviewing-and-refreshing-the-topic-of-wastewater.md

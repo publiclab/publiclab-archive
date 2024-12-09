@@ -1,5 +1,5 @@
 ---
-title: Shenandoah Valley
+title: 'Shenandoah Valley'
 tagnames: chapter, list:plots-southeast, southeast, parent:southeast
 author: Shannon
 path: /wiki/shenandoah-valley.md

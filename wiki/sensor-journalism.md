@@ -1,5 +1,5 @@
 ---
-title: sensor-journalism
+title: 'sensor-journalism'
 tagnames: 
 author: donblair
 path: /wiki/sensor-journalism.md

@@ -1,5 +1,5 @@
 ---
-title: Can commercially available water sensors work with DIY data loggers? 
+title: 'Can commercially available water sensors work with DIY data loggers? '
 tagnames: answered, question:data-logging, question:water-sensors
 author: gretchengehrke
 path: /notes/gretchengehrke/07-19-2017/can-commercially-available-water-sensors-work-with-diy-data-loggers.md

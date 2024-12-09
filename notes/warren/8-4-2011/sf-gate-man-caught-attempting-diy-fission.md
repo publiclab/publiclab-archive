@@ -1,5 +1,5 @@
 ---
-title: SF Gate: Man caught attempting DIY fission
+title: 'SF Gate: Man caught attempting DIY fission'
 tagnames: 
 author: warren
 path: /notes/warren/8-4-2011/sf-gate-man-caught-attempting-diy-fission.md

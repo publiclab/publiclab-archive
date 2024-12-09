@@ -1,5 +1,5 @@
 ---
-title: Thermistor Test in Water of Different Temperatures
+title: 'Thermistor Test in Water of Different Temperatures'
 tagnames: water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, multiple-input-thermal-fishing-bob, mare-liberum, replication:689
 author: kgrevera
 path: /notes/kgrevera/08-17-2015/thermistor-test-in-water-of-different-temperatures.md

@@ -1,5 +1,5 @@
 ---
-title: Interpreting infrared images
+title: 'Interpreting infrared images'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, image-interpretation, interpretation
 author: warren
 path: /wiki/interpreting-infrared-images.md

@@ -1,5 +1,5 @@
 ---
-title: Image is blue - First time 
+title: 'Image is blue - First time '
 tagnames: question:spectral-workbench, answered, first-time-poster
 author: LightWaveResearch8000
 path: /notes/LightWaveResearch8000/07-10-2017/image-is-blue-first-time.md

@@ -1,5 +1,5 @@
 ---
-title: What tags are helpful for flood/disaster images?
+title: 'What tags are helpful for flood/disaster images?'
 tagnames: balloon-mapping, aerial-photography, photo-monitoring, image-sorting, stormwater, question:stormwater, question:image-sorting
 author: zengirl2
 path: /notes/Zengirl2/09-08-2017/what-tags-are-helpful-for-flood-disaster-images.md

@@ -1,5 +1,5 @@
 ---
-title: Low altitude test of the AR Parrot 2 and Swann "thumb" camera
+title: 'Low altitude test of the AR Parrot 2 and Swann "thumb" camera'
 tagnames: parrot
 author: patcoyle
 path: /notes/patcoyle/8-26-2012/test-ar-parrot-2-tested-ar-parrot-2-and-swann-thumb-camera.md

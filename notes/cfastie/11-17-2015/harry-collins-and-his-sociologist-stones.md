@@ -1,5 +1,5 @@
 ---
-title: Harry Collins and his Sociologist Stones
+title: 'Harry Collins and his Sociologist Stones'
 tagnames: leaffest, barnraising, philosophy, leaffest2015, barnrising2015, expertise
 author: cfastie
 path: /notes/cfastie/11-17-2015/harry-collins-and-his-sociologist-stones.md

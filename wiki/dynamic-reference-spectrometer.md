@@ -1,5 +1,5 @@
 ---
-title: Dynamic Reference Spectrometer
+title: 'Dynamic Reference Spectrometer'
 tagnames: spectrometer
 author: jasonbarresi
 path: /wiki/dynamic-reference-spectrometer.md

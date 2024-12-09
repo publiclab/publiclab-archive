@@ -1,5 +1,5 @@
 ---
-title: Cartoscope GRN Harvey: Requests for feedback -- not ready for use
+title: 'Cartoscope GRN Harvey: Requests for feedback -- not ready for use'
 tagnames: image-sorting, sheen, oil-sheen, cartoscope, harvey, first-time-poster
 author: sspatharioti
 path: /notes/sspatharioti/10-10-2017/cartoscope-grn-harvey-requests-for-feedback-not-ready-for-use.md

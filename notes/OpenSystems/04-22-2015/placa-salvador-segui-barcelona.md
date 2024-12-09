@@ -1,5 +1,5 @@
 ---
-title: Plaça Salvador Seguí, Barcelona
+title: 'Plaça Salvador Seguí, Barcelona'
 tagnames: 
 author: OpenSystems
 path: /notes/OpenSystems/04-22-2015/placa-salvador-segui-barcelona.md

@@ -1,5 +1,5 @@
 ---
-title: Question: Is there a way to delete a set of spectra from the spectral work bench?
+title: 'Question: Is there a way to delete a set of spectra from the spectral work bench?'
 tagnames: question:spectral-workbench, answered
 author: ethanbass
 path: /notes/ethanbass/10-29-2015/question-is-there-a-way-to-delete-a-set-of-spectra-from-the-spectral-work-bench.md

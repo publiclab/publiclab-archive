@@ -1,5 +1,5 @@
 ---
-title: Higher E+D workshop
+title: 'Higher E+D workshop'
 tagnames: new-york-city, ilab, events, events:new-york-city
 author: liz
 path: /notes/liz/3-28-2013/higher-ed-workshop.md

@@ -1,5 +1,5 @@
 ---
-title: "Ground" Control Points for Bayou Bienvenue 
+title: '"Ground" Control Points for Bayou Bienvenue '
 tagnames: gulf-coast, balloon-mapping, louisiana, ground-control-points, bayou-bienvenue, green-slice, gulf-restoration-network, urbanwater
 author: eustatic
 path: /10-2-2012/draft-ground-control-points-bayou-bienvenue.md

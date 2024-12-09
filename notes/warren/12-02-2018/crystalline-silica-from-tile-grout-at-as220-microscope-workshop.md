@@ -1,5 +1,5 @@
 ---
-title: Crystalline silica from tile grout at AS220 microscope workshop
+title: 'Crystalline silica from tile grout at AS220 microscope workshop'
 tagnames: as220, silica, polarizer, polarized-light, polarized-light-microscopy, barnstar:photo-documentation, microscope, hardware, location:blurred, crystalline-silica, community-microscope, replication:15819, microbrews, grout, lat:41.823, lon:-71.415, microscope-workshop, polarizing-filter
 author: warren
 path: /notes/warren/12-02-2018/crystalline-silica-from-tile-grout-at-as220-microscope-workshop.md

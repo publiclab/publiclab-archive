@@ -1,5 +1,5 @@
 ---
-title: How can we more effectively combine community science and more conventional lab-based analysis that might be required to meet data standards?
+title: 'How can we more effectively combine community science and more conventional lab-based analysis that might be required to meet data standards?'
 tagnames: standards, data, measurement, question:general, general, study-design, data-quality
 author: fongvania
 path: /notes/fongvania/06-17-2021/how-can-we-more-effectively-combine-community-science-and-more-conventional-lab-based-analysis-that-might-be-required-to-meet-data-standards.md

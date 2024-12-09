@@ -1,5 +1,5 @@
 ---
-title: Large flares, spikes on air monitors near Americas Styrenics facility   
+title: 'Large flares, spikes on air monitors near Americas Styrenics facility   '
 tagnames: air-quality, air-monitoring, environmental-health, zoom:6, zoom:10, with:travislondon, formosaplastics, lat:30.017929, lon:-90.791322, stjames
 author: awoolverton1
 path: /notes/awoolverton1/04-14-2022/large-flares-spikes-on-air-monitors-near-americas-styrenics-facility.md

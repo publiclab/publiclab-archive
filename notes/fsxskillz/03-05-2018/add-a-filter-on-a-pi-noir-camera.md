@@ -1,5 +1,5 @@
 ---
-title: Add a filter on a Pi NoIR camera
+title: 'Add a filter on a Pi NoIR camera'
 tagnames: near-infrared-camera, raspberry-pi, question:infragram, multipspectral, question:general, question:raspberry-pi-infragram, response:11805, question:infragram-pi
 author: fsxskillz
 path: /notes/fsxskillz/03-05-2018/add-a-filter-on-a-pi-noir-camera.md

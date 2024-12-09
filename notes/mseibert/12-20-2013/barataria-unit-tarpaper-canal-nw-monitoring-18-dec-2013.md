@@ -1,5 +1,5 @@
 ---
-title: Barataria Unit Tarpaper Canal (NW) Monitoring   [18 Dec 2013]
+title: 'Barataria Unit Tarpaper Canal (NW) Monitoring   [18 Dec 2013]'
 tagnames: gulf-coast, balloon-mapping, wetlands, marsh, dredgefestla, dredgefest, lat:29.811636, lon:-90.141294, place:jean-lafitte-national-park
 author: mseibert
 path: /notes/mseibert/12-20-2013/barataria-unit-tarpaper-canal-nw-monitoring-18-dec-2013.md

@@ -1,5 +1,5 @@
 ---
-title: Common Water Contaminants
+title: 'Common Water Contaminants'
 tagnames: water, quality
 author: kanarinka
 path: /notes/kanarinka/04-15-2014/common-water-contaminants.md

@@ -1,5 +1,5 @@
 ---
-title: New Orleans Map Viewing Party
+title: 'New Orleans Map Viewing Party'
 tagnames: gulf-coast, balloon-mapping, event, gulfcoast, event:rsvp, urbanwaters, date:07-28-2015
 author: stevie
 path: /notes/stevie/07-08-2015/new-orleans-map-viewing-party.md

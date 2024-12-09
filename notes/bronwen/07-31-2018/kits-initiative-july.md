@@ -1,5 +1,5 @@
 ---
-title: Kits Initiative: July!
+title: 'Kits Initiative: July!'
 tagnames: newsletter, kits, kits-initiative, community-kits
 author: Bronwen
 path: /notes/bronwen/07-31-2018/kits-initiative-july.md

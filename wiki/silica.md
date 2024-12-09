@@ -1,5 +1,5 @@
 ---
-title: Silica
+title: 'Silica'
 tagnames: particulate-sensing, sand, air-quality, fracking, silica, frac-sand
 author: mathew
 path: /wiki/silica.md

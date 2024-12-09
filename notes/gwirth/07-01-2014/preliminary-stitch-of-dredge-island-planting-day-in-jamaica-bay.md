@@ -1,5 +1,5 @@
 ---
-title: Preliminary Stitch of Dredge Island Planting Day in Jamaica Bay 
+title: 'Preliminary Stitch of Dredge Island Planting Day in Jamaica Bay '
 tagnames: new-york-city, wetlands, jamaica-bay, spartina, nyc, northeast, bay, jamaica, dredge, dredgeresearchcollaborative, location:blurred, lat:40.6, lon:-73.8, place:jamaica-bay
 author: gwirth
 path: /notes/gwirth/07-01-2014/preliminary-stitch-of-dredge-island-planting-day-in-jamaica-bay.md

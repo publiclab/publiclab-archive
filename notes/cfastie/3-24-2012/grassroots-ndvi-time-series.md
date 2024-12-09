@@ -1,5 +1,5 @@
 ---
-title: Grassroots NDVI - time series
+title: 'Grassroots NDVI - time series'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, timeseries
 author: cfastie
 path: /notes/cfastie/3-24-2012/grassroots-ndvi-time-series.md

@@ -1,5 +1,5 @@
 ---
-title: Oil testing spectrometry workshop at Fab 10
+title: 'Oil testing spectrometry workshop at Fab 10'
 tagnames: spectrometer, workshop, fluorescence, response:8973, oil-testing-kit, fab10, response:7117, response:10170, location:blurred, lat:41.402, lon:2.187, zoom:16, place:gl-ries-08018-barcelona-spain
 author: warren
 path: /notes/warren/07-05-2014/oil-testing-spectrometry-workshop-at-fab-10.md

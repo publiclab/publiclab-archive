@@ -1,5 +1,5 @@
 ---
-title: DIY aerial photography: Kite-mapping workshop in London, UK
+title: 'DIY aerial photography: Kite-mapping workshop in London, UK'
 tagnames: kite-mapping, london, workshop, event, kitemapping, event:rsvp, eu, date:06-24-2015, rsvp:edibleurban, replication:14022
 author: cindy_excites
 path: /notes/Cindy_ExCites/06-24-2015/diy-aerial-photography-kite-mapping-workshop-in-london-uk.md

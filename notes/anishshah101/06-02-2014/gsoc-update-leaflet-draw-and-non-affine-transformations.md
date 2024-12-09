@@ -1,5 +1,5 @@
 ---
-title: GSoC Update- Leaflet.draw and Non affine transformations
+title: 'GSoC Update- Leaflet.draw and Non affine transformations'
 tagnames: mapknitter, gsoc, leaflet, developers, gsoc-2014
 author: anishshah101
 path: /notes/anishshah101/06-02-2014/gsoc-update-leaflet-draw-and-non-affine-transformations.md

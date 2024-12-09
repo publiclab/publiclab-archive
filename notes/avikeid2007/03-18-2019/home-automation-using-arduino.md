@@ -1,5 +1,5 @@
 ---
-title: Home Automation Using Arduino
+title: 'Home Automation Using Arduino'
 tagnames: arduino, first-time-poster, home-automation, lat:28.535516, lon:77.391026
 author: avikeid2007
 path: /notes/avikeid2007/03-18-2019/home-automation-using-arduino.md

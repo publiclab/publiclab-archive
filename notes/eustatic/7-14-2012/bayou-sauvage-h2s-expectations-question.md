@@ -1,5 +1,5 @@
 ---
-title: Bayou Sauvage H2S expectations, question 
+title: 'Bayou Sauvage H2S expectations, question '
 tagnames: hydrogen-sulfide-sensing
 author: eustatic
 path: /7-14-2012/bayou-sauvage-h2s-expectations-question.md

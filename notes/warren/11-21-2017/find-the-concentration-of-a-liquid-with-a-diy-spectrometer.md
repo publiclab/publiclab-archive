@@ -1,5 +1,5 @@
 ---
-title: Draft: Find the concentration of a liquid with a DIY spectrometer
+title: 'Draft: Find the concentration of a liquid with a DIY spectrometer'
 tagnames: spectrometer, spectrometry, beers-law, turbidity, reagents, seeks:replications, activity:foldable-spec, foldable-spec, activity:water-quality, activity:papercraft-spec
 author: warren
 path: /notes/warren/11-21-2017/find-the-concentration-of-a-liquid-with-a-diy-spectrometer.md

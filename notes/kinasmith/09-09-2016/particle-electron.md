@@ -1,5 +1,5 @@
 ---
-title: Particle Electron
+title: 'Particle Electron'
 tagnames: cellular, web, data, datalogger, riffle, logger, sensor, 3g, data-logging, riffle-examples, data-logger, datalogger-option
 author: kinasmith
 path: /notes/kinasmith/09-09-2016/particle-electron.md

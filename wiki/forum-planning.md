@@ -1,5 +1,5 @@
 ---
-title: Forum planning
+title: 'Forum planning'
 tagnames: community, gmf, grassroots-mapping, grassrootsmappingforum
 author: warren
 path: /wiki/forum-planning.md

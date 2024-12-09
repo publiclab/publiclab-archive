@@ -1,5 +1,5 @@
 ---
-title: Noise by colour
+title: 'Noise by colour'
 tagnames: spectrometer, rgb, bayer-filter, color, noise, activity:spectrometry
 author: viechdokter
 path: /notes/viechdokter/04-17-2016/noise-by-colour.md

@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Improve statistics system for publiclab
+title: 'Outreachy proposal: Improve statistics system for publiclab'
 tagnames: software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster
 author: radhikadua
 path: /notes/radhikadua/10-30-2018/outreachy-proposal-improve-statistics-system-for-publiclab.md

@@ -1,5 +1,5 @@
 ---
-title: Event: Oct 24, 2018 Crowdsourcing Stormwater Solutions at The Nature Conservancy
+title: 'Event: Oct 24, 2018 Crowdsourcing Stormwater Solutions at The Nature Conservancy'
 tagnames: new-york-city, event, stormwater, green-infrastructure, mitigation
 author: nwhysel
 path: /notes/nwhysel/10-10-2018/event-oct-24-2018-crowdsourcing-stormwater-solutions-at-the-nature-conservancy.md

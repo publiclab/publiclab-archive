@@ -1,5 +1,5 @@
 ---
-title: Sample aerial (balloon or kite) images from Mobius Action Camera?
+title: 'Sample aerial (balloon or kite) images from Mobius Action Camera?'
 tagnames: mapknitter, mobius, question:mobius, question:mobius-actioncam
 author: pfhs
 path: /notes/pfhs/06-28-2018/sample-aerial-balloon-or-kite-images-from-mobius-action-camera.md

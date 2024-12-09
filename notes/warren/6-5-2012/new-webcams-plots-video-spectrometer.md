@@ -1,5 +1,5 @@
 ---
-title: New webcams for PLOTS video spectrometer
+title: 'New webcams for PLOTS video spectrometer'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/6-5-2012/new-webcams-plots-video-spectrometer.md

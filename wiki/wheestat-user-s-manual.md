@@ -1,5 +1,5 @@
 ---
-title: WheeStat User's Manual
+title: 'WheeStat User's Manual'
 tagnames: hydrogen-sulfide-sensing, heavy-metals, water-quality, potentiostat, lead, wheestat
 author: JSummers
 path: /wiki/wheestat-user-s-manual.md

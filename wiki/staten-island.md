@@ -1,5 +1,5 @@
 ---
-title: Staten Island
+title: 'Staten Island'
 tagnames: new-york-city, northeast, staten-island
 author: liz
 path: /wiki/staten-island.md

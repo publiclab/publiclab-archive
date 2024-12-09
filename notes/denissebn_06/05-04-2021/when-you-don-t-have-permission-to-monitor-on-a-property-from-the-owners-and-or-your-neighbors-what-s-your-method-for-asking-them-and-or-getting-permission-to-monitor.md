@@ -1,5 +1,5 @@
 ---
-title: When you don’t have permission to monitor on a property from the owners and/or your neighbors, what’s your method for asking them and/or getting permission to monitor?
+title: 'When you don’t have permission to monitor on a property from the owners and/or your neighbors, what’s your method for asking them and/or getting permission to monitor?'
 tagnames: air-quality, air-monitoring, question:general, general, air-sampling, monitoring-permission, with:amocorro, question:vvamp
 author: denissebn_06
 path: /notes/denissebn_06/05-04-2021/when-you-don-t-have-permission-to-monitor-on-a-property-from-the-owners-and-or-your-neighbors-what-s-your-method-for-asking-them-and-or-getting-permission-to-monitor.md

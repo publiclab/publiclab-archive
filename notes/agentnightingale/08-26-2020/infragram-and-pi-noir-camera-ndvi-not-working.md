@@ -1,5 +1,5 @@
 ---
-title: infragram and Pi NoIR camera - NDVI not working 
+title: 'infragram and Pi NoIR camera - NDVI not working '
 tagnames: ndvi, infragram, pi, question:general, general, noir, first-time-poster
 author: agentnightingale
 path: /notes/agentnightingale/08-26-2020/infragram-and-pi-noir-camera-ndvi-not-working.md

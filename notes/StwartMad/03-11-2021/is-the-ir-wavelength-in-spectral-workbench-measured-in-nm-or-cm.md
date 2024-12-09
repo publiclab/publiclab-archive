@@ -1,5 +1,5 @@
 ---
-title: Is the ir wavelength in spectral workbench measured in nm or cm?
+title: 'Is the ir wavelength in spectral workbench measured in nm or cm?'
 tagnames: question:general, general, first-time-poster
 author: StwartMad
 path: /notes/StwartMad/03-11-2021/is-the-ir-wavelength-in-spectral-workbench-measured-in-nm-or-cm.md

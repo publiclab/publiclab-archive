@@ -1,5 +1,5 @@
 ---
-title: New Orleans Training Event! 
+title: 'New Orleans Training Event! '
 tagnames: gulf-coast, balloon-mapping, events, mapping, event, event:rsvp, date:09-18-2014, rsvp:geraldmc, rsvp:danbeavers, rsvp:hschackai, urbanwaters, replication:14022
 author: stevie
 path: /notes/stevie/08-26-2014/new-orleans-training-event.md

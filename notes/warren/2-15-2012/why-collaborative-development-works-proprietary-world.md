@@ -1,5 +1,5 @@
 ---
-title: Why Collaborative Development Works in a Proprietary World
+title: 'Why Collaborative Development Works in a Proprietary World'
 tagnames: collaboration, licensing, idealab, blog, attribution
 author: warren
 path: /notes/warren/2-15-2012/why-collaborative-development-works-proprietary-world.md

@@ -1,5 +1,5 @@
 ---
-title: Wrapping up Google Summer of Code 2016!
+title: 'Wrapping up Google Summer of Code 2016!'
 tagnames: software, gsoc, web, blog, developers, coding, wwg, seeks:responses, gsoc-2016, webjack, new-contributors
 author: warren
 path: /notes/warren/08-26-2016/wrapping-up-google-summer-of-code-2016.md

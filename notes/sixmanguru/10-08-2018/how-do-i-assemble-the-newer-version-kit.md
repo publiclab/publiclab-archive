@@ -1,5 +1,5 @@
 ---
-title: How do I... assemble the newer version kit
+title: 'How do I... assemble the newer version kit'
 tagnames: request:activity, community-microscope-assembly, question:community-microscope-assembly
 author: sixmanguru
 path: /notes/sixmanguru/10-08-2018/how-do-i-assemble-the-newer-version-kit.md

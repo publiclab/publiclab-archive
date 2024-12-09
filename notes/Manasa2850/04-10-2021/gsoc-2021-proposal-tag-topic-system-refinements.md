@@ -1,5 +1,5 @@
 ---
-title: GSoC 2021 Proposal : Tag / topic system refinements
+title: 'GSoC 2021 Proposal : Tag / topic system refinements'
 tagnames: software, soc, first-time-poster, gsoc-2021, gsoc-2021-proposals, outreachy-summer-2021
 author: Manasa2850
 path: /notes/Manasa2850/04-10-2021/gsoc-2021-proposal-tag-topic-system-refinements.md

@@ -1,5 +1,5 @@
 ---
-title: Local Environmental Action 2014 
+title: 'Local Environmental Action 2014 '
 tagnames: somerville-massachusetts, boston, event, tac, toxics-action-center, mcan
 author: bessbl
 path: /notes/bessbl/01-27-2014/local-environmental-action-2014.md

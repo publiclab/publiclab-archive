@@ -1,5 +1,5 @@
 ---
-title: Community Toolbox
+title: 'Community Toolbox'
 tagnames: community, software, wwg, first-timers-only, welcoming, community-toolbox
 author: warren
 path: /wiki/community-toolbox.md

@@ -1,5 +1,5 @@
 ---
-title: Mapping Vineyards with Quadcopter Using converted Canon Powershot A495
+title: 'Mapping Vineyards with Quadcopter Using converted Canon Powershot A495'
 tagnames: near-infrared-camera, drones, vineyard, uav, agriculture, mapping, quadcopter, drone, first-time-poster
 author: bc512
 path: /notes/bc512/08-18-2013/mapping-vineyards-with-quadcopter-using-converted-canon-powershot-a495.md

@@ -1,5 +1,5 @@
 ---
-title: Garden PAP map
+title: 'Garden PAP map'
 tagnames: vermont, polemapping, garden, pole-photography, pap, pole-aerial-photography, gigapan, pole-bracket
 author: cfastie
 path: /notes/cfastie/08-11-2013/garden-pap-map.md

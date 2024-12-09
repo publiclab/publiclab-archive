@@ -1,5 +1,5 @@
 ---
-title: Raman Spectroscopy
+title: 'Raman Spectroscopy'
 tagnames: spectrometer, raman, raman-spectroscopy, hackteria, first-time-poster
 author: dusjagr
 path: /notes/dusjagr/04-28-2013/raman-spectroscopy.md

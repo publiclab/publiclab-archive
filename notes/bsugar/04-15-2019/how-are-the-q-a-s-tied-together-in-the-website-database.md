@@ -1,5 +1,5 @@
 ---
-title: How are the Q&A's tied together in the website database?
+title: 'How are the Q&A's tied together in the website database?'
 tagnames: database, data, code, question:website, programming
 author: bsugar
 path: /notes/bsugar/04-15-2019/how-are-the-q-a-s-tied-together-in-the-website-database.md

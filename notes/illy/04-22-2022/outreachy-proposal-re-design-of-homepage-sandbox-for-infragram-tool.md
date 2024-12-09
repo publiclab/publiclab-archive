@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Re-design of Homepage & Sandbox for Infragram tool
+title: 'Outreachy proposal: Re-design of Homepage & Sandbox for Infragram tool'
 tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
 author: illy
 path: /notes/illy/04-22-2022/outreachy-proposal-re-design-of-homepage-sandbox-for-infragram-tool.md

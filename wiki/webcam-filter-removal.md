@@ -1,5 +1,5 @@
 ---
-title: Webcam filter removal
+title: 'Webcam filter removal'
 tagnames: spectrometer, infrared, webcam, filter, ir-block
 author: warren
 path: /wiki/webcam-filter-removal.md

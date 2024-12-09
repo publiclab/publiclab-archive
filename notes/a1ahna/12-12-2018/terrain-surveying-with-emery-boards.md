@@ -1,5 +1,5 @@
 ---
-title: Terrain Surveying with Emery Boards
+title: 'Terrain Surveying with Emery Boards'
 tagnames: oil, pipeline, survey, industry, hardware, oil-and-gas, activity:site-survey, topography, activity:new, pipelines, elevation, emery-board
 author: a1ahna
 path: /notes/a1ahna/12-12-2018/terrain-surveying-with-emery-boards.md

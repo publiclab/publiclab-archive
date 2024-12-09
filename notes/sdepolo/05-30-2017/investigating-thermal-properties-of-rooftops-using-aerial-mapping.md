@@ -1,5 +1,5 @@
 ---
-title: Investigating Thermal Properties of Rooftops Using Aerial Mapping
+title: 'Investigating Thermal Properties of Rooftops Using Aerial Mapping'
 tagnames: balloon-mapping, thermal-photography, event, thermal-camera, insulation, hidden:response, response:14179, roof, first-time-poster
 author: sdepolo
 path: /notes/sdepolo/05-30-2017/investigating-thermal-properties-of-rooftops-using-aerial-mapping.md

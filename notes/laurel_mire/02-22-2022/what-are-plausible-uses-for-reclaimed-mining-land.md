@@ -1,5 +1,5 @@
 ---
-title: What are plausible uses for reclaimed mining land? 
+title: 'What are plausible uses for reclaimed mining land? '
 tagnames: land-use, research-curation-fellows, reclamation, mine-reclamation, question:mine-reclamation, question:reclamation, evaluating-reclamation, question:evaluating-reclamation, question:land-use
 author: laurel_mire
 path: /notes/laurel_mire/02-22-2022/what-are-plausible-uses-for-reclaimed-mining-land.md

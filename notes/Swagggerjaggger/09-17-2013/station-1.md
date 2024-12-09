@@ -1,5 +1,5 @@
 ---
-title: Station 1
+title: 'Station 1'
 tagnames: first-time-poster
 author: Swagggerjaggger
 path: /notes/Swagggerjaggger/09-17-2013/station-1.md

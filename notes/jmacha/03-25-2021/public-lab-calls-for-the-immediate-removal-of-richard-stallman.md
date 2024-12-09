@@ -1,5 +1,5 @@
 ---
-title: Public Lab calls for the immediate removal of Richard Stallman
+title: 'Public Lab calls for the immediate removal of Richard Stallman'
 tagnames: blog, public-comment, lat:42.360082, lon:-71.05888, zoom:6
 author: jmacha
 path: /notes/jmacha/03-25-2021/public-lab-calls-for-the-immediate-removal-of-richard-stallman.md

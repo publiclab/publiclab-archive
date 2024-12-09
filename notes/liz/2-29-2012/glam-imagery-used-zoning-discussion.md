@@ -1,5 +1,5 @@
 ---
-title: GLAM imagery used in zoning discussion
+title: 'GLAM imagery used in zoning discussion'
 tagnames: 
 author: liz
 path: /notes/liz/2-29-2012/glam-imagery-used-zoning-discussion.md

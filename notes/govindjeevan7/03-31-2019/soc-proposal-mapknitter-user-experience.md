@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: MapKnitter Image Management & User Experience
+title: 'SoC proposal: MapKnitter Image Management & User Experience'
 tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, gsoc-19, soc-2019-proposals, lat:13.010838, lon:74.79431
 author: govindjeevan7
 path: /notes/govindjeevan7/03-31-2019/soc-proposal-mapknitter-user-experience.md

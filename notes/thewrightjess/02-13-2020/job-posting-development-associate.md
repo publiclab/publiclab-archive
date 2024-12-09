@@ -1,5 +1,5 @@
 ---
-title: Job Posting: Development Associate
+title: 'Job Posting: Development Associate'
 tagnames: fundraising, development, jobs
 author: thewrightjess
 path: /notes/thewrightjess/02-13-2020/job-posting-development-associate.md

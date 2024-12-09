@@ -1,5 +1,5 @@
 ---
-title: Light
+title: 'Light'
 tagnames: hidden:response, replication:15121, response:17384
 author: ncmcintire
 path: /notes/ncmcintire/10-24-2018/light.md

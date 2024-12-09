@@ -1,5 +1,5 @@
 ---
-title: How can we build this wind turbine to power lights?
+title: 'How can we build this wind turbine to power lights?'
 tagnames: wind, lebanon, bourjalshamali, with:mustapha, question:wind
 author: liz
 path: /notes/liz/10-24-2019/how-can-we-build-this-wind-turbine-to-power-lights.md

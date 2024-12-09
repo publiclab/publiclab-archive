@@ -1,5 +1,5 @@
 ---
-title: How to Make a Simple Smartphone Microscope #citizenscience #science #DIY #3dprinting
+title: 'How to Make a Simple Smartphone Microscope #citizenscience #science #DIY #3dprinting'
 tagnames: dust, pm, microscope, microscopes, particle-imaging
 author: zengirl2
 path: /notes/Zengirl2/02-28-2018/how-to-make-a-simple-smartphone-microscope-citizenscience-science-diy-3dprinting.md

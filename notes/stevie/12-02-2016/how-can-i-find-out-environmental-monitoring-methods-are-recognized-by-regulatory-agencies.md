@@ -1,5 +1,5 @@
 ---
-title: How can I find out what environmental monitoring methods are recognized by regulatory agencies? 
+title: 'How can I find out what environmental monitoring methods are recognized by regulatory agencies? '
 tagnames: openhour, answered, question:openhour, question:regulations, question:legal, question:method, law-and-policy, question:law-and-policy
 author: stevie
 path: /notes/stevie/12-02-2016/how-can-i-find-out-environmental-monitoring-methods-are-recognized-by-regulatory-agencies.md

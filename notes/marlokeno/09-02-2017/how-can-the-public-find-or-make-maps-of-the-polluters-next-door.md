@@ -1,5 +1,5 @@
 ---
-title: How can the public find or make maps of the polluters next door?
+title: 'How can the public find or make maps of the polluters next door?'
 tagnames: neighborhood, mapping, database, air-quality, water-quality, toxic-waste, pollution, data-collection, emissions, answered, airpollution, oil-pollution, harvey, question:harvey, question:emissions
 author: marlokeno
 path: /notes/marlokeno/09-02-2017/how-can-the-public-find-or-make-maps-of-the-polluters-next-door.md

@@ -1,5 +1,5 @@
 ---
-title: Question: 
+title: 'Question: '
 tagnames: question:near-infrared-camera
 author: Monoxyde
 path: /notes/monoxyde/08-09-2015/question.md

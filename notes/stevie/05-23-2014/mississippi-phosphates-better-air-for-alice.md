@@ -1,5 +1,5 @@
 ---
-title: Mississippi Phosphates: Better air for Alice
+title: 'Mississippi Phosphates: Better air for Alice'
 tagnames: gulf-coast, mississippi, air-quality, lead, sulfuric-acid, ammonia, phosphate, pascagoula, phosphates
 author: stevie
 path: /notes/stevie/05-23-2014/mississippi-phosphates-better-air-for-alice.md

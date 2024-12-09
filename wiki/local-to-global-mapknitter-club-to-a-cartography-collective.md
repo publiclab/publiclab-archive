@@ -1,5 +1,5 @@
 ---
-title: Local to Global: MapKnitter Club to a Cartography Collective
+title: 'Local to Global: MapKnitter Club to a Cartography Collective'
 tagnames: barataria-bay, grassrootsmapping, mapknitter, barataria, blog, style:fancy
 author: mollydanielsson
 path: /wiki/local-to-global-mapknitter-club-to-a-cartography-collective.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: LEL 2.0 and work on Leaflet-Blurred projects .
+title: 'GSoC proposal: LEL 2.0 and work on Leaflet-Blurred projects .'
 tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, response:18440, lat:28.599514, lon:77.053754
 author: sagarpreet
 path: /notes/sagarpreet/03-09-2019/gsoc-proposal-lel-2-0-and-work-on-leaflet-blurred-projects.md

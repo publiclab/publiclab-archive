@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of LAC_unccfall17
+title: 'MapKnitter map of LAC_unccfall17'
 tagnames: mapknitter, lat:35.3070929, lon:-80.735164
 author: lcarmenia
 path: /notes/lcarmenia/09-26-2017/mapknitter-map-of-lac_unccfall17.md

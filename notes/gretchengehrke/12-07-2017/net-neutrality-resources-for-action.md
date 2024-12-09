@@ -1,5 +1,5 @@
 ---
-title: Net Neutrality: resources for action
+title: 'Net Neutrality: resources for action'
 tagnames: blog, blog-submission
 author: gretchengehrke
 path: /notes/gretchengehrke/12-07-2017/net-neutrality-resources-for-action.md

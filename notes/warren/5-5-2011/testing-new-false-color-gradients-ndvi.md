@@ -1,5 +1,5 @@
 ---
-title: Testing new false color gradients for NDVI
+title: 'Testing new false color gradients for NDVI'
 tagnames: lima, near-infrared-camera, peru, ndvi, false-color
 author: warren
 path: /notes/warren/5-5-2011/testing-new-false-color-gradients-ndvi.md

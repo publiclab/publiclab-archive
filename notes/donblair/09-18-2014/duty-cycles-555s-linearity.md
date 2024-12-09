@@ -1,5 +1,5 @@
 ---
-title: Duty Cycles & 555s --> linearity!
+title: 'Duty Cycles & 555s --> linearity!'
 tagnames: calibration, water-quality, conductivity, open-water, linearity, 555, coqui
 author: donblair
 path: /notes/donblair/09-18-2014/duty-cycles-555s-linearity.md

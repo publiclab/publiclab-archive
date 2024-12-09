@@ -1,5 +1,5 @@
 ---
-title: Small DIY aerostat "Uchbovy" made in Kharkiv, Ukraine
+title: 'Small DIY aerostat "Uchbovy" made in Kharkiv, Ukraine'
 tagnames: diy, balloon, training, eu, ukraine, lta, aerostat, europe
 author: Alex_the_Ukrainian
 path: /notes/Alex_the_Ukrainian/03-21-2015/small-diy-aerostat-made-in-kharkiv-ukraine.md

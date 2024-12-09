@@ -1,5 +1,5 @@
 ---
-title: Open Source Hardware
+title: 'Open Source Hardware'
 tagnames: 
 author: warren
 path: /wiki/open-source-hardware.md

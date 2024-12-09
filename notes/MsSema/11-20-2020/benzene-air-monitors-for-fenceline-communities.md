@@ -1,5 +1,5 @@
 ---
-title: Benzene Air Monitors For Fenceline Communities
+title: 'Benzene Air Monitors For Fenceline Communities'
 tagnames: air-quality, barnstar:watchdog, texas, oil-and-gas, houston, issue-brief, lat:29, lon:-95, first-time-poster, zoom:6, fenceline-monitoring, toxic-chemicals, benzene-monitors, air-monitors, air-quality-alert-system, newcomer-experience
 author: MsSema
 path: /notes/MsSema/11-20-2020/benzene-air-monitors-for-fenceline-communities.md

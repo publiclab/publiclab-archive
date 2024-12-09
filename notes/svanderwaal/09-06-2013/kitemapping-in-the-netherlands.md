@@ -1,5 +1,5 @@
 ---
-title: Kitemapping in the Netherlands
+title: 'Kitemapping in the Netherlands'
 tagnames: balloon-mapping, guides, waagsociety, amsterdam, netherlands, waag, lat:52.372807, lon:4.900291, place:waag-society-nieuwmarkt-amsterdam-netherlands
 author: svanderwaal
 path: /notes/svanderwaal/09-06-2013/kitemapping-in-the-netherlands.md

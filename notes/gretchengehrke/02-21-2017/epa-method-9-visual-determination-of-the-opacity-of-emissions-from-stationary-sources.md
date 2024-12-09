@@ -1,5 +1,5 @@
 ---
-title: EPA Method 9: Visual Determination of the Opacity of Emissions from Stationary Sources
+title: 'EPA Method 9: Visual Determination of the Opacity of Emissions from Stationary Sources'
 tagnames: epa, emissions, dust, pm, barnstar:basic, pm-monitoring, method-9, 21, activity:observation, activity:monitor, opacity, activity:site-survey, stationary-sources
 author: gretchengehrke
 path: /notes/gretchengehrke/02-21-2017/epa-method-9-visual-determination-of-the-opacity-of-emissions-from-stationary-sources.md

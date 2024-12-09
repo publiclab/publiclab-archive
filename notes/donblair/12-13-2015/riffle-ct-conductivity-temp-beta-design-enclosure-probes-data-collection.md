@@ -1,5 +1,5 @@
 ---
-title: Riffle CT (Conductivity & Temp) Beta Design: Electronics, Enclosure, Probes, Data Collection
+title: 'Riffle CT (Conductivity & Temp) Beta Design: Electronics, Enclosure, Probes, Data Collection'
 tagnames: water-quality, datalogger, logging, riffle, beta
 author: donblair
 path: /notes/donblair/12-13-2015/riffle-ct-conductivity-temp-beta-design-enclosure-probes-data-collection.md

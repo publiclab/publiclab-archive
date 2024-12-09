@@ -1,5 +1,5 @@
 ---
-title: What are the best ways for communities to engage with content posted to our Wild Rice project?
+title: 'What are the best ways for communities to engage with content posted to our Wild Rice project?'
 tagnames: community, air-quality, water, minnesota, question:general, general, first-time-poster, wild-rice, huber-osb-factory, talon-rio-tinto-mine, land-rights
 author: noah_ben_furman
 path: /notes/noah_ben_furman/06-07-2022/what-are-the-best-ways-for-communities-to-engage-with-content-posted-to-our-wild-rice-project.md

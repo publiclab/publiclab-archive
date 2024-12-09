@@ -1,5 +1,5 @@
 ---
-title: The Environmental Leadership Program Supports Public Lab Partnership with Innovation Grant
+title: 'The Environmental Leadership Program Supports Public Lab Partnership with Innovation Grant'
 tagnames: newark, new-jersey, blog
 author: Shannon
 path: /notes/Shannon/10-23-2013/the-environmental-leadership-program-supports-public-lab-partnership-with-innovation-grant.md

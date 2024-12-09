@@ -1,5 +1,5 @@
 ---
-title: Interview: Chris Nidel on environmental evidence in court
+title: 'Interview: Chris Nidel on environmental evidence in court'
 tagnames: evidence, blog, legal, openhour, with:gretchengehrke, evidence-project, chris-nidel, photographic-evidence, photographic-monitoring, court, jury, series:evidence-project, law-and-policy
 author: warren
 path: /notes/warren/11-22-2016/interview-chris-nidel-on-environmental-evidence-in-court.md

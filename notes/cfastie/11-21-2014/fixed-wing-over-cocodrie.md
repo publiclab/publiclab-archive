@@ -1,5 +1,5 @@
 ---
-title: Fixed wing over Cocodrie
+title: 'Fixed wing over Cocodrie'
 tagnames: near-infrared-camera, image-stitching, louisiana, barnraising, lumcon, barnraising2014
 author: cfastie
 path: /notes/cfastie/11-21-2014/fixed-wing-over-cocodrie.md

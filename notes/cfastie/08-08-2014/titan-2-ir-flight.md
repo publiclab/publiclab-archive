@@ -1,5 +1,5 @@
 ---
-title: Titan 2 IR flight
+title: 'Titan 2 IR flight'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, photo-rig, infragram, 3d-printing, makerbot, northeast, titan, response:10602, category:field-test, activity:photo-rig
 author: cfastie
 path: /notes/cfastie/08-08-2014/titan-2-ir-flight.md

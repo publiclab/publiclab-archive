@@ -1,5 +1,5 @@
 ---
-title: Cape Cod Bay Watch Landsat Tutorial notes 7/14/14
+title: 'Cape Cod Bay Watch Landsat Tutorial notes 7/14/14'
 tagnames: massachusetts, cape-cod-bay-watch, landsat, tutorial, thermal, northeast, thermal-plume, landsat-7, qgis
 author: karenv
 path: /wiki/cape-cod-bay-watch-landsat-tutorial-notes-7-14-14.md

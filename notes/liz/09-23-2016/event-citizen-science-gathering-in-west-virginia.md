@@ -1,5 +1,5 @@
 ---
-title: Event: Citizen Science Gathering in West Virginia
+title: 'Event: Citizen Science Gathering in West Virginia'
 tagnames: conferences, west-virginia, event, southeast, event:rsvp, wv, date:09-24-2016
 author: liz
 path: /notes/liz/09-23-2016/event-citizen-science-gathering-in-west-virginia.md

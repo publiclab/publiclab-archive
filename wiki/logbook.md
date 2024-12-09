@@ -1,5 +1,5 @@
 ---
-title: Logbook
+title: 'Logbook'
 tagnames: 
 author: warren
 path: /wiki/logbook.md

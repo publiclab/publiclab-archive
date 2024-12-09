@@ -1,5 +1,5 @@
 ---
-title: Rain Cii Carbon Petcoke Plume in Gramercy / Wallace
+title: 'Rain Cii Carbon Petcoke Plume in Gramercy / Wallace'
 tagnames: air-quality, zoom:12, lat:30.053372, lon:-90.668269
 author: eustatic
 path: /02-12-2022/rain-cii-carbon-petcoke-plume-in-gramercy-wallace.md

@@ -1,5 +1,5 @@
 ---
-title: PLOTS at Ars Electronica "Accountability Tech" symposium
+title: 'PLOTS at Ars Electronica "Accountability Tech" symposium'
 tagnames: presentations, presentation
 author: warren
 path: /notes/warren/9-1-2012/plots-ars-electronica-accountability-tech-symposium.md

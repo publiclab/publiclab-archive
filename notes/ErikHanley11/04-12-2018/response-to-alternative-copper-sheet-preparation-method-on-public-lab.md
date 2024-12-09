@@ -1,5 +1,5 @@
 ---
-title: Response to Alternative Copper Sheet Preparation Method on Public Lab
+title: 'Response to Alternative Copper Sheet Preparation Method on Public Lab'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-copper-pipe, copper-pipe, copper-sheet
 author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/response-to-alternative-copper-sheet-preparation-method-on-public-lab.md

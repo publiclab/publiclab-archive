@@ -1,5 +1,5 @@
 ---
-title: Suggestions for helium tank Balloon kit
+title: 'Suggestions for helium tank Balloon kit'
 tagnames: balloon, helium, question:general, general, first-time-poster
 author: geoderek
 path: /notes/geoderek/11-13-2019/suggestions-for-helium-tank-balloon-kit.md

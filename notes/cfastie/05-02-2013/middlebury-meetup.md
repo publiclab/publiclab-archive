@@ -1,5 +1,5 @@
 ---
-title: Middlebury Meetup
+title: 'Middlebury Meetup'
 tagnames: near-infrared-camera, kite-mapping, nrg, ndvi, vermont, kite-aerial-photography, infrared, farmhack, uav, agriculture, event, infragram, superblue, rosco, infrablue, gigapan
 author: cfastie
 path: /notes/cfastie/05-02-2013/middlebury-meetup.md

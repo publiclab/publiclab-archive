@@ -1,5 +1,5 @@
 ---
-title: Can we use a guitar tuning app to get numeric data from the Coqui water sensor? 
+title: 'Can we use a guitar tuning app to get numeric data from the Coqui water sensor? '
 tagnames: water-quality, coqui, question:coqui, guitar-tuner
 author: warren
 path: /notes/warren/03-01-2019/can-we-use-a-guitar-tuning-app-to-get-numeric-data-from-the-coqui-water-sensor.md

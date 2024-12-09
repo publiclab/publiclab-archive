@@ -1,5 +1,5 @@
 ---
-title: Potholes in New Orleans
+title: 'Potholes in New Orleans'
 tagnames: gulf-coast, laplace, louisiana, new-orleans, potholes, soil-quality, lon:0, zoom:1, lat:30.145127
 author: Rgaude
 path: /notes/Rgaude/04-07-2021/potholes-in-new-orleans.md

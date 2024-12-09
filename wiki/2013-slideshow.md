@@ -1,5 +1,5 @@
 ---
-title: 2013 Slideshow
+title: '2013 Slideshow'
 tagnames: sidebar:featured, style:wide, style:presentation
 author: warren
 path: /wiki/2013-slideshow.md

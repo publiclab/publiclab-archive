@@ -1,5 +1,5 @@
 ---
-title: Big NDVI
+title: 'Big NDVI'
 tagnames: near-infrared-camera, ndvi, infrared, alaska, infragram, infrablue, gigapan, 74
 author: cfastie
 path: /notes/cfastie/07-10-2013/big-ndvi.md

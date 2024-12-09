@@ -1,5 +1,5 @@
 ---
-title: Evaluating Marine Ecosystems through Plankton
+title: 'Evaluating Marine Ecosystems through Plankton'
 tagnames: water, environment, southeast, issue-brief, babylegs, first-time-poster, zoom:7, plankton, chesapeake-bay, marine-ecosystems, lat:39.104488, lon:-76.431884
 author: Roundboy
 path: /notes/Roundboy/06-13-2022/evaluating-marine-ecosystems-through-plankton.md

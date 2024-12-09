@@ -1,5 +1,5 @@
 ---
-title: Nature Center polygons for the next phase of Forest Restoration
+title: 'Nature Center polygons for the next phase of Forest Restoration'
 tagnames: gulf-coast, mapknitter, urbanwater, urbanwaters
 author: eustatic
 path: /02-28-2015/nature-center-polygons-for-the-next-phase-of-forest-restoration.md

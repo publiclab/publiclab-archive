@@ -1,5 +1,5 @@
 ---
-title: test note
+title: 'test note'
 tagnames: 
 author: IshaGupta18
 path: /notes/IshaGupta18/08-23-2019/test-note.md

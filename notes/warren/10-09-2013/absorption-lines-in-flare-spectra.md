@@ -1,5 +1,5 @@
 ---
-title: Absorption lines in flare spectra
+title: 'Absorption lines in flare spectra'
 tagnames: spectrometer, analysis, spectral-analysis, absorption, spectral-workbench, flare, chalmette, response:8946, response:8944
 author: warren
 path: /notes/warren/10-09-2013/absorption-lines-in-flare-spectra.md

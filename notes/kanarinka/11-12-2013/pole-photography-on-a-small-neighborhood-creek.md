@@ -1,5 +1,5 @@
 ---
-title: Pole photography on a small neighborhood creek
+title: 'Pole photography on a small neighborhood creek'
 tagnames: boston, polemapping, massachusetts, pole-photography, pole-mapping, creek, northeast, first-time-poster, qgis
 author: kanarinka
 path: /notes/kanarinka/11-12-2013/pole-photography-on-a-small-neighborhood-creek.md

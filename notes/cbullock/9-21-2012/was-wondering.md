@@ -1,5 +1,5 @@
 ---
-title: was wondering
+title: 'was wondering'
 tagnames: 
 author: cbullock
 path: /notes/cbullock/9-21-2012/was-wondering.md

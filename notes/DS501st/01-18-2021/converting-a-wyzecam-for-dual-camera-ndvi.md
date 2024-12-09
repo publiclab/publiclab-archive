@@ -1,5 +1,5 @@
 ---
-title: Converting a WyzeCam for 2-camera NDVI in 1 camera
+title: 'Converting a WyzeCam for 2-camera NDVI in 1 camera'
 tagnames: ndvi, infragram-filters, hydroponics, seeks:replications, activity:infrared-camera-conversion, infrared-camera-conversion, first-time-poster, wyzecam
 author: DS501st
 path: /notes/DS501st/01-18-2021/converting-a-wyzecam-for-dual-camera-ndvi.md

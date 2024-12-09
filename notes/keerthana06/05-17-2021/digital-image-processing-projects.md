@@ -1,5 +1,5 @@
 ---
-title: digital image processing projects
+title: 'digital image processing projects'
 tagnames: 
 author: keerthana06
 path: /notes/keerthana06/05-17-2021/digital-image-processing-projects.md

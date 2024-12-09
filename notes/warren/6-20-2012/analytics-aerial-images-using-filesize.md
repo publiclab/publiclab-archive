@@ -1,5 +1,5 @@
 ---
-title: Analytics on aerial images -- using filesize
+title: 'Analytics on aerial images -- using filesize'
 tagnames: balloon-mapping, kite-mapping, analysis, temperature, blurriness, sorting, image-sorting, activity:image-sorting
 author: warren
 path: /notes/warren/6-20-2012/analytics-aerial-images-using-filesize.md

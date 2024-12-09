@@ -1,5 +1,5 @@
 ---
-title: Build a juice bottle-based rig to carry two cameras
+title: 'Build a juice bottle-based rig to carry two cameras'
 tagnames: balloon-mapping, kite-mapping, dual-camera, aerial-photography, photo-rig, difficulty:easy, status:review-me, category:build, time:1h, activity:photo-rig, camera-rigs, activity:camera-rig, juice-bottle
 author: warren
 path: /notes/warren/02-21-2017/build-a-juice-bottle-based-rig-to-carry-two-cameras.md

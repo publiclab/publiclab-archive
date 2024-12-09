@@ -1,5 +1,5 @@
 ---
-title: Can i make a microplastic filter by just putting a nylon over the drain of my washing machine?
+title: 'Can i make a microplastic filter by just putting a nylon over the drain of my washing machine?'
 tagnames: question:microplastics, microplastics, question:babylegs, babylegs, plastic, first-time-poster, nylon
 author: hikinghack
 path: /notes/hikinghack/05-12-2019/can-i-make-a-microplastic-filter-by-just-putting-a-nylon-over-the-drain-of-my-washing-machine.md

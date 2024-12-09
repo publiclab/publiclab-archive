@@ -1,5 +1,5 @@
 ---
-title: Grassroots Mapping Video Tutorials Plan
+title: 'Grassroots Mapping Video Tutorials Plan'
 tagnames: 
 author: mathew
 path: /wiki/grassroots-mapping-video-tutorials-plan.md

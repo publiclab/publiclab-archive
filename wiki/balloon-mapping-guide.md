@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping Guide
+title: 'Balloon Mapping Guide'
 tagnames: balloon-mapping, kite-mapping, guides, balloon-mapping-kit, guide
 author: warren
 path: /wiki/balloon-mapping-guide.md

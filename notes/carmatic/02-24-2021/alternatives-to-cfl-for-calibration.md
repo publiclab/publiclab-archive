@@ -1,5 +1,5 @@
 ---
-title: alternatives to CFL for calibration? 
+title: 'alternatives to CFL for calibration? '
 tagnames: calibration, desktop-spectrometry-kit, first-time-poster
 author: carmatic
 path: /notes/carmatic/02-24-2021/alternatives-to-cfl-for-calibration.md

@@ -1,5 +1,5 @@
 ---
-title: More updated maps - construction site activities near Mocho Park
+title: 'More updated maps - construction site activities near Mocho Park'
 tagnames: time-lapse, kap, sx260hs, construction, juice-bottle-riig, location:blurred, zoom:17, lat:37.67, lon:-121.78, place:watsonville-ca-95076-united-states
 author: patcoyle
 path: /notes/patcoyle/02-27-2014/more-updated-maps-construction-site-activities-near-mocho-park.md

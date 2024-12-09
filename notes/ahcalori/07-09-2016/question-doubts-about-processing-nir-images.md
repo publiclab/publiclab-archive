@@ -1,5 +1,5 @@
 ---
-title: Question: doubts about processing NIR images.
+title: 'Question: doubts about processing NIR images.'
 tagnames: ndvi, nir, image-processing
 author: ahcalori
 path: /notes/ahcalori/07-09-2016/question-doubts-about-processing-nir-images.md

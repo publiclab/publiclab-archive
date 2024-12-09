@@ -1,5 +1,5 @@
 ---
-title: Prototype Raspberry Pi-based dual IR cam
+title: 'Prototype Raspberry Pi-based dual IR cam'
 tagnames: near-infrared-camera, nrg, ndvi, raspberry-pi, ircam
 author: warren
 path: /notes/warren/10-17-2012/prototype-raspberry-pi-based-dual-ir-cam.md

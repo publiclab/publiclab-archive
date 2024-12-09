@@ -1,5 +1,5 @@
 ---
-title: Make the most basic github contribution
+title: 'Make the most basic github contribution'
 tagnames: with:bsugar, activity:software, activity:soc, activity:developers, activity:git
 author: liz
 path: /notes/liz/11-02-2016/make-the-most-basic-github-contribution.md

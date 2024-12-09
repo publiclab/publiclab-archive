@@ -1,5 +1,5 @@
 ---
-title: Single camera NDVI solution
+title: 'Single camera NDVI solution'
 tagnames: near-infrared-camera, ndvi, nir, vegetation, infrablue, mobius-actioncam, ir-block
 author: theowallis
 path: /notes/theowallis/08-08-2014/single-camera-ndvi-solution.md

@@ -1,5 +1,5 @@
 ---
-title: Gg mate
+title: 'Gg mate'
 tagnames: spectrometer, spectroscopy, color, light, hidden:response, replication:15121, response:17384
 author: Chasea9
 path: /notes/Chasea9/10-25-2018/gg-mate.md

@@ -1,5 +1,5 @@
 ---
-title: Ground Truth in the Negev-Naqab Desert, Israel
+title: 'Ground Truth in the Negev-Naqab Desert, Israel'
 tagnames: mapknitter, israel, blog, barnstar:photo-documentation, middle-east, lat:31.372335, lon:34.793877
 author: hagitkeysar
 path: /notes/hagitkeysar/01-01-2016/ground-truth-in-the-negev-naqab-desert-israel.md

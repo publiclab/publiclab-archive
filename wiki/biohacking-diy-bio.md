@@ -1,5 +1,5 @@
 ---
-title: Biohacking / DIY Bio
+title: 'Biohacking / DIY Bio'
 tagnames: environmental-estrogen-testing, diybio, biohacking, bioassay, bioremediation
 author: TedF
 path: /wiki/biohacking-diy-bio.md

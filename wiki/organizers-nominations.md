@@ -1,5 +1,5 @@
 ---
-title: Organizers nominations
+title: 'Organizers nominations'
 tagnames: community, organizers, parent:organizers
 author: warren
 path: /wiki/organizers-nominations.md

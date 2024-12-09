@@ -1,5 +1,5 @@
 ---
-title: spectrum of a 7w lexman light bulb
+title: 'spectrum of a 7w lexman light bulb'
 tagnames: first-time-poster
 author: pepespectrum
 path: /notes/pepespectrum/11-10-2018/spectrum-of-a-7w-lexman-light-bulb.md

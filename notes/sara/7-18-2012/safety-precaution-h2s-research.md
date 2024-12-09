@@ -1,5 +1,5 @@
 ---
-title: Safety Precautions for H2S Research
+title: 'Safety Precautions for H2S Research'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
 author: sara
 path: /notes/sara/7-18-2012/safety-precaution-h2s-research.md

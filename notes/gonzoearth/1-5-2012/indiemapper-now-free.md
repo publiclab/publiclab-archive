@@ -1,5 +1,5 @@
 ---
-title: indiemapper is now free
+title: 'indiemapper is now free'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/1-5-2012/indiemapper-now-free.md

@@ -1,5 +1,5 @@
 ---
-title: Contribute
+title: 'Contribute'
 tagnames: community, welcome, getting-started, parent:welcome, contribute
 author: warren
 path: /wiki/contribute.md

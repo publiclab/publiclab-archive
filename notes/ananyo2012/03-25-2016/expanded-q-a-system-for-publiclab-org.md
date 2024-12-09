@@ -1,5 +1,5 @@
 ---
-title: Expanded Q & A System for Publiclab.org
+title: 'Expanded Q & A System for Publiclab.org'
 tagnames: software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827, first-time-poster
 author: ananyo2012
 path: /notes/ananyo2012/03-25-2016/expanded-q-a-system-for-publiclab-org.md

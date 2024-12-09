@@ -1,5 +1,5 @@
 ---
-title: Visualizing Riffle-ito data
+title: 'Visualizing Riffle-ito data'
 tagnames: riffle, openwater, sensor, coqui, sensor-journalism, dataviz, data-visualization, presenting-data
 author: lilybui
 path: /notes/lilybui/10-16-2014/visualizing-riffle-ito-data.md

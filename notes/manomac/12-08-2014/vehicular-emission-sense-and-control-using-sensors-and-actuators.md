@@ -1,5 +1,5 @@
 ---
-title: Vehicular emission sense and control using sensors and actuators
+title: 'Vehicular emission sense and control using sensors and actuators'
 tagnames: 
 author: manomac
 path: /notes/manomac/12-08-2014/vehicular-emission-sense-and-control-using-sensors-and-actuators.md

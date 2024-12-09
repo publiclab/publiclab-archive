@@ -1,5 +1,5 @@
 ---
-title: buoy for water sensor
+title: 'buoy for water sensor'
 tagnames: water-sensing, water-quality, riffle, open-water, bottle, waterproofing, buoy, riffle-examples, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures, first-time-poster
 author: DavidMack
 path: /notes/DavidMack/09-11-2015/buoy-for-water-sensor.md

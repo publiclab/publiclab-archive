@@ -1,5 +1,5 @@
 ---
-title: White Light 
+title: 'White Light '
 tagnames: first-time-poster
 author: evelin2018
 path: /notes/evelin2018/03-12-2021/white-light-lamp.md

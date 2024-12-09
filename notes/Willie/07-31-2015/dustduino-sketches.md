@@ -1,5 +1,5 @@
 ---
-title: DustDuino Sketches 
+title: 'DustDuino Sketches '
 tagnames: arduino, particulate-sensing, air-quality, programmers, code, dustduino, dust, shinyei, activity:dustduino, activity:data-logging, air-sensors
 author: willie
 path: /notes/Willie/07-31-2015/dustduino-sketches.md

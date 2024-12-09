@@ -1,5 +1,5 @@
 ---
-title: Slit - Grating Rotation
+title: 'Slit - Grating Rotation'
 tagnames: 
 author: danbeavers
 path: /wiki/slit-grating-rotation.md

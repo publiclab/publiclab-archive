@@ -1,5 +1,5 @@
 ---
-title: Flight report: Aerobee Rig panoramas and pratfalls
+title: 'Flight report: Aerobee Rig panoramas and pratfalls'
 tagnames: kite-mapping, kite, kap, photo-rig, 10, kaptery, aerobee, jerkpan, sauteaufirstnation, crash, off-wind-flying, flight-report
 author: mathew
 path: /notes/mathew/08-03-2016/flight-report-aerobee-rig-panoramas-and-pratfalls.md

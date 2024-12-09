@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Balloon Mapping at WSJH
+title: 'MapKnitter map of Balloon Mapping at WSJH'
 tagnames: mapknitter, zoom:17, lat:30.043257, lon:-90.560086, lat:30.0432578, lon:-90.5600869
 author: cs3009709
 path: /notes/cs3009709/05-11-2021/mapknitter-map-of-balloon-mapping-at-wsjh.md

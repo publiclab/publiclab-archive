@@ -1,5 +1,5 @@
 ---
-title: Providence, RI software development fellowship
+title: 'Providence, RI software development fellowship'
 tagnames: providence, software, blog, code, jobs, fellows, fellowship, job, pvd, lat:41.809129, lon:-71.426611
 author: warren
 path: /notes/warren/03-13-2019/providence-ri-software-development-fellowship.md

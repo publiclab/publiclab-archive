@@ -1,5 +1,5 @@
 ---
-title: More thermal photography at Parts & Crafts
+title: 'More thermal photography at Parts & Crafts'
 tagnames: thermal-photography, thermal-flashlight, parts-and-crafts, replication:625
 author: warren
 path: /notes/warren/2-23-2012/more-thermal-photography-parts-crafts.md

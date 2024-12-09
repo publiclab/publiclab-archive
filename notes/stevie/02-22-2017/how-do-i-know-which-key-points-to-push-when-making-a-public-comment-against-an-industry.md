@@ -1,5 +1,5 @@
 ---
-title: How do I know which key points to push when making a public comment against an industry? 
+title: 'How do I know which key points to push when making a public comment against an industry? '
 tagnames: answered, advocacy, industry, public-comment, question:advocacy, question:industry
 author: stevie
 path: /notes/stevie/02-22-2017/how-do-i-know-which-key-points-to-push-when-making-a-public-comment-against-an-industry.md

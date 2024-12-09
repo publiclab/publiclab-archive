@@ -1,5 +1,5 @@
 ---
-title: GSoC Update- Using 3d transformations on objects inside html canvas.
+title: 'GSoC Update- Using 3d transformations on objects inside html canvas.'
 tagnames: mapknitter, gsoc, developers, gsoc-2014
 author: anishshah101
 path: /notes/anishshah101/07-10-2014/gsoc-update-using-3d-transformations-on-objects-inside-html-canvas.md

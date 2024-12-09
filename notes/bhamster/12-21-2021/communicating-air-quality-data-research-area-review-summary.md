@@ -1,5 +1,5 @@
 ---
-title: Communicating Air Quality Data: Research Area Review Summary
+title: 'Communicating Air Quality Data: Research Area Review Summary'
 tagnames: research, air-quality, reviews, environmental-data, data-visualization, research-area-review, presenting-data, with:fongvania, pin:air-quality, air-quality-data
 author: bhamster
 path: /notes/bhamster/12-21-2021/communicating-air-quality-data-research-area-review-summary.md

@@ -1,5 +1,5 @@
 ---
-title: The new Welcome Page is waiting for your feedback
+title: 'The new Welcome Page is waiting for your feedback'
 tagnames: welcome, ui, first-time-poster, new-users, ui-designs
 author: edie_blues
 path: /notes/edie_blues/11-21-2018/the-new-welcome-page-is-waiting-for-your-feedback.md

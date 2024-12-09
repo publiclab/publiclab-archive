@@ -1,5 +1,5 @@
 ---
-title: Announcing our newest Fellowship Team project! 
+title: 'Announcing our newest Fellowship Team project! '
 tagnames: drones, coal-mining, documentation, aerial-photography, west-virginia, organizing, mountaintop-removal, blog, coal, legal, jobs, fellows, permits, oil-and-gas, permitting, policy, law, felllowship-team, with:junior_walk1337
 author: stevie
 path: /notes/stevie/08-19-2021/announcing-our-newest-fellowship-team-project.md

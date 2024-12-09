@@ -1,5 +1,5 @@
 ---
-title: infoamazonia-network
+title: 'infoamazonia-network'
 tagnames: brazil, water-quality, brasil, redeinfoamazonia, south-america, project:water-quality
 author: vjpixel
 path: /wiki/infoamazonia-network.md

@@ -1,5 +1,5 @@
 ---
-title: Hey, let's make some markdown style checkboxes!
+title: 'Hey, let's make some markdown style checkboxes!'
 tagnames: 
 author: cheneyshreve
 path: /notes/cheneyshreve/06-22-2018/hey-let-s-make-some-markdown-style-checkboxes.md

@@ -1,5 +1,5 @@
 ---
-title: Thermal Imaging Tests with Android Ap
+title: 'Thermal Imaging Tests with Android Ap'
 tagnames: thermal-photography, thermal-flashlight, replication:625
 author: sara
 path: /notes/sara/7-29-2012/thermal-imaging-tests-android-ap.md

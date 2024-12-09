@@ -1,5 +1,5 @@
 ---
-title: Using a Rhodamine B standard to correct some past research mistakes...
+title: 'Using a Rhodamine B standard to correct some past research mistakes...'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/06-29-2016/using-a-rhodamine-b-standard-to-correct-some-past-research-mistakes.md

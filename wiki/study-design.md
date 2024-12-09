@@ -1,5 +1,5 @@
 ---
-title: Study design
+title: 'Study design'
 tagnames: research, advocacy, study-design, planning, study, parent:advocacy
 author: warren
 path: /wiki/study-design.md

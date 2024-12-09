@@ -1,5 +1,5 @@
 ---
-title: Testing PhotosynQ in a greenhouse
+title: 'Testing PhotosynQ in a greenhouse'
 tagnames: photosynq, category:measure
 author: gbathree
 path: /notes/gbathree/01-20-2014/testing-photosynq-in-a-greenhouse.md

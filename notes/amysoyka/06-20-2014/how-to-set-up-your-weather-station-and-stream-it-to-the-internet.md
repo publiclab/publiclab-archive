@@ -1,5 +1,5 @@
 ---
-title: How to set up your weather station and stream it to the internet.
+title: 'How to set up your weather station and stream it to the internet.'
 tagnames: raspberry-pi, air-quality, data-collection, data, weather, rasperry, pi, weather-station, raspbian, collection, meteorological, activity:weather, activity:wind, first-time-poster
 author: amysoyka
 path: /notes/amysoyka/06-20-2014/how-to-set-up-your-weather-station-and-stream-it-to-the-internet.md

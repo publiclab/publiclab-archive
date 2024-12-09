@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of University of Waterloo V1/Woodlot Aerial Imagery
+title: 'MapKnitter map of University of Waterloo V1/Woodlot Aerial Imagery'
 tagnames: mapknitter, lat:43.4642578, lon:-80.5204096
 author: ronyu
 path: /notes/ronyu/10-13-2015/mapknitter-map-of-university-of-waterloo-v1-woodlot-aerial-imagery.md

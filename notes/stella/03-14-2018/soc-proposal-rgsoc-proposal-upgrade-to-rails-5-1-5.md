@@ -1,5 +1,5 @@
 ---
-title: SoC proposal:RGSOC PROPOSAL: Upgrade to Rails 5.1.5 
+title: 'SoC proposal:RGSOC PROPOSAL: Upgrade to Rails 5.1.5 '
 tagnames: software, gsoc, rgsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals, to_json
 author: stella
 path: /notes/stella/03-14-2018/soc-proposal-rgsoc-proposal-upgrade-to-rails-5-1-5.md

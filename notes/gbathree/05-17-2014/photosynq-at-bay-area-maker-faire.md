@@ -1,5 +1,5 @@
 ---
-title: PhotosynQ at Bay Area Maker Faire
+title: 'PhotosynQ at Bay Area Maker Faire'
 tagnames: california, science, health, photosynq, plant, makerfaire, maker, faire, make
 author: gbathree
 path: /notes/gbathree/05-17-2014/photosynq-at-bay-area-maker-faire.md

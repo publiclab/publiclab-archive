@@ -1,5 +1,5 @@
 ---
-title: Why is air quality important? What are ways it can be improved?
+title: 'Why is air quality important? What are ways it can be improved?'
 tagnames: air-quality, cancer, pollution, asthma, question:general, general, question:pollution, first-time-poster
 author: Kennicka_HaganKarr
 path: /notes/Kennicka_HaganKarr/05-05-2021/why-is-air-quality-important-what-are-ways-it-can-be-improved.md

@@ -1,5 +1,5 @@
 ---
-title: Working auto camera triggering
+title: 'Working auto camera triggering'
 tagnames: near-infrared-camera
 author: warren
 path: /notes/warren/3-23-2012/working-auto-camera-triggering.md

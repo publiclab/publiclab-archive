@@ -1,5 +1,5 @@
 ---
-title: Using Transifex's Translating Platform
+title: 'Using Transifex's Translating Platform'
 tagnames: community, website, activity, internationalization, localization, translation, language, gcin, gcin-2016, replication:13651, transifex
 author: gegeneo
 path: /notes/gegeneo/01-03-2017/using-transifex-s-translating-platform.md

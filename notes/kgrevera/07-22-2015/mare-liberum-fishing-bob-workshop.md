@@ -1,5 +1,5 @@
 ---
-title: Mare Liberum Fishing Bob Workshop
+title: 'Mare Liberum Fishing Bob Workshop'
 tagnames: thermal-photography, workshop, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, mare-liberum, replication:689
 author: kgrevera
 path: /notes/kgrevera/07-22-2015/mare-liberum-fishing-bob-workshop.md

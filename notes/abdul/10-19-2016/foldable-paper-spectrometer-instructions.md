@@ -1,5 +1,5 @@
 ---
-title: Assemble a DIY Papercraft Spectrometer
+title: 'Assemble a DIY Papercraft Spectrometer'
 tagnames: spectrometer, spectralworkbench, assembly, kit, instructions, smartphone, foldable, papercraft, with:warren, spectral, smart, beginner, activity:spectrometry, activity:foldable-spec, category:build, status:complete, difficulty:introductory, time:10min, starter, starterkit, phone, printable
 author: abdul
 path: /notes/abdul/10-19-2016/foldable-paper-spectrometer-instructions.md

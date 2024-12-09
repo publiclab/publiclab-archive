@@ -1,5 +1,5 @@
 ---
-title: Spectrometer slit width thoughts
+title: 'Spectrometer slit width thoughts'
 tagnames: spectrometer, kits, slit, sensitivity, improvement, slit-width, acetate, exposure
 author: warren
 path: /notes/warren/07-05-2014/spectrometer-slit-width-thoughts.md

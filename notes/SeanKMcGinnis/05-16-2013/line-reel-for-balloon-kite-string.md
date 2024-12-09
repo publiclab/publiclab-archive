@@ -1,5 +1,5 @@
 ---
-title: Line Reel for Balloon/Kite String
+title: 'Line Reel for Balloon/Kite String'
 tagnames: balloon-mapping, line-reel, cord-winder, mods, first-time-poster
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/05-16-2013/line-reel-for-balloon-kite-string.md

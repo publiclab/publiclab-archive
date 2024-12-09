@@ -1,5 +1,5 @@
 ---
-title: 2015 Web Working Group report
+title: '2015 Web Working Group report'
 tagnames: website, web-development, web, developers, contributing, web-working-group, report, with:liz, web-wg, wwg
 author: warren
 path: /notes/warren/01-14-2015/2015-web-working-group-report.md

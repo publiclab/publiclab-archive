@@ -1,5 +1,5 @@
 ---
-title: Registradores de datos abiertos (o lo más abiertos posibles) para variables ambientales
+title: 'Registradores de datos abiertos (o lo más abiertos posibles) para variables ambientales'
 tagnames: lat:0, lon:0, zoom:0
 author: alejobonifacio
 path: /notes/alejobonifacio/08-10-2022/registradores-de-datos-abiertos-o-lo-mas-abiertos-posibles-para-variables-ambientales.md

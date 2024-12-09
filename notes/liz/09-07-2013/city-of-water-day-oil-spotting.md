@@ -1,5 +1,5 @@
 ---
-title: City Of Water Day oil spotting
+title: 'City Of Water Day oil spotting'
 tagnames: new-york-city, balloon-mapping, gowanus, oil-spill, oil, plume, canoe, glam, water-quality, nyc
 author: liz
 path: /notes/liz/09-07-2013/city-of-water-day-oil-spotting.md

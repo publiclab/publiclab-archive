@@ -1,5 +1,5 @@
 ---
-title: Of the Earth Harvest Boxes
+title: 'Of the Earth Harvest Boxes'
 tagnames: community-garden, location:blurred, first-time-poster, unearthing-pvd, unearthing-pvd-projects, lat:41.4, lon:-71.6, food-insecurity, narragansett
 author: srgonsalves1
 path: /notes/srgonsalves1/12-03-2019/of-the-earth-harvest-boxes.md

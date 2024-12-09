@@ -1,5 +1,5 @@
 ---
-title: a fish name d will depue
+title: 'a fish name d will depue'
 tagnames: mapknitter, lat:34.0539038849, lon:-118.5403883457
 author: natdep
 path: /notes/natdep/11-15-2015/a-fish-name-d-will-depue.md

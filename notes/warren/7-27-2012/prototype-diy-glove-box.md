@@ -1,5 +1,5 @@
 ---
-title: Prototype DIY glove box
+title: 'Prototype DIY glove box'
 tagnames: hydrogen-sulfide-sensing, hydrogen
 author: warren
 path: /notes/warren/7-27-2012/prototype-diy-glove-box.md

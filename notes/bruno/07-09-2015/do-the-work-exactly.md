@@ -1,5 +1,5 @@
 ---
-title: do the work exactly
+title: 'do the work exactly'
 tagnames: ndvi, white-balance, question:ndvi
 author: bruno
 path: /notes/bruno/07-09-2015/do-the-work-exactly.md

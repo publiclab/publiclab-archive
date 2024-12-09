@@ -1,5 +1,5 @@
 ---
-title: IR filter switchers
+title: 'IR filter switchers'
 tagnames: near-infrared-camera, infrared, ircam, infrared-camera, filter-switcher
 author: mathew
 path: /notes/mathew/3-12-2013/ir-filter-switchers.md

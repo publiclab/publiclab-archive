@@ -1,5 +1,5 @@
 ---
-title: Public Lab Boston/Somerville coding meetup @ Parts & Crafts
+title: 'Public Lab Boston/Somerville coding meetup @ Parts & Crafts'
 tagnames: somerville-massachusetts, boston, mapknitter, meetup, web-development, software, plots2, event, somerville, spectral-workbench, list:plots-dev, coding, openhour, event:rsvp, date:09-09-2015, coding-events
 author: warren
 path: /notes/warren/09-03-2015/public-lab-boston-somerville-coding-meetup-parts-crafts.md

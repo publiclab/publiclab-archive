@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code 2017 - and a call for community mentors
+title: 'Google Summer of Code 2017 - and a call for community mentors'
 tagnames: software, gsoc, wwg, webjack, mentoring, gsoc-2017, soc, soc-2017, response:13975
 author: warren
 path: /notes/warren/05-04-2017/google-summer-of-code-2017-and-a-call-for-community-mentors.md

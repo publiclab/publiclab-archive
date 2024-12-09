@@ -1,5 +1,5 @@
 ---
-title: Community microscope workshop Barcelona
+title: 'Community microscope workshop Barcelona'
 tagnames: event, event:rsvp, lon:2.1, location:blurred, spanish, community-microscope, date:01-17-2019, lat:41.3, microscope-workshop
 author: imvec
 path: /notes/imvec/12-02-2018/community-microscope-workshop-barcelona.md

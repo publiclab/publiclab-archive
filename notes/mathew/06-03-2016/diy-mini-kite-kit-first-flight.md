@@ -1,5 +1,5 @@
 ---
-title: DIY Mini Kite Kit first flight
+title: 'DIY Mini Kite Kit first flight'
 tagnames: kite-mapping, kap, kap-rigs, diy-mount-kit, difficulty:easy, seeks:replications, category:field-test, time:1h, activity:aerial-photography, activity:kite-mapping
 author: mathew
 path: /notes/mathew/06-03-2016/diy-mini-kite-kit-first-flight.md

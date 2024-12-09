@@ -1,5 +1,5 @@
 ---
-title: Pollution to Solution: Calibrating Ozone Sensor.
+title: 'Pollution to Solution: Calibrating Ozone Sensor.'
 tagnames: arduino, air-quality, sensors, umass-amherst, makerspaces, amherst-media, 5-college, air-sensors
 author: epongrat
 path: /notes/epongrat/12-15-2014/calibrating-ozone-sensor.md

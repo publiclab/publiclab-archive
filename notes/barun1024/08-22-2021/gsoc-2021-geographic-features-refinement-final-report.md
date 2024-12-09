@@ -1,5 +1,5 @@
 ---
-title: GSoC 2021: Geographic Features Refinement - Final Report 
+title: 'GSoC 2021: Geographic Features Refinement - Final Report '
 tagnames: leaflet, soc, map, geographic, leaflet-environmental-layers, lat:28.632746, zoom:5, soc-2021, gsoc-2021, soc-2021-final, lon:77.43164
 author: barun1024
 path: /notes/barun1024/08-22-2021/gsoc-2021-geographic-features-refinement-final-report.md

@@ -1,5 +1,5 @@
 ---
-title: White balance settings - pi NoIR camera with blue filter NDVI
+title: 'White balance settings - pi NoIR camera with blue filter NDVI'
 tagnames: ndvi, filter, white-balance, camera, pi, raspberry, question:white-balance, blue, noir
 author: jdetka
 path: /notes/jdetka/06-02-2022/white-balance-settings-pi-noir-camera-with-blue-filter-ndvi.md

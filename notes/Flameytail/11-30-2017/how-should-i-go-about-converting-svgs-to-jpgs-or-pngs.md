@@ -1,5 +1,5 @@
 ---
-title: How should i go about converting svgs to jpgs or pngs
+title: 'How should i go about converting svgs to jpgs or pngs'
 tagnames: spectrometer, spectralworkbench, spectrometry, software, spectral-workbench, tool, question:spectral-workbench, question:general, method
 author: Flameytail
 path: /notes/Flameytail/11-30-2017/how-should-i-go-about-converting-svgs-to-jpgs-or-pngs.md

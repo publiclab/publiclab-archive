@@ -1,5 +1,5 @@
 ---
-title: Homebrew Fellowship Application:  DIY Oil Testing Narratives
+title: 'Homebrew Fellowship Application:  DIY Oil Testing Narratives'
 tagnames: kit, oil-testing, fellows, advocacy
 author: klie
 path: /notes/klie/09-14-2015/homebrew-fellowship-application-diy-oil-testing-narratives.md

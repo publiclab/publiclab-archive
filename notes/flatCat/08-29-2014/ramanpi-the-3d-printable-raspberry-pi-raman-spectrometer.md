@@ -1,5 +1,5 @@
 ---
-title: ramanPi - The 3D Printable Raspberry Pi Raman Spectrometer
+title: 'ramanPi - The 3D Printable Raspberry Pi Raman Spectrometer'
 tagnames: spectrometer, spectrometry, raman, cuvette, 3d-printing, barnstar:basic, barnstar:excessive-enthusiasm, response:11079, hackaday
 author: flatCat
 path: /notes/flatCat/08-29-2014/ramanpi-the-3d-printable-raspberry-pi-raman-spectrometer.md

@@ -1,5 +1,5 @@
 ---
-title: Video Tutorial: Mobile Phone as Colorimeter
+title: 'Video Tutorial: Mobile Phone as Colorimeter'
 tagnames: video, colorimeter
 author: fongvania
 path: /notes/fongvania/05-20-2022/video-tutorial-mobile-phone-as-colorimeter.md

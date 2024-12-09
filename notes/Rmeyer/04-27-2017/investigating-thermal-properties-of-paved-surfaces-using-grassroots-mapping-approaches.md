@@ -1,5 +1,5 @@
 ---
-title: Investigating thermal properties of paved surfaces using grassroots mapping approaches. 
+title: 'Investigating thermal properties of paved surfaces using grassroots mapping approaches. '
 tagnames: thermal-photography, aerial-photography, infra-red, aerial-mapping, thermal-camera, thermal, aerial-imaging, answered, question:thermal-photography
 author: Rmeyer
 path: /notes/Rmeyer/04-27-2017/investigating-thermal-properties-of-paved-surfaces-using-grassroots-mapping-approaches.md

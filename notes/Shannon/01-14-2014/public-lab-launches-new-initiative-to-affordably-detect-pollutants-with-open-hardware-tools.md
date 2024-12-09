@@ -1,5 +1,5 @@
 ---
-title: Public Lab Launches New Initiative to Affordably Detect Pollutants with Open Hardware Tools
+title: 'Public Lab Launches New Initiative to Affordably Detect Pollutants with Open Hardware Tools'
 tagnames: gulf-coast, spectrometer, press-release
 author: Shannon
 path: /notes/Shannon/01-14-2014/public-lab-launches-new-initiative-to-affordably-detect-pollutants-with-open-hardware-tools.md

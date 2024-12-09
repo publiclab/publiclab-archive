@@ -1,5 +1,5 @@
 ---
-title: PLab's WebCam (Non)Linearity
+title: 'PLab's WebCam (Non)Linearity'
 tagnames: spectrometer, quantitative, linearity, intensity
 author: stoft
 path: /notes/stoft/05-17-2014/plab-s-webcam-non-linearity.md

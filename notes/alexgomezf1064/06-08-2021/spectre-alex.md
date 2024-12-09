@@ -1,5 +1,5 @@
 ---
-title: Spectre alex
+title: 'Spectre alex'
 tagnames: first-time-poster, zoom:6, lat:-0.803689, lon:11.609444
 author: alexgomezf1064
 path: /notes/alexgomezf1064/06-08-2021/spectre-alex.md

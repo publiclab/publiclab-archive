@@ -1,5 +1,5 @@
 ---
-title: Join Public Lab in building healthier communities in 2015
+title: 'Join Public Lab in building healthier communities in 2015'
 tagnames: 
 author: Becki
 path: /notes/Becki/12-23-2014/join-public-lab-in-building-healthier-communities-in-2015.md

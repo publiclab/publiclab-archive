@@ -1,5 +1,5 @@
 ---
-title: Call for Summer of Code 2017 proposals!
+title: 'Call for Summer of Code 2017 proposals!'
 tagnames: software, gsoc, wwg, gsoc-2017, rgsoc, soc, soc-2017, rgsoc-2017, call-for-proposals
 author: warren
 path: /notes/warren/02-28-2017/call-for-proposals.md

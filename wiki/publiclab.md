@@ -1,5 +1,5 @@
 ---
-title: publiclab
+title: 'publiclab'
 tagnames: 
 author: warren
 path: /wiki/publiclab.md

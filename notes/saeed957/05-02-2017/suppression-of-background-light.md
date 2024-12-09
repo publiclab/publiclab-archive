@@ -1,5 +1,5 @@
 ---
-title: Suppression of background light
+title: 'Suppression of background light'
 tagnames: spectrometry, spectral-workbench, light, question:spectral-workbench, background, suppression
 author: saeed957
 path: /notes/saeed957/05-02-2017/suppression-of-background-light.md

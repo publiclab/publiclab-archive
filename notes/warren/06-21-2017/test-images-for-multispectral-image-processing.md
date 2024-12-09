@@ -1,5 +1,5 @@
 ---
-title: "Test images" for multispectral image processing
+title: '"Test images" for multispectral image processing'
 tagnames: ndvi, infragram, question:near-infrared-camera, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, question:photo-monitoring-plugin
 author: warren
 path: /notes/warren/06-21-2017/test-images-for-multispectral-image-processing.md

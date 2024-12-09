@@ -1,5 +1,5 @@
 ---
-title: Mini Balloon Kit
+title: 'Mini Balloon Kit'
 tagnames: balloon-mapping, aerial-photography, aerial-mapping, parent:balloon-mapping, prototyping, mini-balloon-kit, kite-
 author: warren
 path: /wiki/mini-balloon-kit.md

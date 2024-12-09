@@ -1,5 +1,5 @@
 ---
-title: Barataria 2014: April 19th Southwings 10 sites
+title: 'Barataria 2014: April 19th Southwings 10 sites'
 tagnames: gulf-coast, balloon-mapping, barataria-bay, wetlands, louisiana, wetland, barataria, bp, patagonia, response:10045, place:barataria-bay, lat:29.380978, lon:-89.831771
 author: eustatic
 path: /04-20-2014/barataria-2014-april-19th-southwings-10-sites.md

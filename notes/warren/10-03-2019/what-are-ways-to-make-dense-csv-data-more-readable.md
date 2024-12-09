@@ -1,5 +1,5 @@
 ---
-title: What are ways to make dense CSV data more readable?
+title: 'What are ways to make dense CSV data more readable?'
 tagnames: data, data-logging, question:pm, question:frac-sand, question:data, question:purple-air, question:data-cleaning, air-quality-data, question:air-quality-data
 author: warren
 path: /notes/warren/10-03-2019/what-are-ways-to-make-dense-csv-data-more-readable.md

@@ -1,5 +1,5 @@
 ---
-title: How can we reduce industrial pollution
+title: 'How can we reduce industrial pollution'
 tagnames: air, quality, question:general, general, first-time-poster
 author: Keeyen_SimpsonKarr
 path: /notes/Keeyen_SimpsonKarr/04-30-2021/how-can-we-reduce-industrial-pollution.md

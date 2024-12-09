@@ -1,5 +1,5 @@
 ---
-title: What's the battery life of the Nano Data Logger?
+title: 'What's the battery life of the Nano Data Logger?'
 tagnames: answered, data-logging, nano-data-logger, question:nano-data-logger
 author: warren
 path: /notes/warren/06-12-2017/what-s-the-battery-life-of-the-nano-data-logger.md

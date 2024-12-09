@@ -1,5 +1,5 @@
 ---
-title: Gowanus Canal Salt Lot Kite Mapping
+title: 'Gowanus Canal Salt Lot Kite Mapping'
 tagnames: balloon-mapping, kite-mapping, camera-rig-tests, photo-rig, activity:photo-rig, first-time-poster
 author: eymund
 path: /notes/eymund-diegel/4-30-2012/gowanus-canal-salt-lot-kite-mapping.md

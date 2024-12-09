@@ -1,5 +1,5 @@
 ---
-title: UI principles for offline apps
+title: 'UI principles for offline apps'
 tagnames: software, code, wwg, ui
 author: warren
 path: /notes/warren/08-19-2019/ui-principles-for-offline-apps.md

@@ -1,5 +1,5 @@
 ---
-title: Sandbox
+title: 'Sandbox'
 tagnames: organizers, activity, organizer
 author: warren
 path: /wiki/sandbox.md

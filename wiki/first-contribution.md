@@ -1,5 +1,5 @@
 ---
-title: Your First Contribution on Public Lab
+title: 'Your First Contribution on Public Lab'
 tagnames: welcome, newcomers, first-timers, first-contribution
 author: warren
 path: /wiki/first-contribution.md

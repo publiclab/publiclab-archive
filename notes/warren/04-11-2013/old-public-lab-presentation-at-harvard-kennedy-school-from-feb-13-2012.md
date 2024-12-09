@@ -1,5 +1,5 @@
 ---
-title: (Old) Public Lab presentation at Harvard Kennedy School from Feb 13 2012
+title: '(Old) Public Lab presentation at Harvard Kennedy School from Feb 13 2012'
 tagnames: presentation
 author: warren
 path: /notes/warren/04-11-2013/old-public-lab-presentation-at-harvard-kennedy-school-from-feb-13-2012.md

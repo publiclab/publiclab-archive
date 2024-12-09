@@ -1,5 +1,5 @@
 ---
-title: Spectral Photo
+title: 'Spectral Photo'
 tagnames: 
 author: nataliadekock
 path: /notes/nataliadekock/09-17-2014/spectral-photo.md

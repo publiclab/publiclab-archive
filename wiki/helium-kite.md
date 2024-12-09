@@ -1,5 +1,5 @@
 ---
-title: Helium Kite
+title: 'Helium Kite'
 tagnames: balloon-mapping, kite-mapping, grassrootsmappingwiki, diy-balloon
 author: warren
 path: /wiki/helium-kite.md

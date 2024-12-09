@@ -1,5 +1,5 @@
 ---
-title: Web-based fisheye-removal prototype for correcting lens distortion
+title: 'Web-based fisheye-removal prototype for correcting lens distortion'
 tagnames: infragram, fisheye, mobius, mobius-action-cam, javascript, lens-distortion, web-based, browser, response:12201, response:11407, lens-correction, lat:42.38, location:blurred, lon:-71.08
 author: warren
 path: /notes/warren/12-30-2016/web-based-fisheye-removal-prototype-for-correcting-lens-distortion.md

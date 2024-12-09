@@ -1,5 +1,5 @@
 ---
-title: Some Gulf Coast Use Cases for the Oil Testing kit in 2015
+title: 'Some Gulf Coast Use Cases for the Oil Testing kit in 2015'
 tagnames: spectrometer, oil-spill, oil, illustrated-guides, sample-prep, crude, sampling, tool, oil-testing, oil-testing-kit, use-cases
 author: eustatic
 path: /12-28-2015/some-gulf-coast-use-cases-for-the-oil-testing-kit-in-2015.md

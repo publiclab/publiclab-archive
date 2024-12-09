@@ -1,5 +1,5 @@
 ---
-title: Research Assistants
+title: 'Research Assistants'
 tagnames: 
 author: warren
 path: /wiki/research-assistants.md

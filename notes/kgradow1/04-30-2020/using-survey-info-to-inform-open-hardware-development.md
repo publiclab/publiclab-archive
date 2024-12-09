@@ -1,5 +1,5 @@
 ---
-title: Have you used surveys to inform open hardware development?  
+title: 'Have you used surveys to inform open hardware development?  '
 tagnames: air-quality, question:air-quality, question:general, general, question:air-sensors, air-sensors, response:15589
 author: kgradow1
 path: /notes/kgradow1/04-30-2020/using-survey-info-to-inform-open-hardware-development.md

@@ -1,5 +1,5 @@
 ---
-title: Inactive Lists 
+title: 'Inactive Lists '
 tagnames: community, forum, chat, forums, lists, discussion, locked
 author: stevie
 path: /wiki/inactive-lists.md

@@ -1,5 +1,5 @@
 ---
-title: Plab v2.5 (upgrade 2) Comparison Spectra to SpexFluoroMax Spectrometer
+title: 'Plab v2.5 (upgrade 2) Comparison Spectra to SpexFluoroMax Spectrometer'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/06-22-2016/plab-v2-5-upgrade-2-comparison-spectra-to-spexfluoromax-spectrometer.md

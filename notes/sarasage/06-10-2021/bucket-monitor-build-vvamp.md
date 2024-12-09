@@ -1,5 +1,5 @@
 ---
-title: Bucket Monitor Build: VVAMP
+title: 'Bucket Monitor Build: VVAMP'
 tagnames: landfill, air-quality, bucket-brigade, new, land-use, draft, activity:air-quality, bucket, air-sampling, activity:new, lat:34, lon:-118, zoom:6, zoom:9, zoom:13, bucket-monitor, VVAMP, bucket-kit, lat:34.452218, lon:-118.652343, aire, monitoreo-aire, calidad-aire, with:denissebn_06, ensamblaje, cubeta, relleno-sanitario, lat:34.443441, lon:-118.658231
 author: sarasage
 path: /notes/sarasage/06-10-2021/bucket-monitor-build-vvamp.md

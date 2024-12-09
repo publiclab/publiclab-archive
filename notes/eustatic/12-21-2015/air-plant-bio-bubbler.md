@@ -1,5 +1,5 @@
 ---
-title: Air Plant Bio Bubbler
+title: 'Air Plant Bio Bubbler'
 tagnames: gulf-coast, remediation, air-quality, tool, wherewebreathe
 author: eustatic
 path: /12-21-2015/air-plant-bio-bubbler.md

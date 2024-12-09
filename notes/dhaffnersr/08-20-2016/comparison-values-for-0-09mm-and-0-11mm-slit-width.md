@@ -1,5 +1,5 @@
 ---
-title: Comparison Values for 0.09mm and 0.11mm Slit Width
+title: 'Comparison Values for 0.09mm and 0.11mm Slit Width'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-20-2016/comparison-values-for-0-09mm-and-0-11mm-slit-width.md

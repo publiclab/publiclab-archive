@@ -1,5 +1,5 @@
 ---
-title: Multispectral work at Sunol Ag Park
+title: 'Multispectral work at Sunol Ag Park'
 tagnames: near-infrared-camera, sunol, nrg, ndvi, agriculture, farm, norcal
 author: gonzoearth
 path: /notes/gonzoearth/12-9-2011/hyperspectral-work-sunol-ag-park.md

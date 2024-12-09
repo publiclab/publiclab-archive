@@ -1,5 +1,5 @@
 ---
-title: DVD Grating vs. Holographic Film
+title: 'DVD Grating vs. Holographic Film'
 tagnames: spectrometer, grating, holographic, dvd, diffraction
 author: jenjimah
 path: /notes/jenjimah/06-12-2019/dvd-grating-vs-holographic-film.md

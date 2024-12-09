@@ -1,5 +1,5 @@
 ---
-title: livestream cam
+title: 'livestream cam'
 tagnames: live-streaming, spectral-workbench, question:spectral-workbench, first-time-poster
 author: agraefenstein
 path: /notes/agraefenstein/03-22-2021/livestream-cam.md

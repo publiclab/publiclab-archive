@@ -1,5 +1,5 @@
 ---
-title: Testing spectral workbench webcam recognition with different flavours of linux
+title: 'Testing spectral workbench webcam recognition with different flavours of linux'
 tagnames: spectralworkbench, cross-platform, first-time-poster
 author: briandegger
 path: /notes/briandegger/11-15-2013/testing-spectral-workbench-webcam-recognition-with-different-flavours-of-linux.md

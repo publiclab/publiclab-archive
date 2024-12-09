@@ -1,5 +1,5 @@
 ---
-title: can i measure solid samples with the lego spectrometer?
+title: 'can i measure solid samples with the lego spectrometer?'
 tagnames: spectrometer, lego, question:general, general, first-time-poster
 author: sound
 path: /notes/sound/03-20-2020/can-i-measure-solid-samples-with-the-lego-spectrometer.md

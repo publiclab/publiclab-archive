@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Lab5matthewmilem
+title: 'MapKnitter map of Lab5matthewmilem'
 tagnames: 
 author: mmilem
 path: /notes/mmilem/10-04-2016/mapknitter-map-of-lab5matthewmilem.md

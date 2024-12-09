@@ -1,5 +1,5 @@
 ---
-title: Update on the photo monitoring plugin for ImageJ/Fiji
+title: 'Update on the photo monitoring plugin for ImageJ/Fiji'
 tagnames: near-infrared-camera, plugin, photo-monitoring
 author: nedhorning
 path: /notes/nedhorning/11-1-2012/update-photo-monitoring-plugin-imagejfiji.md

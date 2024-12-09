@@ -1,5 +1,5 @@
 ---
-title: I can't enter a password when I try to login to Spectral Workbench. So I can't log in at all. 
+title: 'I can't enter a password when I try to login to Spectral Workbench. So I can't log in at all. '
 tagnames: question:spectral-workbench
 author: storacremu
 path: /notes/storacremu/01-01-2018/i-can-t-enter-a-password-when-i-try-to-login-to-spectral-workbench-so-i-can-t-log-in-at-all.md

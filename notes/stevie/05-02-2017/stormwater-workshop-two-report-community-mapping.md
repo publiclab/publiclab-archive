@@ -1,5 +1,5 @@
 ---
-title: Stormwater Workshop Two Report: Community Mapping
+title: 'Stormwater Workshop Two Report: Community Mapping'
 tagnames: gulf-coast, balloon-mapping, mapping, new-orleans, stormwater, activity:stormwater
 author: stevie
 path: /notes/stevie/05-02-2017/stormwater-workshop-two-report-community-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: Ultraviolet spectrometry
+title: 'Ultraviolet spectrometry'
 tagnames: spectrometer, uv, ultraviolet, uv/visible, spectrometry, grating, holographic, reflective
 author: Fernando
 path: /wiki/uv-spectrometry.md

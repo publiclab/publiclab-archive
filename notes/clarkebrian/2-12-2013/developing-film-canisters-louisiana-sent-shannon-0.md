@@ -1,5 +1,5 @@
 ---
-title: Developing film canisters from Louisiana sent by Shannon
+title: 'Developing film canisters from Louisiana sent by Shannon'
 tagnames: boston, northeastern-university
 author: Clarke_Brian
 path: /notes/clarkebrian/2-12-2013/developing-film-canisters-louisiana-sent-shannon-0.md

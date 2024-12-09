@@ -1,5 +1,5 @@
 ---
-title: How do we address the issue of people posting the same or very similar questions? 
+title: 'How do we address the issue of people posting the same or very similar questions? '
 tagnames: question:website, question:ui, question:website-structure
 author: stevie
 path: /notes/stevie/03-21-2018/how-do-we-address-the-issue-of-people-posting-the-same-or-very-similar-questions.md

@@ -1,5 +1,5 @@
 ---
-title: pipelines-carrying-CO2
+title: 'pipelines-carrying-CO2'
 tagnames: 
 author: Pat
 path: /wiki/pipelines-carrying-co2.md

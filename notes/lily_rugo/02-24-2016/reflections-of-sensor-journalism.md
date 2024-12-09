@@ -1,5 +1,5 @@
 ---
-title: Reflections of Sensor Journalism
+title: 'Reflections of Sensor Journalism'
 tagnames: sensor-journalism, response:12748, hidden:response
 author: lily_rugo
 path: /notes/lily_rugo/02-24-2016/reflections-of-sensor-journalism.md

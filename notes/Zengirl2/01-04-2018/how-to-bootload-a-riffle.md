@@ -1,5 +1,5 @@
 ---
-title: How to bootload a Riffle #Arduino #water #science #tech
+title: 'How to bootload a Riffle #Arduino #water #science #tech'
 tagnames: arduino, air-quality, water-quality, water, environment, data-collection, riffle, barnstar:basic, seeks:replications, data-logging, activity:riffle, activity:arduino
 author: zengirl2
 path: /notes/Zengirl2/01-04-2018/how-to-bootload-a-riffle.md

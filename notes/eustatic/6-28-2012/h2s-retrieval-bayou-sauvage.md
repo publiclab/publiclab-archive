@@ -1,5 +1,5 @@
 ---
-title: H2S retrieval from Bayou Sauvage
+title: 'H2S retrieval from Bayou Sauvage'
 tagnames: hydrogen-sulfide-sensing, field-test
 author: eustatic
 path: /6-28-2012/h2s-retrieval-bayou-sauvage.md

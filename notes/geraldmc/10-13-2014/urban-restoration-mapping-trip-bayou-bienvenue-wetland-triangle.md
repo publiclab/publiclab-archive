@@ -1,5 +1,5 @@
 ---
-title: Urban Restoration Mapping Trip - Bayou Bienvenue Wetland Triangle
+title: 'Urban Restoration Mapping Trip - Bayou Bienvenue Wetland Triangle'
 tagnames: gulf-coast, balloon-mapping, louisiana, bayou-bienvenue, bienvenue, urban-ecology, barnstar:basic, urbanwaters, epaurbanwater, first-time-poster
 author: geraldmc
 path: /notes/geraldmc/10-13-2014/urban-restoration-mapping-trip-bayou-bienvenue-wetland-triangle.md

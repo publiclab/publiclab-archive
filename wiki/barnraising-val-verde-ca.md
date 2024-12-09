@@ -1,5 +1,5 @@
 ---
-title: Barnraising Val Verde, CA
+title: 'Barnraising Val Verde, CA'
 tagnames: barnraising, regionalbarnraising, val-verde, socalwastestream
 author: stevie
 path: /wiki/barnraising-val-verde-ca.md

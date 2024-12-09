@@ -1,5 +1,5 @@
 ---
-title: DIY Spectrometer Kickstarter launched!
+title: 'DIY Spectrometer Kickstarter launched!'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/8-27-2012/diy-spectrometer-kickstarter-launched.md

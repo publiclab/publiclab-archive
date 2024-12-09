@@ -1,5 +1,5 @@
 ---
-title: How do I...do multivariate analysis on lichen testing?
+title: 'How do I...do multivariate analysis on lichen testing?'
 tagnames: lichen, question:lichen
 author: Ag8n
 path: /notes/Ag8n/09-14-2022/how-do-i-do-multivariate-analysis-on-lichen-testing.md

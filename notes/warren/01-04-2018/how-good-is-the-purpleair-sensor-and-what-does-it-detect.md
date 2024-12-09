@@ -1,5 +1,5 @@
 ---
-title: How good is the PurpleAir sensor and what does it detect?
+title: 'How good is the PurpleAir sensor and what does it detect?'
 tagnames: laser, air-quality, sensors, dust, particulate, pm, dylos, answered, indoor-air, question:air-sensors, air-sensors, purpleair, pm2.5, pm10, pm1.0, question:indoor-air, question:purpleair, pms5003, scaqmd
 author: warren
 path: /notes/warren/01-04-2018/how-good-is-the-purpleair-sensor-and-what-does-it-detect.md

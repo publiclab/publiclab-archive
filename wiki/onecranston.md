@@ -1,5 +1,5 @@
 ---
-title: OneCranston
+title: 'OneCranston'
 tagnames: place, project, lat:41.7900, lon:-71.4570, unearthing-pvd-projects
 author: warren
 path: /wiki/onecranston.md

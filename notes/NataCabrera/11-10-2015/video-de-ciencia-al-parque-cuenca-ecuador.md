@@ -1,5 +1,5 @@
 ---
-title: Video de Ciencia al Parque, Cuenca-Ecuador
+title: 'Video de Ciencia al Parque, Cuenca-Ecuador'
 tagnames: lang:es, ecuador, llactalab, cuenca
 author: NataCabrera
 path: /notes/NataCabrera/11-10-2015/video-de-ciencia-al-parque-cuenca-ecuador.md

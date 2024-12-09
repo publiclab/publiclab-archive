@@ -1,5 +1,5 @@
 ---
-title: GSoC 2020 proposal:Public Lab: Leaflet Environmental Layers (LEL): time slider UI
+title: 'GSoC 2020 proposal:Public Lab: Leaflet Environmental Layers (LEL): time slider UI'
 tagnames: first-time-poster
 author: Dhiraj24
 path: /notes/Dhiraj24/03-31-2020/gsoc-2020-proposal-public-lab-leaflet-environmental-layers-lel-time-slider-ui.md

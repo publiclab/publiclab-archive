@@ -1,5 +1,5 @@
 ---
-title: Wiki pages you'll be needing:
+title: 'Wiki pages you'll be needing:'
 tagnames: first-time-poster
 author: sara
 path: /notes/sara/7-27-2011/wiki-pages-youll-be-needing.md

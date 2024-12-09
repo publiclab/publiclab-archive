@@ -1,5 +1,5 @@
 ---
-title: 8th grade air quality mapping 2
+title: '8th grade air quality mapping 2'
 tagnames: new-york-city, chaq, air-quality, air-quality-egg
 author: liz
 path: /notes/liz/3-19-2013/8th-grade-air-quality-mapping-2.md

@@ -1,5 +1,5 @@
 ---
-title: Raritan Bay Tottenville Shoreline Mapping 
+title: 'Raritan Bay Tottenville Shoreline Mapping '
 tagnames: coastal, coastalmonitoring, staten-island, island, bay, raritan, staten, tottenville, kayak, shoreline, place:raritan-bay, lat:40.497679, lon:-74.239897
 author: gwirth
 path: /notes/gwirth/07-01-2014/raritan-bay-tottenville-shoreline-mapping.md

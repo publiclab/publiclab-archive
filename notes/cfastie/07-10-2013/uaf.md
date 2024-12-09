@@ -1,5 +1,5 @@
 ---
-title: UAF
+title: 'UAF'
 tagnames: near-infrared-camera, infrared, alaska, nbg, infrablue
 author: cfastie
 path: /notes/cfastie/07-10-2013/uaf.md

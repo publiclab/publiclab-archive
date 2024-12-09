@@ -1,5 +1,5 @@
 ---
-title: Question: Micro volume spectrometer using arduino and light detecting resistor.
+title: 'Question: Micro volume spectrometer using arduino and light detecting resistor.'
 tagnames: question:spectral-workbench, answered, first-time-poster
 author: Abhay7417
 path: /notes/Abhay7417/02-17-2016/question-micro-volume-spectrometer-using-arduino-and-light-detecting-resistor.md

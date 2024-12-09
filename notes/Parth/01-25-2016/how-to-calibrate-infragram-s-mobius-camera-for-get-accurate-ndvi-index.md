@@ -1,5 +1,5 @@
 ---
-title: How to calibrate infragram's Mobius camera for get accurate NDVI index?
+title: 'How to calibrate infragram's Mobius camera for get accurate NDVI index?'
 tagnames: infragram, calibrate-ndvi, infragram-point-shoot, mobius-action-cam
 author: Parth
 path: /notes/Parth/01-25-2016/how-to-calibrate-infragram-s-mobius-camera-for-get-accurate-ndvi-index.md

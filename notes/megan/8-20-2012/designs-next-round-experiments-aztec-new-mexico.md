@@ -1,5 +1,5 @@
 ---
-title: Designs for next round of experiments Aztec, New Mexico
+title: 'Designs for next round of experiments Aztec, New Mexico'
 tagnames: hydrogen-sulfide-sensing, new-mexico, study-design, h2s-study-design
 author: megan
 path: /notes/megan/8-20-2012/designs-next-round-experiments-aztec-new-mexico.md

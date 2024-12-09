@@ -1,5 +1,5 @@
 ---
-title: air quality class 7
+title: 'air quality class 7'
 tagnames: chaq, air-quality
 author: liz
 path: /wiki/air-quality-class-7.md

@@ -1,5 +1,5 @@
 ---
-title: Coqui para medir conductividad de un río
+title: 'Coqui para medir conductividad de un río'
 tagnames: lang:es, coqui, south-america, lat:-30, zoom:5, research-curation-fellows, calidad-de-agua, lon:-60, solidos-disueltos-totales, conductividad, sudamerica, monitoreo
 author: alejobonifacio
 path: /notes/alejobonifacio/04-14-2022/coqui-para-medir-conductividad-de-un-rio.md

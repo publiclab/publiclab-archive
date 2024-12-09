@@ -1,5 +1,5 @@
 ---
-title: Any simple ways to measure wind direction from a data logger?
+title: 'Any simple ways to measure wind direction from a data logger?'
 tagnames: nasa, wind-speed-meter, wind, weather, weather-station, weatherproofing, data-logging, question:data-logging, wind-direction, windvane, question:wind, question:weather, aren, question:nasa, question:as220-wind-sensors
 author: warren
 path: /notes/warren/06-12-2017/any-simple-ways-to-measure-wind-direction-from-a-data-logger.md

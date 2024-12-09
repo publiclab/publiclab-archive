@@ -1,5 +1,5 @@
 ---
-title: Is there a way to convert an infrared video footage to NDVI?
+title: 'Is there a way to convert an infrared video footage to NDVI?'
 tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster
 author: sam14
 path: /notes/sam14/04-30-2020/is-there-a-way-to-convert-an-infrared-video-footage-to-ndvi.md

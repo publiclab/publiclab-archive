@@ -1,5 +1,5 @@
 ---
-title: Rock Tripe Slab
+title: 'Rock Tripe Slab'
 tagnames: ndvi, infragram, gigapan, rock-tripe, lichen
 author: cfastie
 path: /notes/cfastie/06-11-2013/rock-tripe-slab.md

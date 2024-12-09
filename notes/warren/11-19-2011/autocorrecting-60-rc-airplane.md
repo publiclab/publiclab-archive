@@ -1,5 +1,5 @@
 ---
-title: Autocorrecting $60 rc airplane
+title: 'Autocorrecting $60 rc airplane'
 tagnames: 
 author: warren
 path: /notes/warren/11-19-2011/autocorrecting-60-rc-airplane.md

@@ -1,5 +1,5 @@
 ---
-title: Prince George Mapping Workshop
+title: 'Prince George Mapping Workshop'
 tagnames: balloon-mapping, event, event:rsvp, northwest, date:07-16-2015, rsvp:dkwiens, rsvp:coriramsay, rsvp:ecohorizons, rsvp:mgagel, rsvp:ianinafrica, rsvp:linlin, rsvp:wheate, rsvp:dana_schwehr, rsvp:jnunes, rsvp:dbelsham, replication:14022
 author: ann
 path: /notes/ann/06-16-2015/prince-george-mapping-workshop.md

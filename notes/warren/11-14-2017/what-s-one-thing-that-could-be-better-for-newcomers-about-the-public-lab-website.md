@@ -1,5 +1,5 @@
 ---
-title: What's one thing that could be better for newcomers about the Public Lab website?
+title: 'What's one thing that could be better for newcomers about the Public Lab website?'
 tagnames: website, design, test, answered, wwg, ui, question:ui
 author: warren
 path: /notes/warren/11-14-2017/what-s-one-thing-that-could-be-better-for-newcomers-about-the-public-lab-website.md

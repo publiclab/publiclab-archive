@@ -1,5 +1,5 @@
 ---
-title: barnstar-brainstorm
+title: 'barnstar-brainstorm'
 tagnames: barnstars
 author: warren
 path: /wiki/barnstar-brainstorm.md

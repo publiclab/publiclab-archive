@@ -1,5 +1,5 @@
 ---
-title: Reviewing & synthesizing microplastics research on Public Lab
+title: 'Reviewing & synthesizing microplastics research on Public Lab'
 tagnames: research, micro-plastics, microplastics, plastic, research-area-review
 author: bhamster
 path: /notes/bhamster/08-19-2020/reviewing-synthesizing-microplastics-research-on-public-lab.md

@@ -1,5 +1,5 @@
 ---
-title: Birchton, WV 1/5/22
+title: 'Birchton, WV 1/5/22'
 tagnames: drones, mountaintop-removal, coal, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/01-05-2022/birchton-wv-1-5-22.md

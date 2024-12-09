@@ -1,5 +1,5 @@
 ---
-title: kite for aerial photography
+title: 'kite for aerial photography'
 tagnames: kite-mapping, kite-aerial-photography, self-made-kite-mapping, eu, kite-making, qgis
 author: Juanjo
 path: /notes/Juanjo/10-01-2017/kite-for-aerial-photography.md

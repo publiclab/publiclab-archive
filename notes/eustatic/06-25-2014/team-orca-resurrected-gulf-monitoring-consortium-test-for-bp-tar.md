@@ -1,5 +1,5 @@
 ---
-title: Team Orca resurrected --Gulf Monitoring Consortium test for BP tar
+title: 'Team Orca resurrected --Gulf Monitoring Consortium test for BP tar'
 tagnames: gulf-coast, spectrometer, oil-spill, oil, fluorescence, bp, tarball, orca, oil-testing-kit, coal-dust, tar
 author: eustatic
 path: /06-25-2014/team-orca-resurrected-gulf-monitoring-consortium-test-for-bp-tar.md

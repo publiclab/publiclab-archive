@@ -1,5 +1,5 @@
 ---
-title: sandbox-mine-reclamation
+title: 'sandbox-mine-reclamation'
 tagnames: 
 author: bhamster
 path: /wiki/sandbox-mine-reclamation.md

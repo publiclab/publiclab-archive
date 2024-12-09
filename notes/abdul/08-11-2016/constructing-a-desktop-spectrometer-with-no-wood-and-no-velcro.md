@@ -1,5 +1,5 @@
 ---
-title: Constructing a Desktop Spectrometer with no Wood, and no Velcro
+title: 'Constructing a Desktop Spectrometer with no Wood, and no Velcro'
 tagnames: kits, spectrometry, kit, dsk, builds, desktop, modification, difficulty:easy, upgrade:spectrometry, upgrade:dssk, seeks:builds, category:build, status:in-progress, time:1h
 author: abdul
 path: /notes/abdul/08-11-2016/constructing-a-desktop-spectrometer-with-no-wood-and-no-velcro.md

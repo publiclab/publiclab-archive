@@ -1,5 +1,5 @@
 ---
-title: Chain of Rocks, Mississippi River
+title: 'Chain of Rocks, Mississippi River'
 tagnames: balloon-mapping, mapknitter, mississippi-river, first-time-poster
 author: Kahaas10
 path: /notes/Kahaas10/02-18-2016/chain-of-rocks-mississippi-river.md

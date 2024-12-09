@@ -1,5 +1,5 @@
 ---
-title: Hypersperctral imaging using DIY kits
+title: 'Hypersperctral imaging using DIY kits'
 tagnames: spectrometer, hyperspectral, first-time-poster
 author: amirberAgain
 path: /notes/amirberAgain/02-13-2016/hypersperctral-imaging-using-diy-kits.md

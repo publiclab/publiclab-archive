@@ -1,5 +1,5 @@
 ---
-title: Bibliography for Hydrogen Sulfide Research
+title: 'Bibliography for Hydrogen Sulfide Research'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, bibliography
 author: sara
 path: /notes/sara/1-31-2012/bibliography-hydrogen-sulfide-research.md

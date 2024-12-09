@@ -1,5 +1,5 @@
 ---
-title: Gowanus Canal balloon tests
+title: 'Gowanus Canal balloon tests'
 tagnames: new-york-city, kite-balloon-hybrid, gowanus-canal, northeast, mylar-balloons
 author: warren
 path: /notes/warren/2-19-2011/gowanus-canal-balloon-tests.md

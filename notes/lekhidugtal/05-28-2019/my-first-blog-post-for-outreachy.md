@@ -1,5 +1,5 @@
 ---
-title: My first blog post for outreachy
+title: 'My first blog post for outreachy'
 tagnames: blog, soc, summer-of-code, outreachy
 author: lekhidugtal
 path: /notes/lekhidugtal/05-28-2019/my-first-blog-post-for-outreachy.md

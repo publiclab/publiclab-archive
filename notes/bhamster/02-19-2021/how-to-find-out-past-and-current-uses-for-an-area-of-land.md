@@ -1,5 +1,5 @@
 ---
-title: How to find out past and current uses for an area of land
+title: 'How to find out past and current uses for an area of land'
 tagnames: mapping, soil, getting-started, land-use, difficulty:easy, time:3h, status:review-me, category:observe, existing-data, activity:soil, activity:land-use, getting-started-soil, activity:getting-started-soil
 author: bhamster
 path: /notes/bhamster/02-19-2021/how-to-find-out-past-and-current-uses-for-an-area-of-land.md

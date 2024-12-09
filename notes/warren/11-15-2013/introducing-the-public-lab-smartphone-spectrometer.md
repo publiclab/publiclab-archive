@@ -1,5 +1,5 @@
 ---
-title: Introducing the Public Lab Smartphone Spectrometer
+title: 'Introducing the Public Lab Smartphone Spectrometer'
 tagnames: spectrometer, kickstarter, smartphone-spectrometer
 author: warren
 path: /notes/warren/11-15-2013/introducing-the-public-lab-smartphone-spectrometer.md

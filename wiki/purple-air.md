@@ -1,5 +1,5 @@
 ---
-title: purple-air
+title: 'purple-air'
 tagnames: redirect:purpleair
 author: warren
 path: /wiki/purple-air.md

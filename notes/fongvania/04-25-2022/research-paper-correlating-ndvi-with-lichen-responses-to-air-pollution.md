@@ -1,5 +1,5 @@
 ---
-title: Research Paper: Correlating NDVI with Lichen Responses to Air Pollution
+title: 'Research Paper: Correlating NDVI with Lichen Responses to Air Pollution'
 tagnames: ndvi, nir, spectrometry, air-quality, photosynthesis, academic-journal, lichen, research-curation-fellows, bioindicators
 author: fongvania
 path: /notes/fongvania/04-25-2022/research-paper-correlating-ndvi-with-lichen-responses-to-air-pollution.md

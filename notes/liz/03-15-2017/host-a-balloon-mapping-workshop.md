@@ -1,5 +1,5 @@
 ---
-title: Host a balloon mapping workshop
+title: 'Host a balloon mapping workshop'
 tagnames: balloon-mapping, events, aerial-photography, workshop, land-use, activity:aerial-photography, activity:balloon-mapping, activity:host-an-event, activity:teach-and-learn, activity:publiclabriverratpack, activity:bourjalshamali, pin:activity:balloon-mapping, activity:one-cranston, activity:land-use, pin:balloon-mapping, event-how-to
 author: liz
 path: /notes/liz/03-15-2017/host-a-balloon-mapping-workshop.md

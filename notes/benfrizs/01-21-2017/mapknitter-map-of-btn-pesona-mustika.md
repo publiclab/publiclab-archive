@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of BTN Pesona Mustika
+title: 'MapKnitter map of BTN Pesona Mustika'
 tagnames: mapknitter, lat:-5.2158358, lon:119.4730624
 author: benfrizs
 path: /notes/benfrizs/01-21-2017/mapknitter-map-of-btn-pesona-mustika.md

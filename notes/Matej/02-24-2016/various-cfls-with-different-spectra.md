@@ -1,5 +1,5 @@
 ---
-title: Various CFLs with Different Spectra
+title: 'Various CFLs with Different Spectra'
 tagnames: spectrometer, spectrum-matching, multispectral, uv, telemetry, spectralworkbench, emission-spectroscopy, cfl, spectral-analysis, spectral-workbench, response:12658, response:12656
 author: Matej
 path: /notes/Matej/02-24-2016/various-cfls-with-different-spectra.md

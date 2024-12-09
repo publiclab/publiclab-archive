@@ -1,5 +1,5 @@
 ---
-title: dealing with patents: Black & Decker and the Thermal Flashlight
+title: 'dealing with patents: Black & Decker and the Thermal Flashlight'
 tagnames: thermal-photography, thermal-flashlight, thermal-camera, question:patent, question:thermal-flashlight
 author: mathew
 path: /notes/mathew/01-29-2015/dealing-with-patents-black-decker-and-the-thermal-flashlight.md

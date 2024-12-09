@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Annotations Plugin: Preliminary Specification
+title: 'MapKnitter Annotations Plugin: Preliminary Specification'
 tagnames: mapknitter, gsoc, gsoc-2014
 author: justinmanley
 path: /notes/justinmanley/06-17-2014/mapknitter-annotations-plugin-preliminary-specification.md

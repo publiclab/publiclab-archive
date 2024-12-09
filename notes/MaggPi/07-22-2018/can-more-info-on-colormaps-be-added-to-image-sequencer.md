@@ -1,5 +1,5 @@
 ---
-title: Can more info on  colormaps be added to image-sequencer?
+title: 'Can more info on  colormaps be added to image-sequencer?'
 tagnames: ndvi, colormap, image-sequencer, question:image-sequencer, noir
 author: MaggPi
 path: /notes/MaggPi/07-22-2018/can-more-info-on-colormaps-be-added-to-image-sequencer.md

@@ -1,5 +1,5 @@
 ---
-title: KAP Rig for Mobius Action Cam
+title: 'KAP Rig for Mobius Action Cam'
 tagnames: kite-mapping, grassrootsmapping, citizen-science, mobius, mobius-action-cam, kap-rigs, response:10162, mini-kite-kit, mini-balloon-kit, activity:photo-rig, activity:mobius, activity:mini-balloon-kit, activity:mini-kite-kit, activity:lightweight-photo-rig
 author: ajawitz
 path: /notes/code4maine/07-09-2014/kap-rig-for-mobius-action-cam.md

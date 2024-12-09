@@ -1,5 +1,5 @@
 ---
-title: SpeakCityHeights balloon mapping on YouTube
+title: 'SpeakCityHeights balloon mapping on YouTube'
 tagnames: balloon-mapping
 author: warren
 path: /notes/warren/4-6-2012/speakcityheights-balloon-mapping-youtube.md

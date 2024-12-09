@@ -1,5 +1,5 @@
 ---
-title: Registration Test
+title: 'Registration Test'
 tagnames: spam
 author: warren
 path: /wiki/registration-test.md

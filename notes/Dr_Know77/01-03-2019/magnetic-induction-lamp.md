@@ -1,5 +1,5 @@
 ---
-title: magnetic induction lamp
+title: 'magnetic induction lamp'
 tagnames: first-time-poster
 author: Dr_Know77
 path: /notes/Dr_Know77/01-03-2019/magnetic-induction-lamp.md

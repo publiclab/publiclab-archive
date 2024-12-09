@@ -1,5 +1,5 @@
 ---
-title: Make a narrow slit for a DIY spectrometer out of paper
+title: 'Make a narrow slit for a DIY spectrometer out of paper'
 tagnames: spectrometry, slit, papercraft, activity:spectrometry, activity:foldable-spec, foldable-spec, activity:papercraft-spec
 author: warren
 path: /notes/warren/11-24-2017/make-a-narrow-slit-for-a-diy-spectrometer-out-of-paper.md

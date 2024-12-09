@@ -1,5 +1,5 @@
 ---
-title: PLOTS adoption of the CERN Open Hardware License
+title: 'PLOTS adoption of the CERN Open Hardware License'
 tagnames: balloon-mapping, near-infrared-camera, spectrometer, thermal-photography, kite-mapping, open-source, licensing, ohl, open-hardware, cern-ohl
 author: warren
 path: /notes/warren/3-9-2012/plots-adoption-cern-open-hardware-license.md

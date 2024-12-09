@@ -1,5 +1,5 @@
 ---
-title: Resolution Test Using 532nm Laser and 405nm UV Laser Pointer
+title: 'Resolution Test Using 532nm Laser and 405nm UV Laser Pointer'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-28-2016/resolution-test-using-532nm-laser-and-405nm-uv-laser-pointer.md

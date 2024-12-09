@@ -1,5 +1,5 @@
 ---
-title: Looking for a simple DIY microscope stage design with parallel plates
+title: 'Looking for a simple DIY microscope stage design with parallel plates'
 tagnames: kits, microscopes, question:microscopes, sourcing, community-kits, question:basic-microscope, basic-microscope, microscope-stage, question:microscope-stage
 author: warren
 path: /notes/warren/03-12-2018/looking-for-a-simple-diy-microscope-stage-design-with-parallel-plates.md

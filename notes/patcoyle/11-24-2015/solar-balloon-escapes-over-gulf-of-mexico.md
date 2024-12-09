@@ -1,5 +1,5 @@
 ---
-title: SOLAR BALLOON ESCAPES OVER GULF OF MEXICO
+title: 'SOLAR BALLOON ESCAPES OVER GULF OF MEXICO'
 tagnames: solar-balloon, documentation, barnraising, the-barnraiser
 author: patcoyle
 path: /notes/patcoyle/11-24-2015/solar-balloon-escapes-over-gulf-of-mexico.md

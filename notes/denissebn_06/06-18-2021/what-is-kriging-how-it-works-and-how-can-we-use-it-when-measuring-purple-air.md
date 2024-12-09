@@ -1,5 +1,5 @@
 ---
-title: What is kriging? How it works and how can we use it when measuring purple air? 
+title: 'What is kriging? How it works and how can we use it when measuring purple air? '
 tagnames: air-quality, air, pm, air-monitoring, question:general, general, particulate-matter, purpleair, purple-air, question:vvamp, kriging, gausse-regression
 author: denissebn_06
 path: /notes/denissebn_06/06-18-2021/what-is-kriging-how-it-works-and-how-can-we-use-it-when-measuring-purple-air.md

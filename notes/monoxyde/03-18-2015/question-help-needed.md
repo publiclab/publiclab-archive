@@ -1,5 +1,5 @@
 ---
-title: Question: HELP NEEDED
+title: 'Question: HELP NEEDED'
 tagnames: question:imagej, first-time-poster
 author: Monoxyde
 path: /notes/monoxyde/03-18-2015/question-help-needed.md

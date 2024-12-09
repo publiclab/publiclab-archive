@@ -1,5 +1,5 @@
 ---
-title: Help requested with mapknitter- Balloon mapping of Metal processing plant in Providence, RI
+title: 'Help requested with mapknitter- Balloon mapping of Metal processing plant in Providence, RI'
 tagnames: providence, balloon-mapping, air-quality, waste, water-quality, toxic-waste, first-time-poster
 author: Lynnrw
 path: /notes/lynnrw/5-10-2013/help-requested-mapknitter-balloon-mapping-metal-processing-plant-providence-r.md

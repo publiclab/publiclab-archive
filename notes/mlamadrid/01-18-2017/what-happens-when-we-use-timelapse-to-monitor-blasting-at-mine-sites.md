@@ -1,5 +1,5 @@
 ---
-title: Considerations when using timelapse to monitor blasting at mine sites?
+title: 'Considerations when using timelapse to monitor blasting at mine sites?'
 tagnames: time-lapse, photo-monitoring, water-quality-monitoring, water-quality, question:timelapse
 author: mlamadrid
 path: /notes/mlamadrid/01-18-2017/what-happens-when-we-use-timelapse-to-monitor-blasting-at-mine-sites.md

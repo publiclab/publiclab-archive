@@ -1,5 +1,5 @@
 ---
-title: Chemical Analysis For Kirkland (organic) Extra Virgin Olive Oil
+title: 'Chemical Analysis For Kirkland (organic) Extra Virgin Olive Oil'
 tagnames: barnstar:basic
 author: dhaffnersr
 path: /notes/dhaffnersr/08-05-2016/chemical-analysis-for-kirkland-organic-extra-virgin-olive-oil.md

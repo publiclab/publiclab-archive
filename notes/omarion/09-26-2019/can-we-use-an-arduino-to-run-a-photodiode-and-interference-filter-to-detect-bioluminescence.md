@@ -1,5 +1,5 @@
 ---
-title: Can we use an arduino to run a photodiode and interference filter to detect  bioluminescence?
+title: 'Can we use an arduino to run a photodiode and interference filter to detect  bioluminescence?'
 tagnames: arduino, code, question:question, question:arduino, question:water, water-sensor, first-time-poster, question:sensor, wateristic, question:wateristic, with:amallozzi
 author: omarion
 path: /notes/omarion/09-26-2019/can-we-use-an-arduino-to-run-a-photodiode-and-interference-filter-to-detect-bioluminescence.md

@@ -1,5 +1,5 @@
 ---
-title: Dealing with parallax
+title: 'Dealing with parallax'
 tagnames: near-infrared-camera, image-stitching, parallax, image-registration
 author: nedhorning
 path: /notes/nedhorning/3-26-2013/dealing-parallax.md

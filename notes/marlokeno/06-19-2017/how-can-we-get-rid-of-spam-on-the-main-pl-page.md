@@ -1,5 +1,5 @@
 ---
-title: How can we get rid of spam on the main PL page?
+title: 'How can we get rid of spam on the main PL page?'
 tagnames: spam, moderation, question:question, question:moderation, question:spam
 author: marlokeno
 path: /notes/marlokeno/06-19-2017/how-can-we-get-rid-of-spam-on-the-main-pl-page.md

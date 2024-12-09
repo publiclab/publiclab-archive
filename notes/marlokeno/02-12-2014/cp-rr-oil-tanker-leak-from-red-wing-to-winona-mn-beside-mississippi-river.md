@@ -1,5 +1,5 @@
 ---
-title: CP RR oil tanker leak from Red wing to Winona MN, beside Mississippi River
+title: 'CP RR oil tanker leak from Red wing to Winona MN, beside Mississippi River'
 tagnames: spectrometer, oil, spill, minnesota, bakken, train, mississippi-river, oil-testing, rail, first-time-poster
 author: marlokeno
 path: /notes/marlokeno/02-12-2014/cp-rr-oil-tanker-leak-from-red-wing-to-winona-mn-beside-mississippi-river.md

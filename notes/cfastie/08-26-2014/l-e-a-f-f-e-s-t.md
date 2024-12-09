@@ -1,5 +1,5 @@
 ---
-title: L E A F F E S T
+title: 'L E A F F E S T'
 tagnames: near-infrared-camera, spectrometer, vermont, oil-spill-toolkit, leaffest, event, infragram, northeast, leaffest2014
 author: cfastie
 path: /notes/cfastie/08-26-2014/l-e-a-f-f-e-s-t.md

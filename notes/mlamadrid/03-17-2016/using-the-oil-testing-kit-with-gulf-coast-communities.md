@@ -1,5 +1,5 @@
 ---
-title: Using the Oil Testing Kit with Gulf Coast Communities
+title: 'Using the Oil Testing Kit with Gulf Coast Communities'
 tagnames: with:stevie
 author: mlamadrid
 path: /notes/mlamadrid/03-17-2016/using-the-oil-testing-kit-with-gulf-coast-communities.md

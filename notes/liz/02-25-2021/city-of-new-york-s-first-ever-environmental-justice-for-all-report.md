@@ -1,5 +1,5 @@
 ---
-title: City of New York's first-ever "Environmental Justice for All" report
+title: 'City of New York's first-ever "Environmental Justice for All" report'
 tagnames: new-york-city, press-release, environmental-justice, public-comment, lat:35, zoom:13, lon:-78.99
 author: liz
 path: /notes/liz/02-25-2021/city-of-new-york-s-first-ever-environmental-justice-for-all-report.md

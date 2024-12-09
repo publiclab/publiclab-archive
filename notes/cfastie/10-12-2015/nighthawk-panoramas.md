@@ -1,5 +1,5 @@
 ---
-title: Nighthawk panoramas
+title: 'Nighthawk panoramas'
 tagnames: kite-mapping, vermont, kite, leaffest, grassrootsmappingforum, style:fancy, saturnv, skyshield, half-spherical, leaffest2015, pfk, response:12290, littleplanet, gmf-9
 author: cfastie
 path: /notes/cfastie/10-12-2015/nighthawk-panoramas.md

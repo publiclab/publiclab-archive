@@ -1,5 +1,5 @@
 ---
-title: Improved configuration: Arduino driven servo with CHDK for aerial panoramas
+title: 'Improved configuration: Arduino driven servo with CHDK for aerial panoramas'
 tagnames: arduino, aerial-photography, panorama, autokap
 author: patcoyle
 path: /notes/patcoyle/05-25-2014/improved-configuration-arduino-driven-servo-with-chdk-for-aerial-panoramas.md

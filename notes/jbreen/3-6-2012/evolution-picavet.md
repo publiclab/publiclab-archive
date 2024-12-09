@@ -1,5 +1,5 @@
 ---
-title: Evolution of a Picavet
+title: 'Evolution of a Picavet'
 tagnames: near-infrared-camera, kite-mapping, picavet, kite-aerial-photography, photo-rig, activity:photo-rig, first-time-poster
 author: jbreen
 path: /notes/jbreen/3-6-2012/evolution-picavet.md

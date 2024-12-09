@@ -1,5 +1,5 @@
 ---
-title: What is the easiest and cheapest way to make a kite big enough to carry a camera?
+title: 'What is the easiest and cheapest way to make a kite big enough to carry a camera?'
 tagnames: kite-mapping, aerial-photography, answered, kite-making, question:kite-mapping, question:aerial-photography, question:kite-making, question:education, question:classroom, question:science-fair
 author: warren
 path: /notes/warren/10-31-2017/what-is-the-easiest-and-cheapest-way-to-make-a-kite-big-enough-to-carry-a-camera.md

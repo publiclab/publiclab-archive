@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNCC: Under New Construction Constantly 
+title: 'MapKnitter map of UNCC: Under New Construction Constantly '
 tagnames: mapknitter, lat:35.3071187405, lon:-80.7354515791
 author: acruz11
 path: /notes/acruz11/10-04-2017/mapknitter-map-of-uncc-under-new-construction-constantly.md

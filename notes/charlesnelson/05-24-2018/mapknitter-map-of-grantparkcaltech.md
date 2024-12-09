@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of grantparkcaltech
+title: 'MapKnitter map of grantparkcaltech'
 tagnames: balloon-mapping, mapknitter, lat:34.1418278146, lon:-118.125603497
 author: charlesnelson
 path: /notes/charlesnelson/05-24-2018/mapknitter-map-of-grantparkcaltech.md

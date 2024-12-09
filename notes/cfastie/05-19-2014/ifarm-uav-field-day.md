@@ -1,5 +1,5 @@
 ---
-title: iFarm UAV Field Day
+title: 'iFarm UAV Field Day'
 tagnames: remote-sensing, boston, new-hampshire, farmhack, uav, agriculture, farm, event, garden, ifarm, crops, northeast, uas, ifarm2014, aerial-imaging, sensor-networks, internet-of-things, response:10461
 author: cfastie
 path: /notes/cfastie/05-19-2014/ifarm-uav-field-day.md

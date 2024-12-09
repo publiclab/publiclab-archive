@@ -1,5 +1,5 @@
 ---
-title: What are important aspects to consider about replication on the website and in the community?
+title: 'What are important aspects to consider about replication on the website and in the community?'
 tagnames: question:activity
 author: liz
 path: /notes/liz/09-28-2016/what-are-important-aspects-to-consider-about-replication-on-the-website-and-in-the-community.md

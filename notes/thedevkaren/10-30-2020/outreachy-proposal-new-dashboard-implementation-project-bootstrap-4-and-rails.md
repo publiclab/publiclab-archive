@@ -1,5 +1,5 @@
 ---
-title: # Outreachy Proposal : New Dashboard Implementation Project: Bootstrap 4 and Rails
+title: '# Outreachy Proposal : New Dashboard Implementation Project: Bootstrap 4 and Rails'
 tagnames: first-time-poster
 author: thedevkaren
 path: /notes/thedevkaren/10-30-2020/outreachy-proposal-new-dashboard-implementation-project-bootstrap-4-and-rails.md

@@ -1,5 +1,5 @@
 ---
-title: [GSoC 2014 Proposal - DRAFT] Sky Cam Enhancements
+title: '[GSoC 2014 Proposal - DRAFT] Sky Cam Enhancements'
 tagnames: gsoc, skycam, gsoc-2014, coding
 author: mj7007
 path: /notes/mj7007/03-20-2014/gsoc-2014-proposal-draft-sky-cam-enhancements.md

@@ -1,5 +1,5 @@
 ---
-title: I need a help I'm doing a research project on NVDI processes
+title: 'I need a help I'm doing a research project on NVDI processes'
 tagnames: ndvi, multispectral, drones, infrared, infragram, question:ndvi, question:infragram, with, multispectral-imaging, question:general, uavs, response:13742
 author: camiloreyes
 path: /notes/camiloreyes/08-10-2017/i-need-a-help-i-m-doing-a-research-project-on-nvdi-processes.md

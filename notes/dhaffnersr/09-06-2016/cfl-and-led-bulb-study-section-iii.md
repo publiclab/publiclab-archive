@@ -1,5 +1,5 @@
 ---
-title: CFL and LED Bulb Study Section III
+title: 'CFL and LED Bulb Study Section III'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/09-06-2016/cfl-and-led-bulb-study-section-iii.md

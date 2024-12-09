@@ -1,5 +1,5 @@
 ---
-title: How should I modify Infragram NDVI settings for Raspberry Pi Noir orbital photos?
+title: 'How should I modify Infragram NDVI settings for Raspberry Pi Noir orbital photos?'
 tagnames: ndvi, infrared, infragram, canada, question:infragram, newfoundland, question:infrared, image-sequencer, question:image-sequencer, first-time-poster, raspberry_pi, orbit
 author: brendan_stanford
 path: /notes/brendan_stanford/05-20-2020/how-should-i-modify-infragram-ndvi-settings-for-raspberry-pi-noir-orbital-photos.md

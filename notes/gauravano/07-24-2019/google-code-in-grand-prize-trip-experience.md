@@ -1,5 +1,5 @@
 ---
-title: Google Code-In Grand Prize Trip Experience
+title: 'Google Code-In Grand Prize Trip Experience'
 tagnames: open-source, barnstar:basic, software-outreach, google-code-in, gci-2018
 author: gauravano
 path: /notes/gauravano/07-24-2019/google-code-in-grand-prize-trip-experience.md

@@ -1,5 +1,5 @@
 ---
-title: Residents are fighting back against plastics odors in this small NY town
+title: 'Residents are fighting back against plastics odors in this small NY town'
 tagnames: air-quality, blog, odor, oil-and-gas, plastics, with:joyofsoy, with:michaelwma, with:hara214, with:ca4o, orangetown-aluf, lat:41.074021, lon:-73.97621
 author: stevie
 path: /notes/stevie/12-04-2019/residents-are-fighting-back-against-plastics-odors-in-this-small-ny-town.md

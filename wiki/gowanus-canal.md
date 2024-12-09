@@ -1,5 +1,5 @@
 ---
-title: gowanus canal
+title: 'gowanus canal'
 tagnames: 
 author: liz
 path: /wiki/gowanus-canal.md

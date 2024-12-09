@@ -1,5 +1,5 @@
 ---
-title: Kilimanjaro Citizen Science - KCS-1
+title: 'Kilimanjaro Citizen Science - KCS-1'
 tagnames: modis, africa, kilimanjaro, tanzania
 author: cutlan
 path: /notes/cutlan/01-09-2018/kilimanjaro-citizen-science-1.md

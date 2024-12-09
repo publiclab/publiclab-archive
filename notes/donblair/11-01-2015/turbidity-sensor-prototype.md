@@ -1,5 +1,5 @@
 ---
-title: Turbidity sensor prototype
+title: 'Turbidity sensor prototype'
 tagnames: water-quality, water, water-quality-sensor, turbidity, riffle, openwater, activity:turbidity, water-sensors
 author: donblair
 path: /notes/donblair/11-01-2015/turbidity-sensor-prototype.md

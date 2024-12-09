@@ -1,5 +1,5 @@
 ---
-title: Can you take NDVI/NRG infrared composites on a smartphone
+title: 'Can you take NDVI/NRG infrared composites on a smartphone'
 tagnames: near-infrared-camera
 author: warren
 path: /notes/warren/2-26-2013/can-you-take-ndvinrg-infrared-composites-smartphone.md

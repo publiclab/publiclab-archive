@@ -1,5 +1,5 @@
 ---
-title: NDVI and NRG
+title: 'NDVI and NRG'
 tagnames: near-infrared-camera, ndvi, agriculture
 author: warren
 path: /wiki/ndvi.md

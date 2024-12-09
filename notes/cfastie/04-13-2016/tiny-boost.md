@@ -1,5 +1,5 @@
 ---
-title: Tiny boost
+title: 'Tiny boost'
 tagnames: kite-mapping, arduino, vermont, kite, saturnv, skyshield, half-spherical, eos_m, voltage, battery, boost, response:12906
 author: cfastie
 path: /notes/cfastie/04-13-2016/tiny-boost.md

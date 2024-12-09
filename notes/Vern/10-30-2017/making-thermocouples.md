@@ -1,5 +1,5 @@
 ---
-title: Making Thermocouples
+title: 'Making Thermocouples'
 tagnames: thermocouple
 author: Vern
 path: /notes/Vern/10-30-2017/making-thermocouples.md

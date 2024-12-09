@@ -1,5 +1,5 @@
 ---
-title: Visible-range fluorescence fingerprinting of heating and motor oil 
+title: 'Visible-range fluorescence fingerprinting of heating and motor oil '
 tagnames: spectrometer, oil, fluorescence, matching, motor-oil, crude, literature, oil-testing-kit, aging, synchronous-scanning, fuel, fingerprinting, sfs
 author: warren
 path: /notes/warren/08-11-2014/visible-range-fluorescence-fingerprinting-of-heating-and-motor-oil.md

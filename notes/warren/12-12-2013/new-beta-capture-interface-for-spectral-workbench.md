@@ -1,5 +1,5 @@
 ---
-title: New beta capture interface for Spectral Workbench
+title: 'New beta capture interface for Spectral Workbench'
 tagnames: spectrometer, spectralworkbench
 author: warren
 path: /notes/warren/12-12-2013/new-beta-capture-interface-for-spectral-workbench.md

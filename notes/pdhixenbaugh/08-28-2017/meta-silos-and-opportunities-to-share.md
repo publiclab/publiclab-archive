@@ -1,5 +1,5 @@
 ---
-title: [Meta] Silos and opportunities to Share
+title: '[Meta] Silos and opportunities to Share'
 tagnames: community, publiclab, meta, organization
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-28-2017/meta-silos-and-opportunities-to-share.md

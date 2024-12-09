@@ -1,5 +1,5 @@
 ---
-title: Public Lab NorCal Meetup Fort Mason San Francisco CA
+title: 'Public Lab NorCal Meetup Fort Mason San Francisco CA'
 tagnames: near-infrared-camera, kite-mapping, ndvi, dual-camera, uav, kap, norcal, event, replication:14022
 author: patcoyle
 path: /notes/patcoyle/5-6-2013/public-lab-norcal-meetup-fort-mason-san-francisco-ca-0.md

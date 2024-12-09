@@ -1,5 +1,5 @@
 ---
-title: JEW lightbulb thing
+title: 'JEW lightbulb thing'
 tagnames: hidden:response, response:13586
 author: JEW
 path: /notes/JEW/10-19-2016/jew-lightbulb-thing.md

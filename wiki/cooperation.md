@@ -1,5 +1,5 @@
 ---
-title: cooperation
+title: 'cooperation'
 tagnames: boston
 author: donblair
 path: /wiki/cooperation.md

@@ -1,5 +1,5 @@
 ---
-title: How can we make resources that are created by letting greenhouse gases into the atmosphere without causing unnatural climate change?
+title: 'How can we make resources that are created by letting greenhouse gases into the atmosphere without causing unnatural climate change?'
 tagnames: atmosphere, climate-change, greenhousegas, question:general, general, oil-and-gas, first-time-poster
 author: nsabido
 path: /notes/nsabido/03-09-2021/how-can-we-make-resources-that-are-created-by-letting-greenhouse-gases-into-the-atmosphere-without-causing-unnatural-climate-change.md

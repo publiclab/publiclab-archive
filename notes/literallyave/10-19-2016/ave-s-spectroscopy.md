@@ -1,5 +1,5 @@
 ---
-title: Ave's Spectroscopy 
+title: 'Ave's Spectroscopy '
 tagnames: hidden:response, response:13586
 author: literallyave
 path: /notes/literallyave/10-19-2016/ave-s-spectroscopy.md

@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code 2019 Final Report
+title: 'Google Summer of Code 2019 Final Report'
 tagnames: open-source, soc, gsoc-2019, gsoc-2019-final-report
 author: sidntrivedi012
 path: /notes/sidntrivedi012/08-26-2019/google-summer-of-code-2019-final-report.md

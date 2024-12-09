@@ -1,5 +1,5 @@
 ---
-title: Radical Infrastructure: Your First Physical Server
+title: 'Radical Infrastructure: Your First Physical Server'
 tagnames: education, pedagogy, event, workshops, infrastructure, techlearningcollective, autonomy, intensives, lat:40.704224, lon:-73.986675
 author: techlearningcollective
 path: /notes/techlearningcollective/08-06-2019/radical-infrastructure-your-first-physical-server.md

@@ -1,5 +1,5 @@
 ---
-title: Achieving a high quality spectrum
+title: 'Achieving a high quality spectrum'
 tagnames: spectrometer, carbon, spectrum, nanotubes, sharpness
 author: Ankur_Bodhe
 path: /notes/Ankur_Bodhe/07-11-2015/achieving-a-high-quality-spectrum.md

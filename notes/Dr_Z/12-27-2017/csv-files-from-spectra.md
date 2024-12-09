@@ -1,5 +1,5 @@
 ---
-title: CSV files from spectra
+title: 'CSV files from spectra'
 tagnames: spectrometer, spectralworkbench, cd, question:spectral-workbench, answered, first-time-poster
 author: Dr_Z
 path: /notes/Dr_Z/12-27-2017/csv-files-from-spectra.md

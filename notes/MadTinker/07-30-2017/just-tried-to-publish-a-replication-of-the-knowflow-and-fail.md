@@ -1,5 +1,5 @@
 ---
-title: Just tried to publish a Replication of the KnowFlow and fail ...
+title: 'Just tried to publish a Replication of the KnowFlow and fail ...'
 tagnames: tool, answered, question:general, knowflow
 author: MadTinker
 path: /notes/MadTinker/07-30-2017/just-tried-to-publish-a-replication-of-the-knowflow-and-fail.md

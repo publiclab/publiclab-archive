@@ -1,5 +1,5 @@
 ---
-title: Cartography Primer at Phats Valley Residency, Cape Cod
+title: 'Cartography Primer at Phats Valley Residency, Cape Cod'
 tagnames: balloon-mapping, near-infrared-camera, annotated-maps, community-mapping, infragram, list:plots-boston, coastalmonitoring, pamet
 author: wward1400
 path: /notes/wward1400/10-09-2013/cartography-primer-no-1-at-pamet-marsh-cape-cod.md

@@ -1,5 +1,5 @@
 ---
-title: Open source licensing of our spectral data
+title: 'Open source licensing of our spectral data'
 tagnames: spectrometer, licensing
 author: warren
 path: /notes/warren/8-14-2012/open-source-licensing-our-spectral-data.md

@@ -1,5 +1,5 @@
 ---
-title: How to create a Logic Model
+title: 'How to create a Logic Model'
 tagnames: evaluation, activity:evaluation
 author: liz
 path: /notes/liz/10-05-2018/how-to-create-a-logic-model.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab Job Posting: Kits Fulfillment Coordinator
+title: 'Public Lab Job Posting: Kits Fulfillment Coordinator'
 tagnames: kits, nonprofit, jobs, fulfillment, kitsinitiative, lat:29.964621, lon:-90.046398
 author: thewrightjess
 path: /notes/thewrightjess/12-18-2019/public-lab-job-posting-kits-fulfillment-coordinator.md

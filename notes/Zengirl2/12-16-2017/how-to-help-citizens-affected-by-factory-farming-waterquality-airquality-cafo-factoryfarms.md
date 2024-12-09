@@ -1,5 +1,5 @@
 ---
-title: How to Help Citizens Affected by Factory Farming? #waterquality #airquality #CAFO #factoryfarms
+title: 'How to Help Citizens Affected by Factory Farming? #waterquality #airquality #CAFO #factoryfarms'
 tagnames: balloon-mapping, hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, water-quality, cafo, ammonia, factory-farms, srap
 author: zengirl2
 path: /notes/Zengirl2/12-16-2017/how-to-help-citizens-affected-by-factory-farming-waterquality-airquality-cafo-factoryfarms.md

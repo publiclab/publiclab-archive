@@ -1,5 +1,5 @@
 ---
-title: Prospect Park spring mapping project
+title: 'Prospect Park spring mapping project'
 tagnames: new-york-city, gowanus, event, prospect-park, glam, groundwater, spring
 author: liz
 path: /notes/liz/05-06-2014/prospect-park-spring-mapping-project.md

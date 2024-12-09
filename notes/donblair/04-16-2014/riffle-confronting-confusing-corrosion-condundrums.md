@@ -1,5 +1,5 @@
 ---
-title: RIFFLE: Confronting Confusing Corrosion Condundrums
+title: 'RIFFLE: Confronting Confusing Corrosion Condundrums'
 tagnames: water-quality, water-monitoring, conductivity, riffle, open-water, coqui, corrosion
 author: donblair
 path: /notes/donblair/04-16-2014/riffle-confronting-confusing-corrosion-condundrums.md

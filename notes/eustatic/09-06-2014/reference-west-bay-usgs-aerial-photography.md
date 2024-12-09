@@ -1,5 +1,5 @@
 ---
-title: [Reference] west bay USGS aerial photography for land change analysis
+title: '[Reference] west bay USGS aerial photography for land change analysis'
 tagnames: gulf-coast, balloon-mapping, nrg, multispectral, mapknitter, wetlands, infrared, louisiana, coastal, response:10243, response:10381, propublica, west-bay, place:west-bay-mississippi-river-delta
 author: eustatic
 path: /09-06-2014/reference-west-bay-usgs-aerial-photography.md

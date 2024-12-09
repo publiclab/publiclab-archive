@@ -1,5 +1,5 @@
 ---
-title: Prospect Park Lookout Hill crew
+title: 'Prospect Park Lookout Hill crew'
 tagnames: new-york-city, event, lookout-hill, prospect-park
 author: liz
 path: /notes/liz/3-17-2013/prospect-park-lookout-hill-crew.md

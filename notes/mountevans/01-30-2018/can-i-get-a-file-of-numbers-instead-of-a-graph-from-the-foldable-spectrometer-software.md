@@ -1,5 +1,5 @@
 ---
-title: Can I get a file of numbers instead of a graph from the foldable spectrometer software?
+title: 'Can I get a file of numbers instead of a graph from the foldable spectrometer software?'
 tagnames: question:spectrometry, question:spectral-workbench, question:foldable-spec, question:software
 author: mountevans
 path: /notes/mountevans/01-30-2018/can-i-get-a-file-of-numbers-instead-of-a-graph-from-the-foldable-spectrometer-software.md

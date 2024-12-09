@@ -1,5 +1,5 @@
 ---
-title: Find closest match spectra from database - GSoC project
+title: 'Find closest match spectra from database - GSoC project'
 tagnames: spectrometer, spectral-workbench, gsoc, spectral-matching, first-time-poster
 author: Sreyanth
 path: /notes/Sreyanth/06-24-2013/find-closest-match-spectra-from-database-gsoc-project.md

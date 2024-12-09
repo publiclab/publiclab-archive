@@ -1,5 +1,5 @@
 ---
-title: Microscopic View of Public Lab's Acetate film slits
+title: 'Microscopic View of Public Lab's Acetate film slits'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-19-2016/microscopic-view-of-public-lab-s-acetate-film-slits.md

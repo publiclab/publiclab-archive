@@ -1,5 +1,5 @@
 ---
-title: Step 1: Join Public Lab's Transifex project
+title: 'Step 1: Join Public Lab's Transifex project'
 tagnames: community, website, activity, difficulty:easy, status:complete, localization, translation, language, activity:localization, with:gauravano
 author: liz
 path: /notes/liz/10-26-2016/how-to-join-public-lab-s-transifex-project.md

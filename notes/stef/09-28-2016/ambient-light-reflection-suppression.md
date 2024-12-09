@@ -1,5 +1,5 @@
 ---
-title: Ambient Light Reflection Suppression
+title: 'Ambient Light Reflection Suppression'
 tagnames: spectrometer, spectrometry, ambient-light, reflections, build:13470, first-time-poster
 author: stef
 path: /notes/stef/09-28-2016/ambient-light-reflection-suppression.md

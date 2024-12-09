@@ -1,5 +1,5 @@
 ---
-title: West Bay River Restoration: Diversion strategy in action
+title: 'West Bay River Restoration: Diversion strategy in action'
 tagnames: gulf-coast, mississippi, river, sediment, passenger, pigeon, passengerpigeon
 author: eustatic
 path: /04-30-2014/west-bay-river-restoration-diversion-strategy-in-action.md

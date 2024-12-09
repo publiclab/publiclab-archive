@@ -1,5 +1,5 @@
 ---
-title: Fluorescent lights 
+title: 'Fluorescent lights '
 tagnames: spectroscopy, color, light, hidden:response, replication:15121, response:17384
 author: jgrobinson1
 path: /notes/jgrobinson1/10-25-2018/fluorescent-lights.md

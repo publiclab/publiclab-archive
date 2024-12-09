@@ -1,5 +1,5 @@
 ---
-title: Shoreline mapping - image stich experimentation
+title: 'Shoreline mapping - image stich experimentation'
 tagnames: new-york-city, kite-mapping, kite-aerial-photography, coastline, mapping, design, coastalmonitoring, northeast, staten-island, island, staten, new, york, city, breakwaters, rebuild, rebuild-by-design, raritan-bay, lat:40.500943, lon:-74.233117, place:raritan-bay
 author: gwirth
 path: /notes/gwirth/07-25-2014/shoreline-mapping-image-stich-experimentation.md

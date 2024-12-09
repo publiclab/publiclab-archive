@@ -1,5 +1,5 @@
 ---
-title: More dock data!
+title: 'More dock data!'
 tagnames: thermal-fishing, riffle, riffle-examples
 author: lperovich
 path: /notes/lperovich/08-30-2015/more-dock-data.md

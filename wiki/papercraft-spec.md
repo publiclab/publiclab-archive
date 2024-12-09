@@ -1,5 +1,5 @@
 ---
-title: papercraft-spec
+title: 'papercraft-spec'
 tagnames: redirect:15277
 author: warren
 path: /wiki/papercraft-spec.md

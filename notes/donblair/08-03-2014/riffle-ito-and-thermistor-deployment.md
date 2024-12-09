@@ -1,5 +1,5 @@
 ---
-title: RIffle-ito and Thermistor Deployment
+title: 'RIffle-ito and Thermistor Deployment'
 tagnames: temperature, riffle
 author: donblair
 path: /notes/donblair/08-03-2014/riffle-ito-and-thermistor-deployment.md

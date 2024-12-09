@@ -1,5 +1,5 @@
 ---
-title: Base maps in MapKnitter
+title: 'Base maps in MapKnitter'
 tagnames: balloon-mapping, kite-mapping, mapknitter
 author: gonzoearth
 path: /notes/gonzoearth/6-25-2012/base-maps-mapknitter.md

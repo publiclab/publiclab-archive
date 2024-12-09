@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Hood River Punch Bowl Falls
+title: 'MapKnitter map of Hood River Punch Bowl Falls'
 tagnames: mapknitter, first-time-poster, zoom:16, lat:45.602139, lon:-121.6358304, lon:-121.63583
 author: porteric
 path: /notes/porteric/02-27-2020/mapknitter-map-of-hood-river-punch-bowl-falls.md

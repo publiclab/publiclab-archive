@@ -1,5 +1,5 @@
 ---
-title: GSoC Upadate - Upload Interface
+title: 'GSoC Upadate - Upload Interface'
 tagnames: mapknitter, gsoc, gsoc-2014, response:10594, upload-interface
 author: xvidun
 path: /notes/xvidun/07-31-2014/gsoc-upadate-upload-interface.md

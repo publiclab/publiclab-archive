@@ -1,5 +1,5 @@
 ---
-title: TEDxUCDavis presentation from the University of California at Davis.
+title: 'TEDxUCDavis presentation from the University of California at Davis.'
 tagnames: balloon-mapping, kite-mapping, google, google-earth, maps, ryukjem
 author: gonzoearth
 path: /notes/gonzoearth/06-24-2013/tedxucdavis-presentation-from-the-university-of-california-at-davis.md

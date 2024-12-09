@@ -1,5 +1,5 @@
 ---
-title: Attempted infrared imaging of motor oil in salt water
+title: 'Attempted infrared imaging of motor oil in salt water'
 tagnames: near-infrared-camera, oil, motor-oil
 author: warren
 path: /notes/warren/12-7-2010/attempted-infrared-imaging-motor-oil-salt-water.md

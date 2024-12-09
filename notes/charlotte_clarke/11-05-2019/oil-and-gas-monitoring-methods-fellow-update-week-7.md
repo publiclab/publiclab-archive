@@ -1,5 +1,5 @@
 ---
-title: Oil and Gas Monitoring Methods Fellow Update: Week 7
+title: 'Oil and Gas Monitoring Methods Fellow Update: Week 7'
 tagnames: oil-and-gas, oil-and-gas-water-trio
 author: charlotte_clarke
 path: /notes/charlotte_clarke/11-05-2019/oil-and-gas-monitoring-methods-fellow-update-week-7.md

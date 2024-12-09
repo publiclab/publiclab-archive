@@ -1,5 +1,5 @@
 ---
-title: MiniVol pre-deployment preparation, with images
+title: 'MiniVol pre-deployment preparation, with images'
 tagnames: air-quality, dust, silica, pm, particle-sensing, pm-monitoring, minivol, activity:minivol, prepping, 1031710, 600-007, replication:13898
 author: mathew
 path: /notes/mathew/02-09-2017/minivol-pre-deployment-preparation-with-images.md

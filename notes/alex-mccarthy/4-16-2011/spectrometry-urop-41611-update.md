@@ -1,5 +1,5 @@
 ---
-title: Spectrometry UROP 4/16/11 update
+title: 'Spectrometry UROP 4/16/11 update'
 tagnames: spectrometer, uv, fluorescence, pah, detergent, fluorometer
 author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-16-2011/spectrometry-urop-41611-update.md

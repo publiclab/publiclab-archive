@@ -1,5 +1,5 @@
 ---
-title: Calibrating a Microscope
+title: 'Calibrating a Microscope'
 tagnames: silica, frac-sand, pm, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, openflexure, dust-sensing, pm-sensing, particulatematter, activity:microscope, microscopes, activity:microscopes, activity:community-microscope
 author: mathew
 path: /notes/mathew/08-23-2016/calibrating-a-microscope.md

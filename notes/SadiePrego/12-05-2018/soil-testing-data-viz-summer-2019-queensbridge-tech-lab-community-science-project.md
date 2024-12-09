@@ -1,5 +1,5 @@
 ---
-title: SOIL TESTING & DATA VIZ: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT
+title: 'SOIL TESTING & DATA VIZ: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT'
 tagnames: education, citizen-science, soil, organizing, medicine, garden, plant-health, plants, urban-ecology, data, grass, food-desert, ecology, soil-testing, advocacy, samples, compost, soil-quality, activism, community-science, data-visualization, community-microscope, biobus, queensbridge, nycha, foldscope, hands-on, soil-health, data-vizualization, land-survey, nature-walk, diy-microscope, aerial-images, urban-environmentalism, soil-samples, plant-samples, edible, healing, soil-degradation
 author: SadiePrego
 path: /notes/SadiePrego/12-05-2018/soil-testing-data-viz-summer-2019-queensbridge-tech-lab-community-science-project.md

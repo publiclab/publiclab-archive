@@ -1,5 +1,5 @@
 ---
-title: Do you have experience using a gas chromatograph?
+title: 'Do you have experience using a gas chromatograph?'
 tagnames: question:general, general, gas-chromatograph, question:gas-chromatograph, creosote, question:creosote
 author: liz
 path: /notes/liz/11-15-2019/do-you-have-experience-using-a-gas-chromatograph.md

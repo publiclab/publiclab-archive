@@ -1,5 +1,5 @@
 ---
-title: Image-sequencer - Graph Editor
+title: 'Image-sequencer - Graph Editor'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
 author: calvrix
 path: /notes/calvrix/04-02-2017/image-sequencer-graph-editor.md

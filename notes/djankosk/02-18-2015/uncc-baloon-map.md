@@ -1,5 +1,5 @@
 ---
-title: uncc baloon map
+title: 'uncc baloon map'
 tagnames: 
 author: djankosk
 path: /notes/djankosk/02-18-2015/uncc-baloon-map.md

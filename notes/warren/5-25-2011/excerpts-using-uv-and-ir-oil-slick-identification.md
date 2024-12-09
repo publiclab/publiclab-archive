@@ -1,5 +1,5 @@
 ---
-title: Excerpts on using UV and IR for oil slick identification
+title: 'Excerpts on using UV and IR for oil slick identification'
 tagnames: uv, oil, ultraviolet, water-quality, slick
 author: warren
 path: /notes/warren/5-25-2011/excerpts-using-uv-and-ir-oil-slick-identification.md

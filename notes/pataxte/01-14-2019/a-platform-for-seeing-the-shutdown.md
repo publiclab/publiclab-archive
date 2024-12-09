@@ -1,5 +1,5 @@
 ---
-title: a platform for Seeing the Shutdown?
+title: 'a platform for Seeing the Shutdown?'
 tagnames: question:general
 author: pataxte
 path: /notes/pataxte/01-14-2019/a-platform-for-seeing-the-shutdown.md

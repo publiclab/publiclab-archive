@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Garbage Hot spots 
+title: 'MapKnitter map of Garbage Hot spots '
 tagnames: mapknitter, question:mapknitter, lat:12.9192542779, lon:77.5967839006
 author: silentsairam
 path: /notes/silentsairam/05-09-2019/mapknitter-map-of-garbage-hot-spots.md

@@ -1,5 +1,5 @@
 ---
-title: Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages - the sequel
+title: 'Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages - the sequel'
 tagnames: new-york-city, balloon-mapping, gowanus, brooklyn, plume, sewage, sandy, milky, canoe, water-quality, hurricane, great-photos, response:5220, wastewater, disaster-response
 author: eymund
 path: /notes/eymund-diegel/12-18-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages-sequel.md

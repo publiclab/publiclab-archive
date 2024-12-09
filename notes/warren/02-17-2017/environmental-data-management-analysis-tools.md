@@ -1,5 +1,5 @@
 ---
-title: Environmental data management & analysis tools
+title: 'Environmental data management & analysis tools'
 tagnames: software, data, data-management, environmental-data, data-analysis, platforms, data-logging-visualization, data-visualization, data-visualization-tool
 author: warren
 path: /notes/warren/02-17-2017/environmental-data-management-analysis-tools.md

@@ -1,5 +1,5 @@
 ---
-title: HOMEMADE SPECTROMETER FOR SAMPLE ABSORPTION ANALYSIS AND A TYPE OF RAMMAN SPECTROSCOPY
+title: 'HOMEMADE SPECTROMETER FOR SAMPLE ABSORPTION ANALYSIS AND A TYPE OF RAMMAN SPECTROSCOPY'
 tagnames: spectrometer, spain, raman, soil, chlorophyll, first-time-poster
 author: homechemist
 path: /notes/homechemist/08-30-2013/homemade-spectometer-for-sample-absorstion-analysys-and-a-type-of-ramman-spectroscopy.md

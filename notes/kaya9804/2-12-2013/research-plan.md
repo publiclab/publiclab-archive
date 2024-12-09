@@ -1,5 +1,5 @@
 ---
-title: Research Plan
+title: 'Research Plan'
 tagnames: thermal-imaging, thermal-fishing, thermal-technology, infrared-camera, research, first-time-poster
 author: Kaya9804
 path: /notes/kaya9804/2-12-2013/research-plan.md

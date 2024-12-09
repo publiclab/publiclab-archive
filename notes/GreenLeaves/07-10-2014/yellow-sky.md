@@ -1,5 +1,5 @@
 ---
-title: yellow sky
+title: 'yellow sky'
 tagnames: near-infrared-camera, ndvi, infragram
 author: GreenLeaves
 path: /notes/GreenLeaves/07-10-2014/yellow-sky.md

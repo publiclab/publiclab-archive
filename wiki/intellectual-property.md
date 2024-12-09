@@ -1,5 +1,5 @@
 ---
-title: Intellectual Property
+title: 'Intellectual Property'
 tagnames: 
 author: Bronwen
 path: /wiki/intellectual-property.md

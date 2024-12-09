@@ -1,5 +1,5 @@
 ---
-title: Several new spectra from food samples
+title: 'Several new spectra from food samples'
 tagnames: spectrometer, partsandcrafts, parts-and-crafts, food
 author: warren
 path: /notes/warren/9-3-2011/several-new-spectra-food-samples.md

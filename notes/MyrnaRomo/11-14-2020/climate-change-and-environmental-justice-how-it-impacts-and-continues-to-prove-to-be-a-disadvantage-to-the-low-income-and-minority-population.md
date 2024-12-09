@@ -1,5 +1,5 @@
 ---
-title: Climate Change and Environmental Justice:  How it impacts and continues to prove to be a disadvantage to the low income and minority population.
+title: 'Climate Change and Environmental Justice:  How it impacts and continues to prove to be a disadvantage to the low income and minority population.'
 tagnames: pollution, climate-change, environmental-justice, lat:41, issue-brief, environmental-advocacy, first-time-poster, zoom:7, climate-crisis, lon:-87
 author: MyrnaRomo
 path: /notes/MyrnaRomo/11-14-2020/climate-change-and-environmental-justice-how-it-impacts-and-continues-to-prove-to-be-a-disadvantage-to-the-low-income-and-minority-population.md

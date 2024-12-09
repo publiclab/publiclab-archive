@@ -1,5 +1,5 @@
 ---
-title: Ein Karem, Jerusalem
+title: 'Ein Karem, Jerusalem'
 tagnames: kite-mapping, education, jerusalem
 author: hagitkeysar
 path: /wiki/ein-karem-jerusalem.md

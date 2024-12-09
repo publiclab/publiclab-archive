@@ -1,5 +1,5 @@
 ---
-title: What would you do with SensorShip?
+title: 'What would you do with SensorShip?'
 tagnames: arduino, sensors, wi-fi, hardware, data-logging, bme280, tsl2561, activity:data-logging, mma8451, esp8266, blynk, iot, data-monitoring, mlx90615
 author: cfastie
 path: /notes/cfastie/01-10-2019/what-would-you-do-with-sensorship.md

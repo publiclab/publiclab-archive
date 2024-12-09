@@ -1,5 +1,5 @@
 ---
-title: Class 7
+title: 'Class 7'
 tagnames: first-time-poster
 author: jmsaavedra
 path: /wiki/class-7.md

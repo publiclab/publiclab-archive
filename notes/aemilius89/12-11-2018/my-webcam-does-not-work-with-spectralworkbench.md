@@ -1,5 +1,5 @@
 ---
-title: My webcam does not work with spectralworkbench
+title: 'My webcam does not work with spectralworkbench'
 tagnames: 
 author: aemilius89
 path: /notes/aemilius89/12-11-2018/my-webcam-does-not-work-with-spectralworkbench.md

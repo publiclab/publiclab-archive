@@ -1,5 +1,5 @@
 ---
-title: Oil & Gas OpenHour Follow Up: Community Environmental Protection and Advocacy
+title: 'Oil & Gas OpenHour Follow Up: Community Environmental Protection and Advocacy'
 tagnames: water-quality, legal, advocacy, oil-and-gas, community-organizing, oil-and-gas-water-trio, oil-and-gas-water-quality, activity:oil-and-gas-water-quality, law-and-policy
 author: charlotte_clarke
 path: /notes/charlotte_clarke/11-13-2019/oil-gas-openhour-follow-up-community-environmental-protection-and-advocacy.md

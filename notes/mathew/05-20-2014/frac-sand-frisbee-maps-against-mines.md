@@ -1,5 +1,5 @@
 ---
-title: Frac Sand Frisbee- Maps against Mines
+title: 'Frac Sand Frisbee- Maps against Mines'
 tagnames: community-mapping, mapping, blog, fracking, silica, frac-sand, powerpoint, parent:frac-sand, story:frac-sand
 author: mathew
 path: /notes/mathew/05-20-2014/frac-sand-frisbee-maps-against-mines.md

@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (159 Sutton Street)
+title: 'Art in Ruins (159 Sutton Street)'
 tagnames: hidden:response, lat:41.7, lat:41.820455, lon:-71.5, zoom:10, lon:-71.427612, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-159-sutton-street.md

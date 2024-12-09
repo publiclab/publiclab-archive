@@ -1,5 +1,5 @@
 ---
-title: Annotating the North Shore
+title: 'Annotating the North Shore'
 tagnames: staten-island
 author: liz
 path: /notes/liz/08-01-2014/annotating-the-north-shore.md

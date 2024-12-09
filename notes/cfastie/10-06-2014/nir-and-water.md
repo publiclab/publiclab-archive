@@ -1,5 +1,5 @@
 ---
-title: NIR and water
+title: 'NIR and water'
 tagnames: near-infrared-camera, ndvi, nir, vermont, infragram, response:11226, activity:multispectral-imaging
 author: cfastie
 path: /notes/cfastie/10-06-2014/nir-and-water.md

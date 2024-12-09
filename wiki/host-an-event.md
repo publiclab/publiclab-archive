@@ -1,5 +1,5 @@
 ---
-title: Host an event
+title: 'Host an event'
 tagnames: events, leaffest, organizing, ifarm, tool, method, community-organizing, activities:host-an-event, event-how-to
 author: warren
 path: /wiki/host-an-event.md

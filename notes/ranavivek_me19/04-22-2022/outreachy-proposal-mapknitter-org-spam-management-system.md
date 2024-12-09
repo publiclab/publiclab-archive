@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: MapKnitter.org Spam Management system
+title: 'Outreachy proposal: MapKnitter.org Spam Management system'
 tagnames: mapknitter, software, outreachy, first-time-poster, lat:12.971598, lon:77.594562, zoom:6, outreachy-2022, outreachy-summer-2022, newauthor
 author: ranavivek_me19
 path: /notes/ranavivek_me19/04-22-2022/outreachy-proposal-mapknitter-org-spam-management-system.md

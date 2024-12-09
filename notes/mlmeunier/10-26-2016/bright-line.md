@@ -1,5 +1,5 @@
 ---
-title: Bright line 
+title: 'Bright line '
 tagnames: 
 author: mlmeunier
 path: /notes/mlmeunier/10-26-2016/bright-line.md

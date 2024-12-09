@@ -1,5 +1,5 @@
 ---
-title: Avocado tree
+title: 'Avocado tree'
 tagnames: infragram, first-time-poster, zoom:6, infragram-upload, lat:19.621892, lon:99.777832
 author: konancyber
 path: /notes/konancyber/02-22-2020/avocado-tree.md

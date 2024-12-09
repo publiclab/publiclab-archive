@@ -1,5 +1,5 @@
 ---
-title: Moderate questions with machine learning.
+title: 'Moderate questions with machine learning.'
 tagnames: spam, machine, learning, question:website
 author: Aleksi12358
 path: /notes/Aleksi12358/07-08-2018/moderate-questions-with-machine-learning.md

@@ -1,5 +1,5 @@
 ---
-title: LA River: balloon mapping for community building
+title: 'LA River: balloon mapping for community building'
 tagnames: balloon-mapping, los-angeles, la, nela, elysian-valley, community-building
 author: mlamadrid
 path: /notes/mlamadrid/06-29-2014/la-river-balloon-mapping-for-community-building.md

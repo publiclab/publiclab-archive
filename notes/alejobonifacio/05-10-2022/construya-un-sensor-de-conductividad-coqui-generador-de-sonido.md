@@ -1,5 +1,5 @@
 ---
-title: Construya un sensor de conductividad Coqui generador de sonido
+title: 'Construya un sensor de conductividad Coqui generador de sonido'
 tagnames: water-quality-sensor, lang:es, coqui, activity:coqui, water-conductivity, zoom:7, lon:-64, lat:-31, agua, research-curation-fellows, calidad-de-agua
 author: alejobonifacio
 path: /notes/alejobonifacio/05-10-2022/construya-un-sensor-de-conductividad-coqui-generador-de-sonido.md

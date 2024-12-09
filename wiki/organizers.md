@@ -1,5 +1,5 @@
 ---
-title: Public Lab organizers
+title: 'Public Lab organizers'
 tagnames: community, organizers
 author: Shannon
 path: /wiki/organizers.md

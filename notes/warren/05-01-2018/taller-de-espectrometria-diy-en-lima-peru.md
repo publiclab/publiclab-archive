@@ -1,5 +1,5 @@
 ---
-title: Taller de espectrometría "DIY" en Lima, Peru
+title: 'Taller de espectrometría "DIY" en Lima, Peru'
 tagnames: peru, escuelab, lang:es, south-america
 author: warren
 path: /notes/warren/05-01-2018/taller-de-espectrometria-diy-en-lima-peru.md

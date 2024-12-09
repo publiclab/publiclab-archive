@@ -1,5 +1,5 @@
 ---
-title: Campus Point Russell
+title: 'Campus Point Russell'
 tagnames: mapknitter
 author: asac177
 path: /notes/asac177/05-14-2015/campus-point-russell.md

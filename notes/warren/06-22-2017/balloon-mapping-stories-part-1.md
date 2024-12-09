@@ -1,5 +1,5 @@
 ---
-title: Balloon and Kite Mapping Stories, Part 1
+title: 'Balloon and Kite Mapping Stories, Part 1'
 tagnames: balloon-mapping, kite-mapping, kickstarter, blog, aerial-mapping, stories, mini-kite-kit, mini-balloon-kit
 author: warren
 path: /notes/warren/06-22-2017/balloon-mapping-stories-part-1.md

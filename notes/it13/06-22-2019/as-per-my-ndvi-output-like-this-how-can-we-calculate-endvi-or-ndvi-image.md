@@ -1,5 +1,5 @@
 ---
-title: As per my ndvi output like this How can we calculate  endvi or ndvi image ?
+title: 'As per my ndvi output like this How can we calculate  endvi or ndvi image ?'
 tagnames: question:ndvi, first-time-poster
 author: it13
 path: /notes/it13/06-22-2019/as-per-my-ndvi-output-like-this-how-can-we-calculate-endvi-or-ndvi-image.md

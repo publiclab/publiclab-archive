@@ -1,5 +1,5 @@
 ---
-title: Flew iPhone/CHDK robust prototype, 2 cameras triggering
+title: 'Flew iPhone/CHDK robust prototype, 2 cameras triggering'
 tagnames: near-infrared-camera, triggering, chdk, balloon-telemetry-kit
 author: patcoyle
 path: /notes/patcoyle/5-27-2012/prototype-running-2-cameras-triggering-iphonechdk.md

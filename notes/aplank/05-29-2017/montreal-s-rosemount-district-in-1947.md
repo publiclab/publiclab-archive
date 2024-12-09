@@ -1,5 +1,5 @@
 ---
-title: Montreal's Rosemount district in 1947
+title: 'Montreal's Rosemount district in 1947'
 tagnames: mapknitter, aerial, lat:45.5543621308, lon:-73.594493866, montreal, rosemount, rosemont, 1947
 author: aplank
 path: /notes/aplank/05-29-2017/montreal-s-rosemount-district-in-1947.md

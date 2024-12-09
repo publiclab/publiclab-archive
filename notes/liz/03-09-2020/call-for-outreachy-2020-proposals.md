@@ -1,5 +1,5 @@
 ---
-title: Call for Outreachy 2020 proposals!
+title: 'Call for Outreachy 2020 proposals!'
 tagnames: with:warren, seeks:responses, call-for-proposals, with:bansal_sidharth2996, with:gauravano, zoom:13, lat:40.71, lon:-73.95, with:cess, with:emash
 author: liz
 path: /notes/liz/03-09-2020/call-for-outreachy-2020-proposals.md

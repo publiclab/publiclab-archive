@@ -1,5 +1,5 @@
 ---
-title: Questions about Plantower sensors from the University of Wisconsin - Eau Claire
+title: 'Questions about Plantower sensors from the University of Wisconsin - Eau Claire'
 tagnames: air-quality, question:air-monitoring, question:air-sensors, plantower, question:purpleair, first-time-poster, question:simple-air-sensor, simple-air-sensor
 author: OrionAllgaier
 path: /notes/OrionAllgaier/03-13-2019/questions-from-the-university-of-wisconsin-eau-claire.md

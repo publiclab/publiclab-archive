@@ -1,5 +1,5 @@
 ---
-title: Planning for Public Lab H2S screen Experiments-Equipment
+title: 'Planning for Public Lab H2S screen Experiments-Equipment'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s
 author: sara
 path: /notes/sara/4-2-2012/planning-public-lab-h2s-screen-experiments-equipment.md

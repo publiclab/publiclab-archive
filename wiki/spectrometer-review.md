@@ -1,5 +1,5 @@
 ---
-title: spectrometer review
+title: 'spectrometer review'
 tagnames: 
 author: gonzoearth
 path: /wiki/spectrometer-review.md

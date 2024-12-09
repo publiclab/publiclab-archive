@@ -1,5 +1,5 @@
 ---
-title: How do I make a video from a series of photos?
+title: 'How do I make a video from a series of photos?'
 tagnames: video, sand, leaffest, photo-monitoring, timelapse, mining, monitoring, answered, question:timelapse, trail-camera, question:photo-monitoring, trail-cam, photographic-evidence, photographic-monitoring, question:general, dune, response:13741, video-editing, question:photo-sharing
 author: warren
 path: /notes/warren/12-05-2016/how-do-i-make-a-video-from-a-series-of-photos.md

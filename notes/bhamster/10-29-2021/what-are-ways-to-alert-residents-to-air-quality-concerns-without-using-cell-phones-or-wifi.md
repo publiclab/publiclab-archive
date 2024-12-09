@@ -1,5 +1,5 @@
 ---
-title: What are ways to alert residents to air quality concerns without using cell phones or wifi?
+title: 'What are ways to alert residents to air quality concerns without using cell phones or wifi?'
 tagnames: air-quality, question:air-quality, presenting-data, question:presenting-data, air-quality-data, question:air-quality-data
 author: bhamster
 path: /notes/bhamster/10-29-2021/what-are-ways-to-alert-residents-to-air-quality-concerns-without-using-cell-phones-or-wifi.md

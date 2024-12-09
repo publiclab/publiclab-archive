@@ -1,5 +1,5 @@
 ---
-title: Beginning Senior Thesis
+title: 'Beginning Senior Thesis'
 tagnames: arduino, umass-amherst, raspberrypi, thesis, student, first-time-poster, zoom:9, lat:42.026853, lon:-71.218854
 author: ajguthrie99
 path: /notes/ajguthrie99/08-25-2020/beginning-senior-thesis.md

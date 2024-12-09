@@ -1,5 +1,5 @@
 ---
-title: Manoomin at Moss Lake, Minneosta
+title: 'Manoomin at Moss Lake, Minneosta'
 tagnames: minnesota, botany, zoom:11, wild-rice, mn-land-manoomin-protection, manoomin, wildrice, aquatic-species, mn, lat:47.316482, lon:-94.575805
 author: Giiwedin
 path: /notes/Giiwedin/08-09-2022/manoomin-at-moss-lake-minneosta.md

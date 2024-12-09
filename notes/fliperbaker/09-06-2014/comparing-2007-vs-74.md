@@ -1,5 +1,5 @@
 ---
-title: Comparing #2007 vs #74
+title: 'Comparing #2007 vs #74'
 tagnames: near-infrared-camera, ndvi, filter, infragram, 2007, 74, filter_compare, first-time-poster
 author: fliperbaker
 path: /notes/fliperbaker/09-06-2014/comparing-2007-vs-74.md

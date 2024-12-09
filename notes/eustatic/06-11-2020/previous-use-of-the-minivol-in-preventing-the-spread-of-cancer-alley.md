@@ -1,5 +1,5 @@
 ---
-title: Previous use of the MiniVol in preventing the spread of Cancer Alley
+title: 'Previous use of the MiniVol in preventing the spread of Cancer Alley'
 tagnames: air-quality, barnstar:watchdog, minivol, zoom:16, bucket-monitor, lat:29.622825, lon:-89.922173
 author: eustatic
 path: /06-11-2020/previous-use-of-the-minivol-in-preventing-the-spread-of-cancer-alley.md

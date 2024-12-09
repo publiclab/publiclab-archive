@@ -1,5 +1,5 @@
 ---
-title: Barnraising 2015
+title: 'Barnraising 2015'
 tagnames: barnraising, parent:barnraising, barnraising-2015
 author: liz
 path: /wiki/barnraising-2015.md

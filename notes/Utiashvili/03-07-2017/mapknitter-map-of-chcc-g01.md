@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of CHCC g01
+title: 'MapKnitter map of CHCC g01'
 tagnames: mapknitter, lat:40.79847547, lon:-77.83659853
 author: Utiashvili
 path: /notes/Utiashvili/03-07-2017/mapknitter-map-of-chcc-g01.md

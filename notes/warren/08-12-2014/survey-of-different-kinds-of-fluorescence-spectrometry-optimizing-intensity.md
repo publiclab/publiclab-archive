@@ -1,5 +1,5 @@
 ---
-title: Survey of different kinds of fluorescence spectrometry, optimizing intensity
+title: 'Survey of different kinds of fluorescence spectrometry, optimizing intensity'
 tagnames: spectrometer, fluorescence, pesticides, literature, response:8955, oil-testing-kit, intensity, lifs, sfs, response:10997
 author: warren
 path: /notes/warren/08-12-2014/survey-of-different-kinds-of-fluorescence-spectrometry-optimizing-intensity.md

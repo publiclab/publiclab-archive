@@ -1,5 +1,5 @@
 ---
-title: Sled kite video rig
+title: 'Sled kite video rig'
 tagnames: kite-mapping, michigan, sled-kite, sled
 author: jmgianca
 path: /notes/jmgianca/08-15-2013/sled-kite-video-rig.md

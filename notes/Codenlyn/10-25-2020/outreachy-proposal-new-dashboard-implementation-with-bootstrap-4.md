@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: New Dashboard Implementation with Bootstrap 4
+title: 'Outreachy proposal: New Dashboard Implementation with Bootstrap 4'
 tagnames: software, first-time-poster, zoom:7, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687, lat:6.533645, lon:3.339843
 author: Codenlyn
 path: /notes/Codenlyn/10-25-2020/outreachy-proposal-new-dashboard-implementation-with-bootstrap-4.md

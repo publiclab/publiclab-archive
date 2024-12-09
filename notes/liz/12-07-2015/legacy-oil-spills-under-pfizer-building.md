@@ -1,5 +1,5 @@
 ---
-title: Legacy oil spills under Pfizer building
+title: 'Legacy oil spills under Pfizer building'
 tagnames: new-york-city
 author: liz
 path: /notes/liz/12-07-2015/legacy-oil-spills-under-pfizer-building.md

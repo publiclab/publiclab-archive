@@ -1,5 +1,5 @@
 ---
-title: Testing if light leaks through the walls of the PL Spectrometer v3
+title: 'Testing if light leaks through the walls of the PL Spectrometer v3'
 tagnames: spectrometer, dsk3, leak, baseline, response:12047
 author: warren
 path: /notes/warren/07-13-2015/testing-if-light-leaks-through-the-walls-of-the-pl-spectrometer-v3.md

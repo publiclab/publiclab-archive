@@ -1,5 +1,5 @@
 ---
-title: Progress? Options...
+title: 'Progress? Options...'
 tagnames: research, environment, audio, question:arduino, question:autonomous-recording-unit
 author: bbran
 path: /notes/bbran/10-21-2016/progress-options.md

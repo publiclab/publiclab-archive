@@ -1,5 +1,5 @@
 ---
-title: Laser particulate sensor prototype test
+title: 'Laser particulate sensor prototype test'
 tagnames: particulate-sensing
 author: warren
 path: /notes/warren/5-16-2012/laser-particulate-sensor-prototype-test.md

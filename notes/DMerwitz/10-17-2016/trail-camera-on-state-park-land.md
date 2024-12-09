@@ -1,5 +1,5 @@
 ---
-title: Trail camera on State Park Land?
+title: 'Trail camera on State Park Land?'
 tagnames: park, timelapse, mining, trap-cam, question:timelapse, trail-camera, question:photo-monitoring, trail, cam, state, frack-sand, first-time-poster
 author: DMerwitz
 path: /notes/DMerwitz/10-17-2016/trail-camera-on-state-park-land.md

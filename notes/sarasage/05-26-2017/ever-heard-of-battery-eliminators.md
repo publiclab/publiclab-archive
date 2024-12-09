@@ -1,5 +1,5 @@
 ---
-title: Ever heard of battery eliminators? 
+title: 'Ever heard of battery eliminators? '
 tagnames: question:general
 author: sarasage
 path: /notes/sarasage/05-26-2017/ever-heard-of-battery-eliminators.md

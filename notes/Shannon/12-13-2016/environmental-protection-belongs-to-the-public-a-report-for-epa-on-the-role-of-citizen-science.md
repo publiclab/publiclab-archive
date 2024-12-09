@@ -1,5 +1,5 @@
 ---
-title: Environmental Protection Belongs to the Public: A report for EPA on the role of citizen science
+title: 'Environmental Protection Belongs to the Public: A report for EPA on the role of citizen science'
 tagnames: blog, report
 author: Shannon
 path: /notes/Shannon/12-13-2016/environmental-protection-belongs-to-the-public-a-report-for-epa-on-the-role-of-citizen-science.md

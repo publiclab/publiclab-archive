@@ -1,5 +1,5 @@
 ---
-title: Desktop Spectrometry Kit to arduino?
+title: 'Desktop Spectrometry Kit to arduino?'
 tagnames: arduino, spectrometry, ccd, question:spectrometry, question:dssk, question:arduino, question:spectrometry-challenge
 author: jjoll
 path: /notes/jjoll/06-28-2017/desktop-spectrometry-kit-to-arduino.md

@@ -1,5 +1,5 @@
 ---
-title: Seeking Technical Air Quality Fellow
+title: 'Seeking Technical Air Quality Fellow'
 tagnames: air-quality, monitoring, jobs, pm, fellows, technical, fellowship, particulate-matter, purpleair, purple-air, fellowship-team, st-james, fellowship-teams, with:travislondon, formosaplastics
 author: stevie
 path: /notes/stevie/10-19-2021/seeking-technical-air-quality-fellow.md

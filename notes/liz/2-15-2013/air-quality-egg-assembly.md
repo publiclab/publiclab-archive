@@ -1,5 +1,5 @@
 ---
-title: Air Quality Egg assembly
+title: 'Air Quality Egg assembly'
 tagnames: new-york-city, cypress-hills, chaq
 author: liz
 path: /notes/liz/2-15-2013/air-quality-egg-assembly.md

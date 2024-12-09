@@ -1,5 +1,5 @@
 ---
-title: Photo Monitoring Plugin For NDVI using ImageJ
+title: 'Photo Monitoring Plugin For NDVI using ImageJ'
 tagnames: ndvi, imagej, grassrootsmappingforum, with:nedhorning, style:fancy, gmf-9
 author: mlamadrid
 path: /notes/mlamadrid/12-08-2015/photo-monitoring-plugin-for-ndvi-using-imagej.md

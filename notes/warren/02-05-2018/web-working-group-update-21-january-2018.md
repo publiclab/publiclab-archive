@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Update 21: January 2018
+title: 'Web Working Group Update 21: January 2018'
 tagnames: web-development, software, plots2, gsoc, developers, code, wwg, webwg, onboarding, first-timers-only, software-outreach, rgsoc, soc, soc-2017, wwg-update, response:14817
 author: warren
 path: /notes/warren/02-05-2018/web-working-group-update-21-january-2018.md

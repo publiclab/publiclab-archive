@@ -1,5 +1,5 @@
 ---
-title: infragram-press
+title: 'infragram-press'
 tagnames: 
 author: liz
 path: /wiki/infragram-press.md

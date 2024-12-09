@@ -1,5 +1,5 @@
 ---
-title: FLUORESCENCE OF 87 OCTANE GASOLINE
+title: 'FLUORESCENCE OF 87 OCTANE GASOLINE'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/01-16-2016/fluorescence-of-87-octane-gasoline.md

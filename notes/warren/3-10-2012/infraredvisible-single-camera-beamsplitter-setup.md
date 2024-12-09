@@ -1,5 +1,5 @@
 ---
-title: Infrared/visible single camera with beamsplitter: setup
+title: 'Infrared/visible single camera with beamsplitter: setup'
 tagnames: near-infrared-camera
 author: warren
 path: /notes/warren/3-10-2012/infraredvisible-single-camera-beamsplitter-setup.md

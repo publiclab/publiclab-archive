@@ -1,5 +1,5 @@
 ---
-title: Youth Balloon Mapping Workshop (second draft)
+title: 'Youth Balloon Mapping Workshop (second draft)'
 tagnames: balloon-mapping, education, curriculum, youth, chicago
 author: mjain26
 path: /notes/mjain26/07-01-2014/youth-balloon-mapping-workshop-second-draft.md

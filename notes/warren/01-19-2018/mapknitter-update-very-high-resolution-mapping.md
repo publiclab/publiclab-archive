@@ -1,5 +1,5 @@
 ---
-title: MapKnitter update: very high resolution mapping
+title: 'MapKnitter update: very high resolution mapping'
 tagnames: balloon-mapping, kite-mapping, mapknitter, aerial-photography, software, blog, leaflet, upgrades, stitching, updates, leaflet-distortable-image, map-stitching, garden-mapping, gardens
 author: warren
 path: /notes/warren/01-19-2018/mapknitter-update-very-high-resolution-mapping.md

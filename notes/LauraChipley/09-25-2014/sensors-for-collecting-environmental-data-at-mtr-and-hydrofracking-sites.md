@@ -1,5 +1,5 @@
 ---
-title: Sensors for collecting environmental data at MTR and hydrofracking sites?
+title: 'Sensors for collecting environmental data at MTR and hydrofracking sites?'
 tagnames: west-virginia, fracking, amp, mtr, hydrofracking, appalachian-mountaintop-patrol, first-time-poster
 author: LauraChipley
 path: /notes/LauraChipley/09-25-2014/sensors-for-collecting-environmental-data-at-mtr-and-hydrofracking-sites.md

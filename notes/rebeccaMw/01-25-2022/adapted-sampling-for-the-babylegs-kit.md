@@ -1,5 +1,5 @@
 ---
-title: Adapted sampling for the Babylegs Kit
+title: 'Adapted sampling for the Babylegs Kit'
 tagnames: education, water-quality, seeks:responses, microplastics, babylegs, plankton
 author: rebeccaMw
 path: /notes/rebeccaMw/01-25-2022/adapted-sampling-for-the-babylegs-kit.md

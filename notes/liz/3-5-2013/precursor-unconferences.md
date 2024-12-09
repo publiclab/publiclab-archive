@@ -1,5 +1,5 @@
 ---
-title: precursor to "unconferences"
+title: 'precursor to "unconferences"'
 tagnames: barnraising, 5bf, five-borough-farm, open-space-technology
 author: liz
 path: /notes/liz/3-5-2013/precursor-unconferences.md

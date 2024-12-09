@@ -1,5 +1,5 @@
 ---
-title: Sustaining Member gear launches with full color decal!
+title: 'Sustaining Member gear launches with full color decal!'
 tagnames: donation, sustaining-members
 author: Becki
 path: /notes/Becki/09-25-2014/sustaining-member-gear-launches-with-full-color-decal.md

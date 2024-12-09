@@ -1,5 +1,5 @@
 ---
-title: Ignite Philly Talk on Balloon Mapping 
+title: 'Ignite Philly Talk on Balloon Mapping '
 tagnames: balloon-mapping, philadelphia
 author: manetomapping
 path: /notes/manetomapping/10-16-2014/ignite-philly-talk-on-balloon-mapping.md

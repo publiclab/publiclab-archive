@@ -1,5 +1,5 @@
 ---
-title: DIY injection device for chemical reaction kinetics.
+title: 'DIY injection device for chemical reaction kinetics.'
 tagnames: hardware, enzyme-kinetics, chemical-kinetics, reaction-mechanisms, lab-instruments
 author: JSummers
 path: /notes/JSummers/12-31-2018/diy-injection-device-for-chemical-reaction-kinetics.md

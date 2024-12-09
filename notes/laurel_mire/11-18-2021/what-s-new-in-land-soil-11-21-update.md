@@ -1,5 +1,5 @@
 ---
-title: What's New in Land & Soil (11/21 Update)
+title: 'What's New in Land & Soil (11/21 Update)'
 tagnames: soil, land-use, research-curation-fellows
 author: laurel_mire
 path: /notes/laurel_mire/11-18-2021/what-s-new-in-land-soil-11-21-update.md

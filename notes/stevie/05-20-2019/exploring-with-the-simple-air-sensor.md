@@ -1,5 +1,5 @@
 ---
-title: Exploring with the Simple Air Sensor
+title: 'Exploring with the Simple Air Sensor'
 tagnames: sensors, pm, barnstar:basic, sensor, category:test-limits, time:1h, particulate-matter, simple-air-sensor, activity:simple-air-sensor
 author: stevie
 path: /notes/stevie/05-20-2019/exploring-with-the-simple-air-sensor.md

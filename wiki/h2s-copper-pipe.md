@@ -1,5 +1,5 @@
 ---
-title: h2s-copper-pipe
+title: 'h2s-copper-pipe'
 tagnames: redirect:15067
 author: warren
 path: /wiki/h2s-copper-pipe.md

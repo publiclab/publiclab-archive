@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Helium 50/50 mix 
+title: 'Hydrogen Helium 50/50 mix '
 tagnames: spectrometer, hydrogen, spectrometry, helium, hidden:response, foldable-spec, replication:15121, first-time-poster
 author: Amtwynn
 path: /notes/Amtwynn/10-26-2017/hydrogen-helium-50-50-mix.md

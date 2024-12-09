@@ -1,5 +1,5 @@
 ---
-title: Air-testing hamster ball progress
+title: 'Air-testing hamster ball progress'
 tagnames: hamster-ball, air-quality, openlux, roomba, hamster, lego, response:710, air-sensors
 author: warren
 path: /notes/warren/2-6-2012/air-testing-hamster-ball-progress.md

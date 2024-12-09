@@ -1,5 +1,5 @@
 ---
-title: Statistics for Action Air Quality Guide
+title: 'Statistics for Action Air Quality Guide'
 tagnames: particulate-sensing, pesticides, air-quality, data, formaldehyde, bucket-brigade, particulate-monitoring, about, community-organizing, air-sampling, pesticide-exposure, lon:-71, lat:42, zoom:6, bucket-monitor, statistics-for-action
 author: kgradow1
 path: /notes/kgradow1/10-30-2020/statistics-for-action-air-quality-guide.md

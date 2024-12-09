@@ -1,5 +1,5 @@
 ---
-title: Barnstars
+title: 'Barnstars'
 tagnames: community, barnraising, barnstars, ceiling-lights
 author: liz
 path: /wiki/barnstars.md

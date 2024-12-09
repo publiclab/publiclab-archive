@@ -1,5 +1,5 @@
 ---
-title: Yellow Bar Island Habitat Creation
+title: 'Yellow Bar Island Habitat Creation'
 tagnames: new-york-city, wetlands, annotated-maps, yellow-bar-island, grassroots-mapping, gwirth, army-corps-of-engineers, habitat-creation, jamaica-bay, lat:40.605663, lon:-73.871309, place:yellow-bar-jamaica-bay-ny
 author: gwirth
 path: /notes/gwirth/10-13-2012/yellow-bar-island-habitat-creation.md

@@ -1,5 +1,5 @@
 ---
-title: balloon improvement ideas
+title: 'balloon improvement ideas'
 tagnames: balloon-mapping
 author: Larzag
 path: /notes/larzag/8-2-2012/balloon-improvement-ideas.md

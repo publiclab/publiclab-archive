@@ -1,5 +1,5 @@
 ---
-title: UV-Visible spectral features of Benzine and some PAHs
+title: 'UV-Visible spectral features of Benzine and some PAHs'
 tagnames: spectrometer, uv, pah, benzene, uv-imaging
 author: warren
 path: /notes/warren/8-5-2011/uv-visible-spectral-features-benzine-and-some-pahs.md

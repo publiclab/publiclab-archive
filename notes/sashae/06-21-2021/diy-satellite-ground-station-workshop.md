@@ -1,5 +1,5 @@
 ---
-title: DIY Satellite Ground Station Workshop 
+title: 'DIY Satellite Ground Station Workshop '
 tagnames: diy-satellite, eu, denmark, open-weather, with:sophied
 author: sashae
 path: /notes/sashae/06-21-2021/diy-satellite-ground-station-workshop.md

@@ -1,5 +1,5 @@
 ---
-title: Bayou Bienvenue Mapping! 
+title: 'Bayou Bienvenue Mapping! '
 tagnames: gulf-coast, balloon-mapping, event, balloon, pole, pole-mapping, event:rsvp, date:05-23-2015, rsvp:tippelskirchi, rsvp:lexispraxis, replication:14022
 author: stevie
 path: /notes/stevie/05-12-2015/bayou-bienvenue-mapping.md

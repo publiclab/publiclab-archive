@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Curriculum
+title: 'Spectrometer Curriculum'
 tagnames: spectrometer, education, curriculum, first-time-poster
 author: PeterDavidowicz
 path: /notes/PeterDavidowicz/07-15-2013/spectrometer-curriculum.md

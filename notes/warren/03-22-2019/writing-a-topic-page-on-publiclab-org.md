@@ -1,5 +1,5 @@
 ---
-title: Writing a topic page on PublicLab.org
+title: 'Writing a topic page on PublicLab.org'
 tagnames: website, guides, how-to, activities, authoring-help, topics, with:a1ahna, topic-pages, activity:website, with:bhamster
 author: warren
 path: /notes/warren/03-22-2019/writing-a-topic-page-on-publiclab-org.md

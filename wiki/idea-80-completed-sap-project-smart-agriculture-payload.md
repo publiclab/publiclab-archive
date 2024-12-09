@@ -1,5 +1,5 @@
 ---
-title: Idea:80%COMPLETED-SAP project (Smart Agriculture Payload)
+title: 'Idea:80%COMPLETED-SAP project (Smart Agriculture Payload)'
 tagnames: near-infrared-camera, ndvi, farming, agriculture, organic-agriculture, near-infrared, near-ir, robot, nutrient-density, smart
 author: Mohamed
 path: /wiki/idea-80-completed-sap-project-smart-agriculture-payload.md

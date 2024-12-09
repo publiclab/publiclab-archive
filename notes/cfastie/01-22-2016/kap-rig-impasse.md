@@ -1,5 +1,5 @@
 ---
-title: KAP rig impasse
+title: 'KAP rig impasse'
 tagnames: kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, response:12524, activity:photo-rig
 author: cfastie
 path: /notes/cfastie/01-22-2016/kap-rig-impasse.md

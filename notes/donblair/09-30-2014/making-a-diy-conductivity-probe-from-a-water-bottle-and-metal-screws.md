@@ -1,5 +1,5 @@
 ---
-title: Making a DIY conductivity probe from a water bottle and metal screws
+title: 'Making a DIY conductivity probe from a water bottle and metal screws'
 tagnames: water-quality, tutorial, coqui, difficulty:easy, category:build, time:1h, status:draft, activity:coqui-mods
 author: donblair
 path: /notes/donblair/09-30-2014/making-a-diy-conductivity-probe-from-a-water-bottle-and-metal-screws.md

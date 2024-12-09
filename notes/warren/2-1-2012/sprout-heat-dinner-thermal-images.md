@@ -1,5 +1,5 @@
 ---
-title: Sprout HEAT dinner thermal images
+title: 'Sprout HEAT dinner thermal images'
 tagnames: 
 author: warren
 path: /notes/warren/2-1-2012/sprout-heat-dinner-thermal-images.md

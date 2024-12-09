@@ -1,5 +1,5 @@
 ---
-title: Spectrum of a star
+title: 'Spectrum of a star'
 tagnames: 
 author: Jacques
 path: /notes/Jacques/10-06-2016/spectrum-of-a-star.md

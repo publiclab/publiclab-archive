@@ -1,5 +1,5 @@
 ---
-title: RGSoC proposal : Pollution tracker
+title: 'RGSoC proposal : Pollution tracker'
 tagnames: safety, health, improvements, pollution, environment, communityengagement, airpollution, soc, personal-information, public-awareness, soc-2018, user-experience, rgsoc-2018, soc-2018-proposals
 author: evjam
 path: /notes/evjam/03-01-2018/pollution-tracker.md

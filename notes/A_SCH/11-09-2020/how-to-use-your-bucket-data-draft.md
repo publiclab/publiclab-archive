@@ -1,5 +1,5 @@
 ---
-title: How to Use Your Bucket Data
+title: 'How to Use Your Bucket Data'
 tagnames: air-quality, bucket-brigade, with:kgradow1, advocacy, community-organizing, activity:community-organizing, bucket-monitor, activity:bucket-monitor, activity:advocacy
 author: A_SCH
 path: /notes/A_SCH/11-09-2020/how-to-use-your-bucket-data-draft.md

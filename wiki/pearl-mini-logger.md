@@ -1,5 +1,5 @@
 ---
-title: pearl-mini-logger
+title: 'pearl-mini-logger'
 tagnames: redirect:14794
 author: warren
 path: /wiki/pearl-mini-logger.md

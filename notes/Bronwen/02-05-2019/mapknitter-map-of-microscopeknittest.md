@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of MicroscopeKnitTest
+title: 'MapKnitter map of MicroscopeKnitTest'
 tagnames: mapknitter, microscope, activity:community-microscope, community-microscope, activity:mapknitter, lat:40.6548025157, lon:-73.9697999822, microorganism, lat:40.678178, lon:-73.944157
 author: Bronwen
 path: /notes/Bronwen/02-05-2019/mapknitter-map-of-microscopeknittest.md

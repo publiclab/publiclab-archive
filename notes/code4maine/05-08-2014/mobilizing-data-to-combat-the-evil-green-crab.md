@@ -1,5 +1,5 @@
 ---
-title: Mobilizing Data to Combat the Evil Green Crab
+title: 'Mobilizing Data to Combat the Evil Green Crab'
 tagnames: grassrootsmapping, citizen-science, maine, invasives, invasive-species, civic-hacking, northeast
 author: ajawitz
 path: /notes/code4maine/05-08-2014/mobilizing-data-to-combat-the-evil-green-crab.md

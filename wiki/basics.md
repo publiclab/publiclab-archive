@@ -1,5 +1,5 @@
 ---
-title: Public Lab Basics
+title: 'Public Lab Basics'
 tagnames: community, faq, getting-started, style:minimal, questions, basics, parent:welcome
 author: warren
 path: /wiki/basics.md

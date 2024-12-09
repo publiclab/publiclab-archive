@@ -1,5 +1,5 @@
 ---
-title: GSOC-18 Email notification overhaul.
+title: 'GSOC-18 Email notification overhaul.'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-email, gsoc-2018-final, first-time-poster
 author: vidit
 path: /notes/vidit/02-16-2018/gsoc-18-email-notification-overhaul.md

@@ -1,5 +1,5 @@
 ---
-title: Sky Cam Enhancement; In-App User guide + App icon added
+title: 'Sky Cam Enhancement; In-App User guide + App icon added'
 tagnames: gsoc, skycam, gsoc-2014, sky-cam, sky-camera
 author: mercyorangi
 path: /notes/mercyorangi/08-10-2014/sky-cam-enhancement-user-guide-app-icon-added.md

@@ -1,5 +1,5 @@
 ---
-title: nitrates
+title: 'nitrates'
 tagnames: redirect:nitrogen
 author: warren
 path: /wiki/nitrates.md

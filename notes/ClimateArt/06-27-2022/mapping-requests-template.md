@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping workshop for a street festival in London
+title: 'Balloon mapping workshop for a street festival in London'
 tagnames: balloon-mapping, london, aerial-photography, workshop, request, eu, question:aerial-photography, request:aerial-photography, requests, activity:requests, first-time-poster, zoom:6, with:username, request:general, lat:51.530995, lon:-0.131504
 author: ClimateArt
 path: /notes/ClimateArt/06-27-2022/mapping-requests-template.md

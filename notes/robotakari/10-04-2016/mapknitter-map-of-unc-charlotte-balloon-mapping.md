@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNC Charlotte Balloon Mapping
+title: 'MapKnitter map of UNC Charlotte Balloon Mapping'
 tagnames: 
 author: robotakari
 path: /notes/robotakari/10-04-2016/mapknitter-map-of-unc-charlotte-balloon-mapping.md

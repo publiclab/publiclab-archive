@@ -1,5 +1,5 @@
 ---
-title: Planning Jamaica Bay mapping sites
+title: 'Planning Jamaica Bay mapping sites'
 tagnames: new-york-city, wetlands, jamaica-bay, dead-horse-bay, location:blurred, place:rulers-bar-jamaica-bay, lat:40.6, lon:-73.8, place:jamaica-bay, idelwild-marsh, four-sparrows-marsh, spring-creek
 author: liz
 path: /notes/liz/05-06-2014/planning-jamaica-bay-mapping-sites.md

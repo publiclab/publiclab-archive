@@ -1,5 +1,5 @@
 ---
-title: New servers for a long-term PLOTS data archive
+title: 'New servers for a long-term PLOTS data archive'
 tagnames: website, archive, webworkinggroup
 author: warren
 path: /notes/warren/9-10-2012/new-servers-long-term-plots-data-archive.md

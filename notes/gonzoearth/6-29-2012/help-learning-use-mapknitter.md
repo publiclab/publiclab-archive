@@ -1,5 +1,5 @@
 ---
-title: Help learning to use MapKnitter
+title: 'Help learning to use MapKnitter'
 tagnames: balloon-mapping, kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/6-29-2012/help-learning-use-mapknitter.md

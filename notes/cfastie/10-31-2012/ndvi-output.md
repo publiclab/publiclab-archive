@@ -1,5 +1,5 @@
 ---
-title: NDVI output
+title: 'NDVI output'
 tagnames: balloon-mapping, near-infrared-camera, ndvi, imagej, gigapan
 author: cfastie
 path: /notes/cfastie/10-31-2012/ndvi-output.md

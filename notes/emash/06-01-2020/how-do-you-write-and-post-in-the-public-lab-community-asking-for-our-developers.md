@@ -1,5 +1,5 @@
 ---
-title: How do you write and post in the public lab community? Asking for our developers!
+title: 'How do you write and post in the public lab community? Asking for our developers!'
 tagnames: website, question:website, general
 author: emash
 path: /notes/emash/06-01-2020/how-do-you-write-and-post-in-the-public-lab-community-asking-for-our-developers.md

@@ -1,5 +1,5 @@
 ---
-title: Event sorting images from Harvey 
+title: 'Event sorting images from Harvey '
 tagnames: gulf-coast, oil-spill, satellite-images, mapping, event, new-orleans, pollution, hurricane, texas, nas, disaster-response, harvey, nola, houston
 author: stevie
 path: /notes/stevie/10-10-2017/event-sorting-images-from-harvey.md

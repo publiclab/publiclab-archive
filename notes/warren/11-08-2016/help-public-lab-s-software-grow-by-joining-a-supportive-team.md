@@ -1,5 +1,5 @@
 ---
-title: Help Public Lab’s software grow by joining a supportive team
+title: 'Help Public Lab’s software grow by joining a supportive team'
 tagnames: software, gsoc, web, coding, github, wwg, activity:software, software-outreach, 1234, mentoring, activity:soc, activity:software-outreach, series:software-outreach
 author: warren
 path: /notes/warren/11-08-2016/help-public-lab-s-software-grow-by-joining-a-supportive-team.md

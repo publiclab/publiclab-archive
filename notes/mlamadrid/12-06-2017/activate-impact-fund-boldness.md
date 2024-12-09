@@ -1,5 +1,5 @@
 ---
-title: Activate impact: fund boldness
+title: 'Activate impact: fund boldness'
 tagnames: epa, landscape, governance, department-of-justice, environmental-advocates, 11th-hour
 author: mlamadrid
 path: /notes/mlamadrid/12-06-2017/activate-impact-fund-boldness.md

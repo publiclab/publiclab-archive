@@ -1,5 +1,5 @@
 ---
-title: Rainbow 
+title: 'Rainbow '
 tagnames: hidden:response, replication:15121, response:17384
 author: agcarter
 path: /notes/agcarter/10-24-2018/rainbow.md

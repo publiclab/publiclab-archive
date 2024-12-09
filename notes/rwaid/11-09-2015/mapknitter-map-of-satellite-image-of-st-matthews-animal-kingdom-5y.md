@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Satellite Image of St.Matthews- Animal Kingdom 5Y  
+title: 'MapKnitter map of Satellite Image of St.Matthews- Animal Kingdom 5Y  '
 tagnames: mapknitter, lat:34.0534283242, lon:-118.5414934158
 author: rwaid
 path: /notes/rwaid/11-09-2015/mapknitter-map-of-satellite-image-of-st-matthews-animal-kingdom-5y.md

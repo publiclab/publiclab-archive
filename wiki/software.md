@@ -1,5 +1,5 @@
 ---
-title: Software
+title: 'Software'
 tagnames: mapknitter, spectralworkbench, software, plots2, infragram, web, code, coding, parent:developers
 author: warren
 path: /wiki/software.md

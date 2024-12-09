@@ -1,5 +1,5 @@
 ---
-title: Upcoming OpenHour on Particulate Matter Monitoring 
+title: 'Upcoming OpenHour on Particulate Matter Monitoring '
 tagnames: event, air-quality, pm, openhour, oil-and-gas, particulate-matter, lat:29, lon:-90, zoom:6, date:03-02-2020
 author: stevie
 path: /notes/stevie/02-13-2020/upcoming-openhour-on-particulate-matter-monitoring.md

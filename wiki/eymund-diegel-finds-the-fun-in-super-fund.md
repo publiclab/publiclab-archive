@@ -1,5 +1,5 @@
 ---
-title: Eymund Diegel finds the fun in Super Fund
+title: 'Eymund Diegel finds the fun in Super Fund'
 tagnames: new-york-city, gowanus, gowanus-canal, gowanus-canal-superfund-site, grassrootsmappingforum, glam, northeast, with:shannon, style:fancy, with:eymund, gmf-4
 author: mollydanielsson
 path: /wiki/eymund-diegel-finds-the-fun-in-super-fund.md

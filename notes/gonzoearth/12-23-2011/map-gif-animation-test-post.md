@@ -1,5 +1,5 @@
 ---
-title: Map gif animation test post
+title: 'Map gif animation test post'
 tagnames: gulf-coast, barataria-bay, mapknitter, barataria, animation, timeseries
 author: gonzoearth
 path: /notes/gonzoearth/12-23-2011/map-gif-animation-test-post.md

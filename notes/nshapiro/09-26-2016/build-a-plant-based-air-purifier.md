@@ -1,5 +1,5 @@
 ---
-title: Build a plant-based air purifier 
+title: 'Build a plant-based air purifier '
 tagnames: remediation, air-quality, barnstar:basic, formaldehyde, open-air, filters, indoor-air-quality, indoor-air, pick, current, difficulty:easy, seeks:replications, time:3h, category:build, status:in-progress, vocs, activity:open-air, activity:formaldehyde, activity:indoor-air-remediation, plant-air-purifier-prototypes, activity:filters
 author: nshapiro
 path: /notes/nshapiro/09-26-2016/build-a-plant-based-air-purifier.md

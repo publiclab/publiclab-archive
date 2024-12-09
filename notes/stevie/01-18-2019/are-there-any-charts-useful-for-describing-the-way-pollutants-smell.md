@@ -1,5 +1,5 @@
 ---
-title: Are there any charts useful for describing the way pollutants smell?
+title: 'Are there any charts useful for describing the way pollutants smell?'
 tagnames: chart, question:question, odor, smell, pollutant
 author: stevie
 path: /notes/stevie/01-18-2019/are-there-any-charts-useful-for-describing-the-way-pollutants-smell.md

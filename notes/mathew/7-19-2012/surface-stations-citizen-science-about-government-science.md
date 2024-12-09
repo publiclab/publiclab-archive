@@ -1,5 +1,5 @@
 ---
-title: Surface Stations: Citizen Science about Government Science
+title: 'Surface Stations: Citizen Science about Government Science'
 tagnames: air-column-monitor
 author: mathew
 path: /notes/mathew/7-19-2012/surface-stations-citizen-science-about-government-science.md

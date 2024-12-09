@@ -1,5 +1,5 @@
 ---
-title: Report: Particle Visualization Event
+title: 'Report: Particle Visualization Event'
 tagnames: wisconsin, air-quality, frac-sand, pm, midwest, particle-monitoring, with:warren, fracsand, microscope, passive-particle-monitors, parent:frac-sand, with:pat, basic-microscope, with:dswenson
 author: stevie
 path: /notes/stevie/03-12-2018/report-particle-visualization-event.md

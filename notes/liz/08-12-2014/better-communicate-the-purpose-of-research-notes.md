@@ -1,5 +1,5 @@
 ---
-title: Better communicate the purpose of research notes
+title: 'Better communicate the purpose of research notes'
 tagnames: collaboration, community, research, analog, with:warren, with:stevie, publishing, paper, ui
 author: liz
 path: /notes/liz/08-12-2014/better-communicate-the-purpose-of-research-notes.md

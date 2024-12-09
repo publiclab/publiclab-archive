@@ -1,5 +1,5 @@
 ---
-title: what are technical solution on crowd photo monitoring for environmental pollution? We want to set up photo monitoring for Air pollution, apps could adjust with previous photo or view angle. 
+title: 'what are technical solution on crowd photo monitoring for environmental pollution? We want to set up photo monitoring for Air pollution, apps could adjust with previous photo or view angle. '
 tagnames: question:general, first-time-poster
 author: erdenetsogt_s
 path: /notes/erdenetsogt_s/10-04-2019/what-are-technical-solution-on-crowd-photo-monitoring-for-environmental-pollution-we-want-to-set-up-photo-monitoring-for-air-pollution-apps-could-adjust-with-previous-photo-or-view-angle.md

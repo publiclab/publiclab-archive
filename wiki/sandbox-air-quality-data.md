@@ -1,5 +1,5 @@
 ---
-title: sandbox-air-quality-data
+title: 'sandbox-air-quality-data'
 tagnames: 
 author: bhamster
 path: /wiki/sandbox-air-quality-data.md

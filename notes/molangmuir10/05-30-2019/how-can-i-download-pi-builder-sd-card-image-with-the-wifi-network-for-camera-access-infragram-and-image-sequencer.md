@@ -1,5 +1,5 @@
 ---
-title: How can I download pi-builder SD card image with the WIFI network for camera access, Infragram and Image Sequencer?
+title: 'How can I download pi-builder SD card image with the WIFI network for camera access, Infragram and Image Sequencer?'
 tagnames: pi-builder, question:pi-builder
 author: molangmuir10
 path: /notes/molangmuir10/05-30-2019/how-can-i-download-pi-builder-sd-card-image-with-the-wifi-network-for-camera-access-infragram-and-image-sequencer.md

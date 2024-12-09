@@ -1,5 +1,5 @@
 ---
-title: Sustaining Member t-shirts are in!
+title: 'Sustaining Member t-shirts are in!'
 tagnames: sustaining-members
 author: Becki
 path: /notes/Becki/11-25-2014/sustaining-member-t-shirts-are-in.md

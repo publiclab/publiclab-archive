@@ -1,5 +1,5 @@
 ---
-title: What are the advantages to using 2 particle sensors at the same time?
+title: 'What are the advantages to using 2 particle sensors at the same time?'
 tagnames: calibration, air-quality, air, dust, pm, particulate-matter, purpleair, plantower, question:purpleair, question:simple-air-sensor, simple-air-sensor, question:plantower, validity
 author: warren
 path: /notes/warren/04-18-2019/what-are-the-advantages-to-using-2-particle-sensors-at-the-same-time.md

@@ -1,5 +1,5 @@
 ---
-title: What are examples of "real-life", immersive experiences that help people understand pollution?
+title: 'What are examples of "real-life", immersive experiences that help people understand pollution?'
 tagnames: air-quality, data, art, question:general, general, data-visualization, artivism, research-curation-fellows, presenting-data, question:presenting-data, air-quality-data, question:air-quality-data, question:data-visualization, data-advocacy
 author: fongvania
 path: /notes/fongvania/11-04-2021/what-are-examples-of-real-life-immersive-experiences-that-help-people-understand-pollution.md

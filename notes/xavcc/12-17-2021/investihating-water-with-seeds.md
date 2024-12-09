@@ -1,5 +1,5 @@
 ---
-title: Investigating Water with Seeds
+title: 'Investigating Water with Seeds'
 tagnames: water-quality, bioassay, first-time-poster, zoom:6, lat:48.117266, lon:-1.677792
 author: xavcc
 path: /notes/xavcc/12-17-2021/investihating-water-with-seeds.md

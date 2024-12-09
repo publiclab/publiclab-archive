@@ -1,5 +1,5 @@
 ---
-title: bucket-brigade
+title: 'bucket-brigade'
 tagnames: 
 author: amocorro
 path: /wiki/bucket-brigade.md

@@ -1,5 +1,5 @@
 ---
-title: Update from the Board of Directors
+title: 'Update from the Board of Directors'
 tagnames: education, barnraising, organizing, air, blog, water, land
 author: jmacha
 path: /notes/jmacha/04-14-2023/update-from-the-board-of-directors.md

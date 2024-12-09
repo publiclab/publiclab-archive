@@ -1,5 +1,5 @@
 ---
-title: Taller de investigación fluvial DIY
+title: 'Taller de investigación fluvial DIY'
 tagnames: spain, workshop, event, events:spain, lang:es, open-water, event:rsvp, spanish, date:03-31-2018, lat:41.508577, lon:1.691894, place:ca-la-fou
 author: imvec
 path: /notes/imvec/02-11-2018/taller-de-investigacion-fluvial-diy.md

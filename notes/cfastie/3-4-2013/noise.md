@@ -1,5 +1,5 @@
 ---
-title: Noise
+title: 'Noise'
 tagnames: spectrometer, vermont, analysis, ebert, absorption, sky, fraunhofer
 author: cfastie
 path: /notes/cfastie/3-4-2013/noise.md

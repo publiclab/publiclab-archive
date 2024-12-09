@@ -1,5 +1,5 @@
 ---
-title: Silvopasture
+title: 'Silvopasture'
 tagnames: near-infrared-camera, kite-mapping, nrg, ndvi, vermont, infrared, new-hampshire, farmhack, imagej, agriculture, event, infragram, ifarm, infrablue, gigapan, ifarm2013
 author: cfastie
 path: /notes/cfastie/5-25-2013/silvopasture.md

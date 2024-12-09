@@ -1,5 +1,5 @@
 ---
-title: dronecopter vs kite evaluation: Bayou St John June 5th 2016
+title: 'dronecopter vs kite evaluation: Bayou St John June 5th 2016'
 tagnames: gulf-coast, kite-mapping, bsj
 author: eustatic
 path: /06-06-2016/dronecopter-vs-kite-evaluation-bayou-st-john-june-5th-2016.md

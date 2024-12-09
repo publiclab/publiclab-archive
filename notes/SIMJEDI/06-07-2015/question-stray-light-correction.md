@@ -1,5 +1,5 @@
 ---
-title: Question: Stray light correction
+title: 'Question: Stray light correction'
 tagnames: question:spectrometer, question:spectral-workbench
 author: SIMJEDI
 path: /notes/SIMJEDI/06-07-2015/question-stray-light-correction.md

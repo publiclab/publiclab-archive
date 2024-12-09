@@ -1,5 +1,5 @@
 ---
-title: Question: Colorimetry using the desktop spectrometer
+title: 'Question: Colorimetry using the desktop spectrometer'
 tagnames: question:spectral-workbench
 author: mattiecaroline1991
 path: /notes/mattiecaroline1991/06-03-2015/question-colorimetry-using-the-desktop-spectrometer.md

@@ -1,5 +1,5 @@
 ---
-title: Planning for Spectral Workbench 2.0
+title: 'Planning for Spectral Workbench 2.0'
 tagnames: spectrometer, spectral-workbench, oil-testing-kit
 author: warren
 path: /notes/warren/02-10-2015/planning-for-spectral-workbench-2-0.md

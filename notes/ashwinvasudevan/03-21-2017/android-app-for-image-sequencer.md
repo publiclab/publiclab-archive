@@ -1,5 +1,5 @@
 ---
-title: Android app for Image sequencer
+title: 'Android app for Image sequencer'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
 author: ashwinvasudevan
 path: /notes/ashwinvasudevan/03-21-2017/android-app-for-image-sequencer.md

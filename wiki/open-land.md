@@ -1,5 +1,5 @@
 ---
-title: Open Land
+title: 'Open Land'
 tagnames: wetlands, farmhack, wetland, soil, garden, photosynq, soil-testing
 author: liz
 path: /wiki/open-land.md

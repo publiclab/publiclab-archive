@@ -1,5 +1,5 @@
 ---
-title: The many types of evidence
+title: 'The many types of evidence'
 tagnames: evidence, timelapse, legal, with:gretchengehrke, evidence-project, proof, response:13365, spreadsheets, series:evidence-project, law-and-policy
 author: warren
 path: /notes/warren/09-08-2016/the-many-types-of-evidence.md

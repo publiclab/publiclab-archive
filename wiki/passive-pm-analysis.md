@@ -1,5 +1,5 @@
 ---
-title: passive-pm-analysis
+title: 'passive-pm-analysis'
 tagnames: parent:passive-pm
 author: mathew
 path: /wiki/passive-pm-analysis.md

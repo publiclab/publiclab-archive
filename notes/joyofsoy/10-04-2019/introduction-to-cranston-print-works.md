@@ -1,5 +1,5 @@
 ---
-title: Introduction to Cranston Print Works
+title: 'Introduction to Cranston Print Works'
 tagnames: lat:1, lon:10, csf, one-cranston, csf17, lat:41.782301, lon:-71.440235, unearthing-pvd, unearthing-pvd-sites
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/introduction-to-cranston-print-works.md

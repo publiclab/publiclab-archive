@@ -1,5 +1,5 @@
 ---
-title: Bot for Publiclab
+title: 'Bot for Publiclab'
 tagnames: gsoc, publiclab, irc, node, bot, gitter, soc-2017-proposals, response:13975, 123, gsoc-2017-accepted, first-time-poster
 author: ryzokuken
 path: /notes/ryzokuken/02-28-2017/bot-for-publiclab.md

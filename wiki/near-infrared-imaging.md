@@ -1,5 +1,5 @@
 ---
-title: near-infrared-imaging
+title: 'near-infrared-imaging'
 tagnames: near-infrared-camera, ndvi
 author: liz
 path: /wiki/near-infrared-imaging.md

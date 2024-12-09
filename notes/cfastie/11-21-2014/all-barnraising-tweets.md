@@ -1,5 +1,5 @@
 ---
-title: All Barnraising Tweets
+title: 'All Barnraising Tweets'
 tagnames: gulf-coast, kite-mapping, louisiana, cocodrie, barnraising, lumcon, barnraising2014
 author: cfastie
 path: /notes/cfastie/11-21-2014/all-barnraising-tweets.md

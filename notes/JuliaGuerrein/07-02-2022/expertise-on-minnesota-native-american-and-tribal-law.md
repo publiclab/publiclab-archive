@@ -1,5 +1,5 @@
 ---
-title: Expertise on Minnesota Native American and Tribal Law
+title: 'Expertise on Minnesota Native American and Tribal Law'
 tagnames: minnesota, law-and-policy, question:law-and-policy, mn-land-manoomin-protection, question:mn-land-manoomin-protection, native-american-law
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/07-02-2022/expertise-on-minnesota-native-american-and-tribal-law.md

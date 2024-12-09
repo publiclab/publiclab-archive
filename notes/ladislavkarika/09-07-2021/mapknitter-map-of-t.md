@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of T
+title: 'MapKnitter map of T'
 tagnames: mapknitter, first-time-poster, zoom:16, lat:48.0858064, lon:17.4208781, lat:48.079, lon:17.423
 author: ladislavkarika
 path: /notes/ladislavkarika/09-07-2021/mapknitter-map-of-t.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab: Sales lead and online store manager
+title: 'Public Lab: Sales lead and online store manager'
 tagnames: nonprofit
 author: Shannon
 path: /notes/Shannon/06-23-2015/public-laboratory-for-open-technology-and-science-sales-lead-and-online-store-manager.md

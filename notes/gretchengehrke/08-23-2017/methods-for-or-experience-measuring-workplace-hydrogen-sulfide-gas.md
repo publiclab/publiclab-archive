@@ -1,5 +1,5 @@
 ---
-title: Methods for or experience measuring workplace hydrogen sulfide gas?
+title: 'Methods for or experience measuring workplace hydrogen sulfide gas?'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s, question:air-quality, indoor-air-quality, question:question, indoor-air, question:h2s, question:indoor-air-quality
 author: gretchengehrke
 path: /notes/gretchengehrke/08-23-2017/methods-for-or-experience-measuring-workplace-hydrogen-sulfide-gas.md

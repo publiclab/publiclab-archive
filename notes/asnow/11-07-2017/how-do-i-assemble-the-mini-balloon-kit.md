@@ -1,5 +1,5 @@
 ---
-title: How do I assemble the mini-balloon kit?
+title: 'How do I assemble the mini-balloon kit?'
 tagnames: mini-balloon-kit, question:general, first-time-poster
 author: asnow
 path: /notes/asnow/11-07-2017/how-do-i-assemble-the-mini-balloon-kit.md

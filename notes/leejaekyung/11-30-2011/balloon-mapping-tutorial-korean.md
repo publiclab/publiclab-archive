@@ -1,5 +1,5 @@
 ---
-title: balloon mapping tutorial (Korean)
+title: 'balloon mapping tutorial (Korean)'
 tagnames: illustrated-guides, korea, location:blurred, lat:30, lon:120, place:korea, first-time-poster
 author: leejaekyung
 path: /notes/leejaekyung/11-30-2011/balloon-mapping-tutorial-korean.md

@@ -1,5 +1,5 @@
 ---
-title: Project management?
+title: 'Project management?'
 tagnames: community, question:general, question:community
 author: liz
 path: /notes/liz/02-14-2018/project-management.md

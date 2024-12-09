@@ -1,5 +1,5 @@
 ---
-title: Identifying Wells in Field and Experiment Design
+title: 'Identifying Wells in Field and Experiment Design'
 tagnames: hydrogen-sulfide-sensing, new-mexico, hydrogen-sulfide, h2s, gasfinder, study-design, h2s-photopaper, mountain-west, h2s-study-design
 author: megan
 path: /notes/megan/8-7-2012/identifying-wells-field-and-experiment-design.md

@@ -1,5 +1,5 @@
 ---
-title: Re-presenting preliminary Air Quality Egg data
+title: 'Re-presenting preliminary Air Quality Egg data'
 tagnames: new-york-city, chaq, air-quality, air-quality-egg
 author: liz
 path: /notes/liz/3-19-2013/re-presenting-preliminary-air-quality-egg-data.md

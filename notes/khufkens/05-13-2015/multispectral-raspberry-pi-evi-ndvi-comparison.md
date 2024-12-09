@@ -1,5 +1,5 @@
 ---
-title: Multispectral raspberry pi: EVI - NDVI comparison
+title: 'Multispectral raspberry pi: EVI - NDVI comparison'
 tagnames: ndvi, multiple-camera, raspberry-pi, vegetation, multipspectral, evi
 author: khufkens
 path: /notes/khufkens/05-13-2015/multispectral-raspberry-pi-evi-ndvi-comparison.md

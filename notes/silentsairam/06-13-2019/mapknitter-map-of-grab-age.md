@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Grab-AGE
+title: 'MapKnitter map of Grab-AGE'
 tagnames: balloon-mapping, mapknitter, barnstar:basic, community-atlas
 author: silentsairam
 path: /notes/silentsairam/06-13-2019/mapknitter-map-of-grab-age.md

@@ -1,5 +1,5 @@
 ---
-title: On Long Exposure Photography
+title: 'On Long Exposure Photography'
 tagnames: first-time-poster
 author: C_Eich
 path: /notes/ceich/3-1-2012/long-exposure-photography.md

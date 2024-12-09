@@ -1,5 +1,5 @@
 ---
-title: Leftovers
+title: 'Leftovers'
 tagnames: 
 author: warren
 path: /wiki/leftovers.md

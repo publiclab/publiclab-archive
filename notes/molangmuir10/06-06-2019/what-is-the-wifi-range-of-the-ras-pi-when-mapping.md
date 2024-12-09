@@ -1,5 +1,5 @@
 ---
-title: What is the wifi range of the ras-pi when mapping?
+title: 'What is the wifi range of the ras-pi when mapping?'
 tagnames: question:general, wifi, ras-pi
 author: molangmuir10
 path: /notes/molangmuir10/06-06-2019/what-is-the-wifi-range-of-the-ras-pi-when-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: never say it can't be done
+title: 'never say it can't be done'
 tagnames: spectrometer, spectroscopy, first-time-poster
 author: sonofaquark
 path: /notes/sonofaquark/3-21-2013/never-say-it-cant-be-done.md

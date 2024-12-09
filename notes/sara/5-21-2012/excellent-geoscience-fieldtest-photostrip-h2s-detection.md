@@ -1,5 +1,5 @@
 ---
-title: Excellent Geoscience Fieldtest of Photostrip H2S Detection
+title: 'Excellent Geoscience Fieldtest of Photostrip H2S Detection'
 tagnames: hydrogen-sulfide-sensing, draeger-tubes, hydrogen-sulfide, h2s, h2s-photopaper, h2s-draeger-tubes
 author: sara
 path: /notes/sara/5-21-2012/excellent-geoscience-fieldtest-photostrip-h2s-detection.md

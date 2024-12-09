@@ -1,5 +1,5 @@
 ---
-title: computer vision color detection
+title: 'computer vision color detection'
 tagnames: ndvi, raspberry-pi, color, computer-vision, opencv, gsoc-2018, response:15978, color-detection
 author: MaggPi
 path: /notes/MaggPi/07-09-2018/computer-vision-color-detection.md

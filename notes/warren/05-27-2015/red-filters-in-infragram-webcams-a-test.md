@@ -1,5 +1,5 @@
 ---
-title: Red filters in Infragram Webcams: a test
+title: 'Red filters in Infragram Webcams: a test'
 tagnames: ndvi, webcam, infragram, plants, vegetation, infra-red, infrablue, test, infragram-webcam, response:10996
 author: warren
 path: /notes/warren/05-27-2015/red-filters-in-infragram-webcams-a-test.md

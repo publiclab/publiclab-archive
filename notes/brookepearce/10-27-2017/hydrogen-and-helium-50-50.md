@@ -1,5 +1,5 @@
 ---
-title: Hydrogen and helium 50/50
+title: 'Hydrogen and helium 50/50'
 tagnames: hydrogen, spectrometry, helium, hidden:response, foldable-spec, replication:15121
 author: brookepearce
 path: /notes/brookepearce/10-27-2017/hydrogen-and-helium-50-50.md

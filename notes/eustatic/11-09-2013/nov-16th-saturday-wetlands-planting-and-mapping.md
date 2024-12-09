@@ -1,5 +1,5 @@
 ---
-title: Nov 16th Saturday wetlands planting (and mapping)
+title: 'Nov 16th Saturday wetlands planting (and mapping)'
 tagnames: gulf-coast, event, bsj
 author: eustatic
 path: /11-09-2013/nov-16th-saturday-wetlands-planting-and-mapping.md

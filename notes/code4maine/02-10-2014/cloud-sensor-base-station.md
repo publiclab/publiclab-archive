@@ -1,5 +1,5 @@
 ---
-title: Cloud Sensor Base-Station
+title: 'Cloud Sensor Base-Station'
 tagnames: garden, datalogger, hydroponics, gardening, data-logging, datalogging
 author: ajawitz
 path: /notes/code4maine/02-10-2014/cloud-sensor-base-station.md

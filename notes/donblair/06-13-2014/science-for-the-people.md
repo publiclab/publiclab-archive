@@ -1,5 +1,5 @@
 ---
-title: Science for the People
+title: 'Science for the People'
 tagnames: conferences, massachusetts, umass-amherst, northeast, science-for-the-people
 author: donblair
 path: /notes/donblair/06-13-2014/science-for-the-people.md

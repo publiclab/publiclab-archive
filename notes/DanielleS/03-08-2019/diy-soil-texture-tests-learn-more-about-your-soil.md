@@ -1,5 +1,5 @@
 ---
-title: DIY Soil Texture Tests- Learn more about your soil! 
+title: 'DIY Soil Texture Tests- Learn more about your soil! '
 tagnames: soil, seeks:replications, activity:soil, soil-contamination, getting-started-soil, activity:getting-started-soil
 author: DanielleS
 path: /notes/DanielleS/03-08-2019/diy-soil-texture-tests-learn-more-about-your-soil.md

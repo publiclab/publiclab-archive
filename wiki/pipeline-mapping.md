@@ -1,5 +1,5 @@
 ---
-title: Pipeline Mapping
+title: 'Pipeline Mapping'
 tagnames: alberta
 author: ann
 path: /wiki/pipeline-mapping.md

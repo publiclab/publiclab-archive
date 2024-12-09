@@ -1,5 +1,5 @@
 ---
-title: Spectroscopy Bulb
+title: 'Spectroscopy Bulb'
 tagnames: hidden:response, response:13586, first-time-poster
 author: literallyave
 path: /notes/literallyave/10-19-2016/spectroscopy-bulb.md

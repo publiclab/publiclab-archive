@@ -1,5 +1,5 @@
 ---
-title: Symbiosis, Mutualism, Parasitism, and Commensalism 
+title: 'Symbiosis, Mutualism, Parasitism, and Commensalism '
 tagnames: lat:22, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/09-07-2022/symbiosis-mutualism-parasitism-and-commensalism.md

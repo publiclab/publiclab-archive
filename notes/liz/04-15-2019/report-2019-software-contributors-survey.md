@@ -1,5 +1,5 @@
 ---
-title: Report: 2019 Software Contributors Survey
+title: 'Report: 2019 Software Contributors Survey'
 tagnames: community-metrics, software, web, code, evaluation, survey, with:warren, wwg, diversity, response:15093, inclusion
 author: liz
 path: /notes/liz/04-15-2019/report-2019-software-contributors-survey.md

@@ -1,5 +1,5 @@
 ---
-title: Pasadena Farmer's Market at Victory Park
+title: 'Pasadena Farmer's Market at Victory Park'
 tagnames: mapknitter, first-time-poster, lat:34.160605, lon:-118.096302, lat:34.160609605, lon:-118.0943857009
 author: tanmanshredsit
 path: /notes/tanmanshredsit/05-20-2019/pasadena-farmer-s-market-at-victory-park.md

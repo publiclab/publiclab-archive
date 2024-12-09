@@ -1,5 +1,5 @@
 ---
-title: Closer Look at the Air Quality Egg Location
+title: 'Closer Look at the Air Quality Egg Location'
 tagnames: 
 author: Jalexa13
 path: /notes/jalexa13/2-14-2013/closer-look-air-quality-egg-location.md

@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping in Edgard (West St John High)
+title: 'Balloon mapping in Edgard (West St John High)'
 tagnames: first-time-poster, zoom:6, lat:30.043257, lon:-90.560086
 author: shehatejay07
 path: /notes/shehatejay07/04-30-2021/balloon-mapping-in-edgard-west-st-john-high.md

@@ -1,5 +1,5 @@
 ---
-title: test
+title: 'test'
 tagnames: 
 author: liz
 path: /wiki/test.md

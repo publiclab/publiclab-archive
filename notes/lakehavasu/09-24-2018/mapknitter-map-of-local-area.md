@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Local Area
+title: 'MapKnitter map of Local Area'
 tagnames: mapknitter, lat:34.483901, lon:-114.3224548
 author: lakehavasu
 path: /notes/lakehavasu/09-24-2018/mapknitter-map-of-local-area.md

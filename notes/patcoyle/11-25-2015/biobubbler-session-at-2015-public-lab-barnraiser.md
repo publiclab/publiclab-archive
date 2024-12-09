@@ -1,5 +1,5 @@
 ---
-title: Biobubbler session at 2015 Public Lab Barnraiser
+title: 'Biobubbler session at 2015 Public Lab Barnraiser'
 tagnames: documentation, barnraising, bioremediation, formaldehyde, indoor-air-quality, barnraising-2015, biobubbler
 author: patcoyle
 path: /notes/patcoyle/11-25-2015/biobubbler-session-at-2015-public-lab-barnraiser.md

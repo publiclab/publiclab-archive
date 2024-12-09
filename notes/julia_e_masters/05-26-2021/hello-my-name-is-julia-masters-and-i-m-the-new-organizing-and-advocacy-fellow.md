@@ -1,5 +1,5 @@
 ---
-title: hello ! my name is julia masters, and i'm the new organizing and advocacy fellow. 
+title: 'hello ! my name is julia masters, and i'm the new organizing and advocacy fellow. '
 tagnames: urban, urban-planning, chicago, climate, fellows, advocacy, community-organizing, planning, equity, change, first-time-poster, zoom:4, lat:41.878113, lon:-87.629798, research-curation-fellows
 author: julia_e_masters
 path: /notes/julia_e_masters/05-26-2021/hello-my-name-is-julia-masters-and-i-m-the-new-organizing-and-advocacy-fellow.md

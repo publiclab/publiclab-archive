@@ -1,5 +1,5 @@
 ---
-title: Youth Balloon Mapping Workshop
+title: 'Youth Balloon Mapping Workshop'
 tagnames: balloon-mapping, education, curriculum, chicago, midwest, civiclab, civic-lab, first-time-poster
 author: mjain26
 path: /notes/mjain26/06-24-2014/youth-balloon-mapping-workshop.md

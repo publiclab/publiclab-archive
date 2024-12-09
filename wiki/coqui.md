@@ -1,5 +1,5 @@
 ---
-title: Coqui conductivity sensor
+title: 'Coqui conductivity sensor'
 tagnames: water-quality-monitoring, mining, water-quality, water, tool, conductivity, list:plots-waterquality, open-water, coqui, activities:coqui, upgrades:coqui, method, electronic-sensors, sound, parent:water-sensors, community-kits-prep, project:water-quality
 author: donblair
 path: /wiki/coqui.md

@@ -1,5 +1,5 @@
 ---
-title: (Towards) AI-Assisted Water Testing
+title: '(Towards) AI-Assisted Water Testing'
 tagnames: water-quality, wheestat, first-time-poster, zoom:4, ai, lat:38.833881, lon:-104.821363, machine-learning
 author: jrmc502
 path: /notes/jrmc502/10-07-2020/towards-ai-assisted-water-testing.md

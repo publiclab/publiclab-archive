@@ -1,5 +1,5 @@
 ---
-title: Question: ccd camera on metascop
+title: 'Question: ccd camera on metascop'
 tagnames: question:spectrometry, question:spectral-workbench
 author: leanr
 path: /notes/leanr/04-15-2016/question-ccd-camera-on-metascop.md

@@ -1,5 +1,5 @@
 ---
-title: Pollution to Solution: First Research Note 1, 10/14/14
+title: 'Pollution to Solution: First Research Note 1, 10/14/14'
 tagnames: arduino, massachusetts, air-quality, air, pollution, sensor, solar, pioneer-valley, springfield, ozone, nitrogen-dioxide, air-sensors, air-sensor-projects, first-time-poster
 author: epongrat
 path: /notes/epongrat/10-14-2014/research-note-1-10-14-14.md

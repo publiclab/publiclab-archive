@@ -1,5 +1,5 @@
 ---
-title: a pendulum rig flies over China
+title: 'a pendulum rig flies over China'
 tagnames: mobius, china, pendulum-rig
 author: liz
 path: /notes/liz/02-01-2016/a-pendulum-rig-flies-over-china.md

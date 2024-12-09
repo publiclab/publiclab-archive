@@ -1,5 +1,5 @@
 ---
-title: Mobius non-fish-eye lens conversion
+title: 'Mobius non-fish-eye lens conversion'
 tagnames: kap, fisheye, mobius-actioncam, infragram-point-shoot, stowaway-delta, non-fish-eye, activity:multispectral-imaging, activity:infragram, activity:ndvi, lens-distortion, lens-swapping, activity:filter-swapping, activity:lens-swapping
 author: patcoyle
 path: /notes/patcoyle/08-01-2015/mobius-non-fish-eye-lens-conversion.md

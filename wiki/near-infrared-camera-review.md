@@ -1,5 +1,5 @@
 ---
-title: near infrared camera review
+title: 'near infrared camera review'
 tagnames: 
 author: gonzoearth
 path: /wiki/near-infrared-camera-review.md

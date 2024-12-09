@@ -1,5 +1,5 @@
 ---
-title: [Reference] Characterization of Chronic sources and Impacts of Tar along the Louisiana Coast
+title: '[Reference] Characterization of Chronic sources and Impacts of Tar along the Louisiana Coast'
 tagnames: gulf-coast, orca, oil-testing-kit, otk, homebrew
 author: eustatic
 path: /12-21-2015/reference-characterization-of-chronic-sources-and-impacts-of-tar-along-the-louisiana-coast.md

@@ -1,5 +1,5 @@
 ---
-title: Second Blog: My work for outreachy
+title: 'Second Blog: My work for outreachy'
 tagnames: design, blog, soc, ui, summer-of-code, outreachy, soc-2019, outreachy-2019
 author: lekhidugtal
 path: /notes/lekhidugtal/06-28-2019/second-blog-my-work-for-outreachy.md

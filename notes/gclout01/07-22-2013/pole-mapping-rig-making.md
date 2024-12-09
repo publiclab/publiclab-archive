@@ -1,5 +1,5 @@
 ---
-title: Pole Mapping Rig Making
+title: 'Pole Mapping Rig Making'
 tagnames: boston, polemapping, pvc, garden, pole-photography, pole, polemaping, pole-mapping
 author: gclout01
 path: /notes/gclout01/07-22-2013/pole-mapping-rig-making.md

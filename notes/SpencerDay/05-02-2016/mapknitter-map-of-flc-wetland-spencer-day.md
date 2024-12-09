@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of FLC Wetland Spencer Day
+title: 'MapKnitter map of FLC Wetland Spencer Day'
 tagnames: mapknitter, lat:38.663836668, lon:-121.1253136396
 author: SpencerDay
 path: /notes/SpencerDay/05-02-2016/mapknitter-map-of-flc-wetland-spencer-day.md

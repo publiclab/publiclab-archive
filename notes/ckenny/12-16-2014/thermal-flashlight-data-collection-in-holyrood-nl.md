@@ -1,5 +1,5 @@
 ---
-title: Thermal flashlight: data collection in Holyrood, NL
+title: 'Thermal flashlight: data collection in Holyrood, NL'
 tagnames: thermal-photography, thermal-flashlight, thermal-pollution, thermal-plume, sociology-4107, newfoundland, holyrood, heat, activity:thermal-flashlight, story:thermal-flashlight, replication:625
 author: ckenny
 path: /notes/ckenny/12-16-2014/thermal-flashlight-data-collection-in-holyrood-nl.md

@@ -1,5 +1,5 @@
 ---
-title: Mapping Rural Alberta's Wetlands
+title: 'Mapping Rural Alberta's Wetlands'
 tagnames: kite-mapping, wetlands, blog, canada, alberta, location:blurred, lat:50, lon:-110, place:alberta-canada
 author: Rural
 path: /notes/Rural/02-22-2016/mapping-rural-alberta-s-wetlands.md

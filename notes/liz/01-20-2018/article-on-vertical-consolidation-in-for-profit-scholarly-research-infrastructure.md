@@ -1,5 +1,5 @@
 ---
-title: article on vertical consolidation in for-profit scholarly research infrastructure
+title: 'article on vertical consolidation in for-profit scholarly research infrastructure'
 tagnames: knowledge-production
 author: liz
 path: /notes/liz/01-20-2018/article-on-vertical-consolidation-in-for-profit-scholarly-research-infrastructure.md

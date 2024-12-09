@@ -1,5 +1,5 @@
 ---
-title: Workshop IX: What Story Does Our Data Tell?
+title: 'Workshop IX: What Story Does Our Data Tell?'
 tagnames: education
 author: purl
 path: /notes/purl/02-02-2021/workshop-ix-what-story-does-our-data-tell.md

@@ -1,5 +1,5 @@
 ---
-title: Tagging and user accounts in MapKnitter
+title: 'Tagging and user accounts in MapKnitter'
 tagnames: mapknitter
 author: warren
 path: /notes/warren/7-2-2012/tagging-and-user-accounts-mapknitter.md

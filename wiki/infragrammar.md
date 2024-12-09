@@ -1,5 +1,5 @@
 ---
-title: infragrammar
+title: 'infragrammar'
 tagnames: 
 author: warren
 path: /wiki/infragrammar.md

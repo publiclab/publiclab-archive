@@ -1,5 +1,5 @@
 ---
-title: This page has moved
+title: 'This page has moved'
 tagnames: 
 author: warren
 path: /wiki/this-page-has-moved.md

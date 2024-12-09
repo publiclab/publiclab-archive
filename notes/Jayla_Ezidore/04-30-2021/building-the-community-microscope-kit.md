@@ -1,5 +1,5 @@
 ---
-title: Building The Community Microscope Kit
+title: 'Building The Community Microscope Kit'
 tagnames: location:blurred, first-time-poster, zoom:18, zoom:17, lat:30.016, lon:-90.553, place:edgard-la-70049-united-states, lat:30.016638, lon:-90.553088
 author: Jayla_Ezidore
 path: /notes/Jayla_Ezidore/04-30-2021/building-the-community-microscope-kit.md

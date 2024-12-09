@@ -1,5 +1,5 @@
 ---
-title: Public Lab/open spectrometry presentation
+title: 'Public Lab/open spectrometry presentation'
 tagnames: spectrometer, boston, presentations, event, talk, presentation
 author: warren
 path: /notes/warren/3-22-2013/public-labopen-spectrometry-presentation.md

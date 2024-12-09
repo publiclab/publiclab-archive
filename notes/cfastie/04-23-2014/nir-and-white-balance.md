@@ -1,5 +1,5 @@
 ---
-title: NIR and white balance
+title: 'NIR and white balance'
 tagnames: near-infrared-camera, ndvi, infrared, white-balance, infragram, histogram, led, mobius-actioncam, frosted-globe, response:10324, mobius
 author: cfastie
 path: /notes/cfastie/04-23-2014/nir-and-white-balance.md

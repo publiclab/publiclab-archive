@@ -1,5 +1,5 @@
 ---
-title: SoC Proposal : Spectral Workbench Capture
+title: 'SoC Proposal : Spectral Workbench Capture'
 tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects
 author: sidntrivedi012
 path: /notes/sidntrivedi012/04-01-2019/soc-proposal-spectral-workbench-capture.md

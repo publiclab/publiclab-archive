@@ -1,5 +1,5 @@
 ---
-title: A Wintry Kite Mapping at Cranston Print Works
+title: 'A Wintry Kite Mapping at Cranston Print Works'
 tagnames: with:warren, csf, one-cranston, csf17
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/a-wintry-kite-mapping-at-cranston-print-works.md

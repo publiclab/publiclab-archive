@@ -1,5 +1,5 @@
 ---
-title: Air Quality Egg
+title: 'Air Quality Egg'
 tagnames: chaq, air-quality-egg, first-time-poster
 author: Yuritza13
 path: /notes/yuritza13/2-28-2013/air-quality-egg-0.md

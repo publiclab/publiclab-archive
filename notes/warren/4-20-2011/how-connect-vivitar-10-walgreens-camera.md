@@ -1,5 +1,5 @@
 ---
-title: How to connect to a Vivitar $10 Walgreens camera
+title: 'How to connect to a Vivitar $10 Walgreens camera'
 tagnames: near-infrared-camera, keychain-cameras, vivitar
 author: warren
 path: /notes/warren/4-20-2011/how-connect-vivitar-10-walgreens-camera.md

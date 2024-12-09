@@ -1,5 +1,5 @@
 ---
-title: JAM#5: Nuestros suelos
+title: 'JAM#5: Nuestros suelos'
 tagnames: soil, kit, chile, mining, lang:es, south-america, soil-sampling, soil-quality, spanish, zoom:16, lat:41.408488, lon:2.199325, jam, charla, mineria, autodefensa-vecinal, nuestros-suelos
 author: imvec
 path: /notes/imvec/04-30-2020/jam-5-nuestros-suelos.md

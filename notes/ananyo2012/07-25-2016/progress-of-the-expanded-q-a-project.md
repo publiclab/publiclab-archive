@@ -1,5 +1,5 @@
 ---
-title: Progress of the Expanded Q & A Project
+title: 'Progress of the Expanded Q & A Project'
 tagnames: software, gsoc, web, developers, barnstar:basic, gsoc-2016, q-and-a
 author: ananyo2012
 path: /notes/ananyo2012/07-25-2016/progress-of-the-expanded-q-a-project.md

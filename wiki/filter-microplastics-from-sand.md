@@ -1,5 +1,5 @@
 ---
-title: Filtering microplastics from sand
+title: 'Filtering microplastics from sand'
 tagnames: remediation, method, beach, microplastics, marine-debris, nurdles, plastic-pellets, filter-plastics-sand
 author: bhamster
 path: /wiki/filter-microplastics-from-sand.md

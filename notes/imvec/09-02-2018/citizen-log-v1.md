@@ -1,5 +1,5 @@
 ---
-title: Citizen log v1
+title: 'Citizen log v1'
 tagnames: reporting, air-quality, water-quality, odor, activity:odor, activity:water
 author: imvec
 path: /notes/imvec/09-02-2018/citizen-log-v1.md

@@ -1,5 +1,5 @@
 ---
-title: Are there any regulations around crop dusting? 
+title: 'Are there any regulations around crop dusting? '
 tagnames: question:general, question:agriculture, question:pesticides, question:crop-dusting, question:farming
 author: stevie
 path: /notes/stevie/07-11-2019/are-there-any-regulations-around-crop-dusting.md

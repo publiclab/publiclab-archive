@@ -1,5 +1,5 @@
 ---
-title: NYTimes Op-Ed on open access to NIH-funded research
+title: 'NYTimes Op-Ed on open access to NIH-funded research'
 tagnames: 
 author: warren
 path: /notes/warren/1-11-2012/nytimes-op-ed-open-access-nih-funded-research.md

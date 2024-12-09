@@ -1,5 +1,5 @@
 ---
-title: Taller de microscopio DIY en Barcelona
+title: 'Taller de microscopio DIY en Barcelona'
 tagnames: barcelona, workshop, event, lang:es, event:rsvp, hardware, lon:2.1, location:blurred, spanish, community-microscope, date:01-01-2019, taller, lat:41.3, microscope-workshop
 author: imvec
 path: /notes/imvec/12-02-2018/taller-de-microscopio-diy-en-barcelona.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Chouteau's Landing Flight
+title: 'MapKnitter map of Chouteau's Landing Flight'
 tagnames: mapknitter, washu-stlouis, lat:38.5732832604, lon:-90.2307879925, missouri, first-time-poster
 author: ninalang
 path: /notes/ninalang/02-18-2016/mapknitter-map-of-chouteau-s-landing-flight.md

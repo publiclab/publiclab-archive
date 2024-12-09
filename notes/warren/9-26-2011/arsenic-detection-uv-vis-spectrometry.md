@@ -1,5 +1,5 @@
 ---
-title: Arsenic detection with UV-Vis spectrometry
+title: 'Arsenic detection with UV-Vis spectrometry'
 tagnames: spectrometer, soil, arsenic, umass-amherst, soil-testing, soil-contamination, soil-contamination-testing
 author: warren
 path: /notes/warren/9-26-2011/arsenic-detection-uv-vis-spectrometry.md

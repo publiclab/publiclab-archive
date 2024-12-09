@@ -1,5 +1,5 @@
 ---
-title: Have You Used LMC660
+title: 'Have You Used LMC660'
 tagnames: question:question
 author: lingma
 path: /notes/lingma/05-10-2017/have-you-used-lmc660.md

@@ -1,5 +1,5 @@
 ---
-title: Certification of Open Sensors?
+title: 'Certification of Open Sensors?'
 tagnames: licensing, open-hardware, sensors, licenses, creativecommons, sensor-networks, sensor-journalism
 author: lilybui
 path: /notes/lilybui/10-28-2014/certification-of-open-sensors.md

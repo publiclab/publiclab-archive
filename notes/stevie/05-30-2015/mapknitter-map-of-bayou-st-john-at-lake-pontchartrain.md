@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Bayou St John at Lake Pontchartrain 
+title: 'MapKnitter map of Bayou St John at Lake Pontchartrain '
 tagnames: mapknitter, bsj, urbanwaters, lat:30.0257050856, lon:-90.0827354193, with:ddileona
 author: stevie
 path: /notes/stevie/05-30-2015/mapknitter-map-of-bayou-st-john-at-lake-pontchartrain.md

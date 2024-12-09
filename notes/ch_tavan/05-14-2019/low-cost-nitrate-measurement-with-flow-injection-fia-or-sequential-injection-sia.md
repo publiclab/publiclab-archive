@@ -1,5 +1,5 @@
 ---
-title: Low-cost nitrate measurement with Flow Injection (FIA) or Sequential Injection (SIA)
+title: 'Low-cost nitrate measurement with Flow Injection (FIA) or Sequential Injection (SIA)'
 tagnames: agriculture, soil, nitrate, cadmium, colorimetry, nitrates, question:nitrates, first-time-poster, sequential-injection, flow-injection
 author: ch_tavan
 path: /notes/ch_tavan/05-14-2019/low-cost-nitrate-measurement-with-flow-injection-fia-or-sequential-injection-sia.md

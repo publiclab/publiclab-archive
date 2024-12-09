@@ -1,5 +1,5 @@
 ---
-title: Lima, Peru: Kite Making/Ballon Mapping Workshop, U. of San Marcos
+title: 'Lima, Peru: Kite Making/Ballon Mapping Workshop, U. of San Marcos'
 tagnames: lima, balloon-mapping, kite-mapping, peru, kite-making, first-time-poster
 author: anita
 path: /notes/anita/2-2-2012/lima-peru-kite-makingballon-mapping-workshop-u-san-marcos.md

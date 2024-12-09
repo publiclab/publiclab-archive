@@ -1,5 +1,5 @@
 ---
-title: ¿En que region es cuantificada una mezcla de alcohol con agua? 
+title: '¿En que region es cuantificada una mezcla de alcohol con agua? '
 tagnames: lang:es, question:general, general
 author: edithcaballero19t
 path: /notes/edithcaballero19t/05-02-2021/en-que-region-es-cuantificada-una-mezcla-de-alcohol-con-agua.md

@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Refine Geographic UI and JS Integration for PublicLab.org
+title: 'Outreachy proposal: Refine Geographic UI and JS Integration for PublicLab.org'
 tagnames: software, soc, outreachy, response:17359, first-time-poster, soc-2019, outreachy-2019, outreachy-2019-proposals
 author: natalie_stjean
 path: /notes/natalie_stjean/10-29-2019/outreachy-proposal-refine-geographic-ui-and-js-integration-for-publiclab-org.md

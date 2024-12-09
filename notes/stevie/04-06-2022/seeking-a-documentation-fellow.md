@@ -1,5 +1,5 @@
 ---
-title: Seeking a Documentation Fellow
+title: 'Seeking a Documentation Fellow'
 tagnames: documentation, heavy-metals, pipeline, mining, minnesota, fracking, jobs, midwest, fellows, fellowship, fellow, mill, fellowship-team, anthropology, fellowship-teams, lumber, particle-board, with:bee, story-telling
 author: stevie
 path: /notes/stevie/04-06-2022/seeking-a-documentation-fellow.md

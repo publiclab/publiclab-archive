@@ -1,5 +1,5 @@
 ---
-title: Does anyone have any tips for emptying hydra tank without damaging culture?
+title: 'Does anyone have any tips for emptying hydra tank without damaging culture?'
 tagnames: water, question:general, general, first-time-poster, aquaculture, freshwater, with:amallozzi, freshwaterhydra, freshwatertank, hydra
 author: TheFreshHydraOfNola
 path: /notes/TheFreshHydraOfNola/02-14-2020/does-anyone-have-any-tips-for-emptying-hydra-tank-without-damaging-culture.md

@@ -1,5 +1,5 @@
 ---
-title: Virtual Penobscot Bay - a gamer platform available?
+title: 'Virtual Penobscot Bay - a gamer platform available?'
 tagnames: 3d, maine, northeast, bay, penobcot, bathymetry, lobster, dioxin
 author: ronhuber
 path: /notes/RonHuber/06-18-2014/virtual-penobscot-bay-a-gamer-platform-available.md

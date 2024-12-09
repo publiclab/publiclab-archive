@@ -1,5 +1,5 @@
 ---
-title: Voting procedure
+title: 'Voting procedure'
 tagnames: 
 author: warren
 path: /wiki/voting-procedure.md

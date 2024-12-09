@@ -1,5 +1,5 @@
 ---
-title: How to test water for heavy metals today?
+title: 'How to test water for heavy metals today?'
 tagnames: heavy-metals, laboratories, water-quality, metals, question:heavy-metals, soil-testing, question:water-quality, question:general, question:oil-and-gas, labs, question:labs, edxrf, oil-and-gas-water-quality, question:oil-and-gas-water-quality
 author: Devon7
 path: /notes/Devon7/03-26-2018/how-to-test-water-for-heavy-metals-today.md

@@ -1,5 +1,5 @@
 ---
-title: Brown spot fungal disease on Manoomin on Kettle Lake in the Fond Du Lac State Forest
+title: 'Brown spot fungal disease on Manoomin on Kettle Lake in the Fond Du Lac State Forest'
 tagnames: minnesota, fungus, biodiversity, zoom:7, wild-rice, mn-land-manoomin-protection, manoomin, wildrice, aquatic-species, lat:46.656977, lon:-92.790527
 author: Giiwedin
 path: /notes/Giiwedin/09-20-2022/brown-spot-fungal-disease-on-manoomin-on-kettle-lake-in-the-fond-du-lac-state-forest.md

@@ -1,5 +1,5 @@
 ---
-title: Results: Simple Aerial Photomapping session, EWB Symposium Without Borders, Davis,  CA, 2014
+title: 'Results: Simple Aerial Photomapping session, EWB Symposium Without Borders, Davis,  CA, 2014'
 tagnames: ndvi, dual-camera, kap, infrablue
 author: patcoyle
 path: /notes/patcoyle/11-17-2014/results-simple-aerial-photomapping-session-ewb-symposium-without-borders-davis-ca-2014.md

@@ -1,5 +1,5 @@
 ---
-title: Does the "rolling shutter" aspect of cameras impact measurements?
+title: 'Does the "rolling shutter" aspect of cameras impact measurements?'
 tagnames: question:general, response:18991, flicker, banding, rolling, shutter
 author: jenjimah
 path: /notes/jenjimah/04-12-2019/does-the-rolling-shutter-aspect-of-cameras-impact-measurements.md

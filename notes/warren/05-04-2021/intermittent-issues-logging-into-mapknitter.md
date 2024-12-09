@@ -1,5 +1,5 @@
 ---
-title: Intermittent issues logging into MapKnitter
+title: 'Intermittent issues logging into MapKnitter'
 tagnames: mapknitter, question:mapknitter
 author: warren
 path: /notes/warren/05-04-2021/intermittent-issues-logging-into-mapknitter.md

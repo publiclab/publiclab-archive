@@ -1,5 +1,5 @@
 ---
-title: Spectrometry health applications
+title: 'Spectrometry health applications'
 tagnames: spectrometer, health, mhealth
 author: warren
 path: /wiki/spectrometry-health-applications.md

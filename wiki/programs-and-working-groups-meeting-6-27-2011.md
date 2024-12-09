@@ -1,5 +1,5 @@
 ---
-title: Programs and working groups meeting 6-27-2011
+title: 'Programs and working groups meeting 6-27-2011'
 tagnames: 
 author: warren
 path: /wiki/programs-and-working-groups-meeting-6-27-2011.md

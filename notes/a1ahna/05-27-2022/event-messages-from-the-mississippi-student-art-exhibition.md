@@ -1,5 +1,5 @@
 ---
-title: Event: Messages from the Mississippi Student Art Exhibition
+title: 'Event: Messages from the Mississippi Student Art Exhibition'
 tagnames: education, event, water-quality, pollution, water, community-science, microplastics, community-microscope, babylegs, plastic, zoom:6, zoom:16, student-work, field-work, lat:29.998428, lon:-90.152842, lat:29.99842, lon:-90.15285
 author: a1ahna
 path: /notes/a1ahna/05-27-2022/event-messages-from-the-mississippi-student-art-exhibition.md

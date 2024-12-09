@@ -1,5 +1,5 @@
 ---
-title: 2 cameras or not 2 cameras
+title: '2 cameras or not 2 cameras'
 tagnames: near-infrared-camera, kite-mapping, nrg, ndvi, vermont, infrared, new-hampshire, farmhack, imagej, event, infragram, ifarm, gigapan, ifarm2013, 2007, ndvi-ag, lat:43.12, lon:-71.01
 author: cfastie
 path: /notes/cfastie/06-05-2013/2-cameras-or-not-2-cameras.md

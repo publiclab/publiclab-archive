@@ -1,5 +1,5 @@
 ---
-title: Deer Park, TX Chemical Storage Tank Fire 
+title: 'Deer Park, TX Chemical Storage Tank Fire '
 tagnames: industrial-monitoring, air-quality, water, air-monitoring, texas, smoke, oil-and-gas, location:blurred, place:united-states, issue-brief, lat:29, lon:-95, cellphone-monitoring, petrochemical-pollution, toxic-chemicals, industrial-fire
 author: stevie
 path: /notes/stevie/08-23-2019/deer-park-tx-chemical-storage-tank-fire.md

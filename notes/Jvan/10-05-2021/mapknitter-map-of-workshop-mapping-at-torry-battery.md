@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Workshop mapping at Torry Battery
+title: 'MapKnitter map of Workshop mapping at Torry Battery'
 tagnames: mapknitter, zoom:16, lat:57.1414344366, lon:-2.0591998799, lat:57.141434, lon:-2.059199
 author: Jvan
 path: /notes/Jvan/10-05-2021/mapknitter-map-of-workshop-mapping-at-torry-battery.md

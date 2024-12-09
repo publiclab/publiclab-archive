@@ -1,5 +1,5 @@
 ---
-title: Bitcoin Mining in Upstate NY
+title: 'Bitcoin Mining in Upstate NY'
 tagnames: new-york, mining, water-quality, water, northeast, ballon-mapping, first-time-poster, crypto, zoom:9, zoom:12, lat:42.60864848616297, lon:-76.91454253625126, acid-rain, greenhouse-gas, ithaca, cornell, lat:43.047561, lon:-77.667246
 author: marinaraHQ
 path: /notes/marinaraHQ/03-10-2022/bitcoin-mining-in-upstate-ny.md

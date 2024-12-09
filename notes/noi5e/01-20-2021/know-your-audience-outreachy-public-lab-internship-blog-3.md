@@ -1,5 +1,5 @@
 ---
-title: Know Your Audience - [Outreachy & Public Lab Internship] Blog #3
+title: 'Know Your Audience - [Outreachy & Public Lab Internship] Blog #3'
 tagnames: coding, blog-submission, outreachy, outreachy-2020
 author: noi5e
 path: /notes/noi5e/01-20-2021/know-your-audience-outreachy-public-lab-internship-blog-3.md

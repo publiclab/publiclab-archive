@@ -1,5 +1,5 @@
 ---
-title: "Ecohackers: These kids track pollution with balloons and kites"
+title: '"Ecohackers: These kids track pollution with balloons and kites"'
 tagnames: blog
 author: stevie
 path: /notes/stevie/07-22-2015/ecohackers-these-kids-track-pollution-with-balloons-and-kites.md

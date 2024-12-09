@@ -1,5 +1,5 @@
 ---
-title: June Mapping Picnic 
+title: 'June Mapping Picnic '
 tagnames: gulf-coast, balloon-mapping, event, gulfcoast, event:rsvp, rsvp:eustatic, date:06-27-2015, rsvp:klie, replication:14022
 author: stevie
 path: /notes/stevie/06-03-2015/june-mapping-picnic.md

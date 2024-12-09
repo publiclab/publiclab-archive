@@ -1,5 +1,5 @@
 ---
-title: Fresh Kills Balloon Mapping
+title: 'Fresh Kills Balloon Mapping'
 tagnames: balloon-mapping, landfill, waste, wasteland, fresh-kills, first-time-poster
 author: nicholas
 path: /notes/nejohnson2/5-4-2013/fresh-kills-balloon-mapping.md

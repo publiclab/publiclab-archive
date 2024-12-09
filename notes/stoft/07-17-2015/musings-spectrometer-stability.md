@@ -1,5 +1,5 @@
 ---
-title: Musings: Spectrometer Stability
+title: 'Musings: Spectrometer Stability'
 tagnames: spectrometer, oil, kit, test, response:11649
 author: stoft
 path: /notes/stoft/07-17-2015/musings-spectrometer-stability.md

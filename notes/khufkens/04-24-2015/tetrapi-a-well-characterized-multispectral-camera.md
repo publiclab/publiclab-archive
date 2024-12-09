@@ -1,5 +1,5 @@
 ---
-title: TetraPi: a well characterized multispectral camera
+title: 'TetraPi: a well characterized multispectral camera'
 tagnames: ndvi, multispectral, mapping, raspberry-pi, camera, vegetation, barnstar:basic, barnstar:excessive-enthusiasm, tetrapi, imaging, pri, activity:raspberry-pi-infragram, activity:pi-camera
 author: khufkens
 path: /notes/khufkens/04-24-2015/tetrapi-a-well-characterized-multispectral-camera.md

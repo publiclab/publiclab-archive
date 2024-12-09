@@ -1,5 +1,5 @@
 ---
-title: Biome
+title: 'Biome'
 tagnames: mississippi-river
 author: OF04
 path: /notes/OF04/08-23-2022/biome.md

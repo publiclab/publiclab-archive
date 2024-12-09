@@ -1,5 +1,5 @@
 ---
-title: Small Ac generator using a single neodymium sphere 
+title: 'Small Ac generator using a single neodymium sphere '
 tagnames: generator, project, electric, inverter, electric-generator, ac-generator, small-generator, 230v-generator, activity:generator, activity:electronics, science-projects, simple-projects, first-time-poster
 author: sciencetoolbar
 path: /notes/sciencetoolbar/08-23-2017/small-ac-generator-using-a-single-neodymium-sphere.md

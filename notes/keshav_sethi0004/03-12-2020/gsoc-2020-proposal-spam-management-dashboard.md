@@ -1,5 +1,5 @@
 ---
-title: GSoC 2020 proposal: Spam Management Dashboard
+title: 'GSoC 2020 proposal: Spam Management Dashboard'
 tagnames: software, plots2, gsoc, google, spam, dashboard, first-time-poster, dial, zoom:6, soc-2020, soc-2020-proposals, soc2020, lat:28.362672, lon:75.586146, keshav, smd
 author: keshav_sethi0004
 path: /notes/keshav_sethi0004/03-12-2020/gsoc-2020-proposal-spam-management-dashboard.md

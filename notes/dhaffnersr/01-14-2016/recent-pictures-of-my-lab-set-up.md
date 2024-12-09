@@ -1,5 +1,5 @@
 ---
-title: Recent Pictures of my lab set up.
+title: 'Recent Pictures of my lab set up.'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/01-14-2016/recent-pictures-of-my-lab-set-up.md

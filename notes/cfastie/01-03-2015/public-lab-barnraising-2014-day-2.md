@@ -1,5 +1,5 @@
 ---
-title: Public Lab Barnraising 2014, day 2
+title: 'Public Lab Barnraising 2014, day 2'
 tagnames: gulf-coast, kite-mapping, louisiana, cocodrie, barnraising, lumcon, barnraising2014, response:11504
 author: cfastie
 path: /notes/cfastie/01-03-2015/public-lab-barnraising-2014-day-2.md

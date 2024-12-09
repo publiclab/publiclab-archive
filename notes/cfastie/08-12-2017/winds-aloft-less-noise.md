@@ -1,5 +1,5 @@
 ---
-title: Winds aloft: less noise
+title: 'Winds aloft: less noise'
 tagnames: balloon-mapping, kite-mapping, arduino, kite-aerial-photography, kite, gps, sensors, wind, saturnv, skyshield, data-logging, skypod, bme280, ublox, rokkaku, response:14713, series:diy-wind-sensors, skypod-gps-logger, activity:skypod-gps-logger, activity:as220-wind-sensors
 author: cfastie
 path: /notes/cfastie/08-12-2017/winds-aloft-less-noise.md

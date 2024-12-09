@@ -1,5 +1,5 @@
 ---
-title: Bayou Sauvage Results 1: problems in labeling test strips
+title: 'Bayou Sauvage Results 1: problems in labeling test strips'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
 author: sara
 path: /notes/sara/7-11-2012/bayou-sauvage-results-1-problems-labeling-test-strips.md

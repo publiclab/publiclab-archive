@@ -1,5 +1,5 @@
 ---
-title: 中国城乡水质问题 - Water Risks in Urban and Rural China
+title: '中国城乡水质问题 - Water Risks in Urban and Rural China'
 tagnames: water, china
 author: shanlter
 path: /wiki/water-risks-in-urban-and-rural-china.md

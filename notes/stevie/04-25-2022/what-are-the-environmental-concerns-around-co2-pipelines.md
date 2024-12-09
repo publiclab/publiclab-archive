@@ -1,5 +1,5 @@
 ---
-title: What are the environmental concerns around CO2 pipelines? 
+title: 'What are the environmental concerns around CO2 pipelines? '
 tagnames: question:general, general, with:pat, co2-pipeline, question:co2-pipeline, carbon-capture, question:carbon-capture
 author: stevie
 path: /notes/stevie/04-25-2022/what-are-the-environmental-concerns-around-co2-pipelines.md

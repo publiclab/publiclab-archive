@@ -1,5 +1,5 @@
 ---
-title: Spectrometry UROP 4/26/11 update
+title: 'Spectrometry UROP 4/26/11 update'
 tagnames: spectrometer, activity:dsk
 author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-26-2011/spectrometry-urop-42611-update.md

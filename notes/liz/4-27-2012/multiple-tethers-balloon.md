@@ -1,5 +1,5 @@
 ---
-title: multiple tethers on balloon
+title: 'multiple tethers on balloon'
 tagnames: balloon-mapping, multiple-tethers, flying
 author: liz
 path: /notes/liz/4-27-2012/multiple-tethers-balloon.md

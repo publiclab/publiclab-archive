@@ -1,5 +1,5 @@
 ---
-title: Annual Reports
+title: 'Annual Reports'
 tagnames: non-profit, nonprofit, style:wide, style:presentation, style:fancy, annual-report
 author: Shannon
 path: /wiki/annual-reports.md

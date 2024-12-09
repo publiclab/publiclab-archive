@@ -1,5 +1,5 @@
 ---
-title: south-africa
+title: 'south-africa'
 tagnames: africa
 author: liz
 path: /wiki/south-africa.md

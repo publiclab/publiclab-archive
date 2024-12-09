@@ -1,5 +1,5 @@
 ---
-title: Mercury
+title: 'Mercury'
 tagnames: 
 author: josereyes777
 path: /notes/josereyes777/11-23-2012/mercury.md

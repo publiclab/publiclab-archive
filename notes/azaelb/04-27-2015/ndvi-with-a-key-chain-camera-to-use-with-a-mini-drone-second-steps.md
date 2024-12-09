@@ -1,5 +1,5 @@
 ---
-title: NDVI with a key chain camera to use with a mini-drone - Second steps
+title: 'NDVI with a key chain camera to use with a mini-drone - Second steps'
 tagnames: ndvi, ir, plugin, infragram, camera, photomonitoring, index, sandox, with
 author: azaelb
 path: /notes/azaelb/04-27-2015/ndvi-with-a-key-chain-camera-to-use-with-a-mini-drone-second-steps.md

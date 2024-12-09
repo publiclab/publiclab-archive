@@ -1,5 +1,5 @@
 ---
-title: How much helium do you need to fill a balloon in the regular balloon mapping kits? 
+title: 'How much helium do you need to fill a balloon in the regular balloon mapping kits? '
 tagnames: balloon-mapping, helium, question:balloon-mapping, question:general, question:helium, question:mapping, pin:question:balloon-mapping, faq-balloon-mapping
 author: stevie
 path: /notes/stevie/05-07-2019/how-much-helium-do-you-need-to-fill-a-balloon-in-the-regular-balloon-mapping-kits.md

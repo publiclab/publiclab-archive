@@ -1,5 +1,5 @@
 ---
-title: Water Wise NOLA Rain Barrel Build! 
+title: 'Water Wise NOLA Rain Barrel Build! '
 tagnames: gulf-coast, event, new-orleans, stormwater, flooding, nola, rain-barrel
 author: stevie
 path: /notes/stevie/11-28-2017/water-wise-nola-rain-barrel-build.md

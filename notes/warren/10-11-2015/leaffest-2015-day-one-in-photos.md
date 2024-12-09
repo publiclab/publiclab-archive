@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST 2015 day one in photos
+title: 'LEAFFEST 2015 day one in photos'
 tagnames: vermont, leaffest, leaffest2015, leaffester, doccom
 author: warren
 path: /notes/warren/10-11-2015/leaffest-2015-day-one-in-photos.md

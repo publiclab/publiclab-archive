@@ -1,5 +1,5 @@
 ---
-title: Riffle & Coqui Development Plan
+title: 'Riffle & Coqui Development Plan'
 tagnames: water-quality, riffle, coqui
 author: donblair
 path: /notes/donblair/01-14-2015/riffle-coqui-development-plan.md

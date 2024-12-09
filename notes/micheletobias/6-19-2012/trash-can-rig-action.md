@@ -1,5 +1,5 @@
 ---
-title: Trash Can Rig in Action
+title: 'Trash Can Rig in Action'
 tagnames: kite-mapping, photo-rig
 author: MicheleTobias
 path: /notes/micheletobias/6-19-2012/trash-can-rig-action.md

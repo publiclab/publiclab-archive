@@ -1,5 +1,5 @@
 ---
-title: bike kite
+title: 'bike kite'
 tagnames: gulf-coast, kite-mapping
 author: eustatic
 path: /2-18-2013/bike-kite.md

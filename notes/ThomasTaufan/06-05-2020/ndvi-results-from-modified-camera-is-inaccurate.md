@@ -1,5 +1,5 @@
 ---
-title: NDVI results from modified camera is inaccurate
+title: 'NDVI results from modified camera is inaccurate'
 tagnames: ndvi, filter, infragram, camera, red, redfilter, question:general, general, modified
 author: ThomasTaufan
 path: /notes/ThomasTaufan/06-05-2020/ndvi-results-from-modified-camera-is-inaccurate.md

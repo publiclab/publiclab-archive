@@ -1,5 +1,5 @@
 ---
-title: Mutual Aid in the Mist of a Pandemic 
+title: 'Mutual Aid in the Mist of a Pandemic '
 tagnames: gulf-coast, organizing, florida, issue-brief, first-time-poster, zoom:3, covid-19, lat:29.726222, lon:-84.990234, mutual-aid, apalachicola, resource-guides
 author: Adreenah
 path: /notes/Adreenah/11-23-2020/mutual-aid-in-the-mist-of-a-pandemic.md

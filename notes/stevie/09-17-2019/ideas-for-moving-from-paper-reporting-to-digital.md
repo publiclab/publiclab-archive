@@ -1,5 +1,5 @@
 ---
-title: Ideas for moving from paper reporting to digital?
+title: 'Ideas for moving from paper reporting to digital?'
 tagnames: question:question, question:sentinel, question:reporting, question:midwest
 author: stevie
 path: /notes/stevie/09-17-2019/ideas-for-moving-from-paper-reporting-to-digital.md

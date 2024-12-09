@@ -1,5 +1,5 @@
 ---
-title: Measurements on the MultispeQ beta, soon to be released
+title: 'Measurements on the MultispeQ beta, soon to be released'
 tagnames: fluorescence, soil, health, photosynthesis, photosynq, plant, multispeq
 author: gbathree
 path: /notes/gbathree/12-12-2014/measurements-on-the-multispeq-beta-soon-to-be-released.md

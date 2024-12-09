@@ -1,5 +1,5 @@
 ---
-title: Difference CFL and Tube light?
+title: 'Difference CFL and Tube light?'
 tagnames: question:spectral-workbench, answered
 author: Joris
 path: /notes/Joris/04-30-2016/difference-cfl-and-tube-light.md

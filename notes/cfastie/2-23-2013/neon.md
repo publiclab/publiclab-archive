@@ -1,5 +1,5 @@
 ---
-title: Neon
+title: 'Neon'
 tagnames: spectrometer, vermont, ebert, neon-sign, neon
 author: cfastie
 path: /notes/cfastie/2-23-2013/neon.md

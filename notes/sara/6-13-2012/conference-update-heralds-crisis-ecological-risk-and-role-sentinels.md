@@ -1,5 +1,5 @@
 ---
-title: Conference Update: Heralds of Crisis: Ecological Risk and the Role of Sentinels
+title: 'Conference Update: Heralds of Crisis: Ecological Risk and the Role of Sentinels'
 tagnames: conferences
 author: sara
 path: /notes/sara/6-13-2012/conference-update-heralds-crisis-ecological-risk-and-role-sentinels.md

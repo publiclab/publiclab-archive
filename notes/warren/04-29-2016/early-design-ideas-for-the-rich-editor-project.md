@@ -1,5 +1,5 @@
 ---
-title: Early design ideas for the Rich Editor project
+title: 'Early design ideas for the Rich Editor project'
 tagnames: software, design, web, developers, wwg, editor, rich-editor
 author: warren
 path: /notes/warren/04-29-2016/early-design-ideas-for-the-rich-editor-project.md

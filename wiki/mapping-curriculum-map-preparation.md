@@ -1,5 +1,5 @@
 ---
-title: Mapping Curriculum: Map Production with PLOTS Map Toolkit 
+title: 'Mapping Curriculum: Map Production with PLOTS Map Toolkit '
 tagnames: 
 author: warren
 path: /wiki/mapping-curriculum-map-preparation.md

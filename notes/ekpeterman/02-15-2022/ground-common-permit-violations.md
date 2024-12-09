@@ -1,5 +1,5 @@
 ---
-title: Ground: Common Permit Violations
+title: 'Ground: Common Permit Violations'
 tagnames: coal-mining, mining, regulations, with:stevie, advocacy, permit-violation, with:junior_walk1337, mmmp, with:jfreemanfilm
 author: ekpeterman
 path: /notes/ekpeterman/02-15-2022/ground-common-permit-violations.md

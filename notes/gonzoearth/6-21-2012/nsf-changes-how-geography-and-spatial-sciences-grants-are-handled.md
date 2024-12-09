@@ -1,5 +1,5 @@
 ---
-title: NSF Changes how Geography and Spatial Sciences Grants are Handled
+title: 'NSF Changes how Geography and Spatial Sciences Grants are Handled'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/6-21-2012/nsf-changes-how-geography-and-spatial-sciences-grants-are-handled.md

@@ -1,5 +1,5 @@
 ---
-title: Map annotation brainstorming notes
+title: 'Map annotation brainstorming notes'
 tagnames: balloon-mapping, kite-mapping, annotated-maps
 author: Shannon
 path: /notes/shannon/1-9-2013/map-annotation-brainstorming-notes.md

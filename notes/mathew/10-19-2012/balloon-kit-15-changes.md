@@ -1,5 +1,5 @@
 ---
-title: Balloon Kit 1.5 changes
+title: 'Balloon Kit 1.5 changes'
 tagnames: balloon-mapping, retail, balloon-mapping-kit
 author: mathew
 path: /notes/mathew/10-19-2012/balloon-kit-15-changes.md

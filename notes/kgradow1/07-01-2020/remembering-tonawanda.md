@@ -1,5 +1,5 @@
 ---
-title: Remembering Tonawanda
+title: 'Remembering Tonawanda'
 tagnames: epa, air-quality, history, blog, northeast, bucket-brigade, tonawanda, storytelling, lon:-71, with:jjcreedon, lat:42, zoom:6, bucket-monitor, lat:43.020334, lon:-78.880315, lat:43.020713, lon:-78.881835
 author: kgradow1
 path: /notes/kgradow1/07-01-2020/remembering-tonawanda.md

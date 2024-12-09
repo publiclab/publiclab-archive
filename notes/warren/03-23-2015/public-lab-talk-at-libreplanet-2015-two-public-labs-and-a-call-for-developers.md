@@ -1,5 +1,5 @@
 ---
-title: Public Lab talk at LibrePlanet 2015: Two Public Labs, and a call for developers
+title: 'Public Lab talk at LibrePlanet 2015: Two Public Labs, and a call for developers'
 tagnames: boston, open-source, community, web-development, presentations, software, talk, presentation, developers, libreplanet, free-software
 author: warren
 path: /notes/warren/03-23-2015/public-lab-talk-at-libreplanet-2015-two-public-labs-and-a-call-for-developers.md

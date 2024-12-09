@@ -1,5 +1,5 @@
 ---
-title: Infragram Sandbox
+title: 'Infragram Sandbox'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, infragram-sandbox, parent:infragram
 author: warren
 path: /wiki/infragram-sandbox.md

@@ -1,5 +1,5 @@
 ---
-title: Exploring New Stormwater Monitoring Methods
+title: 'Exploring New Stormwater Monitoring Methods'
 tagnames: gulf-coast, new-orleans, blog, stormwater, workshop-series
 author: stevie
 path: /notes/stevie/07-18-2017/exploring-new-stormwater-monitoring-methods.md

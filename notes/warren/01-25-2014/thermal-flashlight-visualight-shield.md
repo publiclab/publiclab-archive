@@ -1,5 +1,5 @@
 ---
-title: Thermal flashlight Visualight shield
+title: 'Thermal flashlight Visualight shield'
 tagnames: thermal-photography, thermal-flashlight, visualight, pcb, response:9784, upverter, circuit, upgrade:thermal-flashlight
 author: warren
 path: /notes/warren/01-25-2014/thermal-flashlight-visualight-shield.md

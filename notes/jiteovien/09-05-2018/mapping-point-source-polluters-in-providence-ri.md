@@ -1,5 +1,5 @@
 ---
-title: Mapping point-source polluters in Providence, RI
+title: 'Mapping point-source polluters in Providence, RI'
 tagnames: providence, massachusetts, air-quality, visualization, pollution, monitoring, northeast, tableau, location:blurred, place:providence, lat:41.8, lon:-71.4, fang, demographics, polluters
 author: jiteovien
 path: /notes/jiteovien/09-05-2018/mapping-point-source-polluters-in-providence-ri.md

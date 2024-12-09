@@ -1,5 +1,5 @@
 ---
-title: mobius-infragram-erroneous
+title: 'mobius-infragram-erroneous'
 tagnames: 
 author: warren
 path: /wiki/mobius-infragram-erroneous.md

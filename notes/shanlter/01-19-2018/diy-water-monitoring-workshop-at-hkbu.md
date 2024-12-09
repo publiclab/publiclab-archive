@@ -1,5 +1,5 @@
 ---
-title: DIY water monitoring workshop at HKBU
+title: 'DIY water monitoring workshop at HKBU'
 tagnames: workshop, water-quality, knowflow, activity:knowflow
 author: shanlter
 path: /notes/shanlter/01-19-2018/diy-water-monitoring-workshop-at-hkbu.md

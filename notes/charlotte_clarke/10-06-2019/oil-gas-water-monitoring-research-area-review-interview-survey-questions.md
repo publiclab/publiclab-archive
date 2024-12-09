@@ -1,5 +1,5 @@
 ---
-title: Oil & Gas Water Monitoring Research Area Review: Interview/Survey Questions
+title: 'Oil & Gas Water Monitoring Research Area Review: Interview/Survey Questions'
 tagnames: water-quality, oil-and-gas, oil-and-gas-water-trio
 author: charlotte_clarke
 path: /notes/charlotte_clarke/10-06-2019/oil-gas-water-monitoring-research-area-review-interview-survey-questions.md

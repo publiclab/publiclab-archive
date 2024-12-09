@@ -1,5 +1,5 @@
 ---
-title: Huentek Infragram Webcam tests
+title: 'Huentek Infragram Webcam tests'
 tagnames: near-infrared-camera, kickstarter, webcam, infragram, infragram-conversion
 author: warren
 path: /notes/warren/08-29-2013/huentek-infragram-webcam-tests.md

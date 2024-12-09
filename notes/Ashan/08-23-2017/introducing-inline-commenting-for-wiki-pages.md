@@ -1,5 +1,5 @@
 ---
-title: GSoC 2017: Final Report on Wiki Discussion
+title: 'GSoC 2017: Final Report on Wiki Discussion'
 tagnames: software, gsoc, google-summer-of-code, gsoc-2017, soc, soc-2017, response:14788
 author: Ashan
 path: /notes/Ashan/08-23-2017/introducing-inline-commenting-for-wiki-pages.md

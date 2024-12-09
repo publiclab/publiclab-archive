@@ -1,5 +1,5 @@
 ---
-title: What are examples of air quality data visualizations that don’t require coding or computationally intensive computer graphics?
+title: 'What are examples of air quality data visualizations that don’t require coding or computationally intensive computer graphics?'
 tagnames: data-visualization, presenting-data, question:presenting-data, air-quality-data, question:air-quality-data, question:data-visualization, data-visualization-tool
 author: bhamster
 path: /notes/bhamster/10-26-2021/what-are-examples-of-air-quality-data-visualizations-that-don-t-require-coding-or-computationally-intensive-computer-graphics.md

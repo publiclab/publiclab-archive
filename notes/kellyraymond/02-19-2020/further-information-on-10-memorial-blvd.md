@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (10 Memorial Blvd)
+title: 'Art in Ruins (10 Memorial Blvd)'
 tagnames: hidden:response, zoom:14, unearthing-pvd-stories, lat:41.82643743, lon:-71.40990031, lat:41.826437, lon:-71.4099, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/further-information-on-10-memorial-blvd.md

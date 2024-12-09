@@ -1,5 +1,5 @@
 ---
-title: Infragram Webcam testing update
+title: 'Infragram Webcam testing update'
 tagnames: near-infrared-camera, kickstarter, infragram
 author: warren
 path: /notes/warren/11-06-2013/infragram-webcam-testing-update.md

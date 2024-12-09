@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (771 Main Street)
+title: 'Art in Ruins (771 Main Street)'
 tagnames: hidden:response, zoom:9, lat:41.77689660184864, lon:-71.31500244140626, lat:41.72008, lon:-71.531982, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-771-main-street.md

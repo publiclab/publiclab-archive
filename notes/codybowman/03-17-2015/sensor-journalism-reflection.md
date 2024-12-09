@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism Reflection
+title: 'Sensor Journalism Reflection'
 tagnames: 
 author: codybowman
 path: /notes/codybowman/03-17-2015/sensor-journalism-reflection.md

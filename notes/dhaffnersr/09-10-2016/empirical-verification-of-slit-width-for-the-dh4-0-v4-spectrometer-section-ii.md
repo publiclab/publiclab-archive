@@ -1,5 +1,5 @@
 ---
-title: Empirical Verification Of Slit Width For The DH4.0 v4 Spectrometer Section II
+title: 'Empirical Verification Of Slit Width For The DH4.0 v4 Spectrometer Section II'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/09-10-2016/empirical-verification-of-slit-width-for-the-dh4-0-v4-spectrometer-section-ii.md

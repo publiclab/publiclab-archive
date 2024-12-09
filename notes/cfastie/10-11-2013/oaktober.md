@@ -1,5 +1,5 @@
 ---
-title: Oaktober
+title: 'Oaktober'
 tagnames: near-infrared-camera, ndvi, vermont, infragram, photosynthesis, infrablue, pigments, response:9432, red-filter, activity:multispectral-imaging
 author: cfastie
 path: /notes/cfastie/10-11-2013/oaktober.md

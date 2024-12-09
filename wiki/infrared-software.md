@@ -1,5 +1,5 @@
 ---
-title: Infrared Software
+title: 'Infrared Software'
 tagnames: 
 author: warren
 path: /wiki/infrared-software.md

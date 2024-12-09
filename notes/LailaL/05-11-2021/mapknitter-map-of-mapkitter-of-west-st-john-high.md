@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of MapKitter of West St. John High
+title: 'MapKnitter map of MapKitter of West St. John High'
 tagnames: mapknitter, zoom:18, lat:30.0165271, lon:-90.5529535, lat:30.016527, lon:-90.552953
 author: LailaL
 path: /notes/LailaL/05-11-2021/mapknitter-map-of-mapkitter-of-west-st-john-high.md

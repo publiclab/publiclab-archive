@@ -1,5 +1,5 @@
 ---
-title: Fade out
+title: 'Fade out'
 tagnames: near-infrared-camera, vermont, leaffest, infragram, infrablue, leaffest2013, response:9305
 author: cfastie
 path: /notes/cfastie/09-11-2013/fade-out.md

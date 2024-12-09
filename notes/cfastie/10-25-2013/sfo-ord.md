@@ -1,5 +1,5 @@
 ---
-title: SFO-ORD
+title: 'SFO-ORD'
 tagnames: near-infrared-camera, ndvi, passenger-pigeon, infragram, photosynthesis, gsoc, google, google-summer-of-code, gsoc2013, infrablue, response:9540, mentorsummit, mentorsummit13, a810
 author: cfastie
 path: /notes/cfastie/10-25-2013/sfo-ord.md

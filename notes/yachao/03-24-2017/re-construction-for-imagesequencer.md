@@ -1,5 +1,5 @@
 ---
-title: Re-construction for ImageSequencer
+title: 'Re-construction for ImageSequencer'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
 author: yachao
 path: /notes/yachao/03-24-2017/re-construction-for-imagesequencer.md

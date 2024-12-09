@@ -1,5 +1,5 @@
 ---
-title: Spread the word this holiday season
+title: 'Spread the word this holiday season'
 tagnames: diy
 author: joyofsoy
 path: /wiki/spread-the-word-this-holiday-season.md

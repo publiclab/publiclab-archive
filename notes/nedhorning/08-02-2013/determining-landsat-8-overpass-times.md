@@ -1,5 +1,5 @@
 ---
-title: Determining Landsat 8 overpass times
+title: 'Determining Landsat 8 overpass times'
 tagnames: remote-sensing, landsat, satellite-imagery, activity:remote-sensing
 author: nedhorning
 path: /notes/nedhorning/08-02-2013/determining-landsat-8-overpass-times.md

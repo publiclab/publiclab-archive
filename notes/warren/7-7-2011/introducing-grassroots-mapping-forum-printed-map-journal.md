@@ -1,5 +1,5 @@
 ---
-title: Introducing the Grassroots Mapping Forum - a printed map journal
+title: 'Introducing the Grassroots Mapping Forum - a printed map journal'
 tagnames: 
 author: warren
 path: /notes/warren/7-7-2011/introducing-grassroots-mapping-forum-printed-map-journal.md

@@ -1,5 +1,5 @@
 ---
-title: Survey for newcomers on interface design of new editor
+title: 'Survey for newcomers on interface design of new editor'
 tagnames: software, developers, code, survey, editor, rich-editor, newcomers
 author: warren
 path: /notes/warren/05-19-2016/survey-for-newcomers-on-interface-design-of-new-editor.md

@@ -1,5 +1,5 @@
 ---
-title: Field test #2: H2S strip placement in Bayou Sauvage NWR, Orleans Parish, LA
+title: 'Field test #2: H2S strip placement in Bayou Sauvage NWR, Orleans Parish, LA'
 tagnames: hydrogen-sulfide-sensing, wetlands, hydrogen-sulfide, h2s
 author: Shannon
 path: /notes/shannon/8-5-2012/field-test-2-h2s-strip-placement-bayou-sauvage-nwr-orleans-parish-la.md

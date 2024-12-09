@@ -1,5 +1,5 @@
 ---
-title: What Are Some Important Tools/Resources in an Environmental Emergency Response?
+title: 'What Are Some Important Tools/Resources in an Environmental Emergency Response?'
 tagnames: disaster-preparedness, kits, tools, question:question, disaster-response, disaster-resilience, disaster-recovery, emergency, question:disaster-response, crisis, question:crisis-convening, question:barnraising-texas, question:texas-barnraising
 author: Bronwen
 path: /notes/bronwen/06-26-2018/what-are-some-important-tools-resources-in-an-environmental-emergency-response.md

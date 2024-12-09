@@ -1,5 +1,5 @@
 ---
-title: Looking for New Orleans Pole Mappers
+title: 'Looking for New Orleans Pole Mappers'
 tagnames: event, event:rsvp, date:06-13-2016
 author: eloisereid
 path: /notes/eloisereid/06-13-2016/looking-for-new-orleans-pole-mappers.md

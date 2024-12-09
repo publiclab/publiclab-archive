@@ -1,5 +1,5 @@
 ---
-title: Barataria and other ground photos for inclusion in future Archive map entries
+title: 'Barataria and other ground photos for inclusion in future Archive map entries'
 tagnames: gulf-coast, oil-spill, barataria
 author: warren
 path: /notes/warren/11-8-2011/barataria-and-other-ground-photos-inclusion-future-archive-map-entries.md

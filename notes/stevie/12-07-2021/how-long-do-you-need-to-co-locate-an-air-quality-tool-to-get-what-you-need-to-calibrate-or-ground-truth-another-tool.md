@@ -1,5 +1,5 @@
 ---
-title: How long do you need to co-locate an air quality tool to get what you need to calibrate or  "ground truth" another tool? 
+title: 'How long do you need to co-locate an air quality tool to get what you need to calibrate or  "ground truth" another tool? '
 tagnames: calibration, air-quality, sensors, pm, sensor, question:calibration, question:air-quality, question:pm, question:general, general, particulate-matter, question:sensors, question:sensor, frm, question:frm
 author: stevie
 path: /notes/stevie/12-07-2021/how-long-do-you-need-to-co-locate-an-air-quality-tool-to-get-what-you-need-to-calibrate-or-ground-truth-another-tool.md

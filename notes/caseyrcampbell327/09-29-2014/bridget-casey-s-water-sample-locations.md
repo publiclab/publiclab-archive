@@ -1,5 +1,5 @@
 ---
-title: Bridget & Casey's Water Sample Locations 
+title: 'Bridget & Casey's Water Sample Locations '
 tagnames: water-quality, first-time-poster
 author: caseyrcampbell327
 path: /notes/caseyrcampbell327/09-29-2014/bridget-casey-s-water-sample-locations.md

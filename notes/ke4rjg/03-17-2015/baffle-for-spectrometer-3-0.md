@@ -1,5 +1,5 @@
 ---
-title: Baffle for Spectrometer 3.0
+title: 'Baffle for Spectrometer 3.0'
 tagnames: spectrometer, oil-testing-kit, improvement, baffle, spectrometer-3, spec-3
 author: ke4rjg
 path: /notes/ke4rjg/03-17-2015/baffle-for-spectrometer-3-0.md

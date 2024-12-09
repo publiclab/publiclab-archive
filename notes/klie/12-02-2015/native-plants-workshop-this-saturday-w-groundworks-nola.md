@@ -1,5 +1,5 @@
 ---
-title: Native Plants Workshop THIS Saturday w/ Groundwork NOLA
+title: 'Native Plants Workshop THIS Saturday w/ Groundwork NOLA'
 tagnames: gulf-coast, event, event:rsvp, date:12-05-2015, location:neworleans
 author: klie
 path: /notes/klie/12-02-2015/native-plants-workshop-this-saturday-w-groundworks-nola.md

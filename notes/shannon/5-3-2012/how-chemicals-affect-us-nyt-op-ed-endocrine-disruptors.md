@@ -1,5 +1,5 @@
 ---
-title: How chemicals affect us- NYT op-ed on endocrine disruptors
+title: 'How chemicals affect us- NYT op-ed on endocrine disruptors'
 tagnames: 
 author: Shannon
 path: /notes/shannon/5-3-2012/how-chemicals-affect-us-nyt-op-ed-endocrine-disruptors.md

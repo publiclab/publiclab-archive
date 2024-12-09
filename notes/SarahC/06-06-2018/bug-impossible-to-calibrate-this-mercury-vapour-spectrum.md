@@ -1,5 +1,5 @@
 ---
-title: Bug : Impossible to calibrate this mercury vapour spectrum
+title: 'Bug : Impossible to calibrate this mercury vapour spectrum'
 tagnames: question:spectral-workbench, answered
 author: SarahC
 path: /notes/SarahC/06-06-2018/bug-impossible-to-calibrate-this-mercury-vapour-spectrum.md

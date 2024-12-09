@@ -1,5 +1,5 @@
 ---
-title: Camera that would detect at 1064nm?
+title: 'Camera that would detect at 1064nm?'
 tagnames: infrared, laser, camera, question:spectrometry, question:infragram
 author: jpschaaf
 path: /notes/jpschaaf/01-17-2018/camera-that-would-detect-at-1064nm.md

@@ -1,5 +1,5 @@
 ---
-title: Klorauto - Automated Chlorination
+title: 'Klorauto - Automated Chlorination'
 tagnames: potentiostat, water, chlorine
 author: Markos
 path: /notes/Markos/08-24-2015/klorauto-automated-chlorination.md

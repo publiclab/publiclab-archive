@@ -1,5 +1,5 @@
 ---
-title: Mentor Summit
+title: 'Mentor Summit'
 tagnames: near-infrared-camera, ndvi, infragram, gsoc, google, google-summer-of-code, gsoc2013, blog, infrablue, response:9540, mentorsummit, mentorsummit13
 author: cfastie
 path: /notes/cfastie/10-24-2013/mentor-summit.md

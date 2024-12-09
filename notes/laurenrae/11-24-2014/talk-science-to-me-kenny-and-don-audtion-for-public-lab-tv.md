@@ -1,5 +1,5 @@
 ---
-title: Talk science to me - Kenny and Don audtion for Public Lab TV
+title: 'Talk science to me - Kenny and Don audtion for Public Lab TV'
 tagnames: gulf-coast, video, water-sensing, riffle, engagement, coqui
 author: laurenrae
 path: /notes/laurenrae/11-24-2014/talk-science-to-me-kenny-and-don-audtion-for-public-lab-tv.md

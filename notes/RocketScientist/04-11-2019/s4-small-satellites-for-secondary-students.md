@@ -1,5 +1,5 @@
 ---
-title: S4: Small Satellites for Secondary Students
+title: 'S4: Small Satellites for Secondary Students'
 tagnames: spectrometer, balloon-telemetry-kit, sensor, first-time-poster
 author: RocketScientist
 path: /notes/RocketScientist/04-11-2019/s4-small-satellites-for-secondary-students.md

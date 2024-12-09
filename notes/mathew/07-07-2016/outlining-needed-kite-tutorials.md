@@ -1,5 +1,5 @@
 ---
-title: Outlining needed kite tutorials
+title: 'Outlining needed kite tutorials'
 tagnames: kite-mapping, kite-aerial-photography, kite, photo-rig, kite-fishing, kite-anemometer
 author: mathew
 path: /notes/mathew/07-07-2016/outlining-needed-kite-tutorials.md

@@ -1,5 +1,5 @@
 ---
-title: Public Mapping Mission - Newtown Creek
+title: 'Public Mapping Mission - Newtown Creek'
 tagnames: new-york-city, education, newtown-creek, event, events:new-york-city, blog, nyu, replication:14022, media-lab, govlab, cusp
 author: nicholas
 path: /notes/nicholas/12-02-2013/public-mapping-mission-newtown-creek.md

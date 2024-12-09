@@ -1,5 +1,5 @@
 ---
-title: Actual BBC headline: "Fracking for oil and gas 'safe' says report"
+title: 'Actual BBC headline: "Fracking for oil and gas 'safe' says report"'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/4-17-2012/actual-bbc-headline-fracking-oil-and-gas-safe-says-report.md

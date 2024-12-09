@@ -1,5 +1,5 @@
 ---
-title: Superblue
+title: 'Superblue'
 tagnames: near-infrared-camera, nrg, ndvi, vermont, white-balance, infragram, plant-health, superblue, rosco, infragram-filters, barnstar:basic
 author: cfastie
 path: /notes/cfastie/04-20-2013/superblue.md

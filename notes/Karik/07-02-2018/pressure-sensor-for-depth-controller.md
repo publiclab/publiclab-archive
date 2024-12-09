@@ -1,5 +1,5 @@
 ---
-title: Pressure sensor for depth controller
+title: 'Pressure sensor for depth controller'
 tagnames: underwater, asia, pressure, sensor, depth, depth-sensor, question:general, control, question:sensors, vehicle, gliders, question:depth-sensor, malaysia
 author: Karik
 path: /notes/Karik/07-02-2018/pressure-sensor-for-depth-controller.md

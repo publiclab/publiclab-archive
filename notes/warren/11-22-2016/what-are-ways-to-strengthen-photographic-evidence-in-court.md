@@ -1,5 +1,5 @@
 ---
-title: What are ways to strengthen photographic evidence in court?
+title: 'What are ways to strengthen photographic evidence in court?'
 tagnames: evidence, photo-monitoring, timelapse, legal, metadata, chain-of-custody, question:timelapse, question:evidence, question:photo-monitoring, photographic-evidence, court, response:13716, photo-evidence, question:legal, law-and-policy, question:law-and-policy
 author: warren
 path: /notes/warren/11-22-2016/what-are-ways-to-strengthen-photographic-evidence-in-court.md

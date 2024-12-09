@@ -1,5 +1,5 @@
 ---
-title: The Neighborhood Creek Expedition
+title: 'The Neighborhood Creek Expedition'
 tagnames: boston, water-sensing, massachusetts, water-quality, water, northeast, waltham
 author: kanarinka
 path: /notes/kanarinka/06-09-2014/the-neighborhood-creek-expedition.md

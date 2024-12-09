@@ -1,5 +1,5 @@
 ---
-title: Connecting with our Landfills by Nicholas Johnson
+title: 'Connecting with our Landfills by Nicholas Johnson'
 tagnames: landfill, grassrootsmappingforum, trash, fresh-kills, gmf-6, style:fancy
 author: mollydanielsson
 path: /wiki/connecting-with-our-landfills-by-nicholas-johnson.md

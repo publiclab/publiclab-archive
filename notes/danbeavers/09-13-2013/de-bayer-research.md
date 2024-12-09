@@ -1,5 +1,5 @@
 ---
-title: De-Bayer research
+title: 'De-Bayer research'
 tagnames: bayer-filter, camera, camera-modification, debayering
 author: danbeavers
 path: /notes/danbeavers/09-13-2013/de-bayer-research.md

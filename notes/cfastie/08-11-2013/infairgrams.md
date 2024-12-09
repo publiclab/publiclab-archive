@@ -1,5 +1,5 @@
 ---
-title: Infairgrams
+title: 'Infairgrams'
 tagnames: near-infrared-camera, vermont, infrared, photoshop, infragram
 author: cfastie
 path: /notes/cfastie/08-11-2013/infairgrams.md

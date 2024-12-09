@@ -1,5 +1,5 @@
 ---
-title: CFL repeatability study part two...
+title: 'CFL repeatability study part two...'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/04-18-2016/cfl-repeatability-study-part-two.md

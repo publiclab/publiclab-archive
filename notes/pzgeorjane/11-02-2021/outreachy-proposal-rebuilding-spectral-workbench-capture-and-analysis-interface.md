@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Rebuilding Spectral Workbench capture and analysis interface
+title: 'Outreachy proposal: Rebuilding Spectral Workbench capture and analysis interface'
 tagnames: software, outreachy, first-time-poster, zoom:5, outreachy-2021, outreachy-winter-2021, lat:5.965753, lon:10.151367
 author: pzgeorjane
 path: /notes/pzgeorjane/11-02-2021/outreachy-proposal-rebuilding-spectral-workbench-capture-and-analysis-interface.md

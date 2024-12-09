@@ -1,5 +1,5 @@
 ---
-title: GSoC Final Update for Mapknitter- Rotation and Scaling.
+title: 'GSoC Final Update for Mapknitter- Rotation and Scaling.'
 tagnames: mapknitter, gsoc, developers, gsoc-2014
 author: anishshah101
 path: /notes/anishshah101/08-15-2014/gsoc-final-update-for-mapknitter-rotation-and-scaling.md

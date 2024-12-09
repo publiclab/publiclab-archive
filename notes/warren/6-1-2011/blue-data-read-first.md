@@ -1,5 +1,5 @@
 ---
-title: Is blue data read first?
+title: 'Is blue data read first?'
 tagnames: 
 author: warren
 path: /notes/warren/6-1-2011/blue-data-read-first.md

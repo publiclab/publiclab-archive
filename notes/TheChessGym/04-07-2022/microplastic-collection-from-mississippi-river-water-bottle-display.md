@@ -1,5 +1,5 @@
 ---
-title: Microplastic Collection From Mississippi River Water Bottle Display
+title: 'Microplastic Collection From Mississippi River Water Bottle Display'
 tagnames: gulf-coast, mississippi-river, lat:22, babylegs, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/04-07-2022/microplastic-collection-from-mississippi-river-water-bottle-display.md

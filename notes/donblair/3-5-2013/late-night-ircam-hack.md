@@ -1,5 +1,5 @@
 ---
-title: Late-night IRCAM hack
+title: 'Late-night IRCAM hack'
 tagnames: near-infrared-camera, near-infrared, ircam, near-ir, irkit, infragram
 author: donblair
 path: /notes/donblair/3-5-2013/late-night-ircam-hack.md

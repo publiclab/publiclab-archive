@@ -1,5 +1,5 @@
 ---
-title: CSI: Creek Scene Investigators -public lab tv-
+title: 'CSI: Creek Scene Investigators -public lab tv-'
 tagnames: video, water-quality, water, creek, tv, openwater, barnstar:video-documentation, waterquality, publiclabtv, csi
 author: mathew
 path: /notes/mathew/12-15-2014/csi-creek-scene-investigators-public-lab-tv.md

@@ -1,5 +1,5 @@
 ---
-title: Western NY Community Based Science for Action Regional Workshop: Tonawanda, NY
+title: 'Western NY Community Based Science for Action Regional Workshop: Tonawanda, NY'
 tagnames: new-york-city, event, event:rsvp, date:08-04-2015
 author: liz
 path: /notes/liz/08-04-2015/western-ny-community-based-science-for-action-regional-workshop-tonawanda-ny.md

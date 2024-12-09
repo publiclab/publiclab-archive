@@ -1,5 +1,5 @@
 ---
-title: Map of Projects
+title: 'Map of Projects'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, first-time-poster
 author: mridulnagpal
 path: /notes/mridulnagpal/03-01-2017/map-of-projects.md

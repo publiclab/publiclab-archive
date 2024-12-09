@@ -1,5 +1,5 @@
 ---
-title: Thermal flashlight tests at the p.irateship
+title: 'Thermal flashlight tests at the p.irateship'
 tagnames: thermal-photography, arduino, thermal-flashlight, temperature, thermal, melexis, replication:625, pirateship
 author: warren
 path: /notes/warren/12-12-2011/thermal-flashlight-tests-pirateship.md

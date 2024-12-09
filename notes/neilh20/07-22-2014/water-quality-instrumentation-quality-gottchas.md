@@ -1,5 +1,5 @@
 ---
-title: Water quality instrumentation quality gottchas
+title: 'Water quality instrumentation quality gottchas'
 tagnames: standards, openhardware, water-quality, measurement, riffle, validation, specification, traceability, quality-matrix, first-time-poster
 author: neilh20
 path: /notes/neilh20/07-22-2014/water-quality-instrumentation-quality-gottchas.md

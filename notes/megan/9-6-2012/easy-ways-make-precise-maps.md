@@ -1,5 +1,5 @@
 ---
-title: Easy ways to make precise maps
+title: 'Easy ways to make precise maps'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, activity:mapping
 author: megan
 path: /notes/megan/9-6-2012/easy-ways-make-precise-maps.md

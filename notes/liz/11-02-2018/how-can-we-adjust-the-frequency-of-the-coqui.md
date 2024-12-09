@@ -1,5 +1,5 @@
 ---
-title: How can we adjust the frequency of the coqui?
+title: 'How can we adjust the frequency of the coqui?'
 tagnames: coqui, answered, question:coqui, pin:question:coqui
 author: liz
 path: /notes/liz/11-02-2018/how-can-we-adjust-the-frequency-of-the-coqui.md

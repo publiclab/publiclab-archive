@@ -1,5 +1,5 @@
 ---
-title: i am sudanese student study electrical engneering 5th year last year i want to creat a drone to spray fields and i want to connect in it a camera to analysis the plants  i use the ardupilot for controlling the plane.  
+title: 'i am sudanese student study electrical engneering 5th year last year i want to creat a drone to spray fields and i want to connect in it a camera to analysis the plants  i use the ardupilot for controlling the plane.  '
 tagnames: question:agriculture, first-time-poster
 author: emad
 path: /notes/emad/10-01-2018/i-am-sudanese-student-study-electrical-engneering-5th-year-last-year-i-want-to-creat-a-drone-to-spray-fields-and-i-want-to-connect-in-it-a-camera-to-analysis-the-plants-i-use-the-ardupilot-for-controlling-the-plane.md

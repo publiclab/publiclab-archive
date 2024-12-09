@@ -1,5 +1,5 @@
 ---
-title: Great shot for NDVI
+title: 'Great shot for NDVI'
 tagnames: lima, near-infrared-camera, ndvi
 author: warren
 path: /notes/warren/1-7-2011/great-shot-ndvi.md

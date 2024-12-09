@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (50 Promenade Street)
+title: 'Art in Ruins (50 Promenade Street)'
 tagnames: hidden:response, lat:41.7, zoom:6, lon:-71.5, zoom:10, lat:41.819431, lon:-71.448211, lat:41.827872, lon:-71.417721, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-50-aleppo-street.md

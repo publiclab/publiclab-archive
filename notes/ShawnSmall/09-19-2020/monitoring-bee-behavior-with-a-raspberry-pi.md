@@ -1,5 +1,5 @@
 ---
-title: Monitoring Bee Behavior with a Raspberry Pi
+title: 'Monitoring Bee Behavior with a Raspberry Pi'
 tagnames: raspberrypi, first-time-poster, computervision
 author: ShawnSmall
 path: /notes/ShawnSmall/09-19-2020/monitoring-bee-behavior-with-a-raspberry-pi.md

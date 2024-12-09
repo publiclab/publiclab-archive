@@ -1,5 +1,5 @@
 ---
-title: Infragram Media
+title: 'Infragram Media'
 tagnames: near-infrared-camera, ndvi, infragram
 author: warren
 path: /wiki/infragram-media.md

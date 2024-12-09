@@ -1,5 +1,5 @@
 ---
-title: Gena's large format print
+title: 'Gena's large format print'
 tagnames: 
 author: liz
 path: /notes/liz/1-29-2013/genas-large-format-print.md

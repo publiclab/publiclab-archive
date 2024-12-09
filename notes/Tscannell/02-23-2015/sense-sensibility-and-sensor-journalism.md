@@ -1,5 +1,5 @@
 ---
-title: Sense, Sensibility, and Sensor Journalism
+title: 'Sense, Sensibility, and Sensor Journalism'
 tagnames: sensor-journalism
 author: Tscannell
 path: /notes/Tscannell/02-23-2015/sense-sensibility-and-sensor-journalism.md

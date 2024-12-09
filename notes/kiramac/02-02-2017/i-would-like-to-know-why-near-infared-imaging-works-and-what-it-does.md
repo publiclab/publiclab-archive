@@ -1,5 +1,5 @@
 ---
-title: I would like to know why near infared imaging works, and what it does.
+title: 'I would like to know why near infared imaging works, and what it does.'
 tagnames: question:infragram, question:infrared, question:multispectral-imaging
 author: kiramac
 path: /notes/kiramac/02-02-2017/i-would-like-to-know-why-near-infared-imaging-works-and-what-it-does.md

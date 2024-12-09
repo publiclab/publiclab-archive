@@ -1,5 +1,5 @@
 ---
-title: Tips for environmental storytelling
+title: 'Tips for environmental storytelling'
 tagnames: blog, storytelling, lat:29, lon:-90, zoom:6, tbt, communications, data-advocacy
 author: joyofsoy
 path: /notes/joyofsoy/08-07-2020/tips-for-environmental-storytelling.md

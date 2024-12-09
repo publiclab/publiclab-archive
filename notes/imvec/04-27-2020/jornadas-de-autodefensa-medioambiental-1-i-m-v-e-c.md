@@ -1,5 +1,5 @@
 ---
-title: Jornadas de Autodefensa Medioambiental JAM#1: I.M.V.E.C.
+title: 'Jornadas de Autodefensa Medioambiental JAM#1: I.M.V.E.C.'
 tagnames: lang:es, spanish, zoom:14, cosquin, lat:41.408488, lon:2.199325, jam, autodefensa, autodefensa-vecinal
 author: imvec
 path: /notes/imvec/04-27-2020/jornadas-de-autodefensa-medioambiental-1-i-m-v-e-c.md

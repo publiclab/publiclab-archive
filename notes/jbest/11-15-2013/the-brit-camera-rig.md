@@ -1,5 +1,5 @@
 ---
-title: The BRIT camera rig
+title: 'The BRIT camera rig'
 tagnames: balloon-mapping, picavet, photo-rig, response:9742, activity:photo-rig
 author: jbest
 path: /notes/jbest/11-15-2013/the-brit-camera-rig.md

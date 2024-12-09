@@ -1,5 +1,5 @@
 ---
-title: An Arduino Based UnderWater Sensor Platform
+title: 'An Arduino Based UnderWater Sensor Platform'
 tagnames: arduino, education, temperature, pvc, water-quality, water, water-monitoring, water-quality-sensor, underwater, datalogger, conductivity, pressure, logger, barnstar:basic, activity:water-sensors, datalogger-option
 author: EdMallon
 path: /notes/EdMallon/02-11-2014/an-arduino-based-underwater-sensor-platform.md

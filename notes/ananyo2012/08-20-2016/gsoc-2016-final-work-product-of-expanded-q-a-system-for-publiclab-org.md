@@ -1,5 +1,5 @@
 ---
-title: GSoC 2016: Final Work Product of Expanded Q & A System for publiclab.org
+title: 'GSoC 2016: Final Work Product of Expanded Q & A System for publiclab.org'
 tagnames: software, gsoc, web, developers, coding, barnstar:basic, gsoc-2016, q-and-a, response:13397
 author: ananyo2012
 path: /notes/ananyo2012/08-20-2016/gsoc-2016-final-work-product-of-expanded-q-a-system-for-publiclab-org.md

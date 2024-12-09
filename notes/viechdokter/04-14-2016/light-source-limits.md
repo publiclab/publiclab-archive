@@ -1,5 +1,5 @@
 ---
-title: Light source limits
+title: 'Light source limits'
 tagnames: spectrometer, spectral-workbench, light-source, intensity
 author: viechdokter
 path: /notes/viechdokter/04-14-2016/light-source-limits.md

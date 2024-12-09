@@ -1,5 +1,5 @@
 ---
-title: Potholes in New Orleans Study Design
+title: 'Potholes in New Orleans Study Design'
 tagnames: gulf-coast, balloon-mapping, laplace, louisiana, transportation, new-orleans, potholes, roads, lat:29.951065, lon:-90.071532, zoom:6, asphalt
 author: Rgaude
 path: /notes/Rgaude/04-30-2021/potholes-in-new-orleans-study-design.md

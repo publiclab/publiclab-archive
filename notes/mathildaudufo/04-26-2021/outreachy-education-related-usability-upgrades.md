@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Education-related usability upgrades
+title: 'Outreachy proposal: Education-related usability upgrades'
 tagnames: software, outreachy, first-time-poster, outreachy-proposals, outreachy-summer-2021, outreachy-2021, outreachy-proposals-2021
 author: mathildaudufo
 path: /notes/mathildaudufo/04-26-2021/outreachy-education-related-usability-upgrades.md

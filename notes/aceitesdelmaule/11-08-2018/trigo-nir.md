@@ -1,5 +1,5 @@
 ---
-title: Trigo NIR
+title: 'Trigo NIR'
 tagnames: first-time-poster
 author: aceitesdelmaule
 path: /notes/aceitesdelmaule/11-08-2018/trigo-nir.md

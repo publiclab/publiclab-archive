@@ -1,5 +1,5 @@
 ---
-title: What's the best setup for a copper rod or copper plate test for DIY hydrogen sulfide detection?
+title: 'What's the best setup for a copper rod or copper plate test for DIY hydrogen sulfide detection?'
 tagnames: barnraising, hydrogen-sulfide, h2s, answered, h2s-copper-pipe, question:barnraising, question:hydrogen-sulfide, question:h2s-copper-pipe, question:h2s-copper-pipe-challenge
 author: warren
 path: /notes/warren/11-14-2017/what-s-the-best-setup-for-a-copper-rod-or-copper-plate-test-for-hydrogen-sulfide-detection.md

@@ -1,5 +1,5 @@
 ---
-title: Dendrometers!
+title: 'Dendrometers!'
 tagnames: alaska, tree, trees, datalogger, sensor-networks, sensor, circuit-board
 author: kinasmith
 path: /notes/kinasmith/09-09-2016/dendrometers.md

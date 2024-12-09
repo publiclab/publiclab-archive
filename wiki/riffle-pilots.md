@@ -1,5 +1,5 @@
 ---
-title: riffle-pilots
+title: 'riffle-pilots'
 tagnames: 
 author: donblair
 path: /wiki/riffle-pilots.md

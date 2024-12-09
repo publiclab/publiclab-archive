@@ -1,5 +1,5 @@
 ---
-title: Air Quality egg
+title: 'Air Quality egg'
 tagnames: cypress-hills, chaq, air-quality-egg
 author: xavier13
 path: /notes/xavier13/2-28-2013/air-quality-egg.md

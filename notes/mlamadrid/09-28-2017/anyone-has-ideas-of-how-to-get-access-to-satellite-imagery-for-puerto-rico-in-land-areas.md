@@ -1,5 +1,5 @@
 ---
-title: Anyone has ideas of how to get access to satellite imagery for Puerto Rico? In-land areas?
+title: 'Anyone has ideas of how to get access to satellite imagery for Puerto Rico? In-land areas?'
 tagnames: question:general
 author: mlamadrid
 path: /notes/mlamadrid/09-28-2017/anyone-has-ideas-of-how-to-get-access-to-satellite-imagery-for-puerto-rico-in-land-areas.md

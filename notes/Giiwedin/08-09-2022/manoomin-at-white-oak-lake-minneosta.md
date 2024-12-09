@@ -1,5 +1,5 @@
 ---
-title: Manoomin at White Oak Lake, Minneosta
+title: 'Manoomin at White Oak Lake, Minneosta'
 tagnames: minnesota, zoom:6, wild-rice, mn-land-manoomin-protection, manoomin, wildrice, aquatic-species, mn, lat:46.905245, lon:-93.88916
 author: Giiwedin
 path: /notes/Giiwedin/08-09-2022/manoomin-at-white-oak-lake-minneosta.md

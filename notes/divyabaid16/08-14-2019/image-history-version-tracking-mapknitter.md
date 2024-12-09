@@ -1,5 +1,5 @@
 ---
-title: Image history: Version tracking Mapknitter
+title: 'Image history: Version tracking Mapknitter'
 tagnames: mapknitter, gsoc, soc19
 author: divyabaid16
 path: /notes/divyabaid16/08-14-2019/image-history-version-tracking-mapknitter.md

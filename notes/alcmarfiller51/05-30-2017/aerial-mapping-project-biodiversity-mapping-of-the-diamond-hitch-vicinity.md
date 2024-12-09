@@ -1,5 +1,5 @@
 ---
-title: Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity 
+title: 'Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity '
 tagnames: event, habitat, biodiversity, hidden:response, response:14179
 author: alcmarfiller51
 path: /notes/alcmarfiller51/05-30-2017/aerial-mapping-project-biodiversity-mapping-of-the-diamond-hitch-vicinity.md

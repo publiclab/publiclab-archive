@@ -1,5 +1,5 @@
 ---
-title: Dual Camera Kit Software
+title: 'Dual Camera Kit Software'
 tagnames: near-infrared-camera
 author: warren
 path: /wiki/dual-camera-kit-software.md

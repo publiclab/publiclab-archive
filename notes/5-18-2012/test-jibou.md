@@ -1,5 +1,5 @@
 ---
-title: test-jibou
+title: 'test-jibou'
 tagnames: 
 author: 
 path: /notes/5-18-2012/test-jibou.md

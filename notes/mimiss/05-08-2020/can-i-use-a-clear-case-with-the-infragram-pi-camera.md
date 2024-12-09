@@ -1,5 +1,5 @@
 ---
-title: Can I use a clear case with the Infragram pi camera?
+title: 'Can I use a clear case with the Infragram pi camera?'
 tagnames: infrared, infrared-camera, infragram, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, question:general, general, infragram-pi, question:infragram-pi, question:infrared-camera
 author: mimiss
 path: /notes/mimiss/05-08-2020/can-i-use-a-clear-case-with-the-infragram-pi-camera.md

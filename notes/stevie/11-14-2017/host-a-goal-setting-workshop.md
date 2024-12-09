@@ -1,5 +1,5 @@
 ---
-title: Host a Goal Setting Workshop 
+title: 'Host a Goal Setting Workshop '
 tagnames: workshop, event, organizing, goal-setting, getting-started, advocacy, collaborative-tools, community-organizing, goal, activity:community-organizing, activity:getting-started, community-meeting, activity:organizing, activity:advocacy, start-advocacy
 author: stevie
 path: /notes/stevie/11-14-2017/host-a-goal-setting-workshop.md

@@ -1,5 +1,5 @@
 ---
-title: kenya
+title: 'kenya'
 tagnames: africa, parent:africa
 author: liz
 path: /wiki/kenya.md

@@ -1,5 +1,5 @@
 ---
-title: Bluelight Spectrometry Kit 
+title: 'Bluelight Spectrometry Kit '
 tagnames: spectrometry, korea
 author: gangrin
 path: /notes/gangrin/09-28-2015/bluelight-spectrometry-kit.md

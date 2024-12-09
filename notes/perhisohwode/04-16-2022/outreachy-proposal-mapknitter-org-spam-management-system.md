@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: MapKnitter.org Spam Management system
+title: 'Outreachy proposal: MapKnitter.org Spam Management system'
 tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
 author: perhisohwode
 path: /notes/perhisohwode/04-16-2022/outreachy-proposal-mapknitter-org-spam-management-system.md

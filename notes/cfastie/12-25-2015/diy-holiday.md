@@ -1,5 +1,5 @@
 ---
-title: DIY holiday
+title: 'DIY holiday'
 tagnames: holiday, 3d-printing, christmas, response:11497
 author: cfastie
 path: /notes/cfastie/12-25-2015/diy-holiday.md

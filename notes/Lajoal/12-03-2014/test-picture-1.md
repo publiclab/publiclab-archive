@@ -1,5 +1,5 @@
 ---
-title: test picture 1 
+title: 'test picture 1 '
 tagnames: 
 author: Lajoal
 path: /notes/Lajoal/12-03-2014/test-picture-1.md

@@ -1,5 +1,5 @@
 ---
-title: Hello Kitty Watchdog Patrols the Gowanus Canal Skies
+title: 'Hello Kitty Watchdog Patrols the Gowanus Canal Skies'
 tagnames: balloon-mapping, gowanus, plume, mapping, gowanus-canal-conservancy, gowanus-dredgers-canoe-club-swim-team, hello-kitty, Gowanus Low Altitude Mapping Program (GLAM), watchdog, reporting, altitude, low, program
 author: eymund
 path: /notes/eymund-diegel/10-26-2012/hello-kitty-watchdog-patrols-gowanus-canal-skies.md

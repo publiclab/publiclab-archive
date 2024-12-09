@@ -1,5 +1,5 @@
 ---
-title: 3D Thermal Plume Fishing Bob
+title: '3D Thermal Plume Fishing Bob'
 tagnames: thermal-photography, thermal-fishing-bob, 3d-thermal-plume, multiple-thermistor
 author: kgrevera
 path: /notes/kgrevera/07-22-2015/3d-thermal-plume-fishing-bob.md

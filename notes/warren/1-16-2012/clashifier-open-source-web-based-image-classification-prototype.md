@@ -1,5 +1,5 @@
 ---
-title: Clashifier: open source, web based image classification prototype
+title: 'Clashifier: open source, web based image classification prototype'
 tagnames: oil, image-interpretation, classification, clashifier, training, identifying-oil
 author: warren
 path: /notes/warren/1-16-2012/clashifier-open-source-web-based-image-classification-prototype.md

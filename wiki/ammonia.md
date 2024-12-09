@@ -1,5 +1,5 @@
 ---
-title: ammonia
+title: 'ammonia'
 tagnames: redirect:nitrogen
 author: warren
 path: /wiki/ammonia.md

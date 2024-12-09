@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Historic Columbia River Highway State Trail Overlook
+title: 'MapKnitter map of Historic Columbia River Highway State Trail Overlook'
 tagnames: mapknitter, first-time-poster, zoom:18, lat:45.6857868938, lon:-121.4184248645, lat:45.68591, lon:-121.418057
 author: porteric
 path: /notes/porteric/02-27-2020/mapknitter-map-of-historic-columbia-river-highway-state-trail-overlook.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab Lesson 2: More Than Meets the Eye
+title: 'Public Lab Lesson 2: More Than Meets the Eye'
 tagnames: education, wetlands, curriculum, classroom, lesson_plan, biology, electromagnetic_spectrum, physics, parent:wetlands-lesson-plans, activity:wetlands
 author: mollydanielsson
 path: /wiki/public-lab-lesson-2-more-than-meets-the-eye.md

@@ -1,5 +1,5 @@
 ---
-title: Photosynq - measuring plant health across the world
+title: 'Photosynq - measuring plant health across the world'
 tagnames: education, diy-bio, photosynq, plant, tree, big-data, diybio, first-time-poster
 author: gbathree
 path: /notes/gbathree/3-26-2013/photosynq-measuring-plant-health-across-world.md

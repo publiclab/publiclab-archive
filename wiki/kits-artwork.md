@@ -1,5 +1,5 @@
 ---
-title: Kits Artwork
+title: 'Kits Artwork'
 tagnames: kits, parent:kits, artwork, first-time-poster
 author: kits
 path: /wiki/kits-artwork.md

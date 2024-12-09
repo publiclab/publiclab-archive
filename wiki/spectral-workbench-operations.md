@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench Operations
+title: 'Spectral Workbench Operations'
 tagnames: spectrometer, software, spectral-workbench, spectral-workbench-api, developers, parent:spectral-workbench
 author: warren
 path: /wiki/spectral-workbench-operations.md

@@ -1,5 +1,5 @@
 ---
-title: Berkeley Kite Festival
+title: 'Berkeley Kite Festival'
 tagnames: kite-mapping, response:3682
 author: gonzoearth
 path: /notes/gonzoearth/08-01-2013/berkeley-kite-festival.md

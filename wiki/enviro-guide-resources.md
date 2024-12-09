@@ -1,5 +1,5 @@
 ---
-title: Enviro Guide Resources
+title: 'Enviro Guide Resources'
 tagnames: guides, reporting, advocacy, civic, parent:guides, studies, parent:advocacy, parent:reporting
 author: gretchengehrke
 path: /wiki/enviro-guide-resources.md

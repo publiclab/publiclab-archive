@@ -1,5 +1,5 @@
 ---
-title: Why do individuals/organizations want to collect water quality data?
+title: 'Why do individuals/organizations want to collect water quality data?'
 tagnames: water-quality, water, data-collection, advocacy, question:water-quality, question:general, question:data-collection, question:advocacy, question:water, oil-and-gas-water-trio, question:oil-and-gas-water-trio, oil-and-gas-water-quality, question:oil-and-gas-water-quality, simple-water-sensor-platform, question:simple-water-sensor-platform
 author: wmacfarl
 path: /notes/wmacfarl/09-18-2019/why-do-individuals-organizations-want-to-collect-water-quality-data.md

@@ -1,5 +1,5 @@
 ---
-title: Texas Barnraising Photos
+title: 'Texas Barnraising Photos'
 tagnames: barnraising, texas, houston, galveston, txbarnraising
 author: joyofsoy
 path: /notes/joyofsoy/02-22-2019/texas-barnraising-photos.md

@@ -1,5 +1,5 @@
 ---
-title: NYC 2013 kickoff meeting
+title: 'NYC 2013 kickoff meeting'
 tagnames: new-york-city, event
 author: liz
 path: /notes/liz/2-21-2013/nyc-2013-kickoff-meeting-0.md

@@ -1,5 +1,5 @@
 ---
-title: Dual bandpass filters
+title: 'Dual bandpass filters'
 tagnames: ndvi, infrared, filter, infragram, plant-health, response:12134, dualband, midopt
 author: cfastie
 path: /notes/cfastie/11-24-2015/dual-band-pass-filters.md

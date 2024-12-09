@@ -1,5 +1,5 @@
 ---
-title: Rich Profile tags and improving the performance of Publiclab.org
+title: 'Rich Profile tags and improving the performance of Publiclab.org'
 tagnames: software, event, gsoc, coding, event:rsvp, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827, first-time-poster
 author: Lalithr95
 path: /notes/Lalithr95/03-23-2016/rich-profile-tags-and-improving-the-performance-of-publiclab-org.md

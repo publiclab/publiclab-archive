@@ -1,5 +1,5 @@
 ---
-title: DIY Oil Testing
+title: 'DIY Oil Testing'
 tagnames: spectrometer, spectrometry, oil-testing-kit, draft, pipeline-monitoring, parent:pipeline
 author: warren
 path: /wiki/diy-oil-testing.md

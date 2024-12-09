@@ -1,5 +1,5 @@
 ---
-title: Subscribe
+title: 'Subscribe'
 tagnames: newsletter, sidebar:featured, style:wide, style:presentation, newsletter-archive
 author: warren
 path: /wiki/subscribe.md

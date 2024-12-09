@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast Educator's Workshop Summer 2019
+title: 'Gulf Coast Educator's Workshop Summer 2019'
 tagnames: education, workshop, blog, with:stevie, with:liz, working-together, lat:29.950175, lon:-90.071411, series:student-community-science, student-community-science
 author: mimiss
 path: /notes/mimiss/07-11-2019/gulf-coast-educator-s-workshop-summer-2019.md

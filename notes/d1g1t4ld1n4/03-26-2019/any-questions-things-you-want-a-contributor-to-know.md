@@ -1,5 +1,5 @@
 ---
-title: Any questions/ things you want a contributor to know?
+title: 'Any questions/ things you want a contributor to know?'
 tagnames: question:general, first-time-poster, question:contributor
 author: d1g1t4ld1n4
 path: /notes/d1g1t4ld1n4/03-26-2019/any-questions-things-you-want-a-contributor-to-know.md

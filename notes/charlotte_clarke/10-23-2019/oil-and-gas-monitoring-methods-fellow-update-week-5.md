@@ -1,5 +1,5 @@
 ---
-title: Oil and Gas Monitoring Methods Fellow Update: Week 5
+title: 'Oil and Gas Monitoring Methods Fellow Update: Week 5'
 tagnames: gulf-coast, water-quality, oil-and-gas, oil-and-gas-water-trio
 author: charlotte_clarke
 path: /notes/charlotte_clarke/10-23-2019/oil-and-gas-monitoring-methods-fellow-update-week-5.md

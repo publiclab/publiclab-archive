@@ -1,5 +1,5 @@
 ---
-title: Eclectis
+title: 'Eclectis'
 tagnames: waagsociety, amsterdam, event, infragram, waag
 author: warren
 path: /wiki/eclectis.md

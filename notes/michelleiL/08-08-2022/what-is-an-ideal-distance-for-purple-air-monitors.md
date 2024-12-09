@@ -1,5 +1,5 @@
 ---
-title: What is an ideal distance for Purple Air monitors? 
+title: 'What is an ideal distance for Purple Air monitors? '
 tagnames: purpleair, question:purpleair, air-quality-monitoring, question:air-quality-monitoring, mn-land-manoomin-protection, question:mn-land-manoomin-protection
 author: michelleiL
 path: /notes/michelleiL/08-08-2022/what-is-an-ideal-distance-for-purple-air-monitors.md

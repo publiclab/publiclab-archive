@@ -1,5 +1,5 @@
 ---
-title: Drone work with modified infrablue Canon a495
+title: 'Drone work with modified infrablue Canon a495'
 tagnames: 
 author: bilco1
 path: /notes/bilco1/06-18-2015/drone-work-with-modified-infrablue-canon-a495.md

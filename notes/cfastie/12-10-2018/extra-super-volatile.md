@@ -1,5 +1,5 @@
 ---
-title: Extra Super Volatile
+title: 'Extra Super Volatile'
 tagnames: arduino, air-quality, sensors, dust, indoor-air-quality-monitoring, hardware, data-logging, activity:particulate-monitoring, activity:arduino, nano-data-logger, activity:nano-data-logger, activity:data-logging, air-sensors, purpleair, plantower, pms7003, air-quality-monitoring, ccs811-gas-sensor
 author: cfastie
 path: /notes/cfastie/12-10-2018/extra-super-volatile.md

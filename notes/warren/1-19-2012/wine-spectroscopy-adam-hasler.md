@@ -1,5 +1,5 @@
 ---
-title: Wine spectroscopy with Adam Hasler
+title: 'Wine spectroscopy with Adam Hasler'
 tagnames: spectrometer, wine, absorption-spectrometry
 author: warren
 path: /notes/warren/1-19-2012/wine-spectroscopy-adam-hasler.md

@@ -1,5 +1,5 @@
 ---
-title: How to Get Involved with Public Lab: Illustrated
+title: 'How to Get Involved with Public Lab: Illustrated'
 tagnames: community, how-to, participation, grassrootsmappingforum, publiclab, illustrations, gmf-7, graphic, community-driven
 author: mollydanielsson
 path: /wiki/how-to-get-involved-with-public-lab-illustrated.md

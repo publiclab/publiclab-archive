@@ -1,5 +1,5 @@
 ---
-title: barnraising accommodations
+title: 'barnraising accommodations'
 tagnames: 
 author: adam-griffith
 path: /wiki/barnraising-accommodations.md

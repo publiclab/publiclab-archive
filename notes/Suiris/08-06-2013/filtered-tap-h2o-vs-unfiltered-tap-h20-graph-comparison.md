@@ -1,5 +1,5 @@
 ---
-title: Filtered tap H2O vs unfiltered tap H2O spectral graph comparison
+title: 'Filtered tap H2O vs unfiltered tap H2O spectral graph comparison'
 tagnames: spectrometer, spectrometry, spectroscopy, water-quality, water-monitoring, sweden, transmittance, tapwater, drinking-water, activity:spectrometry, activity:tapwater
 author: Suiris
 path: /notes/Suiris/08-06-2013/filtered-tap-h2o-vs-unfiltered-tap-h20-graph-comparison.md

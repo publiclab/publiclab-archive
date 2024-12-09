@@ -1,5 +1,5 @@
 ---
-title: lead in brass snap swivels
+title: 'lead in brass snap swivels'
 tagnames: lead
 author: mathew
 path: /notes/mathew/1-30-2012/lead-brass-snap-swivels.md

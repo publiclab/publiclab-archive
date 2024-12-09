@@ -1,5 +1,5 @@
 ---
-title: NIR Archaeological Research 
+title: 'NIR Archaeological Research '
 tagnames: infrared, raspberry-pi, infrared-camera, infragram
 author: ThomasFinanPhD
 path: /notes/ThomasFinanPhD/12-02-2015/nir-archaeological-research.md

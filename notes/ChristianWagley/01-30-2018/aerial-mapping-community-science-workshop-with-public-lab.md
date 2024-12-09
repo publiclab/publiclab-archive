@@ -1,5 +1,5 @@
 ---
-title: Aerial Mapping: Community science workshop with Public Lab
+title: 'Aerial Mapping: Community science workshop with Public Lab'
 tagnames: balloon-mapping, water-quality, florida, sedimentation, nas, seagrass, lat:30.448673, lon:-87.011718, place:2609-san-clemente-dr-milton-fl-32583, panhandle-sedimentation, panhandle
 author: ChristianWagley
 path: /notes/ChristianWagley/01-30-2018/aerial-mapping-community-science-workshop-with-public-lab.md

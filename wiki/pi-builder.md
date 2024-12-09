@@ -1,5 +1,5 @@
 ---
-title: Pi Builder
+title: 'Pi Builder'
 tagnames: raspberry-pi, cameras, pi, rpi, activity:community-microscope, pi-builder, parent:pi-camera
 author: warren
 path: /wiki/pi-builder.md

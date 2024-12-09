@@ -1,5 +1,5 @@
 ---
-title: centrum-nauki-kopernik
+title: 'centrum-nauki-kopernik'
 tagnames: 
 author: 
 path: /notes/5-11-2012/centrum-nauki-kopernik.md

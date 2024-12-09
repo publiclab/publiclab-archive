@@ -1,5 +1,5 @@
 ---
-title: Setting up Barnraising registration 
+title: 'Setting up Barnraising registration '
 tagnames: events, registration, with:liz, seeks:replications, preparations-logistics, activity:preparations-logistics, barnraising-registration, logistics
 author: stevie
 path: /notes/stevie/07-23-2018/setting-up-barnraising-registration.md

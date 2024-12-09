@@ -1,5 +1,5 @@
 ---
-title: Eymund Diegel Finds the Fun in Super Fund (GMF #4)
+title: 'Eymund Diegel Finds the Fun in Super Fund (GMF #4)'
 tagnames: new-york-city, gmf, gowanus-canal, brooklyn, interview, northeast
 author: mathew
 path: /notes/mathew/02-21-2014/eymund-diegel-finds-the-fun-in-super-fund-gmf-4.md

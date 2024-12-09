@@ -1,5 +1,5 @@
 ---
-title: Air quality egg in my kitchen
+title: 'Air quality egg in my kitchen'
 tagnames: new-york-city, cypress-hills, chaq, first-time-poster
 author: britney13
 path: /notes/britney13/2-15-2013/air-quality-egg-my-kitchen.md

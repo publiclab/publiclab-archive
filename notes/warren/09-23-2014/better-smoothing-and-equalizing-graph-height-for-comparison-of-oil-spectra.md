@@ -1,5 +1,5 @@
 ---
-title: Better smoothing and equalizing graph height for comparison of oil spectra
+title: 'Better smoothing and equalizing graph height for comparison of oil spectra'
 tagnames: spectrometer, oil, fluorescence, spectral-workbench, crude, smoothing, clipping, oil-testing-kit, exposure, equalizing, 405nm, response:11168, response:6197
 author: warren
 path: /notes/warren/09-23-2014/better-smoothing-and-equalizing-graph-height-for-comparison-of-oil-spectra.md

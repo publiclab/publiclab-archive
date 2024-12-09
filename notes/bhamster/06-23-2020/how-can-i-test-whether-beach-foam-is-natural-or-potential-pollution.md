@@ -1,5 +1,5 @@
 ---
-title: How can I test whether beach foam is natural or potential pollution?
+title: 'How can I test whether beach foam is natural or potential pollution?'
 tagnames: water-quality, coastal, question:water-quality, beach, fertilizer
 author: bhamster
 path: /notes/bhamster/06-23-2020/how-can-i-test-whether-beach-foam-is-natural-or-potential-pollution.md

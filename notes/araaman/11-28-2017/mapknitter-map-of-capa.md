@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of  CAPA 
+title: 'MapKnitter map of  CAPA '
 tagnames: mapknitter, lat:42.9212476506, lon:-73.2365611196
 author: araaman
 path: /notes/araaman/11-28-2017/mapknitter-map-of-capa.md

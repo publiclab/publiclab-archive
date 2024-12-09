@@ -1,5 +1,5 @@
 ---
-title: Mobius with IR cut filter at lens housing 
+title: 'Mobius with IR cut filter at lens housing '
 tagnames: mobius-actioncam, infragram-point-shoot, non-fish-eye
 author: patcoyle
 path: /notes/patcoyle/08-09-2015/mobius-with-ir-cut-filter-at-lens-housing.md

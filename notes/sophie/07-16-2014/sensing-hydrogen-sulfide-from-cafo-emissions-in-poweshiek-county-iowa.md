@@ -1,5 +1,5 @@
 ---
-title:  Sensing Hydrogen Sulfide from CAFO Emissions in Poweshiek County, Iowa
+title: ' Sensing Hydrogen Sulfide from CAFO Emissions in Poweshiek County, Iowa'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s, hydrogen-sulfide-testing, cafo, barnstar:empiricism, midwest, h2s-photopaper, activity:h2s, activity:h2s-photopaper, livestock, iowa, first-time-poster
 author: sophie
 path: /notes/sophie/07-16-2014/sensing-hydrogen-sulfide-from-cafo-emissions-in-poweshiek-county-iowa.md

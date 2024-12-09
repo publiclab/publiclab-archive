@@ -1,5 +1,5 @@
 ---
-title: Timeline of Formosa Action and Resistance 
+title: 'Timeline of Formosa Action and Resistance '
 tagnames: first-time-poster, formosaplastics
 author: caitlion
 path: /notes/caitlion/02-03-2022/timeline-of-formosa-action-and-resistance.md

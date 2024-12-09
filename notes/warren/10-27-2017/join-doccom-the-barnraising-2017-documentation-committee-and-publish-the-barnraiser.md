@@ -1,5 +1,5 @@
 ---
-title: Join DocCom -- the Barnraising 2017 documentation committee, and publish the Barnraiser!
+title: 'Join DocCom -- the Barnraising 2017 documentation committee, and publish the Barnraiser!'
 tagnames: photography, documentation, barnraising, doccom, barnraiser, barnraising-2017, response:13675, replication:15986
 author: warren
 path: /notes/warren/10-27-2017/join-doccom-the-barnraising-2017-documentation-committee-and-publish-the-barnraiser.md

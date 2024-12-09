@@ -1,5 +1,5 @@
 ---
-title: Almighty Lamp
+title: 'Almighty Lamp'
 tagnames: hidden:response, response:13586
 author: Fomalhaut420
 path: /notes/Fomalhaut420/10-19-2016/almighty-lamp.md

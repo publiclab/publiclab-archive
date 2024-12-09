@@ -1,5 +1,5 @@
 ---
-title: Shoreline mapping - image stich series
+title: 'Shoreline mapping - image stich series'
 tagnames: new-york-city, mapping, design, island, staten, new, york, city, breakwaters, rebuild, by
 author: gwirth
 path: /notes/gwirth/07-25-2014/shoreline-mapping-image-stich-series.md

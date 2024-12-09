@@ -1,5 +1,5 @@
 ---
-title: 3D model in MeshLab
+title: '3D model in MeshLab'
 tagnames: balloon-mapping, near-infrared-camera, biomass, farming
 author: cfastie
 path: /notes/cfastie/5-31-2012/3d-model-meshlab.md

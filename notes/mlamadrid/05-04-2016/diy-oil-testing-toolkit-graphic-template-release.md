@@ -1,5 +1,5 @@
 ---
-title: DIY Oil Testing Toolkit: Graphic Template Release!
+title: 'DIY Oil Testing Toolkit: Graphic Template Release!'
 tagnames: spectrometer, community, workshops, oil-testing-kit, barnstar:basic, with:warren, homebrew-oil-testing-kit, booklet
 author: mlamadrid
 path: /notes/mlamadrid/05-04-2016/diy-oil-testing-toolkit-graphic-template-release.md

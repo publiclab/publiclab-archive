@@ -1,5 +1,5 @@
 ---
-title: West village 
+title: 'West village '
 tagnames: 
 author: FrankVriale
 path: /notes/FrankVriale/04-03-2014/west-village.md

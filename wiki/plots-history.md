@@ -1,5 +1,5 @@
 ---
-title: Public Lab History
+title: 'Public Lab History'
 tagnames: nonprofit, history
 author: Shannon
 path: /wiki/plots-history.md

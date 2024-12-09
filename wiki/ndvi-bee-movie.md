@@ -1,5 +1,5 @@
 ---
-title: NDVI Bee Movie
+title: 'NDVI Bee Movie'
 tagnames: 
 author: donblair
 path: /wiki/ndvi-bee-movie.md

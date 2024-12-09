@@ -1,5 +1,5 @@
 ---
-title: Outreachy Blog 1: Intro & Core Values
+title: 'Outreachy Blog 1: Intro & Core Values'
 tagnames: zoom:6, lat:37.804351, lon:-122.271163
 author: noi5e
 path: /notes/noi5e/12-17-2020/outreachy-blog-1-intro-core-values.md

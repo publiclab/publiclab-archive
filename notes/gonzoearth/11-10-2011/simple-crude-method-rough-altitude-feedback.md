@@ -1,5 +1,5 @@
 ---
-title: Simple, crude method for rough altitude feedback
+title: 'Simple, crude method for rough altitude feedback'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/11-10-2011/simple-crude-method-rough-altitude-feedback.md

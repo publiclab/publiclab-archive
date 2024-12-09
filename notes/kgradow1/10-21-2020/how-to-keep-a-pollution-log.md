@@ -1,5 +1,5 @@
 ---
-title: How to Keep a Pollution Log
+title: 'How to Keep a Pollution Log'
 tagnames: organizing, air-quality, bucket-brigade, new, getting-started, draft, odor, activity:new, activity:odor, odor-logging, activity:odor-logging, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/10-21-2020/how-to-keep-a-pollution-log.md

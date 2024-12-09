@@ -1,5 +1,5 @@
 ---
-title: Infragrams over NYC: Randall's Island Urban Farm
+title: 'Infragrams over NYC: Randall's Island Urban Farm'
 tagnames: new-york-city, near-infrared-camera, 5bf, five-borough-farm, pole-photography, pole
 author: liz
 path: /notes/liz/07-02-2013/infragrams-over-nyc-randall-s-island-urban-farm.md

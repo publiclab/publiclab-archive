@@ -1,5 +1,5 @@
 ---
-title: Plant Health NDVI -White Balance
+title: 'Plant Health NDVI -White Balance'
 tagnames: near-infrared-camera, ndvi, agriculture, filter, white-balance, infragram, led, ccd, canon, bg3, wratten25a, super-red, barnstar:basic, red, grapes, activity:crop-analysis, multispectral-imaging, activity:filter-swapping, infragram-white-balance, apples
 author: Claytonb
 path: /notes/Claytonb/08-13-2016/plant-health-ndvi-white-balance.md

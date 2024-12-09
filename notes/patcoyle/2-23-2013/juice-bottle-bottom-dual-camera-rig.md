@@ -1,5 +1,5 @@
 ---
-title: prototype juice bottle bottom dual camera rig
+title: 'prototype juice bottle bottom dual camera rig'
 tagnames: 
 author: patcoyle
 path: /notes/patcoyle/2-23-2013/juice-bottle-bottom-dual-camera-rig.md

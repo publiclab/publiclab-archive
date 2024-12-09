@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Comment Editor Overhaul
+title: 'Outreachy proposal: Comment Editor Overhaul'
 tagnames: software, first-time-poster, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
 author: urvashi072000
 path: /notes/urvashi072000/10-24-2020/outreachy-proposal-comment-editor-overhaul.md

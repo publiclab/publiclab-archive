@@ -1,5 +1,5 @@
 ---
-title: Rig & Take-out Balloon 
+title: 'Rig & Take-out Balloon '
 tagnames: balloon-mapping, photo-rig
 author: elainechoi89
 path: /notes/elainechoi89/2-21-2013/rig-take-out-balloon.md

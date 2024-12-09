@@ -1,5 +1,5 @@
 ---
-title: How do we improve WiFi signal to a Raspberry Pi while in the air?
+title: 'How do we improve WiFi signal to a Raspberry Pi while in the air?'
 tagnames: pi-camera, wifi, question:pi-camera, antenna, downlink
 author: warren
 path: /notes/warren/05-30-2019/how-do-we-improve-wifi-signal-to-a-raspberry-pi-while-in-the-air.md

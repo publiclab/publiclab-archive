@@ -1,5 +1,5 @@
 ---
-title: Web Style Guide
+title: 'Web Style Guide'
 tagnames: parent:style-guide
 author: warren
 path: /wiki/web-style-guide.md

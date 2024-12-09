@@ -1,5 +1,5 @@
 ---
-title: Problem with rotating the image
+title: 'Problem with rotating the image'
 tagnames: mapknitter, question:general, question:mapknitter, date:07-21-2017
 author: narendradesilva
 path: /notes/narendradesilva/07-21-2017/problem-with-rotating-the-image.md

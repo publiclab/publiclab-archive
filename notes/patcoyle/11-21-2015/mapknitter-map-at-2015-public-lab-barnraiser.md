@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map at 2015 Public Lab Barnraiser
+title: 'MapKnitter map at 2015 Public Lab Barnraiser'
 tagnames: mapknitter, lat:29.254103, lon:-90.6626
 author: patcoyle
 path: /notes/patcoyle/11-21-2015/mapknitter-map-at-2015-public-lab-barnraiser.md

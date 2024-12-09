@@ -1,5 +1,5 @@
 ---
-title: Social Media
+title: 'Social Media'
 tagnames: community, media, social-media
 author: liz
 path: /wiki/social-media.md

@@ -1,5 +1,5 @@
 ---
-title: Can I rapidly survey the Chalmette stink on my way to work?
+title: 'Can I rapidly survey the Chalmette stink on my way to work?'
 tagnames: gulf-coast, louisiana, gps, air-quality, chalmette, question:general, general, odor-logging, question:odor-logging
 author: eustatic
 path: /10-15-2020/can-i-rapidly-survey-the-chalmette-stink-on-my-way-to-work.md

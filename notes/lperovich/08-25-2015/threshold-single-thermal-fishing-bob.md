@@ -1,5 +1,5 @@
 ---
-title: Threshold single thermal fishing bob
+title: 'Threshold single thermal fishing bob'
 tagnames: thermal-fishing, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689
 author: lperovich
 path: /notes/lperovich/08-25-2015/threshold-single-thermal-fishing-bob.md

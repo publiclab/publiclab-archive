@@ -1,5 +1,5 @@
 ---
-title: Spectrometry kit paper insert design sketches
+title: 'Spectrometry kit paper insert design sketches'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/10-9-2012/spectrometry-kit-paper-insert-design-sketches.md

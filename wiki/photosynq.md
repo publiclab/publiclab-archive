@@ -1,5 +1,5 @@
 ---
-title: PhotosynQ
+title: 'PhotosynQ'
 tagnames: photosynq, multispeq
 author: natalie
 path: /wiki/photosynq.md

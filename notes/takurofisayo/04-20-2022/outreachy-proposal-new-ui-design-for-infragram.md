@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal:  New UI design for infragram
+title: 'Outreachy proposal:  New UI design for infragram'
 tagnames: software, outreachy, first-time-poster, zoom:6, lat:9.081999, lon:8.675277, outreachy-2022, outreachy-summer-2022
 author: takurofisayo
 path: /notes/takurofisayo/04-20-2022/outreachy-proposal-new-ui-design-for-infragram.md

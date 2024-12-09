@@ -1,5 +1,5 @@
 ---
-title: Air Sensor Project
+title: 'Air Sensor Project'
 tagnames: particulate-sensing, amherst, massachusetts, air-quality, umass-amherst, dust, pm, dust-monitoring, dht22, shinyei, air-sensing, air-sensors, air-sensor-projects
 author: johnb1003
 path: /notes/johnb1003/10-24-2018/air-sensor-project.md

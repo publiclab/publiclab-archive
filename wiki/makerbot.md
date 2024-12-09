@@ -1,5 +1,5 @@
 ---
-title: makerbot
+title: 'makerbot'
 tagnames: 3d-printing, makerbot
 author: danbeavers
 path: /wiki/makerbot.md

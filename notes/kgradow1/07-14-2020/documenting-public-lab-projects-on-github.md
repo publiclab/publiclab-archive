@@ -1,5 +1,5 @@
 ---
-title: Documenting Public Lab projects on Github
+title: 'Documenting Public Lab projects on Github'
 tagnames: question:general, general
 author: kgradow1
 path: /notes/kgradow1/07-14-2020/documenting-public-lab-projects-on-github.md

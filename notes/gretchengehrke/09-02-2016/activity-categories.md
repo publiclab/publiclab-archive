@@ -1,5 +1,5 @@
 ---
-title: Activity Categories
+title: 'Activity Categories'
 tagnames: with:warren, with:liz, research-culture, activity-grids, with:abdul, activity-categories, activities
 author: gretchengehrke
 path: /notes/gretchengehrke/09-02-2016/activity-categories.md

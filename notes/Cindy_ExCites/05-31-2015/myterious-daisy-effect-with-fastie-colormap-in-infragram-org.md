@@ -1,5 +1,5 @@
 ---
-title: The myterious case of the British Daisy - Fastie colormap in Infragram.org
+title: 'The myterious case of the British Daisy - Fastie colormap in Infragram.org'
 tagnames: nir, london, uk, infragram, colormap, infrabluephoto, eu, fastiecolormap
 author: cindy_excites
 path: /notes/Cindy_ExCites/05-31-2015/myterious-daisy-effect-with-fastie-colormap-in-infragram-org.md

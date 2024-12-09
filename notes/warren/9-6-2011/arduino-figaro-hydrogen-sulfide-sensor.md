@@ -1,5 +1,5 @@
 ---
-title: Arduino + Figaro hydrogen sulfide sensor
+title: 'Arduino + Figaro hydrogen sulfide sensor'
 tagnames: hydrogen-sulfide-sensing, arduino, h2s, fritzing, h2s-detection-method, hydrogen-sulfide-sensor
 author: warren
 path: /notes/warren/9-6-2011/arduino-figaro-hydrogen-sulfide-sensor.md

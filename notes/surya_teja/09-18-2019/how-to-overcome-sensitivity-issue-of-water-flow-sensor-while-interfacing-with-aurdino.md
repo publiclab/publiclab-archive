@@ -1,5 +1,5 @@
 ---
-title: How to overcome sensitivity issue of water flow sensor while interfacing with aurdino 
+title: 'How to overcome sensitivity issue of water flow sensor while interfacing with aurdino '
 tagnames: first-time-poster
 author: surya_teja
 path: /notes/surya_teja/09-18-2019/how-to-overcome-sensitivity-issue-of-water-flow-sensor-while-interfacing-with-aurdino.md

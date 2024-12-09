@@ -1,5 +1,5 @@
 ---
-title: Val Verde, California
+title: 'Val Verde, California'
 tagnames: losangeles, regionalbarnraising, environmentaljustice, landfills, val-verde
 author: sarasage
 path: /wiki/val-verde-california.md

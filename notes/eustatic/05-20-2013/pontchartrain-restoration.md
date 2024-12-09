@@ -1,5 +1,5 @@
 ---
-title: Pontchartrain Restoration
+title: 'Pontchartrain Restoration'
 tagnames: gulf-coast, event, bsj
 author: eustatic
 path: /05-20-2013/pontchartrain-restoration.md

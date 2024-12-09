@@ -1,5 +1,5 @@
 ---
-title: Homemade spectrometer
+title: 'Homemade spectrometer'
 tagnames: spectrometer, spectrometry, homemade-spectrometer, first-time-poster
 author: david_uwi
 path: /notes/david_uwi/09-30-2016/homemade-spectrometer.md

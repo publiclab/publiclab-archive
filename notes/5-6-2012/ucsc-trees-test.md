@@ -1,5 +1,5 @@
 ---
-title: ucsc-trees-test
+title: 'ucsc-trees-test'
 tagnames: 
 author: 
 path: /notes/5-6-2012/ucsc-trees-test.md

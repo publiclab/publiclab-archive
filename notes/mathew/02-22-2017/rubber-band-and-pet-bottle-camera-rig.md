@@ -1,5 +1,5 @@
 ---
-title: Rubber band and PET bottle camera rig
+title: 'Rubber band and PET bottle camera rig'
 tagnames: balloon-mapping, kite-mapping, photo-rig, balloon-mapping-kit, 1, difficulty:easy, category:build, time:1h, status:complete, activity:photo-rig
 author: mathew
 path: /notes/mathew/02-22-2017/rubber-band-and-pet-bottle-camera-rig.md

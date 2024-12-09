@@ -1,5 +1,5 @@
 ---
-title: may day // community aerial
+title: 'may day // community aerial'
 tagnames: balloon-mapping, union-square, ows, occupy-wall-street, multiple-tethers, protest-mapping, diy-balloon, mayday
 author: oscarbrett
 path: /notes/oscar-brett/5-22-2012/may-day-community-aerial.md

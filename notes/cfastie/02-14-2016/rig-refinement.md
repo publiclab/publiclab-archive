@@ -1,5 +1,5 @@
 ---
-title: Rig refinement
+title: 'Rig refinement'
 tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery, response:11726
 author: cfastie
 path: /notes/cfastie/02-14-2016/rig-refinement.md

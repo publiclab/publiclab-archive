@@ -1,5 +1,5 @@
 ---
-title: Making meaning of soil test results and reports
+title: 'Making meaning of soil test results and reports'
 tagnames: soil, soil-testing, method, lab-testing, soil-contamination, parent:soil, interpret-soil-tests
 author: bhamster
 path: /wiki/interpret-soil-tests.md

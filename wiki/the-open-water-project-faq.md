@@ -1,5 +1,5 @@
 ---
-title: The Open Water Project: FAQ
+title: 'The Open Water Project: FAQ'
 tagnames: water-quality, riffle, parent:water-quality
 author: kanarinka
 path: /wiki/the-open-water-project-faq.md

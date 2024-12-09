@@ -1,5 +1,5 @@
 ---
-title: Picayune Make Meeting Notes for 16 August 2014
+title: 'Picayune Make Meeting Notes for 16 August 2014'
 tagnames: surface-mount, mississippi, event, makerfaire, circuit, maker, event:rsvp, date:08-16-2014, circuit-board, rackspace, etch, make
 author: danbeavers
 path: /notes/danbeavers/08-21-2014/picayune-make-meeting-notes-for-16-august-2014.md

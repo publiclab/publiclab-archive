@@ -1,5 +1,5 @@
 ---
-title: footer-notice
+title: 'footer-notice'
 tagnames: content, language-dropdown, d5d8dc
 author: warren
 path: /feature/footer-notice.md

@@ -1,5 +1,5 @@
 ---
-title: June 1 Sensor Journalism Conference at Columbia University
+title: 'June 1 Sensor Journalism Conference at Columbia University'
 tagnames: new-york-city, event
 author: liz
 path: /notes/liz/06-01-2013/june-1-sensor-journalism-conference-at-columbia-university.md

@@ -1,5 +1,5 @@
 ---
-title: Makezine
+title: 'Makezine'
 tagnames: 
 author: warren
 path: /wiki/makezine.md

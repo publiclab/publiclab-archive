@@ -1,5 +1,5 @@
 ---
-title: Can we use a color calibration reference card to calculate absolute values for DIY NDVI?
+title: 'Can we use a color calibration reference card to calculate absolute values for DIY NDVI?'
 tagnames: near-infrared-camera, calibration, infragram, infragram-point-shoot, answered, question:multispectral-imaging, multispectral-imaging, question:infragram-challenges, infragram-challenges, question:infragram-analysis, calibration-card, color-reference, absolute, pin:question:infragram-challenges
 author: warren
 path: /notes/warren/10-27-2017/can-we-use-a-color-calibration-reference-card-to-calculate-absolute-values-for-diy-ndvi.md

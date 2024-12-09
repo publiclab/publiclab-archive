@@ -1,5 +1,5 @@
 ---
-title: Davis
+title: 'Davis'
 tagnames: chapter
 author: gonzoearth
 path: /wiki/davis.md

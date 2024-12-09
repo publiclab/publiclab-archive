@@ -1,5 +1,5 @@
 ---
-title: First Pass Bucket Build
+title: 'First Pass Bucket Build'
 tagnames: air-quality, bucket-brigade, global-community-monitor, air-sampling, lat:42, lon:-70, zoom:6, bucket-monitor, parent:bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/07-03-2020/bucket-monitor-prototype.md

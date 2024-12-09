@@ -1,5 +1,5 @@
 ---
-title: Camera Focus IR Filter Removal
+title: 'Camera Focus IR Filter Removal'
 tagnames: spectrometer, spectrometry, desktop-spectrometer, upgrade:spectrometry, upgrade:dssk
 author: stef
 path: /notes/stef/10-19-2016/plab-spec-3-updated-camera-focus-ir-filter.md

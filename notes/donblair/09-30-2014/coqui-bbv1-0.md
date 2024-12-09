@@ -1,5 +1,5 @@
 ---
-title: Build a Coqui BBv1.0
+title: 'Build a Coqui BBv1.0'
 tagnames: water-sensing, water-quality, upverter, riffle, barnstar:photo-documentation, coqui, activity:coqui-version
 author: donblair
 path: /notes/donblair/09-30-2014/coqui-bbv1-0.md

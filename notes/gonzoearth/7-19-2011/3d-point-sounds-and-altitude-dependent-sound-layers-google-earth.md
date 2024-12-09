@@ -1,5 +1,5 @@
 ---
-title: 3D point sounds and altitude dependent sound layers in Google Earth
+title: '3D point sounds and altitude dependent sound layers in Google Earth'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/7-19-2011/3d-point-sounds-and-altitude-dependent-sound-layers-google-earth.md

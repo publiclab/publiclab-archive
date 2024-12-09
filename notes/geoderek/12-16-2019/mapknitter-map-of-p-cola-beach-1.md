@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of P-Cola Beach 1
+title: 'MapKnitter map of P-Cola Beach 1'
 tagnames: mapknitter, lat:30.3337006, lon:-87.1411089, lat:30.3337, lon:-87.141108
 author: geoderek
 path: /notes/geoderek/12-16-2019/mapknitter-map-of-p-cola-beach-1.md

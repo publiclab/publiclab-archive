@@ -1,5 +1,5 @@
 ---
-title: Chosing which camera to obtain data from
+title: 'Chosing which camera to obtain data from'
 tagnames: spectrometer, spectralworkbench, event, spectral-workbench, event:rsvp, question:general, date:12-18-2016
 author: nnole
 path: /notes/nnole/12-18-2016/chosing-which-camera-to-obtain-data-from.md

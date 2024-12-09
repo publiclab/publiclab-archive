@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack -- St. Louis -- Rachel Lefevre
+title: 'Public Lab River Rat Pack -- St. Louis -- Rachel Lefevre'
 tagnames: mid-west, missouri, publiclabriverratpack, stlouis
 author: rnlefevre
 path: /notes/rnlefevre/05-12-2016/public-lab-river-rat-pack-st-louis-rachel-lefevre.md

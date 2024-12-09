@@ -1,5 +1,5 @@
 ---
-title: Rio de Janeiro - Morro dos Macacos
+title: 'Rio de Janeiro - Morro dos Macacos'
 tagnames: kite-mapping, rio
 author: ives
 path: /wiki/rio-de-janeiro-morro-dos-macacos.md

@@ -1,5 +1,5 @@
 ---
-title: Dried Kombucha SCOBY Uses and Experiments
+title: 'Dried Kombucha SCOBY Uses and Experiments'
 tagnames: yeast, kombucha, bacteria, scoby, fermentation
 author: jakeschievink
 path: /wiki/dried-kombucha-scoby-uses-and-experiments.md

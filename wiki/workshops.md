@@ -1,5 +1,5 @@
 ---
-title: Workshops
+title: 'Workshops'
 tagnames: 
 author: Bronwen
 path: /wiki/workshops.md

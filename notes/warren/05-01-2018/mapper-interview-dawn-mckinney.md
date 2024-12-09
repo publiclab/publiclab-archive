@@ -1,5 +1,5 @@
 ---
-title: Mapper interview: Dawn McKinney
+title: 'Mapper interview: Dawn McKinney'
 tagnames: gulf-coast, interview, rochellecollier35, micheleclemons, alabama
 author: warren
 path: /notes/warren/05-01-2018/mapper-interview-dawn-mckinney.md

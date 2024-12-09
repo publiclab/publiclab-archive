@@ -1,5 +1,5 @@
 ---
-title: What are some of the first things you do with air quality monitoring data to better understand it? 
+title: 'What are some of the first things you do with air quality monitoring data to better understand it? '
 tagnames: air-quality, question:air-quality, air-quality-data, question:air-quality-data, getting-started-air-quality-data
 author: bhamster
 path: /notes/bhamster/10-22-2021/what-are-some-of-the-first-things-you-do-with-air-quality-monitoring-data-to-better-understand-it.md

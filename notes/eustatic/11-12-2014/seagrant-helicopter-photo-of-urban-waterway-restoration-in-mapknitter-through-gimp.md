@@ -1,5 +1,5 @@
 ---
-title: SeaGrant Helicopter photo of Urban waterway restoration in Mapknitter through GIMP
+title: 'SeaGrant Helicopter photo of Urban waterway restoration in Mapknitter through GIMP'
 tagnames: gulf-coast, new-orleans, neworleans, bsj, urbanwater, urbanwaters, response:11336, helicopter, lpbf
 author: eustatic
 path: /11-12-2014/seagrant-helicopter-photo-of-urban-waterway-restoration-in-mapknitter-through-gimp.md

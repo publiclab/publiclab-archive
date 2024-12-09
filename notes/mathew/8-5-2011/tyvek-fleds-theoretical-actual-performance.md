@@ -1,5 +1,5 @@
 ---
-title: Tyvek Fleds, Theoretical & Actual Performance
+title: 'Tyvek Fleds, Theoretical & Actual Performance'
 tagnames: kite-mapping, diy-kite, tyvek, diy-kites, kite-making, activity:tyvek
 author: mathew
 path: /notes/mathew/8-5-2011/tyvek-fleds-theoretical-actual-performance.md

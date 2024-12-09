@@ -1,5 +1,5 @@
 ---
-title: Question: How do I measure the absorption spectrum of a sample?
+title: 'Question: How do I measure the absorption spectrum of a sample?'
 tagnames: question:spectral-workbench
 author: lucca_fabani
 path: /notes/lucca_fabani/12-30-2015/question-how-do-i-measure-the-absorption-spectrum-of-a-sample.md

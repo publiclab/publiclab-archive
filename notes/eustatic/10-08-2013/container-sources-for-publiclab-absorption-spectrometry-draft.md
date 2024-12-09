@@ -1,5 +1,5 @@
 ---
-title: Sources for publiclab absorption spectrometry materials --Gulf Coast 2013
+title: 'Sources for publiclab absorption spectrometry materials --Gulf Coast 2013'
 tagnames: gulf-coast, spectrometer, spectrometry, sample-containers, source, container, barnraising-2013
 author: eustatic
 path: /10-08-2013/container-sources-for-publiclab-absorption-spectrometry-draft.md

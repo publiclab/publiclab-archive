@@ -1,5 +1,5 @@
 ---
-title: Ethnographic terminalia exhibition
+title: 'Ethnographic terminalia exhibition'
 tagnames: 
 author: warren
 path: /wiki/ethnographic-terminalia-exhibition.md

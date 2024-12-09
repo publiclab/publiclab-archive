@@ -1,5 +1,5 @@
 ---
-title: Public Lab Developing Partnership Statement
+title: 'Public Lab Developing Partnership Statement'
 tagnames: community, nonprofit, partnerships, blog
 author: stevie
 path: /notes/stevie/10-29-2018/public-lab-developing-partnership-statement.md

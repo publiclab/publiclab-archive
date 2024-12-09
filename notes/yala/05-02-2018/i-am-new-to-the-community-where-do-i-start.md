@@ -1,5 +1,5 @@
 ---
-title: I am new to the community, where do I start?
+title: 'I am new to the community, where do I start?'
 tagnames: mapping, networking, development, mesh, operations, question:general, location:blurred, commons, cartography, critical, collective, infrastructure, place:witzenhausen
 author: yala
 path: /notes/yala/05-02-2018/i-am-new-to-the-community-where-do-i-start.md

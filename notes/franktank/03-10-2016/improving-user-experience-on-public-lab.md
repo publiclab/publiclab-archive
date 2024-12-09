@@ -1,5 +1,5 @@
 ---
-title: Rich Profile Pages on PublicLab.org - GSoC 2016
+title: 'Rich Profile Pages on PublicLab.org - GSoC 2016'
 tagnames: software, gsoc, gsoc-2016, proposal, response:12827
 author: Franktank
 path: /notes/franktank/03-10-2016/improving-user-experience-on-public-lab.md

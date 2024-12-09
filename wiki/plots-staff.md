@@ -1,5 +1,5 @@
 ---
-title: Public Lab Nonprofit Staff
+title: 'Public Lab Nonprofit Staff'
 tagnames: staff, nonprofit, parent:about
 author: Shannon
 path: /wiki/plots-staff.md

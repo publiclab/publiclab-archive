@@ -1,5 +1,5 @@
 ---
-title: PLOTS Field Guide
+title: 'PLOTS Field Guide'
 tagnames: 
 author: donblair
 path: /wiki/plots-field-guide.md

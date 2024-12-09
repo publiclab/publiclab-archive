@@ -1,5 +1,5 @@
 ---
-title: Report: Public Lab Workshop at Sunview
+title: 'Report: Public Lab Workshop at Sunview'
 tagnames: new-york-city, spectrometer, uv, oil, workshop, fluorescence, led, oil-testing-kit, otk, pig, isopropyl
 author: Matej
 path: /notes/Matej/02-19-2016/report-public-lab-workshop-at-sunview.md

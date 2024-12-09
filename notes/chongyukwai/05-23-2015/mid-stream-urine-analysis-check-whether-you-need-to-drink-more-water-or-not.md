@@ -1,5 +1,5 @@
 ---
-title: Mid stream Urine analysis: Check whether you need to drink more water or not
+title: 'Mid stream Urine analysis: Check whether you need to drink more water or not'
 tagnames: spectrometer, analysis, spectro, urine
 author: chongyukwai
 path: /notes/chongyukwai/05-23-2015/mid-stream-urine-analysis-check-whether-you-need-to-drink-more-water-or-not.md

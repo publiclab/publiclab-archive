@@ -1,5 +1,5 @@
 ---
-title: Karen's comments on the spectrometer instructions
+title: 'Karen's comments on the spectrometer instructions'
 tagnames: spectrometer, documentation, assembly, desktop-spectrometer, desktop-spectrometer-assembly, testing, refinements
 author: mathew
 path: /notes/mathew/08-01-2014/karen-s-comments-on-the-spectrometer-instructions.md

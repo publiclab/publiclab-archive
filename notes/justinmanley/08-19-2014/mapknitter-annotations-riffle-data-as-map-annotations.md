@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Annotations: Riffle Data as Map Annotations
+title: 'MapKnitter Annotations: Riffle Data as Map Annotations'
 tagnames: mapknitter, gsoc, riffle, gsoc-2014, annotations
 author: justinmanley
 path: /notes/justinmanley/08-19-2014/mapknitter-annotations-riffle-data-as-map-annotations.md

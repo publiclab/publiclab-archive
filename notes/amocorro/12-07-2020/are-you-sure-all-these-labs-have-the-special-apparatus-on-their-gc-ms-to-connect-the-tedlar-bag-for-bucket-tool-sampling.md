@@ -1,5 +1,5 @@
 ---
-title: Do all these labs have the special apparatus on their GC/MS to connect the tedlar bag for Bucket tool sampling?
+title: 'Do all these labs have the special apparatus on their GC/MS to connect the tedlar bag for Bucket tool sampling?'
 tagnames: air-quality, bucket-brigade, bucket-monitor, tedlar-bag, bucket-monitoring
 author: amocorro
 path: /notes/amocorro/12-07-2020/are-you-sure-all-these-labs-have-the-special-apparatus-on-their-gc-ms-to-connect-the-tedlar-bag-for-bucket-tool-sampling.md

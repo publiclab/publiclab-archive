@@ -1,5 +1,5 @@
 ---
-title: Rhode Island Community Garden Network
+title: 'Rhode Island Community Garden Network'
 tagnames: lat:41, lon:-71, unearthing-pvd, unearthing-pvd-projects, lat:41.0, lon:-71.0, lat:41.827017, lon:-71.401918
 author: srgonsalves1
 path: /notes/srgonsalves1/12-05-2019/rhode-island-community-garden-network.md

@@ -1,5 +1,5 @@
 ---
-title: Lesson 1: Wetlands, Water, & Oil curricular standards
+title: 'Lesson 1: Wetlands, Water, & Oil curricular standards'
 tagnames: wetlands, parent:wetlands-lesson-plans
 author: mathew
 path: /wiki/lesson-1-wetlands-water-oil-curricular-standards.md

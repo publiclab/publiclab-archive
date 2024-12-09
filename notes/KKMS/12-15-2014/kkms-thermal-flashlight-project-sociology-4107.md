@@ -1,5 +1,5 @@
 ---
-title: KKMS Thermal Flashlight Project Sociology 4107
+title: 'KKMS Thermal Flashlight Project Sociology 4107'
 tagnames: thermal-photography, arduino, thermal-flashlight, canada, sociology-4107, response:11458, newfoundland, heat, replication:625, feminist, xbox, first-time-poster
 author: KKMS
 path: /notes/KKMS/12-15-2014/kkms-thermal-flashlight-project-sociology-4107.md

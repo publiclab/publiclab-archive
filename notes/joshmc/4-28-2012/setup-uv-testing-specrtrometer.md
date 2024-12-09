@@ -1,5 +1,5 @@
 ---
-title: Setup for UV Testing with Specrtrometer
+title: 'Setup for UV Testing with Specrtrometer'
 tagnames: spectrometer, uv, ultraviolet, fluorescence, activity:spectrometry, activity:science-fair, first-time-poster
 author: JoshMc
 path: /notes/joshmc/4-28-2012/setup-uv-testing-specrtrometer.md

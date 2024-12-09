@@ -1,5 +1,5 @@
 ---
-title: How can I get the absorption spectra once I have calibrated my spectrometer data?
+title: 'How can I get the absorption spectra once I have calibrated my spectrometer data?'
 tagnames: spectrometry, spectral-workbench, question:spectrometry, question:spectral-workbench
 author: amenzel8
 path: /notes/amenzel8/07-10-2018/how-can-i-get-the-absorption-spectra-once-i-have-calibrated-my-spectrometer-data.md

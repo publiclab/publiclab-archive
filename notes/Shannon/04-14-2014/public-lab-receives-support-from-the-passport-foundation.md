@@ -1,5 +1,5 @@
 ---
-title: Public Lab receives support from the Passport Foundation for air quality project
+title: 'Public Lab receives support from the Passport Foundation for air quality project'
 tagnames: air, quality, indoor
 author: Shannon
 path: /notes/Shannon/04-14-2014/public-lab-receives-support-from-the-passport-foundation.md

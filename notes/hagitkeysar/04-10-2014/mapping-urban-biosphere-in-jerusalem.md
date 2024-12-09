@@ -1,5 +1,5 @@
 ---
-title: mapping urban biosphere in Jerusalem
+title: 'mapping urban biosphere in Jerusalem'
 tagnames: balloon-mapping, photography, jerusalem, kite, rhus, israel, palestine, blog, aerial, urban-biosphere, geo-tagged-photography
 author: hagitkeysar
 path: /notes/hagitkeysar/04-10-2014/mapping-urban-biosphere-in-jerusalem.md

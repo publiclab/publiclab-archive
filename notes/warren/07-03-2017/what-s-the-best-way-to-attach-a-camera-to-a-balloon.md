@@ -1,5 +1,5 @@
 ---
-title: What's the best way to attach a camera to a balloon?
+title: 'What's the best way to attach a camera to a balloon?'
 tagnames: balloon-mapping, kite-mapping, photo-rig, camera-rig, question:balloon-mapping, answered, question:kite-mapping, question:mini-balloon-kit, question:mini-kite-kit, question:photo-rig, question:camera-rig, pin:question:balloon-mapping
 author: warren
 path: /notes/warren/07-03-2017/what-s-the-best-way-to-attach-a-camera-to-a-balloon.md

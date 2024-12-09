@@ -1,5 +1,5 @@
 ---
-title: Newtown Creek
+title: 'Newtown Creek'
 tagnames: new-york-city, balloon-mapping, kite-mapping, newtown-creek, brooklyn, plume, cement, concrete, northeast
 author: warren
 path: /wiki/new-town-creek.md

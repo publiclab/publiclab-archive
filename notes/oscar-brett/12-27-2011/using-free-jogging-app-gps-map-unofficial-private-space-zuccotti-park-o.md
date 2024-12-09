@@ -1,5 +1,5 @@
 ---
-title: Using a free Jogging app to GPS map unofficial private space in Zuccotti Park (OWS) 
+title: 'Using a free Jogging app to GPS map unofficial private space in Zuccotti Park (OWS) '
 tagnames: 
 author: oscarbrett
 path: /notes/oscar-brett/12-27-2011/using-free-jogging-app-gps-map-unofficial-private-space-zuccotti-park-o.md

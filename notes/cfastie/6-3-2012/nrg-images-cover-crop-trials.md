@@ -1,5 +1,5 @@
 ---
-title: NRG images of cover crop trials
+title: 'NRG images of cover crop trials'
 tagnames: balloon-mapping, near-infrared-camera, 3d, nrg, nir, farmhack, agriculture, farm, sfm, ifarm
 author: cfastie
 path: /notes/cfastie/6-3-2012/nrg-images-cover-crop-trials.md

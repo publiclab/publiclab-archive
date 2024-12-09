@@ -1,5 +1,5 @@
 ---
-title: How much of an Arduino's onboard memory would be available for datalogging?
+title: 'How much of an Arduino's onboard memory would be available for datalogging?'
 tagnames: arduino, data-logging, question:data-logging, question:arduino, response:14138
 author: warren
 path: /notes/warren/12-04-2017/how-much-of-an-arduino-s-onboard-memory-would-be-available-for-datalogging.md

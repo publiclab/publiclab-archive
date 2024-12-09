@@ -1,5 +1,5 @@
 ---
-title: Bayou St John Infragram of new plantings 2015
+title: 'Bayou St John Infragram of new plantings 2015'
 tagnames: near-infrared-camera, kite-mapping, infrared, infragram, bsj, bayou-st-john, urbanwater, urbanwaters
 author: eustatic
 path: /02-24-2015/bayou-st-john-infragram-of-new-plantings-2015.md

@@ -1,5 +1,5 @@
 ---
-title: Public Chat bridge not working?
+title: 'Public Chat bridge not working?'
 tagnames: question:general, general
 author: icarito
 path: /notes/icarito/02-05-2020/public-chat-bridge-not-working.md

@@ -1,5 +1,5 @@
 ---
-title: Moody Meadows
+title: 'Moody Meadows'
 tagnames: near-infrared-camera, nrg, vermont, infrared, a2200, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, nbn, nnr, super-red, response:9769
 author: cfastie
 path: /notes/cfastie/11-25-2013/moody-meadows.md

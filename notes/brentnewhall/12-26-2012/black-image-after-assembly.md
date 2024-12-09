@@ -1,5 +1,5 @@
 ---
-title: Black image after assembly
+title: 'Black image after assembly'
 tagnames: calibration, kit, first-time-poster
 author: BrentNewhall
 path: /notes/brentnewhall/12-26-2012/black-image-after-assembly.md

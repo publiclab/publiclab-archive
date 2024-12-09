@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Mardi Gras Pass Aug 2015
+title: 'MapKnitter map of Mardi Gras Pass Aug 2015'
 tagnames: balloon-mapping, mapknitter, mississippi-river, lat:29.5318970368, lon:-89.7249555588
 author: ddileona
 path: /notes/ddileona/09-01-2015/mapknitter-map-of-mardi-gras-pass-aug-2015.md

@@ -1,5 +1,5 @@
 ---
-title: Biohavens in Bonnabel --Kite Map of  Wetlands Restoration 2nd October
+title: 'Biohavens in Bonnabel --Kite Map of  Wetlands Restoration 2nd October'
 tagnames: gulf-coast, kite-mapping, event, marsh, islands, habitat
 author: eustatic
 path: /09-24-2013/biohavens-in-bonnabel-kite-map-of-wetlands-restoration-2nd-october.md

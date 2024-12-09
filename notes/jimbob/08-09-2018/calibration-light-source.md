@@ -1,5 +1,5 @@
 ---
-title: Calibration light source
+title: 'Calibration light source'
 tagnames: question:spectrometer-calibration
 author: jimbob
 path: /notes/jimbob/08-09-2018/calibration-light-source.md

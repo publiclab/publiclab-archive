@@ -1,5 +1,5 @@
 ---
-title: Attempts at Spectrometer stability pics
+title: 'Attempts at Spectrometer stability pics'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/02-03-2016/attempts-at-spectrometer-stability-pics.md

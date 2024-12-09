@@ -1,5 +1,5 @@
 ---
-title: Example: using free SFM tools for calculation of volume of earth mound on construction site 
+title: 'Example: using free SFM tools for calculation of volume of earth mound on construction site '
 tagnames: kap, sfm, structure-from-motion, measurement, response:9977, autostitch, 3dmodeling, volume, response:10159
 author: patcoyle
 path: /notes/patcoyle/03-27-2014/example-using-free-sfm-tools-for-calculation-of-volume-of-earth-mound-on-construction-site.md

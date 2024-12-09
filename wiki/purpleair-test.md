@@ -1,5 +1,5 @@
 ---
-title: PurpleAir Test
+title: 'PurpleAir Test'
 tagnames: 
 author: warren
 path: /wiki/purpleair-test.md

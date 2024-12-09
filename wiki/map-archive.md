@@ -1,5 +1,5 @@
 ---
-title: Map archive
+title: 'Map archive'
 tagnames: map-archive
 author: warren
 path: /wiki/map-archive.md

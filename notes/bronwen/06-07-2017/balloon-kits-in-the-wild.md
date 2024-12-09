@@ -1,5 +1,5 @@
 ---
-title: Balloon Kits in the Wild!
+title: 'Balloon Kits in the Wild!'
 tagnames: balloon-mapping, kits, aerial-photography, aerial-photos, kits-initiative
 author: Bronwen
 path: /notes/bronwen/06-07-2017/balloon-kits-in-the-wild.md

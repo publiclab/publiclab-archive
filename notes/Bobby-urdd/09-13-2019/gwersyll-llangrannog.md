@@ -1,5 +1,5 @@
 ---
-title: Gwersyll Llangrannog
+title: 'Gwersyll Llangrannog'
 tagnames: first-time-poster, lat:52.166669, lon:-4.450443
 author: Bobby-urdd
 path: /notes/Bobby-urdd/09-13-2019/gwersyll-llangrannog.md

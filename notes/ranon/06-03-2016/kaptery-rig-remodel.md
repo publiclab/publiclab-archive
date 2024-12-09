@@ -1,5 +1,5 @@
 ---
-title: Kaptery Rig Remodel
+title: 'Kaptery Rig Remodel'
 tagnames: balloon-mapping, kite-aerial-photography, polemapping, kap, photo-rig, pole-photography, kap-rigs, kaptery, activity:photo-rig, first-time-poster
 author: ranon
 path: /notes/ranon/06-03-2016/kaptery-rig-remodel.md

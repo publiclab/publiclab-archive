@@ -1,5 +1,5 @@
 ---
-title: Question: 
+title: 'Question: '
 tagnames: question:spectral-workbench, answered
 author: edilberto
 path: /notes/edilberto/03-24-2015/question.md

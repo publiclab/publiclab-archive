@@ -1,5 +1,5 @@
 ---
-title: Landfill mapping with Oakville Community Action Group
+title: 'Landfill mapping with Oakville Community Action Group'
 tagnames: gulf-coast, kite-mapping, wetlands, louisiana, landfill, plaquemines, location:blurred, oakville, lat:29.78, lon:-90.02, place:oakville
 author: a1ahna
 path: /notes/a1ahna/11-13-2018/landfill-mapping-with-oakville-community-action-group.md

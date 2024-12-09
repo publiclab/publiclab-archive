@@ -1,5 +1,5 @@
 ---
-title: DIY Spectrometer at Women in Photonics Week
+title: 'DIY Spectrometer at Women in Photonics Week'
 tagnames: spectrometer, education, outreach, barnstar:excessive-enthusiasm, photonics
 author: isabellagonzalez
 path: /notes/isabellagonzalez/11-01-2017/diy-spectrometer-at-women-in-photonics-week.md

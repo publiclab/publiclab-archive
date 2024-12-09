@@ -1,5 +1,5 @@
 ---
-title: My opinion on the West St. John High School Soil Sampling experiment 
+title: 'My opinion on the West St. John High School Soil Sampling experiment '
 tagnames: lat:1, lon:10, first-time-poster, zoom:6
 author: dlrthekid8732
 path: /notes/dlrthekid8732/04-30-2021/my-opinion-on-the-west-st-john-high-school-soil-sampling-experiment.md

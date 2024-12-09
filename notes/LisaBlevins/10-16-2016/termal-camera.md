@@ -1,5 +1,5 @@
 ---
-title: Termal Camera
+title: 'Termal Camera'
 tagnames: 
 author: LisaBlevins
 path: /notes/LisaBlevins/10-16-2016/termal-camera.md

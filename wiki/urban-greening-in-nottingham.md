@@ -1,5 +1,5 @@
 ---
-title: Urban greening in Nottingham
+title: 'Urban greening in Nottingham'
 tagnames: mapping, uk, urban-ag, eu, project, nottingham, project:advocacy-with-maps
 author: molangmuir10
 path: /wiki/urban-greening-in-nottingham.md

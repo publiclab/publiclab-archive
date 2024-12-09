@@ -1,5 +1,5 @@
 ---
-title: conference
+title: 'conference'
 tagnames: 
 author: warren
 path: /wiki/conference.md

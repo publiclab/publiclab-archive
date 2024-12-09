@@ -1,5 +1,5 @@
 ---
-title: Barnraising: Ethics of Practice
+title: 'Barnraising: Ethics of Practice'
 tagnames: barnraising, barnraising2012, ethics, excites
 author: mathew
 path: /notes/mathew/11-15-2012/barnraising-ethics-practice.md

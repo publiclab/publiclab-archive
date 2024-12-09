@@ -1,5 +1,5 @@
 ---
-title: Sunday, Muddy Sunday!  weekly intertidal  waste plume mapping in Searsport Maine.
+title: 'Sunday, Muddy Sunday!  weekly intertidal  waste plume mapping in Searsport Maine.'
 tagnames: maine, penobscot, bay, stockton, harbor, searsport
 author: ronhuber
 path: /notes/RonHuber/06-20-2014/sunday-muddy-sunday-weekly-intertidal-waste-plume-mapping-in-searsport-maine.md

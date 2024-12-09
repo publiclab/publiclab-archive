@@ -1,5 +1,5 @@
 ---
-title: Public remote sensing
+title: 'Public remote sensing'
 tagnames: spectrometer, tool
 author: Dongjie
 path: /notes/Dongjie/01-24-2014/public-remote-sensing.md

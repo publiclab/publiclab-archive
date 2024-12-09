@@ -1,5 +1,5 @@
 ---
-title: 3-class module at Trillium Charter School
+title: '3-class module at Trillium Charter School'
 tagnames: portland
 author: mathew
 path: /notes/mathew/11-15-2013/3-class-module-at-trillium-charter-school.md

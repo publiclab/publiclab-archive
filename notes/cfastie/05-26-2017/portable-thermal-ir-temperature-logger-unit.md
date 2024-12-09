@@ -1,5 +1,5 @@
 ---
-title: Portable thermal IR temperature logger unit
+title: 'Portable thermal IR temperature logger unit'
 tagnames: arduino, sensors, data-logging, arduino-nano, nano-data-logger, 16x2_lcd, ds18b20, gy90615, activity:nano-data-logger
 author: cfastie
 path: /notes/cfastie/05-26-2017/portable-thermal-ir-temperature-logger-unit.md

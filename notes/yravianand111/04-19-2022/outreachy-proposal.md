@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Infragram.org full-screen UI and video upload 
+title: 'Outreachy proposal: Infragram.org full-screen UI and video upload '
 tagnames: software, outreachy, outreachy-2022, outreachy-summer-2022
 author: yravianand111
 path: /notes/yravianand111/04-19-2022/outreachy-proposal.md

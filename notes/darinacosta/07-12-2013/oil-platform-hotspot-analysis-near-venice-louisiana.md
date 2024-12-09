@@ -1,5 +1,5 @@
 ---
-title: Oil Platform Hotspot Analysis near Venice, Louisiana
+title: 'Oil Platform Hotspot Analysis near Venice, Louisiana'
 tagnames: gulf-coast, louisiana, oil, gis
 author: darinacosta
 path: /notes/darinacosta/07-12-2013/oil-platform-hotspot-analysis-near-venice-louisiana.md

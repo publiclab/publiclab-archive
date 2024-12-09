@@ -1,5 +1,5 @@
 ---
-title: The amazing Micro-Hoek microscope
+title: 'The amazing Micro-Hoek microscope'
 tagnames: water-quality, the, microscope, microscopy, activity:microscope, lat:-30, zoom:8, lon:-64, research-curation-fellows, conclusions, intro
 author: alejobonifacio
 path: /notes/alejobonifacio/06-27-2022/the-amazing-micro-hoek-microscope.md

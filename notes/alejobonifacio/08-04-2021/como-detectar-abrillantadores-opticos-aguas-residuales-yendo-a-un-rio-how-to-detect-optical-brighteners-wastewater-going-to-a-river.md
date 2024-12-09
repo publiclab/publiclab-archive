@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo detectar abrillantadores ópticos (aguas residuales) yendo a un río? / How to detect optical brighteners (wastewater) going to a river?
+title: '¿Cómo detectar abrillantadores ópticos (aguas residuales) yendo a un río? / How to detect optical brighteners (wastewater) going to a river?'
 tagnames: water-quality, stormwater, lang:es, barnstar:basic, new, wastewater, activity:stormwater, activity:water-quality, activity:new, lat:-30, english, zoom:4, zoom:16, research-curation-fellows, lon:-60, activity:wastewater, detecting-wastewater, wastewater-optical-brighteners, activity:detecting-wastewater, lat:-31.403142, lon:-64.204251
 author: alejobonifacio
 path: /notes/alejobonifacio/08-04-2021/como-detectar-abrillantadores-opticos-aguas-residuales-yendo-a-un-rio-how-to-detect-optical-brighteners-wastewater-going-to-a-river.md

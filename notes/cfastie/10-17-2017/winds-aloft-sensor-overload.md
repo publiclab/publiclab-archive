@@ -1,5 +1,5 @@
 ---
-title: Winds aloft: sensor overload
+title: 'Winds aloft: sensor overload'
 tagnames: arduino, nasa, kite, gps, anemometer, wind-speed-meter, atmosphere, saturnv, skyshield, data-logging, skypod, ublox, wind-sensor, rokkaku, series:diy-wind-sensors, skypod-gps-logger, wind-speed, aeropod, activity:as220-wind-sensors, activity:aren
 author: cfastie
 path: /notes/cfastie/10-17-2017/winds-aloft-sensor-overload.md

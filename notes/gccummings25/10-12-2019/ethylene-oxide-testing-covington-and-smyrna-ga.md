@@ -1,5 +1,5 @@
 ---
-title: Ethylene Oxide Testing - Covington and Smyrna, GA
+title: 'Ethylene Oxide Testing - Covington and Smyrna, GA'
 tagnames: georgia, air-quality, southeast, advocacy, study-design, community-organizing, air-sensors, first-time-poster, lat:33.610044, lon:-83.871222, ethylene-oxide
 author: gccummings25
 path: /notes/gccummings25/10-12-2019/ethylene-oxide-testing-covington-and-smyrna-ga.md

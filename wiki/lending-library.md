@@ -1,5 +1,5 @@
 ---
-title: Public Lab Lending Library
+title: 'Public Lab Lending Library'
 tagnames: community, lending-library
 author: liz
 path: /wiki/lending-library.md

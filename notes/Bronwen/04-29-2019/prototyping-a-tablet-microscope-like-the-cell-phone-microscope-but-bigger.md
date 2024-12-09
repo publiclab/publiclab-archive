@@ -1,5 +1,5 @@
 ---
-title: Prototyping a Tablet Microscope-- Like the Cell Phone Microscope, But Bigger
+title: 'Prototyping a Tablet Microscope-- Like the Cell Phone Microscope, But Bigger'
 tagnames: education, kits, water-quality, prototyping, microscope, tablet, community-microscope, lat:40.680638, lon:-73.937988, seaweed, marine-life, replication:13743
 author: Bronwen
 path: /notes/Bronwen/04-29-2019/prototyping-a-tablet-microscope-like-the-cell-phone-microscope-but-bigger.md

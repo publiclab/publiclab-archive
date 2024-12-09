@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of uf_citra_strawberry
+title: 'MapKnitter map of uf_citra_strawberry'
 tagnames: mapknitter, agriculture, crops, first-time-poster, lat:29.411916, lon:-82.109815, citra, strawberry
 author: ganhao89
 path: /notes/ganhao89/02-20-2019/mapknitter-map-of-uf_citra_strawberry.md

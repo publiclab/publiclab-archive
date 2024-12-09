@@ -1,5 +1,5 @@
 ---
-title: What software can i use to view Wheestat data?
+title: 'What software can i use to view Wheestat data?'
 tagnames: wheestat, question:general, question:wheestat
 author: Abdulhakeem0801
 path: /notes/Abdulhakeem0801/11-12-2017/please-tell-me.md

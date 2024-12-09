@@ -1,5 +1,5 @@
 ---
-title: Prototyping a kite for kids
+title: 'Prototyping a kite for kids'
 tagnames: kite-mapping, new-hampshire, mylar, diy-kite, diy-kites, northeast, difficulty:easy, time:3h, category:build, kite-making, activity:kite-making, activity:kids, activity:education, activity:science-fair, activity:classroom, activity:field-studies
 author: oscarbrett
 path: /notes/oscar-brett/7-26-2012/prototyping-kite-kids.md

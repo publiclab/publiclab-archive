@@ -1,5 +1,5 @@
 ---
-title: Kickstarter
+title: 'Kickstarter'
 tagnames: kickstarter
 author: warren
 path: /wiki/kickstarter.md

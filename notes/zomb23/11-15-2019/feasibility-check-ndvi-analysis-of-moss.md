@@ -1,5 +1,5 @@
 ---
-title: Feasibility-check: NDVI analysis of moss
+title: 'Feasibility-check: NDVI analysis of moss'
 tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster
 author: zomb23
 path: /notes/zomb23/11-15-2019/feasibility-check-ndvi-analysis-of-moss.md

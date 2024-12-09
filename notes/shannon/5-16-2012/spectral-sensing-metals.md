@@ -1,5 +1,5 @@
 ---
-title: Spectral sensing for metals
+title: 'Spectral sensing for metals'
 tagnames: spectrometer, air-column-monitor, xrf
 author: Shannon
 path: /notes/shannon/5-16-2012/spectral-sensing-metals.md

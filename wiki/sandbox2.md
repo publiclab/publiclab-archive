@@ -1,5 +1,5 @@
 ---
-title: sandbox2
+title: 'sandbox2'
 tagnames: 
 author: icarito
 path: /wiki/sandbox2.md

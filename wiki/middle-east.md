@@ -1,5 +1,5 @@
 ---
-title: middle-east
+title: 'middle-east'
 tagnames: region, middle-east
 author: liz
 path: /wiki/middle-east.md

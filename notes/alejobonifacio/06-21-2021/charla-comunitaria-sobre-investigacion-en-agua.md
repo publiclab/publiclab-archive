@@ -1,5 +1,5 @@
 ---
-title: Charla comunitaria sobre investigación en agua
+title: 'Charla comunitaria sobre investigación en agua'
 tagnames: event, research, water-quality, water, event:rsvp, research-curation-fellows, date:06-25-2021, rsvp:bhamster, research-curation-fellows-event, rsvp:denissebn_06, rsvp:raquel_bazan
 author: alejobonifacio
 path: /notes/alejobonifacio/06-21-2021/charla-comunitaria-sobre-investigacion-en-agua.md

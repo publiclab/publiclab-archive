@@ -1,5 +1,5 @@
 ---
-title: Light socket tests for countertop spectrometer, 3d prints of mobile spectrometer
+title: 'Light socket tests for countertop spectrometer, 3d prints of mobile spectrometer'
 tagnames: spectrometer, kickstarter
 author: warren
 path: /notes/warren/1-30-2013/light-socket-tests-countertop-spectrometer-3d-prints-mobile-spectrometer.md

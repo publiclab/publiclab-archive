@@ -1,5 +1,5 @@
 ---
-title: How to calibrate the white-balance for NDVI using the BLUE filter?
+title: 'How to calibrate the white-balance for NDVI using the BLUE filter?'
 tagnames: near-infrared-camera, ndvi, calibration, infrared, white-balance, infragram, infrablue, wratten25a, super-red, red-vs-blue, question:ndvi, question:infragram, question:white-balance, hardware, general, response:9691, first-time-poster
 author: cagiva
 path: /notes/cagiva/01-10-2019/ndvi-for-blue-filter.md

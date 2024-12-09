@@ -1,5 +1,5 @@
 ---
-title: Skytruthing the Bakken Shale 
+title: 'Skytruthing the Bakken Shale '
 tagnames: balloon-mapping, bakken, bakken-shale, shale, skytruth, flares, natural-gas
 author: davidmanthos
 path: /notes/davidmanthos/09-01-2013/skytruthing-the-bakken-shale.md

@@ -1,5 +1,5 @@
 ---
-title: halogen bulb
+title: 'halogen bulb'
 tagnames: response:6580
 author: rudolf455
 path: /notes/rudolf455/05-10-2017/halogen-bulb.md

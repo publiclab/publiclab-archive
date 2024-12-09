@@ -1,5 +1,5 @@
 ---
-title: Pfizer Building
+title: 'Pfizer Building'
 tagnames: new-york-city, brooklyn, pfizer, workspace
 author: liz
 path: /wiki/pfizer-building.md

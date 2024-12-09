@@ -1,5 +1,5 @@
 ---
-title: AMP August and September workshops and fieldwork
+title: 'AMP August and September workshops and fieldwork'
 tagnames: west-virginia, mountaintop-removal, southeast, amp, mtr, appalachia
 author: LauraChipley
 path: /notes/LauraChipley/10-06-2015/amp-august-and-september-workshops-and-fieldwork.md

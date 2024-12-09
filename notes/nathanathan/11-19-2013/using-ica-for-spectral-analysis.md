@@ -1,5 +1,5 @@
 ---
-title: Using ICA for spectral analysis
+title: 'Using ICA for spectral analysis'
 tagnames: spectrography, first-time-poster
 author: nathanathan
 path: /notes/nathanathan/11-19-2013/using-ica-for-spectral-analysis.md

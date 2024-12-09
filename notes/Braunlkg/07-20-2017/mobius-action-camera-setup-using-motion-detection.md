@@ -1,5 +1,5 @@
 ---
-title: Mobius Action Camera Setup using motion detection?
+title: 'Mobius Action Camera Setup using motion detection?'
 tagnames: question:question:mobius:action:camera:m.setup
 author: Braunlkg
 path: /notes/Braunlkg/07-20-2017/mobius-action-camera-setup-using-motion-detection.md

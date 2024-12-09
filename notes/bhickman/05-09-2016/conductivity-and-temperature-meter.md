@@ -1,5 +1,5 @@
 ---
-title: Conductivity and Temperature Meter
+title: 'Conductivity and Temperature Meter'
 tagnames: water-quality, conductivity, barnstar:basic, waterquality, activity:conductivity, activity:temperature
 author: bhickman
 path: /notes/bhickman/05-09-2016/conductivity-and-temperature-meter.md

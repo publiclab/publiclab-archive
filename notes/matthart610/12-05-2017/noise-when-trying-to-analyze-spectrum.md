@@ -1,5 +1,5 @@
 ---
-title: Noise when Trying to Analyze Spectrum
+title: 'Noise when Trying to Analyze Spectrum'
 tagnames: spectrometer, spectralworkbench, export, question:spectrometry, graph, question:foldable-spec
 author: matthart610
 path: /notes/matthart610/12-05-2017/noise-when-trying-to-analyze-spectrum.md

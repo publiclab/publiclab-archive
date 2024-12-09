@@ -1,5 +1,5 @@
 ---
-title: Timeline of the Talon-Rio Tinto Mine
+title: 'Timeline of the Talon-Rio Tinto Mine'
 tagnames: zoom:6, lat:46, mn-land-manoomin-protection, lon:-93
 author: noah_ben_furman
 path: /notes/noah_ben_furman/08-04-2022/timeline-of-the-talon-rio-tinto-mine.md

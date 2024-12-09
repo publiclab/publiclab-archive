@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of S. Elysian Valley Balloon Mapping
+title: 'MapKnitter map of S. Elysian Valley Balloon Mapping'
 tagnames: mapknitter, lat:34.0826903363, lon:-118.2323098183
 author: batsavap
 path: /notes/batsavap/05-16-2017/mapknitter-map-of-s-elysian-valley-balloon-mapping.md

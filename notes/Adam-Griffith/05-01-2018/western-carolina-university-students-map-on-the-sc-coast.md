@@ -1,5 +1,5 @@
 ---
-title: Western Carolina University students map on the SC Coast
+title: 'Western Carolina University students map on the SC Coast'
 tagnames: western-north-carolina, balloon-mapping, kite-mapping, wetlands, coastal, western-carolina-university, sea-level-rise, students, high-wind, windy, southeast, south-carolina
 author: adam-griffith
 path: /notes/Adam-Griffith/05-01-2018/western-carolina-university-students-map-on-the-sc-coast.md

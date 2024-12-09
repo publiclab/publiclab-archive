@@ -1,5 +1,5 @@
 ---
-title: Infrared camera hacking at Parts and Crafts
+title: 'Infrared camera hacking at Parts and Crafts'
 tagnames: near-infrared-camera, somerville-massachusetts, infrared, partsandcrafts, massachusetts, parts-and-crafts, keychain-cameras
 author: warren
 path: /notes/warren/4-18-2011/infrared-camera-hacking-parts-and-crafts.md

@@ -1,5 +1,5 @@
 ---
-title: Unboxing Lesson with Middle School - Infragram Pi Kit
+title: 'Unboxing Lesson with Middle School - Infragram Pi Kit'
 tagnames: balloon-mapping, kite-mapping, education, kits, nasa, aerial-imaging, aren, globe, infragram-pi
 author: carmen2x
 path: /notes/carmen2x/04-01-2022/unboxing-lesson-with-middle-school-infragram-pi-kit.md

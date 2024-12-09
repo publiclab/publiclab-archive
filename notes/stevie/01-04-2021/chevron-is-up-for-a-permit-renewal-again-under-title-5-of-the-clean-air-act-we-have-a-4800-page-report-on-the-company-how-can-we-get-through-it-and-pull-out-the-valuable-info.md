@@ -1,5 +1,5 @@
 ---
-title: Chevron is up for a permit renewal again (under title 5 of the Clean Air Act), we have a 4800 page report on the company, how can we get through it and pull out the valuable info?
+title: 'Chevron is up for a permit renewal again (under title 5 of the Clean Air Act), we have a 4800 page report on the company, how can we get through it and pull out the valuable info?'
 tagnames: air-quality, question:air-quality, question:general, general, oil-and-gas, question:oil-and-gas, location:blurred, place:united-states, lat:30, lon:-88, zoom:6, with:cherokeeconcernedcitizens
 author: stevie
 path: /notes/stevie/01-04-2021/chevron-is-up-for-a-permit-renewal-again-under-title-5-of-the-clean-air-act-we-have-a-4800-page-report-on-the-company-how-can-we-get-through-it-and-pull-out-the-valuable-info.md

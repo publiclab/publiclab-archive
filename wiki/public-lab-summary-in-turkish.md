@@ -1,5 +1,5 @@
 ---
-title: Public Lab - Summary in Turkish
+title: 'Public Lab - Summary in Turkish'
 tagnames: publiclab, summary, turkish
 author: ygzstc
 path: /wiki/public-lab-summary-in-turkish.md

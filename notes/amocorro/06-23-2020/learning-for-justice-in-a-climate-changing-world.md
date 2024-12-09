@@ -1,5 +1,5 @@
 ---
-title: Learning for Justice in a Climate Changing World 
+title: 'Learning for Justice in a Climate Changing World '
 tagnames: education, barnraising, water-quality, monitoring, barnstar:basic, climate-change, waterquality, environmentaljustice, advocacy, environmental-justice, community-science, first-time-poster, covid-19, newcomer, oilspills, pandemic, communities, justice, csp, justtransition, climateresilience, just-transition, science-education
 author: amocorro
 path: /notes/amocorro/06-23-2020/learning-for-justice-in-a-climate-changing-world.md

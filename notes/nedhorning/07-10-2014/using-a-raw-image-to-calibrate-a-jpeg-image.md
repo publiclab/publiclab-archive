@@ -1,5 +1,5 @@
 ---
-title: Using a RAW image to calibrate a JPEG image
+title: 'Using a RAW image to calibrate a JPEG image'
 tagnames: near-infrared-camera, ndvi, nir, calibration, raw, infragram, barnstar:basic, jpeg, response:10607, ndvi-calibrate, multispectral-imaging
 author: nedhorning
 path: /notes/nedhorning/07-10-2014/using-a-raw-image-to-calibrate-a-jpeg-image.md

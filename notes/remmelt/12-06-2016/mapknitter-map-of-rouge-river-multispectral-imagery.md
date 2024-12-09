@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Rouge RIver Multispectral Imagery
+title: 'MapKnitter map of Rouge RIver Multispectral Imagery'
 tagnames: mapknitter, infrared, drone, multispectral-imaging, lat:43.653226, lon:-79.3831843
 author: remmelt
 path: /notes/remmelt/12-06-2016/mapknitter-map-of-rouge-river-multispectral-imagery.md

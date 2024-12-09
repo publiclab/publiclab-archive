@@ -1,5 +1,5 @@
 ---
-title: Calling for your favorite Kite/Balloon Mapping images and video!
+title: 'Calling for your favorite Kite/Balloon Mapping images and video!'
 tagnames: balloon-mapping, aerial-photography, kickstarter, aerial-mapping, aerial-photos, autodesk
 author: Bronwen
 path: /notes/bronwen/06-05-2017/calling-for-your-favorite-kite-balloon-mapping-images-and-video.md

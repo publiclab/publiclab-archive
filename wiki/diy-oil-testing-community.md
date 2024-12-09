@@ -1,5 +1,5 @@
 ---
-title: DIY Oil Testing: Community
+title: 'DIY Oil Testing: Community'
 tagnames: spectrometer, community, spectrometry, oil-testing-kit
 author: warren
 path: /wiki/diy-oil-testing-community.md

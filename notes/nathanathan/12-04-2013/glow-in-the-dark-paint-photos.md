@@ -1,5 +1,5 @@
 ---
-title: Glow in the dark paint photos
+title: 'Glow in the dark paint photos'
 tagnames: calibration, phosphorescence, response:9816, glow-in-the-dark
 author: nathanathan
 path: /notes/nathanathan/12-04-2013/glow-in-the-dark-paint-photos.md

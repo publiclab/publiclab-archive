@@ -1,5 +1,5 @@
 ---
-title: Would using a kite messenger system help with mapping?
+title: 'Would using a kite messenger system help with mapping?'
 tagnames: question:kite-mapping
 author: Ag8n
 path: /notes/Ag8n/04-30-2018/would-using-a-kite-messenger-system-help-with-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: Pure CO2 
+title: 'Pure CO2 '
 tagnames: spectrometer, spectrometry, co2, hidden:response, foldable-spec, replication:15121
 author: Amtwynn
 path: /notes/Amtwynn/10-27-2017/pure-co2.md

@@ -1,5 +1,5 @@
 ---
-title: gmf-8-Amy-LeGaux
+title: 'gmf-8-Amy-LeGaux'
 tagnames: style:fancy
 author: liz
 path: /wiki/gmf-8-amy-legaux.md

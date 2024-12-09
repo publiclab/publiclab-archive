@@ -1,5 +1,5 @@
 ---
-title: Mycoremediation of cigarettes butts
+title: 'Mycoremediation of cigarettes butts'
 tagnames: remediation, question:bioremediation, first-time-poster, mycoremediation, cigarettesbutts, contamitantbioabsorption, question:mycoremediation
 author: audreyspeyer
 path: /notes/audreyspeyer/07-17-2019/mycoremediation-of-cigarettes-butts.md

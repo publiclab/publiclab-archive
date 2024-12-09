@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (304 Pearl Street)
+title: 'Art in Ruins (304 Pearl Street)'
 tagnames: hidden:response, zoom:13, lat:41.88617662305848, lon:-71.39877319335939, lat:41.814942, lon:-71.422684, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/art-in-ruins-304-pearl-street.md

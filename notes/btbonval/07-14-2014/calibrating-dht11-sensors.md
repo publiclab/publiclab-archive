@@ -1,5 +1,5 @@
 ---
-title: Calibrating DHT11 sensors
+title: 'Calibrating DHT11 sensors'
 tagnames: arduino, calibration, temperature, sensors, data-collection, data, collection, humidity, dht11, dht22, dht12, dhtxx, rh, relative-humidity
 author: btbonval
 path: /notes/btbonval/07-14-2014/calibrating-dht11-sensors.md

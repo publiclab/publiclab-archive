@@ -1,5 +1,5 @@
 ---
-title: Camera exposure matrix
+title: 'Camera exposure matrix'
 tagnames: infrared, raspberry-pi, barnstar:basic, computer-vision, picamera, noir
 author: MaggPi
 path: /notes/MaggPi/07-02-2018/camera-exposure-matrix.md

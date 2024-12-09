@@ -1,5 +1,5 @@
 ---
-title: Impacted Communities - Citizen Science in a "No Zoning" City from Strategy to Solutions
+title: 'Impacted Communities - Citizen Science in a "No Zoning" City from Strategy to Solutions'
 tagnames: industrial-monitoring, mapping, reporting, epa, contamination, air-quality, public-health, airquality, exposure, waterquality, texas, oil-and-gas, houston, issue-brief, fenceline, first-time-poster, zoom:6, resourceguide, environmentalracism, environmentalcontamination, nozoning, lat:29.764377, lon:-95.361328, envirofacts
 author: mashalawais
 path: /notes/mashalawais/11-30-2020/impacted-communities-citizen-science-in-a-no-zoning-city-from-strategy-to-solutions.md

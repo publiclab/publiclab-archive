@@ -1,5 +1,5 @@
 ---
-title: quick pics from EcoHackNYC
+title: 'quick pics from EcoHackNYC'
 tagnames: new-york-city, ecohack, great-photos, with:kosamari, with:chrisjob
 author: liz
 path: /notes/liz/05-10-2014/quick-pics-from-ecohacknyc.md

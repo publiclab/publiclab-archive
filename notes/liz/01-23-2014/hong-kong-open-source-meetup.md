@@ -1,5 +1,5 @@
 ---
-title: Hong Kong Open Source Meetup
+title: 'Hong Kong Open Source Meetup'
 tagnames: event, hong-kong, asia
 author: liz
 path: /notes/liz/01-23-2014/hong-kong-open-source-meetup.md

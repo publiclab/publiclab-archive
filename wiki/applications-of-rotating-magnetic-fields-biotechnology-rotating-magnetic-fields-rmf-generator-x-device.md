@@ -1,5 +1,5 @@
 ---
-title: Rotating magnetic field generator against viruses,bacteria, malaria, tumor, autoimmune encephalomyelitis, chronic obstructive pulmonary disease
+title: 'Rotating magnetic field generator against viruses,bacteria, malaria, tumor, autoimmune encephalomyelitis, chronic obstructive pulmonary disease'
 tagnames: diy-bio, bacteria, eu, location:blurred, lat:44, zoom:6, virus, lon:26, place:romania, rotating-magnetic-fields, application-of-rotating-magnetic-fields, physiotherapy-with-rotating-magnetic-fields, rotating-magnetic-fields-generator, blood-flow-stimulation-magnetic-fields, malaria-in-response-to-rotating-magnetic-fields, rotating-magnetic-fields-biotechnology, application-of-rotating-magnetic-field-antimicrobials, reducing-blood-viscosity, rotating-magnetic-fields-generator-construction, coronavirus-treatment, nerve-activation, muscle-activation
 author: sciencetoolbar
 path: /wiki/applications-of-rotating-magnetic-fields-biotechnology-rotating-magnetic-fields-rmf-generator-x-device.md

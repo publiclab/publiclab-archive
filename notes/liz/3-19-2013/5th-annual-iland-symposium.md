@@ -1,5 +1,5 @@
 ---
-title: 5th annual iLAND symposium
+title: '5th annual iLAND symposium'
 tagnames: new-york-city, ilab
 author: liz
 path: /notes/liz/3-19-2013/5th-annual-iland-symposium.md

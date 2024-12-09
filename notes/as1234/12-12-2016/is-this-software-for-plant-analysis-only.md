@@ -1,5 +1,5 @@
 ---
-title: Is this software for plant analysis only?
+title: 'Is this software for plant analysis only?'
 tagnames: question:question
 author: as1234
 path: /notes/as1234/12-12-2016/is-this-software-for-plant-analysis-only.md

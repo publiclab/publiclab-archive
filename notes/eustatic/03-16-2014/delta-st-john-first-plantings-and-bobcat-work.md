@@ -1,5 +1,5 @@
 ---
-title: Delta St John:  first plantings and bobcat work 
+title: 'Delta St John:  first plantings and bobcat work '
 tagnames: gulf-coast, kite-mapping, eustatic, dredgefestla, bsj, response:6665
 author: eustatic
 path: /03-16-2014/delta-st-john-first-plantings-and-bobcat-work.md

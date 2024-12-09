@@ -1,5 +1,5 @@
 ---
-title: Tim Dye's amazing timeline of the air sensor revolution
+title: 'Tim Dye's amazing timeline of the air sensor revolution'
 tagnames: air-quality
 author: liz
 path: /notes/liz/06-22-2017/tim-dye-s-amazing-timeline-of-the-air-sensor-revolution.md

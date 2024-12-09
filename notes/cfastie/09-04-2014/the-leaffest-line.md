@@ -1,5 +1,5 @@
 ---
-title: The LEAFFEST Line
+title: 'The LEAFFEST Line'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, leaffest, event, infragram, super-red, titan, leaffest2014, response:11076, redstone
 author: cfastie
 path: /notes/cfastie/09-04-2014/the-leaffest-line.md

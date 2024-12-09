@@ -1,5 +1,5 @@
 ---
-title: Question: Using a webcam with a image resolution of 1920x1020
+title: 'Question: Using a webcam with a image resolution of 1920x1020'
 tagnames: question:spectrometry, question:spectral-workbench
 author: seko
 path: /notes/seko/06-23-2016/question-using-a-webcam-with-a-image-resolution-of-1920x1020.md

@@ -1,5 +1,5 @@
 ---
-title: Microscope build for Barnraising 2017
+title: 'Microscope build for Barnraising 2017'
 tagnames: barnraising, hackteria, microscopes, barnraising-2017, location:blurred, replication:15094, lat:29, lon:-90, place:cocodrie-la, with:wmacfarl
 author: kgradow1
 path: /notes/kgradow1/11-04-2017/prototype-build-for-barnraising-2017.md

@@ -1,5 +1,5 @@
 ---
-title: Urban Systems Symposium
+title: 'Urban Systems Symposium'
 tagnames: events
 author: liz
 path: /notes/liz/9-7-2012/urban-systems-symposium.md

@@ -1,5 +1,5 @@
 ---
-title: NDVI validation
+title: 'NDVI validation'
 tagnames: ndvi, raspberry-pi, question:ndvi, first-time-poster
 author: aldrin
 path: /notes/aldrin/10-10-2016/ndvi-validation.md

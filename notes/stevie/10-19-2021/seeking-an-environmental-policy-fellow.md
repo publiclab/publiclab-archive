@@ -1,5 +1,5 @@
 ---
-title: Seeking an Environmental Policy Fellow 
+title: 'Seeking an Environmental Policy Fellow '
 tagnames: air-quality, jobs, pm, fellows, particulate-matter, job, policy, fellow, fellowship-team, careers, st-james, fellowship-teams, eis, with:travislondon, formosaplastics
 author: stevie
 path: /notes/stevie/10-19-2021/seeking-an-environmental-policy-fellow.md

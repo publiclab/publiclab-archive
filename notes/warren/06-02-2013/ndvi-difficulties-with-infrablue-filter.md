@@ -1,5 +1,5 @@
 ---
-title: NDVI difficulties with infrablue filter
+title: 'NDVI difficulties with infrablue filter'
 tagnames: near-infrared-camera, somerville-massachusetts, kite-mapping, ndvi, boston, infragram, infragram-filters
 author: warren
 path: /notes/warren/06-02-2013/ndvi-difficulties-with-infrablue-filter.md

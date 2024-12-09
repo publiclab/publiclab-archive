@@ -1,5 +1,5 @@
 ---
-title: Actual Air – Sensing Bicycle Project in Somerville, MA
+title: 'Actual Air – Sensing Bicycle Project in Somerville, MA'
 tagnames: somerville-massachusetts, sensing, bicycle, air-sensors
 author: mike styczynski
 path: /notes/mike-styczynski/5-2-2011/actual-air-sensing-bicycle-project-somerville-ma.md

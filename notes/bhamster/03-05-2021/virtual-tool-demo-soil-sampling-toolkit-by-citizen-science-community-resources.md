@@ -1,5 +1,5 @@
 ---
-title: Virtual tool demo: Soil Sampling Toolkit by Citizen Science Community Resources
+title: 'Virtual tool demo: Soil Sampling Toolkit by Citizen Science Community Resources'
 tagnames: event, soil, event:rsvp, rsvp:bronwen, soil-testing, soil-sampling, soil-testing-toolkit, with:jjcreedon, soil-contamination, rsvp:jjcreedon, rsvp:dianner, rsvp:bernard, rsvp:blessedshrub, rsvp:alejobonifacio
 author: bhamster
 path: /notes/bhamster/03-05-2021/virtual-tool-demo-soil-sampling-toolkit-by-citizen-science-community-resources.md

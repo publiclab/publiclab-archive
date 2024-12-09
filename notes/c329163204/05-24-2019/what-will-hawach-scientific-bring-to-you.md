@@ -1,5 +1,5 @@
 ---
-title: What Will Hawach Scientific Bring to You?
+title: 'What Will Hawach Scientific Bring to You?'
 tagnames: lat:34.341574, lon:108.93977
 author: c329163204
 path: /notes/c329163204/05-24-2019/what-will-hawach-scientific-bring-to-you.md

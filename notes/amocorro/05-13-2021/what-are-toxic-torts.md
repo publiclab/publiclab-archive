@@ -1,5 +1,5 @@
 ---
-title: What are toxic torts? 
+title: 'What are toxic torts? '
 tagnames: legal, advocacy, question:general, general, lawyers, law-and-policy, question:law-and-policy, toxic-tort, tort
 author: amocorro
 path: /notes/amocorro/05-13-2021/what-are-toxic-torts.md

@@ -1,5 +1,5 @@
 ---
-title: Updated Map: Western Carolina University
+title: 'Updated Map: Western Carolina University'
 tagnames: western-north-carolina, southeast
 author: adam-griffith
 path: /notes/adam-griffith/2-6-2012/updated-map-western-carolina-university.md

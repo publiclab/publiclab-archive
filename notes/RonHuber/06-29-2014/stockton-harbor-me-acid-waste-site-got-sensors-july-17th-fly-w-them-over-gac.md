@@ -1,5 +1,5 @@
 ---
-title: Stockton Harbor, Me acid waste site overflight UPDATE
+title: 'Stockton Harbor, Me acid waste site overflight UPDATE'
 tagnames: maine, northeast, searsport, acid, gac, sulfuric, phosoh, barnstar:watchdog
 author: ronhuber
 path: /notes/RonHuber/06-29-2014/stockton-harbor-me-acid-waste-site-got-sensors-july-17th-fly-w-them-over-gac.md

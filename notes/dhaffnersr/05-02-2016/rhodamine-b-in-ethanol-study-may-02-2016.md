@@ -1,5 +1,5 @@
 ---
-title: Rhodamine b in ethanol study May/02/2016
+title: 'Rhodamine b in ethanol study May/02/2016'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-02-2016/rhodamine-b-in-ethanol-study-may-02-2016.md

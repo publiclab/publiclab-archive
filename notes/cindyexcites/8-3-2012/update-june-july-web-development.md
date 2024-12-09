@@ -1,5 +1,5 @@
 ---
-title: Update June-July (web-development)
+title: 'Update June-July (web-development)'
 tagnames: web-development
 author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/update-june-july-web-development.md

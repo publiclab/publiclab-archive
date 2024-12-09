@@ -1,5 +1,5 @@
 ---
-title: everything
+title: 'everything'
 tagnames: 
 author: Manasa2850
 path: /wiki/everything.md

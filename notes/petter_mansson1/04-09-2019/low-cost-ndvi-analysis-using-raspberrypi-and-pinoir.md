@@ -1,5 +1,5 @@
 ---
-title: Low cost NDVI analysis using RaspberryPi and PiNoIR
+title: 'Low cost NDVI analysis using RaspberryPi and PiNoIR'
 tagnames: ndvi, raspberry-pi, infragram, colormap, ndvi-calibrate, pi-camera, pinoir, activity:infragram, activity:ndvi, replication:15075, first-time-poster, infragram-pi, lat:55.604981, lon:13.003822, activity:infragram-pi, pin:activity:ndvi, pin:activity:infragram, pin:activity:infragram-pi
 author: petter_mansson1
 path: /notes/petter_mansson1/04-09-2019/low-cost-ndvi-analysis-using-raspberrypi-and-pinoir.md

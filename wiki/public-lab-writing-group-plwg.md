@@ -1,5 +1,5 @@
 ---
-title: Public Lab Writing Group (PLWG)
+title: 'Public Lab Writing Group (PLWG)'
 tagnames: writing, writing-group, working-groups, literature, list:public-lab-writing-group, collaborative-writing
 author: jbreen
 path: /wiki/public-lab-writing-group-plwg.md

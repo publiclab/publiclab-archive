@@ -1,5 +1,5 @@
 ---
-title: RocketPi - a Raspberry Pi based Video Flight Recorder and Live Video Telemetry Transmitter
+title: 'RocketPi - a Raspberry Pi based Video Flight Recorder and Live Video Telemetry Transmitter'
 tagnames: raspberry-pi, infragram, infragram-conversion, infragram-filters, infragram-camera-testing, pi-camera, raspberry-pi-infragram
 author: jfd
 path: /notes/jfd/12-14-2016/rocketpi-a-raspberry-pi-based-video-flight-recorder-and-live-video-telemetry-transmitter.md

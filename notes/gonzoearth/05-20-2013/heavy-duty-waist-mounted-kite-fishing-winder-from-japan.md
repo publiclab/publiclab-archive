@@ -1,5 +1,5 @@
 ---
-title: Heavy duty waist mounted kite fishing winder from Japan
+title: 'Heavy duty waist mounted kite fishing winder from Japan'
 tagnames: balloon-mapping, kite-mapping, kap, photo-rig, winder
 author: gonzoearth
 path: /notes/gonzoearth/05-20-2013/heavy-duty-waist-mounted-kite-fishing-winder-from-japan.md

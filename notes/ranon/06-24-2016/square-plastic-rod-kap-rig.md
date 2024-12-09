@@ -1,5 +1,5 @@
 ---
-title: Square Plastic Rod KAP Rig
+title: 'Square Plastic Rod KAP Rig'
 tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, self-made-kite-mapping, camera-rig-tests, kap, photo-rig, bottle-rig, kap-rigs, activity:photo-rig
 author: ranon
 path: /notes/ranon/06-24-2016/square-plastic-rod-kap-rig.md

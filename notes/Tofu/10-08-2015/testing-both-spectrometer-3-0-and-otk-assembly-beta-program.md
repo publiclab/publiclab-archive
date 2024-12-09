@@ -1,5 +1,5 @@
 ---
-title: Testing both spectrometer 3.0 and OTK - assembly Beta program
+title: 'Testing both spectrometer 3.0 and OTK - assembly Beta program'
 tagnames: spectrometer, oil, oil-testing-kit, barnstar:basic, otk
 author: Tofu
 path: /notes/Tofu/10-08-2015/testing-both-spectrometer-3-0-and-otk-assembly-beta-program.md

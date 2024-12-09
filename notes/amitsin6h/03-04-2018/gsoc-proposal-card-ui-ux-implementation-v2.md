@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Card UI/UX Implementation v2 & Bootstrap 4 Upgradation
+title: 'GSoC proposal: Card UI/UX Implementation v2 & Bootstrap 4 Upgradation'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals
 author: amitsin6h
 path: /notes/amitsin6h/03-04-2018/gsoc-proposal-card-ui-ux-implementation-v2.md

@@ -1,5 +1,5 @@
 ---
-title: Should the Purple Air be co-located with a weather station?
+title: 'Should the Purple Air be co-located with a weather station?'
 tagnames: air, wind, pm, weather, air-monitoring, hardware, question:general, question:weather, question:air-monitoring, question:air-sensors, question:purpleair, purple-air, with:orionallgaier, with:cbarnes9
 author: stevie
 path: /notes/stevie/01-11-2019/should-the-purple-air-be-co-located-with-a-weather-station.md

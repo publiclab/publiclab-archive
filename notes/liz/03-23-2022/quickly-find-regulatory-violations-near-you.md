@@ -1,5 +1,5 @@
 ---
-title:  Quickly find regulatory violations near you
+title: ' Quickly find regulatory violations near you'
 tagnames: epa, regulations, enforcement, edgi, environmental-data, echo, violations, with:a1ahna, public-data, with:lourdesvera
 author: liz
 path: /notes/liz/03-23-2022/quickly-find-regulatory-violations-near-you.md

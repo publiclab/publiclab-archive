@@ -1,5 +1,5 @@
 ---
-title: Repost: GREEN LIFE 5 POST-KATRINA INNOVATIONS NEW ORLEANS CAN BRAG ABOUT
+title: 'Repost: GREEN LIFE 5 POST-KATRINA INNOVATIONS NEW ORLEANS CAN BRAG ABOUT'
 tagnames: gulf-coast, blog, gulfcoast
 author: stevie
 path: /notes/stevie/08-28-2015/repost-green-life-5-post-katrina-innovations-new-orleans-can-brag-about.md

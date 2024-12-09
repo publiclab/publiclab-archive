@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNCC Ballon Mapping
+title: 'MapKnitter map of UNCC Ballon Mapping'
 tagnames: mapknitter, lat:35.303938, lon:-80.7299303
 author: mmitch84
 path: /notes/mmitch84/02-19-2018/mapknitter-map-of-uncc-ballon-mapping.md

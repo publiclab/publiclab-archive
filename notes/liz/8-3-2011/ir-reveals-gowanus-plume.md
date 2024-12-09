@@ -1,5 +1,5 @@
 ---
-title: Infrared balloon image reveals Gowanus plume
+title: 'Infrared balloon image reveals Gowanus plume'
 tagnames: gowanus, nrg, infrared, plume, watchdog, great-photos
 author: liz
 path: /notes/liz/8-3-2011/ir-reveals-gowanus-plume.md

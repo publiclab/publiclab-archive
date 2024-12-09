@@ -1,5 +1,5 @@
 ---
-title: Public Lab intro video script
+title: 'Public Lab intro video script'
 tagnames: 
 author: warren
 path: /wiki/public-lab-intro-video-script.md

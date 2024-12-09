@@ -1,5 +1,5 @@
 ---
-title: Can we use WebJack as a JavaScript - Serial bridge?
+title: 'Can we use WebJack as a JavaScript - Serial bridge?'
 tagnames: arduino, webjack, question:webjack, data-logging, question:webjack-challenge, webjack-challenge
 author: warren
 path: /notes/warren/12-11-2017/can-we-use-webjack-as-a-javascript-serial-bridge.md

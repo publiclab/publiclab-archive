@@ -1,5 +1,5 @@
 ---
-title: Can you share a link to project documentation?
+title: 'Can you share a link to project documentation?'
 tagnames: thermal-flashlight, thermal-camera, tool, question:generalthermal-photography, response:11401
 author: vwls
 path: /notes/vwls/10-26-2016/can-you-share-a-link-to-project-documentation.md

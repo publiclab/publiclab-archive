@@ -1,5 +1,5 @@
 ---
-title: Draft revised spectrometer guide by Alex McCarthy
+title: 'Draft revised spectrometer guide by Alex McCarthy'
 tagnames: spectrometer, guides, guide
 author: warren
 path: /notes/warren/4-29-2011/draft-revised-spectrometer-guide-alex-mccarthy.md

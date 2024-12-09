@@ -1,5 +1,5 @@
 ---
-title: Lichen for Air Quality Biomonitoring
+title: 'Lichen for Air Quality Biomonitoring'
 tagnames: lichen, resources, air-quality-monitoring, bioindicators, parent:bioindicators
 author: fongvania
 path: /wiki/lichen-for-air-quality-biomonitoring.md

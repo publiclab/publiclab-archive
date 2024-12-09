@@ -1,5 +1,5 @@
 ---
-title: EJ in LA
+title: 'EJ in LA'
 tagnames: gulf-coast, louisiana, blog, gulfcoast, environmental-justice
 author: stevie
 path: /notes/stevie/09-17-2015/ej-in-la.md

@@ -1,5 +1,5 @@
 ---
-title: Oil Testing Kit Beta Challenge
+title: 'Oil Testing Kit Beta Challenge'
 tagnames: spectrometry, oil-testing-kit, activity:experiment
 author: gretchengehrke
 path: /notes/gretchengehrke/10-13-2016/oil-testing-kit-beta-challenge.md

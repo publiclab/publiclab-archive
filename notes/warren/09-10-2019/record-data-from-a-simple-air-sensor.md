@@ -1,5 +1,5 @@
 ---
-title: Record data from a Simple Air Sensor
+title: 'Record data from a Simple Air Sensor'
 tagnames: air-quality, seeks:replications, data-logging, simple-air-sensor, activity:simple-air-sensor, simple-air-sensor-data
 author: warren
 path: /notes/warren/09-10-2019/record-data-from-a-simple-air-sensor.md

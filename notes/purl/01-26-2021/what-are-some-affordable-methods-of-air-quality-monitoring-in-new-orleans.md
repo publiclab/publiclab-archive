@@ -1,5 +1,5 @@
 ---
-title: What are some affordable methods of air quality monitoring in New Orleans?
+title: 'What are some affordable methods of air quality monitoring in New Orleans?'
 tagnames: air-quality, question:air-quality, air-quality-monitoring
 author: purl
 path: /notes/purl/01-26-2021/what-are-some-affordable-methods-of-air-quality-monitoring-in-new-orleans.md

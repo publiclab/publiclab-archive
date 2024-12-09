@@ -1,5 +1,5 @@
 ---
-title: Outreachy Proposal : Designing a New Full Interface with a New Logo along with Implementation of Light and Dark Mode for Infragram.org
+title: 'Outreachy Proposal : Designing a New Full Interface with a New Logo along with Implementation of Light and Dark Mode for Infragram.org'
 tagnames: open-source, infragram, publiclab, github, proposal, multispectral-imaging, git, outreachy, first-time-poster, zoom:6, outreachy-summer-2022, fto, lat:28.65203, lon:77.288818
 author: kavya_jain0102
 path: /notes/kavya_jain0102/04-22-2022/outreachy-proposal-designing-a-new-full-interface-with-a-new-logo-along-with-implementation-of-light-and-dark-mode-for-infragram-org.md

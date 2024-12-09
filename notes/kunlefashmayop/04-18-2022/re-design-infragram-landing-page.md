@@ -1,5 +1,5 @@
 ---
-title: Re-design Infragram landing page
+title: 'Re-design Infragram landing page'
 tagnames: infragram, multispectral-imaging, ui, frontend, first-time-poster, zoom:6, lat:6.533645, landingpage, lon:3.361816
 author: kunlefashmayop
 path: /notes/kunlefashmayop/04-18-2022/re-design-infragram-landing-page.md

@@ -1,5 +1,5 @@
 ---
-title: RGB mode in SpectralWorkbench
+title: 'RGB mode in SpectralWorkbench'
 tagnames: spectrometer, calibration
 author: warren
 path: /notes/warren/8-18-2012/rgb-mode-spectralworkbench.md

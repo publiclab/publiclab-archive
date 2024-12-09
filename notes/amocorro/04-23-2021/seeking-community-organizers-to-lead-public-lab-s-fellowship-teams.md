@@ -1,5 +1,5 @@
 ---
-title: Seeking Frontline Community Organizers to lead Public Lab’s Fellowship Teams
+title: 'Seeking Frontline Community Organizers to lead Public Lab’s Fellowship Teams'
 tagnames: jobs, with:stevie, fellows, fellowship, community-organizing
 author: amocorro
 path: /notes/amocorro/04-23-2021/seeking-community-organizers-to-lead-public-lab-s-fellowship-teams.md

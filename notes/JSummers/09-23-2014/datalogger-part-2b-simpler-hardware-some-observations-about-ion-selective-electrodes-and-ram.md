@@ -1,5 +1,5 @@
 ---
-title: Datalogger part 2b, simpler hardware, some observations about ion selective electrodes, and RAM.
+title: 'Datalogger part 2b, simpler hardware, some observations about ion selective electrodes, and RAM.'
 tagnames: datalogger, response:10288, data-logging
 author: JSummers
 path: /notes/JSummers/09-23-2014/datalogger-part-2b-simpler-hardware-some-observations-about-ion-selective-electrodes-and-ram.md

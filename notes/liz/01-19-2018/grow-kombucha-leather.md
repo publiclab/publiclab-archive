@@ -1,5 +1,5 @@
 ---
-title: Grow kombucha leather
+title: 'Grow kombucha leather'
 tagnames: seeks:replications, kombucha-leather, activity:kombucha-leather
 author: liz
 path: /notes/liz/01-19-2018/grow-kombucha-leather.md

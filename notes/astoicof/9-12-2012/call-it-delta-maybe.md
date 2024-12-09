@@ -1,5 +1,5 @@
 ---
-title: call it Delta, maybe
+title: 'call it Delta, maybe'
 tagnames: kite-mapping, kite, diy-kite, delta, california, notam, bamboo, diy-kites, difficulty:easy, category:build, time:1h, kite-making, activity:kite-making
 author: astoicof
 path: /notes/astoicof/9-12-2012/call-it-delta-maybe.md

@@ -1,5 +1,5 @@
 ---
-title: Spectrometry 1st week plan 
+title: 'Spectrometry 1st week plan '
 tagnames: spectrometer, pah, first-time-poster
 author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-5-2011/spectrometry-1st-week-plan.md

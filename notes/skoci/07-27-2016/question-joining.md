@@ -1,5 +1,5 @@
 ---
-title: Question: Joining
+title: 'Question: Joining'
 tagnames: answered, question:australia
 author: skoci
 path: /notes/skoci/07-27-2016/question-joining.md

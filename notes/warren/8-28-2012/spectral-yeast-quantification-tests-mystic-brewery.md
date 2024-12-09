@@ -1,5 +1,5 @@
 ---
-title: Spectral yeast tests at Mystic Brewery
+title: 'Spectral yeast tests at Mystic Brewery'
 tagnames: spectrometer, yeast, brewing, quantitative, absorption-spectrometry, beer
 author: warren
 path: /notes/warren/8-28-2012/spectral-yeast-quantification-tests-mystic-brewery.md

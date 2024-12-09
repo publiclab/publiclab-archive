@@ -1,5 +1,5 @@
 ---
-title: Newark Barnraising & Crisis Convening Photos
+title: 'Newark Barnraising & Crisis Convening Photos'
 tagnames: events, barnraising, new-jersey, northeast, crisis-convening, barnraising-newark-2018
 author: Bronwen
 path: /notes/bronwen/07-12-2018/newark-barnraising-crisis-convening-photos.md

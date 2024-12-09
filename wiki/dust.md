@@ -1,5 +1,5 @@
 ---
-title: Dust
+title: 'Dust'
 tagnames: pm, redirect:12579
 author: warren
 path: /wiki/dust.md

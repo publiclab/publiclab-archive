@@ -1,5 +1,5 @@
 ---
-title: Thermal flashlight -- now with more LEDz!
+title: 'Thermal flashlight -- now with more LEDz!'
 tagnames: thermal-photography, thermal-flashlight, led, igloo, snowfest, snowfest2014
 author: donblair
 path: /notes/donblair/02-15-2014/thermal-flashlight-now-with-more-ledz.md

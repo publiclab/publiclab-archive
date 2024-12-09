@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast: Build your own spectrometer event! 
+title: 'Gulf Coast: Build your own spectrometer event! '
 tagnames: gulf-coast, spectrometer, event, gulfcoast, oiltesting, spec-3
 author: stevie
 path: /notes/stevie/03-05-2015/gulf-coast-build-your-own-spectrometer-event.md

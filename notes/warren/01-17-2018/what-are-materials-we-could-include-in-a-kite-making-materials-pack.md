@@ -1,5 +1,5 @@
 ---
-title: What are materials we could include in a Kite Making Materials Pack?
+title: 'What are materials we could include in a Kite Making Materials Pack?'
 tagnames: kite-mapping, nasa, materials, prototype, answered, prototyping, kite-making, question:kite-mapping, question:kits, question:sourcing, sourcing, aren, question:kite-making, question:nasa
 author: warren
 path: /notes/warren/01-17-2018/what-are-materials-we-could-include-in-a-kite-making-materials-pack.md

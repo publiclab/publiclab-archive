@@ -1,5 +1,5 @@
 ---
-title: Progress on NRG compositing from MapKnitter
+title: 'Progress on NRG compositing from MapKnitter'
 tagnames: saugus, landfill, waste
 author: warren
 path: /notes/warren/1-3-2012/progress-nrg-compositing-mapknitter.md

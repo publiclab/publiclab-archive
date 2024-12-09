@@ -1,5 +1,5 @@
 ---
-title: GSoC 2021 Proposal: Translation System Refinements 
+title: 'GSoC 2021 Proposal: Translation System Refinements '
 tagnames: software, soc, first-time-poster, zoom:6, gsoc-2021, gsoc-2021-proposals, lat:28.708279, lon:77.656542
 author: govindgoel
 path: /notes/govindgoel/03-25-2021/gsoc-proposal.md

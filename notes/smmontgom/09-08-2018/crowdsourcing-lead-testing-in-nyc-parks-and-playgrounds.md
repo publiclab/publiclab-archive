@@ -1,5 +1,5 @@
 ---
-title: Crowdsourcing lead testing in NYC parks and playgrounds
+title: 'Crowdsourcing lead testing in NYC parks and playgrounds'
 tagnames: new-york-city, water-sensing, heavy-metals, water-quality, open-water, northeast, lead, lead-testing, lat:40.712775, lon:-74.005972, place:new-york-ny-usa
 author: smmontgom
 path: /notes/smmontgom/09-08-2018/crowdsourcing-lead-testing-in-nyc-parks-and-playgrounds.md

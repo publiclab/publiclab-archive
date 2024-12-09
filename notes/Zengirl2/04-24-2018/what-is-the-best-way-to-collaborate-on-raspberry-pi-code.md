@@ -1,5 +1,5 @@
 ---
-title: What is the best way to collaborate on Raspberry Pi code?
+title: 'What is the best way to collaborate on Raspberry Pi code?'
 tagnames: process, open-hardware, raspberry-pi, coding, question:general
 author: zengirl2
 path: /notes/Zengirl2/04-24-2018/what-is-the-best-way-to-collaborate-on-raspberry-pi-code.md

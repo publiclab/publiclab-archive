@@ -1,5 +1,5 @@
 ---
-title: How to retrieve a draft of a research note on pl.org?
+title: 'How to retrieve a draft of a research note on pl.org?'
 tagnames: question:general
 author: Delaney
 path: /notes/Delaney/06-25-2018/how-to-retrieve-a-draft-of-a-research-note-on-pl-org.md

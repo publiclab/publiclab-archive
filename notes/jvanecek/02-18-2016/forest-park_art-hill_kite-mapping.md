@@ -1,5 +1,5 @@
 ---
-title: Forest Park_Art Hill_Kite Mapping
+title: 'Forest Park_Art Hill_Kite Mapping'
 tagnames: mapknitter, lat:38.6407743214, lon:-90.2935302258, publiclabriverratpack, first-time-poster
 author: jvanecek
 path: /notes/jvanecek/02-18-2016/forest-park_art-hill_kite-mapping.md

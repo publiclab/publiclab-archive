@@ -1,5 +1,5 @@
 ---
-title: DIY Oil Testing Questions
+title: 'DIY Oil Testing Questions'
 tagnames: spectrometer, spectrometry, oil-testing-kit, draft
 author: warren
 path: /wiki/diy-oil-testing-questions.md

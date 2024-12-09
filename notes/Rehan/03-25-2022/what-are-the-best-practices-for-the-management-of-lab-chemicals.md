@@ -1,5 +1,5 @@
 ---
-title: What are the best practices for the management of lab chemicals?
+title: 'What are the best practices for the management of lab chemicals?'
 tagnames: laboratory, standards, reagents, lab, reference, question:general, general, chemicals, first-time-poster
 author: Rehan
 path: /notes/Rehan/03-25-2022/what-are-the-best-practices-for-the-management-of-lab-chemicals.md

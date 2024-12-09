@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack -- St. Louis -- Rory Thibault
+title: 'Public Lab River Rat Pack -- St. Louis -- Rory Thibault'
 tagnames: balloon-mapping, washu-stlouis, publiclabriverratpack, antidrone, plrrp
 author: rthibault
 path: /notes/rthibault/05-09-2016/public-lab-river-rat-pack-st-louis-rory-thibault.md

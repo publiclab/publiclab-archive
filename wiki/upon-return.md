@@ -1,5 +1,5 @@
 ---
-title: Upon Return
+title: 'Upon Return'
 tagnames: redirect:13474
 author: warren
 path: /wiki/upon-return.md

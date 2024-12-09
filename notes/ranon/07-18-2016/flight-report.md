@@ -1,5 +1,5 @@
 ---
-title: Flight Report
+title: 'Flight Report'
 tagnames: balloon-mapping, kite-aerial-photography, kap, photo-rig, balloon-mapping-kit, panorama, autokap, kap-rigs, dii-mount-kit, reconfigurable-rig
 author: ranon
 path: /notes/ranon/07-18-2016/flight-report.md

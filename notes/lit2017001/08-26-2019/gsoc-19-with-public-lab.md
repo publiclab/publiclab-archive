@@ -1,5 +1,5 @@
 ---
-title: GSoC'19 with Public Lab
+title: 'GSoC'19 with Public Lab'
 tagnames: google-summer-of-code, gsoc-19, soc-19, gsoc-final-eval, gsoc-2019-final-report
 author: lit2017001
 path: /notes/lit2017001/08-26-2019/gsoc-19-with-public-lab.md

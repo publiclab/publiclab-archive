@@ -1,5 +1,5 @@
 ---
-title:  Mobile E coli detector created for cell phones by UCLA researchers
+title: ' Mobile E coli detector created for cell phones by UCLA researchers'
 tagnames: e-coli, e-coli-detector, mobile-phone-camera, ucla
 author: joywager
 path: /notes/joywager/4-2-2012/mobile-e-coli-detector-created-cell-phones-ucla-researchers.md

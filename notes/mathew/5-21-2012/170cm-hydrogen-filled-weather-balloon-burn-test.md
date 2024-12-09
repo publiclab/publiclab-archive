@@ -1,5 +1,5 @@
 ---
-title: 170cm hydrogen-filled weather balloon burn test
+title: '170cm hydrogen-filled weather balloon burn test'
 tagnames: balloon-mapping, hydrogen, safety, diy-balloon
 author: mathew
 path: /notes/mathew/5-21-2012/170cm-hydrogen-filled-weather-balloon-burn-test.md

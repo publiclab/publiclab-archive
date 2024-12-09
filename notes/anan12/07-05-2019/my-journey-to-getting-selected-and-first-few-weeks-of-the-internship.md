@@ -1,5 +1,5 @@
 ---
-title: My journey to getting selected and first few weeks of the internship
+title: 'My journey to getting selected and first few weeks of the internship'
 tagnames: soc, outreachy, soc-2019, outreachy-2019
 author: anan12
 path: /notes/anan12/07-05-2019/my-journey-to-getting-selected-and-first-few-weeks-of-the-internship.md

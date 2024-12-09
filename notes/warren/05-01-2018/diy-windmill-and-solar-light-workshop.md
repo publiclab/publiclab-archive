@@ -1,5 +1,5 @@
 ---
-title: DIY Windmill and Solar Light Workshop
+title: 'DIY Windmill and Solar Light Workshop'
 tagnames: lima, peru, workshop, wind, solar, activity:classroom, windmill
 author: warren
 path: /notes/warren/05-01-2018/diy-windmill-and-solar-light-workshop.md

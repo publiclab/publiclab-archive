@@ -1,5 +1,5 @@
 ---
-title: Five Borough Farm visits Clay Avenue Garden in the Bronx
+title: 'Five Borough Farm visits Clay Avenue Garden in the Bronx'
 tagnames: new-york-city, 5bf, five-borough-farm
 author: liz
 path: /notes/liz/07-05-2013/five-borough-farm-visits-clay-avenue-garden-in-the-bronx.md

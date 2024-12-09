@@ -1,5 +1,5 @@
 ---
-title: PureLab：Experiment and Installing Water Filters Record In Banmentun
+title: 'PureLab：Experiment and Installing Water Filters Record In Banmentun'
 tagnames: remediation, water-quality, water, turbidity, asia, barnstar:basic, nitrate, barnstar:photo-documentation, filters, china, purelab, water-filter, filtration, nitrates, drinking-water, activity:water-quality, water-filters, activity:filtration, nitrogen, first-time-poster, activity:water-filters, activity:nitrogen, activity:remediation
 author: shanlter
 path: /notes/shanlter/12-17-2015/waterfilter-kits-for-rural-chinese.md

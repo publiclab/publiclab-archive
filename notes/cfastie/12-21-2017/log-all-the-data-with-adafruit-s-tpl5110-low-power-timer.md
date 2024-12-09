@@ -1,5 +1,5 @@
 ---
-title: Log all the data with Adafruit's TPL5110 Low Power Timer
+title: 'Log all the data with Adafruit's TPL5110 Low Power Timer'
 tagnames: arduino, sensors, datalogger, low-power, data-logging, bme280, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger, bmp280, activity:data-logging-power, tpl5110, low-power-logging
 author: cfastie
 path: /notes/cfastie/12-21-2017/log-all-the-data-with-adafruit-s-tpl5110-low-power-timer.md

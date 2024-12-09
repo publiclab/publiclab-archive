@@ -1,5 +1,5 @@
 ---
-title: Write an Issue Brief
+title: 'Write an Issue Brief'
 tagnames: organizing, lat:41, locked, method, community-organizing, location:blurred, place:united-states, issue-brief, parent:website, zoom:6, lon:-87
 author: stevie
 path: /wiki/issue-brief.md

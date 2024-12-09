@@ -1,5 +1,5 @@
 ---
-title: Mapping Flight Log
+title: 'Mapping Flight Log'
 tagnames: 
 author: warren
 path: /wiki/mapping-flight-log.md

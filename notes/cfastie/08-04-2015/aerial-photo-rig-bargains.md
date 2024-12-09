@@ -1,5 +1,5 @@
 ---
-title: Aerial Photo Rig Bargains
+title: 'Aerial Photo Rig Bargains'
 tagnames: kite-aerial-photography, kap, autokap, redstone, kaptery, saturnv, response:12058
 author: cfastie
 path: /notes/cfastie/08-04-2015/aerial-photo-rig-bargains.md

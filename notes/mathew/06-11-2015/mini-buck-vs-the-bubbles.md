@@ -1,5 +1,5 @@
 ---
-title: Mini-Buck vs. the Bubbles
+title: 'Mini-Buck vs. the Bubbles'
 tagnames: air-quality, measurement, silica, barnstar:empiricism, formaldehyde, open-air, particle-sensing, openair, indoor-air-quality, bubbles, air-monitoring, mini-buck, response:11949
 author: mathew
 path: /notes/mathew/06-11-2015/mini-buck-vs-the-bubbles.md

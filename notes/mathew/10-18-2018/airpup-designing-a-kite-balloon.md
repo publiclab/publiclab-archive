@@ -1,5 +1,5 @@
 ---
-title: Airpup: designing a kite balloon
+title: 'Airpup: designing a kite balloon'
 tagnames: balloon-mapping, kite-mapping, kite-balloon-hybrid, photo-rig
 author: mathew
 path: /notes/mathew/10-18-2018/airpup-designing-a-kite-balloon.md

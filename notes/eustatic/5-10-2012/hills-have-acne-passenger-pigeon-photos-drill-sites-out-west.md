@@ -1,5 +1,5 @@
 ---
-title: the Hills have Acne: passenger pigeon photos of drill sites out West
+title: 'the Hills have Acne: passenger pigeon photos of drill sites out West'
 tagnames: passenger-pigeon
 author: eustatic
 path: /5-10-2012/hills-have-acne-passenger-pigeon-photos-drill-sites-out-west.md

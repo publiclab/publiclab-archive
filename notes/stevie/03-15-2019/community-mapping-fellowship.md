@@ -1,5 +1,5 @@
 ---
-title: Community Mapping Fellowship
+title: 'Community Mapping Fellowship'
 tagnames: balloon-mapping, kite-mapping, mapping, fellows, fellowship, job, map
 author: stevie
 path: /notes/stevie/03-15-2019/community-mapping-fellowship.md

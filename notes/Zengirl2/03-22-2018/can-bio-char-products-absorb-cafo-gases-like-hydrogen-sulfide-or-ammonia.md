@@ -1,5 +1,5 @@
 ---
-title: Can Bio-char products absorb CAFO gases like Hydrogen Sulfide or Ammonia?
+title: 'Can Bio-char products absorb CAFO gases like Hydrogen Sulfide or Ammonia?'
 tagnames: remediation, biochar, hydrogen-sulfide, air-quality, cafo, answered, indoor-air-quality, question:general, ammonia, factory-farms, gases, question:indoor-air-quality
 author: zengirl2
 path: /notes/Zengirl2/03-22-2018/can-bio-char-products-absorb-cafo-gases-like-hydrogen-sulfide-or-ammonia.md

@@ -1,5 +1,5 @@
 ---
-title: Very dark image, can't get spectrometer to work
+title: 'Very dark image, can't get spectrometer to work'
 tagnames: question:general
 author: Tomas0413
 path: /notes/Tomas0413/06-16-2018/very-dark-image-can-t-get-spectrometer-to-work.md

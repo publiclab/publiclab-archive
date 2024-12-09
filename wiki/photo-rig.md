@@ -1,5 +1,5 @@
 ---
-title: Photo Rig
+title: 'Photo Rig'
 tagnames: aerial-photography, photo-rig, parent:aerial-photography
 author: warren
 path: /wiki/photo-rig.md

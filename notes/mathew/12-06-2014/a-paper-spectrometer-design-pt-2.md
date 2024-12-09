@@ -1,5 +1,5 @@
 ---
-title: a paper spectrometer design, pt 2
+title: 'a paper spectrometer design, pt 2'
 tagnames: spectrometer, oil, oil-spill-toolkit, spectrometry, oil-testing-kit, barnstar:basic, paper, fold-up-spectrometer, otk
 author: mathew
 path: /notes/mathew/12-06-2014/a-paper-spectrometer-design-pt-2.md

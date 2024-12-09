@@ -1,5 +1,5 @@
 ---
-title: Public Lab pint glasses are in!
+title: 'Public Lab pint glasses are in!'
 tagnames: sustaining-members
 author: Becki
 path: /notes/Becki/03-06-2015/public-lab-pint-glasses-are-in.md

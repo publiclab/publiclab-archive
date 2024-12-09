@@ -1,5 +1,5 @@
 ---
-title: Using Precision Measurements for Qualitative Analysis-Fluorescein in Ethanol
+title: 'Using Precision Measurements for Qualitative Analysis-Fluorescein in Ethanol'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/06-10-2016/using-precision-measurements-for-qualitative-analysis-fluorescein-in-ethanol.md

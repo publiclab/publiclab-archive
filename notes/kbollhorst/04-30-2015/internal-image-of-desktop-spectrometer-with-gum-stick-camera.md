@@ -1,5 +1,5 @@
 ---
-title: Internal Image of Desktop Spectrometer with "Gum Stick" Camera
+title: 'Internal Image of Desktop Spectrometer with "Gum Stick" Camera'
 tagnames: spectrometer, diy
 author: kbollhorst
 path: /notes/kbollhorst/04-30-2015/internal-image-of-desktop-spectrometer-with-gum-stick-camera.md

@@ -1,5 +1,5 @@
 ---
-title: Goal Setting Workshop
+title: 'Goal Setting Workshop'
 tagnames: workshop, methods, getting-started, collaborative-tools, goal
 author: stevie
 path: /wiki/goal-setting-workshop.md

@@ -1,5 +1,5 @@
 ---
-title: Water Samples for DataViz
+title: 'Water Samples for DataViz'
 tagnames: water-quality, first-time-poster
 author: tati
 path: /notes/tati/09-29-2014/water-samples-for-dataviz.md

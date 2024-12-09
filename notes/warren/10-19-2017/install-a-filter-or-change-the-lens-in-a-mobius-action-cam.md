@@ -1,5 +1,5 @@
 ---
-title: Install a filter or change the lens in a Mobius Action Cam
+title: 'Install a filter or change the lens in a Mobius Action Cam'
 tagnames: near-infrared-camera, infrared, infragram, infragram-filters, mobius-actioncam, mobius, mobius-action-cam, with:abdul, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:mobius, activity:mobius-action-cam, activity:near-infrared-camera, camera-hacks, activity:infrared-camera-conversion, infrared-camera-conversion, activity:infragram-point-shoot
 author: warren
 path: /notes/warren/10-19-2017/install-a-filter-or-change-the-lens-in-a-mobius-action-cam.md

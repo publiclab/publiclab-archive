@@ -1,5 +1,5 @@
 ---
-title: Reflection Salty Scandal
+title: 'Reflection Salty Scandal'
 tagnames: conductivity, northeast, salt, sensor-journalism, first-time-poster
 author: vvincent
 path: /notes/vvincent/02-23-2015/reflection-salty-scandal.md

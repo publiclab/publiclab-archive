@@ -1,5 +1,5 @@
 ---
-title: Water Research community Call (English-speaking call)
+title: 'Water Research community Call (English-speaking call)'
 tagnames: event, research, water-quality, water, event:rsvp, research-curation-fellows, water-research, date:06-25-2021, rsvp:bhamster, research-curation-fellows-event
 author: alejobonifacio
 path: /notes/alejobonifacio/06-21-2021/water-research-community-call-english-speaking-call.md

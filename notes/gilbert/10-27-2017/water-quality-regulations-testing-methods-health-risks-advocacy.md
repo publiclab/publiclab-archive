@@ -1,5 +1,5 @@
 ---
-title: Water Quality Regulations, Testing Methods, Health Risks & Advocacy
+title: 'Water Quality Regulations, Testing Methods, Health Risks & Advocacy'
 tagnames: public-health, water-quality, regulations, with:warren, advocacy, water-testing, water-borne-diseases, enviornmental-regulation
 author: gilbert
 path: /notes/gilbert/10-27-2017/water-quality-regulations-testing-methods-health-risks-advocacy.md

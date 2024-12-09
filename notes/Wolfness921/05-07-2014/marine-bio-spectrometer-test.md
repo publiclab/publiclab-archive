@@ -1,5 +1,5 @@
 ---
-title: Marine bio spectrometer test
+title: 'Marine bio spectrometer test'
 tagnames: 
 author: Wolfness921
 path: /notes/Wolfness921/05-07-2014/marine-bio-spectrometer-test.md

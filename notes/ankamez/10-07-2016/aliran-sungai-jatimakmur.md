@@ -1,5 +1,5 @@
 ---
-title: aliran sungai jatimakmur
+title: 'aliran sungai jatimakmur'
 tagnames: 
 author: ankamez
 path: /notes/ankamez/10-07-2016/aliran-sungai-jatimakmur.md

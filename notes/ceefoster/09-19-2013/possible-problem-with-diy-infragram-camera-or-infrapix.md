@@ -1,5 +1,5 @@
 ---
-title: Possible problem with DIY Infragram camera or infrapix
+title: 'Possible problem with DIY Infragram camera or infrapix'
 tagnames: near-infrared-camera, ndvi, mailing-lists, infragram
 author: ceefoster
 path: /notes/ceefoster/09-19-2013/possible-problem-with-diy-infragram-camera-or-infrapix.md

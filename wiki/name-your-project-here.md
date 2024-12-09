@@ -1,5 +1,5 @@
 ---
-title: Name your project here
+title: 'Name your project here'
 tagnames: 
 author: CoastalConstructionCrew504
 path: /wiki/name-your-project-here.md

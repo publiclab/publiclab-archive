@@ -1,5 +1,5 @@
 ---
-title: paper dump: link notes and thoughts.
+title: 'paper dump: link notes and thoughts.'
 tagnames: education, research, publication, publications, microscope
 author: amirberAgain
 path: /notes/amirberAgain/09-25-2018/paper-dump-link-notes-and-thoughts.md

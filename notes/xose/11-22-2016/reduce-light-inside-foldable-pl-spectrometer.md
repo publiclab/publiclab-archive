@@ -1,5 +1,5 @@
 ---
-title: Reduce light inside foldable PL spectrometer
+title: 'Reduce light inside foldable PL spectrometer'
 tagnames: spectrometer, spectrometry, barnstar:basic, foldable, upgrade:spectrometry, seeks:builds, activity:foldable-spec, upgrade:foldable-spec, first-time-poster
 author: xose
 path: /notes/xose/11-22-2016/reduce-light-inside-foldable-pl-spectrometer.md

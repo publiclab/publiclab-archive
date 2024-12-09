@@ -1,5 +1,5 @@
 ---
-title: First field day in Newark's Green Garden 
+title: 'First field day in Newark's Green Garden '
 tagnames: newark, new-jersey, 5bf, urban-ag, infragram, garden, elp, northeast, with:thegreencommunitygarden
 author: liz
 path: /notes/liz/07-28-2014/first-field-day-in-newark-s-green-garden.md

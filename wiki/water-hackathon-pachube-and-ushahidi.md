@@ -1,5 +1,5 @@
 ---
-title: Water Hackathon
+title: 'Water Hackathon'
 tagnames: new-york-city, water-quality, water, thermal-fishing-bob, water-quality-sensor
 author: liz
 path: /wiki/water-hackathon-pachube-and-ushahidi.md

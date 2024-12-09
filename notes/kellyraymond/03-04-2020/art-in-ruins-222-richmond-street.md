@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (222 Richmond Street)
+title: 'Art in Ruins (222 Richmond Street)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.818408, lon:-71.408386, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-222-richmond-street.md

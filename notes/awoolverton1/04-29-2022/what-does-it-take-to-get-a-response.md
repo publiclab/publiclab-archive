@@ -1,5 +1,5 @@
 ---
-title: What Does It Take to Get a Response? 
+title: 'What Does It Take to Get a Response? '
 tagnames: gulf-coast, reporting, air-quality, formosaplastics, ldeq
 author: awoolverton1
 path: /notes/awoolverton1/04-29-2022/what-does-it-take-to-get-a-response.md

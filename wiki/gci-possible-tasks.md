@@ -1,5 +1,5 @@
 ---
-title: GCI Possible Tasks : 
+title: 'GCI Possible Tasks : '
 tagnames: lat:0
 author: sagarpreet
 path: /wiki/gci-possible-tasks.md

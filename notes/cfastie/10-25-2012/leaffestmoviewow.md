@@ -1,5 +1,5 @@
 ---
-title: LEAFFESTMOVIE.wow
+title: 'LEAFFESTMOVIE.wow'
 tagnames: near-infrared-camera, spectrometer, kite-mapping, vermont, events, leaffest, leaffest2012
 author: cfastie
 path: /notes/cfastie/10-25-2012/leaffestmoviewow.md

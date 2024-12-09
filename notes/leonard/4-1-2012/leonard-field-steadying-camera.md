@@ -1,5 +1,5 @@
 ---
-title: Leonard field- steadying the camera
+title: 'Leonard field- steadying the camera'
 tagnames: 
 author: Leonard
 path: /notes/leonard/4-1-2012/leonard-field-steadying-camera.md

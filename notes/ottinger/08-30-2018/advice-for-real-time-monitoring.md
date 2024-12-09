@@ -1,5 +1,5 @@
 ---
-title: Advice for real-time monitoring
+title: 'Advice for real-time monitoring'
 tagnames: california, refinery, air-quality, air-monitoring, odor, location:blurred, smell, air-sensors, purpleair, pm2.5, lat:37, chevron, lon:-122, place:richmond-ca, phillips66, rodeo-ca, richmond-ca, awair, oximeter, fitbit, first-time-poster, air-quality-data, data-advocacy
 author: ottinger
 path: /notes/ottinger/08-30-2018/advice-for-real-time-monitoring.md

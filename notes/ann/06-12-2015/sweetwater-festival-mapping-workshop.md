@@ -1,5 +1,5 @@
 ---
-title: Sweetwater Festival Mapping Workshop
+title: 'Sweetwater Festival Mapping Workshop'
 tagnames: balloon-mapping, event, canada, event:rsvp, northwest, date:06-13-2015, replication:14022
 author: ann
 path: /notes/ann/06-12-2015/sweetwater-festival-mapping-workshop.md

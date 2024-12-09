@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench exporting
+title: 'Spectral Workbench exporting'
 tagnames: spectrometer, spectralworkbench
 author: warren
 path: /wiki/spectral-workbench-exporting.md

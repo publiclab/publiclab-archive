@@ -1,5 +1,5 @@
 ---
-title: Issue Brief Template
+title: 'Issue Brief Template'
 tagnames: template, parent:templates
 author: stevie
 path: /wiki/issue-brief-template.md

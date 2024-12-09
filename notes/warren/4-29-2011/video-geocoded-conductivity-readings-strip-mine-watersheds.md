@@ -1,5 +1,5 @@
 ---
-title: Video on geocoded conductivity readings from strip mine watersheds
+title: 'Video on geocoded conductivity readings from strip mine watersheds'
 tagnames: coal-mining, mapping, mining, water-quality, conductivity, river, southeast, tennessee, water-testing, runoff, water-sampling, salinity, new-river
 author: warren
 path: /notes/warren/4-29-2011/video-geocoded-conductivity-readings-strip-mine-watersheds.md

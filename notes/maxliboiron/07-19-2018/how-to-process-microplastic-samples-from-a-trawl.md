@@ -1,5 +1,5 @@
 ---
-title: How to process microplastic samples from a trawl
+title: 'How to process microplastic samples from a trawl'
 tagnames: water-quality, seeks:replications, ocean, micro-plastics, question:microplastics, microplastics, plastics, babylegs, activity:babylegs, activity:microplastics
 author: maxliboiron
 path: /notes/maxliboiron/07-19-2018/how-to-process-microplastic-samples-from-a-trawl.md

@@ -1,5 +1,5 @@
 ---
-title: Do you think this would work for a webcam feed?
+title: 'Do you think this would work for a webcam feed?'
 tagnames: 
 author: ChrisDennett
 path: /notes/ChrisDennett/06-17-2020/do-you-think-this-would-work-for-a-webcam-feed.md

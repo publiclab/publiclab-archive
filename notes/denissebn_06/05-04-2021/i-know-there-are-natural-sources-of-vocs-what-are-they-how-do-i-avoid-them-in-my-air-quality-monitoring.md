@@ -1,5 +1,5 @@
 ---
-title: There are natural sources of VOCs, what are they? How do I avoid them in my air quality monitoring? 
+title: 'There are natural sources of VOCs, what are they? How do I avoid them in my air quality monitoring? '
 tagnames: california, air-quality, pollution, vocs, gas-monitoring, question:general, general, air-sampling, question:vocs, with:sarasage, air-monitor, natural-vocs, question:vvamp, vvamo, question:gas-monitoring
 author: denissebn_06
 path: /notes/denissebn_06/05-04-2021/i-know-there-are-natural-sources-of-vocs-what-are-they-how-do-i-avoid-them-in-my-air-quality-monitoring.md

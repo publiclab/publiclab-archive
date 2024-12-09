@@ -1,5 +1,5 @@
 ---
-title: GSoD Ideas
+title: 'GSoD Ideas'
 tagnames: documentation, gsoc, google, parent:gsoc, wwg, gsod
 author: warren
 path: /wiki/gsod-ideas.md

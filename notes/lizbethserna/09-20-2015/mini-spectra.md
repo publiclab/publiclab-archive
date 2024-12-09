@@ -1,5 +1,5 @@
 ---
-title: Mini-Spectra 
+title: 'Mini-Spectra '
 tagnames: 
 author: lizbethserna
 path: /notes/lizbethserna/09-20-2015/mini-spectra.md

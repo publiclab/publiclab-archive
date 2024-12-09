@@ -1,5 +1,5 @@
 ---
-title: Core proposal
+title: 'Core proposal'
 tagnames: community, organizers, parent:organizers
 author: warren
 path: /wiki/core-proposal.md

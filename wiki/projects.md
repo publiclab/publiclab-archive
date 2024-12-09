@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: 'Projects'
 tagnames: community, water-quality, locked, location:blurred, place:united-states, lat:29, lon:-90, zoom:6
 author: warren
 path: /wiki/projects.md

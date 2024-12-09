@@ -1,5 +1,5 @@
 ---
-title: Bucket Monitor Parts Test
+title: 'Bucket Monitor Parts Test'
 tagnames: air-quality, bucket-brigade, lat:42, lon:-70, zoom:6, bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/07-27-2020/bucket-monitor-parts-test.md

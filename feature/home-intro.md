@@ -1,5 +1,5 @@
 ---
-title: home-intro
+title: 'home-intro'
 tagnames: bottom, activity-, activity-header
 author: warren
 path: /feature/home-intro.md

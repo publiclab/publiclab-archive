@@ -1,5 +1,5 @@
 ---
-title: Recap: Open Water Workshop, 7/12/14
+title: 'Recap: Open Water Workshop, 7/12/14'
 tagnames: cambridge, video, boston, workshop, parts-and-crafts, water-quality, conductivity, riffle, open-water, northeast, barnstar:basic, barnstar:empiricism, 555, riffle-cricket, piezo, mit, hooray, civic-media, barnstar:video-documentation
 author: donblair
 path: /notes/donblair/07-15-2014/recap-open-water-workshop-july-12-2014.md

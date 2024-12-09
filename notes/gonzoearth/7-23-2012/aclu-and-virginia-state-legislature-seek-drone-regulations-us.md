@@ -1,5 +1,5 @@
 ---
-title: ACLU and Virginia state legislature seek drone regulations in the U.S.
+title: 'ACLU and Virginia state legislature seek drone regulations in the U.S.'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/7-23-2012/aclu-and-virginia-state-legislature-seek-drone-regulations-us.md

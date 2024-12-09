@@ -1,5 +1,5 @@
 ---
-title: Virtual Event: Environmental Storytelling - Stories from the Field
+title: 'Virtual Event: Environmental Storytelling - Stories from the Field'
 tagnames: event, refinery, art, event:rsvp, rsvp:liz, advocacy, storytelling, virtual, artivism, rsvp:bhamster, research-curation-fellows-event, bioindicators, rsvp:jordanyjackson, date:04-14-2022, rsvp:catherine_m_d_booth, rsvp:mjabot, rsvp:ierealy, rsvp:jessicajewell, rsvp:lb3124, rsvp:julbusk, rsvp:fongvania
 author: fongvania
 path: /notes/fongvania/03-23-2022/virtual-event-environmental-storytelling-stories-from-the-field.md

@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping Bayou Plaquemines
+title: 'Balloon Mapping Bayou Plaquemines'
 tagnames: gulf-coast, balloon-mapping, washustlouis, washu-stlouis
 author: gkdavis
 path: /notes/gkdavis/09-11-2014/balloon-mapping-bayou-plaquemines.md

@@ -1,5 +1,5 @@
 ---
-title: Recover your balance
+title: 'Recover your balance'
 tagnames: near-infrared-camera, ndvi, vermont, infrared, infragram, infragram-sandbox
 author: cfastie
 path: /notes/cfastie/08-20-2013/white-balance-recovery.md

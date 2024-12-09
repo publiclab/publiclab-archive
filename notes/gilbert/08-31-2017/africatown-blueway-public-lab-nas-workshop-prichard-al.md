@@ -1,5 +1,5 @@
 ---
-title: AFRICATOWN BLUEWAY -PUBLIC LAB NAS WORKSHOP-PRICHARD, AL
+title: 'AFRICATOWN BLUEWAY -PUBLIC LAB NAS WORKSHOP-PRICHARD, AL'
 tagnames: gulf-coast, with:stevie, nas, mejac, africatown, alabama, blueway, prichard
 author: gilbert
 path: /notes/gilbert/08-31-2017/africatown-blueway-public-lab-nas-workshop-prichard-al.md

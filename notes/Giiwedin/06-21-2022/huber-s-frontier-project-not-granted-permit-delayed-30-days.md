@@ -1,5 +1,5 @@
 ---
-title: Huber’s Frontier Project not granted permit, delayed 30 days
+title: 'Huber’s Frontier Project not granted permit, delayed 30 days'
 tagnames: lon:-90, lat:40, first-time-poster, zoom:5, mn-land-manoomin-protection
 author: Giiwedin
 path: /notes/Giiwedin/06-21-2022/huber-s-frontier-project-not-granted-permit-delayed-30-days.md

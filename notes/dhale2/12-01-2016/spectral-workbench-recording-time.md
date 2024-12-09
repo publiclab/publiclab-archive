@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench recording time?
+title: 'Spectral Workbench recording time?'
 tagnames: question:spectral-workbench, answered
 author: dhale2
 path: /notes/dhale2/12-01-2016/spectral-workbench-recording-time.md

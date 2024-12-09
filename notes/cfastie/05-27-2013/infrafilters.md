@@ -1,5 +1,5 @@
 ---
-title: Infrafilters
+title: 'Infrafilters'
 tagnames: near-infrared-camera, nir, vermont, photoshop, infragram, rosco, infrablue, infragram-filters
 author: cfastie
 path: /notes/cfastie/05-27-2013/infrafilters.md

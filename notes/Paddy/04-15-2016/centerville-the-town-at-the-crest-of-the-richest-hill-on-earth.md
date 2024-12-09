@@ -1,5 +1,5 @@
 ---
-title: Centerville, the town at the crest of the Richest Hill on Earth
+title: 'Centerville, the town at the crest of the Richest Hill on Earth'
 tagnames: first-time-poster
 author: Paddy
 path: /notes/Paddy/04-15-2016/centerville-the-town-at-the-crest-of-the-richest-hill-on-earth.md

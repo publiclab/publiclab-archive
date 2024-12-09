@@ -1,5 +1,5 @@
 ---
-title: MA research project 'Speculative Future on Mars: Online Co-design Workshop on saturdays'
+title: 'MA research project 'Speculative Future on Mars: Online Co-design Workshop on saturdays''
 tagnames: workshop, event, design, first-time-poster, planet, joinproject, jointeam, mars, codesign, speculativefutures, possibles, masterstudent, marsexploration
 author: miles70
 path: /notes/miles70/05-13-2020/ma-research-project-speculative-future-on-mars-online-co-design-workshop-on-saturdays.md

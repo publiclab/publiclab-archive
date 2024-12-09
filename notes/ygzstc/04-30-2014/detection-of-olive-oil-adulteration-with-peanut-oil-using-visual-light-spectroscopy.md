@@ -1,5 +1,5 @@
 ---
-title: Detection of Olive Oil Adulteration (with Peanut Oil) Using Visual Light Spectroscopy
+title: 'Detection of Olive Oil Adulteration (with Peanut Oil) Using Visual Light Spectroscopy'
 tagnames: spectrometer, desktop-spectrometry-kit, food, olive-oil, response:10167, adulteration, peanut-oil, food-fraud, barnstar:empiricism, food-safety, response:10295, activity:spectrometry, difficulty:medium, time:10h, activity:science-fair, activity:food, first-time-poster
 author: ygzstc
 path: /notes/ygzstc/04-30-2014/detection-of-olive-oil-adulteration-with-peanut-oil-using-visual-light-spectroscopy.md

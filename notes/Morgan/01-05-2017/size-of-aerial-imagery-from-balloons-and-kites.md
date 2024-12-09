@@ -1,5 +1,5 @@
 ---
-title: Size of aerial imagery from balloons and kites
+title: 'Size of aerial imagery from balloons and kites'
 tagnames: balloon-mapping, kite-mapping, citizen-science, imagery, question:balloon-mapping, question:kite-mapping, first-time-poster
 author: Morgan
 path: /notes/Morgan/01-05-2017/size-of-aerial-imagery-from-balloons-and-kites.md

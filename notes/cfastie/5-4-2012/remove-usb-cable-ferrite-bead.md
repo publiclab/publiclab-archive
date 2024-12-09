@@ -1,5 +1,5 @@
 ---
-title: Remove a USB cable ferrite bead
+title: 'Remove a USB cable ferrite bead'
 tagnames: near-infrared-camera, triggering
 author: cfastie
 path: /notes/cfastie/5-4-2012/remove-usb-cable-ferrite-bead.md

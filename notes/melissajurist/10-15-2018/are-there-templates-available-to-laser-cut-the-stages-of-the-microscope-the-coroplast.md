@@ -1,5 +1,5 @@
 ---
-title: Are there templates available to laser cut the stages of the microscope  - the coroplast?
+title: 'Are there templates available to laser cut the stages of the microscope  - the coroplast?'
 tagnames: microscope, question:general, question:microscope, microscope-stage
 author: melissajurist
 path: /notes/melissajurist/10-15-2018/are-there-templates-available-to-laser-cut-the-stages-of-the-microscope-the-coroplast.md

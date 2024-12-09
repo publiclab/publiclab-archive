@@ -1,5 +1,5 @@
 ---
-title: Discussions in Davis, CA
+title: 'Discussions in Davis, CA'
 tagnames: 
 author: mathew
 path: /notes/mathew/4-6-2012/discussions-davis-ca.md

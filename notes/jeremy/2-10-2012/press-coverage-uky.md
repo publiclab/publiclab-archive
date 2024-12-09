@@ -1,5 +1,5 @@
 ---
-title: Press coverage at UKY
+title: 'Press coverage at UKY'
 tagnames: 
 author: jeremy
 path: /notes/jeremy/2-10-2012/press-coverage-uky.md

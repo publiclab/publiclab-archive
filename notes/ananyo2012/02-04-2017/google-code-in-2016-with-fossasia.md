@@ -1,5 +1,5 @@
 ---
-title: Google Code-in 2016 with FOSSASIA
+title: 'Google Code-in 2016 with FOSSASIA'
 tagnames: developers, gcin, gcin-2016
 author: ananyo2012
 path: /notes/ananyo2012/02-04-2017/google-code-in-2016-with-fossasia.md

@@ -1,5 +1,5 @@
 ---
-title: Announcing Team Orca, Gulf of Mexico
+title: 'Announcing Team Orca, Gulf of Mexico'
 tagnames: spectrometer, spectralchallenge, gulf-coast
 author: eustatic
 path: /3-15-2013/announcing-team-orca-gulf-mexico-0.md

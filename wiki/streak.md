@@ -1,5 +1,5 @@
 ---
-title: Streak
+title: 'Streak'
 tagnames: community, website, streak, streaks
 author: warren
 path: /wiki/streak.md

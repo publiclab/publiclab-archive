@@ -1,5 +1,5 @@
 ---
-title: Hydro-powered DIY FTIR Spectrometer
+title: 'Hydro-powered DIY FTIR Spectrometer'
 tagnames: spectroscopy, water-quality, hardware, ftir, renewable-energy
 author: bryanchua
 path: /notes/bryanchua/12-18-2018/hydro-powered-diy-ftir-spectrometer.md

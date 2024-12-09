@@ -1,5 +1,5 @@
 ---
-title: Lamp
+title: 'Lamp'
 tagnames: hidden:response, response:13586
 author: Kwo
 path: /notes/Kwo/10-19-2016/lamp.md

@@ -1,5 +1,5 @@
 ---
-title: Extractions from Grapes with Alcohols
+title: 'Extractions from Grapes with Alcohols'
 tagnames: spectrometer, spectrometry, comparison, extraction, spectrum, grapes, polyphenols, alcohol, phytophenol, anthocyanin, chemical_analysis
 author: iamkat
 path: /notes/iamkat/10-06-2016/extractions-from-grapes-with-alcohols.md

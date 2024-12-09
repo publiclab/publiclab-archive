@@ -1,5 +1,5 @@
 ---
-title: GoPro Cameras
+title: 'GoPro Cameras'
 tagnames: near-infrared-camera, ndvi, conversion, infragram, gopro
 author: gonzoearth
 path: /wiki/gopro-cameras.md

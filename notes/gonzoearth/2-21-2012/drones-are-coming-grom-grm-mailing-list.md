@@ -1,5 +1,5 @@
 ---
-title: drones are coming, article link from the GRM mailing list
+title: 'drones are coming, article link from the GRM mailing list'
 tagnames: balloon-mapping, kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/2-21-2012/drones-are-coming-grom-grm-mailing-list.md

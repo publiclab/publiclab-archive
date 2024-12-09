@@ -1,5 +1,5 @@
 ---
-title: Soil Sampling 
+title: 'Soil Sampling '
 tagnames: lat:29, lon:-90, first-time-poster, zoom:6
 author: alealewis100
 path: /notes/alealewis100/04-30-2021/soil-sampling.md

@@ -1,5 +1,5 @@
 ---
-title: riffle-protocol
+title: 'riffle-protocol'
 tagnames: riffle, parent:riffle
 author: mathew
 path: /wiki/riffle-protocol.md

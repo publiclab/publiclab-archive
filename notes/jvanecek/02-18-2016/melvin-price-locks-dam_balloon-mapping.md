@@ -1,5 +1,5 @@
 ---
-title: Melvin Price Locks and Dam_Balloon Mapping
+title: 'Melvin Price Locks and Dam_Balloon Mapping'
 tagnames: mapknitter, lat:38.8663188149, lon:-90.1548171043, publiclabriverratpack
 author: jvanecek
 path: /notes/jvanecek/02-18-2016/melvin-price-locks-dam_balloon-mapping.md

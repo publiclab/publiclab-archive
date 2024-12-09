@@ -1,5 +1,5 @@
 ---
-title: Is the Purple Air sensor an EPA-validated tool?
+title: 'Is the Purple Air sensor an EPA-validated tool?'
 tagnames: air-quality, pm, question:air-quality, question:pm, question:general, general, method, particulate-matter, purple-air, question:method, question:purple-air, air-sensor, question:air-sensor
 author: kgradow1
 path: /notes/kgradow1/05-08-2020/is-the-purple-air-sensor-an-epa-validated-tool.md

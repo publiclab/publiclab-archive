@@ -1,5 +1,5 @@
 ---
-title: Mobile thermographer prototype
+title: 'Mobile thermographer prototype'
 tagnames: thermal-flashlight
 author: warren
 path: /notes/warren/8-11-2012/mobile-thermographer-prototype.md

@@ -1,5 +1,5 @@
 ---
-title: Very clear spectrum through pineapple
+title: 'Very clear spectrum through pineapple'
 tagnames: lima, spectrometer, workshop, escuelab
 author: warren
 path: /notes/warren/12-24-2010/very-clear-spectrum-through-pineapple.md

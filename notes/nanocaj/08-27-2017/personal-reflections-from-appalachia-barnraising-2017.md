@@ -1,5 +1,5 @@
 ---
-title: Personal Reflections from Appalachia Barnraising 2017
+title: 'Personal Reflections from Appalachia Barnraising 2017'
 tagnames: community, barnraising, event, blog, datalogger, appalachia, blog-submission, appalachia-barnraising
 author: nanocaj
 path: /notes/nanocaj/08-27-2017/personal-reflections-from-appalachia-barnraising-2017.md

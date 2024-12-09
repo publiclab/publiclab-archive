@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Camera and Vision
+title: 'Raspberry Pi Camera and Vision'
 tagnames: 
 author: ajguthrie99
 path: /notes/ajguthrie99/11-15-2020/raspberry-pi-camera-and-vision.md

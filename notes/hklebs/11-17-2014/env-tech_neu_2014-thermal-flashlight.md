@@ -1,5 +1,5 @@
 ---
-title: Env+Tech_neu_2014 - Thermal Flashlight
+title: 'Env+Tech_neu_2014 - Thermal Flashlight'
 tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, thermal, insulation, heat, replication:625
 author: hklebs
 path: /notes/hklebs/11-17-2014/env-tech_neu_2014-thermal-flashlight.md

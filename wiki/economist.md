@@ -1,5 +1,5 @@
 ---
-title: Make a Public Lab spectrometer
+title: 'Make a Public Lab spectrometer'
 tagnames: spectrometry, water-quality, sidebar:featured, parent:spectrometry
 author: warren
 path: /wiki/economist.md

@@ -1,5 +1,5 @@
 ---
-title: Quantum Yield of Rhodamine B in Ethanol (Gain Corrected Spectra)
+title: 'Quantum Yield of Rhodamine B in Ethanol (Gain Corrected Spectra)'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/07-12-2016/quantum-yield-of-rhodamine-b-in-ethanol-gain-corrected-spectra.md

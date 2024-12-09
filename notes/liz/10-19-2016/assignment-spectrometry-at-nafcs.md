@@ -1,5 +1,5 @@
 ---
-title: Assignment: spectrometry at NAFCS
+title: 'Assignment: spectrometry at NAFCS'
 tagnames: classroom, seeks:responses, assignment, assignment:spectrometry, response:15121
 author: liz
 path: /notes/liz/10-19-2016/assignment-spectrometry-at-nafcs.md

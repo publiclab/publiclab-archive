@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight as Power Ring
+title: 'Thermal Flashlight as Power Ring'
 tagnames: thermal-photography, thermal-flashlight
 author: mathew
 path: /notes/mathew/6-13-2012/thermal-flashlight-power-ring.md

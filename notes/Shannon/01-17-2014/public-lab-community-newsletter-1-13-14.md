@@ -1,5 +1,5 @@
 ---
-title: Public Lab community newsletter 1.13.14
+title: 'Public Lab community newsletter 1.13.14'
 tagnames: newsletter, newsletter-archive
 author: Shannon
 path: /notes/Shannon/01-17-2014/public-lab-community-newsletter-1-13-14.md

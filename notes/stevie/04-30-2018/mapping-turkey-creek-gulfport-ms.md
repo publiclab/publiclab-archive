@@ -1,5 +1,5 @@
 ---
-title: Mapping Turkey Creek, Gulfport, MS
+title: 'Mapping Turkey Creek, Gulfport, MS'
 tagnames: balloon-mapping, mapknitter, mississippi, mapping, steps, nas, gulfport, lat:30.4150828, lon:-89.0983345, turkey-creek, boys-and-girls-club
 author: stevie
 path: /notes/stevie/04-30-2018/mapping-turkey-creek-gulfport-ms.md

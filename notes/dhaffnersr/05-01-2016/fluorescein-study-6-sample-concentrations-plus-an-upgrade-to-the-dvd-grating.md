@@ -1,5 +1,5 @@
 ---
-title: Fluorescein study 6 sample concentrations plus an upgrade to the DVD grating
+title: 'Fluorescein study 6 sample concentrations plus an upgrade to the DVD grating'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-01-2016/fluorescein-study-6-sample-concentrations-plus-an-upgrade-to-the-dvd-grating.md

@@ -1,5 +1,5 @@
 ---
-title: Testing MIDOPT filters
+title: 'Testing MIDOPT filters'
 tagnames: ndvi, infrared, filter, infragram, plant-health, dualband, midopt, response:12442
 author: cfastie
 path: /notes/cfastie/12-03-2015/testing-midopt-filters.md

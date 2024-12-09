@@ -1,5 +1,5 @@
 ---
-title: Palantier: impressive image stitching for UAVs and kites
+title: 'Palantier: impressive image stitching for UAVs and kites'
 tagnames: kite-mapping, 3d, uav, kite, stitching, palentier
 author: warren
 path: /notes/warren/2-5-2012/palantier-impressive-image-stitching-uavs-and-kites.md

@@ -1,5 +1,5 @@
 ---
-title: $1 Aerial Rig
+title: '$1 Aerial Rig'
 tagnames: photography, kite-aerial-photography, kite, mapping, balloon, aerial, pendulum-rig, chopsticks
 author: tonyc
 path: /notes/tonyc/07-19-2016/1-aerial-rig.md

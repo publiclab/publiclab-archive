@@ -1,5 +1,5 @@
 ---
-title: Research area review on mapping for organizing and advocacy
+title: 'Research area review on mapping for organizing and advocacy'
 tagnames: aerial-photography, organizing, research, aerial-mapping, with:liz, advocacy, reviews, research-area-review
 author: bhamster
 path: /notes/bhamster/04-27-2021/research-area-review-on-mapping-for-organizing-and-advocacy.md

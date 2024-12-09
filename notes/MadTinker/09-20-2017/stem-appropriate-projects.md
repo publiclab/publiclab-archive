@@ -1,5 +1,5 @@
 ---
-title: STEM appropriate projects?
+title: 'STEM appropriate projects?'
 tagnames: question:general
 author: MadTinker
 path: /notes/MadTinker/09-20-2017/stem-appropriate-projects.md

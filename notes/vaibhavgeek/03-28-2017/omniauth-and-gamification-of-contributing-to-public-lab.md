@@ -1,5 +1,5 @@
 ---
-title: Omniauth and Gamification of contributing to Public Lab
+title: 'Omniauth and Gamification of contributing to Public Lab'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, first-time-poster
 author: vaibhavgeek
 path: /notes/vaibhavgeek/03-28-2017/omniauth-and-gamification-of-contributing-to-public-lab.md

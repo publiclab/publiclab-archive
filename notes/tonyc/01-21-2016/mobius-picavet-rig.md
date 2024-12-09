@@ -1,5 +1,5 @@
 ---
-title: Mobius Picavet Rig
+title: 'Mobius Picavet Rig'
 tagnames: picavet, diy-mount-kit
 author: tonyc
 path: /notes/tonyc/01-21-2016/mobius-picavet-rig.md

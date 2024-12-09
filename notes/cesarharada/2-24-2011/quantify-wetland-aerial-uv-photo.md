@@ -1,5 +1,5 @@
 ---
-title: Quantify wetland from aerial UV photo
+title: 'Quantify wetland from aerial UV photo'
 tagnames: gulf-coast, multispectral, uv, wetlands, ultraviolet, lousiana, activity:image-analysis, activity:wetlands, first-time-poster
 author: cesarharada
 path: /notes/cesarharada/2-24-2011/quantify-wetland-aerial-uv-photo.md

@@ -1,5 +1,5 @@
 ---
-title: Optical Imaging of Passive Particle Monitors
+title: 'Optical Imaging of Passive Particle Monitors'
 tagnames: air-quality, dust, particulates, silica, frac-sand, pm, particle-sensing, particle-monitoring, fracsand, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, activity:microscope, microscopes, activity:microscopes, particle-imaging
 author: mathew
 path: /notes/mathew/09-03-2015/optical-imaging-of-passive-particle-monitors.md

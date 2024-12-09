@@ -1,5 +1,5 @@
 ---
-title: CFL Lamp 
+title: 'CFL Lamp '
 tagnames: first-time-poster
 author: abram362
 path: /notes/abram362/09-16-2019/cfl-lamp.md

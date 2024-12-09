@@ -1,5 +1,5 @@
 ---
-title: Log-a-Long Timer
+title: 'Log-a-Long Timer'
 tagnames: arduino, datalogger, kaptery, data-logging, parent:data-logging, mini-pearl-logger, low-power-logging, log-a-long-timer
 author: cfastie
 path: /wiki/log-a-long-timer.md

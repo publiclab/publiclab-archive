@@ -1,5 +1,5 @@
 ---
-title: Ariel Levi Simons
+title: 'Ariel Levi Simons'
 tagnames: barnstar:excessive-enthusiasm, first-time-poster
 author: levisimons
 path: /notes/levisimons/05-31-2014/ariel-levi-simons.md

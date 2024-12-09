@@ -1,5 +1,5 @@
 ---
-title: Public Lab Boston-area Toolshed Raising @ Parts & Crafts
+title: 'Public Lab Boston-area Toolshed Raising @ Parts & Crafts'
 tagnames: somerville-massachusetts, boston, meetup, event, water-quality
 author: Hudonnoodles
 path: /notes/Hudonnoodles/11-17-2013/public-lab-boston-area-toolshed-raising-parts-crafts.md

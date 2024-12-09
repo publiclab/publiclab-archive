@@ -1,5 +1,5 @@
 ---
-title: barnraising-foodcom
+title: 'barnraising-foodcom'
 tagnames: barnraising, foodcom
 author: warren
 path: /wiki/barnraising-foodcom.md

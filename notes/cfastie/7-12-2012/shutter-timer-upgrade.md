@@ -1,5 +1,5 @@
 ---
-title: Shutter timer upgrade
+title: 'Shutter timer upgrade'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, triggering, 555-timer, camera-triggering, timer, intervalometer, 555, activity:camera-triggering, activity:intervalometer
 author: cfastie
 path: /notes/cfastie/7-12-2012/shutter-timer-upgrade.md

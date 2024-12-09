@@ -1,5 +1,5 @@
 ---
-title: Initial results: Using PTLens to correct fisheye effect in PL Mobius Infragram Point and Shoot
+title: 'Initial results: Using PTLens to correct fisheye effect in PL Mobius Infragram Point and Shoot'
 tagnames: ndvi, infragram, fisheye, fiji, photomonitoring, lens-distortion
 author: patcoyle
 path: /notes/patcoyle/11-27-2014/initial-results-using-ptlens-to-correct-fisheye-effect-in-pl-mobius-infragram-point-and-shoot.md

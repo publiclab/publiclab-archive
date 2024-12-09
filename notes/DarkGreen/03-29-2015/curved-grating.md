@@ -1,5 +1,5 @@
 ---
-title: curved grating
+title: 'curved grating'
 tagnames: spectrometer, question:spectrometer
 author: DarkGreen
 path: /notes/DarkGreen/03-29-2015/curved-grating.md

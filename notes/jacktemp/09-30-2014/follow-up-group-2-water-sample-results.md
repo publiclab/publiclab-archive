@@ -1,5 +1,5 @@
 ---
-title: Follow up — Group 2 Water Sample Results
+title: 'Follow up — Group 2 Water Sample Results'
 tagnames: water-quality, conductivity, open-water, coqui, emerson, parent:coqui
 author: jacktemp
 path: /notes/jacktemp/09-30-2014/follow-up-group-2-water-sample-results.md

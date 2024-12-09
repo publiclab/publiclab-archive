@@ -1,5 +1,5 @@
 ---
-title: Evaluating low-cost optical dust sensors
+title: 'Evaluating low-cost optical dust sensors'
 tagnames: wisconsin, air-quality, air, dustduino, dust, particulates, speck, particle-sensing, openair, dylos, airbeam, air-sensors
 author: mathew
 path: /notes/mathew/05-05-2015/evaluating-low-cost-optical-dust-sensors.md

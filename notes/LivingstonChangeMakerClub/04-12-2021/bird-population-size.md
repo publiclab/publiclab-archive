@@ -1,5 +1,5 @@
 ---
-title: Bird Population Size
+title: 'Bird Population Size'
 tagnames: issue-brief, first-time-poster, lat:29.951065, lon:-90.071532, zoom:6
 author: LivingstonChangeMakerClub
 path: /notes/LivingstonChangeMakerClub/04-12-2021/bird-population-size.md

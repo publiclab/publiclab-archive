@@ -1,5 +1,5 @@
 ---
-title: Best PLab demo ideas for a large group?
+title: 'Best PLab demo ideas for a large group?'
 tagnames: education, events, event, workshops, question:question, question:events, question:demos, question:presentations, question:workshops
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/11-13-2017/best-plab-demo-ideas-for-a-large-group.md

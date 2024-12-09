@@ -1,5 +1,5 @@
 ---
-title: Getting rid of Cats-Claw Vines
+title: 'Getting rid of Cats-Claw Vines'
 tagnames: with:amallozzi
 author: ExtinctAnimals
 path: /wiki/getting-rid-of-cats-claw-vines.md

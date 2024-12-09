@@ -1,5 +1,5 @@
 ---
-title: FLIR
+title: 'FLIR'
 tagnames: methane
 author: warren
 path: /wiki/flir.md

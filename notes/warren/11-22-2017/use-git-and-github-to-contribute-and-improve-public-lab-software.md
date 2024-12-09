@@ -1,5 +1,5 @@
 ---
-title: Use Git and GitHub to contribute and improve Public Lab software
+title: 'Use Git and GitHub to contribute and improve Public Lab software'
 tagnames: web-development, software, developers, code, coding, github, with:bsugar, activity:software, activity:soc, git, activity:developers, activity:coding, activity:git, activity:github
 author: warren
 path: /notes/warren/11-22-2017/use-git-and-github-to-contribute-and-improve-public-lab-software.md

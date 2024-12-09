@@ -1,5 +1,5 @@
 ---
-title: Pole photography
+title: 'Pole photography'
 tagnames: balloon-mapping, portland, polemapping, 5bf, pole-photography, pole, pole-mapping
 author: mathew
 path: /notes/mathew/05-17-2013/pole-photography.md

@@ -1,5 +1,5 @@
 ---
-title: Gowanus Canal and Newtown Creek Project Meetup
+title: 'Gowanus Canal and Newtown Creek Project Meetup'
 tagnames: nyc
 author: Bronwen
 path: /notes/bronwen/02-28-2014/gowanus-canal-and-newtown-creek-project-meetup.md

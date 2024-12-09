@@ -1,5 +1,5 @@
 ---
-title: Dual NDVI Ultra Probe Unit
+title: 'Dual NDVI Ultra Probe Unit'
 tagnames: arduino, ndvi, data-logging, arduino-nano, nano-data-logger, 16x2_lcd, response:14160, tsl2561, activity:nano-data-logger
 author: cfastie
 path: /notes/cfastie/05-11-2017/dual-ndvi-ultra-probe-unit.md

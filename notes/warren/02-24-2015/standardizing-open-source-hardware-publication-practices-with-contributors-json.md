@@ -1,5 +1,5 @@
 ---
-title: Standardizing open source hardware publication practices with contributors.json
+title: 'Standardizing open source hardware publication practices with contributors.json'
 tagnames: open-hardware, attribution, contributing, oshwa
 author: warren
 path: /notes/warren/02-24-2015/standardizing-open-source-hardware-publication-practices-with-contributors-json.md

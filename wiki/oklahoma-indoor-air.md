@@ -1,5 +1,5 @@
 ---
-title: Oklahoma Indoor Air
+title: 'Oklahoma Indoor Air'
 tagnames: indoor-air-quality, indoor-air, indoor-air-info-sheet, oklahoma
 author: gretchengehrke
 path: /wiki/oklahoma-indoor-air.md

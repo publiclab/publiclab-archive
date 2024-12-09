@@ -1,5 +1,5 @@
 ---
-title: Economist Article: "Do-it-yourself science is taking off"
+title: 'Economist Article: "Do-it-yourself science is taking off"'
 tagnames: news, blog, press, feature, economist
 author: stevie
 path: /notes/stevie/01-02-2018/economist-article-do-it-yourself-science-is-taking-off.md

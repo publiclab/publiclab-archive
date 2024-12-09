@@ -1,5 +1,5 @@
 ---
-title: Sap Flux Beginning
+title: 'Sap Flux Beginning'
 tagnames: alaska, tree, sensor-networks, sensor, sapflux, circuits
 author: kinasmith
 path: /notes/kinasmith/12-14-2016/sap-flux-beginning.md

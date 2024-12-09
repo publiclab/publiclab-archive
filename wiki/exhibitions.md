@@ -1,5 +1,5 @@
 ---
-title: Exhibitions
+title: 'Exhibitions'
 tagnames: database, data-collection, data, local-projects
 author: warren
 path: /wiki/exhibitions.md

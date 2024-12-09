@@ -1,5 +1,5 @@
 ---
-title: CFL Spectrometry Colors 
+title: 'CFL Spectrometry Colors '
 tagnames: first-time-poster
 author: algad004
 path: /notes/algad004/09-16-2019/cfl-spectrometry-colors.md

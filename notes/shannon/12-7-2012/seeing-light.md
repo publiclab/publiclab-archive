@@ -1,5 +1,5 @@
 ---
-title: Seeing the Light
+title: 'Seeing the Light'
 tagnames: spectrometer, media
 author: Shannon
 path: /notes/shannon/12-7-2012/seeing-light.md

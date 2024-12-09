@@ -1,5 +1,5 @@
 ---
-title: Mapping Curriculum SDSU Geography 496
+title: 'Mapping Curriculum SDSU Geography 496'
 tagnames: curriculum, parent:mapping-curriculum
 author: warren
 path: /wiki/mapping-curriculum-sdsu-geography-496.md

@@ -1,5 +1,5 @@
 ---
-title: Improved smartphone-friendly posting form designs: feedback welcome!
+title: 'Improved smartphone-friendly posting form designs: feedback welcome!'
 tagnames: design, style-guide, ui, one-cranston, onecranston, digital-impact, brown
 author: warren
 path: /notes/warren/09-23-2019/improved-smartphone-friendly-posting-form-designs-feedback-welcome.md

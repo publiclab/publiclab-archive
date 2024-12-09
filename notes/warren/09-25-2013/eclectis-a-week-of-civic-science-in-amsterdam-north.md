@@ -1,5 +1,5 @@
 ---
-title: Eclectis: a week of civic science in Amsterdam North
+title: 'Eclectis: a week of civic science in Amsterdam North'
 tagnames: near-infrared-camera, education, waagsociety, amsterdam, workshop, infragram, waag, eclectis, activity:infragram, infragram-helmet, helmet
 author: warren
 path: /notes/warren/09-25-2013/eclectis-a-week-of-civic-science-in-amsterdam-north.md

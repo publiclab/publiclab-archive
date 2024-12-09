@@ -1,5 +1,5 @@
 ---
-title: Midway update on Public Lab’s soil review
+title: 'Midway update on Public Lab’s soil review'
 tagnames: soil, research, reviews, soil-contamination, research-area-review
 author: bhamster
 path: /notes/bhamster/03-02-2021/midway-update-on-public-lab-s-soil-review.md

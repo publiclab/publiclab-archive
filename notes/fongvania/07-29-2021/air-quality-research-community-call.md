@@ -1,5 +1,5 @@
 ---
-title: Air Quality Research Community Call
+title: 'Air Quality Research Community Call'
 tagnames: event, air-quality, air, event:rsvp, air-monitoring, research-curation-fellows, research-curation-fellows-event, date:08-10-2021, bioindicators
 author: fongvania
 path: /notes/fongvania/07-29-2021/air-quality-research-community-call.md

@@ -1,5 +1,5 @@
 ---
-title: Receipt submission form 2018
+title: 'Receipt submission form 2018'
 tagnames: 
 author: Shannon
 path: /wiki/receipts.md

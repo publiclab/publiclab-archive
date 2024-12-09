@@ -1,5 +1,5 @@
 ---
-title: EPA and Public Lab Revitalize Urban Waters in New Orleans
+title: 'EPA and Public Lab Revitalize Urban Waters in New Orleans'
 tagnames: gulf-coast, balloon-mapping, wetlands, louisiana, restoration, epa, new-orleans, urbanwater, urbanwaters, epaurbanwater, community-organizing, project, project:wetlands, fresh-water, urban-wetland
 author: Shannon
 path: /notes/Shannon/07-18-2014/epa-and-public-lab-revitalize-urban-waters-in-new-orleans.md

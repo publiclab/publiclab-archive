@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code 2019 Work Product 2019
+title: 'Google Summer of Code 2019 Work Product 2019'
 tagnames: gsoc, soc, gsoc-2019, soc-2019, gsoc-2019-final-report
 author: namangupta
 path: /notes/namangupta/08-25-2019/google-summer-of-code-2019-work-product-2019.md

@@ -1,5 +1,5 @@
 ---
-title: The Promise of Small Data
+title: 'The Promise of Small Data'
 tagnames: database, big-data, small-data, opinion
 author: warren
 path: /notes/warren/07-17-2013/the-promise-of-small-data.md

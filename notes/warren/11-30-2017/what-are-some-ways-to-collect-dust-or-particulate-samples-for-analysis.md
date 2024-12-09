@@ -1,5 +1,5 @@
 ---
-title: What are some ways to collect dust or particulate samples for analysis? 
+title: 'What are some ways to collect dust or particulate samples for analysis? '
 tagnames: particulate-sensing, dust, particulates, silica, pm, question:air-quality, answered, question:pm, question:particulates, question:silica, question:microscopes, question:dust, question:dust-sampling, dust-sampling, question:basic-microscope, question:air-sensors, question:basic-microscope-challenge, question:community-microscope-challenges
 author: warren
 path: /notes/warren/11-30-2017/what-are-some-ways-to-collect-dust-or-particulate-samples-for-analysis.md

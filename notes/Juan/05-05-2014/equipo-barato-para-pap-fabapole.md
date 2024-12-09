@@ -1,5 +1,5 @@
 ---
-title: Equipo barato para PAP (FABApole)
+title: 'Equipo barato para PAP (FABApole)'
 tagnames: near-infrared-camera, spain, rig, polemapping, pap, pole-mapping, lang:es, mobius, outfit, eu
 author: Juan
 path: /notes/Juan/05-05-2014/equipo-barato-para-pap-fabapole.md

@@ -1,5 +1,5 @@
 ---
-title: Tool for Stalling: Mapping
+title: 'Tool for Stalling: Mapping'
 tagnames: balloon-mapping, uganda, eviction, tenure, blog, cargo-collective, tenure-mapping, land-use, first-time-poster
 author: mlamadrid
 path: /notes/mlamadrid/05-15-2013/tool-for-stalling-mapping.md

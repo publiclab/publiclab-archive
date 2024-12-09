@@ -1,5 +1,5 @@
 ---
-title: New Developments in Multi-Spectral Drone Imaging in the Ultraviolet Band
+title: 'New Developments in Multi-Spectral Drone Imaging in the Ultraviolet Band'
 tagnames: ultraviolet, mapping, filter, camera, drone, aerial, imaging, activity:multispectral-imaging, multispectral-imaging, lat:28, technology, inspection, zoom:7, environmental_monitoring, surveying, lon:-15, mutlispectral-imaging
 author: ektopyrotic
 path: /notes/ektopyrotic/09-14-2020/new-developments-in-multi-spectral-drone-imaging-in-the-ultraviolet-band.md

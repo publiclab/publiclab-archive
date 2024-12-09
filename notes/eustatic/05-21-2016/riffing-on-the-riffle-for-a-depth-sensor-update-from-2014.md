@@ -1,5 +1,5 @@
 ---
-title: Riffing on the riffle for a depth sensor, update from 2014 
+title: 'Riffing on the riffle for a depth sensor, update from 2014 '
 tagnames: gulf-coast, arduino, water-quality, water, 555
 author: eustatic
 path: /05-21-2016/riffing-on-the-riffle-for-a-depth-sensor-update-from-2014.md

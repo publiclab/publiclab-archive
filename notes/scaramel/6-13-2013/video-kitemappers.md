@@ -1,5 +1,5 @@
 ---
-title: Video: Kitemappers
+title: 'Video: Kitemappers'
 tagnames: balloon-mapping, kite-mapping, video, photo-rig, barnraising, lumcon
 author: scaramel
 path: /notes/scaramel/6-13-2013/video-kitemappers.md

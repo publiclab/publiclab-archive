@@ -1,5 +1,5 @@
 ---
-title: "Judo Rig" for aerial photography
+title: '"Judo Rig" for aerial photography'
 tagnames: kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, diy-mount-kit, activity:photo-rig
 author: tonyc
 path: /notes/tonyc/12-17-2015/judo-rig-for-aerial-photography.md

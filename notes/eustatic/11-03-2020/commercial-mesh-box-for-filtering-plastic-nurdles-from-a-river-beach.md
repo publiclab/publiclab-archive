@@ -1,5 +1,5 @@
 ---
-title: commercial mesh box for filtering plastic nurdles from a river beach
+title: 'commercial mesh box for filtering plastic nurdles from a river beach'
 tagnames: chalmette, microplastics, plastic, zoom:14, nurdlepatrol, nurdle, lat:29.93887, lon:-89.99343, filter-microplastics-from-sand, activity:filter-microplastics-from-sand
 author: eustatic
 path: /11-03-2020/commercial-mesh-box-for-filtering-plastic-nurdles-from-a-river-beach.md

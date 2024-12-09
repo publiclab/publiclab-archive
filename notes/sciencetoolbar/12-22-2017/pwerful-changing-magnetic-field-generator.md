@@ -1,5 +1,5 @@
 ---
-title: Powerful changing magnetic field generator 
+title: 'Powerful changing magnetic field generator '
 tagnames: magnetic-field, magnetic-field-generator, changing-magnetic-field-generator, magnetic-flux-generator
 author: sciencetoolbar
 path: /notes/sciencetoolbar/12-22-2017/pwerful-changing-magnetic-field-generator.md

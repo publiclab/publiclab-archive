@@ -1,5 +1,5 @@
 ---
-title: How to collect a water sample
+title: 'How to collect a water sample'
 tagnames: sample, water-quality, water-monitoring, sampling, frac-sand, new, parent:frac-sand, activity:water-monitoring, water-sampling, activity:sampling, activity:water-sampling, activity:water-quality, lon:-90, activity:new, lat:20, activity:frac-sand, activity:sample
 author: stevie
 path: /notes/stevie/01-17-2020/how-to-collect-a-water-sample.md

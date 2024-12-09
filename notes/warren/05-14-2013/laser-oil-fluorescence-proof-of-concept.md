@@ -1,5 +1,5 @@
 ---
-title: Laser oil fluorescence proof of concept
+title: 'Laser oil fluorescence proof of concept'
 tagnames: spectrometer, partsandcrafts, oil, laser, fluorescence, parts-and-crafts
 author: warren
 path: /notes/warren/05-14-2013/laser-oil-fluorescence-proof-of-concept.md

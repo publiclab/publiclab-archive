@@ -1,5 +1,5 @@
 ---
-title: Agricultural mapping
+title: 'Agricultural mapping'
 tagnames: balloon-mapping, near-infrared-camera, nrg, ndvi, farmhack, imagej, barnraising, ifarm, gigapan, ndvi-ag
 author: cfastie
 path: /notes/cfastie/10-29-2012/agricultural-trial-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: How are gravel and asphalt companies regulated? 
+title: 'How are gravel and asphalt companies regulated? '
 tagnames: question:pm, question:general, question:permits, question:dust, location:blurred, question:regulation, lat:30, lon:-88, question:legal, with:ramseysprague, question:gravel, question:permit, question:asphalt, question:industry, law-and-policy, question:law-and-policy
 author: stevie
 path: /notes/stevie/07-10-2018/how-are-gravel-and-asphalt-companies-regulated.md

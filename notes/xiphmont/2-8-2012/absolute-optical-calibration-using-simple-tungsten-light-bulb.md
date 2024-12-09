@@ -1,5 +1,5 @@
 ---
-title: ABSOLUTE OPTICAL CALIBRATION USING A SIMPLE TUNGSTEN LIGHT BULB
+title: 'ABSOLUTE OPTICAL CALIBRATION USING A SIMPLE TUNGSTEN LIGHT BULB'
 tagnames: desktop-spectrometer, intensity-calibration, oil-testing-kit, first-time-poster
 author: xiphmont
 path: /notes/xiphmont/2-8-2012/absolute-optical-calibration-using-simple-tungsten-light-bulb.md

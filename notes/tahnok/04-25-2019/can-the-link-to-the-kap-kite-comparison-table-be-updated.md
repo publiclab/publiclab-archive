@@ -1,5 +1,5 @@
 ---
-title: Can the link to the KAP Kite Comparison table be updated?
+title: 'Can the link to the KAP Kite Comparison table be updated?'
 tagnames: kite-mapping, diy-kite, kit, kite-kit, question:general, first-time-poster
 author: tahnok
 path: /notes/tahnok/04-25-2019/can-the-link-to-the-kap-kite-comparison-table-be-updated.md

@@ -1,5 +1,5 @@
 ---
-title: PhotoMonitoringPlugin fuzzy
+title: 'PhotoMonitoringPlugin fuzzy'
 tagnames: ndvi, qgis
 author: gpenzo
 path: /notes/gpenzo/05-16-2015/photomonitoringplugin-fuzzy.md

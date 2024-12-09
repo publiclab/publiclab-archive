@@ -1,5 +1,5 @@
 ---
-title: Blog Post by Tracy Englert!
+title: 'Blog Post by Tracy Englert!'
 tagnames: gulf-coast, gulfcoast
 author: stevie
 path: /notes/stevie/03-11-2015/blog-post-by-tracy-englert.md

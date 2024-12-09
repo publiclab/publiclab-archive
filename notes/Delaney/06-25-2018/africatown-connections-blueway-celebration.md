@@ -1,5 +1,5 @@
 ---
-title: Africatown Connections Blueway Celebration
+title: 'Africatown Connections Blueway Celebration'
 tagnames: balloon-mapping, mobile, water-quality, mejac, africatown, blueway, chickasaw-creek, national-park-service, map-knitting, c.h.e.s.s., hogbayou, africatown_connections
 author: Delaney
 path: /notes/Delaney/06-25-2018/africatown-connections-blueway-celebration.md

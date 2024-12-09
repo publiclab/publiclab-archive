@@ -1,5 +1,5 @@
 ---
-title: NDVI Vineyard
+title: 'NDVI Vineyard'
 tagnames: question:general, response:43
 author: dbehr
 path: /notes/dbehr/04-10-2019/ndvi-vineyard.md

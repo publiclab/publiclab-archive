@@ -1,5 +1,5 @@
 ---
-title: [Outreachy Proposal] Expanding Community Stats System
+title: '[Outreachy Proposal] Expanding Community Stats System'
 tagnames: blog-submission, outreachy, outreachy-2018, outreachy-2018-proposals, first-time-poster
 author: chauhan_shubhangi96
 path: /notes/chauhan_shubhangi96/11-06-2018/outreachy-proposal-expanded-community-stats-system.md

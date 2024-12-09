@@ -1,5 +1,5 @@
 ---
-title: Idea for Research Area Reviews
+title: 'Idea for Research Area Reviews'
 tagnames: organizers, organizing, organizer, community-development, research-area-review
 author: stevie
 path: /notes/stevie/05-24-2019/idea-to-distribute-tasks-for-a-reserach-area-review.md

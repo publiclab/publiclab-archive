@@ -1,5 +1,5 @@
 ---
-title: Configure Spectralworkbench???
+title: 'Configure Spectralworkbench???'
 tagnames: spectralworkbench
 author: Tom_H
 path: /notes/tomh/9-21-2012/configure-spectralworkbench.md

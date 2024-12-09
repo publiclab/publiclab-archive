@@ -1,5 +1,5 @@
 ---
-title: MultispeQ at iFARM
+title: 'MultispeQ at iFARM'
 tagnames: new-hampshire, agriculture, farm, photosynthesis, photosynq, plant-health, ifarm, nh, ifarm2015, response:11825
 author: cfastie
 path: /notes/cfastie/05-22-2015/multispeq-at-ifarm.md

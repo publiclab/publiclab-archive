@@ -1,5 +1,5 @@
 ---
-title: Join the Public Lab nonprofit team! Job Posting: Outreach Manager
+title: 'Join the Public Lab nonprofit team! Job Posting: Outreach Manager'
 tagnames: nonprofit, jobs, gulfcoast
 author: Shannon
 path: /notes/Shannon/02-24-2014/join-the-public-lab-nonprofit-team-job-posting-outreach-manager.md

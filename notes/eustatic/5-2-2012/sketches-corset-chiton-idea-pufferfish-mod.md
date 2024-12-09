@@ -1,5 +1,5 @@
 ---
-title: Sketches for "Corset-Chiton" idea for Pufferfish mod
+title: 'Sketches for "Corset-Chiton" idea for Pufferfish mod'
 tagnames: balloon-mapping, kite-balloon-hybrid, diy-balloon
 author: eustatic
 path: /5-2-2012/sketches-corset-chiton-idea-pufferfish-mod.md

@@ -1,5 +1,5 @@
 ---
-title: Bring Back the Blog!
+title: 'Bring Back the Blog!'
 tagnames: community, blog
 author: stevie
 path: /notes/stevie/06-19-2015/bring-back-the-blog.md

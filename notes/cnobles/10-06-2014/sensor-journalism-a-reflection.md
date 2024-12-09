@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism - A reflection
+title: 'Sensor Journalism - A reflection'
 tagnames: sensor-journalism
 author: cnobles
 path: /notes/cnobles/10-06-2014/sensor-journalism-a-reflection.md

@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code 2013 & Public Lab
+title: 'Google Summer of Code 2013 & Public Lab'
 tagnames: mapknitter, spectralworkbench, gsoc, gsoc-2013, google, google-summer-of-code
 author: gonzoearth
 path: /notes/gonzoearth/04-17-2013/google-summer-of-code-2013-public-lab.md

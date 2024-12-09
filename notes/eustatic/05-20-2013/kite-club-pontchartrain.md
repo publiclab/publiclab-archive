@@ -1,5 +1,5 @@
 ---
-title: Kite Club Pontchartrain
+title: 'Kite Club Pontchartrain'
 tagnames: gulf-coast, event, replication:14022
 author: eustatic
 path: /05-20-2013/kite-club-pontchartrain.md

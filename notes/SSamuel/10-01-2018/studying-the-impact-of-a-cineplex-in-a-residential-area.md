@@ -1,5 +1,5 @@
 ---
-title: Studying the impact of a Cineplex in a residential area
+title: 'Studying the impact of a Cineplex in a residential area'
 tagnames: air, urban-planning, water-quality, city-planning, land-use, noise, question:general
 author: SSamuel
 path: /notes/SSamuel/10-01-2018/studying-the-impact-of-a-cineplex-in-a-residential-area.md

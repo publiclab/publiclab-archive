@@ -1,5 +1,5 @@
 ---
-title: Land use
+title: 'Land use'
 tagnames: land-use, land-change
 author: stevie
 path: /wiki/land-use.md

@@ -1,5 +1,5 @@
 ---
-title: Webinar 1: Impact of Industry on Louisiana's Geomorphology 
+title: 'Webinar 1: Impact of Industry on Louisiana's Geomorphology '
 tagnames: pipeline, webinar, industry, oil-and-gas, pipeline-monitoring, civilian-monitoring, lat:29.97397, lon:-90.043945, pipeline-monitoring-webinar
 author: a1ahna
 path: /notes/a1ahna/03-19-2019/webinar-1-impact-of-industry-on-louisiana-s-geomorphology.md

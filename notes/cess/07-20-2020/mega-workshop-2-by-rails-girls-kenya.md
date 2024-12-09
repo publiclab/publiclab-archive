@@ -1,5 +1,5 @@
 ---
-title: Rails Girls Kenya:  Mega Workshop 2
+title: 'Rails Girls Kenya:  Mega Workshop 2'
 tagnames: event, blog, lat:-1, lon:36, zoom:6
 author: cess
 path: /notes/cess/07-20-2020/mega-workshop-2-by-rails-girls-kenya.md

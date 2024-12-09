@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping & Raspberry Pi Workshop @ The Hacktory
+title: 'Balloon Mapping & Raspberry Pi Workshop @ The Hacktory'
 tagnames: event, event:rsvp, date:10-18-2014, rsvp:kimberlyhaas
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/09-18-2014/balloon-mapping-raspberry-pi-workshop-the-hacktory.md

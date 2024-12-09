@@ -1,5 +1,5 @@
 ---
-title: Visible-light spectrometer for $2,660, 4-7nm bandwidth
+title: 'Visible-light spectrometer for $2,660, 4-7nm bandwidth'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/11-30-2011/visible-light-spectrometer-2660-4-7nm-bandwidth.md

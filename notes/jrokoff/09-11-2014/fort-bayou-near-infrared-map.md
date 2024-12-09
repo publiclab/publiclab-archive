@@ -1,5 +1,5 @@
 ---
-title: Fort Bayou Near Infrared Map
+title: 'Fort Bayou Near Infrared Map'
 tagnames: gulf-coast, balloon-mapping, washustlouis, washu-stlouis
 author: jrokoff
 path: /notes/jrokoff/09-11-2014/fort-bayou-near-infrared-map.md

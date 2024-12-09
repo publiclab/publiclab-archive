@@ -1,5 +1,5 @@
 ---
-title: Check out these Activity Grids
+title: 'Check out these Activity Grids'
 tagnames: collaboration, blog, with:warren, with:gretchengehrke, research-culture, activity-grids, replication, with:abdul
 author: liz
 path: /notes/liz/08-30-2016/check-out-these-activity-grids.md

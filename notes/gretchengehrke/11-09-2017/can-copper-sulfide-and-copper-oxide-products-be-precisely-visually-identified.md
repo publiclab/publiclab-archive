@@ -1,5 +1,5 @@
 ---
-title: Can copper sulfide and copper oxide products be precisely visually identified?
+title: 'Can copper sulfide and copper oxide products be precisely visually identified?'
 tagnames: hydrogen-sulfide, h2s, copper, answered, h2s-copper-pipe, question:h2s, question:h2s-copper-pipe
 author: gretchengehrke
 path: /notes/gretchengehrke/11-09-2017/can-copper-sulfide-and-copper-oxide-products-be-precisely-visually-identified.md

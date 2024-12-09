@@ -1,5 +1,5 @@
 ---
-title: Sky Tracks
+title: 'Sky Tracks'
 tagnames: kite-mapping, vermont, mapknitter, leaffest, gps
 author: cfastie
 path: /notes/cfastie/10-6-2012/sky-tracks.md

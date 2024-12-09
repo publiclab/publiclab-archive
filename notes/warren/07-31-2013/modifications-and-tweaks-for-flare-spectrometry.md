@@ -1,5 +1,5 @@
 ---
-title: Modifications and tweaks for flare spectrometry
+title: 'Modifications and tweaks for flare spectrometry'
 tagnames: spectrometer, kits, flare, distance-spectrometry, modifications
 author: warren
 path: /notes/warren/07-31-2013/modifications-and-tweaks-for-flare-spectrometry.md

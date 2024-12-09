@@ -1,5 +1,5 @@
 ---
-title: Grand Isle Sand Spit 2 Jan 2014
+title: 'Grand Isle Sand Spit 2 Jan 2014'
 tagnames: gulf-coast, grand-isle, kite-mapping, dredgefestla
 author: eustatic
 path: /01-06-2014/grand-isle-sand-spit-2-jan-2014.md

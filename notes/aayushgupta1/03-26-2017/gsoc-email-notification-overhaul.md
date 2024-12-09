@@ -1,5 +1,5 @@
 ---
-title: GSOC - Upgrade Plot to Rails 4 and Email Notification Overhaul
+title: 'GSOC - Upgrade Plot to Rails 4 and Email Notification Overhaul'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
 author: aayushgupta1
 path: /notes/aayushgupta1/03-26-2017/gsoc-email-notification-overhaul.md

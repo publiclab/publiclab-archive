@@ -1,5 +1,5 @@
 ---
-title: Frac sand hotspot testing and site survey
+title: 'Frac sand hotspot testing and site survey'
 tagnames: photo-monitoring, event, wisconsin, air-quality, frac-sand, pm, mid-west, fracsand, parent:frac-sand, hotspot-monitoring, hotspot, site-survey, sitesurvey, pdr1500
 author: stevie
 path: /notes/stevie/03-21-2017/frac-sand-hotspot-testing-and-site-survey.md

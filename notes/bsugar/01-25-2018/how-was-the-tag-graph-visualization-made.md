@@ -1,5 +1,5 @@
 ---
-title: How can I make a tag graph visualization?
+title: 'How can I make a tag graph visualization?'
 tagnames: community-metrics, visualization, evaluation, tags, networks, ui, question:ui, question:evaluation, graphing, question:visualization
 author: bsugar
 path: /notes/bsugar/01-25-2018/how-was-the-tag-graph-visualization-made.md

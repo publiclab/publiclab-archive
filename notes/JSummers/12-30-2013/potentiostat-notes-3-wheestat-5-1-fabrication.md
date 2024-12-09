@@ -1,5 +1,5 @@
 ---
-title: Potentiostat Notes-3; WheeStat 5.1 Fabrication
+title: 'Potentiostat Notes-3; WheeStat 5.1 Fabrication'
 tagnames: potentiostat, wheestat
 author: JSummers
 path: /notes/JSummers/12-30-2013/potentiostat-notes-3-wheestat-5-1-fabrication.md

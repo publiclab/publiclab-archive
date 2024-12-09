@@ -1,5 +1,5 @@
 ---
-title: Data collected
+title: 'Data collected'
 tagnames: zoom:3, lat:30.003838, lon:-90.097193
 author: rachelb
 path: /notes/rachelb/05-17-2021/data-collected.md

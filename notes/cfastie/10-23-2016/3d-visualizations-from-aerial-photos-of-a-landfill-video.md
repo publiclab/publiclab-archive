@@ -1,5 +1,5 @@
 ---
-title: 3D visualizations from aerial photos of a landfill (video)
+title: '3D visualizations from aerial photos of a landfill (video)'
 tagnames: vermont, kite-aerial-photography, landfill, kap, sfm, structure-from-motion, saturnv, skyshield, recap-360, autodesk, bristol-vt
 author: cfastie
 path: /notes/cfastie/10-23-2016/3d-visualizations-from-aerial-photos-of-a-landfill-video.md

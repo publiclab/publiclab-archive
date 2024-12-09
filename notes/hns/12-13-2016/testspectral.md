@@ -1,5 +1,5 @@
 ---
-title: testspectral
+title: 'testspectral'
 tagnames: spectrometer, guide, cross-section, replication:13410, first-time-poster
 author: hns
 path: /notes/hns/12-13-2016/testspectral.md

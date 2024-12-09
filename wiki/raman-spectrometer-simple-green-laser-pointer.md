@@ -1,5 +1,5 @@
 ---
-title: Raman spectrometer from a simple green laser pointer
+title: 'Raman spectrometer from a simple green laser pointer'
 tagnames: 
 author: FlorentBonnefoi
 path: /wiki/raman-spectrometer-simple-green-laser-pointer.md

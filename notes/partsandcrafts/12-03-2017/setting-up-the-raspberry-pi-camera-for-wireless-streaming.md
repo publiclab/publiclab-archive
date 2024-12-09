@@ -1,5 +1,5 @@
 ---
-title: Setting up the Raspberry Pi Camera for Wireless Streaming
+title: 'Setting up the Raspberry Pi Camera for Wireless Streaming'
 tagnames: raspberry-pi, barnstar:basic, with:kgradow1, with:warren, microscope, pi-camera, microscopes, activity:microscopes, raspberry-pi-infragram, activity:raspberry-pi-infragram, with:wmacfarl, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, activity:pi-camera, with:bmela, activity:basic-microscope, activity:lego-spectrometer, series:basic-microscope
 author: partsandcrafts
 path: /notes/partsandcrafts/12-03-2017/setting-up-the-raspberry-pi-camera-for-wireless-streaming.md

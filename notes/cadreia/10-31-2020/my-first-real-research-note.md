@@ -1,5 +1,5 @@
 ---
-title: My First Real Research Note
+title: 'My First Real Research Note'
 tagnames: lat:0, lon:10, zoom:4
 author: cadreia
 path: /notes/cadreia/10-31-2020/my-first-real-research-note.md

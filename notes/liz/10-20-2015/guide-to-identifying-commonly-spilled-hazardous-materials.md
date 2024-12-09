@@ -1,5 +1,5 @@
 ---
-title: guide to identifying commonly spilled hazardous materials
+title: 'guide to identifying commonly spilled hazardous materials'
 tagnames: material-identification, hazardous-materials
 author: liz
 path: /notes/liz/10-20-2015/guide-to-identifying-commonly-spilled-hazardous-materials.md

@@ -1,5 +1,5 @@
 ---
-title: Getting started with a new Newark garden
+title: 'Getting started with a new Newark garden'
 tagnames: newark, new-jersey, 5bf, community-garden, food, elp, northeast, with:thegreencommunitygarden
 author: liz
 path: /notes/liz/07-23-2014/getting-started-with-a-new-newark-garden.md

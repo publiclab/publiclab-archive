@@ -1,5 +1,5 @@
 ---
-title: Boston PLOTS Meet Up - Tidmarsh Farm
+title: 'Boston PLOTS Meet Up - Tidmarsh Farm'
 tagnames: balloon-mapping, kite-mapping, events, pre-flight-planning, skillshare, tidmarsh
 author: Hudonnoodles
 path: /notes/hudonnoodles/10-25-2012/boston-plots-meet-tidmarsh-farm.md

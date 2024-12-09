@@ -1,5 +1,5 @@
 ---
-title: Plan for recording Shinyei optical sensors using Open Pipe Kit
+title: 'Plan for recording Shinyei optical sensors using Open Pipe Kit'
 tagnames: air-quality, dustduino, silica, frac-sand, pm, open-air, particle-sensing, dust-monitoring, openair, with:warren, open-pipe-kit, opk, shinyei, fracsand, parent:frac-sand, air-sensors
 author: mathew
 path: /notes/mathew/06-01-2015/plan-for-recording-shinyei-optical-sensors-using-open-pipe-kit.md

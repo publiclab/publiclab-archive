@@ -1,5 +1,5 @@
 ---
-title: Sweet new SpectralWorkbench capture interface
+title: 'Sweet new SpectralWorkbench capture interface'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/8-25-2012/sweet-new-spectralworkbench-capture-interface.md

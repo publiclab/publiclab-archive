@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Bob Barnraising!!
+title: 'Thermal Fishing Bob Barnraising!!'
 tagnames: thermal-fishing-bob
 author: sara
 path: /wiki/thermal-fishing-bob-barnraising.md

@@ -1,5 +1,5 @@
 ---
-title: Frac Sand Legislation
+title: 'Frac Sand Legislation'
 tagnames: fracking, parent:frac-sand-advocacy-leverage-points
 author: gretchengehrke
 path: /wiki/frac-sand-legislation.md

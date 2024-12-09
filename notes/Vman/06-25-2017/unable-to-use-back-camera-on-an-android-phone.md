@@ -1,5 +1,5 @@
 ---
-title: Unable to use back camera on an android phone
+title: 'Unable to use back camera on an android phone'
 tagnames: spectrometer, spectralworkbench, export, graph, question:general
 author: Vman
 path: /notes/Vman/06-25-2017/unable-to-use-back-camera-on-an-android-phone.md

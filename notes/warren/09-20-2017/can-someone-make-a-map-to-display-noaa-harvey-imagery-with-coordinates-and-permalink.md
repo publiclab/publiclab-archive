@@ -1,5 +1,5 @@
 ---
-title: Can someone make a map to display NOAA Harvey imagery with coordinates and permalink?
+title: 'Can someone make a map to display NOAA Harvey imagery with coordinates and permalink?'
 tagnames: mapping, maps, leaflet, gis, answered, disaster-response, harvey, hurricanes, question:harvey, web-mapping, noaa
 author: warren
 path: /notes/warren/09-20-2017/can-someone-make-a-map-to-display-noaa-harvey-imagery-with-coordinates-and-permalink.md

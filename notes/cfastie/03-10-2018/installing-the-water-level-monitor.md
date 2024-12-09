@@ -1,5 +1,5 @@
 ---
-title: Installing the water-level monitor
+title: 'Installing the water-level monitor'
 tagnames: arduino, sensors, datalogger, data-logging, water-level, bme280, ds18b20, mini-pearl-logger, activity:mini-pearl-logger, mma8451, series:springhouse-water-level, log-a-long-timer, activity:log-a-long-timer
 author: cfastie
 path: /notes/cfastie/03-10-2018/installing-the-water-level-monitor.md

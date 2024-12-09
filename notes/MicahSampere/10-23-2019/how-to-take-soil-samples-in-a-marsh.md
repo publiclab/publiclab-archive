@@ -1,5 +1,5 @@
 ---
-title: How to Take Soil Samples in a Marsh
+title: 'How to Take Soil Samples in a Marsh'
 tagnames: gulf-coast, wetlands, soil, new-orleans, erosion, marsh, soil-testing, soil-sampling, question:soil-sampling, soil-analysis, question:wetlands, question:soil, with:jeanell873
 author: MicahSampere
 path: /notes/MicahSampere/10-23-2019/how-to-take-soil-samples-in-a-marsh.md

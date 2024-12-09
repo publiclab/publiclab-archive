@@ -1,5 +1,5 @@
 ---
-title: Kite Mapping in Vancouver - Take 3
+title: 'Kite Mapping in Vancouver - Take 3'
 tagnames: kite-mapping, vancouver
 author: MelissaN
 path: /notes/MelissaN/12-01-2014/kite-mapping-in-vancouver-take-3.md

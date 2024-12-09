@@ -1,5 +1,5 @@
 ---
-title: Water Pollution (Riffle) Project
+title: 'Water Pollution (Riffle) Project'
 tagnames: 
 author: efukuda
 path: /notes/efukuda/10-07-2015/water-pollution-riffle-project.md

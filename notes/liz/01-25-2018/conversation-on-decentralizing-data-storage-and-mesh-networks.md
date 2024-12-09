@@ -1,5 +1,5 @@
 ---
-title: Conversation on decentralizing data storage and mesh networks
+title: 'Conversation on decentralizing data storage and mesh networks'
 tagnames: new-york-city, event, internet, mesh, edgi, data-together, decentralization
 author: liz
 path: /notes/liz/01-25-2018/conversation-on-decentralizing-data-storage-and-mesh-networks.md

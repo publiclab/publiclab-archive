@@ -1,5 +1,5 @@
 ---
-title: Your issue name here
+title: 'Your issue name here'
 tagnames: issue-brief
 author: paris_smith
 path: /notes/paris_smith/05-02-2021/your-issue-name-here.md

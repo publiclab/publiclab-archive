@@ -1,5 +1,5 @@
 ---
-title: Question: More of a comment, really
+title: 'Question: More of a comment, really'
 tagnames: question:spectrometry
 author: bowlerhatman
 path: /notes/bowlerhatman/08-09-2014/question-more-of-a-comment-really.md

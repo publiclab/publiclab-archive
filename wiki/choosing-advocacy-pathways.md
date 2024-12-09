@@ -1,5 +1,5 @@
 ---
-title: Choosing advocacy pathways
+title: 'Choosing advocacy pathways'
 tagnames: tool, tools, methods, advocacy, method, community-organizing
 author: liz
 path: /wiki/choosing-advocacy-pathways.md

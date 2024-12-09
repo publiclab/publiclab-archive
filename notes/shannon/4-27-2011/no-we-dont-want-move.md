@@ -1,5 +1,5 @@
 ---
-title: No, we don't want to move.
+title: 'No, we don't want to move.'
 tagnames: 
 author: Shannon
 path: /notes/shannon/4-27-2011/no-we-dont-want-move.md

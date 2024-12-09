@@ -1,5 +1,5 @@
 ---
-title: Help improve the step-by-step guides people have posted on PublicLab.org
+title: 'Help improve the step-by-step guides people have posted on PublicLab.org'
 tagnames: seeks:replications, activities, requests, activity:requests, activity:activities, peer-support, authoring-help
 author: warren
 path: /notes/warren/12-06-2017/help-improve-the-step-by-step-guides-people-have-posted-on-publiclab-org.md

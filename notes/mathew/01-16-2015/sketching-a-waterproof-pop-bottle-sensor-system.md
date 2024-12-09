@@ -1,5 +1,5 @@
 ---
-title: sketching a waterproof pop bottle sensor system
+title: 'sketching a waterproof pop bottle sensor system'
 tagnames: housing, water-quality, riffle, open-water, openwater, bottle, weatherproofing, riffle-examples, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures
 author: mathew
 path: /notes/mathew/01-16-2015/sketching-a-waterproof-pop-bottle-sensor-system.md

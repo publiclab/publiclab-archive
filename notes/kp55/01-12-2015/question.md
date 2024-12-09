@@ -1,5 +1,5 @@
 ---
-title: Is it possible to log the data from a dustduino without a wifi network?
+title: 'Is it possible to log the data from a dustduino without a wifi network?'
 tagnames: air-quality, dustduino, question:dustduino, data-logging, question:data-logging, question:air-sensors, aerosols
 author: kp55
 path: /notes/kp55/01-12-2015/question.md

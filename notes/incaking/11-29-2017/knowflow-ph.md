@@ -1,5 +1,5 @@
 ---
-title: Knowflow组装（一）——pH和温度监测
+title: 'Knowflow组装（一）——pH和温度监测'
 tagnames: arduino, water-sensing, temperature, water-quality, thermal-pollution, barnstar:photo-documentation, arduino-uno, ph, include, data-logging, activity:arduino, knowflow, activity:data-logging, lang:zh, activity:ph, first-time-poster
 author: incaking
 path: /notes/incaking/11-29-2017/knowflow-ph.md

@@ -1,5 +1,5 @@
 ---
-title: Haze over chilly Manhattan
+title: 'Haze over chilly Manhattan'
 tagnames: new-york-city, air-column-monitor, air-quality, haze, smog
 author: liz
 path: /notes/liz/02-18-2015/haze-over-chilly-manhattan.md

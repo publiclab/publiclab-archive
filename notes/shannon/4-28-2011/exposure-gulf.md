@@ -1,5 +1,5 @@
 ---
-title: Exposure in the Gulf
+title: 'Exposure in the Gulf'
 tagnames: 
 author: Shannon
 path: /notes/shannon/4-28-2011/exposure-gulf.md

@@ -1,5 +1,5 @@
 ---
-title: Create a Visual difference in wikis and notes
+title: 'Create a Visual difference in wikis and notes'
 tagnames: design, ui, first-time-poster, ui-designs, notes, wikis
 author: lekhidugtal
 path: /notes/lekhidugtal/03-12-2019/create-a-visual-difference-in-wikis-and-notes.md

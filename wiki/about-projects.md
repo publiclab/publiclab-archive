@@ -1,5 +1,5 @@
 ---
-title: About Projects
+title: 'About Projects'
 tagnames: projects
 author: warren
 path: /wiki/about-projects.md

@@ -1,5 +1,5 @@
 ---
-title: What information should be posted with images taken with a microscope?
+title: 'What information should be posted with images taken with a microscope?'
 tagnames: answered, question:pm, question:general, question:microscope, question:basic-microscope, question:microscope-basic, question:particulate-matter, question:community-microscope, faq-community-microscope
 author: stevie
 path: /notes/stevie/01-17-2018/what-information-should-be-posted-with-images-taken-with-a-microscope.md

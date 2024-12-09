@@ -1,5 +1,5 @@
 ---
-title: Public & Open Environmental Data: presentation for CEEJH Community Science Workshop
+title: 'Public & Open Environmental Data: presentation for CEEJH Community Science Workshop'
 tagnames: environmental-data, existing-data, datasource, public-data
 author: bhamster
 path: /notes/bhamster/07-25-2022/public-open-environmental-data-presentation-for-ceejh-community-science-workshop.md

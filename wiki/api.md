@@ -1,5 +1,5 @@
 ---
-title: API
+title: 'API'
 tagnames: website, needs-revision, website-utilities
 author: warren
 path: /wiki/api.md

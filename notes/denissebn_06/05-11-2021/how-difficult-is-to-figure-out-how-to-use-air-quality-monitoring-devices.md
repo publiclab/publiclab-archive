@@ -1,5 +1,5 @@
 ---
-title: How difficult is to figure out how to use Air Quality monitoring devices?
+title: 'How difficult is to figure out how to use Air Quality monitoring devices?'
 tagnames: california, air-quality, pm, air-monitoring, question:general, general, particulate-matter, air-sampling, technology-costs, question:vvamp
 author: denissebn_06
 path: /notes/denissebn_06/05-11-2021/how-difficult-is-to-figure-out-how-to-use-air-quality-monitoring-devices.md

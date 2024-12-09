@@ -1,5 +1,5 @@
 ---
-title: Hack your holidays with Public Lab!
+title: 'Hack your holidays with Public Lab!'
 tagnames: kits, store, holidays, great-photos, kits-initiative
 author: liz
 path: /notes/liz/11-14-2013/hack-your-holidays-with-public-lab.md

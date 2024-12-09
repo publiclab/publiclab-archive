@@ -1,5 +1,5 @@
 ---
-title: Dan Beavers shows how to fold a Delta Kite
+title: 'Dan Beavers shows how to fold a Delta Kite'
 tagnames: kite, diy-kite, homemade-kites, easy-cut-delta
 author: mathew
 path: /notes/mathew/1-24-2013/dan-beavers-shows-how-fold-delta-kite.md

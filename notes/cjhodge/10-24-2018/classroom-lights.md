@@ -1,5 +1,5 @@
 ---
-title: Classroom lights
+title: 'Classroom lights'
 tagnames: hidden:response, replication:15121, response:17384
 author: cjhodge
 path: /notes/cjhodge/10-24-2018/classroom-lights.md

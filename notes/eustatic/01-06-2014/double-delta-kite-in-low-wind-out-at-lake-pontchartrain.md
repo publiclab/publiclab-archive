@@ -1,5 +1,5 @@
 ---
-title: Double Delta kite in low wind out at Lake Pontchartrain
+title: 'Double Delta kite in low wind out at Lake Pontchartrain'
 tagnames: kite-mapping
 author: eustatic
 path: /01-06-2014/double-delta-kite-in-low-wind-out-at-lake-pontchartrain.md

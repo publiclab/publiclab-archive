@@ -1,5 +1,5 @@
 ---
-title: AFLOSS collection of tutorials
+title: 'AFLOSS collection of tutorials'
 tagnames: software, tools, afloss, bookmarks
 author: xose
 path: /notes/xose/12-06-2016/afloss-collection-of-tutorials.md

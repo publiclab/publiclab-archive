@@ -1,5 +1,5 @@
 ---
-title: Mini Pearl Logger longer
+title: 'Mini Pearl Logger longer'
 tagnames: arduino, sensors, data-logging, bme280, arduino-pro-mini, mcp9808, activity:data-logging, mini-pearl-logger, response:14598, mini-pearl, activity:mini-pearl-logger
 author: cfastie
 path: /notes/cfastie/08-20-2017/mini-pearl-logger-longer.md

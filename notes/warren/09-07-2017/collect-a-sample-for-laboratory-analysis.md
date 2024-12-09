@@ -1,5 +1,5 @@
 ---
-title: Draft: Collect a sample for laboratory analysis
+title: 'Draft: Collect a sample for laboratory analysis'
 tagnames: oil, sample-containers, water-quality, sampling, with:eustatic, with:gretchengehrke, oil-pollution, activity:spectrometry, harvey, harvey-response, sample-collection, soil-sampling, water-sampling, oil-sampling, activity:sampling, activity:water-sampling, activity:soil-sampling, activity:water-quality, activity:sample-collection, soil-quality, activity:soil, soil-sampling-main
 author: warren
 path: /notes/warren/09-07-2017/collect-a-sample-for-laboratory-analysis.md

@@ -1,5 +1,5 @@
 ---
-title: Mapping Experiment Llactalab Cuenca Ecuador day 1
+title: 'Mapping Experiment Llactalab Cuenca Ecuador day 1'
 tagnames: kite-mapping, lang:es, ecuador, llactalab
 author: sebasvanegasb
 path: /notes/sebasvanegasb/11-04-2015/mapping-experiment-llactalab-cuenca-ecuador-day-1.md

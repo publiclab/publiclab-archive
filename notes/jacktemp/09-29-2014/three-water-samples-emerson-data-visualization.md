@@ -1,5 +1,5 @@
 ---
-title: Three water samples — Emerson Data Visualization 
+title: 'Three water samples — Emerson Data Visualization '
 tagnames: water-quality-monitoring, first-time-poster
 author: jacktemp
 path: /notes/jacktemp/09-29-2014/three-water-samples-emerson-data-visualization.md

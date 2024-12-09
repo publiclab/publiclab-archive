@@ -1,5 +1,5 @@
 ---
-title: A Quick Look at the Health Impacts of Air Pollutants
+title: 'A Quick Look at the Health Impacts of Air Pollutants'
 tagnames: heavy-metals, air-quality, pm, vocs, particulate-matter, zoom:6, formosaplastics, volatile-organic-compounds, lat:30.017929, lon:-90.791322, gameoverformosateam, health-effects
 author: awoolverton1
 path: /notes/awoolverton1/07-07-2022/a-quick-look-at-the-health-impacts-of-air-pollutants.md

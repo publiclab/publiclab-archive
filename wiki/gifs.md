@@ -1,5 +1,5 @@
 ---
-title: gifs
+title: 'gifs'
 tagnames: 
 author: warren
 path: /wiki/gifs.md

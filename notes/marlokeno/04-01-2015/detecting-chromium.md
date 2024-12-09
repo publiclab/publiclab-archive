@@ -1,5 +1,5 @@
 ---
-title: Detecting chromium
+title: 'Detecting chromium'
 tagnames: landfill, aquifer, chromium, question:chromium
 author: marlokeno
 path: /notes/marlokeno/04-01-2015/detecting-chromium.md

@@ -1,5 +1,5 @@
 ---
-title: Are there any DIY equipment that measure dissolved oxygen levels in water?
+title: 'Are there any DIY equipment that measure dissolved oxygen levels in water?'
 tagnames: water-quality, oxygen, question:water-quality, dissolved, question:water-sensors, location:blurred, ohio, question:dissolved-oxygen, lat:39, lon:-84
 author: belkinsa
 path: /notes/belkinsa/07-18-2018/are-there-any-diy-equipment-that-measure-dissolved-oxygen-levels-in-water.md

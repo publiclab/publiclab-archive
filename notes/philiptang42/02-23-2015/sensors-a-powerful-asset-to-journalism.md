@@ -1,5 +1,5 @@
 ---
-title: Sensors: A Powerful Asset to Journalism
+title: 'Sensors: A Powerful Asset to Journalism'
 tagnames: sensor-journalism
 author: philiptang42
 path: /notes/philiptang42/02-23-2015/sensors-a-powerful-asset-to-journalism.md

@@ -1,5 +1,5 @@
 ---
-title: Environmental Science Stimuli That Can Adversely Impact Life In The Future
+title: 'Environmental Science Stimuli That Can Adversely Impact Life In The Future'
 tagnames: first-time-poster, lat:20, lon:70, zoom:4
 author: TheChessGym
 path: /notes/TheChessGym/08-19-2022/environmental-science-stimuli-that-can-adversely-impact-life-in-the-future.md

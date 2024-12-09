@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: New Dashboard Implementation Project
+title: 'Outreachy proposal: New Dashboard Implementation Project'
 tagnames: software, first-time-poster, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
 author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/10-26-2020/outreachy-winter-proposal-new-dashboard-implementation-project.md

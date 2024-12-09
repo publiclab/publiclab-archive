@@ -1,5 +1,5 @@
 ---
-title: Using Photographs in Fighting Mining Companies
+title: 'Using Photographs in Fighting Mining Companies'
 tagnames: wisconsin, blog, frac-sand, stories, parent:frac-sand, communityscienceforum
 author: mlamadrid
 path: /notes/mlamadrid/06-22-2016/using-photographs-in-fighting-mining-companies.md

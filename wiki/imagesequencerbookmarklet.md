@@ -1,5 +1,5 @@
 ---
-title: ImageSequencerBookmarklet
+title: 'ImageSequencerBookmarklet'
 tagnames: ndvi, sidebar:none, image-sequencer
 author: tech4gt
 path: /wiki/imagesequencerbookmarklet.md

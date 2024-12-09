@@ -1,5 +1,5 @@
 ---
-title: pH Testing and Citizen Science
+title: 'pH Testing and Citizen Science'
 tagnames: citizen-science, water-quality-monitoring, ph, water-sensors, water-quality-testing
 author: gilbert
 path: /wiki/ph-testing-and-citizen-science.md

@@ -1,5 +1,5 @@
 ---
-title: Minimal coverage
+title: 'Minimal coverage'
 tagnames: kite-aerial-photography, alaska, kap, autokap, kaptery, saturnv, skyshield, half-spherical, response:11997
 author: cfastie
 path: /notes/cfastie/07-04-2015/minimal-coverage.md

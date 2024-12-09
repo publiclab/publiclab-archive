@@ -1,5 +1,5 @@
 ---
-title: How do I select the back camera of the smartphone?
+title: 'How do I select the back camera of the smartphone?'
 tagnames: smartphone, question:spectral-workbench, first-time-poster
 author: renatoianhez
 path: /notes/renatoianhez/08-05-2019/how-do-i-select-the-back-camera-of-the-smartphone.md

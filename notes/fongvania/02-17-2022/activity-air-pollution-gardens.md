@@ -1,5 +1,5 @@
 ---
-title: Activity: Air Pollution Gardens
+title: 'Activity: Air Pollution Gardens'
 tagnames: air-quality, plants, ozone, activity:ozone, gardens, research-curation-fellows, with:alejobonifacio, bioindicators, activity:bioindicators
 author: fongvania
 path: /notes/fongvania/02-17-2022/activity-air-pollution-gardens.md

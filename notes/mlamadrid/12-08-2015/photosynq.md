@@ -1,5 +1,5 @@
 ---
-title: PhotosynQ
+title: 'PhotosynQ'
 tagnames: photosynq, grassrootsmappingforum, style:fancy, coathor, gregaustic, gmf-9
 author: mlamadrid
 path: /notes/mlamadrid/12-08-2015/photosynq.md

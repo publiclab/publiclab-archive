@@ -1,5 +1,5 @@
 ---
-title: report back from 2013 Just Food Conference
+title: 'report back from 2013 Just Food Conference'
 tagnames: new-york-city, 5bf, five-borough-farm, open-space-technology, events:new-york-city
 author: liz
 path: /notes/liz/4-2-2013/report-back-2013-just-food-conference.md

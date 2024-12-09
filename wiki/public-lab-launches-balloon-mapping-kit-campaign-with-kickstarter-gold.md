@@ -1,5 +1,5 @@
 ---
-title: Public Lab Launches Balloon Mapping Kit Campaign with Kickstarter Gold
+title: 'Public Lab Launches Balloon Mapping Kit Campaign with Kickstarter Gold'
 tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, aerial-photography, aerial-mapping
 author: Bronwen
 path: /wiki/public-lab-launches-balloon-mapping-kit-campaign-with-kickstarter-gold.md

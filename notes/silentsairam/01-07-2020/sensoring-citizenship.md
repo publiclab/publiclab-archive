@@ -1,5 +1,5 @@
 ---
-title: Sensoring Citizenship 
+title: 'Sensoring Citizenship '
 tagnames: air, simple, pollution, sensor, air-sensing, plantower, purple-air, simple-air-sensor, activity:air-sensing, activity:plantower, airsense, lat:10.765577, lon:78.805975
 author: silentsairam
 path: /notes/silentsairam/01-07-2020/sensoring-citizenship.md

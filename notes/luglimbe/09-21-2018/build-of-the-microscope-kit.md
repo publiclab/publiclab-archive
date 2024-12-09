@@ -1,5 +1,5 @@
 ---
-title: build of the microscope kit
+title: 'build of the microscope kit'
 tagnames: calibration, africa, microscope, location:blurred, lat:0, lon:10, community-microscope, cameroon, place:cameroon, first-time-poster
 author: luglimbe
 path: /notes/luglimbe/09-21-2018/build-of-the-microscope-kit.md

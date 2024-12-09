@@ -1,5 +1,5 @@
 ---
-title: Are there any exemptions under the NPDES? 
+title: 'Are there any exemptions under the NPDES? '
 tagnames: pollution, answered, npdes, permits, question:stormwater, oil-and-gas, question:npdes, question:permits, question:oil-and-gas, location:blurred, question:legal, lat:22, lon:76, question:industry, zoom:6, law-and-policy, question:law-and-policy, place:newyork
 author: stevie
 path: /notes/stevie/02-09-2017/are-there-any-exemptions-under-the-npdes.md

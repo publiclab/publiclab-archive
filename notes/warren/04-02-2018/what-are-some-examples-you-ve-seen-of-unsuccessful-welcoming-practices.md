@@ -1,5 +1,5 @@
 ---
-title: What are some examples you've seen of unsuccessful welcoming practices?
+title: 'What are some examples you've seen of unsuccessful welcoming practices?'
 tagnames: answered, onboarding, software-outreach, question:software-outreach, welcoming, question:onboarding, question:welcoming
 author: warren
 path: /notes/warren/04-02-2018/what-are-some-examples-you-ve-seen-of-unsuccessful-welcoming-practices.md

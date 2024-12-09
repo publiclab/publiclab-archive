@@ -1,5 +1,5 @@
 ---
-title: Thermo Flashlight LCD Screen Enhancement - Arduino Code
+title: 'Thermo Flashlight LCD Screen Enhancement - Arduino Code'
 tagnames: code, arduino-uno, thermo-flashlight, lcd-screen
 author: klrussell
 path: /notes/klrussell/12-16-2014/thermo-flashlight-lcd-screen-enhancement-arduino-code.md

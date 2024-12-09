@@ -1,5 +1,5 @@
 ---
-title: places
+title: 'places'
 tagnames: 
 author: warren
 path: /feature/places.md

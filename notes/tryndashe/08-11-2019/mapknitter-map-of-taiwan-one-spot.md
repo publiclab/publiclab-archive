@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of taiwan one spot
+title: 'MapKnitter map of taiwan one spot'
 tagnames: mapknitter, asia, taiwan, first-time-poster, lat:23.69781, lon:120.960515
 author: tryndashe
 path: /notes/tryndashe/08-11-2019/mapknitter-map-of-taiwan-one-spot.md

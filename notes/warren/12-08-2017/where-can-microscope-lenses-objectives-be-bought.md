@@ -1,5 +1,5 @@
 ---
-title: Where can microscope lenses (objectives) be bought?
+title: 'Where can microscope lenses (objectives) be bought?'
 tagnames: lenses, answered, microscopes, question:microscopes, question:sourcing, sourcing, objectives, question:basic-microscope, question:community-microscope
 author: warren
 path: /notes/warren/12-08-2017/where-can-microscope-lenses-objectives-be-bought.md

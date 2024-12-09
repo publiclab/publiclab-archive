@@ -1,5 +1,5 @@
 ---
-title: Rhus - Open Source Mobile GIS for Community Ecology 
+title: 'Rhus - Open Source Mobile GIS for Community Ecology '
 tagnames: first-time-poster
 author: deepwinter
 path: /notes/deepwinter/6-5-2012/rhus-open-source-mobile-gis-community-ecology.md

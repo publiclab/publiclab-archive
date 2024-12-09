@@ -1,5 +1,5 @@
 ---
-title: Cit. Sci. from Eye on Earth conf.
+title: 'Cit. Sci. from Eye on Earth conf.'
 tagnames: 
 author: Shannon
 path: /notes/shannon/12-19-2011/cit-sci-eye-earth-conf.md

@@ -1,5 +1,5 @@
 ---
-title: Kite Aerial Mapping for Golden Trout Camp: Exploring Techniques for Mapping in Remote Locations
+title: 'Kite Aerial Mapping for Golden Trout Camp: Exploring Techniques for Mapping in Remote Locations'
 tagnames: balloon-mapping, kite-mapping, kite, remote, blog, wind, ecosystem, location
 author: lydia123
 path: /notes/lydia123/05-30-2017/kite-aerial-mapping-for-golden-trout-camp-exploring-techniques-for-mapping-in-remote-locations.md

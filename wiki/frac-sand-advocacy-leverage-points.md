@@ -1,5 +1,5 @@
 ---
-title: Frac Sand Advocacy Leverage Points
+title: 'Frac Sand Advocacy Leverage Points'
 tagnames: fracking, advocacy, parent:frac-sand, reclamation, mine-reclamation, mine-reclamation-advocacy
 author: stevie
 path: /wiki/frac-sand-advocacy-leverage-points.md

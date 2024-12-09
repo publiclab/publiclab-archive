@@ -1,5 +1,5 @@
 ---
-title: Soil Contamination in St. John the Baptist Parish
+title: 'Soil Contamination in St. John the Baptist Parish'
 tagnames: csf, community-science-forum, soil-contamination, student-community-science, classroom-community-science, csf18
 author: bhamster
 path: /notes/bhamster/03-02-2023/soil-contamination-in-st-john-the-baptist-parish.md

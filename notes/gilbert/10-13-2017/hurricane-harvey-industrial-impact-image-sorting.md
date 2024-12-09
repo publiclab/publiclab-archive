@@ -1,5 +1,5 @@
 ---
-title: Hurricane Harvey Industrial Impact Image Sorting
+title: 'Hurricane Harvey Industrial Impact Image Sorting'
 tagnames: gulf-coast, image-sorting, hurricane, nas, disaster-response, harvey, hurricanes, replication:14916
 author: gilbert
 path: /notes/gilbert/10-13-2017/hurricane-harvey-industrial-impact-image-sorting.md

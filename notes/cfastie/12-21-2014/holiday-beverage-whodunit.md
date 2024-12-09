@@ -1,5 +1,5 @@
 ---
-title: Holiday Beverage Whodunit
+title: 'Holiday Beverage Whodunit'
 tagnames: near-infrared-camera, nir, holiday, absorption, infragram, barnstar:basic, happy-holidays, seeks:responses, activity:multispectral-imaging
 author: cfastie
 path: /notes/cfastie/12-21-2014/holiday-beverage-whodunit.md

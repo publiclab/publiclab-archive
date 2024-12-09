@@ -1,5 +1,5 @@
 ---
-title: A DIY gas-finding camera?
+title: 'A DIY gas-finding camera?'
 tagnames: thermal-photography, infrared, camera, flir, methane, voc, gasfinder
 author: mathew
 path: /notes/mathew/11-21-2014/a-diy-gas-finding-camera.md

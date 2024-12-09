@@ -1,5 +1,5 @@
 ---
-title: 'Smartphone App for Residential Testing of Formaldehyde' Paper published (Open Access)
+title: ''Smartphone App for Residential Testing of Formaldehyde' Paper published (Open Access)'
 tagnames: air-quality, publication, colorimetric, with:gretchengehrke, indoor-air, smart-form, air-sensors, with:haines241
 author: nshapiro
 path: /notes/nshapiro/02-08-2019/smartphone-app-for-residential-testing-of-formaldehyde-paper-published-open-access.md

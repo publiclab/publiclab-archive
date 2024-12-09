@@ -1,5 +1,5 @@
 ---
-title: The development of stickypad monitoring
+title: 'The development of stickypad monitoring'
 tagnames: air, dust, silica, pm, midwest, particle-monitoring, particulate-monitoring, openair, passive-pm, activity:dust-collection, activity:sticky-pad
 author: mathew
 path: /notes/mathew/06-05-2014/the-development-of-stickypad-monitoring.md

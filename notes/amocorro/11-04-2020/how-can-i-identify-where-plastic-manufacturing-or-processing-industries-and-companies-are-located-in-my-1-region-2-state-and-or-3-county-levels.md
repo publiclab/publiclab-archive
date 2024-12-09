@@ -1,5 +1,5 @@
 ---
-title: How can I identify where plastic manufacturing or processing industries and companies are located in my (1) region, (2) state, and/or (3) at county levels?
+title: 'How can I identify where plastic manufacturing or processing industries and companies are located in my (1) region, (2) state, and/or (3) at county levels?'
 tagnames: epa, question:general, general, location:blurred, place:united-states, microplastics, lon:-122, lat:47, zoom:6, zoom:9, zoom:8, plastic-pollution, nurdles, lat:47.25744, lon:-122.388858, washington, pacific-northwest, tacoma, enviro-mapper, naics-codes
 author: amocorro
 path: /notes/amocorro/11-04-2020/how-can-i-identify-where-plastic-manufacturing-or-processing-industries-and-companies-are-located-in-my-1-region-2-state-and-or-3-county-levels.md

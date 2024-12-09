@@ -1,5 +1,5 @@
 ---
-title: The Separation Essence Of Different Chromatography
+title: 'The Separation Essence Of Different Chromatography'
 tagnames: lat:34.341574, lon:108.93977
 author: c329163204
 path: /notes/c329163204/05-23-2019/the-separation-essence-of-different-chromatography.md

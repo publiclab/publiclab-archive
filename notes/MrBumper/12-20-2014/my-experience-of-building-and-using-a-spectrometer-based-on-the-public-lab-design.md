@@ -1,5 +1,5 @@
 ---
-title: My experience of building and using a spectrometer based on the Public Lab design
+title: 'My experience of building and using a spectrometer based on the Public Lab design'
 tagnames: desktop-spectrometry-kit, first-time-poster
 author: MrBumper
 path: /notes/MrBumper/12-20-2014/my-experience-of-building-and-using-a-spectrometer-based-on-the-public-lab-design.md

@@ -1,5 +1,5 @@
 ---
-title: promos
+title: 'promos'
 tagnames: 
 author: natalie
 path: /wiki/promos.md

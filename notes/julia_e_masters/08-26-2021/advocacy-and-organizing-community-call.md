@@ -1,5 +1,5 @@
 ---
-title: Advocacy and Organizing Community Call
+title: 'Advocacy and Organizing Community Call'
 tagnames: event, organizing, climate-change, event:rsvp, advocacy, campaign, community-organizing, opendata, research-curation-fellows-event, date:09-10-2021, rsvp:julia_e_masters
 author: julia_e_masters
 path: /notes/julia_e_masters/08-26-2021/advocacy-and-organizing-community-call.md

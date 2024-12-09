@@ -1,5 +1,5 @@
 ---
-title: Workshop: spec-tacular
+title: 'Workshop: spec-tacular'
 tagnames: new-york-city, spectrometer, oil, fluorescence, event, oil-testing-kit
 author: liz
 path: /notes/liz/03-11-2014/workshop-spec-tacular.md

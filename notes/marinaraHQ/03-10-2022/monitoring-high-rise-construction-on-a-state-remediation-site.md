@@ -1,5 +1,5 @@
 ---
-title: Monitoring High-Rise Construction on a State Remediation Site
+title: 'Monitoring High-Rise Construction on a State Remediation Site'
 tagnames: soil, water, pcb, construction, northeast, lead, first-time-poster, run-off, soil-contamination, zoom:15, lat:42.45568220597949, lon:-76.49245179811261, soil-monitoring, tce, ithaca, cornell
 author: marinaraHQ
 path: /notes/marinaraHQ/03-10-2022/monitoring-high-rise-construction-on-a-state-remediation-site.md

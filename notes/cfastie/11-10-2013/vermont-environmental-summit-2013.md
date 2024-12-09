@@ -1,5 +1,5 @@
 ---
-title: Vermont Environmental Summit 2013
+title: 'Vermont Environmental Summit 2013'
 tagnames: balloon-mapping, near-infrared-camera, spectrometer, kite-mapping, vermont, conferences, events, presentations, tac, events:vermont, presentation, response:4950
 author: cfastie
 path: /notes/cfastie/11-10-2013/vermont-environmental-summit-2013.md

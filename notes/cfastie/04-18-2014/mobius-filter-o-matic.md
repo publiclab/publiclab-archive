@@ -1,5 +1,5 @@
 ---
-title: Mobius Filter-O-Matic
+title: 'Mobius Filter-O-Matic'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, 3d-printing, infragram-sandbox, mobius-actioncam, response:10324, mobius, infragram-point-shoot, upgrade:multispectral-imaging, upgrade:mobius, upgrade:infragram-point-shoot, upgrade:mobius-action-cam
 author: cfastie
 path: /notes/cfastie/04-18-2014/mobius-filter-o-matic.md

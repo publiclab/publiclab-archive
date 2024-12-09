@@ -1,5 +1,5 @@
 ---
-title: Spherical KAP over Cocodrie
+title: 'Spherical KAP over Cocodrie'
 tagnames: kite-mapping, image-stitching, kap, cocodrie, barnraising, lumcon, barnstar:photo-documentation, barnraising2014
 author: cfastie
 path: /notes/cfastie/11-22-2014/spherical-kap-over-cocodrie.md

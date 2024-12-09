@@ -1,5 +1,5 @@
 ---
-title: Coqui 文件
+title: 'Coqui 文件'
 tagnames: workshop, water-quality, conductivity, barnstar:basic, coqui, chinese, activity:coqui, sound, lang:zh, pin:activity:coqui, zoom:16, lang:chinese, wateria, lat:25.040486, lon:121.53805, conductivity-sensor
 author: imvec
 path: /notes/imvec/12-14-2020/coqui.md

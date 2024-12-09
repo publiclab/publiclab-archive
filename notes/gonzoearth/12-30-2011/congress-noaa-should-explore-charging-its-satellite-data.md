@@ -1,5 +1,5 @@
 ---
-title: Congress: NOAA Should Explore Charging for its Satellite Data
+title: 'Congress: NOAA Should Explore Charging for its Satellite Data'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/12-30-2011/congress-noaa-should-explore-charging-its-satellite-data.md

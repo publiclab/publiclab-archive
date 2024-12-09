@@ -1,5 +1,5 @@
 ---
-title: software-outreachy
+title: 'software-outreachy'
 tagnames: redirect:software-outreach
 author: warren
 path: /wiki/software-outreachy.md

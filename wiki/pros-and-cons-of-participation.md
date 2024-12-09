@@ -1,5 +1,5 @@
 ---
-title: pros and cons of participation
+title: 'pros and cons of participation'
 tagnames: top-secret
 author: donblair
 path: /wiki/pros-and-cons-of-participation.md

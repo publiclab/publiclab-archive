@@ -1,5 +1,5 @@
 ---
-title: Countertop Spectrometer
+title: 'Countertop Spectrometer'
 tagnames: spectrometer, countertop-spectrometer
 author: warren
 path: /wiki/countertop-spectrometer.md

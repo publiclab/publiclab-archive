@@ -1,5 +1,5 @@
 ---
-title: Spectral Range of Lens? 
+title: 'Spectral Range of Lens? '
 tagnames: nir, infrared, lens, question:near-infrared-camera, answered, question:infrared, question:multispectral-imaging, question:nir, multispectral-imaging
 author: RexToother
 path: /notes/RexToother/04-02-2018/spectral-range-of-lens.md

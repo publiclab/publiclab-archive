@@ -1,5 +1,5 @@
 ---
-title: makespec
+title: 'makespec'
 tagnames: redirect:papercraft-spectrometer
 author: warren
 path: /wiki/makespec.md

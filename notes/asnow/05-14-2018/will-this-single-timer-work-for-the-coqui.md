@@ -1,5 +1,5 @@
 ---
-title: Will this single timer work for the coqui?
+title: 'Will this single timer work for the coqui?'
 tagnames: coqui, question:coqui
 author: asnow
 path: /notes/asnow/05-14-2018/will-this-single-timer-work-for-the-coqui.md

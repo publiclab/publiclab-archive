@@ -1,5 +1,5 @@
 ---
-title: Updates needed to DustDuino DIY wiki
+title: 'Updates needed to DustDuino DIY wiki'
 tagnames: question:dustduino
 author: apacheguy
 path: /notes/apacheguy/04-27-2016/updates-needed-to-dustduino-diy-wiki.md

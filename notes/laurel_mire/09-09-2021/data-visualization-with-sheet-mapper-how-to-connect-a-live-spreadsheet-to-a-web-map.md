@@ -1,5 +1,5 @@
 ---
-title: Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map
+title: 'Data Visualization with Sheet Mapper: How to connect a live spreadsheet to a web map'
 tagnames: mapping, mapbox, web-mapping, data-visualization, research-curation-fellows, presenting-data, activity:presenting-data, air-quality-data, data-visualization-tool, activity:air-quality-data
 author: laurel_mire
 path: /notes/laurel_mire/09-09-2021/data-visualization-with-sheet-mapper-how-to-connect-a-live-spreadsheet-to-a-web-map.md

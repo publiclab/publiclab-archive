@@ -1,5 +1,5 @@
 ---
-title: Shoreline Conservation & Restoration
+title: 'Shoreline Conservation & Restoration'
 tagnames: water-quality-monitoring, water-quality, feedlots, shoreline-flora, shoreline-gravel
 author: gilbert
 path: /notes/gilbert/10-11-2017/shoreline-conservation-restoration.md

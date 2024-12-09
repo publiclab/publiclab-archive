@@ -1,5 +1,5 @@
 ---
-title: Replicating a Passive Dust Monitor & Method
+title: 'Replicating a Passive Dust Monitor & Method'
 tagnames: sensing, wisconsin, air-quality, silica, frac-sand, pm, particle-sensing, particle-monitoring, particle, fracsand, passive-particle-monitors, passive-pm, parent:frac-sand, seeks:replications, category:build, difficulty:hard
 author: mathew
 path: /notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method.md

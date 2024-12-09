@@ -1,5 +1,5 @@
 ---
-title: Infragrams over NYC: DOE Fund
+title: 'Infragrams over NYC: DOE Fund'
 tagnames: new-york-city, polemapping, 5bf, five-borough-farm, pole-photography, pole, pole-mapping
 author: liz
 path: /notes/liz/07-05-2013/infragrams-over-nyc-doe-fund.md

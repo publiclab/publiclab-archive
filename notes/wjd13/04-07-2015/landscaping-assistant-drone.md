@@ -1,5 +1,5 @@
 ---
-title: Landscaping Assistant Drone
+title: 'Landscaping Assistant Drone'
 tagnames: 
 author: wjd13
 path: /notes/wjd13/04-07-2015/landscaping-assistant-drone.md

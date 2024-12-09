@@ -1,5 +1,5 @@
 ---
-title: Project planning and community thriving
+title: 'Project planning and community thriving'
 tagnames: organizing, communityengagement, local-projects, community-building
 author: timsan
 path: /notes/timsan/01-13-2016/project-planning-and-community-thriving.md

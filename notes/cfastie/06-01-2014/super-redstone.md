@@ -1,5 +1,5 @@
 ---
-title: Super Redstone
+title: 'Super Redstone'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, infragram, 3d-printing, super-red, logging, gigapan, makerbot, response:10230, northeast, redstone
 author: cfastie
 path: /notes/cfastie/06-01-2014/super-redstone.md

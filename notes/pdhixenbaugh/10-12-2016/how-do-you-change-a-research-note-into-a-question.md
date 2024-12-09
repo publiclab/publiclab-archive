@@ -1,5 +1,5 @@
 ---
-title: How do you change a research note into a question?
+title: 'How do you change a research note into a question?'
 tagnames: website, question, answered, meta-tag, question:question
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-12-2016/how-do-you-change-a-research-note-into-a-question.md

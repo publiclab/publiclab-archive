@@ -1,5 +1,5 @@
 ---
-title: Final day of infrared photography at Parts & Crafts
+title: 'Final day of infrared photography at Parts & Crafts'
 tagnames: near-infrared-camera, nrg, ndvi, partsandcrafts, parts-and-crafts, keychain-cameras, pole-photography
 author: warren
 path: /notes/warren/4-20-2011/final-day-infrared-photography-parts-crafts.md

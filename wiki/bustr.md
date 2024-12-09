@@ -1,5 +1,5 @@
 ---
-title: bustr
+title: 'bustr'
 tagnames: 
 author: donblair
 path: /wiki/bustr.md

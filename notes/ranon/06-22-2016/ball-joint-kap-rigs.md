@@ -1,5 +1,5 @@
 ---
-title: Ball Joint KAP Rigs
+title: 'Ball Joint KAP Rigs'
 tagnames: balloon-mapping, kite-aerial-photography, aerial-photography, diy-kite, kap, photo-rig, aerial-mapping, aerial-photos, kap-rigs, activity:photo-rig
 author: ranon
 path: /notes/ranon/06-22-2016/ball-joint-kap-rigs.md

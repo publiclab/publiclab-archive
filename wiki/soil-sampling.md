@@ -1,5 +1,5 @@
 ---
-title: Soil Sampling
+title: 'Soil Sampling'
 tagnames: soil, mining, sampling, tool, land-use, soil-testing, industry, method, chemicals, oil-and-gas, parent:sampling, sample-collection, soil-sampling, parent:soil, pin:industry, soil-sampling-main
 author: warren
 path: /wiki/soil-sampling.md

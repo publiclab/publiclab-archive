@@ -1,5 +1,5 @@
 ---
-title: 2015 KAP Mapping Season in Midcoast Maine!
+title: '2015 KAP Mapping Season in Midcoast Maine!'
 tagnames: kite-mapping, grassrootsmapping, mapknitter, citizen-science, kap, maine, invasives, invasive-species, civic-hacking, response:10615
 author: ajawitz
 path: /notes/ajawitz/06-07-2015/2015-kap-mapping-season-in-midcoast-maine.md

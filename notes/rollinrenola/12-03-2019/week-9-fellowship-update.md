@@ -1,5 +1,5 @@
 ---
-title: Week 9 Fellowship Update
+title: 'Week 9 Fellowship Update'
 tagnames: oil-and-gas-water-trio
 author: rollinrenola
 path: /notes/rollinrenola/12-03-2019/week-9-fellowship-update.md

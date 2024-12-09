@@ -1,5 +1,5 @@
 ---
-title: Super video of thermal infrared spectroscopy
+title: 'Super video of thermal infrared spectroscopy'
 tagnames: spectrometer, mid-infrared
 author: warren
 path: /notes/warren/9-24-2012/super-video-thermal-infrared-spectroscopy.md

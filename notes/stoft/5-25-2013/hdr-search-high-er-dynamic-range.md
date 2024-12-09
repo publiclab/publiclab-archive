@@ -1,5 +1,5 @@
 ---
-title: HDR: In search of High-er Dynamic Range
+title: 'HDR: In search of High-er Dynamic Range'
 tagnames: spectrometer, calibration, hdr, attenuation
 author: stoft
 path: /notes/stoft/5-25-2013/hdr-search-high-er-dynamic-range.md

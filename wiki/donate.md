@@ -1,5 +1,5 @@
 ---
-title: Donate
+title: 'Donate'
 tagnames: donation, sidebar:none, donations
 author: warren
 path: /wiki/donate.md

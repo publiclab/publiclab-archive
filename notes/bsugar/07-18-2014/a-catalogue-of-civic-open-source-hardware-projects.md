@@ -1,5 +1,5 @@
 ---
-title: A Catalogue of Civic Open Hardware Projects
+title: 'A Catalogue of Civic Open Hardware Projects'
 tagnames: open-hardware, catalogue, first-time-poster
 author: bsugar
 path: /notes/bsugar/07-18-2014/a-catalogue-of-civic-open-source-hardware-projects.md

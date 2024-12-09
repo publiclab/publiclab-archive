@@ -1,5 +1,5 @@
 ---
-title: The Colors Mountain
+title: 'The Colors Mountain'
 tagnames: balloon-mapping, spain, lat:39.895, lon:-4.024, grassroots, documentary
 author: imvec
 path: /notes/imvec/05-08-2017/the-colors-mountain.md

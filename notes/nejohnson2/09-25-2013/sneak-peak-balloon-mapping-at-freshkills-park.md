@@ -1,5 +1,5 @@
 ---
-title: Sneak Peak Balloon Mapping at Freshkills Park
+title: 'Sneak Peak Balloon Mapping at Freshkills Park'
 tagnames: new-york-city, event, fresh-kills, staten-island
 author: nicholas
 path: /notes/nejohnson2/09-25-2013/sneak-peak-balloon-mapping-at-freshkills-park.md

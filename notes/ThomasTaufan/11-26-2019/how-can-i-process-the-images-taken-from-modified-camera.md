@@ -1,5 +1,5 @@
 ---
-title: How can I process the images taken from modified camera?
+title: 'How can I process the images taken from modified camera?'
 tagnames: ndvi, infrared, webcam, imagery, aerial, question:general, general, first-time-poster
 author: ThomasTaufan
 path: /notes/ThomasTaufan/11-26-2019/how-can-i-process-the-images-taken-from-modified-camera.md

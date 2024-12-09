@@ -1,5 +1,5 @@
 ---
-title: Map printing
+title: 'Map printing'
 tagnames: 
 author: warren
 path: /wiki/map-printing.md

@@ -1,5 +1,5 @@
 ---
-title: Madeira
+title: 'Madeira'
 tagnames: wetlands, event, soil, silica, eu, challenges, agricultural, fertilizer, microplastics, madeira, portugal
 author: warren
 path: /wiki/madeira.md

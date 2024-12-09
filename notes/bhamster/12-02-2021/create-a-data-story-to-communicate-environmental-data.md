@@ -1,5 +1,5 @@
 ---
-title: Create a “data story” to communicate environmental data
+title: 'Create a “data story” to communicate environmental data'
 tagnames: storytelling, environmental-data, presenting-data, air-quality-data, data-storytelling, with:renee, data-story, activity:environmental-data, activity:storytelling, activity:air-quality-data
 author: bhamster
 path: /notes/bhamster/12-02-2021/create-a-data-story-to-communicate-environmental-data.md

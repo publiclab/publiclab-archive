@@ -1,5 +1,5 @@
 ---
-title: Event Mar. 31: Wrapping up a topic review on mine reclamation 
+title: 'Event Mar. 31: Wrapping up a topic review on mine reclamation '
 tagnames: event, mining, event:rsvp, reviews, research-area-review, research-curation-fellows-event, reclamation, with:laurel_mire, mine-reclamation, land-rehabilitation
 author: bhamster
 path: /notes/bhamster/03-18-2022/event-mar-31-wrapping-up-a-topic-review-on-mine-reclamation.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Bennington College CAPA
+title: 'MapKnitter map of Bennington College CAPA'
 tagnames: mapknitter, lat:42.9212476506, lon:-73.2365611196, first-time-poster
 author: araaman
 path: /notes/araaman/11-28-2017/mapknitter-map-of-bennington-college-capa.md

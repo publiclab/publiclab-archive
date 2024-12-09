@@ -1,5 +1,5 @@
 ---
-title: Question infragram kit
+title: 'Question infragram kit'
 tagnames: infragram, question:infragram, infragram-webcam, question:infragram-webcam, question:multispectral-imaging, multispectral-imaging, question:infragram-point-shoot, first-time-poster
 author: marfisistemidroni
 path: /notes/marfisistemidroni/11-03-2016/question-infragram-kit.md

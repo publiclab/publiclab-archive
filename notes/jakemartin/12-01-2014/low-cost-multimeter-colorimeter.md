@@ -1,5 +1,5 @@
 ---
-title: Low-cost multimeter colorimeter
+title: 'Low-cost multimeter colorimeter'
 tagnames: spectrometer, spectrophotometer, quantitative, parent:spectrometer, colorimetry, multimeter, first-time-poster
 author: jakemartin
 path: /notes/jakemartin/12-01-2014/low-cost-multimeter-colorimeter.md

@@ -1,5 +1,5 @@
 ---
-title: Run infragram offiline (whitout online analysis)
+title: 'Run infragram offiline (whitout online analysis)'
 tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster
 author: elucasfreitas
 path: /notes/elucasfreitas/06-19-2022/run-infragram-offiline-whitout-online-analysis.md

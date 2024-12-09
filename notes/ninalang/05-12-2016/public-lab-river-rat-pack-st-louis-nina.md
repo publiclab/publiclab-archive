@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack-St. Louis-Nina
+title: 'Public Lab River Rat Pack-St. Louis-Nina'
 tagnames: mid-west, publiclabriverratpack, stlouis
 author: ninalang
 path: /notes/ninalang/05-12-2016/public-lab-river-rat-pack-st-louis-nina.md

@@ -1,5 +1,5 @@
 ---
-title: El Laboratorio Publico
+title: 'El Laboratorio Publico'
 tagnames: lang:es
 author: warren
 path: /wiki/es.md

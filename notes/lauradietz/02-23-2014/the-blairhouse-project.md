@@ -1,5 +1,5 @@
 ---
-title: The Blair House Project
+title: 'The Blair House Project'
 tagnames: vermont, events:vermont, riffle, snowfest, blair-house, quinzee, snowfest2014, riffle-examples
 author: lauradietz
 path: /notes/lauradietz/02-23-2014/the-blairhouse-project.md

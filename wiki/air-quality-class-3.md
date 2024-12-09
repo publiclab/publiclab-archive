@@ -1,5 +1,5 @@
 ---
-title: Air Quality Class 3
+title: 'Air Quality Class 3'
 tagnames: 
 author: liz
 path: /wiki/air-quality-class-3.md

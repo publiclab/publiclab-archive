@@ -1,5 +1,5 @@
 ---
-title: Spectrometer materials list
+title: 'Spectrometer materials list'
 tagnames: spectrometer, kickstarter, materials
 author: warren
 path: /wiki/spectrometer-materials.md

@@ -1,5 +1,5 @@
 ---
-title: Taking Action: Odors in Court
+title: 'Taking Action: Odors in Court'
 tagnames: with:bronwen, odor, odor-logging, csf, csf16
 author: joyofsoy
 path: /notes/joyofsoy/06-25-2019/taking-action-odors-in-court.md

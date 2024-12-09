@@ -1,5 +1,5 @@
 ---
-title: Spectral Irradiance Study Section ll using The DH4.0v4 Spectrometer
+title: 'Spectral Irradiance Study Section ll using The DH4.0v4 Spectrometer'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/09-03-2016/spectral-irradiance-study-section-ll-using-the-dh4-0v4-spectrometer.md

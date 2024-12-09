@@ -1,5 +1,5 @@
 ---
-title: Thinking about local level advocacy
+title: 'Thinking about local level advocacy'
 tagnames: community, organizing, blog, advocacy, community-organizing, local, ordinances, pin:activity:advocacy
 author: stevie
 path: /notes/stevie/03-20-2017/thinking-about-local-level-advocacy.md

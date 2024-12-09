@@ -1,5 +1,5 @@
 ---
-title: Legal advice site challenged for providing legal advice without a license
+title: 'Legal advice site challenged for providing legal advice without a license'
 tagnames: 
 author: warren
 path: /notes/warren/6-30-2011/legal-advice-site-challenged-providing-legal-advice-without-license.md

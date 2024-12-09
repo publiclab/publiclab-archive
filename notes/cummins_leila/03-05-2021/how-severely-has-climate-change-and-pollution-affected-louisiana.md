@@ -1,5 +1,5 @@
 ---
-title: How severely has climate change and pollution affected Louisiana?
+title: 'How severely has climate change and pollution affected Louisiana?'
 tagnames: louisiana, pollution, water, sea-level-rise, quality, climate-change, climate, flooding, question:general, general, change, first-time-poster
 author: cummins_leila
 path: /notes/cummins_leila/03-05-2021/how-severely-has-climate-change-and-pollution-affected-louisiana.md

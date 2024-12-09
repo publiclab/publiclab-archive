@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: PublicLab.org UI Improvements
+title: 'Outreachy proposal: PublicLab.org UI Improvements'
 tagnames: ui, outreachy, first-time-poster, outreachy-2019, outreachy-2019-proposals, lat:-1.406108, lon:36.914062
 author: Getty
 path: /notes/Getty/03-26-2019/outreachy-proposal-publiclab-org-ui-improvements.md

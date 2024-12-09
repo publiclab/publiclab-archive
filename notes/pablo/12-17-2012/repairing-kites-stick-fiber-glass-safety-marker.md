@@ -1,5 +1,5 @@
 ---
-title: Repairing a kite's stick with a fiber glass safety marker
+title: 'Repairing a kite's stick with a fiber glass safety marker'
 tagnames: kite-mapping, spain, diy-kite, kite-repair, repair, diy-kites, kite-making, activity:kite-making, fiberglass, spars, spar, first-time-poster
 author: pablo
 path: /notes/pablo/12-17-2012/repairing-kites-stick-fiber-glass-safety-marker.md

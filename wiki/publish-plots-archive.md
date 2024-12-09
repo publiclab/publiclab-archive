@@ -1,5 +1,5 @@
 ---
-title: Publish in the PLOTS archive
+title: 'Publish in the PLOTS archive'
 tagnames: balloon-mapping, kite-mapping
 author: warren
 path: /wiki/publish-plots-archive.md

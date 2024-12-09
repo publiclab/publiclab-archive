@@ -1,5 +1,5 @@
 ---
-title: NRG image of Lima from balloon
+title: 'NRG image of Lima from balloon'
 tagnames: lima, balloon-mapping, near-infrared-camera, peru, nrg, morflex
 author: warren
 path: /notes/warren/1-27-2011/nrg-image-lima-balloon.md

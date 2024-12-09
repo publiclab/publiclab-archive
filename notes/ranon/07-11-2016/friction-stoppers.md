@@ -1,5 +1,5 @@
 ---
-title: Friction Stoppers
+title: 'Friction Stoppers'
 tagnames: balloon-mapping, kite-aerial-photography, kap, photo-rig, kitemapping, kap-rigs, stoppers, reconfigurable-rig
 author: ranon
 path: /notes/ranon/07-11-2016/friction-stoppers.md

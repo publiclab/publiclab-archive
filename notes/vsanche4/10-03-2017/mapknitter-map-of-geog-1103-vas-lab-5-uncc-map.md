@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Geog 1103-VAS- Lab 5- Uncc Map
+title: 'MapKnitter map of Geog 1103-VAS- Lab 5- Uncc Map'
 tagnames: balloon-mapping, mapknitter, lat:35.3070907, lon:-80.7300169, uncc
 author: vsanche4
 path: /notes/vsanche4/10-03-2017/mapknitter-map-of-geog-1103-vas-lab-5-uncc-map.md

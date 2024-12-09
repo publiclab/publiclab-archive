@@ -1,5 +1,5 @@
 ---
-title: Change the white balance (or other configuration) on a Mobius camera
+title: 'Change the white balance (or other configuration) on a Mobius camera'
 tagnames: ndvi, infrared, white-balance, infragram, mobius-actioncam, mobius, infragram-point-shoot, mobius-action-cam, multispectral-imaging, activity:mobius, activity:mobius-action-cam, activity:infragram-point-shoot, near-infrared-photography, infragram-white-balance, activity:white-balance
 author: warren
 path: /notes/warren/10-23-2017/change-the-white-balance-or-other-configuration-on-a-mobius-camera.md

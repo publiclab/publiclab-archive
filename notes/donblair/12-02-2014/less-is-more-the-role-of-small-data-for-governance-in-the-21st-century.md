@@ -1,5 +1,5 @@
 ---
-title: "Less is more: The Role of Small Data in 21st Century Governance."
+title: '"Less is more: The Role of Small Data in 21st Century Governance."'
 tagnames: small-data, with:warren, with:kanarinka, philosophy
 author: donblair
 path: /notes/donblair/12-02-2014/less-is-more-the-role-of-small-data-for-governance-in-the-21st-century.md

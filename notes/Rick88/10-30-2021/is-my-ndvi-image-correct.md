@@ -1,5 +1,5 @@
 ---
-title: Is my NDVI image correct?
+title: 'Is my NDVI image correct?'
 tagnames: ndvi, question:ndvi, first-time-poster
 author: Rick88
 path: /notes/Rick88/10-30-2021/is-my-ndvi-image-correct.md

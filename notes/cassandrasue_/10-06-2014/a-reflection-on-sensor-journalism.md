@@ -1,5 +1,5 @@
 ---
-title: A Reflection on Sensor Journalism
+title: 'A Reflection on Sensor Journalism'
 tagnames: sensor-journalism
 author: cassandrasue_
 path: /notes/cassandrasue_/10-06-2014/a-reflection-on-sensor-journalism.md

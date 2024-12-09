@@ -1,5 +1,5 @@
 ---
-title: NIR cameras and color histograms: what information is really there?
+title: 'NIR cameras and color histograms: what information is really there?'
 tagnames: near-infrared-camera, infrared, infragram, infrablue, histogram, response:8190, histograms
 author: ttaylor
 path: /notes/ttaylor/03-23-2014/nir-cameras-and-color-histograms-what-information-is-really-there.md

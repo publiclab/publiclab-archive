@@ -1,5 +1,5 @@
 ---
-title: The Nitrogen Cycle Is Essential For Life On Earth
+title: 'The Nitrogen Cycle Is Essential For Life On Earth'
 tagnames: lat:22, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/10-13-2022/the-nitrogen-cycle-is-essential-for-life-on-earth.md

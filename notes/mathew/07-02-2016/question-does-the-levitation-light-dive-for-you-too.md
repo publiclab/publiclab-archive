@@ -1,5 +1,5 @@
 ---
-title: Question: Does the Levitation Light dive for you too?
+title: 'Question: Does the Levitation Light dive for you too?'
 tagnames: kite-mapping, kap, kites, levitation-delta, question:kites
 author: mathew
 path: /notes/mathew/07-02-2016/question-does-the-levitation-light-dive-for-you-too.md

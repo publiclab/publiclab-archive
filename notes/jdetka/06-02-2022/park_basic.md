@@ -1,5 +1,5 @@
 ---
-title: Park_Basic
+title: 'Park_Basic'
 tagnames: infragram, multispectral-imaging, first-time-poster, infragram-upload, test_image
 author: jdetka
 path: /notes/jdetka/06-02-2022/park_basic.md

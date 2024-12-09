@@ -1,5 +1,5 @@
 ---
-title: Call for Summer of Code 2018 proposals!
+title: 'Call for Summer of Code 2018 proposals!'
 tagnames: website, software, gsoc, blog, developers, code, wwg, software-outreach, rgsoc, soc, response:13975, response:14162, gsoc-2018, soc-2018, rgsoc-2018, call-for-proposals
 author: warren
 path: /notes/warren/02-15-2018/call-for-summer-of-code-2018-proposals.md

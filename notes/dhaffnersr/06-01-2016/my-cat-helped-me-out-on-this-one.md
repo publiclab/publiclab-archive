@@ -1,5 +1,5 @@
 ---
-title: My cat helped me out on this one!
+title: 'My cat helped me out on this one!'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/06-01-2016/my-cat-helped-me-out-on-this-one.md

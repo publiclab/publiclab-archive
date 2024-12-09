@@ -1,5 +1,5 @@
 ---
-title: Mission
+title: 'Mission'
 tagnames: mission
 author: warren
 path: /wiki/mission.md

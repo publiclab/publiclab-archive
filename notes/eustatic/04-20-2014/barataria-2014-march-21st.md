@@ -1,5 +1,5 @@
 ---
-title: Barataria 2014: IV March 21st
+title: 'Barataria 2014: IV March 21st'
 tagnames: gulf-coast, balloon-mapping, barataria-bay, wetlands, louisiana, wetland, barataria, bp, patagonia, response:10045, lat:29.449762, lon:-89.878292, place:barataria-bay
 author: eustatic
 path: /04-20-2014/barataria-2014-march-21st.md

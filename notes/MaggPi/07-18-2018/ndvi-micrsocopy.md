@@ -1,5 +1,5 @@
 ---
-title: NDVI microscopy
+title: 'NDVI microscopy'
 tagnames: ndvi, raspberry-pi, barnstar:basic, microscopy, gsoc-2018, image-sequencer
 author: MaggPi
 path: /notes/MaggPi/07-18-2018/ndvi-micrsocopy.md

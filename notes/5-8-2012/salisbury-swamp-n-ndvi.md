@@ -1,5 +1,5 @@
 ---
-title: salisbury-swamp-n--ndvi
+title: 'salisbury-swamp-n--ndvi'
 tagnames: 
 author: 
 path: /notes/5-8-2012/salisbury-swamp-n-ndvi.md

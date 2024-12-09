@@ -1,5 +1,5 @@
 ---
-title: What experiences do you know of participatory design of community science apps? 
+title: 'What experiences do you know of participatory design of community science apps? '
 tagnames: question:general, general, community-science, technology-design
 author: aliciapaz
 path: /notes/aliciapaz/06-14-2021/what-experiences-do-you-know-of-participatory-design-of-community-science-apps.md

@@ -1,5 +1,5 @@
 ---
-title: A Critical Look At Sensor Journalism: Could it Change the Landscape of Reporting?
+title: 'A Critical Look At Sensor Journalism: Could it Change the Landscape of Reporting?'
 tagnames: sensor-journalism, first-time-poster
 author: mehaky
 path: /notes/mehaky/02-22-2015/a-critical-look-at-sensor-journalism-could-it-change-the-landscape-of-reporting.md

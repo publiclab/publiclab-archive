@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST aerials
+title: 'LEAFFEST aerials'
 tagnames: near-infrared-camera, ndvi, vermont, infrared, uav, leaffest, event, infragram, uav-mapping, super-red, gigapan, northeast, leaffest2014, response:11152
 author: cfastie
 path: /notes/cfastie/09-19-2014/leaffest-aerials.md

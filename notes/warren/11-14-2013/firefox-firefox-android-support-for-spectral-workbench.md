@@ -1,5 +1,5 @@
 ---
-title: Firefox/Firefox-Android support for Spectral Workbench!
+title: 'Firefox/Firefox-Android support for Spectral Workbench!'
 tagnames: android, spectralworkbench, firefox
 author: warren
 path: /notes/warren/11-14-2013/firefox-firefox-android-support-for-spectral-workbench.md

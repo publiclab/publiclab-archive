@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Little Susitna River Campground
+title: 'MapKnitter map of Little Susitna River Campground'
 tagnames: mapknitter, lat:61.6297743802, lon:-149.7969961166
 author: monksown
 path: /notes/monksown/01-12-2018/mapknitter-map-of-little-susitna-river-campground.md

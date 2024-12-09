@@ -1,5 +1,5 @@
 ---
-title: air quality egg
+title: 'air quality egg'
 tagnames: new-york-city, chcs
 author: Samuel13
 path: /notes/samuel13/2-18-2013/air-quality-egg-0.md

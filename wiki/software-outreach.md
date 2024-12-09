@@ -1,5 +1,5 @@
 ---
-title: Software Outreach
+title: 'Software Outreach'
 tagnames: software, outreach, gsoc, web, wwg, first-timers-only, software-outreach, soc
 author: warren
 path: /wiki/software-outreach.md

@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (485 Plainfield Street)
+title: 'Art in Ruins (485 Plainfield Street)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.81329, lon:-71.455078, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-485-plainfield-street.md

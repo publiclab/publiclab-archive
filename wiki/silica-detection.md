@@ -1,5 +1,5 @@
 ---
-title: Silica detection
+title: 'Silica detection'
 tagnames: 
 author: warren
 path: /wiki/silica-detection.md

@@ -1,5 +1,5 @@
 ---
-title: Assignment: reflections on sensor journalism
+title: 'Assignment: reflections on sensor journalism'
 tagnames: sensor-journalism, seeks:responses
 author: kanarinka
 path: /notes/kanarinka/02-24-2016/assignment-reflections-on-sensor-journalism.md

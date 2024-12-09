@@ -1,5 +1,5 @@
 ---
-title: RGSoC proposal: Entrepreneurial Network And Enhanced UX
+title: 'RGSoC proposal: Entrepreneurial Network And Enhanced UX'
 tagnames: software, rgsoc, soc, response:13975, soc-2018, rgsoc-2018, soc-2018-proposals
 author: SrishtyMittal
 path: /notes/SrishtyMittal/03-14-2018/rgsoc-proposal-entrepreneurial-network-and-enhanced-ux.md

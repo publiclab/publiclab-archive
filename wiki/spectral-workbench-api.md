@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench API
+title: 'Spectral Workbench API'
 tagnames: spectrometer, spectralworkbench
 author: warren
 path: /wiki/spectral-workbench-api.md

@@ -1,5 +1,5 @@
 ---
-title: RGSoC proposal: Upgrade to Rails 5 
+title: 'RGSoC proposal: Upgrade to Rails 5 '
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals, first-time-poster
 author: cess
 path: /notes/cess/02-27-2018/rgsoc-proposal-upgrade-to-rails-5-email-integration.md

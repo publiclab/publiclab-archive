@@ -1,5 +1,5 @@
 ---
-title: Kite panoramas at 360Cities
+title: 'Kite panoramas at 360Cities'
 tagnames: kite-aerial-photography, alaska, kap, autokap, kaptery, saturnv, skyshield, half-spherical, response:12058
 author: cfastie
 path: /notes/cfastie/07-24-2015/spherical-panoramas-at-360cities.md

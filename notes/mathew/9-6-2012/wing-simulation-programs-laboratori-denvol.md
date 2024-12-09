@@ -1,5 +1,5 @@
 ---
-title: Wing Simulation Programs from Laboratori d'Envol
+title: 'Wing Simulation Programs from Laboratori d'Envol'
 tagnames: kite-mapping, diy-kite
 author: mathew
 path: /notes/mathew/9-6-2012/wing-simulation-programs-laboratori-denvol.md

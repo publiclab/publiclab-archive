@@ -1,5 +1,5 @@
 ---
-title: oil
+title: 'oil'
 tagnames: redirect:oil-and-gas
 author: liz
 path: /wiki/oil.md

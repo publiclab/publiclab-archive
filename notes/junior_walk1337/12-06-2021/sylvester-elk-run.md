@@ -1,5 +1,5 @@
 ---
-title: Sylvester/Elk Run
+title: 'Sylvester/Elk Run'
 tagnames: drones, west-virginia, water-quality, coal, zoom:7, lat:38.010383, lon:-81.557613
 author: junior_walk1337
 path: /notes/junior_walk1337/12-06-2021/sylvester-elk-run.md

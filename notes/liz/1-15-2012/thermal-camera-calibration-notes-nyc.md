@@ -1,5 +1,5 @@
 ---
-title: Thermal Imaging Calibration notes for NYC
+title: 'Thermal Imaging Calibration notes for NYC'
 tagnames: 
 author: liz
 path: /notes/liz/1-15-2012/thermal-camera-calibration-notes-nyc.md

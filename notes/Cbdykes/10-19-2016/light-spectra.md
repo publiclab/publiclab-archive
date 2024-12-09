@@ -1,5 +1,5 @@
 ---
-title: Light spectra 
+title: 'Light spectra '
 tagnames: hidden:response, response:13586
 author: Cbdykes
 path: /notes/Cbdykes/10-19-2016/light-spectra.md

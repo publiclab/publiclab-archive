@@ -1,5 +1,5 @@
 ---
-title: IR+VS TIMELAPSE
+title: 'IR+VS TIMELAPSE'
 tagnames: near-infrared-camera, time-lapse, timelapse, activity:timelapse
 author: hunter
 path: /notes/hunter/7-19-2012/irvs-timelapse.md

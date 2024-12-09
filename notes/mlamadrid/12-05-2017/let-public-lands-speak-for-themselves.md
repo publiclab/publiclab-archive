@@ -1,5 +1,5 @@
 ---
-title: Let public lands speak for themselves
+title: 'Let public lands speak for themselves'
 tagnames: environment, land-use, governance
 author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/let-public-lands-speak-for-themselves.md

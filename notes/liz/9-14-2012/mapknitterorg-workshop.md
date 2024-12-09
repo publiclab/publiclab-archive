@@ -1,5 +1,5 @@
 ---
-title: MapKnitter.org workshop
+title: 'MapKnitter.org workshop'
 tagnames: balloon-mapping, mapknitter, events, oyster-reef, event
 author: liz
 path: /notes/liz/9-14-2012/mapknitterorg-workshop.md

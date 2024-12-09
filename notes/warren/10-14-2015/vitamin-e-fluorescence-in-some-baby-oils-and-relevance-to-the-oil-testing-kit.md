@@ -1,5 +1,5 @@
 ---
-title: Vitamin E fluorescence in some baby oils -- and relevance to the Oil Testing Kit
+title: 'Vitamin E fluorescence in some baby oils -- and relevance to the Oil Testing Kit'
 tagnames: spectrometer, leaffest, fluorescence, solvent, oil-testing-kit, leaffest2015, baby-oil, false-positive, response:9826, spectrometry-sampling
 author: warren
 path: /notes/warren/10-14-2015/vitamin-e-fluorescence-in-some-baby-oils-and-relevance-to-the-oil-testing-kit.md

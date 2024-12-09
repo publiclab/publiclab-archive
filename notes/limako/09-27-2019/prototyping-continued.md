@@ -1,5 +1,5 @@
 ---
-title: Prototyping Continued
+title: 'Prototyping Continued'
 tagnames: arduino, education, raspberry-pi, umass-amherst, prototyping
 author: limako
 path: /notes/limako/09-27-2019/prototyping-continued.md

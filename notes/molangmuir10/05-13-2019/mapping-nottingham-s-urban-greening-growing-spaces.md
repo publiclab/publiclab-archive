@@ -1,5 +1,5 @@
 ---
-title: Mapping Nottingham's urban greening & growing spaces (UK)
+title: 'Mapping Nottingham's urban greening & growing spaces (UK)'
 tagnames: balloon-mapping, first-time-poster, community-atlas, lat:52.948637, lon:-1.16455, community-mapping-fellows, urbangreeninginnottingham
 author: molangmuir10
 path: /notes/molangmuir10/05-13-2019/mapping-nottingham-s-urban-greening-growing-spaces.md

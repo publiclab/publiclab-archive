@@ -1,5 +1,5 @@
 ---
-title: Media
+title: 'Media'
 tagnames: media, publiclab, sxswi
 author: warren
 path: /wiki/media.md

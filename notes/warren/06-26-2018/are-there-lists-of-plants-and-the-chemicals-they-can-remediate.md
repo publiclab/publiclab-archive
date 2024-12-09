@@ -1,5 +1,5 @@
 ---
-title: Are there lists of plants and the chemicals they can remediate?
+title: 'Are there lists of plants and the chemicals they can remediate?'
 tagnames: remediation, plants, toxins, phytoremediation, question:remediation, question:plants, toxics, question:phytoremediation, soil-remediation, question:soil-remediation
 author: warren
 path: /notes/warren/06-26-2018/are-there-lists-of-plants-and-the-chemicals-they-can-remediate.md

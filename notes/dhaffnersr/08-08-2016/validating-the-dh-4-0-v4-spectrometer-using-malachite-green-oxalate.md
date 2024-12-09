@@ -1,5 +1,5 @@
 ---
-title: Validating The DH 4.0 v4 Spectrometer using - MALACHITE GREEN (Oxalate)
+title: 'Validating The DH 4.0 v4 Spectrometer using - MALACHITE GREEN (Oxalate)'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/08-08-2016/validating-the-dh-4-0-v4-spectrometer-using-malachite-green-oxalate.md

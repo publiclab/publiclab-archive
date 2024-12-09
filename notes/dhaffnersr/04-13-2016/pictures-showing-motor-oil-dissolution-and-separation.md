@@ -1,5 +1,5 @@
 ---
-title: Pictures showing motor oil dissolution and separation
+title: 'Pictures showing motor oil dissolution and separation'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/04-13-2016/pictures-showing-motor-oil-dissolution-and-separation.md

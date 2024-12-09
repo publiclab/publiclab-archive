@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Manual Camera Control
+title: 'Raspberry Pi Manual Camera Control'
 tagnames: near-infrared-camera, raspberry-pi, infrared-camera, barnstar:basic, rasperry, exposure, manual, pi-camera, picamera, control, gsoc-2018, noir, pi-calibration
 author: MaggPi
 path: /notes/MaggPi/08-09-2018/raspberry-pi-manual-camera-control.md

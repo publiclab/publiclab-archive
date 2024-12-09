@@ -1,5 +1,5 @@
 ---
-title: Indoor Air
+title: 'Indoor Air'
 tagnames: redirect:indoor-air-quality-monitoring
 author: warren
 path: /wiki/indoor-air.md

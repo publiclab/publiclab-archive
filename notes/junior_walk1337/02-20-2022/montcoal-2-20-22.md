@@ -1,5 +1,5 @@
 ---
-title: Montcoal 2/20/22
+title: 'Montcoal 2/20/22'
 tagnames: drones, coal-mining, coal, mmmp, surfacemine
 author: junior_walk1337
 path: /notes/junior_walk1337/02-20-2022/montcoal-2-20-22.md

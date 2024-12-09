@@ -1,5 +1,5 @@
 ---
-title: Plant spectral timelapse (~7hrs)
+title: 'Plant spectral timelapse (~7hrs)'
 tagnames: kickstarter
 author: warren
 path: /notes/warren/12-14-2010/plant-spectral-timelapse-7hrs.md

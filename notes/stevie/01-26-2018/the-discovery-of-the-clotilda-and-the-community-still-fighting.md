@@ -1,5 +1,5 @@
 ---
-title: The discovery of the Clotilda and the community 'still fighting' 
+title: 'The discovery of the Clotilda and the community 'still fighting' '
 tagnames: gulf-coast, mobile, blog, environmental-justice, ej, nas, mejac, africatown, alabama, chess, clotilda, ship, dioxin
 author: stevie
 path: /notes/stevie/01-26-2018/the-discovery-of-the-clotilda-and-the-community-still-fighting.md

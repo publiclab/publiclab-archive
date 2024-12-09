@@ -1,5 +1,5 @@
 ---
-title: Canadian KAP flights
+title: 'Canadian KAP flights'
 tagnames: kite-mapping, kap, canada
 author: patcoyle
 path: /notes/patcoyle/08-05-2013/canadian-kap-flights.md

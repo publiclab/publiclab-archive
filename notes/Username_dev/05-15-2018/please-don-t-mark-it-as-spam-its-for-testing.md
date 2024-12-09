@@ -1,5 +1,5 @@
 ---
-title: PLEASE DON'T MARK IT AS SPAM, ITS FOR TESTING
+title: 'PLEASE DON'T MARK IT AS SPAM, ITS FOR TESTING'
 tagnames: first-time-poster
 author: Username_dev
 path: /notes/Username_dev/05-15-2018/please-don-t-mark-it-as-spam-its-for-testing.md

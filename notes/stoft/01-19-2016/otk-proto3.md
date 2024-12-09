@@ -1,5 +1,5 @@
 ---
-title: OTK Proto3
+title: 'OTK Proto3'
 tagnames: spectrometer, laser, fluorescence, oil-testing-kit, barnstar:empiricism, otk, otkbeta, dilution, peak-maxima, upgrade:spectrometry, upgrade:dssk
 author: stoft
 path: /notes/stoft/01-19-2016/otk-proto3.md

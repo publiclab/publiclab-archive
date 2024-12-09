@@ -1,5 +1,5 @@
 ---
-title: PhenoPi: a citizen science phenology monitoring network
+title: 'PhenoPi: a citizen science phenology monitoring network'
 tagnames: science, vegetation, phenopi, phenology, growth, citizen, first-time-poster
 author: khufkens
 path: /notes/khufkens/04-24-2015/phenopi-a-citizen-science-phenology-monitoring-network.md

@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping kit tote bag graphics
+title: 'Balloon mapping kit tote bag graphics'
 tagnames: 
 author: warren
 path: /notes/warren/4-21-2012/balloon-mapping-kit-tote-bag-graphics.md

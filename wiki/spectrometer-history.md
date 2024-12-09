@@ -1,5 +1,5 @@
 ---
-title: Spectrometer History
+title: 'Spectrometer History'
 tagnames: spectrometer, parent:spectrometry
 author: mathew
 path: /wiki/spectrometer-history.md

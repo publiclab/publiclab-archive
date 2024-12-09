@@ -1,5 +1,5 @@
 ---
-title: Kelp
+title: 'Kelp'
 tagnames: new-york-city, agriculture, new-york, water-quality, permits, issue-brief, first-time-poster, kelp, aquaculture, harlem
 author: iragersh
 path: /notes/iragersh/10-31-2018/kelp.md

@@ -1,5 +1,5 @@
 ---
-title: Could the Raspberry Pi Microscope be used for looking at microplastics found in ocean water?
+title: 'Could the Raspberry Pi Microscope be used for looking at microplastics found in ocean water?'
 tagnames: raspberry-pi, waste, trash, water-quality, water, microscope, question:question, micro-plastics, microscopes, question:microscopes, question:microplastics, microplastics, plastics
 author: stevie
 path: /notes/stevie/12-08-2017/could-the-raspberry-pi-microscope-be-used-for-looking-at-microplastics-found-in-ocean-water.md

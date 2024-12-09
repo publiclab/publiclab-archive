@@ -1,5 +1,5 @@
 ---
-title: Summary of discussion about Sensor Journalism
+title: 'Summary of discussion about Sensor Journalism'
 tagnames: journalism, sensor-journalism, parent:journalism
 author: bodacea
 path: /wiki/summary-of-discussion-about-sensor-journalism.md

@@ -1,5 +1,5 @@
 ---
-title: Masters research project 'Speculative Future on Mars: Online Co-design Workshop on saturdays'
+title: 'Masters research project 'Speculative Future on Mars: Online Co-design Workshop on saturdays''
 tagnames: science, design, first-time-poster, planet, joinproject, jointeam, mars, codesign, speculativefutures, possibles, masterstudent, marsexploration, speculative
 author: miles70
 path: /notes/miles70/05-13-2020/masters-research-project-speculative-future-on-mars-online-co-design-workshop-on-saturdays.md

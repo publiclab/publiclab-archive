@@ -1,5 +1,5 @@
 ---
-title: Edwight 5/24/22
+title: 'Edwight 5/24/22'
 tagnames: drones, coal-mining, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/05-25-2022/edwight-5-24-22.md

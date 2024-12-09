@@ -1,5 +1,5 @@
 ---
-title: 360° views of the Bristol landfill
+title: '360° views of the Bristol landfill'
 tagnames: vermont, kite-aerial-photography, landfill, kap, saturnv, skyshield, half-spherical, littleplanet, bristol-vt, 360, spherical, response:13534
 author: cfastie
 path: /notes/cfastie/10-09-2016/360-views-of-the-bristol-landfill.md

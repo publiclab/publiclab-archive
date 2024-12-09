@@ -1,5 +1,5 @@
 ---
-title: Calibrating DIY NIR cameras - part 3
+title: 'Calibrating DIY NIR cameras - part 3'
 tagnames: near-infrared-camera, ndvi, calibration, infrared, infrablue, calibrate-ndvi, ndvi-calibrate, multispectral-imaging
 author: nedhorning
 path: /notes/nedhorning/10-25-2013/calibrating-diy-nir-cameras-part-3.md

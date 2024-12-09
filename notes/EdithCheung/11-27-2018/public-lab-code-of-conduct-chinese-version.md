@@ -1,5 +1,5 @@
 ---
-title: Public Lab Code of Conduct－Chinese Version
+title: 'Public Lab Code of Conduct－Chinese Version'
 tagnames: china, conduct, code-of-conduct, lang:zh, first-time-poster, chinese-version
 author: EdithCheung
 path: /notes/EdithCheung/11-27-2018/public-lab-code-of-conduct-chinese-version.md

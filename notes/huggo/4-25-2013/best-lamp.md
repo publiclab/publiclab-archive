@@ -1,5 +1,5 @@
 ---
-title: Best Lamp
+title: 'Best Lamp'
 tagnames: spectrometer, lamp
 author: huggo
 path: /notes/huggo/4-25-2013/best-lamp.md

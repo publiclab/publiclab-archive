@@ -1,5 +1,5 @@
 ---
-title: What are some of your favorite community science projects from around the world?
+title: 'What are some of your favorite community science projects from around the world?'
 tagnames: soil, air, water, stories, question:education, first-time-poster
 author: mimiss
 path: /notes/mimiss/03-26-2019/what-resources-would-you-use-to-introduce-high-school-students-to-environmental-problems.md

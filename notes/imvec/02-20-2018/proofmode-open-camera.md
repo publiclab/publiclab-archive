@@ -1,5 +1,5 @@
 ---
-title: Proofmode + Open Camera
+title: 'Proofmode + Open Camera'
 tagnames: photography, spain, android, reporting, photo-monitoring, metadata, eu, visual-monitoring, site-survey, activity:site-survey, violation-reporting, image-gathering, verifcation, pgp, openpgp, sha256, guardian-project, proofmode, spill-reporting
 author: imvec
 path: /notes/imvec/02-20-2018/proofmode-open-camera.md

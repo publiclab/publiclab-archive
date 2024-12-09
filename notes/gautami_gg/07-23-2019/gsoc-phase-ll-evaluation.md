@@ -1,5 +1,5 @@
 ---
-title: GSoC Phase ll evaluation
+title: 'GSoC Phase ll evaluation'
 tagnames: gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval
 author: gautami_gg
 path: /notes/gautami_gg/07-23-2019/gsoc-phase-ll-evaluation.md

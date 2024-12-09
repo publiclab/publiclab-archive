@@ -1,5 +1,5 @@
 ---
-title: Amsterdam kite satellite
+title: 'Amsterdam kite satellite'
 tagnames: waagsociety, amsterdam, satellite-images, sensepod, netherlands, nieuwmarkt, citizen-science, waag
 author: keimpe
 path: /notes/keimpe/6-29-2012/amsterdam-kite-satellite.md

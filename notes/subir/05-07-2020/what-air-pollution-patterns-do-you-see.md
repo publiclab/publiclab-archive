@@ -1,5 +1,5 @@
 ---
-title: What air pollution patterns do you see?
+title: 'What air pollution patterns do you see?'
 tagnames: open-source, air-quality, sensors, asia, india, low-cost, airpollution, pune, location:blurred, place:india, pm2.5, air-pollution, lat:18, lon:73, sps30, zoom:6, tropics, breathe2
 author: subir
 path: /notes/subir/05-07-2020/what-air-pollution-patterns-do-you-see.md

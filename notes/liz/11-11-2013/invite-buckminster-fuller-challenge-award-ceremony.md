@@ -1,5 +1,5 @@
 ---
-title: Invite: Buckminster Fuller Challenge Award Ceremony
+title: 'Invite: Buckminster Fuller Challenge Award Ceremony'
 tagnames: new-york-city, events, events:new-york-city
 author: liz
 path: /notes/liz/11-11-2013/invite-buckminster-fuller-challenge-award-ceremony.md

@@ -1,5 +1,5 @@
 ---
-title: 2011 PLOTS NYC Summit
+title: '2011 PLOTS NYC Summit'
 tagnames: 
 author: warren
 path: /wiki/2011-plots-nyc-summit.md

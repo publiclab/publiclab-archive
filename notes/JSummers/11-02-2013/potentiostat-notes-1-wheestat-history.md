@@ -1,5 +1,5 @@
 ---
-title: Potentiostat Notes-1, WheeStat history
+title: 'Potentiostat Notes-1, WheeStat history'
 tagnames: water-sensing, water-quality, potentiostat
 author: JSummers
 path: /notes/JSummers/11-02-2013/potentiostat-notes-1-wheestat-history.md

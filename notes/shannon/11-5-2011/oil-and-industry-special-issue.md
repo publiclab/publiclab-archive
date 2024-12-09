@@ -1,5 +1,5 @@
 ---
-title: Oil and Industry special issue
+title: 'Oil and Industry special issue'
 tagnames: 
 author: Shannon
 path: /notes/shannon/11-5-2011/oil-and-industry-special-issue.md

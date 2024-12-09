@@ -1,5 +1,5 @@
 ---
-title: The Open Water Project: FAQ
+title: 'The Open Water Project: FAQ'
 tagnames: mapping, sensing, water-quality, water, water-monitoring, monitoring, quality, open-water
 author: kanarinka
 path: /notes/kanarinka/04-15-2014/the-open-water-project-faq.md

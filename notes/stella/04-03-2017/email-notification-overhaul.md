@@ -1,5 +1,5 @@
 ---
-title: Email Notification Overhaul
+title: 'Email Notification Overhaul'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, first-time-poster
 author: stella
 path: /notes/stella/04-03-2017/email-notification-overhaul.md

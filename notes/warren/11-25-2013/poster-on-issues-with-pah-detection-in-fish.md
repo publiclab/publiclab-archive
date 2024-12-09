@@ -1,5 +1,5 @@
 ---
-title: Poster on issues with PAH detection in fish
+title: 'Poster on issues with PAH detection in fish'
 tagnames: spectrometer, fish, oil, ultraviolet, fluorescence, barataria, pah, phytoplankton, fish-oil, setac, vitamins, oil-testing-kit
 author: warren
 path: /notes/warren/11-25-2013/poster-on-issues-with-pah-detection-in-fish.md

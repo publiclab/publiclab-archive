@@ -1,5 +1,5 @@
 ---
-title: Optimal Slit Width
+title: 'Optimal Slit Width'
 tagnames: spectrometer, slit, slit-width
 author: stoft
 path: /notes/stoft/03-01-2015/optimal-slit-width.md

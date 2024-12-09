@@ -1,5 +1,5 @@
 ---
-title: The Opportunities and Pitfalls of Sensor Journalism
+title: 'The Opportunities and Pitfalls of Sensor Journalism'
 tagnames: sensor-journalism, response:12748, hidden:response
 author: jgualtie
 path: /notes/jgualtie/02-24-2016/the-opportunities-and-pitfalls-of-sensor-journalism.md

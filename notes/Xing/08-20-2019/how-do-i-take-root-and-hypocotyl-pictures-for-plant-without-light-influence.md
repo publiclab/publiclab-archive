@@ -1,5 +1,5 @@
 ---
-title: How do I take root and hypocotyl pictures for plant without light influence
+title: 'How do I take root and hypocotyl pictures for plant without light influence'
 tagnames: infrared, camera, question:ndvi, pi, question:infragram, light, near, dark, first-time-poster, question:infragram-pi, room, roots
 author: Xing
 path: /notes/Xing/08-20-2019/how-do-i-take-root-and-hypocotyl-pictures-for-plant-without-light-influence.md

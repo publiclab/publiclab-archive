@@ -1,5 +1,5 @@
 ---
-title: Building a case against Aluf Plastics -- polluting my town & I need help
+title: 'Building a case against Aluf Plastics -- polluting my town & I need help'
 tagnames: new-york, pvc, air-quality, northeast, question:air-quality, odor, featured-request, issue-brief, plastics, odor-logging, first-time-poster, lat:41.054659, lon:-73.950084, orangetown, clean-air-for-orangetown, orangetown-aluf, question:orangetown-aluf
 author: michaelwma
 path: /notes/michaelwma/12-14-2018/building-a-case-against-aluf-plastics-polluting-my-town-i-need-help.md

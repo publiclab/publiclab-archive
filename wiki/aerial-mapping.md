@@ -1,5 +1,5 @@
 ---
-title: aerial-mapping
+title: 'aerial-mapping'
 tagnames: redirect:13474
 author: warren
 path: /wiki/aerial-mapping.md

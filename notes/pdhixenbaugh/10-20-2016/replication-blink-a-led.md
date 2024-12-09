@@ -1,5 +1,5 @@
 ---
-title: (SPOILERS): Blink a LED
+title: '(SPOILERS): Blink a LED'
 tagnames: replication:13632
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-20-2016/replication-blink-a-led.md

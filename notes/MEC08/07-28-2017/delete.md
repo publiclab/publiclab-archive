@@ -1,5 +1,5 @@
 ---
-title: Delete my profile?
+title: 'Delete my profile?'
 tagnames: spectrometry, spectral-workbench, question:spectral-workbench
 author: MEC08
 path: /notes/MEC08/07-28-2017/delete.md

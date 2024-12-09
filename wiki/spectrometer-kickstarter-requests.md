@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Kickstarter requests
+title: 'Spectrometer Kickstarter requests'
 tagnames: 
 author: warren
 path: /wiki/spectrometer-kickstarter-requests.md

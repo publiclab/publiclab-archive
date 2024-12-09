@@ -1,5 +1,5 @@
 ---
-title: Mobius cameras and smaller balloons
+title: 'Mobius cameras and smaller balloons'
 tagnames: balloon-mapping, mylar, photo-rig, balloon-mapping-kit, mobius, activity:photo-rig
 author: warren
 path: /notes/warren/05-21-2015/mobius-cameras-and-smaller-balloons.md

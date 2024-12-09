@@ -1,5 +1,5 @@
 ---
-title: Desktop Spectrometry Kit (V3) for VNIR Field Spectroscopy
+title: 'Desktop Spectrometry Kit (V3) for VNIR Field Spectroscopy'
 tagnames: spectrometer, bamboo, radiometric-calibration, spectroscopy, desktop-spectrometry-kit, vegetation, barnstar:basic, enclosure
 author: lukebrown
 path: /notes/lukebrown/07-11-2015/desktop-spectrometry-kit-v3-for-vnir-field-spectroscopy.md

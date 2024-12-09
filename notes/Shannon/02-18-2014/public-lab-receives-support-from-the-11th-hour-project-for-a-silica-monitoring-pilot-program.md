@@ -1,5 +1,5 @@
 ---
-title: Public Lab receives support from the 11th Hour Project for a Silica Monitoring Pilot Program
+title: 'Public Lab receives support from the 11th Hour Project for a Silica Monitoring Pilot Program'
 tagnames: spectrometer, particulate-sensing, air-quality, fracking, particulates, silica, frac-sand
 author: Shannon
 path: /notes/Shannon/02-18-2014/public-lab-receives-support-from-the-11th-hour-project-for-a-silica-monitoring-pilot-program.md

@@ -1,5 +1,5 @@
 ---
-title: Philadelphia Night Market and the Department of Making and Doing
+title: 'Philadelphia Night Market and the Department of Making and Doing'
 tagnames: philadelphia, event, northeast, event:rsvp, date:08-14-2014
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/08-13-2014/philadelphia-night-market-and-the-department-of-making-and-doing.md

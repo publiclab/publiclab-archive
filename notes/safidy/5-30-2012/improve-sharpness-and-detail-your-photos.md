@@ -1,5 +1,5 @@
 ---
-title: Improve the Sharpness and Details of Your Photos
+title: 'Improve the Sharpness and Details of Your Photos'
 tagnames: kite-mapping, safidy-andrianantenaina, image-processing
 author: Safidy
 path: /notes/safidy/5-30-2012/improve-sharpness-and-detail-your-photos.md

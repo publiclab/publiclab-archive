@@ -1,5 +1,5 @@
 ---
-title: Notifications
+title: 'Notifications'
 tagnames: notifications
 author: warren
 path: /wiki/notifications.md

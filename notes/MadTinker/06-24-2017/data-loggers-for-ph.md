@@ -1,5 +1,5 @@
 ---
-title: data loggers for PH ? 
+title: 'data loggers for PH ? '
 tagnames: tool, riffle, answered, question:water-quality, data-logging, question:general, nano-data-logger, datalogging, first-time-poster
 author: MadTinker
 path: /notes/MadTinker/06-24-2017/data-loggers-for-ph.md

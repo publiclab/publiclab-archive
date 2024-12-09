@@ -1,5 +1,5 @@
 ---
-title: evaluation notes: community segments -- not what you think!
+title: 'evaluation notes: community segments -- not what you think!'
 tagnames: evaluation, question:evaluation
 author: liz
 path: /notes/liz/03-08-2018/evaluation-notes-community-segments-not-what-you-think.md

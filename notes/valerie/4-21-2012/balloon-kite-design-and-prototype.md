@@ -1,5 +1,5 @@
 ---
-title: Balloon Kite design and prototype
+title: 'Balloon Kite design and prototype'
 tagnames: balloon-mapping, diy-balloon, first-time-poster
 author: valerie
 path: /notes/valerie/4-21-2012/balloon-kite-design-and-prototype.md

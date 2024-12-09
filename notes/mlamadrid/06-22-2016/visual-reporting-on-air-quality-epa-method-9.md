@@ -1,5 +1,5 @@
 ---
-title: Visual reporting on air quality: EPA method 9
+title: 'Visual reporting on air quality: EPA method 9'
 tagnames: blog, frac-sand, with:stevie, parent:frac-sand, communityscienceforum, visual-monitoring, reclamation
 author: mlamadrid
 path: /notes/mlamadrid/06-22-2016/visual-reporting-on-air-quality-epa-method-9.md

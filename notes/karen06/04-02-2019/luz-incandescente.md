@@ -1,5 +1,5 @@
 ---
-title: luz incandescente
+title: 'luz incandescente'
 tagnames: first-time-poster, lat:14.069946, lon:-87.18139
 author: karen06
 path: /notes/karen06/04-02-2019/luz-incandescente.md

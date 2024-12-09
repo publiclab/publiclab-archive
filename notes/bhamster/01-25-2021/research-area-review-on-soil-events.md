@@ -1,5 +1,5 @@
 ---
-title: Research area review on soil + events!
+title: 'Research area review on soil + events!'
 tagnames: soil, research, reviews, soil-contamination, soil-contamination-testing, research-area-review
 author: bhamster
 path: /notes/bhamster/01-25-2021/research-area-review-on-soil-events.md

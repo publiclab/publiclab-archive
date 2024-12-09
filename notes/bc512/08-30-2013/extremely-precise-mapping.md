@@ -1,5 +1,5 @@
 ---
-title: Extremely Precise mapping
+title: 'Extremely Precise mapping'
 tagnames: balloon-mapping, kite-mapping, infrared, vineyard, uav, mapping, infrared-camera, plant-health, infrared-photography, quadcopter, drone
 author: bc512
 path: /notes/bc512/08-30-2013/extremely-precise-mapping.md

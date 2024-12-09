@@ -1,5 +1,5 @@
 ---
-title: White balance and NIR photography
+title: 'White balance and NIR photography'
 tagnames: near-infrared-camera, nir, infrared, white-balance
 author: nedhorning
 path: /notes/nedhorning/11-3-2012/white-balance-and-nir-photography.md

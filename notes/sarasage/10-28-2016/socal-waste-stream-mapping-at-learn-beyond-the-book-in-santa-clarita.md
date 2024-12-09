@@ -1,5 +1,5 @@
 ---
-title: SoCal Waste Stream Mapping at Learn Beyond the Book in Santa Clarita
+title: 'SoCal Waste Stream Mapping at Learn Beyond the Book in Santa Clarita'
 tagnames: waste, transportation, traffic, val-verde, socalwastestream, blog:socalwastestream, activity:waste
 author: sarasage
 path: /notes/sarasage/10-28-2016/socal-waste-stream-mapping-at-learn-beyond-the-book-in-santa-clarita.md

@@ -1,5 +1,5 @@
 ---
-title: Opencv.js for blob detection in microscopic images
+title: 'Opencv.js for blob detection in microscopic images'
 tagnames: dust, pm, particle, javascript, opencv, image-sequencer, particle-imaging, particle-analysis, blob-detection, opencv.js, object-marking, particle-detection
 author: aashnaaashna
 path: /notes/aashnaaashna/06-26-2019/opencv-js-for-blob-detection-in-microscopic-images.md

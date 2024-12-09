@@ -1,5 +1,5 @@
 ---
-title: Multispectral imaging
+title: 'Multispectral imaging'
 tagnames: agriculture, list:plots-infrared, urban-planning, tool, land-use, activities:multispectral-imaging, upgrades:multispectral-imaging, method, land-change
 author: liz
 path: /wiki/multispectral-imaging.md

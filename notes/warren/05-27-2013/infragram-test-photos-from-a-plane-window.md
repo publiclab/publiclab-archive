@@ -1,5 +1,5 @@
 ---
-title: Infragram test photos from a plane window
+title: 'Infragram test photos from a plane window'
 tagnames: near-infrared-camera, passenger-pigeon, philadelphia, infragram, colormap, plane, infrabluephoto, activity:passenger-pigeon
 author: warren
 path: /notes/warren/05-27-2013/infragram-test-photos-from-a-plane-window.md

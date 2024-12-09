@@ -1,5 +1,5 @@
 ---
-title: GSoC 2021 Proposal - Education-related Usability Upgrades
+title: 'GSoC 2021 Proposal - Education-related Usability Upgrades'
 tagnames: gsoc, blog-submission, soc, application, first-time-poster, gsoc-2021-proposals
 author: anirudhprabhakaran3
 path: /notes/anirudhprabhakaran3/04-03-2021/gsoc-2021-proposal-education-related-usability-upgrades.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of AM Parking Lot Map
+title: 'MapKnitter map of AM Parking Lot Map'
 tagnames: mapknitter, new-jersey, lat:40.9807594, lon:-74.0064223
 author: stemnorthamerica
 path: /notes/stemnorthamerica/08-30-2018/mapknitter-map-of-am-parking-lot-map.md

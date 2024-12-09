@@ -1,5 +1,5 @@
 ---
-title: June 2 Science Hack Day NYC: balloon mapping workshop
+title: 'June 2 Science Hack Day NYC: balloon mapping workshop'
 tagnames: new-york-city, balloon-mapping, event, replication:14022
 author: liz
 path: /notes/liz/05-13-2013/science-hack-day-nyc-balloon-mapping-workshop.md

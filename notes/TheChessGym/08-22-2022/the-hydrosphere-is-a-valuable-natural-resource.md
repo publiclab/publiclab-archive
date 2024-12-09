@@ -1,5 +1,5 @@
 ---
-title: The Hydrosphere Is A Valuable Natural Resource
+title: 'The Hydrosphere Is A Valuable Natural Resource'
 tagnames: lat:22, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/08-22-2022/the-hydrosphere-is-a-valuable-natural-resource.md

@@ -1,5 +1,5 @@
 ---
-title: A Matter of Scale - Civil Architecture and Open Hardware
+title: 'A Matter of Scale - Civil Architecture and Open Hardware'
 tagnames: balloon-mapping, jerusalem, annotated-maps, presentations, israel, palestine, design, presentation, urban-design, urban-planning, blog, annotation, architecture, urban-biosphere, barnstar:photo-documentation, civil-architecture
 author: hagitkeysar
 path: /notes/hagitkeysar/10-19-2014/a-matter-of-scale-civil-architecture-and-open-hardware.md

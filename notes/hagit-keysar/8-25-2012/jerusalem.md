@@ -1,5 +1,5 @@
 ---
-title: Jerusalem
+title: 'Jerusalem'
 tagnames: jerusalem, urban, aerial-photography, israel, middle-east, first-time-poster
 author: hagitkeysar
 path: /notes/hagit-keysar/8-25-2012/jerusalem.md

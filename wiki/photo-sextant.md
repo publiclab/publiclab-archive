@@ -1,5 +1,5 @@
 ---
-title: Photo Sextant
+title: 'Photo Sextant'
 tagnames: grassrootsmappingwiki
 author: warren
 path: /wiki/photo-sextant.md

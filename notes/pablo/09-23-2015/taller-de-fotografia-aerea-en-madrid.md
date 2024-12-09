@@ -1,5 +1,5 @@
 ---
-title: Taller de fotografía aérea en Madrid
+title: 'Taller de fotografía aérea en Madrid'
 tagnames: balloon-mapping, spain, workshop, madrid, event, lang:es, eu, replication:14022
 author: pablo
 path: /notes/pablo/09-23-2015/taller-de-fotografia-aerea-en-madrid.md

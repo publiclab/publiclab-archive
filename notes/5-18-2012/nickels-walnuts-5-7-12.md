@@ -1,5 +1,5 @@
 ---
-title: nickels-walnuts--5-7-12
+title: 'nickels-walnuts--5-7-12'
 tagnames: 
 author: 
 path: /notes/5-18-2012/nickels-walnuts-5-7-12.md

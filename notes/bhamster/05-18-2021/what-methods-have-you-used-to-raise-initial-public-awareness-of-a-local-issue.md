@@ -1,5 +1,5 @@
 ---
-title: What methods have you used to raise initial public awareness of a local issue?
+title: 'What methods have you used to raise initial public awareness of a local issue?'
 tagnames: organizing, advocacy, question:general, general, community-organizing, question:advocacy, public-awareness, awareness-raising, question:organizing
 author: bhamster
 path: /notes/bhamster/05-18-2021/what-methods-have-you-used-to-raise-initial-public-awareness-of-a-local-issue.md

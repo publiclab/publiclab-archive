@@ -1,5 +1,5 @@
 ---
-title: Signal to Noise ratio validation on previous fluorescein research study
+title: 'Signal to Noise ratio validation on previous fluorescein research study'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/04-17-2016/signal-to-noise-ratio-validation-on-previous-fluorescein-research-study.md

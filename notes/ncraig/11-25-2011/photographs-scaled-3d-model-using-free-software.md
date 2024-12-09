@@ -1,5 +1,5 @@
 ---
-title: Photographs to Scaled 3D model using free software
+title: 'Photographs to Scaled 3D model using free software'
 tagnames: 
 author: ncraig
 path: /notes/ncraig/11-25-2011/photographs-scaled-3d-model-using-free-software.md

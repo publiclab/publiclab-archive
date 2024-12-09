@@ -1,5 +1,5 @@
 ---
-title: Expensive and over-engineered heat mapping is inaccessible and illegible to homeowners
+title: 'Expensive and over-engineered heat mapping is inaccessible and illegible to homeowners'
 tagnames: 
 author: warren
 path: /notes/warren/1-20-2012/expensive-and-over-engineered-heat-mapping-inaccessible-and-illegible-homeown.md

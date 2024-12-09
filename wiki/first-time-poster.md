@@ -1,5 +1,5 @@
 ---
-title: First-time posters
+title: 'First-time posters'
 tagnames: community, parent:welcome, first-time-poster
 author: warren
 path: /wiki/first-time-poster.md

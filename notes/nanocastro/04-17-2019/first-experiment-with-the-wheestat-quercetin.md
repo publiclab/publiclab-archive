@@ -1,5 +1,5 @@
 ---
-title: First experiment with the WheeStat - Quercetin
+title: 'First experiment with the WheeStat - Quercetin'
 tagnames: potentiostat, wheestat, food-quality, activity:potentiostat, potenciostat, lat:-32.934928, lon:-68.818875, activity:wheestat
 author: nanocastro
 path: /notes/nanocastro/04-17-2019/first-experiment-with-the-wheestat-quercetin.md

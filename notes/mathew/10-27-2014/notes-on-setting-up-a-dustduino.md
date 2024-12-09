@@ -1,5 +1,5 @@
 ---
-title: notes on setting up a Dustduino
+title: 'notes on setting up a Dustduino'
 tagnames: arduino, air-quality, dustduino, dust, silica, particle-monitoring, shinyei, replication:9818, air-sensors
 author: mathew
 path: /notes/mathew/10-27-2014/notes-on-setting-up-a-dustduino.md

@@ -1,5 +1,5 @@
 ---
-title: Community
+title: 'Community'
 tagnames: community
 author: liz
 path: /wiki/community.md

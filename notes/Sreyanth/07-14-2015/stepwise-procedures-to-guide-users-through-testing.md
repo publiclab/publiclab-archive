@@ -1,5 +1,5 @@
 ---
-title: Stepwise procedures to guide users through testing
+title: 'Stepwise procedures to guide users through testing'
 tagnames: spectral-workbench, barnstar:basic
 author: Sreyanth
 path: /notes/Sreyanth/07-14-2015/stepwise-procedures-to-guide-users-through-testing.md

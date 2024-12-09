@@ -1,5 +1,5 @@
 ---
-title: Spectral Spectrum CMM
+title: 'Spectral Spectrum CMM'
 tagnames: hidden:response, response:13586
 author: cmmcqueen
 path: /notes/cmmcqueen/10-19-2016/spectral-spectrum-cmm.md

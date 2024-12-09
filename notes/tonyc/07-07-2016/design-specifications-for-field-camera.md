@@ -1,5 +1,5 @@
 ---
-title: Design Specifications for Field Camera
+title: 'Design Specifications for Field Camera'
 tagnames: design, turbidity, mobius, trapcam, specs
 author: tonyc
 path: /notes/tonyc/07-07-2016/design-specifications-for-field-camera.md

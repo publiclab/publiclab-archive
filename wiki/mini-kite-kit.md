@@ -1,5 +1,5 @@
 ---
-title: Mini Kite Kit
+title: 'Mini Kite Kit'
 tagnames: prototypingkit, prototyping-kit, prototyping-
 author: warren
 path: /wiki/mini-kite-kit.md

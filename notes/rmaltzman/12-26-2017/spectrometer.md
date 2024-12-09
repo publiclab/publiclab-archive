@@ -1,5 +1,5 @@
 ---
-title: Spectrometer
+title: 'Spectrometer'
 tagnames: kits, spectrometry, assembly, foldable, papercraft, onboarding, foldable-spec, introductory, replication:15276, response:15360
 author: rmaltzman
 path: /notes/rmaltzman/12-26-2017/spectrometer.md

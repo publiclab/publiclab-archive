@@ -1,5 +1,5 @@
 ---
-title: What are the initial steps you take when you begin a new environmental data investigation?
+title: 'What are the initial steps you take when you begin a new environmental data investigation?'
 tagnames: community, website, education, kits, help, web, tool, question:general, method, study-design, citizenscience, question:study-design, first-time-poster
 author: sylvan
 path: /notes/sylvan/07-17-2018/what-are-the-initial-steps-you-take-when-you-begin-a-new-environmental-data-investigation.md

@@ -1,5 +1,5 @@
 ---
-title: Minivol PM monitoring deployment
+title: 'Minivol PM monitoring deployment'
 tagnames: air-quality, dust, silica, pm, particle-sensing, pm-monitoring, minivol, activity:minivol
 author: mathew
 path: /notes/mathew/02-02-2017/minivol-pm-monitoring-deployment.md

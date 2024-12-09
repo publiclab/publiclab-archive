@@ -1,5 +1,5 @@
 ---
-title: OmniAuth and Wiki Discussion 
+title: 'OmniAuth and Wiki Discussion '
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals
 author: vaibhavgeek
 path: /notes/vaibhavgeek/04-01-2017/omniauth-and-wiki-discussion.md

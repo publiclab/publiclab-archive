@@ -1,5 +1,5 @@
 ---
-title: Can documenting our work be fun?
+title: 'Can documenting our work be fun?'
 tagnames: collaboration, community, documentation, wiki, wiki-gardening
 author: liz
 path: /notes/liz/07-24-2014/can-documenting-our-work-be-fun.md

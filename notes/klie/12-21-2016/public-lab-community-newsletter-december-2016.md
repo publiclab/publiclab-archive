@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: December 2016
+title: 'Public Lab Community Newsletter: December 2016'
 tagnames: balloon-mapping, newsletter, barnraising, lumcon, urban-planning, refugeecamps, bourjalshamali, barnraising-2016
 author: klie
 path: /notes/klie/12-21-2016/public-lab-community-newsletter-december-2016.md

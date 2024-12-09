@@ -1,5 +1,5 @@
 ---
-title: What rocks are native to Salisbury, VT? 
+title: 'What rocks are native to Salisbury, VT? '
 tagnames: vermont, leaffest, answered, leaffest2017, question:leaffest, leaffest-2017, rocks, minerals, question:leaffest2017
 author: kgradow1
 path: /notes/kgradow1/09-30-2017/what-rocks-are-native-to-salisbury-vt.md

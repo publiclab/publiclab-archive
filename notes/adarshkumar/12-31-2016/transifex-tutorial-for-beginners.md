@@ -1,5 +1,5 @@
 ---
-title: Transifex tutorial for beginners
+title: 'Transifex tutorial for beginners'
 tagnames: community, website, activity, localization, translation, language, gcin, gcin-2016, replication:13651, transifex
 author: adarshkumar
 path: /notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners.md

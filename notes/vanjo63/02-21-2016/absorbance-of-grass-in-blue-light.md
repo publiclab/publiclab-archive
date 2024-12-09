@@ -1,5 +1,5 @@
 ---
-title: Absorbance of grass in blue light
+title: 'Absorbance of grass in blue light'
 tagnames: spectrometer, absorption, chlorophyll, grass, absorbance, beginner
 author: vanjo63
 path: /notes/vanjo63/02-21-2016/absorbance-of-grass-in-blue-light.md

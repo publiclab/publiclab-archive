@@ -1,5 +1,5 @@
 ---
-title: HealthyGulf: 4260 Gallons Estimate of TPIC Breton Sound 37 oil well gusher from Sentinel Satellite data
+title: 'HealthyGulf: 4260 Gallons Estimate of TPIC Breton Sound 37 oil well gusher from Sentinel Satellite data'
 tagnames: louisiana, water-quality, response, oil-and-gas, policy, oil-accountability, tpic, texaspetroleuminvestmentcompany, bretonsound, lat:29.573457, lon:-89.01123
 author: eustatic
 path: /10-30-2019/healthygulf-498-000-gallons-estimate-of-tpic-breton-sound-37-oil-well-gusher-from-sentinel-satellite-data.md

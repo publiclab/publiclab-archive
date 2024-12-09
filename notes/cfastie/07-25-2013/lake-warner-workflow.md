@@ -1,5 +1,5 @@
 ---
-title: Lake Warner Workflow
+title: 'Lake Warner Workflow'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, vermont, ground-control-points, lake, gps, pvos, event, massachusetts, google-earth, invasive, umass-amherst, aquatic, usfws, classification, response:8926, georeferencing, h2onutz, activity:site-survey
 author: cfastie
 path: /notes/cfastie/07-25-2013/lake-warner-workflow.md

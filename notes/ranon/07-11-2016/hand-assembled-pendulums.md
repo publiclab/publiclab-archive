@@ -1,5 +1,5 @@
 ---
-title: Hand Assembled Pendulums
+title: 'Hand Assembled Pendulums'
 tagnames: balloon-mapping, kite-aerial-photography, kap, photo-rig, autokap, kap-rigs, pendulum, pendulum-rig, reconfigurable-rig, activity:photo-rig
 author: ranon
 path: /notes/ranon/07-11-2016/hand-assembled-pendulums.md

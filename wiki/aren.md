@@ -1,5 +1,5 @@
 ---
-title: AREN Project
+title: 'AREN Project'
 tagnames: as220, nasa, infragram, aren
 author: warren
 path: /wiki/aren.md

@@ -1,5 +1,5 @@
 ---
-title: Prototype incident light blocker
+title: 'Prototype incident light blocker'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/02-01-2016/prototype-incident-light-blocker.md

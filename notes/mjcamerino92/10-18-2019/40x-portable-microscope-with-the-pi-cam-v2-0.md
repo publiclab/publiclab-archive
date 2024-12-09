@@ -1,5 +1,5 @@
 ---
-title: 40x portable microscope with the pi cam V2.0
+title: '40x portable microscope with the pi cam V2.0'
 tagnames: question:general, general, first-time-poster
 author: mjcamerino92
 path: /notes/mjcamerino92/10-18-2019/40x-portable-microscope-with-the-pi-cam-v2-0.md

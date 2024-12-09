@@ -1,5 +1,5 @@
 ---
-title: How to design a camera for calculating ENDVI.
+title: 'How to design a camera for calculating ENDVI.'
 tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging
 author: nickyshen0306
 path: /notes/nickyshen0306/09-12-2019/how-to-design-a-camera-for-calculating-endvi.md

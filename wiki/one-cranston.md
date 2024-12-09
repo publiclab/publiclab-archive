@@ -1,5 +1,5 @@
 ---
-title: One Cranston
+title: 'One Cranston'
 tagnames: place, location:blurred, lat:41.7900, lon:-71.4570, redirect:onecranston
 author: warren
 path: /wiki/one-cranston.md

@@ -1,5 +1,5 @@
 ---
-title: Notes from Tuesday PLOTS staff call
+title: 'Notes from Tuesday PLOTS staff call'
 tagnames: 
 author: warren
 path: /notes/warren/4-5-2011/notes-tuesday-plots-staff-call.md

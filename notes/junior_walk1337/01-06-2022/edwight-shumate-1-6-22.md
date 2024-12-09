@@ -1,5 +1,5 @@
 ---
-title: Edwight/Shumate 1/6/22
+title: 'Edwight/Shumate 1/6/22'
 tagnames: drones, mining, water-quality, coal, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/01-06-2022/edwight-shumate-1-6-22.md

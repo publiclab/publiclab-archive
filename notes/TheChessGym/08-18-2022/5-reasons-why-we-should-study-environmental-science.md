@@ -1,5 +1,5 @@
 ---
-title: 5 Reasons Why We Should Study Environmental Science
+title: '5 Reasons Why We Should Study Environmental Science'
 tagnames: lat:22, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/08-18-2022/5-reasons-why-we-should-study-environmental-science.md

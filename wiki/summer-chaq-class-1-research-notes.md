@@ -1,5 +1,5 @@
 ---
-title: Summer CHAQ Class 1 Research Notes
+title: 'Summer CHAQ Class 1 Research Notes'
 tagnames: new-york-city, cypress-hills, chaq, air-quality
 author: msmelody
 path: /wiki/summer-chaq-class-1-research-notes.md

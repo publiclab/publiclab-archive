@@ -1,5 +1,5 @@
 ---
-title: Color perception: influence of an different colored object
+title: 'Color perception: influence of an different colored object'
 tagnames: spectralworkbench, color, perception
 author: Joeri2
 path: /notes/Joeri2/12-31-2014/color-perception-influence-of-an-different-colored-object.md

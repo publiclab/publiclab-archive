@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: GSoC: Websocket Implementation for Real-time Usage and Sensor data and Display Library
+title: 'SoC proposal: GSoC: Websocket Implementation for Real-time Usage and Sensor data and Display Library'
 tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects
 author: namangupta
 path: /notes/namangupta/03-02-2019/soc-proposal.md

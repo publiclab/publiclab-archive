@@ -1,5 +1,5 @@
 ---
-title: Smartphone spectrometer molds being machined
+title: 'Smartphone spectrometer molds being machined'
 tagnames: spectrometer, kickstarter, molding
 author: warren
 path: /notes/warren/08-07-2013/smartphone-spectrometer-molds-being-machined.md

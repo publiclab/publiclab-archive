@@ -1,5 +1,5 @@
 ---
-title: CHAQ Air logo
+title: 'CHAQ Air logo'
 tagnames: cypress-hills, chaq, air
 author: liz
 path: /notes/liz/3-8-2013/chaq-air-logo.md

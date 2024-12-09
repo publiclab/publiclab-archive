@@ -1,5 +1,5 @@
 ---
-title: colab21
+title: 'colab21'
 tagnames: crowd-sourcing, collaboration, skillshare, wiki, cocreation
 author: bicudo
 path: /wiki/colab21.md

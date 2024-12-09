@@ -1,5 +1,5 @@
 ---
-title: Increasing brightness of fluorescence spectra
+title: 'Increasing brightness of fluorescence spectra'
 tagnames: spectrometer, kits, fluorescence, desktop-spectrometer, sensitivity, oil-testing-kit, exposure, response:11006, brightness
 author: warren
 path: /notes/warren/08-13-2014/increasing-brightness-of-fluorescence-spectra.md

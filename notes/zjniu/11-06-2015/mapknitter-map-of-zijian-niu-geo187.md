@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Zijian Niu Geo187
+title: 'MapKnitter map of Zijian Niu Geo187'
 tagnames: mapknitter, canada, lat:43.4711412109, lon:-80.5506849289
 author: zjniu
 path: /notes/zjniu/11-06-2015/mapknitter-map-of-zijian-niu-geo187.md

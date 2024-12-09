@@ -1,5 +1,5 @@
 ---
-title: GSOC Multi Party Auth System 
+title: 'GSOC Multi Party Auth System '
 tagnames: software, gsoc, coding, soc, gsoc-2018, soc-2018, gsoc-2018-final, oauth, soc-2018-final, soc-2018-final-report
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/08-07-2018/gsoc-multi-party-auth-system.md

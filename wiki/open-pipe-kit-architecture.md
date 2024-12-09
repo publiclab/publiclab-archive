@@ -1,5 +1,5 @@
 ---
-title: Open Pipe Kit architecture
+title: 'Open Pipe Kit architecture'
 tagnames: 
 author: rjstatic
 path: /wiki/open-pipe-kit-architecture.md

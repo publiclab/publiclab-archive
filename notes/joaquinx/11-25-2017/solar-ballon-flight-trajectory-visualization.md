@@ -1,5 +1,5 @@
 ---
-title: Solar ballon flight trajectory visualization
+title: 'Solar ballon flight trajectory visualization'
 tagnames: solar-balloon, google-earth, data-collection, dataviz, aerocene, activity:solar-balloon, activity:hot-air-balloon, data-visualization
 author: joaquinx
 path: /notes/joaquinx/11-25-2017/solar-ballon-flight-trajectory-visualization.md

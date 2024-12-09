@@ -1,5 +1,5 @@
 ---
-title: Homebrew Fellowship Application:  Spectrometer Intensity Calibration 
+title: 'Homebrew Fellowship Application:  Spectrometer Intensity Calibration '
 tagnames: spectrometer, spectralworkbench, fellows
 author: klie
 path: /notes/klie/09-14-2015/homebrew-fellowship-application-spectrometer-intensity-calibration.md

@@ -1,5 +1,5 @@
 ---
-title: Kickstarting the Community Microscope Kit!
+title: 'Kickstarting the Community Microscope Kit!'
 tagnames: kickstarter, microscope, microscopes, community-kits
 author: Bronwen
 path: /notes/bronwen/05-16-2018/kickstarting-the-community-microscope-kit.md

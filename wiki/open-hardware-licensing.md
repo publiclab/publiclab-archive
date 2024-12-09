@@ -1,5 +1,5 @@
 ---
-title: Open Hardware Licensing
+title: 'Open Hardware Licensing'
 tagnames: 
 author: warren
 path: /wiki/open-hardware-licensing.md

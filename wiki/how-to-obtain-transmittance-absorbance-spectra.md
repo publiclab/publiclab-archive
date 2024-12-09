@@ -1,5 +1,5 @@
 ---
-title: How To Obtain Transmittance/ Absorbance Spectra
+title: 'How To Obtain Transmittance/ Absorbance Spectra'
 tagnames: gam
 author: dhaffnersr
 path: /wiki/how-to-obtain-transmittance-absorbance-spectra.md

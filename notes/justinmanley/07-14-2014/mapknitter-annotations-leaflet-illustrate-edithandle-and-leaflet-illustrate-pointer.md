@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Annotations: Leaflet.Illustrate.EditHandle and Leaflet.Illustrate.Pointer
+title: 'MapKnitter Annotations: Leaflet.Illustrate.EditHandle and Leaflet.Illustrate.Pointer'
 tagnames: mapknitter, gsoc, gsoc-2014, annotations
 author: justinmanley
 path: /notes/justinmanley/07-14-2014/mapknitter-annotations-leaflet-illustrate-edithandle-and-leaflet-illustrate-pointer.md

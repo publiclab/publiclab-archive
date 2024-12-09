@@ -1,5 +1,5 @@
 ---
-title: Auto Knitting enhancement usefulness and implementation.
+title: 'Auto Knitting enhancement usefulness and implementation.'
 tagnames: mapknitter, gsoc, auto-knitting, exif
 author: xvidun
 path: /notes/xvidun/03-08-2014/auto-knitting-enhancement-usefulness-and-implementation.md

@@ -1,5 +1,5 @@
 ---
-title: Connecting Pi camera to Raspberry Pi
+title: 'Connecting Pi camera to Raspberry Pi'
 tagnames: raspberry-pi, raspberry-pi-cameras, lego-spectrometer
 author: MoparWade
 path: /notes/MoparWade/03-24-2018/connecting-pi-camera-to-raspberry-pi.md

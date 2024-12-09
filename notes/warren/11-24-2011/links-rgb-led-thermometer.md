@@ -1,5 +1,5 @@
 ---
-title: Links for rgb led thermometer
+title: 'Links for rgb led thermometer'
 tagnames: 
 author: warren
 path: /notes/warren/11-24-2011/links-rgb-led-thermometer.md

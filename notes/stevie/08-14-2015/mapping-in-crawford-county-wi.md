@@ -1,5 +1,5 @@
 ---
-title: Mapping in Crawford County, WI
+title: 'Mapping in Crawford County, WI'
 tagnames: kite, mapping, wisconsin, frac-sand, mid-west, fracsand, wi, parent:frac-sand
 author: stevie
 path: /notes/stevie/08-14-2015/mapping-in-crawford-county-wi.md

@@ -1,5 +1,5 @@
 ---
-title: OpenDroneMap -- Automatic postprocessing aerial data
+title: 'OpenDroneMap -- Automatic postprocessing aerial data'
 tagnames: new-york-city, balloon-mapping, gowanus, kite-aerial-photography, drones, aerial-photography, glam, aerial-mapping, aerial-photos, northeast, uas, opendronemap, first-time-poster
 author: smathermather
 path: /notes/smathermather/11-14-2014/opendronemap-automatic-postprocessing-aerial-data.md

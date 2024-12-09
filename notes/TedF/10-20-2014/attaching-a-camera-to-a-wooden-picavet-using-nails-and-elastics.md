@@ -1,5 +1,5 @@
 ---
-title: Attaching a camera to a wooden picavet using elastics looped onto nails
+title: 'Attaching a camera to a wooden picavet using elastics looped onto nails'
 tagnames: kite-mapping, picavet, camera-rig, kitemapping
 author: TedF
 path: /notes/TedF/10-20-2014/attaching-a-camera-to-a-wooden-picavet-using-nails-and-elastics.md

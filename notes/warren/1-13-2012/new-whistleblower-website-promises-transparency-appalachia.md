@@ -1,5 +1,5 @@
 ---
-title: New Whistleblower Website Promises Transparency in Appalachia
+title: 'New Whistleblower Website Promises Transparency in Appalachia'
 tagnames: southeast, appalachia
 author: warren
 path: /notes/warren/1-13-2012/new-whistleblower-website-promises-transparency-appalachia.md

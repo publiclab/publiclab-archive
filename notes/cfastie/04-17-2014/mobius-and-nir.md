@@ -1,5 +1,5 @@
 ---
-title: Mobius and NIR
+title: 'Mobius and NIR'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, histogram, led, infragram-sandbox, mobius-actioncam, frosted-globe, response:10291, mobius
 author: cfastie
 path: /notes/cfastie/04-17-2014/mobius-and-nir.md

@@ -1,5 +1,5 @@
 ---
-title: issue-briefs
+title: 'issue-briefs'
 tagnames: redirect:15138
 author: warren
 path: /wiki/issue-briefs.md

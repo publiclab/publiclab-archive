@@ -1,5 +1,5 @@
 ---
-title: Map Formats
+title: 'Map Formats'
 tagnames: 
 author: warren
 path: /wiki/map-formats.md

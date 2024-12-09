@@ -1,5 +1,5 @@
 ---
-title: where can I get Qualitative spectrometer reading.
+title: 'where can I get Qualitative spectrometer reading.'
 tagnames: spectrometer, evidence, analysis, laboratories, public-aid, material-identification, drug, testing, forensic, laboratory
 author: ernestbolds
 path: /notes/ernestbolds/2-2-2013/where-can-i-get-qualitative-spectrometer-reading.md

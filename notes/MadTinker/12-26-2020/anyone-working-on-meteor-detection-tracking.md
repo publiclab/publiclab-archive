@@ -1,5 +1,5 @@
 ---
-title: Anyone working on Meteor Detection/Tracking?
+title: 'Anyone working on Meteor Detection/Tracking?'
 tagnames: question:general, general
 author: MadTinker
 path: /notes/MadTinker/12-26-2020/anyone-working-on-meteor-detection-tracking.md

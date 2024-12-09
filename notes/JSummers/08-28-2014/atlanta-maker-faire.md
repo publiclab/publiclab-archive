@@ -1,5 +1,5 @@
 ---
-title: Atlanta Maker Faire
+title: 'Atlanta Maker Faire'
 tagnames: event, event:rsvp, date:08-28-2014
 author: JSummers
 path: /notes/JSummers/08-28-2014/atlanta-maker-faire.md

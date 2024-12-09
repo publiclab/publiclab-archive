@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Mapknitter Image Management and Synchronous Editing
+title: 'GSoC proposal: Mapknitter Image Management and Synchronous Editing'
 tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals
 author: igniteeng000
 path: /notes/igniteeng000/04-06-2019/gsoc-proposal-mapknitter-image-management.md

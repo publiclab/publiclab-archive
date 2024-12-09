@@ -1,5 +1,5 @@
 ---
-title: Temperature and humidity sensors to correct H2S sensor
+title: 'Temperature and humidity sensors to correct H2S sensor'
 tagnames: hydrogen-sulfide-sensor
 author: warren
 path: /notes/warren/9-26-2011/temperature-and-humidity-sensors-correct-h2s-sensor.md

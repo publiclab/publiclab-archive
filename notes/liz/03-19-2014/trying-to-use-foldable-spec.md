@@ -1,5 +1,5 @@
 ---
-title: trying to use foldable spec
+title: 'trying to use foldable spec'
 tagnames: 
 author: liz
 path: /notes/liz/03-19-2014/trying-to-use-foldable-spec.md

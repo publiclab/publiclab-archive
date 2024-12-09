@@ -1,5 +1,5 @@
 ---
-title: First-timer-only release workflow
+title: 'First-timer-only release workflow'
 tagnames: software, developers, seeks:replications, activity:software, soc, activity:soc, lon:77, first-time-poster, lat:12, zoom:6
 author: sagarpreet_chadha
 path: /notes/sagarpreet_chadha/10-20-2020/first-timer-only-release-workflow.md

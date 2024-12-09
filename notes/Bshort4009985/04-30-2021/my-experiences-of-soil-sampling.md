@@ -1,5 +1,5 @@
 ---
-title: My experiences of soil sampling
+title: 'My experiences of soil sampling'
 tagnames: first-time-poster, zoom:6, lat:30.01203, lon:-90.549316
 author: Bshort4009985
 path: /notes/Bshort4009985/04-30-2021/my-experiences-of-soil-sampling.md

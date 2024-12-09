@@ -1,5 +1,5 @@
 ---
-title: New Projects
+title: 'New Projects'
 tagnames: community, parent:website
 author: Shannon
 path: /wiki/new-projects.md

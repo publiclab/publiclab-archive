@@ -1,5 +1,5 @@
 ---
-title: Editable wiki sub-sections prototype on PublicLab.org
+title: 'Editable wiki sub-sections prototype on PublicLab.org'
 tagnames: documentation, software, developers, coding, wwg, rich-wikis
 author: warren
 path: /notes/warren/02-07-2017/editable-wiki-sub-sections-prototype-on-publiclab-org.md

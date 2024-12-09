@@ -1,5 +1,5 @@
 ---
-title: Analyzing optimum sites for installing solar panels by estimating solar panel size
+title: 'Analyzing optimum sites for installing solar panels by estimating solar panel size'
 tagnames: energy, climate, solar, ballon-mapping, lat:10.758918, lon:78.813218
 author: silentsairam
 path: /notes/silentsairam/08-07-2019/analyzing-optium-sites-for-installing-solar-panels-by-estimating-solar-panel-size.md

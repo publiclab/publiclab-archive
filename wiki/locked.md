@@ -1,5 +1,5 @@
 ---
-title: Locked pages
+title: 'Locked pages'
 tagnames: website, moderation, location:blurred, place:canada, lat:22, parent:moderation, lon:76, website-utilities, zoom:6
 author: warren
 path: /wiki/locked.md

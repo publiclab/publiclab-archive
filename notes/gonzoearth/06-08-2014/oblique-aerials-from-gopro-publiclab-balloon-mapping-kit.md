@@ -1,5 +1,5 @@
 ---
-title: oblique aerials from GoPro + PublicLab balloon mapping kit
+title: 'oblique aerials from GoPro + PublicLab balloon mapping kit'
 tagnames: balloon-mapping, san-francisco, california, balloon-mapping-kit, gopro
 author: gonzoearth
 path: /notes/gonzoearth/06-08-2014/oblique-aerials-from-gopro-publiclab-balloon-mapping-kit.md

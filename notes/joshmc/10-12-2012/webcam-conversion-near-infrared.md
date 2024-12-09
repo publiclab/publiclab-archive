@@ -1,5 +1,5 @@
 ---
-title: Webcam Conversion to (Near-) Infrared
+title: 'Webcam Conversion to (Near-) Infrared'
 tagnames: near-infrared-camera, nir, infrared, webcam, near-infrared, ir, conversion, filter, activity:infrared-camera-conversion
 author: JoshMc
 path: /notes/joshmc/10-12-2012/webcam-conversion-near-infrared.md

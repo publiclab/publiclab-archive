@@ -1,5 +1,5 @@
 ---
-title: Question: 
+title: 'Question: '
 tagnames: question:desktop-spectrometry-kit
 author: brandta5
 path: /notes/brandta5/11-04-2015/question.md

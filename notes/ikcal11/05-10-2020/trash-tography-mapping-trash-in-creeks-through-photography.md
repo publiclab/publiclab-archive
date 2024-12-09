@@ -1,5 +1,5 @@
 ---
-title: Trash-tography: Mapping Trash in Creeks through Photography
+title: 'Trash-tography: Mapping Trash in Creeks through Photography'
 tagnames: san-diego, education, california, trash, water-quality, creek, survey, location:blurred, lon:-117, first-time-poster, zoom:6, lat:32, kid-friendly, place:san-diego, thriving-earth-exchange, with:cjellis, with:kskadberg, with:khurst
 author: ikcal11
 path: /notes/ikcal11/05-10-2020/trash-tography-mapping-trash-in-creeks-through-photography.md

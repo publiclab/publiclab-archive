@@ -1,5 +1,5 @@
 ---
-title: Are there occupational exposure rules limiting exposure to hydrogen sulfide?
+title: 'Are there occupational exposure rules limiting exposure to hydrogen sulfide?'
 tagnames: answered, question:question, question:regulations, question:hydrogen-sulfide, question:legal, question:hydrogen-sulfide-regulations, law-and-policy, question:law-and-policy
 author: gretchengehrke
 path: /notes/gretchengehrke/11-30-2017/are-there-occupational-exposure-rules-limiting-exposure-to-hydrogen-sulfide.md

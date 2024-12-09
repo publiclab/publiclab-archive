@@ -1,5 +1,5 @@
 ---
-title: Community Atlas: an "around the world collaboration" on MapKnitter
+title: 'Community Atlas: an "around the world collaboration" on MapKnitter'
 tagnames: balloon-mapping, mapknitter, collaboration, software, google, blog, community-atlas
 author: warren
 path: /notes/warren/07-26-2019/community-atlas-an-around-the-world-collaboration-on-mapknitter.md

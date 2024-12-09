@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Planning for expanded community stats system
+title: 'Outreachy proposal: Planning for expanded community stats system'
 tagnames: software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster
 author: kramadan
 path: /notes/kramadan/11-05-2018/outreachy-proposal-planning-for-expanded-community-stats-system.md

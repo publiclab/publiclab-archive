@@ -1,5 +1,5 @@
 ---
-title: balloon and kite mapping
+title: 'balloon and kite mapping'
 tagnames: california, los-angeles, question:balloon-mapping, question:kite-mapping, location:blurred, lat:34, santa-barbara, question:los-angeles, lon:-119
 author: pataxte
 path: /notes/pataxte/04-07-2019/balloon-and-kite-mapping.md

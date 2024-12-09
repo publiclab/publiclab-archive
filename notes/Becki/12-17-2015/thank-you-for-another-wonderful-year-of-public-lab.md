@@ -1,5 +1,5 @@
 ---
-title: Thank you for another wonderful year of Public Lab!
+title: 'Thank you for another wonderful year of Public Lab!'
 tagnames: blog
 author: Becki
 path: /notes/Becki/12-17-2015/thank-you-for-another-wonderful-year-of-public-lab.md

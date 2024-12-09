@@ -1,5 +1,5 @@
 ---
-title: More tests for "hamster ball" air quality monitoring
+title: 'More tests for "hamster ball" air quality monitoring'
 tagnames: indoor-air-quality-mapping, hamster-ball, air-quality, air-sensors
 author: warren
 path: /notes/warren/2-7-2012/more-tests-hamster-ball-air-quality-monitoring.md

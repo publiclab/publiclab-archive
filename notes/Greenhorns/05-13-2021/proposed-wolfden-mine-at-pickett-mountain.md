@@ -1,5 +1,5 @@
 ---
-title: Proposed Wolfden Mine at Pickett Mountain
+title: 'Proposed Wolfden Mine at Pickett Mountain'
 tagnames: mining, water-quality, maine, mine, northeast, lead, zinc, first-time-poster, zoom:6, mines, lat:46.125882, lon:-68.439756, questions:water-quality
 author: Greenhorns
 path: /notes/Greenhorns/05-13-2021/proposed-wolfden-mine-at-pickett-mountain.md

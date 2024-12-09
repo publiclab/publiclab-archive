@@ -1,5 +1,5 @@
 ---
-title: What happens when the mining stops? Focus on Reclamation
+title: 'What happens when the mining stops? Focus on Reclamation'
 tagnames: wisconsin, mining, blog, frac-sand, midwest, with:mathew, with:gretchengehrke, parent:frac-sand, communityscienceforum, community-science-forum, reclamation, mine-reclamation, evaluating-reclamation
 author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/what-happens-when-the-mining-stops-focus-on-reclamation.md

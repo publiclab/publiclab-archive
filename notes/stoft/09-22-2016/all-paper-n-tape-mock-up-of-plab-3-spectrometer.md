@@ -1,5 +1,5 @@
 ---
-title: All Paper-n-Tape Mock-Up Upgrade of PLab 3 Spectrometer
+title: 'All Paper-n-Tape Mock-Up Upgrade of PLab 3 Spectrometer'
 tagnames: upgrade:spectrometry, seeks:builds, category:build
 author: stoft
 path: /notes/stoft/09-22-2016/all-paper-n-tape-mock-up-of-plab-3-spectrometer.md

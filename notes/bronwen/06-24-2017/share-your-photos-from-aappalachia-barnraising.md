@@ -1,5 +1,5 @@
 ---
-title: Share your photos from Aappalachia Barnraising
+title: 'Share your photos from Aappalachia Barnraising'
 tagnames: barnraising, barnraisingwv2017thanks
 author: Bronwen
 path: /notes/bronwen/06-24-2017/share-your-photos-from-aappalachia-barnraising.md

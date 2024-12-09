@@ -1,5 +1,5 @@
 ---
-title: Messages from the Mississippi Lesson 6: Building a Campaign
+title: 'Messages from the Mississippi Lesson 6: Building a Campaign'
 tagnames: microplastics, messagesfromthemississippi
 author: purl
 path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-6-building-a-campaign.md

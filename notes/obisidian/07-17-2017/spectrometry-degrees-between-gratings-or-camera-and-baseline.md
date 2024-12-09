@@ -1,5 +1,5 @@
 ---
-title: Spectrometry: degrees  between gratings or camera and baseline 
+title: 'Spectrometry: degrees  between gratings or camera and baseline '
 tagnames: question:spectrometry
 author: obisidian
 path: /notes/obisidian/07-17-2017/spectrometry-degrees-between-gratings-or-camera-and-baseline.md

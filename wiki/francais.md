@@ -1,5 +1,5 @@
 ---
-title: Français
+title: 'Français'
 tagnames: tabbed:notes, tabbed:wikis
 author: warren
 path: /wiki/francais.md

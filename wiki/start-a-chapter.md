@@ -1,5 +1,5 @@
 ---
-title: Start a Chapter
+title: 'Start a Chapter'
 tagnames: community, organizers, chapters, workshops
 author: warren
 path: /wiki/start-a-chapter.md

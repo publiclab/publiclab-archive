@@ -1,5 +1,5 @@
 ---
-title: monitoring industrial H2S sources in new orleans area
+title: 'monitoring industrial H2S sources in new orleans area'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, flare, h2s-sites
 author: eustatic
 path: /8-6-2012/monitoring-industrial-h2s-sources-new-orleans-area.md

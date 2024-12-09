@@ -1,5 +1,5 @@
 ---
-title: Bifocal infrared/visible filter at Lima workshop
+title: 'Bifocal infrared/visible filter at Lima workshop'
 tagnames: lima, peru, south-america
 author: warren
 path: /notes/warren/1-6-2011/bifocal-infraredvisible-filter-lima-workshop.md

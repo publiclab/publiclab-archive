@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi NoIR with red filters work
+title: 'Raspberry Pi NoIR with red filters work'
 tagnames: pi, raspberry, raspberry-pi-infragram
 author: julianbolanos
 path: /notes/julianbolanos/01-30-2017/raspberry-pi-noir-with-red-filters-work.md

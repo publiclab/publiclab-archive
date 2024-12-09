@@ -1,5 +1,5 @@
 ---
-title: Plastic Tubing Oblique KAP Rig
+title: 'Plastic Tubing Oblique KAP Rig'
 tagnames: kite-mapping, kite-aerial-photography, self-made-kite-mapping, photo-rig, nap, lap-rigs, reconfigurable-rig, activity:photo-rig
 author: ranon
 path: /notes/ranon/06-22-2016/plastic-tubing-oblique-kap-rig.md

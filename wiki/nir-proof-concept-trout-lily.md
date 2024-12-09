@@ -1,5 +1,5 @@
 ---
-title: NIR proof of concept: Trout Lily
+title: 'NIR proof of concept: Trout Lily'
 tagnames: near-infrared-camera, vermont
 author: cfastie
 path: /wiki/nir-proof-concept-trout-lily.md

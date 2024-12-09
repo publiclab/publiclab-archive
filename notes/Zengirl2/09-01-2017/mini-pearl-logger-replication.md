@@ -1,5 +1,5 @@
 ---
-title: Mini Pearl Logger Replication
+title: 'Mini Pearl Logger Replication'
 tagnames: arduino, sensors, data-logging, arduino-pro-mini, mini-pearl-logger, replication:14518
 author: zengirl2
 path: /notes/Zengirl2/09-01-2017/mini-pearl-logger-replication.md

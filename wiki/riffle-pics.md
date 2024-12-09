@@ -1,5 +1,5 @@
 ---
-title: Riffle pics
+title: 'Riffle pics'
 tagnames: riffle
 author: liz
 path: /wiki/riffle-pics.md

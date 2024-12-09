@@ -1,5 +1,5 @@
 ---
-title: New WheeStat Hardware
+title: 'New WheeStat Hardware'
 tagnames: wheestat
 author: JSummers
 path: /notes/JSummers/07-23-2015/new-wheestat-hardware.md

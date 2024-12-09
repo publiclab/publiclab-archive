@@ -1,5 +1,5 @@
 ---
-title: Proposals
+title: 'Proposals'
 tagnames: 
 author: warren
 path: /wiki/proposals.md

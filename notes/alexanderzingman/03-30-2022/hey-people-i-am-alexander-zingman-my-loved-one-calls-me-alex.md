@@ -1,5 +1,5 @@
 ---
-title: Hey people, I am Alexander Zingman, my loved one calls me Alex. 
+title: 'Hey people, I am Alexander Zingman, my loved one calls me Alex. '
 tagnames: about, first-time-poster, zoom:16, alexander, aboutme, zingman, alexander-zingman, lat:53.900596, lon:27.558968
 author: alexanderzingman
 path: /notes/alexanderzingman/03-30-2022/hey-people-i-am-alexander-zingman-my-loved-one-calls-me-alex.md

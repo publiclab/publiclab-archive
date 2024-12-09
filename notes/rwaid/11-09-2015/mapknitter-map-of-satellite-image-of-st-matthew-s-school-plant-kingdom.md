@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of satellite image of st. matthew's school-plant kingdom
+title: 'MapKnitter map of satellite image of st. matthew's school-plant kingdom'
 tagnames: mapknitter, lat:34.053753328, lon:-118.5419949889
 author: rwaid
 path: /notes/rwaid/11-09-2015/mapknitter-map-of-satellite-image-of-st-matthew-s-school-plant-kingdom.md

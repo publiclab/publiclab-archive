@@ -1,5 +1,5 @@
 ---
-title: Mobius lens out of focus
+title: 'Mobius lens out of focus'
 tagnames: question:general
 author: tuomas_j_mattila
 path: /notes/tuomas_j_mattila/07-01-2018/mobius-lens-out-of-focus.md

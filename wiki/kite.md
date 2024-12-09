@@ -1,5 +1,5 @@
 ---
-title: Kite
+title: 'Kite'
 tagnames: redirect:kite-mapping
 author: warren
 path: /wiki/kite.md

@@ -1,5 +1,5 @@
 ---
-title: Video streaming with infragram on intel edison (ubilinux)
+title: 'Video streaming with infragram on intel edison (ubilinux)'
 tagnames: ndvi, live-streaming, infrared, infragram, rosco, mobius, red, wratten, response:10376, streaming
 author: pjsbill
 path: /notes/pjsbill/04-02-2015/video-streaming-with-infragram-on-intel-edison-ubilinux.md

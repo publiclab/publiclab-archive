@@ -1,5 +1,5 @@
 ---
-title: GIS folsom lake college
+title: 'GIS folsom lake college'
 tagnames: 
 author: krismondani
 path: /notes/krismondani/05-08-2015/gis-folsom-lake-college.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of LAB 5
+title: 'MapKnitter map of LAB 5'
 tagnames: 
 author: hbourne
 path: /notes/hbourne/10-04-2016/mapknitter-map-of-lab-5.md

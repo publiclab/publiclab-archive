@@ -1,5 +1,5 @@
 ---
-title: Distance vs light intensity                first trial
+title: 'Distance vs light intensity                first trial'
 tagnames: 
 author: viechdokter
 path: /notes/viechdokter/04-14-2016/distance-vs-light-intensity-first-trial.md

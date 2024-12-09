@@ -1,5 +1,5 @@
 ---
-title: babylegsposter
+title: 'babylegsposter'
 tagnames: parent:babylegs
 author: warren
 path: /wiki/babylegsposter.md

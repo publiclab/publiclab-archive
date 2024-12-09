@@ -1,5 +1,5 @@
 ---
-title: Passenger Pigeon shots of MSY to PHX
+title: 'Passenger Pigeon shots of MSY to PHX'
 tagnames: gulf-coast, passenger-pigeon
 author: eustatic
 path: /2-24-2013/passenger-pigeon-shots-msy-phx.md

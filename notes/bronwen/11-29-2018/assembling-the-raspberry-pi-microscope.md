@@ -1,5 +1,5 @@
 ---
-title: Assembling the Raspberry Pi Microscope
+title: 'Assembling the Raspberry Pi Microscope'
 tagnames: kits, with:warren, microscope, hardware, activity:raspberry-pi, activity:microscope, community-kits, community-microscope, activity:community-microscope-assembly, raspberry-pi-microscope, raspberrypi-microscope
 author: Bronwen
 path: /notes/bronwen/11-29-2018/assembling-the-raspberry-pi-microscope.md

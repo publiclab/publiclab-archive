@@ -1,5 +1,5 @@
 ---
-title: marinetraffic.com has really improved since the BP Oil Disaster!
+title: 'marinetraffic.com has really improved since the BP Oil Disaster!'
 tagnames: transportation, boat, traffic, ocean, marine-traffic
 author: liz
 path: /notes/liz/03-21-2018/marinetraffic-com-has-really-improved-since-the-bp-oil-disaster.md

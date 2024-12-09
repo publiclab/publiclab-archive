@@ -1,5 +1,5 @@
 ---
-title: IRCam materials
+title: 'IRCam materials'
 tagnames: ircam, materials
 author: warren
 path: /wiki/ircam-materials.md

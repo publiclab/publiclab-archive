@@ -1,5 +1,5 @@
 ---
-title: What's happening with government agencies' environmental justice work?
+title: 'What's happening with government agencies' environmental justice work?'
 tagnames: data, environmental, environmental-justice, governance, chattahoochee, public-awareness
 author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/what-s-happening-with-government-agencies-environmental-justice-work.md

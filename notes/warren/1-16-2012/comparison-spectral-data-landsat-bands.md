@@ -1,5 +1,5 @@
 ---
-title: Comparison of spectral data with Landsat bands
+title: 'Comparison of spectral data with Landsat bands'
 tagnames: 
 author: warren
 path: /notes/warren/1-16-2012/comparison-spectral-data-landsat-bands.md

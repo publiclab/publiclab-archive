@@ -1,5 +1,5 @@
 ---
-title: What would a system designed to improve air quality with new and fresh air look like?
+title: 'What would a system designed to improve air quality with new and fresh air look like?'
 tagnames: question:general, general, first-time-poster
 author: elaina_banksKarr
 path: /notes/elaina_banksKarr/04-30-2021/what-would-a-system-designed-to-improve-air-quality-with-new-and-fresh-air-look-like.md

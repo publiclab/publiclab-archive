@@ -1,5 +1,5 @@
 ---
-title: Common cathode variant of Thermal Flashlight code
+title: 'Common cathode variant of Thermal Flashlight code'
 tagnames: thermal-photography, thermal-flashlight, led, response:625, activity:thermal-flashlight
 author: warren
 path: /notes/warren/2-11-2012/common-cathode-variant-thermal-flashlight-code.md

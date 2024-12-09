@@ -1,5 +1,5 @@
 ---
-title: Syringe pump mechanicals.
+title: 'Syringe pump mechanicals.'
 tagnames: 3d-printing, syringe, pump
 author: JSummers
 path: /notes/JSummers/12-30-2014/syringe-pump-mechanicals.md

@@ -1,5 +1,5 @@
 ---
-title: Rotating magnetic field generator potentate analgezic effect on human body 
+title: 'Rotating magnetic field generator potentate analgezic effect on human body '
 tagnames: rotating-magnetic-field-device, rmf-device, rmf, rotating-magnetic-field-device-analgesic-effect, therapy-device, generating-rotative-magnetic-field, the-effects-of-magnetic-fields, the-effect-of-rotating-magnetic-field, magnetosensitivity, electrical-field, x-device
 author: sciencetoolbar
 path: /notes/sciencetoolbar/02-15-2018/rotating-magnetic-field-rmf-device-analgesic-effect-accelerates-human-body-proceses-research-note.md

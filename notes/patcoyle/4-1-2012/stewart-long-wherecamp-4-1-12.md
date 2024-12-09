@@ -1,5 +1,5 @@
 ---
-title: Stewart Long at WhereCamp 4-1-12
+title: 'Stewart Long at WhereCamp 4-1-12'
 tagnames: 
 author: patcoyle
 path: /notes/patcoyle/4-1-2012/stewart-long-wherecamp-4-1-12.md

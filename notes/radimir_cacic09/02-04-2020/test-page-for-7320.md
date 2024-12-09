@@ -1,5 +1,5 @@
 ---
-title: TEST PAGE FOR #7320
+title: 'TEST PAGE FOR #7320'
 tagnames: new, draft, activity:new
 author: radimir_cacic09
 path: /notes/radimir_cacic09/02-04-2020/test-page-for-7320.md

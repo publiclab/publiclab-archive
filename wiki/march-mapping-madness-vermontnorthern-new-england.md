@@ -1,5 +1,5 @@
 ---
-title: March Mapping Madness-Vermont/Northern New England
+title: 'March Mapping Madness-Vermont/Northern New England'
 tagnames: 
 author: sara
 path: /wiki/march-mapping-madness-vermontnorthern-new-england.md

@@ -1,5 +1,5 @@
 ---
-title: A reflection of sensor journalism
+title: 'A reflection of sensor journalism'
 tagnames: water-quality, coqui, sensor-journalism
 author: abcieslik
 path: /notes/abcieslik/10-07-2014/a-reflection-of-sensor-journalism.md

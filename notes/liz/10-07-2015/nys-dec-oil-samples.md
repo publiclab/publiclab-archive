@@ -1,5 +1,5 @@
 ---
-title: NYS DEC Oil Samples
+title: 'NYS DEC Oil Samples'
 tagnames: new-york-city, oil, oil-testing-kit, northeast, ny, newtown-creek-alliance, enforcement, oil-and-gas, nysdec
 author: liz
 path: /notes/liz/10-07-2015/nys-dec-oil-samples.md

@@ -1,5 +1,5 @@
 ---
-title: Banjo cases for carrying kite/reel
+title: 'Banjo cases for carrying kite/reel'
 tagnames: kite-mapping
 author: warren
 path: /notes/warren/3-9-2012/banjo-cases-carrying-kitereel.md

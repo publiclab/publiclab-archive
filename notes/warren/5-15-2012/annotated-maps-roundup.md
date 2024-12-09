@@ -1,5 +1,5 @@
 ---
-title: Annotated maps roundup
+title: 'Annotated maps roundup'
 tagnames: balloon-mapping, annotated-maps
 author: warren
 path: /notes/warren/5-15-2012/annotated-maps-roundup.md

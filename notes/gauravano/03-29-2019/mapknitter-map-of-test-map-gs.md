@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of test-map-gs
+title: 'MapKnitter map of test-map-gs'
 tagnames: mapknitter, lat:28.7040592, lon:77.1024902
 author: gauravano
 path: /notes/gauravano/03-29-2019/mapknitter-map-of-test-map-gs.md

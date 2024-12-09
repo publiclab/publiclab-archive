@@ -1,5 +1,5 @@
 ---
-title: Map Stitching
+title: 'Map Stitching'
 tagnames: 
 author: warren
 path: /wiki/map-stitching.md

@@ -1,5 +1,5 @@
 ---
-title: Wiki Discussion
+title: 'Wiki Discussion'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, first-time-poster
 author: Ashan
 path: /notes/Ashan/03-13-2017/wiki-discussion.md

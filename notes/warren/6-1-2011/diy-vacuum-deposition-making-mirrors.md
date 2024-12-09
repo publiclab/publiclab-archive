@@ -1,5 +1,5 @@
 ---
-title: DIY vacuum deposition for making mirrors
+title: 'DIY vacuum deposition for making mirrors'
 tagnames: 
 author: warren
 path: /notes/warren/6-1-2011/diy-vacuum-deposition-making-mirrors.md

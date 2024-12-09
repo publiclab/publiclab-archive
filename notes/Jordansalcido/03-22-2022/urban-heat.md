@@ -1,5 +1,5 @@
 ---
-title: Urban Heat 
+title: 'Urban Heat '
 tagnames: urban-heat-island, issue-brief, lat:34, first-time-poster, lon:-118, zoom:6, urbanheat, heatisland, treecanopy
 author: Jordansalcido
 path: /notes/Jordansalcido/03-22-2022/urban-heat.md

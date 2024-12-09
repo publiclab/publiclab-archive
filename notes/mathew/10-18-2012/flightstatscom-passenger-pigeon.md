@@ -1,5 +1,5 @@
 ---
-title: Flightstats.com for Passenger Pigeon
+title: 'Flightstats.com for Passenger Pigeon'
 tagnames: mapknitter, passenger-pigeon, flightstats, activity:passenger-pigeon
 author: mathew
 path: /notes/mathew/10-18-2012/flightstatscom-passenger-pigeon.md

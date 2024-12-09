@@ -1,5 +1,5 @@
 ---
-title: Kits Initiative 2017 Wrap Up!
+title: 'Kits Initiative 2017 Wrap Up!'
 tagnames: newsletter, kits, kits-initiative
 author: Bronwen
 path: /notes/bronwen/12-06-2017/kits-initiative-2017-wrap-up.md

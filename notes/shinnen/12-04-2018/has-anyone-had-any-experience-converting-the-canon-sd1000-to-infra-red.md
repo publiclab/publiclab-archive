@@ -1,5 +1,5 @@
 ---
-title: Has anyone had any experience converting the Canon SD1000 to infra-red?
+title: 'Has anyone had any experience converting the Canon SD1000 to infra-red?'
 tagnames: near-infrared-camera, conversion, filter, infragram, 74, hardware, question:general
 author: shinnen
 path: /notes/shinnen/12-04-2018/has-anyone-had-any-experience-converting-the-canon-sd1000-to-infra-red.md

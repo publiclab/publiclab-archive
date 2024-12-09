@@ -1,5 +1,5 @@
 ---
-title: First hand experience on using Public Lab with Sara Sage
+title: 'First hand experience on using Public Lab with Sara Sage'
 tagnames: landfill, air-quality, non-profit, lang:es, land-use, air-monitoring, community-organizing, with:sarasage, zoom:16, VVAMP, aire, monitoreo-aire, calidad-aire, lat:13.721, lon:-89.221
 author: denissebn_06
 path: /notes/denissebn_06/06-04-2021/first-hand-experience-on-using-public-lab-with-sara-sage.md

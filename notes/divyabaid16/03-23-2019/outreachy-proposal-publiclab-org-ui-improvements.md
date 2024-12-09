@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: PublicLab.org UI Improvements
+title: 'Outreachy proposal: PublicLab.org UI Improvements'
 tagnames: software, soc, outreachy, response:17359, first-time-poster, soc-2019, outreachy-2019, outreachy-2019-proposals
 author: divyabaid16
 path: /notes/divyabaid16/03-23-2019/outreachy-proposal-publiclab-org-ui-improvements.md

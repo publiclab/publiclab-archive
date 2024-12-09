@@ -1,5 +1,5 @@
 ---
-title: Catch Basins 101: How to clean a catch basin with one person in 68 minutes.
+title: 'Catch Basins 101: How to clean a catch basin with one person in 68 minutes.'
 tagnames: gulf-coast, new-orleans, stormwater, activity:stormwater, storm, catch, basins, drains, catch-basin
 author: dmunchak
 path: /notes/dmunchak/09-02-2017/catch-basins-101.md

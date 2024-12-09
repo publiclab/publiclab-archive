@@ -1,5 +1,5 @@
 ---
-title: Method for attaching Picavet rig to Pole Kit
+title: 'Method for attaching Picavet rig to Pole Kit'
 tagnames: picavet
 author: tonyc
 path: /notes/tonyc/01-21-2016/method-for-attaching-picavet-rig-to-pole-kit.md

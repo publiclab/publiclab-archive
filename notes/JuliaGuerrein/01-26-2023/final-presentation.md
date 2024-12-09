@@ -1,5 +1,5 @@
 ---
-title: Final Presentation
+title: 'Final Presentation'
 tagnames: seeks:replications, mn-land-manoomin-protection, activity:mn-land-manoomin-protection
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/01-26-2023/final-presentation.md

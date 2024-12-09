@@ -1,5 +1,5 @@
 ---
-title: Attempt at Distance Spectrometery
+title: 'Attempt at Distance Spectrometery'
 tagnames: spectrometer, flare
 author: jetson
 path: /notes/jetson/1-27-2013/attempt-distance-spectrometery.md

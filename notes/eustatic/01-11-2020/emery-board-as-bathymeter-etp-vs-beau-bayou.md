@@ -1,5 +1,5 @@
 ---
-title: Emery Board as Bathymeter: ETP vs Beau Bayou
+title: 'Emery Board as Bathymeter: ETP vs Beau Bayou'
 tagnames: oil, pipeline, survey, barnstar:photo-documentation, new, industry, hardware, oil-and-gas, site-survey, activity:site-survey, topography, activity:new, pipelines, elevation, emery-board, replication:17856, lat:30.141942, lon:-91.618053
 author: eustatic
 path: /01-11-2020/emery-board-as-bathymeter-etp-vs-beau-bayou.md

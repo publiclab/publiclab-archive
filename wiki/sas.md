@@ -1,5 +1,5 @@
 ---
-title: sas
+title: 'sas'
 tagnames: redirect:simple-air-sensor
 author: warren
 path: /wiki/sas.md

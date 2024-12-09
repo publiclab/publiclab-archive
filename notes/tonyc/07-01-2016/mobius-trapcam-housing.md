@@ -1,5 +1,5 @@
 ---
-title: Mobius TrapCam Housing
+title: 'Mobius TrapCam Housing'
 tagnames: timelapse, housing, mobius, trapcam
 author: tonyc
 path: /notes/tonyc/07-01-2016/mobius-trapcam-housing.md

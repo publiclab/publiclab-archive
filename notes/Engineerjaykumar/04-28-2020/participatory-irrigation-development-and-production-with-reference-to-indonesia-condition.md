@@ -1,5 +1,5 @@
 ---
-title: Participatory Irrigation development and Production: with reference to Indonesia condition
+title: 'Participatory Irrigation development and Production: with reference to Indonesia condition'
 tagnames: agriculture, asia, indonesia, irrigation, lat:-0.789275, lon:113.921327, zoom:6
 author: Engineerjaykumar
 path: /notes/Engineerjaykumar/04-28-2020/participatory-irrigation-development-and-production-with-reference-to-indonesia-condition.md

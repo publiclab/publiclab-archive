@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Design a new full-screen and Responsive  user interface for Infragram.org
+title: 'Outreachy proposal: Design a new full-screen and Responsive  user interface for Infragram.org'
 tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
 author: arupdeb20010
 path: /notes/arupdeb20010/04-22-2022/outreachy-proposal-design-a-new-full-screen-and-responsive-user-interface-for-infragram-org.md

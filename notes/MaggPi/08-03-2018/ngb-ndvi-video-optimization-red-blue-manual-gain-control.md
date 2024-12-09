@@ -1,5 +1,5 @@
 ---
-title: NGB NDVI Video Optimization (Red/Blue Manual Gain Control)
+title: 'NGB NDVI Video Optimization (Red/Blue Manual Gain Control)'
 tagnames: video, ndvi, raspberry-pi, ngb, pi-camera, opencv, gsoc-2018, noir, awb
 author: MaggPi
 path: /notes/MaggPi/08-03-2018/ngb-ndvi-video-optimization-red-blue-manual-gain-control.md

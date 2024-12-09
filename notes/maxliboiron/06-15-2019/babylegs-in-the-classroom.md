@@ -1,5 +1,5 @@
 ---
-title: BabyLegs in the classroom
+title: 'BabyLegs in the classroom'
 tagnames: education, teaching, k-12, children, teachers, cirriculum, activity:education, schools, activity:classroom, microplastics, lat:40, babylegs, activity:babylegs, lon:-50, activity:microplastics
 author: maxliboiron
 path: /notes/maxliboiron/06-15-2019/babylegs-in-the-classroom.md

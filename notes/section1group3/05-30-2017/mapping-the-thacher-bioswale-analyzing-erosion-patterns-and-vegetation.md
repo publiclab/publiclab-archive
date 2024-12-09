@@ -1,5 +1,5 @@
 ---
-title: Mapping the Thacher Bioswale: Analyzing Erosion Patterns and Vegetation
+title: 'Mapping the Thacher Bioswale: Analyzing Erosion Patterns and Vegetation'
 tagnames: balloon-mapping, event, erosion, hidden:response, response:14179
 author: section1group3
 path: /notes/section1group3/05-30-2017/mapping-the-thacher-bioswale-analyzing-erosion-patterns-and-vegetation.md

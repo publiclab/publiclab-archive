@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Improve MapKnitter Lite for Mapmaking with Aerial Photos as a Lightweight Web Service
+title: 'Outreachy proposal: Improve MapKnitter Lite for Mapmaking with Aerial Photos as a Lightweight Web Service'
 tagnames: software, lat:0, lon:0, outreachy, first-time-poster, zoom:3, outreachy-2022, outreachy-winter-2022
 author: okunlolastephen37
 path: /notes/okunlolastephen37/11-04-2022/outreachy-proposal-improve-mapknitter-lite-for-mapmaking-with-aerial-photos-as-a-lightweight-web-service.md

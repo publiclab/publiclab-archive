@@ -1,5 +1,5 @@
 ---
-title: Jamaica Bay Marsh Planting 
+title: 'Jamaica Bay Marsh Planting '
 tagnames: new-york-city, kite-mapping, kite, jamaica-bay, queens, balloon, nyc, marsh, northeast, rulersbar, island, gateway, kitemapping
 author: gwirth
 path: /notes/gwirth/06-10-2014/jamaica-bay-marsh-planting.md

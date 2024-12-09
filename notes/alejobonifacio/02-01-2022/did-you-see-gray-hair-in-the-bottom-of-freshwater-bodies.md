@@ -1,5 +1,5 @@
 ---
-title: Did you see gray “hair” in the bottom of freshwater bodies?
+title: 'Did you see gray “hair” in the bottom of freshwater bodies?'
 tagnames: sewage, water-quality, bacteria, new, wastewater, activity:new, zoom:6, lon:-64, lat:-31, research-curation-fellows, activity:wastewater
 author: alejobonifacio
 path: /notes/alejobonifacio/02-01-2022/did-you-see-gray-hair-in-the-bottom-of-freshwater-bodies.md

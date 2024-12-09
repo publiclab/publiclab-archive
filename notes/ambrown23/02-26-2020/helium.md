@@ -1,5 +1,5 @@
 ---
-title: Helium
+title: 'Helium'
 tagnames: first-time-poster
 author: ambrown23
 path: /notes/ambrown23/02-26-2020/helium.md

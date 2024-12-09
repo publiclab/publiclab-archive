@@ -1,5 +1,5 @@
 ---
-title: FOSS4Geo for Educators
+title: 'FOSS4Geo for Educators'
 tagnames: foss4g, gis, foss, geo, geospatial
 author: goliadranger
 path: /wiki/foss4geo-for-educators.md

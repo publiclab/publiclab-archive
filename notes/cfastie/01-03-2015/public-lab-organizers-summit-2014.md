@@ -1,5 +1,5 @@
 ---
-title: Public Lab Organizers Summit, 2014
+title: 'Public Lab Organizers Summit, 2014'
 tagnames: gulf-coast, louisiana, cocodrie, barnraising, lumcon, barnstar:photo-documentation, barnraising2014, response:11506
 author: cfastie
 path: /notes/cfastie/01-03-2015/public-lab-organizers-summit-2014.md

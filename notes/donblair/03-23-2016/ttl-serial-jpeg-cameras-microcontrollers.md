@@ -1,5 +1,5 @@
 ---
-title: TTL Serial JPEG Cameras + microcontrollers
+title: 'TTL Serial JPEG Cameras + microcontrollers'
 tagnames: riffle, riffle-examples
 author: donblair
 path: /notes/donblair/03-23-2016/ttl-serial-jpeg-cameras-microcontrollers.md

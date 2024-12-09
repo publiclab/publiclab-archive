@@ -1,5 +1,5 @@
 ---
-title: What kind of camera is needed for night-time balloon mapping?
+title: 'What kind of camera is needed for night-time balloon mapping?'
 tagnames: balloon-mapping, waterway, aerial-photography, watchdog, air-quality, answered, environmental-justice, question:question
 author: zengirl2
 path: /notes/Zengirl2/12-11-2017/what-kind-of-camera-is-needed-for-night-time-balloon-mapping.md

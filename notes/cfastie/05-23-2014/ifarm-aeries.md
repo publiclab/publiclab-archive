@@ -1,5 +1,5 @@
 ---
-title: iFarm aeries
+title: 'iFarm aeries'
 tagnames: kite-mapping, boston, new-hampshire, farmhack, farm, kap, event, ifarm, 3d-printing, northeast, ifarm2014, aeries, response:10486, redstone
 author: cfastie
 path: /notes/cfastie/05-23-2014/ifarm-aeries.md

@@ -1,5 +1,5 @@
 ---
-title: Camera IR, spectrometer
+title: 'Camera IR, spectrometer'
 tagnames: spectrometer, answered, question:general
 author: Sigmund92
 path: /notes/Sigmund92/01-24-2017/camera-ir-spectrometer.md

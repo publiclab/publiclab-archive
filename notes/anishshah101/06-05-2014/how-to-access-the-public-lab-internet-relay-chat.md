@@ -1,5 +1,5 @@
 ---
-title: How to access the Public Lab Internet Relay Chat (IRC)?
+title: 'How to access the Public Lab Internet Relay Chat (IRC)?'
 tagnames: chat, developers, irc
 author: anishshah101
 path: /notes/anishshah101/06-05-2014/how-to-access-the-public-lab-internet-relay-chat.md

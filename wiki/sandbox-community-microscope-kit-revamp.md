@@ -1,5 +1,5 @@
 ---
-title: sandbox-community-microscope-kit-revamp
+title: 'sandbox-community-microscope-kit-revamp'
 tagnames: community-microscope
 author: mimiss
 path: /wiki/sandbox-community-microscope-kit-revamp.md

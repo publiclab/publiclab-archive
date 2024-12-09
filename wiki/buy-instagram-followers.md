@@ -1,5 +1,5 @@
 ---
-title: Buy Instagram Followers
+title: 'Buy Instagram Followers'
 tagnames: 
 author: ShaneWeaver
 path: /wiki/buy-instagram-followers.md

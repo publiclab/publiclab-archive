@@ -1,5 +1,5 @@
 ---
-title: May 4 IdeasCity Speechbusters "Earth Observation Systems" with Nina Ilieva
+title: 'May 4 IdeasCity Speechbusters "Earth Observation Systems" with Nina Ilieva'
 tagnames: new-york-city, event
 author: liz
 path: /notes/liz/04-26-2013/may-4-ideascity-speechbusters-earth-observation-systems-with-nina-ilieva.md

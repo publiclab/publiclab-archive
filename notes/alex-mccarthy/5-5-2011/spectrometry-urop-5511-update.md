@@ -1,5 +1,5 @@
 ---
-title: Spectrometry UROP 5/5/11 update
+title: 'Spectrometry UROP 5/5/11 update'
 tagnames: spectrometer, uv
 author: Alex-McCarthy
 path: /notes/alex-mccarthy/5-5-2011/spectrometry-urop-5511-update.md

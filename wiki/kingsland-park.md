@@ -1,5 +1,5 @@
 ---
-title: Kingsland Park
+title: 'Kingsland Park'
 tagnames: balloon-mapping, new-jersey, nutley_nj, kingsland-park
 author: gdotoli
 path: /wiki/kingsland-park.md

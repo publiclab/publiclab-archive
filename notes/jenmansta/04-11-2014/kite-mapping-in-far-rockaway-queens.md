@@ -1,5 +1,5 @@
 ---
-title: Kite mapping in Far Rockaway, Queens
+title: 'Kite mapping in Far Rockaway, Queens'
 tagnames: new-york-city, kite-mapping, queens, event, rockaways, arverne, northeast, replication:14022, replication:13475
 author: jenmansta
 path: /notes/jenmansta/04-11-2014/kite-mapping-in-far-rockaway-queens.md

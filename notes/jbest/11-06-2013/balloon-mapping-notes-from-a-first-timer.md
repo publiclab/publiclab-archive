@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping notes from a first-timer
+title: 'Balloon mapping notes from a first-timer'
 tagnames: balloon-mapping, picavet
 author: jbest
 path: /notes/jbest/11-06-2013/balloon-mapping-notes-from-a-first-timer.md

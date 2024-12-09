@@ -1,5 +1,5 @@
 ---
-title: Event: Wisconsin Sand Sentinel Training 
+title: 'Event: Wisconsin Sand Sentinel Training '
 tagnames: reporting, event, wisconsin, legal, frac-sand, pm, midwest, sentinel, parent:the-sand-sentinel-program, sand-sentinel, law-and-policy
 author: stevie
 path: /notes/stevie/08-06-2019/event-wisconsin-sand-sentinel-training.md

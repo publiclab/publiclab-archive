@@ -1,5 +1,5 @@
 ---
-title: balloon map uncc
+title: 'balloon map uncc'
 tagnames: first-time-poster
 author: djankosk
 path: /notes/djankosk/02-18-2015/balloon-map-uncc.md

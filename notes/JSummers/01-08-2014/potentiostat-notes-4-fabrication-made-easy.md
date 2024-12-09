@@ -1,5 +1,5 @@
 ---
-title: Potentiostat Notes 4:  Fabrication made easy
+title: 'Potentiostat Notes 4:  Fabrication made easy'
 tagnames: potentiostat, response:9918
 author: JSummers
 path: /notes/JSummers/01-08-2014/potentiostat-notes-4-fabrication-made-easy.md

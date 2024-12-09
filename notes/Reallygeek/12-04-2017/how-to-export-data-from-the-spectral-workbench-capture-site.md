@@ -1,5 +1,5 @@
 ---
-title:  how to export data from the spectral workbench capture site?
+title: ' how to export data from the spectral workbench capture site?'
 tagnames: arduino, spectralworkbench, data, exporting, question:general, cvs
 author: Reallygeek
 path: /notes/Reallygeek/12-04-2017/how-to-export-data-from-the-spectral-workbench-capture-site.md

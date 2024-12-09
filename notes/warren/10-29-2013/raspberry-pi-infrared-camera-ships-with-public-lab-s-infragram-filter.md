@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Infrared Camera ships with Public Lab's Infragram filter
+title: 'Raspberry Pi Infrared Camera ships with Public Lab's Infragram filter'
 tagnames: near-infrared-camera, raspberry-pi, infragram
 author: warren
 path: /notes/warren/10-29-2013/raspberry-pi-infrared-camera-ships-with-public-lab-s-infragram-filter.md

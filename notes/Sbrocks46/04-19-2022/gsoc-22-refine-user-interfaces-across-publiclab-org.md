@@ -1,5 +1,5 @@
 ---
-title: GSoC 22 - Refine User Interfaces across PublicLab.org
+title: 'GSoC 22 - Refine User Interfaces across PublicLab.org'
 tagnames: first-time-poster, lat:18.52043, lon:73.856743, zoom:6, gsoc-2022-proposals, question:gsoc-2022-proposals, questions:gsoc-2022-proposals
 author: Sbrocks46
 path: /notes/Sbrocks46/04-19-2022/gsoc-22-refine-user-interfaces-across-publiclab-org.md

@@ -1,5 +1,5 @@
 ---
-title: Shivaji Competition: Islands, Deltas and Rising Seas
+title: 'Shivaji Competition: Islands, Deltas and Rising Seas'
 tagnames: sea-level-rise, climate-change, global-climate-change, community-driven, competition
 author: glennweiss
 path: /notes/glennweiss/01-23-2016/shivaji-competition-islands-deltas-and-rising-seas.md

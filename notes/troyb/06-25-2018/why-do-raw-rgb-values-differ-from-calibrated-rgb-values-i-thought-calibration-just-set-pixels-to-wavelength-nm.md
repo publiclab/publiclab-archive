@@ -1,5 +1,5 @@
 ---
-title: Why do raw RGB values differ from calibrated RGB values? I thought calibration just set pixels to wavelength (nm)?
+title: 'Why do raw RGB values differ from calibrated RGB values? I thought calibration just set pixels to wavelength (nm)?'
 tagnames: spectral-workbench, question:spectral-workbench
 author: troyb
 path: /notes/troyb/06-25-2018/why-do-raw-rgb-values-differ-from-calibrated-rgb-values-i-thought-calibration-just-set-pixels-to-wavelength-nm.md

@@ -1,5 +1,5 @@
 ---
-title: Scan and compare different gases (in discharge tubes, like neon) using a DIY spectrometer
+title: 'Scan and compare different gases (in discharge tubes, like neon) using a DIY spectrometer'
 tagnames: spectrometer, education, spectrometry, neon, classroom, helium, gas, co2, activity:spectrometry, activity:foldable-spec, activity:education, foldable-spec, activity:science-fair, science-fair, gases, curricula, science-class, activity:classroom, activity:papercraft-spec
 author: warren
 path: /notes/warren/10-27-2017/scan-various-gases-in-tube-lamps-like-neon-using-a-diy-spectrometer.md

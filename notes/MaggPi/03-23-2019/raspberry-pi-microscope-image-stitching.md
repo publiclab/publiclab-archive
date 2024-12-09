@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Microscope Image Stitching 
+title: 'Raspberry Pi Microscope Image Stitching '
 tagnames: image-stitching, raspberry-pi, stitching, microscope, microscopy, computer-vision, opencv, raspberry-pi-cameras, live
 author: MaggPi
 path: /notes/MaggPi/03-23-2019/raspberry-pi-microscope-image-stitching.md

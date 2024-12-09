@@ -1,5 +1,5 @@
 ---
-title: Coqui BBv1.0: Reacting to an LED with Sound
+title: 'Coqui BBv1.0: Reacting to an LED with Sound'
 tagnames: water-quality, difficulty:easy, category:verify, time:1h, status:draft, activity:coqui-mods
 author: donblair
 path: /notes/donblair/09-30-2014/coqui-bbv1-0-reacting-to-an-led-with-sound.md

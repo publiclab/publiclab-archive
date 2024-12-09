@@ -1,5 +1,5 @@
 ---
-title: Stories of balloon and kite mapping in education
+title: 'Stories of balloon and kite mapping in education'
 tagnames: balloon-mapping, kite-mapping, education, parts-and-crafts, blog, makerspaces, civiclab, media-lab, govlab, cusp
 author: warren
 path: /notes/warren/06-30-2017/stories-of-balloon-and-kite-mapping-in-education.md

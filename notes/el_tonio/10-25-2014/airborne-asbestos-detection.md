@@ -1,5 +1,5 @@
 ---
-title: Airborne Asbestos Detection
+title: 'Airborne Asbestos Detection'
 tagnames: laser, air-quality, asbestos, magnetic, paramagnetic
 author: el_tonio
 path: /notes/el_tonio/10-25-2014/airborne-asbestos-detection.md

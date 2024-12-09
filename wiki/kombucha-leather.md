@@ -1,5 +1,5 @@
 ---
-title: kombucha leather
+title: 'kombucha leather'
 tagnames: yeast, microbes, kombucha, biomaterial, kombucha-leather
 author: liz
 path: /wiki/kombucha-leather.md

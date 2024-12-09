@@ -1,5 +1,5 @@
 ---
-title: Advanced Searching and Sorting Tool for publiclab.org
+title: 'Advanced Searching and Sorting Tool for publiclab.org'
 tagnames: software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827, rich-search, first-time-poster
 author: Ujitha
 path: /notes/Ujitha/03-12-2016/advanced-searching-and-sorting-tool-for-publiclab-org.md

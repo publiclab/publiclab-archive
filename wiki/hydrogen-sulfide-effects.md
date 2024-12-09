@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Sulfide Effects
+title: 'Hydrogen Sulfide Effects'
 tagnames: hydrogen-sulfide, h2s, parent:hydrogen-sulfide, h2s-overview
 author: warren
 path: /wiki/hydrogen-sulfide-effects.md

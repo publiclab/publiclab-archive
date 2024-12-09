@@ -1,5 +1,5 @@
 ---
-title: Host an Issue Brief workshop
+title: 'Host an Issue Brief workshop'
 tagnames: workshop, event, activity, getting-started, issue-brief, activity:community-organizing, activity:issue-brief
 author: stevie
 path: /wiki/host-an-issue-brief-workshop.md

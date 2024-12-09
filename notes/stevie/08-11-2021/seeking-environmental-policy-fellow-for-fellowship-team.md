@@ -1,5 +1,5 @@
 ---
-title: Seeking Environmental Policy Fellow for Fellowship Team
+title: 'Seeking Environmental Policy Fellow for Fellowship Team'
 tagnames: coal-mining, west-virginia, reporting, mountaintop-removal, jobs, fellowship, permits, oil-and-gas, job, career, permitting, policy, environmental-policy, fellow, fellowship-team, mmmp
 author: stevie
 path: /notes/stevie/08-11-2021/seeking-environmental-policy-fellow-for-fellowship-team.md

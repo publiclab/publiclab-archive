@@ -1,5 +1,5 @@
 ---
-title: Off-wind kite flying & Redstone Rigging in Augusta, WI
+title: 'Off-wind kite flying & Redstone Rigging in Augusta, WI'
 tagnames: kite-mapping, mapping, wisconsin, silica, frac-sand, parent:frac-sand, off-wind-flying
 author: mathew
 path: /notes/mathew/06-25-2014/off-wind-kite-flying-redstone-rigging-in-augusta-wi.md

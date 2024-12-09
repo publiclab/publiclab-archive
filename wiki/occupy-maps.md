@@ -1,5 +1,5 @@
 ---
-title: Occupy Maps
+title: 'Occupy Maps'
 tagnames: protest-mapping, occupy
 author: warren
 path: /wiki/occupy-maps.md

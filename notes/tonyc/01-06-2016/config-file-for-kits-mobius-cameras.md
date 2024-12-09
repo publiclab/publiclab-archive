@@ -1,5 +1,5 @@
 ---
-title: config file for kits mobius cameras
+title: 'config file for kits mobius cameras'
 tagnames: kite-mapping
 author: tonyc
 path: /notes/tonyc/01-06-2016/config-file-for-kits-mobius-cameras.md

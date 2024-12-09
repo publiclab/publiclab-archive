@@ -1,5 +1,5 @@
 ---
-title: Water Samples For DataViz Reflection 
+title: 'Water Samples For DataViz Reflection '
 tagnames: sensor-journalism
 author: tati
 path: /notes/tati/10-06-2014/water-samples-for-dataviz-reflection.md

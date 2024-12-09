@@ -1,5 +1,5 @@
 ---
-title: Dissolved Oxygen Testing and Citizen Science
+title: 'Dissolved Oxygen Testing and Citizen Science'
 tagnames: water-sensing, citizen-science, water-quality-monitoring, water-quality, dissolved-oxygen, question:water-quality, question:water-sensors, water-sensors, water-quality-testing, do, question:dissolved-oxygen
 author: belkinsa
 path: /notes/belkinsa/10-04-2018/dissolved-oxygen-testing-and-citizen-science.md

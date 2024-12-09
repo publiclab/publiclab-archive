@@ -1,5 +1,5 @@
 ---
-title: Depth Sensor Proposal - Experimental Results
+title: 'Depth Sensor Proposal - Experimental Results'
 tagnames: water-depth, depth-sensor, barnraising2017, response:13126, replication:13126
 author: danbeavers
 path: /notes/danbeavers/11-12-2017/depth-sensor-proposal-experimental-results.md

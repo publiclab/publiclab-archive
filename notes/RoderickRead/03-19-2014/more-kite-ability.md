@@ -1,5 +1,5 @@
 ---
-title: More kite ability
+title: 'More kite ability'
 tagnames: kite, kap, design, energy, steering, platform, first-time-poster
 author: RoderickRead
 path: /notes/RoderickRead/03-19-2014/more-kite-ability.md

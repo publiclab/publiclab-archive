@@ -1,5 +1,5 @@
 ---
-title: Will trigonometry help an Arduino measure water depth?
+title: 'Will trigonometry help an Arduino measure water depth?'
 tagnames: arduino, sensors, datalogger, data-logging, nano-data-logger, activity:nano-data-logger, accelerometer, mma8451, series:springhouse-water-level
 author: cfastie
 path: /notes/cfastie/12-29-2017/will-trigonometry-help-an-arduino-measure-water-depth.md

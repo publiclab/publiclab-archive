@@ -1,5 +1,5 @@
 ---
-title: Middle Planet
+title: 'Middle Planet'
 tagnames: kite-mapping, middlebury, vermont, kite, middlebury-college, saturnv, skyshield, half-spherical, littleplanet, response:12315
 author: cfastie
 path: /notes/cfastie/10-20-2015/middle-planet.md

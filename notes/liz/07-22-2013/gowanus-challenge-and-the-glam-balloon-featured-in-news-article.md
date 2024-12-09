@@ -1,5 +1,5 @@
 ---
-title: Gowanus Challenge and the GLAM balloon featured in news article
+title: 'Gowanus Challenge and the GLAM balloon featured in news article'
 tagnames: new-york-city, gowanus, great-photos
 author: liz
 path: /notes/liz/07-22-2013/gowanus-challenge-and-the-glam-balloon-featured-in-news-article.md

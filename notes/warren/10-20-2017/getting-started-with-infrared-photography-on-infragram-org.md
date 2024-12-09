@@ -1,5 +1,5 @@
 ---
-title: Getting started with infrared photography on Infragram.org
+title: 'Getting started with infrared photography on Infragram.org'
 tagnames: ndvi, infrared, software, infragram, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:ndvi, activity:infragram-point-shoot, infragram.org, activity:infragram.org, pin:activity:infragram
 author: warren
 path: /notes/warren/10-20-2017/getting-started-with-infrared-photography-on-infragram-org.md

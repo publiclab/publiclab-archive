@@ -1,5 +1,5 @@
 ---
-title: Community Organizing Fellowship is open!
+title: 'Community Organizing Fellowship is open!'
 tagnames: organizing, jobs, fellows, fellowships, frontline-communities, frontline
 author: stevie
 path: /notes/stevie/11-30-2021/community-organizing-fellowship-is-open.md

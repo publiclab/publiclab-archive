@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of USFWS restoration wildlife habitat Bayou Sauvage linear planting
+title: 'MapKnitter map of USFWS restoration wildlife habitat Bayou Sauvage linear planting'
 tagnames: mapknitter, lat:30.0502715433, lon:-89.8365047898, lat:30.089566, lon:-89.86922
 author: eustatic
 path: /04-01-2019/mapknitter-map-of-usfws-restoration-wildlife-habitat-bayou-sauvage-linear-planting.md

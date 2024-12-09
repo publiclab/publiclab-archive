@@ -1,5 +1,5 @@
 ---
-title: Presentation at Waag Society's Eclectis program
+title: 'Presentation at Waag Society's Eclectis program'
 tagnames: waagsociety, presentations, presentation, waag, eclectis
 author: warren
 path: /notes/warren/09-16-2013/presentation-at-waag-society-s-eclectis-program.md

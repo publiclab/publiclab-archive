@@ -1,5 +1,5 @@
 ---
-title: Oil and Gas Hardware Fellow Status Update: Week 11
+title: 'Oil and Gas Hardware Fellow Status Update: Week 11'
 tagnames: water-quality, oil-and-gas, oil-and-gas-water-trio
 author: wmacfarl
 path: /notes/wmacfarl/12-10-2019/oil-and-gas-hardware-fellow-status-update-week-11.md

@@ -1,5 +1,5 @@
 ---
-title: Community Soil Testing Using an Open Source Soil Sampling Toolkit
+title: 'Community Soil Testing Using an Open Source Soil Sampling Toolkit'
 tagnames: soil, sampling, soil-testing, soil-sampling, activity:soil-sampling, activity:oil-testing, activity:soil, soil-contaminants, soil-contaminant-testing, soil-testing-kits, activity:lead, activity:heavy-metals, replication:18505, lat:42.933626, lon:-78.880547
 author: jjcreedon
 path: /notes/jjcreedon/08-21-2019/community-soil-testing-using-an-open-source-soil-sampling-toolkit.md

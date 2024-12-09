@@ -1,5 +1,5 @@
 ---
-title: Curriculum for Infragram
+title: 'Curriculum for Infragram'
 tagnames: near-infrared-camera, curriculum, near-infrared, raspberry-pi, near-ir, infragram, rpi, with:mathew, first-time-poster
 author: amandaf
 path: /notes/amandaf/08-09-2014/curriculum-for-infragram.md

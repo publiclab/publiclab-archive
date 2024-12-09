@@ -1,5 +1,5 @@
 ---
-title: Help Public Lab raise $2,014 by 2014!
+title: 'Help Public Lab raise $2,014 by 2014!'
 tagnames: donation
 author: Becki
 path: /notes/Becki/12-23-2013/help-public-lab-raise-2-014-by-2014.md

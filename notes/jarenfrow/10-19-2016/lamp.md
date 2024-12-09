@@ -1,5 +1,5 @@
 ---
-title: Lamp
+title: 'Lamp'
 tagnames: hidden:response, response:13586
 author: jarenfrow
 path: /notes/jarenfrow/10-19-2016/lamp.md

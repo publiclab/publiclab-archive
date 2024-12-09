@@ -1,5 +1,5 @@
 ---
-title: Mobius Actioncam offered for sale, is it Mobius1 or Mobius2
+title: 'Mobius Actioncam offered for sale, is it Mobius1 or Mobius2'
 tagnames: question:general, first-time-poster
 author: apparao
 path: /notes/apparao/05-03-2018/mobius-actioncam-offered-for-sale-is-it-mobius1-or-mobius2.md

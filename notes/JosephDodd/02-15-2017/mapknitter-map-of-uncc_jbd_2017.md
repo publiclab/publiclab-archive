@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of uncc_JBD_2017
+title: 'MapKnitter map of uncc_JBD_2017'
 tagnames: mapknitter, lat:35.3054333015, lon:-80.7341265678
 author: JosephDodd
 path: /notes/JosephDodd/02-15-2017/mapknitter-map-of-uncc_jbd_2017.md

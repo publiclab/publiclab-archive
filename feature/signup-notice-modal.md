@@ -1,5 +1,5 @@
 ---
-title: signup-notice-modal
+title: 'signup-notice-modal'
 tagnames: 
 author: warren
 path: /feature/signup-notice-modal.md

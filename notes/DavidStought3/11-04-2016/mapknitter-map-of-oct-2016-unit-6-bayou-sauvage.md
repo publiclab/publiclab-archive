@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Oct 2016 Unit 6 Bayou Sauvage
+title: 'MapKnitter map of Oct 2016 Unit 6 Bayou Sauvage'
 tagnames: mapknitter, lat:30.033488993, lon:-89.8642587662
 author: DavidStought3
 path: /notes/DavidStought3/11-04-2016/mapknitter-map-of-oct-2016-unit-6-bayou-sauvage.md

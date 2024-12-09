@@ -1,5 +1,5 @@
 ---
-title: What could be some applications of a hand-powered paper centrifuge?
+title: 'What could be some applications of a hand-powered paper centrifuge?'
 tagnames: water, sampling, microscopy, question:general, question:water-sampling, question:lego-spectrometer, question:microscopy, question:baby-legs, centrifuge, question:centrifuge
 author: mimiss
 path: /notes/mimiss/04-01-2019/what-could-be-some-applications-of-a-hand-powered-paper-centrifuge.md

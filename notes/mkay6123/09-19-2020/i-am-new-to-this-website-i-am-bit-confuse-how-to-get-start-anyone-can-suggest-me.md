@@ -1,5 +1,5 @@
 ---
-title:  i am new to this website , i am bit confuse how to get start , anyone can suggest me   ?? 
+title: ' i am new to this website , i am bit confuse how to get start , anyone can suggest me   ?? '
 tagnames: help, timer, first, question:general, general, first-time-poster
 author: mkay6123
 path: /notes/mkay6123/09-19-2020/i-am-new-to-this-website-i-am-bit-confuse-how-to-get-start-anyone-can-suggest-me.md

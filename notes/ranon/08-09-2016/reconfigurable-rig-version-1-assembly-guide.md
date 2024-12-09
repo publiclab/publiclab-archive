@@ -1,5 +1,5 @@
 ---
-title: Reconfigurable Rig Version 1 Assembly Guide
+title: 'Reconfigurable Rig Version 1 Assembly Guide'
 tagnames: kite-aerial-photography, kap, photo-rig, diy-balloon, balloon-mapping-kit, autokap, kap-rigs, dii-kites, reconfigurable-rig, activity:photo-rig
 author: ranon
 path: /notes/ranon/08-09-2016/reconfigurable-rig-version-1-assembly-guide.md

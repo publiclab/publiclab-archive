@@ -1,5 +1,5 @@
 ---
-title: 3D Printed CCD Spectrometer (WheeTrometer 3.0)
+title: '3D Printed CCD Spectrometer (WheeTrometer 3.0)'
 tagnames: spectrometer, spectrometry, cuvette, 3d-printing, barnstar:basic
 author: bhickman
 path: /notes/bhickman/08-27-2014/3d-printed-ccd-spectrometer-wheetrometer-3-0.md

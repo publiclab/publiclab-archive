@@ -1,5 +1,5 @@
 ---
-title: Middle Ridge 3/3/22
+title: 'Middle Ridge 3/3/22'
 tagnames: drones, coal-mining, coal, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/03-03-2022/middle-ridge-3-3-22.md

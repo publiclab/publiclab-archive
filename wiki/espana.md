@@ -1,5 +1,5 @@
 ---
-title: España
+title: 'España'
 tagnames: spain, espana, eu, europe
 author: warren
 path: /wiki/espana.md

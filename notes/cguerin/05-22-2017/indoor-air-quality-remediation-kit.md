@@ -1,5 +1,5 @@
 ---
-title: INDOOR AIR QUALITY REMEDIATION KIT
+title: 'INDOOR AIR QUALITY REMEDIATION KIT'
 tagnames: remediation, air-quality, formaldehyde, indoor-air-quality-monitoring, indoor-air-quality, phytoremediation, first-time-poster, plant-air-purifier-prototypes
 author: cguerin
 path: /notes/cguerin/05-22-2017/indoor-air-quality-remediation-kit.md

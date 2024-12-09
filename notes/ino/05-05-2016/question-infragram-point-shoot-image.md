@@ -1,5 +1,5 @@
 ---
-title: Question: Infragram point & shoot image
+title: 'Question: Infragram point & shoot image'
 tagnames: white-balance, question:infragram, question:white-balance, question:infragram-point-shoot, question:infragram-white-balance
 author: ino
 path: /notes/ino/05-05-2016/question-infragram-point-shoot-image.md

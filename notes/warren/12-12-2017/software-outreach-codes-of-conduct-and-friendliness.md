@@ -1,5 +1,5 @@
 ---
-title: Software outreach: Codes of conduct and friendliness
+title: 'Software outreach: Codes of conduct and friendliness'
 tagnames: community, outreach, organizing, wwg, conduct, software-outreach, code-of-conduct, series:software-outreach, friendliness, welcoming, codes-of-conduct
 author: warren
 path: /notes/warren/12-12-2017/software-outreach-codes-of-conduct-and-friendliness.md

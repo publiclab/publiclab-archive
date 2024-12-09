@@ -1,5 +1,5 @@
 ---
-title: Assembling the Public Lab Lego Spectrometer
+title: 'Assembling the Public Lab Lego Spectrometer'
 tagnames: spectrometer, spectrometry, fluorescence, raspberry-pi, lego, with:bronwen, activity:education, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, activity:lego-spectrometer, lego-spectrometer, with:asnow, lego-quickstart, pin:spectrometry
 author: warren
 path: /notes/warren/12-13-2017/assembling-the-public-lab-lego-spectrometer.md

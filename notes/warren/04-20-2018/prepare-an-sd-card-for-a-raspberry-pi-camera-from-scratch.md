@@ -1,5 +1,5 @@
 ---
-title: Prepare an SD card for a Raspberry Pi camera from scratch
+title: 'Prepare an SD card for a Raspberry Pi camera from scratch'
 tagnames: raspberry-pi, with:kgradow1, microscope, pi-camera, microscopes, activity:microscopes, raspberry-pi-infragram, activity:raspberry-pi-infragram, with:wmacfarl, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, activity:pi-camera, with:bmela, activity:basic-microscope, activity:lego-spectrometer, series:basic-microscope, response:15289, with:partsandcrafts
 author: warren
 path: /notes/warren/04-20-2018/prepare-an-sd-card-for-a-raspberry-pi-camera-from-scratch.md

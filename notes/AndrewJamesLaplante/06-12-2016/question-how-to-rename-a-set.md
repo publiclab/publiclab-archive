@@ -1,5 +1,5 @@
 ---
-title: How to rename a set on Spectral Workbench?
+title: 'How to rename a set on Spectral Workbench?'
 tagnames: question:spectrometry, question:spectral-workbench, answered
 author: AndrewJamesLaplante
 path: /notes/AndrewJamesLaplante/06-12-2016/question-how-to-rename-a-set.md

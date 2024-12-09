@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Update 19: June 2017
+title: 'Web Working Group Update 19: June 2017'
 tagnames: web-development, software, plots2, gsoc, developers, wwg, webwg, first-timers-only, soc, soc-2017, wwg-update, response:14526
 author: warren
 path: /notes/warren/07-03-2017/web-working-group-update-19-june-2017.md

@@ -1,5 +1,5 @@
 ---
-title: Search in 2019
+title: 'Search in 2019'
 tagnames: website, search, code, wwg, ui
 author: liz
 path: /notes/liz/05-20-2019/search-in-2019.md

@@ -1,5 +1,5 @@
 ---
-title: On being doomed to repeat historical lithographs
+title: 'On being doomed to repeat historical lithographs'
 tagnames: kite-mapping, middlebury, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12355, birdseye, s100-gps
 author: cfastie
 path: /notes/cfastie/11-05-2015/on-being-doomed-to-repeat-historical-lithographs.md

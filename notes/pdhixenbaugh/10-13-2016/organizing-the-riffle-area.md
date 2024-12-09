@@ -1,5 +1,5 @@
 ---
-title: Organizing the Riffle Area
+title: 'Organizing the Riffle Area'
 tagnames: website, riffle, riffle-meta
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-13-2016/organizing-the-riffle-area.md

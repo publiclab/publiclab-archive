@@ -1,5 +1,5 @@
 ---
-title: Calibrating low cost air quality sensor (1/2)
+title: 'Calibrating low cost air quality sensor (1/2)'
 tagnames: arduino, calibration, air-quality, pollution, dustduino, dust, autodesk, location:blurred, air-sensors, purpleair, lat:-32, lon:-68, purple-air, zoom:6, place:argentina
 author: jiteovien
 path: /notes/jiteovien/07-18-2018/calibrating-low-cost-air-quality-sensor-1-2.md

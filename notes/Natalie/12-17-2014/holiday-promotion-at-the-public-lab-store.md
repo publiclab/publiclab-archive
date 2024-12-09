@@ -1,5 +1,5 @@
 ---
-title: Holiday Promotion at the Public Lab Store
+title: 'Holiday Promotion at the Public Lab Store'
 tagnames: sales
 author: natalie
 path: /notes/Natalie/12-17-2014/holiday-promotion-at-the-public-lab-store.md

@@ -1,5 +1,5 @@
 ---
-title: Open hardware licensing in detail
+title: 'Open hardware licensing in detail'
 tagnames: licensing, open-hardware, open-source-communities
 author: warren
 path: /wiki/open-hardware-licensing-detail.md

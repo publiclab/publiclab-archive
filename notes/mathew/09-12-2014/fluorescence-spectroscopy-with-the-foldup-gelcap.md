@@ -1,5 +1,5 @@
 ---
-title: Fluorescence spectroscopy with the foldup + gelcap
+title: 'Fluorescence spectroscopy with the foldup + gelcap'
 tagnames: spectrometer, uv, fluorescence, fold-up, foldable
 author: mathew
 path: /notes/mathew/09-12-2014/fluorescence-spectroscopy-with-the-foldup-gelcap.md

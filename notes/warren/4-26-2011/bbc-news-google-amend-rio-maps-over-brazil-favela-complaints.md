@@ -1,5 +1,5 @@
 ---
-title: BBC News - Google to amend Rio maps over Brazil favela complaints
+title: 'BBC News - Google to amend Rio maps over Brazil favela complaints'
 tagnames: rio, brasil, south-america
 author: warren
 path: /notes/warren/4-26-2011/bbc-news-google-amend-rio-maps-over-brazil-favela-complaints.md

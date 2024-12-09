@@ -1,5 +1,5 @@
 ---
-title: London UK
+title: 'London UK'
 tagnames: london, uk, chapter, eu, place:london
 author: cesarharada
 path: /wiki/london-uk.md

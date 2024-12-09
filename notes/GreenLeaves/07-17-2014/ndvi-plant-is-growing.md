@@ -1,5 +1,5 @@
 ---
-title: ndvi plant is growing
+title: 'ndvi plant is growing'
 tagnames: ndvi
 author: GreenLeaves
 path: /notes/GreenLeaves/07-17-2014/ndvi-plant-is-growing.md

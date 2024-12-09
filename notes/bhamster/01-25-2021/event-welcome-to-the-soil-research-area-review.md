@@ -1,5 +1,5 @@
 ---
-title: Event: Welcome to the soil research area review!
+title: 'Event: Welcome to the soil research area review!'
 tagnames: event, soil, reviews, soil-contamination, research-area-review
 author: bhamster
 path: /notes/bhamster/01-25-2021/event-welcome-to-the-soil-research-area-review.md

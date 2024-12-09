@@ -1,5 +1,5 @@
 ---
-title: How to Set up and Test An Arduino
+title: 'How to Set up and Test An Arduino'
 tagnames: arduino, new, draft, activity:new, oil-and-gas-water-trio
 author: wmacfarl
 path: /notes/wmacfarl/10-22-2019/how-to-set-up-and-test-an-arduino.md

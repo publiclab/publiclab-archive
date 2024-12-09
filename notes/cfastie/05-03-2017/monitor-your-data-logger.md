@@ -1,5 +1,5 @@
 ---
-title: Monitor your data logger
+title: 'Monitor your data logger'
 tagnames: arduino, sensors, humidity, data-logging, arduino-nano, response:14152, nano-data-logger, 16x2_lcd, bme280, activity:nano-data-logger
 author: cfastie
 path: /notes/cfastie/05-03-2017/monitor-your-data-logger.md

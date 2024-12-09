@@ -1,5 +1,5 @@
 ---
-title: Wheetrometer Spectrometer update: Part 2.
+title: 'Wheetrometer Spectrometer update: Part 2.'
 tagnames: spectrometer, software, wheetrometer
 author: JSummers
 path: /notes/JSummers/08-16-2018/wheetrometer-spectrometer-update-part-2.md

@@ -1,5 +1,5 @@
 ---
-title: World Science Festival with CUSP
+title: 'World Science Festival with CUSP'
 tagnames: balloon-mapping
 author: liz
 path: /notes/liz/06-03-2013/world-science-festival-with-cusp.md

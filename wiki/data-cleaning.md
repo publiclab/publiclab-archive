@@ -1,5 +1,5 @@
 ---
-title: Cleaning and Organizing Environmental Data
+title: 'Cleaning and Organizing Environmental Data'
 tagnames: status:under-development, method, environmental-data, presenting-data, air-quality-data, data-cleaning
 author: bhamster
 path: /wiki/data-cleaning.md

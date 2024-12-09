@@ -1,5 +1,5 @@
 ---
-title: Announcing a new dashboard for PublicLab.org
+title: 'Announcing a new dashboard for PublicLab.org'
 tagnames: website, design, web, posting, developers, code, wwg, dashboard, ui
 author: warren
 path: /notes/warren/04-28-2016/announcing-a-new-dashboard-for-publiclab-org.md

@@ -1,5 +1,5 @@
 ---
-title: DIY dust monitoring: Dylos in Wisconsin 
+title: 'DIY dust monitoring: Dylos in Wisconsin '
 tagnames: wisconsin, air-quality, dust, silica, midwest, particle-sensing, particulate-monitoring, openair, air-sensors
 author: mathew
 path: /notes/mathew/06-12-2014/diy-dust-monitoring-dylos-in-wisconsin.md

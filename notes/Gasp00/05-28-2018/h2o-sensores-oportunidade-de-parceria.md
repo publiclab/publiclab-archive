@@ -1,5 +1,5 @@
 ---
-title: H2O sensores - oportunidade de parceria
+title: 'H2O sensores - oportunidade de parceria'
 tagnames: water-quality, brasil, redeinfoamazonia, maedagua, south-america, question:water-quality, question:general, lang:pr
 author: Gasp00
 path: /notes/Gasp00/05-28-2018/h2o-sensores-oportunidade-de-parceria.md

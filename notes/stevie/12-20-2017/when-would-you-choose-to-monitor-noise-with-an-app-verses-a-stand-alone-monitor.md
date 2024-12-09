@@ -1,5 +1,5 @@
 ---
-title: When would you choose to monitor noise with an app verses a stand alone monitor? 
+title: 'When would you choose to monitor noise with an app verses a stand alone monitor? '
 tagnames: gulf-coast, new-orleans, answered, noise, question:general, noise-pollution, interstate, question:noise, question:noise-pollution
 author: stevie
 path: /notes/stevie/12-20-2017/when-would-you-choose-to-monitor-noise-with-an-app-verses-a-stand-alone-monitor.md

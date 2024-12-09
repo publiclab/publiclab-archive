@@ -1,5 +1,5 @@
 ---
-title: Data Logging
+title: 'Data Logging'
 tagnames: arduino, tool, riffle, data-logging, method, oil-and-gas, nano-data-logger, datalogging, data-logger-enclosures, parent:water-sensors
 author: warren
 path: /wiki/data-logging.md

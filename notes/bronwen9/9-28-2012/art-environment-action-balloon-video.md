@@ -1,5 +1,5 @@
 ---
-title: Art Environment Action! Balloon Video
+title: 'Art Environment Action! Balloon Video'
 tagnames: new-york-city, balloon-mapping, union-square, urban-design, parsons, first-time-poster
 author: Bronwen
 path: /notes/bronwen9/9-28-2012/art-environment-action-balloon-video.md

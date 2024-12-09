@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of LunaPark
+title: 'MapKnitter map of LunaPark'
 tagnames: mapknitter, lat:40.5738373966, lon:-73.9834651351
 author: zaphit
 path: /notes/zaphit/10-31-2015/mapknitter-map-of-lunapark.md

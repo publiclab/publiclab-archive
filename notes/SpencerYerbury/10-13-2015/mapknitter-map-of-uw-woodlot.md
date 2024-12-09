@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UW Woodlot
+title: 'MapKnitter map of UW Woodlot'
 tagnames: mapknitter, lat:43.4705435044, lon:-80.5356301086
 author: SpencerYerbury
 path: /notes/SpencerYerbury/10-13-2015/mapknitter-map-of-uw-woodlot.md

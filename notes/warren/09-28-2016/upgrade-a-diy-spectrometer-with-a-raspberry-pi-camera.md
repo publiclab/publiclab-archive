@@ -1,5 +1,5 @@
 ---
-title: Can I upgrade a DIY spectrometer with a Raspberry Pi camera?
+title: 'Can I upgrade a DIY spectrometer with a Raspberry Pi camera?'
 tagnames: spectrometer, calibration, spectrometry, webcam, raspberry-pi, question:spectrometry, exposure, rpi, pi-camera, gain-correction, gain-control, webvalley, exposure-calibration, question:pi-camera, question:spectrometry-challenge, question:spectrometry-turbidity, raspberry-pi-spectrometer, question:raspberry-pi-spectrometer, question:lego-spectrometer
 author: warren
 path: /notes/warren/09-28-2016/upgrade-a-diy-spectrometer-with-a-raspberry-pi-camera.md

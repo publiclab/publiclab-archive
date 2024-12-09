@@ -1,5 +1,5 @@
 ---
-title: Camera module for Computer Vision/LED Plant Measurement System
+title: 'Camera module for Computer Vision/LED Plant Measurement System'
 tagnames: raspberry-pi, infragram, cameras, plant, question:infragram, question:raspberry-pi, question:raspberry-pi-infragram, question:computer-vision
 author: SangHo
 path: /notes/SangHo/03-17-2018/camera-module-for-computer-vision-led-plant-measurement-system.md

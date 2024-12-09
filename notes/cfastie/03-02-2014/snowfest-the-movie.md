@@ -1,5 +1,5 @@
 ---
-title: SNOWFEST the Movie
+title: 'SNOWFEST the Movie'
 tagnames: video, vermont, events:vermont, riffle, snowfest, blair-house, quinzee, response:10058, northeast, barnstar:video-documentation, snowfest2014
 author: cfastie
 path: /notes/cfastie/03-02-2014/snowfest-the-movie.md

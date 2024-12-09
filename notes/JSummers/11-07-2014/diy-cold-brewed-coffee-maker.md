@@ -1,5 +1,5 @@
 ---
-title: DIY cold brewed coffee maker
+title: 'DIY cold brewed coffee maker'
 tagnames: coffee, coldbrew
 author: JSummers
 path: /notes/JSummers/11-07-2014/diy-cold-brewed-coffee-maker.md

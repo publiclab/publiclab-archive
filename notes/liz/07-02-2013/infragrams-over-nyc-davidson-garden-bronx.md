@@ -1,5 +1,5 @@
 ---
-title: Infragrams over NYC: Davidson Garden, Bronx
+title: 'Infragrams over NYC: Davidson Garden, Bronx'
 tagnames: new-york-city, near-infrared-camera, 5bf, five-borough-farm, pole-photography, pole
 author: liz
 path: /notes/liz/07-02-2013/infragrams-over-nyc-davidson-garden-bronx.md

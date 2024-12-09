@@ -1,5 +1,5 @@
 ---
-title: Support Public Lab on #GivingTuesday
+title: 'Support Public Lab on #GivingTuesday'
 tagnames: fundraising
 author: Becki
 path: /notes/Becki/12-01-2015/support-public-lab-on-givingtuesday.md

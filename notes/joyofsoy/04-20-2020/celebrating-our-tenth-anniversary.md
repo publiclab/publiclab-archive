@@ -1,5 +1,5 @@
 ---
-title: Celebrating our tenth anniversary
+title: 'Celebrating our tenth anniversary'
 tagnames: blog, anniversary, pl10
 author: joyofsoy
 path: /notes/joyofsoy/04-20-2020/celebrating-our-tenth-anniversary.md

@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping the UK Campus
+title: 'Balloon Mapping the UK Campus'
 tagnames: first-time-poster
 author: jeremy
 path: /notes/jeremy/12-5-2011/balloon-mapping-uk-campus.md

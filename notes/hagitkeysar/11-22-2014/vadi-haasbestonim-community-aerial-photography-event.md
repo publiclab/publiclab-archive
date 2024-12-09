@@ -1,5 +1,5 @@
 ---
-title: Vadi HaAsbestonim: Community Aerial Photography Event
+title: 'Vadi HaAsbestonim: Community Aerial Photography Event'
 tagnames: balloon-mapping, jerusalem, event, israel, palestine, urban-planning, event:rsvp, middle-east, replication:14022
 author: hagitkeysar
 path: /notes/hagitkeysar/11-22-2014/vadi-haasbestonim-community-aerial-photography-event.md

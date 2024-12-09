@@ -1,5 +1,5 @@
 ---
-title: Using the HITRAN database for spectral analysis
+title: 'Using the HITRAN database for spectral analysis'
 tagnames: spectrometer, spectral-analysis, spectral-matching, methane, hitran
 author: warren
 path: /notes/warren/12-10-2010/using-hitran-database-spectral-analysis.md

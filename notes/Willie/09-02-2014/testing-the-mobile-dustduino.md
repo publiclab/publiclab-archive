@@ -1,5 +1,5 @@
 ---
-title: Testing the Mobile DustDuino
+title: 'Testing the Mobile DustDuino'
 tagnames: particulate-sensing, air-quality, transportation, dustduino, dust, particulates, asia, indonesia, particulate, pm, response:10620, traffic, jakarta, dust-sensing, activity:dustduino
 author: willie
 path: /notes/Willie/09-02-2014/testing-the-mobile-dustduino.md

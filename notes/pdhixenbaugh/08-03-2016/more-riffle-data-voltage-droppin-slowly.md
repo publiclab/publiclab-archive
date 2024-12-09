@@ -1,5 +1,5 @@
 ---
-title: More Riffle Data - Voltage droppin slowly
+title: 'More Riffle Data - Voltage droppin slowly'
 tagnames: riffle, riffle-beta
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-03-2016/more-riffle-data-voltage-droppin-slowly.md

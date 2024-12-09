@@ -1,5 +1,5 @@
 ---
-title: New Cuvette Holder design done on SmartDraw CAD
+title: 'New Cuvette Holder design done on SmartDraw CAD'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-21-2016/new-cuvette-holder-design-done-on-smartdraw-cad.md

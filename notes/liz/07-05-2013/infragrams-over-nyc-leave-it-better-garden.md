@@ -1,5 +1,5 @@
 ---
-title: Infragrams over NYC: Leave It Better Garden
+title: 'Infragrams over NYC: Leave It Better Garden'
 tagnames: new-york-city, 5bf, five-borough-farm, pole-photography, pole, overexposure, lux-meter
 author: liz
 path: /notes/liz/07-05-2013/infragrams-over-nyc-leave-it-better-garden.md

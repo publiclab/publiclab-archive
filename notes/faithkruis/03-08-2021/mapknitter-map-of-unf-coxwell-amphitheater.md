@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNF Coxwell Amphitheater
+title: 'MapKnitter map of UNF Coxwell Amphitheater'
 tagnames: mapknitter, leaflet, aerial-photos, florida, first-time-poster, zoom:16, lat:30.2661204, lon:-81.5072314, lat:30.271929, lon:-81.510432, university-north-florida
 author: faithkruis
 path: /notes/faithkruis/03-08-2021/mapknitter-map-of-unf-coxwell-amphitheater.md

@@ -1,5 +1,5 @@
 ---
-title: Set up a schedule grid for an Open Space event
+title: 'Set up a schedule grid for an Open Space event'
 tagnames: events, barnraising, open-space-technology, facilitation, open-space, activity:barnraising, activity:night-before-barnraising, activity:facilitation
 author: liz
 path: /notes/liz/03-07-2018/set-up-the-schedule-grid.md

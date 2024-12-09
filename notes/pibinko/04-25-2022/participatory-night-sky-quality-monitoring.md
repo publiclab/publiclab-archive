@@ -1,5 +1,5 @@
 ---
-title: Participatory night sky quality monitoring
+title: 'Participatory night sky quality monitoring'
 tagnames: italy, eu, issue-brief, first-time-poster, zoom:6, place:italy, lat:43.073878, lon:11.153596, light-pollution
 author: pibinko
 path: /notes/pibinko/04-25-2022/participatory-night-sky-quality-monitoring.md

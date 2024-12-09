@@ -1,5 +1,5 @@
 ---
-title: The Redstone Rig is ready
+title: 'The Redstone Rig is ready'
 tagnames: balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, response:10101, redstone
 author: cfastie
 path: /notes/cfastie/03-27-2014/the-redstone-rig-is-ready.md

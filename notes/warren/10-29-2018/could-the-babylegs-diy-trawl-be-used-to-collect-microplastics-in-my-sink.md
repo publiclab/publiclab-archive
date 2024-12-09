@@ -1,5 +1,5 @@
 ---
-title: Could the BabyLegs DIY trawl be used to collect microplastics in my sink?
+title: 'Could the BabyLegs DIY trawl be used to collect microplastics in my sink?'
 tagnames: answered, microplastics, question:babylegs, babylegs, trawl, plastic
 author: warren
 path: /notes/warren/10-29-2018/could-the-babylegs-diy-trawl-be-used-to-collect-microplastics-in-my-sink.md

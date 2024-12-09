@@ -1,5 +1,5 @@
 ---
-title: Ideas for Call for papers page: What would be important?
+title: 'Ideas for Call for papers page: What would be important?'
 tagnames: writing, writing-group, question:general, collaborative-writing, question:events, question:papers, first-time-poster
 author: stefannibrasil
 path: /notes/stefannibrasil/03-09-2018/ideas-for-call-for-papers-page-what-would-be-important.md

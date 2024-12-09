@@ -1,5 +1,5 @@
 ---
-title: Solid Waste Facilities in California
+title: 'Solid Waste Facilities in California'
 tagnames: waste, socalwastestream, blog:socalwastestream
 author: herk
 path: /notes/herk/05-06-2017/solid-waste-facilities-in-california.md

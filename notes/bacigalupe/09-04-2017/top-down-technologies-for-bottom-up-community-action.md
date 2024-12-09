@@ -1,5 +1,5 @@
 ---
-title: Top Down Technologies for Bottom Up Community Action
+title: 'Top Down Technologies for Bottom Up Community Action'
 tagnames: drones, aerial-photography, chile, south-america, disaster, reduction, risk
 author: bacigalupe
 path: /notes/bacigalupe/09-04-2017/top-down-technologies-for-bottom-up-community-action.md

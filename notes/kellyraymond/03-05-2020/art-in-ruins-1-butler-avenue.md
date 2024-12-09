@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (1 Butler Avenue)
+title: 'Art in Ruins (1 Butler Avenue)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lon:-71.38504, lat:41.825572, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-1-butler-avenue.md

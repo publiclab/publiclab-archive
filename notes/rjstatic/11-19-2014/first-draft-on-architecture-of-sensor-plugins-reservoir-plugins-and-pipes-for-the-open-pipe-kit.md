@@ -1,5 +1,5 @@
 ---
-title: First draft on architecture of Sensor plugins, Reservoir plugins, and Pipes for the Open Pipe Kit
+title: 'First draft on architecture of Sensor plugins, Reservoir plugins, and Pipes for the Open Pipe Kit'
 tagnames: open-pipe-kit
 author: rjstatic
 path: /11-19-2014/first-draft-on-architecture-of-sensor-plugins-reservoir-plugins-and-pipes-for-the-open-pipe-kit.md

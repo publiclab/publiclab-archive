@@ -1,5 +1,5 @@
 ---
-title: Seeking sources of local wind/weather data
+title: 'Seeking sources of local wind/weather data'
 tagnames: air-quality, wind, weather, weather-station, question:air-quality, question:wind, question:weather, purpleair, question:purpleair, purple-air, leaflet-, question:weather-station
 author: warren
 path: /notes/warren/02-14-2019/seeking-sources-of-local-wind-weather-data.md

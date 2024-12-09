@@ -1,5 +1,5 @@
 ---
-title: mapping parties in NYC map invasive species
+title: 'mapping parties in NYC map invasive species'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/5-10-2012/mapping-parties-nyc-map-evasive-species.md

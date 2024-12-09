@@ -1,5 +1,5 @@
 ---
-title: DIY microscope resources
+title: 'DIY microscope resources'
 tagnames: pm, literature-review, microscope, with:maxliboiron, gosh, microscopes, microplastics, background-research, existing-projects
 author: liz
 path: /notes/liz/09-28-2016/diy-microscope-resources.md

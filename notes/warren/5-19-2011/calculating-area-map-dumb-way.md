@@ -1,5 +1,5 @@
 ---
-title: Calculating area of a map, the dumb way
+title: 'Calculating area of a map, the dumb way'
 tagnames: balloon-mapping, area
 author: warren
 path: /notes/warren/5-19-2011/calculating-area-map-dumb-way.md

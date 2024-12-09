@@ -1,5 +1,5 @@
 ---
-title: Question about NDVI white balancing
+title: 'Question about NDVI white balancing'
 tagnames: ndvi, white-balance, question:ndvi, question:white-balance, question:general, general, first-time-poster
 author: Peve
 path: /notes/Peve/09-10-2022/question-about-ndvi-white-balancing.md

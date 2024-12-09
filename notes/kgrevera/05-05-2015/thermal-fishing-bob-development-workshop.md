@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Bob Development Workshop
+title: 'Thermal Fishing Bob Development Workshop'
 tagnames: boston, event, thermal, northeast, fishing, bob, event:rsvp, rsvp:hudonnoodles, date:05-19-2015, rsvp:trueface
 author: kgrevera
 path: /notes/kgrevera/05-05-2015/thermal-fishing-bob-development-workshop.md

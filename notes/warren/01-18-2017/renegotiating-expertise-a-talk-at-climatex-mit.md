@@ -1,5 +1,5 @@
 ---
-title: Renegotiating Expertise: a talk at ClimateX MIT
+title: 'Renegotiating Expertise: a talk at ClimateX MIT'
 tagnames: boston, presentations, talk, presentation, northeast, climate-change, climate, mit, expertise, climatex
 author: warren
 path: /notes/warren/01-18-2017/renegotiating-expertise-a-talk-at-climatex-mit.md

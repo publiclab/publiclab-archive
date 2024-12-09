@@ -1,5 +1,5 @@
 ---
-title: sandbox-glossary
+title: 'sandbox-glossary'
 tagnames: 
 author: bhamster
 path: /wiki/sandbox-glossary.md

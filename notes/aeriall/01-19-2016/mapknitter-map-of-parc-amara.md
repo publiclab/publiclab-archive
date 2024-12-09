@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Parc Amara
+title: 'MapKnitter map of Parc Amara'
 tagnames: mapknitter, lat:44.6167066, lon:27.3168665, first-time-poster
 author: aeriall
 path: /notes/aeriall/01-19-2016/mapknitter-map-of-parc-amara.md

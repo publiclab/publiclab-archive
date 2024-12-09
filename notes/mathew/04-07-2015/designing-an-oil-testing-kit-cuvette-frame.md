@@ -1,5 +1,5 @@
 ---
-title: Designing an Oil Testing Kit Cuvette Frame
+title: 'Designing an Oil Testing Kit Cuvette Frame'
 tagnames: laser, fluorescence, desktop-spectrometer, oil-testing-kit, 405nm, otk
 author: mathew
 path: /notes/mathew/04-07-2015/designing-an-oil-testing-kit-cuvette-frame.md

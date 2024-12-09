@@ -1,5 +1,5 @@
 ---
-title: Mapping a Human Scaled World
+title: 'Mapping a Human Scaled World'
 tagnames: 
 author: eymund
 path: /notes/eymund/02-20-2014/mapping-a-human-scaled-world.md

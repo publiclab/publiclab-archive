@@ -1,5 +1,5 @@
 ---
-title: Vegetation Mapping
+title: 'Vegetation Mapping'
 tagnames: new-york-city, balloon-mapping, gowanus, vegetation-mapping, first-time-poster
 author: gwirth
 path: /notes/gwirth/7-7-2012/vegetation-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: How to save and return to a map, and uploaded images in Mapknitter
+title: 'How to save and return to a map, and uploaded images in Mapknitter'
 tagnames: question:mapknitter
 author: pataxte
 path: /notes/pataxte/08-14-2019/how-to-save-and-return-to-a-map-and-uploaded-images-in-mapknitter.md

@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (755 Westminster Street)
+title: 'Art in Ruins (755 Westminster Street)'
 tagnames: hidden:response, zoom:10, lat:41.818408, lat:41.69994514703968, lon:-71.50020360946657, lon:-71.420745, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-755-westminster-street.md

@@ -1,5 +1,5 @@
 ---
-title: white-balance
+title: 'white-balance'
 tagnames: redirect:8882
 author: warren
 path: /wiki/white-balance.md

@@ -1,5 +1,5 @@
 ---
-title: Modified MOBIUS with PL red filter
+title: 'Modified MOBIUS with PL red filter'
 tagnames: white-balance, mobius-actioncam, ndvi-ag, first-time-poster
 author: RQ-05
 path: /notes/RQ-05/06-15-2015/modified-mobius-with-pl-red-filter.md

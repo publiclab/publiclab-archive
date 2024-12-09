@@ -1,5 +1,5 @@
 ---
-title: Hydrogen Sulfide H2S & Oil/Gas
+title: 'Hydrogen Sulfide H2S & Oil/Gas'
 tagnames: hydrogen-sulfide-sensing, h2s, natural-gas
 author: karimatsko
 path: /notes/karimatsko/3-17-2012/hydrogen-sulfide-h2s-oilgas.md

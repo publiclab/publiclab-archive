@@ -1,5 +1,5 @@
 ---
-title: Pilgrim Plant Newspaper
+title: 'Pilgrim Plant Newspaper'
 tagnames: 
 author: warren
 path: /wiki/pilgrim-plant-newspaper.md

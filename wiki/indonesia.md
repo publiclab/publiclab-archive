@@ -1,5 +1,5 @@
 ---
-title: indonesia
+title: 'indonesia'
 tagnames: kite-aerial-photography, dustduino, indonesia, jakarta
 author: willie
 path: /wiki/indonesia.md

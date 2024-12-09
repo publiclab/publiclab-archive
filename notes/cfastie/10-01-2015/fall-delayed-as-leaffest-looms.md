@@ -1,5 +1,5 @@
 ---
-title: Fall delayed as LEAFFEST looms
+title: 'Fall delayed as LEAFFEST looms'
 tagnames: near-infrared-camera, spectrometer, vermont, oil-spill-toolkit, leaffest, event, infragram, northeast, leaffest2015, response:12212
 author: cfastie
 path: /notes/cfastie/10-01-2015/fall-delayed-as-leaffest-looms.md

@@ -1,5 +1,5 @@
 ---
-title: Canon A480 NIR Conversion
+title: 'Canon A480 NIR Conversion'
 tagnames: near-infrared-camera, conversion, filter, infragram, a480, activity:infrared-camera-conversion
 author: Chernabog
 path: /notes/Chernabog/01-28-2014/canon-a480-nir-conversion.md

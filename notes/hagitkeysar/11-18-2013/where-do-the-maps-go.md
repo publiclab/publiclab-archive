@@ -1,5 +1,5 @@
 ---
-title: "where do the maps go?" 
+title: '"where do the maps go?" '
 tagnames: balloon-mapping, kite-mapping, jerusalem, annotated-maps, israel, blog, communityengagement, middle-east
 author: hagitkeysar
 path: /notes/hagitkeysar/11-18-2013/where-do-the-maps-go.md

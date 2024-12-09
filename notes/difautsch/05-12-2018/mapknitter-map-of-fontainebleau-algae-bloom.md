@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Fontainebleau Algae Bloom
+title: 'MapKnitter map of Fontainebleau Algae Bloom'
 tagnames: mapknitter, nas, lat:30.3347843095, lon:-90.045844987
 author: difautsch
 path: /notes/difautsch/05-12-2018/mapknitter-map-of-fontainebleau-algae-bloom.md

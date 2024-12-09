@@ -1,5 +1,5 @@
 ---
-title: Delta Levitation with A-1200
+title: 'Delta Levitation with A-1200'
 tagnames: kap, a1200
 author: patcoyle
 path: /notes/patcoyle/12-31-2012/delta-levitation-1200.md

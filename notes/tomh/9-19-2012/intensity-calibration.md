@@ -1,5 +1,5 @@
 ---
-title: intensity calibration
+title: 'intensity calibration'
 tagnames: spectrometer, calibration, spectralworkbench, radiometric-calibration, first-time-poster
 author: Tom_H
 path: /notes/tomh/9-19-2012/intensity-calibration.md

@@ -1,5 +1,5 @@
 ---
-title: PET Bottle & Rubber Band Rig
+title: 'PET Bottle & Rubber Band Rig'
 tagnames: balloon-mapping, kite-mapping, photo-rig, activity, parent:balloon-mapping, 1, camera-housing
 author: mathew
 path: /wiki/pet-bottle-rubber-band-rig.md

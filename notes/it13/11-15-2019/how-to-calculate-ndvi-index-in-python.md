@@ -1,5 +1,5 @@
 ---
-title: How to calculate NDVI index in python ?
+title: 'How to calculate NDVI index in python ?'
 tagnames: 
 author: it13
 path: /notes/it13/11-15-2019/how-to-calculate-ndvi-index-in-python.md

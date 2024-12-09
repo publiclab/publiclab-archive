@@ -1,5 +1,5 @@
 ---
-title: Forest Conservation Through Local Wisdom
+title: 'Forest Conservation Through Local Wisdom'
 tagnames: forest, conservation, asia, indonesia, ecosystem, first-time-poster, indigenous, forest-conservation, indigenous-people, local-wisdom, local-knowledge, forest-management, lat:-2.262595, lon:102.700195
 author: Dasta
 path: /notes/Dasta/04-14-2019/forest-conservation-through-local-wisdom.md

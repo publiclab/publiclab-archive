@@ -1,5 +1,5 @@
 ---
-title: WheeTrometer 2.0
+title: 'WheeTrometer 2.0'
 tagnames: spectrometer
 author: bhickman
 path: /notes/bhickman/04-21-2014/wheetrometer-2-0.md

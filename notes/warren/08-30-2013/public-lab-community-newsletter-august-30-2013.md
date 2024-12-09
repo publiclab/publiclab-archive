@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter - August 30, 2013
+title: 'Public Lab Community Newsletter - August 30, 2013'
 tagnames: newsletter, blog, newsletter-archive
 author: warren
 path: /notes/warren/08-30-2013/public-lab-community-newsletter-august-30-2013.md

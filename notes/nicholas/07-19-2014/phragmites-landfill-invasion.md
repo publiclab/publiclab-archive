@@ -1,5 +1,5 @@
 ---
-title: Phragmites Landfill Invasion
+title: 'Phragmites Landfill Invasion'
 tagnames: new-york-city, balloon-mapping, landfill, waste, invasive, invasives, invasive-species, freshkills, phragmites
 author: nicholas
 path: /notes/nicholas/07-19-2014/phragmites-landfill-invasion.md

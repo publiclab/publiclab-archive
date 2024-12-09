@@ -1,5 +1,5 @@
 ---
-title: activities update
+title: 'activities update'
 tagnames: canada
 author: rollinrenola
 path: /wiki/activities-update.md

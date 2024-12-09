@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: 
+title: 'Outreachy proposal: '
 tagnames: software, soc, outreachy, response:17359, first-time-poster, soc-2019, outreachy-2019, outreachy-2019-proposals
 author: Reenesa
 path: /notes/Reenesa/11-01-2019/outreachy-proposal.md

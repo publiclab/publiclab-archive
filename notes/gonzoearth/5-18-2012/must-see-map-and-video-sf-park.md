@@ -1,5 +1,5 @@
 ---
-title: Must see map and video of SF Park
+title: 'Must see map and video of SF Park'
 tagnames: balloon-mapping
 author: gonzoearth
 path: /notes/gonzoearth/5-18-2012/must-see-map-and-video-sf-park.md

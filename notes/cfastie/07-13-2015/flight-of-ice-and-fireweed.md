@@ -1,5 +1,5 @@
 ---
-title: A Flight of Ice and Fireweed
+title: 'A Flight of Ice and Fireweed'
 tagnames: kite-aerial-photography, alaska, kap, autokap, kaptery, saturnv, skyshield, half-spherical, response:12052
 author: cfastie
 path: /notes/cfastie/07-13-2015/flight-of-ice-and-fireweed.md

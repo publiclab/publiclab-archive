@@ -1,5 +1,5 @@
 ---
-title: Do you know examples of direct community environmental interventions?
+title: 'Do you know examples of direct community environmental interventions?'
 tagnames: answered, question:question
 author: gretchengehrke
 path: /notes/gretchengehrke/10-17-2017/do-you-know-examples-of-direct-community-environmental-interventions.md

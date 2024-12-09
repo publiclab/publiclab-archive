@@ -1,5 +1,5 @@
 ---
-title: Global Community  Monitor work on Silica Dust from Coal Terminals in Seward, AK
+title: 'Global Community  Monitor work on Silica Dust from Coal Terminals in Seward, AK'
 tagnames: alaska, coal, dust, silica, particulate, pm, seward, global-community-monitor
 author: eustatic
 path: /07-29-2014/global-community-monitor-work-on-silica-dust-from-coal-terminals-in-seward-ak.md

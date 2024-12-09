@@ -1,5 +1,5 @@
 ---
-title: GSoC with Public Lab: Selection
+title: 'GSoC with Public Lab: Selection'
 tagnames: gsoc, barnstar:basic, soc, gsoc-2018, soc-2018
 author: gauravano
 path: /notes/gauravano/05-03-2018/gsoc-with-public-lab-selection.md

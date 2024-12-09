@@ -1,5 +1,5 @@
 ---
-title: Spectrometer 3.0 add-on v2 
+title: 'Spectrometer 3.0 add-on v2 '
 tagnames: spectrometer, cuvette, led, light-source, activity:dssk, spectrometry-sampling, activity:spectrometry-sampling, activity:dsk, add-on, activity:3d-printing, activity:lego-spectrometer, experiment, illumination, add-on:lego-spectrometer, add-on:dssk, add-on:dsk
 author: programmer1200
 path: /notes/programmer1200/03-29-2018/spectrometer-3-0-add-on-v2.md

@@ -1,5 +1,5 @@
 ---
-title: Open Water Data - Data Latern tutorials
+title: 'Open Water Data - Data Latern tutorials'
 tagnames: waterway, civic-event, industry, datasets, clean-water-act, project:water-quality, zoom:6, lat:42.391008, lon:-71.037597, open-water-data, data-lanterns, government-data, with:sara
 author: amocorro
 path: /notes/amocorro/01-27-2021/open-water-data-data-latern-tutorials.md

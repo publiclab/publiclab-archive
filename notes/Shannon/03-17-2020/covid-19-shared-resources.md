@@ -1,5 +1,5 @@
 ---
-title: COVID-19: Tips for working remotely
+title: 'COVID-19: Tips for working remotely'
 tagnames: blog, with:stevie, with:liz, with:joyofsoy, with:mimiss, morninghello, covid-19
 author: Shannon
 path: /notes/Shannon/03-17-2020/covid-19-shared-resources.md

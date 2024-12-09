@@ -1,5 +1,5 @@
 ---
-title: Internationalize Public Lab : GSoC 2016
+title: 'Internationalize Public Lab : GSoC 2016'
 tagnames: software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827
 author: sudheesh001
 path: /notes/sudheesh001/03-25-2016/internationalize-public-lab-gsoc-2016.md

@@ -1,5 +1,5 @@
 ---
-title: Wrapping up Google Summer of Code 2017 at Public Lab
+title: 'Wrapping up Google Summer of Code 2017 at Public Lab'
 tagnames: software, gsoc, google, google-summer-of-code, blog, code, wwg, response:13397, first-timers-only, software-outreach, gsoc-2017, rgsoc, soc, soc-2017, rgsoc-2017, response:13975, response:14788, response:14162, response:13910, summer-of-code
 author: warren
 path: /notes/warren/09-07-2017/wrapping-up-google-summer-of-code-2017-at-public-lab.md

@@ -1,5 +1,5 @@
 ---
-title: The Titan 2 Rig
+title: 'The Titan 2 Rig'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, kap, 3d-printing, makerbot, response:10230, titan
 author: cfastie
 path: /notes/cfastie/04-28-2014/the-titan-2-rig.md

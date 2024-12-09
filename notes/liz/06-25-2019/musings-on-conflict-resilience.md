@@ -1,5 +1,5 @@
 ---
-title: musings on conflict resilience
+title: 'musings on conflict resilience'
 tagnames: conduct
 author: liz
 path: /notes/liz/06-25-2019/musings-on-conflict-resilience.md

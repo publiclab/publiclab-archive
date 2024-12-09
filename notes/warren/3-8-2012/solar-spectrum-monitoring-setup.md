@@ -1,5 +1,5 @@
 ---
-title: Solar spectrum monitoring setup
+title: 'Solar spectrum monitoring setup'
 tagnames: spectrometer, solar
 author: warren
 path: /notes/warren/3-8-2012/solar-spectrum-monitoring-setup.md

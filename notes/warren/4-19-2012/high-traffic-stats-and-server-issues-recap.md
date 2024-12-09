@@ -1,5 +1,5 @@
 ---
-title: High traffic stats and server issues recap 
+title: 'High traffic stats and server issues recap '
 tagnames: balloon-mapping, community, server
 author: warren
 path: /notes/warren/4-19-2012/high-traffic-stats-and-server-issues-recap.md

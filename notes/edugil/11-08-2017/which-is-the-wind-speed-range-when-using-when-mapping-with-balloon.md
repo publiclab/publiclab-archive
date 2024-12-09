@@ -1,5 +1,5 @@
 ---
-title: Which is the wind speed range (maximum)  when mapping with balloon?  
+title: 'Which is the wind speed range (maximum)  when mapping with balloon?  '
 tagnames: balloon-mapping, question:balloon-mapping, answered, question:aerial-mapping, question:general, general, question:kite-mapping, question:mini-balloon-kit, pin:question:balloon-mapping
 author: edugil
 path: /notes/edugil/11-08-2017/which-is-the-wind-speed-range-when-using-when-mapping-with-balloon.md

@@ -1,5 +1,5 @@
 ---
-title: What do the different colors mean on the Simple Air Sensor?
+title: 'What do the different colors mean on the Simple Air Sensor?'
 tagnames: question:pm, question:general, question:frac-sand, question:air-monitoring, question:simple-air-sensor, simple-air-sensor, question:purple-air
 author: stevie
 path: /notes/stevie/08-23-2019/what-do-the-different-colors-mean-on-the-simple-air-sensor.md

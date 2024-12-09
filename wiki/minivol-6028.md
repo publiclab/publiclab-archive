@@ -1,5 +1,5 @@
 ---
-title: MiniVol #6028
+title: 'MiniVol #6028'
 tagnames: 6028
 author: mathew
 path: /wiki/minivol-6028.md

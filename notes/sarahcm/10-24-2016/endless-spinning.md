@@ -1,5 +1,5 @@
 ---
-title: Error on calibrating uploaded spectrum
+title: 'Error on calibrating uploaded spectrum'
 tagnames: spectralworkbench, spectral-workbench, export, question:spectrometry, question:spectral-workbench, question:generalspectrometer
 author: sarahcm
 path: /notes/sarahcm/10-24-2016/endless-spinning.md

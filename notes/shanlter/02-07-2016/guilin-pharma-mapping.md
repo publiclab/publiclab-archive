@@ -1,5 +1,5 @@
 ---
-title: Guilin Pharma mapping
+title: 'Guilin Pharma mapping'
 tagnames: balloon-mapping, blog, asia, barnstar:watchdog, china, pharmaceutical, guilin
 author: shanlter
 path: /notes/shanlter/02-07-2016/guilin-pharma-mapping.md

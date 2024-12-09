@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Monthly Recap 10: January 2016
+title: 'Web Working Group Monthly Recap 10: January 2016'
 tagnames: mapknitter, web-development, software, plots2, spectral-workbench, wwg, webwg, response:12557
 author: warren
 path: /notes/warren/02-05-2016/web-working-group-monthly-recap-10-january-2016.md

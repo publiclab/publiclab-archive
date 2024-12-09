@@ -1,5 +1,5 @@
 ---
-title: UCSB Campus Point
+title: 'UCSB Campus Point'
 tagnames: first-time-poster
 author: asac177
 path: /notes/asac177/05-03-2015/ucsb-campus-point.md

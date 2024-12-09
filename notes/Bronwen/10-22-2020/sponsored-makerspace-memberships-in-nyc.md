@@ -1,5 +1,5 @@
 ---
-title: Sponsored Makerspace Memberships in NYC
+title: 'Sponsored Makerspace Memberships in NYC'
 tagnames: new-york-city, makerspaces, hardware, lon:-73, lat:40, zoom:6, coworking, fatcatfablab, environmental-tools
 author: Bronwen
 path: /notes/Bronwen/10-22-2020/sponsored-makerspace-memberships-in-nyc.md

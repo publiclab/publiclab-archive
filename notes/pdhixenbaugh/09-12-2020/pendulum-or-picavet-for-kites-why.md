@@ -1,5 +1,5 @@
 ---
-title: Pendulum or Picavet for Kites. Why?
+title: 'Pendulum or Picavet for Kites. Why?'
 tagnames: picavet, kap-rigs, pendulum-rig
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/09-12-2020/pendulum-or-picavet-for-kites-why.md

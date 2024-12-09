@@ -1,5 +1,5 @@
 ---
-title: Public outreach for scientist
+title: 'Public outreach for scientist'
 tagnames: event, event:rsvp, startup, date:08-18-2016, pepperscience.com
 author: bvkiran
 path: /notes/bvkiran/08-18-2016/public-outreach-for-scientist.md

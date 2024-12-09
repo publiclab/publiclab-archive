@@ -1,5 +1,5 @@
 ---
-title: What's the best waterproof housing/case for a Raspberry Pi 4?
+title: 'What's the best waterproof housing/case for a Raspberry Pi 4?'
 tagnames: housing, art, public, pi, case, raspberry, question:general, waterproof, first-time-poster
 author: jonny
 path: /notes/jonny/08-11-2019/what-s-the-best-waterproof-housing-case-for-a-raspberry-pi-4.md

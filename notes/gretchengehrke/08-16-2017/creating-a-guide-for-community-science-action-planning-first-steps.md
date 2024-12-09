@@ -1,5 +1,5 @@
 ---
-title: Creating a guide for community science action planning: first steps
+title: 'Creating a guide for community science action planning: first steps'
 tagnames: air-quality, water-quality, methodologies, monitoring, advocacy
 author: gretchengehrke
 path: /notes/gretchengehrke/08-16-2017/creating-a-guide-for-community-science-action-planning-first-steps.md

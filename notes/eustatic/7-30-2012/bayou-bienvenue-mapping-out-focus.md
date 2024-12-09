@@ -1,5 +1,5 @@
 ---
-title: Bayou Bienvenue mapping:  out of focus
+title: 'Bayou Bienvenue mapping:  out of focus'
 tagnames: balloon-mapping, bayou-bienvenue, green-slice, bienvenue, urbanwater
 author: eustatic
 path: /7-30-2012/bayou-bienvenue-mapping-out-focus.md

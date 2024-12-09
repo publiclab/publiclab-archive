@@ -1,5 +1,5 @@
 ---
-title: Jornada de documentación y exploración colectiva del territorio
+title: 'Jornada de documentación y exploración colectiva del territorio'
 tagnames: balloon-mapping, spain, event, waste, valldigna, valencia, landscape, iso:es, lang:es, espana, eu, location:blurred, lat:39.1, lon:-0.2, place:valldigna-spain
 author: 7enproceso
 path: /notes/7enproceso/03-26-2014/jornada-de-documentacion-y-exploracion-colectiva-del-territorio.md

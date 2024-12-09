@@ -1,5 +1,5 @@
 ---
-title: Willow Creek Water Quality Monitoring
+title: 'Willow Creek Water Quality Monitoring'
 tagnames: arduino, colorado, water-quality, water, riffle, open-water, barnstar:basic, china, data-logging, project, knowflow, replication:14511, mountain-west, reclamation
 author: MadTinker
 path: /notes/MadTinker/07-31-2017/willow-creek-water-quality-monitoring.md

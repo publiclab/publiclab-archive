@@ -1,5 +1,5 @@
 ---
-title: How do you build a rain barrel? 
+title: 'How do you build a rain barrel? '
 tagnames: stormwater, answered, question:stormwater, rain, rain-barrel
 author: stevie
 path: /notes/stevie/11-28-2017/how-do-you-build-a-rain-barrel.md

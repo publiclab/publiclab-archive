@@ -1,5 +1,5 @@
 ---
-title: Spectrometry workshop - NY
+title: 'Spectrometry workshop - NY'
 tagnames: new-york-city, spectrometry, laser
 author: nicholas
 path: /notes/nicholas/03-16-2014/spectrometry-workshop-ny.md

@@ -1,5 +1,5 @@
 ---
-title: Light
+title: 'Light'
 tagnames: hidden:response, response:13586
 author: Mehamilton
 path: /notes/Mehamilton/10-19-2016/light.md

@@ -1,5 +1,5 @@
 ---
-title: a day at city park!
+title: 'a day at city park!'
 tagnames: first-time-poster, zoom:6, chipmunkscityparkproject, lat:30.003838, lon:-90.097193
 author: tparks2404
 path: /notes/tparks2404/05-17-2021/a-day-at-city-park.md

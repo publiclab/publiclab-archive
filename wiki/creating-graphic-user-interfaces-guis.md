@@ -1,5 +1,5 @@
 ---
-title: Creating Graphic User Interfaces (GUIs)
+title: 'Creating Graphic User Interfaces (GUIs)'
 tagnames: gui, graphic-user-interface
 author: JSummers
 path: /wiki/creating-graphic-user-interfaces-guis.md

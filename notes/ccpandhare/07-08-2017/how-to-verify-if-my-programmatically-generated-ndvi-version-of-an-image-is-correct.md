@@ -1,5 +1,5 @@
 ---
-title: How to verify generated NDVI Images?
+title: 'How to verify generated NDVI Images?'
 tagnames: question:ndvi
 author: ccpandhare
 path: /notes/ccpandhare/07-08-2017/how-to-verify-if-my-programmatically-generated-ndvi-version-of-an-image-is-correct.md

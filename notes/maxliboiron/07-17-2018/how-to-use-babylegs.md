@@ -1,5 +1,5 @@
 ---
-title: How to use BabyLegs
+title: 'How to use BabyLegs'
 tagnames: kits, seeks:replications, micro-plastics, community-kits, microplastics, babylegs, activity:babylegs, trawling, trawl, activity:microplastics
 author: maxliboiron
 path: /notes/maxliboiron/07-17-2018/how-to-use-babylegs.md

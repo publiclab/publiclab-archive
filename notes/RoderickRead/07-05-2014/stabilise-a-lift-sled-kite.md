@@ -1,5 +1,5 @@
 ---
-title: stabilise a lift sled kite
+title: 'stabilise a lift sled kite'
 tagnames: kite-mapping, photography, kite, kap, mapping, wind, energy, aerial, airborne, altitude
 author: RoderickRead
 path: /notes/RoderickRead/07-05-2014/stabilise-a-lift-sled-kite.md

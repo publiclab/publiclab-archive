@@ -1,5 +1,5 @@
 ---
-title: Twilight from Hazy 2/26/22
+title: 'Twilight from Hazy 2/26/22'
 tagnames: drones, coal-mining, coal, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/02-26-2022/twilight-from-hazy-2-26-22.md

@@ -1,5 +1,5 @@
 ---
-title: Is it possible to have a digital copy of the step-by-step instructions?
+title: 'Is it possible to have a digital copy of the step-by-step instructions?'
 tagnames: kite-mapping, outreach, kites, kite-making, question:kite-mapping, question:kite-making, stem, question:kites
 author: SuziT9
 path: /notes/SuziT9/04-15-2018/fantastic-suzit9-profile-suzit9-is-it-possible-to-have-a-digital-copy-of-the-step-by-step-instructions-looking-forward-to-try-these-minikites.md

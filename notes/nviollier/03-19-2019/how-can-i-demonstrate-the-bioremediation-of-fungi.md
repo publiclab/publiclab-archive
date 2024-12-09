@@ -1,5 +1,5 @@
 ---
-title: How can I demonstrate the bioremediation of fungi?
+title: 'How can I demonstrate the bioremediation of fungi?'
 tagnames: bioremediation, mushroom, first-time-poster, mycelium, fungi, circular, cycle, mycoremediation
 author: nviollier
 path: /notes/nviollier/03-19-2019/how-can-i-demonstrate-the-bioremediation-of-fungi.md

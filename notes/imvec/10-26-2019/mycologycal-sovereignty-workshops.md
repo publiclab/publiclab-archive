@@ -1,5 +1,5 @@
 ---
-title: Mycologycal Sovereignty Workshops
+title: 'Mycologycal Sovereignty Workshops'
 tagnames: spain, workshop, event, bioremediation, event:rsvp, eu, mycology, fughi, date:11-01-2019
 author: imvec
 path: /notes/imvec/10-26-2019/mycologycal-sovereignty-workshops.md

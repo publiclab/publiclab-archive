@@ -1,5 +1,5 @@
 ---
-title: Taller extracción de lodos, río San Francisco, Cosquín
+title: 'Taller extracción de lodos, río San Francisco, Cosquín'
 tagnames: water-quality, lang:es, spanish, cosquin, monsanto, glifosato, agrotoxicos, zoom:13, lat:-31.187693, lon:-64.482875
 author: imvec
 path: /notes/imvec/03-19-2020/taller-extraccion-de-lodos-en-cosquin.md

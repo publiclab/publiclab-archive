@@ -1,5 +1,5 @@
 ---
-title: Centerville, Butte, MT
+title: 'Centerville, Butte, MT'
 tagnames: 
 author: Shannon
 path: /wiki/centerville-butte-mt.md

@@ -1,5 +1,5 @@
 ---
-title: Bayou Bienvenue Wetland Triangle Signage Unveiling and Press Conference
+title: 'Bayou Bienvenue Wetland Triangle Signage Unveiling and Press Conference'
 tagnames: gulf-coast, event, bienvenue
 author: eustatic
 path: /11-09-2013/bayou-bienvenue-wetland-triangle-signage-unveiling-and-press-conference.md

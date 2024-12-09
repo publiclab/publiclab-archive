@@ -1,5 +1,5 @@
 ---
-title: All the Shingle Ladies 
+title: 'All the Shingle Ladies '
 tagnames: balloon-mapping, event, hidden:response, response:14179, roof, shingle, dorm
 author: section1bp
 path: /notes/section1bp/05-30-2017/all-the-shingle-ladies.md

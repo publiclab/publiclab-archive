@@ -1,5 +1,5 @@
 ---
-title: spectral-workbench released for Node.js
+title: 'spectral-workbench released for Node.js'
 tagnames: web-development, spectral-workbench, code, javascript, nodejs
 author: warren
 path: /notes/warren/04-07-2016/spectral-workbench-released-for-node-js.md

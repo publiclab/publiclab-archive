@@ -1,5 +1,5 @@
 ---
-title: Can the spectrometer or turbocharger be used for lal testing?
+title: 'Can the spectrometer or turbocharger be used for lal testing?'
 tagnames: spectrometer, spectrometry, microbes, turbidity, question:spectrometry-challenge, spectrometry-challenge, horseshoe-crab, lysate, pyrogens
 author: Ag8n
 path: /notes/Ag8n/04-02-2018/can-the-spectrometer-or-turbocharger-be-used-for-lal-testing.md

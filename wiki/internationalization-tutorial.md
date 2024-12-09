@@ -1,5 +1,5 @@
 ---
-title: Internationalization | Tutorial
+title: 'Internationalization | Tutorial'
 tagnames: 
 author: jiteshxyz
 path: /wiki/internationalization-tutorial.md

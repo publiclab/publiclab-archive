@@ -1,5 +1,5 @@
 ---
-title: DIY High resolution spectrometer
+title: 'DIY High resolution spectrometer'
 tagnames: spectrometer, spectroscopy, chemistry
 author: homechemist
 path: /notes/homechemist/08-24-2018/diy-high-resolution-spectrometer.md

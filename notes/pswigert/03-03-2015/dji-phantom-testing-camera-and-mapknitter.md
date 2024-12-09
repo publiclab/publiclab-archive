@@ -1,5 +1,5 @@
 ---
-title: DJI Phantom- Testing Camera and Mapknitter
+title: 'DJI Phantom- Testing Camera and Mapknitter'
 tagnames: uav-mapping
 author: pswigert
 path: /notes/pswigert/03-03-2015/dji-phantom-testing-camera-and-mapknitter.md

@@ -1,5 +1,5 @@
 ---
-title: The Problematic Pollution of Lake Pontchartrain
+title: 'The Problematic Pollution of Lake Pontchartrain'
 tagnames: gulf-coast, louisiana, lake-pontchartrain, pollution, issue-brief, first-time-poster, zoom:6, lat:30.205062, lon:-90.112069, with:williammckevitt, with:aidenbridevaux
 author: gabrielmetoyer
 path: /notes/gabrielmetoyer/04-14-2021/the-problematic-pollution-of-lake-pontchartrain.md

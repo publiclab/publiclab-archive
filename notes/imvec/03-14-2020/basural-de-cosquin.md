@@ -1,5 +1,5 @@
 ---
-title: Imagen aérea basural de Cosquín
+title: 'Imagen aérea basural de Cosquín'
 tagnames: balloon-mapping, kite-mapping, lang:es, spanish, with:xose, cosquin, zoom:15, lat:-31.242893, lon:-64.507261
 author: imvec
 path: /notes/imvec/03-14-2020/basural-de-cosquin.md

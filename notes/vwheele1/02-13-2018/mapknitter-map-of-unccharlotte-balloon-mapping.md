@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of unccharlotte balloon-mapping
+title: 'MapKnitter map of unccharlotte balloon-mapping'
 tagnames: mapknitter, lat:35.3072369388, lon:-80.7323777676
 author: vwheele1
 path: /notes/vwheele1/02-13-2018/mapknitter-map-of-unccharlotte-balloon-mapping.md

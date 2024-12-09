@@ -1,5 +1,5 @@
 ---
-title: Spam Management Dashboard (Documentation)
+title: 'Spam Management Dashboard (Documentation)'
 tagnames: software, gsoc, spam, publiclab, management, dashboard, soc, summer-of-code, jeff, soc-2020, keshav, smd, gsoc2020, moderator, ebary, dashbaord, soc-2020-final
 author: keshav_sethi0004
 path: /notes/keshav_sethi0004/08-18-2020/spam-management-dashboard-documentation.md

@@ -1,5 +1,5 @@
 ---
-title: April 12 Newtown Creek balloon mapping pics
+title: 'April 12 Newtown Creek balloon mapping pics'
 tagnames: new-york-city, balloon-mapping, newtown-creek, brooklyn, queens
 author: liz
 path: /notes/liz/04-13-2015/april-12-newtown-creek-balloon-mapping-pics.md

@@ -1,5 +1,5 @@
 ---
-title: Job Posting: Web designer/developer
+title: 'Job Posting: Web designer/developer'
 tagnames: jobs
 author: Shannon
 path: /notes/Shannon/05-07-2014/job-posting-web-designer-developer.md

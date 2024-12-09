@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi Microscope:  Honeybee Legs
+title: 'Raspberry Pi Microscope:  Honeybee Legs'
 tagnames: 
 author: kgradow1
 path: /notes/kgradow1/05-13-2018/raspberry-pi-microscope-honeybee-legs.md

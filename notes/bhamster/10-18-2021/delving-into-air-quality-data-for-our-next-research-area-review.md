@@ -1,5 +1,5 @@
 ---
-title: Delving into Air Quality Data for our next Research Area Review
+title: 'Delving into Air Quality Data for our next Research Area Review'
 tagnames: air-quality, reviews, data-visualization, research-area-review, presenting-data, with:fongvania, air-quality-data
 author: bhamster
 path: /notes/bhamster/10-18-2021/delving-into-air-quality-data-for-our-next-research-area-review.md

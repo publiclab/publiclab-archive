@@ -1,5 +1,5 @@
 ---
-title: community development
+title: 'community development'
 tagnames: community, website, wintercamp, history, irc
 author: liz
 path: /wiki/community-development.md

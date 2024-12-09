@@ -1,5 +1,5 @@
 ---
-title: Adventures on the Gowanus on a July Evening
+title: 'Adventures on the Gowanus on a July Evening'
 tagnames: gowanus, new-york, nyc, northeast, barnstar:photo-documentation
 author: eustatic
 path: /07-12-2017/adventures-on-the-gowanus-on-a-july-evening.md

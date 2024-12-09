@@ -1,5 +1,5 @@
 ---
-title: The concept of community paralegals
+title: 'The concept of community paralegals'
 tagnames: legal, lat:35, lon:-79, zoom:13, law-and-policy, community-paralegal, namati
 author: liz
 path: /notes/liz/10-16-2020/the-concept-of-community-paralegals.md

@@ -1,5 +1,5 @@
 ---
-title: Picayune Make event
+title: 'Picayune Make event'
 tagnames: event, event:rsvp, event:picayune, date:08-16-2014, event:gulfcoast, event:make, rsvp:stevie
 author: danbeavers
 path: /notes/danbeavers/08-13-2014/picayune-make-event.md

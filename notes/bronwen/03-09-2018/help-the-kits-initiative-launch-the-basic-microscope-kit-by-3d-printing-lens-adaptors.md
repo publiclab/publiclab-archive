@@ -1,5 +1,5 @@
 ---
-title: Help the Kits Initiative launch the Basic Microscope Kit by 3d printing lens adaptors!
+title: 'Help the Kits Initiative launch the Basic Microscope Kit by 3d printing lens adaptors!'
 tagnames: kits, 3d-printing, answered, microscope, question:general, general, question:microscope, sourcing, question:community-kits, community-kits, question:basic-microscope, basic-microscope
 author: Bronwen
 path: /notes/bronwen/03-09-2018/help-the-kits-initiative-launch-the-basic-microscope-kit-by-3d-printing-lens-adaptors.md

@@ -1,5 +1,5 @@
 ---
-title: Design for coffee spectrometer
+title: 'Design for coffee spectrometer'
 tagnames: spectrometer, water-monitoring, 3d-printing, coffee, sampling, eyedropper, response:8973, colorimetry
 author: warren
 path: /notes/warren/08-08-2013/design-for-coffee-spectrometer.md

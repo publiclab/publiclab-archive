@@ -1,5 +1,5 @@
 ---
-title: Failed 3d print of mobile spectrometer attachment
+title: 'Failed 3d print of mobile spectrometer attachment'
 tagnames: spectrometer, shapeways
 author: warren
 path: /notes/warren/7-17-2012/failed-3d-print-mobile-spectrometer-attachment.md

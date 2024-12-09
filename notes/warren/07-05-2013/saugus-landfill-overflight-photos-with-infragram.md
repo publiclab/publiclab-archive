@@ -1,5 +1,5 @@
 ---
-title: Saugus landfill overflight photos -- with Infragram
+title: 'Saugus landfill overflight photos -- with Infragram'
 tagnames: near-infrared-camera, somerville-massachusetts, ndvi, boston, saugus, passenger-pigeon, landfill, infragram, waste
 author: warren
 path: /notes/warren/07-05-2013/saugus-landfill-overflight-photos-with-infragram.md

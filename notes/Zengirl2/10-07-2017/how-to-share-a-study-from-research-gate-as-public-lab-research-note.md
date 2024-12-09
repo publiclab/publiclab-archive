@@ -1,5 +1,5 @@
 ---
-title: How to share a study from Research Gate as Public Lab Research Note
+title: 'How to share a study from Research Gate as Public Lab Research Note'
 tagnames: research, research-notes, answered, question:question, question:copyright
 author: zengirl2
 path: /notes/Zengirl2/10-07-2017/how-to-share-a-study-from-research-gate-as-public-lab-research-note.md

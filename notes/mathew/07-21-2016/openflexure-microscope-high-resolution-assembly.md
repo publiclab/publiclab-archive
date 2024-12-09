@@ -1,5 +1,5 @@
 ---
-title: OpenFlexure Microscope: high-resolution assembly
+title: 'OpenFlexure Microscope: high-resolution assembly'
 tagnames: raspberry-pi, dust, frac-sand, pm, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, openflexure, activity:microscope, microscopes, activity:microscopes
 author: mathew
 path: /notes/mathew/07-21-2016/openflexure-microscope-high-resolution-assembly.md

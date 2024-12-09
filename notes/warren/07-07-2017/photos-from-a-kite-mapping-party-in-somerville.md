@@ -1,5 +1,5 @@
 ---
-title: Photos from a kite mapping party in Somerville
+title: 'Photos from a kite mapping party in Somerville'
 tagnames: somerville-massachusetts, kite-mapping, boston, aerial-photography, event, somerville, massachusetts, northeast, mini-kite-kit, kite-mapping-party, mapping-party, prospect-hill, squid-kite
 author: warren
 path: /notes/warren/07-07-2017/photos-from-a-kite-mapping-party-in-somerville.md

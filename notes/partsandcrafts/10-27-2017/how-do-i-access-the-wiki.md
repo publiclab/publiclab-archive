@@ -1,5 +1,5 @@
 ---
-title: How do I access the wiki?
+title: 'How do I access the wiki?'
 tagnames: barnraising, question:barnraising
 author: partsandcrafts
 path: /notes/partsandcrafts/10-27-2017/how-do-i-access-the-wiki.md

@@ -1,5 +1,5 @@
 ---
-title: passive-pm-imaging
+title: 'passive-pm-imaging'
 tagnames: parent:passive-pm
 author: mathew
 path: /wiki/passive-pm-imaging.md

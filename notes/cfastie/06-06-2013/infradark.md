@@ -1,5 +1,5 @@
 ---
-title: Infradark
+title: 'Infradark'
 tagnames: ndvi, infragram, night
 author: cfastie
 path: /notes/cfastie/06-06-2013/infradark.md

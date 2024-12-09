@@ -1,5 +1,5 @@
 ---
-title: GSoC 2021 experience with Public Lab
+title: 'GSoC 2021 experience with Public Lab'
 tagnames: spectral-workbench, soc, soc-2021-final
 author: waridrox
 path: /notes/waridrox/08-28-2021/gsoc-2021-experience-with-public-lab.md

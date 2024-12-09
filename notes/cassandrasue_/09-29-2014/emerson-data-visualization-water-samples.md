@@ -1,5 +1,5 @@
 ---
-title: Emerson Data Visualization Water Samples 
+title: 'Emerson Data Visualization Water Samples '
 tagnames: water-quality, first-time-poster
 author: cassandrasue_
 path: /notes/cassandrasue_/09-29-2014/emerson-data-visualization-water-samples.md

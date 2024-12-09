@@ -1,5 +1,5 @@
 ---
-title: Community Mapping in St. Bernard Parish, Louisiana
+title: 'Community Mapping in St. Bernard Parish, Louisiana'
 tagnames: gulf-coast, balloon-mapping, kite-mapping, event, new-orleans, nas, st.bernard
 author: stevie
 path: /notes/stevie/08-10-2017/community-mapping-in-st-bernard-parish-louisiana.md

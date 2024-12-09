@@ -1,5 +1,5 @@
 ---
-title: The Aerobee Rig
+title: 'The Aerobee Rig'
 tagnames: vermont, kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, kaptery, aerobee, jerkpan, response:12624, category:field-test, activity:photo-rig
 author: cfastie
 path: /notes/cfastie/07-05-2016/the-aerobee-rig.md

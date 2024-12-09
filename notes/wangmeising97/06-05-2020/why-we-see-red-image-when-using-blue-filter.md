@@ -1,5 +1,5 @@
 ---
-title: Why we see red image when using blue filter?
+title: 'Why we see red image when using blue filter?'
 tagnames: infragram, question:infragram, first-time-poster
 author: wangmeising97
 path: /notes/wangmeising97/06-05-2020/why-we-see-red-image-when-using-blue-filter.md

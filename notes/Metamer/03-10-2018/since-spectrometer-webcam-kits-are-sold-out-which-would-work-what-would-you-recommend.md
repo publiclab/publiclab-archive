@@ -1,5 +1,5 @@
 ---
-title: Since spectrometer webcam kits are sold out, which would work/what would you recommend?
+title: 'Since spectrometer webcam kits are sold out, which would work/what would you recommend?'
 tagnames: spectrometer, kits, webcam, answered, question:kits
 author: Metamer
 path: /notes/Metamer/03-10-2018/since-spectrometer-webcam-kits-are-sold-out-which-would-work-what-would-you-recommend.md

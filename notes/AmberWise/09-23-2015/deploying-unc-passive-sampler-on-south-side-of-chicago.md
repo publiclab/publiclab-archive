@@ -1,5 +1,5 @@
 ---
-title: Deploying UNC passive sampler on South Side of Chicago
+title: 'Deploying UNC passive sampler on South Side of Chicago'
 tagnames: imagej, air-quality, tools, dust, chicago, pm, barnstar:empiricism, particle-sensing, particle-monitoring, openair, passive-particle-monitors, damarquis, monterrior, pagyebo, passive-pm, activity:pm, activity:passive-particle-monitors, activity:passive-pm
 author: AmberWise
 path: /notes/AmberWise/09-23-2015/deploying-unc-passive-sampler-on-south-side-of-chicago.md

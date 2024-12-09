@@ -1,5 +1,5 @@
 ---
-title: SkyShield v2 beta
+title: 'SkyShield v2 beta'
 tagnames: kite-aerial-photography, kap, autokap, with:donblair, kaptery, saturnv, skyshield, response:11980
 author: cfastie
 path: /notes/cfastie/06-23-2015/skyshield-v2-beta.md

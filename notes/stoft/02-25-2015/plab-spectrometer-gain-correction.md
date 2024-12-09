@@ -1,5 +1,5 @@
 ---
-title: PLab Spectrometer Gain-Correction
+title: 'PLab Spectrometer Gain-Correction'
 tagnames: spectrometer, intensity-calibration, barnstar:basic, intensity, amplitude, gain, gain-correction
 author: stoft
 path: /notes/stoft/02-25-2015/plab-spectrometer-gain-correction.md

@@ -1,5 +1,5 @@
 ---
-title: MAPPING WORKSHOP AT DOCVILLE FARM IN VIOLET, LA – ST. BERNARD PARISH
+title: 'MAPPING WORKSHOP AT DOCVILLE FARM IN VIOLET, LA – ST. BERNARD PARISH'
 tagnames: gulf-coast, balloon-mapping, wetlands, lousiana, with:stevie, nas, lat:29.913215, lon:-89.911418, place:docville-farm
 author: gilbert
 path: /notes/gilbert/08-23-2017/mapping-workshop-at-docville-farm-in-violet-la-st-bernard-parish.md

@@ -1,5 +1,5 @@
 ---
-title: Buoyancy-Driven Underwater Glider
+title: 'Buoyancy-Driven Underwater Glider'
 tagnames: open-water, robotics, oceanography
 author: ajawitz
 path: /notes/ajawitz/07-11-2015/buoyancy-driven-underwater-glider.md

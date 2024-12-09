@@ -1,5 +1,5 @@
 ---
-title: Build a budget for Barnraising 
+title: 'Build a budget for Barnraising '
 tagnames: barnraising, planning, activity:preparations-logistics
 author: stevie
 path: /notes/stevie/07-25-2018/build-a-budget-for-barnraising.md

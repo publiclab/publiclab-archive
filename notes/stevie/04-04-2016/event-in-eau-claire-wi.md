@@ -1,5 +1,5 @@
 ---
-title: Event in Eau Claire, WI
+title: 'Event in Eau Claire, WI'
 tagnames: event, wisconsin, air-quality, event:rsvp, mid-west, rsvp:marlokeno, date:04-23-2016
 author: stevie
 path: /notes/stevie/04-04-2016/event-in-eau-claire-wi.md

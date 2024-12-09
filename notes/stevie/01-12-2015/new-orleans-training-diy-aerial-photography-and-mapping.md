@@ -1,5 +1,5 @@
 ---
-title: New Orleans Training: DIY Aerial Photography and Mapping 
+title: 'New Orleans Training: DIY Aerial Photography and Mapping '
 tagnames: gulf-coast, balloon-mapping, event, neworleans, event:rsvp, rsvp:stevie, urbanwaters, date:02-21-2015, rsvp:ajerolleman, rsvp:eustatic, rsvp:slgarner504, rsvp:caseyjcoleman, rsvp:irvjohnsonphoto, rsvp:mbarra
 author: stevie
 path: /notes/stevie/01-12-2015/new-orleans-training-diy-aerial-photography-and-mapping.md

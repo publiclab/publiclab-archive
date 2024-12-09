@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping meetup, Saturday 1/12/13, in San Francisco
+title: 'Balloon mapping meetup, Saturday 1/12/13, in San Francisco'
 tagnames: balloon-mapping
 author: patcoyle
 path: /notes/patcoyle/1-21-2013/balloon-mapping-meetup-saturday-11213-san-francisco.md

@@ -1,5 +1,5 @@
 ---
-title: Forest near Lake
+title: 'Forest near Lake'
 tagnames: infragram, vegetation, multispectral-imaging, infragram-upload, zoom:13, lat:36.074077, lon:-79.725401
 author: rohaidb
 path: /notes/rohaidb/04-20-2022/forest-near-lake.md

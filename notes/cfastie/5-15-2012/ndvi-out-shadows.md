@@ -1,5 +1,5 @@
 ---
-title: NDVI out of the shadows
+title: 'NDVI out of the shadows'
 tagnames: near-infrared-camera, kite-mapping, grassrootsmapping, nrg, ndvi, vegetation-mapping
 author: cfastie
 path: /notes/cfastie/5-15-2012/ndvi-out-shadows.md

@@ -1,5 +1,5 @@
 ---
-title: OLDFirst Annual Barnraising!
+title: 'OLDFirst Annual Barnraising!'
 tagnames: 
 author: sara
 path: /wiki/barnraising-0.md

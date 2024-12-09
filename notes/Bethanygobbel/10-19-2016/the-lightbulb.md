@@ -1,5 +1,5 @@
 ---
-title: The Lightbulb 
+title: 'The Lightbulb '
 tagnames: hidden:response, response:13586, first-time-poster
 author: Bethanygobbel
 path: /notes/Bethanygobbel/10-19-2016/the-lightbulb.md

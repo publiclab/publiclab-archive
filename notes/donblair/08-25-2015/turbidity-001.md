@@ -1,5 +1,5 @@
 ---
-title: Turbidity 001
+title: 'Turbidity 001'
 tagnames: water-monitoring, turbidity, riffle, open-water, light, secchi-disk, clarity
 author: donblair
 path: /notes/donblair/08-25-2015/turbidity-001.md

@@ -1,5 +1,5 @@
 ---
-title: Getting GPS in Remote Locations
+title: 'Getting GPS in Remote Locations'
 tagnames: question:question
 author: sarasage
 path: /notes/sarasage/05-26-2017/getting-gps-in-remote-locations.md

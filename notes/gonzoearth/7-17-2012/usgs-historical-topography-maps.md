@@ -1,5 +1,5 @@
 ---
-title: USGS historical topography maps
+title: 'USGS historical topography maps'
 tagnames: balloon-mapping, kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/7-17-2012/usgs-historical-topography-maps.md

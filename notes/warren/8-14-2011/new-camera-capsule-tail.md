@@ -1,5 +1,5 @@
 ---
-title: A new camera capsule tail
+title: 'A new camera capsule tail'
 tagnames: 
 author: warren
 path: /notes/warren/8-14-2011/new-camera-capsule-tail.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC blog on the project of revamping the Mapkniiter tool.
+title: 'GSoC blog on the project of revamping the Mapkniiter tool.'
 tagnames: mapknitter, gsoc, leaflet, developers, code, gsoc-2014
 author: anishshah101
 path: /notes/anishshah101/05-04-2014/gsoc-blog-on-the-project-of-revamping-the-mapkniiter-tool.md

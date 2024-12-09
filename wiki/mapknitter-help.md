@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Help
+title: 'MapKnitter Help'
 tagnames: balloon-mapping, mapknitter, hagit-keysar
 author: gonzoearth
 path: /wiki/mapknitter-help.md

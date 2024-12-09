@@ -1,5 +1,5 @@
 ---
-title: Raman spectrometer in operation (sort of)
+title: 'Raman spectrometer in operation (sort of)'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/01-25-2016/raman-spectrometer-in-operation-sort-of.md

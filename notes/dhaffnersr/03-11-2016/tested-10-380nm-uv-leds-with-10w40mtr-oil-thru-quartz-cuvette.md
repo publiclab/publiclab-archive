@@ -1,5 +1,5 @@
 ---
-title: Tested 10 380nm UV LEDs with 10w40mtr oil thru quartz cuvette
+title: 'Tested 10 380nm UV LEDs with 10w40mtr oil thru quartz cuvette'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/03-11-2016/tested-10-380nm-uv-leds-with-10w40mtr-oil-thru-quartz-cuvette.md

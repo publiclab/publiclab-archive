@@ -1,5 +1,5 @@
 ---
-title: Southwest Boston CDC seeks volunteers for land and water restoration
+title: 'Southwest Boston CDC seeks volunteers for land and water restoration'
 tagnames: boston, northeast, neponset
 author: Patalvarez
 path: /notes/Patalvarez/01-03-2017/southwest-boston-cdc-seeks-volunteers-for-land-and-water-restoration.md

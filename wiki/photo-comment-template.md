@@ -1,5 +1,5 @@
 ---
-title: Photo comment template
+title: 'Photo comment template'
 tagnames: template
 author: warren
 path: /wiki/photo-comment-template.md

@@ -1,5 +1,5 @@
 ---
-title: Foldable Spectrometer workshop - Barcelona
+title: 'Foldable Spectrometer workshop - Barcelona'
 tagnames: spectrometer, barcelona, event, lat:41.40852, lon:2.199583, place:hangar-org
 author: imvec
 path: /notes/imvec/04-28-2018/foldable-spectrometer-workshop.md

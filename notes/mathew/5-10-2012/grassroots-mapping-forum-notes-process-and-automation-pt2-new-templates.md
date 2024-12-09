@@ -1,5 +1,5 @@
 ---
-title: Grassroots Mapping Forum: Notes on process and automation pt.2: new templates
+title: 'Grassroots Mapping Forum: Notes on process and automation pt.2: new templates'
 tagnames: 
 author: mathew
 path: /notes/mathew/5-10-2012/grassroots-mapping-forum-notes-process-and-automation-pt2-new-templates.md

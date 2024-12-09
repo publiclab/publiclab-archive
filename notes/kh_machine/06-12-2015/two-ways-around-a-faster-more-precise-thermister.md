@@ -1,5 +1,5 @@
 ---
-title: Two Ways Around a Faster, More Precise Thermister
+title: 'Two Ways Around a Faster, More Precise Thermister'
 tagnames: water-quality, thermal-fishing-bob
 author: kh_machine
 path: /notes/kh_machine/06-12-2015/two-ways-around-a-faster-more-precise-thermister.md

@@ -1,5 +1,5 @@
 ---
-title: Does anyone have experience with remediation of contaminated soils? What are some different options?
+title: 'Does anyone have experience with remediation of contaminated soils? What are some different options?'
 tagnames: remediation, heavy-metals, soil, bioremediation, phytoremediation, question:soil, soil-contamination, mycoremediation, organic-compounds, soil-remediation, question:soil-remediation
 author: bhamster
 path: /notes/bhamster/02-09-2021/does-anyone-have-experience-with-remediation-of-contaminated-soils-what-are-some-different-options.md

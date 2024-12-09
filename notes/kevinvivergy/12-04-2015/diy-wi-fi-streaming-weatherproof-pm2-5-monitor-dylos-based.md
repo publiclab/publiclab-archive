@@ -1,5 +1,5 @@
 ---
-title: DIY: Wi-Fi Streaming Weatherproof PM2.5 Monitor (Dylos-based)
+title: 'DIY: Wi-Fi Streaming Weatherproof PM2.5 Monitor (Dylos-based)'
 tagnames: particulate-sensing, raspberry-pi, air-quality, dust, particulates, pm, particulate-monitoring, pm-sensing, time:5h, difficulty:medium, activity:open-air, category:monitor, status:complete
 author: kevinvivergy
 path: /notes/kevinvivergy/12-04-2015/diy-wi-fi-streaming-weatherproof-pm2-5-monitor-dylos-based.md

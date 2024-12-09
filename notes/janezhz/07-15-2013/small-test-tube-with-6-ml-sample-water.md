@@ -1,5 +1,5 @@
 ---
-title: Small test tube with 6 ml sample water
+title: 'Small test tube with 6 ml sample water'
 tagnames: spectrometer, water, minnesota, yea-corps
 author: janezhz
 path: /notes/janezhz/07-15-2013/small-test-tube-with-6-ml-sample-water.md

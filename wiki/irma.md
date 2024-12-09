@@ -1,5 +1,5 @@
 ---
-title: Irma
+title: 'Irma'
 tagnames: disaster-response, hurricanes, irma
 author: liz
 path: /wiki/irma.md

@@ -1,5 +1,5 @@
 ---
-title: Grassroots Newark
+title: 'Grassroots Newark'
 tagnames: newark, new-jersey, northeast
 author: warren
 path: /wiki/grassroots-newark.md

@@ -1,5 +1,5 @@
 ---
-title: Article on opening science
+title: 'Article on opening science'
 tagnames: 
 author: Shannon
 path: /notes/shannon/6-24-2012/article-opening-science.md

@@ -1,5 +1,5 @@
 ---
-title: Texas Barnraising: Brainstorming the Emergency Response Toolkit 
+title: 'Texas Barnraising: Brainstorming the Emergency Response Toolkit '
 tagnames: barnraising, blog, texas, emergency, crisis-convening, galveston, txbarnraising, lat:29.301347, lon:-94.797695, activity:emergency-response, texas-barnraising, environmental-emergency
 author: Bronwen
 path: /notes/Bronwen/04-04-2019/texas-barnraising-brainstorming-the-emergency-response-toolkit.md

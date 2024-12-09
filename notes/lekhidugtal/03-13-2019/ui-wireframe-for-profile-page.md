@@ -1,5 +1,5 @@
 ---
-title: UI Wireframe for Profile Page
+title: 'UI Wireframe for Profile Page'
 tagnames: design, wireframes, ui, ideas, outreachy, profile, outreachy-2019, ui-designs, outreachy-proposals
 author: lekhidugtal
 path: /notes/lekhidugtal/03-13-2019/ui-wireframe-for-profile-page.md

@@ -1,5 +1,5 @@
 ---
-title: Sneak Peak Balloon/Kite Photography Event
+title: 'Sneak Peak Balloon/Kite Photography Event'
 tagnames: balloon-mapping, kite-mapping, landfill, event, trash, nyc, event:rsvp, freshkills-park, date:09-28-2014, replication:14022
 author: nicholas
 path: /notes/nicholas/09-08-2014/sneak-peak-balloon-kite-photography-event.md

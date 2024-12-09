@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: Community-toolbox
+title: 'SoC proposal: Community-toolbox'
 tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals
 author: jainsubhahu
 path: /notes/jainsubhahu/03-19-2019/soc-proposal.md

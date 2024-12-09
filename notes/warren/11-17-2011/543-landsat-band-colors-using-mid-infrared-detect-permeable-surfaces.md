@@ -1,5 +1,5 @@
 ---
-title: "543" Landsat band colors - using mid-infrared to detect "permeable" surfaces
+title: '"543" Landsat band colors - using mid-infrared to detect "permeable" surfaces'
 tagnames: 
 author: warren
 path: /notes/warren/11-17-2011/543-landsat-band-colors-using-mid-infrared-detect-permeable-surfaces.md

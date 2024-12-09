@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit values
+title: 'Public Lab nonprofit values'
 tagnames: nonprofit, values-statement
 author: Shannon
 path: /wiki/public-lab-nonprofit-values.md

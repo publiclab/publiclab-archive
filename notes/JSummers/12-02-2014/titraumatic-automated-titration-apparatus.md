@@ -1,5 +1,5 @@
 ---
-title: Titraumatic: An apparatus for automated pH titration.
+title: 'Titraumatic: An apparatus for automated pH titration.'
 tagnames: response:9421, ph, titraumatic, titration
 author: JSummers
 path: /notes/JSummers/12-02-2014/titraumatic-automated-titration-apparatus.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Balloon Mapping in 
+title: 'MapKnitter map of Balloon Mapping in '
 tagnames: mapknitter, first-time-poster, zoom:15, lat:30.0182271289, lon:-90.5544877052, lat:30.016155, lon:-90.553092
 author: naheimgastearl378
 path: /notes/naheimgastearl378/05-11-2021/mapknitter-map-of-balloon-mapping-in.md

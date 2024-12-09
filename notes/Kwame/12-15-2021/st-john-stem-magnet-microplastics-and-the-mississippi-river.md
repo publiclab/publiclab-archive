@@ -1,5 +1,5 @@
 ---
-title: St. John STEM MAGNET - Microplastics and the Mississippi River
+title: 'St. John STEM MAGNET - Microplastics and the Mississippi River'
 tagnames: gulf-coast, education, lat:30, microplastics, first-time-poster, zoom:10, lon:-90.4
 author: Kwame
 path: /notes/Kwame/12-15-2021/st-john-stem-magnet-microplastics-and-the-mississippi-river.md

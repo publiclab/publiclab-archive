@@ -1,5 +1,5 @@
 ---
-title: Call Out for Submissions for 5 Year Anniversary GMF
+title: 'Call Out for Submissions for 5 Year Anniversary GMF'
 tagnames: grassrootsmappingforum, gmf-7
 author: mollydanielsson
 path: /notes/MollyDanielsson/02-17-2015/call-out-for-submissions-for-5-year-anniversary-gmf.md

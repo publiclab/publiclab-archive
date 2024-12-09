@@ -1,5 +1,5 @@
 ---
-title: OGC work on Sensor Web Enablement
+title: 'OGC work on Sensor Web Enablement'
 tagnames: sensing, sensors, standards, interoperability, ogc, open-geospatial-consortium
 author: liz
 path: /notes/liz/3-9-2013/ogc-work-sensor-web-enablement.md

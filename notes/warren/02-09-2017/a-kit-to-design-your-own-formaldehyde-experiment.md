@@ -1,5 +1,5 @@
 ---
-title: A kit to design your own formaldehyde experiment?
+title: 'A kit to design your own formaldehyde experiment?'
 tagnames: remediation, formaldehyde, indoor-air-quality, prototyping, indoor-air, placebo, study-design, feedback-loop, priming, blind-testing, double-blind, activity:indoor-air-quality
 author: warren
 path: /notes/warren/02-09-2017/a-kit-to-design-your-own-formaldehyde-experiment.md

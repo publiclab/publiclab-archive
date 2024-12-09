@@ -1,5 +1,5 @@
 ---
-title: Embedded projects
+title: 'Embedded projects'
 tagnames: 
 author: keerthana06
 path: /notes/keerthana06/05-12-2021/embedded-projects.md

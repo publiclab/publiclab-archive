@@ -1,5 +1,5 @@
 ---
-title: The United States has a lot of helpful databases to identify Environmental Justice communities, are there similar tools being used in Canada?  
+title: 'The United States has a lot of helpful databases to identify Environmental Justice communities, are there similar tools being used in Canada?  '
 tagnames: metrics, california, mapping, epa, health, canada, minnesota, environmental-justice, question:general, general, government, governance, environmental-health, washington, ejscreen, us-census, environmental-governance, legislative, judicial, executive-branch, administration
 author: amocorro
 path: /notes/amocorro/05-27-2021/the-united-states-has-a-lot-of-helpful-databases-to-identify-environmental-justice-communities-are-there-similar-tools-being-used-in-canada.md

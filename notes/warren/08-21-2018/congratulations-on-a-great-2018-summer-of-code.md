@@ -1,5 +1,5 @@
 ---
-title: Congratulations on a great 2018 Summer of Code!
+title: 'Congratulations on a great 2018 Summer of Code!'
 tagnames: website, gsoc, google, developers, code, wwg, rgsoc, soc, gsoc-2018, soc-2018, rgsoc-2018, programming, response:16197
 author: warren
 path: /notes/warren/08-21-2018/congratulations-on-a-great-2018-summer-of-code.md

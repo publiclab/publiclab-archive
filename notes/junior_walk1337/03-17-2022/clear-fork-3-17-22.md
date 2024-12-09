@@ -1,5 +1,5 @@
 ---
-title: Clear Fork 3/17/22
+title: 'Clear Fork 3/17/22'
 tagnames: drones, coal-mining, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/03-17-2022/clear-fork-3-17-22.md

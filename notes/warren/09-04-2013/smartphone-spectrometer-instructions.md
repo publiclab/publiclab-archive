@@ -1,5 +1,5 @@
 ---
-title: Smartphone spectrometer instructions
+title: 'Smartphone spectrometer instructions'
 tagnames: spectrometer, kickstarter, smartphone-spectrometer
 author: warren
 path: /notes/warren/09-04-2013/smartphone-spectrometer-instructions.md

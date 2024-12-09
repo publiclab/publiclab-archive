@@ -1,5 +1,5 @@
 ---
-title: barnraising-19-2015-photos-dan
+title: 'barnraising-19-2015-photos-dan'
 tagnames: barnraising, barnraising-2015
 author: danbeavers
 path: /wiki/barnraising-19-2015-photos-dan.md

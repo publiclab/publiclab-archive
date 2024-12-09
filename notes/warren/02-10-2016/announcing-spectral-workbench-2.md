@@ -1,5 +1,5 @@
 ---
-title: Announcing Spectral Workbench 2
+title: 'Announcing Spectral Workbench 2'
 tagnames: spectrometer, software, spectral-workbench, developers, code, oil-testing-kit
 author: warren
 path: /notes/warren/02-10-2016/announcing-spectral-workbench-2.md

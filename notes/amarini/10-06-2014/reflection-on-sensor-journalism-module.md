@@ -1,5 +1,5 @@
 ---
-title: Reflection on Sensor Journalism Module
+title: 'Reflection on Sensor Journalism Module'
 tagnames: sensor-journalism
 author: amarini
 path: /notes/amarini/10-06-2014/reflection-on-sensor-journalism-module.md

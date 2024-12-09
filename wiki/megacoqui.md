@@ -1,5 +1,5 @@
 ---
-title: Megacoqui
+title: 'Megacoqui'
 tagnames: redirect:18868
 author: warren
 path: /wiki/megacoqui.md

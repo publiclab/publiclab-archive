@@ -1,5 +1,5 @@
 ---
-title: A Lending Library (shipping and other troubles in the holyland)
+title: 'A Lending Library (shipping and other troubles in the holyland)'
 tagnames: balloon-mapping, kite-mapping, jerusalem, diy, israel, palestine, lending-library, troubles-in-the-holyland, middle-east
 author: hagitkeysar
 path: /notes/hagitkeysar/07-28-2015/a-lending-library-shipping-and-other-troubles-in-the-holyland.md

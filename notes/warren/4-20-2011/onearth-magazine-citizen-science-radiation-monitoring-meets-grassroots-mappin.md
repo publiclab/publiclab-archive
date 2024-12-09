@@ -1,5 +1,5 @@
 ---
-title: OnEarth magazine: Citizen Science : Radiation Monitoring meets Grassroots Mapping with RDTN.org
+title: 'OnEarth magazine: Citizen Science : Radiation Monitoring meets Grassroots Mapping with RDTN.org'
 tagnames: media, radiation
 author: warren
 path: /notes/warren/4-20-2011/onearth-magazine-citizen-science-radiation-monitoring-meets-grassroots-mappin.md

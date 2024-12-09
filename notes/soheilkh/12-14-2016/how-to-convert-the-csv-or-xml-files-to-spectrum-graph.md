@@ -1,5 +1,5 @@
 ---
-title: How to convert the csv or xml files to spectrum graph? 
+title: 'How to convert the csv or xml files to spectrum graph? '
 tagnames: spectrometer, spectralworkbench, export, graph, question:general
 author: soheilkh
 path: /notes/soheilkh/12-14-2016/how-to-convert-the-csv-or-xml-files-to-spectrum-graph.md

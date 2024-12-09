@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight from hacked, off-the-shelf Pocket IR Thermometer 
+title: 'Thermal Flashlight from hacked, off-the-shelf Pocket IR Thermometer '
 tagnames: thermal-photography, thermal-flashlight, thermal-camera, tool, activity:thermal-flashlight, upgrade:thermal-flashlight, activity:thermal-flashlight-assembly
 author: ajawitz
 path: /notes/code4maine/01-03-2014/thermal-flashlight-from-hacked-off-the-shelf-pocket-ir-thermometer.md

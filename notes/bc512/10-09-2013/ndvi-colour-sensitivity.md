@@ -1,5 +1,5 @@
 ---
-title: NDVI Colour Sensitivity
+title: 'NDVI Colour Sensitivity'
 tagnames: near-infrared-camera, ndvi, infragram, question:ndvi, qgis
 author: bc512
 path: /notes/bc512/10-09-2013/ndvi-colour-sensitivity.md

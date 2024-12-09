@@ -1,5 +1,5 @@
 ---
-title: What are some activities you can to do to get started on Public Lab? 
+title: 'What are some activities you can to do to get started on Public Lab? '
 tagnames: getting-started, question:question, onboarding, community-development, com-dev, question:onboarding
 author: stevie
 path: /notes/stevie/01-23-2018/what-are-some-activities-you-can-to-do-to-get-started-on-public-lab.md

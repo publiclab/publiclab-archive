@@ -1,5 +1,5 @@
 ---
-title: Can we use back-illuminated CMOS video cameras for UV imaging?
+title: 'Can we use back-illuminated CMOS video cameras for UV imaging?'
 tagnames: uv, ultraviolet, cmos, uv-imaging
 author: warren
 path: /notes/warren/12-12-2010/can-we-use-back-illuminated-cmos-video-cameras-uv-imaging.md

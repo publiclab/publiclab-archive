@@ -1,5 +1,5 @@
 ---
-title: Join us for the Raritan Bay Festival Kite / Balloon mapping! Saturday June 28th, Staten Island 
+title: 'Join us for the Raritan Bay Festival Kite / Balloon mapping! Saturday June 28th, Staten Island '
 tagnames: new-york-city, kite-mapping, event, northeast, staten-island, scape, event:kite-mapping
 author: gwirth
 path: /notes/gwirth/06-18-2014/join-us-for-the-raritan-bay-festival-kite-balloon-mapping-saturday-june-28th-staten-island.md

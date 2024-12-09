@@ -1,5 +1,5 @@
 ---
-title: Post a new method to publiclab.org
+title: 'Post a new method to publiclab.org'
 tagnames: activity, research-culture, activity:methods
 author: liz
 path: /notes/liz/12-07-2016/post-a-new-method-to-publiclab-org.md

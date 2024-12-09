@@ -1,5 +1,5 @@
 ---
-title: Barnraising 2011
+title: 'Barnraising 2011'
 tagnames: western-north-carolina, asheville, barnraising, event, list:plots-barnraising, southeast
 author: warren
 path: /wiki/barnraising-2011.md

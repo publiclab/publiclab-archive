@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Computer Vision enhancements for Raspberry Pi based Public Lab Science Projects
+title: 'GSoC proposal: Computer Vision enhancements for Raspberry Pi based Public Lab Science Projects'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, gsoc-2018-final
 author: MaggPi
 path: /notes/MaggPi/03-20-2018/gsoc-proposal-computer-vision-enhancements-for-raspberry-pi-based-public-lab-science-projects.md

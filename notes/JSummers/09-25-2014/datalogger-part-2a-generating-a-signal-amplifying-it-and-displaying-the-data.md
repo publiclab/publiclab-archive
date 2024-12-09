@@ -1,5 +1,5 @@
 ---
-title: Datalogger part 2a; Generating a signal, amplifying it, and displaying the data.
+title: 'Datalogger part 2a; Generating a signal, amplifying it, and displaying the data.'
 tagnames: datalogger, response:10288, activity:data-logging
 author: JSummers
 path: /notes/JSummers/09-25-2014/datalogger-part-2a-generating-a-signal-amplifying-it-and-displaying-the-data.md

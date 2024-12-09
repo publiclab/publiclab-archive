@@ -1,5 +1,5 @@
 ---
-title: measuring-pollen
+title: 'measuring-pollen'
 tagnames: redirect:16021
 author: warren
 path: /wiki/measuring-pollen.md

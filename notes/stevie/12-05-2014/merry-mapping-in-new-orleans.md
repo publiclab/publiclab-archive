@@ -1,5 +1,5 @@
 ---
-title: Merry Mapping in New Orleans! 
+title: 'Merry Mapping in New Orleans! '
 tagnames: events, mapping, event, neworleans, gulfcoast, event:rsvp, urbanwaters, date:12-13-2014, rsvp:mimibell
 author: stevie
 path: /notes/stevie/12-05-2014/merry-mapping-in-new-orleans.md

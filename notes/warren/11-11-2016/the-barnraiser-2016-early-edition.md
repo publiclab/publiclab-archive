@@ -1,5 +1,5 @@
 ---
-title: The Barnraiser 2016 -- early edition
+title: 'The Barnraiser 2016 -- early edition'
 tagnames: documentation, cocodrie, barnraising, doccom, barnraiser, the-barnraiser, barnraising-2016
 author: warren
 path: /notes/warren/11-11-2016/the-barnraiser-2016-early-edition.md

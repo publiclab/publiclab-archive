@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench
+title: 'Spectral Workbench'
 tagnames: question:lego-spectrometer, lego-spectrometer, first-time-poster
 author: danieisnietgek
 path: /notes/danieisnietgek/11-28-2019/spectral-workbench.md

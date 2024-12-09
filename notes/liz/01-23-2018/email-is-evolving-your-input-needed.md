@@ -1,5 +1,5 @@
 ---
-title: Email is evolving - your input needed!
+title: 'Email is evolving - your input needed!'
 tagnames: website, mailing-lists, forums, ui, google-groups, email
 author: liz
 path: /notes/liz/01-23-2018/email-is-evolving-your-input-needed.md

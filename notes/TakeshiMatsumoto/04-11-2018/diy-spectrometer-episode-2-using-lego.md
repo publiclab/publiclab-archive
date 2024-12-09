@@ -1,5 +1,5 @@
 ---
-title: DIY-spectrometer episode 2 (using LEGO)
+title: 'DIY-spectrometer episode 2 (using LEGO)'
 tagnames: spectrometer, spectrometry, lego, activity:spectrometry, activity:lego-spectrometer, activity:lego
 author: TakeshiMatsumoto
 path: /notes/TakeshiMatsumoto/04-11-2018/diy-spectrometer-episode-2-using-lego.md

@@ -1,5 +1,5 @@
 ---
-title: Air-Crafting: Teaching Atmospheric Attunements with Plant Air Purifiers in Davis, California
+title: 'Air-Crafting: Teaching Atmospheric Attunements with Plant Air Purifiers in Davis, California'
 tagnames: remediation, formaldehyde, open-air, indoor-air-quality, indoor-air, replication:13480
 author: PIAO
 path: /notes/PIAO/09-27-2016/air-crafting-teaching-atmospheric-attunements-with-plant-air-purifiers-in-davis-california.md

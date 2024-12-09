@@ -1,5 +1,5 @@
 ---
-title: Citizen Science Test
+title: 'Citizen Science Test'
 tagnames: new, draft, activity:new, first-time-poster
 author: Josep
 path: /notes/Josep/11-25-2019/citizen-science-test.md

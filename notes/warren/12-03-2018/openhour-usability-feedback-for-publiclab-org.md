@@ -1,5 +1,5 @@
 ---
-title: OpenHour: Usability Feedback for PublicLab.org
+title: 'OpenHour: Usability Feedback for PublicLab.org'
 tagnames: event, design, openhour, feedback, ui
 author: warren
 path: /notes/warren/12-03-2018/openhour-usability-feedback-for-publiclab-org.md

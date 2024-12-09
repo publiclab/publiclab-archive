@@ -1,5 +1,5 @@
 ---
-title: How do I stabilize smaller balloons and prevent them from being blown down in the wind?
+title: 'How do I stabilize smaller balloons and prevent them from being blown down in the wind?'
 tagnames: balloon-mapping, kite-balloon-hybrid, mylar, wind, answered, prototyping, mylar-balloons, balloons, mini-balloon-kit, question:mini-balloon-kit
 author: warren
 path: /notes/warren/09-19-2017/how-do-i-stabilize-smaller-balloons-and-prevent-them-from-being-blown-down-in-the-wind.md

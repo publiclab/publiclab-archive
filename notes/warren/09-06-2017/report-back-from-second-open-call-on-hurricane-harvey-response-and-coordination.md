@@ -1,5 +1,5 @@
 ---
-title: Report-back from second Open Call on Hurricane Harvey response and coordination
+title: 'Report-back from second Open Call on Hurricane Harvey response and coordination'
 tagnames: gulf-coast, gulf-restoration-network, skytruth, hurricane, stormwater, mapmill, storm, opencall, coordinating, disaster-response, cartoscope, harvey, harvey-calls, response:14797
 author: warren
 path: /notes/warren/09-06-2017/report-back-from-second-open-call-on-hurricane-harvey-response-and-coordination.md

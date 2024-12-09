@@ -1,5 +1,5 @@
 ---
-title: Enhancing Sensitivity of DIY Spectrometers
+title: 'Enhancing Sensitivity of DIY Spectrometers'
 tagnames: spectrometer, water-quality, sensitivity, smoothing
 author: philippg
 path: /notes/philippg/07-18-2013/enhancing-sensitivity-of-diy-spectrometers.md

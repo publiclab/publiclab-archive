@@ -1,5 +1,5 @@
 ---
-title: Eunice 3/23/22
+title: 'Eunice 3/23/22'
 tagnames: drones, coal-mining, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/03-23-2022/eunice-3-23-22.md

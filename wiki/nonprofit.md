@@ -1,5 +1,5 @@
 ---
-title: Nonprofit
+title: 'Nonprofit'
 tagnames: 
 author: warren
 path: /wiki/nonprofit.md

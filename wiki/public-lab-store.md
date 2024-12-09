@@ -1,5 +1,5 @@
 ---
-title: Public Lab Store
+title: 'Public Lab Store'
 tagnames: kits, store
 author: Bronwen
 path: /wiki/public-lab-store.md

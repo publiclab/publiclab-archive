@@ -1,5 +1,5 @@
 ---
-title: 2015 Public Lab annual report
+title: '2015 Public Lab annual report'
 tagnames: annual-report
 author: Shannon
 path: /notes/Shannon/08-31-2016/2015-public-lab-annual-report.md

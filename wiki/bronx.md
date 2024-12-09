@@ -1,5 +1,5 @@
 ---
-title: bronx
+title: 'bronx'
 tagnames: new-york-city, bronx, parent:new-york-city
 author: liz
 path: /wiki/bronx.md

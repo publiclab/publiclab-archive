@@ -1,5 +1,5 @@
 ---
-title: 3-camera rig testing with with CHDK
+title: '3-camera rig testing with with CHDK'
 tagnames: balloon-mapping, kite-mapping, photo-rig, activity:photo-rig
 author: patcoyle
 path: /notes/patcoyle/5-19-2012/3-camera-rig-testing-chdk.md

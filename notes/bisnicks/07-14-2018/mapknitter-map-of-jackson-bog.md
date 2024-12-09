@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Jackson Bog
+title: 'MapKnitter map of Jackson Bog'
 tagnames: mapknitter, lat:40.8585303, lon:-81.5034207
 author: bisnicks
 path: /notes/bisnicks/07-14-2018/mapknitter-map-of-jackson-bog.md

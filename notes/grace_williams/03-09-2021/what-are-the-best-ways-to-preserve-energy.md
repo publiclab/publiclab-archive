@@ -1,5 +1,5 @@
 ---
-title: What are the best ways to preserve energy?
+title: 'What are the best ways to preserve energy?'
 tagnames: energy, climate-change, energy-conservation, question:general, general, electric, first-time-poster
 author: grace_williams
 path: /notes/grace_williams/03-09-2021/what-are-the-best-ways-to-preserve-energy.md

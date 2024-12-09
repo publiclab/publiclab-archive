@@ -1,5 +1,5 @@
 ---
-title: Boston PLOTS -- Meetup Synopsis for 2/20
+title: 'Boston PLOTS -- Meetup Synopsis for 2/20'
 tagnames: boston, event, desktop-spectrometer
 author: Hudonnoodles
 path: /notes/hudonnoodles/3-1-2013/boston-plots-meetup-synopsis-220.md

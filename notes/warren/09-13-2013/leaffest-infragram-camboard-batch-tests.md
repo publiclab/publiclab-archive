@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST Infragram camboard batch tests
+title: 'LEAFFEST Infragram camboard batch tests'
 tagnames: near-infrared-camera, ndvi, leaffest, infragram, cameras, photo-monitoring-plugin, infragram-conversion, leaffest2013
 author: warren
 path: /notes/warren/09-13-2013/leaffest-infragram-camboard-batch-tests.md

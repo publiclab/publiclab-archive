@@ -1,5 +1,5 @@
 ---
-title: Making ink from petrochemical pollution?
+title: 'Making ink from petrochemical pollution?'
 tagnames: air-quality, waste, pollution, art, climate-change, question:general, general, oil-and-gas, first-time-poster, petrochemical-pollution, question:climate-change
 author: hchalew
 path: /notes/hchalew/02-05-2020/making-ink-from-petrochemical-pollution.md

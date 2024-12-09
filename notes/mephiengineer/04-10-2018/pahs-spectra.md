@@ -1,5 +1,5 @@
 ---
-title: PAHs spectra
+title: 'PAHs spectra'
 tagnames: question:general
 author: mephiengineer
 path: /notes/mephiengineer/04-10-2018/pahs-spectra.md

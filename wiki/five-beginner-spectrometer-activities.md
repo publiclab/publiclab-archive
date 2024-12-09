@@ -1,5 +1,5 @@
 ---
-title: Five Beginner Spectrometer Activities
+title: 'Five Beginner Spectrometer Activities'
 tagnames: 
 author: willie
 path: /wiki/five-beginner-spectrometer-activities.md

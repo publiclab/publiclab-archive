@@ -1,5 +1,5 @@
 ---
-title: Galena Park Community "treasure maps"
+title: 'Galena Park Community "treasure maps"'
 tagnames: balloon-mapping, kite-mapping, annotated-maps, community-mapping
 author: Shannon
 path: /notes/shannon/5-15-2012/galena-park-community-treasure-maps.md

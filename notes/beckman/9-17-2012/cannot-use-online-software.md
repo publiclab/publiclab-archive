@@ -1,5 +1,5 @@
 ---
-title: cannot use online software
+title: 'cannot use online software'
 tagnames: bugs
 author: beckman
 path: /notes/beckman/9-17-2012/cannot-use-online-software.md

@@ -1,5 +1,5 @@
 ---
-title: Canon SD4000IS as Infragram
+title: 'Canon SD4000IS as Infragram'
 tagnames: near-infrared-camera, infragram, rosco, red-filter
 author: warren
 path: /notes/warren/08-08-2014/canon-sd4000is-as-infragram.md

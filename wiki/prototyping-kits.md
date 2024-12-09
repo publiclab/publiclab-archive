@@ -1,5 +1,5 @@
 ---
-title: Prototyping Kits
+title: 'Prototyping Kits'
 tagnames: kits, parent:kits, kits-initiative, prototyping, prototyping-kits
 author: warren
 path: /wiki/prototyping-kits.md

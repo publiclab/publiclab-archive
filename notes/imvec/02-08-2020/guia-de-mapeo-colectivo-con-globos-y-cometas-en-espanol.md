@@ -1,5 +1,5 @@
 ---
-title: Guia de mapeo colectivo con globos y cometas en español
+title: 'Guia de mapeo colectivo con globos y cometas en español'
 tagnames: kap, guide, tool, lang:es, booklet, pocket-guide, ballon-mapping, agricultural, spanish, cosquin, glifosato, guia
 author: imvec
 path: /notes/imvec/02-08-2020/guia-de-mapeo-colectivo-con-globos-y-cometas-en-espanol.md

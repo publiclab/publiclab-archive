@@ -1,5 +1,5 @@
 ---
-title: Thermal Torch Code
+title: 'Thermal Torch Code'
 tagnames: thermal-photography, first-time-poster
 author: dr_dbw
 path: /notes/drdbw/3-27-2012/thermal-torch-code.md

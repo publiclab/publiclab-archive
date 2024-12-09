@@ -1,5 +1,5 @@
 ---
-title: vineyard spectral
+title: 'vineyard spectral'
 tagnames: ndvi, farming, agriculture, raspberry-pi, infragram, camera, machine, data, spectral, robot, solar, learning, pi-camera, raspi, big, multispectral-imaging, raspberry-pi-cameras, vineyards
 author: elador
 path: /notes/elador/09-13-2016/vineyard-spectral-photos.md

@@ -1,5 +1,5 @@
 ---
-title: Sky Cam Enhancement - GSoC 2014
+title: 'Sky Cam Enhancement - GSoC 2014'
 tagnames: gsoc, skycam, first-time-poster
 author: mercyorangi
 path: /notes/mercyorangi/03-21-2014/sky-cam-enhancement-gsoc-2014.md

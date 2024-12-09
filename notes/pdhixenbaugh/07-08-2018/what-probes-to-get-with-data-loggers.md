@@ -1,5 +1,5 @@
 ---
-title: What probes to get with data loggers?
+title: 'What probes to get with data loggers?'
 tagnames: water-quality, conductivity, riffle, question:riffle, question:water-quality, question:data-logging, mayfly, question:mini-pearl-logger, question:mayfly
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/07-08-2018/what-probes-to-get-with-data-loggers.md

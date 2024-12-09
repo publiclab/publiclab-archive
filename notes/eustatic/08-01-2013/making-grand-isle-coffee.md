@@ -1,5 +1,5 @@
 ---
-title: Making Grand Isle Coffee: Team Orca 
+title: 'Making Grand Isle Coffee: Team Orca '
 tagnames: gulf-coast, spectrometer, oil, spectrometry, sample-prep, bp, tarball, orca
 author: eustatic
 path: /08-01-2013/making-grand-isle-coffee.md

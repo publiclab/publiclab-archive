@@ -1,5 +1,5 @@
 ---
-title: For the Bucket Monitor, how many tedlar bags do you need per-sampling?
+title: 'For the Bucket Monitor, how many tedlar bags do you need per-sampling?'
 tagnames: air-quality, question:air-quality, question:general, general, method, bucket, air-sampling, question:air-sampling, question:method, bucket-monitor, question:bucket-monitor, question:bucket
 author: mimiss
 path: /notes/mimiss/09-16-2020/for-the-bucket-monitor-how-many-tedlar-bags-do-you-need-per-sampling.md

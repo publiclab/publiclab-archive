@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Wci Field
+title: 'MapKnitter map of Wci Field'
 tagnames: mapknitter, lat:43.4790179, lon:-80.5302736
 author: garak1213
 path: /notes/garak1213/06-15-2017/mapknitter-map-of-wci-field.md

@@ -1,5 +1,5 @@
 ---
-title: One Acre at a Time: Impact from rural development in Wittmann, Arizona
+title: 'One Acre at a Time: Impact from rural development in Wittmann, Arizona'
 tagnames: issue-brief, first-time-poster, lat:33, zoom:8, lon:-112, rural-development, sonoran-desert, wildlife-habitat-destruction
 author: PJDDusschee
 path: /notes/PJDDusschee/12-11-2022/one-acre-at-a-time-impact-from-rural-development-in-wittmann-arizona.md

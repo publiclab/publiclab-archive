@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Calendar Events and Graphs Integration
+title: 'GSoC proposal: Calendar Events and Graphs Integration'
 tagnames: gsoc, soc, gsoc-2018, soc-2018-proposals
 author: 500swapnil
 path: /notes/500swapnil/02-07-2018/social-media-integration.md

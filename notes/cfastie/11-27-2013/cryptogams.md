@@ -1,5 +1,5 @@
 ---
-title: Cryptogams
+title: 'Cryptogams'
 tagnames: near-infrared-camera, nrg, vermont, infrared, a2200, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, nbn, nnr, super-red, response:9824
 author: cfastie
 path: /notes/cfastie/11-27-2013/cryptogams.md

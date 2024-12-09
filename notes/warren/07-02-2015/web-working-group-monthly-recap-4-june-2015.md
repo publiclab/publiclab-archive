@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Monthly Recap 4: June 2015
+title: 'Web Working Group Monthly Recap 4: June 2015'
 tagnames: mapknitter, web-development, software, plots2, spectral-workbench, web-wg, wwg, webwg, response:11963
 author: warren
 path: /notes/warren/07-02-2015/web-working-group-monthly-recap-4-june-2015.md

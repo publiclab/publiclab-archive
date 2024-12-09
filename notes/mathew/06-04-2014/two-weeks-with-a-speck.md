@@ -1,5 +1,5 @@
 ---
-title: Two weeks with a Speck
+title: 'Two weeks with a Speck'
 tagnames: air, dust, open-air, particle-sensing, particle-monitoring, particulate-monitoring, dust-monitoring, openair
 author: mathew
 path: /notes/mathew/06-04-2014/two-weeks-with-a-speck.md

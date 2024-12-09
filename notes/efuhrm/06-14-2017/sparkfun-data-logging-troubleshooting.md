@@ -1,5 +1,5 @@
 ---
-title: Sparkfun data logging troubleshooting?
+title: 'Sparkfun data logging troubleshooting?'
 tagnames: air, data, sparkfun, monitoring, logging, quality, dylos, open-pipe-kit, data-logging, question:data-logging, datalogging, question:open-pipe-kit, question:phant, question:data-logging-visualization
 author: efuhrm
 path: /notes/efuhrm/06-14-2017/sparkfun-data-logging-troubleshooting.md

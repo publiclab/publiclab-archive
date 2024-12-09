@@ -1,5 +1,5 @@
 ---
-title: Second Evaluation (GSoC 2019): Mapknitter Rails 6.0 upgrade
+title: 'Second Evaluation (GSoC 2019): Mapknitter Rails 6.0 upgrade'
 tagnames: mapknitter, gsoc, rails, soc, upgrade, gsoc-2019, soc-2019, gsoc-19, soc-2019-eval
 author: alaxallves
 path: /notes/alaxallves/07-25-2019/second-evaluation-gsoc-2019-mapknitter-rails-6-0-upgrade.md

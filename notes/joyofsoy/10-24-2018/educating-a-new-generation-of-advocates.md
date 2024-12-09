@@ -1,5 +1,5 @@
 ---
-title: Educating a New Generation of Advocates
+title: 'Educating a New Generation of Advocates'
 tagnames: gulf-coast, balloon-mapping, water-quality, blog, gulfport, turkey-creek, csf15
 author: joyofsoy
 path: /notes/joyofsoy/10-24-2018/educating-a-new-generation-of-advocates.md

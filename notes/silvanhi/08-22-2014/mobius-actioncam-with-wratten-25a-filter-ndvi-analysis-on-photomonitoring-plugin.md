@@ -1,5 +1,5 @@
 ---
-title: Mobius Actioncam with WRATTEN 25a filter NDVI analysis on PhotoMonitoring Plugin
+title: 'Mobius Actioncam with WRATTEN 25a filter NDVI analysis on PhotoMonitoring Plugin'
 tagnames: ndvi, infrared-photography, aerial-mapping, fiji, mobius-actioncam, wratten25a, photomonitoring, hsv, first-time-poster
 author: silvanhi
 path: /notes/silvanhi/08-22-2014/mobius-actioncam-with-wratten-25a-filter-ndvi-analysis-on-photomonitoring-plugin.md

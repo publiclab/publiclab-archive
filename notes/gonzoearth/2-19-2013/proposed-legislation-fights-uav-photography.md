@@ -1,5 +1,5 @@
 ---
-title: Proposed Legislation Fights UAV Photography
+title: 'Proposed Legislation Fights UAV Photography'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/2-19-2013/proposed-legislation-fights-uav-photography.md

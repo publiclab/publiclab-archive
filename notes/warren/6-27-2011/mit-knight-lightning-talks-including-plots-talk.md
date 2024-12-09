@@ -1,5 +1,5 @@
 ---
-title: MIT-Knight Lightning talks, including PLOTS talk
+title: 'MIT-Knight Lightning talks, including PLOTS talk'
 tagnames: 
 author: warren
 path: /notes/warren/6-27-2011/mit-knight-lightning-talks-including-plots-talk.md

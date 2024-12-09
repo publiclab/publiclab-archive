@@ -1,5 +1,5 @@
 ---
-title: Step 2: Translate on Transifex
+title: 'Step 2: Translate on Transifex'
 tagnames: website, activity, localization, translation, language, comunity, activity:localization
 author: liz
 path: /notes/liz/10-26-2016/translating-on-transifex.md

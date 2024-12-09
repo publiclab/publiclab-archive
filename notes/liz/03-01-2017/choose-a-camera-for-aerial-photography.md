@@ -1,5 +1,5 @@
 ---
-title: Choose a camera for aerial photography
+title: 'Choose a camera for aerial photography'
 tagnames: with:cfastie, activity:balloon-mapping, activity:cameras, activity:bourjalshamali
 author: liz
 path: /notes/liz/03-01-2017/choose-a-camera-for-aerial-photography.md

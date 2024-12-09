@@ -1,5 +1,5 @@
 ---
-title: A balloon mapping event at MPavilion (Melbourne, Australia)
+title: 'A balloon mapping event at MPavilion (Melbourne, Australia)'
 tagnames: balloon-mapping, australia, event, event:rsvp, assemble-papers, mpavilion, melbourne, replication:14022, oceania
 author: AssemblePapers
 path: /notes/AssemblePapers/12-06-2016/a-balloon-mapping-event-at-mpavilion-melbourne-australia.md

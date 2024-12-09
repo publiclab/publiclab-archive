@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (14 Imperial Place)
+title: 'Art in Ruins (14 Imperial Place)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lon:-71.411132, lat:41.817384, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-14-imperial-place.md

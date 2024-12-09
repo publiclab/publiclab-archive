@@ -1,5 +1,5 @@
 ---
-title: Hoya UV filter profiles
+title: 'Hoya UV filter profiles'
 tagnames: 
 author: warren
 path: /notes/warren/5-3-2011/hoya-uv-filter-profiles.md

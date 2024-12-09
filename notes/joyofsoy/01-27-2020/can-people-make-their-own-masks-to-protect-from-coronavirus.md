@@ -1,5 +1,5 @@
 ---
-title: Can people make their own masks to protect from coronavirus?
+title: 'Can people make their own masks to protect from coronavirus?'
 tagnames: air-quality, indoor-air-quality, question:general, general, zoom:6, lat:22.319303, lon:114.169361
 author: joyofsoy
 path: /notes/joyofsoy/01-27-2020/can-people-make-their-own-masks-to-protect-from-coronavirus.md

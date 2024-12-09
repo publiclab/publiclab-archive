@@ -1,5 +1,5 @@
 ---
-title: Wiki gardening
+title: 'Wiki gardening'
 tagnames: needs-revision
 author: warren
 path: /wiki/wiki-gardening.md

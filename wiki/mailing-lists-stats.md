@@ -1,5 +1,5 @@
 ---
-title: Mailing lists stats
+title: 'Mailing lists stats'
 tagnames: 
 author: warren
 path: /wiki/mailing-lists-stats.md

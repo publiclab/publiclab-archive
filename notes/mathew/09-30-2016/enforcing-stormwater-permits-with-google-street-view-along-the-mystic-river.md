@@ -1,5 +1,5 @@
 ---
-title: Enforcing Stormwater Permits with Google Street View along the Mystic River
+title: 'Enforcing Stormwater Permits with Google Street View along the Mystic River'
 tagnames: evidence, epa, blog, water, legal, regulations, mystic-river, stormwater, openwater, evidence-project, npdes, streetview, permits, series:evidence-project, law-and-policy
 author: mathew
 path: /notes/mathew/09-30-2016/enforcing-stormwater-permits-with-google-street-view-along-the-mystic-river.md

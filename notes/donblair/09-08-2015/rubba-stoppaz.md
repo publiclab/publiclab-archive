@@ -1,5 +1,5 @@
 ---
-title: Rubba Stoppaz
+title: 'Rubba Stoppaz'
 tagnames: water-sensing, water-quality, riffle, open-water, bottle, waterproofing, seals, stoppers, riffle-examples, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures
 author: donblair
 path: /notes/donblair/09-08-2015/rubba-stoppaz.md

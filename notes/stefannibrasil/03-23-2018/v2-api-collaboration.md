@@ -1,5 +1,5 @@
 ---
-title: v2 API collaboration
+title: 'v2 API collaboration'
 tagnames: soc-2018-api, question:soc-2018-api
 author: stefannibrasil
 path: /notes/stefannibrasil/03-23-2018/v2-api-collaboration.md

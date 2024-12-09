@@ -1,5 +1,5 @@
 ---
-title: New possibilities for a low-cost gas camera
+title: 'New possibilities for a low-cost gas camera'
 tagnames: thermal-photography, thermal-imaging, camera, flir, methane, thermal, gas, gas-sensor, heat, vocs, thermopile, response:11377, gasfinder
 author: loganw
 path: /notes/loganw/09-29-2016/new-possibilities-for-a-low-cost-gas-camera.md

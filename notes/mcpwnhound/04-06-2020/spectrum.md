@@ -1,5 +1,5 @@
 ---
-title: Spectrum 
+title: 'Spectrum '
 tagnames: first-time-poster
 author: mcpwnhound
 path: /notes/mcpwnhound/04-06-2020/spectrum.md

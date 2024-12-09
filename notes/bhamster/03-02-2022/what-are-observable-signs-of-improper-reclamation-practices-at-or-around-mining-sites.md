@@ -1,5 +1,5 @@
 ---
-title: What are observable signs of improper reclamation practices at or around mining sites?
+title: 'What are observable signs of improper reclamation practices at or around mining sites?'
 tagnames: mining, question:general, general, question:mining, reclamation, mine-reclamation, question:mine-reclamation, question:reclamation, evaluating-reclamation, question:evaluating-reclamation
 author: bhamster
 path: /notes/bhamster/03-02-2022/what-are-observable-signs-of-improper-reclamation-practices-at-or-around-mining-sites.md

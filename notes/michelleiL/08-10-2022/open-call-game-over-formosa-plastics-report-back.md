@@ -1,5 +1,5 @@
 ---
-title: Open Call: "Game Over Formosa Plastics" Report Back 
+title: 'Open Call: "Game Over Formosa Plastics" Report Back '
 tagnames: event, event:rsvp, environmentaljustice, formosaplastics, gameoverformosa, date:08-23-2022
 author: michelleiL
 path: /notes/michelleiL/08-10-2022/open-call-game-over-formosa-plastics-report-back.md

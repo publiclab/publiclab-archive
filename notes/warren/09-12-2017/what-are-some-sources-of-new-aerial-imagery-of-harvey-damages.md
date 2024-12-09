@@ -1,5 +1,5 @@
 ---
-title: What are some sources of new aerial imagery of Harvey damages?
+title: 'What are some sources of new aerial imagery of Harvey damages?'
 tagnames: aerial-photography, answered, question:aerial-photography, disaster-response, harvey, hurricanes, question:harvey
 author: warren
 path: /notes/warren/09-12-2017/what-are-some-sources-of-new-aerial-imagery-of-harvey-damages.md

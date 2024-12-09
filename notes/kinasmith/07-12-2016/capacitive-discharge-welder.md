@@ -1,5 +1,5 @@
 ---
-title: Capacitive Discharge Welder
+title: 'Capacitive Discharge Welder'
 tagnames: spectrometer, sensor, thermocouple, welder
 author: kinasmith
 path: /notes/kinasmith/07-12-2016/capacitive-discharge-welder.md

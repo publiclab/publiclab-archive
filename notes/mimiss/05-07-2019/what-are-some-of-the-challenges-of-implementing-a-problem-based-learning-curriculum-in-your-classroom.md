@@ -1,5 +1,5 @@
 ---
-title: What are some of the challenges of implementing a problem-based learning curriculum in your classroom?
+title: 'What are some of the challenges of implementing a problem-based learning curriculum in your classroom?'
 tagnames: question:general, question:education, problem-based-learning
 author: mimiss
 path: /notes/mimiss/05-07-2019/what-are-some-of-the-challenges-of-implementing-a-problem-based-learning-curriculum-in-your-classroom.md

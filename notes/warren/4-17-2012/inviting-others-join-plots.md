@@ -1,5 +1,5 @@
 ---
-title: Inviting others to join PLOTS
+title: 'Inviting others to join PLOTS'
 tagnames: community, licensing, open-hardware, cern-ohl
 author: warren
 path: /notes/warren/4-17-2012/inviting-others-join-plots.md

@@ -1,5 +1,5 @@
 ---
-title: Tweaks to foldable mini-spectrometer design
+title: 'Tweaks to foldable mini-spectrometer design'
 tagnames: spectrometer, instructions, foldable, papercraft, silhouette-cameo, foldable-spectrometer, printability, glue, difficulty:easy, category:build, upgrade:foldable-spec, time:1h, status:proposal
 author: warren
 path: /notes/warren/05-04-2016/tweaks-to-foldable-mini-spectrometer-design.md

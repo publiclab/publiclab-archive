@@ -1,5 +1,5 @@
 ---
-title: CCD Photodiode Array Spectrometer
+title: 'CCD Photodiode Array Spectrometer'
 tagnames: spectrometer, cuvette, beers-law, first-time-poster
 author: bhickman
 path: /notes/bhickman/10-12-2013/ccd-diodearray-spectrometer.md

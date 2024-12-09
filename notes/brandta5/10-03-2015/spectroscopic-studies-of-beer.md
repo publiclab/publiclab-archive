@@ -1,5 +1,5 @@
 ---
-title: Spectroscopic Studies of Beer
+title: 'Spectroscopic Studies of Beer'
 tagnames: first-time-poster
 author: brandta5
 path: /notes/brandta5/10-03-2015/spectroscopic-studies-of-beer.md

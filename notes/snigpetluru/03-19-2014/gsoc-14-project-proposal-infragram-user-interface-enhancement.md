@@ -1,5 +1,5 @@
 ---
-title: [GSOC 14 Project Proposal] Infragram - User Interface Enhancement
+title: '[GSOC 14 Project Proposal] Infragram - User Interface Enhancement'
 tagnames: 
 author: snigpetluru
 path: /notes/snigpetluru/03-19-2014/gsoc-14-project-proposal-infragram-user-interface-enhancement.md

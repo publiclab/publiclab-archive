@@ -1,5 +1,5 @@
 ---
-title: Agrotóxicos - Lista de publicaciones académicas
+title: 'Agrotóxicos - Lista de publicaciones académicas'
 tagnames: lang:es, spanish, cosquin, glifosato, agrotoxicos
 author: imvec
 path: /notes/imvec/02-06-2020/agrotoxicos-lista-de-papers-cientificos.md

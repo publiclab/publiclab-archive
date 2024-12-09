@@ -1,5 +1,5 @@
 ---
-title: Reproducibility test using a CFL lamp
+title: 'Reproducibility test using a CFL lamp'
 tagnames: spectrometer, cfl, lamp, spectrum, reproducibility
 author: viechdokter
 path: /notes/viechdokter/04-13-2016/reproducibility-test-using-a-cfl-lamp.md

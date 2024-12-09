@@ -1,5 +1,5 @@
 ---
-title: Esectros 
+title: 'Esectros '
 tagnames: 
 author: Lui
 path: /notes/Lui/07-13-2015/esectros.md

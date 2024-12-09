@@ -1,5 +1,5 @@
 ---
-title: Summary of Lionel Milberger’s Copper Test
+title: 'Summary of Lionel Milberger’s Copper Test'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s-copper-pipe, h2s-copper-pipe-background
 author: megan
 path: /notes/megan/4-2-2012/summary-lionel-milberger-s-copper-test.md

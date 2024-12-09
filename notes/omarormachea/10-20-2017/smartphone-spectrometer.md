@@ -1,5 +1,5 @@
 ---
-title: Smartphone Spectrometer
+title: 'Smartphone Spectrometer'
 tagnames: spectrometer, spectrometry, smartphone-spectrometer
 author: omarormachea
 path: /notes/omarormachea/10-20-2017/smartphone-spectrometer.md

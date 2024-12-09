@@ -1,5 +1,5 @@
 ---
-title: WATER-QUALITY: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT
+title: 'WATER-QUALITY: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT'
 tagnames: new-york-city, education, curriculum, sewage, public-health, conductivity, pcb, northeast, coqui, rivers, equipment, ph, drains, water-filters, community-science, water-quality-testing, community-microscope, first-time-poster, water-kits, lead-kits, contaminantes, leaf-chromatography, biobus, community-microscopes, queensbridge, nycha, water-pollution, diy-microscopes, foldscope, tap-waters, run-off, water-systems, instruments, water-samples, urban-environmentalism, response:17817
 author: SadiePrego
 path: /notes/SadiePrego/12-05-2018/water-summer-2019-queensbridge-tech-lab-community-science-project.md

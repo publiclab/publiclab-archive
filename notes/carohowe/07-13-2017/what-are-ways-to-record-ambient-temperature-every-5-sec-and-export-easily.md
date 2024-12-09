@@ -1,5 +1,5 @@
 ---
-title: What are ways to record ambient temperature every 5 sec and export easily?
+title: 'What are ways to record ambient temperature every 5 sec and export easily?'
 tagnames: arduino, temperature, question:question, data-logging, question:data-logging, dc, question:arduino, question:temperature, heat-island, thermometer, temperature-sensing, urban-heat-island, bicycle, shading, first-time-poster
 author: carohowe
 path: /notes/carohowe/07-13-2017/what-are-ways-to-record-ambient-temperature-every-5-sec-and-export-easily.md

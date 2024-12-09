@@ -1,5 +1,5 @@
 ---
-title: GSoC 2018: Upgrade of Public Lab to Rails 5.2
+title: 'GSoC 2018: Upgrade of Public Lab to Rails 5.2'
 tagnames: social-media, gsoc, gsoc-2018-final, soc-2018-final-report
 author: souravirus
 path: /notes/souravirus/08-09-2018/gsoc-2018-rails-5-upgrade.md

@@ -1,5 +1,5 @@
 ---
-title: EVENT: Wondering about Wastewater? Join us for a series of events to wrap up Public Lab’s latest research area review!
+title: 'EVENT: Wondering about Wastewater? Join us for a series of events to wrap up Public Lab’s latest research area review!'
 tagnames: event, sewage, water-quality, stormwater, event:rsvp, wastewater, reviews, research-area-review, research-curation-fellows-event, rsvp:denissebn_06, with:alejobonifacio, date:09-29-2021, rsvp:amirberagain, rsvp:jordanyjackson
 author: bhamster
 path: /notes/bhamster/09-14-2021/event-wondering-about-wastewater-join-us-for-a-series-of-events-to-wrap-up-public-lab-s-latest-research-area-review.md

@@ -1,5 +1,5 @@
 ---
-title: WHATS THE PRICE OF THE SPECTROMETER 3?
+title: 'WHATS THE PRICE OF THE SPECTROMETER 3?'
 tagnames: kits, question:kits
 author: dwhite01
 path: /notes/dwhite01/01-18-2020/whats-the-price-of-the-spectrometer-3.md

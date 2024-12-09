@@ -1,5 +1,5 @@
 ---
-title: "Hamster ball" alternative to Roomba
+title: '"Hamster ball" alternative to Roomba'
 tagnames: hamster-ball, air-quality, openlux, roomba, hamster, air-sensors
 author: warren
 path: /notes/warren/1-20-2012/hamster-ball-alternative-roomba.md

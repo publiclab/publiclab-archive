@@ -1,5 +1,5 @@
 ---
-title: LIVE BROADCAST: "Water Quality Primer + Data Visualization Sprint"
+title: 'LIVE BROADCAST: "Water Quality Primer + Data Visualization Sprint"'
 tagnames: boston, event, water-quality, webcast, data-visualization
 author: donblair
 path: /notes/donblair/05-05-2014/monday-5-5-14-at-mit-water-quality-primer-data-visualization-sprint.md

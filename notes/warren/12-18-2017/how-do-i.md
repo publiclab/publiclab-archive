@@ -1,5 +1,5 @@
 ---
-title: How can we detect contaminants in water samples with a DIY spectrometer using reagents?
+title: 'How can we detect contaminants in water samples with a DIY spectrometer using reagents?'
 tagnames: spectrometer, spectrometry, turbidity, reagents, question:spectrometry, colorimeter, question:turbidity, question:spectrometry-challenge
 author: warren
 path: /notes/warren/12-18-2017/how-do-i.md

@@ -1,5 +1,5 @@
 ---
-title: Brian Gullett, Sampling of in situ burn emissions using a helium-filled balloon:
+title: 'Brian Gullett, Sampling of in situ burn emissions using a helium-filled balloon:'
 tagnames: balloon-mapping, air-quality, water-quality, aerostat, zoom:7, oil-response, lat:28.67131, lon:-87.977615
 author: eustatic
 path: /06-11-2020/brian-gullett-sampling-of-in-situ-burn-emissions-using-a-helium-filled-balloon.md

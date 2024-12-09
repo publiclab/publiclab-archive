@@ -1,5 +1,5 @@
 ---
-title: Ground violations 101 with Vernon Haltom
+title: 'Ground violations 101 with Vernon Haltom'
 tagnames: drones, west-virginia, water-quality, coal, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/02-15-2022/ground-violations-101-with-vernon-haltom.md

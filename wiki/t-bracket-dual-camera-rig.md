@@ -1,5 +1,5 @@
 ---
-title: T-bracket Dual Camera Rig
+title: 'T-bracket Dual Camera Rig'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, photo-rig
 author: warren
 path: /wiki/t-bracket-dual-camera-rig.md

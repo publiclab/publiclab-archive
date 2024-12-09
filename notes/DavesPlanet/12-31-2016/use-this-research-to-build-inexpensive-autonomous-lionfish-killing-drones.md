@@ -1,5 +1,5 @@
 ---
-title: Use this research to build inexpensive autonomous lionfish killing drones
+title: 'Use this research to build inexpensive autonomous lionfish killing drones'
 tagnames: fish, open-water, robotics, oceanography, lionfish, question:general, response:12049, liontamer
 author: DavesPlanet
 path: /notes/DavesPlanet/12-31-2016/use-this-research-to-build-inexpensive-autonomous-lionfish-killing-drones.md

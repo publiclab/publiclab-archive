@@ -1,5 +1,5 @@
 ---
-title: Silver Linings of Community Science
+title: 'Silver Linings of Community Science'
 tagnames: water-quality, environment, landscape, with:gretchengehrke
 author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/silver-linings-of-community-science.md

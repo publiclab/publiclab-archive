@@ -1,5 +1,5 @@
 ---
-title: Creating a Bioluminescence Detector 
+title: 'Creating a Bioluminescence Detector '
 tagnames: zoom:6, lat:29.933282, lon:-90.114609
 author: omarion
 path: /notes/omarion/02-17-2020/creating-a-bioluminescence-detector.md

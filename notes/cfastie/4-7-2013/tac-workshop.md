@@ -1,5 +1,5 @@
 ---
-title: TAC Workshop
+title: 'TAC Workshop'
 tagnames: kite-mapping, vermont, kite-aerial-photography, kap, tac, cfastie
 author: cfastie
 path: /notes/cfastie/4-7-2013/tac-workshop.md

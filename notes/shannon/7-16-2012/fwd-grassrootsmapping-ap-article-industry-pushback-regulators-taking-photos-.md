@@ -1,5 +1,5 @@
 ---
-title: Fwd: [grassrootsmapping] AP article on industry pushback on regulators taking photos of pollution from the air
+title: 'Fwd: [grassrootsmapping] AP article on industry pushback on regulators taking photos of pollution from the air'
 tagnames: 
 author: Shannon
 path: /notes/shannon/7-16-2012/fwd-grassrootsmapping-ap-article-industry-pushback-regulators-taking-photos-.md

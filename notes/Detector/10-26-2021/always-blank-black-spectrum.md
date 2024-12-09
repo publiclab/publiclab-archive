@@ -1,5 +1,5 @@
 ---
-title: Always blank, black spectrum
+title: 'Always blank, black spectrum'
 tagnames: spectral-workbench, camera, question:spectral-workbench, first-time-poster
 author: Detector
 path: /notes/Detector/10-26-2021/always-blank-black-spectrum.md

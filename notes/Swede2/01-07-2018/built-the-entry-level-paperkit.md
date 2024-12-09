@@ -1,5 +1,5 @@
 ---
-title: Built the entry level paperkit
+title: 'Built the entry level paperkit'
 tagnames: spectrometer, spectralworkbench, assembly, kit, instructions, smartphone, foldable, papercraft, spectral, smart, beginner, starter, starterkit, phone, printable, replication:13577
 author: Swede2
 path: /notes/Swede2/01-07-2018/built-the-entry-level-paperkit.md

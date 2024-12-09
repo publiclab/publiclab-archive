@@ -1,5 +1,5 @@
 ---
-title: Preview of new Spectrums and Sets pages on Spectral Workbench
+title: 'Preview of new Spectrums and Sets pages on Spectral Workbench'
 tagnames: web-development, software, spectral-workbench, development, spectral-workbench-api
 author: warren
 path: /notes/warren/08-18-2015/preview-of-new-spectrums-and-sets-pages-on-spectral-workbench.md

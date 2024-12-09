@@ -1,5 +1,5 @@
 ---
-title: Water Monitoring Network
+title: 'Water Monitoring Network'
 tagnames: sensors, water-quality, soil-moisture, mid-west, issue-brief, ohio, water-monitoring-network, data-loggers, project:water-quality
 author: roberts_ecofarm
 path: /notes/roberts_ecofarm/11-13-2018/water-monitoring-network.md

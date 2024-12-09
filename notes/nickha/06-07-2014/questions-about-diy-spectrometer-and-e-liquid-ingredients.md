@@ -1,5 +1,5 @@
 ---
-title: Questions about DIY spectrometer and e-liquid ingredients
+title: 'Questions about DIY spectrometer and e-liquid ingredients'
 tagnames: spectrometer, spectral-analysis, question:spectrometer, e-liquid, e-cigarettes
 author: nickha
 path: /notes/nickha/06-07-2014/questions-about-diy-spectrometer-and-e-liquid-ingredients.md

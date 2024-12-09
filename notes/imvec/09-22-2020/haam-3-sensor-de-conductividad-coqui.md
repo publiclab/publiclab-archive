@@ -1,5 +1,5 @@
 ---
-title: HAAM#3: Sensor de conductividad Coqui 
+title: 'HAAM#3: Sensor de conductividad Coqui '
 tagnames: workshop, coqui, spanish, taller, haam
 author: imvec
 path: /notes/imvec/09-22-2020/haam-3-sensor-de-conductividad-coqui.md

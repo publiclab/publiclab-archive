@@ -1,5 +1,5 @@
 ---
-title: GLAM Event 9/27/14
+title: 'GLAM Event 9/27/14'
 tagnames: new-york-city, balloon-mapping, gowanus, brooklyn, mapping, glam, superfund, northeast, canal, altitude, conservancy, low
 author: yvv
 path: /notes/yvv/09-29-2014/glam-event-9-27.md

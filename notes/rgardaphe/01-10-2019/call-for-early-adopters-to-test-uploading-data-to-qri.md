@@ -1,5 +1,5 @@
 ---
-title: Call for early adopters to test uploading data to Qri
+title: 'Call for early adopters to test uploading data to Qri'
 tagnames: software, opensource, data, open-data, opendata, first-time-poster, qri
 author: rgardaphe
 path: /notes/rgardaphe/01-10-2019/call-for-early-adopters-to-test-uploading-data-to-qri.md

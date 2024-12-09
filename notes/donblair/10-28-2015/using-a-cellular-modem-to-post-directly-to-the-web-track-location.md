@@ -1,5 +1,5 @@
 ---
-title: Using a Cellular Modem to post directly to the web & track location 
+title: 'Using a Cellular Modem to post directly to the web & track location '
 tagnames: riffle
 author: donblair
 path: /notes/donblair/10-28-2015/using-a-cellular-modem-to-post-directly-to-the-web-track-location.md

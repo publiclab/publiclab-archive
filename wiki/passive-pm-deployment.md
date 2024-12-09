@@ -1,5 +1,5 @@
 ---
-title: passive-pm-deployment
+title: 'passive-pm-deployment'
 tagnames: parent:passive-pm
 author: mathew
 path: /wiki/passive-pm-deployment.md

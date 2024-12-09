@@ -1,5 +1,5 @@
 ---
-title: Is the Olympus CAMEDIA C-3040 good for NDVI?
+title: 'Is the Olympus CAMEDIA C-3040 good for NDVI?'
 tagnames: question:ndvi, first-time-poster
 author: texacoon
 path: /notes/texacoon/05-10-2019/is-the-olympus-camedia-c-3040-good-for-ndvi.md

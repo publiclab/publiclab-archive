@@ -1,5 +1,5 @@
 ---
-title: Electronics-Free Automated Pan Mechanisms
+title: 'Electronics-Free Automated Pan Mechanisms'
 tagnames: kite-aerial-photography, kite, kap, photo-rig, panorama, autokap, kap-rigs, jerkpan, reconfigurable-rig
 author: ranon
 path: /notes/ranon/07-07-2016/electronics-free-automated-pan-mechanisms.md

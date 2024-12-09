@@ -1,5 +1,5 @@
 ---
-title: Centerville, the town at the crest of the Richest Hill on Earth
+title: 'Centerville, the town at the crest of the Richest Hill on Earth'
 tagnames: mining, centerville, mountain-west, montana
 author: Paddy
 path: /wiki/centerville-the-town-at-the-crest-of-the-richest-hill-on-earth.md

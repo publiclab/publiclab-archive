@@ -1,5 +1,5 @@
 ---
-title: Can we use rPi camera for fluorescence measurement in plants
+title: 'Can we use rPi camera for fluorescence measurement in plants'
 tagnames: fluorescence, plant, raspberrypi, picamera, question:webcam
 author: yusufm
 path: /notes/yusufm/01-09-2017/can-we-use-rpi-camera-for-fluorescence-measurement-in-plants.md

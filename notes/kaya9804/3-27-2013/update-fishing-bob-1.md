@@ -1,5 +1,5 @@
 ---
-title: Update on Fishing Bob
+title: 'Update on Fishing Bob'
 tagnames: boston, thermal-imaging, thermal-fishing, fishing-bob, research-plan, cape-cod, thermal-fishing-bob
 author: Kaya9804
 path: /notes/kaya9804/3-27-2013/update-fishing-bob-1.md

@@ -1,5 +1,5 @@
 ---
-title: Infragram Panoramas on Picture Post
+title: 'Infragram Panoramas on Picture Post'
 tagnames: new-york-city, nrg, nir, nasa, community-garden, infragram, new-orleans, picturepost
 author: wward1400
 path: /notes/wward1400/06-05-2013/infragram-panoramas-on-nasa-picture-post.md

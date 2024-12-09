@@ -1,5 +1,5 @@
 ---
-title: All in One Portable Anesthesia System  for experimental animals
+title: 'All in One Portable Anesthesia System  for experimental animals'
 tagnames: diy, diy-bio, research, biohacking, for, experimental, medical, animal, mouse, anesthesia, portability
 author: Masui
 path: /notes/Masui/08-01-2016/all-in-one-portable-anesthesia-system-for-experimental-animals.md

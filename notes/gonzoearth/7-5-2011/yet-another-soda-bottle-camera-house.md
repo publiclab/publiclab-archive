@@ -1,5 +1,5 @@
 ---
-title: Yet another soda bottle camera house
+title: 'Yet another soda bottle camera house'
 tagnames: balloon-mapping, photo-rig, activity:photo-rig, replication:13948
 author: gonzoearth
 path: /notes/gonzoearth/7-5-2011/yet-another-soda-bottle-camera-house.md

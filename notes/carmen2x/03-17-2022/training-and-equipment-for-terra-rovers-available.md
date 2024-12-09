@@ -1,5 +1,5 @@
 ---
-title: Training and Equipment for Terra-Rovers available
+title: 'Training and Equipment for Terra-Rovers available'
 tagnames: education, nasa, atmosphere, heat, urban-heat-island, aren, first-time-poster
 author: carmen2x
 path: /notes/carmen2x/03-17-2022/training-and-equipment-for-terra-rovers-available.md

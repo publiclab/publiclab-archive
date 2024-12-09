@@ -1,5 +1,5 @@
 ---
-title: Rich Editor project: Calling for alpha testers!
+title: 'Rich Editor project: Calling for alpha testers!'
 tagnames: software, gsoc, developers, code, tags, rich-editor, wysiwyg
 author: warren
 path: /notes/warren/08-15-2016/rich-editor-project-calling-for-alpha-testers.md

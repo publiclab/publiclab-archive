@@ -1,5 +1,5 @@
 ---
-title: Use a rubber band and knotted string to trigger a camera
+title: 'Use a rubber band and knotted string to trigger a camera'
 tagnames: balloon-mapping, kite-mapping, camera-triggering, cameras, timelapse, intervalometer, difficulty:easy, time:15m, category:build, activity:timelapse, activity:aerial-photography, status:complete, activity:photo-monitoring, activity:balloon-mapping, activity:camera-triggering, activity:bourjalshamali
 author: mathew
 path: /notes/mathew/1-29-2012/using-knot-trigger-cameras.md

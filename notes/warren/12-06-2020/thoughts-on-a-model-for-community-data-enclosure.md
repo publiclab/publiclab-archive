@@ -1,5 +1,5 @@
 ---
-title: Thoughts on a model for community data enclosure
+title: 'Thoughts on a model for community data enclosure'
 tagnames: community, ethics, data, lat:41, blog-submission, study-design, lon:-71, zoom:6, citscichat
 author: warren
 path: /notes/warren/12-06-2020/thoughts-on-a-model-for-community-data-enclosure.md

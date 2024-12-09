@@ -1,5 +1,5 @@
 ---
-title: Davis Square balloon photos
+title: 'Davis Square balloon photos'
 tagnames: balloon-mapping, kite-mapping
 author: warren
 path: /notes/warren/4-8-2012/davis-square-balloon-photos.md

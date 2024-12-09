@@ -1,5 +1,5 @@
 ---
-title: Public Lab Holiday Party on Saturday, December 6
+title: 'Public Lab Holiday Party on Saturday, December 6'
 tagnames: somerville-massachusetts, boston, event, toolshed-raising, toolshed, northeast, event:rsvp, rsvp:warren, rsvp:liz, date:12-06-2014, rsvp:hudonnoodles, rsvp:shannon, rsvp:rjstatic, rsvp:ygzstc, rsvp:georesource
 author: Hudonnoodles
 path: /notes/Hudonnoodles/10-10-2014/toolshed-raising-on-saturday-december-6.md

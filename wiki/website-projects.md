@@ -1,5 +1,5 @@
 ---
-title: Website projects
+title: 'Website projects'
 tagnames: website, out-of-date
 author: warren
 path: /wiki/website-projects.md

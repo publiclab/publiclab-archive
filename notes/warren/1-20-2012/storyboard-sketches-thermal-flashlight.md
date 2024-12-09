@@ -1,5 +1,5 @@
 ---
-title: Storyboard sketches for thermal flashlight
+title: 'Storyboard sketches for thermal flashlight'
 tagnames: 
 author: warren
 path: /notes/warren/1-20-2012/storyboard-sketches-thermal-flashlight.md

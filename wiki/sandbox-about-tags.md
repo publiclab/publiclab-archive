@@ -1,5 +1,5 @@
 ---
-title: sandbox-about-tags
+title: 'sandbox-about-tags'
 tagnames: 
 author: bhamster
 path: /wiki/sandbox-about-tags.md

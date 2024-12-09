@@ -1,5 +1,5 @@
 ---
-title: Recap on a Thermal Flashlight Workshop from 12/18/2011
+title: 'Recap on a Thermal Flashlight Workshop from 12/18/2011'
 tagnames: somerville-massachusetts, thermal-photography, boston, meetup, thermal-flashlight
 author: rjstatic
 path: /1-20-2012/recap-thermal-flashlight-workshop-12182011.md

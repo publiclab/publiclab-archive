@@ -1,5 +1,5 @@
 ---
-title: Stickers
+title: 'Stickers'
 tagnames: stickers, drawings, parent:kits-artwork
 author: warren
 path: /wiki/stickers.md

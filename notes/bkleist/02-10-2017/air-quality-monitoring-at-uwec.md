@@ -1,5 +1,5 @@
 ---
-title: Air Quality Monitoring at UWEC
+title: 'Air Quality Monitoring at UWEC'
 tagnames: photo-monitoring, wisconsin, air-quality, timelapse, particulates, pm, dylos, pm-monitoring, trail-camera, uwec, story:timelapse, timelapse-story
 author: bkleist
 path: /notes/bkleist/02-10-2017/air-quality-monitoring-at-uwec.md

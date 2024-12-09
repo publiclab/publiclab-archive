@@ -1,5 +1,5 @@
 ---
-title: MapKnitter 2: Test Edition
+title: 'MapKnitter 2: Test Edition'
 tagnames: balloon-mapping, mapknitter, web-development, webworkinggroup, software, developers, mapknitter2
 author: warren
 path: /notes/warren/02-10-2015/mapknitter-2-test-edition.md

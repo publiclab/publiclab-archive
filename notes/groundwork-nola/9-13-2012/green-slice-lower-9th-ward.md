@@ -1,5 +1,5 @@
 ---
-title: Green Slice- Lower 9th Ward
+title: 'Green Slice- Lower 9th Ward'
 tagnames: balloon-mapping, green-slice, groundwork-nola, first-time-poster
 author: GroundworkNola
 path: /notes/groundwork-nola/9-13-2012/green-slice-lower-9th-ward.md

@@ -1,5 +1,5 @@
 ---
-title: Programming Texas Instruments microcontrollers using the Tiva C LaunchPad.
+title: 'Programming Texas Instruments microcontrollers using the Tiva C LaunchPad.'
 tagnames: spectrometry, hardware, wheetrometer, programming
 author: JSummers
 path: /notes/JSummers/12-29-2018/programming-texas-instruments-microcontrollers-using-the-tiva-c-launchpad.md

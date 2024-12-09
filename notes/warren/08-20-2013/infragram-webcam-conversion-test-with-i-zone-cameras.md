@@ -1,5 +1,5 @@
 ---
-title: Infragram webcam conversion test with I Zone cameras
+title: 'Infragram webcam conversion test with I Zone cameras'
 tagnames: near-infrared-camera, kickstarter, webcam, infragram, infragram-conversion
 author: warren
 path: /notes/warren/08-20-2013/infragram-webcam-conversion-test-with-i-zone-cameras.md

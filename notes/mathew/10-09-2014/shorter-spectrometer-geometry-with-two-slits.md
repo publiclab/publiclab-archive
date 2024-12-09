@@ -1,5 +1,5 @@
 ---
-title: shorter spectrometer geometry with two slits?
+title: 'shorter spectrometer geometry with two slits?'
 tagnames: spectrometer, oil-testing-kit
 author: mathew
 path: /notes/mathew/10-09-2014/shorter-spectrometer-geometry-with-two-slits.md

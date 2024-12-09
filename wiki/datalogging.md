@@ -1,5 +1,5 @@
 ---
-title: datalogging
+title: 'datalogging'
 tagnames: redirect:data-logging
 author: warren
 path: /wiki/datalogging.md

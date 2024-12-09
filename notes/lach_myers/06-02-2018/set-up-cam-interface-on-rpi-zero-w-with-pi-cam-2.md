@@ -1,5 +1,5 @@
 ---
-title: Set up Cam interface on RPi zero w with Pi Cam 2
+title: 'Set up Cam interface on RPi zero w with Pi Cam 2'
 tagnames: raspberry-pi, microscope, pi-camera, microscopes, raspberry-pi-infragram, raspberry-pi-spectrometer, replication:16180, first-time-poster
 author: lach_myers
 path: /notes/lach_myers/06-02-2018/set-up-cam-interface-on-rpi-zero-w-with-pi-cam-2.md

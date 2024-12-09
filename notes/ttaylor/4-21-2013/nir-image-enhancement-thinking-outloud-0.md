@@ -1,5 +1,5 @@
 ---
-title: NIR image enhancement (&thinking out loud)
+title: 'NIR image enhancement (&thinking out loud)'
 tagnames: near-infrared-camera, image-interpretation, spectral-imaging, first-time-poster
 author: ttaylor
 path: /notes/ttaylor/4-21-2013/nir-image-enhancement-thinking-outloud-0.md

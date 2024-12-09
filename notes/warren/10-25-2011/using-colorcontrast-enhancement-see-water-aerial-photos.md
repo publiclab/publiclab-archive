@@ -1,5 +1,5 @@
 ---
-title: Using color/contrast enhancement to see into water in aerial photos
+title: 'Using color/contrast enhancement to see into water in aerial photos'
 tagnames: barataria, underwater, contrast, enhancement
 author: warren
 path: /notes/warren/10-25-2011/using-colorcontrast-enhancement-see-water-aerial-photos.md

@@ -1,5 +1,5 @@
 ---
-title: Exhibition and Mapping Workshops in Bourj Al Shamali
+title: 'Exhibition and Mapping Workshops in Bourj Al Shamali'
 tagnames: balloon-mapping, exhibition, bourjalshamali
 author: firas
 path: /notes/firas/03-13-2017/exhibition-and-mapping-workshops-in-bourj-al-shamali.md

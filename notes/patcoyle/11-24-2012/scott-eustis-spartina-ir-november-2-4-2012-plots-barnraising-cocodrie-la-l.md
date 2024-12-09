@@ -1,5 +1,5 @@
 ---
-title: Scott Eustis on Spartina IR  - November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON
+title: 'Scott Eustis on Spartina IR  - November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON'
 tagnames: plots, barnraising2012, lumcon, publiclaboratory, cocodrie-la
 author: patcoyle
 path: /notes/patcoyle/11-24-2012/scott-eustis-spartina-ir-november-2-4-2012-plots-barnraising-cocodrie-la-l.md

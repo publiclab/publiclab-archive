@@ -1,5 +1,5 @@
 ---
-title: Making a small hamsterball
+title: 'Making a small hamsterball'
 tagnames: indoor-air-quality-mapping, hamster-ball, air-quality
 author: bha
 path: /notes/bha/4-9-2012/making-small-hamsterball.md

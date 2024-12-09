@@ -1,5 +1,5 @@
 ---
-title: The Evolution of the PLOTS Smartphone Spectrometer
+title: 'The Evolution of the PLOTS Smartphone Spectrometer'
 tagnames: spectrometer, mobile-spectrometer, backpack, first-time-poster
 author: BradDudenhoffer
 path: /notes/braddudenhoffer/2-11-2013/evolution-plots-smartphone-spectrometer-0.md

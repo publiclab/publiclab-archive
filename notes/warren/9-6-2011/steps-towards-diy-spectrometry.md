@@ -1,5 +1,5 @@
 ---
-title: Steps towards DIY Spectrometry
+title: 'Steps towards DIY Spectrometry'
 tagnames: lima, spectrometer, peru, boston, partsandcrafts, idealab, parts-and-crafts, turntable, escuelab
 author: warren
 path: /notes/warren/9-6-2011/steps-towards-diy-spectrometry.md

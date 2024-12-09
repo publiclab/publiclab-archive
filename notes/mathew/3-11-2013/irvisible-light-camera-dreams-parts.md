@@ -1,5 +1,5 @@
 ---
-title: IR/Visible light camera dreams & parts
+title: 'IR/Visible light camera dreams & parts'
 tagnames: near-infrared-camera, ircam, near-ir
 author: mathew
 path: /notes/mathew/3-11-2013/irvisible-light-camera-dreams-parts.md

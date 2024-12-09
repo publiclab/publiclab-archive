@@ -1,5 +1,5 @@
 ---
-title: March Mapping Madness-Asheville
+title: 'March Mapping Madness-Asheville'
 tagnames: lunalillian
 author: sara
 path: /wiki/march-mapping-madness-asheville.md

@@ -1,5 +1,5 @@
 ---
-title: How do you test for oil and gas-related contaminants in soils? 
+title: 'How do you test for oil and gas-related contaminants in soils? '
 tagnames: oil, soil, contamination, testing, gas, question:general, oil-and-gas, question:oil-and-gas, first-time-poster, question:soil, soil-contamination, question:industry
 author: DanielleS
 path: /notes/DanielleS/01-22-2019/how-do-you-test-for-oil-and-gas-related-contaminants-in-soils.md

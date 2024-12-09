@@ -1,5 +1,5 @@
 ---
-title: Riffle first experience
+title: 'Riffle first experience'
 tagnames: riffle, riffle-beta
 author: ggallant
 path: /notes/ggallant/05-18-2016/riffle-first-experience.md

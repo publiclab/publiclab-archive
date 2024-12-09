@@ -1,5 +1,5 @@
 ---
-title: Airborne Silica and Regulations
+title: 'Airborne Silica and Regulations'
 tagnames: silica, frac-sand, with:gretchengehrke, sand-frac, communityscienceforum
 author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/airborne-silica-and-regulations.md

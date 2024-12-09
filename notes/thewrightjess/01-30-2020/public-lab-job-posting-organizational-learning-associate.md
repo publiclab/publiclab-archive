@@ -1,5 +1,5 @@
 ---
-title: Job Posting: Organizational Learning Associate
+title: 'Job Posting: Organizational Learning Associate'
 tagnames: community, development, jobs
 author: thewrightjess
 path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-organizational-learning-associate.md

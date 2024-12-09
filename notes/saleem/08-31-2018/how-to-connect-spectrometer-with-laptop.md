@@ -1,5 +1,5 @@
 ---
-title: how to connect spectrometer with laptop.
+title: 'how to connect spectrometer with laptop.'
 tagnames: spectrometer, question:general
 author: saleem
 path: /notes/saleem/08-31-2018/how-to-connect-spectrometer-with-laptop.md

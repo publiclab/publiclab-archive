@@ -1,5 +1,5 @@
 ---
-title: Back to Basics, or a Departure from Environmental Protections? History lends perspective.
+title: 'Back to Basics, or a Departure from Environmental Protections? History lends perspective.'
 tagnames: environment, regulations, landscape, governance
 author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/back-to-basics-or-a-departure-from-environmental-protections-history-lends-perspective.md

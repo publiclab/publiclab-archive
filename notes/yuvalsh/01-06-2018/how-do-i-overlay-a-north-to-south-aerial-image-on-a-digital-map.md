@@ -1,5 +1,5 @@
 ---
-title: How do i overlay a north to south aerial image on a digital map? 
+title: 'How do i overlay a north to south aerial image on a digital map? '
 tagnames: mapknitter, mapping, question:mapknitter, question:mapping
 author: yuvalsh
 path: /notes/yuvalsh/01-06-2018/how-do-i-overlay-a-north-to-south-aerial-image-on-a-digital-map.md

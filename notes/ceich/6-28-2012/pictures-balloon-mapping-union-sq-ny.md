@@ -1,5 +1,5 @@
 ---
-title: Pictures of Balloon Mapping Union Sq NY
+title: 'Pictures of Balloon Mapping Union Sq NY'
 tagnames: balloon-mapping, diy-balloon, camera-rig
 author: C_Eich
 path: /notes/ceich/6-28-2012/pictures-balloon-mapping-union-sq-ny.md

@@ -1,5 +1,5 @@
 ---
-title: Riffle Beta Release: Feature Requests / Review? 
+title: 'Riffle Beta Release: Feature Requests / Review? '
 tagnames: air-quality, water-quality, water, datalogger, logging, riffle, logger
 author: donblair
 path: /notes/donblair/11-30-2015/riffle-beta-release-feature-requests-review.md

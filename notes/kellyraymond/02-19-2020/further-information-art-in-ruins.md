@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (164 Summit Ave)
+title: 'Art in Ruins (164 Summit Ave)'
 tagnames: hidden:response, zoom:16, unearthing-pvd-stories, lat:41.85156167, lon:-71.39771473, lat:41.851561, lon:-71.397714, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/further-information-art-in-ruins.md

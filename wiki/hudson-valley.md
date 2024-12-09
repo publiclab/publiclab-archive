@@ -1,5 +1,5 @@
 ---
-title: Hudson-Valley
+title: 'Hudson-Valley'
 tagnames: new-york, nyc, river, northeast, valley, beacon, hudson, ny, node
 author: joshuaflux
 path: /wiki/hudson-valley.md

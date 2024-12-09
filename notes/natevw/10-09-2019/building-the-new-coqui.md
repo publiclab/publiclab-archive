@@ -1,5 +1,5 @@
 ---
-title: Building the new Coqui
+title: 'Building the new Coqui'
 tagnames: water-quality, conductivity, coqui, activity:coqui, sound, pin:activity:coqui, activity:one-cranston, replication:18313
 author: natevw
 path: /notes/natevw/10-09-2019/building-the-new-coqui.md

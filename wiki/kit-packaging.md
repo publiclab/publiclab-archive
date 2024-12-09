@@ -1,5 +1,5 @@
 ---
-title: Kit Packaging
+title: 'Kit Packaging'
 tagnames: kits, parent:kits
 author: warren
 path: /wiki/kit-packaging.md

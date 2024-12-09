@@ -1,5 +1,5 @@
 ---
-title: NDVI image issues from GoPro 3+ Silver 
+title: 'NDVI image issues from GoPro 3+ Silver '
 tagnames: ndvi, nir, filter, infragram, plant, question:ndvi, question:infragram, photomonitoring, multispectral-imaging, first-time-poster
 author: jeffa_plain
 path: /notes/jeffa_plain/11-22-2021/ndvi-image-issues-from-gopro-3-silver.md

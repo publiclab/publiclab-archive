@@ -1,5 +1,5 @@
 ---
-title: Can anyone help with weather station recommendations?
+title: 'Can anyone help with weather station recommendations?'
 tagnames: gulf-coast, neworleans, wind, gulfcoast, weather, weather-station, climate-change, solar, answered, question:wind, question:weather, weatherstation, question:solar, solar-powered, question:climate-change
 author: stevie
 path: /notes/stevie/06-13-2017/can-anyone-help-with-weather-station-recommendations.md

@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: PublicLab.Editor
+title: 'SoC proposal: PublicLab.Editor'
 tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, lat:19.075983, lon:72.877655
 author: f20171066
 path: /notes/f20171066/04-05-2019/soc-proposal-publiclab-editor.md

@@ -1,5 +1,5 @@
 ---
-title: Developers
+title: 'Developers'
 tagnames: community, software, programmers, developers, code, mapknitter2, soc
 author: warren
 path: /wiki/developers.md

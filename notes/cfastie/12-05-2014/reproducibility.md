@@ -1,5 +1,5 @@
 ---
-title: Reproducibility
+title: 'Reproducibility'
 tagnames: events, barnraising, event, research, power-tags, barnraising2014
 author: cfastie
 path: /notes/cfastie/12-05-2014/reproducibility.md

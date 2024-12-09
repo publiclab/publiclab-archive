@@ -1,5 +1,5 @@
 ---
-title: Spectrometer comparison
+title: 'Spectrometer comparison'
 tagnames: 
 author: warren
 path: /wiki/spectrometer-comparison.md

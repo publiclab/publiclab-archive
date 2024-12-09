@@ -1,5 +1,5 @@
 ---
-title: Gowanus brainstorm on annotated maps
+title: 'Gowanus brainstorm on annotated maps'
 tagnames: 
 author: liz
 path: /notes/liz/2-7-2013/gowanus-brainstorm-annotated-maps.md

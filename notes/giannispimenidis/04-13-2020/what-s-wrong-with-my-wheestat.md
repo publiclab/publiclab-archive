@@ -1,5 +1,5 @@
 ---
-title: What's wrong with my  wheestat?
+title: 'What's wrong with my  wheestat?'
 tagnames: wheestat, question:wheestat, first-time-poster
 author: giannispimenidis
 path: /notes/giannispimenidis/04-13-2020/what-s-wrong-with-my-wheestat.md

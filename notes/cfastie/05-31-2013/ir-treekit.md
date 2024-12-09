@@ -1,5 +1,5 @@
 ---
-title: IR TreeKIT
+title: 'IR TreeKIT'
 tagnames: near-infrared-camera, nrg, infrared, new-york, infragram, infrablue
 author: cfastie
 path: /notes/cfastie/05-31-2013/ir-treekit.md

@@ -1,5 +1,5 @@
 ---
-title: Riffle (and Arduino) first impressions - notes
+title: 'Riffle (and Arduino) first impressions - notes'
 tagnames: documentation, github, draft, riffle-beta, first-time-poster
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/05-22-2016/riffle-and-arduino-first-impressions-notes.md

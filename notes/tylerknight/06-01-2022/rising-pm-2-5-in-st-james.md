@@ -1,5 +1,5 @@
 ---
-title: Rising PM 2.5 in St James
+title: 'Rising PM 2.5 in St James'
 tagnames: gulf-coast, air-quality, pm, particulatematter, particulate-matter, purpleair, st-james, formosaplastics
 author: tylerknight
 path: /notes/tylerknight/06-01-2022/rising-pm-2-5-in-st-james.md

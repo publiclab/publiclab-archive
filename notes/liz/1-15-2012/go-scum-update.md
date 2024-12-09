@@ -1,5 +1,5 @@
 ---
-title: GO SCUM update
+title: 'GO SCUM update'
 tagnames: new-york-city, gowanus, gowanus-canal, thermal-flashlight, brooklyn, thermal-fishing-bob, glowdoodle, underwater, northeast, with:eymund, activity:thermal-fishing-bob
 author: liz
 path: /notes/liz/1-15-2012/go-scum-update.md

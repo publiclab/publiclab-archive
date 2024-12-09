@@ -1,5 +1,5 @@
 ---
-title: Call for Papers
+title: 'Call for Papers'
 tagnames: events, call-for-papers, papers
 author: stefannibrasil
 path: /wiki/call-for-papers.md

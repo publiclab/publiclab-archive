@@ -1,5 +1,5 @@
 ---
-title: Tagging Interface
+title: 'Tagging Interface'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
 author: mkashyap354
 path: /notes/mkashyap354/03-17-2017/tagging-interface.md

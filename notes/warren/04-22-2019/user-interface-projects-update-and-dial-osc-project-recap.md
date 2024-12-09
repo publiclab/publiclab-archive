@@ -1,5 +1,5 @@
 ---
-title: User interface projects update and DIAL OSC project recap
+title: 'User interface projects update and DIAL OSC project recap'
 tagnames: website, design, developers, code, style-guide, ux, ui, user-interface, user-experience, pin:ui
 author: warren
 path: /notes/warren/04-22-2019/user-interface-projects-update-and-dial-osc-project-recap.md

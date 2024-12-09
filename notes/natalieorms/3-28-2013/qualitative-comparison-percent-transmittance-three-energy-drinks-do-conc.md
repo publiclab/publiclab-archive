@@ -1,5 +1,5 @@
 ---
-title: Qualitative Comparison of Percent Transmittance of Three Energy Drinks: Do the concentrations of red food coloring in energy beverages differ?
+title: 'Qualitative Comparison of Percent Transmittance of Three Energy Drinks: Do the concentrations of red food coloring in energy beverages differ?'
 tagnames: centre-college, che-350
 author: natalie.orms
 path: /notes/natalieorms/3-28-2013/qualitative-comparison-percent-transmittance-three-energy-drinks-do-conc.md

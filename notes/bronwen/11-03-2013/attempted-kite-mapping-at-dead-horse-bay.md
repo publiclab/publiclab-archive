@@ -1,5 +1,5 @@
 ---
-title: (Attempted) Kite Mapping at Dead Horse Bay
+title: '(Attempted) Kite Mapping at Dead Horse Bay'
 tagnames: new-york-city, kite-mapping, brooklyn, waste, trash, dead-horse-bay
 author: Bronwen
 path: /notes/bronwen/11-03-2013/attempted-kite-mapping-at-dead-horse-bay.md

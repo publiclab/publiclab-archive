@@ -1,5 +1,5 @@
 ---
-title: Sidewalk & Stones
+title: 'Sidewalk & Stones'
 tagnames: infragram, drone, grass, rocks, first-time-poster, infragram-upload, zoom:13, lat:47.75, lon:-122.19
 author: mchao2
 path: /notes/mchao2/03-03-2020/sidewalk-stones.md

@@ -1,5 +1,5 @@
 ---
-title: Building Snake Plant Air Remediation kit in Bangalore, India
+title: 'Building Snake Plant Air Remediation kit in Bangalore, India'
 tagnames: remediation, air-quality, barnstar:basic, formaldehyde, open-air, barnstar:photo-documentation, filters, indoor-air-quality, indoor-air, pick, current, difficulty:easy, seeks:replications, time:3h, category:build, status:in-progress, vocs, activity:open-air, replication:13480, activity:formaldehyde, activity:indoor-air-remediation, first-time-poster, plant-air-purifier-prototypes, activity:filters, lat:12.940322, lon:77.574462, activity:indoor-air-quality
 author: deeptalaxmibharadwaj
 path: /notes/deeptalaxmibharadwaj/09-02-2019/building-snake-plant-air-remediation-kit-in-bangalore-india.md

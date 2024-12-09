@@ -1,5 +1,5 @@
 ---
-title: Harmonic Modes in a Red Laser Diode
+title: 'Harmonic Modes in a Red Laser Diode'
 tagnames: spectrometer, spectrometers, first-time-poster, lasers, lat:40.713955, lon:-74.014892
 author: wln215
 path: /notes/wln215/03-12-2019/harmonic-modes-in-a-red-laser-diode.md

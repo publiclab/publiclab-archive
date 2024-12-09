@@ -1,5 +1,5 @@
 ---
-title: Does your state have air quality standards for hydrogen sulfide? 
+title: 'Does your state have air quality standards for hydrogen sulfide? '
 tagnames: question:question, question:regulations, question:hydrogen-sulfide, question:legal, question:hydrogen-sulfide-regulations, law-and-policy, question:law-and-policy
 author: gretchengehrke
 path: /notes/gretchengehrke/11-30-2017/does-your-state-have-air-quality-standards-for-hydrogen-sulfide.md

@@ -1,5 +1,5 @@
 ---
-title: GSOC 2020 Week 7 (coding Period Week-3)@Spam Management Dashboard
+title: 'GSOC 2020 Week 7 (coding Period Week-3)@Spam Management Dashboard'
 tagnames: gsoc, spam, dashboard, gsoc-2020, keshav, smd, weekly-update
 author: keshav_sethi0004
 path: /notes/keshav_sethi0004/06-29-2020/gsoc-2020-week-7-coding-period-week-3-spam-management-dashboard.md

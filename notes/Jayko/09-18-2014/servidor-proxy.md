@@ -1,5 +1,5 @@
 ---
-title: Servidor Proxy
+title: 'Servidor Proxy'
 tagnames: 
 author: Jayko
 path: /notes/Jayko/09-18-2014/servidor-proxy.md

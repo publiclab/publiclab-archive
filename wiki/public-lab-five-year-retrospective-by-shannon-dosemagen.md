@@ -1,5 +1,5 @@
 ---
-title: Public Lab Five Year Retrospective by Shannon Dosemagen
+title: 'Public Lab Five Year Retrospective by Shannon Dosemagen'
 tagnames: grassrootsmapping, grassrootsmappingforum, history, with:shannon, style:fancy, gmf-7
 author: mollydanielsson
 path: /wiki/public-lab-five-year-retrospective-by-shannon-dosemagen.md

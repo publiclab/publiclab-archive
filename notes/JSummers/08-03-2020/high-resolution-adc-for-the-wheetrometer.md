@@ -1,5 +1,5 @@
 ---
-title: High resolution ADC for the WheeTrometer.
+title: 'High resolution ADC for the WheeTrometer.'
 tagnames: advancedsearch, response:16427
 author: JSummers
 path: /notes/JSummers/08-03-2020/high-resolution-adc-for-the-wheetrometer.md

@@ -1,5 +1,5 @@
 ---
-title: How much are Coqui measurements affected by hot/cold water?
+title: 'How much are Coqui measurements affected by hot/cold water?'
 tagnames: vermont, leaffest, water-quality, conductivity, riffle, northeast, 555, openwater, with:kgradow1, leaffest2014, coqui, tapwater, question:coqui, activity:coqui-usage
 author: warren
 path: /notes/warren/09-13-2014/riffle-coqui-hot-cold-tapwater-test.md

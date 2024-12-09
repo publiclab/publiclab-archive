@@ -1,5 +1,5 @@
 ---
-title: Understanding Soil Contamination - Key Terms & Concepts 
+title: 'Understanding Soil Contamination - Key Terms & Concepts '
 tagnames: soil, soil-testing, ph, soil-analysis, activity:soil, soil-contamination, soil-contamination-testing, bioavailability, soil-chemistry
 author: DanielleS
 path: /notes/DanielleS/03-10-2019/understanding-soil-contamination-key-terms-concepts.md

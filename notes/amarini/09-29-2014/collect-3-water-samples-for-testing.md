@@ -1,5 +1,5 @@
 ---
-title: Collect 3 Water Samples for Testing 
+title: 'Collect 3 Water Samples for Testing '
 tagnames: conductivity, open-water, coqui, first-time-poster
 author: amarini
 path: /notes/amarini/09-29-2014/collect-3-water-samples-for-testing.md

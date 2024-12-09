@@ -1,5 +1,5 @@
 ---
-title: Telemark skin glue for re-stickable spectrometer attachment
+title: 'Telemark skin glue for re-stickable spectrometer attachment'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/2-27-2013/telemark-skin-glue-re-stickable-spectrometer-attachment.md

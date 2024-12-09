@@ -1,5 +1,5 @@
 ---
-title: Helium alternative
+title: 'Helium alternative'
 tagnames: balloon-mapping, helium, question:balloon-mapping, answered, question:mini-balloon-kit, question:helium
 author: mrw0116
 path: /notes/mrw0116/11-10-2017/helium-alternative.md

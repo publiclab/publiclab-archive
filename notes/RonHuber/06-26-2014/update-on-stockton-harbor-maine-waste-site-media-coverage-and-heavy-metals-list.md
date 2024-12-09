@@ -1,5 +1,5 @@
 ---
-title: Update on Stockton Harbor, Maine waste site: Media Coverage and heavy metals list
+title: 'Update on Stockton Harbor, Maine waste site: Media Coverage and heavy metals list'
 tagnames: heavy-metals, arsenic, silver, maine, selenium, northeast, lead, phosphogypsum, penobscot, mercury, bay, mud, cadmium, friends-of-penobscot-bay, searsport, acid, metals, sulfuric-acid, chromium, cobalt, nickel, copper, zinc, antimony, thallium, uranium, radium, location:blurred, lat:44.46, lon:-68.86, place:stockton-harbor-stockton-springs-me-usa, lead-testing
 author: ronhuber
 path: /notes/RonHuber/06-26-2014/update-on-stockton-harbor-maine-waste-site-media-coverage-and-heavy-metals-list.md

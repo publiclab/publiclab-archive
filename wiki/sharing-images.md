@@ -1,5 +1,5 @@
 ---
-title: Sharing Images
+title: 'Sharing Images'
 tagnames: needs-revision, bittorrent, sharing, image-sorting, redirect:14184
 author: warren
 path: /wiki/sharing-images.md

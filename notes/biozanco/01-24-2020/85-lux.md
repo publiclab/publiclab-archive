@@ -1,5 +1,5 @@
 ---
-title: 85 lux
+title: '85 lux'
 tagnames: infragram, first-time-poster, infragram-upload
 author: biozanco
 path: /notes/biozanco/01-24-2020/85-lux.md

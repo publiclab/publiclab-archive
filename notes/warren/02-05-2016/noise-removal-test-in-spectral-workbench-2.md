@@ -1,5 +1,5 @@
 ---
-title: Baseline noise removal test in Spectral Workbench 2
+title: 'Baseline noise removal test in Spectral Workbench 2'
 tagnames: spectrometry, spectral-workbench, operations, noise-reduction, spectral-workbench-2
 author: warren
 path: /notes/warren/02-05-2016/noise-removal-test-in-spectral-workbench-2.md

@@ -1,5 +1,5 @@
 ---
-title: PurpleAir Sensor Data to Hosted Geospatial Data Layer
+title: 'PurpleAir Sensor Data to Hosted Geospatial Data Layer'
 tagnames: mapping, air-quality, geospatial, barnstar:basic, purpleair, air-quality-monitoring, presenting-data, air-quality-data
 author: seankmcginnis
 path: /notes/seankmcginnis/06-03-2021/purpleair-sensor-data-to-hosted-geospatial-data-layer.md

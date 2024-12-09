@@ -1,5 +1,5 @@
 ---
-title: When is it better to do grab sampling versus other types of monitoring?
+title: 'When is it better to do grab sampling versus other types of monitoring?'
 tagnames: air, sampling, monitoring, answered, question:water-sampling, question:sampling, question:soil-sampling, water-sampling, grab-sample, question:air-sampling, question:air-monitoring, question:soil, bucket-monitor, question:bucket-monitor
 author: stevie
 path: /notes/stevie/10-11-2017/when-is-it-better-to-do-grab-sampling-versus-other-types-of-monitoring.md

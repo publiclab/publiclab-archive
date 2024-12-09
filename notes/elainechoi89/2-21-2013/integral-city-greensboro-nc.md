@@ -1,5 +1,5 @@
 ---
-title: Integral City: Greensboro, NC
+title: 'Integral City: Greensboro, NC'
 tagnames: balloon-mapping, southeast
 author: elainechoi89
 path: /notes/elainechoi89/2-21-2013/integral-city-greensboro-nc.md

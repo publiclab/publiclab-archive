@@ -1,5 +1,5 @@
 ---
-title: A month in the field and nothing to show
+title: 'A month in the field and nothing to show'
 tagnames: sand, photo-monitoring, wisconsin, timelapse, camera, mining, silica, frac-sand, mobius, mid-west, parent:frac-sand
 author: bkleist
 path: /notes/bkleist/10-19-2016/a-month-in-the-field-and-nothing-to-show.md

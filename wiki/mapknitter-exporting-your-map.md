@@ -1,5 +1,5 @@
 ---
-title: MapKnitter: Exporting 
+title: 'MapKnitter: Exporting '
 tagnames: mapknitter, help, needs-revision, tutorial, parent:mapknitter, exporting
 author: gonzoearth
 path: /wiki/mapknitter-exporting-your-map.md

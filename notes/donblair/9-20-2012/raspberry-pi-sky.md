@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi-in-the-sky
+title: 'Raspberry Pi-in-the-sky'
 tagnames: balloon-mapping, kite-mapping, photo-rig, wireless, remote, raspberry-pi, rpi, pi-camera, raspberry-pi-cameras, activity:pi-camera, first-time-poster
 author: donblair
 path: /notes/donblair/9-20-2012/raspberry-pi-sky.md

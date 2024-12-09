@@ -1,5 +1,5 @@
 ---
-title: State-by-state info sheets on indoor air quality
+title: 'State-by-state info sheets on indoor air quality'
 tagnames: survey, open-air, indoor-air, indoor-air-info-sheet
 author: nshapiro
 path: /wiki/state-by-state-info-sheets-on-indoor-air-quality.md

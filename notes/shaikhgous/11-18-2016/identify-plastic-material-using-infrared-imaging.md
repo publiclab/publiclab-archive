@@ -1,5 +1,5 @@
 ---
-title: Identify Plastic Material Using Infrared Imaging
+title: 'Identify Plastic Material Using Infrared Imaging'
 tagnames: infrared, spectrometry, question:spectrometry, question:infrared, question:multispectral-imaging, response:13679, recycling, question:plastic, polymer
 author: shaikhgous
 path: /notes/shaikhgous/11-18-2016/identify-plastic-material-using-infrared-imaging.md

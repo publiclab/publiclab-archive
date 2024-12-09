@@ -1,5 +1,5 @@
 ---
-title: Artichoke filter search
+title: 'Artichoke filter search'
 tagnames: near-infrared-camera, ndvi, infragram, rosco, infrablue, infragram-filters, gigapan
 author: cfastie
 path: /notes/cfastie/05-14-2013/artichoke-filter-search.md

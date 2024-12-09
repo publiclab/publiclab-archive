@@ -1,5 +1,5 @@
 ---
-title: DustDuino available for sale
+title: 'DustDuino available for sale'
 tagnames: question:dustduino, question:pm
 author: Najat
 path: /notes/Najat/11-22-2016/dustduino-available-for-sale.md

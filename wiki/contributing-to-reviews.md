@@ -1,5 +1,5 @@
 ---
-title: Contributing to Research Area Reviews
+title: 'Contributing to Research Area Reviews'
 tagnames: research, guidelines, contributing, reviews, research-area-review, parent:reviews
 author: bhamster
 path: /wiki/contributing-to-reviews.md

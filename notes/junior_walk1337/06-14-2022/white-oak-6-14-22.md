@@ -1,5 +1,5 @@
 ---
-title: White Oak 6/14/22
+title: 'White Oak 6/14/22'
 tagnames: drones, coal-mining, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/06-14-2022/white-oak-6-14-22.md

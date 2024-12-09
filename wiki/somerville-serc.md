@@ -1,5 +1,5 @@
 ---
-title: Somerville SERC
+title: 'Somerville SERC'
 tagnames: parent:serc
 author: warren
 path: /wiki/somerville-serc.md

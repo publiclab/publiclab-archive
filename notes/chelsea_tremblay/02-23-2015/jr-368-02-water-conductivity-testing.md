@@ -1,5 +1,5 @@
 ---
-title: JR 368 02 Water Conductivity Testing 
+title: 'JR 368 02 Water Conductivity Testing '
 tagnames: sensor-journalism, first-time-poster
 author: chelsea_tremblay
 path: /notes/chelsea_tremblay/02-23-2015/jr-368-02-water-conductivity-testing.md

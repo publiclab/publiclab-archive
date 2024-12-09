@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: 'Contributors'
 tagnames: community, parent:website, contribute
 author: liz
 path: /wiki/contributors.md

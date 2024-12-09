@@ -1,5 +1,5 @@
 ---
-title: Announcing the Infragram Point & Shoot
+title: 'Announcing the Infragram Point & Shoot'
 tagnames: near-infrared-camera, infrared, kickstarter, infragram, rosco, mobius, wratten, redfilter
 author: mathew
 path: /notes/mathew/05-02-2014/announcing-the-infragram-point-shoot.md

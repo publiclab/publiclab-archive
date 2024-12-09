@@ -1,5 +1,5 @@
 ---
-title: Getting mini spectrometer to produce a spectrum
+title: 'Getting mini spectrometer to produce a spectrum'
 tagnames: spectrometer, guide, cross-section, question:general, response:13779
 author: rcmjh
 path: /notes/rcmjh/02-03-2017/getting-mini-spectrometer-to-produce-a-spectrum.md

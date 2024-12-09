@@ -1,5 +1,5 @@
 ---
-title: Shallow note on depth
+title: 'Shallow note on depth'
 tagnames: water-quality, coqui, depth, depth-sensor
 author: donblair
 path: /notes/donblair/01-14-2015/shallow-note-on-depth.md

@@ -1,5 +1,5 @@
 ---
-title: NDVI with a 2 camera setup
+title: 'NDVI with a 2 camera setup'
 tagnames: near-infrared-camera, ndvi, question:ndvi, question:multispectral-imaging, multispectral-imaging, question:general, general, first-time-poster
 author: karunv
 path: /notes/karunv/10-12-2020/ndvi-with-a-2-camera-setup.md

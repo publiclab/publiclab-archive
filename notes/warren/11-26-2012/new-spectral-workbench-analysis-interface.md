@@ -1,5 +1,5 @@
 ---
-title: New Spectral Workbench analysis interface
+title: 'New Spectral Workbench analysis interface'
 tagnames: spectrometer, spectralworkbench
 author: warren
 path: /notes/warren/11-26-2012/new-spectral-workbench-analysis-interface.md

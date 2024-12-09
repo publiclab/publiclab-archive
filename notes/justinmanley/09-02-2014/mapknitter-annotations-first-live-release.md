@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Annotations: First Live Release
+title: 'MapKnitter Annotations: First Live Release'
 tagnames: mapknitter, gsoc, gsoc-2014, annotations
 author: justinmanley
 path: /notes/justinmanley/09-02-2014/mapknitter-annotations-first-live-release.md

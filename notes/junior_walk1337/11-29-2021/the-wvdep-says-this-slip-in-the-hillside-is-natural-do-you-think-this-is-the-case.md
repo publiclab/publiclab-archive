@@ -1,5 +1,5 @@
 ---
-title: The WVDEP says this slip in the hillside is natural, do you think this is the case?
+title: 'The WVDEP says this slip in the hillside is natural, do you think this is the case?'
 tagnames: drones, west-virginia, mining, coal, southeast, first-time-poster, mmmp, question:mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/11-29-2021/the-wvdep-says-this-slip-in-the-hillside-is-natural-do-you-think-this-is-the-case.md

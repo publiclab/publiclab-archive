@@ -1,5 +1,5 @@
 ---
-title: Difference Between Image Calibration and Camera Calibration?
+title: 'Difference Between Image Calibration and Camera Calibration?'
 tagnames: ndvi, calibration, infrared, infragram, response:12021, midopt, question:general, first-time-poster
 author: J_tanna
 path: /notes/J_tanna/01-30-2017/difference-between-image-calibration-and-camera-calibration.md

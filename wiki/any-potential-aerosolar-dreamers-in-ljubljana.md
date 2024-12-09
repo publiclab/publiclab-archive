@@ -1,5 +1,5 @@
 ---
-title: ..... any potential aerosolar dreamers in Ljubljana?
+title: '..... any potential aerosolar dreamers in Ljubljana?'
 tagnames: new-mexico, solar-balloon, slovenia, event, sun, event:rsvp, solar, aerocene, ljubljana, white-sands, flight, tivoli-park, date:04-24-2018
 author: AeroceneFoundation
 path: /wiki/any-potential-aerosolar-dreamers-in-ljubljana.md

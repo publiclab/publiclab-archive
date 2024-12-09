@@ -1,5 +1,5 @@
 ---
-title: What is the latest thinking of red / blue filters for NDVI?
+title: 'What is the latest thinking of red / blue filters for NDVI?'
 tagnames: agriculture, urban-planning, infragram-filters, tool, land-use, multispectral-imaging, question:general, land-change
 author: stevesteve
 path: /notes/stevesteve/01-15-2018/what-is-the-latest-thinking-of-red-green-filters-for-ndvi.md

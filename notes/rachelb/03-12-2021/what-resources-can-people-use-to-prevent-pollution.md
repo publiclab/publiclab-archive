@@ -1,5 +1,5 @@
 ---
-title: What resources can people use to prevent pollution?
+title: 'What resources can people use to prevent pollution?'
 tagnames: lake-pontchartrain, pollution, question:general, general, water-resources, first-time-poster
 author: rachelb
 path: /notes/rachelb/03-12-2021/what-resources-can-people-use-to-prevent-pollution.md

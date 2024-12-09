@@ -1,5 +1,5 @@
 ---
-title: Where are people compiling lists of potential pollution sites following Hurricane Irma?
+title: 'Where are people compiling lists of potential pollution sites following Hurricane Irma?'
 tagnames: hurricane, question:general, irma
 author: stevie
 path: /notes/stevie/09-14-2017/where-are-people-compiling-lists-of-potential-pollution-sites-following-hurricane-irma.md

@@ -1,5 +1,5 @@
 ---
-title: Students map campus of University of South Carolina - Beaufort - South
+title: 'Students map campus of University of South Carolina - Beaufort - South'
 tagnames: southeast
 author: adam-griffith
 path: /notes/adam-griffith/9-10-2011/students-map-campus-univerity-south-carolina-beaufort-south.md

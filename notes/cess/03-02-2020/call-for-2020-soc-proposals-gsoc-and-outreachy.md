@@ -1,5 +1,5 @@
 ---
-title: Call for 2020 GSoC proposals
+title: 'Call for 2020 GSoC proposals'
 tagnames: software, gsoc, soc, lat:0, lon:0, outreachy, call-for-proposals, zoom:1
 author: cess
 path: /notes/cess/03-02-2020/call-for-2020-soc-proposals-gsoc-and-outreachy.md

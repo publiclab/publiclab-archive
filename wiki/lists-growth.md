@@ -1,5 +1,5 @@
 ---
-title: Lists Growth
+title: 'Lists Growth'
 tagnames: 
 author: warren
 path: /wiki/lists-growth.md

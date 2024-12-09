@@ -1,5 +1,5 @@
 ---
-title: Community Microscope Assembly Instructions
+title: 'Community Microscope Assembly Instructions'
 tagnames: webcam, with:warren, microscope, activity:microscope, community-kits, activity:basic-microscope, optics, activity:community-microscope, community-microscope, activity:community-microscope-assembly, pin:activity:community-microscope-assembly
 author: Bronwen
 path: /notes/bronwen/05-07-2018/community-microscope-assembly-instructions.md

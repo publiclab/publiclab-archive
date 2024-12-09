@@ -1,5 +1,5 @@
 ---
-title: Desktop Spectrometer Assembly Notes
+title: 'Desktop Spectrometer Assembly Notes'
 tagnames: spectrometer, unboxing
 author: sonofaquark
 path: /notes/sonofaquark/3-25-2013/desktop-spectrometer-assembly-notes.md

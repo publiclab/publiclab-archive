@@ -1,5 +1,5 @@
 ---
-title: What are easy and fast ways to get files off a Raspberry Pi?
+title: 'What are easy and fast ways to get files off a Raspberry Pi?'
 tagnames: pi-camera, question:raspberry-pi, question:pi-camera, question:raspberry-pi-infragram, question:raspberry-pi-spectrometer, lego-spectrometer, pi-builder, infragram-pi, question:pi-builder
 author: warren
 path: /notes/warren/08-01-2019/what-are-easy-and-fast-ways-to-get-files-off-a-raspberry-pi.md

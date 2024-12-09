@@ -1,5 +1,5 @@
 ---
-title: MapKnitter: using the browser for maximun zoom 
+title: 'MapKnitter: using the browser for maximun zoom '
 tagnames: balloon-mapping, kite-mapping, mapknitter, maps, tips
 author: gonzoearth
 path: /notes/gonzoearth/05-09-2013/mapknitter-using-the-browser-for-maximun-zoom.md

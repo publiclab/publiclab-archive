@@ -1,5 +1,5 @@
 ---
-title: Suggestions for a temperature sensor for surface (stone) measurements?
+title: 'Suggestions for a temperature sensor for surface (stone) measurements?'
 tagnames: arduino, temperature, sensors, heat, question:question, data-logging, question:data-logging, question:sensors
 author: MadTinker
 path: /notes/MadTinker/09-08-2017/suggestions-for-a-temperature-sensor-for-surface-stone-measurements.md

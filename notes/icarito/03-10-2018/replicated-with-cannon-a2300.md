@@ -1,5 +1,5 @@
 ---
-title: Replicated with Cannon A2300
+title: 'Replicated with Cannon A2300'
 tagnames: balloon-mapping, triggering, chdk, camera-triggering, camera-scripting, replication:9858
 author: icarito
 path: /notes/icarito/03-10-2018/replicated-with-cannon-a2300.md

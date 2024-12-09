@@ -1,5 +1,5 @@
 ---
-title: Registering and processing photos acquired from two cameras
+title: 'Registering and processing photos acquired from two cameras'
 tagnames: near-infrared-camera, image-processing, imagej, great-photos, image-registration, first-time-poster
 author: nedhorning
 path: /notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras.md

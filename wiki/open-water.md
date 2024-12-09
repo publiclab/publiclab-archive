@@ -1,5 +1,5 @@
 ---
-title: Open Water
+title: 'Open Water'
 tagnames: water-sensing, water-quality, conductivity, ioby, mystic-river, initiative-area, parent:nonprofit-initiatives, project:water-quality
 author: donblair
 path: /wiki/open-water.md

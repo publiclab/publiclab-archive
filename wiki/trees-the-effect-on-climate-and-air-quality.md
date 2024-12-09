@@ -1,5 +1,5 @@
 ---
-title: Trees: The effect on climate and air quality
+title: 'Trees: The effect on climate and air quality'
 tagnames: trees, snow, climate-change, city, city-vs-rural, cold
 author: suget305
 path: /wiki/trees-the-effect-on-climate-and-air-quality.md

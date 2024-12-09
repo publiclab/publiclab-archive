@@ -1,5 +1,5 @@
 ---
-title: Canon Powershot SD4000 repairs
+title: 'Canon Powershot SD4000 repairs'
 tagnames: repairs, cameras, canon
 author: jbreen
 path: /notes/jbreen/7-18-2012/canon-powershot-sd4000-repairs.md

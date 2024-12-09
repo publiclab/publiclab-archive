@@ -1,5 +1,5 @@
 ---
-title: How can the account be deleted?
+title: 'How can the account be deleted?'
 tagnames: website, question:website, first-time-poster, question:website-structure, website-structure
 author: tupaschoal
 path: /notes/tupaschoal/04-17-2021/how-can-the-account-be-deleted.md

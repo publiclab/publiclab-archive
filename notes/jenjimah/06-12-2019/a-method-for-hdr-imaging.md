@@ -1,5 +1,5 @@
 ---
-title: A Method for HDR Imaging
+title: 'A Method for HDR Imaging'
 tagnames: spectrometer, spectrometry, raspberry-pi, cameras, hdr, barnstar:basic
 author: jenjimah
 path: /notes/jenjimah/06-12-2019/a-method-for-hdr-imaging.md

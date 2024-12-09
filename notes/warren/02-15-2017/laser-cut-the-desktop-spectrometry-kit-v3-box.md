@@ -1,5 +1,5 @@
 ---
-title: Laser-cut the Desktop Spectrometry Kit v3 box
+title: 'Laser-cut the Desktop Spectrometry Kit v3 box'
 tagnames: spectrometer, kits, laser-cut, spectrometry, dsk, desktop-spectrometry-kit, upgrade:spectrometry, seeks:builds, laser-cutting, ponoko, replication:13560
 author: warren
 path: /notes/warren/02-15-2017/laser-cut-the-desktop-spectrometry-kit-v3-box.md

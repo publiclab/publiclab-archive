@@ -1,5 +1,5 @@
 ---
-title: Reproducibility test of data using an IR lamp
+title: 'Reproducibility test of data using an IR lamp'
 tagnames: spectrometer, infrared, ir, lamp, spectrum, repeatability, reproducibility, stability
 author: viechdokter
 path: /notes/viechdokter/04-13-2016/reproducibility-test-of-data-using-an-ir-lamp.md

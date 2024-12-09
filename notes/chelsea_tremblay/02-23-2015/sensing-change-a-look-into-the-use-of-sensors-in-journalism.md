@@ -1,5 +1,5 @@
 ---
-title: Sensing Change: A Look into the use of Sensors in Journalism
+title: 'Sensing Change: A Look into the use of Sensors in Journalism'
 tagnames: sensor-journalism
 author: chelsea_tremblay
 path: /notes/chelsea_tremblay/02-23-2015/sensing-change-a-look-into-the-use-of-sensors-in-journalism.md

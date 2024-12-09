@@ -1,5 +1,5 @@
 ---
-title: Recap: July 31 New Orleans oil testing meetup
+title: 'Recap: July 31 New Orleans oil testing meetup'
 tagnames: gulf-coast, spectrometer, calibration, workshop, fluorescence, event, oil-response-toolkit, crude, workshops, tarball, oil-testing-kit, exposure, with:warren, with:mathew, propeller, w, propellergulf-coast, with:mathe, replication:11046
 author: stevie
 path: /notes/stevie/08-01-2014/recap-july-31-new-orleans-oil-testing-meetup.md

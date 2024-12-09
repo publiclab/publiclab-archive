@@ -1,5 +1,5 @@
 ---
-title: Problems with Design of Homemade Spectrometer
+title: 'Problems with Design of Homemade Spectrometer'
 tagnames: 
 author: pluharj
 path: /notes/pluharj/1-15-2013/problems-design-homemade-spectrometer.md

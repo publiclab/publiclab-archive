@@ -1,5 +1,5 @@
 ---
-title: Is there a way to view EPA's Toxics Release Inventory on a map, or by location?
+title: 'Is there a way to view EPA's Toxics Release Inventory on a map, or by location?'
 tagnames: epa, maps, data, emissions, answered, edgi, environmental-data, question:data, question:mapping, tri, toxics-release-inventory, data.gov, spills, leaks, pollution-mapping, question:emissions
 author: warren
 path: /notes/warren/02-01-2018/is-there-a-way-to-view-epa-s-toxics-release-inventory-on-a-map-or-by-location.md

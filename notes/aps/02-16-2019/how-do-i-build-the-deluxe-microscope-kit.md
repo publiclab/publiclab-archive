@@ -1,5 +1,5 @@
 ---
-title: How do I build the Deluxe Microscope Kit
+title: 'How do I build the Deluxe Microscope Kit'
 tagnames: community-microscope, question:community-microscope, first-time-poster
 author: aps
 path: /notes/aps/02-16-2019/how-do-i-build-the-deluxe-microscope-kit.md

@@ -1,5 +1,5 @@
 ---
-title: Soap Bubble Mapping in Prospect Park
+title: 'Soap Bubble Mapping in Prospect Park'
 tagnames: 
 author: eymund
 path: /notes/eymund/08-30-2014/soap-bubble-mapping-in-prospect-park.md

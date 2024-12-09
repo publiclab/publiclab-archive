@@ -1,5 +1,5 @@
 ---
-title: Video Infragram
+title: 'Video Infragram'
 tagnames: near-infrared-camera, infrared, infragram, question:infragram, answered, question:infrared, n, question:multispectral-imaging, multispectral-imaging, question:general, first-time-poster
 author: jfd
 path: /notes/jfd/12-14-2016/video-infragram.md

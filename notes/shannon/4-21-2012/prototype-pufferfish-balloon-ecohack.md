@@ -1,5 +1,5 @@
 ---
-title: Prototype 'pufferfish' balloon from EcoHack
+title: 'Prototype 'pufferfish' balloon from EcoHack'
 tagnames: balloon-mapping, kite-mapping, kite-balloon-hybrid, ecohack
 author: Shannon
 path: /notes/shannon/4-21-2012/prototype-pufferfish-balloon-ecohack.md

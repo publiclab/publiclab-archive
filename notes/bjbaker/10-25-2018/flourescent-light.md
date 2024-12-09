@@ -1,5 +1,5 @@
 ---
-title: Flourescent Light
+title: 'Flourescent Light'
 tagnames: spectrometry, spectroscopy, classroom, color, light, hidden:response, assignment, replication:15121, response:17384
 author: bjbaker
 path: /notes/bjbaker/10-25-2018/flourescent-light.md

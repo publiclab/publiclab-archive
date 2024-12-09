@@ -1,5 +1,5 @@
 ---
-title: Capturing location information with trap cam
+title: 'Capturing location information with trap cam'
 tagnames: timelapse, metadata, geo-tagging, trapcam, geolocation, chain-of-custody
 author: tonyc
 path: /notes/tonyc/07-01-2016/capturing-location-information-with-trap-cam.md

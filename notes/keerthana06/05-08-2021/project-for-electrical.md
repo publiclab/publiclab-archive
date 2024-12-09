@@ -1,5 +1,5 @@
 ---
-title: Project for electrical
+title: 'Project for electrical'
 tagnames: 
 author: keerthana06
 path: /notes/keerthana06/05-08-2021/project-for-electrical.md

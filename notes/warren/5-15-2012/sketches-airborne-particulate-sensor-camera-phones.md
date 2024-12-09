@@ -1,5 +1,5 @@
 ---
-title: Sketches for airborne particulate sensor for camera phones
+title: 'Sketches for airborne particulate sensor for camera phones'
 tagnames: particulate-sensing, laser, dust, particulate, pm, response:10552, air-sensors
 author: warren
 path: /notes/warren/5-15-2012/sketches-airborne-particulate-sensor-camera-phones.md

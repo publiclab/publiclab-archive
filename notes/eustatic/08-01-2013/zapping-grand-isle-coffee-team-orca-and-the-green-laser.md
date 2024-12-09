@@ -1,5 +1,5 @@
 ---
-title: Zapping Grand Isle Coffee: Team Orca and the green laser
+title: 'Zapping Grand Isle Coffee: Team Orca and the green laser'
 tagnames: gulf-coast, spectrometer, oil, spectrometry, sample-prep, bp, tarball, orca, response:8949
 author: eustatic
 path: /08-01-2013/zapping-grand-isle-coffee-team-orca-and-the-green-laser.md

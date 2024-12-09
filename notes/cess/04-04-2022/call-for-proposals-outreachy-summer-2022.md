@@ -1,5 +1,5 @@
 ---
-title: Call for Proposals: Outreachy Summer 2022
+title: 'Call for Proposals: Outreachy Summer 2022'
 tagnames: with:warren, with:liz, seeks:responses, soc, outreachy, lat:-1, call-for-proposals, lon:36, zoom:6, outreachy-2022, with:mathildaudufo
 author: cess
 path: /notes/cess/04-04-2022/call-for-proposals-outreachy-summer-2022.md

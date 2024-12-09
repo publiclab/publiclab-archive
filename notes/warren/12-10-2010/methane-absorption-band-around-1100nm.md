@@ -1,5 +1,5 @@
 ---
-title: Methane absorption band at around 1100nm
+title: 'Methane absorption band at around 1100nm'
 tagnames: spectrometer, absorption, spectral-matching, methane, hitran
 author: warren
 path: /notes/warren/12-10-2010/methane-absorption-band-around-1100nm.md

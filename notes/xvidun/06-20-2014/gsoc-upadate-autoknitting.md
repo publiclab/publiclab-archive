@@ -1,5 +1,5 @@
 ---
-title: GSoC Update - AutoKnitting
+title: 'GSoC Update - AutoKnitting'
 tagnames: mapknitter, gsoc, gsoc-2014, exif, response:10138
 author: xvidun
 path: /notes/xvidun/06-20-2014/gsoc-upadate-autoknitting.md

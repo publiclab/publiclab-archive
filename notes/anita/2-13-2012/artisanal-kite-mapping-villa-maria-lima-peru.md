@@ -1,5 +1,5 @@
 ---
-title: Artisanal Kite Mapping: Villa Maria, Lima, Peru
+title: 'Artisanal Kite Mapping: Villa Maria, Lima, Peru'
 tagnames: lima, kite-mapping, peru, tenure-mapping
 author: anita
 path: /notes/anita/2-13-2012/artisanal-kite-mapping-villa-maria-lima-peru.md

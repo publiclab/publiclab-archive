@@ -1,5 +1,5 @@
 ---
-title: CSV import to excel
+title: 'CSV import to excel'
 tagnames: spectral-workbench, question:spectral-workbench, first-time-poster
 author: greenalastair
 path: /notes/greenalastair/08-02-2022/csv-import-to-excel.md

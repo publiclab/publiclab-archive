@@ -1,5 +1,5 @@
 ---
-title: Looking for input on a simplified "subscribe" design for PublicLab.org posts
+title: 'Looking for input on a simplified "subscribe" design for PublicLab.org posts'
 tagnames: design, barnstar:basic, ux, ui, user-interface, question:ui, subscriptions, tagging, comment-template:ui-feedback-template
 author: warren
 path: /notes/warren/07-24-2018/looking-for-input-on-a-simplified-subscribe-design-for-publiclab-org-posts.md

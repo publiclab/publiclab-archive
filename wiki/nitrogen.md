@@ -1,5 +1,5 @@
 ---
-title: Nitrogen
+title: 'Nitrogen'
 tagnames: water-quality, nitrate, nitrates, no2, phosphate, parent:water-quality, nitrogen
 author: warren
 path: /wiki/nitrogen.md

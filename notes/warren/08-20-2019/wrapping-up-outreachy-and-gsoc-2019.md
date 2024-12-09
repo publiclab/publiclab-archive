@@ -1,5 +1,5 @@
 ---
-title: Wrapping up Outreachy and GSoC 2019
+title: 'Wrapping up Outreachy and GSoC 2019'
 tagnames: software, gsoc, code, soc, outreachy, gsoc-2019, soc-2019, outreachy-2019, gsoc-2019-final-report
 author: warren
 path: /notes/warren/08-20-2019/wrapping-up-outreachy-and-gsoc-2019.md

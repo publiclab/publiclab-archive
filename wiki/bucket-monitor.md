@@ -1,5 +1,5 @@
 ---
-title: bucket-monitor
+title: 'bucket-monitor'
 tagnames: 
 author: liz
 path: /wiki/bucket-monitor.md

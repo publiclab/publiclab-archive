@@ -1,5 +1,5 @@
 ---
-title: R-Pi-in-Sky @ LEAFFEST
+title: 'R-Pi-in-Sky @ LEAFFEST'
 tagnames: balloon-mapping, kite-mapping, leaffest, leaffest2012, raspberry-pi, camera-rig
 author: donblair
 path: /notes/donblair/10-21-2012/r-pi-sky-leaffest.md

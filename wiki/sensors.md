@@ -1,5 +1,5 @@
 ---
-title: Sensors
+title: 'Sensors'
 tagnames: 
 author: gretchengehrke
 path: /wiki/sensors.md

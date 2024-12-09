@@ -1,5 +1,5 @@
 ---
-title: High altitude flight uses radio and open hardware
+title: 'High altitude flight uses radio and open hardware'
 tagnames: balloon-mapping, kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/7-19-2012/high-altitude-flight-uses-radio-and-open-hardware.md

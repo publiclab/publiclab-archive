@@ -1,5 +1,5 @@
 ---
-title: A Public Statement Against Formosa Plastic's Air Permit Application
+title: 'A Public Statement Against Formosa Plastic's Air Permit Application'
 tagnames: fellowship, first-time-poster, formosaplastics, stjames
 author: TravisLondon
 path: /notes/TravisLondon/03-22-2022/a-public-statement-against-formosa-plastic-s-air-permit-application.md

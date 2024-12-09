@@ -1,5 +1,5 @@
 ---
-title: GAC Chemical submits  its cleanup plan for its Stockton Harbor eroding acid waste site Good enough?
+title: 'GAC Chemical submits  its cleanup plan for its Stockton Harbor eroding acid waste site Good enough?'
 tagnames: stockton, kidder, point, penobcot, harbor-, bay-maine
 author: ronhuber
 path: /notes/RonHuber/12-06-2014/gac-chemical-submits-its-cleanup-plan-for-its-stockton-harbor-eroding-acid-waste-site-good-enough.md

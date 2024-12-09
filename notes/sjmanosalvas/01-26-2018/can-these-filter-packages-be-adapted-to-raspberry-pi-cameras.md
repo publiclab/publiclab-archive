@@ -1,5 +1,5 @@
 ---
-title:  Can these filter packages be adapted to Raspberry Pi cameras?
+title: ' Can these filter packages be adapted to Raspberry Pi cameras?'
 tagnames: question:infragram, answered, question:raspberry-pi, question:kits, question:pi-camera, question:question:infragram, first-time-poster
 author: sjmanosalvas
 path: /notes/sjmanosalvas/01-26-2018/can-these-filter-packages-be-adapted-to-raspberry-pi-cameras.md

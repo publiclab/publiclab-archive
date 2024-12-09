@@ -1,5 +1,5 @@
 ---
-title: Visible/IR mapping camera process 
+title: 'Visible/IR mapping camera process '
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping
 author: cfastie
 path: /notes/cfastie/4-15-2012/visibleir-mapping-camera-process.md

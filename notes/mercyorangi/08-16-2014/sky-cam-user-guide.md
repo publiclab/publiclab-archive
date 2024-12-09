@@ -1,5 +1,5 @@
 ---
-title: Sky Cam - User Guide
+title: 'Sky Cam - User Guide'
 tagnames: balloon-mapping, mapknitter, timelapse, skycam, cartography-collective, sky-camera, activity:camera-triggering, activity:intervalometer
 author: mercyorangi
 path: /notes/mercyorangi/08-16-2014/sky-cam-user-guide.md

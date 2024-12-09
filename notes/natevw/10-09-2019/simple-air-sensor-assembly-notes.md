@@ -1,5 +1,5 @@
 ---
-title: Simple air sensor assembly notes
+title: 'Simple air sensor assembly notes'
 tagnames: arduino, air-quality, dust, pm, air-sensing, seeks:replications, activity:arduino, air-sensors, purpleair, plantower, purple-air, simple-air-sensor, activity:simple-air-sensor, activity:air-sensing, lat:41.809115, lon:-71.426615, pin:simple-air-sensor, pin:activity:simple-air-sensor, replication:18563
 author: natevw
 path: /notes/natevw/10-09-2019/simple-air-sensor-assembly-notes.md

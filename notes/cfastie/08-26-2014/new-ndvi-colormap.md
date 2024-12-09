@@ -1,5 +1,5 @@
 ---
-title: New NDVI colormap
+title: 'New NDVI colormap'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, imagej, super-red, response:4720
 author: cfastie
 path: /notes/cfastie/08-26-2014/new-ndvi-colormap.md

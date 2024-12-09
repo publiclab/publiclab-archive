@@ -1,5 +1,5 @@
 ---
-title: Thermal crop mapping on a bicycle?
+title: 'Thermal crop mapping on a bicycle?'
 tagnames: 
 author: warren
 path: /notes/warren/12-14-2011/thermal-crop-mapping-bicycle.md

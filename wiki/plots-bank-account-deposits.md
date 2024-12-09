@@ -1,5 +1,5 @@
 ---
-title: PLOTS Bank Account Deposits
+title: 'PLOTS Bank Account Deposits'
 tagnames: 
 author: Shannon
 path: /wiki/plots-bank-account-deposits.md

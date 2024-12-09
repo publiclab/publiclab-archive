@@ -1,5 +1,5 @@
 ---
-title: Trash Can Rig for Heavy Cameras
+title: 'Trash Can Rig for Heavy Cameras'
 tagnames: balloon-mapping, photo-rig
 author: MicheleTobias
 path: /wiki/trash-can-rig-heavy-cameras.md

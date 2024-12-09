@@ -1,5 +1,5 @@
 ---
-title: Air Quality
+title: 'Air Quality'
 tagnames: indoor-air-quality-mapping, air-quality, air-quality-egg, dustduino, list:plots-airquality
 author: willie
 path: /wiki/air-quality.md

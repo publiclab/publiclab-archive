@@ -1,5 +1,5 @@
 ---
-title: Photo monitoring plugin for ImageJ/Fiji
+title: 'Photo monitoring plugin for ImageJ/Fiji'
 tagnames: near-infrared-camera, plugin, photo-monitoring, infragram, timelapse
 author: nedhorning
 path: /notes/nedhorning/7-6-2012/photo-monitoring-plugin-imagejfiji.md

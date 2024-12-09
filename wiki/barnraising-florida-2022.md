@@ -1,5 +1,5 @@
 ---
-title: Barnraising Florida 2023 
+title: 'Barnraising Florida 2023 '
 tagnames: barnraising, publiclab, environmentaljustice, communityscience, 2022barnraisingfl, flbarnraising, flbarnraising2022
 author: michelleiL
 path: /wiki/barnraising-florida-2022.md

@@ -1,5 +1,5 @@
 ---
-title: Initial results and resolution of timelapse mode issue: PL Mobius Infragram Point and Shoot
+title: 'Initial results and resolution of timelapse mode issue: PL Mobius Infragram Point and Shoot'
 tagnames: infragram, timelapse, fiji, mobius, question:timelapse, question:infragram-point-shoot
 author: patcoyle
 path: /notes/patcoyle/11-08-2014/initial-results-and-timelapse-mode-issue-pl-mobius-infragram-point-and-shoot.md

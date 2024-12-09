@@ -1,5 +1,5 @@
 ---
-title: Building the @stoft stability upgrade for Desktop Spectrometry Starter Kit 3.0
+title: 'Building the @stoft stability upgrade for Desktop Spectrometry Starter Kit 3.0'
 tagnames: spectrometer, spectrometry, replication, leaffest-2016, build:13455, dssk
 author: warren
 path: /notes/warren/09-20-2016/building-the-stoft-stability-upgrade-for-desktop-spectrometry-starter-kit-3-0.md

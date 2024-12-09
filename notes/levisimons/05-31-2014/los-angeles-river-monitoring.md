@@ -1,5 +1,5 @@
 ---
-title: Los Angeles river monitoring
+title: 'Los Angeles river monitoring'
 tagnames: california, river, los-angeles, la
 author: levisimons
 path: /notes/levisimons/05-31-2014/los-angeles-river-monitoring.md

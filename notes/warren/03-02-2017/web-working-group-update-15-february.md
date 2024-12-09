@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Update 15: February
+title: 'Web Working Group Update 15: February'
 tagnames: community, web-development, software, plots2, outreach, gsoc, developers, wwg, webwg, first-timers-only, software-outreach, rich-wikis, response:13894, wwg-update
 author: warren
 path: /notes/warren/03-02-2017/web-working-group-update-15-february.md

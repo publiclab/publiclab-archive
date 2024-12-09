@@ -1,5 +1,5 @@
 ---
-title: What’s New in Land and Soil! Recent Land Community Call Recap (8/16/21)
+title: 'What’s New in Land and Soil! Recent Land Community Call Recap (8/16/21)'
 tagnames: soil, land-use, fellows, land, land-change, research-curation-fellows
 author: laurel_mire
 path: /notes/laurel_mire/08-24-2021/what-s-new-in-land-and-soil-recent-land-community-call-recap-8-16-21.md

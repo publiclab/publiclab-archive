@@ -1,5 +1,5 @@
 ---
-title: Sketches for how-to-prep sediment for spectral analysis
+title: 'Sketches for how-to-prep sediment for spectral analysis'
 tagnames: spectroscopy, illustrated-guides
 author: liz
 path: /notes/liz/2-26-2013/sketches-how-prep-sediment-spectral-analysis.md

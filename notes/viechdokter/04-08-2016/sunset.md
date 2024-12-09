@@ -1,5 +1,5 @@
 ---
-title: Sunset
+title: 'Sunset'
 tagnames: spectrometry, sunlight, sunset, replication:13460
 author: viechdokter
 path: /notes/viechdokter/04-08-2016/sunset.md

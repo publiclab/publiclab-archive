@@ -1,5 +1,5 @@
 ---
-title: Community Microscope-- THANK YOU
+title: 'Community Microscope-- THANK YOU'
 tagnames: kits, kickstarter, blog, with:warren, microscope, community-kits, remixthemicroscope
 author: Bronwen
 path: /notes/bronwen/06-29-2018/community-microscope-thank-you.md

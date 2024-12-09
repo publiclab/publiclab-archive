@@ -1,5 +1,5 @@
 ---
-title: oblique rig for gopro
+title: 'oblique rig for gopro'
 tagnames: aerial-photography, photo-rig, oblique, gopro, camera-rig
 author: liz
 path: /notes/liz/05-06-2016/oblique-rig-for-gopro.md

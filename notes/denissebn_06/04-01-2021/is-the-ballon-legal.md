@@ -1,5 +1,5 @@
 ---
-title: Is the ballon legal?
+title: 'Is the ballon legal?'
 tagnames: question:general, general, ballon-mapping, first-time-poster
 author: denissebn_06
 path: /notes/denissebn_06/04-01-2021/is-the-ballon-legal.md

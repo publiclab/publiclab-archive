@@ -1,5 +1,5 @@
 ---
-title: Improvements to SpectralWorkbench.org and PublicLab.org
+title: 'Improvements to SpectralWorkbench.org and PublicLab.org'
 tagnames: website, spectralworkbench, plots2
 author: warren
 path: /notes/warren/10-10-2013/improvements-to-spectralworkbench-org-and-publiclab-org.md

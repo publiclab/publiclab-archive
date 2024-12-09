@@ -1,5 +1,5 @@
 ---
-title: TEST for posts not being published
+title: 'TEST for posts not being published'
 tagnames: 
 author: icode365
 path: /notes/icode365/04-11-2019/test-for-posts-not-being-published.md

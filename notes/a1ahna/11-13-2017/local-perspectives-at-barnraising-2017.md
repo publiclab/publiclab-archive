@@ -1,5 +1,5 @@
 ---
-title: Local Perspectives at Barnraising 2017
+title: 'Local Perspectives at Barnraising 2017'
 tagnames: balloon-mapping, community, louisiana, conservation, cocodrie, mapping, barnraising, event, blog, drone, barnstar:basic, kayak, preservation, barnraising-2017, barnraising2017, landsapes, map, first-time-poster
 author: a1ahna
 path: /notes/a1ahna/11-13-2017/local-perspectives-at-barnraising-2017.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter 11.03.13
+title: 'Public Lab Community Newsletter 11.03.13'
 tagnames: newsletter, newsletter-archive
 author: Becki
 path: /notes/Becki/11-03-2013/public-lab-community-newsletter-11-03-13.md

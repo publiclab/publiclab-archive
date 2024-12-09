@@ -1,5 +1,5 @@
 ---
-title: First
+title: 'First'
 tagnames: 
 author: joelee
 path: /wiki/first.md

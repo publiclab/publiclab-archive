@@ -1,5 +1,5 @@
 ---
-title: Income
+title: 'Income'
 tagnames: 
 author: warren
 path: /wiki/income.md

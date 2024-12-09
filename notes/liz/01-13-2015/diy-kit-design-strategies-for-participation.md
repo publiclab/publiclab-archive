@@ -1,5 +1,5 @@
 ---
-title: DIY Kit Design Strategies for participation
+title: 'DIY Kit Design Strategies for participation'
 tagnames: collaboration, kits, participation, materials, design, with:mathew, prototyping, prototyping-kits, sourcing
 author: liz
 path: /notes/liz/01-13-2015/diy-kit-design-strategies-for-participation.md

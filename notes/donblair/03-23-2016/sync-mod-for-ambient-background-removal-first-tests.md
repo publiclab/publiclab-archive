@@ -1,5 +1,5 @@
 ---
-title: Sync-mod for ambient background removal -- first tests
+title: 'Sync-mod for ambient background removal -- first tests'
 tagnames: 
 author: donblair
 path: /notes/donblair/03-23-2016/sync-mod-for-ambient-background-removal-first-tests.md

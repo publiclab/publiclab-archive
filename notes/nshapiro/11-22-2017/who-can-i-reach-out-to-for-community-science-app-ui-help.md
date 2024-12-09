@@ -1,5 +1,5 @@
 ---
-title: Who can I reach out to for community science app UI help? 
+title: 'Who can I reach out to for community science app UI help? '
 tagnames: air-quality, app, resource, question:general, ui, question:ui
 author: nshapiro
 path: /notes/nshapiro/11-22-2017/who-can-i-reach-out-to-for-community-science-app-ui-help.md

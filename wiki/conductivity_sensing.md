@@ -1,5 +1,5 @@
 ---
-title: conductivity_sensing
+title: 'conductivity_sensing'
 tagnames: conductivity, riffle, open-water, parent:conductivity
 author: donblair
 path: /wiki/conductivity_sensing.md

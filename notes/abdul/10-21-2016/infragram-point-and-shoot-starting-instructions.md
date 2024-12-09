@@ -1,5 +1,5 @@
 ---
-title: Getting started with the Infragram Point and Shoot
+title: 'Getting started with the Infragram Point and Shoot'
 tagnames: ndvi, infrared, filter, assembly, infragram, camera, instructions, lens, barnstar:basic, with:warren, difficulty:medium, activity:multispectral-imaging, activity:infragram, time:1hr, pointshoot, point-shoot, activity:infragram-point-shoot
 author: abdul
 path: /notes/abdul/10-21-2016/infragram-point-and-shoot-starting-instructions.md

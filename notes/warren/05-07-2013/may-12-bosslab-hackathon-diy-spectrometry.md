@@ -1,5 +1,5 @@
 ---
-title: May 12 BOSSLAB Hackathon + DIY Spectrometry
+title: 'May 12 BOSSLAB Hackathon + DIY Spectrometry'
 tagnames: somerville-massachusetts, boston, event, diybio, bosslab, hackathon
 author: warren
 path: /notes/warren/05-07-2013/may-12-bosslab-hackathon-diy-spectrometry.md

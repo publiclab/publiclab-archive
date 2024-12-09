@@ -1,5 +1,5 @@
 ---
-title: Android phone hacked as radiation detector
+title: 'Android phone hacked as radiation detector'
 tagnames: android, radiation
 author: warren
 path: /notes/warren/2-5-2012/android-phone-hacked-radiation-detector.md

@@ -1,5 +1,5 @@
 ---
-title: Comparative and qualitative flame spectroscopy
+title: 'Comparative and qualitative flame spectroscopy'
 tagnames: spectrometer, flame, spectral-analysis, flare, emission, emissions, nist, spectral-databases, response:8995
 author: warren
 path: /notes/warren/08-13-2013/comparative-and-qualitative-flame-spectroscopy.md

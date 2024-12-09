@@ -1,5 +1,5 @@
 ---
-title: aberdeen
+title: 'aberdeen'
 tagnames: 
 author: 
 path: /notes/5-13-2012/aberdeen.md

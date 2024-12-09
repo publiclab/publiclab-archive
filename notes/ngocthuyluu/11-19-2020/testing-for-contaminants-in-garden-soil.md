@@ -1,5 +1,5 @@
 ---
-title: Testing for Contaminants in Garden Soil
+title: 'Testing for Contaminants in Garden Soil'
 tagnames: soil, waste-management, trash, public-health, advocacy, soil-sampling, question:soil-sampling, issue-brief, seattle, first-time-poster, soil-contamination, litter, dumping, washington, pacific-northwest
 author: ngocthuyluu
 path: /notes/ngocthuyluu/11-19-2020/testing-for-contaminants-in-garden-soil.md

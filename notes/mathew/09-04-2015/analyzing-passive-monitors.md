@@ -1,5 +1,5 @@
 ---
-title: analyzing passive monitors
+title: 'analyzing passive monitors'
 tagnames: image-processing, dust, silica, frac-sand, pm, open-air, particle-sensing, particle-monitoring, dust-monitoring, openair, image-analysis, fracsand, air-sensing, passive-particle-monitors, passive-pm, parent:frac-sand
 author: mathew
 path: /notes/mathew/09-04-2015/analyzing-passive-monitors.md

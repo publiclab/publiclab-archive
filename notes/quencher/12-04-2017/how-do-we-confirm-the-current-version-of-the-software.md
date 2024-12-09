@@ -1,5 +1,5 @@
 ---
-title: How do we confirm the current version of the software?
+title: 'How do we confirm the current version of the software?'
 tagnames: spectrometry, spectral-workbench, question:spectral-workbench
 author: quencher
 path: /notes/quencher/12-04-2017/how-do-we-confirm-the-current-version-of-the-software.md

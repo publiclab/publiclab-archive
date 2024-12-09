@@ -1,5 +1,5 @@
 ---
-title: 3er encuentro de Ciencia Ciudadana
+title: '3er encuentro de Ciencia Ciudadana'
 tagnames: spain, citizen-science, event, events:spain, event:rsvp, date:12-20-2017, date:11-27-2017
 author: imvec
 path: /notes/imvec/11-25-2017/3er-encuentro-de-ciencia-ciudadana.md

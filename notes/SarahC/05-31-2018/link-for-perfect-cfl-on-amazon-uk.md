@@ -1,5 +1,5 @@
 ---
-title: Link for perfect CFL on Amazon UK? 
+title: 'Link for perfect CFL on Amazon UK? '
 tagnames: question:spectral-workbench
 author: SarahC
 path: /notes/SarahC/05-31-2018/link-for-perfect-cfl-on-amazon-uk.md

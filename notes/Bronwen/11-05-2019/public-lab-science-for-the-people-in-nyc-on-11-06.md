@@ -1,5 +1,5 @@
 ---
-title: Public Lab & Science For The People in NYC on 11/06
+title: 'Public Lab & Science For The People in NYC on 11/06'
 tagnames: new-york-city, events, workshops, nyc, northeast, oil-and-gas, science-for-the-people
 author: Bronwen
 path: /notes/Bronwen/11-05-2019/public-lab-science-for-the-people-in-nyc-on-11-06.md

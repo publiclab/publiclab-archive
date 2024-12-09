@@ -1,5 +1,5 @@
 ---
-title: DIY methods for nitrate detection in food?
+title: 'DIY methods for nitrate detection in food?'
 tagnames: question, diy, food, nitrate, contaminants, question:nitrates, question:nitrate, question:sensors, question:food, question:nitrogen
 author: fez
 path: /notes/fez/02-01-2017/diy-methods-for-nitrate-detection-in-food.md

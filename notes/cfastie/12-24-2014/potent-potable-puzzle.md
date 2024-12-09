@@ -1,5 +1,5 @@
 ---
-title: Potent Potable Puzzle
+title: 'Potent Potable Puzzle'
 tagnames: near-infrared-camera, nir, holiday, absorption, infragram, happy-holidays, response:11489
 author: cfastie
 path: /notes/cfastie/12-24-2014/potent-potable-puzzle.md

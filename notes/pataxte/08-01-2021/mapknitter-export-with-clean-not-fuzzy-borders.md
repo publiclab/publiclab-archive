@@ -1,5 +1,5 @@
 ---
-title: mapknitter export with clean not fuzzy borders
+title: 'mapknitter export with clean not fuzzy borders'
 tagnames: mapknitter, export, question:general, general, map
 author: pataxte
 path: /notes/pataxte/08-01-2021/mapknitter-export-with-clean-not-fuzzy-borders.md

@@ -1,5 +1,5 @@
 ---
-title: strategic-plan-community-development
+title: 'strategic-plan-community-development'
 tagnames: community, organizers, community-development
 author: liz
 path: /wiki/strategic-plan-community-development.md

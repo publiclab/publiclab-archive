@@ -1,5 +1,5 @@
 ---
-title: Air: Common Permit Violations
+title: 'Air: Common Permit Violations'
 tagnames: coal-mining, air-quality, mining, advocacy, permit-violation, with:junior_walk1337, mmmp
 author: ekpeterman
 path: /notes/ekpeterman/03-29-2022/air-common-permit-violations.md

@@ -1,5 +1,5 @@
 ---
-title: Editing OpenStreetMap with balloon maps
+title: 'Editing OpenStreetMap with balloon maps'
 tagnames: balloon-mapping, kite-mapping
 author: warren
 path: /wiki/editing-openstreetmap-balloon-maps.md

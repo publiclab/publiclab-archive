@@ -1,5 +1,5 @@
 ---
-title: GSoC"proposal: MapKnitter Local
+title: 'GSoC"proposal: MapKnitter Local'
 tagnames: software, gsoc, soc, first-time-poster, lat:20, lon:70, zoom:4, gsoc-2022, gsoc-2022-proposals
 author: Fetian_Anas
 path: /notes/Fetian_Anas/04-18-2022/gsoc-proposal-mapknitter-local.md

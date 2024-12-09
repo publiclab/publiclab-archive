@@ -1,5 +1,5 @@
 ---
-title: What factors air quality?
+title: 'What factors air quality?'
 tagnames: air-quality, question:general, general, wind-direction, wind-speed, first-time-poster
 author: denim_stcyr
 path: /notes/denim_stcyr/05-01-2021/what-factors-air-quality.md

@@ -1,5 +1,5 @@
 ---
-title: Barnraising 2015 Storify
+title: 'Barnraising 2015 Storify'
 tagnames: barnraising-2015, with:bronwen
 author: liz
 path: /notes/liz/12-04-2015/barnraising-2015-storify.md

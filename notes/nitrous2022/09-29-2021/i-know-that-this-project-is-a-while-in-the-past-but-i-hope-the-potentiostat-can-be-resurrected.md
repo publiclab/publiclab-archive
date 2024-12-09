@@ -1,5 +1,5 @@
 ---
-title: I know that this project is a while in the past, but I hope the potentiostat can be resurrected...
+title: 'I know that this project is a while in the past, but I hope the potentiostat can be resurrected...'
 tagnames: first-time-poster
 author: nitrous2022
 path: /notes/nitrous2022/09-29-2021/i-know-that-this-project-is-a-while-in-the-past-but-i-hope-the-potentiostat-can-be-resurrected.md

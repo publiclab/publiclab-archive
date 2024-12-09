@@ -1,5 +1,5 @@
 ---
-title: Website improvements status update
+title: 'Website improvements status update'
 tagnames: website
 author: warren
 path: /notes/warren/6-7-2012/website-improvements-status-update.md

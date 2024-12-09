@@ -1,5 +1,5 @@
 ---
-title: MapMill 2.0
+title: 'MapMill 2.0'
 tagnames: software, mapmill, mockups, wireframes
 author: warren
 path: /wiki/mapmill-2-0.md

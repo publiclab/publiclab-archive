@@ -1,5 +1,5 @@
 ---
-title: sky-cam
+title: 'sky-cam'
 tagnames: 
 author: warren
 path: /wiki/sky-cam.md

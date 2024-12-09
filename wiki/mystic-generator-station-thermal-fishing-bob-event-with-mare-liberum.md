@@ -1,5 +1,5 @@
 ---
-title: Mystic Generator Station Thermal Fishing Bob Event with Mare Liberum
+title: 'Mystic Generator Station Thermal Fishing Bob Event with Mare Liberum'
 tagnames: 
 author: ErikHanley11
 path: /wiki/mystic-generator-station-thermal-fishing-bob-event-with-mare-liberum.md

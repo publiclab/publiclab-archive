@@ -1,5 +1,5 @@
 ---
-title: UV detection of oil / corexit of Gulf beaches
+title: 'UV detection of oil / corexit of Gulf beaches'
 tagnames: gulf-coast, spectrometer, uv, oil, fluorescence
 author: eustatic
 path: /7-23-2012/uv-detection-oil-corexit-gulf-beaches.md

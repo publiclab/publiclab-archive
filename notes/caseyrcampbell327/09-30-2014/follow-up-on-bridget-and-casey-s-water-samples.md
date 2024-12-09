@@ -1,5 +1,5 @@
 ---
-title: Follow up on Bridget and Casey's water samples
+title: 'Follow up on Bridget and Casey's water samples'
 tagnames: massachusetts, plymouth, testing, water, conductivity, journalism, beacon, hill, emerson, college
 author: caseyrcampbell327
 path: /notes/caseyrcampbell327/09-30-2014/follow-up-on-bridget-and-casey-s-water-samples.md

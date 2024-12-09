@@ -1,5 +1,5 @@
 ---
-title: What kinds of data are best suited for raising public awareness? other goals? 
+title: 'What kinds of data are best suited for raising public awareness? other goals? '
 tagnames: question:general
 author: gretchengehrke
 path: /notes/gretchengehrke/07-26-2017/what-kinds-of-data-are-best-suited-for-raising-public-awareness-other-goals.md

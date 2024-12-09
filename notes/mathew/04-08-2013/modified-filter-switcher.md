@@ -1,5 +1,5 @@
 ---
-title: Modified Filter Switcher
+title: 'Modified Filter Switcher'
 tagnames: near-infrared-camera, infrared-camera, filter-switcher
 author: mathew
 path: /notes/mathew/04-08-2013/modified-filter-switcher.md

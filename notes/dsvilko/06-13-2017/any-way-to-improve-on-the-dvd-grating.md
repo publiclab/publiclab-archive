@@ -1,5 +1,5 @@
 ---
-title: Any way to improve on the DVD grating?
+title: 'Any way to improve on the DVD grating?'
 tagnames: question:spectrometry, question:general, question:grating
 author: dsvilko
 path: /notes/dsvilko/06-13-2017/any-way-to-improve-on-the-dvd-grating.md

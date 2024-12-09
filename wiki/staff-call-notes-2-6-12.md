@@ -1,5 +1,5 @@
 ---
-title: Staff call notes 2 6 12
+title: 'Staff call notes 2 6 12'
 tagnames: 
 author: warren
 path: /wiki/staff-call-notes-2-6-12.md

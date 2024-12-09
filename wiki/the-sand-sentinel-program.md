@@ -1,5 +1,5 @@
 ---
-title: The Sand Sentinel Program
+title: 'The Sand Sentinel Program'
 tagnames: wisconsin, air-quality, transportation, water-quality, frac-sand, pm, midwest, project, air-quality-projects, sentinel, project:mine-reclamation
 author: stevie
 path: /wiki/the-sand-sentinel-program.md

@@ -1,5 +1,5 @@
 ---
-title: a plant
+title: 'a plant'
 tagnames: near-infrared-camera, ndvi, infragram, response:10653
 author: GreenLeaves
 path: /notes/GreenLeaves/07-04-2014/a-plant.md

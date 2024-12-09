@@ -1,5 +1,5 @@
 ---
-title: A year of Rackspace
+title: 'A year of Rackspace'
 tagnames: server, rackspace, wwg, hosting
 author: warren
 path: /notes/warren/12-17-2015/a-year-of-rackspace.md

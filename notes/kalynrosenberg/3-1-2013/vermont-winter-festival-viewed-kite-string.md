@@ -1,5 +1,5 @@
 ---
-title: Vermont Winter Festival, Viewed from a Kite String
+title: 'Vermont Winter Festival, Viewed from a Kite String'
 tagnames: kite-mapping, vermont, event, tac
 author: KalynRosenberg
 path: /notes/kalynrosenberg/3-1-2013/vermont-winter-festival-viewed-kite-string.md

@@ -1,5 +1,5 @@
 ---
-title: MAPIR Survey 2 NIR
+title: 'MAPIR Survey 2 NIR'
 tagnames: question:question
 author: Shendry
 path: /notes/Shendry/01-25-2017/mapir-survey-2-nir.md

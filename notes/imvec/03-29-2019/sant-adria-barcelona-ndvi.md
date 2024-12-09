@@ -1,5 +1,5 @@
 ---
-title: Sant Adriá, Barcelona NDVI
+title: 'Sant Adriá, Barcelona NDVI'
 tagnames: kite-mapping, ndvi, barcelona, kite, kap, infragram, lang:es, barnstar:basic, pi-camera, lang:en, with:xose, pi-builder, infragram-pi
 author: imvec
 path: /notes/imvec/03-29-2019/sant-adria-barcelona-ndvi.md

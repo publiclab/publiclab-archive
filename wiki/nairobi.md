@@ -1,5 +1,5 @@
 ---
-title: nairobi
+title: 'nairobi'
 tagnames: kenya, africa, parent:kenya
 author: liz
 path: /wiki/nairobi.md

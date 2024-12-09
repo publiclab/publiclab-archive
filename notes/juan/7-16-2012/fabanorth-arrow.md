@@ -1,5 +1,5 @@
 ---
-title: FABAnorth arrow
+title: 'FABAnorth arrow'
 tagnames: balloon-mapping, kite-mapping, ground-control-points, svg, faba
 author: Juan
 path: /notes/juan/7-16-2012/fabanorth-arrow.md

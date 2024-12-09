@@ -1,5 +1,5 @@
 ---
-title: WebGL flavored infragram.org
+title: 'WebGL flavored infragram.org'
 tagnames: near-infrared-camera, infragram, infragram-sandbox, webgl, barnstar:basic
 author: pfoltyn
 path: /notes/pfoltyn/06-10-2014/webgl-flavored-infragram-org.md

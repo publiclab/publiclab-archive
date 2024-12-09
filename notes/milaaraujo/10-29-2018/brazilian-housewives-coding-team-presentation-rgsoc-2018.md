@@ -1,5 +1,5 @@
 ---
-title: Brazilian Housewives Coding Team Presentation - RGSOC - 2018
+title: 'Brazilian Housewives Coding Team Presentation - RGSOC - 2018'
 tagnames: software, search, api, code, rgsoc, soc, rgsoc-2018, with:stefannibrasil, railsgirls
 author: milaaraujo
 path: /notes/milaaraujo/10-29-2018/brazilian-housewives-coding-team-presentation-rgsoc-2018.md

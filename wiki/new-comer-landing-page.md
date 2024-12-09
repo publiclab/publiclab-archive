@@ -1,5 +1,5 @@
 ---
-title: New Comer Landing Page
+title: 'New Comer Landing Page'
 tagnames: website, plots2, introduction, wintercamp, newcomers, onboarding, out-of-date
 author: mollydanielsson
 path: /wiki/new-comer-landing-page.md

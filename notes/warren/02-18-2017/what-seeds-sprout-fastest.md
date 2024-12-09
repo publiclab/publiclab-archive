@@ -1,5 +1,5 @@
 ---
-title: What seeds sprout fastest?
+title: 'What seeds sprout fastest?'
 tagnames: testing, timelapse, answered, chia-seeds, seeds, sprouts, trial-run, question:trial-run
 author: warren
 path: /notes/warren/02-18-2017/what-seeds-sprout-fastest.md

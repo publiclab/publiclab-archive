@@ -1,5 +1,5 @@
 ---
-title: How do I get others to stop littering?
+title: 'How do I get others to stop littering?'
 tagnames: community, pollution, question:general, general, first-time-poster, littering
 author: naquin_lucy
 path: /notes/naquin_lucy/03-12-2021/how-do-i-get-others-to-stop-littering.md

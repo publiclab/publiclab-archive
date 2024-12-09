@@ -1,5 +1,5 @@
 ---
-title: Standalone Spectrometry software & uploading JPG or PNG spectra
+title: 'Standalone Spectrometry software & uploading JPG or PNG spectra'
 tagnames: spectrometer, spectrometry, fluorescence, raspberry-pi, lego, question:spectrometer, question:spectral-workbench, raspberry-pi-spectrometer, lego-spectrometer, response:16660
 author: lach_myers
 path: /notes/lach_myers/08-06-2018/standalone-spectrometry-software-uploading-jpg-or-png-spectra.md

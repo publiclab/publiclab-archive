@@ -1,5 +1,5 @@
 ---
-title: What size cuvettes are used for the lego spectrometer?
+title: 'What size cuvettes are used for the lego spectrometer?'
 tagnames: question:lego-spectrometer, lego-spectrometer, first-time-poster
 author: joquendo
 path: /notes/joquendo/05-11-2019/what-size-cuvettes-are-used-for-the-lego-spectrometer.md

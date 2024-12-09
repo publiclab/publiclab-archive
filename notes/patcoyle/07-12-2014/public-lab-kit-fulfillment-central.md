@@ -1,5 +1,5 @@
 ---
-title: Public Lab Kit Fulfillment Central
+title: 'Public Lab Kit Fulfillment Central'
 tagnames: portland, kits, staff, portland-oregon
 author: patcoyle
 path: /notes/patcoyle/07-12-2014/public-lab-kit-fulfillment-central.md

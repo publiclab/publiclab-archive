@@ -1,5 +1,5 @@
 ---
-title: Boston
+title: 'Boston'
 tagnames: boston, events:boston, list:plots-boston, northeast, parent:northeast
 author: warren
 path: /wiki/boston.md

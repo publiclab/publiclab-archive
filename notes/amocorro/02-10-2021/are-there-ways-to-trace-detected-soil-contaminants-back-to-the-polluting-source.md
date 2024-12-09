@@ -1,5 +1,5 @@
 ---
-title: Are there ways to trace detected soil contaminants back to the polluting source?
+title: 'Are there ways to trace detected soil contaminants back to the polluting source?'
 tagnames: ultraviolet, soil, hydrocarbon, co2, technique, question:general, general, soil-sampling, question:soil, soil-contamination, with:cherokeeconcernedcitizens, total-organic-carbon
 author: amocorro
 path: /notes/amocorro/02-10-2021/are-there-ways-to-trace-detected-soil-contaminants-back-to-the-polluting-source.md

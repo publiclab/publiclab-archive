@@ -1,5 +1,5 @@
 ---
-title: Smell and Evocative Instrumentation: The history of measuring odors.
+title: 'Smell and Evocative Instrumentation: The history of measuring odors.'
 tagnames: odors, odor-logging, csf, csf16, with:nadya
 author: joyofsoy
 path: /notes/joyofsoy/06-25-2019/smell-and-evocative-instrumentation-the-history-of-measuring-odors.md

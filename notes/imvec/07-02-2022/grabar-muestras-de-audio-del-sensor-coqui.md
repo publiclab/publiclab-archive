@@ -1,5 +1,5 @@
 ---
-title: Grabar muestras de audio del sensor Coqui
+title: 'Grabar muestras de audio del sensor Coqui'
 tagnames: water-quality-sensor, lang:es, coqui, activity:coqui, with:xose, water-conductivity, agua, calidad-de-agua, response:30377
 author: imvec
 path: /notes/imvec/07-02-2022/grabar-muestras-de-audio-del-sensor-coqui.md

@@ -1,5 +1,5 @@
 ---
-title: Build a simple aerial photo rig for a Raspberry Pi camera
+title: 'Build a simple aerial photo rig for a Raspberry Pi camera'
 tagnames: balloon-mapping, kite-mapping, raspberry-pi, aerial-mapping, pi-camera, aren, activity:pi-camera, pi-builder, infragram-pi, community-atlas, activity:infragram-pi, activity:pi-camera-setup, pin:activity:infragram-pi, pin:activity:pi-camera
 author: warren
 path: /notes/warren/06-05-2019/build-a-simple-aerial-photo-rig-for-a-raspberry-pi-camera.md

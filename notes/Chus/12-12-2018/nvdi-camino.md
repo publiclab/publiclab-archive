@@ -1,5 +1,5 @@
 ---
-title: NVDI camino
+title: 'NVDI camino'
 tagnames: infrared, ir, infragram, camera, nvdi, lang:es, spanish, first-time-poster
 author: Chus
 path: /notes/Chus/12-12-2018/nvdi-camino.md

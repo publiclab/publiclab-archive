@@ -1,5 +1,5 @@
 ---
-title: map of Green Garden June 27 2014
+title: 'map of Green Garden June 27 2014'
 tagnames: polemapping, newark, new-jersey, urban-ag, garden, pole-mapping, elp, northeast, with:thegreencommunitygarden
 author: liz
 path: /notes/liz/07-29-2014/map-of-green-garden-june-27-2014.md

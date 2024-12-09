@@ -1,5 +1,5 @@
 ---
-title: Barataria Bay Flyover
+title: 'Barataria Bay Flyover'
 tagnames: gulf-coast, barataria-bay, louisiana, first-time-poster
 author: adam-griffith
 path: /notes/adam-griffith/3-1-2011/barataria-bay-flyover.md

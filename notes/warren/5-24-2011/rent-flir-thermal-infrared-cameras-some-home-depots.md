@@ -1,5 +1,5 @@
 ---
-title: Rent FLIR thermal infrared cameras at some Home Depots
+title: 'Rent FLIR thermal infrared cameras at some Home Depots'
 tagnames: thermal-photography, flir, activity:thermal-photography
 author: warren
 path: /notes/warren/5-24-2011/rent-flir-thermal-infrared-cameras-some-home-depots.md

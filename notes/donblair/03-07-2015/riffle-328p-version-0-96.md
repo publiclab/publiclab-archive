@@ -1,5 +1,5 @@
 ---
-title: Riffle-328p version 0.96 :)
+title: 'Riffle-328p version 0.96 :)'
 tagnames: water-quality, riffle, open-water
 author: donblair
 path: /notes/donblair/03-07-2015/riffle-328p-version-0-96.md

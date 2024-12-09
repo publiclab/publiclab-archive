@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping at Museum of Modern Art of Bahia
+title: 'Balloon mapping at Museum of Modern Art of Bahia'
 tagnames: 
 author: warren
 path: /notes/warren/12-3-2011/balloon-mapping-museum-modern-art-bahia.md

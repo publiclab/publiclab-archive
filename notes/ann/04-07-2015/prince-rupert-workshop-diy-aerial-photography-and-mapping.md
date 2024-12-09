@@ -1,5 +1,5 @@
 ---
-title: Prince Rupert Workshop: DIY Aerial Photography and Mapping
+title: 'Prince Rupert Workshop: DIY Aerial Photography and Mapping'
 tagnames: event, event:rsvp, events:northwest, date:04-11-2015, replication:14022
 author: ann
 path: /notes/ann/04-07-2015/prince-rupert-workshop-diy-aerial-photography-and-mapping.md

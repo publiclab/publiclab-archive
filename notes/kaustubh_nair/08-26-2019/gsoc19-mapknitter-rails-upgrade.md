@@ -1,5 +1,5 @@
 ---
-title: GSoC19: Mapknitter Rails Upgrade 
+title: 'GSoC19: Mapknitter Rails Upgrade '
 tagnames: mapknitter, gsoc, soc, gsoc-2019, soc-2019, gsoc-19, soc-19, gsoc-2019-final-report
 author: kaustubh_nair
 path: /notes/kaustubh_nair/08-26-2019/gsoc19-mapknitter-rails-upgrade.md

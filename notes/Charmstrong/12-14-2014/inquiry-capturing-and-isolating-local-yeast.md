@@ -1,5 +1,5 @@
 ---
-title: Inquiry: Capturing and Isolating Local Yeast
+title: 'Inquiry: Capturing and Isolating Local Yeast'
 tagnames: yeast, brewing, microbiology, beer, isolation
 author: Charmstrong
 path: /notes/Charmstrong/12-14-2014/inquiry-capturing-and-isolating-local-yeast.md

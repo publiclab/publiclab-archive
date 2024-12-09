@@ -1,5 +1,5 @@
 ---
-title: Growing the Public Lab Software Development Community
+title: 'Growing the Public Lab Software Development Community'
 tagnames: community, server, software, development, software-deployment, developers, barnstar:basic, plots-dev, contributing, software-development, deployment, software-outreach
 author: justinmanley
 path: /notes/justinmanley/12-21-2014/growing-the-public-lab-software-development-community.md

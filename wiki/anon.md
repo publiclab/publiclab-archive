@@ -1,5 +1,5 @@
 ---
-title: anon
+title: 'anon'
 tagnames: redirect:anonymity
 author: warren
 path: /wiki/anon.md

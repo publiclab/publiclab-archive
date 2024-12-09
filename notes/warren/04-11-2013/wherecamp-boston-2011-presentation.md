@@ -1,5 +1,5 @@
 ---
-title: WhereCamp Boston 2011 presentation
+title: 'WhereCamp Boston 2011 presentation'
 tagnames: boston, presentation, wherecamp
 author: warren
 path: /notes/warren/04-11-2013/wherecamp-boston-2011-presentation.md

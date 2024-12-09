@@ -1,5 +1,5 @@
 ---
-title: First flight Public Lab Kite kit Delta and new A490 Rosco 2007 white balance  images 
+title: 'First flight Public Lab Kite kit Delta and new A490 Rosco 2007 white balance  images '
 tagnames: kap, infragram
 author: patcoyle
 path: /notes/patcoyle/12-24-2013/first-flight-public-lab-kite-kit-delta-and-new-a490-rosco-2007-white-balance-images.md

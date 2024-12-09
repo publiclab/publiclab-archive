@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of hutto aerial photos
+title: 'MapKnitter map of hutto aerial photos'
 tagnames: mapknitter, lat:30.502, lon:-97.548
 author: jacejfrancis
 path: /notes/jacejfrancis/01-24-2016/mapknitter-map-of-hutto-aerial-photos.md

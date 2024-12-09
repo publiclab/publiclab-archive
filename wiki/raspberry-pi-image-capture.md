@@ -1,5 +1,5 @@
 ---
-title: raspberry pi image capture
+title: 'raspberry pi image capture'
 tagnames: 
 author: donblair
 path: /wiki/raspberry-pi-image-capture.md

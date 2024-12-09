@@ -1,5 +1,5 @@
 ---
-title: Sandbox 4
+title: 'Sandbox 4'
 tagnames: stories-test
 author: warren
 path: /wiki/sandbox-4.md

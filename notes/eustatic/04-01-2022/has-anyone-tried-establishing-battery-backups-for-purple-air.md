@@ -1,5 +1,5 @@
 ---
-title: Has anyone tried establishing battery backups for Purple Air?
+title: 'Has anyone tried establishing battery backups for Purple Air?'
 tagnames: air-quality, environmental-justice, particulate-matter, purpleair, purple-air, zoom:16, lat:29.953736, lon:-90.073637, rural
 author: eustatic
 path: /04-01-2022/has-anyone-tried-establishing-battery-backups-for-purple-air.md

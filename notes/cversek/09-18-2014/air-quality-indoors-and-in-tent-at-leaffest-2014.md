@@ -1,5 +1,5 @@
 ---
-title: Air Quality Indoors and in Tent at LEAFFEST 2014
+title: 'Air Quality Indoors and in Tent at LEAFFEST 2014'
 tagnames: indoor-air-quality-mapping, vermont, farming, leaffest, pvos, air-quality, riffle, northeast, leaffest2014, riffle-examples
 author: cversek
 path: /notes/cversek/09-18-2014/air-quality-indoors-and-in-tent-at-leaffest-2014.md

@@ -1,5 +1,5 @@
 ---
-title: Photometer Kit Breakdown
+title: 'Photometer Kit Breakdown'
 tagnames: community-kits, new-community-kits, community-kits-prep
 author: programmer1200
 path: /wiki/photometer-kit-breakdown.md

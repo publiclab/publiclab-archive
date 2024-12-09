@@ -1,5 +1,5 @@
 ---
-title: Enforcement on inactive permits?
+title: 'Enforcement on inactive permits?'
 tagnames: coal-mining, mining, coal, advocacy, permits, question:general, general, community-organizing, question:advocacy, first-time-poster, mmmp, reclamation, mine-reclamation, question:mine-reclamation
 author: ekpeterman
 path: /notes/ekpeterman/10-28-2021/enforcement-on-inactive-permits.md

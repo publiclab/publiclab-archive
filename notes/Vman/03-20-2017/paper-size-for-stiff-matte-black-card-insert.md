@@ -1,5 +1,5 @@
 ---
-title: Paper size for stiff matte black card insert
+title: 'Paper size for stiff matte black card insert'
 tagnames: question:spectrometry, first-time-poster
 author: Vman
 path: /notes/Vman/03-20-2017/paper-size-for-stiff-matte-black-card-insert.md

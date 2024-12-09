@@ -1,5 +1,5 @@
 ---
-title: WIP Raspberry Pi Spectrometry automation 
+title: 'WIP Raspberry Pi Spectrometry automation '
 tagnames: spectrometry, activity:spectrometry
 author: jaksch
 path: /notes/jaksch/07-23-2018/raspberry-pi-spectrometry-automation.md

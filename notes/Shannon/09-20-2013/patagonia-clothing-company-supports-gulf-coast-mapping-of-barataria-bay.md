@@ -1,5 +1,5 @@
 ---
-title: Patagonia Clothing Company supports Gulf Coast mapping of Barataria Bay
+title: 'Patagonia Clothing Company supports Gulf Coast mapping of Barataria Bay'
 tagnames: gulf-coast, balloon-mapping, barataria-bay, barataria
 author: Shannon
 path: /notes/Shannon/09-20-2013/patagonia-clothing-company-supports-gulf-coast-mapping-of-barataria-bay.md

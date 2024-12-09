@@ -1,5 +1,5 @@
 ---
-title: Air Quality Egg in my kitchen
+title: 'Air Quality Egg in my kitchen'
 tagnames: cypress-hills, chaq, air-quality-egg
 author: britney13
 path: /notes/britney13/2-21-2013/air-quality-egg-my-kitchen-1.md

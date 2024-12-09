@@ -1,5 +1,5 @@
 ---
-title: Advanced Grids
+title: 'Advanced Grids'
 tagnames: parent:power-tags, basic-microscope:, basic-
 author: warren
 path: /wiki/advanced-grids.md

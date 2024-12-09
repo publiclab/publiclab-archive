@@ -1,5 +1,5 @@
 ---
-title: RGB color from a knob -- small steps towards thermal flashlight
+title: 'RGB color from a knob -- small steps towards thermal flashlight'
 tagnames: arduino, thermal-flashlight, rgb, led
 author: warren
 path: /notes/warren/12-8-2011/rgb-color-knob-small-steps-towards-thermal-flashlight.md

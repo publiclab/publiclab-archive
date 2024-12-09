@@ -1,5 +1,5 @@
 ---
-title: Methane Gas Leak Analysis and Comparison of Methane Gas Sensors at Northeastern University
+title: 'Methane Gas Leak Analysis and Comparison of Methane Gas Sensors at Northeastern University'
 tagnames: gas-leaks, first-time-poster, methane-sensors, lat:42.338842, lon:-71.090234
 author: gravel-pucillo_k
 path: /notes/gravel-pucillo_k/12-12-2019/methane-gas-leak-analysis-and-comparison-of-methane-gas-sensors-at-northeastern-university.md

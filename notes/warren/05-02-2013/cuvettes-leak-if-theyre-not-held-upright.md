@@ -1,5 +1,5 @@
 ---
-title: Cuvettes leak if theyre not held upright
+title: 'Cuvettes leak if theyre not held upright'
 tagnames: spectrometer, cuvettes, sample-containers, sample-prep
 author: warren
 path: /notes/warren/05-02-2013/cuvettes-leak-if-theyre-not-held-upright.md

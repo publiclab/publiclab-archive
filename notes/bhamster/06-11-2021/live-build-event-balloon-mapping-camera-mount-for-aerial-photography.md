@@ -1,5 +1,5 @@
 ---
-title: Live build event: Balloon mapping camera mount for aerial photography! 
+title: 'Live build event: Balloon mapping camera mount for aerial photography! '
 tagnames: balloon-mapping, aerial-photography, mapping, event, event:rsvp, camera-rigs, with:a1ahna, rsvp:amocorro, rsvp:sarasage, date:06-30-2021, rsvp:stdelorme
 author: bhamster
 path: /notes/bhamster/06-11-2021/live-build-event-balloon-mapping-camera-mount-for-aerial-photography.md

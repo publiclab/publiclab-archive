@@ -1,5 +1,5 @@
 ---
-title: Please where can I get free downloadable data on Nigeria showing different vegetation zones
+title: 'Please where can I get free downloadable data on Nigeria showing different vegetation zones'
 tagnames: question:general, general, first-time-poster
 author: VIETCHI
 path: /notes/VIETCHI/01-14-2023/please-where-can-i-get-free-downloadable-data-on-nigeria-showing-different-vegetation-zones.md

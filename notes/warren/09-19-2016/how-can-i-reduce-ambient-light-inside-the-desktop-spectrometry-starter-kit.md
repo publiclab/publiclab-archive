@@ -1,5 +1,5 @@
 ---
-title: How can I reduce ambient light inside the Desktop Spectrometry Starter Kit?
+title: 'How can I reduce ambient light inside the Desktop Spectrometry Starter Kit?'
 tagnames: spectrometer, spectrometry, question:spectrometry, answered, baseline, question:dssk, ambient-light, request:activity
 author: warren
 path: /notes/warren/09-19-2016/how-can-i-reduce-ambient-light-inside-the-desktop-spectrometry-starter-kit.md

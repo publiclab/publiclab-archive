@@ -1,5 +1,5 @@
 ---
-title: http://LinkData.org
+title: 'http://LinkData.org'
 tagnames: database, standards, lod, rdf, data
 author: davidgifford
 path: /wiki/http-linkdata-org.md

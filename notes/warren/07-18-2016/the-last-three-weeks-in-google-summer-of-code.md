@@ -1,5 +1,5 @@
 ---
-title: The last three weeks in Google Summer of Code
+title: 'The last three weeks in Google Summer of Code'
 tagnames: website, software, gsoc, developers, coding, wwg, gsoc-2016, response:13214
 author: warren
 path: /notes/warren/07-18-2016/the-last-three-weeks-in-google-summer-of-code.md

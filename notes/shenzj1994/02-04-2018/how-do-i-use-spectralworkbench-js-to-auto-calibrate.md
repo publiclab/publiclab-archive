@@ -1,5 +1,5 @@
 ---
-title: How do I use SpectralWorkbench.js to auto-calibrate?
+title: 'How do I use SpectralWorkbench.js to auto-calibrate?'
 tagnames: spectral-workbench, question:spectral-workbench
 author: shenzj1994
 path: /notes/shenzj1994/02-04-2018/how-do-i-use-spectralworkbench-js-to-auto-calibrate.md

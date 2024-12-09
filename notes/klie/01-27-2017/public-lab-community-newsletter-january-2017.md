@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: January 2017
+title: 'Public Lab Community Newsletter: January 2017'
 tagnames: newsletter, epa, board, formaldehyde, nsf, edgi, moore-foundation
 author: klie
 path: /notes/klie/01-27-2017/public-lab-community-newsletter-january-2017.md

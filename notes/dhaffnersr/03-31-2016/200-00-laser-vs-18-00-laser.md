@@ -1,5 +1,5 @@
 ---
-title: $200.00 laser Vs $18.00 laser
+title: '$200.00 laser Vs $18.00 laser'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/03-31-2016/200-00-laser-vs-18-00-laser.md

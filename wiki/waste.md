@@ -1,5 +1,5 @@
 ---
-title: Waste
+title: 'Waste'
 tagnames: landfill, waste, needs-revision, trash, basura
 author: nicholas
 path: /wiki/waste.md

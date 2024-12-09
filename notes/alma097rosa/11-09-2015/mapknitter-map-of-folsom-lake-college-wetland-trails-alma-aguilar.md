@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Folsom lake college wetland trails alma aguilar
+title: 'MapKnitter map of Folsom lake college wetland trails alma aguilar'
 tagnames: mapknitter, lat:38.6628526, lon:-121.129444
 author: alma097rosa
 path: /notes/alma097rosa/11-09-2015/mapknitter-map-of-folsom-lake-college-wetland-trails-alma-aguilar.md

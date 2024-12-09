@@ -1,5 +1,5 @@
 ---
-title: PhotosynQ in Detroit 
+title: 'PhotosynQ in Detroit '
 tagnames: urban-ag, photosynq, journalism, midwest, detroit, first-time-poster
 author: DustinBlock
 path: /notes/DustinBlock/02-09-2015/photosynq-in-detroit.md

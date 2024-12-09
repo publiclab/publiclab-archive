@@ -1,5 +1,5 @@
 ---
-title: organizers-summit-2015-photos-liz
+title: 'organizers-summit-2015-photos-liz'
 tagnames: barnraising, barnraising-2015
 author: liz
 path: /wiki/organizers-summit-2015-photos-liz.md

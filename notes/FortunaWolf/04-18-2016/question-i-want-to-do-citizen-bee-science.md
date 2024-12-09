@@ -1,5 +1,5 @@
 ---
-title: Question: I want to do citizen bee science
+title: 'Question: I want to do citizen bee science'
 tagnames: spectrometer, question:spectrometry, bees, pollen, resolution
 author: FortunaWolf
 path: /notes/FortunaWolf/04-18-2016/question-i-want-to-do-citizen-bee-science.md

@@ -1,5 +1,5 @@
 ---
-title: lightpainter
+title: 'lightpainter'
 tagnames: redirect:light-painter
 author: warren
 path: /wiki/lightpainter.md

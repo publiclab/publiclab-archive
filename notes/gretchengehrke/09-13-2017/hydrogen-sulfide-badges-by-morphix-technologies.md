@@ -1,5 +1,5 @@
 ---
-title: Hydrogen sulfide badges by Morphix Technologies
+title: 'Hydrogen sulfide badges by Morphix Technologies'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s
 author: gretchengehrke
 path: /notes/gretchengehrke/09-13-2017/hydrogen-sulfide-badges-by-morphix-technologies.md

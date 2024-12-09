@@ -1,5 +1,5 @@
 ---
-title: Need insight on using this lens on modded camera for NDVI: OCN (Orange+Cyan+NIR) filter
+title: 'Need insight on using this lens on modded camera for NDVI: OCN (Orange+Cyan+NIR) filter'
 tagnames: ndvi, infrared, filter, infragram, photo-monitoring-plugin, question:ndvi, question:infragram, question:infrared, question:photo-monitoring-plugin, ocn, orange, cyan, nir-808nm
 author: alanw
 path: /notes/alanw/08-23-2018/need-insight-on-using-this-lens-on-modded-camera-for-ndvi-ocn-orange-cyan-nir-filter.md

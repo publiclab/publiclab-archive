@@ -1,5 +1,5 @@
 ---
-title: WheeStat
+title: 'WheeStat'
 tagnames: wheestat, redirect:10627
 author: warren
 path: /wiki/wheestat.md

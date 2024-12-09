@@ -1,5 +1,5 @@
 ---
-title: A495 filter swapping
+title: 'A495 filter swapping'
 tagnames: near-infrared-camera
 author: warren
 path: /notes/warren/4-2-2012/a495-filter-swapping.md

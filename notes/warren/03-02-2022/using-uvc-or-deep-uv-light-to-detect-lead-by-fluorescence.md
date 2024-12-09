@@ -1,5 +1,5 @@
 ---
-title: Using UVC or "deep UV" light to detect lead by fluorescence
+title: 'Using UVC or "deep UV" light to detect lead by fluorescence'
 tagnames: uv, ultraviolet, fluorescence, water-quality, lead, copper, lat:41, question:water-quality, minerals, question:fluorescence, question:lead, lon:-71, zoom:6, question:uv
 author: warren
 path: /notes/warren/03-02-2022/using-uvc-or-deep-uv-light-to-detect-lead-by-fluorescence.md

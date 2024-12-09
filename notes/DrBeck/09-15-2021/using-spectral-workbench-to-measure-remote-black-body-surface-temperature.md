@@ -1,5 +1,5 @@
 ---
-title: Using Spectral Workbench to measure remote "black-body" surface temperature
+title: 'Using Spectral Workbench to measure remote "black-body" surface temperature'
 tagnames: lat:0, lon:0, first-time-poster, zoom:1
 author: DrBeck
 path: /notes/DrBeck/09-15-2021/using-spectral-workbench-to-measure-remote-black-body-surface-temperature.md

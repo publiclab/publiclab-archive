@@ -1,5 +1,5 @@
 ---
-title: Barbara Marcotte Interview
+title: 'Barbara Marcotte Interview'
 tagnames: 
 author: warren
 path: /wiki/barbara-marcotte-interview.md

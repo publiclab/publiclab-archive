@@ -1,5 +1,5 @@
 ---
-title: Transifex Internationalisation of Publiclab.org
+title: 'Transifex Internationalisation of Publiclab.org'
 tagnames: website, activity, localization, translation, language, gcin, gcin-2016, replication:13651, transifex
 author: pipix51
 path: /notes/pipix51/12-27-2016/transifex-internationalisation-of-publiclab-org.md

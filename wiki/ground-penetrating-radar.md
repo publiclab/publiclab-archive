@@ -1,5 +1,5 @@
 ---
-title: Ground Penetrating Radar
+title: 'Ground Penetrating Radar'
 tagnames: radar, ground-penetrating-radar
 author: bodacea
 path: /wiki/ground-penetrating-radar.md

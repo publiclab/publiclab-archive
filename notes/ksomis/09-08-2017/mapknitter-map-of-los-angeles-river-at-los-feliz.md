@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Los Angeles River at Los Feliz
+title: 'MapKnitter map of Los Angeles River at Los Feliz'
 tagnames: mapknitter, lat:34.1358559851, lon:-118.275847435
 author: ksomis
 path: /notes/ksomis/09-08-2017/mapknitter-map-of-los-angeles-river-at-los-feliz.md

@@ -1,5 +1,5 @@
 ---
-title: Conductivity Results, Group 1 EmersonDataViz 
+title: 'Conductivity Results, Group 1 EmersonDataViz '
 tagnames: boston, conductivity, coqui, first-time-poster
 author: ElizabethGillis
 path: /notes/ElizabethGillis/10-01-2014/conductivity-results-group-1-emersondataviz.md

@@ -1,5 +1,5 @@
 ---
-title: Valuing two modes of Public Lab activities
+title: 'Valuing two modes of Public Lab activities'
 tagnames: community, with:warren
 author: liz
 path: /notes/liz/02-10-2015/valuing-two-modes-of-public-lab-activities.md

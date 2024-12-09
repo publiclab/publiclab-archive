@@ -1,5 +1,5 @@
 ---
-title: Killing plants for fun and science
+title: 'Killing plants for fun and science'
 tagnames: fluorescence, photosynthesis, photosynq
 author: gbathree
 path: /notes/gbathree/09-05-2013/killing-plants-for-fun-and-science.md

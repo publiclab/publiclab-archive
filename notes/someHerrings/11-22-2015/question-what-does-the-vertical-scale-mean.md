@@ -1,5 +1,5 @@
 ---
-title: Question: What does the vertical scale mean?
+title: 'Question: What does the vertical scale mean?'
 tagnames: question:spectral-workbench
 author: someHerrings
 path: /notes/someHerrings/11-22-2015/question-what-does-the-vertical-scale-mean.md

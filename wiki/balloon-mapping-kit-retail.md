@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping Kit (retail)
+title: 'Balloon Mapping Kit (retail)'
 tagnames: balloon-mapping, kits, parent:balloon-mapping
 author: mathew
 path: /wiki/balloon-mapping-kit-retail.md

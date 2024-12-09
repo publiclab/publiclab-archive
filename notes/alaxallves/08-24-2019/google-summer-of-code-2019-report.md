@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code 2019 Report
+title: 'Google Summer of Code 2019 Report'
 tagnames: mapknitter, gsoc, google, barnstar:excessive-enthusiasm, report, 2019, rails-6, gsoc2019, googlesummerofcode, gsoc-2019-final-report
 author: alaxallves
 path: /notes/alaxallves/08-24-2019/google-summer-of-code-2019-report.md

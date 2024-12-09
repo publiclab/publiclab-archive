@@ -1,5 +1,5 @@
 ---
-title: Climate change
+title: 'Climate change'
 tagnames: climate-change
 author: joyofsoy
 path: /wiki/climate-change.md

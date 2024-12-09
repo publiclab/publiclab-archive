@@ -1,5 +1,5 @@
 ---
-title: Progress and thoughts on the new Rich Editor project, and a preview
+title: 'Progress and thoughts on the new Rich Editor project, and a preview'
 tagnames: website, software, web, developers, coding, wwg, rich-editor, wysiwyg
 author: warren
 path: /notes/warren/05-13-2016/progress-and-thoughts-on-the-new-rich-editor-project-and-a-preview.md

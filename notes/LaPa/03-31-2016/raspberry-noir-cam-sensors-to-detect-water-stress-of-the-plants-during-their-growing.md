@@ -1,5 +1,5 @@
 ---
-title: Raspberry + NoIR cam + Sensors to detect water stress of the plants during their growing
+title: 'Raspberry + NoIR cam + Sensors to detect water stress of the plants during their growing'
 tagnames: farming, ir, raspberry-pi, plants, italy, water, rpi, stress, eu, raspberry, images, growing, condition, cultivated, activity:timelapse, activity:infragram, raspberry-pi-infragram, activity:raspberry-pi-infragram, replication:15075
 author: LaPa
 path: /notes/LaPa/03-31-2016/raspberry-noir-cam-sensors-to-detect-water-stress-of-the-plants-during-their-growing.md

@@ -1,5 +1,5 @@
 ---
-title: Collection and Processing of Aztec Test Strips
+title: 'Collection and Processing of Aztec Test Strips'
 tagnames: hydrogen-sulfide-sensing
 author: megan
 path: /notes/megan/8-8-2012/collection-and-processing-aztec-test-strips.md

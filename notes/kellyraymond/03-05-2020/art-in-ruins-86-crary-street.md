@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (86 Crary Street)
+title: 'Art in Ruins (86 Crary Street)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.81329, lon:-71.411132, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-86-crary-street.md

@@ -1,5 +1,5 @@
 ---
-title: How can I detect in urban areas the amount of herbicide droplet and gaseous forms?
+title: 'How can I detect in urban areas the amount of herbicide droplet and gaseous forms?'
 tagnames: health, 2, impacts, question:general, question:agriculture, herbicides, drift, dicamba, 4d
 author: BHannon
 path: /notes/BHannon/12-28-2017/how-can-i-detect-in-urban-areas-the-amount-of-herbicide-droplet-and-gaseous-forms.md

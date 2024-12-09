@@ -1,5 +1,5 @@
 ---
-title: Novel Methods for Assessing Industrial Odors
+title: 'Novel Methods for Assessing Industrial Odors'
 tagnames: odor, oil-and-gas, location:blurred, odor-logging, lat:39, csf, csf16, lon:-104, place:denver-co
 author: joyofsoy
 path: /notes/joyofsoy/06-25-2019/novel-methods-for-assessing-industrial-odors.md

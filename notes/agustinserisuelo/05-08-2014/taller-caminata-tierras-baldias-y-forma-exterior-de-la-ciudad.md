@@ -1,5 +1,5 @@
 ---
-title: Taller / caminata: tierras baldías y forma exterior de la ciudad
+title: 'Taller / caminata: tierras baldías y forma exterior de la ciudad'
 tagnames: balloon-mapping, events, spain, balloon-mapping-kit, kit, balloon, lang:es
 author: agustinserisuelo
 path: /notes/agustinserisuelo/05-08-2014/taller-caminata-tierras-baldias-y-forma-exterior-de-la-ciudad.md

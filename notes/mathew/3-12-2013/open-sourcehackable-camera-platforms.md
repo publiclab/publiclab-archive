@@ -1,5 +1,5 @@
 ---
-title: Open Source/hackable Camera platforms
+title: 'Open Source/hackable Camera platforms'
 tagnames: infrared, ircam, infrared-camera, cameras
 author: mathew
 path: /notes/mathew/3-12-2013/open-sourcehackable-camera-platforms.md

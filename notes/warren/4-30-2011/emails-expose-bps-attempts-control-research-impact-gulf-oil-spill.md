@@ -1,5 +1,5 @@
 ---
-title: Emails expose BP's attempts to control research into impact of Gulf oil spill
+title: 'Emails expose BP's attempts to control research into impact of Gulf oil spill'
 tagnames: 
 author: warren
 path: /notes/warren/4-30-2011/emails-expose-bps-attempts-control-research-impact-gulf-oil-spill.md

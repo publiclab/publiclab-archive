@@ -1,5 +1,5 @@
 ---
-title: Newtown Creek Workshop with Balloon Photography
+title: 'Newtown Creek Workshop with Balloon Photography'
 tagnames: new-york-city, balloon-mapping, newtown-creek, event, event:rsvp, rsvp:liz, date:04-12-2015, replication:14022
 author: nameiswillis
 path: /notes/nameiswillis/04-02-2015/newtown-creek-workshop-with-balloon-photography.md

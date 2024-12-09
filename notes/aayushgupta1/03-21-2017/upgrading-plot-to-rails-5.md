@@ -1,5 +1,5 @@
 ---
-title: Upgrading Plot to Rails 5
+title: 'Upgrading Plot to Rails 5'
 tagnames: gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, response:13975, gsoc-2017-proposals, rails-upgrade, project, first-time-poster
 author: aayushgupta1
 path: /notes/aayushgupta1/03-21-2017/upgrading-plot-to-rails-5.md

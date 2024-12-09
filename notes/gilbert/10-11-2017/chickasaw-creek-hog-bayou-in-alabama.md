@@ -1,5 +1,5 @@
 ---
-title: Chickasaw Creek & Hog Bayou in Alabama
+title: 'Chickasaw Creek & Hog Bayou in Alabama'
 tagnames: question:question
 author: gilbert
 path: /notes/gilbert/10-11-2017/chickasaw-creek-hog-bayou-in-alabama.md

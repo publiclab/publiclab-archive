@@ -1,5 +1,5 @@
 ---
-title: PBS Blog on Thermal Flashlight
+title: 'PBS Blog on Thermal Flashlight'
 tagnames: idealab
 author: sara
 path: /wiki/pbs-blog-thermal-flashlight.md

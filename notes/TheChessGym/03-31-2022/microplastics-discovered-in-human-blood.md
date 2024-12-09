@@ -1,5 +1,5 @@
 ---
-title: Microplastics Discovered in Human Blood
+title: 'Microplastics Discovered in Human Blood'
 tagnames: microplastics, zoom:6, lat:22.004174, lon:76.003417
 author: TheChessGym
 path: /notes/TheChessGym/03-31-2022/microplastics-discovered-in-human-blood.md

@@ -1,5 +1,5 @@
 ---
-title: Developing Image Sequencer as a Library
+title: 'Developing Image Sequencer as a Library'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, image-sequencer, first-time-poster
 author: ccpandhare
 path: /notes/ccpandhare/03-18-2017/developing-image-sequencer-as-a-library.md

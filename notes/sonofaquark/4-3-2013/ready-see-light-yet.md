@@ -1,5 +1,5 @@
 ---
-title: ready to see the light yet?
+title: 'ready to see the light yet?'
 tagnames: 
 author: sonofaquark
 path: /notes/sonofaquark/4-3-2013/ready-see-light-yet.md

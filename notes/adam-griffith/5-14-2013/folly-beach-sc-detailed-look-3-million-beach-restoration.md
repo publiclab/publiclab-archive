@@ -1,5 +1,5 @@
 ---
-title: Folly Beach, SC - a detailed look at a $3 million beach "restoration"
+title: 'Folly Beach, SC - a detailed look at a $3 million beach "restoration"'
 tagnames: kite-aerial-photography, kite, photoshop, microsoft-ice, kite-mapping, coastal, erosion, barrierisland, southeast, south-carolina
 author: adam-griffith
 path: /notes/adam-griffith/5-14-2013/folly-beach-sc-detailed-look-3-million-beach-restoration.md

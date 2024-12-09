@@ -1,5 +1,5 @@
 ---
-title: SU GET 305 Final Project
+title: 'SU GET 305 Final Project'
 tagnames: first-time-poster
 author: suget305
 path: /notes/suget305/12-07-2015/su-get-305-final-project.md

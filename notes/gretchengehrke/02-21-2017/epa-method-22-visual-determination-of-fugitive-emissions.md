@@ -1,5 +1,5 @@
 ---
-title: EPA Method 22: Visual Determination of Fugitive Emissions
+title: 'EPA Method 22: Visual Determination of Fugitive Emissions'
 tagnames: frac-sand, pm, parent:frac-sand, visual-monitoring, activity:observation, activity:monitor, opacity, activity:site-survey, activity:visual-monitoring
 author: gretchengehrke
 path: /notes/gretchengehrke/02-21-2017/epa-method-22-visual-determination-of-fugitive-emissions.md

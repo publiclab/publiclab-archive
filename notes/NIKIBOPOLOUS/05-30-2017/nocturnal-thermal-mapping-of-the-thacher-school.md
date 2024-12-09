@@ -1,5 +1,5 @@
 ---
-title: Analyzing Thacher Insulation: an Aerial Thermal Mapping Project
+title: 'Analyzing Thacher Insulation: an Aerial Thermal Mapping Project'
 tagnames: balloon-mapping, thermal-photography, thermal-imaging, thermal, heat, hidden:response, activity:aerial-photography, activity:balloon-mapping, school, response:14179, pidduck, meyer, thacher, activity:thermal-photography
 author: NIKIBOPOLOUS
 path: /notes/NIKIBOPOLOUS/05-30-2017/nocturnal-thermal-mapping-of-the-thacher-school.md

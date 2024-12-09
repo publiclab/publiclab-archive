@@ -1,5 +1,5 @@
 ---
-title: Public Lab's Big Red Christmas Balls
+title: 'Public Lab's Big Red Christmas Balls'
 tagnames: holiday, christmas, mini-balloon-kit
 author: cfastie
 path: /notes/cfastie/12-25-2017/public-lab-s-big-red-christmas-balls.md

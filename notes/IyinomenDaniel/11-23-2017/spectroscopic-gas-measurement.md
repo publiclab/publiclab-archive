@@ -1,5 +1,5 @@
 ---
-title: Spectroscopic gas measurement
+title: 'Spectroscopic gas measurement'
 tagnames: question:general
 author: IyinomenDaniel
 path: /notes/IyinomenDaniel/11-23-2017/spectroscopic-gas-measurement.md

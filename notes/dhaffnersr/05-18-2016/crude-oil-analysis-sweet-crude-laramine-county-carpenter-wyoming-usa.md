@@ -1,5 +1,5 @@
 ---
-title: Crude oil analysis (sweet crude) Laramine county carpenter Wyoming USA 
+title: 'Crude oil analysis (sweet crude) Laramine county carpenter Wyoming USA '
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-18-2016/crude-oil-analysis-sweet-crude-laramine-county-carpenter-wyoming-usa.md

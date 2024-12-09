@@ -1,5 +1,5 @@
 ---
-title: Video spectrometer construction drafts
+title: 'Video spectrometer construction drafts'
 tagnames: 
 author: warren
 path: /wiki/video-spectrometer-construction-drafts.md

@@ -1,5 +1,5 @@
 ---
-title: Measure coarse and fine air particulates with a DustDuino
+title: 'Measure coarse and fine air particulates with a DustDuino'
 tagnames: arduino, particulate-sensing, air-quality, dustduino, dust, particulates, particulate, pm, fablab, shinyei, activity:dustduino, activity:pm, activity:data-logging, activity:dust, air-sensors, first-time-poster
 author: Schroyer
 path: /notes/Schroyer/11-23-2013/measure-coarse-and-fine-air-particulates-with-a-dustduino.md

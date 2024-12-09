@@ -1,5 +1,5 @@
 ---
-title: Building the Simple Turbidity Sensor Prototype
+title: 'Building the Simple Turbidity Sensor Prototype'
 tagnames: arduino, sensors, water-quality, turbidity, new, draft, time:3h, include, activity:arduino, water-sensors, activity:water-sensors, status:request, oil-and-gas-water-trio
 author: wmacfarl
 path: /notes/wmacfarl/11-11-2019/building-the-simple-turbidity-sensor-prototype.md

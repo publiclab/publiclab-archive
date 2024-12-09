@@ -1,5 +1,5 @@
 ---
-title: NRDA process aerial image acquisition tech. specs.
+title: 'NRDA process aerial image acquisition tech. specs.'
 tagnames: balloon-mapping, kite-mapping
 author: Shannon
 path: /notes/shannon/5-2-2012/nrda-process-aerial-image-acquisition-tech-specs.md

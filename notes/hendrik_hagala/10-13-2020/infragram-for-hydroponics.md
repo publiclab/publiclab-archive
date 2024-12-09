@@ -1,5 +1,5 @@
 ---
-title: Infragram for Hydroponics
+title: 'Infragram for Hydroponics'
 tagnames: first-time-poster, zoom:6, lat:8.537981, lon:-80.782127
 author: hendrik_hagala
 path: /notes/hendrik_hagala/10-13-2020/infragram-for-hydroponics.md

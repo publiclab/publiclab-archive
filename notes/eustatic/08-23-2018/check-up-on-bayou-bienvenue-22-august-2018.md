@@ -1,5 +1,5 @@
 ---
-title: Check up on Bayou Bienvenue 22 August 2018
+title: 'Check up on Bayou Bienvenue 22 August 2018'
 tagnames: gulf-coast, balloon-mapping, wetlands, louisiana, wetland, bienvenue, water-quality, invasive, neworleans, willow, urbanwater, hyacinth, duckweed, mullet, osprey, egret, louisianaheron, blueheron, milfoil
 author: eustatic
 path: /08-23-2018/check-up-on-bayou-bienvenue-22-august-2018.md

@@ -1,5 +1,5 @@
 ---
-title: Challenges, questions and problem-solving together: choosing cameras for Mini Balloon and Kite Kits
+title: 'Challenges, questions and problem-solving together: choosing cameras for Mini Balloon and Kite Kits'
 tagnames: balloon-mapping, kite-mapping, kits, kickstarter, barnraising, blog, prototyping, with:bronwen, mini-kite-kit, mini-balloon-kit, camera-selection, lightweight-cameras, question:camera-selection, question:mini-balloon-kit, question:mini-kite-kit, challenges, prototyping-kits, question:mini-balloon-mapping
 author: warren
 path: /notes/warren/06-27-2017/challenges-questions-and-problem-solving-together-choosing-cameras-for-mini-balloon-and-kite-kits.md

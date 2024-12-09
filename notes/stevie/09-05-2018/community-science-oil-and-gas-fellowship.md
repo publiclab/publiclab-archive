@@ -1,5 +1,5 @@
 ---
-title: Community Science Oil and Gas Fellowship
+title: 'Community Science Oil and Gas Fellowship'
 tagnames: gulf-coast, new-orleans, monitoring, jobs, with:eustatic, fellowship, oil-and-gas
 author: stevie
 path: /notes/stevie/09-05-2018/community-science-oil-and-gas-fellowship.md

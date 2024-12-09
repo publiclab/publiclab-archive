@@ -1,5 +1,5 @@
 ---
-title: Group 1 Emerson College Data Visualization Class: Conductivity Sensor
+title: 'Group 1 Emerson College Data Visualization Class: Conductivity Sensor'
 tagnames: first-time-poster
 author: amandagomez93
 path: /notes/amandagomez93/09-29-2014/group-1-emerson-college-data-visualization-class-conductivity-sensor.md

@@ -1,5 +1,5 @@
 ---
-title: Interesting idea for thermal pollution mapping
+title: 'Interesting idea for thermal pollution mapping'
 tagnames: thermal-imaging, thermal-fishing
 author: sara
 path: /notes/sara/4-27-2013/interesting-idea-thermal-pollution-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: Youth of Ironbound set 2014 garden goals
+title: 'Youth of Ironbound set 2014 garden goals'
 tagnames: newark, new-jersey, community-garden, garden, food, ironbound, elp, northeast, activity:food, category:weigh-produce, category:weigh, category:measure
 author: liz
 path: /notes/liz/05-09-2014/youth-of-ironbound-set-2014-garden-goals.md

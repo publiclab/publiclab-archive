@@ -1,5 +1,5 @@
 ---
-title: Parâmetros de qualidade da água
+title: 'Parâmetros de qualidade da água'
 tagnames: water-quality-monitoring, water-quality, list:plots-waterquality, lang:pt, list:publiclab-portugues, parent:water-quality
 author: vjpixel
 path: /wiki/parametros-de-qualidade-da-agua.md

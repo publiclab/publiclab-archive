@@ -1,5 +1,5 @@
 ---
-title: ShowerKAP II
+title: 'ShowerKAP II'
 tagnames: near-infrared-camera, kite-mapping, infrared, alaska, tundra, infragram, akrange
 author: cfastie
 path: /notes/cfastie/07-06-2013/showerkap-ii.md

@@ -1,5 +1,5 @@
 ---
-title: Lavender in full bloom
+title: 'Lavender in full bloom'
 tagnames: near-infrared-camera, ndvi, infragram, processing, compositing, infragram-sandbox, infragrammar, colormap, response:9054
 author: RQ-05
 path: /notes/RQ-05/07-07-2015/lavender-in-full-bloom.md

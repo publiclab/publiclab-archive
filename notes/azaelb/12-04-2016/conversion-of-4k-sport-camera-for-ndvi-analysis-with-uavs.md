@@ -1,5 +1,5 @@
 ---
-title: Conversion of 4k sport camera for NDVI analysis with UAVs
+title: 'Conversion of 4k sport camera for NDVI analysis with UAVs'
 tagnames: ndvi, multispectral, drones, infrared, infragram, with, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:infrared, uavs, activity:cameras, activity:ndvi, activity:infrared-camera-conversion, sport-camera, activity:mini-camera
 author: azaelb
 path: /notes/azaelb/12-04-2016/conversion-of-4k-sport-camera-for-ndvi-analysis-with-uavs.md

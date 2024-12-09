@@ -1,5 +1,5 @@
 ---
-title: Question: the camera look only white and dont have focus...it´s teh camera bad?
+title: 'Question: the camera look only white and dont have focus...it´s teh camera bad?'
 tagnames: question:spectrometry
 author: masolaric
 path: /notes/masolaric/10-16-2014/question-the-camera-look-only-white-and-dont-have-focus-it-s-teh-camera-bad.md

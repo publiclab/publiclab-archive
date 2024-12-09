@@ -1,5 +1,5 @@
 ---
-title: DIY Formaldehyde Test Kit
+title: 'DIY Formaldehyde Test Kit'
 tagnames: air-quality, air, prototype, barnstar:empiricism, formaldehyde, wherewebreathe, barnstar:excessive-enthusiasm, gas, low-cost, meter, canary-database, indoor-air-quality, hcho, seeks:replications, time:3h, difficulty:medium, category:build, status:in-progress, activity:open-air
 author: nshapiro
 path: /notes/nshapiro/11-03-2014/diy-formaldehyde-test-kit.md

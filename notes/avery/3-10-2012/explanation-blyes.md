@@ -1,5 +1,5 @@
 ---
-title: Explanation of BLYES
+title: 'Explanation of BLYES'
 tagnames: environmental-estrogen-testing
 author: Avery
 path: /notes/avery/3-10-2012/explanation-blyes.md

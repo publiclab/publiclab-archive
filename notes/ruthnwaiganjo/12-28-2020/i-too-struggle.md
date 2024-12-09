@@ -1,5 +1,5 @@
 ---
-title: I, Too, Struggle
+title: 'I, Too, Struggle'
 tagnames: coding, happy-holidays, blog-submission, outreachy, programming, codebase
 author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/12-28-2020/i-too-struggle.md

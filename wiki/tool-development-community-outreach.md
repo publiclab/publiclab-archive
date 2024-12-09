@@ -1,5 +1,5 @@
 ---
-title: tool development community outreach 
+title: 'tool development community outreach '
 tagnames: tool-focused, tool-development
 author: stevie
 path: /wiki/tool-development-community-outreach.md

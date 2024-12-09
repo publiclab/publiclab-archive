@@ -1,5 +1,5 @@
 ---
-title: Inline map testing 
+title: 'Inline map testing '
 tagnames: testing, developers
 author: sagarpreet
 path: /notes/sagarpreet/01-30-2019/inline-map-testing.md

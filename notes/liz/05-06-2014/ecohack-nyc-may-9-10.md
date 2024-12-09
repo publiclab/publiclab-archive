@@ -1,5 +1,5 @@
 ---
-title: EcoHack NYC May 9-10
+title: 'EcoHack NYC May 9-10'
 tagnames: new-york-city, ecohack, event
 author: liz
 path: /notes/liz/05-06-2014/ecohack-nyc-may-9-10.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC 2021 proposal:  Education-related usability upgrades
+title: 'GSoC 2021 proposal:  Education-related usability upgrades'
 tagnames: software, soc, lat:30, lon:77, first-time-poster, zoom:7, gsoc-2021, gsoc-2021-proposals
 author: Tanish
 path: /notes/Tanish/04-23-2021/gsoc-2021-proposal-education-related-usability-upgrades.md

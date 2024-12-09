@@ -1,5 +1,5 @@
 ---
-title: Learning and Evaluation Manager
+title: 'Learning and Evaluation Manager'
 tagnames: evaluation, jobs
 author: thewrightjess
 path: /notes/thewrightjess/01-20-2021/learning-and-evaluation-manager.md

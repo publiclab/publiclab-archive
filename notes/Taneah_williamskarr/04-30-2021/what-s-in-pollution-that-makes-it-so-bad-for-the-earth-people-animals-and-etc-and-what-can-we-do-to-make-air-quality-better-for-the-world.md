@@ -1,5 +1,5 @@
 ---
-title: What's in pollution that makes it so bad for the earth, people, animals and etc and what can we do to make air quality better for the world
+title: 'What's in pollution that makes it so bad for the earth, people, animals and etc and what can we do to make air quality better for the world'
 tagnames: question:general, general, first-time-poster
 author: Taneah_williamskarr
 path: /notes/Taneah_williamskarr/04-30-2021/what-s-in-pollution-that-makes-it-so-bad-for-the-earth-people-animals-and-etc-and-what-can-we-do-to-make-air-quality-better-for-the-world.md

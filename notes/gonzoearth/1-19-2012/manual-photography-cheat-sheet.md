@@ -1,5 +1,5 @@
 ---
-title: manual photography cheat sheet
+title: 'manual photography cheat sheet'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/1-19-2012/manual-photography-cheat-sheet.md

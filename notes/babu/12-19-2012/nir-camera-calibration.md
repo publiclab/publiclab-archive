@@ -1,5 +1,5 @@
 ---
-title: NIR Camera Calibration
+title: 'NIR Camera Calibration'
 tagnames: near-infrared-camera, calibration, rgb, bayer-filter
 author: Babu
 path: /notes/babu/12-19-2012/nir-camera-calibration.md

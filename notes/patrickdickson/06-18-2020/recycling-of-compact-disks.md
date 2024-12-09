@@ -1,5 +1,5 @@
 ---
-title: Recycling of compact disks
+title: 'Recycling of compact disks'
 tagnames: question:general, general, first-time-poster
 author: patrickdickson
 path: /notes/patrickdickson/06-18-2020/recycling-of-compact-disks.md

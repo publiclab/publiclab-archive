@@ -1,5 +1,5 @@
 ---
-title: sandbox-edu-coqui
+title: 'sandbox-edu-coqui'
 tagnames: 
 author: mimiss
 path: /wiki/sandbox-edu-coqui.md

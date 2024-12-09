@@ -1,5 +1,5 @@
 ---
-title: Comments and questions on NDVI
+title: 'Comments and questions on NDVI'
 tagnames: near-infrared-camera, ndvi, infragram, wratten25a, first-time-poster
 author: radialmind
 path: /notes/radialmind/02-08-2014/comments-and-questions-on-ndvi.md

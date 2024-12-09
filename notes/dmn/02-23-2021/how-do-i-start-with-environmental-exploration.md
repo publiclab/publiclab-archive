@@ -1,5 +1,5 @@
 ---
-title: How do I start with environmental exploration?
+title: 'How do I start with environmental exploration?'
 tagnames: question:general, general, first-time-poster
 author: dmn
 path: /notes/dmn/02-23-2021/how-do-i-start-with-environmental-exploration.md

@@ -1,5 +1,5 @@
 ---
-title: KAP Test for Invasives Monitoring Project
+title: 'KAP Test for Invasives Monitoring Project'
 tagnames: kite-mapping, grassrootsmapping, mapknitter, citizen-science, kap, maine, invasives, invasive-species, civic-hacking, response:10452
 author: ajawitz
 path: /notes/code4maine/06-25-2014/kap-test-for-invasives-monitoring-project.md

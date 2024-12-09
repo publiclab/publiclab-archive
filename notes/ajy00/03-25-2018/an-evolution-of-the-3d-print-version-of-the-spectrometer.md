@@ -1,5 +1,5 @@
 ---
-title: An evolution of the 3D print version of the Spectrometer
+title: 'An evolution of the 3D print version of the Spectrometer'
 tagnames: seeks:replications, activity:lego-spectrometer, lego-spectrometer, first-time-poster
 author: ajy00
 path: /notes/ajy00/03-25-2018/an-evolution-of-the-3d-print-version-of-the-spectrometer.md

@@ -1,5 +1,5 @@
 ---
-title: Sampling extension for smartphone specs
+title: 'Sampling extension for smartphone specs'
 tagnames: spectrometer, cuvettes, sampling, smartphone-spectrometer, oil-sampling-kit, smartphone
 author: warren
 path: /notes/warren/02-07-2014/sampling-extension-for-smartphone-specs.md

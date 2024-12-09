@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of street lamp study
+title: 'MapKnitter map of street lamp study'
 tagnames: mapknitter, first-time-poster, zoom:15, lat:24.044588944, lon:-104.6374878287, lat:24.05242, lon:-104.642715
 author: sr71luis
 path: /notes/sr71luis/10-08-2021/mapknitter-map-of-street-lamp-study.md

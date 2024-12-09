@@ -1,5 +1,5 @@
 ---
-title: activity:*weekly Updates October 21st- November 4th 
+title: 'activity:*weekly Updates October 21st- November 4th '
 tagnames: publiclaboratory, fellowship, updates
 author: rollinrenola
 path: /wiki/activity-weekly-updates-october-21st-november-4th.md

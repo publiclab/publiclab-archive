@@ -1,5 +1,5 @@
 ---
-title: Spectrometer preorders
+title: 'Spectrometer preorders'
 tagnames: spectrometer
 author: warren
 path: /wiki/spectrometer-preorders.md

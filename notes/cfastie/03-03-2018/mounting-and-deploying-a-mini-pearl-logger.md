@@ -1,5 +1,5 @@
 ---
-title: Mounting and deploying a Mini Pearl Logger
+title: 'Mounting and deploying a Mini Pearl Logger'
 tagnames: arduino, sensors, datalogger, enclosure, data-logging, activity:arduino, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger
 author: cfastie
 path: /notes/cfastie/03-03-2018/mounting-and-deploying-a-mini-pearl-logger.md

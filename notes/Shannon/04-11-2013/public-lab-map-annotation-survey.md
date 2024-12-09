@@ -1,5 +1,5 @@
 ---
-title: Public Lab Map Annotation Survey
+title: 'Public Lab Map Annotation Survey'
 tagnames: mapknitter, community, survey
 author: Shannon
 path: /notes/Shannon/04-11-2013/public-lab-map-annotation-survey.md

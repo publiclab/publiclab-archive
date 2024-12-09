@@ -1,5 +1,5 @@
 ---
-title: Public Lab presentation at CU Mapping Democratization Conference, 2011
+title: 'Public Lab presentation at CU Mapping Democratization Conference, 2011'
 tagnames: presentation
 author: warren
 path: /notes/warren/04-11-2013/public-lab-presentation-at-cu-mapping-democratization-conference-2011.md

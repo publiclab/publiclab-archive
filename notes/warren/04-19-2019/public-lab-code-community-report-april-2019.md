@@ -1,5 +1,5 @@
 ---
-title: Public Lab Code Community Report: April 2019
+title: 'Public Lab Code Community Report: April 2019'
 tagnames: website, web-development, software, outreach, gsoc, blog, developers, code, wwg, webwg, software-outreach, outreachy, wwg-report, outreachy-2018, with:bansal_sidharth2996, with:gauravano, response:17028, response:18039
 author: warren
 path: /notes/warren/04-19-2019/public-lab-code-community-report-april-2019.md

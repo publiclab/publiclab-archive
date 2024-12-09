@@ -1,5 +1,5 @@
 ---
-title: Pencil lead works well as an electrode material in lead analysis
+title: 'Pencil lead works well as an electrode material in lead analysis'
 tagnames: potentiostat, cheapstat, tool, open-water, lead, response:9932, pencil, activity:potentiostat, lead-testing
 author: JSummers
 path: /notes/JSummers/01-28-2016/pencil-lead-works-well-as-an-electrode-material-in-lead-analysis.md

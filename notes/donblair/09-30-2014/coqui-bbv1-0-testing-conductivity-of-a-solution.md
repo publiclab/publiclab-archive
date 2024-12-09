@@ -1,5 +1,5 @@
 ---
-title: Coqui BBv1.0: Testing conductivity of a solution
+title: 'Coqui BBv1.0: Testing conductivity of a solution'
 tagnames: water-quality, water-quality-sensor, conductivity, coqui, difficulty:easy, category:observe, time:1h, status:draft, activity:water-quality, activity:conductivity, activity:water-sensors, activity:coqui-usage
 author: donblair
 path: /notes/donblair/09-30-2014/coqui-bbv1-0-testing-conductivity-of-a-solution.md

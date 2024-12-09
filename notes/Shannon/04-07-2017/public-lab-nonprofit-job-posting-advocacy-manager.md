@@ -1,5 +1,5 @@
 ---
-title: Public Lab nonprofit job posting: Advocacy Manager
+title: 'Public Lab nonprofit job posting: Advocacy Manager'
 tagnames: nonprofit, jobs
 author: Shannon
 path: /notes/Shannon/04-07-2017/public-lab-nonprofit-job-posting-advocacy-manager.md

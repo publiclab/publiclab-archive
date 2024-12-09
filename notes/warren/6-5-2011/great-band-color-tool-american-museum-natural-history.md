@@ -1,5 +1,5 @@
 ---
-title: Great band color tool from the American Museum of Natural History
+title: 'Great band color tool from the American Museum of Natural History'
 tagnames: nrg, ndvi, multispectral, landsat, museum-of-science, satellite-imagery, modis, multispectral-analysis, amnh, american-museum-natural-history
 author: warren
 path: /notes/warren/6-5-2011/great-band-color-tool-american-museum-natural-history.md

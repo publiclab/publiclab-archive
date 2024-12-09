@@ -1,5 +1,5 @@
 ---
-title: Holiday Sale on Public Lab Kits!
+title: 'Holiday Sale on Public Lab Kits!'
 tagnames: balloon-mapping, spectrometer, kite-mapping, kits, store, hardware, community-microscope
 author: Bronwen
 path: /notes/Bronwen/12-11-2019/holiday-sale-on-public-lab-kits.md

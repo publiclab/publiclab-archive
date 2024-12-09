@@ -1,5 +1,5 @@
 ---
-title: the possible sources to get more spectrometer information 
+title: 'the possible sources to get more spectrometer information '
 tagnames: question:general
 author: Vendy
 path: /notes/Vendy/02-08-2018/the-possible-sources-to-get-more-spectrometer-information.md

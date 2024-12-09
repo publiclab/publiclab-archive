@@ -1,5 +1,5 @@
 ---
-title: Good guides on doing a photo survey of a site?
+title: 'Good guides on doing a photo survey of a site?'
 tagnames: documentation, photo-monitoring, answered, request:activity, question:photo-monitoring, photographic-evidence, photo-survey, site-documentation, question:photo-survey, site-survey, question:site-survey
 author: warren
 path: /notes/warren/03-14-2017/good-guides-on-doing-a-photo-survey-of-a-site.md

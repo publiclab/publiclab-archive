@@ -1,5 +1,5 @@
 ---
-title: Gas patch Bucket Brigade work
+title: 'Gas patch Bucket Brigade work'
 tagnames: 
 author: sara
 path: /notes/sara/7-27-2011/gas-patch-bucket-brigade-work.md

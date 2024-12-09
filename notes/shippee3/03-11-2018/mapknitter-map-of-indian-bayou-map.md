@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Indian Bayou Map
+title: 'MapKnitter map of Indian Bayou Map'
 tagnames: mapknitter, lat:30.5283306255, lon:-87.101008147
 author: shippee3
 path: /notes/shippee3/03-11-2018/mapknitter-map-of-indian-bayou-map.md

@@ -1,5 +1,5 @@
 ---
-title: proof of concept, stacking cuvette frame design
+title: 'proof of concept, stacking cuvette frame design'
 tagnames: spectrometer, desktop-spectrometer, cuvette, oil-testing-kit, papercraft, response:12462, cuvette-frame
 author: tonyc
 path: /notes/tonyc/12-02-2015/proof-of-concept-stacking-cuvette-frame-design.md

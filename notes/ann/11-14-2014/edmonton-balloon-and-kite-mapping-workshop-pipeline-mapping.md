@@ -1,5 +1,5 @@
 ---
-title: Edmonton Balloon and Kite Mapping Workshop
+title: 'Edmonton Balloon and Kite Mapping Workshop'
 tagnames: balloon-mapping, edmonton, event, canada, alberta, event:rsvp, date:11-22-2014, rsvp:ann, rsvp:anne, replication:14022
 author: ann
 path: /notes/ann/11-14-2014/edmonton-balloon-and-kite-mapping-workshop-pipeline-mapping.md

@@ -1,5 +1,5 @@
 ---
-title: Link: DIY Microbalance
+title: 'Link: DIY Microbalance'
 tagnames: analytical_balance, weighing
 author: Frikkie
 path: /notes/Frikkie/03-25-2015/link-diy-microbalance.md

@@ -1,5 +1,5 @@
 ---
-title: Graze anatomy
+title: 'Graze anatomy'
 tagnames: ndvi, infrared, filter, infragram, plant-health, pole-photography, pap, pole-aerial-photography, pole-mapping, barnstar:basic, kaptery, midopt, aerobee, juno, grazing, response:13028, pole-bracket, category:experiment, activity:aerial-photography, activity:multispectral-imaging, activity:pole-mapping, activity:crop-analysis
 author: cfastie
 path: /notes/cfastie/05-23-2016/graze-anatomy.md

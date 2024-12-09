@@ -1,5 +1,5 @@
 ---
-title: Community Microscope Initial Evaluation
+title: 'Community Microscope Initial Evaluation'
 tagnames: calibration, webcam, raspberry-pi, camera, gsoc, microscope, pi-camera, resolution, soc, gsoc-2018, soc-2018, community-microscope, pi-microscope, series:community-microscope-tests, community-microscope-prototyping
 author: MaggPi
 path: /notes/MaggPi/05-21-2018/community-microscope-resolution-test.md

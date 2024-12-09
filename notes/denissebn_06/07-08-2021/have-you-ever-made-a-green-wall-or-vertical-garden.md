@@ -1,5 +1,5 @@
 ---
-title: Have you ever made a Green Wall or Vertical garden?
+title: 'Have you ever made a Green Wall or Vertical garden?'
 tagnames: architecture, question:general, general, green-wall, vertical-garden, dyi, pollinizators
 author: denissebn_06
 path: /notes/denissebn_06/07-08-2021/have-you-ever-made-a-green-wall-or-vertical-garden.md

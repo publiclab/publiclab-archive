@@ -1,5 +1,5 @@
 ---
-title: Prep of canisters for photo strips
+title: 'Prep of canisters for photo strips'
 tagnames: hydrogen-sulfide-sensing, wetlands
 author: Shannon
 path: /notes/shannon/8-5-2012/prep-canisters-photo-strips.md

@@ -1,5 +1,5 @@
 ---
-title: GSoC 2022 proposal: Inragram.org full-screen UI and video upload
+title: 'GSoC 2022 proposal: Inragram.org full-screen UI and video upload'
 tagnames: software, gsoc, soc, first-time-poster, zoom:6, gsoc-2022, gsoc-2022-proposals, lat:4.1492, lon:9.294433, soc-2022, soc-2022-proposal, soc-2022-proposals, gsoc-2022-proposal
 author: forcha
 path: /notes/forcha/04-05-2022/gsoc-proposal-full-screen-ui-and-video-upload.md

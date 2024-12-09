@@ -1,5 +1,5 @@
 ---
-title: Introducing Community Toolbox 2.0
+title: 'Introducing Community Toolbox 2.0'
 tagnames: social-media, gsoc, code, barnstar:basic, newcomers, blog-submission, summer-of-code, welcoming, community-toolbox, gsoc-19, soc-19, gsoc-2019-final-report, pin:community-toolbox
 author: icode365
 path: /notes/icode365/08-25-2019/community-toolbox-work-product.md

@@ -1,5 +1,5 @@
 ---
-title: What Mobile Apps for Repeat Photography Do You Use?
+title: 'What Mobile Apps for Repeat Photography Do You Use?'
 tagnames: 
 author: chelseak
 path: /notes/chelseak/06-18-2014/what-mobile-apps-for-repeat-photography-do-you-use.md

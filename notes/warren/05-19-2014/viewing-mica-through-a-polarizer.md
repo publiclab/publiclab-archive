@@ -1,5 +1,5 @@
 ---
-title: Viewing mica through a polarizer
+title: 'Viewing mica through a polarizer'
 tagnames: dust, smartphone, silica, particulate, polarizer, mica, polarized-light, polarized-light-microscopy, polarizing-filter
 author: warren
 path: /notes/warren/05-19-2014/viewing-mica-through-a-polarizer.md

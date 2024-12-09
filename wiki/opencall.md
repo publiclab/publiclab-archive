@@ -1,5 +1,5 @@
 ---
-title: opencall
+title: 'opencall'
 tagnames: redirect:14798
 author: warren
 path: /wiki/opencall.md

@@ -1,5 +1,5 @@
 ---
-title: Trash of Bayou St John 
+title: 'Trash of Bayou St John '
 tagnames: kite-mapping, restoration, trash, bsj, dredgefest
 author: eustatic
 path: /08-14-2014/trash-of-bayou-st-john.md

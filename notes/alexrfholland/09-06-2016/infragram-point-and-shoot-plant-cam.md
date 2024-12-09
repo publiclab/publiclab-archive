@@ -1,5 +1,5 @@
 ---
-title: Infragram Point and Shoot Plant Cam
+title: 'Infragram Point and Shoot Plant Cam'
 tagnames: infragram, question:infragram, question:infragram-point-shoot
 author: alexrfholland
 path: /notes/alexrfholland/09-06-2016/infragram-point-and-shoot-plant-cam.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Impact Solar 
+title: 'MapKnitter map of Impact Solar '
 tagnames: mapknitter, first-time-poster, lat:33.469158072, lon:-95.3680801357, lat:33.469158, lon:-95.36808
 author: coleachapman
 path: /notes/coleachapman/01-14-2020/mapknitter-map-of-impact-solar.md

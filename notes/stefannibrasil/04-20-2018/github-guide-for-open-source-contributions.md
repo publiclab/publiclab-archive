@@ -1,5 +1,5 @@
 ---
-title: Github guide for Open Source Contributions
+title: 'Github guide for Open Source Contributions'
 tagnames: open-source, software, developers, code, coding, barnstar:basic, github, activity:software, git, activity:developers, activity:coding
 author: stefannibrasil
 path: /notes/stefannibrasil/04-20-2018/github-guide-for-open-source-contributions.md

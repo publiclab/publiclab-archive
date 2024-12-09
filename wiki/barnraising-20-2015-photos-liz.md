@@ -1,5 +1,5 @@
 ---
-title: barnraising-20-2015-photos-liz
+title: 'barnraising-20-2015-photos-liz'
 tagnames: barnraising, barnraising-2015
 author: liz
 path: /wiki/barnraising-20-2015-photos-liz.md

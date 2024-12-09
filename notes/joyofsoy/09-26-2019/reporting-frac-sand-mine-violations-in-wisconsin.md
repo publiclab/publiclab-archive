@@ -1,5 +1,5 @@
 ---
-title: Reporting frac sand mine violations in Wisconsin
+title: 'Reporting frac sand mine violations in Wisconsin'
 tagnames: wisconsin, air-quality, blog, fracking, frac-sand, parent:frac-sand, oil-and-gas, purpleair, frac-sand-reporting, lat:44.292401, lon:-90.856933
 author: joyofsoy
 path: /notes/joyofsoy/09-26-2019/reporting-frac-sand-mine-violations-in-wisconsin.md

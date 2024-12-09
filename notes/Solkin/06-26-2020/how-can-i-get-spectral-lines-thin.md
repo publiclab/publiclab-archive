@@ -1,5 +1,5 @@
 ---
-title: How can I get spectral lines thin?
+title: 'How can I get spectral lines thin?'
 tagnames: question:lego-spectrometer, lego-spectrometer, first-time-poster
 author: Solkin
 path: /notes/Solkin/06-26-2020/how-can-i-get-spectral-lines-thin.md

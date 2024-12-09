@@ -1,5 +1,5 @@
 ---
-title: Air
+title: 'Air'
 tagnames: list:plots-airquality, redirect:air-quality
 author: liz
 path: /wiki/air.md

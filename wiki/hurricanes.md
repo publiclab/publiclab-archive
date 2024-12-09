@@ -1,5 +1,5 @@
 ---
-title: Hurricanes
+title: 'Hurricanes'
 tagnames: redirect:13474
 author: warren
 path: /wiki/hurricanes.md

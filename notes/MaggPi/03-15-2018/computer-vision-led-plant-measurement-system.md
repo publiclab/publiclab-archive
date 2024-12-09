@@ -1,5 +1,5 @@
 ---
-title: Computer Vision/LED Plant Measurement System
+title: 'Computer Vision/LED Plant Measurement System'
 tagnames: multispectral, raspberry-pi, plant-health, gardening, python, activity:multispectral-imaging, computer-vision, first-time-poster
 author: MaggPi
 path: /notes/MaggPi/03-15-2018/computer-vision-led-plant-measurement-system.md

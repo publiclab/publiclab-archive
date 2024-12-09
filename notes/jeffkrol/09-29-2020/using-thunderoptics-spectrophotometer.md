@@ -1,5 +1,5 @@
 ---
-title: Using Thunderoptics spectrophotometer
+title: 'Using Thunderoptics spectrophotometer'
 tagnames: spectral-workbench, camera, question:spectral-workbench, first-time-poster, thunderoptics
 author: jeffkrol
 path: /notes/jeffkrol/09-29-2020/using-thunderoptics-spectrophotometer.md

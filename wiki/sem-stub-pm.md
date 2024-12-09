@@ -1,5 +1,5 @@
 ---
-title: SEM stub monitor for particulate matter
+title: 'SEM stub monitor for particulate matter'
 tagnames: particulate-sensing, dust, particulates, particulate, pm, passive-pm, sem-stub
 author: mathew
 path: /wiki/sem-stub-pm.md

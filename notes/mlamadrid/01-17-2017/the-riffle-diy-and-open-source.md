@@ -1,5 +1,5 @@
 ---
-title: The Riffle: DIY and Open Source
+title: 'The Riffle: DIY and Open Source'
 tagnames: water-quality, riffle, with:mathew, with:donblair, communityscienceforum, riffle-examples
 author: mlamadrid
 path: /notes/mlamadrid/01-17-2017/the-riffle-diy-and-open-source.md

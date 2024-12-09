@@ -1,5 +1,5 @@
 ---
-title: What are your thoughts about searching for content on the Public Lab website?
+title: 'What are your thoughts about searching for content on the Public Lab website?'
 tagnames: question:general, question:ui, question:search, question:ux
 author: Bronwen
 path: /notes/Bronwen/01-15-2019/what-are-your-thoughts-about-searching-for-content-on-the-public-lab-website.md

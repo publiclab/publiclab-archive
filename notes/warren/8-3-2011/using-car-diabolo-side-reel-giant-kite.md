@@ -1,5 +1,5 @@
 ---
-title: Using an el Camino to reel in a giant kite
+title: 'Using an el Camino to reel in a giant kite'
 tagnames: kite-mapping, cires
 author: warren
 path: /notes/warren/8-3-2011/using-car-diabolo-side-reel-giant-kite.md

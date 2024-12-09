@@ -1,5 +1,5 @@
 ---
-title: Python Webcam Codes
+title: 'Python Webcam Codes'
 tagnames: software, infragram, python, parent:multispectral-imaging
 author: paulokemperfilho
 path: /wiki/python-webcam-codes.md

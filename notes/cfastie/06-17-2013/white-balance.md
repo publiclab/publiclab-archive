@@ -1,5 +1,5 @@
 ---
-title: White balance
+title: 'White balance'
 tagnames: near-infrared-camera, vermont, white-balance, infragram, infrablue, response:8018, response:8196
 author: cfastie
 path: /notes/cfastie/06-17-2013/white-balance.md

@@ -1,5 +1,5 @@
 ---
-title: Has anyone built a secchi disk before? 
+title: 'Has anyone built a secchi disk before? '
 tagnames: water-quality, water, turbidity, question:water-quality, question:turbidity, secchi-disk, question:secchi-disk
 author: stevie
 path: /notes/stevie/03-13-2018/has-anyone-built-a-secchi-disk-before.md

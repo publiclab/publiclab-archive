@@ -1,5 +1,5 @@
 ---
-title: A message from the Public Lab staff
+title: 'A message from the Public Lab staff'
 tagnames: blog
 author: warren
 path: /notes/warren/11-10-2016/a-message-from-the-public-lab-staff.md

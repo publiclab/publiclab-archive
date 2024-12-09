@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: Time slider UI for LEL
+title: 'SoC proposal: Time slider UI for LEL'
 tagnames: gsoc, soc-2020, soc-2020-proposals, gsoc-2020
 author: icode365
 path: /notes/icode365/03-31-2020/soc-proposal-time-slider-ui-for-lel.md

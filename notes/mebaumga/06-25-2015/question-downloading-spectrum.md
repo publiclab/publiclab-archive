@@ -1,5 +1,5 @@
 ---
-title: Question: downloading spectrum
+title: 'Question: downloading spectrum'
 tagnames: question:spectral-workbench, answered
 author: mebaumga
 path: /notes/mebaumga/06-25-2015/question-downloading-spectrum.md

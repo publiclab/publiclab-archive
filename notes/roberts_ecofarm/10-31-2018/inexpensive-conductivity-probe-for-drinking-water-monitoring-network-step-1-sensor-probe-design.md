@@ -1,5 +1,5 @@
 ---
-title: Inexpensive conductivity probe   Step 1 - Sensor Probe design (revised)
+title: 'Inexpensive conductivity probe   Step 1 - Sensor Probe design (revised)'
 tagnames: water-quality, conductivity, sensor, hardware
 author: roberts_ecofarm
 path: /notes/roberts_ecofarm/10-31-2018/inexpensive-conductivity-probe-for-drinking-water-monitoring-network-step-1-sensor-probe-design.md

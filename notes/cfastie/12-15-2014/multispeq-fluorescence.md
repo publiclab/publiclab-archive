@@ -1,5 +1,5 @@
 ---
-title: MultispeQ fluorescence
+title: 'MultispeQ fluorescence'
 tagnames: fluorescence, barnraising, soil, photosynthesis, photosynq, plant, plant-health, multispeq, barnraising2014, response:11451
 author: cfastie
 path: /notes/cfastie/12-15-2014/multispeq-fluorescence.md

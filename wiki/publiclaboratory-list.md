@@ -1,5 +1,5 @@
 ---
-title: publiclaboratory list
+title: 'publiclaboratory list'
 tagnames: mailing-lists
 author: warren
 path: /wiki/publiclaboratory-list.md

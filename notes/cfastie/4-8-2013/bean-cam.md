@@ -1,5 +1,5 @@
 ---
-title: Bean Cam
+title: 'Bean Cam'
 tagnames: near-infrared-camera, vermont, plant-health, plants, timelapse, food, difficulty:medium, category:observe, activity:timelapse, time:1d, activity:education, activity:science-fair, activity:classroom, activity:food
 author: cfastie
 path: /notes/cfastie/4-8-2013/bean-cam.md

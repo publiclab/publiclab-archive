@@ -1,5 +1,5 @@
 ---
-title: Outreachy'19 Proposal: Public Lab UI Improvements
+title: 'Outreachy'19 Proposal: Public Lab UI Improvements'
 tagnames: software, soc, outreachy, response:17359, soc-2019, outreachy-2019, outreachy-2019-proposals
 author: IshaGupta18
 path: /notes/IshaGupta18/03-22-2019/outreachy-19-proposal-public-lab-ui-improvements.md

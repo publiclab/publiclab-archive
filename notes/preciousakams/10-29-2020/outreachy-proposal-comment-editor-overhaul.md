@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal:  Comment Editor Overhaul
+title: 'Outreachy proposal:  Comment Editor Overhaul'
 tagnames: first-time-poster
 author: preciousakams
 path: /notes/preciousakams/10-29-2020/outreachy-proposal-comment-editor-overhaul.md

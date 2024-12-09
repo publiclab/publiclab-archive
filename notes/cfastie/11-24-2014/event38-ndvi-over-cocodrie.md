@@ -1,5 +1,5 @@
 ---
-title: Event38 NDVI over Cocodrie
+title: 'Event38 NDVI over Cocodrie'
 tagnames: near-infrared-camera, ndvi, image-stitching, louisiana, barnraising, lumcon, infragram, barnraising2014
 author: cfastie
 path: /notes/cfastie/11-24-2014/event38-ndvi-over-cocodrie.md

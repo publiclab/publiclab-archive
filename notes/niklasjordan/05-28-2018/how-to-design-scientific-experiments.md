@@ -1,5 +1,5 @@
 ---
-title: How to design scientific experiments?
+title: 'How to design scientific experiments?'
 tagnames: answered, experimental-design, category:experiment, question:general, study-design, question:study-design
 author: niklasjordan
 path: /notes/niklasjordan/05-28-2018/how-to-design-scientific-experiments.md

@@ -1,5 +1,5 @@
 ---
-title: Infragram Point and shoot photos: white balance not working
+title: 'Infragram Point and shoot photos: white balance not working'
 tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster
 author: Muneeswaran
 path: /notes/Muneeswaran/12-17-2018/infragram-point-and-shoot-photos-white-balance-not-working.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab partnership with NASA AREN project brings new easy-to-use tools for classroom use
+title: 'Public Lab partnership with NASA AREN project brings new easy-to-use tools for classroom use'
 tagnames: balloon-mapping, near-infrared-camera, ndvi, education, nasa, infragram, classroom, blog, blog-submission, multispectral-imaging, aren, image-sequencer, stem, globe
 author: warren
 path: /notes/warren/07-18-2018/public-lab-partnership-with-nasa-aren-project-brings-new-easy-to-use-tools-for-classroom-use.md

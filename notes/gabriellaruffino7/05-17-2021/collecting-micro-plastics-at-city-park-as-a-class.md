@@ -1,5 +1,5 @@
 ---
-title: Collecting Micro-plastics at city park as a class! 
+title: 'Collecting Micro-plastics at city park as a class! '
 tagnames: first-time-poster, chipmunkscityparkproject
 author: gabriellaruffino7
 path: /notes/gabriellaruffino7/05-17-2021/collecting-micro-plastics-at-city-park-as-a-class.md

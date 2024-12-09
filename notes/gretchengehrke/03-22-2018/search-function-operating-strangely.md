@@ -1,5 +1,5 @@
 ---
-title: Search function operating strangely?
+title: 'Search function operating strangely?'
 tagnames: question:website
 author: gretchengehrke
 path: /notes/gretchengehrke/03-22-2018/search-function-operating-strangely.md

@@ -1,5 +1,5 @@
 ---
-title: photoshop image distort time lapse video
+title: 'photoshop image distort time lapse video'
 tagnames: video, image-stitching, stitching
 author: gonzoearth
 path: /notes/gonzoearth/7-10-2011/photoshop-image-distort-time-lapse-video.md

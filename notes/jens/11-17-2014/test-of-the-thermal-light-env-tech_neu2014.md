@@ -1,5 +1,5 @@
 ---
-title: Test of the Thermal Light: Env+Tech_NEU2014
+title: 'Test of the Thermal Light: Env+Tech_NEU2014'
 tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, thermal, insulation, heat, replication:625
 author: jens
 path: /notes/jens/11-17-2014/test-of-the-thermal-light-env-tech_neu2014.md

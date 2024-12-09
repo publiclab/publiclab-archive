@@ -1,5 +1,5 @@
 ---
-title: Re-design of the Infragram landing page and responsive design on mobile
+title: 'Re-design of the Infragram landing page and responsive design on mobile'
 tagnames: outreachy, first-time-poster, zoom:5, lat:5.965753, lon:10.151367
 author: S_mboyi
 path: /notes/S_mboyi/04-16-2022/re-design-of-the-infragram-landing-page-and-responsive-design-on-mobile.md

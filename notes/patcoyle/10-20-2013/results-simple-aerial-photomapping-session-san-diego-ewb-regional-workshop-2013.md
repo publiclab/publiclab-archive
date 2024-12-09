@@ -1,5 +1,5 @@
 ---
-title: Results: Simple Aerial Photomapping session, San Diego EWB Regional Workshop 2013
+title: 'Results: Simple Aerial Photomapping session, San Diego EWB Regional Workshop 2013'
 tagnames: balloon-mapping
 author: patcoyle
 path: /notes/patcoyle/10-20-2013/results-simple-aerial-photomapping-session-san-diego-ewb-regional-workshop-2013.md

@@ -1,5 +1,5 @@
 ---
-title: Summary charts of audience survey
+title: 'Summary charts of audience survey'
 tagnames: new-york-city, chaq, air-quality, air-quality-egg
 author: liz
 path: /notes/liz/3-19-2013/summary-charts-audience-survey.md

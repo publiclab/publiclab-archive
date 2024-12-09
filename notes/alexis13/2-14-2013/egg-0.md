@@ -1,5 +1,5 @@
 ---
-title: THE EGG  
+title: 'THE EGG  '
 tagnames: new-york-city, cypress-hills, chaq
 author: Alexis13
 path: /notes/alexis13/2-14-2013/egg-0.md

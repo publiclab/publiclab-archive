@@ -1,5 +1,5 @@
 ---
-title: Bread Loaf Ortho
+title: 'Bread Loaf Ortho'
 tagnames: kite-mapping, mapknitter, leaffest, leaffest2012, gps
 author: cfastie
 path: /notes/cfastie/9-26-2012/bread-loaf-ortho.md

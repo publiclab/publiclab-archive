@@ -1,5 +1,5 @@
 ---
-title: Why does my coqui not change frequency in salt water anymore? 
+title: 'Why does my coqui not change frequency in salt water anymore? '
 tagnames: coqui, question:coqui
 author: stevie
 path: /notes/stevie/06-10-2020/why-does-my-coqui-not-change-frequency-in-salt-water-anymore.md

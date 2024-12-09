@@ -1,5 +1,5 @@
 ---
-title: Public Lab Installation in the EU Joint Research Center
+title: 'Public Lab Installation in the EU Joint Research Center'
 tagnames: balloon-mapping, italy, eu, installation, europe, exhibition, jrc
 author: hagitkeysar
 path: /notes/hagitkeysar/03-26-2016/public-lab-installation-in-the-eu-joint-research-center.md

@@ -1,5 +1,5 @@
 ---
-title: Slidedeck for environmental lawyers
+title: 'Slidedeck for environmental lawyers'
 tagnames: evidence, presentation, legal, evidence-project, law-and-policy
 author: liz
 path: /notes/liz/09-23-2019/slidedeck-for-environmental-lawyers.md

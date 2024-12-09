@@ -1,5 +1,5 @@
 ---
-title: Español
+title: 'Español'
 tagnames: spain, tabbed:notes, tabbed:wikis, lang:es
 author: warren
 path: /wiki/espanol.md

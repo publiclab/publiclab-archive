@@ -1,5 +1,5 @@
 ---
-title: Kite Video test:  City Park
+title: 'Kite Video test:  City Park'
 tagnames: balloon-mapping, kite-mapping, annagrigorjem
 author: eustatic
 path: /07-17-2013/kite-video-test-city-park.md

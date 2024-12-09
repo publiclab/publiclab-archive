@@ -1,5 +1,5 @@
 ---
-title: Riffle Beta Release: Feature Freeze this Friday! (12/11)
+title: 'Riffle Beta Release: Feature Freeze this Friday! (12/11)'
 tagnames: riffle
 author: donblair
 path: /notes/donblair/12-09-2015/riffle-beta-release-feature-freeze-this-friday-12-11.md

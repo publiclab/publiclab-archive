@@ -1,5 +1,5 @@
 ---
-title: time-lapse video of a MapKnitter project
+title: 'time-lapse video of a MapKnitter project'
 tagnames: balloon-mapping, kite-mapping, video, mapknitter, walkthrough
 author: gonzoearth
 path: /notes/gonzoearth/05-29-2013/time-lapse-video-of-a-mapknitter-project.md

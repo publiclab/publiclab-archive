@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal: Email integration project
+title: 'GSoC proposal: Email integration project'
 tagnames: software, gsoc, soc, response:13975, soc-2018, soc-2018-proposals, soc-2018-email
 author: vishesh
 path: /notes/vishesh/02-16-2018/email-integration-project.md

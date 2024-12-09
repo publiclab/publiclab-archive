@@ -1,5 +1,5 @@
 ---
-title: home-carousel
+title: 'home-carousel'
 tagnames: 
 author: warren
 path: /feature/home-carousel.md

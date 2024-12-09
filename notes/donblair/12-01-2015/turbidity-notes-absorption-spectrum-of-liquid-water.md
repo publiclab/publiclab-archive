@@ -1,5 +1,5 @@
 ---
-title: Turbidity Notes: Absorption Spectrum of Liquid Water
+title: 'Turbidity Notes: Absorption Spectrum of Liquid Water'
 tagnames: riffle
 author: donblair
 path: /notes/donblair/12-01-2015/turbidity-notes-absorption-spectrum-of-liquid-water.md

@@ -1,5 +1,5 @@
 ---
-title: Floating camera rig
+title: 'Floating camera rig'
 tagnames: gulf-coast, balloon-mapping, kite-mapping, wetlands, kite, photo-rig, kit, category:build, activity:aerial-photography, activity:photo-rig
 author: eustatic
 path: /03-12-2014/floating-camera-rig.md

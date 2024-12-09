@@ -1,5 +1,5 @@
 ---
-title: learning
+title: 'learning'
 tagnames: community, education, list:plots-education, parent:education
 author: liz
 path: /wiki/learning.md

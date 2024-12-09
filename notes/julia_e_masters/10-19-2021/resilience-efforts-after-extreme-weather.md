@@ -1,5 +1,5 @@
 ---
-title: Resilience efforts after extreme weather
+title: 'Resilience efforts after extreme weather'
 tagnames: organizing, weather, advocacy, response:14802, extreme
 author: julia_e_masters
 path: /notes/julia_e_masters/10-19-2021/resilience-efforts-after-extreme-weather.md

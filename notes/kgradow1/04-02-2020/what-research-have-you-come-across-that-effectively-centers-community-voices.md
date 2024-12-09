@@ -1,5 +1,5 @@
 ---
-title: What research have you come across that effectively centers community voices?
+title: 'What research have you come across that effectively centers community voices?'
 tagnames: interviews, housing, quantitative, question:general, general, affordable-housing, community-voice
 author: kgradow1
 path: /notes/kgradow1/04-02-2020/what-research-have-you-come-across-that-effectively-centers-community-voices.md

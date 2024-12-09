@@ -1,5 +1,5 @@
 ---
-title: What are best practices for hosting family friendly events? 
+title: 'What are best practices for hosting family friendly events? '
 tagnames: events, barnraising, question:general, barnraising-host, question:hosting-materials, family-friendly, question:facilitation
 author: stevie
 path: /notes/stevie/12-15-2017/what-are-best-practices-for-hosting-family-friendly-events.md

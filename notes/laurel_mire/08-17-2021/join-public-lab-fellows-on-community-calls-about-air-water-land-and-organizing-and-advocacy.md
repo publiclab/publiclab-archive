@@ -1,5 +1,5 @@
 ---
-title: Join Public Lab Fellows on community calls about air, water, land, and organizing and advocacy
+title: 'Join Public Lab Fellows on community calls about air, water, land, and organizing and advocacy'
 tagnames: community, research, fellows, general, research-curation-fellows, with:julia_e_masters, with:alejobonifacio, with:fongvania
 author: laurel_mire
 path: /notes/laurel_mire/08-17-2021/join-public-lab-fellows-on-community-calls-about-air-water-land-and-organizing-and-advocacy.md

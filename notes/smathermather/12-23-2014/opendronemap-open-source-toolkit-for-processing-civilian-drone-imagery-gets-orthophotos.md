@@ -1,5 +1,5 @@
 ---
-title: OpenDroneMap: Open Source Toolkit for processing Civilian Drone Imagery gets orthophotos
+title: 'OpenDroneMap: Open Source Toolkit for processing Civilian Drone Imagery gets orthophotos'
 tagnames: balloon-mapping, kite-aerial-photography, drones, aerial-photography, aerial-mapping, aerial-photos, code, northeast, uas, opendronemap, suas
 author: smathermather
 path: /notes/smathermather/12-23-2014/opendronemap-open-source-toolkit-for-processing-civilian-drone-imagery-gets-orthophotos.md

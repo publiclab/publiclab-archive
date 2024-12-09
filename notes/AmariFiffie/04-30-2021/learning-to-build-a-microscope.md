@@ -1,5 +1,5 @@
 ---
-title: Learning To Build a Microscope 
+title: 'Learning To Build a Microscope '
 tagnames: first-time-poster, zoom:6, lat:30.043257, lon:-90.560086
 author: AmariFiffie
 path: /notes/AmariFiffie/04-30-2021/learning-to-build-a-microscope.md

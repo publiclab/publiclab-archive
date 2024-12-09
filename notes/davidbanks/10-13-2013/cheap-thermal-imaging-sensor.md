@@ -1,5 +1,5 @@
 ---
-title: Cheap Thermal Imaging Sensor
+title: 'Cheap Thermal Imaging Sensor'
 tagnames: thermal-flashlight, thermal-imaging, replication:625
 author: davidbanks
 path: /notes/davidbanks/10-13-2013/cheap-thermal-imaging-sensor.md

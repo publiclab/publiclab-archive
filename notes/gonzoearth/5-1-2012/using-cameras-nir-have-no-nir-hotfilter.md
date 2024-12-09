@@ -1,5 +1,5 @@
 ---
-title: Using cameras for NIR that have no buit-in NIR hotfilter
+title: 'Using cameras for NIR that have no buit-in NIR hotfilter'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, infragram, gopro, camera-selection, mini-camera, activity:mini-camera
 author: gonzoearth
 path: /notes/gonzoearth/5-1-2012/using-cameras-nir-have-no-nir-hotfilter.md

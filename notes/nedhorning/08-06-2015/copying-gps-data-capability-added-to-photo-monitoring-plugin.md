@@ -1,5 +1,5 @@
 ---
-title: Copying GPS data capability added to photo monitoring plugin
+title: 'Copying GPS data capability added to photo monitoring plugin'
 tagnames: gps, photomonitoring, geo-tagging
 author: nedhorning
 path: /notes/nedhorning/08-06-2015/copying-gps-data-capability-added-to-photo-monitoring-plugin.md

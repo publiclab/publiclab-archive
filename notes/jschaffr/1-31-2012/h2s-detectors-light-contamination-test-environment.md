@@ -1,5 +1,5 @@
 ---
-title: H2S Detectors - Light Contamination Test Environment
+title: 'H2S Detectors - Light Contamination Test Environment'
 tagnames: 
 author: jschaffr
 path: /notes/jschaffr/1-31-2012/h2s-detectors-light-contamination-test-environment.md

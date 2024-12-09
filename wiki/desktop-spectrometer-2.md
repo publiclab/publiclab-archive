@@ -1,5 +1,5 @@
 ---
-title: desktop spectrometer 2
+title: 'desktop spectrometer 2'
 tagnames: prompt:spectrometry
 author: mathew
 path: /wiki/desktop-spectrometer-2.md

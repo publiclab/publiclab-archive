@@ -1,5 +1,5 @@
 ---
-title: How Grassroots Mapping Got Started: An Intro to Barataria Bay
+title: 'How Grassroots Mapping Got Started: An Intro to Barataria Bay'
 tagnames: barataria-bay, grassrootsmapping, barataria, about, style:fancy, location:blurred, lat:29, lon:-89
 author: mollydanielsson
 path: /wiki/how-grassroots-mapping-got-started.md

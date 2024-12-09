@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNC Charlotte
+title: 'MapKnitter map of UNC Charlotte'
 tagnames: mapknitter, lat:35.30736827, lon:-80.7337403297
 author: LindsaySmith435
 path: /notes/LindsaySmith435/10-04-2017/mapknitter-map-of-unc-charlotte.md

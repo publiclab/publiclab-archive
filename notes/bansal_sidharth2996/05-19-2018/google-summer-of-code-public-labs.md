@@ -1,5 +1,5 @@
 ---
-title: GOOGLE SUMMER OF CODE & PUBLIC LABS
+title: 'GOOGLE SUMMER OF CODE & PUBLIC LABS'
 tagnames: 
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/05-19-2018/google-summer-of-code-public-labs.md

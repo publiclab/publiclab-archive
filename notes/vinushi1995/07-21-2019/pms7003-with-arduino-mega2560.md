@@ -1,5 +1,5 @@
 ---
-title: PMS7003 with Arduino MEGA2560
+title: 'PMS7003 with Arduino MEGA2560'
 tagnames: arduino, question:air-quality, include, pm2.5, first-time-poster, pms7003
 author: vinushi1995
 path: /notes/vinushi1995/07-21-2019/pms7003-with-arduino-mega2560.md

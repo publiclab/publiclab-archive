@@ -1,5 +1,5 @@
 ---
-title: What do I do with microplastics after being collected?
+title: 'What do I do with microplastics after being collected?'
 tagnames: water-quality, question:general, question:microplastics, microplastics, first-time-poster
 author: lukoyedith
 path: /notes/lukoyedith/04-13-2021/what-do-i-do-with-microplastics-after-being-collected.md

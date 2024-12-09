@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: Pollution analysis on google maps
+title: 'SoC proposal: Pollution analysis on google maps'
 tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, first-time-poster
 author: sid2111995
 path: /notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-google-maps.md

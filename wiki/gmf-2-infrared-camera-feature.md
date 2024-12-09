@@ -1,5 +1,5 @@
 ---
-title: GMF 2 infrared camera feature
+title: 'GMF 2 infrared camera feature'
 tagnames: near-infrared-camera
 author: warren
 path: /wiki/gmf-2-infrared-camera-feature.md

@@ -1,5 +1,5 @@
 ---
-title: What is global warming effect on natural disaster? 
+title: 'What is global warming effect on natural disaster? '
 tagnames: gulf-coast, hurricane, climate-change, global-climate-change, question:general, general, disaster-resilience, first-time-poster, with:amallozzi, natural-disaster, flash-flood, question:flash-flood, question:climate-change
 author: cspiller017_stu
 path: /notes/cspiller017_stu/02-14-2020/what-is-global-warming-effect-on-natural-disaster.md

@@ -1,5 +1,5 @@
 ---
-title: Question:Can diy infrared imaging be used for natural gas leaks as the EDF did in So California
+title: 'Question:Can diy infrared imaging be used for natural gas leaks as the EDF did in So California'
 tagnames: question:infrared
 author: marlokeno
 path: /notes/marlokeno/12-30-2015/question-can-diy-infrared-imaging-be-used-for-natural-gas-leaks-as-the-edf-did-in-so-california.md

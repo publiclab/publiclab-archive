@@ -1,5 +1,5 @@
 ---
-title: Effective Cooling Methods In Refrigerators 
+title: 'Effective Cooling Methods In Refrigerators '
 tagnames: thermal-photography, thermal-flashlight, northeastern-university, thermal-imaging, northeastern, insulation, heat, replication:625
 author: tapetenttm
 path: /notes/tapetenttm/12-03-2014/effective-cooling-methods-in-refrigerators.md

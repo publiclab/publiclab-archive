@@ -1,5 +1,5 @@
 ---
-title: What diagnostic tools do you use when air sampling? 
+title: 'What diagnostic tools do you use when air sampling? '
 tagnames: air-quality, question:general, general, bucket-monitor, question:bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/06-23-2020/what-diagnostic-tools-do-you-use-when-air-sampling.md

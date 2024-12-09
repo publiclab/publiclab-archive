@@ -1,5 +1,5 @@
 ---
-title: Ignite Philly 13
+title: 'Ignite Philly 13'
 tagnames: philadelphia, event
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/02-13-2014/ignite-philly-13.md

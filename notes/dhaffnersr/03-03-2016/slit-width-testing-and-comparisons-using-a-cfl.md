@@ -1,5 +1,5 @@
 ---
-title: Slit width testing and Comparisons using a CFL
+title: 'Slit width testing and Comparisons using a CFL'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/03-03-2016/slit-width-testing-and-comparisons-using-a-cfl.md

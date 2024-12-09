@@ -1,5 +1,5 @@
 ---
-title: Dollar General test
+title: 'Dollar General test'
 tagnames: 
 author: EMLangsurveying
 path: /notes/EMLangsurveying/04-28-2016/dollar-general-test.md

@@ -1,5 +1,5 @@
 ---
-title: Recent updates on PublicLab.org, Google Summer of Code
+title: 'Recent updates on PublicLab.org, Google Summer of Code'
 tagnames: website, software, gsoc, developers, coding, wwg, gsoc-2016
 author: warren
 path: /notes/warren/05-27-2016/recent-updates-on-publiclab-org-google-summer-of-code.md

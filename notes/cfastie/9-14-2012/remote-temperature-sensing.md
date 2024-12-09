@@ -1,5 +1,5 @@
 ---
-title: Remote temperature sensing
+title: 'Remote temperature sensing'
 tagnames: balloon-mapping, kite-mapping, hydrogen-sulfide-sensing, as220, temperature, leaffest, jeenode, h2s, compost, data-logging, cosm
 author: cfastie
 path: /notes/cfastie/9-14-2012/remote-temperature-sensing.md

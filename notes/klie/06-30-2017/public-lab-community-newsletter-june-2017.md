@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: June 2017
+title: 'Public Lab Community Newsletter: June 2017'
 tagnames: balloon-mapping, kite-mapping, newsletter, mini, kite, kickstarter, epa, news, balloon, survey, openhour, mini-kite-kit, mini-balloon-kit, edgi, kickstarter-gold
 author: klie
 path: /notes/klie/06-30-2017/public-lab-community-newsletter-june-2017.md

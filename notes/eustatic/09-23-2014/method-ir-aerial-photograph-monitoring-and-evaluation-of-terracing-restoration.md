@@ -1,5 +1,5 @@
 ---
-title: [Method] IR Aerial photograph monitoring and evaluation of terracing restoration
+title: '[Method] IR Aerial photograph monitoring and evaluation of terracing restoration'
 tagnames: gulf-coast, balloon-mapping, propublica, washustlouis, washu-stlouis, response:11137
 author: eustatic
 path: /09-23-2014/method-ir-aerial-photograph-monitoring-and-evaluation-of-terracing-restoration.md

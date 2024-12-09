@@ -1,5 +1,5 @@
 ---
-title: Community Microscope Stage Assembly Instructions
+title: 'Community Microscope Stage Assembly Instructions'
 tagnames: with:warren, with:stevie, with:liz, microscope, with:bronwen, activity:microscope, activity:community-microscope, assembly:community-microscope
 author: mimiss
 path: /notes/mimiss/09-05-2019/community-microscope-stage-assembly-instructions.md

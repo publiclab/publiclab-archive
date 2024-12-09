@@ -1,5 +1,5 @@
 ---
-title: OTK Proto3 Analysis
+title: 'OTK Proto3 Analysis'
 tagnames: spectrometer, oil, laser, oil-testing-kit, barnstar:empiricism, otk, otkbeta, dilution, wow, response:12593, grading-oils
 author: stoft
 path: /notes/stoft/01-26-2016/otk-proto3-analysis.md

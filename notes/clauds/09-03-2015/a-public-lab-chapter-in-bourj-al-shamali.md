@@ -1,5 +1,5 @@
 ---
-title: A Public Lab Chapter in Bourj Al Shamali? 
+title: 'A Public Lab Chapter in Bourj Al Shamali? '
 tagnames: palestine, chapters, barnstar:basic, lebanon, middle-east, refugees, bourjalshamali
 author: clauds
 path: /notes/clauds/09-03-2015/a-public-lab-chapter-in-bourj-al-shamali.md

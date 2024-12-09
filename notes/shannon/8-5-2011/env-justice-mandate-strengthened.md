@@ -1,5 +1,5 @@
 ---
-title: Env. Justice mandate strengthened
+title: 'Env. Justice mandate strengthened'
 tagnames: epa, law-and-policy
 author: Shannon
 path: /notes/shannon/8-5-2011/env-justice-mandate-strengthened.md

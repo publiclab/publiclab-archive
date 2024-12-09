@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of St Matthews Satellite Imagery Animal kingdom 
+title: 'MapKnitter map of St Matthews Satellite Imagery Animal kingdom '
 tagnames: mapknitter, lat:34.0539038849, lon:-118.5403883457
 author: natdep
 path: /notes/natdep/11-15-2015/mapknitter-map-of-st-matthews-satellite-imagery-animal-kingdom.md

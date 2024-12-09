@@ -1,5 +1,5 @@
 ---
-title: Microscopes
+title: 'Microscopes'
 tagnames: microscope, method, microscopes, community-microscope
 author: warren
 path: /wiki/microscopes.md

@@ -1,5 +1,5 @@
 ---
-title: Riffle: one-sided pcb w/ breakaway mounting tabs
+title: 'Riffle: one-sided pcb w/ breakaway mounting tabs'
 tagnames: riffle
 author: donblair
 path: /notes/donblair/11-02-2015/riffle-one-sided-pcb-w-breakaway-mounting-tabs.md

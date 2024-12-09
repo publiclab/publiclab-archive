@@ -1,5 +1,5 @@
 ---
-title: Riffle and Thermsistor
+title: 'Riffle and Thermsistor'
 tagnames: riffle, riffle-beta, activity:riffle, thermsistor
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-20-2016/riffle-and-thermsistor.md

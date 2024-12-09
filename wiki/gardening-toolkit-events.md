@@ -1,5 +1,5 @@
 ---
-title: gardening-toolkit-events
+title: 'gardening-toolkit-events'
 tagnames: garden, elp, garden-toolkit
 author: liz
 path: /wiki/gardening-toolkit-events.md

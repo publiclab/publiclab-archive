@@ -1,5 +1,5 @@
 ---
-title: Spectrometry Sample Extraction at the Parts & Crafts Toolshed-Raising
+title: 'Spectrometry Sample Extraction at the Parts & Crafts Toolshed-Raising'
 tagnames: spectrometer, boston, partsandcrafts, oil, fluorescence, somerville, massachusetts, sample-prep, parts-and-crafts, response:9304, mineral-oil, methanol, extraction, response:9750, response:9820, oil-testing-kit, northeast, activity:spectrometry-sampling
 author: warren
 path: /notes/warren/12-11-2013/spectrometry-sample-extraction-at-the-parts-crafts-toolshed-raising.md

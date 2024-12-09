@@ -1,5 +1,5 @@
 ---
-title: Mapping Curriculum: Research Applications
+title: 'Mapping Curriculum: Research Applications'
 tagnames: 
 author: gonzoearth
 path: /wiki/mapping-curriculum-research-applications.md

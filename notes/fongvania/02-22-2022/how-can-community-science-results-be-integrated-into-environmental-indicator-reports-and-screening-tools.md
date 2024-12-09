@@ -1,5 +1,5 @@
 ---
-title: How can community science results be integrated into environmental indicator reports and screening tools?
+title: 'How can community science results be integrated into environmental indicator reports and screening tools?'
 tagnames: question:general, general, environmental-tools, environmental-monitoring
 author: fongvania
 path: /notes/fongvania/02-22-2022/how-can-community-science-results-be-integrated-into-environmental-indicator-reports-and-screening-tools.md

@@ -1,5 +1,5 @@
 ---
-title: Green Slice:  shots from kite lesson in Mr Morton's class
+title: 'Green Slice:  shots from kite lesson in Mr Morton's class'
 tagnames: gulf-coast, kite-mapping, education
 author: eustatic
 path: /3-7-2013/green-slice-shots-kite-lesson-mr-mortons-class-0.md

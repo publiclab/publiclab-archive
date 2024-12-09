@@ -1,5 +1,5 @@
 ---
-title: APT Satellite Station
+title: 'APT Satellite Station'
 tagnames: satellite-imagery, antenna, open-weather, amplifier
 author: nearsys
 path: /notes/nearsys/08-02-2020/apt-satellite-station.md

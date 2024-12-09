@@ -1,5 +1,5 @@
 ---
-title: Portable Spectrometer with Light Source Development
+title: 'Portable Spectrometer with Light Source Development'
 tagnames: 
 author: silverhammer
 path: /wiki/portable-spectrometer-with-light-source-development.md

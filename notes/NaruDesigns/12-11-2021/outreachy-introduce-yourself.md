@@ -1,5 +1,5 @@
 ---
-title: Outreachy - Introduce Yourself
+title: 'Outreachy - Introduce Yourself'
 tagnames: open-source, outreachy
 author: NaruDesigns
 path: /notes/NaruDesigns/12-11-2021/outreachy-introduce-yourself.md

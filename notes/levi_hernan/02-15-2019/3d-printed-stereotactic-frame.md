@@ -1,5 +1,5 @@
 ---
-title: 3D Printed Stereotactic Frame
+title: '3D Printed Stereotactic Frame'
 tagnames: first-time-poster
 author: levi_hernan
 path: /notes/levi_hernan/02-15-2019/3d-printed-stereotactic-frame.md

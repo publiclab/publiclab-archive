@@ -1,5 +1,5 @@
 ---
-title: Does anyone have any concerns regarding the water quality in New Orleans?
+title: 'Does anyone have any concerns regarding the water quality in New Orleans?'
 tagnames: new-orleans, water-quality, question:water-quality, question:new-orleans, formosaplastics
 author: stevie
 path: /notes/stevie/02-24-2021/does-anyone-have-any-concerns-regarding-the-water-quality-in-new-orleans.md

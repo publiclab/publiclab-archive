@@ -1,5 +1,5 @@
 ---
-title: better adjustable camera mount?
+title: 'better adjustable camera mount?'
 tagnames: 
 author: sonofaquark
 path: /notes/sonofaquark/4-23-2013/better-adjustable-camera-mount.md

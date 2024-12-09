@@ -1,5 +1,5 @@
 ---
-title: Edwight and Shumate 3/4/22
+title: 'Edwight and Shumate 3/4/22'
 tagnames: drones, coal-mining, coal, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/03-04-2022/edwight-and-shumate-3-4-22.md

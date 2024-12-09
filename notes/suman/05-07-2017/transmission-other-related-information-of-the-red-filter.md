@@ -1,5 +1,5 @@
 ---
-title: Transmission & other related information of the Red Filter
+title: 'Transmission & other related information of the Red Filter'
 tagnames: infragram-filters, mobius, question:infragram, actioncam
 author: suman
 path: /notes/suman/05-07-2017/transmission-other-related-information-of-the-red-filter.md

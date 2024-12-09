@@ -1,5 +1,5 @@
 ---
-title: Question: Range
+title: 'Question: Range'
 tagnames: question:spectrometry
 author: Gasam
 path: /notes/Gasam/07-15-2015/question-range.md

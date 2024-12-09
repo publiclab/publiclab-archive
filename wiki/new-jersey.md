@@ -1,5 +1,5 @@
 ---
-title: new-jersey
+title: 'new-jersey'
 tagnames: new-jersey, events:new-jersey, northeast, parent:northeast
 author: liz
 path: /wiki/new-jersey.md

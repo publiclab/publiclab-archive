@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Lab 5 Miranda Griffin
+title: 'MapKnitter map of Lab 5 Miranda Griffin'
 tagnames: 
 author: mgriff85
 path: /notes/mgriff85/10-04-2016/mapknitter-map-of-lab-5-miranda-griffin.md

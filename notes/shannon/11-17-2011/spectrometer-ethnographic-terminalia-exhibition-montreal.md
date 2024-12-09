@@ -1,5 +1,5 @@
 ---
-title: Spectrometer at Ethnographic Terminalia exhibition, Montreal
+title: 'Spectrometer at Ethnographic Terminalia exhibition, Montreal'
 tagnames: 
 author: Shannon
 path: /notes/shannon/11-17-2011/spectrometer-ethnographic-terminalia-exhibition-montreal.md

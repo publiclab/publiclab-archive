@@ -1,5 +1,5 @@
 ---
-title: Turbidity Sensor
+title: 'Turbidity Sensor'
 tagnames: water-quality, turbidity, optical-sensor, barnstar:basic, waterquality, activity:turbidity, sensor-enclosures, water-sensors
 author: bhickman
 path: /notes/bhickman/05-09-2016/turbidity-sensor.md

@@ -1,5 +1,5 @@
 ---
-title: Sprint Fellowship Application: Aquatic hydrocarbon sample preparation for Oil Testing Kit
+title: 'Sprint Fellowship Application: Aquatic hydrocarbon sample preparation for Oil Testing Kit'
 tagnames: oil-testing-kit, fellows
 author: Shannon
 path: /notes/Shannon/05-13-2015/sprint-fellowship-application-aquatic-hydrocarbon-sample-preparation-for-oil-testing-kit.md

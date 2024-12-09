@@ -1,5 +1,5 @@
 ---
-title: Ideas for a DIY + Maker class for 6th graders
+title: 'Ideas for a DIY + Maker class for 6th graders'
 tagnames: education, diy, curriculum, pollution, makerspaces, maker, coqui, microscope, question:general, school, microscopes, question:education, babylegs, plastic, 6thgrade
 author: Kmckeown
 path: /notes/Kmckeown/08-22-2018/ideas-for-a-diy-maker-class-for-6th-graders.md

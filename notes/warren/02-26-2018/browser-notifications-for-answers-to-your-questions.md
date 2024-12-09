@@ -1,5 +1,5 @@
 ---
-title: Browser notifications for answers to your questions?
+title: 'Browser notifications for answers to your questions?'
 tagnames: answered, ui, question:ui, notifications
 author: warren
 path: /notes/warren/02-26-2018/browser-notifications-for-answers-to-your-questions.md

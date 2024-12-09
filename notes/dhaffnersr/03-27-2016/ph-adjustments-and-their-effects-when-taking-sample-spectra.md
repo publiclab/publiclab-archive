@@ -1,5 +1,5 @@
 ---
-title: Ph adjustments and their effects when taking sample spectra
+title: 'Ph adjustments and their effects when taking sample spectra'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/03-27-2016/ph-adjustments-and-their-effects-when-taking-sample-spectra.md

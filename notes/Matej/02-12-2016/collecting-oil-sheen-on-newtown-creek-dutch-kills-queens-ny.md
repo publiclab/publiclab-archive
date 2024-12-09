@@ -1,5 +1,5 @@
 ---
-title: Collecting Oil Sheen on Newtown Creek, Dutch Kills, Queens, NY
+title: 'Collecting Oil Sheen on Newtown Creek, Dutch Kills, Queens, NY'
 tagnames: new-york-city, newtown-creek, oil-testing-kit, sheen, otk, newtown-creek-alliance, greenpoint, with:nameiswillis, oil-sheen, oil-and-gas
 author: Matej
 path: /notes/Matej/02-12-2016/collecting-oil-sheen-on-newtown-creek-dutch-kills-queens-ny.md

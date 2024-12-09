@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (530 Kinsley Ave)
+title: 'Art in Ruins (530 Kinsley Ave)'
 tagnames: hidden:response, zoom:14, unearthing-pvd-stories, lat:41.82701212, lon:-71.43392676, lat:41.827012, lon:-71.433926, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/art-in-ruins-530-kinsley-ave.md

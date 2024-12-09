@@ -1,5 +1,5 @@
 ---
-title: Uploaded pictures always stays vertical
+title: 'Uploaded pictures always stays vertical'
 tagnames: spectralworkbench, question:website
 author: aemilius89
 path: /notes/aemilius89/12-12-2018/uploaded-pictures-always-stays-vertical.md

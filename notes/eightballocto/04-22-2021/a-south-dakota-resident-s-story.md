@@ -1,5 +1,5 @@
 ---
-title: A South Dakota resident's story
+title: 'A South Dakota resident's story'
 tagnames: environment, birds, blog-submission, zoom:10, personal-story, lat:44.370986, lon:-100.327148, south-dakota
 author: eightballocto
 path: /notes/eightballocto/04-22-2021/a-south-dakota-resident-s-story.md

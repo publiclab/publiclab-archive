@@ -1,5 +1,5 @@
 ---
-title: How can I measure the wavelength of a red LED?
+title: 'How can I measure the wavelength of a red LED?'
 tagnames: general, first-time-poster
 author: codificadesignstudio
 path: /notes/codificadesignstudio/05-07-2020/how-can-i-measure-the-wavelength-of-a-red-led.md

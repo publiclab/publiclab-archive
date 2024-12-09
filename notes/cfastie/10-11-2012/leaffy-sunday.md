@@ -1,5 +1,5 @@
 ---
-title: LEAFFY Sunday
+title: 'LEAFFY Sunday'
 tagnames: kite-mapping, events, leaffest, leaffest2012, gps, pvos
 author: cfastie
 path: /notes/cfastie/10-11-2012/leaffy-sunday.md

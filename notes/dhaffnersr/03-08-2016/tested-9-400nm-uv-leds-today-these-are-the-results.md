@@ -1,5 +1,5 @@
 ---
-title: Tested 9 400nm UV LEDs today these are the results
+title: 'Tested 9 400nm UV LEDs today these are the results'
 tagnames: barnstar:empiricism
 author: dhaffnersr
 path: /notes/dhaffnersr/03-08-2016/tested-9-400nm-uv-leds-today-these-are-the-results.md

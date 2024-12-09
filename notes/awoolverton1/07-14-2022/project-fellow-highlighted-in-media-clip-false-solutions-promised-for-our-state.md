@@ -1,5 +1,5 @@
 ---
-title: Community Air Monitoring Highlighted in Media Clip; False Solutions Promised for Our State
+title: 'Community Air Monitoring Highlighted in Media Clip; False Solutions Promised for Our State'
 tagnames: blog, zoom:6, with:travislondon, formosaplastics, lat:30.017929, lon:-90.791322
 author: awoolverton1
 path: /notes/awoolverton1/07-14-2022/project-fellow-highlighted-in-media-clip-false-solutions-promised-for-our-state.md

@@ -1,5 +1,5 @@
 ---
-title:  3D printed mini spectrometer
+title: ' 3D printed mini spectrometer'
 tagnames: spectrometer, spectrometry, intensity-calibration, absorption, absorption-spectrometry, upgrade:spectrometry, upgrade:foldable-spec, vis-spectroscopy, 3d-print
 author: rthalman
 path: /notes/rthalman/01-19-2017/3d-printed-mini-spectrometer.md

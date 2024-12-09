@@ -1,5 +1,5 @@
 ---
-title: The  IMC Lab +Gallery
+title: 'The  IMC Lab +Gallery'
 tagnames: new-york-city, imc, nyc
 author: imclab
 path: /notes/imclab/08-09-2013/the-imc-lab-gallery.md

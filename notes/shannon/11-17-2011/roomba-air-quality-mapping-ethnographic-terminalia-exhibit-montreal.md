@@ -1,5 +1,5 @@
 ---
-title: Roomba air quality mapping at Ethnographic Terminalia exhibit in Montreal
+title: 'Roomba air quality mapping at Ethnographic Terminalia exhibit in Montreal'
 tagnames: 
 author: Shannon
 path: /notes/shannon/11-17-2011/roomba-air-quality-mapping-ethnographic-terminalia-exhibit-montreal.md

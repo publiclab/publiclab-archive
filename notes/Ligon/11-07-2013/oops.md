@@ -1,5 +1,5 @@
 ---
-title: Duplicate accounts
+title: 'Duplicate accounts'
 tagnames: troubleshooting
 author: Ligon
 path: /notes/Ligon/11-07-2013/oops.md

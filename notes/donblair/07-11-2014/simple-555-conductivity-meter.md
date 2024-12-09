@@ -1,5 +1,5 @@
 ---
-title: Simple 555 conductivity meter
+title: 'Simple 555 conductivity meter'
 tagnames: arduino, water-quality, thermal-fishing-bob, conductivity, 555, openwater, response:10589, response:10538
 author: donblair
 path: /notes/donblair/07-11-2014/simple-555-conductivity-meter.md

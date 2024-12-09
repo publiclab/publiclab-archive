@@ -1,5 +1,5 @@
 ---
-title: Can I use an NIR LED to help make weeds (or plants) stand out even more with an NIR camera?
+title: 'Can I use an NIR LED to help make weeds (or plants) stand out even more with an NIR camera?'
 tagnames: near-infrared-camera, nir, infrared, infragram, answered, question:general
 author: robotfarms
 path: /notes/robotfarms/10-15-2017/can-i-use-an-nir-led-to-help-make-weeds-or-plants-stand-out-even-more-with-an-nir-camera.md

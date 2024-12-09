@@ -1,5 +1,5 @@
 ---
-title: Summer of Code
+title: 'Summer of Code'
 tagnames: website, software, gsoc, web, parent:developers, wwg, soc, parent:website
 author: warren
 path: /wiki/summer-of-code.md

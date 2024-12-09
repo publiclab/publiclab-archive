@@ -1,5 +1,5 @@
 ---
-title: Experiments with kites, balloons, and infrared photography at FabLab Lima
+title: 'Experiments with kites, balloons, and infrared photography at FabLab Lima'
 tagnames: lima, peru, kite-balloon-hybrid, infrared, diy-balloon, south-america
 author: warren
 path: /notes/warren/05-01-2018/experiments-with-kites-balloons-and-infrared-photography-at-fablab-lima.md

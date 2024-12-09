@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Giant Salvinia Bayou st John Winter 2019
+title: 'MapKnitter map of Giant Salvinia Bayou st John Winter 2019'
 tagnames: mapknitter, bsj, lat:30.011218, lon:-90.085776, lat:29.999422, lon:-90.085401, salinitycontrol
 author: eustatic
 path: /02-18-2019/mapknitter-map-of-giant-salvinia-bayou-st-john-winter-2019.md

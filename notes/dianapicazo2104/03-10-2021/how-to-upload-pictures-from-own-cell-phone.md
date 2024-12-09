@@ -1,5 +1,5 @@
 ---
-title: how to upload pictures from own cell phone 
+title: 'how to upload pictures from own cell phone '
 tagnames: spectral-workbench, question:spectral-workbench, first-time-poster
 author: dianapicazo2104
 path: /notes/dianapicazo2104/03-10-2021/how-to-upload-pictures-from-own-cell-phone.md

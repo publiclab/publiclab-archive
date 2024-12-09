@@ -1,5 +1,5 @@
 ---
-title: Raspberry + NoIR cam + Blue filter
+title: 'Raspberry + NoIR cam + Blue filter'
 tagnames: ndvi, infrared, raspberry-pi, raspberry, pi-noir, raspberry-pi-infragram, activity:raspberry-pi-infragram
 author: carolccarvalho
 path: /notes/carolccarvalho/07-15-2016/raspberry-noir-cam-blue-filter.md

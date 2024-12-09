@@ -1,5 +1,5 @@
 ---
-title: but for the installation of the red / blue filter on camera, should the latter have infrared?
+title: 'but for the installation of the red / blue filter on camera, should the latter have infrared?'
 tagnames: infrared-camera-conversion, question:infrared-camera-conversion, first-time-poster
 author: lucalink07
 path: /notes/lucalink07/06-12-2019/but-for-the-installation-of-the-red-blue-filter-on-camera-should-the-latter-have-infrared.md

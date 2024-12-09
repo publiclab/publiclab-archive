@@ -1,5 +1,5 @@
 ---
-title: NYC: Panel talk on citizen science
+title: 'NYC: Panel talk on citizen science'
 tagnames: new-york-city, events:new-york-city
 author: liz
 path: /notes/liz/3-28-2013/nyc-panel-talk-citizen-science.md

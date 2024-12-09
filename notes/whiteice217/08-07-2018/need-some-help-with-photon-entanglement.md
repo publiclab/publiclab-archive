@@ -1,5 +1,5 @@
 ---
-title: Need some help with photon entanglement 
+title: 'Need some help with photon entanglement '
 tagnames: physics, question:general, communication, photons, entanglement, computers, question:physics
 author: whiteice217
 path: /notes/whiteice217/08-07-2018/need-some-help-with-photon-entanglement.md

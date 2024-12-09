@@ -1,5 +1,5 @@
 ---
-title: Frac Sand Tools for Action Event! 
+title: 'Frac Sand Tools for Action Event! '
 tagnames: event, wisconsin, air-quality, dust, riffle, silica, midwest, event:rsvp, mid-west, rsvp:marlokeno, date:08-04-2015, rsvp:abiya
 author: stevie
 path: /notes/stevie/07-20-2015/frac-sand-tools-for-action-event.md

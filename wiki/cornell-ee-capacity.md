@@ -1,5 +1,5 @@
 ---
-title: cornell-ee-capacity
+title: 'cornell-ee-capacity'
 tagnames: 
 author: liz
 path: /wiki/cornell-ee-capacity.md

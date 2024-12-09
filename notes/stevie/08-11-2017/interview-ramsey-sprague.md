@@ -1,5 +1,5 @@
 ---
-title: Interview: Ramsey Sprague
+title: 'Interview: Ramsey Sprague'
 tagnames: interview, mobile, blog, grassroots, environmental-justice, community-organizing, interview-series, mejac, africatown, alabama, series:community-interviews
 author: stevie
 path: /notes/stevie/08-11-2017/interview-ramsey-sprague.md

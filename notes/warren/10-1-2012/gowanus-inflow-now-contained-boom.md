@@ -1,5 +1,5 @@
 ---
-title: Gowanus inflow now contained with boom?
+title: 'Gowanus inflow now contained with boom?'
 tagnames: gowanus, plume, boom, watchdog
 author: warren
 path: /notes/warren/10-1-2012/gowanus-inflow-now-contained-boom.md

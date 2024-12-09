@@ -1,5 +1,5 @@
 ---
-title: EcoHack in four global locations
+title: 'EcoHack in four global locations'
 tagnames: new-york-city, ecohack, san-francisco, spain, norcal, madrid, event, brasil, sao-paulo
 author: liz
 path: /notes/liz/05-06-2014/ecohack-in-four-global-locations.md

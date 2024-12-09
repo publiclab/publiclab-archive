@@ -1,5 +1,5 @@
 ---
-title: What's the relationship between temp and dewpoint?
+title: 'What's the relationship between temp and dewpoint?'
 tagnames: weather, weather-station, humidity, general, question:weather, question:humidity
 author: kgradow1
 path: /notes/kgradow1/06-12-2020/what-s-the-relationship-between-temp-and-dewpoint.md

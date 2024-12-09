@@ -1,5 +1,5 @@
 ---
-title: GSoC Proposal: Card UI/UX Implementation
+title: 'GSoC Proposal: Card UI/UX Implementation'
 tagnames: design, gsoc, rgsoc, ui, gsoc-2018, ui-ux, card-ui, frontend, first-time-poster
 author: amitsin6h
 path: /notes/amitsin6h/03-03-2018/gsoc-proposal-card-ui-ux-implementation.md

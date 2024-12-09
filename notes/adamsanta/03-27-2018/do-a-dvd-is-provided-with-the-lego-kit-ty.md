@@ -1,5 +1,5 @@
 ---
-title: Do a DVD is provided with the LEGO kit ? ty !
+title: 'Do a DVD is provided with the LEGO kit ? ty !'
 tagnames: spectrometry, lego, question:spectrometry, dvd, question:general, question:kits, question:lego-spectrometer, lego-spectrometer
 author: adamsanta
 path: /notes/adamsanta/03-27-2018/do-a-dvd-is-provided-with-the-lego-kit-ty.md

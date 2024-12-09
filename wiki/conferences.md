@@ -1,5 +1,5 @@
 ---
-title: Conferences
+title: 'Conferences'
 tagnames: community, conferences, organizers
 author: warren
 path: /wiki/conferences.md

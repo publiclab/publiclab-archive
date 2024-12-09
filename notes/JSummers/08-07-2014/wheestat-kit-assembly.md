@@ -1,5 +1,5 @@
 ---
-title: WheeStat kit assembly
+title: 'WheeStat kit assembly'
 tagnames: water-quality, potentiostat, wheestat, response:10658, response:10627
 author: JSummers
 path: /notes/JSummers/08-07-2014/wheestat-kit-assembly.md

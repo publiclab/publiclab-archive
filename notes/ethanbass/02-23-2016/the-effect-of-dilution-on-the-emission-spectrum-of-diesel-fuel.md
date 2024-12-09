@@ -1,5 +1,5 @@
 ---
-title: The effect of dilution on the emission spectrum of diesel fuel 
+title: 'The effect of dilution on the emission spectrum of diesel fuel '
 tagnames: spectrometer, oil, oil-testing-kit, barnstar:basic, barnstar:empiricism, dilution, diesel
 author: ethanbass
 path: /notes/ethanbass/02-23-2016/the-effect-of-dilution-on-the-emission-spectrum-of-diesel-fuel.md

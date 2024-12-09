@@ -1,5 +1,5 @@
 ---
-title: What's the best material for observing dust (PM) accumulation? 
+title: 'What's the best material for observing dust (PM) accumulation? '
 tagnames: pm, question:passive-pm, question:pm, question:particulate-matter, question:sticky-pads, with:ramseysprague
 author: stevie
 path: /notes/stevie/05-29-2018/what-s-the-best-material-for-observing-dust-pm-accumulation.md

@@ -1,5 +1,5 @@
 ---
-title: Smells that Kill: How to Identify Odours
+title: 'Smells that Kill: How to Identify Odours'
 tagnames: air-quality, oil-testing, bucket-brigade, africa, oilandgas, odor, activity:air-quality, activity:oil-testing, activity:odor, odor-logging, activity:odor-logging, zoom:6, bucket-monitor, activity:bucket-monitor, lat:-29, lon:31, south-africa, durban
 author: kgradow1
 path: /notes/kgradow1/10-31-2020/smells-that-kill-how-to-identify-odours.md

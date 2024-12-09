@@ -1,5 +1,5 @@
 ---
-title: Bioblitz Event: MN Land and Manoomin Protection Proyect 
+title: 'Bioblitz Event: MN Land and Manoomin Protection Proyect '
 tagnames: event, lat:47, zoom:7, fellowship-teams, wild-rice, huber-osb-factory, talon-rio-tinto-mine, mn-land-manoomin-protection, lon:-93, great-lakes-region, manoomin, anishinaabe, ojibwe, treaty-rights
 author: michelleiL
 path: /notes/michelleiL/08-31-2022/bioblitz-event-mn-land-and-manoomin-protection-proyect.md

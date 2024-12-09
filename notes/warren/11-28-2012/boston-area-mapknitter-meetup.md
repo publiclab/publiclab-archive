@@ -1,5 +1,5 @@
 ---
-title: Boston-area MapKnitter meetup
+title: 'Boston-area MapKnitter meetup'
 tagnames: balloon-mapping, kite-mapping, mapknitter, meetup, event
 author: warren
 path: /notes/warren/11-28-2012/boston-area-mapknitter-meetup.md

@@ -1,5 +1,5 @@
 ---
-title: sandbox-climate-change
+title: 'sandbox-climate-change'
 tagnames: 
 author: bhamster
 path: /wiki/sandbox-climate-change.md

@@ -1,5 +1,5 @@
 ---
-title: Tool template
+title: 'Tool template'
 tagnames: 
 author: warren
 path: /wiki/tool-template.md

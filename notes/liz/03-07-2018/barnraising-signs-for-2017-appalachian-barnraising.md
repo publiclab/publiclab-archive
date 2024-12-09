@@ -1,5 +1,5 @@
 ---
-title: Signs for 2017 Appalachian barnraising
+title: 'Signs for 2017 Appalachian barnraising'
 tagnames: barnraising, replication:15881
 author: liz
 path: /notes/liz/03-07-2018/barnraising-signs-for-2017-appalachian-barnraising.md

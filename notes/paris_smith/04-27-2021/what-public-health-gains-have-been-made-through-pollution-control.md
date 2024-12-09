@@ -1,5 +1,5 @@
 ---
-title: What public health gains have been made through pollution control?
+title: 'What public health gains have been made through pollution control?'
 tagnames: air, quality, question:general, general, first-time-poster, first-timeposter
 author: paris_smith
 path: /notes/paris_smith/04-27-2021/what-public-health-gains-have-been-made-through-pollution-control.md

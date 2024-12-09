@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST Fungal Fun
+title: 'LEAFFEST Fungal Fun'
 tagnames: near-infrared-camera, vermont, leaffest, infragram, infrablue, leaffest2013, response:9302, response:9305
 author: cfastie
 path: /notes/cfastie/09-10-2013/leaffest-fungal-fun.md

@@ -1,5 +1,5 @@
 ---
-title: CHDK Scripting
+title: 'CHDK Scripting'
 tagnames: balloon-mapping, triggering, chdk, camera-triggering, camera-scripting, activity:camera-triggering, activity:chdk
 author: nicholas
 path: /notes/nicholas/12-05-2013/chdk-scripting.md

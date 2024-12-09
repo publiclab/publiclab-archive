@@ -1,5 +1,5 @@
 ---
-title: Calculating Pixel Resolution
+title: 'Calculating Pixel Resolution'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/5-25-2011/calculating-pixel-resolution.md

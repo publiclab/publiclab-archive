@@ -1,5 +1,5 @@
 ---
-title: a history of crediting contributions
+title: 'a history of crediting contributions'
 tagnames: balloon-mapping, spectrometer, community, gmf, mapping, design, forum, history, attribution, barnstar:basic, grassroots, contributing, theory, contributions
 author: mathew
 path: /notes/mathew/03-26-2015/a-history-of-crediting-contributions.md

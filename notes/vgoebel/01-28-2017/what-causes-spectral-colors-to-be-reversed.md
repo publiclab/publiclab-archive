@@ -1,5 +1,5 @@
 ---
-title: what causes spectral colors to be reversed?  
+title: 'what causes spectral colors to be reversed?  '
 tagnames: spectrometer, documentation, help, faq, question:spectrometry, absorption-spectrometry, question:general
 author: vgoebel
 path: /notes/vgoebel/01-28-2017/what-causes-spectral-colors-to-be-reversed.md

@@ -1,5 +1,5 @@
 ---
-title: 405nm LED vs Laser
+title: '405nm LED vs Laser'
 tagnames: spectrometer, laser, led, oil-testing-kit, 405nm, otk, uv-laser, uv-laser-405nm
 author: stoft
 path: /notes/stoft/02-23-2016/405nm-led-vs-laser.md

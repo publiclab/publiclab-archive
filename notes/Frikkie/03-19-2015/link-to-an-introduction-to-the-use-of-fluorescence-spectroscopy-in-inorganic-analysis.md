@@ -1,5 +1,5 @@
 ---
-title: Link to: An introduction to the use of fluorescence spectroscopy in inorganic analysis 
+title: 'Link to: An introduction to the use of fluorescence spectroscopy in inorganic analysis '
 tagnames: spectrometer, fluorescence, research, oil-testing-kit, inorganic, reference
 author: Frikkie
 path: /notes/Frikkie/03-19-2015/link-to-an-introduction-to-the-use-of-fluorescence-spectroscopy-in-inorganic-analysis.md

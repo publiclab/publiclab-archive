@@ -1,5 +1,5 @@
 ---
-title: Light bulb spectrum fchslamp
+title: 'Light bulb spectrum fchslamp'
 tagnames: hidden:response, response:13586
 author: mpmoberly
 path: /notes/mpmoberly/10-19-2016/light-bulb-spectrum-fchslamp.md

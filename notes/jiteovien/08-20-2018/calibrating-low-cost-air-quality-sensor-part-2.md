@@ -1,5 +1,5 @@
 ---
-title: Calibrating low cost air quality sensor part 2
+title: 'Calibrating low cost air quality sensor part 2'
 tagnames: calibration, air-quality, dustduino, pm, particulate-matter, air-sensors, activity:calibration
 author: jiteovien
 path: /notes/jiteovien/08-20-2018/calibrating-low-cost-air-quality-sensor-part-2.md

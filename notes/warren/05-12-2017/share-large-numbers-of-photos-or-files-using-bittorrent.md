@@ -1,5 +1,5 @@
 ---
-title: Share large numbers of photos (or files) using BitTorrent
+title: 'Share large numbers of photos (or files) using BitTorrent'
 tagnames: balloon-mapping, photo-monitoring, timelapse, bittorrent, file-sharing, activity:bittorrent, activity:photo-sharing, photo-sharing
 author: warren
 path: /notes/warren/05-12-2017/share-large-numbers-of-photos-or-files-using-bittorrent.md

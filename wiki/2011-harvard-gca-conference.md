@@ -1,5 +1,5 @@
 ---
-title: 2011 Harvard GCA Conference
+title: '2011 Harvard GCA Conference'
 tagnames: presentations, talks, harvard
 author: warren
 path: /wiki/2011-harvard-gca-conference.md

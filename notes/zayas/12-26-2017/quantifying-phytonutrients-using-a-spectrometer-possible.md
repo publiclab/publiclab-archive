@@ -1,5 +1,5 @@
 ---
-title: Quantifying Phytonutrients using a Spectrometer, Possible?
+title: 'Quantifying Phytonutrients using a Spectrometer, Possible?'
 tagnames: spectrometer, brix, spectrometry, question:spectrometry, answered, question:question, question:agriculture, question:lego-spectrometer, phytonutrients, question:brick, question:phytonutrients, question:brix
 author: zayas
 path: /notes/zayas/12-26-2017/quantifying-phytonutrients-using-a-spectrometer-possible.md

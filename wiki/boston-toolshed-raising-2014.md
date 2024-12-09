@@ -1,5 +1,5 @@
 ---
-title: Boston Toolshed Raising 2014
+title: 'Boston Toolshed Raising 2014'
 tagnames: somerville-massachusetts, boston, meetup, workshop, event, somerville
 author: btbonval
 path: /wiki/boston-toolshed-raising-2014.md

@@ -1,5 +1,5 @@
 ---
-title: GLAM Two-Tether Balloon Method: navigating urban waterways 
+title: 'GLAM Two-Tether Balloon Method: navigating urban waterways '
 tagnames: balloon-mapping, gowanus, gowanus-canal-superfund-site, glam, style:fancy, with:natasia, with:liz, two-tether
 author: mollydanielsson
 path: /wiki/glam-two-tether-balloon-method-navigating-urban-waterways.md

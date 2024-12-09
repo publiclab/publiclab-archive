@@ -1,5 +1,5 @@
 ---
-title: thermal photography review
+title: 'thermal photography review'
 tagnames: 
 author: gonzoearth
 path: /wiki/thermal-photography-review.md

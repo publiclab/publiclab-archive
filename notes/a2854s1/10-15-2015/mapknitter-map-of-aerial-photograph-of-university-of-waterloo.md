@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Aerial Photograph of University of Waterloo
+title: 'MapKnitter map of Aerial Photograph of University of Waterloo'
 tagnames: mapknitter, lat:45.6447682178, lon:-94.1528320313
 author: a2854s1
 path: /notes/a2854s1/10-15-2015/mapknitter-map-of-aerial-photograph-of-university-of-waterloo.md

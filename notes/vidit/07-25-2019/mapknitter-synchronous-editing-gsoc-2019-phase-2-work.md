@@ -1,5 +1,5 @@
 ---
-title: Mapknitter synchronous editing - GSOC 2019, phase 2 work
+title: 'Mapknitter synchronous editing - GSOC 2019, phase 2 work'
 tagnames: mapknitter, gsoc, soc-2019, gsoc-19, soc-2019-eval, soc-2019-blog, synchronous-editing, action-cable
 author: vidit
 path: /notes/vidit/07-25-2019/mapknitter-synchronous-editing-gsoc-2019-phase-2-work.md

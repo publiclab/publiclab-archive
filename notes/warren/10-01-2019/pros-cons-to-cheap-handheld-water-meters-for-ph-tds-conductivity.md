@@ -1,5 +1,5 @@
 ---
-title: Pros/cons to cheap handheld water meters for pH, TDS, conductivity?
+title: 'Pros/cons to cheap handheld water meters for pH, TDS, conductivity?'
 tagnames: water-quality, conductivity, ph, question:water-quality, knowflow, question:water-sensors, question:ph, water-sensors, tds, question:conductivity, question:tds, dfrobot, off-the-shelf
 author: warren
 path: /notes/warren/10-01-2019/pros-cons-to-cheap-handheld-water-meters-for-ph-tds-conductivity.md

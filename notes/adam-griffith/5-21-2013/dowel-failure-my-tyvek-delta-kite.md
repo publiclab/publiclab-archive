@@ -1,5 +1,5 @@
 ---
-title: Dowel failure on my Tyvek Delta kite
+title: 'Dowel failure on my Tyvek Delta kite'
 tagnames: kite-mapping, kite, delta, kap, dowel, folly, tyvek, aerial-mapping, fail
 author: adam-griffith
 path: /notes/adam-griffith/5-21-2013/dowel-failure-my-tyvek-delta-kite.md

@@ -1,5 +1,5 @@
 ---
-title: Could this 720nm IR filter from ebay be used for NDVI/infragram?
+title: 'Could this 720nm IR filter from ebay be used for NDVI/infragram?'
 tagnames: ndvi, infragram, answered, question:general
 author: qdominus
 path: /notes/qdominus/08-07-2017/could-this-720nm-ir-filter-from-ebay-be-used-for-ndvi-infragram.md

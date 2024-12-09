@@ -1,5 +1,5 @@
 ---
-title: Workshop VIII: What will we do to conduct our study?
+title: 'Workshop VIII: What will we do to conduct our study?'
 tagnames: education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, with:purl
 author: mimiss
 path: /notes/mimiss/06-04-2019/workshop-viii.md

@@ -1,5 +1,5 @@
 ---
-title: a cheap picavet for any shooting angle
+title: 'a cheap picavet for any shooting angle'
 tagnames: balloon-mapping, kite-mapping, picavet, photo-rig, activity:photo-rig
 author: mathew
 path: /notes/mathew/9-4-2012/cheap-picavet-any-shooting-angle.md

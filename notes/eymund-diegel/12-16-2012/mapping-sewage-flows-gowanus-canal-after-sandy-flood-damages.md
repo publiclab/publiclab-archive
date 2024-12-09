@@ -1,5 +1,5 @@
 ---
-title: Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages
+title: 'Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages'
 tagnames: new-york-city, balloon-mapping, gowanus, brooklyn, new-york, sandy-flood-damage, water-quality-monitoring, sustainable-design-of-sewer-systems, sewage, sandy, water-quality, hurricane, wastewater
 author: eymund
 path: /notes/eymund-diegel/12-16-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages.md

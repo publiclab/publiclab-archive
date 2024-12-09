@@ -1,5 +1,5 @@
 ---
-title: photos of a (sub)urban forest recovery Post-Katrina 
+title: 'photos of a (sub)urban forest recovery Post-Katrina '
 tagnames: gulf-coast, balloon-mapping, wetlands, gulf-restoration-network, coastalmonitoring, gulfrestorationnetwork, lousiana
 author: eustatic
 path: /5-18-2012/photos-suburban-forest-recovery-post-katrina.md

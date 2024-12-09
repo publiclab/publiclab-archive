@@ -1,5 +1,5 @@
 ---
-title: Do you have any tips for splicing DVD-Rs for spectrometer builds?
+title: 'Do you have any tips for splicing DVD-Rs for spectrometer builds?'
 tagnames: spectrometry, question:spectrometry, dvd, build, question:general, general, question:lego-spectrometer, lego-spectrometer, question:dvd, kit-builds, question:kit-builds, question:build
 author: mimiss
 path: /notes/mimiss/06-24-2020/do-you-have-any-tips-for-splicing-dvd-rs-for-spectrometer-builds.md

@@ -1,5 +1,5 @@
 ---
-title: Oil and Gas Water Quality
+title: 'Oil and Gas Water Quality'
 tagnames: water-quality, oil-and-gas, location:blurred, place:united-states, lat:29, lon:-90, oil-and-gas-water-trio, zoom:6
 author: wmacfarl
 path: /wiki/oil-and-gas-water-quality.md

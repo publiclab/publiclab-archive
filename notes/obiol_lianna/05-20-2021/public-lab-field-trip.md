@@ -1,5 +1,5 @@
 ---
-title: Public Lab field trip
+title: 'Public Lab field trip'
 tagnames: first-time-poster, zoom:4, chipmunkscityparkproject, lat:30.003838, lon:-90.097193
 author: obiol_lianna
 path: /notes/obiol_lianna/05-20-2021/public-lab-field-trip.md

@@ -1,5 +1,5 @@
 ---
-title: Mapping the Sweetwater Festival in Rolla, British Columbia
+title: 'Mapping the Sweetwater Festival in Rolla, British Columbia'
 tagnames: balloon-mapping, canada, northwest
 author: ann
 path: /notes/ann/06-20-2015/sweetwater-festival-mapping-notes.md

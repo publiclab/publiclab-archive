@@ -1,5 +1,5 @@
 ---
-title: DIY Spectrometry Kit paper insert prototype
+title: 'DIY Spectrometry Kit paper insert prototype'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/10-12-2012/diy-spectrometry-kit-insert-prototype.md

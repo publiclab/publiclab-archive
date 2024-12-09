@@ -1,5 +1,5 @@
 ---
-title: Public Lab announces continued partnership
+title: 'Public Lab announces continued partnership'
 tagnames: 
 author: Becki
 path: /notes/Becki/03-20-2017/public-lab-announces-continued-partnership.md

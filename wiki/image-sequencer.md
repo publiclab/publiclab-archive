@@ -1,5 +1,5 @@
 ---
-title: Image Sequencer
+title: 'Image Sequencer'
 tagnames: ndvi, image-compositing, infrared, image-processing, image-analysis, method, parent:infrared-software
 author: warren
 path: /wiki/image-sequencer.md

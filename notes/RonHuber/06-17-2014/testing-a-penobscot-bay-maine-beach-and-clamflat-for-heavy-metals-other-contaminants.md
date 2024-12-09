@@ -1,5 +1,5 @@
 ---
-title: Testing a Penobscot Bay, Maine beach and clamflat for heavy metals & other contaminants
+title: 'Testing a Penobscot Bay, Maine beach and clamflat for heavy metals & other contaminants'
 tagnames: heavy-metals, superfund, maine, northeast, lead, red, phosphogypsum, bauxite, alum, penobscot, mercury, bay, stockton, harbor, kidder, point, superphosphate, mud, cercla, cadmium, pcbs, friends-of-penobscot-bay, lead-testing
 author: ronhuber
 path: /notes/RonHuber/06-17-2014/testing-a-penobscot-bay-maine-beach-and-clamflat-for-heavy-metals-other-contaminants.md

@@ -1,5 +1,5 @@
 ---
-title: Report out: Eau Claire event 
+title: 'Report out: Eau Claire event '
 tagnames: wisconsin, air-quality, frac-sand, mid-west, fracsand, wi, advocacy, parent:frac-sand, parent:frac-sand-advocacy-leverage-points, advocacy-pathways, replication:14048, reclamation
 author: stevie
 path: /notes/stevie/05-03-2016/report-out-eau-claire-event.md

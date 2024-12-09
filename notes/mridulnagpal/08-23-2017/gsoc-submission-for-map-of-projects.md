@@ -1,5 +1,5 @@
 ---
-title: GSoC Submission for Map of Projects
+title: 'GSoC Submission for Map of Projects'
 tagnames: gsoc, google-summer-of-code, gsoc-2017, soc, soc-2017, response:14788
 author: mridulnagpal
 path: /notes/mridulnagpal/08-23-2017/gsoc-submission-for-map-of-projects.md

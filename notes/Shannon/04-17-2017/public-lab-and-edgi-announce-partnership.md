@@ -1,5 +1,5 @@
 ---
-title: Public Lab and EDGI announce partnership
+title: 'Public Lab and EDGI announce partnership'
 tagnames: nonprofit, edgi
 author: Shannon
 path: /notes/Shannon/04-17-2017/public-lab-and-edgi-announce-partnership.md

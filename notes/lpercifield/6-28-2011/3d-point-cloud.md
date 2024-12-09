@@ -1,5 +1,5 @@
 ---
-title: 3D Point Cloud
+title: '3D Point Cloud'
 tagnames: first-time-poster
 author: lpercifield
 path: /notes/lpercifield/6-28-2011/3d-point-cloud.md

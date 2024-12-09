@@ -1,5 +1,5 @@
 ---
-title: 555 trigger housing tests for dual cam kit
+title: '555 trigger housing tests for dual cam kit'
 tagnames: near-infrared-camera
 author: warren
 path: /notes/warren/4-25-2012/555-trigger-housing-tests-dual-cam-kit.md

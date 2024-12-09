@@ -1,5 +1,5 @@
 ---
-title: Proposals: Grassroots Modernism
+title: 'Proposals: Grassroots Modernism'
 tagnames: 
 author: warren
 path: /wiki/proposals-grassroots-modernism.md

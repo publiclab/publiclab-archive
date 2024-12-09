@@ -1,5 +1,5 @@
 ---
-title: Valve automation for laboratory liquid handeling
+title: 'Valve automation for laboratory liquid handeling'
 tagnames: 3d-printing, syringe, pump, response:11500
 author: JSummers
 path: /notes/JSummers/01-12-2015/valve-automation-for-laboratory-liquid-handeling.md

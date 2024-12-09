@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi spectrometer GUI
+title: 'Raspberry Pi spectrometer GUI'
 tagnames: spectrometry, raspberry-pi, barnstar:basic, seeks:replications, activity:raspberry-pi, activity:lego-spectrometer, lego-spectrometer
 author: cedarlodge
 path: /notes/cedarlodge/03-07-2018/raspberry-pi-spectrometer-gui.md

@@ -1,5 +1,5 @@
 ---
-title: Plant air purifier in Paris, Feb 2, 3-6PM
+title: 'Plant air purifier in Paris, Feb 2, 3-6PM'
 tagnames: event, event:rsvp, with:cguerin, date:02-02-2018, rsvp:nshapiro, plant-air-purifier-prototypes
 author: nshapiro
 path: /notes/nshapiro/01-24-2018/plant-air-purifier-in-paris-feb-2-3-6pm.md

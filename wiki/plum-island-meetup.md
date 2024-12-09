@@ -1,5 +1,5 @@
 ---
-title: North Shore, Mass, Mapping Meetup: Pavilion Beach, Ipswich -- April 6, 2013
+title: 'North Shore, Mass, Mapping Meetup: Pavilion Beach, Ipswich -- April 6, 2013'
 tagnames: balloon-mapping, kite-mapping, boston, event
 author: Hudonnoodles
 path: /wiki/plum-island-meetup.md

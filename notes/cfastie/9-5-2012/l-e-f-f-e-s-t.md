@@ -1,5 +1,5 @@
 ---
-title: L E A F F E S T
+title: 'L E A F F E S T'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, hydrogen-sulfide-sensing, events, meetup, leaffest, event
 author: cfastie
 path: /notes/cfastie/9-5-2012/l-e-f-f-e-s-t.md

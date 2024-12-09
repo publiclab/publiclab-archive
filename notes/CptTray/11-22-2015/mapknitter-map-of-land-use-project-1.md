@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Land use Project 1
+title: 'MapKnitter map of Land use Project 1'
 tagnames: mapknitter, lat:41.4507684048, lon:-71.5342140198
 author: CptTray
 path: /notes/CptTray/11-22-2015/mapknitter-map-of-land-use-project-1.md

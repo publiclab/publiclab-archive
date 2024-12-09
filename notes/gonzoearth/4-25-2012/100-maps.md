@@ -1,5 +1,5 @@
 ---
-title: 100 Maps
+title: '100 Maps'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping
 author: gonzoearth
 path: /notes/gonzoearth/4-25-2012/100-maps.md

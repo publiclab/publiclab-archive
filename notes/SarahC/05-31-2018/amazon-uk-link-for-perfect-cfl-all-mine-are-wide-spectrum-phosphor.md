@@ -1,5 +1,5 @@
 ---
-title: Amazon UK - Link for perfect CFL? All mine are wide spectrum phosphor!
+title: 'Amazon UK - Link for perfect CFL? All mine are wide spectrum phosphor!'
 tagnames: question:spectral-workbench, first-time-poster
 author: SarahC
 path: /notes/SarahC/05-31-2018/amazon-uk-link-for-perfect-cfl-all-mine-are-wide-spectrum-phosphor.md

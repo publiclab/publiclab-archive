@@ -1,5 +1,5 @@
 ---
-title: Proposal: SLR spectrometer attachment
+title: 'Proposal: SLR spectrometer attachment'
 tagnames: spectrometer, shapeways, slr, adaptor, 3d-printing, thingiverse
 author: warren
 path: /notes/warren/07-20-2013/proposal-slr-spectrometer-attachment.md

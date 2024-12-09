@@ -1,5 +1,5 @@
 ---
-title: Making a balloon-making jig
+title: 'Making a balloon-making jig'
 tagnames: balloon-mapping, kite-balloon-hybrid, diy-balloon
 author: mathew
 path: /notes/mathew/5-18-2012/making-balloon-making-jig.md

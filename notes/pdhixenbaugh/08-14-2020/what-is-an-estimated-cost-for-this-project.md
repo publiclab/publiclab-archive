@@ -1,5 +1,5 @@
 ---
-title: What is an estimated cost for this project?
+title: 'What is an estimated cost for this project?'
 tagnames: microscope, pi-camera, question:microscope, question:pi-camera, question:basic-microscope-challenge, basic-microscope-challenge, microscope-stage, question:microscope-stage, community-microscope, question:community-microscope
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-14-2020/what-is-an-estimated-cost-for-this-project.md

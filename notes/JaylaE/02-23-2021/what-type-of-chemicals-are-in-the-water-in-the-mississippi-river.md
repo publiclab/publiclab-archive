@@ -1,5 +1,5 @@
 ---
-title: What type of chemicals are in the water in the Mississippi River?
+title: 'What type of chemicals are in the water in the Mississippi River?'
 tagnames: water-monitoring, mississippi-river, question:general, general, chemical-pollution, question:water-monitoring, first-time-poster
 author: JaylaE
 path: /notes/JaylaE/02-23-2021/what-type-of-chemicals-are-in-the-water-in-the-mississippi-river.md

@@ -1,5 +1,5 @@
 ---
-title: Foldable Spectrometer Workshop for Cities
+title: 'Foldable Spectrometer Workshop for Cities'
 tagnames: spectrometry, replication:13410, replication:13577, foldable-spec
 author: nicholas
 path: /notes/nicholas/02-28-2017/foldable-spectrometer-workshop-for-cities.md

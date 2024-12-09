@@ -1,5 +1,5 @@
 ---
-title: Potentiostat Notes 3a;  Timing de-bugged
+title: 'Potentiostat Notes 3a;  Timing de-bugged'
 tagnames: potentiostat, wheestat
 author: JSummers
 path: /notes/JSummers/01-04-2014/potentiostat-notes-3a-timing-de-bugged.md

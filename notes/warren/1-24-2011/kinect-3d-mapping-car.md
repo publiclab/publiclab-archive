@@ -1,5 +1,5 @@
 ---
-title: Kinect for 3d mapping from a car
+title: 'Kinect for 3d mapping from a car'
 tagnames: 3d, kinect
 author: warren
 path: /notes/warren/1-24-2011/kinect-3d-mapping-car.md

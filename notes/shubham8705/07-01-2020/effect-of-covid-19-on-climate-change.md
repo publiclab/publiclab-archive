@@ -1,5 +1,5 @@
 ---
-title: Effect of covid-19 on climate change?
+title: 'Effect of covid-19 on climate change?'
 tagnames: question:general, general, first-time-poster
 author: shubham8705
 path: /notes/shubham8705/07-01-2020/effect-of-covid-19-on-climate-change.md

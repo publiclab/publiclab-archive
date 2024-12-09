@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench Improvements
+title: 'Spectral Workbench Improvements'
 tagnames: spectrometer, spectral-workbench
 author: PeterDavidowicz
 path: /notes/PeterDavidowicz/07-15-2013/spectral-workbench-improvements.md

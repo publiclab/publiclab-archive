@@ -1,5 +1,5 @@
 ---
-title: A big WELCOME to our Outreachy/GSoC team for 2019!
+title: 'A big WELCOME to our Outreachy/GSoC team for 2019!'
 tagnames: gsoc, blog, code, soc, outreachy, gsoc-2019, soc-2019
 author: warren
 path: /notes/warren/05-06-2019/a-big-welcome-to-our-outreachy-gsoc-team-for-2019.md

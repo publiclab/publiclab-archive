@@ -1,5 +1,5 @@
 ---
-title: Cashapamba, Valle de los chillos, Ecuador
+title: 'Cashapamba, Valle de los chillos, Ecuador'
 tagnames: ecuador, south-america
 author: galapagos
 path: /notes/galapagos/10-05-2018/cashapamba-valle-de-los-chillos-ecuador.md

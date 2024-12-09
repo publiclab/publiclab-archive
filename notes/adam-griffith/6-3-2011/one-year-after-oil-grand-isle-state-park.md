@@ -1,5 +1,5 @@
 ---
-title: One year after oil: Grand Isle State Park
+title: 'One year after oil: Grand Isle State Park'
 tagnames: gulf-coast, grand-isle, kite-mapping, kite-aerial-photography, louisiana, oil-spill
 author: adam-griffith
 path: /notes/adam-griffith/6-3-2011/one-year-after-oil-grand-isle-state-park.md

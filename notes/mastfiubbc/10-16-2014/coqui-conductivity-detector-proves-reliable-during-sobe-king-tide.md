@@ -1,5 +1,5 @@
 ---
-title: Coqui Conductivity Detector Proves Reliable During SoBe King Tide
+title: 'Coqui Conductivity Detector Proves Reliable During SoBe King Tide'
 tagnames: gulf-coast, water-quality, coqui, king-tide, florida, miami
 author: mastfiubbc
 path: /notes/mastfiubbc/10-16-2014/coqui-conductivity-detector-proves-reliable-during-sobe-king-tide.md

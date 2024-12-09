@@ -1,5 +1,5 @@
 ---
-title: Inexpensive Thermal Imaging of Decorative Lights in Household
+title: 'Inexpensive Thermal Imaging of Decorative Lights in Household'
 tagnames: thermal-photography, thermal-flashlight, insulation, heat, upgrade:thermal-flashlight, replication:625
 author: NoorJandali
 path: /notes/NoorJandali/12-02-2014/inexpensive-thermal-imaging-of-decorative-lights-in-household.md

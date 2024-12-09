@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping with Raspberry Pi Workshop
+title: 'Balloon Mapping with Raspberry Pi Workshop'
 tagnames: balloon-mapping, workshop, raspberry-pi
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/11-06-2014/balloon-mapping-with-raspberry-pi-workshop.md

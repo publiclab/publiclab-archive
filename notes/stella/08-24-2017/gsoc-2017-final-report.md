@@ -1,5 +1,5 @@
 ---
-title: GSOC 2017 FINAL REPORT;  EMAIL NOTIFICATIONS OVERHAUL
+title: 'GSOC 2017 FINAL REPORT;  EMAIL NOTIFICATIONS OVERHAUL'
 tagnames: gsoc, google-summer-of-code, gsoc-2017, soc, soc-2017, response:14788
 author: stella
 path: /notes/stella/08-24-2017/gsoc-2017-final-report.md

@@ -1,5 +1,5 @@
 ---
-title: an alternative and open connected sound signal transmissor from any place 
+title: 'an alternative and open connected sound signal transmissor from any place '
 tagnames: chile, satellite-imagery, radio, south-america, first-time-poster, lon:-70, zoom:6, lat:-33, open-weather
 author: lelex76
 path: /notes/lelex76/09-14-2020/an-alternative-and-open-connected-sound-signal-transmissor-from-any-place.md

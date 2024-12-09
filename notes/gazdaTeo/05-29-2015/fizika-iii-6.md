@@ -1,5 +1,5 @@
 ---
-title: fizika III 6
+title: 'fizika III 6'
 tagnames: first-time-poster
 author: gazdaTeo
 path: /notes/gazdaTeo/05-29-2015/fizika-iii-6.md

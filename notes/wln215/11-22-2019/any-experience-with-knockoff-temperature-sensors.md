@@ -1,5 +1,5 @@
 ---
-title: Any experience with knockoff temperature sensors?
+title: 'Any experience with knockoff temperature sensors?'
 tagnames: temperature, kits, sensors, question:general, general, question:water-sensors, water-sensors
 author: wln215
 path: /notes/wln215/11-22-2019/any-experience-with-knockoff-temperature-sensors.md

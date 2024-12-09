@@ -1,5 +1,5 @@
 ---
-title: How spectroscopy relates to the life of a common man in a daily basis
+title: 'How spectroscopy relates to the life of a common man in a daily basis'
 tagnames: spectroscopy, general
 author: TK_Siddharth
 path: /notes/TK_Siddharth/09-22-2018/how-spectroscopy-relates-to-the-life-of-a-common-man-in-a-daily-basis.md

@@ -1,5 +1,5 @@
 ---
-title: Data logger shield for Nano
+title: 'Data logger shield for Nano'
 tagnames: arduino, sensors, data-logging, activity:arduino, activity:datalogger, arduino-nano, response:14135, nano-data-logger, bme280, activity:nano-data-logger, bmp280
 author: cfastie
 path: /notes/cfastie/04-30-2017/data-logger-shield-for-nano.md

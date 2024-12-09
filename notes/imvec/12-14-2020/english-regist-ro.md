@@ -1,5 +1,5 @@
 ---
-title: English regist.ro
+title: 'English regist.ro'
 tagnames: tools, english, zoom:16, lat:41.408488, lon:2.199325, lang:english
 author: imvec
 path: /notes/imvec/12-14-2020/english-regist-ro.md

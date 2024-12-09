@@ -1,5 +1,5 @@
 ---
-title: Pine Hill
+title: 'Pine Hill'
 tagnames: near-infrared-camera, nrg, vermont, infrared, conversion, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, scattering, nbn, nnr, super-red, response:9769, gigapan
 author: cfastie
 path: /notes/cfastie/11-17-2013/pine-hill.md

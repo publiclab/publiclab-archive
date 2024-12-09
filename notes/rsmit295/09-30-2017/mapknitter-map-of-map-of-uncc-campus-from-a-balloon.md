@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Map of UNCC campus from a balloon!
+title: 'MapKnitter map of Map of UNCC campus from a balloon!'
 tagnames: mapknitter, lat:35.3073398149, lon:-80.7301729918
 author: rsmit295
 path: /notes/rsmit295/09-30-2017/mapknitter-map-of-map-of-uncc-campus-from-a-balloon.md

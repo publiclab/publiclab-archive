@@ -1,5 +1,5 @@
 ---
-title: [organizing] Mapknitters Gulf Coast --first meeting
+title: '[organizing] Mapknitters Gulf Coast --first meeting'
 tagnames: gulf-coast, balloon-mapping, kite-mapping, mapknitter, blog, mapknitters
 author: eustatic
 path: /10-31-2013/organizing-mapknitters-gulf-coast-first-meeting.md

@@ -1,5 +1,5 @@
 ---
-title: Learning How to Control Arduino with Raspberry Pi
+title: 'Learning How to Control Arduino with Raspberry Pi'
 tagnames: 
 author: ajguthrie99
 path: /notes/ajguthrie99/11-13-2020/learning-how-to-control-arduino-with-raspberry-pi.md

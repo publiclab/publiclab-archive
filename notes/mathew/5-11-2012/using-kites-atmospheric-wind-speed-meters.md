@@ -1,5 +1,5 @@
 ---
-title: Using Kites as Atmospheric Wind-speed Meters
+title: 'Using Kites as Atmospheric Wind-speed Meters'
 tagnames: balloon-mapping, kite-mapping, anemometer, wind-speed-meter, kite-anemometer, activity:kite-anemometer, wind-speed
 author: mathew
 path: /notes/mathew/5-11-2012/using-kites-atmospheric-wind-speed-meters.md

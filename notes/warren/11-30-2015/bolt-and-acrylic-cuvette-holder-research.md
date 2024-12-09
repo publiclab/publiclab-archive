@@ -1,5 +1,5 @@
 ---
-title: Bolt and acrylic cuvette holder research
+title: 'Bolt and acrylic cuvette holder research'
 tagnames: spectrometer, fluorescence, barnraising, cuvette, sampling, oil-testing-kit, barnraising-2015, cuvette-frame
 author: warren
 path: /notes/warren/11-30-2015/bolt-and-acrylic-cuvette-holder-research.md

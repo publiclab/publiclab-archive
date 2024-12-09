@@ -1,5 +1,5 @@
 ---
-title: Spectrometry discussion across the web
+title: 'Spectrometry discussion across the web'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/8-27-2012/spectrometry-discussion-across-web.md

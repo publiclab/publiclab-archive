@@ -1,5 +1,5 @@
 ---
-title: Looking for original research on OSHA sampling methods that would underestimate silica exposure
+title: 'Looking for original research on OSHA sampling methods that would underestimate silica exposure'
 tagnames: question:general, general, silica-monitoring, question:silica-monitoring
 author: bhamster
 path: /notes/bhamster/11-16-2021/looking-for-original-research-on-osha-sampling-methods-that-would-underestimate-silica-exposure.md

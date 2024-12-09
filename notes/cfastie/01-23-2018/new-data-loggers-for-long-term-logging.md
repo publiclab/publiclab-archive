@@ -1,5 +1,5 @@
 ---
-title: New data loggers for long-term logging
+title: 'New data loggers for long-term logging'
 tagnames: arduino, datalogger, data-logging, mini-pearl-logger, activity:mini-pearl-logger, tpl5110, mini-pearl-snap-logger, mini-pearl-pro-logger, low-power-logging
 author: cfastie
 path: /notes/cfastie/01-23-2018/new-data-loggers-for-long-term-logging.md

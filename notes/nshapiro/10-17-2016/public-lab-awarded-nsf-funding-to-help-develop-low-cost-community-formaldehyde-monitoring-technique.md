@@ -1,5 +1,5 @@
 ---
-title: Public Lab awarded NSF funding to help develop low-cost community formaldehyde monitoring technique
+title: 'Public Lab awarded NSF funding to help develop low-cost community formaldehyde monitoring technique'
 tagnames: collaboration, software, formaldehyde, wherewebreathe, open-air, indoor-air-quality, with:gretchengehrke, indoor-air, nsf, with:becki, smart-form
 author: nshapiro
 path: /notes/nshapiro/10-17-2016/public-lab-awarded-nsf-funding-to-help-develop-low-cost-community-formaldehyde-monitoring-technique.md

@@ -1,5 +1,5 @@
 ---
-title: Question: Spectrometer Desing
+title: 'Question: Spectrometer Desing'
 tagnames: spectrometer, calibration, wavelength, question:spectometer, question:calibration, question:wavelength
 author: Deforme
 path: /notes/Deforme/12-17-2014/question-spectrometer-desing.md

@@ -1,5 +1,5 @@
 ---
-title: FYS_NMPRPK_Flourescentbulb
+title: 'FYS_NMPRPK_Flourescentbulb'
 tagnames: 
 author: nmorroni
 path: /notes/nmorroni/09-24-2015/fys_nmprpk_flourescentbulb.md

@@ -1,5 +1,5 @@
 ---
-title: Spectral Challenge Teams
+title: 'Spectral Challenge Teams'
 tagnames: spectrometer, spectralchallenge
 author: warren
 path: /wiki/spectral-challenge-teams.md

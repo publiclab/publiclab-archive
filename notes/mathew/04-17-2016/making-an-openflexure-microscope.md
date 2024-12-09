@@ -1,5 +1,5 @@
 ---
-title: Making an OpenFlexure Microscope
+title: 'Making an OpenFlexure Microscope'
 tagnames: raspberry-pi, dust, particle-sensing, microscope, passive-pm, microscopy, pm-monitor, openflexure, activity:microscope, microscopes, activity:microscopes, activity:open-flexure-microscope
 author: mathew
 path: /notes/mathew/04-17-2016/making-an-openflexure-microscope.md

@@ -1,5 +1,5 @@
 ---
-title: Hosting a Successful Balloon Mapping Community Workshop
+title: 'Hosting a Successful Balloon Mapping Community Workshop'
 tagnames: balloon-mapping, workshop, balloon-mapping-kit, petcoke, chicago, midwest
 author: holden
 path: /notes/Holden/03-21-2014/directing-a-successful-balloon-mapping-community-workshop.md

@@ -1,5 +1,5 @@
 ---
-title: How many Bioblitz events should be held when monitoring a site? 
+title: 'How many Bioblitz events should be held when monitoring a site? '
 tagnames: huber-osb-factory, talon-rio-tinto-mine, mn-land-manoomin-protection, great-lakes-region, manoomin, bioblitz
 author: michelleiL
 path: /notes/michelleiL/09-15-2022/how-many-bioblitz-events-should-be-held-when-monitoring-a-site.md

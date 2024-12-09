@@ -1,5 +1,5 @@
 ---
-title: Fluorescent Spectrum
+title: 'Fluorescent Spectrum'
 tagnames: first-time-poster, zoom:6, lat:42.287148, lon:-85.605247
 author: mitchellberg96
 path: /notes/mitchellberg96/05-16-2021/fluorescent-spectrum.md

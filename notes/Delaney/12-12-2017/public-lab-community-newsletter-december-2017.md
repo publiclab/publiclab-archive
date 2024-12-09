@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: December 2017
+title: 'Public Lab Community Newsletter: December 2017'
 tagnames: gulf-coast, newsletter, kits, barnraising, lumcon, news, staff, microscope, open-call, community-kits
 author: Delaney
 path: /notes/Delaney/12-12-2017/public-lab-community-newsletter-december-2017.md

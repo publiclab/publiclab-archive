@@ -1,5 +1,5 @@
 ---
-title: Carabiner Kite Line Attachment
+title: 'Carabiner Kite Line Attachment'
 tagnames: balloon-mapping, kite-aerial-photography, photo-rig, flying
 author: MicheleTobias
 path: /notes/micheletobias/7-29-2012/carabiner-kite-line-attachment.md

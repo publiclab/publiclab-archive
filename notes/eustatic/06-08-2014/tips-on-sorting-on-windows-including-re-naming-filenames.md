@@ -1,5 +1,5 @@
 ---
-title: Tips on Sorting on Windows, including re-naming filenames
+title: 'Tips on Sorting on Windows, including re-naming filenames'
 tagnames: gulf-coast, balloon-mapping, sorting, image-sorting, response:732, response:2589, activity:image-sorting, qgis
 author: eustatic
 path: /06-08-2014/tips-on-sorting-on-windows-including-re-naming-filenames.md

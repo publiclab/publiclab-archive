@@ -1,5 +1,5 @@
 ---
-title: Follow up on faucet cover camera enclosure
+title: 'Follow up on faucet cover camera enclosure'
 tagnames: balloon-mapping, near-infrared-camera, multiple-camera, photo-rig, activity:photo-rig
 author: patcoyle
 path: /notes/patcoyle/5-18-2012/follow-faucet-cover-camera-enclosure.md

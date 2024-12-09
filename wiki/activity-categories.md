@@ -1,5 +1,5 @@
 ---
-title: Activity Categories 
+title: 'Activity Categories '
 tagnames: with:warren, with:liz, activity-grids, with:abdul, category:observe
 author: gretchengehrke
 path: /wiki/activity-categories.md

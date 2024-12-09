@@ -1,5 +1,5 @@
 ---
-title: Earth Journalism Network Kite Mapping Workshop
+title: 'Earth Journalism Network Kite Mapping Workshop'
 tagnames: norcal, event, replication:14022
 author: willie
 path: /notes/Willie/04-24-2014/earth-journalism-network-kite-mapping-workshop.md

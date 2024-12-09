@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (528 North Main Street)
+title: 'Art in Ruins (528 North Main Street)'
 tagnames: hidden:response, unearthing-pvd-stories, lat:41.83578654, lon:-71.41008317, lat:41.835786, lon:-71.410083, zoom:15, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/02-19-2020/further-information-528-north-main-street.md

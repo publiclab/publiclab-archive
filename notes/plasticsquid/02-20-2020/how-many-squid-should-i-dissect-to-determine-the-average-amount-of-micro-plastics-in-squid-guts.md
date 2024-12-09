@@ -1,5 +1,5 @@
 ---
-title: How many squid should I dissect to determine the average amount of micro plastics in squid guts?
+title: 'How many squid should I dissect to determine the average amount of micro plastics in squid guts?'
 tagnames: question:general, general, squid, question:microplastics, microplastics, plastics, babylegs, first-time-poster, with:amallozzi, dissection
 author: plasticsquid
 path: /notes/plasticsquid/02-20-2020/how-many-squid-should-i-dissect-to-determine-the-average-amount-of-micro-plastics-in-squid-guts.md

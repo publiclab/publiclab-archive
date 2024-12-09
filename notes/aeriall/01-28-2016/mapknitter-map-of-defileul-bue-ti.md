@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Defileul Buești
+title: 'MapKnitter map of Defileul Buești'
 tagnames: mapknitter, lat:44.5445604393, lon:27.1730303764
 author: aeriall
 path: /notes/aeriall/01-28-2016/mapknitter-map-of-defileul-bue-ti.md

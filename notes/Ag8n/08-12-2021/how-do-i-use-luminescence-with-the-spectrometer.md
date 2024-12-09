@@ -1,5 +1,5 @@
 ---
-title: How do I...use luminescence with the spectrometer?
+title: 'How do I...use luminescence with the spectrometer?'
 tagnames: spectrometer, spectrometry, water-quality, bioassay, question:spectrometer, question:water-quality, question:bioassay
 author: Ag8n
 path: /notes/Ag8n/08-12-2021/how-do-i-use-luminescence-with-the-spectrometer.md

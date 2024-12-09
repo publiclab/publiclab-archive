@@ -1,5 +1,5 @@
 ---
-title: DIY Science Lesson with the Coqui
+title: 'DIY Science Lesson with the Coqui'
 tagnames: education, curriculum, classroom, water-quality, water, tutorial, conductivity, open-water, barnstar:excessive-enthusiasm, coqui, tutorials, activity:education, activity:classroom, replication:13459, environmental-education, teens, lesson, activity:coqui-usage, activity:edu-coqui
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-22-2018/diy-science-lesson-with-the-coqui.md

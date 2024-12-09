@@ -1,5 +1,5 @@
 ---
-title: Aerial Cartography. Rambla del Raval
+title: 'Aerial Cartography. Rambla del Raval'
 tagnames: rambla, del, raval
 author: duchamp
 path: /notes/duchamp/04-22-2015/aerial-cartography-rambla-del-raval.md

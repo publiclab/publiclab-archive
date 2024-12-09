@@ -1,5 +1,5 @@
 ---
-title: thermal camera core cost
+title: 'thermal camera core cost'
 tagnames: first-time-poster
 author: therman
 path: /notes/therman/11-18-2014/thermal-camera-core-cost.md

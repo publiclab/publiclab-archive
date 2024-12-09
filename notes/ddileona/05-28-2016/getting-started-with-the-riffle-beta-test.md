@@ -1,5 +1,5 @@
 ---
-title: Getting Started with the Riffle Beta Test
+title: 'Getting Started with the Riffle Beta Test'
 tagnames: riffle, riffle-beta, depth-sensor, riffle-examples
 author: ddileona
 path: /notes/ddileona/05-28-2016/getting-started-with-the-riffle-beta-test.md

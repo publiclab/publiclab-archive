@@ -1,5 +1,5 @@
 ---
-title: Solutions to Plastic Pollution
+title: 'Solutions to Plastic Pollution'
 tagnames: pollution, fungus, bioremediation, microplastics
 author: Johudson1
 path: /notes/Johudson1/06-22-2015/solutions-to-plastic-pollution.md

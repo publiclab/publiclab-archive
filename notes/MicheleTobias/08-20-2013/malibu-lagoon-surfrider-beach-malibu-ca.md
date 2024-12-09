@@ -1,5 +1,5 @@
 ---
-title: Malibu Lagoon & Surfrider Beach, Malibu, CA
+title: 'Malibu Lagoon & Surfrider Beach, Malibu, CA'
 tagnames: near-infrared-camera, kite-mapping, infrared, norcal, california, gopro
 author: MicheleTobias
 path: /notes/MicheleTobias/08-20-2013/malibu-lagoon-surfrider-beach-malibu-ca.md

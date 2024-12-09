@@ -1,5 +1,5 @@
 ---
-title: Receipt submission form 2011-2012
+title: 'Receipt submission form 2011-2012'
 tagnames: 
 author: warren
 path: /wiki/receipts-2011-12.md

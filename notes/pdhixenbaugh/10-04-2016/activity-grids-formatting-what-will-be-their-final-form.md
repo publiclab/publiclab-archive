@@ -1,5 +1,5 @@
 ---
-title: Activity Grids formatting - what will be their final form? 
+title: 'Activity Grids formatting - what will be their final form? '
 tagnames: activity-grids, question:website, question:website-structure
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-04-2016/activity-grids-formatting-what-will-be-their-final-form.md

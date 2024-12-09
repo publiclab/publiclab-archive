@@ -1,5 +1,5 @@
 ---
-title: Congratulations to our Outreachy and GSoC 2020 fellows 👏👏👏
+title: 'Congratulations to our Outreachy and GSoC 2020 fellows 👏👏👏'
 tagnames: gsoc, blog, code, soc, outreachy, with:sagarpreet, soc-2020, soc-2020-final
 author: warren
 path: /notes/warren/09-14-2020/congratulations-to-our-outreachy-and-gsoc-2020-fellows.md

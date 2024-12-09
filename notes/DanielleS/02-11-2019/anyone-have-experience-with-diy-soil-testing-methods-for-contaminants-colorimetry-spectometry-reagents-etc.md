@@ -1,5 +1,5 @@
 ---
-title: Anyone have experience with diy soil testing methods for contaminants- Colorimetry, spectometry, reagents, etc?
+title: 'Anyone have experience with diy soil testing methods for contaminants- Colorimetry, spectometry, reagents, etc?'
 tagnames: question, oil, barnraising, heavy-metals, soil, testing, reagents, metals, colorimeter, question:general, oil-and-gas, question:lead, pahs, spectometer, question:soil
 author: DanielleS
 path: /notes/DanielleS/02-11-2019/anyone-have-experience-with-diy-soil-testing-methods-for-contaminants-colorimetry-spectometry-reagents-etc.md

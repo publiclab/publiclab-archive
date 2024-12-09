@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: 
+title: 'SoC proposal: '
 tagnames: software, soc, response:13975, first-time-poster, soc-2020, soc-2020-proposals
 author: nitin_tech
 path: /notes/nitin_tech/03-17-2020/soc-proposal.md

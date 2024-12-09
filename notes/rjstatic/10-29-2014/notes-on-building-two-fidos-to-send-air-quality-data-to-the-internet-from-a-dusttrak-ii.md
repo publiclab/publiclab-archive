@@ -1,5 +1,5 @@
 ---
-title: Notes on building two Fidos that send air quality data to the Internet from a DustTrak II
+title: 'Notes on building two Fidos that send air quality data to the Internet from a DustTrak II'
 tagnames: raspberry-pi, air-quality, open-ground, fido, open-pipe-kit, sensor-pipe, air-sensors
 author: rjstatic
 path: /10-29-2014/notes-on-building-two-fidos-to-send-air-quality-data-to-the-internet-from-a-dusttrak-ii.md

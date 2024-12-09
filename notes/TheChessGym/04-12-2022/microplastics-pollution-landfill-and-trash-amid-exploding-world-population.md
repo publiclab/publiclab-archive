@@ -1,5 +1,5 @@
 ---
-title: Microplastics, Pollution, Landfill, and Trash Amid Exploding World Population
+title: 'Microplastics, Pollution, Landfill, and Trash Amid Exploding World Population'
 tagnames: microplastics, lat:22, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/04-12-2022/microplastics-pollution-landfill-and-trash-amid-exploding-world-population.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab River Rat Pack—St. Louis – Xiaoxin Cao 
+title: 'Public Lab River Rat Pack—St. Louis – Xiaoxin Cao '
 tagnames: publiclabriverratpack
 author: Xiaoxin
 path: /notes/Xiaoxin/05-12-2016/public-lab-river-rat-pack-st-louis-xiaoxin-cao.md

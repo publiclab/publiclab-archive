@@ -1,5 +1,5 @@
 ---
-title: The Homebrew Sensing Project
+title: 'The Homebrew Sensing Project'
 tagnames: spectrometer, tabbed:notes
 author: warren
 path: /wiki/the-homebrew-sensing-project.md

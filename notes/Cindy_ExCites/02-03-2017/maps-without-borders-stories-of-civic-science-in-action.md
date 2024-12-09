@@ -1,5 +1,5 @@
 ---
-title: Maps without borders: Stories of civic science in action
+title: 'Maps without borders: Stories of civic science in action'
 tagnames: balloon-mapping, kite-mapping, storytelling, civicscience, diyscience, publiclabineu
 author: cindy_excites
 path: /notes/Cindy_ExCites/02-03-2017/maps-without-borders-stories-of-civic-science-in-action.md

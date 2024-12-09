@@ -1,5 +1,5 @@
 ---
-title: Camera Selection
+title: 'Camera Selection'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, parent:balloon-mapping
 author: gonzoearth
 path: /wiki/camera-selection.md

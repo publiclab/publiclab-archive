@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of 2198 Westinghouse Blvd
+title: 'MapKnitter map of 2198 Westinghouse Blvd'
 tagnames: mapknitter, southeast, lat:35.129843, lon:-80.941125
 author: jdean32
 path: /notes/jdean32/03-31-2016/mapknitter-map-of-2198-westinghouse-blvd.md

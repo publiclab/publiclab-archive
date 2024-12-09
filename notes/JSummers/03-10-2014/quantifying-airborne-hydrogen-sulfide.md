@@ -1,5 +1,5 @@
 ---
-title: Quantifying Airborne Hydrogen Sulfide
+title: 'Quantifying Airborne Hydrogen Sulfide'
 tagnames: hydrogen-sulfide-sensing, calibration, hydrogen-sulfide, h2s, wheestat, h2s-detection-method, h2s-potentiometry, potentiometer, potentiometry
 author: JSummers
 path: /notes/JSummers/03-10-2014/quantifying-airborne-hydrogen-sulfide.md

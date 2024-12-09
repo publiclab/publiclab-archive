@@ -1,5 +1,5 @@
 ---
-title: Airhugger.org in Tonawonda
+title: 'Airhugger.org in Tonawonda'
 tagnames: new-york, event, event:rsvp, date:09-19-2015, tonawanda, buffalo
 author: liz
 path: /notes/liz/09-18-2015/airhugger-org-in-tonawonda.md

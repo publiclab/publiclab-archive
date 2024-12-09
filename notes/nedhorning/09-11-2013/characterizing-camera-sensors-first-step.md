@@ -1,5 +1,5 @@
 ---
-title: Characterizing camera sensors – first step
+title: 'Characterizing camera sensors – first step'
 tagnames: near-infrared-camera, vermont, infrared, leaffest, infragram, leaffest2013, leds
 author: nedhorning
 path: /notes/nedhorning/09-11-2013/characterizing-camera-sensors-first-step.md

@@ -1,5 +1,5 @@
 ---
-title: How does bio-waste move within the waste stream?
+title: 'How does bio-waste move within the waste stream?'
 tagnames: waste-management, waste, open-water, groundwater, openwater, question:socalwastestream
 author: sarasage
 path: /notes/sarasage/10-21-2016/how-does-bio-waste-move-within-the-waste-stream.md

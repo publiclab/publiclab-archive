@@ -1,5 +1,5 @@
 ---
-title: What information do I need to assess if a data logger and sensor will be compatible? 
+title: 'What information do I need to assess if a data logger and sensor will be compatible? '
 tagnames: question:data-logging, datalogging, question:water-sensors, water-sensors
 author: gretchengehrke
 path: /notes/gretchengehrke/07-19-2017/what-information-do-i-need-to-assess-if-a-data-logger-and-sensor-will-be-compatible.md

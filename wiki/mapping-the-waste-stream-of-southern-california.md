@@ -1,5 +1,5 @@
 ---
-title: Mapping the Waste Stream of Southern California
+title: 'Mapping the Waste Stream of Southern California'
 tagnames: landfill, california, mapping, waste-management, waste, cartography-collective, los-angeles, landfills, socalwastestream, sandiego, santabarbara, longbeach, greenhousegas, greenhousegases, carto, southerncalifornia, prompt:socalwastestream, project, project:advocacy-with-maps
 author: sarasage
 path: /wiki/mapping-the-waste-stream-of-southern-california.md

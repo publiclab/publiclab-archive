@@ -1,5 +1,5 @@
 ---
-title: Minnesota Land and Manoomin Protection Project
+title: 'Minnesota Land and Manoomin Protection Project'
 tagnames: mining, water-quality, minnesota, midwest, land-use, place:united-states, projects, zoom:6, fellowship-team, fellowship-teams, wild-rice, huber-osb-factory, talon-rio-tinto-mine, land-rights, mn-land-manoomin-protection, lat:46.618543, lon:-93.453669, great-lakes-region, wild-rice-district, manoomin, anishinaabe, ojibwe, treaty-rights
 author: noah_ben_furman
 path: /wiki/minnesota-land-and-manoomin-protection-project.md

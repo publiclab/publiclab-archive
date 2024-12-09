@@ -1,5 +1,5 @@
 ---
-title: Web Working Group Update 17: April 2017
+title: 'Web Working Group Update 17: April 2017'
 tagnames: community, web-development, software, plots2, outreach, gsoc, developers, wwg, webwg, first-timers-only, software-outreach, wwg-update, response:14091
 author: warren
 path: /notes/warren/05-05-2017/web-working-group-update-17-april-2017.md

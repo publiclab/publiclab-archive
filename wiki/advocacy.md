@@ -1,5 +1,5 @@
 ---
-title: Advocacy
+title: 'Advocacy'
 tagnames: organizing, advocacy, method
 author: bhamster
 path: /wiki/advocacy.md

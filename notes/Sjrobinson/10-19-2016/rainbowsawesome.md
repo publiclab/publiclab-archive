@@ -1,5 +1,5 @@
 ---
-title: #rainbowsAwesome
+title: '#rainbowsAwesome'
 tagnames: hidden:response, response:13586
 author: Sjrobinson
 path: /notes/Sjrobinson/10-19-2016/rainbowsawesome.md

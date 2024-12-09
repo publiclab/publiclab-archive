@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter: March 2017
+title: 'Public Lab Community Newsletter: March 2017'
 tagnames: newsletter, pbs, news, stormwater, autodesk, gosh, gosh2017, board-of-directors
 author: klie
 path: /notes/klie/03-31-2017/public-lab-community-newsletter-march-2017.md

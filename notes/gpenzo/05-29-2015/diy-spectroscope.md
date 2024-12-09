@@ -1,5 +1,5 @@
 ---
-title: DIY spectroscope
+title: 'DIY spectroscope'
 tagnames: diy, spectroscope
 author: gpenzo
 path: /notes/gpenzo/05-29-2015/diy-spectroscope.md

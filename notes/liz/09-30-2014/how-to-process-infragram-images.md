@@ -1,5 +1,5 @@
 ---
-title: How to process infragram images
+title: 'How to process infragram images'
 tagnames: agriculture, newark, new-jersey, urban-ag, infragram, garden, pole-aerial-photography, elp, northeast, with:thegreencommunitygarden, ndvi-comparison, question:ndvi-comparison
 author: liz
 path: /notes/liz/09-30-2014/how-to-process-infragram-images.md

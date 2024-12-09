@@ -1,5 +1,5 @@
 ---
-title: Hack The Earth 5th edition
+title: 'Hack The Earth 5th edition'
 tagnames: event, air-quality, timelapse, energy, place:ca-la-fou
 author: imvec
 path: /notes/imvec/04-19-2017/hack-the-earth-5th-edition.md

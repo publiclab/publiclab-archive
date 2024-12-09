@@ -1,5 +1,5 @@
 ---
-title: Initiative summary
+title: 'Initiative summary'
 tagnames: london, citizen-science, grassroots-science, diy, ucl, uk, excites, civic-science, first-time-poster
 author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/initiative-summary.md

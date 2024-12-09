@@ -1,5 +1,5 @@
 ---
-title: GoPro Hero HD first version- Making full spectrum( Removing IR filter)
+title: 'GoPro Hero HD first version- Making full spectrum( Removing IR filter)'
 tagnames: near-infrared-camera, ndvi, conversion, infragram, gopro, question:ndvi, question:infragram, answered, question:infrared, question:general, question:gopro, activity:infrared-camera-conversion, mini-camera, activity:mini-camera
 author: suman
 path: /notes/suman/01-16-2017/gopro-hero-hd-first-version-making-full-spectrum-removing-ir-filter.md

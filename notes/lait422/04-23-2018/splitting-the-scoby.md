@@ -1,5 +1,5 @@
 ---
-title: Splitting the SCOBY
+title: 'Splitting the SCOBY'
 tagnames: kombucha-leather, replication:15560, first-time-poster
 author: lait422
 path: /notes/lait422/04-23-2018/splitting-the-scoby.md

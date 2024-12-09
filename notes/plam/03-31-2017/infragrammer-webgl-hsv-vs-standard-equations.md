@@ -1,5 +1,5 @@
 ---
-title: Infragrammer WebGL HSV vs Standard equations
+title: 'Infragrammer WebGL HSV vs Standard equations'
 tagnames: near-infrared-camera, ndvi, infrared, infragram, infragram-sandbox, question:general
 author: plam
 path: /notes/plam/03-31-2017/infragrammer-webgl-hsv-vs-standard-equations.md

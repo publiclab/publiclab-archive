@@ -1,5 +1,5 @@
 ---
-title: Substitution for conductivity meter
+title: 'Substitution for conductivity meter'
 tagnames: question, water-quality, water-quality-sensor, conductivity, tools, answered, question:data-logging, question:water-sensors, water-sensors, tds, question:conductivity, question:tds, aquarium
 author: Ag8n
 path: /notes/Ag8n/02-12-2018/substitution-for-conductivity-meter.md

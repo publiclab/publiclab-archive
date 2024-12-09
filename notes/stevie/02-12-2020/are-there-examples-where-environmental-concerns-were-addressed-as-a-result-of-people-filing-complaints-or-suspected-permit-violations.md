@@ -1,5 +1,5 @@
 ---
-title: Are there examples where environmental concerns were addressed as a result of people filing complaints (or suspected permit violations)? 
+title: 'Are there examples where environmental concerns were addressed as a result of people filing complaints (or suspected permit violations)? '
 tagnames: air-quality, water-quality, question:air-quality, advocacy, question:water-quality, question:general, general, question:advocacy, question:permit, nuisance, permit, permit-violation, question:permit-violation, question:nuisance, law-and-policy, question:law-and-policy
 author: stevie
 path: /notes/stevie/02-12-2020/are-there-examples-where-environmental-concerns-were-addressed-as-a-result-of-people-filing-complaints-or-suspected-permit-violations.md

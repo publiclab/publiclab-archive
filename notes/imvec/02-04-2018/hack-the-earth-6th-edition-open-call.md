@@ -1,5 +1,5 @@
 ---
-title: Hack The Earth: 6th edition open call
+title: 'Hack The Earth: 6th edition open call'
 tagnames: spain, event, event:rsvp, eu, open-call, date:03-30-2018, place:ca-la-fou
 author: imvec
 path: /notes/imvec/02-04-2018/hack-the-earth-6th-edition-open-call.md

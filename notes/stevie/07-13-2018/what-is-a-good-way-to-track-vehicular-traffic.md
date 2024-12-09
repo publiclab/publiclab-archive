@@ -1,5 +1,5 @@
 ---
-title: What is a good way to track vehicular traffic?
+title: 'What is a good way to track vehicular traffic?'
 tagnames: transportation, answered, question:pm, question:general, question:permits, question:dust, question:legal, with:ramseysprague, question:gravel, question:asphalt, question:visual-data, question:mobile, question:traffic, question:transportation, law-and-policy, question:law-and-policy
 author: stevie
 path: /notes/stevie/07-13-2018/what-is-a-good-way-to-track-vehicular-traffic.md

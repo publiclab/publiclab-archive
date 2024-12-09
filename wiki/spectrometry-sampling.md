@@ -1,5 +1,5 @@
 ---
-title: Spectrometry Sampling
+title: 'Spectrometry Sampling'
 tagnames: spectrometer, sampling, spectrometry-sampling, parent:sampling, sample-collection
 author: warren
 path: /wiki/spectrometry-sampling.md

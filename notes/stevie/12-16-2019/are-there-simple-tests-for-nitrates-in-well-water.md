@@ -1,5 +1,5 @@
 ---
-title: Are there simple tests for nitrates in well water? 
+title: 'Are there simple tests for nitrates in well water? '
 tagnames: water-quality, nitrates, water-testing, drinking-water, question:water-quality, question:general, general, question:nitrates, question:drinking-water, question:well-water, well-water, question:water-testing
 author: stevie
 path: /notes/stevie/12-16-2019/are-there-simple-tests-for-nitrates-in-well-water.md

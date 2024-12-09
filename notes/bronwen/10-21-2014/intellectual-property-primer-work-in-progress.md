@@ -1,5 +1,5 @@
 ---
-title: Intellectual Property Primer (work in progress)
+title: 'Intellectual Property Primer (work in progress)'
 tagnames: 
 author: Bronwen
 path: /notes/bronwen/10-21-2014/intellectual-property-primer-work-in-progress.md

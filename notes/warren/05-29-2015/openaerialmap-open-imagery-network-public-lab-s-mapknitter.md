@@ -1,5 +1,5 @@
 ---
-title: OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter
+title: 'OpenAerialMap, Open Imagery Network & Public Lab's MapKnitter'
 tagnames: 3d, mapknitter, bundleadjustment, gps, software, gsoc, leaflet, metadata, autostitch, auto-placement, opendronemap, openaerialmap, leaflet.distortableimage
 author: warren
 path: /notes/warren/05-29-2015/openaerialmap-open-imagery-network-public-lab-s-mapknitter.md

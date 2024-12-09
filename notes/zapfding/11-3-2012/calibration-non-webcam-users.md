@@ -1,5 +1,5 @@
 ---
-title: Calibration for non-webcam users?
+title: 'Calibration for non-webcam users?'
 tagnames: troubleshooting, spectralworkbench, help
 author: zapfding
 path: /notes/zapfding/11-3-2012/calibration-non-webcam-users.md

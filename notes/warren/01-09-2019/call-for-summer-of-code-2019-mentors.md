@@ -1,5 +1,5 @@
 ---
-title: Call for Summer of Code 2019 mentors!
+title: 'Call for Summer of Code 2019 mentors!'
 tagnames: software, outreach, gsoc, google, code, software-outreach, rgsoc, soc, summer-of-code, rgsoc-2019, gsoc-2019, soc-2019, call-for-mentors, mentors, mentorship
 author: warren
 path: /notes/warren/01-09-2019/call-for-summer-of-code-2019-mentors.md

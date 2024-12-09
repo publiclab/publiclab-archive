@@ -1,5 +1,5 @@
 ---
-title: changing default webcam 
+title: 'changing default webcam '
 tagnames: question:spectral-workbench, first-time-poster
 author: julietalemus
 path: /notes/julietalemus/12-06-2018/changing-default-webcam.md

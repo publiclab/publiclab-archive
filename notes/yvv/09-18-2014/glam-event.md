@@ -1,5 +1,5 @@
 ---
-title: GLAM Event
+title: 'GLAM Event'
 tagnames: new-york-city, gowanus, brooklyn, mapping, event, glam, canal, event:rsvp, altitude, rsvp:bronwen, rsvp:liz, conservancy, low, program, gcc, date:09-27-2014, rsvp:yvv, rsvp:jenmansta
 author: yvv
 path: /notes/yvv/09-18-2014/glam-event.md

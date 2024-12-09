@@ -1,5 +1,5 @@
 ---
-title: Another example: using free SFM tools to model Saugus Inc. Ash Landfill
+title: 'Another example: using free SFM tools to model Saugus Inc. Ash Landfill'
 tagnames: kite-mapping, boston, saugus, landfill, sfm, structure-from-motion, waste, basurama, response:9977, northeast, volume, midwest, response:10159
 author: patcoyle
 path: /notes/patcoyle/05-01-2014/anoter-example-using-free-sfm-tools-to-model-saugus-inc-ash-landfill.md

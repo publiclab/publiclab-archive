@@ -1,5 +1,5 @@
 ---
-title: "Full Spectrum" grow LED Testing 
+title: '"Full Spectrum" grow LED Testing '
 tagnames: spectrometer, spectralworkbench, export, answered, graph, question:general, first-time-poster
 author: soheilkh
 path: /notes/soheilkh/12-11-2016/full-spectrum-grow-led-testing.md

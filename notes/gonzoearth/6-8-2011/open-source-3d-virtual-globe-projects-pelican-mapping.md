@@ -1,5 +1,5 @@
 ---
-title: open source 3D virtual globe projects at pelican mapping
+title: 'open source 3D virtual globe projects at pelican mapping'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/6-8-2011/open-source-3d-virtual-globe-projects-pelican-mapping.md

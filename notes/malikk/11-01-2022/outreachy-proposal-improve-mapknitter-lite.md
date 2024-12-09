@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Improve MapKnitter Lite.
+title: 'Outreachy proposal: Improve MapKnitter Lite.'
 tagnames: software, lat:0, lon:0, outreachy, first-time-poster, zoom:5, outreachy-2022, outreachy-winter-2022, response:35976
 author: malikk
 path: /notes/malikk/11-01-2022/outreachy-proposal-improve-mapknitter-lite.md

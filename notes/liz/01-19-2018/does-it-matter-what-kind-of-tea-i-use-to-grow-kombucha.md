@@ -1,5 +1,5 @@
 ---
-title: Does it matter what kind of tea i use to grow kombucha?
+title: 'Does it matter what kind of tea i use to grow kombucha?'
 tagnames: kombucha, fermentation, kombucha-leather, question:kombucha-leather
 author: liz
 path: /notes/liz/01-19-2018/does-it-matter-what-kind-of-tea-i-use-to-grow-kombucha.md

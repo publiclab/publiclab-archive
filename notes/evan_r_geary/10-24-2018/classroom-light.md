@@ -1,5 +1,5 @@
 ---
-title: Classroom light
+title: 'Classroom light'
 tagnames: 
 author: evan_r_geary
 path: /notes/evan_r_geary/10-24-2018/classroom-light.md

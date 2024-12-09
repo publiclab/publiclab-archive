@@ -1,5 +1,5 @@
 ---
-title: Research of snow around rouds in the Samara region
+title: 'Research of snow around rouds in the Samara region'
 tagnames: spectral-analysis
 author: MariyaBlankina
 path: /notes/MariyaBlankina/03-13-2017/research-of-snow-around-rouds-in-the-samara-region.md

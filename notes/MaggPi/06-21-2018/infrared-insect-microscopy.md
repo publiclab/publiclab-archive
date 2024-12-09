@@ -1,5 +1,5 @@
 ---
-title: Infrared Insect Microscopy
+title: 'Infrared Insect Microscopy'
 tagnames: pi, raspberry, microscope, multispectral-imaging, activity:microscope, gsoc-2018, activity:community-microscope, community-microscope, noir, activity:community-microscope-usage, pin:activity:community-microscope-usage
 author: MaggPi
 path: /notes/MaggPi/06-21-2018/infrared-insect-microscopy.md

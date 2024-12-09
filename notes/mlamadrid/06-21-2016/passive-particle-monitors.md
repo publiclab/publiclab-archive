@@ -1,5 +1,5 @@
 ---
-title: Passive Particle Monitors
+title: 'Passive Particle Monitors'
 tagnames: frac-sand, particle-monitoring, with:mathew, passive-particle-monitors, passive-pm, parent:frac-sand, communityscienceforum
 author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/passive-particle-monitors.md

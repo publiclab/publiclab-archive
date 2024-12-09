@@ -1,5 +1,5 @@
 ---
-title: Any tips on the search for accessible and safe stream entry points in an urban forest?
+title: 'Any tips on the search for accessible and safe stream entry points in an urban forest?'
 tagnames: question:water-quality
 author: LaurenComSciATL
 path: /notes/LaurenComSciATL/02-28-2019/any-tips-on-the-search-for-accessible-and-safe-stream-entry-points-in-an-urban-forest.md

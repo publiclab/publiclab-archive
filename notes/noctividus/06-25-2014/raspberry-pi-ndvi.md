@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi NDVI
+title: 'Raspberry Pi NDVI'
 tagnames: near-infrared-camera, video, ndvi, mobile-phone-camera, raspberry-pi, infragram, cameras, barnstar:basic
 author: noctividus
 path: /notes/noctividus/06-25-2014/raspberry-pi-ndvi.md

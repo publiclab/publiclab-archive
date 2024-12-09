@@ -1,5 +1,5 @@
 ---
-title: Post-Ida Nurdle Spill from Plastic Rail Car derailment: lessons from Raceland
+title: 'Post-Ida Nurdle Spill from Plastic Rail Car derailment: lessons from Raceland'
 tagnames: gulf-coast, aerial-photography, water-quality, water, train, disaster-response, aerialphotography, microplastics, zoom:13, nurdle, lat:29.747288, lon:-90.608607
 author: eustatic
 path: /09-09-2021/post-ida-nurdle-spill-from-plastic-rail-car-derailment-lessons-from-raceland.md

@@ -1,5 +1,5 @@
 ---
-title: Gulf Coast Citizen Advisory Committee
+title: 'Gulf Coast Citizen Advisory Committee'
 tagnames: epa
 author: Shannon
 path: /notes/shannon/5-26-2011/gulf-coast-citizen-advisory-committee.md

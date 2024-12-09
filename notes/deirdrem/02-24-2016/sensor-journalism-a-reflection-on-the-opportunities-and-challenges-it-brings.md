@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism: A Reflection on the Opportunities and Challenges it Brings
+title: 'Sensor Journalism: A Reflection on the Opportunities and Challenges it Brings'
 tagnames: sensor-journalism, response:12748, hidden:response
 author: deirdrem
 path: /notes/deirdrem/02-24-2016/sensor-journalism-a-reflection-on-the-opportunities-and-challenges-it-brings.md

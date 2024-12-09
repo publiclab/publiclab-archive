@@ -1,5 +1,5 @@
 ---
-title: Roles
+title: 'Roles'
 tagnames: organizing, moderation, roles
 author: warren
 path: /wiki/roles.md

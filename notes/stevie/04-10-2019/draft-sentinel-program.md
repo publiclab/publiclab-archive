@@ -1,5 +1,5 @@
 ---
-title: Draft Sand Sentinel Program 
+title: 'Draft Sand Sentinel Program '
 tagnames: wisconsin, blog, frac-sand, pm, midwest, parent:frac-sand, sentinel, parent:the-sand-sentinel-program, sand-sentinel
 author: stevie
 path: /notes/stevie/04-10-2019/draft-sentinel-program.md

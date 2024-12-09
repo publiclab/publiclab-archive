@@ -1,5 +1,5 @@
 ---
-title: Education
+title: 'Education'
 tagnames: community, education, classroom, teachers
 author: liz
 path: /wiki/education.md

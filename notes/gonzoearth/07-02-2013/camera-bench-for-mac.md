@@ -1,5 +1,5 @@
 ---
-title: Camera Bench for Mac
+title: 'Camera Bench for Mac'
 tagnames: near-infrared-camera, conversion, infragram, response:8285
 author: gonzoearth
 path: /notes/gonzoearth/07-02-2013/camera-bench-for-mac.md

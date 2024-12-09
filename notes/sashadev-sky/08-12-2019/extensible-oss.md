@@ -1,5 +1,5 @@
 ---
-title: Extensible OSS
+title: 'Extensible OSS'
 tagnames: software, development
 author: sashadev-sky
 path: /notes/sashadev-sky/08-12-2019/extensible-oss.md

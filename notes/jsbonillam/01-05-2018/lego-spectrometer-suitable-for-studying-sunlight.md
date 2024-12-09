@@ -1,5 +1,5 @@
 ---
-title: Lego Spectrometer suitable for studying sunlight?
+title: 'Lego Spectrometer suitable for studying sunlight?'
 tagnames: spectrometry, raspberry-pi, sun, tool, question:spectrometry, question:air-quality, answered, airpollution, sunlight, question:raspberry-pi, question:pi-camera, question:lego-spectrometer, question:sunlight, first-time-poster
 author: jsbonillam
 path: /notes/jsbonillam/01-05-2018/lego-spectrometer-suitable-for-studying-sunlight.md

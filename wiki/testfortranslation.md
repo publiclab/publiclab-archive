@@ -1,5 +1,5 @@
 ---
-title: testfortranslation
+title: 'testfortranslation'
 tagnames: test
 author: rmeister
 path: /wiki/testfortranslation.md

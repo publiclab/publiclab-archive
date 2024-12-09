@@ -1,5 +1,5 @@
 ---
-title: Thermal Camera Used For Community Mapping
+title: 'Thermal Camera Used For Community Mapping'
 tagnames: community-mapping, thermal-technology, thermal-camera, canada, sociology-4107, newfoundland, land-use
 author: julsy709
 path: /notes/julsy709/12-18-2014/thermal-camera-used-for-community-mapping.md

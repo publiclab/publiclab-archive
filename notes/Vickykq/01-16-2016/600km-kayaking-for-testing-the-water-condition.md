@@ -1,5 +1,5 @@
 ---
-title: 600km Kayaking for testing the water condition
+title: '600km Kayaking for testing the water condition'
 tagnames: water-quality, asia, barnstar:excessive-enthusiasm, kayak, china, canton, greenovation-hub, ghub
 author: Vickykq
 path: /notes/Vickykq/01-16-2016/600km-kayaking-for-testing-the-water-condition.md

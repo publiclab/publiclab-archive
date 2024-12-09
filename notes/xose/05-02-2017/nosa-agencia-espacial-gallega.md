@@ -1,5 +1,5 @@
 ---
-title: NOSA, agencia espacial escolar gallega
+title: 'NOSA, agencia espacial escolar gallega'
 tagnames: spain, balloon, high-school, iso:es, lang:es, blog-submission
 author: xose
 path: /notes/xose/05-02-2017/nosa-agencia-espacial-gallega.md

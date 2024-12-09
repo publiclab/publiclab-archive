@@ -1,5 +1,5 @@
 ---
-title: WATER QUALITY MONITORING IN ALABAMA
+title: 'WATER QUALITY MONITORING IN ALABAMA'
 tagnames: gulf-coast, water-quality-monitoring, alabama, location:blurred, africatown-blueway, chickasaw-creek, hog-bayou, national-park-service, lat:30, lon:-88
 author: gilbert
 path: /notes/gilbert/10-11-2017/water-quality-monitoring-in-alabama.md

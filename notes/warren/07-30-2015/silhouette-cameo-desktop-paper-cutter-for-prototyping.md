@@ -1,5 +1,5 @@
 ---
-title: Silhouette Cameo desktop paper cutter for prototyping
+title: 'Silhouette Cameo desktop paper cutter for prototyping'
 tagnames: spectrometer, oil-testing-kit, papercraft, paper, die-cut, die-cutting, silhouette-cameo, prototyping, response:11751, cameo, upgrade:foldable-spec
 author: warren
 path: /notes/warren/07-30-2015/silhouette-cameo-desktop-paper-cutter-for-prototyping.md

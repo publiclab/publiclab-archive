@@ -1,5 +1,5 @@
 ---
-title: Post an event
+title: 'Post an event'
 tagnames: community, events, parent:events
 author: warren
 path: /wiki/post-an-event.md

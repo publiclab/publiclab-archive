@@ -1,5 +1,5 @@
 ---
-title: First Experiment Analyzed 
+title: 'First Experiment Analyzed '
 tagnames: hydrogen-sulfide-sensing, new-mexico, hydrogen-sulfide, h2s, h2s-photopaper
 author: megan
 path: /notes/megan/9-7-2012/first-experiment-analyzed.md

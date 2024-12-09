@@ -1,5 +1,5 @@
 ---
-title: Does Pennsylvania have air quality standards for hydrogen sulfide? 
+title: 'Does Pennsylvania have air quality standards for hydrogen sulfide? '
 tagnames: answered, question:regulations, question:legal, question:hydrogen-sulfide-regulations, question:pennsylvania, law-and-policy, question:law-and-policy
 author: gretchengehrke
 path: /notes/gretchengehrke/11-30-2017/does-pennsylvania-have-air-quality-standards-for-hydrogen-sulfide.md

@@ -1,5 +1,5 @@
 ---
-title: What would be a good basic activity to test out a data logging device in water? 
+title: 'What would be a good basic activity to test out a data logging device in water? '
 tagnames: water, riffle, question:riffle, answered, data-logging, question:general, nano, question:data-logging, data-logger
 author: stevie
 path: /notes/stevie/06-16-2017/what-would-be-a-good-basic-activity-to-test-out-a-data-logging-device-in-water.md

@@ -1,5 +1,5 @@
 ---
-title: Hunter's Point South
+title: 'Hunter's Point South'
 tagnames: new-york-city, kite-mapping, queens, northeast, hunters-point-south
 author: liz
 path: /notes/liz/08-02-2015/hunter-s-point-south.md

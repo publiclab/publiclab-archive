@@ -1,5 +1,5 @@
 ---
-title: How do I easily set up a Raspberry Pi SD card?
+title: 'How do I easily set up a Raspberry Pi SD card?'
 tagnames: raspberry-pi, pi, rpi, answered, pi-camera, question:raspberry-pi, question:pi-camera, sd-card
 author: warren
 path: /notes/warren/10-31-2017/how-do-i-easily-set-up-a-raspberry-pi-sd-card.md

@@ -1,5 +1,5 @@
 ---
-title: Query about Infragram DIY Filter Pack ( blue & red filter)
+title: 'Query about Infragram DIY Filter Pack ( blue & red filter)'
 tagnames: question:infragram, question:question, first-time-poster
 author: suman
 path: /notes/suman/11-22-2016/query-about-infragram-diy-filter-pack-blue-red-filter.md

@@ -1,5 +1,5 @@
 ---
-title: A Near Perfect CFL (compact fluorescent light) Calibration
+title: 'A Near Perfect CFL (compact fluorescent light) Calibration'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/09-10-2016/a-near-perfect-cfl-compact-fluorescent-light-calibration.md

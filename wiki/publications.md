@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: 'Publications'
 tagnames: 
 author: 
 path: /wiki/publications.md

@@ -1,5 +1,5 @@
 ---
-title: What are your experiences with optical gas imaging cameras?
+title: 'What are your experiences with optical gas imaging cameras?'
 tagnames: infrared-camera, air-quality, flir, gas, question:oil-and-gas, question:flir, question:gas-finder, gas-finder
 author: liz
 path: /notes/liz/01-24-2018/what-are-your-experiences-with-optical-gas-imaging-cameras.md

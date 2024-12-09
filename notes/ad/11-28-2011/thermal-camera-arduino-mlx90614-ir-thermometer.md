@@ -1,5 +1,5 @@
 ---
-title: Thermal Camera: Arduino + MLX90614 IR Thermometer
+title: 'Thermal Camera: Arduino + MLX90614 IR Thermometer'
 tagnames: 
 author: ad
 path: /notes/ad/11-28-2011/thermal-camera-arduino-mlx90614-ir-thermometer.md

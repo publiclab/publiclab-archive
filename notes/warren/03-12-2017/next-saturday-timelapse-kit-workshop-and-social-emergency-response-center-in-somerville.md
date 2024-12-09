@@ -1,5 +1,5 @@
 ---
-title: Next Saturday: Timelapse Kit workshop and Social Emergency Response Center in Somerville
+title: 'Next Saturday: Timelapse Kit workshop and Social Emergency Response Center in Somerville'
 tagnames: somerville-massachusetts, boston, partsandcrafts, workshop, photo-monitoring, event, somerville, timelapse, northeast, event:rsvp, 2, 1, serc, ds4si, date:03-18-2017, rsvp:xose
 author: warren
 path: /notes/warren/03-12-2017/next-saturday-timelapse-kit-workshop-and-social-emergency-response-center-in-somerville.md

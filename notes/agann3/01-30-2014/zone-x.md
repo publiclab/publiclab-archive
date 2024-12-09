@@ -1,5 +1,5 @@
 ---
-title: Zone X
+title: 'Zone X'
 tagnames: architecture, memphis
 author: agann3
 path: /notes/agann3/01-30-2014/zone-x.md

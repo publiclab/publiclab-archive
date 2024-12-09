@@ -1,5 +1,5 @@
 ---
-title: oil-testing-workshop-analyzing-and-sharing
+title: 'oil-testing-workshop-analyzing-and-sharing'
 tagnames: spectrometer, workshop, oil-testing-kit, parent:oil-testing-workshops
 author: liz
 path: /wiki/oil-testing-workshop-analyzing-and-sharing.md

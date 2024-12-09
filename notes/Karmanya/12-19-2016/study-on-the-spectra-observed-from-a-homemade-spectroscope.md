@@ -1,5 +1,5 @@
 ---
-title: Study on the spectra observed from a homemade spectroscope
+title: 'Study on the spectra observed from a homemade spectroscope'
 tagnames: spectrometer, assembly, smartphone-spectrometer, smartphone, foldable, foldable-spectrometer, hardware, gcin, gcin-2016, replication:13577
 author: Karmanya
 path: /notes/Karmanya/12-19-2016/study-on-the-spectra-observed-from-a-homemade-spectroscope.md

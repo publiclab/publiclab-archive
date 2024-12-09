@@ -1,5 +1,5 @@
 ---
-title: Public Laboratory Store
+title: 'Public Laboratory Store'
 tagnames: 
 author: warren
 path: /wiki/store.md

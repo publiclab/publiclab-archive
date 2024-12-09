@@ -1,5 +1,5 @@
 ---
-title: Looking for people to help modify 3d printed pieces for the microscope.
+title: 'Looking for people to help modify 3d printed pieces for the microscope.'
 tagnames: kits, 3d-printing, request, 3dprinting, question:question, question:microscope, requests, question:request, question:3d-printing, question:3dprinting
 author: stevie
 path: /notes/stevie/04-12-2018/looking-for-people-to-help-modify-3d-printed-pieces-for-the-microscope.md

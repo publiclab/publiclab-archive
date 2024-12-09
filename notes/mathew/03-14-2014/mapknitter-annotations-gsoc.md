@@ -1,5 +1,5 @@
 ---
-title: Mapknitter Annotations (GSOC)
+title: 'Mapknitter Annotations (GSOC)'
 tagnames: balloon-mapping, mapknitter, archive, gsoc, annotation, map-annotations, qgis
 author: mathew
 path: /notes/mathew/03-14-2014/mapknitter-annotations-gsoc.md

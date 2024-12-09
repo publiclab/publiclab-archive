@@ -1,5 +1,5 @@
 ---
-title: Long Thermistor Test
+title: 'Long Thermistor Test'
 tagnames: thermal-fishing-bob, multiple-thermistor, long-thermistor
 author: kgrevera
 path: /notes/kgrevera/08-22-2015/long-thermistor-test.md

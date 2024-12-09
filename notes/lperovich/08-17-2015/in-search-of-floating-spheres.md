@@ -1,5 +1,5 @@
 ---
-title: in search of floating spheres...
+title: 'in search of floating spheres...'
 tagnames: thermal-fishing, thermal-fishing-bob, riffle
 author: lperovich
 path: /notes/lperovich/08-17-2015/in-search-of-floating-spheres.md

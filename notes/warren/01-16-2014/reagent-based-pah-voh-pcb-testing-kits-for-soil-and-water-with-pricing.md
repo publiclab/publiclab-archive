@@ -1,5 +1,5 @@
 ---
-title: Reagent-based PAH, VOH, PCB testing kits for soil and water, with pricing
+title: 'Reagent-based PAH, VOH, PCB testing kits for soil and water, with pricing'
 tagnames: spectrometer, field-testing, soil, testing, water, pah, reagents, voh, pcb, colorimetry, screen-soil
 author: warren
 path: /notes/warren/01-16-2014/reagent-based-pah-voh-pcb-testing-kits-for-soil-and-water-with-pricing.md

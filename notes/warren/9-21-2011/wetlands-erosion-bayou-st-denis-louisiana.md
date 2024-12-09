@@ -1,5 +1,5 @@
 ---
-title: Wetlands erosion in Bayou St Denis, Louisiana
+title: 'Wetlands erosion in Bayou St Denis, Louisiana'
 tagnames: gulf-coast, wetlands, erosion, lousiana, place:bayou-st-denis
 author: warren
 path: /notes/warren/9-21-2011/wetlands-erosion-bayou-st-denis-louisiana.md

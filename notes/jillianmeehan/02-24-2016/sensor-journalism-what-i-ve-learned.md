@@ -1,5 +1,5 @@
 ---
-title: Sensor Journalism: What I've Learned
+title: 'Sensor Journalism: What I've Learned'
 tagnames: sensor-journalism, response:12748, hidden:response
 author: jillianmeehan
 path: /notes/jillianmeehan/02-24-2016/sensor-journalism-what-i-ve-learned.md

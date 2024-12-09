@@ -1,5 +1,5 @@
 ---
-title: PLOTS sitemap
+title: 'PLOTS sitemap'
 tagnames: 
 author: warren
 path: /notes/warren/4-13-2012/plots-sitemap.md

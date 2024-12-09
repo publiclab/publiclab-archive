@@ -1,5 +1,5 @@
 ---
-title: WebJack progress
+title: 'WebJack progress'
 tagnames: arduino, arduino-uno, sensor-readout, sensor-nodes, serial-link, webjack, activity:webjack, category:dev
 author: rmeister
 path: /notes/rmeister/07-11-2016/webjack-progress.md

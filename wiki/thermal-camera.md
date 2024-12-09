@@ -1,5 +1,5 @@
 ---
-title: Thermal camera
+title: 'Thermal camera'
 tagnames: redirect:3
 author: warren
 path: /wiki/thermal-camera.md

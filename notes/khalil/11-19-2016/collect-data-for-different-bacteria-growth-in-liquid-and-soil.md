@@ -1,5 +1,5 @@
 ---
-title: collect data for different bacteria growth in liquid and soil
+title: 'collect data for different bacteria growth in liquid and soil'
 tagnames: water, bacteria, drinking, cultivation
 author: khalil
 path: /notes/khalil/11-19-2016/collect-data-for-different-bacteria-growth-in-liquid-and-soil.md

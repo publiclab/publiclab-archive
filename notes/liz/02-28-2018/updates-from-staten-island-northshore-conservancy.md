@@ -1,5 +1,5 @@
 ---
-title: Updates from Staten Island Northshore Conservancy
+title: 'Updates from Staten Island Northshore Conservancy'
 tagnames: 
 author: liz
 path: /notes/liz/02-28-2018/updates-from-staten-island-northshore-conservancy.md

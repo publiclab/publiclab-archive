@@ -1,5 +1,5 @@
 ---
-title: How big is the filter in the infragram DIY filter pack?
+title: 'How big is the filter in the infragram DIY filter pack?'
 tagnames: ndvi, nir, filter, question:infragram, answered, question:kits, question:filter-pack, first-time-poster
 author: robotfarms
 path: /notes/robotfarms/10-15-2017/how-big-is-the-filter-in-the-infragram-diy-filter-pack.md

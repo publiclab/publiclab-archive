@@ -1,5 +1,5 @@
 ---
-title: Is there an offline version of Mapknitter? 
+title: 'Is there an offline version of Mapknitter? '
 tagnames: mapknitter, answered, question:mapknitter
 author: stevie
 path: /notes/stevie/09-20-2017/is-there-an-offline-version-of-mapknitter.md

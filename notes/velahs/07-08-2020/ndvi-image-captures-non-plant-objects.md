@@ -1,5 +1,5 @@
 ---
-title: NDVI Image Captures Non-Plant Objects
+title: 'NDVI Image Captures Non-Plant Objects'
 tagnames: ndvi, infrared, infragram, question:ndvi, barnstar:photo-documentation, question:infragram, question:infrared, raspberrypi, first-time-poster, bluefilter, automatedfieldphenomics
 author: velahs
 path: /notes/velahs/07-08-2020/ndvi-image-captures-non-plant-objects.md

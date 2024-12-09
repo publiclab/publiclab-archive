@@ -1,5 +1,5 @@
 ---
-title: Picavet PET rig
+title: 'Picavet PET rig'
 tagnames: activity:photo-rig
 author: mathew
 path: /notes/mathew/2-5-2012/picavet-pet-rig.md

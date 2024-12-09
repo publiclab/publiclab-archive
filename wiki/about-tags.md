@@ -1,5 +1,5 @@
 ---
-title: About Tags
+title: 'About Tags'
 tagnames: website, tags, topics, tagging, parent:website
 author: bhamster
 path: /wiki/about-tags.md

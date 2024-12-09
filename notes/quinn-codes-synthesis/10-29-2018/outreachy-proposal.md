@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal
+title: 'Outreachy proposal'
 tagnames: software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster
 author: quinn-codes-synthesis
 path: /notes/quinn-codes-synthesis/10-29-2018/outreachy-proposal.md

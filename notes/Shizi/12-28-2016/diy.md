@@ -1,5 +1,5 @@
 ---
-title: 拓展diy净水组件 
+title: '拓展diy净水组件 '
 tagnames: water-quality, purelab
 author: Shizi
 path: /notes/Shizi/12-28-2016/diy.md

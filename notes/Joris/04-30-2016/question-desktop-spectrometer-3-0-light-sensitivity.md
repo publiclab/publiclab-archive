@@ -1,5 +1,5 @@
 ---
-title: Question: desktop spectrometer 3.0 light sensitivity
+title: 'Question: desktop spectrometer 3.0 light sensitivity'
 tagnames: question:spectral-workbench, first-time-poster
 author: Joris
 path: /notes/Joris/04-30-2016/question-desktop-spectrometer-3-0-light-sensitivity.md

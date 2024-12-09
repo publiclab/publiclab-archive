@@ -1,5 +1,5 @@
 ---
-title: What are water quality parameters we should monitor to understand our local stream health? 
+title: 'What are water quality parameters we should monitor to understand our local stream health? '
 tagnames: answered, question:water-quality, question:water-sampling, question:water, question:water-monitoring
 author: stevie
 path: /notes/stevie/03-21-2018/what-are-water-quality-parameters-we-should-monitor-to-understand-our-local-stream-health.md

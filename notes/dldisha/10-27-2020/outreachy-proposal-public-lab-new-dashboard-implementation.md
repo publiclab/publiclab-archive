@@ -1,5 +1,5 @@
 ---
-title: Outreachy proposal: Public Lab New Dashboard Implementation
+title: 'Outreachy proposal: Public Lab New Dashboard Implementation'
 tagnames: software, first-time-poster, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687
 author: dldisha
 path: /notes/dldisha/10-27-2020/outreachy-proposal-public-lab-new-dashboard-implementation.md

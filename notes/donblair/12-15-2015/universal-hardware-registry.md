@@ -1,5 +1,5 @@
 ---
-title: Universal Hardware Registry?
+title: 'Universal Hardware Registry?'
 tagnames: open-hardware, hardware, units, mayan-codex
 author: donblair
 path: /notes/donblair/12-15-2015/universal-hardware-registry.md

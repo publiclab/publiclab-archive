@@ -1,5 +1,5 @@
 ---
-title: Balloon mapping in Qatar
+title: 'Balloon mapping in Qatar'
 tagnames: balloon-mapping, qatar, middle-east, first-time-poster
 author: huslage
 path: /notes/huslage/5-1-2013/balloon-mapping-qatar.md

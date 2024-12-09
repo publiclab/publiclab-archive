@@ -1,5 +1,5 @@
 ---
-title: Public Lab Seeking Documentation Fellow
+title: 'Public Lab Seeking Documentation Fellow'
 tagnames: documentation, air-quality, jobs, fellows, fellowship, community-organizing, fellow
 author: stevie
 path: /notes/stevie/02-16-2021/public-lab-seeking-documentation-fellow.md

@@ -1,5 +1,5 @@
 ---
-title: Coqui draft board design on Upverter
+title: 'Coqui draft board design on Upverter'
 tagnames: vermont, leaffest, conductivity, pcb, upverter, riffle, open-water, northeast, 555, leaffest2014, coqui, schematic, activity:coqui-version
 author: warren
 path: /notes/warren/09-14-2014/coqui-draft-board-design-on-upverter.md

@@ -1,5 +1,5 @@
 ---
-title: prompt-add-photo
+title: 'prompt-add-photo'
 tagnames: 
 author: warren
 path: /feature/prompt-add-photo.md

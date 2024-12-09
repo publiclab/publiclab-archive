@@ -1,5 +1,5 @@
 ---
-title: Public Lab to participate in IDEAS CITY with Kickstarter
+title: 'Public Lab to participate in IDEAS CITY with Kickstarter'
 tagnames: new-york-city, festival, public-space
 author: liz
 path: /notes/liz/3-14-2013/public-lab-participate-ideas-city-kickstarter.md

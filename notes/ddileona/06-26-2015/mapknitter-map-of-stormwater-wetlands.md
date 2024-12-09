@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Stormwater Wetlands 
+title: 'MapKnitter map of Stormwater Wetlands '
 tagnames: gulf-coast, mapknitter, neworleans, lat:29.9920173171, lon:-90.0907498598
 author: ddileona
 path: /notes/ddileona/06-26-2015/mapknitter-map-of-stormwater-wetlands.md

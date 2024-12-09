@@ -1,5 +1,5 @@
 ---
-title: Circuit Diagrams for 5V Melexis Sensor
+title: 'Circuit Diagrams for 5V Melexis Sensor'
 tagnames: thermal-photography
 author: sara
 path: /notes/sara/2-7-2012/circuit-diagram-5v-melexis-sensor.md

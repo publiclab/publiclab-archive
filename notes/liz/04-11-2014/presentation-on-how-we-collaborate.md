@@ -1,5 +1,5 @@
 ---
-title: Presentation on how we collaborate
+title: 'Presentation on how we collaborate'
 tagnames: collaboration, presentations, presentation, asia, taipei
 author: liz
 path: /notes/liz/04-11-2014/presentation-on-how-we-collaborate.md

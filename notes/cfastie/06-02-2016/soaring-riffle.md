@@ -1,5 +1,5 @@
 ---
-title: Soaring Riffle
+title: 'Soaring Riffle'
 tagnames: arduino, vermont, temperature, kap, photo-rig, gps, sensors, water-quality, riffle, pressure, barnstar:photo-documentation, humidity, saturnv, skyshield, half-spherical, noise, response:13149, barometric, category:field-test, activity:riffle, riffle-examples, s100-gps
 author: cfastie
 path: /notes/cfastie/06-02-2016/soaring-riffle.md

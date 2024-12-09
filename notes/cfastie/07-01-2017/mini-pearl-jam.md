@@ -1,5 +1,5 @@
 ---
-title: Mini Pearl Jam
+title: 'Mini Pearl Jam'
 tagnames: arduino, sensors, data-logging, bme280, arduino-pro-mini, mcp9808, response:14518, mini-pearl-logger, activity:mini-pearl-logger
 author: cfastie
 path: /notes/cfastie/07-01-2017/mini-pearl-jam.md

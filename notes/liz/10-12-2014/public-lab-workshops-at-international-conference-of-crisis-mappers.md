@@ -1,5 +1,5 @@
 ---
-title: Public Lab workshops at International Conference of Crisis Mappers
+title: 'Public Lab workshops at International Conference of Crisis Mappers'
 tagnames: new-york-city, balloon-mapping, event, oil-testing, event:rsvp, rsvp:bronwen, date:11-06-2014, rsvp:kimberlyhaas, rsvp:devinb
 author: liz
 path: /notes/liz/10-12-2014/public-lab-workshops-at-international-conference-of-crisis-mappers.md

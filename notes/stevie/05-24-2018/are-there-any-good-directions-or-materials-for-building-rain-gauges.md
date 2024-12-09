@@ -1,5 +1,5 @@
 ---
-title: Are there any good directions or materials for building rain gauges? 
+title: 'Are there any good directions or materials for building rain gauges? '
 tagnames: stormwater, answered, question:stormwater, raingauge, question:raingauge, question:rain-gauge, rain-gauge
 author: stevie
 path: /notes/stevie/05-24-2018/are-there-any-good-directions-or-materials-for-building-rain-gauges.md

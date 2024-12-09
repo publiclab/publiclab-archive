@@ -1,5 +1,5 @@
 ---
-title: Photos of my modifications to the sprctrograph
+title: 'Photos of my modifications to the sprctrograph'
 tagnames: spectrometer, dsk, tripod
 author: Naljorpa
 path: /notes/Naljorpa/11-07-2013/photos-of-my-modifications-to-the-sprctrograph.md

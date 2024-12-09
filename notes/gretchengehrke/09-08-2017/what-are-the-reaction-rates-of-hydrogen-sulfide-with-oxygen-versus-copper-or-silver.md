@@ -1,5 +1,5 @@
 ---
-title: What are the reaction rates of hydrogen sulfide with oxygen versus copper or silver? 
+title: 'What are the reaction rates of hydrogen sulfide with oxygen versus copper or silver? '
 tagnames: hydrogen-sulfide, h2s, silver, copper, h2s-photopaper, h2s-copper-pipe, question:h2s-copper-pipe, question:h2s-photopaper
 author: gretchengehrke
 path: /notes/gretchengehrke/09-08-2017/what-are-the-reaction-rates-of-hydrogen-sulfide-with-oxygen-versus-copper-or-silver.md

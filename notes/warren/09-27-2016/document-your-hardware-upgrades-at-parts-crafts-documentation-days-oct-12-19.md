@@ -1,5 +1,5 @@
 ---
-title: Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19
+title: 'Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19'
 tagnames: open-hardware, documentation, partsandcrafts, event, somerville, desktop-spectrometer, desktop-spectrometer-assembly, desktop-spectrometry-kit, event:rsvp, upgrades, oshwa, replication, documenation-days, date:09-12-2016
 author: warren
 path: /notes/warren/09-27-2016/document-your-hardware-upgrades-at-parts-crafts-documentation-days-oct-12-19.md

@@ -1,5 +1,5 @@
 ---
-title: pictures from LlactaLab workshop
+title: 'pictures from LlactaLab workshop'
 tagnames: ecuador, llactalab, cuenca
 author: liz
 path: /notes/liz/11-10-2015/pictures-from-llactalab-workshop.md

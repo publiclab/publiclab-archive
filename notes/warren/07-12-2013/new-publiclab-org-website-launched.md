@@ -1,5 +1,5 @@
 ---
-title: New PublicLab.org website launched
+title: 'New PublicLab.org website launched'
 tagnames: website, plots2, design, ui
 author: warren
 path: /notes/warren/07-12-2013/new-publiclab-org-website-launched.md

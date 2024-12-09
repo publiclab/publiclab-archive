@@ -1,5 +1,5 @@
 ---
-title: Adventures in Geocoding: Getting lat/lng data for EWG's PFA pollution map
+title: 'Adventures in Geocoding: Getting lat/lng data for EWG's PFA pollution map'
 tagnames: water, map, pfas, geocode
 author: ephemeralwaves
 path: /notes/ephemeralwaves/03-09-2019/adventures-in-geocoding-getting-lat-lng-data-for-ewg-s-pfa-pollution-map.md

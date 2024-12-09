@@ -1,5 +1,5 @@
 ---
-title: Working Oil Testing Event Guide 
+title: 'Working Oil Testing Event Guide '
 tagnames: spectrometer, community, workshop, oil-response-toolkit, oil-testing-kit, event-guide, activity:host-an-event, activity:teach-and-learn
 author: stevie
 path: /notes/stevie/08-13-2014/working-oil-testing-event-guide.md

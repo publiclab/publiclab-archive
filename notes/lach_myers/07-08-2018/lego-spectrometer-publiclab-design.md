@@ -1,5 +1,5 @@
 ---
-title: Lego spectrometer - Publiclab design
+title: 'Lego spectrometer - Publiclab design'
 tagnames: spectrometer, spectrometry, fluorescence, raspberry-pi, lego, raspberry-pi-spectrometer, lego-spectrometer, response:15360, replication:15360
 author: lach_myers
 path: /notes/lach_myers/07-08-2018/lego-spectrometer-publiclab-design.md

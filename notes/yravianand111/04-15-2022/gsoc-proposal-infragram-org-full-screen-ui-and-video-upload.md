@@ -1,5 +1,5 @@
 ---
-title: GSoC"proposal: Infragram.org full-screen UI and video upload 
+title: 'GSoC"proposal: Infragram.org full-screen UI and video upload '
 tagnames: software, gsoc, soc, first-time-poster, gsoc-2022, gsoc-2022-proposals
 author: yravianand111
 path: /notes/yravianand111/04-15-2022/gsoc-proposal-infragram-org-full-screen-ui-and-video-upload.md

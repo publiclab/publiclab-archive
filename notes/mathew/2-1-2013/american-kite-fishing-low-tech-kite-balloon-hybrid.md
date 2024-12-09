@@ -1,5 +1,5 @@
 ---
-title: American Kite Fishing, low-tech Kite-Balloon hybrid
+title: 'American Kite Fishing, low-tech Kite-Balloon hybrid'
 tagnames: kite-mapping, kite-balloon-hybrid, kite-fishing, off-wind-flying
 author: mathew
 path: /notes/mathew/2-1-2013/american-kite-fishing-low-tech-kite-balloon-hybrid.md

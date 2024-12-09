@@ -1,5 +1,5 @@
 ---
-title: Adjustment of slit in Gullaume123 spectrometer
+title: 'Adjustment of slit in Gullaume123 spectrometer'
 tagnames: spectrometer, slit, slit-width, slit_adjustment
 author: Guillaume123
 path: /notes/Guillaume123/01-23-2015/adjustment-of-slit-in-gullaume123-spectrometer.md

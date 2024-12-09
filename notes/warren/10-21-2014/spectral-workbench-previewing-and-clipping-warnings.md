@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench previewing and clipping warnings
+title: 'Spectral Workbench previewing and clipping warnings'
 tagnames: spectrometer, fluorescence, spectral-workbench, oil-testing-kit, response:11173
 author: warren
 path: /notes/warren/10-21-2014/spectral-workbench-previewing-and-clipping-warnings.md

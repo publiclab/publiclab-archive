@@ -1,5 +1,5 @@
 ---
-title: DevelopmentSeed post on WhereCamp 2011
+title: 'DevelopmentSeed post on WhereCamp 2011'
 tagnames: 
 author: warren
 path: /notes/warren/6-2-2011/developmentseed-post-wherecamp-2011.md

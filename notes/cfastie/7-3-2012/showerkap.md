@@ -1,5 +1,5 @@
 ---
-title: The ShowerKAP
+title: 'The ShowerKAP'
 tagnames: near-infrared-camera, kite-mapping, alaska, photo-rig, akrange, activity:photo-rig
 author: cfastie
 path: /notes/cfastie/7-3-2012/showerkap.md

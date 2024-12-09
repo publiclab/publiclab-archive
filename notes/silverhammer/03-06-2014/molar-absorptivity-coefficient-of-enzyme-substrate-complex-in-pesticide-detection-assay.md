@@ -1,5 +1,5 @@
 ---
-title: Molar Absorptivity Coefficient of Enzyme-Substrate Complex in Pesticide Detection Assay
+title: 'Molar Absorptivity Coefficient of Enzyme-Substrate Complex in Pesticide Detection Assay'
 tagnames: spectrometer, pesticides, raspberries
 author: silverhammer
 path: /notes/silverhammer/03-06-2014/molar-absorptivity-coefficient-of-enzyme-substrate-complex-in-pesticide-detection-assay.md

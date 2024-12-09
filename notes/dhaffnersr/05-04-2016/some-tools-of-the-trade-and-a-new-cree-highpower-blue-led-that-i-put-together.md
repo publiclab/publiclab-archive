@@ -1,5 +1,5 @@
 ---
-title: Some tools of the trade and a new Cree highpower Blue LED that I put together
+title: 'Some tools of the trade and a new Cree highpower Blue LED that I put together'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-04-2016/some-tools-of-the-trade-and-a-new-cree-highpower-blue-led-that-i-put-together.md

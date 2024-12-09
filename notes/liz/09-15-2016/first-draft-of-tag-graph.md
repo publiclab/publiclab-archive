@@ -1,5 +1,5 @@
 ---
-title: First draft of tag graph
+title: 'First draft of tag graph'
 tagnames: community-metrics, evaluation, with:bsugar
 author: liz
 path: /notes/liz/09-15-2016/first-draft-of-tag-graph.md

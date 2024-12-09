@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code: Second Evaluations
+title: 'Google Summer of Code: Second Evaluations'
 tagnames: gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval
 author: rexagod
 path: /notes/rexagod/07-21-2019/google-summer-of-code-second-evaluations.md

@@ -1,5 +1,5 @@
 ---
-title: Outreachy Proposal 2019 For Public Lab: 
+title: 'Outreachy Proposal 2019 For Public Lab: '
 tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, lat:12.971598, lon:77.594562, outreachy-2019, soc-2019-proposals, outreachy-2019-proposals, soc-2019-projects
 author: gautami_gg
 path: /notes/gautami_gg/03-26-2019/outreachy-proposal-2019-for-public-lab.md

@@ -1,5 +1,5 @@
 ---
-title: Inline maps examples
+title: 'Inline maps examples'
 tagnames: parent:inline-maps, inline-maps
 author: warren
 path: /wiki/inline-maps-examples.md

@@ -1,5 +1,5 @@
 ---
-title: Trawling with BabyLegs in New Orleans City Park!
+title: 'Trawling with BabyLegs in New Orleans City Park!'
 tagnames: new-orleans, water-quality, barnstar:excessive-enthusiasm, micro-plastics, microplastics, babylegs, trawl, baby-legs, lat:29.993002, lon:-90.08789
 author: mimiss
 path: /notes/mimiss/08-05-2019/trawling-with-babylegs-in-new-orleans-city-park.md

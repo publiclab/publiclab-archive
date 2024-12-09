@@ -1,5 +1,5 @@
 ---
-title: New Orleans February Water Quality Meet-up
+title: 'New Orleans February Water Quality Meet-up'
 tagnames: gulf-coast, event, water-quality, event:rsvp, urbanwater, coqui, date:02-26-2015
 author: stevie
 path: /notes/stevie/02-02-2015/new-orleans-feburary-water-quality-meet-up.md

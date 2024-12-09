@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code: Phase II
+title: 'Google Summer of Code: Phase II'
 tagnames: gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval
 author: IshaGupta18
 path: /notes/IshaGupta18/07-22-2019/google-summer-of-code-phase-ii.md

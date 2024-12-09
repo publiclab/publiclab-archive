@@ -1,5 +1,5 @@
 ---
-title: Moar NIR tracking
+title: 'Moar NIR tracking'
 tagnames: near-infrared-camera, vermont, infrared, leaffest, infragram, histogram, led, leaffest2013, frosted-globe
 author: cfastie
 path: /notes/cfastie/09-12-2013/moar-nir-tracking.md

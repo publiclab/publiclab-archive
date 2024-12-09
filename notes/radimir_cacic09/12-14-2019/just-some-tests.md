@@ -1,5 +1,5 @@
 ---
-title: Just some tests :)
+title: 'Just some tests :)'
 tagnames: first-time-poster
 author: radimir_cacic09
 path: /notes/radimir_cacic09/12-14-2019/just-some-tests.md

@@ -1,5 +1,5 @@
 ---
-title: Attributing Public Laboratory work
+title: 'Attributing Public Laboratory work'
 tagnames: community
 author: warren
 path: /wiki/attribution.md

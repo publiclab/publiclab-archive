@@ -1,5 +1,5 @@
 ---
-title: How could we design a group activity around siting air sensors?
+title: 'How could we design a group activity around siting air sensors?'
 tagnames: education, curriculum, air-quality, classroom, question:dustduino, humidity, study-design, question:education, question:classroom, plantower, purple-air, question:simple-air-sensor, simple-air-sensor, simple-air-sensors
 author: warren
 path: /notes/warren/06-24-2019/how-could-we-design-a-group-activity-around-siting-air-sensors.md

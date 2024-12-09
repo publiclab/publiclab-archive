@@ -1,5 +1,5 @@
 ---
-title: Summerlab 2018: citizen investigation and civic use of technology
+title: 'Summerlab 2018: citizen investigation and civic use of technology'
 tagnames: spain, citizen-science, event, event:rsvp, gaimec, diwosurvival, date:07-11-2018, rsvp:zengirl2
 author: imvec
 path: /notes/imvec/07-06-2018/summerlab-2018-citizen-investigation-and-civic-use-of-technology.md

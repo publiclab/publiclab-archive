@@ -1,5 +1,5 @@
 ---
-title: Spring Fling: Calibrating the Coqui
+title: 'Spring Fling: Calibrating the Coqui'
 tagnames: gulf-coast, list:plots-waterquality, coqui
 author: ddileona
 path: /notes/ddileona/03-20-2015/spring-fling-calibrating-the-coqui.md

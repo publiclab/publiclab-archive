@@ -1,5 +1,5 @@
 ---
-title: Canon A2200 NIR conversion
+title: 'Canon A2200 NIR conversion'
 tagnames: nir, leaffest, a2200, conversion, infragram-conversion
 author: nedhorning
 path: /notes/nedhorning/9-25-2012/canon-a2200-nir-conversion.md

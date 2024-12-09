@@ -1,5 +1,5 @@
 ---
-title: New Orleans: Urban Restoration Mapping BLITZ!
+title: 'New Orleans: Urban Restoration Mapping BLITZ!'
 tagnames: gulf-coast, balloon-mapping, events, event, event:rsvp, rsvp:danbeavers, date:10-11-2014, rsvp:brody, rsvp:williammost, rsvp:mjg2171, rsvp:jessicavarin, rsvp:tmclean, rsvp:williams, rsvp:bandi13, urbanwaters
 author: stevie
 path: /notes/stevie/09-11-2014/new-orleans-urban-restoration-mapping-blitz.md

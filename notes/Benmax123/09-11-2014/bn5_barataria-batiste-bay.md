@@ -1,5 +1,5 @@
 ---
-title: BN5_Barataria/Batiste Bay
+title: 'BN5_Barataria/Batiste Bay'
 tagnames: gulf-coast, wash, u, st., louis, washu-stlouis
 author: Benmax123
 path: /notes/Benmax123/09-11-2014/bn5_barataria-batiste-bay.md

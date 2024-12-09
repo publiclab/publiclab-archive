@@ -1,5 +1,5 @@
 ---
-title: Which objectives do you use?
+title: 'Which objectives do you use?'
 tagnames: kits, kickstarter, lens, answered, microscope, question:microscope, community-kits, optics, remixthemicroscope, response:16590, objective, question:community-microscope
 author: aquiles
 path: /notes/aquiles/07-13-2018/which-objectives-do-you-use.md

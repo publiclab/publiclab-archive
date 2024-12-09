@@ -1,5 +1,5 @@
 ---
-title: Marfork 5/15/22
+title: 'Marfork 5/15/22'
 tagnames: drones, coal-mining, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/05-16-2022/marfork-5-15-22.md

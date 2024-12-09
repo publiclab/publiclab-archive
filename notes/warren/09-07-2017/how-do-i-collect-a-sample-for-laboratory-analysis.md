@@ -1,5 +1,5 @@
 ---
-title: How do I collect a sample for laboratory analysis?
+title: 'How do I collect a sample for laboratory analysis?'
 tagnames: answered, question:water-sampling, question:soil-sampling, question:diy-oil-testing, diy-oil-testing, question:oil-sampling, question:sample-collection, knight-foundation, question:spectrometry-challenge, question:soil
 author: warren
 path: /notes/warren/09-07-2017/how-do-i-collect-a-sample-for-laboratory-analysis.md

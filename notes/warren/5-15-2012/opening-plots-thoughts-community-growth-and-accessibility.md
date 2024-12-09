@@ -1,5 +1,5 @@
 ---
-title: Opening up PLOTS: thoughts on community growth and accessibility
+title: 'Opening up PLOTS: thoughts on community growth and accessibility'
 tagnames: community
 author: warren
 path: /notes/warren/5-15-2012/opening-plots-thoughts-community-growth-and-accessibility.md

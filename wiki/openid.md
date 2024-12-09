@@ -1,5 +1,5 @@
 ---
-title: OpenID
+title: 'OpenID'
 tagnames: 
 author: warren
 path: /wiki/openid.md

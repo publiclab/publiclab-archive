@@ -1,5 +1,5 @@
 ---
-title: BioBroth Bubbler
+title: 'BioBroth Bubbler'
 tagnames: remediation, air-quality, bacteria, tool, open-air, indoor-air-quality, indoor-air, method, chemicals, parent:diy-indoor-air-quality-remediation-kit, biobroth-bubbler
 author: warren
 path: /wiki/biobroth-bubbler.md

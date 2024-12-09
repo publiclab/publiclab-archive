@@ -1,5 +1,5 @@
 ---
-title: Does this plume count as a violation under Method 9 Opacity? (photos)
+title: 'Does this plume count as a violation under Method 9 Opacity? (photos)'
 tagnames: gulf-coast, louisiana, epa, air-quality, coal, petcoke, coal-export, dredge, question:air-quality, question:general, general, particulate-matter, air-pollution, zoom:6, cancer-alley, lat:30.050076, docks, lon:-90.659179
 author: eustatic
 path: /03-11-2022/does-this-plume-count-as-a-violation-under-method-9-opacity-photos.md

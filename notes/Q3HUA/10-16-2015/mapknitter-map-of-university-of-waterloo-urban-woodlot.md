@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of University of Waterloo Urban Woodlot
+title: 'MapKnitter map of University of Waterloo Urban Woodlot'
 tagnames: mapknitter, lat:43.4642578, lon:-80.5204096
 author: Q3HUA
 path: /notes/Q3HUA/10-16-2015/mapknitter-map-of-university-of-waterloo-urban-woodlot.md

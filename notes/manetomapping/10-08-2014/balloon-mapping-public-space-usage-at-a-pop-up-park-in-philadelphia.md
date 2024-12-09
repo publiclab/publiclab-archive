@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping Public Space Usage at a Pop-Up Park in Philadelphia 
+title: 'Balloon Mapping Public Space Usage at a Pop-Up Park in Philadelphia '
 tagnames: balloon-mapping, philadelphia, public-space, urban-design, northeast, land-use, first-time-poster
 author: manetomapping
 path: /notes/manetomapping/10-08-2014/balloon-mapping-public-space-usage-at-a-pop-up-park-in-philadelphia.md

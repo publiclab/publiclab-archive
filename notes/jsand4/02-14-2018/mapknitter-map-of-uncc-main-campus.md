@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNCC main Campus
+title: 'MapKnitter map of UNCC main Campus'
 tagnames: mapknitter, lat:35.3070929, lon:-80.735164
 author: jsand4
 path: /notes/jsand4/02-14-2018/mapknitter-map-of-uncc-main-campus.md

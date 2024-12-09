@@ -1,5 +1,5 @@
 ---
-title: KnowFlow NB-IoT version
+title: 'KnowFlow NB-IoT version'
 tagnames: water-quality, knowflow, response:14511, zoom:12, lat:30.854489, lon:120.83797
 author: rockets
 path: /notes/rockets/03-18-2020/knowflow-nb-iot-version.md

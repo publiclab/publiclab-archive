@@ -1,5 +1,5 @@
 ---
-title: Nitrogen Cycle Facts
+title: 'Nitrogen Cycle Facts'
 tagnames: lat:22, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/10-18-2022/nitrogen-cycle-facts.md

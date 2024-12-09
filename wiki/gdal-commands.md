@@ -1,5 +1,5 @@
 ---
-title: GDAL Commands
+title: 'GDAL Commands'
 tagnames: gdal
 author: warren
 path: /wiki/gdal-commands.md

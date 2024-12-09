@@ -1,5 +1,5 @@
 ---
-title: Grassroots Mapping Coal River
+title: 'Grassroots Mapping Coal River'
 tagnames: balloon-mapping, grassrootsmappingwiki, mapping, mining, mine-reclamation-photography
 author: warren
 path: /wiki/grassroots-mapping-coal-river.md

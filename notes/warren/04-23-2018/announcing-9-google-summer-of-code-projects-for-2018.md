@@ -1,5 +1,5 @@
 ---
-title: Announcing 10 Summer of Code projects for 2018
+title: 'Announcing 10 Summer of Code projects for 2018'
 tagnames: gsoc, google, blog, developers, code, wwg, soc, gsoc-2018, soc-2018, software-, summer
 author: warren
 path: /notes/warren/04-23-2018/announcing-9-google-summer-of-code-projects-for-2018.md

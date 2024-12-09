@@ -1,5 +1,5 @@
 ---
-title: MIT builds camera that can capture at the speed of light (video)
+title: 'MIT builds camera that can capture at the speed of light (video)'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/12-13-2011/mit-builds-camera-can-capture-speed-light-video.md

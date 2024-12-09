@@ -1,5 +1,5 @@
 ---
-title: spectrometer box design mockup
+title: 'spectrometer box design mockup'
 tagnames: spectrometer, packaging, revision
 author: liz
 path: /notes/liz/3-28-2013/spectrometer-box-design-mockup.md

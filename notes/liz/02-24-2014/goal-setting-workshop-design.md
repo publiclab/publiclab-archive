@@ -1,5 +1,5 @@
 ---
-title: Goal setting workshop design
+title: 'Goal setting workshop design'
 tagnames: newark, new-jersey, ironbound, icc, elp
 author: liz
 path: /notes/liz/02-24-2014/goal-setting-workshop-design.md

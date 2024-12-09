@@ -1,5 +1,5 @@
 ---
-title: New Features in Leaflet-Environmental Layers Library
+title: 'New Features in Leaflet-Environmental Layers Library'
 tagnames: pollution, leaflet, weather, geographic-features, location:blurred, lon:77, lat:23, leaflet-environmental-layers
 author: sagarpreet
 path: /notes/sagarpreet/12-20-2018/new-features-in-leaflet-environmental-layers.md

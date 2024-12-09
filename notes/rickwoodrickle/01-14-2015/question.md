@@ -1,5 +1,5 @@
 ---
-title: Is the dustduino (with Shinyei sensor) appropriate for use to study particulates at high altitude (100,00ft)?
+title: 'Is the dustduino (with Shinyei sensor) appropriate for use to study particulates at high altitude (100,00ft)?'
 tagnames: dustduino, particulates, question:dustduino, answered, shinyei, question:shinyei, question:air-sensors, high-altitude
 author: rickwoodrickle
 path: /notes/rickwoodrickle/01-14-2015/question.md

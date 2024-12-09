@@ -1,5 +1,5 @@
 ---
-title: How can we relate water quality sensor measurements to oil/gas pollution?
+title: 'How can we relate water quality sensor measurements to oil/gas pollution?'
 tagnames: oil, monitoring, question:water-quality, question:oil-and-gas, question:industry, oil-and-gas-water-trio, question:oil-and-gas-water-trio, oil-and-gas-water-quality, question:oil-and-gas-water-quality, simple-water-sensor-platform, question:simple-water-sensor-platform
 author: wmacfarl
 path: /notes/wmacfarl/09-25-2019/how-can-we-relate-water-quality-sensor-measurements-to-oil-gas-pollution.md

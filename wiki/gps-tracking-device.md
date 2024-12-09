@@ -1,5 +1,5 @@
 ---
-title: GPS tracking device
+title: 'GPS tracking device'
 tagnames: gps, umass-amherst, amherst-media, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media
 author: najwa
 path: /wiki/gps-tracking-device.md

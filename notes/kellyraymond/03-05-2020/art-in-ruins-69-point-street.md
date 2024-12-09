@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (69 Point Street)
+title: 'Art in Ruins (69 Point Street)'
 tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.817384, lon:-71.407012, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-69-point-street.md

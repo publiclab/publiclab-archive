@@ -1,5 +1,5 @@
 ---
-title: Fold-up Spectrometer Instructions
+title: 'Fold-up Spectrometer Instructions'
 tagnames: spectrometer, fold-up-mini-spectrometer
 author: mathew
 path: /notes/mathew/11-29-2012/fold-spectrometer-instructions.md

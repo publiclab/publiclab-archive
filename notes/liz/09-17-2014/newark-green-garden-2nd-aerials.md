@@ -1,5 +1,5 @@
 ---
-title: Newark Green Garden 2nd aerials
+title: 'Newark Green Garden 2nd aerials'
 tagnames: newark, new-jersey, urban-ag, garden, pole-photography, food, elp, northeast, with:thegreencommunitygarden
 author: liz
 path: /notes/liz/09-17-2014/newark-green-garden-2nd-aerials.md

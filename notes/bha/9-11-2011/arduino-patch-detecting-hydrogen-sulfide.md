@@ -1,5 +1,5 @@
 ---
-title: The arduino patch for detecting Hydrogen Sulfide
+title: 'The arduino patch for detecting Hydrogen Sulfide'
 tagnames: arduino, h2s, hydrogen-sulfide-sensor
 author: bha
 path: /notes/bha/9-11-2011/arduino-patch-detecting-hydrogen-sulfide.md

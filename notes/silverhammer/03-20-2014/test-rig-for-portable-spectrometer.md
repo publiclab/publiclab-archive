@@ -1,5 +1,5 @@
 ---
-title: Test Rig for Portable Spectrometer
+title: 'Test Rig for Portable Spectrometer'
 tagnames: spectrometer, light-source, portable
 author: silverhammer
 path: /notes/silverhammer/03-20-2014/test-rig-for-portable-spectrometer.md

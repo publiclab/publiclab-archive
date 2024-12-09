@@ -1,5 +1,5 @@
 ---
-title: How do you apply a calibration from one spectra to another? I calibrated one image of a halogen spectra, and am unable to apply that calibration to subsequent spectra, when i try i am just told "No Results"
+title: 'How do you apply a calibration from one spectra to another? I calibrated one image of a halogen spectra, and am unable to apply that calibration to subsequent spectra, when i try i am just told "No Results"'
 tagnames: calibration, halogen-lamp, spectral-workbench, question:general, general, first-time-poster
 author: louisferreira12
 path: /notes/louisferreira12/03-14-2021/how-do-you-apply-a-calibration-from-one-spectra-to-another-i-calibrated-one-image-of-a-halogen-spectra-and-am-unable-to-apply-that-calibration-to-subsequent-spectra-when-i-try-i-am-just-told-no-results.md

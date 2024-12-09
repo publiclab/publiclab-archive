@@ -1,5 +1,5 @@
 ---
-title: Frozen Riffle?
+title: 'Frozen Riffle?'
 tagnames: arduino, temperature, sensors, water-quality, riffle, micro-sd, response:13127, category:test-limits, data-logging, riffle-examples
 author: cfastie
 path: /notes/cfastie/05-19-2016/frozen-riffle.md

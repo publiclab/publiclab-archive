@@ -1,5 +1,5 @@
 ---
-title: Career goals after Outreachy
+title: 'Career goals after Outreachy'
 tagnames: blog-submission, soc, location:blurred, place:iran, lat:22, outreachy, lon:76, zoom:6
 author: christie_reni
 path: /notes/christie_reni/02-11-2020/career-goals-after-outreachy.md

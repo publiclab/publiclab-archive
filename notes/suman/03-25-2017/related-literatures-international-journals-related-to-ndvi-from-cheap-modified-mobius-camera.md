@@ -1,5 +1,5 @@
 ---
-title: Related Literatures, International Journals related to NDVI from Cheap Modified Mobius Camera
+title: 'Related Literatures, International Journals related to NDVI from Cheap Modified Mobius Camera'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, nrg, ndvi, infrared, infragram, infrablue, question:general
 author: suman
 path: /notes/suman/03-25-2017/related-literatures-international-journals-related-to-ndvi-from-cheap-modified-mobius-camera.md

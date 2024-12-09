@@ -1,5 +1,5 @@
 ---
-title: Wind
+title: 'Wind'
 tagnames: atmosphere, wind, weather, activities:wind, questions:wind
 author: warren
 path: /wiki/wind.md

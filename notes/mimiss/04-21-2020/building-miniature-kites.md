@@ -1,5 +1,5 @@
 ---
-title: Building Miniature Kites
+title: 'Building Miniature Kites'
 tagnames: education, diy-kite, diy-kites, builds, activity:education, mini-kite-build, activity:mini-kite-build, mini-kite
 author: mimiss
 path: /notes/mimiss/04-21-2020/building-miniature-kites.md

@@ -1,5 +1,5 @@
 ---
-title: Barataria 2014: I February 9th
+title: 'Barataria 2014: I February 9th'
 tagnames: barataria-bay, kite-mapping, wetlands, louisiana, wetland, bp, patagonia
 author: eustatic
 path: /02-12-2014/barataria-2014-february-9th.md

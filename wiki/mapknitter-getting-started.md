@@ -1,5 +1,5 @@
 ---
-title: MapKnitter Getting Started
+title: 'MapKnitter Getting Started'
 tagnames: needs-revision, location:blurred, lat:41.82, lon:-86.25, place:niles-mi, lat:41.8297694, lng:-86.2541768, lat:41.959, lon:-86.346, place:berrien-springs-mi-49103-united-states, redirect:mapknitter
 author: gonzoearth
 path: /wiki/mapknitter-getting-started.md

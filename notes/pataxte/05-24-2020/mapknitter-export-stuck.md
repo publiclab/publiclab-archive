@@ -1,5 +1,5 @@
 ---
-title: mapknitter export stuck
+title: 'mapknitter export stuck'
 tagnames: mapknitter, question:general, general
 author: pataxte
 path: /notes/pataxte/05-24-2020/mapknitter-export-stuck.md

@@ -1,5 +1,5 @@
 ---
-title: Integrating User instructions into the Community Microscope build materials
+title: 'Integrating User instructions into the Community Microscope build materials'
 tagnames: documentation, air-quality, water-quality, illustrations, microscope, community-microscope, community-microscope-prototyping
 author: jiteovien
 path: /notes/jiteovien/07-09-2018/integrating-user-instructions-into-the-community-microscope-build-materials.md

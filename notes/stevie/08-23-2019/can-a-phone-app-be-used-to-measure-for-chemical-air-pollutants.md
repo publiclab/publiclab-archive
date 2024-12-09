@@ -1,5 +1,5 @@
 ---
-title: Can a phone app be used to measure for chemical air pollutants? 
+title: 'Can a phone app be used to measure for chemical air pollutants? '
 tagnames: question:question, question:air-monitoring, question:deer-park-tank-fire, question:apps
 author: stevie
 path: /notes/stevie/08-23-2019/can-a-phone-app-be-used-to-measure-for-chemical-air-pollutants.md

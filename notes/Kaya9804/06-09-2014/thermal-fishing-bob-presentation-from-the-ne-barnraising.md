@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Bob Presentation from the NE Barnraising
+title: 'Thermal Fishing Bob Presentation from the NE Barnraising'
 tagnames: thermal-photography, thermal-fishing-bob
 author: Kaya9804
 path: /notes/Kaya9804/06-09-2014/thermal-fishing-bob-presentation-from-the-ne-barnraising.md

@@ -1,5 +1,5 @@
 ---
-title: Tutorial video: Installing MapKnitter 2
+title: 'Tutorial video: Installing MapKnitter 2'
 tagnames: video, mapknitter, software, developers, code, tutorial, mapknitter2, installation
 author: warren
 path: /notes/warren/02-19-2015/tutorial-video-installing-mapknitter-2.md

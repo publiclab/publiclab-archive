@@ -1,5 +1,5 @@
 ---
-title: Barnraising Photos
+title: 'Barnraising Photos'
 tagnames: gulf-coast, lumcon, barnraising-2015, barnrasing, first-time-poster
 author: taramei
 path: /notes/TaraMei/12-02-2015/barnraising-photos.md

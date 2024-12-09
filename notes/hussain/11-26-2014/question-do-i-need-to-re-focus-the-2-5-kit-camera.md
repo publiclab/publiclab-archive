@@ -1,5 +1,5 @@
 ---
-title: Question: Do I need to re-focus the 2.5 kit camera?
+title: 'Question: Do I need to re-focus the 2.5 kit camera?'
 tagnames: question:spectrometer, answered
 author: hussain
 path: /notes/hussain/11-26-2014/question-do-i-need-to-re-focus-the-2-5-kit-camera.md

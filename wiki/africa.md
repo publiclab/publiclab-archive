@@ -1,5 +1,5 @@
 ---
-title: africa
+title: 'africa'
 tagnames: africa, parent:region
 author: liz
 path: /wiki/africa.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Parque del Lucero
+title: 'MapKnitter map of Parque del Lucero'
 tagnames: mapknitter, lat:40.3512129716, lon:-3.8512444496
 author: sercontr
 path: /notes/sercontr/06-12-2017/mapknitter-map-of-parque-del-lucero.md

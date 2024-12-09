@@ -1,5 +1,5 @@
 ---
-title: Making Pedagogy:  Reflections on Northeastern University Thermal Fishing Bob Workshops
+title: 'Making Pedagogy:  Reflections on Northeastern University Thermal Fishing Bob Workshops'
 tagnames: thermal-photography, workshop, teaching, massachusetts, thermal-fishing, northeastern, northeast
 author: sara
 path: /notes/Sara/05-23-2014/making-pedagogy-reflections-on-northeastern-university-thermal-fishing-bob-workshops.md

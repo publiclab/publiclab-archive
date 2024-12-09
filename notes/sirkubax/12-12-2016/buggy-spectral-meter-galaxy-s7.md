@@ -1,5 +1,5 @@
 ---
-title: Buggy spectral meter? Galaxy S7...
+title: 'Buggy spectral meter? Galaxy S7...'
 tagnames: spectrometer, spectralworkbench, red, uvc, save, question:general
 author: sirkubax
 path: /notes/sirkubax/12-12-2016/buggy-spectral-meter-galaxy-s7.md

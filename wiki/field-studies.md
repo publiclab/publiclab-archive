@@ -1,5 +1,5 @@
 ---
-title: Field Studies
+title: 'Field Studies'
 tagnames: parent:education, sidebar:none
 author: warren
 path: /wiki/field-studies.md

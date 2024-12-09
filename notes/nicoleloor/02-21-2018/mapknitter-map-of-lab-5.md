@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Lab 5
+title: 'MapKnitter map of Lab 5'
 tagnames: mapknitter, lat:35.3054245459, lon:-80.7345342636
 author: nicoleloor
 path: /notes/nicoleloor/02-21-2018/mapknitter-map-of-lab-5.md

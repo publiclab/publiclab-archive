@@ -1,5 +1,5 @@
 ---
-title: Where can we bulk purchase new carbon fiber mapping poles?
+title: 'Where can we bulk purchase new carbon fiber mapping poles?'
 tagnames: kits, pole-mapping, question:kits, question:sourcing, sourcing, pole-mapping-kit
 author: warren
 path: /notes/warren/08-04-2017/where-can-we-bulk-purchase-new-carbon-fiber-mapping-poles.md

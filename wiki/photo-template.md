@@ -1,5 +1,5 @@
 ---
-title: photo-template
+title: 'photo-template'
 tagnames: 
 author: warren
 path: /wiki/photo-template.md

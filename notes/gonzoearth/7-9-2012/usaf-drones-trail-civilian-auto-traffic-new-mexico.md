@@ -1,5 +1,5 @@
 ---
-title: USAF Drones Trail Civilian Auto Traffic in New Mexico
+title: 'USAF Drones Trail Civilian Auto Traffic in New Mexico'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/7-9-2012/usaf-drones-trail-civilian-auto-traffic-new-mexico.md

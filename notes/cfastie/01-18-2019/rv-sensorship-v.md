@@ -1,5 +1,5 @@
 ---
-title: RV SensorShip V 
+title: 'RV SensorShip V '
 tagnames: arduino, sensors, blog, wi-fi, hardware, data-logging, bme280, tsl2561, activity:data-logging, mma8451, vl53lox, esp8266, blynk, iot, data-monitoring, mlx90615
 author: cfastie
 path: /notes/cfastie/01-18-2019/rv-sensorship-v.md

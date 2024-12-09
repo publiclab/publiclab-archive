@@ -1,5 +1,5 @@
 ---
-title: Black Lives Matter.
+title: 'Black Lives Matter.'
 tagnames: blog
 author: joyofsoy
 path: /notes/joyofsoy/06-18-2020/black-lives-matter.md

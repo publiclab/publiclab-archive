@@ -1,5 +1,5 @@
 ---
-title: Cape Cod Thermal Fishing Bob Field Test
+title: 'Cape Cod Thermal Fishing Bob Field Test'
 tagnames: thermal-photography, cape-cod, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689
 author: kgrevera
 path: /notes/kgrevera/07-06-2015/cape-cod-thermal-fishing-bob-field-test.md

@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Embalse de Cachamuiña
+title: 'MapKnitter map of Embalse de Cachamuiña'
 tagnames: mapknitter, zoom:16, lat:42.3384868449, lon:-7.8036172666, lat:42.338486, lon:-7.803617, with:imvec
 author: xose
 path: /notes/xose/06-30-2022/mapknitter-map-of-embalse-de-cachamuina.md

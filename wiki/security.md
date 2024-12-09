@@ -1,5 +1,5 @@
 ---
-title: Security/privacy best practices for data and devices
+title: 'Security/privacy best practices for data and devices'
 tagnames: security, locked, privacy, risk, parent:privacy
 author: warren
 path: /wiki/security.md

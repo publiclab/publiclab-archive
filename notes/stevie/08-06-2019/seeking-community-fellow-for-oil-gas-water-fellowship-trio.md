@@ -1,5 +1,5 @@
 ---
-title: Seeking Community Fellow for Oil & Gas Water Fellowship Trio
+title: 'Seeking Community Fellow for Oil & Gas Water Fellowship Trio'
 tagnames: gulf-coast, community, organizers, water-quality, water, jobs, fellows, fellowship, oil-and-gas-water-trio
 author: stevie
 path: /notes/stevie/08-06-2019/seeking-community-fellow-for-oil-gas-water-fellowship-trio.md

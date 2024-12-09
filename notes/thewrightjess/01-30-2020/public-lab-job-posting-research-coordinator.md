@@ -1,5 +1,5 @@
 ---
-title: Job Posting: Research Coordinator
+title: 'Job Posting: Research Coordinator'
 tagnames: community, research, development, jobs, location:blurred, place:united-states, lat:36, zoom:6, lon:-79
 author: thewrightjess
 path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-research-coordinator.md

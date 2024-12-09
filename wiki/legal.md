@@ -1,5 +1,5 @@
 ---
-title: legal
+title: 'legal'
 tagnames: 
 author: liz
 path: /wiki/legal.md

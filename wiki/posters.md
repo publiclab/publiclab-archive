@@ -1,5 +1,5 @@
 ---
-title: Posters
+title: 'Posters'
 tagnames: spectrometer, thermal-photography, hydrogen-sulfide-sensing, grassrootsmapping, ndvi, makerfaire, white-house
 author: warren
 path: /wiki/posters.md

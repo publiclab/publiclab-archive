@@ -1,5 +1,5 @@
 ---
-title: How do you merge GPS logger data into photographs?
+title: 'How do you merge GPS logger data into photographs?'
 tagnames: photography, evidence, aerial-photography, gps, metadata, answered, question:evidence, question:aerial-photography, question:gps, geotagging
 author: warren
 path: /notes/warren/09-08-2017/how-do-you-merge-gps-logger-data-into-photographs.md

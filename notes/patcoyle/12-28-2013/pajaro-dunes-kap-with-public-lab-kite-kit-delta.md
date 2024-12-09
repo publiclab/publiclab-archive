@@ -1,5 +1,5 @@
 ---
-title: Pajaro Dunes KAP with Public Lab Kite kit Delta
+title: 'Pajaro Dunes KAP with Public Lab Kite kit Delta'
 tagnames: kite-mapping
 author: patcoyle
 path: /notes/patcoyle/12-28-2013/pajaro-dunes-kap-with-public-lab-kite-kit-delta.md

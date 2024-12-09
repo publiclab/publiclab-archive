@@ -1,5 +1,5 @@
 ---
-title: Tracking recreated wetlands in Jamaica Bay: Gena Wirth and the Dredge Collaborative
+title: 'Tracking recreated wetlands in Jamaica Bay: Gena Wirth and the Dredge Collaborative'
 tagnames: wetlands, jamaica-bay, yellow-bar-island, spartina, dredgeresearchcollaborative, style:fancy, gmf-4, with:gwirth
 author: mollydanielsson
 path: /wiki/tracking-recreated-wetlands-in-jamaica-bay-gena-wirth-and-the-dredge-collaborative.md

@@ -1,5 +1,5 @@
 ---
-title: 12 Air Quality Eggs for Cypress Hills
+title: '12 Air Quality Eggs for Cypress Hills'
 tagnames: new-york-city, cypress-hills, chaq
 author: liz
 path: /notes/liz/2-14-2013/12-air-quality-eggs-cypress-hills.md

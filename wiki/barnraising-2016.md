@@ -1,5 +1,5 @@
 ---
-title: Barnraising 2016
+title: 'Barnraising 2016'
 tagnames: 
 author: stevie
 path: /wiki/barnraising-2016.md

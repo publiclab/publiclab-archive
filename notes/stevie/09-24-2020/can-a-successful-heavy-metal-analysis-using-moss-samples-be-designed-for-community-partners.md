@@ -1,5 +1,5 @@
 ---
-title: Can a successful heavy metal analysis using moss samples be designed for community partners?
+title: 'Can a successful heavy metal analysis using moss samples be designed for community partners?'
 tagnames: heavy-metals, air-quality, question:heavy-metals, question:air-quality, question:general, general, with:duwamishcleanup
 author: stevie
 path: /notes/stevie/09-24-2020/can-a-successful-heavy-metal-analysis-using-moss-samples-be-designed-for-community-partners.md

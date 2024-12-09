@@ -1,5 +1,5 @@
 ---
-title: Be careful calibrating Coqui conductivity sensor
+title: 'Be careful calibrating Coqui conductivity sensor'
 tagnames: calibration, water-quality, water, conductivity, coqui, zoom:9, lon:-64, lat:-31, research-curation-fellows
 author: alejobonifacio
 path: /notes/alejobonifacio/03-24-2022/be-careful-calibrating-coqui-conductivity-sensor.md

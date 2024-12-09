@@ -1,5 +1,5 @@
 ---
-title: Riffle Datalogger: quick development snapshot
+title: 'Riffle Datalogger: quick development snapshot'
 tagnames: arduino, water-quality, riffle, open-water
 author: donblair
 path: /notes/donblair/08-28-2015/riffle-datalogger-quick-development-snapshot.md

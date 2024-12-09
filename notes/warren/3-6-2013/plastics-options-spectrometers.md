@@ -1,5 +1,5 @@
 ---
-title: Plastics options for spectrometers
+title: 'Plastics options for spectrometers'
 tagnames: near-infrared-camera, spectrometer, materials
 author: warren
 path: /notes/warren/3-6-2013/plastics-options-spectrometers.md

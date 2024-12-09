@@ -1,5 +1,5 @@
 ---
-title: Territories || Borders
+title: 'Territories || Borders'
 tagnames: aerial-photography, eu, lat:38, aerialphotography, portugal, first-time-poster, territories, artivism, lon:-9, lat:39.399871, lon:-8.224454, lisbon
 author: pixellibre
 path: /notes/pixellibre/08-11-2019/territories-borders.md

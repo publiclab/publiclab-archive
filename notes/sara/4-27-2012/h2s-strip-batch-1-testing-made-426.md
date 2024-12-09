@@ -1,5 +1,5 @@
 ---
-title: H2S strip batch 1 for testing made 4/26
+title: 'H2S strip batch 1 for testing made 4/26'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper
 author: sara
 path: /notes/sara/4-27-2012/h2s-strip-batch-1-testing-made-426.md

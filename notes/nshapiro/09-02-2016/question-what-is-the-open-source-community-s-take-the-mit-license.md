@@ -1,5 +1,5 @@
 ---
-title: Question: What is the Open Source Community's Take the MIT License?
+title: 'Question: What is the Open Source Community's Take the MIT License?'
 tagnames: open-source, answered, license, question:legal, question:license, question:copyright, law-and-policy, question:law-and-policy
 author: nshapiro
 path: /notes/nshapiro/09-02-2016/question-what-is-the-open-source-community-s-take-the-mit-license.md

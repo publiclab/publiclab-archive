@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench updates: profile page fix & sample row selection
+title: 'Spectral Workbench updates: profile page fix & sample row selection'
 tagnames: spectrometer, spectralworkbench
 author: warren
 path: /notes/warren/9-18-2012/spectral-workbench-updates-profile-page-fix-sample-row-selection.md

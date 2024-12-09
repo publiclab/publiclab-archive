@@ -1,5 +1,5 @@
 ---
-title: educators
+title: 'educators'
 tagnames: redirect:education
 author: warren
 path: /wiki/educators.md

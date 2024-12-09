@@ -1,5 +1,5 @@
 ---
-title: Infrared visible dual camera mapping rig by Cesar Harada
+title: 'Infrared visible dual camera mapping rig by Cesar Harada'
 tagnames: 
 author: warren
 path: /notes/warren/5-14-2011/infrared-visible-dual-camera-mapping-rig-cesar-harada.md

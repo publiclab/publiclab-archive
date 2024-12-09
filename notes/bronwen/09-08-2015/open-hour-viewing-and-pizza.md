@@ -1,5 +1,5 @@
 ---
-title: Open Hour Viewing (and pizza!)
+title: 'Open Hour Viewing (and pizza!)'
 tagnames: new-york-city, events, openhour
 author: Bronwen
 path: /notes/bronwen/09-08-2015/open-hour-viewing-and-pizza.md

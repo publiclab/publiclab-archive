@@ -1,5 +1,5 @@
 ---
-title: Webinar 2: Guide to Civilian Monitoring
+title: 'Webinar 2: Guide to Civilian Monitoring'
 tagnames: industrial-monitoring, reporting, pipeline, pipeline-monitoring, lat:29.964614, lon:-90.046528, pipeline-monitoring-webinar
 author: a1ahna
 path: /notes/a1ahna/03-19-2019/webinar-2-guide-to-civilian-monitoring.md

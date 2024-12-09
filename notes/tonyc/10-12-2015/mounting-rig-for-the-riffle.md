@@ -1,5 +1,5 @@
 ---
-title: Mounting rig for the Riffle
+title: 'Mounting rig for the Riffle'
 tagnames: riffle, parent:riffle, riffle-examples
 author: tonyc
 path: /notes/tonyc/10-12-2015/mounting-rig-for-the-riffle.md

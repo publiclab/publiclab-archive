@@ -1,5 +1,5 @@
 ---
-title: VeranoPlace
+title: 'VeranoPlace'
 tagnames: test, first-time-poster
 author: wcheung
 path: /notes/wcheung/05-08-2015/veranoplace.md

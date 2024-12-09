@@ -1,5 +1,5 @@
 ---
-title: NDVI from the PLOTS IR camera kit
+title: 'NDVI from the PLOTS IR camera kit'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, nrg, ndvi, infrared, infragram, infrablue, parent:infragram, multispectral-imaging
 author: cfastie
 path: /wiki/ndvi-plots-ir-kit.md

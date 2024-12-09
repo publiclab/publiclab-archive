@@ -1,5 +1,5 @@
 ---
-title: Portland, Oregon
+title: 'Portland, Oregon'
 tagnames: chapter
 author: mathew
 path: /wiki/portland-oregon.md

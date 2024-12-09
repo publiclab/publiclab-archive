@@ -1,5 +1,5 @@
 ---
-title: Water Quality Workshop July 12th @ MIT Media Lab
+title: 'Water Quality Workshop July 12th @ MIT Media Lab'
 tagnames: cambridge, boston, event, water-quality, open-water, date:07-12-2014
 author: donblair
 path: /notes/donblair/07-11-2014/water-quality-workshop-july-12th-mit-media-lab.md

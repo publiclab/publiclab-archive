@@ -1,5 +1,5 @@
 ---
-title: Kite / Balloon Map of BP memorial demonstration in Artillery Park (wear black)
+title: 'Kite / Balloon Map of BP memorial demonstration in Artillery Park (wear black)'
 tagnames: gulf-coast, event
 author: eustatic
 path: /04-18-2013/kite-balloon-map-of-bp-memorial-demonstration-in-artillery-park-wear-black.md

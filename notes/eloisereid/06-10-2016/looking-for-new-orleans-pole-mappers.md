@@ -1,5 +1,5 @@
 ---
-title: Looking for New Orleans Pole Mappers
+title: 'Looking for New Orleans Pole Mappers'
 tagnames: gulf-coast, event, new-orleans, event:rsvp, date:06-14-16, event:gulf-coast, first-time-poster
 author: eloisereid
 path: /notes/eloisereid/06-10-2016/looking-for-new-orleans-pole-mappers.md

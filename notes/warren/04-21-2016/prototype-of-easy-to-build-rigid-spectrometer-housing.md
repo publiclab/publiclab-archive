@@ -1,5 +1,5 @@
 ---
-title: Prototype of easy-to-build rigid spectrometer housing
+title: 'Prototype of easy-to-build rigid spectrometer housing'
 tagnames: spectrometer, laser-cut, design, housing, response:11649, stability, setup, rigidness, response:12986, response:12157, cardboard, difficulty:easy, upgrade:spectrometry, upgrade:dssk, status:under-development, seeks:builds, time:3h
 author: warren
 path: /notes/warren/04-21-2016/prototype-of-easy-to-build-rigid-spectrometer-housing.md

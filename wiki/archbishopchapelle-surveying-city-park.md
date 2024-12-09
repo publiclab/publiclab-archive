@@ -1,5 +1,5 @@
 ---
-title: archbishopchapelle surveying city park
+title: 'archbishopchapelle surveying city park'
 tagnames: location:blurred, place:united-states, lat:30, lon:-90, zoom:6
 author: jmerrill
 path: /wiki/archbishopchapelle-surveying-city-park.md

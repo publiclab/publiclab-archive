@@ -1,5 +1,5 @@
 ---
-title: SoC Application Template
+title: 'SoC Application Template'
 tagnames: gsoc, parent:gsoc
 author: warren
 path: /wiki/gsoc-application-template.md

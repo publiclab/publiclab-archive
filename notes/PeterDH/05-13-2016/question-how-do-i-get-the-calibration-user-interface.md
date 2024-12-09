@@ -1,5 +1,5 @@
 ---
-title: Question: How do I get the calibration user interface?
+title: 'Question: How do I get the calibration user interface?'
 tagnames: question:spectrometry, question:spectral-workbench, answered
 author: PeterDH
 path: /notes/PeterDH/05-13-2016/question-how-do-i-get-the-calibration-user-interface.md

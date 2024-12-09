@@ -1,5 +1,5 @@
 ---
-title: Thermal flashlight design (+ thermal fishing bob, too?)
+title: 'Thermal flashlight design (+ thermal fishing bob, too?)'
 tagnames: thermal-photography, thermal-flashlight, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, upgrade:thermal-flashlight, upgrade:thermal-fishing-bob
 author: donblair
 path: /notes/donblair/01-26-2014/thermal-flashlight-design-thermal-fishing-bob-too.md

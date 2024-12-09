@@ -1,5 +1,5 @@
 ---
-title: Environmental Science An Interdisciplinary Study Involving Population Statistics
+title: 'Environmental Science An Interdisciplinary Study Involving Population Statistics'
 tagnames: lat:22, first-time-poster, lon:76, zoom:6
 author: TheChessGym
 path: /notes/TheChessGym/01-12-2023/environmental-science-an-interdisciplinary-study-involving-population-statistics.md

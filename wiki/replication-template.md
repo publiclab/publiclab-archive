@@ -1,5 +1,5 @@
 ---
-title: replication-template
+title: 'replication-template'
 tagnames: template, parent:templates
 author: warren
 path: /wiki/replication-template.md

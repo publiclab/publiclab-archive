@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: 'Newsletter'
 tagnames: community, newsletter, newsletter-archive
 author: warren
 path: /wiki/newsletter.md

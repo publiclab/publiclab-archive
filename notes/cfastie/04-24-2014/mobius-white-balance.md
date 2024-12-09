@@ -1,5 +1,5 @@
 ---
-title: Mobius white balance
+title: 'Mobius white balance'
 tagnames: near-infrared-camera, ndvi, infrared, white-balance, infragram, histogram, led, mobius-actioncam, frosted-globe, response:10345, great-photos, mobius
 author: cfastie
 path: /notes/cfastie/04-24-2014/mobius-white-balance.md

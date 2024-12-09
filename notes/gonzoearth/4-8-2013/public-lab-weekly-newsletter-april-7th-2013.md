@@ -1,5 +1,5 @@
 ---
-title: Public Lab Community Newsletter April 7th, 2013
+title: 'Public Lab Community Newsletter April 7th, 2013'
 tagnames: newsletter, newsletter-archive
 author: gonzoearth
 path: /notes/gonzoearth/4-8-2013/public-lab-weekly-newsletter-april-7th-2013.md

@@ -1,5 +1,5 @@
 ---
-title: NDVI two camera system calibration
+title: 'NDVI two camera system calibration'
 tagnames: 
 author: gpenzo
 path: /notes/gpenzo/05-26-2015/ndvi-two-camera-system-calibration.md

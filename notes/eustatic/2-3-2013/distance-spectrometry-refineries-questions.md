@@ -1,5 +1,5 @@
 ---
-title: distance spectrometry of refineries: questions
+title: 'distance spectrometry of refineries: questions'
 tagnames: spectrometer, spectralchallenge, flare
 author: eustatic
 path: /2-3-2013/distance-spectrometry-refineries-questions.md

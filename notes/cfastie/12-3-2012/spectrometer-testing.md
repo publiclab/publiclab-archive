@@ -1,5 +1,5 @@
 ---
-title: Spectrometer testing
+title: 'Spectrometer testing'
 tagnames: spectrometer, grating, diffraction-grating, cfl, compact-fluorescent, entrance-slit
 author: cfastie
 path: /notes/cfastie/12-3-2012/spectrometer-testing.md

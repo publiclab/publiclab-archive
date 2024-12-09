@@ -1,5 +1,5 @@
 ---
-title: email-email-body
+title: 'email-email-body'
 tagnames: 
 author: warren
 path: /feature/email-email-body.md

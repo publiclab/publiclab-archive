@@ -1,5 +1,5 @@
 ---
-title: Attending Frog Church in Violet, Louisiana
+title: 'Attending Frog Church in Violet, Louisiana'
 tagnames: gulf-coast, lousiana, sonicenvironment, impacts, noise, frog, aesthetics
 author: eustatic
 path: /02-09-2015/attending-frog-church-in-violet-louisiana.md

@@ -1,5 +1,5 @@
 ---
-title: Bronx River Soundview Park Oyster Reef Mapping
+title: 'Bronx River Soundview Park Oyster Reef Mapping'
 tagnames: new-york-city, balloon-mapping, oyster-reef, bronx, oysters, soundview-park, river
 author: liz
 path: /notes/liz/8-21-2012/bronx-river-soundview-park-oyster-reef-mapping.md

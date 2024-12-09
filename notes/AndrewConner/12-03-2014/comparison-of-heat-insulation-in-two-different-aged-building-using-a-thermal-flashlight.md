@@ -1,5 +1,5 @@
 ---
-title: Comparison of Heat Insulation in Two Different Aged Building using a Thermal Flashlight
+title: 'Comparison of Heat Insulation in Two Different Aged Building using a Thermal Flashlight'
 tagnames: thermal-photography, thermal-flashlight, northeastern-university, thermal-imaging, public-health, energy-conservation, insulation, heat, replication:625
 author: AndrewConner
 path: /notes/AndrewConner/12-03-2014/comparison-of-heat-insulation-in-two-different-aged-building-using-a-thermal-flashlight.md

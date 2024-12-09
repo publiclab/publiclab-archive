@@ -1,5 +1,5 @@
 ---
-title: Los Angeles
+title: 'Los Angeles'
 tagnames: california, tabbed:notes, tabbed:wikis, lat:34.0600471, lon:-118.3072052, list:publiclab-la, los-angeles, la
 author: levisimons
 path: /wiki/los-angeles.md

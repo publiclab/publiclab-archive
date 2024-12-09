@@ -1,5 +1,5 @@
 ---
-title: What are some different ways to use turbidity sensors? 
+title: 'What are some different ways to use turbidity sensors? '
 tagnames: sensors, turbidity, question:general, projects
 author: lekhidugtal
 path: /notes/lekhidugtal/03-24-2019/what-are-different-ways-to-use-turbidity-sensors.md

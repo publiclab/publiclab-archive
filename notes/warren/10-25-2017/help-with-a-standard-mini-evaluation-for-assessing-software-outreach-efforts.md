@@ -1,5 +1,5 @@
 ---
-title: Help with a standard mini-evaluation for assessing software outreach efforts?
+title: 'Help with a standard mini-evaluation for assessing software outreach efforts?'
 tagnames: software, evaluation, survey, first-timers-only, software-outreach, soc, soc-2017, eval, diversity, question:evaluation, question:software-outreach
 author: warren
 path: /notes/warren/10-25-2017/help-with-a-standard-mini-evaluation-for-assessing-software-outreach-efforts.md

@@ -1,5 +1,5 @@
 ---
-title: Time lapse mode on the Crenova Game camera
+title: 'Time lapse mode on the Crenova Game camera'
 tagnames: time-lapse, photo-monitoring, timelapse, activity, activity:timelapse, activity:photo-monitoring, game-camera, crenova
 author: stevie
 path: /notes/stevie/06-29-2017/time-lapse-mode-on-the-crenova-game-camera.md

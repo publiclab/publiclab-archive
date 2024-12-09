@@ -1,5 +1,5 @@
 ---
-title: staff
+title: 'staff'
 tagnames: redirect:plots-staff
 author: warren
 path: /wiki/staff.md

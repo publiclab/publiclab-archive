@@ -1,5 +1,5 @@
 ---
-title: Expert networks
+title: 'Expert networks'
 tagnames: expertise, experts, expert-networks
 author: warren
 path: /wiki/expert-networks.md

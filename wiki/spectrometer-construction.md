@@ -1,5 +1,5 @@
 ---
-title: Spectrometer construction
+title: 'Spectrometer construction'
 tagnames: spectrometer, calibration, filter, parent:spectrometer, horizontal
 author: warren
 path: /wiki/spectrometer-construction.md

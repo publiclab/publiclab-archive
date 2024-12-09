@@ -1,5 +1,5 @@
 ---
-title: Community Science Forum
+title: 'Community Science Forum'
 tagnames: grassrootsmapping, gmf, grassrootsmappingforum, forum, 10, 2, 7, 4, 8, 6, 3, 1, 5, 9, communityscienceforum, 12, 11, csf, community-science-forum, csf16
 author: warren
 path: /wiki/forum.md

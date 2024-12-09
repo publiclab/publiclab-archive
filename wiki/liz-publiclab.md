@@ -1,5 +1,5 @@
 ---
-title: liz@publiclab
+title: 'liz@publiclab'
 tagnames: liz
 author: danielrobinson
 path: /wiki/liz-publiclab.md

@@ -1,5 +1,5 @@
 ---
-title: Fellowship Posting: Community Technology Fellow
+title: 'Fellowship Posting: Community Technology Fellow'
 tagnames: air-quality, fellows, fellowship, air-sensors, fellowships
 author: joyofsoy
 path: /notes/joyofsoy/01-30-2020/fellowship-posting-community-technology-fellow.md

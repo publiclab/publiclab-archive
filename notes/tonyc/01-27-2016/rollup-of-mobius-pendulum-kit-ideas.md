@@ -1,5 +1,5 @@
 ---
-title: Rollup of mobius pendulum kit ideas
+title: 'Rollup of mobius pendulum kit ideas'
 tagnames: mobius, actioncam, pendulum-rig, diy-mount-kit
 author: tonyc
 path: /notes/tonyc/01-27-2016/rollup-of-mobius-pendulum-kit-ideas.md

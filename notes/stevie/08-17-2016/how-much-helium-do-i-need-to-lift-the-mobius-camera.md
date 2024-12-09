@@ -1,5 +1,5 @@
 ---
-title: How much helium do I need to lift the mobius camera?
+title: 'How much helium do I need to lift the mobius camera?'
 tagnames: infragram, balloon, mobius, question:mobius
 author: stevie
 path: /notes/stevie/08-17-2016/how-much-helium-do-i-need-to-lift-the-mobius-camera.md

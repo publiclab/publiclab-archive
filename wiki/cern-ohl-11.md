@@ -1,5 +1,5 @@
 ---
-title: CERN-OHL-1.1
+title: 'CERN-OHL-1.1'
 tagnames: licensing, ohl, open-hardware, licenses, cernohl, parent:licenses
 author: warren
 path: /wiki/cern-ohl-11.md

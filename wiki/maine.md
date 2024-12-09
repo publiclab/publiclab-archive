@@ -1,5 +1,5 @@
 ---
-title: maine
+title: 'maine'
 tagnames: maine, northeast, parent:northeast, phosphogypsum, bauxite, alum, penobscot
 author: liz
 path: /wiki/maine.md

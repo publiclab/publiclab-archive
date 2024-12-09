@@ -1,5 +1,5 @@
 ---
-title: Online Odor Log v1.0
+title: 'Online Odor Log v1.0'
 tagnames: evidence, landfill, air-quality, air, waste, landfills, odor, odor-log, oil-and-gas, smell, gaimec, activity:odor, odor-logging, activity:odor-logging, smells, ushahidi, diary
 author: imvec
 path: /notes/imvec/04-06-2018/online-odor-log-v1-0.md

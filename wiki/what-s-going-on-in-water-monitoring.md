@@ -1,5 +1,5 @@
 ---
-title: What's going on in Water Monitoring?
+title: 'What's going on in Water Monitoring?'
 tagnames: water-sensing, water-quality, water, open-water, parent:water-quality
 author: kanarinka
 path: /wiki/what-s-going-on-in-water-monitoring.md

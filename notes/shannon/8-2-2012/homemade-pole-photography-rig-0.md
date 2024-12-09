@@ -1,5 +1,5 @@
 ---
-title: Homemade pole photography rig
+title: 'Homemade pole photography rig'
 tagnames: polemapping, archaeology, photo-rig, pole-photography, pole-mapping, activity:photo-rig
 author: Shannon
 path: /notes/shannon/8-2-2012/homemade-pole-photography-rig-0.md

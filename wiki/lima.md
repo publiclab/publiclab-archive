@@ -1,5 +1,5 @@
 ---
-title: Lima
+title: 'Lima'
 tagnames: chapter, list:laboratoriopublico
 author: warren
 path: /wiki/lima.md

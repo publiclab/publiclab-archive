@@ -1,5 +1,5 @@
 ---
-title: Lab 5
+title: 'Lab 5'
 tagnames: balloon-mapping
 author: nchapman
 path: /notes/nchapman/02-14-2018/lab-5.md

@@ -1,5 +1,5 @@
 ---
-title: Conductivity Sensing: Open Questions
+title: 'Conductivity Sensing: Open Questions'
 tagnames: water-sensing, water-monitoring, conductivity, riffle, open-water, 555
 author: donblair
 path: /notes/donblair/01-07-2016/conductivity-sensing-open-questions.md

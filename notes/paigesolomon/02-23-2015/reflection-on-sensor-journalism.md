@@ -1,5 +1,5 @@
 ---
-title: Reflection on Sensor Journalism
+title: 'Reflection on Sensor Journalism'
 tagnames: water, data, journalism, sensor, sensor-journalism
 author: paigesolomon
 path: /notes/paigesolomon/02-23-2015/reflection-on-sensor-journalism.md

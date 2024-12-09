@@ -1,5 +1,5 @@
 ---
-title: Working Groups
+title: 'Working Groups'
 tagnames: community, organizers, organizing, needs-revision, staff
 author: warren
 path: /wiki/working-groups.md

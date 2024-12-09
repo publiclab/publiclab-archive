@@ -1,5 +1,5 @@
 ---
-title: SIP Grant
+title: 'SIP Grant'
 tagnames: 
 author: warren
 path: /wiki/sip-grant.md

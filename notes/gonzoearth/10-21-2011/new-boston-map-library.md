@@ -1,5 +1,5 @@
 ---
-title: New Boston Map Library
+title: 'New Boston Map Library'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/10-21-2011/new-boston-map-library.md

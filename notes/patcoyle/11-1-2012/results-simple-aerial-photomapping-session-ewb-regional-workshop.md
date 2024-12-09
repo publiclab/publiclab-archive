@@ -1,5 +1,5 @@
 ---
-title: Results: Simple Aerial Photomapping session, EWB Regional Workshop
+title: 'Results: Simple Aerial Photomapping session, EWB Regional Workshop'
 tagnames: ndvi, bap, ewb
 author: patcoyle
 path: /notes/patcoyle/11-1-2012/results-simple-aerial-photomapping-session-ewb-regional-workshop.md

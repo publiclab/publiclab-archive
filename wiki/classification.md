@@ -1,5 +1,5 @@
 ---
-title: Classification
+title: 'Classification'
 tagnames: wetlands, aerial-photography, wetlands-restoration, mines
 author: warren
 path: /wiki/classification.md

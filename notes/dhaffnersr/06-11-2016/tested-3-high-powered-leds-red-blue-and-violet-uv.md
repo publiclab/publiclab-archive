@@ -1,5 +1,5 @@
 ---
-title: Tested 3 High Powered LEDs Red, Blue and Violet (UV)
+title: 'Tested 3 High Powered LEDs Red, Blue and Violet (UV)'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/06-11-2016/tested-3-high-powered-leds-red-blue-and-violet-uv.md

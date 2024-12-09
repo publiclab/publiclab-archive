@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Collado Villalba (2)
+title: 'MapKnitter map of Collado Villalba (2)'
 tagnames: mapknitter, with:arturunderwater, with:xose, lat:40.6171042484, lon:-3.9935673531, lat:40.616819, lon:-3.993876
 author: imvec
 path: /notes/imvec/02-11-2019/mapknitter-map-of-collado-villalba-2.md

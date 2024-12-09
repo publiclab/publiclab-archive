@@ -1,5 +1,5 @@
 ---
-title: Spitfire peak pixel test
+title: 'Spitfire peak pixel test'
 tagnames: spectrometer, cfl, desktop-spectrometer, timeseries, spectrum, peak_wavelengths, intensities
 author: viechdokter
 path: /notes/viechdokter/04-26-2016/spitfire-peak-pixel-test.md

@@ -1,5 +1,5 @@
 ---
-title: #Next steps - Indoor Air Remediation Kit—Paris Working progress & Prototypes 18/09/18
+title: '#Next steps - Indoor Air Remediation Kit—Paris Working progress & Prototypes 18/09/18'
 tagnames: remediation, kit, air, design, indoor, with:nshapiro, indoor-air-quality, indoor-air, plant-air-purifier-prototypes
 author: cguerin
 path: /notes/cguerin/10-16-2018/next-steps-indoor-air-remediation-kit-paris-working-progress-prototypes-18-09-18.md

@@ -1,5 +1,5 @@
 ---
-title: Live webcam Infragramming, WebGL option
+title: 'Live webcam Infragramming, WebGL option'
 tagnames: near-infrared-camera, infragram, infragram-sandbox, infragrammar, webgl
 author: warren
 path: /notes/warren/12-28-2013/live-webcam-infragramming-webgl-option.md

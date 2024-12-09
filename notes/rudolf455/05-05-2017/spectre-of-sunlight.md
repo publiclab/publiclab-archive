@@ -1,5 +1,5 @@
 ---
-title: spectre of sunlight
+title: 'spectre of sunlight'
 tagnames: spectral-workbench, spectrum, sunlight, cellphone, replication:13460
 author: rudolf455
 path: /notes/rudolf455/05-05-2017/spectre-of-sunlight.md

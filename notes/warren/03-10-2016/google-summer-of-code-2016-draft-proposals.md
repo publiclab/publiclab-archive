@@ -1,5 +1,5 @@
 ---
-title: Google Summer of Code 2016: draft proposals
+title: 'Google Summer of Code 2016: draft proposals'
 tagnames: software, gsoc, coding, seeks:responses, gsoc-2016, gsoc-2016-proposals
 author: warren
 path: /notes/warren/03-10-2016/google-summer-of-code-2016-draft-proposals.md

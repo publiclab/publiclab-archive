@@ -1,5 +1,5 @@
 ---
-title: Style guide
+title: 'Style guide'
 tagnames: design, style-guide, sidebar:none
 author: warren
 path: /wiki/style-guide.md

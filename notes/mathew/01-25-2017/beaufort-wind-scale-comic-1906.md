@@ -1,5 +1,5 @@
 ---
-title: Beaufort Wind Scale Comic, 1906
+title: 'Beaufort Wind Scale Comic, 1906'
 tagnames: balloon-mapping, kite-mapping, safety, guides, anemometer, wind-speed-meter, air-quality, guide, wind, barnstar:excessive-enthusiasm, beaufort, cartoon, activity:wind-speed
 author: mathew
 path: /notes/mathew/01-25-2017/beaufort-wind-scale-comic-1906.md

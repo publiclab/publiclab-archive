@@ -1,5 +1,5 @@
 ---
-title: Testing a Midopt DB660/850 filter: NIR contamination of the red channel
+title: 'Testing a Midopt DB660/850 filter: NIR contamination of the red channel'
 tagnames: near-infrared-camera, ndvi, nir, infrared, near-infrared, filter, testing, plant-health, dualband, midopt, first-time-poster, dng
 author: Corymbia
 path: /notes/Corymbia/02-19-2019/testing-a-midopt-db660-850-filter-nir-contamination-of-the-red-channel.md

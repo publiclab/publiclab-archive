@@ -1,5 +1,5 @@
 ---
-title: May 4th Pier 42 Balloon Mapping!
+title: 'May 4th Pier 42 Balloon Mapping!'
 tagnames: new-york-city, balloon-mapping, event, replication:14022
 author: veroacosta
 path: /notes/veroacosta/04-25-2013/may-4th-pier-42-balloon-mapping.md

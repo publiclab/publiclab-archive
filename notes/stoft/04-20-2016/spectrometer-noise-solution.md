@@ -1,5 +1,5 @@
 ---
-title: Spectrometer Noise Solution?
+title: 'Spectrometer Noise Solution?'
 tagnames: spectrometer, webcam, desktop-spectrometer, noise-reduction, signal-to-noise-ratio, noise
 author: stoft
 path: /notes/stoft/04-20-2016/spectrometer-noise-solution.md

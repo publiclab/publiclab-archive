@@ -1,5 +1,5 @@
 ---
-title: Stockton Harbor wastes overflown,  EPA starts  preliminary Superfund review! Data tips?
+title: 'Stockton Harbor wastes overflown,  EPA starts  preliminary Superfund review! Data tips?'
 tagnames: maine, northeast, phosphogypsum, bauxite, penobscot, bay, stockton, harbor, kidder, point, superphosphate, gac, chemical
 author: ronhuber
 path: /notes/RonHuber/07-27-2014/stockton-harbor-wastes-overflown-epa-starts-preliminary-superfund-review-data-tips.md

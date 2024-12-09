@@ -1,5 +1,5 @@
 ---
-title: Infrared camera
+title: 'Infrared camera'
 tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster
 author: eduardo_gamosa
 path: /notes/eduardo_gamosa/10-10-2022/infrared-camera.md

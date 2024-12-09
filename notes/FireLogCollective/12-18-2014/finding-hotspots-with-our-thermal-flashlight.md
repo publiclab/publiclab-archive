@@ -1,5 +1,5 @@
 ---
-title: Finding Hotspots With Our Thermal Flashlight
+title: 'Finding Hotspots With Our Thermal Flashlight'
 tagnames: arduino, thermal-flashlight, diy, replication:625
 author: FireLogCollective
 path: /notes/FireLogCollective/12-18-2014/finding-hotspots-with-our-thermal-flashlight.md

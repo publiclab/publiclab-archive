@@ -1,5 +1,5 @@
 ---
-title: sidebar-welcome
+title: 'sidebar-welcome'
 tagnames: 
 author: warren
 path: /feature/sidebar-welcome.md

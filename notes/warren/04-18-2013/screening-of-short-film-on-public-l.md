@@ -1,5 +1,5 @@
 ---
-title: Screening of short film on Public Lab on April 19
+title: 'Screening of short film on Public Lab on April 19'
 tagnames: somerville-massachusetts, kite-mapping, boston, barnraising, event
 author: warren
 path: /notes/warren/04-18-2013/screening-of-short-film-on-public-l.md

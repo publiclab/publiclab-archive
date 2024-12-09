@@ -1,5 +1,5 @@
 ---
-title: Possible partner?
+title: 'Possible partner?'
 tagnames: spain, eu
 author: sammycoh
 path: /notes/sammycoh/03-25-2014/possible-partner.md

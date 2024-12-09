@@ -1,5 +1,5 @@
 ---
-title: Open Source Technology is Integral to Equitable and Innovative Climate Action
+title: 'Open Source Technology is Integral to Equitable and Innovative Climate Action'
 tagnames: open-source, climate-change, advocacy, research-curation-fellows, op-ed
 author: julia_e_masters
 path: /notes/julia_e_masters/09-23-2021/open-source-technology-is-integral-to-equitable-and-innovative-climate-action.md

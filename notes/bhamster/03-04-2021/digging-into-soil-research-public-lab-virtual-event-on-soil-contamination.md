@@ -1,5 +1,5 @@
 ---
-title: Digging into soil research: Public Lab virtual event on soil contamination
+title: 'Digging into soil research: Public Lab virtual event on soil contamination'
 tagnames: event, soil, research, event:rsvp, rsvp:bronwen, soil-testing, reviews, soil-contamination, research-area-review, rsvp:jjcreedon, rsvp:cgram34, rsvp:gteix, rsvp:benperrin, rsvp:sureta, rsvp:bernard
 author: bhamster
 path: /notes/bhamster/03-04-2021/digging-into-soil-research-public-lab-virtual-event-on-soil-contamination.md

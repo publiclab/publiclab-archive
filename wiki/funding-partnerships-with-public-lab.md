@@ -1,5 +1,5 @@
 ---
-title: Funding Partnerships with Public Lab
+title: 'Funding Partnerships with Public Lab'
 tagnames: fundraising, partnerships, grants, parent:fundraising
 author: Becki
 path: /wiki/funding-partnerships-with-public-lab.md

@@ -1,5 +1,5 @@
 ---
-title: Getting to know plotsbot
+title: 'Getting to know plotsbot'
 tagnames: gsoc, google-summer-of-code, gsoc-2017, soc, soc-2017, plotsbot, publiclab-testing, response:14788
 author: ryzokuken
 path: /notes/ryzokuken/08-23-2017/getting-to-know-plotsbot.md

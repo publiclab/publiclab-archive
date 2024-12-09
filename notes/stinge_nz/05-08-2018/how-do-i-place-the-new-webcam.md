@@ -1,5 +1,5 @@
 ---
-title: How do I...place the new webcam
+title: 'How do I...place the new webcam'
 tagnames: spectrometer, kits, spectrometry, webcam, question:spectrometry, 3.0, question:kits
 author: stinge_nz
 path: /notes/stinge_nz/05-08-2018/how-do-i-place-the-new-webcam.md

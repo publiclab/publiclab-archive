@@ -1,5 +1,5 @@
 ---
-title: Using Coqui in a the Suquía river for conductivity measurements
+title: 'Using Coqui in a the Suquía river for conductivity measurements'
 tagnames: water-quality, pollution, conductivity, coqui, south-america, argentina, total-dissolved-solids, zoom:6, zoom:15, zoom:18, lon:-64, lat:-31, research-curation-fellows, lat:-31.403172, lon:-64.204284, lat:-31.403099, lon:-64.20428
 author: alejobonifacio
 path: /notes/alejobonifacio/04-07-2022/using-coqui-in-a-the-suquia-river-for-conductivity-measurements.md

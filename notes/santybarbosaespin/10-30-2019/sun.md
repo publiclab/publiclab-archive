@@ -1,5 +1,5 @@
 ---
-title: SUN
+title: 'SUN'
 tagnames: first-time-poster, lat:4.747154, lon:-74.033204
 author: santybarbosaespin
 path: /notes/santybarbosaespin/10-30-2019/sun.md

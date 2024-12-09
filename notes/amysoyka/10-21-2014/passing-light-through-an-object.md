@@ -1,5 +1,5 @@
 ---
-title: Passing Light Through an Object.
+title: 'Passing Light Through an Object.'
 tagnames: spectrometer, laser, container, oil-testing-kit, light-source
 author: amysoyka
 path: /notes/amysoyka/10-21-2014/passing-light-through-an-object.md

@@ -1,5 +1,5 @@
 ---
-title: Analysis of Dual-Bandpass NDVI Filters using Python 
+title: 'Analysis of Dual-Bandpass NDVI Filters using Python '
 tagnames: ndvi, nir, infrared, analysis, research, camera, histogram, python, filters, spectrum, graphs, zoom:6, lat:53.349805, lon:-6.260309, plotting, scientific
 author: ektopyrotic
 path: /notes/ektopyrotic/06-28-2020/analysis-of-dual-bandpass-ndvi-filters-using-python.md

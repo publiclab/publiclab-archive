@@ -1,5 +1,5 @@
 ---
-title: Picking a venue for a Barnraising event
+title: 'Picking a venue for a Barnraising event'
 tagnames: barnraising, barnraising-host, preparations-logistics, activity:preparations-logistics
 author: stevie
 path: /notes/stevie/07-19-2018/picking-a-venue-for-a-barnraising-event.md

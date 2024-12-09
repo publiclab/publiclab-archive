@@ -1,5 +1,5 @@
 ---
-title: Gas, some Hydrogen Sulfide escaping from collapsing salt dome
+title: 'Gas, some Hydrogen Sulfide escaping from collapsing salt dome'
 tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-sites
 author: eustatic
 path: /8-6-2012/gas-some-hydrogen-sulfide-escaping-collapsing-salt-dome.md

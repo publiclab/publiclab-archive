@@ -1,5 +1,5 @@
 ---
-title: Mentorship network meeting at CRASH Space
+title: 'Mentorship network meeting at CRASH Space'
 tagnames: event, event:rsvp, date:02-17-2018
 author: levisimons
 path: /notes/levisimons/02-05-2018/mentorship-network-meeting-at-crash-space.md

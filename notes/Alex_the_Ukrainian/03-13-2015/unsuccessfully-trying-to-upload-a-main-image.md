@@ -1,5 +1,5 @@
 ---
-title: Unsuccessfully trying to upload a main image
+title: 'Unsuccessfully trying to upload a main image'
 tagnames: troubleshooting, request, vista, ie8
 author: Alex_the_Ukrainian
 path: /notes/Alex_the_Ukrainian/03-13-2015/unsuccessfully-trying-to-upload-a-main-image.md

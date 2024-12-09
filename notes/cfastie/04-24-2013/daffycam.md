@@ -1,5 +1,5 @@
 ---
-title: DaffyCam
+title: 'DaffyCam'
 tagnames: near-infrared-camera, ndvi, vermont, infrared, imagej, infragram, plant-health, timelapse, superblue, vegetation, infrablue, activity:timelapse
 author: cfastie
 path: /notes/cfastie/04-24-2013/daffycam.md

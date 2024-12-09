@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Folsom Lake College Wetland Trails YesterV
+title: 'MapKnitter map of Folsom Lake College Wetland Trails YesterV'
 tagnames: mapknitter, lat:38.608151787, lon:-121.2019443512
 author: yesterv
 path: /notes/yesterv/11-09-2015/mapknitter-map-of-folsom-lake-college-wetland-trails-yesterv.md

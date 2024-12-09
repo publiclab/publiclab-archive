@@ -1,5 +1,5 @@
 ---
-title: MACA - Open AQ monitor - Second prototype
+title: 'MACA - Open AQ monitor - Second prototype'
 tagnames: arduino, air-quality, monitoring, dustduino, dust, pm, barnstar:basic, particles, gas-sensor, shinyei, ozone, south-america, activity:shinyei, activity:dustduino, activity:particulate-monitoring, replication:9818, particulate-matter, metal-oxide, latinamerica, carbon-monoxide, nitrogen-dioxide, argentina, activity:dust, activity:ozone, air-sensors, activity:maca, maca
 author: nanocastro
 path: /notes/nanocastro/04-26-2017/maca-open-air-quality-monitor-project-in-latin-america.md

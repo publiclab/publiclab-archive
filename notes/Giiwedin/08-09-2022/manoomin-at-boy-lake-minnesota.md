@@ -1,5 +1,5 @@
 ---
-title: Manoomin at Boy Lake, Minnesota 
+title: 'Manoomin at Boy Lake, Minnesota '
 tagnames: minnesota, zoom:13, wild-rice, mn-land-manoomin-protection, manoomin, wildrice, mn, lat:47.116518, lon:-94.238491
 author: Giiwedin
 path: /notes/Giiwedin/08-09-2022/manoomin-at-boy-lake-minnesota.md

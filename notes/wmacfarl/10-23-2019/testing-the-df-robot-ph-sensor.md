@@ -1,5 +1,5 @@
 ---
-title: Testing the DF Robot pH Sensor
+title: 'Testing the DF Robot pH Sensor'
 tagnames: sensors, water-quality, new, ph, draft, define, knowflow, activity:knowflow, water-sensors, activity:sensors, activity:ph, activity:water-sensors, dfrobot, oil-and-gas-water-trio, sensorname
 author: wmacfarl
 path: /notes/wmacfarl/10-23-2019/testing-the-df-robot-ph-sensor.md

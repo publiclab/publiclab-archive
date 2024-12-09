@@ -1,5 +1,5 @@
 ---
-title: Riffle conductivity caps and other housing ideas
+title: 'Riffle conductivity caps and other housing ideas'
 tagnames: arduino, water-quality, riffle, bottle, pet-bottle, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures, activity:conductivity
 author: mathew
 path: /notes/mathew/02-10-2016/riffle-conductivity-caps-and-other-housing-ideas.md

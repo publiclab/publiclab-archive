@@ -1,5 +1,5 @@
 ---
-title: What should we be recording in balloon/kite mapping logbooks?
+title: 'What should we be recording in balloon/kite mapping logbooks?'
 tagnames: balloon-mapping, kite-mapping, grassroots-mapping, aerial-mapping, metadata, answered, mini-kite-kit, mini-balloon-kit, question:mini-balloon-kit, question:mini-kite-kit, pocket-guide, logbook, field-notes, question:logbook, question:guides, question:pocket-guide
 author: warren
 path: /notes/warren/07-05-2017/what-should-we-be-recording-in-balloon-kite-mapping-logbooks.md

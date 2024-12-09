@@ -1,5 +1,5 @@
 ---
-title: Methods of Estimating the Volume and Weight of Waste Piles through Balloon Mapping
+title: 'Methods of Estimating the Volume and Weight of Waste Piles through Balloon Mapping'
 tagnames: balloon-mapping, landfill, waste, volume
 author: sara
 path: /notes/Sara/01-24-2014/methods-of-estimating-the-volume-and-weight-of-waste-piles-through-balloon-mapping.md

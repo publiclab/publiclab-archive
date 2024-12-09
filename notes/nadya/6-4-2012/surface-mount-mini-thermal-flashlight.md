@@ -1,5 +1,5 @@
 ---
-title: Surface mount mini thermal flashlight
+title: 'Surface mount mini thermal flashlight'
 tagnames: thermal-photography, thermal-flashlight, mini, surface-mount, response:625, upgrade:thermal-flashlight
 author: nadya
 path: /notes/nadya/6-4-2012/surface-mount-mini-thermal-flashlight.md

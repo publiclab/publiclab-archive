@@ -1,5 +1,5 @@
 ---
-title: AstroPlant RPi sensory system
+title: 'AstroPlant RPi sensory system'
 tagnames: water-sensing, raspberry-pi, infragram, water-quality, hyperspectral, conductivity, hydroponics, open-water, pi, question:infragram, rpi, initiative-area, raspberry, images, pi-noir, multispectral-imaging, question:general, question:raspberry-pi, question:hydroponics
 author: Sidney_AstroPlant
 path: /notes/Sidney_AstroPlant/07-03-2017/astroplant-rpi-sensory-system.md

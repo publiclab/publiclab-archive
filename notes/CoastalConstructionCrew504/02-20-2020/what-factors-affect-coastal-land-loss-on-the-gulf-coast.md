@@ -1,5 +1,5 @@
 ---
-title: What factors affect coastal land loss on the Gulf Coast?
+title: 'What factors affect coastal land loss on the Gulf Coast?'
 tagnames: gulf-coast, coastline, soil, erosion, question:general, general, oil-and-gas, first-time-poster, ccc, with:amallozzi, question:gulf-coast, land-loss, question:ccc
 author: CoastalConstructionCrew504
 path: /notes/CoastalConstructionCrew504/02-20-2020/what-factors-affect-coastal-land-loss-on-the-gulf-coast.md

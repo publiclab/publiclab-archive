@@ -1,5 +1,5 @@
 ---
-title: Build a low-magnification "dissection microscope" for microplastics
+title: 'Build a low-magnification "dissection microscope" for microplastics'
 tagnames: webcam, microscope, microscopes, microplastics, activity:community-microscope, community-microscope, babylegs, activity:babylegs, assembly:community-microscope, activity:microplastics, dissecting-microscope
 author: warren
 path: /notes/warren/10-16-2019/build-a-low-magnification-dissection-microscope-for-microplastics.md

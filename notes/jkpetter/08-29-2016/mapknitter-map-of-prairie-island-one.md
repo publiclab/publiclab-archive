@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Prairie Island One
+title: 'MapKnitter map of Prairie Island One'
 tagnames: mapknitter, north-carolina, southeast, lat:35.9894740318, lon:-78.9067053795, durham, first-time-poster
 author: jkpetter
 path: /notes/jkpetter/08-29-2016/mapknitter-map-of-prairie-island-one.md

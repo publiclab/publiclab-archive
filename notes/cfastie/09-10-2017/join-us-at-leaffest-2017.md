@@ -1,5 +1,5 @@
 ---
-title: Join us at LEAFFEST 2017
+title: 'Join us at LEAFFEST 2017'
 tagnames: vermont, leaffest, event, northeast, leaffest2017, location:blurred, lat:44, lon:-73, place:vermont
 author: cfastie
 path: /notes/cfastie/09-10-2017/join-us-at-leaffest-2017.md

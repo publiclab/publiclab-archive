@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (119 Harris Avenue)
+title: 'Art in Ruins (119 Harris Avenue)'
 tagnames: hidden:response, zoom:8, lat:41.828642, lat:41.274613468225766, lon:-71.04583740234376, lon:-71.422119, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-119-harris-avenue.md

@@ -1,5 +1,5 @@
 ---
-title: diy-mount-kit
+title: 'diy-mount-kit'
 tagnames: slit
 author: tonyc
 path: /wiki/diy-mount-kit.md

@@ -1,5 +1,5 @@
 ---
-title: Riffle: sensor board approach
+title: 'Riffle: sensor board approach'
 tagnames: riffle, open-water
 author: donblair
 path: /notes/donblair/08-28-2015/riffle-sensor-board-approach.md

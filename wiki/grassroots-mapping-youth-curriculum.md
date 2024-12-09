@@ -1,5 +1,5 @@
 ---
-title: Grassroots Mapping youth curriculum
+title: 'Grassroots Mapping youth curriculum'
 tagnames: balloon-mapping, education, curriculum, k-12, classroom
 author: warren
 path: /wiki/grassroots-mapping-youth-curriculum.md

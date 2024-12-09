@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of UNCC 1103 Lab
+title: 'MapKnitter map of UNCC 1103 Lab'
 tagnames: mapknitter, lat:35.3075696, lon:-80.7285523
 author: pdog
 path: /notes/pdog/09-29-2015/mapknitter-map-of-uncc-1103-lab.md

@@ -1,5 +1,5 @@
 ---
-title: Exporting GoogleGroups
+title: 'Exporting GoogleGroups'
 tagnames: community-metrics, community-mapping, mailing-lists, evaluation, activity:evaluation
 author: bsugar
 path: /notes/bsugar/07-25-2017/exporting-googlegroups.md

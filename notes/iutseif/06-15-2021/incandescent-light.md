@@ -1,5 +1,5 @@
 ---
-title: Incandescent light 
+title: 'Incandescent light '
 tagnames: first-time-poster, zoom:6, lat:30.044419, lon:31.235711
 author: iutseif
 path: /notes/iutseif/06-15-2021/incandescent-light.md

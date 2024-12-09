@@ -1,5 +1,5 @@
 ---
-title: JAM#4: Instituto de Tecnología SociAmbiental
+title: 'JAM#4: Instituto de Tecnología SociAmbiental'
 tagnames: lang:es, argentina, spanish, zoom:14, cosquin, lat:41.408488, lon:2.199325, jam, charla, epidemiologia, colaborativa, autodefensa-vecinal
 author: imvec
 path: /notes/imvec/04-29-2020/jam-4-instituto-de-tecnologia-sociambiental.md

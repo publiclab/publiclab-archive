@@ -1,5 +1,5 @@
 ---
-title: Can you process multiple images at the same time?
+title: 'Can you process multiple images at the same time?'
 tagnames: question:infragram, question:question
 author: JonathanM32
 path: /notes/JonathanM32/01-09-2017/can-you-process-multiple-images-at-the-same-time.md

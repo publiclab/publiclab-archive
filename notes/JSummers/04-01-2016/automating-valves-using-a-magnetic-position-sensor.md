@@ -1,5 +1,5 @@
 ---
-title: Automating valves using a magnetic position sensor.
+title: 'Automating valves using a magnetic position sensor.'
 tagnames: 3d-printing, barnstar:basic, syringe, pump, response:11519
 author: JSummers
 path: /notes/JSummers/04-01-2016/automating-valves-using-a-magnetic-position-sensor.md

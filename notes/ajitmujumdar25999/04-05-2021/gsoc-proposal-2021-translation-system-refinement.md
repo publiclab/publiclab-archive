@@ -1,5 +1,5 @@
 ---
-title: GSoC proposal 2021 : Translation System Refinement 
+title: 'GSoC proposal 2021 : Translation System Refinement '
 tagnames: soc, first-time-poster, gsoc-2021, gsoc-2021-proposals
 author: ajitmujumdar25999
 path: /notes/ajitmujumdar25999/04-05-2021/gsoc-proposal-2021-translation-system-refinement.md

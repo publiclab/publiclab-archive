@@ -1,5 +1,5 @@
 ---
-title: A month-long series of webinars about sensor journalism
+title: 'A month-long series of webinars about sensor journalism'
 tagnames: event, dustduino, event:rsvp, sensor-journalism, date:03-08-2015, webinar, rsvp:alex_the_ukrainian
 author: willie
 path: /notes/Willie/03-03-2015/sensor-journalism-series.md

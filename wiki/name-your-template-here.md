@@ -1,5 +1,5 @@
 ---
-title: Name your template here
+title: 'Name your template here'
 tagnames: 
 author: asoamarachi
 path: /wiki/name-your-template-here.md

@@ -1,5 +1,5 @@
 ---
-title: Correcting the colour of the Pi Camera image
+title: 'Correcting the colour of the Pi Camera image'
 tagnames: microscope, microscopy, activity:open-flexure-microscope, activity:community-microscope, community-microscope, open-flexure-microscope
 author: julianstirling
 path: /notes/julianstirling/06-11-2020/correcting-the-colour-of-the-pi-camera-image.md

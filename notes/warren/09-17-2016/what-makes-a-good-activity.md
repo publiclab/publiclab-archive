@@ -1,5 +1,5 @@
 ---
-title: What makes a good activity?
+title: 'What makes a good activity?'
 tagnames: collaboration, community, leaffest, blog, mobius, with:gretchengehrke, leaffest2016, research-culture, activity-grids, activities, leaffest-2016, question:activities
 author: warren
 path: /notes/warren/09-17-2016/what-makes-a-good-activity.md

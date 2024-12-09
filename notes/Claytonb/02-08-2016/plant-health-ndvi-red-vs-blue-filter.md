@@ -1,5 +1,5 @@
 ---
-title: Plant health NDVI Red vs Blue filter
+title: 'Plant health NDVI Red vs Blue filter'
 tagnames: ndvi, calibration, infrared, infragram, wratten25a, super-red, red-vs-blue, response:9717
 author: Claytonb
 path: /notes/Claytonb/02-08-2016/plant-health-ndvi-red-vs-blue-filter.md

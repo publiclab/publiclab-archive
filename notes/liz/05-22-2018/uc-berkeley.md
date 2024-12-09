@@ -1,5 +1,5 @@
 ---
-title: UC Berkeley research on pesticide exposure in youth
+title: 'UC Berkeley research on pesticide exposure in youth'
 tagnames: california, youth, pesticides, children, berkeley, environmental-health, pesticide-exposure, families, longitudinal-study
 author: liz
 path: /notes/liz/05-22-2018/uc-berkeley.md

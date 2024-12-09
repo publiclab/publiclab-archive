@@ -1,5 +1,5 @@
 ---
-title: DIY Indoor Air Quality Remediation
+title: 'DIY Indoor Air Quality Remediation'
 tagnames: remediation, air-quality, air, prototype, bacteria, indoor, wherewebreathe, first-time-poster, plant-air-purifier-prototypes
 author: nshapiro
 path: /notes/nshapiro/10-20-2014/diy-indoor-air-quality-remediation.md

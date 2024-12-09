@@ -1,5 +1,5 @@
 ---
-title: simple
+title: 'simple'
 tagnames: redirect:18517
 author: joyofsoy
 path: /wiki/simple.md

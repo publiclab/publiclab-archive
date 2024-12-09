@@ -1,5 +1,5 @@
 ---
-title: First Riffle Deployment: City of Cambridge Water Department
+title: 'First Riffle Deployment: City of Cambridge Water Department'
 tagnames: somerville-massachusetts, cambridge, massachusetts, water-quality, riffle, northeast, riffle-examples
 author: donblair
 path: /notes/donblair/08-01-2014/first-riffle-deployment-city-of-cambridge-water-department.md

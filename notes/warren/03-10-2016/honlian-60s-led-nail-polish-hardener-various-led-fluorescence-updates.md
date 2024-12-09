@@ -1,5 +1,5 @@
 ---
-title: Honlian 60s LED nail polish hardener, various LED fluorescence updates
+title: 'Honlian 60s LED nail polish hardener, various LED fluorescence updates'
 tagnames: spectrometer, oil, ultraviolet, fluorescence, led, oil-testing-kit, cuvette-frame, response:12716, response:12818, response:12725, response:12722, activity:spectrometry-sampling
 author: warren
 path: /notes/warren/03-10-2016/honlian-60s-led-nail-polish-hardener-various-led-fluorescence-updates.md

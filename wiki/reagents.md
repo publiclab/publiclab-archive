@@ -1,5 +1,5 @@
 ---
-title: Reagents
+title: 'Reagents'
 tagnames: reagents, method
 author: warren
 path: /wiki/reagents.md

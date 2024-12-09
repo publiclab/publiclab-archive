@@ -1,5 +1,5 @@
 ---
-title: Simple desktop GIS for participatory mapping
+title: 'Simple desktop GIS for participatory mapping'
 tagnames: central-america, panama, gis, answered, question:gis, qgis, mapeo
 author: mir
 path: /notes/mir/03-28-2018/simple-desktop-gis-for-participatory-mapping.md

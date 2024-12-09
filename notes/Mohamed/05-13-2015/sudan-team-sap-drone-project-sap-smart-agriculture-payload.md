@@ -1,5 +1,5 @@
 ---
-title: Sudan Team SAP DRONE Project/SAP (Smart Agriculture Payload)
+title: 'Sudan Team SAP DRONE Project/SAP (Smart Agriculture Payload)'
 tagnames: near-infrared-camera, agriculture, organic-agriculture, infragram, infragram-conversion, mineral-oil, ndvi-ag, first-time-poster
 author: Mohamed
 path: /notes/Mohamed/05-13-2015/sudan-team-sap-drone-project-sap-smart-agriculture-payload.md

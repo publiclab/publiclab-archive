@@ -1,5 +1,5 @@
 ---
-title: Alaska Range balloon mapping
+title: 'Alaska Range balloon mapping'
 tagnames: balloon-mapping, kite-mapping, ground-control-points, alaska, akrange
 author: cfastie
 path: /notes/cfastie/6-24-2012/alaska-range-balloon-mapping.md

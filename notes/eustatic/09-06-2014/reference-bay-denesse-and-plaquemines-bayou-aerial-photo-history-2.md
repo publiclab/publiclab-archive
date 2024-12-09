@@ -1,5 +1,5 @@
 ---
-title: [Reference] Bay Denesse and Plaquemines Bayou aerial photo history  2
+title: '[Reference] Bay Denesse and Plaquemines Bayou aerial photo history  2'
 tagnames: gulf-coast, balloon-mapping, nrg, multispectral, mapknitter, wetlands, infrared, louisiana, coastal, propublica, response:11110, washustlouis, washu-stlouis, lat:29.374695, lon:-89.476776, place:bay-denesse
 author: eustatic
 path: /09-06-2014/reference-bay-denesse-and-plaquemines-bayou-aerial-photo-history-2.md

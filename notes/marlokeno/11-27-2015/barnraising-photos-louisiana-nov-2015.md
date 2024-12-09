@@ -1,5 +1,5 @@
 ---
-title: barnraising photos, Louisiana, Nov 2015
+title: 'barnraising photos, Louisiana, Nov 2015'
 tagnames: barnraising-2015
 author: marlokeno
 path: /notes/marlokeno/11-27-2015/barnraising-photos-louisiana-nov-2015.md

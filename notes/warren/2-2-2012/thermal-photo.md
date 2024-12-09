@@ -1,5 +1,5 @@
 ---
-title: Thermal photo
+title: 'Thermal photo'
 tagnames: 
 author: warren
 path: /notes/warren/2-2-2012/thermal-photo.md

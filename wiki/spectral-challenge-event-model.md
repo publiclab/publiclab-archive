@@ -1,5 +1,5 @@
 ---
-title: Spectral Challenge event model
+title: 'Spectral Challenge event model'
 tagnames: event, spectralchallenge
 author: liz
 path: /wiki/spectral-challenge-event-model.md

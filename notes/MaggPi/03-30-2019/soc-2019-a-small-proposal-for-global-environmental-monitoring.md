@@ -1,5 +1,5 @@
 ---
-title: SOC 2019:  A small proposal for global environmental monitoring 
+title: 'SOC 2019:  A small proposal for global environmental monitoring '
 tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects, soc-2019-eval, gsoc-2019-final-report, qgis
 author: MaggPi
 path: /notes/MaggPi/03-30-2019/soc-2019-a-small-proposal-for-global-environmental-monitoring.md

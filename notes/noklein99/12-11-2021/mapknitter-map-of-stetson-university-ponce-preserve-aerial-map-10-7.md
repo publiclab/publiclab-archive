@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Stetson University Ponce Preserve Aerial Map 10/7
+title: 'MapKnitter map of Stetson University Ponce Preserve Aerial Map 10/7'
 tagnames: mapknitter, first-time-poster, zoom:16, lat:29.1145721229, lon:-80.9522436381, lat:29.114572, lon:-80.952243
 author: noklein99
 path: /notes/noklein99/12-11-2021/mapknitter-map-of-stetson-university-ponce-preserve-aerial-map-10-7.md

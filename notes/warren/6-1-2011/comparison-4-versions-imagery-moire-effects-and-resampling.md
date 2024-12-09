@@ -1,5 +1,5 @@
 ---
-title: Comparison of 4 versions of imagery, moire effects and resampling
+title: 'Comparison of 4 versions of imagery, moire effects and resampling'
 tagnames: 
 author: warren
 path: /notes/warren/6-1-2011/comparison-4-versions-imagery-moire-effects-and-resampling.md

@@ -1,5 +1,5 @@
 ---
-title: Tracking contributions to open source projects
+title: 'Tracking contributions to open source projects'
 tagnames: community
 author: warren
 path: /notes/warren/2-13-2012/tracking-contributions-open-source-projects.md

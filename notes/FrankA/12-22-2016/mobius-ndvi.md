@@ -1,5 +1,5 @@
 ---
-title: Mobius NDVI
+title: 'Mobius NDVI'
 tagnames: ndvi, infrared, health, plant, infra-red, mobius-actioncam, mobius, mobius-action-cam
 author: FrankA
 path: /notes/FrankA/12-22-2016/mobius-ndvi.md

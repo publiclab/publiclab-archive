@@ -1,5 +1,5 @@
 ---
-title: The Formation and Beginning of "Public Lab" 
+title: 'The Formation and Beginning of "Public Lab" '
 tagnames: microplastics, zoom:6, lat:22.004174, lon:76.003417
 author: TheChessGym
 path: /notes/TheChessGym/03-15-2022/the-formation-and-beginning-of-public-lab.md

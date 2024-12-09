@@ -1,5 +1,5 @@
 ---
-title: Payload Weight
+title: 'Payload Weight'
 tagnames: balloon-mapping, kite-mapping, grassrootsmappingwiki, diy-balloon, payload, weight
 author: warren
 path: /wiki/payload-weight.md

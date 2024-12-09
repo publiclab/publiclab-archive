@@ -1,5 +1,5 @@
 ---
-title: Assembly pics for prototype "countertop" spectrometer
+title: 'Assembly pics for prototype "countertop" spectrometer'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/9-12-2012/assembly-pics-prototype-countertop-spectrometer.md

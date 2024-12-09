@@ -1,5 +1,5 @@
 ---
-title: SoC MeetUp at DTU
+title: 'SoC MeetUp at DTU'
 tagnames: event, outreach, gsoc, india, software-outreach, soc, location:blurred, soc-2018, coding-events, new-delhi, gsoc-18, lat:28.7, lon:77.1, place:delhi-110063-india
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/09-12-2018/soc-meetup-at-dtu.md

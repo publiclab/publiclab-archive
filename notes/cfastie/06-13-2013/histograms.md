@@ -1,5 +1,5 @@
 ---
-title: Histograms
+title: 'Histograms'
 tagnames: near-infrared-camera, infrared, infragram, infrablue, histogram, histograms
 author: cfastie
 path: /notes/cfastie/06-13-2013/histograms.md

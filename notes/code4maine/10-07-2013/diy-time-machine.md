@@ -1,5 +1,5 @@
 ---
-title: DIY Time Machine
+title: 'DIY Time Machine'
 tagnames: balloon-mapping, mapknitter, archival, historic-imagery, maine, harpswell, first-time-poster
 author: ajawitz
 path: /notes/code4maine/10-07-2013/diy-time-machine.md

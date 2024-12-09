@@ -1,5 +1,5 @@
 ---
-title: Tales from the Cryptogam
+title: 'Tales from the Cryptogam'
 tagnames: vermont, polemapping, pole-photography, pap, pole-aerial-photography, pole-mapping, moss, kaptery, saturnv, response:8988, cryptogam, pole-bracket
 author: cfastie
 path: /notes/cfastie/12-24-2015/tales-from-the-cryptogam.md

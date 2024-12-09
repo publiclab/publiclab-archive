@@ -1,5 +1,5 @@
 ---
-title: Lighting Your Sample
+title: 'Lighting Your Sample'
 tagnames: raspberry-pi, with:kgradow1, with:warren, microscope, activity:microscopy, raspberry-pi-cameras, activity:microscope, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope, activity:community-microscope-assembly
 author: partsandcrafts
 path: /notes/partsandcrafts/02-26-2018/4-lighting-your-sample.md

@@ -1,5 +1,5 @@
 ---
-title: Question: retrieving true color image from infragram images
+title: 'Question: retrieving true color image from infragram images'
 tagnames: question:infragram
 author: brooksdr
 path: /notes/brooksdr/09-12-2014/question-retrieving-true-color-image-from-infragram-images.md

@@ -1,5 +1,5 @@
 ---
-title: Testing water with friends
+title: 'Testing water with friends'
 tagnames: chipmunkscityparkproject
 author: ksabido
 path: /notes/ksabido/05-13-2021/testing-water-with-friends.md

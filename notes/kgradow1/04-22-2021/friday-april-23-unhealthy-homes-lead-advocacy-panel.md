@@ -1,5 +1,5 @@
 ---
-title: Friday April 23: Unhealthy Homes Lead Advocacy Panel
+title: 'Friday April 23: Unhealthy Homes Lead Advocacy Panel'
 tagnames: air-quality, rhode-island, children, water-quality, lead, soil-quality, lon:-71, lat:42, paints, zoom:6, lead-poisoning
 author: kgradow1
 path: /notes/kgradow1/04-22-2021/friday-april-23-unhealthy-homes-lead-advocacy-panel.md

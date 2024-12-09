@@ -1,5 +1,5 @@
 ---
-title: Potholes in New Orleans Annotated Map Update
+title: 'Potholes in New Orleans Annotated Map Update'
 tagnames: gulf-coast, balloon-mapping, laplace, annotated-maps, louisiana, transportation, new-orleans, stormwater, potholes, roads, stem, zoom:6, asphalt, lat:30.050076, lon:-90.571289
 author: Rgaude
 path: /notes/Rgaude/05-13-2021/potholes-in-new-orleans-annotated-map-update.md

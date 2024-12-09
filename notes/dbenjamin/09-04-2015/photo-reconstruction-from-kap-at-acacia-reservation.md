@@ -1,5 +1,5 @@
 ---
-title: Photo Reconstruction from KAP at Acacia Reservation
+title: 'Photo Reconstruction from KAP at Acacia Reservation'
 tagnames: kite-aerial-photography, kap, autokap, kaptery, saturnv, skyshield, point-cloud
 author: dbenjamin
 path: /notes/dbenjamin/09-04-2015/photo-reconstruction-from-kap-at-acacia-reservation.md

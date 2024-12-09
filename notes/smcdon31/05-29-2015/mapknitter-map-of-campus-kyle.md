@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of Campus: Kyle 
+title: 'MapKnitter map of Campus: Kyle '
 tagnames: mapknitter, lat:35.3075696, lon:-80.7285523
 author: smcdon31
 path: /notes/smcdon31/05-29-2015/mapknitter-map-of-campus-kyle.md

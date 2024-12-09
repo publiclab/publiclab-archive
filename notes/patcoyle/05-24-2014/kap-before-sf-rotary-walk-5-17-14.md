@@ -1,5 +1,5 @@
 ---
-title:  Suggests fundraising opportunities: KAP before SF Rotary walk 5-17-14
+title: ' Suggests fundraising opportunities: KAP before SF Rotary walk 5-17-14'
 tagnames: kap, sfm, fundraising, local-projects, ewb
 author: patcoyle
 path: /notes/patcoyle/05-24-2014/kap-before-sf-rotary-walk-5-17-14.md

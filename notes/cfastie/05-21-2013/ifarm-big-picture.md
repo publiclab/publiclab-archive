@@ -1,5 +1,5 @@
 ---
-title: iFarm Big Picture
+title: 'iFarm Big Picture'
 tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, new-hampshire, event, infragram, cfastie, ifarm, gigapan, ifarm2013, northeast
 author: cfastie
 path: /notes/cfastie/05-21-2013/ifarm-big-picture.md

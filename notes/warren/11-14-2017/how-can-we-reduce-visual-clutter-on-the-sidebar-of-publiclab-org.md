@@ -1,5 +1,5 @@
 ---
-title: How can we reduce visual clutter on the sidebar of PublicLab.org?
+title: 'How can we reduce visual clutter on the sidebar of PublicLab.org?'
 tagnames: website, design, web, wwg, ui, question:ui
 author: warren
 path: /notes/warren/11-14-2017/how-can-we-reduce-visual-clutter-on-the-sidebar-of-publiclab-org.md

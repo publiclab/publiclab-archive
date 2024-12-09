@@ -1,5 +1,5 @@
 ---
-title: Public Lab community newsletter 10.6.13: Update from the 2013 barnraising
+title: 'Public Lab community newsletter 10.6.13: Update from the 2013 barnraising'
 tagnames: newsletter, barnraising, newsletter-archive
 author: Shannon
 path: /notes/Shannon/10-06-2013/public-lab-community-newsletter-10-6-13-update-from-the-2013-barnraising.md

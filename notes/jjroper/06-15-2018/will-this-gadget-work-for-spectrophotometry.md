@@ -1,5 +1,5 @@
 ---
-title: Will this gadget work for spectrophotometry?
+title: 'Will this gadget work for spectrophotometry?'
 tagnames: spectrometry, tool, question:general, method, chemicals, oil-and-gas, solid
 author: jjroper
 path: /notes/jjroper/06-15-2018/will-this-gadget-work-for-spectrophotometry.md

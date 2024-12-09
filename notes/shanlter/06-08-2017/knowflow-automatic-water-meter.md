@@ -1,5 +1,5 @@
 ---
-title: Build KnowFlow: automatic water moniter
+title: 'Build KnowFlow: automatic water moniter'
 tagnames: arduino, water-quality, water, water-quality-sensor, open-water, barnstar:photo-documentation, china, seeks:replications, data-logging, knowflow, activity:water-monitoring, activity:data-logging, activity:knowflow
 author: shanlter
 path: /notes/shanlter/06-08-2017/knowflow-automatic-water-meter.md

@@ -1,5 +1,5 @@
 ---
-title: Mapping 10km2 
+title: 'Mapping 10km2 '
 tagnames: balloon-mapping, guides, activity:balloon-mapping
 author: gonzoearth
 path: /notes/gonzoearth/03-29-2014/mapping-10km2.md

@@ -1,5 +1,5 @@
 ---
-title: Do you know of a success story of DIY monitoring for factory farm related problems?
+title: 'Do you know of a success story of DIY monitoring for factory farm related problems?'
 tagnames: diy, air-quality, water-quality, pollution, data-collection, monitoring, datalogger, cafo, environmentaljustice, question:question, factory-farms, question:agriculture, question:industry
 author: zengirl2
 path: /notes/Zengirl2/11-25-2017/do-you-know-of-a-success-story-of-diy-monitoring-for-factory-farm-related-problems.md

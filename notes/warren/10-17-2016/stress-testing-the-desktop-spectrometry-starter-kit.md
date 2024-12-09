@@ -1,5 +1,5 @@
 ---
-title: Stress-testing the Desktop Spectrometry Starter Kit
+title: 'Stress-testing the Desktop Spectrometry Starter Kit'
 tagnames: spectrometer, kits, leaffest, spectrometry, testing, parts-and-crafts, activity:spectrometry, difficulty:medium, activity:dssk, category:test-limits, status:in-progress, time:1h, stress-testing, rigidity
 author: warren
 path: /notes/warren/10-17-2016/stress-testing-the-desktop-spectrometry-starter-kit.md

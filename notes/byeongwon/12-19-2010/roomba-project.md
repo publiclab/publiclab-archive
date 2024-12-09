@@ -1,5 +1,5 @@
 ---
-title: The Roomba Project
+title: 'The Roomba Project'
 tagnames: rhode-island, roomba, risd
 author: byeongwon
 path: /notes/byeongwon/12-19-2010/roomba-project.md

@@ -1,5 +1,5 @@
 ---
-title: gowanus
+title: 'gowanus'
 tagnames: 
 author: liz
 path: /wiki/gowanus.md

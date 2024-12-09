@@ -1,5 +1,5 @@
 ---
-title: PART II: How to create a relational diagram of the Public Lab database.
+title: 'PART II: How to create a relational diagram of the Public Lab database.'
 tagnames: database, networks, activity:new, diagrams
 author: bsugar
 path: /notes/bsugar/04-30-2019/part-ii-how-to-create-a-relational-diagram-of-the-public-lab-database.md

@@ -1,5 +1,5 @@
 ---
-title: Grassroots Mapping is an Honorable Mention for Best Tech Project at the 2010 Kickstarter Awards
+title: 'Grassroots Mapping is an Honorable Mention for Best Tech Project at the 2010 Kickstarter Awards'
 tagnames: 
 author: warren
 path: /notes/warren/1-12-2011/grassroots-mapping-honorable-mention-best-tech-project-2010-kickstarter-award.md

@@ -1,5 +1,5 @@
 ---
-title: Like buttons for spectra on SpectralWorkbench.org
+title: 'Like buttons for spectra on SpectralWorkbench.org'
 tagnames: spectrometer, spectralworkbench
 author: warren
 path: /notes/warren/2-5-2013/buttons-spectra-spectralworkbenchorg.md

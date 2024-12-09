@@ -1,5 +1,5 @@
 ---
-title: How we can do our own air quality monitoring in Deer Park Texas? 
+title: 'How we can do our own air quality monitoring in Deer Park Texas? '
 tagnames: question:air-quality, question:question, question:deer-park-tank-fire
 author: stevie
 path: /notes/stevie/08-23-2019/how-we-can-do-our-own-air-quality-monitoring-in-deer-park-texas.md

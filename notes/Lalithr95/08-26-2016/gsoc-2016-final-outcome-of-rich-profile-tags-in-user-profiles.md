@@ -1,5 +1,5 @@
 ---
-title: GSOC 2016: Final outcome of Rich Profile tags in user profiles
+title: 'GSOC 2016: Final outcome of Rich Profile tags in user profiles'
 tagnames: gsoc, developers, gsoc-2016, gsoc2016, profiles, response:13397
 author: Lalithr95
 path: /notes/Lalithr95/08-26-2016/gsoc-2016-final-outcome-of-rich-profile-tags-in-user-profiles.md

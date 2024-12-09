@@ -1,5 +1,5 @@
 ---
-title: wetlands lesson plans
+title: 'wetlands lesson plans'
 tagnames: education, wetlands, new-orleans, urbanwater, urbanwaters, parent:wetlands-toolkit, lesson
 author: Shannon
 path: /wiki/wetlands-lesson-plans.md

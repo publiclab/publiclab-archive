@@ -1,5 +1,5 @@
 ---
-title: Use of image in thesis
+title: 'Use of image in thesis'
 tagnames: infragram-point-shoot, question:infragram-point-shoot
 author: petter_mansson1
 path: /notes/petter_mansson1/04-17-2019/use-of-image-in-thesis.md

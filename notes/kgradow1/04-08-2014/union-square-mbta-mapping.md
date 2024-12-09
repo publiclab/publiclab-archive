@@ -1,5 +1,5 @@
 ---
-title: Union Square MBTA Mapping
+title: 'Union Square MBTA Mapping'
 tagnames: balloon-mapping, somerville-massachusetts, kite-mapping, boston, union-square, event, somerville, massachusetts, transportation, urban-design, urban-planning, green-line, mbta, replication:14022
 author: kgradow1
 path: /notes/kgradow1/04-08-2014/union-square-mbta-mapping.md

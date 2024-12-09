@@ -1,5 +1,5 @@
 ---
-title: Job Posting: Executive Director, Public Lab
+title: 'Job Posting: Executive Director, Public Lab'
 tagnames: nonprofit, jobs, director, executive
 author: thewrightjess
 path: /notes/thewrightjess/05-07-2020/job-posting-executive-director-public-lab.md

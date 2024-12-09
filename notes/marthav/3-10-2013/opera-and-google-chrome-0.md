@@ -1,5 +1,5 @@
 ---
-title: Opera and Google Chrome
+title: 'Opera and Google Chrome'
 tagnames: webcam, opera
 author: MarthaV
 path: /notes/marthav/3-10-2013/opera-and-google-chrome-0.md

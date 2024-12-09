@@ -1,5 +1,5 @@
 ---
-title: Phantom 3 Professional
+title: 'Phantom 3 Professional'
 tagnames: 
 author: marfisistemidroni
 path: /notes/marfisistemidroni/11-06-2016/phantom-3-professional.md

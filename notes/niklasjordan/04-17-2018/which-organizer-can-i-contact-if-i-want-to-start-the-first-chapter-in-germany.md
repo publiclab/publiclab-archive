@@ -1,5 +1,5 @@
 ---
-title: Which organizer can I contact if I want to start the first chapter in Germany?
+title: 'Which organizer can I contact if I want to start the first chapter in Germany?'
 tagnames: chapters, eu, getting-started, answered, germany, question:chapters, first-time-poster
 author: niklasjordan
 path: /notes/niklasjordan/04-17-2018/which-organizer-can-i-contact-if-i-want-to-start-the-first-chapter-in-germany.md

@@ -1,5 +1,5 @@
 ---
-title: Immigration in Cranston
+title: 'Immigration in Cranston'
 tagnames: csf, one-cranston, csf17
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/immigration-in-cranston.md

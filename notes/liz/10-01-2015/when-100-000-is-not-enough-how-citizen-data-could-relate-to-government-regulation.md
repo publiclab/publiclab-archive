@@ -1,5 +1,5 @@
 ---
-title: When $100,000 is not enough: how citizen data (could) relate to government regulation
+title: 'When $100,000 is not enough: how citizen data (could) relate to government regulation'
 tagnames: gulf-coast, air-quality, blog, regulations, open-air, particle-sensing, particle-monitoring, openair, style:fancy, with:gretchengehrke, texas, with:reltub1, passive-pm, houston
 author: liz
 path: /notes/liz/10-01-2015/when-100-000-is-not-enough-how-citizen-data-could-relate-to-government-regulation.md

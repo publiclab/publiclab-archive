@@ -1,5 +1,5 @@
 ---
-title: Is gravel mining containing silica dangerous to the surrounding community?
+title: 'Is gravel mining containing silica dangerous to the surrounding community?'
 tagnames: industrial-monitoring, air-quality, mining, silica, particulate-monitoring, question:general, general, silica-monitoring, first-time-poster
 author: annemolony413
 path: /notes/annemolony413/02-17-2020/is-gravel-mining-containing-silica-dangerous-to-the-surrounding-community.md

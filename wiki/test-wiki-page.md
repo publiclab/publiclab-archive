@@ -1,5 +1,5 @@
 ---
-title: test wiki page
+title: 'test wiki page'
 tagnames: testing, developers, lat:22
 author: sagarpreet
 path: /wiki/test-wiki-page.md

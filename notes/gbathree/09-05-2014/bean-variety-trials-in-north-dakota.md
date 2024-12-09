@@ -1,5 +1,5 @@
 ---
-title: Bean Variety Trials in North Dakota
+title: 'Bean Variety Trials in North Dakota'
 tagnames: soil, photosynq, multispeq, carbon, co2, beans, breeding
 author: gbathree
 path: /notes/gbathree/09-05-2014/bean-variety-trials-in-north-dakota.md

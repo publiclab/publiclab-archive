@@ -1,5 +1,5 @@
 ---
-title: Can i upload csv files on spectralworkbench for calibration and other purposes?
+title: 'Can i upload csv files on spectralworkbench for calibration and other purposes?'
 tagnames: question:spectrometry, question:spectral-workbench, answered
 author: shubham
 path: /notes/shubham/08-18-2016/question-can-i-upload-csv-files-on-spectralworkbench-for-calibration-and-other-purposes.md

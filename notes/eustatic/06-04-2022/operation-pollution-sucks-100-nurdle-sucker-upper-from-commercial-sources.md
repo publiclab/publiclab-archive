@@ -1,5 +1,5 @@
 ---
-title: Operation Pollution Sucks:  ~$100 nurdle sucker upper from commercial sources
+title: 'Operation Pollution Sucks:  ~$100 nurdle sucker upper from commercial sources'
 tagnames: kits, water-quality, microplastics, zoom:18, nurdles, nurdlepatrol, lat:40.037875, lon:-76.305514
 author: eustatic
 path: /06-04-2022/operation-pollution-sucks-100-nurdle-sucker-upper-from-commercial-sources.md

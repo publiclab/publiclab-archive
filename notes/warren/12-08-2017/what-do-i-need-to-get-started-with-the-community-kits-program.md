@@ -1,5 +1,5 @@
 ---
-title: What do I need to get started with the Community Kits program?
+title: 'What do I need to get started with the Community Kits program?'
 tagnames: kits, answered, question:community-kits, community-kits
 author: warren
 path: /notes/warren/12-08-2017/what-do-i-need-to-get-started-with-the-community-kits-program.md

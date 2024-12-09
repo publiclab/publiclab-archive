@@ -1,5 +1,5 @@
 ---
-title: The Formosa's Air Permit Trial: Rise St. James vs. Louisiana Department of Environmental Quality (LDEQ)
+title: 'The Formosa's Air Permit Trial: Rise St. James vs. Louisiana Department of Environmental Quality (LDEQ)'
 tagnames: fellowships, formosaplastics, stjames
 author: TravisLondon
 path: /notes/TravisLondon/03-26-2022/the-formosa-s-air-permit-trial-rise-st-james-vs-louisiana-department-of-environmental-quality-ldeq.md

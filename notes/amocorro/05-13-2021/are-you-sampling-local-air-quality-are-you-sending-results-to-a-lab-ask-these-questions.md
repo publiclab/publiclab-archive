@@ -1,5 +1,5 @@
 ---
-title: Are you sampling local air quality? Are you sending results to a lab? Ask these questions! 
+title: 'Are you sampling local air quality? Are you sending results to a lab? Ask these questions! '
 tagnames: air-quality, with:sarasage, bucket-monitor, air-lab-testing, lab-results, question:vvamp
 author: amocorro
 path: /notes/amocorro/05-13-2021/are-you-sampling-local-air-quality-are-you-sending-results-to-a-lab-ask-these-questions.md

@@ -1,5 +1,5 @@
 ---
-title: Event! Welcome to a public research area review on wastewater, July 27
+title: 'Event! Welcome to a public research area review on wastewater, July 27'
 tagnames: event, research, water-quality, stormwater, event:rsvp, wastewater, reviews, research-area-review, rsvp:alejobonifacio, research-curation-fellows-event, rsvp:denissebn_06, with:alejobonifacio, rsvp:heyitsjoe
 author: bhamster
 path: /notes/bhamster/07-20-2021/event-welcome-to-a-public-research-area-review-on-wastewater-july-27.md

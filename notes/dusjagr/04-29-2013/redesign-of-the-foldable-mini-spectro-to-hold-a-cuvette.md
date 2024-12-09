@@ -1,5 +1,5 @@
 ---
-title: Redesign of the Foldable Mini-Spectro to hold a cuvette
+title: 'Redesign of the Foldable Mini-Spectro to hold a cuvette'
 tagnames: list:plots-spectrometry, spectrometer, cuvettes, sampling, foldable, papercraft, cuvette-frame
 author: dusjagr
 path: /notes/dusjagr/04-29-2013/redesign-of-the-foldable-mini-spectro-to-hold-a-cuvette.md

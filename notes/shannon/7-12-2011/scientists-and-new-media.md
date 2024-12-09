@@ -1,5 +1,5 @@
 ---
-title: Scientists and "new" media
+title: 'Scientists and "new" media'
 tagnames: 
 author: Shannon
 path: /notes/shannon/7-12-2011/scientists-and-new-media.md

@@ -1,5 +1,5 @@
 ---
-title: How can we stream video to SpectralWorkbench.org or Infragram.org from a Raspberry Pi camera?
+title: 'How can we stream video to SpectralWorkbench.org or Infragram.org from a Raspberry Pi camera?'
 tagnames: spectrometry, raspberry-pi, infragram, question:raspberry-pi, question:infragram-challenges, raspberry-pi-infragram, question:raspberry-pi-infragram, raspberry-pi-spectrometer, question:raspberry-pi-spectrometer, question:coding, question:lego-spectrometer
 author: warren
 path: /notes/warren/12-05-2017/how-can-we-stream-video-to-spectralworkbench-org-or-infragram-org-from-a-raspberry-pi-camera.md

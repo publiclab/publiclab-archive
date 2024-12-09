@@ -1,5 +1,5 @@
 ---
-title: Can anyone help me troubleshoot my NDVI imagery?
+title: 'Can anyone help me troubleshoot my NDVI imagery?'
 tagnames: ndvi, calibration, infrared, infragram, question:infragram, answered, question:multispectral-imaging, question:infragram-point-shoot
 author: abdul
 path: /notes/abdul/10-21-2016/can-anyone-help-me-troubleshoot-my-ndvi-imagery.md

@@ -1,5 +1,5 @@
 ---
-title: Rain Barrel and Rain Gauge Build with 7th Ward Residents 
+title: 'Rain Barrel and Rain Gauge Build with 7th Ward Residents '
 tagnames: gulf-coast, event, new-orleans, blog, stormwater, flooding, nas, nola, location:blurred, lon:-90, rain-barrel, rain-gauge, lat:29.9, place:la-70131-united-states
 author: stevie
 path: /notes/stevie/06-22-2018/rain-barrel-and-rain-gauge-build-with-7th-ward-residents.md

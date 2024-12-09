@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping From the Ground Up: Public Lab's Field Techniques
+title: 'Balloon Mapping From the Ground Up: Public Lab's Field Techniques'
 tagnames: balloon-mapping, kite-mapping, protest-mapping, idealab, activities:aerial-photography
 author: gonzoearth
 path: /notes/gonzoearth/1-2-2013/balloon-mapping-ground-public-labs-field-techniques.md

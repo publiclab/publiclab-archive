@@ -1,5 +1,5 @@
 ---
-title: Can a passive dust monitoring housing be made from a cheaper/easier material?
+title: 'Can a passive dust monitoring housing be made from a cheaper/easier material?'
 tagnames: diy, dust, frac-sand, pm, particle-monitoring, passive-pm, question:passive-pm, question:pm, question:particulates, fabrication, question:frac-sand, question:dust, question:dust-sampling
 author: warren
 path: /notes/warren/11-10-2016/can-a-passive-dust-monitoring-housing-be-made-from-a-cheaper-easier-material.md

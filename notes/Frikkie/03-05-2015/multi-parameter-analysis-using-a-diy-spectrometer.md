@@ -1,5 +1,5 @@
 ---
-title: Multi parameter analysis using a DIY Spectrometer
+title: 'Multi parameter analysis using a DIY Spectrometer'
 tagnames: spectrometer, flame-spectroscopy, barnstar:basic, nitrate, colorimetry, sodium, colorimeter, aquaponics, photometer, potassium, nitrates, activity:spectrometry, nitrogen, first-time-poster, activity:nitrogen, activity:nitrates, activity:spectrometry-usage
 author: Frikkie
 path: /notes/Frikkie/03-05-2015/multi-parameter-analysis-using-a-diy-spectrometer.md

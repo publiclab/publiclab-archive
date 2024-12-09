@@ -1,5 +1,5 @@
 ---
-title: How do I make sure the "YELLOW LINE" threshold is the same for each measurement with the spectormeter (trying to maintain consistent conditions for experiments across multiple days)
+title: 'How do I make sure the "YELLOW LINE" threshold is the same for each measurement with the spectormeter (trying to maintain consistent conditions for experiments across multiple days)'
 tagnames: spectrometry, question:spectrometry
 author: Dr_Z
 path: /notes/Dr_Z/03-08-2018/how-do-i-make-sure-the-yellow-line-threshold-is-the-same-for-each-measurement-with-the-spectormeter-trying-to-maintain-consistent-conditions-for-experiments-across-multiple-days.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab NorCal Meet Up - Cloverleaf Farmstand, Davis, CA
+title: 'Public Lab NorCal Meet Up - Cloverleaf Farmstand, Davis, CA'
 tagnames: balloon-mapping, kite-mapping, norcal, event, replication:14022
 author: MicheleTobias
 path: /notes/MicheleTobias/05-31-2013/public-lab-norcal-meet-up-cloverleaf-farmstand-davis-ca.md

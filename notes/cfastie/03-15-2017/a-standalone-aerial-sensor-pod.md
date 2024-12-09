@@ -1,5 +1,5 @@
 ---
-title: A standalone aerial sensor pod
+title: 'A standalone aerial sensor pod'
 tagnames: arduino, gps, logging, barnstar:basic, saturnv, activity:arduino, data_logging, response:13850, activity:datalogger, skypod
 author: cfastie
 path: /notes/cfastie/03-15-2017/a-standalone-aerial-sensor-pod.md

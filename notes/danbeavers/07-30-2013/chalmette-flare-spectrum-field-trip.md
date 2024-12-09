@@ -1,5 +1,5 @@
 ---
-title: Chalmette flare spectrum field trip
+title: 'Chalmette flare spectrum field trip'
 tagnames: gulf-coast, spectrometer, new-orleans, flare, chalmette
 author: danbeavers
 path: /notes/danbeavers/07-30-2013/chalmette-flare-spectrum-field-trip.md

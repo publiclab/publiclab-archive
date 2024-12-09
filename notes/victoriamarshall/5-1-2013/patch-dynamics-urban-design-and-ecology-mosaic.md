@@ -1,5 +1,5 @@
 ---
-title: Patch Dynamics: Urban Design and Ecology as Mosaic
+title: 'Patch Dynamics: Urban Design and Ecology as Mosaic'
 tagnames: sustainable-cities, imagery, urban-ecology, urban-design, new-school
 author: VictoriaMarshall
 path: /notes/victoriamarshall/5-1-2013/patch-dynamics-urban-design-and-ecology-mosaic.md

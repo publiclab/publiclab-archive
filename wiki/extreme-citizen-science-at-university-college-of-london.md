@@ -1,5 +1,5 @@
 ---
-title: Extreme Citizen Science at University College of London
+title: 'Extreme Citizen Science at University College of London'
 tagnames: london, citizen-science, uk, excites, grassrootsmappingforum, with:shannon, style:fancy, eu, with:cindy_excites, gmf-3
 author: mollydanielsson
 path: /wiki/extreme-citizen-science-at-university-college-of-london.md

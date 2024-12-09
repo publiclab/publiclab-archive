@@ -1,5 +1,5 @@
 ---
-title: homebrew-rail-tour
+title: 'homebrew-rail-tour'
 tagnames: 
 author: donblair
 path: /wiki/homebrew-rail-tour.md

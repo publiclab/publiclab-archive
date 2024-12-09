@@ -1,5 +1,5 @@
 ---
-title: Best Method(s) of Datalogging Location in the Field Without Cell Reception?
+title: 'Best Method(s) of Datalogging Location in the Field Without Cell Reception?'
 tagnames: gps, mapping, air-quality, airquality, data-logging, question:general, general, data-logger, technology, VVAMP, cellphone-reception, question:vvamp
 author: sarasage
 path: /notes/sarasage/05-11-2021/best-method-s-of-datalogging-location-in-the-field-without-cell-reception.md

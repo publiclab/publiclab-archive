@@ -1,5 +1,5 @@
 ---
-title: Grating angle: DVD+R
+title: 'Grating angle: DVD+R'
 tagnames: spectrometer, vermont, diffraction-grating, focus
 author: cfastie
 path: /notes/cfastie/2-12-2013/grating-angle-dvdr.md

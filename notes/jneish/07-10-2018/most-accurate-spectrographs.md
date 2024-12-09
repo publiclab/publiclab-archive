@@ -1,5 +1,5 @@
 ---
-title: Most accurate spectrographs? 
+title: 'Most accurate spectrographs? '
 tagnames: spectrometry, tool, question:spectrometry, question:general, method, chemicals, oil-and-gas, solid
 author: jneish
 path: /notes/jneish/07-10-2018/most-accurate-spectrographs.md

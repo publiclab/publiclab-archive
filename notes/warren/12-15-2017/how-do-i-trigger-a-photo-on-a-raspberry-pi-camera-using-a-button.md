@@ -1,5 +1,5 @@
 ---
-title: How do I trigger a photo on a Raspberry Pi camera using a button?
+title: 'How do I trigger a photo on a Raspberry Pi camera using a button?'
 tagnames: raspberry-pi, infragram, timelapse, answered, pi-camera, question:raspberry-pi, question:pi-camera, raspberry-pi-infragram, question:raspberry-pi-infragram, raspberry-pi-spectrometer, question:raspberry-pi-spectrometer, basic-microscope, question:lego-spectrometer, lego-spectrometer, question:lego-spectrometer-challenge
 author: warren
 path: /notes/warren/12-15-2017/how-do-i-trigger-a-photo-on-a-raspberry-pi-camera-using-a-button.md

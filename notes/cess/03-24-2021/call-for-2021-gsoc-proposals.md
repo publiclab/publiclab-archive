@@ -1,5 +1,5 @@
 ---
-title: Call for 2021 GSoC proposals
+title: 'Call for 2021 GSoC proposals'
 tagnames: gsoc, with:warren, with:liz, call-for-proposals, zoom:6, soc-2021, with:ruthnwaiganjo, gsoc-2021
 author: cess
 path: /notes/cess/03-24-2021/call-for-2021-gsoc-proposals.md

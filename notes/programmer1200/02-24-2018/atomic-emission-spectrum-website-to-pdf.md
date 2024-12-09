@@ -1,5 +1,5 @@
 ---
-title: Atomic Emission Spectrums
+title: 'Atomic Emission Spectrums'
 tagnames: spectrometer, elements
 author: programmer1200
 path: /notes/programmer1200/02-24-2018/atomic-emission-spectrum-website-to-pdf.md

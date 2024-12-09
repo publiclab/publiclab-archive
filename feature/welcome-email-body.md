@@ -1,5 +1,5 @@
 ---
-title: welcome-email-body
+title: 'welcome-email-body'
 tagnames: 
 author: warren
 path: /feature/welcome-email-body.md

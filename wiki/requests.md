@@ -1,5 +1,5 @@
 ---
-title: Requests
+title: 'Requests'
 tagnames: community, requests
 author: warren
 path: /wiki/requests.md

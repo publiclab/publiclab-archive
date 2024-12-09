@@ -1,5 +1,5 @@
 ---
-title: Balloon Mapping In Edgard!
+title: 'Balloon Mapping In Edgard!'
 tagnames: mapping, balloon, first-time-poster, zoom:6, lat:30.043257, lon:-90.560086
 author: Keimyren
 path: /notes/Keimyren/04-30-2021/balloon-mapping-in-edgard.md

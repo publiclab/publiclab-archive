@@ -1,5 +1,5 @@
 ---
-title: How to Build a Specialty Phone Carriage
+title: 'How to Build a Specialty Phone Carriage'
 tagnames: balloon-mapping, near-infrared-camera, mobile-phone-camera, rig, event, bottle-rig, camera-rig, juice-bottle-rig, smartphone, hidden:response, activity:camera-rigs, juice-bottle, response:14179
 author: sdepolo
 path: /notes/sdepolo/05-30-2017/how-to-build-a-specialty-phone-carriage.md

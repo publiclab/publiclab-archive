@@ -1,5 +1,5 @@
 ---
-title: MapKnitter map of testing
+title: 'MapKnitter map of testing'
 tagnames: mapknitter, lat:61.003577936, lon:-334.5754909515, first-time-poster
 author: Jimzamjimmyy
 path: /notes/Jimzamjimmyy/06-12-2018/mapknitter-map-of-testing.md

@@ -1,5 +1,5 @@
 ---
-title: Video Spectrometer
+title: 'Video Spectrometer'
 tagnames: spectrometer
 author: warren
 path: /wiki/video-spectrometer.md

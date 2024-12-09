@@ -1,5 +1,5 @@
 ---
-title: Envirodiy workshop Jan 26/27 2017
+title: 'Envirodiy workshop Jan 26/27 2017'
 tagnames: event, event:rsvp, date:01-06-2017
 author: neilh20
 path: /notes/neilh20/01-06-2017/envirodiy-workshop-jan-26-27-2017.md

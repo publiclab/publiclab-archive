@@ -1,5 +1,5 @@
 ---
-title: Thermal flashlight temperature key
+title: 'Thermal flashlight temperature key'
 tagnames: 
 author: warren
 path: /notes/warren/2-16-2012/thermal-flashlight-temperature-key.md

@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Bob Workshop Northeastern
+title: 'Thermal Fishing Bob Workshop Northeastern'
 tagnames: somerville-massachusetts, boston, thermal-fishing, water-quality, nuclear, thermal-fishing-bob, cso, pilgrim
 author: sara
 path: /wiki/thermal-fishing-bob-workshop-northeastern.md

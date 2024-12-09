@@ -1,5 +1,5 @@
 ---
-title: Pi Camera
+title: 'Pi Camera'
 tagnames: balloon-mapping, kite-mapping, spectrometry, raspberry-pi, timelapse, aerial-mapping, rpi, pi-camera, datasheet
 author: warren
 path: /wiki/pi-camera.md

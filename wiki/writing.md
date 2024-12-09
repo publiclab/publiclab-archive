@@ -1,5 +1,5 @@
 ---
-title: Writing
+title: 'Writing'
 tagnames: 
 author: warren
 path: /wiki/writing.md

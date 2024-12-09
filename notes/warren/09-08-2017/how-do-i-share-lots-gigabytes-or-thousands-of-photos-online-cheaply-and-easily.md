@@ -1,5 +1,5 @@
 ---
-title: How do I share lots (gigabytes, or thousands) of photos online, cheaply and easily?
+title: 'How do I share lots (gigabytes, or thousands) of photos online, cheaply and easily?'
 tagnames: answered, question:aerial-mapping, question:aerial-photography, photo-sharing, harvey, question:harvey, irma, question:image-sorting, question:photo-sharing
 author: warren
 path: /notes/warren/09-08-2017/how-do-i-share-lots-gigabytes-or-thousands-of-photos-online-cheaply-and-easily.md

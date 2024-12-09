@@ -1,5 +1,5 @@
 ---
-title: Spectrometer: improvements
+title: 'Spectrometer: improvements'
 tagnames: spectrometer, spectrometry, light, first-time-poster, diffraction
 author: chross
 path: /notes/chross/06-26-2019/spectrometer-improvements.md

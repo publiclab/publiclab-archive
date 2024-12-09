@@ -1,5 +1,5 @@
 ---
-title: Spectral Workbench: Can't search (502 Bad Gateway)
+title: 'Spectral Workbench: Can't search (502 Bad Gateway)'
 tagnames: website, question:website, first-time-poster
 author: dlwilson1a
 path: /notes/dlwilson1a/10-04-2021/spectral-workbench-can-t-search-502-bad-gateway.md

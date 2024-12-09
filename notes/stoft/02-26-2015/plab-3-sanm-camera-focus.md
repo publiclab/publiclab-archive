@@ -1,5 +1,5 @@
 ---
-title: PLab 3 Sanm Camera Focus
+title: 'PLab 3 Sanm Camera Focus'
 tagnames: spectrometer, webcam, focus, barnstar:empiricism, spec-3
 author: stoft
 path: /notes/stoft/02-26-2015/plab-3-sanm-camera-focus.md

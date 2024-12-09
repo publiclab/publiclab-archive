@@ -1,5 +1,5 @@
 ---
-title: Spectral libraries
+title: 'Spectral libraries'
 tagnames: 
 author: warren
 path: /wiki/spectral-libraries.md

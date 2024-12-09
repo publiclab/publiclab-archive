@@ -1,5 +1,5 @@
 ---
-title: How can I create and work on my own issue in Github? 
+title: 'How can I create and work on my own issue in Github? '
 tagnames: web-development, github, wwg, question:website
 author: bsugar
 path: /notes/bsugar/05-12-2019/how-can-i-create-and-work-on-my-own-issue-in-github.md

@@ -1,5 +1,5 @@
 ---
-title: Public Lab Australia? 
+title: 'Public Lab Australia? '
 tagnames: australia, first-time-poster, oceania
 author: cobi
 path: /notes/cobi/02-07-2015/public-lab-australia.md

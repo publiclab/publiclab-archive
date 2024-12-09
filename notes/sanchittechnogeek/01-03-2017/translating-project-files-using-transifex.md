@@ -1,5 +1,5 @@
 ---
-title: Translating project files using transifex
+title: 'Translating project files using transifex'
 tagnames: community, website, activity, publiclab, localization, translation, language, gcin, gcin-2016, replication:13651, transifex
 author: sanchittechnogeek
 path: /notes/sanchittechnogeek/01-03-2017/translating-project-files-using-transifex.md

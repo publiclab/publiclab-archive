@@ -1,5 +1,5 @@
 ---
-title: IMTT explosions:  Need for Purple Air in St Rose
+title: 'IMTT explosions:  Need for Purple Air in St Rose'
 tagnames: air-quality, zoom:14, lat:29.94, lon:-90.32
 author: eustatic
 path: /06-16-2022/imtt-explosions-need-for-purple-air-in-st-rose.md

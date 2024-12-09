@@ -1,5 +1,5 @@
 ---
-title: Pole Mapping Kit Instructions
+title: 'Pole Mapping Kit Instructions'
 tagnames: polemapping, pole-aerial-photography, pole-mapping, activities:aerial-photography, method, parent:pole-mapping
 author: tonyc
 path: /wiki/pole-mapping-kit-instructions.md

@@ -1,5 +1,5 @@
 ---
-title: Hand-cut or lasercut a simple DIY microscope stage
+title: 'Hand-cut or lasercut a simple DIY microscope stage'
 tagnames: kits, 3d-printing, pm, prototyping, microscope, laser-cutting, microscopes, sourcing, activity:microscopes, community-kits, activity:basic-microscope, basic-microscope, response:16101, response:15926, response:15904, basic-microscope-kit, acrylic
 author: warren
 path: /notes/warren/04-18-2018/hand-cut-or-lasercut-a-simple-diy-microscope-stage.md

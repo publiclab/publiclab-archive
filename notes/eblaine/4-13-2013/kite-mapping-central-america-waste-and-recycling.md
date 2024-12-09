@@ -1,5 +1,5 @@
 ---
-title: Kite Mapping in Central America - Waste and Recycling
+title: 'Kite Mapping in Central America - Waste and Recycling'
 tagnames: mapping, development, waste-management, central-america, kite-mapping, waste, panama, nicaragua, management, recycling, lat:12.163238, lon:-84.222339, place:el-rama-nicaragua
 author: eblaine
 path: /notes/eblaine/4-13-2013/kite-mapping-central-america-waste-and-recycling.md

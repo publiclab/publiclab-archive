@@ -1,5 +1,5 @@
 ---
-title: Cal Poly EWB PAP (Pole Aerial Photography) mapping for India Project
+title: 'Cal Poly EWB PAP (Pole Aerial Photography) mapping for India Project'
 tagnames: polemapping, california, pole-photography, pole, pap, pole-mapping, ewb, photomapping, india, calpoly
 author: patcoyle
 path: /notes/patcoyle/04-21-2014/cal-poly-ewb-pap-pole-aerial-photography-mapping-for-india-project.md

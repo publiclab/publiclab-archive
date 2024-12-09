@@ -1,5 +1,5 @@
 ---
-title: Introducing Pi Builder
+title: 'Introducing Pi Builder'
 tagnames: raspberry-pi, blog, raspbian, with:warren, pi-camera, raspberry-pi-cameras, activity:raspberry-pi, activity:pi-camera, response:15289, response:9719, response:16180, pi-builder
 author: icarito
 path: /notes/icarito/10-21-2018/introducing-pi-builder.md

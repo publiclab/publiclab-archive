@@ -1,5 +1,5 @@
 ---
-title: Fiji Photo Monitoring Plugin issues
+title: 'Fiji Photo Monitoring Plugin issues'
 tagnames: near-infrared-camera, ndvi, imagej, infragram, infrablue, fiji, photo-monitoring-plugin
 author: RQ-05
 path: /notes/RQ-05/08-01-2015/fiji-photo-monitoring-plugin-issues.md

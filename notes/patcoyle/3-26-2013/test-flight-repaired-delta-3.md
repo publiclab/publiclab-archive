@@ -1,5 +1,5 @@
 ---
-title: Test flight with repaired Delta
+title: 'Test flight with repaired Delta'
 tagnames: 
 author: patcoyle
 path: /notes/patcoyle/3-26-2013/test-flight-repaired-delta-3.md

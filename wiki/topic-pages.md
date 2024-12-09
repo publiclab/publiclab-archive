@@ -1,5 +1,5 @@
 ---
-title: Topic Pages
+title: 'Topic Pages'
 tagnames: parent:website
 author: warren
 path: /wiki/topic-pages.md

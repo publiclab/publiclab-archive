@@ -1,5 +1,5 @@
 ---
-title: DIYBIO Ideas and Applications
+title: 'DIYBIO Ideas and Applications'
 tagnames: spectrometer, diybio, igem
 author: donblair
 path: /wiki/diybio-ideas-and-applications.md

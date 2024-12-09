@@ -1,5 +1,5 @@
 ---
-title: Benchtop Evaporator - Does anyone know someone who has one?
+title: 'Benchtop Evaporator - Does anyone know someone who has one?'
 tagnames: science, water-quality, environmental, lab, carbon, equipment, nanotubes, nccu, cnt, benchtop, evaporator, titanium, hybrid
 author: bddalton
 path: /notes/bddalton/06-07-2017/benchtop-evaporator-does-anyone-know-someone-who-has-one.md

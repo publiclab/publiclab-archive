@@ -1,5 +1,5 @@
 ---
-title: Getting your WheeStat set up.
+title: 'Getting your WheeStat set up.'
 tagnames: hydrogen-sulfide-sensing, water-quality, potentiostat, wheestat
 author: JSummers
 path: /notes/JSummers/07-04-2014/getting-your-wheestat-set-up.md

@@ -1,5 +1,5 @@
 ---
-title: Is anyone doing any work with fungi? or bioremediation?
+title: 'Is anyone doing any work with fungi? or bioremediation?'
 tagnames: remediation, fungus, question:bioremediation, mushroom, soil-remediation, question:soil-remediation
 author: Mushroomman
 path: /notes/Mushroomman/12-05-2016/is-anyone-doing-any-work-with-fungi-or-bioremediation.md

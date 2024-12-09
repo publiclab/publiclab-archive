@@ -1,5 +1,5 @@
 ---
-title: ''Use Your Sensors'' a Public Lab water testing event. 
+title: '''Use Your Sensors'' a Public Lab water testing event. '
 tagnames: lat:1, lon:10, oil-and-gas-water-trio
 author: rollinrenola
 path: /notes/rollinrenola/11-26-2019/use-your-sensors-a-public-lab-water-testing-event.md

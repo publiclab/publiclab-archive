@@ -1,5 +1,5 @@
 ---
-title: Photometer Kit idea 
+title: 'Photometer Kit idea '
 tagnames: arduino, diy, kit, water-quality, turbidity, barnstar:basic, photometer, activity:turbidity, community-kits-prep, activity:prototype, activity:photometer
 author: programmer1200
 path: /notes/programmer1200/02-03-2018/photometer-kit-idea.md

@@ -1,5 +1,5 @@
 ---
-title: SW-V1 down samples the input to 256 samples irrespective of the native  camera pixels available has this been fixed in V2?
+title: 'SW-V1 down samples the input to 256 samples irrespective of the native  camera pixels available has this been fixed in V2?'
 tagnames: spectral-workbench, question:spectral-workbench, general
 author: stef
 path: /notes/stef/10-08-2020/sw-v1-down-samples-the-input-to-256-samples-irrespective-of-the-native-camera-pixels-available-has-this-been-fixed-in-v2.md

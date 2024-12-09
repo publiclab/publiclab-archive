@@ -1,5 +1,5 @@
 ---
-title: GSoC Update- Working of Image Distortion In Mapknitter 
+title: 'GSoC Update- Working of Image Distortion In Mapknitter '
 tagnames: mapknitter, gsoc, developers, gsoc-2014, barnstar:basic
 author: anishshah101
 path: /notes/anishshah101/06-13-2014/gsoc-update-working-of-image-distortion-in-mapknitter.md

@@ -1,5 +1,5 @@
 ---
-title: How to do upgrade Desktop Spectrometer Kit 2.0 to the version 3.0 
+title: 'How to do upgrade Desktop Spectrometer Kit 2.0 to the version 3.0 '
 tagnames: spectrometer, upgrade:spectrometry, seeks:builds, status:in-progress
 author: pablo
 path: /notes/pablo/11-09-2016/how-to-do-upgrade-desktop-spectrometer-kit-2-0-to-the-version-3-0.md

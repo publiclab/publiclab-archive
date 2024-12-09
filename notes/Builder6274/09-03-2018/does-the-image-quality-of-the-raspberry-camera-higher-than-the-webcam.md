@@ -1,5 +1,5 @@
 ---
-title: Does the image quality of the raspberry camera higher than the webcam?
+title: 'Does the image quality of the raspberry camera higher than the webcam?'
 tagnames: question:lego-spectrometer
 author: Builder6274
 path: /notes/Builder6274/09-03-2018/does-the-image-quality-of-the-raspberry-camera-higher-than-the-webcam.md

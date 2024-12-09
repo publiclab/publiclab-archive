@@ -1,5 +1,5 @@
 ---
-title: DataLogger: Part 2, Hardware design
+title: 'DataLogger: Part 2, Hardware design'
 tagnames: datalogger, datalogger-option
 author: JSummers
 path: /notes/JSummers/04-09-2014/datalogger-part-2-hardware-design.md

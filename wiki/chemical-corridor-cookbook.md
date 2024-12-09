@@ -1,5 +1,5 @@
 ---
-title: Chemical Corridor Cookbook
+title: 'Chemical Corridor Cookbook'
 tagnames: 
 author: warren
 path: /wiki/chemical-corridor-cookbook.md

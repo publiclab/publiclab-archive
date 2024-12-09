@@ -1,5 +1,5 @@
 ---
-title: Testing out a note within chinese characters in main image
+title: 'Testing out a note within chinese characters in main image'
 tagnames: 
 author: ananyo2012
 path: /notes/ananyo2012/08-19-2016/testing-out-a-note-within-chinese-characters-in-main-image.md

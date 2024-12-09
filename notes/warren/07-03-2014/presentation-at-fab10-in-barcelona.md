@@ -1,5 +1,5 @@
 ---
-title: Presentation at FAB10 in Barcelona
+title: 'Presentation at FAB10 in Barcelona'
 tagnames: barcelona, spain, presentations, presentation, fab10
 author: warren
 path: /notes/warren/07-03-2014/presentation-at-fab10-in-barcelona.md

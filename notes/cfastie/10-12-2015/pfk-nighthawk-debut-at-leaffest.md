@@ -1,5 +1,5 @@
 ---
-title: PFK Nighthawk debut at LEAFFEST
+title: 'PFK Nighthawk debut at LEAFFEST'
 tagnames: kite-mapping, vermont, kite, leaffest, saturnv, skyshield, leaffest2015, response:12289, pfk, category:field-test
 author: cfastie
 path: /notes/cfastie/10-12-2015/pfk-nighthawk-debut-at-leaffest.md

@@ -1,5 +1,5 @@
 ---
-title: fluorescent light 
+title: 'fluorescent light '
 tagnames: spectroscopy, color, light, hidden:response, replication:15121, response:17384
 author: ecberger
 path: /notes/ecberger/10-25-2018/fluorescent-light.md

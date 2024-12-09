@@ -1,5 +1,5 @@
 ---
-title: CFL detection by contrast, for auto-calibration
+title: 'CFL detection by contrast, for auto-calibration'
 tagnames: spectrometer, calibration, cfl, spectrometer-calibration, spectral-workbench, gsoc, spectral-workbench-api, oil-testing-kit
 author: warren
 path: /notes/warren/10-22-2014/cfl-detection-by-contrast-for-auto-calibration.md

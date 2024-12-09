@@ -1,5 +1,5 @@
 ---
-title: Antipodes: a journal of radical geography
+title: 'Antipodes: a journal of radical geography'
 tagnames: 
 author: warren
 path: /notes/warren/5-1-2011/antipodes-journal-radical-geography.md

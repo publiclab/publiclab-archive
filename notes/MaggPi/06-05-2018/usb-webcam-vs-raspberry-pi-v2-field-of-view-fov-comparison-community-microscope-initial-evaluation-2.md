@@ -1,5 +1,5 @@
 ---
-title: USB Webcam vs Raspberry Pi V2 Field of View (FOV) comparison /  Community microscope initial evaluation #2 
+title: 'USB Webcam vs Raspberry Pi V2 Field of View (FOV) comparison /  Community microscope initial evaluation #2 '
 tagnames: calibration, webcam, gsoc, pi, raspberry, microscope, pi-camera, soc, gsoc-2018, soc-2018, activity:community-microscope, fov, bee, pi-microscope, camera-comparison, series:community-microscope-tests, community-microscope-prototyping
 author: MaggPi
 path: /notes/MaggPi/06-05-2018/usb-webcam-vs-raspberry-pi-v2-field-of-view-fov-comparison-community-microscope-initial-evaluation-2.md

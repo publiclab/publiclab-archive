@@ -1,5 +1,5 @@
 ---
-title: An amazing week of software contributing at Public Lab
+title: 'An amazing week of software contributing at Public Lab'
 tagnames: software, developers, code, first-timers-only, contributors, software-outreach
 author: warren
 path: /notes/warren/01-12-2018/an-amazing-week-of-software-contributing-at-public-lab.md

@@ -1,5 +1,5 @@
 ---
-title: balloon
+title: 'balloon'
 tagnames: redirect:balloon-mapping
 author: warren
 path: /wiki/balloon.md

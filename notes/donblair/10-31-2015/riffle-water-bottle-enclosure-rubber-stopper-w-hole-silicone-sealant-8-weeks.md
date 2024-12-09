@@ -1,5 +1,5 @@
 ---
-title: Riffle Water Bottle Enclosure: rubber stopper w/hole + silicone sealant: > 8 weeks!
+title: 'Riffle Water Bottle Enclosure: rubber stopper w/hole + silicone sealant: > 8 weeks!'
 tagnames: sensors, water-quality, riffle, open-water, barnstar:empiricism, bottle, enclosure, activity:sensor-enclosures, water-sensors
 author: donblair
 path: /notes/donblair/10-31-2015/riffle-water-bottle-enclosure-rubber-stopper-w-hole-silicone-sealant-8-weeks.md

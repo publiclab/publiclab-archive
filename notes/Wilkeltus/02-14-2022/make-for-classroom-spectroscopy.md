@@ -1,5 +1,5 @@
 ---
-title: Make for classroom spectroscopy
+title: 'Make for classroom spectroscopy'
 tagnames: spectrometry, foldable-spec, lat:50, first-time-poster, zoom:8, lon:8, build:28341
 author: Wilkeltus
 path: /notes/Wilkeltus/02-14-2022/make-for-classroom-spectroscopy.md

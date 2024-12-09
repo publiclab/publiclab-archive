@@ -1,5 +1,5 @@
 ---
-title: How do you account for signal drift with sensors in the field?
+title: 'How do you account for signal drift with sensors in the field?'
 tagnames: question:air-quality, question:question, question:water-quality, question:sensors, question:water-sensors
 author: gretchengehrke
 path: /notes/gretchengehrke/08-02-2017/how-do-you-account-for-signal-drift-with-sensors-in-the-field.md

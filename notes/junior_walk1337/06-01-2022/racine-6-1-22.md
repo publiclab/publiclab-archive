@@ -1,5 +1,5 @@
 ---
-title: Racine 6/1/22
+title: 'Racine 6/1/22'
 tagnames: drones, coal-mining, mmmp
 author: junior_walk1337
 path: /notes/junior_walk1337/06-01-2022/racine-6-1-22.md

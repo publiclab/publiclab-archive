@@ -1,5 +1,5 @@
 ---
-title: Image Analysis
+title: 'Image Analysis'
 tagnames: image-compositing, image-processing, infragram, image-interpretation, image-analysis
 author: warren
 path: /wiki/image-analysis.md

@@ -1,5 +1,5 @@
 ---
-title: Can NOIR camera distinguise different types of leaf?
+title: 'Can NOIR camera distinguise different types of leaf?'
 tagnames: ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster
 author: shahdharam7
 path: /notes/shahdharam7/12-17-2021/can-noir-camera-distinguise-different-types-of-leaf.md

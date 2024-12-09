@@ -1,5 +1,5 @@
 ---
-title: Organizing and Advocacy Happenings at Public Lab!
+title: 'Organizing and Advocacy Happenings at Public Lab!'
 tagnames: organizing, advocacy, formosaplastics
 author: julia_e_masters
 path: /notes/julia_e_masters/05-11-2022/organizing-and-advocacy-happenings-at-public-lab.md

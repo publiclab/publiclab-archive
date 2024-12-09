@@ -1,5 +1,5 @@
 ---
-title: Mapknitter 2.0
+title: 'Mapknitter 2.0'
 tagnames: mapknitter, auto-knitting, upload, interface
 author: xvidun
 path: /notes/xvidun/03-12-2014/mapknitter-2-0.md

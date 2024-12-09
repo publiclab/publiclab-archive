@@ -1,5 +1,5 @@
 ---
-title: Is there any correlation between Infragram, IR and Thermographic images ?
+title: 'Is there any correlation between Infragram, IR and Thermographic images ?'
 tagnames: infragram, question:infragram, first-time-poster
 author: dariusjack
 path: /notes/dariusjack/11-09-2020/is-there-any-correlation-between-infragram-ir-and-thermographic-images.md

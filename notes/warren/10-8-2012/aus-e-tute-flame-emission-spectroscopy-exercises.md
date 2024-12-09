@@ -1,5 +1,5 @@
 ---
-title: Aus-e-tute flame emission spectroscopy exercises
+title: 'Aus-e-tute flame emission spectroscopy exercises'
 tagnames: spectrometer
 author: warren
 path: /notes/warren/10-8-2012/aus-e-tute-flame-emission-spectroscopy-exercises.md

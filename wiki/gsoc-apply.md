@@ -1,5 +1,5 @@
 ---
-title: Apply to GSoC with PLOTS
+title: 'Apply to GSoC with PLOTS'
 tagnames: gsoc, parent:gsoc
 author: warren
 path: /wiki/gsoc-apply.md

@@ -1,5 +1,5 @@
 ---
-title: Arduino Uno Thermo Flashlight Casing Specs
+title: 'Arduino Uno Thermo Flashlight Casing Specs'
 tagnames: thermal-photography, arduino, thermal-flashlight, sociology-4107, heat, replication:625, first-time-poster
 author: klrussell
 path: /notes/klrussell/12-14-2014/arduino-uno-thermo-flashlight-casing-specs.md

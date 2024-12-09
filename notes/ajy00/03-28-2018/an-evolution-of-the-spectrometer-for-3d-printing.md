@@ -1,5 +1,5 @@
 ---
-title: An evolution of the Spectrometer for 3D printing
+title: 'An evolution of the Spectrometer for 3D printing'
 tagnames: upgrade:spectrometry, seeks:builds
 author: ajy00
 path: /notes/ajy00/03-28-2018/an-evolution-of-the-spectrometer-for-3d-printing.md

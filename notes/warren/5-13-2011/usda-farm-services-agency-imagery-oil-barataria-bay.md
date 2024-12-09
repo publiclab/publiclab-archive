@@ -1,5 +1,5 @@
 ---
-title: USDA Farm Services Agency imagery of oil in Barataria Bay
+title: 'USDA Farm Services Agency imagery of oil in Barataria Bay'
 tagnames: gulf-coast, barataria-bay, louisiana, usda
 author: warren
 path: /notes/warren/5-13-2011/usda-farm-services-agency-imagery-oil-barataria-bay.md

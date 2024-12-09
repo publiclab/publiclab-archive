@@ -1,5 +1,5 @@
 ---
-title: Webinar on using hyperspectral imaging in the recycling industry 
+title: 'Webinar on using hyperspectral imaging in the recycling industry '
 tagnames: spectrometry, question:spectrometry, general
 author: amirberAgain
 path: /notes/amirberAgain/10-22-2020/webinar-on-using-hyperspectral-imaging-in-the-recycling-industry.md

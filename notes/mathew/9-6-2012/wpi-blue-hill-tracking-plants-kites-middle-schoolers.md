@@ -1,5 +1,5 @@
 ---
-title: WPI & Blue Hill tracking plants with Kites, Middle schoolers
+title: 'WPI & Blue Hill tracking plants with Kites, Middle schoolers'
 tagnames: balloon-mapping, kite-mapping, boston, education, curriculum, massachusetts, classroom, northeast
 author: mathew
 path: /notes/mathew/9-6-2012/wpi-blue-hill-tracking-plants-kites-middle-schoolers.md

@@ -1,5 +1,5 @@
 ---
-title: Thermal Flashlight Using MLX90614 IR Evaluation Board From Sparkfun 
+title: 'Thermal Flashlight Using MLX90614 IR Evaluation Board From Sparkfun '
 tagnames: thermal-photography, thermal-flashlight, thermal-camera, tool, response:9922, activity:thermal-flashlight, upgrade:thermal-flashlight
 author: ajawitz
 path: /notes/code4maine/01-22-2014/thermal-flashlight-using-mlx90614-ir-evaluation-board-from-sparkfun.md

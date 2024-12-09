@@ -1,5 +1,5 @@
 ---
-title: 600 year old cedar tree - Infragram
+title: '600 year old cedar tree - Infragram'
 tagnames: infragram, tree, photos, trees, question:infragram, 600, question:multispectral-imaging, question:general, cedar
 author: Randall
 path: /notes/Randall/03-14-2018/600-year-old-cedar-tree-infragram.md

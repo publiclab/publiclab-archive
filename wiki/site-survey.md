@@ -1,5 +1,5 @@
 ---
-title: Survey your site
+title: 'Survey your site'
 tagnames: research, tool, methods, visual-monitoring, method, site-survey
 author: stevie
 path: /wiki/site-survey.md

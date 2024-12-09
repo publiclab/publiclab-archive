@@ -1,5 +1,5 @@
 ---
-title: Last coal plant in Chicago shut down 
+title: 'Last coal plant in Chicago shut down '
 tagnames: coal, chicago
 author: liz
 path: /notes/liz/05-22-2018/last-coal-plant-in-chicago-shut-down.md

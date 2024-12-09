@@ -1,5 +1,5 @@
 ---
-title: Near Infra Red light in sprectrometer
+title: 'Near Infra Red light in sprectrometer'
 tagnames: 
 author: bhuvanracham
 path: /notes/bhuvanracham/10-12-2016/near-infra-red-light-in-sprectrometer.md

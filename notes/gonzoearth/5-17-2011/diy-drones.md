@@ -1,5 +1,5 @@
 ---
-title: DIY Drones
+title: 'DIY Drones'
 tagnames: 
 author: gonzoearth
 path: /notes/gonzoearth/5-17-2011/diy-drones.md

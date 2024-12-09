@@ -1,5 +1,5 @@
 ---
-title: the light
+title: 'the light'
 tagnames: 
 author: cosniccos
 path: /notes/cosniccos/11-16-2014/the-light.md

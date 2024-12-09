@@ -1,5 +1,5 @@
 ---
-title: Fifty Shades of Graze
+title: 'Fifty Shades of Graze'
 tagnames: ndvi, vermont, infrared, filter, infragram, plant-health, pole-photography, pap, pole-aerial-photography, pole-mapping, kaptery, dualband, midopt, dichroic, interference, juno, response:12592, grazing, charismatic-megafauna, pole-bracket, category:experiment, activity:aerial-photography, activity:multispectral-imaging, activity:pole-mapping
 author: cfastie
 path: /notes/cfastie/04-25-2016/pole-ndvi-of-deer-grazing.md

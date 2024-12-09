@@ -1,5 +1,5 @@
 ---
-title: Continued literature review for the Oil Testing Kit
+title: 'Continued literature review for the Oil Testing Kit'
 tagnames: spectrometer, spectrum-matching, fluorescence, heavy-metals, matching, closest-match, literature, identifying-oil, oil-testing-kit, lifs, lif, humic-acid, humic, humic-fluorescence, plant-matter
 author: warren
 path: /notes/warren/08-14-2014/continued-literature-review-for-the-oil-testing-kit.md

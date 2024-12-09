@@ -1,5 +1,5 @@
 ---
-title: Thermal Fishing Club
+title: 'Thermal Fishing Club'
 tagnames: thermal-fishing, with:warren
 author: liz
 path: /notes/liz/08-12-2014/thermal-fishing-club.md

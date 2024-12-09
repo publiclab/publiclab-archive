@@ -1,5 +1,5 @@
 ---
-title: iFarm tech talks
+title: 'iFarm tech talks'
 tagnames: remote-sensing, boston, new-hampshire, farmhack, uav, agriculture, farm, event, garden, ifarm, crops, northeast, uas, ifarm2014, aerial-imaging, sensor-networks, internet-of-things, response:10481
 author: cfastie
 path: /notes/cfastie/05-20-2014/ifarm-tech-talks.md

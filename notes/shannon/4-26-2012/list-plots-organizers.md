@@ -1,5 +1,5 @@
 ---
-title: A list for “plots-organizers”
+title: 'A list for “plots-organizers”'
 tagnames: community
 author: Shannon
 path: /notes/shannon/4-26-2012/list-plots-organizers.md

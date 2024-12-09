@@ -1,5 +1,5 @@
 ---
-title: Turbidity Sensor Assembly
+title: 'Turbidity Sensor Assembly'
 tagnames: water-quality, turbidity, datalogger, data-logging, mini-pearl
 author: MadTinker
 path: /notes/MadTinker/03-26-2018/turbidity-sensor-assembly.md

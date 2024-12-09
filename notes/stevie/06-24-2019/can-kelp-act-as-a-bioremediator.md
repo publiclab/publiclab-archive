@@ -1,5 +1,5 @@
 ---
-title: Can kelp act as a bioremediator? 
+title: 'Can kelp act as a bioremediator? '
 tagnames: kelp, question:kelp
 author: stevie
 path: /notes/stevie/06-24-2019/can-kelp-act-as-a-bioremediator.md

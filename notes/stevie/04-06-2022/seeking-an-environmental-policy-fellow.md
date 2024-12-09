@@ -1,5 +1,5 @@
 ---
-title: Seeking an Environmental Policy Fellow
+title: 'Seeking an Environmental Policy Fellow'
 tagnames: heavy-metals, pipeline, mining, minnesota, fracking, jobs, midwest, fellows, fellowship, policy, environmental-policy, fellow, mill, fellowship-team, fellowship-teams, lumber, particle-board, with:bee
 author: stevie
 path: /notes/stevie/04-06-2022/seeking-an-environmental-policy-fellow.md

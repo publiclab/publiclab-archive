@@ -1,5 +1,5 @@
 ---
-title: Bee Movie
+title: 'Bee Movie'
 tagnames: near-infrared-camera, nrg, ndvi, vermont, infragram, nbg, infrablue
 author: cfastie
 path: /notes/cfastie/06-01-2013/bee-movie.md

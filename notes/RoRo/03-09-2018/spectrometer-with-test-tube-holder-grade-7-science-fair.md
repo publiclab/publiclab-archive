@@ -1,5 +1,5 @@
 ---
-title: Spectrometer with Test Tube Holder (Grade 7 Science Fair)
+title: 'Spectrometer with Test Tube Holder (Grade 7 Science Fair)'
 tagnames: spectrometer, education, barnstar:basic, test, spectrometer-instructions, activity:education, activity:science-fair, science-fair, tube, holder
 author: RoRo
 path: /notes/RoRo/03-09-2018/spectrometer-with-test-tube-holder-grade-7-science-fair.md

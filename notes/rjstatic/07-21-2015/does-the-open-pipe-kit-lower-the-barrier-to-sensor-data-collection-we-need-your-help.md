@@ -1,5 +1,5 @@
 ---
-title: Does the Open Pipe Kit lower the barrier to sensor data collection? We need your help.
+title: 'Does the Open Pipe Kit lower the barrier to sensor data collection? We need your help.'
 tagnames: kit, blog, monitoring, environmental, open-pipe-kit, opk, open, pipe
 author: rjstatic
 path: /07-21-2015/does-the-open-pipe-kit-lower-the-barrier-to-sensor-data-collection-we-need-your-help.md

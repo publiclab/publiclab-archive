@@ -1,5 +1,5 @@
 ---
-title: Europe
+title: 'Europe'
 tagnames: 
 author: liz
 path: /wiki/eu.md

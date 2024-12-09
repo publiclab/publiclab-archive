@@ -1,5 +1,5 @@
 ---
-title: Multigrain NDVI
+title: 'Multigrain NDVI'
 tagnames: near-infrared-camera, kite-mapping, nrg, ndvi, vermont, new-hampshire, agriculture, infragram, plant-health, ifarm, gigapan, ifarm2013
 author: cfastie
 path: /notes/cfastie/05-23-2013/multigrain-ndvi.md

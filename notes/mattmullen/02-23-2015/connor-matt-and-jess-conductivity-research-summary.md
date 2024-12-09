@@ -1,5 +1,5 @@
 ---
-title: Connor, Matt, and Jess' conductivity research summary
+title: 'Connor, Matt, and Jess' conductivity research summary'
 tagnames: conductivity, salt, coqui, sensor-journalism, first-time-poster
 author: mattmullen
 path: /notes/mattmullen/02-23-2015/connor-matt-and-jess-conductivity-research-summary.md

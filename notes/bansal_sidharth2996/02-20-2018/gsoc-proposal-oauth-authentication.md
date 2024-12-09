@@ -1,5 +1,5 @@
 ---
-title: GSoc Proposal: OAuth & Upgrade to Bootstrap 4
+title: 'GSoc Proposal: OAuth & Upgrade to Bootstrap 4'
 tagnames: gsoc, user, soc, gsoc-2018, soc-2018-proposals, config, gsoc-2018-final
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/02-20-2018/gsoc-proposal-oauth-authentication.md

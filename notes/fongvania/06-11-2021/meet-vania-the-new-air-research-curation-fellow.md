@@ -1,5 +1,5 @@
 ---
-title: Meet Vania, the new Air Research Curation Fellow!
+title: 'Meet Vania, the new Air Research Curation Fellow!'
 tagnames: air-quality, fellows, first-time-poster, research-curation-fellows
 author: fongvania
 path: /notes/fongvania/06-11-2021/meet-vania-the-new-air-research-curation-fellow.md

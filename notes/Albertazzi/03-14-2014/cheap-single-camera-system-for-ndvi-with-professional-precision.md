@@ -1,5 +1,5 @@
 ---
-title: Cheap single-camera system for NDVI with Professional precision
+title: 'Cheap single-camera system for NDVI with Professional precision'
 tagnames: ndvi
 author: Albertazzi
 path: /notes/Albertazzi/03-14-2014/cheap-single-camera-system-for-ndvi-with-professional-precision.md

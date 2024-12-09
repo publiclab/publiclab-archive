@@ -1,5 +1,5 @@
 ---
-title: DIY conductivity Sensors
+title: 'DIY conductivity Sensors'
 tagnames: water-sensing, water-quality, conductivity, riffle, sensor, coqui, answered, question:water-quality, question:data-logging, question:conductivity, location:blurred, lat:40, lon:-80, place:ohio, first-time-poster
 author: roberts_ecofarm
 path: /notes/roberts_ecofarm/10-24-2018/diy-conductivity-sensors.md

@@ -1,5 +1,5 @@
 ---
-title: Calibration
+title: 'Calibration'
 tagnames: 
 author: mediamatic
 path: /notes/mediamatic/8-8-2012/calibration.md

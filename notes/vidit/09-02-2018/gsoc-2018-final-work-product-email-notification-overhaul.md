@@ -1,5 +1,5 @@
 ---
-title: Gsoc 2018: Final Work Product - Email notification overhaul
+title: 'Gsoc 2018: Final Work Product - Email notification overhaul'
 tagnames: software, gsoc, gsoc-2018, soc-2018, gsoc-2018-final, soc-2018-final-report, email-notification-overhaul, customized-digest, emojification
 author: vidit
 path: /notes/vidit/09-02-2018/gsoc-2018-final-work-product-email-notification-overhaul.md

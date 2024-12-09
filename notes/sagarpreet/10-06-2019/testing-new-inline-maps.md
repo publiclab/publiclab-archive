@@ -1,5 +1,5 @@
 ---
-title: [Testing] New inline maps
+title: '[Testing] New inline maps'
 tagnames: testing, prompt:add-photo
 author: sagarpreet
 path: /notes/sagarpreet/10-06-2019/testing-new-inline-maps.md

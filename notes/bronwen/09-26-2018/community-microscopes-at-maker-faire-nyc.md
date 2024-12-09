@@ -1,5 +1,5 @@
 ---
-title: Community Microscopes at Maker Faire NYC
+title: 'Community Microscopes at Maker Faire NYC'
 tagnames: new-york-city, education, events, queens, northeast, with:eymund, with:liz, microscope, community-microscope, make, maker-faire, with:jholmes5, workshop-community-microscope
 author: Bronwen
 path: /notes/bronwen/09-26-2018/community-microscopes-at-maker-faire-nyc.md

@@ -1,5 +1,5 @@
 ---
-title: Having Fun while Exploring a Sinking World
+title: 'Having Fun while Exploring a Sinking World'
 tagnames: new-york-city, gulf-coast, kite-mapping, wetlands, kite, mapping, barnraising, lat:29.382175, lon:-90.62622, place:cocodrie-louisiana
 author: eymund
 path: /notes/eymund/12-14-2014/having-fun-while-exploring-a-sinking-world.md

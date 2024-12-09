@@ -1,5 +1,5 @@
 ---
-title: Lesson 1: Wetlands, Water, & Oil
+title: 'Lesson 1: Wetlands, Water, & Oil'
 tagnames: education, wetlands, curriculum, classroom, lesson_plan, biology, ecology, environmental_engineering, with:amandaf, parent:wetlands-lesson-plans, activity:wetlands
 author: mollydanielsson
 path: /wiki/lesson-1-wetlands-water-oil.md

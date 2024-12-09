@@ -1,5 +1,5 @@
 ---
-title: NDVI Quick Analysis Application
+title: 'NDVI Quick Analysis Application'
 tagnames: near-infrared-camera, ndvi, analysis, software, infragram
 author: daniedb68
 path: /notes/daniedb68/05-28-2014/ndvi-quick-analysis-application.md

@@ -1,5 +1,5 @@
 ---
-title: Brainstorming "coffee analytics" system for coffee shops
+title: 'Brainstorming "coffee analytics" system for coffee shops'
 tagnames: spectrometer, coffee, sampling, eyedropper
 author: warren
 path: /notes/warren/08-06-2013/brainstorming-coffee-analytics-system-for-coffee-shops.md

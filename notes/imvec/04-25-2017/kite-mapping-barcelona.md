@@ -1,5 +1,5 @@
 ---
-title: Kite mapping Barcelona
+title: 'Kite mapping Barcelona'
 tagnames: spain, event, parent:kite-mapping, activity:kite-mapping
 author: imvec
 path: /notes/imvec/04-25-2017/kite-mapping-barcelona.md

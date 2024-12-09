@@ -1,5 +1,5 @@
 ---
-title: LEAFFEST Brainstorm: raspberry pi based dual webcam kit
+title: 'LEAFFEST Brainstorm: raspberry pi based dual webcam kit'
 tagnames: near-infrared-camera, multispectral, infrared, leaffest, leaffest2012, ircam, infragram
 author: warren
 path: /notes/warren/9-23-2012/leaffest-brainstorm-raspberry-pi-based-dual-webcam-kit.md

@@ -1,5 +1,5 @@
 ---
-title: Raspberry Pi as Marine Traffic Radar
+title: 'Raspberry Pi as Marine Traffic Radar'
 tagnames: gulf-coast, software, transportation, open-water, pi, traffic, raspberry, rtl-sdr, ship_tracking, defined, radio, sdr, activity:transportation
 author: ajawitz
 path: /notes/ajawitz/06-11-2015/raspberry-pi-as-marine-traffic-radar.md

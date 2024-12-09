@@ -1,5 +1,5 @@
 ---
-title: Data Validation of previous Eosin Y results for April/21/2016
+title: 'Data Validation of previous Eosin Y results for April/21/2016'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/04-22-2016/data-validation-of-previous-eosin-y-results-for-april-21-2016.md

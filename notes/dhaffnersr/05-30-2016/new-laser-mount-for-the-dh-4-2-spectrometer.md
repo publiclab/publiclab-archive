@@ -1,5 +1,5 @@
 ---
-title: New Laser mount for the DH 4.2 Spectrometer
+title: 'New Laser mount for the DH 4.2 Spectrometer'
 tagnames: 
 author: dhaffnersr
 path: /notes/dhaffnersr/05-30-2016/new-laser-mount-for-the-dh-4-2-spectrometer.md

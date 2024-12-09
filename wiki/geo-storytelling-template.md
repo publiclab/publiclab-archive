@@ -1,5 +1,5 @@
 ---
-title: Geo Storytelling Template
+title: 'Geo Storytelling Template'
 tagnames: 
 author: warren
 path: /wiki/geo-storytelling-template.md

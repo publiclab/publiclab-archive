@@ -1,5 +1,5 @@
 ---
-title: GSOC Report:  full-screen UI and video upload on Infragram.org
+title: 'GSOC Report:  full-screen UI and video upload on Infragram.org'
 tagnames: infragram, gsoc, google, water-quality, multispectral-imaging, infragram.org, lat:1.010689, lon:9.997558, zoom:6, 2022
 author: forcha
 path: /notes/forcha/08-28-2022/gsoc-report-full-screen-ui-and-video-upload-on-infragram-org.md

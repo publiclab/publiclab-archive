@@ -1,5 +1,5 @@
 ---
-title: In Search of Spectrometer Measurement and Calibration
+title: 'In Search of Spectrometer Measurement and Calibration'
 tagnames: spectrometer, desktop-spectrometry-kit, slit, improvements, focus, response:7226
 author: stoft
 path: /notes/stoft/05-14-2013/in-search-of-spectrometer-measurement-and-calibration.md

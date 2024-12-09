@@ -1,5 +1,5 @@
 ---
-title: Suction Cup spectrometer attachement
+title: 'Suction Cup spectrometer attachement'
 tagnames: fold-up-mini-spectrometer, suction-cups
 author: mathew
 path: /notes/mathew/1-31-2013/suction-cup-spectrometer-attachement.md

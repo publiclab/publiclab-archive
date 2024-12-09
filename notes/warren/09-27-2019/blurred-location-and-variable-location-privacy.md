@@ -1,5 +1,5 @@
 ---
-title: Blurred Location and variable location privacy
+title: 'Blurred Location and variable location privacy'
 tagnames: blog, leaflet, code, privacy, location-privacy, leaflet-blurred-location, variable-location-privacy, blurred-location, digital-impacts, with:sagarpreet
 author: warren
 path: /notes/warren/09-27-2019/blurred-location-and-variable-location-privacy.md

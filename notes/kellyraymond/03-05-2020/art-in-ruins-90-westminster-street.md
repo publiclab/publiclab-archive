@@ -1,5 +1,5 @@
 ---
-title: Art in Ruins (90 Westminster Street)
+title: 'Art in Ruins (90 Westminster Street)'
 tagnames: hidden:response, lat:41.824548, zoom:10, lon:-71.50039672851564, lat:41.69911204283274, lon:-71.409759, response:23080
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-90-westminster-street.md

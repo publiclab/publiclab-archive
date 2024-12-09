@@ -1,5 +1,5 @@
 ---
-title: Email notification overhaul
+title: 'Email notification overhaul'
 tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
 author: bash
 path: /notes/bash/04-02-2017/email-notification-overhaul.md

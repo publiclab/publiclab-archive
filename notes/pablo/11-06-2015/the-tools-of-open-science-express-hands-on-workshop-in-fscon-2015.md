@@ -1,5 +1,5 @@
 ---
-title: The Tools of Open Science, express hands-on workshop in FSCONS 2015
+title: 'The Tools of Open Science, express hands-on workshop in FSCONS 2015'
 tagnames: workshop, mapping, balloon, sweden, fscons
 author: pablo
 path: /notes/pablo/11-06-2015/the-tools-of-open-science-express-hands-on-workshop-in-fscon-2015.md

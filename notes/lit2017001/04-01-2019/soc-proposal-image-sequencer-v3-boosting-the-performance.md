@@ -1,5 +1,5 @@
 ---
-title: SoC proposal: Image-Sequencer v3: Boosting the performance and adding demonstration based on colorimetry
+title: 'SoC proposal: Image-Sequencer v3: Boosting the performance and adding demonstration based on colorimetry'
 tagnames: software, gsoc, first-time-poster, gsoc-2019, soc-2019, soc-2019-proposals, lat:25.435801, lon:81.846311, soc-2019-projects
 author: lit2017001
 path: /notes/lit2017001/04-01-2019/soc-proposal-image-sequencer-v3-boosting-the-performance.md

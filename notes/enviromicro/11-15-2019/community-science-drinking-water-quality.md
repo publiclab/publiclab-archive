@@ -1,5 +1,5 @@
 ---
-title: Community Science: Drinking Water Quality
+title: 'Community Science: Drinking Water Quality'
 tagnames: education, water-quality, drinking-water, first-time-poster
 author: enviromicro
 path: /notes/enviromicro/11-15-2019/community-science-drinking-water-quality.md

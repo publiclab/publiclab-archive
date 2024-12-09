@@ -1,5 +1,5 @@
 ---
-title: Environmental triage for the Gulf of Maine
+title: 'Environmental triage for the Gulf of Maine'
 tagnames: 
 author: Aviva Rahmani
 path: /wiki/environmental-triage-gulf-maine.md

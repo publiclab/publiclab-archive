@@ -1,5 +1,5 @@
 ---
-title: Oil residue preparation for spectroscopy
+title: 'Oil residue preparation for spectroscopy'
 tagnames: spectrometer, oil, sample-prep, sampling, jars
 author: warren
 path: /notes/warren/7-26-2012/oil-residue-preparation-spectroscopy.md

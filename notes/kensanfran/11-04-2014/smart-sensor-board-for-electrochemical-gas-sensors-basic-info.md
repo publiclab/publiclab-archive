@@ -1,5 +1,5 @@
 ---
-title: Smart sensor board for electrochemical gas sensors (basic info)
+title: 'Smart sensor board for electrochemical gas sensors (basic info)'
 tagnames: air-quality, barnstar:basic, sensor, nerds-for-nature, gas-sensor, electrochemical-sensor, echem328, data-logging, air-sensors
 author: kensanfran
 path: /notes/kensanfran/11-04-2014/smart-sensor-board-for-electrochemical-gas-sensors-basic-info.md

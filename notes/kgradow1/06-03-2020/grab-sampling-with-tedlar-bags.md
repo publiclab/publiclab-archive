@@ -1,5 +1,5 @@
 ---
-title: Air Sampling with Tedlar Bags
+title: 'Air Sampling with Tedlar Bags'
 tagnames: air-quality, methods, bucket-brigade, lat:41, lon:-71, zoom:6, air-sensor, bucket-monitor
 author: kgradow1
 path: /notes/kgradow1/06-03-2020/grab-sampling-with-tedlar-bags.md

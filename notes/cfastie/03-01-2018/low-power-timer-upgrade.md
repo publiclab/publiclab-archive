@@ -1,5 +1,5 @@
 ---
-title: Low-power timer upgrade
+title: 'Low-power timer upgrade'
 tagnames: arduino, sensors, activity:data-logging, mini-pearl-logger, activity:data-logging-power, tpl5110, low-power-logging, log-a-long-timer, activity:log-a-long-timer
 author: cfastie
 path: /notes/cfastie/03-01-2018/low-power-timer-upgrade.md

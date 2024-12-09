@@ -1,5 +1,5 @@
 ---
-title: Project page template
+title: 'Project page template'
 tagnames: locked, parent:templates
 author: warren
 path: /wiki/project-page-template.md

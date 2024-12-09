@@ -1,5 +1,5 @@
 ---
-title: Infragram Tidepooling
+title: 'Infragram Tidepooling'
 tagnames: near-infrared-camera, infragram, intertidal, coastalmonitoring
 author: wward1400
 path: /notes/wward1400/06-14-2013/infragram-tidepooling.md

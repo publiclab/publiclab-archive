@@ -1,5 +1,5 @@
 ---
-title: Air column analysis
+title: 'Air column analysis'
 tagnames: air-column-monitor, air-column, vibrations, string, windspeed
 author: warren
 path: /wiki/air-column-analysis.md
