@@ -41,6 +41,7 @@ function fetchPath(path, element, wentBack = false) {
 
 function displayText(text, element) {
   text = fixHeadings(text);
+  text = wrapFrontMatter(text);
   output = marked.parse(text);
   output = parseIncludes(output);
   element.innerHTML = output;
@@ -75,6 +76,12 @@ function displayText(text, element) {
   });
 }
 
+// ID and format front matter in format ---\nSTUFF\n---\n at start of document;
+// https://jekyllrb.com/docs/front-matter/
+function wrapFrontMatter(text) {
+  return text.replace(/^\-\-\-\n(.+)\n\-\-\-\n(.+)/s,"<details><summary><i>Metadata</i></summary>\n$1\n</details>\n$2")
+}
+
 // correct old-style headings like ###Heading and ###Heading###
 function fixHeadings(text) {
   // before and after:
@@ -87,6 +94,9 @@ function fixHeadings(text) {
   if (text.match(/\#\#[\w\s]+\#\#/) != null) {
     text = text.replace(/(\#\#)([\w\s]+)\#\#/g,"$1 $2")
   }
+  if (text.match(/\#[\w\s]+\#/) != null) {
+    text = text.replace(/(\#)([\w\s]+)\#/g,"$1 $2")
+  }
   // just before:
   if (text.match(/\#\#\#\w/) != null) {
     text = text.replace(/(\#\#\#)(\w)/g,"$1 $2")
@@ -96,6 +106,9 @@ function fixHeadings(text) {
   }
   if (text.match(/\#\#\w/) != null) {
     text = text.replace(/(\#\#)(\w)/g,"$1 $2")
+  }
+  if (text.match(/\#\w/) != null) {
+    text = text.replace(/(\#)(\w)/g,"$1 $2")
   }
   return text;
 }
@@ -135,8 +148,9 @@ function absolutize_path(path, current_path) {
 window.onhashchange = function() {
   let path = readPath();
   let wentBack = (history.state != null && history.state.inHistory == true);
-console.log('scroll',window.pageYOffset)
-history.state.scroll = window.pageYOffset;
+//console.log('scroll',window.pageYOffset)
+//history.state.scroll = window.pageYOffset;
+// maybe use: https://developer.mozilla.org/en-US/docs/Web/API/History/scrollRestoration
 
 // problem is we need to record state of PREVIOUS page
   history.replaceState({ inHistory: true }, path, "#"+path);
