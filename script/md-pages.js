@@ -67,6 +67,7 @@ function displayText(text, element) {
   });
   let images = Array.from(element.getElementsByTagName('img'));
   images.forEach(function parseUrl(image) {
+    fetchImagePaths(image.attributes['src'].value, image);
     image.attributes['src'].value = adjustPaths(image.attributes['src'].value);
     let src = image.attributes['src'].value;
     if (src.substr(0, 3) === "../") {
@@ -128,6 +129,37 @@ function adjustPaths(path) {
   return path;
 }
 
+function fetchImagePaths(path, image) {
+  if (path.includes('/i/')) {
+    console.log('nice!', path);
+    var pathWithoutParams = path.split('?')[0]; // bc many include ?s=o for size prefs, which we ignore
+    fetch(path + ".md",{
+      cache: 'no-cache',
+      mode: 'cors'
+    })
+      .then((response) => {
+        if (!response.ok) {
+          return "Page not found."
+        }
+        return response.text()
+      })
+      .then((text) => {
+        // text includes front matter like:
+        /*
+        ---
+        id: 30599
+        path: /public/system/images/photos/000/030/599/medium/IMG_20190323_151705_2.jpg
+        created_at: March 23, 2019 19:29
+        ---
+        */
+        // use: "---\npath:/path/to/img.jpg\n---Hello world".match(/path\:(.+)/)[1]
+        var newPath = text.match(/path\:(.+)/)[1];
+        // replace URLs with fetched URL
+        image.src = newPath;
+      });
+
+  }
+}
 
 // convert paths starting with 1 or more  "../" to an absolute path
 function absolutize_path(path, current_path) {
