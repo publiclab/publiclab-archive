@@ -85,30 +85,30 @@ function wrapFrontMatter(text) {
 // correct old-style headings like ###Heading and ###Heading###
 function fixHeadings(text) {
   // before and after:
-  if (text.match(/\#\#\#[\w\s]+\#\#\#\#/) != null) {
-    text = text.replace(/(\#\#\#)(\w)\#\#\#\#/g,"$1 $2")
+  if (text.match(/^\#\#\#[\w\s]+\#\#\#\#/) != null) {
+    text = text.replace(/^(\#\#\#)(\w)\#\#\#\#/g,"$1 $2")
   }
-  if (text.match(/\#\#\#[\w\s]+\#\#\#/) != null) {
-    text = text.replace(/(\#\#\#)([\w\s]+)\#\#\#/g,"$1 $2")
+  if (text.match(/^\#\#\#[\w\s]+\#\#\#/) != null) {
+    text = text.replace(/^(\#\#\#)([\w\s]+)\#\#\#/g,"$1 $2")
   }
-  if (text.match(/\#\#[\w\s]+\#\#/) != null) {
-    text = text.replace(/(\#\#)([\w\s]+)\#\#/g,"$1 $2")
+  if (text.match(/^\#\#[\w\s]+\#\#/) != null) {
+    text = text.replace(/^(\#\#)([\w\s]+)\#\#/g,"$1 $2")
   }
-  if (text.match(/\#[\w\s]+\#/) != null) {
-    text = text.replace(/(\#)([\w\s]+)\#/g,"$1 $2")
+  if (text.match(/^\#[\w\s]+\#/) != null) {
+    text = text.replace(/^(\#)([\w\s]+)\#/g,"$1 $2")
   }
   // just before:
-  if (text.match(/\#\#\#\w/) != null) {
-    text = text.replace(/(\#\#\#)(\w)/g,"$1 $2")
+  if (text.match(/^\#\#\#\w/) != null) {
+    text = text.replace(/^(\#\#\#)(\w)/g,"$1 $2")
   }
-  if (text.match(/\#\#\#\w/) != null) {
-    text = text.replace(/(\#\#\#)(\w)/g,"$1 $2")
+  if (text.match(/^\#\#\#\w/) != null) {
+    text = text.replace(/^(\#\#\#)(\w)/g,"$1 $2")
   }
-  if (text.match(/\#\#\w/) != null) {
-    text = text.replace(/(\#\#)(\w)/g,"$1 $2")
+  if (text.match(/^\#\#\w/) != null) {
+    text = text.replace(/^(\#\#)(\w)/g,"$1 $2")
   }
-  if (text.match(/\#\w/) != null) {
-    text = text.replace(/(\#)(\w)/g,"$1 $2")
+  if (text.match(/^\#\w/) != null) {
+    text = text.replace(/^(\#)(\w)/g,"$1 $2")
   }
   return text;
 }
