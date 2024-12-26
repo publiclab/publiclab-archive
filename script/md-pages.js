@@ -153,7 +153,7 @@ function fetchImagePaths(path, image) {
         ---
         */
         // use: "---\npath:/path/to/img.jpg\n---Hello world".match(/path\:(.+)/)[1]
-        var newPath = text.match(/path\:(.+)/)[1];
+        var newPath = text.match(/path\: (.+)/)[1];
         // replace URLs with fetched URL
         image.src = "https://publiclab.org"+newPath;
       });
