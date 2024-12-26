@@ -1,6 +1,5 @@
 ---
-title: 'Community Science and Monitoring Networks in Central California'
-tagnames: california, interview, reporting, air-quality, blog, global-community-monitor, ccejn, san_joaquin_valley, advocacy, environmental-justice, blog-submission, oil-and-gas, community-organizing, zoom:6, covid-19, bucket-monitor, youth-organizing, lat:35.493727, lon:-118.85968, monitoring-network, community-health
+title: "Community Science and Monitoring Networks in Central California"\ntagnames: 'california, interview, reporting, air-quality, blog, global-community-monitor, ccejn, san_joaquin_valley, advocacy, environmental-justice, blog-submission, oil-and-gas, community-organizing, zoom:6, covid-19, bucket-monitor, youth-organizing, lat:35.493727, lon:-118.85968, monitoring-network, community-health'
 author: amocorro
 path: /notes/amocorro/03-11-2021/community-science-and-monitoring-networks-in-central-california.md
 nid: 25901
@@ -12,7 +11,7 @@ uid: 700923
 
 # Community Science and Monitoring Networks in Central California
 
-by [amocorro](../profile/amocorro) March 11, 2021 22:57
+by [amocorro](../profile/amocorro) | March 11, 2021 22:57
 
 March 11, 2021 22:57 | Tags: [california](../tag/california), [interview](../tag/interview), [reporting](../tag/reporting), [air-quality](../tag/air-quality), [blog](../tag/blog), [global-community-monitor](../tag/global-community-monitor), [ccejn](../tag/ccejn), [san_joaquin_valley](../tag/san_joaquin_valley), [advocacy](../tag/advocacy), [environmental-justice](../tag/environmental-justice), [blog-submission](../tag/blog-submission), [oil-and-gas](../tag/oil-and-gas), [community-organizing](../tag/community-organizing), [zoom:6](../tag/zoom:6), [covid-19](../tag/covid-19), [bucket-monitor](../tag/bucket-monitor), [youth-organizing](../tag/youth-organizing), [lat:35.493727](../tag/lat:35.493727), [lon:-118.85968](../tag/lon:-118.85968), [monitoring-network](../tag/monitoring-network), [community-health](../tag/community-health)
 

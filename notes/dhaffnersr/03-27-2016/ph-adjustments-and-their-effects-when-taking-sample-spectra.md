@@ -1,6 +1,5 @@
 ---
-title: 'Ph adjustments and their effects when taking sample spectra'
-tagnames: 
+title: "Ph adjustments and their effects when taking sample spectra"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/03-27-2016/ph-adjustments-and-their-effects-when-taking-sample-spectra.md
 nid: 12895
@@ -12,7 +11,7 @@ uid: 461120
 
 # Ph adjustments and their effects when taking sample spectra
 
-by [dhaffnersr](../profile/dhaffnersr) March 27, 2016 15:39
+by [dhaffnersr](../profile/dhaffnersr) | March 27, 2016 15:39
 
 March 27, 2016 15:39 | Tags: 
 

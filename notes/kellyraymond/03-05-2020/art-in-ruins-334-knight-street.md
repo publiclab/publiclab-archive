@@ -1,6 +1,5 @@
 ---
-title: 'Art in Ruins (334 Knight Street)'
-tagnames: hidden:response, zoom:8, lat:41.62458571111327, lon:-70.79040527343751, lat:41.72623, lon:-71.471557, response:23080
+title: "Art in Ruins (334 Knight Street)"\ntagnames: 'hidden:response, zoom:8, lat:41.62458571111327, lon:-70.79040527343751, lat:41.72623, lon:-71.471557, response:23080'
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-334-knight-street.md
 nid: 23042
@@ -10,7 +9,7 @@ uid: 664202
 
 # Art in Ruins (334 Knight Street)
 
-by [kellyraymond](../profile/kellyraymond) March 05, 2020 01:49
+by [kellyraymond](../profile/kellyraymond) | March 05, 2020 01:49
 
 March 05, 2020 01:49 | Tags: [hidden:response](../tag/hidden:response), [zoom:8](../tag/zoom:8), [lat:41.62458571111327](../tag/lat:41.62458571111327), [lon:-70.79040527343751](../tag/lon:-70.79040527343751), [lat:41.72623](../tag/lat:41.72623), [lon:-71.471557](../tag/lon:-71.471557), [response:23080](../tag/response:23080)
 

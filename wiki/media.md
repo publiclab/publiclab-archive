@@ -1,6 +1,5 @@
 ---
-title: 'Media'
-tagnames: media, publiclab, sxswi
+title: "Media"\ntagnames: 'media, publiclab, sxswi'
 author: warren
 path: /wiki/media.md
 nid: 84

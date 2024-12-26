@@ -1,6 +1,5 @@
 ---
-title: 'A Short List of Community Air Guides'
-tagnames: research, air-quality, bucket-brigade, community-science, air-sampling, lon:-71, lat:42, zoom:6, bucket-monitor
+title: "A Short List of Community Air Guides"\ntagnames: 'research, air-quality, bucket-brigade, community-science, air-sampling, lon:-71, lat:42, zoom:6, bucket-monitor'
 author: kgradow1
 path: /notes/kgradow1/09-09-2020/a-short-list-of-community-air-guides.md
 nid: 24547
@@ -12,7 +11,7 @@ uid: 297929
 
 # A Short List of Community Air Guides
 
-by [kgradow1](../profile/kgradow1) September 09, 2020 02:49
+by [kgradow1](../profile/kgradow1) | September 09, 2020 02:49
 
 September 09, 2020 02:49 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [community-science](../tag/community-science), [air-sampling](../tag/air-sampling), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor)
 

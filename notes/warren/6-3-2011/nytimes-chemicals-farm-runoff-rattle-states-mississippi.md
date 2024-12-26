@@ -1,6 +1,5 @@
 ---
-title: 'NYTimes: Chemicals in Farm Runoff Rattle States on the Mississippi'
-tagnames: gulf-coast, mississippi
+title: "NYTimes: Chemicals in Farm Runoff Rattle States on the Mississippi"\ntagnames: 'gulf-coast, mississippi'
 author: warren
 path: /notes/warren/6-3-2011/nytimes-chemicals-farm-runoff-rattle-states-mississippi.md
 nid: 321
@@ -10,7 +9,7 @@ uid: 1
 
 # NYTimes: Chemicals in Farm Runoff Rattle States on the Mississippi
 
-by [warren](../profile/warren) June 03, 2011 16:50
+by [warren](../profile/warren) | June 03, 2011 16:50
 
 June 03, 2011 16:50 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi)
 

@@ -1,6 +1,5 @@
 ---
-title: '3d-mapping'
-tagnames: balloon-mapping, kite-mapping, 3d
+title: "3d-mapping"\ntagnames: 'balloon-mapping, kite-mapping, 3d'
 author: warren
 path: /wiki/3d-mapping.md
 nid: 7118

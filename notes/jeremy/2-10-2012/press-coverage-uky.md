@@ -1,6 +1,5 @@
 ---
-title: 'Press coverage at UKY'
-tagnames: 
+title: "Press coverage at UKY"\ntagnames: ''
 author: jeremy
 path: /notes/jeremy/2-10-2012/press-coverage-uky.md
 nid: 775
@@ -12,7 +11,7 @@ uid: 323
 
 # Press coverage at UKY
 
-by [jeremy](../profile/jeremy) February 10, 2012 18:32
+by [jeremy](../profile/jeremy) | February 10, 2012 18:32
 
 February 10, 2012 18:32 | Tags: 
 

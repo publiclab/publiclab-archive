@@ -1,6 +1,5 @@
 ---
-title: 'ircam raspberry pi shield -- first steps'
-tagnames: balloon-mapping, raspberry-pi, infrared-camera
+title: "ircam raspberry pi shield -- first steps"\ntagnames: 'balloon-mapping, raspberry-pi, infrared-camera'
 author: donblair
 path: /notes/donblair/04-29-2013/ircam-raspberry-pi-shield-first-steps.md
 nid: 7121
@@ -12,7 +11,7 @@ uid: 43651
 
 # ircam raspberry pi shield -- first steps
 
-by [donblair](../profile/donblair) April 29, 2013 18:41
+by [donblair](../profile/donblair) | April 29, 2013 18:41
 
 April 29, 2013 18:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [raspberry-pi](../tag/raspberry-pi), [infrared-camera](../tag/infrared-camera)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Kit Packaging'
-tagnames: kits, parent:kits
+title: "Kit Packaging"\ntagnames: 'kits, parent:kits'
 author: warren
 path: /wiki/kit-packaging.md
 nid: 10687

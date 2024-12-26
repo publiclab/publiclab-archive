@@ -1,6 +1,5 @@
 ---
-title: 'Dynamic Reference Spectrometer'
-tagnames: spectrometer
+title: "Dynamic Reference Spectrometer"\ntagnames: 'spectrometer'
 author: jasonbarresi
 path: /wiki/dynamic-reference-spectrometer.md
 nid: 3825

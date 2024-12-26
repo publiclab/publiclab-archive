@@ -1,6 +1,5 @@
 ---
-title: 'oil-testing-workshop-design-an-experiment'
-tagnames: spectrometer, workshop, oil-testing-kit, parent:oil-testing-workshops, experimental-design
+title: "oil-testing-workshop-design-an-experiment"\ntagnames: 'spectrometer, workshop, oil-testing-kit, parent:oil-testing-workshops, experimental-design'
 author: liz
 path: /wiki/oil-testing-workshop-design-an-experiment.md
 nid: 12661

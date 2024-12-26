@@ -1,6 +1,5 @@
 ---
-title: 'Testing if light leaks through the walls of the PL Spectrometer v3'
-tagnames: spectrometer, dsk3, leak, baseline, response:12047
+title: "Testing if light leaks through the walls of the PL Spectrometer v3"\ntagnames: 'spectrometer, dsk3, leak, baseline, response:12047'
 author: warren
 path: /notes/warren/07-13-2015/testing-if-light-leaks-through-the-walls-of-the-pl-spectrometer-v3.md
 nid: 12056
@@ -12,7 +11,7 @@ uid: 1
 
 # Testing if light leaks through the walls of the PL Spectrometer v3
 
-by [warren](../profile/warren) July 13, 2015 20:55
+by [warren](../profile/warren) | July 13, 2015 20:55
 
 July 13, 2015 20:55 | Tags: [spectrometer](../tag/spectrometer), [dsk3](../tag/dsk3), [leak](../tag/leak), [baseline](../tag/baseline), [response:12047](../tag/response:12047)
 

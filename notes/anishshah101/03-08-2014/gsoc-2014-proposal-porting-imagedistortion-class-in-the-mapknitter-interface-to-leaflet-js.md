@@ -1,6 +1,5 @@
 ---
-title: '(GSOC 2014 Proposal) Porting ImageDistortion class in the Mapknitter interface to Leaflet.js'
-tagnames: mapknitter, gsoc, gsoc-2014, first-time-poster
+title: "(GSOC 2014 Proposal) Porting ImageDistortion class in the Mapknitter interface to Leaflet.js"\ntagnames: 'mapknitter, gsoc, gsoc-2014, first-time-poster'
 author: anishshah101
 path: /notes/anishshah101/03-08-2014/gsoc-2014-proposal-porting-imagedistortion-class-in-the-mapknitter-interface-to-leaflet-js.md
 nid: 10141
@@ -12,7 +11,7 @@ uid: 421046
 
 # (GSOC 2014 Proposal) Porting ImageDistortion class in the Mapknitter interface to Leaflet.js
 
-by [anishshah101](../profile/anishshah101) March 08, 2014 09:31
+by [anishshah101](../profile/anishshah101) | March 08, 2014 09:31
 
 March 08, 2014 09:31 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [first-time-poster](../tag/first-time-poster)
 

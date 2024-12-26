@@ -1,6 +1,5 @@
 ---
-title: 'Early (2014) plant filter prototype'
-tagnames: remediation, open-air, with:nshapiro, parent:diy-indoor-air-quality-remediation-kit
+title: "Early (2014) plant filter prototype"\ntagnames: 'remediation, open-air, with:nshapiro, parent:diy-indoor-air-quality-remediation-kit'
 author: liz
 path: /notes/liz/05-16-2017/early-2014-plant-filter-prototype.md
 nid: 14201
@@ -12,7 +11,7 @@ uid: 7
 
 # Early (2014) plant filter prototype
 
-by [liz](../profile/liz) May 16, 2017 17:30
+by [liz](../profile/liz) | May 16, 2017 17:30
 
 May 16, 2017 17:30 | Tags: [remediation](../tag/remediation), [open-air](../tag/open-air), [with:nshapiro](../tag/with:nshapiro), [parent:diy-indoor-air-quality-remediation-kit](../tag/parent:diy-indoor-air-quality-remediation-kit)
 

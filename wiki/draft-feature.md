@@ -1,6 +1,5 @@
 ---
-title: 'Draft Feature'
-tagnames: draft, feature, status:draft, soc, gsoc-2018, parent:website-basics
+title: "Draft Feature"\ntagnames: 'draft, feature, status:draft, soc, gsoc-2018, parent:website-basics'
 author: gauravano
 path: /wiki/draft-feature.md
 nid: 16496

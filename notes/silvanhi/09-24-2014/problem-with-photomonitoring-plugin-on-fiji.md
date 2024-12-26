@@ -1,6 +1,5 @@
 ---
-title: 'Problem with Photomonitoring Plugin on Fiji'
-tagnames: ndvi, fiji, lut, photomonitoring
+title: "Problem with Photomonitoring Plugin on Fiji"\ntagnames: 'ndvi, fiji, lut, photomonitoring'
 author: silvanhi
 path: /notes/silvanhi/09-24-2014/problem-with-photomonitoring-plugin-on-fiji.md
 nid: 11182
@@ -12,7 +11,7 @@ uid: 427351
 
 # Problem with Photomonitoring Plugin on Fiji
 
-by [silvanhi](../profile/silvanhi) September 24, 2014 18:51
+by [silvanhi](../profile/silvanhi) | September 24, 2014 18:51
 
 September 24, 2014 18:51 | Tags: [ndvi](../tag/ndvi), [fiji](../tag/fiji), [lut](../tag/lut), [photomonitoring](../tag/photomonitoring)
 

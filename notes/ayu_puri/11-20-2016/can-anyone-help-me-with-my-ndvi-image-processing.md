@@ -1,6 +1,5 @@
 ---
-title: 'can anyone help me with my ndvi ( image processing ) ?'
-tagnames: question:generalndvi
+title: "can anyone help me with my ndvi ( image processing ) ?"\ntagnames: 'question:generalndvi'
 author: ayu_puri
 path: /notes/ayu_puri/11-20-2016/can-anyone-help-me-with-my-ndvi-image-processing.md
 nid: 13714
@@ -10,7 +9,7 @@ uid: 497558
 
 # can anyone help me with my ndvi ( image processing ) ?
 
-by [ayu_puri](../profile/ayu_puri) November 20, 2016 06:25
+by [ayu_puri](../profile/ayu_puri) | November 20, 2016 06:25
 
 November 20, 2016 06:25 | Tags: [question:generalndvi](../tag/question:generalndvi)
 

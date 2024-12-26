@@ -1,6 +1,5 @@
 ---
-title: 'Northwest'
-tagnames: edmonton, canada, alberta, northwest, vancouver, list:northwest, parent:region, lat:49.2500, lon:123.1000, events:northwest
+title: "Northwest"\ntagnames: 'edmonton, canada, alberta, northwest, vancouver, list:northwest, parent:region, lat:49.2500, lon:123.1000, events:northwest'
 author: ann
 path: /wiki/northwest.md
 nid: 11447

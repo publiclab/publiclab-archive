@@ -1,6 +1,5 @@
 ---
-title: 'DIY Near-Infrared Imaging'
-tagnames: grassrootsmappingforum, infragram-conversion, with:warren, style:fancy, gmf-2, with:cfastie
+title: "DIY Near-Infrared Imaging"\ntagnames: 'grassrootsmappingforum, infragram-conversion, with:warren, style:fancy, gmf-2, with:cfastie'
 author: mollydanielsson
 path: /wiki/diy-near-infrared-imaging.md
 nid: 11688

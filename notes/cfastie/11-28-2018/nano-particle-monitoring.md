@@ -1,6 +1,5 @@
 ---
-title: 'Nano particle monitoring'
-tagnames: arduino, air-quality, sensors, dust, barnstar:basic, indoor-air-quality-monitoring, data-logging, activity:particulate-monitoring, activity:arduino, nano-data-logger, activity:nano-data-logger, activity:data-logging, air-sensors, purpleair, plantower, pms7003, ccs811-gas-sensor
+title: "Nano particle monitoring"\ntagnames: 'arduino, air-quality, sensors, dust, barnstar:basic, indoor-air-quality-monitoring, data-logging, activity:particulate-monitoring, activity:arduino, nano-data-logger, activity:nano-data-logger, activity:data-logging, air-sensors, purpleair, plantower, pms7003, ccs811-gas-sensor'
 author: cfastie
 path: /notes/cfastie/11-28-2018/nano-particle-monitoring.md
 nid: 17768
@@ -12,7 +11,7 @@ uid: 554
 
 # Nano particle monitoring
 
-by [cfastie](../profile/cfastie) November 28, 2018 04:44
+by [cfastie](../profile/cfastie) | November 28, 2018 04:44
 
 November 28, 2018 04:44 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dust](../tag/dust), [barnstar:basic](../tag/barnstar:basic), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [data-logging](../tag/data-logging), [activity:particulate-monitoring](../tag/activity:particulate-monitoring), [activity:arduino](../tag/activity:arduino), [nano-data-logger](../tag/nano-data-logger), [activity:nano-data-logger](../tag/activity:nano-data-logger), [activity:data-logging](../tag/activity:data-logging), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [pms7003](../tag/pms7003), [ccs811-gas-sensor](../tag/ccs811-gas-sensor)
 

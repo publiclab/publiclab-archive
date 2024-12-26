@@ -1,6 +1,5 @@
 ---
-title: 'Square Plastic Rod KAP Rig'
-tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, self-made-kite-mapping, camera-rig-tests, kap, photo-rig, bottle-rig, kap-rigs, activity:photo-rig
+title: "Square Plastic Rod KAP Rig"\ntagnames: 'balloon-mapping, kite-mapping, kite-aerial-photography, self-made-kite-mapping, camera-rig-tests, kap, photo-rig, bottle-rig, kap-rigs, activity:photo-rig'
 author: ranon
 path: /notes/ranon/06-24-2016/square-plastic-rod-kap-rig.md
 nid: 13242
@@ -12,7 +11,7 @@ uid: 477060
 
 # Square Plastic Rod KAP Rig
 
-by [ranon](../profile/ranon) June 24, 2016 22:57
+by [ranon](../profile/ranon) | June 24, 2016 22:57
 
 June 24, 2016 22:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [self-made-kite-mapping](../tag/self-made-kite-mapping), [camera-rig-tests](../tag/camera-rig-tests), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [bottle-rig](../tag/bottle-rig), [kap-rigs](../tag/kap-rigs), [activity:photo-rig](../tag/activity:photo-rig)
 

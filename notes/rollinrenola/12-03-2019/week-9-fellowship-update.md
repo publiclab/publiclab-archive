@@ -1,6 +1,5 @@
 ---
-title: 'Week 9 Fellowship Update'
-tagnames: oil-and-gas-water-trio
+title: "Week 9 Fellowship Update"\ntagnames: 'oil-and-gas-water-trio'
 author: rollinrenola
 path: /notes/rollinrenola/12-03-2019/week-9-fellowship-update.md
 nid: 21648
@@ -10,7 +9,7 @@ uid: 618903
 
 # Week 9 Fellowship Update
 
-by [rollinrenola](../profile/rollinrenola) December 03, 2019 15:35
+by [rollinrenola](../profile/rollinrenola) | December 03, 2019 15:35
 
 December 03, 2019 15:35 | Tags: [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 

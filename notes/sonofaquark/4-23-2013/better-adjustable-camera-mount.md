@@ -1,6 +1,5 @@
 ---
-title: 'better adjustable camera mount?'
-tagnames: 
+title: "better adjustable camera mount?"\ntagnames: ''
 author: sonofaquark
 path: /notes/sonofaquark/4-23-2013/better-adjustable-camera-mount.md
 nid: 7008
@@ -10,7 +9,7 @@ uid: 54330
 
 # better adjustable camera mount?
 
-by [sonofaquark](../profile/sonofaquark) April 23, 2013 18:53
+by [sonofaquark](../profile/sonofaquark) | April 23, 2013 18:53
 
 April 23, 2013 18:53 | Tags: 
 

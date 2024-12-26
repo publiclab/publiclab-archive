@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometry 1st week plan '
-tagnames: spectrometer, pah, first-time-poster
+title: "Spectrometry 1st week plan "\ntagnames: 'spectrometer, pah, first-time-poster'
 author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-5-2011/spectrometry-1st-week-plan.md
 nid: 156
@@ -10,7 +9,7 @@ uid: 125
 
 # Spectrometry 1st week plan 
 
-by [Alex-McCarthy](../profile/Alex-McCarthy) April 05, 2011 22:24
+by [Alex-McCarthy](../profile/Alex-McCarthy) | April 05, 2011 22:24
 
 April 05, 2011 22:24 | Tags: [spectrometer](../tag/spectrometer), [pah](../tag/pah), [first-time-poster](../tag/first-time-poster)
 

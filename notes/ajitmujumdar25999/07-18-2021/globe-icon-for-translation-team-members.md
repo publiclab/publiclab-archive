@@ -1,6 +1,5 @@
 ---
-title: 'Globe Icon for Translation Team Members'
-tagnames: translation
+title: "Globe Icon for Translation Team Members"\ntagnames: 'translation'
 author: ajitmujumdar25999
 path: /notes/ajitmujumdar25999/07-18-2021/globe-icon-for-translation-team-members.md
 nid: 27101
@@ -10,7 +9,7 @@ uid: 654056
 
 # Globe Icon for Translation Team Members
 
-by [ajitmujumdar25999](../profile/ajitmujumdar25999) July 18, 2021 09:34
+by [ajitmujumdar25999](../profile/ajitmujumdar25999) | July 18, 2021 09:34
 
 July 18, 2021 09:34 | Tags: [translation](../tag/translation)
 

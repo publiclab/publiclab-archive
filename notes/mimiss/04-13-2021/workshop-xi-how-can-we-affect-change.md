@@ -1,6 +1,5 @@
 ---
-title: 'Workshop XI: How can we affect change?'
-tagnames: education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, lat:29.954934, lon:-90.076904, zoom:16, pin:study-design
+title: "Workshop XI: How can we affect change?"\ntagnames: 'education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, lat:29.954934, lon:-90.076904, zoom:16, pin:study-design'
 author: mimiss
 path: /notes/mimiss/04-13-2021/workshop-xi-how-can-we-affect-change.md
 nid: 26168
@@ -10,7 +9,7 @@ uid: 579821
 
 # Workshop XI: How can we affect change?
 
-by [mimiss](../profile/mimiss) April 13, 2021 15:41
+by [mimiss](../profile/mimiss) | April 13, 2021 15:41
 
 April 13, 2021 15:41 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [study-design](../tag/study-design), [lesson](../tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [lat:29.954934](../tag/lat:29.954934), [lon:-90.076904](../tag/lon:-90.076904), [zoom:16](../tag/zoom:16), [pin:study-design](../tag/pin:study-design)
 

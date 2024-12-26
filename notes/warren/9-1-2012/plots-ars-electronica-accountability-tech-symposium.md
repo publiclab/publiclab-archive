@@ -1,6 +1,5 @@
 ---
-title: 'PLOTS at Ars Electronica "Accountability Tech" symposium'
-tagnames: presentations, presentation
+title: "PLOTS at Ars Electronica "Accountability Tech" symposium"\ntagnames: 'presentations, presentation'
 author: warren
 path: /notes/warren/9-1-2012/plots-ars-electronica-accountability-tech-symposium.md
 nid: 3602
@@ -12,7 +11,7 @@ uid: 1
 
 # PLOTS at Ars Electronica "Accountability Tech" symposium
 
-by [warren](../profile/warren) September 01, 2012 07:34
+by [warren](../profile/warren) | September 01, 2012 07:34
 
 September 01, 2012 07:34 | Tags: [presentations](../tag/presentations), [presentation](../tag/presentation)
 

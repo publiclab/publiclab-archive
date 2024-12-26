@@ -1,6 +1,5 @@
 ---
-title: 'Limited "Steampunk edition" spectrometer - photos'
-tagnames: spectrometer
+title: "Limited "Steampunk edition" spectrometer - photos"\ntagnames: 'spectrometer'
 author: warren
 path: /notes/warren/9-18-2012/limited-steampunk-edition-spectrometer-photos.md
 nid: 3865
@@ -12,7 +11,7 @@ uid: 1
 
 # Limited "Steampunk edition" spectrometer - photos
 
-by [warren](../profile/warren) September 18, 2012 13:17
+by [warren](../profile/warren) | September 18, 2012 13:17
 
 September 18, 2012 13:17 | Tags: [spectrometer](../tag/spectrometer)
 

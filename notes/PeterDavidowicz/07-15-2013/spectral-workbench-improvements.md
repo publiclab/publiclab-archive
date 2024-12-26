@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Workbench Improvements'
-tagnames: spectrometer, spectral-workbench
+title: "Spectral Workbench Improvements"\ntagnames: 'spectrometer, spectral-workbench'
 author: PeterDavidowicz
 path: /notes/PeterDavidowicz/07-15-2013/spectral-workbench-improvements.md
 nid: 8886
@@ -12,7 +11,7 @@ uid: 169614
 
 # Spectral Workbench Improvements
 
-by [PeterDavidowicz](../profile/PeterDavidowicz) July 15, 2013 06:01
+by [PeterDavidowicz](../profile/PeterDavidowicz) | July 15, 2013 06:01
 
 July 15, 2013 06:01 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench)
 

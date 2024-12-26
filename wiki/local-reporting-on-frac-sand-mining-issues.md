@@ -1,6 +1,5 @@
 ---
-title: 'Local reporting on frac sand mining issues'
-tagnames: reporting, frac-sand, pm, mid-west, parent:frac-sand, frac-sand-reporting, sentinel, local-reporting, parent:the-sand-sentinel-program
+title: "Local reporting on frac sand mining issues"\ntagnames: 'reporting, frac-sand, pm, mid-west, parent:frac-sand, frac-sand-reporting, sentinel, local-reporting, parent:the-sand-sentinel-program'
 author: stevie
 path: /wiki/local-reporting-on-frac-sand-mining-issues.md
 nid: 19662

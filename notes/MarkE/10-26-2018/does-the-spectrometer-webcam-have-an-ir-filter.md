@@ -1,6 +1,5 @@
 ---
-title: 'Does the spectrometer webcam have an IR filter?'
-tagnames: question:general, first-time-poster, question:cannabis
+title: "Does the spectrometer webcam have an IR filter?"\ntagnames: 'question:general, first-time-poster, question:cannabis'
 author: MarkE
 path: /notes/MarkE/10-26-2018/does-the-spectrometer-webcam-have-an-ir-filter.md
 nid: 17407
@@ -10,7 +9,7 @@ uid: 556614
 
 # Does the spectrometer webcam have an IR filter?
 
-by [MarkE](../profile/MarkE) October 26, 2018 19:37
+by [MarkE](../profile/MarkE) | October 26, 2018 19:37
 
 October 26, 2018 19:37 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster), [question:cannabis](../tag/question:cannabis)
 

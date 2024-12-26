@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of Penn Dixie Fossil Park'
-tagnames: mapknitter, photogrammetry, archaeology, drone, lat:42.7773322466, lon:-78.832488656, penn, dixie, fossil, paleontology
+title: "MapKnitter map of Penn Dixie Fossil Park"\ntagnames: 'mapknitter, photogrammetry, archaeology, drone, lat:42.7773322466, lon:-78.832488656, penn, dixie, fossil, paleontology'
 author: gburkett05
 path: /notes/gburkett05/03-19-2017/mapknitter-map-of-penn-dixie-fossil-park.md
 nid: 14037
@@ -12,7 +11,7 @@ uid: 504200
 
 # MapKnitter map of Penn Dixie Fossil Park
 
-by [gburkett05](../profile/gburkett05) March 19, 2017 03:35
+by [gburkett05](../profile/gburkett05) | March 19, 2017 03:35
 
 March 19, 2017 03:35 | Tags: [mapknitter](../tag/mapknitter), [photogrammetry](../tag/photogrammetry), [archaeology](../tag/archaeology), [drone](../tag/drone), [lat:42.7773322466](../tag/lat:42.7773322466), [lon:-78.832488656](../tag/lon:-78.832488656), [penn](../tag/penn), [dixie](../tag/dixie), [fossil](../tag/fossil), [paleontology](../tag/paleontology)
 

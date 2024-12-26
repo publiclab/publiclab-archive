@@ -1,6 +1,5 @@
 ---
-title: 'Question: RE: Desktop Spectrometry Kit'
-tagnames: question:spectrometry
+title: "Question: RE: Desktop Spectrometry Kit"\ntagnames: 'question:spectrometry'
 author: Airship7
 path: /notes/Airship7/03-02-2016/question-re-desktop-spectrometry-kit.md
 nid: 12767
@@ -10,7 +9,7 @@ uid: 468156
 
 # Question: RE: Desktop Spectrometry Kit
 
-by [Airship7](../profile/Airship7) March 02, 2016 20:27
+by [Airship7](../profile/Airship7) | March 02, 2016 20:27
 
 March 02, 2016 20:27 | Tags: [question:spectrometry](../tag/question:spectrometry)
 

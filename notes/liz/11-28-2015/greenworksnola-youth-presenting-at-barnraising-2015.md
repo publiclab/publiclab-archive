@@ -1,6 +1,5 @@
 ---
-title: 'GroundWorksNOLA youth presenting at Barnraising 2015'
-tagnames: barnraising-2015
+title: "GroundWorksNOLA youth presenting at Barnraising 2015"\ntagnames: 'barnraising-2015'
 author: liz
 path: /notes/liz/11-28-2015/greenworksnola-youth-presenting-at-barnraising-2015.md
 nid: 12460
@@ -12,7 +11,7 @@ uid: 7
 
 # GroundWorksNOLA youth presenting at Barnraising 2015
 
-by [liz](../profile/liz) November 28, 2015 19:37
+by [liz](../profile/liz) | November 28, 2015 19:37
 
 November 28, 2015 19:37 | Tags: [barnraising-2015](../tag/barnraising-2015)
 

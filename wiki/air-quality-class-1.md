@@ -1,6 +1,5 @@
 ---
-title: 'Air Quality Class 1'
-tagnames: new-york-city, epa, cypress-hills, chaq, air-quality-egg
+title: "Air Quality Class 1"\ntagnames: 'new-york-city, epa, cypress-hills, chaq, air-quality-egg'
 author: liz
 path: /wiki/air-quality-class-1.md
 nid: 5914

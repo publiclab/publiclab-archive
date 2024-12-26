@@ -1,6 +1,5 @@
 ---
-title: 'Microplastics' Intrusion To The Human Body '
-tagnames: microplastics, first-time-poster, zoom:6, lat:22.004174, lon:76.003417
+title: "Microplastics' Intrusion To The Human Body "\ntagnames: 'microplastics, first-time-poster, zoom:6, lat:22.004174, lon:76.003417'
 author: TheChessGym
 path: /notes/TheChessGym/02-22-2022/microplastics-intrusion-to-the-human-body.md
 nid: 30072
@@ -12,7 +11,7 @@ uid: 788868
 
 # Microplastics' Intrusion To The Human Body 
 
-by [TheChessGym](../profile/TheChessGym) February 22, 2022 16:02
+by [TheChessGym](../profile/TheChessGym) | February 22, 2022 16:02
 
 February 22, 2022 16:02 | Tags: [microplastics](../tag/microplastics), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
 

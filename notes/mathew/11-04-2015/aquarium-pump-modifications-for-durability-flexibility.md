@@ -1,6 +1,5 @@
 ---
-title: 'Aquarium Pump modifications for Durability & Flexibility'
-tagnames: air-quality, air, pm, formaldehyde, open-air, particle-monitoring, indoor-air-quality, replication:11317
+title: "Aquarium Pump modifications for Durability & Flexibility"\ntagnames: 'air-quality, air, pm, formaldehyde, open-air, particle-monitoring, indoor-air-quality, replication:11317'
 author: mathew
 path: /notes/mathew/11-04-2015/aquarium-pump-modifications-for-durability-flexibility.md
 nid: 12361
@@ -12,7 +11,7 @@ uid: 4
 
 # Aquarium Pump modifications for Durability & Flexibility
 
-by [mathew](../profile/mathew) November 04, 2015 00:18
+by [mathew](../profile/mathew) | November 04, 2015 00:18
 
 November 04, 2015 00:18 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [pm](../tag/pm), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [particle-monitoring](../tag/particle-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [replication:11317](../tag/replication:11317)
 

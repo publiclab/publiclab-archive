@@ -1,6 +1,5 @@
 ---
-title: 'Has anyone used a radon test kit? '
-tagnames: indoor-air-quality, question:question, indoor-air, radon, question:indoor-air-quality
+title: "Has anyone used a radon test kit? "\ntagnames: 'indoor-air-quality, question:question, indoor-air, radon, question:indoor-air-quality'
 author: stevie
 path: /notes/stevie/01-04-2017/has-anyone-used-a-radon-test-kit.md
 nid: 13838
@@ -10,7 +9,7 @@ uid: 422561
 
 # Has anyone used a radon test kit? 
 
-by [stevie](../profile/stevie) January 04, 2017 21:09
+by [stevie](../profile/stevie) | January 04, 2017 21:09
 
 January 04, 2017 21:09 | Tags: [indoor-air-quality](../tag/indoor-air-quality), [question:question](../tag/question:question), [indoor-air](../tag/indoor-air), [radon](../tag/radon), [question:indoor-air-quality](../tag/question:indoor-air-quality)
 

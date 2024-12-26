@@ -1,6 +1,5 @@
 ---
-title: 'Comparisons of oil samples and residues in UV light'
-tagnames: spectrometer, ultraviolet, fluorescence
+title: "Comparisons of oil samples and residues in UV light"\ntagnames: 'spectrometer, ultraviolet, fluorescence'
 author: warren
 path: /notes/warren/10-10-2012/comparisons-oil-samples-and-residues-uv-light.md
 nid: 4330
@@ -12,7 +11,7 @@ uid: 1
 
 # Comparisons of oil samples and residues in UV light
 
-by [warren](../profile/warren) October 10, 2012 21:08
+by [warren](../profile/warren) | October 10, 2012 21:08
 
 October 10, 2012 21:08 | Tags: [spectrometer](../tag/spectrometer), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence)
 

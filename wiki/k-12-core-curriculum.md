@@ -1,6 +1,5 @@
 ---
-title: 'K-12 core curriculum'
-tagnames: 
+title: "K-12 core curriculum"\ntagnames: ''
 author: kgradow1
 path: /wiki/k-12-core-curriculum.md
 nid: 9400

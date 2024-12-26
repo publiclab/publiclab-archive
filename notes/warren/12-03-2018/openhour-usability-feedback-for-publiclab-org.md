@@ -1,6 +1,5 @@
 ---
-title: 'OpenHour: Usability Feedback for PublicLab.org'
-tagnames: event, design, openhour, feedback, ui
+title: "OpenHour: Usability Feedback for PublicLab.org"\ntagnames: 'event, design, openhour, feedback, ui'
 author: warren
 path: /notes/warren/12-03-2018/openhour-usability-feedback-for-publiclab-org.md
 nid: 17792
@@ -12,7 +11,7 @@ uid: 1
 
 # OpenHour: Usability Feedback for PublicLab.org
 
-by [warren](../profile/warren) December 03, 2018 19:52
+by [warren](../profile/warren) | December 03, 2018 19:52
 
 December 03, 2018 19:52 | Tags: [event](../tag/event), [design](../tag/design), [openhour](../tag/openhour), [feedback](../tag/feedback), [ui](../tag/ui)
 

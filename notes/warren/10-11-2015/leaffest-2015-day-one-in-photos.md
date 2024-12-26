@@ -1,6 +1,5 @@
 ---
-title: 'LEAFFEST 2015 day one in photos'
-tagnames: vermont, leaffest, leaffest2015, leaffester, doccom
+title: "LEAFFEST 2015 day one in photos"\ntagnames: 'vermont, leaffest, leaffest2015, leaffester, doccom'
 author: warren
 path: /notes/warren/10-11-2015/leaffest-2015-day-one-in-photos.md
 nid: 12288
@@ -12,7 +11,7 @@ uid: 1
 
 # LEAFFEST 2015 day one in photos
 
-by [warren](../profile/warren) October 11, 2015 02:36
+by [warren](../profile/warren) | October 11, 2015 02:36
 
 October 11, 2015 02:36 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [leaffest2015](../tag/leaffest2015), [leaffester](../tag/leaffester), [doccom](../tag/doccom)
 

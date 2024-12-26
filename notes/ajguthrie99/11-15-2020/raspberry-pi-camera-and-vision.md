@@ -1,6 +1,5 @@
 ---
-title: 'Raspberry Pi Camera and Vision'
-tagnames: 
+title: "Raspberry Pi Camera and Vision"\ntagnames: ''
 author: ajguthrie99
 path: /notes/ajguthrie99/11-15-2020/raspberry-pi-camera-and-vision.md
 nid: 25063
@@ -12,7 +11,7 @@ uid: 716372
 
 # Raspberry Pi Camera and Vision
 
-by [ajguthrie99](../profile/ajguthrie99) November 15, 2020 19:26
+by [ajguthrie99](../profile/ajguthrie99) | November 15, 2020 19:26
 
 November 15, 2020 19:26 | Tags: 
 

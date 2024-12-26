@@ -1,6 +1,5 @@
 ---
-title: 'Barnraising Texas 2019'
-tagnames: gulf-coast, barnraising, parent:barnraising, texas, houston, tejas, barnraising-texas-2019, galveston, dataforblacklives, txbarnraising, txbr
+title: "Barnraising Texas 2019"\ntagnames: 'gulf-coast, barnraising, parent:barnraising, texas, houston, tejas, barnraising-texas-2019, galveston, dataforblacklives, txbarnraising, txbr'
 author: stevie
 path: /wiki/barnraising-texas-2019.md
 nid: 17210

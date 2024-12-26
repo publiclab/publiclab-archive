@@ -1,6 +1,5 @@
 ---
-title: 'Introducing the Environmental Evidence Project, a blog series from Public Lab'
-tagnames: evidence, blog, legal, with:gretchengehrke, evidence-project, proof, series:evidence-project, law-and-policy
+title: "Introducing the Environmental Evidence Project, a blog series from Public Lab"\ntagnames: 'evidence, blog, legal, with:gretchengehrke, evidence-project, proof, series:evidence-project, law-and-policy'
 author: warren
 path: /notes/warren/08-18-2016/introducing-the-environmental-evidence-project-a-blog-series-from-public-lab.md
 nid: 13365
@@ -12,7 +11,7 @@ uid: 1
 
 # Introducing the Environmental Evidence Project, a blog series from Public Lab
 
-by [warren](../profile/warren) August 18, 2016 14:57
+by [warren](../profile/warren) | August 18, 2016 14:57
 
 August 18, 2016 14:57 | Tags: [evidence](../tag/evidence), [blog](../tag/blog), [legal](../tag/legal), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [proof](../tag/proof), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
 

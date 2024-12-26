@@ -1,6 +1,5 @@
 ---
-title: 'A DIY low power timer'
-tagnames: arduino, timer, barnstar:photo-documentation, data-logging, mini-pearl-logger, tpl5110, low-power-logging, log-a-long-timer, activity:log-a-long-timer
+title: "A DIY low power timer"\ntagnames: 'arduino, timer, barnstar:photo-documentation, data-logging, mini-pearl-logger, tpl5110, low-power-logging, log-a-long-timer, activity:log-a-long-timer'
 author: cfastie
 path: /notes/cfastie/01-24-2018/a-diy-low-power-timer.md
 nid: 15604
@@ -12,7 +11,7 @@ uid: 554
 
 # A DIY low power timer
 
-by [cfastie](../profile/cfastie) January 24, 2018 22:41
+by [cfastie](../profile/cfastie) | January 24, 2018 22:41
 
 January 24, 2018 22:41 | Tags: [arduino](../tag/arduino), [timer](../tag/timer), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [tpl5110](../tag/tpl5110), [low-power-logging](../tag/low-power-logging), [log-a-long-timer](../tag/log-a-long-timer), [activity:log-a-long-timer](../tag/activity:log-a-long-timer)
 

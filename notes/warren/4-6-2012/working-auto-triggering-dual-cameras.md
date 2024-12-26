@@ -1,6 +1,5 @@
 ---
-title: 'Working auto-triggering for dual cameras'
-tagnames: near-infrared-camera
+title: "Working auto-triggering for dual cameras"\ntagnames: 'near-infrared-camera'
 author: warren
 path: /notes/warren/4-6-2012/working-auto-triggering-dual-cameras.md
 nid: 1629
@@ -12,7 +11,7 @@ uid: 1
 
 # Working auto-triggering for dual cameras
 
-by [warren](../profile/warren) April 06, 2012 21:41
+by [warren](../profile/warren) | April 06, 2012 21:41
 
 April 06, 2012 21:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 

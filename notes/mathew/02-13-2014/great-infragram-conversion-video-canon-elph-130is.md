@@ -1,6 +1,5 @@
 ---
-title: 'Great Infragram conversion video (Canon Elph 130IS)'
-tagnames: near-infrared-camera, video, conversion, infragram, tutorial
+title: "Great Infragram conversion video (Canon Elph 130IS)"\ntagnames: 'near-infrared-camera, video, conversion, infragram, tutorial'
 author: mathew
 path: /notes/mathew/02-13-2014/great-infragram-conversion-video-canon-elph-130is.md
 nid: 10040
@@ -12,7 +11,7 @@ uid: 4
 
 # Great Infragram conversion video (Canon Elph 130IS)
 
-by [mathew](../profile/mathew) February 13, 2014 22:21
+by [mathew](../profile/mathew) | February 13, 2014 22:21
 
 February 13, 2014 22:21 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [conversion](../tag/conversion), [infragram](../tag/infragram), [tutorial](../tag/tutorial)
 

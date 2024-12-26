@@ -1,6 +1,5 @@
 ---
-title: 'User interface projects update and DIAL OSC project recap'
-tagnames: website, design, developers, code, style-guide, ux, ui, user-interface, user-experience, pin:ui
+title: "User interface projects update and DIAL OSC project recap"\ntagnames: 'website, design, developers, code, style-guide, ux, ui, user-interface, user-experience, pin:ui'
 author: warren
 path: /notes/warren/04-22-2019/user-interface-projects-update-and-dial-osc-project-recap.md
 nid: 19141
@@ -12,7 +11,7 @@ uid: 1
 
 # User interface projects update and DIAL OSC project recap
 
-by [warren](../profile/warren) April 22, 2019 17:19
+by [warren](../profile/warren) | April 22, 2019 17:19
 
 April 22, 2019 17:19 | Tags: [website](../tag/website), [design](../tag/design), [developers](../tag/developers), [code](../tag/code), [style-guide](../tag/style-guide), [ux](../tag/ux), [ui](../tag/ui), [user-interface](../tag/user-interface), [user-experience](../tag/user-experience), [pin:ui](../tag/pin:ui)
 

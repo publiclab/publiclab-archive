@@ -1,6 +1,5 @@
 ---
-title: 'Oil Testing Kit -- Beta tests (with some needed re-dos)'
-tagnames: oil-testing-kit, oil-testing-kit-beta
+title: "Oil Testing Kit -- Beta tests (with some needed re-dos)"\ntagnames: 'oil-testing-kit, oil-testing-kit-beta'
 author: gretchengehrke
 path: /notes/gretchengehrke/12-16-2015/oil-testing-kit-beta-tests-with-some-needed-re-dos.md
 nid: 12523
@@ -12,7 +11,7 @@ uid: 430549
 
 # Oil Testing Kit -- Beta tests (with some needed re-dos)
 
-by [gretchengehrke](../profile/gretchengehrke) December 16, 2015 22:13
+by [gretchengehrke](../profile/gretchengehrke) | December 16, 2015 22:13
 
 December 16, 2015 22:13 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 

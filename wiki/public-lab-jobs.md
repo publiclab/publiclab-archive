@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Jobs'
-tagnames: jobs, redirect:27206
+title: "Public Lab Jobs"\ntagnames: 'jobs, redirect:27206'
 author: Shannon
 path: /wiki/public-lab-jobs.md
 nid: 10109

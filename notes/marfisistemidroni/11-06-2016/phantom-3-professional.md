@@ -1,6 +1,5 @@
 ---
-title: 'Phantom 3 Professional'
-tagnames: 
+title: "Phantom 3 Professional"\ntagnames: ''
 author: marfisistemidroni
 path: /notes/marfisistemidroni/11-06-2016/phantom-3-professional.md
 nid: 13683
@@ -12,7 +11,7 @@ uid: 459185
 
 # Phantom 3 Professional
 
-by [marfisistemidroni](../profile/marfisistemidroni) November 06, 2016 14:28
+by [marfisistemidroni](../profile/marfisistemidroni) | November 06, 2016 14:28
 
 November 06, 2016 14:28 | Tags: 
 

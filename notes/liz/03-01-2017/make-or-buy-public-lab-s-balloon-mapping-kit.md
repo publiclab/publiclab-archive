@@ -1,6 +1,5 @@
 ---
-title: 'Make or buy a balloon mapping kit'
-tagnames: category:build, status:complete, activity:balloon-mapping, activity:bourjalshamali, pin:activity:balloon-mapping, pin:balloon-mapping
+title: "Make or buy a balloon mapping kit"\ntagnames: 'category:build, status:complete, activity:balloon-mapping, activity:bourjalshamali, pin:activity:balloon-mapping, pin:balloon-mapping'
 author: liz
 path: /notes/liz/03-01-2017/make-or-buy-public-lab-s-balloon-mapping-kit.md
 nid: 13978
@@ -12,7 +11,7 @@ uid: 7
 
 # Make or buy a balloon mapping kit
 
-by [liz](../profile/liz) March 01, 2017 19:31
+by [liz](../profile/liz) | March 01, 2017 19:31
 
 March 01, 2017 19:31 | Tags: [category:build](../tag/category:build), [status:complete](../tag/status:complete), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:bourjalshamali](../tag/activity:bourjalshamali), [pin:activity:balloon-mapping](../tag/pin:activity:balloon-mapping), [pin:balloon-mapping](../tag/pin:balloon-mapping)
 

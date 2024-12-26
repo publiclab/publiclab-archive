@@ -1,6 +1,5 @@
 ---
-title: 'Conference Booth Nuts'
-tagnames: 
+title: "Conference Booth Nuts"\ntagnames: ''
 author: donblair
 path: /wiki/conference-booth-nuts.md
 nid: 9936

@@ -1,6 +1,5 @@
 ---
-title: 'Experimental research project proposal by Jeff Warren and conducted by David Haffner '
-tagnames: 
+title: "Experimental research project proposal by Jeff Warren and conducted by David Haffner "\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/05-24-2016/experimental-research-project-proposal-by-jeff-warren-and-conducted-by-david-haffner.md
 nid: 13140
@@ -12,7 +11,7 @@ uid: 461120
 
 # Experimental research project proposal by Jeff Warren and conducted by David Haffner 
 
-by [dhaffnersr](../profile/dhaffnersr) May 24, 2016 08:43
+by [dhaffnersr](../profile/dhaffnersr) | May 24, 2016 08:43
 
 May 24, 2016 08:43 | Tags: 
 

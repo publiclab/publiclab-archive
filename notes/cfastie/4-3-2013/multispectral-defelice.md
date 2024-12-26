@@ -1,6 +1,5 @@
 ---
-title: 'Multispectral DeFelice'
-tagnames: gulf-coast, near-infrared-camera, kite-mapping, nrg, ndvi, vegetation-mapping, louisiana, lumcon, cocodrie-la, cfastie, plant-health, gigapan
+title: "Multispectral DeFelice"\ntagnames: 'gulf-coast, near-infrared-camera, kite-mapping, nrg, ndvi, vegetation-mapping, louisiana, lumcon, cocodrie-la, cfastie, plant-health, gigapan'
 author: cfastie
 path: /notes/cfastie/4-3-2013/multispectral-defelice.md
 nid: 6653
@@ -12,7 +11,7 @@ uid: 554
 
 # Multispectral DeFelice
 
-by [cfastie](../profile/cfastie) April 03, 2013 04:17
+by [cfastie](../profile/cfastie) | April 03, 2013 04:17
 
 April 03, 2013 04:17 | Tags: [gulf-coast](../tag/gulf-coast), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vegetation-mapping](../tag/vegetation-mapping), [louisiana](../tag/louisiana), [lumcon](../tag/lumcon), [cocodrie-la](../tag/cocodrie-la), [cfastie](../tag/cfastie), [plant-health](../tag/plant-health), [gigapan](../tag/gigapan)
 

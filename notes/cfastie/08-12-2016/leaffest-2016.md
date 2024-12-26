@@ -1,6 +1,5 @@
 ---
-title: 'LEAFFEST 2016'
-tagnames: vermont, leaffest, northeast, response:12212, leaffest2016, leaffest-2016
+title: "LEAFFEST 2016"\ntagnames: 'vermont, leaffest, northeast, response:12212, leaffest2016, leaffest-2016'
 author: cfastie
 path: /notes/cfastie/08-12-2016/leaffest-2016.md
 nid: 13350
@@ -12,7 +11,7 @@ uid: 554
 
 # LEAFFEST 2016
 
-by [cfastie](../profile/cfastie) August 12, 2016 18:24
+by [cfastie](../profile/cfastie) | August 12, 2016 18:24
 
 August 12, 2016 18:24 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [northeast](../tag/northeast), [response:12212](../tag/response:12212), [leaffest2016](../tag/leaffest2016), [leaffest-2016](../tag/leaffest-2016)
 

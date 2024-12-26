@@ -1,6 +1,5 @@
 ---
-title: 'Lead (Pb)'
-tagnames: heavy-metals, lead, lead-testing
+title: "Lead (Pb)"\ntagnames: 'heavy-metals, lead, lead-testing'
 author: liz
 path: /wiki/lead.md
 nid: 16938

@@ -1,6 +1,5 @@
 ---
-title: 'espectro electromagnetico'
-tagnames: first-time-poster
+title: "espectro electromagnetico"\ntagnames: 'first-time-poster'
 author: malejatafurbustos
 path: /notes/malejatafurbustos/10-31-2019/espectro-electromagnetico.md
 nid: 21351
@@ -12,7 +11,7 @@ uid: 633285
 
 # espectro electromagnetico
 
-by [malejatafurbustos](../profile/malejatafurbustos) October 31, 2019 00:16
+by [malejatafurbustos](../profile/malejatafurbustos) | October 31, 2019 00:16
 
 October 31, 2019 00:16 | Tags: [first-time-poster](../tag/first-time-poster)
 

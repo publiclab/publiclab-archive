@@ -1,6 +1,5 @@
 ---
-title: 'Community Soil Testing Using an Open Source Soil Sampling Toolkit'
-tagnames: soil, sampling, soil-testing, soil-sampling, activity:soil-sampling, activity:oil-testing, activity:soil, soil-contaminants, soil-contaminant-testing, soil-testing-kits, activity:lead, activity:heavy-metals, replication:18505, lat:42.933626, lon:-78.880547
+title: "Community Soil Testing Using an Open Source Soil Sampling Toolkit"\ntagnames: 'soil, sampling, soil-testing, soil-sampling, activity:soil-sampling, activity:oil-testing, activity:soil, soil-contaminants, soil-contaminant-testing, soil-testing-kits, activity:lead, activity:heavy-metals, replication:18505, lat:42.933626, lon:-78.880547'
 author: jjcreedon
 path: /notes/jjcreedon/08-21-2019/community-soil-testing-using-an-open-source-soil-sampling-toolkit.md
 nid: 20618
@@ -12,7 +11,7 @@ uid: 515357
 
 # Community Soil Testing Using an Open Source Soil Sampling Toolkit
 
-by [jjcreedon](../profile/jjcreedon) August 21, 2019 17:54
+by [jjcreedon](../profile/jjcreedon) | August 21, 2019 17:54
 
 August 21, 2019 17:54 | Tags: [soil](../tag/soil), [sampling](../tag/sampling), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [activity:soil-sampling](../tag/activity:soil-sampling), [activity:oil-testing](../tag/activity:oil-testing), [activity:soil](../tag/activity:soil), [soil-contaminants](../tag/soil-contaminants), [soil-contaminant-testing](../tag/soil-contaminant-testing), [soil-testing-kits](../tag/soil-testing-kits), [activity:lead](../tag/activity:lead), [activity:heavy-metals](../tag/activity:heavy-metals), [replication:18505](../tag/replication:18505), [lat:42.933626](../tag/lat:42.933626), [lon:-78.880547](../tag/lon:-78.880547)
 

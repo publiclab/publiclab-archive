@@ -1,6 +1,5 @@
 ---
-title: 'Compartir imágenes usando Archive.org'
-tagnames: lang:es, activity:photo-sharing, photo-sharing, ballon-mapping, spanish, cosquin
+title: "Compartir imágenes usando Archive.org"\ntagnames: 'lang:es, activity:photo-sharing, photo-sharing, ballon-mapping, spanish, cosquin'
 author: imvec
 path: /notes/imvec/02-08-2020/compartir-imagenes-usando-archive-org.md
 nid: 22712
@@ -12,7 +11,7 @@ uid: 495038
 
 # Compartir imágenes usando Archive.org
 
-by [imvec](../profile/imvec) February 08, 2020 22:25
+by [imvec](../profile/imvec) | February 08, 2020 22:25
 
 February 08, 2020 22:25 | Tags: [lang:es](../tag/lang:es), [activity:photo-sharing](../tag/activity:photo-sharing), [photo-sharing](../tag/photo-sharing), [ballon-mapping](../tag/ballon-mapping), [spanish](../tag/spanish), [cosquin](../tag/cosquin)
 

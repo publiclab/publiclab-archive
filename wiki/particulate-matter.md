@@ -1,6 +1,5 @@
 ---
-title: 'particulate-matter'
-tagnames: redirect:pm
+title: "particulate-matter"\ntagnames: 'redirect:pm'
 author: stevie
 path: /wiki/particulate-matter.md
 nid: 21063

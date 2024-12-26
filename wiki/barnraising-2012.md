@@ -1,6 +1,5 @@
 ---
-title: 'barnraising-2012'
-tagnames: gulf-coast, louisiana, barnraising, lumcon, list:plots-barnraising
+title: "barnraising-2012"\ntagnames: 'gulf-coast, louisiana, barnraising, lumcon, list:plots-barnraising'
 author: warren
 path: /wiki/barnraising-2012.md
 nid: 8806

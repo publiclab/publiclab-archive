@@ -1,6 +1,5 @@
 ---
-title: 'Draft: How to intergrate spectral data geometrically'
-tagnames: spectrometry, activity:spectrometry
+title: "Draft: How to intergrate spectral data geometrically"\ntagnames: 'spectrometry, activity:spectrometry'
 author: madafe
 path: /notes/madafe/07-30-2018/draft-how-to-intergrate-spectral-data-geometrically.md
 nid: 16813
@@ -12,7 +11,7 @@ uid: 543612
 
 # Draft: How to intergrate spectral data geometrically
 
-by [madafe](../profile/madafe) July 30, 2018 19:32
+by [madafe](../profile/madafe) | July 30, 2018 19:32
 
 July 30, 2018 19:32 | Tags: [spectrometry](../tag/spectrometry), [activity:spectrometry](../tag/activity:spectrometry)
 

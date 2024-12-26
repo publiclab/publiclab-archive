@@ -1,6 +1,5 @@
 ---
-title: 'Intellectual Property Primer (work in progress)'
-tagnames: 
+title: "Intellectual Property Primer (work in progress)"\ntagnames: ''
 author: Bronwen
 path: /notes/bronwen/10-21-2014/intellectual-property-primer-work-in-progress.md
 nid: 11285
@@ -12,7 +11,7 @@ uid: 237313
 
 # Intellectual Property Primer (work in progress)
 
-by [Bronwen](../profile/Bronwen) October 21, 2014 00:22
+by [Bronwen](../profile/Bronwen) | October 21, 2014 00:22
 
 October 21, 2014 00:22 | Tags: 
 

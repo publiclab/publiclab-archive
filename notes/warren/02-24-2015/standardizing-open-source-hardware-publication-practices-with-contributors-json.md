@@ -1,6 +1,5 @@
 ---
-title: 'Standardizing open source hardware publication practices with contributors.json'
-tagnames: open-hardware, attribution, contributing, oshwa
+title: "Standardizing open source hardware publication practices with contributors.json"\ntagnames: 'open-hardware, attribution, contributing, oshwa'
 author: warren
 path: /notes/warren/02-24-2015/standardizing-open-source-hardware-publication-practices-with-contributors-json.md
 nid: 11636
@@ -12,7 +11,7 @@ uid: 1
 
 # Standardizing open source hardware publication practices with contributors.json
 
-by [warren](../profile/warren) February 24, 2015 21:49
+by [warren](../profile/warren) | February 24, 2015 21:49
 
 February 24, 2015 21:49 | Tags: [open-hardware](../tag/open-hardware), [attribution](../tag/attribution), [contributing](../tag/contributing), [oshwa](../tag/oshwa)
 

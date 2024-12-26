@@ -1,6 +1,5 @@
 ---
-title: 'Mini spectrophotometer - how does this deviate from the Beer-Lambert law?'
-tagnames: spectrometer, beers-law, question:spectrometer, question:spectrometry, question:foldable-mini-spectrometer, beer-lambert-law, question:spectrometry-sampling
+title: "Mini spectrophotometer - how does this deviate from the Beer-Lambert law?"\ntagnames: 'spectrometer, beers-law, question:spectrometer, question:spectrometry, question:foldable-mini-spectrometer, beer-lambert-law, question:spectrometry-sampling'
 author: FoxClass
 path: /notes/FoxClass/06-23-2016/mini-spectrophotometer-how-does-this-deviate-from-the-beer-lambert-law.md
 nid: 13233
@@ -12,7 +11,7 @@ uid: 480280
 
 # Mini spectrophotometer - how does this deviate from the Beer-Lambert law?
 
-by [FoxClass](../profile/FoxClass) June 23, 2016 05:04
+by [FoxClass](../profile/FoxClass) | June 23, 2016 05:04
 
 June 23, 2016 05:04 | Tags: [spectrometer](../tag/spectrometer), [beers-law](../tag/beers-law), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:foldable-mini-spectrometer](../tag/question:foldable-mini-spectrometer), [beer-lambert-law](../tag/beer-lambert-law), [question:spectrometry-sampling](../tag/question:spectrometry-sampling)
 

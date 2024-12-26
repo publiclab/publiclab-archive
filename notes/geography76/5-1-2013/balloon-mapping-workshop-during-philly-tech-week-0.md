@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Mapping Workshop during Philly Tech Week'
-tagnames: first-time-poster
+title: "Balloon Mapping Workshop during Philly Tech Week"\ntagnames: 'first-time-poster'
 author: geography76
 path: /notes/geography76/5-1-2013/balloon-mapping-workshop-during-philly-tech-week-0.md
 nid: 7142
@@ -12,7 +11,7 @@ uid: 176
 
 # Balloon Mapping Workshop during Philly Tech Week
 
-by [geography76](../profile/geography76) May 01, 2013 10:14
+by [geography76](../profile/geography76) | May 01, 2013 10:14
 
 May 01, 2013 10:14 | Tags: [first-time-poster](../tag/first-time-poster)
 

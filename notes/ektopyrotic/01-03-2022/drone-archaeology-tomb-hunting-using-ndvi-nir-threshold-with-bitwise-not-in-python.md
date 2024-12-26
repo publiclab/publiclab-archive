@@ -1,6 +1,5 @@
 ---
-title: 'Drone Archaeology | Tomb Hunting Using NDVI, NIR Threshold with Bitwise NOT in Python'
-tagnames: ndvi, infrared, image-processing, archaeology, mapping, near-infrared, drone, aerial, python, github, ireland, zoom:6, lat:53, contour, plot, tomb, lon:-7
+title: "Drone Archaeology | Tomb Hunting Using NDVI, NIR Threshold with Bitwise NOT in Python"\ntagnames: 'ndvi, infrared, image-processing, archaeology, mapping, near-infrared, drone, aerial, python, github, ireland, zoom:6, lat:53, contour, plot, tomb, lon:-7'
 author: ektopyrotic
 path: /notes/ektopyrotic/01-03-2022/drone-archaeology-tomb-hunting-using-ndvi-nir-threshold-with-bitwise-not-in-python.md
 nid: 28618
@@ -12,7 +11,7 @@ uid: 699450
 
 # Drone Archaeology | Tomb Hunting Using NDVI, NIR Threshold with Bitwise NOT in Python
 
-by [ektopyrotic](../profile/ektopyrotic) January 03, 2022 21:48
+by [ektopyrotic](../profile/ektopyrotic) | January 03, 2022 21:48
 
 January 03, 2022 21:48 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [image-processing](../tag/image-processing), [archaeology](../tag/archaeology), [mapping](../tag/mapping), [near-infrared](../tag/near-infrared), [drone](../tag/drone), [aerial](../tag/aerial), [python](../tag/python), [github](../tag/github), [ireland](../tag/ireland), [zoom:6](../tag/zoom:6), [lat:53](../tag/lat:53), [contour](../tag/contour), [plot](../tag/plot), [tomb](../tag/tomb), [lon:-7](../tag/lon:-7)
 

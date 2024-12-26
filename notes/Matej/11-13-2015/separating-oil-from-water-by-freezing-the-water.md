@@ -1,6 +1,5 @@
 ---
-title: 'Separating Oil from Water by Freezing the Water'
-tagnames: spectrometer, oil-spill, oil, crude, water-quality, oil-testing-kit, barnstar:basic, sheen, otk, os, ost, freezing-oil, activity:spectrometry-sampling
+title: "Separating Oil from Water by Freezing the Water"\ntagnames: 'spectrometer, oil-spill, oil, crude, water-quality, oil-testing-kit, barnstar:basic, sheen, otk, os, ost, freezing-oil, activity:spectrometry-sampling'
 author: Matej
 path: /notes/Matej/11-13-2015/separating-oil-from-water-by-freezing-the-water.md
 nid: 12405
@@ -12,7 +11,7 @@ uid: 451808
 
 # Separating Oil from Water by Freezing the Water
 
-by [Matej](../profile/Matej) November 13, 2015 17:28
+by [Matej](../profile/Matej) | November 13, 2015 17:28
 
 November 13, 2015 17:28 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [crude](../tag/crude), [water-quality](../tag/water-quality), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [sheen](../tag/sheen), [otk](../tag/otk), [os](../tag/os), [ost](../tag/ost), [freezing-oil](../tag/freezing-oil), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 

@@ -1,6 +1,5 @@
 ---
-title: 'two step process'
-tagnames: troubleshooting
+title: "two step process"\ntagnames: 'troubleshooting'
 author: prof_braino
 path: /notes/profbraino/1-22-2013/two-step-process-0.md
 nid: 5676
@@ -10,7 +9,7 @@ uid: 48546
 
 # two step process
 
-by [prof_braino](../profile/prof_braino) January 22, 2013 16:33
+by [prof_braino](../profile/prof_braino) | January 22, 2013 16:33
 
 January 22, 2013 16:33 | Tags: [troubleshooting](../tag/troubleshooting)
 

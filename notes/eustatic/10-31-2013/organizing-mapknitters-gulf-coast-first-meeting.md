@@ -1,6 +1,5 @@
 ---
-title: '[organizing] Mapknitters Gulf Coast --first meeting'
-tagnames: gulf-coast, balloon-mapping, kite-mapping, mapknitter, blog, mapknitters
+title: "[organizing] Mapknitters Gulf Coast --first meeting"\ntagnames: 'gulf-coast, balloon-mapping, kite-mapping, mapknitter, blog, mapknitters'
 author: eustatic
 path: /10-31-2013/organizing-mapknitters-gulf-coast-first-meeting.md
 nid: 9707
@@ -12,7 +11,7 @@ uid: 379
 
 # [organizing] Mapknitters Gulf Coast --first meeting
 
-by [eustatic](../profile/eustatic) October 31, 2013 23:13
+by [eustatic](../profile/eustatic) | October 31, 2013 23:13
 
 October 31, 2013 23:13 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [blog](../tag/blog), [mapknitters](../tag/mapknitters)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Exploratory Lesson Activity for Image Sequencer'
-tagnames: ndvi, education, aren, image-sequencer, infragram-pi
+title: "Exploratory Lesson Activity for Image Sequencer"\ntagnames: 'ndvi, education, aren, image-sequencer, infragram-pi'
 author: carmen2x
 path: /notes/carmen2x/04-20-2022/exploratory-lesson-activity-for-image-sequencer.md
 nid: 30539
@@ -12,7 +11,7 @@ uid: 787988
 
 # Exploratory Lesson Activity for Image Sequencer
 
-by [carmen2x](../profile/carmen2x) April 20, 2022 18:21
+by [carmen2x](../profile/carmen2x) | April 20, 2022 18:21
 
 April 20, 2022 18:21 | Tags: [ndvi](../tag/ndvi), [education](../tag/education), [aren](../tag/aren), [image-sequencer](../tag/image-sequencer), [infragram-pi](../tag/infragram-pi)
 

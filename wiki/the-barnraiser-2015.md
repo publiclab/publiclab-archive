@@ -1,6 +1,5 @@
 ---
-title: 'The Barnraiser 2015'
-tagnames: 
+title: "The Barnraiser 2015"\ntagnames: ''
 author: warren
 path: /wiki/the-barnraiser-2015.md
 nid: 13674

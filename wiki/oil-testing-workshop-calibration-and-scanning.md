@@ -1,6 +1,5 @@
 ---
-title: 'oil-testing-workshop-calibration-and-scanning'
-tagnames: workshop, oil-testing-kit, parent:oil-testing-workshops
+title: "oil-testing-workshop-calibration-and-scanning"\ntagnames: 'workshop, oil-testing-kit, parent:oil-testing-workshops'
 author: liz
 path: /wiki/oil-testing-workshop-calibration-and-scanning.md
 nid: 12671

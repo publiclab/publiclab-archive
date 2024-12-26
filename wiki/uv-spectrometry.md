@@ -1,6 +1,5 @@
 ---
-title: 'Ultraviolet spectrometry'
-tagnames: spectrometer, uv, ultraviolet, uv/visible, spectrometry, grating, holographic, reflective
+title: "Ultraviolet spectrometry"\ntagnames: 'spectrometer, uv, ultraviolet, uv/visible, spectrometry, grating, holographic, reflective'
 author: Fernando
 path: /wiki/uv-spectrometry.md
 nid: 3837

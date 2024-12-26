@@ -1,6 +1,5 @@
 ---
-title: 'The spectrum gets vertical no matter how I upload the picture. '
-tagnames: spectral-workbench, question:spectral-workbench
+title: "The spectrum gets vertical no matter how I upload the picture. "\ntagnames: 'spectral-workbench, question:spectral-workbench'
 author: wangdydu
 path: /notes/wangdydu/04-27-2018/the-spectrum-gets-vertical-no-matter-how-i-upload-the-picture.md
 nid: 16220
@@ -10,7 +9,7 @@ uid: 532021
 
 # The spectrum gets vertical no matter how I upload the picture. 
 
-by [wangdydu](../profile/wangdydu) April 27, 2018 08:55
+by [wangdydu](../profile/wangdydu) | April 27, 2018 08:55
 
 April 27, 2018 08:55 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench)
 

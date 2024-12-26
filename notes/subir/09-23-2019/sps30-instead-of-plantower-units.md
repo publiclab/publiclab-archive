@@ -1,6 +1,5 @@
 ---
-title: 'SPS30 instead of PlanTower units?'
-tagnames: air, pollution, question:air-quality, question:pm, particulate-matter, pm10, plantower, first-time-poster, question:plantower, sps30
+title: "SPS30 instead of PlanTower units?"\ntagnames: 'air, pollution, question:air-quality, question:pm, particulate-matter, pm10, plantower, first-time-poster, question:plantower, sps30'
 author: subir
 path: /notes/subir/09-23-2019/sps30-instead-of-plantower-units.md
 nid: 20963
@@ -10,7 +9,7 @@ uid: 622299
 
 # SPS30 instead of PlanTower units?
 
-by [subir](../profile/subir) September 23, 2019 07:57
+by [subir](../profile/subir) | September 23, 2019 07:57
 
 September 23, 2019 07:57 | Tags: [air](../tag/air), [pollution](../tag/pollution), [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [particulate-matter](../tag/particulate-matter), [pm10](../tag/pm10), [plantower](../tag/plantower), [first-time-poster](../tag/first-time-poster), [question:plantower](../tag/question:plantower), [sps30](../tag/sps30)
 

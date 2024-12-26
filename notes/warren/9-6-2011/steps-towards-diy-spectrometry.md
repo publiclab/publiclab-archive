@@ -1,6 +1,5 @@
 ---
-title: 'Steps towards DIY Spectrometry'
-tagnames: lima, spectrometer, peru, boston, partsandcrafts, idealab, parts-and-crafts, turntable, escuelab
+title: "Steps towards DIY Spectrometry"\ntagnames: 'lima, spectrometer, peru, boston, partsandcrafts, idealab, parts-and-crafts, turntable, escuelab'
 author: warren
 path: /notes/warren/9-6-2011/steps-towards-diy-spectrometry.md
 nid: 452
@@ -12,7 +11,7 @@ uid: 1
 
 # Steps towards DIY Spectrometry
 
-by [warren](../profile/warren) September 06, 2011 16:55
+by [warren](../profile/warren) | September 06, 2011 16:55
 
 September 06, 2011 16:55 | Tags: [lima](../tag/lima), [spectrometer](../tag/spectrometer), [peru](../tag/peru), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [idealab](../tag/idealab), [parts-and-crafts](../tag/parts-and-crafts), [turntable](../tag/turntable), [escuelab](../tag/escuelab)
 

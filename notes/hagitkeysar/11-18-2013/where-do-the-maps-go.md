@@ -1,6 +1,5 @@
 ---
-title: '"where do the maps go?" '
-tagnames: balloon-mapping, kite-mapping, jerusalem, annotated-maps, israel, blog, communityengagement, middle-east
+title: ""where do the maps go?" "\ntagnames: 'balloon-mapping, kite-mapping, jerusalem, annotated-maps, israel, blog, communityengagement, middle-east'
 author: hagitkeysar
 path: /notes/hagitkeysar/11-18-2013/where-do-the-maps-go.md
 nid: 9806
@@ -12,7 +11,7 @@ uid: 152
 
 # "where do the maps go?" 
 
-by [hagitkeysar](../profile/hagitkeysar) November 18, 2013 16:16
+by [hagitkeysar](../profile/hagitkeysar) | November 18, 2013 16:16
 
 November 18, 2013 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [annotated-maps](../tag/annotated-maps), [israel](../tag/israel), [blog](../tag/blog), [communityengagement](../tag/communityengagement), [middle-east](../tag/middle-east)
 

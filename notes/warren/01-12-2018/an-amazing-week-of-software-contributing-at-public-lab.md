@@ -1,6 +1,5 @@
 ---
-title: 'An amazing week of software contributing at Public Lab'
-tagnames: software, developers, code, first-timers-only, contributors, software-outreach
+title: "An amazing week of software contributing at Public Lab"\ntagnames: 'software, developers, code, first-timers-only, contributors, software-outreach'
 author: warren
 path: /notes/warren/01-12-2018/an-amazing-week-of-software-contributing-at-public-lab.md
 nid: 15518
@@ -12,7 +11,7 @@ uid: 1
 
 # An amazing week of software contributing at Public Lab
 
-by [warren](../profile/warren) January 12, 2018 22:20
+by [warren](../profile/warren) | January 12, 2018 22:20
 
 January 12, 2018 22:20 | Tags: [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [first-timers-only](../tag/first-timers-only), [contributors](../tag/contributors), [software-outreach](../tag/software-outreach)
 

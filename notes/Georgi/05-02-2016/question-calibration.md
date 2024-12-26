@@ -1,6 +1,5 @@
 ---
-title: 'Question: Calibration...'
-tagnames: question:spectrometry, answered
+title: "Question: Calibration..."\ntagnames: 'question:spectrometry, answered'
 author: Georgi
 path: /notes/Georgi/05-02-2016/question-calibration.md
 nid: 13061
@@ -10,7 +9,7 @@ uid: 472098
 
 # Question: Calibration...
 
-by [Georgi](../profile/Georgi) May 02, 2016 15:03
+by [Georgi](../profile/Georgi) | May 02, 2016 15:03
 
 May 02, 2016 15:03 | Tags: [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered)
 

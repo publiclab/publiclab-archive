@@ -1,6 +1,5 @@
 ---
-title: 'Oil Testing Kit Schedule and Kickoff'
-tagnames: spectrometer, oil-testing, oil-testing-kit, homebrew-oil-testing-kit, otk, homebrew, response:12123
+title: "Oil Testing Kit Schedule and Kickoff"\ntagnames: 'spectrometer, oil-testing, oil-testing-kit, homebrew-oil-testing-kit, otk, homebrew, response:12123'
 author: warren
 path: /notes/warren/09-24-2015/oil-testing-kit-schedule-and-kickoff.md
 nid: 12239
@@ -12,7 +11,7 @@ uid: 1
 
 # Oil Testing Kit Schedule and Kickoff
 
-by [warren](../profile/warren) September 24, 2015 03:01
+by [warren](../profile/warren) | September 24, 2015 03:01
 
 September 24, 2015 03:01 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [otk](../tag/otk), [homebrew](../tag/homebrew), [response:12123](../tag/response:12123)
 

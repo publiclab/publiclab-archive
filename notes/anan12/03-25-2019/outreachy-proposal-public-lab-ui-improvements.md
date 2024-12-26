@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: Public Lab UI Improvements '
-tagnames: software, soc, outreachy, response:17359, first-time-poster, soc-2019, outreachy-2019, outreachy-2019-proposals
+title: "Outreachy proposal: Public Lab UI Improvements "\ntagnames: 'software, soc, outreachy, response:17359, first-time-poster, soc-2019, outreachy-2019, outreachy-2019-proposals'
 author: anan12
 path: /notes/anan12/03-25-2019/outreachy-proposal-public-lab-ui-improvements.md
 nid: 18850
@@ -12,7 +11,7 @@ uid: 577881
 
 # Outreachy proposal: Public Lab UI Improvements 
 
-by [anan12](../profile/anan12) March 25, 2019 22:00
+by [anan12](../profile/anan12) | March 25, 2019 22:00
 
 March 25, 2019 22:00 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals)
 

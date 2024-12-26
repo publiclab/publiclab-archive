@@ -1,6 +1,5 @@
 ---
-title: 'Mockups for website improvements'
-tagnames: website
+title: "Mockups for website improvements"\ntagnames: 'website'
 author: warren
 path: /notes/warren/5-30-2012/mockups-website-improvements.md
 nid: 2261
@@ -12,7 +11,7 @@ uid: 1
 
 # Mockups for website improvements
 
-by [warren](../profile/warren) May 30, 2012 22:14
+by [warren](../profile/warren) | May 30, 2012 22:14
 
 May 30, 2012 22:14 | Tags: [website](../tag/website)
 

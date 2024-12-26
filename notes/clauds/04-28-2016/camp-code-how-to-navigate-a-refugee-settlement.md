@@ -1,6 +1,5 @@
 ---
-title: 'Camp Code: How to navigate a refugee settlement'
-tagnames: blog, bourjalshamali
+title: "Camp Code: How to navigate a refugee settlement"\ntagnames: 'blog, bourjalshamali'
 author: clauds
 path: /notes/clauds/04-28-2016/camp-code-how-to-navigate-a-refugee-settlement.md
 nid: 13043
@@ -12,7 +11,7 @@ uid: 43867
 
 # Camp Code: How to navigate a refugee settlement
 
-by [clauds](../profile/clauds) April 28, 2016 14:46
+by [clauds](../profile/clauds) | April 28, 2016 14:46
 
 April 28, 2016 14:46 | Tags: [blog](../tag/blog), [bourjalshamali](../tag/bourjalshamali)
 

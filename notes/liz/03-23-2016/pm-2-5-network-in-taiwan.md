@@ -1,6 +1,5 @@
 ---
-title: 'Pm 2.5 network in Taiwan'
-tagnames: asia, taipei, pm, taiwan, g0v
+title: "Pm 2.5 network in Taiwan"\ntagnames: 'asia, taipei, pm, taiwan, g0v'
 author: liz
 path: /notes/liz/03-23-2016/pm-2-5-network-in-taiwan.md
 nid: 12878
@@ -12,7 +11,7 @@ uid: 7
 
 # Pm 2.5 network in Taiwan
 
-by [liz](../profile/liz) March 23, 2016 15:32
+by [liz](../profile/liz) | March 23, 2016 15:32
 
 March 23, 2016 15:32 | Tags: [asia](../tag/asia), [taipei](../tag/taipei), [pm](../tag/pm), [taiwan](../tag/taiwan), [g0v](../tag/g0v)
 

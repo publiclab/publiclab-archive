@@ -1,6 +1,5 @@
 ---
-title: 'Assembling the Raspberry Pi Microscope'
-tagnames: kits, with:warren, microscope, hardware, activity:raspberry-pi, activity:microscope, community-kits, community-microscope, activity:community-microscope-assembly, raspberry-pi-microscope, raspberrypi-microscope
+title: "Assembling the Raspberry Pi Microscope"\ntagnames: 'kits, with:warren, microscope, hardware, activity:raspberry-pi, activity:microscope, community-kits, community-microscope, activity:community-microscope-assembly, raspberry-pi-microscope, raspberrypi-microscope'
 author: Bronwen
 path: /notes/bronwen/11-29-2018/assembling-the-raspberry-pi-microscope.md
 nid: 17775
@@ -12,7 +11,7 @@ uid: 237313
 
 # Assembling the Raspberry Pi Microscope
 
-by [Bronwen](../profile/Bronwen) November 29, 2018 15:15
+by [Bronwen](../profile/Bronwen) | November 29, 2018 15:15
 
 November 29, 2018 15:15 | Tags: [kits](../tag/kits), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [hardware](../tag/hardware), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:microscope](../tag/activity:microscope), [community-kits](../tag/community-kits), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [raspberry-pi-microscope](../tag/raspberry-pi-microscope), [raspberrypi-microscope](../tag/raspberrypi-microscope)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Can you help us with calibrating our spectrometer?'
-tagnames: spectrometer, calibration, question:spectrometry, first-time-poster, calibrating
+title: "Can you help us with calibrating our spectrometer?"\ntagnames: 'spectrometer, calibration, question:spectrometry, first-time-poster, calibrating'
 author: KristinaTamara
 path: /notes/KristinaTamara/05-26-2019/can-you-help-us-with-calibrating-our-spectrometer.md
 nid: 19525
@@ -10,7 +9,7 @@ uid: 592485
 
 # Can you help us with calibrating our spectrometer?
 
-by [KristinaTamara](../profile/KristinaTamara) May 26, 2019 18:09
+by [KristinaTamara](../profile/KristinaTamara) | May 26, 2019 18:09
 
 May 26, 2019 18:09 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster), [calibrating](../tag/calibrating)
 

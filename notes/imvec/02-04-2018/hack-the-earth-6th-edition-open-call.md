@@ -1,6 +1,5 @@
 ---
-title: 'Hack The Earth: 6th edition open call'
-tagnames: spain, event, event:rsvp, eu, open-call, date:03-30-2018, place:ca-la-fou
+title: "Hack The Earth: 6th edition open call"\ntagnames: 'spain, event, event:rsvp, eu, open-call, date:03-30-2018, place:ca-la-fou'
 author: imvec
 path: /notes/imvec/02-04-2018/hack-the-earth-6th-edition-open-call.md
 nid: 15679
@@ -12,7 +11,7 @@ uid: 495038
 
 # Hack The Earth: 6th edition open call
 
-by [imvec](../profile/imvec) February 04, 2018 14:54
+by [imvec](../profile/imvec) | February 04, 2018 14:54
 
 February 04, 2018 14:54 | Tags: [spain](../tag/spain), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [eu](../tag/eu), [open-call](../tag/open-call), [date:03-30-2018](../tag/date:03-30-2018), [place:ca-la-fou](../tag/place:ca-la-fou)
 

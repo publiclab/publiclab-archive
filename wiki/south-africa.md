@@ -1,6 +1,5 @@
 ---
-title: 'south-africa'
-tagnames: africa
+title: "south-africa"\ntagnames: 'africa'
 author: liz
 path: /wiki/south-africa.md
 nid: 11158

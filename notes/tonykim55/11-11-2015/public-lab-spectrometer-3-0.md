@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Spectrometer 3.0'
-tagnames: 
+title: "Public Lab Spectrometer 3.0"\ntagnames: ''
 author: tonykim55
 path: /notes/tonykim55/11-11-2015/public-lab-spectrometer-3-0.md
 nid: 12401
@@ -10,7 +9,7 @@ uid: 457056
 
 # Public Lab Spectrometer 3.0
 
-by [tonykim55](../profile/tonykim55) November 11, 2015 02:21
+by [tonykim55](../profile/tonykim55) | November 11, 2015 02:21
 
 November 11, 2015 02:21 | Tags: 
 

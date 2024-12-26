@@ -1,6 +1,5 @@
 ---
-title: 'Making Glycerol Solution for H2S film Assay'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, activity:h2s-photopaper
+title: "Making Glycerol Solution for H2S film Assay"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, activity:h2s-photopaper'
 author: sara
 path: /notes/sara/3-29-2012/making-glycerol-solution-h2s-film-assay.md
 nid: 1579
@@ -10,7 +9,7 @@ uid: 8
 
 # Making Glycerol Solution for H2S film Assay
 
-by [sara](../profile/sara) March 29, 2012 16:32
+by [sara](../profile/sara) | March 29, 2012 16:32
 
 March 29, 2012 16:32 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s-photopaper](../tag/activity:h2s-photopaper)
 

@@ -1,6 +1,5 @@
 ---
-title: 'The Redstone Rig is ready'
-tagnames: balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, response:10101, redstone
+title: "The Redstone Rig is ready"\ntagnames: 'balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, response:10101, redstone'
 author: cfastie
 path: /notes/cfastie/03-27-2014/the-redstone-rig-is-ready.md
 nid: 10230
@@ -12,7 +11,7 @@ uid: 554
 
 # The Redstone Rig is ready
 
-by [cfastie](../profile/cfastie) March 27, 2014 15:39
+by [cfastie](../profile/cfastie) | March 27, 2014 15:39
 
 March 27, 2014 15:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10101](../tag/response:10101), [redstone](../tag/redstone)
 

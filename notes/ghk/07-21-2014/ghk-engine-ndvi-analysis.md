@@ -1,6 +1,5 @@
 ---
-title: 'ghk engine ndvi analysis'
-tagnames: infragram
+title: "ghk engine ndvi analysis"\ntagnames: 'infragram'
 author: ghk
 path: /notes/ghk/07-21-2014/ghk-engine-ndvi-analysis.md
 nid: 10941
@@ -12,7 +11,7 @@ uid: 422181
 
 # ghk engine ndvi analysis
 
-by [ghk](../profile/ghk) July 21, 2014 19:53
+by [ghk](../profile/ghk) | July 21, 2014 19:53
 
 July 21, 2014 19:53 | Tags: [infragram](../tag/infragram)
 

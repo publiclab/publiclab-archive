@@ -1,6 +1,5 @@
 ---
-title: 'TAC Workshop'
-tagnames: kite-mapping, vermont, kite-aerial-photography, kap, tac, cfastie
+title: "TAC Workshop"\ntagnames: 'kite-mapping, vermont, kite-aerial-photography, kap, tac, cfastie'
 author: cfastie
 path: /notes/cfastie/4-7-2013/tac-workshop.md
 nid: 6707
@@ -12,7 +11,7 @@ uid: 554
 
 # TAC Workshop
 
-by [cfastie](../profile/cfastie) April 07, 2013 21:58
+by [cfastie](../profile/cfastie) | April 07, 2013 21:58
 
 April 07, 2013 21:58 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [tac](../tag/tac), [cfastie](../tag/cfastie)
 

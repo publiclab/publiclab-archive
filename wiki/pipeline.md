@@ -1,6 +1,5 @@
 ---
-title: 'Pipeline'
-tagnames: pipeline, pipeline-monitoring
+title: "Pipeline"\ntagnames: 'pipeline, pipeline-monitoring'
 author: stevie
 path: /wiki/pipeline.md
 nid: 21066

@@ -1,6 +1,5 @@
 ---
-title: 'Rough prototype of video analysis tool for monitoring a pixel's brightness/color over time'
-tagnames: video, photo-monitoring, timelapse, water-quality, turbidity, prototype, image-analysis, video-analysis
+title: "Rough prototype of video analysis tool for monitoring a pixel's brightness/color over time"\ntagnames: 'video, photo-monitoring, timelapse, water-quality, turbidity, prototype, image-analysis, video-analysis'
 author: warren
 path: /notes/warren/07-23-2017/rough-prototype-of-video-analysis-tool-for-monitoring-a-pixel.md
 nid: 14675
@@ -12,7 +11,7 @@ uid: 1
 
 # Rough prototype of video analysis tool for monitoring a pixel's brightness/color over time
 
-by [warren](../profile/warren) July 23, 2017 10:17
+by [warren](../profile/warren) | July 23, 2017 10:17
 
 July 23, 2017 10:17 | Tags: [video](../tag/video), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [prototype](../tag/prototype), [image-analysis](../tag/image-analysis), [video-analysis](../tag/video-analysis)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Kitimat Mapping Workshop'
-tagnames: event, event:rsvp, northwest, date:07-26-2015, rsvp:rowlandr, rsvp:lavery
+title: "Kitimat Mapping Workshop"\ntagnames: 'event, event:rsvp, northwest, date:07-26-2015, rsvp:rowlandr, rsvp:lavery'
 author: ann
 path: /notes/ann/06-26-2015/kitimat-mapping-workshop.md
 nid: 12015
@@ -12,7 +11,7 @@ uid: 421543
 
 # Kitimat Mapping Workshop
 
-by [ann](../profile/ann) June 26, 2015 23:37
+by [ann](../profile/ann) | June 26, 2015 23:37
 
 June 26, 2015 23:37 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [northwest](../tag/northwest), [date:07-26-2015](../tag/date:07-26-2015), [rsvp:rowlandr](../tag/rsvp:rowlandr), [rsvp:lavery](../tag/rsvp:lavery)
 

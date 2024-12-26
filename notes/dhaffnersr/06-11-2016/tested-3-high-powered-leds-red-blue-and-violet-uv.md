@@ -1,6 +1,5 @@
 ---
-title: 'Tested 3 High Powered LEDs Red, Blue and Violet (UV)'
-tagnames: 
+title: "Tested 3 High Powered LEDs Red, Blue and Violet (UV)"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/06-11-2016/tested-3-high-powered-leds-red-blue-and-violet-uv.md
 nid: 13188
@@ -12,7 +11,7 @@ uid: 461120
 
 # Tested 3 High Powered LEDs Red, Blue and Violet (UV)
 
-by [dhaffnersr](../profile/dhaffnersr) June 11, 2016 16:55
+by [dhaffnersr](../profile/dhaffnersr) | June 11, 2016 16:55
 
 June 11, 2016 16:55 | Tags: 
 

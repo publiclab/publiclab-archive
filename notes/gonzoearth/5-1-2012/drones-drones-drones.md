@@ -1,6 +1,5 @@
 ---
-title: 'Drones Drones Drones'
-tagnames: 
+title: "Drones Drones Drones"\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/5-1-2012/drones-drones-drones.md
 nid: 1879
@@ -10,7 +9,7 @@ uid: 12
 
 # Drones Drones Drones
 
-by [gonzoearth](../profile/gonzoearth) May 01, 2012 21:49
+by [gonzoearth](../profile/gonzoearth) | May 01, 2012 21:49
 
 May 01, 2012 21:49 | Tags: 
 

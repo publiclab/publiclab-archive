@@ -1,6 +1,5 @@
 ---
-title: 'Question: HELP NEEDED'
-tagnames: question:imagej, first-time-poster
+title: "Question: HELP NEEDED"\ntagnames: 'question:imagej, first-time-poster'
 author: Monoxyde
 path: /notes/monoxyde/03-18-2015/question-help-needed.md
 nid: 11686
@@ -10,7 +9,7 @@ uid: 432132
 
 # Question: HELP NEEDED
 
-by [Monoxyde](../profile/Monoxyde) March 18, 2015 19:31
+by [Monoxyde](../profile/Monoxyde) | March 18, 2015 19:31
 
 March 18, 2015 19:31 | Tags: [question:imagej](../tag/question:imagej), [first-time-poster](../tag/first-time-poster)
 

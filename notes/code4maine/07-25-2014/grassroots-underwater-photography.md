@@ -1,6 +1,5 @@
 ---
-title: 'Grassroots Underwater Photography?!!'
-tagnames: grassrootsmapping, citizen-science, maine, underwater, invasives, mobius-action-cam, response:10670
+title: "Grassroots Underwater Photography?!!"\ntagnames: 'grassrootsmapping, citizen-science, maine, underwater, invasives, mobius-action-cam, response:10670'
 author: ajawitz
 path: /notes/code4maine/07-25-2014/grassroots-underwater-photography.md
 nid: 10977
@@ -12,7 +11,7 @@ uid: 294634
 
 # Grassroots Underwater Photography?!!
 
-by [ajawitz](../profile/ajawitz) July 25, 2014 16:47
+by [ajawitz](../profile/ajawitz) | July 25, 2014 16:47
 
 July 25, 2014 16:47 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [citizen-science](../tag/citizen-science), [maine](../tag/maine), [underwater](../tag/underwater), [invasives](../tag/invasives), [mobius-action-cam](../tag/mobius-action-cam), [response:10670](../tag/response:10670)
 

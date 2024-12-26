@@ -1,6 +1,5 @@
 ---
-title: 'Capturing location information with trap cam'
-tagnames: timelapse, metadata, geo-tagging, trapcam, geolocation, chain-of-custody
+title: "Capturing location information with trap cam"\ntagnames: 'timelapse, metadata, geo-tagging, trapcam, geolocation, chain-of-custody'
 author: tonyc
 path: /notes/tonyc/07-01-2016/capturing-location-information-with-trap-cam.md
 nid: 13253
@@ -12,7 +11,7 @@ uid: 447491
 
 # Capturing location information with trap cam
 
-by [tonyc](../profile/tonyc) July 01, 2016 19:20
+by [tonyc](../profile/tonyc) | July 01, 2016 19:20
 
 July 01, 2016 19:20 | Tags: [timelapse](../tag/timelapse), [metadata](../tag/metadata), [geo-tagging](../tag/geo-tagging), [trapcam](../tag/trapcam), [geolocation](../tag/geolocation), [chain-of-custody](../tag/chain-of-custody)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Macro system for Spectral Workbench API'
-tagnames: spectrometer, spectralworkbench, api
+title: "Macro system for Spectral Workbench API"\ntagnames: 'spectrometer, spectralworkbench, api'
 author: warren
 path: /notes/warren/3-8-2013/macro-system-spectral-workbench-api.md
 nid: 6247
@@ -12,7 +11,7 @@ uid: 1
 
 # Macro system for Spectral Workbench API
 
-by [warren](../profile/warren) March 08, 2013 21:28
+by [warren](../profile/warren) | March 08, 2013 21:28
 
 March 08, 2013 21:28 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [api](../tag/api)
 

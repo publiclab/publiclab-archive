@@ -1,6 +1,5 @@
 ---
-title: 'Horticultural Spectrometer Upgrade - Planning'
-tagnames: agriculture, spectrometry, spectroscopy, spectroscope, pi-camera, upgrade, first-time-poster, horticulture, pi-calibration
+title: "Horticultural Spectrometer Upgrade - Planning"\ntagnames: 'agriculture, spectrometry, spectroscopy, spectroscope, pi-camera, upgrade, first-time-poster, horticulture, pi-calibration'
 author: jenjimah
 path: /notes/jenjimah/04-07-2019/horticultural-spectroscope-upgrade-planning.md
 nid: 18991
@@ -12,7 +11,7 @@ uid: 505738
 
 # Horticultural Spectrometer Upgrade - Planning
 
-by [jenjimah](../profile/jenjimah) April 07, 2019 01:50
+by [jenjimah](../profile/jenjimah) | April 07, 2019 01:50
 
 April 07, 2019 01:50 | Tags: [agriculture](../tag/agriculture), [spectrometry](../tag/spectrometry), [spectroscopy](../tag/spectroscopy), [spectroscope](../tag/spectroscope), [pi-camera](../tag/pi-camera), [upgrade](../tag/upgrade), [first-time-poster](../tag/first-time-poster), [horticulture](../tag/horticulture), [pi-calibration](../tag/pi-calibration)
 

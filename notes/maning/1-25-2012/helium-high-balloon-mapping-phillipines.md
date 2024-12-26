@@ -1,6 +1,5 @@
 ---
-title: 'Helium high: balloon mapping in the Philippines'
-tagnames: 
+title: "Helium high: balloon mapping in the Philippines"\ntagnames: ''
 author: maning
 path: /notes/maning/1-25-2012/helium-high-balloon-mapping-phillipines.md
 nid: 718
@@ -12,7 +11,7 @@ uid: 468
 
 # Helium high: balloon mapping in the Philippines
 
-by [maning](../profile/maning) January 25, 2012 20:00
+by [maning](../profile/maning) | January 25, 2012 20:00
 
 January 25, 2012 20:00 | Tags: 
 

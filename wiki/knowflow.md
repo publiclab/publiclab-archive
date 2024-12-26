@@ -1,6 +1,5 @@
 ---
-title: 'KnowFlow'
-tagnames: water-quality-monitoring, water-quality, water-quality-sensor, tool, knowflow, parent:data-logging, project:water-quality
+title: "KnowFlow"\ntagnames: 'water-quality-monitoring, water-quality, water-quality-sensor, tool, knowflow, parent:data-logging, project:water-quality'
 author: shanlter
 path: /wiki/knowflow.md
 nid: 14599

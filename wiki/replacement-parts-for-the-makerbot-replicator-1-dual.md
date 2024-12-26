@@ -1,6 +1,5 @@
 ---
-title: 'Replacement Parts for the MakerBot Replicator 1 Dual'
-tagnames: makerbot, maintenance, 3dprinting
+title: "Replacement Parts for the MakerBot Replicator 1 Dual"\ntagnames: 'makerbot, maintenance, 3dprinting'
 author: cfastie
 path: /wiki/replacement-parts-for-the-makerbot-replicator-1-dual.md
 nid: 12608

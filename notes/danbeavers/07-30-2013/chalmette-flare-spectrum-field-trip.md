@@ -1,6 +1,5 @@
 ---
-title: 'Chalmette flare spectrum field trip'
-tagnames: gulf-coast, spectrometer, new-orleans, flare, chalmette
+title: "Chalmette flare spectrum field trip"\ntagnames: 'gulf-coast, spectrometer, new-orleans, flare, chalmette'
 author: danbeavers
 path: /notes/danbeavers/07-30-2013/chalmette-flare-spectrum-field-trip.md
 nid: 8941
@@ -12,7 +11,7 @@ uid: 51
 
 # Chalmette flare spectrum field trip
 
-by [danbeavers](../profile/danbeavers) July 30, 2013 17:03
+by [danbeavers](../profile/danbeavers) | July 30, 2013 17:03
 
 July 30, 2013 17:03 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [new-orleans](../tag/new-orleans), [flare](../tag/flare), [chalmette](../tag/chalmette)
 

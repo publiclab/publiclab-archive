@@ -1,6 +1,5 @@
 ---
-title: 'Field Studies'
-tagnames: parent:education, sidebar:none
+title: "Field Studies"\ntagnames: 'parent:education, sidebar:none'
 author: warren
 path: /wiki/field-studies.md
 nid: 16035

@@ -1,6 +1,5 @@
 ---
-title: 'Gowanus inflow now contained with boom?'
-tagnames: gowanus, plume, boom, watchdog
+title: "Gowanus inflow now contained with boom?"\ntagnames: 'gowanus, plume, boom, watchdog'
 author: warren
 path: /notes/warren/10-1-2012/gowanus-inflow-now-contained-boom.md
 nid: 4096
@@ -12,7 +11,7 @@ uid: 1
 
 # Gowanus inflow now contained with boom?
 
-by [warren](../profile/warren) October 01, 2012 18:53
+by [warren](../profile/warren) | October 01, 2012 18:53
 
 October 01, 2012 18:53 | Tags: [gowanus](../tag/gowanus), [plume](../tag/plume), [boom](../tag/boom), [watchdog](../tag/watchdog)
 

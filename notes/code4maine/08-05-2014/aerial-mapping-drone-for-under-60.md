@@ -1,6 +1,5 @@
 ---
-title: 'Aerial Mapping Drone for Under $60? '
-tagnames: grassrootsmapping, barnstar:basic
+title: "Aerial Mapping Drone for Under $60? "\ntagnames: 'grassrootsmapping, barnstar:basic'
 author: ajawitz
 path: /notes/code4maine/08-05-2014/aerial-mapping-drone-for-under-60.md
 nid: 11015
@@ -12,7 +11,7 @@ uid: 294634
 
 # Aerial Mapping Drone for Under $60? 
 
-by [ajawitz](../profile/ajawitz) August 05, 2014 16:31
+by [ajawitz](../profile/ajawitz) | August 05, 2014 16:31
 
 August 05, 2014 16:31 | Tags: [grassrootsmapping](../tag/grassrootsmapping), [barnstar:basic](../tag/barnstar:basic)
 

@@ -1,6 +1,5 @@
 ---
-title: 'barnraiser'
-tagnames: redirect:12372
+title: "barnraiser"\ntagnames: 'redirect:12372'
 author: warren
 path: /wiki/barnraiser.md
 nid: 15453

@@ -1,6 +1,5 @@
 ---
-title: '3er encuentro de Ciencia Ciudadana'
-tagnames: spain, citizen-science, event, events:spain, event:rsvp, date:12-20-2017, date:11-27-2017
+title: "3er encuentro de Ciencia Ciudadana"\ntagnames: 'spain, citizen-science, event, events:spain, event:rsvp, date:12-20-2017, date:11-27-2017'
 author: imvec
 path: /notes/imvec/11-25-2017/3er-encuentro-de-ciencia-ciudadana.md
 nid: 15236
@@ -12,7 +11,7 @@ uid: 495038
 
 # 3er encuentro de Ciencia Ciudadana
 
-by [imvec](../profile/imvec) November 25, 2017 09:29
+by [imvec](../profile/imvec) | November 25, 2017 09:29
 
 November 25, 2017 09:29 | Tags: [spain](../tag/spain), [citizen-science](../tag/citizen-science), [event](../tag/event), [events:spain](../tag/events:spain), [event:rsvp](../tag/event:rsvp), [date:12-20-2017](../tag/date:12-20-2017), [date:11-27-2017](../tag/date:11-27-2017)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Appalachia Barnraising 2017 Tweets '
-tagnames: barnraising, photos, appalachia-barnraising
+title: "Appalachia Barnraising 2017 Tweets "\ntagnames: 'barnraising, photos, appalachia-barnraising'
 author: stevie
 path: /notes/stevie/07-26-2017/appalachia-barnraising-2017-tweets.md
 nid: 14686
@@ -12,7 +11,7 @@ uid: 422561
 
 # Appalachia Barnraising 2017 Tweets 
 
-by [stevie](../profile/stevie) July 26, 2017 20:40
+by [stevie](../profile/stevie) | July 26, 2017 20:40
 
 July 26, 2017 20:40 | Tags: [barnraising](../tag/barnraising), [photos](../tag/photos), [appalachia-barnraising](../tag/appalachia-barnraising)
 

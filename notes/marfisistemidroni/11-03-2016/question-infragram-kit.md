@@ -1,6 +1,5 @@
 ---
-title: 'Question infragram kit'
-tagnames: infragram, question:infragram, infragram-webcam, question:infragram-webcam, question:multispectral-imaging, multispectral-imaging, question:infragram-point-shoot, first-time-poster
+title: "Question infragram kit"\ntagnames: 'infragram, question:infragram, infragram-webcam, question:infragram-webcam, question:multispectral-imaging, multispectral-imaging, question:infragram-point-shoot, first-time-poster'
 author: marfisistemidroni
 path: /notes/marfisistemidroni/11-03-2016/question-infragram-kit.md
 nid: 13676
@@ -12,7 +11,7 @@ uid: 459185
 
 # Question infragram kit
 
-by [marfisistemidroni](../profile/marfisistemidroni) November 03, 2016 23:38
+by [marfisistemidroni](../profile/marfisistemidroni) | November 03, 2016 23:38
 
 November 03, 2016 23:38 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [infragram-webcam](../tag/infragram-webcam), [question:infragram-webcam](../tag/question:infragram-webcam), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:infragram-point-shoot](../tag/question:infragram-point-shoot), [first-time-poster](../tag/first-time-poster)
 

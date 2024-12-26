@@ -1,6 +1,5 @@
 ---
-title: 'Research Area Reviews Archive'
-tagnames: archive, reviews, research-area-review, parent:reviews
+title: "Research Area Reviews Archive"\ntagnames: 'archive, reviews, research-area-review, parent:reviews'
 author: bhamster
 path: /wiki/reviews-archive.md
 nid: 25290

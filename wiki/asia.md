@@ -1,6 +1,5 @@
 ---
-title: 'asia'
-tagnames: 
+title: "asia"\ntagnames: ''
 author: liz
 path: /wiki/asia.md
 nid: 12018

@@ -1,6 +1,5 @@
 ---
-title: 'Create a run sheet + facilitator script'
-tagnames: barnraising, facilitation, activity:day-before-barnraising, activity:facilitation
+title: "Create a run sheet + facilitator script"\ntagnames: 'barnraising, facilitation, activity:day-before-barnraising, activity:facilitation'
 author: liz
 path: /notes/liz/03-08-2018/create-a-run-sheet-facilitator-script-for-the-barnraising.md
 nid: 15894
@@ -10,7 +9,7 @@ uid: 7
 
 # Create a run sheet + facilitator script
 
-by [liz](../profile/liz) March 08, 2018 16:39
+by [liz](../profile/liz) | March 08, 2018 16:39
 
 March 08, 2018 16:39 | Tags: [barnraising](../tag/barnraising), [facilitation](../tag/facilitation), [activity:day-before-barnraising](../tag/activity:day-before-barnraising), [activity:facilitation](../tag/activity:facilitation)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometry UROP 4/23/11 update'
-tagnames: spectrometer, uv, oil, fluorescence
+title: "Spectrometry UROP 4/23/11 update"\ntagnames: 'spectrometer, uv, oil, fluorescence'
 author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-23-2011/spectrometry-urop-42311-update.md
 nid: 191
@@ -12,7 +11,7 @@ uid: 125
 
 # Spectrometry UROP 4/23/11 update
 
-by [Alex-McCarthy](../profile/Alex-McCarthy) April 24, 2011 01:36
+by [Alex-McCarthy](../profile/Alex-McCarthy) | April 24, 2011 01:36
 
 April 24, 2011 01:36 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [fluorescence](../tag/fluorescence)
 

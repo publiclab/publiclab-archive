@@ -1,6 +1,5 @@
 ---
-title: 'Public Mapping Mission - Newtown Creek'
-tagnames: new-york-city, education, newtown-creek, event, events:new-york-city, blog, nyu, replication:14022, media-lab, govlab, cusp
+title: "Public Mapping Mission - Newtown Creek"\ntagnames: 'new-york-city, education, newtown-creek, event, events:new-york-city, blog, nyu, replication:14022, media-lab, govlab, cusp'
 author: nicholas
 path: /notes/nicholas/12-02-2013/public-mapping-mission-newtown-creek.md
 nid: 9843
@@ -12,7 +11,7 @@ uid: 53894
 
 # Public Mapping Mission - Newtown Creek
 
-by [nicholas](../profile/nicholas) December 02, 2013 16:53
+by [nicholas](../profile/nicholas) | December 02, 2013 16:53
 
 December 02, 2013 16:53 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [newtown-creek](../tag/newtown-creek), [event](../tag/event), [events:new-york-city](../tag/events:new-york-city), [blog](../tag/blog), [nyu](../tag/nyu), [replication:14022](../tag/replication:14022), [media-lab](../tag/media-lab), [govlab](../tag/govlab), [cusp](../tag/cusp)
 

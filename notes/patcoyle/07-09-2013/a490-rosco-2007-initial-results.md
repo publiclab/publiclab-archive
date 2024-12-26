@@ -1,6 +1,5 @@
 ---
-title: 'A490 Rosco 2007 initial results'
-tagnames: near-infrared-camera, ndvi, infragram, rosco
+title: "A490 Rosco 2007 initial results"\ntagnames: 'near-infrared-camera, ndvi, infragram, rosco'
 author: patcoyle
 path: /notes/patcoyle/07-09-2013/a490-rosco-2007-initial-results.md
 nid: 8785
@@ -12,7 +11,7 @@ uid: 77
 
 # A490 Rosco 2007 initial results
 
-by [patcoyle](../profile/patcoyle) July 09, 2013 22:57
+by [patcoyle](../profile/patcoyle) | July 09, 2013 22:57
 
 July 09, 2013 22:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [rosco](../tag/rosco)
 

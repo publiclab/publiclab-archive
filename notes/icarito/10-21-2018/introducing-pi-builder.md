@@ -1,6 +1,5 @@
 ---
-title: 'Introducing Pi Builder'
-tagnames: raspberry-pi, blog, raspbian, with:warren, pi-camera, raspberry-pi-cameras, activity:raspberry-pi, activity:pi-camera, response:15289, response:9719, response:16180, pi-builder
+title: "Introducing Pi Builder"\ntagnames: 'raspberry-pi, blog, raspbian, with:warren, pi-camera, raspberry-pi-cameras, activity:raspberry-pi, activity:pi-camera, response:15289, response:9719, response:16180, pi-builder'
 author: icarito
 path: /notes/icarito/10-21-2018/introducing-pi-builder.md
 nid: 17262
@@ -12,7 +11,7 @@ uid: 448589
 
 # Introducing Pi Builder
 
-by [icarito](../profile/icarito) October 10, 2018 03:13
+by [icarito](../profile/icarito) | October 10, 2018 03:13
 
 October 10, 2018 03:13 | Tags: [raspberry-pi](../tag/raspberry-pi), [blog](../tag/blog), [raspbian](../tag/raspbian), [with:warren](../tag/with:warren), [pi-camera](../tag/pi-camera), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:pi-camera](../tag/activity:pi-camera), [response:15289](../tag/response:15289), [response:9719](../tag/response:9719), [response:16180](../tag/response:16180), [pi-builder](../tag/pi-builder)
 

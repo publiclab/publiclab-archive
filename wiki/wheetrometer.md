@@ -1,6 +1,5 @@
 ---
-title: 'wheetrometer'
-tagnames: 
+title: "wheetrometer"\ntagnames: ''
 author: liz
 path: /wiki/wheetrometer.md
 nid: 17111

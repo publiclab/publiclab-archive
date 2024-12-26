@@ -1,6 +1,5 @@
 ---
-title: 'SoC proposal: Image Sequencer: Broadening Avenues'
-tagnames: software, gsoc, soc, response:13975, image-sequencer, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, gsoc-19-proposal
+title: "SoC proposal: Image Sequencer: Broadening Avenues"\ntagnames: 'software, gsoc, soc, response:13975, image-sequencer, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, gsoc-19-proposal'
 author: vibhordelgupta
 path: /notes/vibhordelgupta/04-09-2019/soc-proposal-image-sequencer-broadening-avenues.md
 nid: 19010
@@ -10,7 +9,7 @@ uid: 568180
 
 # SoC proposal: Image Sequencer: Broadening Avenues
 
-by [vibhordelgupta](../profile/vibhordelgupta) April 09, 2019 13:48
+by [vibhordelgupta](../profile/vibhordelgupta) | April 09, 2019 13:48
 
 April 09, 2019 13:48 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [image-sequencer](../tag/image-sequencer), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [gsoc-19-proposal](../tag/gsoc-19-proposal)
 

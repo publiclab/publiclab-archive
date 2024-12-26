@@ -1,6 +1,5 @@
 ---
-title: 'Super Redstone'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, infragram, 3d-printing, super-red, logging, gigapan, makerbot, response:10230, northeast, redstone
+title: "Super Redstone"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, infragram, 3d-printing, super-red, logging, gigapan, makerbot, response:10230, northeast, redstone'
 author: cfastie
 path: /notes/cfastie/06-01-2014/super-redstone.md
 nid: 10523
@@ -12,7 +11,7 @@ uid: 554
 
 # Super Redstone
 
-by [cfastie](../profile/cfastie) June 01, 2014 21:57
+by [cfastie](../profile/cfastie) | June 01, 2014 21:57
 
 June 01, 2014 21:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [kap](../tag/kap), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [super-red](../tag/super-red), [logging](../tag/logging), [gigapan](../tag/gigapan), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230), [northeast](../tag/northeast), [redstone](../tag/redstone)
 

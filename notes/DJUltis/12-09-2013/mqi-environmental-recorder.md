@@ -1,6 +1,5 @@
 ---
-title: 'MQI Environmental Recorder'
-tagnames: indoor-air-quality-mapping, thermal-flashlight, methane, natural-gas, co, lpg
+title: "MQI Environmental Recorder"\ntagnames: 'indoor-air-quality-mapping, thermal-flashlight, methane, natural-gas, co, lpg'
 author: DJUltis
 path: /notes/DJUltis/12-09-2013/mqi-environmental-recorder.md
 nid: 9861
@@ -12,7 +11,7 @@ uid: 46348
 
 # MQI Environmental Recorder
 
-by [DJUltis](../profile/DJUltis) December 09, 2013 06:02
+by [DJUltis](../profile/DJUltis) | December 09, 2013 06:02
 
 December 09, 2013 06:02 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [thermal-flashlight](../tag/thermal-flashlight), [methane](../tag/methane), [natural-gas](../tag/natural-gas), [co](../tag/co), [lpg](../tag/lpg)
 

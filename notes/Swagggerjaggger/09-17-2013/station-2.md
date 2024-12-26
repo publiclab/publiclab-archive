@@ -1,6 +1,5 @@
 ---
-title: 'Station 2'
-tagnames: 
+title: "Station 2"\ntagnames: ''
 author: Swagggerjaggger
 path: /notes/Swagggerjaggger/09-17-2013/station-2.md
 nid: 9340
@@ -12,7 +11,7 @@ uid: 258401
 
 # Station 2
 
-by [Swagggerjaggger](../profile/Swagggerjaggger) September 17, 2013 22:00
+by [Swagggerjaggger](../profile/Swagggerjaggger) | September 17, 2013 22:00
 
 September 17, 2013 22:00 | Tags: 
 

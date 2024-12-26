@@ -1,6 +1,5 @@
 ---
-title: 'Wiki Discussion'
-tagnames: software, gsoc, gsoc-2017, soc, soc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, first-time-poster
+title: "Wiki Discussion"\ntagnames: 'software, gsoc, gsoc-2017, soc, soc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, first-time-poster'
 author: Ashan
 path: /notes/Ashan/03-13-2017/wiki-discussion.md
 nid: 14010
@@ -12,7 +11,7 @@ uid: 502016
 
 # Wiki Discussion
 
-by [Ashan](../profile/Ashan) March 13, 2017 19:36
+by [Ashan](../profile/Ashan) | March 13, 2017 19:36
 
 March 13, 2017 19:36 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [gsoc-2017-accepted](../tag/gsoc-2017-accepted), [first-time-poster](../tag/first-time-poster)
 

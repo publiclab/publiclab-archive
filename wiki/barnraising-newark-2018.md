@@ -1,6 +1,5 @@
 ---
-title: 'barnraising newark 2018'
-tagnames: barnraising, parent:barnraising, barnraising-newark-2018, barnraising-2018
+title: "barnraising newark 2018"\ntagnames: 'barnraising, parent:barnraising, barnraising-newark-2018, barnraising-2018'
 author: liz
 path: /wiki/barnraising-newark-2018.md
 nid: 16786

@@ -1,6 +1,5 @@
 ---
-title: 'Can open source beat this?'
-tagnames: open-hardware, temperature, alaska, sensors, light, microcontroller
+title: "Can open source beat this?"\ntagnames: 'open-hardware, temperature, alaska, sensors, light, microcontroller'
 author: cfastie
 path: /notes/cfastie/07-20-2014/can-open-source-beat-this.md
 nid: 10939
@@ -12,7 +11,7 @@ uid: 554
 
 # Can open source beat this?
 
-by [cfastie](../profile/cfastie) July 20, 2014 18:47
+by [cfastie](../profile/cfastie) | July 20, 2014 18:47
 
 July 20, 2014 18:47 | Tags: [open-hardware](../tag/open-hardware), [temperature](../tag/temperature), [alaska](../tag/alaska), [sensors](../tag/sensors), [light](../tag/light), [microcontroller](../tag/microcontroller)
 

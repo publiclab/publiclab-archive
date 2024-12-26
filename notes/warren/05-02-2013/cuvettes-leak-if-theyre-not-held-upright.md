@@ -1,6 +1,5 @@
 ---
-title: 'Cuvettes leak if theyre not held upright'
-tagnames: spectrometer, cuvettes, sample-containers, sample-prep
+title: "Cuvettes leak if theyre not held upright"\ntagnames: 'spectrometer, cuvettes, sample-containers, sample-prep'
 author: warren
 path: /notes/warren/05-02-2013/cuvettes-leak-if-theyre-not-held-upright.md
 nid: 7205
@@ -12,7 +11,7 @@ uid: 1
 
 # Cuvettes leak if theyre not held upright
 
-by [warren](../profile/warren) May 02, 2013 14:18
+by [warren](../profile/warren) | May 02, 2013 14:18
 
 May 02, 2013 14:18 | Tags: [spectrometer](../tag/spectrometer), [cuvettes](../tag/cuvettes), [sample-containers](../tag/sample-containers), [sample-prep](../tag/sample-prep)
 

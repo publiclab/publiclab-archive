@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Code of Conduct－Chinese Version'
-tagnames: china, conduct, code-of-conduct, lang:zh, first-time-poster, chinese-version
+title: "Public Lab Code of Conduct－Chinese Version"\ntagnames: 'china, conduct, code-of-conduct, lang:zh, first-time-poster, chinese-version'
 author: EdithCheung
 path: /notes/EdithCheung/11-27-2018/public-lab-code-of-conduct-chinese-version.md
 nid: 17760
@@ -12,7 +11,7 @@ uid: 513991
 
 # Public Lab Code of Conduct－Chinese Version
 
-by [EdithCheung](../profile/EdithCheung) November 27, 2018 02:31
+by [EdithCheung](../profile/EdithCheung) | November 27, 2018 02:31
 
 November 27, 2018 02:31 | Tags: [china](../tag/china), [conduct](../tag/conduct), [code-of-conduct](../tag/code-of-conduct), [lang:zh](../tag/lang:zh), [first-time-poster](../tag/first-time-poster), [chinese-version](../tag/chinese-version)
 

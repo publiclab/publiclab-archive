@@ -1,6 +1,5 @@
 ---
-title: 'Nighttime Balloon Mapping'
-tagnames: balloon-mapping
+title: "Nighttime Balloon Mapping"\ntagnames: 'balloon-mapping'
 author: jbreen
 path: /notes/jbreen/10-17-2013/nighttime-balloon-mapping.md
 nid: 9497
@@ -12,7 +11,7 @@ uid: 326
 
 # Nighttime Balloon Mapping
 
-by [jbreen](../profile/jbreen) October 17, 2013 22:29
+by [jbreen](../profile/jbreen) | October 17, 2013 22:29
 
 October 17, 2013 22:29 | Tags: [balloon-mapping](../tag/balloon-mapping)
 

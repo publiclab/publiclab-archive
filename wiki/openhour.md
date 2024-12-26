@@ -1,6 +1,5 @@
 ---
-title: 'OpenHour'
-tagnames: community, events, openhour, parent:events, fenceline
+title: "OpenHour"\ntagnames: 'community, events, openhour, parent:events, fenceline'
 author: liz
 path: /wiki/openhour.md
 nid: 10388

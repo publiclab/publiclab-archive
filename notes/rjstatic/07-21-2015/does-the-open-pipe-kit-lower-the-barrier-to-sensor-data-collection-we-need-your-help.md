@@ -1,6 +1,5 @@
 ---
-title: 'Does the Open Pipe Kit lower the barrier to sensor data collection? We need your help.'
-tagnames: kit, blog, monitoring, environmental, open-pipe-kit, opk, open, pipe
+title: "Does the Open Pipe Kit lower the barrier to sensor data collection? We need your help."\ntagnames: 'kit, blog, monitoring, environmental, open-pipe-kit, opk, open, pipe'
 author: rjstatic
 path: /07-21-2015/does-the-open-pipe-kit-lower-the-barrier-to-sensor-data-collection-we-need-your-help.md
 nid: 12084
@@ -12,7 +11,7 @@ uid: 174
 
 # Does the Open Pipe Kit lower the barrier to sensor data collection? We need your help.
 
-by [rjstatic](../profile/rjstatic) July 21, 2015 06:13
+by [rjstatic](../profile/rjstatic) | July 21, 2015 06:13
 
 July 21, 2015 06:13 | Tags: [kit](../tag/kit), [blog](../tag/blog), [monitoring](../tag/monitoring), [environmental](../tag/environmental), [open-pipe-kit](../tag/open-pipe-kit), [opk](../tag/opk), [open](../tag/open), [pipe](../tag/pipe)
 

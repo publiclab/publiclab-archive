@@ -1,6 +1,5 @@
 ---
-title: 'Some amazing kite aerial thermal photography from West Lothian Archeology'
-tagnames: thermal-photography, kite-mapping, archaeology, west-lothian-archaeology, thermal
+title: "Some amazing kite aerial thermal photography from West Lothian Archeology"\ntagnames: 'thermal-photography, kite-mapping, archaeology, west-lothian-archaeology, thermal'
 author: warren
 path: /notes/warren/11-28-2011/some-amazing-kite-aerial-thermal-photography-west-lothian-archeology.md
 nid: 586
@@ -12,7 +11,7 @@ uid: 1
 
 # Some amazing kite aerial thermal photography from West Lothian Archeology
 
-by [warren](../profile/warren) November 28, 2011 18:08
+by [warren](../profile/warren) | November 28, 2011 18:08
 
 November 28, 2011 18:08 | Tags: [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [archaeology](../tag/archaeology), [west-lothian-archaeology](../tag/west-lothian-archaeology), [thermal](../tag/thermal)
 

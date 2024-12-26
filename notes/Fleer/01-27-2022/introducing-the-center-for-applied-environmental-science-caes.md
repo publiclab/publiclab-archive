@@ -1,6 +1,5 @@
 ---
-title: 'Introducing the Center for Applied Environmental Science (CAES)'
-tagnames: air-quality, climate-change, oil-and-gas, lat:0, lon:0, first-time-poster, zoom:1, law-and-policy
+title: "Introducing the Center for Applied Environmental Science (CAES)"\ntagnames: 'air-quality, climate-change, oil-and-gas, lat:0, lon:0, first-time-poster, zoom:1, law-and-policy'
 author: Fleer
 path: /notes/Fleer/01-27-2022/introducing-the-center-for-applied-environmental-science-caes.md
 nid: 29069
@@ -12,7 +11,7 @@ uid: 785824
 
 # Introducing the Center for Applied Environmental Science (CAES)
 
-by [Fleer](../profile/Fleer) January 27, 2022 18:51
+by [Fleer](../profile/Fleer) | January 27, 2022 18:51
 
 January 27, 2022 18:51 | Tags: [air-quality](../tag/air-quality), [climate-change](../tag/climate-change), [oil-and-gas](../tag/oil-and-gas), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [first-time-poster](../tag/first-time-poster), [zoom:1](../tag/zoom:1), [law-and-policy](../tag/law-and-policy)
 

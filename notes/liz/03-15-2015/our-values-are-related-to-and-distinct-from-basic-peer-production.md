@@ -1,6 +1,5 @@
 ---
-title: 'our values are related to and distinct from basic peer production'
-tagnames: community, values-statement, peer-production
+title: "our values are related to and distinct from basic peer production"\ntagnames: 'community, values-statement, peer-production'
 author: liz
 path: /notes/liz/03-15-2015/our-values-are-related-to-and-distinct-from-basic-peer-production.md
 nid: 11680
@@ -12,7 +11,7 @@ uid: 7
 
 # our values are related to and distinct from basic peer production
 
-by [liz](../profile/liz) March 15, 2015 14:34
+by [liz](../profile/liz) | March 15, 2015 14:34
 
 March 15, 2015 14:34 | Tags: [community](../tag/community), [values-statement](../tag/values-statement), [peer-production](../tag/peer-production)
 

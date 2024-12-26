@@ -1,6 +1,5 @@
 ---
-title: 'Publication Planning Archive'
-tagnames: writing, publications
+title: "Publication Planning Archive"\ntagnames: 'writing, publications'
 author: warren
 path: /wiki/publication-planning-archive.md
 nid: 57

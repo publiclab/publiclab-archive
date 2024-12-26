@@ -1,6 +1,5 @@
 ---
-title: 'Open Pipe Kit architecture'
-tagnames: 
+title: "Open Pipe Kit architecture"\ntagnames: ''
 author: rjstatic
 path: /wiki/open-pipe-kit-architecture.md
 nid: 11379

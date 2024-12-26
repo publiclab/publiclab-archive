@@ -1,6 +1,5 @@
 ---
-title: 'Harrisburg students use PLOTS balloon mapping (local TV clip)'
-tagnames: balloon-mapping
+title: "Harrisburg students use PLOTS balloon mapping (local TV clip)"\ntagnames: 'balloon-mapping'
 author: warren
 path: /notes/warren/4-6-2012/harrisburg-students-use-plots-balloon-mapping-local-tv-clip.md
 nid: 1627
@@ -12,7 +11,7 @@ uid: 1
 
 # Harrisburg students use PLOTS balloon mapping (local TV clip)
 
-by [warren](../profile/warren) April 06, 2012 18:16
+by [warren](../profile/warren) | April 06, 2012 18:16
 
 April 06, 2012 18:16 | Tags: [balloon-mapping](../tag/balloon-mapping)
 

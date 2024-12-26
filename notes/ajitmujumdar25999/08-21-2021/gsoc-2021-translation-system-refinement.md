@@ -1,6 +1,5 @@
 ---
-title: 'GSoC 2021 : Translation System Refinement'
-tagnames: soc, soc-2021, soc-2021-final, response:26143
+title: "GSoC 2021 : Translation System Refinement"\ntagnames: 'soc, soc-2021, soc-2021-final, response:26143'
 author: ajitmujumdar25999
 path: /notes/ajitmujumdar25999/08-21-2021/gsoc-2021-translation-system-refinement.md
 nid: 27611
@@ -10,7 +9,7 @@ uid: 654056
 
 # GSoC 2021 : Translation System Refinement
 
-by [ajitmujumdar25999](../profile/ajitmujumdar25999) August 21, 2021 22:20
+by [ajitmujumdar25999](../profile/ajitmujumdar25999) | August 21, 2021 22:20
 
 August 21, 2021 22:20 | Tags: [soc](../tag/soc), [soc-2021](../tag/soc-2021), [soc-2021-final](../tag/soc-2021-final), [response:26143](../tag/response:26143)
 

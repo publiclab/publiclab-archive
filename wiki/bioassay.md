@@ -1,6 +1,5 @@
 ---
-title: 'Bioassay'
-tagnames: diy-bio, soil, water-quality, bioassay, method, soil-contamination, bioluminescence, effect-based-test
+title: "Bioassay"\ntagnames: 'diy-bio, soil, water-quality, bioassay, method, soil-contamination, bioluminescence, effect-based-test'
 author: bhamster
 path: /wiki/bioassay.md
 nid: 25807

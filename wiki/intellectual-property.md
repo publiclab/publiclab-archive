@@ -1,6 +1,5 @@
 ---
-title: 'Intellectual Property'
-tagnames: 
+title: "Intellectual Property"\ntagnames: ''
 author: Bronwen
 path: /wiki/intellectual-property.md
 nid: 11295

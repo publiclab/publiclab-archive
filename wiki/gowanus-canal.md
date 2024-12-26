@@ -1,6 +1,5 @@
 ---
-title: 'gowanus canal'
-tagnames: 
+title: "gowanus canal"\ntagnames: ''
 author: liz
 path: /wiki/gowanus-canal.md
 nid: 5901

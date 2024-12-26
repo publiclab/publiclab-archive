@@ -1,6 +1,5 @@
 ---
-title: 'HOW WE RECOLLECT OUR DATA'
-tagnames: landfill, data, lang:es, weather, field, project, spanish, air-quality-testing, air-quality-monitoring, VVAMP, prompt:vvamp
+title: "HOW WE RECOLLECT OUR DATA"\ntagnames: 'landfill, data, lang:es, weather, field, project, spanish, air-quality-testing, air-quality-monitoring, VVAMP, prompt:vvamp'
 author: denissebn_06
 path: /notes/denissebn_06/08-13-2021/how-we-recollect-our-data.md
 nid: 27515
@@ -12,7 +11,7 @@ uid: 749988
 
 # HOW WE RECOLLECT OUR DATA
 
-by [denissebn_06](../profile/denissebn_06) August 13, 2021 23:53
+by [denissebn_06](../profile/denissebn_06) | August 13, 2021 23:53
 
 August 13, 2021 23:53 | Tags: [landfill](../tag/landfill), [data](../tag/data), [lang:es](../tag/lang:es), [weather](../tag/weather), [field](../tag/field), [project](../tag/project), [spanish](../tag/spanish), [air-quality-testing](../tag/air-quality-testing), [air-quality-monitoring](../tag/air-quality-monitoring), [VVAMP](../tag/VVAMP), [prompt:vvamp](../tag/prompt:vvamp)
 

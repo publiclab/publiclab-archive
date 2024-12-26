@@ -1,6 +1,5 @@
 ---
-title: 'SoC proposal: Community-toolbox'
-tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals
+title: "SoC proposal: Community-toolbox"\ntagnames: 'software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals'
 author: jainsubhahu
 path: /notes/jainsubhahu/03-19-2019/soc-proposal.md
 nid: 18780
@@ -12,7 +11,7 @@ uid: 558495
 
 # SoC proposal: Community-toolbox
 
-by [jainsubhahu](../profile/jainsubhahu) March 19, 2019 20:19
+by [jainsubhahu](../profile/jainsubhahu) | March 19, 2019 20:19
 
 March 19, 2019 20:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Jelly Belly'
-tagnames: spectrometer, mobile-phone-camera, fold-up-mini-spectrometer, spectrometer-calibration
+title: "Jelly Belly"\ntagnames: 'spectrometer, mobile-phone-camera, fold-up-mini-spectrometer, spectrometer-calibration'
 author: cfastie
 path: /notes/cfastie/1-9-2013/jelly-belly.md
 nid: 5493
@@ -12,7 +11,7 @@ uid: 554
 
 # Jelly Belly
 
-by [cfastie](../profile/cfastie) January 09, 2013 16:28
+by [cfastie](../profile/cfastie) | January 09, 2013 16:28
 
 January 09, 2013 16:28 | Tags: [spectrometer](../tag/spectrometer), [mobile-phone-camera](../tag/mobile-phone-camera), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [spectrometer-calibration](../tag/spectrometer-calibration)
 

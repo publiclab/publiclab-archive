@@ -1,6 +1,5 @@
 ---
-title: 'Learning and Evaluation Manager'
-tagnames: evaluation, jobs
+title: "Learning and Evaluation Manager"\ntagnames: 'evaluation, jobs'
 author: thewrightjess
 path: /notes/thewrightjess/01-20-2021/learning-and-evaluation-manager.md
 nid: 25506
@@ -12,7 +11,7 @@ uid: 603909
 
 # Learning and Evaluation Manager
 
-by [thewrightjess](../profile/thewrightjess) January 20, 2021 20:24
+by [thewrightjess](../profile/thewrightjess) | January 20, 2021 20:24
 
 January 20, 2021 20:24 | Tags: [evaluation](../tag/evaluation), [jobs](../tag/jobs)
 

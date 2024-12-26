@@ -1,6 +1,5 @@
 ---
-title: 'Does anyone know someone at Archive.org who can enable CORS for images of Harvey pollution?'
-tagnames: archive, leaflet, exif, answered, photo-sharing, archive.org, question:photo-sharing
+title: "Does anyone know someone at Archive.org who can enable CORS for images of Harvey pollution?"\ntagnames: 'archive, leaflet, exif, answered, photo-sharing, archive.org, question:photo-sharing'
 author: warren
 path: /notes/warren/09-22-2017/does-anyone-know-someone-at-archive-org-who-can-enable-cors-for-images-of-harvey-pollution.md
 nid: 14933
@@ -10,7 +9,7 @@ uid: 1
 
 # Does anyone know someone at Archive.org who can enable CORS for images of Harvey pollution?
 
-by [warren](../profile/warren) September 22, 2017 04:16
+by [warren](../profile/warren) | September 22, 2017 04:16
 
 September 22, 2017 04:16 | Tags: [archive](../tag/archive), [leaflet](../tag/leaflet), [exif](../tag/exif), [answered](../tag/answered), [photo-sharing](../tag/photo-sharing), [archive.org](../tag/archive.org), [question:photo-sharing](../tag/question:photo-sharing)
 

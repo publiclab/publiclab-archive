@@ -1,6 +1,5 @@
 ---
-title: 'are real-time PM 2.5 push warnings from the PurpleAir possible?'
-tagnames: purpleair, question:purpleair, first-time-poster
+title: "are real-time PM 2.5 push warnings from the PurpleAir possible?"\ntagnames: 'purpleair, question:purpleair, first-time-poster'
 author: purpleairfan
 path: /notes/purpleairfan/10-04-2021/are-real-time-pm-2-5-push-warnings-from-the-purpleair-possible.md
 nid: 27829
@@ -10,7 +9,7 @@ uid: 774511
 
 # are real-time PM 2.5 push warnings from the PurpleAir possible?
 
-by [purpleairfan](../profile/purpleairfan) October 04, 2021 22:32
+by [purpleairfan](../profile/purpleairfan) | October 04, 2021 22:32
 
 October 04, 2021 22:32 | Tags: [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [first-time-poster](../tag/first-time-poster)
 

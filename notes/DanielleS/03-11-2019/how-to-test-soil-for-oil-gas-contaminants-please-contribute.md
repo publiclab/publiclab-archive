@@ -1,6 +1,5 @@
 ---
-title: 'How to Test Soil for Oil & Gas Contaminants* please contribute '
-tagnames: soil, crude, benzene, petroleum, reagents, ethylbenzene, xylene, colorimetry, soil-testing, gasoline, draft, diesel, oil-and-gas, activity:soil-sampling, hydrocarbons, activity:oil-testing, toluene, activity:soil, soil-contamination, carcinogens, screen-soil
+title: "How to Test Soil for Oil & Gas Contaminants* please contribute "\ntagnames: 'soil, crude, benzene, petroleum, reagents, ethylbenzene, xylene, colorimetry, soil-testing, gasoline, draft, diesel, oil-and-gas, activity:soil-sampling, hydrocarbons, activity:oil-testing, toluene, activity:soil, soil-contamination, carcinogens, screen-soil'
 author: DanielleS
 path: /notes/DanielleS/03-11-2019/how-to-test-soil-for-oil-gas-contaminants-please-contribute.md
 nid: 18508
@@ -12,7 +11,7 @@ uid: 569208
 
 # How to Test Soil for Oil & Gas Contaminants* please contribute 
 
-by [DanielleS](../profile/DanielleS) March 11, 2019 01:51
+by [DanielleS](../profile/DanielleS) | March 11, 2019 01:51
 
 March 11, 2019 01:51 | Tags: [soil](../tag/soil), [crude](../tag/crude), [benzene](../tag/benzene), [petroleum](../tag/petroleum), [reagents](../tag/reagents), [ethylbenzene](../tag/ethylbenzene), [xylene](../tag/xylene), [colorimetry](../tag/colorimetry), [soil-testing](../tag/soil-testing), [gasoline](../tag/gasoline), [draft](../tag/draft), [diesel](../tag/diesel), [oil-and-gas](../tag/oil-and-gas), [activity:soil-sampling](../tag/activity:soil-sampling), [hydrocarbons](../tag/hydrocarbons), [activity:oil-testing](../tag/activity:oil-testing), [toluene](../tag/toluene), [activity:soil](../tag/activity:soil), [soil-contamination](../tag/soil-contamination), [carcinogens](../tag/carcinogens), [screen-soil](../tag/screen-soil)
 

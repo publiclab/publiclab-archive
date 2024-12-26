@@ -1,6 +1,5 @@
 ---
-title: 'Documenting Runoff with Photography'
-tagnames: wisconsin, blog, frac-sand, with:gretchengehrke, parent:frac-sand, communityscienceforum
+title: "Documenting Runoff with Photography"\ntagnames: 'wisconsin, blog, frac-sand, with:gretchengehrke, parent:frac-sand, communityscienceforum'
 author: mlamadrid
 path: /notes/mlamadrid/06-22-2016/documenting-runoff-with-photography.md
 nid: 13224
@@ -12,7 +11,7 @@ uid: 45586
 
 # Documenting Runoff with Photography
 
-by [mlamadrid](../profile/mlamadrid) June 22, 2016 01:00
+by [mlamadrid](../profile/mlamadrid) | June 22, 2016 01:00
 
 June 22, 2016 01:00 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:gretchengehrke](../tag/with:gretchengehrke), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum)
 

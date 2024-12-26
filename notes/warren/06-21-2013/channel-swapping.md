@@ -1,6 +1,5 @@
 ---
-title: 'Channel swapping'
-tagnames: near-infrared-camera, ndvi, infrared, infragram, infrablue, response:8190, tests, response:8261, infragram-conversion
+title: "Channel swapping"\ntagnames: 'near-infrared-camera, ndvi, infrared, infragram, infrablue, response:8190, tests, response:8261, infragram-conversion'
 author: warren
 path: /notes/warren/06-21-2013/channel-swapping.md
 nid: 8353
@@ -12,7 +11,7 @@ uid: 1
 
 # Channel swapping
 
-by [warren](../profile/warren) June 21, 2013 15:15
+by [warren](../profile/warren) | June 21, 2013 15:15
 
 June 21, 2013 15:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [response:8190](../tag/response:8190), [tests](../tag/tests), [response:8261](../tag/response:8261), [infragram-conversion](../tag/infragram-conversion)
 

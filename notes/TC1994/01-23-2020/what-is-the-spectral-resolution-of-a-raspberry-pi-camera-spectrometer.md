@@ -1,6 +1,5 @@
 ---
-title: 'What is the spectral resolution of a Raspberry Pi camera spectrometer?'
-tagnames: raspberry-pi-spectrometer, question:raspberry-pi-spectrometer, first-time-poster
+title: "What is the spectral resolution of a Raspberry Pi camera spectrometer?"\ntagnames: 'raspberry-pi-spectrometer, question:raspberry-pi-spectrometer, first-time-poster'
 author: TC1994
 path: /notes/TC1994/01-23-2020/what-is-the-spectral-resolution-of-a-raspberry-pi-camera-spectrometer.md
 nid: 22373
@@ -10,7 +9,7 @@ uid: 656847
 
 # What is the spectral resolution of a Raspberry Pi camera spectrometer?
 
-by [TC1994](../profile/TC1994) January 23, 2020 06:13
+by [TC1994](../profile/TC1994) | January 23, 2020 06:13
 
 January 23, 2020 06:13 | Tags: [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [first-time-poster](../tag/first-time-poster)
 

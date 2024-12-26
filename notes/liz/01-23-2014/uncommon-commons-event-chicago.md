@@ -1,6 +1,5 @@
 ---
-title: 'Uncommon Commons event Chicago'
-tagnames: events, chicago
+title: "Uncommon Commons event Chicago"\ntagnames: 'events, chicago'
 author: liz
 path: /notes/liz/01-23-2014/uncommon-commons-event-chicago.md
 nid: 9966
@@ -12,7 +11,7 @@ uid: 7
 
 # Uncommon Commons event Chicago
 
-by [liz](../profile/liz) January 23, 2014 15:13
+by [liz](../profile/liz) | January 23, 2014 15:13
 
 January 23, 2014 15:13 | Tags: [events](../tag/events), [chicago](../tag/chicago)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Estimating the Volume and Weight of Waste Piles'
-tagnames: grassrootsmappingforum, waste, trash, petcoke, chicago, midwest, gmf-6, style:fancy, with:holden, method
+title: "Estimating the Volume and Weight of Waste Piles"\ntagnames: 'grassrootsmappingforum, waste, trash, petcoke, chicago, midwest, gmf-6, style:fancy, with:holden, method'
 author: mollydanielsson
 path: /wiki/estimating-the-volume-and-weight-of-waste-piles.md
 nid: 11706

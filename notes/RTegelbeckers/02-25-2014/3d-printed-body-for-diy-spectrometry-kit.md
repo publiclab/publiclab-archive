@@ -1,6 +1,5 @@
 ---
-title: '3D Printed body for DIY Spectrometry Kit'
-tagnames: spectrometer, dsk, 3d-printing, instructables, response:10065
+title: "3D Printed body for DIY Spectrometry Kit"\ntagnames: 'spectrometer, dsk, 3d-printing, instructables, response:10065'
 author: RTegelbeckers
 path: /notes/RTegelbeckers/02-25-2014/3d-printed-body-for-diy-spectrometry-kit.md
 nid: 10066
@@ -12,7 +11,7 @@ uid: 421058
 
 # 3D Printed body for DIY Spectrometry Kit
 
-by [RTegelbeckers](../profile/RTegelbeckers) February 25, 2014 19:22
+by [RTegelbeckers](../profile/RTegelbeckers) | February 25, 2014 19:22
 
 February 25, 2014 19:22 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [3d-printing](../tag/3d-printing), [instructables](../tag/instructables), [response:10065](../tag/response:10065)
 

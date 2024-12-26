@@ -1,6 +1,5 @@
 ---
-title: 'Did US Civilian Air Patrol fly over your house after that Federally declared disaster?  Use a quick interface to find the photo!'
-tagnames: aerial-photography, disaster-response, aerialphotography, zoom:11, damageassessment, lat:29.594356, lon:-90.702538
+title: "Did US Civilian Air Patrol fly over your house after that Federally declared disaster?  Use a quick interface to find the photo!"\ntagnames: 'aerial-photography, disaster-response, aerialphotography, zoom:11, damageassessment, lat:29.594356, lon:-90.702538'
 author: eustatic
 path: /09-24-2021/did-us-civilian-air-patrol-fly-over-your-house-after-that-federally-declared-disaster-use-a-quick-interface-to-find-the-photo.md
 nid: 27799
@@ -12,7 +11,7 @@ uid: 379
 
 # Did US Civilian Air Patrol fly over your house after that Federally declared disaster?  Use a quick interface to find the photo!
 
-by [eustatic](../profile/eustatic) September 24, 2021 20:51
+by [eustatic](../profile/eustatic) | September 24, 2021 20:51
 
 September 24, 2021 20:51 | Tags: [aerial-photography](../tag/aerial-photography), [disaster-response](../tag/disaster-response), [aerialphotography](../tag/aerialphotography), [zoom:11](../tag/zoom:11), [damageassessment](../tag/damageassessment), [lat:29.594356](../tag/lat:29.594356), [lon:-90.702538](../tag/lon:-90.702538)
 

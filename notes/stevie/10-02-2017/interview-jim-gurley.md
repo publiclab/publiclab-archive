@@ -1,6 +1,5 @@
 ---
-title: 'Interview: Jim Gurley'
-tagnames: interview, blog, silica, frac-sand, midwest, grassroots, mid-west, fracsand, parent:frac-sand, community-organizing, story:frac-sand, interview-series, series:community-interviews
+title: "Interview: Jim Gurley"\ntagnames: 'interview, blog, silica, frac-sand, midwest, grassroots, mid-west, fracsand, parent:frac-sand, community-organizing, story:frac-sand, interview-series, series:community-interviews'
 author: stevie
 path: /notes/stevie/10-02-2017/interview-jim-gurley.md
 nid: 14991
@@ -12,7 +11,7 @@ uid: 422561
 
 # Interview: Jim Gurley
 
-by [stevie](../profile/stevie) October 02, 2017 14:24
+by [stevie](../profile/stevie) | October 02, 2017 14:24
 
 October 02, 2017 14:24 | Tags: [interview](../tag/interview), [blog](../tag/blog), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [grassroots](../tag/grassroots), [mid-west](../tag/mid-west), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [community-organizing](../tag/community-organizing), [story:frac-sand](../tag/story:frac-sand), [interview-series](../tag/interview-series), [series:community-interviews](../tag/series:community-interviews)
 

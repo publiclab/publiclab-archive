@@ -1,6 +1,5 @@
 ---
-title: '"Judo Rig" for aerial photography'
-tagnames: kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, diy-mount-kit, activity:photo-rig
+title: ""Judo Rig" for aerial photography"\ntagnames: 'kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, diy-mount-kit, activity:photo-rig'
 author: tonyc
 path: /notes/tonyc/12-17-2015/judo-rig-for-aerial-photography.md
 nid: 12524
@@ -12,7 +11,7 @@ uid: 447491
 
 # "Judo Rig" for aerial photography
 
-by [tonyc](../profile/tonyc) December 17, 2015 00:15
+by [tonyc](../profile/tonyc) | December 17, 2015 00:15
 
 December 17, 2015 00:15 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [diy-mount-kit](../tag/diy-mount-kit), [activity:photo-rig](../tag/activity:photo-rig)
 

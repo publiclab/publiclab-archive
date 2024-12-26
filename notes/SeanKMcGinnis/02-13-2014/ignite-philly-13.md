@@ -1,6 +1,5 @@
 ---
-title: 'Ignite Philly 13'
-tagnames: philadelphia, event
+title: "Ignite Philly 13"\ntagnames: 'philadelphia, event'
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/02-13-2014/ignite-philly-13.md
 nid: 10039
@@ -12,7 +11,7 @@ uid: 552
 
 # Ignite Philly 13
 
-by [seankmcginnis](../profile/seankmcginnis) February 13, 2014 20:10
+by [seankmcginnis](../profile/seankmcginnis) | February 13, 2014 20:10
 
 February 13, 2014 20:10 | Tags: [philadelphia](../tag/philadelphia), [event](../tag/event)
 

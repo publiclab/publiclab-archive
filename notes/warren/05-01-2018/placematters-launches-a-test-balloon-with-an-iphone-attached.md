@@ -1,6 +1,5 @@
 ---
-title: 'PlaceMatters launches a test balloon with an iPhone attached'
-tagnames: colorado
+title: "PlaceMatters launches a test balloon with an iPhone attached"\ntagnames: 'colorado'
 author: warren
 path: /notes/warren/05-01-2018/placematters-launches-a-test-balloon-with-an-iphone-attached.md
 nid: 214
@@ -12,7 +11,7 @@ uid: 1
 
 # PlaceMatters launches a test balloon with an iPhone attached
 
-by [warren](../profile/warren) May 04, 2011 20:19
+by [warren](../profile/warren) | May 04, 2011 20:19
 
 May 04, 2011 20:19 | Tags: [colorado](../tag/colorado)
 

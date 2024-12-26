@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-basics'
-tagnames: 
+title: "sandbox-basics"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-basics.md
 nid: 30718

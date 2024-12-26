@@ -1,6 +1,5 @@
 ---
-title: 'OpenDroneMap -- Automatic postprocessing aerial data'
-tagnames: new-york-city, balloon-mapping, gowanus, kite-aerial-photography, drones, aerial-photography, glam, aerial-mapping, aerial-photos, northeast, uas, opendronemap, first-time-poster
+title: "OpenDroneMap -- Automatic postprocessing aerial data"\ntagnames: 'new-york-city, balloon-mapping, gowanus, kite-aerial-photography, drones, aerial-photography, glam, aerial-mapping, aerial-photos, northeast, uas, opendronemap, first-time-poster'
 author: smathermather
 path: /notes/smathermather/11-14-2014/opendronemap-automatic-postprocessing-aerial-data.md
 nid: 11342
@@ -12,7 +11,7 @@ uid: 431062
 
 # OpenDroneMap -- Automatic postprocessing aerial data
 
-by [smathermather](../profile/smathermather) November 14, 2014 13:08
+by [smathermather](../profile/smathermather) | November 14, 2014 13:08
 
 November 14, 2014 13:08 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [kite-aerial-photography](../tag/kite-aerial-photography), [drones](../tag/drones), [aerial-photography](../tag/aerial-photography), [glam](../tag/glam), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [northeast](../tag/northeast), [uas](../tag/uas), [opendronemap](../tag/opendronemap), [first-time-poster](../tag/first-time-poster)
 

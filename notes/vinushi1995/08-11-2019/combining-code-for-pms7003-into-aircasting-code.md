@@ -1,6 +1,5 @@
 ---
-title: 'combining code for PMS7003 into Aircasting code'
-tagnames: code, airquality, barnstar:basic, arduino-uno, question:air-quality, define, include, pm2.5, pms7003, aircasting, combiningcodes
+title: "combining code for PMS7003 into Aircasting code"\ntagnames: 'code, airquality, barnstar:basic, arduino-uno, question:air-quality, define, include, pm2.5, pms7003, aircasting, combiningcodes'
 author: vinushi1995
 path: /notes/vinushi1995/08-11-2019/combining-code-for-pms7003-into-aircasting-code.md
 nid: 20501
@@ -10,7 +9,7 @@ uid: 605818
 
 # combining code for PMS7003 into Aircasting code
 
-by [vinushi1995](../profile/vinushi1995) August 11, 2019 07:50
+by [vinushi1995](../profile/vinushi1995) | August 11, 2019 07:50
 
 August 11, 2019 07:50 | Tags: [code](../tag/code), [airquality](../tag/airquality), [barnstar:basic](../tag/barnstar:basic), [arduino-uno](../tag/arduino-uno), [question:air-quality](../tag/question:air-quality), [define](../tag/define), [include](../tag/include), [pm2.5](../tag/pm2.5), [pms7003](../tag/pms7003), [aircasting](../tag/aircasting), [combiningcodes](../tag/combiningcodes)
 

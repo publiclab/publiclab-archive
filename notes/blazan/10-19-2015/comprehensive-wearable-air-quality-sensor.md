@@ -1,6 +1,5 @@
 ---
-title: 'Comprehensive Wearable Air Quality Sensor'
-tagnames: 
+title: "Comprehensive Wearable Air Quality Sensor"\ntagnames: ''
 author: blazan
 path: /notes/blazan/10-19-2015/comprehensive-wearable-air-quality-sensor.md
 nid: 12318
@@ -12,7 +11,7 @@ uid: 454906
 
 # Comprehensive Wearable Air Quality Sensor
 
-by [blazan](../profile/blazan) October 19, 2015 20:19
+by [blazan](../profile/blazan) | October 19, 2015 20:19
 
 October 19, 2015 20:19 | Tags: 
 

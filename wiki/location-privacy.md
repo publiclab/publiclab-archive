@@ -1,6 +1,5 @@
 ---
-title: 'Location privacy'
-tagnames: website, leaflet, lat:38, privacy, location:blurred, lon:-77, lat:30, location-privacy, blurred:true, website-utilities, lon:-70, place:sell-your-house-in-7-days, place:washington-dc, place:mobile-notary-dc
+title: "Location privacy"\ntagnames: 'website, leaflet, lat:38, privacy, location:blurred, lon:-77, lat:30, location-privacy, blurred:true, website-utilities, lon:-70, place:sell-your-house-in-7-days, place:washington-dc, place:mobile-notary-dc'
 author: sagarpreet
 path: /wiki/location-privacy.md
 nid: 15685

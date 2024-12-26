@@ -1,6 +1,5 @@
 ---
-title: 'Rubber Bands'
-tagnames: 
+title: "Rubber Bands"\ntagnames: ''
 author: mathew
 path: /wiki/rubber-bands.md
 nid: 705

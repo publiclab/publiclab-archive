@@ -1,6 +1,5 @@
 ---
-title: 'activities update'
-tagnames: canada
+title: "activities update"\ntagnames: 'canada'
 author: rollinrenola
 path: /wiki/activities-update.md
 nid: 21335

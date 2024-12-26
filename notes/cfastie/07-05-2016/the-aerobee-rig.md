@@ -1,6 +1,5 @@
 ---
-title: 'The Aerobee Rig'
-tagnames: vermont, kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, kaptery, aerobee, jerkpan, response:12624, category:field-test, activity:photo-rig
+title: "The Aerobee Rig"\ntagnames: 'vermont, kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, kaptery, aerobee, jerkpan, response:12624, category:field-test, activity:photo-rig'
 author: cfastie
 path: /notes/cfastie/07-05-2016/the-aerobee-rig.md
 nid: 13261
@@ -12,7 +11,7 @@ uid: 554
 
 # The Aerobee Rig
 
-by [cfastie](../profile/cfastie) July 05, 2016 17:43
+by [cfastie](../profile/cfastie) | July 05, 2016 17:43
 
 July 05, 2016 17:43 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [response:12624](../tag/response:12624), [category:field-test](../tag/category:field-test), [activity:photo-rig](../tag/activity:photo-rig)
 

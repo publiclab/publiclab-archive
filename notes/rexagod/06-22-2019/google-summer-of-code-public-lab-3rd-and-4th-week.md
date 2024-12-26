@@ -1,6 +1,5 @@
 ---
-title: 'Google Summer of Code @ Public Lab: 3rd and 4th Week'
-tagnames: gsoc, progress, soc, gsoc-2019, soc-2019
+title: "Google Summer of Code @ Public Lab: 3rd and 4th Week"\ntagnames: 'gsoc, progress, soc, gsoc-2019, soc-2019'
 author: rexagod
 path: /notes/rexagod/06-22-2019/google-summer-of-code-public-lab-3rd-and-4th-week.md
 nid: 19815
@@ -10,7 +9,7 @@ uid: 564358
 
 # Google Summer of Code @ Public Lab: 3rd and 4th Week
 
-by [rexagod](../profile/rexagod) June 22, 2019 21:06
+by [rexagod](../profile/rexagod) | June 22, 2019 21:06
 
 June 22, 2019 21:06 | Tags: [gsoc](../tag/gsoc), [progress](../tag/progress), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 

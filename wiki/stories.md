@@ -1,6 +1,5 @@
 ---
-title: 'stories'
-tagnames: sidebar:featured, style:wide, style:presentation, style:nobanner, case-studies, stories, outcomes, style:fancy, sidebar:none
+title: "stories"\ntagnames: 'sidebar:featured, style:wide, style:presentation, style:nobanner, case-studies, stories, outcomes, style:fancy, sidebar:none'
 author: Shannon
 path: /wiki/stories.md
 nid: 10698

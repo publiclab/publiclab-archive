@@ -1,6 +1,5 @@
 ---
-title: 'Hydrogen Sulfide tarnishing Silver'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, silver, chlorene
+title: "Hydrogen Sulfide tarnishing Silver"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, silver, chlorene'
 author: sara
 path: /notes/sara/9-11-2011/hydrogen-sulfide-tarnishing-silver.md
 nid: 462
@@ -10,7 +9,7 @@ uid: 8
 
 # Hydrogen Sulfide tarnishing Silver
 
-by [sara](../profile/sara) September 11, 2011 20:41
+by [sara](../profile/sara) | September 11, 2011 20:41
 
 September 11, 2011 20:41 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [silver](../tag/silver), [chlorene](../tag/chlorene)
 

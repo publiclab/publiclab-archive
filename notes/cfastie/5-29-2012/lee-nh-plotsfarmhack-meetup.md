@@ -1,6 +1,5 @@
 ---
-title: 'Lee, NH PLOTS/FarmHack Meetup'
-tagnames: balloon-mapping, near-infrared-camera, grassrootsmapping, ndvi, nir, farmhack, cropcover, ifarm
+title: "Lee, NH PLOTS/FarmHack Meetup"\ntagnames: 'balloon-mapping, near-infrared-camera, grassrootsmapping, ndvi, nir, farmhack, cropcover, ifarm'
 author: cfastie
 path: /notes/cfastie/5-29-2012/lee-nh-plotsfarmhack-meetup.md
 nid: 2237
@@ -12,7 +11,7 @@ uid: 554
 
 # Lee, NH PLOTS/FarmHack Meetup
 
-by [cfastie](../profile/cfastie) May 29, 2012 13:41
+by [cfastie](../profile/cfastie) | May 29, 2012 13:41
 
 May 29, 2012 13:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [grassrootsmapping](../tag/grassrootsmapping), [ndvi](../tag/ndvi), [nir](../tag/nir), [farmhack](../tag/farmhack), [cropcover](../tag/cropcover), [ifarm](../tag/ifarm)
 

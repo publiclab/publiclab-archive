@@ -1,6 +1,5 @@
 ---
-title: 'Getting started with infrared photography on Infragram.org'
-tagnames: ndvi, infrared, software, infragram, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:ndvi, activity:infragram-point-shoot, infragram.org, activity:infragram.org, pin:activity:infragram
+title: "Getting started with infrared photography on Infragram.org"\ntagnames: 'ndvi, infrared, software, infragram, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:ndvi, activity:infragram-point-shoot, infragram.org, activity:infragram.org, pin:activity:infragram'
 author: warren
 path: /notes/warren/10-20-2017/getting-started-with-infrared-photography-on-infragram-org.md
 nid: 15075
@@ -12,7 +11,7 @@ uid: 1
 
 # Getting started with infrared photography on Infragram.org
 
-by [warren](../profile/warren) October 20, 2017 15:31
+by [warren](../profile/warren) | October 20, 2017 15:31
 
 October 20, 2017 15:31 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [software](../tag/software), [infragram](../tag/infragram), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:ndvi](../tag/activity:ndvi), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot), [infragram.org](../tag/infragram.org), [activity:infragram.org](../tag/activity:infragram.org), [pin:activity:infragram](../tag/pin:activity:infragram)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Save the Date Feb 22-24! Houston-Galveston Barnraising '
-tagnames: disaster-preparedness, barnraising, with:stevie, texas, disaster-response, disaster-resilience, disaster-recovery, barnraising-texas-2019, txbarnraising
+title: "Save the Date Feb 22-24! Houston-Galveston Barnraising "\ntagnames: 'disaster-preparedness, barnraising, with:stevie, texas, disaster-response, disaster-resilience, disaster-recovery, barnraising-texas-2019, txbarnraising'
 author: liz
 path: /notes/liz/01-03-2019/save-the-date-feb-22-24-houston-galveston-barnraising.md
 nid: 18048
@@ -12,7 +11,7 @@ uid: 7
 
 # Save the Date Feb 22-24! Houston-Galveston Barnraising 
 
-by [liz](../profile/liz) January 02, 2019 22:15
+by [liz](../profile/liz) | January 02, 2019 22:15
 
 January 02, 2019 22:15 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [barnraising](../tag/barnraising), [with:stevie](../tag/with:stevie), [texas](../tag/texas), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [barnraising-texas-2019](../tag/barnraising-texas-2019), [txbarnraising](../tag/txbarnraising)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Curriculum: Multispectral Imaging'
-tagnames: 
+title: "Mapping Curriculum: Multispectral Imaging"\ntagnames: ''
 author: gonzoearth
 path: /wiki/mapping-curriculum-multispectral-imaging.md
 nid: 401

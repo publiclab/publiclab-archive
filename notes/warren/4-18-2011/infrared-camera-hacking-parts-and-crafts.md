@@ -1,6 +1,5 @@
 ---
-title: 'Infrared camera hacking at Parts and Crafts'
-tagnames: near-infrared-camera, somerville-massachusetts, infrared, partsandcrafts, massachusetts, parts-and-crafts, keychain-cameras
+title: "Infrared camera hacking at Parts and Crafts"\ntagnames: 'near-infrared-camera, somerville-massachusetts, infrared, partsandcrafts, massachusetts, parts-and-crafts, keychain-cameras'
 author: warren
 path: /notes/warren/4-18-2011/infrared-camera-hacking-parts-and-crafts.md
 nid: 179
@@ -12,7 +11,7 @@ uid: 1
 
 # Infrared camera hacking at Parts and Crafts
 
-by [warren](../profile/warren) April 18, 2011 23:25
+by [warren](../profile/warren) | April 18, 2011 23:25
 
 April 18, 2011 23:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [somerville-massachusetts](../tag/somerville-massachusetts), [infrared](../tag/infrared), [partsandcrafts](../tag/partsandcrafts), [massachusetts](../tag/massachusetts), [parts-and-crafts](../tag/parts-and-crafts), [keychain-cameras](../tag/keychain-cameras)
 

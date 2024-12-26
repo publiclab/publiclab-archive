@@ -1,6 +1,5 @@
 ---
-title: 'Recent conversations on the frac sand issue'
-tagnames: reporting, wisconsin, frac-sand, pm, midwest, parent:frac-sand, with:pat, with:marlokeno, with:dswenson, purple-air, with:glennwalquist, sentinel, parent:the-sand-sentinel-program, sand-sentinel
+title: "Recent conversations on the frac sand issue"\ntagnames: 'reporting, wisconsin, frac-sand, pm, midwest, parent:frac-sand, with:pat, with:marlokeno, with:dswenson, purple-air, with:glennwalquist, sentinel, parent:the-sand-sentinel-program, sand-sentinel'
 author: stevie
 path: /notes/stevie/09-04-2018/recent-conversations-on-the-frac-sand-issue.md
 nid: 17061
@@ -12,7 +11,7 @@ uid: 422561
 
 # Recent conversations on the frac sand issue
 
-by [stevie](../profile/stevie) September 04, 2018 20:32
+by [stevie](../profile/stevie) | September 04, 2018 20:32
 
 September 04, 2018 20:32 | Tags: [reporting](../tag/reporting), [wisconsin](../tag/wisconsin), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [parent:frac-sand](../tag/parent:frac-sand), [with:pat](../tag/with:pat), [with:marlokeno](../tag/with:marlokeno), [with:dswenson](../tag/with:dswenson), [purple-air](../tag/purple-air), [with:glennwalquist](../tag/with:glennwalquist), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sand-sentinel](../tag/sand-sentinel)
 

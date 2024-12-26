@@ -1,6 +1,5 @@
 ---
-title: 'Barnraising Planning'
-tagnames: barnraising, list:plots-barnraising
+title: "Barnraising Planning"\ntagnames: 'barnraising, list:plots-barnraising'
 author: warren
 path: /wiki/barnraising-planning.md
 nid: 7223

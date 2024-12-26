@@ -1,6 +1,5 @@
 ---
-title: 'Webcam filter removal'
-tagnames: spectrometer, infrared, webcam, filter, ir-block
+title: "Webcam filter removal"\ntagnames: 'spectrometer, infrared, webcam, filter, ir-block'
 author: warren
 path: /wiki/webcam-filter-removal.md
 nid: 741

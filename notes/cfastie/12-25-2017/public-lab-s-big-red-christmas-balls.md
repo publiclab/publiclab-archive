@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab's Big Red Christmas Balls'
-tagnames: holiday, christmas, mini-balloon-kit
+title: "Public Lab's Big Red Christmas Balls"\ntagnames: 'holiday, christmas, mini-balloon-kit'
 author: cfastie
 path: /notes/cfastie/12-25-2017/public-lab-s-big-red-christmas-balls.md
 nid: 15428
@@ -12,7 +11,7 @@ uid: 554
 
 # Public Lab's Big Red Christmas Balls
 
-by [cfastie](../profile/cfastie) December 25, 2017 18:54
+by [cfastie](../profile/cfastie) | December 25, 2017 18:54
 
 December 25, 2017 18:54 | Tags: [holiday](../tag/holiday), [christmas](../tag/christmas), [mini-balloon-kit](../tag/mini-balloon-kit)
 

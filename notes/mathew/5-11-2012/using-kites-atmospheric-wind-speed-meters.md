@@ -1,6 +1,5 @@
 ---
-title: 'Using Kites as Atmospheric Wind-speed Meters'
-tagnames: balloon-mapping, kite-mapping, anemometer, wind-speed-meter, kite-anemometer, activity:kite-anemometer, wind-speed
+title: "Using Kites as Atmospheric Wind-speed Meters"\ntagnames: 'balloon-mapping, kite-mapping, anemometer, wind-speed-meter, kite-anemometer, activity:kite-anemometer, wind-speed'
 author: mathew
 path: /notes/mathew/5-11-2012/using-kites-atmospheric-wind-speed-meters.md
 nid: 1962
@@ -12,7 +11,7 @@ uid: 4
 
 # Using Kites as Atmospheric Wind-speed Meters
 
-by [mathew](../profile/mathew) May 11, 2012 22:34
+by [mathew](../profile/mathew) | May 11, 2012 22:34
 
 May 11, 2012 22:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [kite-anemometer](../tag/kite-anemometer), [activity:kite-anemometer](../tag/activity:kite-anemometer), [wind-speed](../tag/wind-speed)
 

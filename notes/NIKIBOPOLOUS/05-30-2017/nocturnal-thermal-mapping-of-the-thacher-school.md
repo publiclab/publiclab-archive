@@ -1,6 +1,5 @@
 ---
-title: 'Analyzing Thacher Insulation: an Aerial Thermal Mapping Project'
-tagnames: balloon-mapping, thermal-photography, thermal-imaging, thermal, heat, hidden:response, activity:aerial-photography, activity:balloon-mapping, school, response:14179, pidduck, meyer, thacher, activity:thermal-photography
+title: "Analyzing Thacher Insulation: an Aerial Thermal Mapping Project"\ntagnames: 'balloon-mapping, thermal-photography, thermal-imaging, thermal, heat, hidden:response, activity:aerial-photography, activity:balloon-mapping, school, response:14179, pidduck, meyer, thacher, activity:thermal-photography'
 author: NIKIBOPOLOUS
 path: /notes/NIKIBOPOLOUS/05-30-2017/nocturnal-thermal-mapping-of-the-thacher-school.md
 nid: 14245
@@ -12,7 +11,7 @@ uid: 508250
 
 # Analyzing Thacher Insulation: an Aerial Thermal Mapping Project
 
-by [NIKIBOPOLOUS](../profile/NIKIBOPOLOUS) May 30, 2017 16:23
+by [NIKIBOPOLOUS](../profile/NIKIBOPOLOUS) | May 30, 2017 16:23
 
 May 30, 2017 16:23 | Tags: [balloon-mapping](../tag/balloon-mapping), [thermal-photography](../tag/thermal-photography), [thermal-imaging](../tag/thermal-imaging), [thermal](../tag/thermal), [heat](../tag/heat), [hidden:response](../tag/hidden:response), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:balloon-mapping](../tag/activity:balloon-mapping), [school](../tag/school), [response:14179](../tag/response:14179), [pidduck](../tag/pidduck), [meyer](../tag/meyer), [thacher](../tag/thacher), [activity:thermal-photography](../tag/activity:thermal-photography)
 

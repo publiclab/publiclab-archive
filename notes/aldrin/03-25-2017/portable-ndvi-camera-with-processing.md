@@ -1,6 +1,5 @@
 ---
-title: 'portable NDVi camera with processing'
-tagnames: ndvi, question:general
+title: "portable NDVi camera with processing"\ntagnames: 'ndvi, question:general'
 author: aldrin
 path: /notes/aldrin/03-25-2017/portable-ndvi-camera-with-processing.md
 nid: 14059
@@ -10,7 +9,7 @@ uid: 493973
 
 # portable NDVi camera with processing
 
-by [aldrin](../profile/aldrin) March 25, 2017 15:12
+by [aldrin](../profile/aldrin) | March 25, 2017 15:12
 
 March 25, 2017 15:12 | Tags: [ndvi](../tag/ndvi), [question:general](../tag/question:general)
 

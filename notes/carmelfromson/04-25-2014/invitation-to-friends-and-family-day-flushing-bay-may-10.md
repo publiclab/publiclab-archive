@@ -1,6 +1,5 @@
 ---
-title: 'Invitation to Friends and Family Day-Flushing Bay-May 10'
-tagnames: new-york-city, queens, event, sewage, bacteria, flushing-bay, cso, empire-dragon-boat, northeast, flushing, response:10206, dragon-boat
+title: "Invitation to Friends and Family Day-Flushing Bay-May 10"\ntagnames: 'new-york-city, queens, event, sewage, bacteria, flushing-bay, cso, empire-dragon-boat, northeast, flushing, response:10206, dragon-boat'
 author: carmelfromson
 path: /notes/carmelfromson/04-25-2014/invitation-to-friends-and-family-day-flushing-bay-may-10.md
 nid: 10366
@@ -12,7 +11,7 @@ uid: 422680
 
 # Invitation to Friends and Family Day-Flushing Bay-May 10
 
-by [carmelfromson](../profile/carmelfromson) April 25, 2014 01:55
+by [carmelfromson](../profile/carmelfromson) | April 25, 2014 01:55
 
 April 25, 2014 01:55 | Tags: [new-york-city](../tag/new-york-city), [queens](../tag/queens), [event](../tag/event), [sewage](../tag/sewage), [bacteria](../tag/bacteria), [flushing-bay](../tag/flushing-bay), [cso](../tag/cso), [empire-dragon-boat](../tag/empire-dragon-boat), [northeast](../tag/northeast), [flushing](../tag/flushing), [response:10206](../tag/response:10206), [dragon-boat](../tag/dragon-boat)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Looking at California neighborhood fall and winter map layers'
-tagnames: balloon-mapping, kite-mapping
+title: "Looking at California neighborhood fall and winter map layers"\ntagnames: 'balloon-mapping, kite-mapping'
 author: gonzoearth
 path: /notes/gonzoearth/1-4-2013/looking-california-neighborhood-fall-and-winter-map-layers.md
 nid: 5415
@@ -12,7 +11,7 @@ uid: 12
 
 # Looking at California neighborhood fall and winter map layers
 
-by [gonzoearth](../profile/gonzoearth) January 04, 2013 21:44
+by [gonzoearth](../profile/gonzoearth) | January 04, 2013 21:44
 
 January 04, 2013 21:44 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 

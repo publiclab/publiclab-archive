@@ -1,6 +1,5 @@
 ---
-title: 'Calibrating DIY NIR cameras – part 1'
-tagnames: calibration, calibrate-ndvi
+title: "Calibrating DIY NIR cameras – part 1"\ntagnames: 'calibration, calibrate-ndvi'
 author: nedhorning
 path: /notes/nedhorning/10-21-2013/calibrating-diy-nir-cameras-part-1.md
 nid: 9509
@@ -12,7 +11,7 @@ uid: 133
 
 # Calibrating DIY NIR cameras – part 1
 
-by [nedhorning](../profile/nedhorning) October 21, 2013 20:13
+by [nedhorning](../profile/nedhorning) | October 21, 2013 20:13
 
 October 21, 2013 20:13 | Tags: [calibration](../tag/calibration), [calibrate-ndvi](../tag/calibrate-ndvi)
 

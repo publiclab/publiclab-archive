@@ -1,6 +1,5 @@
 ---
-title: 'Mobius and NIR'
-tagnames: near-infrared-camera, ndvi, infrared, infragram, histogram, led, infragram-sandbox, mobius-actioncam, frosted-globe, response:10291, mobius
+title: "Mobius and NIR"\ntagnames: 'near-infrared-camera, ndvi, infrared, infragram, histogram, led, infragram-sandbox, mobius-actioncam, frosted-globe, response:10291, mobius'
 author: cfastie
 path: /notes/cfastie/04-17-2014/mobius-and-nir.md
 nid: 10324
@@ -12,7 +11,7 @@ uid: 554
 
 # Mobius and NIR
 
-by [cfastie](../profile/cfastie) April 17, 2014 17:39
+by [cfastie](../profile/cfastie) | April 17, 2014 17:39
 
 April 17, 2014 17:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [frosted-globe](../tag/frosted-globe), [response:10291](../tag/response:10291), [mobius](../tag/mobius)
 

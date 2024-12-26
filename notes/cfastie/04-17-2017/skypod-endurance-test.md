@@ -1,6 +1,5 @@
 ---
-title: 'SkyPod endurance test'
-tagnames: balloon-mapping, kite-mapping, arduino, kap, gps, sensors, saturnv, skypod, response:14074, ublox
+title: "SkyPod endurance test"\ntagnames: 'balloon-mapping, kite-mapping, arduino, kap, gps, sensors, saturnv, skypod, response:14074, ublox'
 author: cfastie
 path: /notes/cfastie/04-17-2017/skypod-endurance-test.md
 nid: 14116
@@ -12,7 +11,7 @@ uid: 554
 
 # SkyPod endurance test
 
-by [cfastie](../profile/cfastie) April 17, 2017 00:56
+by [cfastie](../profile/cfastie) | April 17, 2017 00:56
 
 April 17, 2017 00:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kap](../tag/kap), [gps](../tag/gps), [sensors](../tag/sensors), [saturnv](../tag/saturnv), [skypod](../tag/skypod), [response:14074](../tag/response:14074), [ublox](../tag/ublox)
 

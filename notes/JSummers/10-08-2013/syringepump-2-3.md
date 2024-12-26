@@ -1,6 +1,5 @@
 ---
-title: 'SyringePump 2.3'
-tagnames: syringe, pump, first-time-poster
+title: "SyringePump 2.3"\ntagnames: 'syringe, pump, first-time-poster'
 author: JSummers
 path: /notes/JSummers/10-08-2013/syringepump-2-3.md
 nid: 9421
@@ -12,7 +11,7 @@ uid: 304279
 
 # SyringePump 2.3
 
-by [JSummers](../profile/JSummers) October 08, 2013 18:52
+by [JSummers](../profile/JSummers) | October 08, 2013 18:52
 
 October 08, 2013 18:52 | Tags: [syringe](../tag/syringe), [pump](../tag/pump), [first-time-poster](../tag/first-time-poster)
 

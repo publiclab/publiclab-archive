@@ -1,6 +1,5 @@
 ---
-title: 'Thermal Fishing Bob Development Workshop on Northeastern's Campus'
-tagnames: boston, thermal-flashlight, event, northeastern-university, thermal-fishing-bob, conductivity, event:rsvp, date:06-02-2015, rsvp:kgrevera, rsvp:neilhendrick
+title: "Thermal Fishing Bob Development Workshop on Northeastern's Campus"\ntagnames: 'boston, thermal-flashlight, event, northeastern-university, thermal-fishing-bob, conductivity, event:rsvp, date:06-02-2015, rsvp:kgrevera, rsvp:neilhendrick'
 author: kgrevera
 path: /notes/kgrevera/05-26-2015/thermal-fishing-bob-development-workshop-on-northeastern-s-campus.md
 nid: 11842
@@ -12,7 +11,7 @@ uid: 432001
 
 # Thermal Fishing Bob Development Workshop on Northeastern's Campus
 
-by [kgrevera](../profile/kgrevera) May 26, 2015 22:28
+by [kgrevera](../profile/kgrevera) | May 26, 2015 22:28
 
 May 26, 2015 22:28 | Tags: [boston](../tag/boston), [thermal-flashlight](../tag/thermal-flashlight), [event](../tag/event), [northeastern-university](../tag/northeastern-university), [thermal-fishing-bob](../tag/thermal-fishing-bob), [conductivity](../tag/conductivity), [event:rsvp](../tag/event:rsvp), [date:06-02-2015](../tag/date:06-02-2015), [rsvp:kgrevera](../tag/rsvp:kgrevera), [rsvp:neilhendrick](../tag/rsvp:neilhendrick)
 

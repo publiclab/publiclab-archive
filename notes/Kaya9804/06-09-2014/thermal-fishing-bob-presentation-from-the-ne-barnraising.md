@@ -1,6 +1,5 @@
 ---
-title: 'Thermal Fishing Bob Presentation from the NE Barnraising'
-tagnames: thermal-photography, thermal-fishing-bob
+title: "Thermal Fishing Bob Presentation from the NE Barnraising"\ntagnames: 'thermal-photography, thermal-fishing-bob'
 author: Kaya9804
 path: /notes/Kaya9804/06-09-2014/thermal-fishing-bob-presentation-from-the-ne-barnraising.md
 nid: 10544
@@ -12,7 +11,7 @@ uid: 45526
 
 # Thermal Fishing Bob Presentation from the NE Barnraising
 
-by [Kaya9804](../profile/Kaya9804) June 09, 2014 18:41
+by [Kaya9804](../profile/Kaya9804) | June 09, 2014 18:41
 
 June 09, 2014 18:41 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-fishing-bob](../tag/thermal-fishing-bob)
 

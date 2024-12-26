@@ -1,6 +1,5 @@
 ---
-title: 'Novel Methods for Assessing Industrial Odors'
-tagnames: odor, oil-and-gas, location:blurred, odor-logging, lat:39, csf, csf16, lon:-104, place:denver-co
+title: "Novel Methods for Assessing Industrial Odors"\ntagnames: 'odor, oil-and-gas, location:blurred, odor-logging, lat:39, csf, csf16, lon:-104, place:denver-co'
 author: joyofsoy
 path: /notes/joyofsoy/06-25-2019/novel-methods-for-assessing-industrial-odors.md
 nid: 19859
@@ -12,7 +11,7 @@ uid: 540844
 
 # Novel Methods for Assessing Industrial Odors
 
-by [joyofsoy](../profile/joyofsoy) June 25, 2019 16:36
+by [joyofsoy](../profile/joyofsoy) | June 25, 2019 16:36
 
 June 25, 2019 16:36 | Tags: [odor](../tag/odor), [oil-and-gas](../tag/oil-and-gas), [location:blurred](../tag/location:blurred), [odor-logging](../tag/odor-logging), [lat:39](../tag/lat:39), [csf](../tag/csf), [csf16](../tag/csf16), [lon:-104](../tag/lon:-104), [place:denver-co](../tag/place:denver-co)
 

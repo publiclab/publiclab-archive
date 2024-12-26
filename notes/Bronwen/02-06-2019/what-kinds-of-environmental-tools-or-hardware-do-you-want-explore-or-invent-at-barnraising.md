@@ -1,6 +1,5 @@
 ---
-title: 'What kinds of environmental tools or hardware do you want explore (or invent) at Barnraising?'
-tagnames: diy, barnraising, tools, hardware, question:general, question:barnraising
+title: "What kinds of environmental tools or hardware do you want explore (or invent) at Barnraising?"\ntagnames: 'diy, barnraising, tools, hardware, question:general, question:barnraising'
 author: Bronwen
 path: /notes/Bronwen/02-06-2019/what-kinds-of-environmental-tools-or-hardware-do-you-want-explore-or-invent-at-barnraising.md
 nid: 18269
@@ -10,7 +9,7 @@ uid: 237313
 
 # What kinds of environmental tools or hardware do you want explore (or invent) at Barnraising?
 
-by [Bronwen](../profile/Bronwen) February 06, 2019 16:20
+by [Bronwen](../profile/Bronwen) | February 06, 2019 16:20
 
 February 06, 2019 16:20 | Tags: [diy](../tag/diy), [barnraising](../tag/barnraising), [tools](../tag/tools), [hardware](../tag/hardware), [question:general](../tag/question:general), [question:barnraising](../tag/question:barnraising)
 

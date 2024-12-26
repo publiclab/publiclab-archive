@@ -1,6 +1,5 @@
 ---
-title: 'SoC ideas'
-tagnames: gsoc, developers, parent:gsoc, software-outreach, rgsoc-2019, gsoc-2019
+title: "SoC ideas"\ntagnames: 'gsoc, developers, parent:gsoc, software-outreach, rgsoc-2019, gsoc-2019'
 author: warren
 path: /wiki/gsoc-ideas.md
 nid: 868

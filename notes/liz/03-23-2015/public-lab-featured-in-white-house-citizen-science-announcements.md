@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab featured in White House Citizen Science announcements'
-tagnames: media, press-release, white-house
+title: "Public Lab featured in White House Citizen Science announcements"\ntagnames: 'media, press-release, white-house'
 author: liz
 path: /notes/liz/03-23-2015/public-lab-featured-in-white-house-citizen-science-announcements.md
 nid: 11716
@@ -12,7 +11,7 @@ uid: 7
 
 # Public Lab featured in White House Citizen Science announcements
 
-by [liz](../profile/liz) March 23, 2015 15:08
+by [liz](../profile/liz) | March 23, 2015 15:08
 
 March 23, 2015 15:08 | Tags: [media](../tag/media), [press-release](../tag/press-release), [white-house](../tag/white-house)
 

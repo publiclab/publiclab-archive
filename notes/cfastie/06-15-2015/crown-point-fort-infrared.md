@@ -1,6 +1,5 @@
 ---
-title: 'Crown Point Fort infrared'
-tagnames: near-infrared-camera, ndvi, kite-aerial-photography, infrared, kap, autokap, kaptery, saturnv, skyshield, response:11975, half-spherical
+title: "Crown Point Fort infrared"\ntagnames: 'near-infrared-camera, ndvi, kite-aerial-photography, infrared, kap, autokap, kaptery, saturnv, skyshield, response:11975, half-spherical'
 author: cfastie
 path: /notes/cfastie/06-15-2015/crown-point-fort-infrared.md
 nid: 11980
@@ -12,7 +11,7 @@ uid: 554
 
 # Crown Point Fort infrared
 
-by [cfastie](../profile/cfastie) June 15, 2015 02:09
+by [cfastie](../profile/cfastie) | June 15, 2015 02:09
 
 June 15, 2015 02:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [kite-aerial-photography](../tag/kite-aerial-photography), [infrared](../tag/infrared), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11975](../tag/response:11975), [half-spherical](../tag/half-spherical)
 

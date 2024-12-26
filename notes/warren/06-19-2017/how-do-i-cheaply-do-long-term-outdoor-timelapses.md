@@ -1,6 +1,5 @@
 ---
-title: 'How do I cheaply do long-term outdoor timelapses?'
-tagnames: photo-monitoring, timelapse, gopro, question:timelapse, question:photo-monitoring
+title: "How do I cheaply do long-term outdoor timelapses?"\ntagnames: 'photo-monitoring, timelapse, gopro, question:timelapse, question:photo-monitoring'
 author: warren
 path: /notes/warren/06-19-2017/how-do-i-cheaply-do-long-term-outdoor-timelapses.md
 nid: 14554
@@ -10,7 +9,7 @@ uid: 1
 
 # How do I cheaply do long-term outdoor timelapses?
 
-by [warren](../profile/warren) June 19, 2017 16:22
+by [warren](../profile/warren) | June 19, 2017 16:22
 
 June 19, 2017 16:22 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [gopro](../tag/gopro), [question:timelapse](../tag/question:timelapse), [question:photo-monitoring](../tag/question:photo-monitoring)
 

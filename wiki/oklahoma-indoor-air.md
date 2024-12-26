@@ -1,6 +1,5 @@
 ---
-title: 'Oklahoma Indoor Air'
-tagnames: indoor-air-quality, indoor-air, indoor-air-info-sheet, oklahoma
+title: "Oklahoma Indoor Air"\ntagnames: 'indoor-air-quality, indoor-air, indoor-air-info-sheet, oklahoma'
 author: gretchengehrke
 path: /wiki/oklahoma-indoor-air.md
 nid: 13563

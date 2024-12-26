@@ -1,6 +1,5 @@
 ---
-title: 'Carabiner Kite Line Attachment'
-tagnames: balloon-mapping, kite-aerial-photography, photo-rig, flying
+title: "Carabiner Kite Line Attachment"\ntagnames: 'balloon-mapping, kite-aerial-photography, photo-rig, flying'
 author: MicheleTobias
 path: /notes/micheletobias/7-29-2012/carabiner-kite-line-attachment.md
 nid: 3014
@@ -10,7 +9,7 @@ uid: 149
 
 # Carabiner Kite Line Attachment
 
-by [MicheleTobias](../profile/MicheleTobias) July 29, 2012 22:06
+by [MicheleTobias](../profile/MicheleTobias) | July 29, 2012 22:06
 
 July 29, 2012 22:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [flying](../tag/flying)
 

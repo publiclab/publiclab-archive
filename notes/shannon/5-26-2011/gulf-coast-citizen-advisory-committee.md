@@ -1,6 +1,5 @@
 ---
-title: 'Gulf Coast Citizen Advisory Committee'
-tagnames: epa
+title: "Gulf Coast Citizen Advisory Committee"\ntagnames: 'epa'
 author: Shannon
 path: /notes/shannon/5-26-2011/gulf-coast-citizen-advisory-committee.md
 nid: 302
@@ -10,7 +9,7 @@ uid: 9
 
 # Gulf Coast Citizen Advisory Committee
 
-by [Shannon](../profile/Shannon) May 26, 2011 21:39
+by [Shannon](../profile/Shannon) | May 26, 2011 21:39
 
 May 26, 2011 21:39 | Tags: [epa](../tag/epa)
 

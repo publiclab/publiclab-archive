@@ -1,6 +1,5 @@
 ---
-title: 'Mobius white balance'
-tagnames: near-infrared-camera, ndvi, infrared, white-balance, infragram, histogram, led, mobius-actioncam, frosted-globe, response:10345, great-photos, mobius
+title: "Mobius white balance"\ntagnames: 'near-infrared-camera, ndvi, infrared, white-balance, infragram, histogram, led, mobius-actioncam, frosted-globe, response:10345, great-photos, mobius'
 author: cfastie
 path: /notes/cfastie/04-24-2014/mobius-white-balance.md
 nid: 10353
@@ -12,7 +11,7 @@ uid: 554
 
 # Mobius white balance
 
-by [cfastie](../profile/cfastie) April 24, 2014 04:47
+by [cfastie](../profile/cfastie) | April 24, 2014 04:47
 
 April 24, 2014 04:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [mobius-actioncam](../tag/mobius-actioncam), [frosted-globe](../tag/frosted-globe), [response:10345](../tag/response:10345), [great-photos](../tag/great-photos), [mobius](../tag/mobius)
 

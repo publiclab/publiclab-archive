@@ -1,6 +1,5 @@
 ---
-title: 'mapping offshore rigs near Rio, especially in the Campos basin'
-tagnames: oil, brasil
+title: "mapping offshore rigs near Rio, especially in the Campos basin"\ntagnames: 'oil, brasil'
 author: marlokeno
 path: /notes/marlokeno/03-21-2014/mapping-offshore-rigs-near-rio-especially-in-the-campos-basin.md
 nid: 10211
@@ -10,7 +9,7 @@ uid: 420760
 
 # mapping offshore rigs near Rio, especially in the Campos basin
 
-by [marlokeno](../profile/marlokeno) March 21, 2014 14:27
+by [marlokeno](../profile/marlokeno) | March 21, 2014 14:27
 
 March 21, 2014 14:27 | Tags: [oil](../tag/oil), [brasil](../tag/brasil)
 

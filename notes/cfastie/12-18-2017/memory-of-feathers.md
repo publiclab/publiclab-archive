@@ -1,6 +1,5 @@
 ---
-title: 'Memory of Feathers'
-tagnames: arduino, sensors, datalogger, data-logging, feather, thermal-infrared, gy90614, relay, activity:feather, series:woodstove-control
+title: "Memory of Feathers"\ntagnames: 'arduino, sensors, datalogger, data-logging, feather, thermal-infrared, gy90614, relay, activity:feather, series:woodstove-control'
 author: cfastie
 path: /notes/cfastie/12-18-2017/memory-of-feathers.md
 nid: 15394
@@ -12,7 +11,7 @@ uid: 554
 
 # Memory of Feathers
 
-by [cfastie](../profile/cfastie) December 18, 2017 21:07
+by [cfastie](../profile/cfastie) | December 18, 2017 21:07
 
 December 18, 2017 21:07 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [feather](../tag/feather), [thermal-infrared](../tag/thermal-infrared), [gy90614](../tag/gy90614), [relay](../tag/relay), [activity:feather](../tag/activity:feather), [series:woodstove-control](../tag/series:woodstove-control)
 

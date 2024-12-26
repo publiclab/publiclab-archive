@@ -1,6 +1,5 @@
 ---
-title: 'UI Wireframe for Profile Page'
-tagnames: design, wireframes, ui, ideas, outreachy, profile, outreachy-2019, ui-designs, outreachy-proposals
+title: "UI Wireframe for Profile Page"\ntagnames: 'design, wireframes, ui, ideas, outreachy, profile, outreachy-2019, ui-designs, outreachy-proposals'
 author: lekhidugtal
 path: /notes/lekhidugtal/03-13-2019/ui-wireframe-for-profile-page.md
 nid: 18537
@@ -12,7 +11,7 @@ uid: 577754
 
 # UI Wireframe for Profile Page
 
-by [lekhidugtal](../profile/lekhidugtal) March 13, 2019 16:11
+by [lekhidugtal](../profile/lekhidugtal) | March 13, 2019 16:11
 
 March 13, 2019 16:11 | Tags: [design](../tag/design), [wireframes](../tag/wireframes), [ui](../tag/ui), [ideas](../tag/ideas), [outreachy](../tag/outreachy), [profile](../tag/profile), [outreachy-2019](../tag/outreachy-2019), [ui-designs](../tag/ui-designs), [outreachy-proposals](../tag/outreachy-proposals)
 

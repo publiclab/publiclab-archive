@@ -1,6 +1,5 @@
 ---
-title: 'spectral workbenc'
-tagnames: 
+title: "spectral workbenc"\ntagnames: ''
 author: spectra
 path: /wiki/spectral-workbenc.md
 nid: 581

@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer from a drone'
-tagnames: spectrometer, hyperspectral, drone, question:spectrometry, drone-spectrometry
+title: "Spectrometer from a drone"\ntagnames: 'spectrometer, hyperspectral, drone, question:spectrometry, drone-spectrometry'
 author: sylvainbonhommeau
 path: /notes/sylvainbonhommeau/07-13-2016/spectrometer-from-a-drone.md
 nid: 13286
@@ -10,7 +9,7 @@ uid: 483452
 
 # Spectrometer from a drone
 
-by [sylvainbonhommeau](../profile/sylvainbonhommeau) July 13, 2016 04:05
+by [sylvainbonhommeau](../profile/sylvainbonhommeau) | July 13, 2016 04:05
 
 July 13, 2016 04:05 | Tags: [spectrometer](../tag/spectrometer), [hyperspectral](../tag/hyperspectral), [drone](../tag/drone), [question:spectrometry](../tag/question:spectrometry), [drone-spectrometry](../tag/drone-spectrometry)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Suction Cup spectrometer attachement'
-tagnames: fold-up-mini-spectrometer, suction-cups
+title: "Suction Cup spectrometer attachement"\ntagnames: 'fold-up-mini-spectrometer, suction-cups'
 author: mathew
 path: /notes/mathew/1-31-2013/suction-cup-spectrometer-attachement.md
 nid: 5835
@@ -12,7 +11,7 @@ uid: 4
 
 # Suction Cup spectrometer attachement
 
-by [mathew](../profile/mathew) February 01, 2013 04:22
+by [mathew](../profile/mathew) | February 01, 2013 04:22
 
 February 01, 2013 04:22 | Tags: [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [suction-cups](../tag/suction-cups)
 

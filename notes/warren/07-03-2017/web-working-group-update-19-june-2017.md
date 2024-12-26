@@ -1,6 +1,5 @@
 ---
-title: 'Web Working Group Update 19: June 2017'
-tagnames: web-development, software, plots2, gsoc, developers, wwg, webwg, first-timers-only, soc, soc-2017, wwg-update, response:14526
+title: "Web Working Group Update 19: June 2017"\ntagnames: 'web-development, software, plots2, gsoc, developers, wwg, webwg, first-timers-only, soc, soc-2017, wwg-update, response:14526'
 author: warren
 path: /notes/warren/07-03-2017/web-working-group-update-19-june-2017.md
 nid: 14614
@@ -12,7 +11,7 @@ uid: 1
 
 # Web Working Group Update 19: June 2017
 
-by [warren](../profile/warren) July 03, 2017 21:22
+by [warren](../profile/warren) | July 03, 2017 21:22
 
 July 03, 2017 21:22 | Tags: [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [wwg-update](../tag/wwg-update), [response:14526](../tag/response:14526)
 

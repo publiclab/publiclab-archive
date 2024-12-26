@@ -1,6 +1,5 @@
 ---
-title: 'Community formaldehyde monitoring at natural gas compressor stations, protocol and data sheet '
-tagnames: natural-gas, formaldehyde, protocol, outdoor-air, indoor-air-quality, with:gretchengehrke
+title: "Community formaldehyde monitoring at natural gas compressor stations, protocol and data sheet "\ntagnames: 'natural-gas, formaldehyde, protocol, outdoor-air, indoor-air-quality, with:gretchengehrke'
 author: nshapiro
 path: /notes/nshapiro/05-08-2015/community-formaldehyde-monitoring-at-natural-gas-compressor-stations-protocol-and-data-sheet.md
 nid: 11800
@@ -12,7 +11,7 @@ uid: 380298
 
 # Community formaldehyde monitoring at natural gas compressor stations, protocol and data sheet 
 
-by [nshapiro](../profile/nshapiro) May 08, 2015 19:21
+by [nshapiro](../profile/nshapiro) | May 08, 2015 19:21
 
 May 08, 2015 19:21 | Tags: [natural-gas](../tag/natural-gas), [formaldehyde](../tag/formaldehyde), [protocol](../tag/protocol), [outdoor-air](../tag/outdoor-air), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke)
 

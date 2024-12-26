@@ -1,6 +1,5 @@
 ---
-title: 'My first “Personal aerial photo-mapping session with balloons or kites,” a fundraising auction item, was successful'
-tagnames: balloon-mapping, kite-mapping
+title: "My first “Personal aerial photo-mapping session with balloons or kites,” a fundraising auction item, was successful"\ntagnames: 'balloon-mapping, kite-mapping'
 author: patcoyle
 path: /notes/patcoyle/7-26-2012/my-first-personal-aerial-photo-mapping-session-balloons-or-kites-fundraisin.md
 nid: 2961
@@ -10,7 +9,7 @@ uid: 77
 
 # My first “Personal aerial photo-mapping session with balloons or kites,” a fundraising auction item, was successful
 
-by [patcoyle](../profile/patcoyle) July 26, 2012 16:35
+by [patcoyle](../profile/patcoyle) | July 26, 2012 16:35
 
 July 26, 2012 16:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 

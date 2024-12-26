@@ -1,6 +1,5 @@
 ---
-title: 'Embeds'
-tagnames: maps, activities, embeds
+title: "Embeds"\ntagnames: 'maps, activities, embeds'
 author: warren
 path: /wiki/embeds.md
 nid: 14169

@@ -1,6 +1,5 @@
 ---
-title: 'Pie charts'
-tagnames: 
+title: "Pie charts"\ntagnames: ''
 author: warren
 path: /wiki/pie-charts.md
 nid: 888

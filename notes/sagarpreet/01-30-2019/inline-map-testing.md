@@ -1,6 +1,5 @@
 ---
-title: 'Inline map testing '
-tagnames: testing, developers
+title: "Inline map testing "\ntagnames: 'testing, developers'
 author: sagarpreet
 path: /notes/sagarpreet/01-30-2019/inline-map-testing.md
 nid: 18208
@@ -10,7 +9,7 @@ uid: 516343
 
 # Inline map testing 
 
-by [sagarpreet](../profile/sagarpreet) January 30, 2019 10:17
+by [sagarpreet](../profile/sagarpreet) | January 30, 2019 10:17
 
 January 30, 2019 10:17 | Tags: [testing](../tag/testing), [developers](../tag/developers)
 

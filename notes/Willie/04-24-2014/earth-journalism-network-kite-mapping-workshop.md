@@ -1,6 +1,5 @@
 ---
-title: 'Earth Journalism Network Kite Mapping Workshop'
-tagnames: norcal, event, replication:14022
+title: "Earth Journalism Network Kite Mapping Workshop"\ntagnames: 'norcal, event, replication:14022'
 author: willie
 path: /notes/Willie/04-24-2014/earth-journalism-network-kite-mapping-workshop.md
 nid: 10358
@@ -12,7 +11,7 @@ uid: 235174
 
 # Earth Journalism Network Kite Mapping Workshop
 
-by [willie](../profile/willie) April 24, 2014 19:01
+by [willie](../profile/willie) | April 24, 2014 19:01
 
 April 24, 2014 19:01 | Tags: [norcal](../tag/norcal), [event](../tag/event), [replication:14022](../tag/replication:14022)
 

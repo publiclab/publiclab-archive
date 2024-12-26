@@ -1,6 +1,5 @@
 ---
-title: 'Water flow sensor for shower?'
-tagnames: question, logger, water-sensors, water-sensor, shower-timer
+title: "Water flow sensor for shower?"\ntagnames: 'question, logger, water-sensors, water-sensor, shower-timer'
 author: marmdavis
 path: /notes/marmdavis/10-16-2018/water-flow-sensor-for-shower.md
 nid: 17299
@@ -10,7 +9,7 @@ uid: 555019
 
 # Water flow sensor for shower?
 
-by [marmdavis](../profile/marmdavis) October 16, 2018 04:44
+by [marmdavis](../profile/marmdavis) | October 16, 2018 04:44
 
 October 16, 2018 04:44 | Tags: [question](../tag/question), [logger](../tag/logger), [water-sensors](../tag/water-sensors), [water-sensor](../tag/water-sensor), [shower-timer](../tag/shower-timer)
 

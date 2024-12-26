@@ -1,6 +1,5 @@
 ---
-title: 'Claire Nobles and Brendan Scully - Water Samples, Conductivity, and Fun Times '
-tagnames: first-time-poster
+title: "Claire Nobles and Brendan Scully - Water Samples, Conductivity, and Fun Times "\ntagnames: 'first-time-poster'
 author: brendanscully
 path: /notes/brendanscully/10-01-2014/claire-noble-and-brendan-scully-water-samples-conductivity-and-fun-times.md
 nid: 11220
@@ -12,7 +11,7 @@ uid: 428089
 
 # Claire Nobles and Brendan Scully - Water Samples, Conductivity, and Fun Times 
 
-by [brendanscully](../profile/brendanscully) October 01, 2014 15:55
+by [brendanscully](../profile/brendanscully) | October 01, 2014 15:55
 
 October 01, 2014 15:55 | Tags: [first-time-poster](../tag/first-time-poster)
 

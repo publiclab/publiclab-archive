@@ -1,6 +1,5 @@
 ---
-title: 'Uncontrolled reentry'
-tagnames: kite-mapping, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12330, s100-gps
+title: "Uncontrolled reentry"\ntagnames: 'kite-mapping, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12330, s100-gps'
 author: cfastie
 path: /notes/cfastie/10-25-2015/uncontrolled-reentry.md
 nid: 12333
@@ -12,7 +11,7 @@ uid: 554
 
 # Uncontrolled reentry
 
-by [cfastie](../profile/cfastie) October 25, 2015 05:16
+by [cfastie](../profile/cfastie) | October 25, 2015 05:16
 
 October 25, 2015 05:16 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12330](../tag/response:12330), [s100-gps](../tag/s100-gps)
 

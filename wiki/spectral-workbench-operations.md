@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Workbench Operations'
-tagnames: spectrometer, software, spectral-workbench, spectral-workbench-api, developers, parent:spectral-workbench
+title: "Spectral Workbench Operations"\ntagnames: 'spectrometer, software, spectral-workbench, spectral-workbench-api, developers, parent:spectral-workbench'
 author: warren
 path: /wiki/spectral-workbench-operations.md
 nid: 12568

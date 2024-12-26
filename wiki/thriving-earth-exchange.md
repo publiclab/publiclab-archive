@@ -1,6 +1,5 @@
 ---
-title: 'Thriving Earth Exchange'
-tagnames: thriving-earth
+title: "Thriving Earth Exchange"\ntagnames: 'thriving-earth'
 author: warren
 path: /wiki/thriving-earth-exchange.md
 nid: 21525

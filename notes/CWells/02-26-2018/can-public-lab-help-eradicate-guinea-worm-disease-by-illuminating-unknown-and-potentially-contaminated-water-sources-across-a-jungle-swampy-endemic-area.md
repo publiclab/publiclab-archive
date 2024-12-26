@@ -1,6 +1,5 @@
 ---
-title: 'Can Public Lab help eradicate guinea worm disease by illuminating unknown and potentially contaminated water sources across a jungle/swampy endemic area?'
-tagnames: kite-mapping, waterway, mapping, water-quality-mapping, water, africa, mapping-requests, water-borne-diseases, question:mapping, ethiopia, question:water, question:guinea-worm, guinea-worm
+title: "Can Public Lab help eradicate guinea worm disease by illuminating unknown and potentially contaminated water sources across a jungle/swampy endemic area?"\ntagnames: 'kite-mapping, waterway, mapping, water-quality-mapping, water, africa, mapping-requests, water-borne-diseases, question:mapping, ethiopia, question:water, question:guinea-worm, guinea-worm'
 author: CWells
 path: /notes/CWells/02-26-2018/can-public-lab-help-eradicate-guinea-worm-disease-by-illuminating-unknown-and-potentially-contaminated-water-sources-across-a-jungle-swampy-endemic-area.md
 nid: 15816
@@ -12,7 +11,7 @@ uid: 526118
 
 # Can Public Lab help eradicate guinea worm disease by illuminating unknown and potentially contaminated water sources across a jungle/swampy endemic area?
 
-by [CWells](../profile/CWells) February 26, 2018 08:22
+by [CWells](../profile/CWells) | February 26, 2018 08:22
 
 February 26, 2018 08:22 | Tags: [kite-mapping](../tag/kite-mapping), [waterway](../tag/waterway), [mapping](../tag/mapping), [water-quality-mapping](../tag/water-quality-mapping), [water](../tag/water), [africa](../tag/africa), [mapping-requests](../tag/mapping-requests), [water-borne-diseases](../tag/water-borne-diseases), [question:mapping](../tag/question:mapping), [ethiopia](../tag/ethiopia), [question:water](../tag/question:water), [question:guinea-worm](../tag/question:guinea-worm), [guinea-worm](../tag/guinea-worm)
 

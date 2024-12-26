@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer focus'
-tagnames: spectrometer, desktop-spectrometry-kit, slit, improvements, focus, first-time-poster
+title: "Spectrometer focus"\ntagnames: 'spectrometer, desktop-spectrometry-kit, slit, improvements, focus, first-time-poster'
 author: stoft
 path: /notes/stoft/05-03-2013/spectrometer-focus.md
 nid: 7226
@@ -12,7 +11,7 @@ uid: 54025
 
 # Spectrometer focus
 
-by [stoft](../profile/stoft) May 03, 2013 20:02
+by [stoft](../profile/stoft) | May 03, 2013 20:02
 
 May 03, 2013 20:02 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [slit](../tag/slit), [improvements](../tag/improvements), [focus](../tag/focus), [first-time-poster](../tag/first-time-poster)
 

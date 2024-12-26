@@ -1,6 +1,5 @@
 ---
-title: 'Video - Occupy UC Davis - Nov. 21, 2011'
-tagnames: davis, protest-mapping, protest, california, occupy
+title: "Video - Occupy UC Davis - Nov. 21, 2011"\ntagnames: 'davis, protest-mapping, protest, california, occupy'
 author: gonzoearth
 path: /notes/gonzoearth/11-22-2011/video-occupy-uc-davis-nov-21-2011.md
 nid: 578
@@ -12,7 +11,7 @@ uid: 12
 
 # Video - Occupy UC Davis - Nov. 21, 2011
 
-by [gonzoearth](../profile/gonzoearth) November 22, 2011 23:07
+by [gonzoearth](../profile/gonzoearth) | November 22, 2011 23:07
 
 November 22, 2011 23:07 | Tags: [davis](../tag/davis), [protest-mapping](../tag/protest-mapping), [protest](../tag/protest), [california](../tag/california), [occupy](../tag/occupy)
 

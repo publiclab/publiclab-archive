@@ -1,6 +1,5 @@
 ---
-title: 'Midway update on Public Lab’s soil review'
-tagnames: soil, research, reviews, soil-contamination, research-area-review
+title: "Midway update on Public Lab’s soil review"\ntagnames: 'soil, research, reviews, soil-contamination, research-area-review'
 author: bhamster
 path: /notes/bhamster/03-02-2021/midway-update-on-public-lab-s-soil-review.md
 nid: 25827
@@ -12,7 +11,7 @@ uid: 664477
 
 # Midway update on Public Lab’s soil review
 
-by [bhamster](../profile/bhamster) March 02, 2021 18:03
+by [bhamster](../profile/bhamster) | March 02, 2021 18:03
 
 March 02, 2021 18:03 | Tags: [soil](../tag/soil), [research](../tag/research), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review)
 

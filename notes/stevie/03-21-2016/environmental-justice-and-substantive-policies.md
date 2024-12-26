@@ -1,6 +1,5 @@
 ---
-title: 'Environmental Justice and Substantive Policies'
-tagnames: blog, environmentaljustice, ej, law-and-policy
+title: "Environmental Justice and Substantive Policies"\ntagnames: 'blog, environmentaljustice, ej, law-and-policy'
 author: stevie
 path: /notes/stevie/03-21-2016/environmental-justice-and-substantive-policies.md
 nid: 12868
@@ -12,7 +11,7 @@ uid: 422561
 
 # Environmental Justice and Substantive Policies
 
-by [stevie](../profile/stevie) March 21, 2016 21:46
+by [stevie](../profile/stevie) | March 21, 2016 21:46
 
 March 21, 2016 21:46 | Tags: [blog](../tag/blog), [environmentaljustice](../tag/environmentaljustice), [ej](../tag/ej), [law-and-policy](../tag/law-and-policy)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Curriculum Image Processing'
-tagnames: education, curriculum, map-curriculum
+title: "Mapping Curriculum Image Processing"\ntagnames: 'education, curriculum, map-curriculum'
 author: warren
 path: /wiki/mapping-curriculum-image-processing.md
 nid: 82

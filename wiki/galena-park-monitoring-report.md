@@ -1,6 +1,5 @@
 ---
-title: 'galena-park-monitoring-report'
-tagnames: parent:texas, texas
+title: "galena-park-monitoring-report"\ntagnames: 'parent:texas, texas'
 author: liz
 path: /wiki/galena-park-monitoring-report.md
 nid: 12182

@@ -1,6 +1,5 @@
 ---
-title: 'Mystic River'
-tagnames: somerville-massachusetts, boston, pvos, conductivity, ioby, mystic-river, style:nobanner
+title: "Mystic River"\ntagnames: 'somerville-massachusetts, boston, pvos, conductivity, ioby, mystic-river, style:nobanner'
 author: donblair
 path: /wiki/mystic-river.md
 nid: 9934

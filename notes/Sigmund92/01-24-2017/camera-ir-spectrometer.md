@@ -1,6 +1,5 @@
 ---
-title: 'Camera IR, spectrometer'
-tagnames: spectrometer, answered, question:general
+title: "Camera IR, spectrometer"\ntagnames: 'spectrometer, answered, question:general'
 author: Sigmund92
 path: /notes/Sigmund92/01-24-2017/camera-ir-spectrometer.md
 nid: 13874
@@ -12,7 +11,7 @@ uid: 496585
 
 # Camera IR, spectrometer
 
-by [Sigmund92](../profile/Sigmund92) January 24, 2017 10:00
+by [Sigmund92](../profile/Sigmund92) | January 24, 2017 10:00
 
 January 24, 2017 10:00 | Tags: [spectrometer](../tag/spectrometer), [answered](../tag/answered), [question:general](../tag/question:general)
 

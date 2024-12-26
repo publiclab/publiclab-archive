@@ -1,6 +1,5 @@
 ---
-title: 'GSoC 2014 - Automatic Spectrometer Calibration'
-tagnames: spectralworkbench, gsoc, gsoc-2014, gsoc2014, response:10103, location:blurred, lat:-30, lon:140, zoom:4
+title: "GSoC 2014 - Automatic Spectrometer Calibration"\ntagnames: 'spectralworkbench, gsoc, gsoc-2014, gsoc2014, response:10103, location:blurred, lat:-30, lon:140, zoom:4'
 author: Sreyanth
 path: /notes/Sreyanth/05-20-2014/gsoc-2014-automatic-spectrometer-calibration.md
 nid: 10491
@@ -12,7 +11,7 @@ uid: 96713
 
 # GSoC 2014 - Automatic Spectrometer Calibration
 
-by [Sreyanth](../profile/Sreyanth) May 20, 2014 17:29
+by [Sreyanth](../profile/Sreyanth) | May 20, 2014 17:29
 
 May 20, 2014 17:29 | Tags: [spectralworkbench](../tag/spectralworkbench), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [gsoc2014](../tag/gsoc2014), [response:10103](../tag/response:10103), [location:blurred](../tag/location:blurred), [lat:-30](../tag/lat:-30), [lon:140](../tag/lon:140), [zoom:4](../tag/zoom:4)
 

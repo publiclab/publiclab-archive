@@ -1,6 +1,5 @@
 ---
-title: 'Melexis thermometer sensitivity is 5.5 um to 15 um'
-tagnames: thermal-photography, thermal-camera, pyrex, lenses, melexis
+title: "Melexis thermometer sensitivity is 5.5 um to 15 um"\ntagnames: 'thermal-photography, thermal-camera, pyrex, lenses, melexis'
 author: warren
 path: /notes/warren/2-9-2011/melexis-thermometer-sensitivity-55-um-15-um.md
 nid: 80
@@ -10,7 +9,7 @@ uid: 1
 
 # Melexis thermometer sensitivity is 5.5 um to 15 um
 
-by [warren](../profile/warren) February 09, 2011 20:42
+by [warren](../profile/warren) | February 09, 2011 20:42
 
 February 09, 2011 20:42 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-camera](../tag/thermal-camera), [pyrex](../tag/pyrex), [lenses](../tag/lenses), [melexis](../tag/melexis)
 

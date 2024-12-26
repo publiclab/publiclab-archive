@@ -1,6 +1,5 @@
 ---
-title: 'Autonomous Recording Unit'
-tagnames: arduino, research, environment, audio, data-logging, parent:data-logging
+title: "Autonomous Recording Unit"\ntagnames: 'arduino, research, environment, audio, data-logging, parent:data-logging'
 author: babailey
 path: /wiki/autonomous-recording-unit.md
 nid: 11181

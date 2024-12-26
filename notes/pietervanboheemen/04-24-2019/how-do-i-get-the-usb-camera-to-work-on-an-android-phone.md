@@ -1,6 +1,5 @@
 ---
-title: 'How do I get the USB camera to work on an Android phone'
-tagnames: community-microscope, question:community-microscope, first-time-poster
+title: "How do I get the USB camera to work on an Android phone"\ntagnames: 'community-microscope, question:community-microscope, first-time-poster'
 author: pietervanboheemen
 path: /notes/pietervanboheemen/04-24-2019/how-do-i-get-the-usb-camera-to-work-on-an-android-phone.md
 nid: 19156
@@ -10,7 +9,7 @@ uid: 435408
 
 # How do I get the USB camera to work on an Android phone
 
-by [pietervanboheemen](../profile/pietervanboheemen) April 24, 2019 19:09
+by [pietervanboheemen](../profile/pietervanboheemen) | April 24, 2019 19:09
 
 April 24, 2019 19:09 | Tags: [community-microscope](../tag/community-microscope), [question:community-microscope](../tag/question:community-microscope), [first-time-poster](../tag/first-time-poster)
 

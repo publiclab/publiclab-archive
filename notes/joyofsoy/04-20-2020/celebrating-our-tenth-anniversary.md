@@ -1,6 +1,5 @@
 ---
-title: 'Celebrating our tenth anniversary'
-tagnames: blog, anniversary, pl10
+title: "Celebrating our tenth anniversary"\ntagnames: 'blog, anniversary, pl10'
 author: joyofsoy
 path: /notes/joyofsoy/04-20-2020/celebrating-our-tenth-anniversary.md
 nid: 23422
@@ -12,7 +11,7 @@ uid: 540844
 
 # Celebrating our tenth anniversary
 
-by [joyofsoy](../profile/joyofsoy) April 20, 2020 07:14
+by [joyofsoy](../profile/joyofsoy) | April 20, 2020 07:14
 
 April 20, 2020 07:14 | Tags: [blog](../tag/blog), [anniversary](../tag/anniversary), [pl10](../tag/pl10)
 

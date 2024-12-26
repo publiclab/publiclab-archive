@@ -1,6 +1,5 @@
 ---
-title: 'New possibilities for a low-cost gas camera'
-tagnames: thermal-photography, thermal-imaging, camera, flir, methane, thermal, gas, gas-sensor, heat, vocs, thermopile, response:11377, gasfinder
+title: "New possibilities for a low-cost gas camera"\ntagnames: 'thermal-photography, thermal-imaging, camera, flir, methane, thermal, gas, gas-sensor, heat, vocs, thermopile, response:11377, gasfinder'
 author: loganw
 path: /notes/loganw/09-29-2016/new-possibilities-for-a-low-cost-gas-camera.md
 nid: 13507
@@ -12,7 +11,7 @@ uid: 493273
 
 # New possibilities for a low-cost gas camera
 
-by [loganw](../profile/loganw) September 29, 2016 19:21
+by [loganw](../profile/loganw) | September 29, 2016 19:21
 
 September 29, 2016 19:21 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-imaging](../tag/thermal-imaging), [camera](../tag/camera), [flir](../tag/flir), [methane](../tag/methane), [thermal](../tag/thermal), [gas](../tag/gas), [gas-sensor](../tag/gas-sensor), [heat](../tag/heat), [vocs](../tag/vocs), [thermopile](../tag/thermopile), [response:11377](../tag/response:11377), [gasfinder](../tag/gasfinder)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Question: Do you guys retract the kite / balloon line manually?'
-tagnames: question:balloon-mapping
+title: "Question: Do you guys retract the kite / balloon line manually?"\ntagnames: 'question:balloon-mapping'
 author: madapeti
 path: /notes/madapeti/10-26-2014/question-do-you-guys-retract-the-kite-balloon-line-manually.md
 nid: 11301
@@ -10,7 +9,7 @@ uid: 430465
 
 # Question: Do you guys retract the kite / balloon line manually?
 
-by [madapeti](../profile/madapeti) October 26, 2014 10:38
+by [madapeti](../profile/madapeti) | October 26, 2014 10:38
 
 October 26, 2014 10:38 | Tags: [question:balloon-mapping](../tag/question:balloon-mapping)
 

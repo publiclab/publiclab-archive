@@ -1,6 +1,5 @@
 ---
-title: 'Preparation for Pilot H2S Testing'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, hydrogen-sulfide-testing, photo-paper, h2s-photopaper, replication:509, first-time-poster
+title: "Preparation for Pilot H2S Testing"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, hydrogen-sulfide-testing, photo-paper, h2s-photopaper, replication:509, first-time-poster'
 author: ErikHanley11
 path: /notes/ErikHanley11/06-30-2015/preparation-for-pilot-h2s-testing.md
 nid: 12019
@@ -12,7 +11,7 @@ uid: 444638
 
 # Preparation for Pilot H2S Testing
 
-by [ErikHanley11](../profile/ErikHanley11) June 30, 2015 00:50
+by [ErikHanley11](../profile/ErikHanley11) | June 30, 2015 00:50
 
 June 30, 2015 00:50 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [hydrogen-sulfide-testing](../tag/hydrogen-sulfide-testing), [photo-paper](../tag/photo-paper), [h2s-photopaper](../tag/h2s-photopaper), [replication:509](../tag/replication:509), [first-time-poster](../tag/first-time-poster)
 

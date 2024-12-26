@@ -1,6 +1,5 @@
 ---
-title: 'Mãe d'Água'
-tagnames: water-quality, water, tool, datalogger, list:plots-waterquality, brasil, redeinfoamazonia, maedagua, drinking-water, data-logging, method, chemicals, parent:data-logging
+title: "Mãe d'Água"\ntagnames: 'water-quality, water, tool, datalogger, list:plots-waterquality, brasil, redeinfoamazonia, maedagua, drinking-water, data-logging, method, chemicals, parent:data-logging'
 author: vjpixel
 path: /wiki/mae-d-agua.md
 nid: 12086

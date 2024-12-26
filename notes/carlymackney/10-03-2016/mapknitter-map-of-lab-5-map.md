@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of Lab 5 Map'
-tagnames: 
+title: "MapKnitter map of Lab 5 Map"\ntagnames: ''
 author: carlymackney
 path: /notes/carlymackney/10-03-2016/mapknitter-map-of-lab-5-map.md
 nid: 13516
@@ -12,7 +11,7 @@ uid: 493085
 
 # MapKnitter map of Lab 5 Map
 
-by [carlymackney](../profile/carlymackney) October 03, 2016 23:04
+by [carlymackney](../profile/carlymackney) | October 03, 2016 23:04
 
 October 03, 2016 23:04 | Tags: 
 

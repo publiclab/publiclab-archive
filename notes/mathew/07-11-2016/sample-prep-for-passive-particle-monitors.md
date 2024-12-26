@@ -1,6 +1,5 @@
 ---
-title: 'Sample prep for Passive Particle Monitors'
-tagnames: air-quality, sample-containers, sample-prep, silica, frac-sand, particle-monitoring, passive-particle-monitors, passive-pm, with:amberwise, parent:frac-sand, time:30m, difficulty:easy, seeks:replications, category:build, sample-collection, dust-sampling, activity:dust-collection
+title: "Sample prep for Passive Particle Monitors"\ntagnames: 'air-quality, sample-containers, sample-prep, silica, frac-sand, particle-monitoring, passive-particle-monitors, passive-pm, with:amberwise, parent:frac-sand, time:30m, difficulty:easy, seeks:replications, category:build, sample-collection, dust-sampling, activity:dust-collection'
 author: mathew
 path: /notes/mathew/07-11-2016/sample-prep-for-passive-particle-monitors.md
 nid: 13280
@@ -12,7 +11,7 @@ uid: 4
 
 # Sample prep for Passive Particle Monitors
 
-by [mathew](../profile/mathew) July 11, 2016 21:04
+by [mathew](../profile/mathew) | July 11, 2016 21:04
 
 July 11, 2016 21:04 | Tags: [air-quality](../tag/air-quality), [sample-containers](../tag/sample-containers), [sample-prep](../tag/sample-prep), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [with:amberwise](../tag/with:amberwise), [parent:frac-sand](../tag/parent:frac-sand), [time:30m](../tag/time:30m), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications), [category:build](../tag/category:build), [sample-collection](../tag/sample-collection), [dust-sampling](../tag/dust-sampling), [activity:dust-collection](../tag/activity:dust-collection)
 

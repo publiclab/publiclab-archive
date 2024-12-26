@@ -1,6 +1,5 @@
 ---
-title: 'WebJack progress'
-tagnames: arduino, arduino-uno, sensor-readout, sensor-nodes, serial-link, webjack, activity:webjack, category:dev
+title: "WebJack progress"\ntagnames: 'arduino, arduino-uno, sensor-readout, sensor-nodes, serial-link, webjack, activity:webjack, category:dev'
 author: rmeister
 path: /notes/rmeister/07-11-2016/webjack-progress.md
 nid: 13277
@@ -12,7 +11,7 @@ uid: 468994
 
 # WebJack progress
 
-by [rmeister](../profile/rmeister) July 11, 2016 15:04
+by [rmeister](../profile/rmeister) | July 11, 2016 15:04
 
 July 11, 2016 15:04 | Tags: [arduino](../tag/arduino), [arduino-uno](../tag/arduino-uno), [sensor-readout](../tag/sensor-readout), [sensor-nodes](../tag/sensor-nodes), [serial-link](../tag/serial-link), [webjack](../tag/webjack), [activity:webjack](../tag/activity:webjack), [category:dev](../tag/category:dev)
 

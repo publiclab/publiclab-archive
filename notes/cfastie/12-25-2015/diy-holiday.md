@@ -1,6 +1,5 @@
 ---
-title: 'DIY holiday'
-tagnames: holiday, 3d-printing, christmas, response:11497
+title: "DIY holiday"\ntagnames: 'holiday, 3d-printing, christmas, response:11497'
 author: cfastie
 path: /notes/cfastie/12-25-2015/diy-holiday.md
 nid: 12543
@@ -12,7 +11,7 @@ uid: 554
 
 # DIY holiday
 
-by [cfastie](../profile/cfastie) December 25, 2015 13:16
+by [cfastie](../profile/cfastie) | December 25, 2015 13:16
 
 December 25, 2015 13:16 | Tags: [holiday](../tag/holiday), [3d-printing](../tag/3d-printing), [christmas](../tag/christmas), [response:11497](../tag/response:11497)
 

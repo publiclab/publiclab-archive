@@ -1,6 +1,5 @@
 ---
-title: 'Is this government security warning on NOAA new?'
-tagnames: question:general, edgi
+title: "Is this government security warning on NOAA new?"\ntagnames: 'question:general, edgi'
 author: marlokeno
 path: /notes/marlokeno/03-16-2017/is-this-government-security-warning-on-noaa-new.md
 nid: 14029
@@ -12,7 +11,7 @@ uid: 420760
 
 # Is this government security warning on NOAA new?
 
-by [marlokeno](../profile/marlokeno) March 16, 2017 18:55
+by [marlokeno](../profile/marlokeno) | March 16, 2017 18:55
 
 March 16, 2017 18:55 | Tags: [question:general](../tag/question:general), [edgi](../tag/edgi)
 

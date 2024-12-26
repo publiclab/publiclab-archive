@@ -1,6 +1,5 @@
 ---
-title: 'PLOTS Sept/Oct 2011 organization update'
-tagnames: 
+title: "PLOTS Sept/Oct 2011 organization update"\ntagnames: ''
 author: Shannon
 path: /notes/shannon/11-14-2011/plots-septoct-2011-organization-update.md
 nid: 560
@@ -10,7 +9,7 @@ uid: 9
 
 # PLOTS Sept/Oct 2011 organization update
 
-by [Shannon](../profile/Shannon) November 14, 2011 23:55
+by [Shannon](../profile/Shannon) | November 14, 2011 23:55
 
 November 14, 2011 23:55 | Tags: 
 

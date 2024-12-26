@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometers arriving: what next?'
-tagnames: spectrometer, spectralworkbench, kickstarter
+title: "Spectrometers arriving: what next?"\ntagnames: 'spectrometer, spectralworkbench, kickstarter'
 author: warren
 path: /notes/warren/12-19-2012/spectrometers-arriving-what-next.md
 nid: 5264
@@ -12,7 +11,7 @@ uid: 1
 
 # Spectrometers arriving: what next?
 
-by [warren](../profile/warren) December 19, 2012 21:35
+by [warren](../profile/warren) | December 19, 2012 21:35
 
 December 19, 2012 21:35 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [kickstarter](../tag/kickstarter)
 

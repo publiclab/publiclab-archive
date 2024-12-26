@@ -1,6 +1,5 @@
 ---
-title: 'Light bulb spectrum fchslamp'
-tagnames: hidden:response, response:13586
+title: "Light bulb spectrum fchslamp"\ntagnames: 'hidden:response, response:13586'
 author: mpmoberly
 path: /notes/mpmoberly/10-19-2016/light-bulb-spectrum-fchslamp.md
 nid: 13616
@@ -12,7 +11,7 @@ uid: 494931
 
 # Light bulb spectrum fchslamp
 
-by [mpmoberly](../profile/mpmoberly) October 19, 2016 17:27
+by [mpmoberly](../profile/mpmoberly) | October 19, 2016 17:27
 
 October 19, 2016 17:27 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 

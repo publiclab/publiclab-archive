@@ -1,6 +1,5 @@
 ---
-title: 'Texas'
-tagnames: gulf-coast, chapter, texas, location:blurred, place:united-states, zoom:6, lat:31, lon:-99
+title: "Texas"\ntagnames: 'gulf-coast, chapter, texas, location:blurred, place:united-states, zoom:6, lat:31, lon:-99'
 author: Shannon
 path: /wiki/texas.md
 nid: 370

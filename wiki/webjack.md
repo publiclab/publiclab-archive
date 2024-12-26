@@ -1,6 +1,5 @@
 ---
-title: 'WebJack'
-tagnames: arduino, sensors, tool, datalogger, arduino-uno, webjack, headphone-jack, activities:webjack, upgrades:webjack, method, electronic-sensors
+title: "WebJack"\ntagnames: 'arduino, sensors, tool, datalogger, arduino-uno, webjack, headphone-jack, activities:webjack, upgrades:webjack, method, electronic-sensors'
 author: rmeister
 path: /wiki/webjack.md
 nid: 13658

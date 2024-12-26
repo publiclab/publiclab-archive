@@ -1,6 +1,5 @@
 ---
-title: 'Hydrogen Sulfide Testing With Black and White Film'
-tagnames: hydrogen-sulfide, activity:h2s-photopaper, activity:hydrogen-sulfide, activity:hydrogen-sulfide-photopaper, first-time-poster
+title: "Hydrogen Sulfide Testing With Black and White Film"\ntagnames: 'hydrogen-sulfide, activity:h2s-photopaper, activity:hydrogen-sulfide, activity:hydrogen-sulfide-photopaper, first-time-poster'
 author: jschaffr
 path: /notes/jschaffr/10-18-2011/hydrogen-sulfide-testing-black-and-white-film.md
 nid: 509
@@ -12,7 +11,7 @@ uid: 315
 
 # Hydrogen Sulfide Testing With Black and White Film
 
-by [jschaffr](../profile/jschaffr) October 18, 2011 23:01
+by [jschaffr](../profile/jschaffr) | October 18, 2011 23:01
 
 October 18, 2011 23:01 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [activity:h2s-photopaper](../tag/activity:h2s-photopaper), [activity:hydrogen-sulfide](../tag/activity:hydrogen-sulfide), [activity:hydrogen-sulfide-photopaper](../tag/activity:hydrogen-sulfide-photopaper), [first-time-poster](../tag/first-time-poster)
 

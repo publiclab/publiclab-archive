@@ -1,6 +1,5 @@
 ---
-title: 'community development projects'
-tagnames: 
+title: "community development projects"\ntagnames: ''
 author: liz
 path: /wiki/community-development-projects.md
 nid: 13364

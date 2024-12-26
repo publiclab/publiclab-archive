@@ -1,6 +1,5 @@
 ---
-title: 'CSI: Creek Scene Investigators -public lab tv-'
-tagnames: video, water-quality, water, creek, tv, openwater, barnstar:video-documentation, waterquality, publiclabtv, csi
+title: "CSI: Creek Scene Investigators -public lab tv-"\ntagnames: 'video, water-quality, water, creek, tv, openwater, barnstar:video-documentation, waterquality, publiclabtv, csi'
 author: mathew
 path: /notes/mathew/12-15-2014/csi-creek-scene-investigators-public-lab-tv.md
 nid: 11461
@@ -12,7 +11,7 @@ uid: 4
 
 # CSI: Creek Scene Investigators -public lab tv-
 
-by [mathew](../profile/mathew) December 15, 2014 18:22
+by [mathew](../profile/mathew) | December 15, 2014 18:22
 
 December 15, 2014 18:22 | Tags: [video](../tag/video), [water-quality](../tag/water-quality), [water](../tag/water), [creek](../tag/creek), [tv](../tag/tv), [openwater](../tag/openwater), [barnstar:video-documentation](../tag/barnstar:video-documentation), [waterquality](../tag/waterquality), [publiclabtv](../tag/publiclabtv), [csi](../tag/csi)
 

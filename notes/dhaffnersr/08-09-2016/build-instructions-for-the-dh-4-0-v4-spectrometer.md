@@ -1,6 +1,5 @@
 ---
-title: 'Build Instructions For The DH 4.0 v4 Spectrometer'
-tagnames: upgrade:spectrometry
+title: "Build Instructions For The DH 4.0 v4 Spectrometer"\ntagnames: 'upgrade:spectrometry'
 author: dhaffnersr
 path: /notes/dhaffnersr/08-09-2016/build-instructions-for-the-dh-4-0-v4-spectrometer.md
 nid: 13342
@@ -12,7 +11,7 @@ uid: 461120
 
 # Build Instructions For The DH 4.0 v4 Spectrometer
 
-by [dhaffnersr](../profile/dhaffnersr) August 09, 2016 11:58
+by [dhaffnersr](../profile/dhaffnersr) | August 09, 2016 11:58
 
 August 09, 2016 11:58 | Tags: [upgrade:spectrometry](../tag/upgrade:spectrometry)
 

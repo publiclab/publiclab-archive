@@ -1,6 +1,5 @@
 ---
-title: 'Communicating Air Quality Data: Research Area Review Summary'
-tagnames: research, air-quality, reviews, environmental-data, data-visualization, research-area-review, presenting-data, with:fongvania, pin:air-quality, air-quality-data
+title: "Communicating Air Quality Data: Research Area Review Summary"\ntagnames: 'research, air-quality, reviews, environmental-data, data-visualization, research-area-review, presenting-data, with:fongvania, pin:air-quality, air-quality-data'
 author: bhamster
 path: /notes/bhamster/12-21-2021/communicating-air-quality-data-research-area-review-summary.md
 nid: 28517
@@ -12,7 +11,7 @@ uid: 664477
 
 # Communicating Air Quality Data: Research Area Review Summary
 
-by [bhamster](../profile/bhamster) December 21, 2021 17:11
+by [bhamster](../profile/bhamster) | December 21, 2021 17:11
 
 December 21, 2021 17:11 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [reviews](../tag/reviews), [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [research-area-review](../tag/research-area-review), [presenting-data](../tag/presenting-data), [with:fongvania](../tag/with:fongvania), [pin:air-quality](../tag/pin:air-quality), [air-quality-data](../tag/air-quality-data)
 

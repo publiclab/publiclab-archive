@@ -1,6 +1,5 @@
 ---
-title: ' Research for finding effective ways to block bluelight'
-tagnames: bluelight, korea
+title: " Research for finding effective ways to block bluelight"\ntagnames: 'bluelight, korea'
 author: gangrin
 path: /notes/gangrin/09-28-2015/research-for-finding-effective-ways-to-block-bluelight.md
 nid: 12246
@@ -12,7 +11,7 @@ uid: 452627
 
 #  Research for finding effective ways to block bluelight
 
-by [gangrin](../profile/gangrin) September 28, 2015 06:58
+by [gangrin](../profile/gangrin) | September 28, 2015 06:58
 
 September 28, 2015 06:58 | Tags: [bluelight](../tag/bluelight), [korea](../tag/korea)
 

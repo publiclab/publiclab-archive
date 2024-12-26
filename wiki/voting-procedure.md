@@ -1,6 +1,5 @@
 ---
-title: 'Voting procedure'
-tagnames: 
+title: "Voting procedure"\ntagnames: ''
 author: warren
 path: /wiki/voting-procedure.md
 nid: 529

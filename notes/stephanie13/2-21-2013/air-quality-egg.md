@@ -1,6 +1,5 @@
 ---
-title: 'Air Quality Egg'
-tagnames: cypress-hills, chaq, air-quality-egg
+title: "Air Quality Egg"\ntagnames: 'cypress-hills, chaq, air-quality-egg'
 author: Stephanie13
 path: /notes/stephanie13/2-21-2013/air-quality-egg.md
 nid: 6086
@@ -12,7 +11,7 @@ uid: 50454
 
 # Air Quality Egg
 
-by [Stephanie13](../profile/Stephanie13) February 21, 2013 23:44
+by [Stephanie13](../profile/Stephanie13) | February 21, 2013 23:44
 
 February 21, 2013 23:44 | Tags: [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [air-quality-egg](../tag/air-quality-egg)
 

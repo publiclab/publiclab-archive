@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab job posting: Kits Fulfillment Coordinator'
-tagnames: kits, nonprofit, jobs, first-time-poster, lat:41.824548, lon:-71.412506
+title: "Public Lab job posting: Kits Fulfillment Coordinator"\ntagnames: 'kits, nonprofit, jobs, first-time-poster, lat:41.824548, lon:-71.412506'
 author: thewrightjess
 path: /notes/thewrightjess/09-27-2019/public-lab-job-posting-kits-fulfillment-coordinator.md
 nid: 21030
@@ -12,7 +11,7 @@ uid: 603909
 
 # Public Lab job posting: Kits Fulfillment Coordinator
 
-by [thewrightjess](../profile/thewrightjess) September 27, 2019 16:54
+by [thewrightjess](../profile/thewrightjess) | September 27, 2019 16:54
 
 September 27, 2019 16:54 | Tags: [kits](../tag/kits), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [first-time-poster](../tag/first-time-poster), [lat:41.824548](../tag/lat:41.824548), [lon:-71.412506](../tag/lon:-71.412506)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Willow Creek Water Quality Monitoring'
-tagnames: arduino, colorado, water-quality, water, riffle, open-water, barnstar:basic, china, data-logging, project, knowflow, replication:14511, mountain-west, reclamation
+title: "Willow Creek Water Quality Monitoring"\ntagnames: 'arduino, colorado, water-quality, water, riffle, open-water, barnstar:basic, china, data-logging, project, knowflow, replication:14511, mountain-west, reclamation'
 author: MadTinker
 path: /notes/MadTinker/07-31-2017/willow-creek-water-quality-monitoring.md
 nid: 14702
@@ -12,7 +11,7 @@ uid: 461206
 
 # Willow Creek Water Quality Monitoring
 
-by [MadTinker](../profile/MadTinker) July 31, 2017 17:45
+by [MadTinker](../profile/MadTinker) | July 31, 2017 17:45
 
 July 31, 2017 17:45 | Tags: [arduino](../tag/arduino), [colorado](../tag/colorado), [water-quality](../tag/water-quality), [water](../tag/water), [riffle](../tag/riffle), [open-water](../tag/open-water), [barnstar:basic](../tag/barnstar:basic), [china](../tag/china), [data-logging](../tag/data-logging), [project](../tag/project), [knowflow](../tag/knowflow), [replication:14511](../tag/replication:14511), [mountain-west](../tag/mountain-west), [reclamation](../tag/reclamation)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Whitney Trade School Class'
-tagnames: education
+title: "Whitney Trade School Class"\ntagnames: 'education'
 author: warren
 path: /wiki/whitney-trade-school-class.md
 nid: 116

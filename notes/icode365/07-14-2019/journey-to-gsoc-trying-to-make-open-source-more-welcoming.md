@@ -1,6 +1,5 @@
 ---
-title: 'Journey to GSoC '19: Making community toolbox more welcoming'
-tagnames: software, gsoc, google-summer-of-code, summer-of-code
+title: "Journey to GSoC '19: Making community toolbox more welcoming"\ntagnames: 'software, gsoc, google-summer-of-code, summer-of-code'
 author: icode365
 path: /notes/icode365/07-14-2019/journey-to-gsoc-trying-to-make-open-source-more-welcoming.md
 nid: 20098
@@ -12,7 +11,7 @@ uid: 553778
 
 # Journey to GSoC '19: Making community toolbox more welcoming
 
-by [icode365](../profile/icode365) July 14, 2019 13:04
+by [icode365](../profile/icode365) | July 14, 2019 13:04
 
 July 14, 2019 13:04 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [google-summer-of-code](../tag/google-summer-of-code), [summer-of-code](../tag/summer-of-code)
 

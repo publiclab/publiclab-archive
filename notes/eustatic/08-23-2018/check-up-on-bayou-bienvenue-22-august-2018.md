@@ -1,6 +1,5 @@
 ---
-title: 'Check up on Bayou Bienvenue 22 August 2018'
-tagnames: gulf-coast, balloon-mapping, wetlands, louisiana, wetland, bienvenue, water-quality, invasive, neworleans, willow, urbanwater, hyacinth, duckweed, mullet, osprey, egret, louisianaheron, blueheron, milfoil
+title: "Check up on Bayou Bienvenue 22 August 2018"\ntagnames: 'gulf-coast, balloon-mapping, wetlands, louisiana, wetland, bienvenue, water-quality, invasive, neworleans, willow, urbanwater, hyacinth, duckweed, mullet, osprey, egret, louisianaheron, blueheron, milfoil'
 author: eustatic
 path: /08-23-2018/check-up-on-bayou-bienvenue-22-august-2018.md
 nid: 16984
@@ -12,7 +11,7 @@ uid: 379
 
 # Check up on Bayou Bienvenue 22 August 2018
 
-by [eustatic](../profile/eustatic) August 23, 2018 03:27
+by [eustatic](../profile/eustatic) | August 23, 2018 03:27
 
 August 23, 2018 03:27 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [bienvenue](../tag/bienvenue), [water-quality](../tag/water-quality), [invasive](../tag/invasive), [neworleans](../tag/neworleans), [willow](../tag/willow), [urbanwater](../tag/urbanwater), [hyacinth](../tag/hyacinth), [duckweed](../tag/duckweed), [mullet](../tag/mullet), [osprey](../tag/osprey), [egret](../tag/egret), [louisianaheron](../tag/louisianaheron), [blueheron](../tag/blueheron), [milfoil](../tag/milfoil)
 

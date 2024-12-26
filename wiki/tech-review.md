@@ -1,6 +1,5 @@
 ---
-title: 'tech-review'
-tagnames: method
+title: "tech-review"\ntagnames: 'method'
 author: mathew
 path: /wiki/tech-review.md
 nid: 12936

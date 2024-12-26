@@ -1,6 +1,5 @@
 ---
-title: 'Bayou Bienvenue Main Outfall Canal Oblique Aerials'
-tagnames: gulf-coast, kite-mapping, bienvenue
+title: "Bayou Bienvenue Main Outfall Canal Oblique Aerials"\ntagnames: 'gulf-coast, kite-mapping, bienvenue'
 author: gonzoearth
 path: /notes/gonzoearth/2-15-2013/bayou-bienvenue-main-outfall-canal-oblique-aerials.md
 nid: 6003
@@ -12,7 +11,7 @@ uid: 12
 
 # Bayou Bienvenue Main Outfall Canal Oblique Aerials
 
-by [gonzoearth](../profile/gonzoearth) February 15, 2013 18:29
+by [gonzoearth](../profile/gonzoearth) | February 15, 2013 18:29
 
 February 15, 2013 18:29 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bienvenue](../tag/bienvenue)
 

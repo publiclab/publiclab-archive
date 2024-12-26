@@ -1,6 +1,5 @@
 ---
-title: 'Touch|Play|Learn: a space to explore & create'
-tagnames: london, diy-balloon-arduino-play-fun, uk, eu
+title: "Touch|Play|Learn: a space to explore & create"\ntagnames: 'london, diy-balloon-arduino-play-fun, uk, eu'
 author: cindy_excites
 path: /notes/cindyexcites/9-26-2012/touchplaylearn-space-explore-create.md
 nid: 4025
@@ -12,7 +11,7 @@ uid: 1083
 
 # Touch|Play|Learn: a space to explore & create
 
-by [cindy_excites](../profile/cindy_excites) September 26, 2012 18:25
+by [cindy_excites](../profile/cindy_excites) | September 26, 2012 18:25
 
 September 26, 2012 18:25 | Tags: [london](../tag/london), [diy-balloon-arduino-play-fun](../tag/diy-balloon-arduino-play-fun), [uk](../tag/uk), [eu](../tag/eu)
 

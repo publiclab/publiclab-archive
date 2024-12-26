@@ -1,6 +1,5 @@
 ---
-title: 'More re: small pocket sled kite for Mobius camera'
-tagnames: kap, sled-kite, gimp, mobius-actioncam
+title: "More re: small pocket sled kite for Mobius camera"\ntagnames: 'kap, sled-kite, gimp, mobius-actioncam'
 author: patcoyle
 path: /notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camera.md
 nid: 12073
@@ -12,7 +11,7 @@ uid: 77
 
 # More re: small pocket sled kite for Mobius camera
 
-by [patcoyle](../profile/patcoyle) July 17, 2015 05:19
+by [patcoyle](../profile/patcoyle) | July 17, 2015 05:19
 
 July 17, 2015 05:19 | Tags: [kap](../tag/kap), [sled-kite](../tag/sled-kite), [gimp](../tag/gimp), [mobius-actioncam](../tag/mobius-actioncam)
 

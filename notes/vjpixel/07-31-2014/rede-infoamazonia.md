@@ -1,6 +1,5 @@
 ---
-title: 'Rede InfoAmazonia'
-tagnames: water-quality-monitoring, water-quality, brasil, water-qualit-sensor, amazon, amazonia, redeinfoamazonia, first-time-poster
+title: "Rede InfoAmazonia"\ntagnames: 'water-quality-monitoring, water-quality, brasil, water-qualit-sensor, amazon, amazonia, redeinfoamazonia, first-time-poster'
 author: vjpixel
 path: /notes/vjpixel/07-31-2014/rede-infoamazonia.md
 nid: 11000
@@ -12,7 +11,7 @@ uid: 420617
 
 # Rede InfoAmazonia
 
-by [vjpixel](../profile/vjpixel) July 31, 2014 18:02
+by [vjpixel](../profile/vjpixel) | July 31, 2014 18:02
 
 July 31, 2014 18:02 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [brasil](../tag/brasil), [water-qualit-sensor](../tag/water-qualit-sensor), [amazon](../tag/amazon), [amazonia](../tag/amazonia), [redeinfoamazonia](../tag/redeinfoamazonia), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Sustaining Member t-shirts are in!'
-tagnames: sustaining-members
+title: "Sustaining Member t-shirts are in!"\ntagnames: 'sustaining-members'
 author: Becki
 path: /notes/Becki/11-25-2014/sustaining-member-t-shirts-are-in.md
 nid: 11403
@@ -12,7 +11,7 @@ uid: 46673
 
 # Sustaining Member t-shirts are in!
 
-by [Becki](../profile/Becki) November 25, 2014 23:53
+by [Becki](../profile/Becki) | November 25, 2014 23:53
 
 November 25, 2014 23:53 | Tags: [sustaining-members](../tag/sustaining-members)
 

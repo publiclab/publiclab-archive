@@ -1,6 +1,5 @@
 ---
-title: 'scheduling'
-tagnames: parent:gardening-toolkit, gardening-toolkit
+title: "scheduling"\ntagnames: 'parent:gardening-toolkit, gardening-toolkit'
 author: liz
 path: /wiki/scheduling.md
 nid: 11517

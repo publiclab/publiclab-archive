@@ -1,6 +1,5 @@
 ---
-title: 'Payload Weight'
-tagnames: balloon-mapping, kite-mapping, grassrootsmappingwiki, diy-balloon, payload, weight
+title: "Payload Weight"\ntagnames: 'balloon-mapping, kite-mapping, grassrootsmappingwiki, diy-balloon, payload, weight'
 author: warren
 path: /wiki/payload-weight.md
 nid: 1734

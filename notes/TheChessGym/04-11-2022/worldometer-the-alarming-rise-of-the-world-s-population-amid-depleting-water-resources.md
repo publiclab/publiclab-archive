@@ -1,6 +1,5 @@
 ---
-title: '"Worldometer" The Alarming Rise Of The World's Population Amid Depleting Water Resources '
-tagnames: microplastics, zoom:5, lat:22.004174, lon:76.003417
+title: ""Worldometer" The Alarming Rise Of The World's Population Amid Depleting Water Resources "\ntagnames: 'microplastics, zoom:5, lat:22.004174, lon:76.003417'
 author: TheChessGym
 path: /notes/TheChessGym/04-11-2022/worldometer-the-alarming-rise-of-the-world-s-population-amid-depleting-water-resources.md
 nid: 30347
@@ -12,7 +11,7 @@ uid: 788868
 
 # "Worldometer" The Alarming Rise Of The World's Population Amid Depleting Water Resources 
 
-by [TheChessGym](../profile/TheChessGym) April 11, 2022 15:16
+by [TheChessGym](../profile/TheChessGym) | April 11, 2022 15:16
 
 April 11, 2022 15:16 | Tags: [microplastics](../tag/microplastics), [zoom:5](../tag/zoom:5), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
 

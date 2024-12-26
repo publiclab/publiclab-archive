@@ -1,6 +1,5 @@
 ---
-title: 'NE Barnraising 2014'
-tagnames: barnraising, event, organizers, massachusetts, tidmarsh, northeast, nebarnraising, ma, response:10545
+title: "NE Barnraising 2014"\ntagnames: 'barnraising, event, organizers, massachusetts, tidmarsh, northeast, nebarnraising, ma, response:10545'
 author: cfastie
 path: /notes/cfastie/06-11-2014/ne-barnraising-2014.md
 nid: 10551
@@ -12,7 +11,7 @@ uid: 554
 
 # NE Barnraising 2014
 
-by [cfastie](../profile/cfastie) June 11, 2014 03:54
+by [cfastie](../profile/cfastie) | June 11, 2014 03:54
 
 June 11, 2014 03:54 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [organizers](../tag/organizers), [massachusetts](../tag/massachusetts), [tidmarsh](../tag/tidmarsh), [northeast](../tag/northeast), [nebarnraising](../tag/nebarnraising), [ma](../tag/ma), [response:10545](../tag/response:10545)
 

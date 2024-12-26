@@ -1,6 +1,5 @@
 ---
-title: 'Fracking'
-tagnames: fracking, environmental, hydrofracking, oil-and-gas
+title: "Fracking"\ntagnames: 'fracking, environmental, hydrofracking, oil-and-gas'
 author: laurel_mire
 path: /wiki/fracking.md
 nid: 28124

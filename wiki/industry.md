@@ -1,6 +1,5 @@
 ---
-title: 'Industry'
-tagnames: industry
+title: "Industry"\ntagnames: 'industry'
 author: stevie
 path: /wiki/industry.md
 nid: 21064

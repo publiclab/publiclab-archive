@@ -1,6 +1,5 @@
 ---
-title: 'Prolight 1W 400-410nm UV LED (high brightness-350mA) Tested today'
-tagnames: 
+title: "Prolight 1W 400-410nm UV LED (high brightness-350mA) Tested today"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-04-2016/prolight-1w-400-410nm-uv-led-high-brightness-350ma-tested-today.md
 nid: 12918
@@ -12,7 +11,7 @@ uid: 461120
 
 # Prolight 1W 400-410nm UV LED (high brightness-350mA) Tested today
 
-by [dhaffnersr](../profile/dhaffnersr) April 04, 2016 18:43
+by [dhaffnersr](../profile/dhaffnersr) | April 04, 2016 18:43
 
 April 04, 2016 18:43 | Tags: 
 

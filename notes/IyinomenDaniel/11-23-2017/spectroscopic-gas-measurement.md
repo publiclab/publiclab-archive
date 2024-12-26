@@ -1,6 +1,5 @@
 ---
-title: 'Spectroscopic gas measurement'
-tagnames: question:general
+title: "Spectroscopic gas measurement"\ntagnames: 'question:general'
 author: IyinomenDaniel
 path: /notes/IyinomenDaniel/11-23-2017/spectroscopic-gas-measurement.md
 nid: 15233
@@ -10,7 +9,7 @@ uid: 519115
 
 # Spectroscopic gas measurement
 
-by [IyinomenDaniel](../profile/IyinomenDaniel) November 23, 2017 13:31
+by [IyinomenDaniel](../profile/IyinomenDaniel) | November 23, 2017 13:31
 
 November 23, 2017 13:31 | Tags: [question:general](../tag/question:general)
 

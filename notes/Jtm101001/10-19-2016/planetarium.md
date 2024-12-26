@@ -1,6 +1,5 @@
 ---
-title: 'Planetarium '
-tagnames: hidden:response, response:13586, first-time-poster
+title: "Planetarium "\ntagnames: 'hidden:response, response:13586, first-time-poster'
 author: Jtm101001
 path: /notes/Jtm101001/10-19-2016/planetarium.md
 nid: 13604
@@ -12,7 +11,7 @@ uid: 494918
 
 # Planetarium 
 
-by [Jtm101001](../profile/Jtm101001) October 19, 2016 17:25
+by [Jtm101001](../profile/Jtm101001) | October 19, 2016 17:25
 
 October 19, 2016 17:25 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586), [first-time-poster](../tag/first-time-poster)
 

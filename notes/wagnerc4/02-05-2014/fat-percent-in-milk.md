@@ -1,6 +1,5 @@
 ---
-title: 'Fat percent in milk'
-tagnames: spectrometer, milk, milk-fat, activity:spectrometry
+title: "Fat percent in milk"\ntagnames: 'spectrometer, milk, milk-fat, activity:spectrometry'
 author: wagnerc4
 path: /notes/wagnerc4/02-05-2014/fat-percent-in-milk.md
 nid: 10012
@@ -12,7 +11,7 @@ uid: 420634
 
 # Fat percent in milk
 
-by [wagnerc4](../profile/wagnerc4) February 05, 2014 19:37
+by [wagnerc4](../profile/wagnerc4) | February 05, 2014 19:37
 
 February 05, 2014 19:37 | Tags: [spectrometer](../tag/spectrometer), [milk](../tag/milk), [milk-fat](../tag/milk-fat), [activity:spectrometry](../tag/activity:spectrometry)
 

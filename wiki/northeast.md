@@ -1,6 +1,5 @@
 ---
-title: 'Northeast US and Eastern Canada'
-tagnames: list:publiclab-northeast, events:northeast, regional, region
+title: "Northeast US and Eastern Canada"\ntagnames: 'list:publiclab-northeast, events:northeast, regional, region'
 author: liz
 path: /wiki/northeast.md
 nid: 10393

@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Barnraising 2014, day 2'
-tagnames: gulf-coast, kite-mapping, louisiana, cocodrie, barnraising, lumcon, barnraising2014, response:11504
+title: "Public Lab Barnraising 2014, day 2"\ntagnames: 'gulf-coast, kite-mapping, louisiana, cocodrie, barnraising, lumcon, barnraising2014, response:11504'
 author: cfastie
 path: /notes/cfastie/01-03-2015/public-lab-barnraising-2014-day-2.md
 nid: 11505
@@ -12,7 +11,7 @@ uid: 554
 
 # Public Lab Barnraising 2014, day 2
 
-by [cfastie](../profile/cfastie) January 03, 2015 23:37
+by [cfastie](../profile/cfastie) | January 03, 2015 23:37
 
 January 03, 2015 23:37 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [louisiana](../tag/louisiana), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising2014](../tag/barnraising2014), [response:11504](../tag/response:11504)
 

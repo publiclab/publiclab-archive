@@ -1,6 +1,5 @@
 ---
-title: 'Build a budget for Barnraising '
-tagnames: barnraising, planning, activity:preparations-logistics
+title: "Build a budget for Barnraising "\ntagnames: 'barnraising, planning, activity:preparations-logistics'
 author: stevie
 path: /notes/stevie/07-25-2018/build-a-budget-for-barnraising.md
 nid: 16787
@@ -12,7 +11,7 @@ uid: 422561
 
 # Build a budget for Barnraising 
 
-by [stevie](../profile/stevie) July 25, 2018 21:16
+by [stevie](../profile/stevie) | July 25, 2018 21:16
 
 July 25, 2018 21:16 | Tags: [barnraising](../tag/barnraising), [planning](../tag/planning), [activity:preparations-logistics](../tag/activity:preparations-logistics)
 

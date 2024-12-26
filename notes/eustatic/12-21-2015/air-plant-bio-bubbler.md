@@ -1,6 +1,5 @@
 ---
-title: 'Air Plant Bio Bubbler'
-tagnames: gulf-coast, remediation, air-quality, tool, wherewebreathe
+title: "Air Plant Bio Bubbler"\ntagnames: 'gulf-coast, remediation, air-quality, tool, wherewebreathe'
 author: eustatic
 path: /12-21-2015/air-plant-bio-bubbler.md
 nid: 12535
@@ -12,7 +11,7 @@ uid: 379
 
 # Air Plant Bio Bubbler
 
-by [eustatic](../profile/eustatic) December 21, 2015 06:59
+by [eustatic](../profile/eustatic) | December 21, 2015 06:59
 
 December 21, 2015 06:59 | Tags: [gulf-coast](../tag/gulf-coast), [remediation](../tag/remediation), [air-quality](../tag/air-quality), [tool](../tag/tool), [wherewebreathe](../tag/wherewebreathe)
 

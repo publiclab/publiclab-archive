@@ -1,6 +1,5 @@
 ---
-title: 'Tyvek+Bamboo Kite Workshop at Pfizer Building (Brooklyn, NY 6/29-30/2012))'
-tagnames: balloon-mapping, thermal-photography, kite-mapping, ilab, tyvek, diy-kite, kite-making, kite-building, activity:tyvek, first-time-poster
+title: "Tyvek+Bamboo Kite Workshop at Pfizer Building (Brooklyn, NY 6/29-30/2012))"\ntagnames: 'balloon-mapping, thermal-photography, kite-mapping, ilab, tyvek, diy-kite, kite-making, kite-building, activity:tyvek, first-time-poster'
 author: elainechoi89
 path: /notes/elainechoi89/7-5-2012/tyvekbamboo-kite-workshop-pfizer-building-brooklyn-ny.md
 nid: 2715
@@ -12,7 +11,7 @@ uid: 6102
 
 # Tyvek+Bamboo Kite Workshop at Pfizer Building (Brooklyn, NY 6/29-30/2012))
 
-by [elainechoi89](../profile/elainechoi89) July 05, 2012 19:45
+by [elainechoi89](../profile/elainechoi89) | July 05, 2012 19:45
 
 July 05, 2012 19:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab), [tyvek](../tag/tyvek), [diy-kite](../tag/diy-kite), [kite-making](../tag/kite-making), [kite-building](../tag/kite-building), [activity:tyvek](../tag/activity:tyvek), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Kite Mapping in Vancouver - Take 3'
-tagnames: kite-mapping, vancouver
+title: "Kite Mapping in Vancouver - Take 3"\ntagnames: 'kite-mapping, vancouver'
 author: MelissaN
 path: /notes/MelissaN/12-01-2014/kite-mapping-in-vancouver-take-3.md
 nid: 11415
@@ -12,7 +11,7 @@ uid: 305152
 
 # Kite Mapping in Vancouver - Take 3
 
-by [MelissaN](../profile/MelissaN) December 01, 2014 03:45
+by [MelissaN](../profile/MelissaN) | December 01, 2014 03:45
 
 December 01, 2014 03:45 | Tags: [kite-mapping](../tag/kite-mapping), [vancouver](../tag/vancouver)
 

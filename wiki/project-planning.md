@@ -1,6 +1,5 @@
 ---
-title: 'Project Planning'
-tagnames: 
+title: "Project Planning"\ntagnames: ''
 author: warren
 path: /wiki/project-planning.md
 nid: 378

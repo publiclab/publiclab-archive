@@ -1,6 +1,5 @@
 ---
-title: 'Question: the camera look only white and dont have focus...it´s teh camera bad?'
-tagnames: question:spectrometry
+title: "Question: the camera look only white and dont have focus...it´s teh camera bad?"\ntagnames: 'question:spectrometry'
 author: masolaric
 path: /notes/masolaric/10-16-2014/question-the-camera-look-only-white-and-dont-have-focus-it-s-teh-camera-bad.md
 nid: 11270
@@ -10,7 +9,7 @@ uid: 426768
 
 # Question: the camera look only white and dont have focus...it´s teh camera bad?
 
-by [masolaric](../profile/masolaric) October 16, 2014 20:31
+by [masolaric](../profile/masolaric) | October 16, 2014 20:31
 
 October 16, 2014 20:31 | Tags: [question:spectrometry](../tag/question:spectrometry)
 

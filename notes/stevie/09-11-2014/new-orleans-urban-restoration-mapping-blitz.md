@@ -1,6 +1,5 @@
 ---
-title: 'New Orleans: Urban Restoration Mapping BLITZ!'
-tagnames: gulf-coast, balloon-mapping, events, event, event:rsvp, rsvp:danbeavers, date:10-11-2014, rsvp:brody, rsvp:williammost, rsvp:mjg2171, rsvp:jessicavarin, rsvp:tmclean, rsvp:williams, rsvp:bandi13, urbanwaters
+title: "New Orleans: Urban Restoration Mapping BLITZ!"\ntagnames: 'gulf-coast, balloon-mapping, events, event, event:rsvp, rsvp:danbeavers, date:10-11-2014, rsvp:brody, rsvp:williammost, rsvp:mjg2171, rsvp:jessicavarin, rsvp:tmclean, rsvp:williams, rsvp:bandi13, urbanwaters'
 author: stevie
 path: /notes/stevie/09-11-2014/new-orleans-urban-restoration-mapping-blitz.md
 nid: 11131
@@ -12,7 +11,7 @@ uid: 422561
 
 # New Orleans: Urban Restoration Mapping BLITZ!
 
-by [stevie](../profile/stevie) September 11, 2014 22:21
+by [stevie](../profile/stevie) | September 11, 2014 22:21
 
 September 11, 2014 22:21 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [events](../tag/events), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [rsvp:danbeavers](../tag/rsvp:danbeavers), [date:10-11-2014](../tag/date:10-11-2014), [rsvp:brody](../tag/rsvp:brody), [rsvp:williammost](../tag/rsvp:williammost), [rsvp:mjg2171](../tag/rsvp:mjg2171), [rsvp:jessicavarin](../tag/rsvp:jessicavarin), [rsvp:tmclean](../tag/rsvp:tmclean), [rsvp:williams](../tag/rsvp:williams), [rsvp:bandi13](../tag/rsvp:bandi13), [urbanwaters](../tag/urbanwaters)
 

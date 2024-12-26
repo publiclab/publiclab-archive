@@ -1,6 +1,5 @@
 ---
-title: 'Design Specifications for Field Camera'
-tagnames: design, turbidity, mobius, trapcam, specs
+title: "Design Specifications for Field Camera"\ntagnames: 'design, turbidity, mobius, trapcam, specs'
 author: tonyc
 path: /notes/tonyc/07-07-2016/design-specifications-for-field-camera.md
 nid: 13266
@@ -12,7 +11,7 @@ uid: 447491
 
 # Design Specifications for Field Camera
 
-by [tonyc](../profile/tonyc) July 07, 2016 19:01
+by [tonyc](../profile/tonyc) | July 07, 2016 19:01
 
 July 07, 2016 19:01 | Tags: [design](../tag/design), [turbidity](../tag/turbidity), [mobius](../tag/mobius), [trapcam](../tag/trapcam), [specs](../tag/specs)
 

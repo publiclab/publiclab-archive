@@ -1,6 +1,5 @@
 ---
-title: 'SoC Proposal : Spectral Workbench Capture'
-tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects
+title: "SoC Proposal : Spectral Workbench Capture"\ntagnames: 'software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects'
 author: sidntrivedi012
 path: /notes/sidntrivedi012/04-01-2019/soc-proposal-spectral-workbench-capture.md
 nid: 18922
@@ -12,7 +11,7 @@ uid: 572743
 
 # SoC Proposal : Spectral Workbench Capture
 
-by [sidntrivedi012](../profile/sidntrivedi012) April 01, 2019 11:36
+by [sidntrivedi012](../profile/sidntrivedi012) | April 01, 2019 11:36
 
 April 01, 2019 11:36 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Potholes in New Orleans Survey Results'
-tagnames: gulf-coast, laplace, louisiana, transportation, new-orleans, potholes, roads, stem, zoom:6, asphalt, lat:30.050076, lon:-90.571289
+title: "Potholes in New Orleans Survey Results"\ntagnames: 'gulf-coast, laplace, louisiana, transportation, new-orleans, potholes, roads, stem, zoom:6, asphalt, lat:30.050076, lon:-90.571289'
 author: Rgaude
 path: /notes/Rgaude/05-14-2021/potholes-in-new-orleans-survey-results.md
 nid: 26591
@@ -12,7 +11,7 @@ uid: 749812
 
 # Potholes in New Orleans Survey Results
 
-by [Rgaude](../profile/Rgaude) May 14, 2021 14:54
+by [Rgaude](../profile/Rgaude) | May 14, 2021 14:54
 
 May 14, 2021 14:54 | Tags: [gulf-coast](../tag/gulf-coast), [laplace](../tag/laplace), [louisiana](../tag/louisiana), [transportation](../tag/transportation), [new-orleans](../tag/new-orleans), [potholes](../tag/potholes), [roads](../tag/roads), [stem](../tag/stem), [zoom:6](../tag/zoom:6), [asphalt](../tag/asphalt), [lat:30.050076](../tag/lat:30.050076), [lon:-90.571289](../tag/lon:-90.571289)
 

@@ -1,6 +1,5 @@
 ---
-title: 'riffle_design_philosophy'
-tagnames: riffle, parent:riffle, design-philosophy
+title: "riffle_design_philosophy"\ntagnames: 'riffle, parent:riffle, design-philosophy'
 author: donblair
 path: /wiki/riffle_design_philosophy.md
 nid: 13476

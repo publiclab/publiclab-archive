@@ -1,6 +1,5 @@
 ---
-title: 'prompt-add-photo'
-tagnames: 
+title: "prompt-add-photo"\ntagnames: ''
 author: warren
 path: /feature/prompt-add-photo.md
 nid: 21123

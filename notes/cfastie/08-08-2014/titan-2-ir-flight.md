@@ -1,6 +1,5 @@
 ---
-title: 'Titan 2 IR flight'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, photo-rig, infragram, 3d-printing, makerbot, northeast, titan, response:10602, category:field-test, activity:photo-rig
+title: "Titan 2 IR flight"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, photo-rig, infragram, 3d-printing, makerbot, northeast, titan, response:10602, category:field-test, activity:photo-rig'
 author: cfastie
 path: /notes/cfastie/08-08-2014/titan-2-ir-flight.md
 nid: 11021
@@ -12,7 +11,7 @@ uid: 554
 
 # Titan 2 IR flight
 
-by [cfastie](../profile/cfastie) August 08, 2014 04:52
+by [cfastie](../profile/cfastie) | August 08, 2014 04:52
 
 August 08, 2014 04:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [northeast](../tag/northeast), [titan](../tag/titan), [response:10602](../tag/response:10602), [category:field-test](../tag/category:field-test), [activity:photo-rig](../tag/activity:photo-rig)
 

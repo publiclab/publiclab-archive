@@ -1,6 +1,5 @@
 ---
-title: 'wetlands-advocacy'
-tagnames: wetlands, documentation, lake-pontchartrain, gulf-restoration-network, aerial-mapping, lousiana, city-planning, facilitation, parent:wetlands-toolkit, advocacy, healthygulf, parish-planning, county-planning
+title: "wetlands-advocacy"\ntagnames: 'wetlands, documentation, lake-pontchartrain, gulf-restoration-network, aerial-mapping, lousiana, city-planning, facilitation, parent:wetlands-toolkit, advocacy, healthygulf, parish-planning, county-planning'
 author: gretchengehrke
 path: /wiki/wetlands-advocacy.md
 nid: 12024

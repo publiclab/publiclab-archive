@@ -1,6 +1,5 @@
 ---
-title: 'Job Posting: Web designer/developer'
-tagnames: jobs
+title: "Job Posting: Web designer/developer"\ntagnames: 'jobs'
 author: Shannon
 path: /notes/Shannon/05-07-2014/job-posting-web-designer-developer.md
 nid: 10438
@@ -12,7 +11,7 @@ uid: 9
 
 # Job Posting: Web designer/developer
 
-by [Shannon](../profile/Shannon) May 07, 2014 14:51
+by [Shannon](../profile/Shannon) | May 07, 2014 14:51
 
 May 07, 2014 14:51 | Tags: [jobs](../tag/jobs)
 

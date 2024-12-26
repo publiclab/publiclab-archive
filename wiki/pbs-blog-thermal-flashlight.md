@@ -1,6 +1,5 @@
 ---
-title: 'PBS Blog on Thermal Flashlight'
-tagnames: idealab
+title: "PBS Blog on Thermal Flashlight"\ntagnames: 'idealab'
 author: sara
 path: /wiki/pbs-blog-thermal-flashlight.md
 nid: 714

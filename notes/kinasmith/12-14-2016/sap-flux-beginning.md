@@ -1,6 +1,5 @@
 ---
-title: 'Sap Flux Beginning'
-tagnames: alaska, tree, sensor-networks, sensor, sapflux, circuits
+title: "Sap Flux Beginning"\ntagnames: 'alaska, tree, sensor-networks, sensor, sapflux, circuits'
 author: kinasmith
 path: /notes/kinasmith/12-14-2016/sap-flux-beginning.md
 nid: 13782
@@ -12,7 +11,7 @@ uid: 445906
 
 # Sap Flux Beginning
 
-by [kinasmith](../profile/kinasmith) December 14, 2016 02:02
+by [kinasmith](../profile/kinasmith) | December 14, 2016 02:02
 
 December 14, 2016 02:02 | Tags: [alaska](../tag/alaska), [tree](../tag/tree), [sensor-networks](../tag/sensor-networks), [sensor](../tag/sensor), [sapflux](../tag/sapflux), [circuits](../tag/circuits)
 

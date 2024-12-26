@@ -1,6 +1,5 @@
 ---
-title: 'event-template'
-tagnames: 
+title: "event-template"\ntagnames: ''
 author: warren
 path: /wiki/event-template.md
 nid: 13935

@@ -1,6 +1,5 @@
 ---
-title: 'Hiring: Public Lab Education Manager'
-tagnames: education, jobs, locked, careers
+title: "Hiring: Public Lab Education Manager"\ntagnames: 'education, jobs, locked, careers'
 author: jmacha
 path: /notes/jmacha/07-26-2021/hiring-public-lab-education-manager.md
 nid: 27327
@@ -12,7 +11,7 @@ uid: 423019
 
 # Hiring: Public Lab Education Manager
 
-by [jmacha](../profile/jmacha) July 26, 2021 20:02
+by [jmacha](../profile/jmacha) | July 26, 2021 20:02
 
 July 26, 2021 20:02 | Tags: [education](../tag/education), [jobs](../tag/jobs), [locked](../tag/locked), [careers](../tag/careers)
 

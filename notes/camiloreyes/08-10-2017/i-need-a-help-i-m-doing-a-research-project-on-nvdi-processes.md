@@ -1,6 +1,5 @@
 ---
-title: 'I need a help I'm doing a research project on NVDI processes'
-tagnames: ndvi, multispectral, drones, infrared, infragram, question:ndvi, question:infragram, with, multispectral-imaging, question:general, uavs, response:13742
+title: "I need a help I'm doing a research project on NVDI processes"\ntagnames: 'ndvi, multispectral, drones, infrared, infragram, question:ndvi, question:infragram, with, multispectral-imaging, question:general, uavs, response:13742'
 author: camiloreyes
 path: /notes/camiloreyes/08-10-2017/i-need-a-help-i-m-doing-a-research-project-on-nvdi-processes.md
 nid: 14728
@@ -10,7 +9,7 @@ uid: 512400
 
 # I need a help I'm doing a research project on NVDI processes
 
-by [camiloreyes](../profile/camiloreyes) August 10, 2017 15:26
+by [camiloreyes](../profile/camiloreyes) | August 10, 2017 15:26
 
 August 10, 2017 15:26 | Tags: [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [drones](../tag/drones), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [with](../tag/with), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [uavs](../tag/uavs), [response:13742](../tag/response:13742)
 

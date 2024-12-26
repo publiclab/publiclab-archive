@@ -1,6 +1,5 @@
 ---
-title: 'What pieces of information and what level of detail should communities look for in a mining land reclamation plan?'
-tagnames: research-curation-fellows, reclamation, mine-reclamation, question:mine-reclamation
+title: "What pieces of information and what level of detail should communities look for in a mining land reclamation plan?"\ntagnames: 'research-curation-fellows, reclamation, mine-reclamation, question:mine-reclamation'
 author: laurel_mire
 path: /notes/laurel_mire/02-11-2022/what-pieces-of-information-and-what-level-of-detail-should-communities-look-for-in-a-mining-land-reclamation-plan.md
 nid: 30022
@@ -10,7 +9,7 @@ uid: 759178
 
 # What pieces of information and what level of detail should communities look for in a mining land reclamation plan?
 
-by [laurel_mire](../profile/laurel_mire) February 11, 2022 21:46
+by [laurel_mire](../profile/laurel_mire) | February 11, 2022 21:46
 
 February 11, 2022 21:46 | Tags: [research-curation-fellows](../tag/research-curation-fellows), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [question:mine-reclamation](../tag/question:mine-reclamation)
 

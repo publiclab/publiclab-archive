@@ -1,6 +1,5 @@
 ---
-title: 'Bee Movie II'
-tagnames: near-infrared-camera, nrg, ndvi, vermont, infrared, imagej, infragram, nbg, infrablue
+title: "Bee Movie II"\ntagnames: 'near-infrared-camera, nrg, ndvi, vermont, infrared, imagej, infragram, nbg, infrablue'
 author: cfastie
 path: /notes/cfastie/06-05-2013/bee-movie-ii.md
 nid: 8073
@@ -12,7 +11,7 @@ uid: 554
 
 # Bee Movie II
 
-by [cfastie](../profile/cfastie) June 05, 2013 13:08
+by [cfastie](../profile/cfastie) | June 05, 2013 13:08
 
 June 05, 2013 13:08 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [imagej](../tag/imagej), [infragram](../tag/infragram), [nbg](../tag/nbg), [infrablue](../tag/infrablue)
 

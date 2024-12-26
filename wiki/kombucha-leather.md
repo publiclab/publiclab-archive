@@ -1,6 +1,5 @@
 ---
-title: 'kombucha leather'
-tagnames: yeast, microbes, kombucha, biomaterial, kombucha-leather
+title: "kombucha leather"\ntagnames: 'yeast, microbes, kombucha, biomaterial, kombucha-leather'
 author: liz
 path: /wiki/kombucha-leather.md
 nid: 15559

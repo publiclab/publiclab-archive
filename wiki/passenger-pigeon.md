@@ -1,6 +1,5 @@
 ---
-title: 'Aerial photos with Passenger Pigeon'
-tagnames: aerial-photos, passenger-pigeon, airplane, method, oil-and-gas
+title: "Aerial photos with Passenger Pigeon"\ntagnames: 'aerial-photos, passenger-pigeon, airplane, method, oil-and-gas'
 author: warren
 path: /wiki/passenger-pigeon.md
 nid: 2156

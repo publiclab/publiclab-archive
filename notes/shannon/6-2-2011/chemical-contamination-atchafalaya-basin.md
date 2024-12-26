@@ -1,6 +1,5 @@
 ---
-title: 'Chemical contamination in the Atchafalaya Basin'
-tagnames: gulf-coast, louisiana, contamination, water-quality
+title: "Chemical contamination in the Atchafalaya Basin"\ntagnames: 'gulf-coast, louisiana, contamination, water-quality'
 author: Shannon
 path: /notes/shannon/6-2-2011/chemical-contamination-atchafalaya-basin.md
 nid: 323
@@ -10,7 +9,7 @@ uid: 9
 
 # Chemical contamination in the Atchafalaya Basin
 
-by [Shannon](../profile/Shannon) June 02, 2011 19:03
+by [Shannon](../profile/Shannon) | June 02, 2011 19:03
 
 June 02, 2011 19:03 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [contamination](../tag/contamination), [water-quality](../tag/water-quality)
 

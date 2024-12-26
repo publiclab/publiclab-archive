@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Code Community Report: Jan 2019'
-tagnames: website, web-development, software, outreach, gsoc, developers, code, wwg, webwg, software-outreach, outreachy, wwg-report, outreachy-2018, with:bansal_sidharth2996, with:gauravano, response:17028
+title: "Public Lab Code Community Report: Jan 2019"\ntagnames: 'website, web-development, software, outreach, gsoc, developers, code, wwg, webwg, software-outreach, outreachy, wwg-report, outreachy-2018, with:bansal_sidharth2996, with:gauravano, response:17028'
 author: warren
 path: /notes/warren/01-02-2019/public-lab-code-community-report-jan-2019.md
 nid: 18039
@@ -12,7 +11,7 @@ uid: 1
 
 # Public Lab Code Community Report: Jan 2019
 
-by [warren](../profile/warren) January 02, 2019 04:19
+by [warren](../profile/warren) | January 02, 2019 04:19
 
 January 02, 2019 04:19 | Tags: [website](../tag/website), [web-development](../tag/web-development), [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [webwg](../tag/webwg), [software-outreach](../tag/software-outreach), [outreachy](../tag/outreachy), [wwg-report](../tag/wwg-report), [outreachy-2018](../tag/outreachy-2018), [with:bansal_sidharth2996](../tag/with:bansal_sidharth2996), [with:gauravano](../tag/with:gauravano), [response:17028](../tag/response:17028)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Announcing a new dashboard for PublicLab.org'
-tagnames: website, design, web, posting, developers, code, wwg, dashboard, ui
+title: "Announcing a new dashboard for PublicLab.org"\ntagnames: 'website, design, web, posting, developers, code, wwg, dashboard, ui'
 author: warren
 path: /notes/warren/04-28-2016/announcing-a-new-dashboard-for-publiclab-org.md
 nid: 13045
@@ -12,7 +11,7 @@ uid: 1
 
 # Announcing a new dashboard for PublicLab.org
 
-by [warren](../profile/warren) April 28, 2016 19:23
+by [warren](../profile/warren) | April 28, 2016 19:23
 
 April 28, 2016 19:23 | Tags: [website](../tag/website), [design](../tag/design), [web](../tag/web), [posting](../tag/posting), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [dashboard](../tag/dashboard), [ui](../tag/ui)
 

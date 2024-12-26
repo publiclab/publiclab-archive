@@ -1,6 +1,5 @@
 ---
-title: 'GSoC proposal: Leaflet Blurred Location Part 2'
-tagnames: gsoc, soc, gsoc-2018, soc-2018-proposals, gsoc-2018-final
+title: "GSoC proposal: Leaflet Blurred Location Part 2"\ntagnames: 'gsoc, soc, gsoc-2018, soc-2018-proposals, gsoc-2018-final'
 author: mridulnagpal
 path: /notes/mridulnagpal/01-22-2018/leaflet-blurred-location.md
 nid: 15584
@@ -12,7 +11,7 @@ uid: 497953
 
 # GSoC proposal: Leaflet Blurred Location Part 2
 
-by [mridulnagpal](../profile/mridulnagpal) January 22, 2018 18:33
+by [mridulnagpal](../profile/mridulnagpal) | January 22, 2018 18:33
 
 January 22, 2018 18:33 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [gsoc-2018-final](../tag/gsoc-2018-final)
 

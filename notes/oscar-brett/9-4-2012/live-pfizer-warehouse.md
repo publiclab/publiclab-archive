@@ -1,6 +1,5 @@
 ---
-title: 'Live from the Pfizer warehouse'
-tagnames: balloon-mapping, diy-satellite, weird-science, plots, oscar-brett
+title: "Live from the Pfizer warehouse"\ntagnames: 'balloon-mapping, diy-satellite, weird-science, plots, oscar-brett'
 author: oscarbrett
 path: /notes/oscar-brett/9-4-2012/live-pfizer-warehouse.md
 nid: 3634
@@ -12,7 +11,7 @@ uid: 409
 
 # Live from the Pfizer warehouse
 
-by [oscarbrett](../profile/oscarbrett) September 04, 2012 16:55
+by [oscarbrett](../profile/oscarbrett) | September 04, 2012 16:55
 
 September 04, 2012 16:55 | Tags: [balloon-mapping](../tag/balloon-mapping), [diy-satellite](../tag/diy-satellite), [weird-science](../tag/weird-science), [plots](../tag/plots), [oscar-brett](../tag/oscar-brett)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Land Research Community Call'
-tagnames: event, soil, event:rsvp, land-use, fellows, land, soil-contamination, land-loss, rsvp:jjcreedon, research-curation-fellows, rsvp:seankmcginnis, research-curation-fellows-event, date:08-16-2021, rsvp:pataxte
+title: "Land Research Community Call"\ntagnames: 'event, soil, event:rsvp, land-use, fellows, land, soil-contamination, land-loss, rsvp:jjcreedon, research-curation-fellows, rsvp:seankmcginnis, research-curation-fellows-event, date:08-16-2021, rsvp:pataxte'
 author: laurel_mire
 path: /notes/laurel_mire/08-02-2021/land-research-community-call.md
 nid: 27414
@@ -12,7 +11,7 @@ uid: 759178
 
 # Land Research Community Call
 
-by [laurel_mire](../profile/laurel_mire) August 02, 2021 16:38
+by [laurel_mire](../profile/laurel_mire) | August 02, 2021 16:38
 
 August 02, 2021 16:38 | Tags: [event](../tag/event), [soil](../tag/soil), [event:rsvp](../tag/event:rsvp), [land-use](../tag/land-use), [fellows](../tag/fellows), [land](../tag/land), [soil-contamination](../tag/soil-contamination), [land-loss](../tag/land-loss), [rsvp:jjcreedon](../tag/rsvp:jjcreedon), [research-curation-fellows](../tag/research-curation-fellows), [rsvp:seankmcginnis](../tag/rsvp:seankmcginnis), [research-curation-fellows-event](../tag/research-curation-fellows-event), [date:08-16-2021](../tag/date:08-16-2021), [rsvp:pataxte](../tag/rsvp:pataxte)
 

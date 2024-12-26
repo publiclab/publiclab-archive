@@ -1,6 +1,5 @@
 ---
-title: 'Thermal fishing bob'
-tagnames: thermal-fishing-bob, parent:thermal-photography
+title: "Thermal fishing bob"\ntagnames: 'thermal-fishing-bob, parent:thermal-photography'
 author: warren
 path: /wiki/thermal-fishing-bob.md
 nid: 632

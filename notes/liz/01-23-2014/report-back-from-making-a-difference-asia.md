@@ -1,6 +1,5 @@
 ---
-title: 'Report back from "Making a Difference" Asia'
-tagnames: event, hong-kong, asia
+title: "Report back from "Making a Difference" Asia"\ntagnames: 'event, hong-kong, asia'
 author: liz
 path: /notes/liz/01-23-2014/report-back-from-making-a-difference-asia.md
 nid: 9967
@@ -12,7 +11,7 @@ uid: 7
 
 # Report back from "Making a Difference" Asia
 
-by [liz](../profile/liz) January 23, 2014 15:53
+by [liz](../profile/liz) | January 23, 2014 15:53
 
 January 23, 2014 15:53 | Tags: [event](../tag/event), [hong-kong](../tag/hong-kong), [asia](../tag/asia)
 

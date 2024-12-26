@@ -1,6 +1,5 @@
 ---
-title: 'Biomes Are Important to The Study Of Environmental Science'
-tagnames: lat:22, first-time-poster, lon:76, zoom:6
+title: "Biomes Are Important to The Study Of Environmental Science"\ntagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/08-23-2022/biomes-are-important-to-the-study-of-environmental-science.md
 nid: 34896
@@ -12,7 +11,7 @@ uid: 788868
 
 # Biomes Are Important to The Study Of Environmental Science
 
-by [TheChessGym](../profile/TheChessGym) August 23, 2022 13:39
+by [TheChessGym](../profile/TheChessGym) | August 23, 2022 13:39
 
 August 23, 2022 13:39 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

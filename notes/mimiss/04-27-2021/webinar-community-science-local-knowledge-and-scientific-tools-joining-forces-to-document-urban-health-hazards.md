@@ -1,6 +1,5 @@
 ---
-title: 'Webinar: Community Science – Local Knowledge and Scientific Tools Joining Forces to Document Urban Health Hazards'
-tagnames: balloon-mapping, education, event, new-orleans
+title: "Webinar: Community Science – Local Knowledge and Scientific Tools Joining Forces to Document Urban Health Hazards"\ntagnames: 'balloon-mapping, education, event, new-orleans'
 author: mimiss
 path: /notes/mimiss/04-27-2021/webinar-community-science-local-knowledge-and-scientific-tools-joining-forces-to-document-urban-health-hazards.md
 nid: 26374
@@ -12,7 +11,7 @@ uid: 579821
 
 # Webinar: Community Science – Local Knowledge and Scientific Tools Joining Forces to Document Urban Health Hazards
 
-by [mimiss](../profile/mimiss) April 27, 2021 19:50
+by [mimiss](../profile/mimiss) | April 27, 2021 19:50
 
 April 27, 2021 19:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [event](../tag/event), [new-orleans](../tag/new-orleans)
 

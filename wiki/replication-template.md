@@ -1,6 +1,5 @@
 ---
-title: 'replication-template'
-tagnames: template, parent:templates
+title: "replication-template"\ntagnames: 'template, parent:templates'
 author: warren
 path: /wiki/replication-template.md
 nid: 15798

@@ -1,6 +1,5 @@
 ---
-title: 'The importance of infrared radiation:INFRARED SPECTROSCOPY'
-tagnames: infrared, mid-infrared, spectroscopy, near-infrared, barnstar:basic, copper, chloroform
+title: "The importance of infrared radiation:INFRARED SPECTROSCOPY"\ntagnames: 'infrared, mid-infrared, spectroscopy, near-infrared, barnstar:basic, copper, chloroform'
 author: homechemist
 path: /notes/homechemist/06-12-2015/the-importance-of-infrared-radiation-infrared-spectroscopy.md
 nid: 11976
@@ -12,7 +11,7 @@ uid: 212574
 
 # The importance of infrared radiation:INFRARED SPECTROSCOPY
 
-by [homechemist](../profile/homechemist) June 12, 2015 18:19
+by [homechemist](../profile/homechemist) | June 12, 2015 18:19
 
 June 12, 2015 18:19 | Tags: [infrared](../tag/infrared), [mid-infrared](../tag/mid-infrared), [spectroscopy](../tag/spectroscopy), [near-infrared](../tag/near-infrared), [barnstar:basic](../tag/barnstar:basic), [copper](../tag/copper), [chloroform](../tag/chloroform)
 

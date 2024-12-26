@@ -1,6 +1,5 @@
 ---
-title: 'Homemade spectrometer'
-tagnames: spectrometer, spectrometry, homemade-spectrometer, first-time-poster
+title: "Homemade spectrometer"\ntagnames: 'spectrometer, spectrometry, homemade-spectrometer, first-time-poster'
 author: david_uwi
 path: /notes/david_uwi/09-30-2016/homemade-spectrometer.md
 nid: 13512
@@ -10,7 +9,7 @@ uid: 469053
 
 # Homemade spectrometer
 
-by [david_uwi](../profile/david_uwi) September 30, 2016 12:35
+by [david_uwi](../profile/david_uwi) | September 30, 2016 12:35
 
 September 30, 2016 12:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [homemade-spectrometer](../tag/homemade-spectrometer), [first-time-poster](../tag/first-time-poster)
 

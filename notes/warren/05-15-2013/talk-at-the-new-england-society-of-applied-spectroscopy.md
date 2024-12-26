@@ -1,6 +1,5 @@
 ---
-title: 'Talk at the New England Society of Applied Spectroscopy'
-tagnames: spectrometer, presentation, nesas
+title: "Talk at the New England Society of Applied Spectroscopy"\ntagnames: 'spectrometer, presentation, nesas'
 author: warren
 path: /notes/warren/05-15-2013/talk-at-the-new-england-society-of-applied-spectroscopy.md
 nid: 7579
@@ -12,7 +11,7 @@ uid: 1
 
 # Talk at the New England Society of Applied Spectroscopy
 
-by [warren](../profile/warren) May 15, 2013 15:04
+by [warren](../profile/warren) | May 15, 2013 15:04
 
 May 15, 2013 15:04 | Tags: [spectrometer](../tag/spectrometer), [presentation](../tag/presentation), [nesas](../tag/nesas)
 

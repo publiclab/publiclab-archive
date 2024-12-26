@@ -1,6 +1,5 @@
 ---
-title: 'Testing oil fluorescence with a green laser'
-tagnames: spectrometer
+title: "Testing oil fluorescence with a green laser"\ntagnames: 'spectrometer'
 author: warren
 path: /notes/warren/6-6-2012/testing-oil-fluorescence-green-laser.md
 nid: 2371
@@ -12,7 +11,7 @@ uid: 1
 
 # Testing oil fluorescence with a green laser
 
-by [warren](../profile/warren) June 06, 2012 19:07
+by [warren](../profile/warren) | June 06, 2012 19:07
 
 June 06, 2012 19:07 | Tags: [spectrometer](../tag/spectrometer)
 

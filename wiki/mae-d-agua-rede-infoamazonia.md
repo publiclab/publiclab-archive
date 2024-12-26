@@ -1,6 +1,5 @@
 ---
-title: 'Mãe d'água - Rede InfoAmazonia '
-tagnames: water-quality, list:plots-waterquality, brasil, parent:open-water, redeinfoamazonia, maedagua, lang:pt, list:publiclab-portugues, south-america
+title: "Mãe d'água - Rede InfoAmazonia "\ntagnames: 'water-quality, list:plots-waterquality, brasil, parent:open-water, redeinfoamazonia, maedagua, lang:pt, list:publiclab-portugues, south-america'
 author: GSan
 path: /wiki/mae-d-agua-rede-infoamazonia.md
 nid: 11843

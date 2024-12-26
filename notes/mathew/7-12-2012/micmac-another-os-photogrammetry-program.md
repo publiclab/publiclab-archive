@@ -1,6 +1,5 @@
 ---
-title: 'MicMac, another OS photogrammetry program'
-tagnames: balloon-mapping, kite-mapping, 3d, image-processing, balloon-telemetry-kit, bundleadjustment, photogrammetry, sfm, structure-from-motion, micmac
+title: "MicMac, another OS photogrammetry program"\ntagnames: 'balloon-mapping, kite-mapping, 3d, image-processing, balloon-telemetry-kit, bundleadjustment, photogrammetry, sfm, structure-from-motion, micmac'
 author: mathew
 path: /notes/mathew/7-12-2012/micmac-another-os-photogrammetry-program.md
 nid: 2784
@@ -12,7 +11,7 @@ uid: 4
 
 # MicMac, another OS photogrammetry program
 
-by [mathew](../profile/mathew) July 12, 2012 20:12
+by [mathew](../profile/mathew) | July 12, 2012 20:12
 
 July 12, 2012 20:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [3d](../tag/3d), [image-processing](../tag/image-processing), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [bundleadjustment](../tag/bundleadjustment), [photogrammetry](../tag/photogrammetry), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [micmac](../tag/micmac)
 

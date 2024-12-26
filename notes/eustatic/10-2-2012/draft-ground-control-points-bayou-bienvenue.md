@@ -1,6 +1,5 @@
 ---
-title: '"Ground" Control Points for Bayou Bienvenue '
-tagnames: gulf-coast, balloon-mapping, louisiana, ground-control-points, bayou-bienvenue, green-slice, gulf-restoration-network, urbanwater
+title: ""Ground" Control Points for Bayou Bienvenue "\ntagnames: 'gulf-coast, balloon-mapping, louisiana, ground-control-points, bayou-bienvenue, green-slice, gulf-restoration-network, urbanwater'
 author: eustatic
 path: /10-2-2012/draft-ground-control-points-bayou-bienvenue.md
 nid: 4127
@@ -12,7 +11,7 @@ uid: 379
 
 # "Ground" Control Points for Bayou Bienvenue 
 
-by [eustatic](../profile/eustatic) October 02, 2012 23:11
+by [eustatic](../profile/eustatic) | October 02, 2012 23:11
 
 October 02, 2012 23:11 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [louisiana](../tag/louisiana), [ground-control-points](../tag/ground-control-points), [bayou-bienvenue](../tag/bayou-bienvenue), [green-slice](../tag/green-slice), [gulf-restoration-network](../tag/gulf-restoration-network), [urbanwater](../tag/urbanwater)
 

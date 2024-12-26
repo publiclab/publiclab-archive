@@ -1,6 +1,5 @@
 ---
-title: 'massachusetts'
-tagnames: parent:northeast
+title: "massachusetts"\ntagnames: 'parent:northeast'
 author: Hudonnoodles
 path: /wiki/massachusetts.md
 nid: 10539

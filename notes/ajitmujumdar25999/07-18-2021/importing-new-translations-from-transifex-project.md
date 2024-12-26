@@ -1,6 +1,5 @@
 ---
-title: 'Importing New Translations from Transifex Project ( managers only)'
-tagnames: localization, translation, activity:localization, activity:localization-managers, localization-managers
+title: "Importing New Translations from Transifex Project ( managers only)"\ntagnames: 'localization, translation, activity:localization, activity:localization-managers, localization-managers'
 author: ajitmujumdar25999
 path: /notes/ajitmujumdar25999/07-18-2021/importing-new-translations-from-transifex-project.md
 nid: 27099
@@ -12,7 +11,7 @@ uid: 654056
 
 # Importing New Translations from Transifex Project ( managers only)
 
-by [ajitmujumdar25999](../profile/ajitmujumdar25999) July 18, 2021 09:05
+by [ajitmujumdar25999](../profile/ajitmujumdar25999) | July 18, 2021 09:05
 
 July 18, 2021 09:05 | Tags: [localization](../tag/localization), [translation](../tag/translation), [activity:localization](../tag/activity:localization), [activity:localization-managers](../tag/activity:localization-managers), [localization-managers](../tag/localization-managers)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Oil Chemistry of Keystone Leak'
-tagnames: oil-spill, oil, question:oil-and-gas, question:sampling, question:oil-sampling, oil-samples, oil-leak, keystone, question:industry
+title: "Oil Chemistry of Keystone Leak"\ntagnames: 'oil-spill, oil, question:oil-and-gas, question:sampling, question:oil-sampling, oil-samples, oil-leak, keystone, question:industry'
 author: kayaerbil
 path: /notes/kayaerbil/11-23-2017/oil-chemistry-of-keystone-leak.md
 nid: 15232
@@ -12,7 +11,7 @@ uid: 519113
 
 # Oil Chemistry of Keystone Leak
 
-by [kayaerbil](../profile/kayaerbil) November 23, 2017 13:09
+by [kayaerbil](../profile/kayaerbil) | November 23, 2017 13:09
 
 November 23, 2017 13:09 | Tags: [oil-spill](../tag/oil-spill), [oil](../tag/oil), [question:oil-and-gas](../tag/question:oil-and-gas), [question:sampling](../tag/question:sampling), [question:oil-sampling](../tag/question:oil-sampling), [oil-samples](../tag/oil-samples), [oil-leak](../tag/oil-leak), [keystone](../tag/keystone), [question:industry](../tag/question:industry)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Help with a standard mini-evaluation for assessing software outreach efforts?'
-tagnames: software, evaluation, survey, first-timers-only, software-outreach, soc, soc-2017, eval, diversity, question:evaluation, question:software-outreach
+title: "Help with a standard mini-evaluation for assessing software outreach efforts?"\ntagnames: 'software, evaluation, survey, first-timers-only, software-outreach, soc, soc-2017, eval, diversity, question:evaluation, question:software-outreach'
 author: warren
 path: /notes/warren/10-25-2017/help-with-a-standard-mini-evaluation-for-assessing-software-outreach-efforts.md
 nid: 15093
@@ -12,7 +11,7 @@ uid: 1
 
 # Help with a standard mini-evaluation for assessing software outreach efforts?
 
-by [warren](../profile/warren) October 25, 2017 14:56
+by [warren](../profile/warren) | October 25, 2017 14:56
 
 October 25, 2017 14:56 | Tags: [software](../tag/software), [evaluation](../tag/evaluation), [survey](../tag/survey), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [eval](../tag/eval), [diversity](../tag/diversity), [question:evaluation](../tag/question:evaluation), [question:software-outreach](../tag/question:software-outreach)
 

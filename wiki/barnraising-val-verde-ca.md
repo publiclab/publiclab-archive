@@ -1,6 +1,5 @@
 ---
-title: 'Barnraising Val Verde, CA'
-tagnames: barnraising, regionalbarnraising, val-verde, socalwastestream
+title: "Barnraising Val Verde, CA"\ntagnames: 'barnraising, regionalbarnraising, val-verde, socalwastestream'
 author: stevie
 path: /wiki/barnraising-val-verde-ca.md
 nid: 13336

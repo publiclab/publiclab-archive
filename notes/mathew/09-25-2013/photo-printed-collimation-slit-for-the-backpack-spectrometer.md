@@ -1,6 +1,5 @@
 ---
-title: 'Photo-printed collimation slit for the Backpack Spectrometer '
-tagnames: spectrometer, slit, stepped-slit, slit-width
+title: "Photo-printed collimation slit for the Backpack Spectrometer "\ntagnames: 'spectrometer, slit, stepped-slit, slit-width'
 author: mathew
 path: /notes/mathew/09-25-2013/photo-printed-collimation-slit-for-the-backpack-spectrometer.md
 nid: 9366
@@ -12,7 +11,7 @@ uid: 4
 
 # Photo-printed collimation slit for the Backpack Spectrometer 
 
-by [mathew](../profile/mathew) September 25, 2013 02:02
+by [mathew](../profile/mathew) | September 25, 2013 02:02
 
 September 25, 2013 02:02 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [stepped-slit](../tag/stepped-slit), [slit-width](../tag/slit-width)
 

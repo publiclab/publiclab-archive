@@ -1,6 +1,5 @@
 ---
-title: 'Repairing a kite's stick with a fiber glass safety marker'
-tagnames: kite-mapping, spain, diy-kite, kite-repair, repair, diy-kites, kite-making, activity:kite-making, fiberglass, spars, spar, first-time-poster
+title: "Repairing a kite's stick with a fiber glass safety marker"\ntagnames: 'kite-mapping, spain, diy-kite, kite-repair, repair, diy-kites, kite-making, activity:kite-making, fiberglass, spars, spar, first-time-poster'
 author: pablo
 path: /notes/pablo/12-17-2012/repairing-kites-stick-fiber-glass-safety-marker.md
 nid: 5230
@@ -12,7 +11,7 @@ uid: 160
 
 # Repairing a kite's stick with a fiber glass safety marker
 
-by [pablo](../profile/pablo) December 18, 2012 01:17
+by [pablo](../profile/pablo) | December 18, 2012 01:17
 
 December 18, 2012 01:17 | Tags: [kite-mapping](../tag/kite-mapping), [spain](../tag/spain), [diy-kite](../tag/diy-kite), [kite-repair](../tag/kite-repair), [repair](../tag/repair), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [fiberglass](../tag/fiberglass), [spars](../tag/spars), [spar](../tag/spar), [first-time-poster](../tag/first-time-poster)
 

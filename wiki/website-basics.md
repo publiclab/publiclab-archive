@@ -1,6 +1,5 @@
 ---
-title: 'Website Basics'
-tagnames: website, introduction, newcomers, basics, parent:website
+title: "Website Basics"\ntagnames: 'website, introduction, newcomers, basics, parent:website'
 author: warren
 path: /wiki/website-basics.md
 nid: 15264

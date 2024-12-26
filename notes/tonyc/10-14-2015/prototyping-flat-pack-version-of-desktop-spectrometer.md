@@ -1,6 +1,5 @@
 ---
-title: 'Prototyping flat-pack version of Desktop Spectrometer '
-tagnames: spectrometer, dsk, desktop-spectrometry-kit, papercraft, kits-initiative, dsk3
+title: "Prototyping flat-pack version of Desktop Spectrometer "\ntagnames: 'spectrometer, dsk, desktop-spectrometry-kit, papercraft, kits-initiative, dsk3'
 author: tonyc
 path: /notes/tonyc/10-14-2015/prototyping-flat-pack-version-of-desktop-spectrometer.md
 nid: 12303
@@ -12,7 +11,7 @@ uid: 447491
 
 # Prototyping flat-pack version of Desktop Spectrometer 
 
-by [tonyc](../profile/tonyc) October 14, 2015 19:11
+by [tonyc](../profile/tonyc) | October 14, 2015 19:11
 
 October 14, 2015 19:11 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [papercraft](../tag/papercraft), [kits-initiative](../tag/kits-initiative), [dsk3](../tag/dsk3)
 

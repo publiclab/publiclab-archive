@@ -1,6 +1,5 @@
 ---
-title: 'Reviewing & synthesizing microplastics research on Public Lab'
-tagnames: research, micro-plastics, microplastics, plastic, research-area-review
+title: "Reviewing & synthesizing microplastics research on Public Lab"\ntagnames: 'research, micro-plastics, microplastics, plastic, research-area-review'
 author: bhamster
 path: /notes/bhamster/08-19-2020/reviewing-synthesizing-microplastics-research-on-public-lab.md
 nid: 24358
@@ -12,7 +11,7 @@ uid: 664477
 
 # Reviewing & synthesizing microplastics research on Public Lab
 
-by [bhamster](../profile/bhamster) August 19, 2020 21:42
+by [bhamster](../profile/bhamster) | August 19, 2020 21:42
 
 August 19, 2020 21:42 | Tags: [research](../tag/research), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [research-area-review](../tag/research-area-review)
 

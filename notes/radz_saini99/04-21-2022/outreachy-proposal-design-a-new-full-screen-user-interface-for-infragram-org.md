@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: Design a new full-screen user interface for Infragram.org'
-tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
+title: "Outreachy proposal: Design a new full-screen user interface for Infragram.org"\ntagnames: 'software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022'
 author: radz_saini99
 path: /notes/radz_saini99/04-21-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
 nid: 30551
@@ -10,7 +9,7 @@ uid: 795476
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
-by [radz_saini99](../profile/radz_saini99) April 21, 2022 19:18
+by [radz_saini99](../profile/radz_saini99) | April 21, 2022 19:18
 
 April 21, 2022 19:18 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 

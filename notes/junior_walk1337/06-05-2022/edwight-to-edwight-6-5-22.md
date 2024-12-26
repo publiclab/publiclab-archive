@@ -1,6 +1,5 @@
 ---
-title: 'Edwight to Edwight 6/5/22'
-tagnames: drones, coal-mining, mmmp
+title: "Edwight to Edwight 6/5/22"\ntagnames: 'drones, coal-mining, mmmp'
 author: junior_walk1337
 path: /notes/junior_walk1337/06-05-2022/edwight-to-edwight-6-5-22.md
 nid: 31032
@@ -12,7 +11,7 @@ uid: 756318
 
 # Edwight to Edwight 6/5/22
 
-by [junior_walk1337](../profile/junior_walk1337) June 05, 2022 21:08
+by [junior_walk1337](../profile/junior_walk1337) | June 05, 2022 21:08
 
 June 05, 2022 21:08 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
 

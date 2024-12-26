@@ -1,6 +1,5 @@
 ---
-title: 'FABAoutfit derivative KAP rig'
-tagnames: picavet, kite-aerial-photography, photo-rig, activity:photo-rig
+title: "FABAoutfit derivative KAP rig"\ntagnames: 'picavet, kite-aerial-photography, photo-rig, activity:photo-rig'
 author: jbreen
 path: /notes/jbreen/6-23-2012/fabaoutfit-derivative-kap-rig-0.md
 nid: 2618
@@ -12,7 +11,7 @@ uid: 326
 
 # FABAoutfit derivative KAP rig
 
-by [jbreen](../profile/jbreen) June 23, 2012 19:21
+by [jbreen](../profile/jbreen) | June 23, 2012 19:21
 
 June 23, 2012 19:21 | Tags: [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
 

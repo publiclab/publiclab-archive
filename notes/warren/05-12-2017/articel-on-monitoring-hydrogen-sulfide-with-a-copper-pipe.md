@@ -1,6 +1,5 @@
 ---
-title: 'Article on monitoring hydrogen sulfide with a copper pipe'
-tagnames: hydrogen-sulfide, h2s, h2s-copper-pipe, response:1887, h2s-detection, test-magazine, discoloration, copper-pipe, h2s-copper-pipe-background
+title: "Article on monitoring hydrogen sulfide with a copper pipe"\ntagnames: 'hydrogen-sulfide, h2s, h2s-copper-pipe, response:1887, h2s-detection, test-magazine, discoloration, copper-pipe, h2s-copper-pipe-background'
 author: warren
 path: /notes/warren/05-12-2017/articel-on-monitoring-hydrogen-sulfide-with-a-copper-pipe.md
 nid: 14186
@@ -12,7 +11,7 @@ uid: 1
 
 # Article on monitoring hydrogen sulfide with a copper pipe
 
-by [warren](../profile/warren) May 12, 2017 21:06
+by [warren](../profile/warren) | May 12, 2017 21:06
 
 May 12, 2017 21:06 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [response:1887](../tag/response:1887), [h2s-detection](../tag/h2s-detection), [test-magazine](../tag/test-magazine), [discoloration](../tag/discoloration), [copper-pipe](../tag/copper-pipe), [h2s-copper-pipe-background](../tag/h2s-copper-pipe-background)
 

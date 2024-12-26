@@ -1,6 +1,5 @@
 ---
-title: 'A reflection of sensor journalism'
-tagnames: water-quality, coqui, sensor-journalism
+title: "A reflection of sensor journalism"\ntagnames: 'water-quality, coqui, sensor-journalism'
 author: abcieslik
 path: /notes/abcieslik/10-07-2014/a-reflection-of-sensor-journalism.md
 nid: 11247
@@ -12,7 +11,7 @@ uid: 428083
 
 # A reflection of sensor journalism
 
-by [abcieslik](../profile/abcieslik) October 07, 2014 16:44
+by [abcieslik](../profile/abcieslik) | October 07, 2014 16:44
 
 October 07, 2014 16:44 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
 

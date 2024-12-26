@@ -1,6 +1,5 @@
 ---
-title: 'Bridges between our community and our software contributors'
-tagnames: community, software, outreach, gsoc, web, coding, wwg, software-outreach
+title: "Bridges between our community and our software contributors"\ntagnames: 'community, software, outreach, gsoc, web, coding, wwg, software-outreach'
 author: warren
 path: /notes/warren/11-06-2016/bridges-between-our-community-and-our-software-contributors.md
 nid: 13682
@@ -12,7 +11,7 @@ uid: 1
 
 # Bridges between our community and our software contributors
 
-by [warren](../profile/warren) November 06, 2016 00:24
+by [warren](../profile/warren) | November 06, 2016 00:24
 
 November 06, 2016 00:24 | Tags: [community](../tag/community), [software](../tag/software), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [web](../tag/web), [coding](../tag/coding), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach)
 

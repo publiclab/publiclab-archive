@@ -1,6 +1,5 @@
 ---
-title: 'Seeking a Land Research Curation Fellow'
-tagnames: agriculture, soil, waste, jobs, land-use, fellows, fellowship, fellow, soil-contamination, research-curation-fellows
+title: "Seeking a Land Research Curation Fellow"\ntagnames: 'agriculture, soil, waste, jobs, land-use, fellows, fellowship, fellow, soil-contamination, research-curation-fellows'
 author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-a-land-research-curation-fellow.md
 nid: 25924
@@ -12,7 +11,7 @@ uid: 664477
 
 # Seeking a Land Research Curation Fellow
 
-by [bhamster](../profile/bhamster) March 15, 2021 21:48
+by [bhamster](../profile/bhamster) | March 15, 2021 21:48
 
 March 15, 2021 21:48 | Tags: [agriculture](../tag/agriculture), [soil](../tag/soil), [waste](../tag/waste), [jobs](../tag/jobs), [land-use](../tag/land-use), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [fellow](../tag/fellow), [soil-contamination](../tag/soil-contamination), [research-curation-fellows](../tag/research-curation-fellows)
 

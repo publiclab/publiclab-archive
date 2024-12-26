@@ -1,6 +1,5 @@
 ---
-title: 'sas'
-tagnames: redirect:simple-air-sensor
+title: "sas"\ntagnames: 'redirect:simple-air-sensor'
 author: warren
 path: /wiki/sas.md
 nid: 21124

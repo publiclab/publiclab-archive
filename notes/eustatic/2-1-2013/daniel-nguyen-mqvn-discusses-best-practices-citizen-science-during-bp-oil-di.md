@@ -1,6 +1,5 @@
 ---
-title: 'Daniel Nguyen of MQVN discusses best practices for citizen science during the BP oil disaster'
-tagnames: citizen-science, oil-disaster
+title: "Daniel Nguyen of MQVN discusses best practices for citizen science during the BP oil disaster"\ntagnames: 'citizen-science, oil-disaster'
 author: eustatic
 path: /2-1-2013/daniel-nguyen-mqvn-discusses-best-practices-citizen-science-during-bp-oil-di.md
 nid: 5853
@@ -12,7 +11,7 @@ uid: 379
 
 # Daniel Nguyen of MQVN discusses best practices for citizen science during the BP oil disaster
 
-by [eustatic](../profile/eustatic) February 01, 2013 15:59
+by [eustatic](../profile/eustatic) | February 01, 2013 15:59
 
 February 01, 2013 15:59 | Tags: [citizen-science](../tag/citizen-science), [oil-disaster](../tag/oil-disaster)
 

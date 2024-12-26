@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of test-map-gs'
-tagnames: mapknitter, lat:28.7040592, lon:77.1024902
+title: "MapKnitter map of test-map-gs"\ntagnames: 'mapknitter, lat:28.7040592, lon:77.1024902'
 author: gauravano
 path: /notes/gauravano/03-29-2019/mapknitter-map-of-test-map-gs.md
 nid: 18896
@@ -10,7 +9,7 @@ uid: 515081
 
 # MapKnitter map of test-map-gs
 
-by [gauravano](../profile/gauravano) March 29, 2019 08:57
+by [gauravano](../profile/gauravano) | March 29, 2019 08:57
 
 March 29, 2019 08:57 | Tags: [mapknitter](../tag/mapknitter), [lat:28.7040592](../tag/lat:28.7040592), [lon:77.1024902](../tag/lon:77.1024902)
 

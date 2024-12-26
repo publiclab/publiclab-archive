@@ -1,6 +1,5 @@
 ---
-title: 'It is impossible to connect to our pad: http://pad.publiclab.org/p/atuqueetva PLEASE HELP'
-tagnames: answered, question:website
+title: "It is impossible to connect to our pad: http://pad.publiclab.org/p/atuqueetva PLEASE HELP"\ntagnames: 'answered, question:website'
 author: urijosa
 path: /notes/urijosa/05-07-2018/it-is-impossible-to-connect-to-our-pad-http-pad-publiclab-org-p-atuqueetva-please-help.md
 nid: 16306
@@ -10,7 +9,7 @@ uid: 533492
 
 # It is impossible to connect to our pad: http://pad.publiclab.org/p/atuqueetva PLEASE HELP
 
-by [urijosa](../profile/urijosa) May 07, 2018 10:08
+by [urijosa](../profile/urijosa) | May 07, 2018 10:08
 
 May 07, 2018 10:08 | Tags: [answered](../tag/answered), [question:website](../tag/question:website)
 

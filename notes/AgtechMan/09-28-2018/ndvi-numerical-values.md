@@ -1,6 +1,5 @@
 ---
-title: 'NDVI Numerical Values'
-tagnames: answered, question:general
+title: "NDVI Numerical Values"\ntagnames: 'answered, question:general'
 author: AgtechMan
 path: /notes/AgtechMan/09-28-2018/ndvi-numerical-values.md
 nid: 17184
@@ -10,7 +9,7 @@ uid: 552780
 
 # NDVI Numerical Values
 
-by [AgtechMan](../profile/AgtechMan) September 28, 2018 08:43
+by [AgtechMan](../profile/AgtechMan) | September 28, 2018 08:43
 
 September 28, 2018 08:43 | Tags: [answered](../tag/answered), [question:general](../tag/question:general)
 

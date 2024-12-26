@@ -1,6 +1,5 @@
 ---
-title: 'Map Formats'
-tagnames: 
+title: "Map Formats"\ntagnames: ''
 author: warren
 path: /wiki/map-formats.md
 nid: 226

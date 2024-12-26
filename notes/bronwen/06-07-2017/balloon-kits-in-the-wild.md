@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Kits in the Wild!'
-tagnames: balloon-mapping, kits, aerial-photography, aerial-photos, kits-initiative
+title: "Balloon Kits in the Wild!"\ntagnames: 'balloon-mapping, kits, aerial-photography, aerial-photos, kits-initiative'
 author: Bronwen
 path: /notes/bronwen/06-07-2017/balloon-kits-in-the-wild.md
 nid: 14508
@@ -12,7 +11,7 @@ uid: 237313
 
 # Balloon Kits in the Wild!
 
-by [Bronwen](../profile/Bronwen) June 07, 2017 21:14
+by [Bronwen](../profile/Bronwen) | June 07, 2017 21:14
 
 June 07, 2017 21:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [kits](../tag/kits), [aerial-photography](../tag/aerial-photography), [aerial-photos](../tag/aerial-photos), [kits-initiative](../tag/kits-initiative)
 

@@ -1,6 +1,5 @@
 ---
-title: 'What are the best ways for communities to engage with content posted to our Wild Rice project?'
-tagnames: community, air-quality, water, minnesota, question:general, general, first-time-poster, wild-rice, huber-osb-factory, talon-rio-tinto-mine, land-rights
+title: "What are the best ways for communities to engage with content posted to our Wild Rice project?"\ntagnames: 'community, air-quality, water, minnesota, question:general, general, first-time-poster, wild-rice, huber-osb-factory, talon-rio-tinto-mine, land-rights'
 author: noah_ben_furman
 path: /notes/noah_ben_furman/06-07-2022/what-are-the-best-ways-for-communities-to-engage-with-content-posted-to-our-wild-rice-project.md
 nid: 31038
@@ -10,7 +9,7 @@ uid: 795472
 
 # What are the best ways for communities to engage with content posted to our Wild Rice project?
 
-by [noah_ben_furman](../profile/noah_ben_furman) June 07, 2022 21:08
+by [noah_ben_furman](../profile/noah_ben_furman) | June 07, 2022 21:08
 
 June 07, 2022 21:08 | Tags: [community](../tag/community), [air-quality](../tag/air-quality), [water](../tag/water), [minnesota](../tag/minnesota), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [wild-rice](../tag/wild-rice), [huber-osb-factory](../tag/huber-osb-factory), [talon-rio-tinto-mine](../tag/talon-rio-tinto-mine), [land-rights](../tag/land-rights)
 

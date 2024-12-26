@@ -1,6 +1,5 @@
 ---
-title: 'Building Miniature Kites'
-tagnames: education, diy-kite, diy-kites, builds, activity:education, mini-kite-build, activity:mini-kite-build, mini-kite
+title: "Building Miniature Kites"\ntagnames: 'education, diy-kite, diy-kites, builds, activity:education, mini-kite-build, activity:mini-kite-build, mini-kite'
 author: mimiss
 path: /notes/mimiss/04-21-2020/building-miniature-kites.md
 nid: 23411
@@ -12,7 +11,7 @@ uid: 579821
 
 # Building Miniature Kites
 
-by [mimiss](../profile/mimiss) April 21, 2020 01:43
+by [mimiss](../profile/mimiss) | April 21, 2020 01:43
 
 April 21, 2020 01:43 | Tags: [education](../tag/education), [diy-kite](../tag/diy-kite), [diy-kites](../tag/diy-kites), [builds](../tag/builds), [activity:education](../tag/activity:education), [mini-kite-build](../tag/mini-kite-build), [activity:mini-kite-build](../tag/activity:mini-kite-build), [mini-kite](../tag/mini-kite)
 

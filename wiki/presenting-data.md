@@ -1,6 +1,5 @@
 ---
-title: 'Presenting Environmental Data'
-tagnames: method, environmental-data, data-visualization, presenting-data, air-quality-data
+title: "Presenting Environmental Data"\ntagnames: 'method, environmental-data, data-visualization, presenting-data, air-quality-data'
 author: bhamster
 path: /wiki/presenting-data.md
 nid: 27567

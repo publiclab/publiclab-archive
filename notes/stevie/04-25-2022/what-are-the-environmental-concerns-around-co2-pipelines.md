@@ -1,6 +1,5 @@
 ---
-title: 'What are the environmental concerns around CO2 pipelines? '
-tagnames: question:general, general, with:pat, co2-pipeline, question:co2-pipeline, carbon-capture, question:carbon-capture
+title: "What are the environmental concerns around CO2 pipelines? "\ntagnames: 'question:general, general, with:pat, co2-pipeline, question:co2-pipeline, carbon-capture, question:carbon-capture'
 author: stevie
 path: /notes/stevie/04-25-2022/what-are-the-environmental-concerns-around-co2-pipelines.md
 nid: 30590
@@ -10,7 +9,7 @@ uid: 422561
 
 # What are the environmental concerns around CO2 pipelines? 
 
-by [stevie](../profile/stevie) April 25, 2022 19:51
+by [stevie](../profile/stevie) | April 25, 2022 19:51
 
 April 25, 2022 19:51 | Tags: [question:general](../tag/question:general), [general](../tag/general), [with:pat](../tag/with:pat), [co2-pipeline](../tag/co2-pipeline), [question:co2-pipeline](../tag/question:co2-pipeline), [carbon-capture](../tag/carbon-capture), [question:carbon-capture](../tag/question:carbon-capture)
 

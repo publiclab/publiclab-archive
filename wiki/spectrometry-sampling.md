@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometry Sampling'
-tagnames: spectrometer, sampling, spectrometry-sampling, parent:sampling, sample-collection
+title: "Spectrometry Sampling"\ntagnames: 'spectrometer, sampling, spectrometry-sampling, parent:sampling, sample-collection'
 author: warren
 path: /wiki/spectrometry-sampling.md
 nid: 9403

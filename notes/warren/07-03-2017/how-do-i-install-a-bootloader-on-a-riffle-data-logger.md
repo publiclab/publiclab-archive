@@ -1,6 +1,5 @@
 ---
-title: 'How do I install a bootloader on a Riffle data logger?'
-tagnames: arduino, riffle, question:riffle, answered, data-logging, question:arduino, question:bootloader, bootloader
+title: "How do I install a bootloader on a Riffle data logger?"\ntagnames: 'arduino, riffle, question:riffle, answered, data-logging, question:arduino, question:bootloader, bootloader'
 author: warren
 path: /notes/warren/07-03-2017/how-do-i-install-a-bootloader-on-a-riffle-data-logger.md
 nid: 14613
@@ -10,7 +9,7 @@ uid: 1
 
 # How do I install a bootloader on a Riffle data logger?
 
-by [warren](../profile/warren) July 03, 2017 18:11
+by [warren](../profile/warren) | July 03, 2017 18:11
 
 July 03, 2017 18:11 | Tags: [arduino](../tag/arduino), [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [answered](../tag/answered), [data-logging](../tag/data-logging), [question:arduino](../tag/question:arduino), [question:bootloader](../tag/question:bootloader), [bootloader](../tag/bootloader)
 

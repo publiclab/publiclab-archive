@@ -1,6 +1,5 @@
 ---
-title: 'Friction Stoppers'
-tagnames: balloon-mapping, kite-aerial-photography, kap, photo-rig, kitemapping, kap-rigs, stoppers, reconfigurable-rig
+title: "Friction Stoppers"\ntagnames: 'balloon-mapping, kite-aerial-photography, kap, photo-rig, kitemapping, kap-rigs, stoppers, reconfigurable-rig'
 author: ranon
 path: /notes/ranon/07-11-2016/friction-stoppers.md
 nid: 13281
@@ -12,7 +11,7 @@ uid: 477060
 
 # Friction Stoppers
 
-by [ranon](../profile/ranon) July 11, 2016 22:30
+by [ranon](../profile/ranon) | July 11, 2016 22:30
 
 July 11, 2016 22:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [kitemapping](../tag/kitemapping), [kap-rigs](../tag/kap-rigs), [stoppers](../tag/stoppers), [reconfigurable-rig](../tag/reconfigurable-rig)
 

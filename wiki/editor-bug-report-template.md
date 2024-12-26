@@ -1,6 +1,5 @@
 ---
-title: 'Editor Bug Report Template'
-tagnames: template
+title: "Editor Bug Report Template"\ntagnames: 'template'
 author: asoamarachi
 path: /wiki/editor-bug-report-template.md
 nid: 23853

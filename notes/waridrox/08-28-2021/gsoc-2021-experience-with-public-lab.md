@@ -1,6 +1,5 @@
 ---
-title: 'GSoC 2021 experience with Public Lab'
-tagnames: spectral-workbench, soc, soc-2021-final
+title: "GSoC 2021 experience with Public Lab"\ntagnames: 'spectral-workbench, soc, soc-2021-final'
 author: waridrox
 path: /notes/waridrox/08-28-2021/gsoc-2021-experience-with-public-lab.md
 nid: 27630
@@ -12,7 +11,7 @@ uid: 745996
 
 # GSoC 2021 experience with Public Lab
 
-by [waridrox](../profile/waridrox) August 28, 2021 16:47
+by [waridrox](../profile/waridrox) | August 28, 2021 16:47
 
 August 28, 2021 16:47 | Tags: [spectral-workbench](../tag/spectral-workbench), [soc](../tag/soc), [soc-2021-final](../tag/soc-2021-final)
 

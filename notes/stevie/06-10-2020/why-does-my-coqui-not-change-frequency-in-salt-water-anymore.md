@@ -1,6 +1,5 @@
 ---
-title: 'Why does my coqui not change frequency in salt water anymore? '
-tagnames: coqui, question:coqui
+title: "Why does my coqui not change frequency in salt water anymore? "\ntagnames: 'coqui, question:coqui'
 author: stevie
 path: /notes/stevie/06-10-2020/why-does-my-coqui-not-change-frequency-in-salt-water-anymore.md
 nid: 23815
@@ -10,7 +9,7 @@ uid: 422561
 
 # Why does my coqui not change frequency in salt water anymore? 
 
-by [stevie](../profile/stevie) June 10, 2020 14:03
+by [stevie](../profile/stevie) | June 10, 2020 14:03
 
 June 10, 2020 14:03 | Tags: [coqui](../tag/coqui), [question:coqui](../tag/question:coqui)
 

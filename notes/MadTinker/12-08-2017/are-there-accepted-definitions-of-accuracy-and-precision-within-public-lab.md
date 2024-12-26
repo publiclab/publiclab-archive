@@ -1,6 +1,5 @@
 ---
-title: 'Are there accepted definitions of accuracy and precision within Public Lab? '
-tagnames: question:general
+title: "Are there accepted definitions of accuracy and precision within Public Lab? "\ntagnames: 'question:general'
 author: MadTinker
 path: /notes/MadTinker/12-08-2017/are-there-accepted-definitions-of-accuracy-and-precision-within-public-lab.md
 nid: 15336
@@ -10,7 +9,7 @@ uid: 461206
 
 # Are there accepted definitions of accuracy and precision within Public Lab? 
 
-by [MadTinker](../profile/MadTinker) December 08, 2017 15:28
+by [MadTinker](../profile/MadTinker) | December 08, 2017 15:28
 
 December 08, 2017 15:28 | Tags: [question:general](../tag/question:general)
 

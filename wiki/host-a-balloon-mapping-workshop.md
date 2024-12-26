@@ -1,6 +1,5 @@
 ---
-title: 'Host a balloon mapping workshop'
-tagnames: education, workshop, organizers
+title: "Host a balloon mapping workshop"\ntagnames: 'education, workshop, organizers'
 author: warren
 path: /wiki/host-a-balloon-mapping-workshop.md
 nid: 869

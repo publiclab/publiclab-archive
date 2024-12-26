@@ -1,6 +1,5 @@
 ---
-title: 'camera-rig'
-tagnames: redirect:13764
+title: "camera-rig"\ntagnames: 'redirect:13764'
 author: warren
 path: /wiki/camera-rig.md
 nid: 14504

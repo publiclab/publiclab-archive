@@ -1,6 +1,5 @@
 ---
-title: 'Question:  Why average? And what happens to the second Green?'
-tagnames: spectrometer, spectroscopy, rgb, question:spectrometry, question:spectral-workbench, average
+title: "Question:  Why average? And what happens to the second Green?"\ntagnames: 'spectrometer, spectroscopy, rgb, question:spectrometry, question:spectral-workbench, average'
 author: viechdokter
 path: /notes/viechdokter/05-05-2016/question-why-average-and-what-happens-to-the-second-green.md
 nid: 13081
@@ -12,7 +11,7 @@ uid: 468990
 
 # Question:  Why average? And what happens to the second Green?
 
-by [viechdokter](../profile/viechdokter) May 05, 2016 15:51
+by [viechdokter](../profile/viechdokter) | May 05, 2016 15:51
 
 May 05, 2016 15:51 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [rgb](../tag/rgb), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [average](../tag/average)
 

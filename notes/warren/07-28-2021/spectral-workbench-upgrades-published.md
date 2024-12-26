@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Workbench upgrades published'
-tagnames: spectrometer, spectrometry, software, spectral-workbench, gsoc, code, lat:41, lon:-71, zoom:6
+title: "Spectral Workbench upgrades published"\ntagnames: 'spectrometer, spectrometry, software, spectral-workbench, gsoc, code, lat:41, lon:-71, zoom:6'
 author: warren
 path: /notes/warren/07-28-2021/spectral-workbench-upgrades-published.md
 nid: 27345
@@ -12,7 +11,7 @@ uid: 1
 
 # Spectral Workbench upgrades published
 
-by [warren](../profile/warren) July 28, 2021 12:58
+by [warren](../profile/warren) | July 28, 2021 12:58
 
 July 28, 2021 12:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [gsoc](../tag/gsoc), [code](../tag/code), [lat:41](../tag/lat:41), [lon:-71](../tag/lon:-71), [zoom:6](../tag/zoom:6)
 

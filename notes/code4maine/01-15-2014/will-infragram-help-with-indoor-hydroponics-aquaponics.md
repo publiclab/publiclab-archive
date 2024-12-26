@@ -1,6 +1,5 @@
 ---
-title: 'Will Infragram help with Indoor Hydroponics/Aquaponics?'
-tagnames: infragram, hydroponics, question:infragram, question:hydroponics
+title: "Will Infragram help with Indoor Hydroponics/Aquaponics?"\ntagnames: 'infragram, hydroponics, question:infragram, question:hydroponics'
 author: ajawitz
 path: /notes/code4maine/01-15-2014/will-infragram-help-with-indoor-hydroponics-aquaponics.md
 nid: 9946
@@ -12,7 +11,7 @@ uid: 294634
 
 # Will Infragram help with Indoor Hydroponics/Aquaponics?
 
-by [ajawitz](../profile/ajawitz) January 15, 2014 17:51
+by [ajawitz](../profile/ajawitz) | January 15, 2014 17:51
 
 January 15, 2014 17:51 | Tags: [infragram](../tag/infragram), [hydroponics](../tag/hydroponics), [question:infragram](../tag/question:infragram), [question:hydroponics](../tag/question:hydroponics)
 

@@ -1,6 +1,5 @@
 ---
-title: 'NIR and white balance'
-tagnames: near-infrared-camera, ndvi, infrared, white-balance, infragram, histogram, led, mobius-actioncam, frosted-globe, response:10324, mobius
+title: "NIR and white balance"\ntagnames: 'near-infrared-camera, ndvi, infrared, white-balance, infragram, histogram, led, mobius-actioncam, frosted-globe, response:10324, mobius'
 author: cfastie
 path: /notes/cfastie/04-23-2014/nir-and-white-balance.md
 nid: 10345
@@ -12,7 +11,7 @@ uid: 554
 
 # NIR and white balance
 
-by [cfastie](../profile/cfastie) April 23, 2014 02:59
+by [cfastie](../profile/cfastie) | April 23, 2014 02:59
 
 April 23, 2014 02:59 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [mobius-actioncam](../tag/mobius-actioncam), [frosted-globe](../tag/frosted-globe), [response:10324](../tag/response:10324), [mobius](../tag/mobius)
 

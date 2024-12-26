@@ -1,6 +1,5 @@
 ---
-title: 'Why Collaborative Development Works in a Proprietary World'
-tagnames: collaboration, licensing, idealab, blog, attribution
+title: "Why Collaborative Development Works in a Proprietary World"\ntagnames: 'collaboration, licensing, idealab, blog, attribution'
 author: warren
 path: /notes/warren/2-15-2012/why-collaborative-development-works-proprietary-world.md
 nid: 790
@@ -12,7 +11,7 @@ uid: 1
 
 # Why Collaborative Development Works in a Proprietary World
 
-by [warren](../profile/warren) February 15, 2012 20:08
+by [warren](../profile/warren) | February 15, 2012 20:08
 
 February 15, 2012 20:08 | Tags: [collaboration](../tag/collaboration), [licensing](../tag/licensing), [idealab](../tag/idealab), [blog](../tag/blog), [attribution](../tag/attribution)
 

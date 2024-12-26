@@ -1,6 +1,5 @@
 ---
-title: 'Soaring Riffle'
-tagnames: arduino, vermont, temperature, kap, photo-rig, gps, sensors, water-quality, riffle, pressure, barnstar:photo-documentation, humidity, saturnv, skyshield, half-spherical, noise, response:13149, barometric, category:field-test, activity:riffle, riffle-examples, s100-gps
+title: "Soaring Riffle"\ntagnames: 'arduino, vermont, temperature, kap, photo-rig, gps, sensors, water-quality, riffle, pressure, barnstar:photo-documentation, humidity, saturnv, skyshield, half-spherical, noise, response:13149, barometric, category:field-test, activity:riffle, riffle-examples, s100-gps'
 author: cfastie
 path: /notes/cfastie/06-02-2016/soaring-riffle.md
 nid: 13158
@@ -12,7 +11,7 @@ uid: 554
 
 # Soaring Riffle
 
-by [cfastie](../profile/cfastie) June 02, 2016 15:14
+by [cfastie](../profile/cfastie) | June 02, 2016 15:14
 
 June 02, 2016 15:14 | Tags: [arduino](../tag/arduino), [vermont](../tag/vermont), [temperature](../tag/temperature), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [gps](../tag/gps), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [pressure](../tag/pressure), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [humidity](../tag/humidity), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [noise](../tag/noise), [response:13149](../tag/response:13149), [barometric](../tag/barometric), [category:field-test](../tag/category:field-test), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [s100-gps](../tag/s100-gps)
 

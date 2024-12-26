@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Analysis Techniques'
-tagnames: spectrometer
+title: "Spectral Analysis Techniques"\ntagnames: 'spectrometer'
 author: liz
 path: /wiki/spectral-analysis-techniques.md
 nid: 4440

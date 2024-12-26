@@ -1,6 +1,5 @@
 ---
-title: 'Can we determine hydrogen sulfide concentration, or a threshold presence/absence using the copper pipe method?'
-tagnames: question:question, question:h2s, question:hydrogen-sulfide, question:h2s-copper-pipe
+title: "Can we determine hydrogen sulfide concentration, or a threshold presence/absence using the copper pipe method?"\ntagnames: 'question:question, question:h2s, question:hydrogen-sulfide, question:h2s-copper-pipe'
 author: gretchengehrke
 path: /notes/gretchengehrke/11-08-2017/can-we-determine-hydrogen-sulfide-concentration-or-a-threshold-presence-absence-using-the-copper-pipe-method.md
 nid: 15163
@@ -10,7 +9,7 @@ uid: 430549
 
 # Can we determine hydrogen sulfide concentration, or a threshold presence/absence using the copper pipe method?
 
-by [gretchengehrke](../profile/gretchengehrke) November 08, 2017 23:35
+by [gretchengehrke](../profile/gretchengehrke) | November 08, 2017 23:35
 
 November 08, 2017 23:35 | Tags: [question:question](../tag/question:question), [question:h2s](../tag/question:h2s), [question:hydrogen-sulfide](../tag/question:hydrogen-sulfide), [question:h2s-copper-pipe](../tag/question:h2s-copper-pipe)
 

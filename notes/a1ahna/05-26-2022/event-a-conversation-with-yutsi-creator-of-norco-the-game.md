@@ -1,6 +1,5 @@
 ---
-title: 'Event: A conversation with Yutsi, creator of NORCO the game'
-tagnames: gulf-coast, louisiana, mapping, event, oil-and-gas, game, geography, robots, zoom:6, zoom:16, videogame, norco, videogames, video-game, lat:29.999092, lon:-90.412304, date:05-31-2022, geography-of-robots
+title: "Event: A conversation with Yutsi, creator of NORCO the game"\ntagnames: 'gulf-coast, louisiana, mapping, event, oil-and-gas, game, geography, robots, zoom:6, zoom:16, videogame, norco, videogames, video-game, lat:29.999092, lon:-90.412304, date:05-31-2022, geography-of-robots'
 author: a1ahna
 path: /notes/a1ahna/05-26-2022/event-a-conversation-with-yutsi-creator-of-norco-the-game.md
 nid: 30913
@@ -12,7 +11,7 @@ uid: 518193
 
 # Event: A conversation with Yutsi, creator of NORCO the game
 
-by [a1ahna](../profile/a1ahna) May 26, 2022 21:40
+by [a1ahna](../profile/a1ahna) | May 26, 2022 21:40
 
 May 26, 2022 21:40 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [mapping](../tag/mapping), [event](../tag/event), [oil-and-gas](../tag/oil-and-gas), [game](../tag/game), [geography](../tag/geography), [robots](../tag/robots), [zoom:6](../tag/zoom:6), [zoom:16](../tag/zoom:16), [videogame](../tag/videogame), [norco](../tag/norco), [videogames](../tag/videogames), [video-game](../tag/video-game), [lat:29.999092](../tag/lat:29.999092), [lon:-90.412304](../tag/lon:-90.412304), [date:05-31-2022](../tag/date:05-31-2022), [geography-of-robots](../tag/geography-of-robots)
 

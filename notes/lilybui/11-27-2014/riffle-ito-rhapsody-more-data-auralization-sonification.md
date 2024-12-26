@@ -1,6 +1,5 @@
 ---
-title: 'Riffle-ito Rhapsody: More Data Auralization/Sonification'
-tagnames: water, data, riffle, quality, openwater, coqui, riffle-examples, sound
+title: "Riffle-ito Rhapsody: More Data Auralization/Sonification"\ntagnames: 'water, data, riffle, quality, openwater, coqui, riffle-examples, sound'
 author: lilybui
 path: /notes/lilybui/11-27-2014/riffle-ito-rhapsody-more-data-auralization-sonification.md
 nid: 11412
@@ -12,7 +11,7 @@ uid: 420662
 
 # Riffle-ito Rhapsody: More Data Auralization/Sonification
 
-by [lilybui](../profile/lilybui) November 27, 2014 17:38
+by [lilybui](../profile/lilybui) | November 27, 2014 17:38
 
 November 27, 2014 17:38 | Tags: [water](../tag/water), [data](../tag/data), [riffle](../tag/riffle), [quality](../tag/quality), [openwater](../tag/openwater), [coqui](../tag/coqui), [riffle-examples](../tag/riffle-examples), [sound](../tag/sound)
 

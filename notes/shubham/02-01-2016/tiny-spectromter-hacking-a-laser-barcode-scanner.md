@@ -1,6 +1,5 @@
 ---
-title: 'Tiny spectromter - Hacking a LASER barcode scanner'
-tagnames: spectrometer, ccd, reflection, pocket, sized, barcode, scanner, mirror, front
+title: "Tiny spectromter - Hacking a LASER barcode scanner"\ntagnames: 'spectrometer, ccd, reflection, pocket, sized, barcode, scanner, mirror, front'
 author: shubham
 path: /notes/shubham/02-01-2016/tiny-spectromter-hacking-a-laser-barcode-scanner.md
 nid: 12639
@@ -12,7 +11,7 @@ uid: 460486
 
 # Tiny spectromter - Hacking a LASER barcode scanner
 
-by [shubham](../profile/shubham) February 01, 2016 09:08
+by [shubham](../profile/shubham) | February 01, 2016 09:08
 
 February 01, 2016 09:08 | Tags: [spectrometer](../tag/spectrometer), [ccd](../tag/ccd), [reflection](../tag/reflection), [pocket](../tag/pocket), [sized](../tag/sized), [barcode](../tag/barcode), [scanner](../tag/scanner), [mirror](../tag/mirror), [front](../tag/front)
 

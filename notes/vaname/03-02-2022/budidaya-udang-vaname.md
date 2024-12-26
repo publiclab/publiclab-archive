@@ -1,6 +1,5 @@
 ---
-title: 'Budidaya udang vaname'
-tagnames: first-time-poster, aquaculture
+title: "Budidaya udang vaname"\ntagnames: 'first-time-poster, aquaculture'
 author: vaname
 path: /notes/vaname/03-02-2022/budidaya-udang-vaname.md
 nid: 30089
@@ -12,7 +11,7 @@ uid: 790344
 
 # Budidaya udang vaname
 
-by [vaname](../profile/vaname) March 02, 2022 10:56
+by [vaname](../profile/vaname) | March 02, 2022 10:56
 
 March 02, 2022 10:56 | Tags: [first-time-poster](../tag/first-time-poster), [aquaculture](../tag/aquaculture)
 

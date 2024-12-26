@@ -1,6 +1,5 @@
 ---
-title: 'Depth Sensor Proposal'
-tagnames: water-quality, stormwater, depth, water-depth, activity:stormwater, activity:water-depth
+title: "Depth Sensor Proposal"\ntagnames: 'water-quality, stormwater, depth, water-depth, activity:stormwater, activity:water-depth'
 author: danbeavers
 path: /notes/danbeavers/05-18-2016/depth-sensor-proposal.md
 nid: 13126
@@ -12,7 +11,7 @@ uid: 51
 
 # Depth Sensor Proposal
 
-by [danbeavers](../profile/danbeavers) May 18, 2016 18:20
+by [danbeavers](../profile/danbeavers) | May 18, 2016 18:20
 
 May 18, 2016 18:20 | Tags: [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [depth](../tag/depth), [water-depth](../tag/water-depth), [activity:stormwater](../tag/activity:stormwater), [activity:water-depth](../tag/activity:water-depth)
 

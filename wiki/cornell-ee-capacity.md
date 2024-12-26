@@ -1,6 +1,5 @@
 ---
-title: 'cornell-ee-capacity'
-tagnames: 
+title: "cornell-ee-capacity"\ntagnames: ''
 author: liz
 path: /wiki/cornell-ee-capacity.md
 nid: 10490

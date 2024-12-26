@@ -1,6 +1,5 @@
 ---
-title: 'Site Visits and Results'
-tagnames: arduino, thermal-flashlight, canada, sociology-4107, response:11460, newfoundland
+title: "Site Visits and Results"\ntagnames: 'arduino, thermal-flashlight, canada, sociology-4107, response:11460, newfoundland'
 author: KKMS
 path: /notes/KKMS/12-17-2014/site-visits-and-results.md
 nid: 11470
@@ -12,7 +11,7 @@ uid: 432742
 
 # Site Visits and Results
 
-by [KKMS](../profile/KKMS) December 17, 2014 12:34
+by [KKMS](../profile/KKMS) | December 17, 2014 12:34
 
 December 17, 2014 12:34 | Tags: [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [canada](../tag/canada), [sociology-4107](../tag/sociology-4107), [response:11460](../tag/response:11460), [newfoundland](../tag/newfoundland)
 

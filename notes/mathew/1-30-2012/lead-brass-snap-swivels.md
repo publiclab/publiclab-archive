@@ -1,6 +1,5 @@
 ---
-title: 'lead in brass snap swivels'
-tagnames: lead
+title: "lead in brass snap swivels"\ntagnames: 'lead'
 author: mathew
 path: /notes/mathew/1-30-2012/lead-brass-snap-swivels.md
 nid: 733
@@ -10,7 +9,7 @@ uid: 4
 
 # lead in brass snap swivels
 
-by [mathew](../profile/mathew) January 31, 2012 02:27
+by [mathew](../profile/mathew) | January 31, 2012 02:27
 
 January 31, 2012 02:27 | Tags: [lead](../tag/lead)
 

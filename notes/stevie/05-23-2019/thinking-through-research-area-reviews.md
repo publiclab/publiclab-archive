@@ -1,6 +1,5 @@
 ---
-title: 'Thinking through Research Area Reviews '
-tagnames: community, organizers, research, organizer, community-development
+title: "Thinking through Research Area Reviews "\ntagnames: 'community, organizers, research, organizer, community-development'
 author: stevie
 path: /notes/stevie/05-23-2019/thinking-through-research-area-reviews.md
 nid: 19506
@@ -12,7 +11,7 @@ uid: 422561
 
 # Thinking through Research Area Reviews 
 
-by [stevie](../profile/stevie) May 23, 2019 20:45
+by [stevie](../profile/stevie) | May 23, 2019 20:45
 
 May 23, 2019 20:45 | Tags: [community](../tag/community), [organizers](../tag/organizers), [research](../tag/research), [organizer](../tag/organizer), [community-development](../tag/community-development)
 

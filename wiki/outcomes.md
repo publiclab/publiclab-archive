@@ -1,6 +1,5 @@
 ---
-title: 'Outcomes'
-tagnames: 
+title: "Outcomes"\ntagnames: ''
 author: warren
 path: /wiki/outcomes.md
 nid: 172

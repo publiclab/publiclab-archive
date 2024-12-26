@@ -1,6 +1,5 @@
 ---
-title: 'Final results Oil Testing Kit, Boquerón Puerto Rico. Testing Oil Contaminants in Roads.'
-tagnames: laser, oil-testing-kit, otk, puerto-rico, boqueron, oil-detection
+title: "Final results Oil Testing Kit, Boquerón Puerto Rico. Testing Oil Contaminants in Roads."\ntagnames: 'laser, oil-testing-kit, otk, puerto-rico, boqueron, oil-detection'
 author: ernestootero
 path: /notes/ernestootero/01-04-2016/final-results-oil-testing-kit-boqueron-puerto-rico-testing-oil-contaminants-in-roads.md
 nid: 12558
@@ -12,7 +11,7 @@ uid: 447002
 
 # Final results Oil Testing Kit, Boquerón Puerto Rico. Testing Oil Contaminants in Roads.
 
-by [ernestootero](../profile/ernestootero) January 04, 2016 22:25
+by [ernestootero](../profile/ernestootero) | January 04, 2016 22:25
 
 January 04, 2016 22:25 | Tags: [laser](../tag/laser), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [puerto-rico](../tag/puerto-rico), [boqueron](../tag/boqueron), [oil-detection](../tag/oil-detection)
 

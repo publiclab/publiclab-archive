@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Mapping From the Ground Up: Public Lab's Field Techniques'
-tagnames: balloon-mapping, kite-mapping, protest-mapping, idealab, activities:aerial-photography
+title: "Balloon Mapping From the Ground Up: Public Lab's Field Techniques"\ntagnames: 'balloon-mapping, kite-mapping, protest-mapping, idealab, activities:aerial-photography'
 author: gonzoearth
 path: /notes/gonzoearth/1-2-2013/balloon-mapping-ground-public-labs-field-techniques.md
 nid: 5394
@@ -12,7 +11,7 @@ uid: 12
 
 # Balloon Mapping From the Ground Up: Public Lab's Field Techniques
 
-by [gonzoearth](../profile/gonzoearth) January 02, 2013 22:40
+by [gonzoearth](../profile/gonzoearth) | January 02, 2013 22:40
 
 January 02, 2013 22:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [protest-mapping](../tag/protest-mapping), [idealab](../tag/idealab), [activities:aerial-photography](../tag/activities:aerial-photography)
 

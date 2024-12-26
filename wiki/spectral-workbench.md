@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Workbench'
-tagnames: spectrometer, spectralworkbench, spectrometry, software, spectral-workbench, led, tool, growth, method, prompt:spectral-workbench, problems, grow
+title: "Spectral Workbench"\ntagnames: 'spectrometer, spectralworkbench, spectrometry, software, spectral-workbench, led, tool, growth, method, prompt:spectral-workbench, problems, grow'
 author: warren
 path: /wiki/spectral-workbench.md
 nid: 534

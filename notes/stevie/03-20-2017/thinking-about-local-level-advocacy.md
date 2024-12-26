@@ -1,6 +1,5 @@
 ---
-title: 'Thinking about local level advocacy'
-tagnames: community, organizing, blog, advocacy, community-organizing, local, ordinances, pin:activity:advocacy
+title: "Thinking about local level advocacy"\ntagnames: 'community, organizing, blog, advocacy, community-organizing, local, ordinances, pin:activity:advocacy'
 author: stevie
 path: /notes/stevie/03-20-2017/thinking-about-local-level-advocacy.md
 nid: 14041
@@ -12,7 +11,7 @@ uid: 422561
 
 # Thinking about local level advocacy
 
-by [stevie](../profile/stevie) March 20, 2017 21:49
+by [stevie](../profile/stevie) | March 20, 2017 21:49
 
 March 20, 2017 21:49 | Tags: [community](../tag/community), [organizing](../tag/organizing), [blog](../tag/blog), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [local](../tag/local), [ordinances](../tag/ordinances), [pin:activity:advocacy](../tag/pin:activity:advocacy)
 

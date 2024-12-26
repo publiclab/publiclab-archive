@@ -1,6 +1,5 @@
 ---
-title: '拓展diy净水组件 '
-tagnames: water-quality, purelab
+title: "拓展diy净水组件 "\ntagnames: 'water-quality, purelab'
 author: Shizi
 path: /notes/Shizi/12-28-2016/diy.md
 nid: 13818
@@ -12,7 +11,7 @@ uid: 475993
 
 # 拓展diy净水组件 
 
-by [Shizi](../profile/Shizi) December 28, 2016 10:46
+by [Shizi](../profile/Shizi) | December 28, 2016 10:46
 
 December 28, 2016 10:46 | Tags: [water-quality](../tag/water-quality), [purelab](../tag/purelab)
 

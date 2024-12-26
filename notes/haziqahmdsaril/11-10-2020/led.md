@@ -1,6 +1,5 @@
 ---
-title: 'led'
-tagnames: first-time-poster
+title: "led"\ntagnames: 'first-time-poster'
 author: haziqahmdsaril
 path: /notes/haziqahmdsaril/11-10-2020/led.md
 nid: 25030
@@ -12,7 +11,7 @@ uid: 729124
 
 # led
 
-by [haziqahmdsaril](../profile/haziqahmdsaril) November 10, 2020 15:28
+by [haziqahmdsaril](../profile/haziqahmdsaril) | November 10, 2020 15:28
 
 November 10, 2020 15:28 | Tags: [first-time-poster](../tag/first-time-poster)
 

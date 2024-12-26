@@ -1,6 +1,5 @@
 ---
-title: 'Slidedeck for environmental lawyers'
-tagnames: evidence, presentation, legal, evidence-project, law-and-policy
+title: "Slidedeck for environmental lawyers"\ntagnames: 'evidence, presentation, legal, evidence-project, law-and-policy'
 author: liz
 path: /notes/liz/09-23-2019/slidedeck-for-environmental-lawyers.md
 nid: 20972
@@ -12,7 +11,7 @@ uid: 7
 
 # Slidedeck for environmental lawyers
 
-by [liz](../profile/liz) September 23, 2019 16:30
+by [liz](../profile/liz) | September 23, 2019 16:30
 
 September 23, 2019 16:30 | Tags: [evidence](../tag/evidence), [presentation](../tag/presentation), [legal](../tag/legal), [evidence-project](../tag/evidence-project), [law-and-policy](../tag/law-and-policy)
 

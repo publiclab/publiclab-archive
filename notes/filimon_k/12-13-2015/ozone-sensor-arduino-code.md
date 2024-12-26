@@ -1,6 +1,5 @@
 ---
-title: 'Ozone sensor arduino code'
-tagnames: response:12506
+title: "Ozone sensor arduino code"\ntagnames: 'response:12506'
 author: filimon_k
 path: /notes/filimon_k/12-13-2015/ozone-sensor-arduino-code.md
 nid: 12508
@@ -12,7 +11,7 @@ uid: 460113
 
 # Ozone sensor arduino code
 
-by [filimon_k](../profile/filimon_k) December 13, 2015 19:26
+by [filimon_k](../profile/filimon_k) | December 13, 2015 19:26
 
 December 13, 2015 19:26 | Tags: [response:12506](../tag/response:12506)
 

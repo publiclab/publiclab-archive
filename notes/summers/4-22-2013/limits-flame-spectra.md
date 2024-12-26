@@ -1,6 +1,5 @@
 ---
-title: 'Limits on Flame Spectra'
-tagnames: flame-spectroscopy, spectralchallenge, flare
+title: "Limits on Flame Spectra"\ntagnames: 'flame-spectroscopy, spectralchallenge, flare'
 author: Summers
 path: /notes/summers/4-22-2013/limits-flame-spectra.md
 nid: 6984
@@ -10,7 +9,7 @@ uid: 55091
 
 # Limits on Flame Spectra
 
-by [Summers](../profile/Summers) April 22, 2013 23:27
+by [Summers](../profile/Summers) | April 22, 2013 23:27
 
 April 22, 2013 23:27 | Tags: [flame-spectroscopy](../tag/flame-spectroscopy), [spectralchallenge](../tag/spectralchallenge), [flare](../tag/flare)
 

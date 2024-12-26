@@ -1,6 +1,5 @@
 ---
-title: 'Sanm camera board for spectrometer kit'
-tagnames: spectrometer, kits, webcam, desktop-spectrometry-kit, sanm
+title: "Sanm camera board for spectrometer kit"\ntagnames: 'spectrometer, kits, webcam, desktop-spectrometry-kit, sanm'
 author: mathew
 path: /notes/mathew/3-18-2013/sanm-camera-board-spectrometer-kit.md
 nid: 6400
@@ -12,7 +11,7 @@ uid: 4
 
 # Sanm camera board for spectrometer kit
 
-by [mathew](../profile/mathew) March 19, 2013 00:09
+by [mathew](../profile/mathew) | March 19, 2013 00:09
 
 March 19, 2013 00:09 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [webcam](../tag/webcam), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [sanm](../tag/sanm)
 

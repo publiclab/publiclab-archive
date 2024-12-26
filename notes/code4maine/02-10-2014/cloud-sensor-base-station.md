@@ -1,6 +1,5 @@
 ---
-title: 'Cloud Sensor Base-Station'
-tagnames: garden, datalogger, hydroponics, gardening, data-logging, datalogging
+title: "Cloud Sensor Base-Station"\ntagnames: 'garden, datalogger, hydroponics, gardening, data-logging, datalogging'
 author: ajawitz
 path: /notes/code4maine/02-10-2014/cloud-sensor-base-station.md
 nid: 10025
@@ -12,7 +11,7 @@ uid: 294634
 
 # Cloud Sensor Base-Station
 
-by [ajawitz](../profile/ajawitz) February 10, 2014 23:15
+by [ajawitz](../profile/ajawitz) | February 10, 2014 23:15
 
 February 10, 2014 23:15 | Tags: [garden](../tag/garden), [datalogger](../tag/datalogger), [hydroponics](../tag/hydroponics), [gardening](../tag/gardening), [data-logging](../tag/data-logging), [datalogging](../tag/datalogging)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Playlist'
-tagnames: 
+title: "Playlist"\ntagnames: ''
 author: warren
 path: /wiki/playlist.md
 nid: 880

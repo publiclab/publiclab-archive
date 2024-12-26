@@ -1,6 +1,5 @@
 ---
-title: 'Seeking Technical Air Quality Fellow'
-tagnames: air-quality, monitoring, jobs, pm, fellows, technical, fellowship, particulate-matter, purpleair, purple-air, fellowship-team, st-james, fellowship-teams, with:travislondon, formosaplastics
+title: "Seeking Technical Air Quality Fellow"\ntagnames: 'air-quality, monitoring, jobs, pm, fellows, technical, fellowship, particulate-matter, purpleair, purple-air, fellowship-team, st-james, fellowship-teams, with:travislondon, formosaplastics'
 author: stevie
 path: /notes/stevie/10-19-2021/seeking-technical-air-quality-fellow.md
 nid: 27946
@@ -12,7 +11,7 @@ uid: 422561
 
 # Seeking Technical Air Quality Fellow
 
-by [stevie](../profile/stevie) October 19, 2021 18:17
+by [stevie](../profile/stevie) | October 19, 2021 18:17
 
 October 19, 2021 18:17 | Tags: [air-quality](../tag/air-quality), [monitoring](../tag/monitoring), [jobs](../tag/jobs), [pm](../tag/pm), [fellows](../tag/fellows), [technical](../tag/technical), [fellowship](../tag/fellowship), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [fellowship-team](../tag/fellowship-team), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
 

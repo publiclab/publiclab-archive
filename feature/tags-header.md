@@ -1,6 +1,5 @@
 ---
-title: 'tags-header'
-tagnames: 
+title: "tags-header"\ntagnames: ''
 author: warren
 path: /feature/tags-header.md
 nid: 17175

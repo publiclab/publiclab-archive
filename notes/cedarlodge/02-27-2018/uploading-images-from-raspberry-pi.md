@@ -1,6 +1,5 @@
 ---
-title: 'Uploading images from raspberry pi.'
-tagnames: question:raspberry-pi, question:pi-camera, question:raspberry-pi-spectrometer, question:lego-spectrometer, first-time-poster
+title: "Uploading images from raspberry pi."\ntagnames: 'question:raspberry-pi, question:pi-camera, question:raspberry-pi-spectrometer, question:lego-spectrometer, first-time-poster'
 author: cedarlodge
 path: /notes/cedarlodge/02-27-2018/uploading-images-from-raspberry-pi.md
 nid: 15824
@@ -10,7 +9,7 @@ uid: 523507
 
 # Uploading images from raspberry pi.
 
-by [cedarlodge](../profile/cedarlodge) February 27, 2018 11:06
+by [cedarlodge](../profile/cedarlodge) | February 27, 2018 11:06
 
 February 27, 2018 11:06 | Tags: [question:raspberry-pi](../tag/question:raspberry-pi), [question:pi-camera](../tag/question:pi-camera), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](../tag/question:lego-spectrometer), [first-time-poster](../tag/first-time-poster)
 

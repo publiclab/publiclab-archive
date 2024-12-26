@@ -1,6 +1,5 @@
 ---
-title: 'Thermal imaging of Refrigerators and Milk '
-tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, milk, insulation, refrigerators, heat, upgrade:thermal-flashlight, replication:625
+title: "Thermal imaging of Refrigerators and Milk "\ntagnames: 'thermal-photography, thermal-flashlight, thermal-imaging, northeastern, milk, insulation, refrigerators, heat, upgrade:thermal-flashlight, replication:625'
 author: williammanning
 path: /notes/williammanning/12-03-2014/thermal-imaging-of-refrigerators-and-milk.md
 nid: 11425
@@ -12,7 +11,7 @@ uid: 432240
 
 # Thermal imaging of Refrigerators and Milk 
 
-by [williammanning](../profile/williammanning) December 03, 2014 05:00
+by [williammanning](../profile/williammanning) | December 03, 2014 05:00
 
 December 03, 2014 05:00 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [milk](../tag/milk), [insulation](../tag/insulation), [refrigerators](../tag/refrigerators), [heat](../tag/heat), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight), [replication:625](../tag/replication:625)
 

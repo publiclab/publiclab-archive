@@ -1,6 +1,5 @@
 ---
-title: 'Organizing the Riffle Area'
-tagnames: website, riffle, riffle-meta
+title: "Organizing the Riffle Area"\ntagnames: 'website, riffle, riffle-meta'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-13-2016/organizing-the-riffle-area.md
 nid: 13558
@@ -12,7 +11,7 @@ uid: 459085
 
 # Organizing the Riffle Area
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) October 13, 2016 01:30
+by [pdhixenbaugh](../profile/pdhixenbaugh) | October 13, 2016 01:30
 
 October 13, 2016 01:30 | Tags: [website](../tag/website), [riffle](../tag/riffle), [riffle-meta](../tag/riffle-meta)
 

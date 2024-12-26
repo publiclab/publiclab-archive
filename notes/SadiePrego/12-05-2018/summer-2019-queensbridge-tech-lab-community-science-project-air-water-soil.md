@@ -1,6 +1,5 @@
 ---
-title: 'AIR-QUALITY & BALLOON LAUNCH: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT'
-tagnames: balloon-mapping, education, urban, mapping, testing, science, kites, health, air, sensors, plants, camera, aerial-mapping, pollution, asthma, wind, environmental, dust, quality, indoor, particulate, lead, pm, carbon, co2, filters, equipment, outdoor-air, air-filter, advocacy, indoor-air, activity:education, particulate-matter, indoor-air-remediation, hot-spot, gases, activity:water, outdoor, activity:soil, first-time-poster, environmentalism, flow, queensbridge, nycha, urban-environmentalism, air-quality-testing, hot-spots
+title: "AIR-QUALITY & BALLOON LAUNCH: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT"\ntagnames: 'balloon-mapping, education, urban, mapping, testing, science, kites, health, air, sensors, plants, camera, aerial-mapping, pollution, asthma, wind, environmental, dust, quality, indoor, particulate, lead, pm, carbon, co2, filters, equipment, outdoor-air, air-filter, advocacy, indoor-air, activity:education, particulate-matter, indoor-air-remediation, hot-spot, gases, activity:water, outdoor, activity:soil, first-time-poster, environmentalism, flow, queensbridge, nycha, urban-environmentalism, air-quality-testing, hot-spots'
 author: SadiePrego
 path: /notes/SadiePrego/12-05-2018/summer-2019-queensbridge-tech-lab-community-science-project-air-water-soil.md
 nid: 17815
@@ -12,7 +11,7 @@ uid: 562839
 
 # AIR-QUALITY & BALLOON LAUNCH: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT
 
-by [SadiePrego](../profile/SadiePrego) December 05, 2018 21:04
+by [SadiePrego](../profile/SadiePrego) | December 05, 2018 21:04
 
 December 05, 2018 21:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [urban](../tag/urban), [mapping](../tag/mapping), [testing](../tag/testing), [science](../tag/science), [kites](../tag/kites), [health](../tag/health), [air](../tag/air), [sensors](../tag/sensors), [plants](../tag/plants), [camera](../tag/camera), [aerial-mapping](../tag/aerial-mapping), [pollution](../tag/pollution), [asthma](../tag/asthma), [wind](../tag/wind), [environmental](../tag/environmental), [dust](../tag/dust), [quality](../tag/quality), [indoor](../tag/indoor), [particulate](../tag/particulate), [lead](../tag/lead), [pm](../tag/pm), [carbon](../tag/carbon), [co2](../tag/co2), [filters](../tag/filters), [equipment](../tag/equipment), [outdoor-air](../tag/outdoor-air), [air-filter](../tag/air-filter), [advocacy](../tag/advocacy), [indoor-air](../tag/indoor-air), [activity:education](../tag/activity:education), [particulate-matter](../tag/particulate-matter), [indoor-air-remediation](../tag/indoor-air-remediation), [hot-spot](../tag/hot-spot), [gases](../tag/gases), [activity:water](../tag/activity:water), [outdoor](../tag/outdoor), [activity:soil](../tag/activity:soil), [first-time-poster](../tag/first-time-poster), [environmentalism](../tag/environmentalism), [flow](../tag/flow), [queensbridge](../tag/queensbridge), [nycha](../tag/nycha), [urban-environmentalism](../tag/urban-environmentalism), [air-quality-testing](../tag/air-quality-testing), [hot-spots](../tag/hot-spots)
 

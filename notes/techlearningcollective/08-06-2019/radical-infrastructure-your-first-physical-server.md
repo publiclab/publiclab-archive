@@ -1,6 +1,5 @@
 ---
-title: 'Radical Infrastructure: Your First Physical Server'
-tagnames: education, pedagogy, event, workshops, infrastructure, techlearningcollective, autonomy, intensives, lat:40.704224, lon:-73.986675
+title: "Radical Infrastructure: Your First Physical Server"\ntagnames: 'education, pedagogy, event, workshops, infrastructure, techlearningcollective, autonomy, intensives, lat:40.704224, lon:-73.986675'
 author: techlearningcollective
 path: /notes/techlearningcollective/08-06-2019/radical-infrastructure-your-first-physical-server.md
 nid: 20446
@@ -12,7 +11,7 @@ uid: 608717
 
 # Radical Infrastructure: Your First Physical Server
 
-by [techlearningcollective](../profile/techlearningcollective) August 06, 2019 19:01
+by [techlearningcollective](../profile/techlearningcollective) | August 06, 2019 19:01
 
 August 06, 2019 19:01 | Tags: [education](../tag/education), [pedagogy](../tag/pedagogy), [event](../tag/event), [workshops](../tag/workshops), [infrastructure](../tag/infrastructure), [techlearningcollective](../tag/techlearningcollective), [autonomy](../tag/autonomy), [intensives](../tag/intensives), [lat:40.704224](../tag/lat:40.704224), [lon:-73.986675](../tag/lon:-73.986675)
 

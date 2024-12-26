@@ -1,6 +1,5 @@
 ---
-title: 'Fraunhofer'
-tagnames: spectrometer, vermont, ebert, absorption, sky, fraunhofer, astronomy, sun, atmosphere, activity:spectrometry, time:30m, difficulty:easy, seeks:replications
+title: "Fraunhofer"\ntagnames: 'spectrometer, vermont, ebert, absorption, sky, fraunhofer, astronomy, sun, atmosphere, activity:spectrometry, time:30m, difficulty:easy, seeks:replications'
 author: cfastie
 path: /notes/cfastie/3-2-2013/fraunhofer.md
 nid: 6168
@@ -12,7 +11,7 @@ uid: 554
 
 # Fraunhofer
 
-by [cfastie](../profile/cfastie) March 03, 2013 04:22
+by [cfastie](../profile/cfastie) | March 03, 2013 04:22
 
 March 03, 2013 04:22 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [ebert](../tag/ebert), [absorption](../tag/absorption), [sky](../tag/sky), [fraunhofer](../tag/fraunhofer), [astronomy](../tag/astronomy), [sun](../tag/sun), [atmosphere](../tag/atmosphere), [activity:spectrometry](../tag/activity:spectrometry), [time:30m](../tag/time:30m), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications)
 

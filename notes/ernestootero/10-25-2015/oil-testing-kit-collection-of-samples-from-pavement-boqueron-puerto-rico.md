@@ -1,6 +1,5 @@
 ---
-title: 'Oil testing Kit: Collection of Samples from Pavement, Boqueron Puerto Rico'
-tagnames: spectrometer, oil, pr, motor-oil, identifying-oil, oil-testing-kit, caribbean, sampling-oil-residues, oil-pavement, puerto-rico
+title: "Oil testing Kit: Collection of Samples from Pavement, Boqueron Puerto Rico"\ntagnames: 'spectrometer, oil, pr, motor-oil, identifying-oil, oil-testing-kit, caribbean, sampling-oil-residues, oil-pavement, puerto-rico'
 author: ernestootero
 path: /notes/ernestootero/10-25-2015/oil-testing-kit-collection-of-samples-from-pavement-boqueron-puerto-rico.md
 nid: 12334
@@ -12,7 +11,7 @@ uid: 447002
 
 # Oil testing Kit: Collection of Samples from Pavement, Boqueron Puerto Rico
 
-by [ernestootero](../profile/ernestootero) October 25, 2015 18:17
+by [ernestootero](../profile/ernestootero) | October 25, 2015 18:17
 
 October 25, 2015 18:17 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [pr](../tag/pr), [motor-oil](../tag/motor-oil), [identifying-oil](../tag/identifying-oil), [oil-testing-kit](../tag/oil-testing-kit), [caribbean](../tag/caribbean), [sampling-oil-residues](../tag/sampling-oil-residues), [oil-pavement](../tag/oil-pavement), [puerto-rico](../tag/puerto-rico)
 

@@ -1,6 +1,5 @@
 ---
-title: 'was wondering'
-tagnames: 
+title: "was wondering"\ntagnames: ''
 author: cbullock
 path: /notes/cbullock/9-21-2012/was-wondering.md
 nid: 3925
@@ -10,7 +9,7 @@ uid: 43740
 
 # was wondering
 
-by [cbullock](../profile/cbullock) September 21, 2012 12:53
+by [cbullock](../profile/cbullock) | September 21, 2012 12:53
 
 September 21, 2012 12:53 | Tags: 
 

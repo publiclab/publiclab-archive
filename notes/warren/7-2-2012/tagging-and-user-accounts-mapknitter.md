@@ -1,6 +1,5 @@
 ---
-title: 'Tagging and user accounts in MapKnitter'
-tagnames: mapknitter
+title: "Tagging and user accounts in MapKnitter"\ntagnames: 'mapknitter'
 author: warren
 path: /notes/warren/7-2-2012/tagging-and-user-accounts-mapknitter.md
 nid: 2694
@@ -12,7 +11,7 @@ uid: 1
 
 # Tagging and user accounts in MapKnitter
 
-by [warren](../profile/warren) July 02, 2012 18:29
+by [warren](../profile/warren) | July 02, 2012 18:29
 
 July 02, 2012 18:29 | Tags: [mapknitter](../tag/mapknitter)
 

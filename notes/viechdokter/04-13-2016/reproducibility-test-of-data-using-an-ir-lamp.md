@@ -1,6 +1,5 @@
 ---
-title: 'Reproducibility test of data using an IR lamp'
-tagnames: spectrometer, infrared, ir, lamp, spectrum, repeatability, reproducibility, stability
+title: "Reproducibility test of data using an IR lamp"\ntagnames: 'spectrometer, infrared, ir, lamp, spectrum, repeatability, reproducibility, stability'
 author: viechdokter
 path: /notes/viechdokter/04-13-2016/reproducibility-test-of-data-using-an-ir-lamp.md
 nid: 12962
@@ -12,7 +11,7 @@ uid: 468990
 
 # Reproducibility test of data using an IR lamp
 
-by [viechdokter](../profile/viechdokter) April 13, 2016 00:28
+by [viechdokter](../profile/viechdokter) | April 13, 2016 00:28
 
 April 13, 2016 00:28 | Tags: [spectrometer](../tag/spectrometer), [infrared](../tag/infrared), [ir](../tag/ir), [lamp](../tag/lamp), [spectrum](../tag/spectrum), [repeatability](../tag/repeatability), [reproducibility](../tag/reproducibility), [stability](../tag/stability)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Bread Loaf Ortho'
-tagnames: kite-mapping, mapknitter, leaffest, leaffest2012, gps
+title: "Bread Loaf Ortho"\ntagnames: 'kite-mapping, mapknitter, leaffest, leaffest2012, gps'
 author: cfastie
 path: /notes/cfastie/9-26-2012/bread-loaf-ortho.md
 nid: 4026
@@ -12,7 +11,7 @@ uid: 554
 
 # Bread Loaf Ortho
 
-by [cfastie](../profile/cfastie) September 26, 2012 21:38
+by [cfastie](../profile/cfastie) | September 26, 2012 21:38
 
 September 26, 2012 21:38 | Tags: [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [gps](../tag/gps)
 

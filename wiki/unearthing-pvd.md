@@ -1,6 +1,5 @@
 ---
-title: 'Unearthing Providence'
-tagnames: providence, rhode-island, style:presentation, northeast, seeks:responses, content, project, location:blurred, geo-storytelling, unearthing-pvd, zoom:9, ri
+title: "Unearthing Providence"\ntagnames: 'providence, rhode-island, style:presentation, northeast, seeks:responses, content, project, location:blurred, geo-storytelling, unearthing-pvd, zoom:9, ri'
 author: warren
 path: /wiki/unearthing-pvd.md
 nid: 21410

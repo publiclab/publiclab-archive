@@ -1,6 +1,5 @@
 ---
-title: 'Fort Bayou Near Infrared Map'
-tagnames: gulf-coast, balloon-mapping, washustlouis, washu-stlouis
+title: "Fort Bayou Near Infrared Map"\ntagnames: 'gulf-coast, balloon-mapping, washustlouis, washu-stlouis'
 author: jrokoff
 path: /notes/jrokoff/09-11-2014/fort-bayou-near-infrared-map.md
 nid: 11127
@@ -12,7 +11,7 @@ uid: 428230
 
 # Fort Bayou Near Infrared Map
 
-by [jrokoff](../profile/jrokoff) September 11, 2014 19:04
+by [jrokoff](../profile/jrokoff) | September 11, 2014 19:04
 
 September 11, 2014 19:04 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
 

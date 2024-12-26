@@ -1,6 +1,5 @@
 ---
-title: 'Helium'
-tagnames: first-time-poster
+title: "Helium"\ntagnames: 'first-time-poster'
 author: ambrown23
 path: /notes/ambrown23/02-26-2020/helium.md
 nid: 22934
@@ -12,7 +11,7 @@ uid: 668550
 
 # Helium
 
-by [ambrown23](../profile/ambrown23) February 26, 2020 02:40
+by [ambrown23](../profile/ambrown23) | February 26, 2020 02:40
 
 February 26, 2020 02:40 | Tags: [first-time-poster](../tag/first-time-poster)
 

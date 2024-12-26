@@ -1,6 +1,5 @@
 ---
-title: 'Thermal Flashlight Workshop RISD!'
-tagnames: 
+title: "Thermal Flashlight Workshop RISD!"\ntagnames: ''
 author: sara
 path: /notes/sara/2-23-2012/thermal-flashlight-workshop-risd.md
 nid: 835
@@ -12,7 +11,7 @@ uid: 8
 
 # Thermal Flashlight Workshop RISD!
 
-by [sara](../profile/sara) February 23, 2012 22:09
+by [sara](../profile/sara) | February 23, 2012 22:09
 
 February 23, 2012 22:09 | Tags: 
 

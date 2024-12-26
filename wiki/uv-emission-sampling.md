@@ -1,6 +1,5 @@
 ---
-title: 'UV Emission Sampling'
-tagnames: 
+title: "UV Emission Sampling"\ntagnames: ''
 author: mathew
 path: /wiki/uv-emission-sampling.md
 nid: 10153

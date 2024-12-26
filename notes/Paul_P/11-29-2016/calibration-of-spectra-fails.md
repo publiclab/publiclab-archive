@@ -1,6 +1,5 @@
 ---
-title: 'Calibration of spectra fails'
-tagnames: question:spectral-workbench
+title: "Calibration of spectra fails"\ntagnames: 'question:spectral-workbench'
 author: Paul_P
 path: /notes/Paul_P/11-29-2016/calibration-of-spectra-fails.md
 nid: 13730
@@ -12,7 +11,7 @@ uid: 497508
 
 # Calibration of spectra fails
 
-by [Paul_P](../profile/Paul_P) November 29, 2016 08:57
+by [Paul_P](../profile/Paul_P) | November 29, 2016 08:57
 
 November 29, 2016 08:57 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 

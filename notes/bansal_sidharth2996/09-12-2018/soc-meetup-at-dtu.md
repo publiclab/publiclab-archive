@@ -1,6 +1,5 @@
 ---
-title: 'SoC MeetUp at DTU'
-tagnames: event, outreach, gsoc, india, software-outreach, soc, location:blurred, soc-2018, coding-events, new-delhi, gsoc-18, lat:28.7, lon:77.1, place:delhi-110063-india
+title: "SoC MeetUp at DTU"\ntagnames: 'event, outreach, gsoc, india, software-outreach, soc, location:blurred, soc-2018, coding-events, new-delhi, gsoc-18, lat:28.7, lon:77.1, place:delhi-110063-india'
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/09-12-2018/soc-meetup-at-dtu.md
 nid: 17097
@@ -12,7 +11,7 @@ uid: 503599
 
 # SoC MeetUp at DTU
 
-by [bansal_sidharth2996](../profile/bansal_sidharth2996) September 12, 2018 01:47
+by [bansal_sidharth2996](../profile/bansal_sidharth2996) | September 12, 2018 01:47
 
 September 12, 2018 01:47 | Tags: [event](../tag/event), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [india](../tag/india), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [location:blurred](../tag/location:blurred), [soc-2018](../tag/soc-2018), [coding-events](../tag/coding-events), [new-delhi](../tag/new-delhi), [gsoc-18](../tag/gsoc-18), [lat:28.7](../tag/lat:28.7), [lon:77.1](../tag/lon:77.1), [place:delhi-110063-india](../tag/place:delhi-110063-india)
 

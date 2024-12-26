@@ -1,6 +1,5 @@
 ---
-title: 'Contributors'
-tagnames: community, parent:website, contribute
+title: "Contributors"\ntagnames: 'community, parent:website, contribute'
 author: liz
 path: /wiki/contributors.md
 nid: 23510

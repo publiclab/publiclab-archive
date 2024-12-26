@@ -1,6 +1,5 @@
 ---
-title: 'NDVI Vineyard'
-tagnames: question:general, response:43
+title: "NDVI Vineyard"\ntagnames: 'question:general, response:43'
 author: dbehr
 path: /notes/dbehr/04-10-2019/ndvi-vineyard.md
 nid: 19019
@@ -10,7 +9,7 @@ uid: 436864
 
 # NDVI Vineyard
 
-by [dbehr](../profile/dbehr) April 10, 2019 06:58
+by [dbehr](../profile/dbehr) | April 10, 2019 06:58
 
 April 10, 2019 06:58 | Tags: [question:general](../tag/question:general), [response:43](../tag/response:43)
 

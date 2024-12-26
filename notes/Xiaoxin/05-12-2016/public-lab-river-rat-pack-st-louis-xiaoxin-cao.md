@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab River Rat Pack—St. Louis – Xiaoxin Cao '
-tagnames: publiclabriverratpack
+title: "Public Lab River Rat Pack—St. Louis – Xiaoxin Cao "\ntagnames: 'publiclabriverratpack'
 author: Xiaoxin
 path: /notes/Xiaoxin/05-12-2016/public-lab-river-rat-pack-st-louis-xiaoxin-cao.md
 nid: 13107
@@ -12,7 +11,7 @@ uid: 473370
 
 # Public Lab River Rat Pack—St. Louis – Xiaoxin Cao 
 
-by [Xiaoxin](../profile/Xiaoxin) May 12, 2016 08:11
+by [Xiaoxin](../profile/Xiaoxin) | May 12, 2016 08:11
 
 May 12, 2016 08:11 | Tags: [publiclabriverratpack](../tag/publiclabriverratpack)
 

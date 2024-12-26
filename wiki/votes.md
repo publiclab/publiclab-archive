@@ -1,6 +1,5 @@
 ---
-title: 'Votes'
-tagnames: 
+title: "Votes"\ntagnames: ''
 author: warren
 path: /wiki/votes.md
 nid: 508

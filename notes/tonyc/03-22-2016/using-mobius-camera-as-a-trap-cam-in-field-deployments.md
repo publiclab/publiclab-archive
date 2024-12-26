@@ -1,6 +1,5 @@
 ---
-title: 'Using Mobius camera as a "trap cam" in field deployments'
-tagnames: mobius, barnstar:basic, activity:timelapse, activity:photo-monitoring
+title: "Using Mobius camera as a "trap cam" in field deployments"\ntagnames: 'mobius, barnstar:basic, activity:timelapse, activity:photo-monitoring'
 author: tonyc
 path: /notes/tonyc/03-22-2016/using-mobius-camera-as-a-trap-cam-in-field-deployments.md
 nid: 12876
@@ -12,7 +11,7 @@ uid: 447491
 
 # Using Mobius camera as a "trap cam" in field deployments
 
-by [tonyc](../profile/tonyc) March 22, 2016 18:36
+by [tonyc](../profile/tonyc) | March 22, 2016 18:36
 
 March 22, 2016 18:36 | Tags: [mobius](../tag/mobius), [barnstar:basic](../tag/barnstar:basic), [activity:timelapse](../tag/activity:timelapse), [activity:photo-monitoring](../tag/activity:photo-monitoring)
 

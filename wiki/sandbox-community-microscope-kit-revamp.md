@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-community-microscope-kit-revamp'
-tagnames: community-microscope
+title: "sandbox-community-microscope-kit-revamp"\ntagnames: 'community-microscope'
 author: mimiss
 path: /wiki/sandbox-community-microscope-kit-revamp.md
 nid: 20417

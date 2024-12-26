@@ -1,6 +1,5 @@
 ---
-title: 'Air Quality Monitoring at UWEC'
-tagnames: photo-monitoring, wisconsin, air-quality, timelapse, particulates, pm, dylos, pm-monitoring, trail-camera, uwec, story:timelapse, timelapse-story
+title: "Air Quality Monitoring at UWEC"\ntagnames: 'photo-monitoring, wisconsin, air-quality, timelapse, particulates, pm, dylos, pm-monitoring, trail-camera, uwec, story:timelapse, timelapse-story'
 author: bkleist
 path: /notes/bkleist/02-10-2017/air-quality-monitoring-at-uwec.md
 nid: 13920
@@ -12,7 +11,7 @@ uid: 489504
 
 # Air Quality Monitoring at UWEC
 
-by [bkleist](../profile/bkleist) February 10, 2017 21:54
+by [bkleist](../profile/bkleist) | February 10, 2017 21:54
 
 February 10, 2017 21:54 | Tags: [photo-monitoring](../tag/photo-monitoring), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [timelapse](../tag/timelapse), [particulates](../tag/particulates), [pm](../tag/pm), [dylos](../tag/dylos), [pm-monitoring](../tag/pm-monitoring), [trail-camera](../tag/trail-camera), [uwec](../tag/uwec), [story:timelapse](../tag/story:timelapse), [timelapse-story](../tag/timelapse-story)
 

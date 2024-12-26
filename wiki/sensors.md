@@ -1,6 +1,5 @@
 ---
-title: 'Sensors'
-tagnames: 
+title: "Sensors"\ntagnames: ''
 author: gretchengehrke
 path: /wiki/sensors.md
 nid: 15363

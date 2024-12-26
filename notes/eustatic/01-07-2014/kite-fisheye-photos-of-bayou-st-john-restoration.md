@@ -1,6 +1,5 @@
 ---
-title: 'Kite Fisheye Photos of Bayou St John restoration'
-tagnames: gulf-coast, kite-mapping, wetlands, wetland, dredge-reuse, fisheye, gopro, dredgefestla, bsj, wide-angle, wifi-camera, mini-camera, activity:mini-camera
+title: "Kite Fisheye Photos of Bayou St John restoration"\ntagnames: 'gulf-coast, kite-mapping, wetlands, wetland, dredge-reuse, fisheye, gopro, dredgefestla, bsj, wide-angle, wifi-camera, mini-camera, activity:mini-camera'
 author: eustatic
 path: /01-07-2014/kite-fisheye-photos-of-bayou-st-john-restoration.md
 nid: 9928
@@ -12,7 +11,7 @@ uid: 379
 
 # Kite Fisheye Photos of Bayou St John restoration
 
-by [eustatic](../profile/eustatic) January 07, 2014 03:24
+by [eustatic](../profile/eustatic) | January 07, 2014 03:24
 
 January 07, 2014 03:24 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [wetland](../tag/wetland), [dredge-reuse](../tag/dredge-reuse), [fisheye](../tag/fisheye), [gopro](../tag/gopro), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj), [wide-angle](../tag/wide-angle), [wifi-camera](../tag/wifi-camera), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
 

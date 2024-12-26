@@ -1,6 +1,5 @@
 ---
-title: 'logos'
-tagnames: redirect:15540
+title: "logos"\ntagnames: 'redirect:15540'
 author: warren
 path: /wiki/logos.md
 nid: 16311

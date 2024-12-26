@@ -1,6 +1,5 @@
 ---
-title: 'Hope in Bloom in the Southside of Williamsburg!'
-tagnames: new-york-city, balloon-mapping, event, garden, southside, williamsburg
+title: "Hope in Bloom in the Southside of Williamsburg!"\ntagnames: 'new-york-city, balloon-mapping, event, garden, southside, williamsburg'
 author: AnushaV
 path: /notes/AnushaV/04-22-2014/hope-in-bloom-in-the-southside-of-williamsburg.md
 nid: 10343
@@ -12,7 +11,7 @@ uid: 422636
 
 # Hope in Bloom in the Southside of Williamsburg!
 
-by [AnushaV](../profile/AnushaV) April 22, 2014 19:31
+by [AnushaV](../profile/AnushaV) | April 22, 2014 19:31
 
 April 22, 2014 19:31 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [garden](../tag/garden), [southside](../tag/southside), [williamsburg](../tag/williamsburg)
 

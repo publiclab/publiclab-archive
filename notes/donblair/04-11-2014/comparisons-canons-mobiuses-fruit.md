@@ -1,6 +1,5 @@
 ---
-title: 'Comparisons: Canons, Mobiuses, 'fruit'
-tagnames: 
+title: "Comparisons: Canons, Mobiuses, 'fruit"\ntagnames: ''
 author: donblair
 path: /notes/donblair/04-11-2014/comparisons-canons-mobiuses-fruit.md
 nid: 10298
@@ -12,7 +11,7 @@ uid: 43651
 
 # Comparisons: Canons, Mobiuses, 'fruit
 
-by [donblair](../profile/donblair) April 11, 2014 16:01
+by [donblair](../profile/donblair) | April 11, 2014 16:01
 
 April 11, 2014 16:01 | Tags: 
 

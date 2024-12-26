@@ -1,6 +1,5 @@
 ---
-title: 'passive-pm-imaging'
-tagnames: parent:passive-pm
+title: "passive-pm-imaging"\ntagnames: 'parent:passive-pm'
 author: mathew
 path: /wiki/passive-pm-imaging.md
 nid: 12649

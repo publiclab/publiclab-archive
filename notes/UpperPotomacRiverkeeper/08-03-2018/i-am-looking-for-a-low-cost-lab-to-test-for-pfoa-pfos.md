@@ -1,6 +1,5 @@
 ---
-title: 'I am looking for a low cost lab to test for PFOA/PFOS. '
-tagnames: water-quality, question:water-quality, question:general, question:pfoa, question:pfos, pfoa, pfos, question:pfbs, pfbs
+title: "I am looking for a low cost lab to test for PFOA/PFOS. "\ntagnames: 'water-quality, question:water-quality, question:general, question:pfoa, question:pfos, pfoa, pfos, question:pfbs, pfbs'
 author: UpperPotomacRiverkeeper
 path: /notes/UpperPotomacRiverkeeper/08-03-2018/i-am-looking-for-a-low-cost-lab-to-test-for-pfoa-pfos.md
 nid: 16847
@@ -10,7 +9,7 @@ uid: 544989
 
 # I am looking for a low cost lab to test for PFOA/PFOS. 
 
-by [UpperPotomacRiverkeeper](../profile/UpperPotomacRiverkeeper) August 03, 2018 13:24
+by [UpperPotomacRiverkeeper](../profile/UpperPotomacRiverkeeper) | August 03, 2018 13:24
 
 August 03, 2018 13:24 | Tags: [water-quality](../tag/water-quality), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [question:pfoa](../tag/question:pfoa), [question:pfos](../tag/question:pfos), [pfoa](../tag/pfoa), [pfos](../tag/pfos), [question:pfbs](../tag/question:pfbs), [pfbs](../tag/pfbs)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal:  Comment Editor Overhaul'
-tagnames: first-time-poster
+title: "Outreachy proposal:  Comment Editor Overhaul"\ntagnames: 'first-time-poster'
 author: preciousakams
 path: /notes/preciousakams/10-29-2020/outreachy-proposal-comment-editor-overhaul.md
 nid: 24862
@@ -12,7 +11,7 @@ uid: 727417
 
 # Outreachy proposal:  Comment Editor Overhaul
 
-by [preciousakams](../profile/preciousakams) October 29, 2020 10:12
+by [preciousakams](../profile/preciousakams) | October 29, 2020 10:12
 
 October 29, 2020 10:12 | Tags: [first-time-poster](../tag/first-time-poster)
 

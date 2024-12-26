@@ -1,6 +1,5 @@
 ---
-title: 'Dustduino'
-tagnames: air-quality, dustduino, dust, particulates, question:dustduino
+title: "Dustduino"\ntagnames: 'air-quality, dustduino, dust, particulates, question:dustduino'
 author: Delia
 path: /notes/Delia/06-09-2015/dustduino.md
 nid: 11962
@@ -10,7 +9,7 @@ uid: 443407
 
 # Dustduino
 
-by [Delia](../profile/Delia) June 09, 2015 17:36
+by [Delia](../profile/Delia) | June 09, 2015 17:36
 
 June 09, 2015 17:36 | Tags: [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [question:dustduino](../tag/question:dustduino)
 

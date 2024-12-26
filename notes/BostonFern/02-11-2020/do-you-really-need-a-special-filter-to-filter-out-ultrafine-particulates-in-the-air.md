@@ -1,6 +1,5 @@
 ---
-title: 'Do you really need a special filter to filter out ultrafine particulates in the air?'
-tagnames: air-quality, pm, question:air-quality, question:pm, question:general, general, particulate-matter, ultrafine, question:ultrafine, question:ultrafines, ultrafines
+title: "Do you really need a special filter to filter out ultrafine particulates in the air?"\ntagnames: 'air-quality, pm, question:air-quality, question:pm, question:general, general, particulate-matter, ultrafine, question:ultrafine, question:ultrafines, ultrafines'
 author: BostonFern
 path: /notes/BostonFern/02-11-2020/do-you-really-need-a-special-filter-to-filter-out-ultrafine-particulates-in-the-air.md
 nid: 22751
@@ -10,7 +9,7 @@ uid: 643525
 
 # Do you really need a special filter to filter out ultrafine particulates in the air?
 
-by [BostonFern](../profile/BostonFern) February 11, 2020 07:52
+by [BostonFern](../profile/BostonFern) | February 11, 2020 07:52
 
 February 11, 2020 07:52 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [ultrafine](../tag/ultrafine), [question:ultrafine](../tag/question:ultrafine), [question:ultrafines](../tag/question:ultrafines), [ultrafines](../tag/ultrafines)
 

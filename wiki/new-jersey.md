@@ -1,6 +1,5 @@
 ---
-title: 'new-jersey'
-tagnames: new-jersey, events:new-jersey, northeast, parent:northeast
+title: "new-jersey"\ntagnames: 'new-jersey, events:new-jersey, northeast, parent:northeast'
 author: liz
 path: /wiki/new-jersey.md
 nid: 10440

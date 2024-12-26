@@ -1,6 +1,5 @@
 ---
-title: 'Mapping rugged coastal environments with a Raspberry Pi and a balloon?'
-tagnames: balloon-mapping, photogrammetry, raspberry-pi, photo-monitoring, timelapse, coast, germany, topography, high-resolution
+title: "Mapping rugged coastal environments with a Raspberry Pi and a balloon?"\ntagnames: 'balloon-mapping, photogrammetry, raspberry-pi, photo-monitoring, timelapse, coast, germany, topography, high-resolution'
 author: samwf
 path: /notes/samwf/08-01-2017/mapping-rugged-coastal-environments-with-a-raspberry-pi-and-a-balloon.md
 nid: 14703
@@ -12,7 +11,7 @@ uid: 511878
 
 # Mapping rugged coastal environments with a Raspberry Pi and a balloon?
 
-by [samwf](../profile/samwf) August 01, 2017 12:08
+by [samwf](../profile/samwf) | August 01, 2017 12:08
 
 August 01, 2017 12:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [photogrammetry](../tag/photogrammetry), [raspberry-pi](../tag/raspberry-pi), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [coast](../tag/coast), [germany](../tag/germany), [topography](../tag/topography), [high-resolution](../tag/high-resolution)
 

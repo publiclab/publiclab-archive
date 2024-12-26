@@ -1,6 +1,5 @@
 ---
-title: 'environmental estrogen testing review'
-tagnames: 
+title: "environmental estrogen testing review"\ntagnames: ''
 author: gonzoearth
 path: /wiki/environmental-estrogen-testing-review.md
 nid: 702

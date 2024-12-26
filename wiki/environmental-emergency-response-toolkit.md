@@ -1,6 +1,5 @@
 ---
-title: 'Environmental Emergency Response Toolkit'
-tagnames: parent:barnraising-texas-2019
+title: "Environmental Emergency Response Toolkit"\ntagnames: 'parent:barnraising-texas-2019'
 author: Bronwen
 path: /wiki/environmental-emergency-response-toolkit.md
 nid: 18956

@@ -1,6 +1,5 @@
 ---
-title: 'PLOTS Bank Account Deposits'
-tagnames: 
+title: "PLOTS Bank Account Deposits"\ntagnames: ''
 author: Shannon
 path: /wiki/plots-bank-account-deposits.md
 nid: 595

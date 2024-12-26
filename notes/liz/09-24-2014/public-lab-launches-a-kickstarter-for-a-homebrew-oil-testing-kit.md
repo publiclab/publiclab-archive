@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Launches a Kickstarter for a Homebrew Oil Testing Kit'
-tagnames: spectrometer, kickstarter, press-release, oil-testing-kit, homebrew-oil-testing-kit
+title: "Public Lab Launches a Kickstarter for a Homebrew Oil Testing Kit"\ntagnames: 'spectrometer, kickstarter, press-release, oil-testing-kit, homebrew-oil-testing-kit'
 author: liz
 path: /notes/liz/09-24-2014/public-lab-launches-a-kickstarter-for-a-homebrew-oil-testing-kit.md
 nid: 11180
@@ -12,7 +11,7 @@ uid: 7
 
 # Public Lab Launches a Kickstarter for a Homebrew Oil Testing Kit
 
-by [liz](../profile/liz) September 24, 2014 14:12
+by [liz](../profile/liz) | September 24, 2014 14:12
 
 September 24, 2014 14:12 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [press-release](../tag/press-release), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit)
 

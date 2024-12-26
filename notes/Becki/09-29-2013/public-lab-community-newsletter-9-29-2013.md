@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Community Newsletter 9.29.2013'
-tagnames: 
+title: "Public Lab Community Newsletter 9.29.2013"\ntagnames: ''
 author: Becki
 path: /notes/Becki/09-29-2013/public-lab-community-newsletter-9-29-2013.md
 nid: 9386
@@ -12,7 +11,7 @@ uid: 46673
 
 # Public Lab Community Newsletter 9.29.2013
 
-by [Becki](../profile/Becki) September 29, 2013 17:25
+by [Becki](../profile/Becki) | September 29, 2013 17:25
 
 September 29, 2013 17:25 | Tags: 
 

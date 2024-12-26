@@ -1,6 +1,5 @@
 ---
-title: 'DIY Satellite Ground Station Workshop '
-tagnames: diy-satellite, eu, denmark, open-weather, with:sophied
+title: "DIY Satellite Ground Station Workshop "\ntagnames: 'diy-satellite, eu, denmark, open-weather, with:sophied'
 author: sashae
 path: /notes/sashae/06-21-2021/diy-satellite-ground-station-workshop.md
 nid: 25627
@@ -12,7 +11,7 @@ uid: 693684
 
 # DIY Satellite Ground Station Workshop 
 
-by [sashae](../profile/sashae) June 21, 2021 14:24
+by [sashae](../profile/sashae) | June 21, 2021 14:24
 
 June 21, 2021 14:24 | Tags: [diy-satellite](../tag/diy-satellite), [eu](../tag/eu), [denmark](../tag/denmark), [open-weather](../tag/open-weather), [with:sophied](../tag/with:sophied)
 

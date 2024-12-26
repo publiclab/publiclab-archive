@@ -1,6 +1,5 @@
 ---
-title: 'I, Too, Struggle'
-tagnames: coding, happy-holidays, blog-submission, outreachy, programming, codebase
+title: "I, Too, Struggle"\ntagnames: 'coding, happy-holidays, blog-submission, outreachy, programming, codebase'
 author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/12-28-2020/i-too-struggle.md
 nid: 25344
@@ -12,7 +11,7 @@ uid: 725565
 
 # I, Too, Struggle
 
-by [ruthnwaiganjo](../profile/ruthnwaiganjo) December 28, 2020 17:03
+by [ruthnwaiganjo](../profile/ruthnwaiganjo) | December 28, 2020 17:03
 
 December 28, 2020 17:03 | Tags: [coding](../tag/coding), [happy-holidays](../tag/happy-holidays), [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy), [programming](../tag/programming), [codebase](../tag/codebase)
 

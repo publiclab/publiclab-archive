@@ -1,6 +1,5 @@
 ---
-title: 'Nitrate detection'
-tagnames: water-quality, nitrate, nitrogen, parent:nitrogen
+title: "Nitrate detection"\ntagnames: 'water-quality, nitrate, nitrogen, parent:nitrogen'
 author: warren
 path: /wiki/nitrate-detection.md
 nid: 10377

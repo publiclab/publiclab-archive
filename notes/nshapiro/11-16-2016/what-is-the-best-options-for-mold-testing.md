@@ -1,6 +1,5 @@
 ---
-title: 'What is the best options for mold testing?'
-tagnames: monitoring, wherewebreathe, indoor-air-quality, indoor-air, mold, question:mold, question:indoor-air-quality
+title: "What is the best options for mold testing?"\ntagnames: 'monitoring, wherewebreathe, indoor-air-quality, indoor-air, mold, question:mold, question:indoor-air-quality'
 author: nshapiro
 path: /notes/nshapiro/11-16-2016/what-is-the-best-options-for-mold-testing.md
 nid: 13707
@@ -10,7 +9,7 @@ uid: 380298
 
 # What is the best options for mold testing?
 
-by [nshapiro](../profile/nshapiro) November 16, 2016 17:26
+by [nshapiro](../profile/nshapiro) | November 16, 2016 17:26
 
 November 16, 2016 17:26 | Tags: [monitoring](../tag/monitoring), [wherewebreathe](../tag/wherewebreathe), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [mold](../tag/mold), [question:mold](../tag/question:mold), [question:indoor-air-quality](../tag/question:indoor-air-quality)
 

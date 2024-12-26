@@ -1,6 +1,5 @@
 ---
-title: 'Zone X'
-tagnames: architecture, memphis
+title: "Zone X"\ntagnames: 'architecture, memphis'
 author: agann3
 path: /notes/agann3/01-30-2014/zone-x.md
 nid: 9990
@@ -10,7 +9,7 @@ uid: 420538
 
 # Zone X
 
-by [agann3](../profile/agann3) January 30, 2014 21:10
+by [agann3](../profile/agann3) | January 30, 2014 21:10
 
 January 30, 2014 21:10 | Tags: [architecture](../tag/architecture), [memphis](../tag/memphis)
 

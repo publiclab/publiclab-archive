@@ -1,6 +1,5 @@
 ---
-title: 'Rails Girls Kenya:  Mega Workshop 2'
-tagnames: event, blog, lat:-1, lon:36, zoom:6
+title: "Rails Girls Kenya:  Mega Workshop 2"\ntagnames: 'event, blog, lat:-1, lon:36, zoom:6'
 author: cess
 path: /notes/cess/07-20-2020/mega-workshop-2-by-rails-girls-kenya.md
 nid: 24200
@@ -12,7 +11,7 @@ uid: 525958
 
 # Rails Girls Kenya:  Mega Workshop 2
 
-by [cess](../profile/cess) July 20, 2020 16:40
+by [cess](../profile/cess) | July 20, 2020 16:40
 
 July 20, 2020 16:40 | Tags: [event](../tag/event), [blog](../tag/blog), [lat:-1](../tag/lat:-1), [lon:36](../tag/lon:36), [zoom:6](../tag/zoom:6)
 

@@ -1,6 +1,5 @@
 ---
-title: 'values'
-tagnames: redirect:public-lab-nonprofit-values
+title: "values"\ntagnames: 'redirect:public-lab-nonprofit-values'
 author: warren
 path: /wiki/values.md
 nid: 20247

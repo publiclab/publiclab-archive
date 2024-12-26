@@ -1,6 +1,5 @@
 ---
-title: 'Developing Image Sequencer as a Library'
-tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, image-sequencer, first-time-poster
+title: "Developing Image Sequencer as a Library"\ntagnames: 'software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, image-sequencer, first-time-poster'
 author: ccpandhare
 path: /notes/ccpandhare/03-18-2017/developing-image-sequencer-as-a-library.md
 nid: 14035
@@ -10,7 +9,7 @@ uid: 503543
 
 # Developing Image Sequencer as a Library
 
-by [ccpandhare](../profile/ccpandhare) March 18, 2017 21:20
+by [ccpandhare](../profile/ccpandhare) | March 18, 2017 21:20
 
 March 18, 2017 21:20 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [gsoc-2017-accepted](../tag/gsoc-2017-accepted), [image-sequencer](../tag/image-sequencer), [first-time-poster](../tag/first-time-poster)
 

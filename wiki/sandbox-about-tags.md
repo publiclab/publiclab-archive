@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-about-tags'
-tagnames: 
+title: "sandbox-about-tags"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-about-tags.md
 nid: 31042

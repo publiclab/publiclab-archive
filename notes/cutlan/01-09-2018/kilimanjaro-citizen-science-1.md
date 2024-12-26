@@ -1,6 +1,5 @@
 ---
-title: 'Kilimanjaro Citizen Science - KCS-1'
-tagnames: modis, africa, kilimanjaro, tanzania
+title: "Kilimanjaro Citizen Science - KCS-1"\ntagnames: 'modis, africa, kilimanjaro, tanzania'
 author: cutlan
 path: /notes/cutlan/01-09-2018/kilimanjaro-citizen-science-1.md
 nid: 15493
@@ -12,7 +11,7 @@ uid: 522144
 
 # Kilimanjaro Citizen Science - KCS-1
 
-by [cutlan](../profile/cutlan) January 09, 2018 17:28
+by [cutlan](../profile/cutlan) | January 09, 2018 17:28
 
 January 09, 2018 17:28 | Tags: [modis](../tag/modis), [africa](../tag/africa), [kilimanjaro](../tag/kilimanjaro), [tanzania](../tag/tanzania)
 

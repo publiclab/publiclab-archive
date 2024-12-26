@@ -1,6 +1,5 @@
 ---
-title: 'Messages from the Mississippi Lesson 5: Finding a New Way'
-tagnames: microplastics, messagesfromthemississippi
+title: "Messages from the Mississippi Lesson 5: Finding a New Way"\ntagnames: 'microplastics, messagesfromthemississippi'
 author: purl
 path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-5-finding-a-new-way.md
 nid: 25813
@@ -12,7 +11,7 @@ uid: 736598
 
 # Messages from the Mississippi Lesson 5: Finding a New Way
 
-by [purl](../profile/purl) February 26, 2021 20:53
+by [purl](../profile/purl) | February 26, 2021 20:53
 
 February 26, 2021 20:53 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
 

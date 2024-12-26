@@ -1,6 +1,5 @@
 ---
-title: 'Tis the Season'
-tagnames: spectrometer, holiday, christmas
+title: "Tis the Season"\ntagnames: 'spectrometer, holiday, christmas'
 author: cfastie
 path: /notes/cfastie/12-25-2012/tis-season.md
 nid: 5345
@@ -12,7 +11,7 @@ uid: 554
 
 # Tis the Season
 
-by [cfastie](../profile/cfastie) December 25, 2012 21:56
+by [cfastie](../profile/cfastie) | December 25, 2012 21:56
 
 December 25, 2012 21:56 | Tags: [spectrometer](../tag/spectrometer), [holiday](../tag/holiday), [christmas](../tag/christmas)
 

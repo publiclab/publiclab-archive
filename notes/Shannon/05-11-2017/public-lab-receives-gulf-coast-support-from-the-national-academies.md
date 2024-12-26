@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab receives Gulf Coast support from the National Academies'
-tagnames: gulf-coast
+title: "Public Lab receives Gulf Coast support from the National Academies"\ntagnames: 'gulf-coast'
 author: Shannon
 path: /notes/Shannon/05-11-2017/public-lab-receives-gulf-coast-support-from-the-national-academies.md
 nid: 14178
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab receives Gulf Coast support from the National Academies
 
-by [Shannon](../profile/Shannon) May 11, 2017 17:46
+by [Shannon](../profile/Shannon) | May 11, 2017 17:46
 
 May 11, 2017 17:46 | Tags: [gulf-coast](../tag/gulf-coast)
 

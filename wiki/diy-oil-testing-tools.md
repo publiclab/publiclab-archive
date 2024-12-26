@@ -1,6 +1,5 @@
 ---
-title: 'DIY Oil Testing Tools'
-tagnames: spectrometer, oil-testing-kit, draft
+title: "DIY Oil Testing Tools"\ntagnames: 'spectrometer, oil-testing-kit, draft'
 author: warren
 path: /wiki/diy-oil-testing-tools.md
 nid: 12663

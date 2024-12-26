@@ -1,6 +1,5 @@
 ---
-title: 'Peak and FWHM data for UV laser baselines'
-tagnames: 
+title: "Peak and FWHM data for UV laser baselines"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/02-18-2016/peak-and-fwhm-data-for-uv-laser-baselines.md
 nid: 12705
@@ -12,7 +11,7 @@ uid: 461120
 
 # Peak and FWHM data for UV laser baselines
 
-by [dhaffnersr](../profile/dhaffnersr) February 18, 2016 13:06
+by [dhaffnersr](../profile/dhaffnersr) | February 18, 2016 13:06
 
 February 18, 2016 13:06 | Tags: 
 

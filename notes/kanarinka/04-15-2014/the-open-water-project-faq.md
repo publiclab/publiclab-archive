@@ -1,6 +1,5 @@
 ---
-title: 'The Open Water Project: FAQ'
-tagnames: mapping, sensing, water-quality, water, water-monitoring, monitoring, quality, open-water
+title: "The Open Water Project: FAQ"\ntagnames: 'mapping, sensing, water-quality, water, water-monitoring, monitoring, quality, open-water'
 author: kanarinka
 path: /notes/kanarinka/04-15-2014/the-open-water-project-faq.md
 nid: 10312
@@ -12,7 +11,7 @@ uid: 994
 
 # The Open Water Project: FAQ
 
-by [kanarinka](../profile/kanarinka) April 15, 2014 17:34
+by [kanarinka](../profile/kanarinka) | April 15, 2014 17:34
 
 April 15, 2014 17:34 | Tags: [mapping](../tag/mapping), [sensing](../tag/sensing), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [monitoring](../tag/monitoring), [quality](../tag/quality), [open-water](../tag/open-water)
 

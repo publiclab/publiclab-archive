@@ -1,6 +1,5 @@
 ---
-title: 'Collaboratively write the new Pocket Guide to Grassroots Mapping'
-tagnames: balloon-mapping, kite-mapping, kickstarter, grassroots-mapping, guide, writing, booklet, mini-kite-kit, mini-balloon-kit, pocket-guide, collaborative-writing, activity:guides, activity:writing, activity:translation
+title: "Collaboratively write the new Pocket Guide to Grassroots Mapping"\ntagnames: 'balloon-mapping, kite-mapping, kickstarter, grassroots-mapping, guide, writing, booklet, mini-kite-kit, mini-balloon-kit, pocket-guide, collaborative-writing, activity:guides, activity:writing, activity:translation'
 author: warren
 path: /notes/warren/07-01-2017/collaboratively-write-the-new-pocket-guide-to-grassroots-mapping.md
 nid: 14600
@@ -12,7 +11,7 @@ uid: 1
 
 # Collaboratively write the new Pocket Guide to Grassroots Mapping
 
-by [warren](../profile/warren) July 01, 2017 13:17
+by [warren](../profile/warren) | July 01, 2017 13:17
 
 July 01, 2017 13:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [grassroots-mapping](../tag/grassroots-mapping), [guide](../tag/guide), [writing](../tag/writing), [booklet](../tag/booklet), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [pocket-guide](../tag/pocket-guide), [collaborative-writing](../tag/collaborative-writing), [activity:guides](../tag/activity:guides), [activity:writing](../tag/activity:writing), [activity:translation](../tag/activity:translation)
 

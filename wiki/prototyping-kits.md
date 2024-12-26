@@ -1,6 +1,5 @@
 ---
-title: 'Prototyping Kits'
-tagnames: kits, parent:kits, kits-initiative, prototyping, prototyping-kits
+title: "Prototyping Kits"\ntagnames: 'kits, parent:kits, kits-initiative, prototyping, prototyping-kits'
 author: warren
 path: /wiki/prototyping-kits.md
 nid: 14721

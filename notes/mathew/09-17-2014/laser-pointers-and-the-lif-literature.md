@@ -1,6 +1,5 @@
 ---
-title: 'Laser Pointers and the LIF Literature'
-tagnames: spectrometer, uv, laser, fluorescence, oil-testing-kit, literature-review
+title: "Laser Pointers and the LIF Literature"\ntagnames: 'spectrometer, uv, laser, fluorescence, oil-testing-kit, literature-review'
 author: mathew
 path: /notes/mathew/09-17-2014/laser-pointers-and-the-lif-literature.md
 nid: 11150
@@ -12,7 +11,7 @@ uid: 4
 
 # Laser Pointers and the LIF Literature
 
-by [mathew](../profile/mathew) September 17, 2014 23:40
+by [mathew](../profile/mathew) | September 17, 2014 23:40
 
 September 17, 2014 23:40 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [literature-review](../tag/literature-review)
 

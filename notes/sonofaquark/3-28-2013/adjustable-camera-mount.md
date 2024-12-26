@@ -1,6 +1,5 @@
 ---
-title: 'adjustable camera mount'
-tagnames: spectrometer, desktop-spectrometer, desktop-spectrometer-assembly
+title: "adjustable camera mount"\ntagnames: 'spectrometer, desktop-spectrometer, desktop-spectrometer-assembly'
 author: sonofaquark
 path: /notes/sonofaquark/3-28-2013/adjustable-camera-mount.md
 nid: 6570
@@ -12,7 +11,7 @@ uid: 54330
 
 # adjustable camera mount
 
-by [sonofaquark](../profile/sonofaquark) March 28, 2013 07:29
+by [sonofaquark](../profile/sonofaquark) | March 28, 2013 07:29
 
 March 28, 2013 07:29 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Memories with Molly'
-tagnames: csf, one-cranston, csf17
+title: "Memories with Molly"\ntagnames: 'csf, one-cranston, csf17'
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/memories-with-molly.md
 nid: 21079
@@ -12,7 +11,7 @@ uid: 540844
 
 # Memories with Molly
 
-by [joyofsoy](../profile/joyofsoy) October 04, 2019 18:46
+by [joyofsoy](../profile/joyofsoy) | October 04, 2019 18:46
 
 October 04, 2019 18:46 | Tags: [csf](../tag/csf), [one-cranston](../tag/one-cranston), [csf17](../tag/csf17)
 

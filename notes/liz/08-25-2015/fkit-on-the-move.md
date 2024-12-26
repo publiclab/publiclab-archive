@@ -1,6 +1,5 @@
 ---
-title: 'FKit on the move'
-tagnames: formaldehyde, lending-library, indoor-air-quality
+title: "FKit on the move"\ntagnames: 'formaldehyde, lending-library, indoor-air-quality'
 author: liz
 path: /notes/liz/08-25-2015/fkit-on-the-move.md
 nid: 12167
@@ -12,7 +11,7 @@ uid: 7
 
 # FKit on the move
 
-by [liz](../profile/liz) August 25, 2015 16:07
+by [liz](../profile/liz) | August 25, 2015 16:07
 
 August 25, 2015 16:07 | Tags: [formaldehyde](../tag/formaldehyde), [lending-library](../tag/lending-library), [indoor-air-quality](../tag/indoor-air-quality)
 

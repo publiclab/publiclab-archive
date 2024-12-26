@@ -1,6 +1,5 @@
 ---
-title: 'Event: Organize and advocate with maps! Wrapping up Public Lab’s latest research area review'
-tagnames: mapping, event, organizing, research, event:rsvp, advocacy, reviews, community-organizing, research-area-review, with:julia_e_masters, rsvp:rosal
+title: "Event: Organize and advocate with maps! Wrapping up Public Lab’s latest research area review"\ntagnames: 'mapping, event, organizing, research, event:rsvp, advocacy, reviews, community-organizing, research-area-review, with:julia_e_masters, rsvp:rosal'
 author: bhamster
 path: /notes/bhamster/06-08-2021/event-organize-and-advocate-with-maps-wrapping-up-public-lab-s-latest-research-area-review.md
 nid: 26790
@@ -12,7 +11,7 @@ uid: 664477
 
 # Event: Organize and advocate with maps! Wrapping up Public Lab’s latest research area review
 
-by [bhamster](../profile/bhamster) June 08, 2021 18:15
+by [bhamster](../profile/bhamster) | June 08, 2021 18:15
 
 June 08, 2021 18:15 | Tags: [mapping](../tag/mapping), [event](../tag/event), [organizing](../tag/organizing), [research](../tag/research), [event:rsvp](../tag/event:rsvp), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [community-organizing](../tag/community-organizing), [research-area-review](../tag/research-area-review), [with:julia_e_masters](../tag/with:julia_e_masters), [rsvp:rosal](../tag/rsvp:rosal)
 

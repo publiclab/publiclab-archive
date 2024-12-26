@@ -1,6 +1,5 @@
 ---
-title: 'Infragrammar with HSV color model'
-tagnames: near-infrared-camera, ndvi, infragram, processing, compositing, infragram-sandbox, infragrammar, colormap
+title: "Infragrammar with HSV color model"\ntagnames: 'near-infrared-camera, ndvi, infragram, processing, compositing, infragram-sandbox, infragrammar, colormap'
 author: warren
 path: /notes/warren/08-24-2013/infragrammar-with-hsv-color-model.md
 nid: 9054
@@ -12,7 +11,7 @@ uid: 1
 
 # Infragrammar with HSV color model
 
-by [warren](../profile/warren) August 24, 2013 16:12
+by [warren](../profile/warren) | August 24, 2013 16:12
 
 August 24, 2013 16:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [processing](../tag/processing), [compositing](../tag/compositing), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [colormap](../tag/colormap)
 

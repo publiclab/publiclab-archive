@@ -1,6 +1,5 @@
 ---
-title: 'Membership'
-tagnames: community, style:wide, style:presentation, locked, sidebar:none
+title: "Membership"\ntagnames: 'community, style:wide, style:presentation, locked, sidebar:none'
 author: liz
 path: /wiki/membership.md
 nid: 6746

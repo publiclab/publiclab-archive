@@ -1,6 +1,5 @@
 ---
-title: 'Prototype: filter map tiles in real-time in a browser with ImageSequencer (NDVI Landsat)'
-tagnames: near-infrared-camera, remote-sensing, ndvi, multispectral, mapknitter, infrared, image-processing, agriculture, nasa, mapping, infragram, gsoc, vegetation, landsat, gis, satellite-imagery, mapbox, javascript, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:ndvi, soc, aren, gsoc-2018, soc-2018, image-sequencer, activity:image-sequencer, activity:gis, activity:aren
+title: "Prototype: filter map tiles in real-time in a browser with ImageSequencer (NDVI Landsat)"\ntagnames: 'near-infrared-camera, remote-sensing, ndvi, multispectral, mapknitter, infrared, image-processing, agriculture, nasa, mapping, infragram, gsoc, vegetation, landsat, gis, satellite-imagery, mapbox, javascript, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:ndvi, soc, aren, gsoc-2018, soc-2018, image-sequencer, activity:image-sequencer, activity:gis, activity:aren'
 author: warren
 path: /notes/warren/05-10-2018/prototype-filter-map-tiles-in-real-time-in-a-browser-with-imagesequencer-ndvi-landsat.md
 nid: 16323
@@ -12,7 +11,7 @@ uid: 1
 
 # Prototype: filter map tiles in real-time in a browser with ImageSequencer (NDVI Landsat)
 
-by [warren](../profile/warren) May 10, 2018 16:25
+by [warren](../profile/warren) | May 10, 2018 16:25
 
 May 10, 2018 16:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [remote-sensing](../tag/remote-sensing), [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [mapknitter](../tag/mapknitter), [infrared](../tag/infrared), [image-processing](../tag/image-processing), [agriculture](../tag/agriculture), [nasa](../tag/nasa), [mapping](../tag/mapping), [infragram](../tag/infragram), [gsoc](../tag/gsoc), [vegetation](../tag/vegetation), [landsat](../tag/landsat), [gis](../tag/gis), [satellite-imagery](../tag/satellite-imagery), [mapbox](../tag/mapbox), [javascript](../tag/javascript), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:ndvi](../tag/activity:ndvi), [soc](../tag/soc), [aren](../tag/aren), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [image-sequencer](../tag/image-sequencer), [activity:image-sequencer](../tag/activity:image-sequencer), [activity:gis](../tag/activity:gis), [activity:aren](../tag/activity:aren)
 

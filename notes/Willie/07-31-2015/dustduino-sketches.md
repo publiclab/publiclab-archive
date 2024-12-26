@@ -1,6 +1,5 @@
 ---
-title: 'DustDuino Sketches '
-tagnames: arduino, particulate-sensing, air-quality, programmers, code, dustduino, dust, shinyei, activity:dustduino, activity:data-logging, air-sensors
+title: "DustDuino Sketches "\ntagnames: 'arduino, particulate-sensing, air-quality, programmers, code, dustduino, dust, shinyei, activity:dustduino, activity:data-logging, air-sensors'
 author: willie
 path: /notes/Willie/07-31-2015/dustduino-sketches.md
 nid: 12109
@@ -12,7 +11,7 @@ uid: 235174
 
 # DustDuino Sketches 
 
-by [willie](../profile/willie) July 31, 2015 14:23
+by [willie](../profile/willie) | July 31, 2015 14:23
 
 July 31, 2015 14:23 | Tags: [arduino](../tag/arduino), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [programmers](../tag/programmers), [code](../tag/code), [dustduino](../tag/dustduino), [dust](../tag/dust), [shinyei](../tag/shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:data-logging](../tag/activity:data-logging), [air-sensors](../tag/air-sensors)
 

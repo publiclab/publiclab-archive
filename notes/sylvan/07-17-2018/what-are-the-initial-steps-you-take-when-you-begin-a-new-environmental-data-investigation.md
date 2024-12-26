@@ -1,6 +1,5 @@
 ---
-title: 'What are the initial steps you take when you begin a new environmental data investigation?'
-tagnames: community, website, education, kits, help, web, tool, question:general, method, study-design, citizenscience, question:study-design, first-time-poster
+title: "What are the initial steps you take when you begin a new environmental data investigation?"\ntagnames: 'community, website, education, kits, help, web, tool, question:general, method, study-design, citizenscience, question:study-design, first-time-poster'
 author: sylvan
 path: /notes/sylvan/07-17-2018/what-are-the-initial-steps-you-take-when-you-begin-a-new-environmental-data-investigation.md
 nid: 16734
@@ -10,7 +9,7 @@ uid: 540012
 
 # What are the initial steps you take when you begin a new environmental data investigation?
 
-by [sylvan](../profile/sylvan) July 17, 2018 20:57
+by [sylvan](../profile/sylvan) | July 17, 2018 20:57
 
 July 17, 2018 20:57 | Tags: [community](../tag/community), [website](../tag/website), [education](../tag/education), [kits](../tag/kits), [help](../tag/help), [web](../tag/web), [tool](../tag/tool), [question:general](../tag/question:general), [method](../tag/method), [study-design](../tag/study-design), [citizenscience](../tag/citizenscience), [question:study-design](../tag/question:study-design), [first-time-poster](../tag/first-time-poster)
 

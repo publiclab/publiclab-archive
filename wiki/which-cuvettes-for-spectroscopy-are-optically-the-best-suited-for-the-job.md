@@ -1,6 +1,5 @@
 ---
-title: 'Which Cuvettes for Spectroscopy are optically the best suited for the job? '
-tagnames: 
+title: "Which Cuvettes for Spectroscopy are optically the best suited for the job? "\ntagnames: ''
 author: dhaffnersr
 path: /wiki/which-cuvettes-for-spectroscopy-are-optically-the-best-suited-for-the-job.md
 nid: 13159

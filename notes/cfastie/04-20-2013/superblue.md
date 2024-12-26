@@ -1,6 +1,5 @@
 ---
-title: 'Superblue'
-tagnames: near-infrared-camera, nrg, ndvi, vermont, white-balance, infragram, plant-health, superblue, rosco, infragram-filters, barnstar:basic
+title: "Superblue"\ntagnames: 'near-infrared-camera, nrg, ndvi, vermont, white-balance, infragram, plant-health, superblue, rosco, infragram-filters, barnstar:basic'
 author: cfastie
 path: /notes/cfastie/04-20-2013/superblue.md
 nid: 6923
@@ -12,7 +11,7 @@ uid: 554
 
 # Superblue
 
-by [cfastie](../profile/cfastie) April 20, 2013 02:49
+by [cfastie](../profile/cfastie) | April 20, 2013 02:49
 
 April 20, 2013 02:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [superblue](../tag/superblue), [rosco](../tag/rosco), [infragram-filters](../tag/infragram-filters), [barnstar:basic](../tag/barnstar:basic)
 

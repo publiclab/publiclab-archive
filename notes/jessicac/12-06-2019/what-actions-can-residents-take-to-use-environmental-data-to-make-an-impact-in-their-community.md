@@ -1,6 +1,5 @@
 ---
-title: 'What actions can residents take to use environmental data to make an impact in their community? '
-tagnames: community, science, data, stormwater, citizen, advocacy, question:general, general, question:advocacy, government, policy, first-time-poster, action, volunteers
+title: "What actions can residents take to use environmental data to make an impact in their community? "\ntagnames: 'community, science, data, stormwater, citizen, advocacy, question:general, general, question:advocacy, government, policy, first-time-poster, action, volunteers'
 author: jessicac
 path: /notes/jessicac/12-06-2019/what-actions-can-residents-take-to-use-environmental-data-to-make-an-impact-in-their-community.md
 nid: 21688
@@ -10,7 +9,7 @@ uid: 643430
 
 # What actions can residents take to use environmental data to make an impact in their community? 
 
-by [jessicac](../profile/jessicac) December 06, 2019 21:56
+by [jessicac](../profile/jessicac) | December 06, 2019 21:56
 
 December 06, 2019 21:56 | Tags: [community](../tag/community), [science](../tag/science), [data](../tag/data), [stormwater](../tag/stormwater), [citizen](../tag/citizen), [advocacy](../tag/advocacy), [question:general](../tag/question:general), [general](../tag/general), [question:advocacy](../tag/question:advocacy), [government](../tag/government), [policy](../tag/policy), [first-time-poster](../tag/first-time-poster), [action](../tag/action), [volunteers](../tag/volunteers)
 

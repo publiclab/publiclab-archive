@@ -1,6 +1,5 @@
 ---
-title: 'calibration calculations don't match MiniVol manual'
-tagnames: calibration, question, air-quality, dust, silica, pm, pump, mini-buck, pm-monitoring, question:question, dust-sensing, question:pm, question:minivol
+title: "calibration calculations don't match MiniVol manual"\ntagnames: 'calibration, question, air-quality, dust, silica, pm, pump, mini-buck, pm-monitoring, question:question, dust-sensing, question:pm, question:minivol'
 author: mathew
 path: /notes/mathew/01-25-2017/calibration-calculations-don-t-match-minivol-manual.md
 nid: 13876
@@ -12,7 +11,7 @@ uid: 4
 
 # calibration calculations don't match MiniVol manual
 
-by [mathew](../profile/mathew) January 25, 2017 02:17
+by [mathew](../profile/mathew) | January 25, 2017 02:17
 
 January 25, 2017 02:17 | Tags: [calibration](../tag/calibration), [question](../tag/question), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [pump](../tag/pump), [mini-buck](../tag/mini-buck), [pm-monitoring](../tag/pm-monitoring), [question:question](../tag/question:question), [dust-sensing](../tag/dust-sensing), [question:pm](../tag/question:pm), [question:minivol](../tag/question:minivol)
 

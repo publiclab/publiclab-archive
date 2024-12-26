@@ -1,6 +1,5 @@
 ---
-title: 'Infragram Pi'
-tagnames: redirect:raspberry-pi-infragram
+title: "Infragram Pi"\ntagnames: 'redirect:raspberry-pi-infragram'
 author: warren
 path: /wiki/infragram-pi.md
 nid: 17433

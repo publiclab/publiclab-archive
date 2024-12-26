@@ -1,6 +1,5 @@
 ---
-title: 'Case Study: Ecological Assessment and Management  using Balloon- and Kite-collected Aerial Images'
-tagnames: blog, data-advocacy-case-studies
+title: "Case Study: Ecological Assessment and Management  using Balloon- and Kite-collected Aerial Images"\ntagnames: 'blog, data-advocacy-case-studies'
 author: gretchengehrke
 path: /notes/gretchengehrke/07-24-2015/case-study-ecological-assessment-and-management-using-balloon-and-kite-collected-aerial-images.md
 nid: 12099
@@ -12,7 +11,7 @@ uid: 430549
 
 # Case Study: Ecological Assessment and Management  using Balloon- and Kite-collected Aerial Images
 
-by [gretchengehrke](../profile/gretchengehrke) July 24, 2015 15:58
+by [gretchengehrke](../profile/gretchengehrke) | July 24, 2015 15:58
 
 July 24, 2015 15:58 | Tags: [blog](../tag/blog), [data-advocacy-case-studies](../tag/data-advocacy-case-studies)
 

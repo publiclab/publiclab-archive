@@ -1,6 +1,5 @@
 ---
-title: 'Photos to 3D'
-tagnames: vermont, kite-aerial-photography, kap, sfm, structure-from-motion, autokap, recap-360, autodesk
+title: "Photos to 3D"\ntagnames: 'vermont, kite-aerial-photography, kap, sfm, structure-from-motion, autokap, recap-360, autodesk'
 author: cfastie
 path: /notes/cfastie/07-26-2016/photos-to-3d.md
 nid: 13310
@@ -12,7 +11,7 @@ uid: 554
 
 # Photos to 3D
 
-by [cfastie](../profile/cfastie) July 26, 2016 03:40
+by [cfastie](../profile/cfastie) | July 26, 2016 03:40
 
 July 26, 2016 03:40 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [autokap](../tag/autokap), [recap-360](../tag/recap-360), [autodesk](../tag/autodesk)
 

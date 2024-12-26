@@ -1,6 +1,5 @@
 ---
-title: 'Find out what is planned for your state! '
-tagnames: database, permits, zoom:6, with:username, lat:30.984297, lon:-91.962332, with:travislondon, formosaplastics
+title: "Find out what is planned for your state! "\ntagnames: 'database, permits, zoom:6, with:username, lat:30.984297, lon:-91.962332, with:travislondon, formosaplastics'
 author: awoolverton1
 path: /notes/awoolverton1/04-07-2022/find-out-what-is-planned-for-your-state.md
 nid: 30294
@@ -10,7 +9,7 @@ uid: 778039
 
 # Find out what is planned for your state! 
 
-by [awoolverton1](../profile/awoolverton1) April 07, 2022 19:27
+by [awoolverton1](../profile/awoolverton1) | April 07, 2022 19:27
 
 April 07, 2022 19:27 | Tags: [database](../tag/database), [permits](../tag/permits), [zoom:6](../tag/zoom:6), [with:username](../tag/with:username), [lat:30.984297](../tag/lat:30.984297), [lon:-91.962332](../tag/lon:-91.962332), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
 

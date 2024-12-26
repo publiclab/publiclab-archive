@@ -1,6 +1,5 @@
 ---
-title: 'Surface mount mini thermal flashlight'
-tagnames: thermal-photography, thermal-flashlight, mini, surface-mount, response:625, upgrade:thermal-flashlight
+title: "Surface mount mini thermal flashlight"\ntagnames: 'thermal-photography, thermal-flashlight, mini, surface-mount, response:625, upgrade:thermal-flashlight'
 author: nadya
 path: /notes/nadya/6-4-2012/surface-mount-mini-thermal-flashlight.md
 nid: 2339
@@ -12,7 +11,7 @@ uid: 704
 
 # Surface mount mini thermal flashlight
 
-by [nadya](../profile/nadya) June 04, 2012 23:40
+by [nadya](../profile/nadya) | June 04, 2012 23:40
 
 June 04, 2012 23:40 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [mini](../tag/mini), [surface-mount](../tag/surface-mount), [response:625](../tag/response:625), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight)
 

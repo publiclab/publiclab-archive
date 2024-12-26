@@ -1,6 +1,5 @@
 ---
-title: 'methods-header'
-tagnames: 
+title: "methods-header"\ntagnames: ''
 author: warren
 path: /feature/methods-header.md
 nid: 17457

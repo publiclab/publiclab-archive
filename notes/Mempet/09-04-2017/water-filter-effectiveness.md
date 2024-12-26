@@ -1,6 +1,5 @@
 ---
-title: 'Water Filter Effectiveness'
-tagnames: filter, water-quality, turbidity, filters, question:water-quality, question:water-filters, water-filters, tds, question:turbidity, question:spectrometry-turbidity, first-time-poster, question:filters
+title: "Water Filter Effectiveness"\ntagnames: 'filter, water-quality, turbidity, filters, question:water-quality, question:water-filters, water-filters, tds, question:turbidity, question:spectrometry-turbidity, first-time-poster, question:filters'
 author: Mempet
 path: /notes/Mempet/09-04-2017/water-filter-effectiveness.md
 nid: 14825
@@ -10,7 +9,7 @@ uid: 513742
 
 # Water Filter Effectiveness
 
-by [Mempet](../profile/Mempet) September 04, 2017 19:13
+by [Mempet](../profile/Mempet) | September 04, 2017 19:13
 
 September 04, 2017 19:13 | Tags: [filter](../tag/filter), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [filters](../tag/filters), [question:water-quality](../tag/question:water-quality), [question:water-filters](../tag/question:water-filters), [water-filters](../tag/water-filters), [tds](../tag/tds), [question:turbidity](../tag/question:turbidity), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity), [first-time-poster](../tag/first-time-poster), [question:filters](../tag/question:filters)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Rig & Take-out Balloon '
-tagnames: balloon-mapping, photo-rig
+title: "Rig & Take-out Balloon "\ntagnames: 'balloon-mapping, photo-rig'
 author: elainechoi89
 path: /notes/elainechoi89/2-21-2013/rig-take-out-balloon.md
 nid: 6082
@@ -10,7 +9,7 @@ uid: 6102
 
 # Rig & Take-out Balloon 
 
-by [elainechoi89](../profile/elainechoi89) February 21, 2013 20:12
+by [elainechoi89](../profile/elainechoi89) | February 21, 2013 20:12
 
 February 21, 2013 20:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig)
 

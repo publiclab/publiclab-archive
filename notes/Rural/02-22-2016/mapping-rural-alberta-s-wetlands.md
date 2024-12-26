@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Rural Alberta's Wetlands'
-tagnames: kite-mapping, wetlands, blog, canada, alberta, location:blurred, lat:50, lon:-110, place:alberta-canada
+title: "Mapping Rural Alberta's Wetlands"\ntagnames: 'kite-mapping, wetlands, blog, canada, alberta, location:blurred, lat:50, lon:-110, place:alberta-canada'
 author: Rural
 path: /notes/Rural/02-22-2016/mapping-rural-alberta-s-wetlands.md
 nid: 12718
@@ -12,7 +11,7 @@ uid: 428405
 
 # Mapping Rural Alberta's Wetlands
 
-by [Rural](../profile/Rural) February 22, 2016 05:17
+by [Rural](../profile/Rural) | February 22, 2016 05:17
 
 February 22, 2016 05:17 | Tags: [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [blog](../tag/blog), [canada](../tag/canada), [alberta](../tag/alberta), [location:blurred](../tag/location:blurred), [lat:50](../tag/lat:50), [lon:-110](../tag/lon:-110), [place:alberta-canada](../tag/place:alberta-canada)
 

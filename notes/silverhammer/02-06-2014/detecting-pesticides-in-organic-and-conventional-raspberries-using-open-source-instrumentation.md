@@ -1,6 +1,5 @@
 ---
-title: 'Detecting Pesticides in Organic and Conventional Raspberries using Open Source Instrumentation'
-tagnames: spectrometer, pesticides, reagents, organic, nicotinoid, organophosphate, carbamate, berries, colorimetry, activity:spectrometry, difficulty:hard, activity:spectrometry-sampling, activity:reagents, activity:colorimetry, first-time-poster
+title: "Detecting Pesticides in Organic and Conventional Raspberries using Open Source Instrumentation"\ntagnames: 'spectrometer, pesticides, reagents, organic, nicotinoid, organophosphate, carbamate, berries, colorimetry, activity:spectrometry, difficulty:hard, activity:spectrometry-sampling, activity:reagents, activity:colorimetry, first-time-poster'
 author: silverhammer
 path: /notes/silverhammer/02-06-2014/detecting-pesticides-in-organic-and-conventional-raspberries-using-open-source-instrumentation.md
 nid: 10014
@@ -12,7 +11,7 @@ uid: 420530
 
 # Detecting Pesticides in Organic and Conventional Raspberries using Open Source Instrumentation
 
-by [silverhammer](../profile/silverhammer) February 06, 2014 05:45
+by [silverhammer](../profile/silverhammer) | February 06, 2014 05:45
 
 February 06, 2014 05:45 | Tags: [spectrometer](../tag/spectrometer), [pesticides](../tag/pesticides), [reagents](../tag/reagents), [organic](../tag/organic), [nicotinoid](../tag/nicotinoid), [organophosphate](../tag/organophosphate), [carbamate](../tag/carbamate), [berries](../tag/berries), [colorimetry](../tag/colorimetry), [activity:spectrometry](../tag/activity:spectrometry), [difficulty:hard](../tag/difficulty:hard), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling), [activity:reagents](../tag/activity:reagents), [activity:colorimetry](../tag/activity:colorimetry), [first-time-poster](../tag/first-time-poster)
 

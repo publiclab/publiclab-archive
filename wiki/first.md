@@ -1,6 +1,5 @@
 ---
-title: 'First'
-tagnames: 
+title: "First"\ntagnames: ''
 author: joelee
 path: /wiki/first.md
 nid: 515

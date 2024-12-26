@@ -1,6 +1,5 @@
 ---
-title: 'DIY Oil Testing'
-tagnames: spectrometer, spectrometry, oil-testing-kit, draft, pipeline-monitoring, parent:pipeline
+title: "DIY Oil Testing"\ntagnames: 'spectrometer, spectrometry, oil-testing-kit, draft, pipeline-monitoring, parent:pipeline'
 author: warren
 path: /wiki/diy-oil-testing.md
 nid: 12629

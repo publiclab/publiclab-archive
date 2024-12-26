@@ -1,6 +1,5 @@
 ---
-title: 'S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)'
-tagnames: gps, umass-amherst, oxygen, amherst-media, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, rov, location:blurred, nitrogen, lat:42.3, submersible, lon:-72.5, project:water-quality, openrov
+title: "S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)"\ntagnames: 'gps, umass-amherst, oxygen, amherst-media, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, rov, location:blurred, nitrogen, lat:42.3, submersible, lon:-72.5, project:water-quality, openrov'
 author: n0reason
 path: /notes/n0reason/10-08-2014/salor.md
 nid: 11251
@@ -12,7 +11,7 @@ uid: 429569
 
 # S.A.L.O.R. (Submersible Autonomous Liquid Oxygen Reporter)
 
-by [n0reason](../profile/n0reason) October 08, 2014 17:23
+by [n0reason](../profile/n0reason) | October 08, 2014 17:23
 
 October 08, 2014 17:23 | Tags: [gps](../tag/gps), [umass-amherst](../tag/umass-amherst), [oxygen](../tag/oxygen), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [publiclab-at-amherst-media](../tag/publiclab-at-amherst-media), [publiclab-at-umass](../tag/publiclab-at-umass), [makers-and-amherst-media](../tag/makers-and-amherst-media), [rov](../tag/rov), [location:blurred](../tag/location:blurred), [nitrogen](../tag/nitrogen), [lat:42.3](../tag/lat:42.3), [submersible](../tag/submersible), [lon:-72.5](../tag/lon:-72.5), [project:water-quality](../tag/project:water-quality), [openrov](../tag/openrov)
 

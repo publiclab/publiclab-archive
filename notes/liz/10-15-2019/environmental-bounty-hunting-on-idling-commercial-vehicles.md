@@ -1,6 +1,5 @@
 ---
-title: 'Environmental bounty hunting on idling commercial vehicles'
-tagnames: new-york-city, air-quality, legal, law-and-policy
+title: "Environmental bounty hunting on idling commercial vehicles"\ntagnames: 'new-york-city, air-quality, legal, law-and-policy'
 author: liz
 path: /notes/liz/10-15-2019/environmental-bounty-hunting-on-idling-commercial-vehicles.md
 nid: 21170
@@ -12,7 +11,7 @@ uid: 7
 
 # Environmental bounty hunting on idling commercial vehicles
 
-by [liz](../profile/liz) October 15, 2019 14:00
+by [liz](../profile/liz) | October 15, 2019 14:00
 
 October 15, 2019 14:00 | Tags: [new-york-city](../tag/new-york-city), [air-quality](../tag/air-quality), [legal](../tag/legal), [law-and-policy](../tag/law-and-policy)
 

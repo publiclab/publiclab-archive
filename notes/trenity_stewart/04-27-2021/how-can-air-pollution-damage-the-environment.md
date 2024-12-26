@@ -1,6 +1,5 @@
 ---
-title: 'how can Air pollution damage the environment?'
-tagnames: question:general, general, first-time-poster
+title: "how can Air pollution damage the environment?"\ntagnames: 'question:general, general, first-time-poster'
 author: trenity_stewart
 path: /notes/trenity_stewart/04-27-2021/how-can-air-pollution-damage-the-environment.md
 nid: 26369
@@ -10,7 +9,7 @@ uid: 754373
 
 # how can Air pollution damage the environment?
 
-by [trenity_stewart](../profile/trenity_stewart) April 27, 2021 19:06
+by [trenity_stewart](../profile/trenity_stewart) | April 27, 2021 19:06
 
 April 27, 2021 19:06 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 

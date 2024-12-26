@@ -1,6 +1,5 @@
 ---
-title: 'Sky Camera'
-tagnames: balloon-mapping, kite-mapping, camera-triggering, android, kap, gsoc, gsoc-2013, skycam, gsoc-2014
+title: "Sky Camera"\ntagnames: 'balloon-mapping, kite-mapping, camera-triggering, android, kap, gsoc, gsoc-2013, skycam, gsoc-2014'
 author: warren
 path: /wiki/sky-camera.md
 nid: 9322

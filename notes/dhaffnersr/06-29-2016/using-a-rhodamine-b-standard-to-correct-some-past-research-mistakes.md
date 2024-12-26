@@ -1,6 +1,5 @@
 ---
-title: 'Using a Rhodamine B standard to correct some past research mistakes...'
-tagnames: 
+title: "Using a Rhodamine B standard to correct some past research mistakes..."\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/06-29-2016/using-a-rhodamine-b-standard-to-correct-some-past-research-mistakes.md
 nid: 13248
@@ -12,7 +11,7 @@ uid: 461120
 
 # Using a Rhodamine B standard to correct some past research mistakes...
 
-by [dhaffnersr](../profile/dhaffnersr) June 29, 2016 23:03
+by [dhaffnersr](../profile/dhaffnersr) | June 29, 2016 23:03
 
 June 29, 2016 23:03 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Bitcoin Mining in Upstate NY'
-tagnames: new-york, mining, water-quality, water, northeast, ballon-mapping, first-time-poster, crypto, zoom:9, zoom:12, lat:42.60864848616297, lon:-76.91454253625126, acid-rain, greenhouse-gas, ithaca, cornell, lat:43.047561, lon:-77.667246
+title: "Bitcoin Mining in Upstate NY"\ntagnames: 'new-york, mining, water-quality, water, northeast, ballon-mapping, first-time-poster, crypto, zoom:9, zoom:12, lat:42.60864848616297, lon:-76.91454253625126, acid-rain, greenhouse-gas, ithaca, cornell, lat:43.047561, lon:-77.667246'
 author: marinaraHQ
 path: /notes/marinaraHQ/03-10-2022/bitcoin-mining-in-upstate-ny.md
 nid: 30115
@@ -12,7 +11,7 @@ uid: 791074
 
 # Bitcoin Mining in Upstate NY
 
-by [marinaraHQ](../profile/marinaraHQ) March 10, 2022 19:18
+by [marinaraHQ](../profile/marinaraHQ) | March 10, 2022 19:18
 
 March 10, 2022 19:18 | Tags: [new-york](../tag/new-york), [mining](../tag/mining), [water-quality](../tag/water-quality), [water](../tag/water), [northeast](../tag/northeast), [ballon-mapping](../tag/ballon-mapping), [first-time-poster](../tag/first-time-poster), [crypto](../tag/crypto), [zoom:9](../tag/zoom:9), [zoom:12](../tag/zoom:12), [lat:42.60864848616297](../tag/lat:42.60864848616297), [lon:-76.91454253625126](../tag/lon:-76.91454253625126), [acid-rain](../tag/acid-rain), [greenhouse-gas](../tag/greenhouse-gas), [ithaca](../tag/ithaca), [cornell](../tag/cornell), [lat:43.047561](../tag/lat:43.047561), [lon:-77.667246](../tag/lon:-77.667246)
 

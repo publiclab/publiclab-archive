@@ -1,6 +1,5 @@
 ---
-title: 'Grassroots Mapping Curriculum'
-tagnames: balloon-mapping, education, curriculum, location:blurred, place:united-states, lat:30, lon:-90, zoom:6
+title: "Grassroots Mapping Curriculum"\ntagnames: 'balloon-mapping, education, curriculum, location:blurred, place:united-states, lat:30, lon:-90, zoom:6'
 author: warren
 path: /wiki/mapping-curriculum.md
 nid: 72

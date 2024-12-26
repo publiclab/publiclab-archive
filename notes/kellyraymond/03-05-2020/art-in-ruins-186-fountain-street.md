@@ -1,6 +1,5 @@
 ---
-title: 'Art in Ruins (186 Fountain Street)'
-tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.822501, lon:-71.416625, response:23080
+title: "Art in Ruins (186 Fountain Street)"\ntagnames: 'hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.822501, lon:-71.416625, response:23080'
 author: kellyraymond
 path: /notes/kellyraymond/03-05-2020/art-in-ruins-186-fountain-street.md
 nid: 23041
@@ -10,7 +9,7 @@ uid: 664202
 
 # Art in Ruins (186 Fountain Street)
 
-by [kellyraymond](../profile/kellyraymond) March 05, 2020 01:48
+by [kellyraymond](../profile/kellyraymond) | March 05, 2020 01:48
 
 March 05, 2020 01:48 | Tags: [hidden:response](../tag/hidden:response), [lat:41.7](../tag/lat:41.7), [lon:-71.5](../tag/lon:-71.5), [zoom:10](../tag/zoom:10), [lat:41.822501](../tag/lat:41.822501), [lon:-71.416625](../tag/lon:-71.416625), [response:23080](../tag/response:23080)
 

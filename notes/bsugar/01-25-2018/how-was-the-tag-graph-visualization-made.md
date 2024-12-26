@@ -1,6 +1,5 @@
 ---
-title: 'How can I make a tag graph visualization?'
-tagnames: community-metrics, visualization, evaluation, tags, networks, ui, question:ui, question:evaluation, graphing, question:visualization
+title: "How can I make a tag graph visualization?"\ntagnames: 'community-metrics, visualization, evaluation, tags, networks, ui, question:ui, question:evaluation, graphing, question:visualization'
 author: bsugar
 path: /notes/bsugar/01-25-2018/how-was-the-tag-graph-visualization-made.md
 nid: 15614
@@ -10,7 +9,7 @@ uid: 217812
 
 # How can I make a tag graph visualization?
 
-by [bsugar](../profile/bsugar) January 25, 2018 19:49
+by [bsugar](../profile/bsugar) | January 25, 2018 19:49
 
 January 25, 2018 19:49 | Tags: [community-metrics](../tag/community-metrics), [visualization](../tag/visualization), [evaluation](../tag/evaluation), [tags](../tag/tags), [networks](../tag/networks), [ui](../tag/ui), [question:ui](../tag/question:ui), [question:evaluation](../tag/question:evaluation), [graphing](../tag/graphing), [question:visualization](../tag/question:visualization)
 

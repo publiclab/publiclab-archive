@@ -1,6 +1,5 @@
 ---
-title: 'Soil Sampling'
-tagnames: soil, mining, sampling, tool, land-use, soil-testing, industry, method, chemicals, oil-and-gas, parent:sampling, sample-collection, soil-sampling, parent:soil, pin:industry, soil-sampling-main
+title: "Soil Sampling"\ntagnames: 'soil, mining, sampling, tool, land-use, soil-testing, industry, method, chemicals, oil-and-gas, parent:sampling, sample-collection, soil-sampling, parent:soil, pin:industry, soil-sampling-main'
 author: warren
 path: /wiki/soil-sampling.md
 nid: 14840

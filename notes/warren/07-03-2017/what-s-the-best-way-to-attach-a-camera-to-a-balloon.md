@@ -1,6 +1,5 @@
 ---
-title: 'What's the best way to attach a camera to a balloon?'
-tagnames: balloon-mapping, kite-mapping, photo-rig, camera-rig, question:balloon-mapping, answered, question:kite-mapping, question:mini-balloon-kit, question:mini-kite-kit, question:photo-rig, question:camera-rig, pin:question:balloon-mapping
+title: "What's the best way to attach a camera to a balloon?"\ntagnames: 'balloon-mapping, kite-mapping, photo-rig, camera-rig, question:balloon-mapping, answered, question:kite-mapping, question:mini-balloon-kit, question:mini-kite-kit, question:photo-rig, question:camera-rig, pin:question:balloon-mapping'
 author: warren
 path: /notes/warren/07-03-2017/what-s-the-best-way-to-attach-a-camera-to-a-balloon.md
 nid: 14611
@@ -10,7 +9,7 @@ uid: 1
 
 # What's the best way to attach a camera to a balloon?
 
-by [warren](../profile/warren) July 03, 2017 15:59
+by [warren](../profile/warren) | July 03, 2017 15:59
 
 July 03, 2017 15:59 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [camera-rig](../tag/camera-rig), [question:balloon-mapping](../tag/question:balloon-mapping), [answered](../tag/answered), [question:kite-mapping](../tag/question:kite-mapping), [question:mini-balloon-kit](../tag/question:mini-balloon-kit), [question:mini-kite-kit](../tag/question:mini-kite-kit), [question:photo-rig](../tag/question:photo-rig), [question:camera-rig](../tag/question:camera-rig), [pin:question:balloon-mapping](../tag/pin:question:balloon-mapping)
 

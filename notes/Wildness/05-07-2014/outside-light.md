@@ -1,6 +1,5 @@
 ---
-title: 'Outside light'
-tagnames: 
+title: "Outside light"\ntagnames: ''
 author: Wildness
 path: /notes/Wildness/05-07-2014/outside-light.md
 nid: 10441
@@ -12,7 +11,7 @@ uid: 423273
 
 # Outside light
 
-by [Wildness](../profile/Wildness) May 07, 2014 17:20
+by [Wildness](../profile/Wildness) | May 07, 2014 17:20
 
 May 07, 2014 17:20 | Tags: 
 

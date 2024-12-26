@@ -1,6 +1,5 @@
 ---
-title: 'Infragram Media'
-tagnames: near-infrared-camera, ndvi, infragram
+title: "Infragram Media"\ntagnames: 'near-infrared-camera, ndvi, infragram'
 author: warren
 path: /wiki/infragram-media.md
 nid: 7494

@@ -1,6 +1,5 @@
 ---
-title: 'Activate impact: fund boldness'
-tagnames: epa, landscape, governance, department-of-justice, environmental-advocates, 11th-hour
+title: "Activate impact: fund boldness"\ntagnames: 'epa, landscape, governance, department-of-justice, environmental-advocates, 11th-hour'
 author: mlamadrid
 path: /notes/mlamadrid/12-06-2017/activate-impact-fund-boldness.md
 nid: 15315
@@ -12,7 +11,7 @@ uid: 45586
 
 # Activate impact: fund boldness
 
-by [mlamadrid](../profile/mlamadrid) December 06, 2017 01:05
+by [mlamadrid](../profile/mlamadrid) | December 06, 2017 01:05
 
 December 06, 2017 01:05 | Tags: [epa](../tag/epa), [landscape](../tag/landscape), [governance](../tag/governance), [department-of-justice](../tag/department-of-justice), [environmental-advocates](../tag/environmental-advocates), [11th-hour](../tag/11th-hour)
 

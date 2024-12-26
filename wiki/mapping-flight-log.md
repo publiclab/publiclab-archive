@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Flight Log'
-tagnames: 
+title: "Mapping Flight Log"\ntagnames: ''
 author: warren
 path: /wiki/mapping-flight-log.md
 nid: 849

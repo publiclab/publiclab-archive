@@ -1,6 +1,5 @@
 ---
-title: 'First-time posters'
-tagnames: community, parent:welcome, first-time-poster
+title: "First-time posters"\ntagnames: 'community, parent:welcome, first-time-poster'
 author: warren
 path: /wiki/first-time-poster.md
 nid: 17444

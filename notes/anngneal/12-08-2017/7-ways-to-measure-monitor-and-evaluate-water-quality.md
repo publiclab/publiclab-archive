@@ -1,6 +1,5 @@
 ---
-title: '7 Ways to Measure, Monitor, and Evaluate Water Quality'
-tagnames: temperature, fluorescence, water-quality, chlorophyll, algae, turbidity, dissolved-oxygen, conductivity, ph, tds, location:blurred, place:united-states, lat:30, lon:-90, cdom, secchi-disk, salinity, nitrogen, total-dissolved-solids, organic-matter, fdom, acidity, kh, tss, clarity, zoom:6, pin:water-quality
+title: "7 Ways to Measure, Monitor, and Evaluate Water Quality"\ntagnames: 'temperature, fluorescence, water-quality, chlorophyll, algae, turbidity, dissolved-oxygen, conductivity, ph, tds, location:blurred, place:united-states, lat:30, lon:-90, cdom, secchi-disk, salinity, nitrogen, total-dissolved-solids, organic-matter, fdom, acidity, kh, tss, clarity, zoom:6, pin:water-quality'
 author: anngneal
 path: /notes/anngneal/12-08-2017/7-ways-to-measure-monitor-and-evaluate-water-quality.md
 nid: 15332
@@ -12,7 +11,7 @@ uid: 519151
 
 # 7 Ways to Measure, Monitor, and Evaluate Water Quality
 
-by [anngneal](../profile/anngneal) December 08, 2017 12:23
+by [anngneal](../profile/anngneal) | December 08, 2017 12:23
 
 December 08, 2017 12:23 | Tags: [temperature](../tag/temperature), [fluorescence](../tag/fluorescence), [water-quality](../tag/water-quality), [chlorophyll](../tag/chlorophyll), [algae](../tag/algae), [turbidity](../tag/turbidity), [dissolved-oxygen](../tag/dissolved-oxygen), [conductivity](../tag/conductivity), [ph](../tag/ph), [tds](../tag/tds), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-90](../tag/lon:-90), [cdom](../tag/cdom), [secchi-disk](../tag/secchi-disk), [salinity](../tag/salinity), [nitrogen](../tag/nitrogen), [total-dissolved-solids](../tag/total-dissolved-solids), [organic-matter](../tag/organic-matter), [fdom](../tag/fdom), [acidity](../tag/acidity), [kh](../tag/kh), [tss](../tag/tss), [clarity](../tag/clarity), [zoom:6](../tag/zoom:6), [pin:water-quality](../tag/pin:water-quality)
 

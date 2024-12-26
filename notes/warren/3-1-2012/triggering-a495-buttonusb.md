@@ -1,6 +1,5 @@
 ---
-title: 'Triggering A495 by button/USB'
-tagnames: 
+title: "Triggering A495 by button/USB"\ntagnames: ''
 author: warren
 path: /notes/warren/3-1-2012/triggering-a495-buttonusb.md
 nid: 881
@@ -12,7 +11,7 @@ uid: 1
 
 # Triggering A495 by button/USB
 
-by [warren](../profile/warren) March 01, 2012 21:39
+by [warren](../profile/warren) | March 01, 2012 21:39
 
 March 01, 2012 21:39 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Email is evolving - your input needed!'
-tagnames: website, mailing-lists, forums, ui, google-groups, email
+title: "Email is evolving - your input needed!"\ntagnames: 'website, mailing-lists, forums, ui, google-groups, email'
 author: liz
 path: /notes/liz/01-23-2018/email-is-evolving-your-input-needed.md
 nid: 15592
@@ -10,7 +9,7 @@ uid: 7
 
 # Email is evolving - your input needed!
 
-by [liz](../profile/liz) January 23, 2018 17:49
+by [liz](../profile/liz) | January 23, 2018 17:49
 
 January 23, 2018 17:49 | Tags: [website](../tag/website), [mailing-lists](../tag/mailing-lists), [forums](../tag/forums), [ui](../tag/ui), [google-groups](../tag/google-groups), [email](../tag/email)
 

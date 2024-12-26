@@ -1,6 +1,5 @@
 ---
-title: 'phoenix-202-freeway-1'
-tagnames: first-time-poster
+title: "phoenix-202-freeway-1"\ntagnames: 'first-time-poster'
 author: 
 path: /notes/5-17-2012/phoenix-202-freeway-1.md
 nid: 2082
@@ -12,7 +11,7 @@ uid: 0
 
 # phoenix-202-freeway-1
 
-by [](../profile/) May 17, 2012 16:24
+by [](../profile/) | May 17, 2012 16:24
 
 May 17, 2012 16:24 | Tags: [first-time-poster](../tag/first-time-poster)
 

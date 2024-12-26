@@ -1,6 +1,5 @@
 ---
-title: 'Choosing Locations and Methodology for Air-Quality Gas Testing'
-tagnames: landfill, air-quality, waste, losangeles, landfills, gas-monitoring, lat:34, air-quality-monitoring, lon:-118, zoom:8, bucket-monitor, VVAMP, prompt:vvamp, with:denissebn_06, kriging, transects
+title: "Choosing Locations and Methodology for Air-Quality Gas Testing"\ntagnames: 'landfill, air-quality, waste, losangeles, landfills, gas-monitoring, lat:34, air-quality-monitoring, lon:-118, zoom:8, bucket-monitor, VVAMP, prompt:vvamp, with:denissebn_06, kriging, transects'
 author: sarasage
 path: /notes/sarasage/08-09-2021/choosing-locations-and-methodology-for-air-quality-gas-testing.md
 nid: 27448
@@ -12,7 +11,7 @@ uid: 451398
 
 # Choosing Locations and Methodology for Air-Quality Gas Testing
 
-by [sarasage](../profile/sarasage) August 09, 2021 20:18
+by [sarasage](../profile/sarasage) | August 09, 2021 20:18
 
 August 09, 2021 20:18 | Tags: [landfill](../tag/landfill), [air-quality](../tag/air-quality), [waste](../tag/waste), [losangeles](../tag/losangeles), [landfills](../tag/landfills), [gas-monitoring](../tag/gas-monitoring), [lat:34](../tag/lat:34), [air-quality-monitoring](../tag/air-quality-monitoring), [lon:-118](../tag/lon:-118), [zoom:8](../tag/zoom:8), [bucket-monitor](../tag/bucket-monitor), [VVAMP](../tag/VVAMP), [prompt:vvamp](../tag/prompt:vvamp), [with:denissebn_06](../tag/with:denissebn_06), [kriging](../tag/kriging), [transects](../tag/transects)
 

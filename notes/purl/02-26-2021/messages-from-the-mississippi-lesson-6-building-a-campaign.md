@@ -1,6 +1,5 @@
 ---
-title: 'Messages from the Mississippi Lesson 6: Building a Campaign'
-tagnames: microplastics, messagesfromthemississippi
+title: "Messages from the Mississippi Lesson 6: Building a Campaign"\ntagnames: 'microplastics, messagesfromthemississippi'
 author: purl
 path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-6-building-a-campaign.md
 nid: 25814
@@ -12,7 +11,7 @@ uid: 736598
 
 # Messages from the Mississippi Lesson 6: Building a Campaign
 
-by [purl](../profile/purl) February 26, 2021 21:11
+by [purl](../profile/purl) | February 26, 2021 21:11
 
 February 26, 2021 21:11 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
 

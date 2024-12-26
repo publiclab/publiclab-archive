@@ -1,6 +1,5 @@
 ---
-title: 'RGB mode in SpectralWorkbench'
-tagnames: spectrometer, calibration
+title: "RGB mode in SpectralWorkbench"\ntagnames: 'spectrometer, calibration'
 author: warren
 path: /notes/warren/8-18-2012/rgb-mode-spectralworkbench.md
 nid: 3330
@@ -12,7 +11,7 @@ uid: 1
 
 # RGB mode in SpectralWorkbench
 
-by [warren](../profile/warren) August 18, 2012 20:18
+by [warren](../profile/warren) | August 18, 2012 20:18
 
 August 18, 2012 20:18 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration)
 

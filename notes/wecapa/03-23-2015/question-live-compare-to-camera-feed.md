@@ -1,6 +1,5 @@
 ---
-title: 'Question: "live" compare to camera feed'
-tagnames: troubleshooting, software, spectral-workbench, question:spectral-workbench, answered
+title: "Question: "live" compare to camera feed"\ntagnames: 'troubleshooting, software, spectral-workbench, question:spectral-workbench, answered'
 author: wecapa
 path: /notes/wecapa/03-23-2015/question-live-compare-to-camera-feed.md
 nid: 11717
@@ -10,7 +9,7 @@ uid: 425603
 
 # Question: "live" compare to camera feed
 
-by [wecapa](../profile/wecapa) March 23, 2015 15:28
+by [wecapa](../profile/wecapa) | March 23, 2015 15:28
 
 March 23, 2015 15:28 | Tags: [troubleshooting](../tag/troubleshooting), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 

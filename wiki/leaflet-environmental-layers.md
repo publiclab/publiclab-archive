@@ -1,6 +1,5 @@
 ---
-title: 'Leaflet Environmental Layers'
-tagnames: leaflet-environmental-layers
+title: "Leaflet Environmental Layers"\ntagnames: 'leaflet-environmental-layers'
 author: warren
 path: /wiki/leaflet-environmental-layers.md
 nid: 17058

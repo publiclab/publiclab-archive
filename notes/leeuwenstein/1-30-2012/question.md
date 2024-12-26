@@ -1,6 +1,5 @@
 ---
-title: 'QUESTION?'
-tagnames: first-time-poster
+title: "QUESTION?"\ntagnames: 'first-time-poster'
 author: leeuwenstein
 path: /notes/leeuwenstein/1-30-2012/question.md
 nid: 731
@@ -10,7 +9,7 @@ uid: 480
 
 # QUESTION?
 
-by [leeuwenstein](../profile/leeuwenstein) January 30, 2012 19:00
+by [leeuwenstein](../profile/leeuwenstein) | January 30, 2012 19:00
 
 January 30, 2012 19:00 | Tags: [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Signature Development for Cartoscope 2022 Project: Wells and Vegetation'
-tagnames: wetlands, louisiana, aerial-photography, classification, oil-accountability, zoom:10, hilcorp, lat:29.578234, lon:-90.05629
+title: "Signature Development for Cartoscope 2022 Project: Wells and Vegetation"\ntagnames: 'wetlands, louisiana, aerial-photography, classification, oil-accountability, zoom:10, hilcorp, lat:29.578234, lon:-90.05629'
 author: eustatic
 path: /03-11-2022/signature-development-for-cartoscope-2022-project-wells-and-vegetation.md
 nid: 30120
@@ -12,7 +11,7 @@ uid: 379
 
 # Signature Development for Cartoscope 2022 Project: Wells and Vegetation
 
-by [eustatic](../profile/eustatic) March 11, 2022 18:03
+by [eustatic](../profile/eustatic) | March 11, 2022 18:03
 
 March 11, 2022 18:03 | Tags: [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [aerial-photography](../tag/aerial-photography), [classification](../tag/classification), [oil-accountability](../tag/oil-accountability), [zoom:10](../tag/zoom:10), [hilcorp](../tag/hilcorp), [lat:29.578234](../tag/lat:29.578234), [lon:-90.05629](../tag/lon:-90.05629)
 

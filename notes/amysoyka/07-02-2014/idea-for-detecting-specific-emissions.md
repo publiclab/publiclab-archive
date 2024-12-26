@@ -1,6 +1,5 @@
 ---
-title: 'Idea For Detecting Specific Emissions.'
-tagnames: spectrometry, emission-spectroscopy, list:plots-spectrometry, emissions, gas
+title: "Idea For Detecting Specific Emissions."\ntagnames: 'spectrometry, emission-spectroscopy, list:plots-spectrometry, emissions, gas'
 author: amysoyka
 path: /notes/amysoyka/07-02-2014/idea-for-detecting-specific-emissions.md
 nid: 10646
@@ -12,7 +11,7 @@ uid: 422627
 
 # Idea For Detecting Specific Emissions.
 
-by [amysoyka](../profile/amysoyka) July 02, 2014 12:34
+by [amysoyka](../profile/amysoyka) | July 02, 2014 12:34
 
 July 02, 2014 12:34 | Tags: [spectrometry](../tag/spectrometry), [emission-spectroscopy](../tag/emission-spectroscopy), [list:plots-spectrometry](../tag/list:plots-spectrometry), [emissions](../tag/emissions), [gas](../tag/gas)
 

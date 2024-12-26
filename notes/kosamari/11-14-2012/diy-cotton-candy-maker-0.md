@@ -1,6 +1,5 @@
 ---
-title: 'DIY cotton candy maker'
-tagnames: air-column-monitor, diy-bio, microbes, activity:cotton-candy, activity:microbes, first-time-poster
+title: "DIY cotton candy maker"\ntagnames: 'air-column-monitor, diy-bio, microbes, activity:cotton-candy, activity:microbes, first-time-poster'
 author: kosamari
 path: /notes/kosamari/11-14-2012/diy-cotton-candy-maker-0.md
 nid: 4904
@@ -12,7 +11,7 @@ uid: 44255
 
 # DIY cotton candy maker
 
-by [kosamari](../profile/kosamari) November 14, 2012 14:52
+by [kosamari](../profile/kosamari) | November 14, 2012 14:52
 
 November 14, 2012 14:52 | Tags: [air-column-monitor](../tag/air-column-monitor), [diy-bio](../tag/diy-bio), [microbes](../tag/microbes), [activity:cotton-candy](../tag/activity:cotton-candy), [activity:microbes](../tag/activity:microbes), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Kite mapping Barcelona'
-tagnames: spain, event, parent:kite-mapping, activity:kite-mapping
+title: "Kite mapping Barcelona"\ntagnames: 'spain, event, parent:kite-mapping, activity:kite-mapping'
 author: imvec
 path: /notes/imvec/04-25-2017/kite-mapping-barcelona.md
 nid: 14137
@@ -12,7 +11,7 @@ uid: 495038
 
 # Kite mapping Barcelona
 
-by [imvec](../profile/imvec) April 25, 2017 08:37
+by [imvec](../profile/imvec) | April 25, 2017 08:37
 
 April 25, 2017 08:37 | Tags: [spain](../tag/spain), [event](../tag/event), [parent:kite-mapping](../tag/parent:kite-mapping), [activity:kite-mapping](../tag/activity:kite-mapping)
 

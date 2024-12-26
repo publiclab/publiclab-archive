@@ -1,6 +1,5 @@
 ---
-title: 'Shallow note on depth'
-tagnames: water-quality, coqui, depth, depth-sensor
+title: "Shallow note on depth"\ntagnames: 'water-quality, coqui, depth, depth-sensor'
 author: donblair
 path: /notes/donblair/01-14-2015/shallow-note-on-depth.md
 nid: 11522
@@ -12,7 +11,7 @@ uid: 43651
 
 # Shallow note on depth
 
-by [donblair](../profile/donblair) January 14, 2015 17:52
+by [donblair](../profile/donblair) | January 14, 2015 17:52
 
 January 14, 2015 17:52 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [depth](../tag/depth), [depth-sensor](../tag/depth-sensor)
 

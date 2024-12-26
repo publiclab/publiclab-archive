@@ -1,6 +1,5 @@
 ---
-title: 'FarmHack'
-tagnames: grassrootsmappingforum, style:fancy, with:dorncox, gmf-9
+title: "FarmHack"\ntagnames: 'grassrootsmappingforum, style:fancy, with:dorncox, gmf-9'
 author: mlamadrid
 path: /notes/mlamadrid/12-09-2015/farmhack.md
 nid: 12492
@@ -12,7 +11,7 @@ uid: 45586
 
 # FarmHack
 
-by [mlamadrid](../profile/mlamadrid) December 09, 2015 17:01
+by [mlamadrid](../profile/mlamadrid) | December 09, 2015 17:01
 
 December 09, 2015 17:01 | Tags: [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [with:dorncox](../tag/with:dorncox), [gmf-9](../tag/gmf-9)
 

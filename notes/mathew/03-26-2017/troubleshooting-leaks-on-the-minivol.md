@@ -1,6 +1,5 @@
 ---
-title: 'Troubleshooting leaks on the MiniVol'
-tagnames: air-quality, dust, silica, pm, particle-sensing, pm-monitoring, pm-sensing, minivol, airmetrics, activity:minivol
+title: "Troubleshooting leaks on the MiniVol"\ntagnames: 'air-quality, dust, silica, pm, particle-sensing, pm-monitoring, pm-sensing, minivol, airmetrics, activity:minivol'
 author: mathew
 path: /notes/mathew/03-26-2017/troubleshooting-leaks-on-the-minivol.md
 nid: 14062
@@ -10,7 +9,7 @@ uid: 4
 
 # Troubleshooting leaks on the MiniVol
 
-by [mathew](../profile/mathew) March 26, 2017 23:30
+by [mathew](../profile/mathew) | March 26, 2017 23:30
 
 March 26, 2017 23:30 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [pm-sensing](../tag/pm-sensing), [minivol](../tag/minivol), [airmetrics](../tag/airmetrics), [activity:minivol](../tag/activity:minivol)
 

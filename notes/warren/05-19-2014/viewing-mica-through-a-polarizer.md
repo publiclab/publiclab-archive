@@ -1,6 +1,5 @@
 ---
-title: 'Viewing mica through a polarizer'
-tagnames: dust, smartphone, silica, particulate, polarizer, mica, polarized-light, polarized-light-microscopy, polarizing-filter
+title: "Viewing mica through a polarizer"\ntagnames: 'dust, smartphone, silica, particulate, polarizer, mica, polarized-light, polarized-light-microscopy, polarizing-filter'
 author: warren
 path: /notes/warren/05-19-2014/viewing-mica-through-a-polarizer.md
 nid: 10482
@@ -12,7 +11,7 @@ uid: 1
 
 # Viewing mica through a polarizer
 
-by [warren](../profile/warren) May 19, 2014 18:16
+by [warren](../profile/warren) | May 19, 2014 18:16
 
 May 19, 2014 18:16 | Tags: [dust](../tag/dust), [smartphone](../tag/smartphone), [silica](../tag/silica), [particulate](../tag/particulate), [polarizer](../tag/polarizer), [mica](../tag/mica), [polarized-light](../tag/polarized-light), [polarized-light-microscopy](../tag/polarized-light-microscopy), [polarizing-filter](../tag/polarizing-filter)
 

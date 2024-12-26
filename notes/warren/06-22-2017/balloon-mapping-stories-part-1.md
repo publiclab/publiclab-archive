@@ -1,6 +1,5 @@
 ---
-title: 'Balloon and Kite Mapping Stories, Part 1'
-tagnames: balloon-mapping, kite-mapping, kickstarter, blog, aerial-mapping, stories, mini-kite-kit, mini-balloon-kit
+title: "Balloon and Kite Mapping Stories, Part 1"\ntagnames: 'balloon-mapping, kite-mapping, kickstarter, blog, aerial-mapping, stories, mini-kite-kit, mini-balloon-kit'
 author: warren
 path: /notes/warren/06-22-2017/balloon-mapping-stories-part-1.md
 nid: 14572
@@ -12,7 +11,7 @@ uid: 1
 
 # Balloon and Kite Mapping Stories, Part 1
 
-by [warren](../profile/warren) June 22, 2017 20:25
+by [warren](../profile/warren) | June 22, 2017 20:25
 
 June 22, 2017 20:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [blog](../tag/blog), [aerial-mapping](../tag/aerial-mapping), [stories](../tag/stories), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit)
 

@@ -1,6 +1,5 @@
 ---
-title: 'seamless distortion?'
-tagnames: 
+title: "seamless distortion?"\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/7-14-2011/seamless-distortion.md
 nid: 383
@@ -12,7 +11,7 @@ uid: 12
 
 # seamless distortion?
 
-by [gonzoearth](../profile/gonzoearth) July 15, 2011 03:10
+by [gonzoearth](../profile/gonzoearth) | July 15, 2011 03:10
 
 July 15, 2011 03:10 | Tags: 
 

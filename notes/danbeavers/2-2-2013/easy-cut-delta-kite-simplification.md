@@ -1,6 +1,5 @@
 ---
-title: 'Easy Cut Delta Kite simplification'
-tagnames: kite-mapping, kite, diy-kite, homemade-kites, easy-cut-delta, kite-making, upgrade:kite-making, upgrade:easy-cut-delta, first-time-poster
+title: "Easy Cut Delta Kite simplification"\ntagnames: 'kite-mapping, kite, diy-kite, homemade-kites, easy-cut-delta, kite-making, upgrade:kite-making, upgrade:easy-cut-delta, first-time-poster'
 author: danbeavers
 path: /notes/danbeavers/2-2-2013/easy-cut-delta-kite-simplification.md
 nid: 5871
@@ -10,7 +9,7 @@ uid: 51
 
 # Easy Cut Delta Kite simplification
 
-by [danbeavers](../profile/danbeavers) February 03, 2013 01:15
+by [danbeavers](../profile/danbeavers) | February 03, 2013 01:15
 
 February 03, 2013 01:15 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [homemade-kites](../tag/homemade-kites), [easy-cut-delta](../tag/easy-cut-delta), [kite-making](../tag/kite-making), [upgrade:kite-making](../tag/upgrade:kite-making), [upgrade:easy-cut-delta](../tag/upgrade:easy-cut-delta), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Adventures on the Gowanus on a July Evening'
-tagnames: gowanus, new-york, nyc, northeast, barnstar:photo-documentation
+title: "Adventures on the Gowanus on a July Evening"\ntagnames: 'gowanus, new-york, nyc, northeast, barnstar:photo-documentation'
 author: eustatic
 path: /07-12-2017/adventures-on-the-gowanus-on-a-july-evening.md
 nid: 14646
@@ -12,7 +11,7 @@ uid: 379
 
 # Adventures on the Gowanus on a July Evening
 
-by [eustatic](../profile/eustatic) July 12, 2017 16:59
+by [eustatic](../profile/eustatic) | July 12, 2017 16:59
 
 July 12, 2017 16:59 | Tags: [gowanus](../tag/gowanus), [new-york](../tag/new-york), [nyc](../tag/nyc), [northeast](../tag/northeast), [barnstar:photo-documentation](../tag/barnstar:photo-documentation)
 

@@ -1,6 +1,5 @@
 ---
-title: 'staff'
-tagnames: redirect:plots-staff
+title: "staff"\ntagnames: 'redirect:plots-staff'
 author: warren
 path: /wiki/staff.md
 nid: 16666

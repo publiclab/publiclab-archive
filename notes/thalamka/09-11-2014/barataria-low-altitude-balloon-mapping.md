@@ -1,6 +1,5 @@
 ---
-title: 'Barataria Low Altitude Balloon Mapping'
-tagnames: gulf-coast, barataria-bay, mapknitter, barataria, washustlouis, washu-stlouis, bird
+title: "Barataria Low Altitude Balloon Mapping"\ntagnames: 'gulf-coast, barataria-bay, mapknitter, barataria, washustlouis, washu-stlouis, bird'
 author: thalamka
 path: /notes/thalamka/09-11-2014/barataria-low-altitude-balloon-mapping.md
 nid: 11129
@@ -12,7 +11,7 @@ uid: 428238
 
 # Barataria Low Altitude Balloon Mapping
 
-by [thalamka](../profile/thalamka) September 11, 2014 19:21
+by [thalamka](../profile/thalamka) | September 11, 2014 19:21
 
 September 11, 2014 19:21 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [mapknitter](../tag/mapknitter), [barataria](../tag/barataria), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [bird](../tag/bird)
 

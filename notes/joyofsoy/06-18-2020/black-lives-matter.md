@@ -1,6 +1,5 @@
 ---
-title: 'Black Lives Matter.'
-tagnames: blog
+title: "Black Lives Matter."\ntagnames: 'blog'
 author: joyofsoy
 path: /notes/joyofsoy/06-18-2020/black-lives-matter.md
 nid: 23879
@@ -12,7 +11,7 @@ uid: 540844
 
 # Black Lives Matter.
 
-by [joyofsoy](../profile/joyofsoy) June 18, 2020 20:20
+by [joyofsoy](../profile/joyofsoy) | June 18, 2020 20:20
 
 June 18, 2020 20:20 | Tags: [blog](../tag/blog)
 

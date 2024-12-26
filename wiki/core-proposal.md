@@ -1,6 +1,5 @@
 ---
-title: 'Core proposal'
-tagnames: community, organizers, parent:organizers
+title: "Core proposal"\ntagnames: 'community, organizers, parent:organizers'
 author: warren
 path: /wiki/core-proposal.md
 nid: 908

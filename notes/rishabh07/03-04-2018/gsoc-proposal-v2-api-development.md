@@ -1,6 +1,5 @@
 ---
-title: 'GSoC proposal: v2 API development'
-tagnames: software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-api, implementation:
+title: "GSoC proposal: v2 API development"\ntagnames: 'software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-api, implementation:'
 author: rishabh07
 path: /notes/rishabh07/03-04-2018/gsoc-proposal-v2-api-development.md
 nid: 15858
@@ -10,7 +9,7 @@ uid: 526576
 
 # GSoC proposal: v2 API development
 
-by [rishabh07](../profile/rishabh07) March 04, 2018 07:47
+by [rishabh07](../profile/rishabh07) | March 04, 2018 07:47
 
 March 04, 2018 07:47 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-api](../tag/soc-2018-api), [implementation:](../tag/implementation:)
 

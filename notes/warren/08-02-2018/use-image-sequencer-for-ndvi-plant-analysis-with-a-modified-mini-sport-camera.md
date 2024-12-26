@@ -1,6 +1,5 @@
 ---
-title: 'Use Image Sequencer for NDVI plant analysis with a modified mini sport camera'
-tagnames: near-infrared-camera, ndvi, multispectral, nasa, infragram, mobius, infragram-point-shoot, filters, difficulty:easy, time:15m, status:review-me, category:observe, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:ndvi, response:13742, aren, activity:infrared-camera-conversion, infrared-camera-conversion, activity:image-sequencer, activity:aren, sport-camera, camera-hacking
+title: "Use Image Sequencer for NDVI plant analysis with a modified mini sport camera"\ntagnames: 'near-infrared-camera, ndvi, multispectral, nasa, infragram, mobius, infragram-point-shoot, filters, difficulty:easy, time:15m, status:review-me, category:observe, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:ndvi, response:13742, aren, activity:infrared-camera-conversion, infrared-camera-conversion, activity:image-sequencer, activity:aren, sport-camera, camera-hacking'
 author: warren
 path: /notes/warren/08-02-2018/use-image-sequencer-for-ndvi-plant-analysis-with-a-modified-mini-sport-camera.md
 nid: 16843
@@ -12,7 +11,7 @@ uid: 1
 
 # Use Image Sequencer for NDVI plant analysis with a modified mini sport camera
 
-by [warren](../profile/warren) August 02, 2018 22:38
+by [warren](../profile/warren) | August 02, 2018 22:38
 
 August 02, 2018 22:38 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [nasa](../tag/nasa), [infragram](../tag/infragram), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [filters](../tag/filters), [difficulty:easy](../tag/difficulty:easy), [time:15m](../tag/time:15m), [status:review-me](../tag/status:review-me), [category:observe](../tag/category:observe), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:ndvi](../tag/activity:ndvi), [response:13742](../tag/response:13742), [aren](../tag/aren), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [activity:image-sequencer](../tag/activity:image-sequencer), [activity:aren](../tag/activity:aren), [sport-camera](../tag/sport-camera), [camera-hacking](../tag/camera-hacking)
 

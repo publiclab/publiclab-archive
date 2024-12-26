@@ -1,6 +1,5 @@
 ---
-title: 'Initial experience: SX260HS with gps'
-tagnames: kite-mapping, chdk, gps, sx260hs
+title: "Initial experience: SX260HS with gps"\ntagnames: 'kite-mapping, chdk, gps, sx260hs'
 author: patcoyle
 path: /notes/patcoyle/2-21-2013/initial-experiences-sx260hs-gps.md
 nid: 6083
@@ -12,7 +11,7 @@ uid: 77
 
 # Initial experience: SX260HS with gps
 
-by [patcoyle](../profile/patcoyle) February 21, 2013 21:55
+by [patcoyle](../profile/patcoyle) | February 21, 2013 21:55
 
 February 21, 2013 21:55 | Tags: [kite-mapping](../tag/kite-mapping), [chdk](../tag/chdk), [gps](../tag/gps), [sx260hs](../tag/sx260hs)
 

@@ -1,6 +1,5 @@
 ---
-title: 'OpenDroneMap: Open Source Toolkit for processing Civilian Drone Imagery gets orthophotos'
-tagnames: balloon-mapping, kite-aerial-photography, drones, aerial-photography, aerial-mapping, aerial-photos, code, northeast, uas, opendronemap, suas
+title: "OpenDroneMap: Open Source Toolkit for processing Civilian Drone Imagery gets orthophotos"\ntagnames: 'balloon-mapping, kite-aerial-photography, drones, aerial-photography, aerial-mapping, aerial-photos, code, northeast, uas, opendronemap, suas'
 author: smathermather
 path: /notes/smathermather/12-23-2014/opendronemap-open-source-toolkit-for-processing-civilian-drone-imagery-gets-orthophotos.md
 nid: 11494
@@ -12,7 +11,7 @@ uid: 431062
 
 # OpenDroneMap: Open Source Toolkit for processing Civilian Drone Imagery gets orthophotos
 
-by [smathermather](../profile/smathermather) December 23, 2014 03:04
+by [smathermather](../profile/smathermather) | December 23, 2014 03:04
 
 December 23, 2014 03:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [drones](../tag/drones), [aerial-photography](../tag/aerial-photography), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [code](../tag/code), [northeast](../tag/northeast), [uas](../tag/uas), [opendronemap](../tag/opendronemap), [suas](../tag/suas)
 

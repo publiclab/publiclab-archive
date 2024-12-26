@@ -1,6 +1,5 @@
 ---
-title: 'Potholes in New Orleans Conclusion'
-tagnames: gulf-coast, balloon-mapping, laplace, transportation, new-orleans, potholes, roads, stem, student-community-science, zoom:6, asphalt, lat:30.050076, lon:-90.571289, lousisana, response:26155
+title: "Potholes in New Orleans Conclusion"\ntagnames: 'gulf-coast, balloon-mapping, laplace, transportation, new-orleans, potholes, roads, stem, student-community-science, zoom:6, asphalt, lat:30.050076, lon:-90.571289, lousisana, response:26155'
 author: Rgaude
 path: /notes/Rgaude/05-14-2021/potholes-in-new-orleans-conclusion.md
 nid: 26594
@@ -12,7 +11,7 @@ uid: 749812
 
 # Potholes in New Orleans Conclusion
 
-by [Rgaude](../profile/Rgaude) May 14, 2021 15:27
+by [Rgaude](../profile/Rgaude) | May 14, 2021 15:27
 
 May 14, 2021 15:27 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [laplace](../tag/laplace), [transportation](../tag/transportation), [new-orleans](../tag/new-orleans), [potholes](../tag/potholes), [roads](../tag/roads), [stem](../tag/stem), [student-community-science](../tag/student-community-science), [zoom:6](../tag/zoom:6), [asphalt](../tag/asphalt), [lat:30.050076](../tag/lat:30.050076), [lon:-90.571289](../tag/lon:-90.571289), [lousisana](../tag/lousisana), [response:26155](../tag/response:26155)
 

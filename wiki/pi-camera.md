@@ -1,6 +1,5 @@
 ---
-title: 'Pi Camera'
-tagnames: balloon-mapping, kite-mapping, spectrometry, raspberry-pi, timelapse, aerial-mapping, rpi, pi-camera, datasheet
+title: "Pi Camera"\ntagnames: 'balloon-mapping, kite-mapping, spectrometry, raspberry-pi, timelapse, aerial-mapping, rpi, pi-camera, datasheet'
 author: warren
 path: /wiki/pi-camera.md
 nid: 14571

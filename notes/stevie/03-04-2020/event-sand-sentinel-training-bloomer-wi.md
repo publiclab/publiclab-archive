@@ -1,6 +1,5 @@
 ---
-title: 'CANCELED Event: Sand Sentinel Training, Bloomer WI'
-tagnames: event, frac-sand, pm, mid-west, particulate-matter, with:pat, this, sentinel, parent:the-sand-sentinel-program, zoom:11, lat:45.109392, lon:-91.484184, sand-sentinel, sentinel-program
+title: "CANCELED Event: Sand Sentinel Training, Bloomer WI"\ntagnames: 'event, frac-sand, pm, mid-west, particulate-matter, with:pat, this, sentinel, parent:the-sand-sentinel-program, zoom:11, lat:45.109392, lon:-91.484184, sand-sentinel, sentinel-program'
 author: stevie
 path: /notes/stevie/03-04-2020/event-sand-sentinel-training-bloomer-wi.md
 nid: 23028
@@ -12,7 +11,7 @@ uid: 422561
 
 # CANCELED Event: Sand Sentinel Training, Bloomer WI
 
-by [stevie](../profile/stevie) March 04, 2020 21:36
+by [stevie](../profile/stevie) | March 04, 2020 21:36
 
 March 04, 2020 21:36 | Tags: [event](../tag/event), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [mid-west](../tag/mid-west), [particulate-matter](../tag/particulate-matter), [with:pat](../tag/with:pat), [this](../tag/this), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [zoom:11](../tag/zoom:11), [lat:45.109392](../tag/lat:45.109392), [lon:-91.484184](../tag/lon:-91.484184), [sand-sentinel](../tag/sand-sentinel), [sentinel-program](../tag/sentinel-program)
 

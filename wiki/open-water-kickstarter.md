@@ -1,6 +1,5 @@
 ---
-title: 'open-water-kickstarter'
-tagnames: 
+title: "open-water-kickstarter"\ntagnames: ''
 author: donblair
 path: /wiki/open-water-kickstarter.md
 nid: 11465

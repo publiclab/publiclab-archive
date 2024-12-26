@@ -1,6 +1,5 @@
 ---
-title: 'PDF template'
-tagnames: 
+title: "PDF template"\ntagnames: ''
 author: warren
 path: /wiki/pdf-template.md
 nid: 17362

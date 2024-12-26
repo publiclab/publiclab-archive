@@ -1,6 +1,5 @@
 ---
-title: 'Kitemapping in the Netherlands'
-tagnames: balloon-mapping, guides, waagsociety, amsterdam, netherlands, waag, lat:52.372807, lon:4.900291, place:waag-society-nieuwmarkt-amsterdam-netherlands
+title: "Kitemapping in the Netherlands"\ntagnames: 'balloon-mapping, guides, waagsociety, amsterdam, netherlands, waag, lat:52.372807, lon:4.900291, place:waag-society-nieuwmarkt-amsterdam-netherlands'
 author: svanderwaal
 path: /notes/svanderwaal/09-06-2013/kitemapping-in-the-netherlands.md
 nid: 9299
@@ -12,7 +11,7 @@ uid: 236313
 
 # Kitemapping in the Netherlands
 
-by [svanderwaal](../profile/svanderwaal) September 06, 2013 08:04
+by [svanderwaal](../profile/svanderwaal) | September 06, 2013 08:04
 
 September 06, 2013 08:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [guides](../tag/guides), [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [netherlands](../tag/netherlands), [waag](../tag/waag), [lat:52.372807](../tag/lat:52.372807), [lon:4.900291](../tag/lon:4.900291), [place:waag-society-nieuwmarkt-amsterdam-netherlands](../tag/place:waag-society-nieuwmarkt-amsterdam-netherlands)
 

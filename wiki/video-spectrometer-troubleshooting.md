@@ -1,6 +1,5 @@
 ---
-title: 'Video spectrometer troubleshooting'
-tagnames: spectrometer, troubleshooting
+title: "Video spectrometer troubleshooting"\ntagnames: 'spectrometer, troubleshooting'
 author: warren
 path: /wiki/video-spectrometer-troubleshooting.md
 nid: 633

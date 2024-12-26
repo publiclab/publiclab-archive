@@ -1,6 +1,5 @@
 ---
-title: 'YEA Corps Spectrometer Protocol methods'
-tagnames: yea, yeacorps, yeacorp, yea_corps, yea_corp
+title: "YEA Corps Spectrometer Protocol methods"\ntagnames: 'yea, yeacorps, yeacorp, yea_corps, yea_corp'
 author: SparkLab
 path: /wiki/yea-corps-spectrometer-protocol-methods.md
 nid: 8893

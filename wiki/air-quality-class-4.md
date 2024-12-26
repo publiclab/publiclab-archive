@@ -1,6 +1,5 @@
 ---
-title: 'air quality class 4'
-tagnames: 
+title: "air quality class 4"\ntagnames: ''
 author: liz
 path: /wiki/air-quality-class-4.md
 nid: 6126

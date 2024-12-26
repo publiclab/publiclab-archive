@@ -1,6 +1,5 @@
 ---
-title: 'Great Video from Northeastern University about Kaya Simmons and his work with Public Lab '
-tagnames: thermal-photography, boston, northeastern-university, thermal-fishing-bob
+title: "Great Video from Northeastern University about Kaya Simmons and his work with Public Lab "\ntagnames: 'thermal-photography, boston, northeastern-university, thermal-fishing-bob'
 author: sara
 path: /notes/Sara/07-11-2013/great-video-from-northeastern-university-about-kaya-simmons-and-his-work-with-public-lab.md
 nid: 8852
@@ -12,7 +11,7 @@ uid: 8
 
 # Great Video from Northeastern University about Kaya Simmons and his work with Public Lab 
 
-by [sara](../profile/sara) July 11, 2013 16:57
+by [sara](../profile/sara) | July 11, 2013 16:57
 
 July 11, 2013 16:57 | Tags: [thermal-photography](../tag/thermal-photography), [boston](../tag/boston), [northeastern-university](../tag/northeastern-university), [thermal-fishing-bob](../tag/thermal-fishing-bob)
 

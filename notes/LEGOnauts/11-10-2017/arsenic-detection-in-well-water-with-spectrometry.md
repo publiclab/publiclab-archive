@@ -1,6 +1,5 @@
 ---
-title: 'Arsenic detection in well water with spectrometry'
-tagnames: response:480
+title: "Arsenic detection in well water with spectrometry"\ntagnames: 'response:480'
 author: LEGOnauts
 path: /notes/LEGOnauts/11-10-2017/arsenic-detection-in-well-water-with-spectrometry.md
 nid: 15170
@@ -12,7 +11,7 @@ uid: 517979
 
 # Arsenic detection in well water with spectrometry
 
-by [LEGOnauts](../profile/LEGOnauts) November 10, 2017 02:47
+by [LEGOnauts](../profile/LEGOnauts) | November 10, 2017 02:47
 
 November 10, 2017 02:47 | Tags: [response:480](../tag/response:480)
 

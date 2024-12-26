@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab nonprofit values'
-tagnames: nonprofit, values-statement
+title: "Public Lab nonprofit values"\ntagnames: 'nonprofit, values-statement'
 author: Shannon
 path: /wiki/public-lab-nonprofit-values.md
 nid: 14093

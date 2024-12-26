@@ -1,6 +1,5 @@
 ---
-title: 'Enhancing Sensitivity of DIY Spectrometers'
-tagnames: spectrometer, water-quality, sensitivity, smoothing
+title: "Enhancing Sensitivity of DIY Spectrometers"\ntagnames: 'spectrometer, water-quality, sensitivity, smoothing'
 author: philippg
 path: /notes/philippg/07-18-2013/enhancing-sensitivity-of-diy-spectrometers.md
 nid: 8906
@@ -12,7 +11,7 @@ uid: 121462
 
 # Enhancing Sensitivity of DIY Spectrometers
 
-by [philippg](../profile/philippg) July 18, 2013 20:41
+by [philippg](../profile/philippg) | July 18, 2013 20:41
 
 July 18, 2013 20:41 | Tags: [spectrometer](../tag/spectrometer), [water-quality](../tag/water-quality), [sensitivity](../tag/sensitivity), [smoothing](../tag/smoothing)
 

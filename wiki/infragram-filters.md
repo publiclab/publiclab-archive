@@ -1,6 +1,5 @@
 ---
-title: 'Infragram Filters'
-tagnames: infragram-filters, parent:infragram
+title: "Infragram Filters"\ntagnames: 'infragram-filters, parent:infragram'
 author: warren
 path: /wiki/infragram-filters.md
 nid: 15087

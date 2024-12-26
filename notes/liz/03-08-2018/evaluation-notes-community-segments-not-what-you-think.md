@@ -1,6 +1,5 @@
 ---
-title: 'evaluation notes: community segments -- not what you think!'
-tagnames: evaluation, question:evaluation
+title: "evaluation notes: community segments -- not what you think!"\ntagnames: 'evaluation, question:evaluation'
 author: liz
 path: /notes/liz/03-08-2018/evaluation-notes-community-segments-not-what-you-think.md
 nid: 15895
@@ -10,7 +9,7 @@ uid: 7
 
 # evaluation notes: community segments -- not what you think!
 
-by [liz](../profile/liz) March 08, 2018 19:18
+by [liz](../profile/liz) | March 08, 2018 19:18
 
 March 08, 2018 19:18 | Tags: [evaluation](../tag/evaluation), [question:evaluation](../tag/question:evaluation)
 

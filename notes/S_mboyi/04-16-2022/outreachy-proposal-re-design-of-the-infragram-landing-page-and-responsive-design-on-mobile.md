@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: Re-design of the Infragram landing page and responsive design on mobile '
-tagnames: software, outreachy, first-time-poster, lon:10.195312, zoom:4, lat:5.965753, outreachy-2022, outreachy-summer-2022
+title: "Outreachy proposal: Re-design of the Infragram landing page and responsive design on mobile "\ntagnames: 'software, outreachy, first-time-poster, lon:10.195312, zoom:4, lat:5.965753, outreachy-2022, outreachy-summer-2022'
 author: S_mboyi
 path: /notes/S_mboyi/04-16-2022/outreachy-proposal-re-design-of-the-infragram-landing-page-and-responsive-design-on-mobile.md
 nid: 30434
@@ -12,7 +11,7 @@ uid: 795348
 
 # Outreachy proposal: Re-design of the Infragram landing page and responsive design on mobile 
 
-by [S_mboyi](../profile/S_mboyi) April 16, 2022 01:01
+by [S_mboyi](../profile/S_mboyi) | April 16, 2022 01:01
 
 April 16, 2022 01:01 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [lon:10.195312](../tag/lon:10.195312), [zoom:4](../tag/zoom:4), [lat:5.965753](../tag/lat:5.965753), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 

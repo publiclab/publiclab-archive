@@ -1,6 +1,5 @@
 ---
-title: 'IRCam compact wiring prototype'
-tagnames: near-infrared-camera, ircam
+title: "IRCam compact wiring prototype"\ntagnames: 'near-infrared-camera, ircam'
 author: warren
 path: /notes/warren/2-19-2013/ircam-compact-wiring-prototype.md
 nid: 6057
@@ -12,7 +11,7 @@ uid: 1
 
 # IRCam compact wiring prototype
 
-by [warren](../profile/warren) February 19, 2013 14:44
+by [warren](../profile/warren) | February 19, 2013 14:44
 
 February 19, 2013 14:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ircam](../tag/ircam)
 

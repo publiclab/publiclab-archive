@@ -1,6 +1,5 @@
 ---
-title: 'Asbestonim-test'
-tagnames: balloon-mapping, jerusalem, israel, palestine, urban-planning, list:publiclab-jerusalem, maree-makom, kiryat-hayovel, public-participation
+title: "Asbestonim-test"\ntagnames: 'balloon-mapping, jerusalem, israel, palestine, urban-planning, list:publiclab-jerusalem, maree-makom, kiryat-hayovel, public-participation'
 author: hagitkeysar
 path: /wiki/asbestonim-test.md
 nid: 11405

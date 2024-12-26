@@ -1,6 +1,5 @@
 ---
-title: 'Can you calibrate this?'
-tagnames: question:spectral-workbench, first-time-poster
+title: "Can you calibrate this?"\ntagnames: 'question:spectral-workbench, first-time-poster'
 author: jela0194
 path: /notes/jela0194/06-11-2019/can-you-calibrate-this.md
 nid: 19657
@@ -10,7 +9,7 @@ uid: 596485
 
 # Can you calibrate this?
 
-by [jela0194](../profile/jela0194) June 11, 2019 10:40
+by [jela0194](../profile/jela0194) | June 11, 2019 10:40
 
 June 11, 2019 10:40 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 

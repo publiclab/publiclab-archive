@@ -1,6 +1,5 @@
 ---
-title: 'Research Curation Fellows'
-tagnames: research, fellows, fellowship, parent:fellows, research-curation-fellows
+title: "Research Curation Fellows"\ntagnames: 'research, fellows, fellowship, parent:fellows, research-curation-fellows'
 author: bhamster
 path: /wiki/research-curation-fellows.md
 nid: 26732

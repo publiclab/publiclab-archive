@@ -1,6 +1,5 @@
 ---
-title: 'DIY Windmill and Solar Light Workshop'
-tagnames: lima, peru, workshop, wind, solar, activity:classroom, windmill
+title: "DIY Windmill and Solar Light Workshop"\ntagnames: 'lima, peru, workshop, wind, solar, activity:classroom, windmill'
 author: warren
 path: /notes/warren/05-01-2018/diy-windmill-and-solar-light-workshop.md
 nid: 53
@@ -10,7 +9,7 @@ uid: 1
 
 # DIY Windmill and Solar Light Workshop
 
-by [warren](../profile/warren) January 24, 2011 00:56
+by [warren](../profile/warren) | January 24, 2011 00:56
 
 January 24, 2011 00:56 | Tags: [lima](../tag/lima), [peru](../tag/peru), [workshop](../tag/workshop), [wind](../tag/wind), [solar](../tag/solar), [activity:classroom](../tag/activity:classroom), [windmill](../tag/windmill)
 

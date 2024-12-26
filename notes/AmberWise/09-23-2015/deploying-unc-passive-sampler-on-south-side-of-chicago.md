@@ -1,6 +1,5 @@
 ---
-title: 'Deploying UNC passive sampler on South Side of Chicago'
-tagnames: imagej, air-quality, tools, dust, chicago, pm, barnstar:empiricism, particle-sensing, particle-monitoring, openair, passive-particle-monitors, damarquis, monterrior, pagyebo, passive-pm, activity:pm, activity:passive-particle-monitors, activity:passive-pm
+title: "Deploying UNC passive sampler on South Side of Chicago"\ntagnames: 'imagej, air-quality, tools, dust, chicago, pm, barnstar:empiricism, particle-sensing, particle-monitoring, openair, passive-particle-monitors, damarquis, monterrior, pagyebo, passive-pm, activity:pm, activity:passive-particle-monitors, activity:passive-pm'
 author: AmberWise
 path: /notes/AmberWise/09-23-2015/deploying-unc-passive-sampler-on-south-side-of-chicago.md
 nid: 12238
@@ -12,7 +11,7 @@ uid: 450902
 
 # Deploying UNC passive sampler on South Side of Chicago
 
-by [AmberWise](../profile/AmberWise) September 23, 2015 19:28
+by [AmberWise](../profile/AmberWise) | September 23, 2015 19:28
 
 September 23, 2015 19:28 | Tags: [imagej](../tag/imagej), [air-quality](../tag/air-quality), [tools](../tag/tools), [dust](../tag/dust), [chicago](../tag/chicago), [pm](../tag/pm), [barnstar:empiricism](../tag/barnstar:empiricism), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [openair](../tag/openair), [passive-particle-monitors](../tag/passive-particle-monitors), [damarquis](../tag/damarquis), [monterrior](../tag/monterrior), [pagyebo](../tag/pagyebo), [passive-pm](../tag/passive-pm), [activity:pm](../tag/activity:pm), [activity:passive-particle-monitors](../tag/activity:passive-particle-monitors), [activity:passive-pm](../tag/activity:passive-pm)
 

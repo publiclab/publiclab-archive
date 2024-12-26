@@ -1,6 +1,5 @@
 ---
-title: 'Mapping at Tidwell Park in Houston'
-tagnames: balloon-mapping, kite-mapping, mapknitter, mapping, barnraising, balloon, texas, houston, txbarnraising, lat:29.851429, lon:-95.304034
+title: "Mapping at Tidwell Park in Houston"\ntagnames: 'balloon-mapping, kite-mapping, mapknitter, mapping, barnraising, balloon, texas, houston, txbarnraising, lat:29.851429, lon:-95.304034'
 author: joyofsoy
 path: /notes/joyofsoy/03-08-2019/mapping-at-tidwell-park-in-houston.md
 nid: 18498
@@ -12,7 +11,7 @@ uid: 540844
 
 # Mapping at Tidwell Park in Houston
 
-by [joyofsoy](../profile/joyofsoy) March 08, 2019 22:04
+by [joyofsoy](../profile/joyofsoy) | March 08, 2019 22:04
 
 March 08, 2019 22:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [mapping](../tag/mapping), [barnraising](../tag/barnraising), [balloon](../tag/balloon), [texas](../tag/texas), [houston](../tag/houston), [txbarnraising](../tag/txbarnraising), [lat:29.851429](../tag/lat:29.851429), [lon:-95.304034](../tag/lon:-95.304034)
 

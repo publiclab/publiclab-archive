@@ -1,6 +1,5 @@
 ---
-title: 'Bulk ordering'
-tagnames: 
+title: "Bulk ordering"\ntagnames: ''
 author: warren
 path: /wiki/bulk-ordering.md
 nid: 747

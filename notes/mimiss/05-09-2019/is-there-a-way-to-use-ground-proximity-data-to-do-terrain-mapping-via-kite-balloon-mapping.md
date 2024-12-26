@@ -1,6 +1,5 @@
 ---
-title: 'Is there a way to use ground-proximity data to do terrain mapping via kite/balloon mapping?'
-tagnames: balloon-mapping, mapping, aerial-mapping, question:balloon-mapping, question:general, question:sensor, terrain-mapping
+title: "Is there a way to use ground-proximity data to do terrain mapping via kite/balloon mapping?"\ntagnames: 'balloon-mapping, mapping, aerial-mapping, question:balloon-mapping, question:general, question:sensor, terrain-mapping'
 author: mimiss
 path: /notes/mimiss/05-09-2019/is-there-a-way-to-use-ground-proximity-data-to-do-terrain-mapping-via-kite-balloon-mapping.md
 nid: 19286
@@ -10,7 +9,7 @@ uid: 579821
 
 # Is there a way to use ground-proximity data to do terrain mapping via kite/balloon mapping?
 
-by [mimiss](../profile/mimiss) May 09, 2019 16:54
+by [mimiss](../profile/mimiss) | May 09, 2019 16:54
 
 May 09, 2019 16:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapping](../tag/mapping), [aerial-mapping](../tag/aerial-mapping), [question:balloon-mapping](../tag/question:balloon-mapping), [question:general](../tag/question:general), [question:sensor](../tag/question:sensor), [terrain-mapping](../tag/terrain-mapping)
 

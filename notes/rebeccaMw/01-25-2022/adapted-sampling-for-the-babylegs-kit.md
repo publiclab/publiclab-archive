@@ -1,6 +1,5 @@
 ---
-title: 'Adapted sampling for the Babylegs Kit'
-tagnames: education, water-quality, seeks:responses, microplastics, babylegs, plankton
+title: "Adapted sampling for the Babylegs Kit"\ntagnames: 'education, water-quality, seeks:responses, microplastics, babylegs, plankton'
 author: rebeccaMw
 path: /notes/rebeccaMw/01-25-2022/adapted-sampling-for-the-babylegs-kit.md
 nid: 28831
@@ -12,7 +11,7 @@ uid: 779054
 
 # Adapted sampling for the Babylegs Kit
 
-by [rebeccaMw](../profile/rebeccaMw) January 25, 2022 19:50
+by [rebeccaMw](../profile/rebeccaMw) | January 25, 2022 19:50
 
 January 25, 2022 19:50 | Tags: [education](../tag/education), [water-quality](../tag/water-quality), [seeks:responses](../tag/seeks:responses), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [plankton](../tag/plankton)
 

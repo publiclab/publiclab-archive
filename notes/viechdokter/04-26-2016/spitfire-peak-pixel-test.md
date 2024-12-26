@@ -1,6 +1,5 @@
 ---
-title: 'Spitfire peak pixel test'
-tagnames: spectrometer, cfl, desktop-spectrometer, timeseries, spectrum, peak_wavelengths, intensities
+title: "Spitfire peak pixel test"\ntagnames: 'spectrometer, cfl, desktop-spectrometer, timeseries, spectrum, peak_wavelengths, intensities'
 author: viechdokter
 path: /notes/viechdokter/04-26-2016/spitfire-peak-pixel-test.md
 nid: 13033
@@ -12,7 +11,7 @@ uid: 468990
 
 # Spitfire peak pixel test
 
-by [viechdokter](../profile/viechdokter) April 26, 2016 22:45
+by [viechdokter](../profile/viechdokter) | April 26, 2016 22:45
 
 April 26, 2016 22:45 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [desktop-spectrometer](../tag/desktop-spectrometer), [timeseries](../tag/timeseries), [spectrum](../tag/spectrum), [peak_wavelengths](../tag/peak_wavelengths), [intensities](../tag/intensities)
 

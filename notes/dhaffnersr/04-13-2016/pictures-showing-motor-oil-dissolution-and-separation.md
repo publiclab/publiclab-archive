@@ -1,6 +1,5 @@
 ---
-title: 'Pictures showing motor oil dissolution and separation'
-tagnames: 
+title: "Pictures showing motor oil dissolution and separation"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-13-2016/pictures-showing-motor-oil-dissolution-and-separation.md
 nid: 12968
@@ -12,7 +11,7 @@ uid: 461120
 
 # Pictures showing motor oil dissolution and separation
 
-by [dhaffnersr](../profile/dhaffnersr) April 13, 2016 19:03
+by [dhaffnersr](../profile/dhaffnersr) | April 13, 2016 19:03
 
 April 13, 2016 19:03 | Tags: 
 

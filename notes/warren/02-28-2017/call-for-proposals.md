@@ -1,6 +1,5 @@
 ---
-title: 'Call for Summer of Code 2017 proposals!'
-tagnames: software, gsoc, wwg, gsoc-2017, rgsoc, soc, soc-2017, rgsoc-2017, call-for-proposals
+title: "Call for Summer of Code 2017 proposals!"\ntagnames: 'software, gsoc, wwg, gsoc-2017, rgsoc, soc, soc-2017, rgsoc-2017, call-for-proposals'
 author: warren
 path: /notes/warren/02-28-2017/call-for-proposals.md
 nid: 13975
@@ -12,7 +11,7 @@ uid: 1
 
 # Call for Summer of Code 2017 proposals!
 
-by [warren](../profile/warren) February 28, 2017 20:01
+by [warren](../profile/warren) | February 28, 2017 20:01
 
 February 28, 2017 20:01 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [wwg](../tag/wwg), [gsoc-2017](../tag/gsoc-2017), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [call-for-proposals](../tag/call-for-proposals)
 

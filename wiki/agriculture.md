@@ -1,6 +1,5 @@
 ---
-title: 'Agriculture'
-tagnames: cafo
+title: "Agriculture"\ntagnames: 'cafo'
 author: stevie
 path: /wiki/agriculture.md
 nid: 21067

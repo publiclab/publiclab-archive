@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer for analysing garden soil'
-tagnames: spectrometer, soil, spectrometer-calibration, garden, slit-width, spectrum-comparisons, nitrogen, phosphates, first-time-poster, project:water-quality, potash
+title: "Spectrometer for analysing garden soil"\ntagnames: 'spectrometer, soil, spectrometer-calibration, garden, slit-width, spectrum-comparisons, nitrogen, phosphates, first-time-poster, project:water-quality, potash'
 author: Guillaume123
 path: /notes/Guillaume123/01-21-2015/spectrometer-for-analysing-garden-soil.md
 nid: 11535
@@ -12,7 +11,7 @@ uid: 284858
 
 # Spectrometer for analysing garden soil
 
-by [Guillaume123](../profile/Guillaume123) January 21, 2015 19:52
+by [Guillaume123](../profile/Guillaume123) | January 21, 2015 19:52
 
 January 21, 2015 19:52 | Tags: [spectrometer](../tag/spectrometer), [soil](../tag/soil), [spectrometer-calibration](../tag/spectrometer-calibration), [garden](../tag/garden), [slit-width](../tag/slit-width), [spectrum-comparisons](../tag/spectrum-comparisons), [nitrogen](../tag/nitrogen), [phosphates](../tag/phosphates), [first-time-poster](../tag/first-time-poster), [project:water-quality](../tag/project:water-quality), [potash](../tag/potash)
 

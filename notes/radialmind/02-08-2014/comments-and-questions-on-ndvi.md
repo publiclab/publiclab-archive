@@ -1,6 +1,5 @@
 ---
-title: 'Comments and questions on NDVI'
-tagnames: near-infrared-camera, ndvi, infragram, wratten25a, first-time-poster
+title: "Comments and questions on NDVI"\ntagnames: 'near-infrared-camera, ndvi, infragram, wratten25a, first-time-poster'
 author: radialmind
 path: /notes/radialmind/02-08-2014/comments-and-questions-on-ndvi.md
 nid: 10021
@@ -12,7 +11,7 @@ uid: 170347
 
 # Comments and questions on NDVI
 
-by [radialmind](../profile/radialmind) February 08, 2014 12:54
+by [radialmind](../profile/radialmind) | February 08, 2014 12:54
 
 February 08, 2014 12:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [wratten25a](../tag/wratten25a), [first-time-poster](../tag/first-time-poster)
 

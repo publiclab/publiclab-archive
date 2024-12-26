@@ -1,6 +1,5 @@
 ---
-title: 'Soil testing at a massive construction site in the Lower East Side'
-tagnames: new-york-city, soil, air-quality, nyc, northeast, lead, soil-testing, oil-and-gas, issue-brief, soil-contamination, with:lesbreathe, lower-east-side
+title: "Soil testing at a massive construction site in the Lower East Side"\ntagnames: 'new-york-city, soil, air-quality, nyc, northeast, lead, soil-testing, oil-and-gas, issue-brief, soil-contamination, with:lesbreathe, lower-east-side'
 author: bhamster
 path: /notes/bhamster/04-22-2021/soil-testing-at-a-massive-construction-site-in-the-lower-east-side.md
 nid: 25829
@@ -12,7 +11,7 @@ uid: 664477
 
 # Soil testing at a massive construction site in the Lower East Side
 
-by [bhamster](../profile/bhamster) April 22, 2021 00:59
+by [bhamster](../profile/bhamster) | April 22, 2021 00:59
 
 April 22, 2021 00:59 | Tags: [new-york-city](../tag/new-york-city), [soil](../tag/soil), [air-quality](../tag/air-quality), [nyc](../tag/nyc), [northeast](../tag/northeast), [lead](../tag/lead), [soil-testing](../tag/soil-testing), [oil-and-gas](../tag/oil-and-gas), [issue-brief](../tag/issue-brief), [soil-contamination](../tag/soil-contamination), [with:lesbreathe](../tag/with:lesbreathe), [lower-east-side](../tag/lower-east-side)
 

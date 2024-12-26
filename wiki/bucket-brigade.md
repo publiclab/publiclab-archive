@@ -1,6 +1,5 @@
 ---
-title: 'bucket-brigade'
-tagnames: 
+title: "bucket-brigade"\ntagnames: ''
 author: amocorro
 path: /wiki/bucket-brigade.md
 nid: 26032

@@ -1,6 +1,5 @@
 ---
-title: 'Student Survey Results'
-tagnames: new-york-city, cypress-hills, chaq, air-quality, air-quality-egg, first-time-poster
+title: "Student Survey Results"\ntagnames: 'new-york-city, cypress-hills, chaq, air-quality, air-quality-egg, first-time-poster'
 author: msmelody
 path: /notes/msmelody/07-25-2013/student-survey-results.md
 nid: 8929
@@ -12,7 +11,7 @@ uid: 163752
 
 # Student Survey Results
 
-by [msmelody](../profile/msmelody) July 25, 2013 22:27
+by [msmelody](../profile/msmelody) | July 25, 2013 22:27
 
 July 25, 2013 22:27 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg), [first-time-poster](../tag/first-time-poster)
 

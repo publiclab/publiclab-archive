@@ -1,6 +1,5 @@
 ---
-title: 'Barnraising 2015 Photos Bronwen'
-tagnames: barnraising, photos, barnraising-2015
+title: "Barnraising 2015 Photos Bronwen"\ntagnames: 'barnraising, photos, barnraising-2015'
 author: Bronwen
 path: /notes/bronwen/11-21-2015/barnraising-2015-photos-bronwen.md
 nid: 12429
@@ -10,7 +9,7 @@ uid: 237313
 
 # Barnraising 2015 Photos Bronwen
 
-by [Bronwen](../profile/Bronwen) November 21, 2015 19:16
+by [Bronwen](../profile/Bronwen) | November 21, 2015 19:16
 
 November 21, 2015 19:16 | Tags: [barnraising](../tag/barnraising), [photos](../tag/photos), [barnraising-2015](../tag/barnraising-2015)
 

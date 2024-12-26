@@ -1,6 +1,5 @@
 ---
-title: '170cm hydrogen-filled weather balloon burn test'
-tagnames: balloon-mapping, hydrogen, safety, diy-balloon
+title: "170cm hydrogen-filled weather balloon burn test"\ntagnames: 'balloon-mapping, hydrogen, safety, diy-balloon'
 author: mathew
 path: /notes/mathew/5-21-2012/170cm-hydrogen-filled-weather-balloon-burn-test.md
 nid: 2152
@@ -12,7 +11,7 @@ uid: 4
 
 # 170cm hydrogen-filled weather balloon burn test
 
-by [mathew](../profile/mathew) May 21, 2012 04:12
+by [mathew](../profile/mathew) | May 21, 2012 04:12
 
 May 21, 2012 04:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [hydrogen](../tag/hydrogen), [safety](../tag/safety), [diy-balloon](../tag/diy-balloon)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Introduction to Spectral Workbench'
-tagnames: 
+title: "Introduction to Spectral Workbench"\ntagnames: ''
 author: warren
 path: /notes/warren/2-2-2012/introduction-spectral-workbench.md
 nid: 744
@@ -12,7 +11,7 @@ uid: 1
 
 # Introduction to Spectral Workbench
 
-by [warren](../profile/warren) February 03, 2012 01:02
+by [warren](../profile/warren) | February 03, 2012 01:02
 
 February 03, 2012 01:02 | Tags: 
 

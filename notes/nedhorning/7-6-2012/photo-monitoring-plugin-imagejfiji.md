@@ -1,6 +1,5 @@
 ---
-title: 'Photo monitoring plugin for ImageJ/Fiji'
-tagnames: near-infrared-camera, plugin, photo-monitoring, infragram, timelapse
+title: "Photo monitoring plugin for ImageJ/Fiji"\ntagnames: 'near-infrared-camera, plugin, photo-monitoring, infragram, timelapse'
 author: nedhorning
 path: /notes/nedhorning/7-6-2012/photo-monitoring-plugin-imagejfiji.md
 nid: 2719
@@ -12,7 +11,7 @@ uid: 133
 
 # Photo monitoring plugin for ImageJ/Fiji
 
-by [nedhorning](../profile/nedhorning) July 06, 2012 21:31
+by [nedhorning](../profile/nedhorning) | July 06, 2012 21:31
 
 July 06, 2012 21:31 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [plugin](../tag/plugin), [photo-monitoring](../tag/photo-monitoring), [infragram](../tag/infragram), [timelapse](../tag/timelapse)
 

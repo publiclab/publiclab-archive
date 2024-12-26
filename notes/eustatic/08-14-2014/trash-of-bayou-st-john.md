@@ -1,6 +1,5 @@
 ---
-title: 'Trash of Bayou St John '
-tagnames: kite-mapping, restoration, trash, bsj, dredgefest
+title: "Trash of Bayou St John "\ntagnames: 'kite-mapping, restoration, trash, bsj, dredgefest'
 author: eustatic
 path: /08-14-2014/trash-of-bayou-st-john.md
 nid: 11050
@@ -12,7 +11,7 @@ uid: 379
 
 # Trash of Bayou St John 
 
-by [eustatic](../profile/eustatic) August 14, 2014 18:40
+by [eustatic](../profile/eustatic) | August 14, 2014 18:40
 
 August 14, 2014 18:40 | Tags: [kite-mapping](../tag/kite-mapping), [restoration](../tag/restoration), [trash](../tag/trash), [bsj](../tag/bsj), [dredgefest](../tag/dredgefest)
 

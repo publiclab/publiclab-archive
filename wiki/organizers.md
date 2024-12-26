@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab organizers'
-tagnames: community, organizers
+title: "Public Lab organizers"\ntagnames: 'community, organizers'
 author: Shannon
 path: /wiki/organizers.md
 nid: 1805

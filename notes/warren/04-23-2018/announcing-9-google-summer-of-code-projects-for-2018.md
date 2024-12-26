@@ -1,6 +1,5 @@
 ---
-title: 'Announcing 10 Summer of Code projects for 2018'
-tagnames: gsoc, google, blog, developers, code, wwg, soc, gsoc-2018, soc-2018, software-, summer
+title: "Announcing 10 Summer of Code projects for 2018"\ntagnames: 'gsoc, google, blog, developers, code, wwg, soc, gsoc-2018, soc-2018, software-, summer'
 author: warren
 path: /notes/warren/04-23-2018/announcing-9-google-summer-of-code-projects-for-2018.md
 nid: 16197
@@ -12,7 +11,7 @@ uid: 1
 
 # Announcing 10 Summer of Code projects for 2018
 
-by [warren](../profile/warren) April 23, 2018 16:24
+by [warren](../profile/warren) | April 23, 2018 16:24
 
 April 23, 2018 16:24 | Tags: [gsoc](../tag/gsoc), [google](../tag/google), [blog](../tag/blog), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [software-](../tag/software-), [summer](../tag/summer)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Reflections on Sensor Journalism'
-tagnames: 
+title: "Reflections on Sensor Journalism"\ntagnames: ''
 author: AbbeyCollins
 path: /notes/AbbeyCollins/10-06-2014/reflections-on-sensor-journalism.md
 nid: 11231
@@ -12,7 +11,7 @@ uid: 428043
 
 # Reflections on Sensor Journalism
 
-by [AbbeyCollins](../profile/AbbeyCollins) October 06, 2014 01:33
+by [AbbeyCollins](../profile/AbbeyCollins) | October 06, 2014 01:33
 
 October 06, 2014 01:33 | Tags: 
 

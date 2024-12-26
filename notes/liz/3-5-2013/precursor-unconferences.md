@@ -1,6 +1,5 @@
 ---
-title: 'precursor to "unconferences"'
-tagnames: barnraising, 5bf, five-borough-farm, open-space-technology
+title: "precursor to "unconferences""\ntagnames: 'barnraising, 5bf, five-borough-farm, open-space-technology'
 author: liz
 path: /notes/liz/3-5-2013/precursor-unconferences.md
 nid: 6209
@@ -12,7 +11,7 @@ uid: 7
 
 # precursor to "unconferences"
 
-by [liz](../profile/liz) March 05, 2013 16:55
+by [liz](../profile/liz) | March 05, 2013 16:55
 
 March 05, 2013 16:55 | Tags: [barnraising](../tag/barnraising), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [open-space-technology](../tag/open-space-technology)
 

@@ -1,6 +1,5 @@
 ---
-title: 'http://LinkData.org'
-tagnames: database, standards, lod, rdf, data
+title: "http://LinkData.org"\ntagnames: 'database, standards, lod, rdf, data'
 author: davidgifford
 path: /wiki/http-linkdata-org.md
 nid: 6970

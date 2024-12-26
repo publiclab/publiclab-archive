@@ -1,6 +1,5 @@
 ---
-title: 'All the Shingle Ladies '
-tagnames: balloon-mapping, event, hidden:response, response:14179, roof, shingle, dorm
+title: "All the Shingle Ladies "\ntagnames: 'balloon-mapping, event, hidden:response, response:14179, roof, shingle, dorm'
 author: section1bp
 path: /notes/section1bp/05-30-2017/all-the-shingle-ladies.md
 nid: 14241
@@ -12,7 +11,7 @@ uid: 506910
 
 # All the Shingle Ladies 
 
-by [section1bp](../profile/section1bp) May 30, 2017 16:16
+by [section1bp](../profile/section1bp) | May 30, 2017 16:16
 
 May 30, 2017 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179), [roof](../tag/roof), [shingle](../tag/shingle), [dorm](../tag/dorm)
 

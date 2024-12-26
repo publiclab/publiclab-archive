@@ -1,6 +1,5 @@
 ---
-title: 'Test Rig for Portable Spectrometer'
-tagnames: spectrometer, light-source, portable
+title: "Test Rig for Portable Spectrometer"\ntagnames: 'spectrometer, light-source, portable'
 author: silverhammer
 path: /notes/silverhammer/03-20-2014/test-rig-for-portable-spectrometer.md
 nid: 10209
@@ -12,7 +11,7 @@ uid: 420530
 
 # Test Rig for Portable Spectrometer
 
-by [silverhammer](../profile/silverhammer) March 20, 2014 07:43
+by [silverhammer](../profile/silverhammer) | March 20, 2014 07:43
 
 March 20, 2014 07:43 | Tags: [spectrometer](../tag/spectrometer), [light-source](../tag/light-source), [portable](../tag/portable)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Arthur W. Mears Kite Balloon, archetype for Kingfisher, Skystar?'
-tagnames: balloon-mapping, kite-mapping, kite-balloon-hybrid
+title: "Arthur W. Mears Kite Balloon, archetype for Kingfisher, Skystar?"\ntagnames: 'balloon-mapping, kite-mapping, kite-balloon-hybrid'
 author: mathew
 path: /notes/mathew/4-13-2012/arthur-w-mears-kite-balloon-archetype-kingfisher-skystar.md
 nid: 1668
@@ -12,7 +11,7 @@ uid: 4
 
 # Arthur W. Mears Kite Balloon, archetype for Kingfisher, Skystar?
 
-by [mathew](../profile/mathew) April 13, 2012 18:03
+by [mathew](../profile/mathew) | April 13, 2012 18:03
 
 April 13, 2012 18:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
 

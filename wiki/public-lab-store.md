@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Store'
-tagnames: kits, store
+title: "Public Lab Store"\ntagnames: 'kits, store'
 author: Bronwen
 path: /wiki/public-lab-store.md
 nid: 19127

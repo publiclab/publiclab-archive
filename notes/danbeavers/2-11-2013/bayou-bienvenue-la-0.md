@@ -1,6 +1,5 @@
 ---
-title: 'Bayou Bienvenue LA'
-tagnames: gulf-coast, panorama, photo, bienvenue
+title: "Bayou Bienvenue LA"\ntagnames: 'gulf-coast, panorama, photo, bienvenue'
 author: danbeavers
 path: /notes/danbeavers/2-11-2013/bayou-bienvenue-la-0.md
 nid: 5945
@@ -12,7 +11,7 @@ uid: 51
 
 # Bayou Bienvenue LA
 
-by [danbeavers](../profile/danbeavers) February 11, 2013 18:34
+by [danbeavers](../profile/danbeavers) | February 11, 2013 18:34
 
 February 11, 2013 18:34 | Tags: [gulf-coast](../tag/gulf-coast), [panorama](../tag/panorama), [photo](../tag/photo), [bienvenue](../tag/bienvenue)
 

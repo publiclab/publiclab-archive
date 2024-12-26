@@ -1,6 +1,5 @@
 ---
-title: 'Digging into soil research: Public Lab virtual event on soil contamination'
-tagnames: event, soil, research, event:rsvp, rsvp:bronwen, soil-testing, reviews, soil-contamination, research-area-review, rsvp:jjcreedon, rsvp:cgram34, rsvp:gteix, rsvp:benperrin, rsvp:sureta, rsvp:bernard
+title: "Digging into soil research: Public Lab virtual event on soil contamination"\ntagnames: 'event, soil, research, event:rsvp, rsvp:bronwen, soil-testing, reviews, soil-contamination, research-area-review, rsvp:jjcreedon, rsvp:cgram34, rsvp:gteix, rsvp:benperrin, rsvp:sureta, rsvp:bernard'
 author: bhamster
 path: /notes/bhamster/03-04-2021/digging-into-soil-research-public-lab-virtual-event-on-soil-contamination.md
 nid: 25843
@@ -12,7 +11,7 @@ uid: 664477
 
 # Digging into soil research: Public Lab virtual event on soil contamination
 
-by [bhamster](../profile/bhamster) March 04, 2021 17:27
+by [bhamster](../profile/bhamster) | March 04, 2021 17:27
 
 March 04, 2021 17:27 | Tags: [event](../tag/event), [soil](../tag/soil), [research](../tag/research), [event:rsvp](../tag/event:rsvp), [rsvp:bronwen](../tag/rsvp:bronwen), [soil-testing](../tag/soil-testing), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review), [rsvp:jjcreedon](../tag/rsvp:jjcreedon), [rsvp:cgram34](../tag/rsvp:cgram34), [rsvp:gteix](../tag/rsvp:gteix), [rsvp:benperrin](../tag/rsvp:benperrin), [rsvp:sureta](../tag/rsvp:sureta), [rsvp:bernard](../tag/rsvp:bernard)
 

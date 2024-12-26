@@ -1,6 +1,5 @@
 ---
-title: 'PLab 3 Sanm Camera Focus'
-tagnames: spectrometer, webcam, focus, barnstar:empiricism, spec-3
+title: "PLab 3 Sanm Camera Focus"\ntagnames: 'spectrometer, webcam, focus, barnstar:empiricism, spec-3'
 author: stoft
 path: /notes/stoft/02-26-2015/plab-3-sanm-camera-focus.md
 nid: 11642
@@ -12,7 +11,7 @@ uid: 54025
 
 # PLab 3 Sanm Camera Focus
 
-by [stoft](../profile/stoft) February 26, 2015 20:15
+by [stoft](../profile/stoft) | February 26, 2015 20:15
 
 February 26, 2015 20:15 | Tags: [spectrometer](../tag/spectrometer), [webcam](../tag/webcam), [focus](../tag/focus), [barnstar:empiricism](../tag/barnstar:empiricism), [spec-3](../tag/spec-3)
 

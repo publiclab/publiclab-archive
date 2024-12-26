@@ -1,6 +1,5 @@
 ---
-title: 'USEPA'
-tagnames: united-states, epa, regulations, law-and-policy, parent:law-and-policy
+title: "USEPA"\ntagnames: 'united-states, epa, regulations, law-and-policy, parent:law-and-policy'
 author: liz
 path: /wiki/usepa.md
 nid: 12259

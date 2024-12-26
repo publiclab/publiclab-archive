@@ -1,6 +1,5 @@
 ---
-title: 'Air Sampling with Tedlar Bags'
-tagnames: air-quality, methods, bucket-brigade, lat:41, lon:-71, zoom:6, air-sensor, bucket-monitor
+title: "Air Sampling with Tedlar Bags"\ntagnames: 'air-quality, methods, bucket-brigade, lat:41, lon:-71, zoom:6, air-sensor, bucket-monitor'
 author: kgradow1
 path: /notes/kgradow1/06-03-2020/grab-sampling-with-tedlar-bags.md
 nid: 23773
@@ -12,7 +11,7 @@ uid: 297929
 
 # Air Sampling with Tedlar Bags
 
-by [kgradow1](../profile/kgradow1) June 03, 2020 18:28
+by [kgradow1](../profile/kgradow1) | June 03, 2020 18:28
 
 June 03, 2020 18:28 | Tags: [air-quality](../tag/air-quality), [methods](../tag/methods), [bucket-brigade](../tag/bucket-brigade), [lat:41](../tag/lat:41), [lon:-71](../tag/lon:-71), [zoom:6](../tag/zoom:6), [air-sensor](../tag/air-sensor), [bucket-monitor](../tag/bucket-monitor)
 

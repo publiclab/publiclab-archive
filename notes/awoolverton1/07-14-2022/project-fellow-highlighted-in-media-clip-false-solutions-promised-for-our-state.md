@@ -1,6 +1,5 @@
 ---
-title: 'Community Air Monitoring Highlighted in Media Clip; False Solutions Promised for Our State'
-tagnames: blog, zoom:6, with:travislondon, formosaplastics, lat:30.017929, lon:-90.791322
+title: "Community Air Monitoring Highlighted in Media Clip; False Solutions Promised for Our State"\ntagnames: 'blog, zoom:6, with:travislondon, formosaplastics, lat:30.017929, lon:-90.791322'
 author: awoolverton1
 path: /notes/awoolverton1/07-14-2022/project-fellow-highlighted-in-media-clip-false-solutions-promised-for-our-state.md
 nid: 31847
@@ -12,7 +11,7 @@ uid: 778039
 
 # Community Air Monitoring Highlighted in Media Clip; False Solutions Promised for Our State
 
-by [awoolverton1](../profile/awoolverton1) July 14, 2022 04:12
+by [awoolverton1](../profile/awoolverton1) | July 14, 2022 04:12
 
 July 14, 2022 04:12 | Tags: [blog](../tag/blog), [zoom:6](../tag/zoom:6), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics), [lat:30.017929](../tag/lat:30.017929), [lon:-90.791322](../tag/lon:-90.791322)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Roomba air quality mapping at Ethnographic Terminalia exhibit in Montreal'
-tagnames: 
+title: "Roomba air quality mapping at Ethnographic Terminalia exhibit in Montreal"\ntagnames: ''
 author: Shannon
 path: /notes/shannon/11-17-2011/roomba-air-quality-mapping-ethnographic-terminalia-exhibit-montreal.md
 nid: 566
@@ -12,7 +11,7 @@ uid: 9
 
 # Roomba air quality mapping at Ethnographic Terminalia exhibit in Montreal
 
-by [Shannon](../profile/Shannon) November 17, 2011 21:27
+by [Shannon](../profile/Shannon) | November 17, 2011 21:27
 
 November 17, 2011 21:27 | Tags: 
 

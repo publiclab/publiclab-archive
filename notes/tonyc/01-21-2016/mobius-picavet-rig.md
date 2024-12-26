@@ -1,6 +1,5 @@
 ---
-title: 'Mobius Picavet Rig'
-tagnames: picavet, diy-mount-kit
+title: "Mobius Picavet Rig"\ntagnames: 'picavet, diy-mount-kit'
 author: tonyc
 path: /notes/tonyc/01-21-2016/mobius-picavet-rig.md
 nid: 12598
@@ -12,7 +11,7 @@ uid: 447491
 
 # Mobius Picavet Rig
 
-by [tonyc](../profile/tonyc) January 21, 2016 19:36
+by [tonyc](../profile/tonyc) | January 21, 2016 19:36
 
 January 21, 2016 19:36 | Tags: [picavet](../tag/picavet), [diy-mount-kit](../tag/diy-mount-kit)
 

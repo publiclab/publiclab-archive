@@ -1,6 +1,5 @@
 ---
-title: 'MapMaker Training'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping
+title: "MapMaker Training"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping'
 author: gonzoearth
 path: /notes/gonzoearth/3-22-2012/mapmaker-training.md
 nid: 1515
@@ -12,7 +11,7 @@ uid: 12
 
 # MapMaker Training
 
-by [gonzoearth](../profile/gonzoearth) March 22, 2012 04:20
+by [gonzoearth](../profile/gonzoearth) | March 22, 2012 04:20
 
 March 22, 2012 04:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Potential 2014 Northeast Tool-focused Barnraising '
-tagnames: barnraising, event, massachusetts, plymouth, tidmarsh, list:plots-barnraising, northeast
+title: "Potential 2014 Northeast Tool-focused Barnraising "\ntagnames: 'barnraising, event, massachusetts, plymouth, tidmarsh, list:plots-barnraising, northeast'
 author: Hudonnoodles
 path: /wiki/potential-2014-northeast-tool-focused-barnraising.md
 nid: 10325

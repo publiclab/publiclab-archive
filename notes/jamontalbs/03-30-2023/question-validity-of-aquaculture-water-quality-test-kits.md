@@ -1,6 +1,5 @@
 ---
-title: 'Question: Validity of Aquaculture Water Quality Test Kits'
-tagnames: water-quality, question:general, general, first-time-poster, environmental-monitoring, effluent-sampling, physiochemical-analysis, water-test-kit, environmental-conservation
+title: "Question: Validity of Aquaculture Water Quality Test Kits"\ntagnames: 'water-quality, question:general, general, first-time-poster, environmental-monitoring, effluent-sampling, physiochemical-analysis, water-test-kit, environmental-conservation'
 author: jamontalbs
 path: /notes/jamontalbs/03-30-2023/question-validity-of-aquaculture-water-quality-test-kits.md
 nid: 38773
@@ -10,7 +9,7 @@ uid: 838180
 
 # Question: Validity of Aquaculture Water Quality Test Kits
 
-by [jamontalbs](../profile/jamontalbs) March 30, 2023 08:51
+by [jamontalbs](../profile/jamontalbs) | March 30, 2023 08:51
 
 March 30, 2023 08:51 | Tags: [water-quality](../tag/water-quality), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [environmental-monitoring](../tag/environmental-monitoring), [effluent-sampling](../tag/effluent-sampling), [physiochemical-analysis](../tag/physiochemical-analysis), [water-test-kit](../tag/water-test-kit), [environmental-conservation](../tag/environmental-conservation)
 

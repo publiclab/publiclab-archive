@@ -1,6 +1,5 @@
 ---
-title: 'Sensor Jouralism Reflection'
-tagnames: sensor-journalism
+title: "Sensor Jouralism Reflection"\ntagnames: 'sensor-journalism'
 author: JenniferO
 path: /notes/JenniferO/02-23-2015/sensor-jouralism-reflection.md
 nid: 11627
@@ -12,7 +11,7 @@ uid: 434163
 
 # Sensor Jouralism Reflection
 
-by [JenniferO](../profile/JenniferO) February 23, 2015 17:59
+by [JenniferO](../profile/JenniferO) | February 23, 2015 17:59
 
 February 23, 2015 17:59 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

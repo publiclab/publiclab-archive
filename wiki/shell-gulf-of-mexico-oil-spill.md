@@ -1,6 +1,5 @@
 ---
-title: 'Shell Gulf of Mexico Oil Spill'
-tagnames: oil, gulfcoast, oilspill, shelloil, gulfmonitoringconsortium, gulfofmexico
+title: "Shell Gulf of Mexico Oil Spill"\ntagnames: 'oil, gulfcoast, oilspill, shelloil, gulfmonitoringconsortium, gulfofmexico'
 author: Shannon
 path: /wiki/shell-gulf-of-mexico-oil-spill.md
 nid: 13130

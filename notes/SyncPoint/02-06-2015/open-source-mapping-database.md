@@ -1,6 +1,5 @@
 ---
-title: 'Open source mapping database'
-tagnames: 
+title: "Open source mapping database"\ntagnames: ''
 author: SyncPoint
 path: /notes/SyncPoint/02-06-2015/open-source-mapping-database.md
 nid: 11558
@@ -12,7 +11,7 @@ uid: 434942
 
 # Open source mapping database
 
-by [SyncPoint](../profile/SyncPoint) February 06, 2015 19:45
+by [SyncPoint](../profile/SyncPoint) | February 06, 2015 19:45
 
 February 06, 2015 19:45 | Tags: 
 

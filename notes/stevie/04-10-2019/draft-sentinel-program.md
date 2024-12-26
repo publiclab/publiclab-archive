@@ -1,6 +1,5 @@
 ---
-title: 'Draft Sand Sentinel Program '
-tagnames: wisconsin, blog, frac-sand, pm, midwest, parent:frac-sand, sentinel, parent:the-sand-sentinel-program, sand-sentinel
+title: "Draft Sand Sentinel Program "\ntagnames: 'wisconsin, blog, frac-sand, pm, midwest, parent:frac-sand, sentinel, parent:the-sand-sentinel-program, sand-sentinel'
 author: stevie
 path: /notes/stevie/04-10-2019/draft-sentinel-program.md
 nid: 19030
@@ -12,7 +11,7 @@ uid: 422561
 
 # Draft Sand Sentinel Program 
 
-by [stevie](../profile/stevie) April 10, 2019 20:07
+by [stevie](../profile/stevie) | April 10, 2019 20:07
 
 April 10, 2019 20:07 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [parent:frac-sand](../tag/parent:frac-sand), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sand-sentinel](../tag/sand-sentinel)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Flight-ready MK111 timer'
-tagnames: near-infrared-camera, kite-mapping, grassrootsmapping, triggering
+title: "Flight-ready MK111 timer"\ntagnames: 'near-infrared-camera, kite-mapping, grassrootsmapping, triggering'
 author: cfastie
 path: /notes/cfastie/5-10-2012/flight-ready-mk111-timer.md
 nid: 1946
@@ -12,7 +11,7 @@ uid: 554
 
 # Flight-ready MK111 timer
 
-by [cfastie](../profile/cfastie) May 10, 2012 15:07
+by [cfastie](../profile/cfastie) | May 10, 2012 15:07
 
 May 10, 2012 15:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [triggering](../tag/triggering)
 

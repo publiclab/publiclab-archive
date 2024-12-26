@@ -1,6 +1,5 @@
 ---
-title: 'method-template-lite'
-tagnames: template, parent:templates
+title: "method-template-lite"\ntagnames: 'template, parent:templates'
 author: warren
 path: /wiki/method-template-lite.md
 nid: 14552

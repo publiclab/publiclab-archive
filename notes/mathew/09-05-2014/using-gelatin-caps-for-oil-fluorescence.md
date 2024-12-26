@@ -1,6 +1,5 @@
 ---
-title: 'Using Gelatin Caps for oil fluorescence'
-tagnames: spectrometer, oil, fluorescence, cuvette, oil-testing-kit, brightness, foil, reflector
+title: "Using Gelatin Caps for oil fluorescence"\ntagnames: 'spectrometer, oil, fluorescence, cuvette, oil-testing-kit, brightness, foil, reflector'
 author: mathew
 path: /notes/mathew/09-05-2014/using-gelatin-caps-for-oil-fluorescence.md
 nid: 11104
@@ -12,7 +11,7 @@ uid: 4
 
 # Using Gelatin Caps for oil fluorescence
 
-by [mathew](../profile/mathew) September 05, 2014 02:00
+by [mathew](../profile/mathew) | September 05, 2014 02:00
 
 September 05, 2014 02:00 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [brightness](../tag/brightness), [foil](../tag/foil), [reflector](../tag/reflector)
 

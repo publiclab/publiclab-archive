@@ -1,6 +1,5 @@
 ---
-title: 'Make an accurate soda bottle rain gauge '
-tagnames: stormwater, activity:stormwater, raingauge, rain, activity:raingauge
+title: "Make an accurate soda bottle rain gauge "\ntagnames: 'stormwater, activity:stormwater, raingauge, rain, activity:raingauge'
 author: stevie
 path: /notes/stevie/06-07-2018/accurate-soda-bottle-rain-gauge.md
 nid: 16448
@@ -12,7 +11,7 @@ uid: 422561
 
 # Make an accurate soda bottle rain gauge 
 
-by [stevie](../profile/stevie) June 07, 2018 17:42
+by [stevie](../profile/stevie) | June 07, 2018 17:42
 
 June 07, 2018 17:42 | Tags: [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater), [raingauge](../tag/raingauge), [rain](../tag/rain), [activity:raingauge](../tag/activity:raingauge)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Open Pipe Kit'
-tagnames: fido, open-pipe-kit, parent:data-logging
+title: "Open Pipe Kit"\ntagnames: 'fido, open-pipe-kit, parent:data-logging'
 author: rjstatic
 path: /wiki/open-pipe-kit.md
 nid: 11314

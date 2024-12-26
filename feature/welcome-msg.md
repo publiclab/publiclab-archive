@@ -1,6 +1,5 @@
 ---
-title: 'welcome-msg'
-tagnames: 
+title: "welcome-msg"\ntagnames: ''
 author: warren
 path: /feature/welcome-msg.md
 nid: 22426

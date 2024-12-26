@@ -1,6 +1,5 @@
 ---
-title: 'iLAND Symposium 2012'
-tagnames: ilab
+title: "iLAND Symposium 2012"\ntagnames: 'ilab'
 author: liz
 path: /wiki/iland-symposium-2012.md
 nid: 830

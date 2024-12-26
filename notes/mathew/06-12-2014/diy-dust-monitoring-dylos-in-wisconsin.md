@@ -1,6 +1,5 @@
 ---
-title: 'DIY dust monitoring: Dylos in Wisconsin '
-tagnames: wisconsin, air-quality, dust, silica, midwest, particle-sensing, particulate-monitoring, openair, air-sensors
+title: "DIY dust monitoring: Dylos in Wisconsin "\ntagnames: 'wisconsin, air-quality, dust, silica, midwest, particle-sensing, particulate-monitoring, openair, air-sensors'
 author: mathew
 path: /notes/mathew/06-12-2014/diy-dust-monitoring-dylos-in-wisconsin.md
 nid: 10552
@@ -12,7 +11,7 @@ uid: 4
 
 # DIY dust monitoring: Dylos in Wisconsin 
 
-by [mathew](../profile/mathew) June 12, 2014 02:13
+by [mathew](../profile/mathew) | June 12, 2014 02:13
 
 June 12, 2014 02:13 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [midwest](../tag/midwest), [particle-sensing](../tag/particle-sensing), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [air-sensors](../tag/air-sensors)
 

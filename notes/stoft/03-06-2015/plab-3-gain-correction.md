@@ -1,6 +1,5 @@
 ---
-title: 'PLab 3 Gain Correction'
-tagnames: spectrometer, intensity-calibration, barnstar:basic, intensity, amplitude, gain, gain-correction, response:11638, activity:spectrometry
+title: "PLab 3 Gain Correction"\ntagnames: 'spectrometer, intensity-calibration, barnstar:basic, intensity, amplitude, gain, gain-correction, response:11638, activity:spectrometry'
 author: stoft
 path: /notes/stoft/03-06-2015/plab-3-gain-correction.md
 nid: 11658
@@ -12,7 +11,7 @@ uid: 54025
 
 # PLab 3 Gain Correction
 
-by [stoft](../profile/stoft) March 06, 2015 07:19
+by [stoft](../profile/stoft) | March 06, 2015 07:19
 
 March 06, 2015 07:19 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [barnstar:basic](../tag/barnstar:basic), [intensity](../tag/intensity), [amplitude](../tag/amplitude), [gain](../tag/gain), [gain-correction](../tag/gain-correction), [response:11638](../tag/response:11638), [activity:spectrometry](../tag/activity:spectrometry)
 

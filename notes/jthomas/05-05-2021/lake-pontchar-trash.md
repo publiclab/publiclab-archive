@@ -1,6 +1,5 @@
 ---
-title: 'Lake Pontchar-trash?'
-tagnames: lat:30, issue-brief, lon:-90, first-time-poster, zoom:10
+title: "Lake Pontchar-trash?"\ntagnames: 'lat:30, issue-brief, lon:-90, first-time-poster, zoom:10'
 author: jthomas
 path: /notes/jthomas/05-05-2021/lake-pontchar-trash.md
 nid: 26503
@@ -12,7 +11,7 @@ uid: 752053
 
 # Lake Pontchar-trash?
 
-by [jthomas](../profile/jthomas) May 05, 2021 21:18
+by [jthomas](../profile/jthomas) | May 05, 2021 21:18
 
 May 05, 2021 21:18 | Tags: [lat:30](../tag/lat:30), [issue-brief](../tag/issue-brief), [lon:-90](../tag/lon:-90), [first-time-poster](../tag/first-time-poster), [zoom:10](../tag/zoom:10)
 

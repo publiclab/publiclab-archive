@@ -1,6 +1,5 @@
 ---
-title: 'bucket-monitor'
-tagnames: 
+title: "bucket-monitor"\ntagnames: ''
 author: liz
 path: /wiki/bucket-monitor.md
 nid: 23681

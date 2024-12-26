@@ -1,6 +1,5 @@
 ---
-title: 'UNESCO low cost equipment volumes'
-tagnames: documentation, laboratory, equipment
+title: "UNESCO low cost equipment volumes"\ntagnames: 'documentation, laboratory, equipment'
 author: imvec
 path: /notes/imvec/08-01-2018/unesco-low-cost-equipment-volumes.md
 nid: 16821
@@ -12,7 +11,7 @@ uid: 495038
 
 # UNESCO low cost equipment volumes
 
-by [imvec](../profile/imvec) August 01, 2018 15:45
+by [imvec](../profile/imvec) | August 01, 2018 15:45
 
 August 01, 2018 15:45 | Tags: [documentation](../tag/documentation), [laboratory](../tag/laboratory), [equipment](../tag/equipment)
 

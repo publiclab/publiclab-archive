@@ -1,6 +1,5 @@
 ---
-title: 'Microscope not focusing right'
-tagnames: microscope, general, question:microscope, community-microscope, question:community-microscope, first-time-poster
+title: "Microscope not focusing right"\ntagnames: 'microscope, general, question:microscope, community-microscope, question:community-microscope, first-time-poster'
 author: Meculus
 path: /notes/Meculus/01-05-2020/microscope-not-focusing-right.md
 nid: 22219
@@ -10,7 +9,7 @@ uid: 651005
 
 # Microscope not focusing right
 
-by [Meculus](../profile/Meculus) January 05, 2020 14:47
+by [Meculus](../profile/Meculus) | January 05, 2020 14:47
 
 January 05, 2020 14:47 | Tags: [microscope](../tag/microscope), [general](../tag/general), [question:microscope](../tag/question:microscope), [community-microscope](../tag/community-microscope), [question:community-microscope](../tag/question:community-microscope), [first-time-poster](../tag/first-time-poster)
 

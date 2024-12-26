@@ -1,6 +1,5 @@
 ---
-title: 'barnstars'
-tagnames: community, metrics, barnstars
+title: "barnstars"\ntagnames: 'community, metrics, barnstars'
 author: liz
 path: /notes/liz/4-13-2012/barnstars.md
 nid: 1663
@@ -12,7 +11,7 @@ uid: 7
 
 # barnstars
 
-by [liz](../profile/liz) April 13, 2012 04:03
+by [liz](../profile/liz) | April 13, 2012 04:03
 
 April 13, 2012 04:03 | Tags: [community](../tag/community), [metrics](../tag/metrics), [barnstars](../tag/barnstars)
 

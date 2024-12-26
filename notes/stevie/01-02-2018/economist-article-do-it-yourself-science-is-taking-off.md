@@ -1,6 +1,5 @@
 ---
-title: 'Economist Article: "Do-it-yourself science is taking off"'
-tagnames: news, blog, press, feature, economist
+title: "Economist Article: "Do-it-yourself science is taking off""\ntagnames: 'news, blog, press, feature, economist'
 author: stevie
 path: /notes/stevie/01-02-2018/economist-article-do-it-yourself-science-is-taking-off.md
 nid: 15454
@@ -12,7 +11,7 @@ uid: 422561
 
 # Economist Article: "Do-it-yourself science is taking off"
 
-by [stevie](../profile/stevie) January 02, 2018 19:58
+by [stevie](../profile/stevie) | January 02, 2018 19:58
 
 January 02, 2018 19:58 | Tags: [news](../tag/news), [blog](../tag/blog), [press](../tag/press), [feature](../tag/feature), [economist](../tag/economist)
 

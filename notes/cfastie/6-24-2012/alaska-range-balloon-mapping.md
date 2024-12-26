@@ -1,6 +1,5 @@
 ---
-title: 'Alaska Range balloon mapping'
-tagnames: balloon-mapping, kite-mapping, ground-control-points, alaska, akrange
+title: "Alaska Range balloon mapping"\ntagnames: 'balloon-mapping, kite-mapping, ground-control-points, alaska, akrange'
 author: cfastie
 path: /notes/cfastie/6-24-2012/alaska-range-balloon-mapping.md
 nid: 2623
@@ -12,7 +11,7 @@ uid: 554
 
 # Alaska Range balloon mapping
 
-by [cfastie](../profile/cfastie) June 25, 2012 02:31
+by [cfastie](../profile/cfastie) | June 25, 2012 02:31
 
 June 25, 2012 02:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ground-control-points](../tag/ground-control-points), [alaska](../tag/alaska), [akrange](../tag/akrange)
 

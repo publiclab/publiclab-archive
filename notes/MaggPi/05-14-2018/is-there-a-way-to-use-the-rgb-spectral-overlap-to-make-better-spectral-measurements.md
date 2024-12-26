@@ -1,6 +1,5 @@
 ---
-title: 'Is there a way to use  RGB spectral overlap to make better spectral measurements?'
-tagnames: spectral-analysis, gsoc, pi-camera, soc, raspberry-pi-cameras, lego-spectrometer, gsoc-2018, soc-2018
+title: "Is there a way to use  RGB spectral overlap to make better spectral measurements?"\ntagnames: 'spectral-analysis, gsoc, pi-camera, soc, raspberry-pi-cameras, lego-spectrometer, gsoc-2018, soc-2018'
 author: MaggPi
 path: /notes/MaggPi/05-14-2018/is-there-a-way-to-use-the-rgb-spectral-overlap-to-make-better-spectral-measurements.md
 nid: 16339
@@ -12,7 +11,7 @@ uid: 501996
 
 # Is there a way to use  RGB spectral overlap to make better spectral measurements?
 
-by [MaggPi](../profile/MaggPi) May 14, 2018 03:14
+by [MaggPi](../profile/MaggPi) | May 14, 2018 03:14
 
 May 14, 2018 03:14 | Tags: [spectral-analysis](../tag/spectral-analysis), [gsoc](../tag/gsoc), [pi-camera](../tag/pi-camera), [soc](../tag/soc), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [lego-spectrometer](../tag/lego-spectrometer), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018)
 

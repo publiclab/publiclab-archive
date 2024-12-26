@@ -1,6 +1,5 @@
 ---
-title: 'NDVI LED Simulator'
-tagnames: raspberry-pi, colormap, ndvi-calibrate, raspberry-pi-cameras, question:image-sequencer, noir
+title: "NDVI LED Simulator"\ntagnames: 'raspberry-pi, colormap, ndvi-calibrate, raspberry-pi-cameras, question:image-sequencer, noir'
 author: MaggPi
 path: /notes/MaggPi/07-24-2018/ndvi-led-simulator.md
 nid: 16777
@@ -12,7 +11,7 @@ uid: 501996
 
 # NDVI LED Simulator
 
-by [MaggPi](../profile/MaggPi) July 24, 2018 05:58
+by [MaggPi](../profile/MaggPi) | July 24, 2018 05:58
 
 July 24, 2018 05:58 | Tags: [raspberry-pi](../tag/raspberry-pi), [colormap](../tag/colormap), [ndvi-calibrate](../tag/ndvi-calibrate), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [question:image-sequencer](../tag/question:image-sequencer), [noir](../tag/noir)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Join DocCom -- the Barnraising documentation committee'
-tagnames: documentation, barnraising, lumcon, doccom, barnraiser, barnraising-2016, replication:15986
+title: "Join DocCom -- the Barnraising documentation committee"\ntagnames: 'documentation, barnraising, lumcon, doccom, barnraiser, barnraising-2016, replication:15986'
 author: warren
 path: /notes/warren/11-03-2016/join-doccom-the-barnraising-documentation-committee.md
 nid: 13675
@@ -12,7 +11,7 @@ uid: 1
 
 # Join DocCom -- the Barnraising documentation committee
 
-by [warren](../profile/warren) November 03, 2016 17:39
+by [warren](../profile/warren) | November 03, 2016 17:39
 
 November 03, 2016 17:39 | Tags: [documentation](../tag/documentation), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [barnraising-2016](../tag/barnraising-2016), [replication:15986](../tag/replication:15986)
 

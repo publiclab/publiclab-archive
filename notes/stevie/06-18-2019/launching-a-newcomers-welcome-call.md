@@ -1,6 +1,5 @@
 ---
-title: 'Launching a Newcomers Welcome Call! '
-tagnames: organizing, blog, getting-started, organizer, opencall, location:blurred, organize, zoom:6, place:australia, lat:-36, lon:143
+title: "Launching a Newcomers Welcome Call! "\ntagnames: 'organizing, blog, getting-started, organizer, opencall, location:blurred, organize, zoom:6, place:australia, lat:-36, lon:143'
 author: stevie
 path: /notes/stevie/06-18-2019/launching-a-newcomers-welcome-call.md
 nid: 19731
@@ -12,7 +11,7 @@ uid: 422561
 
 # Launching a Newcomers Welcome Call! 
 
-by [stevie](../profile/stevie) June 18, 2019 19:52
+by [stevie](../profile/stevie) | June 18, 2019 19:52
 
 June 18, 2019 19:52 | Tags: [organizing](../tag/organizing), [blog](../tag/blog), [getting-started](../tag/getting-started), [organizer](../tag/organizer), [opencall](../tag/opencall), [location:blurred](../tag/location:blurred), [organize](../tag/organize), [zoom:6](../tag/zoom:6), [place:australia](../tag/place:australia), [lat:-36](../tag/lat:-36), [lon:143](../tag/lon:143)
 

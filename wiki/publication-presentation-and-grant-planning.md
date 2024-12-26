@@ -1,6 +1,5 @@
 ---
-title: 'Publication, presentation and grant planning'
-tagnames: 
+title: "Publication, presentation and grant planning"\ntagnames: ''
 author: warren
 path: /wiki/publication-presentation-and-grant-planning.md
 nid: 51

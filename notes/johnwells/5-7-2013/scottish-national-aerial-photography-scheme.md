@@ -1,6 +1,5 @@
 ---
-title: 'The Scottish National Aerial Photography Scheme'
-tagnames: kite-mapping, infrared, kite, archaeology, kap, scotland, ir, infragram, children, infra-red, kite-photography
+title: "The Scottish National Aerial Photography Scheme"\ntagnames: 'kite-mapping, infrared, kite, archaeology, kap, scotland, ir, infragram, children, infra-red, kite-photography'
 author: John_Wells
 path: /notes/johnwells/5-7-2013/scottish-national-aerial-photography-scheme.md
 nid: 7288
@@ -12,7 +11,7 @@ uid: 372
 
 # The Scottish National Aerial Photography Scheme
 
-by [John_Wells](../profile/John_Wells) May 07, 2013 12:19
+by [John_Wells](../profile/John_Wells) | May 07, 2013 12:19
 
 May 07, 2013 12:19 | Tags: [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [kite](../tag/kite), [archaeology](../tag/archaeology), [kap](../tag/kap), [scotland](../tag/scotland), [ir](../tag/ir), [infragram](../tag/infragram), [children](../tag/children), [infra-red](../tag/infra-red), [kite-photography](../tag/kite-photography)
 

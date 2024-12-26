@@ -1,6 +1,5 @@
 ---
-title: 'Kite Anemometers'
-tagnames: wind-speed-meter, kite-anemometer, kite-wind-speed-meter
+title: "Kite Anemometers"\ntagnames: 'wind-speed-meter, kite-anemometer, kite-wind-speed-meter'
 author: ecta64
 path: /wiki/kite-anemometers.md
 nid: 13231

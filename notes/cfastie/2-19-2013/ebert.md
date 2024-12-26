@@ -1,6 +1,5 @@
 ---
-title: 'Ebert'
-tagnames: spectrometer, vermont, open-hardware, grating, desktop-spectrometer, ebert, upgrade:spectrometry
+title: "Ebert"\ntagnames: 'spectrometer, vermont, open-hardware, grating, desktop-spectrometer, ebert, upgrade:spectrometry'
 author: cfastie
 path: /notes/cfastie/2-19-2013/ebert.md
 nid: 6061
@@ -12,7 +11,7 @@ uid: 554
 
 # Ebert
 
-by [cfastie](../profile/cfastie) February 20, 2013 01:09
+by [cfastie](../profile/cfastie) | February 20, 2013 01:09
 
 February 20, 2013 01:09 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [open-hardware](../tag/open-hardware), [grating](../tag/grating), [desktop-spectrometer](../tag/desktop-spectrometer), [ebert](../tag/ebert), [upgrade:spectrometry](../tag/upgrade:spectrometry)
 

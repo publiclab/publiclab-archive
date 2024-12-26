@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer preorders'
-tagnames: spectrometer
+title: "Spectrometer preorders"\ntagnames: 'spectrometer'
 author: warren
 path: /wiki/spectrometer-preorders.md
 nid: 4224

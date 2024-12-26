@@ -1,6 +1,5 @@
 ---
-title: 'Pesticide Monitoring Data Website'
-tagnames: pesticides, visualization
+title: "Pesticide Monitoring Data Website"\ntagnames: 'pesticides, visualization'
 author: silverhammer
 path: /notes/silverhammer/04-14-2014/pesticide-monitoring-data.md
 nid: 10306
@@ -12,7 +11,7 @@ uid: 420530
 
 # Pesticide Monitoring Data Website
 
-by [silverhammer](../profile/silverhammer) April 14, 2014 16:09
+by [silverhammer](../profile/silverhammer) | April 14, 2014 16:09
 
 April 14, 2014 16:09 | Tags: [pesticides](../tag/pesticides), [visualization](../tag/visualization)
 

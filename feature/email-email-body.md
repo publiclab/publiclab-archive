@@ -1,6 +1,5 @@
 ---
-title: 'email-email-body'
-tagnames: 
+title: "email-email-body"\ntagnames: ''
 author: warren
 path: /feature/email-email-body.md
 nid: 16682

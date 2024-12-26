@@ -1,6 +1,5 @@
 ---
-title: 'Giving Tuesday'
-tagnames: style:presentation, ddd, locked, sidebar:none
+title: "Giving Tuesday"\ntagnames: 'style:presentation, ddd, locked, sidebar:none'
 author: warren
 path: /wiki/giving.md
 nid: 15217

@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Basics'
-tagnames: community, faq, getting-started, style:minimal, questions, basics, parent:welcome
+title: "Public Lab Basics"\ntagnames: 'community, faq, getting-started, style:minimal, questions, basics, parent:welcome'
 author: warren
 path: /wiki/basics.md
 nid: 17294

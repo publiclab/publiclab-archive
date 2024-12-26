@@ -1,6 +1,5 @@
 ---
-title: 'Research Assistants'
-tagnames: 
+title: "Research Assistants"\ntagnames: ''
 author: warren
 path: /wiki/research-assistants.md
 nid: 109

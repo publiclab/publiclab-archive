@@ -1,6 +1,5 @@
 ---
-title: 'Tyvek Fleds, Theoretical & Actual Performance'
-tagnames: kite-mapping, diy-kite, tyvek, diy-kites, kite-making, activity:tyvek
+title: "Tyvek Fleds, Theoretical & Actual Performance"\ntagnames: 'kite-mapping, diy-kite, tyvek, diy-kites, kite-making, activity:tyvek'
 author: mathew
 path: /notes/mathew/8-5-2011/tyvek-fleds-theoretical-actual-performance.md
 nid: 430
@@ -10,7 +9,7 @@ uid: 4
 
 # Tyvek Fleds, Theoretical & Actual Performance
 
-by [mathew](../profile/mathew) August 05, 2011 18:18
+by [mathew](../profile/mathew) | August 05, 2011 18:18
 
 August 05, 2011 18:18 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making), [activity:tyvek](../tag/activity:tyvek)
 

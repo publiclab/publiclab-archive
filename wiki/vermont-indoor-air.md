@@ -1,6 +1,5 @@
 ---
-title: 'Vermont Indoor Air'
-tagnames: vermont, indoor-air-quality, indoor-air, indoor-air-info-sheet
+title: "Vermont Indoor Air"\ntagnames: 'vermont, indoor-air-quality, indoor-air, indoor-air-info-sheet'
 author: gretchengehrke
 path: /wiki/vermont-indoor-air.md
 nid: 13520

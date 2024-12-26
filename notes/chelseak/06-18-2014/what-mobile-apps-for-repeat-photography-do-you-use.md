@@ -1,6 +1,5 @@
 ---
-title: 'What Mobile Apps for Repeat Photography Do You Use?'
-tagnames: 
+title: "What Mobile Apps for Repeat Photography Do You Use?"\ntagnames: ''
 author: chelseak
 path: /notes/chelseak/06-18-2014/what-mobile-apps-for-repeat-photography-do-you-use.md
 nid: 10588
@@ -12,7 +11,7 @@ uid: 424605
 
 # What Mobile Apps for Repeat Photography Do You Use?
 
-by [chelseak](../profile/chelseak) June 18, 2014 18:43
+by [chelseak](../profile/chelseak) | June 18, 2014 18:43
 
 June 18, 2014 18:43 | Tags: 
 

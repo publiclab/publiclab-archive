@@ -1,6 +1,5 @@
 ---
-title: 'Helium'
-tagnames: balloon-mapping, helium, table-lamp
+title: "Helium"\ntagnames: 'balloon-mapping, helium, table-lamp'
 author: gonzoearth
 path: /wiki/helium.md
 nid: 2501

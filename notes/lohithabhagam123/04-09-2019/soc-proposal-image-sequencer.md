@@ -1,6 +1,5 @@
 ---
-title: 'SoC proposal: Image Sequencer'
-tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, lat:10.850515, lon:76.271083
+title: "SoC proposal: Image Sequencer"\ntagnames: 'software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, lat:10.850515, lon:76.271083'
 author: lohithabhagam123
 path: /notes/lohithabhagam123/04-09-2019/soc-proposal-image-sequencer.md
 nid: 19009
@@ -12,7 +11,7 @@ uid: 577728
 
 # SoC proposal: Image Sequencer
 
-by [lohithabhagam123](../profile/lohithabhagam123) April 09, 2019 13:13
+by [lohithabhagam123](../profile/lohithabhagam123) | April 09, 2019 13:13
 
 April 09, 2019 13:13 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [lat:10.850515](../tag/lat:10.850515), [lon:76.271083](../tag/lon:76.271083)
 

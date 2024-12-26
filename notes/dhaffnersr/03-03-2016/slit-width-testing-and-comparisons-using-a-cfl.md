@@ -1,6 +1,5 @@
 ---
-title: 'Slit width testing and Comparisons using a CFL'
-tagnames: 
+title: "Slit width testing and Comparisons using a CFL"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/03-03-2016/slit-width-testing-and-comparisons-using-a-cfl.md
 nid: 12770
@@ -12,7 +11,7 @@ uid: 461120
 
 # Slit width testing and Comparisons using a CFL
 
-by [dhaffnersr](../profile/dhaffnersr) March 03, 2016 14:24
+by [dhaffnersr](../profile/dhaffnersr) | March 03, 2016 14:24
 
 March 03, 2016 14:24 | Tags: 
 

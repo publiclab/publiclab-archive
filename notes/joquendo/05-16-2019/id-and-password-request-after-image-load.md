@@ -1,6 +1,5 @@
 ---
-title: 'ID and Password Request after Image Load'
-tagnames: pi-builder, question:pi-builder
+title: "ID and Password Request after Image Load"\ntagnames: 'pi-builder, question:pi-builder'
 author: joquendo
 path: /notes/joquendo/05-16-2019/id-and-password-request-after-image-load.md
 nid: 19428
@@ -10,7 +9,7 @@ uid: 589024
 
 # ID and Password Request after Image Load
 
-by [joquendo](../profile/joquendo) May 16, 2019 15:47
+by [joquendo](../profile/joquendo) | May 16, 2019 15:47
 
 May 16, 2019 15:47 | Tags: [pi-builder](../tag/pi-builder), [question:pi-builder](../tag/question:pi-builder)
 

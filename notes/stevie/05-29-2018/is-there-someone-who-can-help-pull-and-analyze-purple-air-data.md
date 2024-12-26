@@ -1,6 +1,5 @@
 ---
-title: 'Is there someone who can help pull and analyze Purple Air data?'
-tagnames: question:air-quality, question:pm, question:purpleair, with:ramseysprague
+title: "Is there someone who can help pull and analyze Purple Air data?"\ntagnames: 'question:air-quality, question:pm, question:purpleair, with:ramseysprague'
 author: stevie
 path: /notes/stevie/05-29-2018/is-there-someone-who-can-help-pull-and-analyze-purple-air-data.md
 nid: 16405
@@ -10,7 +9,7 @@ uid: 422561
 
 # Is there someone who can help pull and analyze Purple Air data?
 
-by [stevie](../profile/stevie) May 29, 2018 16:39
+by [stevie](../profile/stevie) | May 29, 2018 16:39
 
 May 29, 2018 16:39 | Tags: [question:air-quality](../tag/question:air-quality), [question:pm](../tag/question:pm), [question:purpleair](../tag/question:purpleair), [with:ramseysprague](../tag/with:ramseysprague)
 

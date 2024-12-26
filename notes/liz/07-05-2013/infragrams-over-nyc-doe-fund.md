@@ -1,6 +1,5 @@
 ---
-title: 'Infragrams over NYC: DOE Fund'
-tagnames: new-york-city, polemapping, 5bf, five-borough-farm, pole-photography, pole, pole-mapping
+title: "Infragrams over NYC: DOE Fund"\ntagnames: 'new-york-city, polemapping, 5bf, five-borough-farm, pole-photography, pole, pole-mapping'
 author: liz
 path: /notes/liz/07-05-2013/infragrams-over-nyc-doe-fund.md
 nid: 8700
@@ -12,7 +11,7 @@ uid: 7
 
 # Infragrams over NYC: DOE Fund
 
-by [liz](../profile/liz) July 05, 2013 18:55
+by [liz](../profile/liz) | July 05, 2013 18:55
 
 July 05, 2013 18:55 | Tags: [new-york-city](../tag/new-york-city), [polemapping](../tag/polemapping), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [pole-mapping](../tag/pole-mapping)
 

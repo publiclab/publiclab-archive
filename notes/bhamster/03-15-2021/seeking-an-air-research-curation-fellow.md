@@ -1,6 +1,5 @@
 ---
-title: 'Seeking an Air Research Curation Fellow'
-tagnames: air-quality, jobs, pm, fellows, indoor-air-quality, fellowship, odor, particulate-matter, fellow, research-curation-fellows
+title: "Seeking an Air Research Curation Fellow"\ntagnames: 'air-quality, jobs, pm, fellows, indoor-air-quality, fellowship, odor, particulate-matter, fellow, research-curation-fellows'
 author: bhamster
 path: /notes/bhamster/03-15-2021/seeking-an-air-research-curation-fellow.md
 nid: 25923
@@ -12,7 +11,7 @@ uid: 664477
 
 # Seeking an Air Research Curation Fellow
 
-by [bhamster](../profile/bhamster) March 15, 2021 21:45
+by [bhamster](../profile/bhamster) | March 15, 2021 21:45
 
 March 15, 2021 21:45 | Tags: [air-quality](../tag/air-quality), [jobs](../tag/jobs), [pm](../tag/pm), [fellows](../tag/fellows), [indoor-air-quality](../tag/indoor-air-quality), [fellowship](../tag/fellowship), [odor](../tag/odor), [particulate-matter](../tag/particulate-matter), [fellow](../tag/fellow), [research-curation-fellows](../tag/research-curation-fellows)
 

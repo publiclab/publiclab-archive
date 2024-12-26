@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-mine-reclamation'
-tagnames: 
+title: "sandbox-mine-reclamation"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-mine-reclamation.md
 nid: 30079

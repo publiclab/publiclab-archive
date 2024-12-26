@@ -1,6 +1,5 @@
 ---
-title: 'Early design ideas for the Rich Editor project'
-tagnames: software, design, web, developers, wwg, editor, rich-editor
+title: "Early design ideas for the Rich Editor project"\ntagnames: 'software, design, web, developers, wwg, editor, rich-editor'
 author: warren
 path: /notes/warren/04-29-2016/early-design-ideas-for-the-rich-editor-project.md
 nid: 13050
@@ -12,7 +11,7 @@ uid: 1
 
 # Early design ideas for the Rich Editor project
 
-by [warren](../profile/warren) April 29, 2016 18:43
+by [warren](../profile/warren) | April 29, 2016 18:43
 
 April 29, 2016 18:43 | Tags: [software](../tag/software), [design](../tag/design), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [editor](../tag/editor), [rich-editor](../tag/rich-editor)
 

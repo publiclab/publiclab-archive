@@ -1,6 +1,5 @@
 ---
-title: 'NIR, Rosco fire #19 and my elph 300HS from Christmas'
-tagnames: ndvi, nir, infragram, rosco, fire, elph300hs
+title: "NIR, Rosco fire #19 and my elph 300HS from Christmas"\ntagnames: 'ndvi, nir, infragram, rosco, fire, elph300hs'
 author: admaltais
 path: /notes/admaltais/08-15-2015/nir-rosco-fire-19-and-my-elph-300hs-from-christmas.md
 nid: 12145
@@ -12,7 +11,7 @@ uid: 447727
 
 # NIR, Rosco fire #19 and my elph 300HS from Christmas
 
-by [admaltais](../profile/admaltais) August 15, 2015 03:35
+by [admaltais](../profile/admaltais) | August 15, 2015 03:35
 
 August 15, 2015 03:35 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [infragram](../tag/infragram), [rosco](../tag/rosco), [fire](../tag/fire), [elph300hs](../tag/elph300hs)
 

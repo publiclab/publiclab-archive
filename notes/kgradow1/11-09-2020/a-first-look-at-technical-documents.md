@@ -1,6 +1,5 @@
 ---
-title: 'A First Look at Technical Documents'
-tagnames: air-quality, bucket-brigade, new, advocacy, draft, permits, community-organizing, advocacy-pathways, activity:community-organizing, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action, interpret-results-intro
+title: "A First Look at Technical Documents"\ntagnames: 'air-quality, bucket-brigade, new, advocacy, draft, permits, community-organizing, advocacy-pathways, activity:community-organizing, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action, interpret-results-intro'
 author: kgradow1
 path: /notes/kgradow1/11-09-2020/a-first-look-at-technical-documents.md
 nid: 24952
@@ -10,7 +9,7 @@ uid: 297929
 
 # A First Look at Technical Documents
 
-by [kgradow1](../profile/kgradow1) November 09, 2020 12:49
+by [kgradow1](../profile/kgradow1) | November 09, 2020 12:49
 
 November 09, 2020 12:49 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [advocacy](../tag/advocacy), [draft](../tag/draft), [permits](../tag/permits), [community-organizing](../tag/community-organizing), [advocacy-pathways](../tag/advocacy-pathways), [activity:community-organizing](../tag/activity:community-organizing), [activity:new](../tag/activity:new), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [statistics-for-action](../tag/statistics-for-action), [interpret-results-intro](../tag/interpret-results-intro)
 

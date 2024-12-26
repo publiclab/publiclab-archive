@@ -1,6 +1,5 @@
 ---
-title: 'pearl-mini-logger'
-tagnames: redirect:14794
+title: "pearl-mini-logger"\ntagnames: 'redirect:14794'
 author: warren
 path: /wiki/pearl-mini-logger.md
 nid: 16034

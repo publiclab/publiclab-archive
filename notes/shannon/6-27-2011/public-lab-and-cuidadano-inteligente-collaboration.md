@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab and Cuidadano Inteligente collaboration'
-tagnames: protest-mapping
+title: "Public Lab and Cuidadano Inteligente collaboration"\ntagnames: 'protest-mapping'
 author: Shannon
 path: /notes/shannon/6-27-2011/public-lab-and-cuidadano-inteligente-collaboration.md
 nid: 359
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab and Cuidadano Inteligente collaboration
 
-by [Shannon](../profile/Shannon) June 27, 2011 16:02
+by [Shannon](../profile/Shannon) | June 27, 2011 16:02
 
 June 27, 2011 16:02 | Tags: [protest-mapping](../tag/protest-mapping)
 

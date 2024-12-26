@@ -1,6 +1,5 @@
 ---
-title: 'Smartphone spectrometer molded samples have arrived!'
-tagnames: spectrometer, iphone, kickstarter, molding, smartphone-spectrometer, prototype
+title: "Smartphone spectrometer molded samples have arrived!"\ntagnames: 'spectrometer, iphone, kickstarter, molding, smartphone-spectrometer, prototype'
 author: warren
 path: /notes/warren/08-20-2013/smartphone-spectrometer-molded-samples-have-arrived.md
 nid: 9039
@@ -12,7 +11,7 @@ uid: 1
 
 # Smartphone spectrometer molded samples have arrived!
 
-by [warren](../profile/warren) August 20, 2013 17:03
+by [warren](../profile/warren) | August 20, 2013 17:03
 
 August 20, 2013 17:03 | Tags: [spectrometer](../tag/spectrometer), [iphone](../tag/iphone), [kickstarter](../tag/kickstarter), [molding](../tag/molding), [smartphone-spectrometer](../tag/smartphone-spectrometer), [prototype](../tag/prototype)
 

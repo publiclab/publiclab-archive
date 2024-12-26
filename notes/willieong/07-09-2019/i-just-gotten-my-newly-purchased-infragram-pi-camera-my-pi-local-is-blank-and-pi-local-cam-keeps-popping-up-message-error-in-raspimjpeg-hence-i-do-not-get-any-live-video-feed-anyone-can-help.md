@@ -1,6 +1,5 @@
 ---
-title: 'I just gotten my newly purchased Infragram Pi Camera, my pi.local is blank and pi.local/Cam keeps popping up message "Error in RaspiMJPEG" hence I do not get any live video feed. Anyone can help?'
-tagnames: question:spectrometer, question:spectrometry, question:infragram, question:raspberry-pi-infragram, question:question:raspberry-pi-infragram
+title: "I just gotten my newly purchased Infragram Pi Camera, my pi.local is blank and pi.local/Cam keeps popping up message "Error in RaspiMJPEG" hence I do not get any live video feed. Anyone can help?"\ntagnames: 'question:spectrometer, question:spectrometry, question:infragram, question:raspberry-pi-infragram, question:question:raspberry-pi-infragram'
 author: willieong
 path: /notes/willieong/07-09-2019/i-just-gotten-my-newly-purchased-infragram-pi-camera-my-pi-local-is-blank-and-pi-local-cam-keeps-popping-up-message-error-in-raspimjpeg-hence-i-do-not-get-any-live-video-feed-anyone-can-help.md
 nid: 20045
@@ -10,7 +9,7 @@ uid: 602821
 
 # I just gotten my newly purchased Infragram Pi Camera, my pi.local is blank and pi.local/Cam keeps popping up message "Error in RaspiMJPEG" hence I do not get any live video feed. Anyone can help?
 
-by [willieong](../profile/willieong) July 09, 2019 10:24
+by [willieong](../profile/willieong) | July 09, 2019 10:24
 
 July 09, 2019 10:24 | Tags: [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:infragram](../tag/question:infragram), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [question:question:raspberry-pi-infragram](../tag/question:question:raspberry-pi-infragram)
 

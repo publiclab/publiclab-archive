@@ -1,6 +1,5 @@
 ---
-title: 'Balloon mapping of local invasive species and town mapping '
-tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, kite, amherst, mapping, balloon-mapping-kit, massachusetts, umass-amherst, helium, invasives, invasive-species, amherst-media, publiclab-at-amherst-media, makers-and-amherst-media, mtholyoke, amherstcollege, helium-balloon, city-planning, westfield, makers-massachusetts
+title: "Balloon mapping of local invasive species and town mapping "\ntagnames: 'balloon-mapping, kite-mapping, kite-aerial-photography, kite, amherst, mapping, balloon-mapping-kit, massachusetts, umass-amherst, helium, invasives, invasive-species, amherst-media, publiclab-at-amherst-media, makers-and-amherst-media, mtholyoke, amherstcollege, helium-balloon, city-planning, westfield, makers-massachusetts'
 author: aferland
 path: /wiki/balloon-mapping-of-local-invasive-species-and-town-mapping.md
 nid: 11184

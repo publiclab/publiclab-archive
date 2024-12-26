@@ -1,6 +1,5 @@
 ---
-title: 'Help learning to use MapKnitter'
-tagnames: balloon-mapping, kite-mapping
+title: "Help learning to use MapKnitter"\ntagnames: 'balloon-mapping, kite-mapping'
 author: gonzoearth
 path: /notes/gonzoearth/6-29-2012/help-learning-use-mapknitter.md
 nid: 2677
@@ -12,7 +11,7 @@ uid: 12
 
 # Help learning to use MapKnitter
 
-by [gonzoearth](../profile/gonzoearth) June 29, 2012 15:32
+by [gonzoearth](../profile/gonzoearth) | June 29, 2012 15:32
 
 June 29, 2012 15:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 

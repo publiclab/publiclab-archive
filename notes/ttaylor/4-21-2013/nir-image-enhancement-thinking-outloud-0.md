@@ -1,6 +1,5 @@
 ---
-title: 'NIR image enhancement (&thinking out loud)'
-tagnames: near-infrared-camera, image-interpretation, spectral-imaging, first-time-poster
+title: "NIR image enhancement (&thinking out loud)"\ntagnames: 'near-infrared-camera, image-interpretation, spectral-imaging, first-time-poster'
 author: ttaylor
 path: /notes/ttaylor/4-21-2013/nir-image-enhancement-thinking-outloud-0.md
 nid: 6956
@@ -12,7 +11,7 @@ uid: 58398
 
 # NIR image enhancement (&thinking out loud)
 
-by [ttaylor](../profile/ttaylor) April 21, 2013 21:00
+by [ttaylor](../profile/ttaylor) | April 21, 2013 21:00
 
 April 21, 2013 21:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [image-interpretation](../tag/image-interpretation), [spectral-imaging](../tag/spectral-imaging), [first-time-poster](../tag/first-time-poster)
 

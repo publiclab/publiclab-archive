@@ -1,6 +1,5 @@
 ---
-title: 'Ida early response'
-tagnames: air-quality, blog, hurricane, barnstar:photo-documentation, disaster-response, hurricanes, zoom:15, lat:29.953736, lon:-90.073637, ida, hurricane-ida
+title: "Ida early response"\ntagnames: 'air-quality, blog, hurricane, barnstar:photo-documentation, disaster-response, hurricanes, zoom:15, lat:29.953736, lon:-90.073637, ida, hurricane-ida'
 author: eustatic
 path: /08-29-2021/ida-early-response.md
 nid: 27631
@@ -12,7 +11,7 @@ uid: 379
 
 # Ida early response
 
-by [eustatic](../profile/eustatic) August 29, 2021 16:52
+by [eustatic](../profile/eustatic) | August 29, 2021 16:52
 
 August 29, 2021 16:52 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [hurricane](../tag/hurricane), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [disaster-response](../tag/disaster-response), [hurricanes](../tag/hurricanes), [zoom:15](../tag/zoom:15), [lat:29.953736](../tag/lat:29.953736), [lon:-90.073637](../tag/lon:-90.073637), [ida](../tag/ida), [hurricane-ida](../tag/hurricane-ida)
 

@@ -1,6 +1,5 @@
 ---
-title: 'New Cuvette Holder design done on SmartDraw CAD'
-tagnames: 
+title: "New Cuvette Holder design done on SmartDraw CAD"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/05-21-2016/new-cuvette-holder-design-done-on-smartdraw-cad.md
 nid: 13136
@@ -12,7 +11,7 @@ uid: 461120
 
 # New Cuvette Holder design done on SmartDraw CAD
 
-by [dhaffnersr](../profile/dhaffnersr) May 21, 2016 22:42
+by [dhaffnersr](../profile/dhaffnersr) | May 21, 2016 22:42
 
 May 21, 2016 22:42 | Tags: 
 

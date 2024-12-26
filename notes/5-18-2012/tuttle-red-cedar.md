@@ -1,6 +1,5 @@
 ---
-title: 'tuttle-red-cedar'
-tagnames: 
+title: "tuttle-red-cedar"\ntagnames: ''
 author: 
 path: /notes/5-18-2012/tuttle-red-cedar.md
 nid: 2134
@@ -12,7 +11,7 @@ uid: 0
 
 # tuttle-red-cedar
 
-by [](../profile/) May 18, 2012 18:27
+by [](../profile/) | May 18, 2012 18:27
 
 May 18, 2012 18:27 | Tags: 
 

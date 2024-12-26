@@ -1,6 +1,5 @@
 ---
-title: 'Tips for environmental storytelling'
-tagnames: blog, storytelling, lat:29, lon:-90, zoom:6, tbt, communications, data-advocacy
+title: "Tips for environmental storytelling"\ntagnames: 'blog, storytelling, lat:29, lon:-90, zoom:6, tbt, communications, data-advocacy'
 author: joyofsoy
 path: /notes/joyofsoy/08-07-2020/tips-for-environmental-storytelling.md
 nid: 24285
@@ -12,7 +11,7 @@ uid: 540844
 
 # Tips for environmental storytelling
 
-by [joyofsoy](../profile/joyofsoy) August 07, 2020 15:54
+by [joyofsoy](../profile/joyofsoy) | August 07, 2020 15:54
 
 August 07, 2020 15:54 | Tags: [blog](../tag/blog), [storytelling](../tag/storytelling), [lat:29](../tag/lat:29), [lon:-90](../tag/lon:-90), [zoom:6](../tag/zoom:6), [tbt](../tag/tbt), [communications](../tag/communications), [data-advocacy](../tag/data-advocacy)
 

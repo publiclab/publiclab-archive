@@ -1,6 +1,5 @@
 ---
-title: 'CHDK Scripting'
-tagnames: balloon-mapping, triggering, chdk, camera-triggering, camera-scripting, activity:camera-triggering, activity:chdk
+title: "CHDK Scripting"\ntagnames: 'balloon-mapping, triggering, chdk, camera-triggering, camera-scripting, activity:camera-triggering, activity:chdk'
 author: nicholas
 path: /notes/nicholas/12-05-2013/chdk-scripting.md
 nid: 9858
@@ -12,7 +11,7 @@ uid: 53894
 
 # CHDK Scripting
 
-by [nicholas](../profile/nicholas) December 05, 2013 20:38
+by [nicholas](../profile/nicholas) | December 05, 2013 20:38
 
 December 05, 2013 20:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [triggering](../tag/triggering), [chdk](../tag/chdk), [camera-triggering](../tag/camera-triggering), [camera-scripting](../tag/camera-scripting), [activity:camera-triggering](../tag/activity:camera-triggering), [activity:chdk](../tag/activity:chdk)
 

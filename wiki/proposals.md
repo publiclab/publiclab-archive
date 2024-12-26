@@ -1,6 +1,5 @@
 ---
-title: 'Proposals'
-tagnames: 
+title: "Proposals"\ntagnames: ''
 author: warren
 path: /wiki/proposals.md
 nid: 111

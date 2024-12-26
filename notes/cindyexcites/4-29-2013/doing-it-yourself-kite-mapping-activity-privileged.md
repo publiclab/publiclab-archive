@@ -1,6 +1,5 @@
 ---
-title: 'Doing it Yourself: Kite-mapping… an activity for the ‘privileged’?'
-tagnames: kite-mapping, london, kite-aerial-photography, community, camera-rig-tests, easy-cut-delta
+title: "Doing it Yourself: Kite-mapping… an activity for the ‘privileged’?"\ntagnames: 'kite-mapping, london, kite-aerial-photography, community, camera-rig-tests, easy-cut-delta'
 author: cindy_excites
 path: /notes/cindyexcites/4-29-2013/doing-it-yourself-kite-mapping-activity-privileged.md
 nid: 7116
@@ -12,7 +11,7 @@ uid: 1083
 
 # Doing it Yourself: Kite-mapping… an activity for the ‘privileged’?
 
-by [cindy_excites](../profile/cindy_excites) April 29, 2013 11:54
+by [cindy_excites](../profile/cindy_excites) | April 29, 2013 11:54
 
 April 29, 2013 11:54 | Tags: [kite-mapping](../tag/kite-mapping), [london](../tag/london), [kite-aerial-photography](../tag/kite-aerial-photography), [community](../tag/community), [camera-rig-tests](../tag/camera-rig-tests), [easy-cut-delta](../tag/easy-cut-delta)
 

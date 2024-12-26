@@ -1,6 +1,5 @@
 ---
-title: '2015 Web Working Group report'
-tagnames: website, web-development, web, developers, contributing, web-working-group, report, with:liz, web-wg, wwg
+title: "2015 Web Working Group report"\ntagnames: 'website, web-development, web, developers, contributing, web-working-group, report, with:liz, web-wg, wwg'
 author: warren
 path: /notes/warren/01-14-2015/2015-web-working-group-report.md
 nid: 11521
@@ -12,7 +11,7 @@ uid: 1
 
 # 2015 Web Working Group report
 
-by [warren](../profile/warren) January 14, 2015 16:59
+by [warren](../profile/warren) | January 14, 2015 16:59
 
 January 14, 2015 16:59 | Tags: [website](../tag/website), [web-development](../tag/web-development), [web](../tag/web), [developers](../tag/developers), [contributing](../tag/contributing), [web-working-group](../tag/web-working-group), [report](../tag/report), [with:liz](../tag/with:liz), [web-wg](../tag/web-wg), [wwg](../tag/wwg)
 

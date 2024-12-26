@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer 3.0 add-on v2 '
-tagnames: spectrometer, cuvette, led, light-source, activity:dssk, spectrometry-sampling, activity:spectrometry-sampling, activity:dsk, add-on, activity:3d-printing, activity:lego-spectrometer, experiment, illumination, add-on:lego-spectrometer, add-on:dssk, add-on:dsk
+title: "Spectrometer 3.0 add-on v2 "\ntagnames: 'spectrometer, cuvette, led, light-source, activity:dssk, spectrometry-sampling, activity:spectrometry-sampling, activity:dsk, add-on, activity:3d-printing, activity:lego-spectrometer, experiment, illumination, add-on:lego-spectrometer, add-on:dssk, add-on:dsk'
 author: programmer1200
 path: /notes/programmer1200/03-29-2018/spectrometer-3-0-add-on-v2.md
 nid: 16042
@@ -12,7 +11,7 @@ uid: 509305
 
 # Spectrometer 3.0 add-on v2 
 
-by [programmer1200](../profile/programmer1200) March 29, 2018 15:44
+by [programmer1200](../profile/programmer1200) | March 29, 2018 15:44
 
 March 29, 2018 15:44 | Tags: [spectrometer](../tag/spectrometer), [cuvette](../tag/cuvette), [led](../tag/led), [light-source](../tag/light-source), [activity:dssk](../tag/activity:dssk), [spectrometry-sampling](../tag/spectrometry-sampling), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling), [activity:dsk](../tag/activity:dsk), [add-on](../tag/add-on), [activity:3d-printing](../tag/activity:3d-printing), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [experiment](../tag/experiment), [illumination](../tag/illumination), [add-on:lego-spectrometer](../tag/add-on:lego-spectrometer), [add-on:dssk](../tag/add-on:dssk), [add-on:dsk](../tag/add-on:dsk)
 

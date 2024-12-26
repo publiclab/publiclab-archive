@@ -1,6 +1,5 @@
 ---
-title: 'Hydrogen Sulfide'
-tagnames: arduino, hydrogen-sulfide, air-quality, h2s, odors, h2s-sites:, h2s-sites, parent:air-quality, h2s-overview, neurotoxin, odorless
+title: "Hydrogen Sulfide"\ntagnames: 'arduino, hydrogen-sulfide, air-quality, h2s, odors, h2s-sites:, h2s-sites, parent:air-quality, h2s-overview, neurotoxin, odorless'
 author: warren
 path: /wiki/hydrogen-sulfide.md
 nid: 476

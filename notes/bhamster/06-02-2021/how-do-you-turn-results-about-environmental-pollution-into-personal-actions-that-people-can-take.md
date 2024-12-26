@@ -1,6 +1,5 @@
 ---
-title: 'How do you turn results about environmental pollution into personal actions that people can take?'
-tagnames: organizing, advocacy, question:general, general, community-organizing, question:advocacy, public-awareness, question:organizing, question:community-organizing, air-quality-data, question:air-quality-data, data-advocacy
+title: "How do you turn results about environmental pollution into personal actions that people can take?"\ntagnames: 'organizing, advocacy, question:general, general, community-organizing, question:advocacy, public-awareness, question:organizing, question:community-organizing, air-quality-data, question:air-quality-data, data-advocacy'
 author: bhamster
 path: /notes/bhamster/06-02-2021/how-do-you-turn-results-about-environmental-pollution-into-personal-actions-that-people-can-take.md
 nid: 26775
@@ -10,7 +9,7 @@ uid: 664477
 
 # How do you turn results about environmental pollution into personal actions that people can take?
 
-by [bhamster](../profile/bhamster) June 02, 2021 20:50
+by [bhamster](../profile/bhamster) | June 02, 2021 20:50
 
 June 02, 2021 20:50 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [question:general](../tag/question:general), [general](../tag/general), [community-organizing](../tag/community-organizing), [question:advocacy](../tag/question:advocacy), [public-awareness](../tag/public-awareness), [question:organizing](../tag/question:organizing), [question:community-organizing](../tag/question:community-organizing), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data), [data-advocacy](../tag/data-advocacy)
 

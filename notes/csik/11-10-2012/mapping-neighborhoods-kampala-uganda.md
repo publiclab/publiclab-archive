@@ -1,6 +1,5 @@
 ---
-title: 'Mapping neighborhoods in Kampala, Uganda'
-tagnames: uganda, kampala, art-center, unicef, youth, africa, land-use
+title: "Mapping neighborhoods in Kampala, Uganda"\ntagnames: 'uganda, kampala, art-center, unicef, youth, africa, land-use'
 author: csik
 path: /notes/csik/11-10-2012/mapping-neighborhoods-kampala-uganda.md
 nid: 4860
@@ -10,7 +9,7 @@ uid: 45627
 
 # Mapping neighborhoods in Kampala, Uganda
 
-by [csik](../profile/csik) November 10, 2012 16:12
+by [csik](../profile/csik) | November 10, 2012 16:12
 
 November 10, 2012 16:12 | Tags: [uganda](../tag/uganda), [kampala](../tag/kampala), [art-center](../tag/art-center), [unicef](../tag/unicef), [youth](../tag/youth), [africa](../tag/africa), [land-use](../tag/land-use)
 

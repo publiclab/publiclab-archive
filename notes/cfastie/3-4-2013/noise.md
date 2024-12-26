@@ -1,6 +1,5 @@
 ---
-title: 'Noise'
-tagnames: spectrometer, vermont, analysis, ebert, absorption, sky, fraunhofer
+title: "Noise"\ntagnames: 'spectrometer, vermont, analysis, ebert, absorption, sky, fraunhofer'
 author: cfastie
 path: /notes/cfastie/3-4-2013/noise.md
 nid: 6197
@@ -12,7 +11,7 @@ uid: 554
 
 # Noise
 
-by [cfastie](../profile/cfastie) March 05, 2013 04:32
+by [cfastie](../profile/cfastie) | March 05, 2013 04:32
 
 March 05, 2013 04:32 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [analysis](../tag/analysis), [ebert](../tag/ebert), [absorption](../tag/absorption), [sky](../tag/sky), [fraunhofer](../tag/fraunhofer)
 

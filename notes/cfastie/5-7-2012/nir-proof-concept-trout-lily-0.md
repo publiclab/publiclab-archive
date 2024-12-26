@@ -1,6 +1,5 @@
 ---
-title: 'NIR proof of concept: Trout Lily'
-tagnames: near-infrared-camera
+title: "NIR proof of concept: Trout Lily"\ntagnames: 'near-infrared-camera'
 author: cfastie
 path: /notes/cfastie/5-7-2012/nir-proof-concept-trout-lily-0.md
 nid: 1921
@@ -12,7 +11,7 @@ uid: 554
 
 # NIR proof of concept: Trout Lily
 
-by [cfastie](../profile/cfastie) May 07, 2012 14:39
+by [cfastie](../profile/cfastie) | May 07, 2012 14:39
 
 May 07, 2012 14:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 

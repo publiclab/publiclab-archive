@@ -1,6 +1,5 @@
 ---
-title: 'Gowanus brainstorm on annotated maps'
-tagnames: 
+title: "Gowanus brainstorm on annotated maps"\ntagnames: ''
 author: liz
 path: /notes/liz/2-7-2013/gowanus-brainstorm-annotated-maps.md
 nid: 5917
@@ -12,7 +11,7 @@ uid: 7
 
 # Gowanus brainstorm on annotated maps
 
-by [liz](../profile/liz) February 07, 2013 21:59
+by [liz](../profile/liz) | February 07, 2013 21:59
 
 February 07, 2013 21:59 | Tags: 
 

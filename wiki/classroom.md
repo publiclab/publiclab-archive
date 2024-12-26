@@ -1,6 +1,5 @@
 ---
-title: 'Classroom'
-tagnames: redirect:education
+title: "Classroom"\ntagnames: 'redirect:education'
 author: warren
 path: /wiki/classroom.md
 nid: 17385

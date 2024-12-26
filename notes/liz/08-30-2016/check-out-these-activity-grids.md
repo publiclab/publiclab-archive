@@ -1,6 +1,5 @@
 ---
-title: 'Check out these Activity Grids'
-tagnames: collaboration, blog, with:warren, with:gretchengehrke, research-culture, activity-grids, replication, with:abdul
+title: "Check out these Activity Grids"\ntagnames: 'collaboration, blog, with:warren, with:gretchengehrke, research-culture, activity-grids, replication, with:abdul'
 author: liz
 path: /notes/liz/08-30-2016/check-out-these-activity-grids.md
 nid: 13407
@@ -12,7 +11,7 @@ uid: 7
 
 # Check out these Activity Grids
 
-by [liz](../profile/liz) August 30, 2016 18:59
+by [liz](../profile/liz) | August 30, 2016 18:59
 
 August 30, 2016 18:59 | Tags: [collaboration](../tag/collaboration), [blog](../tag/blog), [with:warren](../tag/with:warren), [with:gretchengehrke](../tag/with:gretchengehrke), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [replication](../tag/replication), [with:abdul](../tag/with:abdul)
 

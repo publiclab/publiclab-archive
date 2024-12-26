@@ -1,6 +1,5 @@
 ---
-title: 'WSJHSOIL'
-tagnames: location:blurred, place:united-states, lat:30, lon:-90, zoom:6, wsjhsoil, mercuryinsoil
+title: "WSJHSOIL"\ntagnames: 'location:blurred, place:united-states, lat:30, lon:-90, zoom:6, wsjhsoil, mercuryinsoil'
 author: scienceteacher7171
 path: /wiki/wsjhsoil.md
 nid: 26716

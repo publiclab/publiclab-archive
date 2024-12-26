@@ -1,6 +1,5 @@
 ---
-title: '2014 State of the Map Sprint at Red Cross'
-tagnames: list:plots-baltimore-dc
+title: "2014 State of the Map Sprint at Red Cross"\ntagnames: 'list:plots-baltimore-dc'
 author: willie
 path: /wiki/2014-state-of-the-map-sprint-at-red-cross.md
 nid: 10305

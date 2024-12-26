@@ -1,6 +1,5 @@
 ---
-title: 'Reflection on Sensor Journalism '
-tagnames: sensor-journalism
+title: "Reflection on Sensor Journalism "\ntagnames: 'sensor-journalism'
 author: brendanscully
 path: /notes/brendanscully/10-08-2014/reflection-on-sensor-journalism.md
 nid: 11250
@@ -10,7 +9,7 @@ uid: 428089
 
 # Reflection on Sensor Journalism 
 
-by [brendanscully](../profile/brendanscully) October 08, 2014 16:32
+by [brendanscully](../profile/brendanscully) | October 08, 2014 16:32
 
 October 08, 2014 16:32 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

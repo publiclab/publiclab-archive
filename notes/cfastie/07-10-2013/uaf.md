@@ -1,6 +1,5 @@
 ---
-title: 'UAF'
-tagnames: near-infrared-camera, infrared, alaska, nbg, infrablue
+title: "UAF"\ntagnames: 'near-infrared-camera, infrared, alaska, nbg, infrablue'
 author: cfastie
 path: /notes/cfastie/07-10-2013/uaf.md
 nid: 8788
@@ -12,7 +11,7 @@ uid: 554
 
 # UAF
 
-by [cfastie](../profile/cfastie) July 10, 2013 02:16
+by [cfastie](../profile/cfastie) | July 10, 2013 02:16
 
 July 10, 2013 02:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [alaska](../tag/alaska), [nbg](../tag/nbg), [infrablue](../tag/infrablue)
 

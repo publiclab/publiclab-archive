@@ -1,6 +1,5 @@
 ---
-title: 'SoC proposal: MapKnitter Image Management & User Experience'
-tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, gsoc-19, soc-2019-proposals, lat:13.010838, lon:74.79431
+title: "SoC proposal: MapKnitter Image Management & User Experience"\ntagnames: 'software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, gsoc-19, soc-2019-proposals, lat:13.010838, lon:74.79431'
 author: govindjeevan7
 path: /notes/govindjeevan7/03-31-2019/soc-proposal-mapknitter-user-experience.md
 nid: 18913
@@ -12,7 +11,7 @@ uid: 577314
 
 # SoC proposal: MapKnitter Image Management & User Experience
 
-by [govindjeevan7](../profile/govindjeevan7) March 31, 2019 18:00
+by [govindjeevan7](../profile/govindjeevan7) | March 31, 2019 18:00
 
 March 31, 2019 18:00 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19), [soc-2019-proposals](../tag/soc-2019-proposals), [lat:13.010838](../tag/lat:13.010838), [lon:74.79431](../tag/lon:74.79431)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Help with infragram on custom camera, red/yellow/green appears to be backwards?'
-tagnames: troubleshooting, infragram, red-filter, answered, question:question, 019:, panasonic
+title: "Help with infragram on custom camera, red/yellow/green appears to be backwards?"\ntagnames: 'troubleshooting, infragram, red-filter, answered, question:question, 019:, panasonic'
 author: fswank
 path: /notes/fswank/10-01-2017/help-with-infragram-on-custom-camera-red-yellow-green-appears-to-be-backwards.md
 nid: 14987
@@ -12,7 +11,7 @@ uid: 515510
 
 # Help with infragram on custom camera, red/yellow/green appears to be backwards?
 
-by [fswank](../profile/fswank) October 01, 2017 16:53
+by [fswank](../profile/fswank) | October 01, 2017 16:53
 
 October 01, 2017 16:53 | Tags: [troubleshooting](../tag/troubleshooting), [infragram](../tag/infragram), [red-filter](../tag/red-filter), [answered](../tag/answered), [question:question](../tag/question:question), [019:](../tag/019:), [panasonic](../tag/panasonic)
 

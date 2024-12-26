@@ -1,6 +1,5 @@
 ---
-title: 'Tampon Testing for Wastewater'
-tagnames: testing, northeastern, pollution, tampon, wastewater, university, wastewater-optical-brighteners
+title: "Tampon Testing for Wastewater"\ntagnames: 'testing, northeastern, pollution, tampon, wastewater, university, wastewater-optical-brighteners'
 author: mcairns
 path: /notes/mcairns/07-23-2015/tampon-testing-for-wastewater.md
 nid: 12093
@@ -12,7 +11,7 @@ uid: 429279
 
 # Tampon Testing for Wastewater
 
-by [mcairns](../profile/mcairns) July 23, 2015 15:24
+by [mcairns](../profile/mcairns) | July 23, 2015 15:24
 
 July 23, 2015 15:24 | Tags: [testing](../tag/testing), [northeastern](../tag/northeastern), [pollution](../tag/pollution), [tampon](../tag/tampon), [wastewater](../tag/wastewater), [university](../tag/university), [wastewater-optical-brighteners](../tag/wastewater-optical-brighteners)
 

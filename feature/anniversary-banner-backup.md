@@ -1,6 +1,5 @@
 ---
-title: 'anniversary-banner-backup'
-tagnames: 
+title: "anniversary-banner-backup"\ntagnames: ''
 author: warren
 path: /feature/anniversary-banner-backup.md
 nid: 11742

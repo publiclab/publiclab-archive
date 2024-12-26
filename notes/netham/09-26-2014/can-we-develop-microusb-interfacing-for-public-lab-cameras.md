@@ -1,6 +1,5 @@
 ---
-title: 'Can we develop microUSB interfacing for Public Lab cameras?'
-tagnames: 
+title: "Can we develop microUSB interfacing for Public Lab cameras?"\ntagnames: ''
 author: netham
 path: /notes/netham/09-26-2014/can-we-develop-microusb-interfacing-for-public-lab-cameras.md
 nid: 11191
@@ -12,7 +11,7 @@ uid: 428266
 
 # Can we develop microUSB interfacing for Public Lab cameras?
 
-by [netham](../profile/netham) September 26, 2014 05:21
+by [netham](../profile/netham) | September 26, 2014 05:21
 
 September 26, 2014 05:21 | Tags: 
 

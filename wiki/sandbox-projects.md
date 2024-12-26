@@ -1,6 +1,5 @@
 ---
-title: 'Sandbox projects'
-tagnames: 
+title: "Sandbox projects"\ntagnames: ''
 author: warren
 path: /wiki/sandbox-projects.md
 nid: 20537

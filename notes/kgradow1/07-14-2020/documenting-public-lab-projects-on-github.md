@@ -1,6 +1,5 @@
 ---
-title: 'Documenting Public Lab projects on Github'
-tagnames: question:general, general
+title: "Documenting Public Lab projects on Github"\ntagnames: 'question:general, general'
 author: kgradow1
 path: /notes/kgradow1/07-14-2020/documenting-public-lab-projects-on-github.md
 nid: 24152
@@ -12,7 +11,7 @@ uid: 297929
 
 # Documenting Public Lab projects on Github
 
-by [kgradow1](../profile/kgradow1) July 14, 2020 18:17
+by [kgradow1](../profile/kgradow1) | July 14, 2020 18:17
 
 July 14, 2020 18:17 | Tags: [question:general](../tag/question:general), [general](../tag/general)
 

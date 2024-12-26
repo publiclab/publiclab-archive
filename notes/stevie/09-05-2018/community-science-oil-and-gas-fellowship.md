@@ -1,6 +1,5 @@
 ---
-title: 'Community Science Oil and Gas Fellowship'
-tagnames: gulf-coast, new-orleans, monitoring, jobs, with:eustatic, fellowship, oil-and-gas
+title: "Community Science Oil and Gas Fellowship"\ntagnames: 'gulf-coast, new-orleans, monitoring, jobs, with:eustatic, fellowship, oil-and-gas'
 author: stevie
 path: /notes/stevie/09-05-2018/community-science-oil-and-gas-fellowship.md
 nid: 17066
@@ -12,7 +11,7 @@ uid: 422561
 
 # Community Science Oil and Gas Fellowship
 
-by [stevie](../profile/stevie) September 05, 2018 14:41
+by [stevie](../profile/stevie) | September 05, 2018 14:41
 
 September 05, 2018 14:41 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [monitoring](../tag/monitoring), [jobs](../tag/jobs), [with:eustatic](../tag/with:eustatic), [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas)
 

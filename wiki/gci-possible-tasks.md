@@ -1,6 +1,5 @@
 ---
-title: 'GCI Possible Tasks : '
-tagnames: lat:0
+title: "GCI Possible Tasks : "\ntagnames: 'lat:0'
 author: sagarpreet
 path: /wiki/gci-possible-tasks.md
 nid: 17023

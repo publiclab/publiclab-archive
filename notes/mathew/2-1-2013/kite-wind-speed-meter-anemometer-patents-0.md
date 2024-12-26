@@ -1,6 +1,5 @@
 ---
-title: 'Kite Wind Speed Meter (Anemometer) Patents'
-tagnames: kite, diy-kite, anemometer, wind-speed-meter, kite-anemometer
+title: "Kite Wind Speed Meter (Anemometer) Patents"\ntagnames: 'kite, diy-kite, anemometer, wind-speed-meter, kite-anemometer'
 author: mathew
 path: /notes/mathew/2-1-2013/kite-wind-speed-meter-anemometer-patents-0.md
 nid: 5837
@@ -12,7 +11,7 @@ uid: 4
 
 # Kite Wind Speed Meter (Anemometer) Patents
 
-by [mathew](../profile/mathew) February 01, 2013 05:10
+by [mathew](../profile/mathew) | February 01, 2013 05:10
 
 February 01, 2013 05:10 | Tags: [kite](../tag/kite), [diy-kite](../tag/diy-kite), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [kite-anemometer](../tag/kite-anemometer)
 

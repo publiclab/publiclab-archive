@@ -1,6 +1,5 @@
 ---
-title: 'Dual camera KAP rig'
-tagnames: near-infrared-camera, kite-mapping, picavet, photo-rig, first-time-poster
+title: "Dual camera KAP rig"\ntagnames: 'near-infrared-camera, kite-mapping, picavet, photo-rig, first-time-poster'
 author: cfastie
 path: /notes/cfastie/2-22-2012/dual-camera-kap-rig.md
 nid: 831
@@ -12,7 +11,7 @@ uid: 554
 
 # Dual camera KAP rig
 
-by [cfastie](../profile/cfastie) February 22, 2012 16:23
+by [cfastie](../profile/cfastie) | February 22, 2012 16:23
 
 February 22, 2012 16:23 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [first-time-poster](../tag/first-time-poster)
 

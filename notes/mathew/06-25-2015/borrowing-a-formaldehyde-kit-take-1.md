@@ -1,6 +1,5 @@
 ---
-title: 'Borrowing a Formaldehyde Kit, Take 1'
-tagnames: air-quality, air, formaldehyde, open-air, openair, barnstar:video-documentation, indoor-air-quality, open
+title: "Borrowing a Formaldehyde Kit, Take 1"\ntagnames: 'air-quality, air, formaldehyde, open-air, openair, barnstar:video-documentation, indoor-air-quality, open'
 author: mathew
 path: /notes/mathew/06-25-2015/borrowing-a-formaldehyde-kit-take-1.md
 nid: 12003
@@ -12,7 +11,7 @@ uid: 4
 
 # Borrowing a Formaldehyde Kit, Take 1
 
-by [mathew](../profile/mathew) June 25, 2015 06:31
+by [mathew](../profile/mathew) | June 25, 2015 06:31
 
 June 25, 2015 06:31 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [barnstar:video-documentation](../tag/barnstar:video-documentation), [indoor-air-quality](../tag/indoor-air-quality), [open](../tag/open)
 

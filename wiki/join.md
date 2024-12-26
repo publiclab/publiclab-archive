@@ -1,6 +1,5 @@
 ---
-title: 'Join Public Lab'
-tagnames: community, welcome, out-of-date, redirect:1624, redirect:welcome
+title: "Join Public Lab"\ntagnames: 'community, welcome, out-of-date, redirect:1624, redirect:welcome'
 author: warren
 path: /wiki/join.md
 nid: 69

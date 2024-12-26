@@ -1,6 +1,5 @@
 ---
-title: 'Toshiba "radiation camera" makes radioactivity heatmaps'
-tagnames: radiation
+title: "Toshiba "radiation camera" makes radioactivity heatmaps"\ntagnames: 'radiation'
 author: warren
 path: /notes/warren/12-15-2011/toshiba-radiation-camera-makes-radioactivity-heatmaps.md
 nid: 641
@@ -12,7 +11,7 @@ uid: 1
 
 # Toshiba "radiation camera" makes radioactivity heatmaps
 
-by [warren](../profile/warren) December 15, 2011 17:03
+by [warren](../profile/warren) | December 15, 2011 17:03
 
 December 15, 2011 17:03 | Tags: [radiation](../tag/radiation)
 

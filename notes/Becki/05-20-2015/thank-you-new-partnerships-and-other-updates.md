@@ -1,6 +1,5 @@
 ---
-title: 'THANK YOU, new partnerships, and other updates'
-tagnames: 
+title: "THANK YOU, new partnerships, and other updates"\ntagnames: ''
 author: Becki
 path: /notes/Becki/05-20-2015/thank-you-new-partnerships-and-other-updates.md
 nid: 11824
@@ -12,7 +11,7 @@ uid: 46673
 
 # THANK YOU, new partnerships, and other updates
 
-by [Becki](../profile/Becki) May 20, 2015 21:28
+by [Becki](../profile/Becki) | May 20, 2015 21:28
 
 May 20, 2015 21:28 | Tags: 
 

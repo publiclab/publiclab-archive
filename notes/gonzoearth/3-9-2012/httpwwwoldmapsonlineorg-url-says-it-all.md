@@ -1,6 +1,5 @@
 ---
-title: 'http://www.oldmapsonline.org; URL says it all'
-tagnames: 
+title: "http://www.oldmapsonline.org; URL says it all"\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/3-9-2012/httpwwwoldmapsonlineorg-url-says-it-all.md
 nid: 910
@@ -10,7 +9,7 @@ uid: 12
 
 # http://www.oldmapsonline.org; URL says it all
 
-by [gonzoearth](../profile/gonzoearth) March 09, 2012 15:27
+by [gonzoearth](../profile/gonzoearth) | March 09, 2012 15:27
 
 March 09, 2012 15:27 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: '3D Printed Stereotactic Frame'
-tagnames: first-time-poster
+title: "3D Printed Stereotactic Frame"\ntagnames: 'first-time-poster'
 author: levi_hernan
 path: /notes/levi_hernan/02-15-2019/3d-printed-stereotactic-frame.md
 nid: 18367
@@ -12,7 +11,7 @@ uid: 574483
 
 # 3D Printed Stereotactic Frame
 
-by [levi_hernan](../profile/levi_hernan) February 15, 2019 11:40
+by [levi_hernan](../profile/levi_hernan) | February 15, 2019 11:40
 
 February 15, 2019 11:40 | Tags: [first-time-poster](../tag/first-time-poster)
 

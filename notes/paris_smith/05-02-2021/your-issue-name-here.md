@@ -1,6 +1,5 @@
 ---
-title: 'Your issue name here'
-tagnames: issue-brief
+title: "Your issue name here"\ntagnames: 'issue-brief'
 author: paris_smith
 path: /notes/paris_smith/05-02-2021/your-issue-name-here.md
 nid: 26456
@@ -10,7 +9,7 @@ uid: 754383
 
 # Your issue name here
 
-by [paris_smith](../profile/paris_smith) May 02, 2021 10:01
+by [paris_smith](../profile/paris_smith) | May 02, 2021 10:01
 
 May 02, 2021 10:01 | Tags: [issue-brief](../tag/issue-brief)
 

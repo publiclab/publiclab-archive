@@ -1,6 +1,5 @@
 ---
-title: 'Power tool case houses multiple KAP rigs'
-tagnames: plots, barnraising2012, lumcon, publiclaboratory, cocodrie-la
+title: "Power tool case houses multiple KAP rigs"\ntagnames: 'plots, barnraising2012, lumcon, publiclaboratory, cocodrie-la'
 author: patcoyle
 path: /notes/patcoyle/11-23-2012/power-tool-cases-house-multiple-kap-rigs.md
 nid: 4998
@@ -12,7 +11,7 @@ uid: 77
 
 # Power tool case houses multiple KAP rigs
 
-by [patcoyle](../profile/patcoyle) November 24, 2012 01:53
+by [patcoyle](../profile/patcoyle) | November 24, 2012 01:53
 
 November 24, 2012 01:53 | Tags: [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [publiclaboratory](../tag/publiclaboratory), [cocodrie-la](../tag/cocodrie-la)
 

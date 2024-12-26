@@ -1,6 +1,5 @@
 ---
-title: 'Summary of a research area review on mapping for organizing and advocacy'
-tagnames: aerial-photography, mapping, organizing, with:liz, advocacy, reviews, research-area-review, advocacy-with-maps, pin:organizing
+title: "Summary of a research area review on mapping for organizing and advocacy"\ntagnames: 'aerial-photography, mapping, organizing, with:liz, advocacy, reviews, research-area-review, advocacy-with-maps, pin:organizing'
 author: bhamster
 path: /notes/bhamster/07-21-2021/summary-of-a-research-area-review-on-mapping-for-organizing-and-advocacy.md
 nid: 27255
@@ -12,7 +11,7 @@ uid: 664477
 
 # Summary of a research area review on mapping for organizing and advocacy
 
-by [bhamster](../profile/bhamster) July 21, 2021 23:00
+by [bhamster](../profile/bhamster) | July 21, 2021 23:00
 
 July 21, 2021 23:00 | Tags: [aerial-photography](../tag/aerial-photography), [mapping](../tag/mapping), [organizing](../tag/organizing), [with:liz](../tag/with:liz), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [advocacy-with-maps](../tag/advocacy-with-maps), [pin:organizing](../tag/pin:organizing)
 

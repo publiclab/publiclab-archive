@@ -1,6 +1,5 @@
 ---
-title: 'Mentorship network meeting at CRASH Space'
-tagnames: event, event:rsvp, date:02-17-2018
+title: "Mentorship network meeting at CRASH Space"\ntagnames: 'event, event:rsvp, date:02-17-2018'
 author: levisimons
 path: /notes/levisimons/02-05-2018/mentorship-network-meeting-at-crash-space.md
 nid: 15690
@@ -12,7 +11,7 @@ uid: 1087
 
 # Mentorship network meeting at CRASH Space
 
-by [levisimons](../profile/levisimons) February 05, 2018 23:49
+by [levisimons](../profile/levisimons) | February 05, 2018 23:49
 
 February 05, 2018 23:49 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:02-17-2018](../tag/date:02-17-2018)
 

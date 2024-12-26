@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of L5 UNCC Campus Map'
-tagnames: mapknitter, lat:35.3083532475, lon:-80.7303392887
+title: "MapKnitter map of L5 UNCC Campus Map"\ntagnames: 'mapknitter, lat:35.3083532475, lon:-80.7303392887'
 author: srclanton
 path: /notes/srclanton/09-29-2015/mapknitter-map-of-l5-uncc-campus-map.md
 nid: 12255
@@ -10,7 +9,7 @@ uid: 452916
 
 # MapKnitter map of L5 UNCC Campus Map
 
-by [srclanton](../profile/srclanton) September 29, 2015 20:43
+by [srclanton](../profile/srclanton) | September 29, 2015 20:43
 
 September 29, 2015 20:43 | Tags: [mapknitter](../tag/mapknitter), [lat:35.3083532475](../tag/lat:35.3083532475), [lon:-80.7303392887](../tag/lon:-80.7303392887)
 

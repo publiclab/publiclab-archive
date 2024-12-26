@@ -1,6 +1,5 @@
 ---
-title: 'Everybody Struggles! - [Outreachy & Public Lab Internship] Blog #2'
-tagnames: outreachy, outreachy-2020
+title: "Everybody Struggles! - [Outreachy & Public Lab Internship] Blog #2"\ntagnames: 'outreachy, outreachy-2020'
 author: noi5e
 path: /notes/noi5e/01-08-2021/everybody-struggles-outreachy-public-lab-internship-blog-1.md
 nid: 25436
@@ -12,7 +11,7 @@ uid: 726270
 
 # Everybody Struggles! - [Outreachy & Public Lab Internship] Blog #2
 
-by [noi5e](../profile/noi5e) January 08, 2021 08:49
+by [noi5e](../profile/noi5e) | January 08, 2021 08:49
 
 January 08, 2021 08:49 | Tags: [outreachy](../tag/outreachy), [outreachy-2020](../tag/outreachy-2020)
 

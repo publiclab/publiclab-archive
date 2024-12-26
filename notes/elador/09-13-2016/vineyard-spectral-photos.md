@@ -1,6 +1,5 @@
 ---
-title: 'vineyard spectral'
-tagnames: ndvi, farming, agriculture, raspberry-pi, infragram, camera, machine, data, spectral, robot, solar, learning, pi-camera, raspi, big, multispectral-imaging, raspberry-pi-cameras, vineyards
+title: "vineyard spectral"\ntagnames: 'ndvi, farming, agriculture, raspberry-pi, infragram, camera, machine, data, spectral, robot, solar, learning, pi-camera, raspi, big, multispectral-imaging, raspberry-pi-cameras, vineyards'
 author: elador
 path: /notes/elador/09-13-2016/vineyard-spectral-photos.md
 nid: 13445
@@ -12,7 +11,7 @@ uid: 444013
 
 # vineyard spectral
 
-by [elador](../profile/elador) September 13, 2016 10:48
+by [elador](../profile/elador) | September 13, 2016 10:48
 
 September 13, 2016 10:48 | Tags: [ndvi](../tag/ndvi), [farming](../tag/farming), [agriculture](../tag/agriculture), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [camera](../tag/camera), [machine](../tag/machine), [data](../tag/data), [spectral](../tag/spectral), [robot](../tag/robot), [solar](../tag/solar), [learning](../tag/learning), [pi-camera](../tag/pi-camera), [raspi](../tag/raspi), [big](../tag/big), [multispectral-imaging](../tag/multispectral-imaging), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [vineyards](../tag/vineyards)
 

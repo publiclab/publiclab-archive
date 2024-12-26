@@ -1,6 +1,5 @@
 ---
-title: 'GSoC Proposal: Card UI/UX Implementation'
-tagnames: design, gsoc, rgsoc, ui, gsoc-2018, ui-ux, card-ui, frontend, first-time-poster
+title: "GSoC Proposal: Card UI/UX Implementation"\ntagnames: 'design, gsoc, rgsoc, ui, gsoc-2018, ui-ux, card-ui, frontend, first-time-poster'
 author: amitsin6h
 path: /notes/amitsin6h/03-03-2018/gsoc-proposal-card-ui-ux-implementation.md
 nid: 15856
@@ -12,7 +11,7 @@ uid: 515111
 
 # GSoC Proposal: Card UI/UX Implementation
 
-by [amitsin6h](../profile/amitsin6h) March 03, 2018 21:44
+by [amitsin6h](../profile/amitsin6h) | March 03, 2018 21:44
 
 March 03, 2018 21:44 | Tags: [design](../tag/design), [gsoc](../tag/gsoc), [rgsoc](../tag/rgsoc), [ui](../tag/ui), [gsoc-2018](../tag/gsoc-2018), [ui-ux](../tag/ui-ux), [card-ui](../tag/card-ui), [frontend](../tag/frontend), [first-time-poster](../tag/first-time-poster)
 

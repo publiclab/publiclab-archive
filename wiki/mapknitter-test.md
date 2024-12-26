@@ -1,6 +1,5 @@
 ---
-title: 'mapknitter-test'
-tagnames: 
+title: "mapknitter-test"\ntagnames: ''
 author: warren
 path: /wiki/mapknitter-test.md
 nid: 18526

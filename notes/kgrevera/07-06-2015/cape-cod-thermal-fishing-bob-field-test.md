@@ -1,6 +1,5 @@
 ---
-title: 'Cape Cod Thermal Fishing Bob Field Test'
-tagnames: thermal-photography, cape-cod, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689
+title: "Cape Cod Thermal Fishing Bob Field Test"\ntagnames: 'thermal-photography, cape-cod, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689'
 author: kgrevera
 path: /notes/kgrevera/07-06-2015/cape-cod-thermal-fishing-bob-field-test.md
 nid: 12034
@@ -12,7 +11,7 @@ uid: 432001
 
 # Cape Cod Thermal Fishing Bob Field Test
 
-by [kgrevera](../profile/kgrevera) July 06, 2015 15:58
+by [kgrevera](../profile/kgrevera) | July 06, 2015 15:58
 
 July 06, 2015 15:58 | Tags: [thermal-photography](../tag/thermal-photography), [cape-cod](../tag/cape-cod), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
 

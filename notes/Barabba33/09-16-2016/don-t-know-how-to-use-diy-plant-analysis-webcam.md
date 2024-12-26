@@ -1,6 +1,5 @@
 ---
-title: 'Don't know how to use DIY Plant Analysis Webcam'
-tagnames: question:infragram, question:infrared
+title: "Don't know how to use DIY Plant Analysis Webcam"\ntagnames: 'question:infragram, question:infrared'
 author: Barabba33
 path: /notes/Barabba33/09-16-2016/don-t-know-how-to-use-diy-plant-analysis-webcam.md
 nid: 13452
@@ -12,7 +11,7 @@ uid: 491796
 
 # Don't know how to use DIY Plant Analysis Webcam
 
-by [Barabba33](../profile/Barabba33) September 16, 2016 07:33
+by [Barabba33](../profile/Barabba33) | September 16, 2016 07:33
 
 September 16, 2016 07:33 | Tags: [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared)
 

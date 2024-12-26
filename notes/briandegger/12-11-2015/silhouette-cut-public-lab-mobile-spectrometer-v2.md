@@ -1,6 +1,5 @@
 ---
-title: 'Silhouette cut Public Lab Mobile spectrometer v2'
-tagnames: spectrometer, instructables, foldable, papercraft, silhouette-cameo, foldable-spectrometer, silhouette, cameo, upgrade:foldable-spec
+title: "Silhouette cut Public Lab Mobile spectrometer v2"\ntagnames: 'spectrometer, instructables, foldable, papercraft, silhouette-cameo, foldable-spectrometer, silhouette, cameo, upgrade:foldable-spec'
 author: briandegger
 path: /notes/briandegger/12-11-2015/silhouette-cut-public-lab-mobile-spectrometer-v2.md
 nid: 12497
@@ -12,7 +11,7 @@ uid: 58232
 
 # Silhouette cut Public Lab Mobile spectrometer v2
 
-by [briandegger](../profile/briandegger) December 11, 2015 15:59
+by [briandegger](../profile/briandegger) | December 11, 2015 15:59
 
 December 11, 2015 15:59 | Tags: [spectrometer](../tag/spectrometer), [instructables](../tag/instructables), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [silhouette-cameo](../tag/silhouette-cameo), [foldable-spectrometer](../tag/foldable-spectrometer), [silhouette](../tag/silhouette), [cameo](../tag/cameo), [upgrade:foldable-spec](../tag/upgrade:foldable-spec)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Video describing basics of launching regular/mini balloon kits?'
-tagnames: balloon-mapping, question:balloon-mapping
+title: "Video describing basics of launching regular/mini balloon kits?"\ntagnames: 'balloon-mapping, question:balloon-mapping'
 author: pfhs
 path: /notes/pfhs/06-29-2018/video-describing-basics-of-launching-regular-mini-balloon-kits.md
 nid: 16591
@@ -10,7 +9,7 @@ uid: 442023
 
 # Video describing basics of launching regular/mini balloon kits?
 
-by [pfhs](../profile/pfhs) June 29, 2018 18:42
+by [pfhs](../profile/pfhs) | June 29, 2018 18:42
 
 June 29, 2018 18:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [question:balloon-mapping](../tag/question:balloon-mapping)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Ideas from the $10 Kickstarter backers on how they will use the spectrometer'
-tagnames: spectrometer, fold-up-mini-spectrometer
+title: "Ideas from the $10 Kickstarter backers on how they will use the spectrometer"\ntagnames: 'spectrometer, fold-up-mini-spectrometer'
 author: Shannon
 path: /notes/shannon/12-12-2012/ideas-kickstarter-diy-spectrometer-10-backers-how-they-will-use-spectromete.md
 nid: 5182
@@ -10,7 +9,7 @@ uid: 9
 
 # Ideas from the $10 Kickstarter backers on how they will use the spectrometer
 
-by [Shannon](../profile/Shannon) December 12, 2012 17:47
+by [Shannon](../profile/Shannon) | December 12, 2012 17:47
 
 December 12, 2012 17:47 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
 

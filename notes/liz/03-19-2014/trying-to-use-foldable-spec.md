@@ -1,6 +1,5 @@
 ---
-title: 'trying to use foldable spec'
-tagnames: 
+title: "trying to use foldable spec"\ntagnames: ''
 author: liz
 path: /notes/liz/03-19-2014/trying-to-use-foldable-spec.md
 nid: 10207
@@ -12,7 +11,7 @@ uid: 7
 
 # trying to use foldable spec
 
-by [liz](../profile/liz) March 19, 2014 22:59
+by [liz](../profile/liz) | March 19, 2014 22:59
 
 March 19, 2014 22:59 | Tags: 
 

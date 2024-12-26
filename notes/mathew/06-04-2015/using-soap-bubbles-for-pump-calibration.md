@@ -1,6 +1,5 @@
 ---
-title: 'using soap bubbles for pump calibration'
-tagnames: calibration, air-quality, h2s, formaldehyde, open-air, openair, pump, indoor-air-quality, vacuum
+title: "using soap bubbles for pump calibration"\ntagnames: 'calibration, air-quality, h2s, formaldehyde, open-air, openair, pump, indoor-air-quality, vacuum'
 author: mathew
 path: /notes/mathew/06-04-2015/using-soap-bubbles-for-pump-calibration.md
 nid: 11949
@@ -12,7 +11,7 @@ uid: 4
 
 # using soap bubbles for pump calibration
 
-by [mathew](../profile/mathew) June 04, 2015 01:32
+by [mathew](../profile/mathew) | June 04, 2015 01:32
 
 June 04, 2015 01:32 | Tags: [calibration](../tag/calibration), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [pump](../tag/pump), [indoor-air-quality](../tag/indoor-air-quality), [vacuum](../tag/vacuum)
 

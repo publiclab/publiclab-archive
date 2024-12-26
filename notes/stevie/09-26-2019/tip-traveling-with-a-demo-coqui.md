@@ -1,6 +1,5 @@
 ---
-title: 'Tip: traveling with a demo coqui'
-tagnames: education, workshop, coqui
+title: "Tip: traveling with a demo coqui"\ntagnames: 'education, workshop, coqui'
 author: stevie
 path: /notes/stevie/09-26-2019/tip-traveling-with-a-demo-coqui.md
 nid: 20994
@@ -12,7 +11,7 @@ uid: 422561
 
 # Tip: traveling with a demo coqui
 
-by [stevie](../profile/stevie) September 26, 2019 14:14
+by [stevie](../profile/stevie) | September 26, 2019 14:14
 
 September 26, 2019 14:14 | Tags: [education](../tag/education), [workshop](../tag/workshop), [coqui](../tag/coqui)
 

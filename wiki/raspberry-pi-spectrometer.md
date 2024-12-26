@@ -1,6 +1,5 @@
 ---
-title: 'Raspberry Pi Spectrometer'
-tagnames: spectrometer, parent:spectrometry, raspberry-pi-spectrometer, qtesting
+title: "Raspberry Pi Spectrometer"\ntagnames: 'spectrometer, parent:spectrometry, raspberry-pi-spectrometer, qtesting'
 author: warren
 path: /wiki/raspberry-pi-spectrometer.md
 nid: 15245

@@ -1,6 +1,5 @@
 ---
-title: 'Silica detection'
-tagnames: 
+title: "Silica detection"\ntagnames: ''
 author: warren
 path: /wiki/silica-detection.md
 nid: 9382

@@ -1,6 +1,5 @@
 ---
-title: 'Bolt and acrylic cuvette holder research'
-tagnames: spectrometer, fluorescence, barnraising, cuvette, sampling, oil-testing-kit, barnraising-2015, cuvette-frame
+title: "Bolt and acrylic cuvette holder research"\ntagnames: 'spectrometer, fluorescence, barnraising, cuvette, sampling, oil-testing-kit, barnraising-2015, cuvette-frame'
 author: warren
 path: /notes/warren/11-30-2015/bolt-and-acrylic-cuvette-holder-research.md
 nid: 12462
@@ -12,7 +11,7 @@ uid: 1
 
 # Bolt and acrylic cuvette holder research
 
-by [warren](../profile/warren) November 30, 2015 19:20
+by [warren](../profile/warren) | November 30, 2015 19:20
 
 November 30, 2015 19:20 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [barnraising](../tag/barnraising), [cuvette](../tag/cuvette), [sampling](../tag/sampling), [oil-testing-kit](../tag/oil-testing-kit), [barnraising-2015](../tag/barnraising-2015), [cuvette-frame](../tag/cuvette-frame)
 

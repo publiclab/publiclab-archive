@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Irradiance Study Section ll using The DH4.0v4 Spectrometer'
-tagnames: 
+title: "Spectral Irradiance Study Section ll using The DH4.0v4 Spectrometer"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/09-03-2016/spectral-irradiance-study-section-ll-using-the-dh4-0v4-spectrometer.md
 nid: 13414
@@ -12,7 +11,7 @@ uid: 461120
 
 # Spectral Irradiance Study Section ll using The DH4.0v4 Spectrometer
 
-by [dhaffnersr](../profile/dhaffnersr) September 03, 2016 11:52
+by [dhaffnersr](../profile/dhaffnersr) | September 03, 2016 11:52
 
 September 03, 2016 11:52 | Tags: 
 

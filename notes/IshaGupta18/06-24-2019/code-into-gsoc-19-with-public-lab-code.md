@@ -1,6 +1,5 @@
 ---
-title: '<code> Into GSoC’19 with Public Lab </code>'
-tagnames: open-source, gsoc, soc, soc-2019
+title: "<code> Into GSoC’19 with Public Lab </code>"\ntagnames: 'open-source, gsoc, soc, soc-2019'
 author: IshaGupta18
 path: /notes/IshaGupta18/06-24-2019/code-into-gsoc-19-with-public-lab-code.md
 nid: 19840
@@ -12,7 +11,7 @@ uid: 568043
 
 # <code> Into GSoC’19 with Public Lab </code>
 
-by [IshaGupta18](../profile/IshaGupta18) June 24, 2019 17:07
+by [IshaGupta18](../profile/IshaGupta18) | June 24, 2019 17:07
 
 June 24, 2019 17:07 | Tags: [open-source](../tag/open-source), [gsoc](../tag/gsoc), [soc](../tag/soc), [soc-2019](../tag/soc-2019)
 

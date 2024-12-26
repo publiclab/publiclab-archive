@@ -1,6 +1,5 @@
 ---
-title: 'Progress? Options...'
-tagnames: research, environment, audio, question:arduino, question:autonomous-recording-unit
+title: "Progress? Options..."\ntagnames: 'research, environment, audio, question:arduino, question:autonomous-recording-unit'
 author: bbran
 path: /notes/bbran/10-21-2016/progress-options.md
 nid: 13635
@@ -10,7 +9,7 @@ uid: 495181
 
 # Progress? Options...
 
-by [bbran](../profile/bbran) October 21, 2016 16:28
+by [bbran](../profile/bbran) | October 21, 2016 16:28
 
 October 21, 2016 16:28 | Tags: [research](../tag/research), [environment](../tag/environment), [audio](../tag/audio), [question:arduino](../tag/question:arduino), [question:autonomous-recording-unit](../tag/question:autonomous-recording-unit)
 

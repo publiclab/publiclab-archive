@@ -1,6 +1,5 @@
 ---
-title: 'aerial-mapping'
-tagnames: redirect:13474
+title: "aerial-mapping"\ntagnames: 'redirect:13474'
 author: warren
 path: /wiki/aerial-mapping.md
 nid: 14556

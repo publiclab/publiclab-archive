@@ -1,6 +1,5 @@
 ---
-title: 'NY-NJ 2012 meeting'
-tagnames: 
+title: "NY-NJ 2012 meeting"\ntagnames: ''
 author: liz
 path: /wiki/ny-nj-2012-goal-meeting.md
 nid: 826

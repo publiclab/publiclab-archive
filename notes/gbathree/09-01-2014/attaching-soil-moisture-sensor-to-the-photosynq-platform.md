@@ -1,6 +1,5 @@
 ---
-title: 'Attaching soil moisture sensor to the PhotosynQ platform'
-tagnames: photosynq, multispeq, soil-moisture
+title: "Attaching soil moisture sensor to the PhotosynQ platform"\ntagnames: 'photosynq, multispeq, soil-moisture'
 author: gbathree
 path: /notes/gbathree/09-01-2014/attaching-soil-moisture-sensor-to-the-photosynq-platform.md
 nid: 11093
@@ -12,7 +11,7 @@ uid: 53164
 
 # Attaching soil moisture sensor to the PhotosynQ platform
 
-by [gbathree](../profile/gbathree) September 01, 2014 15:38
+by [gbathree](../profile/gbathree) | September 01, 2014 15:38
 
 September 01, 2014 15:38 | Tags: [photosynq](../tag/photosynq), [multispeq](../tag/multispeq), [soil-moisture](../tag/soil-moisture)
 

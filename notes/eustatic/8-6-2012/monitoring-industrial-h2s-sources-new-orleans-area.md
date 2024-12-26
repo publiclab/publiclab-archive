@@ -1,6 +1,5 @@
 ---
-title: 'monitoring industrial H2S sources in new orleans area'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, flare, h2s-sites
+title: "monitoring industrial H2S sources in new orleans area"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, flare, h2s-sites'
 author: eustatic
 path: /8-6-2012/monitoring-industrial-h2s-sources-new-orleans-area.md
 nid: 3151
@@ -12,7 +11,7 @@ uid: 379
 
 # monitoring industrial H2S sources in new orleans area
 
-by [eustatic](../profile/eustatic) August 06, 2012 19:53
+by [eustatic](../profile/eustatic) | August 06, 2012 19:53
 
 August 06, 2012 19:53 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [flare](../tag/flare), [h2s-sites](../tag/h2s-sites)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Photo Reconstruction from KAP at Acacia Reservation'
-tagnames: kite-aerial-photography, kap, autokap, kaptery, saturnv, skyshield, point-cloud
+title: "Photo Reconstruction from KAP at Acacia Reservation"\ntagnames: 'kite-aerial-photography, kap, autokap, kaptery, saturnv, skyshield, point-cloud'
 author: dbenjamin
 path: /notes/dbenjamin/09-04-2015/photo-reconstruction-from-kap-at-acacia-reservation.md
 nid: 12199
@@ -12,7 +11,7 @@ uid: 444468
 
 # Photo Reconstruction from KAP at Acacia Reservation
 
-by [dbenjamin](../profile/dbenjamin) September 04, 2015 14:07
+by [dbenjamin](../profile/dbenjamin) | September 04, 2015 14:07
 
 September 04, 2015 14:07 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [point-cloud](../tag/point-cloud)
 

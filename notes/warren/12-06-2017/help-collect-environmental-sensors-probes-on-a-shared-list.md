@@ -1,6 +1,5 @@
 ---
-title: 'Help collect environmental sensors + probes on a shared list'
-tagnames: hydrogen-sulfide, data-logging, activity:data-logging, activity:sensors, requests, activity:requests, response:15308, activity:water-sensors
+title: "Help collect environmental sensors + probes on a shared list"\ntagnames: 'hydrogen-sulfide, data-logging, activity:data-logging, activity:sensors, requests, activity:requests, response:15308, activity:water-sensors'
 author: warren
 path: /notes/warren/12-06-2017/help-collect-environmental-sensors-probes-on-a-shared-list.md
 nid: 15319
@@ -12,7 +11,7 @@ uid: 1
 
 # Help collect environmental sensors + probes on a shared list
 
-by [warren](../profile/warren) December 06, 2017 16:02
+by [warren](../profile/warren) | December 06, 2017 16:02
 
 December 06, 2017 16:02 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [data-logging](../tag/data-logging), [activity:data-logging](../tag/activity:data-logging), [activity:sensors](../tag/activity:sensors), [requests](../tag/requests), [activity:requests](../tag/activity:requests), [response:15308](../tag/response:15308), [activity:water-sensors](../tag/activity:water-sensors)
 

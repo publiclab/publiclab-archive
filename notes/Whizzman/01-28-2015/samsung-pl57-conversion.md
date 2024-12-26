@@ -1,6 +1,5 @@
 ---
-title: 'Samsung PL57 conversion'
-tagnames: 
+title: "Samsung PL57 conversion"\ntagnames: ''
 author: Whizzman
 path: /notes/Whizzman/01-28-2015/samsung-pl57-conversion.md
 nid: 11543
@@ -12,7 +11,7 @@ uid: 434353
 
 # Samsung PL57 conversion
 
-by [Whizzman](../profile/Whizzman) January 28, 2015 13:16
+by [Whizzman](../profile/Whizzman) | January 28, 2015 13:16
 
 January 28, 2015 13:16 | Tags: 
 

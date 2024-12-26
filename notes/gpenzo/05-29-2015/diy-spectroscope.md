@@ -1,6 +1,5 @@
 ---
-title: 'DIY spectroscope'
-tagnames: diy, spectroscope
+title: "DIY spectroscope"\ntagnames: 'diy, spectroscope'
 author: gpenzo
 path: /notes/gpenzo/05-29-2015/diy-spectroscope.md
 nid: 11906
@@ -12,7 +11,7 @@ uid: 420719
 
 # DIY spectroscope
 
-by [gpenzo](../profile/gpenzo) May 29, 2015 19:33
+by [gpenzo](../profile/gpenzo) | May 29, 2015 19:33
 
 May 29, 2015 19:33 | Tags: [diy](../tag/diy), [spectroscope](../tag/spectroscope)
 

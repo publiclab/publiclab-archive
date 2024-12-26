@@ -1,6 +1,5 @@
 ---
-title: 'Park_Basic'
-tagnames: infragram, multispectral-imaging, first-time-poster, infragram-upload, test_image
+title: "Park_Basic"\ntagnames: 'infragram, multispectral-imaging, first-time-poster, infragram-upload, test_image'
 author: jdetka
 path: /notes/jdetka/06-02-2022/park_basic.md
 nid: 31005
@@ -12,7 +11,7 @@ uid: 801421
 
 # Park_Basic
 
-by [jdetka](../profile/jdetka) June 02, 2022 03:20
+by [jdetka](../profile/jdetka) | June 02, 2022 03:20
 
 June 02, 2022 03:20 | Tags: [infragram](../tag/infragram), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster), [infragram-upload](../tag/infragram-upload), [test_image](../tag/test_image)
 

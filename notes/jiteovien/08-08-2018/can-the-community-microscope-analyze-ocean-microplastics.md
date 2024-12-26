@@ -1,6 +1,5 @@
 ---
-title: 'Can the Community Microscope analyze ocean microplastics?'
-tagnames: water-quality, microscope, question:microplastics, microplastics, question:babylegs, question:community-microscope-challenges, community-microscope-challenges
+title: "Can the Community Microscope analyze ocean microplastics?"\ntagnames: 'water-quality, microscope, question:microplastics, microplastics, question:babylegs, question:community-microscope-challenges, community-microscope-challenges'
 author: jiteovien
 path: /notes/jiteovien/08-08-2018/can-the-community-microscope-analyze-ocean-microplastics.md
 nid: 16886
@@ -10,7 +9,7 @@ uid: 540008
 
 # Can the Community Microscope analyze ocean microplastics?
 
-by [jiteovien](../profile/jiteovien) August 08, 2018 21:12
+by [jiteovien](../profile/jiteovien) | August 08, 2018 21:12
 
 August 08, 2018 21:12 | Tags: [water-quality](../tag/water-quality), [microscope](../tag/microscope), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [question:babylegs](../tag/question:babylegs), [question:community-microscope-challenges](../tag/question:community-microscope-challenges), [community-microscope-challenges](../tag/community-microscope-challenges)
 

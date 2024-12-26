@@ -1,6 +1,5 @@
 ---
-title: 'Wrapping up Google Summer of Code 2016!'
-tagnames: software, gsoc, web, blog, developers, coding, wwg, seeks:responses, gsoc-2016, webjack, new-contributors
+title: "Wrapping up Google Summer of Code 2016!"\ntagnames: 'software, gsoc, web, blog, developers, coding, wwg, seeks:responses, gsoc-2016, webjack, new-contributors'
 author: warren
 path: /notes/warren/08-26-2016/wrapping-up-google-summer-of-code-2016.md
 nid: 13397
@@ -12,7 +11,7 @@ uid: 1
 
 # Wrapping up Google Summer of Code 2016!
 
-by [warren](../profile/warren) August 26, 2016 15:47
+by [warren](../profile/warren) | August 26, 2016 15:47
 
 August 26, 2016 15:47 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [blog](../tag/blog), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [seeks:responses](../tag/seeks:responses), [gsoc-2016](../tag/gsoc-2016), [webjack](../tag/webjack), [new-contributors](../tag/new-contributors)
 

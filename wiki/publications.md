@@ -1,6 +1,5 @@
 ---
-title: 'Publications'
-tagnames: 
+title: "Publications"\ntagnames: ''
 author: 
 path: /wiki/publications.md
 nid: 49

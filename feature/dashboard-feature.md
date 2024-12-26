@@ -1,6 +1,5 @@
 ---
-title: 'dashboard-feature'
-tagnames: 
+title: "dashboard-feature"\ntagnames: ''
 author: warren
 path: /feature/dashboard-feature.md
 nid: 13084

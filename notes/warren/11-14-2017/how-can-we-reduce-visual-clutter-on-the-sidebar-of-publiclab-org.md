@@ -1,6 +1,5 @@
 ---
-title: 'How can we reduce visual clutter on the sidebar of PublicLab.org?'
-tagnames: website, design, web, wwg, ui, question:ui
+title: "How can we reduce visual clutter on the sidebar of PublicLab.org?"\ntagnames: 'website, design, web, wwg, ui, question:ui'
 author: warren
 path: /notes/warren/11-14-2017/how-can-we-reduce-visual-clutter-on-the-sidebar-of-publiclab-org.md
 nid: 15185
@@ -10,7 +9,7 @@ uid: 1
 
 # How can we reduce visual clutter on the sidebar of PublicLab.org?
 
-by [warren](../profile/warren) November 14, 2017 17:43
+by [warren](../profile/warren) | November 14, 2017 17:43
 
 November 14, 2017 17:43 | Tags: [website](../tag/website), [design](../tag/design), [web](../tag/web), [wwg](../tag/wwg), [ui](../tag/ui), [question:ui](../tag/question:ui)
 

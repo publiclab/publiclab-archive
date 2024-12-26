@@ -1,6 +1,5 @@
 ---
-title: 'using image texture to find Trapa'
-tagnames: balloon-mapping, near-infrared-camera, amherst, infragram, invasive, classification, h2onutz, trapa, response:9019, activity:classification
+title: "using image texture to find Trapa"\ntagnames: 'balloon-mapping, near-infrared-camera, amherst, infragram, invasive, classification, h2onutz, trapa, response:9019, activity:classification'
 author: ttaylor
 path: /notes/ttaylor/08-18-2013/using-image-texture-to-find-trapa.md
 nid: 9034
@@ -12,7 +11,7 @@ uid: 58398
 
 # using image texture to find Trapa
 
-by [ttaylor](../profile/ttaylor) August 18, 2013 21:00
+by [ttaylor](../profile/ttaylor) | August 18, 2013 21:00
 
 August 18, 2013 21:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [amherst](../tag/amherst), [infragram](../tag/infragram), [invasive](../tag/invasive), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [trapa](../tag/trapa), [response:9019](../tag/response:9019), [activity:classification](../tag/activity:classification)
 

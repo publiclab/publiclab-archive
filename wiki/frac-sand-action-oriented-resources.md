@@ -1,6 +1,5 @@
 ---
-title: 'Action-Oriented Resources'
-tagnames: frac-sand, advocacy, parent:frac-sand, advocacy-pathways
+title: "Action-Oriented Resources"\ntagnames: 'frac-sand, advocacy, parent:frac-sand, advocacy-pathways'
 author: stevie
 path: /wiki/frac-sand-action-oriented-resources.md
 nid: 12570

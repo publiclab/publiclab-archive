@@ -1,6 +1,5 @@
 ---
-title: 'Carbon dioxide monitoring near LAX'
-tagnames: air-quality, los-angeles
+title: "Carbon dioxide monitoring near LAX"\ntagnames: 'air-quality, los-angeles'
 author: levisimons
 path: /notes/levisimons/06-15-2014/carbon-dioxide-monitoring-near-lax.md
 nid: 10573
@@ -12,7 +11,7 @@ uid: 1087
 
 # Carbon dioxide monitoring near LAX
 
-by [levisimons](../profile/levisimons) June 15, 2014 20:13
+by [levisimons](../profile/levisimons) | June 15, 2014 20:13
 
 June 15, 2014 20:13 | Tags: [air-quality](../tag/air-quality), [los-angeles](../tag/los-angeles)
 

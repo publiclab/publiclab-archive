@@ -1,6 +1,5 @@
 ---
-title: 'Wobble adjustments for simple juice bottle rig'
-tagnames: balloon-mapping, kite-mapping, photo-rig, bottle-rig, activity:photo-rig, replication:13948
+title: "Wobble adjustments for simple juice bottle rig"\ntagnames: 'balloon-mapping, kite-mapping, photo-rig, bottle-rig, activity:photo-rig, replication:13948'
 author: warren
 path: /notes/warren/11-19-2012/wobble-adjustments-simple-juice-bottle-rig.md
 nid: 4952
@@ -12,7 +11,7 @@ uid: 1
 
 # Wobble adjustments for simple juice bottle rig
 
-by [warren](../profile/warren) November 19, 2012 18:56
+by [warren](../profile/warren) | November 19, 2012 18:56
 
 November 19, 2012 18:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [bottle-rig](../tag/bottle-rig), [activity:photo-rig](../tag/activity:photo-rig), [replication:13948](../tag/replication:13948)
 

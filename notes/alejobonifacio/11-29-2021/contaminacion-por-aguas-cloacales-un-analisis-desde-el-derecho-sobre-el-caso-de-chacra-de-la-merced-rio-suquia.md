@@ -1,6 +1,5 @@
 ---
-title: 'Contaminación por aguas cloacales. Un análisis desde el Derecho sobre el caso de Chacra de la Merced (Río Suquía)'
-tagnames: sewage, water-quality, lang:es, wastewater, advocacy, south-america, laws, zoom:14, law-and-policy, research-curation-fellows, lat:-31.4, lon:-64.08, waste-water, chacra-de-la-merced
+title: "Contaminación por aguas cloacales. Un análisis desde el Derecho sobre el caso de Chacra de la Merced (Río Suquía)"\ntagnames: 'sewage, water-quality, lang:es, wastewater, advocacy, south-america, laws, zoom:14, law-and-policy, research-curation-fellows, lat:-31.4, lon:-64.08, waste-water, chacra-de-la-merced'
 author: alejobonifacio
 path: /notes/alejobonifacio/11-29-2021/contaminacion-por-aguas-cloacales-un-analisis-desde-el-derecho-sobre-el-caso-de-chacra-de-la-merced-rio-suquia.md
 nid: 28309
@@ -10,7 +9,7 @@ uid: 639376
 
 # Contaminación por aguas cloacales. Un análisis desde el Derecho sobre el caso de Chacra de la Merced (Río Suquía)
 
-by [alejobonifacio](../profile/alejobonifacio) November 29, 2021 13:39
+by [alejobonifacio](../profile/alejobonifacio) | November 29, 2021 13:39
 
 November 29, 2021 13:39 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [wastewater](../tag/wastewater), [advocacy](../tag/advocacy), [south-america](../tag/south-america), [laws](../tag/laws), [zoom:14](../tag/zoom:14), [law-and-policy](../tag/law-and-policy), [research-curation-fellows](../tag/research-curation-fellows), [lat:-31.4](../tag/lat:-31.4), [lon:-64.08](../tag/lon:-64.08), [waste-water](../tag/waste-water), [chacra-de-la-merced](../tag/chacra-de-la-merced)
 

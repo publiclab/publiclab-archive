@@ -1,6 +1,5 @@
 ---
-title: 'Mini-Buck vs. the Bubbles'
-tagnames: air-quality, measurement, silica, barnstar:empiricism, formaldehyde, open-air, particle-sensing, openair, indoor-air-quality, bubbles, air-monitoring, mini-buck, response:11949
+title: "Mini-Buck vs. the Bubbles"\ntagnames: 'air-quality, measurement, silica, barnstar:empiricism, formaldehyde, open-air, particle-sensing, openair, indoor-air-quality, bubbles, air-monitoring, mini-buck, response:11949'
 author: mathew
 path: /notes/mathew/06-11-2015/mini-buck-vs-the-bubbles.md
 nid: 11969
@@ -12,7 +11,7 @@ uid: 4
 
 # Mini-Buck vs. the Bubbles
 
-by [mathew](../profile/mathew) June 11, 2015 00:14
+by [mathew](../profile/mathew) | June 11, 2015 00:14
 
 June 11, 2015 00:14 | Tags: [air-quality](../tag/air-quality), [measurement](../tag/measurement), [silica](../tag/silica), [barnstar:empiricism](../tag/barnstar:empiricism), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [openair](../tag/openair), [indoor-air-quality](../tag/indoor-air-quality), [bubbles](../tag/bubbles), [air-monitoring](../tag/air-monitoring), [mini-buck](../tag/mini-buck), [response:11949](../tag/response:11949)
 

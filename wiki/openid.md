@@ -1,6 +1,5 @@
 ---
-title: 'OpenID'
-tagnames: 
+title: "OpenID"\ntagnames: ''
 author: warren
 path: /wiki/openid.md
 nid: 4666

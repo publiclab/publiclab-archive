@@ -1,6 +1,5 @@
 ---
-title: 'A Massdrop microscope sale (just 23 hours left)'
-tagnames: microscopes, question:microscopes
+title: "A Massdrop microscope sale (just 23 hours left)"\ntagnames: 'microscopes, question:microscopes'
 author: amirberAgain
 path: /notes/amirberAgain/01-07-2018/a-massdrop-microscope-sale-just-23-hours-left.md
 nid: 15471
@@ -10,7 +9,7 @@ uid: 420776
 
 # A Massdrop microscope sale (just 23 hours left)
 
-by [amirberAgain](../profile/amirberAgain) January 07, 2018 08:46
+by [amirberAgain](../profile/amirberAgain) | January 07, 2018 08:46
 
 January 07, 2018 08:46 | Tags: [microscopes](../tag/microscopes), [question:microscopes](../tag/question:microscopes)
 

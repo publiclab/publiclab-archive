@@ -1,6 +1,5 @@
 ---
-title: 'DIY Oil Testing Narratives'
-tagnames: louisiana, blog, oil-testing, oil-testing-kit, fellowship, with:ann
+title: "DIY Oil Testing Narratives"\ntagnames: 'louisiana, blog, oil-testing, oil-testing-kit, fellowship, with:ann'
 author: mlamadrid
 path: /notes/mlamadrid/03-17-2016/diy-oil-testing-narratives.md
 nid: 12850
@@ -12,7 +11,7 @@ uid: 45586
 
 # DIY Oil Testing Narratives
 
-by [mlamadrid](../profile/mlamadrid) March 17, 2016 03:49
+by [mlamadrid](../profile/mlamadrid) | March 17, 2016 03:49
 
 March 17, 2016 03:49 | Tags: [louisiana](../tag/louisiana), [blog](../tag/blog), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [fellowship](../tag/fellowship), [with:ann](../tag/with:ann)
 

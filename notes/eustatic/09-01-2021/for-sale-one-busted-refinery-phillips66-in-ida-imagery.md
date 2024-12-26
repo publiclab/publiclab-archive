@@ -1,6 +1,5 @@
 ---
-title: 'For Sale: One Busted Refinery.  Phillips66 in Ida imagery'
-tagnames: refinery, barnstar:basic, disaster-response, lng, zoom:16, ida, lat:29.688544, lon:-89.981737
+title: "For Sale: One Busted Refinery.  Phillips66 in Ida imagery"\ntagnames: 'refinery, barnstar:basic, disaster-response, lng, zoom:16, ida, lat:29.688544, lon:-89.981737'
 author: eustatic
 path: /09-01-2021/for-sale-one-busted-refinery-phillips66-in-ida-imagery.md
 nid: 27639
@@ -12,7 +11,7 @@ uid: 379
 
 # For Sale: One Busted Refinery.  Phillips66 in Ida imagery
 
-by [eustatic](../profile/eustatic) September 01, 2021 09:23
+by [eustatic](../profile/eustatic) | September 01, 2021 09:23
 
 September 01, 2021 09:23 | Tags: [refinery](../tag/refinery), [barnstar:basic](../tag/barnstar:basic), [disaster-response](../tag/disaster-response), [lng](../tag/lng), [zoom:16](../tag/zoom:16), [ida](../tag/ida), [lat:29.688544](../tag/lat:29.688544), [lon:-89.981737](../tag/lon:-89.981737)
 

@@ -1,6 +1,5 @@
 ---
-title: 'New Contest Seeks DIY Scientists Addressing Pollution with Open Source Devices'
-tagnames: spectrometer, spectralchallenge
+title: "New Contest Seeks DIY Scientists Addressing Pollution with Open Source Devices"\ntagnames: 'spectrometer, spectralchallenge'
 author: Shannon
 path: /notes/shannon/3-7-2013/spectral-challenge-press-release.md
 nid: 6233
@@ -12,7 +11,7 @@ uid: 9
 
 # New Contest Seeks DIY Scientists Addressing Pollution with Open Source Devices
 
-by [Shannon](../profile/Shannon) March 07, 2013 15:24
+by [Shannon](../profile/Shannon) | March 07, 2013 15:24
 
 March 07, 2013 15:24 | Tags: [spectrometer](../tag/spectrometer), [spectralchallenge](../tag/spectralchallenge)
 

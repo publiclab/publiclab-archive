@@ -1,6 +1,5 @@
 ---
-title: 'photoshop image distort time lapse video'
-tagnames: video, image-stitching, stitching
+title: "photoshop image distort time lapse video"\ntagnames: 'video, image-stitching, stitching'
 author: gonzoearth
 path: /notes/gonzoearth/7-10-2011/photoshop-image-distort-time-lapse-video.md
 nid: 376
@@ -12,7 +11,7 @@ uid: 12
 
 # photoshop image distort time lapse video
 
-by [gonzoearth](../profile/gonzoearth) July 10, 2011 19:53
+by [gonzoearth](../profile/gonzoearth) | July 10, 2011 19:53
 
 July 10, 2011 19:53 | Tags: [video](../tag/video), [image-stitching](../tag/image-stitching), [stitching](../tag/stitching)
 

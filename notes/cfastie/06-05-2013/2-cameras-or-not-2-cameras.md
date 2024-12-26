@@ -1,6 +1,5 @@
 ---
-title: '2 cameras or not 2 cameras'
-tagnames: near-infrared-camera, kite-mapping, nrg, ndvi, vermont, infrared, new-hampshire, farmhack, imagej, event, infragram, ifarm, gigapan, ifarm2013, 2007, ndvi-ag, lat:43.12, lon:-71.01
+title: "2 cameras or not 2 cameras"\ntagnames: 'near-infrared-camera, kite-mapping, nrg, ndvi, vermont, infrared, new-hampshire, farmhack, imagej, event, infragram, ifarm, gigapan, ifarm2013, 2007, ndvi-ag, lat:43.12, lon:-71.01'
 author: cfastie
 path: /notes/cfastie/06-05-2013/2-cameras-or-not-2-cameras.md
 nid: 8072
@@ -12,7 +11,7 @@ uid: 554
 
 # 2 cameras or not 2 cameras
 
-by [cfastie](../profile/cfastie) June 05, 2013 12:13
+by [cfastie](../profile/cfastie) | June 05, 2013 12:13
 
 June 05, 2013 12:13 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [imagej](../tag/imagej), [event](../tag/event), [infragram](../tag/infragram), [ifarm](../tag/ifarm), [gigapan](../tag/gigapan), [ifarm2013](../tag/ifarm2013), [2007](../tag/2007), [ndvi-ag](../tag/ndvi-ag), [lat:43.12](../tag/lat:43.12), [lon:-71.01](../tag/lon:-71.01)
 

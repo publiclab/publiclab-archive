@@ -1,6 +1,5 @@
 ---
-title: 'Question: What is the Open Source Community's Take the MIT License?'
-tagnames: open-source, answered, license, question:legal, question:license, question:copyright, law-and-policy, question:law-and-policy
+title: "Question: What is the Open Source Community's Take the MIT License?"\ntagnames: 'open-source, answered, license, question:legal, question:license, question:copyright, law-and-policy, question:law-and-policy'
 author: nshapiro
 path: /notes/nshapiro/09-02-2016/question-what-is-the-open-source-community-s-take-the-mit-license.md
 nid: 13411
@@ -10,7 +9,7 @@ uid: 380298
 
 # Question: What is the Open Source Community's Take the MIT License?
 
-by [nshapiro](../profile/nshapiro) September 02, 2016 11:15
+by [nshapiro](../profile/nshapiro) | September 02, 2016 11:15
 
 September 02, 2016 11:15 | Tags: [open-source](../tag/open-source), [answered](../tag/answered), [license](../tag/license), [question:legal](../tag/question:legal), [question:license](../tag/question:license), [question:copyright](../tag/question:copyright), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 

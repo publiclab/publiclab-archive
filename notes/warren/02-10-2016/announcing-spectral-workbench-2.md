@@ -1,6 +1,5 @@
 ---
-title: 'Announcing Spectral Workbench 2'
-tagnames: spectrometer, software, spectral-workbench, developers, code, oil-testing-kit
+title: "Announcing Spectral Workbench 2"\ntagnames: 'spectrometer, software, spectral-workbench, developers, code, oil-testing-kit'
 author: warren
 path: /notes/warren/02-10-2016/announcing-spectral-workbench-2.md
 nid: 12677
@@ -12,7 +11,7 @@ uid: 1
 
 # Announcing Spectral Workbench 2
 
-by [warren](../profile/warren) February 10, 2016 14:34
+by [warren](../profile/warren) | February 10, 2016 14:34
 
 February 10, 2016 14:34 | Tags: [spectrometer](../tag/spectrometer), [software](../tag/software), [spectral-workbench](../tag/spectral-workbench), [developers](../tag/developers), [code](../tag/code), [oil-testing-kit](../tag/oil-testing-kit)
 

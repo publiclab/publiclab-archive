@@ -1,6 +1,5 @@
 ---
-title: 'Cigars'
-tagnames: spectrometer, vermont, emission-spectroscopy, ebert, neon-sign
+title: "Cigars"\ntagnames: 'spectrometer, vermont, emission-spectroscopy, ebert, neon-sign'
 author: cfastie
 path: /notes/cfastie/2-21-2013/cigars.md
 nid: 6087
@@ -12,7 +11,7 @@ uid: 554
 
 # Cigars
 
-by [cfastie](../profile/cfastie) February 22, 2013 00:10
+by [cfastie](../profile/cfastie) | February 22, 2013 00:10
 
 February 22, 2013 00:10 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [emission-spectroscopy](../tag/emission-spectroscopy), [ebert](../tag/ebert), [neon-sign](../tag/neon-sign)
 

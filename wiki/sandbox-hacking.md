@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-hacking'
-tagnames: 
+title: "sandbox-hacking"\ntagnames: ''
 author: liz
 path: /wiki/sandbox-hacking.md
 nid: 13484

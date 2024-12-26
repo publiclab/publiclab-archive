@@ -1,6 +1,5 @@
 ---
-title: 'Oil Testing Kit Initial Electronics'
-tagnames: spectrometer, fluorescence, cuvette, oil-testing-kit, barnstar:basic, cuvette-frame, response:12616
+title: "Oil Testing Kit Initial Electronics"\ntagnames: 'spectrometer, fluorescence, cuvette, oil-testing-kit, barnstar:basic, cuvette-frame, response:12616'
 author: cbreuer
 path: /notes/cbreuer/02-06-2016/oil-testing-kit-initial-electronics.md
 nid: 12666
@@ -12,7 +11,7 @@ uid: 49682
 
 # Oil Testing Kit Initial Electronics
 
-by [cbreuer](../profile/cbreuer) February 06, 2016 21:38
+by [cbreuer](../profile/cbreuer) | February 06, 2016 21:38
 
 February 06, 2016 21:38 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [cuvette](../tag/cuvette), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [cuvette-frame](../tag/cuvette-frame), [response:12616](../tag/response:12616)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Broadening'
-tagnames: spectrometer, vermont, emission-spectroscopy, spectrometer-calibration, ebert, hps, broadening, na, absorption, barnstar:basic, sodium
+title: "Broadening"\ntagnames: 'spectrometer, vermont, emission-spectroscopy, spectrometer-calibration, ebert, hps, broadening, na, absorption, barnstar:basic, sodium'
 author: cfastie
 path: /notes/cfastie/2-26-2013/broadening.md
 nid: 6124
@@ -12,7 +11,7 @@ uid: 554
 
 # Broadening
 
-by [cfastie](../profile/cfastie) February 26, 2013 14:32
+by [cfastie](../profile/cfastie) | February 26, 2013 14:32
 
 February 26, 2013 14:32 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [emission-spectroscopy](../tag/emission-spectroscopy), [spectrometer-calibration](../tag/spectrometer-calibration), [ebert](../tag/ebert), [hps](../tag/hps), [broadening](../tag/broadening), [na](../tag/na), [absorption](../tag/absorption), [barnstar:basic](../tag/barnstar:basic), [sodium](../tag/sodium)
 

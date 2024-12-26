@@ -1,6 +1,5 @@
 ---
-title: 'Who has used vehicles as mobile sensor platforms?'
-tagnames: air, data, platform, quality, weather, question:sensors, first-time-poster, vehicles, ambient
+title: "Who has used vehicles as mobile sensor platforms?"\ntagnames: 'air, data, platform, quality, weather, question:sensors, first-time-poster, vehicles, ambient'
 author: waugh2k
 path: /notes/waugh2k/06-26-2019/who-has-used-vehicles-as-mobile-sensor-platforms.md
 nid: 19877
@@ -10,7 +9,7 @@ uid: 54
 
 # Who has used vehicles as mobile sensor platforms?
 
-by [waugh2k](../profile/waugh2k) June 26, 2019 16:57
+by [waugh2k](../profile/waugh2k) | June 26, 2019 16:57
 
 June 26, 2019 16:57 | Tags: [air](../tag/air), [data](../tag/data), [platform](../tag/platform), [quality](../tag/quality), [weather](../tag/weather), [question:sensors](../tag/question:sensors), [first-time-poster](../tag/first-time-poster), [vehicles](../tag/vehicles), [ambient](../tag/ambient)
 

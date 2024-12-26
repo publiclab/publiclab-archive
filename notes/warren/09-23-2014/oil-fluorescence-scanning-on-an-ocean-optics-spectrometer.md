@@ -1,6 +1,5 @@
 ---
-title: 'Oil fluorescence scanning on an Ocean Optics spectrometer'
-tagnames: spectrometer, vermont, calibration, leaffest, ultraviolet, fluorescence, crude, oil-testing-kit, leaffest2014, ocean-optics
+title: "Oil fluorescence scanning on an Ocean Optics spectrometer"\ntagnames: 'spectrometer, vermont, calibration, leaffest, ultraviolet, fluorescence, crude, oil-testing-kit, leaffest2014, ocean-optics'
 author: warren
 path: /notes/warren/09-23-2014/oil-fluorescence-scanning-on-an-ocean-optics-spectrometer.md
 nid: 11176
@@ -12,7 +11,7 @@ uid: 1
 
 # Oil fluorescence scanning on an Ocean Optics spectrometer
 
-by [warren](../profile/warren) September 23, 2014 17:42
+by [warren](../profile/warren) | September 23, 2014 17:42
 
 September 23, 2014 17:42 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [calibration](../tag/calibration), [leaffest](../tag/leaffest), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [crude](../tag/crude), [oil-testing-kit](../tag/oil-testing-kit), [leaffest2014](../tag/leaffest2014), [ocean-optics](../tag/ocean-optics)
 

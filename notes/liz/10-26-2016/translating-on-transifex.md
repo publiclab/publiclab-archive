@@ -1,6 +1,5 @@
 ---
-title: 'Step 2: Translate on Transifex'
-tagnames: website, activity, localization, translation, language, comunity, activity:localization
+title: "Step 2: Translate on Transifex"\ntagnames: 'website, activity, localization, translation, language, comunity, activity:localization'
 author: liz
 path: /notes/liz/10-26-2016/translating-on-transifex.md
 nid: 13651
@@ -12,7 +11,7 @@ uid: 7
 
 # Step 2: Translate on Transifex
 
-by [liz](../profile/liz) October 26, 2016 18:34
+by [liz](../profile/liz) | October 26, 2016 18:34
 
 October 26, 2016 18:34 | Tags: [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [comunity](../tag/comunity), [activity:localization](../tag/activity:localization)
 

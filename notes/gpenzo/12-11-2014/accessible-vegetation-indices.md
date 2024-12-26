@@ -1,6 +1,5 @@
 ---
-title: 'Accessible Vegetation Indices.'
-tagnames: ndvi, nir, cameras, bone, two, beagle
+title: "Accessible Vegetation Indices."\ntagnames: 'ndvi, nir, cameras, bone, two, beagle'
 author: gpenzo
 path: /notes/gpenzo/12-11-2014/accessible-vegetation-indices.md
 nid: 11448
@@ -12,7 +11,7 @@ uid: 420719
 
 # Accessible Vegetation Indices.
 
-by [gpenzo](../profile/gpenzo) December 11, 2014 12:45
+by [gpenzo](../profile/gpenzo) | December 11, 2014 12:45
 
 December 11, 2014 12:45 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [cameras](../tag/cameras), [bone](../tag/bone), [two](../tag/two), [beagle](../tag/beagle)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Do you know of environmental justice applications of remote sensing data?'
-tagnames: question:question, question:general, question:remote-sensing, question:satellite-imagery
+title: "Do you know of environmental justice applications of remote sensing data?"\ntagnames: 'question:question, question:general, question:remote-sensing, question:satellite-imagery'
 author: gretchengehrke
 path: /notes/gretchengehrke/07-10-2017/do-you-know-of-environmental-justice-applications-of-remote-sensing-data.md
 nid: 14640
@@ -10,7 +9,7 @@ uid: 430549
 
 # Do you know of environmental justice applications of remote sensing data?
 
-by [gretchengehrke](../profile/gretchengehrke) July 10, 2017 21:14
+by [gretchengehrke](../profile/gretchengehrke) | July 10, 2017 21:14
 
 July 10, 2017 21:14 | Tags: [question:question](../tag/question:question), [question:general](../tag/question:general), [question:remote-sensing](../tag/question:remote-sensing), [question:satellite-imagery](../tag/question:satellite-imagery)
 

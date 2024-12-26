@@ -1,6 +1,5 @@
 ---
-title: 'Accessible procedure for calibrating conductivity measurements?'
-tagnames: water-quality, conductivity, riffle, coqui, question:water-quality, question:coqui, question:conductivity, salinity, question:salinity
+title: "Accessible procedure for calibrating conductivity measurements?"\ntagnames: 'water-quality, conductivity, riffle, coqui, question:water-quality, question:coqui, question:conductivity, salinity, question:salinity'
 author: donblair
 path: /notes/donblair/07-22-2014/accessible-procedure-for-calibrating-conductivity-measurements.md
 nid: 10949
@@ -12,7 +11,7 @@ uid: 43651
 
 # Accessible procedure for calibrating conductivity measurements?
 
-by [donblair](../profile/donblair) July 22, 2014 21:45
+by [donblair](../profile/donblair) | July 22, 2014 21:45
 
 July 22, 2014 21:45 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [coqui](../tag/coqui), [question:water-quality](../tag/question:water-quality), [question:coqui](../tag/question:coqui), [question:conductivity](../tag/question:conductivity), [salinity](../tag/salinity), [question:salinity](../tag/question:salinity)
 

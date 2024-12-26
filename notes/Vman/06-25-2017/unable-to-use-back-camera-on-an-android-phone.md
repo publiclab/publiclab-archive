@@ -1,6 +1,5 @@
 ---
-title: 'Unable to use back camera on an android phone'
-tagnames: spectrometer, spectralworkbench, export, graph, question:general
+title: "Unable to use back camera on an android phone"\ntagnames: 'spectrometer, spectralworkbench, export, graph, question:general'
 author: Vman
 path: /notes/Vman/06-25-2017/unable-to-use-back-camera-on-an-android-phone.md
 nid: 14582
@@ -10,7 +9,7 @@ uid: 497579
 
 # Unable to use back camera on an android phone
 
-by [Vman](../profile/Vman) June 25, 2017 17:19
+by [Vman](../profile/Vman) | June 25, 2017 17:19
 
 June 25, 2017 17:19 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [graph](../tag/graph), [question:general](../tag/question:general)
 

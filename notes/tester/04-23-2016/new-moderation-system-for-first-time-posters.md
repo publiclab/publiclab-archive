@@ -1,6 +1,5 @@
 ---
-title: 'New moderation system for first-time posters'
-tagnames: community, website, organizers, spam, barnstar:basic, with:warren, moderation, newcomers, location:blurred, lat:-80, lon:630, first-contribution
+title: "New moderation system for first-time posters"\ntagnames: 'community, website, organizers, spam, barnstar:basic, with:warren, moderation, newcomers, location:blurred, lat:-80, lon:630, first-contribution'
 author: tester
 path: /notes/tester/04-23-2016/new-moderation-system-for-first-time-posters.md
 nid: 13023
@@ -12,7 +11,7 @@ uid: 60662
 
 # New moderation system for first-time posters
 
-by [tester](../profile/tester) April 23, 2016 20:25
+by [tester](../profile/tester) | April 23, 2016 20:25
 
 April 23, 2016 20:25 | Tags: [community](../tag/community), [website](../tag/website), [organizers](../tag/organizers), [spam](../tag/spam), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [moderation](../tag/moderation), [newcomers](../tag/newcomers), [location:blurred](../tag/location:blurred), [lat:-80](../tag/lat:-80), [lon:630](../tag/lon:630), [first-contribution](../tag/first-contribution)
 

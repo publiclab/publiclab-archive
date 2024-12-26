@@ -1,6 +1,5 @@
 ---
-title: 'Water Quality Testing At Turkey Creek'
-tagnames: gulf-coast, education, louisiana, kits, water-quality, steps, activity:education, activity:turbidity, nas, activity:water-quality, activity:ph, activity:temperature, gulfport, turkey-creek, boys-and-girls-club, activity:nitrogen, activity:nitrates, activity:phosphates, activity:dissolved-oxygen
+title: "Water Quality Testing At Turkey Creek"\ntagnames: 'gulf-coast, education, louisiana, kits, water-quality, steps, activity:education, activity:turbidity, nas, activity:water-quality, activity:ph, activity:temperature, gulfport, turkey-creek, boys-and-girls-club, activity:nitrogen, activity:nitrates, activity:phosphates, activity:dissolved-oxygen'
 author: Delaney
 path: /notes/Delaney/05-04-2018/water-quality-testing-at-turkey-creek.md
 nid: 16299
@@ -12,7 +11,7 @@ uid: 517173
 
 # Water Quality Testing At Turkey Creek
 
-by [Delaney](../profile/Delaney) May 04, 2018 17:40
+by [Delaney](../profile/Delaney) | May 04, 2018 17:40
 
 May 04, 2018 17:40 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [louisiana](../tag/louisiana), [kits](../tag/kits), [water-quality](../tag/water-quality), [steps](../tag/steps), [activity:education](../tag/activity:education), [activity:turbidity](../tag/activity:turbidity), [nas](../tag/nas), [activity:water-quality](../tag/activity:water-quality), [activity:ph](../tag/activity:ph), [activity:temperature](../tag/activity:temperature), [gulfport](../tag/gulfport), [turkey-creek](../tag/turkey-creek), [boys-and-girls-club](../tag/boys-and-girls-club), [activity:nitrogen](../tag/activity:nitrogen), [activity:nitrates](../tag/activity:nitrates), [activity:phosphates](../tag/activity:phosphates), [activity:dissolved-oxygen](../tag/activity:dissolved-oxygen)
 

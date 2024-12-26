@@ -1,6 +1,5 @@
 ---
-title: 'Neon'
-tagnames: spectrometer, vermont, ebert, neon-sign, neon
+title: "Neon"\ntagnames: 'spectrometer, vermont, ebert, neon-sign, neon'
 author: cfastie
 path: /notes/cfastie/2-23-2013/neon.md
 nid: 6105
@@ -12,7 +11,7 @@ uid: 554
 
 # Neon
 
-by [cfastie](../profile/cfastie) February 23, 2013 20:04
+by [cfastie](../profile/cfastie) | February 23, 2013 20:04
 
 February 23, 2013 20:04 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [ebert](../tag/ebert), [neon-sign](../tag/neon-sign), [neon](../tag/neon)
 

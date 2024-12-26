@@ -1,6 +1,5 @@
 ---
-title: 'mapknitter export stuck'
-tagnames: mapknitter, question:general, general
+title: "mapknitter export stuck"\ntagnames: 'mapknitter, question:general, general'
 author: pataxte
 path: /notes/pataxte/05-24-2020/mapknitter-export-stuck.md
 nid: 23692
@@ -10,7 +9,7 @@ uid: 559561
 
 # mapknitter export stuck
 
-by [pataxte](../profile/pataxte) May 24, 2020 17:01
+by [pataxte](../profile/pataxte) | May 24, 2020 17:01
 
 May 24, 2020 17:01 | Tags: [mapknitter](../tag/mapknitter), [question:general](../tag/question:general), [general](../tag/general)
 

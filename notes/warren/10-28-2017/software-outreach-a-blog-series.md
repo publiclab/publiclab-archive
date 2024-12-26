@@ -1,6 +1,5 @@
 ---
-title: 'Software outreach: a blog series'
-tagnames: web-development, software, outreach, development, gsoc, blog, code, wwg, software-outreach, gsoc-2017, soc, response:15093, response:13687, series:software-outreach
+title: "Software outreach: a blog series"\ntagnames: 'web-development, software, outreach, development, gsoc, blog, code, wwg, software-outreach, gsoc-2017, soc, response:15093, response:13687, series:software-outreach'
 author: warren
 path: /notes/warren/10-28-2017/software-outreach-a-blog-series.md
 nid: 15126
@@ -12,7 +11,7 @@ uid: 1
 
 # Software outreach: a blog series
 
-by [warren](../profile/warren) October 28, 2017 13:48
+by [warren](../profile/warren) | October 28, 2017 13:48
 
 October 28, 2017 13:48 | Tags: [web-development](../tag/web-development), [software](../tag/software), [outreach](../tag/outreach), [development](../tag/development), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [response:15093](../tag/response:15093), [response:13687](../tag/response:13687), [series:software-outreach](../tag/series:software-outreach)
 

@@ -1,6 +1,5 @@
 ---
-title: 'PhotosynQ'
-tagnames: photosynq, grassrootsmappingforum, style:fancy, coathor, gregaustic, gmf-9
+title: "PhotosynQ"\ntagnames: 'photosynq, grassrootsmappingforum, style:fancy, coathor, gregaustic, gmf-9'
 author: mlamadrid
 path: /notes/mlamadrid/12-08-2015/photosynq.md
 nid: 12488
@@ -12,7 +11,7 @@ uid: 45586
 
 # PhotosynQ
 
-by [mlamadrid](../profile/mlamadrid) December 08, 2015 20:34
+by [mlamadrid](../profile/mlamadrid) | December 08, 2015 20:34
 
 December 08, 2015 20:34 | Tags: [photosynq](../tag/photosynq), [grassrootsmappingforum](../tag/grassrootsmappingforum), [style:fancy](../tag/style:fancy), [coathor](../tag/coathor), [gregaustic](../tag/gregaustic), [gmf-9](../tag/gmf-9)
 

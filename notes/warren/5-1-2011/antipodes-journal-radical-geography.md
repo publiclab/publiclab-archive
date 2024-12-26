@@ -1,6 +1,5 @@
 ---
-title: 'Antipodes: a journal of radical geography'
-tagnames: 
+title: "Antipodes: a journal of radical geography"\ntagnames: ''
 author: warren
 path: /notes/warren/5-1-2011/antipodes-journal-radical-geography.md
 nid: 209
@@ -10,7 +9,7 @@ uid: 1
 
 # Antipodes: a journal of radical geography
 
-by [warren](../profile/warren) May 02, 2011 02:43
+by [warren](../profile/warren) | May 02, 2011 02:43
 
 May 02, 2011 02:43 | Tags: 
 

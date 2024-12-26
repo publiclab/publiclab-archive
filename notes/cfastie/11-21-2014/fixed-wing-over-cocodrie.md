@@ -1,6 +1,5 @@
 ---
-title: 'Fixed wing over Cocodrie'
-tagnames: near-infrared-camera, image-stitching, louisiana, barnraising, lumcon, barnraising2014
+title: "Fixed wing over Cocodrie"\ntagnames: 'near-infrared-camera, image-stitching, louisiana, barnraising, lumcon, barnraising2014'
 author: cfastie
 path: /notes/cfastie/11-21-2014/fixed-wing-over-cocodrie.md
 nid: 11381
@@ -12,7 +11,7 @@ uid: 554
 
 # Fixed wing over Cocodrie
 
-by [cfastie](../profile/cfastie) November 21, 2014 23:10
+by [cfastie](../profile/cfastie) | November 21, 2014 23:10
 
 November 21, 2014 23:10 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [image-stitching](../tag/image-stitching), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising2014](../tag/barnraising2014)
 

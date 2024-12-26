@@ -1,6 +1,5 @@
 ---
-title: 'Keeping it easy, making it awesome: open source documentation'
-tagnames: open-source, documentation, guides
+title: "Keeping it easy, making it awesome: open source documentation"\ntagnames: 'open-source, documentation, guides'
 author: warren
 path: /notes/warren/6-20-2012/keeping-it-easy-making-it-awesome-open-source-documentation.md
 nid: 2588
@@ -12,7 +11,7 @@ uid: 1
 
 # Keeping it easy, making it awesome: open source documentation
 
-by [warren](../profile/warren) June 20, 2012 19:34
+by [warren](../profile/warren) | June 20, 2012 19:34
 
 June 20, 2012 19:34 | Tags: [open-source](../tag/open-source), [documentation](../tag/documentation), [guides](../tag/guides)
 

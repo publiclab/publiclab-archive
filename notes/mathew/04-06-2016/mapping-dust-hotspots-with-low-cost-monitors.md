@@ -1,6 +1,5 @@
 ---
-title: 'Mapping dust hotspots with low-cost monitors'
-tagnames: air-quality, frac-sand, pm, particles, particle-sensing, particle-monitoring, passive-particle-monitors, passive-pm, parent:frac-sand, pm-monitoring, seeks:replications, activity:pm, hotspot-monitoring, activity:site-survey, hot-spots
+title: "Mapping dust hotspots with low-cost monitors"\ntagnames: 'air-quality, frac-sand, pm, particles, particle-sensing, particle-monitoring, passive-particle-monitors, passive-pm, parent:frac-sand, pm-monitoring, seeks:replications, activity:pm, hotspot-monitoring, activity:site-survey, hot-spots'
 author: mathew
 path: /notes/mathew/04-06-2016/mapping-dust-hotspots-with-low-cost-monitors.md
 nid: 12928
@@ -12,7 +11,7 @@ uid: 4
 
 # Mapping dust hotspots with low-cost monitors
 
-by [mathew](../profile/mathew) April 06, 2016 17:36
+by [mathew](../profile/mathew) | April 06, 2016 17:36
 
 April 06, 2016 17:36 | Tags: [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particles](../tag/particles), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [pm-monitoring](../tag/pm-monitoring), [seeks:replications](../tag/seeks:replications), [activity:pm](../tag/activity:pm), [hotspot-monitoring](../tag/hotspot-monitoring), [activity:site-survey](../tag/activity:site-survey), [hot-spots](../tag/hot-spots)
 

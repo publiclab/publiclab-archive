@@ -1,6 +1,5 @@
 ---
-title: 'Infradark'
-tagnames: ndvi, infragram, night
+title: "Infradark"\ntagnames: 'ndvi, infragram, night'
 author: cfastie
 path: /notes/cfastie/06-06-2013/infradark.md
 nid: 8089
@@ -12,7 +11,7 @@ uid: 554
 
 # Infradark
 
-by [cfastie](../profile/cfastie) June 06, 2013 23:02
+by [cfastie](../profile/cfastie) | June 06, 2013 23:02
 
 June 06, 2013 23:02 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [night](../tag/night)
 

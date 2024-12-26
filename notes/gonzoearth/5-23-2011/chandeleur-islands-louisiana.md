@@ -1,6 +1,5 @@
 ---
-title: 'Chandeleur Islands, Louisiana'
-tagnames: 
+title: "Chandeleur Islands, Louisiana"\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/5-23-2011/chandeleur-islands-louisiana.md
 nid: 266
@@ -12,7 +11,7 @@ uid: 12
 
 # Chandeleur Islands, Louisiana
 
-by [gonzoearth](../profile/gonzoearth) May 23, 2011 20:36
+by [gonzoearth](../profile/gonzoearth) | May 23, 2011 20:36
 
 May 23, 2011 20:36 | Tags: 
 

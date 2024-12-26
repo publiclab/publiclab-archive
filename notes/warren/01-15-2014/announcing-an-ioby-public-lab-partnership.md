@@ -1,6 +1,5 @@
 ---
-title: 'Announcing an ioby + Public Lab partnership'
-tagnames: gulf-coast, refinery, crowdfunding, flare, ioby, local-projects
+title: "Announcing an ioby + Public Lab partnership"\ntagnames: 'gulf-coast, refinery, crowdfunding, flare, ioby, local-projects'
 author: warren
 path: /notes/warren/01-15-2014/announcing-an-ioby-public-lab-partnership.md
 nid: 9945
@@ -12,7 +11,7 @@ uid: 1
 
 # Announcing an ioby + Public Lab partnership
 
-by [warren](../profile/warren) January 15, 2014 16:21
+by [warren](../profile/warren) | January 15, 2014 16:21
 
 January 15, 2014 16:21 | Tags: [gulf-coast](../tag/gulf-coast), [refinery](../tag/refinery), [crowdfunding](../tag/crowdfunding), [flare](../tag/flare), [ioby](../tag/ioby), [local-projects](../tag/local-projects)
 

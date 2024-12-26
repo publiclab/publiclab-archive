@@ -1,6 +1,5 @@
 ---
-title: 'Doing NDVI in one camera'
-tagnames: near-infrared-camera, nrg, ndvi, superblue
+title: "Doing NDVI in one camera"\ntagnames: 'near-infrared-camera, nrg, ndvi, superblue'
 author: mathew
 path: /notes/mathew/9-6-2012/doing-ndvi-one-camera.md
 nid: 3668
@@ -12,7 +11,7 @@ uid: 4
 
 # Doing NDVI in one camera
 
-by [mathew](../profile/mathew) September 06, 2012 16:29
+by [mathew](../profile/mathew) | September 06, 2012 16:29
 
 September 06, 2012 16:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [superblue](../tag/superblue)
 

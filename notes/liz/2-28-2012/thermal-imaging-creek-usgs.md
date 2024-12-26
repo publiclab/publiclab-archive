@@ -1,6 +1,5 @@
 ---
-title: 'Thermal imaging of creek by USGS'
-tagnames: 
+title: "Thermal imaging of creek by USGS"\ntagnames: ''
 author: liz
 path: /notes/liz/2-28-2012/thermal-imaging-creek-usgs.md
 nid: 867
@@ -12,7 +11,7 @@ uid: 7
 
 # Thermal imaging of creek by USGS
 
-by [liz](../profile/liz) February 28, 2012 16:48
+by [liz](../profile/liz) | February 28, 2012 16:48
 
 February 28, 2012 16:48 | Tags: 
 

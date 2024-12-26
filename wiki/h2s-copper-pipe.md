@@ -1,6 +1,5 @@
 ---
-title: 'h2s-copper-pipe'
-tagnames: redirect:15067
+title: "h2s-copper-pipe"\ntagnames: 'redirect:15067'
 author: warren
 path: /wiki/h2s-copper-pipe.md
 nid: 15246

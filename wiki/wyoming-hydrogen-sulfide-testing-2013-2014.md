@@ -1,6 +1,5 @@
 ---
-title: 'Wyoming Hydrogen Sulfide Testing 2013-2014'
-tagnames: hydrogen-sulfide, h2s, natural-gas, wyoming
+title: "Wyoming Hydrogen Sulfide Testing 2013-2014"\ntagnames: 'hydrogen-sulfide, h2s, natural-gas, wyoming'
 author: sara
 path: /wiki/wyoming-hydrogen-sulfide-testing-2013-2014.md
 nid: 10568

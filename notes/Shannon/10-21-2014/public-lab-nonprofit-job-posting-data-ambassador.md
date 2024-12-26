@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab nonprofit job posting: Data Ambassador'
-tagnames: nonprofit
+title: "Public Lab nonprofit job posting: Data Ambassador"\ntagnames: 'nonprofit'
 author: Shannon
 path: /notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-data-ambassador.md
 nid: 11289
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab nonprofit job posting: Data Ambassador
 
-by [Shannon](../profile/Shannon) October 21, 2014 18:47
+by [Shannon](../profile/Shannon) | October 21, 2014 18:47
 
 October 21, 2014 18:47 | Tags: [nonprofit](../tag/nonprofit)
 

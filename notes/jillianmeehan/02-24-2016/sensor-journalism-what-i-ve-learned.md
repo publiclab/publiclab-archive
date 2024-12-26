@@ -1,6 +1,5 @@
 ---
-title: 'Sensor Journalism: What I've Learned'
-tagnames: sensor-journalism, response:12748, hidden:response
+title: "Sensor Journalism: What I've Learned"\ntagnames: 'sensor-journalism, response:12748, hidden:response'
 author: jillianmeehan
 path: /notes/jillianmeehan/02-24-2016/sensor-journalism-what-i-ve-learned.md
 nid: 12742
@@ -12,7 +11,7 @@ uid: 466918
 
 # Sensor Journalism: What I've Learned
 
-by [jillianmeehan](../profile/jillianmeehan) February 24, 2016 18:02
+by [jillianmeehan](../profile/jillianmeehan) | February 24, 2016 18:02
 
 February 24, 2016 18:02 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

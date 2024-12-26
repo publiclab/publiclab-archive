@@ -1,6 +1,5 @@
 ---
-title: 'DustDuino'
-tagnames: indoor-air-quality-mapping, particulate-sensing, agriculture, air-quality, internet, transportation, mining, fracking, tool, datalogger, dustduino, prompt:dustduino, shinyei, method, oil-and-gas, air-sensors, particle-sensor
+title: "DustDuino"\ntagnames: 'indoor-air-quality-mapping, particulate-sensing, agriculture, air-quality, internet, transportation, mining, fracking, tool, datalogger, dustduino, prompt:dustduino, shinyei, method, oil-and-gas, air-sensors, particle-sensor'
 author: willie
 path: /wiki/dustduino.md
 nid: 10357

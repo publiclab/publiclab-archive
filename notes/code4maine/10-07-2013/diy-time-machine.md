@@ -1,6 +1,5 @@
 ---
-title: 'DIY Time Machine'
-tagnames: balloon-mapping, mapknitter, archival, historic-imagery, maine, harpswell, first-time-poster
+title: "DIY Time Machine"\ntagnames: 'balloon-mapping, mapknitter, archival, historic-imagery, maine, harpswell, first-time-poster'
 author: ajawitz
 path: /notes/code4maine/10-07-2013/diy-time-machine.md
 nid: 9417
@@ -12,7 +11,7 @@ uid: 294634
 
 # DIY Time Machine
 
-by [ajawitz](../profile/ajawitz) October 07, 2013 16:29
+by [ajawitz](../profile/ajawitz) | October 07, 2013 16:29
 
 October 07, 2013 16:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [archival](../tag/archival), [historic-imagery](../tag/historic-imagery), [maine](../tag/maine), [harpswell](../tag/harpswell), [first-time-poster](../tag/first-time-poster)
 

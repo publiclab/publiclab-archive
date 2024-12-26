@@ -1,6 +1,5 @@
 ---
-title: 'GSoC proposal:  Image Sequencer'
-tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects
+title: "GSoC proposal:  Image Sequencer"\ntagnames: 'software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects'
 author: aashnaaashna
 path: /notes/aashnaaashna/04-03-2019/soc-proposal-image-sequencer.md
 nid: 18943
@@ -12,7 +11,7 @@ uid: 553271
 
 # GSoC proposal:  Image Sequencer
 
-by [aashnaaashna](../profile/aashnaaashna) April 03, 2019 09:52
+by [aashnaaashna](../profile/aashnaaashna) | April 03, 2019 09:52
 
 April 03, 2019 09:52 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 

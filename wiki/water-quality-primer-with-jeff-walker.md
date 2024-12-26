@@ -1,6 +1,5 @@
 ---
-title: 'Water Quality Primer with Jeff Walker'
-tagnames: water-quality, water, conductivity, mystic-river, stormwater, open-water, parent:water-quality
+title: "Water Quality Primer with Jeff Walker"\ntagnames: 'water-quality, water, conductivity, mystic-river, stormwater, open-water, parent:water-quality'
 author: kanarinka
 path: /wiki/water-quality-primer-with-jeff-walker.md
 nid: 10424

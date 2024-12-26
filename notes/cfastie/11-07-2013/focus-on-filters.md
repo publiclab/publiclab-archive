@@ -1,6 +1,5 @@
 ---
-title: 'Focus on filters'
-tagnames: near-infrared-camera, vermont, infrared, a2200, conversion, filter, infragram, focus, infrablue, response:9740, bg3, wratten25a
+title: "Focus on filters"\ntagnames: 'near-infrared-camera, vermont, infrared, a2200, conversion, filter, infragram, focus, infrablue, response:9740, bg3, wratten25a'
 author: cfastie
 path: /notes/cfastie/11-07-2013/focus-on-filters.md
 nid: 9744
@@ -12,7 +11,7 @@ uid: 554
 
 # Focus on filters
 
-by [cfastie](../profile/cfastie) November 07, 2013 16:28
+by [cfastie](../profile/cfastie) | November 07, 2013 16:28
 
 November 07, 2013 16:28 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [a2200](../tag/a2200), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [focus](../tag/focus), [infrablue](../tag/infrablue), [response:9740](../tag/response:9740), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a)
 

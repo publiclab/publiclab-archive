@@ -1,6 +1,5 @@
 ---
-title: 'The last three weeks in Google Summer of Code'
-tagnames: website, software, gsoc, developers, coding, wwg, gsoc-2016, response:13214
+title: "The last three weeks in Google Summer of Code"\ntagnames: 'website, software, gsoc, developers, coding, wwg, gsoc-2016, response:13214'
 author: warren
 path: /notes/warren/07-18-2016/the-last-three-weeks-in-google-summer-of-code.md
 nid: 13299
@@ -12,7 +11,7 @@ uid: 1
 
 # The last three weeks in Google Summer of Code
 
-by [warren](../profile/warren) July 18, 2016 22:07
+by [warren](../profile/warren) | July 18, 2016 22:07
 
 July 18, 2016 22:07 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [response:13214](../tag/response:13214)
 

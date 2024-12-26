@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Mapping Test Flight - Riverside Cemetary, 2.25.13'
-tagnames: western-north-carolina, balloon-mapping, asheville, weather-balloon-mapping, north-carolina
+title: "Balloon Mapping Test Flight - Riverside Cemetary, 2.25.13"\ntagnames: 'western-north-carolina, balloon-mapping, asheville, weather-balloon-mapping, north-carolina'
 author: ChristenMcNamara
 path: /notes/christenmcnamara/2-26-2013/balloon-mapping-test-flight-riverside-cemetary-22513.md
 nid: 6129
@@ -12,7 +11,7 @@ uid: 51650
 
 # Balloon Mapping Test Flight - Riverside Cemetary, 2.25.13
 
-by [ChristenMcNamara](../profile/ChristenMcNamara) February 26, 2013 21:18
+by [ChristenMcNamara](../profile/ChristenMcNamara) | February 26, 2013 21:18
 
 February 26, 2013 21:18 | Tags: [western-north-carolina](../tag/western-north-carolina), [balloon-mapping](../tag/balloon-mapping), [asheville](../tag/asheville), [weather-balloon-mapping](../tag/weather-balloon-mapping), [north-carolina](../tag/north-carolina)
 

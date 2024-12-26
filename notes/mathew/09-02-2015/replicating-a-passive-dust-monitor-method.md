@@ -1,6 +1,5 @@
 ---
-title: 'Replicating a Passive Dust Monitor & Method'
-tagnames: sensing, wisconsin, air-quality, silica, frac-sand, pm, particle-sensing, particle-monitoring, particle, fracsand, passive-particle-monitors, passive-pm, parent:frac-sand, seeks:replications, category:build, difficulty:hard
+title: "Replicating a Passive Dust Monitor & Method"\ntagnames: 'sensing, wisconsin, air-quality, silica, frac-sand, pm, particle-sensing, particle-monitoring, particle, fracsand, passive-particle-monitors, passive-pm, parent:frac-sand, seeks:replications, category:build, difficulty:hard'
 author: mathew
 path: /notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method.md
 nid: 12192
@@ -12,7 +11,7 @@ uid: 4
 
 # Replicating a Passive Dust Monitor & Method
 
-by [mathew](../profile/mathew) September 02, 2015 06:15
+by [mathew](../profile/mathew) | September 02, 2015 06:15
 
 September 02, 2015 06:15 | Tags: [sensing](../tag/sensing), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [particle](../tag/particle), [fracsand](../tag/fracsand), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [seeks:replications](../tag/seeks:replications), [category:build](../tag/category:build), [difficulty:hard](../tag/difficulty:hard)
 

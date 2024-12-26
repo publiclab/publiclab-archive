@@ -1,6 +1,5 @@
 ---
-title: 'Community Atlas: an "around the world collaboration" on MapKnitter'
-tagnames: balloon-mapping, mapknitter, collaboration, software, google, blog, community-atlas
+title: "Community Atlas: an "around the world collaboration" on MapKnitter"\ntagnames: 'balloon-mapping, mapknitter, collaboration, software, google, blog, community-atlas'
 author: warren
 path: /notes/warren/07-26-2019/community-atlas-an-around-the-world-collaboration-on-mapknitter.md
 nid: 20331
@@ -12,7 +11,7 @@ uid: 1
 
 # Community Atlas: an "around the world collaboration" on MapKnitter
 
-by [warren](../profile/warren) July 26, 2019 18:03
+by [warren](../profile/warren) | July 26, 2019 18:03
 
 July 26, 2019 18:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [collaboration](../tag/collaboration), [software](../tag/software), [google](../tag/google), [blog](../tag/blog), [community-atlas](../tag/community-atlas)
 

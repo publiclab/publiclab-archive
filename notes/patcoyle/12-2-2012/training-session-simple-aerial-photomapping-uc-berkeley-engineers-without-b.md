@@ -1,6 +1,5 @@
 ---
-title: 'Training session on simple aerial photomapping with the UC  Berkeley Engineers Without Borders (EWB) chapter Peru team'
-tagnames: 
+title: "Training session on simple aerial photomapping with the UC  Berkeley Engineers Without Borders (EWB) chapter Peru team"\ntagnames: ''
 author: patcoyle
 path: /notes/patcoyle/12-2-2012/training-session-simple-aerial-photomapping-uc-berkeley-engineers-without-b.md
 nid: 5087
@@ -12,7 +11,7 @@ uid: 77
 
 # Training session on simple aerial photomapping with the UC  Berkeley Engineers Without Borders (EWB) chapter Peru team
 
-by [patcoyle](../profile/patcoyle) December 02, 2012 23:10
+by [patcoyle](../profile/patcoyle) | December 02, 2012 23:10
 
 December 02, 2012 23:10 | Tags: 
 

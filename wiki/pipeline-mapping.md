@@ -1,6 +1,5 @@
 ---
-title: 'Pipeline Mapping'
-tagnames: alberta
+title: "Pipeline Mapping"\ntagnames: 'alberta'
 author: ann
 path: /wiki/pipeline-mapping.md
 nid: 11411

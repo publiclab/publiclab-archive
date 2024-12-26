@@ -1,6 +1,5 @@
 ---
-title: 'Concept of social rules from Recurse Center'
-tagnames: conduct, moderation
+title: "Concept of social rules from Recurse Center"\ntagnames: 'conduct, moderation'
 author: liz
 path: /notes/liz/09-24-2018/concept-of-social-rules-from-recurse-center.md
 nid: 17165
@@ -12,7 +11,7 @@ uid: 7
 
 # Concept of social rules from Recurse Center
 
-by [liz](../profile/liz) September 24, 2018 14:59
+by [liz](../profile/liz) | September 24, 2018 14:59
 
 September 24, 2018 14:59 | Tags: [conduct](../tag/conduct), [moderation](../tag/moderation)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Scripting Raspberry Pi to boot and shoot timelapse photos '
-tagnames: near-infrared-camera, raspberry-pi, infragram, barnstar:basic, status:review-me, category:build, activity:timelapse, difficulty:hard
+title: "Scripting Raspberry Pi to boot and shoot timelapse photos "\ntagnames: 'near-infrared-camera, raspberry-pi, infragram, barnstar:basic, status:review-me, category:build, activity:timelapse, difficulty:hard'
 author: mathew
 path: /notes/mathew/11-03-2013/scripting-raspberry-pi-to-boot-and-shoot-timelapse-photos.md
 nid: 9719
@@ -12,7 +11,7 @@ uid: 4
 
 # Scripting Raspberry Pi to boot and shoot timelapse photos 
 
-by [mathew](../profile/mathew) November 03, 2013 02:06
+by [mathew](../profile/mathew) | November 03, 2013 02:06
 
 November 03, 2013 02:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [barnstar:basic](../tag/barnstar:basic), [status:review-me](../tag/status:review-me), [category:build](../tag/category:build), [activity:timelapse](../tag/activity:timelapse), [difficulty:hard](../tag/difficulty:hard)
 

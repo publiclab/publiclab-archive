@@ -1,6 +1,5 @@
 ---
-title: 'Mapping 10km2 '
-tagnames: balloon-mapping, guides, activity:balloon-mapping
+title: "Mapping 10km2 "\ntagnames: 'balloon-mapping, guides, activity:balloon-mapping'
 author: gonzoearth
 path: /notes/gonzoearth/03-29-2014/mapping-10km2.md
 nid: 10243
@@ -12,7 +11,7 @@ uid: 12
 
 # Mapping 10km2 
 
-by [gonzoearth](../profile/gonzoearth) March 29, 2014 01:32
+by [gonzoearth](../profile/gonzoearth) | March 29, 2014 01:32
 
 March 29, 2014 01:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [guides](../tag/guides), [activity:balloon-mapping](../tag/activity:balloon-mapping)
 

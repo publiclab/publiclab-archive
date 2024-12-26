@@ -1,6 +1,5 @@
 ---
-title: 'Hacking trail cameras to document blasts on Mountaintop Removal sites'
-tagnames: photo-monitoring, timelapse, mountaintop-removal, amp, mtr, appalachian-mountaintop-patrol, trap-cam, activity:timelapse, trail-camera, activity:photo-monitoring, game-camera, story:timelapse, flocculants
+title: "Hacking trail cameras to document blasts on Mountaintop Removal sites"\ntagnames: 'photo-monitoring, timelapse, mountaintop-removal, amp, mtr, appalachian-mountaintop-patrol, trap-cam, activity:timelapse, trail-camera, activity:photo-monitoring, game-camera, story:timelapse, flocculants'
 author: LauraChipley
 path: /notes/LauraChipley/09-18-2015/hacking-trail-cameras-to-document-blasts-on-mountaintop-removal-sites.md
 nid: 12225
@@ -12,7 +11,7 @@ uid: 428957
 
 # Hacking trail cameras to document blasts on Mountaintop Removal sites
 
-by [LauraChipley](../profile/LauraChipley) September 18, 2015 13:31
+by [LauraChipley](../profile/LauraChipley) | September 18, 2015 13:31
 
 September 18, 2015 13:31 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [mountaintop-removal](../tag/mountaintop-removal), [amp](../tag/amp), [mtr](../tag/mtr), [appalachian-mountaintop-patrol](../tag/appalachian-mountaintop-patrol), [trap-cam](../tag/trap-cam), [activity:timelapse](../tag/activity:timelapse), [trail-camera](../tag/trail-camera), [activity:photo-monitoring](../tag/activity:photo-monitoring), [game-camera](../tag/game-camera), [story:timelapse](../tag/story:timelapse), [flocculants](../tag/flocculants)
 

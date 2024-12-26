@@ -1,6 +1,5 @@
 ---
-title: 'Bibliography Oil Spill Response Tool Kit'
-tagnames: 
+title: "Bibliography Oil Spill Response Tool Kit"\ntagnames: ''
 author: sara
 path: /wiki/bibliography-oil-spill-response-tool-kit.md
 nid: 5104

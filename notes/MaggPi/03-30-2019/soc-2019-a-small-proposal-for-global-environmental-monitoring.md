@@ -1,6 +1,5 @@
 ---
-title: 'SOC 2019:  A small proposal for global environmental monitoring '
-tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects, soc-2019-eval, gsoc-2019-final-report, qgis
+title: "SOC 2019:  A small proposal for global environmental monitoring "\ntagnames: 'software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects, soc-2019-eval, gsoc-2019-final-report, qgis'
 author: MaggPi
 path: /notes/MaggPi/03-30-2019/soc-2019-a-small-proposal-for-global-environmental-monitoring.md
 nid: 18907
@@ -10,7 +9,7 @@ uid: 501996
 
 # SOC 2019:  A small proposal for global environmental monitoring 
 
-by [MaggPi](../profile/MaggPi) March 30, 2019 04:51
+by [MaggPi](../profile/MaggPi) | March 30, 2019 04:51
 
 March 30, 2019 04:51 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects), [soc-2019-eval](../tag/soc-2019-eval), [gsoc-2019-final-report](../tag/gsoc-2019-final-report), [qgis](../tag/qgis)
 

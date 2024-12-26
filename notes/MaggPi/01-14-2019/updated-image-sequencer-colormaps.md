@@ -1,6 +1,5 @@
 ---
-title: ' Updated Image Sequencer Colormaps!'
-tagnames: ndvi, colormap, code, barnstar:basic, fastie, fastiecolormap, soc, aren, gsoc-2018, soc-2018, image-sequencer
+title: " Updated Image Sequencer Colormaps!"\ntagnames: 'ndvi, colormap, code, barnstar:basic, fastie, fastiecolormap, soc, aren, gsoc-2018, soc-2018, image-sequencer'
 author: MaggPi
 path: /notes/MaggPi/01-14-2019/updated-image-sequencer-colormaps.md
 nid: 18117
@@ -12,7 +11,7 @@ uid: 501996
 
 #  Updated Image Sequencer Colormaps!
 
-by [MaggPi](../profile/MaggPi) January 14, 2019 22:23
+by [MaggPi](../profile/MaggPi) | January 14, 2019 22:23
 
 January 14, 2019 22:23 | Tags: [ndvi](../tag/ndvi), [colormap](../tag/colormap), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [fastie](../tag/fastie), [fastiecolormap](../tag/fastiecolormap), [soc](../tag/soc), [aren](../tag/aren), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [image-sequencer](../tag/image-sequencer)
 

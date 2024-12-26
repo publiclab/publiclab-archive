@@ -1,6 +1,5 @@
 ---
-title: 'odors'
-tagnames: redirect:odor
+title: "odors"\ntagnames: 'redirect:odor'
 author: joyofsoy
 path: /wiki/odors.md
 nid: 18905

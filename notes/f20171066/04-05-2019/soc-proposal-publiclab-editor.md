@@ -1,6 +1,5 @@
 ---
-title: 'SoC proposal: PublicLab.Editor'
-tagnames: software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, lat:19.075983, lon:72.877655
+title: "SoC proposal: PublicLab.Editor"\ntagnames: 'software, gsoc, soc, response:13975, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, lat:19.075983, lon:72.877655'
 author: f20171066
 path: /notes/f20171066/04-05-2019/soc-proposal-publiclab-editor.md
 nid: 18970
@@ -12,7 +11,7 @@ uid: 579292
 
 # SoC proposal: PublicLab.Editor
 
-by [f20171066](../profile/f20171066) April 05, 2019 20:36
+by [f20171066](../profile/f20171066) | April 05, 2019 20:36
 
 April 05, 2019 20:36 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [lat:19.075983](../tag/lat:19.075983), [lon:72.877655](../tag/lon:72.877655)
 

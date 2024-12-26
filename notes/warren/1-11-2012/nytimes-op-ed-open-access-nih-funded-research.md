@@ -1,6 +1,5 @@
 ---
-title: 'NYTimes Op-Ed on open access to NIH-funded research'
-tagnames: 
+title: "NYTimes Op-Ed on open access to NIH-funded research"\ntagnames: ''
 author: warren
 path: /notes/warren/1-11-2012/nytimes-op-ed-open-access-nih-funded-research.md
 nid: 685
@@ -10,7 +9,7 @@ uid: 1
 
 # NYTimes Op-Ed on open access to NIH-funded research
 
-by [warren](../profile/warren) January 11, 2012 14:20
+by [warren](../profile/warren) | January 11, 2012 14:20
 
 January 11, 2012 14:20 | Tags: 
 

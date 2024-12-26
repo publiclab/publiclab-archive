@@ -1,6 +1,5 @@
 ---
-title: 'WATER HACKATHON SERIES #2: THE RIFFLE TRAINING'
-tagnames: gulf-coast, water-sensing, event, riffle, event:rsvp, propeller, response:11334, date:11-20-2014
+title: "WATER HACKATHON SERIES #2: THE RIFFLE TRAINING"\ntagnames: 'gulf-coast, water-sensing, event, riffle, event:rsvp, propeller, response:11334, date:11-20-2014'
 author: eustatic
 path: /11-11-2014/water-hackathon-series-2-the-riffle-training.md
 nid: 11335
@@ -12,7 +11,7 @@ uid: 379
 
 # WATER HACKATHON SERIES #2: THE RIFFLE TRAINING
 
-by [eustatic](../profile/eustatic) November 11, 2014 20:51
+by [eustatic](../profile/eustatic) | November 11, 2014 20:51
 
 November 11, 2014 20:51 | Tags: [gulf-coast](../tag/gulf-coast), [water-sensing](../tag/water-sensing), [event](../tag/event), [riffle](../tag/riffle), [event:rsvp](../tag/event:rsvp), [propeller](../tag/propeller), [response:11334](../tag/response:11334), [date:11-20-2014](../tag/date:11-20-2014)
 

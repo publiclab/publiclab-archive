@@ -1,6 +1,5 @@
 ---
-title: 'Final Presentation'
-tagnames: seeks:replications, mn-land-manoomin-protection, activity:mn-land-manoomin-protection
+title: "Final Presentation"\ntagnames: 'seeks:replications, mn-land-manoomin-protection, activity:mn-land-manoomin-protection'
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/01-26-2023/final-presentation.md
 nid: 38675
@@ -12,7 +11,7 @@ uid: 796025
 
 # Final Presentation
 
-by [JuliaGuerrein](../profile/JuliaGuerrein) January 26, 2023 02:14
+by [JuliaGuerrein](../profile/JuliaGuerrein) | January 26, 2023 02:14
 
 January 26, 2023 02:14 | Tags: [seeks:replications](../tag/seeks:replications), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [activity:mn-land-manoomin-protection](../tag/activity:mn-land-manoomin-protection)
 

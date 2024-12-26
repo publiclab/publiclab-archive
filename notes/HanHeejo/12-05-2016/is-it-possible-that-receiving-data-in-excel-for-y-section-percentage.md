@@ -1,6 +1,5 @@
 ---
-title: 'Is it possible that receiving data in excel for y section, percentage? '
-tagnames: data, question:general, excel
+title: "Is it possible that receiving data in excel for y section, percentage? "\ntagnames: 'data, question:general, excel'
 author: HanHeejo
 path: /notes/HanHeejo/12-05-2016/is-it-possible-that-receiving-data-in-excel-for-y-section-percentage.md
 nid: 13744
@@ -10,7 +9,7 @@ uid: 498378
 
 # Is it possible that receiving data in excel for y section, percentage? 
 
-by [HanHeejo](../profile/HanHeejo) December 05, 2016 02:23
+by [HanHeejo](../profile/HanHeejo) | December 05, 2016 02:23
 
 December 05, 2016 02:23 | Tags: [data](../tag/data), [question:general](../tag/question:general), [excel](../tag/excel)
 

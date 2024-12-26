@@ -1,6 +1,5 @@
 ---
-title: 'Map of Maps'
-tagnames: 
+title: "Map of Maps"\ntagnames: ''
 author: sara
 path: /wiki/map-maps.md
 nid: 2540

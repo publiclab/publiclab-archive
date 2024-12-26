@@ -1,6 +1,5 @@
 ---
-title: 'Microscopes'
-tagnames: microscope, method, microscopes, community-microscope
+title: "Microscopes"\ntagnames: 'microscope, method, microscopes, community-microscope'
 author: warren
 path: /wiki/microscopes.md
 nid: 14696

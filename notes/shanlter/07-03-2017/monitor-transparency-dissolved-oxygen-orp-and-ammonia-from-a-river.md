@@ -1,6 +1,5 @@
 ---
-title: 'Monitor transparency, dissolved oxygen, ORP, and ammonia from a river'
-tagnames: water-quality, water-monitoring, turbidity, dissolved-oxygen, river, transparency, orp, ammonia, water-sensors, location:blurred, secchi-disk, lat:23, lon:113, place:china, wastewater-organic-matter
+title: "Monitor transparency, dissolved oxygen, ORP, and ammonia from a river"\ntagnames: 'water-quality, water-monitoring, turbidity, dissolved-oxygen, river, transparency, orp, ammonia, water-sensors, location:blurred, secchi-disk, lat:23, lon:113, place:china, wastewater-organic-matter'
 author: shanlter
 path: /notes/shanlter/07-03-2017/monitor-transparency-dissolved-oxygen-orp-and-ammonia-from-a-river.md
 nid: 14603
@@ -12,7 +11,7 @@ uid: 420999
 
 # Monitor transparency, dissolved oxygen, ORP, and ammonia from a river
 
-by [shanlter](../profile/shanlter) July 03, 2017 02:14
+by [shanlter](../profile/shanlter) | July 03, 2017 02:14
 
 July 03, 2017 02:14 | Tags: [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [dissolved-oxygen](../tag/dissolved-oxygen), [river](../tag/river), [transparency](../tag/transparency), [orp](../tag/orp), [ammonia](../tag/ammonia), [water-sensors](../tag/water-sensors), [location:blurred](../tag/location:blurred), [secchi-disk](../tag/secchi-disk), [lat:23](../tag/lat:23), [lon:113](../tag/lon:113), [place:china](../tag/place:china), [wastewater-organic-matter](../tag/wastewater-organic-matter)
 

@@ -1,6 +1,5 @@
 ---
-title: 'templates'
-tagnames: redirect:15049
+title: "templates"\ntagnames: 'redirect:15049'
 author: warren
 path: /wiki/templates.md
 nid: 15481

@@ -1,6 +1,5 @@
 ---
-title: 'Providence Public Lab code fellowship'
-tagnames: jobs, sidebar:none, redirect:21030
+title: "Providence Public Lab code fellowship"\ntagnames: 'jobs, sidebar:none, redirect:21030'
 author: warren
 path: /wiki/pvd.md
 nid: 18540

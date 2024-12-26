@@ -1,6 +1,5 @@
 ---
-title: 'Receipt submission form 2011-2012'
-tagnames: 
+title: "Receipt submission form 2011-2012"\ntagnames: ''
 author: warren
 path: /wiki/receipts-2011-12.md
 nid: 352

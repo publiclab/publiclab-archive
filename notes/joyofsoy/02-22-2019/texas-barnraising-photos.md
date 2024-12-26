@@ -1,6 +1,5 @@
 ---
-title: 'Texas Barnraising Photos'
-tagnames: barnraising, texas, houston, galveston, txbarnraising
+title: "Texas Barnraising Photos"\ntagnames: 'barnraising, texas, houston, galveston, txbarnraising'
 author: joyofsoy
 path: /notes/joyofsoy/02-22-2019/texas-barnraising-photos.md
 nid: 18409
@@ -12,7 +11,7 @@ uid: 540844
 
 # Texas Barnraising Photos
 
-by [joyofsoy](../profile/joyofsoy) February 22, 2019 16:51
+by [joyofsoy](../profile/joyofsoy) | February 22, 2019 16:51
 
 February 22, 2019 16:51 | Tags: [barnraising](../tag/barnraising), [texas](../tag/texas), [houston](../tag/houston), [galveston](../tag/galveston), [txbarnraising](../tag/txbarnraising)
 

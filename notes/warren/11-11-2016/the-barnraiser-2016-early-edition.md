@@ -1,6 +1,5 @@
 ---
-title: 'The Barnraiser 2016 -- early edition'
-tagnames: documentation, cocodrie, barnraising, doccom, barnraiser, the-barnraiser, barnraising-2016
+title: "The Barnraiser 2016 -- early edition"\ntagnames: 'documentation, cocodrie, barnraising, doccom, barnraiser, the-barnraiser, barnraising-2016'
 author: warren
 path: /notes/warren/11-11-2016/the-barnraiser-2016-early-edition.md
 nid: 13697
@@ -12,7 +11,7 @@ uid: 1
 
 # The Barnraiser 2016 -- early edition
 
-by [warren](../profile/warren) November 11, 2016 16:03
+by [warren](../profile/warren) | November 11, 2016 16:03
 
 November 11, 2016 16:03 | Tags: [documentation](../tag/documentation), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [doccom](../tag/doccom), [barnraiser](../tag/barnraiser), [the-barnraiser](../tag/the-barnraiser), [barnraising-2016](../tag/barnraising-2016)
 

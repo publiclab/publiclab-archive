@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Community Newsletter 6.29.2013'
-tagnames: response:8141, newsletter, response:8399
+title: "Public Lab Community Newsletter 6.29.2013"\ntagnames: 'response:8141, newsletter, response:8399'
 author: gonzoearth
 path: /notes/gonzoearth/06-29-2013/public-lab-community-newsletter-6-29-2013.md
 nid: 8530
@@ -12,7 +11,7 @@ uid: 12
 
 # Public Lab Community Newsletter 6.29.2013
 
-by [gonzoearth](../profile/gonzoearth) June 29, 2013 05:00
+by [gonzoearth](../profile/gonzoearth) | June 29, 2013 05:00
 
 June 29, 2013 05:00 | Tags: [response:8141](../tag/response:8141), [newsletter](../tag/newsletter), [response:8399](../tag/response:8399)
 

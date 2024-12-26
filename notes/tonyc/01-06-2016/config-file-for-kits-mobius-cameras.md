@@ -1,6 +1,5 @@
 ---
-title: 'config file for kits mobius cameras'
-tagnames: kite-mapping
+title: "config file for kits mobius cameras"\ntagnames: 'kite-mapping'
 author: tonyc
 path: /notes/tonyc/01-06-2016/config-file-for-kits-mobius-cameras.md
 nid: 12566
@@ -12,7 +11,7 @@ uid: 447491
 
 # config file for kits mobius cameras
 
-by [tonyc](../profile/tonyc) January 06, 2016 23:36
+by [tonyc](../profile/tonyc) | January 06, 2016 23:36
 
 January 06, 2016 23:36 | Tags: [kite-mapping](../tag/kite-mapping)
 

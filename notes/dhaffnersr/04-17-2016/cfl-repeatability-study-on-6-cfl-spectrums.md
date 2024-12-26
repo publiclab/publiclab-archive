@@ -1,6 +1,5 @@
 ---
-title: 'CFL Repeatability Study on 6 CFL spectrums'
-tagnames: 
+title: "CFL Repeatability Study on 6 CFL spectrums"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-17-2016/cfl-repeatability-study-on-6-cfl-spectrums.md
 nid: 12995
@@ -12,7 +11,7 @@ uid: 461120
 
 # CFL Repeatability Study on 6 CFL spectrums
 
-by [dhaffnersr](../profile/dhaffnersr) April 17, 2016 20:14
+by [dhaffnersr](../profile/dhaffnersr) | April 17, 2016 20:14
 
 April 17, 2016 20:14 | Tags: 
 

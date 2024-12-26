@@ -1,6 +1,5 @@
 ---
-title: 'KAP rig impasse'
-tagnames: kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, response:12524, activity:photo-rig
+title: "KAP rig impasse"\ntagnames: 'kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, response:12524, activity:photo-rig'
 author: cfastie
 path: /notes/cfastie/01-22-2016/kap-rig-impasse.md
 nid: 12601
@@ -12,7 +11,7 @@ uid: 554
 
 # KAP rig impasse
 
-by [cfastie](../profile/cfastie) January 22, 2016 18:58
+by [cfastie](../profile/cfastie) | January 22, 2016 18:58
 
 January 22, 2016 18:58 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [response:12524](../tag/response:12524), [activity:photo-rig](../tag/activity:photo-rig)
 

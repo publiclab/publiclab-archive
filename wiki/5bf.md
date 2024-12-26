@@ -1,6 +1,5 @@
 ---
-title: '5BF'
-tagnames: new-york-city, new-jersey, 5bf, community-garden, garden, food, adaptive-co-management, parent:gardening-toolkit, gardening-toolkit, category:weigh-produce, category:weigh, category:measure
+title: "5BF"\ntagnames: 'new-york-city, new-jersey, 5bf, community-garden, garden, food, adaptive-co-management, parent:gardening-toolkit, gardening-toolkit, category:weigh-produce, category:weigh, category:measure'
 author: liz
 path: /wiki/5bf.md
 nid: 9456

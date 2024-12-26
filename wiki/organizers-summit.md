@@ -1,6 +1,5 @@
 ---
-title: 'organizers-summit'
-tagnames: community, organizers, parent:organizers
+title: "organizers-summit"\ntagnames: 'community, organizers, parent:organizers'
 author: liz
 path: /wiki/organizers-summit.md
 nid: 10385

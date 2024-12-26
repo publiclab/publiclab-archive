@@ -1,6 +1,5 @@
 ---
-title: 'The Tags page mockup - let me know what you think! '
-tagnames: design, ui, ui-designs
+title: "The Tags page mockup - let me know what you think! "\ntagnames: 'design, ui, ui-designs'
 author: edie_blues
 path: /notes/edie_blues/01-09-2019/the-tags-page-mockup-let-me-know-what-you-think.md
 nid: 18091
@@ -10,7 +9,7 @@ uid: 552521
 
 # The Tags page mockup - let me know what you think! 
 
-by [edie_blues](../profile/edie_blues) January 09, 2019 20:46
+by [edie_blues](../profile/edie_blues) | January 09, 2019 20:46
 
 January 09, 2019 20:46 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 

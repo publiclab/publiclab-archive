@@ -1,6 +1,5 @@
 ---
-title: 'Stepwise procedures to guide users through testing'
-tagnames: spectral-workbench, barnstar:basic
+title: "Stepwise procedures to guide users through testing"\ntagnames: 'spectral-workbench, barnstar:basic'
 author: Sreyanth
 path: /notes/Sreyanth/07-14-2015/stepwise-procedures-to-guide-users-through-testing.md
 nid: 12062
@@ -12,7 +11,7 @@ uid: 96713
 
 # Stepwise procedures to guide users through testing
 
-by [Sreyanth](../profile/Sreyanth) July 14, 2015 18:06
+by [Sreyanth](../profile/Sreyanth) | July 14, 2015 18:06
 
 July 14, 2015 18:06 | Tags: [spectral-workbench](../tag/spectral-workbench), [barnstar:basic](../tag/barnstar:basic)
 

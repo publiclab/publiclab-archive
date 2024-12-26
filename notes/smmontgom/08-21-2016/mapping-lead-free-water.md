@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Lead-Free Water'
-tagnames: water-sensing, water-quality, conductivity, ioby, mystic-river, open-water, lead, initiative-area, first-time-poster
+title: "Mapping Lead-Free Water"\ntagnames: 'water-sensing, water-quality, conductivity, ioby, mystic-river, open-water, lead, initiative-area, first-time-poster'
 author: smmontgom
 path: /notes/smmontgom/08-21-2016/mapping-lead-free-water.md
 nid: 13377
@@ -12,7 +11,7 @@ uid: 488474
 
 # Mapping Lead-Free Water
 
-by [smmontgom](../profile/smmontgom) August 21, 2016 16:53
+by [smmontgom](../profile/smmontgom) | August 21, 2016 16:53
 
 August 21, 2016 16:53 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [ioby](../tag/ioby), [mystic-river](../tag/mystic-river), [open-water](../tag/open-water), [lead](../tag/lead), [initiative-area](../tag/initiative-area), [first-time-poster](../tag/first-time-poster)
 

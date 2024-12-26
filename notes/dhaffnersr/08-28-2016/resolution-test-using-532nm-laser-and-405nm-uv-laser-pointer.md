@@ -1,6 +1,5 @@
 ---
-title: 'Resolution Test Using 532nm Laser and 405nm UV Laser Pointer'
-tagnames: 
+title: "Resolution Test Using 532nm Laser and 405nm UV Laser Pointer"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-28-2016/resolution-test-using-532nm-laser-and-405nm-uv-laser-pointer.md
 nid: 13402
@@ -12,7 +11,7 @@ uid: 461120
 
 # Resolution Test Using 532nm Laser and 405nm UV Laser Pointer
 
-by [dhaffnersr](../profile/dhaffnersr) August 28, 2016 15:15
+by [dhaffnersr](../profile/dhaffnersr) | August 28, 2016 15:15
 
 August 28, 2016 15:15 | Tags: 
 

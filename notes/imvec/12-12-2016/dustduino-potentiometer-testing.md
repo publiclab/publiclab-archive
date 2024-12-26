@@ -1,6 +1,5 @@
 ---
-title: 'Dustduino potentiometer testing'
-tagnames: arduino, calibration, particulate-sensing, barcelona, spain, air-quality, activity, dustduino, dust, pm, open-air, dust-monitoring, espana, validation, shinyei, colocation, dust-sensing, activity:dustduino, replication:9818, particulate-matter, activity:validation, activity:colocation
+title: "Dustduino potentiometer testing"\ntagnames: 'arduino, calibration, particulate-sensing, barcelona, spain, air-quality, activity, dustduino, dust, pm, open-air, dust-monitoring, espana, validation, shinyei, colocation, dust-sensing, activity:dustduino, replication:9818, particulate-matter, activity:validation, activity:colocation'
 author: imvec
 path: /notes/imvec/12-12-2016/dustduino-potentiometer-testing.md
 nid: 13775
@@ -12,7 +11,7 @@ uid: 495038
 
 # Dustduino potentiometer testing
 
-by [imvec](../profile/imvec) December 12, 2016 16:38
+by [imvec](../profile/imvec) | December 12, 2016 16:38
 
 December 12, 2016 16:38 | Tags: [arduino](../tag/arduino), [calibration](../tag/calibration), [particulate-sensing](../tag/particulate-sensing), [barcelona](../tag/barcelona), [spain](../tag/spain), [air-quality](../tag/air-quality), [activity](../tag/activity), [dustduino](../tag/dustduino), [dust](../tag/dust), [pm](../tag/pm), [open-air](../tag/open-air), [dust-monitoring](../tag/dust-monitoring), [espana](../tag/espana), [validation](../tag/validation), [shinyei](../tag/shinyei), [colocation](../tag/colocation), [dust-sensing](../tag/dust-sensing), [activity:dustduino](../tag/activity:dustduino), [replication:9818](../tag/replication:9818), [particulate-matter](../tag/particulate-matter), [activity:validation](../tag/activity:validation), [activity:colocation](../tag/activity:colocation)
 

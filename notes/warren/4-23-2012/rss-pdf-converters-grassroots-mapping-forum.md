@@ -1,6 +1,5 @@
 ---
-title: 'RSS to PDF converters for the Grassroots Mapping Forum'
-tagnames: gmf, website
+title: "RSS to PDF converters for the Grassroots Mapping Forum"\ntagnames: 'gmf, website'
 author: warren
 path: /notes/warren/4-23-2012/rss-pdf-converters-grassroots-mapping-forum.md
 nid: 1760
@@ -12,7 +11,7 @@ uid: 1
 
 # RSS to PDF converters for the Grassroots Mapping Forum
 
-by [warren](../profile/warren) April 23, 2012 23:45
+by [warren](../profile/warren) | April 23, 2012 23:45
 
 April 23, 2012 23:45 | Tags: [gmf](../tag/gmf), [website](../tag/website)
 

@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of Collado Villalba '
-tagnames: mapknitter, spain, river, eu, ballon-mapping, with:arturunderwater, with:xose, lat:40.6224872239, lon:-3.9988517761
+title: "MapKnitter map of Collado Villalba "\ntagnames: 'mapknitter, spain, river, eu, ballon-mapping, with:arturunderwater, with:xose, lat:40.6224872239, lon:-3.9988517761'
 author: imvec
 path: /notes/imvec/09-29-2018/mapknitter-map-of-collado-villalba.md
 nid: 17189
@@ -12,7 +11,7 @@ uid: 495038
 
 # MapKnitter map of Collado Villalba 
 
-by [imvec](../profile/imvec) September 29, 2018 20:54
+by [imvec](../profile/imvec) | September 29, 2018 20:54
 
 September 29, 2018 20:54 | Tags: [mapknitter](../tag/mapknitter), [spain](../tag/spain), [river](../tag/river), [eu](../tag/eu), [ballon-mapping](../tag/ballon-mapping), [with:arturunderwater](../tag/with:arturunderwater), [with:xose](../tag/with:xose), [lat:40.6224872239](../tag/lat:40.6224872239), [lon:-3.9988517761](../tag/lon:-3.9988517761)
 

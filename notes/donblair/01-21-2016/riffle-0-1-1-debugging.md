@@ -1,6 +1,5 @@
 ---
-title: 'Riffle 0.1.1 Debugging'
-tagnames: riffle, data-logging
+title: "Riffle 0.1.1 Debugging"\ntagnames: 'riffle, data-logging'
 author: donblair
 path: /notes/donblair/01-21-2016/riffle-0-1-1-debugging.md
 nid: 12600
@@ -12,7 +11,7 @@ uid: 43651
 
 # Riffle 0.1.1 Debugging
 
-by [donblair](../profile/donblair) January 21, 2016 23:32
+by [donblair](../profile/donblair) | January 21, 2016 23:32
 
 January 21, 2016 23:32 | Tags: [riffle](../tag/riffle), [data-logging](../tag/data-logging)
 

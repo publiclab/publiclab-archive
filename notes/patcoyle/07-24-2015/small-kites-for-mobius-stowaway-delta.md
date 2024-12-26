@@ -1,6 +1,5 @@
 ---
-title: 'Small kites for Mobius: Stowaway Delta '
-tagnames: kap, infragram, gimp, infragram-point-shoot, mobius-action-cam, stowaway-delta
+title: "Small kites for Mobius: Stowaway Delta "\ntagnames: 'kap, infragram, gimp, infragram-point-shoot, mobius-action-cam, stowaway-delta'
 author: patcoyle
 path: /notes/patcoyle/07-24-2015/small-kites-for-mobius-stowaway-delta.md
 nid: 12098
@@ -12,7 +11,7 @@ uid: 77
 
 # Small kites for Mobius: Stowaway Delta 
 
-by [patcoyle](../profile/patcoyle) July 24, 2015 06:11
+by [patcoyle](../profile/patcoyle) | July 24, 2015 06:11
 
 July 24, 2015 06:11 | Tags: [kap](../tag/kap), [infragram](../tag/infragram), [gimp](../tag/gimp), [infragram-point-shoot](../tag/infragram-point-shoot), [mobius-action-cam](../tag/mobius-action-cam), [stowaway-delta](../tag/stowaway-delta)
 

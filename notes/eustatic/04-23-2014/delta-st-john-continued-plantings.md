@@ -1,6 +1,5 @@
 ---
-title: 'Delta St John: continued plantings'
-tagnames: gulf-coast, kite-mapping, wetlands, louisiana, eustatic, dredgefestla, bsj, bayou-st-john, response:10189, dredgefest
+title: "Delta St John: continued plantings"\ntagnames: 'gulf-coast, kite-mapping, wetlands, louisiana, eustatic, dredgefestla, bsj, bayou-st-john, response:10189, dredgefest'
 author: eustatic
 path: /04-23-2014/delta-st-john-continued-plantings.md
 nid: 10344
@@ -12,7 +11,7 @@ uid: 379
 
 # Delta St John: continued plantings
 
-by [eustatic](../profile/eustatic) April 23, 2014 01:02
+by [eustatic](../profile/eustatic) | April 23, 2014 01:02
 
 April 23, 2014 01:02 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [eustatic](../tag/eustatic), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj), [bayou-st-john](../tag/bayou-st-john), [response:10189](../tag/response:10189), [dredgefest](../tag/dredgefest)
 

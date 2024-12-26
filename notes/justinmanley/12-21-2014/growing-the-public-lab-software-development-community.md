@@ -1,6 +1,5 @@
 ---
-title: 'Growing the Public Lab Software Development Community'
-tagnames: community, server, software, development, software-deployment, developers, barnstar:basic, plots-dev, contributing, software-development, deployment, software-outreach
+title: "Growing the Public Lab Software Development Community"\ntagnames: 'community, server, software, development, software-deployment, developers, barnstar:basic, plots-dev, contributing, software-development, deployment, software-outreach'
 author: justinmanley
 path: /notes/justinmanley/12-21-2014/growing-the-public-lab-software-development-community.md
 nid: 11490
@@ -12,7 +11,7 @@ uid: 421556
 
 # Growing the Public Lab Software Development Community
 
-by [justinmanley](../profile/justinmanley) December 21, 2014 19:25
+by [justinmanley](../profile/justinmanley) | December 21, 2014 19:25
 
 December 21, 2014 19:25 | Tags: [community](../tag/community), [server](../tag/server), [software](../tag/software), [development](../tag/development), [software-deployment](../tag/software-deployment), [developers](../tag/developers), [barnstar:basic](../tag/barnstar:basic), [plots-dev](../tag/plots-dev), [contributing](../tag/contributing), [software-development](../tag/software-development), [deployment](../tag/deployment), [software-outreach](../tag/software-outreach)
 

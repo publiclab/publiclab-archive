@@ -1,6 +1,5 @@
 ---
-title: 'Smart sensor board for electrochemical gas sensors (basic info)'
-tagnames: air-quality, barnstar:basic, sensor, nerds-for-nature, gas-sensor, electrochemical-sensor, echem328, data-logging, air-sensors
+title: "Smart sensor board for electrochemical gas sensors (basic info)"\ntagnames: 'air-quality, barnstar:basic, sensor, nerds-for-nature, gas-sensor, electrochemical-sensor, echem328, data-logging, air-sensors'
 author: kensanfran
 path: /notes/kensanfran/11-04-2014/smart-sensor-board-for-electrochemical-gas-sensors-basic-info.md
 nid: 11318
@@ -12,7 +11,7 @@ uid: 430796
 
 # Smart sensor board for electrochemical gas sensors (basic info)
 
-by [kensanfran](../profile/kensanfran) November 04, 2014 09:53
+by [kensanfran](../profile/kensanfran) | November 04, 2014 09:53
 
 November 04, 2014 09:53 | Tags: [air-quality](../tag/air-quality), [barnstar:basic](../tag/barnstar:basic), [sensor](../tag/sensor), [nerds-for-nature](../tag/nerds-for-nature), [gas-sensor](../tag/gas-sensor), [electrochemical-sensor](../tag/electrochemical-sensor), [echem328](../tag/echem328), [data-logging](../tag/data-logging), [air-sensors](../tag/air-sensors)
 

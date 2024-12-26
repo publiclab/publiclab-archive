@@ -1,6 +1,5 @@
 ---
-title: 'Browser-based Arduino sensor data transfer using WebRTC and headphone jack'
-tagnames: software, gsoc, coding, germany, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827, first-time-poster
+title: "Browser-based Arduino sensor data transfer using WebRTC and headphone jack"\ntagnames: 'software, gsoc, coding, germany, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827, first-time-poster'
 author: rmeister
 path: /notes/rmeister/03-24-2016/browser-based-arduino-sensor-data-transfer-using-webrtc-and-headphone-jack.md
 nid: 12883
@@ -10,7 +9,7 @@ uid: 468994
 
 # Browser-based Arduino sensor data transfer using WebRTC and headphone jack
 
-by [rmeister](../profile/rmeister) March 24, 2016 19:45
+by [rmeister](../profile/rmeister) | March 24, 2016 19:45
 
 March 24, 2016 19:45 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [germany](../tag/germany), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Air Column Monitor'
-tagnames: balloon-mapping, kite-mapping, kite-balloon-hybrid, air-column-monitor, agriculture, diy-balloon, air-quality, mining, tool, industry, method, oil-and-gas, air-quality-projects
+title: "Air Column Monitor"\ntagnames: 'balloon-mapping, kite-mapping, kite-balloon-hybrid, air-column-monitor, agriculture, diy-balloon, air-quality, mining, tool, industry, method, oil-and-gas, air-quality-projects'
 author: Shannon
 path: /wiki/air-column-monitor.md
 nid: 1667

@@ -1,6 +1,5 @@
 ---
-title: 'Oil Testing Kit -- Assembly & Calibration! '
-tagnames: spectrometer, sampling, oil-testing-kit
+title: "Oil Testing Kit -- Assembly & Calibration! "\ntagnames: 'spectrometer, sampling, oil-testing-kit'
 author: _mahsa_
 path: /notes/_mahsa_/11-09-2015/oil-testing-kit-assembly-calibration.md
 nid: 12379
@@ -12,7 +11,7 @@ uid: 445603
 
 # Oil Testing Kit -- Assembly & Calibration! 
 
-by [_mahsa_](../profile/_mahsa_) November 09, 2015 00:54
+by [_mahsa_](../profile/_mahsa_) | November 09, 2015 00:54
 
 November 09, 2015 00:54 | Tags: [spectrometer](../tag/spectrometer), [sampling](../tag/sampling), [oil-testing-kit](../tag/oil-testing-kit)
 

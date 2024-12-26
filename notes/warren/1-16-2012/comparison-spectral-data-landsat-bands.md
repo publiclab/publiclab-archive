@@ -1,6 +1,5 @@
 ---
-title: 'Comparison of spectral data with Landsat bands'
-tagnames: 
+title: "Comparison of spectral data with Landsat bands"\ntagnames: ''
 author: warren
 path: /notes/warren/1-16-2012/comparison-spectral-data-landsat-bands.md
 nid: 693
@@ -12,7 +11,7 @@ uid: 1
 
 # Comparison of spectral data with Landsat bands
 
-by [warren](../profile/warren) January 16, 2012 22:11
+by [warren](../profile/warren) | January 16, 2012 22:11
 
 January 16, 2012 22:11 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Of the Earth Harvest Boxes'
-tagnames: community-garden, location:blurred, first-time-poster, unearthing-pvd, unearthing-pvd-projects, lat:41.4, lon:-71.6, food-insecurity, narragansett
+title: "Of the Earth Harvest Boxes"\ntagnames: 'community-garden, location:blurred, first-time-poster, unearthing-pvd, unearthing-pvd-projects, lat:41.4, lon:-71.6, food-insecurity, narragansett'
 author: srgonsalves1
 path: /notes/srgonsalves1/12-03-2019/of-the-earth-harvest-boxes.md
 nid: 21649
@@ -12,7 +11,7 @@ uid: 635245
 
 # Of the Earth Harvest Boxes
 
-by [srgonsalves1](../profile/srgonsalves1) December 03, 2019 15:41
+by [srgonsalves1](../profile/srgonsalves1) | December 03, 2019 15:41
 
 December 03, 2019 15:41 | Tags: [community-garden](../tag/community-garden), [location:blurred](../tag/location:blurred), [first-time-poster](../tag/first-time-poster), [unearthing-pvd](../tag/unearthing-pvd), [unearthing-pvd-projects](../tag/unearthing-pvd-projects), [lat:41.4](../tag/lat:41.4), [lon:-71.6](../tag/lon:-71.6), [food-insecurity](../tag/food-insecurity), [narragansett](../tag/narragansett)
 

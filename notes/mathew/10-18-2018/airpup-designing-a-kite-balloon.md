@@ -1,6 +1,5 @@
 ---
-title: 'Airpup: designing a kite balloon'
-tagnames: balloon-mapping, kite-mapping, kite-balloon-hybrid, photo-rig
+title: "Airpup: designing a kite balloon"\ntagnames: 'balloon-mapping, kite-mapping, kite-balloon-hybrid, photo-rig'
 author: mathew
 path: /notes/mathew/10-18-2018/airpup-designing-a-kite-balloon.md
 nid: 17322
@@ -12,7 +11,7 @@ uid: 4
 
 # Airpup: designing a kite balloon
 
-by [mathew](../profile/mathew) October 18, 2018 05:42
+by [mathew](../profile/mathew) | October 18, 2018 05:42
 
 October 18, 2018 05:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [photo-rig](../tag/photo-rig)
 

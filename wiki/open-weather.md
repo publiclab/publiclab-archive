@@ -1,6 +1,5 @@
 ---
-title: 'open-weather'
-tagnames: satellite-imagery, lat:51, radio, noaa, location:blurred, lon:0, antenna, zoom:6, place:united-kingdom, open-weather
+title: "open-weather"\ntagnames: 'satellite-imagery, lat:51, radio, noaa, location:blurred, lon:0, antenna, zoom:6, place:united-kingdom, open-weather'
 author: sashae
 path: /wiki/open-weather.md
 nid: 23886

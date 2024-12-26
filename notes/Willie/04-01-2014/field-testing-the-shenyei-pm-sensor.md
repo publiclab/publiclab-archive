@@ -1,6 +1,5 @@
 ---
-title: 'Field Testing the Shenyei PM sensor'
-tagnames: particulate-sensing, air-quality, dustduino, dust, optical-sensor, academic-journal, response:9818, particulate, pm, shinyei, air-sensors
+title: "Field Testing the Shenyei PM sensor"\ntagnames: 'particulate-sensing, air-quality, dustduino, dust, optical-sensor, academic-journal, response:9818, particulate, pm, shinyei, air-sensors'
 author: willie
 path: /notes/Willie/04-01-2014/field-testing-the-shenyei-pm-sensor.md
 nid: 10247
@@ -12,7 +11,7 @@ uid: 235174
 
 # Field Testing the Shenyei PM sensor
 
-by [willie](../profile/willie) April 01, 2014 15:38
+by [willie](../profile/willie) | April 01, 2014 15:38
 
 April 01, 2014 15:38 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [optical-sensor](../tag/optical-sensor), [academic-journal](../tag/academic-journal), [response:9818](../tag/response:9818), [particulate](../tag/particulate), [pm](../tag/pm), [shinyei](../tag/shinyei), [air-sensors](../tag/air-sensors)
 

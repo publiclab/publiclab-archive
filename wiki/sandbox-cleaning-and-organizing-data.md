@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-cleaning-and-organizing-data'
-tagnames: 
+title: "sandbox-cleaning-and-organizing-data"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-cleaning-and-organizing-data.md
 nid: 28262

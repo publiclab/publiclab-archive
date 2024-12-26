@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer Kickstarter on Mashable'
-tagnames: spectrometer, kickstarter, media
+title: "Spectrometer Kickstarter on Mashable"\ntagnames: 'spectrometer, kickstarter, media'
 author: cfastie
 path: /notes/cfastie/9-4-2012/spectrometer-kickstarter-mashable.md
 nid: 3633
@@ -12,7 +11,7 @@ uid: 554
 
 # Spectrometer Kickstarter on Mashable
 
-by [cfastie](../profile/cfastie) September 04, 2012 12:53
+by [cfastie](../profile/cfastie) | September 04, 2012 12:53
 
 September 04, 2012 12:53 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [media](../tag/media)
 

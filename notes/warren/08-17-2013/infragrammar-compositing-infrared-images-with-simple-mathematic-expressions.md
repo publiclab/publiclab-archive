@@ -1,6 +1,5 @@
 ---
-title: 'Infragrammar: compositing infrared images with simple mathematic expressions'
-tagnames: near-infrared-camera, ndvi, infragram, nbg, processing, compositing, ngb, infragram-sandbox, infragrammar
+title: "Infragrammar: compositing infrared images with simple mathematic expressions"\ntagnames: 'near-infrared-camera, ndvi, infragram, nbg, processing, compositing, ngb, infragram-sandbox, infragrammar'
 author: warren
 path: /notes/warren/08-17-2013/infragrammar-compositing-infrared-images-with-simple-mathematic-expressions.md
 nid: 9028
@@ -12,7 +11,7 @@ uid: 1
 
 # Infragrammar: compositing infrared images with simple mathematic expressions
 
-by [warren](../profile/warren) August 17, 2013 16:17
+by [warren](../profile/warren) | August 17, 2013 16:17
 
 August 17, 2013 16:17 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [nbg](../tag/nbg), [processing](../tag/processing), [compositing](../tag/compositing), [ngb](../tag/ngb), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar)
 

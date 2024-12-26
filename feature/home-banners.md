@@ -1,6 +1,5 @@
 ---
-title: 'home-banners'
-tagnames: 
+title: "home-banners"\ntagnames: ''
 author: warren
 path: /feature/home-banners.md
 nid: 11740

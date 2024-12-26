@@ -1,6 +1,5 @@
 ---
-title: 'Infragram test photos from a plane window'
-tagnames: near-infrared-camera, passenger-pigeon, philadelphia, infragram, colormap, plane, infrabluephoto, activity:passenger-pigeon
+title: "Infragram test photos from a plane window"\ntagnames: 'near-infrared-camera, passenger-pigeon, philadelphia, infragram, colormap, plane, infrabluephoto, activity:passenger-pigeon'
 author: warren
 path: /notes/warren/05-27-2013/infragram-test-photos-from-a-plane-window.md
 nid: 7932
@@ -12,7 +11,7 @@ uid: 1
 
 # Infragram test photos from a plane window
 
-by [warren](../profile/warren) May 27, 2013 18:32
+by [warren](../profile/warren) | May 27, 2013 18:32
 
 May 27, 2013 18:32 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [passenger-pigeon](../tag/passenger-pigeon), [philadelphia](../tag/philadelphia), [infragram](../tag/infragram), [colormap](../tag/colormap), [plane](../tag/plane), [infrabluephoto](../tag/infrabluephoto), [activity:passenger-pigeon](../tag/activity:passenger-pigeon)
 

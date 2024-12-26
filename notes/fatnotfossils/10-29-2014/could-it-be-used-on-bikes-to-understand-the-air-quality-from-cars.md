@@ -1,6 +1,5 @@
 ---
-title: 'Could it be used on bikes to understand the air quality from cars'
-tagnames: question:dustduino
+title: "Could it be used on bikes to understand the air quality from cars"\ntagnames: 'question:dustduino'
 author: fatnotfossils
 path: /notes/fatnotfossils/10-29-2014/could-it-be-used-on-bikes-to-understand-the-air-quality-from-cars.md
 nid: 11312
@@ -10,7 +9,7 @@ uid: 430643
 
 # Could it be used on bikes to understand the air quality from cars
 
-by [fatnotfossils](../profile/fatnotfossils) October 29, 2014 13:07
+by [fatnotfossils](../profile/fatnotfossils) | October 29, 2014 13:07
 
 October 29, 2014 13:07 | Tags: [question:dustduino](../tag/question:dustduino)
 

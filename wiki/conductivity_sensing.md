@@ -1,6 +1,5 @@
 ---
-title: 'conductivity_sensing'
-tagnames: conductivity, riffle, open-water, parent:conductivity
+title: "conductivity_sensing"\ntagnames: 'conductivity, riffle, open-water, parent:conductivity'
 author: donblair
 path: /wiki/conductivity_sensing.md
 nid: 13477

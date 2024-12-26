@@ -1,6 +1,5 @@
 ---
-title: 'Using an Audio Jack to Assess Conductivity'
-tagnames: conductivity
+title: "Using an Audio Jack to Assess Conductivity"\ntagnames: 'conductivity'
 author: donblair
 path: /notes/donblair/06-18-2014/using-an-audio-jack-to-assess-conductivity.md
 nid: 10589
@@ -12,7 +11,7 @@ uid: 43651
 
 # Using an Audio Jack to Assess Conductivity
 
-by [donblair](../profile/donblair) June 18, 2014 18:57
+by [donblair](../profile/donblair) | June 18, 2014 18:57
 
 June 18, 2014 18:57 | Tags: [conductivity](../tag/conductivity)
 

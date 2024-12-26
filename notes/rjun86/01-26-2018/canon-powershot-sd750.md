@@ -1,6 +1,5 @@
 ---
-title: ' Canon PowerShot SD750 '
-tagnames: agriculture, urban-planning, tool, land-use, multispectral-imaging, question:general, land-change
+title: " Canon PowerShot SD750 "\ntagnames: 'agriculture, urban-planning, tool, land-use, multispectral-imaging, question:general, land-change'
 author: rjun86
 path: /notes/rjun86/01-26-2018/canon-powershot-sd750.md
 nid: 15617
@@ -10,7 +9,7 @@ uid: 523652
 
 #  Canon PowerShot SD750 
 
-by [rjun86](../profile/rjun86) January 26, 2018 15:42
+by [rjun86](../profile/rjun86) | January 26, 2018 15:42
 
 January 26, 2018 15:42 | Tags: [agriculture](../tag/agriculture), [urban-planning](../tag/urban-planning), [tool](../tag/tool), [land-use](../tag/land-use), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [land-change](../tag/land-change)
 

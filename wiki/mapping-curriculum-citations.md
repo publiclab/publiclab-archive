@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Curriculum: Citations'
-tagnames: curriculum, literature-review, parent:mapping-curriculum, mapping-curriculum, citations, works-cited, resources, references
+title: "Mapping Curriculum: Citations"\ntagnames: 'curriculum, literature-review, parent:mapping-curriculum, mapping-curriculum, citations, works-cited, resources, references'
 author: gonzoearth
 path: /wiki/mapping-curriculum-citations.md
 nid: 399

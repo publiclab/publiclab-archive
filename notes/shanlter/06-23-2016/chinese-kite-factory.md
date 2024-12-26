@@ -1,6 +1,5 @@
 ---
-title: 'Chinese kite factory '
-tagnames: kite, history, china, chinese, factory
+title: "Chinese kite factory "\ntagnames: 'kite, history, china, chinese, factory'
 author: shanlter
 path: /notes/shanlter/06-23-2016/chinese-kite-factory.md
 nid: 13235
@@ -12,7 +11,7 @@ uid: 420999
 
 # Chinese kite factory 
 
-by [shanlter](../profile/shanlter) June 23, 2016 14:32
+by [shanlter](../profile/shanlter) | June 23, 2016 14:32
 
 June 23, 2016 14:32 | Tags: [kite](../tag/kite), [history](../tag/history), [china](../tag/china), [chinese](../tag/chinese), [factory](../tag/factory)
 

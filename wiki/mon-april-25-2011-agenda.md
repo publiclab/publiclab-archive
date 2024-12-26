@@ -1,6 +1,5 @@
 ---
-title: 'Mon April 25 2011 Agenda'
-tagnames: 
+title: "Mon April 25 2011 Agenda"\ntagnames: ''
 author: warren
 path: /wiki/mon-april-25-2011-agenda.md
 nid: 187

@@ -1,6 +1,5 @@
 ---
-title: 'Glossary of Terms '
-tagnames: 
+title: "Glossary of Terms "\ntagnames: ''
 author: stevie
 path: /wiki/glossary-of-terms.md
 nid: 13789

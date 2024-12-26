@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-getting-started'
-tagnames: 
+title: "sandbox-getting-started"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-getting-started.md
 nid: 34879

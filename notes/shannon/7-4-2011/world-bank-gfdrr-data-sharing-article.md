@@ -1,6 +1,5 @@
 ---
-title: 'World Bank GFDRR data sharing article'
-tagnames: 
+title: "World Bank GFDRR data sharing article"\ntagnames: ''
 author: Shannon
 path: /notes/shannon/7-4-2011/world-bank-gfdrr-data-sharing-article.md
 nid: 367
@@ -10,7 +9,7 @@ uid: 9
 
 # World Bank GFDRR data sharing article
 
-by [Shannon](../profile/Shannon) July 05, 2011 01:16
+by [Shannon](../profile/Shannon) | July 05, 2011 01:16
 
 July 05, 2011 01:16 | Tags: 
 

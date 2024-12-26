@@ -1,6 +1,5 @@
 ---
-title: 'Conversion from µg/m3 to ppm hydrogen sulfide'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s
+title: "Conversion from µg/m3 to ppm hydrogen sulfide"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s'
 author: sara
 path: /notes/sara/9-11-2011/conversion-gm3-ppm-hydrogen-sulfide.md
 nid: 461
@@ -10,7 +9,7 @@ uid: 8
 
 # Conversion from µg/m3 to ppm hydrogen sulfide
 
-by [sara](../profile/sara) September 11, 2011 18:07
+by [sara](../profile/sara) | September 11, 2011 18:07
 
 September 11, 2011 18:07 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
 

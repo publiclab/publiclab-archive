@@ -1,6 +1,5 @@
 ---
-title: 'Ideas on opening "open hardware"'
-tagnames: with:warren, with:donblair
+title: "Ideas on opening "open hardware""\ntagnames: 'with:warren, with:donblair'
 author: liz
 path: /notes/liz/09-28-2015/ideas-on-opening-open-hardware.md
 nid: 12250
@@ -12,7 +11,7 @@ uid: 7
 
 # Ideas on opening "open hardware"
 
-by [liz](../profile/liz) September 28, 2015 23:33
+by [liz](../profile/liz) | September 28, 2015 23:33
 
 September 28, 2015 23:33 | Tags: [with:warren](../tag/with:warren), [with:donblair](../tag/with:donblair)
 

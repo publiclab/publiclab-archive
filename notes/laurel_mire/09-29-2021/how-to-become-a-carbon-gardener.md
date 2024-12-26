@@ -1,6 +1,5 @@
 ---
-title: 'How To Become a Carbon Gardener'
-tagnames: soil, gardening, climate-change, carbon, carbon-dioxide, how, why, what, motivation, more, research-curation-fellows, conclusion
+title: "How To Become a Carbon Gardener"\ntagnames: 'soil, gardening, climate-change, carbon, carbon-dioxide, how, why, what, motivation, more, research-curation-fellows, conclusion'
 author: laurel_mire
 path: /notes/laurel_mire/09-29-2021/how-to-become-a-carbon-gardener.md
 nid: 27813
@@ -12,7 +11,7 @@ uid: 759178
 
 # How To Become a Carbon Gardener
 
-by [laurel_mire](../profile/laurel_mire) September 29, 2021 20:28
+by [laurel_mire](../profile/laurel_mire) | September 29, 2021 20:28
 
 September 29, 2021 20:28 | Tags: [soil](../tag/soil), [gardening](../tag/gardening), [climate-change](../tag/climate-change), [carbon](../tag/carbon), [carbon-dioxide](../tag/carbon-dioxide), [how](../tag/how), [why](../tag/why), [what](../tag/what), [motivation](../tag/motivation), [more](../tag/more), [research-curation-fellows](../tag/research-curation-fellows), [conclusion](../tag/conclusion)
 

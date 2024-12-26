@@ -1,6 +1,5 @@
 ---
-title: 'The Opportnities Of Sensor Journalism'
-tagnames: sensor-journalism
+title: "The Opportnities Of Sensor Journalism"\ntagnames: 'sensor-journalism'
 author: anthony_mastracci
 path: /notes/anthony_mastracci/02-23-2015/the-opportnities-of-sensor-journalism.md
 nid: 11622
@@ -10,7 +9,7 @@ uid: 434173
 
 # The Opportnities Of Sensor Journalism
 
-by [anthony_mastracci](../profile/anthony_mastracci) February 23, 2015 17:48
+by [anthony_mastracci](../profile/anthony_mastracci) | February 23, 2015 17:48
 
 February 23, 2015 17:48 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

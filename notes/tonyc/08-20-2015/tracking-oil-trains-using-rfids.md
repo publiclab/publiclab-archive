@@ -1,6 +1,5 @@
 ---
-title: 'Tracking Oil Trains Using RFIDs'
-tagnames: oil, transportation, crude, traffic, ail, rfid, oil-train, rail, traffic-analysis, first-time-poster
+title: "Tracking Oil Trains Using RFIDs"\ntagnames: 'oil, transportation, crude, traffic, ail, rfid, oil-train, rail, traffic-analysis, first-time-poster'
 author: tonyc
 path: /notes/tonyc/08-20-2015/tracking-oil-trains-using-rfids.md
 nid: 12159
@@ -12,7 +11,7 @@ uid: 447491
 
 # Tracking Oil Trains Using RFIDs
 
-by [tonyc](../profile/tonyc) August 20, 2015 23:16
+by [tonyc](../profile/tonyc) | August 20, 2015 23:16
 
 August 20, 2015 23:16 | Tags: [oil](../tag/oil), [transportation](../tag/transportation), [crude](../tag/crude), [traffic](../tag/traffic), [ail](../tag/ail), [rfid](../tag/rfid), [oil-train](../tag/oil-train), [rail](../tag/rail), [traffic-analysis](../tag/traffic-analysis), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Complete Redesign of Entrance Slit'
-tagnames: 
+title: "Complete Redesign of Entrance Slit"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-11-2016/complete-redesign-of-entrance-slit.md
 nid: 13346
@@ -12,7 +11,7 @@ uid: 461120
 
 # Complete Redesign of Entrance Slit
 
-by [dhaffnersr](../profile/dhaffnersr) August 11, 2016 11:17
+by [dhaffnersr](../profile/dhaffnersr) | August 11, 2016 11:17
 
 August 11, 2016 11:17 | Tags: 
 

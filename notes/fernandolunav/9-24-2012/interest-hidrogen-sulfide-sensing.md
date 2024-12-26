@@ -1,6 +1,5 @@
 ---
-title: 'Interest in Hidrogen Sulfide Sensing'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, question:h2s
+title: "Interest in Hidrogen Sulfide Sensing"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, question:h2s'
 author: fernandolunav
 path: /notes/fernandolunav/9-24-2012/interest-hidrogen-sulfide-sensing.md
 nid: 3989
@@ -10,7 +9,7 @@ uid: 43553
 
 # Interest in Hidrogen Sulfide Sensing
 
-by [fernandolunav](../profile/fernandolunav) September 24, 2012 16:09
+by [fernandolunav](../profile/fernandolunav) | September 24, 2012 16:09
 
 September 24, 2012 16:09 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [question:h2s](../tag/question:h2s)
 

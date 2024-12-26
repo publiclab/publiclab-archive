@@ -1,6 +1,5 @@
 ---
-title: 'GSoC"proposal: Infragram.org  video upload  and full-screen UI '
-tagnames: software, gsoc, soc, first-time-poster, gsoc-2022, gsoc-2022-proposals, 376github, 228githubpubliclab
+title: "GSoC"proposal: Infragram.org  video upload  and full-screen UI "\ntagnames: 'software, gsoc, soc, first-time-poster, gsoc-2022, gsoc-2022-proposals, 376github, 228githubpubliclab'
 author: mehulchapaneri8988
 path: /notes/mehulchapaneri8988/04-18-2022/gsoc-proposal-infragram-org-video-upload-and-full-screen-ui.md
 nid: 30475
@@ -12,7 +11,7 @@ uid: 792355
 
 # GSoC"proposal: Infragram.org  video upload  and full-screen UI 
 
-by [mehulchapaneri8988](../profile/mehulchapaneri8988) April 18, 2022 13:01
+by [mehulchapaneri8988](../profile/mehulchapaneri8988) | April 18, 2022 13:01
 
 April 18, 2022 13:01 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals), [376github](../tag/376github), [228githubpubliclab](../tag/228githubpubliclab)
 

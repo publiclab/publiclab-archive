@@ -1,6 +1,5 @@
 ---
-title: 'Stormwater Workshop 3 Report: Designing a Stormwater Study'
-tagnames: gulf-coast, new-orleans, annotation, stormwater, activity:stormwater, study-design, map-annotation
+title: "Stormwater Workshop 3 Report: Designing a Stormwater Study"\ntagnames: 'gulf-coast, new-orleans, annotation, stormwater, activity:stormwater, study-design, map-annotation'
 author: stevie
 path: /notes/stevie/05-16-2017/stormwater-workshop-3-report-designing-a-stormwater-study.md
 nid: 14202
@@ -12,7 +11,7 @@ uid: 422561
 
 # Stormwater Workshop 3 Report: Designing a Stormwater Study
 
-by [stevie](../profile/stevie) May 16, 2017 22:20
+by [stevie](../profile/stevie) | May 16, 2017 22:20
 
 May 16, 2017 22:20 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [annotation](../tag/annotation), [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater), [study-design](../tag/study-design), [map-annotation](../tag/map-annotation)
 

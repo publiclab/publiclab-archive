@@ -1,6 +1,5 @@
 ---
-title: 'What is the best low-cost or DIY microscope to use with a group? '
-tagnames: question:microscopes
+title: "What is the best low-cost or DIY microscope to use with a group? "\ntagnames: 'question:microscopes'
 author: gretchengehrke
 path: /notes/gretchengehrke/08-02-2017/what-is-the-best-low-cost-or-diy-microscope-to-use-with-a-group.md
 nid: 14712
@@ -10,7 +9,7 @@ uid: 430549
 
 # What is the best low-cost or DIY microscope to use with a group? 
 
-by [gretchengehrke](../profile/gretchengehrke) August 02, 2017 21:23
+by [gretchengehrke](../profile/gretchengehrke) | August 02, 2017 21:23
 
 August 02, 2017 21:23 | Tags: [question:microscopes](../tag/question:microscopes)
 

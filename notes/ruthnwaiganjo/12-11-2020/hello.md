@@ -1,6 +1,5 @@
 ---
-title: 'Hello'
-tagnames: food, coding, dashboard, technology, outreachy, first-time-poster
+title: "Hello"\ntagnames: 'food, coding, dashboard, technology, outreachy, first-time-poster'
 author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/12-11-2020/hello.md
 nid: 25228
@@ -12,7 +11,7 @@ uid: 725565
 
 # Hello
 
-by [ruthnwaiganjo](../profile/ruthnwaiganjo) December 11, 2020 14:07
+by [ruthnwaiganjo](../profile/ruthnwaiganjo) | December 11, 2020 14:07
 
 December 11, 2020 14:07 | Tags: [food](../tag/food), [coding](../tag/coding), [dashboard](../tag/dashboard), [technology](../tag/technology), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster)
 

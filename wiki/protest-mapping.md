@@ -1,6 +1,5 @@
 ---
-title: 'protest-mapping'
-tagnames: protest-mapping
+title: "protest-mapping"\ntagnames: 'protest-mapping'
 author: liz
 path: /wiki/protest-mapping.md
 nid: 14602

@@ -1,6 +1,5 @@
 ---
-title: 'KAP Test for Invasives Monitoring Project'
-tagnames: kite-mapping, grassrootsmapping, mapknitter, citizen-science, kap, maine, invasives, invasive-species, civic-hacking, response:10452
+title: "KAP Test for Invasives Monitoring Project"\ntagnames: 'kite-mapping, grassrootsmapping, mapknitter, citizen-science, kap, maine, invasives, invasive-species, civic-hacking, response:10452'
 author: ajawitz
 path: /notes/code4maine/06-25-2014/kap-test-for-invasives-monitoring-project.md
 nid: 10615
@@ -12,7 +11,7 @@ uid: 294634
 
 # KAP Test for Invasives Monitoring Project
 
-by [ajawitz](../profile/ajawitz) June 25, 2014 18:43
+by [ajawitz](../profile/ajawitz) | June 25, 2014 18:43
 
 June 25, 2014 18:43 | Tags: [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [citizen-science](../tag/citizen-science), [kap](../tag/kap), [maine](../tag/maine), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [civic-hacking](../tag/civic-hacking), [response:10452](../tag/response:10452)
 

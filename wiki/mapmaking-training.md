@@ -1,6 +1,5 @@
 ---
-title: 'Mapmaking Training'
-tagnames: 
+title: "Mapmaking Training"\ntagnames: ''
 author: gonzoearth
 path: /wiki/mapmaking-training.md
 nid: 1514

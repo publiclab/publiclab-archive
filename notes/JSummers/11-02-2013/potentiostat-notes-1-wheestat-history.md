@@ -1,6 +1,5 @@
 ---
-title: 'Potentiostat Notes-1, WheeStat history'
-tagnames: water-sensing, water-quality, potentiostat
+title: "Potentiostat Notes-1, WheeStat history"\ntagnames: 'water-sensing, water-quality, potentiostat'
 author: JSummers
 path: /notes/JSummers/11-02-2013/potentiostat-notes-1-wheestat-history.md
 nid: 9718
@@ -12,7 +11,7 @@ uid: 304279
 
 # Potentiostat Notes-1, WheeStat history
 
-by [JSummers](../profile/JSummers) November 02, 2013 22:06
+by [JSummers](../profile/JSummers) | November 02, 2013 22:06
 
 November 02, 2013 22:06 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat)
 

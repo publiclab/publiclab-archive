@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter Auto-placement'
-tagnames: mapknitter, gsoc, gsoc-2014, auto-knitting, auto-placement
+title: "MapKnitter Auto-placement"\ntagnames: 'mapknitter, gsoc, gsoc-2014, auto-knitting, auto-placement'
 author: warren
 path: /wiki/mapknitter-auto-placement.md
 nid: 10596

@@ -1,6 +1,5 @@
 ---
-title: 'What do you think about this design for the /people page?'
-tagnames: design, ui, ui-designs
+title: "What do you think about this design for the /people page?"\ntagnames: 'design, ui, ui-designs'
 author: edie_blues
 path: /notes/edie_blues/01-16-2019/what-do-you-think-about-this-design-for-the-people-page.md
 nid: 18129
@@ -12,7 +11,7 @@ uid: 552521
 
 # What do you think about this design for the /people page?
 
-by [edie_blues](../profile/edie_blues) January 16, 2019 21:00
+by [edie_blues](../profile/edie_blues) | January 16, 2019 21:00
 
 January 16, 2019 21:00 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 

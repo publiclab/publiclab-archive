@@ -1,6 +1,5 @@
 ---
-title: 'Bird Population Size'
-tagnames: issue-brief, first-time-poster, lat:29.951065, lon:-90.071532, zoom:6
+title: "Bird Population Size"\ntagnames: 'issue-brief, first-time-poster, lat:29.951065, lon:-90.071532, zoom:6'
 author: LivingstonChangeMakerClub
 path: /notes/LivingstonChangeMakerClub/04-12-2021/bird-population-size.md
 nid: 26207
@@ -10,7 +9,7 @@ uid: 749565
 
 # Bird Population Size
 
-by [LivingstonChangeMakerClub](../profile/LivingstonChangeMakerClub) April 12, 2021 17:13
+by [LivingstonChangeMakerClub](../profile/LivingstonChangeMakerClub) | April 12, 2021 17:13
 
 April 12, 2021 17:13 | Tags: [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:6](../tag/zoom:6)
 

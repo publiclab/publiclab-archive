@@ -1,6 +1,5 @@
 ---
-title: 'Reflection on Sensor Journalism'
-tagnames: water-sensing, conductivity, coqui, sensor-journalism
+title: "Reflection on Sensor Journalism"\ntagnames: 'water-sensing, conductivity, coqui, sensor-journalism'
 author: Jenn_Zarate
 path: /notes/Jenn_Zarate/10-09-2014/reflection-on-sensor-journalism.md
 nid: 11255
@@ -12,7 +11,7 @@ uid: 429632
 
 # Reflection on Sensor Journalism
 
-by [Jenn_Zarate](../profile/Jenn_Zarate) October 09, 2014 15:29
+by [Jenn_Zarate](../profile/Jenn_Zarate) | October 09, 2014 15:29
 
 October 09, 2014 15:29 | Tags: [water-sensing](../tag/water-sensing), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
 

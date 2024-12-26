@@ -1,6 +1,5 @@
 ---
-title: 'Drager Tubes use info'
-tagnames: hydrogen-sulfide-sensing
+title: "Drager Tubes use info"\ntagnames: 'hydrogen-sulfide-sensing'
 author: Shannon
 path: /notes/shannon/7-11-2012/drager-tubes-use-info.md
 nid: 2759
@@ -10,7 +9,7 @@ uid: 9
 
 # Drager Tubes use info
 
-by [Shannon](../profile/Shannon) July 11, 2012 19:16
+by [Shannon](../profile/Shannon) | July 11, 2012 19:16
 
 July 11, 2012 19:16 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 

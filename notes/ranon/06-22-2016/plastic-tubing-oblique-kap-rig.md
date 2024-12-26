@@ -1,6 +1,5 @@
 ---
-title: 'Plastic Tubing Oblique KAP Rig'
-tagnames: kite-mapping, kite-aerial-photography, self-made-kite-mapping, photo-rig, nap, lap-rigs, reconfigurable-rig, activity:photo-rig
+title: "Plastic Tubing Oblique KAP Rig"\ntagnames: 'kite-mapping, kite-aerial-photography, self-made-kite-mapping, photo-rig, nap, lap-rigs, reconfigurable-rig, activity:photo-rig'
 author: ranon
 path: /notes/ranon/06-22-2016/plastic-tubing-oblique-kap-rig.md
 nid: 13228
@@ -12,7 +11,7 @@ uid: 477060
 
 # Plastic Tubing Oblique KAP Rig
 
-by [ranon](../profile/ranon) June 22, 2016 20:28
+by [ranon](../profile/ranon) | June 22, 2016 20:28
 
 June 22, 2016 20:28 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [self-made-kite-mapping](../tag/self-made-kite-mapping), [photo-rig](../tag/photo-rig), [nap](../tag/nap), [lap-rigs](../tag/lap-rigs), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
 

@@ -1,6 +1,5 @@
 ---
-title: 'First EOS M aerials'
-tagnames: kite-aerial-photography, new-hampshire, farm, kap, autokap, ifarm, kaptery, nh, saturnv, skyshield, response:11830, half-spherical, littleplanet, eos_m, 2016, ifarm2016, category:verify
+title: "First EOS M aerials"\ntagnames: 'kite-aerial-photography, new-hampshire, farm, kap, autokap, ifarm, kaptery, nh, saturnv, skyshield, response:11830, half-spherical, littleplanet, eos_m, 2016, ifarm2016, category:verify'
 author: cfastie
 path: /notes/cfastie/08-13-2016/first-eos-m-aerials.md
 nid: 13351
@@ -12,7 +11,7 @@ uid: 554
 
 # First EOS M aerials
 
-by [cfastie](../profile/cfastie) August 13, 2016 17:44
+by [cfastie](../profile/cfastie) | August 13, 2016 17:44
 
 August 13, 2016 17:44 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [new-hampshire](../tag/new-hampshire), [farm](../tag/farm), [kap](../tag/kap), [autokap](../tag/autokap), [ifarm](../tag/ifarm), [kaptery](../tag/kaptery), [nh](../tag/nh), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11830](../tag/response:11830), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [eos_m](../tag/eos_m), [2016](../tag/2016), [ifarm2016](../tag/ifarm2016), [category:verify](../tag/category:verify)
 

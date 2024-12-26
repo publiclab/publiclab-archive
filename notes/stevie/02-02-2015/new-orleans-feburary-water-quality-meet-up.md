@@ -1,6 +1,5 @@
 ---
-title: 'New Orleans February Water Quality Meet-up'
-tagnames: gulf-coast, event, water-quality, event:rsvp, urbanwater, coqui, date:02-26-2015
+title: "New Orleans February Water Quality Meet-up"\ntagnames: 'gulf-coast, event, water-quality, event:rsvp, urbanwater, coqui, date:02-26-2015'
 author: stevie
 path: /notes/stevie/02-02-2015/new-orleans-feburary-water-quality-meet-up.md
 nid: 11550
@@ -12,7 +11,7 @@ uid: 422561
 
 # New Orleans February Water Quality Meet-up
 
-by [stevie](../profile/stevie) February 02, 2015 23:09
+by [stevie](../profile/stevie) | February 02, 2015 23:09
 
 February 02, 2015 23:09 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [water-quality](../tag/water-quality), [event:rsvp](../tag/event:rsvp), [urbanwater](../tag/urbanwater), [coqui](../tag/coqui), [date:02-26-2015](../tag/date:02-26-2015)
 

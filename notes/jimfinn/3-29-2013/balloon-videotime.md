@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Videotime'
-tagnames: 
+title: "Balloon Videotime"\ntagnames: ''
 author: jimfinn
 path: /notes/jimfinn/3-29-2013/balloon-videotime.md
 nid: 6605
@@ -10,7 +9,7 @@ uid: 55410
 
 # Balloon Videotime
 
-by [jimfinn](../profile/jimfinn) March 29, 2013 16:16
+by [jimfinn](../profile/jimfinn) | March 29, 2013 16:16
 
 March 29, 2013 16:16 | Tags: 
 

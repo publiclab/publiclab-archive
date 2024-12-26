@@ -1,6 +1,5 @@
 ---
-title: 'Dock Test Data!'
-tagnames: water-quality, thermal-fishing-bob, thermal, thermal-pollution, riffle, heat, multiple-input-thermal-fishing-bob, replication:689
+title: "Dock Test Data!"\ntagnames: 'water-quality, thermal-fishing-bob, thermal, thermal-pollution, riffle, heat, multiple-input-thermal-fishing-bob, replication:689'
 author: lperovich
 path: /notes/lperovich/08-26-2015/dock-test-data.md
 nid: 12172
@@ -12,7 +11,7 @@ uid: 443410
 
 # Dock Test Data!
 
-by [lperovich](../profile/lperovich) August 26, 2015 19:09
+by [lperovich](../profile/lperovich) | August 26, 2015 19:09
 
 August 26, 2015 19:09 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [riffle](../tag/riffle), [heat](../tag/heat), [multiple-input-thermal-fishing-bob](../tag/multiple-input-thermal-fishing-bob), [replication:689](../tag/replication:689)
 

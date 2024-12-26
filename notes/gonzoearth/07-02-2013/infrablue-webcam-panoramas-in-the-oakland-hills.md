@@ -1,6 +1,5 @@
 ---
-title: 'Infrablue Webcam Panoramas in the Oakland Hills'
-tagnames: near-infrared-camera, conversion, infragram, response:8285, infragram-camera-testing
+title: "Infrablue Webcam Panoramas in the Oakland Hills"\ntagnames: 'near-infrared-camera, conversion, infragram, response:8285, infragram-camera-testing'
 author: gonzoearth
 path: /notes/gonzoearth/07-02-2013/infrablue-webcam-panoramas-in-the-oakland-hills.md
 nid: 8615
@@ -12,7 +11,7 @@ uid: 12
 
 # Infrablue Webcam Panoramas in the Oakland Hills
 
-by [gonzoearth](../profile/gonzoearth) July 02, 2013 22:37
+by [gonzoearth](../profile/gonzoearth) | July 02, 2013 22:37
 
 July 02, 2013 22:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [infragram](../tag/infragram), [response:8285](../tag/response:8285), [infragram-camera-testing](../tag/infragram-camera-testing)
 

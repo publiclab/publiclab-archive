@@ -1,6 +1,5 @@
 ---
-title: 'Air column monitor components'
-tagnames: air-column-monitor
+title: "Air column monitor components"\ntagnames: 'air-column-monitor'
 author: Shannon
 path: /notes/shannon/6-13-2012/air-column-monitor-components.md
 nid: 2469
@@ -10,7 +9,7 @@ uid: 9
 
 # Air column monitor components
 
-by [Shannon](../profile/Shannon) June 13, 2012 10:52
+by [Shannon](../profile/Shannon) | June 13, 2012 10:52
 
 June 13, 2012 10:52 | Tags: [air-column-monitor](../tag/air-column-monitor)
 

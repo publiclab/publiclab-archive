@@ -1,6 +1,5 @@
 ---
-title: 'Unix Philosophy + The Internet of Things = Best Friends ?'
-tagnames: open-pipe-kit
+title: "Unix Philosophy + The Internet of Things = Best Friends ?"\ntagnames: 'open-pipe-kit'
 author: rjstatic
 path: /04-08-2015/unix-philosophy-the-internet-of-things-best-friends.md
 nid: 11753
@@ -12,7 +11,7 @@ uid: 174
 
 # Unix Philosophy + The Internet of Things = Best Friends ?
 
-by [rjstatic](../profile/rjstatic) April 08, 2015 22:14
+by [rjstatic](../profile/rjstatic) | April 08, 2015 22:14
 
 April 08, 2015 22:14 | Tags: [open-pipe-kit](../tag/open-pipe-kit)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Calibration of a single point reference'
-tagnames: 
+title: "Calibration of a single point reference"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/02-16-2016/calibration-of-a-single-point-reference.md
 nid: 12695
@@ -12,7 +11,7 @@ uid: 461120
 
 # Calibration of a single point reference
 
-by [dhaffnersr](../profile/dhaffnersr) February 16, 2016 18:12
+by [dhaffnersr](../profile/dhaffnersr) | February 16, 2016 18:12
 
 February 16, 2016 18:12 | Tags: 
 

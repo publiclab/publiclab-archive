@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Workbench Help'
-tagnames: spectrometer, spectralworkbench, export, parent:spectral-workbench, graph
+title: "Spectral Workbench Help"\ntagnames: 'spectrometer, spectralworkbench, export, parent:spectral-workbench, graph'
 author: warren
 path: /wiki/spectral-workbench-help.md
 nid: 886

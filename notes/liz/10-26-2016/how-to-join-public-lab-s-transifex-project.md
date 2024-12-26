@@ -1,6 +1,5 @@
 ---
-title: 'Step 1: Join Public Lab's Transifex project'
-tagnames: community, website, activity, difficulty:easy, status:complete, localization, translation, language, activity:localization, with:gauravano
+title: "Step 1: Join Public Lab's Transifex project"\ntagnames: 'community, website, activity, difficulty:easy, status:complete, localization, translation, language, activity:localization, with:gauravano'
 author: liz
 path: /notes/liz/10-26-2016/how-to-join-public-lab-s-transifex-project.md
 nid: 13652
@@ -12,7 +11,7 @@ uid: 7
 
 # Step 1: Join Public Lab's Transifex project
 
-by [liz](../profile/liz) October 26, 2016 19:24
+by [liz](../profile/liz) | October 26, 2016 19:24
 
 October 26, 2016 19:24 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [difficulty:easy](../tag/difficulty:easy), [status:complete](../tag/status:complete), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization](../tag/activity:localization), [with:gauravano](../tag/with:gauravano)
 

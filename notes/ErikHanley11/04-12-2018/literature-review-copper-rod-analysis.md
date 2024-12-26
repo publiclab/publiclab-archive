@@ -1,6 +1,5 @@
 ---
-title: 'Literature Review: Copper Rod Analysis'
-tagnames: analysis, copper, corrosion, epoxies, sem, eds
+title: "Literature Review: Copper Rod Analysis"\ntagnames: 'analysis, copper, corrosion, epoxies, sem, eds'
 author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/literature-review-copper-rod-analysis.md
 nid: 16140
@@ -10,7 +9,7 @@ uid: 444638
 
 # Literature Review: Copper Rod Analysis
 
-by [ErikHanley11](../profile/ErikHanley11) April 12, 2018 02:45
+by [ErikHanley11](../profile/ErikHanley11) | April 12, 2018 02:45
 
 April 12, 2018 02:45 | Tags: [analysis](../tag/analysis), [copper](../tag/copper), [corrosion](../tag/corrosion), [epoxies](../tag/epoxies), [sem](../tag/sem), [eds](../tag/eds)
 

@@ -1,6 +1,5 @@
 ---
-title: 'The Public Laboratory for Open Technology and Science Receives Support for Expanding Civic Science Programs'
-tagnames: 
+title: "The Public Laboratory for Open Technology and Science Receives Support for Expanding Civic Science Programs"\ntagnames: ''
 author: warren
 path: /notes/warren/6-20-2011/knc-test.md
 nid: 348
@@ -12,7 +11,7 @@ uid: 1
 
 # The Public Laboratory for Open Technology and Science Receives Support for Expanding Civic Science Programs
 
-by [warren](../profile/warren) June 22, 2011 18:30
+by [warren](../profile/warren) | June 22, 2011 18:30
 
 June 22, 2011 18:30 | Tags: 
 

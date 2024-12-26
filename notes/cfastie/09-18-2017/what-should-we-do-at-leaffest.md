@@ -1,6 +1,5 @@
 ---
-title: 'What should we do at LEAFFEST?'
-tagnames: vermont, leaffest, question:general, leaffest2017, question:leaffest, question:leaffest2017
+title: "What should we do at LEAFFEST?"\ntagnames: 'vermont, leaffest, question:general, leaffest2017, question:leaffest, question:leaffest2017'
 author: cfastie
 path: /notes/cfastie/09-18-2017/what-should-we-do-at-leaffest.md
 nid: 14904
@@ -12,7 +11,7 @@ uid: 554
 
 # What should we do at LEAFFEST?
 
-by [cfastie](../profile/cfastie) September 18, 2017 16:50
+by [cfastie](../profile/cfastie) | September 18, 2017 16:50
 
 September 18, 2017 16:50 | Tags: [vermont](../tag/vermont), [leaffest](../tag/leaffest), [question:general](../tag/question:general), [leaffest2017](../tag/leaffest2017), [question:leaffest](../tag/question:leaffest), [question:leaffest2017](../tag/question:leaffest2017)
 

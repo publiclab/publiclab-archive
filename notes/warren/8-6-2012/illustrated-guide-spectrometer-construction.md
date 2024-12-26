@@ -1,6 +1,5 @@
 ---
-title: 'Illustrated guide to spectrometer construction'
-tagnames: spectrometer, guides, guide
+title: "Illustrated guide to spectrometer construction"\ntagnames: 'spectrometer, guides, guide'
 author: warren
 path: /notes/warren/8-6-2012/illustrated-guide-spectrometer-construction.md
 nid: 3154
@@ -12,7 +11,7 @@ uid: 1
 
 # Illustrated guide to spectrometer construction
 
-by [warren](../profile/warren) August 06, 2012 22:22
+by [warren](../profile/warren) | August 06, 2012 22:22
 
 August 06, 2012 22:22 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [guide](../tag/guide)
 

@@ -1,6 +1,5 @@
 ---
-title: 'post-chooser'
-tagnames: choose-screen
+title: "post-chooser"\ntagnames: 'choose-screen'
 author: warren
 path: /feature/post-chooser.md
 nid: 24228

@@ -1,6 +1,5 @@
 ---
-title: 'Public remote sensing'
-tagnames: spectrometer, tool
+title: "Public remote sensing"\ntagnames: 'spectrometer, tool'
 author: Dongjie
 path: /notes/Dongjie/01-24-2014/public-remote-sensing.md
 nid: 9976
@@ -12,7 +11,7 @@ uid: 335902
 
 # Public remote sensing
 
-by [Dongjie](../profile/Dongjie) January 24, 2014 11:44
+by [Dongjie](../profile/Dongjie) | January 24, 2014 11:44
 
 January 24, 2014 11:44 | Tags: [spectrometer](../tag/spectrometer), [tool](../tag/tool)
 

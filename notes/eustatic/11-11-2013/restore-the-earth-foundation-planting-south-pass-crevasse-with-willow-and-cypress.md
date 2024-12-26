@@ -1,6 +1,5 @@
 ---
-title: 'Restore the Earth Foundation Planting South Pass Crevasse with Willow and Cypress'
-tagnames: gulf-coast, kite-mapping, wetlands, restoration, dredgefestla, lat:28.994674, lon:-89.142824, place:south-pass-la
+title: "Restore the Earth Foundation Planting South Pass Crevasse with Willow and Cypress"\ntagnames: 'gulf-coast, kite-mapping, wetlands, restoration, dredgefestla, lat:28.994674, lon:-89.142824, place:south-pass-la'
 author: eustatic
 path: /11-11-2013/restore-the-earth-foundation-planting-south-pass-crevasse-with-willow-and-cypress.md
 nid: 9765
@@ -12,7 +11,7 @@ uid: 379
 
 # Restore the Earth Foundation Planting South Pass Crevasse with Willow and Cypress
 
-by [eustatic](../profile/eustatic) November 11, 2013 05:11
+by [eustatic](../profile/eustatic) | November 11, 2013 05:11
 
 November 11, 2013 05:11 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [restoration](../tag/restoration), [dredgefestla](../tag/dredgefestla), [lat:28.994674](../tag/lat:28.994674), [lon:-89.142824](../tag/lon:-89.142824), [place:south-pass-la](../tag/place:south-pass-la)
 

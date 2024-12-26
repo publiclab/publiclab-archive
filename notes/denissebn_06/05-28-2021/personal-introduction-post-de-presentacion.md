@@ -1,6 +1,5 @@
 ---
-title: 'Personal Introduction / Post de Presentación '
-tagnames: air-quality, water, lang:es, zoom:14, VVAMP, lat:13.72, lon:-89.22
+title: "Personal Introduction / Post de Presentación "\ntagnames: 'air-quality, water, lang:es, zoom:14, VVAMP, lat:13.72, lon:-89.22'
 author: denissebn_06
 path: /notes/denissebn_06/05-28-2021/personal-introduction-post-de-presentacion.md
 nid: 26733
@@ -12,7 +11,7 @@ uid: 749988
 
 # Personal Introduction / Post de Presentación 
 
-by [denissebn_06](../profile/denissebn_06) May 28, 2021 20:23
+by [denissebn_06](../profile/denissebn_06) | May 28, 2021 20:23
 
 May 28, 2021 20:23 | Tags: [air-quality](../tag/air-quality), [water](../tag/water), [lang:es](../tag/lang:es), [zoom:14](../tag/zoom:14), [VVAMP](../tag/VVAMP), [lat:13.72](../tag/lat:13.72), [lon:-89.22](../tag/lon:-89.22)
 

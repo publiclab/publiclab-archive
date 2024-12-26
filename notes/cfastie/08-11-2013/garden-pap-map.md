@@ -1,6 +1,5 @@
 ---
-title: 'Garden PAP map'
-tagnames: vermont, polemapping, garden, pole-photography, pap, pole-aerial-photography, gigapan, pole-bracket
+title: "Garden PAP map"\ntagnames: 'vermont, polemapping, garden, pole-photography, pap, pole-aerial-photography, gigapan, pole-bracket'
 author: cfastie
 path: /notes/cfastie/08-11-2013/garden-pap-map.md
 nid: 8988
@@ -12,7 +11,7 @@ uid: 554
 
 # Garden PAP map
 
-by [cfastie](../profile/cfastie) August 11, 2013 03:40
+by [cfastie](../profile/cfastie) | August 11, 2013 03:40
 
 August 11, 2013 03:40 | Tags: [vermont](../tag/vermont), [polemapping](../tag/polemapping), [garden](../tag/garden), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [gigapan](../tag/gigapan), [pole-bracket](../tag/pole-bracket)
 

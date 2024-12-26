@@ -1,6 +1,5 @@
 ---
-title: 'Reference graphic, Barataria work'
-tagnames: gulf-coast, mapknitter, wetlands, louisiana, barataria
+title: "Reference graphic, Barataria work"\ntagnames: 'gulf-coast, mapknitter, wetlands, louisiana, barataria'
 author: eustatic
 path: /08-15-2014/reference-graphic-barataria-work.md
 nid: 11055
@@ -12,7 +11,7 @@ uid: 379
 
 # Reference graphic, Barataria work
 
-by [eustatic](../profile/eustatic) August 15, 2014 01:13
+by [eustatic](../profile/eustatic) | August 15, 2014 01:13
 
 August 15, 2014 01:13 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [barataria](../tag/barataria)
 

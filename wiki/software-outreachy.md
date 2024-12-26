@@ -1,6 +1,5 @@
 ---
-title: 'software-outreachy'
-tagnames: redirect:software-outreach
+title: "software-outreachy"\ntagnames: 'redirect:software-outreach'
 author: warren
 path: /wiki/software-outreachy.md
 nid: 24754

@@ -1,6 +1,5 @@
 ---
-title: 'signup-notice'
-tagnames: 
+title: "signup-notice"\ntagnames: ''
 author: warren
 path: /feature/signup-notice.md
 nid: 15742

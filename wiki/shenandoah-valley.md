@@ -1,6 +1,5 @@
 ---
-title: 'Shenandoah Valley'
-tagnames: chapter, list:plots-southeast, southeast, parent:southeast
+title: "Shenandoah Valley"\ntagnames: 'chapter, list:plots-southeast, southeast, parent:southeast'
 author: Shannon
 path: /wiki/shenandoah-valley.md
 nid: 2918

@@ -1,6 +1,5 @@
 ---
-title: 'Personal Reflections from Appalachia Barnraising 2017'
-tagnames: community, barnraising, event, blog, datalogger, appalachia, blog-submission, appalachia-barnraising
+title: "Personal Reflections from Appalachia Barnraising 2017"\ntagnames: 'community, barnraising, event, blog, datalogger, appalachia, blog-submission, appalachia-barnraising'
 author: nanocaj
 path: /notes/nanocaj/08-27-2017/personal-reflections-from-appalachia-barnraising-2017.md
 nid: 14793
@@ -12,7 +11,7 @@ uid: 513316
 
 # Personal Reflections from Appalachia Barnraising 2017
 
-by [nanocaj](../profile/nanocaj) August 27, 2017 02:41
+by [nanocaj](../profile/nanocaj) | August 27, 2017 02:41
 
 August 27, 2017 02:41 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [event](../tag/event), [blog](../tag/blog), [datalogger](../tag/datalogger), [appalachia](../tag/appalachia), [blog-submission](../tag/blog-submission), [appalachia-barnraising](../tag/appalachia-barnraising)
 

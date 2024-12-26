@@ -1,6 +1,5 @@
 ---
-title: 'Filter pinwheel for multispectral sensing'
-tagnames: 
+title: "Filter pinwheel for multispectral sensing"\ntagnames: ''
 author: warren
 path: /notes/warren/6-5-2011/filter-pinwheel-multispectral-sensing.md
 nid: 331
@@ -12,7 +11,7 @@ uid: 1
 
 # Filter pinwheel for multispectral sensing
 
-by [warren](../profile/warren) June 05, 2011 20:25
+by [warren](../profile/warren) | June 05, 2011 20:25
 
 June 05, 2011 20:25 | Tags: 
 

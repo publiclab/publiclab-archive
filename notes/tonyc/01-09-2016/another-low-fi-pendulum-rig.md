@@ -1,6 +1,5 @@
 ---
-title: 'Another low-fi pendulum rig'
-tagnames: diy-mount-kit
+title: "Another low-fi pendulum rig"\ntagnames: 'diy-mount-kit'
 author: tonyc
 path: /notes/tonyc/01-09-2016/another-low-fi-pendulum-rig.md
 nid: 12573
@@ -12,7 +11,7 @@ uid: 447491
 
 # Another low-fi pendulum rig
 
-by [tonyc](../profile/tonyc) January 09, 2016 01:22
+by [tonyc](../profile/tonyc) | January 09, 2016 01:22
 
 January 09, 2016 01:22 | Tags: [diy-mount-kit](../tag/diy-mount-kit)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Which Cuvettes for Spectroscopy are optically the best suited for the job - Part ll'
-tagnames: 
+title: "Which Cuvettes for Spectroscopy are optically the best suited for the job - Part ll"\ntagnames: ''
 author: dhaffnersr
 path: /wiki/which-cuvettes-for-spectroscopy-are-optically-the-best-suited-for-the-job-part-ll.md
 nid: 13202

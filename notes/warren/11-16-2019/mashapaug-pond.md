@@ -1,6 +1,5 @@
 ---
-title: 'Mashapaug Pond'
-tagnames: location:blurred, lat:41.79, unearthing-pvd, unearthing-pvd-sites, lon:-71.43
+title: "Mashapaug Pond"\ntagnames: 'location:blurred, lat:41.79, unearthing-pvd, unearthing-pvd-sites, lon:-71.43'
 author: warren
 path: /notes/warren/11-16-2019/mashapaug-pond.md
 nid: 21500
@@ -12,7 +11,7 @@ uid: 1
 
 # Mashapaug Pond
 
-by [warren](../profile/warren) November 16, 2019 00:53
+by [warren](../profile/warren) | November 16, 2019 00:53
 
 November 16, 2019 00:53 | Tags: [location:blurred](../tag/location:blurred), [lat:41.79](../tag/lat:41.79), [unearthing-pvd](../tag/unearthing-pvd), [unearthing-pvd-sites](../tag/unearthing-pvd-sites), [lon:-71.43](../tag/lon:-71.43)
 

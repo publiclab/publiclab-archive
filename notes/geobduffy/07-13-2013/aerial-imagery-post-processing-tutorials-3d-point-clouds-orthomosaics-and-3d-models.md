@@ -1,6 +1,5 @@
 ---
-title: 'Aerial Imagery Post Processing Tutorials: 3D point clouds, Orthomosaics, and 3D models '
-tagnames: balloon-mapping, kite-mapping, uav, sfm, structure-from-motion, 3d-models, first-time-poster
+title: "Aerial Imagery Post Processing Tutorials: 3D point clouds, Orthomosaics, and 3D models "\ntagnames: 'balloon-mapping, kite-mapping, uav, sfm, structure-from-motion, 3d-models, first-time-poster'
 author: geobduffy
 path: /notes/geobduffy/07-13-2013/aerial-imagery-post-processing-tutorials-3d-point-clouds-orthomosaics-and-3d-models.md
 nid: 8866
@@ -12,7 +11,7 @@ uid: 60509
 
 # Aerial Imagery Post Processing Tutorials: 3D point clouds, Orthomosaics, and 3D models 
 
-by [geobduffy](../profile/geobduffy) July 13, 2013 13:54
+by [geobduffy](../profile/geobduffy) | July 13, 2013 13:54
 
 July 13, 2013 13:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [uav](../tag/uav), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [3d-models](../tag/3d-models), [first-time-poster](../tag/first-time-poster)
 

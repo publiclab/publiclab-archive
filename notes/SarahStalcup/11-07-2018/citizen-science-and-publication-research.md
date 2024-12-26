@@ -1,6 +1,5 @@
 ---
-title: 'Citizen Science and Publication Research '
-tagnames: participation, publication, peer-review, first-time-poster, citizen-sceince, community-based
+title: "Citizen Science and Publication Research "\ntagnames: 'participation, publication, peer-review, first-time-poster, citizen-sceince, community-based'
 author: SarahStalcup
 path: /notes/SarahStalcup/11-07-2018/citizen-science-and-publication-research.md
 nid: 17486
@@ -12,7 +11,7 @@ uid: 557430
 
 # Citizen Science and Publication Research 
 
-by [SarahStalcup](../profile/SarahStalcup) November 07, 2018 17:18
+by [SarahStalcup](../profile/SarahStalcup) | November 07, 2018 17:18
 
 November 07, 2018 17:18 | Tags: [participation](../tag/participation), [publication](../tag/publication), [peer-review](../tag/peer-review), [first-time-poster](../tag/first-time-poster), [citizen-sceince](../tag/citizen-sceince), [community-based](../tag/community-based)
 

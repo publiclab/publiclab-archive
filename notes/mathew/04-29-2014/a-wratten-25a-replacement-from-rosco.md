@@ -1,6 +1,5 @@
 ---
-title: 'A Wratten 25A replacement from Rosco?'
-tagnames: ndvi, infrared, infragram, rosco, mobius, red, wratten
+title: "A Wratten 25A replacement from Rosco?"\ntagnames: 'ndvi, infrared, infragram, rosco, mobius, red, wratten'
 author: mathew
 path: /notes/mathew/04-29-2014/a-wratten-25a-replacement-from-rosco.md
 nid: 10376
@@ -12,7 +11,7 @@ uid: 4
 
 # A Wratten 25A replacement from Rosco?
 
-by [mathew](../profile/mathew) April 29, 2014 00:59
+by [mathew](../profile/mathew) | April 29, 2014 00:59
 
 April 29, 2014 00:59 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [rosco](../tag/rosco), [mobius](../tag/mobius), [red](../tag/red), [wratten](../tag/wratten)
 

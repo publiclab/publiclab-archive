@@ -1,6 +1,5 @@
 ---
-title: 'March Mapping Madness-San Francisco'
-tagnames: 
+title: "March Mapping Madness-San Francisco"\ntagnames: ''
 author: sara
 path: /wiki/march-mapping-madness-san-francisco.md
 nid: 892

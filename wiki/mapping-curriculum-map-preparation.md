@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Curriculum: Map Production with PLOTS Map Toolkit '
-tagnames: 
+title: "Mapping Curriculum: Map Production with PLOTS Map Toolkit "\ntagnames: ''
 author: warren
 path: /wiki/mapping-curriculum-map-preparation.md
 nid: 420

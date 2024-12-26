@@ -1,6 +1,5 @@
 ---
-title: 'What are some examples you've seen of unsuccessful welcoming practices?'
-tagnames: answered, onboarding, software-outreach, question:software-outreach, welcoming, question:onboarding, question:welcoming
+title: "What are some examples you've seen of unsuccessful welcoming practices?"\ntagnames: 'answered, onboarding, software-outreach, question:software-outreach, welcoming, question:onboarding, question:welcoming'
 author: warren
 path: /notes/warren/04-02-2018/what-are-some-examples-you-ve-seen-of-unsuccessful-welcoming-practices.md
 nid: 16049
@@ -12,7 +11,7 @@ uid: 1
 
 # What are some examples you've seen of unsuccessful welcoming practices?
 
-by [warren](../profile/warren) April 02, 2018 02:12
+by [warren](../profile/warren) | April 02, 2018 02:12
 
 April 02, 2018 02:12 | Tags: [answered](../tag/answered), [onboarding](../tag/onboarding), [software-outreach](../tag/software-outreach), [question:software-outreach](../tag/question:software-outreach), [welcoming](../tag/welcoming), [question:onboarding](../tag/question:onboarding), [question:welcoming](../tag/question:welcoming)
 

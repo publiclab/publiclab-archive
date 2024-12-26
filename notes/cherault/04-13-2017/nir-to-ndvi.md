@@ -1,6 +1,5 @@
 ---
-title: 'NIR to NDVI'
-tagnames: event, event:rsvp, question:forum, date:04-13-2017
+title: "NIR to NDVI"\ntagnames: 'event, event:rsvp, question:forum, date:04-13-2017'
 author: cherault
 path: /notes/cherault/04-13-2017/nir-to-ndvi.md
 nid: 14111
@@ -10,7 +9,7 @@ uid: 505648
 
 # NIR to NDVI
 
-by [cherault](../profile/cherault) April 13, 2017 13:17
+by [cherault](../profile/cherault) | April 13, 2017 13:17
 
 April 13, 2017 13:17 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [question:forum](../tag/question:forum), [date:04-13-2017](../tag/date:04-13-2017)
 

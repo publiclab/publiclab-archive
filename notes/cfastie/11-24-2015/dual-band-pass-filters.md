@@ -1,6 +1,5 @@
 ---
-title: 'Dual bandpass filters'
-tagnames: ndvi, infrared, filter, infragram, plant-health, response:12134, dualband, midopt
+title: "Dual bandpass filters"\ntagnames: 'ndvi, infrared, filter, infragram, plant-health, response:12134, dualband, midopt'
 author: cfastie
 path: /notes/cfastie/11-24-2015/dual-band-pass-filters.md
 nid: 12442
@@ -12,7 +11,7 @@ uid: 554
 
 # Dual bandpass filters
 
-by [cfastie](../profile/cfastie) November 24, 2015 04:01
+by [cfastie](../profile/cfastie) | November 24, 2015 04:01
 
 November 24, 2015 04:01 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [response:12134](../tag/response:12134), [dualband](../tag/dualband), [midopt](../tag/midopt)
 

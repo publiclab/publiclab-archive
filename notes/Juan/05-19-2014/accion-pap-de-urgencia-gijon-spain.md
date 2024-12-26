@@ -1,6 +1,5 @@
 ---
-title: 'Acción PAP de urgencia (Gijón, Spain)'
-tagnames: photography, spain, polemapping, pole-photography, pap, pole-mapping, lang:es, aerial, fabapole
+title: "Acción PAP de urgencia (Gijón, Spain)"\ntagnames: 'photography, spain, polemapping, pole-photography, pap, pole-mapping, lang:es, aerial, fabapole'
 author: Juan
 path: /notes/Juan/05-19-2014/accion-pap-de-urgencia-gijon-spain.md
 nid: 10478
@@ -12,7 +11,7 @@ uid: 1310
 
 # Acción PAP de urgencia (Gijón, Spain)
 
-by [Juan](../profile/Juan) May 19, 2014 10:52
+by [Juan](../profile/Juan) | May 19, 2014 10:52
 
 May 19, 2014 10:52 | Tags: [photography](../tag/photography), [spain](../tag/spain), [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-mapping](../tag/pole-mapping), [lang:es](../tag/lang:es), [aerial](../tag/aerial), [fabapole](../tag/fabapole)
 

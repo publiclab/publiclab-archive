@@ -1,6 +1,5 @@
 ---
-title: 'Receipt submission form 2018'
-tagnames: 
+title: "Receipt submission form 2018"\ntagnames: ''
 author: Shannon
 path: /wiki/receipts.md
 nid: 4181

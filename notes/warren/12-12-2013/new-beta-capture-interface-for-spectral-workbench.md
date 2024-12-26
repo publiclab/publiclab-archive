@@ -1,6 +1,5 @@
 ---
-title: 'New beta capture interface for Spectral Workbench'
-tagnames: spectrometer, spectralworkbench
+title: "New beta capture interface for Spectral Workbench"\ntagnames: 'spectrometer, spectralworkbench'
 author: warren
 path: /notes/warren/12-12-2013/new-beta-capture-interface-for-spectral-workbench.md
 nid: 9875
@@ -12,7 +11,7 @@ uid: 1
 
 # New beta capture interface for Spectral Workbench
 
-by [warren](../profile/warren) December 12, 2013 16:07
+by [warren](../profile/warren) | December 12, 2013 16:07
 
 December 12, 2013 16:07 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 

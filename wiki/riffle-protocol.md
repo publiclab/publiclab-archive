@@ -1,6 +1,5 @@
 ---
-title: 'riffle-protocol'
-tagnames: riffle, parent:riffle
+title: "riffle-protocol"\ntagnames: 'riffle, parent:riffle'
 author: mathew
 path: /wiki/riffle-protocol.md
 nid: 12165

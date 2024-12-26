@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of Class_Lab1_UAV_sskk'
-tagnames: mapknitter, lat:46.8645962071, lon:-113.9837738872
+title: "MapKnitter map of Class_Lab1_UAV_sskk"\ntagnames: 'mapknitter, lat:46.8645962071, lon:-113.9837738872'
 author: shahfkhan
 path: /notes/shahfkhan/05-17-2016/mapknitter-map-of-class_lab1_uav_sskk.md
 nid: 13120
@@ -10,7 +9,7 @@ uid: 473817
 
 # MapKnitter map of Class_Lab1_UAV_sskk
 
-by [shahfkhan](../profile/shahfkhan) May 17, 2016 01:19
+by [shahfkhan](../profile/shahfkhan) | May 17, 2016 01:19
 
 May 17, 2016 01:19 | Tags: [mapknitter](../tag/mapknitter), [lat:46.8645962071](../tag/lat:46.8645962071), [lon:-113.9837738872](../tag/lon:-113.9837738872)
 

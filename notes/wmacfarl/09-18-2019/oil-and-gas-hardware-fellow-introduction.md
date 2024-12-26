@@ -1,6 +1,5 @@
 ---
-title: 'Oil and Gas Hardware Fellow Introduction'
-tagnames: water-quality, riffle, fellowship, oil-and-gas, knowflow, lat:41.823989, lon:-71.412834
+title: "Oil and Gas Hardware Fellow Introduction"\ntagnames: 'water-quality, riffle, fellowship, oil-and-gas, knowflow, lat:41.823989, lon:-71.412834'
 author: wmacfarl
 path: /notes/wmacfarl/09-18-2019/oil-and-gas-hardware-fellow-introduction.md
 nid: 20915
@@ -10,7 +9,7 @@ uid: 424597
 
 # Oil and Gas Hardware Fellow Introduction
 
-by [wmacfarl](../profile/wmacfarl) September 18, 2019 18:19
+by [wmacfarl](../profile/wmacfarl) | September 18, 2019 18:19
 
 September 18, 2019 18:19 | Tags: [water-quality](../tag/water-quality), [riffle](../tag/riffle), [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas), [knowflow](../tag/knowflow), [lat:41.823989](../tag/lat:41.823989), [lon:-71.412834](../tag/lon:-71.412834)
 

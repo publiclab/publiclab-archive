@@ -1,6 +1,5 @@
 ---
-title: 'DIY Oil Testing Questions'
-tagnames: spectrometer, spectrometry, oil-testing-kit, draft
+title: "DIY Oil Testing Questions"\ntagnames: 'spectrometer, spectrometry, oil-testing-kit, draft'
 author: warren
 path: /wiki/diy-oil-testing-questions.md
 nid: 12632

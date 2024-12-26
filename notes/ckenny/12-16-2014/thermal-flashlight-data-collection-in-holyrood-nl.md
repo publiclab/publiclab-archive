@@ -1,6 +1,5 @@
 ---
-title: 'Thermal flashlight: data collection in Holyrood, NL'
-tagnames: thermal-photography, thermal-flashlight, thermal-pollution, thermal-plume, sociology-4107, newfoundland, holyrood, heat, activity:thermal-flashlight, story:thermal-flashlight, replication:625
+title: "Thermal flashlight: data collection in Holyrood, NL"\ntagnames: 'thermal-photography, thermal-flashlight, thermal-pollution, thermal-plume, sociology-4107, newfoundland, holyrood, heat, activity:thermal-flashlight, story:thermal-flashlight, replication:625'
 author: ckenny
 path: /notes/ckenny/12-16-2014/thermal-flashlight-data-collection-in-holyrood-nl.md
 nid: 11466
@@ -12,7 +11,7 @@ uid: 431154
 
 # Thermal flashlight: data collection in Holyrood, NL
 
-by [ckenny](../profile/ckenny) December 16, 2014 17:02
+by [ckenny](../profile/ckenny) | December 16, 2014 17:02
 
 December 16, 2014 17:02 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-pollution](../tag/thermal-pollution), [thermal-plume](../tag/thermal-plume), [sociology-4107](../tag/sociology-4107), [newfoundland](../tag/newfoundland), [holyrood](../tag/holyrood), [heat](../tag/heat), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [story:thermal-flashlight](../tag/story:thermal-flashlight), [replication:625](../tag/replication:625)
 

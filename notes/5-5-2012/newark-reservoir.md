@@ -1,6 +1,5 @@
 ---
-title: 'newark-reservoir'
-tagnames: 
+title: "newark-reservoir"\ntagnames: ''
 author: 
 path: /notes/5-5-2012/newark-reservoir.md
 nid: 2097
@@ -12,7 +11,7 @@ uid: 0
 
 # newark-reservoir
 
-by [](../profile/) May 06, 2012 02:02
+by [](../profile/) | May 06, 2012 02:02
 
 May 06, 2012 02:02 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Syringe pump mechanicals.'
-tagnames: 3d-printing, syringe, pump
+title: "Syringe pump mechanicals."\ntagnames: '3d-printing, syringe, pump'
 author: JSummers
 path: /notes/JSummers/12-30-2014/syringe-pump-mechanicals.md
 nid: 11500
@@ -12,7 +11,7 @@ uid: 304279
 
 # Syringe pump mechanicals.
 
-by [JSummers](../profile/JSummers) December 30, 2014 22:03
+by [JSummers](../profile/JSummers) | December 30, 2014 22:03
 
 December 30, 2014 22:03 | Tags: [3d-printing](../tag/3d-printing), [syringe](../tag/syringe), [pump](../tag/pump)
 

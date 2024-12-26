@@ -1,6 +1,5 @@
 ---
-title: 'Spam management Dashboard @ GSoC week-3'
-tagnames: gsoc, spam, soc, gsoc-2020, keshav, smd, week3
+title: "Spam management Dashboard @ GSoC week-3"\ntagnames: 'gsoc, spam, soc, gsoc-2020, keshav, smd, week3'
 author: keshav_sethi0004
 path: /notes/keshav_sethi0004/05-24-2020/spam-management-dashboard-gsoc-week-3.md
 nid: 23719
@@ -12,7 +11,7 @@ uid: 653396
 
 # Spam management Dashboard @ GSoC week-3
 
-by [keshav_sethi0004](../profile/keshav_sethi0004) May 24, 2020 19:38
+by [keshav_sethi0004](../profile/keshav_sethi0004) | May 24, 2020 19:38
 
 May 24, 2020 19:38 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [soc](../tag/soc), [gsoc-2020](../tag/gsoc-2020), [keshav](../tag/keshav), [smd](../tag/smd), [week3](../tag/week3)
 

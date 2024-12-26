@@ -1,6 +1,5 @@
 ---
-title: 'Vermont Environmental Summit'
-tagnames: balloon-mapping, near-infrared-camera, spectrometer, kite-mapping, conferences, events, tac
+title: "Vermont Environmental Summit"\ntagnames: 'balloon-mapping, near-infrared-camera, spectrometer, kite-mapping, conferences, events, tac'
 author: cfastie
 path: /notes/cfastie/11-19-2012/vermont-environmental-summit.md
 nid: 4950
@@ -12,7 +11,7 @@ uid: 554
 
 # Vermont Environmental Summit
 
-by [cfastie](../profile/cfastie) November 19, 2012 17:30
+by [cfastie](../profile/cfastie) | November 19, 2012 17:30
 
 November 19, 2012 17:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping), [conferences](../tag/conferences), [events](../tag/events), [tac](../tag/tac)
 

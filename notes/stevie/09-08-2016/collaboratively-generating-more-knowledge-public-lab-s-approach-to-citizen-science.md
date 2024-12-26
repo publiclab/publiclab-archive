@@ -1,6 +1,5 @@
 ---
-title: 'Collaboratively generating more knowledge: Public Lab’s approach to citizen science'
-tagnames: 
+title: "Collaboratively generating more knowledge: Public Lab’s approach to citizen science"\ntagnames: ''
 author: stevie
 path: /notes/stevie/09-08-2016/collaboratively-generating-more-knowledge-public-lab-s-approach-to-citizen-science.md
 nid: 13430
@@ -12,7 +11,7 @@ uid: 422561
 
 # Collaboratively generating more knowledge: Public Lab’s approach to citizen science
 
-by [stevie](../profile/stevie) September 08, 2016 15:11
+by [stevie](../profile/stevie) | September 08, 2016 15:11
 
 September 08, 2016 15:11 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Who can I reach out to for community science app UI help? '
-tagnames: air-quality, app, resource, question:general, ui, question:ui
+title: "Who can I reach out to for community science app UI help? "\ntagnames: 'air-quality, app, resource, question:general, ui, question:ui'
 author: nshapiro
 path: /notes/nshapiro/11-22-2017/who-can-i-reach-out-to-for-community-science-app-ui-help.md
 nid: 15227
@@ -10,7 +9,7 @@ uid: 380298
 
 # Who can I reach out to for community science app UI help? 
 
-by [nshapiro](../profile/nshapiro) November 22, 2017 19:00
+by [nshapiro](../profile/nshapiro) | November 22, 2017 19:00
 
 November 22, 2017 19:00 | Tags: [air-quality](../tag/air-quality), [app](../tag/app), [resource](../tag/resource), [question:general](../tag/question:general), [ui](../tag/ui), [question:ui](../tag/question:ui)
 

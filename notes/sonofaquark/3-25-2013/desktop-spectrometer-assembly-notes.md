@@ -1,6 +1,5 @@
 ---
-title: 'Desktop Spectrometer Assembly Notes'
-tagnames: spectrometer, unboxing
+title: "Desktop Spectrometer Assembly Notes"\ntagnames: 'spectrometer, unboxing'
 author: sonofaquark
 path: /notes/sonofaquark/3-25-2013/desktop-spectrometer-assembly-notes.md
 nid: 6535
@@ -10,7 +9,7 @@ uid: 54330
 
 # Desktop Spectrometer Assembly Notes
 
-by [sonofaquark](../profile/sonofaquark) March 26, 2013 03:13
+by [sonofaquark](../profile/sonofaquark) | March 26, 2013 03:13
 
 March 26, 2013 03:13 | Tags: [spectrometer](../tag/spectrometer), [unboxing](../tag/unboxing)
 

@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-soil'
-tagnames: 
+title: "sandbox-soil"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-soil.md
 nid: 25980

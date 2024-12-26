@@ -1,6 +1,5 @@
 ---
-title: 'UI principles for offline apps'
-tagnames: software, code, wwg, ui
+title: "UI principles for offline apps"\ntagnames: 'software, code, wwg, ui'
 author: warren
 path: /notes/warren/08-19-2019/ui-principles-for-offline-apps.md
 nid: 20580
@@ -12,7 +11,7 @@ uid: 1
 
 # UI principles for offline apps
 
-by [warren](../profile/warren) August 19, 2019 16:26
+by [warren](../profile/warren) | August 19, 2019 16:26
 
 August 19, 2019 16:26 | Tags: [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [ui](../tag/ui)
 

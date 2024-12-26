@@ -1,6 +1,5 @@
 ---
-title: 'Back to School Sale happening now through September 30th!'
-tagnames: sales, special, sale, backtoschool, deal
+title: "Back to School Sale happening now through September 30th!"\ntagnames: 'sales, special, sale, backtoschool, deal'
 author: natalie
 path: /notes/Natalie/08-29-2014/back-to-school-sale-happening-now-through-september-30th.md
 nid: 11089
@@ -12,7 +11,7 @@ uid: 424454
 
 # Back to School Sale happening now through September 30th!
 
-by [natalie](../profile/natalie) August 29, 2014 21:59
+by [natalie](../profile/natalie) | August 29, 2014 21:59
 
 August 29, 2014 21:59 | Tags: [sales](../tag/sales), [special](../tag/special), [sale](../tag/sale), [backtoschool](../tag/backtoschool), [deal](../tag/deal)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Curriculum SDSU Geography 496'
-tagnames: curriculum, parent:mapping-curriculum
+title: "Mapping Curriculum SDSU Geography 496"\ntagnames: 'curriculum, parent:mapping-curriculum'
 author: warren
 path: /wiki/mapping-curriculum-sdsu-geography-496.md
 nid: 73

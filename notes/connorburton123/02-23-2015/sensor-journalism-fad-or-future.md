@@ -1,6 +1,5 @@
 ---
-title: 'Sensor Journalism: Fad or Future? '
-tagnames: sensor-journalism
+title: "Sensor Journalism: Fad or Future? "\ntagnames: 'sensor-journalism'
 author: connorburton123
 path: /notes/connorburton123/02-23-2015/sensor-journalism-fad-or-future.md
 nid: 11615
@@ -12,7 +11,7 @@ uid: 435383
 
 # Sensor Journalism: Fad or Future? 
 
-by [connorburton123](../profile/connorburton123) February 23, 2015 00:02
+by [connorburton123](../profile/connorburton123) | February 23, 2015 00:02
 
 February 23, 2015 00:02 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

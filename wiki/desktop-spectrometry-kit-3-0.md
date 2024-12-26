@@ -1,6 +1,5 @@
 ---
-title: 'Desktop Spectrometry Kit 3.0'
-tagnames: spectrometer, kits, spectrometry, assembly, list:plots-spectrometry, prompt:spectrometry, beautiful, parent:spectrometry
+title: "Desktop Spectrometry Kit 3.0"\ntagnames: 'spectrometer, kits, spectrometry, assembly, list:plots-spectrometry, prompt:spectrometry, beautiful, parent:spectrometry'
 author: mathew
 path: /wiki/desktop-spectrometry-kit-3-0.md
 nid: 11533

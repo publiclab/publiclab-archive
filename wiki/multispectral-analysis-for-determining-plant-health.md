@@ -1,6 +1,5 @@
 ---
-title: 'Multispectral analysis for determining plant health'
-tagnames: spectrography, infrared, spectrometry, photosynthesis, plant-health, plant-biology
+title: "Multispectral analysis for determining plant health"\ntagnames: 'spectrography, infrared, spectrometry, photosynthesis, plant-health, plant-biology'
 author: btbonval
 path: /wiki/multispectral-analysis-for-determining-plant-health.md
 nid: 11477

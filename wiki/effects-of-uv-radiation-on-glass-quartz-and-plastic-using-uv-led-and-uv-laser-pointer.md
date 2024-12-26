@@ -1,6 +1,5 @@
 ---
-title: 'Effects of UV Radiation on Glass, Quartz and Plastic using UV LED and UV Laser Pointer'
-tagnames: 
+title: "Effects of UV Radiation on Glass, Quartz and Plastic using UV LED and UV Laser Pointer"\ntagnames: ''
 author: dhaffnersr
 path: /wiki/effects-of-uv-radiation-on-glass-quartz-and-plastic-using-uv-led-and-uv-laser-pointer.md
 nid: 13203

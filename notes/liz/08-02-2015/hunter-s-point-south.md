@@ -1,6 +1,5 @@
 ---
-title: 'Hunter's Point South'
-tagnames: new-york-city, kite-mapping, queens, northeast, hunters-point-south
+title: "Hunter's Point South"\ntagnames: 'new-york-city, kite-mapping, queens, northeast, hunters-point-south'
 author: liz
 path: /notes/liz/08-02-2015/hunter-s-point-south.md
 nid: 12115
@@ -12,7 +11,7 @@ uid: 7
 
 # Hunter's Point South
 
-by [liz](../profile/liz) August 02, 2015 16:57
+by [liz](../profile/liz) | August 02, 2015 16:57
 
 August 02, 2015 16:57 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [queens](../tag/queens), [northeast](../tag/northeast), [hunters-point-south](../tag/hunters-point-south)
 

@@ -1,6 +1,5 @@
 ---
-title: 'USB Webcam vs Raspberry Pi V2 Field of View (FOV) comparison /  Community microscope initial evaluation #2 '
-tagnames: calibration, webcam, gsoc, pi, raspberry, microscope, pi-camera, soc, gsoc-2018, soc-2018, activity:community-microscope, fov, bee, pi-microscope, camera-comparison, series:community-microscope-tests, community-microscope-prototyping
+title: "USB Webcam vs Raspberry Pi V2 Field of View (FOV) comparison /  Community microscope initial evaluation #2 "\ntagnames: 'calibration, webcam, gsoc, pi, raspberry, microscope, pi-camera, soc, gsoc-2018, soc-2018, activity:community-microscope, fov, bee, pi-microscope, camera-comparison, series:community-microscope-tests, community-microscope-prototyping'
 author: MaggPi
 path: /notes/MaggPi/06-05-2018/usb-webcam-vs-raspberry-pi-v2-field-of-view-fov-comparison-community-microscope-initial-evaluation-2.md
 nid: 16431
@@ -12,7 +11,7 @@ uid: 501996
 
 # USB Webcam vs Raspberry Pi V2 Field of View (FOV) comparison /  Community microscope initial evaluation #2 
 
-by [MaggPi](../profile/MaggPi) June 05, 2018 06:40
+by [MaggPi](../profile/MaggPi) | June 05, 2018 06:40
 
 June 05, 2018 06:40 | Tags: [calibration](../tag/calibration), [webcam](../tag/webcam), [gsoc](../tag/gsoc), [pi](../tag/pi), [raspberry](../tag/raspberry), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [activity:community-microscope](../tag/activity:community-microscope), [fov](../tag/fov), [bee](../tag/bee), [pi-microscope](../tag/pi-microscope), [camera-comparison](../tag/camera-comparison), [series:community-microscope-tests](../tag/series:community-microscope-tests), [community-microscope-prototyping](../tag/community-microscope-prototyping)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Are there affordable EPA-approved methods for monitoring ozone? '
-tagnames: air-quality, answered, ozone, question:question
+title: "Are there affordable EPA-approved methods for monitoring ozone? "\ntagnames: 'air-quality, answered, ozone, question:question'
 author: mathew
 path: /notes/mathew/02-23-2017/are-there-affordable-epa-approved-methods-for-monitoring-ozone.md
 nid: 13954
@@ -10,7 +9,7 @@ uid: 4
 
 # Are there affordable EPA-approved methods for monitoring ozone? 
 
-by [mathew](../profile/mathew) February 23, 2017 01:12
+by [mathew](../profile/mathew) | February 23, 2017 01:12
 
 February 23, 2017 01:12 | Tags: [air-quality](../tag/air-quality), [answered](../tag/answered), [ozone](../tag/ozone), [question:question](../tag/question:question)
 

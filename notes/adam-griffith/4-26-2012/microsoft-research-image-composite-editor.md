@@ -1,6 +1,5 @@
 ---
-title: 'Microsoft Research Image Composite Editor'
-tagnames: balloon-mapping, image-compositing, image-stitching, stitch, mosaicking
+title: "Microsoft Research Image Composite Editor"\ntagnames: 'balloon-mapping, image-compositing, image-stitching, stitch, mosaicking'
 author: adam-griffith
 path: /notes/adam-griffith/4-26-2012/microsoft-research-image-composite-editor.md
 nid: 1795
@@ -12,7 +11,7 @@ uid: 3
 
 # Microsoft Research Image Composite Editor
 
-by [adam-griffith](../profile/adam-griffith) April 26, 2012 11:21
+by [adam-griffith](../profile/adam-griffith) | April 26, 2012 11:21
 
 April 26, 2012 11:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [image-compositing](../tag/image-compositing), [image-stitching](../tag/image-stitching), [stitch](../tag/stitch), [mosaicking](../tag/mosaicking)
 

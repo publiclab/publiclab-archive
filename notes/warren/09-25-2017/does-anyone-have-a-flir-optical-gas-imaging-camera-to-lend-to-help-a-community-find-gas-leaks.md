@@ -1,6 +1,5 @@
 ---
-title: 'Does anyone have a FLIR Optical Gas Imaging camera to lend to help a community find gas leaks?'
-tagnames: thermal-photography, flir, natural-gas, gas, answered, question:thermal-photography, gasfinder, gas-leaks, question:flir, question:gas, question:gas-leaks, lng, liquified-natural-gas
+title: "Does anyone have a FLIR Optical Gas Imaging camera to lend to help a community find gas leaks?"\ntagnames: 'thermal-photography, flir, natural-gas, gas, answered, question:thermal-photography, gasfinder, gas-leaks, question:flir, question:gas, question:gas-leaks, lng, liquified-natural-gas'
 author: warren
 path: /notes/warren/09-25-2017/does-anyone-have-a-flir-optical-gas-imaging-camera-to-lend-to-help-a-community-find-gas-leaks.md
 nid: 14949
@@ -10,7 +9,7 @@ uid: 1
 
 # Does anyone have a FLIR Optical Gas Imaging camera to lend to help a community find gas leaks?
 
-by [warren](../profile/warren) September 25, 2017 18:05
+by [warren](../profile/warren) | September 25, 2017 18:05
 
 September 25, 2017 18:05 | Tags: [thermal-photography](../tag/thermal-photography), [flir](../tag/flir), [natural-gas](../tag/natural-gas), [gas](../tag/gas), [answered](../tag/answered), [question:thermal-photography](../tag/question:thermal-photography), [gasfinder](../tag/gasfinder), [gas-leaks](../tag/gas-leaks), [question:flir](../tag/question:flir), [question:gas](../tag/question:gas), [question:gas-leaks](../tag/question:gas-leaks), [lng](../tag/lng), [liquified-natural-gas](../tag/liquified-natural-gas)
 

@@ -1,6 +1,5 @@
 ---
-title: 'PLOTS New York Summit'
-tagnames: new-york-city
+title: "PLOTS New York Summit"\ntagnames: 'new-york-city'
 author: Shannon
 path: /notes/Shannon/05-01-2018/plots-new-york-summit.md
 nid: 188
@@ -10,7 +9,7 @@ uid: 9
 
 # PLOTS New York Summit
 
-by [Shannon](../profile/Shannon) April 13, 2011 23:34
+by [Shannon](../profile/Shannon) | April 13, 2011 23:34
 
 April 13, 2011 23:34 | Tags: [new-york-city](../tag/new-york-city)
 

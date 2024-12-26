@@ -1,6 +1,5 @@
 ---
-title: 'Prepare an SD card for a Raspberry Pi camera from scratch'
-tagnames: raspberry-pi, with:kgradow1, microscope, pi-camera, microscopes, activity:microscopes, raspberry-pi-infragram, activity:raspberry-pi-infragram, with:wmacfarl, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, activity:pi-camera, with:bmela, activity:basic-microscope, activity:lego-spectrometer, series:basic-microscope, response:15289, with:partsandcrafts
+title: "Prepare an SD card for a Raspberry Pi camera from scratch"\ntagnames: 'raspberry-pi, with:kgradow1, microscope, pi-camera, microscopes, activity:microscopes, raspberry-pi-infragram, activity:raspberry-pi-infragram, with:wmacfarl, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, activity:pi-camera, with:bmela, activity:basic-microscope, activity:lego-spectrometer, series:basic-microscope, response:15289, with:partsandcrafts'
 author: warren
 path: /notes/warren/04-20-2018/prepare-an-sd-card-for-a-raspberry-pi-camera-from-scratch.md
 nid: 16180
@@ -12,7 +11,7 @@ uid: 1
 
 # Prepare an SD card for a Raspberry Pi camera from scratch
 
-by [warren](../profile/warren) April 20, 2018 17:26
+by [warren](../profile/warren) | April 20, 2018 17:26
 
 April 20, 2018 17:26 | Tags: [raspberry-pi](../tag/raspberry-pi), [with:kgradow1](../tag/with:kgradow1), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [with:wmacfarl](../tag/with:wmacfarl), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [activity:pi-camera](../tag/activity:pi-camera), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [series:basic-microscope](../tag/series:basic-microscope), [response:15289](../tag/response:15289), [with:partsandcrafts](../tag/with:partsandcrafts)
 

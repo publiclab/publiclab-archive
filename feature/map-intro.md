@@ -1,6 +1,5 @@
 ---
-title: 'map-intro'
-tagnames: 
+title: "map-intro"\ntagnames: ''
 author: warren
 path: /feature/map-intro.md
 nid: 23615

@@ -1,6 +1,5 @@
 ---
-title: 'Build a Coqui BBv1.0'
-tagnames: water-sensing, water-quality, upverter, riffle, barnstar:photo-documentation, coqui, activity:coqui-version
+title: "Build a Coqui BBv1.0"\ntagnames: 'water-sensing, water-quality, upverter, riffle, barnstar:photo-documentation, coqui, activity:coqui-version'
 author: donblair
 path: /notes/donblair/09-30-2014/coqui-bbv1-0.md
 nid: 11209
@@ -12,7 +11,7 @@ uid: 43651
 
 # Build a Coqui BBv1.0
 
-by [donblair](../profile/donblair) September 30, 2014 19:43
+by [donblair](../profile/donblair) | September 30, 2014 19:43
 
 September 30, 2014 19:43 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [upverter](../tag/upverter), [riffle](../tag/riffle), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [coqui](../tag/coqui), [activity:coqui-version](../tag/activity:coqui-version)
 

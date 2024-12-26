@@ -1,6 +1,5 @@
 ---
-title: 'Color Quality Control'
-tagnames: color
+title: "Color Quality Control"\ntagnames: 'color'
 author: RauAutowood
 path: /notes/RauAutowood/03-10-2014/color-quality-control.md
 nid: 10150
@@ -10,7 +9,7 @@ uid: 421139
 
 # Color Quality Control
 
-by [RauAutowood](../profile/RauAutowood) March 10, 2014 17:39
+by [RauAutowood](../profile/RauAutowood) | March 10, 2014 17:39
 
 March 10, 2014 17:39 | Tags: [color](../tag/color)
 

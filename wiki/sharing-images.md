@@ -1,6 +1,5 @@
 ---
-title: 'Sharing Images'
-tagnames: needs-revision, bittorrent, sharing, image-sorting, redirect:14184
+title: "Sharing Images"\ntagnames: 'needs-revision, bittorrent, sharing, image-sorting, redirect:14184'
 author: warren
 path: /wiki/sharing-images.md
 nid: 7744

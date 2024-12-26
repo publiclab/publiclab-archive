@@ -1,6 +1,5 @@
 ---
-title: 'Light Amber'
-tagnames: spectrometer, vermont, spectralworkbench, ebert, absorption, syrup, activity:spectrometry, activity:science-fair
+title: "Light Amber"\ntagnames: 'spectrometer, vermont, spectralworkbench, ebert, absorption, syrup, activity:spectrometry, activity:science-fair'
 author: cfastie
 path: /notes/cfastie/3-13-2013/light-amber.md
 nid: 6318
@@ -12,7 +11,7 @@ uid: 554
 
 # Light Amber
 
-by [cfastie](../profile/cfastie) March 13, 2013 19:39
+by [cfastie](../profile/cfastie) | March 13, 2013 19:39
 
 March 13, 2013 19:39 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [spectralworkbench](../tag/spectralworkbench), [ebert](../tag/ebert), [absorption](../tag/absorption), [syrup](../tag/syrup), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair)
 

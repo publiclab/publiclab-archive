@@ -1,6 +1,5 @@
 ---
-title: 'Recharging New Orleans: Rain Barrels and Environmental Justice'
-tagnames: new-orleans, blog, stormwater, community-building, flooding, rain, flood-protection, rain-barrel, rain-gauge, csf15, response:15252
+title: "Recharging New Orleans: Rain Barrels and Environmental Justice"\ntagnames: 'new-orleans, blog, stormwater, community-building, flooding, rain, flood-protection, rain-barrel, rain-gauge, csf15, response:15252'
 author: joyofsoy
 path: /notes/joyofsoy/11-06-2018/recharging-new-orleans-rain-barrels-and-environmental-justice.md
 nid: 17478
@@ -12,7 +11,7 @@ uid: 540844
 
 # Recharging New Orleans: Rain Barrels and Environmental Justice
 
-by [joyofsoy](../profile/joyofsoy) November 06, 2018 22:30
+by [joyofsoy](../profile/joyofsoy) | November 06, 2018 22:30
 
 November 06, 2018 22:30 | Tags: [new-orleans](../tag/new-orleans), [blog](../tag/blog), [stormwater](../tag/stormwater), [community-building](../tag/community-building), [flooding](../tag/flooding), [rain](../tag/rain), [flood-protection](../tag/flood-protection), [rain-barrel](../tag/rain-barrel), [rain-gauge](../tag/rain-gauge), [csf15](../tag/csf15), [response:15252](../tag/response:15252)
 

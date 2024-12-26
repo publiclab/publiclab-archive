@@ -1,6 +1,5 @@
 ---
-title: 'Staff Call 7 6 2011: Community Focus'
-tagnames: 
+title: "Staff Call 7 6 2011: Community Focus"\ntagnames: ''
 author: warren
 path: /wiki/staff-call-7-6-2011-community-focus.md
 nid: 393

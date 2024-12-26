@@ -1,6 +1,5 @@
 ---
-title: 'Bibliography for Hydrogen Sulfide Research'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, bibliography
+title: "Bibliography for Hydrogen Sulfide Research"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, bibliography'
 author: sara
 path: /notes/sara/1-31-2012/bibliography-hydrogen-sulfide-research.md
 nid: 734
@@ -12,7 +11,7 @@ uid: 8
 
 # Bibliography for Hydrogen Sulfide Research
 
-by [sara](../profile/sara) January 31, 2012 20:35
+by [sara](../profile/sara) | January 31, 2012 20:35
 
 January 31, 2012 20:35 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [bibliography](../tag/bibliography)
 

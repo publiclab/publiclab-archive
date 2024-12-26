@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter'
-tagnames: balloon-mapping, kite-mapping, mapknitter, gps, software, needs-revision, tool, gps-autoplace, method, location:blurred, lat:1, activities:mapknitter, questions:mapknitter, lon:9
+title: "MapKnitter"\ntagnames: 'balloon-mapping, kite-mapping, mapknitter, gps, software, needs-revision, tool, gps-autoplace, method, location:blurred, lat:1, activities:mapknitter, questions:mapknitter, lon:9'
 author: gonzoearth
 path: /wiki/mapknitter.md
 nid: 467

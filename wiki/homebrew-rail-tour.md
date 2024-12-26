@@ -1,6 +1,5 @@
 ---
-title: 'homebrew-rail-tour'
-tagnames: 
+title: "homebrew-rail-tour"\ntagnames: ''
 author: donblair
 path: /wiki/homebrew-rail-tour.md
 nid: 10100

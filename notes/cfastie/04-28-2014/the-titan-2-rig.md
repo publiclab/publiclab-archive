@@ -1,6 +1,5 @@
 ---
-title: 'The Titan 2 Rig'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, kap, 3d-printing, makerbot, response:10230, titan
+title: "The Titan 2 Rig"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, kap, 3d-printing, makerbot, response:10230, titan'
 author: cfastie
 path: /notes/cfastie/04-28-2014/the-titan-2-rig.md
 nid: 10374
@@ -12,7 +11,7 @@ uid: 554
 
 # The Titan 2 Rig
 
-by [cfastie](../profile/cfastie) April 28, 2014 03:35
+by [cfastie](../profile/cfastie) | April 28, 2014 03:35
 
 April 28, 2014 03:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230), [titan](../tag/titan)
 

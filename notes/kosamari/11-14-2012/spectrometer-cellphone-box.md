@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer in cellphone box'
-tagnames: spectrometer
+title: "Spectrometer in cellphone box"\ntagnames: 'spectrometer'
 author: kosamari
 path: /notes/kosamari/11-14-2012/spectrometer-cellphone-box.md
 nid: 4905
@@ -12,7 +11,7 @@ uid: 44255
 
 # Spectrometer in cellphone box
 
-by [kosamari](../profile/kosamari) November 14, 2012 17:22
+by [kosamari](../profile/kosamari) | November 14, 2012 17:22
 
 November 14, 2012 17:22 | Tags: [spectrometer](../tag/spectrometer)
 

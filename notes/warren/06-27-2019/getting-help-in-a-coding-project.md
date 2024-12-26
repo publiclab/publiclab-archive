@@ -1,6 +1,5 @@
 ---
-title: 'Getting help in a coding project'
-tagnames: gsoc, code, software-outreach, soc, gsoc-2019, soc-2019
+title: "Getting help in a coding project"\ntagnames: 'gsoc, code, software-outreach, soc, gsoc-2019, soc-2019'
 author: warren
 path: /notes/warren/06-27-2019/getting-help-in-a-coding-project.md
 nid: 19900
@@ -12,7 +11,7 @@ uid: 1
 
 # Getting help in a coding project
 
-by [warren](../profile/warren) June 27, 2019 21:47
+by [warren](../profile/warren) | June 27, 2019 21:47
 
 June 27, 2019 21:47 | Tags: [gsoc](../tag/gsoc), [code](../tag/code), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 

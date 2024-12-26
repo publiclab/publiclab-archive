@@ -1,6 +1,5 @@
 ---
-title: 'Excerpts on using UV and IR for oil slick identification'
-tagnames: uv, oil, ultraviolet, water-quality, slick
+title: "Excerpts on using UV and IR for oil slick identification"\ntagnames: 'uv, oil, ultraviolet, water-quality, slick'
 author: warren
 path: /notes/warren/5-25-2011/excerpts-using-uv-and-ir-oil-slick-identification.md
 nid: 295
@@ -12,7 +11,7 @@ uid: 1
 
 # Excerpts on using UV and IR for oil slick identification
 
-by [warren](../profile/warren) May 25, 2011 17:01
+by [warren](../profile/warren) | May 25, 2011 17:01
 
 May 25, 2011 17:01 | Tags: [uv](../tag/uv), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [water-quality](../tag/water-quality), [slick](../tag/slick)
 

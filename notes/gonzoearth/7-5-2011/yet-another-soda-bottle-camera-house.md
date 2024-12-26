@@ -1,6 +1,5 @@
 ---
-title: 'Yet another soda bottle camera house'
-tagnames: balloon-mapping, photo-rig, activity:photo-rig, replication:13948
+title: "Yet another soda bottle camera house"\ntagnames: 'balloon-mapping, photo-rig, activity:photo-rig, replication:13948'
 author: gonzoearth
 path: /notes/gonzoearth/7-5-2011/yet-another-soda-bottle-camera-house.md
 nid: 369
@@ -12,7 +11,7 @@ uid: 12
 
 # Yet another soda bottle camera house
 
-by [gonzoearth](../profile/gonzoearth) July 05, 2011 16:24
+by [gonzoearth](../profile/gonzoearth) | July 05, 2011 16:24
 
 July 05, 2011 16:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [replication:13948](../tag/replication:13948)
 

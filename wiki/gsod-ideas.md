@@ -1,6 +1,5 @@
 ---
-title: 'GSoD Ideas'
-tagnames: documentation, gsoc, google, parent:gsoc, wwg, gsod
+title: "GSoD Ideas"\ntagnames: 'documentation, gsoc, google, parent:gsoc, wwg, gsod'
 author: warren
 path: /wiki/gsod-ideas.md
 nid: 19139

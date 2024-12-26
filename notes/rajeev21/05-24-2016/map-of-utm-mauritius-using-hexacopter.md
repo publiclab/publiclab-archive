@@ -1,6 +1,5 @@
 ---
-title: 'Map of utm mauritius using hexacopter'
-tagnames: mapknitter, africa, lat:-11.8673509115, lon:101.953125
+title: "Map of utm mauritius using hexacopter"\ntagnames: 'mapknitter, africa, lat:-11.8673509115, lon:101.953125'
 author: rajeev21
 path: /notes/rajeev21/05-24-2016/map-of-utm-mauritius-using-hexacopter.md
 nid: 13139
@@ -12,7 +11,7 @@ uid: 473323
 
 # Map of utm mauritius using hexacopter
 
-by [rajeev21](../profile/rajeev21) May 24, 2016 03:33
+by [rajeev21](../profile/rajeev21) | May 24, 2016 03:33
 
 May 24, 2016 03:33 | Tags: [mapknitter](../tag/mapknitter), [africa](../tag/africa), [lat:-11.8673509115](../tag/lat:-11.8673509115), [lon:101.953125](../tag/lon:101.953125)
 

@@ -1,6 +1,5 @@
 ---
-title: 'GSoC 2021 Proposal: spectral-workbench.js JS/Rails integration'
-tagnames: soc, first-time-poster, gsoc-2021, gsoc-2021-proposals
+title: "GSoC 2021 Proposal: spectral-workbench.js JS/Rails integration"\ntagnames: 'soc, first-time-poster, gsoc-2021, gsoc-2021-proposals'
 author: waridrox
 path: /notes/waridrox/04-03-2021/gsoc-2021-proposal-spectral-workbench-js-js-rails-integration.md
 nid: 26134
@@ -12,7 +11,7 @@ uid: 745996
 
 # GSoC 2021 Proposal: spectral-workbench.js JS/Rails integration
 
-by [waridrox](../profile/waridrox) April 03, 2021 22:44
+by [waridrox](../profile/waridrox) | April 03, 2021 22:44
 
 April 03, 2021 22:44 | Tags: [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 

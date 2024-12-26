@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-presenting-data'
-tagnames: 
+title: "sandbox-presenting-data"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-presenting-data.md
 nid: 27449

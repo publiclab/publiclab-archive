@@ -1,6 +1,5 @@
 ---
-title: '2 9v batteries to drive 555 timer'
-tagnames: near-infrared-camera, 555-timer
+title: "2 9v batteries to drive 555 timer"\ntagnames: 'near-infrared-camera, 555-timer'
 author: warren
 path: /notes/warren/5-8-2012/2-9v-batteries-drive-555-timer.md
 nid: 1928
@@ -12,7 +11,7 @@ uid: 1
 
 # 2 9v batteries to drive 555 timer
 
-by [warren](../profile/warren) May 08, 2012 23:37
+by [warren](../profile/warren) | May 08, 2012 23:37
 
 May 08, 2012 23:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [555-timer](../tag/555-timer)
 

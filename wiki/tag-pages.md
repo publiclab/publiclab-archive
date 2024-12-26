@@ -1,6 +1,5 @@
 ---
-title: 'Tag Pages'
-tagnames: redirect:topic-pages
+title: "Tag Pages"\ntagnames: 'redirect:topic-pages'
 author: warren
 path: /wiki/tag-pages.md
 nid: 20033

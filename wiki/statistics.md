@@ -1,6 +1,5 @@
 ---
-title: 'Statistics'
-tagnames: 
+title: "Statistics"\ntagnames: ''
 author: warren
 path: /wiki/statistics.md
 nid: 2474

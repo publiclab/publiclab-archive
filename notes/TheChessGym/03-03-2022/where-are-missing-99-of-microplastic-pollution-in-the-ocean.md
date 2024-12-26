@@ -1,6 +1,5 @@
 ---
-title: 'Where are  missing 99% of microplastic pollution in the ocean? '
-tagnames: microplastics, lat:20, lon:70, zoom:5
+title: "Where are  missing 99% of microplastic pollution in the ocean? "\ntagnames: 'microplastics, lat:20, lon:70, zoom:5'
 author: TheChessGym
 path: /notes/TheChessGym/03-03-2022/where-are-missing-99-of-microplastic-pollution-in-the-ocean.md
 nid: 30095
@@ -12,7 +11,7 @@ uid: 788868
 
 # Where are  missing 99% of microplastic pollution in the ocean? 
 
-by [TheChessGym](../profile/TheChessGym) March 03, 2022 19:54
+by [TheChessGym](../profile/TheChessGym) | March 03, 2022 19:54
 
 March 03, 2022 19:54 | Tags: [microplastics](../tag/microplastics), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:5](../tag/zoom:5)
 

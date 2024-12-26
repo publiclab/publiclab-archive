@@ -1,6 +1,5 @@
 ---
-title: 'Lots of sample Infragram images for testing'
-tagnames: near-infrared-camera, ndvi, boston, infragram, infrabluephoto
+title: "Lots of sample Infragram images for testing"\ntagnames: 'near-infrared-camera, ndvi, boston, infragram, infrabluephoto'
 author: warren
 path: /notes/warren/05-21-2013/lots-of-sample-infragram-images-for-testing.md
 nid: 7793
@@ -12,7 +11,7 @@ uid: 1
 
 # Lots of sample Infragram images for testing
 
-by [warren](../profile/warren) May 21, 2013 23:41
+by [warren](../profile/warren) | May 21, 2013 23:41
 
 May 21, 2013 23:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [boston](../tag/boston), [infragram](../tag/infragram), [infrabluephoto](../tag/infrabluephoto)
 

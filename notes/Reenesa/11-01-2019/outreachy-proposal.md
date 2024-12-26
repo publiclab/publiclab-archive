@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: '
-tagnames: software, soc, outreachy, response:17359, first-time-poster, soc-2019, outreachy-2019, outreachy-2019-proposals
+title: "Outreachy proposal: "\ntagnames: 'software, soc, outreachy, response:17359, first-time-poster, soc-2019, outreachy-2019, outreachy-2019-proposals'
 author: Reenesa
 path: /notes/Reenesa/11-01-2019/outreachy-proposal.md
 nid: 21363
@@ -10,7 +9,7 @@ uid: 626314
 
 # Outreachy proposal: 
 
-by [Reenesa](../profile/Reenesa) November 01, 2019 05:15
+by [Reenesa](../profile/Reenesa) | November 01, 2019 05:15
 
 November 01, 2019 05:15 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals)
 

@@ -1,6 +1,5 @@
 ---
-title: 'making PDFs from wiki pages'
-tagnames: process, curriculum, plots2, how-to, publiclab.org, printing
+title: "making PDFs from wiki pages"\ntagnames: 'process, curriculum, plots2, how-to, publiclab.org, printing'
 author: mathew
 path: /notes/mathew/03-31-2015/making-pdfs-from-wiki-pages.md
 nid: 11732
@@ -12,7 +11,7 @@ uid: 4
 
 # making PDFs from wiki pages
 
-by [mathew](../profile/mathew) March 31, 2015 20:51
+by [mathew](../profile/mathew) | March 31, 2015 20:51
 
 March 31, 2015 20:51 | Tags: [process](../tag/process), [curriculum](../tag/curriculum), [plots2](../tag/plots2), [how-to](../tag/how-to), [publiclab.org](../tag/publiclab.org), [printing](../tag/printing)
 

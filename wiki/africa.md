@@ -1,6 +1,5 @@
 ---
-title: 'africa'
-tagnames: africa, parent:region
+title: "africa"\ntagnames: 'africa, parent:region'
 author: liz
 path: /wiki/africa.md
 nid: 11157

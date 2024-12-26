@@ -1,6 +1,5 @@
 ---
-title: 'Infrared Camera Conversion'
-tagnames: near-infrared-camera, infrared, infragram, parent:infragram, multispectral-imaging, redirect:7823
+title: "Infrared Camera Conversion"\ntagnames: 'near-infrared-camera, infrared, infragram, parent:infragram, multispectral-imaging, redirect:7823'
 author: warren
 path: /wiki/infrared-camera-conversion.md
 nid: 15085

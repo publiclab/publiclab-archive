@@ -1,6 +1,5 @@
 ---
-title: 'PhotosynQ demo, Thursday night at Mach 30'
-tagnames: photosynq, demo
+title: "PhotosynQ demo, Thursday night at Mach 30"\ntagnames: 'photosynq, demo'
 author: gbathree
 path: /notes/gbathree/03-10-2014/photosynq-demo-thursday-night-at-mach-30.md
 nid: 10149
@@ -12,7 +11,7 @@ uid: 53164
 
 # PhotosynQ demo, Thursday night at Mach 30
 
-by [gbathree](../profile/gbathree) March 10, 2014 13:54
+by [gbathree](../profile/gbathree) | March 10, 2014 13:54
 
 March 10, 2014 13:54 | Tags: [photosynq](../tag/photosynq), [demo](../tag/demo)
 

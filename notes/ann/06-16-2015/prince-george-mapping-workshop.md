@@ -1,6 +1,5 @@
 ---
-title: 'Prince George Mapping Workshop'
-tagnames: balloon-mapping, event, event:rsvp, northwest, date:07-16-2015, rsvp:dkwiens, rsvp:coriramsay, rsvp:ecohorizons, rsvp:mgagel, rsvp:ianinafrica, rsvp:linlin, rsvp:wheate, rsvp:dana_schwehr, rsvp:jnunes, rsvp:dbelsham, replication:14022
+title: "Prince George Mapping Workshop"\ntagnames: 'balloon-mapping, event, event:rsvp, northwest, date:07-16-2015, rsvp:dkwiens, rsvp:coriramsay, rsvp:ecohorizons, rsvp:mgagel, rsvp:ianinafrica, rsvp:linlin, rsvp:wheate, rsvp:dana_schwehr, rsvp:jnunes, rsvp:dbelsham, replication:14022'
 author: ann
 path: /notes/ann/06-16-2015/prince-george-mapping-workshop.md
 nid: 11983
@@ -12,7 +11,7 @@ uid: 421543
 
 # Prince George Mapping Workshop
 
-by [ann](../profile/ann) June 16, 2015 17:12
+by [ann](../profile/ann) | June 16, 2015 17:12
 
 June 16, 2015 17:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [northwest](../tag/northwest), [date:07-16-2015](../tag/date:07-16-2015), [rsvp:dkwiens](../tag/rsvp:dkwiens), [rsvp:coriramsay](../tag/rsvp:coriramsay), [rsvp:ecohorizons](../tag/rsvp:ecohorizons), [rsvp:mgagel](../tag/rsvp:mgagel), [rsvp:ianinafrica](../tag/rsvp:ianinafrica), [rsvp:linlin](../tag/rsvp:linlin), [rsvp:wheate](../tag/rsvp:wheate), [rsvp:dana_schwehr](../tag/rsvp:dana_schwehr), [rsvp:jnunes](../tag/rsvp:jnunes), [rsvp:dbelsham](../tag/rsvp:dbelsham), [replication:14022](../tag/replication:14022)
 

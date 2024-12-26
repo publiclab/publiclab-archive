@@ -1,6 +1,5 @@
 ---
-title: 'Transmission & other related information of the Red Filter'
-tagnames: infragram-filters, mobius, question:infragram, actioncam
+title: "Transmission & other related information of the Red Filter"\ntagnames: 'infragram-filters, mobius, question:infragram, actioncam'
 author: suman
 path: /notes/suman/05-07-2017/transmission-other-related-information-of-the-red-filter.md
 nid: 14167
@@ -10,7 +9,7 @@ uid: 497769
 
 # Transmission & other related information of the Red Filter
 
-by [suman](../profile/suman) May 07, 2017 17:46
+by [suman](../profile/suman) | May 07, 2017 17:46
 
 May 07, 2017 17:46 | Tags: [infragram-filters](../tag/infragram-filters), [mobius](../tag/mobius), [question:infragram](../tag/question:infragram), [actioncam](../tag/actioncam)
 

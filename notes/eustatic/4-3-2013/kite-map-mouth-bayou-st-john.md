@@ -1,6 +1,5 @@
 ---
-title: 'Kite Map of the mouth of Bayou St John'
-tagnames: gulf-coast, kite-mapping, eustatic, dredgefestla, bsj
+title: "Kite Map of the mouth of Bayou St John"\ntagnames: 'gulf-coast, kite-mapping, eustatic, dredgefestla, bsj'
 author: eustatic
 path: /4-3-2013/kite-map-mouth-bayou-st-john.md
 nid: 6665
@@ -12,7 +11,7 @@ uid: 379
 
 # Kite Map of the mouth of Bayou St John
 
-by [eustatic](../profile/eustatic) April 03, 2013 13:54
+by [eustatic](../profile/eustatic) | April 03, 2013 13:54
 
 April 03, 2013 13:54 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [eustatic](../tag/eustatic), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj)
 

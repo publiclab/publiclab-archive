@@ -1,6 +1,5 @@
 ---
-title: 'Make a simple mylar/trash bag delta kite'
-tagnames: kite-mapping, partsandcrafts, mylar, parts-and-crafts, diy-kite, diy-kites, northeast, difficulty:easy, time:1h, activity:aerial-photography, activity:kite-mapping, kite-making, activity:kite-making
+title: "Make a simple mylar/trash bag delta kite"\ntagnames: 'kite-mapping, partsandcrafts, mylar, parts-and-crafts, diy-kite, diy-kites, northeast, difficulty:easy, time:1h, activity:aerial-photography, activity:kite-mapping, kite-making, activity:kite-making'
 author: warren
 path: /notes/warren/7-18-2012/mylar-delta-kite-design.md
 nid: 2860
@@ -12,7 +11,7 @@ uid: 1
 
 # Make a simple mylar/trash bag delta kite
 
-by [warren](../profile/warren) July 18, 2012 11:32
+by [warren](../profile/warren) | July 18, 2012 11:32
 
 July 18, 2012 11:32 | Tags: [kite-mapping](../tag/kite-mapping), [partsandcrafts](../tag/partsandcrafts), [mylar](../tag/mylar), [parts-and-crafts](../tag/parts-and-crafts), [diy-kite](../tag/diy-kite), [diy-kites](../tag/diy-kites), [northeast](../tag/northeast), [difficulty:easy](../tag/difficulty:easy), [time:1h](../tag/time:1h), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making)
 

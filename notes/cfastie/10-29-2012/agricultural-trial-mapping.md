@@ -1,6 +1,5 @@
 ---
-title: 'Agricultural mapping'
-tagnames: balloon-mapping, near-infrared-camera, nrg, ndvi, farmhack, imagej, barnraising, ifarm, gigapan, ndvi-ag
+title: "Agricultural mapping"\ntagnames: 'balloon-mapping, near-infrared-camera, nrg, ndvi, farmhack, imagej, barnraising, ifarm, gigapan, ndvi-ag'
 author: cfastie
 path: /notes/cfastie/10-29-2012/agricultural-trial-mapping.md
 nid: 4691
@@ -12,7 +11,7 @@ uid: 554
 
 # Agricultural mapping
 
-by [cfastie](../profile/cfastie) October 29, 2012 21:52
+by [cfastie](../profile/cfastie) | October 29, 2012 21:52
 
 October 29, 2012 21:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [farmhack](../tag/farmhack), [imagej](../tag/imagej), [barnraising](../tag/barnraising), [ifarm](../tag/ifarm), [gigapan](../tag/gigapan), [ndvi-ag](../tag/ndvi-ag)
 

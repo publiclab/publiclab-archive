@@ -1,6 +1,5 @@
 ---
-title: 'The concept of community paralegals'
-tagnames: legal, lat:35, lon:-79, zoom:13, law-and-policy, community-paralegal, namati
+title: "The concept of community paralegals"\ntagnames: 'legal, lat:35, lon:-79, zoom:13, law-and-policy, community-paralegal, namati'
 author: liz
 path: /notes/liz/10-16-2020/the-concept-of-community-paralegals.md
 nid: 24756
@@ -12,7 +11,7 @@ uid: 7
 
 # The concept of community paralegals
 
-by [liz](../profile/liz) October 16, 2020 20:29
+by [liz](../profile/liz) | October 16, 2020 20:29
 
 October 16, 2020 20:29 | Tags: [legal](../tag/legal), [lat:35](../tag/lat:35), [lon:-79](../tag/lon:-79), [zoom:13](../tag/zoom:13), [law-and-policy](../tag/law-and-policy), [community-paralegal](../tag/community-paralegal), [namati](../tag/namati)
 

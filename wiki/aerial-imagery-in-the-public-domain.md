@@ -1,6 +1,5 @@
 ---
-title: 'Aerial Imagery in the Public Domain '
-tagnames: balloon-mapping, kite-mapping, remote-sensing, mapping, pole-photography, landsat
+title: "Aerial Imagery in the Public Domain "\ntagnames: 'balloon-mapping, kite-mapping, remote-sensing, mapping, pole-photography, landsat'
 author: stevie
 path: /wiki/aerial-imagery-in-the-public-domain.md
 nid: 12189

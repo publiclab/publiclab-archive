@@ -1,6 +1,5 @@
 ---
-title: 'The History of Pigeon Camera Photography'
-tagnames: balloon-mapping, photo-rig
+title: "The History of Pigeon Camera Photography"\ntagnames: 'balloon-mapping, photo-rig'
 author: Kentells
 path: /notes/Kentells/09-24-2014/the-history-of-pigeon-camera-photography.md
 nid: 11183
@@ -12,7 +11,7 @@ uid: 428421
 
 # The History of Pigeon Camera Photography
 
-by [Kentells](../profile/Kentells) September 24, 2014 20:08
+by [Kentells](../profile/Kentells) | September 24, 2014 20:08
 
 September 24, 2014 20:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Observable transportation violations related to frac sand mining'
-tagnames: reporting, wisconsin, transportation, frac-sand, midwest, traffic, frac-sand-reporting, sentinel, local-reporting, parent:the-sand-sentinel-program
+title: "Observable transportation violations related to frac sand mining"\ntagnames: 'reporting, wisconsin, transportation, frac-sand, midwest, traffic, frac-sand-reporting, sentinel, local-reporting, parent:the-sand-sentinel-program'
 author: kamau19
 path: /wiki/transit-violations.md
 nid: 18939

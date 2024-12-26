@@ -1,6 +1,5 @@
 ---
-title: 'Raspberry Pi Microscope/close up lens system'
-tagnames: webcam, raspberry-pi, gsoc, barnstar:basic, python, microscope, pi-camera, soc, gsoc-2018, soc-2018, pi-microscope, camera-comparison, series:community-microscope-tests
+title: "Raspberry Pi Microscope/close up lens system"\ntagnames: 'webcam, raspberry-pi, gsoc, barnstar:basic, python, microscope, pi-camera, soc, gsoc-2018, soc-2018, pi-microscope, camera-comparison, series:community-microscope-tests'
 author: MaggPi
 path: /notes/MaggPi/04-08-2018/raspberry-pi-microscope-close-up-lens-system.md
 nid: 16101
@@ -12,7 +11,7 @@ uid: 501996
 
 # Raspberry Pi Microscope/close up lens system
 
-by [MaggPi](../profile/MaggPi) April 08, 2018 07:09
+by [MaggPi](../profile/MaggPi) | April 08, 2018 07:09
 
 April 08, 2018 07:09 | Tags: [webcam](../tag/webcam), [raspberry-pi](../tag/raspberry-pi), [gsoc](../tag/gsoc), [barnstar:basic](../tag/barnstar:basic), [python](../tag/python), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [pi-microscope](../tag/pi-microscope), [camera-comparison](../tag/camera-comparison), [series:community-microscope-tests](../tag/series:community-microscope-tests)
 

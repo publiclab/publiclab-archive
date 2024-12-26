@@ -1,6 +1,5 @@
 ---
-title: 'iFARM 2015 report'
-tagnames: new-hampshire, uav, farm, kap, event, ifarm, 2015, hack, rov, nh, response:11790
+title: "iFARM 2015 report"\ntagnames: 'new-hampshire, uav, farm, kap, event, ifarm, 2015, hack, rov, nh, response:11790'
 author: cfastie
 path: /notes/cfastie/05-21-2015/ifarm-2015-report.md
 nid: 11825
@@ -12,7 +11,7 @@ uid: 554
 
 # iFARM 2015 report
 
-by [cfastie](../profile/cfastie) May 21, 2015 02:19
+by [cfastie](../profile/cfastie) | May 21, 2015 02:19
 
 May 21, 2015 02:19 | Tags: [new-hampshire](../tag/new-hampshire), [uav](../tag/uav), [farm](../tag/farm), [kap](../tag/kap), [event](../tag/event), [ifarm](../tag/ifarm), [2015](../tag/2015), [hack](../tag/hack), [rov](../tag/rov), [nh](../tag/nh), [response:11790](../tag/response:11790)
 

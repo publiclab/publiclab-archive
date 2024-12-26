@@ -1,6 +1,5 @@
 ---
-title: 'Togo'
-tagnames: africa, location:blurred, lon:0, togo, lat:8, place:togo
+title: "Togo"\ntagnames: 'africa, location:blurred, lon:0, togo, lat:8, place:togo'
 author: cesarharada
 path: /wiki/togo.md
 nid: 75

@@ -1,6 +1,5 @@
 ---
-title: 'Part 2: ‘Common Legal Issues when using Community Sourced Data’'
-tagnames: evidence, legal, litigation, evidence-project, series:evidence-project, torts, law-and-policy
+title: "Part 2: ‘Common Legal Issues when using Community Sourced Data’"\ntagnames: 'evidence, legal, litigation, evidence-project, series:evidence-project, torts, law-and-policy'
 author: lenagd
 path: /notes/lenagd/01-25-2017/part-2-common-legal-issues-when-using-community-sourced-data.md
 nid: 13877
@@ -12,7 +11,7 @@ uid: 429458
 
 # Part 2: ‘Common Legal Issues when using Community Sourced Data’
 
-by [lenagd](../profile/lenagd) January 25, 2017 16:43
+by [lenagd](../profile/lenagd) | January 25, 2017 16:43
 
 January 25, 2017 16:43 | Tags: [evidence](../tag/evidence), [legal](../tag/legal), [litigation](../tag/litigation), [evidence-project](../tag/evidence-project), [series:evidence-project](../tag/series:evidence-project), [torts](../tag/torts), [law-and-policy](../tag/law-and-policy)
 

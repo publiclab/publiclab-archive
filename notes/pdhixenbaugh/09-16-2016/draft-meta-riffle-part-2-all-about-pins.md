@@ -1,6 +1,5 @@
 ---
-title: 'Draft Meta-Riffle Part 2: All about pins'
-tagnames: riffle, 4, 8, 6, 3, define, 5, 9
+title: "Draft Meta-Riffle Part 2: All about pins"\ntagnames: 'riffle, 4, 8, 6, 3, define, 5, 9'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/09-16-2016/draft-meta-riffle-part-2-all-about-pins.md
 nid: 13457
@@ -12,7 +11,7 @@ uid: 459085
 
 # Draft Meta-Riffle Part 2: All about pins
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) September 16, 2016 22:16
+by [pdhixenbaugh](../profile/pdhixenbaugh) | September 16, 2016 22:16
 
 September 16, 2016 22:16 | Tags: [riffle](../tag/riffle), [4](../tag/4), [8](../tag/8), [6](../tag/6), [3](../tag/3), [define](../tag/define), [5](../tag/5), [9](../tag/9)
 

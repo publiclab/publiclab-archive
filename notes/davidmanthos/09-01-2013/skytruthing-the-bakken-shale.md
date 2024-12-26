@@ -1,6 +1,5 @@
 ---
-title: 'Skytruthing the Bakken Shale '
-tagnames: balloon-mapping, bakken, bakken-shale, shale, skytruth, flares, natural-gas
+title: "Skytruthing the Bakken Shale "\ntagnames: 'balloon-mapping, bakken, bakken-shale, shale, skytruth, flares, natural-gas'
 author: davidmanthos
 path: /notes/davidmanthos/09-01-2013/skytruthing-the-bakken-shale.md
 nid: 9086
@@ -12,7 +11,7 @@ uid: 224945
 
 # Skytruthing the Bakken Shale 
 
-by [davidmanthos](../profile/davidmanthos) September 01, 2013 05:10
+by [davidmanthos](../profile/davidmanthos) | September 01, 2013 05:10
 
 September 01, 2013 05:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [bakken](../tag/bakken), [bakken-shale](../tag/bakken-shale), [shale](../tag/shale), [skytruth](../tag/skytruth), [flares](../tag/flares), [natural-gas](../tag/natural-gas)
 

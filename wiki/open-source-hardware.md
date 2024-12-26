@@ -1,6 +1,5 @@
 ---
-title: 'Open Source Hardware'
-tagnames: 
+title: "Open Source Hardware"\ntagnames: ''
 author: warren
 path: /wiki/open-source-hardware.md
 nid: 86

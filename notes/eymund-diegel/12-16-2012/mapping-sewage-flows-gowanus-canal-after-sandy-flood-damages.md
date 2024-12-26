@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages'
-tagnames: new-york-city, balloon-mapping, gowanus, brooklyn, new-york, sandy-flood-damage, water-quality-monitoring, sustainable-design-of-sewer-systems, sewage, sandy, water-quality, hurricane, wastewater
+title: "Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages"\ntagnames: 'new-york-city, balloon-mapping, gowanus, brooklyn, new-york, sandy-flood-damage, water-quality-monitoring, sustainable-design-of-sewer-systems, sewage, sandy, water-quality, hurricane, wastewater'
 author: eymund
 path: /notes/eymund-diegel/12-16-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages.md
 nid: 5220
@@ -12,7 +11,7 @@ uid: 1016
 
 # Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages
 
-by [eymund](../profile/eymund) December 16, 2012 18:49
+by [eymund](../profile/eymund) | December 16, 2012 18:49
 
 December 16, 2012 18:49 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [new-york](../tag/new-york), [sandy-flood-damage](../tag/sandy-flood-damage), [water-quality-monitoring](../tag/water-quality-monitoring), [sustainable-design-of-sewer-systems](../tag/sustainable-design-of-sewer-systems), [sewage](../tag/sewage), [sandy](../tag/sandy), [water-quality](../tag/water-quality), [hurricane](../tag/hurricane), [wastewater](../tag/wastewater)
 

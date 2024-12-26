@@ -1,6 +1,5 @@
 ---
-title: '5th annual iLAND symposium'
-tagnames: new-york-city, ilab
+title: "5th annual iLAND symposium"\ntagnames: 'new-york-city, ilab'
 author: liz
 path: /notes/liz/3-19-2013/5th-annual-iland-symposium.md
 nid: 6439
@@ -12,7 +11,7 @@ uid: 7
 
 # 5th annual iLAND symposium
 
-by [liz](../profile/liz) March 19, 2013 21:11
+by [liz](../profile/liz) | March 19, 2013 21:11
 
 March 19, 2013 21:11 | Tags: [new-york-city](../tag/new-york-city), [ilab](../tag/ilab)
 

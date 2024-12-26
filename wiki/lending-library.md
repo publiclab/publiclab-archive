@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Lending Library'
-tagnames: community, lending-library
+title: "Public Lab Lending Library"\ntagnames: 'community, lending-library'
 author: liz
 path: /wiki/lending-library.md
 nid: 10953

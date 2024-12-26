@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Mapping'
-tagnames: 
+title: "Balloon Mapping"\ntagnames: ''
 author: warren
 path: /wiki/balloon-mapping-2.md
 nid: 101

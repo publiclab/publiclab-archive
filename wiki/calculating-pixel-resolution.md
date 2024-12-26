@@ -1,6 +1,5 @@
 ---
-title: 'calculating pixel resolution'
-tagnames: curriculum, gis, resolution, parent:mapping-curriculum, mapping-curriculum, pixel, scale
+title: "calculating pixel resolution"\ntagnames: 'curriculum, gis, resolution, parent:mapping-curriculum, mapping-curriculum, pixel, scale'
 author: gonzoearth
 path: /wiki/calculating-pixel-resolution.md
 nid: 298

@@ -1,6 +1,5 @@
 ---
-title: 'Emery Board Terrain Survey '
-tagnames: pipeline, erosion, coastalmonitoring, survey, shoreline, land-use, method, land-change, oil-and-gas, sedimentation, activity:site-survey, beach-mapping, terrain, emery-board, landloss
+title: "Emery Board Terrain Survey "\ntagnames: 'pipeline, erosion, coastalmonitoring, survey, shoreline, land-use, method, land-change, oil-and-gas, sedimentation, activity:site-survey, beach-mapping, terrain, emery-board, landloss'
 author: liz
 path: /wiki/emery-board.md
 nid: 18271

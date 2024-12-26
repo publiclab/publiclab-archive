@@ -1,6 +1,5 @@
 ---
-title: 'Join a Citizen Science + Climate Change Monitoring Project'
-tagnames: remote-sensing, education, citizen-science, participation, air-quality, climate-change, first-time-poster, lat:30.267153, lon:-97.74306, zoom:2, greehouse-gas
+title: "Join a Citizen Science + Climate Change Monitoring Project"\ntagnames: 'remote-sensing, education, citizen-science, participation, air-quality, climate-change, first-time-poster, lat:30.267153, lon:-97.74306, zoom:2, greehouse-gas'
 author: agentpesnot
 path: /notes/agentpesnot/08-03-2022/join-a-citizen-science-climate-change-monitoring-project.md
 nid: 34820
@@ -12,7 +11,7 @@ uid: 808787
 
 # Join a Citizen Science + Climate Change Monitoring Project
 
-by [agentpesnot](../profile/agentpesnot) August 03, 2022 02:07
+by [agentpesnot](../profile/agentpesnot) | August 03, 2022 02:07
 
 August 03, 2022 02:07 | Tags: [remote-sensing](../tag/remote-sensing), [education](../tag/education), [citizen-science](../tag/citizen-science), [participation](../tag/participation), [air-quality](../tag/air-quality), [climate-change](../tag/climate-change), [first-time-poster](../tag/first-time-poster), [lat:30.267153](../tag/lat:30.267153), [lon:-97.74306](../tag/lon:-97.74306), [zoom:2](../tag/zoom:2), [greehouse-gas](../tag/greehouse-gas)
 

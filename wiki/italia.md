@@ -1,6 +1,5 @@
 ---
-title: 'italia'
-tagnames: italy, eu, italia
+title: "italia"\ntagnames: 'italy, eu, italia'
 author: liz
 path: /wiki/italia.md
 nid: 11001

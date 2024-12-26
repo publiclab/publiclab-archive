@@ -1,6 +1,5 @@
 ---
-title: 'Pole photography on a small neighborhood creek'
-tagnames: boston, polemapping, massachusetts, pole-photography, pole-mapping, creek, northeast, first-time-poster, qgis
+title: "Pole photography on a small neighborhood creek"\ntagnames: 'boston, polemapping, massachusetts, pole-photography, pole-mapping, creek, northeast, first-time-poster, qgis'
 author: kanarinka
 path: /notes/kanarinka/11-12-2013/pole-photography-on-a-small-neighborhood-creek.md
 nid: 9770
@@ -12,7 +11,7 @@ uid: 994
 
 # Pole photography on a small neighborhood creek
 
-by [kanarinka](../profile/kanarinka) November 12, 2013 12:09
+by [kanarinka](../profile/kanarinka) | November 12, 2013 12:09
 
 November 12, 2013 12:09 | Tags: [boston](../tag/boston), [polemapping](../tag/polemapping), [massachusetts](../tag/massachusetts), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping), [creek](../tag/creek), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster), [qgis](../tag/qgis)
 

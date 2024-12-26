@@ -1,6 +1,5 @@
 ---
-title: 'March Mapping Madness-Vermont/Northern New England'
-tagnames: 
+title: "March Mapping Madness-Vermont/Northern New England"\ntagnames: ''
 author: sara
 path: /wiki/march-mapping-madness-vermontnorthern-new-england.md
 nid: 895

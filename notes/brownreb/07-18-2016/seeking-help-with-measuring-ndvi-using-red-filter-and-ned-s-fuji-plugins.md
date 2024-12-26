@@ -1,6 +1,5 @@
 ---
-title: 'Seeking help with measuring NDVI using red filter and Ned's Fuji plugins'
-tagnames: 
+title: "Seeking help with measuring NDVI using red filter and Ned's Fuji plugins"\ntagnames: ''
 author: brownreb
 path: /notes/brownreb/07-18-2016/seeking-help-with-measuring-ndvi-using-red-filter-and-ned-s-fuji-plugins.md
 nid: 13297
@@ -12,7 +11,7 @@ uid: 484208
 
 # Seeking help with measuring NDVI using red filter and Ned's Fuji plugins
 
-by [brownreb](../profile/brownreb) July 18, 2016 16:23
+by [brownreb](../profile/brownreb) | July 18, 2016 16:23
 
 July 18, 2016 16:23 | Tags: 
 

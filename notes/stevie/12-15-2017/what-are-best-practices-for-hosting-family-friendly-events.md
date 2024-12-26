@@ -1,6 +1,5 @@
 ---
-title: 'What are best practices for hosting family friendly events? '
-tagnames: events, barnraising, question:general, barnraising-host, question:hosting-materials, family-friendly, question:facilitation
+title: "What are best practices for hosting family friendly events? "\ntagnames: 'events, barnraising, question:general, barnraising-host, question:hosting-materials, family-friendly, question:facilitation'
 author: stevie
 path: /notes/stevie/12-15-2017/what-are-best-practices-for-hosting-family-friendly-events.md
 nid: 15384
@@ -10,7 +9,7 @@ uid: 422561
 
 # What are best practices for hosting family friendly events? 
 
-by [stevie](../profile/stevie) December 15, 2017 20:34
+by [stevie](../profile/stevie) | December 15, 2017 20:34
 
 December 15, 2017 20:34 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [question:general](../tag/question:general), [barnraising-host](../tag/barnraising-host), [question:hosting-materials](../tag/question:hosting-materials), [family-friendly](../tag/family-friendly), [question:facilitation](../tag/question:facilitation)
 

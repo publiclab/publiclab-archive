@@ -1,6 +1,5 @@
 ---
-title: 'Oil testing kit: Making measurements '
-tagnames: spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta, puerto-rico
+title: "Oil testing kit: Making measurements "\ntagnames: 'spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta, puerto-rico'
 author: ernestootero
 path: /notes/ernestootero/11-25-2015/oil-testing-kit-making-measurements.md
 nid: 12447
@@ -12,7 +11,7 @@ uid: 447002
 
 # Oil testing kit: Making measurements 
 
-by [ernestootero](../profile/ernestootero) November 25, 2015 22:14
+by [ernestootero](../profile/ernestootero) | November 25, 2015 22:14
 
 November 25, 2015 22:14 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [puerto-rico](../tag/puerto-rico)
 

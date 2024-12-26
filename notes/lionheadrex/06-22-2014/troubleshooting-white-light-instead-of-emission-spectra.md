@@ -1,6 +1,5 @@
 ---
-title: 'Troubleshooting: White light instead of emission spectra'
-tagnames: spectrometer, troubleshooting, grating, solved, dvd
+title: "Troubleshooting: White light instead of emission spectra"\ntagnames: 'spectrometer, troubleshooting, grating, solved, dvd'
 author: lionheadrex
 path: /notes/lionheadrex/06-22-2014/troubleshooting-white-light-instead-of-emission-spectra.md
 nid: 10603
@@ -12,7 +11,7 @@ uid: 424825
 
 # Troubleshooting: White light instead of emission spectra
 
-by [lionheadrex](../profile/lionheadrex) June 22, 2014 21:32
+by [lionheadrex](../profile/lionheadrex) | June 22, 2014 21:32
 
 June 22, 2014 21:32 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting), [grating](../tag/grating), [solved](../tag/solved), [dvd](../tag/dvd)
 

@@ -1,6 +1,5 @@
 ---
-title: 'GSoC Update- Projective Transformations'
-tagnames: mapknitter, gsoc, developers, gsoc-2014
+title: "GSoC Update- Projective Transformations"\ntagnames: 'mapknitter, gsoc, developers, gsoc-2014'
 author: anishshah101
 path: /notes/anishshah101/06-22-2014/gsoc-update-projective-transformations.md
 nid: 10601
@@ -12,7 +11,7 @@ uid: 421046
 
 # GSoC Update- Projective Transformations
 
-by [anishshah101](../profile/anishshah101) June 22, 2014 06:45
+by [anishshah101](../profile/anishshah101) | June 22, 2014 06:45
 
 June 22, 2014 06:45 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014)
 

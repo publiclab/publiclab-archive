@@ -1,6 +1,5 @@
 ---
-title: 'PiCamera filter mounting system.'
-tagnames: raspberry-pi, barnstar:basic, pi-camera, raspberry-pi-infragram, activity:raspberry-pi-infragram
+title: "PiCamera filter mounting system."\ntagnames: 'raspberry-pi, barnstar:basic, pi-camera, raspberry-pi-infragram, activity:raspberry-pi-infragram'
 author: wln215
 path: /notes/wln215/08-25-2020/picamera-filter-mounting-system.md
 nid: 24454
@@ -12,7 +11,7 @@ uid: 578478
 
 # PiCamera filter mounting system.
 
-by [wln215](../profile/wln215) August 25, 2020 23:22
+by [wln215](../profile/wln215) | August 25, 2020 23:22
 
 August 25, 2020 23:22 | Tags: [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [pi-camera](../tag/pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram)
 

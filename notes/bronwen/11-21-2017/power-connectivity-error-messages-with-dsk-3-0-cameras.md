@@ -1,6 +1,5 @@
 ---
-title: 'Power & connectivity error messages with DSK 3.0 Cameras '
-tagnames: spectrometer, spectralworkbench, question:general
+title: "Power & connectivity error messages with DSK 3.0 Cameras "\ntagnames: 'spectrometer, spectralworkbench, question:general'
 author: Bronwen
 path: /notes/bronwen/11-21-2017/power-connectivity-error-messages-with-dsk-3-0-cameras.md
 nid: 15216
@@ -10,7 +9,7 @@ uid: 237313
 
 # Power & connectivity error messages with DSK 3.0 Cameras 
 
-by [Bronwen](../profile/Bronwen) November 21, 2017 14:29
+by [Bronwen](../profile/Bronwen) | November 21, 2017 14:29
 
 November 21, 2017 14:29 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [question:general](../tag/question:general)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Fluorescence of tabasco sauce'
-tagnames: 
+title: "Fluorescence of tabasco sauce"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/01-23-2016/fluorescence-of-tabasco-sauce.md
 nid: 12605
@@ -12,7 +11,7 @@ uid: 461120
 
 # Fluorescence of tabasco sauce
 
-by [dhaffnersr](../profile/dhaffnersr) January 23, 2016 20:16
+by [dhaffnersr](../profile/dhaffnersr) | January 23, 2016 20:16
 
 January 23, 2016 20:16 | Tags: 
 

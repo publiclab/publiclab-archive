@@ -1,6 +1,5 @@
 ---
-title: 'SpectraOnline.com spectrum searching'
-tagnames: spectrometer, spectralworkbench, matching, search, spectraonline.com
+title: "SpectraOnline.com spectrum searching"\ntagnames: 'spectrometer, spectralworkbench, matching, search, spectraonline.com'
 author: warren
 path: /notes/warren/2-18-2013/spectraonlinecom-spectrum-searching.md
 nid: 6043
@@ -12,7 +11,7 @@ uid: 1
 
 # SpectraOnline.com spectrum searching
 
-by [warren](../profile/warren) February 18, 2013 13:36
+by [warren](../profile/warren) | February 18, 2013 13:36
 
 February 18, 2013 13:36 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [search](../tag/search), [spectraonline.com](../tag/spectraonline.com)
 

@@ -1,6 +1,5 @@
 ---
-title: 'thermal camera core cost'
-tagnames: first-time-poster
+title: "thermal camera core cost"\ntagnames: 'first-time-poster'
 author: therman
 path: /notes/therman/11-18-2014/thermal-camera-core-cost.md
 nid: 11365
@@ -10,7 +9,7 @@ uid: 431635
 
 # thermal camera core cost
 
-by [therman](../profile/therman) November 18, 2014 00:21
+by [therman](../profile/therman) | November 18, 2014 00:21
 
 November 18, 2014 00:21 | Tags: [first-time-poster](../tag/first-time-poster)
 

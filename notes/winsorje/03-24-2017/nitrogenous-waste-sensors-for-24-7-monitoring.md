@@ -1,6 +1,5 @@
 ---
-title: 'Nitrogenous waste sensors for 24/7 monitoring'
-tagnames: water-sensing, staff, contact, nitrate, nitrates, question:water-quality, question:nitrates, question:water-sensing, question:nitrogen, probes
+title: "Nitrogenous waste sensors for 24/7 monitoring"\ntagnames: 'water-sensing, staff, contact, nitrate, nitrates, question:water-quality, question:nitrates, question:water-sensing, question:nitrogen, probes'
 author: winsorje
 path: /notes/winsorje/03-24-2017/nitrogenous-waste-sensors-for-24-7-monitoring.md
 nid: 14056
@@ -10,7 +9,7 @@ uid: 504455
 
 # Nitrogenous waste sensors for 24/7 monitoring
 
-by [winsorje](../profile/winsorje) March 24, 2017 19:31
+by [winsorje](../profile/winsorje) | March 24, 2017 19:31
 
 March 24, 2017 19:31 | Tags: [water-sensing](../tag/water-sensing), [staff](../tag/staff), [contact](../tag/contact), [nitrate](../tag/nitrate), [nitrates](../tag/nitrates), [question:water-quality](../tag/question:water-quality), [question:nitrates](../tag/question:nitrates), [question:water-sensing](../tag/question:water-sensing), [question:nitrogen](../tag/question:nitrogen), [probes](../tag/probes)
 

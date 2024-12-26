@@ -1,6 +1,5 @@
 ---
-title: 'Pearl River Monitoring in Guangzhou'
-tagnames: open-water, barnstar:basic, guangzhou, china, greenovation-hub
+title: "Pearl River Monitoring in Guangzhou"\ntagnames: 'open-water, barnstar:basic, guangzhou, china, greenovation-hub'
 author: shanlter
 path: /notes/shanlter/09-21-2016/pearl-river-monitoring-in-guangzhou.md
 nid: 13468
@@ -12,7 +11,7 @@ uid: 420999
 
 # Pearl River Monitoring in Guangzhou
 
-by [shanlter](../profile/shanlter) September 21, 2016 10:26
+by [shanlter](../profile/shanlter) | September 21, 2016 10:26
 
 September 21, 2016 10:26 | Tags: [open-water](../tag/open-water), [barnstar:basic](../tag/barnstar:basic), [guangzhou](../tag/guangzhou), [china](../tag/china), [greenovation-hub](../tag/greenovation-hub)
 

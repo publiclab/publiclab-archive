@@ -1,6 +1,5 @@
 ---
-title: 'Hardware design work for the Oil Testing Kit'
-tagnames: spectrometer, kits, fluorescence, desktop-spectrometer, oil-testing-kit, with:warren, with:stevie
+title: "Hardware design work for the Oil Testing Kit"\ntagnames: 'spectrometer, kits, fluorescence, desktop-spectrometer, oil-testing-kit, with:warren, with:stevie'
 author: mathew
 path: /notes/mathew/08-01-2014/hardware-design-work-for-the-oil-testing-kit.md
 nid: 11006
@@ -12,7 +11,7 @@ uid: 4
 
 # Hardware design work for the Oil Testing Kit
 
-by [mathew](../profile/mathew) August 01, 2014 21:44
+by [mathew](../profile/mathew) | August 01, 2014 21:44
 
 August 01, 2014 21:44 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [with:warren](../tag/with:warren), [with:stevie](../tag/with:stevie)
 

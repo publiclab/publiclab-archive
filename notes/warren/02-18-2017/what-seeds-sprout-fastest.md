@@ -1,6 +1,5 @@
 ---
-title: 'What seeds sprout fastest?'
-tagnames: testing, timelapse, answered, chia-seeds, seeds, sprouts, trial-run, question:trial-run
+title: "What seeds sprout fastest?"\ntagnames: 'testing, timelapse, answered, chia-seeds, seeds, sprouts, trial-run, question:trial-run'
 author: warren
 path: /notes/warren/02-18-2017/what-seeds-sprout-fastest.md
 nid: 13941
@@ -12,7 +11,7 @@ uid: 1
 
 # What seeds sprout fastest?
 
-by [warren](../profile/warren) February 18, 2017 22:48
+by [warren](../profile/warren) | February 18, 2017 22:48
 
 February 18, 2017 22:48 | Tags: [testing](../tag/testing), [timelapse](../tag/timelapse), [answered](../tag/answered), [chia-seeds](../tag/chia-seeds), [seeds](../tag/seeds), [sprouts](../tag/sprouts), [trial-run](../tag/trial-run), [question:trial-run](../tag/question:trial-run)
 

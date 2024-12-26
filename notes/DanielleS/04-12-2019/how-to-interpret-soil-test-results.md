@@ -1,6 +1,5 @@
 ---
-title: 'How to interpret soil test results '
-tagnames: heavy-metals, soil, pah, pcb, lead, soil-testing, activity:soil-sampling, lab-testing, activity:soil-testing-toolkit, activity:soil-sampling-toolkit, activity:soil-testing, activity:soil, soil-contaminant-testing, interpret-soil-tests, activity:interpret-soil-tests
+title: "How to interpret soil test results "\ntagnames: 'heavy-metals, soil, pah, pcb, lead, soil-testing, activity:soil-sampling, lab-testing, activity:soil-testing-toolkit, activity:soil-sampling-toolkit, activity:soil-testing, activity:soil, soil-contaminant-testing, interpret-soil-tests, activity:interpret-soil-tests'
 author: DanielleS
 path: /notes/DanielleS/04-12-2019/how-to-interpret-soil-test-results.md
 nid: 19047
@@ -10,7 +9,7 @@ uid: 569208
 
 # How to interpret soil test results 
 
-by [DanielleS](../profile/DanielleS) April 12, 2019 21:04
+by [DanielleS](../profile/DanielleS) | April 12, 2019 21:04
 
 April 12, 2019 21:04 | Tags: [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [pah](../tag/pah), [pcb](../tag/pcb), [lead](../tag/lead), [soil-testing](../tag/soil-testing), [activity:soil-sampling](../tag/activity:soil-sampling), [lab-testing](../tag/lab-testing), [activity:soil-testing-toolkit](../tag/activity:soil-testing-toolkit), [activity:soil-sampling-toolkit](../tag/activity:soil-sampling-toolkit), [activity:soil-testing](../tag/activity:soil-testing), [activity:soil](../tag/activity:soil), [soil-contaminant-testing](../tag/soil-contaminant-testing), [interpret-soil-tests](../tag/interpret-soil-tests), [activity:interpret-soil-tests](../tag/activity:interpret-soil-tests)
 

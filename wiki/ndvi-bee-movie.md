@@ -1,6 +1,5 @@
 ---
-title: 'NDVI Bee Movie'
-tagnames: 
+title: "NDVI Bee Movie"\ntagnames: ''
 author: donblair
 path: /wiki/ndvi-bee-movie.md
 nid: 8005

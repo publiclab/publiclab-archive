@@ -1,6 +1,5 @@
 ---
-title: 'Infragram Sandbox'
-tagnames: near-infrared-camera, ndvi, infrared, infragram, infragram-sandbox, parent:infragram
+title: "Infragram Sandbox"\ntagnames: 'near-infrared-camera, ndvi, infrared, infragram, infragram-sandbox, parent:infragram'
 author: warren
 path: /wiki/infragram-sandbox.md
 nid: 9029

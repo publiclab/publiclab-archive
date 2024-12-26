@@ -1,6 +1,5 @@
 ---
-title: '2015 KAP Mapping Season in Midcoast Maine!'
-tagnames: kite-mapping, grassrootsmapping, mapknitter, citizen-science, kap, maine, invasives, invasive-species, civic-hacking, response:10615
+title: "2015 KAP Mapping Season in Midcoast Maine!"\ntagnames: 'kite-mapping, grassrootsmapping, mapknitter, citizen-science, kap, maine, invasives, invasive-species, civic-hacking, response:10615'
 author: ajawitz
 path: /notes/ajawitz/06-07-2015/2015-kap-mapping-season-in-midcoast-maine.md
 nid: 11954
@@ -12,7 +11,7 @@ uid: 294634
 
 # 2015 KAP Mapping Season in Midcoast Maine!
 
-by [ajawitz](../profile/ajawitz) June 07, 2015 22:13
+by [ajawitz](../profile/ajawitz) | June 07, 2015 22:13
 
 June 07, 2015 22:13 | Tags: [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [citizen-science](../tag/citizen-science), [kap](../tag/kap), [maine](../tag/maine), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [civic-hacking](../tag/civic-hacking), [response:10615](../tag/response:10615)
 

@@ -1,6 +1,5 @@
 ---
-title: 'alert-under-construction'
-tagnames: 
+title: "alert-under-construction"\ntagnames: ''
 author: warren
 path: /feature/alert-under-construction.md
 nid: 20822

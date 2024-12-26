@@ -1,6 +1,5 @@
 ---
-title: 'Photographs to Scaled 3D model using free software'
-tagnames: 
+title: "Photographs to Scaled 3D model using free software"\ntagnames: ''
 author: ncraig
 path: /notes/ncraig/11-25-2011/photographs-scaled-3d-model-using-free-software.md
 nid: 584
@@ -12,7 +11,7 @@ uid: 15
 
 # Photographs to Scaled 3D model using free software
 
-by [ncraig](../profile/ncraig) November 25, 2011 21:16
+by [ncraig](../profile/ncraig) | November 25, 2011 21:16
 
 November 25, 2011 21:16 | Tags: 
 

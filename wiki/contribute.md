@@ -1,6 +1,5 @@
 ---
-title: 'Contribute'
-tagnames: community, welcome, getting-started, parent:welcome, contribute
+title: "Contribute"\ntagnames: 'community, welcome, getting-started, parent:welcome, contribute'
 author: warren
 path: /wiki/contribute.md
 nid: 94

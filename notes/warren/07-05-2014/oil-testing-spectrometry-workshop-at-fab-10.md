@@ -1,6 +1,5 @@
 ---
-title: 'Oil testing spectrometry workshop at Fab 10'
-tagnames: spectrometer, workshop, fluorescence, response:8973, oil-testing-kit, fab10, response:7117, response:10170, location:blurred, lat:41.402, lon:2.187, zoom:16, place:gl-ries-08018-barcelona-spain
+title: "Oil testing spectrometry workshop at Fab 10"\ntagnames: 'spectrometer, workshop, fluorescence, response:8973, oil-testing-kit, fab10, response:7117, response:10170, location:blurred, lat:41.402, lon:2.187, zoom:16, place:gl-ries-08018-barcelona-spain'
 author: warren
 path: /notes/warren/07-05-2014/oil-testing-spectrometry-workshop-at-fab-10.md
 nid: 10661
@@ -12,7 +11,7 @@ uid: 1
 
 # Oil testing spectrometry workshop at Fab 10
 
-by [warren](../profile/warren) July 05, 2014 09:42
+by [warren](../profile/warren) | July 05, 2014 09:42
 
 July 05, 2014 09:42 | Tags: [spectrometer](../tag/spectrometer), [workshop](../tag/workshop), [fluorescence](../tag/fluorescence), [response:8973](../tag/response:8973), [oil-testing-kit](../tag/oil-testing-kit), [fab10](../tag/fab10), [response:7117](../tag/response:7117), [response:10170](../tag/response:10170), [location:blurred](../tag/location:blurred), [lat:41.402](../tag/lat:41.402), [lon:2.187](../tag/lon:2.187), [zoom:16](../tag/zoom:16), [place:gl-ries-08018-barcelona-spain](../tag/place:gl-ries-08018-barcelona-spain)
 

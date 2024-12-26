@@ -1,6 +1,5 @@
 ---
-title: 'Software for Calibrating and Reading Spectrometer from USB Camera'
-tagnames: spectrometer, calibration, spectral-analysis
+title: "Software for Calibrating and Reading Spectrometer from USB Camera"\ntagnames: 'spectrometer, calibration, spectral-analysis'
 author: jkew
 path: /notes/jkew/01-07-2018/software-for-calibrating-and-reading-spectrometer-from-usb-camera.md
 nid: 15470
@@ -12,7 +11,7 @@ uid: 521009
 
 # Software for Calibrating and Reading Spectrometer from USB Camera
 
-by [jkew](../profile/jkew) January 07, 2018 08:29
+by [jkew](../profile/jkew) | January 07, 2018 08:29
 
 January 07, 2018 08:29 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectral-analysis](../tag/spectral-analysis)
 

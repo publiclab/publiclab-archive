@@ -1,6 +1,5 @@
 ---
-title: 'Pollutant  Discharge Permits'
-tagnames: water-quality, water, stormwater, with:gretchengehrke, npdes, permits, communityscienceforum
+title: "Pollutant  Discharge Permits"\ntagnames: 'water-quality, water, stormwater, with:gretchengehrke, npdes, permits, communityscienceforum'
 author: mlamadrid
 path: /notes/mlamadrid/01-18-2017/pollutant-discharge-permits.md
 nid: 13858
@@ -12,7 +11,7 @@ uid: 45586
 
 # Pollutant  Discharge Permits
 
-by [mlamadrid](../profile/mlamadrid) January 18, 2017 00:02
+by [mlamadrid](../profile/mlamadrid) | January 18, 2017 00:02
 
 January 18, 2017 00:02 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [stormwater](../tag/stormwater), [with:gretchengehrke](../tag/with:gretchengehrke), [npdes](../tag/npdes), [permits](../tag/permits), [communityscienceforum](../tag/communityscienceforum)
 

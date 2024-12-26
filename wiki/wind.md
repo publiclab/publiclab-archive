@@ -1,6 +1,5 @@
 ---
-title: 'Wind'
-tagnames: atmosphere, wind, weather, activities:wind, questions:wind
+title: "Wind"\ntagnames: 'atmosphere, wind, weather, activities:wind, questions:wind'
 author: warren
 path: /wiki/wind.md
 nid: 14531

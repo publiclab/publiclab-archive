@@ -1,6 +1,5 @@
 ---
-title: 'Bean Variety Trials in North Dakota'
-tagnames: soil, photosynq, multispeq, carbon, co2, beans, breeding
+title: "Bean Variety Trials in North Dakota"\ntagnames: 'soil, photosynq, multispeq, carbon, co2, beans, breeding'
 author: gbathree
 path: /notes/gbathree/09-05-2014/bean-variety-trials-in-north-dakota.md
 nid: 11108
@@ -12,7 +11,7 @@ uid: 53164
 
 # Bean Variety Trials in North Dakota
 
-by [gbathree](../profile/gbathree) September 05, 2014 18:46
+by [gbathree](../profile/gbathree) | September 05, 2014 18:46
 
 September 05, 2014 18:46 | Tags: [soil](../tag/soil), [photosynq](../tag/photosynq), [multispeq](../tag/multispeq), [carbon](../tag/carbon), [co2](../tag/co2), [beans](../tag/beans), [breeding](../tag/breeding)
 

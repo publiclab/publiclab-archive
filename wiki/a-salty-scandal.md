@@ -1,6 +1,5 @@
 ---
-title: 'A Salty Scandal'
-tagnames: 
+title: "A Salty Scandal"\ntagnames: ''
 author: vvincent
 path: /wiki/a-salty-scandal.md
 nid: 11595

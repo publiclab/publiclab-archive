@@ -1,6 +1,5 @@
 ---
-title: 'test-jibou'
-tagnames: 
+title: "test-jibou"\ntagnames: ''
 author: 
 path: /notes/5-18-2012/test-jibou.md
 nid: 2127
@@ -12,7 +11,7 @@ uid: 0
 
 # test-jibou
 
-by [](../profile/) May 18, 2012 06:47
+by [](../profile/) | May 18, 2012 06:47
 
 May 18, 2012 06:47 | Tags: 
 

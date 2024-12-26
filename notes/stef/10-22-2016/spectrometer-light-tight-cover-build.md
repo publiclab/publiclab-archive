@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer Light Tight Cover Build'
-tagnames: spectrometer, spectrometry, modification, time:30m, difficulty:easy, upgrade:spectrometry, upgrade:dssk, category:build, cover
+title: "Spectrometer Light Tight Cover Build"\ntagnames: 'spectrometer, spectrometry, modification, time:30m, difficulty:easy, upgrade:spectrometry, upgrade:dssk, category:build, cover'
 author: stef
 path: /notes/stef/10-22-2016/spectrometer-light-tight-cover-build.md
 nid: 13639
@@ -12,7 +11,7 @@ uid: 482758
 
 # Spectrometer Light Tight Cover Build
 
-by [stef](../profile/stef) October 22, 2016 15:20
+by [stef](../profile/stef) | October 22, 2016 15:20
 
 October 22, 2016 15:20 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [modification](../tag/modification), [time:30m](../tag/time:30m), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [category:build](../tag/category:build), [cover](../tag/cover)
 

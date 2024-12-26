@@ -1,6 +1,5 @@
 ---
-title: 'Two weeks with a Speck'
-tagnames: air, dust, open-air, particle-sensing, particle-monitoring, particulate-monitoring, dust-monitoring, openair
+title: "Two weeks with a Speck"\ntagnames: 'air, dust, open-air, particle-sensing, particle-monitoring, particulate-monitoring, dust-monitoring, openair'
 author: mathew
 path: /notes/mathew/06-04-2014/two-weeks-with-a-speck.md
 nid: 10528
@@ -12,7 +11,7 @@ uid: 4
 
 # Two weeks with a Speck
 
-by [mathew](../profile/mathew) June 04, 2014 03:51
+by [mathew](../profile/mathew) | June 04, 2014 03:51
 
 June 04, 2014 03:51 | Tags: [air](../tag/air), [dust](../tag/dust), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [particulate-monitoring](../tag/particulate-monitoring), [dust-monitoring](../tag/dust-monitoring), [openair](../tag/openair)
 

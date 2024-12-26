@@ -1,6 +1,5 @@
 ---
-title: 'MidOpt Dual Bandpass and Event38 filter testing'
-tagnames: ndvi, infrared, filter, infragram, plant-health, dualband, midopt, response:12442, first-time-poster
+title: "MidOpt Dual Bandpass and Event38 filter testing"\ntagnames: 'ndvi, infrared, filter, infragram, plant-health, dualband, midopt, response:12442, first-time-poster'
 author: Claytonb
 path: /notes/Claytonb/01-29-2016/midopt-dual-bandpass-and-event38-filter-testing.md
 nid: 12636
@@ -12,7 +11,7 @@ uid: 460246
 
 # MidOpt Dual Bandpass and Event38 filter testing
 
-by [Claytonb](../profile/Claytonb) January 29, 2016 17:34
+by [Claytonb](../profile/Claytonb) | January 29, 2016 17:34
 
 January 29, 2016 17:34 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [response:12442](../tag/response:12442), [first-time-poster](../tag/first-time-poster)
 

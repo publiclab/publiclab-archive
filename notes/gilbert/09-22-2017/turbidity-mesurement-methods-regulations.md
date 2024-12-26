@@ -1,6 +1,5 @@
 ---
-title: 'TURBIDITY MEASUREMENT METHODS & REGULATIONS'
-tagnames: water-quality, turbidity, nephelometry
+title: "TURBIDITY MEASUREMENT METHODS & REGULATIONS"\ntagnames: 'water-quality, turbidity, nephelometry'
 author: gilbert
 path: /notes/gilbert/09-22-2017/turbidity-mesurement-methods-regulations.md
 nid: 14938
@@ -12,7 +11,7 @@ uid: 508551
 
 # TURBIDITY MEASUREMENT METHODS & REGULATIONS
 
-by [gilbert](../profile/gilbert) September 22, 2017 16:04
+by [gilbert](../profile/gilbert) | September 22, 2017 16:04
 
 September 22, 2017 16:04 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [nephelometry](../tag/nephelometry)
 

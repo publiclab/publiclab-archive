@@ -1,6 +1,5 @@
 ---
-title: 'Research notes vs wiki pages'
-tagnames: help
+title: "Research notes vs wiki pages"\ntagnames: 'help'
 author: warren
 path: /wiki/research-notes-vs-wiki-pages.md
 nid: 1966

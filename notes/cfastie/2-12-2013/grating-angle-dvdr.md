@@ -1,6 +1,5 @@
 ---
-title: 'Grating angle: DVD+R'
-tagnames: spectrometer, vermont, diffraction-grating, focus
+title: "Grating angle: DVD+R"\ntagnames: 'spectrometer, vermont, diffraction-grating, focus'
 author: cfastie
 path: /notes/cfastie/2-12-2013/grating-angle-dvdr.md
 nid: 5964
@@ -12,7 +11,7 @@ uid: 554
 
 # Grating angle: DVD+R
 
-by [cfastie](../profile/cfastie) February 13, 2013 03:39
+by [cfastie](../profile/cfastie) | February 13, 2013 03:39
 
 February 13, 2013 03:39 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [diffraction-grating](../tag/diffraction-grating), [focus](../tag/focus)
 

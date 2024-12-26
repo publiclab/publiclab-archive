@@ -1,6 +1,5 @@
 ---
-title: 'About Tags'
-tagnames: website, tags, topics, tagging, parent:website
+title: "About Tags"\ntagnames: 'website, tags, topics, tagging, parent:website'
 author: bhamster
 path: /wiki/about-tags.md
 nid: 31052

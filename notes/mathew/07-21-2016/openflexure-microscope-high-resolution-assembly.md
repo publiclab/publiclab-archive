@@ -1,6 +1,5 @@
 ---
-title: 'OpenFlexure Microscope: high-resolution assembly'
-tagnames: raspberry-pi, dust, frac-sand, pm, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, openflexure, activity:microscope, microscopes, activity:microscopes
+title: "OpenFlexure Microscope: high-resolution assembly"\ntagnames: 'raspberry-pi, dust, frac-sand, pm, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, openflexure, activity:microscope, microscopes, activity:microscopes'
 author: mathew
 path: /notes/mathew/07-21-2016/openflexure-microscope-high-resolution-assembly.md
 nid: 13303
@@ -12,7 +11,7 @@ uid: 4
 
 # OpenFlexure Microscope: high-resolution assembly
 
-by [mathew](../profile/mathew) July 21, 2016 19:17
+by [mathew](../profile/mathew) | July 21, 2016 19:17
 
 July 21, 2016 19:17 | Tags: [raspberry-pi](../tag/raspberry-pi), [dust](../tag/dust), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [microscopy](../tag/microscopy), [openflexure](../tag/openflexure), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes)
 

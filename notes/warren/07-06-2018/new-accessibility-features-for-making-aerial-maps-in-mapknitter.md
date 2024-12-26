@@ -1,6 +1,5 @@
 ---
-title: 'New accessibility features for making aerial maps in MapKnitter'
-tagnames: balloon-mapping, mapknitter, blog, leaflet, code, leaflet-distortable-image
+title: "New accessibility features for making aerial maps in MapKnitter"\ntagnames: 'balloon-mapping, mapknitter, blog, leaflet, code, leaflet-distortable-image'
 author: warren
 path: /notes/warren/07-06-2018/new-accessibility-features-for-making-aerial-maps-in-mapknitter.md
 nid: 16653
@@ -12,7 +11,7 @@ uid: 1
 
 # New accessibility features for making aerial maps in MapKnitter
 
-by [warren](../profile/warren) July 06, 2018 17:49
+by [warren](../profile/warren) | July 06, 2018 17:49
 
 July 06, 2018 17:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [blog](../tag/blog), [leaflet](../tag/leaflet), [code](../tag/code), [leaflet-distortable-image](../tag/leaflet-distortable-image)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Preliminary LED and isopropyl alcohol solvent tests for oil fluorescence analysis'
-tagnames: new-york-city, spectrometer, oil, workshop, extraction, oil-testing-kit, otk, pig, isopropyl, response:12713, response:10074, activity:spectrometry-sampling
+title: "Preliminary LED and isopropyl alcohol solvent tests for oil fluorescence analysis"\ntagnames: 'new-york-city, spectrometer, oil, workshop, extraction, oil-testing-kit, otk, pig, isopropyl, response:12713, response:10074, activity:spectrometry-sampling'
 author: warren
 path: /notes/warren/02-19-2016/preliminary-led-and-isopropyl-alcohol-solvent-tests-for-oil-fluorescence-analysis.md
 nid: 12716
@@ -12,7 +11,7 @@ uid: 1
 
 # Preliminary LED and isopropyl alcohol solvent tests for oil fluorescence analysis
 
-by [warren](../profile/warren) February 19, 2016 23:26
+by [warren](../profile/warren) | February 19, 2016 23:26
 
 February 19, 2016 23:26 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [workshop](../tag/workshop), [extraction](../tag/extraction), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [pig](../tag/pig), [isopropyl](../tag/isopropyl), [response:12713](../tag/response:12713), [response:10074](../tag/response:10074), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 

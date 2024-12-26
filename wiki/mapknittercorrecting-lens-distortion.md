@@ -1,6 +1,5 @@
 ---
-title: 'Mapknitter: Correcting lens distortion'
-tagnames: redirect:15086
+title: "Mapknitter: Correcting lens distortion"\ntagnames: 'redirect:15086'
 author: warren
 path: /wiki/mapknittercorrecting-lens-distortion.md
 nid: 496

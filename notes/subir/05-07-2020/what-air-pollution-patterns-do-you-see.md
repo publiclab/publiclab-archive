@@ -1,6 +1,5 @@
 ---
-title: 'What air pollution patterns do you see?'
-tagnames: open-source, air-quality, sensors, asia, india, low-cost, airpollution, pune, location:blurred, place:india, pm2.5, air-pollution, lat:18, lon:73, sps30, zoom:6, tropics, breathe2
+title: "What air pollution patterns do you see?"\ntagnames: 'open-source, air-quality, sensors, asia, india, low-cost, airpollution, pune, location:blurred, place:india, pm2.5, air-pollution, lat:18, lon:73, sps30, zoom:6, tropics, breathe2'
 author: subir
 path: /notes/subir/05-07-2020/what-air-pollution-patterns-do-you-see.md
 nid: 23570
@@ -12,7 +11,7 @@ uid: 622299
 
 # What air pollution patterns do you see?
 
-by [subir](../profile/subir) May 07, 2020 15:25
+by [subir](../profile/subir) | May 07, 2020 15:25
 
 May 07, 2020 15:25 | Tags: [open-source](../tag/open-source), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [asia](../tag/asia), [india](../tag/india), [low-cost](../tag/low-cost), [airpollution](../tag/airpollution), [pune](../tag/pune), [location:blurred](../tag/location:blurred), [place:india](../tag/place:india), [pm2.5](../tag/pm2.5), [air-pollution](../tag/air-pollution), [lat:18](../tag/lat:18), [lon:73](../tag/lon:73), [sps30](../tag/sps30), [zoom:6](../tag/zoom:6), [tropics](../tag/tropics), [breathe2](../tag/breathe2)
 

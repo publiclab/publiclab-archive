@@ -1,6 +1,5 @@
 ---
-title: 'Datalogging, Part 3: GUI software for handling files'
-tagnames: datalogger, interface, graphic, user, graphic-user-interface, data-logging
+title: "Datalogging, Part 3: GUI software for handling files"\ntagnames: 'datalogger, interface, graphic, user, graphic-user-interface, data-logging'
 author: JSummers
 path: /notes/JSummers/05-19-2015/datalogging-part-3-gui-software-for-handling-files.md
 nid: 11822
@@ -12,7 +11,7 @@ uid: 304279
 
 # Datalogging, Part 3: GUI software for handling files
 
-by [JSummers](../profile/JSummers) May 19, 2015 18:40
+by [JSummers](../profile/JSummers) | May 19, 2015 18:40
 
 May 19, 2015 18:40 | Tags: [datalogger](../tag/datalogger), [interface](../tag/interface), [graphic](../tag/graphic), [user](../tag/user), [graphic-user-interface](../tag/graphic-user-interface), [data-logging](../tag/data-logging)
 

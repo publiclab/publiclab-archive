@@ -1,6 +1,5 @@
 ---
-title: 'Youth Balloon Mapping Workshop Complete!'
-tagnames: balloon-mapping, education, curriculum, youth, chicago, midwest, civiclab, civic-lab, activity:aerial-photography, activity:balloon-mapping, replication:14022, activity:classroom, activity:curriculum
+title: "Youth Balloon Mapping Workshop Complete!"\ntagnames: 'balloon-mapping, education, curriculum, youth, chicago, midwest, civiclab, civic-lab, activity:aerial-photography, activity:balloon-mapping, replication:14022, activity:classroom, activity:curriculum'
 author: mjain26
 path: /notes/mjain26/07-28-2014/youth-balloon-mapping-workshop-complete.md
 nid: 10986
@@ -12,7 +11,7 @@ uid: 424870
 
 # Youth Balloon Mapping Workshop Complete!
 
-by [mjain26](../profile/mjain26) July 28, 2014 17:00
+by [mjain26](../profile/mjain26) | July 28, 2014 17:00
 
 July 28, 2014 17:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [youth](../tag/youth), [chicago](../tag/chicago), [midwest](../tag/midwest), [civiclab](../tag/civiclab), [civic-lab](../tag/civic-lab), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:balloon-mapping](../tag/activity:balloon-mapping), [replication:14022](../tag/replication:14022), [activity:classroom](../tag/activity:classroom), [activity:curriculum](../tag/activity:curriculum)
 

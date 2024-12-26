@@ -1,6 +1,5 @@
 ---
-title: 'Workshop Guide: Mapping Soil Data'
-tagnames: education, soil, new, soil-testing, draft, soil-sampling, activity:soil-sampling, activity:new, lon:-71, lat:42, activity:soil, zoom:6, statistics-for-action
+title: "Workshop Guide: Mapping Soil Data"\ntagnames: 'education, soil, new, soil-testing, draft, soil-sampling, activity:soil-sampling, activity:new, lon:-71, lat:42, activity:soil, zoom:6, statistics-for-action'
 author: kgradow1
 path: /notes/kgradow1/12-31-2020/workshop-guide-mapping-data.md
 nid: 25368
@@ -10,7 +9,7 @@ uid: 297929
 
 # Workshop Guide: Mapping Soil Data
 
-by [kgradow1](../profile/kgradow1) December 31, 2020 21:04
+by [kgradow1](../profile/kgradow1) | December 31, 2020 21:04
 
 December 31, 2020 21:04 | Tags: [education](../tag/education), [soil](../tag/soil), [new](../tag/new), [soil-testing](../tag/soil-testing), [draft](../tag/draft), [soil-sampling](../tag/soil-sampling), [activity:soil-sampling](../tag/activity:soil-sampling), [activity:new](../tag/activity:new), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [activity:soil](../tag/activity:soil), [zoom:6](../tag/zoom:6), [statistics-for-action](../tag/statistics-for-action)
 

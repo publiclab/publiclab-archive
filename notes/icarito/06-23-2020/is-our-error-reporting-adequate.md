@@ -1,6 +1,5 @@
 ---
-title: 'Is our error reporting adequate?'
-tagnames: website, question:website
+title: "Is our error reporting adequate?"\ntagnames: 'website, question:website'
 author: icarito
 path: /notes/icarito/06-23-2020/is-our-error-reporting-adequate.md
 nid: 24022
@@ -10,7 +9,7 @@ uid: 448589
 
 # Is our error reporting adequate?
 
-by [icarito](../profile/icarito) June 23, 2020 15:54
+by [icarito](../profile/icarito) | June 23, 2020 15:54
 
 June 23, 2020 15:54 | Tags: [website](../tag/website), [question:website](../tag/question:website)
 

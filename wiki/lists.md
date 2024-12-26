@@ -1,6 +1,5 @@
 ---
-title: 'Mailing lists'
-tagnames: spectrometer, community, kite, help, uk, hello-kitty, mailing-lists, research, forum, forums, lists, discussion, locked, sidebar:none
+title: "Mailing lists"\ntagnames: 'spectrometer, community, kite, help, uk, hello-kitty, mailing-lists, research, forum, forums, lists, discussion, locked, sidebar:none'
 author: warren
 path: /wiki/lists.md
 nid: 1789

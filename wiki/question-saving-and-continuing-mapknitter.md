@@ -1,6 +1,5 @@
 ---
-title: 'question:* Saving and Continuing Mapknitter'
-tagnames: location:blurred, zoom:15, lat:40.3, lon:-105.08, place:berthoud-co-80513-united-states
+title: "question:* Saving and Continuing Mapknitter"\ntagnames: 'location:blurred, zoom:15, lat:40.3, lon:-105.08, place:berthoud-co-80513-united-states'
 author: willkarspeck
 path: /wiki/question-saving-and-continuing-mapknitter.md
 nid: 24330

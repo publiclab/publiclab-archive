@@ -1,6 +1,5 @@
 ---
-title: 'Temperature Sensor / LED light'
-tagnames: thermal-fishing-bob
+title: "Temperature Sensor / LED light"\ntagnames: 'thermal-fishing-bob'
 author: sobers
 path: /notes/sobers/11-28-2011/temperature-sensor-led-light.md
 nid: 594
@@ -12,7 +11,7 @@ uid: 371
 
 # Temperature Sensor / LED light
 
-by [sobers](../profile/sobers) November 28, 2011 23:36
+by [sobers](../profile/sobers) | November 28, 2011 23:36
 
 November 28, 2011 23:36 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob)
 

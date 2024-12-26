@@ -1,6 +1,5 @@
 ---
-title: 'testing'
-tagnames: 
+title: "testing"\ntagnames: ''
 author: warren
 path: /feature/testing.md
 nid: 19793

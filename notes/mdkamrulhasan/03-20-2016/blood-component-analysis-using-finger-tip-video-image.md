@@ -1,6 +1,5 @@
 ---
-title: 'Blood component analysis using Finger Tip video image'
-tagnames: 
+title: "Blood component analysis using Finger Tip video image"\ntagnames: ''
 author: mdkamrulhasan
 path: /notes/mdkamrulhasan/03-20-2016/blood-component-analysis-using-finger-tip-video-image.md
 nid: 12864
@@ -10,7 +9,7 @@ uid: 468879
 
 # Blood component analysis using Finger Tip video image
 
-by [mdkamrulhasan](../profile/mdkamrulhasan) March 20, 2016 02:03
+by [mdkamrulhasan](../profile/mdkamrulhasan) | March 20, 2016 02:03
 
 March 20, 2016 02:03 | Tags: 
 

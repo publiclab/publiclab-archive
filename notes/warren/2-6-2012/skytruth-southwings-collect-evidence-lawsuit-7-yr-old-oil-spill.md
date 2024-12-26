@@ -1,6 +1,5 @@
 ---
-title: 'SkyTruth & Southwings collect evidence for lawsuit on 7-yr-old oil spill'
-tagnames: oil-spill, skytruth
+title: "SkyTruth & Southwings collect evidence for lawsuit on 7-yr-old oil spill"\ntagnames: 'oil-spill, skytruth'
 author: warren
 path: /notes/warren/2-6-2012/skytruth-southwings-collect-evidence-lawsuit-7-yr-old-oil-spill.md
 nid: 756
@@ -12,7 +11,7 @@ uid: 1
 
 # SkyTruth & Southwings collect evidence for lawsuit on 7-yr-old oil spill
 
-by [warren](../profile/warren) February 06, 2012 20:34
+by [warren](../profile/warren) | February 06, 2012 20:34
 
 February 06, 2012 20:34 | Tags: [oil-spill](../tag/oil-spill), [skytruth](../tag/skytruth)
 

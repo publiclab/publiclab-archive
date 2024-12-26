@@ -1,6 +1,5 @@
 ---
-title: 'Visible/IR mapping camera process '
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping
+title: "Visible/IR mapping camera process "\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping'
 author: cfastie
 path: /notes/cfastie/4-15-2012/visibleir-mapping-camera-process.md
 nid: 1677
@@ -12,7 +11,7 @@ uid: 554
 
 # Visible/IR mapping camera process 
 
-by [cfastie](../profile/cfastie) April 15, 2012 13:10
+by [cfastie](../profile/cfastie) | April 15, 2012 13:10
 
 April 15, 2012 13:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 

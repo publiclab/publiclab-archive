@@ -1,6 +1,5 @@
 ---
-title: 'what data-logger will work with my portable HCHO meter?'
-tagnames: air-quality, sensors, riffle, formaldehyde, question:air-quality, answered, resolution, data-logging, question:data-logging, nano-data-logger, question:sensors, datalogging, smart-form, question:sensitivity, question:air-sensors, air-sensors, question:resolution
+title: "what data-logger will work with my portable HCHO meter?"\ntagnames: 'air-quality, sensors, riffle, formaldehyde, question:air-quality, answered, resolution, data-logging, question:data-logging, nano-data-logger, question:sensors, datalogging, smart-form, question:sensitivity, question:air-sensors, air-sensors, question:resolution'
 author: nshapiro
 path: /notes/nshapiro/03-27-2018/what-data-logger-will-work-with-my-portable-hcho-meter.md
 nid: 16028
@@ -12,7 +11,7 @@ uid: 380298
 
 # what data-logger will work with my portable HCHO meter?
 
-by [nshapiro](../profile/nshapiro) March 27, 2018 20:22
+by [nshapiro](../profile/nshapiro) | March 27, 2018 20:22
 
 March 27, 2018 20:22 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [riffle](../tag/riffle), [formaldehyde](../tag/formaldehyde), [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [resolution](../tag/resolution), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [nano-data-logger](../tag/nano-data-logger), [question:sensors](../tag/question:sensors), [datalogging](../tag/datalogging), [smart-form](../tag/smart-form), [question:sensitivity](../tag/question:sensitivity), [question:air-sensors](../tag/question:air-sensors), [air-sensors](../tag/air-sensors), [question:resolution](../tag/question:resolution)
 

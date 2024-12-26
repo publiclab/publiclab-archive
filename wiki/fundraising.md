@@ -1,6 +1,5 @@
 ---
-title: 'Fundraising'
-tagnames: fundraising
+title: "Fundraising"\ntagnames: 'fundraising'
 author: warren
 path: /wiki/fundraising.md
 nid: 385

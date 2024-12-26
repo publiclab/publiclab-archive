@@ -1,6 +1,5 @@
 ---
-title: 'getting started'
-tagnames: 
+title: "getting started"\ntagnames: ''
 author: prof_braino
 path: /notes/profbraino/1-22-2013/getting-started-0.md
 nid: 5674
@@ -10,7 +9,7 @@ uid: 48546
 
 # getting started
 
-by [prof_braino](../profile/prof_braino) January 22, 2013 16:27
+by [prof_braino](../profile/prof_braino) | January 22, 2013 16:27
 
 January 22, 2013 16:27 | Tags: 
 

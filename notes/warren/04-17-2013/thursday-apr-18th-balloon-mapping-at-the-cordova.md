@@ -1,6 +1,5 @@
 ---
-title: 'Thursday Apr. 18th balloon mapping at the Cordova '
-tagnames: boston, event
+title: "Thursday Apr. 18th balloon mapping at the Cordova "\ntagnames: 'boston, event'
 author: warren
 path: /notes/warren/04-17-2013/thursday-apr-18th-balloon-mapping-at-the-cordova.md
 nid: 6875
@@ -12,7 +11,7 @@ uid: 1
 
 # Thursday Apr. 18th balloon mapping at the Cordova 
 
-by [warren](../profile/warren) April 17, 2013 18:09
+by [warren](../profile/warren) | April 17, 2013 18:09
 
 April 17, 2013 18:09 | Tags: [boston](../tag/boston), [event](../tag/event)
 

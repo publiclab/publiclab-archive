@@ -1,6 +1,5 @@
 ---
-title: 'Screening for soil contamination'
-tagnames: heavy-metals, soil, soil-testing, method, soil-contamination, screen-soil-contamination
+title: "Screening for soil contamination"\ntagnames: 'heavy-metals, soil, soil-testing, method, soil-contamination, screen-soil-contamination'
 author: bhamster
 path: /wiki/screen-soil-contamination.md
 nid: 26010

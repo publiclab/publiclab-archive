@@ -1,6 +1,5 @@
 ---
-title: 'Mobius'
-tagnames: infrared-camera, infragram, mobius-actioncam, mobius, pendulum-rig
+title: "Mobius"\ntagnames: 'infrared-camera, infragram, mobius-actioncam, mobius, pendulum-rig'
 author: tonyc
 path: /wiki/mobius.md
 nid: 12617

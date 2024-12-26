@@ -1,6 +1,5 @@
 ---
-title: 'Digital STS workshop at Arnold Arboretum in Boston'
-tagnames: balloon-mapping, near-infrared-camera, boston, trees
+title: "Digital STS workshop at Arnold Arboretum in Boston"\ntagnames: 'balloon-mapping, near-infrared-camera, boston, trees'
 author: sara
 path: /notes/Sara/07-21-2013/digital-sts-workshop-at-arnold-arboretum-in-boston.md
 nid: 8914
@@ -12,7 +11,7 @@ uid: 8
 
 # Digital STS workshop at Arnold Arboretum in Boston
 
-by [sara](../profile/sara) July 21, 2013 17:28
+by [sara](../profile/sara) | July 21, 2013 17:28
 
 July 21, 2013 17:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [boston](../tag/boston), [trees](../tag/trees)
 

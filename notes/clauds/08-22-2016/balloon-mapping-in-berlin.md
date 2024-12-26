@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Mapping in Berlin'
-tagnames: event
+title: "Balloon Mapping in Berlin"\ntagnames: 'event'
 author: clauds
 path: /notes/clauds/08-22-2016/balloon-mapping-in-berlin.md
 nid: 13384
@@ -12,7 +11,7 @@ uid: 43867
 
 # Balloon Mapping in Berlin
 
-by [clauds](../profile/clauds) August 22, 2016 21:08
+by [clauds](../profile/clauds) | August 22, 2016 21:08
 
 August 22, 2016 21:08 | Tags: [event](../tag/event)
 

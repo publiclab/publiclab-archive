@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Community Newsletter 3.24.14'
-tagnames: newsletter, newsletter-archive
+title: "Public Lab Community Newsletter 3.24.14"\ntagnames: 'newsletter, newsletter-archive'
 author: Becki
 path: /notes/Becki/03-25-2014/public-lab-community-newsletter-3-24-14.md
 nid: 10220
@@ -12,7 +11,7 @@ uid: 46673
 
 # Public Lab Community Newsletter 3.24.14
 
-by [Becki](../profile/Becki) March 25, 2014 01:00
+by [Becki](../profile/Becki) | March 25, 2014 01:00
 
 March 25, 2014 01:00 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 

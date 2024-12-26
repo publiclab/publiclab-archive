@@ -1,6 +1,5 @@
 ---
-title: 'Amsterdam kite satellite'
-tagnames: waagsociety, amsterdam, satellite-images, sensepod, netherlands, nieuwmarkt, citizen-science, waag
+title: "Amsterdam kite satellite"\ntagnames: 'waagsociety, amsterdam, satellite-images, sensepod, netherlands, nieuwmarkt, citizen-science, waag'
 author: keimpe
 path: /notes/keimpe/6-29-2012/amsterdam-kite-satellite.md
 nid: 2667
@@ -12,7 +11,7 @@ uid: 18394
 
 # Amsterdam kite satellite
 
-by [keimpe](../profile/keimpe) June 29, 2012 06:58
+by [keimpe](../profile/keimpe) | June 29, 2012 06:58
 
 June 29, 2012 06:58 | Tags: [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [satellite-images](../tag/satellite-images), [sensepod](../tag/sensepod), [netherlands](../tag/netherlands), [nieuwmarkt](../tag/nieuwmarkt), [citizen-science](../tag/citizen-science), [waag](../tag/waag)
 

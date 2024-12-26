@@ -1,6 +1,5 @@
 ---
-title: 'middle-east'
-tagnames: region, middle-east
+title: "middle-east"\ntagnames: 'region, middle-east'
 author: liz
 path: /wiki/middle-east.md
 nid: 12352

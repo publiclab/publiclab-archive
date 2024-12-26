@@ -1,6 +1,5 @@
 ---
-title: 'Know Your Audience - [Outreachy & Public Lab Internship] Blog #3'
-tagnames: coding, blog-submission, outreachy, outreachy-2020
+title: "Know Your Audience - [Outreachy & Public Lab Internship] Blog #3"\ntagnames: 'coding, blog-submission, outreachy, outreachy-2020'
 author: noi5e
 path: /notes/noi5e/01-20-2021/know-your-audience-outreachy-public-lab-internship-blog-3.md
 nid: 25507
@@ -12,7 +11,7 @@ uid: 726270
 
 # Know Your Audience - [Outreachy & Public Lab Internship] Blog #3
 
-by [noi5e](../profile/noi5e) January 20, 2021 23:03
+by [noi5e](../profile/noi5e) | January 20, 2021 23:03
 
 January 20, 2021 23:03 | Tags: [coding](../tag/coding), [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy), [outreachy-2020](../tag/outreachy-2020)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Making Pedagogy:  Reflections on Northeastern University Thermal Fishing Bob Workshops'
-tagnames: thermal-photography, workshop, teaching, massachusetts, thermal-fishing, northeastern, northeast
+title: "Making Pedagogy:  Reflections on Northeastern University Thermal Fishing Bob Workshops"\ntagnames: 'thermal-photography, workshop, teaching, massachusetts, thermal-fishing, northeastern, northeast'
 author: sara
 path: /notes/Sara/05-23-2014/making-pedagogy-reflections-on-northeastern-university-thermal-fishing-bob-workshops.md
 nid: 10506
@@ -12,7 +11,7 @@ uid: 8
 
 # Making Pedagogy:  Reflections on Northeastern University Thermal Fishing Bob Workshops
 
-by [sara](../profile/sara) May 23, 2014 19:08
+by [sara](../profile/sara) | May 23, 2014 19:08
 
 May 23, 2014 19:08 | Tags: [thermal-photography](../tag/thermal-photography), [workshop](../tag/workshop), [teaching](../tag/teaching), [massachusetts](../tag/massachusetts), [thermal-fishing](../tag/thermal-fishing), [northeastern](../tag/northeastern), [northeast](../tag/northeast)
 

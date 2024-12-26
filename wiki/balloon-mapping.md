@@ -1,6 +1,5 @@
 ---
-title: 'Balloon & Kite Mapping'
-tagnames: balloon-mapping, agriculture, list:grassrootsmapping, transportation, mining, urban-planning, proven-in-the-field, fracking, tool, land-use, industry, parent:aerial-photography, method, land-change, oil-and-gas, location:blurred, zoom:15, lat:48.19, lon:11.6, place:lindberghstra-e-18-80939-m-nchen-germany
+title: "Balloon & Kite Mapping"\ntagnames: 'balloon-mapping, agriculture, list:grassrootsmapping, transportation, mining, urban-planning, proven-in-the-field, fracking, tool, land-use, industry, parent:aerial-photography, method, land-change, oil-and-gas, location:blurred, zoom:15, lat:48.19, lon:11.6, place:lindberghstra-e-18-80939-m-nchen-germany'
 author: warren
 path: /wiki/balloon-mapping.md
 nid: 22

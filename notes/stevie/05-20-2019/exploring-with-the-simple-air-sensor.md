@@ -1,6 +1,5 @@
 ---
-title: 'Exploring with the Simple Air Sensor'
-tagnames: sensors, pm, barnstar:basic, sensor, category:test-limits, time:1h, particulate-matter, simple-air-sensor, activity:simple-air-sensor
+title: "Exploring with the Simple Air Sensor"\ntagnames: 'sensors, pm, barnstar:basic, sensor, category:test-limits, time:1h, particulate-matter, simple-air-sensor, activity:simple-air-sensor'
 author: stevie
 path: /notes/stevie/05-20-2019/exploring-with-the-simple-air-sensor.md
 nid: 19469
@@ -12,7 +11,7 @@ uid: 422561
 
 # Exploring with the Simple Air Sensor
 
-by [stevie](../profile/stevie) May 20, 2019 20:44
+by [stevie](../profile/stevie) | May 20, 2019 20:44
 
 May 20, 2019 20:44 | Tags: [sensors](../tag/sensors), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [sensor](../tag/sensor), [category:test-limits](../tag/category:test-limits), [time:1h](../tag/time:1h), [particulate-matter](../tag/particulate-matter), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor)
 

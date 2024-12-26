@@ -1,6 +1,5 @@
 ---
-title: 'TTL Serial JPEG Cameras + microcontrollers'
-tagnames: riffle, riffle-examples
+title: "TTL Serial JPEG Cameras + microcontrollers"\ntagnames: 'riffle, riffle-examples'
 author: donblair
 path: /notes/donblair/03-23-2016/ttl-serial-jpeg-cameras-microcontrollers.md
 nid: 12880
@@ -12,7 +11,7 @@ uid: 43651
 
 # TTL Serial JPEG Cameras + microcontrollers
 
-by [donblair](../profile/donblair) March 23, 2016 17:50
+by [donblair](../profile/donblair) | March 23, 2016 17:50
 
 March 23, 2016 17:50 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
 

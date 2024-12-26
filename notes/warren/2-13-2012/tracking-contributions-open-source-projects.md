@@ -1,6 +1,5 @@
 ---
-title: 'Tracking contributions to open source projects'
-tagnames: community
+title: "Tracking contributions to open source projects"\ntagnames: 'community'
 author: warren
 path: /notes/warren/2-13-2012/tracking-contributions-open-source-projects.md
 nid: 783
@@ -12,7 +11,7 @@ uid: 1
 
 # Tracking contributions to open source projects
 
-by [warren](../profile/warren) February 13, 2012 23:54
+by [warren](../profile/warren) | February 13, 2012 23:54
 
 February 13, 2012 23:54 | Tags: [community](../tag/community)
 

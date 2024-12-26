@@ -1,6 +1,5 @@
 ---
-title: 'DIY water monitoring workshop at HKBU'
-tagnames: workshop, water-quality, knowflow, activity:knowflow
+title: "DIY water monitoring workshop at HKBU"\ntagnames: 'workshop, water-quality, knowflow, activity:knowflow'
 author: shanlter
 path: /notes/shanlter/01-19-2018/diy-water-monitoring-workshop-at-hkbu.md
 nid: 15550
@@ -10,7 +9,7 @@ uid: 420999
 
 # DIY water monitoring workshop at HKBU
 
-by [shanlter](../profile/shanlter) January 19, 2018 04:08
+by [shanlter](../profile/shanlter) | January 19, 2018 04:08
 
 January 19, 2018 04:08 | Tags: [workshop](../tag/workshop), [water-quality](../tag/water-quality), [knowflow](../tag/knowflow), [activity:knowflow](../tag/activity:knowflow)
 

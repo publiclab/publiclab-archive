@@ -1,6 +1,5 @@
 ---
-title: 'Are there any designs for a water depth sensor using echo sounding and not pressure?'
-tagnames: water, oyster, depth, question:general, reefballs, sonar, transducer, spat
+title: "Are there any designs for a water depth sensor using echo sounding and not pressure?"\ntagnames: 'water, oyster, depth, question:general, reefballs, sonar, transducer, spat'
 author: iragersh
 path: /notes/iragersh/11-22-2018/are-there-any-designs-for-a-water-depth-sensor-using-echo-sounding-and-not-pressure.md
 nid: 17729
@@ -12,7 +11,7 @@ uid: 557258
 
 # Are there any designs for a water depth sensor using echo sounding and not pressure?
 
-by [iragersh](../profile/iragersh) November 22, 2018 01:20
+by [iragersh](../profile/iragersh) | November 22, 2018 01:20
 
 November 22, 2018 01:20 | Tags: [water](../tag/water), [oyster](../tag/oyster), [depth](../tag/depth), [question:general](../tag/question:general), [reefballs](../tag/reefballs), [sonar](../tag/sonar), [transducer](../tag/transducer), [spat](../tag/spat)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Open hardware licensing logistics'
-tagnames: 
+title: "Open hardware licensing logistics"\ntagnames: ''
 author: warren
 path: /wiki/open-hardware-licensing-logistics.md
 nid: 884

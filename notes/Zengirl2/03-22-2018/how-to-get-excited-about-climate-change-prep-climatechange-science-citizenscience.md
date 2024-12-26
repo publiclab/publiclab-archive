@@ -1,6 +1,5 @@
 ---
-title: 'How to Get Excited About Climate Change Prep #climatechange #science #citizenscience'
-tagnames: disaster-preparedness, temperature, games, tool, tools, flood, stormwater, climate-change, climate, flooding, hurricane-preparedness, funcom, activity:funcom, activity:session-ideas
+title: "How to Get Excited About Climate Change Prep #climatechange #science #citizenscience"\ntagnames: 'disaster-preparedness, temperature, games, tool, tools, flood, stormwater, climate-change, climate, flooding, hurricane-preparedness, funcom, activity:funcom, activity:session-ideas'
 author: zengirl2
 path: /notes/Zengirl2/03-22-2018/how-to-get-excited-about-climate-change-prep-climatechange-science-citizenscience.md
 nid: 16009
@@ -12,7 +11,7 @@ uid: 423961
 
 # How to Get Excited About Climate Change Prep #climatechange #science #citizenscience
 
-by [zengirl2](../profile/zengirl2) March 22, 2018 23:25
+by [zengirl2](../profile/zengirl2) | March 22, 2018 23:25
 
 March 22, 2018 23:25 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [temperature](../tag/temperature), [games](../tag/games), [tool](../tag/tool), [tools](../tag/tools), [flood](../tag/flood), [stormwater](../tag/stormwater), [climate-change](../tag/climate-change), [climate](../tag/climate), [flooding](../tag/flooding), [hurricane-preparedness](../tag/hurricane-preparedness), [funcom](../tag/funcom), [activity:funcom](../tag/activity:funcom), [activity:session-ideas](../tag/activity:session-ideas)
 

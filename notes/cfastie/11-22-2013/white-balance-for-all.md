@@ -1,6 +1,5 @@
 ---
-title: 'White balance for all'
-tagnames: near-infrared-camera, vermont, white-balance, infragram, list:plots-infrared, infrablue, led, ccd, response:8900, bg3, wratten25a, super-red, activity:white-balance
+title: "White balance for all"\ntagnames: 'near-infrared-camera, vermont, white-balance, infragram, list:plots-infrared, infrablue, led, ccd, response:8900, bg3, wratten25a, super-red, activity:white-balance'
 author: cfastie
 path: /notes/cfastie/11-22-2013/white-balance-for-all.md
 nid: 9816
@@ -12,7 +11,7 @@ uid: 554
 
 # White balance for all
 
-by [cfastie](../profile/cfastie) November 22, 2013 19:04
+by [cfastie](../profile/cfastie) | November 22, 2013 19:04
 
 November 22, 2013 19:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [led](../tag/led), [ccd](../tag/ccd), [response:8900](../tag/response:8900), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [activity:white-balance](../tag/activity:white-balance)
 

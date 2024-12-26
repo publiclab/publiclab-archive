@@ -1,6 +1,5 @@
 ---
-title: 'Tidmarsh Farms meetup'
-tagnames: balloon-mapping, boston, meetup, event, somerville, massachusetts, tidmarsh
+title: "Tidmarsh Farms meetup"\ntagnames: 'balloon-mapping, boston, meetup, event, somerville, massachusetts, tidmarsh'
 author: warren
 path: /wiki/tidmarsh-farms-meetup.md
 nid: 4638

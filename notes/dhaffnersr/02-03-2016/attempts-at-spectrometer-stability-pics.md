@@ -1,6 +1,5 @@
 ---
-title: 'Attempts at Spectrometer stability pics'
-tagnames: 
+title: "Attempts at Spectrometer stability pics"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/02-03-2016/attempts-at-spectrometer-stability-pics.md
 nid: 12646
@@ -12,7 +11,7 @@ uid: 461120
 
 # Attempts at Spectrometer stability pics
 
-by [dhaffnersr](../profile/dhaffnersr) February 03, 2016 21:10
+by [dhaffnersr](../profile/dhaffnersr) | February 03, 2016 21:10
 
 February 03, 2016 21:10 | Tags: 
 

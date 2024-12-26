@@ -1,6 +1,5 @@
 ---
-title: '3D Printed CCD Spectrometer (WheeTrometer 3.0)'
-tagnames: spectrometer, spectrometry, cuvette, 3d-printing, barnstar:basic
+title: "3D Printed CCD Spectrometer (WheeTrometer 3.0)"\ntagnames: 'spectrometer, spectrometry, cuvette, 3d-printing, barnstar:basic'
 author: bhickman
 path: /notes/bhickman/08-27-2014/3d-printed-ccd-spectrometer-wheetrometer-3-0.md
 nid: 11079
@@ -12,7 +11,7 @@ uid: 201929
 
 # 3D Printed CCD Spectrometer (WheeTrometer 3.0)
 
-by [bhickman](../profile/bhickman) August 27, 2014 08:49
+by [bhickman](../profile/bhickman) | August 27, 2014 08:49
 
 August 27, 2014 08:49 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [cuvette](../tag/cuvette), [3d-printing](../tag/3d-printing), [barnstar:basic](../tag/barnstar:basic)
 

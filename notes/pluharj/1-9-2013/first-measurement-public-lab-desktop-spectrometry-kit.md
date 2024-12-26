@@ -1,6 +1,5 @@
 ---
-title: 'First Measurement with Public Lab Desktop Spectrometry Kit'
-tagnames: spectrometer, dsk, unboxing
+title: "First Measurement with Public Lab Desktop Spectrometry Kit"\ntagnames: 'spectrometer, dsk, unboxing'
 author: pluharj
 path: /notes/pluharj/1-9-2013/first-measurement-public-lab-desktop-spectrometry-kit.md
 nid: 5496
@@ -12,7 +11,7 @@ uid: 46812
 
 # First Measurement with Public Lab Desktop Spectrometry Kit
 
-by [pluharj](../profile/pluharj) January 09, 2013 18:16
+by [pluharj](../profile/pluharj) | January 09, 2013 18:16
 
 January 09, 2013 18:16 | Tags: [spectrometer](../tag/spectrometer), [dsk](../tag/dsk), [unboxing](../tag/unboxing)
 

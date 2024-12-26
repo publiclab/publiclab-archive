@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Cartography Collective'
-tagnames: mapknitter, cartography-collective
+title: "Public Lab Cartography Collective"\ntagnames: 'mapknitter, cartography-collective'
 author: Shannon
 path: /wiki/public-lab-cartography-collective.md
 nid: 9360

@@ -1,6 +1,5 @@
 ---
-title: 'Bayou St. John at Lake Pontchartrain'
-tagnames: gulf-coast, bsj
+title: "Bayou St. John at Lake Pontchartrain"\ntagnames: 'gulf-coast, bsj'
 author: liz
 path: /wiki/bayou-st-john-at-lake-pontchartrain.md
 nid: 12101

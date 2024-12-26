@@ -1,6 +1,5 @@
 ---
-title: 'Past Public Lab Barnraisings'
-tagnames: barnraising
+title: "Past Public Lab Barnraisings"\ntagnames: 'barnraising'
 author: warren
 path: /wiki/past-barnraisings.md
 nid: 396

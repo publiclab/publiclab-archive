@@ -1,6 +1,5 @@
 ---
-title: 'My upcoming transition'
-tagnames: news, staff
+title: "My upcoming transition"\ntagnames: 'news, staff'
 author: warren
 path: /notes/warren/12-09-2019/my-upcoming-transition.md
 nid: 21706
@@ -12,7 +11,7 @@ uid: 1
 
 # My upcoming transition
 
-by [warren](../profile/warren) December 09, 2019 18:56
+by [warren](../profile/warren) | December 09, 2019 18:56
 
 December 09, 2019 18:56 | Tags: [news](../tag/news), [staff](../tag/staff)
 

@@ -1,6 +1,5 @@
 ---
-title: 'GSoC Report : Tag/Topic System Refinements'
-tagnames: gsoc, soc, lon:76, zoom:6, soc-2021, lat:27, soc-2021-final
+title: "GSoC Report : Tag/Topic System Refinements"\ntagnames: 'gsoc, soc, lon:76, zoom:6, soc-2021, lat:27, soc-2021-final'
 author: 17sushmita
 path: /notes/17sushmita/08-23-2021/gsoc-report-tag-topic-system-refinements.md
 nid: 27613
@@ -12,7 +11,7 @@ uid: 741338
 
 # GSoC Report : Tag/Topic System Refinements
 
-by [17sushmita](../profile/17sushmita) August 23, 2021 14:42
+by [17sushmita](../profile/17sushmita) | August 23, 2021 14:42
 
 August 23, 2021 14:42 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6), [soc-2021](../tag/soc-2021), [lat:27](../tag/lat:27), [soc-2021-final](../tag/soc-2021-final)
 

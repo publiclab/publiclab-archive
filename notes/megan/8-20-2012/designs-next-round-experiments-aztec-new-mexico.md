@@ -1,6 +1,5 @@
 ---
-title: 'Designs for next round of experiments Aztec, New Mexico'
-tagnames: hydrogen-sulfide-sensing, new-mexico, study-design, h2s-study-design
+title: "Designs for next round of experiments Aztec, New Mexico"\ntagnames: 'hydrogen-sulfide-sensing, new-mexico, study-design, h2s-study-design'
 author: megan
 path: /notes/megan/8-20-2012/designs-next-round-experiments-aztec-new-mexico.md
 nid: 3342
@@ -10,7 +9,7 @@ uid: 775
 
 # Designs for next round of experiments Aztec, New Mexico
 
-by [megan](../profile/megan) August 20, 2012 13:19
+by [megan](../profile/megan) | August 20, 2012 13:19
 
 August 20, 2012 13:19 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [study-design](../tag/study-design), [h2s-study-design](../tag/h2s-study-design)
 

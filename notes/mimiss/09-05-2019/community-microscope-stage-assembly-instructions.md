@@ -1,6 +1,5 @@
 ---
-title: 'Community Microscope Stage Assembly Instructions'
-tagnames: with:warren, with:stevie, with:liz, microscope, with:bronwen, activity:microscope, activity:community-microscope, assembly:community-microscope
+title: "Community Microscope Stage Assembly Instructions"\ntagnames: 'with:warren, with:stevie, with:liz, microscope, with:bronwen, activity:microscope, activity:community-microscope, assembly:community-microscope'
 author: mimiss
 path: /notes/mimiss/09-05-2019/community-microscope-stage-assembly-instructions.md
 nid: 20703
@@ -12,7 +11,7 @@ uid: 579821
 
 # Community Microscope Stage Assembly Instructions
 
-by [mimiss](../profile/mimiss) August 28, 2019 16:09
+by [mimiss](../profile/mimiss) | August 28, 2019 16:09
 
 August 28, 2019 16:09 | Tags: [with:warren](../tag/with:warren), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [microscope](../tag/microscope), [with:bronwen](../tag/with:bronwen), [activity:microscope](../tag/activity:microscope), [activity:community-microscope](../tag/activity:community-microscope), [assembly:community-microscope](../tag/assembly:community-microscope)
 

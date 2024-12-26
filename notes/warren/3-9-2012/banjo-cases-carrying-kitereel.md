@@ -1,6 +1,5 @@
 ---
-title: 'Banjo cases for carrying kite/reel'
-tagnames: kite-mapping
+title: "Banjo cases for carrying kite/reel"\ntagnames: 'kite-mapping'
 author: warren
 path: /notes/warren/3-9-2012/banjo-cases-carrying-kitereel.md
 nid: 912
@@ -12,7 +11,7 @@ uid: 1
 
 # Banjo cases for carrying kite/reel
 
-by [warren](../profile/warren) March 09, 2012 17:53
+by [warren](../profile/warren) | March 09, 2012 17:53
 
 March 09, 2012 17:53 | Tags: [kite-mapping](../tag/kite-mapping)
 

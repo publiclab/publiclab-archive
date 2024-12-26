@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab job posting: Inventory and Shipping Coordinator'
-tagnames: nonprofit
+title: "Public Lab job posting: Inventory and Shipping Coordinator"\ntagnames: 'nonprofit'
 author: Shannon
 path: /notes/Shannon/07-27-2015/public-lab-job-posting-inventory-and-shipping-coordinator.md
 nid: 12102
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab job posting: Inventory and Shipping Coordinator
 
-by [Shannon](../profile/Shannon) July 27, 2015 12:22
+by [Shannon](../profile/Shannon) | July 27, 2015 12:22
 
 July 27, 2015 12:22 | Tags: [nonprofit](../tag/nonprofit)
 

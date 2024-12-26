@@ -1,6 +1,5 @@
 ---
-title: 'Thermal Camera: Arduino UNO + MLX90614 IR Thermometer'
-tagnames: thermal-photography, arduino, thermal-flashlight
+title: "Thermal Camera: Arduino UNO + MLX90614 IR Thermometer"\ntagnames: 'thermal-photography, arduino, thermal-flashlight'
 author: ad
 path: /notes/ad/11-28-2011/thermal-camera-arduino-uno-mlx90614-ir-thermometer.md
 nid: 593
@@ -12,7 +11,7 @@ uid: 373
 
 # Thermal Camera: Arduino UNO + MLX90614 IR Thermometer
 
-by [ad](../profile/ad) November 28, 2011 22:19
+by [ad](../profile/ad) | November 28, 2011 22:19
 
 November 28, 2011 22:19 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight)
 

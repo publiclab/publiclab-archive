@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Presentation at Personal Democracy Forum 2011'
-tagnames: presentation
+title: "Public Lab Presentation at Personal Democracy Forum 2011"\ntagnames: 'presentation'
 author: warren
 path: /notes/warren/04-11-2013/public-lab-presentation-at-personal-democracy-forum-2011.md
 nid: 6787
@@ -12,7 +11,7 @@ uid: 1
 
 # Public Lab Presentation at Personal Democracy Forum 2011
 
-by [warren](../profile/warren) April 11, 2013 18:48
+by [warren](../profile/warren) | April 11, 2013 18:48
 
 April 11, 2013 18:48 | Tags: [presentation](../tag/presentation)
 

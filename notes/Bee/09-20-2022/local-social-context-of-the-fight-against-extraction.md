@@ -1,6 +1,5 @@
 ---
-title: 'Local Social Context of the Fight Against Extraction '
-tagnames: first-time-poster, zoom:10, lat:46, mn-land-manoomin-protection, lon:-94
+title: "Local Social Context of the Fight Against Extraction "\ntagnames: 'first-time-poster, zoom:10, lat:46, mn-land-manoomin-protection, lon:-94'
 author: Bee
 path: /notes/Bee/09-20-2022/local-social-context-of-the-fight-against-extraction.md
 nid: 34973
@@ -10,7 +9,7 @@ uid: 793443
 
 # Local Social Context of the Fight Against Extraction 
 
-by [Bee](../profile/Bee) September 20, 2022 16:41
+by [Bee](../profile/Bee) | September 20, 2022 16:41
 
 September 20, 2022 16:41 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:10](../tag/zoom:10), [lat:46](../tag/lat:46), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-94](../tag/lon:-94)
 

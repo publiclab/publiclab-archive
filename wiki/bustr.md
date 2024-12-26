@@ -1,6 +1,5 @@
 ---
-title: 'bustr'
-tagnames: 
+title: "bustr"\ntagnames: ''
 author: donblair
 path: /wiki/bustr.md
 nid: 12675

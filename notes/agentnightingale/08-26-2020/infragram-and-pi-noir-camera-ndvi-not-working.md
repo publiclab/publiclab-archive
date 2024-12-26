@@ -1,6 +1,5 @@
 ---
-title: 'infragram and Pi NoIR camera - NDVI not working '
-tagnames: ndvi, infragram, pi, question:general, general, noir, first-time-poster
+title: "infragram and Pi NoIR camera - NDVI not working "\ntagnames: 'ndvi, infragram, pi, question:general, general, noir, first-time-poster'
 author: agentnightingale
 path: /notes/agentnightingale/08-26-2020/infragram-and-pi-noir-camera-ndvi-not-working.md
 nid: 24460
@@ -10,7 +9,7 @@ uid: 658888
 
 # infragram and Pi NoIR camera - NDVI not working 
 
-by [agentnightingale](../profile/agentnightingale) August 26, 2020 20:33
+by [agentnightingale](../profile/agentnightingale) | August 26, 2020 20:33
 
 August 26, 2020 20:33 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [pi](../tag/pi), [question:general](../tag/question:general), [general](../tag/general), [noir](../tag/noir), [first-time-poster](../tag/first-time-poster)
 

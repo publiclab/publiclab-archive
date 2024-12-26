@@ -1,6 +1,5 @@
 ---
-title: 'Sensor Journalism: Does it Succeed? '
-tagnames: sensor-journalism
+title: "Sensor Journalism: Does it Succeed? "\ntagnames: 'sensor-journalism'
 author: Evan_bedell
 path: /notes/Evan_bedell/02-22-2015/sensor-journalism-does-it-succeed.md
 nid: 11614
@@ -12,7 +11,7 @@ uid: 434615
 
 # Sensor Journalism: Does it Succeed? 
 
-by [Evan_bedell](../profile/Evan_bedell) February 22, 2015 23:39
+by [Evan_bedell](../profile/Evan_bedell) | February 22, 2015 23:39
 
 February 22, 2015 23:39 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

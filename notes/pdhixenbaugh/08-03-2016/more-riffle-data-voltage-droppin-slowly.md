@@ -1,6 +1,5 @@
 ---
-title: 'More Riffle Data - Voltage droppin slowly'
-tagnames: riffle, riffle-beta
+title: "More Riffle Data - Voltage droppin slowly"\ntagnames: 'riffle, riffle-beta'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-03-2016/more-riffle-data-voltage-droppin-slowly.md
 nid: 13332
@@ -12,7 +11,7 @@ uid: 459085
 
 # More Riffle Data - Voltage droppin slowly
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) August 03, 2016 23:10
+by [pdhixenbaugh](../profile/pdhixenbaugh) | August 03, 2016 23:10
 
 August 03, 2016 23:10 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta)
 

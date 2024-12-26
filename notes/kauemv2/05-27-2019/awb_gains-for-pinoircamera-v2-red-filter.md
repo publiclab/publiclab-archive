@@ -1,6 +1,5 @@
 ---
-title: 'AWB_Gains for PiNoIRCamera V2 (Red Filter)'
-tagnames: ndvi, calibration, white-balance, camera, question:ndvi, question:infragram, filters, raspberry, question:white-balance, pi-camera, question:filter-pack, awb, question:infragram-pi, pi-calibration
+title: "AWB_Gains for PiNoIRCamera V2 (Red Filter)"\ntagnames: 'ndvi, calibration, white-balance, camera, question:ndvi, question:infragram, filters, raspberry, question:white-balance, pi-camera, question:filter-pack, awb, question:infragram-pi, pi-calibration'
 author: kauemv2
 path: /notes/kauemv2/05-27-2019/awb_gains-for-pinoircamera-v2-red-filter.md
 nid: 19540
@@ -10,7 +9,7 @@ uid: 590177
 
 # AWB_Gains for PiNoIRCamera V2 (Red Filter)
 
-by [kauemv2](../profile/kauemv2) May 27, 2019 17:25
+by [kauemv2](../profile/kauemv2) | May 27, 2019 17:25
 
 May 27, 2019 17:25 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [white-balance](../tag/white-balance), [camera](../tag/camera), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [filters](../tag/filters), [raspberry](../tag/raspberry), [question:white-balance](../tag/question:white-balance), [pi-camera](../tag/pi-camera), [question:filter-pack](../tag/question:filter-pack), [awb](../tag/awb), [question:infragram-pi](../tag/question:infragram-pi), [pi-calibration](../tag/pi-calibration)
 

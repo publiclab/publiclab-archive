@@ -1,6 +1,5 @@
 ---
-title: 'Organizing'
-tagnames: organizing, community-organizing, youth-organizing
+title: "Organizing"\ntagnames: 'organizing, community-organizing, youth-organizing'
 author: warren
 path: /wiki/organizing.md
 nid: 19816

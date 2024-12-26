@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-glossary'
-tagnames: 
+title: "sandbox-glossary"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-glossary.md
 nid: 30633

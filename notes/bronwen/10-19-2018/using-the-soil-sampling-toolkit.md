@@ -1,6 +1,5 @@
 ---
-title: 'Using the Soil Sampling Toolkit'
-tagnames: heavy-metals, soil, pesticides, pah, pcb, metals, soil-testing, activity:soil-sampling, community-kits, activity:soil-testing-toolkit, soil-testing-toolkit, with:jjcreedon, activity:soil-testing, activity:soil, dioxin
+title: "Using the Soil Sampling Toolkit"\ntagnames: 'heavy-metals, soil, pesticides, pah, pcb, metals, soil-testing, activity:soil-sampling, community-kits, activity:soil-testing-toolkit, soil-testing-toolkit, with:jjcreedon, activity:soil-testing, activity:soil, dioxin'
 author: Bronwen
 path: /notes/bronwen/10-19-2018/using-the-soil-sampling-toolkit.md
 nid: 17339
@@ -12,7 +11,7 @@ uid: 237313
 
 # Using the Soil Sampling Toolkit
 
-by [Bronwen](../profile/Bronwen) October 19, 2018 16:51
+by [Bronwen](../profile/Bronwen) | October 19, 2018 16:51
 
 October 19, 2018 16:51 | Tags: [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [pesticides](../tag/pesticides), [pah](../tag/pah), [pcb](../tag/pcb), [metals](../tag/metals), [soil-testing](../tag/soil-testing), [activity:soil-sampling](../tag/activity:soil-sampling), [community-kits](../tag/community-kits), [activity:soil-testing-toolkit](../tag/activity:soil-testing-toolkit), [soil-testing-toolkit](../tag/soil-testing-toolkit), [with:jjcreedon](../tag/with:jjcreedon), [activity:soil-testing](../tag/activity:soil-testing), [activity:soil](../tag/activity:soil), [dioxin](../tag/dioxin)
 

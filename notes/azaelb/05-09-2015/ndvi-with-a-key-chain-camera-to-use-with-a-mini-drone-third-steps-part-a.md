@@ -1,6 +1,5 @@
 ---
-title: 'NDVI with a key chain camera to use with a mini-drone - Third steps Part A'
-tagnames: ndvi, imagej, infragram, drone, photomonitoring, ndvi-ag, hi
+title: "NDVI with a key chain camera to use with a mini-drone - Third steps Part A"\ntagnames: 'ndvi, imagej, infragram, drone, photomonitoring, ndvi-ag, hi'
 author: azaelb
 path: /notes/azaelb/05-09-2015/ndvi-with-a-key-chain-camera-to-use-with-a-mini-drone-third-steps-part-a.md
 nid: 11802
@@ -12,7 +11,7 @@ uid: 319070
 
 # NDVI with a key chain camera to use with a mini-drone - Third steps Part A
 
-by [azaelb](../profile/azaelb) May 09, 2015 21:50
+by [azaelb](../profile/azaelb) | May 09, 2015 21:50
 
 May 09, 2015 21:50 | Tags: [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [drone](../tag/drone), [photomonitoring](../tag/photomonitoring), [ndvi-ag](../tag/ndvi-ag), [hi](../tag/hi)
 

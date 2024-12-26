@@ -1,6 +1,5 @@
 ---
-title: 'Carbon mapping'
-tagnames: 
+title: "Carbon mapping"\ntagnames: ''
 author: warren
 path: /wiki/carbon-mapping.md
 nid: 360

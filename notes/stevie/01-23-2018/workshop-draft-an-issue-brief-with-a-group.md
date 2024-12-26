@@ -1,6 +1,5 @@
 ---
-title: 'Workshop: Draft an Issue Brief with a group'
-tagnames: community, organizing, getting-started, draft, community-organizing, issue-brief, activity:community-organizing, activity:issue-brief, activity:getting-started, activity:new, activity:organizing
+title: "Workshop: Draft an Issue Brief with a group"\ntagnames: 'community, organizing, getting-started, draft, community-organizing, issue-brief, activity:community-organizing, activity:issue-brief, activity:getting-started, activity:new, activity:organizing'
 author: stevie
 path: /notes/stevie/01-23-2018/workshop-draft-an-issue-brief-with-a-group.md
 nid: 15591
@@ -12,7 +11,7 @@ uid: 422561
 
 # Workshop: Draft an Issue Brief with a group
 
-by [stevie](../profile/stevie) January 23, 2018 16:48
+by [stevie](../profile/stevie) | January 23, 2018 16:48
 
 January 23, 2018 16:48 | Tags: [community](../tag/community), [organizing](../tag/organizing), [getting-started](../tag/getting-started), [draft](../tag/draft), [community-organizing](../tag/community-organizing), [issue-brief](../tag/issue-brief), [activity:community-organizing](../tag/activity:community-organizing), [activity:issue-brief](../tag/activity:issue-brief), [activity:getting-started](../tag/activity:getting-started), [activity:new](../tag/activity:new), [activity:organizing](../tag/activity:organizing)
 

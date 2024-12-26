@@ -1,6 +1,5 @@
 ---
-title: 'Notes from 2011-5-6 staff call'
-tagnames: 
+title: "Notes from 2011-5-6 staff call"\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/5-6-2011/notes-2011-5-6-staff-call.md
 nid: 224
@@ -10,7 +9,7 @@ uid: 12
 
 # Notes from 2011-5-6 staff call
 
-by [gonzoearth](../profile/gonzoearth) May 06, 2011 17:41
+by [gonzoearth](../profile/gonzoearth) | May 06, 2011 17:41
 
 May 06, 2011 17:41 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Olympic Legacy'
-tagnames: 
+title: "Olympic Legacy"\ntagnames: ''
 author: mesc
 path: /notes/Mesc/09-29-2015/olympic-legacy.md
 nid: 12253
@@ -12,7 +11,7 @@ uid: 444516
 
 # Olympic Legacy
 
-by [mesc](../profile/mesc) September 29, 2015 19:47
+by [mesc](../profile/mesc) | September 29, 2015 19:47
 
 September 29, 2015 19:47 | Tags: 
 

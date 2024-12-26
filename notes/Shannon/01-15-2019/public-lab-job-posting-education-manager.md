@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab job posting: Education Manager'
-tagnames: education, jobs
+title: "Public Lab job posting: Education Manager"\ntagnames: 'education, jobs'
 author: Shannon
 path: /notes/Shannon/01-15-2019/public-lab-job-posting-education-manager.md
 nid: 18124
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab job posting: Education Manager
 
-by [Shannon](../profile/Shannon) January 15, 2019 22:21
+by [Shannon](../profile/Shannon) | January 15, 2019 22:21
 
 January 15, 2019 22:21 | Tags: [education](../tag/education), [jobs](../tag/jobs)
 

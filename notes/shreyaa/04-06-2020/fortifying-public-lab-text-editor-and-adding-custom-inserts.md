@@ -1,6 +1,5 @@
 ---
-title: 'Fortifying Public Lab Text Editor and Adding Custom Inserts'
-tagnames: first-time-poster, outreachy-2020-proposals
+title: "Fortifying Public Lab Text Editor and Adding Custom Inserts"\ntagnames: 'first-time-poster, outreachy-2020-proposals'
 author: shreyaa
 path: /notes/shreyaa/04-06-2020/fortifying-public-lab-text-editor-and-adding-custom-inserts.md
 nid: 23313
@@ -10,7 +9,7 @@ uid: 676730
 
 # Fortifying Public Lab Text Editor and Adding Custom Inserts
 
-by [shreyaa](../profile/shreyaa) April 06, 2020 16:24
+by [shreyaa](../profile/shreyaa) | April 06, 2020 16:24
 
 April 06, 2020 16:24 | Tags: [first-time-poster](../tag/first-time-poster), [outreachy-2020-proposals](../tag/outreachy-2020-proposals)
 

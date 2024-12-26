@@ -1,6 +1,5 @@
 ---
-title: 'Should /tools be renamed to /methods, /techniques, or something else?'
-tagnames: 
+title: "Should /tools be renamed to /methods, /techniques, or something else?"\ntagnames: ''
 author: liz
 path: /notes/liz/09-30-2016/should-tools-be-renamed-to-methods-techniques-or-something-else.md
 nid: 13513
@@ -10,7 +9,7 @@ uid: 7
 
 # Should /tools be renamed to /methods, /techniques, or something else?
 
-by [liz](../profile/liz) September 30, 2016 19:11
+by [liz](../profile/liz) | September 30, 2016 19:11
 
 September 30, 2016 19:11 | Tags: 
 

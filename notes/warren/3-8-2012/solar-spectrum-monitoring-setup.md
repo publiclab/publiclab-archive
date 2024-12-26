@@ -1,6 +1,5 @@
 ---
-title: 'Solar spectrum monitoring setup'
-tagnames: spectrometer, solar
+title: "Solar spectrum monitoring setup"\ntagnames: 'spectrometer, solar'
 author: warren
 path: /notes/warren/3-8-2012/solar-spectrum-monitoring-setup.md
 nid: 905
@@ -12,7 +11,7 @@ uid: 1
 
 # Solar spectrum monitoring setup
 
-by [warren](../profile/warren) March 08, 2012 18:29
+by [warren](../profile/warren) | March 08, 2012 18:29
 
 March 08, 2012 18:29 | Tags: [spectrometer](../tag/spectrometer), [solar](../tag/solar)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Can you process multiple images at the same time?'
-tagnames: question:infragram, question:question
+title: "Can you process multiple images at the same time?"\ntagnames: 'question:infragram, question:question'
 author: JonathanM32
 path: /notes/JonathanM32/01-09-2017/can-you-process-multiple-images-at-the-same-time.md
 nid: 13847
@@ -10,7 +9,7 @@ uid: 501476
 
 # Can you process multiple images at the same time?
 
-by [JonathanM32](../profile/JonathanM32) January 09, 2017 16:05
+by [JonathanM32](../profile/JonathanM32) | January 09, 2017 16:05
 
 January 09, 2017 16:05 | Tags: [question:infragram](../tag/question:infragram), [question:question](../tag/question:question)
 

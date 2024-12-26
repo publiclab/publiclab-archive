@@ -1,6 +1,5 @@
 ---
-title: 'Communicating expectations from Chippewa County residents concerned with frac sand mines'
-tagnames: frac-sand, advocacy, with:pat, sand-mining, reclamation, mine-reclamation, mine-reclamation-advocacy
+title: "Communicating expectations from Chippewa County residents concerned with frac sand mines"\ntagnames: 'frac-sand, advocacy, with:pat, sand-mining, reclamation, mine-reclamation, mine-reclamation-advocacy'
 author: bhamster
 path: /notes/bhamster/02-16-2022/communicating-expectations-from-chippewa-county-residents-concerned-with-frac-sand-mines.md
 nid: 30030
@@ -10,7 +9,7 @@ uid: 664477
 
 # Communicating expectations from Chippewa County residents concerned with frac sand mines
 
-by [bhamster](../profile/bhamster) February 16, 2022 18:54
+by [bhamster](../profile/bhamster) | February 16, 2022 18:54
 
 February 16, 2022 18:54 | Tags: [frac-sand](../tag/frac-sand), [advocacy](../tag/advocacy), [with:pat](../tag/with:pat), [sand-mining](../tag/sand-mining), [reclamation](../tag/reclamation), [mine-reclamation](../tag/mine-reclamation), [mine-reclamation-advocacy](../tag/mine-reclamation-advocacy)
 

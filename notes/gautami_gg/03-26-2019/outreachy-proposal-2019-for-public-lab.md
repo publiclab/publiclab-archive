@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy Proposal 2019 For Public Lab: '
-tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, lat:12.971598, lon:77.594562, outreachy-2019, soc-2019-proposals, outreachy-2019-proposals, soc-2019-projects
+title: "Outreachy Proposal 2019 For Public Lab: "\ntagnames: 'software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, lat:12.971598, lon:77.594562, outreachy-2019, soc-2019-proposals, outreachy-2019-proposals, soc-2019-projects'
 author: gautami_gg
 path: /notes/gautami_gg/03-26-2019/outreachy-proposal-2019-for-public-lab.md
 nid: 18867
@@ -12,7 +11,7 @@ uid: 579624
 
 # Outreachy Proposal 2019 For Public Lab: 
 
-by [gautami_gg](../profile/gautami_gg) March 26, 2019 17:46
+by [gautami_gg](../profile/gautami_gg) | March 26, 2019 17:46
 
 March 26, 2019 17:46 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [lat:12.971598](../tag/lat:12.971598), [lon:77.594562](../tag/lon:77.594562), [outreachy-2019](../tag/outreachy-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [outreachy-2019-proposals](../tag/outreachy-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 

@@ -1,6 +1,5 @@
 ---
-title: 'How to analyze plastics forensically '
-tagnames: barnstar:empiricism, microscope, seeks:replications, micro-plastics, microplastics, babylegs, activity:babylegs, activity:microplastics
+title: "How to analyze plastics forensically "\ntagnames: 'barnstar:empiricism, microscope, seeks:replications, micro-plastics, microplastics, babylegs, activity:babylegs, activity:microplastics'
 author: maxliboiron
 path: /notes/maxliboiron/07-19-2018/how-to-analyze-plastics-forensically.md
 nid: 16751
@@ -12,7 +11,7 @@ uid: 310707
 
 # How to analyze plastics forensically 
 
-by [maxliboiron](../profile/maxliboiron) July 19, 2018 14:11
+by [maxliboiron](../profile/maxliboiron) | July 19, 2018 14:11
 
 July 19, 2018 14:11 | Tags: [barnstar:empiricism](../tag/barnstar:empiricism), [microscope](../tag/microscope), [seeks:replications](../tag/seeks:replications), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [activity:microplastics](../tag/activity:microplastics)
 

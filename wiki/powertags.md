@@ -1,6 +1,5 @@
 ---
-title: 'powertags'
-tagnames: redirect:power-tags
+title: "powertags"\ntagnames: 'redirect:power-tags'
 author: warren
 path: /wiki/powertags.md
 nid: 24561

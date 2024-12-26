@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab nonprofit job posting: User interface designer/web developer'
-tagnames: design, nonprofit, jobs, with:stevie, with:liz, ui, job
+title: "Public Lab nonprofit job posting: User interface designer/web developer"\ntagnames: 'design, nonprofit, jobs, with:stevie, with:liz, ui, job'
 author: warren
 path: /notes/warren/07-25-2018/public-lab-nonprofit-job-posting-user-interface-designer-web-developer.md
 nid: 16775
@@ -12,7 +11,7 @@ uid: 1
 
 # Public Lab nonprofit job posting: User interface designer/web developer
 
-by [warren](../profile/warren) July 23, 2018 21:57
+by [warren](../profile/warren) | July 23, 2018 21:57
 
 July 23, 2018 21:57 | Tags: [design](../tag/design), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [ui](../tag/ui), [job](../tag/job)
 

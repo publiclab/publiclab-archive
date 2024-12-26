@@ -1,6 +1,5 @@
 ---
-title: 'can't get the calibration right'
-tagnames: question:spectral-workbench, first-time-poster
+title: "can't get the calibration right"\ntagnames: 'question:spectral-workbench, first-time-poster'
 author: eigentuininhuis
 path: /notes/eigentuininhuis/01-29-2016/can-t-get-the-calibration-right.md
 nid: 12635
@@ -10,7 +9,7 @@ uid: 460522
 
 # can't get the calibration right
 
-by [eigentuininhuis](../profile/eigentuininhuis) January 29, 2016 08:24
+by [eigentuininhuis](../profile/eigentuininhuis) | January 29, 2016 08:24
 
 January 29, 2016 08:24 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 

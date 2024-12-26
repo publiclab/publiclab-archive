@@ -1,6 +1,5 @@
 ---
-title: 'Remixing Kina and Don's Code - low power temperature logging'
-tagnames: riffle, riffle-beta
+title: "Remixing Kina and Don's Code - low power temperature logging"\ntagnames: 'riffle, riffle-beta'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/07-11-2016/remixing-kina-and-don-s-code-low-power-temperature-logging.md
 nid: 13282
@@ -12,7 +11,7 @@ uid: 459085
 
 # Remixing Kina and Don's Code - low power temperature logging
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) July 11, 2016 23:11
+by [pdhixenbaugh](../profile/pdhixenbaugh) | July 11, 2016 23:11
 
 July 11, 2016 23:11 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta)
 

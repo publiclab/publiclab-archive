@@ -1,6 +1,5 @@
 ---
-title: 'First Attempt Bombed... But Why ?'
-tagnames: spectrometer, spectrometry, first-time-poster
+title: "First Attempt Bombed... But Why ?"\ntagnames: 'spectrometer, spectrometry, first-time-poster'
 author: Abraxas
 path: /notes/Abraxas/11-28-2022/first-attempt-bombed-but-why.md
 nid: 37872
@@ -12,7 +11,7 @@ uid: 822105
 
 # First Attempt Bombed... But Why ?
 
-by [Abraxas](../profile/Abraxas) November 28, 2022 13:25
+by [Abraxas](../profile/Abraxas) | November 28, 2022 13:25
 
 November 28, 2022 13:25 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [first-time-poster](../tag/first-time-poster)
 

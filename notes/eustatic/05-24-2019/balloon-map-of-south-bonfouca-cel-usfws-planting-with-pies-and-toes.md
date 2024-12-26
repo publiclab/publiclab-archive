@@ -1,6 +1,5 @@
 ---
-title: 'Balloon map of south Bonfouca cel USFWS planting with PIES and TOES'
-tagnames: gulf-coast, balloon-mapping, wetlands, louisiana, spartina, marsh, intermediate, pontchartrain, freshwater, migration, sealevelrise, adaptation, lat:30.244729, lon:-89.861443
+title: "Balloon map of south Bonfouca cel USFWS planting with PIES and TOES"\ntagnames: 'gulf-coast, balloon-mapping, wetlands, louisiana, spartina, marsh, intermediate, pontchartrain, freshwater, migration, sealevelrise, adaptation, lat:30.244729, lon:-89.861443'
 author: eustatic
 path: /05-24-2019/balloon-map-of-south-bonfouca-cel-usfws-planting-with-pies-and-toes.md
 nid: 19515
@@ -12,7 +11,7 @@ uid: 379
 
 # Balloon map of south Bonfouca cel USFWS planting with PIES and TOES
 
-by [eustatic](../profile/eustatic) May 24, 2019 19:15
+by [eustatic](../profile/eustatic) | May 24, 2019 19:15
 
 May 24, 2019 19:15 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [spartina](../tag/spartina), [marsh](../tag/marsh), [intermediate](../tag/intermediate), [pontchartrain](../tag/pontchartrain), [freshwater](../tag/freshwater), [migration](../tag/migration), [sealevelrise](../tag/sealevelrise), [adaptation](../tag/adaptation), [lat:30.244729](../tag/lat:30.244729), [lon:-89.861443](../tag/lon:-89.861443)
 

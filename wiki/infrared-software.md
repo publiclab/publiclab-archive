@@ -1,6 +1,5 @@
 ---
-title: 'Infrared Software'
-tagnames: 
+title: "Infrared Software"\ntagnames: ''
 author: warren
 path: /wiki/infrared-software.md
 nid: 15084

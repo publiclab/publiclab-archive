@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab is hiring! Job Posting: Kits Initiative Manager'
-tagnames: jobs
+title: "Public Lab is hiring! Job Posting: Kits Initiative Manager"\ntagnames: 'jobs'
 author: Shannon
 path: /notes/Shannon/04-10-2014/public-lab-is-hiring-job-posting-kits-initiative-manager.md
 nid: 10293
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab is hiring! Job Posting: Kits Initiative Manager
 
-by [Shannon](../profile/Shannon) April 10, 2014 18:47
+by [Shannon](../profile/Shannon) | April 10, 2014 18:47
 
 April 10, 2014 18:47 | Tags: [jobs](../tag/jobs)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Values statement'
-tagnames: community, organizers, chapters, values-statement
+title: "Values statement"\ntagnames: 'community, organizers, chapters, values-statement'
 author: warren
 path: /wiki/values-statement.md
 nid: 9408

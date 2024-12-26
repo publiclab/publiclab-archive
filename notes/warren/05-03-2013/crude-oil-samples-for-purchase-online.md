@@ -1,6 +1,5 @@
 ---
-title: 'Crude oil samples for purchase online'
-tagnames: spectrometer, oil, fluorescence, sample, comparison, crude, crude-oil
+title: "Crude oil samples for purchase online"\ntagnames: 'spectrometer, oil, fluorescence, sample, comparison, crude, crude-oil'
 author: warren
 path: /notes/warren/05-03-2013/crude-oil-samples-for-purchase-online.md
 nid: 7222
@@ -12,7 +11,7 @@ uid: 1
 
 # Crude oil samples for purchase online
 
-by [warren](../profile/warren) May 03, 2013 16:39
+by [warren](../profile/warren) | May 03, 2013 16:39
 
 May 03, 2013 16:39 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [sample](../tag/sample), [comparison](../tag/comparison), [crude](../tag/crude), [crude-oil](../tag/crude-oil)
 

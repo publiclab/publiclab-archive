@@ -1,6 +1,5 @@
 ---
-title: 'Duty Cycles & 555s --> linearity!'
-tagnames: calibration, water-quality, conductivity, open-water, linearity, 555, coqui
+title: "Duty Cycles & 555s --> linearity!"\ntagnames: 'calibration, water-quality, conductivity, open-water, linearity, 555, coqui'
 author: donblair
 path: /notes/donblair/09-18-2014/duty-cycles-555s-linearity.md
 nid: 11159
@@ -12,7 +11,7 @@ uid: 43651
 
 # Duty Cycles & 555s --> linearity!
 
-by [donblair](../profile/donblair) September 18, 2014 15:11
+by [donblair](../profile/donblair) | September 18, 2014 15:11
 
 September 18, 2014 15:11 | Tags: [calibration](../tag/calibration), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [linearity](../tag/linearity), [555](../tag/555), [coqui](../tag/coqui)
 

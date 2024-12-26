@@ -1,6 +1,5 @@
 ---
-title: 'Takes on the fold-up mini-spectrometer'
-tagnames: spectrometer, fold-up-mini-spectrometer
+title: "Takes on the fold-up mini-spectrometer"\ntagnames: 'spectrometer, fold-up-mini-spectrometer'
 author: mathew
 path: /notes/mathew/11-19-2012/takes-fold-mini-spectrometer.md
 nid: 4953
@@ -12,7 +11,7 @@ uid: 4
 
 # Takes on the fold-up mini-spectrometer
 
-by [mathew](../profile/mathew) November 19, 2012 20:23
+by [mathew](../profile/mathew) | November 19, 2012 20:23
 
 November 19, 2012 20:23 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
 

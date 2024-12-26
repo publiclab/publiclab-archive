@@ -1,6 +1,5 @@
 ---
-title: 'Manoomin at White Oak Lake, Minneosta'
-tagnames: minnesota, zoom:6, wild-rice, mn-land-manoomin-protection, manoomin, wildrice, aquatic-species, mn, lat:46.905245, lon:-93.88916
+title: "Manoomin at White Oak Lake, Minneosta"\ntagnames: 'minnesota, zoom:6, wild-rice, mn-land-manoomin-protection, manoomin, wildrice, aquatic-species, mn, lat:46.905245, lon:-93.88916'
 author: Giiwedin
 path: /notes/Giiwedin/08-09-2022/manoomin-at-white-oak-lake-minneosta.md
 nid: 34848
@@ -12,7 +11,7 @@ uid: 799642
 
 # Manoomin at White Oak Lake, Minneosta
 
-by [Giiwedin](../profile/Giiwedin) August 09, 2022 05:06
+by [Giiwedin](../profile/Giiwedin) | August 09, 2022 05:06
 
 August 09, 2022 05:06 | Tags: [minnesota](../tag/minnesota), [zoom:6](../tag/zoom:6), [wild-rice](../tag/wild-rice), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [manoomin](../tag/manoomin), [wildrice](../tag/wildrice), [aquatic-species](../tag/aquatic-species), [mn](../tag/mn), [lat:46.905245](../tag/lat:46.905245), [lon:-93.88916](../tag/lon:-93.88916)
 

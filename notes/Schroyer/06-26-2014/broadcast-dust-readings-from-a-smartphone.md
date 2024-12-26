@@ -1,6 +1,5 @@
 ---
-title: 'Broadcast dust readings from a smartphone'
-tagnames: particulate-sensing, air-quality, dustduino, dust, particulates, particulate, pm, dylos, air-sensors
+title: "Broadcast dust readings from a smartphone"\ntagnames: 'particulate-sensing, air-quality, dustduino, dust, particulates, particulate, pm, dylos, air-sensors'
 author: Schroyer
 path: /notes/Schroyer/06-26-2014/broadcast-dust-readings-from-a-smartphone.md
 nid: 10620
@@ -12,7 +11,7 @@ uid: 381809
 
 # Broadcast dust readings from a smartphone
 
-by [Schroyer](../profile/Schroyer) June 26, 2014 01:35
+by [Schroyer](../profile/Schroyer) | June 26, 2014 01:35
 
 June 26, 2014 01:35 | Tags: [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [dylos](../tag/dylos), [air-sensors](../tag/air-sensors)
 

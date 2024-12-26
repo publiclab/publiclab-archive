@@ -1,6 +1,5 @@
 ---
-title: 'skypod'
-tagnames: redirect:14553
+title: "skypod"\ntagnames: 'redirect:14553'
 author: warren
 path: /wiki/skypod.md
 nid: 14569

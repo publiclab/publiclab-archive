@@ -1,6 +1,5 @@
 ---
-title: ' Self-adhesive diffraction grating caps SpectroKit® for cellular'
-tagnames: spectrometer, first-time-poster
+title: " Self-adhesive diffraction grating caps SpectroKit® for cellular"\ntagnames: 'spectrometer, first-time-poster'
 author: Jean-Christophe-DORE
 path: /notes/jean-christophe-dore/10-23-2012/self-adhesive-diffraction-grating-caps-spectrokit-cellular.md
 nid: 4586
@@ -12,7 +11,7 @@ uid: 44865
 
 #  Self-adhesive diffraction grating caps SpectroKit® for cellular
 
-by [Jean-Christophe-DORE](../profile/Jean-Christophe-DORE) October 23, 2012 17:09
+by [Jean-Christophe-DORE](../profile/Jean-Christophe-DORE) | October 23, 2012 17:09
 
 October 23, 2012 17:09 | Tags: [spectrometer](../tag/spectrometer), [first-time-poster](../tag/first-time-poster)
 

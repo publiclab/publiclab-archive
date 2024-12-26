@@ -1,6 +1,5 @@
 ---
-title: 'DIY spectrophotometer?'
-tagnames: spectrometer, spectrophotometer, diy, lens, detector, absorbance, diopter, focal
+title: "DIY spectrophotometer?"\ntagnames: 'spectrometer, spectrophotometer, diy, lens, detector, absorbance, diopter, focal'
 author: Mekis
 path: /notes/Mekis/04-16-2017/diy-spectrophotometer.md
 nid: 14115
@@ -12,7 +11,7 @@ uid: 505614
 
 # DIY spectrophotometer?
 
-by [Mekis](../profile/Mekis) April 16, 2017 10:54
+by [Mekis](../profile/Mekis) | April 16, 2017 10:54
 
 April 16, 2017 10:54 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [diy](../tag/diy), [lens](../tag/lens), [detector](../tag/detector), [absorbance](../tag/absorbance), [diopter](../tag/diopter), [focal](../tag/focal)
 

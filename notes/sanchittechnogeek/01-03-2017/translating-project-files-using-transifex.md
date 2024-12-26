@@ -1,6 +1,5 @@
 ---
-title: 'Translating project files using transifex'
-tagnames: community, website, activity, publiclab, localization, translation, language, gcin, gcin-2016, replication:13651, transifex
+title: "Translating project files using transifex"\ntagnames: 'community, website, activity, publiclab, localization, translation, language, gcin, gcin-2016, replication:13651, transifex'
 author: sanchittechnogeek
 path: /notes/sanchittechnogeek/01-03-2017/translating-project-files-using-transifex.md
 nid: 13834
@@ -12,7 +11,7 @@ uid: 500310
 
 # Translating project files using transifex
 
-by [sanchittechnogeek](../profile/sanchittechnogeek) January 03, 2017 17:39
+by [sanchittechnogeek](../profile/sanchittechnogeek) | January 03, 2017 17:39
 
 January 03, 2017 17:39 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [publiclab](../tag/publiclab), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
 

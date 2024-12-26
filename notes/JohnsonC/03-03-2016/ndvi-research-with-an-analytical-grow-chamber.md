@@ -1,6 +1,5 @@
 ---
-title: 'NDVI Research with an Analytical Grow Chamber'
-tagnames: ndvi, infrared, filter, infragram, led, stress, sensor, blue, 8-bit, yawcam, tableau
+title: "NDVI Research with an Analytical Grow Chamber"\ntagnames: 'ndvi, infrared, filter, infragram, led, stress, sensor, blue, 8-bit, yawcam, tableau'
 author: JohnsonC
 path: /notes/JohnsonC/03-03-2016/ndvi-research-with-an-analytical-grow-chamber.md
 nid: 12768
@@ -12,7 +11,7 @@ uid: 467223
 
 # NDVI Research with an Analytical Grow Chamber
 
-by [JohnsonC](../profile/JohnsonC) March 03, 2016 00:11
+by [JohnsonC](../profile/JohnsonC) | March 03, 2016 00:11
 
 March 03, 2016 00:11 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [led](../tag/led), [stress](../tag/stress), [sensor](../tag/sensor), [blue](../tag/blue), [8-bit](../tag/8-bit), [yawcam](../tag/yawcam), [tableau](../tag/tableau)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Goal setting workshop design'
-tagnames: newark, new-jersey, ironbound, icc, elp
+title: "Goal setting workshop design"\ntagnames: 'newark, new-jersey, ironbound, icc, elp'
 author: liz
 path: /notes/liz/02-24-2014/goal-setting-workshop-design.md
 nid: 10061
@@ -12,7 +11,7 @@ uid: 7
 
 # Goal setting workshop design
 
-by [liz](../profile/liz) February 24, 2014 17:03
+by [liz](../profile/liz) | February 24, 2014 17:03
 
 February 24, 2014 17:03 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [ironbound](../tag/ironbound), [icc](../tag/icc), [elp](../tag/elp)
 

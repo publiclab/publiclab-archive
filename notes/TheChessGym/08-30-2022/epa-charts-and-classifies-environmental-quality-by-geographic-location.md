@@ -1,6 +1,5 @@
 ---
-title: 'EPA Charts and Classifies Environmental Quality By Geographic Location'
-tagnames: first-time-poster, lat:20, lon:70, zoom:5
+title: "EPA Charts and Classifies Environmental Quality By Geographic Location"\ntagnames: 'first-time-poster, lat:20, lon:70, zoom:5'
 author: TheChessGym
 path: /notes/TheChessGym/08-30-2022/epa-charts-and-classifies-environmental-quality-by-geographic-location.md
 nid: 34920
@@ -12,7 +11,7 @@ uid: 788868
 
 # EPA Charts and Classifies Environmental Quality By Geographic Location
 
-by [TheChessGym](../profile/TheChessGym) August 30, 2022 13:29
+by [TheChessGym](../profile/TheChessGym) | August 30, 2022 13:29
 
 August 30, 2022 13:29 | Tags: [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:5](../tag/zoom:5)
 

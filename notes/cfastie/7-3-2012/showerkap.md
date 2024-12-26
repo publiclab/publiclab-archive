@@ -1,6 +1,5 @@
 ---
-title: 'The ShowerKAP'
-tagnames: near-infrared-camera, kite-mapping, alaska, photo-rig, akrange, activity:photo-rig
+title: "The ShowerKAP"\ntagnames: 'near-infrared-camera, kite-mapping, alaska, photo-rig, akrange, activity:photo-rig'
 author: cfastie
 path: /notes/cfastie/7-3-2012/showerkap.md
 nid: 2696
@@ -12,7 +11,7 @@ uid: 554
 
 # The ShowerKAP
 
-by [cfastie](../profile/cfastie) July 03, 2012 04:06
+by [cfastie](../profile/cfastie) | July 03, 2012 04:06
 
 July 03, 2012 04:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [alaska](../tag/alaska), [photo-rig](../tag/photo-rig), [akrange](../tag/akrange), [activity:photo-rig](../tag/activity:photo-rig)
 

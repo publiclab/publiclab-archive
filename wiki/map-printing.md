@@ -1,6 +1,5 @@
 ---
-title: 'Map printing'
-tagnames: 
+title: "Map printing"\ntagnames: ''
 author: warren
 path: /wiki/map-printing.md
 nid: 548

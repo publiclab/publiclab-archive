@@ -1,6 +1,5 @@
 ---
-title: 'Hydrophere'
-tagnames: mississippi-river, first-time-poster, zoom:6, lat:30.053813, lon:-90.551753
+title: "Hydrophere"\ntagnames: 'mississippi-river, first-time-poster, zoom:6, lat:30.053813, lon:-90.551753'
 author: OF04
 path: /notes/OF04/08-22-2022/hydrophere.md
 nid: 34893
@@ -12,7 +11,7 @@ uid: 810245
 
 # Hydrophere
 
-by [OF04](../profile/OF04) August 22, 2022 13:40
+by [OF04](../profile/OF04) | August 22, 2022 13:40
 
 August 22, 2022 13:40 | Tags: [mississippi-river](../tag/mississippi-river), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.053813](../tag/lat:30.053813), [lon:-90.551753](../tag/lon:-90.551753)
 

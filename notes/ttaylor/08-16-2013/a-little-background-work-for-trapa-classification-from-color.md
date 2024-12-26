@@ -1,6 +1,5 @@
 ---
-title: 'A little background work for Trapa classification from color'
-tagnames: balloon-mapping, near-infrared-camera, amherst, infragram, invasive, classification, h2onutz, trapa
+title: "A little background work for Trapa classification from color"\ntagnames: 'balloon-mapping, near-infrared-camera, amherst, infragram, invasive, classification, h2onutz, trapa'
 author: ttaylor
 path: /notes/ttaylor/08-16-2013/a-little-background-work-for-trapa-classification-from-color.md
 nid: 9019
@@ -12,7 +11,7 @@ uid: 58398
 
 # A little background work for Trapa classification from color
 
-by [ttaylor](../profile/ttaylor) August 16, 2013 01:14
+by [ttaylor](../profile/ttaylor) | August 16, 2013 01:14
 
 August 16, 2013 01:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [amherst](../tag/amherst), [infragram](../tag/infragram), [invasive](../tag/invasive), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [trapa](../tag/trapa)
 

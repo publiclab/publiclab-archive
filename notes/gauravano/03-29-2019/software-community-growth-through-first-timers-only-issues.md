@@ -1,6 +1,5 @@
 ---
-title: 'Software Community Growth through "first-timers-only" issues'
-tagnames: web-development, webworkinggroup, software, blog, developers, community-building, with:warren, onboarding, first-timers-only, software-outreach
+title: "Software Community Growth through "first-timers-only" issues"\ntagnames: 'web-development, webworkinggroup, software, blog, developers, community-building, with:warren, onboarding, first-timers-only, software-outreach'
 author: gauravano
 path: /notes/gauravano/03-29-2019/software-community-growth-through-first-timers-only-issues.md
 nid: 18893
@@ -12,7 +11,7 @@ uid: 515081
 
 # Software Community Growth through "first-timers-only" issues
 
-by [gauravano](../profile/gauravano) March 28, 2019 22:59
+by [gauravano](../profile/gauravano) | March 28, 2019 22:59
 
 March 28, 2019 22:59 | Tags: [web-development](../tag/web-development), [webworkinggroup](../tag/webworkinggroup), [software](../tag/software), [blog](../tag/blog), [developers](../tag/developers), [community-building](../tag/community-building), [with:warren](../tag/with:warren), [onboarding](../tag/onboarding), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach)
 

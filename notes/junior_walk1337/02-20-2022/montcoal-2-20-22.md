@@ -1,6 +1,5 @@
 ---
-title: 'Montcoal 2/20/22'
-tagnames: drones, coal-mining, coal, mmmp, surfacemine
+title: "Montcoal 2/20/22"\ntagnames: 'drones, coal-mining, coal, mmmp, surfacemine'
 author: junior_walk1337
 path: /notes/junior_walk1337/02-20-2022/montcoal-2-20-22.md
 nid: 30067
@@ -12,7 +11,7 @@ uid: 756318
 
 # Montcoal 2/20/22
 
-by [junior_walk1337](../profile/junior_walk1337) February 20, 2022 21:36
+by [junior_walk1337](../profile/junior_walk1337) | February 20, 2022 21:36
 
 February 20, 2022 21:36 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [coal](../tag/coal), [mmmp](../tag/mmmp), [surfacemine](../tag/surfacemine)
 

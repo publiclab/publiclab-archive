@@ -1,6 +1,5 @@
 ---
-title: 'laser-cut picavet for PET bottle rig'
-tagnames: balloon-mapping, kite-mapping, laser-cut, photo-rig, activity:photo-rig, upgrade:photo-rig
+title: "laser-cut picavet for PET bottle rig"\ntagnames: 'balloon-mapping, kite-mapping, laser-cut, photo-rig, activity:photo-rig, upgrade:photo-rig'
 author: mathew
 path: /notes/mathew/8-29-2012/laser-cut-picavet-pet-bottle-rig.md
 nid: 3563
@@ -12,7 +11,7 @@ uid: 4
 
 # laser-cut picavet for PET bottle rig
 
-by [mathew](../profile/mathew) August 29, 2012 23:24
+by [mathew](../profile/mathew) | August 29, 2012 23:24
 
 August 29, 2012 23:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [laser-cut](../tag/laser-cut), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [upgrade:photo-rig](../tag/upgrade:photo-rig)
 

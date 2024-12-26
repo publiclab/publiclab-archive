@@ -1,6 +1,5 @@
 ---
-title: 'Problem with registration'
-tagnames: question:general
+title: "Problem with registration"\ntagnames: 'question:general'
 author: Slava1
 path: /notes/Slava1/06-12-2018/problem-with-registration.md
 nid: 16466
@@ -10,7 +9,7 @@ uid: 537852
 
 # Problem with registration
 
-by [Slava1](../profile/Slava1) June 12, 2018 01:56
+by [Slava1](../profile/Slava1) | June 12, 2018 01:56
 
 June 12, 2018 01:56 | Tags: [question:general](../tag/question:general)
 

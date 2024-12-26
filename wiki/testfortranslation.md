@@ -1,6 +1,5 @@
 ---
-title: 'testfortranslation'
-tagnames: test
+title: "testfortranslation"\ntagnames: 'test'
 author: rmeister
 path: /wiki/testfortranslation.md
 nid: 13530

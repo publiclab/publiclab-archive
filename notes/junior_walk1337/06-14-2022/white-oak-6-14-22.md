@@ -1,6 +1,5 @@
 ---
-title: 'White Oak 6/14/22'
-tagnames: drones, coal-mining, mmmp
+title: "White Oak 6/14/22"\ntagnames: 'drones, coal-mining, mmmp'
 author: junior_walk1337
 path: /notes/junior_walk1337/06-14-2022/white-oak-6-14-22.md
 nid: 31053
@@ -12,7 +11,7 @@ uid: 756318
 
 # White Oak 6/14/22
 
-by [junior_walk1337](../profile/junior_walk1337) June 14, 2022 16:47
+by [junior_walk1337](../profile/junior_walk1337) | June 14, 2022 16:47
 
 June 14, 2022 16:47 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
 

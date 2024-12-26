@@ -1,6 +1,5 @@
 ---
-title: 'Thermal Flashlight as Power Ring'
-tagnames: thermal-photography, thermal-flashlight
+title: "Thermal Flashlight as Power Ring"\ntagnames: 'thermal-photography, thermal-flashlight'
 author: mathew
 path: /notes/mathew/6-13-2012/thermal-flashlight-power-ring.md
 nid: 2478
@@ -12,7 +11,7 @@ uid: 4
 
 # Thermal Flashlight as Power Ring
 
-by [mathew](../profile/mathew) June 13, 2012 23:29
+by [mathew](../profile/mathew) | June 13, 2012 23:29
 
 June 13, 2012 23:29 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight)
 

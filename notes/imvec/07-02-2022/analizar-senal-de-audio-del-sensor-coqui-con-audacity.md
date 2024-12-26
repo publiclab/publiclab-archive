@@ -1,6 +1,5 @@
 ---
-title: 'Analizar señal de audio del sensor Coqui con Audacity'
-tagnames: water-quality, water-quality-sensor, conductivity, lang:es, coqui, activity:coqui, with:xose, water-conductivity, agua, calidad-de-agua, conductividad
+title: "Analizar señal de audio del sensor Coqui con Audacity"\ntagnames: 'water-quality, water-quality-sensor, conductivity, lang:es, coqui, activity:coqui, with:xose, water-conductivity, agua, calidad-de-agua, conductividad'
 author: imvec
 path: /notes/imvec/07-02-2022/analizar-senal-de-audio-del-sensor-coqui-con-audacity.md
 nid: 31177
@@ -12,7 +11,7 @@ uid: 495038
 
 # Analizar señal de audio del sensor Coqui con Audacity
 
-by [imvec](../profile/imvec) July 02, 2022 17:59
+by [imvec](../profile/imvec) | July 02, 2022 17:59
 
 July 02, 2022 17:59 | Tags: [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [conductivity](../tag/conductivity), [lang:es](../tag/lang:es), [coqui](../tag/coqui), [activity:coqui](../tag/activity:coqui), [with:xose](../tag/with:xose), [water-conductivity](../tag/water-conductivity), [agua](../tag/agua), [calidad-de-agua](../tag/calidad-de-agua), [conductividad](../tag/conductividad)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Setup for UV Testing with Specrtrometer'
-tagnames: spectrometer, uv, ultraviolet, fluorescence, activity:spectrometry, activity:science-fair, first-time-poster
+title: "Setup for UV Testing with Specrtrometer"\ntagnames: 'spectrometer, uv, ultraviolet, fluorescence, activity:spectrometry, activity:science-fair, first-time-poster'
 author: JoshMc
 path: /notes/joshmc/4-28-2012/setup-uv-testing-specrtrometer.md
 nid: 1833
@@ -10,7 +9,7 @@ uid: 995
 
 # Setup for UV Testing with Specrtrometer
 
-by [JoshMc](../profile/JoshMc) April 28, 2012 12:18
+by [JoshMc](../profile/JoshMc) | April 28, 2012 12:18
 
 April 28, 2012 12:18 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair), [first-time-poster](../tag/first-time-poster)
 

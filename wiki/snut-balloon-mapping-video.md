@@ -1,6 +1,5 @@
 ---
-title: 'SNUT balloon mapping video'
-tagnames: balloon-mapping, urban, diy-balloon, korea
+title: "SNUT balloon mapping video"\ntagnames: 'balloon-mapping, urban, diy-balloon, korea'
 author: leejaekyung
 path: /wiki/snut-balloon-mapping-video.md
 nid: 852

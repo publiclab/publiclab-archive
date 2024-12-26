@@ -1,6 +1,5 @@
 ---
-title: 'DIY Oil Testing: Community'
-tagnames: spectrometer, community, spectrometry, oil-testing-kit
+title: "DIY Oil Testing: Community"\ntagnames: 'spectrometer, community, spectrometry, oil-testing-kit'
 author: warren
 path: /wiki/diy-oil-testing-community.md
 nid: 12662

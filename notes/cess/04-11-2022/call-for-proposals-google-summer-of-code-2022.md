@@ -1,6 +1,5 @@
 ---
-title: 'Call for proposals:  Google Summer of Code 2022 '
-tagnames: gsoc, with:warren, with:liz, call-for-proposals, zoom:6, with:mathildaudufo, gsoc-2022, soc-2022
+title: "Call for proposals:  Google Summer of Code 2022 "\ntagnames: 'gsoc, with:warren, with:liz, call-for-proposals, zoom:6, with:mathildaudufo, gsoc-2022, soc-2022'
 author: cess
 path: /notes/cess/04-11-2022/call-for-proposals-google-summer-of-code-2022.md
 nid: 30348
@@ -12,7 +11,7 @@ uid: 525958
 
 # Call for proposals:  Google Summer of Code 2022 
 
-by [cess](../profile/cess) April 11, 2022 17:09
+by [cess](../profile/cess) | April 11, 2022 17:09
 
 April 11, 2022 17:09 | Tags: [gsoc](../tag/gsoc), [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [call-for-proposals](../tag/call-for-proposals), [zoom:6](../tag/zoom:6), [with:mathildaudufo](../tag/with:mathildaudufo), [gsoc-2022](../tag/gsoc-2022), [soc-2022](../tag/soc-2022)
 

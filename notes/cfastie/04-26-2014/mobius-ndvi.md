@@ -1,6 +1,5 @@
 ---
-title: 'Mobius NDVI'
-tagnames: near-infrared-camera, ndvi, vermont, infrared, white-balance, infragram, mobius-actioncam, wratten25a, super-red, mobius, msetup, response:10353, activity:multispectral-imaging, activity:infragram
+title: "Mobius NDVI"\ntagnames: 'near-infrared-camera, ndvi, vermont, infrared, white-balance, infragram, mobius-actioncam, wratten25a, super-red, mobius, msetup, response:10353, activity:multispectral-imaging, activity:infragram'
 author: cfastie
 path: /notes/cfastie/04-26-2014/mobius-ndvi.md
 nid: 10369
@@ -12,7 +11,7 @@ uid: 554
 
 # Mobius NDVI
 
-by [cfastie](../profile/cfastie) April 26, 2014 14:33
+by [cfastie](../profile/cfastie) | April 26, 2014 14:33
 
 April 26, 2014 14:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [mobius](../tag/mobius), [msetup](../tag/msetup), [response:10353](../tag/response:10353), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram)
 

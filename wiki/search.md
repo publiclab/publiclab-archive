@@ -1,6 +1,5 @@
 ---
-title: 'Search'
-tagnames: search, style:nobanner, style:minimal
+title: "Search"\ntagnames: 'search, style:nobanner, style:minimal'
 author: warren
 path: /wiki/search.md
 nid: 19093

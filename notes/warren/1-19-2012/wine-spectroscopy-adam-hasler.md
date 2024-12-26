@@ -1,6 +1,5 @@
 ---
-title: 'Wine spectroscopy with Adam Hasler'
-tagnames: spectrometer, wine, absorption-spectrometry
+title: "Wine spectroscopy with Adam Hasler"\ntagnames: 'spectrometer, wine, absorption-spectrometry'
 author: warren
 path: /notes/warren/1-19-2012/wine-spectroscopy-adam-hasler.md
 nid: 706
@@ -12,7 +11,7 @@ uid: 1
 
 # Wine spectroscopy with Adam Hasler
 
-by [warren](../profile/warren) January 19, 2012 15:47
+by [warren](../profile/warren) | January 19, 2012 15:47
 
 January 19, 2012 15:47 | Tags: [spectrometer](../tag/spectrometer), [wine](../tag/wine), [absorption-spectrometry](../tag/absorption-spectrometry)
 

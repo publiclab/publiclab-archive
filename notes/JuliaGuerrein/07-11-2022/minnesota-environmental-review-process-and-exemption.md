@@ -1,6 +1,5 @@
 ---
-title: 'Minnesota environmental review process—and exemption'
-tagnames: minnesota, mn-land-manoomin-protection, great-lakes-region, environmental-review, environmental-impact-statement
+title: "Minnesota environmental review process—and exemption"\ntagnames: 'minnesota, mn-land-manoomin-protection, great-lakes-region, environmental-review, environmental-impact-statement'
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/07-11-2022/minnesota-environmental-review-process-and-exemption.md
 nid: 31271
@@ -12,7 +11,7 @@ uid: 796025
 
 # Minnesota environmental review process—and exemption
 
-by [JuliaGuerrein](../profile/JuliaGuerrein) July 11, 2022 10:59
+by [JuliaGuerrein](../profile/JuliaGuerrein) | July 11, 2022 10:59
 
 July 11, 2022 10:59 | Tags: [minnesota](../tag/minnesota), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [great-lakes-region](../tag/great-lakes-region), [environmental-review](../tag/environmental-review), [environmental-impact-statement](../tag/environmental-impact-statement)
 

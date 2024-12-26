@@ -1,6 +1,5 @@
 ---
-title: 'How many regular ~1 foot balloons does it take to lift a camera?'
-tagnames: balloon-mapping, helium, question:balloon-mapping, pi-camera, sourcing, party-balloons, faq-balloon-mapping
+title: "How many regular ~1 foot balloons does it take to lift a camera?"\ntagnames: 'balloon-mapping, helium, question:balloon-mapping, pi-camera, sourcing, party-balloons, faq-balloon-mapping'
 author: warren
 path: /notes/warren/06-20-2019/how-many-regular-1-foot-balloons-does-it-take-to-lift-a-camera.md
 nid: 19762
@@ -10,7 +9,7 @@ uid: 1
 
 # How many regular ~1 foot balloons does it take to lift a camera?
 
-by [warren](../profile/warren) June 20, 2019 16:14
+by [warren](../profile/warren) | June 20, 2019 16:14
 
 June 20, 2019 16:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [helium](../tag/helium), [question:balloon-mapping](../tag/question:balloon-mapping), [pi-camera](../tag/pi-camera), [sourcing](../tag/sourcing), [party-balloons](../tag/party-balloons), [faq-balloon-mapping](../tag/faq-balloon-mapping)
 

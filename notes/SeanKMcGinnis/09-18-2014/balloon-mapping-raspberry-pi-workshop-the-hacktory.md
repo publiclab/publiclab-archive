@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Mapping & Raspberry Pi Workshop @ The Hacktory'
-tagnames: event, event:rsvp, date:10-18-2014, rsvp:kimberlyhaas
+title: "Balloon Mapping & Raspberry Pi Workshop @ The Hacktory"\ntagnames: 'event, event:rsvp, date:10-18-2014, rsvp:kimberlyhaas'
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/09-18-2014/balloon-mapping-raspberry-pi-workshop-the-hacktory.md
 nid: 11153
@@ -12,7 +11,7 @@ uid: 552
 
 # Balloon Mapping & Raspberry Pi Workshop @ The Hacktory
 
-by [seankmcginnis](../profile/seankmcginnis) September 18, 2014 10:25
+by [seankmcginnis](../profile/seankmcginnis) | September 18, 2014 10:25
 
 September 18, 2014 10:25 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:10-18-2014](../tag/date:10-18-2014), [rsvp:kimberlyhaas](../tag/rsvp:kimberlyhaas)
 

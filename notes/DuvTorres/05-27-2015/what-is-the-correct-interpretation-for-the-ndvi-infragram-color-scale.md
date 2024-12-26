@@ -1,6 +1,5 @@
 ---
-title: 'What is the correct interpretation for the NDVI infragram color scale?'
-tagnames: question:infragram
+title: "What is the correct interpretation for the NDVI infragram color scale?"\ntagnames: 'question:infragram'
 author: DuvTorres
 path: /notes/DuvTorres/05-27-2015/what-is-the-correct-interpretation-for-the-ndvi-infragram-color-scale.md
 nid: 11845
@@ -10,7 +9,7 @@ uid: 442564
 
 # What is the correct interpretation for the NDVI infragram color scale?
 
-by [DuvTorres](../profile/DuvTorres) May 27, 2015 17:01
+by [DuvTorres](../profile/DuvTorres) | May 27, 2015 17:01
 
 May 27, 2015 17:01 | Tags: [question:infragram](../tag/question:infragram)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Project page template'
-tagnames: locked, parent:templates
+title: "Project page template"\ntagnames: 'locked, parent:templates'
 author: warren
 path: /wiki/project-page-template.md
 nid: 15164

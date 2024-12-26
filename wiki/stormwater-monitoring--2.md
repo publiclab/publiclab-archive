@@ -1,6 +1,5 @@
 ---
-title: 'stormwater-monitoring'
-tagnames: redirect:stormwater
+title: "stormwater-monitoring"\ntagnames: 'redirect:stormwater'
 author: warren
 path: /wiki/stormwater-monitoring--2.md
 nid: 13926

@@ -1,6 +1,5 @@
 ---
-title: 'About Projects'
-tagnames: projects
+title: "About Projects"\ntagnames: 'projects'
 author: warren
 path: /wiki/about-projects.md
 nid: 21543

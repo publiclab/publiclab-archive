@@ -1,6 +1,5 @@
 ---
-title: 'app'
-tagnames: 
+title: "app"\ntagnames: ''
 author: apriliainggri
 path: /notes/apriliainggri/12-29-2014/app.md
 nid: 11499
@@ -12,7 +11,7 @@ uid: 432482
 
 # app
 
-by [apriliainggri](../profile/apriliainggri) December 29, 2014 07:03
+by [apriliainggri](../profile/apriliainggri) | December 29, 2014 07:03
 
 December 29, 2014 07:03 | Tags: 
 

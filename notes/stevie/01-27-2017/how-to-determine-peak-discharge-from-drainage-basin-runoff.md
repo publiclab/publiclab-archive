@@ -1,6 +1,5 @@
 ---
-title: 'How to determine peak discharge from drainage basin runoff'
-tagnames: stormwater, seeks:replications, activity:stormwater
+title: "How to determine peak discharge from drainage basin runoff"\ntagnames: 'stormwater, seeks:replications, activity:stormwater'
 author: stevie
 path: /notes/stevie/01-27-2017/how-to-determine-peak-discharge-from-drainage-basin-runoff.md
 nid: 13884
@@ -12,7 +11,7 @@ uid: 422561
 
 # How to determine peak discharge from drainage basin runoff
 
-by [stevie](../profile/stevie) January 27, 2017 18:43
+by [stevie](../profile/stevie) | January 27, 2017 18:43
 
 January 27, 2017 18:43 | Tags: [stormwater](../tag/stormwater), [seeks:replications](../tag/seeks:replications), [activity:stormwater](../tag/activity:stormwater)
 

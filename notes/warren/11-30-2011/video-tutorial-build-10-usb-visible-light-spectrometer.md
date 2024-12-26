@@ -1,6 +1,5 @@
 ---
-title: 'Video tutorial: Build a $10 USB visible-light spectrometer '
-tagnames: 
+title: "Video tutorial: Build a $10 USB visible-light spectrometer "\ntagnames: ''
 author: warren
 path: /notes/warren/11-30-2011/video-tutorial-build-10-usb-visible-light-spectrometer.md
 nid: 599
@@ -12,7 +11,7 @@ uid: 1
 
 # Video tutorial: Build a $10 USB visible-light spectrometer 
 
-by [warren](../profile/warren) December 01, 2011 00:22
+by [warren](../profile/warren) | December 01, 2011 00:22
 
 December 01, 2011 00:22 | Tags: 
 

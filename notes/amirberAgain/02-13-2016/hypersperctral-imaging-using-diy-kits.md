@@ -1,6 +1,5 @@
 ---
-title: 'Hypersperctral imaging using DIY kits'
-tagnames: spectrometer, hyperspectral, first-time-poster
+title: "Hypersperctral imaging using DIY kits"\ntagnames: 'spectrometer, hyperspectral, first-time-poster'
 author: amirberAgain
 path: /notes/amirberAgain/02-13-2016/hypersperctral-imaging-using-diy-kits.md
 nid: 12685
@@ -12,7 +11,7 @@ uid: 420776
 
 # Hypersperctral imaging using DIY kits
 
-by [amirberAgain](../profile/amirberAgain) February 13, 2016 21:52
+by [amirberAgain](../profile/amirberAgain) | February 13, 2016 21:52
 
 February 13, 2016 21:52 | Tags: [spectrometer](../tag/spectrometer), [hyperspectral](../tag/hyperspectral), [first-time-poster](../tag/first-time-poster)
 

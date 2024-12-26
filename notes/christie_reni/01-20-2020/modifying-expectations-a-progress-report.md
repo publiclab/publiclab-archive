@@ -1,6 +1,5 @@
 ---
-title: 'Modifying Expectations: A Progress Report'
-tagnames: blog-submission, outreachy
+title: "Modifying Expectations: A Progress Report"\ntagnames: 'blog-submission, outreachy'
 author: christie_reni
 path: /notes/christie_reni/01-20-2020/modifying-expectations-a-progress-report.md
 nid: 22350
@@ -10,7 +9,7 @@ uid: 630062
 
 # Modifying Expectations: A Progress Report
 
-by [christie_reni](../profile/christie_reni) January 20, 2020 10:43
+by [christie_reni](../profile/christie_reni) | January 20, 2020 10:43
 
 January 20, 2020 10:43 | Tags: [blog-submission](../tag/blog-submission), [outreachy](../tag/outreachy)
 

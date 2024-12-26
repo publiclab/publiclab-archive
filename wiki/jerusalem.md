@@ -1,6 +1,5 @@
 ---
-title: 'Jerusalem'
-tagnames: kite-mapping, jerusalem, protest, youth, israel, palestine, urban-planning, chapter, events:jerusalem, list:publiclab-jerusalem, lon:35.2167, lat:31.7833, silwan, tabbed:notes, tabbed:wikis, construction, table-lamp
+title: "Jerusalem"\ntagnames: 'kite-mapping, jerusalem, protest, youth, israel, palestine, urban-planning, chapter, events:jerusalem, list:publiclab-jerusalem, lon:35.2167, lat:31.7833, silwan, tabbed:notes, tabbed:wikis, construction, table-lamp'
 author: hagitkeysar
 path: /wiki/jerusalem.md
 nid: 7315

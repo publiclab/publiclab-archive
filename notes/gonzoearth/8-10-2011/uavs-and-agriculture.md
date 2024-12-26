@@ -1,6 +1,5 @@
 ---
-title: 'UAVs and Agriculture'
-tagnames: 
+title: "UAVs and Agriculture"\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/8-10-2011/uavs-and-agriculture.md
 nid: 437
@@ -10,7 +9,7 @@ uid: 12
 
 # UAVs and Agriculture
 
-by [gonzoearth](../profile/gonzoearth) August 10, 2011 18:13
+by [gonzoearth](../profile/gonzoearth) | August 10, 2011 18:13
 
 August 10, 2011 18:13 | Tags: 
 

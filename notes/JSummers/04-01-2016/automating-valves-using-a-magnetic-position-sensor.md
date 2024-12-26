@@ -1,6 +1,5 @@
 ---
-title: 'Automating valves using a magnetic position sensor.'
-tagnames: 3d-printing, barnstar:basic, syringe, pump, response:11519
+title: "Automating valves using a magnetic position sensor."\ntagnames: '3d-printing, barnstar:basic, syringe, pump, response:11519'
 author: JSummers
 path: /notes/JSummers/04-01-2016/automating-valves-using-a-magnetic-position-sensor.md
 nid: 12903
@@ -12,7 +11,7 @@ uid: 304279
 
 # Automating valves using a magnetic position sensor.
 
-by [JSummers](../profile/JSummers) April 01, 2016 20:05
+by [JSummers](../profile/JSummers) | April 01, 2016 20:05
 
 April 01, 2016 20:05 | Tags: [3d-printing](../tag/3d-printing), [barnstar:basic](../tag/barnstar:basic), [syringe](../tag/syringe), [pump](../tag/pump), [response:11519](../tag/response:11519)
 

@@ -1,6 +1,5 @@
 ---
-title: 'People who work on soil- join us for methods jam this Tuesday! '
-tagnames: event, soil, event:rsvp, soil-testing, soil-contamination, soil-contamination-testing, date:05-07-2019
+title: "People who work on soil- join us for methods jam this Tuesday! "\ntagnames: 'event, soil, event:rsvp, soil-testing, soil-contamination, soil-contamination-testing, date:05-07-2019'
 author: DanielleS
 path: /notes/DanielleS/05-03-2019/people-who-work-on-soil-join-us-for-methods-jam-this-tuesday.md
 nid: 19234
@@ -10,7 +9,7 @@ uid: 569208
 
 # People who work on soil- join us for methods jam this Tuesday! 
 
-by [DanielleS](../profile/DanielleS) May 03, 2019 20:57
+by [DanielleS](../profile/DanielleS) | May 03, 2019 20:57
 
 May 03, 2019 20:57 | Tags: [event](../tag/event), [soil](../tag/soil), [event:rsvp](../tag/event:rsvp), [soil-testing](../tag/soil-testing), [soil-contamination](../tag/soil-contamination), [soil-contamination-testing](../tag/soil-contamination-testing), [date:05-07-2019](../tag/date:05-07-2019)
 

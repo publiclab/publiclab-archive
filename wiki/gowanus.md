@@ -1,6 +1,5 @@
 ---
-title: 'gowanus'
-tagnames: 
+title: "gowanus"\ntagnames: ''
 author: liz
 path: /wiki/gowanus.md
 nid: 10445

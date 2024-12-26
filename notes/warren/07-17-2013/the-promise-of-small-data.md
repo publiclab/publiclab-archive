@@ -1,6 +1,5 @@
 ---
-title: 'The Promise of Small Data'
-tagnames: database, big-data, small-data, opinion
+title: "The Promise of Small Data"\ntagnames: 'database, big-data, small-data, opinion'
 author: warren
 path: /notes/warren/07-17-2013/the-promise-of-small-data.md
 nid: 8903
@@ -12,7 +11,7 @@ uid: 1
 
 # The Promise of Small Data
 
-by [warren](../profile/warren) July 17, 2013 19:14
+by [warren](../profile/warren) | July 17, 2013 19:14
 
 July 17, 2013 19:14 | Tags: [database](../tag/database), [big-data](../tag/big-data), [small-data](../tag/small-data), [opinion](../tag/opinion)
 

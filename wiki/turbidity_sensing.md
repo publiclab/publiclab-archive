@@ -1,6 +1,5 @@
 ---
-title: 'turbidity_sensing'
-tagnames: water, turbidity, riffle, open-water, upgrade:riffle, parent:turbidity
+title: "turbidity_sensing"\ntagnames: 'water, turbidity, riffle, open-water, upgrade:riffle, parent:turbidity'
 author: donblair
 path: /wiki/turbidity_sensing.md
 nid: 13478

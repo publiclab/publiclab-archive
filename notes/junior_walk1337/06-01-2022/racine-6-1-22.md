@@ -1,6 +1,5 @@
 ---
-title: 'Racine 6/1/22'
-tagnames: drones, coal-mining, mmmp
+title: "Racine 6/1/22"\ntagnames: 'drones, coal-mining, mmmp'
 author: junior_walk1337
 path: /notes/junior_walk1337/06-01-2022/racine-6-1-22.md
 nid: 31004
@@ -12,7 +11,7 @@ uid: 756318
 
 # Racine 6/1/22
 
-by [junior_walk1337](../profile/junior_walk1337) June 01, 2022 22:21
+by [junior_walk1337](../profile/junior_walk1337) | June 01, 2022 22:21
 
 June 01, 2022 22:21 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
 

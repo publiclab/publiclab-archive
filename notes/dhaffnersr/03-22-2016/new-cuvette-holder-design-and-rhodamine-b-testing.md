@@ -1,6 +1,5 @@
 ---
-title: 'New cuvette holder design and Rhodamine B testing'
-tagnames: 
+title: "New cuvette holder design and Rhodamine B testing"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/03-22-2016/new-cuvette-holder-design-and-rhodamine-b-testing.md
 nid: 12875
@@ -12,7 +11,7 @@ uid: 461120
 
 # New cuvette holder design and Rhodamine B testing
 
-by [dhaffnersr](../profile/dhaffnersr) March 22, 2016 15:38
+by [dhaffnersr](../profile/dhaffnersr) | March 22, 2016 15:38
 
 March 22, 2016 15:38 | Tags: 
 

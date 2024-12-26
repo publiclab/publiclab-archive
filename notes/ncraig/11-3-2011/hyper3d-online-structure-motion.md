@@ -1,6 +1,5 @@
 ---
-title: 'Hypr3D: Online Structure from Motion'
-tagnames: first-time-poster
+title: "Hypr3D: Online Structure from Motion"\ntagnames: 'first-time-poster'
 author: ncraig
 path: /notes/ncraig/11-3-2011/hyper3d-online-structure-motion.md
 nid: 540
@@ -12,7 +11,7 @@ uid: 15
 
 # Hypr3D: Online Structure from Motion
 
-by [ncraig](../profile/ncraig) November 03, 2011 17:37
+by [ncraig](../profile/ncraig) | November 03, 2011 17:37
 
 November 03, 2011 17:37 | Tags: [first-time-poster](../tag/first-time-poster)
 

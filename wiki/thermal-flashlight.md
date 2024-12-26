@@ -1,6 +1,5 @@
 ---
-title: 'Thermal Flashlight'
-tagnames: thermal-photography, arduino, thermal-flashlight, thermal, heat, method, parent:thermal-photography
+title: "Thermal Flashlight"\ntagnames: 'thermal-photography, arduino, thermal-flashlight, thermal, heat, method, parent:thermal-photography'
 author: warren
 path: /wiki/thermal-flashlight.md
 nid: 10098

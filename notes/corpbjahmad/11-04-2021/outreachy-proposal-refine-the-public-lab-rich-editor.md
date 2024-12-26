@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: Refine the public lab rich editor'
-tagnames: software, lat:0, lon:0, outreachy, first-time-poster, zoom:5, outreachy-2021, outreachy-winter-2021
+title: "Outreachy proposal: Refine the public lab rich editor"\ntagnames: 'software, lat:0, lon:0, outreachy, first-time-poster, zoom:5, outreachy-2021, outreachy-winter-2021'
 author: corpbjahmad
 path: /notes/corpbjahmad/11-04-2021/outreachy-proposal-refine-the-public-lab-rich-editor.md
 nid: 28077
@@ -12,7 +11,7 @@ uid: 777430
 
 # Outreachy proposal: Refine the public lab rich editor
 
-by [corpbjahmad](../profile/corpbjahmad) November 04, 2021 07:44
+by [corpbjahmad](../profile/corpbjahmad) | November 04, 2021 07:44
 
 November 04, 2021 07:44 | Tags: [software](../tag/software), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:5](../tag/zoom:5), [outreachy-2021](../tag/outreachy-2021), [outreachy-winter-2021](../tag/outreachy-winter-2021)
 
