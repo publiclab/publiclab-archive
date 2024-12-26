@@ -1,6 +1,5 @@
 ---
-title: 'Mapping Curriculum: Research Applications'
-tagnames: 
+title: "Mapping Curriculum: Research Applications"\ntagnames: ''
 author: gonzoearth
 path: /wiki/mapping-curriculum-research-applications.md
 nid: 398

@@ -1,6 +1,5 @@
 ---
-title: 'SOC proposal: Extend Leaflet Environmental Layers with new layer menu and layer addition workflow'
-tagnames: software, gsoc, soc, outreachy, response:17359, gsoc-2019, soc-2019, outreachy-2019, soc-2019-proposals, outreachy-2019-proposals, soc-2019-projects
+title: "SOC proposal: Extend Leaflet Environmental Layers with new layer menu and layer addition workflow"\ntagnames: 'software, gsoc, soc, outreachy, response:17359, gsoc-2019, soc-2019, outreachy-2019, soc-2019-proposals, outreachy-2019-proposals, soc-2019-projects'
 author: anan12
 path: /notes/anan12/04-01-2019/outreachy-proposal-extend-leaflet-environmental-layers-with-new-layer-menu-and-layer-addition-workflow.md
 nid: 18925
@@ -12,7 +11,7 @@ uid: 577881
 
 # SOC proposal: Extend Leaflet Environmental Layers with new layer menu and layer addition workflow
 
-by [anan12](../profile/anan12) April 01, 2019 14:48
+by [anan12](../profile/anan12) | April 01, 2019 14:48
 
 April 01, 2019 14:48 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [outreachy](../tag/outreachy), [response:17359](../tag/response:17359), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [outreachy-2019-proposals](../tag/outreachy-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 

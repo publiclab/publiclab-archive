@@ -1,6 +1,5 @@
 ---
-title: 'How long after a concerned pollution event should community members be attentive to air quality and/or water contamination concerns?'
-tagnames: contamination, air-quality, question:general, general, ammonia, water-pollution, fire-smoke, flame-retardant
+title: "How long after a concerned pollution event should community members be attentive to air quality and/or water contamination concerns?"\ntagnames: 'contamination, air-quality, question:general, general, ammonia, water-pollution, fire-smoke, flame-retardant'
 author: amocorro
 path: /notes/amocorro/03-02-2021/how-long-after-a-concerned-pollution-event-should-community-members-be-attentive-to-air-quality-concerns.md
 nid: 25828
@@ -10,7 +9,7 @@ uid: 700923
 
 # How long after a concerned pollution event should community members be attentive to air quality and/or water contamination concerns?
 
-by [amocorro](../profile/amocorro) March 02, 2021 21:23
+by [amocorro](../profile/amocorro) | March 02, 2021 21:23
 
 March 02, 2021 21:23 | Tags: [contamination](../tag/contamination), [air-quality](../tag/air-quality), [question:general](../tag/question:general), [general](../tag/general), [ammonia](../tag/ammonia), [water-pollution](../tag/water-pollution), [fire-smoke](../tag/fire-smoke), [flame-retardant](../tag/flame-retardant)
 

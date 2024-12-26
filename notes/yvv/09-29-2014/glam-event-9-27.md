@@ -1,6 +1,5 @@
 ---
-title: 'GLAM Event 9/27/14'
-tagnames: new-york-city, balloon-mapping, gowanus, brooklyn, mapping, glam, superfund, northeast, canal, altitude, conservancy, low
+title: "GLAM Event 9/27/14"\ntagnames: 'new-york-city, balloon-mapping, gowanus, brooklyn, mapping, glam, superfund, northeast, canal, altitude, conservancy, low'
 author: yvv
 path: /notes/yvv/09-29-2014/glam-event-9-27.md
 nid: 11199
@@ -12,7 +11,7 @@ uid: 427257
 
 # GLAM Event 9/27/14
 
-by [yvv](../profile/yvv) September 29, 2014 04:44
+by [yvv](../profile/yvv) | September 29, 2014 04:44
 
 September 29, 2014 04:44 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [mapping](../tag/mapping), [glam](../tag/glam), [superfund](../tag/superfund), [northeast](../tag/northeast), [canal](../tag/canal), [altitude](../tag/altitude), [conservancy](../tag/conservancy), [low](../tag/low)
 

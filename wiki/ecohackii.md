@@ -1,6 +1,5 @@
 ---
-title: 'EcoHackII'
-tagnames: balloon-mapping, air-column-monitor
+title: "EcoHackII"\ntagnames: 'balloon-mapping, air-column-monitor'
 author: liz
 path: /wiki/ecohackii.md
 nid: 811

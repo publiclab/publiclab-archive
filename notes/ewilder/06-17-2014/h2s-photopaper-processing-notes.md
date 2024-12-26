@@ -1,6 +1,5 @@
 ---
-title: 'H2S Photopaper Processing notes'
-tagnames: hydrogen, hydrogen-sulfide, h2s, sulfide, h2s-photopaper, replication:509
+title: "H2S Photopaper Processing notes"\ntagnames: 'hydrogen, hydrogen-sulfide, h2s, sulfide, h2s-photopaper, replication:509'
 author: ewilder
 path: /notes/ewilder/06-17-2014/h2s-photopaper-processing-notes.md
 nid: 10578
@@ -12,7 +11,7 @@ uid: 421152
 
 # H2S Photopaper Processing notes
 
-by [ewilder](../profile/ewilder) June 17, 2014 01:44
+by [ewilder](../profile/ewilder) | June 17, 2014 01:44
 
 June 17, 2014 01:44 | Tags: [hydrogen](../tag/hydrogen), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [sulfide](../tag/sulfide), [h2s-photopaper](../tag/h2s-photopaper), [replication:509](../tag/replication:509)
 

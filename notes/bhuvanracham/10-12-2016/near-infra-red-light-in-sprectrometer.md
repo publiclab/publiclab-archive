@@ -1,6 +1,5 @@
 ---
-title: 'Near Infra Red light in sprectrometer'
-tagnames: 
+title: "Near Infra Red light in sprectrometer"\ntagnames: ''
 author: bhuvanracham
 path: /notes/bhuvanracham/10-12-2016/near-infra-red-light-in-sprectrometer.md
 nid: 13551
@@ -10,7 +9,7 @@ uid: 493630
 
 # Near Infra Red light in sprectrometer
 
-by [bhuvanracham](../profile/bhuvanracham) October 12, 2016 00:14
+by [bhuvanracham](../profile/bhuvanracham) | October 12, 2016 00:14
 
 October 12, 2016 00:14 | Tags: 
 

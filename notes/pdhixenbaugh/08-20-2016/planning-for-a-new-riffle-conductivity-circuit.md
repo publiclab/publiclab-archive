@@ -1,6 +1,5 @@
 ---
-title: 'Planning for a new Riffle conductivity circuit'
-tagnames: conductivity, riffle
+title: "Planning for a new Riffle conductivity circuit"\ntagnames: 'conductivity, riffle'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-20-2016/planning-for-a-new-riffle-conductivity-circuit.md
 nid: 13374
@@ -12,7 +11,7 @@ uid: 459085
 
 # Planning for a new Riffle conductivity circuit
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) August 20, 2016 21:32
+by [pdhixenbaugh](../profile/pdhixenbaugh) | August 20, 2016 21:32
 
 August 20, 2016 21:32 | Tags: [conductivity](../tag/conductivity), [riffle](../tag/riffle)
 

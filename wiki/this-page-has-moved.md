@@ -1,6 +1,5 @@
 ---
-title: 'This page has moved'
-tagnames: 
+title: "This page has moved"\ntagnames: ''
 author: warren
 path: /wiki/this-page-has-moved.md
 nid: 557

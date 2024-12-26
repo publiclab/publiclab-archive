@@ -1,6 +1,5 @@
 ---
-title: 'Merry Mapping in New Orleans! '
-tagnames: events, mapping, event, neworleans, gulfcoast, event:rsvp, urbanwaters, date:12-13-2014, rsvp:mimibell
+title: "Merry Mapping in New Orleans! "\ntagnames: 'events, mapping, event, neworleans, gulfcoast, event:rsvp, urbanwaters, date:12-13-2014, rsvp:mimibell'
 author: stevie
 path: /notes/stevie/12-05-2014/merry-mapping-in-new-orleans.md
 nid: 11438
@@ -12,7 +11,7 @@ uid: 422561
 
 # Merry Mapping in New Orleans! 
 
-by [stevie](../profile/stevie) December 05, 2014 19:55
+by [stevie](../profile/stevie) | December 05, 2014 19:55
 
 December 05, 2014 19:55 | Tags: [events](../tag/events), [mapping](../tag/mapping), [event](../tag/event), [neworleans](../tag/neworleans), [gulfcoast](../tag/gulfcoast), [event:rsvp](../tag/event:rsvp), [urbanwaters](../tag/urbanwaters), [date:12-13-2014](../tag/date:12-13-2014), [rsvp:mimibell](../tag/rsvp:mimibell)
 

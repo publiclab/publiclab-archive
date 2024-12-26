@@ -1,6 +1,5 @@
 ---
-title: 'Using ICA for spectral analysis'
-tagnames: spectrography, first-time-poster
+title: "Using ICA for spectral analysis"\ntagnames: 'spectrography, first-time-poster'
 author: nathanathan
 path: /notes/nathanathan/11-19-2013/using-ica-for-spectral-analysis.md
 nid: 9809
@@ -12,7 +11,7 @@ uid: 365600
 
 # Using ICA for spectral analysis
 
-by [nathanathan](../profile/nathanathan) November 19, 2013 10:03
+by [nathanathan](../profile/nathanathan) | November 19, 2013 10:03
 
 November 19, 2013 10:03 | Tags: [spectrography](../tag/spectrography), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Workbench updates: profile page fix & sample row selection'
-tagnames: spectrometer, spectralworkbench
+title: "Spectral Workbench updates: profile page fix & sample row selection"\ntagnames: 'spectrometer, spectralworkbench'
 author: warren
 path: /notes/warren/9-18-2012/spectral-workbench-updates-profile-page-fix-sample-row-selection.md
 nid: 3864
@@ -12,7 +11,7 @@ uid: 1
 
 # Spectral Workbench updates: profile page fix & sample row selection
 
-by [warren](../profile/warren) September 18, 2012 12:40
+by [warren](../profile/warren) | September 18, 2012 12:40
 
 September 18, 2012 12:40 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 

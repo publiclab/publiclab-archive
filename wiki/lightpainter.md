@@ -1,6 +1,5 @@
 ---
-title: 'lightpainter'
-tagnames: redirect:light-painter
+title: "lightpainter"\ntagnames: 'redirect:light-painter'
 author: warren
 path: /wiki/lightpainter.md
 nid: 19082

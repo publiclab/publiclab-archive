@@ -1,6 +1,5 @@
 ---
-title: 'RV SensorShip V '
-tagnames: arduino, sensors, blog, wi-fi, hardware, data-logging, bme280, tsl2561, activity:data-logging, mma8451, vl53lox, esp8266, blynk, iot, data-monitoring, mlx90615
+title: "RV SensorShip V "\ntagnames: 'arduino, sensors, blog, wi-fi, hardware, data-logging, bme280, tsl2561, activity:data-logging, mma8451, vl53lox, esp8266, blynk, iot, data-monitoring, mlx90615'
 author: cfastie
 path: /notes/cfastie/01-18-2019/rv-sensorship-v.md
 nid: 18142
@@ -12,7 +11,7 @@ uid: 554
 
 # RV SensorShip V 
 
-by [cfastie](../profile/cfastie) January 18, 2019 21:41
+by [cfastie](../profile/cfastie) | January 18, 2019 21:41
 
 January 18, 2019 21:41 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [blog](../tag/blog), [wi-fi](../tag/wi-fi), [hardware](../tag/hardware), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [tsl2561](../tag/tsl2561), [activity:data-logging](../tag/activity:data-logging), [mma8451](../tag/mma8451), [vl53lox](../tag/vl53lox), [esp8266](../tag/esp8266), [blynk](../tag/blynk), [iot](../tag/iot), [data-monitoring](../tag/data-monitoring), [mlx90615](../tag/mlx90615)
 

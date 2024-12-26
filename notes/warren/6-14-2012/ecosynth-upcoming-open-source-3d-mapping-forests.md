@@ -1,6 +1,5 @@
 ---
-title: 'Ecosynth: upcoming open source 3d mapping for forests'
-tagnames: 3d, uav, forest, pointcloud, bundleadjustment, sfm, structure-from-motion
+title: "Ecosynth: upcoming open source 3d mapping for forests"\ntagnames: '3d, uav, forest, pointcloud, bundleadjustment, sfm, structure-from-motion'
 author: warren
 path: /notes/warren/6-14-2012/ecosynth-upcoming-open-source-3d-mapping-forests.md
 nid: 2491
@@ -12,7 +11,7 @@ uid: 1
 
 # Ecosynth: upcoming open source 3d mapping for forests
 
-by [warren](../profile/warren) June 14, 2012 17:08
+by [warren](../profile/warren) | June 14, 2012 17:08
 
 June 14, 2012 17:08 | Tags: [3d](../tag/3d), [uav](../tag/uav), [forest](../tag/forest), [pointcloud](../tag/pointcloud), [bundleadjustment](../tag/bundleadjustment), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion)
 

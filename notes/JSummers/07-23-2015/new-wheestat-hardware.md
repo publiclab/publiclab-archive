@@ -1,6 +1,5 @@
 ---
-title: 'New WheeStat Hardware'
-tagnames: wheestat
+title: "New WheeStat Hardware"\ntagnames: 'wheestat'
 author: JSummers
 path: /notes/JSummers/07-23-2015/new-wheestat-hardware.md
 nid: 12096
@@ -12,7 +11,7 @@ uid: 304279
 
 # New WheeStat Hardware
 
-by [JSummers](../profile/JSummers) July 23, 2015 21:53
+by [JSummers](../profile/JSummers) | July 23, 2015 21:53
 
 July 23, 2015 21:53 | Tags: [wheestat](../tag/wheestat)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Software overview'
-tagnames: mapknitter, documentation, software, infragram, web, leaflet, code, parent:developers, wwg, cloud, soc, image-sequencer, code-ecosystem, content-management, technology-design
+title: "Software overview"\ntagnames: 'mapknitter, documentation, software, infragram, web, leaflet, code, parent:developers, wwg, cloud, soc, image-sequencer, code-ecosystem, content-management, technology-design'
 author: warren
 path: /wiki/software-overview.md
 nid: 25104

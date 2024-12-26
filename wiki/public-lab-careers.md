@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Careers'
-tagnames: staff, jobs, fellowships, careers
+title: "Public Lab Careers"\ntagnames: 'staff, jobs, fellowships, careers'
 author: thewrightjess
 path: /wiki/public-lab-careers.md
 nid: 27206

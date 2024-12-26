@@ -1,6 +1,5 @@
 ---
-title: 'A Reflection on Sensor Journalism'
-tagnames: water-sensing, conductivity, coqui, sensor-journalism
+title: "A Reflection on Sensor Journalism"\ntagnames: 'water-sensing, conductivity, coqui, sensor-journalism'
 author: madelinebilis
 path: /notes/madelinebilis/10-06-2014/a-reflection-on-sensor-journalism.md
 nid: 11244
@@ -12,7 +11,7 @@ uid: 428057
 
 # A Reflection on Sensor Journalism
 
-by [madelinebilis](../profile/madelinebilis) October 06, 2014 18:57
+by [madelinebilis](../profile/madelinebilis) | October 06, 2014 18:57
 
 October 06, 2014 18:57 | Tags: [water-sensing](../tag/water-sensing), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism)
 

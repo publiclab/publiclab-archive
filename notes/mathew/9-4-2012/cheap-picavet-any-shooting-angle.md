@@ -1,6 +1,5 @@
 ---
-title: 'a cheap picavet for any shooting angle'
-tagnames: balloon-mapping, kite-mapping, picavet, photo-rig, activity:photo-rig
+title: "a cheap picavet for any shooting angle"\ntagnames: 'balloon-mapping, kite-mapping, picavet, photo-rig, activity:photo-rig'
 author: mathew
 path: /notes/mathew/9-4-2012/cheap-picavet-any-shooting-angle.md
 nid: 3635
@@ -12,7 +11,7 @@ uid: 4
 
 # a cheap picavet for any shooting angle
 
-by [mathew](../profile/mathew) September 05, 2012 00:26
+by [mathew](../profile/mathew) | September 05, 2012 00:26
 
 September 05, 2012 00:26 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
 

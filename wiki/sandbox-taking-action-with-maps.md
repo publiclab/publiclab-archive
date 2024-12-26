@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-taking-action-with-maps'
-tagnames: 
+title: "sandbox-taking-action-with-maps"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-taking-action-with-maps.md
 nid: 26637

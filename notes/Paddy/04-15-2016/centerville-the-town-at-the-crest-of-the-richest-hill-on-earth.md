@@ -1,6 +1,5 @@
 ---
-title: 'Centerville, the town at the crest of the Richest Hill on Earth'
-tagnames: first-time-poster
+title: "Centerville, the town at the crest of the Richest Hill on Earth"\ntagnames: 'first-time-poster'
 author: Paddy
 path: /notes/Paddy/04-15-2016/centerville-the-town-at-the-crest-of-the-richest-hill-on-earth.md
 nid: 12984
@@ -12,7 +11,7 @@ uid: 451390
 
 # Centerville, the town at the crest of the Richest Hill on Earth
 
-by [Paddy](../profile/Paddy) April 15, 2016 14:55
+by [Paddy](../profile/Paddy) | April 15, 2016 14:55
 
 April 15, 2016 14:55 | Tags: [first-time-poster](../tag/first-time-poster)
 

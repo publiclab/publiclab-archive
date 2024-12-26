@@ -1,6 +1,5 @@
 ---
-title: 'Introducing a new Dashboard for PublicLab.org'
-tagnames: website, design, code, barnstar:basic, wwg, dashboard, ui, outreachy
+title: "Introducing a new Dashboard for PublicLab.org"\ntagnames: 'website, design, code, barnstar:basic, wwg, dashboard, ui, outreachy'
 author: warren
 path: /notes/warren/08-17-2021/introducing-a-new-dashboard-for-publiclab-org.md
 nid: 27575
@@ -12,7 +11,7 @@ uid: 1
 
 # Introducing a new Dashboard for PublicLab.org
 
-by [warren](../profile/warren) August 17, 2021 19:05
+by [warren](../profile/warren) | August 17, 2021 19:05
 
 August 17, 2021 19:05 | Tags: [website](../tag/website), [design](../tag/design), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [wwg](../tag/wwg), [dashboard](../tag/dashboard), [ui](../tag/ui), [outreachy](../tag/outreachy)
 

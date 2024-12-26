@@ -1,6 +1,5 @@
 ---
-title: 'DiezelSun_(culture)'
-tagnames: diezelsun
+title: "DiezelSun_(culture)"\ntagnames: 'diezelsun'
 author: Samel
 path: /wiki/diezelsun_-culture.md
 nid: 12106

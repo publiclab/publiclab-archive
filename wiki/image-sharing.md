@@ -1,6 +1,5 @@
 ---
-title: 'image-sharing'
-tagnames: redirect:14184
+title: "image-sharing"\ntagnames: 'redirect:14184'
 author: warren
 path: /wiki/image-sharing.md
 nid: 14783

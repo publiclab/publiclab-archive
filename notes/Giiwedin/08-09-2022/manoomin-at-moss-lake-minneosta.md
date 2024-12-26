@@ -1,6 +1,5 @@
 ---
-title: 'Manoomin at Moss Lake, Minneosta'
-tagnames: minnesota, botany, zoom:11, wild-rice, mn-land-manoomin-protection, manoomin, wildrice, aquatic-species, mn, lat:47.316482, lon:-94.575805
+title: "Manoomin at Moss Lake, Minneosta"\ntagnames: 'minnesota, botany, zoom:11, wild-rice, mn-land-manoomin-protection, manoomin, wildrice, aquatic-species, mn, lat:47.316482, lon:-94.575805'
 author: Giiwedin
 path: /notes/Giiwedin/08-09-2022/manoomin-at-moss-lake-minneosta.md
 nid: 34845
@@ -12,7 +11,7 @@ uid: 799642
 
 # Manoomin at Moss Lake, Minneosta
 
-by [Giiwedin](../profile/Giiwedin) August 09, 2022 04:56
+by [Giiwedin](../profile/Giiwedin) | August 09, 2022 04:56
 
 August 09, 2022 04:56 | Tags: [minnesota](../tag/minnesota), [botany](../tag/botany), [zoom:11](../tag/zoom:11), [wild-rice](../tag/wild-rice), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [manoomin](../tag/manoomin), [wildrice](../tag/wildrice), [aquatic-species](../tag/aquatic-species), [mn](../tag/mn), [lat:47.316482](../tag/lat:47.316482), [lon:-94.575805](../tag/lon:-94.575805)
 

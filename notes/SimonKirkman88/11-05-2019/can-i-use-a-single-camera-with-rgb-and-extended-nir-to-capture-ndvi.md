@@ -1,6 +1,5 @@
 ---
-title: 'Can I use a single camera with RGB and extended NIR to capture NDVI?'
-tagnames: question:general, general, first-time-poster
+title: "Can I use a single camera with RGB and extended NIR to capture NDVI?"\ntagnames: 'question:general, general, first-time-poster'
 author: SimonKirkman88
 path: /notes/SimonKirkman88/11-05-2019/can-i-use-a-single-camera-with-rgb-and-extended-nir-to-capture-ndvi.md
 nid: 21404
@@ -10,7 +9,7 @@ uid: 634970
 
 # Can I use a single camera with RGB and extended NIR to capture NDVI?
 
-by [SimonKirkman88](../profile/SimonKirkman88) November 05, 2019 22:04
+by [SimonKirkman88](../profile/SimonKirkman88) | November 05, 2019 22:04
 
 November 05, 2019 22:04 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 

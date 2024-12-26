@@ -1,6 +1,5 @@
 ---
-title: 'Effects of Solvents on Fluorescence of Biological Dyes'
-tagnames: 
+title: "Effects of Solvents on Fluorescence of Biological Dyes"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-27-2016/effects-of-solvents-on-fluorescence-of-biological-dyes.md
 nid: 13401
@@ -12,7 +11,7 @@ uid: 461120
 
 # Effects of Solvents on Fluorescence of Biological Dyes
 
-by [dhaffnersr](../profile/dhaffnersr) August 27, 2016 06:57
+by [dhaffnersr](../profile/dhaffnersr) | August 27, 2016 06:57
 
 August 27, 2016 06:57 | Tags: 
 

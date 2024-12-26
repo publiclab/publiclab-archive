@@ -1,6 +1,5 @@
 ---
-title: 'Github guide for Open Source Contributions'
-tagnames: open-source, software, developers, code, coding, barnstar:basic, github, activity:software, git, activity:developers, activity:coding
+title: "Github guide for Open Source Contributions"\ntagnames: 'open-source, software, developers, code, coding, barnstar:basic, github, activity:software, git, activity:developers, activity:coding'
 author: stefannibrasil
 path: /notes/stefannibrasil/04-20-2018/github-guide-for-open-source-contributions.md
 nid: 16176
@@ -10,7 +9,7 @@ uid: 525300
 
 # Github guide for Open Source Contributions
 
-by [stefannibrasil](../profile/stefannibrasil) April 20, 2018 04:15
+by [stefannibrasil](../profile/stefannibrasil) | April 20, 2018 04:15
 
 April 20, 2018 04:15 | Tags: [open-source](../tag/open-source), [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [coding](../tag/coding), [barnstar:basic](../tag/barnstar:basic), [github](../tag/github), [activity:software](../tag/activity:software), [git](../tag/git), [activity:developers](../tag/activity:developers), [activity:coding](../tag/activity:coding)
 

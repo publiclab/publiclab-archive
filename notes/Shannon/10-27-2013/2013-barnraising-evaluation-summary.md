@@ -1,6 +1,5 @@
 ---
-title: '2013 Barnraising evaluation summary'
-tagnames: community, barnraising, evaluation
+title: "2013 Barnraising evaluation summary"\ntagnames: 'community, barnraising, evaluation'
 author: Shannon
 path: /notes/Shannon/10-27-2013/2013-barnraising-evaluation-summary.md
 nid: 9649
@@ -12,7 +11,7 @@ uid: 9
 
 # 2013 Barnraising evaluation summary
 
-by [Shannon](../profile/Shannon) October 27, 2013 17:42
+by [Shannon](../profile/Shannon) | October 27, 2013 17:42
 
 October 27, 2013 17:42 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [evaluation](../tag/evaluation)
 

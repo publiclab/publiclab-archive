@@ -1,6 +1,5 @@
 ---
-title: 'Toward calibrating H2S sensors.'
-tagnames: hydrogen-sulfide-sensing, calibration, hydrogen-sulfide, h2s, h2s-calibration
+title: "Toward calibrating H2S sensors."\ntagnames: 'hydrogen-sulfide-sensing, calibration, hydrogen-sulfide, h2s, h2s-calibration'
 author: JSummers
 path: /notes/JSummers/11-20-2014/toward-calibrating-h2s-sensors.md
 nid: 11372
@@ -12,7 +11,7 @@ uid: 304279
 
 # Toward calibrating H2S sensors.
 
-by [JSummers](../profile/JSummers) November 20, 2014 22:18
+by [JSummers](../profile/JSummers) | November 20, 2014 22:18
 
 November 20, 2014 22:18 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [calibration](../tag/calibration), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-calibration](../tag/h2s-calibration)
 

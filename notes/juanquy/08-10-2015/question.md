@@ -1,6 +1,5 @@
 ---
-title: 'Question: '
-tagnames: question:near-infrared-camera
+title: "Question: "\ntagnames: 'question:near-infrared-camera'
 author: juanquy
 path: /notes/juanquy/08-10-2015/question.md
 nid: 12135
@@ -10,7 +9,7 @@ uid: 420458
 
 # Question: 
 
-by [juanquy](../profile/juanquy) August 10, 2015 22:42
+by [juanquy](../profile/juanquy) | August 10, 2015 22:42
 
 August 10, 2015 22:42 | Tags: [question:near-infrared-camera](../tag/question:near-infrared-camera)
 

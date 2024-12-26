@@ -1,6 +1,5 @@
 ---
-title: 'Using Transifex's Translating Platform'
-tagnames: internationalization, translation, transifex, first-time-poster
+title: "Using Transifex's Translating Platform"\ntagnames: 'internationalization, translation, transifex, first-time-poster'
 author: gegeneo
 path: /notes/gegeneo/01-02-2017/using-transifex-s-translating-platform.md
 nid: 13831
@@ -12,7 +11,7 @@ uid: 501144
 
 # Using Transifex's Translating Platform
 
-by [gegeneo](../profile/gegeneo) January 02, 2017 20:49
+by [gegeneo](../profile/gegeneo) | January 02, 2017 20:49
 
 January 02, 2017 20:49 | Tags: [internationalization](../tag/internationalization), [translation](../tag/translation), [transifex](../tag/transifex), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Gowanus water absorption spectrum'
-tagnames: new-york-city, spectrometer, gowanus, absorption
+title: "Gowanus water absorption spectrum"\ntagnames: 'new-york-city, spectrometer, gowanus, absorption'
 author: warren
 path: /notes/warren/7-29-2011/gowanus-water-absorption-spectrum.md
 nid: 419
@@ -12,7 +11,7 @@ uid: 1
 
 # Gowanus water absorption spectrum
 
-by [warren](../profile/warren) July 29, 2011 15:50
+by [warren](../profile/warren) | July 29, 2011 15:50
 
 July 29, 2011 15:50 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [gowanus](../tag/gowanus), [absorption](../tag/absorption)
 

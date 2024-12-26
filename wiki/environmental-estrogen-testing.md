@@ -1,6 +1,5 @@
 ---
-title: 'Home Testing for Endocrine Disruptors'
-tagnames: environmental-estrogen-testing, water-quality, tool, endocrine-disruptors, list:plots-waterquality, industry, method, chemicals, lat:1.323155, lon:103.944815
+title: "Home Testing for Endocrine Disruptors"\ntagnames: 'environmental-estrogen-testing, water-quality, tool, endocrine-disruptors, list:plots-waterquality, industry, method, chemicals, lat:1.323155, lon:103.944815'
 author: sara
 path: /wiki/environmental-estrogen-testing.md
 nid: 634

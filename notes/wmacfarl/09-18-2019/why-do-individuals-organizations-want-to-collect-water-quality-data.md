@@ -1,6 +1,5 @@
 ---
-title: 'Why do individuals/organizations want to collect water quality data?'
-tagnames: water-quality, water, data-collection, advocacy, question:water-quality, question:general, question:data-collection, question:advocacy, question:water, oil-and-gas-water-trio, question:oil-and-gas-water-trio, oil-and-gas-water-quality, question:oil-and-gas-water-quality, simple-water-sensor-platform, question:simple-water-sensor-platform
+title: "Why do individuals/organizations want to collect water quality data?"\ntagnames: 'water-quality, water, data-collection, advocacy, question:water-quality, question:general, question:data-collection, question:advocacy, question:water, oil-and-gas-water-trio, question:oil-and-gas-water-trio, oil-and-gas-water-quality, question:oil-and-gas-water-quality, simple-water-sensor-platform, question:simple-water-sensor-platform'
 author: wmacfarl
 path: /notes/wmacfarl/09-18-2019/why-do-individuals-organizations-want-to-collect-water-quality-data.md
 nid: 20917
@@ -10,7 +9,7 @@ uid: 424597
 
 # Why do individuals/organizations want to collect water quality data?
 
-by [wmacfarl](../profile/wmacfarl) September 18, 2019 19:45
+by [wmacfarl](../profile/wmacfarl) | September 18, 2019 19:45
 
 September 18, 2019 19:45 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [data-collection](../tag/data-collection), [advocacy](../tag/advocacy), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [question:data-collection](../tag/question:data-collection), [question:advocacy](../tag/question:advocacy), [question:water](../tag/question:water), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](../tag/question:oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [question:oil-and-gas-water-quality](../tag/question:oil-and-gas-water-quality), [simple-water-sensor-platform](../tag/simple-water-sensor-platform), [question:simple-water-sensor-platform](../tag/question:simple-water-sensor-platform)
 

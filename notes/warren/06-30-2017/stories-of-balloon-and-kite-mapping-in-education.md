@@ -1,6 +1,5 @@
 ---
-title: 'Stories of balloon and kite mapping in education'
-tagnames: balloon-mapping, kite-mapping, education, parts-and-crafts, blog, makerspaces, civiclab, media-lab, govlab, cusp
+title: "Stories of balloon and kite mapping in education"\ntagnames: 'balloon-mapping, kite-mapping, education, parts-and-crafts, blog, makerspaces, civiclab, media-lab, govlab, cusp'
 author: warren
 path: /notes/warren/06-30-2017/stories-of-balloon-and-kite-mapping-in-education.md
 nid: 14597
@@ -12,7 +11,7 @@ uid: 1
 
 # Stories of balloon and kite mapping in education
 
-by [warren](../profile/warren) June 30, 2017 21:54
+by [warren](../profile/warren) | June 30, 2017 21:54
 
 June 30, 2017 21:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [education](../tag/education), [parts-and-crafts](../tag/parts-and-crafts), [blog](../tag/blog), [makerspaces](../tag/makerspaces), [civiclab](../tag/civiclab), [media-lab](../tag/media-lab), [govlab](../tag/govlab), [cusp](../tag/cusp)
 

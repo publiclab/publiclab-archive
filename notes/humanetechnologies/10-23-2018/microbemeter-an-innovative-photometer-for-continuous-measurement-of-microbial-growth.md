@@ -1,6 +1,5 @@
 ---
-title: 'MicrobeMeter - an innovative photometer for continuous measurement of microbial growth'
-tagnames: spectrometer, microbes, sensors, turbidity, optical-sensor, biology, photometer, hardware, optical-spectroscopy, response:6649, response:15672, optical-density
+title: "MicrobeMeter - an innovative photometer for continuous measurement of microbial growth"\ntagnames: 'spectrometer, microbes, sensors, turbidity, optical-sensor, biology, photometer, hardware, optical-spectroscopy, response:6649, response:15672, optical-density'
 author: humanetechnologies
 path: /notes/humanetechnologies/10-23-2018/microbemeter-an-innovative-photometer-for-continuous-measurement-of-microbial-growth.md
 nid: 17363
@@ -12,7 +11,7 @@ uid: 555121
 
 # MicrobeMeter - an innovative photometer for continuous measurement of microbial growth
 
-by [humanetechnologies](../profile/humanetechnologies) October 23, 2018 21:52
+by [humanetechnologies](../profile/humanetechnologies) | October 23, 2018 21:52
 
 October 23, 2018 21:52 | Tags: [spectrometer](../tag/spectrometer), [microbes](../tag/microbes), [sensors](../tag/sensors), [turbidity](../tag/turbidity), [optical-sensor](../tag/optical-sensor), [biology](../tag/biology), [photometer](../tag/photometer), [hardware](../tag/hardware), [optical-spectroscopy](../tag/optical-spectroscopy), [response:6649](../tag/response:6649), [response:15672](../tag/response:15672), [optical-density](../tag/optical-density)
 

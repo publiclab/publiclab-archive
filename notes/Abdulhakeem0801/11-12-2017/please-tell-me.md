@@ -1,6 +1,5 @@
 ---
-title: 'What software can i use to view Wheestat data?'
-tagnames: wheestat, question:general, question:wheestat
+title: "What software can i use to view Wheestat data?"\ntagnames: 'wheestat, question:general, question:wheestat'
 author: Abdulhakeem0801
 path: /notes/Abdulhakeem0801/11-12-2017/please-tell-me.md
 nid: 15176
@@ -10,7 +9,7 @@ uid: 518115
 
 # What software can i use to view Wheestat data?
 
-by [Abdulhakeem0801](../profile/Abdulhakeem0801) November 12, 2017 09:20
+by [Abdulhakeem0801](../profile/Abdulhakeem0801) | November 12, 2017 09:20
 
 November 12, 2017 09:20 | Tags: [wheestat](../tag/wheestat), [question:general](../tag/question:general), [question:wheestat](../tag/question:wheestat)
 

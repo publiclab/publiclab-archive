@@ -1,6 +1,5 @@
 ---
-title: 'H2S retrieval from Bayou Sauvage'
-tagnames: hydrogen-sulfide-sensing, field-test
+title: "H2S retrieval from Bayou Sauvage"\ntagnames: 'hydrogen-sulfide-sensing, field-test'
 author: eustatic
 path: /6-28-2012/h2s-retrieval-bayou-sauvage.md
 nid: 2663
@@ -12,7 +11,7 @@ uid: 379
 
 # H2S retrieval from Bayou Sauvage
 
-by [eustatic](../profile/eustatic) June 28, 2012 17:38
+by [eustatic](../profile/eustatic) | June 28, 2012 17:38
 
 June 28, 2012 17:38 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [field-test](../tag/field-test)
 

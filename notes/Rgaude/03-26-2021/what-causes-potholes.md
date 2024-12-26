@@ -1,6 +1,5 @@
 ---
-title: 'What causes potholes?'
-tagnames: laplace, louisiana, soil, new-orleans, question:general, general, potholes, first-time-poster, question:soil
+title: "What causes potholes?"\ntagnames: 'laplace, louisiana, soil, new-orleans, question:general, general, potholes, first-time-poster, question:soil'
 author: Rgaude
 path: /notes/Rgaude/03-26-2021/what-causes-potholes.md
 nid: 26039
@@ -10,7 +9,7 @@ uid: 749812
 
 # What causes potholes?
 
-by [Rgaude](../profile/Rgaude) March 26, 2021 15:11
+by [Rgaude](../profile/Rgaude) | March 26, 2021 15:11
 
 March 26, 2021 15:11 | Tags: [laplace](../tag/laplace), [louisiana](../tag/louisiana), [soil](../tag/soil), [new-orleans](../tag/new-orleans), [question:general](../tag/question:general), [general](../tag/general), [potholes](../tag/potholes), [first-time-poster](../tag/first-time-poster), [question:soil](../tag/question:soil)
 

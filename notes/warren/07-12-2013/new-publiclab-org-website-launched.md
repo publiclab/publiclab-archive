@@ -1,6 +1,5 @@
 ---
-title: 'New PublicLab.org website launched'
-tagnames: website, plots2, design, ui
+title: "New PublicLab.org website launched"\ntagnames: 'website, plots2, design, ui'
 author: warren
 path: /notes/warren/07-12-2013/new-publiclab-org-website-launched.md
 nid: 8855
@@ -12,7 +11,7 @@ uid: 1
 
 # New PublicLab.org website launched
 
-by [warren](../profile/warren) July 12, 2013 00:56
+by [warren](../profile/warren) | July 12, 2013 00:56
 
 July 12, 2013 00:56 | Tags: [website](../tag/website), [plots2](../tag/plots2), [design](../tag/design), [ui](../tag/ui)
 

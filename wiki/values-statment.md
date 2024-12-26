@@ -1,6 +1,5 @@
 ---
-title: 'Values statment'
-tagnames: redirect:values-statement
+title: "Values statment"\ntagnames: 'redirect:values-statement'
 author: cindy_excites
 path: /wiki/values-statment.md
 nid: 9407

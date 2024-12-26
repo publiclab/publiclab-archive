@@ -1,6 +1,5 @@
 ---
-title: 'How do you write and post in the public lab community? Asking for our developers!'
-tagnames: website, question:website, general
+title: "How do you write and post in the public lab community? Asking for our developers!"\ntagnames: 'website, question:website, general'
 author: emash
 path: /notes/emash/06-01-2020/how-do-you-write-and-post-in-the-public-lab-community-asking-for-our-developers.md
 nid: 23753
@@ -10,7 +9,7 @@ uid: 442760
 
 # How do you write and post in the public lab community? Asking for our developers!
 
-by [emash](../profile/emash) June 01, 2020 16:58
+by [emash](../profile/emash) | June 01, 2020 16:58
 
 June 01, 2020 16:58 | Tags: [website](../tag/website), [question:website](../tag/question:website), [general](../tag/general)
 

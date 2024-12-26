@@ -1,6 +1,5 @@
 ---
-title: 'Any Help ! Fracking Project'
-tagnames: spectrometer, fracking, request
+title: "Any Help ! Fracking Project"\ntagnames: 'spectrometer, fracking, request'
 author: RachelFinan23
 path: /notes/RachelFinan23/10-22-2013/any-help-fracking-project.md
 nid: 9520
@@ -10,7 +9,7 @@ uid: 302350
 
 # Any Help ! Fracking Project
 
-by [RachelFinan23](../profile/RachelFinan23) October 22, 2013 10:52
+by [RachelFinan23](../profile/RachelFinan23) | October 22, 2013 10:52
 
 October 22, 2013 10:52 | Tags: [spectrometer](../tag/spectrometer), [fracking](../tag/fracking), [request](../tag/request)
 

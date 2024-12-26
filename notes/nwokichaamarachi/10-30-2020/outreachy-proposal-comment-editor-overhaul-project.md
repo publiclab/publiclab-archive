@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: Comment Editor Overhaul Project'
-tagnames: software, first-time-poster, zoom:6, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687, lat:8.885071, lon:7.185058
+title: "Outreachy proposal: Comment Editor Overhaul Project"\ntagnames: 'software, first-time-poster, zoom:6, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687, lat:8.885071, lon:7.185058'
 author: nwokichaamarachi
 path: /notes/nwokichaamarachi/10-30-2020/outreachy-proposal-comment-editor-overhaul-project.md
 nid: 24875
@@ -10,7 +9,7 @@ uid: 727923
 
 # Outreachy proposal: Comment Editor Overhaul Project
 
-by [nwokichaamarachi](../profile/nwokichaamarachi) October 30, 2020 12:51
+by [nwokichaamarachi](../profile/nwokichaamarachi) | October 30, 2020 12:51
 
 October 30, 2020 12:51 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687), [lat:8.885071](../tag/lat:8.885071), [lon:7.185058](../tag/lon:7.185058)
 

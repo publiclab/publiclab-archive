@@ -1,6 +1,5 @@
 ---
-title: 'June 2 Science Hack Day NYC: balloon mapping workshop'
-tagnames: new-york-city, balloon-mapping, event, replication:14022
+title: "June 2 Science Hack Day NYC: balloon mapping workshop"\ntagnames: 'new-york-city, balloon-mapping, event, replication:14022'
 author: liz
 path: /notes/liz/05-13-2013/science-hack-day-nyc-balloon-mapping-workshop.md
 nid: 7491
@@ -12,7 +11,7 @@ uid: 7
 
 # June 2 Science Hack Day NYC: balloon mapping workshop
 
-by [liz](../profile/liz) May 13, 2013 14:39
+by [liz](../profile/liz) | May 13, 2013 14:39
 
 May 13, 2013 14:39 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [replication:14022](../tag/replication:14022)
 

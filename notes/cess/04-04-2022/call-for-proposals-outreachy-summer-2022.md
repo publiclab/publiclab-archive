@@ -1,6 +1,5 @@
 ---
-title: 'Call for Proposals: Outreachy Summer 2022'
-tagnames: with:warren, with:liz, seeks:responses, soc, outreachy, lat:-1, call-for-proposals, lon:36, zoom:6, outreachy-2022, with:mathildaudufo
+title: "Call for Proposals: Outreachy Summer 2022"\ntagnames: 'with:warren, with:liz, seeks:responses, soc, outreachy, lat:-1, call-for-proposals, lon:36, zoom:6, outreachy-2022, with:mathildaudufo'
 author: cess
 path: /notes/cess/04-04-2022/call-for-proposals-outreachy-summer-2022.md
 nid: 30248
@@ -12,7 +11,7 @@ uid: 525958
 
 # Call for Proposals: Outreachy Summer 2022
 
-by [cess](../profile/cess) April 04, 2022 04:40
+by [cess](../profile/cess) | April 04, 2022 04:40
 
 April 04, 2022 04:40 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [seeks:responses](../tag/seeks:responses), [soc](../tag/soc), [outreachy](../tag/outreachy), [lat:-1](../tag/lat:-1), [call-for-proposals](../tag/call-for-proposals), [lon:36](../tag/lon:36), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [with:mathildaudufo](../tag/with:mathildaudufo)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Infragram.org web-based NDVI processor launched'
-tagnames: near-infrared-camera, infragram
+title: "Infragram.org web-based NDVI processor launched"\ntagnames: 'near-infrared-camera, infragram'
 author: warren
 path: /notes/warren/08-06-2013/infragram-org-web-based-ndvi-processor-launched.md
 nid: 8972
@@ -12,7 +11,7 @@ uid: 1
 
 # Infragram.org web-based NDVI processor launched
 
-by [warren](../profile/warren) August 06, 2013 21:48
+by [warren](../profile/warren) | August 06, 2013 21:48
 
 August 06, 2013 21:48 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram)
 

@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-sitemap'
-tagnames: community, sitemap
+title: "sandbox-sitemap"\ntagnames: 'community, sitemap'
 author: liz
 path: /wiki/sandbox-sitemap.md
 nid: 17204

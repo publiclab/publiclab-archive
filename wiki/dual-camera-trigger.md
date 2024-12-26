@@ -1,6 +1,5 @@
 ---
-title: 'dual camera trigger'
-tagnames: balloon-mapping, kite-mapping, triggering
+title: "dual camera trigger"\ntagnames: 'balloon-mapping, kite-mapping, triggering'
 author: mathew
 path: /wiki/dual-camera-trigger.md
 nid: 1923

@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Community Newsletter February 7, 2014'
-tagnames: newsletter, newsletter-archive
+title: "Public Lab Community Newsletter February 7, 2014"\ntagnames: 'newsletter, newsletter-archive'
 author: warren
 path: /notes/warren/02-07-2014/public-lab-community-newsletter-february-7-2014.md
 nid: 10019
@@ -12,7 +11,7 @@ uid: 1
 
 # Public Lab Community Newsletter February 7, 2014
 
-by [warren](../profile/warren) February 07, 2014 22:48
+by [warren](../profile/warren) | February 07, 2014 22:48
 
 February 07, 2014 22:48 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 

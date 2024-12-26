@@ -1,6 +1,5 @@
 ---
-title: 'Community Microscope Initial Evaluation'
-tagnames: calibration, webcam, raspberry-pi, camera, gsoc, microscope, pi-camera, resolution, soc, gsoc-2018, soc-2018, community-microscope, pi-microscope, series:community-microscope-tests, community-microscope-prototyping
+title: "Community Microscope Initial Evaluation"\ntagnames: 'calibration, webcam, raspberry-pi, camera, gsoc, microscope, pi-camera, resolution, soc, gsoc-2018, soc-2018, community-microscope, pi-microscope, series:community-microscope-tests, community-microscope-prototyping'
 author: MaggPi
 path: /notes/MaggPi/05-21-2018/community-microscope-resolution-test.md
 nid: 16369
@@ -12,7 +11,7 @@ uid: 501996
 
 # Community Microscope Initial Evaluation
 
-by [MaggPi](../profile/MaggPi) May 21, 2018 03:09
+by [MaggPi](../profile/MaggPi) | May 21, 2018 03:09
 
 May 21, 2018 03:09 | Tags: [calibration](../tag/calibration), [webcam](../tag/webcam), [raspberry-pi](../tag/raspberry-pi), [camera](../tag/camera), [gsoc](../tag/gsoc), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [resolution](../tag/resolution), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [community-microscope](../tag/community-microscope), [pi-microscope](../tag/pi-microscope), [series:community-microscope-tests](../tag/series:community-microscope-tests), [community-microscope-prototyping](../tag/community-microscope-prototyping)
 

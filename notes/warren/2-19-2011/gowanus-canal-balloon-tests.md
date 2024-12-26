@@ -1,6 +1,5 @@
 ---
-title: 'Gowanus Canal balloon tests'
-tagnames: new-york-city, kite-balloon-hybrid, gowanus-canal, northeast, mylar-balloons
+title: "Gowanus Canal balloon tests"\ntagnames: 'new-york-city, kite-balloon-hybrid, gowanus-canal, northeast, mylar-balloons'
 author: warren
 path: /notes/warren/2-19-2011/gowanus-canal-balloon-tests.md
 nid: 92
@@ -10,7 +9,7 @@ uid: 1
 
 # Gowanus Canal balloon tests
 
-by [warren](../profile/warren) February 20, 2011 03:08
+by [warren](../profile/warren) | February 20, 2011 03:08
 
 February 20, 2011 03:08 | Tags: [new-york-city](../tag/new-york-city), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [gowanus-canal](../tag/gowanus-canal), [northeast](../tag/northeast), [mylar-balloons](../tag/mylar-balloons)
 

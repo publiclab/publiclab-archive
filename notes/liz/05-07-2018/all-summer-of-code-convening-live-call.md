@@ -1,6 +1,5 @@
 ---
-title: 'All Summer of Code convening Live Call'
-tagnames: event, gsoc, software-outreach, soc, soc-18, gsoc-18
+title: "All Summer of Code convening Live Call"\ntagnames: 'event, gsoc, software-outreach, soc, soc-18, gsoc-18'
 author: liz
 path: /notes/liz/05-07-2018/all-summer-of-code-convening-live-call.md
 nid: 16308
@@ -12,7 +11,7 @@ uid: 7
 
 # All Summer of Code convening Live Call
 
-by [liz](../profile/liz) May 07, 2018 16:21
+by [liz](../profile/liz) | May 07, 2018 16:21
 
 May 07, 2018 16:21 | Tags: [event](../tag/event), [gsoc](../tag/gsoc), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [soc-18](../tag/soc-18), [gsoc-18](../tag/gsoc-18)
 

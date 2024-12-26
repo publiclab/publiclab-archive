@@ -1,6 +1,5 @@
 ---
-title: 'HAAM#3: Sensor de conductividad Coqui '
-tagnames: workshop, coqui, spanish, taller, haam
+title: "HAAM#3: Sensor de conductividad Coqui "\ntagnames: 'workshop, coqui, spanish, taller, haam'
 author: imvec
 path: /notes/imvec/09-22-2020/haam-3-sensor-de-conductividad-coqui.md
 nid: 24626
@@ -12,7 +11,7 @@ uid: 495038
 
 # HAAM#3: Sensor de conductividad Coqui 
 
-by [imvec](../profile/imvec) September 22, 2020 13:56
+by [imvec](../profile/imvec) | September 22, 2020 13:56
 
 September 22, 2020 13:56 | Tags: [workshop](../tag/workshop), [coqui](../tag/coqui), [spanish](../tag/spanish), [taller](../tag/taller), [haam](../tag/haam)
 

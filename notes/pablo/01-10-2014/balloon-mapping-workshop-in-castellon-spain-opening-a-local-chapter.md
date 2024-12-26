@@ -1,6 +1,5 @@
 ---
-title: 'Balloon mapping workshop in Castellón (Spain): opening a local chapter'
-tagnames: balloon-mapping, spain, events:spain, eu
+title: "Balloon mapping workshop in Castellón (Spain): opening a local chapter"\ntagnames: 'balloon-mapping, spain, events:spain, eu'
 author: pablo
 path: /notes/pablo/01-10-2014/balloon-mapping-workshop-in-castellon-spain-opening-a-local-chapter.md
 nid: 9935
@@ -12,7 +11,7 @@ uid: 160
 
 # Balloon mapping workshop in Castellón (Spain): opening a local chapter
 
-by [pablo](../profile/pablo) January 10, 2014 09:58
+by [pablo](../profile/pablo) | January 10, 2014 09:58
 
 January 10, 2014 09:58 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [events:spain](../tag/events:spain), [eu](../tag/eu)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Cypress Hills Air Quality Initiative'
-tagnames: new-york-city, chaq, air-quality, air-quality-egg
+title: "Cypress Hills Air Quality Initiative"\ntagnames: 'new-york-city, chaq, air-quality, air-quality-egg'
 author: liz
 path: /wiki/cypress-hills-air-quality-initiative.md
 nid: 6442

@@ -1,6 +1,5 @@
 ---
-title: 'Integrating User instructions into the Community Microscope build materials'
-tagnames: documentation, air-quality, water-quality, illustrations, microscope, community-microscope, community-microscope-prototyping
+title: "Integrating User instructions into the Community Microscope build materials"\ntagnames: 'documentation, air-quality, water-quality, illustrations, microscope, community-microscope, community-microscope-prototyping'
 author: jiteovien
 path: /notes/jiteovien/07-09-2018/integrating-user-instructions-into-the-community-microscope-build-materials.md
 nid: 16668
@@ -12,7 +11,7 @@ uid: 540008
 
 # Integrating User instructions into the Community Microscope build materials
 
-by [jiteovien](../profile/jiteovien) July 09, 2018 19:57
+by [jiteovien](../profile/jiteovien) | July 09, 2018 19:57
 
 July 09, 2018 19:57 | Tags: [documentation](../tag/documentation), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [illustrations](../tag/illustrations), [microscope](../tag/microscope), [community-microscope](../tag/community-microscope), [community-microscope-prototyping](../tag/community-microscope-prototyping)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Where We Breathe Website Walkthrough'
-tagnames: platform, formaldehyde, wherewebreathe, iaq, indoor-air-quality, hcho
+title: "Where We Breathe Website Walkthrough"\ntagnames: 'platform, formaldehyde, wherewebreathe, iaq, indoor-air-quality, hcho'
 author: nshapiro
 path: /notes/nshapiro/08-24-2015/where-we-breathe-website-walkthrough.md
 nid: 12163
@@ -12,7 +11,7 @@ uid: 380298
 
 # Where We Breathe Website Walkthrough
 
-by [nshapiro](../profile/nshapiro) August 24, 2015 04:48
+by [nshapiro](../profile/nshapiro) | August 24, 2015 04:48
 
 August 24, 2015 04:48 | Tags: [platform](../tag/platform), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [iaq](../tag/iaq), [indoor-air-quality](../tag/indoor-air-quality), [hcho](../tag/hcho)
 

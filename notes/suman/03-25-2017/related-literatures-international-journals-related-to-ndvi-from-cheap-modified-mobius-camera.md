@@ -1,6 +1,5 @@
 ---
-title: 'Related Literatures, International Journals related to NDVI from Cheap Modified Mobius Camera'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, nrg, ndvi, infrared, infragram, infrablue, question:general
+title: "Related Literatures, International Journals related to NDVI from Cheap Modified Mobius Camera"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, nrg, ndvi, infrared, infragram, infrablue, question:general'
 author: suman
 path: /notes/suman/03-25-2017/related-literatures-international-journals-related-to-ndvi-from-cheap-modified-mobius-camera.md
 nid: 14058
@@ -10,7 +9,7 @@ uid: 497769
 
 # Related Literatures, International Journals related to NDVI from Cheap Modified Mobius Camera
 
-by [suman](../profile/suman) March 25, 2017 10:33
+by [suman](../profile/suman) | March 25, 2017 10:33
 
 March 25, 2017 10:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [question:general](../tag/question:general)
 

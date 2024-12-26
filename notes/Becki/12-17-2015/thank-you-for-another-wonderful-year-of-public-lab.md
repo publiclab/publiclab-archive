@@ -1,6 +1,5 @@
 ---
-title: 'Thank you for another wonderful year of Public Lab!'
-tagnames: blog
+title: "Thank you for another wonderful year of Public Lab!"\ntagnames: 'blog'
 author: Becki
 path: /notes/Becki/12-17-2015/thank-you-for-another-wonderful-year-of-public-lab.md
 nid: 12530
@@ -12,7 +11,7 @@ uid: 46673
 
 # Thank you for another wonderful year of Public Lab!
 
-by [Becki](../profile/Becki) December 17, 2015 19:11
+by [Becki](../profile/Becki) | December 17, 2015 19:11
 
 December 17, 2015 19:11 | Tags: [blog](../tag/blog)
 

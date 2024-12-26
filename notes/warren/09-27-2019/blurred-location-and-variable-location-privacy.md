@@ -1,6 +1,5 @@
 ---
-title: 'Blurred Location and variable location privacy'
-tagnames: blog, leaflet, code, privacy, location-privacy, leaflet-blurred-location, variable-location-privacy, blurred-location, digital-impacts, with:sagarpreet
+title: "Blurred Location and variable location privacy"\ntagnames: 'blog, leaflet, code, privacy, location-privacy, leaflet-blurred-location, variable-location-privacy, blurred-location, digital-impacts, with:sagarpreet'
 author: warren
 path: /notes/warren/09-27-2019/blurred-location-and-variable-location-privacy.md
 nid: 21033
@@ -12,7 +11,7 @@ uid: 1
 
 # Blurred Location and variable location privacy
 
-by [warren](../profile/warren) September 27, 2019 22:06
+by [warren](../profile/warren) | September 27, 2019 22:06
 
 September 27, 2019 22:06 | Tags: [blog](../tag/blog), [leaflet](../tag/leaflet), [code](../tag/code), [privacy](../tag/privacy), [location-privacy](../tag/location-privacy), [leaflet-blurred-location](../tag/leaflet-blurred-location), [variable-location-privacy](../tag/variable-location-privacy), [blurred-location](../tag/blurred-location), [digital-impacts](../tag/digital-impacts), [with:sagarpreet](../tag/with:sagarpreet)
 

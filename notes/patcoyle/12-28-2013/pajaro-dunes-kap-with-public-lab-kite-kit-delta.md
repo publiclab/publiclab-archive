@@ -1,6 +1,5 @@
 ---
-title: 'Pajaro Dunes KAP with Public Lab Kite kit Delta'
-tagnames: kite-mapping
+title: "Pajaro Dunes KAP with Public Lab Kite kit Delta"\ntagnames: 'kite-mapping'
 author: patcoyle
 path: /notes/patcoyle/12-28-2013/pajaro-dunes-kap-with-public-lab-kite-kit-delta.md
 nid: 9916
@@ -12,7 +11,7 @@ uid: 77
 
 # Pajaro Dunes KAP with Public Lab Kite kit Delta
 
-by [patcoyle](../profile/patcoyle) December 28, 2013 19:51
+by [patcoyle](../profile/patcoyle) | December 28, 2013 19:51
 
 December 28, 2013 19:51 | Tags: [kite-mapping](../tag/kite-mapping)
 

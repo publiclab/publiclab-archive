@@ -1,6 +1,5 @@
 ---
-title: 'Volunteering in Smartemission network Nijmegen Netherlands'
-tagnames: blog-submission, first-time-poster
+title: "Volunteering in Smartemission network Nijmegen Netherlands"\ntagnames: 'blog-submission, first-time-poster'
 author: GreenFrogg
 path: /notes/GreenFrogg/12-14-2016/volunteering-in-smartemission-network-nijmegen-netherlands.md
 nid: 13785
@@ -12,7 +11,7 @@ uid: 499984
 
 # Volunteering in Smartemission network Nijmegen Netherlands
 
-by [GreenFrogg](../profile/GreenFrogg) December 14, 2016 20:57
+by [GreenFrogg](../profile/GreenFrogg) | December 14, 2016 20:57
 
 December 14, 2016 20:57 | Tags: [blog-submission](../tag/blog-submission), [first-time-poster](../tag/first-time-poster)
 

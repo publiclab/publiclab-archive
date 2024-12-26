@@ -1,6 +1,5 @@
 ---
-title: 'Riffing on the Riffle:  the youtube files'
-tagnames: gulf-coast, water, riffle, depth, water-depth
+title: "Riffing on the Riffle:  the youtube files"\ntagnames: 'gulf-coast, water, riffle, depth, water-depth'
 author: eustatic
 path: /11-23-2014/riffing-on-the-riffle-the-youtube-files.md
 nid: 11393
@@ -12,7 +11,7 @@ uid: 379
 
 # Riffing on the Riffle:  the youtube files
 
-by [eustatic](../profile/eustatic) November 23, 2014 23:11
+by [eustatic](../profile/eustatic) | November 23, 2014 23:11
 
 November 23, 2014 23:11 | Tags: [gulf-coast](../tag/gulf-coast), [water](../tag/water), [riffle](../tag/riffle), [depth](../tag/depth), [water-depth](../tag/water-depth)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Balloon mapping of wetlands near Clayton, NY'
-tagnames: balloon-mapping, wetlands, new-york, clayton, lat:44.222444, lon:-76.100406, place:clayton-ny
+title: "Balloon mapping of wetlands near Clayton, NY"\ntagnames: 'balloon-mapping, wetlands, new-york, clayton, lat:44.222444, lon:-76.100406, place:clayton-ny'
 author: nedhorning
 path: /notes/nedhorning/10-10-2013/balloon-mapping-of-wetlands-near-clayton-ny.md
 nid: 9434
@@ -12,7 +11,7 @@ uid: 133
 
 # Balloon mapping of wetlands near Clayton, NY
 
-by [nedhorning](../profile/nedhorning) October 10, 2013 23:39
+by [nedhorning](../profile/nedhorning) | October 10, 2013 23:39
 
 October 10, 2013 23:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [new-york](../tag/new-york), [clayton](../tag/clayton), [lat:44.222444](../tag/lat:44.222444), [lon:-76.100406](../tag/lon:-76.100406), [place:clayton-ny](../tag/place:clayton-ny)
 

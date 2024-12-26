@@ -1,6 +1,5 @@
 ---
-title: 'Super video of thermal infrared spectroscopy'
-tagnames: spectrometer, mid-infrared
+title: "Super video of thermal infrared spectroscopy"\ntagnames: 'spectrometer, mid-infrared'
 author: warren
 path: /notes/warren/9-24-2012/super-video-thermal-infrared-spectroscopy.md
 nid: 3988
@@ -12,7 +11,7 @@ uid: 1
 
 # Super video of thermal infrared spectroscopy
 
-by [warren](../profile/warren) September 24, 2012 15:31
+by [warren](../profile/warren) | September 24, 2012 15:31
 
 September 24, 2012 15:31 | Tags: [spectrometer](../tag/spectrometer), [mid-infrared](../tag/mid-infrared)
 

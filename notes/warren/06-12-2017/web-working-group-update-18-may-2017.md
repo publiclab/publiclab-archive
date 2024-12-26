@@ -1,6 +1,5 @@
 ---
-title: 'Web Working Group Update 18: May 2017'
-tagnames: community, web-development, software, plots2, outreach, gsoc, developers, wwg, webwg, first-timers-only, software-outreach, rgsoc, wwg-update, response:14163
+title: "Web Working Group Update 18: May 2017"\ntagnames: 'community, web-development, software, plots2, outreach, gsoc, developers, wwg, webwg, first-timers-only, software-outreach, rgsoc, wwg-update, response:14163'
 author: warren
 path: /notes/warren/06-12-2017/web-working-group-update-18-may-2017.md
 nid: 14526
@@ -12,7 +11,7 @@ uid: 1
 
 # Web Working Group Update 18: May 2017
 
-by [warren](../profile/warren) June 12, 2017 22:32
+by [warren](../profile/warren) | June 12, 2017 22:32
 
 June 12, 2017 22:32 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [wwg-update](../tag/wwg-update), [response:14163](../tag/response:14163)
 

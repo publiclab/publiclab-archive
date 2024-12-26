@@ -1,6 +1,5 @@
 ---
-title: 'Lending Libraries'
-tagnames: community, lending-library, response:10953
+title: "Lending Libraries"\ntagnames: 'community, lending-library, response:10953'
 author: liz
 path: /notes/liz/07-18-2014/lending-libraries.md
 nid: 10706
@@ -12,7 +11,7 @@ uid: 7
 
 # Lending Libraries
 
-by [liz](../profile/liz) July 18, 2014 16:23
+by [liz](../profile/liz) | July 18, 2014 16:23
 
 July 18, 2014 16:23 | Tags: [community](../tag/community), [lending-library](../tag/lending-library), [response:10953](../tag/response:10953)
 

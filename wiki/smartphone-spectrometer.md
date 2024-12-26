@@ -1,6 +1,5 @@
 ---
-title: 'Smartphone spectrometer'
-tagnames: spectrometer, smartphone-spectrometer, instructions, parent:spectrometer, foldable, foldable-spectrometer
+title: "Smartphone spectrometer"\ntagnames: 'spectrometer, smartphone-spectrometer, instructions, parent:spectrometer, foldable, foldable-spectrometer'
 author: warren
 path: /wiki/smartphone-spectrometer.md
 nid: 9075

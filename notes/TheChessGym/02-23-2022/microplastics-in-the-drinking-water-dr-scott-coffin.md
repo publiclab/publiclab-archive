@@ -1,6 +1,5 @@
 ---
-title: 'Microplastics In The Drinking Water---Dr. Scott Coffin '
-tagnames: microplastics, lat:22, lon:76, zoom:6
+title: "Microplastics In The Drinking Water---Dr. Scott Coffin "\ntagnames: 'microplastics, lat:22, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/02-23-2022/microplastics-in-the-drinking-water-dr-scott-coffin.md
 nid: 30076
@@ -12,7 +11,7 @@ uid: 788868
 
 # Microplastics In The Drinking Water---Dr. Scott Coffin 
 
-by [TheChessGym](../profile/TheChessGym) February 23, 2022 16:11
+by [TheChessGym](../profile/TheChessGym) | February 23, 2022 16:11
 
 February 23, 2022 16:11 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

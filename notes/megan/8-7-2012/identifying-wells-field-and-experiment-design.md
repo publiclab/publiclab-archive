@@ -1,6 +1,5 @@
 ---
-title: 'Identifying Wells in Field and Experiment Design'
-tagnames: hydrogen-sulfide-sensing, new-mexico, hydrogen-sulfide, h2s, gasfinder, study-design, h2s-photopaper, mountain-west, h2s-study-design
+title: "Identifying Wells in Field and Experiment Design"\ntagnames: 'hydrogen-sulfide-sensing, new-mexico, hydrogen-sulfide, h2s, gasfinder, study-design, h2s-photopaper, mountain-west, h2s-study-design'
 author: megan
 path: /notes/megan/8-7-2012/identifying-wells-field-and-experiment-design.md
 nid: 3182
@@ -12,7 +11,7 @@ uid: 775
 
 # Identifying Wells in Field and Experiment Design
 
-by [megan](../profile/megan) August 08, 2012 00:04
+by [megan](../profile/megan) | August 08, 2012 00:04
 
 August 08, 2012 00:04 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [gasfinder](../tag/gasfinder), [study-design](../tag/study-design), [h2s-photopaper](../tag/h2s-photopaper), [mountain-west](../tag/mountain-west), [h2s-study-design](../tag/h2s-study-design)
 

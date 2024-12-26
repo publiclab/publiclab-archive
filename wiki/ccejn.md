@@ -1,6 +1,5 @@
 ---
-title: 'ccejn'
-tagnames: farm, california, cafo, ccejn, environmentaljustice, san_joaquin_valley
+title: "ccejn"\ntagnames: 'farm, california, cafo, ccejn, environmentaljustice, san_joaquin_valley'
 author: ccampos
 path: /wiki/ccejn.md
 nid: 12132

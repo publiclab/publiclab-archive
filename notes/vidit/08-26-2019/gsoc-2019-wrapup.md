@@ -1,6 +1,5 @@
 ---
-title: 'GSOC 2019 wrapup '
-tagnames: google-summer-of-code, summer-of-code, gsoc-19, gsoc-final-eval, gsoc-2019-final-report
+title: "GSOC 2019 wrapup "\ntagnames: 'google-summer-of-code, summer-of-code, gsoc-19, gsoc-final-eval, gsoc-2019-final-report'
 author: vidit
 path: /notes/vidit/08-26-2019/gsoc-2019-wrapup.md
 nid: 20676
@@ -10,7 +9,7 @@ uid: 517093
 
 # GSOC 2019 wrapup 
 
-by [vidit](../profile/vidit) August 26, 2019 12:07
+by [vidit](../profile/vidit) | August 26, 2019 12:07
 
 August 26, 2019 12:07 | Tags: [google-summer-of-code](../tag/google-summer-of-code), [summer-of-code](../tag/summer-of-code), [gsoc-19](../tag/gsoc-19), [gsoc-final-eval](../tag/gsoc-final-eval), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Infrablue Kickstarter Update 3'
-tagnames: nrg, ndvi, infrared, gigapan
+title: "Infrablue Kickstarter Update 3"\ntagnames: 'nrg, ndvi, infrared, gigapan'
 author: cfastie
 path: /wiki/infrablue-kickstarter-update-3.md
 nid: 7981

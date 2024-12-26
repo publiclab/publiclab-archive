@@ -1,6 +1,5 @@
 ---
-title: 'Models of Online Community Engagement '
-tagnames: community, organizers, engagement
+title: "Models of Online Community Engagement "\ntagnames: 'community, organizers, engagement'
 author: stevie
 path: /notes/stevie/05-20-2014/models-of-online-community-engagement.md
 nid: 10492
@@ -12,7 +11,7 @@ uid: 422561
 
 # Models of Online Community Engagement 
 
-by [stevie](../profile/stevie) May 20, 2014 21:23
+by [stevie](../profile/stevie) | May 20, 2014 21:23
 
 May 20, 2014 21:23 | Tags: [community](../tag/community), [organizers](../tag/organizers), [engagement](../tag/engagement)
 

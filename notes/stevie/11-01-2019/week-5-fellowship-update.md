@@ -1,6 +1,5 @@
 ---
-title: 'Week 5 Fellowship Update '
-tagnames: fellowship, oil-and-gas, oil-and-gas-water-trio, with:rollinrenola
+title: "Week 5 Fellowship Update "\ntagnames: 'fellowship, oil-and-gas, oil-and-gas-water-trio, with:rollinrenola'
 author: stevie
 path: /notes/stevie/11-01-2019/week-5-fellowship-update.md
 nid: 21369
@@ -12,7 +11,7 @@ uid: 422561
 
 # Week 5 Fellowship Update 
 
-by [stevie](../profile/stevie) November 01, 2019 18:54
+by [stevie](../profile/stevie) | November 01, 2019 18:54
 
 November 01, 2019 18:54 | Tags: [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [with:rollinrenola](../tag/with:rollinrenola)
 

@@ -1,6 +1,5 @@
 ---
-title: 'sidebar-welcome'
-tagnames: 
+title: "sidebar-welcome"\ntagnames: ''
 author: warren
 path: /feature/sidebar-welcome.md
 nid: 17132

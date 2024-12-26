@@ -1,6 +1,5 @@
 ---
-title: 'How to Use a Hanby Kit to Test for Soil Petroleum Hydrocarbons '
-tagnames: soil-testing, draft, oil-and-gas, activity:soil-sampling, soil-analysis, activity:new, activity:soil, txbarnraising, soil-contamination, hanby-soil-kit, activity:hanby-soil-kit, screen-soil-contamination, activity:screen-soil-contamination
+title: "How to Use a Hanby Kit to Test for Soil Petroleum Hydrocarbons "\ntagnames: 'soil-testing, draft, oil-and-gas, activity:soil-sampling, soil-analysis, activity:new, activity:soil, txbarnraising, soil-contamination, hanby-soil-kit, activity:hanby-soil-kit, screen-soil-contamination, activity:screen-soil-contamination'
 author: DanielleS
 path: /notes/DanielleS/03-11-2019/how-to-use-a-hanby-kit-to-test-for-soil-petroleum-hydrocarbons.md
 nid: 18507
@@ -12,7 +11,7 @@ uid: 569208
 
 # How to Use a Hanby Kit to Test for Soil Petroleum Hydrocarbons 
 
-by [DanielleS](../profile/DanielleS) March 11, 2019 01:46
+by [DanielleS](../profile/DanielleS) | March 11, 2019 01:46
 
 March 11, 2019 01:46 | Tags: [soil-testing](../tag/soil-testing), [draft](../tag/draft), [oil-and-gas](../tag/oil-and-gas), [activity:soil-sampling](../tag/activity:soil-sampling), [soil-analysis](../tag/soil-analysis), [activity:new](../tag/activity:new), [activity:soil](../tag/activity:soil), [txbarnraising](../tag/txbarnraising), [soil-contamination](../tag/soil-contamination), [hanby-soil-kit](../tag/hanby-soil-kit), [activity:hanby-soil-kit](../tag/activity:hanby-soil-kit), [screen-soil-contamination](../tag/screen-soil-contamination), [activity:screen-soil-contamination](../tag/activity:screen-soil-contamination)
 

@@ -1,6 +1,5 @@
 ---
-title: 'olive oil absorbance spectrum'
-tagnames: spectrometry, mobile-spectrometer, olive-oil
+title: "olive oil absorbance spectrum"\ntagnames: 'spectrometry, mobile-spectrometer, olive-oil'
 author: wjopt
 path: /notes/wjopt/11-13-2016/olive-oil-absorbance-spectrum.md
 nid: 13699
@@ -12,7 +11,7 @@ uid: 469044
 
 # olive oil absorbance spectrum
 
-by [wjopt](../profile/wjopt) November 13, 2016 12:04
+by [wjopt](../profile/wjopt) | November 13, 2016 12:04
 
 November 13, 2016 12:04 | Tags: [spectrometry](../tag/spectrometry), [mobile-spectrometer](../tag/mobile-spectrometer), [olive-oil](../tag/olive-oil)
 

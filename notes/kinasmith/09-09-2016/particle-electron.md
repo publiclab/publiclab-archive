@@ -1,6 +1,5 @@
 ---
-title: 'Particle Electron'
-tagnames: cellular, web, data, datalogger, riffle, logger, sensor, 3g, data-logging, riffle-examples, data-logger, datalogger-option
+title: "Particle Electron"\ntagnames: 'cellular, web, data, datalogger, riffle, logger, sensor, 3g, data-logging, riffle-examples, data-logger, datalogger-option'
 author: kinasmith
 path: /notes/kinasmith/09-09-2016/particle-electron.md
 nid: 13436
@@ -12,7 +11,7 @@ uid: 445906
 
 # Particle Electron
 
-by [kinasmith](../profile/kinasmith) September 09, 2016 23:23
+by [kinasmith](../profile/kinasmith) | September 09, 2016 23:23
 
 September 09, 2016 23:23 | Tags: [cellular](../tag/cellular), [web](../tag/web), [data](../tag/data), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [logger](../tag/logger), [sensor](../tag/sensor), [3g](../tag/3g), [data-logging](../tag/data-logging), [riffle-examples](../tag/riffle-examples), [data-logger](../tag/data-logger), [datalogger-option](../tag/datalogger-option)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Research of snow around rouds in the Samara region'
-tagnames: spectral-analysis
+title: "Research of snow around rouds in the Samara region"\ntagnames: 'spectral-analysis'
 author: MariyaBlankina
 path: /notes/MariyaBlankina/03-13-2017/research-of-snow-around-rouds-in-the-samara-region.md
 nid: 14005
@@ -12,7 +11,7 @@ uid: 504010
 
 # Research of snow around rouds in the Samara region
 
-by [MariyaBlankina](../profile/MariyaBlankina) March 13, 2017 08:41
+by [MariyaBlankina](../profile/MariyaBlankina) | March 13, 2017 08:41
 
 March 13, 2017 08:41 | Tags: [spectral-analysis](../tag/spectral-analysis)
 

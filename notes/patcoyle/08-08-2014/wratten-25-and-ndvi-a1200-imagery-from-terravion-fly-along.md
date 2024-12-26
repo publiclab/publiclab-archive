@@ -1,6 +1,5 @@
 ---
-title: 'Wratten 25 and NDVI A1200 imagery from TerrAvion fly-along'
-tagnames: ndvi, agriculture, wratten25a, fixed_wing_aircraft, commercial_services
+title: "Wratten 25 and NDVI A1200 imagery from TerrAvion fly-along"\ntagnames: 'ndvi, agriculture, wratten25a, fixed_wing_aircraft, commercial_services'
 author: patcoyle
 path: /notes/patcoyle/08-08-2014/wratten-25-and-ndvi-a1200-imagery-from-terravion-fly-along.md
 nid: 11024
@@ -12,7 +11,7 @@ uid: 77
 
 # Wratten 25 and NDVI A1200 imagery from TerrAvion fly-along
 
-by [patcoyle](../profile/patcoyle) August 08, 2014 23:08
+by [patcoyle](../profile/patcoyle) | August 08, 2014 23:08
 
 August 08, 2014 23:08 | Tags: [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [wratten25a](../tag/wratten25a), [fixed_wing_aircraft](../tag/fixed_wing_aircraft), [commercial_services](../tag/commercial_services)
 

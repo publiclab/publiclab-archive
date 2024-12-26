@@ -1,6 +1,5 @@
 ---
-title: 'Prototype incident light blocker'
-tagnames: 
+title: "Prototype incident light blocker"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/02-01-2016/prototype-incident-light-blocker.md
 nid: 12641
@@ -12,7 +11,7 @@ uid: 461120
 
 # Prototype incident light blocker
 
-by [dhaffnersr](../profile/dhaffnersr) February 01, 2016 20:19
+by [dhaffnersr](../profile/dhaffnersr) | February 01, 2016 20:19
 
 February 01, 2016 20:19 | Tags: 
 

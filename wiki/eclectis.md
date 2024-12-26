@@ -1,6 +1,5 @@
 ---
-title: 'Eclectis'
-tagnames: waagsociety, amsterdam, event, infragram, waag
+title: "Eclectis"\ntagnames: 'waagsociety, amsterdam, event, infragram, waag'
 author: warren
 path: /wiki/eclectis.md
 nid: 9346

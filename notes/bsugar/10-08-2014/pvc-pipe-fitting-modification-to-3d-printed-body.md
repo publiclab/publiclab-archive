@@ -1,6 +1,5 @@
 ---
-title: 'PVC Pipe Fitting Modification to 3D Printed Body'
-tagnames: spectrometer, countertop-spectrometer, 3d-printing, midwest, barnstar:excessive-enthusiasm, mid-west, response:10066
+title: "PVC Pipe Fitting Modification to 3D Printed Body"\ntagnames: 'spectrometer, countertop-spectrometer, 3d-printing, midwest, barnstar:excessive-enthusiasm, mid-west, response:10066'
 author: bsugar
 path: /notes/bsugar/10-08-2014/pvc-pipe-fitting-modification-to-3d-printed-body.md
 nid: 11249
@@ -12,7 +11,7 @@ uid: 217812
 
 # PVC Pipe Fitting Modification to 3D Printed Body
 
-by [bsugar](../profile/bsugar) October 08, 2014 01:50
+by [bsugar](../profile/bsugar) | October 08, 2014 01:50
 
 October 08, 2014 01:50 | Tags: [spectrometer](../tag/spectrometer), [countertop-spectrometer](../tag/countertop-spectrometer), [3d-printing](../tag/3d-printing), [midwest](../tag/midwest), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [mid-west](../tag/mid-west), [response:10066](../tag/response:10066)
 

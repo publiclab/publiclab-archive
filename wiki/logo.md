@@ -1,6 +1,5 @@
 ---
-title: 'Logo'
-tagnames: logo, logos
+title: "Logo"\ntagnames: 'logo, logos'
 author: warren
 path: /wiki/logo.md
 nid: 15540

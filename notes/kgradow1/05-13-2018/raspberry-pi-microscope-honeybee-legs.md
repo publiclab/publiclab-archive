@@ -1,6 +1,5 @@
 ---
-title: 'Raspberry Pi Microscope:  Honeybee Legs'
-tagnames: 
+title: "Raspberry Pi Microscope:  Honeybee Legs"\ntagnames: ''
 author: kgradow1
 path: /notes/kgradow1/05-13-2018/raspberry-pi-microscope-honeybee-legs.md
 nid: 16337
@@ -12,7 +11,7 @@ uid: 297929
 
 # Raspberry Pi Microscope:  Honeybee Legs
 
-by [kgradow1](../profile/kgradow1) May 13, 2018 04:03
+by [kgradow1](../profile/kgradow1) | May 13, 2018 04:03
 
 May 13, 2018 04:03 | Tags: 
 

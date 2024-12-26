@@ -1,6 +1,5 @@
 ---
-title: 'Visualize data from a Simple Air Sensor using onboard serial hardware'
-tagnames: arduino, air-quality, activity:air-quality, data-visualization, simple-air-sensor, activity:simple-air-sensor, presenting-data, activity:presenting-data, air-quality-data, activity:air-quality-data, activity:data-visualization, simple-air-sensor-data
+title: "Visualize data from a Simple Air Sensor using onboard serial hardware"\ntagnames: 'arduino, air-quality, activity:air-quality, data-visualization, simple-air-sensor, activity:simple-air-sensor, presenting-data, activity:presenting-data, air-quality-data, activity:air-quality-data, activity:data-visualization, simple-air-sensor-data'
 author: bhamster
 path: /notes/bhamster/12-17-2021/visualize-data-from-a-simple-air-sensor-using-onboard-serial-hardware.md
 nid: 28508
@@ -12,7 +11,7 @@ uid: 664477
 
 # Visualize data from a Simple Air Sensor using onboard serial hardware
 
-by [bhamster](../profile/bhamster) December 17, 2021 17:56
+by [bhamster](../profile/bhamster) | December 17, 2021 17:56
 
 December 17, 2021 17:56 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [activity:air-quality](../tag/activity:air-quality), [data-visualization](../tag/data-visualization), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor), [presenting-data](../tag/presenting-data), [activity:presenting-data](../tag/activity:presenting-data), [air-quality-data](../tag/air-quality-data), [activity:air-quality-data](../tag/activity:air-quality-data), [activity:data-visualization](../tag/activity:data-visualization), [simple-air-sensor-data](../tag/simple-air-sensor-data)
 

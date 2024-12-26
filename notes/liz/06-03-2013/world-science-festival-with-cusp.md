@@ -1,6 +1,5 @@
 ---
-title: 'World Science Festival with CUSP'
-tagnames: balloon-mapping
+title: "World Science Festival with CUSP"\ntagnames: 'balloon-mapping'
 author: liz
 path: /notes/liz/06-03-2013/world-science-festival-with-cusp.md
 nid: 8020
@@ -12,7 +11,7 @@ uid: 7
 
 # World Science Festival with CUSP
 
-by [liz](../profile/liz) June 03, 2013 01:19
+by [liz](../profile/liz) | June 03, 2013 01:19
 
 June 03, 2013 01:19 | Tags: [balloon-mapping](../tag/balloon-mapping)
 

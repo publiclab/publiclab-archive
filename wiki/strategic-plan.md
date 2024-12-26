@@ -1,6 +1,5 @@
 ---
-title: 'Strategic Plan'
-tagnames: nonprofit, locked
+title: "Strategic Plan"\ntagnames: 'nonprofit, locked'
 author: Shannon
 path: /wiki/strategic-plan.md
 nid: 22430

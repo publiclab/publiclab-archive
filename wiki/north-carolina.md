@@ -1,6 +1,5 @@
 ---
-title: 'Western North Carolina'
-tagnames: chapter, events:western-carolina-university, list:plots-southeast, lat:35.58, lon:-82.555833, southeast, parent:southeast
+title: "Western North Carolina"\ntagnames: 'chapter, events:western-carolina-university, list:plots-southeast, lat:35.58, lon:-82.555833, southeast, parent:southeast'
 author: warren
 path: /wiki/north-carolina.md
 nid: 18

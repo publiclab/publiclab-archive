@@ -1,6 +1,5 @@
 ---
-title: 'Swamp Stomp Video'
-tagnames: balloon-mapping, kite-mapping
+title: "Swamp Stomp Video"\ntagnames: 'balloon-mapping, kite-mapping'
 author: eustatic
 path: /3-29-2013/swamp-stomp-video.md
 nid: 6608
@@ -12,7 +11,7 @@ uid: 379
 
 # Swamp Stomp Video
 
-by [eustatic](../profile/eustatic) March 29, 2013 22:06
+by [eustatic](../profile/eustatic) | March 29, 2013 22:06
 
 March 29, 2013 22:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 

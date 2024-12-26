@@ -1,6 +1,5 @@
 ---
-title: 'anyone working on dataloggers for snow depth?'
-tagnames: datalogger, snow, question:general, general
+title: "anyone working on dataloggers for snow depth?"\ntagnames: 'datalogger, snow, question:general, general'
 author: MadTinker
 path: /notes/MadTinker/01-24-2020/anyone-working-on-dataloggers-for-snow-depth.md
 nid: 22398
@@ -10,7 +9,7 @@ uid: 461206
 
 # anyone working on dataloggers for snow depth?
 
-by [MadTinker](../profile/MadTinker) January 24, 2020 21:14
+by [MadTinker](../profile/MadTinker) | January 24, 2020 21:14
 
 January 24, 2020 21:14 | Tags: [datalogger](../tag/datalogger), [snow](../tag/snow), [question:general](../tag/question:general), [general](../tag/general)
 

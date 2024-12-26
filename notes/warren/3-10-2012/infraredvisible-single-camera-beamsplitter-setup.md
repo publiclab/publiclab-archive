@@ -1,6 +1,5 @@
 ---
-title: 'Infrared/visible single camera with beamsplitter: setup'
-tagnames: near-infrared-camera
+title: "Infrared/visible single camera with beamsplitter: setup"\ntagnames: 'near-infrared-camera'
 author: warren
 path: /notes/warren/3-10-2012/infraredvisible-single-camera-beamsplitter-setup.md
 nid: 914
@@ -12,7 +11,7 @@ uid: 1
 
 # Infrared/visible single camera with beamsplitter: setup
 
-by [warren](../profile/warren) March 10, 2012 05:04
+by [warren](../profile/warren) | March 10, 2012 05:04
 
 March 10, 2012 05:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 

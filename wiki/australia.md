@@ -1,6 +1,5 @@
 ---
-title: 'australia'
-tagnames: australia, chapter
+title: "australia"\ntagnames: 'australia, chapter'
 author: cobi
 path: /wiki/australia.md
 nid: 11579

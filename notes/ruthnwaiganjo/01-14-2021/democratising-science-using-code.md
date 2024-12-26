@@ -1,6 +1,5 @@
 ---
-title: 'Democratizing Science Using Code'
-tagnames: air-quality, coding, blog-submission, dashboard, community-science, outreachy
+title: "Democratizing Science Using Code"\ntagnames: 'air-quality, coding, blog-submission, dashboard, community-science, outreachy'
 author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/01-14-2021/democratising-science-using-code.md
 nid: 25465
@@ -12,7 +11,7 @@ uid: 725565
 
 # Democratizing Science Using Code
 
-by [ruthnwaiganjo](../profile/ruthnwaiganjo) January 14, 2021 15:31
+by [ruthnwaiganjo](../profile/ruthnwaiganjo) | January 14, 2021 15:31
 
 January 14, 2021 15:31 | Tags: [air-quality](../tag/air-quality), [coding](../tag/coding), [blog-submission](../tag/blog-submission), [dashboard](../tag/dashboard), [community-science](../tag/community-science), [outreachy](../tag/outreachy)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: MapKnitter.org Spam Management system'
-tagnames: mapknitter, software, outreachy, first-time-poster, lat:12.971598, lon:77.594562, zoom:6, outreachy-2022, outreachy-summer-2022, newauthor
+title: "Outreachy proposal: MapKnitter.org Spam Management system"\ntagnames: 'mapknitter, software, outreachy, first-time-poster, lat:12.971598, lon:77.594562, zoom:6, outreachy-2022, outreachy-summer-2022, newauthor'
 author: ranavivek_me19
 path: /notes/ranavivek_me19/04-22-2022/outreachy-proposal-mapknitter-org-spam-management-system.md
 nid: 30575
@@ -10,7 +9,7 @@ uid: 794295
 
 # Outreachy proposal: MapKnitter.org Spam Management system
 
-by [ranavivek_me19](../profile/ranavivek_me19) April 22, 2022 10:47
+by [ranavivek_me19](../profile/ranavivek_me19) | April 22, 2022 10:47
 
 April 22, 2022 10:47 | Tags: [mapknitter](../tag/mapknitter), [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [lat:12.971598](../tag/lat:12.971598), [lon:77.594562](../tag/lon:77.594562), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [newauthor](../tag/newauthor)
 

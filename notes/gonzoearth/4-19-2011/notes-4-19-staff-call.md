@@ -1,6 +1,5 @@
 ---
-title: 'Notes from 4-19 staff call'
-tagnames: 
+title: "Notes from 4-19 staff call"\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/4-19-2011/notes-4-19-staff-call.md
 nid: 180
@@ -10,7 +9,7 @@ uid: 12
 
 # Notes from 4-19 staff call
 
-by [gonzoearth](../profile/gonzoearth) April 19, 2011 23:20
+by [gonzoearth](../profile/gonzoearth) | April 19, 2011 23:20
 
 April 19, 2011 23:20 | Tags: 
 

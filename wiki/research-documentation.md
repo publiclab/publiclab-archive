@@ -1,6 +1,5 @@
 ---
-title: 'Research Documentation'
-tagnames: 
+title: "Research Documentation"\ntagnames: ''
 author: gretchengehrke
 path: /wiki/research-documentation.md
 nid: 12935

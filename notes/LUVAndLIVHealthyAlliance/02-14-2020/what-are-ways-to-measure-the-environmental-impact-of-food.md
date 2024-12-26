@@ -1,6 +1,5 @@
 ---
-title: 'What are ways to measure the environmental impact of food?'
-tagnames: agriculture, food, carbon, question:general, general, first-time-poster, with:amallozzi, environmental-impact, luvandlivhealthy
+title: "What are ways to measure the environmental impact of food?"\ntagnames: 'agriculture, food, carbon, question:general, general, first-time-poster, with:amallozzi, environmental-impact, luvandlivhealthy'
 author: LUVAndLIVHealthyAlliance
 path: /notes/LUVAndLIVHealthyAlliance/02-14-2020/what-are-ways-to-measure-the-environmental-impact-of-food.md
 nid: 22815
@@ -10,7 +9,7 @@ uid: 664756
 
 # What are ways to measure the environmental impact of food?
 
-by [LUVAndLIVHealthyAlliance](../profile/LUVAndLIVHealthyAlliance) February 14, 2020 17:04
+by [LUVAndLIVHealthyAlliance](../profile/LUVAndLIVHealthyAlliance) | February 14, 2020 17:04
 
 February 14, 2020 17:04 | Tags: [agriculture](../tag/agriculture), [food](../tag/food), [carbon](../tag/carbon), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [with:amallozzi](../tag/with:amallozzi), [environmental-impact](../tag/environmental-impact), [luvandlivhealthy](../tag/luvandlivhealthy)
 

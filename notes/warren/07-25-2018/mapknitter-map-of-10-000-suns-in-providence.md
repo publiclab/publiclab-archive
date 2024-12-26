@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of 10,000 Suns in Providence'
-tagnames: providence, mapknitter, lat:41.8193634, lon:-71.4023211, 10000-suns, sunflowers
+title: "MapKnitter map of 10,000 Suns in Providence"\ntagnames: 'providence, mapknitter, lat:41.8193634, lon:-71.4023211, 10000-suns, sunflowers'
 author: warren
 path: /notes/warren/07-25-2018/mapknitter-map-of-10-000-suns-in-providence.md
 nid: 16784
@@ -12,7 +11,7 @@ uid: 1
 
 # MapKnitter map of 10,000 Suns in Providence
 
-by [warren](../profile/warren) July 25, 2018 03:42
+by [warren](../profile/warren) | July 25, 2018 03:42
 
 July 25, 2018 03:42 | Tags: [providence](../tag/providence), [mapknitter](../tag/mapknitter), [lat:41.8193634](../tag/lat:41.8193634), [lon:-71.4023211](../tag/lon:-71.4023211), [10000-suns](../tag/10000-suns), [sunflowers](../tag/sunflowers)
 

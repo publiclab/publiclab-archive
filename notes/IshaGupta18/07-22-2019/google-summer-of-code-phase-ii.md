@@ -1,6 +1,5 @@
 ---
-title: 'Google Summer of Code: Phase II'
-tagnames: gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval
+title: "Google Summer of Code: Phase II"\ntagnames: 'gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval'
 author: IshaGupta18
 path: /notes/IshaGupta18/07-22-2019/google-summer-of-code-phase-ii.md
 nid: 20248
@@ -10,7 +9,7 @@ uid: 568043
 
 # Google Summer of Code: Phase II
 
-by [IshaGupta18](../profile/IshaGupta18) July 22, 2019 14:06
+by [IshaGupta18](../profile/IshaGupta18) | July 22, 2019 14:06
 
 July 22, 2019 14:06 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Risks to public comment'
-tagnames: advocacy, public-comment, bots
+title: "Risks to public comment"\ntagnames: 'advocacy, public-comment, bots'
 author: liz
 path: /notes/liz/12-03-2017/risks-to-public-comment.md
 nid: 15290
@@ -12,7 +11,7 @@ uid: 7
 
 # Risks to public comment
 
-by [liz](../profile/liz) December 03, 2017 18:52
+by [liz](../profile/liz) | December 03, 2017 18:52
 
 December 03, 2017 18:52 | Tags: [advocacy](../tag/advocacy), [public-comment](../tag/public-comment), [bots](../tag/bots)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Reflections on Sensor Journalism'
-tagnames: sensor-journalism, response:12748, hidden:response
+title: "Reflections on Sensor Journalism"\ntagnames: 'sensor-journalism, response:12748, hidden:response'
 author: lloydmallison
 path: /notes/lloydmallison/02-24-2016/reflections-on-sensor-journalism.md
 nid: 12739
@@ -10,7 +9,7 @@ uid: 461505
 
 # Reflections on Sensor Journalism
 
-by [lloydmallison](../profile/lloydmallison) February 24, 2016 15:55
+by [lloydmallison](../profile/lloydmallison) | February 24, 2016 15:55
 
 February 24, 2016 15:55 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

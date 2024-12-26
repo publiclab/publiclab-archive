@@ -1,6 +1,5 @@
 ---
-title: 'NGB NDVI Video Optimization (Red/Blue Manual Gain Control)'
-tagnames: video, ndvi, raspberry-pi, ngb, pi-camera, opencv, gsoc-2018, noir, awb
+title: "NGB NDVI Video Optimization (Red/Blue Manual Gain Control)"\ntagnames: 'video, ndvi, raspberry-pi, ngb, pi-camera, opencv, gsoc-2018, noir, awb'
 author: MaggPi
 path: /notes/MaggPi/08-03-2018/ngb-ndvi-video-optimization-red-blue-manual-gain-control.md
 nid: 16844
@@ -12,7 +11,7 @@ uid: 501996
 
 # NGB NDVI Video Optimization (Red/Blue Manual Gain Control)
 
-by [MaggPi](../profile/MaggPi) August 03, 2018 02:06
+by [MaggPi](../profile/MaggPi) | August 03, 2018 02:06
 
 August 03, 2018 02:06 | Tags: [video](../tag/video), [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [ngb](../tag/ngb), [pi-camera](../tag/pi-camera), [opencv](../tag/opencv), [gsoc-2018](../tag/gsoc-2018), [noir](../tag/noir), [awb](../tag/awb)
 

@@ -1,6 +1,5 @@
 ---
-title: '$200.00 laser Vs $18.00 laser'
-tagnames: 
+title: "$200.00 laser Vs $18.00 laser"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/03-31-2016/200-00-laser-vs-18-00-laser.md
 nid: 12899
@@ -12,7 +11,7 @@ uid: 461120
 
 # $200.00 laser Vs $18.00 laser
 
-by [dhaffnersr](../profile/dhaffnersr) March 31, 2016 12:22
+by [dhaffnersr](../profile/dhaffnersr) | March 31, 2016 12:22
 
 March 31, 2016 12:22 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Add a high-quality webcam to your Community Microscope kit using LEGO'
-tagnames: kickstarter, webcam, lego, pi, seeks:replications, activity:microscope, microscopes, activity:microscopes, activity:basic-microscope, pi-, community-microscope, activity:lego, activity:community-microscope-assembly, community-microscope-assembly, build:lego
+title: "Add a high-quality webcam to your Community Microscope kit using LEGO"\ntagnames: 'kickstarter, webcam, lego, pi, seeks:replications, activity:microscope, microscopes, activity:microscopes, activity:basic-microscope, pi-, community-microscope, activity:lego, activity:community-microscope-assembly, community-microscope-assembly, build:lego'
 author: warren
 path: /notes/warren/10-24-2018/add-a-high-quality-webcam-to-your-community-microscope-kit.md
 nid: 17386
@@ -12,7 +11,7 @@ uid: 1
 
 # Add a high-quality webcam to your Community Microscope kit using LEGO
 
-by [warren](../profile/warren) October 24, 2018 18:25
+by [warren](../profile/warren) | October 24, 2018 18:25
 
 October 24, 2018 18:25 | Tags: [kickstarter](../tag/kickstarter), [webcam](../tag/webcam), [lego](../tag/lego), [pi](../tag/pi), [seeks:replications](../tag/seeks:replications), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [activity:basic-microscope](../tag/activity:basic-microscope), [pi-](../tag/pi-), [community-microscope](../tag/community-microscope), [activity:lego](../tag/activity:lego), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [community-microscope-assembly](../tag/community-microscope-assembly), [build:lego](../tag/build:lego)
 

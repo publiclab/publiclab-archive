@@ -1,6 +1,5 @@
 ---
-title: 'Adafruit Feathers for datalogging'
-tagnames: sensors, datalogger, riffle, data-logging, mini-pearl-logger, location:blurred, adafruit, feather, mayfly, place:india, lat:22, datalogger-option, lon:76, zoom:6
+title: "Adafruit Feathers for datalogging"\ntagnames: 'sensors, datalogger, riffle, data-logging, mini-pearl-logger, location:blurred, adafruit, feather, mayfly, place:india, lat:22, datalogger-option, lon:76, zoom:6'
 author: cfastie
 path: /notes/cfastie/11-14-2017/adafruit-feathers-for-datalogging.md
 nid: 15181
@@ -12,7 +11,7 @@ uid: 554
 
 # Adafruit Feathers for datalogging
 
-by [cfastie](../profile/cfastie) November 14, 2017 02:22
+by [cfastie](../profile/cfastie) | November 14, 2017 02:22
 
 November 14, 2017 02:22 | Tags: [sensors](../tag/sensors), [datalogger](../tag/datalogger), [riffle](../tag/riffle), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [location:blurred](../tag/location:blurred), [adafruit](../tag/adafruit), [feather](../tag/feather), [mayfly](../tag/mayfly), [place:india](../tag/place:india), [lat:22](../tag/lat:22), [datalogger-option](../tag/datalogger-option), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Conferences'
-tagnames: community, conferences, organizers
+title: "Conferences"\ntagnames: 'community, conferences, organizers'
 author: warren
 path: /wiki/conferences.md
 nid: 386

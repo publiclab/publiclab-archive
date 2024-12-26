@@ -1,6 +1,5 @@
 ---
-title: 'Aquifers and Groundwater Sources '
-tagnames: lat:22, first-time-poster, lon:76, zoom:6
+title: "Aquifers and Groundwater Sources "\ntagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/09-27-2022/aquifers-and-groundwater-sources.md
 nid: 34999
@@ -12,7 +11,7 @@ uid: 788868
 
 # Aquifers and Groundwater Sources 
 
-by [TheChessGym](../profile/TheChessGym) September 27, 2022 13:43
+by [TheChessGym](../profile/TheChessGym) | September 27, 2022 13:43
 
 September 27, 2022 13:43 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

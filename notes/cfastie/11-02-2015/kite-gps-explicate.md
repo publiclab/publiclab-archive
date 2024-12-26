@@ -1,6 +1,5 @@
 ---
-title: 'Kite => GPS => Explicate'
-tagnames: kite-mapping, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12335, birdseye, bristol-vt, s100-gps
+title: "Kite => GPS => Explicate"\ntagnames: 'kite-mapping, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12335, birdseye, bristol-vt, s100-gps'
 author: cfastie
 path: /notes/cfastie/11-02-2015/kite-gps-explicate.md
 nid: 12355
@@ -12,7 +11,7 @@ uid: 554
 
 # Kite => GPS => Explicate
 
-by [cfastie](../profile/cfastie) November 02, 2015 16:56
+by [cfastie](../profile/cfastie) | November 02, 2015 16:56
 
 November 02, 2015 16:56 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12335](../tag/response:12335), [birdseye](../tag/birdseye), [bristol-vt](../tag/bristol-vt), [s100-gps](../tag/s100-gps)
 

@@ -1,6 +1,5 @@
 ---
-title: 'India'
-tagnames: lat:29, place:india, lon:76, zoom:4
+title: "India"\ntagnames: 'lat:29, place:india, lon:76, zoom:4'
 author: gauravano
 path: /wiki/india.md
 nid: 18103

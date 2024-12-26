@@ -1,6 +1,5 @@
 ---
-title: 'The Africatown Connections Blueway: Legacy and Rebirth'
-tagnames: balloon-mapping, mobile, water-quality, blog, with:stevie, mejac, africatown, blueway, chickasaw-creek, national-park-service, c.h.e.s.s., hogbayou, africatown_connections, csf15, response:14943
+title: "The Africatown Connections Blueway: Legacy and Rebirth"\ntagnames: 'balloon-mapping, mobile, water-quality, blog, with:stevie, mejac, africatown, blueway, chickasaw-creek, national-park-service, c.h.e.s.s., hogbayou, africatown_connections, csf15, response:14943'
 author: joyofsoy
 path: /notes/joyofsoy/11-09-2018/the-africatown-connections-blueway-legacy-and-rebirth.md
 nid: 17498
@@ -12,7 +11,7 @@ uid: 540844
 
 # The Africatown Connections Blueway: Legacy and Rebirth
 
-by [joyofsoy](../profile/joyofsoy) November 09, 2018 18:17
+by [joyofsoy](../profile/joyofsoy) | November 09, 2018 18:17
 
 November 09, 2018 18:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [mobile](../tag/mobile), [water-quality](../tag/water-quality), [blog](../tag/blog), [with:stevie](../tag/with:stevie), [mejac](../tag/mejac), [africatown](../tag/africatown), [blueway](../tag/blueway), [chickasaw-creek](../tag/chickasaw-creek), [national-park-service](../tag/national-park-service), [c.h.e.s.s.](../tag/c.h.e.s.s.), [hogbayou](../tag/hogbayou), [africatown_connections](../tag/africatown_connections), [csf15](../tag/csf15), [response:14943](../tag/response:14943)
 

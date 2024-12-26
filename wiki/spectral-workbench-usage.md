@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Workbench usage'
-tagnames: spectrometer, spectralworkbench, upload, red, parent:spectral-workbench, uvc, manual, save
+title: "Spectral Workbench usage"\ntagnames: 'spectrometer, spectralworkbench, upload, red, parent:spectral-workbench, uvc, manual, save'
 author: warren
 path: /wiki/spectral-workbench-usage.md
 nid: 598

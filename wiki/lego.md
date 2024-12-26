@@ -1,6 +1,5 @@
 ---
-title: 'lego'
-tagnames: redirect:15354
+title: "lego"\ntagnames: 'redirect:15354'
 author: warren
 path: /wiki/lego.md
 nid: 15362

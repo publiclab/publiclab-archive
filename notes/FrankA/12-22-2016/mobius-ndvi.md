@@ -1,6 +1,5 @@
 ---
-title: 'Mobius NDVI'
-tagnames: ndvi, infrared, health, plant, infra-red, mobius-actioncam, mobius, mobius-action-cam
+title: "Mobius NDVI"\ntagnames: 'ndvi, infrared, health, plant, infra-red, mobius-actioncam, mobius, mobius-action-cam'
 author: FrankA
 path: /notes/FrankA/12-22-2016/mobius-ndvi.md
 nid: 13803
@@ -12,7 +11,7 @@ uid: 469049
 
 # Mobius NDVI
 
-by [FrankA](../profile/FrankA) December 22, 2016 20:00
+by [FrankA](../profile/FrankA) | December 22, 2016 20:00
 
 December 22, 2016 20:00 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [health](../tag/health), [plant](../tag/plant), [infra-red](../tag/infra-red), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam)
 

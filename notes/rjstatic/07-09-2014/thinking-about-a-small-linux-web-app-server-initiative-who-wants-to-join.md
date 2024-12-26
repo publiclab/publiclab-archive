@@ -1,6 +1,5 @@
 ---
-title: 'Thinking about a small Linux web app server initiative. Who wants to join?'
-tagnames: server, farmhack, raspberry-pi, apitronics, open-ground, fido, rpi, groundhog, ole, agpl, couchdb, open-pipe-kit
+title: "Thinking about a small Linux web app server initiative. Who wants to join?"\ntagnames: 'server, farmhack, raspberry-pi, apitronics, open-ground, fido, rpi, groundhog, ole, agpl, couchdb, open-pipe-kit'
 author: rjstatic
 path: /07-09-2014/thinking-about-a-small-linux-web-app-server-initiative-who-wants-to-join.md
 nid: 10668
@@ -12,7 +11,7 @@ uid: 174
 
 # Thinking about a small Linux web app server initiative. Who wants to join?
 
-by [rjstatic](../profile/rjstatic) July 09, 2014 12:54
+by [rjstatic](../profile/rjstatic) | July 09, 2014 12:54
 
 July 09, 2014 12:54 | Tags: [server](../tag/server), [farmhack](../tag/farmhack), [raspberry-pi](../tag/raspberry-pi), [apitronics](../tag/apitronics), [open-ground](../tag/open-ground), [fido](../tag/fido), [rpi](../tag/rpi), [groundhog](../tag/groundhog), [ole](../tag/ole), [agpl](../tag/agpl), [couchdb](../tag/couchdb), [open-pipe-kit](../tag/open-pipe-kit)
 

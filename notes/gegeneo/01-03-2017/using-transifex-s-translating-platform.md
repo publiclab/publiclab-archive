@@ -1,6 +1,5 @@
 ---
-title: 'Using Transifex's Translating Platform'
-tagnames: community, website, activity, internationalization, localization, translation, language, gcin, gcin-2016, replication:13651, transifex
+title: "Using Transifex's Translating Platform"\ntagnames: 'community, website, activity, internationalization, localization, translation, language, gcin, gcin-2016, replication:13651, transifex'
 author: gegeneo
 path: /notes/gegeneo/01-03-2017/using-transifex-s-translating-platform.md
 nid: 13832
@@ -12,7 +11,7 @@ uid: 501144
 
 # Using Transifex's Translating Platform
 
-by [gegeneo](../profile/gegeneo) January 03, 2017 10:10
+by [gegeneo](../profile/gegeneo) | January 03, 2017 10:10
 
 January 03, 2017 10:10 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [internationalization](../tag/internationalization), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
 

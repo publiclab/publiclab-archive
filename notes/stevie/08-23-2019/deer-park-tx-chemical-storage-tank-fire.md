@@ -1,6 +1,5 @@
 ---
-title: 'Deer Park, TX Chemical Storage Tank Fire '
-tagnames: industrial-monitoring, air-quality, water, air-monitoring, texas, smoke, oil-and-gas, location:blurred, place:united-states, issue-brief, lat:29, lon:-95, cellphone-monitoring, petrochemical-pollution, toxic-chemicals, industrial-fire
+title: "Deer Park, TX Chemical Storage Tank Fire "\ntagnames: 'industrial-monitoring, air-quality, water, air-monitoring, texas, smoke, oil-and-gas, location:blurred, place:united-states, issue-brief, lat:29, lon:-95, cellphone-monitoring, petrochemical-pollution, toxic-chemicals, industrial-fire'
 author: stevie
 path: /notes/stevie/08-23-2019/deer-park-tx-chemical-storage-tank-fire.md
 nid: 20638
@@ -12,7 +11,7 @@ uid: 422561
 
 # Deer Park, TX Chemical Storage Tank Fire 
 
-by [stevie](../profile/stevie) August 23, 2019 17:04
+by [stevie](../profile/stevie) | August 23, 2019 17:04
 
 August 23, 2019 17:04 | Tags: [industrial-monitoring](../tag/industrial-monitoring), [air-quality](../tag/air-quality), [water](../tag/water), [air-monitoring](../tag/air-monitoring), [texas](../tag/texas), [smoke](../tag/smoke), [oil-and-gas](../tag/oil-and-gas), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [issue-brief](../tag/issue-brief), [lat:29](../tag/lat:29), [lon:-95](../tag/lon:-95), [cellphone-monitoring](../tag/cellphone-monitoring), [petrochemical-pollution](../tag/petrochemical-pollution), [toxic-chemicals](../tag/toxic-chemicals), [industrial-fire](../tag/industrial-fire)
 

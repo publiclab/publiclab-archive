@@ -1,6 +1,5 @@
 ---
-title: 'test'
-tagnames: 
+title: "test"\ntagnames: ''
 author: liz
 path: /wiki/test.md
 nid: 24852

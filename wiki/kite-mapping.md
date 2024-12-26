@@ -1,6 +1,5 @@
 ---
-title: 'Kite Mapping'
-tagnames: kite-mapping, diy-kite, kit, parent:balloon-mapping, kite-kit
+title: "Kite Mapping"\ntagnames: 'kite-mapping, diy-kite, kit, parent:balloon-mapping, kite-kit'
 author: warren
 path: /wiki/kite-mapping.md
 nid: 368

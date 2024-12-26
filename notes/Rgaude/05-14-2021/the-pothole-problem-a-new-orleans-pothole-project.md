@@ -1,6 +1,5 @@
 ---
-title: 'The Pothole Problem: A New Orleans Pothole Project'
-tagnames: gulf-coast, laplace, louisiana, transportation, new-orleans, potholes, roads, stem, zoom:7, asphalt, lat:30.050076, lon:-90.571289
+title: "The Pothole Problem: A New Orleans Pothole Project"\ntagnames: 'gulf-coast, laplace, louisiana, transportation, new-orleans, potholes, roads, stem, zoom:7, asphalt, lat:30.050076, lon:-90.571289'
 author: Rgaude
 path: /notes/Rgaude/05-14-2021/the-pothole-problem-a-new-orleans-pothole-project.md
 nid: 26592
@@ -12,7 +11,7 @@ uid: 749812
 
 # The Pothole Problem: A New Orleans Pothole Project
 
-by [Rgaude](../profile/Rgaude) May 14, 2021 15:13
+by [Rgaude](../profile/Rgaude) | May 14, 2021 15:13
 
 May 14, 2021 15:13 | Tags: [gulf-coast](../tag/gulf-coast), [laplace](../tag/laplace), [louisiana](../tag/louisiana), [transportation](../tag/transportation), [new-orleans](../tag/new-orleans), [potholes](../tag/potholes), [roads](../tag/roads), [stem](../tag/stem), [zoom:7](../tag/zoom:7), [asphalt](../tag/asphalt), [lat:30.050076](../tag/lat:30.050076), [lon:-90.571289](../tag/lon:-90.571289)
 

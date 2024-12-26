@@ -1,6 +1,5 @@
 ---
-title: 'Install a filter or change the lens in a Mobius Action Cam'
-tagnames: near-infrared-camera, infrared, infragram, infragram-filters, mobius-actioncam, mobius, mobius-action-cam, with:abdul, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:mobius, activity:mobius-action-cam, activity:near-infrared-camera, camera-hacks, activity:infrared-camera-conversion, infrared-camera-conversion, activity:infragram-point-shoot
+title: "Install a filter or change the lens in a Mobius Action Cam"\ntagnames: 'near-infrared-camera, infrared, infragram, infragram-filters, mobius-actioncam, mobius, mobius-action-cam, with:abdul, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:mobius, activity:mobius-action-cam, activity:near-infrared-camera, camera-hacks, activity:infrared-camera-conversion, infrared-camera-conversion, activity:infragram-point-shoot'
 author: warren
 path: /notes/warren/10-19-2017/install-a-filter-or-change-the-lens-in-a-mobius-action-cam.md
 nid: 15070
@@ -12,7 +11,7 @@ uid: 1
 
 # Install a filter or change the lens in a Mobius Action Cam
 
-by [warren](../profile/warren) October 19, 2017 21:37
+by [warren](../profile/warren) | October 19, 2017 21:37
 
 October 19, 2017 21:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-filters](../tag/infragram-filters), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam), [with:abdul](../tag/with:abdul), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:mobius](../tag/activity:mobius), [activity:mobius-action-cam](../tag/activity:mobius-action-cam), [activity:near-infrared-camera](../tag/activity:near-infrared-camera), [camera-hacks](../tag/camera-hacks), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot)
 

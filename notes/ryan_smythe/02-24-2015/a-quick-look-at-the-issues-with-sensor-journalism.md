@@ -1,6 +1,5 @@
 ---
-title: 'A Quick Look At The Issues With Sensor Journalism'
-tagnames: sensor-journalism
+title: "A Quick Look At The Issues With Sensor Journalism"\ntagnames: 'sensor-journalism'
 author: ryan_smythe
 path: /notes/ryan_smythe/02-24-2015/a-quick-look-at-the-issues-with-sensor-journalism.md
 nid: 11632
@@ -12,7 +11,7 @@ uid: 434200
 
 # A Quick Look At The Issues With Sensor Journalism
 
-by [ryan_smythe](../profile/ryan_smythe) February 24, 2015 00:37
+by [ryan_smythe](../profile/ryan_smythe) | February 24, 2015 00:37
 
 February 24, 2015 00:37 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

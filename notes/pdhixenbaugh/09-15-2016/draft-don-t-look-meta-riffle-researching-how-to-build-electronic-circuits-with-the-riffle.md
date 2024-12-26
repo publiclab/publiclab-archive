@@ -1,6 +1,5 @@
 ---
-title: '(Draft, don't look) Meta-Riffle: Researching how to build Electronic Circuits with the Riffle'
-tagnames: draft
+title: "(Draft, don't look) Meta-Riffle: Researching how to build Electronic Circuits with the Riffle"\ntagnames: 'draft'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/09-15-2016/draft-don-t-look-meta-riffle-researching-how-to-build-electronic-circuits-with-the-riffle.md
 nid: 13448
@@ -12,7 +11,7 @@ uid: 459085
 
 # (Draft, don't look) Meta-Riffle: Researching how to build Electronic Circuits with the Riffle
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) September 15, 2016 04:32
+by [pdhixenbaugh](../profile/pdhixenbaugh) | September 15, 2016 04:32
 
 September 15, 2016 04:32 | Tags: [draft](../tag/draft)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Agrotóxicos en Cosquín - Argentina'
-tagnames: lang:es, project, argentina, soil-sampling, ballon-mapping, spanish, zoom:8, cosquin, place:cordoba-argentina, monsanto, lat:-31.245681, lon:-64.467773, place:argentina, autodefensa-vecinal
+title: "Agrotóxicos en Cosquín - Argentina"\ntagnames: 'lang:es, project, argentina, soil-sampling, ballon-mapping, spanish, zoom:8, cosquin, place:cordoba-argentina, monsanto, lat:-31.245681, lon:-64.467773, place:argentina, autodefensa-vecinal'
 author: imvec
 path: /wiki/agrotoxicos-en-cosquin-argentina.md
 nid: 22690

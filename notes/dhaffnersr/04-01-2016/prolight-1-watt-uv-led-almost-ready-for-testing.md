@@ -1,6 +1,5 @@
 ---
-title: 'Prolight 1 Watt UV LED almost ready for testing...'
-tagnames: 
+title: "Prolight 1 Watt UV LED almost ready for testing..."\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-01-2016/prolight-1-watt-uv-led-almost-ready-for-testing.md
 nid: 12902
@@ -12,7 +11,7 @@ uid: 461120
 
 # Prolight 1 Watt UV LED almost ready for testing...
 
-by [dhaffnersr](../profile/dhaffnersr) April 01, 2016 15:40
+by [dhaffnersr](../profile/dhaffnersr) | April 01, 2016 15:40
 
 April 01, 2016 15:40 | Tags: 
 

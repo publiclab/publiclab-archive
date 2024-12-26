@@ -1,6 +1,5 @@
 ---
-title: 'home-intro'
-tagnames: bottom, activity-, activity-header
+title: "home-intro"\ntagnames: 'bottom, activity-, activity-header'
 author: warren
 path: /feature/home-intro.md
 nid: 16602

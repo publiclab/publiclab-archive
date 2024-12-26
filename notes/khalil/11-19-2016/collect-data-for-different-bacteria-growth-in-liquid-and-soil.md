@@ -1,6 +1,5 @@
 ---
-title: 'collect data for different bacteria growth in liquid and soil'
-tagnames: water, bacteria, drinking, cultivation
+title: "collect data for different bacteria growth in liquid and soil"\ntagnames: 'water, bacteria, drinking, cultivation'
 author: khalil
 path: /notes/khalil/11-19-2016/collect-data-for-different-bacteria-growth-in-liquid-and-soil.md
 nid: 13712
@@ -10,7 +9,7 @@ uid: 497529
 
 # collect data for different bacteria growth in liquid and soil
 
-by [khalil](../profile/khalil) November 19, 2016 08:01
+by [khalil](../profile/khalil) | November 19, 2016 08:01
 
 November 19, 2016 08:01 | Tags: [water](../tag/water), [bacteria](../tag/bacteria), [drinking](../tag/drinking), [cultivation](../tag/cultivation)
 

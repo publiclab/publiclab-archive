@@ -1,6 +1,5 @@
 ---
-title: 'NDVI-NRG infrared tests from an airplane'
-tagnames: near-infrared-camera, ndvi, passenger-pigeon, plane, window
+title: "NDVI-NRG infrared tests from an airplane"\ntagnames: 'near-infrared-camera, ndvi, passenger-pigeon, plane, window'
 author: warren
 path: /notes/warren/3-15-2011/ndvi-nrg-infrared-tests-airplane.md
 nid: 147
@@ -12,7 +11,7 @@ uid: 1
 
 # NDVI-NRG infrared tests from an airplane
 
-by [warren](../profile/warren) March 15, 2011 21:33
+by [warren](../profile/warren) | March 15, 2011 21:33
 
 March 15, 2011 21:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [passenger-pigeon](../tag/passenger-pigeon), [plane](../tag/plane), [window](../tag/window)
 

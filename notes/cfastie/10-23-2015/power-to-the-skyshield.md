@@ -1,6 +1,5 @@
 ---
-title: 'Power to the SkyShield'
-tagnames: kite-mapping, vermont, kite, saturnv, skyshield, response:12323
+title: "Power to the SkyShield"\ntagnames: 'kite-mapping, vermont, kite, saturnv, skyshield, response:12323'
 author: cfastie
 path: /notes/cfastie/10-23-2015/power-to-the-skyshield.md
 nid: 12330
@@ -12,7 +11,7 @@ uid: 554
 
 # Power to the SkyShield
 
-by [cfastie](../profile/cfastie) October 23, 2015 18:43
+by [cfastie](../profile/cfastie) | October 23, 2015 18:43
 
 October 23, 2015 18:43 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:12323](../tag/response:12323)
 

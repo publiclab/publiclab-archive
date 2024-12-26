@@ -1,6 +1,5 @@
 ---
-title: 'Maps'
-tagnames: 
+title: "Maps"\ntagnames: ''
 author: gonzoearth
 path: /wiki/maps.md
 nid: 153

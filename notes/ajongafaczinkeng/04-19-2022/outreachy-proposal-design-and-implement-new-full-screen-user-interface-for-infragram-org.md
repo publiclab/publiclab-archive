@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: Design and implement new full-screen user interface for Infragram.org'
-tagnames: first-time-poster, zoom:6, outreachy-2022, lat:4.1492, outreachy-summer-2022, lon:9.27246
+title: "Outreachy proposal: Design and implement new full-screen user interface for Infragram.org"\ntagnames: 'first-time-poster, zoom:6, outreachy-2022, lat:4.1492, outreachy-summer-2022, lon:9.27246'
 author: ajongafaczinkeng
 path: /notes/ajongafaczinkeng/04-19-2022/outreachy-proposal-design-and-implement-new-full-screen-user-interface-for-infragram-org.md
 nid: 30487
@@ -12,7 +11,7 @@ uid: 795065
 
 # Outreachy proposal: Design and implement new full-screen user interface for Infragram.org
 
-by [ajongafaczinkeng](../profile/ajongafaczinkeng) April 19, 2022 14:10
+by [ajongafaczinkeng](../profile/ajongafaczinkeng) | April 19, 2022 14:10
 
 April 19, 2022 14:10 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [outreachy-2022](../tag/outreachy-2022), [lat:4.1492](../tag/lat:4.1492), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lon:9.27246](../tag/lon:9.27246)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab receives support from  the Rita Allen Foundation and the Betsy and Jesse Fink Foundation'
-tagnames: nonprofit
+title: "Public Lab receives support from  the Rita Allen Foundation and the Betsy and Jesse Fink Foundation"\ntagnames: 'nonprofit'
 author: Shannon
 path: /notes/Shannon/02-27-2014/public-lab-receives-support-from-the-rita-allen-foundation-and-the-betsy-and-jesse-fink-foundation.md
 nid: 10072
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab receives support from  the Rita Allen Foundation and the Betsy and Jesse Fink Foundation
 
-by [Shannon](../profile/Shannon) February 27, 2014 12:45
+by [Shannon](../profile/Shannon) | February 27, 2014 12:45
 
 February 27, 2014 12:45 | Tags: [nonprofit](../tag/nonprofit)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Can we use a color calibration reference card to calculate absolute values for DIY NDVI?'
-tagnames: near-infrared-camera, calibration, infragram, infragram-point-shoot, answered, question:multispectral-imaging, multispectral-imaging, question:infragram-challenges, infragram-challenges, question:infragram-analysis, calibration-card, color-reference, absolute, pin:question:infragram-challenges
+title: "Can we use a color calibration reference card to calculate absolute values for DIY NDVI?"\ntagnames: 'near-infrared-camera, calibration, infragram, infragram-point-shoot, answered, question:multispectral-imaging, multispectral-imaging, question:infragram-challenges, infragram-challenges, question:infragram-analysis, calibration-card, color-reference, absolute, pin:question:infragram-challenges'
 author: warren
 path: /notes/warren/10-27-2017/can-we-use-a-color-calibration-reference-card-to-calculate-absolute-values-for-diy-ndvi.md
 nid: 15123
@@ -10,7 +9,7 @@ uid: 1
 
 # Can we use a color calibration reference card to calculate absolute values for DIY NDVI?
 
-by [warren](../profile/warren) October 27, 2017 20:18
+by [warren](../profile/warren) | October 27, 2017 20:18
 
 October 27, 2017 20:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [calibration](../tag/calibration), [infragram](../tag/infragram), [infragram-point-shoot](../tag/infragram-point-shoot), [answered](../tag/answered), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:infragram-challenges](../tag/question:infragram-challenges), [infragram-challenges](../tag/infragram-challenges), [question:infragram-analysis](../tag/question:infragram-analysis), [calibration-card](../tag/calibration-card), [color-reference](../tag/color-reference), [absolute](../tag/absolute), [pin:question:infragram-challenges](../tag/pin:question:infragram-challenges)
 

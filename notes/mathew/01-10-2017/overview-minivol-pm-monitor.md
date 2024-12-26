@@ -1,6 +1,5 @@
 ---
-title: 'Overview: MiniVol PM monitor'
-tagnames: air-quality, dust, silica, pm, library, filter-pm, minivol
+title: "Overview: MiniVol PM monitor"\ntagnames: 'air-quality, dust, silica, pm, library, filter-pm, minivol'
 author: mathew
 path: /notes/mathew/01-10-2017/overview-minivol-pm-monitor.md
 nid: 13848
@@ -12,7 +11,7 @@ uid: 4
 
 # Overview: MiniVol PM monitor
 
-by [mathew](../profile/mathew) January 10, 2017 00:41
+by [mathew](../profile/mathew) | January 10, 2017 00:41
 
 January 10, 2017 00:41 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [library](../tag/library), [filter-pm](../tag/filter-pm), [minivol](../tag/minivol)
 

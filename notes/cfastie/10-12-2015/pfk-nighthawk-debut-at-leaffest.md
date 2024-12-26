@@ -1,6 +1,5 @@
 ---
-title: 'PFK Nighthawk debut at LEAFFEST'
-tagnames: kite-mapping, vermont, kite, leaffest, saturnv, skyshield, leaffest2015, response:12289, pfk, category:field-test
+title: "PFK Nighthawk debut at LEAFFEST"\ntagnames: 'kite-mapping, vermont, kite, leaffest, saturnv, skyshield, leaffest2015, response:12289, pfk, category:field-test'
 author: cfastie
 path: /notes/cfastie/10-12-2015/pfk-nighthawk-debut-at-leaffest.md
 nid: 12290
@@ -12,7 +11,7 @@ uid: 554
 
 # PFK Nighthawk debut at LEAFFEST
 
-by [cfastie](../profile/cfastie) October 12, 2015 02:29
+by [cfastie](../profile/cfastie) | October 12, 2015 02:29
 
 October 12, 2015 02:29 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite](../tag/kite), [leaffest](../tag/leaffest), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [leaffest2015](../tag/leaffest2015), [response:12289](../tag/response:12289), [pfk](../tag/pfk), [category:field-test](../tag/category:field-test)
 

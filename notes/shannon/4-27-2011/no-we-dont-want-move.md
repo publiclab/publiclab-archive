@@ -1,6 +1,5 @@
 ---
-title: 'No, we don't want to move.'
-tagnames: 
+title: "No, we don't want to move."\ntagnames: ''
 author: Shannon
 path: /notes/shannon/4-27-2011/no-we-dont-want-move.md
 nid: 196
@@ -10,7 +9,7 @@ uid: 9
 
 # No, we don't want to move.
 
-by [Shannon](../profile/Shannon) April 27, 2011 15:49
+by [Shannon](../profile/Shannon) | April 27, 2011 15:49
 
 April 27, 2011 15:49 | Tags: 
 

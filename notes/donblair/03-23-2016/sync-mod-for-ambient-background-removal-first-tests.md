@@ -1,6 +1,5 @@
 ---
-title: 'Sync-mod for ambient background removal -- first tests'
-tagnames: 
+title: "Sync-mod for ambient background removal -- first tests"\ntagnames: ''
 author: donblair
 path: /notes/donblair/03-23-2016/sync-mod-for-ambient-background-removal-first-tests.md
 nid: 12881
@@ -12,7 +11,7 @@ uid: 43651
 
 # Sync-mod for ambient background removal -- first tests
 
-by [donblair](../profile/donblair) March 23, 2016 18:01
+by [donblair](../profile/donblair) | March 23, 2016 18:01
 
 March 23, 2016 18:01 | Tags: 
 

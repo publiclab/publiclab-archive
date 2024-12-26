@@ -1,6 +1,5 @@
 ---
-title: 'NDVI two camera system calibration'
-tagnames: 
+title: "NDVI two camera system calibration"\ntagnames: ''
 author: gpenzo
 path: /notes/gpenzo/05-26-2015/ndvi-two-camera-system-calibration.md
 nid: 11840
@@ -12,7 +11,7 @@ uid: 420719
 
 # NDVI two camera system calibration
 
-by [gpenzo](../profile/gpenzo) May 26, 2015 21:25
+by [gpenzo](../profile/gpenzo) | May 26, 2015 21:25
 
 May 26, 2015 21:25 | Tags: 
 

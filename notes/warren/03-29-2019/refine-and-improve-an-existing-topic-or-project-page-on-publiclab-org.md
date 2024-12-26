@@ -1,6 +1,5 @@
 ---
-title: 'Refine and improve an existing topic or project page on PublicLab.org'
-tagnames: website, power-tags, wiki-gardening, seeks:replications, activity:website, inline-power-tags, knowledge-base
+title: "Refine and improve an existing topic or project page on PublicLab.org"\ntagnames: 'website, power-tags, wiki-gardening, seeks:replications, activity:website, inline-power-tags, knowledge-base'
 author: warren
 path: /notes/warren/03-29-2019/refine-and-improve-an-existing-topic-or-project-page-on-publiclab-org.md
 nid: 18904
@@ -12,7 +11,7 @@ uid: 1
 
 # Refine and improve an existing topic or project page on PublicLab.org
 
-by [warren](../profile/warren) March 29, 2019 20:14
+by [warren](../profile/warren) | March 29, 2019 20:14
 
 March 29, 2019 20:14 | Tags: [website](../tag/website), [power-tags](../tag/power-tags), [wiki-gardening](../tag/wiki-gardening), [seeks:replications](../tag/seeks:replications), [activity:website](../tag/activity:website), [inline-power-tags](../tag/inline-power-tags), [knowledge-base](../tag/knowledge-base)
 

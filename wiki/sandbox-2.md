@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-2'
-tagnames: demo, 14625
+title: "sandbox-2"\ntagnames: 'demo, 14625'
 author: warren
 path: /wiki/sandbox-2.md
 nid: 15029

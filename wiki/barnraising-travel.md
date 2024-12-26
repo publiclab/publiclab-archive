@@ -1,6 +1,5 @@
 ---
-title: 'Barnraising Travel'
-tagnames: 
+title: "Barnraising Travel"\ntagnames: ''
 author: warren
 path: /wiki/barnraising-travel.md
 nid: 479

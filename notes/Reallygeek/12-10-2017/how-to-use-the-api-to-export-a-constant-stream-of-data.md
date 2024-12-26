@@ -1,6 +1,5 @@
 ---
-title: 'How to use the API to export a constant stream of data?'
-tagnames: arduino, spectralworkbench, spectral-workbench-api, question:spectral-workbench
+title: "How to use the API to export a constant stream of data?"\ntagnames: 'arduino, spectralworkbench, spectral-workbench-api, question:spectral-workbench'
 author: Reallygeek
 path: /notes/Reallygeek/12-10-2017/how-to-use-the-api-to-export-a-constant-stream-of-data.md
 nid: 15349
@@ -10,7 +9,7 @@ uid: 513343
 
 # How to use the API to export a constant stream of data?
 
-by [Reallygeek](../profile/Reallygeek) December 10, 2017 20:08
+by [Reallygeek](../profile/Reallygeek) | December 10, 2017 20:08
 
 December 10, 2017 20:08 | Tags: [arduino](../tag/arduino), [spectralworkbench](../tag/spectralworkbench), [spectral-workbench-api](../tag/spectral-workbench-api), [question:spectral-workbench](../tag/question:spectral-workbench)
 

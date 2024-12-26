@@ -1,6 +1,5 @@
 ---
-title: 'Balloon mapping meetup, Saturday 1/12/13, in San Francisco'
-tagnames: balloon-mapping
+title: "Balloon mapping meetup, Saturday 1/12/13, in San Francisco"\ntagnames: 'balloon-mapping'
 author: patcoyle
 path: /notes/patcoyle/1-21-2013/balloon-mapping-meetup-saturday-11213-san-francisco.md
 nid: 5664
@@ -12,7 +11,7 @@ uid: 77
 
 # Balloon mapping meetup, Saturday 1/12/13, in San Francisco
 
-by [patcoyle](../profile/patcoyle) January 21, 2013 18:42
+by [patcoyle](../profile/patcoyle) | January 21, 2013 18:42
 
 January 21, 2013 18:42 | Tags: [balloon-mapping](../tag/balloon-mapping)
 

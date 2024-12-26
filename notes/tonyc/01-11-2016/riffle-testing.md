@@ -1,6 +1,5 @@
 ---
-title: 'Riffle testing'
-tagnames: riffle
+title: "Riffle testing"\ntagnames: 'riffle'
 author: tonyc
 path: /notes/tonyc/01-11-2016/riffle-testing.md
 nid: 12577
@@ -12,7 +11,7 @@ uid: 447491
 
 # Riffle testing
 
-by [tonyc](../profile/tonyc) January 11, 2016 23:41
+by [tonyc](../profile/tonyc) | January 11, 2016 23:41
 
 January 11, 2016 23:41 | Tags: [riffle](../tag/riffle)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Challenge Teams'
-tagnames: spectrometer, spectralchallenge
+title: "Spectral Challenge Teams"\ntagnames: 'spectrometer, spectralchallenge'
 author: warren
 path: /wiki/spectral-challenge-teams.md
 nid: 6397

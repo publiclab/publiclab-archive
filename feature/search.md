@@ -1,6 +1,5 @@
 ---
-title: 'search'
-tagnames: 
+title: "search"\ntagnames: ''
 author: warren
 path: /feature/search.md
 nid: 23344

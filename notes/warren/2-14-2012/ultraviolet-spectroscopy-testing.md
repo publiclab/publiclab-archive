@@ -1,6 +1,5 @@
 ---
-title: 'Ultraviolet spectroscopy test at ~350nm'
-tagnames: 
+title: "Ultraviolet spectroscopy test at ~350nm"\ntagnames: ''
 author: warren
 path: /notes/warren/2-14-2012/ultraviolet-spectroscopy-testing.md
 nid: 789
@@ -12,7 +11,7 @@ uid: 1
 
 # Ultraviolet spectroscopy test at ~350nm
 
-by [warren](../profile/warren) February 14, 2012 22:10
+by [warren](../profile/warren) | February 14, 2012 22:10
 
 February 14, 2012 22:10 | Tags: 
 

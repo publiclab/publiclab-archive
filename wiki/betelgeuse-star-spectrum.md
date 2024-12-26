@@ -1,6 +1,5 @@
 ---
-title: 'Betelgeuse star spectrum'
-tagnames: location:blurred, lat:28, lon:77, place:india
+title: "Betelgeuse star spectrum"\ntagnames: 'location:blurred, lat:28, lon:77, place:india'
 author: vishal
 path: /wiki/betelgeuse-star-spectrum.md
 nid: 15412

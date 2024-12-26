@@ -1,6 +1,5 @@
 ---
-title: 'Meet Public Lab’s new Research Curation Fellows!'
-tagnames: research, fellows, research-curation-fellows
+title: "Meet Public Lab’s new Research Curation Fellows!"\ntagnames: 'research, fellows, research-curation-fellows'
 author: bhamster
 path: /notes/bhamster/06-15-2021/meet-public-lab-s-new-research-curation-fellows.md
 nid: 26830
@@ -12,7 +11,7 @@ uid: 664477
 
 # Meet Public Lab’s new Research Curation Fellows!
 
-by [bhamster](../profile/bhamster) June 15, 2021 22:19
+by [bhamster](../profile/bhamster) | June 15, 2021 22:19
 
 June 15, 2021 22:19 | Tags: [research](../tag/research), [fellows](../tag/fellows), [research-curation-fellows](../tag/research-curation-fellows)
 

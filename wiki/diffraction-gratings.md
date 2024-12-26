@@ -1,6 +1,5 @@
 ---
-title: 'Diffraction gratings'
-tagnames: diffraction-grating, cd, fold-up-mini-spectrometer, dvd, blu-ray
+title: "Diffraction gratings"\ntagnames: 'diffraction-grating, cd, fold-up-mini-spectrometer, dvd, blu-ray'
 author: ToF
 path: /wiki/diffraction-gratings.md
 nid: 3884

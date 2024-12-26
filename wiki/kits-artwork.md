@@ -1,6 +1,5 @@
 ---
-title: 'Kits Artwork'
-tagnames: kits, parent:kits, artwork, first-time-poster
+title: "Kits Artwork"\ntagnames: 'kits, parent:kits, artwork, first-time-poster'
 author: kits
 path: /wiki/kits-artwork.md
 nid: 14927

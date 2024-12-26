@@ -1,6 +1,5 @@
 ---
-title: 'How do I do website change detection and notification?'
-tagnames: pesticides, alerts, answered, question:alerts, question:pesticides
+title: "How do I do website change detection and notification?"\ntagnames: 'pesticides, alerts, answered, question:alerts, question:pesticides'
 author: cfastie
 path: /notes/cfastie/03-18-2018/how-do-i-do-website-change-detection-and-notification.md
 nid: 15972
@@ -12,7 +11,7 @@ uid: 554
 
 # How do I do website change detection and notification?
 
-by [cfastie](../profile/cfastie) March 19, 2018 12:00
+by [cfastie](../profile/cfastie) | March 19, 2018 12:00
 
 March 19, 2018 12:00 | Tags: [pesticides](../tag/pesticides), [alerts](../tag/alerts), [answered](../tag/answered), [question:alerts](../tag/question:alerts), [question:pesticides](../tag/question:pesticides)
 

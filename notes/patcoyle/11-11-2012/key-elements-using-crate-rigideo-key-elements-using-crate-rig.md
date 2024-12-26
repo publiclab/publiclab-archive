@@ -1,6 +1,5 @@
 ---
-title: 'Key elements of using the crate rig'
-tagnames: plots, barnraising2012, lumcon, publiclaboratory, cocodrie--la
+title: "Key elements of using the crate rig"\ntagnames: 'plots, barnraising2012, lumcon, publiclaboratory, cocodrie--la'
 author: patcoyle
 path: /notes/patcoyle/11-11-2012/key-elements-using-crate-rigideo-key-elements-using-crate-rig.md
 nid: 4865
@@ -12,7 +11,7 @@ uid: 77
 
 # Key elements of using the crate rig
 
-by [patcoyle](../profile/patcoyle) November 12, 2012 04:48
+by [patcoyle](../profile/patcoyle) | November 12, 2012 04:48
 
 November 12, 2012 04:48 | Tags: [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [publiclaboratory](../tag/publiclaboratory), [cocodrie--la](../tag/cocodrie--la)
 

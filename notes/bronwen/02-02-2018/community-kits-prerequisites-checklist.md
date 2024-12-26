@@ -1,6 +1,5 @@
 ---
-title: 'Community Kits Prerequisites Checklist'
-tagnames: open-source, open-hardware, kits, hardware, community-kits, public-lab-store
+title: "Community Kits Prerequisites Checklist"\ntagnames: 'open-source, open-hardware, kits, hardware, community-kits, public-lab-store'
 author: Bronwen
 path: /notes/bronwen/02-02-2018/community-kits-prerequisites-checklist.md
 nid: 15665
@@ -12,7 +11,7 @@ uid: 237313
 
 # Community Kits Prerequisites Checklist
 
-by [Bronwen](../profile/Bronwen) February 02, 2018 14:57
+by [Bronwen](../profile/Bronwen) | February 02, 2018 14:57
 
 February 02, 2018 14:57 | Tags: [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [kits](../tag/kits), [hardware](../tag/hardware), [community-kits](../tag/community-kits), [public-lab-store](../tag/public-lab-store)
 

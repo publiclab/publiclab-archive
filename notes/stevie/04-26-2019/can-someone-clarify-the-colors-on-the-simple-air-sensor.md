@@ -1,6 +1,5 @@
 ---
-title: 'Can someone clarify the colors on the simple air sensor? (turning white when plugged in)'
-tagnames: question:question, question:simple-air-sensor, question:data-display, question:simple-air, faq-simple-air
+title: "Can someone clarify the colors on the simple air sensor? (turning white when plugged in)"\ntagnames: 'question:question, question:simple-air-sensor, question:data-display, question:simple-air, faq-simple-air'
 author: stevie
 path: /notes/stevie/04-26-2019/can-someone-clarify-the-colors-on-the-simple-air-sensor.md
 nid: 19173
@@ -10,7 +9,7 @@ uid: 422561
 
 # Can someone clarify the colors on the simple air sensor? (turning white when plugged in)
 
-by [stevie](../profile/stevie) April 26, 2019 19:31
+by [stevie](../profile/stevie) | April 26, 2019 19:31
 
 April 26, 2019 19:31 | Tags: [question:question](../tag/question:question), [question:simple-air-sensor](../tag/question:simple-air-sensor), [question:data-display](../tag/question:data-display), [question:simple-air](../tag/question:simple-air), [faq-simple-air](../tag/faq-simple-air)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Water quality instrumentation quality gottchas'
-tagnames: standards, openhardware, water-quality, measurement, riffle, validation, specification, traceability, quality-matrix, first-time-poster
+title: "Water quality instrumentation quality gottchas"\ntagnames: 'standards, openhardware, water-quality, measurement, riffle, validation, specification, traceability, quality-matrix, first-time-poster'
 author: neilh20
 path: /notes/neilh20/07-22-2014/water-quality-instrumentation-quality-gottchas.md
 nid: 10945
@@ -10,7 +9,7 @@ uid: 425914
 
 # Water quality instrumentation quality gottchas
 
-by [neilh20](../profile/neilh20) July 22, 2014 19:11
+by [neilh20](../profile/neilh20) | July 22, 2014 19:11
 
 July 22, 2014 19:11 | Tags: [standards](../tag/standards), [openhardware](../tag/openhardware), [water-quality](../tag/water-quality), [measurement](../tag/measurement), [riffle](../tag/riffle), [validation](../tag/validation), [specification](../tag/specification), [traceability](../tag/traceability), [quality-matrix](../tag/quality-matrix), [first-time-poster](../tag/first-time-poster)
 

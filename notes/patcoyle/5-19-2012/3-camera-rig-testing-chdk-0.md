@@ -1,6 +1,5 @@
 ---
-title: '3-camera rig testing with with CHDK'
-tagnames: balloon-mapping, chdk, balloon-telemetry-kit, telemetry, photo-rig
+title: "3-camera rig testing with with CHDK"\ntagnames: 'balloon-mapping, chdk, balloon-telemetry-kit, telemetry, photo-rig'
 author: patcoyle
 path: /notes/patcoyle/5-19-2012/3-camera-rig-testing-chdk-0.md
 nid: 2144
@@ -12,7 +11,7 @@ uid: 77
 
 # 3-camera rig testing with with CHDK
 
-by [patcoyle](../profile/patcoyle) May 20, 2012 03:52
+by [patcoyle](../profile/patcoyle) | May 20, 2012 03:52
 
 May 20, 2012 03:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [chdk](../tag/chdk), [balloon-telemetry-kit](../tag/balloon-telemetry-kit), [telemetry](../tag/telemetry), [photo-rig](../tag/photo-rig)
 

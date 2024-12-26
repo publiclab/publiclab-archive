@@ -1,6 +1,5 @@
 ---
-title: 'Photo Sextant'
-tagnames: grassrootsmappingwiki
+title: "Photo Sextant"\ntagnames: 'grassrootsmappingwiki'
 author: warren
 path: /wiki/photo-sextant.md
 nid: 1733

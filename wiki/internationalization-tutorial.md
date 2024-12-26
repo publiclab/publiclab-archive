@@ -1,6 +1,5 @@
 ---
-title: 'Internationalization | Tutorial'
-tagnames: 
+title: "Internationalization | Tutorial"\ntagnames: ''
 author: jiteshxyz
 path: /wiki/internationalization-tutorial.md
 nid: 13380

@@ -1,6 +1,5 @@
 ---
-title: 'Home Automation Using Arduino'
-tagnames: arduino, first-time-poster, home-automation, lat:28.535516, lon:77.391026
+title: "Home Automation Using Arduino"\ntagnames: 'arduino, first-time-poster, home-automation, lat:28.535516, lon:77.391026'
 author: avikeid2007
 path: /notes/avikeid2007/03-18-2019/home-automation-using-arduino.md
 nid: 18759
@@ -12,7 +11,7 @@ uid: 579541
 
 # Home Automation Using Arduino
 
-by [avikeid2007](../profile/avikeid2007) March 18, 2019 11:10
+by [avikeid2007](../profile/avikeid2007) | March 18, 2019 11:10
 
 March 18, 2019 11:10 | Tags: [arduino](../tag/arduino), [first-time-poster](../tag/first-time-poster), [home-automation](../tag/home-automation), [lat:28.535516](../tag/lat:28.535516), [lon:77.391026](../tag/lon:77.391026)
 

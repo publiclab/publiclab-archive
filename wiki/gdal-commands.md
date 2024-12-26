@@ -1,6 +1,5 @@
 ---
-title: 'GDAL Commands'
-tagnames: gdal
+title: "GDAL Commands"\ntagnames: 'gdal'
 author: warren
 path: /wiki/gdal-commands.md
 nid: 228

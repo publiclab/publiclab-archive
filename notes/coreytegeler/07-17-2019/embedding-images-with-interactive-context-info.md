@@ -1,6 +1,5 @@
 ---
-title: 'Embedding images with interactive context info'
-tagnames: photography, software, ui, first-time-poster
+title: "Embedding images with interactive context info"\ntagnames: 'photography, software, ui, first-time-poster'
 author: coreytegeler
 path: /notes/coreytegeler/07-17-2019/embedding-images-with-interactive-context-info.md
 nid: 20168
@@ -12,7 +11,7 @@ uid: 523769
 
 # Embedding images with interactive context info
 
-by [coreytegeler](../profile/coreytegeler) July 17, 2019 13:53
+by [coreytegeler](../profile/coreytegeler) | July 17, 2019 13:53
 
 July 17, 2019 13:53 | Tags: [photography](../tag/photography), [software](../tag/software), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster)
 

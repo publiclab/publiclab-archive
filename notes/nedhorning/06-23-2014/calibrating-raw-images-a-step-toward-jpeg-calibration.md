@@ -1,6 +1,5 @@
 ---
-title: 'Calibrating raw images - a step toward JPEG calibration?'
-tagnames: ndvi, nir, calibration, response:10389
+title: "Calibrating raw images - a step toward JPEG calibration?"\ntagnames: 'ndvi, nir, calibration, response:10389'
 author: nedhorning
 path: /notes/nedhorning/06-23-2014/calibrating-raw-images-a-step-toward-jpeg-calibration.md
 nid: 10607
@@ -12,7 +11,7 @@ uid: 133
 
 # Calibrating raw images - a step toward JPEG calibration?
 
-by [nedhorning](../profile/nedhorning) June 23, 2014 16:01
+by [nedhorning](../profile/nedhorning) | June 23, 2014 16:01
 
 June 23, 2014 16:01 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [calibration](../tag/calibration), [response:10389](../tag/response:10389)
 

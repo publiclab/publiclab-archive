@@ -1,6 +1,5 @@
 ---
-title: 'Build KnowFlow: automatic water moniter'
-tagnames: arduino, water-quality, water, water-quality-sensor, open-water, barnstar:photo-documentation, china, seeks:replications, data-logging, knowflow, activity:water-monitoring, activity:data-logging, activity:knowflow
+title: "Build KnowFlow: automatic water moniter"\ntagnames: 'arduino, water-quality, water, water-quality-sensor, open-water, barnstar:photo-documentation, china, seeks:replications, data-logging, knowflow, activity:water-monitoring, activity:data-logging, activity:knowflow'
 author: shanlter
 path: /notes/shanlter/06-08-2017/knowflow-automatic-water-meter.md
 nid: 14511
@@ -12,7 +11,7 @@ uid: 420999
 
 # Build KnowFlow: automatic water moniter
 
-by [shanlter](../profile/shanlter) June 08, 2017 09:35
+by [shanlter](../profile/shanlter) | June 08, 2017 09:35
 
 June 08, 2017 09:35 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [water](../tag/water), [water-quality-sensor](../tag/water-quality-sensor), [open-water](../tag/open-water), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [china](../tag/china), [seeks:replications](../tag/seeks:replications), [data-logging](../tag/data-logging), [knowflow](../tag/knowflow), [activity:water-monitoring](../tag/activity:water-monitoring), [activity:data-logging](../tag/activity:data-logging), [activity:knowflow](../tag/activity:knowflow)
 

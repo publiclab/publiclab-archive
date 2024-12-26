@@ -1,6 +1,5 @@
 ---
-title: 'conference'
-tagnames: 
+title: "conference"\ntagnames: ''
 author: warren
 path: /wiki/conference.md
 nid: 7492

@@ -1,6 +1,5 @@
 ---
-title: 'Organizers Handbook'
-tagnames: community, organizers
+title: "Organizers Handbook"\ntagnames: 'community, organizers'
 author: stevie
 path: /wiki/organizers-handbook.md
 nid: 12193

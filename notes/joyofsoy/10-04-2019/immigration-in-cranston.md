@@ -1,6 +1,5 @@
 ---
-title: 'Immigration in Cranston'
-tagnames: csf, one-cranston, csf17
+title: "Immigration in Cranston"\ntagnames: 'csf, one-cranston, csf17'
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/immigration-in-cranston.md
 nid: 21080
@@ -12,7 +11,7 @@ uid: 540844
 
 # Immigration in Cranston
 
-by [joyofsoy](../profile/joyofsoy) October 04, 2019 18:50
+by [joyofsoy](../profile/joyofsoy) | October 04, 2019 18:50
 
 October 04, 2019 18:50 | Tags: [csf](../tag/csf), [one-cranston](../tag/one-cranston), [csf17](../tag/csf17)
 

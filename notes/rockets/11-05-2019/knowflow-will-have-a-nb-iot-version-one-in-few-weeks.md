@@ -1,6 +1,5 @@
 ---
-title: 'KnowFlow will have a NB-IoT version one in few weeks'
-tagnames: water-quality, knowflow
+title: "KnowFlow will have a NB-IoT version one in few weeks"\ntagnames: 'water-quality, knowflow'
 author: rockets
 path: /notes/rockets/11-05-2019/knowflow-will-have-a-nb-iot-version-one-in-few-weeks.md
 nid: 21393
@@ -10,7 +9,7 @@ uid: 492583
 
 # KnowFlow will have a NB-IoT version one in few weeks
 
-by [rockets](../profile/rockets) November 05, 2019 04:56
+by [rockets](../profile/rockets) | November 05, 2019 04:56
 
 November 05, 2019 04:56 | Tags: [water-quality](../tag/water-quality), [knowflow](../tag/knowflow)
 

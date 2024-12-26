@@ -1,6 +1,5 @@
 ---
-title: 'watercraft from reused and recycled components'
-tagnames: waterway, reuse, water-quality-mapping, water-quality, boat, south-america, recycling, raft
+title: "watercraft from reused and recycled components"\ntagnames: 'waterway, reuse, water-quality-mapping, water-quality, boat, south-america, recycling, raft'
 author: nikete
 path: /notes/nikete/04-30-2018/watercraft-from-reused-and-recycled-components.md
 nid: 16268
@@ -10,7 +9,7 @@ uid: 532571
 
 # watercraft from reused and recycled components
 
-by [nikete](../profile/nikete) April 30, 2018 01:47
+by [nikete](../profile/nikete) | April 30, 2018 01:47
 
 April 30, 2018 01:47 | Tags: [waterway](../tag/waterway), [reuse](../tag/reuse), [water-quality-mapping](../tag/water-quality-mapping), [water-quality](../tag/water-quality), [boat](../tag/boat), [south-america](../tag/south-america), [recycling](../tag/recycling), [raft](../tag/raft)
 

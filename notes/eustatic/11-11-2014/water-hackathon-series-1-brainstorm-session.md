@@ -1,6 +1,5 @@
 ---
-title: 'WATER HACKATHON SERIES #1: BRAINSTORM SESSION'
-tagnames: gulf-coast, water-sensing, event, riffle, event:rsvp, propeller, date:11-18-2014
+title: "WATER HACKATHON SERIES #1: BRAINSTORM SESSION"\ntagnames: 'gulf-coast, water-sensing, event, riffle, event:rsvp, propeller, date:11-18-2014'
 author: eustatic
 path: /11-11-2014/water-hackathon-series-1-brainstorm-session.md
 nid: 11334
@@ -12,7 +11,7 @@ uid: 379
 
 # WATER HACKATHON SERIES #1: BRAINSTORM SESSION
 
-by [eustatic](../profile/eustatic) November 11, 2014 20:44
+by [eustatic](../profile/eustatic) | November 11, 2014 20:44
 
 November 11, 2014 20:44 | Tags: [gulf-coast](../tag/gulf-coast), [water-sensing](../tag/water-sensing), [event](../tag/event), [riffle](../tag/riffle), [event:rsvp](../tag/event:rsvp), [propeller](../tag/propeller), [date:11-18-2014](../tag/date:11-18-2014)
 

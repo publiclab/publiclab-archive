@@ -1,6 +1,5 @@
 ---
-title: 'Barnstars'
-tagnames: community, barnraising, barnstars, ceiling-lights
+title: "Barnstars"\ntagnames: 'community, barnraising, barnstars, ceiling-lights'
 author: liz
 path: /wiki/barnstars.md
 nid: 4690

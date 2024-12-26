@@ -1,6 +1,5 @@
 ---
-title: 'Sampling extension for smartphone specs'
-tagnames: spectrometer, cuvettes, sampling, smartphone-spectrometer, oil-sampling-kit, smartphone
+title: "Sampling extension for smartphone specs"\ntagnames: 'spectrometer, cuvettes, sampling, smartphone-spectrometer, oil-sampling-kit, smartphone'
 author: warren
 path: /notes/warren/02-07-2014/sampling-extension-for-smartphone-specs.md
 nid: 10020
@@ -12,7 +11,7 @@ uid: 1
 
 # Sampling extension for smartphone specs
 
-by [warren](../profile/warren) February 07, 2014 23:28
+by [warren](../profile/warren) | February 07, 2014 23:28
 
 February 07, 2014 23:28 | Tags: [spectrometer](../tag/spectrometer), [cuvettes](../tag/cuvettes), [sampling](../tag/sampling), [smartphone-spectrometer](../tag/smartphone-spectrometer), [oil-sampling-kit](../tag/oil-sampling-kit), [smartphone](../tag/smartphone)
 

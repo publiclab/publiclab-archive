@@ -1,6 +1,5 @@
 ---
-title: 'An accessible browser-based decoder for NOAA images'
-tagnames: seeks:replications, open-weather, activity:open-weather
+title: "An accessible browser-based decoder for NOAA images"\ntagnames: 'seeks:replications, open-weather, activity:open-weather'
 author: sashae
 path: /notes/sashae/05-03-2022/an-accessible-browser-based-decoder-for-noaa-images.md
 nid: 30701
@@ -12,7 +11,7 @@ uid: 693684
 
 # An accessible browser-based decoder for NOAA images
 
-by [sashae](../profile/sashae) May 03, 2022 14:04
+by [sashae](../profile/sashae) | May 03, 2022 14:04
 
 May 03, 2022 14:04 | Tags: [seeks:replications](../tag/seeks:replications), [open-weather](../tag/open-weather), [activity:open-weather](../tag/activity:open-weather)
 

@@ -1,6 +1,5 @@
 ---
-title: 'New Ways of Seeing in Jerusalem - the Environment + Justice Micro Magazine'
-tagnames: kite-mapping, jerusalem, israel, palestine, blog, censorship
+title: "New Ways of Seeing in Jerusalem - the Environment + Justice Micro Magazine"\ntagnames: 'kite-mapping, jerusalem, israel, palestine, blog, censorship'
 author: hagitkeysar
 path: /notes/hagitkeysar/10-07-2013/new-ways-of-seeing-in-jerusalem-the-environment-justice-micro-magazine.md
 nid: 9418
@@ -12,7 +11,7 @@ uid: 152
 
 # New Ways of Seeing in Jerusalem - the Environment + Justice Micro Magazine
 
-by [hagitkeysar](../profile/hagitkeysar) October 07, 2013 18:13
+by [hagitkeysar](../profile/hagitkeysar) | October 07, 2013 18:13
 
 October 07, 2013 18:13 | Tags: [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [israel](../tag/israel), [palestine](../tag/palestine), [blog](../tag/blog), [censorship](../tag/censorship)
 

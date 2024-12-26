@@ -1,6 +1,5 @@
 ---
-title: 'Frac Sand Tools for Action Event! '
-tagnames: event, wisconsin, air-quality, dust, riffle, silica, midwest, event:rsvp, mid-west, rsvp:marlokeno, date:08-04-2015, rsvp:abiya
+title: "Frac Sand Tools for Action Event! "\ntagnames: 'event, wisconsin, air-quality, dust, riffle, silica, midwest, event:rsvp, mid-west, rsvp:marlokeno, date:08-04-2015, rsvp:abiya'
 author: stevie
 path: /notes/stevie/07-20-2015/frac-sand-tools-for-action-event.md
 nid: 12082
@@ -12,7 +11,7 @@ uid: 422561
 
 # Frac Sand Tools for Action Event! 
 
-by [stevie](../profile/stevie) July 20, 2015 21:06
+by [stevie](../profile/stevie) | July 20, 2015 21:06
 
 July 20, 2015 21:06 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dust](../tag/dust), [riffle](../tag/riffle), [silica](../tag/silica), [midwest](../tag/midwest), [event:rsvp](../tag/event:rsvp), [mid-west](../tag/mid-west), [rsvp:marlokeno](../tag/rsvp:marlokeno), [date:08-04-2015](../tag/date:08-04-2015), [rsvp:abiya](../tag/rsvp:abiya)
 

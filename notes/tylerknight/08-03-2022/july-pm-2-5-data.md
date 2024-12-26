@@ -1,6 +1,5 @@
 ---
-title: 'July PM 2.5 Data'
-tagnames: gulf-coast, air-quality, pm, particulate-matter, purpleair, st-james, formosaplastics
+title: "July PM 2.5 Data"\ntagnames: 'gulf-coast, air-quality, pm, particulate-matter, purpleair, st-james, formosaplastics'
 author: tylerknight
 path: /notes/tylerknight/08-03-2022/july-pm-2-5-data.md
 nid: 34824
@@ -12,7 +11,7 @@ uid: 777566
 
 # July PM 2.5 Data
 
-by [tylerknight](../profile/tylerknight) August 03, 2022 19:45
+by [tylerknight](../profile/tylerknight) | August 03, 2022 19:45
 
 August 03, 2022 19:45 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
 

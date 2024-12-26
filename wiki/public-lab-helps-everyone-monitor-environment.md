@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab helps EVERYONE Monitor the Environment'
-tagnames: website, plots2, wintercamp, newcomers, onboarding, out-of-date
+title: "Public Lab helps EVERYONE Monitor the Environment"\ntagnames: 'website, plots2, wintercamp, newcomers, onboarding, out-of-date'
 author: mollydanielsson
 path: /wiki/public-lab-helps-everyone-monitor-environment.md
 nid: 5611

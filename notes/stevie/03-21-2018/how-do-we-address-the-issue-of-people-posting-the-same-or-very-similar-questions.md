@@ -1,6 +1,5 @@
 ---
-title: 'How do we address the issue of people posting the same or very similar questions? '
-tagnames: question:website, question:ui, question:website-structure
+title: "How do we address the issue of people posting the same or very similar questions? "\ntagnames: 'question:website, question:ui, question:website-structure'
 author: stevie
 path: /notes/stevie/03-21-2018/how-do-we-address-the-issue-of-people-posting-the-same-or-very-similar-questions.md
 nid: 15991
@@ -10,7 +9,7 @@ uid: 422561
 
 # How do we address the issue of people posting the same or very similar questions? 
 
-by [stevie](../profile/stevie) March 21, 2018 15:30
+by [stevie](../profile/stevie) | March 21, 2018 15:30
 
 March 21, 2018 15:30 | Tags: [question:website](../tag/question:website), [question:ui](../tag/question:ui), [question:website-structure](../tag/question:website-structure)
 

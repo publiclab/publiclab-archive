@@ -1,6 +1,5 @@
 ---
-title: 'How can we build this wind turbine to power lights?'
-tagnames: wind, lebanon, bourjalshamali, with:mustapha, question:wind
+title: "How can we build this wind turbine to power lights?"\ntagnames: 'wind, lebanon, bourjalshamali, with:mustapha, question:wind'
 author: liz
 path: /notes/liz/10-24-2019/how-can-we-build-this-wind-turbine-to-power-lights.md
 nid: 21283
@@ -10,7 +9,7 @@ uid: 7
 
 # How can we build this wind turbine to power lights?
 
-by [liz](../profile/liz) October 24, 2019 18:14
+by [liz](../profile/liz) | October 24, 2019 18:14
 
 October 24, 2019 18:14 | Tags: [wind](../tag/wind), [lebanon](../tag/lebanon), [bourjalshamali](../tag/bourjalshamali), [with:mustapha](../tag/with:mustapha), [question:wind](../tag/question:wind)
 

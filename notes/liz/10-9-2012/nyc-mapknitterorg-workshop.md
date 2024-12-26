@@ -1,6 +1,5 @@
 ---
-title: 'NYC Mapknitter.org workshop'
-tagnames: event
+title: "NYC Mapknitter.org workshop"\ntagnames: 'event'
 author: liz
 path: /notes/liz/10-9-2012/nyc-mapknitterorg-workshop.md
 nid: 4288
@@ -12,7 +11,7 @@ uid: 7
 
 # NYC Mapknitter.org workshop
 
-by [liz](../profile/liz) October 09, 2012 19:55
+by [liz](../profile/liz) | October 09, 2012 19:55
 
 October 09, 2012 19:55 | Tags: [event](../tag/event)
 

@@ -1,6 +1,5 @@
 ---
-title: 'How should I choose a secure/private file sharing system?'
-tagnames: security, file-sharing, privacy, collaborative-tools, question:security, question:privacy, question:file-sharing
+title: "How should I choose a secure/private file sharing system?"\ntagnames: 'security, file-sharing, privacy, collaborative-tools, question:security, question:privacy, question:file-sharing'
 author: warren
 path: /notes/warren/01-05-2017/how-should-i-choose-a-secure-private-file-sharing-system.md
 nid: 13840
@@ -10,7 +9,7 @@ uid: 1
 
 # How should I choose a secure/private file sharing system?
 
-by [warren](../profile/warren) January 05, 2017 19:21
+by [warren](../profile/warren) | January 05, 2017 19:21
 
 January 05, 2017 19:21 | Tags: [security](../tag/security), [file-sharing](../tag/file-sharing), [privacy](../tag/privacy), [collaborative-tools](../tag/collaborative-tools), [question:security](../tag/question:security), [question:privacy](../tag/question:privacy), [question:file-sharing](../tag/question:file-sharing)
 

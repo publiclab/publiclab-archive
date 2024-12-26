@@ -1,6 +1,5 @@
 ---
-title: 'Oil testing kit Beta programme - Technical adjustments (hack!)'
-tagnames: spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta, response:12348
+title: "Oil testing kit Beta programme - Technical adjustments (hack!)"\ntagnames: 'spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta, response:12348'
 author: cindy_excites
 path: /notes/Cindy_ExCites/11-04-2015/oil-testing-kit-beta-programme-technical-adjustments-hack.md
 nid: 12368
@@ -12,7 +11,7 @@ uid: 1083
 
 # Oil testing kit Beta programme - Technical adjustments (hack!)
 
-by [cindy_excites](../profile/cindy_excites) November 04, 2015 22:40
+by [cindy_excites](../profile/cindy_excites) | November 04, 2015 22:40
 
 November 04, 2015 22:40 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12348](../tag/response:12348)
 

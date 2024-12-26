@@ -1,6 +1,5 @@
 ---
-title: 'Top 10 tips for winter mapping'
-tagnames: balloon-mapping, kite-mapping, vermont, winter, tac, northeast
+title: "Top 10 tips for winter mapping"\ntagnames: 'balloon-mapping, kite-mapping, vermont, winter, tac, northeast'
 author: cfastie
 path: /notes/cfastie/12-8-2012/top-10-tips-winter-mapping.md
 nid: 5161
@@ -12,7 +11,7 @@ uid: 554
 
 # Top 10 tips for winter mapping
 
-by [cfastie](../profile/cfastie) December 08, 2012 16:03
+by [cfastie](../profile/cfastie) | December 08, 2012 16:03
 
 December 08, 2012 16:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [winter](../tag/winter), [tac](../tag/tac), [northeast](../tag/northeast)
 

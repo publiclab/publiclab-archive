@@ -1,6 +1,5 @@
 ---
-title: 'Some flying/mapping seems to be coming our way and we’ll need help!'
-tagnames: process, drones, kites, chile, baloon-mapping, learning, south-america, problem-definition, problem-identification, first-time-poster, melipilla
+title: "Some flying/mapping seems to be coming our way and we’ll need help!"\ntagnames: 'process, drones, kites, chile, baloon-mapping, learning, south-america, problem-definition, problem-identification, first-time-poster, melipilla'
 author: pazb
 path: /notes/pazb/08-16-2017/some-flying-mapping-seems-to-be-coming-our-way-and-we-ll-need-help.md
 nid: 14759
@@ -12,7 +11,7 @@ uid: 512631
 
 # Some flying/mapping seems to be coming our way and we’ll need help!
 
-by [pazb](../profile/pazb) August 16, 2017 00:00
+by [pazb](../profile/pazb) | August 16, 2017 00:00
 
 August 16, 2017 00:00 | Tags: [process](../tag/process), [drones](../tag/drones), [kites](../tag/kites), [chile](../tag/chile), [baloon-mapping](../tag/baloon-mapping), [learning](../tag/learning), [south-america](../tag/south-america), [problem-definition](../tag/problem-definition), [problem-identification](../tag/problem-identification), [first-time-poster](../tag/first-time-poster), [melipilla](../tag/melipilla)
 

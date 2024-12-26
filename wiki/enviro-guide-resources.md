@@ -1,6 +1,5 @@
 ---
-title: 'Enviro Guide Resources'
-tagnames: guides, reporting, advocacy, civic, parent:guides, studies, parent:advocacy, parent:reporting
+title: "Enviro Guide Resources"\ntagnames: 'guides, reporting, advocacy, civic, parent:guides, studies, parent:advocacy, parent:reporting'
 author: gretchengehrke
 path: /wiki/enviro-guide-resources.md
 nid: 12621

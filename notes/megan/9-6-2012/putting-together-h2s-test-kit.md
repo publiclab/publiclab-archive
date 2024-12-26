@@ -1,6 +1,5 @@
 ---
-title: 'Putting together H2S Test Kit'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, activity:h2s-photopaper
+title: "Putting together H2S Test Kit"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, activity:h2s-photopaper'
 author: megan
 path: /notes/megan/9-6-2012/putting-together-h2s-test-kit.md
 nid: 3674
@@ -12,7 +11,7 @@ uid: 775
 
 # Putting together H2S Test Kit
 
-by [megan](../profile/megan) September 07, 2012 02:13
+by [megan](../profile/megan) | September 07, 2012 02:13
 
 September 07, 2012 02:13 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s-photopaper](../tag/activity:h2s-photopaper)
 

@@ -1,6 +1,5 @@
 ---
-title: 'SE Regional Meeting of the Amer. Chem. Soc.'
-tagnames: event, event:rsvp, response:11084, date:10-18-2014
+title: "SE Regional Meeting of the Amer. Chem. Soc."\ntagnames: 'event, event:rsvp, response:11084, date:10-18-2014'
 author: JSummers
 path: /notes/JSummers/09-01-2014/se-regional-meeting-of-the-amer-chem-soc.md
 nid: 11094
@@ -12,7 +11,7 @@ uid: 304279
 
 # SE Regional Meeting of the Amer. Chem. Soc.
 
-by [JSummers](../profile/JSummers) September 01, 2014 16:49
+by [JSummers](../profile/JSummers) | September 01, 2014 16:49
 
 September 01, 2014 16:49 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [response:11084](../tag/response:11084), [date:10-18-2014](../tag/date:10-18-2014)
 

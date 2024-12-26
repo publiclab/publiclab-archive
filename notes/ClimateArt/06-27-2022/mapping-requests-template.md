@@ -1,6 +1,5 @@
 ---
-title: 'Balloon mapping workshop for a street festival in London'
-tagnames: balloon-mapping, london, aerial-photography, workshop, request, eu, question:aerial-photography, request:aerial-photography, requests, activity:requests, first-time-poster, zoom:6, with:username, request:general, lat:51.530995, lon:-0.131504
+title: "Balloon mapping workshop for a street festival in London"\ntagnames: 'balloon-mapping, london, aerial-photography, workshop, request, eu, question:aerial-photography, request:aerial-photography, requests, activity:requests, first-time-poster, zoom:6, with:username, request:general, lat:51.530995, lon:-0.131504'
 author: ClimateArt
 path: /notes/ClimateArt/06-27-2022/mapping-requests-template.md
 nid: 31159
@@ -10,7 +9,7 @@ uid: 804750
 
 # Balloon mapping workshop for a street festival in London
 
-by [ClimateArt](../profile/ClimateArt) June 27, 2022 17:12
+by [ClimateArt](../profile/ClimateArt) | June 27, 2022 17:12
 
 June 27, 2022 17:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [london](../tag/london), [aerial-photography](../tag/aerial-photography), [workshop](../tag/workshop), [request](../tag/request), [eu](../tag/eu), [question:aerial-photography](../tag/question:aerial-photography), [request:aerial-photography](../tag/request:aerial-photography), [requests](../tag/requests), [activity:requests](../tag/activity:requests), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [with:username](../tag/with:username), [request:general](../tag/request:general), [lat:51.530995](../tag/lat:51.530995), [lon:-0.131504](../tag/lon:-0.131504)
 

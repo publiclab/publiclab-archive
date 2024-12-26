@@ -1,6 +1,5 @@
 ---
-title: 'Software'
-tagnames: mapknitter, spectralworkbench, software, plots2, infragram, web, code, coding, parent:developers
+title: "Software"\ntagnames: 'mapknitter, spectralworkbench, software, plots2, infragram, web, code, coding, parent:developers'
 author: warren
 path: /wiki/software.md
 nid: 9963

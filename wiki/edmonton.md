@@ -1,6 +1,5 @@
 ---
-title: 'Edmonton'
-tagnames: edmonton, canada
+title: "Edmonton"\ntagnames: 'edmonton, canada'
 author: ann
 path: /wiki/edmonton.md
 nid: 11409

@@ -1,6 +1,5 @@
 ---
-title: 'May 26th AS220 Thermal Flashlight Workshop'
-tagnames: providence, thermal-photography, as220, event, parent:as220
+title: "May 26th AS220 Thermal Flashlight Workshop"\ntagnames: 'providence, thermal-photography, as220, event, parent:as220'
 author: sara
 path: /wiki/may-26th-as220-thermal-flashlight-workshop.md
 nid: 2243

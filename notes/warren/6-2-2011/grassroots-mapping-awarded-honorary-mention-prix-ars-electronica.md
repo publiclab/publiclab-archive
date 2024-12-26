@@ -1,6 +1,5 @@
 ---
-title: 'Grassroots Mapping awarded Honorary Mention at Prix Ars Electronica'
-tagnames: media, award
+title: "Grassroots Mapping awarded Honorary Mention at Prix Ars Electronica"\ntagnames: 'media, award'
 author: warren
 path: /notes/warren/6-2-2011/grassroots-mapping-awarded-honorary-mention-prix-ars-electronica.md
 nid: 317
@@ -12,7 +11,7 @@ uid: 1
 
 # Grassroots Mapping awarded Honorary Mention at Prix Ars Electronica
 
-by [warren](../profile/warren) June 03, 2011 00:49
+by [warren](../profile/warren) | June 03, 2011 00:49
 
 June 03, 2011 00:49 | Tags: [media](../tag/media), [award](../tag/award)
 

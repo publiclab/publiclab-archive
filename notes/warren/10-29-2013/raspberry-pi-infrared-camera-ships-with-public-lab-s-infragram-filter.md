@@ -1,6 +1,5 @@
 ---
-title: 'Raspberry Pi Infrared Camera ships with Public Lab's Infragram filter'
-tagnames: near-infrared-camera, raspberry-pi, infragram
+title: "Raspberry Pi Infrared Camera ships with Public Lab's Infragram filter"\ntagnames: 'near-infrared-camera, raspberry-pi, infragram'
 author: warren
 path: /notes/warren/10-29-2013/raspberry-pi-infrared-camera-ships-with-public-lab-s-infragram-filter.md
 nid: 9679
@@ -12,7 +11,7 @@ uid: 1
 
 # Raspberry Pi Infrared Camera ships with Public Lab's Infragram filter
 
-by [warren](../profile/warren) October 29, 2013 15:36
+by [warren](../profile/warren) | October 29, 2013 15:36
 
 October 29, 2013 15:36 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram)
 

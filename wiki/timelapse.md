@@ -1,6 +1,5 @@
 ---
-title: 'Timelapse Kit'
-tagnames: timelapse, tool, method, parent:photo-monitoring
+title: "Timelapse Kit"\ntagnames: 'timelapse, tool, method, parent:photo-monitoring'
 author: warren
 path: /wiki/timelapse.md
 nid: 504

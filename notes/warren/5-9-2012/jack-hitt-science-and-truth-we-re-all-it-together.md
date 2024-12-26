@@ -1,6 +1,5 @@
 ---
-title: 'Jack Hitt: Science and Truth: We’re All in It Together'
-tagnames: 
+title: "Jack Hitt: Science and Truth: We’re All in It Together"\ntagnames: ''
 author: warren
 path: /notes/warren/5-9-2012/jack-hitt-science-and-truth-we-re-all-it-together.md
 nid: 1934
@@ -10,7 +9,7 @@ uid: 1
 
 # Jack Hitt: Science and Truth: We’re All in It Together
 
-by [warren](../profile/warren) May 09, 2012 13:21
+by [warren](../profile/warren) | May 09, 2012 13:21
 
 May 09, 2012 13:21 | Tags: 
 

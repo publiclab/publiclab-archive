@@ -1,6 +1,5 @@
 ---
-title: '2011 PLOTS NYC Summit'
-tagnames: 
+title: "2011 PLOTS NYC Summit"\ntagnames: ''
 author: warren
 path: /wiki/2011-plots-nyc-summit.md
 nid: 30

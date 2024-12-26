@@ -1,6 +1,5 @@
 ---
-title: 'Links for rgb led thermometer'
-tagnames: 
+title: "Links for rgb led thermometer"\ntagnames: ''
 author: warren
 path: /notes/warren/11-24-2011/links-rgb-led-thermometer.md
 nid: 582
@@ -12,7 +11,7 @@ uid: 1
 
 # Links for rgb led thermometer
 
-by [warren](../profile/warren) November 24, 2011 17:45
+by [warren](../profile/warren) | November 24, 2011 17:45
 
 November 24, 2011 17:45 | Tags: 
 

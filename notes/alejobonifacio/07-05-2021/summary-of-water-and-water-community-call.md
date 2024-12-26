@@ -1,6 +1,5 @@
 ---
-title: 'Summary of Water and Water community call'
-tagnames: citizen-science, water-quality, stormwater, open-call, parent:water-quality, project:water-quality, research-curation-fellows, appear, hacking-ecology, vigilantes-del-agua
+title: "Summary of Water and Water community call"\ntagnames: 'citizen-science, water-quality, stormwater, open-call, parent:water-quality, project:water-quality, research-curation-fellows, appear, hacking-ecology, vigilantes-del-agua'
 author: alejobonifacio
 path: /notes/alejobonifacio/07-05-2021/summary-of-water-and-water-community-call.md
 nid: 26950
@@ -12,7 +11,7 @@ uid: 639376
 
 # Summary of Water and Water community call
 
-by [alejobonifacio](../profile/alejobonifacio) July 05, 2021 15:17
+by [alejobonifacio](../profile/alejobonifacio) | July 05, 2021 15:17
 
 July 05, 2021 15:17 | Tags: [citizen-science](../tag/citizen-science), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [open-call](../tag/open-call), [parent:water-quality](../tag/parent:water-quality), [project:water-quality](../tag/project:water-quality), [research-curation-fellows](../tag/research-curation-fellows), [appear](../tag/appear), [hacking-ecology](../tag/hacking-ecology), [vigilantes-del-agua](../tag/vigilantes-del-agua)
 

@@ -1,6 +1,5 @@
 ---
-title: 'The Magic Behind MapKnitter: Leaflet.DistortableImage'
-tagnames: balloon-mapping, kite-mapping, mapknitter, software, tools, barnstar:basic
+title: "The Magic Behind MapKnitter: Leaflet.DistortableImage"\ntagnames: 'balloon-mapping, kite-mapping, mapknitter, software, tools, barnstar:basic'
 author: justinmanley
 path: /notes/justinmanley/05-21-2015/the-magic-behind-mapknitter-leaflet-distortableimage.md
 nid: 11826
@@ -12,7 +11,7 @@ uid: 421556
 
 # The Magic Behind MapKnitter: Leaflet.DistortableImage
 
-by [justinmanley](../profile/justinmanley) May 21, 2015 03:24
+by [justinmanley](../profile/justinmanley) | May 21, 2015 03:24
 
 May 21, 2015 03:24 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [software](../tag/software), [tools](../tag/tools), [barnstar:basic](../tag/barnstar:basic)
 

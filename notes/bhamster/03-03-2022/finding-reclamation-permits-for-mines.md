@@ -1,6 +1,5 @@
 ---
-title: 'Finding reclamation plans and permits for mines'
-tagnames: mining, permits, reclamation, with:laurel_mire, mine-reclamation, activity:mine-reclamation, activity:reclamation, activity:permits
+title: "Finding reclamation plans and permits for mines"\ntagnames: 'mining, permits, reclamation, with:laurel_mire, mine-reclamation, activity:mine-reclamation, activity:reclamation, activity:permits'
 author: bhamster
 path: /notes/bhamster/03-03-2022/finding-reclamation-permits-for-mines.md
 nid: 30093
@@ -12,7 +11,7 @@ uid: 664477
 
 # Finding reclamation plans and permits for mines
 
-by [bhamster](../profile/bhamster) March 03, 2022 16:44
+by [bhamster](../profile/bhamster) | March 03, 2022 16:44
 
 March 03, 2022 16:44 | Tags: [mining](../tag/mining), [permits](../tag/permits), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation), [activity:mine-reclamation](../tag/activity:mine-reclamation), [activity:reclamation](../tag/activity:reclamation), [activity:permits](../tag/activity:permits)
 

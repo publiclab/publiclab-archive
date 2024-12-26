@@ -1,6 +1,5 @@
 ---
-title: 'Is the webcam from spectrometer v2.0 suitable for the upgrade to 3.0?'
-tagnames: spectrometer, spectrometry, question:spectrometry, question:dssk, dssk
+title: "Is the webcam from spectrometer v2.0 suitable for the upgrade to 3.0?"\ntagnames: 'spectrometer, spectrometry, question:spectrometry, question:dssk, dssk'
 author: pablo
 path: /notes/pablo/11-14-2016/is-the-webcam-from-spectrometer-v2-0-suitable-for-the-upgrade-to-3-0.md
 nid: 13704
@@ -12,7 +11,7 @@ uid: 160
 
 # Is the webcam from spectrometer v2.0 suitable for the upgrade to 3.0?
 
-by [pablo](../profile/pablo) November 14, 2016 14:35
+by [pablo](../profile/pablo) | November 14, 2016 14:35
 
 November 14, 2016 14:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [question:dssk](../tag/question:dssk), [dssk](../tag/dssk)
 

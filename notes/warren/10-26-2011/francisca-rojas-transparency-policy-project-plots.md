@@ -1,6 +1,5 @@
 ---
-title: 'Francisca Rojas of Transparency Policy Project on PLOTS'
-tagnames: 
+title: "Francisca Rojas of Transparency Policy Project on PLOTS"\ntagnames: ''
 author: warren
 path: /notes/warren/10-26-2011/francisca-rojas-transparency-policy-project-plots.md
 nid: 520
@@ -10,7 +9,7 @@ uid: 1
 
 # Francisca Rojas of Transparency Policy Project on PLOTS
 
-by [warren](../profile/warren) October 26, 2011 16:27
+by [warren](../profile/warren) | October 26, 2011 16:27
 
 October 26, 2011 16:27 | Tags: 
 

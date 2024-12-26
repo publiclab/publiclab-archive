@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of UNC Charlotte Balloon Mapping'
-tagnames: 
+title: "MapKnitter map of UNC Charlotte Balloon Mapping"\ntagnames: ''
 author: robotakari
 path: /notes/robotakari/10-04-2016/mapknitter-map-of-unc-charlotte-balloon-mapping.md
 nid: 13522
@@ -12,7 +11,7 @@ uid: 465800
 
 # MapKnitter map of UNC Charlotte Balloon Mapping
 
-by [robotakari](../profile/robotakari) October 04, 2016 12:31
+by [robotakari](../profile/robotakari) | October 04, 2016 12:31
 
 October 04, 2016 12:31 | Tags: 
 

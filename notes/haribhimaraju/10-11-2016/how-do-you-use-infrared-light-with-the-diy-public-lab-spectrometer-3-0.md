@@ -1,6 +1,5 @@
 ---
-title: 'How do you use infrared light with the DIY Public Lab Spectrometer 3.0?'
-tagnames: spectrometer, spectrometry, question:spectrometer, question:spectrometry
+title: "How do you use infrared light with the DIY Public Lab Spectrometer 3.0?"\ntagnames: 'spectrometer, spectrometry, question:spectrometer, question:spectrometry'
 author: haribhimaraju
 path: /notes/haribhimaraju/10-11-2016/how-do-you-use-infrared-light-with-the-diy-public-lab-spectrometer-3-0.md
 nid: 13550
@@ -10,7 +9,7 @@ uid: 493312
 
 # How do you use infrared light with the DIY Public Lab Spectrometer 3.0?
 
-by [haribhimaraju](../profile/haribhimaraju) October 11, 2016 23:18
+by [haribhimaraju](../profile/haribhimaraju) | October 11, 2016 23:18
 
 October 11, 2016 23:18 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry)
 

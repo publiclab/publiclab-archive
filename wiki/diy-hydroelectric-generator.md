@@ -1,6 +1,5 @@
 ---
-title: 'DIY Hydroelectric Generator'
-tagnames: diy, amherst-media, 5-college, publiclab-at-amherst-media, publiclab-at-umass, mountholyoke, generator, hydroelectric
+title: "DIY Hydroelectric Generator"\ntagnames: 'diy, amherst-media, 5-college, publiclab-at-amherst-media, publiclab-at-umass, mountholyoke, generator, hydroelectric'
 author: EllaHolmes
 path: /wiki/diy-hydroelectric-generator.md
 nid: 11230

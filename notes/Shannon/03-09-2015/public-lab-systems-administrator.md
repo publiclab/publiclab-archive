@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab: Systems Administrator'
-tagnames: nonprofit, jobs
+title: "Public Lab: Systems Administrator"\ntagnames: 'nonprofit, jobs'
 author: Shannon
 path: /notes/Shannon/03-09-2015/public-lab-systems-administrator.md
 nid: 11668
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab: Systems Administrator
 
-by [Shannon](../profile/Shannon) March 09, 2015 20:22
+by [Shannon](../profile/Shannon) | March 09, 2015 20:22
 
 March 09, 2015 20:22 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs)
 

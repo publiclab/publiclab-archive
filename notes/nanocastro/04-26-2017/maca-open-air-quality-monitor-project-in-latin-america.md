@@ -1,6 +1,5 @@
 ---
-title: 'MACA - Open AQ monitor - Second prototype'
-tagnames: arduino, air-quality, monitoring, dustduino, dust, pm, barnstar:basic, particles, gas-sensor, shinyei, ozone, south-america, activity:shinyei, activity:dustduino, activity:particulate-monitoring, replication:9818, particulate-matter, metal-oxide, latinamerica, carbon-monoxide, nitrogen-dioxide, argentina, activity:dust, activity:ozone, air-sensors, activity:maca, maca
+title: "MACA - Open AQ monitor - Second prototype"\ntagnames: 'arduino, air-quality, monitoring, dustduino, dust, pm, barnstar:basic, particles, gas-sensor, shinyei, ozone, south-america, activity:shinyei, activity:dustduino, activity:particulate-monitoring, replication:9818, particulate-matter, metal-oxide, latinamerica, carbon-monoxide, nitrogen-dioxide, argentina, activity:dust, activity:ozone, air-sensors, activity:maca, maca'
 author: nanocastro
 path: /notes/nanocastro/04-26-2017/maca-open-air-quality-monitor-project-in-latin-america.md
 nid: 14139
@@ -12,7 +11,7 @@ uid: 506212
 
 # MACA - Open AQ monitor - Second prototype
 
-by [nanocastro](../profile/nanocastro) April 26, 2017 21:04
+by [nanocastro](../profile/nanocastro) | April 26, 2017 21:04
 
 April 26, 2017 21:04 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [monitoring](../tag/monitoring), [dustduino](../tag/dustduino), [dust](../tag/dust), [pm](../tag/pm), [barnstar:basic](../tag/barnstar:basic), [particles](../tag/particles), [gas-sensor](../tag/gas-sensor), [shinyei](../tag/shinyei), [ozone](../tag/ozone), [south-america](../tag/south-america), [activity:shinyei](../tag/activity:shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:particulate-monitoring](../tag/activity:particulate-monitoring), [replication:9818](../tag/replication:9818), [particulate-matter](../tag/particulate-matter), [metal-oxide](../tag/metal-oxide), [latinamerica](../tag/latinamerica), [carbon-monoxide](../tag/carbon-monoxide), [nitrogen-dioxide](../tag/nitrogen-dioxide), [argentina](../tag/argentina), [activity:dust](../tag/activity:dust), [activity:ozone](../tag/activity:ozone), [air-sensors](../tag/air-sensors), [activity:maca](../tag/activity:maca), [maca](../tag/maca)
 

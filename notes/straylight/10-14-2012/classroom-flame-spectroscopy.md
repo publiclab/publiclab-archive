@@ -1,6 +1,5 @@
 ---
-title: 'Classroom Flame Spectroscopy'
-tagnames: spectrometer, education, flame-spectroscopy, flame, spectroscope, science, metal, bunsen, activity:spectrometry, activity:science-fair, activity:classroom, first-time-poster
+title: "Classroom Flame Spectroscopy"\ntagnames: 'spectrometer, education, flame-spectroscopy, flame, spectroscope, science, metal, bunsen, activity:spectrometry, activity:science-fair, activity:classroom, first-time-poster'
 author: straylight
 path: /notes/straylight/10-14-2012/classroom-flame-spectroscopy.md
 nid: 4406
@@ -12,7 +11,7 @@ uid: 43047
 
 # Classroom Flame Spectroscopy
 
-by [straylight](../profile/straylight) October 14, 2012 09:23
+by [straylight](../profile/straylight) | October 14, 2012 09:23
 
 October 14, 2012 09:23 | Tags: [spectrometer](../tag/spectrometer), [education](../tag/education), [flame-spectroscopy](../tag/flame-spectroscopy), [flame](../tag/flame), [spectroscope](../tag/spectroscope), [science](../tag/science), [metal](../tag/metal), [bunsen](../tag/bunsen), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [first-time-poster](../tag/first-time-poster)
 

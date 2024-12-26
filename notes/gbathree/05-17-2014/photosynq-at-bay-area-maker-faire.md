@@ -1,6 +1,5 @@
 ---
-title: 'PhotosynQ at Bay Area Maker Faire'
-tagnames: california, science, health, photosynq, plant, makerfaire, maker, faire, make
+title: "PhotosynQ at Bay Area Maker Faire"\ntagnames: 'california, science, health, photosynq, plant, makerfaire, maker, faire, make'
 author: gbathree
 path: /notes/gbathree/05-17-2014/photosynq-at-bay-area-maker-faire.md
 nid: 10475
@@ -12,7 +11,7 @@ uid: 53164
 
 # PhotosynQ at Bay Area Maker Faire
 
-by [gbathree](../profile/gbathree) May 17, 2014 05:40
+by [gbathree](../profile/gbathree) | May 17, 2014 05:40
 
 May 17, 2014 05:40 | Tags: [california](../tag/california), [science](../tag/science), [health](../tag/health), [photosynq](../tag/photosynq), [plant](../tag/plant), [makerfaire](../tag/makerfaire), [maker](../tag/maker), [faire](../tag/faire), [make](../tag/make)
 

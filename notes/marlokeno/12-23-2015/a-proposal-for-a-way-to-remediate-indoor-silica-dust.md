@@ -1,6 +1,5 @@
 ---
-title: 'A proposal for a way to remediate indoor silica dust'
-tagnames: remediation, wisconsin, air-quality, air, silica, quality, frac-sand, midwest, wherewebreathe, indoor-air-quality, air-monitoring, parent:frac-sand
+title: "A proposal for a way to remediate indoor silica dust"\ntagnames: 'remediation, wisconsin, air-quality, air, silica, quality, frac-sand, midwest, wherewebreathe, indoor-air-quality, air-monitoring, parent:frac-sand'
 author: marlokeno
 path: /notes/marlokeno/12-23-2015/a-proposal-for-a-way-to-remediate-indoor-silica-dust.md
 nid: 12539
@@ -12,7 +11,7 @@ uid: 420760
 
 # A proposal for a way to remediate indoor silica dust
 
-by [marlokeno](../profile/marlokeno) December 23, 2015 02:49
+by [marlokeno](../profile/marlokeno) | December 23, 2015 02:49
 
 December 23, 2015 02:49 | Tags: [remediation](../tag/remediation), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [air](../tag/air), [silica](../tag/silica), [quality](../tag/quality), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [wherewebreathe](../tag/wherewebreathe), [indoor-air-quality](../tag/indoor-air-quality), [air-monitoring](../tag/air-monitoring), [parent:frac-sand](../tag/parent:frac-sand)
 

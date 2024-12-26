@@ -1,6 +1,5 @@
 ---
-title: 'Art in Ruins (222 Richmond Street)'
-tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.818408, lon:-71.408386, response:23080
+title: "Art in Ruins (222 Richmond Street)"\ntagnames: 'hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.818408, lon:-71.408386, response:23080'
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-222-richmond-street.md
 nid: 23016
@@ -10,7 +9,7 @@ uid: 664202
 
 # Art in Ruins (222 Richmond Street)
 
-by [kellyraymond](../profile/kellyraymond) March 04, 2020 16:55
+by [kellyraymond](../profile/kellyraymond) | March 04, 2020 16:55
 
 March 04, 2020 16:55 | Tags: [hidden:response](../tag/hidden:response), [lat:41.7](../tag/lat:41.7), [lon:-71.5](../tag/lon:-71.5), [zoom:10](../tag/zoom:10), [lat:41.818408](../tag/lat:41.818408), [lon:-71.408386](../tag/lon:-71.408386), [response:23080](../tag/response:23080)
 

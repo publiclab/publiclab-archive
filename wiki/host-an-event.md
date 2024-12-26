@@ -1,6 +1,5 @@
 ---
-title: 'Host an event'
-tagnames: events, leaffest, organizing, ifarm, tool, method, community-organizing, activities:host-an-event, event-how-to
+title: "Host an event"\ntagnames: 'events, leaffest, organizing, ifarm, tool, method, community-organizing, activities:host-an-event, event-how-to'
 author: warren
 path: /wiki/host-an-event.md
 nid: 13993

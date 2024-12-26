@@ -1,6 +1,5 @@
 ---
-title: 'Comparative and qualitative flame spectroscopy'
-tagnames: spectrometer, flame, spectral-analysis, flare, emission, emissions, nist, spectral-databases, response:8995
+title: "Comparative and qualitative flame spectroscopy"\ntagnames: 'spectrometer, flame, spectral-analysis, flare, emission, emissions, nist, spectral-databases, response:8995'
 author: warren
 path: /notes/warren/08-13-2013/comparative-and-qualitative-flame-spectroscopy.md
 nid: 8996
@@ -12,7 +11,7 @@ uid: 1
 
 # Comparative and qualitative flame spectroscopy
 
-by [warren](../profile/warren) August 13, 2013 16:28
+by [warren](../profile/warren) | August 13, 2013 16:28
 
 August 13, 2013 16:28 | Tags: [spectrometer](../tag/spectrometer), [flame](../tag/flame), [spectral-analysis](../tag/spectral-analysis), [flare](../tag/flare), [emission](../tag/emission), [emissions](../tag/emissions), [nist](../tag/nist), [spectral-databases](../tag/spectral-databases), [response:8995](../tag/response:8995)
 

@@ -1,6 +1,5 @@
 ---
-title: 'A not-entirely-negative reflection on sensor journalism (Emerson Data Viz) '
-tagnames: sensor-journalism
+title: "A not-entirely-negative reflection on sensor journalism (Emerson Data Viz) "\ntagnames: 'sensor-journalism'
 author: ElizabethGillis
 path: /notes/ElizabethGillis/10-06-2014/a-not-entirely-negative-reflection-on-sensor-journalism-emerson-data-viz.md
 nid: 11239
@@ -12,7 +11,7 @@ uid: 428096
 
 # A not-entirely-negative reflection on sensor journalism (Emerson Data Viz) 
 
-by [ElizabethGillis](../profile/ElizabethGillis) October 06, 2014 16:06
+by [ElizabethGillis](../profile/ElizabethGillis) | October 06, 2014 16:06
 
 October 06, 2014 16:06 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

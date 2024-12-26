@@ -1,6 +1,5 @@
 ---
-title: 'Research for finding effective ways to block bluelight from electronic equipments'
-tagnames: bluelight, korea, first-time-poster
+title: "Research for finding effective ways to block bluelight from electronic equipments"\ntagnames: 'bluelight, korea, first-time-poster'
 author: gangrin
 path: /notes/gangrin/09-28-2015/research-for-finding-effective-ways-to-block-bluelight-from-electronic-equipments.md
 nid: 12245
@@ -12,7 +11,7 @@ uid: 452627
 
 # Research for finding effective ways to block bluelight from electronic equipments
 
-by [gangrin](../profile/gangrin) September 28, 2015 06:53
+by [gangrin](../profile/gangrin) | September 28, 2015 06:53
 
 September 28, 2015 06:53 | Tags: [bluelight](../tag/bluelight), [korea](../tag/korea), [first-time-poster](../tag/first-time-poster)
 

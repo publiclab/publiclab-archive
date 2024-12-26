@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: Tag/topic system refinements'
-tagnames: software, outreachy, first-time-poster, outreachy-summer-2021, outreachy-2021, ofuses
+title: "Outreachy proposal: Tag/topic system refinements"\ntagnames: 'software, outreachy, first-time-poster, outreachy-summer-2021, outreachy-2021, ofuses'
 author: aliciapaz
 path: /notes/aliciapaz/04-28-2021/outreachy-proposal-tag-topic-system-refinements.md
 nid: 26380
@@ -12,7 +11,7 @@ uid: 752301
 
 # Outreachy proposal: Tag/topic system refinements
 
-by [aliciapaz](../profile/aliciapaz) April 28, 2021 08:18
+by [aliciapaz](../profile/aliciapaz) | April 28, 2021 08:18
 
 April 28, 2021 08:18 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-summer-2021](../tag/outreachy-summer-2021), [outreachy-2021](../tag/outreachy-2021), [ofuses](../tag/ofuses)
 

@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of University of Waterloo Urban Woodlot'
-tagnames: mapknitter, lat:43.4642578, lon:-80.5204096
+title: "MapKnitter map of University of Waterloo Urban Woodlot"\ntagnames: 'mapknitter, lat:43.4642578, lon:-80.5204096'
 author: Q3HUA
 path: /notes/Q3HUA/10-16-2015/mapknitter-map-of-university-of-waterloo-urban-woodlot.md
 nid: 12310
@@ -10,7 +9,7 @@ uid: 454535
 
 # MapKnitter map of University of Waterloo Urban Woodlot
 
-by [Q3HUA](../profile/Q3HUA) October 16, 2015 03:12
+by [Q3HUA](../profile/Q3HUA) | October 16, 2015 03:12
 
 October 16, 2015 03:12 | Tags: [mapknitter](../tag/mapknitter), [lat:43.4642578](../tag/lat:43.4642578), [lon:-80.5204096](../tag/lon:-80.5204096)
 

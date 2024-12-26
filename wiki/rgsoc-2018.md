@@ -1,6 +1,5 @@
 ---
-title: 'rgsoc-2018'
-tagnames: rgsoc, rgsoc-2018, to_json
+title: "rgsoc-2018"\ntagnames: 'rgsoc, rgsoc-2018, to_json'
 author: stella
 path: /wiki/rgsoc-2018.md
 nid: 15827

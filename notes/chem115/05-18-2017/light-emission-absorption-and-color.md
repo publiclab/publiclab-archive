@@ -1,6 +1,5 @@
 ---
-title: 'LIGHT — Emission, Absorption and Color'
-tagnames: 
+title: "LIGHT — Emission, Absorption and Color"\ntagnames: ''
 author: chem115
 path: /notes/chem115/05-18-2017/light-emission-absorption-and-color.md
 nid: 14212
@@ -12,7 +11,7 @@ uid: 507574
 
 # LIGHT — Emission, Absorption and Color
 
-by [chem115](../profile/chem115) May 18, 2017 16:19
+by [chem115](../profile/chem115) | May 18, 2017 16:19
 
 May 18, 2017 16:19 | Tags: 
 

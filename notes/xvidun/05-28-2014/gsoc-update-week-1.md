@@ -1,6 +1,5 @@
 ---
-title: 'GSoC Update: Week 1'
-tagnames: gsoc, upload, response:10138, gsoc14, jquery-file-upload
+title: "GSoC Update: Week 1"\ntagnames: 'gsoc, upload, response:10138, gsoc14, jquery-file-upload'
 author: xvidun
 path: /notes/xvidun/05-28-2014/gsoc-update-week-1.md
 nid: 10516
@@ -12,7 +11,7 @@ uid: 421168
 
 # GSoC Update: Week 1
 
-by [xvidun](../profile/xvidun) May 28, 2014 22:47
+by [xvidun](../profile/xvidun) | May 28, 2014 22:47
 
 May 28, 2014 22:47 | Tags: [gsoc](../tag/gsoc), [upload](../tag/upload), [response:10138](../tag/response:10138), [gsoc14](../tag/gsoc14), [jquery-file-upload](../tag/jquery-file-upload)
 

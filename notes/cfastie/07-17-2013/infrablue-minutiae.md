@@ -1,6 +1,5 @@
 ---
-title: 'Infrablue minutiae'
-tagnames: ndvi, vermont, white-balance, infragram, infrablue, cmos, response:8869, ccd, response:8900, metadata, standardization, data-collection
+title: "Infrablue minutiae"\ntagnames: 'ndvi, vermont, white-balance, infragram, infrablue, cmos, response:8869, ccd, response:8900, metadata, standardization, data-collection'
 author: cfastie
 path: /notes/cfastie/07-17-2013/infrablue-minutiae.md
 nid: 8901
@@ -12,7 +11,7 @@ uid: 554
 
 # Infrablue minutiae
 
-by [cfastie](../profile/cfastie) July 17, 2013 13:43
+by [cfastie](../profile/cfastie) | July 17, 2013 13:43
 
 July 17, 2013 13:43 | Tags: [ndvi](../tag/ndvi), [vermont](../tag/vermont), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [cmos](../tag/cmos), [response:8869](../tag/response:8869), [ccd](../tag/ccd), [response:8900](../tag/response:8900), [metadata](../tag/metadata), [standardization](../tag/standardization), [data-collection](../tag/data-collection)
 

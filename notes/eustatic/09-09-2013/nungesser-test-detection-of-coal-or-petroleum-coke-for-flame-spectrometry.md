@@ -1,6 +1,5 @@
 ---
-title: 'Nungesser test: collection of Coal or Petroleum coke for further testing'
-tagnames: gulf-coast, spectrometer, coal, petcoke, unitedbulk
+title: "Nungesser test: collection of Coal or Petroleum coke for further testing"\ntagnames: 'gulf-coast, spectrometer, coal, petcoke, unitedbulk'
 author: eustatic
 path: /09-09-2013/nungesser-test-detection-of-coal-or-petroleum-coke-for-flame-spectrometry.md
 nid: 9304
@@ -12,7 +11,7 @@ uid: 379
 
 # Nungesser test: collection of Coal or Petroleum coke for further testing
 
-by [eustatic](../profile/eustatic) September 09, 2013 02:00
+by [eustatic](../profile/eustatic) | September 09, 2013 02:00
 
 September 09, 2013 02:00 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [coal](../tag/coal), [petcoke](../tag/petcoke), [unitedbulk](../tag/unitedbulk)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Student Views: Explaining Science with Babylegs, A Photo Essay'
-tagnames: education, water-quality, community-science, microplastics, babylegs, classroom-community-science, with:purl
+title: "Student Views: Explaining Science with Babylegs, A Photo Essay"\ntagnames: 'education, water-quality, community-science, microplastics, babylegs, classroom-community-science, with:purl'
 author: mimiss
 path: /notes/mimiss/04-20-2021/student-views-explaining-science-with-babylegs-a-photo-essay.md
 nid: 26284
@@ -12,7 +11,7 @@ uid: 579821
 
 # Student Views: Explaining Science with Babylegs, A Photo Essay
 
-by [mimiss](../profile/mimiss) April 20, 2021 16:27
+by [mimiss](../profile/mimiss) | April 20, 2021 16:27
 
 April 20, 2021 16:27 | Tags: [education](../tag/education), [water-quality](../tag/water-quality), [community-science](../tag/community-science), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [classroom-community-science](../tag/classroom-community-science), [with:purl](../tag/with:purl)
 

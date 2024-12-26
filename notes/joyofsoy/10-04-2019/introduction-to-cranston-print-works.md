@@ -1,6 +1,5 @@
 ---
-title: 'Introduction to Cranston Print Works'
-tagnames: lat:1, lon:10, csf, one-cranston, csf17, lat:41.782301, lon:-71.440235, unearthing-pvd, unearthing-pvd-sites
+title: "Introduction to Cranston Print Works"\ntagnames: 'lat:1, lon:10, csf, one-cranston, csf17, lat:41.782301, lon:-71.440235, unearthing-pvd, unearthing-pvd-sites'
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/introduction-to-cranston-print-works.md
 nid: 21075
@@ -12,7 +11,7 @@ uid: 540844
 
 # Introduction to Cranston Print Works
 
-by [joyofsoy](../profile/joyofsoy) October 04, 2019 17:00
+by [joyofsoy](../profile/joyofsoy) | October 04, 2019 17:00
 
 October 04, 2019 17:00 | Tags: [lat:1](../tag/lat:1), [lon:10](../tag/lon:10), [csf](../tag/csf), [one-cranston](../tag/one-cranston), [csf17](../tag/csf17), [lat:41.782301](../tag/lat:41.782301), [lon:-71.440235](../tag/lon:-71.440235), [unearthing-pvd](../tag/unearthing-pvd), [unearthing-pvd-sites](../tag/unearthing-pvd-sites)
 

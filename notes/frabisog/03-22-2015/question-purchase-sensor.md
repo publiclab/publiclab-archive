@@ -1,6 +1,5 @@
 ---
-title: 'Question: purchase sensor'
-tagnames: question:riffle
+title: "Question: purchase sensor"\ntagnames: 'question:riffle'
 author: frabisog
 path: /notes/frabisog/03-22-2015/question-purchase-sensor.md
 nid: 11713
@@ -10,7 +9,7 @@ uid: 435648
 
 # Question: purchase sensor
 
-by [frabisog](../profile/frabisog) March 22, 2015 10:32
+by [frabisog](../profile/frabisog) | March 22, 2015 10:32
 
 March 22, 2015 10:32 | Tags: [question:riffle](../tag/question:riffle)
 

@@ -1,6 +1,5 @@
 ---
-title: 'A Spectrometric Tool for Hydrocarbon Spill Response'
-tagnames: spectrometer, uv, oil, laser, fluorescence, spill, quebec, canada, municipal, led, aqueous, hydrocarbon, optic, fiber, petroleum, first-time-poster
+title: "A Spectrometric Tool for Hydrocarbon Spill Response"\ntagnames: 'spectrometer, uv, oil, laser, fluorescence, spill, quebec, canada, municipal, led, aqueous, hydrocarbon, optic, fiber, petroleum, first-time-poster'
 author: id022012
 path: /notes/id022012/07-08-2013/a-spectrometric-tool-for-hydrocarbon-spill-response.md
 nid: 8759
@@ -12,7 +11,7 @@ uid: 60504
 
 # A Spectrometric Tool for Hydrocarbon Spill Response
 
-by [id022012](../profile/id022012) July 08, 2013 23:33
+by [id022012](../profile/id022012) | July 08, 2013 23:33
 
 July 08, 2013 23:33 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [spill](../tag/spill), [quebec](../tag/quebec), [canada](../tag/canada), [municipal](../tag/municipal), [led](../tag/led), [aqueous](../tag/aqueous), [hydrocarbon](../tag/hydrocarbon), [optic](../tag/optic), [fiber](../tag/fiber), [petroleum](../tag/petroleum), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Post a new method to publiclab.org'
-tagnames: activity, research-culture, activity:methods
+title: "Post a new method to publiclab.org"\ntagnames: 'activity, research-culture, activity:methods'
 author: liz
 path: /notes/liz/12-07-2016/post-a-new-method-to-publiclab-org.md
 nid: 13756
@@ -12,7 +11,7 @@ uid: 7
 
 # Post a new method to publiclab.org
 
-by [liz](../profile/liz) December 07, 2016 15:31
+by [liz](../profile/liz) | December 07, 2016 15:31
 
 December 07, 2016 15:31 | Tags: [activity](../tag/activity), [research-culture](../tag/research-culture), [activity:methods](../tag/activity:methods)
 

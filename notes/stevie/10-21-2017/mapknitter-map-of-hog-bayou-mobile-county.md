@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of Hog Bayou, Mobile County'
-tagnames: gulf-coast, kite-mapping, mapknitter, mapping-meet-up, kite, mobile, balloon, nas, mejac, africatown, blueway, africatown-blueway, lat:30.7540069488, lon:-88.048210144, with:gilbert
+title: "MapKnitter map of Hog Bayou, Mobile County"\ntagnames: 'gulf-coast, kite-mapping, mapknitter, mapping-meet-up, kite, mobile, balloon, nas, mejac, africatown, blueway, africatown-blueway, lat:30.7540069488, lon:-88.048210144, with:gilbert'
 author: stevie
 path: /notes/stevie/10-21-2017/mapknitter-map-of-hog-bayou-mobile-county.md
 nid: 15078
@@ -12,7 +11,7 @@ uid: 422561
 
 # MapKnitter map of Hog Bayou, Mobile County
 
-by [stevie](../profile/stevie) October 21, 2017 20:09
+by [stevie](../profile/stevie) | October 21, 2017 20:09
 
 October 21, 2017 20:09 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [mapping-meet-up](../tag/mapping-meet-up), [kite](../tag/kite), [mobile](../tag/mobile), [balloon](../tag/balloon), [nas](../tag/nas), [mejac](../tag/mejac), [africatown](../tag/africatown), [blueway](../tag/blueway), [africatown-blueway](../tag/africatown-blueway), [lat:30.7540069488](../tag/lat:30.7540069488), [lon:-88.048210144](../tag/lon:-88.048210144), [with:gilbert](../tag/with:gilbert)
 

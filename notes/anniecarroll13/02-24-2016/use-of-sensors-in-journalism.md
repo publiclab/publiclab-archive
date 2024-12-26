@@ -1,6 +1,5 @@
 ---
-title: 'Use of sensors in Journalism '
-tagnames: sensor-journalism, response:12748, hidden:response
+title: "Use of sensors in Journalism "\ntagnames: 'sensor-journalism, response:12748, hidden:response'
 author: anniecarroll13
 path: /notes/anniecarroll13/02-24-2016/use-of-sensors-in-journalism.md
 nid: 12743
@@ -10,7 +9,7 @@ uid: 461509
 
 # Use of sensors in Journalism 
 
-by [anniecarroll13](../profile/anniecarroll13) February 24, 2016 18:26
+by [anniecarroll13](../profile/anniecarroll13) | February 24, 2016 18:26
 
 February 24, 2016 18:26 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

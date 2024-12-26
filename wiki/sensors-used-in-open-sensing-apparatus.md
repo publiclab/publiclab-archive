@@ -1,6 +1,5 @@
 ---
-title: 'Sensors used in open sensing apparatus.'
-tagnames: 
+title: "Sensors used in open sensing apparatus."\ntagnames: ''
 author: briandegger
 path: /wiki/sensors-used-in-open-sensing-apparatus.md
 nid: 10053

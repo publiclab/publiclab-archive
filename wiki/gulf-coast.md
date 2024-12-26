@@ -1,6 +1,5 @@
 ---
-title: 'Gulf Coast'
-tagnames: gulf-coast, list:plots-gulfcoast, events:gulf-coast, chapter, tabbed:notes, tabbed:wikis, region, location:blurred, lat:30, lon:-90, place:gulf-coast
+title: "Gulf Coast"\ntagnames: 'gulf-coast, list:plots-gulfcoast, events:gulf-coast, chapter, tabbed:notes, tabbed:wikis, region, location:blurred, lat:30, lon:-90, place:gulf-coast'
 author: warren
 path: /wiki/gulf-coast.md
 nid: 2

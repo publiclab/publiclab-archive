@@ -1,6 +1,5 @@
 ---
-title: 'advocacy-initiative'
-tagnames: 
+title: "advocacy-initiative"\ntagnames: ''
 author: liz
 path: /wiki/advocacy-initiative.md
 nid: 11537

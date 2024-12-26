@@ -1,6 +1,5 @@
 ---
-title: 'Comparing #2007 vs #74'
-tagnames: near-infrared-camera, ndvi, filter, infragram, 2007, 74, filter_compare, first-time-poster
+title: "Comparing #2007 vs #74"\ntagnames: 'near-infrared-camera, ndvi, filter, infragram, 2007, 74, filter_compare, first-time-poster'
 author: fliperbaker
 path: /notes/fliperbaker/09-06-2014/comparing-2007-vs-74.md
 nid: 11114
@@ -12,7 +11,7 @@ uid: 421358
 
 # Comparing #2007 vs #74
 
-by [fliperbaker](../profile/fliperbaker) September 06, 2014 23:36
+by [fliperbaker](../profile/fliperbaker) | September 06, 2014 23:36
 
 September 06, 2014 23:36 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [filter](../tag/filter), [infragram](../tag/infragram), [2007](../tag/2007), [74](../tag/74), [filter_compare](../tag/filter_compare), [first-time-poster](../tag/first-time-poster)
 

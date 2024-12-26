@@ -1,6 +1,5 @@
 ---
-title: 'barnraising-19-2015-photos-liz'
-tagnames: barnraising, barnraising-2015
+title: "barnraising-19-2015-photos-liz"\ntagnames: 'barnraising, barnraising-2015'
 author: liz
 path: /wiki/barnraising-19-2015-photos-liz.md
 nid: 12424

@@ -1,6 +1,5 @@
 ---
-title: 'Presentation at Waag Society's Eclectis program'
-tagnames: waagsociety, presentations, presentation, waag, eclectis
+title: "Presentation at Waag Society's Eclectis program"\ntagnames: 'waagsociety, presentations, presentation, waag, eclectis'
 author: warren
 path: /notes/warren/09-16-2013/presentation-at-waag-society-s-eclectis-program.md
 nid: 9334
@@ -12,7 +11,7 @@ uid: 1
 
 # Presentation at Waag Society's Eclectis program
 
-by [warren](../profile/warren) September 16, 2013 08:55
+by [warren](../profile/warren) | September 16, 2013 08:55
 
 September 16, 2013 08:55 | Tags: [waagsociety](../tag/waagsociety), [presentations](../tag/presentations), [presentation](../tag/presentation), [waag](../tag/waag), [eclectis](../tag/eclectis)
 

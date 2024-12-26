@@ -1,6 +1,5 @@
 ---
-title: 'Aus-e-tute flame emission spectroscopy exercises'
-tagnames: spectrometer
+title: "Aus-e-tute flame emission spectroscopy exercises"\ntagnames: 'spectrometer'
 author: warren
 path: /notes/warren/10-8-2012/aus-e-tute-flame-emission-spectroscopy-exercises.md
 nid: 4264
@@ -12,7 +11,7 @@ uid: 1
 
 # Aus-e-tute flame emission spectroscopy exercises
 
-by [warren](../profile/warren) October 09, 2012 01:49
+by [warren](../profile/warren) | October 09, 2012 01:49
 
 October 09, 2012 01:49 | Tags: [spectrometer](../tag/spectrometer)
 

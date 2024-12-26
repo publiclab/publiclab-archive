@@ -1,6 +1,5 @@
 ---
-title: 'Upon Return'
-tagnames: redirect:13474
+title: "Upon Return"\ntagnames: 'redirect:13474'
 author: warren
 path: /wiki/upon-return.md
 nid: 230

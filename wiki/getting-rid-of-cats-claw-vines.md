@@ -1,6 +1,5 @@
 ---
-title: 'Getting rid of Cats-Claw Vines'
-tagnames: with:amallozzi
+title: "Getting rid of Cats-Claw Vines"\ntagnames: 'with:amallozzi'
 author: ExtinctAnimals
 path: /wiki/getting-rid-of-cats-claw-vines.md
 nid: 22884

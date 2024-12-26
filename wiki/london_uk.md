@@ -1,6 +1,5 @@
 ---
-title: 'London_UK'
-tagnames: london
+title: "London_UK"\ntagnames: 'london'
 author: cindy_excites
 path: /wiki/london_uk.md
 nid: 12022

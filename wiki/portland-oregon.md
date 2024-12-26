@@ -1,6 +1,5 @@
 ---
-title: 'Portland, Oregon'
-tagnames: chapter
+title: "Portland, Oregon"\ntagnames: 'chapter'
 author: mathew
 path: /wiki/portland-oregon.md
 nid: 83

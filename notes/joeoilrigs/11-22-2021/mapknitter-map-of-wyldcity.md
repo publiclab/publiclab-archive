@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of Wyldcity'
-tagnames: mapknitter, first-time-poster
+title: "MapKnitter map of Wyldcity"\ntagnames: 'mapknitter, first-time-poster'
 author: joeoilrigs
 path: /notes/joeoilrigs/11-22-2021/mapknitter-map-of-wyldcity.md
 nid: 28221
@@ -12,7 +11,7 @@ uid: 779414
 
 # MapKnitter map of Wyldcity
 
-by [joeoilrigs](../profile/joeoilrigs) November 22, 2021 18:05
+by [joeoilrigs](../profile/joeoilrigs) | November 22, 2021 18:05
 
 November 22, 2021 18:05 | Tags: [mapknitter](../tag/mapknitter), [first-time-poster](../tag/first-time-poster)
 

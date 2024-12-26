@@ -1,6 +1,5 @@
 ---
-title: 'Thermal Fishing Bob Barnraising!!'
-tagnames: thermal-fishing-bob
+title: "Thermal Fishing Bob Barnraising!!"\ntagnames: 'thermal-fishing-bob'
 author: sara
 path: /wiki/thermal-fishing-bob-barnraising.md
 nid: 9406

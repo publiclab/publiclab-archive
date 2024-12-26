@@ -1,6 +1,5 @@
 ---
-title: 'Odor Logging'
-tagnames: landfill, air-quality, air, waste, landfills, odor, method, oil-and-gas, smell, parent:air-quality, odor-logging, bucket-monitor
+title: "Odor Logging"\ntagnames: 'landfill, air-quality, air, waste, landfills, odor, method, oil-and-gas, smell, parent:air-quality, odor-logging, bucket-monitor'
 author: imvec
 path: /wiki/odor.md
 nid: 15794

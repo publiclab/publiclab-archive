@@ -1,6 +1,5 @@
 ---
-title: 'Android app for Image sequencer'
-tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975
+title: "Android app for Image sequencer"\ntagnames: 'software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975'
 author: ashwinvasudevan
 path: /notes/ashwinvasudevan/03-21-2017/android-app-for-image-sequencer.md
 nid: 14042
@@ -10,7 +9,7 @@ uid: 494213
 
 # Android app for Image sequencer
 
-by [ashwinvasudevan](../profile/ashwinvasudevan) March 21, 2017 02:49
+by [ashwinvasudevan](../profile/ashwinvasudevan) | March 21, 2017 02:49
 
 March 21, 2017 02:49 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Can't access pi camera in Spectral Workbench'
-tagnames: spectral, workbench, question:general, question:raspberry-pi, question:pi-camera, question:raspberry-pi-spectrometer, question:lego-spectrometer, first-time-poster
+title: "Can't access pi camera in Spectral Workbench"\ntagnames: 'spectral, workbench, question:general, question:raspberry-pi, question:pi-camera, question:raspberry-pi-spectrometer, question:lego-spectrometer, first-time-poster'
 author: lukemcpheters
 path: /notes/lukemcpheters/07-08-2019/can-t-access-pi-camera-in-spectral-workbench.md
 nid: 20039
@@ -10,7 +9,7 @@ uid: 602442
 
 # Can't access pi camera in Spectral Workbench
 
-by [lukemcpheters](../profile/lukemcpheters) July 08, 2019 22:04
+by [lukemcpheters](../profile/lukemcpheters) | July 08, 2019 22:04
 
 July 08, 2019 22:04 | Tags: [spectral](../tag/spectral), [workbench](../tag/workbench), [question:general](../tag/question:general), [question:raspberry-pi](../tag/question:raspberry-pi), [question:pi-camera](../tag/question:pi-camera), [question:raspberry-pi-spectrometer](../tag/question:raspberry-pi-spectrometer), [question:lego-spectrometer](../tag/question:lego-spectrometer), [first-time-poster](../tag/first-time-poster)
 

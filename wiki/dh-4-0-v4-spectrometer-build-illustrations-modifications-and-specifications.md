@@ -1,6 +1,5 @@
 ---
-title: 'DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications'
-tagnames: 
+title: "DH 4.0 v4 Spectrometer Build Illustrations, Modifications and Specifications"\ntagnames: ''
 author: dhaffnersr
 path: /wiki/dh-4-0-v4-spectrometer-build-illustrations-modifications-and-specifications.md
 nid: 13415

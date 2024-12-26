@@ -1,6 +1,5 @@
 ---
-title: 'Line Reel for Balloon/Kite String'
-tagnames: balloon-mapping, line-reel, cord-winder, mods, first-time-poster
+title: "Line Reel for Balloon/Kite String"\ntagnames: 'balloon-mapping, line-reel, cord-winder, mods, first-time-poster'
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/05-16-2013/line-reel-for-balloon-kite-string.md
 nid: 7620
@@ -12,7 +11,7 @@ uid: 552
 
 # Line Reel for Balloon/Kite String
 
-by [seankmcginnis](../profile/seankmcginnis) May 16, 2013 12:33
+by [seankmcginnis](../profile/seankmcginnis) | May 16, 2013 12:33
 
 May 16, 2013 12:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [line-reel](../tag/line-reel), [cord-winder](../tag/cord-winder), [mods](../tag/mods), [first-time-poster](../tag/first-time-poster)
 

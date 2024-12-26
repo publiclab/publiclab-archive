@@ -1,6 +1,5 @@
 ---
-title: 'Looking for recommendations for underwater video stream to surface'
-tagnames: video, water, underwater, stream, question:general, waterproof, observation
+title: "Looking for recommendations for underwater video stream to surface"\ntagnames: 'video, water, underwater, stream, question:general, waterproof, observation'
 author: iragersh
 path: /notes/iragersh/11-23-2018/looking-for-recommendations-for-underwater-video-stream-to-surface.md
 nid: 17740
@@ -10,7 +9,7 @@ uid: 557258
 
 # Looking for recommendations for underwater video stream to surface
 
-by [iragersh](../profile/iragersh) November 23, 2018 15:39
+by [iragersh](../profile/iragersh) | November 23, 2018 15:39
 
 November 23, 2018 15:39 | Tags: [video](../tag/video), [water](../tag/water), [underwater](../tag/underwater), [stream](../tag/stream), [question:general](../tag/question:general), [waterproof](../tag/waterproof), [observation](../tag/observation)
 

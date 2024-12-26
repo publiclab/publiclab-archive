@@ -1,6 +1,5 @@
 ---
-title: 'promos'
-tagnames: 
+title: "promos"\ntagnames: ''
 author: natalie
 path: /wiki/promos.md
 nid: 10625

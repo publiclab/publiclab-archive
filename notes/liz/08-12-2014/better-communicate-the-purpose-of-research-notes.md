@@ -1,6 +1,5 @@
 ---
-title: 'Better communicate the purpose of research notes'
-tagnames: collaboration, community, research, analog, with:warren, with:stevie, publishing, paper, ui
+title: "Better communicate the purpose of research notes"\ntagnames: 'collaboration, community, research, analog, with:warren, with:stevie, publishing, paper, ui'
 author: liz
 path: /notes/liz/08-12-2014/better-communicate-the-purpose-of-research-notes.md
 nid: 11041
@@ -12,7 +11,7 @@ uid: 7
 
 # Better communicate the purpose of research notes
 
-by [liz](../profile/liz) August 12, 2014 16:41
+by [liz](../profile/liz) | August 12, 2014 16:41
 
 August 12, 2014 16:41 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [research](../tag/research), [analog](../tag/analog), [with:warren](../tag/with:warren), [with:stevie](../tag/with:stevie), [publishing](../tag/publishing), [paper](../tag/paper), [ui](../tag/ui)
 

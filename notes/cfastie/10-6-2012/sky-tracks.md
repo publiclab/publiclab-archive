@@ -1,6 +1,5 @@
 ---
-title: 'Sky Tracks'
-tagnames: kite-mapping, vermont, mapknitter, leaffest, gps
+title: "Sky Tracks"\ntagnames: 'kite-mapping, vermont, mapknitter, leaffest, gps'
 author: cfastie
 path: /notes/cfastie/10-6-2012/sky-tracks.md
 nid: 4240
@@ -12,7 +11,7 @@ uid: 554
 
 # Sky Tracks
 
-by [cfastie](../profile/cfastie) October 06, 2012 20:39
+by [cfastie](../profile/cfastie) | October 06, 2012 20:39
 
 October 06, 2012 20:39 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [gps](../tag/gps)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Improved DIY NIR camera calibration'
-tagnames: near-infrared-camera, ndvi, nir, calibration, infragram, response:9509, ndvi-calibrate, multispectral-imaging
+title: "Improved DIY NIR camera calibration"\ntagnames: 'near-infrared-camera, ndvi, nir, calibration, infragram, response:9509, ndvi-calibrate, multispectral-imaging'
 author: nedhorning
 path: /notes/nedhorning/05-01-2014/improved-diy-nir-camera-calibration.md
 nid: 10389
@@ -12,7 +11,7 @@ uid: 133
 
 # Improved DIY NIR camera calibration
 
-by [nedhorning](../profile/nedhorning) May 01, 2014 18:50
+by [nedhorning](../profile/nedhorning) | May 01, 2014 18:50
 
 May 01, 2014 18:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [calibration](../tag/calibration), [infragram](../tag/infragram), [response:9509](../tag/response:9509), [ndvi-calibrate](../tag/ndvi-calibrate), [multispectral-imaging](../tag/multispectral-imaging)
 

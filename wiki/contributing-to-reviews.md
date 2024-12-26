@@ -1,6 +1,5 @@
 ---
-title: 'Contributing to Research Area Reviews'
-tagnames: research, guidelines, contributing, reviews, research-area-review, parent:reviews
+title: "Contributing to Research Area Reviews"\ntagnames: 'research, guidelines, contributing, reviews, research-area-review, parent:reviews'
 author: bhamster
 path: /wiki/contributing-to-reviews.md
 nid: 29988

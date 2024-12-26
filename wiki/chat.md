@@ -1,6 +1,5 @@
 ---
-title: 'Chat'
-tagnames: community, chat, chatroom, style:wide, publiclab, locked, lat:22, lon:76, website-utilities
+title: "Chat"\ntagnames: 'community, chat, chatroom, style:wide, publiclab, locked, lat:22, lon:76, website-utilities'
 author: warren
 path: /wiki/chat.md
 nid: 405

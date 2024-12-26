@@ -1,6 +1,5 @@
 ---
-title: 'Toys - Creating and Painting'
-tagnames: 
+title: "Toys - Creating and Painting"\ntagnames: ''
 author: rafaelsol
 path: /notes/rafaelsol/05-12-2018/toys-creating-and-painting.md
 nid: 16333
@@ -12,7 +11,7 @@ uid: 534191
 
 # Toys - Creating and Painting
 
-by [rafaelsol](../profile/rafaelsol) May 12, 2018 13:06
+by [rafaelsol](../profile/rafaelsol) | May 12, 2018 13:06
 
 May 12, 2018 13:06 | Tags: 
 

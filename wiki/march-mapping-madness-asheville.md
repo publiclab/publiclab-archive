@@ -1,6 +1,5 @@
 ---
-title: 'March Mapping Madness-Asheville'
-tagnames: lunalillian
+title: "March Mapping Madness-Asheville"\ntagnames: 'lunalillian'
 author: sara
 path: /wiki/march-mapping-madness-asheville.md
 nid: 889

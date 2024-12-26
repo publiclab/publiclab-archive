@@ -1,6 +1,5 @@
 ---
-title: 'Kite aerial photography in China'
-tagnames: kite-mapping, kite-aerial-photography, asia, china, prc, first-time-poster
+title: "Kite aerial photography in China"\ntagnames: 'kite-mapping, kite-aerial-photography, asia, china, prc, first-time-poster'
 author: Shizi
 path: /notes/Shizi/05-27-2016/kite-aerial-photography-in-china.md
 nid: 13148
@@ -12,7 +11,7 @@ uid: 475993
 
 # Kite aerial photography in China
 
-by [Shizi](../profile/Shizi) May 27, 2016 12:40
+by [Shizi](../profile/Shizi) | May 27, 2016 12:40
 
 May 27, 2016 12:40 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [asia](../tag/asia), [china](../tag/china), [prc](../tag/prc), [first-time-poster](../tag/first-time-poster)
 

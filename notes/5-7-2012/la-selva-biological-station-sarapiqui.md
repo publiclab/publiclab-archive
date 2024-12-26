@@ -1,6 +1,5 @@
 ---
-title: 'la-selva-biological-station--sarapiqui'
-tagnames: 
+title: "la-selva-biological-station--sarapiqui"\ntagnames: ''
 author: 
 path: /notes/5-7-2012/la-selva-biological-station-sarapiqui.md
 nid: 2095
@@ -12,7 +11,7 @@ uid: 0
 
 # la-selva-biological-station--sarapiqui
 
-by [](../profile/) May 07, 2012 21:08
+by [](../profile/) | May 07, 2012 21:08
 
 May 07, 2012 21:08 | Tags: 
 

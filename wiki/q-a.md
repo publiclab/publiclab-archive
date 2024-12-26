@@ -1,6 +1,5 @@
 ---
-title: 'Q&A'
-tagnames: 
+title: "Q&A"\ntagnames: ''
 author: liz
 path: /wiki/q-a.md
 nid: 12702

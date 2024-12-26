@@ -1,6 +1,5 @@
 ---
-title: 'New Orleans Map Viewing Party'
-tagnames: gulf-coast, balloon-mapping, event, gulfcoast, event:rsvp, urbanwaters, date:07-28-2015
+title: "New Orleans Map Viewing Party"\ntagnames: 'gulf-coast, balloon-mapping, event, gulfcoast, event:rsvp, urbanwaters, date:07-28-2015'
 author: stevie
 path: /notes/stevie/07-08-2015/new-orleans-map-viewing-party.md
 nid: 12039
@@ -12,7 +11,7 @@ uid: 422561
 
 # New Orleans Map Viewing Party
 
-by [stevie](../profile/stevie) July 08, 2015 18:12
+by [stevie](../profile/stevie) | July 08, 2015 18:12
 
 July 08, 2015 18:12 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [gulfcoast](../tag/gulfcoast), [event:rsvp](../tag/event:rsvp), [urbanwaters](../tag/urbanwaters), [date:07-28-2015](../tag/date:07-28-2015)
 

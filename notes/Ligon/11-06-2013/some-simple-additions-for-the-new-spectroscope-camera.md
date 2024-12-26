@@ -1,6 +1,5 @@
 ---
-title: 'Some simple additions for the new spectroscope camera'
-tagnames: spectrometer, first-time-poster
+title: "Some simple additions for the new spectroscope camera"\ntagnames: 'spectrometer, first-time-poster'
 author: Ligon
 path: /notes/Ligon/11-06-2013/some-simple-additions-for-the-new-spectroscope-camera.md
 nid: 9736
@@ -10,7 +9,7 @@ uid: 327822
 
 # Some simple additions for the new spectroscope camera
 
-by [Ligon](../profile/Ligon) November 06, 2013 16:45
+by [Ligon](../profile/Ligon) | November 06, 2013 16:45
 
 November 06, 2013 16:45 | Tags: [spectrometer](../tag/spectrometer), [first-time-poster](../tag/first-time-poster)
 

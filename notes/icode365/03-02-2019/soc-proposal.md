@@ -1,6 +1,5 @@
 ---
-title: 'SoC proposal: Community Toolbox overhaul'
-tagnames: software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects
+title: "SoC proposal: Community Toolbox overhaul"\ntagnames: 'software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects'
 author: icode365
 path: /notes/icode365/03-02-2019/soc-proposal.md
 nid: 18450
@@ -12,7 +11,7 @@ uid: 553778
 
 # SoC proposal: Community Toolbox overhaul
 
-by [icode365](../profile/icode365) March 02, 2019 12:22
+by [icode365](../profile/icode365) | March 02, 2019 12:22
 
 March 02, 2019 12:22 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 

@@ -1,6 +1,5 @@
 ---
-title: 'GSoC Submission for Leaflet Blurred Location Part 2'
-tagnames: gsoc, leaflet, soc, gsoc-2018-final, soc-2018-final-report
+title: "GSoC Submission for Leaflet Blurred Location Part 2"\ntagnames: 'gsoc, leaflet, soc, gsoc-2018-final, soc-2018-final-report'
 author: mridulnagpal
 path: /notes/mridulnagpal/08-10-2018/gsoc-submission-for-leaflet-blurred-location-part-2.md
 nid: 16906
@@ -12,7 +11,7 @@ uid: 497953
 
 # GSoC Submission for Leaflet Blurred Location Part 2
 
-by [mridulnagpal](../profile/mridulnagpal) August 10, 2018 14:57
+by [mridulnagpal](../profile/mridulnagpal) | August 10, 2018 14:57
 
 August 10, 2018 14:57 | Tags: [gsoc](../tag/gsoc), [leaflet](../tag/leaflet), [soc](../tag/soc), [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Towards a standard diamond kite kit'
-tagnames: kite-mapping, diy-kite, tyvek, diy-kites, kite-making, activity:tyvek, first-time-poster
+title: "Towards a standard diamond kite kit"\ntagnames: 'kite-mapping, diy-kite, tyvek, diy-kites, kite-making, activity:tyvek, first-time-poster'
 author: lfamular
 path: /notes/lfamular/7-18-2012/towards-standard-diamond-kite-kit.md
 nid: 2865
@@ -10,7 +9,7 @@ uid: 120
 
 # Towards a standard diamond kite kit
 
-by [lfamular](../profile/lfamular) July 18, 2012 17:35
+by [lfamular](../profile/lfamular) | July 18, 2012 17:35
 
 July 18, 2012 17:35 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making), [activity:tyvek](../tag/activity:tyvek), [first-time-poster](../tag/first-time-poster)
 

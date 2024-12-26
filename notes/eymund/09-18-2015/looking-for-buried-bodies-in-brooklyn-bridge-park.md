@@ -1,6 +1,5 @@
 ---
-title: 'LOOKING FOR BURIED BODIES IN BROOKLYN BRIDGE PARK'
-tagnames: event, event:rsvp, date:09-19-2015
+title: "LOOKING FOR BURIED BODIES IN BROOKLYN BRIDGE PARK"\ntagnames: 'event, event:rsvp, date:09-19-2015'
 author: eymund
 path: /notes/eymund/09-18-2015/looking-for-buried-bodies-in-brooklyn-bridge-park.md
 nid: 12222
@@ -12,7 +11,7 @@ uid: 1016
 
 # LOOKING FOR BURIED BODIES IN BROOKLYN BRIDGE PARK
 
-by [eymund](../profile/eymund) September 18, 2015 05:54
+by [eymund](../profile/eymund) | September 18, 2015 05:54
 
 September 18, 2015 05:54 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:09-19-2015](../tag/date:09-19-2015)
 

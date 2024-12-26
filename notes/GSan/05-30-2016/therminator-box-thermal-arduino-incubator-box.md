@@ -1,6 +1,5 @@
 ---
-title: 'T-Box'
-tagnames: culture, water-quality, box, thermal, brasil, barnstar:photo-documentation, redeinfoamazonia, maedagua, microbiological, ecoli, incubator, therminator
+title: "T-Box"\ntagnames: 'culture, water-quality, box, thermal, brasil, barnstar:photo-documentation, redeinfoamazonia, maedagua, microbiological, ecoli, incubator, therminator'
 author: GSan
 path: /notes/GSan/05-30-2016/therminator-box-thermal-arduino-incubator-box.md
 nid: 13155
@@ -12,7 +11,7 @@ uid: 426547
 
 # T-Box
 
-by [GSan](../profile/GSan) May 30, 2016 21:27
+by [GSan](../profile/GSan) | May 30, 2016 21:27
 
 May 30, 2016 21:27 | Tags: [culture](../tag/culture), [water-quality](../tag/water-quality), [box](../tag/box), [thermal](../tag/thermal), [brasil](../tag/brasil), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [microbiological](../tag/microbiological), [ecoli](../tag/ecoli), [incubator](../tag/incubator), [therminator](../tag/therminator)
 

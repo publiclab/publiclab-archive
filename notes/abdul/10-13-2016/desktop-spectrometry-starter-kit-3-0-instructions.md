@@ -1,6 +1,5 @@
 ---
-title: 'Desktop Spectrometry Starter Kit 3.0 Assembly Instructions'
-tagnames: spectrometer, store, help, spectrometry, assembly, kit, desktop-spectrometry-kit, activity, instructions, barnstar:basic, with:warren, with:mathew, desktop, activity:spectrometry, activity:dssk, category:build, status:complete, 3.0, v3, spectrometer-instructions, time:45min, difficulty:introductory
+title: "Desktop Spectrometry Starter Kit 3.0 Assembly Instructions"\ntagnames: 'spectrometer, store, help, spectrometry, assembly, kit, desktop-spectrometry-kit, activity, instructions, barnstar:basic, with:warren, with:mathew, desktop, activity:spectrometry, activity:dssk, category:build, status:complete, 3.0, v3, spectrometer-instructions, time:45min, difficulty:introductory'
 author: abdul
 path: /notes/abdul/10-13-2016/desktop-spectrometry-starter-kit-3-0-instructions.md
 nid: 13560
@@ -12,7 +11,7 @@ uid: 479194
 
 # Desktop Spectrometry Starter Kit 3.0 Assembly Instructions
 
-by [abdul](../profile/abdul) October 13, 2016 22:56
+by [abdul](../profile/abdul) | October 13, 2016 22:56
 
 October 13, 2016 22:56 | Tags: [spectrometer](../tag/spectrometer), [store](../tag/store), [help](../tag/help), [spectrometry](../tag/spectrometry), [assembly](../tag/assembly), [kit](../tag/kit), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [activity](../tag/activity), [instructions](../tag/instructions), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [with:mathew](../tag/with:mathew), [desktop](../tag/desktop), [activity:spectrometry](../tag/activity:spectrometry), [activity:dssk](../tag/activity:dssk), [category:build](../tag/category:build), [status:complete](../tag/status:complete), [3.0](../tag/3.0), [v3](../tag/v3), [spectrometer-instructions](../tag/spectrometer-instructions), [time:45min](../tag/time:45min), [difficulty:introductory](../tag/difficulty:introductory)
 

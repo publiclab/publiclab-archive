@@ -1,6 +1,5 @@
 ---
-title: 'Join Public Lab in building healthier communities in 2015'
-tagnames: 
+title: "Join Public Lab in building healthier communities in 2015"\ntagnames: ''
 author: Becki
 path: /notes/Becki/12-23-2014/join-public-lab-in-building-healthier-communities-in-2015.md
 nid: 11495
@@ -12,7 +11,7 @@ uid: 46673
 
 # Join Public Lab in building healthier communities in 2015
 
-by [Becki](../profile/Becki) December 23, 2014 18:09
+by [Becki](../profile/Becki) | December 23, 2014 18:09
 
 December 23, 2014 18:09 | Tags: 
 

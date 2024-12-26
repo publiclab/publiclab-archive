@@ -1,6 +1,5 @@
 ---
-title: 'GSoC '19: Mapknitter Rails upgrade, Phase II'
-tagnames: gsoc, soc, gsoc-2019, soc-2019, gsoc-19, soc-2019-eval
+title: "GSoC '19: Mapknitter Rails upgrade, Phase II"\ntagnames: 'gsoc, soc, gsoc-2019, soc-2019, gsoc-19, soc-2019-eval'
 author: kaustubh_nair
 path: /notes/kaustubh_nair/07-21-2019/gsoc-19-mapknitter-rails-upgrade-phase-ii.md
 nid: 20224
@@ -10,7 +9,7 @@ uid: 577485
 
 # GSoC '19: Mapknitter Rails upgrade, Phase II
 
-by [kaustubh_nair](../profile/kaustubh_nair) July 21, 2019 18:32
+by [kaustubh_nair](../profile/kaustubh_nair) | July 21, 2019 18:32
 
 July 21, 2019 18:32 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19), [soc-2019-eval](../tag/soc-2019-eval)
 

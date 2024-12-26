@@ -1,6 +1,5 @@
 ---
-title: 'Design Ideas for Expanded Q & A Project'
-tagnames: software, design, gsoc, web, developers, gsoc-2016, q-and-a, ui
+title: "Design Ideas for Expanded Q & A Project"\ntagnames: 'software, design, gsoc, web, developers, gsoc-2016, q-and-a, ui'
 author: ananyo2012
 path: /notes/ananyo2012/05-11-2016/design-ideas-for-expanded-q-a-project.md
 nid: 13101
@@ -12,7 +11,7 @@ uid: 468506
 
 # Design Ideas for Expanded Q & A Project
 
-by [ananyo2012](../profile/ananyo2012) May 11, 2016 01:55
+by [ananyo2012](../profile/ananyo2012) | May 11, 2016 01:55
 
 May 11, 2016 01:55 | Tags: [software](../tag/software), [design](../tag/design), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a), [ui](../tag/ui)
 

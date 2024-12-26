@@ -1,6 +1,5 @@
 ---
-title: 'Focus shift in bifocal filter?'
-tagnames: lima, near-infrared-camera, peru
+title: "Focus shift in bifocal filter?"\ntagnames: 'lima, near-infrared-camera, peru'
 author: warren
 path: /notes/warren/1-26-2011/focus-shift-bifocal-filter.md
 nid: 61
@@ -12,7 +11,7 @@ uid: 1
 
 # Focus shift in bifocal filter?
 
-by [warren](../profile/warren) January 26, 2011 05:05
+by [warren](../profile/warren) | January 26, 2011 05:05
 
 January 26, 2011 05:05 | Tags: [lima](../tag/lima), [near-infrared-camera](../tag/near-infrared-camera), [peru](../tag/peru)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Stormy O. Weathers' Horned Allison- towards a kite wind speed meter'
-tagnames: kite-mapping, kite, diy-kite, wind-speed-meter, tyvek, diy-kites, open-air, air-monitoring, kite-anemometer, horned-allison, kite-making, activity:kite-making, activity:tyvek
+title: "Stormy O. Weathers' Horned Allison- towards a kite wind speed meter"\ntagnames: 'kite-mapping, kite, diy-kite, wind-speed-meter, tyvek, diy-kites, open-air, air-monitoring, kite-anemometer, horned-allison, kite-making, activity:kite-making, activity:tyvek'
 author: mathew
 path: /notes/mathew/05-02-2016/stormy-o-weathers-horned-allison-towards-a-kite-wind-speed-meter.md
 nid: 13064
@@ -12,7 +11,7 @@ uid: 4
 
 # Stormy O. Weathers' Horned Allison- towards a kite wind speed meter
 
-by [mathew](../profile/mathew) May 02, 2016 22:05
+by [mathew](../profile/mathew) | May 02, 2016 22:05
 
 May 02, 2016 22:05 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [wind-speed-meter](../tag/wind-speed-meter), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [open-air](../tag/open-air), [air-monitoring](../tag/air-monitoring), [kite-anemometer](../tag/kite-anemometer), [horned-allison](../tag/horned-allison), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:tyvek](../tag/activity:tyvek)
 

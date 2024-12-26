@@ -1,6 +1,5 @@
 ---
-title: 'My Balloon Mapping Experience!'
-tagnames: balloon-mapping, barnstar:excessive-enthusiasm, first-time-poster, zoom:16, lat:30.016647, lon:-90.553146
+title: "My Balloon Mapping Experience!"\ntagnames: 'balloon-mapping, barnstar:excessive-enthusiasm, first-time-poster, zoom:16, lat:30.016647, lon:-90.553146'
 author: LailaL
 path: /notes/LailaL/04-30-2021/my-balloon-mapping-experience.md
 nid: 26420
@@ -12,7 +11,7 @@ uid: 741030
 
 # My Balloon Mapping Experience!
 
-by [LailaL](../profile/LailaL) April 30, 2021 18:20
+by [LailaL](../profile/LailaL) | April 30, 2021 18:20
 
 April 30, 2021 18:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [first-time-poster](../tag/first-time-poster), [zoom:16](../tag/zoom:16), [lat:30.016647](../tag/lat:30.016647), [lon:-90.553146](../tag/lon:-90.553146)
 

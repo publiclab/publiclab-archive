@@ -1,6 +1,5 @@
 ---
-title: 'Laser Calibration (532nm) of New DVD Diffration Grating 4.7 GB'
-tagnames: 
+title: "Laser Calibration (532nm) of New DVD Diffration Grating 4.7 GB"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/09-12-2016/laser-calibration-532nm-of-new-dvd-diffration-grating-4-7-gb.md
 nid: 13443
@@ -12,7 +11,7 @@ uid: 461120
 
 # Laser Calibration (532nm) of New DVD Diffration Grating 4.7 GB
 
-by [dhaffnersr](../profile/dhaffnersr) September 12, 2016 16:47
+by [dhaffnersr](../profile/dhaffnersr) | September 12, 2016 16:47
 
 September 12, 2016 16:47 | Tags: 
 

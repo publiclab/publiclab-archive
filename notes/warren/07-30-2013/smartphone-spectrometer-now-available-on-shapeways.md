@@ -1,6 +1,5 @@
 ---
-title: 'Smartphone spectrometer now available on Shapeways'
-tagnames: spectrometer, mobile-spectrometer, backpack
+title: "Smartphone spectrometer now available on Shapeways"\ntagnames: 'spectrometer, mobile-spectrometer, backpack'
 author: warren
 path: /notes/warren/07-30-2013/smartphone-spectrometer-now-available-on-shapeways.md
 nid: 8940
@@ -12,7 +11,7 @@ uid: 1
 
 # Smartphone spectrometer now available on Shapeways
 
-by [warren](../profile/warren) July 30, 2013 07:02
+by [warren](../profile/warren) | July 30, 2013 07:02
 
 July 30, 2013 07:02 | Tags: [spectrometer](../tag/spectrometer), [mobile-spectrometer](../tag/mobile-spectrometer), [backpack](../tag/backpack)
 

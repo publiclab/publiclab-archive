@@ -1,6 +1,5 @@
 ---
-title: 'Contributing to Public Lab hardware'
-tagnames: collaboration, community, open-hardware, contributing
+title: "Contributing to Public Lab hardware"\ntagnames: 'collaboration, community, open-hardware, contributing'
 author: warren
 path: /wiki/contributing-to-public-lab-hardware.md
 nid: 12417

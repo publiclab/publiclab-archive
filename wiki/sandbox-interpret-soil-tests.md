@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-interpret-soil-tests'
-tagnames: 
+title: "sandbox-interpret-soil-tests"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-interpret-soil-tests.md
 nid: 25850

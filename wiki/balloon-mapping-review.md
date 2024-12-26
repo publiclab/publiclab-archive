@@ -1,6 +1,5 @@
 ---
-title: 'balloon mapping review'
-tagnames: 
+title: "balloon mapping review"\ntagnames: ''
 author: gonzoearth
 path: /wiki/balloon-mapping-review.md
 nid: 700

@@ -1,6 +1,5 @@
 ---
-title: 'wetlands lesson plans'
-tagnames: education, wetlands, new-orleans, urbanwater, urbanwaters, parent:wetlands-toolkit, lesson
+title: "wetlands lesson plans"\ntagnames: 'education, wetlands, new-orleans, urbanwater, urbanwaters, parent:wetlands-toolkit, lesson'
 author: Shannon
 path: /wiki/wetlands-lesson-plans.md
 nid: 12081

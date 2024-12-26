@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer slit width thoughts'
-tagnames: spectrometer, kits, slit, sensitivity, improvement, slit-width, acetate, exposure
+title: "Spectrometer slit width thoughts"\ntagnames: 'spectrometer, kits, slit, sensitivity, improvement, slit-width, acetate, exposure'
 author: warren
 path: /notes/warren/07-05-2014/spectrometer-slit-width-thoughts.md
 nid: 10662
@@ -12,7 +11,7 @@ uid: 1
 
 # Spectrometer slit width thoughts
 
-by [warren](../profile/warren) July 05, 2014 13:12
+by [warren](../profile/warren) | July 05, 2014 13:12
 
 July 05, 2014 13:12 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [slit](../tag/slit), [sensitivity](../tag/sensitivity), [improvement](../tag/improvement), [slit-width](../tag/slit-width), [acetate](../tag/acetate), [exposure](../tag/exposure)
 

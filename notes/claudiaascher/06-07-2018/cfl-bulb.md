@@ -1,6 +1,5 @@
 ---
-title: 'CFL Bulb'
-tagnames: spectrometer, spectrum, cfl-calibration
+title: "CFL Bulb"\ntagnames: 'spectrometer, spectrum, cfl-calibration'
 author: claudiaascher
 path: /notes/claudiaascher/06-07-2018/cfl-bulb.md
 nid: 16449
@@ -12,7 +11,7 @@ uid: 537341
 
 # CFL Bulb
 
-by [claudiaascher](../profile/claudiaascher) June 07, 2018 17:42
+by [claudiaascher](../profile/claudiaascher) | June 07, 2018 17:42
 
 June 07, 2018 17:42 | Tags: [spectrometer](../tag/spectrometer), [spectrum](../tag/spectrum), [cfl-calibration](../tag/cfl-calibration)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Options for Low-Cost LIDAR '
-tagnames: sensors, lidar, opendronemap
+title: "Options for Low-Cost LIDAR "\ntagnames: 'sensors, lidar, opendronemap'
 author: ajawitz
 path: /notes/code4maine/09-28-2014/options-for-low-cost-lidar.md
 nid: 11196
@@ -12,7 +11,7 @@ uid: 294634
 
 # Options for Low-Cost LIDAR 
 
-by [ajawitz](../profile/ajawitz) September 28, 2014 15:58
+by [ajawitz](../profile/ajawitz) | September 28, 2014 15:58
 
 September 28, 2014 15:58 | Tags: [sensors](../tag/sensors), [lidar](../tag/lidar), [opendronemap](../tag/opendronemap)
 

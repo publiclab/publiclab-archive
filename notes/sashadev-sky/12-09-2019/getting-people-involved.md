@@ -1,6 +1,5 @@
 ---
-title: 'Getting people involved in OSS'
-tagnames: foss, software-outreach, welcoming, oss
+title: "Getting people involved in OSS"\ntagnames: 'foss, software-outreach, welcoming, oss'
 author: sashadev-sky
 path: /notes/sashadev-sky/12-09-2019/getting-people-involved.md
 nid: 21699
@@ -12,7 +11,7 @@ uid: 555321
 
 # Getting people involved in OSS
 
-by [sashadev-sky](../profile/sashadev-sky) December 09, 2019 05:40
+by [sashadev-sky](../profile/sashadev-sky) | December 09, 2019 05:40
 
 December 09, 2019 05:40 | Tags: [foss](../tag/foss), [software-outreach](../tag/software-outreach), [welcoming](../tag/welcoming), [oss](../tag/oss)
 

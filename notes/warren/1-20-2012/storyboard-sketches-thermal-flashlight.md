@@ -1,6 +1,5 @@
 ---
-title: 'Storyboard sketches for thermal flashlight'
-tagnames: 
+title: "Storyboard sketches for thermal flashlight"\ntagnames: ''
 author: warren
 path: /notes/warren/1-20-2012/storyboard-sketches-thermal-flashlight.md
 nid: 711
@@ -12,7 +11,7 @@ uid: 1
 
 # Storyboard sketches for thermal flashlight
 
-by [warren](../profile/warren) January 20, 2012 16:34
+by [warren](../profile/warren) | January 20, 2012 16:34
 
 January 20, 2012 16:34 | Tags: 
 

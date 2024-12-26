@@ -1,6 +1,5 @@
 ---
-title: 'Camera module for Computer Vision/LED Plant Measurement System'
-tagnames: raspberry-pi, infragram, cameras, plant, question:infragram, question:raspberry-pi, question:raspberry-pi-infragram, question:computer-vision
+title: "Camera module for Computer Vision/LED Plant Measurement System"\ntagnames: 'raspberry-pi, infragram, cameras, plant, question:infragram, question:raspberry-pi, question:raspberry-pi-infragram, question:computer-vision'
 author: SangHo
 path: /notes/SangHo/03-17-2018/camera-module-for-computer-vision-led-plant-measurement-system.md
 nid: 15965
@@ -10,7 +9,7 @@ uid: 446912
 
 # Camera module for Computer Vision/LED Plant Measurement System
 
-by [SangHo](../profile/SangHo) March 17, 2018 01:36
+by [SangHo](../profile/SangHo) | March 17, 2018 01:36
 
 March 17, 2018 01:36 | Tags: [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [cameras](../tag/cameras), [plant](../tag/plant), [question:infragram](../tag/question:infragram), [question:raspberry-pi](../tag/question:raspberry-pi), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [question:computer-vision](../tag/question:computer-vision)
 

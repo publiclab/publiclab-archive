@@ -1,6 +1,5 @@
 ---
-title: 'More camera testing'
-tagnames: near-infrared-camera, vermont, leaffest, infragram, infrablue, infragram-conversion, leaffest2013, response:9302
+title: "More camera testing"\ntagnames: 'near-infrared-camera, vermont, leaffest, infragram, infrablue, infragram-conversion, leaffest2013, response:9302'
 author: cfastie
 path: /notes/cfastie/09-09-2013/more-camera-testing.md
 nid: 9305
@@ -12,7 +11,7 @@ uid: 554
 
 # More camera testing
 
-by [cfastie](../profile/cfastie) September 09, 2013 15:07
+by [cfastie](../profile/cfastie) | September 09, 2013 15:07
 
 September 09, 2013 15:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [infragram-conversion](../tag/infragram-conversion), [leaffest2013](../tag/leaffest2013), [response:9302](../tag/response:9302)
 

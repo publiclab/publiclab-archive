@@ -1,6 +1,5 @@
 ---
-title: 'Gulf Coast 2015 Kickoff Party!'
-tagnames: gulf-coast, event, neworleans, event:rsvp, rsvp:danbeavers, urbanwaters, date:01-07-2015, rsvp:micheal
+title: "Gulf Coast 2015 Kickoff Party!"\ntagnames: 'gulf-coast, event, neworleans, event:rsvp, rsvp:danbeavers, urbanwaters, date:01-07-2015, rsvp:micheal'
 author: stevie
 path: /notes/stevie/12-22-2014/gulf-coast-kickoff-party.md
 nid: 11493
@@ -12,7 +11,7 @@ uid: 422561
 
 # Gulf Coast 2015 Kickoff Party!
 
-by [stevie](../profile/stevie) December 22, 2014 18:49
+by [stevie](../profile/stevie) | December 22, 2014 18:49
 
 December 22, 2014 18:49 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [neworleans](../tag/neworleans), [event:rsvp](../tag/event:rsvp), [rsvp:danbeavers](../tag/rsvp:danbeavers), [urbanwaters](../tag/urbanwaters), [date:01-07-2015](../tag/date:01-07-2015), [rsvp:micheal](../tag/rsvp:micheal)
 

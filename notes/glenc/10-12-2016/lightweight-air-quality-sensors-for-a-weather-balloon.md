@@ -1,6 +1,5 @@
 ---
-title: 'lightweight air quality sensors for a weather balloon'
-tagnames: remote-sensing, air-quality, question:balloon-mapping, question:air-quality, question:open-air, data-logging, question:pm, question:particulates, question:data-logging, question:sensors
+title: "lightweight air quality sensors for a weather balloon"\ntagnames: 'remote-sensing, air-quality, question:balloon-mapping, question:air-quality, question:open-air, data-logging, question:pm, question:particulates, question:data-logging, question:sensors'
 author: glenc
 path: /notes/glenc/10-12-2016/lightweight-air-quality-sensors-for-a-weather-balloon.md
 nid: 13556
@@ -10,7 +9,7 @@ uid: 494302
 
 # lightweight air quality sensors for a weather balloon
 
-by [glenc](../profile/glenc) October 12, 2016 20:33
+by [glenc](../profile/glenc) | October 12, 2016 20:33
 
 October 12, 2016 20:33 | Tags: [remote-sensing](../tag/remote-sensing), [air-quality](../tag/air-quality), [question:balloon-mapping](../tag/question:balloon-mapping), [question:air-quality](../tag/question:air-quality), [question:open-air](../tag/question:open-air), [data-logging](../tag/data-logging), [question:pm](../tag/question:pm), [question:particulates](../tag/question:particulates), [question:data-logging](../tag/question:data-logging), [question:sensors](../tag/question:sensors)
 

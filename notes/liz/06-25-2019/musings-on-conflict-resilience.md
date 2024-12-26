@@ -1,6 +1,5 @@
 ---
-title: 'musings on conflict resilience'
-tagnames: conduct
+title: "musings on conflict resilience"\ntagnames: 'conduct'
 author: liz
 path: /notes/liz/06-25-2019/musings-on-conflict-resilience.md
 nid: 19862
@@ -12,7 +11,7 @@ uid: 7
 
 # musings on conflict resilience
 
-by [liz](../profile/liz) June 25, 2019 20:44
+by [liz](../profile/liz) | June 25, 2019 20:44
 
 June 25, 2019 20:44 | Tags: [conduct](../tag/conduct)
 

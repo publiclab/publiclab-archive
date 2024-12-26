@@ -1,6 +1,5 @@
 ---
-title: 'Art in Ruins (555 Valley Street)'
-tagnames: hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.82887, lon:-71.430417, response:23080
+title: "Art in Ruins (555 Valley Street)"\ntagnames: 'hidden:response, lat:41.7, lon:-71.5, zoom:10, lat:41.82887, lon:-71.430417, response:23080'
 author: kellyraymond
 path: /notes/kellyraymond/03-04-2020/art-in-ruins-555-valley-street.md
 nid: 23025
@@ -10,7 +9,7 @@ uid: 664202
 
 # Art in Ruins (555 Valley Street)
 
-by [kellyraymond](../profile/kellyraymond) March 04, 2020 18:52
+by [kellyraymond](../profile/kellyraymond) | March 04, 2020 18:52
 
 March 04, 2020 18:52 | Tags: [hidden:response](../tag/hidden:response), [lat:41.7](../tag/lat:41.7), [lon:-71.5](../tag/lon:-71.5), [zoom:10](../tag/zoom:10), [lat:41.82887](../tag/lat:41.82887), [lon:-71.430417](../tag/lon:-71.430417), [response:23080](../tag/response:23080)
 

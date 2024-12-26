@@ -1,6 +1,5 @@
 ---
-title: 'Open Call'
-tagnames: events, lat:51, parent:events, locked, open-call, calls, location:blurred, place:canada, zoom:6, lon:-114
+title: "Open Call"\ntagnames: 'events, lat:51, parent:events, locked, open-call, calls, location:blurred, place:canada, zoom:6, lon:-114'
 author: warren
 path: /wiki/open-call.md
 nid: 14798

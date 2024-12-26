@@ -1,6 +1,5 @@
 ---
-title: 'The MotherLord of Nature- Potholes'
-tagnames: gulf-coast, transportation, new-orleans, lousiana, issue-brief, first-time-poster, lat:29.951065, lon:-90.071532, zoom:6, with:kevinmarinello, with:rayfieldlotten
+title: "The MotherLord of Nature- Potholes"\ntagnames: 'gulf-coast, transportation, new-orleans, lousiana, issue-brief, first-time-poster, lat:29.951065, lon:-90.071532, zoom:6, with:kevinmarinello, with:rayfieldlotten'
 author: adamroevens
 path: /notes/adamroevens/04-14-2021/the-motherlord-of-nature-potholes.md
 nid: 26227
@@ -10,7 +9,7 @@ uid: 752171
 
 # The MotherLord of Nature- Potholes
 
-by [adamroevens](../profile/adamroevens) April 14, 2021 00:24
+by [adamroevens](../profile/adamroevens) | April 14, 2021 00:24
 
 April 14, 2021 00:24 | Tags: [gulf-coast](../tag/gulf-coast), [transportation](../tag/transportation), [new-orleans](../tag/new-orleans), [lousiana](../tag/lousiana), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:6](../tag/zoom:6), [with:kevinmarinello](../tag/with:kevinmarinello), [with:rayfieldlotten](../tag/with:rayfieldlotten)
 

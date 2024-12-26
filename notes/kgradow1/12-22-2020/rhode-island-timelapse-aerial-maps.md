@@ -1,6 +1,5 @@
 ---
-title: 'Rhode Island Timelapse '
-tagnames: providence, balloon-mapping, aerial-photography, timelapse, development, rhode-island, northeast, lon:-71, lat:42, zoom:6
+title: "Rhode Island Timelapse "\ntagnames: 'providence, balloon-mapping, aerial-photography, timelapse, development, rhode-island, northeast, lon:-71, lat:42, zoom:6'
 author: kgradow1
 path: /notes/kgradow1/12-22-2020/rhode-island-timelapse-aerial-maps.md
 nid: 25310
@@ -12,7 +11,7 @@ uid: 297929
 
 # Rhode Island Timelapse 
 
-by [kgradow1](../profile/kgradow1) December 22, 2020 16:17
+by [kgradow1](../profile/kgradow1) | December 22, 2020 16:17
 
 December 22, 2020 16:17 | Tags: [providence](../tag/providence), [balloon-mapping](../tag/balloon-mapping), [aerial-photography](../tag/aerial-photography), [timelapse](../tag/timelapse), [development](../tag/development), [rhode-island](../tag/rhode-island), [northeast](../tag/northeast), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6)
 

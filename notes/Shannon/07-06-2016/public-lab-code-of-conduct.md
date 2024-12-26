@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Code of Conduct'
-tagnames: blog, with:thegreencommunitygarden, with:liz, with:nshapiro, with:klie
+title: "Public Lab Code of Conduct"\ntagnames: 'blog, with:thegreencommunitygarden, with:liz, with:nshapiro, with:klie'
 author: Shannon
 path: /notes/Shannon/07-06-2016/public-lab-code-of-conduct.md
 nid: 13263
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab Code of Conduct
 
-by [Shannon](../profile/Shannon) July 06, 2016 19:01
+by [Shannon](../profile/Shannon) | July 06, 2016 19:01
 
 July 06, 2016 19:01 | Tags: [blog](../tag/blog), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden), [with:liz](../tag/with:liz), [with:nshapiro](../tag/with:nshapiro), [with:klie](../tag/with:klie)
 

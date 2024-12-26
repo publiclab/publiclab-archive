@@ -1,6 +1,5 @@
 ---
-title: 'Data Activism Conference 2021'
-tagnames: event, ethics, hackathon, workshops, data, environmental-justice, greenpeace, storytelling, data-activism, date:08-24-2021
+title: "Data Activism Conference 2021"\ntagnames: 'event, ethics, hackathon, workshops, data, environmental-justice, greenpeace, storytelling, data-activism, date:08-24-2021'
 author: amocorro
 path: /notes/amocorro/04-24-2021/data-activism-conference-2021.md
 nid: 26323
@@ -12,7 +11,7 @@ uid: 700923
 
 # Data Activism Conference 2021
 
-by [amocorro](../profile/amocorro) April 24, 2021 00:47
+by [amocorro](../profile/amocorro) | April 24, 2021 00:47
 
 April 24, 2021 00:47 | Tags: [event](../tag/event), [ethics](../tag/ethics), [hackathon](../tag/hackathon), [workshops](../tag/workshops), [data](../tag/data), [environmental-justice](../tag/environmental-justice), [greenpeace](../tag/greenpeace), [storytelling](../tag/storytelling), [data-activism](../tag/data-activism), [date:08-24-2021](../tag/date:08-24-2021)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Makerbot Rev1 5v Power Upgrade'
-tagnames: 3d-printing, makerbot, maintenance
+title: "Makerbot Rev1 5v Power Upgrade"\ntagnames: '3d-printing, makerbot, maintenance'
 author: danbeavers
 path: /notes/danbeavers/03-07-2014/makerbot-rev1-5v-power-upgrade.md
 nid: 10137
@@ -12,7 +11,7 @@ uid: 51
 
 # Makerbot Rev1 5v Power Upgrade
 
-by [danbeavers](../profile/danbeavers) March 07, 2014 18:34
+by [danbeavers](../profile/danbeavers) | March 07, 2014 18:34
 
 March 07, 2014 18:34 | Tags: [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [maintenance](../tag/maintenance)
 

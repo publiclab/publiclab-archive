@@ -1,6 +1,5 @@
 ---
-title: 'mapknitter2'
-tagnames: 
+title: "mapknitter2"\ntagnames: ''
 author: warren
 path: /wiki/mapknitter2.md
 nid: 11542

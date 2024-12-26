@@ -1,6 +1,5 @@
 ---
-title: 'Middlebury Meetup'
-tagnames: near-infrared-camera, kite-mapping, nrg, ndvi, vermont, kite-aerial-photography, infrared, farmhack, uav, agriculture, event, infragram, superblue, rosco, infrablue, gigapan
+title: "Middlebury Meetup"\ntagnames: 'near-infrared-camera, kite-mapping, nrg, ndvi, vermont, kite-aerial-photography, infrared, farmhack, uav, agriculture, event, infragram, superblue, rosco, infrablue, gigapan'
 author: cfastie
 path: /notes/cfastie/05-02-2013/middlebury-meetup.md
 nid: 7193
@@ -12,7 +11,7 @@ uid: 554
 
 # Middlebury Meetup
 
-by [cfastie](../profile/cfastie) May 02, 2013 00:58
+by [cfastie](../profile/cfastie) | May 02, 2013 00:58
 
 May 02, 2013 00:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [infrared](../tag/infrared), [farmhack](../tag/farmhack), [uav](../tag/uav), [agriculture](../tag/agriculture), [event](../tag/event), [infragram](../tag/infragram), [superblue](../tag/superblue), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [gigapan](../tag/gigapan)
 

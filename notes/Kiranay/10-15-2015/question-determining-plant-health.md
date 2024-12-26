@@ -1,6 +1,5 @@
 ---
-title: 'Question: Determining Plant-Health'
-tagnames: question:plant-health
+title: "Question: Determining Plant-Health"\ntagnames: 'question:plant-health'
 author: kiranay
 path: /notes/Kiranay/10-15-2015/question-determining-plant-health.md
 nid: 12304
@@ -12,7 +11,7 @@ uid: 454266
 
 # Question: Determining Plant-Health
 
-by [kiranay](../profile/kiranay) October 15, 2015 11:12
+by [kiranay](../profile/kiranay) | October 15, 2015 11:12
 
 October 15, 2015 11:12 | Tags: [question:plant-health](../tag/question:plant-health)
 

@@ -1,6 +1,5 @@
 ---
-title: 'How to Make a Simple Air Purifier #airquality #air #DIY #citizenscience'
-tagnames: 
+title: "How to Make a Simple Air Purifier #airquality #air #DIY #citizenscience"\ntagnames: ''
 author: zengirl2
 path: /wiki/how-to-make-a-simple-air-purifier-airquality-air-diy-citizenscience.md
 nid: 16208

@@ -1,6 +1,5 @@
 ---
-title: 'Testing wines with UV-visible spectrometry'
-tagnames: 
+title: "Testing wines with UV-visible spectrometry"\ntagnames: ''
 author: warren
 path: /notes/warren/2-16-2012/testing-wines-uv-visible-spectrometry.md
 nid: 796
@@ -12,7 +11,7 @@ uid: 1
 
 # Testing wines with UV-visible spectrometry
 
-by [warren](../profile/warren) February 16, 2012 17:54
+by [warren](../profile/warren) | February 16, 2012 17:54
 
 February 16, 2012 17:54 | Tags: 
 

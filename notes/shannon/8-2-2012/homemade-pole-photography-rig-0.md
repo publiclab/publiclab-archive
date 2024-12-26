@@ -1,6 +1,5 @@
 ---
-title: 'Homemade pole photography rig'
-tagnames: polemapping, archaeology, photo-rig, pole-photography, pole-mapping, activity:photo-rig
+title: "Homemade pole photography rig"\ntagnames: 'polemapping, archaeology, photo-rig, pole-photography, pole-mapping, activity:photo-rig'
 author: Shannon
 path: /notes/shannon/8-2-2012/homemade-pole-photography-rig-0.md
 nid: 3098
@@ -12,7 +11,7 @@ uid: 9
 
 # Homemade pole photography rig
 
-by [Shannon](../profile/Shannon) August 02, 2012 20:57
+by [Shannon](../profile/Shannon) | August 02, 2012 20:57
 
 August 02, 2012 20:57 | Tags: [polemapping](../tag/polemapping), [archaeology](../tag/archaeology), [photo-rig](../tag/photo-rig), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping), [activity:photo-rig](../tag/activity:photo-rig)
 

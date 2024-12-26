@@ -1,6 +1,5 @@
 ---
-title: 'DIY Spectrometry Kit paper insert prototype'
-tagnames: spectrometer
+title: "DIY Spectrometry Kit paper insert prototype"\ntagnames: 'spectrometer'
 author: warren
 path: /notes/warren/10-12-2012/diy-spectrometry-kit-insert-prototype.md
 nid: 4369
@@ -12,7 +11,7 @@ uid: 1
 
 # DIY Spectrometry Kit paper insert prototype
 
-by [warren](../profile/warren) October 12, 2012 20:40
+by [warren](../profile/warren) | October 12, 2012 20:40
 
 October 12, 2012 20:40 | Tags: [spectrometer](../tag/spectrometer)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Cheap single-camera system for NDVI with Professional precision'
-tagnames: ndvi
+title: "Cheap single-camera system for NDVI with Professional precision"\ntagnames: 'ndvi'
 author: Albertazzi
 path: /notes/Albertazzi/03-14-2014/cheap-single-camera-system-for-ndvi-with-professional-precision.md
 nid: 10180
@@ -12,7 +11,7 @@ uid: 421089
 
 # Cheap single-camera system for NDVI with Professional precision
 
-by [Albertazzi](../profile/Albertazzi) March 14, 2014 13:44
+by [Albertazzi](../profile/Albertazzi) | March 14, 2014 13:44
 
 March 14, 2014 13:44 | Tags: [ndvi](../tag/ndvi)
 

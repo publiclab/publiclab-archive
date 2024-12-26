@@ -1,6 +1,5 @@
 ---
-title: 'Scott Eustis on Spartina IR  - November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON'
-tagnames: plots, barnraising2012, lumcon, publiclaboratory, cocodrie-la
+title: "Scott Eustis on Spartina IR  - November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON"\ntagnames: 'plots, barnraising2012, lumcon, publiclaboratory, cocodrie-la'
 author: patcoyle
 path: /notes/patcoyle/11-24-2012/scott-eustis-spartina-ir-november-2-4-2012-plots-barnraising-cocodrie-la-l.md
 nid: 5014
@@ -12,7 +11,7 @@ uid: 77
 
 # Scott Eustis on Spartina IR  - November 2-4, 2012, PLOTS Barnraising, Cocodrie, LA at LUMCON
 
-by [patcoyle](../profile/patcoyle) November 24, 2012 19:08
+by [patcoyle](../profile/patcoyle) | November 24, 2012 19:08
 
 November 24, 2012 19:08 | Tags: [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [publiclaboratory](../tag/publiclaboratory), [cocodrie-la](../tag/cocodrie-la)
 

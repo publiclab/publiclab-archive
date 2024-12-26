@@ -1,6 +1,5 @@
 ---
-title: '[reference] Redfish report on south shore lake pontchartrain'
-tagnames: gulf-coast, balloon-mapping, urbanwater, urbanwaters
+title: "[reference] Redfish report on south shore lake pontchartrain"\ntagnames: 'gulf-coast, balloon-mapping, urbanwater, urbanwaters'
 author: eustatic
 path: /09-05-2014/reference-redfish-report-on-south-shore-lake-pontchartrain.md
 nid: 11107
@@ -12,7 +11,7 @@ uid: 379
 
 # [reference] Redfish report on south shore lake pontchartrain
 
-by [eustatic](../profile/eustatic) September 05, 2014 17:51
+by [eustatic](../profile/eustatic) | September 05, 2014 17:51
 
 September 05, 2014 17:51 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
 

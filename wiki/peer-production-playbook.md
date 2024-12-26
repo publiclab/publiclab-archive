@@ -1,6 +1,5 @@
 ---
-title: 'Peer Production Playbook'
-tagnames: 
+title: "Peer Production Playbook"\ntagnames: ''
 author: warren
 path: /wiki/peer-production-playbook.md
 nid: 14922

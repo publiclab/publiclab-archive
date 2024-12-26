@@ -1,6 +1,5 @@
 ---
-title: 'Presentations'
-tagnames: presentations
+title: "Presentations"\ntagnames: 'presentations'
 author: warren
 path: /wiki/presentations.md
 nid: 328

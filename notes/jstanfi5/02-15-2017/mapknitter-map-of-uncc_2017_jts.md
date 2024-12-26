@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of uncc_2017_JTS'
-tagnames: mapknitter, lat:35.303480775, lon:-80.7412719727
+title: "MapKnitter map of uncc_2017_JTS"\ntagnames: 'mapknitter, lat:35.303480775, lon:-80.7412719727'
 author: jstanfi5
 path: /notes/jstanfi5/02-15-2017/mapknitter-map-of-uncc_2017_jts.md
 nid: 13933
@@ -12,7 +11,7 @@ uid: 503002
 
 # MapKnitter map of uncc_2017_JTS
 
-by [jstanfi5](../profile/jstanfi5) February 15, 2017 21:12
+by [jstanfi5](../profile/jstanfi5) | February 15, 2017 21:12
 
 February 15, 2017 21:12 | Tags: [mapknitter](../tag/mapknitter), [lat:35.303480775](../tag/lat:35.303480775), [lon:-80.7412719727](../tag/lon:-80.7412719727)
 

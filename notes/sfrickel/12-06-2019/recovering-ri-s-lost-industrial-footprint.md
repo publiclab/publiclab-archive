@@ -1,6 +1,5 @@
 ---
-title: 'Recovering RI's Lost Industrial Footprint'
-tagnames: first-time-poster, unearthing-pvd, lat:41.0, lon:-71.0, unearthing-pvd-analyses, lat:41.826887, lon:-71.401911
+title: "Recovering RI's Lost Industrial Footprint"\ntagnames: 'first-time-poster, unearthing-pvd, lat:41.0, lon:-71.0, unearthing-pvd-analyses, lat:41.826887, lon:-71.401911'
 author: sfrickel
 path: /notes/sfrickel/12-06-2019/recovering-ri-s-lost-industrial-footprint.md
 nid: 21685
@@ -12,7 +11,7 @@ uid: 635246
 
 # Recovering RI's Lost Industrial Footprint
 
-by [sfrickel](../profile/sfrickel) December 06, 2019 18:46
+by [sfrickel](../profile/sfrickel) | December 06, 2019 18:46
 
 December 06, 2019 18:46 | Tags: [first-time-poster](../tag/first-time-poster), [unearthing-pvd](../tag/unearthing-pvd), [lat:41.0](../tag/lat:41.0), [lon:-71.0](../tag/lon:-71.0), [unearthing-pvd-analyses](../tag/unearthing-pvd-analyses), [lat:41.826887](../tag/lat:41.826887), [lon:-71.401911](../tag/lon:-71.401911)
 

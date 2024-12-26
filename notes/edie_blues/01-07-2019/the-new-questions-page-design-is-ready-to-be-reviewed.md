@@ -1,6 +1,5 @@
 ---
-title: 'The new Questions page design is ready to be reviewed :) '
-tagnames: design, ui, ui-designs
+title: "The new Questions page design is ready to be reviewed :) "\ntagnames: 'design, ui, ui-designs'
 author: edie_blues
 path: /notes/edie_blues/01-07-2019/the-new-questions-page-design-is-ready-to-be-reviewed.md
 nid: 18073
@@ -10,7 +9,7 @@ uid: 552521
 
 # The new Questions page design is ready to be reviewed :) 
 
-by [edie_blues](../profile/edie_blues) January 07, 2019 20:37
+by [edie_blues](../profile/edie_blues) | January 07, 2019 20:37
 
 January 07, 2019 20:37 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 

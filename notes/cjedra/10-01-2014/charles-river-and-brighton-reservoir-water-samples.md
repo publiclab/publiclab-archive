@@ -1,6 +1,5 @@
 ---
-title: 'Charles River and Brighton Reservoir Water Samples '
-tagnames: first-time-poster
+title: "Charles River and Brighton Reservoir Water Samples "\ntagnames: 'first-time-poster'
 author: cjedra
 path: /notes/cjedra/10-01-2014/charles-river-and-brighton-reservoir-water-samples.md
 nid: 11224
@@ -12,7 +11,7 @@ uid: 428092
 
 # Charles River and Brighton Reservoir Water Samples 
 
-by [cjedra](../profile/cjedra) October 01, 2014 18:09
+by [cjedra](../profile/cjedra) | October 01, 2014 18:09
 
 October 01, 2014 18:09 | Tags: [first-time-poster](../tag/first-time-poster)
 

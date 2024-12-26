@@ -1,6 +1,5 @@
 ---
-title: 'Introduction to Community Organizing'
-tagnames: video, organizing, advocacy, community-organizing, research-curation-fellows
+title: "Introduction to Community Organizing"\ntagnames: 'video, organizing, advocacy, community-organizing, research-curation-fellows'
 author: julia_e_masters
 path: /notes/julia_e_masters/05-25-2022/introduction-to-community-organizing.md
 nid: 30910
@@ -10,7 +9,7 @@ uid: 756220
 
 # Introduction to Community Organizing
 
-by [julia_e_masters](../profile/julia_e_masters) May 25, 2022 22:01
+by [julia_e_masters](../profile/julia_e_masters) | May 25, 2022 22:01
 
 May 25, 2022 22:01 | Tags: [video](../tag/video), [organizing](../tag/organizing), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [research-curation-fellows](../tag/research-curation-fellows)
 

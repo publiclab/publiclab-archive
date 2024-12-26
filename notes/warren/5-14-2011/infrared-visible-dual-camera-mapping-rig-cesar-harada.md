@@ -1,6 +1,5 @@
 ---
-title: 'Infrared visible dual camera mapping rig by Cesar Harada'
-tagnames: 
+title: "Infrared visible dual camera mapping rig by Cesar Harada"\ntagnames: ''
 author: warren
 path: /notes/warren/5-14-2011/infrared-visible-dual-camera-mapping-rig-cesar-harada.md
 nid: 238
@@ -12,7 +11,7 @@ uid: 1
 
 # Infrared visible dual camera mapping rig by Cesar Harada
 
-by [warren](../profile/warren) May 14, 2011 15:47
+by [warren](../profile/warren) | May 14, 2011 15:47
 
 May 14, 2011 15:47 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Airborne Silica and Regulations'
-tagnames: silica, frac-sand, with:gretchengehrke, sand-frac, communityscienceforum
+title: "Airborne Silica and Regulations"\ntagnames: 'silica, frac-sand, with:gretchengehrke, sand-frac, communityscienceforum'
 author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/airborne-silica-and-regulations.md
 nid: 13218
@@ -12,7 +11,7 @@ uid: 45586
 
 # Airborne Silica and Regulations
 
-by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:32
+by [mlamadrid](../profile/mlamadrid) | June 21, 2016 20:32
 
 June 21, 2016 20:32 | Tags: [silica](../tag/silica), [frac-sand](../tag/frac-sand), [with:gretchengehrke](../tag/with:gretchengehrke), [sand-frac](../tag/sand-frac), [communityscienceforum](../tag/communityscienceforum)
 

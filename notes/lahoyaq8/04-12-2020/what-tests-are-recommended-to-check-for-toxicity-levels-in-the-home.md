@@ -1,6 +1,5 @@
 ---
-title: 'What tests are recommended to check for toxicity levels in the home?'
-tagnames: lead, mold, question:general, general, first-time-poster
+title: "What tests are recommended to check for toxicity levels in the home?"\ntagnames: 'lead, mold, question:general, general, first-time-poster'
 author: lahoyaq8
 path: /notes/lahoyaq8/04-12-2020/what-tests-are-recommended-to-check-for-toxicity-levels-in-the-home.md
 nid: 23368
@@ -10,7 +9,7 @@ uid: 682676
 
 # What tests are recommended to check for toxicity levels in the home?
 
-by [lahoyaq8](../profile/lahoyaq8) April 12, 2020 06:53
+by [lahoyaq8](../profile/lahoyaq8) | April 12, 2020 06:53
 
 April 12, 2020 06:53 | Tags: [lead](../tag/lead), [mold](../tag/mold), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 

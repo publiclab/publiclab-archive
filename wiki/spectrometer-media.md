@@ -1,6 +1,5 @@
 ---
-title: 'spectrometer-media'
-tagnames: spectrometer, media, photos
+title: "spectrometer-media"\ntagnames: 'spectrometer, media, photos'
 author: warren
 path: /wiki/spectrometer-media.md
 nid: 8925

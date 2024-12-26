@@ -1,6 +1,5 @@
 ---
-title: 'Urban Environment and Social Inclusion Index'
-tagnames: air-quality, climate-change
+title: "Urban Environment and Social Inclusion Index"\ntagnames: 'air-quality, climate-change'
 author: julia_e_masters
 path: /wiki/urban-environment-and-social-inclusion-index.md
 nid: 27953

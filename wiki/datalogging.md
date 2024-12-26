@@ -1,6 +1,5 @@
 ---
-title: 'datalogging'
-tagnames: redirect:data-logging
+title: "datalogging"\ntagnames: 'redirect:data-logging'
 author: warren
 path: /wiki/datalogging.md
 nid: 20769

@@ -1,6 +1,5 @@
 ---
-title: 'Embed a Q&A system on another website'
-tagnames: question, activities, activity:activities, activity:questions
+title: "Embed a Q&A system on another website"\ntagnames: 'question, activities, activity:activities, activity:questions'
 author: warren
 path: /notes/warren/12-06-2017/embed-a-q-a-system-on-another-website.md
 nid: 15325
@@ -10,7 +9,7 @@ uid: 1
 
 # Embed a Q&A system on another website
 
-by [warren](../profile/warren) December 06, 2017 21:56
+by [warren](../profile/warren) | December 06, 2017 21:56
 
 December 06, 2017 21:56 | Tags: [question](../tag/question), [activities](../tag/activities), [activity:activities](../tag/activity:activities), [activity:questions](../tag/activity:questions)
 

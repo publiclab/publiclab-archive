@@ -1,6 +1,5 @@
 ---
-title: 'Autocorrecting $60 rc airplane'
-tagnames: 
+title: "Autocorrecting $60 rc airplane"\ntagnames: ''
 author: warren
 path: /notes/warren/11-19-2011/autocorrecting-60-rc-airplane.md
 nid: 572
@@ -10,7 +9,7 @@ uid: 1
 
 # Autocorrecting $60 rc airplane
 
-by [warren](../profile/warren) November 19, 2011 20:05
+by [warren](../profile/warren) | November 19, 2011 20:05
 
 November 19, 2011 20:05 | Tags: 
 

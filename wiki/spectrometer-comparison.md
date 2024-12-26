@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer comparison'
-tagnames: 
+title: "Spectrometer comparison"\ntagnames: ''
 author: warren
 path: /wiki/spectrometer-comparison.md
 nid: 3585

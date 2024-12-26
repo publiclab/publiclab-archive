@@ -1,6 +1,5 @@
 ---
-title: 'Initial Calibration'
-tagnames: 
+title: "Initial Calibration"\ntagnames: ''
 author: jr57k
 path: /notes/jr57k/04-08-2014/initial-calibration.md
 nid: 10280
@@ -10,7 +9,7 @@ uid: 422226
 
 # Initial Calibration
 
-by [jr57k](../profile/jr57k) April 08, 2014 00:44
+by [jr57k](../profile/jr57k) | April 08, 2014 00:44
 
 April 08, 2014 00:44 | Tags: 
 

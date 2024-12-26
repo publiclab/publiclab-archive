@@ -1,6 +1,5 @@
 ---
-title: 'Water quality'
-tagnames: water-quality, water, reagents
+title: "Water quality"\ntagnames: 'water-quality, water, reagents'
 author: donblair
 path: /wiki/water-quality.md
 nid: 9937

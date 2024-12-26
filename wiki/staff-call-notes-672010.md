@@ -1,6 +1,5 @@
 ---
-title: 'staff call notes 6-6-2011'
-tagnames: 
+title: "staff call notes 6-6-2011"\ntagnames: ''
 author: gonzoearth
 path: /wiki/staff-call-notes-672010.md
 nid: 338

@@ -1,6 +1,5 @@
 ---
-title: 'bywater'
-tagnames: redirect:21795
+title: "bywater"\ntagnames: 'redirect:21795'
 author: warren
 path: /wiki/bywater.md
 nid: 22201

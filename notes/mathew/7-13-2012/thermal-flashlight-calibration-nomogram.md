@@ -1,6 +1,5 @@
 ---
-title: 'Thermal Flashlight Calibration Nomogram'
-tagnames: thermal-photography, thermal-flashlight, nomogram, chart
+title: "Thermal Flashlight Calibration Nomogram"\ntagnames: 'thermal-photography, thermal-flashlight, nomogram, chart'
 author: mathew
 path: /notes/mathew/7-13-2012/thermal-flashlight-calibration-nomogram.md
 nid: 2799
@@ -12,7 +11,7 @@ uid: 4
 
 # Thermal Flashlight Calibration Nomogram
 
-by [mathew](../profile/mathew) July 13, 2012 20:22
+by [mathew](../profile/mathew) | July 13, 2012 20:22
 
 July 13, 2012 20:22 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [nomogram](../tag/nomogram), [chart](../tag/chart)
 

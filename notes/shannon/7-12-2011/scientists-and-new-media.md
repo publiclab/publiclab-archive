@@ -1,6 +1,5 @@
 ---
-title: 'Scientists and "new" media'
-tagnames: 
+title: "Scientists and "new" media"\ntagnames: ''
 author: Shannon
 path: /notes/shannon/7-12-2011/scientists-and-new-media.md
 nid: 380
@@ -10,7 +9,7 @@ uid: 9
 
 # Scientists and "new" media
 
-by [Shannon](../profile/Shannon) July 12, 2011 14:01
+by [Shannon](../profile/Shannon) | July 12, 2011 14:01
 
 July 12, 2011 14:01 | Tags: 
 

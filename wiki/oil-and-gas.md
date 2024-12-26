@@ -1,6 +1,5 @@
 ---
-title: 'Oil and Gas Accountability Toolkit'
-tagnames: oil-spill-toolkit, toolkits, parent:toolkits
+title: "Oil and Gas Accountability Toolkit"\ntagnames: 'oil-spill-toolkit, toolkits, parent:toolkits'
 author: warren
 path: /wiki/oil-and-gas.md
 nid: 13927

@@ -1,6 +1,5 @@
 ---
-title: 'Mobius cameras and smaller balloons'
-tagnames: balloon-mapping, mylar, photo-rig, balloon-mapping-kit, mobius, activity:photo-rig
+title: "Mobius cameras and smaller balloons"\ntagnames: 'balloon-mapping, mylar, photo-rig, balloon-mapping-kit, mobius, activity:photo-rig'
 author: warren
 path: /notes/warren/05-21-2015/mobius-cameras-and-smaller-balloons.md
 nid: 11827
@@ -12,7 +11,7 @@ uid: 1
 
 # Mobius cameras and smaller balloons
 
-by [warren](../profile/warren) May 21, 2015 16:52
+by [warren](../profile/warren) | May 21, 2015 16:52
 
 May 21, 2015 16:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [photo-rig](../tag/photo-rig), [balloon-mapping-kit](../tag/balloon-mapping-kit), [mobius](../tag/mobius), [activity:photo-rig](../tag/activity:photo-rig)
 

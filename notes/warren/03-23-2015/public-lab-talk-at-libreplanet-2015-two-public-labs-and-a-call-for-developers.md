@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab talk at LibrePlanet 2015: Two Public Labs, and a call for developers'
-tagnames: boston, open-source, community, web-development, presentations, software, talk, presentation, developers, libreplanet, free-software
+title: "Public Lab talk at LibrePlanet 2015: Two Public Labs, and a call for developers"\ntagnames: 'boston, open-source, community, web-development, presentations, software, talk, presentation, developers, libreplanet, free-software'
 author: warren
 path: /notes/warren/03-23-2015/public-lab-talk-at-libreplanet-2015-two-public-labs-and-a-call-for-developers.md
 nid: 11715
@@ -12,7 +11,7 @@ uid: 1
 
 # Public Lab talk at LibrePlanet 2015: Two Public Labs, and a call for developers
 
-by [warren](../profile/warren) March 23, 2015 14:31
+by [warren](../profile/warren) | March 23, 2015 14:31
 
 March 23, 2015 14:31 | Tags: [boston](../tag/boston), [open-source](../tag/open-source), [community](../tag/community), [web-development](../tag/web-development), [presentations](../tag/presentations), [software](../tag/software), [talk](../tag/talk), [presentation](../tag/presentation), [developers](../tag/developers), [libreplanet](../tag/libreplanet), [free-software](../tag/free-software)
 

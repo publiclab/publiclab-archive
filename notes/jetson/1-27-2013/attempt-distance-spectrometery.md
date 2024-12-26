@@ -1,6 +1,5 @@
 ---
-title: 'Attempt at Distance Spectrometery'
-tagnames: spectrometer, flare
+title: "Attempt at Distance Spectrometery"\ntagnames: 'spectrometer, flare'
 author: jetson
 path: /notes/jetson/1-27-2013/attempt-distance-spectrometery.md
 nid: 5741
@@ -12,7 +11,7 @@ uid: 47133
 
 # Attempt at Distance Spectrometery
 
-by [jetson](../profile/jetson) January 28, 2013 04:23
+by [jetson](../profile/jetson) | January 28, 2013 04:23
 
 January 28, 2013 04:23 | Tags: [spectrometer](../tag/spectrometer), [flare](../tag/flare)
 

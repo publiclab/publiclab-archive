@@ -1,6 +1,5 @@
 ---
-title: 'Is Node.js used in the codebase?'
-tagnames: ruby, nodejs, question:general, general, first-time-poster, codebase
+title: "Is Node.js used in the codebase?"\ntagnames: 'ruby, nodejs, question:general, general, first-time-poster, codebase'
 author: maxman
 path: /notes/maxman/10-31-2019/is-node-js-used-in-the-codebase.md
 nid: 21362
@@ -10,7 +9,7 @@ uid: 633617
 
 # Is Node.js used in the codebase?
 
-by [maxman](../profile/maxman) October 31, 2019 23:24
+by [maxman](../profile/maxman) | October 31, 2019 23:24
 
 October 31, 2019 23:24 | Tags: [ruby](../tag/ruby), [nodejs](../tag/nodejs), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [codebase](../tag/codebase)
 

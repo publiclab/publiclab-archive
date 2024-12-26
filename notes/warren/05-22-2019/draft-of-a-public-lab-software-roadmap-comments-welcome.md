@@ -1,6 +1,5 @@
 ---
-title: 'Draft of a Public Lab Software Roadmap: Comments welcome!'
-tagnames: software, code, wwg, software-outreach, soc, diagram, roadmap
+title: "Draft of a Public Lab Software Roadmap: Comments welcome!"\ntagnames: 'software, code, wwg, software-outreach, soc, diagram, roadmap'
 author: warren
 path: /notes/warren/05-22-2019/draft-of-a-public-lab-software-roadmap-comments-welcome.md
 nid: 19494
@@ -12,7 +11,7 @@ uid: 1
 
 # Draft of a Public Lab Software Roadmap: Comments welcome!
 
-by [warren](../profile/warren) May 22, 2019 19:46
+by [warren](../profile/warren) | May 22, 2019 19:46
 
 May 22, 2019 19:46 | Tags: [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [diagram](../tag/diagram), [roadmap](../tag/roadmap)
 

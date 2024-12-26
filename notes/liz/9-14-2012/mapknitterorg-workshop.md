@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter.org workshop'
-tagnames: balloon-mapping, mapknitter, events, oyster-reef, event
+title: "MapKnitter.org workshop"\ntagnames: 'balloon-mapping, mapknitter, events, oyster-reef, event'
 author: liz
 path: /notes/liz/9-14-2012/mapknitterorg-workshop.md
 nid: 3821
@@ -12,7 +11,7 @@ uid: 7
 
 # MapKnitter.org workshop
 
-by [liz](../profile/liz) September 14, 2012 18:30
+by [liz](../profile/liz) | September 14, 2012 18:30
 
 September 14, 2012 18:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [events](../tag/events), [oyster-reef](../tag/oyster-reef), [event](../tag/event)
 

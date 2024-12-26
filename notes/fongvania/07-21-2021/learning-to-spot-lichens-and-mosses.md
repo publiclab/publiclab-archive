@@ -1,6 +1,5 @@
 ---
-title: 'Activity: Learning to Spot Lichens and Mosses'
-tagnames: air-quality, moss, new, lichen, difficulty:easy, category:observe, time:1h, activity:air-quality, activity:new, nature-walk, research-curation-fellows, bioindicators, activity:bioindicators, activity:lichen
+title: "Activity: Learning to Spot Lichens and Mosses"\ntagnames: 'air-quality, moss, new, lichen, difficulty:easy, category:observe, time:1h, activity:air-quality, activity:new, nature-walk, research-curation-fellows, bioindicators, activity:bioindicators, activity:lichen'
 author: fongvania
 path: /notes/fongvania/07-21-2021/learning-to-spot-lichens-and-mosses.md
 nid: 27215
@@ -12,7 +11,7 @@ uid: 754846
 
 # Activity: Learning to Spot Lichens and Mosses
 
-by [fongvania](../profile/fongvania) July 21, 2021 06:09
+by [fongvania](../profile/fongvania) | July 21, 2021 06:09
 
 July 21, 2021 06:09 | Tags: [air-quality](../tag/air-quality), [moss](../tag/moss), [new](../tag/new), [lichen](../tag/lichen), [difficulty:easy](../tag/difficulty:easy), [category:observe](../tag/category:observe), [time:1h](../tag/time:1h), [activity:air-quality](../tag/activity:air-quality), [activity:new](../tag/activity:new), [nature-walk](../tag/nature-walk), [research-curation-fellows](../tag/research-curation-fellows), [bioindicators](../tag/bioindicators), [activity:bioindicators](../tag/activity:bioindicators), [activity:lichen](../tag/activity:lichen)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Water Quality Workshop July 12th @ MIT Media Lab'
-tagnames: cambridge, boston, event, water-quality, open-water, date:07-12-2014
+title: "Water Quality Workshop July 12th @ MIT Media Lab"\ntagnames: 'cambridge, boston, event, water-quality, open-water, date:07-12-2014'
 author: donblair
 path: /notes/donblair/07-11-2014/water-quality-workshop-july-12th-mit-media-lab.md
 nid: 10677
@@ -12,7 +11,7 @@ uid: 43651
 
 # Water Quality Workshop July 12th @ MIT Media Lab
 
-by [donblair](../profile/donblair) July 11, 2014 13:39
+by [donblair](../profile/donblair) | July 11, 2014 13:39
 
 July 11, 2014 13:39 | Tags: [cambridge](../tag/cambridge), [boston](../tag/boston), [event](../tag/event), [water-quality](../tag/water-quality), [open-water](../tag/open-water), [date:07-12-2014](../tag/date:07-12-2014)
 

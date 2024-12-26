@@ -1,6 +1,5 @@
 ---
-title: 'Games/Activities to know about Air Pollution'
-tagnames: education, workshop, curriculum, air-quality, lesson, exploring-environmental-issues, lat:12.944198, lon:80.148028
+title: "Games/Activities to know about Air Pollution"\ntagnames: 'education, workshop, curriculum, air-quality, lesson, exploring-environmental-issues, lat:12.944198, lon:80.148028'
 author: silentsairam
 path: /notes/silentsairam/06-16-2019/games-activities-to-know-about-air-pollution.md
 nid: 19716
@@ -12,7 +11,7 @@ uid: 553044
 
 # Games/Activities to know about Air Pollution
 
-by [silentsairam](../profile/silentsairam) June 16, 2019 18:14
+by [silentsairam](../profile/silentsairam) | June 16, 2019 18:14
 
 June 16, 2019 18:14 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [air-quality](../tag/air-quality), [lesson](../tag/lesson), [exploring-environmental-issues](../tag/exploring-environmental-issues), [lat:12.944198](../tag/lat:12.944198), [lon:80.148028](../tag/lon:80.148028)
 

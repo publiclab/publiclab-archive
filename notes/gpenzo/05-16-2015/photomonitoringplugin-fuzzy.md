@@ -1,6 +1,5 @@
 ---
-title: 'PhotoMonitoringPlugin fuzzy'
-tagnames: ndvi, qgis
+title: "PhotoMonitoringPlugin fuzzy"\ntagnames: 'ndvi, qgis'
 author: gpenzo
 path: /notes/gpenzo/05-16-2015/photomonitoringplugin-fuzzy.md
 nid: 11821
@@ -12,7 +11,7 @@ uid: 420719
 
 # PhotoMonitoringPlugin fuzzy
 
-by [gpenzo](../profile/gpenzo) May 16, 2015 08:39
+by [gpenzo](../profile/gpenzo) | May 16, 2015 08:39
 
 May 16, 2015 08:39 | Tags: [ndvi](../tag/ndvi), [qgis](../tag/qgis)
 

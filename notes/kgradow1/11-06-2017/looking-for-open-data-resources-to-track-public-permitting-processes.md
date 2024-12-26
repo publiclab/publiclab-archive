@@ -1,6 +1,5 @@
 ---
-title: 'Looking for open data resources to track public permitting processes. '
-tagnames: advocacy, permits, question:advocacy, question:legal, question:permitting, question:ordinances, ordinances, permitting, open-data, law-and-policy, question:law-and-policy
+title: "Looking for open data resources to track public permitting processes. "\ntagnames: 'advocacy, permits, question:advocacy, question:legal, question:permitting, question:ordinances, ordinances, permitting, open-data, law-and-policy, question:law-and-policy'
 author: kgradow1
 path: /notes/kgradow1/11-06-2017/looking-for-open-data-resources-to-track-public-permitting-processes.md
 nid: 15155
@@ -10,7 +9,7 @@ uid: 297929
 
 # Looking for open data resources to track public permitting processes. 
 
-by [kgradow1](../profile/kgradow1) November 06, 2017 19:15
+by [kgradow1](../profile/kgradow1) | November 06, 2017 19:15
 
 November 06, 2017 19:15 | Tags: [advocacy](../tag/advocacy), [permits](../tag/permits), [question:advocacy](../tag/question:advocacy), [question:legal](../tag/question:legal), [question:permitting](../tag/question:permitting), [question:ordinances](../tag/question:ordinances), [ordinances](../tag/ordinances), [permitting](../tag/permitting), [open-data](../tag/open-data), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 

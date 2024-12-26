@@ -1,6 +1,5 @@
 ---
-title: 'How can real-time camera monitoring be set up?  '
-tagnames: timelapse, answered, question:timelapse, counter-surveillance, real-time
+title: "How can real-time camera monitoring be set up?  "\ntagnames: 'timelapse, answered, question:timelapse, counter-surveillance, real-time'
 author: cherylh
 path: /notes/cherylh/05-15-2017/how-can-real-time-camera-monitoring-be-set-up.md
 nid: 14191
@@ -10,7 +9,7 @@ uid: 507287
 
 # How can real-time camera monitoring be set up?  
 
-by [cherylh](../profile/cherylh) May 15, 2017 05:48
+by [cherylh](../profile/cherylh) | May 15, 2017 05:48
 
 May 15, 2017 05:48 | Tags: [timelapse](../tag/timelapse), [answered](../tag/answered), [question:timelapse](../tag/question:timelapse), [counter-surveillance](../tag/counter-surveillance), [real-time](../tag/real-time)
 

@@ -1,6 +1,5 @@
 ---
-title: 'dronemapper.com cloudbased aerial photo processing service '
-tagnames: 
+title: "dronemapper.com cloudbased aerial photo processing service "\ntagnames: ''
 author: patcoyle
 path: /notes/patcoyle/9-4-2012/dronemappercom-cloudbased-aerial-photo-processing-service.md
 nid: 3645
@@ -12,7 +11,7 @@ uid: 77
 
 # dronemapper.com cloudbased aerial photo processing service 
 
-by [patcoyle](../profile/patcoyle) September 05, 2012 03:59
+by [patcoyle](../profile/patcoyle) | September 05, 2012 03:59
 
 September 05, 2012 03:59 | Tags: 
 

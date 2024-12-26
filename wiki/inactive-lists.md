@@ -1,6 +1,5 @@
 ---
-title: 'Inactive Lists '
-tagnames: community, forum, chat, forums, lists, discussion, locked
+title: "Inactive Lists "\ntagnames: 'community, forum, chat, forums, lists, discussion, locked'
 author: stevie
 path: /wiki/inactive-lists.md
 nid: 15476

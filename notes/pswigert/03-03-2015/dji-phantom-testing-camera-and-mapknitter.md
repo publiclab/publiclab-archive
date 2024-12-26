@@ -1,6 +1,5 @@
 ---
-title: 'DJI Phantom- Testing Camera and Mapknitter'
-tagnames: uav-mapping
+title: "DJI Phantom- Testing Camera and Mapknitter"\ntagnames: 'uav-mapping'
 author: pswigert
 path: /notes/pswigert/03-03-2015/dji-phantom-testing-camera-and-mapknitter.md
 nid: 11653
@@ -12,7 +11,7 @@ uid: 434699
 
 # DJI Phantom- Testing Camera and Mapknitter
 
-by [pswigert](../profile/pswigert) March 03, 2015 21:59
+by [pswigert](../profile/pswigert) | March 03, 2015 21:59
 
 March 03, 2015 21:59 | Tags: [uav-mapping](../tag/uav-mapping)
 

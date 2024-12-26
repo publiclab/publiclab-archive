@@ -1,6 +1,5 @@
 ---
-title: 'Lycopene extraction attempts using ethanol, ether and engine starter fluid'
-tagnames: analysis, diy, comparison, food, spectral, chemistry, lycopene, tomato, paste, first-time-poster
+title: "Lycopene extraction attempts using ethanol, ether and engine starter fluid"\ntagnames: 'analysis, diy, comparison, food, spectral, chemistry, lycopene, tomato, paste, first-time-poster'
 author: iamkat
 path: /notes/iamkat/10-06-2016/lycopene-extraction-attempts-using-ethanol-ether-and-engine-starter-fluid.md
 nid: 13528
@@ -12,7 +11,7 @@ uid: 492745
 
 # Lycopene extraction attempts using ethanol, ether and engine starter fluid
 
-by [iamkat](../profile/iamkat) October 06, 2016 13:46
+by [iamkat](../profile/iamkat) | October 06, 2016 13:46
 
 October 06, 2016 13:46 | Tags: [analysis](../tag/analysis), [diy](../tag/diy), [comparison](../tag/comparison), [food](../tag/food), [spectral](../tag/spectral), [chemistry](../tag/chemistry), [lycopene](../tag/lycopene), [tomato](../tag/tomato), [paste](../tag/paste), [first-time-poster](../tag/first-time-poster)
 

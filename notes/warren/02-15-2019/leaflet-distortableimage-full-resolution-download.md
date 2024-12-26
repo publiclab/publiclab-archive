@@ -1,6 +1,5 @@
 ---
-title: 'Leaflet.DistortableImage full resolution download'
-tagnames: balloon-mapping, kite-mapping, mapknitter, aerial-photography, blog, leaflet, pole-mapping, code, exporting, leaflet-distortable-image, orthorectification, rubber-sheeting
+title: "Leaflet.DistortableImage full resolution download"\ntagnames: 'balloon-mapping, kite-mapping, mapknitter, aerial-photography, blog, leaflet, pole-mapping, code, exporting, leaflet-distortable-image, orthorectification, rubber-sheeting'
 author: warren
 path: /notes/warren/02-15-2019/leaflet-distortableimage-full-resolution-download.md
 nid: 18316
@@ -12,7 +11,7 @@ uid: 1
 
 # Leaflet.DistortableImage full resolution download
 
-by [warren](../profile/warren) February 08, 2019 17:19
+by [warren](../profile/warren) | February 08, 2019 17:19
 
 February 08, 2019 17:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [aerial-photography](../tag/aerial-photography), [blog](../tag/blog), [leaflet](../tag/leaflet), [pole-mapping](../tag/pole-mapping), [code](../tag/code), [exporting](../tag/exporting), [leaflet-distortable-image](../tag/leaflet-distortable-image), [orthorectification](../tag/orthorectification), [rubber-sheeting](../tag/rubber-sheeting)
 

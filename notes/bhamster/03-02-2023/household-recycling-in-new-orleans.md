@@ -1,6 +1,5 @@
 ---
-title: 'Household Recycling in New Orleans'
-tagnames: recycling, student-community-science, classroom-community-science
+title: "Household Recycling in New Orleans"\ntagnames: 'recycling, student-community-science, classroom-community-science'
 author: bhamster
 path: /notes/bhamster/03-02-2023/household-recycling-in-new-orleans.md
 nid: 38734
@@ -10,7 +9,7 @@ uid: 664477
 
 # Household Recycling in New Orleans
 
-by [bhamster](../profile/bhamster) March 02, 2023 21:57
+by [bhamster](../profile/bhamster) | March 02, 2023 21:57
 
 March 02, 2023 21:57 | Tags: [recycling](../tag/recycling), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science)
 

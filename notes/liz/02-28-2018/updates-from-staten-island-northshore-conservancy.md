@@ -1,6 +1,5 @@
 ---
-title: 'Updates from Staten Island Northshore Conservancy'
-tagnames: 
+title: "Updates from Staten Island Northshore Conservancy"\ntagnames: ''
 author: liz
 path: /notes/liz/02-28-2018/updates-from-staten-island-northshore-conservancy.md
 nid: 15838
@@ -12,7 +11,7 @@ uid: 7
 
 # Updates from Staten Island Northshore Conservancy
 
-by [liz](../profile/liz) February 28, 2018 20:04
+by [liz](../profile/liz) | February 28, 2018 20:04
 
 February 28, 2018 20:04 | Tags: 
 

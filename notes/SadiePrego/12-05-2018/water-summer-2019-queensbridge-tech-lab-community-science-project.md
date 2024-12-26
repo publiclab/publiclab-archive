@@ -1,6 +1,5 @@
 ---
-title: 'WATER-QUALITY: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT'
-tagnames: new-york-city, education, curriculum, sewage, public-health, conductivity, pcb, northeast, coqui, rivers, equipment, ph, drains, water-filters, community-science, water-quality-testing, community-microscope, first-time-poster, water-kits, lead-kits, contaminantes, leaf-chromatography, biobus, community-microscopes, queensbridge, nycha, water-pollution, diy-microscopes, foldscope, tap-waters, run-off, water-systems, instruments, water-samples, urban-environmentalism, response:17817
+title: "WATER-QUALITY: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT"\ntagnames: 'new-york-city, education, curriculum, sewage, public-health, conductivity, pcb, northeast, coqui, rivers, equipment, ph, drains, water-filters, community-science, water-quality-testing, community-microscope, first-time-poster, water-kits, lead-kits, contaminantes, leaf-chromatography, biobus, community-microscopes, queensbridge, nycha, water-pollution, diy-microscopes, foldscope, tap-waters, run-off, water-systems, instruments, water-samples, urban-environmentalism, response:17817'
 author: SadiePrego
 path: /notes/SadiePrego/12-05-2018/water-summer-2019-queensbridge-tech-lab-community-science-project.md
 nid: 17816
@@ -12,7 +11,7 @@ uid: 562839
 
 # WATER-QUALITY: SUMMER 2019 QUEENSBRIDGE TECH LAB COMMUNITY SCIENCE PROJECT
 
-by [SadiePrego](../profile/SadiePrego) December 05, 2018 21:11
+by [SadiePrego](../profile/SadiePrego) | December 05, 2018 21:11
 
 December 05, 2018 21:11 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [curriculum](../tag/curriculum), [sewage](../tag/sewage), [public-health](../tag/public-health), [conductivity](../tag/conductivity), [pcb](../tag/pcb), [northeast](../tag/northeast), [coqui](../tag/coqui), [rivers](../tag/rivers), [equipment](../tag/equipment), [ph](../tag/ph), [drains](../tag/drains), [water-filters](../tag/water-filters), [community-science](../tag/community-science), [water-quality-testing](../tag/water-quality-testing), [community-microscope](../tag/community-microscope), [first-time-poster](../tag/first-time-poster), [water-kits](../tag/water-kits), [lead-kits](../tag/lead-kits), [contaminantes](../tag/contaminantes), [leaf-chromatography](../tag/leaf-chromatography), [biobus](../tag/biobus), [community-microscopes](../tag/community-microscopes), [queensbridge](../tag/queensbridge), [nycha](../tag/nycha), [water-pollution](../tag/water-pollution), [diy-microscopes](../tag/diy-microscopes), [foldscope](../tag/foldscope), [tap-waters](../tag/tap-waters), [run-off](../tag/run-off), [water-systems](../tag/water-systems), [instruments](../tag/instruments), [water-samples](../tag/water-samples), [urban-environmentalism](../tag/urban-environmentalism), [response:17817](../tag/response:17817)
 

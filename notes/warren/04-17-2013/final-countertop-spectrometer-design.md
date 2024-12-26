@@ -1,6 +1,5 @@
 ---
-title: 'Final Countertop Spectrometer Design'
-tagnames: spectrometer, countertop-spectrometer
+title: "Final Countertop Spectrometer Design"\ntagnames: 'spectrometer, countertop-spectrometer'
 author: warren
 path: /notes/warren/04-17-2013/final-countertop-spectrometer-design.md
 nid: 6878
@@ -12,7 +11,7 @@ uid: 1
 
 # Final Countertop Spectrometer Design
 
-by [warren](../profile/warren) April 17, 2013 18:29
+by [warren](../profile/warren) | April 17, 2013 18:29
 
 April 17, 2013 18:29 | Tags: [spectrometer](../tag/spectrometer), [countertop-spectrometer](../tag/countertop-spectrometer)
 

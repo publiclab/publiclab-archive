@@ -1,6 +1,5 @@
 ---
-title: 'Telemark skin glue for re-stickable spectrometer attachment'
-tagnames: spectrometer
+title: "Telemark skin glue for re-stickable spectrometer attachment"\ntagnames: 'spectrometer'
 author: warren
 path: /notes/warren/2-27-2013/telemark-skin-glue-re-stickable-spectrometer-attachment.md
 nid: 6140
@@ -12,7 +11,7 @@ uid: 1
 
 # Telemark skin glue for re-stickable spectrometer attachment
 
-by [warren](../profile/warren) February 27, 2013 21:41
+by [warren](../profile/warren) | February 27, 2013 21:41
 
 February 27, 2013 21:41 | Tags: [spectrometer](../tag/spectrometer)
 

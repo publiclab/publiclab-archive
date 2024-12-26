@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab community growth, Dec 2010-Aug 2013'
-tagnames: community, website, statistics, evaluation
+title: "Public Lab community growth, Dec 2010-Aug 2013"\ntagnames: 'community, website, statistics, evaluation'
 author: warren
 path: /notes/warren/08-13-2013/public-lab-community-growth-dec-2010-aug-2013.md
 nid: 8998
@@ -12,7 +11,7 @@ uid: 1
 
 # Public Lab community growth, Dec 2010-Aug 2013
 
-by [warren](../profile/warren) August 13, 2013 20:38
+by [warren](../profile/warren) | August 13, 2013 20:38
 
 August 13, 2013 20:38 | Tags: [community](../tag/community), [website](../tag/website), [statistics](../tag/statistics), [evaluation](../tag/evaluation)
 

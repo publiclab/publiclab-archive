@@ -1,6 +1,5 @@
 ---
-title: 'Is our fridge too warm? A Fido now sends us text message alerts.'
-tagnames: raspberry-pi, open-ground, fido, termperature, alerts, open-pipe-kit
+title: "Is our fridge too warm? A Fido now sends us text message alerts."\ntagnames: 'raspberry-pi, open-ground, fido, termperature, alerts, open-pipe-kit'
 author: rjstatic
 path: /07-20-2014/is-our-fridge-too-warm-a-fido-now-sends-us-text-message-alerts.md
 nid: 10712
@@ -12,7 +11,7 @@ uid: 174
 
 # Is our fridge too warm? A Fido now sends us text message alerts.
 
-by [rjstatic](../profile/rjstatic) July 20, 2014 02:58
+by [rjstatic](../profile/rjstatic) | July 20, 2014 02:58
 
 July 20, 2014 02:58 | Tags: [raspberry-pi](../tag/raspberry-pi), [open-ground](../tag/open-ground), [fido](../tag/fido), [termperature](../tag/termperature), [alerts](../tag/alerts), [open-pipe-kit](../tag/open-pipe-kit)
 

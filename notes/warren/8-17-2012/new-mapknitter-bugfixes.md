@@ -1,6 +1,5 @@
 ---
-title: 'New MapKnitter bugfixes'
-tagnames: balloon-mapping, mapknitter
+title: "New MapKnitter bugfixes"\ntagnames: 'balloon-mapping, mapknitter'
 author: warren
 path: /notes/warren/8-17-2012/new-mapknitter-bugfixes.md
 nid: 3325
@@ -12,7 +11,7 @@ uid: 1
 
 # New MapKnitter bugfixes
 
-by [warren](../profile/warren) August 17, 2012 12:36
+by [warren](../profile/warren) | August 17, 2012 12:36
 
 August 17, 2012 12:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab - Summary in Turkish'
-tagnames: publiclab, summary, turkish
+title: "Public Lab - Summary in Turkish"\ntagnames: 'publiclab, summary, turkish'
 author: ygzstc
 path: /wiki/public-lab-summary-in-turkish.md
 nid: 12122

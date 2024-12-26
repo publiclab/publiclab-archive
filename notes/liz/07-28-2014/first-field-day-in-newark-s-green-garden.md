@@ -1,6 +1,5 @@
 ---
-title: 'First field day in Newark's Green Garden '
-tagnames: newark, new-jersey, 5bf, urban-ag, infragram, garden, elp, northeast, with:thegreencommunitygarden
+title: "First field day in Newark's Green Garden "\ntagnames: 'newark, new-jersey, 5bf, urban-ag, infragram, garden, elp, northeast, with:thegreencommunitygarden'
 author: liz
 path: /notes/liz/07-28-2014/first-field-day-in-newark-s-green-garden.md
 nid: 10987
@@ -12,7 +11,7 @@ uid: 7
 
 # First field day in Newark's Green Garden 
 
-by [liz](../profile/liz) July 28, 2014 20:19
+by [liz](../profile/liz) | July 28, 2014 20:19
 
 July 28, 2014 20:19 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [5bf](../tag/5bf), [urban-ag](../tag/urban-ag), [infragram](../tag/infragram), [garden](../tag/garden), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden)
 

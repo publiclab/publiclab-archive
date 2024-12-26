@@ -1,6 +1,5 @@
 ---
-title: 'infragrammar'
-tagnames: 
+title: "infragrammar"\ntagnames: ''
 author: warren
 path: /wiki/infragrammar.md
 nid: 9041

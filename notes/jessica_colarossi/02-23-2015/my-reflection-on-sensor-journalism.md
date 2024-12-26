@@ -1,6 +1,5 @@
 ---
-title: 'My Reflection on Sensor Journalism '
-tagnames: sensor-journalism
+title: "My Reflection on Sensor Journalism "\ntagnames: 'sensor-journalism'
 author: jessica_colarossi
 path: /notes/jessica_colarossi/02-23-2015/my-reflection-on-sensor-journalism.md
 nid: 11631
@@ -10,7 +9,7 @@ uid: 435609
 
 # My Reflection on Sensor Journalism 
 
-by [jessica_colarossi](../profile/jessica_colarossi) February 23, 2015 21:43
+by [jessica_colarossi](../profile/jessica_colarossi) | February 23, 2015 21:43
 
 February 23, 2015 21:43 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

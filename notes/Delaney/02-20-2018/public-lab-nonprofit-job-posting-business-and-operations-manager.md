@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab nonprofit job posting: Business and Operations Manager'
-tagnames: gulf-coast, staff, nonprofit, neworleans, jobs, barnstar:basic, location:neworleans
+title: "Public Lab nonprofit job posting: Business and Operations Manager"\ntagnames: 'gulf-coast, staff, nonprofit, neworleans, jobs, barnstar:basic, location:neworleans'
 author: Delaney
 path: /notes/Delaney/02-20-2018/public-lab-nonprofit-job-posting-business-and-operations-manager.md
 nid: 15787
@@ -12,7 +11,7 @@ uid: 517173
 
 # Public Lab nonprofit job posting: Business and Operations Manager
 
-by [Delaney](../profile/Delaney) February 20, 2018 20:43
+by [Delaney](../profile/Delaney) | February 20, 2018 20:43
 
 February 20, 2018 20:43 | Tags: [gulf-coast](../tag/gulf-coast), [staff](../tag/staff), [nonprofit](../tag/nonprofit), [neworleans](../tag/neworleans), [jobs](../tag/jobs), [barnstar:basic](../tag/barnstar:basic), [location:neworleans](../tag/location:neworleans)
 

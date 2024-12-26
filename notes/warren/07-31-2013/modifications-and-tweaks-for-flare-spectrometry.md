@@ -1,6 +1,5 @@
 ---
-title: 'Modifications and tweaks for flare spectrometry'
-tagnames: spectrometer, kits, flare, distance-spectrometry, modifications
+title: "Modifications and tweaks for flare spectrometry"\ntagnames: 'spectrometer, kits, flare, distance-spectrometry, modifications'
 author: warren
 path: /notes/warren/07-31-2013/modifications-and-tweaks-for-flare-spectrometry.md
 nid: 8945
@@ -12,7 +11,7 @@ uid: 1
 
 # Modifications and tweaks for flare spectrometry
 
-by [warren](../profile/warren) July 31, 2013 13:07
+by [warren](../profile/warren) | July 31, 2013 13:07
 
 July 31, 2013 13:07 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [flare](../tag/flare), [distance-spectrometry](../tag/distance-spectrometry), [modifications](../tag/modifications)
 

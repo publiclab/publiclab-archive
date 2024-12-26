@@ -1,6 +1,5 @@
 ---
-title: 'Activity Categories '
-tagnames: with:warren, with:liz, activity-grids, with:abdul, category:observe
+title: "Activity Categories "\ntagnames: 'with:warren, with:liz, activity-grids, with:abdul, category:observe'
 author: gretchengehrke
 path: /wiki/activity-categories.md
 nid: 13412

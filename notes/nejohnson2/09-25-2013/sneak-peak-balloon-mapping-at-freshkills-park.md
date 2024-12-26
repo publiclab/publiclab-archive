@@ -1,6 +1,5 @@
 ---
-title: 'Sneak Peak Balloon Mapping at Freshkills Park'
-tagnames: new-york-city, event, fresh-kills, staten-island
+title: "Sneak Peak Balloon Mapping at Freshkills Park"\ntagnames: 'new-york-city, event, fresh-kills, staten-island'
 author: nicholas
 path: /notes/nejohnson2/09-25-2013/sneak-peak-balloon-mapping-at-freshkills-park.md
 nid: 9374
@@ -12,7 +11,7 @@ uid: 53894
 
 # Sneak Peak Balloon Mapping at Freshkills Park
 
-by [nicholas](../profile/nicholas) September 25, 2013 14:50
+by [nicholas](../profile/nicholas) | September 25, 2013 14:50
 
 September 25, 2013 14:50 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [fresh-kills](../tag/fresh-kills), [staten-island](../tag/staten-island)
 

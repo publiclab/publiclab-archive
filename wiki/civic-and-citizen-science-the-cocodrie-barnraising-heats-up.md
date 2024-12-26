@@ -1,6 +1,5 @@
 ---
-title: 'Civic and Citizen Science: The Cocodrie Barnraising heats up'
-tagnames: citizen-science, grassrootsmappingforum, civic-science, style:fancy, with:mathew, with:jeff, with:donblair, with:danbeavers, with:eustatic, with:liz, with:cindy_excites, gmf-3, with:hudonnoodles, with:patcoyle, with:jbreen, with:oscarbrett
+title: "Civic and Citizen Science: The Cocodrie Barnraising heats up"\ntagnames: 'citizen-science, grassrootsmappingforum, civic-science, style:fancy, with:mathew, with:jeff, with:donblair, with:danbeavers, with:eustatic, with:liz, with:cindy_excites, gmf-3, with:hudonnoodles, with:patcoyle, with:jbreen, with:oscarbrett'
 author: mollydanielsson
 path: /wiki/civic-and-citizen-science-the-cocodrie-barnraising-heats-up.md
 nid: 11567

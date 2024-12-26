@@ -1,6 +1,5 @@
 ---
-title: 'Plastics options for spectrometers'
-tagnames: near-infrared-camera, spectrometer, materials
+title: "Plastics options for spectrometers"\ntagnames: 'near-infrared-camera, spectrometer, materials'
 author: warren
 path: /notes/warren/3-6-2013/plastics-options-spectrometers.md
 nid: 6223
@@ -12,7 +11,7 @@ uid: 1
 
 # Plastics options for spectrometers
 
-by [warren](../profile/warren) March 06, 2013 21:34
+by [warren](../profile/warren) | March 06, 2013 21:34
 
 March 06, 2013 21:34 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [materials](../tag/materials)
 

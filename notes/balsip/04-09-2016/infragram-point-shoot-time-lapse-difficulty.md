@@ -1,6 +1,5 @@
 ---
-title: 'Infragram Point & Shoot; Time-lapse Difficulty'
-tagnames: ndvi, time-lapse, infragram, timelapse, code, mobius, infragram-point-shoot, script, error
+title: "Infragram Point & Shoot; Time-lapse Difficulty"\ntagnames: 'ndvi, time-lapse, infragram, timelapse, code, mobius, infragram-point-shoot, script, error'
 author: balsip
 path: /notes/balsip/04-09-2016/infragram-point-shoot-time-lapse-difficulty.md
 nid: 12947
@@ -12,7 +11,7 @@ uid: 422670
 
 # Infragram Point & Shoot; Time-lapse Difficulty
 
-by [balsip](../profile/balsip) April 09, 2016 04:47
+by [balsip](../profile/balsip) | April 09, 2016 04:47
 
 April 09, 2016 04:47 | Tags: [ndvi](../tag/ndvi), [time-lapse](../tag/time-lapse), [infragram](../tag/infragram), [timelapse](../tag/timelapse), [code](../tag/code), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [script](../tag/script), [error](../tag/error)
 

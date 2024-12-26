@@ -1,6 +1,5 @@
 ---
-title: 'Study design'
-tagnames: research, advocacy, study-design, planning, study, parent:advocacy
+title: "Study design"\ntagnames: 'research, advocacy, study-design, planning, study, parent:advocacy'
 author: warren
 path: /wiki/study-design.md
 nid: 18890

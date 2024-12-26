@@ -1,6 +1,5 @@
 ---
-title: 'Idea for measurement of airborne pollutants (or other stuff)'
-tagnames: air, pollution, openqcm, quarts, crystal, microbalance
+title: "Idea for measurement of airborne pollutants (or other stuff)"\ntagnames: 'air, pollution, openqcm, quarts, crystal, microbalance'
 author: gbathree
 path: /notes/gbathree/04-08-2016/idea-for-measurement-of-airborne-pollutants-or-other-stuff.md
 nid: 12938
@@ -12,7 +11,7 @@ uid: 53164
 
 # Idea for measurement of airborne pollutants (or other stuff)
 
-by [gbathree](../profile/gbathree) April 08, 2016 03:47
+by [gbathree](../profile/gbathree) | April 08, 2016 03:47
 
 April 08, 2016 03:47 | Tags: [air](../tag/air), [pollution](../tag/pollution), [openqcm](../tag/openqcm), [quarts](../tag/quarts), [crystal](../tag/crystal), [microbalance](../tag/microbalance)
 

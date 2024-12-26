@@ -1,6 +1,5 @@
 ---
-title: 'Call for Outreachy 2020 proposals!'
-tagnames: with:warren, seeks:responses, call-for-proposals, with:bansal_sidharth2996, with:gauravano, zoom:13, lat:40.71, lon:-73.95, with:cess, with:emash
+title: "Call for Outreachy 2020 proposals!"\ntagnames: 'with:warren, seeks:responses, call-for-proposals, with:bansal_sidharth2996, with:gauravano, zoom:13, lat:40.71, lon:-73.95, with:cess, with:emash'
 author: liz
 path: /notes/liz/03-09-2020/call-for-outreachy-2020-proposals.md
 nid: 23084
@@ -12,7 +11,7 @@ uid: 7
 
 # Call for Outreachy 2020 proposals!
 
-by [liz](../profile/liz) March 09, 2020 19:38
+by [liz](../profile/liz) | March 09, 2020 19:38
 
 March 09, 2020 19:38 | Tags: [with:warren](../tag/with:warren), [seeks:responses](../tag/seeks:responses), [call-for-proposals](../tag/call-for-proposals), [with:bansal_sidharth2996](../tag/with:bansal_sidharth2996), [with:gauravano](../tag/with:gauravano), [zoom:13](../tag/zoom:13), [lat:40.71](../tag/lat:40.71), [lon:-73.95](../tag/lon:-73.95), [with:cess](../tag/with:cess), [with:emash](../tag/with:emash)
 

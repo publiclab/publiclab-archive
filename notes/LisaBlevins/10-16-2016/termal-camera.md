@@ -1,6 +1,5 @@
 ---
-title: 'Termal Camera'
-tagnames: 
+title: "Termal Camera"\ntagnames: ''
 author: LisaBlevins
 path: /notes/LisaBlevins/10-16-2016/termal-camera.md
 nid: 13566
@@ -10,7 +9,7 @@ uid: 494570
 
 # Termal Camera
 
-by [LisaBlevins](../profile/LisaBlevins) October 16, 2016 01:29
+by [LisaBlevins](../profile/LisaBlevins) | October 16, 2016 01:29
 
 October 16, 2016 01:29 | Tags: 
 

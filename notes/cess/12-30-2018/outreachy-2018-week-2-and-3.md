@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy 2018 Week 2 and 3'
-tagnames: blog, outreachy, outreachy-2018
+title: "Outreachy 2018 Week 2 and 3"\ntagnames: 'blog, outreachy, outreachy-2018'
 author: cess
 path: /notes/cess/12-30-2018/outreachy-2018-week-2-and-3.md
 nid: 18026
@@ -12,7 +11,7 @@ uid: 525958
 
 # Outreachy 2018 Week 2 and 3
 
-by [cess](../profile/cess) December 30, 2018 12:21
+by [cess](../profile/cess) | December 30, 2018 12:21
 
 December 30, 2018 12:21 | Tags: [blog](../tag/blog), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018)
 

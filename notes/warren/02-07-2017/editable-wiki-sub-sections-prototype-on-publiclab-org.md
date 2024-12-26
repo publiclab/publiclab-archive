@@ -1,6 +1,5 @@
 ---
-title: 'Editable wiki sub-sections prototype on PublicLab.org'
-tagnames: documentation, software, developers, coding, wwg, rich-wikis
+title: "Editable wiki sub-sections prototype on PublicLab.org"\ntagnames: 'documentation, software, developers, coding, wwg, rich-wikis'
 author: warren
 path: /notes/warren/02-07-2017/editable-wiki-sub-sections-prototype-on-publiclab-org.md
 nid: 13906
@@ -12,7 +11,7 @@ uid: 1
 
 # Editable wiki sub-sections prototype on PublicLab.org
 
-by [warren](../profile/warren) February 07, 2017 19:15
+by [warren](../profile/warren) | February 07, 2017 19:15
 
 February 07, 2017 19:15 | Tags: [documentation](../tag/documentation), [software](../tag/software), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [rich-wikis](../tag/rich-wikis)
 

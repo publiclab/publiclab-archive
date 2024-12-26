@@ -1,6 +1,5 @@
 ---
-title: 'Microplastics Discovered in Human Blood'
-tagnames: microplastics, zoom:6, lat:22.004174, lon:76.003417
+title: "Microplastics Discovered in Human Blood"\ntagnames: 'microplastics, zoom:6, lat:22.004174, lon:76.003417'
 author: TheChessGym
 path: /notes/TheChessGym/03-31-2022/microplastics-discovered-in-human-blood.md
 nid: 30236
@@ -12,7 +11,7 @@ uid: 788868
 
 # Microplastics Discovered in Human Blood
 
-by [TheChessGym](../profile/TheChessGym) March 31, 2022 15:03
+by [TheChessGym](../profile/TheChessGym) | March 31, 2022 15:03
 
 March 31, 2022 15:03 | Tags: [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
 

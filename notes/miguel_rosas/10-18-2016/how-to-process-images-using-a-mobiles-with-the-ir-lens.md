@@ -1,6 +1,5 @@
 ---
-title: 'How to process images using a mobius with an IR lens?'
-tagnames: ndvi, ir, lens, mobius, question:infragram, answered, question:infrared, question:multispectral-imaging, whitebalance, question:mobius, question:infragram-point-shoot
+title: "How to process images using a mobius with an IR lens?"\ntagnames: 'ndvi, ir, lens, mobius, question:infragram, answered, question:infrared, question:multispectral-imaging, whitebalance, question:mobius, question:infragram-point-shoot'
 author: miguel_rosas
 path: /notes/miguel_rosas/10-18-2016/how-to-process-images-using-a-mobiles-with-the-ir-lens.md
 nid: 13575
@@ -10,7 +9,7 @@ uid: 494659
 
 # How to process images using a mobius with an IR lens?
 
-by [miguel_rosas](../profile/miguel_rosas) October 18, 2016 16:43
+by [miguel_rosas](../profile/miguel_rosas) | October 18, 2016 16:43
 
 October 18, 2016 16:43 | Tags: [ndvi](../tag/ndvi), [ir](../tag/ir), [lens](../tag/lens), [mobius](../tag/mobius), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [whitebalance](../tag/whitebalance), [question:mobius](../tag/question:mobius), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
 

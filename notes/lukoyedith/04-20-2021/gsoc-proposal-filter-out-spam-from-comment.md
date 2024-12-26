@@ -1,6 +1,5 @@
 ---
-title: 'GSoC!proposal: Filter out spam from comment. '
-tagnames: software, soc, lat:-1.406108, zoom:4, gsoc-2021, gsoc-2021-proposals, outreachy-summer-2021, lon:37.440122, outreachy-proposals-2021
+title: "GSoC!proposal: Filter out spam from comment. "\ntagnames: 'software, soc, lat:-1.406108, zoom:4, gsoc-2021, gsoc-2021-proposals, outreachy-summer-2021, lon:37.440122, outreachy-proposals-2021'
 author: lukoyedith
 path: /notes/lukoyedith/04-20-2021/gsoc-proposal-filter-out-spam-from-comment.md
 nid: 26283
@@ -12,7 +11,7 @@ uid: 751723
 
 # GSoC!proposal: Filter out spam from comment. 
 
-by [lukoyedith](../profile/lukoyedith) April 20, 2021 15:14
+by [lukoyedith](../profile/lukoyedith) | April 20, 2021 15:14
 
 April 20, 2021 15:14 | Tags: [software](../tag/software), [soc](../tag/soc), [lat:-1.406108](../tag/lat:-1.406108), [zoom:4](../tag/zoom:4), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals), [outreachy-summer-2021](../tag/outreachy-summer-2021), [lon:37.440122](../tag/lon:37.440122), [outreachy-proposals-2021](../tag/outreachy-proposals-2021)
 

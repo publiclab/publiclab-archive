@@ -1,6 +1,5 @@
 ---
-title: 'Education Associate - Temporary - Spring 2021 Semester'
-tagnames: education, nonprofit, jobs, lat:29.954934, lon:-90.065917, lat:29.951065, lon:-90.071532, zoom:6
+title: "Education Associate - Temporary - Spring 2021 Semester"\ntagnames: 'education, nonprofit, jobs, lat:29.954934, lon:-90.065917, lat:29.951065, lon:-90.071532, zoom:6'
 author: thewrightjess
 path: /notes/thewrightjess/11-19-2020/education-associate-temporary-spring-2021-semester.md
 nid: 25072
@@ -12,7 +11,7 @@ uid: 603909
 
 # Education Associate - Temporary - Spring 2021 Semester
 
-by [thewrightjess](../profile/thewrightjess) November 19, 2020 17:52
+by [thewrightjess](../profile/thewrightjess) | November 19, 2020 17:52
 
 November 19, 2020 17:52 | Tags: [education](../tag/education), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [lat:29.954934](../tag/lat:29.954934), [lon:-90.065917](../tag/lon:-90.065917), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:6](../tag/zoom:6)
 

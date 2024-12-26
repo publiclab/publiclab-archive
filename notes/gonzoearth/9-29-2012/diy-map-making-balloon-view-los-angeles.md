@@ -1,6 +1,5 @@
 ---
-title: 'DIY Map Making Balloon View of Los Angeles'
-tagnames: balloon-mapping, kite-mapping
+title: "DIY Map Making Balloon View of Los Angeles"\ntagnames: 'balloon-mapping, kite-mapping'
 author: gonzoearth
 path: /notes/gonzoearth/9-29-2012/diy-map-making-balloon-view-los-angeles.md
 nid: 4092
@@ -12,7 +11,7 @@ uid: 12
 
 # DIY Map Making Balloon View of Los Angeles
 
-by [gonzoearth](../profile/gonzoearth) September 29, 2012 04:47
+by [gonzoearth](../profile/gonzoearth) | September 29, 2012 04:47
 
 September 29, 2012 04:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 

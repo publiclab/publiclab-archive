@@ -1,6 +1,5 @@
 ---
-title: 'Class 7'
-tagnames: first-time-poster
+title: "Class 7"\ntagnames: 'first-time-poster'
 author: jmsaavedra
 path: /wiki/class-7.md
 nid: 6962

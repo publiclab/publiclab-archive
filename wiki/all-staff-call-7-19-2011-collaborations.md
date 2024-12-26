@@ -1,6 +1,5 @@
 ---
-title: 'all staff call 7 19 2011 collaborations'
-tagnames: 
+title: "all staff call 7 19 2011 collaborations"\ntagnames: ''
 author: warren
 path: /wiki/all-staff-call-7-19-2011-collaborations.md
 nid: 391

@@ -1,6 +1,5 @@
 ---
-title: 'Google Summer of Code 2019 Public Lab Final Work Product: Pranshu Srivastava'
-tagnames: gsoc, soc, gsoc-2019, soc-2019, gsoc-19, soc-19, gsoc-2019-final-report, barnstar:javascript-enthusiasm
+title: "Google Summer of Code 2019 Public Lab Final Work Product: Pranshu Srivastava"\ntagnames: 'gsoc, soc, gsoc-2019, soc-2019, gsoc-19, soc-19, gsoc-2019-final-report, barnstar:javascript-enthusiasm'
 author: rexagod
 path: /notes/rexagod/08-25-2019/google-summer-of-code-2019-public-lab-final-work-product-pranshu-srivastava.md
 nid: 20666
@@ -12,7 +11,7 @@ uid: 564358
 
 # Google Summer of Code 2019 Public Lab Final Work Product: Pranshu Srivastava
 
-by [rexagod](../profile/rexagod) August 25, 2019 23:43
+by [rexagod](../profile/rexagod) | August 25, 2019 23:43
 
 August 25, 2019 23:43 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-19](../tag/gsoc-19), [soc-19](../tag/soc-19), [gsoc-2019-final-report](../tag/gsoc-2019-final-report), [barnstar:javascript-enthusiasm](../tag/barnstar:javascript-enthusiasm)
 

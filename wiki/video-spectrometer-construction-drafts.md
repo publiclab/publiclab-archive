@@ -1,6 +1,5 @@
 ---
-title: 'Video spectrometer construction drafts'
-tagnames: 
+title: "Video spectrometer construction drafts"\ntagnames: ''
 author: warren
 path: /wiki/video-spectrometer-construction-drafts.md
 nid: 558

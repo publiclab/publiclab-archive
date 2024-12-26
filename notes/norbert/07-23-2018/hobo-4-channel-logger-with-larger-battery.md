@@ -1,6 +1,5 @@
 ---
-title: 'HOBO 4-Channel Logger with Larger Battery'
-tagnames: kits, datalogger, hardware
+title: "HOBO 4-Channel Logger with Larger Battery"\ntagnames: 'kits, datalogger, hardware'
 author: norbert
 path: /notes/norbert/07-23-2018/hobo-4-channel-logger-with-larger-battery.md
 nid: 16766
@@ -12,7 +11,7 @@ uid: 542953
 
 # HOBO 4-Channel Logger with Larger Battery
 
-by [norbert](../profile/norbert) July 23, 2018 04:51
+by [norbert](../profile/norbert) | July 23, 2018 04:51
 
 July 23, 2018 04:51 | Tags: [kits](../tag/kits), [datalogger](../tag/datalogger), [hardware](../tag/hardware)
 

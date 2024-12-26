@@ -1,6 +1,5 @@
 ---
-title: 'What are your thoughts about searching for content on the Public Lab website?'
-tagnames: question:general, question:ui, question:search, question:ux
+title: "What are your thoughts about searching for content on the Public Lab website?"\ntagnames: 'question:general, question:ui, question:search, question:ux'
 author: Bronwen
 path: /notes/Bronwen/01-15-2019/what-are-your-thoughts-about-searching-for-content-on-the-public-lab-website.md
 nid: 18125
@@ -10,7 +9,7 @@ uid: 237313
 
 # What are your thoughts about searching for content on the Public Lab website?
 
-by [Bronwen](../profile/Bronwen) January 15, 2019 23:28
+by [Bronwen](../profile/Bronwen) | January 15, 2019 23:28
 
 January 15, 2019 23:28 | Tags: [question:general](../tag/question:general), [question:ui](../tag/question:ui), [question:search](../tag/question:search), [question:ux](../tag/question:ux)
 

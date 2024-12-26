@@ -1,6 +1,5 @@
 ---
-title: 'Cancer Problems: Meet Cancer Alley'
-tagnames: gulf-coast, air-quality, cancer, pollution, issue-brief, first-time-poster, zoom:7, cancer-alley, lat:30.177423, lon:-91.046702, with:owentaylor, with:duynguyen
+title: "Cancer Problems: Meet Cancer Alley"\ntagnames: 'gulf-coast, air-quality, cancer, pollution, issue-brief, first-time-poster, zoom:7, cancer-alley, lat:30.177423, lon:-91.046702, with:owentaylor, with:duynguyen'
 author: NicholasNail
 path: /notes/NicholasNail/04-13-2021/cancer-problems-meet-cancer-alley.md
 nid: 26223
@@ -12,7 +11,7 @@ uid: 750432
 
 # Cancer Problems: Meet Cancer Alley
 
-by [NicholasNail](../profile/NicholasNail) April 13, 2021 17:12
+by [NicholasNail](../profile/NicholasNail) | April 13, 2021 17:12
 
 April 13, 2021 17:12 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [cancer](../tag/cancer), [pollution](../tag/pollution), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:7](../tag/zoom:7), [cancer-alley](../tag/cancer-alley), [lat:30.177423](../tag/lat:30.177423), [lon:-91.046702](../tag/lon:-91.046702), [with:owentaylor](../tag/with:owentaylor), [with:duynguyen](../tag/with:duynguyen)
 

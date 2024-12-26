@@ -1,6 +1,5 @@
 ---
-title: 'What's an easy way to compare two liquid samples with a spectrometer?'
-tagnames: spectrometry, turbidity, question:spectrometry, foldable-spec, question:foldable-spec, question:spectrometry-challenge, question:spectrometry-turbidity, question:lego-spectrometer
+title: "What's an easy way to compare two liquid samples with a spectrometer?"\ntagnames: 'spectrometry, turbidity, question:spectrometry, foldable-spec, question:foldable-spec, question:spectrometry-challenge, question:spectrometry-turbidity, question:lego-spectrometer'
 author: warren
 path: /notes/warren/10-20-2017/what-s-an-easy-way-to-compare-two-liquid-samples-with-a-spectrometer.md
 nid: 15076
@@ -10,7 +9,7 @@ uid: 1
 
 # What's an easy way to compare two liquid samples with a spectrometer?
 
-by [warren](../profile/warren) October 20, 2017 17:50
+by [warren](../profile/warren) | October 20, 2017 17:50
 
 October 20, 2017 17:50 | Tags: [spectrometry](../tag/spectrometry), [turbidity](../tag/turbidity), [question:spectrometry](../tag/question:spectrometry), [foldable-spec](../tag/foldable-spec), [question:foldable-spec](../tag/question:foldable-spec), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [question:spectrometry-turbidity](../tag/question:spectrometry-turbidity), [question:lego-spectrometer](../tag/question:lego-spectrometer)
 

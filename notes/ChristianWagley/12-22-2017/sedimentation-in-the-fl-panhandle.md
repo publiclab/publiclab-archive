@@ -1,6 +1,5 @@
 ---
-title: 'Sedimentation in the FL panhandle'
-tagnames: balloon-mapping, water-quality, erosion, florida, sedimentation, nas, issue-brief, sediment-pollution, panhandle, first-time-poster
+title: "Sedimentation in the FL panhandle"\ntagnames: 'balloon-mapping, water-quality, erosion, florida, sedimentation, nas, issue-brief, sediment-pollution, panhandle, first-time-poster'
 author: ChristianWagley
 path: /notes/ChristianWagley/12-22-2017/sedimentation-in-the-fl-panhandle.md
 nid: 15424
@@ -12,7 +11,7 @@ uid: 521037
 
 # Sedimentation in the FL panhandle
 
-by [ChristianWagley](../profile/ChristianWagley) December 22, 2017 14:43
+by [ChristianWagley](../profile/ChristianWagley) | December 22, 2017 14:43
 
 December 22, 2017 14:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [water-quality](../tag/water-quality), [erosion](../tag/erosion), [florida](../tag/florida), [sedimentation](../tag/sedimentation), [nas](../tag/nas), [issue-brief](../tag/issue-brief), [sediment-pollution](../tag/sediment-pollution), [panhandle](../tag/panhandle), [first-time-poster](../tag/first-time-poster)
 

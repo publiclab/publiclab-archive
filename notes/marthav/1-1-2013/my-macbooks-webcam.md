@@ -1,6 +1,5 @@
 ---
-title: 'my MacBook's webcam is '
-tagnames: troubleshooting, spectralworkbench
+title: "my MacBook's webcam is "\ntagnames: 'troubleshooting, spectralworkbench'
 author: MarthaV
 path: /notes/marthav/1-1-2013/my-macbooks-webcam.md
 nid: 5389
@@ -10,7 +9,7 @@ uid: 47245
 
 # my MacBook's webcam is 
 
-by [MarthaV](../profile/MarthaV) January 01, 2013 22:05
+by [MarthaV](../profile/MarthaV) | January 01, 2013 22:05
 
 January 01, 2013 22:05 | Tags: [troubleshooting](../tag/troubleshooting), [spectralworkbench](../tag/spectralworkbench)
 

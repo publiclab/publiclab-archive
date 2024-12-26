@@ -1,6 +1,5 @@
 ---
-title: 'PublicLab Mobius calibration '
-tagnames: question:infragram
+title: "PublicLab Mobius calibration "\ntagnames: 'question:infragram'
 author: dbehr
 path: /notes/dbehr/12-19-2016/publiclab-mobius-calibration.md
 nid: 13793
@@ -10,7 +9,7 @@ uid: 436864
 
 # PublicLab Mobius calibration 
 
-by [dbehr](../profile/dbehr) December 19, 2016 11:35
+by [dbehr](../profile/dbehr) | December 19, 2016 11:35
 
 December 19, 2016 11:35 | Tags: [question:infragram](../tag/question:infragram)
 

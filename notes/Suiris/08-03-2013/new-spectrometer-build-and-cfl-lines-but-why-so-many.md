@@ -1,6 +1,5 @@
 ---
-title: 'New spectrometer build and CFL lines'
-tagnames: spectrometer, spectroscopy, first-time-poster
+title: "New spectrometer build and CFL lines"\ntagnames: 'spectrometer, spectroscopy, first-time-poster'
 author: Suiris
 path: /notes/Suiris/08-03-2013/new-spectrometer-build-and-cfl-lines-but-why-so-many.md
 nid: 8961
@@ -12,7 +11,7 @@ uid: 170375
 
 # New spectrometer build and CFL lines
 
-by [Suiris](../profile/Suiris) August 03, 2013 06:56
+by [Suiris](../profile/Suiris) | August 03, 2013 06:56
 
 August 03, 2013 06:56 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [first-time-poster](../tag/first-time-poster)
 

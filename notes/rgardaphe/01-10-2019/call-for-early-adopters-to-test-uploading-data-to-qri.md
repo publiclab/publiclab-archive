@@ -1,6 +1,5 @@
 ---
-title: 'Call for early adopters to test uploading data to Qri'
-tagnames: software, opensource, data, open-data, opendata, first-time-poster, qri
+title: "Call for early adopters to test uploading data to Qri"\ntagnames: 'software, opensource, data, open-data, opendata, first-time-poster, qri'
 author: rgardaphe
 path: /notes/rgardaphe/01-10-2019/call-for-early-adopters-to-test-uploading-data-to-qri.md
 nid: 18096
@@ -12,7 +11,7 @@ uid: 530432
 
 # Call for early adopters to test uploading data to Qri
 
-by [rgardaphe](../profile/rgardaphe) January 10, 2019 16:21
+by [rgardaphe](../profile/rgardaphe) | January 10, 2019 16:21
 
 January 10, 2019 16:21 | Tags: [software](../tag/software), [opensource](../tag/opensource), [data](../tag/data), [open-data](../tag/open-data), [opendata](../tag/opendata), [first-time-poster](../tag/first-time-poster), [qri](../tag/qri)
 

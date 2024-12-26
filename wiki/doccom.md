@@ -1,6 +1,5 @@
 ---
-title: 'DOCCOM'
-tagnames: barnraising, parent:barnraising, doccom, barnraising-2015
+title: "DOCCOM"\ntagnames: 'barnraising, parent:barnraising, doccom, barnraising-2015'
 author: warren
 path: /wiki/doccom.md
 nid: 12425

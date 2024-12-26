@@ -1,6 +1,5 @@
 ---
-title: 'LEAFFEST aerials'
-tagnames: near-infrared-camera, ndvi, vermont, infrared, uav, leaffest, event, infragram, uav-mapping, super-red, gigapan, northeast, leaffest2014, response:11152
+title: "LEAFFEST aerials"\ntagnames: 'near-infrared-camera, ndvi, vermont, infrared, uav, leaffest, event, infragram, uav-mapping, super-red, gigapan, northeast, leaffest2014, response:11152'
 author: cfastie
 path: /notes/cfastie/09-19-2014/leaffest-aerials.md
 nid: 11162
@@ -12,7 +11,7 @@ uid: 554
 
 # LEAFFEST aerials
 
-by [cfastie](../profile/cfastie) September 19, 2014 02:58
+by [cfastie](../profile/cfastie) | September 19, 2014 02:58
 
 September 19, 2014 02:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [uav](../tag/uav), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [uav-mapping](../tag/uav-mapping), [super-red](../tag/super-red), [gigapan](../tag/gigapan), [northeast](../tag/northeast), [leaffest2014](../tag/leaffest2014), [response:11152](../tag/response:11152)
 

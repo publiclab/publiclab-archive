@@ -1,6 +1,5 @@
 ---
-title: 'Fade out'
-tagnames: near-infrared-camera, vermont, leaffest, infragram, infrablue, leaffest2013, response:9305
+title: "Fade out"\ntagnames: 'near-infrared-camera, vermont, leaffest, infragram, infrablue, leaffest2013, response:9305'
 author: cfastie
 path: /notes/cfastie/09-11-2013/fade-out.md
 nid: 9315
@@ -12,7 +11,7 @@ uid: 554
 
 # Fade out
 
-by [cfastie](../profile/cfastie) September 11, 2013 20:57
+by [cfastie](../profile/cfastie) | September 11, 2013 20:57
 
 September 11, 2013 20:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [leaffest2013](../tag/leaffest2013), [response:9305](../tag/response:9305)
 

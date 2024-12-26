@@ -1,6 +1,5 @@
 ---
-title: 'MAPIR Survey 2 NIR'
-tagnames: question:question
+title: "MAPIR Survey 2 NIR"\ntagnames: 'question:question'
 author: Shendry
 path: /notes/Shendry/01-25-2017/mapir-survey-2-nir.md
 nid: 13879
@@ -10,7 +9,7 @@ uid: 502311
 
 # MAPIR Survey 2 NIR
 
-by [Shendry](../profile/Shendry) January 25, 2017 20:45
+by [Shendry](../profile/Shendry) | January 25, 2017 20:45
 
 January 25, 2017 20:45 | Tags: [question:question](../tag/question:question)
 

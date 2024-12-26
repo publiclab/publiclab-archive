@@ -1,6 +1,5 @@
 ---
-title: 'Spring 2011 Spectrometry UROP'
-tagnames: 
+title: "Spring 2011 Spectrometry UROP"\ntagnames: ''
 author: warren
 path: /wiki/spring-2011-spectrometry-urop.md
 nid: 155

@@ -1,6 +1,5 @@
 ---
-title: 'DustHack Event Menomonie Wisconsin ! '
-tagnames: event, wisconsin, dustduino, dust, silica, midwest, dylos, event:rsvp, date:10-27-2014, mid-west, rsvp:amysoyka, rsvp:marlokeno, rsvp:ethanbass
+title: "DustHack Event Menomonie Wisconsin ! "\ntagnames: 'event, wisconsin, dustduino, dust, silica, midwest, dylos, event:rsvp, date:10-27-2014, mid-west, rsvp:amysoyka, rsvp:marlokeno, rsvp:ethanbass'
 author: stevie
 path: /notes/stevie/10-17-2014/dusthack-event-menomonie-wisconsin.md
 nid: 11273
@@ -12,7 +11,7 @@ uid: 422561
 
 # DustHack Event Menomonie Wisconsin ! 
 
-by [stevie](../profile/stevie) October 17, 2014 19:14
+by [stevie](../profile/stevie) | October 17, 2014 19:14
 
 October 17, 2014 19:14 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [dustduino](../tag/dustduino), [dust](../tag/dust), [silica](../tag/silica), [midwest](../tag/midwest), [dylos](../tag/dylos), [event:rsvp](../tag/event:rsvp), [date:10-27-2014](../tag/date:10-27-2014), [mid-west](../tag/mid-west), [rsvp:amysoyka](../tag/rsvp:amysoyka), [rsvp:marlokeno](../tag/rsvp:marlokeno), [rsvp:ethanbass](../tag/rsvp:ethanbass)
 

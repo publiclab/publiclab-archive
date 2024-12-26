@@ -1,6 +1,5 @@
 ---
-title: 'Urban Systems Symposium'
-tagnames: events
+title: "Urban Systems Symposium"\ntagnames: 'events'
 author: liz
 path: /notes/liz/9-7-2012/urban-systems-symposium.md
 nid: 3687
@@ -12,7 +11,7 @@ uid: 7
 
 # Urban Systems Symposium
 
-by [liz](../profile/liz) September 07, 2012 18:29
+by [liz](../profile/liz) | September 07, 2012 18:29
 
 September 07, 2012 18:29 | Tags: [events](../tag/events)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Messages From the Mississippi Lesson 2: A River of Plastic'
-tagnames: microplastics, messagesfromthemississippi
+title: "Messages From the Mississippi Lesson 2: A River of Plastic"\ntagnames: 'microplastics, messagesfromthemississippi'
 author: purl
 path: /notes/purl/01-27-2021/messages-from-the-mississippi-lesson-2-a-river-of-plastic.md
 nid: 25561
@@ -12,7 +11,7 @@ uid: 736598
 
 # Messages From the Mississippi Lesson 2: A River of Plastic
 
-by [purl](../profile/purl) January 27, 2021 22:16
+by [purl](../profile/purl) | January 27, 2021 22:16
 
 January 27, 2021 22:16 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
 

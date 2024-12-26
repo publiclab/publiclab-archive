@@ -1,6 +1,5 @@
 ---
-title: 'exposure settings to balloon mapping'
-tagnames: balloon-mapping, troubleshooting, chicago, civiclab, civic-lab, exposure
+title: "exposure settings to balloon mapping"\ntagnames: 'balloon-mapping, troubleshooting, chicago, civiclab, civic-lab, exposure'
 author: mjain26
 path: /notes/mjain26/07-29-2014/exposure-settings-to-balloon-mapping.md
 nid: 10994
@@ -12,7 +11,7 @@ uid: 424870
 
 # exposure settings to balloon mapping
 
-by [mjain26](../profile/mjain26) July 29, 2014 19:51
+by [mjain26](../profile/mjain26) | July 29, 2014 19:51
 
 July 29, 2014 19:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [troubleshooting](../tag/troubleshooting), [chicago](../tag/chicago), [civiclab](../tag/civiclab), [civic-lab](../tag/civic-lab), [exposure](../tag/exposure)
 

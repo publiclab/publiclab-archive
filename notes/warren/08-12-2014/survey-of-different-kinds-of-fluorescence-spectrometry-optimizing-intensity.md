@@ -1,6 +1,5 @@
 ---
-title: 'Survey of different kinds of fluorescence spectrometry, optimizing intensity'
-tagnames: spectrometer, fluorescence, pesticides, literature, response:8955, oil-testing-kit, intensity, lifs, sfs, response:10997
+title: "Survey of different kinds of fluorescence spectrometry, optimizing intensity"\ntagnames: 'spectrometer, fluorescence, pesticides, literature, response:8955, oil-testing-kit, intensity, lifs, sfs, response:10997'
 author: warren
 path: /notes/warren/08-12-2014/survey-of-different-kinds-of-fluorescence-spectrometry-optimizing-intensity.md
 nid: 11039
@@ -12,7 +11,7 @@ uid: 1
 
 # Survey of different kinds of fluorescence spectrometry, optimizing intensity
 
-by [warren](../profile/warren) August 12, 2014 13:58
+by [warren](../profile/warren) | August 12, 2014 13:58
 
 August 12, 2014 13:58 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [pesticides](../tag/pesticides), [literature](../tag/literature), [response:8955](../tag/response:8955), [oil-testing-kit](../tag/oil-testing-kit), [intensity](../tag/intensity), [lifs](../tag/lifs), [sfs](../tag/sfs), [response:10997](../tag/response:10997)
 

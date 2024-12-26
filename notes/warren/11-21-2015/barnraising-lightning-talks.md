@@ -1,6 +1,5 @@
 ---
-title: 'Barnraising Lightning Talks'
-tagnames: presentations, barnraising, presentation, barnraising-2015, lightning-talks
+title: "Barnraising Lightning Talks"\ntagnames: 'presentations, barnraising, presentation, barnraising-2015, lightning-talks'
 author: warren
 path: /notes/warren/11-21-2015/barnraising-lightning-talks.md
 nid: 12431
@@ -12,7 +11,7 @@ uid: 1
 
 # Barnraising Lightning Talks
 
-by [warren](../profile/warren) November 21, 2015 21:53
+by [warren](../profile/warren) | November 21, 2015 21:53
 
 November 21, 2015 21:53 | Tags: [presentations](../tag/presentations), [barnraising](../tag/barnraising), [presentation](../tag/presentation), [barnraising-2015](../tag/barnraising-2015), [lightning-talks](../tag/lightning-talks)
 

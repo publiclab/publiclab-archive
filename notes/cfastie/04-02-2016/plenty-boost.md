@@ -1,6 +1,5 @@
 ---
-title: 'Plenty boost'
-tagnames: kite-mapping, arduino, vermont, kite, saturnv, skyshield, response:12330, voltage, battery
+title: "Plenty boost"\ntagnames: 'kite-mapping, arduino, vermont, kite, saturnv, skyshield, response:12330, voltage, battery'
 author: cfastie
 path: /notes/cfastie/04-02-2016/plenty-boost.md
 nid: 12906
@@ -12,7 +11,7 @@ uid: 554
 
 # Plenty boost
 
-by [cfastie](../profile/cfastie) April 02, 2016 04:24
+by [cfastie](../profile/cfastie) | April 02, 2016 04:24
 
 April 02, 2016 04:24 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:12330](../tag/response:12330), [voltage](../tag/voltage), [battery](../tag/battery)
 

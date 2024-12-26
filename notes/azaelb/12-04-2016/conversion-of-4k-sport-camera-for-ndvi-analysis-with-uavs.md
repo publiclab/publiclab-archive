@@ -1,6 +1,5 @@
 ---
-title: 'Conversion of 4k sport camera for NDVI analysis with UAVs'
-tagnames: ndvi, multispectral, drones, infrared, infragram, with, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:infrared, uavs, activity:cameras, activity:ndvi, activity:infrared-camera-conversion, sport-camera, activity:mini-camera
+title: "Conversion of 4k sport camera for NDVI analysis with UAVs"\ntagnames: 'ndvi, multispectral, drones, infrared, infragram, with, activity:multispectral-imaging, activity:infragram, multispectral-imaging, activity:infrared, uavs, activity:cameras, activity:ndvi, activity:infrared-camera-conversion, sport-camera, activity:mini-camera'
 author: azaelb
 path: /notes/azaelb/12-04-2016/conversion-of-4k-sport-camera-for-ndvi-analysis-with-uavs.md
 nid: 13742
@@ -12,7 +11,7 @@ uid: 319070
 
 # Conversion of 4k sport camera for NDVI analysis with UAVs
 
-by [azaelb](../profile/azaelb) December 04, 2016 15:19
+by [azaelb](../profile/azaelb) | December 04, 2016 15:19
 
 December 04, 2016 15:19 | Tags: [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [drones](../tag/drones), [infrared](../tag/infrared), [infragram](../tag/infragram), [with](../tag/with), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [activity:infrared](../tag/activity:infrared), [uavs](../tag/uavs), [activity:cameras](../tag/activity:cameras), [activity:ndvi](../tag/activity:ndvi), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [sport-camera](../tag/sport-camera), [activity:mini-camera](../tag/activity:mini-camera)
 

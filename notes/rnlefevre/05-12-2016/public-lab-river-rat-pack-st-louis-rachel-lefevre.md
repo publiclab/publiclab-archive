@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab River Rat Pack -- St. Louis -- Rachel Lefevre'
-tagnames: mid-west, missouri, publiclabriverratpack, stlouis
+title: "Public Lab River Rat Pack -- St. Louis -- Rachel Lefevre"\ntagnames: 'mid-west, missouri, publiclabriverratpack, stlouis'
 author: rnlefevre
 path: /notes/rnlefevre/05-12-2016/public-lab-river-rat-pack-st-louis-rachel-lefevre.md
 nid: 13111
@@ -12,7 +11,7 @@ uid: 465996
 
 # Public Lab River Rat Pack -- St. Louis -- Rachel Lefevre
 
-by [rnlefevre](../profile/rnlefevre) May 12, 2016 23:56
+by [rnlefevre](../profile/rnlefevre) | May 12, 2016 23:56
 
 May 12, 2016 23:56 | Tags: [mid-west](../tag/mid-west), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [stlouis](../tag/stlouis)
 

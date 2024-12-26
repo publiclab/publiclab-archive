@@ -1,6 +1,5 @@
 ---
-title: 'MapKnitter map of Sun Moon Lake Reservoir'
-tagnames: mapknitter, asia, taiwan, lat:23.8654727, lon:120.9120994
+title: "MapKnitter map of Sun Moon Lake Reservoir"\ntagnames: 'mapknitter, asia, taiwan, lat:23.8654727, lon:120.9120994'
 author: peteryoung
 path: /notes/peteryoung/05-31-2015/mapknitter-map-of-sun-moon-lake-reservoir.md
 nid: 11920
@@ -12,7 +11,7 @@ uid: 440752
 
 # MapKnitter map of Sun Moon Lake Reservoir
 
-by [peteryoung](../profile/peteryoung) May 31, 2015 15:55
+by [peteryoung](../profile/peteryoung) | May 31, 2015 15:55
 
 May 31, 2015 15:55 | Tags: [mapknitter](../tag/mapknitter), [asia](../tag/asia), [taiwan](../tag/taiwan), [lat:23.8654727](../tag/lat:23.8654727), [lon:120.9120994](../tag/lon:120.9120994)
 

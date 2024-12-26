@@ -1,6 +1,5 @@
 ---
-title: 'Kickstarting the Community Microscope Kit!'
-tagnames: kickstarter, microscope, microscopes, community-kits
+title: "Kickstarting the Community Microscope Kit!"\ntagnames: 'kickstarter, microscope, microscopes, community-kits'
 author: Bronwen
 path: /notes/bronwen/05-16-2018/kickstarting-the-community-microscope-kit.md
 nid: 16353
@@ -12,7 +11,7 @@ uid: 237313
 
 # Kickstarting the Community Microscope Kit!
 
-by [Bronwen](../profile/Bronwen) May 16, 2018 12:13
+by [Bronwen](../profile/Bronwen) | May 16, 2018 12:13
 
 May 16, 2018 12:13 | Tags: [kickstarter](../tag/kickstarter), [microscope](../tag/microscope), [microscopes](../tag/microscopes), [community-kits](../tag/community-kits)
 

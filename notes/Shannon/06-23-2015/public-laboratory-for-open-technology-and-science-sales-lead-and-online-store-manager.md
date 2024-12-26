@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab: Sales lead and online store manager'
-tagnames: nonprofit
+title: "Public Lab: Sales lead and online store manager"\ntagnames: 'nonprofit'
 author: Shannon
 path: /notes/Shannon/06-23-2015/public-laboratory-for-open-technology-and-science-sales-lead-and-online-store-manager.md
 nid: 11998
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab: Sales lead and online store manager
 
-by [Shannon](../profile/Shannon) June 23, 2015 18:47
+by [Shannon](../profile/Shannon) | June 23, 2015 18:47
 
 June 23, 2015 18:47 | Tags: [nonprofit](../tag/nonprofit)
 

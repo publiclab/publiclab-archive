@@ -1,6 +1,5 @@
 ---
-title: 'Passive Particle Monitors'
-tagnames: frac-sand, particle-monitoring, with:mathew, passive-particle-monitors, passive-pm, parent:frac-sand, communityscienceforum
+title: "Passive Particle Monitors"\ntagnames: 'frac-sand, particle-monitoring, with:mathew, passive-particle-monitors, passive-pm, parent:frac-sand, communityscienceforum'
 author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/passive-particle-monitors.md
 nid: 13220
@@ -12,7 +11,7 @@ uid: 45586
 
 # Passive Particle Monitors
 
-by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:45
+by [mlamadrid](../profile/mlamadrid) | June 21, 2016 20:45
 
 June 21, 2016 20:45 | Tags: [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [with:mathew](../tag/with:mathew), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum)
 

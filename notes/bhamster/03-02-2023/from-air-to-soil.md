@@ -1,6 +1,5 @@
 ---
-title: 'From Air to Soil'
-tagnames: csf, community-science-forum, student-community-science, classroom-community-science, csf18
+title: "From Air to Soil"\ntagnames: 'csf, community-science-forum, student-community-science, classroom-community-science, csf18'
 author: bhamster
 path: /notes/bhamster/03-02-2023/from-air-to-soil.md
 nid: 38737
@@ -10,7 +9,7 @@ uid: 664477
 
 # From Air to Soil
 
-by [bhamster](../profile/bhamster) March 02, 2023 22:07
+by [bhamster](../profile/bhamster) | March 02, 2023 22:07
 
 March 02, 2023 22:07 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
 

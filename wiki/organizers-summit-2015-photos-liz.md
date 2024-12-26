@@ -1,6 +1,5 @@
 ---
-title: 'organizers-summit-2015-photos-liz'
-tagnames: barnraising, barnraising-2015
+title: "organizers-summit-2015-photos-liz"\ntagnames: 'barnraising, barnraising-2015'
 author: liz
 path: /wiki/organizers-summit-2015-photos-liz.md
 nid: 12423

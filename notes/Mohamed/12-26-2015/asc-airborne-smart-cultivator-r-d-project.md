@@ -1,6 +1,5 @@
 ---
-title: 'ASC- Airborne Smart Cultivator R&D project'
-tagnames: 
+title: "ASC- Airborne Smart Cultivator R&D project"\ntagnames: ''
 author: Mohamed
 path: /notes/Mohamed/12-26-2015/asc-airborne-smart-cultivator-r-d-project.md
 nid: 12545
@@ -12,7 +11,7 @@ uid: 431141
 
 # ASC- Airborne Smart Cultivator R&D project
 
-by [Mohamed](../profile/Mohamed) December 26, 2015 18:42
+by [Mohamed](../profile/Mohamed) | December 26, 2015 18:42
 
 December 26, 2015 18:42 | Tags: 
 

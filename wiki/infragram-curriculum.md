@@ -1,6 +1,5 @@
 ---
-title: 'Infragram Curriculum'
-tagnames: education, curriculum, infragram
+title: "Infragram Curriculum"\ntagnames: 'education, curriculum, infragram'
 author: amandaf
 path: /wiki/infragram-curriculum.md
 nid: 11025

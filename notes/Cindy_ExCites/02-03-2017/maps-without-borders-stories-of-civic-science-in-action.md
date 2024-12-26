@@ -1,6 +1,5 @@
 ---
-title: 'Maps without borders: Stories of civic science in action'
-tagnames: balloon-mapping, kite-mapping, storytelling, civicscience, diyscience, publiclabineu
+title: "Maps without borders: Stories of civic science in action"\ntagnames: 'balloon-mapping, kite-mapping, storytelling, civicscience, diyscience, publiclabineu'
 author: cindy_excites
 path: /notes/Cindy_ExCites/02-03-2017/maps-without-borders-stories-of-civic-science-in-action.md
 nid: 13904
@@ -12,7 +11,7 @@ uid: 1083
 
 # Maps without borders: Stories of civic science in action
 
-by [cindy_excites](../profile/cindy_excites) February 03, 2017 11:13
+by [cindy_excites](../profile/cindy_excites) | February 03, 2017 11:13
 
 February 03, 2017 11:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [storytelling](../tag/storytelling), [civicscience](../tag/civicscience), [diyscience](../tag/diyscience), [publiclabineu](../tag/publiclabineu)
 

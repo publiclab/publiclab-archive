@@ -1,6 +1,5 @@
 ---
-title: 'Attending Frog Church in Violet, Louisiana'
-tagnames: gulf-coast, lousiana, sonicenvironment, impacts, noise, frog, aesthetics
+title: "Attending Frog Church in Violet, Louisiana"\ntagnames: 'gulf-coast, lousiana, sonicenvironment, impacts, noise, frog, aesthetics'
 author: eustatic
 path: /02-09-2015/attending-frog-church-in-violet-louisiana.md
 nid: 11568
@@ -12,7 +11,7 @@ uid: 379
 
 # Attending Frog Church in Violet, Louisiana
 
-by [eustatic](../profile/eustatic) February 09, 2015 18:03
+by [eustatic](../profile/eustatic) | February 09, 2015 18:03
 
 February 09, 2015 18:03 | Tags: [gulf-coast](../tag/gulf-coast), [lousiana](../tag/lousiana), [sonicenvironment](../tag/sonicenvironment), [impacts](../tag/impacts), [noise](../tag/noise), [frog](../tag/frog), [aesthetics](../tag/aesthetics)
 

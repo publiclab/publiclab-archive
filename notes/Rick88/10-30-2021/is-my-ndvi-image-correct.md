@@ -1,6 +1,5 @@
 ---
-title: 'Is my NDVI image correct?'
-tagnames: ndvi, question:ndvi, first-time-poster
+title: "Is my NDVI image correct?"\ntagnames: 'ndvi, question:ndvi, first-time-poster'
 author: Rick88
 path: /notes/Rick88/10-30-2021/is-my-ndvi-image-correct.md
 nid: 28014
@@ -10,7 +9,7 @@ uid: 777298
 
 # Is my NDVI image correct?
 
-by [Rick88](../profile/Rick88) October 30, 2021 12:09
+by [Rick88](../profile/Rick88) | October 30, 2021 12:09
 
 October 30, 2021 12:09 | Tags: [ndvi](../tag/ndvi), [question:ndvi](../tag/question:ndvi), [first-time-poster](../tag/first-time-poster)
 

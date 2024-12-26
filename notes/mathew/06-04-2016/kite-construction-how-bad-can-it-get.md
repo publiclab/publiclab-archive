@@ -1,6 +1,5 @@
 ---
-title: 'Kite Construction: How bad can it get? '
-tagnames: kite-mapping, diy-kite, wind-speed-meter, tyvek, diy-kites, kite-anemometer, horned-allison, kite-making, activity:kite-making, activity:tyvek
+title: "Kite Construction: How bad can it get? "\ntagnames: 'kite-mapping, diy-kite, wind-speed-meter, tyvek, diy-kites, kite-anemometer, horned-allison, kite-making, activity:kite-making, activity:tyvek'
 author: mathew
 path: /notes/mathew/06-04-2016/kite-construction-how-bad-can-it-get.md
 nid: 13165
@@ -12,7 +11,7 @@ uid: 4
 
 # Kite Construction: How bad can it get? 
 
-by [mathew](../profile/mathew) June 04, 2016 00:29
+by [mathew](../profile/mathew) | June 04, 2016 00:29
 
 June 04, 2016 00:29 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [wind-speed-meter](../tag/wind-speed-meter), [tyvek](../tag/tyvek), [diy-kites](../tag/diy-kites), [kite-anemometer](../tag/kite-anemometer), [horned-allison](../tag/horned-allison), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:tyvek](../tag/activity:tyvek)
 

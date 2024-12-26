@@ -1,6 +1,5 @@
 ---
-title: 'Lincoln Peak Vineyard'
-tagnames: near-infrared-camera, kite-mapping, ndvi, nir, vineyard
+title: "Lincoln Peak Vineyard"\ntagnames: 'near-infrared-camera, kite-mapping, ndvi, nir, vineyard'
 author: cfastie
 path: /notes/cfastie/6-13-2012/lincoln-peak-vineyard.md
 nid: 2472
@@ -12,7 +11,7 @@ uid: 554
 
 # Lincoln Peak Vineyard
 
-by [cfastie](../profile/cfastie) June 13, 2012 18:45
+by [cfastie](../profile/cfastie) | June 13, 2012 18:45
 
 June 13, 2012 18:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [nir](../tag/nir), [vineyard](../tag/vineyard)
 

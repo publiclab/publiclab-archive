@@ -1,6 +1,5 @@
 ---
-title: 'Foothills Community Garden NRG Imagery'
-tagnames: 
+title: "Foothills Community Garden NRG Imagery"\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/10-11-2011/foothills-community-garden-nrg-imagery.md
 nid: 506
@@ -12,7 +11,7 @@ uid: 12
 
 # Foothills Community Garden NRG Imagery
 
-by [gonzoearth](../profile/gonzoearth) October 11, 2011 23:38
+by [gonzoearth](../profile/gonzoearth) | October 11, 2011 23:38
 
 October 11, 2011 23:38 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Testing coffee spectra at Toscanini's'
-tagnames: spectrometer, kickstarter, coffee, toscaninis
+title: "Testing coffee spectra at Toscanini's"\ntagnames: 'spectrometer, kickstarter, coffee, toscaninis'
 author: warren
 path: /notes/warren/8-29-2012/testing-coffee-spectra-toscaninis.md
 nid: 3562
@@ -12,7 +11,7 @@ uid: 1
 
 # Testing coffee spectra at Toscanini's
 
-by [warren](../profile/warren) August 29, 2012 22:00
+by [warren](../profile/warren) | August 29, 2012 22:00
 
 August 29, 2012 22:00 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [coffee](../tag/coffee), [toscaninis](../tag/toscaninis)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Are there ways to trace detected soil contaminants back to the polluting source?'
-tagnames: ultraviolet, soil, hydrocarbon, co2, technique, question:general, general, soil-sampling, question:soil, soil-contamination, with:cherokeeconcernedcitizens, total-organic-carbon
+title: "Are there ways to trace detected soil contaminants back to the polluting source?"\ntagnames: 'ultraviolet, soil, hydrocarbon, co2, technique, question:general, general, soil-sampling, question:soil, soil-contamination, with:cherokeeconcernedcitizens, total-organic-carbon'
 author: amocorro
 path: /notes/amocorro/02-10-2021/are-there-ways-to-trace-detected-soil-contaminants-back-to-the-polluting-source.md
 nid: 25644
@@ -10,7 +9,7 @@ uid: 700923
 
 # Are there ways to trace detected soil contaminants back to the polluting source?
 
-by [amocorro](../profile/amocorro) February 10, 2021 19:37
+by [amocorro](../profile/amocorro) | February 10, 2021 19:37
 
 February 10, 2021 19:37 | Tags: [ultraviolet](../tag/ultraviolet), [soil](../tag/soil), [hydrocarbon](../tag/hydrocarbon), [co2](../tag/co2), [technique](../tag/technique), [question:general](../tag/question:general), [general](../tag/general), [soil-sampling](../tag/soil-sampling), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [with:cherokeeconcernedcitizens](../tag/with:cherokeeconcernedcitizens), [total-organic-carbon](../tag/total-organic-carbon)
 

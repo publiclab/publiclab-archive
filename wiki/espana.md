@@ -1,6 +1,5 @@
 ---
-title: 'España'
-tagnames: spain, espana, eu, europe
+title: "España"\ntagnames: 'spain, espana, eu, europe'
 author: warren
 path: /wiki/espana.md
 nid: 10517

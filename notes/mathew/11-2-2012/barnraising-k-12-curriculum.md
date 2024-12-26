@@ -1,6 +1,5 @@
 ---
-title: 'Barnraising: K-12 curriculum'
-tagnames: balloon-mapping, education, curriculum, k-12
+title: "Barnraising: K-12 curriculum"\ntagnames: 'balloon-mapping, education, curriculum, k-12'
 author: mathew
 path: /notes/mathew/11-2-2012/barnraising-k-12-curriculum.md
 nid: 4755
@@ -10,7 +9,7 @@ uid: 4
 
 # Barnraising: K-12 curriculum
 
-by [mathew](../profile/mathew) November 02, 2012 21:45
+by [mathew](../profile/mathew) | November 02, 2012 21:45
 
 November 02, 2012 21:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [k-12](../tag/k-12)
 

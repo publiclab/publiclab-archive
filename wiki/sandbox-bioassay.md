@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-bioassay'
-tagnames: 
+title: "sandbox-bioassay"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-bioassay.md
 nid: 25672

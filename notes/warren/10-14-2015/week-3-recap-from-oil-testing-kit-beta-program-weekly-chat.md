@@ -1,6 +1,5 @@
 ---
-title: 'Week 3: Recap from Oil Testing Kit Beta Program weekly chat'
-tagnames: spectrometer, calibration, oil, fluorescence, list:plots-spectrometry, oil-testing-kit, oil-testing-kit-beta, response:12280
+title: "Week 3: Recap from Oil Testing Kit Beta Program weekly chat"\ntagnames: 'spectrometer, calibration, oil, fluorescence, list:plots-spectrometry, oil-testing-kit, oil-testing-kit-beta, response:12280'
 author: warren
 path: /notes/warren/10-14-2015/week-3-recap-from-oil-testing-kit-beta-program-weekly-chat.md
 nid: 12302
@@ -12,7 +11,7 @@ uid: 1
 
 # Week 3: Recap from Oil Testing Kit Beta Program weekly chat
 
-by [warren](../profile/warren) October 14, 2015 18:27
+by [warren](../profile/warren) | October 14, 2015 18:27
 
 October 14, 2015 18:27 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [list:plots-spectrometry](../tag/list:plots-spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [response:12280](../tag/response:12280)
 

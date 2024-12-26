@@ -1,6 +1,5 @@
 ---
-title: 'Detection of Added Sugar in Red Wine Using Visual Light Spectroscopy'
-tagnames: spectrometer, uv, concentration, food, wine, sugar, activity:spectrometry, activity:science-fair
+title: "Detection of Added Sugar in Red Wine Using Visual Light Spectroscopy"\ntagnames: 'spectrometer, uv, concentration, food, wine, sugar, activity:spectrometry, activity:science-fair'
 author: ygzstc
 path: /notes/ygzstc/07-23-2014/detection-of-added-sugar-in-red-wine-using-visual-light-spectroscopy.md
 nid: 10955
@@ -12,7 +11,7 @@ uid: 422489
 
 # Detection of Added Sugar in Red Wine Using Visual Light Spectroscopy
 
-by [ygzstc](../profile/ygzstc) July 23, 2014 19:37
+by [ygzstc](../profile/ygzstc) | July 23, 2014 19:37
 
 July 23, 2014 19:37 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [concentration](../tag/concentration), [food](../tag/food), [wine](../tag/wine), [sugar](../tag/sugar), [activity:spectrometry](../tag/activity:spectrometry), [activity:science-fair](../tag/activity:science-fair)
 

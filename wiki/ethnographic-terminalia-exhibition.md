@@ -1,6 +1,5 @@
 ---
-title: 'Ethnographic terminalia exhibition'
-tagnames: 
+title: "Ethnographic terminalia exhibition"\ntagnames: ''
 author: warren
 path: /wiki/ethnographic-terminalia-exhibition.md
 nid: 541

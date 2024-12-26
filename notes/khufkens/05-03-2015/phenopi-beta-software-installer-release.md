@@ -1,6 +1,5 @@
 ---
-title: 'PhenoPi: beta software installer release'
-tagnames: webcam, pi, phenopi, phenology, imaging, raspberry
+title: "PhenoPi: beta software installer release"\ntagnames: 'webcam, pi, phenopi, phenology, imaging, raspberry'
 author: khufkens
 path: /notes/khufkens/05-03-2015/phenopi-beta-software-installer-release.md
 nid: 11779
@@ -12,7 +11,7 @@ uid: 438931
 
 # PhenoPi: beta software installer release
 
-by [khufkens](../profile/khufkens) May 03, 2015 03:28
+by [khufkens](../profile/khufkens) | May 03, 2015 03:28
 
 May 03, 2015 03:28 | Tags: [webcam](../tag/webcam), [pi](../tag/pi), [phenopi](../tag/phenopi), [phenology](../tag/phenology), [imaging](../tag/imaging), [raspberry](../tag/raspberry)
 

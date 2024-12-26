@@ -1,6 +1,5 @@
 ---
-title: 'Working Groups'
-tagnames: community, organizers, organizing, needs-revision, staff
+title: "Working Groups"\ntagnames: 'community, organizers, organizing, needs-revision, staff'
 author: warren
 path: /wiki/working-groups.md
 nid: 377

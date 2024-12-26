@@ -1,6 +1,5 @@
 ---
-title: 'Public outreach for scientist'
-tagnames: event, event:rsvp, startup, date:08-18-2016, pepperscience.com
+title: "Public outreach for scientist"\ntagnames: 'event, event:rsvp, startup, date:08-18-2016, pepperscience.com'
 author: bvkiran
 path: /notes/bvkiran/08-18-2016/public-outreach-for-scientist.md
 nid: 13361
@@ -12,7 +11,7 @@ uid: 488028
 
 # Public outreach for scientist
 
-by [bvkiran](../profile/bvkiran) August 18, 2016 04:43
+by [bvkiran](../profile/bvkiran) | August 18, 2016 04:43
 
 August 18, 2016 04:43 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [startup](../tag/startup), [date:08-18-2016](../tag/date:08-18-2016), [pepperscience.com](../tag/pepperscience.com)
 

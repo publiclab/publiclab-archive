@@ -1,6 +1,5 @@
 ---
-title: 'How big are smoke particles, in microns?'
-tagnames: nasa, dust, particulates, pm, particles, fire, answered, question:pm, question:particulates, smoke, microscopes, question:microscopes, aren, montana, forest-fires, wildfires, question:wildfires, question:dust-sampling
+title: "How big are smoke particles, in microns?"\ntagnames: 'nasa, dust, particulates, pm, particles, fire, answered, question:pm, question:particulates, smoke, microscopes, question:microscopes, aren, montana, forest-fires, wildfires, question:wildfires, question:dust-sampling'
 author: warren
 path: /notes/warren/08-30-2017/how-big-are-smoke-particles-in-microns.md
 nid: 14803
@@ -10,7 +9,7 @@ uid: 1
 
 # How big are smoke particles, in microns?
 
-by [warren](../profile/warren) August 30, 2017 21:00
+by [warren](../profile/warren) | August 30, 2017 21:00
 
 August 30, 2017 21:00 | Tags: [nasa](../tag/nasa), [dust](../tag/dust), [particulates](../tag/particulates), [pm](../tag/pm), [particles](../tag/particles), [fire](../tag/fire), [answered](../tag/answered), [question:pm](../tag/question:pm), [question:particulates](../tag/question:particulates), [smoke](../tag/smoke), [microscopes](../tag/microscopes), [question:microscopes](../tag/question:microscopes), [aren](../tag/aren), [montana](../tag/montana), [forest-fires](../tag/forest-fires), [wildfires](../tag/wildfires), [question:wildfires](../tag/question:wildfires), [question:dust-sampling](../tag/question:dust-sampling)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Cris Benton on TWiT'
-tagnames: kite-mapping, media, kap
+title: "Cris Benton on TWiT"\ntagnames: 'kite-mapping, media, kap'
 author: cfastie
 path: /notes/cfastie/8-26-2012/cris-benton-twit.md
 nid: 3466
@@ -12,7 +11,7 @@ uid: 554
 
 # Cris Benton on TWiT
 
-by [cfastie](../profile/cfastie) August 26, 2012 12:57
+by [cfastie](../profile/cfastie) | August 26, 2012 12:57
 
 August 26, 2012 12:57 | Tags: [kite-mapping](../tag/kite-mapping), [media](../tag/media), [kap](../tag/kap)
 

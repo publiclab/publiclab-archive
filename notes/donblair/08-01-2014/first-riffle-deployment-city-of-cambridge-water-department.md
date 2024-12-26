@@ -1,6 +1,5 @@
 ---
-title: 'First Riffle Deployment: City of Cambridge Water Department'
-tagnames: somerville-massachusetts, cambridge, massachusetts, water-quality, riffle, northeast, riffle-examples
+title: "First Riffle Deployment: City of Cambridge Water Department"\ntagnames: 'somerville-massachusetts, cambridge, massachusetts, water-quality, riffle, northeast, riffle-examples'
 author: donblair
 path: /notes/donblair/08-01-2014/first-riffle-deployment-city-of-cambridge-water-department.md
 nid: 11004
@@ -12,7 +11,7 @@ uid: 43651
 
 # First Riffle Deployment: City of Cambridge Water Department
 
-by [donblair](../profile/donblair) August 01, 2014 20:53
+by [donblair](../profile/donblair) | August 01, 2014 20:53
 
 August 01, 2014 20:53 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [cambridge](../tag/cambridge), [massachusetts](../tag/massachusetts), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [northeast](../tag/northeast), [riffle-examples](../tag/riffle-examples)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Publishing Collaboratively '
-tagnames: publication, research-notes, workflows
+title: "Publishing Collaboratively "\ntagnames: 'publication, research-notes, workflows'
 author: nicholas
 path: /wiki/publishing-collaboratively.md
 nid: 11650

@@ -1,6 +1,5 @@
 ---
-title: 'GSoC 2021 Proposal : Tag / topic system refinements'
-tagnames: software, soc, first-time-poster, gsoc-2021, gsoc-2021-proposals, outreachy-summer-2021
+title: "GSoC 2021 Proposal : Tag / topic system refinements"\ntagnames: 'software, soc, first-time-poster, gsoc-2021, gsoc-2021-proposals, outreachy-summer-2021'
 author: Manasa2850
 path: /notes/Manasa2850/04-10-2021/gsoc-2021-proposal-tag-topic-system-refinements.md
 nid: 26184
@@ -12,7 +11,7 @@ uid: 752279
 
 # GSoC 2021 Proposal : Tag / topic system refinements
 
-by [Manasa2850](../profile/Manasa2850) April 10, 2021 17:45
+by [Manasa2850](../profile/Manasa2850) | April 10, 2021 17:45
 
 April 10, 2021 17:45 | Tags: [software](../tag/software), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2021](../tag/gsoc-2021), [gsoc-2021-proposals](../tag/gsoc-2021-proposals), [outreachy-summer-2021](../tag/outreachy-summer-2021)
 

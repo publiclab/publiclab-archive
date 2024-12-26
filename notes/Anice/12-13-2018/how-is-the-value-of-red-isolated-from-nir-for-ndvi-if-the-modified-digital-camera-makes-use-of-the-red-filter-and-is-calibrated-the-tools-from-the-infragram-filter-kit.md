@@ -1,6 +1,5 @@
 ---
-title: 'NDVI: How is NIR value removed/separated from the RED+NIR that enters the red channel when using a single camera?'
-tagnames: ndvi, nir, infragram, answered, question:general, first-time-poster
+title: "NDVI: How is NIR value removed/separated from the RED+NIR that enters the red channel when using a single camera?"\ntagnames: 'ndvi, nir, infragram, answered, question:general, first-time-poster'
 author: Anice
 path: /notes/Anice/12-13-2018/how-is-the-value-of-red-isolated-from-nir-for-ndvi-if-the-modified-digital-camera-makes-use-of-the-red-filter-and-is-calibrated-the-tools-from-the-infragram-filter-kit.md
 nid: 17883
@@ -10,7 +9,7 @@ uid: 564024
 
 # NDVI: How is NIR value removed/separated from the RED+NIR that enters the red channel when using a single camera?
 
-by [Anice](../profile/Anice) December 13, 2018 02:37
+by [Anice](../profile/Anice) | December 13, 2018 02:37
 
 December 13, 2018 02:37 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [infragram](../tag/infragram), [answered](../tag/answered), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 

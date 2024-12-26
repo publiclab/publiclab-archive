@@ -1,6 +1,5 @@
 ---
-title: 'measuring-pollen'
-tagnames: redirect:16021
+title: "measuring-pollen"\ntagnames: 'redirect:16021'
 author: warren
 path: /wiki/measuring-pollen.md
 nid: 16022

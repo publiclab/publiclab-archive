@@ -1,6 +1,5 @@
 ---
-title: 'Fall delayed as LEAFFEST looms'
-tagnames: near-infrared-camera, spectrometer, vermont, oil-spill-toolkit, leaffest, event, infragram, northeast, leaffest2015, response:12212
+title: "Fall delayed as LEAFFEST looms"\ntagnames: 'near-infrared-camera, spectrometer, vermont, oil-spill-toolkit, leaffest, event, infragram, northeast, leaffest2015, response:12212'
 author: cfastie
 path: /notes/cfastie/10-01-2015/fall-delayed-as-leaffest-looms.md
 nid: 12262
@@ -12,7 +11,7 @@ uid: 554
 
 # Fall delayed as LEAFFEST looms
 
-by [cfastie](../profile/cfastie) October 01, 2015 18:26
+by [cfastie](../profile/cfastie) | October 01, 2015 18:26
 
 October 01, 2015 18:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [oil-spill-toolkit](../tag/oil-spill-toolkit), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [northeast](../tag/northeast), [leaffest2015](../tag/leaffest2015), [response:12212](../tag/response:12212)
 

@@ -1,6 +1,5 @@
 ---
-title: 'GSoC Proposal: Mapknitter Rails 6 upgrade'
-tagnames: mapknitter, gsoc, soc, first-time-poster, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects
+title: "GSoC Proposal: Mapknitter Rails 6 upgrade"\ntagnames: 'mapknitter, gsoc, soc, first-time-poster, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects'
 author: kaustubh_nair
 path: /notes/kaustubh_nair/03-26-2019/gsoc-proposal-mapknitter-rails-6-upgrade.md
 nid: 18873
@@ -12,7 +11,7 @@ uid: 577485
 
 # GSoC Proposal: Mapknitter Rails 6 upgrade
 
-by [kaustubh_nair](../profile/kaustubh_nair) March 26, 2019 20:28
+by [kaustubh_nair](../profile/kaustubh_nair) | March 26, 2019 20:28
 
 March 26, 2019 20:28 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 

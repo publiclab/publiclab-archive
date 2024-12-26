@@ -1,6 +1,5 @@
 ---
-title: 'Who will win in a world of...LASER DEPTHS?'
-tagnames: arduino, water-sensing, laser, sensors, battery, data-logging, mini-pearl-logger, activity:mini-pearl-logger, series:springhouse-water-level, low-power-logging, log-a-long-timer, range-finder, vl53lox
+title: "Who will win in a world of...LASER DEPTHS?"\ntagnames: 'arduino, water-sensing, laser, sensors, battery, data-logging, mini-pearl-logger, activity:mini-pearl-logger, series:springhouse-water-level, low-power-logging, log-a-long-timer, range-finder, vl53lox'
 author: cfastie
 path: /notes/cfastie/09-22-2018/who-will-win-in-a-world-of-laser-depths.md
 nid: 17155
@@ -12,7 +11,7 @@ uid: 554
 
 # Who will win in a world of...LASER DEPTHS?
 
-by [cfastie](../profile/cfastie) September 22, 2018 04:08
+by [cfastie](../profile/cfastie) | September 22, 2018 04:08
 
 September 22, 2018 04:08 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [laser](../tag/laser), [sensors](../tag/sensors), [battery](../tag/battery), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [series:springhouse-water-level](../tag/series:springhouse-water-level), [low-power-logging](../tag/low-power-logging), [log-a-long-timer](../tag/log-a-long-timer), [range-finder](../tag/range-finder), [vl53lox](../tag/vl53lox)
 

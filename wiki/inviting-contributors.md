@@ -1,6 +1,5 @@
 ---
-title: 'Inviting contributors'
-tagnames: 
+title: "Inviting contributors"\ntagnames: ''
 author: warren
 path: /wiki/inviting-contributors.md
 nid: 759

@@ -1,6 +1,5 @@
 ---
-title: 'T-shirt Guide'
-tagnames: guides, illustrated-guides
+title: "T-shirt Guide"\ntagnames: 'guides, illustrated-guides'
 author: warren
 path: /wiki/t-shirt-guide.md
 nid: 89

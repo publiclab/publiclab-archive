@@ -1,6 +1,5 @@
 ---
-title: 'Oxygen Spectra'
-tagnames: 
+title: "Oxygen Spectra"\ntagnames: ''
 author: odeh0001
 path: /notes/odeh0001/09-18-2018/oxygen-spectra.md
 nid: 17138
@@ -10,7 +9,7 @@ uid: 551283
 
 # Oxygen Spectra
 
-by [odeh0001](../profile/odeh0001) September 18, 2018 15:07
+by [odeh0001](../profile/odeh0001) | September 18, 2018 15:07
 
 September 18, 2018 15:07 | Tags: 
 

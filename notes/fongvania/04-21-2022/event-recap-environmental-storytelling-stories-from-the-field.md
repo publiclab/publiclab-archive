@@ -1,6 +1,5 @@
 ---
-title: 'Event Recap: Environmental Storytelling - Stories from the Field'
-tagnames: video, air-quality, lead, lichen, summary, storytelling, refineries, artivism, research-curation-fellows, presenting-data
+title: "Event Recap: Environmental Storytelling - Stories from the Field"\ntagnames: 'video, air-quality, lead, lichen, summary, storytelling, refineries, artivism, research-curation-fellows, presenting-data'
 author: fongvania
 path: /notes/fongvania/04-21-2022/event-recap-environmental-storytelling-stories-from-the-field.md
 nid: 30541
@@ -10,7 +9,7 @@ uid: 754846
 
 # Event Recap: Environmental Storytelling - Stories from the Field
 
-by [fongvania](../profile/fongvania) April 21, 2022 06:28
+by [fongvania](../profile/fongvania) | April 21, 2022 06:28
 
 April 21, 2022 06:28 | Tags: [video](../tag/video), [air-quality](../tag/air-quality), [lead](../tag/lead), [lichen](../tag/lichen), [summary](../tag/summary), [storytelling](../tag/storytelling), [refineries](../tag/refineries), [artivism](../tag/artivism), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data)
 

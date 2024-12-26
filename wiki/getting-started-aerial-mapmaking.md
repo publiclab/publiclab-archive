@@ -1,6 +1,5 @@
 ---
-title: 'Getting started with aerial mapmaking'
-tagnames: 
+title: "Getting started with aerial mapmaking"\ntagnames: ''
 author: gonzoearth
 path: /wiki/getting-started-aerial-mapmaking.md
 nid: 233

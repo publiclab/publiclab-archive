@@ -1,6 +1,5 @@
 ---
-title: 'North Shore Community Resiliency Assessment Memorandum'
-tagnames: new-york-city, stormwater, staten-island, environmental-justice
+title: "North Shore Community Resiliency Assessment Memorandum"\ntagnames: 'new-york-city, stormwater, staten-island, environmental-justice'
 author: liz
 path: /notes/liz/11-13-2015/north-shore-community-resiliency-assessment-memorandum.md
 nid: 12406
@@ -12,7 +11,7 @@ uid: 7
 
 # North Shore Community Resiliency Assessment Memorandum
 
-by [liz](../profile/liz) November 13, 2015 19:01
+by [liz](../profile/liz) | November 13, 2015 19:01
 
 November 13, 2015 19:01 | Tags: [new-york-city](../tag/new-york-city), [stormwater](../tag/stormwater), [staten-island](../tag/staten-island), [environmental-justice](../tag/environmental-justice)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Workshops'
-tagnames: 
+title: "Workshops"\ntagnames: ''
 author: Bronwen
 path: /wiki/workshops.md
 nid: 21682

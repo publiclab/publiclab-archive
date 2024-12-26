@@ -1,6 +1,5 @@
 ---
-title: 'The gas leak from an old apartment.'
-tagnames: indoor-air-quality-mapping, first-time-poster
+title: "The gas leak from an old apartment."\ntagnames: 'indoor-air-quality-mapping, first-time-poster'
 author: bha
 path: /notes/bha/9-11-2011/gas-leak-old-apartment.md
 nid: 464
@@ -10,7 +9,7 @@ uid: 280
 
 # The gas leak from an old apartment.
 
-by [bha](../profile/bha) September 12, 2011 03:26
+by [bha](../profile/bha) | September 12, 2011 03:26
 
 September 12, 2011 03:26 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [first-time-poster](../tag/first-time-poster)
 

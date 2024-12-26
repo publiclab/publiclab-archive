@@ -1,6 +1,5 @@
 ---
-title: 'Fresh air collector'
-tagnames: calibration, spain, sensors, open-air, espana
+title: "Fresh air collector"\ntagnames: 'calibration, spain, sensors, open-air, espana'
 author: imvec
 path: /notes/imvec/11-15-2016/fresh-air-collector.md
 nid: 13706
@@ -12,7 +11,7 @@ uid: 495038
 
 # Fresh air collector
 
-by [imvec](../profile/imvec) November 15, 2016 14:09
+by [imvec](../profile/imvec) | November 15, 2016 14:09
 
 November 15, 2016 14:09 | Tags: [calibration](../tag/calibration), [spain](../tag/spain), [sensors](../tag/sensors), [open-air](../tag/open-air), [espana](../tag/espana)
 

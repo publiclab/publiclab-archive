@@ -1,6 +1,5 @@
 ---
-title: 'Common Water Contaminants'
-tagnames: temperature, spectroscopy, sewage, water-quality, water, arsenic, bacteria, conductivity, list:plots-waterquality, open-water, lead, prompt:mercury, mercury, chromium, parent:open-water, salt, coqui, ph, nitrates, contaminants, orp, ammonia, parent:water-quality, salinity, nitrogen, fecal-coliform, barium, glyphosate, fecal, nitrite, ammonium, cosquin
+title: "Common Water Contaminants"\ntagnames: 'temperature, spectroscopy, sewage, water-quality, water, arsenic, bacteria, conductivity, list:plots-waterquality, open-water, lead, prompt:mercury, mercury, chromium, parent:open-water, salt, coqui, ph, nitrates, contaminants, orp, ammonia, parent:water-quality, salinity, nitrogen, fecal-coliform, barium, glyphosate, fecal, nitrite, ammonium, cosquin'
 author: donblair
 path: /wiki/common-water-contaminants.md
 nid: 10314

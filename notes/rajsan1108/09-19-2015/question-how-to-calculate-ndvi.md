@@ -1,6 +1,5 @@
 ---
-title: 'Question: how to calculate NDVI'
-tagnames: question:infragram
+title: "Question: how to calculate NDVI"\ntagnames: 'question:infragram'
 author: rajsan1108
 path: /notes/rajsan1108/09-19-2015/question-how-to-calculate-ndvi.md
 nid: 12231
@@ -10,7 +9,7 @@ uid: 451698
 
 # Question: how to calculate NDVI
 
-by [rajsan1108](../profile/rajsan1108) September 19, 2015 13:30
+by [rajsan1108](../profile/rajsan1108) | September 19, 2015 13:30
 
 September 19, 2015 13:30 | Tags: [question:infragram](../tag/question:infragram)
 

@@ -1,6 +1,5 @@
 ---
-title: 'General spectrometer thoughts'
-tagnames: spectrometer
+title: "General spectrometer thoughts"\ntagnames: 'spectrometer'
 author: adam-griffith
 path: /notes/adam-griffith/4-30-2012/general-spectrometer-thoughts.md
 nid: 1859
@@ -10,7 +9,7 @@ uid: 3
 
 # General spectrometer thoughts
 
-by [adam-griffith](../profile/adam-griffith) May 01, 2012 02:52
+by [adam-griffith](../profile/adam-griffith) | May 01, 2012 02:52
 
 May 01, 2012 02:52 | Tags: [spectrometer](../tag/spectrometer)
 

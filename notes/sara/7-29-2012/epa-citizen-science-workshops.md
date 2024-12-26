@@ -1,6 +1,5 @@
 ---
-title: 'EPA Citizen Science Workshops'
-tagnames: new-york-city, epa, new-jersey, northeast
+title: "EPA Citizen Science Workshops"\ntagnames: 'new-york-city, epa, new-jersey, northeast'
 author: sara
 path: /notes/sara/7-29-2012/epa-citizen-science-workshops.md
 nid: 3013
@@ -10,7 +9,7 @@ uid: 8
 
 # EPA Citizen Science Workshops
 
-by [sara](../profile/sara) July 29, 2012 21:33
+by [sara](../profile/sara) | July 29, 2012 21:33
 
 July 29, 2012 21:33 | Tags: [new-york-city](../tag/new-york-city), [epa](../tag/epa), [new-jersey](../tag/new-jersey), [northeast](../tag/northeast)
 

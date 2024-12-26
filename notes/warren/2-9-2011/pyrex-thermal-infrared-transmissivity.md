@@ -1,6 +1,5 @@
 ---
-title: 'Pyrex thermal infrared transmissivity'
-tagnames: thermal-photography, thermal-flashlight, pyrex, lenses
+title: "Pyrex thermal infrared transmissivity"\ntagnames: 'thermal-photography, thermal-flashlight, pyrex, lenses'
 author: warren
 path: /notes/warren/2-9-2011/pyrex-thermal-infrared-transmissivity.md
 nid: 81
@@ -12,7 +11,7 @@ uid: 1
 
 # Pyrex thermal infrared transmissivity
 
-by [warren](../profile/warren) February 09, 2011 20:58
+by [warren](../profile/warren) | February 09, 2011 20:58
 
 February 09, 2011 20:58 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [pyrex](../tag/pyrex), [lenses](../tag/lenses)
 

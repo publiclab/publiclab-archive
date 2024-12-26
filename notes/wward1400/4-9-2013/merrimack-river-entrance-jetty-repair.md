@@ -1,6 +1,5 @@
 ---
-title: 'Merrimack River Entrance Jetty Repair'
-tagnames: balloon-mapping, boston, boston-plots, north-shore-mapping, plum-island-mass, plum-island, first-time-poster
+title: "Merrimack River Entrance Jetty Repair"\ntagnames: 'balloon-mapping, boston, boston-plots, north-shore-mapping, plum-island-mass, plum-island, first-time-poster'
 author: wward1400
 path: /notes/wward1400/4-9-2013/merrimack-river-entrance-jetty-repair.md
 nid: 6751
@@ -12,7 +11,7 @@ uid: 46742
 
 # Merrimack River Entrance Jetty Repair
 
-by [wward1400](../profile/wward1400) April 10, 2013 03:27
+by [wward1400](../profile/wward1400) | April 10, 2013 03:27
 
 April 10, 2013 03:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [boston](../tag/boston), [boston-plots](../tag/boston-plots), [north-shore-mapping](../tag/north-shore-mapping), [plum-island-mass](../tag/plum-island-mass), [plum-island](../tag/plum-island), [first-time-poster](../tag/first-time-poster)
 

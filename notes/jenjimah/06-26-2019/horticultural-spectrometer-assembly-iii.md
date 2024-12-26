@@ -1,6 +1,5 @@
 ---
-title: 'Horticultural Spectrometer - Assembly III'
-tagnames: spectrometer, raspberry-pi, barnstar:basic, lego-spectrometer
+title: "Horticultural Spectrometer - Assembly III"\ntagnames: 'spectrometer, raspberry-pi, barnstar:basic, lego-spectrometer'
 author: jenjimah
 path: /notes/jenjimah/06-26-2019/horticultural-spectrometer-assembly-iii.md
 nid: 19864
@@ -12,7 +11,7 @@ uid: 505738
 
 # Horticultural Spectrometer - Assembly III
 
-by [jenjimah](../profile/jenjimah) June 25, 2019 23:40
+by [jenjimah](../profile/jenjimah) | June 25, 2019 23:40
 
 June 25, 2019 23:40 | Tags: [spectrometer](../tag/spectrometer), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [lego-spectrometer](../tag/lego-spectrometer)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Learning Python on Raspberry Pi'
-tagnames: 
+title: "Learning Python on Raspberry Pi"\ntagnames: ''
 author: ajguthrie99
 path: /notes/ajguthrie99/11-13-2020/learning-python-on-raspberry-pi.md
 nid: 25059
@@ -12,7 +11,7 @@ uid: 716372
 
 # Learning Python on Raspberry Pi
 
-by [ajguthrie99](../profile/ajguthrie99) November 13, 2020 20:57
+by [ajguthrie99](../profile/ajguthrie99) | November 13, 2020 20:57
 
 November 13, 2020 20:57 | Tags: 
 

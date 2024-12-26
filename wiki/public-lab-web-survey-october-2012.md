@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab web survey October 2012'
-tagnames: 
+title: "Public Lab web survey October 2012"\ntagnames: ''
 author: Shannon
 path: /wiki/public-lab-web-survey-october-2012.md
 nid: 4480

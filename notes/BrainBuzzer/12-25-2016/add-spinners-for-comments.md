@@ -1,6 +1,5 @@
 ---
-title: 'Add Spinners for Comments'
-tagnames: 
+title: "Add Spinners for Comments"\ntagnames: ''
 author: BrainBuzzer
 path: /notes/BrainBuzzer/12-25-2016/add-spinners-for-comments.md
 nid: 13806
@@ -12,7 +11,7 @@ uid: 500719
 
 # Add Spinners for Comments
 
-by [BrainBuzzer](../profile/BrainBuzzer) December 25, 2016 11:53
+by [BrainBuzzer](../profile/BrainBuzzer) | December 25, 2016 11:53
 
 December 25, 2016 11:53 | Tags: 
 

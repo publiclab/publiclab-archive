@@ -1,6 +1,5 @@
 ---
-title: 'How does slope affect runoff calculations? '
-tagnames: stormwater, question:stormwater
+title: "How does slope affect runoff calculations? "\ntagnames: 'stormwater, question:stormwater'
 author: stevie
 path: /notes/stevie/01-27-2017/how-does-slope-affect-runoff-calculations.md
 nid: 13885
@@ -10,7 +9,7 @@ uid: 422561
 
 # How does slope affect runoff calculations? 
 
-by [stevie](../profile/stevie) January 27, 2017 18:48
+by [stevie](../profile/stevie) | January 27, 2017 18:48
 
 January 27, 2017 18:48 | Tags: [stormwater](../tag/stormwater), [question:stormwater](../tag/question:stormwater)
 

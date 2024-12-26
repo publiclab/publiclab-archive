@@ -1,6 +1,5 @@
 ---
-title: 'Research Note Workflows'
-tagnames: research
+title: "Research Note Workflows"\ntagnames: 'research'
 author: donblair
 path: /notes/donblair/08-11-2014/research-note-workflows.md
 nid: 11035
@@ -12,7 +11,7 @@ uid: 43651
 
 # Research Note Workflows
 
-by [donblair](../profile/donblair) August 11, 2014 19:34
+by [donblair](../profile/donblair) | August 11, 2014 19:34
 
 August 11, 2014 19:34 | Tags: [research](../tag/research)
 

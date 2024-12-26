@@ -1,6 +1,5 @@
 ---
-title: 'Raman spectrometer using green laser pointer'
-tagnames: spectrometer, raman, first-time-poster
+title: "Raman spectrometer using green laser pointer"\ntagnames: 'spectrometer, raman, first-time-poster'
 author: dhaffnersr
 path: /notes/dhaffnersr/01-10-2016/raman-spectrometer-using-green-laser-pointer.md
 nid: 12575
@@ -12,7 +11,7 @@ uid: 461120
 
 # Raman spectrometer using green laser pointer
 
-by [dhaffnersr](../profile/dhaffnersr) January 10, 2016 20:08
+by [dhaffnersr](../profile/dhaffnersr) | January 10, 2016 20:08
 
 January 10, 2016 20:08 | Tags: [spectrometer](../tag/spectrometer), [raman](../tag/raman), [first-time-poster](../tag/first-time-poster)
 

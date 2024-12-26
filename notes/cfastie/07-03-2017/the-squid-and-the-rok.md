@@ -1,6 +1,5 @@
 ---
-title: 'The Squid and the Rok'
-tagnames: kite-mapping, vermont, kite-aerial-photography, kickstarter, kap, mini-kite-kit, squidweek, squid, aerobee-rig, rokkaku
+title: "The Squid and the Rok"\ntagnames: 'kite-mapping, vermont, kite-aerial-photography, kickstarter, kap, mini-kite-kit, squidweek, squid, aerobee-rig, rokkaku'
 author: cfastie
 path: /notes/cfastie/07-03-2017/the-squid-and-the-rok.md
 nid: 14612
@@ -12,7 +11,7 @@ uid: 554
 
 # The Squid and the Rok
 
-by [cfastie](../profile/cfastie) July 03, 2017 17:08
+by [cfastie](../profile/cfastie) | July 03, 2017 17:08
 
 July 03, 2017 17:08 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kickstarter](../tag/kickstarter), [kap](../tag/kap), [mini-kite-kit](../tag/mini-kite-kit), [squidweek](../tag/squidweek), [squid](../tag/squid), [aerobee-rig](../tag/aerobee-rig), [rokkaku](../tag/rokkaku)
 

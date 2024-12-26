@@ -1,6 +1,5 @@
 ---
-title: 'Issue Brief Template'
-tagnames: template, parent:templates
+title: "Issue Brief Template"\ntagnames: 'template, parent:templates'
 author: stevie
 path: /wiki/issue-brief-template.md
 nid: 15139

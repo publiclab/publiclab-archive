@@ -1,6 +1,5 @@
 ---
-title: 'Dock Test!'
-tagnames: thermal-fishing-bob, riffle, open-water, riffle-examples
+title: "Dock Test!"\ntagnames: 'thermal-fishing-bob, riffle, open-water, riffle-examples'
 author: donblair
 path: /notes/donblair/08-25-2015/dock-test.md
 nid: 12169
@@ -12,7 +11,7 @@ uid: 43651
 
 # Dock Test!
 
-by [donblair](../profile/donblair) August 25, 2015 21:16
+by [donblair](../profile/donblair) | August 25, 2015 21:16
 
 August 25, 2015 21:16 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [riffle](../tag/riffle), [open-water](../tag/open-water), [riffle-examples](../tag/riffle-examples)
 

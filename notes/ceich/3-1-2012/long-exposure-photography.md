@@ -1,6 +1,5 @@
 ---
-title: 'On Long Exposure Photography'
-tagnames: first-time-poster
+title: "On Long Exposure Photography"\ntagnames: 'first-time-poster'
 author: C_Eich
 path: /notes/ceich/3-1-2012/long-exposure-photography.md
 nid: 882
@@ -12,7 +11,7 @@ uid: 597
 
 # On Long Exposure Photography
 
-by [C_Eich](../profile/C_Eich) March 02, 2012 00:18
+by [C_Eich](../profile/C_Eich) | March 02, 2012 00:18
 
 March 02, 2012 00:18 | Tags: [first-time-poster](../tag/first-time-poster)
 

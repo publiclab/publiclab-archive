@@ -1,6 +1,5 @@
 ---
-title: 'Help!! Problems with spectrophotometer spectra trying to build "countertop" set'
-tagnames: spectrometer, spectrophotometer, troubleshooting, dsk
+title: "Help!! Problems with spectrophotometer spectra trying to build "countertop" set"\ntagnames: 'spectrometer, spectrophotometer, troubleshooting, dsk'
 author: dckim
 path: /notes/dckim/10-04-2013/help-trying-to-get-spectrophotometer-to-work.md
 nid: 9397
@@ -12,7 +11,7 @@ uid: 295582
 
 # Help!! Problems with spectrophotometer spectra trying to build "countertop" set
 
-by [dckim](../profile/dckim) October 04, 2013 03:22
+by [dckim](../profile/dckim) | October 04, 2013 03:22
 
 October 04, 2013 03:22 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [troubleshooting](../tag/troubleshooting), [dsk](../tag/dsk)
 

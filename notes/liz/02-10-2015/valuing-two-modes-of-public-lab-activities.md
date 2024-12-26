@@ -1,6 +1,5 @@
 ---
-title: 'Valuing two modes of Public Lab activities'
-tagnames: community, with:warren
+title: "Valuing two modes of Public Lab activities"\ntagnames: 'community, with:warren'
 author: liz
 path: /notes/liz/02-10-2015/valuing-two-modes-of-public-lab-activities.md
 nid: 11573
@@ -12,7 +11,7 @@ uid: 7
 
 # Valuing two modes of Public Lab activities
 
-by [liz](../profile/liz) February 10, 2015 21:04
+by [liz](../profile/liz) | February 10, 2015 21:04
 
 February 10, 2015 21:04 | Tags: [community](../tag/community), [with:warren](../tag/with:warren)
 

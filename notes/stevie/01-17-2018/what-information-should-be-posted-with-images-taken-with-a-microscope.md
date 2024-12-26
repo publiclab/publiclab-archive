@@ -1,6 +1,5 @@
 ---
-title: 'What information should be posted with images taken with a microscope?'
-tagnames: answered, question:pm, question:general, question:microscope, question:basic-microscope, question:microscope-basic, question:particulate-matter, question:community-microscope, faq-community-microscope
+title: "What information should be posted with images taken with a microscope?"\ntagnames: 'answered, question:pm, question:general, question:microscope, question:basic-microscope, question:microscope-basic, question:particulate-matter, question:community-microscope, faq-community-microscope'
 author: stevie
 path: /notes/stevie/01-17-2018/what-information-should-be-posted-with-images-taken-with-a-microscope.md
 nid: 15539
@@ -10,7 +9,7 @@ uid: 422561
 
 # What information should be posted with images taken with a microscope?
 
-by [stevie](../profile/stevie) January 17, 2018 20:43
+by [stevie](../profile/stevie) | January 17, 2018 20:43
 
 January 17, 2018 20:43 | Tags: [answered](../tag/answered), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [question:microscope](../tag/question:microscope), [question:basic-microscope](../tag/question:basic-microscope), [question:microscope-basic](../tag/question:microscope-basic), [question:particulate-matter](../tag/question:particulate-matter), [question:community-microscope](../tag/question:community-microscope), [faq-community-microscope](../tag/faq-community-microscope)
 

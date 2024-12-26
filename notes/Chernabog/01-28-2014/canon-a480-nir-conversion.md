@@ -1,6 +1,5 @@
 ---
-title: 'Canon A480 NIR Conversion'
-tagnames: near-infrared-camera, conversion, filter, infragram, a480, activity:infrared-camera-conversion
+title: "Canon A480 NIR Conversion"\ntagnames: 'near-infrared-camera, conversion, filter, infragram, a480, activity:infrared-camera-conversion'
 author: Chernabog
 path: /notes/Chernabog/01-28-2014/canon-a480-nir-conversion.md
 nid: 9985
@@ -12,7 +11,7 @@ uid: 319651
 
 # Canon A480 NIR Conversion
 
-by [Chernabog](../profile/Chernabog) January 28, 2014 00:33
+by [Chernabog](../profile/Chernabog) | January 28, 2014 00:33
 
 January 28, 2014 00:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [a480](../tag/a480), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion)
 

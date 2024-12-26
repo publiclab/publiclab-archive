@@ -1,6 +1,5 @@
 ---
-title: 'Only getting color at top of image'
-tagnames: calibration, troubleshooting
+title: "Only getting color at top of image"\ntagnames: 'calibration, troubleshooting'
 author: BrentNewhall
 path: /notes/brentnewhall/1-5-2013/only-getting-spectra-top-image.md
 nid: 5425
@@ -12,7 +11,7 @@ uid: 45471
 
 # Only getting color at top of image
 
-by [BrentNewhall](../profile/BrentNewhall) January 05, 2013 14:55
+by [BrentNewhall](../profile/BrentNewhall) | January 05, 2013 14:55
 
 January 05, 2013 14:55 | Tags: [calibration](../tag/calibration), [troubleshooting](../tag/troubleshooting)
 

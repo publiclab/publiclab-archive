@@ -1,6 +1,5 @@
 ---
-title: 'PhenoPi: a citizen science phenology monitoring network'
-tagnames: science, vegetation, phenopi, phenology, growth, citizen, first-time-poster
+title: "PhenoPi: a citizen science phenology monitoring network"\ntagnames: 'science, vegetation, phenopi, phenology, growth, citizen, first-time-poster'
 author: khufkens
 path: /notes/khufkens/04-24-2015/phenopi-a-citizen-science-phenology-monitoring-network.md
 nid: 11766
@@ -12,7 +11,7 @@ uid: 438931
 
 # PhenoPi: a citizen science phenology monitoring network
 
-by [khufkens](../profile/khufkens) April 24, 2015 02:03
+by [khufkens](../profile/khufkens) | April 24, 2015 02:03
 
 April 24, 2015 02:03 | Tags: [science](../tag/science), [vegetation](../tag/vegetation), [phenopi](../tag/phenopi), [phenology](../tag/phenology), [growth](../tag/growth), [citizen](../tag/citizen), [first-time-poster](../tag/first-time-poster)
 

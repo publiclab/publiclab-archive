@@ -1,6 +1,5 @@
 ---
-title: 'Coquí: A Simple Water Conductivity Sensor'
-tagnames: water-quality-monitoring, water-quality, water, 2, sensor-journalism, 4, 8, 6, 3, 1
+title: "Coquí: A Simple Water Conductivity Sensor"\ntagnames: 'water-quality-monitoring, water-quality, water, 2, sensor-journalism, 4, 8, 6, 3, 1'
 author: kanarinka
 path: /wiki/coqui-a-simple-water-conductivity-sensor.md
 nid: 12983

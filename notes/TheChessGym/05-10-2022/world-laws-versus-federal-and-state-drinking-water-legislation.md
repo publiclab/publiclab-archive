@@ -1,6 +1,5 @@
 ---
-title: 'World Laws  Versus Federal and State Drinking Water Legislation'
-tagnames: microplastics, zoom:6, lat:22.004174, lon:76.003417
+title: "World Laws  Versus Federal and State Drinking Water Legislation"\ntagnames: 'microplastics, zoom:6, lat:22.004174, lon:76.003417'
 author: TheChessGym
 path: /notes/TheChessGym/05-10-2022/world-laws-versus-federal-and-state-drinking-water-legislation.md
 nid: 30717
@@ -12,7 +11,7 @@ uid: 788868
 
 # World Laws  Versus Federal and State Drinking Water Legislation
 
-by [TheChessGym](../profile/TheChessGym) May 10, 2022 15:03
+by [TheChessGym](../profile/TheChessGym) | May 10, 2022 15:03
 
 May 10, 2022 15:03 | Tags: [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
 

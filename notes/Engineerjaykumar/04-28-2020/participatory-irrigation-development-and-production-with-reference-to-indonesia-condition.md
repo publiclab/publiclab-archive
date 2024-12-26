@@ -1,6 +1,5 @@
 ---
-title: 'Participatory Irrigation development and Production: with reference to Indonesia condition'
-tagnames: agriculture, asia, indonesia, irrigation, lat:-0.789275, lon:113.921327, zoom:6
+title: "Participatory Irrigation development and Production: with reference to Indonesia condition"\ntagnames: 'agriculture, asia, indonesia, irrigation, lat:-0.789275, lon:113.921327, zoom:6'
 author: Engineerjaykumar
 path: /notes/Engineerjaykumar/04-28-2020/participatory-irrigation-development-and-production-with-reference-to-indonesia-condition.md
 nid: 23497
@@ -12,7 +11,7 @@ uid: 643226
 
 # Participatory Irrigation development and Production: with reference to Indonesia condition
 
-by [Engineerjaykumar](../profile/Engineerjaykumar) April 28, 2020 12:03
+by [Engineerjaykumar](../profile/Engineerjaykumar) | April 28, 2020 12:03
 
 April 28, 2020 12:03 | Tags: [agriculture](../tag/agriculture), [asia](../tag/asia), [indonesia](../tag/indonesia), [irrigation](../tag/irrigation), [lat:-0.789275](../tag/lat:-0.789275), [lon:113.921327](../tag/lon:113.921327), [zoom:6](../tag/zoom:6)
 

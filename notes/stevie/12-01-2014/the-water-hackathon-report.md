@@ -1,6 +1,5 @@
 ---
-title: 'The Water Hackathon Report'
-tagnames: water-quality, water, neworleans, riffle, stormwater, gulfcoast, with:warren, coqui, waterquality, with:donblair, with:danbeavers, with:eustatic, with:mimibell, riffle-examples
+title: "The Water Hackathon Report"\ntagnames: 'water-quality, water, neworleans, riffle, stormwater, gulfcoast, with:warren, coqui, waterquality, with:donblair, with:danbeavers, with:eustatic, with:mimibell, riffle-examples'
 author: stevie
 path: /notes/stevie/12-01-2014/the-water-hackathon-report.md
 nid: 11417
@@ -12,7 +11,7 @@ uid: 422561
 
 # The Water Hackathon Report
 
-by [stevie](../profile/stevie) December 01, 2014 23:09
+by [stevie](../profile/stevie) | December 01, 2014 23:09
 
 December 01, 2014 23:09 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [neworleans](../tag/neworleans), [riffle](../tag/riffle), [stormwater](../tag/stormwater), [gulfcoast](../tag/gulfcoast), [with:warren](../tag/with:warren), [coqui](../tag/coqui), [waterquality](../tag/waterquality), [with:donblair](../tag/with:donblair), [with:danbeavers](../tag/with:danbeavers), [with:eustatic](../tag/with:eustatic), [with:mimibell](../tag/with:mimibell), [riffle-examples](../tag/riffle-examples)
 

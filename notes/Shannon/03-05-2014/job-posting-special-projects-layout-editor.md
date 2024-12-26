@@ -1,6 +1,5 @@
 ---
-title: 'Job Posting: Special Projects Layout Editor'
-tagnames: jobs
+title: "Job Posting: Special Projects Layout Editor"\ntagnames: 'jobs'
 author: Shannon
 path: /notes/Shannon/03-05-2014/job-posting-special-projects-layout-editor.md
 nid: 10108
@@ -12,7 +11,7 @@ uid: 9
 
 # Job Posting: Special Projects Layout Editor
 
-by [Shannon](../profile/Shannon) March 05, 2014 18:12
+by [Shannon](../profile/Shannon) | March 05, 2014 18:12
 
 March 05, 2014 18:12 | Tags: [jobs](../tag/jobs)
 

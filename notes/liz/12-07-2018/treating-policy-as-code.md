@@ -1,6 +1,5 @@
 ---
-title: 'Treating policy as code'
-tagnames: writing, lead, versioning, policy
+title: "Treating policy as code"\ntagnames: 'writing, lead, versioning, policy'
 author: liz
 path: /notes/liz/12-07-2018/treating-policy-as-code.md
 nid: 17825
@@ -10,7 +9,7 @@ uid: 7
 
 # Treating policy as code
 
-by [liz](../profile/liz) December 06, 2018 21:59
+by [liz](../profile/liz) | December 06, 2018 21:59
 
 December 06, 2018 21:59 | Tags: [writing](../tag/writing), [lead](../tag/lead), [versioning](../tag/versioning), [policy](../tag/policy)
 

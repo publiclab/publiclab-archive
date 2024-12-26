@@ -1,6 +1,5 @@
 ---
-title: 'How Pauls Fishing Kites Flys off-wind'
-tagnames: kite-mapping, kite-fishing, kite-techniques, off-wind-flying
+title: "How Pauls Fishing Kites Flys off-wind"\ntagnames: 'kite-mapping, kite-fishing, kite-techniques, off-wind-flying'
 author: mathew
 path: /notes/mathew/2-1-2013/how-pauls-fishing-kites-flys-wind.md
 nid: 5840
@@ -12,7 +11,7 @@ uid: 4
 
 # How Pauls Fishing Kites Flys off-wind
 
-by [mathew](../profile/mathew) February 01, 2013 06:18
+by [mathew](../profile/mathew) | February 01, 2013 06:18
 
 February 01, 2013 06:18 | Tags: [kite-mapping](../tag/kite-mapping), [kite-fishing](../tag/kite-fishing), [kite-techniques](../tag/kite-techniques), [off-wind-flying](../tag/off-wind-flying)
 

@@ -1,6 +1,5 @@
 ---
-title: '2013 WinterCamp: New Orleans and Cocodrie, LA'
-tagnames: gulf-coast, events, oil-spill-toolkit, balloon-mapping-kit, cocodrie--la, oil-response-toolkit, wintercamp
+title: "2013 WinterCamp: New Orleans and Cocodrie, LA"\ntagnames: 'gulf-coast, events, oil-spill-toolkit, balloon-mapping-kit, cocodrie--la, oil-response-toolkit, wintercamp'
 author: Shannon
 path: /wiki/2013-wintercamp-new-orleans-and-cocodrie-la.md
 nid: 5103

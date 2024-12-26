@@ -1,6 +1,5 @@
 ---
-title: 'Measuring our community growth using web traffic'
-tagnames: community-metrics, community, website, webworkinggroup, organizers, analytics, quantitative, evaluation
+title: "Measuring our community growth using web traffic"\ntagnames: 'community-metrics, community, website, webworkinggroup, organizers, analytics, quantitative, evaluation'
 author: warren
 path: /notes/warren/11-30-2012/measuring-our-community-growth-using-web-traffic.md
 nid: 5068
@@ -12,7 +11,7 @@ uid: 1
 
 # Measuring our community growth using web traffic
 
-by [warren](../profile/warren) November 30, 2012 19:12
+by [warren](../profile/warren) | November 30, 2012 19:12
 
 November 30, 2012 19:12 | Tags: [community-metrics](../tag/community-metrics), [community](../tag/community), [website](../tag/website), [webworkinggroup](../tag/webworkinggroup), [organizers](../tag/organizers), [analytics](../tag/analytics), [quantitative](../tag/quantitative), [evaluation](../tag/evaluation)
 

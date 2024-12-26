@@ -1,6 +1,5 @@
 ---
-title: 'Histograms'
-tagnames: near-infrared-camera, infrared, infragram, infrablue, histogram, histograms
+title: "Histograms"\ntagnames: 'near-infrared-camera, infrared, infragram, infrablue, histogram, histograms'
 author: cfastie
 path: /notes/cfastie/06-13-2013/histograms.md
 nid: 8190
@@ -12,7 +11,7 @@ uid: 554
 
 # Histograms
 
-by [cfastie](../profile/cfastie) June 13, 2013 22:18
+by [cfastie](../profile/cfastie) | June 13, 2013 22:18
 
 June 13, 2013 22:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [histogram](../tag/histogram), [histograms](../tag/histograms)
 

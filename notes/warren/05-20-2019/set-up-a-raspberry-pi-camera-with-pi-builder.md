@@ -1,6 +1,5 @@
 ---
-title: 'Set up a Raspberry Pi Camera with Pi Builder'
-tagnames: balloon-mapping, kite-mapping, nasa, raspberry-pi, infragram, timelapse, pi-camera, activity:timelapse, activity:infragram, aren, location:blurred, activity:pi-camera, kite-, balloon-, infragram-pi, activity:infragram-pi, activity:pi-camera-setup, pin:activity:pi-camera-setup, zoom:6, lat:46, lon:48, place:russia
+title: "Set up a Raspberry Pi Camera with Pi Builder"\ntagnames: 'balloon-mapping, kite-mapping, nasa, raspberry-pi, infragram, timelapse, pi-camera, activity:timelapse, activity:infragram, aren, location:blurred, activity:pi-camera, kite-, balloon-, infragram-pi, activity:infragram-pi, activity:pi-camera-setup, pin:activity:pi-camera-setup, zoom:6, lat:46, lon:48, place:russia'
 author: warren
 path: /notes/warren/05-20-2019/set-up-a-raspberry-pi-camera-with-pi-builder.md
 nid: 19462
@@ -12,7 +11,7 @@ uid: 1
 
 # Set up a Raspberry Pi Camera with Pi Builder
 
-by [warren](../profile/warren) May 20, 2019 15:11
+by [warren](../profile/warren) | May 20, 2019 15:11
 
 May 20, 2019 15:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [nasa](../tag/nasa), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [timelapse](../tag/timelapse), [pi-camera](../tag/pi-camera), [activity:timelapse](../tag/activity:timelapse), [activity:infragram](../tag/activity:infragram), [aren](../tag/aren), [location:blurred](../tag/location:blurred), [activity:pi-camera](../tag/activity:pi-camera), [kite-](../tag/kite-), [balloon-](../tag/balloon-), [infragram-pi](../tag/infragram-pi), [activity:infragram-pi](../tag/activity:infragram-pi), [activity:pi-camera-setup](../tag/activity:pi-camera-setup), [pin:activity:pi-camera-setup](../tag/pin:activity:pi-camera-setup), [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [lon:48](../tag/lon:48), [place:russia](../tag/place:russia)
 

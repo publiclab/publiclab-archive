@@ -1,6 +1,5 @@
 ---
-title: 'New Laser mount for the DH 4.2 Spectrometer'
-tagnames: 
+title: "New Laser mount for the DH 4.2 Spectrometer"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/05-30-2016/new-laser-mount-for-the-dh-4-2-spectrometer.md
 nid: 13154
@@ -12,7 +11,7 @@ uid: 461120
 
 # New Laser mount for the DH 4.2 Spectrometer
 
-by [dhaffnersr](../profile/dhaffnersr) May 30, 2016 13:59
+by [dhaffnersr](../profile/dhaffnersr) | May 30, 2016 13:59
 
 May 30, 2016 13:59 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Creating an evaluation framework for Public Lab'
-tagnames: nonprofit, evaluation
+title: "Creating an evaluation framework for Public Lab"\ntagnames: 'nonprofit, evaluation'
 author: Shannon
 path: /notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab.md
 nid: 12764
@@ -12,7 +11,7 @@ uid: 9
 
 # Creating an evaluation framework for Public Lab
 
-by [Shannon](../profile/Shannon) March 01, 2016 16:36
+by [Shannon](../profile/Shannon) | March 01, 2016 16:36
 
 March 01, 2016 16:36 | Tags: [nonprofit](../tag/nonprofit), [evaluation](../tag/evaluation)
 

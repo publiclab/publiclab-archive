@@ -1,6 +1,5 @@
 ---
-title: 'Test results today using a .18mm slit'
-tagnames: 
+title: "Test results today using a .18mm slit"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/01-31-2016/test-results-today-using-a-18mm-slit.md
 nid: 12637
@@ -12,7 +11,7 @@ uid: 461120
 
 # Test results today using a .18mm slit
 
-by [dhaffnersr](../profile/dhaffnersr) January 31, 2016 01:20
+by [dhaffnersr](../profile/dhaffnersr) | January 31, 2016 01:20
 
 January 31, 2016 01:20 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer Peak-Hold'
-tagnames: spectrometer, desktop-spectrometer, noise-reduction, signal-to-noise-ratio, noise
+title: "Spectrometer Peak-Hold"\ntagnames: 'spectrometer, desktop-spectrometer, noise-reduction, signal-to-noise-ratio, noise'
 author: stoft
 path: /notes/stoft/04-22-2016/spectrometer-peak-hold.md
 nid: 13020
@@ -12,7 +11,7 @@ uid: 54025
 
 # Spectrometer Peak-Hold
 
-by [stoft](../profile/stoft) April 22, 2016 21:10
+by [stoft](../profile/stoft) | April 22, 2016 21:10
 
 April 22, 2016 21:10 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [noise-reduction](../tag/noise-reduction), [signal-to-noise-ratio](../tag/signal-to-noise-ratio), [noise](../tag/noise)
 

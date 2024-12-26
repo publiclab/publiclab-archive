@@ -1,6 +1,5 @@
 ---
-title: 'What are ways to strengthen photographic evidence in court?'
-tagnames: evidence, photo-monitoring, timelapse, legal, metadata, chain-of-custody, question:timelapse, question:evidence, question:photo-monitoring, photographic-evidence, court, response:13716, photo-evidence, question:legal, law-and-policy, question:law-and-policy
+title: "What are ways to strengthen photographic evidence in court?"\ntagnames: 'evidence, photo-monitoring, timelapse, legal, metadata, chain-of-custody, question:timelapse, question:evidence, question:photo-monitoring, photographic-evidence, court, response:13716, photo-evidence, question:legal, law-and-policy, question:law-and-policy'
 author: warren
 path: /notes/warren/11-22-2016/what-are-ways-to-strengthen-photographic-evidence-in-court.md
 nid: 13717
@@ -10,7 +9,7 @@ uid: 1
 
 # What are ways to strengthen photographic evidence in court?
 
-by [warren](../profile/warren) November 22, 2016 18:19
+by [warren](../profile/warren) | November 22, 2016 18:19
 
 November 22, 2016 18:19 | Tags: [evidence](../tag/evidence), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [legal](../tag/legal), [metadata](../tag/metadata), [chain-of-custody](../tag/chain-of-custody), [question:timelapse](../tag/question:timelapse), [question:evidence](../tag/question:evidence), [question:photo-monitoring](../tag/question:photo-monitoring), [photographic-evidence](../tag/photographic-evidence), [court](../tag/court), [response:13716](../tag/response:13716), [photo-evidence](../tag/photo-evidence), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 

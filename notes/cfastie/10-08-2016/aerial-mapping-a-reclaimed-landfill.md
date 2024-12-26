@@ -1,6 +1,5 @@
 ---
-title: 'Aerial mapping a reclaimed landfill'
-tagnames: kite-mapping, vermont, kite-aerial-photography, landfill, kap, waste-management, waste, northeast, saturnv, skyshield, bristol-vt
+title: "Aerial mapping a reclaimed landfill"\ntagnames: 'kite-mapping, vermont, kite-aerial-photography, landfill, kap, waste-management, waste, northeast, saturnv, skyshield, bristol-vt'
 author: cfastie
 path: /notes/cfastie/10-08-2016/aerial-mapping-a-reclaimed-landfill.md
 nid: 13534
@@ -12,7 +11,7 @@ uid: 554
 
 # Aerial mapping a reclaimed landfill
 
-by [cfastie](../profile/cfastie) October 08, 2016 03:35
+by [cfastie](../profile/cfastie) | October 08, 2016 03:35
 
 October 08, 2016 03:35 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [landfill](../tag/landfill), [kap](../tag/kap), [waste-management](../tag/waste-management), [waste](../tag/waste), [northeast](../tag/northeast), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [bristol-vt](../tag/bristol-vt)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Northshore Staten Island mapstitching event!'
-tagnames: new-york-city, event, staten-island, event:rsvp, date:08-01-2014, rsvp:bronwen, rsvp:liz, rsvp:carlosst, with:bronwen
+title: "Northshore Staten Island mapstitching event!"\ntagnames: 'new-york-city, event, staten-island, event:rsvp, date:08-01-2014, rsvp:bronwen, rsvp:liz, rsvp:carlosst, with:bronwen'
 author: liz
 path: /notes/liz/07-23-2014/northshore-staten-island-mapstitching-event.md
 nid: 10952
@@ -12,7 +11,7 @@ uid: 7
 
 # Northshore Staten Island mapstitching event!
 
-by [liz](../profile/liz) July 23, 2014 16:03
+by [liz](../profile/liz) | July 23, 2014 16:03
 
 July 23, 2014 16:03 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [staten-island](../tag/staten-island), [event:rsvp](../tag/event:rsvp), [date:08-01-2014](../tag/date:08-01-2014), [rsvp:bronwen](../tag/rsvp:bronwen), [rsvp:liz](../tag/rsvp:liz), [rsvp:carlosst](../tag/rsvp:carlosst), [with:bronwen](../tag/with:bronwen)
 

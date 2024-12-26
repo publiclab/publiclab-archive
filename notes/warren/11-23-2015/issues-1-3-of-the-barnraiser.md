@@ -1,6 +1,5 @@
 ---
-title: 'Issues 1-3 of The Barnraiser'
-tagnames: community, louisiana, documentation, cocodrie, barnraising, blog, barnstar:photo-documentation, doccom, the-barnraiser
+title: "Issues 1-3 of The Barnraiser"\ntagnames: 'community, louisiana, documentation, cocodrie, barnraising, blog, barnstar:photo-documentation, doccom, the-barnraiser'
 author: warren
 path: /notes/warren/11-23-2015/issues-1-3-of-the-barnraiser.md
 nid: 12441
@@ -12,7 +11,7 @@ uid: 1
 
 # Issues 1-3 of The Barnraiser
 
-by [warren](../profile/warren) November 23, 2015 22:59
+by [warren](../profile/warren) | November 23, 2015 22:59
 
 November 23, 2015 22:59 | Tags: [community](../tag/community), [louisiana](../tag/louisiana), [documentation](../tag/documentation), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [blog](../tag/blog), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [doccom](../tag/doccom), [the-barnraiser](../tag/the-barnraiser)
 

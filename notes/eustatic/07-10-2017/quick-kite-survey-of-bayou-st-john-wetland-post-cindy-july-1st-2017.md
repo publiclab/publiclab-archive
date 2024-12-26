@@ -1,6 +1,5 @@
 ---
-title: 'Quick Kite Survey of Bayou St John Wetland, post-Cindy, July 1st 2017'
-tagnames: gulf-coast, kite-mapping, bsj
+title: "Quick Kite Survey of Bayou St John Wetland, post-Cindy, July 1st 2017"\ntagnames: 'gulf-coast, kite-mapping, bsj'
 author: eustatic
 path: /07-10-2017/quick-kite-survey-of-bayou-st-john-wetland-post-cindy-july-1st-2017.md
 nid: 14643
@@ -12,7 +11,7 @@ uid: 379
 
 # Quick Kite Survey of Bayou St John Wetland, post-Cindy, July 1st 2017
 
-by [eustatic](../profile/eustatic) July 10, 2017 21:38
+by [eustatic](../profile/eustatic) | July 10, 2017 21:38
 
 July 10, 2017 21:38 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bsj](../tag/bsj)
 

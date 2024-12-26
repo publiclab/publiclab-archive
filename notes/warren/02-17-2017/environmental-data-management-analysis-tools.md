@@ -1,6 +1,5 @@
 ---
-title: 'Environmental data management & analysis tools'
-tagnames: software, data, data-management, environmental-data, data-analysis, platforms, data-logging-visualization, data-visualization, data-visualization-tool
+title: "Environmental data management & analysis tools"\ntagnames: 'software, data, data-management, environmental-data, data-analysis, platforms, data-logging-visualization, data-visualization, data-visualization-tool'
 author: warren
 path: /notes/warren/02-17-2017/environmental-data-management-analysis-tools.md
 nid: 13937
@@ -12,7 +11,7 @@ uid: 1
 
 # Environmental data management & analysis tools
 
-by [warren](../profile/warren) February 17, 2017 01:13
+by [warren](../profile/warren) | February 17, 2017 01:13
 
 February 17, 2017 01:13 | Tags: [software](../tag/software), [data](../tag/data), [data-management](../tag/data-management), [environmental-data](../tag/environmental-data), [data-analysis](../tag/data-analysis), [platforms](../tag/platforms), [data-logging-visualization](../tag/data-logging-visualization), [data-visualization](../tag/data-visualization), [data-visualization-tool](../tag/data-visualization-tool)
 

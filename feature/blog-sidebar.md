@@ -1,6 +1,5 @@
 ---
-title: 'blog-sidebar'
-tagnames: 
+title: "blog-sidebar"\ntagnames: ''
 author: warren
 path: /feature/blog-sidebar.md
 nid: 25031

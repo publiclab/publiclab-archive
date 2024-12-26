@@ -1,6 +1,5 @@
 ---
-title: 'What is my potential all over the place?'
-tagnames: wheestat, question:question, question:wheestat
+title: "What is my potential all over the place?"\ntagnames: 'wheestat, question:question, question:wheestat'
 author: Greg_H
 path: /notes/Greg_H/12-21-2017/what-is-my-potential-all-over-the-place.md
 nid: 15410
@@ -10,7 +9,7 @@ uid: 520934
 
 # What is my potential all over the place?
 
-by [Greg_H](../profile/Greg_H) December 21, 2017 09:05
+by [Greg_H](../profile/Greg_H) | December 21, 2017 09:05
 
 December 21, 2017 09:05 | Tags: [wheestat](../tag/wheestat), [question:question](../tag/question:question), [question:wheestat](../tag/question:wheestat)
 

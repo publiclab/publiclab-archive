@@ -1,6 +1,5 @@
 ---
-title: 'Halo: Red vs. Blue'
-tagnames: vermont, infrared, sky, atmosphere, infragram, super-red, response:10523, activity:multispectral-imaging
+title: "Halo: Red vs. Blue"\ntagnames: 'vermont, infrared, sky, atmosphere, infragram, super-red, response:10523, activity:multispectral-imaging'
 author: cfastie
 path: /notes/cfastie/06-03-2014/halo-red-vs-blue.md
 nid: 10526
@@ -12,7 +11,7 @@ uid: 554
 
 # Halo: Red vs. Blue
 
-by [cfastie](../profile/cfastie) June 03, 2014 03:57
+by [cfastie](../profile/cfastie) | June 03, 2014 03:57
 
 June 03, 2014 03:57 | Tags: [vermont](../tag/vermont), [infrared](../tag/infrared), [sky](../tag/sky), [atmosphere](../tag/atmosphere), [infragram](../tag/infragram), [super-red](../tag/super-red), [response:10523](../tag/response:10523), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
 

@@ -1,6 +1,5 @@
 ---
-title: 'thermal photography review'
-tagnames: 
+title: "thermal photography review"\ntagnames: ''
 author: gonzoearth
 path: /wiki/thermal-photography-review.md
 nid: 699

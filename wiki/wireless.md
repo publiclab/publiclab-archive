@@ -1,6 +1,5 @@
 ---
-title: 'wireless'
-tagnames: wireless, mobile, sensors, wi-fi, bluetooth
+title: "wireless"\ntagnames: 'wireless, mobile, sensors, wi-fi, bluetooth'
 author: mathew
 path: /wiki/wireless.md
 nid: 11123

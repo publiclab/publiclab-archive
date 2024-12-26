@@ -1,6 +1,5 @@
 ---
-title: 'Questions about DIY spectrometer and e-liquid ingredients'
-tagnames: spectrometer, spectral-analysis, question:spectrometer, e-liquid, e-cigarettes
+title: "Questions about DIY spectrometer and e-liquid ingredients"\ntagnames: 'spectrometer, spectral-analysis, question:spectrometer, e-liquid, e-cigarettes'
 author: nickha
 path: /notes/nickha/06-07-2014/questions-about-diy-spectrometer-and-e-liquid-ingredients.md
 nid: 10537
@@ -10,7 +9,7 @@ uid: 424405
 
 # Questions about DIY spectrometer and e-liquid ingredients
 
-by [nickha](../profile/nickha) June 07, 2014 18:59
+by [nickha](../profile/nickha) | June 07, 2014 18:59
 
 June 07, 2014 18:59 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [question:spectrometer](../tag/question:spectrometer), [e-liquid](../tag/e-liquid), [e-cigarettes](../tag/e-cigarettes)
 

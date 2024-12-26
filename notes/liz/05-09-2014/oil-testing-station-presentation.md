@@ -1,6 +1,5 @@
 ---
-title: 'oil testing station presentation'
-tagnames: presentations, presentation, oil-testing
+title: "oil testing station presentation"\ntagnames: 'presentations, presentation, oil-testing'
 author: liz
 path: /notes/liz/05-09-2014/oil-testing-station-presentation.md
 nid: 10459
@@ -12,7 +11,7 @@ uid: 7
 
 # oil testing station presentation
 
-by [liz](../profile/liz) May 09, 2014 21:24
+by [liz](../profile/liz) | May 09, 2014 21:24
 
 May 09, 2014 21:24 | Tags: [presentations](../tag/presentations), [presentation](../tag/presentation), [oil-testing](../tag/oil-testing)
 

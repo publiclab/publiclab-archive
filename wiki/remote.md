@@ -1,6 +1,5 @@
 ---
-title: 'remote'
-tagnames: redirect:23163
+title: "remote"\ntagnames: 'redirect:23163'
 author: joyofsoy
 path: /wiki/remote.md
 nid: 23175

@@ -1,6 +1,5 @@
 ---
-title: 'Contribute to GirlsGetGeeky on Mozilla Global Sprint'
-tagnames: open-source, software, mozilla, developers, code, barnstar:basic, software-outreach, girls-get-geeky
+title: "Contribute to GirlsGetGeeky on Mozilla Global Sprint"\ntagnames: 'open-source, software, mozilla, developers, code, barnstar:basic, software-outreach, girls-get-geeky'
 author: cess
 path: /notes/cess/05-09-2018/contribute-to-girlsgetgeeky-on-mozilla-global-sprint.md
 nid: 16318
@@ -12,7 +11,7 @@ uid: 525958
 
 # Contribute to GirlsGetGeeky on Mozilla Global Sprint
 
-by [cess](../profile/cess) May 09, 2018 10:56
+by [cess](../profile/cess) | May 09, 2018 10:56
 
 May 09, 2018 10:56 | Tags: [open-source](../tag/open-source), [software](../tag/software), [mozilla](../tag/mozilla), [developers](../tag/developers), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [girls-get-geeky](../tag/girls-get-geeky)
 

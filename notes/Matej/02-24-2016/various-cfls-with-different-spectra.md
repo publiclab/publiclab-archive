@@ -1,6 +1,5 @@
 ---
-title: 'Various CFLs with Different Spectra'
-tagnames: spectrometer, spectrum-matching, multispectral, uv, telemetry, spectralworkbench, emission-spectroscopy, cfl, spectral-analysis, spectral-workbench, response:12658, response:12656
+title: "Various CFLs with Different Spectra"\ntagnames: 'spectrometer, spectrum-matching, multispectral, uv, telemetry, spectralworkbench, emission-spectroscopy, cfl, spectral-analysis, spectral-workbench, response:12658, response:12656'
 author: Matej
 path: /notes/Matej/02-24-2016/various-cfls-with-different-spectra.md
 nid: 12727
@@ -12,7 +11,7 @@ uid: 451808
 
 # Various CFLs with Different Spectra
 
-by [Matej](../profile/Matej) February 24, 2016 01:42
+by [Matej](../profile/Matej) | February 24, 2016 01:42
 
 February 24, 2016 01:42 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [multispectral](../tag/multispectral), [uv](../tag/uv), [telemetry](../tag/telemetry), [spectralworkbench](../tag/spectralworkbench), [emission-spectroscopy](../tag/emission-spectroscopy), [cfl](../tag/cfl), [spectral-analysis](../tag/spectral-analysis), [spectral-workbench](../tag/spectral-workbench), [response:12658](../tag/response:12658), [response:12656](../tag/response:12656)
 

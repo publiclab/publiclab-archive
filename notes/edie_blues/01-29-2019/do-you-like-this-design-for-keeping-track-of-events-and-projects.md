@@ -1,6 +1,5 @@
 ---
-title: 'Do you like this design for keeping track of events and projects?'
-tagnames: design, ui, ui-designs
+title: "Do you like this design for keeping track of events and projects?"\ntagnames: 'design, ui, ui-designs'
 author: edie_blues
 path: /notes/edie_blues/01-29-2019/do-you-like-this-design-for-keeping-track-of-events-and-projects.md
 nid: 18200
@@ -12,7 +11,7 @@ uid: 552521
 
 # Do you like this design for keeping track of events and projects?
 
-by [edie_blues](../profile/edie_blues) January 29, 2019 07:19
+by [edie_blues](../profile/edie_blues) | January 29, 2019 07:19
 
 January 29, 2019 07:19 | Tags: [design](../tag/design), [ui](../tag/ui), [ui-designs](../tag/ui-designs)
 

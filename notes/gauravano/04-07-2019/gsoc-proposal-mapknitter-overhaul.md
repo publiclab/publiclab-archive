@@ -1,6 +1,5 @@
 ---
-title: '[withdrawn] GSoC Proposal: Mapknitter Overhaul '
-tagnames: outreach, gsoc, software-development, gsoc-2019, soc-2019, lat:28.704059, lon:77.10249, soc-2019-proposals
+title: "[withdrawn] GSoC Proposal: Mapknitter Overhaul "\ntagnames: 'outreach, gsoc, software-development, gsoc-2019, soc-2019, lat:28.704059, lon:77.10249, soc-2019-proposals'
 author: gauravano
 path: /notes/gauravano/04-07-2019/gsoc-proposal-mapknitter-overhaul.md
 nid: 18914
@@ -12,7 +11,7 @@ uid: 515081
 
 # [withdrawn] GSoC Proposal: Mapknitter Overhaul 
 
-by [gauravano](../profile/gauravano) March 31, 2019 20:52
+by [gauravano](../profile/gauravano) | March 31, 2019 20:52
 
 March 31, 2019 20:52 | Tags: [outreach](../tag/outreach), [gsoc](../tag/gsoc), [software-development](../tag/software-development), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [lat:28.704059](../tag/lat:28.704059), [lon:77.10249](../tag/lon:77.10249), [soc-2019-proposals](../tag/soc-2019-proposals)
 

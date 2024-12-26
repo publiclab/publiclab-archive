@@ -1,6 +1,5 @@
 ---
-title: 'Spectral Spectrum CMM'
-tagnames: hidden:response, response:13586
+title: "Spectral Spectrum CMM"\ntagnames: 'hidden:response, response:13586'
 author: cmmcqueen
 path: /notes/cmmcqueen/10-19-2016/spectral-spectrum-cmm.md
 nid: 13582
@@ -12,7 +11,7 @@ uid: 494857
 
 # Spectral Spectrum CMM
 
-by [cmmcqueen](../profile/cmmcqueen) October 19, 2016 14:09
+by [cmmcqueen](../profile/cmmcqueen) | October 19, 2016 14:09
 
 October 19, 2016 14:09 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 

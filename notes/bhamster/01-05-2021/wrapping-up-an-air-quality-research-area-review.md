@@ -1,6 +1,5 @@
 ---
-title: 'Wrapping up an air quality research area review'
-tagnames: research, air-quality, taiwan, reviews, research-area-review
+title: "Wrapping up an air quality research area review"\ntagnames: 'research, air-quality, taiwan, reviews, research-area-review'
 author: bhamster
 path: /notes/bhamster/01-05-2021/wrapping-up-an-air-quality-research-area-review.md
 nid: 25422
@@ -12,7 +11,7 @@ uid: 664477
 
 # Wrapping up an air quality research area review
 
-by [bhamster](../profile/bhamster) January 05, 2021 23:44
+by [bhamster](../profile/bhamster) | January 05, 2021 23:44
 
 January 05, 2021 23:44 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [taiwan](../tag/taiwan), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review)
 

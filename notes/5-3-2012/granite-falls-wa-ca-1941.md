@@ -1,6 +1,5 @@
 ---
-title: 'granite-falls--wa-ca--1941'
-tagnames: 
+title: "granite-falls--wa-ca--1941"\ntagnames: ''
 author: 
 path: /notes/5-3-2012/granite-falls-wa-ca-1941.md
 nid: 2098
@@ -12,7 +11,7 @@ uid: 0
 
 # granite-falls--wa-ca--1941
 
-by [](../profile/) May 03, 2012 07:49
+by [](../profile/) | May 03, 2012 07:49
 
 May 03, 2012 07:49 | Tags: 
 

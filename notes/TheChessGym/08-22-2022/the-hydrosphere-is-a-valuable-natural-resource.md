@@ -1,6 +1,5 @@
 ---
-title: 'The Hydrosphere Is A Valuable Natural Resource'
-tagnames: lat:22, first-time-poster, lon:76, zoom:6
+title: "The Hydrosphere Is A Valuable Natural Resource"\ntagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/08-22-2022/the-hydrosphere-is-a-valuable-natural-resource.md
 nid: 34894
@@ -12,7 +11,7 @@ uid: 788868
 
 # The Hydrosphere Is A Valuable Natural Resource
 
-by [TheChessGym](../profile/TheChessGym) August 22, 2022 13:46
+by [TheChessGym](../profile/TheChessGym) | August 22, 2022 13:46
 
 August 22, 2022 13:46 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

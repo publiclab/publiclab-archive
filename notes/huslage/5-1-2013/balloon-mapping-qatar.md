@@ -1,6 +1,5 @@
 ---
-title: 'Balloon mapping in Qatar'
-tagnames: balloon-mapping, qatar, middle-east, first-time-poster
+title: "Balloon mapping in Qatar"\ntagnames: 'balloon-mapping, qatar, middle-east, first-time-poster'
 author: huslage
 path: /notes/huslage/5-1-2013/balloon-mapping-qatar.md
 nid: 7191
@@ -12,7 +11,7 @@ uid: 716
 
 # Balloon mapping in Qatar
 
-by [huslage](../profile/huslage) May 01, 2013 20:18
+by [huslage](../profile/huslage) | May 01, 2013 20:18
 
 May 01, 2013 20:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [qatar](../tag/qatar), [middle-east](../tag/middle-east), [first-time-poster](../tag/first-time-poster)
 

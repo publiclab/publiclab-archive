@@ -1,6 +1,5 @@
 ---
-title: 'Kit photoshoots'
-tagnames: kits, photoshoot
+title: "Kit photoshoots"\ntagnames: 'kits, photoshoot'
 author: warren
 path: /wiki/kit-photoshoots.md
 nid: 11728

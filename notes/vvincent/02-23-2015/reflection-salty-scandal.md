@@ -1,6 +1,5 @@
 ---
-title: 'Reflection Salty Scandal'
-tagnames: conductivity, northeast, salt, sensor-journalism, first-time-poster
+title: "Reflection Salty Scandal"\ntagnames: 'conductivity, northeast, salt, sensor-journalism, first-time-poster'
 author: vvincent
 path: /notes/vvincent/02-23-2015/reflection-salty-scandal.md
 nid: 11630
@@ -10,7 +9,7 @@ uid: 435415
 
 # Reflection Salty Scandal
 
-by [vvincent](../profile/vvincent) February 23, 2015 19:07
+by [vvincent](../profile/vvincent) | February 23, 2015 19:07
 
 February 23, 2015 19:07 | Tags: [conductivity](../tag/conductivity), [northeast](../tag/northeast), [salt](../tag/salt), [sensor-journalism](../tag/sensor-journalism), [first-time-poster](../tag/first-time-poster)
 

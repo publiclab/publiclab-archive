@@ -1,6 +1,5 @@
 ---
-title: 'The Mountains and Mines Monitoring Project'
-tagnames: coal-mining, reporting, mountaintop-removal, coal, drone, southeast, fellowship, project, violations, project:featured, fellowship-teams, mmmp, mine-reclamation, project:mine-reclamation, mine-reclamation-photography
+title: "The Mountains and Mines Monitoring Project"\ntagnames: 'coal-mining, reporting, mountaintop-removal, coal, drone, southeast, fellowship, project, violations, project:featured, fellowship-teams, mmmp, mine-reclamation, project:mine-reclamation, mine-reclamation-photography'
 author: stevie
 path: /wiki/the-mountains-and-mines-monitoring-project.md
 nid: 27964

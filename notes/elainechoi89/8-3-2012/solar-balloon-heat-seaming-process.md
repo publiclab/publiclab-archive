@@ -1,6 +1,5 @@
 ---
-title: 'Solar Balloon Heat Seaming Process'
-tagnames: balloon-mapping, solar-balloon, hot-air-balloon, heat-seaming, diy-balloon, activity:balloon-making
+title: "Solar Balloon Heat Seaming Process"\ntagnames: 'balloon-mapping, solar-balloon, hot-air-balloon, heat-seaming, diy-balloon, activity:balloon-making'
 author: elainechoi89
 path: /notes/elainechoi89/8-3-2012/solar-balloon-heat-seaming-process.md
 nid: 3115
@@ -12,7 +11,7 @@ uid: 6102
 
 # Solar Balloon Heat Seaming Process
 
-by [elainechoi89](../profile/elainechoi89) August 03, 2012 20:32
+by [elainechoi89](../profile/elainechoi89) | August 03, 2012 20:32
 
 August 03, 2012 20:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [solar-balloon](../tag/solar-balloon), [hot-air-balloon](../tag/hot-air-balloon), [heat-seaming](../tag/heat-seaming), [diy-balloon](../tag/diy-balloon), [activity:balloon-making](../tag/activity:balloon-making)
 

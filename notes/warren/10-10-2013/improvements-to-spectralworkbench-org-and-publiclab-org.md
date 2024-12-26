@@ -1,6 +1,5 @@
 ---
-title: 'Improvements to SpectralWorkbench.org and PublicLab.org'
-tagnames: website, spectralworkbench, plots2
+title: "Improvements to SpectralWorkbench.org and PublicLab.org"\ntagnames: 'website, spectralworkbench, plots2'
 author: warren
 path: /notes/warren/10-10-2013/improvements-to-spectralworkbench-org-and-publiclab-org.md
 nid: 9433
@@ -12,7 +11,7 @@ uid: 1
 
 # Improvements to SpectralWorkbench.org and PublicLab.org
 
-by [warren](../profile/warren) October 10, 2013 18:44
+by [warren](../profile/warren) | October 10, 2013 18:44
 
 October 10, 2013 18:44 | Tags: [website](../tag/website), [spectralworkbench](../tag/spectralworkbench), [plots2](../tag/plots2)
 

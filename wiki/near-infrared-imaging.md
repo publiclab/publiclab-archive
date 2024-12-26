@@ -1,6 +1,5 @@
 ---
-title: 'near-infrared-imaging'
-tagnames: near-infrared-camera, ndvi
+title: "near-infrared-imaging"\ntagnames: 'near-infrared-camera, ndvi'
 author: liz
 path: /wiki/near-infrared-imaging.md
 nid: 7656

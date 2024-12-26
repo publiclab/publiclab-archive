@@ -1,6 +1,5 @@
 ---
-title: 'How to get accountability for blasting and dust related permit violations? '
-tagnames: coal-mining, epa, organizing, air-quality, mountaintop-removal, mining, coal, silica, advocacy, mmmp, question:mmmp
+title: "How to get accountability for blasting and dust related permit violations? "\ntagnames: 'coal-mining, epa, organizing, air-quality, mountaintop-removal, mining, coal, silica, advocacy, mmmp, question:mmmp'
 author: ekpeterman
 path: /notes/ekpeterman/11-23-2021/how-to-get-accountability-for-blasting-and-dust-related-permit-violations.md
 nid: 28247
@@ -10,7 +9,7 @@ uid: 641166
 
 # How to get accountability for blasting and dust related permit violations? 
 
-by [ekpeterman](../profile/ekpeterman) November 23, 2021 20:35
+by [ekpeterman](../profile/ekpeterman) | November 23, 2021 20:35
 
 November 23, 2021 20:35 | Tags: [coal-mining](../tag/coal-mining), [epa](../tag/epa), [organizing](../tag/organizing), [air-quality](../tag/air-quality), [mountaintop-removal](../tag/mountaintop-removal), [mining](../tag/mining), [coal](../tag/coal), [silica](../tag/silica), [advocacy](../tag/advocacy), [mmmp](../tag/mmmp), [question:mmmp](../tag/question:mmmp)
 

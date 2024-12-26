@@ -1,6 +1,5 @@
 ---
-title: 'Hydrogen Balloons'
-tagnames: balloon-mapping, grassrootsmappingwiki, hydrogen, diy-balloon, nuvu
+title: "Hydrogen Balloons"\ntagnames: 'balloon-mapping, grassrootsmappingwiki, hydrogen, diy-balloon, nuvu'
 author: warren
 path: /wiki/hydrogen-balloons.md
 nid: 1732

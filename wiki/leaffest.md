@@ -1,6 +1,5 @@
 ---
-title: 'LEAFFEST'
-tagnames: near-infrared-camera, vermont, leaffest, leaffest2012, event, infragram, events:vermont, tabbed:notes, tabbed:wikis
+title: "LEAFFEST"\ntagnames: 'near-infrared-camera, vermont, leaffest, leaffest2012, event, infragram, events:vermont, tabbed:notes, tabbed:wikis'
 author: cfastie
 path: /wiki/leaffest.md
 nid: 9068

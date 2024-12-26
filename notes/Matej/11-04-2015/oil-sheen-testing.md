@@ -1,6 +1,5 @@
 ---
-title: 'Oil Sheen Testing'
-tagnames: spectrometer, oil-spill, oil, crude, water-quality, oil-testing-kit, sheen, otk, os, ost, freezing-oil
+title: "Oil Sheen Testing"\ntagnames: 'spectrometer, oil-spill, oil, crude, water-quality, oil-testing-kit, sheen, otk, os, ost, freezing-oil'
 author: Matej
 path: /notes/Matej/11-04-2015/oil-sheen-testing.md
 nid: 12363
@@ -12,7 +11,7 @@ uid: 451808
 
 # Oil Sheen Testing
 
-by [Matej](../profile/Matej) November 04, 2015 15:18
+by [Matej](../profile/Matej) | November 04, 2015 15:18
 
 November 04, 2015 15:18 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [crude](../tag/crude), [water-quality](../tag/water-quality), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [otk](../tag/otk), [os](../tag/os), [ost](../tag/ost), [freezing-oil](../tag/freezing-oil)
 

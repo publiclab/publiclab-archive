@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Community Newsletter: June 2017'
-tagnames: balloon-mapping, kite-mapping, newsletter, mini, kite, kickstarter, epa, news, balloon, survey, openhour, mini-kite-kit, mini-balloon-kit, edgi, kickstarter-gold
+title: "Public Lab Community Newsletter: June 2017"\ntagnames: 'balloon-mapping, kite-mapping, newsletter, mini, kite, kickstarter, epa, news, balloon, survey, openhour, mini-kite-kit, mini-balloon-kit, edgi, kickstarter-gold'
 author: klie
 path: /notes/klie/06-30-2017/public-lab-community-newsletter-june-2017.md
 nid: 14595
@@ -12,7 +11,7 @@ uid: 441262
 
 # Public Lab Community Newsletter: June 2017
 
-by [klie](../profile/klie) June 30, 2017 16:41
+by [klie](../profile/klie) | June 30, 2017 16:41
 
 June 30, 2017 16:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [newsletter](../tag/newsletter), [mini](../tag/mini), [kite](../tag/kite), [kickstarter](../tag/kickstarter), [epa](../tag/epa), [news](../tag/news), [balloon](../tag/balloon), [survey](../tag/survey), [openhour](../tag/openhour), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit), [edgi](../tag/edgi), [kickstarter-gold](../tag/kickstarter-gold)
 

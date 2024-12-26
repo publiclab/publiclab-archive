@@ -1,6 +1,5 @@
 ---
-title: 'Measuring Indoor Carbon Dioxide Levels, Indoor Air Quality'
-tagnames: air-quality, iaq, co2, indoor-air-quality, carbon-dioxide
+title: "Measuring Indoor Carbon Dioxide Levels, Indoor Air Quality"\ntagnames: 'air-quality, iaq, co2, indoor-air-quality, carbon-dioxide'
 author: LukeS
 path: /notes/LukeS/04-22-2016/measuring-indoor-carbon-dioxide-levels-indoor-air-quality.md
 nid: 13018
@@ -12,7 +11,7 @@ uid: 455370
 
 # Measuring Indoor Carbon Dioxide Levels, Indoor Air Quality
 
-by [LukeS](../profile/LukeS) April 22, 2016 16:23
+by [LukeS](../profile/LukeS) | April 22, 2016 16:23
 
 April 22, 2016 16:23 | Tags: [air-quality](../tag/air-quality), [iaq](../tag/iaq), [co2](../tag/co2), [indoor-air-quality](../tag/indoor-air-quality), [carbon-dioxide](../tag/carbon-dioxide)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Sharing'
-tagnames: sharing
+title: "Sharing"\ntagnames: 'sharing'
 author: warren
 path: /wiki/sharing.md
 nid: 10548

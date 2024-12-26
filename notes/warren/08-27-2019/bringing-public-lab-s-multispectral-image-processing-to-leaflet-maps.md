@@ -1,6 +1,5 @@
 ---
-title: 'Bringing Public Lab’s multispectral image processing to Leaflet maps'
-tagnames: ndvi, multispectral, nasa, infragram, blog, leaflet, aren
+title: "Bringing Public Lab’s multispectral image processing to Leaflet maps"\ntagnames: 'ndvi, multispectral, nasa, infragram, blog, leaflet, aren'
 author: warren
 path: /notes/warren/08-27-2019/bringing-public-lab-s-multispectral-image-processing-to-leaflet-maps.md
 nid: 20695
@@ -12,7 +11,7 @@ uid: 1
 
 # Bringing Public Lab’s multispectral image processing to Leaflet maps
 
-by [warren](../profile/warren) August 27, 2019 19:58
+by [warren](../profile/warren) | August 27, 2019 19:58
 
 August 27, 2019 19:58 | Tags: [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [nasa](../tag/nasa), [infragram](../tag/infragram), [blog](../tag/blog), [leaflet](../tag/leaflet), [aren](../tag/aren)
 

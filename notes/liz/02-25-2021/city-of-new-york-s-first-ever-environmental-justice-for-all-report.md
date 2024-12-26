@@ -1,6 +1,5 @@
 ---
-title: 'City of New York's first-ever "Environmental Justice for All" report'
-tagnames: new-york-city, press-release, environmental-justice, public-comment, lat:35, zoom:13, lon:-78.99
+title: "City of New York's first-ever "Environmental Justice for All" report"\ntagnames: 'new-york-city, press-release, environmental-justice, public-comment, lat:35, zoom:13, lon:-78.99'
 author: liz
 path: /notes/liz/02-25-2021/city-of-new-york-s-first-ever-environmental-justice-for-all-report.md
 nid: 25803
@@ -12,7 +11,7 @@ uid: 7
 
 # City of New York's first-ever "Environmental Justice for All" report
 
-by [liz](../profile/liz) February 25, 2021 15:48
+by [liz](../profile/liz) | February 25, 2021 15:48
 
 February 25, 2021 15:48 | Tags: [new-york-city](../tag/new-york-city), [press-release](../tag/press-release), [environmental-justice](../tag/environmental-justice), [public-comment](../tag/public-comment), [lat:35](../tag/lat:35), [zoom:13](../tag/zoom:13), [lon:-78.99](../tag/lon:-78.99)
 

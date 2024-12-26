@@ -1,6 +1,5 @@
 ---
-title: 'Dust Sampling'
-tagnames: particulate-sensing, dust, parent:air-quality
+title: "Dust Sampling"\ntagnames: 'particulate-sensing, dust, parent:air-quality'
 author: warren
 path: /wiki/dust-sampling.md
 nid: 15247

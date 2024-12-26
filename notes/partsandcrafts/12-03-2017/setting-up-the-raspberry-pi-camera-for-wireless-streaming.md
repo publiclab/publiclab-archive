@@ -1,6 +1,5 @@
 ---
-title: 'Setting up the Raspberry Pi Camera for Wireless Streaming'
-tagnames: raspberry-pi, barnstar:basic, with:kgradow1, with:warren, microscope, pi-camera, microscopes, activity:microscopes, raspberry-pi-infragram, activity:raspberry-pi-infragram, with:wmacfarl, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, activity:pi-camera, with:bmela, activity:basic-microscope, activity:lego-spectrometer, series:basic-microscope
+title: "Setting up the Raspberry Pi Camera for Wireless Streaming"\ntagnames: 'raspberry-pi, barnstar:basic, with:kgradow1, with:warren, microscope, pi-camera, microscopes, activity:microscopes, raspberry-pi-infragram, activity:raspberry-pi-infragram, with:wmacfarl, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, activity:pi-camera, with:bmela, activity:basic-microscope, activity:lego-spectrometer, series:basic-microscope'
 author: partsandcrafts
 path: /notes/partsandcrafts/12-03-2017/setting-up-the-raspberry-pi-camera-for-wireless-streaming.md
 nid: 15289
@@ -12,7 +11,7 @@ uid: 66014
 
 # Setting up the Raspberry Pi Camera for Wireless Streaming
 
-by [partsandcrafts](../profile/partsandcrafts) December 03, 2017 02:55
+by [partsandcrafts](../profile/partsandcrafts) | December 03, 2017 02:55
 
 December 03, 2017 02:55 | Tags: [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [with:wmacfarl](../tag/with:wmacfarl), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [activity:pi-camera](../tag/activity:pi-camera), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [series:basic-microscope](../tag/series:basic-microscope)
 

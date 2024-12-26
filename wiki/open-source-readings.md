@@ -1,6 +1,5 @@
 ---
-title: 'Open source readings'
-tagnames: 
+title: "Open source readings"\ntagnames: ''
 author: warren
 path: /wiki/open-source-readings.md
 nid: 1678

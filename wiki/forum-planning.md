@@ -1,6 +1,5 @@
 ---
-title: 'Forum planning'
-tagnames: community, gmf, grassroots-mapping, grassrootsmappingforum
+title: "Forum planning"\ntagnames: 'community, gmf, grassroots-mapping, grassrootsmappingforum'
 author: warren
 path: /wiki/forum-planning.md
 nid: 489

@@ -1,6 +1,5 @@
 ---
-title: 'Fuel Efficiency Of Used Vehicles'
-tagnames: fuel, car, question:general, general, first-time-poster, truck, automobile, motors, effiency
+title: "Fuel Efficiency Of Used Vehicles"\ntagnames: 'fuel, car, question:general, general, first-time-poster, truck, automobile, motors, effiency'
 author: WaterGeek
 path: /notes/WaterGeek/06-06-2022/fuel-efficiency-of-used-vehicles.md
 nid: 31034
@@ -10,7 +9,7 @@ uid: 524963
 
 # Fuel Efficiency Of Used Vehicles
 
-by [WaterGeek](../profile/WaterGeek) June 06, 2022 12:33
+by [WaterGeek](../profile/WaterGeek) | June 06, 2022 12:33
 
 June 06, 2022 12:33 | Tags: [fuel](../tag/fuel), [car](../tag/car), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster), [truck](../tag/truck), [automobile](../tag/automobile), [motors](../tag/motors), [effiency](../tag/effiency)
 

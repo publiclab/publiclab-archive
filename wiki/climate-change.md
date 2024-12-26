@@ -1,6 +1,5 @@
 ---
-title: 'Climate change'
-tagnames: climate-change
+title: "Climate change"\ntagnames: 'climate-change'
 author: joyofsoy
 path: /wiki/climate-change.md
 nid: 21772

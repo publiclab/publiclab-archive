@@ -1,6 +1,5 @@
 ---
-title: 'Announcing 3 Accepted Google Summer of Code Public Lab Projects! '
-tagnames: gsoc
+title: "Announcing 3 Accepted Google Summer of Code Public Lab Projects! "\ntagnames: 'gsoc'
 author: gonzoearth
 path: /notes/gonzoearth/05-29-2013/announcing-3-accepted-google-summer-of-code-public-lab-projects.md
 nid: 7961
@@ -12,7 +11,7 @@ uid: 12
 
 # Announcing 3 Accepted Google Summer of Code Public Lab Projects! 
 
-by [gonzoearth](../profile/gonzoearth) May 29, 2013 16:52
+by [gonzoearth](../profile/gonzoearth) | May 29, 2013 16:52
 
 May 29, 2013 16:52 | Tags: [gsoc](../tag/gsoc)
 

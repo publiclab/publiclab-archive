@@ -1,6 +1,5 @@
 ---
-title: 'Comparison of Heat Insulation in Two Different Aged Building using a Thermal Flashlight'
-tagnames: thermal-photography, thermal-flashlight, northeastern-university, thermal-imaging, public-health, energy-conservation, insulation, heat, replication:625
+title: "Comparison of Heat Insulation in Two Different Aged Building using a Thermal Flashlight"\ntagnames: 'thermal-photography, thermal-flashlight, northeastern-university, thermal-imaging, public-health, energy-conservation, insulation, heat, replication:625'
 author: AndrewConner
 path: /notes/AndrewConner/12-03-2014/comparison-of-heat-insulation-in-two-different-aged-building-using-a-thermal-flashlight.md
 nid: 11430
@@ -12,7 +11,7 @@ uid: 432241
 
 # Comparison of Heat Insulation in Two Different Aged Building using a Thermal Flashlight
 
-by [AndrewConner](../profile/AndrewConner) December 03, 2014 16:07
+by [AndrewConner](../profile/AndrewConner) | December 03, 2014 16:07
 
 December 03, 2014 16:07 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [northeastern-university](../tag/northeastern-university), [thermal-imaging](../tag/thermal-imaging), [public-health](../tag/public-health), [energy-conservation](../tag/energy-conservation), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Introducing Question Button in Wiki Pages'
-tagnames: website, gsoc, demo, rich-wikis, gsoc-2017, soc, soc-2017, questions
+title: "Introducing Question Button in Wiki Pages"\ntagnames: 'website, gsoc, demo, rich-wikis, gsoc-2017, soc, soc-2017, questions'
 author: Ashan
 path: /notes/Ashan/06-14-2017/introducing-question-button-in-wiki-pages.md
 nid: 14536
@@ -12,7 +11,7 @@ uid: 502016
 
 # Introducing Question Button in Wiki Pages
 
-by [Ashan](../profile/Ashan) June 14, 2017 09:49
+by [Ashan](../profile/Ashan) | June 14, 2017 09:49
 
 June 14, 2017 09:49 | Tags: [website](../tag/website), [gsoc](../tag/gsoc), [demo](../tag/demo), [rich-wikis](../tag/rich-wikis), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [questions](../tag/questions)
 

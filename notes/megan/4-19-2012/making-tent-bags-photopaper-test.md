@@ -1,6 +1,5 @@
 ---
-title: 'Making tent bags for photopaper test'
-tagnames: 
+title: "Making tent bags for photopaper test"\ntagnames: ''
 author: megan
 path: /notes/megan/4-19-2012/making-tent-bags-photopaper-test.md
 nid: 1713
@@ -10,7 +9,7 @@ uid: 775
 
 # Making tent bags for photopaper test
 
-by [megan](../profile/megan) April 20, 2012 00:25
+by [megan](../profile/megan) | April 20, 2012 00:25
 
 April 20, 2012 00:25 | Tags: 
 

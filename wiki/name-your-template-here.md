@@ -1,6 +1,5 @@
 ---
-title: 'Name your template here'
-tagnames: 
+title: "Name your template here"\ntagnames: ''
 author: asoamarachi
 path: /wiki/name-your-template-here.md
 nid: 23852

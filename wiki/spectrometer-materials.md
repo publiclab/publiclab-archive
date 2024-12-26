@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer materials list'
-tagnames: spectrometer, kickstarter, materials
+title: "Spectrometer materials list"\ntagnames: 'spectrometer, kickstarter, materials'
 author: warren
 path: /wiki/spectrometer-materials.md
 nid: 3561

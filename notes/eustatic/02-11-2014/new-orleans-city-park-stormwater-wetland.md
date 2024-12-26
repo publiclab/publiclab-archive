@@ -1,6 +1,5 @@
 ---
-title: 'New Orleans City Park Stormwater wetland'
-tagnames: gulf-coast, kite-mapping, flood, stormwater, response:9758, floodless, grn, livingwithwater, rcpicavet, urbanwater, urbanwaters
+title: "New Orleans City Park Stormwater wetland"\ntagnames: 'gulf-coast, kite-mapping, flood, stormwater, response:9758, floodless, grn, livingwithwater, rcpicavet, urbanwater, urbanwaters'
 author: eustatic
 path: /02-11-2014/new-orleans-city-park-stormwater-wetland.md
 nid: 10028
@@ -12,7 +11,7 @@ uid: 379
 
 # New Orleans City Park Stormwater wetland
 
-by [eustatic](../profile/eustatic) February 11, 2014 20:31
+by [eustatic](../profile/eustatic) | February 11, 2014 20:31
 
 February 11, 2014 20:31 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [flood](../tag/flood), [stormwater](../tag/stormwater), [response:9758](../tag/response:9758), [floodless](../tag/floodless), [grn](../tag/grn), [livingwithwater](../tag/livingwithwater), [rcpicavet](../tag/rcpicavet), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
 

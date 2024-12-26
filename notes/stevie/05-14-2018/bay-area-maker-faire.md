@@ -1,6 +1,5 @@
 ---
-title: 'Bay Area Maker Faire! '
-tagnames: balloon-mapping, spectrometer, san-francisco, california, mapping, event, with:warren, coqui, microscope, make, maker-faire
+title: "Bay Area Maker Faire! "\ntagnames: 'balloon-mapping, spectrometer, san-francisco, california, mapping, event, with:warren, coqui, microscope, make, maker-faire'
 author: stevie
 path: /notes/stevie/05-14-2018/bay-area-maker-faire.md
 nid: 16349
@@ -12,7 +11,7 @@ uid: 422561
 
 # Bay Area Maker Faire! 
 
-by [stevie](../profile/stevie) May 14, 2018 18:06
+by [stevie](../profile/stevie) | May 14, 2018 18:06
 
 May 14, 2018 18:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [san-francisco](../tag/san-francisco), [california](../tag/california), [mapping](../tag/mapping), [event](../tag/event), [with:warren](../tag/with:warren), [coqui](../tag/coqui), [microscope](../tag/microscope), [make](../tag/make), [maker-faire](../tag/maker-faire)
 

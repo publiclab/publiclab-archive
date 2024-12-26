@@ -1,6 +1,5 @@
 ---
-title: 'Flocculation'
-tagnames: industry, mine-reclamation, flocculants, parent:industry
+title: "Flocculation"\ntagnames: 'industry, mine-reclamation, flocculants, parent:industry'
 author: laurel_mire
 path: /wiki/flocculation.md
 nid: 30138

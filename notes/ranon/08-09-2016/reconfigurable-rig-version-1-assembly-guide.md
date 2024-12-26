@@ -1,6 +1,5 @@
 ---
-title: 'Reconfigurable Rig Version 1 Assembly Guide'
-tagnames: kite-aerial-photography, kap, photo-rig, diy-balloon, balloon-mapping-kit, autokap, kap-rigs, dii-kites, reconfigurable-rig, activity:photo-rig
+title: "Reconfigurable Rig Version 1 Assembly Guide"\ntagnames: 'kite-aerial-photography, kap, photo-rig, diy-balloon, balloon-mapping-kit, autokap, kap-rigs, dii-kites, reconfigurable-rig, activity:photo-rig'
 author: ranon
 path: /notes/ranon/08-09-2016/reconfigurable-rig-version-1-assembly-guide.md
 nid: 13343
@@ -12,7 +11,7 @@ uid: 477060
 
 # Reconfigurable Rig Version 1 Assembly Guide
 
-by [ranon](../profile/ranon) August 09, 2016 21:41
+by [ranon](../profile/ranon) | August 09, 2016 21:41
 
 August 09, 2016 21:41 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [diy-balloon](../tag/diy-balloon), [balloon-mapping-kit](../tag/balloon-mapping-kit), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [dii-kites](../tag/dii-kites), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
 

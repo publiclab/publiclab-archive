@@ -1,6 +1,5 @@
 ---
-title: 'What are some activities for using the Simple Air Sensor as part of a broader air quality project?'
-tagnames: air-quality, dust, pm, plantower, purple-air, question:simple-air-sensor, simple-air-sensor
+title: "What are some activities for using the Simple Air Sensor as part of a broader air quality project?"\ntagnames: 'air-quality, dust, pm, plantower, purple-air, question:simple-air-sensor, simple-air-sensor'
 author: warren
 path: /notes/warren/04-02-2019/what-are-some-activities-for-using-the-simple-air-sensor-as-part-of-a-broader-air-quality-project.md
 nid: 18937
@@ -10,7 +9,7 @@ uid: 1
 
 # What are some activities for using the Simple Air Sensor as part of a broader air quality project?
 
-by [warren](../profile/warren) April 02, 2019 18:40
+by [warren](../profile/warren) | April 02, 2019 18:40
 
 April 02, 2019 18:40 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [pm](../tag/pm), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Update #3: OSIDC Optical Motion Tracking Project'
-tagnames: rpi, image-analysis, raspberry-pi-cameras, image-gathering, zoom:6, lat:42.386759, lon:-72.530051
+title: "Update #3: OSIDC Optical Motion Tracking Project"\ntagnames: 'rpi, image-analysis, raspberry-pi-cameras, image-gathering, zoom:6, lat:42.386759, lon:-72.530051'
 author: Emmett_Dec
 path: /notes/Emmett_Dec/10-30-2020/update-3-osidc-optical-motion-tracking-project.md
 nid: 24877
@@ -12,7 +11,7 @@ uid: 716411
 
 # Update #3: OSIDC Optical Motion Tracking Project
 
-by [Emmett_Dec](../profile/Emmett_Dec) October 30, 2020 14:07
+by [Emmett_Dec](../profile/Emmett_Dec) | October 30, 2020 14:07
 
 October 30, 2020 14:07 | Tags: [rpi](../tag/rpi), [image-analysis](../tag/image-analysis), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [image-gathering](../tag/image-gathering), [zoom:6](../tag/zoom:6), [lat:42.386759](../tag/lat:42.386759), [lon:-72.530051](../tag/lon:-72.530051)
 

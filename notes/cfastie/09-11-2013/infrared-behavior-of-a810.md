@@ -1,6 +1,5 @@
 ---
-title: 'Infrared behavior of A810'
-tagnames: near-infrared-camera, spectrometer, vermont, infrared, leaffest, white-balance, infragram, histogram, led, leaffest2013, leds, a810, frosted-globe
+title: "Infrared behavior of A810"\ntagnames: 'near-infrared-camera, spectrometer, vermont, infrared, leaffest, white-balance, infragram, histogram, led, leaffest2013, leds, a810, frosted-globe'
 author: cfastie
 path: /notes/cfastie/09-11-2013/infrared-behavior-of-a810.md
 nid: 9313
@@ -12,7 +11,7 @@ uid: 554
 
 # Infrared behavior of A810
 
-by [cfastie](../profile/cfastie) September 11, 2013 14:10
+by [cfastie](../profile/cfastie) | September 11, 2013 14:10
 
 September 11, 2013 14:10 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [leaffest2013](../tag/leaffest2013), [leds](../tag/leds), [a810](../tag/a810), [frosted-globe](../tag/frosted-globe)
 

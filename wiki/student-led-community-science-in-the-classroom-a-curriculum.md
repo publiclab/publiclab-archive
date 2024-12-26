@@ -1,6 +1,5 @@
 ---
-title: 'Student-led Community Science: A Curriculum'
-tagnames: education, workshop, curriculum, lesson_plan, parent:education, activity:education, location:blurred, place:united-states, lat:30, lon:-90, lesson, problem-based-learning, series:student-community-science, student-community-science, zoom:6
+title: "Student-led Community Science: A Curriculum"\ntagnames: 'education, workshop, curriculum, lesson_plan, parent:education, activity:education, location:blurred, place:united-states, lat:30, lon:-90, lesson, problem-based-learning, series:student-community-science, student-community-science, zoom:6'
 author: mimiss
 path: /wiki/student-led-community-science-in-the-classroom-a-curriculum.md
 nid: 19264

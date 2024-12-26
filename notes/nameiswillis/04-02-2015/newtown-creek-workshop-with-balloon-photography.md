@@ -1,6 +1,5 @@
 ---
-title: 'Newtown Creek Workshop with Balloon Photography'
-tagnames: new-york-city, balloon-mapping, newtown-creek, event, event:rsvp, rsvp:liz, date:04-12-2015, replication:14022
+title: "Newtown Creek Workshop with Balloon Photography"\ntagnames: 'new-york-city, balloon-mapping, newtown-creek, event, event:rsvp, rsvp:liz, date:04-12-2015, replication:14022'
 author: nameiswillis
 path: /notes/nameiswillis/04-02-2015/newtown-creek-workshop-with-balloon-photography.md
 nid: 11738
@@ -12,7 +11,7 @@ uid: 420464
 
 # Newtown Creek Workshop with Balloon Photography
 
-by [nameiswillis](../profile/nameiswillis) April 02, 2015 16:41
+by [nameiswillis](../profile/nameiswillis) | April 02, 2015 16:41
 
 April 02, 2015 16:41 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [newtown-creek](../tag/newtown-creek), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [date:04-12-2015](../tag/date:04-12-2015), [replication:14022](../tag/replication:14022)
 

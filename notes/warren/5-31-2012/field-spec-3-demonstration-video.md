@@ -1,6 +1,5 @@
 ---
-title: 'Field Spec 3 demonstration video'
-tagnames: spectrometer
+title: "Field Spec 3 demonstration video"\ntagnames: 'spectrometer'
 author: warren
 path: /notes/warren/5-31-2012/field-spec-3-demonstration-video.md
 nid: 2280
@@ -12,7 +11,7 @@ uid: 1
 
 # Field Spec 3 demonstration video
 
-by [warren](../profile/warren) May 31, 2012 19:35
+by [warren](../profile/warren) | May 31, 2012 19:35
 
 May 31, 2012 19:35 | Tags: [spectrometer](../tag/spectrometer)
 

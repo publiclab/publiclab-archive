@@ -1,6 +1,5 @@
 ---
-title: 'Image Analysis'
-tagnames: image-compositing, image-processing, infragram, image-interpretation, image-analysis
+title: "Image Analysis"\ntagnames: 'image-compositing, image-processing, infragram, image-interpretation, image-analysis'
 author: warren
 path: /wiki/image-analysis.md
 nid: 524

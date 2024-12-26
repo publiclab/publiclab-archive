@@ -1,6 +1,5 @@
 ---
-title: 'mmmp'
-tagnames: redirect:the-mountains-and-mines-monitoring-project
+title: "mmmp"\ntagnames: 'redirect:the-mountains-and-mines-monitoring-project'
 author: liz
 path: /wiki/mmmp.md
 nid: 27967

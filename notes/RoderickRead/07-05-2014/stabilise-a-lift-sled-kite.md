@@ -1,6 +1,5 @@
 ---
-title: 'stabilise a lift sled kite'
-tagnames: kite-mapping, photography, kite, kap, mapping, wind, energy, aerial, airborne, altitude
+title: "stabilise a lift sled kite"\ntagnames: 'kite-mapping, photography, kite, kap, mapping, wind, energy, aerial, airborne, altitude'
 author: RoderickRead
 path: /notes/RoderickRead/07-05-2014/stabilise-a-lift-sled-kite.md
 nid: 10660
@@ -12,7 +11,7 @@ uid: 421588
 
 # stabilise a lift sled kite
 
-by [RoderickRead](../profile/RoderickRead) July 05, 2014 08:46
+by [RoderickRead](../profile/RoderickRead) | July 05, 2014 08:46
 
 July 05, 2014 08:46 | Tags: [kite-mapping](../tag/kite-mapping), [photography](../tag/photography), [kite](../tag/kite), [kap](../tag/kap), [mapping](../tag/mapping), [wind](../tag/wind), [energy](../tag/energy), [aerial](../tag/aerial), [airborne](../tag/airborne), [altitude](../tag/altitude)
 

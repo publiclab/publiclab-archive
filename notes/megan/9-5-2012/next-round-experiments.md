@@ -1,6 +1,5 @@
 ---
-title: 'Next Round of Experiments'
-tagnames: hydrogen-sulfide-sensing, new-mexico, h2s
+title: "Next Round of Experiments"\ntagnames: 'hydrogen-sulfide-sensing, new-mexico, h2s'
 author: megan
 path: /notes/megan/9-5-2012/next-round-experiments.md
 nid: 3654
@@ -12,7 +11,7 @@ uid: 775
 
 # Next Round of Experiments
 
-by [megan](../profile/megan) September 05, 2012 18:17
+by [megan](../profile/megan) | September 05, 2012 18:17
 
 September 05, 2012 18:17 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [h2s](../tag/h2s)
 

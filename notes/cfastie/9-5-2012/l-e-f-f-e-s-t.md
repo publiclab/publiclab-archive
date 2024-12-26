@@ -1,6 +1,5 @@
 ---
-title: 'L E A F F E S T'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, hydrogen-sulfide-sensing, events, meetup, leaffest, event
+title: "L E A F F E S T"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, hydrogen-sulfide-sensing, events, meetup, leaffest, event'
 author: cfastie
 path: /notes/cfastie/9-5-2012/l-e-f-f-e-s-t.md
 nid: 3652
@@ -12,7 +11,7 @@ uid: 554
 
 # L E A F F E S T
 
-by [cfastie](../profile/cfastie) September 05, 2012 14:29
+by [cfastie](../profile/cfastie) | September 05, 2012 14:29
 
 September 05, 2012 14:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [events](../tag/events), [meetup](../tag/meetup), [leaffest](../tag/leaffest), [event](../tag/event)
 

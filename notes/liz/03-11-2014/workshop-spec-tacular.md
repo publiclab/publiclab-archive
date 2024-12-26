@@ -1,6 +1,5 @@
 ---
-title: 'Workshop: spec-tacular'
-tagnames: new-york-city, spectrometer, oil, fluorescence, event, oil-testing-kit
+title: "Workshop: spec-tacular"\ntagnames: 'new-york-city, spectrometer, oil, fluorescence, event, oil-testing-kit'
 author: liz
 path: /notes/liz/03-11-2014/workshop-spec-tacular.md
 nid: 10158
@@ -12,7 +11,7 @@ uid: 7
 
 # Workshop: spec-tacular
 
-by [liz](../profile/liz) March 11, 2014 14:40
+by [liz](../profile/liz) | March 11, 2014 14:40
 
 March 11, 2014 14:40 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [event](../tag/event), [oil-testing-kit](../tag/oil-testing-kit)
 

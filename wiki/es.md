@@ -1,6 +1,5 @@
 ---
-title: 'El Laboratorio Publico'
-tagnames: lang:es
+title: "El Laboratorio Publico"\ntagnames: 'lang:es'
 author: warren
 path: /wiki/es.md
 nid: 5

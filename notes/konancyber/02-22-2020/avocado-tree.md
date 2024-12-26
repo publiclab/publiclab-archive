@@ -1,6 +1,5 @@
 ---
-title: 'Avocado tree'
-tagnames: infragram, first-time-poster, zoom:6, infragram-upload, lat:19.621892, lon:99.777832
+title: "Avocado tree"\ntagnames: 'infragram, first-time-poster, zoom:6, infragram-upload, lat:19.621892, lon:99.777832'
 author: konancyber
 path: /notes/konancyber/02-22-2020/avocado-tree.md
 nid: 22898
@@ -12,7 +11,7 @@ uid: 667420
 
 # Avocado tree
 
-by [konancyber](../profile/konancyber) February 22, 2020 07:45
+by [konancyber](../profile/konancyber) | February 22, 2020 07:45
 
 February 22, 2020 07:45 | Tags: [infragram](../tag/infragram), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [infragram-upload](../tag/infragram-upload), [lat:19.621892](../tag/lat:19.621892), [lon:99.777832](../tag/lon:99.777832)
 

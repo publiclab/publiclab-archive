@@ -1,6 +1,5 @@
 ---
-title: ' The suspicious drain on the Suquía river'
-tagnames: sewage, water-quality, pollution, stormwater, barnstar:empiricism, tampon, wastewater, south-america, lat:-30, zoom:3, zoom:18, research-curation-fellows, appear, lon:-60, bioindicators, lat:-31.403194, lon:-64.204285
+title: " The suspicious drain on the Suquía river"\ntagnames: 'sewage, water-quality, pollution, stormwater, barnstar:empiricism, tampon, wastewater, south-america, lat:-30, zoom:3, zoom:18, research-curation-fellows, appear, lon:-60, bioindicators, lat:-31.403194, lon:-64.204285'
 author: alejobonifacio
 path: /notes/alejobonifacio/11-12-2021/the-suspicious-drain-on-the-suquia-river.md
 nid: 27853
@@ -12,7 +11,7 @@ uid: 639376
 
 #  The suspicious drain on the Suquía river
 
-by [alejobonifacio](../profile/alejobonifacio) November 12, 2021 02:08
+by [alejobonifacio](../profile/alejobonifacio) | November 12, 2021 02:08
 
 November 12, 2021 02:08 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [pollution](../tag/pollution), [stormwater](../tag/stormwater), [barnstar:empiricism](../tag/barnstar:empiricism), [tampon](../tag/tampon), [wastewater](../tag/wastewater), [south-america](../tag/south-america), [lat:-30](../tag/lat:-30), [zoom:3](../tag/zoom:3), [zoom:18](../tag/zoom:18), [research-curation-fellows](../tag/research-curation-fellows), [appear](../tag/appear), [lon:-60](../tag/lon:-60), [bioindicators](../tag/bioindicators), [lat:-31.403194](../tag/lat:-31.403194), [lon:-64.204285](../tag/lon:-64.204285)
 

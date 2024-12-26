@@ -1,6 +1,5 @@
 ---
-title: 'Hot off the presses--Public Lab waterproof pocket notebooks!'
-tagnames: sustaining-members
+title: "Hot off the presses--Public Lab waterproof pocket notebooks!"\ntagnames: 'sustaining-members'
 author: Becki
 path: /notes/Becki/02-09-2015/hot-off-the-presses-public-lab-waterproof-pocket-notebooks.md
 nid: 11570
@@ -12,7 +11,7 @@ uid: 46673
 
 # Hot off the presses--Public Lab waterproof pocket notebooks!
 
-by [Becki](../profile/Becki) February 09, 2015 23:56
+by [Becki](../profile/Becki) | February 09, 2015 23:56
 
 February 09, 2015 23:56 | Tags: [sustaining-members](../tag/sustaining-members)
 

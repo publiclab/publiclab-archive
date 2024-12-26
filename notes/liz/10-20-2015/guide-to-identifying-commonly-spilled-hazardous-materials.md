@@ -1,6 +1,5 @@
 ---
-title: 'guide to identifying commonly spilled hazardous materials'
-tagnames: material-identification, hazardous-materials
+title: "guide to identifying commonly spilled hazardous materials"\ntagnames: 'material-identification, hazardous-materials'
 author: liz
 path: /notes/liz/10-20-2015/guide-to-identifying-commonly-spilled-hazardous-materials.md
 nid: 12321
@@ -12,7 +11,7 @@ uid: 7
 
 # guide to identifying commonly spilled hazardous materials
 
-by [liz](../profile/liz) October 20, 2015 19:57
+by [liz](../profile/liz) | October 20, 2015 19:57
 
 October 20, 2015 19:57 | Tags: [material-identification](../tag/material-identification), [hazardous-materials](../tag/hazardous-materials)
 

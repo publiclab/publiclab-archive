@@ -1,6 +1,5 @@
 ---
-title: 'How about a book club on "Are we all scientific experts now?"'
-tagnames: readings
+title: "How about a book club on "Are we all scientific experts now?""\ntagnames: 'readings'
 author: liz
 path: /notes/liz/03-12-2015/how-about-a-book-club-on-are-we-all-scientific-experts-now.md
 nid: 11672
@@ -12,7 +11,7 @@ uid: 7
 
 # How about a book club on "Are we all scientific experts now?"
 
-by [liz](../profile/liz) March 12, 2015 15:04
+by [liz](../profile/liz) | March 12, 2015 15:04
 
 March 12, 2015 15:04 | Tags: [readings](../tag/readings)
 

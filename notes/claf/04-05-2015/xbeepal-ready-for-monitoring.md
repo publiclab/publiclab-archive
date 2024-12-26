@@ -1,6 +1,5 @@
 ---
-title: 'XbeePal ready for monitoring'
-tagnames: air-quality, fracking, mesh, xbee, zigbee, network
+title: "XbeePal ready for monitoring"\ntagnames: 'air-quality, fracking, mesh, xbee, zigbee, network'
 author: claf
 path: /notes/claf/04-05-2015/xbeepal-ready-for-monitoring.md
 nid: 11743
@@ -12,7 +11,7 @@ uid: 426041
 
 # XbeePal ready for monitoring
 
-by [claf](../profile/claf) April 05, 2015 16:40
+by [claf](../profile/claf) | April 05, 2015 16:40
 
 April 05, 2015 16:40 | Tags: [air-quality](../tag/air-quality), [fracking](../tag/fracking), [mesh](../tag/mesh), [xbee](../tag/xbee), [zigbee](../tag/zigbee), [network](../tag/network)
 

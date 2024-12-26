@@ -1,6 +1,5 @@
 ---
-title: 'London UK'
-tagnames: london, uk, chapter, eu, place:london
+title: "London UK"\ntagnames: 'london, uk, chapter, eu, place:london'
 author: cesarharada
 path: /wiki/london-uk.md
 nid: 512

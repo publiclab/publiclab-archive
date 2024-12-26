@@ -1,6 +1,5 @@
 ---
-title: 'SmART-FORM Badge Lighting Analysis Experiments'
-tagnames: image-processing, air-quality, air, app, smartphone, quality, barnstar:basic, formaldehyde, colorimetry, indoor-air-quality-monitoring, indoor-air-quality, indoor-air, smart-form
+title: "SmART-FORM Badge Lighting Analysis Experiments"\ntagnames: 'image-processing, air-quality, air, app, smartphone, quality, barnstar:basic, formaldehyde, colorimetry, indoor-air-quality-monitoring, indoor-air-quality, indoor-air, smart-form'
 author: haines241
 path: /notes/haines241/03-06-2018/smart-form-badge-lighting-analysis-experiments.md
 nid: 15868
@@ -12,7 +11,7 @@ uid: 526768
 
 # SmART-FORM Badge Lighting Analysis Experiments
 
-by [haines241](../profile/haines241) March 06, 2018 15:52
+by [haines241](../profile/haines241) | March 06, 2018 15:52
 
 March 06, 2018 15:52 | Tags: [image-processing](../tag/image-processing), [air-quality](../tag/air-quality), [air](../tag/air), [app](../tag/app), [smartphone](../tag/smartphone), [quality](../tag/quality), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [colorimetry](../tag/colorimetry), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [smart-form](../tag/smart-form)
 

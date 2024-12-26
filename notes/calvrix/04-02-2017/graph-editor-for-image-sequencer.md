@@ -1,6 +1,5 @@
 ---
-title: 'Graph Editor for Image-sequencer'
-tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, first-time-poster
+title: "Graph Editor for Image-sequencer"\ntagnames: 'software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, first-time-poster'
 author: calvrix
 path: /notes/calvrix/04-02-2017/graph-editor-for-image-sequencer.md
 nid: 14079
@@ -12,7 +11,7 @@ uid: 503867
 
 # Graph Editor for Image-sequencer
 
-by [calvrix](../profile/calvrix) April 02, 2017 09:32
+by [calvrix](../profile/calvrix) | April 02, 2017 09:32
 
 April 02, 2017 09:32 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster)
 

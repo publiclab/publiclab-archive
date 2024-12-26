@@ -1,6 +1,5 @@
 ---
-title: 'Job Posting: Executive Director, Public Lab'
-tagnames: nonprofit, jobs, director, executive
+title: "Job Posting: Executive Director, Public Lab"\ntagnames: 'nonprofit, jobs, director, executive'
 author: thewrightjess
 path: /notes/thewrightjess/05-07-2020/job-posting-executive-director-public-lab.md
 nid: 23559
@@ -12,7 +11,7 @@ uid: 603909
 
 # Job Posting: Executive Director, Public Lab
 
-by [thewrightjess](../profile/thewrightjess) May 07, 2020 15:46
+by [thewrightjess](../profile/thewrightjess) | May 07, 2020 15:46
 
 May 07, 2020 15:46 | Tags: [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [director](../tag/director), [executive](../tag/executive)
 

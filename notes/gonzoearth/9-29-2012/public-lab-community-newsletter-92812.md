@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab community newsletter 9.28.12'
-tagnames: newsletter, newsletter-archive
+title: "Public Lab community newsletter 9.28.12"\ntagnames: 'newsletter, newsletter-archive'
 author: gonzoearth
 path: /notes/gonzoearth/9-29-2012/public-lab-community-newsletter-92812.md
 nid: 4093
@@ -10,7 +9,7 @@ uid: 12
 
 # Public Lab community newsletter 9.28.12
 
-by [gonzoearth](../profile/gonzoearth) September 29, 2012 05:14
+by [gonzoearth](../profile/gonzoearth) | September 29, 2012 05:14
 
 September 29, 2012 05:14 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 

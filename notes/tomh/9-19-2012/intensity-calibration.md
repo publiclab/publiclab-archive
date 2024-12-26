@@ -1,6 +1,5 @@
 ---
-title: 'intensity calibration'
-tagnames: spectrometer, calibration, spectralworkbench, radiometric-calibration, first-time-poster
+title: "intensity calibration"\ntagnames: 'spectrometer, calibration, spectralworkbench, radiometric-calibration, first-time-poster'
 author: Tom_H
 path: /notes/tomh/9-19-2012/intensity-calibration.md
 nid: 3886
@@ -10,7 +9,7 @@ uid: 43352
 
 # intensity calibration
 
-by [Tom_H](../profile/Tom_H) September 19, 2012 21:02
+by [Tom_H](../profile/Tom_H) | September 19, 2012 21:02
 
 September 19, 2012 21:02 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [spectralworkbench](../tag/spectralworkbench), [radiometric-calibration](../tag/radiometric-calibration), [first-time-poster](../tag/first-time-poster)
 

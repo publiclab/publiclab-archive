@@ -1,6 +1,5 @@
 ---
-title: 'Event: Dec. 13-17 is Air Quality Data Week at Public Lab!'
-tagnames: event, air-quality, event:rsvp, reviews, data-visualization, research-area-review, research-curation-fellows-event, presenting-data, with:fongvania, air-quality-data, rsvp:angappan367, date:12-16-2021, rsvp:cboggs18
+title: "Event: Dec. 13-17 is Air Quality Data Week at Public Lab!"\ntagnames: 'event, air-quality, event:rsvp, reviews, data-visualization, research-area-review, research-curation-fellows-event, presenting-data, with:fongvania, air-quality-data, rsvp:angappan367, date:12-16-2021, rsvp:cboggs18'
 author: bhamster
 path: /notes/bhamster/12-01-2021/event-dec-13-17-is-air-quality-data-week-at-public-lab.md
 nid: 28325
@@ -12,7 +11,7 @@ uid: 664477
 
 # Event: Dec. 13-17 is Air Quality Data Week at Public Lab!
 
-by [bhamster](../profile/bhamster) December 01, 2021 22:24
+by [bhamster](../profile/bhamster) | December 01, 2021 22:24
 
 December 01, 2021 22:24 | Tags: [event](../tag/event), [air-quality](../tag/air-quality), [event:rsvp](../tag/event:rsvp), [reviews](../tag/reviews), [data-visualization](../tag/data-visualization), [research-area-review](../tag/research-area-review), [research-curation-fellows-event](../tag/research-curation-fellows-event), [presenting-data](../tag/presenting-data), [with:fongvania](../tag/with:fongvania), [air-quality-data](../tag/air-quality-data), [rsvp:angappan367](../tag/rsvp:angappan367), [date:12-16-2021](../tag/date:12-16-2021), [rsvp:cboggs18](../tag/rsvp:cboggs18)
 

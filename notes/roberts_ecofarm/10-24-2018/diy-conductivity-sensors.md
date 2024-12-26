@@ -1,6 +1,5 @@
 ---
-title: 'DIY conductivity Sensors'
-tagnames: water-sensing, water-quality, conductivity, riffle, sensor, coqui, answered, question:water-quality, question:data-logging, question:conductivity, location:blurred, lat:40, lon:-80, place:ohio, first-time-poster
+title: "DIY conductivity Sensors"\ntagnames: 'water-sensing, water-quality, conductivity, riffle, sensor, coqui, answered, question:water-quality, question:data-logging, question:conductivity, location:blurred, lat:40, lon:-80, place:ohio, first-time-poster'
 author: roberts_ecofarm
 path: /notes/roberts_ecofarm/10-24-2018/diy-conductivity-sensors.md
 nid: 17365
@@ -10,7 +9,7 @@ uid: 556121
 
 # DIY conductivity Sensors
 
-by [roberts_ecofarm](../profile/roberts_ecofarm) October 24, 2018 01:58
+by [roberts_ecofarm](../profile/roberts_ecofarm) | October 24, 2018 01:58
 
 October 24, 2018 01:58 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [sensor](../tag/sensor), [coqui](../tag/coqui), [answered](../tag/answered), [question:water-quality](../tag/question:water-quality), [question:data-logging](../tag/question:data-logging), [question:conductivity](../tag/question:conductivity), [location:blurred](../tag/location:blurred), [lat:40](../tag/lat:40), [lon:-80](../tag/lon:-80), [place:ohio](../tag/place:ohio), [first-time-poster](../tag/first-time-poster)
 

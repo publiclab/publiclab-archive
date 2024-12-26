@@ -1,6 +1,5 @@
 ---
-title: 'Wetlands Toolkit'
-tagnames: wetlands, epa, pole-mapping, urbanwaters, wetlands-toolkit, toolkit, workshop-series
+title: "Wetlands Toolkit"\ntagnames: 'wetlands, epa, pole-mapping, urbanwaters, wetlands-toolkit, toolkit, workshop-series'
 author: liz
 path: /wiki/wetlands-toolkit.md
 nid: 11776

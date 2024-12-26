@@ -1,6 +1,5 @@
 ---
-title: 'northeast-usa'
-tagnames: 
+title: "northeast-usa"\ntagnames: ''
 author: liz
 path: /wiki/northeast-usa.md
 nid: 10217

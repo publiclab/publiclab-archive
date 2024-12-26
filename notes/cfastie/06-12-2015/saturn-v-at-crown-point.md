@@ -1,6 +1,5 @@
 ---
-title: 'Saturn V at Crown Point'
-tagnames: kite-aerial-photography, kap, autokap, kaptery, saturnv, skyshield, response:11900, half-spherical
+title: "Saturn V at Crown Point"\ntagnames: 'kite-aerial-photography, kap, autokap, kaptery, saturnv, skyshield, response:11900, half-spherical'
 author: cfastie
 path: /notes/cfastie/06-12-2015/saturn-v-at-crown-point.md
 nid: 11975
@@ -12,7 +11,7 @@ uid: 554
 
 # Saturn V at Crown Point
 
-by [cfastie](../profile/cfastie) June 12, 2015 04:55
+by [cfastie](../profile/cfastie) | June 12, 2015 04:55
 
 June 12, 2015 04:55 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [response:11900](../tag/response:11900), [half-spherical](../tag/half-spherical)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Nitrogen Cycle Facts'
-tagnames: lat:22, first-time-poster, lon:76, zoom:6
+title: "Nitrogen Cycle Facts"\ntagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/10-18-2022/nitrogen-cycle-facts.md
 nid: 35482
@@ -12,7 +11,7 @@ uid: 788868
 
 # Nitrogen Cycle Facts
 
-by [TheChessGym](../profile/TheChessGym) October 18, 2022 12:14
+by [TheChessGym](../profile/TheChessGym) | October 18, 2022 12:14
 
 October 18, 2022 12:14 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

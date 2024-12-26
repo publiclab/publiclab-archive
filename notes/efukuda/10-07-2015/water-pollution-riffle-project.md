@@ -1,6 +1,5 @@
 ---
-title: 'Water Pollution (Riffle) Project'
-tagnames: 
+title: "Water Pollution (Riffle) Project"\ntagnames: ''
 author: efukuda
 path: /notes/efukuda/10-07-2015/water-pollution-riffle-project.md
 nid: 12274
@@ -10,7 +9,7 @@ uid: 453502
 
 # Water Pollution (Riffle) Project
 
-by [efukuda](../profile/efukuda) October 07, 2015 13:02
+by [efukuda](../profile/efukuda) | October 07, 2015 13:02
 
 October 07, 2015 13:02 | Tags: 
 

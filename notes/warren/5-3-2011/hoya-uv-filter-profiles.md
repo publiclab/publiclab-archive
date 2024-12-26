@@ -1,6 +1,5 @@
 ---
-title: 'Hoya UV filter profiles'
-tagnames: 
+title: "Hoya UV filter profiles"\ntagnames: ''
 author: warren
 path: /notes/warren/5-3-2011/hoya-uv-filter-profiles.md
 nid: 212
@@ -12,7 +11,7 @@ uid: 1
 
 # Hoya UV filter profiles
 
-by [warren](../profile/warren) May 03, 2011 16:17
+by [warren](../profile/warren) | May 03, 2011 16:17
 
 May 03, 2011 16:17 | Tags: 
 

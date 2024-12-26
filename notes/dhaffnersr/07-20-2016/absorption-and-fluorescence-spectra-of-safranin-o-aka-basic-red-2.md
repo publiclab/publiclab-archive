@@ -1,6 +1,5 @@
 ---
-title: 'Absorption and Fluorescence Spectra of Safranin O (aka., Basic Red #2)'
-tagnames: 
+title: "Absorption and Fluorescence Spectra of Safranin O (aka., Basic Red #2)"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/07-20-2016/absorption-and-fluorescence-spectra-of-safranin-o-aka-basic-red-2.md
 nid: 13302
@@ -12,7 +11,7 @@ uid: 461120
 
 # Absorption and Fluorescence Spectra of Safranin O (aka., Basic Red #2)
 
-by [dhaffnersr](../profile/dhaffnersr) July 20, 2016 12:51
+by [dhaffnersr](../profile/dhaffnersr) | July 20, 2016 12:51
 
 July 20, 2016 12:51 | Tags: 
 

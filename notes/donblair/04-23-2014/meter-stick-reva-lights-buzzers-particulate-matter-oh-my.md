@@ -1,6 +1,5 @@
 ---
-title: 'Meter Stick REVA: Lights, Buzzers, Particulate Matter ... oh, my!'
-tagnames: particulate-sensing, barnstar:basic
+title: "Meter Stick REVA: Lights, Buzzers, Particulate Matter ... oh, my!"\ntagnames: 'particulate-sensing, barnstar:basic'
 author: donblair
 path: /notes/donblair/04-23-2014/meter-stick-reva-lights-buzzers-particulate-matter-oh-my.md
 nid: 10349
@@ -12,7 +11,7 @@ uid: 43651
 
 # Meter Stick REVA: Lights, Buzzers, Particulate Matter ... oh, my!
 
-by [donblair](../profile/donblair) April 23, 2014 23:27
+by [donblair](../profile/donblair) | April 23, 2014 23:27
 
 April 23, 2014 23:27 | Tags: [particulate-sensing](../tag/particulate-sensing), [barnstar:basic](../tag/barnstar:basic)
 

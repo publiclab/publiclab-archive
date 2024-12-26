@@ -1,6 +1,5 @@
 ---
-title: 'NDVI from Infrablue'
-tagnames: near-infrared-camera, ndvi, nir, vermont, infrared, new-york, infragram, rosco, infrablue, histogram, response:8190, response:8018, response:8196, response:8224
+title: "NDVI from Infrablue"\ntagnames: 'near-infrared-camera, ndvi, nir, vermont, infrared, new-york, infragram, rosco, infrablue, histogram, response:8190, response:8018, response:8196, response:8224'
 author: cfastie
 path: /notes/cfastie/06-20-2013/ndvi-from-infrablue.md
 nid: 8308
@@ -12,7 +11,7 @@ uid: 554
 
 # NDVI from Infrablue
 
-by [cfastie](../profile/cfastie) June 20, 2013 03:55
+by [cfastie](../profile/cfastie) | June 20, 2013 03:55
 
 June 20, 2013 03:55 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared](../tag/infrared), [new-york](../tag/new-york), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [histogram](../tag/histogram), [response:8190](../tag/response:8190), [response:8018](../tag/response:8018), [response:8196](../tag/response:8196), [response:8224](../tag/response:8224)
 

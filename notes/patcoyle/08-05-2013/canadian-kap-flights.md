@@ -1,6 +1,5 @@
 ---
-title: 'Canadian KAP flights'
-tagnames: kite-mapping, kap, canada
+title: "Canadian KAP flights"\ntagnames: 'kite-mapping, kap, canada'
 author: patcoyle
 path: /notes/patcoyle/08-05-2013/canadian-kap-flights.md
 nid: 8962
@@ -12,7 +11,7 @@ uid: 77
 
 # Canadian KAP flights
 
-by [patcoyle](../profile/patcoyle) August 05, 2013 17:00
+by [patcoyle](../profile/patcoyle) | August 05, 2013 17:00
 
 August 05, 2013 17:00 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [canada](../tag/canada)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Finding Helium'
-tagnames: balloon-mapping, kite-mapping
+title: "Finding Helium"\ntagnames: 'balloon-mapping, kite-mapping'
 author: gonzoearth
 path: /notes/gonzoearth/6-28-2012/finding-helium.md
 nid: 2666
@@ -12,7 +11,7 @@ uid: 12
 
 # Finding Helium
 
-by [gonzoearth](../profile/gonzoearth) June 29, 2012 03:57
+by [gonzoearth](../profile/gonzoearth) | June 29, 2012 03:57
 
 June 29, 2012 03:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 

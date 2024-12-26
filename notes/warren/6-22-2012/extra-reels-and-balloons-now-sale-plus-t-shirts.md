@@ -1,6 +1,5 @@
 ---
-title: 'Extra reels and balloons now for sale, plus T-shirts!'
-tagnames: retail, shop, tshirt, kits, store
+title: "Extra reels and balloons now for sale, plus T-shirts!"\ntagnames: 'retail, shop, tshirt, kits, store'
 author: warren
 path: /notes/warren/6-22-2012/extra-reels-and-balloons-now-sale-plus-t-shirts.md
 nid: 2612
@@ -12,7 +11,7 @@ uid: 1
 
 # Extra reels and balloons now for sale, plus T-shirts!
 
-by [warren](../profile/warren) June 22, 2012 19:57
+by [warren](../profile/warren) | June 22, 2012 19:57
 
 June 22, 2012 19:57 | Tags: [retail](../tag/retail), [shop](../tag/shop), [tshirt](../tag/tshirt), [kits](../tag/kits), [store](../tag/store)
 

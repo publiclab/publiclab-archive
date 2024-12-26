@@ -1,6 +1,5 @@
 ---
-title: 'March Mapping Madness-Boston'
-tagnames: balloon-mapping, somerville-massachusetts
+title: "March Mapping Madness-Boston"\ntagnames: 'balloon-mapping, somerville-massachusetts'
 author: sara
 path: /wiki/march-mapping-madness-boston.md
 nid: 890

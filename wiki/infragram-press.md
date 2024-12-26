@@ -1,6 +1,5 @@
 ---
-title: 'infragram-press'
-tagnames: 
+title: "infragram-press"\ntagnames: ''
 author: liz
 path: /wiki/infragram-press.md
 nid: 7863

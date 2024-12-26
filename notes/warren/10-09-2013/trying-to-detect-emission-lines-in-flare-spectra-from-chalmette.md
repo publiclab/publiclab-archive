@@ -1,6 +1,5 @@
 ---
-title: 'Trying to detect emission lines in flare spectra from Chalmette'
-tagnames: gulf-coast, spectrometer, louisiana, analysis, emission-spectroscopy, spectral-analysis, spectral-workbench, flare, smoothing, chalmette, response:8946, response:8944, location:blurred, lat:29, lon:-89, place:chalmette-la
+title: "Trying to detect emission lines in flare spectra from Chalmette"\ntagnames: 'gulf-coast, spectrometer, louisiana, analysis, emission-spectroscopy, spectral-analysis, spectral-workbench, flare, smoothing, chalmette, response:8946, response:8944, location:blurred, lat:29, lon:-89, place:chalmette-la'
 author: warren
 path: /notes/warren/10-09-2013/trying-to-detect-emission-lines-in-flare-spectra-from-chalmette.md
 nid: 9430
@@ -12,7 +11,7 @@ uid: 1
 
 # Trying to detect emission lines in flare spectra from Chalmette
 
-by [warren](../profile/warren) October 09, 2013 18:15
+by [warren](../profile/warren) | October 09, 2013 18:15
 
 October 09, 2013 18:15 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [louisiana](../tag/louisiana), [analysis](../tag/analysis), [emission-spectroscopy](../tag/emission-spectroscopy), [spectral-analysis](../tag/spectral-analysis), [spectral-workbench](../tag/spectral-workbench), [flare](../tag/flare), [smoothing](../tag/smoothing), [chalmette](../tag/chalmette), [response:8946](../tag/response:8946), [response:8944](../tag/response:8944), [location:blurred](../tag/location:blurred), [lat:29](../tag/lat:29), [lon:-89](../tag/lon:-89), [place:chalmette-la](../tag/place:chalmette-la)
 

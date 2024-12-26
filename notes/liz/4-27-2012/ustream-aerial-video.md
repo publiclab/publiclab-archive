@@ -1,6 +1,5 @@
 ---
-title: 'uStream aerial video'
-tagnames: balloon-mapping, live-streaming
+title: "uStream aerial video"\ntagnames: 'balloon-mapping, live-streaming'
 author: liz
 path: /notes/liz/4-27-2012/ustream-aerial-video.md
 nid: 1818
@@ -10,7 +9,7 @@ uid: 7
 
 # uStream aerial video
 
-by [liz](../profile/liz) April 27, 2012 18:05
+by [liz](../profile/liz) | April 27, 2012 18:05
 
 April 27, 2012 18:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [live-streaming](../tag/live-streaming)
 

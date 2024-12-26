@@ -1,6 +1,5 @@
 ---
-title: 'DIY Mini Kite Kit first flight'
-tagnames: kite-mapping, kap, kap-rigs, diy-mount-kit, difficulty:easy, seeks:replications, category:field-test, time:1h, activity:aerial-photography, activity:kite-mapping
+title: "DIY Mini Kite Kit first flight"\ntagnames: 'kite-mapping, kap, kap-rigs, diy-mount-kit, difficulty:easy, seeks:replications, category:field-test, time:1h, activity:aerial-photography, activity:kite-mapping'
 author: mathew
 path: /notes/mathew/06-03-2016/diy-mini-kite-kit-first-flight.md
 nid: 13163
@@ -12,7 +11,7 @@ uid: 4
 
 # DIY Mini Kite Kit first flight
 
-by [mathew](../profile/mathew) June 03, 2016 23:26
+by [mathew](../profile/mathew) | June 03, 2016 23:26
 
 June 03, 2016 23:26 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [kap-rigs](../tag/kap-rigs), [diy-mount-kit](../tag/diy-mount-kit), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications), [category:field-test](../tag/category:field-test), [time:1h](../tag/time:1h), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping)
 

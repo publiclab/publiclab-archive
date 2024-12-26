@@ -1,6 +1,5 @@
 ---
-title: 'Aerial Photography Rigging Needs'
-tagnames: balloon-mapping, kite-mapping, kite, photo-rig, balloon, feedback, reconfigurable-rig
+title: "Aerial Photography Rigging Needs"\ntagnames: 'balloon-mapping, kite-mapping, kite, photo-rig, balloon, feedback, reconfigurable-rig'
 author: mathew
 path: /notes/mathew/06-24-2016/aerial-photography-rigging-needs.md
 nid: 13243
@@ -12,7 +11,7 @@ uid: 4
 
 # Aerial Photography Rigging Needs
 
-by [mathew](../profile/mathew) June 24, 2016 23:33
+by [mathew](../profile/mathew) | June 24, 2016 23:33
 
 June 24, 2016 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [balloon](../tag/balloon), [feedback](../tag/feedback), [reconfigurable-rig](../tag/reconfigurable-rig)
 

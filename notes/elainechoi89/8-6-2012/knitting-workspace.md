@@ -1,6 +1,5 @@
 ---
-title: 'Knitting a Workspace'
-tagnames: kite, spaces
+title: "Knitting a Workspace"\ntagnames: 'kite, spaces'
 author: elainechoi89
 path: /notes/elainechoi89/8-6-2012/knitting-workspace.md
 nid: 3152
@@ -12,7 +11,7 @@ uid: 6102
 
 # Knitting a Workspace
 
-by [elainechoi89](../profile/elainechoi89) August 06, 2012 20:56
+by [elainechoi89](../profile/elainechoi89) | August 06, 2012 20:56
 
 August 06, 2012 20:56 | Tags: [kite](../tag/kite), [spaces](../tag/spaces)
 

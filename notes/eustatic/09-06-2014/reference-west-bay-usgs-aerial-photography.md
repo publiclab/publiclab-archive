@@ -1,6 +1,5 @@
 ---
-title: '[Reference] west bay USGS aerial photography for land change analysis'
-tagnames: gulf-coast, balloon-mapping, nrg, multispectral, mapknitter, wetlands, infrared, louisiana, coastal, response:10243, response:10381, propublica, west-bay, place:west-bay-mississippi-river-delta
+title: "[Reference] west bay USGS aerial photography for land change analysis"\ntagnames: 'gulf-coast, balloon-mapping, nrg, multispectral, mapknitter, wetlands, infrared, louisiana, coastal, response:10243, response:10381, propublica, west-bay, place:west-bay-mississippi-river-delta'
 author: eustatic
 path: /09-06-2014/reference-west-bay-usgs-aerial-photography.md
 nid: 11110
@@ -12,7 +11,7 @@ uid: 379
 
 # [Reference] west bay USGS aerial photography for land change analysis
 
-by [eustatic](../profile/eustatic) September 06, 2014 03:12
+by [eustatic](../profile/eustatic) | September 06, 2014 03:12
 
 September 06, 2014 03:12 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [nrg](../tag/nrg), [multispectral](../tag/multispectral), [mapknitter](../tag/mapknitter), [wetlands](../tag/wetlands), [infrared](../tag/infrared), [louisiana](../tag/louisiana), [coastal](../tag/coastal), [response:10243](../tag/response:10243), [response:10381](../tag/response:10381), [propublica](../tag/propublica), [west-bay](../tag/west-bay), [place:west-bay-mississippi-river-delta](../tag/place:west-bay-mississippi-river-delta)
 

@@ -1,6 +1,5 @@
 ---
-title: 'What are some options for low cost methane monitoring? '
-tagnames: air-quality, methane, question:general
+title: "What are some options for low cost methane monitoring? "\ntagnames: 'air-quality, methane, question:general'
 author: stevie
 path: /notes/stevie/07-12-2017/what-are-some-options-for-low-cost-methane-monitoring.md
 nid: 14645
@@ -10,7 +9,7 @@ uid: 422561
 
 # What are some options for low cost methane monitoring? 
 
-by [stevie](../profile/stevie) July 12, 2017 14:45
+by [stevie](../profile/stevie) | July 12, 2017 14:45
 
 July 12, 2017 14:45 | Tags: [air-quality](../tag/air-quality), [methane](../tag/methane), [question:general](../tag/question:general)
 

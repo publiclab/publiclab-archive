@@ -1,6 +1,5 @@
 ---
-title: 'Can I measure CSF turbidity in real time?'
-tagnames: arduino, spectrometry, raman, biohacking, spectro, question:spectrometry, lat:38, location:blurred, first-time-poster, zoom:6, neuroscience, lon:27, place:turkey
+title: "Can I measure CSF turbidity in real time?"\ntagnames: 'arduino, spectrometry, raman, biohacking, spectro, question:spectrometry, lat:38, location:blurred, first-time-poster, zoom:6, neuroscience, lon:27, place:turkey'
 author: Cheesealmighty
 path: /notes/Cheesealmighty/03-17-2022/can-i-measure-csf-turbidity-in-real-time.md
 nid: 30136
@@ -10,7 +9,7 @@ uid: 791975
 
 # Can I measure CSF turbidity in real time?
 
-by [Cheesealmighty](../profile/Cheesealmighty) March 17, 2022 10:23
+by [Cheesealmighty](../profile/Cheesealmighty) | March 17, 2022 10:23
 
 March 17, 2022 10:23 | Tags: [arduino](../tag/arduino), [spectrometry](../tag/spectrometry), [raman](../tag/raman), [biohacking](../tag/biohacking), [spectro](../tag/spectro), [question:spectrometry](../tag/question:spectrometry), [lat:38](../tag/lat:38), [location:blurred](../tag/location:blurred), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [neuroscience](../tag/neuroscience), [lon:27](../tag/lon:27), [place:turkey](../tag/place:turkey)
 

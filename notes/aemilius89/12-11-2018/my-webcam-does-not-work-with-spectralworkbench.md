@@ -1,6 +1,5 @@
 ---
-title: 'My webcam does not work with spectralworkbench'
-tagnames: 
+title: "My webcam does not work with spectralworkbench"\ntagnames: ''
 author: aemilius89
 path: /notes/aemilius89/12-11-2018/my-webcam-does-not-work-with-spectralworkbench.md
 nid: 17863
@@ -10,7 +9,7 @@ uid: 561190
 
 # My webcam does not work with spectralworkbench
 
-by [aemilius89](../profile/aemilius89) December 11, 2018 11:15
+by [aemilius89](../profile/aemilius89) | December 11, 2018 11:15
 
 December 11, 2018 11:15 | Tags: 
 

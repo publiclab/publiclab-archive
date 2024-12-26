@@ -1,6 +1,5 @@
 ---
-title: 'How to process infragram images'
-tagnames: agriculture, newark, new-jersey, urban-ag, infragram, garden, pole-aerial-photography, elp, northeast, with:thegreencommunitygarden, ndvi-comparison, question:ndvi-comparison
+title: "How to process infragram images"\ntagnames: 'agriculture, newark, new-jersey, urban-ag, infragram, garden, pole-aerial-photography, elp, northeast, with:thegreencommunitygarden, ndvi-comparison, question:ndvi-comparison'
 author: liz
 path: /notes/liz/09-30-2014/how-to-process-infragram-images.md
 nid: 11212
@@ -12,7 +11,7 @@ uid: 7
 
 # How to process infragram images
 
-by [liz](../profile/liz) September 30, 2014 21:50
+by [liz](../profile/liz) | September 30, 2014 21:50
 
 September 30, 2014 21:50 | Tags: [agriculture](../tag/agriculture), [newark](../tag/newark), [new-jersey](../tag/new-jersey), [urban-ag](../tag/urban-ag), [infragram](../tag/infragram), [garden](../tag/garden), [pole-aerial-photography](../tag/pole-aerial-photography), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden), [ndvi-comparison](../tag/ndvi-comparison), [question:ndvi-comparison](../tag/question:ndvi-comparison)
 

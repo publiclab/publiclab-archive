@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Community Newsletter: December 2017'
-tagnames: gulf-coast, newsletter, kits, barnraising, lumcon, news, staff, microscope, open-call, community-kits
+title: "Public Lab Community Newsletter: December 2017"\ntagnames: 'gulf-coast, newsletter, kits, barnraising, lumcon, news, staff, microscope, open-call, community-kits'
 author: Delaney
 path: /notes/Delaney/12-12-2017/public-lab-community-newsletter-december-2017.md
 nid: 15355
@@ -12,7 +11,7 @@ uid: 517173
 
 # Public Lab Community Newsletter: December 2017
 
-by [Delaney](../profile/Delaney) December 12, 2017 19:58
+by [Delaney](../profile/Delaney) | December 12, 2017 19:58
 
 December 12, 2017 19:58 | Tags: [gulf-coast](../tag/gulf-coast), [newsletter](../tag/newsletter), [kits](../tag/kits), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [news](../tag/news), [staff](../tag/staff), [microscope](../tag/microscope), [open-call](../tag/open-call), [community-kits](../tag/community-kits)
 

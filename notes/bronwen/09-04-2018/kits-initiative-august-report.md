@@ -1,6 +1,5 @@
 ---
-title: 'Kits Initiative: August Report'
-tagnames: newsletter, kits, kits-initiative
+title: "Kits Initiative: August Report"\ntagnames: 'newsletter, kits, kits-initiative'
 author: Bronwen
 path: /notes/bronwen/09-04-2018/kits-initiative-august-report.md
 nid: 17060
@@ -12,7 +11,7 @@ uid: 237313
 
 # Kits Initiative: August Report
 
-by [Bronwen](../profile/Bronwen) September 04, 2018 19:03
+by [Bronwen](../profile/Bronwen) | September 04, 2018 19:03
 
 September 04, 2018 19:03 | Tags: [newsletter](../tag/newsletter), [kits](../tag/kits), [kits-initiative](../tag/kits-initiative)
 

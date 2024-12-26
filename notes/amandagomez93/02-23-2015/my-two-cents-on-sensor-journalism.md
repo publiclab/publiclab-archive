@@ -1,6 +1,5 @@
 ---
-title: 'My Two Cents on Sensor Journalism '
-tagnames: sensors, journalism, sensor-journalism
+title: "My Two Cents on Sensor Journalism "\ntagnames: 'sensors, journalism, sensor-journalism'
 author: amandagomez93
 path: /notes/amandagomez93/02-23-2015/my-two-cents-on-sensor-journalism.md
 nid: 11618
@@ -12,7 +11,7 @@ uid: 428015
 
 # My Two Cents on Sensor Journalism 
 
-by [amandagomez93](../profile/amandagomez93) February 23, 2015 05:42
+by [amandagomez93](../profile/amandagomez93) | February 23, 2015 05:42
 
 February 23, 2015 05:42 | Tags: [sensors](../tag/sensors), [journalism](../tag/journalism), [sensor-journalism](../tag/sensor-journalism)
 

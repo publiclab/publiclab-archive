@@ -1,6 +1,5 @@
 ---
-title: '[Talk Recording] Mobilizing People to Act on Air Pollution with the Bucket Air Monitor - a Community Science Tool'
-tagnames: open-hardware, diy, organizing, hydrogen-sulfide, air-quality, benzene, bucket-brigade, oshwa, fellows, advocacy, oil-and-gas, tech, bucket, air-pollution, bucket-monitor, south-africa, durban, petrochemical-plants, groundwork
+title: "[Talk Recording] Mobilizing People to Act on Air Pollution with the Bucket Air Monitor - a Community Science Tool"\ntagnames: 'open-hardware, diy, organizing, hydrogen-sulfide, air-quality, benzene, bucket-brigade, oshwa, fellows, advocacy, oil-and-gas, tech, bucket, air-pollution, bucket-monitor, south-africa, durban, petrochemical-plants, groundwork'
 author: amocorro
 path: /notes/amocorro/05-12-2021/talk-recording-mobilizing-people-to-act-on-air-pollution-with-the-bucket-air-monitor-a-community-science-tool.md
 nid: 26568
@@ -12,7 +11,7 @@ uid: 700923
 
 # [Talk Recording] Mobilizing People to Act on Air Pollution with the Bucket Air Monitor - a Community Science Tool
 
-by [amocorro](../profile/amocorro) May 12, 2021 20:15
+by [amocorro](../profile/amocorro) | May 12, 2021 20:15
 
 May 12, 2021 20:15 | Tags: [open-hardware](../tag/open-hardware), [diy](../tag/diy), [organizing](../tag/organizing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [benzene](../tag/benzene), [bucket-brigade](../tag/bucket-brigade), [oshwa](../tag/oshwa), [fellows](../tag/fellows), [advocacy](../tag/advocacy), [oil-and-gas](../tag/oil-and-gas), [tech](../tag/tech), [bucket](../tag/bucket), [air-pollution](../tag/air-pollution), [bucket-monitor](../tag/bucket-monitor), [south-africa](../tag/south-africa), [durban](../tag/durban), [petrochemical-plants](../tag/petrochemical-plants), [groundwork](../tag/groundwork)
 

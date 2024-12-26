@@ -1,6 +1,5 @@
 ---
-title: 'Participatory night sky quality monitoring'
-tagnames: italy, eu, issue-brief, first-time-poster, zoom:6, place:italy, lat:43.073878, lon:11.153596, light-pollution
+title: "Participatory night sky quality monitoring"\ntagnames: 'italy, eu, issue-brief, first-time-poster, zoom:6, place:italy, lat:43.073878, lon:11.153596, light-pollution'
 author: pibinko
 path: /notes/pibinko/04-25-2022/participatory-night-sky-quality-monitoring.md
 nid: 30588
@@ -12,7 +11,7 @@ uid: 793578
 
 # Participatory night sky quality monitoring
 
-by [pibinko](../profile/pibinko) April 25, 2022 14:37
+by [pibinko](../profile/pibinko) | April 25, 2022 14:37
 
 April 25, 2022 14:37 | Tags: [italy](../tag/italy), [eu](../tag/eu), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [place:italy](../tag/place:italy), [lat:43.073878](../tag/lat:43.073878), [lon:11.153596](../tag/lon:11.153596), [light-pollution](../tag/light-pollution)
 

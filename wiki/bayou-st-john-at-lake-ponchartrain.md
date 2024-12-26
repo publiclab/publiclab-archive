@@ -1,6 +1,5 @@
 ---
-title: 'Bayou St. John at Lake Ponchartrain'
-tagnames: 
+title: "Bayou St. John at Lake Ponchartrain"\ntagnames: ''
 author: liz
 path: /wiki/bayou-st-john-at-lake-ponchartrain.md
 nid: 12100

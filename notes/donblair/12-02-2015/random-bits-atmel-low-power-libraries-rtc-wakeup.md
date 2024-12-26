@@ -1,6 +1,5 @@
 ---
-title: 'Random Bits: Atmel Low Power Libraries & RTC wakeup'
-tagnames: riffle, low-power
+title: "Random Bits: Atmel Low Power Libraries & RTC wakeup"\ntagnames: 'riffle, low-power'
 author: donblair
 path: /notes/donblair/12-02-2015/random-bits-atmel-low-power-libraries-rtc-wakeup.md
 nid: 12471
@@ -12,7 +11,7 @@ uid: 43651
 
 # Random Bits: Atmel Low Power Libraries & RTC wakeup
 
-by [donblair](../profile/donblair) December 02, 2015 19:14
+by [donblair](../profile/donblair) | December 02, 2015 19:14
 
 December 02, 2015 19:14 | Tags: [riffle](../tag/riffle), [low-power](../tag/low-power)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Video Infragram'
-tagnames: near-infrared-camera, infrared, infragram, question:infragram, answered, question:infrared, n, question:multispectral-imaging, multispectral-imaging, question:general, first-time-poster
+title: "Video Infragram"\ntagnames: 'near-infrared-camera, infrared, infragram, question:infragram, answered, question:infrared, n, question:multispectral-imaging, multispectral-imaging, question:general, first-time-poster'
 author: jfd
 path: /notes/jfd/12-14-2016/video-infragram.md
 nid: 13783
@@ -10,7 +9,7 @@ uid: 499882
 
 # Video Infragram
 
-by [jfd](../profile/jfd) December 14, 2016 08:37
+by [jfd](../profile/jfd) | December 14, 2016 08:37
 
 December 14, 2016 08:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [question:infrared](../tag/question:infrared), [n](../tag/n), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 

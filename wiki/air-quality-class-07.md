@@ -1,6 +1,5 @@
 ---
-title: 'Air Quality Class 07'
-tagnames: chaq, air-quality
+title: "Air Quality Class 07"\ntagnames: 'chaq, air-quality'
 author: liz
 path: /wiki/air-quality-class-07.md
 nid: 7980

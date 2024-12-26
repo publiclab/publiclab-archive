@@ -1,6 +1,5 @@
 ---
-title: 'Bucket Monitor '
-tagnames: project, air-quality-projects
+title: "Bucket Monitor "\ntagnames: 'project, air-quality-projects'
 author: kgradow1
 path: /wiki/bucket-monitor-project-page.md
 nid: 24787

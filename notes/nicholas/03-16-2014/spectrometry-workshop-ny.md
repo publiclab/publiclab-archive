@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometry workshop - NY'
-tagnames: new-york-city, spectrometry, laser
+title: "Spectrometry workshop - NY"\ntagnames: 'new-york-city, spectrometry, laser'
 author: nicholas
 path: /notes/nicholas/03-16-2014/spectrometry-workshop-ny.md
 nid: 10190
@@ -12,7 +11,7 @@ uid: 53894
 
 # Spectrometry workshop - NY
 
-by [nicholas](../profile/nicholas) March 16, 2014 20:37
+by [nicholas](../profile/nicholas) | March 16, 2014 20:37
 
 March 16, 2014 20:37 | Tags: [new-york-city](../tag/new-york-city), [spectrometry](../tag/spectrometry), [laser](../tag/laser)
 

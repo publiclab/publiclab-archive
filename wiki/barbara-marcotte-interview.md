@@ -1,6 +1,5 @@
 ---
-title: 'Barbara Marcotte Interview'
-tagnames: 
+title: "Barbara Marcotte Interview"\ntagnames: ''
 author: warren
 path: /wiki/barbara-marcotte-interview.md
 nid: 311

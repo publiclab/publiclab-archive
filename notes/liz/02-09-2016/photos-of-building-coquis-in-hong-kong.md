@@ -1,6 +1,5 @@
 ---
-title: 'Photos of building Coquis in Hong Kong'
-tagnames: hong-kong, open-water, coqui, china
+title: "Photos of building Coquis in Hong Kong"\ntagnames: 'hong-kong, open-water, coqui, china'
 author: liz
 path: /notes/liz/02-09-2016/photos-of-building-coquis-in-hong-kong.md
 nid: 12673
@@ -12,7 +11,7 @@ uid: 7
 
 # Photos of building Coquis in Hong Kong
 
-by [liz](../profile/liz) February 09, 2016 18:10
+by [liz](../profile/liz) | February 09, 2016 18:10
 
 February 09, 2016 18:10 | Tags: [hong-kong](../tag/hong-kong), [open-water](../tag/open-water), [coqui](../tag/coqui), [china](../tag/china)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Construya un sensor de conductividad Coqui generador de sonido'
-tagnames: water-quality-sensor, lang:es, coqui, activity:coqui, water-conductivity, zoom:7, lon:-64, lat:-31, agua, research-curation-fellows, calidad-de-agua
+title: "Construya un sensor de conductividad Coqui generador de sonido"\ntagnames: 'water-quality-sensor, lang:es, coqui, activity:coqui, water-conductivity, zoom:7, lon:-64, lat:-31, agua, research-curation-fellows, calidad-de-agua'
 author: alejobonifacio
 path: /notes/alejobonifacio/05-10-2022/construya-un-sensor-de-conductividad-coqui-generador-de-sonido.md
 nid: 30705
@@ -12,7 +11,7 @@ uid: 639376
 
 # Construya un sensor de conductividad Coqui generador de sonido
 
-by [alejobonifacio](../profile/alejobonifacio) May 10, 2022 19:47
+by [alejobonifacio](../profile/alejobonifacio) | May 10, 2022 19:47
 
 May 10, 2022 19:47 | Tags: [water-quality-sensor](../tag/water-quality-sensor), [lang:es](../tag/lang:es), [coqui](../tag/coqui), [activity:coqui](../tag/activity:coqui), [water-conductivity](../tag/water-conductivity), [zoom:7](../tag/zoom:7), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [agua](../tag/agua), [research-curation-fellows](../tag/research-curation-fellows), [calidad-de-agua](../tag/calidad-de-agua)
 

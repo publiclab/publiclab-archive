@@ -1,6 +1,5 @@
 ---
-title: 'Mine Reclamation: Research Area Review Summary'
-tagnames: mining, reviews, research-area-review, reclamation, with:laurel_mire, mine-reclamation
+title: "Mine Reclamation: Research Area Review Summary"\ntagnames: 'mining, reviews, research-area-review, reclamation, with:laurel_mire, mine-reclamation'
 author: bhamster
 path: /notes/bhamster/04-12-2022/mine-reclamation-research-area-review-summary.md
 nid: 30350
@@ -12,7 +11,7 @@ uid: 664477
 
 # Mine Reclamation: Research Area Review Summary
 
-by [bhamster](../profile/bhamster) April 12, 2022 15:37
+by [bhamster](../profile/bhamster) | April 12, 2022 15:37
 
 April 12, 2022 15:37 | Tags: [mining](../tag/mining), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation)
 

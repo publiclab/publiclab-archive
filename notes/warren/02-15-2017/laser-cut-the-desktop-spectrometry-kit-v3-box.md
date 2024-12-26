@@ -1,6 +1,5 @@
 ---
-title: 'Laser-cut the Desktop Spectrometry Kit v3 box'
-tagnames: spectrometer, kits, laser-cut, spectrometry, dsk, desktop-spectrometry-kit, upgrade:spectrometry, seeks:builds, laser-cutting, ponoko, replication:13560
+title: "Laser-cut the Desktop Spectrometry Kit v3 box"\ntagnames: 'spectrometer, kits, laser-cut, spectrometry, dsk, desktop-spectrometry-kit, upgrade:spectrometry, seeks:builds, laser-cutting, ponoko, replication:13560'
 author: warren
 path: /notes/warren/02-15-2017/laser-cut-the-desktop-spectrometry-kit-v3-box.md
 nid: 13931
@@ -12,7 +11,7 @@ uid: 1
 
 # Laser-cut the Desktop Spectrometry Kit v3 box
 
-by [warren](../profile/warren) February 15, 2017 20:43
+by [warren](../profile/warren) | February 15, 2017 20:43
 
 February 15, 2017 20:43 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [laser-cut](../tag/laser-cut), [spectrometry](../tag/spectrometry), [dsk](../tag/dsk), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [upgrade:spectrometry](../tag/upgrade:spectrometry), [seeks:builds](../tag/seeks:builds), [laser-cutting](../tag/laser-cutting), [ponoko](../tag/ponoko), [replication:13560](../tag/replication:13560)
 

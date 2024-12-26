@@ -1,6 +1,5 @@
 ---
-title: 'registration'
-tagnames: 
+title: "registration"\ntagnames: ''
 author: warren
 path: /wiki/registration.md
 nid: 6801

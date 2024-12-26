@@ -1,6 +1,5 @@
 ---
-title: 'cheap slitless digital camera spectroscope with cellular'
-tagnames: 
+title: "cheap slitless digital camera spectroscope with cellular"\ntagnames: ''
 author: Jean-Christophe-DORE
 path: /notes/jean-christophe-dore/3-7-2013/cheap-slitless-digital-camera-spectroscope-cellular-0.md
 nid: 6232
@@ -12,7 +11,7 @@ uid: 44865
 
 # cheap slitless digital camera spectroscope with cellular
 
-by [Jean-Christophe-DORE](../profile/Jean-Christophe-DORE) March 07, 2013 14:46
+by [Jean-Christophe-DORE](../profile/Jean-Christophe-DORE) | March 07, 2013 14:46
 
 March 07, 2013 14:46 | Tags: 
 

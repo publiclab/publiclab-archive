@@ -1,6 +1,5 @@
 ---
-title: 'Temperature during Thatchmore Farms flight'
-tagnames: 
+title: "Temperature during Thatchmore Farms flight"\ntagnames: ''
 author: warren
 path: /notes/warren/2-10-2012/temperature-during-thatchmore-farms-flight.md
 nid: 776
@@ -12,7 +11,7 @@ uid: 1
 
 # Temperature during Thatchmore Farms flight
 
-by [warren](../profile/warren) February 10, 2012 21:04
+by [warren](../profile/warren) | February 10, 2012 21:04
 
 February 10, 2012 21:04 | Tags: 
 

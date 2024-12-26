@@ -1,6 +1,5 @@
 ---
-title: 'Twin Peaks, Tb or Hg?'
-tagnames: spectrometer, calibration, web-development, cfl, ebert, spectral-workbench, development, coding, response:12258
+title: "Twin Peaks, Tb or Hg?"\ntagnames: 'spectrometer, calibration, web-development, cfl, ebert, spectral-workbench, development, coding, response:12258'
 author: cfastie
 path: /notes/cfastie/10-06-2015/twin-peaks-tb-or-hg.md
 nid: 12270
@@ -12,7 +11,7 @@ uid: 554
 
 # Twin Peaks, Tb or Hg?
 
-by [cfastie](../profile/cfastie) October 06, 2015 02:15
+by [cfastie](../profile/cfastie) | October 06, 2015 02:15
 
 October 06, 2015 02:15 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [web-development](../tag/web-development), [cfl](../tag/cfl), [ebert](../tag/ebert), [spectral-workbench](../tag/spectral-workbench), [development](../tag/development), [coding](../tag/coding), [response:12258](../tag/response:12258)
 

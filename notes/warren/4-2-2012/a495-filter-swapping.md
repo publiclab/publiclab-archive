@@ -1,6 +1,5 @@
 ---
-title: 'A495 filter swapping'
-tagnames: near-infrared-camera
+title: "A495 filter swapping"\ntagnames: 'near-infrared-camera'
 author: warren
 path: /notes/warren/4-2-2012/a495-filter-swapping.md
 nid: 1600
@@ -12,7 +11,7 @@ uid: 1
 
 # A495 filter swapping
 
-by [warren](../profile/warren) April 02, 2012 16:37
+by [warren](../profile/warren) | April 02, 2012 16:37
 
 April 02, 2012 16:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 

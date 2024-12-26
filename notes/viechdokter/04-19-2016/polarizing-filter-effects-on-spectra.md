@@ -1,6 +1,5 @@
 ---
-title: 'Polarizing filter effects on spectra'
-tagnames: spectrometer, spectroscopy, overexposure, spectrum, polarizing_filter, dimmer
+title: "Polarizing filter effects on spectra"\ntagnames: 'spectrometer, spectroscopy, overexposure, spectrum, polarizing_filter, dimmer'
 author: viechdokter
 path: /notes/viechdokter/04-19-2016/polarizing-filter-effects-on-spectra.md
 nid: 13003
@@ -12,7 +11,7 @@ uid: 468990
 
 # Polarizing filter effects on spectra
 
-by [viechdokter](../profile/viechdokter) April 19, 2016 16:52
+by [viechdokter](../profile/viechdokter) | April 19, 2016 16:52
 
 April 19, 2016 16:52 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [overexposure](../tag/overexposure), [spectrum](../tag/spectrum), [polarizing_filter](../tag/polarizing_filter), [dimmer](../tag/dimmer)
 

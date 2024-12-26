@@ -1,6 +1,5 @@
 ---
-title: 'Using Precision Measurements for Qualitative Analysis-Fluorescein in Ethanol'
-tagnames: 
+title: "Using Precision Measurements for Qualitative Analysis-Fluorescein in Ethanol"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/06-10-2016/using-precision-measurements-for-qualitative-analysis-fluorescein-in-ethanol.md
 nid: 13183
@@ -12,7 +11,7 @@ uid: 461120
 
 # Using Precision Measurements for Qualitative Analysis-Fluorescein in Ethanol
 
-by [dhaffnersr](../profile/dhaffnersr) June 10, 2016 08:44
+by [dhaffnersr](../profile/dhaffnersr) | June 10, 2016 08:44
 
 June 10, 2016 08:44 | Tags: 
 

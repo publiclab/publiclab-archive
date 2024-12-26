@@ -1,6 +1,5 @@
 ---
-title: 'Completing Your Looks with Women’s Tights'
-tagnames: 
+title: "Completing Your Looks with Women’s Tights"\ntagnames: ''
 author: tights
 path: /wiki/completing-your-looks-women-s-tights.md
 nid: 5148

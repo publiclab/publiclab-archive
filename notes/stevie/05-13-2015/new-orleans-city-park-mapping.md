@@ -1,6 +1,5 @@
 ---
-title: 'New Orleans City Park Mapping'
-tagnames: gulf-coast, balloon-mapping, kite-mapping, event, pole-mapping, event:rsvp, date:05-30-2015, rsvp:emilya, rsvp:dflores6073, replication:14022
+title: "New Orleans City Park Mapping"\ntagnames: 'gulf-coast, balloon-mapping, kite-mapping, event, pole-mapping, event:rsvp, date:05-30-2015, rsvp:emilya, rsvp:dflores6073, replication:14022'
 author: stevie
 path: /notes/stevie/05-13-2015/new-orleans-city-park-mapping.md
 nid: 11812
@@ -12,7 +11,7 @@ uid: 422561
 
 # New Orleans City Park Mapping
 
-by [stevie](../profile/stevie) May 13, 2015 20:47
+by [stevie](../profile/stevie) | May 13, 2015 20:47
 
 May 13, 2015 20:47 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [event](../tag/event), [pole-mapping](../tag/pole-mapping), [event:rsvp](../tag/event:rsvp), [date:05-30-2015](../tag/date:05-30-2015), [rsvp:emilya](../tag/rsvp:emilya), [rsvp:dflores6073](../tag/rsvp:dflores6073), [replication:14022](../tag/replication:14022)
 

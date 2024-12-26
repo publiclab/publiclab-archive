@@ -1,6 +1,5 @@
 ---
-title: 'reflect-and-look-ahead'
-tagnames: parent:gardening-toolkit, gardening-toolkit
+title: "reflect-and-look-ahead"\ntagnames: 'parent:gardening-toolkit, gardening-toolkit'
 author: liz
 path: /wiki/reflect-and-look-ahead.md
 nid: 11525

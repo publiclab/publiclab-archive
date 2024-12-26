@@ -1,6 +1,5 @@
 ---
-title: 'DIY Formaldehyde Test Photo Card'
-tagnames: air-quality, formaldehyde, wherewebreathe, photo-card, indoor-air-quality-monitoring, colorimetric, colorimetric-tubes, with:nshapiro, indoor-air-quality
+title: "DIY Formaldehyde Test Photo Card"\ntagnames: 'air-quality, formaldehyde, wherewebreathe, photo-card, indoor-air-quality-monitoring, colorimetric, colorimetric-tubes, with:nshapiro, indoor-air-quality'
 author: warren
 path: /notes/warren/03-30-2015/diy-formaldehyde-test-photo-card.md
 nid: 11731
@@ -12,7 +11,7 @@ uid: 1
 
 # DIY Formaldehyde Test Photo Card
 
-by [warren](../profile/warren) March 30, 2015 19:03
+by [warren](../profile/warren) | March 30, 2015 19:03
 
 March 30, 2015 19:03 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [photo-card](../tag/photo-card), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [colorimetric](../tag/colorimetric), [colorimetric-tubes](../tag/colorimetric-tubes), [with:nshapiro](../tag/with:nshapiro), [indoor-air-quality](../tag/indoor-air-quality)
 

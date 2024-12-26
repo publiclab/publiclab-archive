@@ -1,6 +1,5 @@
 ---
-title: 'Pipeline Monitoring'
-tagnames: pipeline, method, oil-and-gas, pipelines, pipeline-monitoring, redirect:pipeline
+title: "Pipeline Monitoring"\ntagnames: 'pipeline, method, oil-and-gas, pipelines, pipeline-monitoring, redirect:pipeline'
 author: a1ahna
 path: /wiki/pipeline-monitoring.md
 nid: 18766

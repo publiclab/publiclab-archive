@@ -1,6 +1,5 @@
 ---
-title: 'Calculating area of a map, the dumb way'
-tagnames: balloon-mapping, area
+title: "Calculating area of a map, the dumb way"\ntagnames: 'balloon-mapping, area'
 author: warren
 path: /notes/warren/5-19-2011/calculating-area-map-dumb-way.md
 nid: 253
@@ -12,7 +11,7 @@ uid: 1
 
 # Calculating area of a map, the dumb way
 
-by [warren](../profile/warren) May 19, 2011 18:37
+by [warren](../profile/warren) | May 19, 2011 18:37
 
 May 19, 2011 18:37 | Tags: [balloon-mapping](../tag/balloon-mapping), [area](../tag/area)
 

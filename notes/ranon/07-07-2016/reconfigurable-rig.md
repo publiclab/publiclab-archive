@@ -1,6 +1,5 @@
 ---
-title: 'Reconfigurable Rig'
-tagnames: balloon-mapping, kite-aerial-photography, polemapping, kap, photo-rig, autokap, landscape, kap-rigs, reconfigurable-rig, activity:photo-rig
+title: "Reconfigurable Rig"\ntagnames: 'balloon-mapping, kite-aerial-photography, polemapping, kap, photo-rig, autokap, landscape, kap-rigs, reconfigurable-rig, activity:photo-rig'
 author: ranon
 path: /notes/ranon/07-07-2016/reconfigurable-rig.md
 nid: 13267
@@ -12,7 +11,7 @@ uid: 477060
 
 # Reconfigurable Rig
 
-by [ranon](../profile/ranon) July 07, 2016 19:31
+by [ranon](../profile/ranon) | July 07, 2016 19:31
 
 July 07, 2016 19:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [polemapping](../tag/polemapping), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [autokap](../tag/autokap), [landscape](../tag/landscape), [kap-rigs](../tag/kap-rigs), [reconfigurable-rig](../tag/reconfigurable-rig), [activity:photo-rig](../tag/activity:photo-rig)
 

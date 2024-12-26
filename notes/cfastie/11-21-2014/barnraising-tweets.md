@@ -1,6 +1,5 @@
 ---
-title: 'Barnraising Tweets'
-tagnames: kite-mapping, louisiana, cocodrie, barnraising, lumcon, photos, barnraising2014, pictures
+title: "Barnraising Tweets"\ntagnames: 'kite-mapping, louisiana, cocodrie, barnraising, lumcon, photos, barnraising2014, pictures'
 author: cfastie
 path: /notes/cfastie/11-21-2014/barnraising-tweets.md
 nid: 11375
@@ -12,7 +11,7 @@ uid: 554
 
 # Barnraising Tweets
 
-by [cfastie](../profile/cfastie) November 21, 2014 02:33
+by [cfastie](../profile/cfastie) | November 21, 2014 02:33
 
 November 21, 2014 02:33 | Tags: [kite-mapping](../tag/kite-mapping), [louisiana](../tag/louisiana), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [photos](../tag/photos), [barnraising2014](../tag/barnraising2014), [pictures](../tag/pictures)
 

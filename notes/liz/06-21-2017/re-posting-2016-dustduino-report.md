@@ -1,6 +1,5 @@
 ---
-title: 'Re-posting 2016 Dustduino report'
-tagnames: arduino, sensors, dustduino, dust, brasil, pm, particulate-matter, with:willie
+title: "Re-posting 2016 Dustduino report"\ntagnames: 'arduino, sensors, dustduino, dust, brasil, pm, particulate-matter, with:willie'
 author: liz
 path: /notes/liz/06-21-2017/re-posting-2016-dustduino-report.md
 nid: 14564
@@ -12,7 +11,7 @@ uid: 7
 
 # Re-posting 2016 Dustduino report
 
-by [liz](../profile/liz) June 21, 2017 18:45
+by [liz](../profile/liz) | June 21, 2017 18:45
 
 June 21, 2017 18:45 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [dustduino](../tag/dustduino), [dust](../tag/dust), [brasil](../tag/brasil), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [with:willie](../tag/with:willie)
 

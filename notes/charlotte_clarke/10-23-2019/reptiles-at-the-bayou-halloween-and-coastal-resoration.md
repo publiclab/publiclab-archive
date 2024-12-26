@@ -1,6 +1,5 @@
 ---
-title: 'Oct 26: Reptiles at the Bayou - Halloween and Coastal Resoration'
-tagnames: gulf-coast, community, event, water-quality, community-building, event:rsvp, oil-and-gas-water-trio, date:10-26-2019, with:rollinrenola, lat:29.955683, lon:-90.020387, rsvp:putriii-santoso
+title: "Oct 26: Reptiles at the Bayou - Halloween and Coastal Resoration"\ntagnames: 'gulf-coast, community, event, water-quality, community-building, event:rsvp, oil-and-gas-water-trio, date:10-26-2019, with:rollinrenola, lat:29.955683, lon:-90.020387, rsvp:putriii-santoso'
 author: charlotte_clarke
 path: /notes/charlotte_clarke/10-23-2019/reptiles-at-the-bayou-halloween-and-coastal-resoration.md
 nid: 21274
@@ -12,7 +11,7 @@ uid: 510781
 
 # Oct 26: Reptiles at the Bayou - Halloween and Coastal Resoration
 
-by [charlotte_clarke](../profile/charlotte_clarke) October 23, 2019 17:55
+by [charlotte_clarke](../profile/charlotte_clarke) | October 23, 2019 17:55
 
 October 23, 2019 17:55 | Tags: [gulf-coast](../tag/gulf-coast), [community](../tag/community), [event](../tag/event), [water-quality](../tag/water-quality), [community-building](../tag/community-building), [event:rsvp](../tag/event:rsvp), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [date:10-26-2019](../tag/date:10-26-2019), [with:rollinrenola](../tag/with:rollinrenola), [lat:29.955683](../tag/lat:29.955683), [lon:-90.020387](../tag/lon:-90.020387), [rsvp:putriii-santoso](../tag/rsvp:putriii-santoso)
 

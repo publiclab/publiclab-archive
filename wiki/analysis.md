@@ -1,6 +1,5 @@
 ---
-title: 'Analysis'
-tagnames: 
+title: "Analysis"\ntagnames: ''
 author: warren
 path: /wiki/analysis.md
 nid: 312

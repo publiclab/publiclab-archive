@@ -1,6 +1,5 @@
 ---
-title: 'Schedule grid for Appalachian Barnraising 2017'
-tagnames: barnraising, replication:15884
+title: "Schedule grid for Appalachian Barnraising 2017"\ntagnames: 'barnraising, replication:15884'
 author: liz
 path: /notes/liz/03-08-2018/schedule-grid-for-appalachian-barnraising-2017.md
 nid: 15891
@@ -12,7 +11,7 @@ uid: 7
 
 # Schedule grid for Appalachian Barnraising 2017
 
-by [liz](../profile/liz) March 08, 2018 15:36
+by [liz](../profile/liz) | March 08, 2018 15:36
 
 March 08, 2018 15:36 | Tags: [barnraising](../tag/barnraising), [replication:15884](../tag/replication:15884)
 

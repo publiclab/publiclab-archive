@@ -1,6 +1,5 @@
 ---
-title: 'mapknitter export with clean not fuzzy borders'
-tagnames: mapknitter, export, question:general, general, map
+title: "mapknitter export with clean not fuzzy borders"\ntagnames: 'mapknitter, export, question:general, general, map'
 author: pataxte
 path: /notes/pataxte/08-01-2021/mapknitter-export-with-clean-not-fuzzy-borders.md
 nid: 27398
@@ -12,7 +11,7 @@ uid: 559561
 
 # mapknitter export with clean not fuzzy borders
 
-by [pataxte](../profile/pataxte) August 01, 2021 05:23
+by [pataxte](../profile/pataxte) | August 01, 2021 05:23
 
 August 01, 2021 05:23 | Tags: [mapknitter](../tag/mapknitter), [export](../tag/export), [question:general](../tag/question:general), [general](../tag/general), [map](../tag/map)
 

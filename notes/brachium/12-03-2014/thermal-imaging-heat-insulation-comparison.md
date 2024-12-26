@@ -1,6 +1,5 @@
 ---
-title: 'Thermal Imaging: Heat Insulation Comparison '
-tagnames: thermal-photography, thermal-flashlight, thermal-imaging, northeastern, insulation, heat, activity:thermal-flashlight, replication:625
+title: "Thermal Imaging: Heat Insulation Comparison "\ntagnames: 'thermal-photography, thermal-flashlight, thermal-imaging, northeastern, insulation, heat, activity:thermal-flashlight, replication:625'
 author: brachium
 path: /notes/brachium/12-03-2014/thermal-imaging-heat-insulation-comparison.md
 nid: 11426
@@ -12,7 +11,7 @@ uid: 432269
 
 # Thermal Imaging: Heat Insulation Comparison 
 
-by [brachium](../profile/brachium) December 03, 2014 13:05
+by [brachium](../profile/brachium) | December 03, 2014 13:05
 
 December 03, 2014 13:05 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [insulation](../tag/insulation), [heat](../tag/heat), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [replication:625](../tag/replication:625)
 

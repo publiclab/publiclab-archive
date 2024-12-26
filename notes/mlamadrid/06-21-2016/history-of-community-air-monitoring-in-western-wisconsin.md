@@ -1,6 +1,5 @@
 ---
-title: 'History of Community Air Monitoring in Western Wisconsin'
-tagnames: wisconsin, air-quality, frac-sand, with:mathew, parent:frac-sand, communityscienceforum, air-sensors
+title: "History of Community Air Monitoring in Western Wisconsin"\ntagnames: 'wisconsin, air-quality, frac-sand, with:mathew, parent:frac-sand, communityscienceforum, air-sensors'
 author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/history-of-community-air-monitoring-in-western-wisconsin.md
 nid: 13217
@@ -12,7 +11,7 @@ uid: 45586
 
 # History of Community Air Monitoring in Western Wisconsin
 
-by [mlamadrid](../profile/mlamadrid) June 21, 2016 20:23
+by [mlamadrid](../profile/mlamadrid) | June 21, 2016 20:23
 
 June 21, 2016 20:23 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [with:mathew](../tag/with:mathew), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [air-sensors](../tag/air-sensors)
 

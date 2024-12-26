@@ -1,6 +1,5 @@
 ---
-title: 'Dashboard'
-tagnames: 
+title: "Dashboard"\ntagnames: ''
 author: warren
 path: /wiki/dashboard.md
 nid: 356

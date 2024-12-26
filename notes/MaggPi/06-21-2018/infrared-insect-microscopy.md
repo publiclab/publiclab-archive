@@ -1,6 +1,5 @@
 ---
-title: 'Infrared Insect Microscopy'
-tagnames: pi, raspberry, microscope, multispectral-imaging, activity:microscope, gsoc-2018, activity:community-microscope, community-microscope, noir, activity:community-microscope-usage, pin:activity:community-microscope-usage
+title: "Infrared Insect Microscopy"\ntagnames: 'pi, raspberry, microscope, multispectral-imaging, activity:microscope, gsoc-2018, activity:community-microscope, community-microscope, noir, activity:community-microscope-usage, pin:activity:community-microscope-usage'
 author: MaggPi
 path: /notes/MaggPi/06-21-2018/infrared-insect-microscopy.md
 nid: 16540
@@ -12,7 +11,7 @@ uid: 501996
 
 # Infrared Insect Microscopy
 
-by [MaggPi](../profile/MaggPi) June 21, 2018 05:11
+by [MaggPi](../profile/MaggPi) | June 21, 2018 05:11
 
 June 21, 2018 05:11 | Tags: [pi](../tag/pi), [raspberry](../tag/raspberry), [microscope](../tag/microscope), [multispectral-imaging](../tag/multispectral-imaging), [activity:microscope](../tag/activity:microscope), [gsoc-2018](../tag/gsoc-2018), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [noir](../tag/noir), [activity:community-microscope-usage](../tag/activity:community-microscope-usage), [pin:activity:community-microscope-usage](../tag/pin:activity:community-microscope-usage)
 

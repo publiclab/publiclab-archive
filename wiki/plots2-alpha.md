@@ -1,6 +1,5 @@
 ---
-title: 'plots2 Alpha'
-tagnames: website, plots2, alphatest
+title: "plots2 Alpha"\ntagnames: 'website, plots2, alphatest'
 author: warren
 path: /wiki/plots2-alpha.md
 nid: 4847

@@ -1,6 +1,5 @@
 ---
-title: 'Nieman Lab: The MacGyver method: With News Challenge funding, The Public Lab is building up its civic media toolkit'
-tagnames: 
+title: "Nieman Lab: The MacGyver method: With News Challenge funding, The Public Lab is building up its civic media toolkit"\ntagnames: ''
 author: warren
 path: /notes/warren/7-8-2011/nieman-lab-macgyver-method-news-challenge-funding-public-lab-building-its-civi.md
 nid: 374
@@ -10,7 +9,7 @@ uid: 1
 
 # Nieman Lab: The MacGyver method: With News Challenge funding, The Public Lab is building up its civic media toolkit
 
-by [warren](../profile/warren) July 08, 2011 09:23
+by [warren](../profile/warren) | July 08, 2011 09:23
 
 July 08, 2011 09:23 | Tags: 
 

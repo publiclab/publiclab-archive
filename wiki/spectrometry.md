@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometry'
-tagnames: spectrometer, spectrometry, list:plots-spectrometry, tool, activities:spectrometry, upgrades:spectrometry, method, chemicals, oil-and-gas, solid, zoom:6, lat:40.346845, lon:-3.827844, place:spain
+title: "Spectrometry"\ntagnames: 'spectrometer, spectrometry, list:plots-spectrometry, tool, activities:spectrometry, upgrades:spectrometry, method, chemicals, oil-and-gas, solid, zoom:6, lat:40.346845, lon:-3.827844, place:spain'
 author: warren
 path: /wiki/spectrometry.md
 nid: 16

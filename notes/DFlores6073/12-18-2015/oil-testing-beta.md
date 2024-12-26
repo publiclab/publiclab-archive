@@ -1,6 +1,5 @@
 ---
-title: 'Oil Testing Beta '
-tagnames: spectrometer, fluorescence, pipeline, oil-testing-kit, oil-testing-kit-beta, parent:pipeline-monitoring, pipeline-monitoring
+title: "Oil Testing Beta "\ntagnames: 'spectrometer, fluorescence, pipeline, oil-testing-kit, oil-testing-kit-beta, parent:pipeline-monitoring, pipeline-monitoring'
 author: DFlores6073
 path: /notes/DFlores6073/12-18-2015/oil-testing-beta.md
 nid: 12531
@@ -12,7 +11,7 @@ uid: 441573
 
 # Oil Testing Beta 
 
-by [DFlores6073](../profile/DFlores6073) December 18, 2015 02:49
+by [DFlores6073](../profile/DFlores6073) | December 18, 2015 02:49
 
 December 18, 2015 02:49 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [pipeline](../tag/pipeline), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [parent:pipeline-monitoring](../tag/parent:pipeline-monitoring), [pipeline-monitoring](../tag/pipeline-monitoring)
 

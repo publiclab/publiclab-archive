@@ -1,6 +1,5 @@
 ---
-title: 'GLAM imagery used in zoning discussion'
-tagnames: 
+title: "GLAM imagery used in zoning discussion"\ntagnames: ''
 author: liz
 path: /notes/liz/2-29-2012/glam-imagery-used-zoning-discussion.md
 nid: 871
@@ -12,7 +11,7 @@ uid: 7
 
 # GLAM imagery used in zoning discussion
 
-by [liz](../profile/liz) February 29, 2012 15:55
+by [liz](../profile/liz) | February 29, 2012 15:55
 
 February 29, 2012 15:55 | Tags: 
 

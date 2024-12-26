@@ -1,6 +1,5 @@
 ---
-title: 'Convening diversity and inclusion initiatives across open source projects'
-tagnames: community, evaluation, software-outreach, eval, diversity, welcoming, inclusion
+title: "Convening diversity and inclusion initiatives across open source projects"\ntagnames: 'community, evaluation, software-outreach, eval, diversity, welcoming, inclusion'
 author: liz
 path: /notes/liz/02-28-2018/convening-diversity-and-inclusion-initiatives-across-open-source-projects.md
 nid: 15840
@@ -12,7 +11,7 @@ uid: 7
 
 # Convening diversity and inclusion initiatives across open source projects
 
-by [liz](../profile/liz) February 28, 2018 23:02
+by [liz](../profile/liz) | February 28, 2018 23:02
 
 February 28, 2018 23:02 | Tags: [community](../tag/community), [evaluation](../tag/evaluation), [software-outreach](../tag/software-outreach), [eval](../tag/eval), [diversity](../tag/diversity), [welcoming](../tag/welcoming), [inclusion](../tag/inclusion)
 

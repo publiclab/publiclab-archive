@@ -1,6 +1,5 @@
 ---
-title: '3D Tundra'
-tagnames: kite-mapping, alaska, tundra, sfm, structure-from-motion, treeline, 3d-models, response:8866, akrange
+title: "3D Tundra"\ntagnames: 'kite-mapping, alaska, tundra, sfm, structure-from-motion, treeline, 3d-models, response:8866, akrange'
 author: cfastie
 path: /notes/cfastie/07-15-2013/3d-tundra.md
 nid: 8895
@@ -12,7 +11,7 @@ uid: 554
 
 # 3D Tundra
 
-by [cfastie](../profile/cfastie) July 15, 2013 21:11
+by [cfastie](../profile/cfastie) | July 15, 2013 21:11
 
 July 15, 2013 21:11 | Tags: [kite-mapping](../tag/kite-mapping), [alaska](../tag/alaska), [tundra](../tag/tundra), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [treeline](../tag/treeline), [3d-models](../tag/3d-models), [response:8866](../tag/response:8866), [akrange](../tag/akrange)
 

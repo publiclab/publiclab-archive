@@ -1,6 +1,5 @@
 ---
-title: 'Intensity for spectra too low?'
-tagnames: spectralworkbench, red, question:spectrometer, uvc, question:spectral-workbench, save, question:generalspectrometer
+title: "Intensity for spectra too low?"\ntagnames: 'spectralworkbench, red, question:spectrometer, uvc, question:spectral-workbench, save, question:generalspectrometer'
 author: chuynh451
 path: /notes/chuynh451/11-01-2016/intensity-for-spectra-too-low.md
 nid: 13670
@@ -10,7 +9,7 @@ uid: 495484
 
 # Intensity for spectra too low?
 
-by [chuynh451](../profile/chuynh451) November 01, 2016 20:21
+by [chuynh451](../profile/chuynh451) | November 01, 2016 20:21
 
 November 01, 2016 20:21 | Tags: [spectralworkbench](../tag/spectralworkbench), [red](../tag/red), [question:spectrometer](../tag/question:spectrometer), [uvc](../tag/uvc), [question:spectral-workbench](../tag/question:spectral-workbench), [save](../tag/save), [question:generalspectrometer](../tag/question:generalspectrometer)
 

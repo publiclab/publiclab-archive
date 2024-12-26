@@ -1,6 +1,5 @@
 ---
-title: 'The Bucket: Updating and open-sourcing a community air monitoring tool'
-tagnames: air-quality, blog, bucket-brigade, oil-and-gas, toxics, bucket-monitor, fair-tech-collective
+title: "The Bucket: Updating and open-sourcing a community air monitoring tool"\ntagnames: 'air-quality, blog, bucket-brigade, oil-and-gas, toxics, bucket-monitor, fair-tech-collective'
 author: Shannon
 path: /notes/Shannon/05-14-2020/the-bucket-updating-and-open-sourcing-a-community-air-monitoring-tool.md
 nid: 23630
@@ -12,7 +11,7 @@ uid: 9
 
 # The Bucket: Updating and open-sourcing a community air monitoring tool
 
-by [Shannon](../profile/Shannon) May 14, 2020 16:40
+by [Shannon](../profile/Shannon) | May 14, 2020 16:40
 
 May 14, 2020 16:40 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [bucket-brigade](../tag/bucket-brigade), [oil-and-gas](../tag/oil-and-gas), [toxics](../tag/toxics), [bucket-monitor](../tag/bucket-monitor), [fair-tech-collective](../tag/fair-tech-collective)
 

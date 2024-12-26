@@ -1,6 +1,5 @@
 ---
-title: 'Link to notes tagged not working'
-tagnames: question:website, bug
+title: "Link to notes tagged not working"\ntagnames: 'question:website, bug'
 author: asnow
 path: /notes/asnow/07-11-2018/link-to-notes-tagged-not-working.md
 nid: 16689
@@ -10,7 +9,7 @@ uid: 515746
 
 # Link to notes tagged not working
 
-by [asnow](../profile/asnow) July 11, 2018 16:51
+by [asnow](../profile/asnow) | July 11, 2018 16:51
 
 July 11, 2018 16:51 | Tags: [question:website](../tag/question:website), [bug](../tag/bug)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Build an Infragram Pi Camera'
-tagnames: multispectral, raspberry-pi, infragram, infragram-pi, activity:pi-camera-setup, pin:activity:infragram-pi, pi-camera-setup
+title: "Build an Infragram Pi Camera"\ntagnames: 'multispectral, raspberry-pi, infragram, infragram-pi, activity:pi-camera-setup, pin:activity:infragram-pi, pi-camera-setup'
 author: mimiss
 path: /notes/mimiss/03-31-2020/build-an-infragram-pi-camera.md
 nid: 23270
@@ -12,7 +11,7 @@ uid: 579821
 
 # Build an Infragram Pi Camera
 
-by [mimiss](../profile/mimiss) March 31, 2020 19:14
+by [mimiss](../profile/mimiss) | March 31, 2020 19:14
 
 March 31, 2020 19:14 | Tags: [multispectral](../tag/multispectral), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [infragram-pi](../tag/infragram-pi), [activity:pi-camera-setup](../tag/activity:pi-camera-setup), [pin:activity:infragram-pi](../tag/pin:activity:infragram-pi), [pi-camera-setup](../tag/pi-camera-setup)
 

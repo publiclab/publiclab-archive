@@ -1,6 +1,5 @@
 ---
-title: 'Thermistor Test in Water of Different Temperatures'
-tagnames: water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, multiple-input-thermal-fishing-bob, mare-liberum, replication:689
+title: "Thermistor Test in Water of Different Temperatures"\ntagnames: 'water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, multiple-input-thermal-fishing-bob, mare-liberum, replication:689'
 author: kgrevera
 path: /notes/kgrevera/08-17-2015/thermistor-test-in-water-of-different-temperatures.md
 nid: 12147
@@ -12,7 +11,7 @@ uid: 432001
 
 # Thermistor Test in Water of Different Temperatures
 
-by [kgrevera](../profile/kgrevera) August 17, 2015 14:45
+by [kgrevera](../profile/kgrevera) | August 17, 2015 14:45
 
 August 17, 2015 14:45 | Tags: [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [multiple-input-thermal-fishing-bob](../tag/multiple-input-thermal-fishing-bob), [mare-liberum](../tag/mare-liberum), [replication:689](../tag/replication:689)
 

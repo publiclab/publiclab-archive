@@ -1,6 +1,5 @@
 ---
-title: 'Open Access Research and Publishing'
-tagnames: ip, intellectualproperty, openaccess
+title: "Open Access Research and Publishing"\ntagnames: 'ip, intellectualproperty, openaccess'
 author: Bronwen
 path: /wiki/open-access-research-and-publishing.md
 nid: 11293

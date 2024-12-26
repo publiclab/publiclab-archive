@@ -1,6 +1,5 @@
 ---
-title: 'Stormwater Workshop Two Report: Community Mapping'
-tagnames: gulf-coast, balloon-mapping, mapping, new-orleans, stormwater, activity:stormwater
+title: "Stormwater Workshop Two Report: Community Mapping"\ntagnames: 'gulf-coast, balloon-mapping, mapping, new-orleans, stormwater, activity:stormwater'
 author: stevie
 path: /notes/stevie/05-02-2017/stormwater-workshop-two-report-community-mapping.md
 nid: 14158
@@ -12,7 +11,7 @@ uid: 422561
 
 # Stormwater Workshop Two Report: Community Mapping
 
-by [stevie](../profile/stevie) May 02, 2017 19:19
+by [stevie](../profile/stevie) | May 02, 2017 19:19
 
 May 02, 2017 19:19 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [mapping](../tag/mapping), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [activity:stormwater](../tag/activity:stormwater)
 

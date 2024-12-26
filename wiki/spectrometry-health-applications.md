@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometry health applications'
-tagnames: spectrometer, health, mhealth
+title: "Spectrometry health applications"\ntagnames: 'spectrometer, health, mhealth'
 author: warren
 path: /wiki/spectrometry-health-applications.md
 nid: 7994

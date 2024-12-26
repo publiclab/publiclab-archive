@@ -1,6 +1,5 @@
 ---
-title: 'with light'
-tagnames: first-time-poster
+title: "with light"\ntagnames: 'first-time-poster'
 author: andreagpamatzparra
 path: /notes/andreagpamatzparra/03-17-2021/with-light.md
 nid: 25951
@@ -12,7 +11,7 @@ uid: 747967
 
 # with light
 
-by [andreagpamatzparra](../profile/andreagpamatzparra) March 17, 2021 02:42
+by [andreagpamatzparra](../profile/andreagpamatzparra) | March 17, 2021 02:42
 
 March 17, 2021 02:42 | Tags: [first-time-poster](../tag/first-time-poster)
 

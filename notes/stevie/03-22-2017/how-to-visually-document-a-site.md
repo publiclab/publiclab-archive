@@ -1,6 +1,5 @@
 ---
-title: 'How to visually document a site'
-tagnames: wetlands, organizing, stormwater, getting-started, seeks:replications, activity:timelapse, activity:photo-monitoring, activity:stormwater, site-survey, activity:site-survey, activity:wetlands, activity:organizing, where-to-map
+title: "How to visually document a site"\ntagnames: 'wetlands, organizing, stormwater, getting-started, seeks:replications, activity:timelapse, activity:photo-monitoring, activity:stormwater, site-survey, activity:site-survey, activity:wetlands, activity:organizing, where-to-map'
 author: stevie
 path: /notes/stevie/03-22-2017/how-to-visually-document-a-site.md
 nid: 14047
@@ -12,7 +11,7 @@ uid: 422561
 
 # How to visually document a site
 
-by [stevie](../profile/stevie) March 22, 2017 19:13
+by [stevie](../profile/stevie) | March 22, 2017 19:13
 
 March 22, 2017 19:13 | Tags: [wetlands](../tag/wetlands), [organizing](../tag/organizing), [stormwater](../tag/stormwater), [getting-started](../tag/getting-started), [seeks:replications](../tag/seeks:replications), [activity:timelapse](../tag/activity:timelapse), [activity:photo-monitoring](../tag/activity:photo-monitoring), [activity:stormwater](../tag/activity:stormwater), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [activity:wetlands](../tag/activity:wetlands), [activity:organizing](../tag/activity:organizing), [where-to-map](../tag/where-to-map)
 

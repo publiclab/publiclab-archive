@@ -1,6 +1,5 @@
 ---
-title: 'GSoC proposal: Sensor data upload and display library '
-tagnames: software, gsoc, soc, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, response:18440, soc-2019-projects
+title: "GSoC proposal: Sensor data upload and display library "\ntagnames: 'software, gsoc, soc, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, response:18440, soc-2019-projects'
 author: IshaGupta18
 path: /notes/IshaGupta18/03-04-2019/gsoc-proposal-sensor-data-upload-and-display-library.md
 nid: 18463
@@ -12,7 +11,7 @@ uid: 568043
 
 # GSoC proposal: Sensor data upload and display library 
 
-by [IshaGupta18](../profile/IshaGupta18) March 04, 2019 17:13
+by [IshaGupta18](../profile/IshaGupta18) | March 04, 2019 17:13
 
 March 04, 2019 17:13 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [response:18440](../tag/response:18440), [soc-2019-projects](../tag/soc-2019-projects)
 

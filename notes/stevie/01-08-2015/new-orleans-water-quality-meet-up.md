@@ -1,6 +1,5 @@
 ---
-title: 'New Orleans Water Quality Meet-up'
-tagnames: gulf-coast, event, water-quality, water, event:rsvp, rsvp:stevie, rsvp:geraldmc, coqui, urbanwaters, waterquality, date:01-24-2015, rsvp:gracecagle, rsvp:eustatic
+title: "New Orleans Water Quality Meet-up"\ntagnames: 'gulf-coast, event, water-quality, water, event:rsvp, rsvp:stevie, rsvp:geraldmc, coqui, urbanwaters, waterquality, date:01-24-2015, rsvp:gracecagle, rsvp:eustatic'
 author: stevie
 path: /notes/stevie/01-08-2015/new-orleans-water-quality-meet-up.md
 nid: 11513
@@ -12,7 +11,7 @@ uid: 422561
 
 # New Orleans Water Quality Meet-up
 
-by [stevie](../profile/stevie) January 08, 2015 22:57
+by [stevie](../profile/stevie) | January 08, 2015 22:57
 
 January 08, 2015 22:57 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [water-quality](../tag/water-quality), [water](../tag/water), [event:rsvp](../tag/event:rsvp), [rsvp:stevie](../tag/rsvp:stevie), [rsvp:geraldmc](../tag/rsvp:geraldmc), [coqui](../tag/coqui), [urbanwaters](../tag/urbanwaters), [waterquality](../tag/waterquality), [date:01-24-2015](../tag/date:01-24-2015), [rsvp:gracecagle](../tag/rsvp:gracecagle), [rsvp:eustatic](../tag/rsvp:eustatic)
 

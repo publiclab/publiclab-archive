@@ -1,6 +1,5 @@
 ---
-title: 'dssk'
-tagnames: redirect:11533
+title: "dssk"\ntagnames: 'redirect:11533'
 author: warren
 path: /wiki/dssk.md
 nid: 15209

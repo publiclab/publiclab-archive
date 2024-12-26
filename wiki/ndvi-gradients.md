@@ -1,6 +1,5 @@
 ---
-title: 'ndvi-gradients'
-tagnames: near-infrared-camera, ndvi, infragram, gradient, colormap, lut, lookup-tables
+title: "ndvi-gradients"\ntagnames: 'near-infrared-camera, ndvi, infragram, gradient, colormap, lut, lookup-tables'
 author: warren
 path: /wiki/ndvi-gradients.md
 nid: 7758

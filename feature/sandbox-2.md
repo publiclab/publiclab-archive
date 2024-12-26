@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-2'
-tagnames: 
+title: "sandbox-2"\ntagnames: ''
 author: warren
 path: /feature/sandbox-2.md
 nid: 12044

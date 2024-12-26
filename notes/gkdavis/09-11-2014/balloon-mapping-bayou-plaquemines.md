@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Mapping Bayou Plaquemines'
-tagnames: gulf-coast, balloon-mapping, washustlouis, washu-stlouis
+title: "Balloon Mapping Bayou Plaquemines"\ntagnames: 'gulf-coast, balloon-mapping, washustlouis, washu-stlouis'
 author: gkdavis
 path: /notes/gkdavis/09-11-2014/balloon-mapping-bayou-plaquemines.md
 nid: 11128
@@ -12,7 +11,7 @@ uid: 428234
 
 # Balloon Mapping Bayou Plaquemines
 
-by [gkdavis](../profile/gkdavis) September 11, 2014 19:08
+by [gkdavis](../profile/gkdavis) | September 11, 2014 19:08
 
 September 11, 2014 19:08 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Sandbox'
-tagnames: organizers, activity, organizer
+title: "Sandbox"\ntagnames: 'organizers, activity, organizer'
 author: warren
 path: /wiki/sandbox.md
 nid: 721

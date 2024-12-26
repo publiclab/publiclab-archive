@@ -1,6 +1,5 @@
 ---
-title: 'What is the ideal white balance for the Infragam Point and Shoot?'
-tagnames: ndvi, nir, infragram, question:ndvi, question:infragram, question:white-balance, question:multispectral-imaging, question:nir, multispectral-imaging, question:infragram-point-shoot
+title: "What is the ideal white balance for the Infragam Point and Shoot?"\ntagnames: 'ndvi, nir, infragram, question:ndvi, question:infragram, question:white-balance, question:multispectral-imaging, question:nir, multispectral-imaging, question:infragram-point-shoot'
 author: abdul
 path: /notes/abdul/10-28-2016/what-is-the-ideal-white-balance-for-the-infragam-point-and-shoot.md
 nid: 13665
@@ -10,7 +9,7 @@ uid: 479194
 
 # What is the ideal white balance for the Infragam Point and Shoot?
 
-by [abdul](../profile/abdul) October 28, 2016 22:40
+by [abdul](../profile/abdul) | October 28, 2016 22:40
 
 October 28, 2016 22:40 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:white-balance](../tag/question:white-balance), [question:multispectral-imaging](../tag/question:multispectral-imaging), [question:nir](../tag/question:nir), [multispectral-imaging](../tag/multispectral-imaging), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
 

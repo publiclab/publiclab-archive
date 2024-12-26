@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometry Meetups'
-tagnames: spectrometer, community, meetup, workshop, spectrometry
+title: "Spectrometry Meetups"\ntagnames: 'spectrometer, community, meetup, workshop, spectrometry'
 author: warren
 path: /wiki/spectrometry-meetups.md
 nid: 6048

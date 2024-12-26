@@ -1,6 +1,5 @@
 ---
-title: 'DIY Indoor Air Quality Remediation'
-tagnames: remediation, air-quality, air, prototype, bacteria, indoor, wherewebreathe, first-time-poster, plant-air-purifier-prototypes
+title: "DIY Indoor Air Quality Remediation"\ntagnames: 'remediation, air-quality, air, prototype, bacteria, indoor, wherewebreathe, first-time-poster, plant-air-purifier-prototypes'
 author: nshapiro
 path: /notes/nshapiro/10-20-2014/diy-indoor-air-quality-remediation.md
 nid: 11282
@@ -12,7 +11,7 @@ uid: 380298
 
 # DIY Indoor Air Quality Remediation
 
-by [nshapiro](../profile/nshapiro) October 20, 2014 23:44
+by [nshapiro](../profile/nshapiro) | October 20, 2014 23:44
 
 October 20, 2014 23:44 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [air](../tag/air), [prototype](../tag/prototype), [bacteria](../tag/bacteria), [indoor](../tag/indoor), [wherewebreathe](../tag/wherewebreathe), [first-time-poster](../tag/first-time-poster), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
 

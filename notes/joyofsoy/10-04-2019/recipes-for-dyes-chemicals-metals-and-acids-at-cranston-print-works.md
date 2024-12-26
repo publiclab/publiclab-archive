@@ -1,6 +1,5 @@
 ---
-title: 'Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works'
-tagnames: redirect:21673
+title: "Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works"\ntagnames: 'redirect:21673'
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/recipes-for-dyes-chemicals-metals-and-acids-at-cranston-print-works.md
 nid: 21077
@@ -12,7 +11,7 @@ uid: 540844
 
 # Recipes for Dyes: Chemicals, Metals, and Acids at Cranston Print Works
 
-by [joyofsoy](../profile/joyofsoy) October 04, 2019 17:46
+by [joyofsoy](../profile/joyofsoy) | October 04, 2019 17:46
 
 October 04, 2019 17:46 | Tags: [redirect:21673](../tag/redirect:21673)
 

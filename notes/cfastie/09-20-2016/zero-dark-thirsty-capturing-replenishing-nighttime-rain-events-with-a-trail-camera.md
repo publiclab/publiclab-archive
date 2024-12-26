@@ -1,6 +1,5 @@
 ---
-title: 'Zero dark thirsty: Capturing replenishing nighttime rain events with a trail camera'
-tagnames: nir, vermont, leaffest, photo-monitoring, timelapse, water-quality, stream, with:warren, trapcam, leaffest-2016, trail-camera, nighttime, environment-monitoring, story:timelapse, timelapse-story
+title: "Zero dark thirsty: Capturing replenishing nighttime rain events with a trail camera"\ntagnames: 'nir, vermont, leaffest, photo-monitoring, timelapse, water-quality, stream, with:warren, trapcam, leaffest-2016, trail-camera, nighttime, environment-monitoring, story:timelapse, timelapse-story'
 author: cfastie
 path: /notes/cfastie/09-20-2016/zero-dark-thirsty-capturing-replenishing-nighttime-rain-events-with-a-trail-camera.md
 nid: 13465
@@ -12,7 +11,7 @@ uid: 554
 
 # Zero dark thirsty: Capturing replenishing nighttime rain events with a trail camera
 
-by [cfastie](../profile/cfastie) September 20, 2016 03:53
+by [cfastie](../profile/cfastie) | September 20, 2016 03:53
 
 September 20, 2016 03:53 | Tags: [nir](../tag/nir), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [water-quality](../tag/water-quality), [stream](../tag/stream), [with:warren](../tag/with:warren), [trapcam](../tag/trapcam), [leaffest-2016](../tag/leaffest-2016), [trail-camera](../tag/trail-camera), [nighttime](../tag/nighttime), [environment-monitoring](../tag/environment-monitoring), [story:timelapse](../tag/story:timelapse), [timelapse-story](../tag/timelapse-story)
 

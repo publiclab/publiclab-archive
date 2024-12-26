@@ -1,6 +1,5 @@
 ---
-title: 'Analytics on aerial images -- using filesize'
-tagnames: balloon-mapping, kite-mapping, analysis, temperature, blurriness, sorting, image-sorting, activity:image-sorting
+title: "Analytics on aerial images -- using filesize"\ntagnames: 'balloon-mapping, kite-mapping, analysis, temperature, blurriness, sorting, image-sorting, activity:image-sorting'
 author: warren
 path: /notes/warren/6-20-2012/analytics-aerial-images-using-filesize.md
 nid: 2589
@@ -12,7 +11,7 @@ uid: 1
 
 # Analytics on aerial images -- using filesize
 
-by [warren](../profile/warren) June 20, 2012 19:50
+by [warren](../profile/warren) | June 20, 2012 19:50
 
 June 20, 2012 19:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [analysis](../tag/analysis), [temperature](../tag/temperature), [blurriness](../tag/blurriness), [sorting](../tag/sorting), [image-sorting](../tag/image-sorting), [activity:image-sorting](../tag/activity:image-sorting)
 

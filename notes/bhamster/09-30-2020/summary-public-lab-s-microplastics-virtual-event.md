@@ -1,6 +1,5 @@
 ---
-title: 'Summary: Public Lab’s microplastics virtual event'
-tagnames: research, reviews, micro-plastics, microplastics, plastic, research-area-review
+title: "Summary: Public Lab’s microplastics virtual event"\ntagnames: 'research, reviews, micro-plastics, microplastics, plastic, research-area-review'
 author: bhamster
 path: /notes/bhamster/09-30-2020/summary-public-lab-s-microplastics-virtual-event.md
 nid: 24681
@@ -12,7 +11,7 @@ uid: 664477
 
 # Summary: Public Lab’s microplastics virtual event
 
-by [bhamster](../profile/bhamster) September 30, 2020 23:35
+by [bhamster](../profile/bhamster) | September 30, 2020 23:35
 
 September 30, 2020 23:35 | Tags: [research](../tag/research), [reviews](../tag/reviews), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastic](../tag/plastic), [research-area-review](../tag/research-area-review)
 

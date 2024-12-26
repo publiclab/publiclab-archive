@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab One of Five Finalists for 2013 Buckminster Fuller Challenge'
-tagnames: press-release, press, buckminster-fuller-challenge, response:9049
+title: "Public Lab One of Five Finalists for 2013 Buckminster Fuller Challenge"\ntagnames: 'press-release, press, buckminster-fuller-challenge, response:9049'
 author: Becki
 path: /notes/Becki/10-17-2013/public-lab-one-of-five-finalists-for-2013-buckminster-fuller-challenge.md
 nid: 9496
@@ -12,7 +11,7 @@ uid: 46673
 
 # Public Lab One of Five Finalists for 2013 Buckminster Fuller Challenge
 
-by [Becki](../profile/Becki) October 17, 2013 19:36
+by [Becki](../profile/Becki) | October 17, 2013 19:36
 
 October 17, 2013 19:36 | Tags: [press-release](../tag/press-release), [press](../tag/press), [buckminster-fuller-challenge](../tag/buckminster-fuller-challenge), [response:9049](../tag/response:9049)
 

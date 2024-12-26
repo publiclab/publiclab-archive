@@ -1,6 +1,5 @@
 ---
-title: 'Distance vs light intensity                first trial'
-tagnames: 
+title: "Distance vs light intensity                first trial"\ntagnames: ''
 author: viechdokter
 path: /notes/viechdokter/04-14-2016/distance-vs-light-intensity-first-trial.md
 nid: 12976
@@ -12,7 +11,7 @@ uid: 468990
 
 # Distance vs light intensity                first trial
 
-by [viechdokter](../profile/viechdokter) April 14, 2016 10:49
+by [viechdokter](../profile/viechdokter) | April 14, 2016 10:49
 
 April 14, 2016 10:49 | Tags: 
 

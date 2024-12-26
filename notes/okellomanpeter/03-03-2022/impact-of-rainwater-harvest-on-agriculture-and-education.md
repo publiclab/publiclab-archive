@@ -1,6 +1,5 @@
 ---
-title: 'Impact of rainwater harvest on Agriculture and education'
-tagnames: agriculture, uganda, water, stormwater, africa, drinking-water, first-time-poster, zoom:6, lat:1.373333, lon:32.290275, rainwater, rainwater-harvesting
+title: "Impact of rainwater harvest on Agriculture and education"\ntagnames: 'agriculture, uganda, water, stormwater, africa, drinking-water, first-time-poster, zoom:6, lat:1.373333, lon:32.290275, rainwater, rainwater-harvesting'
 author: okellomanpeter
 path: /notes/okellomanpeter/03-03-2022/impact-of-rainwater-harvest-on-agriculture-and-education.md
 nid: 30094
@@ -10,7 +9,7 @@ uid: 790533
 
 # Impact of rainwater harvest on Agriculture and education
 
-by [okellomanpeter](../profile/okellomanpeter) March 03, 2022 18:11
+by [okellomanpeter](../profile/okellomanpeter) | March 03, 2022 18:11
 
 March 03, 2022 18:11 | Tags: [agriculture](../tag/agriculture), [uganda](../tag/uganda), [water](../tag/water), [stormwater](../tag/stormwater), [africa](../tag/africa), [drinking-water](../tag/drinking-water), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:1.373333](../tag/lat:1.373333), [lon:32.290275](../tag/lon:32.290275), [rainwater](../tag/rainwater), [rainwater-harvesting](../tag/rainwater-harvesting)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Yellow smoke plume at Lawrence Point, Queens'
-tagnames: new-york-city, queens, plume, watchdog, smokestack
+title: "Yellow smoke plume at Lawrence Point, Queens"\ntagnames: 'new-york-city, queens, plume, watchdog, smokestack'
 author: warren
 path: /notes/warren/03-05-2014/yellow-smoke-plume-at-lawrence-point-queens.md
 nid: 10107
@@ -12,7 +11,7 @@ uid: 1
 
 # Yellow smoke plume at Lawrence Point, Queens
 
-by [warren](../profile/warren) March 05, 2014 16:22
+by [warren](../profile/warren) | March 05, 2014 16:22
 
 March 05, 2014 16:22 | Tags: [new-york-city](../tag/new-york-city), [queens](../tag/queens), [plume](../tag/plume), [watchdog](../tag/watchdog), [smokestack](../tag/smokestack)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Inline maps examples'
-tagnames: parent:inline-maps, inline-maps
+title: "Inline maps examples"\ntagnames: 'parent:inline-maps, inline-maps'
 author: warren
 path: /wiki/inline-maps-examples.md
 nid: 22995

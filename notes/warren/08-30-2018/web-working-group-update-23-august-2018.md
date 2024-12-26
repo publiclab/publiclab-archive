@@ -1,6 +1,5 @@
 ---
-title: 'Web Working Group Update 23: August 2018'
-tagnames: website, web-development, software, gsoc, developers, code, wwg, webwg, rgsoc, soc, soc-2018, wwg-report, response:16455
+title: "Web Working Group Update 23: August 2018"\ntagnames: 'website, web-development, software, gsoc, developers, code, wwg, webwg, rgsoc, soc, soc-2018, wwg-report, response:16455'
 author: warren
 path: /notes/warren/08-30-2018/web-working-group-update-23-august-2018.md
 nid: 17028
@@ -12,7 +11,7 @@ uid: 1
 
 # Web Working Group Update 23: August 2018
 
-by [warren](../profile/warren) August 30, 2018 19:23
+by [warren](../profile/warren) | August 30, 2018 19:23
 
 August 30, 2018 19:23 | Tags: [website](../tag/website), [web-development](../tag/web-development), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [webwg](../tag/webwg), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [wwg-report](../tag/wwg-report), [response:16455](../tag/response:16455)
 

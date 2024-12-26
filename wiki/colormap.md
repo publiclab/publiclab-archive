@@ -1,6 +1,5 @@
 ---
-title: 'colormap'
-tagnames: ndvi, infragram, colormap, parent:infragram, multispectral-imaging, image-sequencer, colorize
+title: "colormap"\ntagnames: 'ndvi, infragram, colormap, parent:infragram, multispectral-imaging, image-sequencer, colorize'
 author: warren
 path: /wiki/colormap.md
 nid: 30146

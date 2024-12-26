@@ -1,6 +1,5 @@
 ---
-title: 'Turbidity Notes: Absorption Spectrum of Liquid Water'
-tagnames: riffle
+title: "Turbidity Notes: Absorption Spectrum of Liquid Water"\ntagnames: 'riffle'
 author: donblair
 path: /notes/donblair/12-01-2015/turbidity-notes-absorption-spectrum-of-liquid-water.md
 nid: 12465
@@ -12,7 +11,7 @@ uid: 43651
 
 # Turbidity Notes: Absorption Spectrum of Liquid Water
 
-by [donblair](../profile/donblair) December 01, 2015 00:24
+by [donblair](../profile/donblair) | December 01, 2015 00:24
 
 December 01, 2015 00:24 | Tags: [riffle](../tag/riffle)
 

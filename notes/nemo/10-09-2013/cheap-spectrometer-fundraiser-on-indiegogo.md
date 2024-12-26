@@ -1,6 +1,5 @@
 ---
-title: 'Cheap spectrometer fundraiser on indiegogo'
-tagnames: spectrometer
+title: "Cheap spectrometer fundraiser on indiegogo"\ntagnames: 'spectrometer'
 author: nemo
 path: /notes/nemo/10-09-2013/cheap-spectrometer-fundraiser-on-indiegogo.md
 nid: 9422
@@ -12,7 +11,7 @@ uid: 39668
 
 # Cheap spectrometer fundraiser on indiegogo
 
-by [nemo](../profile/nemo) October 09, 2013 00:14
+by [nemo](../profile/nemo) | October 09, 2013 00:14
 
 October 09, 2013 00:14 | Tags: [spectrometer](../tag/spectrometer)
 

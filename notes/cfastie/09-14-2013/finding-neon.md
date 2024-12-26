@@ -1,6 +1,5 @@
 ---
-title: 'Finding Neon'
-tagnames: spectrometer, spectralworkbench, ebert, gsoc, gsoc-2013
+title: "Finding Neon"\ntagnames: 'spectrometer, spectralworkbench, ebert, gsoc, gsoc-2013'
 author: cfastie
 path: /notes/cfastie/09-14-2013/finding-neon.md
 nid: 9326
@@ -12,7 +11,7 @@ uid: 554
 
 # Finding Neon
 
-by [cfastie](../profile/cfastie) September 14, 2013 00:38
+by [cfastie](../profile/cfastie) | September 14, 2013 00:38
 
 September 14, 2013 00:38 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [ebert](../tag/ebert), [gsoc](../tag/gsoc), [gsoc-2013](../tag/gsoc-2013)
 

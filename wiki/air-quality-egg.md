@@ -1,6 +1,5 @@
 ---
-title: 'Air Quality Egg'
-tagnames: 
+title: "Air Quality Egg"\ntagnames: ''
 author: Yuritza13
 path: /wiki/air-quality-egg.md
 nid: 5996

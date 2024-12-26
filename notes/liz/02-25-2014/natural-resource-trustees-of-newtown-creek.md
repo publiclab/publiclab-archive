@@ -1,6 +1,5 @@
 ---
-title: 'Newtown Creek CAG meeting at EPA'
-tagnames: new-york-city, newtown-creek, epa, pah, qgis
+title: "Newtown Creek CAG meeting at EPA"\ntagnames: 'new-york-city, newtown-creek, epa, pah, qgis'
 author: liz
 path: /notes/liz/02-25-2014/natural-resource-trustees-of-newtown-creek.md
 nid: 10064
@@ -12,7 +11,7 @@ uid: 7
 
 # Newtown Creek CAG meeting at EPA
 
-by [liz](../profile/liz) February 25, 2014 15:55
+by [liz](../profile/liz) | February 25, 2014 15:55
 
 February 25, 2014 15:55 | Tags: [new-york-city](../tag/new-york-city), [newtown-creek](../tag/newtown-creek), [epa](../tag/epa), [pah](../tag/pah), [qgis](../tag/qgis)
 

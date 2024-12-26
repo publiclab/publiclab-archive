@@ -1,6 +1,5 @@
 ---
-title: 'infrapi'
-tagnames: redirect:raspberry-pi-infragram
+title: "infrapi"\ntagnames: 'redirect:raspberry-pi-infragram'
 author: warren
 path: /wiki/infrapi.md
 nid: 17454

@@ -1,6 +1,5 @@
 ---
-title: 'White balancing a Canon camera for Infragram photography'
-tagnames: near-infrared-camera, white-balance, infragram, response:8224, response:8869, response:8900, canon, super-red
+title: "White balancing a Canon camera for Infragram photography"\ntagnames: 'near-infrared-camera, white-balance, infragram, response:8224, response:8869, response:8900, canon, super-red'
 author: warren
 path: /notes/warren/08-15-2013/white-balancing-a-canon-camera-for-infragram-photography.md
 nid: 9018
@@ -12,7 +11,7 @@ uid: 1
 
 # White balancing a Canon camera for Infragram photography
 
-by [warren](../profile/warren) August 15, 2013 23:52
+by [warren](../profile/warren) | August 15, 2013 23:52
 
 August 15, 2013 23:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [response:8224](../tag/response:8224), [response:8869](../tag/response:8869), [response:8900](../tag/response:8900), [canon](../tag/canon), [super-red](../tag/super-red)
 

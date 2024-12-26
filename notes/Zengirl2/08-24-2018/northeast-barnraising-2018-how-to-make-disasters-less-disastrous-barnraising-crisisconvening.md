@@ -1,6 +1,5 @@
 ---
-title: 'Northeast Barnraising 2018: How to Make Disasters Less Disastrous #Barnraising #crisisconvening '
-tagnames: barnraising, newark, blog, northeast, disaster, 2018, crisis-convening, barnraising-newark-2018, floods
+title: "Northeast Barnraising 2018: How to Make Disasters Less Disastrous #Barnraising #crisisconvening "\ntagnames: 'barnraising, newark, blog, northeast, disaster, 2018, crisis-convening, barnraising-newark-2018, floods'
 author: zengirl2
 path: /notes/Zengirl2/08-24-2018/northeast-barnraising-2018-how-to-make-disasters-less-disastrous-barnraising-crisisconvening.md
 nid: 16997
@@ -12,7 +11,7 @@ uid: 423961
 
 # Northeast Barnraising 2018: How to Make Disasters Less Disastrous #Barnraising #crisisconvening 
 
-by [zengirl2](../profile/zengirl2) August 24, 2018 20:38
+by [zengirl2](../profile/zengirl2) | August 24, 2018 20:38
 
 August 24, 2018 20:38 | Tags: [barnraising](../tag/barnraising), [newark](../tag/newark), [blog](../tag/blog), [northeast](../tag/northeast), [disaster](../tag/disaster), [2018](../tag/2018), [crisis-convening](../tag/crisis-convening), [barnraising-newark-2018](../tag/barnraising-newark-2018), [floods](../tag/floods)
 

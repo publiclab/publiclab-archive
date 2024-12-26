@@ -1,6 +1,5 @@
 ---
-title: 'Electronic Hydrogen Sulfide Sensors'
-tagnames: hydrogen-sulfide-sensing, arduino, agriculture, h2s, fracking, tool, industry, method, chemicals, oil-and-gas, parent:hydrogen-sulfide
+title: "Electronic Hydrogen Sulfide Sensors"\ntagnames: 'hydrogen-sulfide-sensing, arduino, agriculture, h2s, fracking, tool, industry, method, chemicals, oil-and-gas, parent:hydrogen-sulfide'
 author: Shannon
 path: /wiki/hydrogen-sulfide-sensor.md
 nid: 568

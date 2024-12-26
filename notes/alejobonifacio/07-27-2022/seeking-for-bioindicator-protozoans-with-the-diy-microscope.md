@@ -1,6 +1,5 @@
 ---
-title: 'Seeking for bioindicator protozoans with the DIY microscope'
-tagnames: diy, water-quality, where, microscope, microscopy, zoom:6, lon:-64, lat:-31
+title: "Seeking for bioindicator protozoans with the DIY microscope"\ntagnames: 'diy, water-quality, where, microscope, microscopy, zoom:6, lon:-64, lat:-31'
 author: alejobonifacio
 path: /notes/alejobonifacio/07-27-2022/seeking-for-bioindicator-protozoans-with-the-diy-microscope.md
 nid: 34806
@@ -12,7 +11,7 @@ uid: 639376
 
 # Seeking for bioindicator protozoans with the DIY microscope
 
-by [alejobonifacio](../profile/alejobonifacio) July 27, 2022 19:30
+by [alejobonifacio](../profile/alejobonifacio) | July 27, 2022 19:30
 
 July 27, 2022 19:30 | Tags: [diy](../tag/diy), [water-quality](../tag/water-quality), [where](../tag/where), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [zoom:6](../tag/zoom:6), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31)
 

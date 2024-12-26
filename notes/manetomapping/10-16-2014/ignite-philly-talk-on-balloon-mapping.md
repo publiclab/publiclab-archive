@@ -1,6 +1,5 @@
 ---
-title: 'Ignite Philly Talk on Balloon Mapping '
-tagnames: balloon-mapping, philadelphia
+title: "Ignite Philly Talk on Balloon Mapping "\ntagnames: 'balloon-mapping, philadelphia'
 author: manetomapping
 path: /notes/manetomapping/10-16-2014/ignite-philly-talk-on-balloon-mapping.md
 nid: 11268
@@ -12,7 +11,7 @@ uid: 59273
 
 # Ignite Philly Talk on Balloon Mapping 
 
-by [manetomapping](../profile/manetomapping) October 16, 2014 14:57
+by [manetomapping](../profile/manetomapping) | October 16, 2014 14:57
 
 October 16, 2014 14:57 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia)
 

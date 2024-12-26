@@ -1,6 +1,5 @@
 ---
-title: 'Attributing Public Laboratory work'
-tagnames: community
+title: "Attributing Public Laboratory work"\ntagnames: 'community'
 author: warren
 path: /wiki/attribution.md
 nid: 1604

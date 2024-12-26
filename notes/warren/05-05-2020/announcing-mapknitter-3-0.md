@@ -1,6 +1,5 @@
 ---
-title: 'Announcing MapKnitter 3.0'
-tagnames: balloon-mapping, kite-mapping, mapknitter, software, gsoc, blog, code, lat:41, lon:-71, community-atlas, zoom:6
+title: "Announcing MapKnitter 3.0"\ntagnames: 'balloon-mapping, kite-mapping, mapknitter, software, gsoc, blog, code, lat:41, lon:-71, community-atlas, zoom:6'
 author: warren
 path: /notes/warren/05-05-2020/announcing-mapknitter-3-0.md
 nid: 23549
@@ -12,7 +11,7 @@ uid: 1
 
 # Announcing MapKnitter 3.0
 
-by [warren](../profile/warren) May 05, 2020 22:45
+by [warren](../profile/warren) | May 05, 2020 22:45
 
 May 05, 2020 22:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [lat:41](../tag/lat:41), [lon:-71](../tag/lon:-71), [community-atlas](../tag/community-atlas), [zoom:6](../tag/zoom:6)
 

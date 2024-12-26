@@ -1,6 +1,5 @@
 ---
-title: 'winter-holidays'
-tagnames: community
+title: "winter-holidays"\ntagnames: 'community'
 author: liz
 path: /wiki/winter-holidays.md
 nid: 9747

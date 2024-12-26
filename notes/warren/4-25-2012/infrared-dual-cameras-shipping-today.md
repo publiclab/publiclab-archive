@@ -1,6 +1,5 @@
 ---
-title: 'Infrared dual cameras shipping today'
-tagnames: near-infrared-camera
+title: "Infrared dual cameras shipping today"\ntagnames: 'near-infrared-camera'
 author: warren
 path: /notes/warren/4-25-2012/infrared-dual-cameras-shipping-today.md
 nid: 1779
@@ -12,7 +11,7 @@ uid: 1
 
 # Infrared dual cameras shipping today
 
-by [warren](../profile/warren) April 25, 2012 14:26
+by [warren](../profile/warren) | April 25, 2012 14:26
 
 April 25, 2012 14:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 

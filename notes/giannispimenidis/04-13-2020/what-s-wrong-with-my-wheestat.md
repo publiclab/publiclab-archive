@@ -1,6 +1,5 @@
 ---
-title: 'What's wrong with my  wheestat?'
-tagnames: wheestat, question:wheestat, first-time-poster
+title: "What's wrong with my  wheestat?"\ntagnames: 'wheestat, question:wheestat, first-time-poster'
 author: giannispimenidis
 path: /notes/giannispimenidis/04-13-2020/what-s-wrong-with-my-wheestat.md
 nid: 23371
@@ -10,7 +9,7 @@ uid: 657238
 
 # What's wrong with my  wheestat?
 
-by [giannispimenidis](../profile/giannispimenidis) April 13, 2020 01:07
+by [giannispimenidis](../profile/giannispimenidis) | April 13, 2020 01:07
 
 April 13, 2020 01:07 | Tags: [wheestat](../tag/wheestat), [question:wheestat](../tag/question:wheestat), [first-time-poster](../tag/first-time-poster)
 

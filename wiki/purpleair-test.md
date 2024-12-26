@@ -1,6 +1,5 @@
 ---
-title: 'PurpleAir Test'
-tagnames: 
+title: "PurpleAir Test"\ntagnames: ''
 author: warren
 path: /wiki/purpleair-test.md
 nid: 22427

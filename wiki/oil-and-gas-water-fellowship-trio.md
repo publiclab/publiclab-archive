@@ -1,6 +1,5 @@
 ---
-title: 'Oil and Gas Water Fellowship Trio'
-tagnames: water-quality, oil-and-gas, projects, oil-and-gas-water-trio, fellowships
+title: "Oil and Gas Water Fellowship Trio"\ntagnames: 'water-quality, oil-and-gas, projects, oil-and-gas-water-trio, fellowships'
 author: stevie
 path: /wiki/oil-and-gas-water-fellowship-trio.md
 nid: 21171

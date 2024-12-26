@@ -1,6 +1,5 @@
 ---
-title: 'Oil test kit Beta'
-tagnames: spectrometer, oil, unboxing, maine, oil-testing-kit, penobscot-bay, oil-pollution
+title: "Oil test kit Beta"\ntagnames: 'spectrometer, oil, unboxing, maine, oil-testing-kit, penobscot-bay, oil-pollution'
 author: ronhuber
 path: /notes/RonHuber/09-17-2015/oil-test-kit-beta.md
 nid: 12219
@@ -12,7 +11,7 @@ uid: 437
 
 # Oil test kit Beta
 
-by [ronhuber](../profile/ronhuber) September 17, 2015 08:13
+by [ronhuber](../profile/ronhuber) | September 17, 2015 08:13
 
 September 17, 2015 08:13 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [unboxing](../tag/unboxing), [maine](../tag/maine), [oil-testing-kit](../tag/oil-testing-kit), [penobscot-bay](../tag/penobscot-bay), [oil-pollution](../tag/oil-pollution)
 

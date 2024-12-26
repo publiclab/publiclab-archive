@@ -1,6 +1,5 @@
 ---
-title: 'Donations/promos/consignment'
-tagnames: 
+title: "Donations/promos/consignment"\ntagnames: ''
 author: natalie
 path: /wiki/donations-promos-consignment.md
 nid: 10624

@@ -1,6 +1,5 @@
 ---
-title: 'Optical Imaging of Passive Particle Monitors'
-tagnames: air-quality, dust, particulates, silica, frac-sand, pm, particle-sensing, particle-monitoring, fracsand, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, activity:microscope, microscopes, activity:microscopes, particle-imaging
+title: "Optical Imaging of Passive Particle Monitors"\ntagnames: 'air-quality, dust, particulates, silica, frac-sand, pm, particle-sensing, particle-monitoring, fracsand, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, activity:microscope, microscopes, activity:microscopes, particle-imaging'
 author: mathew
 path: /notes/mathew/09-03-2015/optical-imaging-of-passive-particle-monitors.md
 nid: 12194
@@ -12,7 +11,7 @@ uid: 4
 
 # Optical Imaging of Passive Particle Monitors
 
-by [mathew](../profile/mathew) September 03, 2015 03:08
+by [mathew](../profile/mathew) | September 03, 2015 03:08
 
 September 03, 2015 03:08 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [fracsand](../tag/fracsand), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [particle-imaging](../tag/particle-imaging)
 

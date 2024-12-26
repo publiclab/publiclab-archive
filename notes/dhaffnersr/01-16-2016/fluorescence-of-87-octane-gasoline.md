@@ -1,6 +1,5 @@
 ---
-title: 'FLUORESCENCE OF 87 OCTANE GASOLINE'
-tagnames: 
+title: "FLUORESCENCE OF 87 OCTANE GASOLINE"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/01-16-2016/fluorescence-of-87-octane-gasoline.md
 nid: 12591
@@ -12,7 +11,7 @@ uid: 461120
 
 # FLUORESCENCE OF 87 OCTANE GASOLINE
 
-by [dhaffnersr](../profile/dhaffnersr) January 16, 2016 21:11
+by [dhaffnersr](../profile/dhaffnersr) | January 16, 2016 21:11
 
 January 16, 2016 21:11 | Tags: 
 

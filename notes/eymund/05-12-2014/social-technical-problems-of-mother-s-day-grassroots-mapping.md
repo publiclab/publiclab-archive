@@ -1,6 +1,5 @@
 ---
-title: 'Social & Technical Problems of Mother's Day Grassroots Mapping'
-tagnames: new-york-city, gowanus, kite-mapping, park, kite, brooklyn, mapping, research, prospect-park, northeast, canal, prospect, historic, stream, hazards
+title: "Social & Technical Problems of Mother's Day Grassroots Mapping"\ntagnames: 'new-york-city, gowanus, kite-mapping, park, kite, brooklyn, mapping, research, prospect-park, northeast, canal, prospect, historic, stream, hazards'
 author: eymund
 path: /notes/eymund/05-12-2014/social-technical-problems-of-mother-s-day-grassroots-mapping.md
 nid: 10465
@@ -12,7 +11,7 @@ uid: 1016
 
 # Social & Technical Problems of Mother's Day Grassroots Mapping
 
-by [eymund](../profile/eymund) May 12, 2014 00:19
+by [eymund](../profile/eymund) | May 12, 2014 00:19
 
 May 12, 2014 00:19 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [kite-mapping](../tag/kite-mapping), [park](../tag/park), [kite](../tag/kite), [brooklyn](../tag/brooklyn), [mapping](../tag/mapping), [research](../tag/research), [prospect-park](../tag/prospect-park), [northeast](../tag/northeast), [canal](../tag/canal), [prospect](../tag/prospect), [historic](../tag/historic), [stream](../tag/stream), [hazards](../tag/hazards)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Designing Tools for Learners (Not Users)'
-tagnames: data, learning, activities, data-literacy, databasic
+title: "Designing Tools for Learners (Not Users)"\ntagnames: 'data, learning, activities, data-literacy, databasic'
 author: kanarinka
 path: /notes/kanarinka/12-29-2016/designing-tools-for-learners-not-users.md
 nid: 13823
@@ -12,7 +11,7 @@ uid: 994
 
 # Designing Tools for Learners (Not Users)
 
-by [kanarinka](../profile/kanarinka) December 29, 2016 18:17
+by [kanarinka](../profile/kanarinka) | December 29, 2016 18:17
 
 December 29, 2016 18:17 | Tags: [data](../tag/data), [learning](../tag/learning), [activities](../tag/activities), [data-literacy](../tag/data-literacy), [databasic](../tag/databasic)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Crowdfunding an open source community: how backers become contributors'
-tagnames: idealab
+title: "Crowdfunding an open source community: how backers become contributors"\ntagnames: 'idealab'
 author: warren
 path: /notes/warren/4-2-2013/crowdfunding-open-source-community-how-backers-become-contributors.md
 nid: 6649
@@ -12,7 +11,7 @@ uid: 1
 
 # Crowdfunding an open source community: how backers become contributors
 
-by [warren](../profile/warren) April 02, 2013 12:35
+by [warren](../profile/warren) | April 02, 2013 12:35
 
 April 02, 2013 12:35 | Tags: [idealab](../tag/idealab)
 

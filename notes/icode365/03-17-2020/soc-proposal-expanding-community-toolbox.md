@@ -1,6 +1,5 @@
 ---
-title: 'SoC proposal: Expanding Community Toolbox'
-tagnames: gsoc, soc, soc-2020, soc-2020-proposals
+title: "SoC proposal: Expanding Community Toolbox"\ntagnames: 'gsoc, soc, soc-2020, soc-2020-proposals'
 author: icode365
 path: /notes/icode365/03-17-2020/soc-proposal-expanding-community-toolbox.md
 nid: 23157
@@ -12,7 +11,7 @@ uid: 553778
 
 # SoC proposal: Expanding Community Toolbox
 
-by [icode365](../profile/icode365) March 17, 2020 07:48
+by [icode365](../profile/icode365) | March 17, 2020 07:48
 
 March 17, 2020 07:48 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals)
 

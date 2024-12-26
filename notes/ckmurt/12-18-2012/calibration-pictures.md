@@ -1,6 +1,5 @@
 ---
-title: 'Calibration Pictures'
-tagnames: spectrometer, troubleshooting, desktop-spectrometer, dsk
+title: "Calibration Pictures"\ntagnames: 'spectrometer, troubleshooting, desktop-spectrometer, dsk'
 author: ckmurt
 path: /notes/ckmurt/12-18-2012/calibration-pictures.md
 nid: 5244
@@ -12,7 +11,7 @@ uid: 46853
 
 # Calibration Pictures
 
-by [ckmurt](../profile/ckmurt) December 18, 2012 22:18
+by [ckmurt](../profile/ckmurt) | December 18, 2012 22:18
 
 December 18, 2012 22:18 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting), [desktop-spectrometer](../tag/desktop-spectrometer), [dsk](../tag/dsk)
 

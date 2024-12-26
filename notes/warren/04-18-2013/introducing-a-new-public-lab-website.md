@@ -1,6 +1,5 @@
 ---
-title: 'Introducing a new Public Lab website'
-tagnames: website, plots2, beta-site
+title: "Introducing a new Public Lab website"\ntagnames: 'website, plots2, beta-site'
 author: warren
 path: /notes/warren/04-18-2013/introducing-a-new-public-lab-website.md
 nid: 6896
@@ -12,7 +11,7 @@ uid: 1
 
 # Introducing a new Public Lab website
 
-by [warren](../profile/warren) April 18, 2013 23:18
+by [warren](../profile/warren) | April 18, 2013 23:18
 
 April 18, 2013 23:18 | Tags: [website](../tag/website), [plots2](../tag/plots2), [beta-site](../tag/beta-site)
 

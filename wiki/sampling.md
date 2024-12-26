@@ -1,6 +1,5 @@
 ---
-title: 'Sampling'
-tagnames: sampling, samples, method, sample-collection, soil-sampling, water-sampling, air-sampling
+title: "Sampling"\ntagnames: 'sampling, samples, method, sample-collection, soil-sampling, water-sampling, air-sampling'
 author: warren
 path: /wiki/sampling.md
 nid: 14839

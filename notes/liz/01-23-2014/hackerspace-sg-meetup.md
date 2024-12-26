@@ -1,6 +1,5 @@
 ---
-title: 'Hackerspace.sg meetup'
-tagnames: event, asia, singapore, great-photos
+title: "Hackerspace.sg meetup"\ntagnames: 'event, asia, singapore, great-photos'
 author: liz
 path: /notes/liz/01-23-2014/hackerspace-sg-meetup.md
 nid: 9969
@@ -12,7 +11,7 @@ uid: 7
 
 # Hackerspace.sg meetup
 
-by [liz](../profile/liz) January 23, 2014 16:44
+by [liz](../profile/liz) | January 23, 2014 16:44
 
 January 23, 2014 16:44 | Tags: [event](../tag/event), [asia](../tag/asia), [singapore](../tag/singapore), [great-photos](../tag/great-photos)
 

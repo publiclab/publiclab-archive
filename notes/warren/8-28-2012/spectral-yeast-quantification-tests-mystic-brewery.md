@@ -1,6 +1,5 @@
 ---
-title: 'Spectral yeast tests at Mystic Brewery'
-tagnames: spectrometer, yeast, brewing, quantitative, absorption-spectrometry, beer
+title: "Spectral yeast tests at Mystic Brewery"\ntagnames: 'spectrometer, yeast, brewing, quantitative, absorption-spectrometry, beer'
 author: warren
 path: /notes/warren/8-28-2012/spectral-yeast-quantification-tests-mystic-brewery.md
 nid: 3547
@@ -12,7 +11,7 @@ uid: 1
 
 # Spectral yeast tests at Mystic Brewery
 
-by [warren](../profile/warren) August 28, 2012 22:02
+by [warren](../profile/warren) | August 28, 2012 22:02
 
 August 28, 2012 22:02 | Tags: [spectrometer](../tag/spectrometer), [yeast](../tag/yeast), [brewing](../tag/brewing), [quantitative](../tag/quantitative), [absorption-spectrometry](../tag/absorption-spectrometry), [beer](../tag/beer)
 

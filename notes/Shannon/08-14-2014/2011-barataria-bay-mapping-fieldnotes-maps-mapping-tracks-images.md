@@ -1,6 +1,5 @@
 ---
-title: '2011 Barataria Bay mapping fieldnotes, maps, mapping tracks, images'
-tagnames: gulf-coast, barataria-bay, wetlands, oil-spill, barataria, with:warren, with:gonzoearth, with:adam-griffith
+title: "2011 Barataria Bay mapping fieldnotes, maps, mapping tracks, images"\ntagnames: 'gulf-coast, barataria-bay, wetlands, oil-spill, barataria, with:warren, with:gonzoearth, with:adam-griffith'
 author: Shannon
 path: /notes/Shannon/08-14-2014/2011-barataria-bay-mapping-fieldnotes-maps-mapping-tracks-images.md
 nid: 11049
@@ -12,7 +11,7 @@ uid: 9
 
 # 2011 Barataria Bay mapping fieldnotes, maps, mapping tracks, images
 
-by [Shannon](../profile/Shannon) August 14, 2014 18:15
+by [Shannon](../profile/Shannon) | August 14, 2014 18:15
 
 August 14, 2014 18:15 | Tags: [gulf-coast](../tag/gulf-coast), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [oil-spill](../tag/oil-spill), [barataria](../tag/barataria), [with:warren](../tag/with:warren), [with:gonzoearth](../tag/with:gonzoearth), [with:adam-griffith](../tag/with:adam-griffith)
 

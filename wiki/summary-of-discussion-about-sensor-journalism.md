@@ -1,6 +1,5 @@
 ---
-title: 'Summary of discussion about Sensor Journalism'
-tagnames: journalism, sensor-journalism, parent:journalism
+title: "Summary of discussion about Sensor Journalism"\ntagnames: 'journalism, sensor-journalism, parent:journalism'
 author: bodacea
 path: /wiki/summary-of-discussion-about-sensor-journalism.md
 nid: 9987

@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Mapping Public Space Usage at a Pop-Up Park in Philadelphia '
-tagnames: balloon-mapping, philadelphia, public-space, urban-design, northeast, land-use, first-time-poster
+title: "Balloon Mapping Public Space Usage at a Pop-Up Park in Philadelphia "\ntagnames: 'balloon-mapping, philadelphia, public-space, urban-design, northeast, land-use, first-time-poster'
 author: manetomapping
 path: /notes/manetomapping/10-08-2014/balloon-mapping-public-space-usage-at-a-pop-up-park-in-philadelphia.md
 nid: 11252
@@ -12,7 +11,7 @@ uid: 59273
 
 # Balloon Mapping Public Space Usage at a Pop-Up Park in Philadelphia 
 
-by [manetomapping](../profile/manetomapping) October 08, 2014 20:09
+by [manetomapping](../profile/manetomapping) | October 08, 2014 20:09
 
 October 08, 2014 20:09 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia), [public-space](../tag/public-space), [urban-design](../tag/urban-design), [northeast](../tag/northeast), [land-use](../tag/land-use), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Open hardware licensing in detail'
-tagnames: licensing, open-hardware, open-source-communities
+title: "Open hardware licensing in detail"\ntagnames: 'licensing, open-hardware, open-source-communities'
 author: warren
 path: /wiki/open-hardware-licensing-detail.md
 nid: 923

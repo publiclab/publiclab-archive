@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-law-and-policy'
-tagnames: 
+title: "sandbox-law-and-policy"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-law-and-policy.md
 nid: 24110

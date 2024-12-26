@@ -1,6 +1,5 @@
 ---
-title: 'Oil testing kit Evaluation'
-tagnames: oil-testing-kit
+title: "Oil testing kit Evaluation"\ntagnames: 'oil-testing-kit'
 author: chongyukwai
 path: /notes/chongyukwai/10-04-2015/oil-testing-kit-failure.md
 nid: 12264
@@ -12,7 +11,7 @@ uid: 442298
 
 # Oil testing kit Evaluation
 
-by [chongyukwai](../profile/chongyukwai) October 04, 2015 11:32
+by [chongyukwai](../profile/chongyukwai) | October 04, 2015 11:32
 
 October 04, 2015 11:32 | Tags: [oil-testing-kit](../tag/oil-testing-kit)
 

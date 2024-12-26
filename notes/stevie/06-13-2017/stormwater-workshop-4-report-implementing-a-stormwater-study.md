@@ -1,6 +1,5 @@
 ---
-title: 'Stormwater Workshop 4 Report: Implementing a Stormwater Study'
-tagnames: gulf-coast, new-orleans, neworleans, stormwater, study-design, raingauge, weatherunderground, research-study, gaugeboard
+title: "Stormwater Workshop 4 Report: Implementing a Stormwater Study"\ntagnames: 'gulf-coast, new-orleans, neworleans, stormwater, study-design, raingauge, weatherunderground, research-study, gaugeboard'
 author: stevie
 path: /notes/stevie/06-13-2017/stormwater-workshop-4-report-implementing-a-stormwater-study.md
 nid: 14533
@@ -12,7 +11,7 @@ uid: 422561
 
 # Stormwater Workshop 4 Report: Implementing a Stormwater Study
 
-by [stevie](../profile/stevie) June 13, 2017 21:46
+by [stevie](../profile/stevie) | June 13, 2017 21:46
 
 June 13, 2017 21:46 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [neworleans](../tag/neworleans), [stormwater](../tag/stormwater), [study-design](../tag/study-design), [raingauge](../tag/raingauge), [weatherunderground](../tag/weatherunderground), [research-study](../tag/research-study), [gaugeboard](../tag/gaugeboard)
 

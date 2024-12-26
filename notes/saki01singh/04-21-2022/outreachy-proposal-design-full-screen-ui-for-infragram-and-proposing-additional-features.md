@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy Proposal: Design full screen UI for Infragram and Proposing Additional Features.'
-tagnames: first-time-poster, zoom:4, lat:0.296924, lon:0.15625
+title: "Outreachy Proposal: Design full screen UI for Infragram and Proposing Additional Features."\ntagnames: 'first-time-poster, zoom:4, lat:0.296924, lon:0.15625'
 author: saki01singh
 path: /notes/saki01singh/04-21-2022/outreachy-proposal-design-full-screen-ui-for-infragram-and-proposing-additional-features.md
 nid: 30550
@@ -12,7 +11,7 @@ uid: 794945
 
 # Outreachy Proposal: Design full screen UI for Infragram and Proposing Additional Features.
 
-by [saki01singh](../profile/saki01singh) April 21, 2022 19:01
+by [saki01singh](../profile/saki01singh) | April 21, 2022 19:01
 
 April 21, 2022 19:01 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:4](../tag/zoom:4), [lat:0.296924](../tag/lat:0.296924), [lon:0.15625](../tag/lon:0.15625)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Open-Lux REV-N: Full Circle'
-tagnames: near-infrared-camera, thermal-photography, ndvi, calibration, thermal-flashlight, near-ir, thermal-fishing, infragram
+title: "Open-Lux REV-N: Full Circle"\ntagnames: 'near-infrared-camera, thermal-photography, ndvi, calibration, thermal-flashlight, near-ir, thermal-fishing, infragram'
 author: donblair
 path: /notes/donblair/04-21-2014/open-lux-rev-n-full-circle.md
 nid: 10340
@@ -12,7 +11,7 @@ uid: 43651
 
 # Open-Lux REV-N: Full Circle
 
-by [donblair](../profile/donblair) April 21, 2014 07:02
+by [donblair](../profile/donblair) | April 21, 2014 07:02
 
 April 21, 2014 07:02 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [thermal-photography](../tag/thermal-photography), [ndvi](../tag/ndvi), [calibration](../tag/calibration), [thermal-flashlight](../tag/thermal-flashlight), [near-ir](../tag/near-ir), [thermal-fishing](../tag/thermal-fishing), [infragram](../tag/infragram)
 

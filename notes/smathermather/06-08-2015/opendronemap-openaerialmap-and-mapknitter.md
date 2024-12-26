@@ -1,6 +1,5 @@
 ---
-title: 'OpenDroneMap,OpenAerialMap,and MapKnitter'
-tagnames: balloon-mapping, 3d, kite-aerial-photography, mapknitter, drones, bundleadjustment, aerial-photography, gps, software, leaflet, metadata, autostitch, auto-placement, opendronemap, openaerialmap, leaflet.distortimage
+title: "OpenDroneMap,OpenAerialMap,and MapKnitter"\ntagnames: 'balloon-mapping, 3d, kite-aerial-photography, mapknitter, drones, bundleadjustment, aerial-photography, gps, software, leaflet, metadata, autostitch, auto-placement, opendronemap, openaerialmap, leaflet.distortimage'
 author: smathermather
 path: /notes/smathermather/06-08-2015/opendronemap-openaerialmap-and-mapknitter.md
 nid: 11955
@@ -12,7 +11,7 @@ uid: 431062
 
 # OpenDroneMap,OpenAerialMap,and MapKnitter
 
-by [smathermather](../profile/smathermather) June 08, 2015 14:50
+by [smathermather](../profile/smathermather) | June 08, 2015 14:50
 
 June 08, 2015 14:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [3d](../tag/3d), [kite-aerial-photography](../tag/kite-aerial-photography), [mapknitter](../tag/mapknitter), [drones](../tag/drones), [bundleadjustment](../tag/bundleadjustment), [aerial-photography](../tag/aerial-photography), [gps](../tag/gps), [software](../tag/software), [leaflet](../tag/leaflet), [metadata](../tag/metadata), [autostitch](../tag/autostitch), [auto-placement](../tag/auto-placement), [opendronemap](../tag/opendronemap), [openaerialmap](../tag/openaerialmap), [leaflet.distortimage](../tag/leaflet.distortimage)
 

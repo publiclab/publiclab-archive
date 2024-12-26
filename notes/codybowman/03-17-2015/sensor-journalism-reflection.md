@@ -1,6 +1,5 @@
 ---
-title: 'Sensor Journalism Reflection'
-tagnames: 
+title: "Sensor Journalism Reflection"\ntagnames: ''
 author: codybowman
 path: /notes/codybowman/03-17-2015/sensor-journalism-reflection.md
 nid: 11683
@@ -10,7 +9,7 @@ uid: 434172
 
 # Sensor Journalism Reflection
 
-by [codybowman](../profile/codybowman) March 17, 2015 03:13
+by [codybowman](../profile/codybowman) | March 17, 2015 03:13
 
 March 17, 2015 03:13 | Tags: 
 

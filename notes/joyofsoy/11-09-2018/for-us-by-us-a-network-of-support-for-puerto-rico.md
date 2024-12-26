@@ -1,6 +1,5 @@
 ---
-title: 'For Us, by Us: A Network of Support for Puerto Rico'
-tagnames: disaster-preparedness, barnraising, hurricane, with:liz, puerto-rico, disaster-response, disaster-resilience, disaster-recovery, crisis-convening, csf14, series:crisis-convening, hurricane-maria, with:ayakom
+title: "For Us, by Us: A Network of Support for Puerto Rico"\ntagnames: 'disaster-preparedness, barnraising, hurricane, with:liz, puerto-rico, disaster-response, disaster-resilience, disaster-recovery, crisis-convening, csf14, series:crisis-convening, hurricane-maria, with:ayakom'
 author: joyofsoy
 path: /notes/joyofsoy/11-09-2018/for-us-by-us-a-network-of-support-for-puerto-rico.md
 nid: 17501
@@ -12,7 +11,7 @@ uid: 540844
 
 # For Us, by Us: A Network of Support for Puerto Rico
 
-by [joyofsoy](../profile/joyofsoy) November 09, 2018 20:04
+by [joyofsoy](../profile/joyofsoy) | November 09, 2018 20:04
 
 November 09, 2018 20:04 | Tags: [disaster-preparedness](../tag/disaster-preparedness), [barnraising](../tag/barnraising), [hurricane](../tag/hurricane), [with:liz](../tag/with:liz), [puerto-rico](../tag/puerto-rico), [disaster-response](../tag/disaster-response), [disaster-resilience](../tag/disaster-resilience), [disaster-recovery](../tag/disaster-recovery), [crisis-convening](../tag/crisis-convening), [csf14](../tag/csf14), [series:crisis-convening](../tag/series:crisis-convening), [hurricane-maria](../tag/hurricane-maria), [with:ayakom](../tag/with:ayakom)
 

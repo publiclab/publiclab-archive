@@ -1,6 +1,5 @@
 ---
-title: 'How quickly do copper sulfide and copper oxide form under different environmental conditions?'
-tagnames: hydrogen-sulfide, h2s, question:h2s-copper-pipe
+title: "How quickly do copper sulfide and copper oxide form under different environmental conditions?"\ntagnames: 'hydrogen-sulfide, h2s, question:h2s-copper-pipe'
 author: gretchengehrke
 path: /notes/gretchengehrke/11-08-2017/how-quickly-do-copper-sulfide-and-copper-oxide-form-under-different-environmental-conditions.md
 nid: 15165
@@ -10,7 +9,7 @@ uid: 430549
 
 # How quickly do copper sulfide and copper oxide form under different environmental conditions?
 
-by [gretchengehrke](../profile/gretchengehrke) November 08, 2017 23:54
+by [gretchengehrke](../profile/gretchengehrke) | November 08, 2017 23:54
 
 November 08, 2017 23:54 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [question:h2s-copper-pipe](../tag/question:h2s-copper-pipe)
 

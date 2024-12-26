@@ -1,6 +1,5 @@
 ---
-title: 'Mapir Survey3 RGN image processing pipeline'
-tagnames: ndvi, question:question, rgn, mapir
+title: "Mapir Survey3 RGN image processing pipeline"\ntagnames: 'ndvi, question:question, rgn, mapir'
 author: mrodriguezorejuela
 path: /notes/mrodriguezorejuela/09-28-2018/mapir-survey3-rgn-image-processing-pipeline.md
 nid: 17185
@@ -10,7 +9,7 @@ uid: 550339
 
 # Mapir Survey3 RGN image processing pipeline
 
-by [mrodriguezorejuela](../profile/mrodriguezorejuela) September 28, 2018 13:45
+by [mrodriguezorejuela](../profile/mrodriguezorejuela) | September 28, 2018 13:45
 
 September 28, 2018 13:45 | Tags: [ndvi](../tag/ndvi), [question:question](../tag/question:question), [rgn](../tag/rgn), [mapir](../tag/mapir)
 

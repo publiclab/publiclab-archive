@@ -1,6 +1,5 @@
 ---
-title: 'jobs'
-tagnames: 
+title: "jobs"\ntagnames: ''
 author: liz
 path: /wiki/jobs.md
 nid: 23434

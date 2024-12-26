@@ -1,6 +1,5 @@
 ---
-title: 'Has anyone tried establishing battery backups for Purple Air?'
-tagnames: air-quality, environmental-justice, particulate-matter, purpleair, purple-air, zoom:16, lat:29.953736, lon:-90.073637, rural
+title: "Has anyone tried establishing battery backups for Purple Air?"\ntagnames: 'air-quality, environmental-justice, particulate-matter, purpleair, purple-air, zoom:16, lat:29.953736, lon:-90.073637, rural'
 author: eustatic
 path: /04-01-2022/has-anyone-tried-establishing-battery-backups-for-purple-air.md
 nid: 30244
@@ -10,7 +9,7 @@ uid: 379
 
 # Has anyone tried establishing battery backups for Purple Air?
 
-by [eustatic](../profile/eustatic) April 01, 2022 16:15
+by [eustatic](../profile/eustatic) | April 01, 2022 16:15
 
 April 01, 2022 16:15 | Tags: [air-quality](../tag/air-quality), [environmental-justice](../tag/environmental-justice), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [zoom:16](../tag/zoom:16), [lat:29.953736](../tag/lat:29.953736), [lon:-90.073637](../tag/lon:-90.073637), [rural](../tag/rural)
 

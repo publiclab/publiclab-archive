@@ -1,6 +1,5 @@
 ---
-title: 'Waterkeeper BP oil spill one year report'
-tagnames: 
+title: "Waterkeeper BP oil spill one year report"\ntagnames: ''
 author: Shannon
 path: /notes/shannon/10-6-2011/waterkeeper-bp-oil-spill-one-year-report.md
 nid: 500
@@ -10,7 +9,7 @@ uid: 9
 
 # Waterkeeper BP oil spill one year report
 
-by [Shannon](../profile/Shannon) October 06, 2011 11:28
+by [Shannon](../profile/Shannon) | October 06, 2011 11:28
 
 October 06, 2011 11:28 | Tags: 
 

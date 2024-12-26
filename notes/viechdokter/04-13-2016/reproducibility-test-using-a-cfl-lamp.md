@@ -1,6 +1,5 @@
 ---
-title: 'Reproducibility test using a CFL lamp'
-tagnames: spectrometer, cfl, lamp, spectrum, reproducibility
+title: "Reproducibility test using a CFL lamp"\ntagnames: 'spectrometer, cfl, lamp, spectrum, reproducibility'
 author: viechdokter
 path: /notes/viechdokter/04-13-2016/reproducibility-test-using-a-cfl-lamp.md
 nid: 12966
@@ -12,7 +11,7 @@ uid: 468990
 
 # Reproducibility test using a CFL lamp
 
-by [viechdokter](../profile/viechdokter) April 13, 2016 14:26
+by [viechdokter](../profile/viechdokter) | April 13, 2016 14:26
 
 April 13, 2016 14:26 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl), [lamp](../tag/lamp), [spectrum](../tag/spectrum), [reproducibility](../tag/reproducibility)
 

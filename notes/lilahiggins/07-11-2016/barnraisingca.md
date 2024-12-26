@@ -1,6 +1,5 @@
 ---
-title: '#BarnraisingCA'
-tagnames: landfill, mapping, balloon, barnraisingca, chiquita, canyon
+title: "#BarnraisingCA"\ntagnames: 'landfill, mapping, balloon, barnraisingca, chiquita, canyon'
 author: lilahiggins
 path: /notes/lilahiggins/07-11-2016/barnraisingca.md
 nid: 13279
@@ -12,7 +11,7 @@ uid: 482809
 
 # #BarnraisingCA
 
-by [lilahiggins](../profile/lilahiggins) July 11, 2016 19:26
+by [lilahiggins](../profile/lilahiggins) | July 11, 2016 19:26
 
 July 11, 2016 19:26 | Tags: [landfill](../tag/landfill), [mapping](../tag/mapping), [balloon](../tag/balloon), [barnraisingca](../tag/barnraisingca), [chiquita](../tag/chiquita), [canyon](../tag/canyon)
 

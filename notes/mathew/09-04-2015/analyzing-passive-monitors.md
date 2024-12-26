@@ -1,6 +1,5 @@
 ---
-title: 'analyzing passive monitors'
-tagnames: image-processing, dust, silica, frac-sand, pm, open-air, particle-sensing, particle-monitoring, dust-monitoring, openair, image-analysis, fracsand, air-sensing, passive-particle-monitors, passive-pm, parent:frac-sand
+title: "analyzing passive monitors"\ntagnames: 'image-processing, dust, silica, frac-sand, pm, open-air, particle-sensing, particle-monitoring, dust-monitoring, openair, image-analysis, fracsand, air-sensing, passive-particle-monitors, passive-pm, parent:frac-sand'
 author: mathew
 path: /notes/mathew/09-04-2015/analyzing-passive-monitors.md
 nid: 12197
@@ -12,7 +11,7 @@ uid: 4
 
 # analyzing passive monitors
 
-by [mathew](../profile/mathew) September 04, 2015 01:32
+by [mathew](../profile/mathew) | September 04, 2015 01:32
 
 September 04, 2015 01:32 | Tags: [image-processing](../tag/image-processing), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [dust-monitoring](../tag/dust-monitoring), [openair](../tag/openair), [image-analysis](../tag/image-analysis), [fracsand](../tag/fracsand), [air-sensing](../tag/air-sensing), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand)
 

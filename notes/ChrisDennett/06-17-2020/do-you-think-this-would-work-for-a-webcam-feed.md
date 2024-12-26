@@ -1,6 +1,5 @@
 ---
-title: 'Do you think this would work for a webcam feed?'
-tagnames: 
+title: "Do you think this would work for a webcam feed?"\ntagnames: ''
 author: ChrisDennett
 path: /notes/ChrisDennett/06-17-2020/do-you-think-this-would-work-for-a-webcam-feed.md
 nid: 23870
@@ -10,7 +9,7 @@ uid: 702654
 
 # Do you think this would work for a webcam feed?
 
-by [ChrisDennett](../profile/ChrisDennett) June 17, 2020 09:12
+by [ChrisDennett](../profile/ChrisDennett) | June 17, 2020 09:12
 
 June 17, 2020 09:12 | Tags: 
 

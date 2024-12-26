@@ -1,6 +1,5 @@
 ---
-title: 'Sort and identify plastic polymer debris by density'
-tagnames: micro-plastics, microplastics, plastics, polymers, plastic, activity:microplastics, marine-debris, plastic-pollution, method:microplastics
+title: "Sort and identify plastic polymer debris by density"\ntagnames: 'micro-plastics, microplastics, plastics, polymers, plastic, activity:microplastics, marine-debris, plastic-pollution, method:microplastics'
 author: bhamster
 path: /notes/bhamster/11-06-2020/sort-and-identify-plastic-polymer-debris-by-density.md
 nid: 24709
@@ -12,7 +11,7 @@ uid: 664477
 
 # Sort and identify plastic polymer debris by density
 
-by [bhamster](../profile/bhamster) November 06, 2020 17:01
+by [bhamster](../profile/bhamster) | November 06, 2020 17:01
 
 November 06, 2020 17:01 | Tags: [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [polymers](../tag/polymers), [plastic](../tag/plastic), [activity:microplastics](../tag/activity:microplastics), [marine-debris](../tag/marine-debris), [plastic-pollution](../tag/plastic-pollution), [method:microplastics](../tag/method:microplastics)
 

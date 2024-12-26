@@ -1,6 +1,5 @@
 ---
-title: 'Webcam and PVC Spectrophotometer '
-tagnames: spectrophotometer, webcam, first-time-poster, zoom:6, lat:43.662938, lon:-116.687359
+title: "Webcam and PVC Spectrophotometer "\ntagnames: 'spectrophotometer, webcam, first-time-poster, zoom:6, lat:43.662938, lon:-116.687359'
 author: CTormey
 path: /notes/CTormey/09-09-2021/webcam-and-pvc-spectrophotometer.md
 nid: 27718
@@ -12,7 +11,7 @@ uid: 713257
 
 # Webcam and PVC Spectrophotometer 
 
-by [CTormey](../profile/CTormey) September 09, 2021 23:05
+by [CTormey](../profile/CTormey) | September 09, 2021 23:05
 
 September 09, 2021 23:05 | Tags: [spectrophotometer](../tag/spectrophotometer), [webcam](../tag/webcam), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:43.662938](../tag/lat:43.662938), [lon:-116.687359](../tag/lon:-116.687359)
 

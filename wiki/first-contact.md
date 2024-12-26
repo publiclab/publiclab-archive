@@ -1,6 +1,5 @@
 ---
-title: 'First contact and pathways through'
-tagnames: community, evaluation, first-contact, parent:ui
+title: "First contact and pathways through"\ntagnames: 'community, evaluation, first-contact, parent:ui'
 author: liz
 path: /wiki/first-contact.md
 nid: 10991

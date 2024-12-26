@@ -1,6 +1,5 @@
 ---
-title: 'Kite Video test:  City Park'
-tagnames: balloon-mapping, kite-mapping, annagrigorjem
+title: "Kite Video test:  City Park"\ntagnames: 'balloon-mapping, kite-mapping, annagrigorjem'
 author: eustatic
 path: /07-17-2013/kite-video-test-city-park.md
 nid: 8902
@@ -12,7 +11,7 @@ uid: 379
 
 # Kite Video test:  City Park
 
-by [eustatic](../profile/eustatic) July 17, 2013 15:32
+by [eustatic](../profile/eustatic) | July 17, 2013 15:32
 
 July 17, 2013 15:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annagrigorjem](../tag/annagrigorjem)
 

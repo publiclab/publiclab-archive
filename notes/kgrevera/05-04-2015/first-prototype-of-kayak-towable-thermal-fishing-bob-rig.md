@@ -1,6 +1,5 @@
 ---
-title: 'First prototype of kayak towable thermal fishing bob rig'
-tagnames: thermal-photography, northeastern-university, water-quality, thermal-fishing-bob, thermal, thermal-pollution, fishing, heat, replication:689, first-time-poster
+title: "First prototype of kayak towable thermal fishing bob rig"\ntagnames: 'thermal-photography, northeastern-university, water-quality, thermal-fishing-bob, thermal, thermal-pollution, fishing, heat, replication:689, first-time-poster'
 author: kgrevera
 path: /notes/kgrevera/05-04-2015/first-prototype-of-kayak-towable-thermal-fishing-bob-rig.md
 nid: 11782
@@ -12,7 +11,7 @@ uid: 432001
 
 # First prototype of kayak towable thermal fishing bob rig
 
-by [kgrevera](../profile/kgrevera) May 04, 2015 20:39
+by [kgrevera](../profile/kgrevera) | May 04, 2015 20:39
 
 May 04, 2015 20:39 | Tags: [thermal-photography](../tag/thermal-photography), [northeastern-university](../tag/northeastern-university), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [fishing](../tag/fishing), [heat](../tag/heat), [replication:689](../tag/replication:689), [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Creating a Media Campaign'
-tagnames: media, organizing, tool, methods, advocacy, strategy, campaign, method, community-organizing
+title: "Creating a Media Campaign"\ntagnames: 'media, organizing, tool, methods, advocacy, strategy, campaign, method, community-organizing'
 author: stevie
 path: /wiki/creating-a-media-campaign.md
 nid: 12595

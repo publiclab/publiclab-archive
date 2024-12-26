@@ -1,6 +1,5 @@
 ---
-title: 'Spectral libraries'
-tagnames: 
+title: "Spectral libraries"\ntagnames: ''
 author: warren
 path: /wiki/spectral-libraries.md
 nid: 547

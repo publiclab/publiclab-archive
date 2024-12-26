@@ -1,6 +1,5 @@
 ---
-title: 'I heard him exclaim, ere he drove out of sight,'
-tagnames: balloon-mapping, holiday, christmas, response:5345
+title: "I heard him exclaim, ere he drove out of sight,"\ntagnames: 'balloon-mapping, holiday, christmas, response:5345'
 author: cfastie
 path: /notes/cfastie/12-25-2013/i-heard-him-exclaim-ere-he-drove-out-of-sight.md
 nid: 9915
@@ -12,7 +11,7 @@ uid: 554
 
 # I heard him exclaim, ere he drove out of sight,
 
-by [cfastie](../profile/cfastie) December 25, 2013 18:12
+by [cfastie](../profile/cfastie) | December 25, 2013 18:12
 
 December 25, 2013 18:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [holiday](../tag/holiday), [christmas](../tag/christmas), [response:5345](../tag/response:5345)
 

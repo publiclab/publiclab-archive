@@ -1,6 +1,5 @@
 ---
-title: 'Soil remediation'
-tagnames: remediation, soil, plants, bioassay, bioremediation, method, phytoremediation, soil-contamination, mycoremediation, parent:soil, soil-remediation
+title: "Soil remediation"\ntagnames: 'remediation, soil, plants, bioassay, bioremediation, method, phytoremediation, soil-contamination, mycoremediation, parent:soil, soil-remediation'
 author: bhamster
 path: /wiki/soil-remediation.md
 nid: 25949

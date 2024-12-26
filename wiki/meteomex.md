@@ -1,6 +1,5 @@
 ---
-title: 'MeteoMex: online monitoring of climate and volatile organic compounds'
-tagnames: soil, vocs, data-logger, volatile-organochlorine-compounds, soil-sampling, meteomex, climate-data, non-commercial, solar-energy, volatile-organic-compounds
+title: "MeteoMex: online monitoring of climate and volatile organic compounds"\ntagnames: 'soil, vocs, data-logger, volatile-organochlorine-compounds, soil-sampling, meteomex, climate-data, non-commercial, solar-energy, volatile-organic-compounds'
 author: liz
 path: /wiki/meteomex.md
 nid: 24071

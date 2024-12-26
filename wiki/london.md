@@ -1,6 +1,5 @@
 ---
-title: 'London'
-tagnames: redirect:512
+title: "London"\ntagnames: 'redirect:512'
 author: liz
 path: /wiki/london.md
 nid: 21415

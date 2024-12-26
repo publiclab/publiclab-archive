@@ -1,6 +1,5 @@
 ---
-title: 'Thatchmore farms hypr3d model'
-tagnames: 
+title: "Thatchmore farms hypr3d model"\ntagnames: ''
 author: warren
 path: /notes/warren/2-10-2012/thatchmore-farms-hypr3d-model.md
 nid: 772
@@ -12,7 +11,7 @@ uid: 1
 
 # Thatchmore farms hypr3d model
 
-by [warren](../profile/warren) February 10, 2012 17:22
+by [warren](../profile/warren) | February 10, 2012 17:22
 
 February 10, 2012 17:22 | Tags: 
 

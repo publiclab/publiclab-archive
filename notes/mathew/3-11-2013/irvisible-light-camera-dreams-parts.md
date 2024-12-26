@@ -1,6 +1,5 @@
 ---
-title: 'IR/Visible light camera dreams & parts'
-tagnames: near-infrared-camera, ircam, near-ir
+title: "IR/Visible light camera dreams & parts"\ntagnames: 'near-infrared-camera, ircam, near-ir'
 author: mathew
 path: /notes/mathew/3-11-2013/irvisible-light-camera-dreams-parts.md
 nid: 6294
@@ -12,7 +11,7 @@ uid: 4
 
 # IR/Visible light camera dreams & parts
 
-by [mathew](../profile/mathew) March 12, 2013 02:31
+by [mathew](../profile/mathew) | March 12, 2013 02:31
 
 March 12, 2013 02:31 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ircam](../tag/ircam), [near-ir](../tag/near-ir)
 

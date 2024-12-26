@@ -1,6 +1,5 @@
 ---
-title: 'KAP comes first'
-tagnames: balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery, response:11726
+title: "KAP comes first"\ntagnames: 'balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery, response:11726'
 author: cfastie
 path: /notes/cfastie/06-18-2015/kap-comes-first.md
 nid: 11988
@@ -12,7 +11,7 @@ uid: 554
 
 # KAP comes first
 
-by [cfastie](../profile/cfastie) June 18, 2015 20:28
+by [cfastie](../profile/cfastie) | June 18, 2015 20:28
 
 June 18, 2015 20:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery), [response:11726](../tag/response:11726)
 

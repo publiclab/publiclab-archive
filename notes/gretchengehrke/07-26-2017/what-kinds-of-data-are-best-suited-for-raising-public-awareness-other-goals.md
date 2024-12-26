@@ -1,6 +1,5 @@
 ---
-title: 'What kinds of data are best suited for raising public awareness? other goals? '
-tagnames: question:general
+title: "What kinds of data are best suited for raising public awareness? other goals? "\ntagnames: 'question:general'
 author: gretchengehrke
 path: /notes/gretchengehrke/07-26-2017/what-kinds-of-data-are-best-suited-for-raising-public-awareness-other-goals.md
 nid: 14685
@@ -10,7 +9,7 @@ uid: 430549
 
 # What kinds of data are best suited for raising public awareness? other goals? 
 
-by [gretchengehrke](../profile/gretchengehrke) July 26, 2017 18:33
+by [gretchengehrke](../profile/gretchengehrke) | July 26, 2017 18:33
 
 July 26, 2017 18:33 | Tags: [question:general](../tag/question:general)
 

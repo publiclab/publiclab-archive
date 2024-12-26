@@ -1,6 +1,5 @@
 ---
-title: 'Software for structure from motion'
-tagnames: sfm, software, mapping, structure-from-motion
+title: "Software for structure from motion"\ntagnames: 'sfm, software, mapping, structure-from-motion'
 author: nedhorning
 path: /notes/nedhorning/10-10-2012/software-structure-motion.md
 nid: 4328
@@ -12,7 +11,7 @@ uid: 133
 
 # Software for structure from motion
 
-by [nedhorning](../profile/nedhorning) October 10, 2012 14:29
+by [nedhorning](../profile/nedhorning) | October 10, 2012 14:29
 
 October 10, 2012 14:29 | Tags: [sfm](../tag/sfm), [software](../tag/software), [mapping](../tag/mapping), [structure-from-motion](../tag/structure-from-motion)
 

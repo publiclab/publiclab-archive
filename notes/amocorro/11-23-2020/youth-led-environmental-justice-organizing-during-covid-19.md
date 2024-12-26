@@ -1,6 +1,5 @@
 ---
-title: 'Youth-led Environmental Justice Organizing during COVID-19'
-tagnames: youth, air-quality, transportation, asthma, environmental-justice, community-organizing, seattle, zoom:6, covid-19, with:duwamishcleanup, lat:47.532038, lon:-122.321777, youth-organizing, technology-gap, lat:47.528398, lon:-122.324025, washington, pacific-northwest
+title: "Youth-led Environmental Justice Organizing during COVID-19"\ntagnames: 'youth, air-quality, transportation, asthma, environmental-justice, community-organizing, seattle, zoom:6, covid-19, with:duwamishcleanup, lat:47.532038, lon:-122.321777, youth-organizing, technology-gap, lat:47.528398, lon:-122.324025, washington, pacific-northwest'
 author: amocorro
 path: /notes/amocorro/11-23-2020/youth-led-environmental-justice-organizing-during-covid-19.md
 nid: 25097
@@ -12,7 +11,7 @@ uid: 700923
 
 # Youth-led Environmental Justice Organizing during COVID-19
 
-by [amocorro](../profile/amocorro) November 23, 2020 21:16
+by [amocorro](../profile/amocorro) | November 23, 2020 21:16
 
 November 23, 2020 21:16 | Tags: [youth](../tag/youth), [air-quality](../tag/air-quality), [transportation](../tag/transportation), [asthma](../tag/asthma), [environmental-justice](../tag/environmental-justice), [community-organizing](../tag/community-organizing), [seattle](../tag/seattle), [zoom:6](../tag/zoom:6), [covid-19](../tag/covid-19), [with:duwamishcleanup](../tag/with:duwamishcleanup), [lat:47.532038](../tag/lat:47.532038), [lon:-122.321777](../tag/lon:-122.321777), [youth-organizing](../tag/youth-organizing), [technology-gap](../tag/technology-gap), [lat:47.528398](../tag/lat:47.528398), [lon:-122.324025](../tag/lon:-122.324025), [washington](../tag/washington), [pacific-northwest](../tag/pacific-northwest)
 

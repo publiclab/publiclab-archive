@@ -1,6 +1,5 @@
 ---
-title: 'How MIT Is Using Social Media to Map Hurricane Flooding'
-tagnames: mapping, water-quality, water, hurricane, stormwater, flooding, irma, emergency, crowd-source
+title: "How MIT Is Using Social Media to Map Hurricane Flooding"\ntagnames: 'mapping, water-quality, water, hurricane, stormwater, flooding, irma, emergency, crowd-source'
 author: zengirl2
 path: /notes/Zengirl2/09-11-2017/how-mit-is-using-social-media-to-map-hurricane-flooding.md
 nid: 14874
@@ -12,7 +11,7 @@ uid: 423961
 
 # How MIT Is Using Social Media to Map Hurricane Flooding
 
-by [zengirl2](../profile/zengirl2) September 11, 2017 20:12
+by [zengirl2](../profile/zengirl2) | September 11, 2017 20:12
 
 September 11, 2017 20:12 | Tags: [mapping](../tag/mapping), [water-quality](../tag/water-quality), [water](../tag/water), [hurricane](../tag/hurricane), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [irma](../tag/irma), [emergency](../tag/emergency), [crowd-source](../tag/crowd-source)
 

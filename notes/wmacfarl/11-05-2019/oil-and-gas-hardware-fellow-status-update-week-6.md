@@ -1,6 +1,5 @@
 ---
-title: 'Oil and Gas Hardware Fellow Status Update: Week 6!'
-tagnames: water-quality, turbidity, oil-and-gas, oil-and-gas-water-trio
+title: "Oil and Gas Hardware Fellow Status Update: Week 6!"\ntagnames: 'water-quality, turbidity, oil-and-gas, oil-and-gas-water-trio'
 author: wmacfarl
 path: /notes/wmacfarl/11-05-2019/oil-and-gas-hardware-fellow-status-update-week-6.md
 nid: 21392
@@ -12,7 +11,7 @@ uid: 424597
 
 # Oil and Gas Hardware Fellow Status Update: Week 6!
 
-by [wmacfarl](../profile/wmacfarl) November 05, 2019 01:41
+by [wmacfarl](../profile/wmacfarl) | November 05, 2019 01:41
 
 November 05, 2019 01:41 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [oil-and-gas](../tag/oil-and-gas), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 

@@ -1,6 +1,5 @@
 ---
-title: 'papercraft-spec'
-tagnames: redirect:15277
+title: "papercraft-spec"\ntagnames: 'redirect:15277'
 author: warren
 path: /wiki/papercraft-spec.md
 nid: 15282

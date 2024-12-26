@@ -1,6 +1,5 @@
 ---
-title: 'How does the Spectral Workbench intensity measuring work?'
-tagnames: spectralworkbench, spectral-analysis, question:general
+title: "How does the Spectral Workbench intensity measuring work?"\ntagnames: 'spectralworkbench, spectral-analysis, question:general'
 author: jsbonillam
 path: /notes/jsbonillam/04-23-2018/how-does-the-spectral-workbench-intensity-measuring-work.md
 nid: 16198
@@ -10,7 +9,7 @@ uid: 521899
 
 # How does the Spectral Workbench intensity measuring work?
 
-by [jsbonillam](../profile/jsbonillam) April 23, 2018 19:07
+by [jsbonillam](../profile/jsbonillam) | April 23, 2018 19:07
 
 April 23, 2018 19:07 | Tags: [spectralworkbench](../tag/spectralworkbench), [spectral-analysis](../tag/spectral-analysis), [question:general](../tag/question:general)
 

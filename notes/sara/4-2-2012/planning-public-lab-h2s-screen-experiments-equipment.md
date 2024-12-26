@@ -1,6 +1,5 @@
 ---
-title: 'Planning for Public Lab H2S screen Experiments-Equipment'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, h2s
+title: "Planning for Public Lab H2S screen Experiments-Equipment"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s'
 author: sara
 path: /notes/sara/4-2-2012/planning-public-lab-h2s-screen-experiments-equipment.md
 nid: 1606
@@ -10,7 +9,7 @@ uid: 8
 
 # Planning for Public Lab H2S screen Experiments-Equipment
 
-by [sara](../profile/sara) April 02, 2012 20:25
+by [sara](../profile/sara) | April 02, 2012 20:25
 
 April 02, 2012 20:25 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s)
 

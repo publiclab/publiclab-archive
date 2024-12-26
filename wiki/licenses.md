@@ -1,6 +1,5 @@
 ---
-title: 'Open Source Licenses'
-tagnames: open-hardware, licenses, openhardware, cernohl, creativecommons, cc-by-sa, contributing, sidebar:none
+title: "Open Source Licenses"\ntagnames: 'open-hardware, licenses, openhardware, cernohl, creativecommons, cc-by-sa, contributing, sidebar:none'
 author: warren
 path: /wiki/licenses.md
 nid: 225

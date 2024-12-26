@@ -1,6 +1,5 @@
 ---
-title: 'a first look at dust with consumer scanners '
-tagnames: silica, pm, midwest, particle-sensing, particulate-monitoring, openair, stickypad, passive-pm
+title: "a first look at dust with consumer scanners "\ntagnames: 'silica, pm, midwest, particle-sensing, particulate-monitoring, openair, stickypad, passive-pm'
 author: mathew
 path: /notes/mathew/06-11-2014/a-first-look-at-dust-with-consumer-scanners.md
 nid: 10550
@@ -12,7 +11,7 @@ uid: 4
 
 # a first look at dust with consumer scanners 
 
-by [mathew](../profile/mathew) June 11, 2014 02:58
+by [mathew](../profile/mathew) | June 11, 2014 02:58
 
 June 11, 2014 02:58 | Tags: [silica](../tag/silica), [pm](../tag/pm), [midwest](../tag/midwest), [particle-sensing](../tag/particle-sensing), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [stickypad](../tag/stickypad), [passive-pm](../tag/passive-pm)
 

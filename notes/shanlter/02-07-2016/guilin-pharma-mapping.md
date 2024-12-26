@@ -1,6 +1,5 @@
 ---
-title: 'Guilin Pharma mapping'
-tagnames: balloon-mapping, blog, asia, barnstar:watchdog, china, pharmaceutical, guilin
+title: "Guilin Pharma mapping"\ntagnames: 'balloon-mapping, blog, asia, barnstar:watchdog, china, pharmaceutical, guilin'
 author: shanlter
 path: /notes/shanlter/02-07-2016/guilin-pharma-mapping.md
 nid: 12667
@@ -12,7 +11,7 @@ uid: 420999
 
 # Guilin Pharma mapping
 
-by [shanlter](../profile/shanlter) February 07, 2016 08:59
+by [shanlter](../profile/shanlter) | February 07, 2016 08:59
 
 February 07, 2016 08:59 | Tags: [balloon-mapping](../tag/balloon-mapping), [blog](../tag/blog), [asia](../tag/asia), [barnstar:watchdog](../tag/barnstar:watchdog), [china](../tag/china), [pharmaceutical](../tag/pharmaceutical), [guilin](../tag/guilin)
 

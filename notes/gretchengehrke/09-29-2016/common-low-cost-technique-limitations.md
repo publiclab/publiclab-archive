@@ -1,6 +1,5 @@
 ---
-title: 'Common low-cost technique limitations and strategies for impact'
-tagnames: with:warren
+title: "Common low-cost technique limitations and strategies for impact"\ntagnames: 'with:warren'
 author: gretchengehrke
 path: /notes/gretchengehrke/09-29-2016/common-low-cost-technique-limitations.md
 nid: 13508
@@ -12,7 +11,7 @@ uid: 430549
 
 # Common low-cost technique limitations and strategies for impact
 
-by [gretchengehrke](../profile/gretchengehrke) September 29, 2016 20:12
+by [gretchengehrke](../profile/gretchengehrke) | September 29, 2016 20:12
 
 September 29, 2016 20:12 | Tags: [with:warren](../tag/with:warren)
 

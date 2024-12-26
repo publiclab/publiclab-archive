@@ -1,6 +1,5 @@
 ---
-title: 'preparing for the Touch|Play|Learn mini-Expo'
-tagnames: london, diy, expo, uk, eu
+title: "preparing for the Touch|Play|Learn mini-Expo"\ntagnames: 'london, diy, expo, uk, eu'
 author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/preparing-touchplaylearn-mini-expo.md
 nid: 3123
@@ -10,7 +9,7 @@ uid: 1083
 
 # preparing for the Touch|Play|Learn mini-Expo
 
-by [cindy_excites](../profile/cindy_excites) August 03, 2012 22:08
+by [cindy_excites](../profile/cindy_excites) | August 03, 2012 22:08
 
 August 03, 2012 22:08 | Tags: [london](../tag/london), [diy](../tag/diy), [expo](../tag/expo), [uk](../tag/uk), [eu](../tag/eu)
 

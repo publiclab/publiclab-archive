@@ -1,6 +1,5 @@
 ---
-title: 'places'
-tagnames: 
+title: "places"\ntagnames: ''
 author: warren
 path: /feature/places.md
 nid: 16167

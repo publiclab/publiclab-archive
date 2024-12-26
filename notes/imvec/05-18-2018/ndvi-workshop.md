@@ -1,6 +1,5 @@
 ---
-title: 'NDVI workshop - Barcelona'
-tagnames: ndvi, spain, workshop, lang:es, event:rsvp, date:05-24-2018, with:arturunderwater, with:xose
+title: "NDVI workshop - Barcelona"\ntagnames: 'ndvi, spain, workshop, lang:es, event:rsvp, date:05-24-2018, with:arturunderwater, with:xose'
 author: imvec
 path: /notes/imvec/05-18-2018/ndvi-workshop.md
 nid: 16363
@@ -12,7 +11,7 @@ uid: 495038
 
 # NDVI workshop - Barcelona
 
-by [imvec](../profile/imvec) May 18, 2018 12:12
+by [imvec](../profile/imvec) | May 18, 2018 12:12
 
 May 18, 2018 12:12 | Tags: [ndvi](../tag/ndvi), [spain](../tag/spain), [workshop](../tag/workshop), [lang:es](../tag/lang:es), [event:rsvp](../tag/event:rsvp), [date:05-24-2018](../tag/date:05-24-2018), [with:arturunderwater](../tag/with:arturunderwater), [with:xose](../tag/with:xose)
 

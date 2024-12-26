@@ -1,6 +1,5 @@
 ---
-title: 'GO SCUM update'
-tagnames: new-york-city, gowanus, gowanus-canal, thermal-flashlight, brooklyn, thermal-fishing-bob, glowdoodle, underwater, northeast, with:eymund, activity:thermal-fishing-bob
+title: "GO SCUM update"\ntagnames: 'new-york-city, gowanus, gowanus-canal, thermal-flashlight, brooklyn, thermal-fishing-bob, glowdoodle, underwater, northeast, with:eymund, activity:thermal-fishing-bob'
 author: liz
 path: /notes/liz/1-15-2012/go-scum-update.md
 nid: 689
@@ -12,7 +11,7 @@ uid: 7
 
 # GO SCUM update
 
-by [liz](../profile/liz) January 16, 2012 00:44
+by [liz](../profile/liz) | January 16, 2012 00:44
 
 January 16, 2012 00:44 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [thermal-flashlight](../tag/thermal-flashlight), [brooklyn](../tag/brooklyn), [thermal-fishing-bob](../tag/thermal-fishing-bob), [glowdoodle](../tag/glowdoodle), [underwater](../tag/underwater), [northeast](../tag/northeast), [with:eymund](../tag/with:eymund), [activity:thermal-fishing-bob](../tag/activity:thermal-fishing-bob)
 

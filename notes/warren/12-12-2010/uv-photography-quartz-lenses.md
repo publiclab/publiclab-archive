@@ -1,6 +1,5 @@
 ---
-title: 'UV photography & quartz lenses'
-tagnames: 
+title: "UV photography & quartz lenses"\ntagnames: ''
 author: warren
 path: /notes/warren/12-12-2010/uv-photography-quartz-lenses.md
 nid: 27
@@ -12,7 +11,7 @@ uid: 1
 
 # UV photography & quartz lenses
 
-by [warren](../profile/warren) December 13, 2010 00:45
+by [warren](../profile/warren) | December 13, 2010 00:45
 
 December 13, 2010 00:45 | Tags: 
 

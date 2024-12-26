@@ -1,6 +1,5 @@
 ---
-title: 'Workshop III: How Have Other Communities Tackled This Problem?'
-tagnames: education, workshop, curriculum, activity:education, lesson, exploring-environmental-issues, parent:student-led-community-science-in-the-classroom-a-curriculum, series:student-community-science, activity:student-community-science, with:purl
+title: "Workshop III: How Have Other Communities Tackled This Problem?"\ntagnames: 'education, workshop, curriculum, activity:education, lesson, exploring-environmental-issues, parent:student-led-community-science-in-the-classroom-a-curriculum, series:student-community-science, activity:student-community-science, with:purl'
 author: mimiss
 path: /notes/mimiss/05-15-2019/workshop-iii-how-have-other-communities-tackled-this-problem.md
 nid: 19413
@@ -12,7 +11,7 @@ uid: 579821
 
 # Workshop III: How Have Other Communities Tackled This Problem?
 
-by [mimiss](../profile/mimiss) May 15, 2019 22:03
+by [mimiss](../profile/mimiss) | May 15, 2019 22:03
 
 May 15, 2019 22:03 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [lesson](../tag/lesson), [exploring-environmental-issues](../tag/exploring-environmental-issues), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [series:student-community-science](../tag/series:student-community-science), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
 

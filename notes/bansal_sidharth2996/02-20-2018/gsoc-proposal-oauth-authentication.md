@@ -1,6 +1,5 @@
 ---
-title: 'GSoc Proposal: OAuth & Upgrade to Bootstrap 4'
-tagnames: gsoc, user, soc, gsoc-2018, soc-2018-proposals, config, gsoc-2018-final
+title: "GSoc Proposal: OAuth & Upgrade to Bootstrap 4"\ntagnames: 'gsoc, user, soc, gsoc-2018, soc-2018-proposals, config, gsoc-2018-final'
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/02-20-2018/gsoc-proposal-oauth-authentication.md
 nid: 15771
@@ -12,7 +11,7 @@ uid: 503599
 
 # GSoc Proposal: OAuth & Upgrade to Bootstrap 4
 
-by [bansal_sidharth2996](../profile/bansal_sidharth2996) February 20, 2018 00:23
+by [bansal_sidharth2996](../profile/bansal_sidharth2996) | February 20, 2018 00:23
 
 February 20, 2018 00:23 | Tags: [gsoc](../tag/gsoc), [user](../tag/user), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [config](../tag/config), [gsoc-2018-final](../tag/gsoc-2018-final)
 

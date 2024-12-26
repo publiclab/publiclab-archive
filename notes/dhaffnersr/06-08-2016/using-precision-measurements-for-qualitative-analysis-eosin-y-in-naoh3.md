@@ -1,6 +1,5 @@
 ---
-title: 'Using Precision Measurements for Qualitative Analysis-Eosin Y in NaOH3'
-tagnames: 
+title: "Using Precision Measurements for Qualitative Analysis-Eosin Y in NaOH3"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/06-08-2016/using-precision-measurements-for-qualitative-analysis-eosin-y-in-naoh3.md
 nid: 13178
@@ -12,7 +11,7 @@ uid: 461120
 
 # Using Precision Measurements for Qualitative Analysis-Eosin Y in NaOH3
 
-by [dhaffnersr](../profile/dhaffnersr) June 08, 2016 11:59
+by [dhaffnersr](../profile/dhaffnersr) | June 08, 2016 11:59
 
 June 08, 2016 11:59 | Tags: 
 

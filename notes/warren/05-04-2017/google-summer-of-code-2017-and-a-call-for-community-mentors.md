@@ -1,6 +1,5 @@
 ---
-title: 'Google Summer of Code 2017 - and a call for community mentors'
-tagnames: software, gsoc, wwg, webjack, mentoring, gsoc-2017, soc, soc-2017, response:13975
+title: "Google Summer of Code 2017 - and a call for community mentors"\ntagnames: 'software, gsoc, wwg, webjack, mentoring, gsoc-2017, soc, soc-2017, response:13975'
 author: warren
 path: /notes/warren/05-04-2017/google-summer-of-code-2017-and-a-call-for-community-mentors.md
 nid: 14162
@@ -12,7 +11,7 @@ uid: 1
 
 # Google Summer of Code 2017 - and a call for community mentors
 
-by [warren](../profile/warren) May 04, 2017 16:19
+by [warren](../profile/warren) | May 04, 2017 16:19
 
 May 04, 2017 16:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [wwg](../tag/wwg), [webjack](../tag/webjack), [mentoring](../tag/mentoring), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [response:13975](../tag/response:13975)
 

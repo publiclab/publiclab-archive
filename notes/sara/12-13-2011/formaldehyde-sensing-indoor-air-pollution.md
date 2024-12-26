@@ -1,6 +1,5 @@
 ---
-title: 'Formaldehyde Sensing for Indoor air-pollution'
-tagnames: air-quality, formaldehyde, roomba, indoor-air-quality, air-sensors
+title: "Formaldehyde Sensing for Indoor air-pollution"\ntagnames: 'air-quality, formaldehyde, roomba, indoor-air-quality, air-sensors'
 author: sara
 path: /notes/sara/12-13-2011/formaldehyde-sensing-indoor-air-pollution.md
 nid: 635
@@ -10,7 +9,7 @@ uid: 8
 
 # Formaldehyde Sensing for Indoor air-pollution
 
-by [sara](../profile/sara) December 13, 2011 23:25
+by [sara](../profile/sara) | December 13, 2011 23:25
 
 December 13, 2011 23:25 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [roomba](../tag/roomba), [indoor-air-quality](../tag/indoor-air-quality), [air-sensors](../tag/air-sensors)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Annual Reports'
-tagnames: non-profit, nonprofit, style:wide, style:presentation, style:fancy, annual-report
+title: "Annual Reports"\ntagnames: 'non-profit, nonprofit, style:wide, style:presentation, style:fancy, annual-report'
 author: Shannon
 path: /wiki/annual-reports.md
 nid: 11102

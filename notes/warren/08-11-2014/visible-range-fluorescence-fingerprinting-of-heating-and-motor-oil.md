@@ -1,6 +1,5 @@
 ---
-title: 'Visible-range fluorescence fingerprinting of heating and motor oil '
-tagnames: spectrometer, oil, fluorescence, matching, motor-oil, crude, literature, oil-testing-kit, aging, synchronous-scanning, fuel, fingerprinting, sfs
+title: "Visible-range fluorescence fingerprinting of heating and motor oil "\ntagnames: 'spectrometer, oil, fluorescence, matching, motor-oil, crude, literature, oil-testing-kit, aging, synchronous-scanning, fuel, fingerprinting, sfs'
 author: warren
 path: /notes/warren/08-11-2014/visible-range-fluorescence-fingerprinting-of-heating-and-motor-oil.md
 nid: 11037
@@ -12,7 +11,7 @@ uid: 1
 
 # Visible-range fluorescence fingerprinting of heating and motor oil 
 
-by [warren](../profile/warren) August 11, 2014 19:45
+by [warren](../profile/warren) | August 11, 2014 19:45
 
 August 11, 2014 19:45 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [matching](../tag/matching), [motor-oil](../tag/motor-oil), [crude](../tag/crude), [literature](../tag/literature), [oil-testing-kit](../tag/oil-testing-kit), [aging](../tag/aging), [synchronous-scanning](../tag/synchronous-scanning), [fuel](../tag/fuel), [fingerprinting](../tag/fingerprinting), [sfs](../tag/sfs)
 

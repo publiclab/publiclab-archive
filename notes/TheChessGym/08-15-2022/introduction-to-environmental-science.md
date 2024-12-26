@@ -1,6 +1,5 @@
 ---
-title: 'Introduction To Environmental Science'
-tagnames: lat:22, first-time-poster, lon:76, zoom:7
+title: "Introduction To Environmental Science"\ntagnames: 'lat:22, first-time-poster, lon:76, zoom:7'
 author: TheChessGym
 path: /notes/TheChessGym/08-15-2022/introduction-to-environmental-science.md
 nid: 34877
@@ -12,7 +11,7 @@ uid: 788868
 
 # Introduction To Environmental Science
 
-by [TheChessGym](../profile/TheChessGym) August 15, 2022 13:25
+by [TheChessGym](../profile/TheChessGym) | August 15, 2022 13:25
 
 August 15, 2022 13:25 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:7](../tag/zoom:7)
 

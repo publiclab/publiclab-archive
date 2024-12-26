@@ -1,6 +1,5 @@
 ---
-title: 'freshkills-park'
-tagnames: new-york-city, staten-island
+title: "freshkills-park"\ntagnames: 'new-york-city, staten-island'
 author: liz
 path: /wiki/freshkills-park.md
 nid: 10439

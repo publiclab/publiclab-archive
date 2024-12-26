@@ -1,6 +1,5 @@
 ---
-title: 'Raman spectrometer in operation (sort of)'
-tagnames: 
+title: "Raman spectrometer in operation (sort of)"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/01-25-2016/raman-spectrometer-in-operation-sort-of.md
 nid: 12615
@@ -12,7 +11,7 @@ uid: 461120
 
 # Raman spectrometer in operation (sort of)
 
-by [dhaffnersr](../profile/dhaffnersr) January 25, 2016 16:26
+by [dhaffnersr](../profile/dhaffnersr) | January 25, 2016 16:26
 
 January 25, 2016 16:26 | Tags: 
 

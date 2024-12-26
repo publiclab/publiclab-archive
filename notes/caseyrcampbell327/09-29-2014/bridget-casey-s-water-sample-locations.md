@@ -1,6 +1,5 @@
 ---
-title: 'Bridget & Casey's Water Sample Locations '
-tagnames: water-quality, first-time-poster
+title: "Bridget & Casey's Water Sample Locations "\ntagnames: 'water-quality, first-time-poster'
 author: caseyrcampbell327
 path: /notes/caseyrcampbell327/09-29-2014/bridget-casey-s-water-sample-locations.md
 nid: 11201
@@ -12,7 +11,7 @@ uid: 427892
 
 # Bridget & Casey's Water Sample Locations 
 
-by [caseyrcampbell327](../profile/caseyrcampbell327) September 29, 2014 11:04
+by [caseyrcampbell327](../profile/caseyrcampbell327) | September 29, 2014 11:04
 
 September 29, 2014 11:04 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
 

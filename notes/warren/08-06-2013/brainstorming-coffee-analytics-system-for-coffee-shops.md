@@ -1,6 +1,5 @@
 ---
-title: 'Brainstorming "coffee analytics" system for coffee shops'
-tagnames: spectrometer, coffee, sampling, eyedropper
+title: "Brainstorming "coffee analytics" system for coffee shops"\ntagnames: 'spectrometer, coffee, sampling, eyedropper'
 author: warren
 path: /notes/warren/08-06-2013/brainstorming-coffee-analytics-system-for-coffee-shops.md
 nid: 8973
@@ -12,7 +11,7 @@ uid: 1
 
 # Brainstorming "coffee analytics" system for coffee shops
 
-by [warren](../profile/warren) August 06, 2013 22:28
+by [warren](../profile/warren) | August 06, 2013 22:28
 
 August 06, 2013 22:28 | Tags: [spectrometer](../tag/spectrometer), [coffee](../tag/coffee), [sampling](../tag/sampling), [eyedropper](../tag/eyedropper)
 

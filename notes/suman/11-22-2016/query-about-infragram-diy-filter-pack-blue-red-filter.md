@@ -1,6 +1,5 @@
 ---
-title: 'Query about Infragram DIY Filter Pack ( blue & red filter)'
-tagnames: question:infragram, question:question, first-time-poster
+title: "Query about Infragram DIY Filter Pack ( blue & red filter)"\ntagnames: 'question:infragram, question:question, first-time-poster'
 author: suman
 path: /notes/suman/11-22-2016/query-about-infragram-diy-filter-pack-blue-red-filter.md
 nid: 13721
@@ -10,7 +9,7 @@ uid: 497769
 
 # Query about Infragram DIY Filter Pack ( blue & red filter)
 
-by [suman](../profile/suman) November 22, 2016 20:54
+by [suman](../profile/suman) | November 22, 2016 20:54
 
 November 22, 2016 20:54 | Tags: [question:infragram](../tag/question:infragram), [question:question](../tag/question:question), [first-time-poster](../tag/first-time-poster)
 

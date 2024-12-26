@@ -1,6 +1,5 @@
 ---
-title: 'Reflection on Sensor Journalism Module'
-tagnames: sensor-journalism
+title: "Reflection on Sensor Journalism Module"\ntagnames: 'sensor-journalism'
 author: amarini
 path: /notes/amarini/10-06-2014/reflection-on-sensor-journalism-module.md
 nid: 11245
@@ -10,7 +9,7 @@ uid: 428064
 
 # Reflection on Sensor Journalism Module
 
-by [amarini](../profile/amarini) October 06, 2014 19:40
+by [amarini](../profile/amarini) | October 06, 2014 19:40
 
 October 06, 2014 19:40 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

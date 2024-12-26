@@ -1,6 +1,5 @@
 ---
-title: '$8 webcam for spectrometer is not great'
-tagnames: 
+title: "$8 webcam for spectrometer is not great"\ntagnames: ''
 author: warren
 path: /notes/warren/11-23-2011/8-webcam-spectrometer-not-great.md
 nid: 580
@@ -12,7 +11,7 @@ uid: 1
 
 # $8 webcam for spectrometer is not great
 
-by [warren](../profile/warren) November 23, 2011 23:04
+by [warren](../profile/warren) | November 23, 2011 23:04
 
 November 23, 2011 23:04 | Tags: 
 

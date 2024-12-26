@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer FAQ'
-tagnames: spectrometer, documentation, help, faq, absorption-spectrometry
+title: "Spectrometer FAQ"\ntagnames: 'spectrometer, documentation, help, faq, absorption-spectrometry'
 author: warren
 path: /wiki/spectrometer-faq.md
 nid: 243

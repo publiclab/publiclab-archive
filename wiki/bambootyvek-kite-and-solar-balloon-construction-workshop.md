@@ -1,6 +1,5 @@
 ---
-title: 'Bamboo/tyvek kite and solar balloon construction workshop'
-tagnames: new-york-city, balloon-mapping, kite-mapping, ilab, solar-balloon, event
+title: "Bamboo/tyvek kite and solar balloon construction workshop"\ntagnames: 'new-york-city, balloon-mapping, kite-mapping, ilab, solar-balloon, event'
 author: liz
 path: /wiki/bambootyvek-kite-and-solar-balloon-construction-workshop.md
 nid: 2539

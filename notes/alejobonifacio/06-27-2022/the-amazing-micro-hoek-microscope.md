@@ -1,6 +1,5 @@
 ---
-title: 'The amazing Micro-Hoek microscope'
-tagnames: water-quality, the, microscope, microscopy, activity:microscope, lat:-30, zoom:8, lon:-64, research-curation-fellows, conclusions, intro
+title: "The amazing Micro-Hoek microscope"\ntagnames: 'water-quality, the, microscope, microscopy, activity:microscope, lat:-30, zoom:8, lon:-64, research-curation-fellows, conclusions, intro'
 author: alejobonifacio
 path: /notes/alejobonifacio/06-27-2022/the-amazing-micro-hoek-microscope.md
 nid: 31057
@@ -12,7 +11,7 @@ uid: 639376
 
 # The amazing Micro-Hoek microscope
 
-by [alejobonifacio](../profile/alejobonifacio) June 27, 2022 23:19
+by [alejobonifacio](../profile/alejobonifacio) | June 27, 2022 23:19
 
 June 27, 2022 23:19 | Tags: [water-quality](../tag/water-quality), [the](../tag/the), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [activity:microscope](../tag/activity:microscope), [lat:-30](../tag/lat:-30), [zoom:8](../tag/zoom:8), [lon:-64](../tag/lon:-64), [research-curation-fellows](../tag/research-curation-fellows), [conclusions](../tag/conclusions), [intro](../tag/intro)
 

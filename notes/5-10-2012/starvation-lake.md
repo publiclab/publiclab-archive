@@ -1,6 +1,5 @@
 ---
-title: 'starvation-lake'
-tagnames: 
+title: "starvation-lake"\ntagnames: ''
 author: 
 path: /notes/5-10-2012/starvation-lake.md
 nid: 2091
@@ -12,7 +11,7 @@ uid: 0
 
 # starvation-lake
 
-by [](../profile/) May 10, 2012 22:46
+by [](../profile/) | May 10, 2012 22:46
 
 May 10, 2012 22:46 | Tags: 
 

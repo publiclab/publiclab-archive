@@ -1,6 +1,5 @@
 ---
-title: 'Report: 2019 Software Contributors Survey'
-tagnames: community-metrics, software, web, code, evaluation, survey, with:warren, wwg, diversity, response:15093, inclusion
+title: "Report: 2019 Software Contributors Survey"\ntagnames: 'community-metrics, software, web, code, evaluation, survey, with:warren, wwg, diversity, response:15093, inclusion'
 author: liz
 path: /notes/liz/04-15-2019/report-2019-software-contributors-survey.md
 nid: 19070
@@ -10,7 +9,7 @@ uid: 7
 
 # Report: 2019 Software Contributors Survey
 
-by [liz](../profile/liz) April 15, 2019 13:58
+by [liz](../profile/liz) | April 15, 2019 13:58
 
 April 15, 2019 13:58 | Tags: [community-metrics](../tag/community-metrics), [software](../tag/software), [web](../tag/web), [code](../tag/code), [evaluation](../tag/evaluation), [survey](../tag/survey), [with:warren](../tag/with:warren), [wwg](../tag/wwg), [diversity](../tag/diversity), [response:15093](../tag/response:15093), [inclusion](../tag/inclusion)
 

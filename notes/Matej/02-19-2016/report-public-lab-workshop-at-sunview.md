@@ -1,6 +1,5 @@
 ---
-title: 'Report: Public Lab Workshop at Sunview'
-tagnames: new-york-city, spectrometer, uv, oil, workshop, fluorescence, led, oil-testing-kit, otk, pig, isopropyl
+title: "Report: Public Lab Workshop at Sunview"\ntagnames: 'new-york-city, spectrometer, uv, oil, workshop, fluorescence, led, oil-testing-kit, otk, pig, isopropyl'
 author: Matej
 path: /notes/Matej/02-19-2016/report-public-lab-workshop-at-sunview.md
 nid: 12713
@@ -12,7 +11,7 @@ uid: 451808
 
 # Report: Public Lab Workshop at Sunview
 
-by [Matej](../profile/Matej) February 19, 2016 01:48
+by [Matej](../profile/Matej) | February 19, 2016 01:48
 
 February 19, 2016 01:48 | Tags: [new-york-city](../tag/new-york-city), [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [workshop](../tag/workshop), [fluorescence](../tag/fluorescence), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [otk](../tag/otk), [pig](../tag/pig), [isopropyl](../tag/isopropyl)
 

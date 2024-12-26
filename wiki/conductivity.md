@@ -1,6 +1,5 @@
 ---
-title: 'Water conductivity monitoring'
-tagnames: conductivity, method, parent:water-quality
+title: "Water conductivity monitoring"\ntagnames: 'conductivity, method, parent:water-quality'
 author: warren
 path: /wiki/conductivity.md
 nid: 14954

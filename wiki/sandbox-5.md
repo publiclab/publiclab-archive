@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-5'
-tagnames: content
+title: "sandbox-5"\ntagnames: 'content'
 author: warren
 path: /wiki/sandbox-5.md
 nid: 21650

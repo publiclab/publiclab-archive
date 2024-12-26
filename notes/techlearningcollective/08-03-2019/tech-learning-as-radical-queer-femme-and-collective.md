@@ -1,6 +1,5 @@
 ---
-title: 'Tech Learning as Radical, Queer, Femme, and Collective'
-tagnames: education, pedagogy, blog-submission, community-organizing, lat:40.712775, lon:-74.005972, first-time-poster, tech-learning-collective, anarchotechnyc, queer, radical, train-the-trainers
+title: "Tech Learning as Radical, Queer, Femme, and Collective"\ntagnames: 'education, pedagogy, blog-submission, community-organizing, lat:40.712775, lon:-74.005972, first-time-poster, tech-learning-collective, anarchotechnyc, queer, radical, train-the-trainers'
 author: techlearningcollective
 path: /notes/techlearningcollective/08-03-2019/tech-learning-as-radical-queer-femme-and-collective.md
 nid: 20403
@@ -12,7 +11,7 @@ uid: 608717
 
 # Tech Learning as Radical, Queer, Femme, and Collective
 
-by [techlearningcollective](../profile/techlearningcollective) August 03, 2019 20:25
+by [techlearningcollective](../profile/techlearningcollective) | August 03, 2019 20:25
 
 August 03, 2019 20:25 | Tags: [education](../tag/education), [pedagogy](../tag/pedagogy), [blog-submission](../tag/blog-submission), [community-organizing](../tag/community-organizing), [lat:40.712775](../tag/lat:40.712775), [lon:-74.005972](../tag/lon:-74.005972), [first-time-poster](../tag/first-time-poster), [tech-learning-collective](../tag/tech-learning-collective), [anarchotechnyc](../tag/anarchotechnyc), [queer](../tag/queer), [radical](../tag/radical), [train-the-trainers](../tag/train-the-trainers)
 

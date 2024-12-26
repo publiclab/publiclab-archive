@@ -1,6 +1,5 @@
 ---
-title: 'Photo comment template'
-tagnames: template
+title: "Photo comment template"\ntagnames: 'template'
 author: warren
 path: /wiki/photo-comment-template.md
 nid: 17408

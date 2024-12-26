@@ -1,6 +1,5 @@
 ---
-title: 'Deploying Passive Particle Monitors'
-tagnames: wisconsin, air-quality, petcoke, dust, silica, open-air, particle-sensing, passive-particle-monitors, passive-pm, activity:pm, activity:pm-monitoring
+title: "Deploying Passive Particle Monitors"\ntagnames: 'wisconsin, air-quality, petcoke, dust, silica, open-air, particle-sensing, passive-particle-monitors, passive-pm, activity:pm, activity:pm-monitoring'
 author: mathew
 path: /notes/mathew/10-26-2015/deploying-passive-particle-monitors.md
 nid: 12337
@@ -12,7 +11,7 @@ uid: 4
 
 # Deploying Passive Particle Monitors
 
-by [mathew](../profile/mathew) October 26, 2015 21:00
+by [mathew](../profile/mathew) | October 26, 2015 21:00
 
 October 26, 2015 21:00 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [petcoke](../tag/petcoke), [dust](../tag/dust), [silica](../tag/silica), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [activity:pm](../tag/activity:pm), [activity:pm-monitoring](../tag/activity:pm-monitoring)
 

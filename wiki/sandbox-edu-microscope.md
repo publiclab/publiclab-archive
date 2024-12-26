@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-edu-microscope'
-tagnames: 
+title: "sandbox-edu-microscope"\ntagnames: ''
 author: mimiss
 path: /wiki/sandbox-edu-microscope.md
 nid: 19504

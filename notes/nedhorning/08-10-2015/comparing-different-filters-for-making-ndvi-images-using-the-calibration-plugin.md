@@ -1,6 +1,5 @@
 ---
-title: 'Comparing different filters for making NDVI images using the calibration plugin'
-tagnames: ndvi-calibrate, midopt
+title: "Comparing different filters for making NDVI images using the calibration plugin"\ntagnames: 'ndvi-calibrate, midopt'
 author: nedhorning
 path: /notes/nedhorning/08-10-2015/comparing-different-filters-for-making-ndvi-images-using-the-calibration-plugin.md
 nid: 12134
@@ -12,7 +11,7 @@ uid: 133
 
 # Comparing different filters for making NDVI images using the calibration plugin
 
-by [nedhorning](../profile/nedhorning) August 10, 2015 21:30
+by [nedhorning](../profile/nedhorning) | August 10, 2015 21:30
 
 August 10, 2015 21:30 | Tags: [ndvi-calibrate](../tag/ndvi-calibrate), [midopt](../tag/midopt)
 

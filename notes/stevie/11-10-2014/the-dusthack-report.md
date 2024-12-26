@@ -1,6 +1,5 @@
 ---
-title: 'The DustHack Report'
-tagnames: event, wisconsin, air-quality, dustduino, dust, silica, frac-sand, midwest, particle-monitoring, dylos, mid-west, parent:frac-sand
+title: "The DustHack Report"\ntagnames: 'event, wisconsin, air-quality, dustduino, dust, silica, frac-sand, midwest, particle-monitoring, dylos, mid-west, parent:frac-sand'
 author: stevie
 path: /notes/stevie/11-10-2014/the-dusthack-report.md
 nid: 11331
@@ -12,7 +11,7 @@ uid: 422561
 
 # The DustHack Report
 
-by [stevie](../profile/stevie) November 10, 2014 23:32
+by [stevie](../profile/stevie) | November 10, 2014 23:32
 
 November 10, 2014 23:32 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [dylos](../tag/dylos), [mid-west](../tag/mid-west), [parent:frac-sand](../tag/parent:frac-sand)
 

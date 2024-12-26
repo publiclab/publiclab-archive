@@ -1,6 +1,5 @@
 ---
-title: 'Filters'
-tagnames: air-quality, air, water-quality, water, filtration, method, parent:water-quality, parent:air-quality
+title: "Filters"\ntagnames: 'air-quality, air, water-quality, water, filtration, method, parent:water-quality, parent:air-quality'
 author: warren
 path: /wiki/filters.md
 nid: 18412

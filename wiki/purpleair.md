@@ -1,6 +1,5 @@
 ---
-title: 'PurpleAir'
-tagnames: particulate-sensing, air-quality, pm, method, particulate-matter, air-sensors, purpleair, purple-air, particle-sensor
+title: "PurpleAir"\ntagnames: 'particulate-sensing, air-quality, pm, method, particulate-matter, air-sensors, purpleair, purple-air, particle-sensor'
 author: jiteovien
 path: /wiki/purpleair.md
 nid: 16947

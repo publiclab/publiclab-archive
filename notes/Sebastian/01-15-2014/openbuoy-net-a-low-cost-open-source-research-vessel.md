@@ -1,6 +1,5 @@
 ---
-title: 'OpenBuoy.net , a low cost open source research vessel'
-tagnames: gulf-coast, louisiana, event, new-orleans, water-quality, sensor, eu, buoy, germany
+title: "OpenBuoy.net , a low cost open source research vessel"\ntagnames: 'gulf-coast, louisiana, event, new-orleans, water-quality, sensor, eu, buoy, germany'
 author: Sebastian
 path: /notes/Sebastian/01-15-2014/openbuoy-net-a-low-cost-open-source-research-vessel.md
 nid: 9949
@@ -12,7 +11,7 @@ uid: 420294
 
 # OpenBuoy.net , a low cost open source research vessel
 
-by [Sebastian](../profile/Sebastian) January 15, 2014 18:09
+by [Sebastian](../profile/Sebastian) | January 15, 2014 18:09
 
 January 15, 2014 18:09 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [event](../tag/event), [new-orleans](../tag/new-orleans), [water-quality](../tag/water-quality), [sensor](../tag/sensor), [eu](../tag/eu), [buoy](../tag/buoy), [germany](../tag/germany)
 

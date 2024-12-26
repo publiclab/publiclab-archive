@@ -1,6 +1,5 @@
 ---
-title: 'How to reduce pollution in simple way?'
-tagnames: pollution, weather, question:general, general, first-time-poster
+title: "How to reduce pollution in simple way?"\ntagnames: 'pollution, weather, question:general, general, first-time-poster'
 author: meenatibiswalcynixit
 path: /notes/meenatibiswalcynixit/01-09-2020/how-to-reduce-pollution-in-simple-way.md
 nid: 22250
@@ -10,7 +9,7 @@ uid: 652379
 
 # How to reduce pollution in simple way?
 
-by [meenatibiswalcynixit](../profile/meenatibiswalcynixit) January 09, 2020 12:12
+by [meenatibiswalcynixit](../profile/meenatibiswalcynixit) | January 09, 2020 12:12
 
 January 09, 2020 12:12 | Tags: [pollution](../tag/pollution), [weather](../tag/weather), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 

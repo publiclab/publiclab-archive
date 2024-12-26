@@ -1,6 +1,5 @@
 ---
-title: 'Fido - The Raspberry Pi based Temperature Alarm that sends text messages'
-tagnames: tool, datalogger, fido, data-logging, method, electronic-sensors
+title: "Fido - The Raspberry Pi based Temperature Alarm that sends text messages"\ntagnames: 'tool, datalogger, fido, data-logging, method, electronic-sensors'
 author: rjstatic
 path: /wiki/fido-the-raspberry-pi-based-temperature-alarm-that-sends-text-messages.md
 nid: 11192

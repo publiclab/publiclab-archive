@@ -1,6 +1,5 @@
 ---
-title: 'NDVI with Canon A2300, APM Hexacopter DJI550, Help'
-tagnames: near-infrared-camera, ndvi, infrared, uav, infragram, rosco, infrablue, uav-mapping, drone, apm, hexacopter, first-time-poster
+title: "NDVI with Canon A2300, APM Hexacopter DJI550, Help"\ntagnames: 'near-infrared-camera, ndvi, infrared, uav, infragram, rosco, infrablue, uav-mapping, drone, apm, hexacopter, first-time-poster'
 author: andresc4
 path: /notes/Andresc4/01-28-2014/ndvi-with-canon-a2300-apm-hexacopter-dji550-help.md
 nid: 9986
@@ -12,7 +11,7 @@ uid: 328260
 
 # NDVI with Canon A2300, APM Hexacopter DJI550, Help
 
-by [andresc4](../profile/andresc4) January 28, 2014 20:46
+by [andresc4](../profile/andresc4) | January 28, 2014 20:46
 
 January 28, 2014 20:46 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [uav](../tag/uav), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [uav-mapping](../tag/uav-mapping), [drone](../tag/drone), [apm](../tag/apm), [hexacopter](../tag/hexacopter), [first-time-poster](../tag/first-time-poster)
 

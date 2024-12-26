@@ -1,6 +1,5 @@
 ---
-title: 'plots2: the Public Lab 2.0 website'
-tagnames: website, plots2, alphatest, needs-revision, out-of-date
+title: "plots2: the Public Lab 2.0 website"\ntagnames: 'website, plots2, alphatest, needs-revision, out-of-date'
 author: warren
 path: /wiki/plots2.md
 nid: 4826

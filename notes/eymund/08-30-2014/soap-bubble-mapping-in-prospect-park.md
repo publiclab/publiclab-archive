@@ -1,6 +1,5 @@
 ---
-title: 'Soap Bubble Mapping in Prospect Park'
-tagnames: 
+title: "Soap Bubble Mapping in Prospect Park"\ntagnames: ''
 author: eymund
 path: /notes/eymund/08-30-2014/soap-bubble-mapping-in-prospect-park.md
 nid: 11090
@@ -12,7 +11,7 @@ uid: 1016
 
 # Soap Bubble Mapping in Prospect Park
 
-by [eymund](../profile/eymund) August 30, 2014 14:24
+by [eymund](../profile/eymund) | August 30, 2014 14:24
 
 August 30, 2014 14:24 | Tags: 
 

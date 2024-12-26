@@ -1,6 +1,5 @@
 ---
-title: 'Facilitate your meetings'
-tagnames: community, organizing, methodologies, communityengagement, resources-on-facilitation, facilitation, resources-for-facilitation, method
+title: "Facilitate your meetings"\ntagnames: 'community, organizing, methodologies, communityengagement, resources-on-facilitation, facilitation, resources-for-facilitation, method'
 author: wward1400
 path: /wiki/facilitation.md
 nid: 11486

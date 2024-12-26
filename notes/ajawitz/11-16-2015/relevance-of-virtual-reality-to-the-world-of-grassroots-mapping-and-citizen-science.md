@@ -1,6 +1,5 @@
 ---
-title: 'Relevance of Virtual  Reality to the World of Grassroots Mapping and Citizen Science?'
-tagnames: mapping, blog, grassroots, opendronemap, virtual_reality, cardboard_vr, stereoscopy, location:blurred, place:india, lat:22, lon:76, zoom:6
+title: "Relevance of Virtual  Reality to the World of Grassroots Mapping and Citizen Science?"\ntagnames: 'mapping, blog, grassroots, opendronemap, virtual_reality, cardboard_vr, stereoscopy, location:blurred, place:india, lat:22, lon:76, zoom:6'
 author: ajawitz
 path: /notes/ajawitz/11-16-2015/relevance-of-virtual-reality-to-the-world-of-grassroots-mapping-and-citizen-science.md
 nid: 12415
@@ -12,7 +11,7 @@ uid: 294634
 
 # Relevance of Virtual  Reality to the World of Grassroots Mapping and Citizen Science?
 
-by [ajawitz](../profile/ajawitz) November 16, 2015 17:59
+by [ajawitz](../profile/ajawitz) | November 16, 2015 17:59
 
 November 16, 2015 17:59 | Tags: [mapping](../tag/mapping), [blog](../tag/blog), [grassroots](../tag/grassroots), [opendronemap](../tag/opendronemap), [virtual_reality](../tag/virtual_reality), [cardboard_vr](../tag/cardboard_vr), [stereoscopy](../tag/stereoscopy), [location:blurred](../tag/location:blurred), [place:india](../tag/place:india), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

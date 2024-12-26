@@ -1,6 +1,5 @@
 ---
-title: 'DIY microscope resources'
-tagnames: pm, literature-review, microscope, with:maxliboiron, gosh, microscopes, microplastics, background-research, existing-projects
+title: "DIY microscope resources"\ntagnames: 'pm, literature-review, microscope, with:maxliboiron, gosh, microscopes, microplastics, background-research, existing-projects'
 author: liz
 path: /notes/liz/09-28-2016/diy-microscope-resources.md
 nid: 13503
@@ -12,7 +11,7 @@ uid: 7
 
 # DIY microscope resources
 
-by [liz](../profile/liz) September 28, 2016 23:28
+by [liz](../profile/liz) | September 28, 2016 23:28
 
 September 28, 2016 23:28 | Tags: [pm](../tag/pm), [literature-review](../tag/literature-review), [microscope](../tag/microscope), [with:maxliboiron](../tag/with:maxliboiron), [gosh](../tag/gosh), [microscopes](../tag/microscopes), [microplastics](../tag/microplastics), [background-research](../tag/background-research), [existing-projects](../tag/existing-projects)
 

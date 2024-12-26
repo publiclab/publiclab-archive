@@ -1,6 +1,5 @@
 ---
-title: 'Black image after assembly'
-tagnames: calibration, kit, first-time-poster
+title: "Black image after assembly"\ntagnames: 'calibration, kit, first-time-poster'
 author: BrentNewhall
 path: /notes/brentnewhall/12-26-2012/black-image-after-assembly.md
 nid: 5353
@@ -12,7 +11,7 @@ uid: 45471
 
 # Black image after assembly
 
-by [BrentNewhall](../profile/BrentNewhall) December 26, 2012 16:51
+by [BrentNewhall](../profile/BrentNewhall) | December 26, 2012 16:51
 
 December 26, 2012 16:51 | Tags: [calibration](../tag/calibration), [kit](../tag/kit), [first-time-poster](../tag/first-time-poster)
 

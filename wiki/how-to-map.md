@@ -1,6 +1,5 @@
 ---
-title: 'How to Map'
-tagnames: balloon-mapping, kite-mapping, kite, polemapping, mapping, balloon, pole, pole-mapping, parent:wetlands-toolkit, activity:mapping
+title: "How to Map"\ntagnames: 'balloon-mapping, kite-mapping, kite, polemapping, mapping, balloon, pole, pole-mapping, parent:wetlands-toolkit, activity:mapping'
 author: stevie
 path: /wiki/how-to-map.md
 nid: 11797

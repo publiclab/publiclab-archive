@@ -1,6 +1,5 @@
 ---
-title: 'Hydrogen Sulfide Photopaper'
-tagnames: method, h2s-photopaper, parent:hydrogen-sulfide
+title: "Hydrogen Sulfide Photopaper"\ntagnames: 'method, h2s-photopaper, parent:hydrogen-sulfide'
 author: warren
 path: /wiki/hydrogen-sulfide-photopaper.md
 nid: 15478

@@ -1,6 +1,5 @@
 ---
-title: 'Workshop II: What Factors Influence Our Environmental Problem?'
-tagnames: education, workshop, curriculum, activity:education, lesson, exploring-environmental-issues, parent:student-led-community-science-in-the-classroom-a-curriculum, series:student-community-science, activity:student-community-science, with:purl
+title: "Workshop II: What Factors Influence Our Environmental Problem?"\ntagnames: 'education, workshop, curriculum, activity:education, lesson, exploring-environmental-issues, parent:student-led-community-science-in-the-classroom-a-curriculum, series:student-community-science, activity:student-community-science, with:purl'
 author: mimiss
 path: /notes/mimiss/05-07-2019/workshop-ii-what-factors-influence-our-environmental-problem.md
 nid: 19268
@@ -12,7 +11,7 @@ uid: 579821
 
 # Workshop II: What Factors Influence Our Environmental Problem?
 
-by [mimiss](../profile/mimiss) May 07, 2019 19:13
+by [mimiss](../profile/mimiss) | May 07, 2019 19:13
 
 May 07, 2019 19:13 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [lesson](../tag/lesson), [exploring-environmental-issues](../tag/exploring-environmental-issues), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [series:student-community-science](../tag/series:student-community-science), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
 

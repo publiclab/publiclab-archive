@@ -1,6 +1,5 @@
 ---
-title: 'Spruce tips'
-tagnames: near-infrared-camera, ndvi, infrared, alaska, infragram, plant-health, nbg, infrablue, treeline, akrange, infrabluephoto, activity:multispectral-imaging
+title: "Spruce tips"\ntagnames: 'near-infrared-camera, ndvi, infrared, alaska, infragram, plant-health, nbg, infrablue, treeline, akrange, infrabluephoto, activity:multispectral-imaging'
 author: cfastie
 path: /notes/cfastie/07-10-2013/spruce-tips.md
 nid: 8810
@@ -12,7 +11,7 @@ uid: 554
 
 # Spruce tips
 
-by [cfastie](../profile/cfastie) July 10, 2013 21:51
+by [cfastie](../profile/cfastie) | July 10, 2013 21:51
 
 July 10, 2013 21:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [alaska](../tag/alaska), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [nbg](../tag/nbg), [infrablue](../tag/infrablue), [treeline](../tag/treeline), [akrange](../tag/akrange), [infrabluephoto](../tag/infrabluephoto), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
 

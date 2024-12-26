@@ -1,6 +1,5 @@
 ---
-title: 'Mid stream Urine analysis: Check whether you need to drink more water or not'
-tagnames: spectrometer, analysis, spectro, urine
+title: "Mid stream Urine analysis: Check whether you need to drink more water or not"\ntagnames: 'spectrometer, analysis, spectro, urine'
 author: chongyukwai
 path: /notes/chongyukwai/05-23-2015/mid-stream-urine-analysis-check-whether-you-need-to-drink-more-water-or-not.md
 nid: 11834
@@ -12,7 +11,7 @@ uid: 442298
 
 # Mid stream Urine analysis: Check whether you need to drink more water or not
 
-by [chongyukwai](../profile/chongyukwai) May 23, 2015 14:56
+by [chongyukwai](../profile/chongyukwai) | May 23, 2015 14:56
 
 May 23, 2015 14:56 | Tags: [spectrometer](../tag/spectrometer), [analysis](../tag/analysis), [spectro](../tag/spectro), [urine](../tag/urine)
 

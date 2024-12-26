@@ -1,6 +1,5 @@
 ---
-title: 'THE CRY OF THE SUQUÍA RIVER'
-tagnames: sewage, water-quality, wastewater, advocacy, documentary, zoom:0, zoom:12, research-curation-fellows, aguas-cloacales, lat:-31.406689, lon:-64.189246
+title: "THE CRY OF THE SUQUÍA RIVER"\ntagnames: 'sewage, water-quality, wastewater, advocacy, documentary, zoom:0, zoom:12, research-curation-fellows, aguas-cloacales, lat:-31.406689, lon:-64.189246'
 author: alejobonifacio
 path: /notes/alejobonifacio/12-20-2021/the-cry-of-the-suquia-river.md
 nid: 28513
@@ -12,7 +11,7 @@ uid: 639376
 
 # THE CRY OF THE SUQUÍA RIVER
 
-by [alejobonifacio](../profile/alejobonifacio) December 20, 2021 18:45
+by [alejobonifacio](../profile/alejobonifacio) | December 20, 2021 18:45
 
 December 20, 2021 18:45 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [wastewater](../tag/wastewater), [advocacy](../tag/advocacy), [documentary](../tag/documentary), [zoom:0](../tag/zoom:0), [zoom:12](../tag/zoom:12), [research-curation-fellows](../tag/research-curation-fellows), [aguas-cloacales](../tag/aguas-cloacales), [lat:-31.406689](../tag/lat:-31.406689), [lon:-64.189246](../tag/lon:-64.189246)
 

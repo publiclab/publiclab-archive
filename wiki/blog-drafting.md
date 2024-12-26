@@ -1,6 +1,5 @@
 ---
-title: 'Blog Drafting'
-tagnames: public-health, publiclab, advocacy, first-timers-only-blog, success-stories, environmental-advocacy, myrwa
+title: "Blog Drafting"\ntagnames: 'public-health, publiclab, advocacy, first-timers-only-blog, success-stories, environmental-advocacy, myrwa'
 author: warren
 path: /wiki/blog-drafting.md
 nid: 12025

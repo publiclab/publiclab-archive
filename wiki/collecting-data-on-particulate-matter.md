@@ -1,6 +1,5 @@
 ---
-title: 'Collecting Data on Particulate Matter'
-tagnames: parent:pm
+title: "Collecting Data on Particulate Matter"\ntagnames: 'parent:pm'
 author: mathew
 path: /wiki/collecting-data-on-particulate-matter.md
 nid: 12691

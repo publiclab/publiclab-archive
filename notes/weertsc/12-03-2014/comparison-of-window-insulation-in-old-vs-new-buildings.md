@@ -1,6 +1,5 @@
 ---
-title: 'Comparison of Window Insulation in Old vs New buildings'
-tagnames: thermal-photography, thermal-flashlight, insulation, windows, heat, replication:625
+title: "Comparison of Window Insulation in Old vs New buildings"\ntagnames: 'thermal-photography, thermal-flashlight, insulation, windows, heat, replication:625'
 author: weertsc
 path: /notes/weertsc/12-03-2014/comparison-of-window-insulation-in-old-vs-new-buildings.md
 nid: 11434
@@ -12,7 +11,7 @@ uid: 432302
 
 # Comparison of Window Insulation in Old vs New buildings
 
-by [weertsc](../profile/weertsc) December 03, 2014 19:05
+by [weertsc](../profile/weertsc) | December 03, 2014 19:05
 
 December 03, 2014 19:05 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [insulation](../tag/insulation), [windows](../tag/windows), [heat](../tag/heat), [replication:625](../tag/replication:625)
 

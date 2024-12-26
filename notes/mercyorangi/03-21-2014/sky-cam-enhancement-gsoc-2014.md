@@ -1,6 +1,5 @@
 ---
-title: 'Sky Cam Enhancement - GSoC 2014'
-tagnames: gsoc, skycam, first-time-poster
+title: "Sky Cam Enhancement - GSoC 2014"\ntagnames: 'gsoc, skycam, first-time-poster'
 author: mercyorangi
 path: /notes/mercyorangi/03-21-2014/sky-cam-enhancement-gsoc-2014.md
 nid: 10213
@@ -12,7 +11,7 @@ uid: 421649
 
 # Sky Cam Enhancement - GSoC 2014
 
-by [mercyorangi](../profile/mercyorangi) March 21, 2014 17:05
+by [mercyorangi](../profile/mercyorangi) | March 21, 2014 17:05
 
 March 21, 2014 17:05 | Tags: [gsoc](../tag/gsoc), [skycam](../tag/skycam), [first-time-poster](../tag/first-time-poster)
 

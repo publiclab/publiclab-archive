@@ -1,6 +1,5 @@
 ---
-title: 'Video idea for thermal fishing bob in Gowanus'
-tagnames: new-york-city, gowanus-canal, thermal-fishing-bob, thermal, thermal-pollution, northeast, heat, response:689
+title: "Video idea for thermal fishing bob in Gowanus"\ntagnames: 'new-york-city, gowanus-canal, thermal-fishing-bob, thermal, thermal-pollution, northeast, heat, response:689'
 author: liz
 path: /notes/liz/3-2-2012/video-idea-thermal-fishing-bob-gowanus.md
 nid: 883
@@ -10,7 +9,7 @@ uid: 7
 
 # Video idea for thermal fishing bob in Gowanus
 
-by [liz](../profile/liz) March 02, 2012 16:43
+by [liz](../profile/liz) | March 02, 2012 16:43
 
 March 02, 2012 16:43 | Tags: [new-york-city](../tag/new-york-city), [gowanus-canal](../tag/gowanus-canal), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [northeast](../tag/northeast), [heat](../tag/heat), [response:689](../tag/response:689)
 

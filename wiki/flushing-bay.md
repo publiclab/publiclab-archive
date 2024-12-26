@@ -1,6 +1,5 @@
 ---
-title: 'flushing-bay'
-tagnames: new-york-city, flushing-bay, northeast, dragon-boat
+title: "flushing-bay"\ntagnames: 'new-york-city, flushing-bay, northeast, dragon-boat'
 author: liz
 path: /wiki/flushing-bay.md
 nid: 10442

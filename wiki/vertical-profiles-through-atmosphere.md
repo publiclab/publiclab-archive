@@ -1,6 +1,5 @@
 ---
-title: 'vertical atmospheric profiles'
-tagnames: air-column-monitor, air-quality
+title: "vertical atmospheric profiles"\ntagnames: 'air-column-monitor, air-quality'
 author: liz
 path: /wiki/vertical-profiles-through-atmosphere.md
 nid: 1623

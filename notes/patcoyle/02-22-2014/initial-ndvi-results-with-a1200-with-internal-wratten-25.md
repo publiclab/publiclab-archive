@@ -1,6 +1,5 @@
 ---
-title: 'Updated initial NDVI results from A1200 with internal Wratten 25'
-tagnames: ndvi, a1200, infrared-camera, infrablue, wratten25a, a490
+title: "Updated initial NDVI results from A1200 with internal Wratten 25"\ntagnames: 'ndvi, a1200, infrared-camera, infrablue, wratten25a, a490'
 author: patcoyle
 path: /notes/patcoyle/02-22-2014/initial-ndvi-results-with-a1200-with-internal-wratten-25.md
 nid: 10055
@@ -12,7 +11,7 @@ uid: 77
 
 # Updated initial NDVI results from A1200 with internal Wratten 25
 
-by [patcoyle](../profile/patcoyle) February 22, 2014 05:24
+by [patcoyle](../profile/patcoyle) | February 22, 2014 05:24
 
 February 22, 2014 05:24 | Tags: [ndvi](../tag/ndvi), [a1200](../tag/a1200), [infrared-camera](../tag/infrared-camera), [infrablue](../tag/infrablue), [wratten25a](../tag/wratten25a), [a490](../tag/a490)
 

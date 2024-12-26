@@ -1,6 +1,5 @@
 ---
-title: 'Bacteria'
-tagnames: water-quality, bacteria
+title: "Bacteria"\ntagnames: 'water-quality, bacteria'
 author: Mempet
 path: /notes/Mempet/09-04-2017/bacteria.md
 nid: 14827
@@ -10,7 +9,7 @@ uid: 513742
 
 # Bacteria
 
-by [Mempet](../profile/Mempet) September 04, 2017 19:18
+by [Mempet](../profile/Mempet) | September 04, 2017 19:18
 
 September 04, 2017 19:18 | Tags: [water-quality](../tag/water-quality), [bacteria](../tag/bacteria)
 

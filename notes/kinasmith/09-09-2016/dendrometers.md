@@ -1,6 +1,5 @@
 ---
-title: 'Dendrometers!'
-tagnames: alaska, tree, trees, datalogger, sensor-networks, sensor, circuit-board
+title: "Dendrometers!"\ntagnames: 'alaska, tree, trees, datalogger, sensor-networks, sensor, circuit-board'
 author: kinasmith
 path: /notes/kinasmith/09-09-2016/dendrometers.md
 nid: 13435
@@ -12,7 +11,7 @@ uid: 445906
 
 # Dendrometers!
 
-by [kinasmith](../profile/kinasmith) September 09, 2016 22:48
+by [kinasmith](../profile/kinasmith) | September 09, 2016 22:48
 
 September 09, 2016 22:48 | Tags: [alaska](../tag/alaska), [tree](../tag/tree), [trees](../tag/trees), [datalogger](../tag/datalogger), [sensor-networks](../tag/sensor-networks), [sensor](../tag/sensor), [circuit-board](../tag/circuit-board)
 

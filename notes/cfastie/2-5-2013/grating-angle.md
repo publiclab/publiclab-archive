@@ -1,6 +1,5 @@
 ---
-title: 'Grating angle'
-tagnames: spectrometer, vermont, diffraction-grating, entrance-slit, ebert, focus, barnstar:empiricism, lego
+title: "Grating angle"\ntagnames: 'spectrometer, vermont, diffraction-grating, entrance-slit, ebert, focus, barnstar:empiricism, lego'
 author: cfastie
 path: /notes/cfastie/2-5-2013/grating-angle.md
 nid: 5892
@@ -12,7 +11,7 @@ uid: 554
 
 # Grating angle
 
-by [cfastie](../profile/cfastie) February 05, 2013 16:40
+by [cfastie](../profile/cfastie) | February 05, 2013 16:40
 
 February 05, 2013 16:40 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [diffraction-grating](../tag/diffraction-grating), [entrance-slit](../tag/entrance-slit), [ebert](../tag/ebert), [focus](../tag/focus), [barnstar:empiricism](../tag/barnstar:empiricism), [lego](../tag/lego)
 

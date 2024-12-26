@@ -1,6 +1,5 @@
 ---
-title: 'Huber seeks permits to remove bald eagle nests'
-tagnames: minnesota, zoom:6, law-and-policy, mn-land-manoomin-protection, eagle, lat:46.729553, lon:-94.685899
+title: "Huber seeks permits to remove bald eagle nests"\ntagnames: 'minnesota, zoom:6, law-and-policy, mn-land-manoomin-protection, eagle, lat:46.729553, lon:-94.685899'
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/09-02-2022/huber-seeks-permits-to-remove-bald-eagle-nests.md
 nid: 34928
@@ -12,7 +11,7 @@ uid: 796025
 
 # Huber seeks permits to remove bald eagle nests
 
-by [JuliaGuerrein](../profile/JuliaGuerrein) September 02, 2022 19:17
+by [JuliaGuerrein](../profile/JuliaGuerrein) | September 02, 2022 19:17
 
 September 02, 2022 19:17 | Tags: [minnesota](../tag/minnesota), [zoom:6](../tag/zoom:6), [law-and-policy](../tag/law-and-policy), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [eagle](../tag/eagle), [lat:46.729553](../tag/lat:46.729553), [lon:-94.685899](../tag/lon:-94.685899)
 

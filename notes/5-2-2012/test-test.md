@@ -1,6 +1,5 @@
 ---
-title: 'test-test'
-tagnames: 
+title: "test-test"\ntagnames: ''
 author: 
 path: /notes/5-2-2012/test-test.md
 nid: 2101
@@ -12,7 +11,7 @@ uid: 0
 
 # test-test
 
-by [](../profile/) May 02, 2012 12:30
+by [](../profile/) | May 02, 2012 12:30
 
 May 02, 2012 12:30 | Tags: 
 

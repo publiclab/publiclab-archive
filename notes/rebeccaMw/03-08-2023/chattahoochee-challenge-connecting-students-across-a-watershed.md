@@ -1,6 +1,5 @@
 ---
-title: 'Chattahoochee Challenge: Connecting Students Across a Watershed '
-tagnames: georgia, education, water-quality, chattahoochee, microplastics, babylegs, zoom:6, zoom:5, messages-from-the-mississippi, lat:32.7688, lon:-84.375, lat:32.79356, lon:-84.401195
+title: "Chattahoochee Challenge: Connecting Students Across a Watershed "\ntagnames: 'georgia, education, water-quality, chattahoochee, microplastics, babylegs, zoom:6, zoom:5, messages-from-the-mississippi, lat:32.7688, lon:-84.375, lat:32.79356, lon:-84.401195'
 author: rebeccaMw
 path: /notes/rebeccaMw/03-08-2023/chattahoochee-challenge-connecting-students-across-a-watershed.md
 nid: 38742
@@ -12,7 +11,7 @@ uid: 779054
 
 # Chattahoochee Challenge: Connecting Students Across a Watershed 
 
-by [rebeccaMw](../profile/rebeccaMw) March 08, 2023 18:16
+by [rebeccaMw](../profile/rebeccaMw) | March 08, 2023 18:16
 
 March 08, 2023 18:16 | Tags: [georgia](../tag/georgia), [education](../tag/education), [water-quality](../tag/water-quality), [chattahoochee](../tag/chattahoochee), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [zoom:6](../tag/zoom:6), [zoom:5](../tag/zoom:5), [messages-from-the-mississippi](../tag/messages-from-the-mississippi), [lat:32.7688](../tag/lat:32.7688), [lon:-84.375](../tag/lon:-84.375), [lat:32.79356](../tag/lat:32.79356), [lon:-84.401195](../tag/lon:-84.401195)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Mayfly'
-tagnames: water-sensing, datalogger, data-logging, parent:data-logging, water-sensors, mayfly, stroud
+title: "Mayfly"\ntagnames: 'water-sensing, datalogger, data-logging, parent:data-logging, water-sensors, mayfly, stroud'
 author: warren
 path: /wiki/mayfly.md
 nid: 15297

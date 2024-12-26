@@ -1,6 +1,5 @@
 ---
-title: 'choosing-how-to-track-progress'
-tagnames: parent:gardening-toolkit, gardening-toolkit
+title: "choosing-how-to-track-progress"\ntagnames: 'parent:gardening-toolkit, gardening-toolkit'
 author: liz
 path: /wiki/choosing-how-to-track-progress.md
 nid: 11508

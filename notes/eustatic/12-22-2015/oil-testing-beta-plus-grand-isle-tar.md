@@ -1,6 +1,5 @@
 ---
-title: 'Oil Testing Beta --plus Grand Isle tar'
-tagnames: spectrometer, oil, pipeline, orca, crude-oil, oil-testing-kit, barnstar:basic, otk, beta, alpha, oil-testing-kit-beta, activity:spectrometry-sampling, pipeline-monitoring
+title: "Oil Testing Beta --plus Grand Isle tar"\ntagnames: 'spectrometer, oil, pipeline, orca, crude-oil, oil-testing-kit, barnstar:basic, otk, beta, alpha, oil-testing-kit-beta, activity:spectrometry-sampling, pipeline-monitoring'
 author: eustatic
 path: /12-22-2015/oil-testing-beta-plus-grand-isle-tar.md
 nid: 12538
@@ -12,7 +11,7 @@ uid: 379
 
 # Oil Testing Beta --plus Grand Isle tar
 
-by [eustatic](../profile/eustatic) December 22, 2015 02:50
+by [eustatic](../profile/eustatic) | December 22, 2015 02:50
 
 December 22, 2015 02:50 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [pipeline](../tag/pipeline), [orca](../tag/orca), [crude-oil](../tag/crude-oil), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [otk](../tag/otk), [beta](../tag/beta), [alpha](../tag/alpha), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling), [pipeline-monitoring](../tag/pipeline-monitoring)
 

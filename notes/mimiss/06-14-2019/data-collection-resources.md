@@ -1,6 +1,5 @@
 ---
-title: 'Data Collection Resources'
-tagnames: education, data-collection, study-design, activity:nas-student-community-science, series:student-community-science, activity:student-community-science, with:purl
+title: "Data Collection Resources"\ntagnames: 'education, data-collection, study-design, activity:nas-student-community-science, series:student-community-science, activity:student-community-science, with:purl'
 author: mimiss
 path: /notes/mimiss/06-14-2019/data-collection-resources.md
 nid: 19699
@@ -10,7 +9,7 @@ uid: 579821
 
 # Data Collection Resources
 
-by [mimiss](../profile/mimiss) June 14, 2019 13:27
+by [mimiss](../profile/mimiss) | June 14, 2019 13:27
 
 June 14, 2019 13:27 | Tags: [education](../tag/education), [data-collection](../tag/data-collection), [study-design](../tag/study-design), [activity:nas-student-community-science](../tag/activity:nas-student-community-science), [series:student-community-science](../tag/series:student-community-science), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl)
 

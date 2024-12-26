@@ -1,6 +1,5 @@
 ---
-title: 'Titraumatic: An apparatus for automated pH titration.'
-tagnames: response:9421, ph, titraumatic, titration
+title: "Titraumatic: An apparatus for automated pH titration."\ntagnames: 'response:9421, ph, titraumatic, titration'
 author: JSummers
 path: /notes/JSummers/12-02-2014/titraumatic-automated-titration-apparatus.md
 nid: 11418
@@ -12,7 +11,7 @@ uid: 304279
 
 # Titraumatic: An apparatus for automated pH titration.
 
-by [JSummers](../profile/JSummers) December 02, 2014 01:49
+by [JSummers](../profile/JSummers) | December 02, 2014 01:49
 
 December 02, 2014 01:49 | Tags: [response:9421](../tag/response:9421), [ph](../tag/ph), [titraumatic](../tag/titraumatic), [titration](../tag/titration)
 

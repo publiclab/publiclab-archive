@@ -1,6 +1,5 @@
 ---
-title: 'barnstar-brainstorm'
-tagnames: barnstars
+title: "barnstar-brainstorm"\ntagnames: 'barnstars'
 author: warren
 path: /wiki/barnstar-brainstorm.md
 nid: 10275

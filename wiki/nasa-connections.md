@@ -1,6 +1,5 @@
 ---
-title: 'NASA connections'
-tagnames: nasa, partnerships
+title: "NASA connections"\ntagnames: 'nasa, partnerships'
 author: liz
 path: /wiki/nasa-connections.md
 nid: 7493

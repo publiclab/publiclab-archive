@@ -1,6 +1,5 @@
 ---
-title: 'Balloon-mapping a protest in Jerusalem'
-tagnames: balloon-mapping, jerusalem, protest-mapping, protest, march
+title: "Balloon-mapping a protest in Jerusalem"\ntagnames: 'balloon-mapping, jerusalem, protest-mapping, protest, march'
 author: warren
 path: /notes/warren/7-21-2011/balloon-mapping-protest-jerusalem.md
 nid: 403
@@ -12,7 +11,7 @@ uid: 1
 
 # Balloon-mapping a protest in Jerusalem
 
-by [warren](../profile/warren) July 21, 2011 13:53
+by [warren](../profile/warren) | July 21, 2011 13:53
 
 July 21, 2011 13:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [protest-mapping](../tag/protest-mapping), [protest](../tag/protest), [march](../tag/march)
 

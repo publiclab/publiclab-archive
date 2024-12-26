@@ -1,6 +1,5 @@
 ---
-title: 'Project Advances Environmental Literacy on the Coasts'
-tagnames: gulf-coast, education, youth, blog, nas, national-academies-of-sciences
+title: "Project Advances Environmental Literacy on the Coasts"\ntagnames: 'gulf-coast, education, youth, blog, nas, national-academies-of-sciences'
 author: joyofsoy
 path: /notes/joyofsoy/10-25-2018/project-advances-environmental-literacy-on-the-coasts.md
 nid: 17391
@@ -12,7 +11,7 @@ uid: 540844
 
 # Project Advances Environmental Literacy on the Coasts
 
-by [joyofsoy](../profile/joyofsoy) October 25, 2018 14:29
+by [joyofsoy](../profile/joyofsoy) | October 25, 2018 14:29
 
 October 25, 2018 14:29 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [youth](../tag/youth), [blog](../tag/blog), [nas](../tag/nas), [national-academies-of-sciences](../tag/national-academies-of-sciences)
 

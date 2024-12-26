@@ -1,6 +1,5 @@
 ---
-title: 'Washington University visits the Gulf Coast and Maps! '
-tagnames: gulf-coast, balloon-mapping, great-photos, barnstar:photo-documentation, washustlouis, washu-stlouis, urbanwaters
+title: "Washington University visits the Gulf Coast and Maps! "\ntagnames: 'gulf-coast, balloon-mapping, great-photos, barnstar:photo-documentation, washustlouis, washu-stlouis, urbanwaters'
 author: stevie
 path: /notes/stevie/09-12-2014/washington-university-visits-the-gulf-coast-and-maps.md
 nid: 11137
@@ -12,7 +11,7 @@ uid: 422561
 
 # Washington University visits the Gulf Coast and Maps! 
 
-by [stevie](../profile/stevie) September 12, 2014 19:02
+by [stevie](../profile/stevie) | September 12, 2014 19:02
 
 September 12, 2014 19:02 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [great-photos](../tag/great-photos), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [urbanwaters](../tag/urbanwaters)
 

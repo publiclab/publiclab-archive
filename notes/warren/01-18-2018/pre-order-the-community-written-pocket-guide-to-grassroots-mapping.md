@@ -1,6 +1,5 @@
 ---
-title: 'Pre-order the community written Pocket Guide to Grassroots Mapping'
-tagnames: balloon-mapping, kite-mapping, guides, kits, aerial-photography, grassroots-mapping, how-to, aerial-mapping, booklet
+title: "Pre-order the community written Pocket Guide to Grassroots Mapping"\ntagnames: 'balloon-mapping, kite-mapping, guides, kits, aerial-photography, grassroots-mapping, how-to, aerial-mapping, booklet'
 author: warren
 path: /notes/warren/01-18-2018/pre-order-the-community-written-pocket-guide-to-grassroots-mapping.md
 nid: 15545
@@ -12,7 +11,7 @@ uid: 1
 
 # Pre-order the community written Pocket Guide to Grassroots Mapping
 
-by [warren](../profile/warren) January 18, 2018 01:50
+by [warren](../profile/warren) | January 18, 2018 01:50
 
 January 18, 2018 01:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [guides](../tag/guides), [kits](../tag/kits), [aerial-photography](../tag/aerial-photography), [grassroots-mapping](../tag/grassroots-mapping), [how-to](../tag/how-to), [aerial-mapping](../tag/aerial-mapping), [booklet](../tag/booklet)
 

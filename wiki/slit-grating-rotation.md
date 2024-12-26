@@ -1,6 +1,5 @@
 ---
-title: 'Slit - Grating Rotation'
-tagnames: 
+title: "Slit - Grating Rotation"\ntagnames: ''
 author: danbeavers
 path: /wiki/slit-grating-rotation.md
 nid: 5904

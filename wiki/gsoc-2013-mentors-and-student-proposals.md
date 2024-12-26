@@ -1,6 +1,5 @@
 ---
-title: 'GSOC 2013 Mentors and Student Proposals'
-tagnames: gsoc, gsoc-2013
+title: "GSOC 2013 Mentors and Student Proposals"\ntagnames: 'gsoc, gsoc-2013'
 author: gonzoearth
 path: /wiki/gsoc-2013-mentors-and-student-proposals.md
 nid: 7225

@@ -1,6 +1,5 @@
 ---
-title: 'Boston'
-tagnames: boston, events:boston, list:plots-boston, northeast, parent:northeast
+title: "Boston"\ntagnames: 'boston, events:boston, list:plots-boston, northeast, parent:northeast'
 author: warren
 path: /wiki/boston.md
 nid: 7287

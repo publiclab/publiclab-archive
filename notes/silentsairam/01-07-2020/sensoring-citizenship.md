@@ -1,6 +1,5 @@
 ---
-title: 'Sensoring Citizenship '
-tagnames: air, simple, pollution, sensor, air-sensing, plantower, purple-air, simple-air-sensor, activity:air-sensing, activity:plantower, airsense, lat:10.765577, lon:78.805975
+title: "Sensoring Citizenship "\ntagnames: 'air, simple, pollution, sensor, air-sensing, plantower, purple-air, simple-air-sensor, activity:air-sensing, activity:plantower, airsense, lat:10.765577, lon:78.805975'
 author: silentsairam
 path: /notes/silentsairam/01-07-2020/sensoring-citizenship.md
 nid: 22231
@@ -12,7 +11,7 @@ uid: 553044
 
 # Sensoring Citizenship 
 
-by [silentsairam](../profile/silentsairam) January 07, 2020 09:48
+by [silentsairam](../profile/silentsairam) | January 07, 2020 09:48
 
 January 07, 2020 09:48 | Tags: [air](../tag/air), [simple](../tag/simple), [pollution](../tag/pollution), [sensor](../tag/sensor), [air-sensing](../tag/air-sensing), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [simple-air-sensor](../tag/simple-air-sensor), [activity:air-sensing](../tag/activity:air-sensing), [activity:plantower](../tag/activity:plantower), [airsense](../tag/airsense), [lat:10.765577](../tag/lat:10.765577), [lon:78.805975](../tag/lon:78.805975)
 

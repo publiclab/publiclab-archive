@@ -1,6 +1,5 @@
 ---
-title: 'Job posting: Public Lab Development Associate'
-tagnames: jobs
+title: "Job posting: Public Lab Development Associate"\ntagnames: 'jobs'
 author: Shannon
 path: /notes/Shannon/10-03-2019/job-posting-public-lab-development-associate.md
 nid: 21065
@@ -12,7 +11,7 @@ uid: 9
 
 # Job posting: Public Lab Development Associate
 
-by [Shannon](../profile/Shannon) October 03, 2019 14:32
+by [Shannon](../profile/Shannon) | October 03, 2019 14:32
 
 October 03, 2019 14:32 | Tags: [jobs](../tag/jobs)
 

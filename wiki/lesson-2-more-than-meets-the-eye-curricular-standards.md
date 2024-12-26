@@ -1,6 +1,5 @@
 ---
-title: 'Lesson 2: More than Meets the Eye, curricular standards'
-tagnames: parent:wetlands-lesson-plans
+title: "Lesson 2: More than Meets the Eye, curricular standards"\ntagnames: 'parent:wetlands-lesson-plans'
 author: mathew
 path: /wiki/lesson-2-more-than-meets-the-eye-curricular-standards.md
 nid: 12065

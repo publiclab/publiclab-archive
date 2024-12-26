@@ -1,6 +1,5 @@
 ---
-title: 'Remote Sensing'
-tagnames: remote-sensing, satellite-imagery, historic-aerial, americaview, remote-sensing-data-availability, parent:aerial-imagery-in-the-public-domain
+title: "Remote Sensing"\ntagnames: 'remote-sensing, satellite-imagery, historic-aerial, americaview, remote-sensing-data-availability, parent:aerial-imagery-in-the-public-domain'
 author: gilbert
 path: /wiki/remote-sensing.md
 nid: 14618

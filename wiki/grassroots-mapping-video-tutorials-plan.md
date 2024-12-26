@@ -1,6 +1,5 @@
 ---
-title: 'Grassroots Mapping Video Tutorials Plan'
-tagnames: 
+title: "Grassroots Mapping Video Tutorials Plan"\ntagnames: ''
 author: mathew
 path: /wiki/grassroots-mapping-video-tutorials-plan.md
 nid: 429

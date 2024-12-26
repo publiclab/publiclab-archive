@@ -1,6 +1,5 @@
 ---
-title: 'Arc Emissions- What electrodes to use?'
-tagnames: spectrometer, flame, desktop-spectrometer-assembly, desktop-spectrometry-kit, chapter, flare, modifications, question:spectrometry, response:9420, arc
+title: "Arc Emissions- What electrodes to use?"\ntagnames: 'spectrometer, flame, desktop-spectrometer-assembly, desktop-spectrometry-kit, chapter, flare, modifications, question:spectrometry, response:9420, arc'
 author: m3sca1
 path: /notes/m3sca1/09-15-2016/arc-emissions-what-electrodes-to-use.md
 nid: 13447
@@ -10,7 +9,7 @@ uid: 491522
 
 # Arc Emissions- What electrodes to use?
 
-by [m3sca1](../profile/m3sca1) September 15, 2016 02:06
+by [m3sca1](../profile/m3sca1) | September 15, 2016 02:06
 
 September 15, 2016 02:06 | Tags: [spectrometer](../tag/spectrometer), [flame](../tag/flame), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [chapter](../tag/chapter), [flare](../tag/flare), [modifications](../tag/modifications), [question:spectrometry](../tag/question:spectrometry), [response:9420](../tag/response:9420), [arc](../tag/arc)
 

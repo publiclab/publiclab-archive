@@ -1,6 +1,5 @@
 ---
-title: 'Measurements on the MultispeQ beta, soon to be released'
-tagnames: fluorescence, soil, health, photosynthesis, photosynq, plant, multispeq
+title: "Measurements on the MultispeQ beta, soon to be released"\ntagnames: 'fluorescence, soil, health, photosynthesis, photosynq, plant, multispeq'
 author: gbathree
 path: /notes/gbathree/12-12-2014/measurements-on-the-multispeq-beta-soon-to-be-released.md
 nid: 11451
@@ -12,7 +11,7 @@ uid: 53164
 
 # Measurements on the MultispeQ beta, soon to be released
 
-by [gbathree](../profile/gbathree) December 12, 2014 02:51
+by [gbathree](../profile/gbathree) | December 12, 2014 02:51
 
 December 12, 2014 02:51 | Tags: [fluorescence](../tag/fluorescence), [soil](../tag/soil), [health](../tag/health), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [plant](../tag/plant), [multispeq](../tag/multispeq)
 

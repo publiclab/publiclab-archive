@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal by narnt'
-tagnames: software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster
+title: "Outreachy proposal by narnt"\ntagnames: 'software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster'
 author: thayshi
 path: /notes/thayshi/11-01-2018/outreachy-proposal-by-narnt.md
 nid: 17455
@@ -12,7 +11,7 @@ uid: 557369
 
 # Outreachy proposal by narnt
 
-by [thayshi](../profile/thayshi) November 01, 2018 16:02
+by [thayshi](../profile/thayshi) | November 01, 2018 16:02
 
 November 01, 2018 16:02 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
 

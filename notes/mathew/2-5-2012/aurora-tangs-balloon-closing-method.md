@@ -1,6 +1,5 @@
 ---
-title: 'Aurora Tang's Balloon Closing Method'
-tagnames: 
+title: "Aurora Tang's Balloon Closing Method"\ntagnames: ''
 author: mathew
 path: /notes/mathew/2-5-2012/aurora-tangs-balloon-closing-method.md
 nid: 751
@@ -12,7 +11,7 @@ uid: 4
 
 # Aurora Tang's Balloon Closing Method
 
-by [mathew](../profile/mathew) February 06, 2012 02:13
+by [mathew](../profile/mathew) | February 06, 2012 02:13
 
 February 06, 2012 02:13 | Tags: 
 

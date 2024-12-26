@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-education-landing-page'
-tagnames: 
+title: "sandbox-education-landing-page"\ntagnames: ''
 author: mimiss
 path: /wiki/sandbox-education-landing-page.md
 nid: 19493

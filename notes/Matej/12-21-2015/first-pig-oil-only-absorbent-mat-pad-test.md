@@ -1,6 +1,5 @@
 ---
-title: 'First "PIG Oil Only Absorbent Mat Pad" Test'
-tagnames: spectrometer, oil-spill, oil, water-quality, oil-testing-kit, barnstar:basic, sheen, otk, os, out, pig, activity:spectrometry-sampling
+title: "First "PIG Oil Only Absorbent Mat Pad" Test"\ntagnames: 'spectrometer, oil-spill, oil, water-quality, oil-testing-kit, barnstar:basic, sheen, otk, os, out, pig, activity:spectrometry-sampling'
 author: Matej
 path: /notes/Matej/12-21-2015/first-pig-oil-only-absorbent-mat-pad-test.md
 nid: 12536
@@ -12,7 +11,7 @@ uid: 451808
 
 # First "PIG Oil Only Absorbent Mat Pad" Test
 
-by [Matej](../profile/Matej) December 21, 2015 08:43
+by [Matej](../profile/Matej) | December 21, 2015 08:43
 
 December 21, 2015 08:43 | Tags: [spectrometer](../tag/spectrometer), [oil-spill](../tag/oil-spill), [oil](../tag/oil), [water-quality](../tag/water-quality), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [sheen](../tag/sheen), [otk](../tag/otk), [os](../tag/os), [out](../tag/out), [pig](../tag/pig), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 

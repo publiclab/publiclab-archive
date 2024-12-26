@@ -1,6 +1,5 @@
 ---
-title: 'Email Notification Overhaul'
-tagnames: software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, first-time-poster
+title: "Email Notification Overhaul"\ntagnames: 'software, gsoc, gsoc-2017, soc, soc-2017, rgsoc-2017, soc-2017-proposals, response:13975, gsoc-2017-accepted, first-time-poster'
 author: stella
 path: /notes/stella/04-03-2017/email-notification-overhaul.md
 nid: 14084
@@ -12,7 +11,7 @@ uid: 504749
 
 # Email Notification Overhaul
 
-by [stella](../profile/stella) April 03, 2017 06:26
+by [stella](../profile/stella) | April 03, 2017 06:26
 
 April 03, 2017 06:26 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [rgsoc-2017](../tag/rgsoc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [gsoc-2017-accepted](../tag/gsoc-2017-accepted), [first-time-poster](../tag/first-time-poster)
 

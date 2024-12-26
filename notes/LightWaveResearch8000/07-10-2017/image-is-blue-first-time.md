@@ -1,6 +1,5 @@
 ---
-title: 'Image is blue - First time '
-tagnames: question:spectral-workbench, answered, first-time-poster
+title: "Image is blue - First time "\ntagnames: 'question:spectral-workbench, answered, first-time-poster'
 author: LightWaveResearch8000
 path: /notes/LightWaveResearch8000/07-10-2017/image-is-blue-first-time.md
 nid: 14637
@@ -10,7 +9,7 @@ uid: 510698
 
 # Image is blue - First time 
 
-by [LightWaveResearch8000](../profile/LightWaveResearch8000) July 10, 2017 16:00
+by [LightWaveResearch8000](../profile/LightWaveResearch8000) | July 10, 2017 16:00
 
 July 10, 2017 16:00 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered), [first-time-poster](../tag/first-time-poster)
 

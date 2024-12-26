@@ -1,6 +1,5 @@
 ---
-title: 'Can DIY spectrometers be useful for pH determination and/or dissolved organic carbon of a water solution?'
-tagnames: spectrometry, water-quality, question:spectrometry, wastewater, question:water-quality, question:general, general, research-curation-fellows
+title: "Can DIY spectrometers be useful for pH determination and/or dissolved organic carbon of a water solution?"\ntagnames: 'spectrometry, water-quality, question:spectrometry, wastewater, question:water-quality, question:general, general, research-curation-fellows'
 author: alejobonifacio
 path: /notes/alejobonifacio/03-02-2022/can-diy-spectrometers-be-useful-for-ph-determination-and-or-dissolved-organic-carbon-of-a-water-solution.md
 nid: 30090
@@ -10,7 +9,7 @@ uid: 639376
 
 # Can DIY spectrometers be useful for pH determination and/or dissolved organic carbon of a water solution?
 
-by [alejobonifacio](../profile/alejobonifacio) March 02, 2022 15:12
+by [alejobonifacio](../profile/alejobonifacio) | March 02, 2022 15:12
 
 March 02, 2022 15:12 | Tags: [spectrometry](../tag/spectrometry), [water-quality](../tag/water-quality), [question:spectrometry](../tag/question:spectrometry), [wastewater](../tag/wastewater), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [general](../tag/general), [research-curation-fellows](../tag/research-curation-fellows)
 

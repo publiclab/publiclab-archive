@@ -1,6 +1,5 @@
 ---
-title: 'Calibrating'
-tagnames: question:spectral-workbench
+title: "Calibrating"\ntagnames: 'question:spectral-workbench'
 author: daniel94
 path: /notes/daniel94/11-27-2015/calibrating.md
 nid: 12450
@@ -10,7 +9,7 @@ uid: 458703
 
 # Calibrating
 
-by [daniel94](../profile/daniel94) November 27, 2015 02:42
+by [daniel94](../profile/daniel94) | November 27, 2015 02:42
 
 November 27, 2015 02:42 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Workshop at the Sunview Luncheonette'
-tagnames: new-york-city, oil, event, spill, nyc, creek, event:rsvp, rsvp:warren, rsvp:bronwen, rsvp:liz, otk, newtown, beta, oak, greenpoint, dep, date:02-13-2016, rsvp:englishkillsproject, rsvp:nicholas, rsvp:ianbarbour
+title: "Public Lab Workshop at the Sunview Luncheonette"\ntagnames: 'new-york-city, oil, event, spill, nyc, creek, event:rsvp, rsvp:warren, rsvp:bronwen, rsvp:liz, otk, newtown, beta, oak, greenpoint, dep, date:02-13-2016, rsvp:englishkillsproject, rsvp:nicholas, rsvp:ianbarbour'
 author: Matej
 path: /notes/Matej/02-04-2016/public-lab-workshop-at-the-subview-luncheonette.md
 nid: 12653
@@ -12,7 +11,7 @@ uid: 451808
 
 # Public Lab Workshop at the Sunview Luncheonette
 
-by [Matej](../profile/Matej) February 04, 2016 01:01
+by [Matej](../profile/Matej) | February 04, 2016 01:01
 
 February 04, 2016 01:01 | Tags: [new-york-city](../tag/new-york-city), [oil](../tag/oil), [event](../tag/event), [spill](../tag/spill), [nyc](../tag/nyc), [creek](../tag/creek), [event:rsvp](../tag/event:rsvp), [rsvp:warren](../tag/rsvp:warren), [rsvp:bronwen](../tag/rsvp:bronwen), [rsvp:liz](../tag/rsvp:liz), [otk](../tag/otk), [newtown](../tag/newtown), [beta](../tag/beta), [oak](../tag/oak), [greenpoint](../tag/greenpoint), [dep](../tag/dep), [date:02-13-2016](../tag/date:02-13-2016), [rsvp:englishkillsproject](../tag/rsvp:englishkillsproject), [rsvp:nicholas](../tag/rsvp:nicholas), [rsvp:ianbarbour](../tag/rsvp:ianbarbour)
 

@@ -1,6 +1,5 @@
 ---
-title: '"I built spy satellites for a living"'
-tagnames: 
+title: ""I built spy satellites for a living""\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/12-27-2011/i-built-spy-satellites-living.md
 nid: 666
@@ -10,7 +9,7 @@ uid: 12
 
 # "I built spy satellites for a living"
 
-by [gonzoearth](../profile/gonzoearth) December 28, 2011 01:57
+by [gonzoearth](../profile/gonzoearth) | December 28, 2011 01:57
 
 December 28, 2011 01:57 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Signal to Noise ratio validation on previous fluorescein research study'
-tagnames: 
+title: "Signal to Noise ratio validation on previous fluorescein research study"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-17-2016/signal-to-noise-ratio-validation-on-previous-fluorescein-research-study.md
 nid: 12991
@@ -12,7 +11,7 @@ uid: 461120
 
 # Signal to Noise ratio validation on previous fluorescein research study
 
-by [dhaffnersr](../profile/dhaffnersr) April 17, 2016 10:52
+by [dhaffnersr](../profile/dhaffnersr) | April 17, 2016 10:52
 
 April 17, 2016 10:52 | Tags: 
 

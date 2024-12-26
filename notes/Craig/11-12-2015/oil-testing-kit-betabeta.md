@@ -1,6 +1,5 @@
 ---
-title: 'Oil Testing Kit BetaBeta '
-tagnames: spectrometer, oil, oil-testing-kit, for, oil-testing-kit-beta
+title: "Oil Testing Kit BetaBeta "\ntagnames: 'spectrometer, oil, oil-testing-kit, for, oil-testing-kit-beta'
 author: Craig
 path: /notes/Craig/11-12-2015/oil-testing-kit-betabeta.md
 nid: 12404
@@ -12,7 +11,7 @@ uid: 443143
 
 # Oil Testing Kit BetaBeta 
 
-by [Craig](../profile/Craig) November 12, 2015 10:12
+by [Craig](../profile/Craig) | November 12, 2015 10:12
 
 November 12, 2015 10:12 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing-kit](../tag/oil-testing-kit), [for](../tag/for), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 

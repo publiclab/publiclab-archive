@@ -1,6 +1,5 @@
 ---
-title: 'Wetlands'
-tagnames: wetlands, regulations
+title: "Wetlands"\ntagnames: 'wetlands, regulations'
 author: stevie
 path: /wiki/wetlands.md
 nid: 21684

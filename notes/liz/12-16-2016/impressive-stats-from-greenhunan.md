@@ -1,6 +1,5 @@
 ---
-title: 'Impressive stats from GreenHunan'
-tagnames: water-quality, china, hunan, green-hunan, with:shanlter
+title: "Impressive stats from GreenHunan"\ntagnames: 'water-quality, china, hunan, green-hunan, with:shanlter'
 author: liz
 path: /notes/liz/12-16-2016/impressive-stats-from-greenhunan.md
 nid: 13790
@@ -12,7 +11,7 @@ uid: 7
 
 # Impressive stats from GreenHunan
 
-by [liz](../profile/liz) December 16, 2016 14:49
+by [liz](../profile/liz) | December 16, 2016 14:49
 
 December 16, 2016 14:49 | Tags: [water-quality](../tag/water-quality), [china](../tag/china), [hunan](../tag/hunan), [green-hunan](../tag/green-hunan), [with:shanlter](../tag/with:shanlter)
 

@@ -1,6 +1,5 @@
 ---
-title: 'UNICEF Rio Proposal'
-tagnames: rio
+title: "UNICEF Rio Proposal"\ntagnames: 'rio'
 author: warren
 path: /wiki/unicef-rio-proposal.md
 nid: 189

@@ -1,6 +1,5 @@
 ---
-title: 'KAPtery Aerial Rigs'
-tagnames: balloon-mapping, picavet, kite-aerial-photography, agriculture, kite, kap, mining, balloon, urban-planning, 3d-printing, fracking, tool, titan, kap-rigs, redstone, land-use, kaptery, saturnv, skyshield, pendulum, industry, aerobee, method, land-change, oil-and-gas
+title: "KAPtery Aerial Rigs"\ntagnames: 'balloon-mapping, picavet, kite-aerial-photography, agriculture, kite, kap, mining, balloon, urban-planning, 3d-printing, fracking, tool, titan, kap-rigs, redstone, land-use, kaptery, saturnv, skyshield, pendulum, industry, aerobee, method, land-change, oil-and-gas'
 author: cfastie
 path: /wiki/kaptery-aerial-rigs.md
 nid: 12188

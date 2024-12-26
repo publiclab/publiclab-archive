@@ -1,6 +1,5 @@
 ---
-title: 'AQE-SD assembly'
-tagnames: indoor-air-quality-mapping, chaq
+title: "AQE-SD assembly"\ntagnames: 'indoor-air-quality-mapping, chaq'
 author: liz
 path: /notes/liz/1-31-2013/aqe-sd-assembly.md
 nid: 5828
@@ -12,7 +11,7 @@ uid: 7
 
 # AQE-SD assembly
 
-by [liz](../profile/liz) January 31, 2013 20:37
+by [liz](../profile/liz) | January 31, 2013 20:37
 
 January 31, 2013 20:37 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [chaq](../tag/chaq)
 

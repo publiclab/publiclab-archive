@@ -1,6 +1,5 @@
 ---
-title: 'New documentary: Promise in the Sand'
-tagnames: wisconsin, air-quality, blog, fracking, frac-sand, midwest, parent:frac-sand, location:blurred, lat:43, place:united-states, lon:-90, fracksand
+title: "New documentary: Promise in the Sand"\ntagnames: 'wisconsin, air-quality, blog, fracking, frac-sand, midwest, parent:frac-sand, location:blurred, lat:43, place:united-states, lon:-90, fracksand'
 author: stevie
 path: /notes/stevie/06-05-2018/new-documentary-promise-in-the-sand.md
 nid: 16433
@@ -12,7 +11,7 @@ uid: 422561
 
 # New documentary: Promise in the Sand
 
-by [stevie](../profile/stevie) June 05, 2018 21:22
+by [stevie](../profile/stevie) | June 05, 2018 21:22
 
 June 05, 2018 21:22 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [blog](../tag/blog), [fracking](../tag/fracking), [frac-sand](../tag/frac-sand), [midwest](../tag/midwest), [parent:frac-sand](../tag/parent:frac-sand), [location:blurred](../tag/location:blurred), [lat:43](../tag/lat:43), [place:united-states](../tag/place:united-states), [lon:-90](../tag/lon:-90), [fracksand](../tag/fracksand)
 

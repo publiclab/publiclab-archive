@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab nonprofit job posting: Administrative Coordinator'
-tagnames: nonprofit
+title: "Public Lab nonprofit job posting: Administrative Coordinator"\ntagnames: 'nonprofit'
 author: Shannon
 path: /notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-administrative-coordinator.md
 nid: 11288
@@ -12,7 +11,7 @@ uid: 9
 
 # Public Lab nonprofit job posting: Administrative Coordinator
 
-by [Shannon](../profile/Shannon) October 21, 2014 18:41
+by [Shannon](../profile/Shannon) | October 21, 2014 18:41
 
 October 21, 2014 18:41 | Tags: [nonprofit](../tag/nonprofit)
 

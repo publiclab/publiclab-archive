@@ -1,6 +1,5 @@
 ---
-title: 'Preliminary PCBs for Particulates'
-tagnames: arduino, air-quality, dustduino, dust, particulate, pm, digispark, shenyei, shinyei, activity:circuit-design, circuit-design
+title: "Preliminary PCBs for Particulates"\ntagnames: 'arduino, air-quality, dustduino, dust, particulate, pm, digispark, shenyei, shinyei, activity:circuit-design, circuit-design'
 author: donblair
 path: /notes/donblair/05-03-2014/preliminary-pcbs-for-particulates.md
 nid: 10405
@@ -12,7 +11,7 @@ uid: 43651
 
 # Preliminary PCBs for Particulates
 
-by [donblair](../profile/donblair) May 03, 2014 11:37
+by [donblair](../profile/donblair) | May 03, 2014 11:37
 
 May 03, 2014 11:37 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulate](../tag/particulate), [pm](../tag/pm), [digispark](../tag/digispark), [shenyei](../tag/shenyei), [shinyei](../tag/shinyei), [activity:circuit-design](../tag/activity:circuit-design), [circuit-design](../tag/circuit-design)
 

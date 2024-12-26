@@ -1,6 +1,5 @@
 ---
-title: 'What are sources for existing environmental data? '
-tagnames: epa, database, data, question:general, government, existing-data, echo
+title: "What are sources for existing environmental data? "\ntagnames: 'epa, database, data, question:general, government, existing-data, echo'
 author: stevie
 path: /notes/stevie/12-01-2017/what-are-sources-for-existing-environmental-data.md
 nid: 15284
@@ -10,7 +9,7 @@ uid: 422561
 
 # What are sources for existing environmental data? 
 
-by [stevie](../profile/stevie) December 01, 2017 21:32
+by [stevie](../profile/stevie) | December 01, 2017 21:32
 
 December 01, 2017 21:32 | Tags: [epa](../tag/epa), [database](../tag/database), [data](../tag/data), [question:general](../tag/question:general), [government](../tag/government), [existing-data](../tag/existing-data), [echo](../tag/echo)
 

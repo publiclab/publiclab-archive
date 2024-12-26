@@ -1,6 +1,5 @@
 ---
-title: 'Reviews'
-tagnames: reviews, research-area-review
+title: "Reviews"\ntagnames: 'reviews, research-area-review'
 author: warren
 path: /wiki/reviews.md
 nid: 20816

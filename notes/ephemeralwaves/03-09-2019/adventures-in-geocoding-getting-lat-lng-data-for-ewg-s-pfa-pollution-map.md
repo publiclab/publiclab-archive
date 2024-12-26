@@ -1,6 +1,5 @@
 ---
-title: 'Adventures in Geocoding: Getting lat/lng data for EWG's PFA pollution map'
-tagnames: water, map, pfas, geocode
+title: "Adventures in Geocoding: Getting lat/lng data for EWG's PFA pollution map"\ntagnames: 'water, map, pfas, geocode'
 author: ephemeralwaves
 path: /notes/ephemeralwaves/03-09-2019/adventures-in-geocoding-getting-lat-lng-data-for-ewg-s-pfa-pollution-map.md
 nid: 18499
@@ -10,7 +9,7 @@ uid: 47284
 
 # Adventures in Geocoding: Getting lat/lng data for EWG's PFA pollution map
 
-by [ephemeralwaves](../profile/ephemeralwaves) March 09, 2019 02:13
+by [ephemeralwaves](../profile/ephemeralwaves) | March 09, 2019 02:13
 
 March 09, 2019 02:13 | Tags: [water](../tag/water), [map](../tag/map), [pfas](../tag/pfas), [geocode](../tag/geocode)
 

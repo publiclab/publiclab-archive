@@ -1,6 +1,5 @@
 ---
-title: 'Several new spectra from food samples'
-tagnames: spectrometer, partsandcrafts, parts-and-crafts, food
+title: "Several new spectra from food samples"\ntagnames: 'spectrometer, partsandcrafts, parts-and-crafts, food'
 author: warren
 path: /notes/warren/9-3-2011/several-new-spectra-food-samples.md
 nid: 451
@@ -12,7 +11,7 @@ uid: 1
 
 # Several new spectra from food samples
 
-by [warren](../profile/warren) September 03, 2011 14:29
+by [warren](../profile/warren) | September 03, 2011 14:29
 
 September 03, 2011 14:29 | Tags: [spectrometer](../tag/spectrometer), [partsandcrafts](../tag/partsandcrafts), [parts-and-crafts](../tag/parts-and-crafts), [food](../tag/food)
 

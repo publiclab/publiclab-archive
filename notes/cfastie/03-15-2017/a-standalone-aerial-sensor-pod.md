@@ -1,6 +1,5 @@
 ---
-title: 'A standalone aerial sensor pod'
-tagnames: arduino, gps, logging, barnstar:basic, saturnv, activity:arduino, data_logging, response:13850, activity:datalogger, skypod
+title: "A standalone aerial sensor pod"\ntagnames: 'arduino, gps, logging, barnstar:basic, saturnv, activity:arduino, data_logging, response:13850, activity:datalogger, skypod'
 author: cfastie
 path: /notes/cfastie/03-15-2017/a-standalone-aerial-sensor-pod.md
 nid: 14020
@@ -12,7 +11,7 @@ uid: 554
 
 # A standalone aerial sensor pod
 
-by [cfastie](../profile/cfastie) March 15, 2017 04:44
+by [cfastie](../profile/cfastie) | March 15, 2017 04:44
 
 March 15, 2017 04:44 | Tags: [arduino](../tag/arduino), [gps](../tag/gps), [logging](../tag/logging), [barnstar:basic](../tag/barnstar:basic), [saturnv](../tag/saturnv), [activity:arduino](../tag/activity:arduino), [data_logging](../tag/data_logging), [response:13850](../tag/response:13850), [activity:datalogger](../tag/activity:datalogger), [skypod](../tag/skypod)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Construye tu propio espectroscopio para el móvil'
-tagnames: lang:es, blog-submission, papercraft-spectrometer, first-time-poster, zoom:6, zoom:13, response:26745, espectroscopio, lat:37.422525, lon:-6.064453, lat:37.41, lon:-6.07
+title: "Construye tu propio espectroscopio para el móvil"\ntagnames: 'lang:es, blog-submission, papercraft-spectrometer, first-time-poster, zoom:6, zoom:13, response:26745, espectroscopio, lat:37.422525, lon:-6.064453, lat:37.41, lon:-6.07'
 author: coaat97
 path: /notes/coaat97/10-01-2022/construye-tu-propio-espectroscopio-para-el-movil.md
 nid: 35016
@@ -12,7 +11,7 @@ uid: 609174
 
 # Construye tu propio espectroscopio para el móvil
 
-by [coaat97](../profile/coaat97) October 01, 2022 09:42
+by [coaat97](../profile/coaat97) | October 01, 2022 09:42
 
 October 01, 2022 09:42 | Tags: [lang:es](../tag/lang:es), [blog-submission](../tag/blog-submission), [papercraft-spectrometer](../tag/papercraft-spectrometer), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [zoom:13](../tag/zoom:13), [response:26745](../tag/response:26745), [espectroscopio](../tag/espectroscopio), [lat:37.422525](../tag/lat:37.422525), [lon:-6.064453](../tag/lon:-6.064453), [lat:37.41](../tag/lat:37.41), [lon:-6.07](../tag/lon:-6.07)
 

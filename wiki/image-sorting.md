@@ -1,6 +1,5 @@
 ---
-title: 'Image Sorting'
-tagnames: balloon-mapping, image-processing, aerial-photography, photo-monitoring, aerial-photos, image-sorting, tool, geo-tagging
+title: "Image Sorting"\ntagnames: 'balloon-mapping, image-processing, aerial-photography, photo-monitoring, aerial-photos, image-sorting, tool, geo-tagging'
 author: zengirl2
 path: /wiki/image-sorting.md
 nid: 14851

@@ -1,6 +1,5 @@
 ---
-title: 'Lima'
-tagnames: chapter, list:laboratoriopublico
+title: "Lima"\ntagnames: 'chapter, list:laboratoriopublico'
 author: warren
 path: /wiki/lima.md
 nid: 37

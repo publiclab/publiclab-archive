@@ -1,6 +1,5 @@
 ---
-title: 'Guides'
-tagnames: community, guides, illustrated-guides, writing, tool, translation, method, collaborative-writing, location:blurred, lon:-74, zoom:6, lat:4, place:colombia
+title: "Guides"\ntagnames: 'community, guides, illustrated-guides, writing, tool, translation, method, collaborative-writing, location:blurred, lon:-74, zoom:6, lat:4, place:colombia'
 author: warren
 path: /wiki/guides.md
 nid: 90

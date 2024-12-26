@@ -1,6 +1,5 @@
 ---
-title: '*FIXED* Riffle SD card Power Consumption'
-tagnames: riffle
+title: "*FIXED* Riffle SD card Power Consumption"\ntagnames: 'riffle'
 author: kinasmith
 path: /notes/kinasmith/06-14-2016/fixed-riffle-sd-card-power-consumption.md
 nid: 13195
@@ -12,7 +11,7 @@ uid: 445906
 
 # *FIXED* Riffle SD card Power Consumption
 
-by [kinasmith](../profile/kinasmith) June 14, 2016 00:17
+by [kinasmith](../profile/kinasmith) | June 14, 2016 00:17
 
 June 14, 2016 00:17 | Tags: [riffle](../tag/riffle)
 

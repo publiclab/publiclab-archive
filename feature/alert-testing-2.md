@@ -1,6 +1,5 @@
 ---
-title: 'alert-testing-2'
-tagnames: 
+title: "alert-testing-2"\ntagnames: ''
 author: warren
 path: /feature/alert-testing-2.md
 nid: 20052

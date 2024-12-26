@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: MapKnitter.org Spam Management system'
-tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
+title: "Outreachy proposal: MapKnitter.org Spam Management system"\ntagnames: 'software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022'
 author: sakshi24
 path: /notes/sakshi24/04-19-2022/outreachy-proposal-mapknitter-org-spam-management-system.md
 nid: 30512
@@ -12,7 +11,7 @@ uid: 781808
 
 # Outreachy proposal: MapKnitter.org Spam Management system
 
-by [sakshi24](../profile/sakshi24) April 19, 2022 23:44
+by [sakshi24](../profile/sakshi24) | April 19, 2022 23:44
 
 April 19, 2022 23:44 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 

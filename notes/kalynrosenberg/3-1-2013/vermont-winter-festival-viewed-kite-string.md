@@ -1,6 +1,5 @@
 ---
-title: 'Vermont Winter Festival, Viewed from a Kite String'
-tagnames: kite-mapping, vermont, event, tac
+title: "Vermont Winter Festival, Viewed from a Kite String"\ntagnames: 'kite-mapping, vermont, event, tac'
 author: KalynRosenberg
 path: /notes/kalynrosenberg/3-1-2013/vermont-winter-festival-viewed-kite-string.md
 nid: 6157
@@ -12,7 +11,7 @@ uid: 44895
 
 # Vermont Winter Festival, Viewed from a Kite String
 
-by [KalynRosenberg](../profile/KalynRosenberg) March 01, 2013 19:32
+by [KalynRosenberg](../profile/KalynRosenberg) | March 01, 2013 19:32
 
 March 01, 2013 19:32 | Tags: [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [event](../tag/event), [tac](../tag/tac)
 

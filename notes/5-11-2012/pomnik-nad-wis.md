@@ -1,6 +1,5 @@
 ---
-title: 'pomnik-nad-wisłą'
-tagnames: 
+title: "pomnik-nad-wisłą"\ntagnames: ''
 author: 
 path: /notes/5-11-2012/pomnik-nad-wis.md
 nid: 2088
@@ -12,7 +11,7 @@ uid: 0
 
 # pomnik-nad-wisłą
 
-by [](../profile/) May 11, 2012 18:18
+by [](../profile/) | May 11, 2012 18:18
 
 May 11, 2012 18:18 | Tags: 
 

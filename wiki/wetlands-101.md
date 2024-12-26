@@ -1,6 +1,5 @@
 ---
-title: 'Wetlands 101'
-tagnames: wetlands, polemapping, pole-mapping, parent:wetlands-toolkit, site-survey, activity:site-survey, activity:wetlands
+title: "Wetlands 101"\ntagnames: 'wetlands, polemapping, pole-mapping, parent:wetlands-toolkit, site-survey, activity:site-survey, activity:wetlands'
 author: stevie
 path: /wiki/wetlands-101.md
 nid: 11794

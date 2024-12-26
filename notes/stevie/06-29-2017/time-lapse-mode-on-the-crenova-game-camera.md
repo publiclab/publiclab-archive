@@ -1,6 +1,5 @@
 ---
-title: 'Time lapse mode on the Crenova Game camera'
-tagnames: time-lapse, photo-monitoring, timelapse, activity, activity:timelapse, activity:photo-monitoring, game-camera, crenova
+title: "Time lapse mode on the Crenova Game camera"\ntagnames: 'time-lapse, photo-monitoring, timelapse, activity, activity:timelapse, activity:photo-monitoring, game-camera, crenova'
 author: stevie
 path: /notes/stevie/06-29-2017/time-lapse-mode-on-the-crenova-game-camera.md
 nid: 14591
@@ -12,7 +11,7 @@ uid: 422561
 
 # Time lapse mode on the Crenova Game camera
 
-by [stevie](../profile/stevie) June 29, 2017 18:56
+by [stevie](../profile/stevie) | June 29, 2017 18:56
 
 June 29, 2017 18:56 | Tags: [time-lapse](../tag/time-lapse), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [activity](../tag/activity), [activity:timelapse](../tag/activity:timelapse), [activity:photo-monitoring](../tag/activity:photo-monitoring), [game-camera](../tag/game-camera), [crenova](../tag/crenova)
 

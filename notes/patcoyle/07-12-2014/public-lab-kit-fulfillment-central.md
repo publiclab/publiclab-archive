@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Kit Fulfillment Central'
-tagnames: portland, kits, staff, portland-oregon
+title: "Public Lab Kit Fulfillment Central"\ntagnames: 'portland, kits, staff, portland-oregon'
 author: patcoyle
 path: /notes/patcoyle/07-12-2014/public-lab-kit-fulfillment-central.md
 nid: 10681
@@ -12,7 +11,7 @@ uid: 77
 
 # Public Lab Kit Fulfillment Central
 
-by [patcoyle](../profile/patcoyle) July 12, 2014 05:42
+by [patcoyle](../profile/patcoyle) | July 12, 2014 05:42
 
 July 12, 2014 05:42 | Tags: [portland](../tag/portland), [kits](../tag/kits), [staff](../tag/staff), [portland-oregon](../tag/portland-oregon)
 

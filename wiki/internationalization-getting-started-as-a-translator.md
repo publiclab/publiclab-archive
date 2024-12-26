@@ -1,6 +1,5 @@
 ---
-title: 'Internationalization | Getting started as a translator'
-tagnames: signing, getting, internationalization, i18n, translator, parent:translation
+title: "Internationalization | Getting started as a translator"\ntagnames: 'signing, getting, internationalization, i18n, translator, parent:translation'
 author: jiteshxyz
 path: /wiki/internationalization-getting-started-as-a-translator.md
 nid: 13379

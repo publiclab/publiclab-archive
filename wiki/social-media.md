@@ -1,6 +1,5 @@
 ---
-title: 'Social Media'
-tagnames: community, media, social-media
+title: "Social Media"\ntagnames: 'community, media, social-media'
 author: liz
 path: /wiki/social-media.md
 nid: 793

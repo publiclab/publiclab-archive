@@ -1,6 +1,5 @@
 ---
-title: 'Ein Karem, Jerusalem'
-tagnames: kite-mapping, education, jerusalem
+title: "Ein Karem, Jerusalem"\ntagnames: 'kite-mapping, education, jerusalem'
 author: hagitkeysar
 path: /wiki/ein-karem-jerusalem.md
 nid: 1988

@@ -1,6 +1,5 @@
 ---
-title: 'Enviro-Track'
-tagnames: air-quality, pm2.5, pm10, first-time-poster, zoom:7, lat:29.630771, lon:-95.097572
+title: "Enviro-Track"\ntagnames: 'air-quality, pm2.5, pm10, first-time-poster, zoom:7, lat:29.630771, lon:-95.097572'
 author: rmd6502
 path: /notes/rmd6502/11-13-2022/enviro-track.md
 nid: 37422
@@ -12,7 +11,7 @@ uid: 819526
 
 # Enviro-Track
 
-by [rmd6502](../profile/rmd6502) November 13, 2022 23:35
+by [rmd6502](../profile/rmd6502) | November 13, 2022 23:35
 
 November 13, 2022 23:35 | Tags: [air-quality](../tag/air-quality), [pm2.5](../tag/pm2.5), [pm10](../tag/pm10), [first-time-poster](../tag/first-time-poster), [zoom:7](../tag/zoom:7), [lat:29.630771](../tag/lat:29.630771), [lon:-95.097572](../tag/lon:-95.097572)
 

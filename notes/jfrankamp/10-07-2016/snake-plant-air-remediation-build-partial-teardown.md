@@ -1,6 +1,5 @@
 ---
-title: 'Snake Plant Air Remediation Build & Partial Teardown'
-tagnames: remediation, air-quality, plant, barnstar:basic, formaldehyde, open-air, indoor-air-quality, indoor-air, pick, current, vocs, replication:13480, activity:formaldehyde, first-time-poster, activity:indoor-air-quality
+title: "Snake Plant Air Remediation Build & Partial Teardown"\ntagnames: 'remediation, air-quality, plant, barnstar:basic, formaldehyde, open-air, indoor-air-quality, indoor-air, pick, current, vocs, replication:13480, activity:formaldehyde, first-time-poster, activity:indoor-air-quality'
 author: jfrankamp
 path: /notes/jfrankamp/10-07-2016/snake-plant-air-remediation-build-partial-teardown.md
 nid: 13532
@@ -12,7 +11,7 @@ uid: 493826
 
 # Snake Plant Air Remediation Build & Partial Teardown
 
-by [jfrankamp](../profile/jfrankamp) October 07, 2016 09:18
+by [jfrankamp](../profile/jfrankamp) | October 07, 2016 09:18
 
 October 07, 2016 09:18 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [plant](../tag/plant), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [pick](../tag/pick), [current](../tag/current), [vocs](../tag/vocs), [replication:13480](../tag/replication:13480), [activity:formaldehyde](../tag/activity:formaldehyde), [first-time-poster](../tag/first-time-poster), [activity:indoor-air-quality](../tag/activity:indoor-air-quality)
 

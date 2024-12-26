@@ -1,6 +1,5 @@
 ---
-title: 'paper dump: link notes and thoughts.'
-tagnames: education, research, publication, publications, microscope
+title: "paper dump: link notes and thoughts."\ntagnames: 'education, research, publication, publications, microscope'
 author: amirberAgain
 path: /notes/amirberAgain/09-25-2018/paper-dump-link-notes-and-thoughts.md
 nid: 17171
@@ -10,7 +9,7 @@ uid: 420776
 
 # paper dump: link notes and thoughts.
 
-by [amirberAgain](../profile/amirberAgain) September 25, 2018 07:05
+by [amirberAgain](../profile/amirberAgain) | September 25, 2018 07:05
 
 September 25, 2018 07:05 | Tags: [education](../tag/education), [research](../tag/research), [publication](../tag/publication), [publications](../tag/publications), [microscope](../tag/microscope)
 

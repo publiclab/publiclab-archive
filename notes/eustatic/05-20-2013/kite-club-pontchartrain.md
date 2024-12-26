@@ -1,6 +1,5 @@
 ---
-title: 'Kite Club Pontchartrain'
-tagnames: gulf-coast, event, replication:14022
+title: "Kite Club Pontchartrain"\ntagnames: 'gulf-coast, event, replication:14022'
 author: eustatic
 path: /05-20-2013/kite-club-pontchartrain.md
 nid: 7751
@@ -12,7 +11,7 @@ uid: 379
 
 # Kite Club Pontchartrain
 
-by [eustatic](../profile/eustatic) May 20, 2013 23:44
+by [eustatic](../profile/eustatic) | May 20, 2013 23:44
 
 May 20, 2013 23:44 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [replication:14022](../tag/replication:14022)
 

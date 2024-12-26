@@ -1,6 +1,5 @@
 ---
-title: 'EPA awards brownfield cleanup funding to Portlard project'
-tagnames: portland, epa
+title: "EPA awards brownfield cleanup funding to Portlard project"\ntagnames: 'portland, epa'
 author: gonzoearth
 path: /notes/gonzoearth/6-8-2011/epa-awards-brownfield-cleanup-funding-portlard-project.md
 nid: 340
@@ -10,7 +9,7 @@ uid: 12
 
 # EPA awards brownfield cleanup funding to Portlard project
 
-by [gonzoearth](../profile/gonzoearth) June 08, 2011 18:05
+by [gonzoearth](../profile/gonzoearth) | June 08, 2011 18:05
 
 June 08, 2011 18:05 | Tags: [portland](../tag/portland), [epa](../tag/epa)
 

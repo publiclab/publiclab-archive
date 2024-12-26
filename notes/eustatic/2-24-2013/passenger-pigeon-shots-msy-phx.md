@@ -1,6 +1,5 @@
 ---
-title: 'Passenger Pigeon shots of MSY to PHX'
-tagnames: gulf-coast, passenger-pigeon
+title: "Passenger Pigeon shots of MSY to PHX"\ntagnames: 'gulf-coast, passenger-pigeon'
 author: eustatic
 path: /2-24-2013/passenger-pigeon-shots-msy-phx.md
 nid: 6115
@@ -12,7 +11,7 @@ uid: 379
 
 # Passenger Pigeon shots of MSY to PHX
 
-by [eustatic](../profile/eustatic) February 25, 2013 02:22
+by [eustatic](../profile/eustatic) | February 25, 2013 02:22
 
 February 25, 2013 02:22 | Tags: [gulf-coast](../tag/gulf-coast), [passenger-pigeon](../tag/passenger-pigeon)
 

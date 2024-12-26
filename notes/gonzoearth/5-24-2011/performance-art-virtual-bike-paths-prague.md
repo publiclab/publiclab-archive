@@ -1,6 +1,5 @@
 ---
-title: 'performance art; virtual bike paths in Prague'
-tagnames: 
+title: "performance art; virtual bike paths in Prague"\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/5-24-2011/performance-art-virtual-bike-paths-prague.md
 nid: 271
@@ -12,7 +11,7 @@ uid: 12
 
 # performance art; virtual bike paths in Prague
 
-by [gonzoearth](../profile/gonzoearth) May 24, 2011 04:29
+by [gonzoearth](../profile/gonzoearth) | May 24, 2011 04:29
 
 May 24, 2011 04:29 | Tags: 
 

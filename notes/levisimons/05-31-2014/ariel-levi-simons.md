@@ -1,6 +1,5 @@
 ---
-title: 'Ariel Levi Simons'
-tagnames: barnstar:excessive-enthusiasm, first-time-poster
+title: "Ariel Levi Simons"\ntagnames: 'barnstar:excessive-enthusiasm, first-time-poster'
 author: levisimons
 path: /notes/levisimons/05-31-2014/ariel-levi-simons.md
 nid: 10520
@@ -12,7 +11,7 @@ uid: 1087
 
 # Ariel Levi Simons
 
-by [levisimons](../profile/levisimons) May 31, 2014 01:33
+by [levisimons](../profile/levisimons) | May 31, 2014 01:33
 
 May 31, 2014 01:33 | Tags: [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [first-time-poster](../tag/first-time-poster)
 

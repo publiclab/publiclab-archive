@@ -1,6 +1,5 @@
 ---
-title: 'Learn about Activities'
-tagnames: education, curriculum, needs-revision, activity, activity-grids, activities, sidebar:none, activity:website
+title: "Learn about Activities"\ntagnames: 'education, curriculum, needs-revision, activity, activity-grids, activities, sidebar:none, activity:website'
 author: liz
 path: /wiki/activities.md
 nid: 9060

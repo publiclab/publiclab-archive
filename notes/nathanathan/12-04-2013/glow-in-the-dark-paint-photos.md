@@ -1,6 +1,5 @@
 ---
-title: 'Glow in the dark paint photos'
-tagnames: calibration, phosphorescence, response:9816, glow-in-the-dark
+title: "Glow in the dark paint photos"\ntagnames: 'calibration, phosphorescence, response:9816, glow-in-the-dark'
 author: nathanathan
 path: /notes/nathanathan/12-04-2013/glow-in-the-dark-paint-photos.md
 nid: 9857
@@ -12,7 +11,7 @@ uid: 365600
 
 # Glow in the dark paint photos
 
-by [nathanathan](../profile/nathanathan) December 04, 2013 19:59
+by [nathanathan](../profile/nathanathan) | December 04, 2013 19:59
 
 December 04, 2013 19:59 | Tags: [calibration](../tag/calibration), [phosphorescence](../tag/phosphorescence), [response:9816](../tag/response:9816), [glow-in-the-dark](../tag/glow-in-the-dark)
 

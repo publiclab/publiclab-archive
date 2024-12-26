@@ -1,6 +1,5 @@
 ---
-title: 'A Test For Household Radiation'
-tagnames: radiation, uranium, beta, radon, dosimeter, detectors, norm, gamma, first-time-poster
+title: "A Test For Household Radiation"\ntagnames: 'radiation, uranium, beta, radon, dosimeter, detectors, norm, gamma, first-time-poster'
 author: Dave-O
 path: /notes/Dave-O/02-14-2017/a-test-for-household-radiation.md
 nid: 13928
@@ -12,7 +11,7 @@ uid: 502943
 
 # A Test For Household Radiation
 
-by [Dave-O](../profile/Dave-O) February 14, 2017 21:47
+by [Dave-O](../profile/Dave-O) | February 14, 2017 21:47
 
 February 14, 2017 21:47 | Tags: [radiation](../tag/radiation), [uranium](../tag/uranium), [beta](../tag/beta), [radon](../tag/radon), [dosimeter](../tag/dosimeter), [detectors](../tag/detectors), [norm](../tag/norm), [gamma](../tag/gamma), [first-time-poster](../tag/first-time-poster)
 

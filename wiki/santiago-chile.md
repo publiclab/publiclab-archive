@@ -1,6 +1,5 @@
 ---
-title: 'Santiago, Chile'
-tagnames: santiago-chile, santiago, protest-mapping, chile, chapter, list:laboratoriopublico, lat:-33.457511, lon:-70.639858, south-america
+title: "Santiago, Chile"\ntagnames: 'santiago-chile, santiago, protest-mapping, chile, chapter, list:laboratoriopublico, lat:-33.457511, lon:-70.639858, south-america'
 author: Shannon
 path: /wiki/santiago-chile.md
 nid: 371

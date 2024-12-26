@@ -1,6 +1,5 @@
 ---
-title: 'Laser particulate sensor prototype test'
-tagnames: particulate-sensing
+title: "Laser particulate sensor prototype test"\ntagnames: 'particulate-sensing'
 author: warren
 path: /notes/warren/5-16-2012/laser-particulate-sensor-prototype-test.md
 nid: 2016
@@ -12,7 +11,7 @@ uid: 1
 
 # Laser particulate sensor prototype test
 
-by [warren](../profile/warren) May 16, 2012 22:32
+by [warren](../profile/warren) | May 16, 2012 22:32
 
 May 16, 2012 22:32 | Tags: [particulate-sensing](../tag/particulate-sensing)
 

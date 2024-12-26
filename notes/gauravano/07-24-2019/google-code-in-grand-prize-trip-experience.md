@@ -1,6 +1,5 @@
 ---
-title: 'Google Code-In Grand Prize Trip Experience'
-tagnames: open-source, barnstar:basic, software-outreach, google-code-in, gci-2018
+title: "Google Code-In Grand Prize Trip Experience"\ntagnames: 'open-source, barnstar:basic, software-outreach, google-code-in, gci-2018'
 author: gauravano
 path: /notes/gauravano/07-24-2019/google-code-in-grand-prize-trip-experience.md
 nid: 20293
@@ -12,7 +11,7 @@ uid: 515081
 
 # Google Code-In Grand Prize Trip Experience
 
-by [gauravano](../profile/gauravano) July 24, 2019 22:33
+by [gauravano](../profile/gauravano) | July 24, 2019 22:33
 
 July 24, 2019 22:33 | Tags: [open-source](../tag/open-source), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [google-code-in](../tag/google-code-in), [gci-2018](../tag/gci-2018)
 

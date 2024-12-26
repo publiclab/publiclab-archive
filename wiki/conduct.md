@@ -1,6 +1,5 @@
 ---
-title: 'Conduct'
-tagnames: community, conduct, location:blurred, zoom:6, lat:15, lon:105, place:homepage
+title: "Conduct"\ntagnames: 'community, conduct, location:blurred, zoom:6, lat:15, lon:105, place:homepage'
 author: warren
 path: /wiki/conduct.md
 nid: 12427

@@ -1,6 +1,5 @@
 ---
-title: 'time-lapse video of a MapKnitter project'
-tagnames: balloon-mapping, kite-mapping, video, mapknitter, walkthrough
+title: "time-lapse video of a MapKnitter project"\ntagnames: 'balloon-mapping, kite-mapping, video, mapknitter, walkthrough'
 author: gonzoearth
 path: /notes/gonzoearth/05-29-2013/time-lapse-video-of-a-mapknitter-project.md
 nid: 7964
@@ -12,7 +11,7 @@ uid: 12
 
 # time-lapse video of a MapKnitter project
 
-by [gonzoearth](../profile/gonzoearth) May 29, 2013 23:33
+by [gonzoearth](../profile/gonzoearth) | May 29, 2013 23:33
 
 May 29, 2013 23:33 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [video](../tag/video), [mapknitter](../tag/mapknitter), [walkthrough](../tag/walkthrough)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Intro al espectrómetro de Public Lab en la Bilbao Maker Faire'
-tagnames: spectrometer, spain, workshop, event, lang:es, event:rsvp, bilbao, date:11-18-2016, location:blurred, lat:43.2, lon:-2.9, place:bilbao-spain
+title: "Intro al espectrómetro de Public Lab en la Bilbao Maker Faire"\ntagnames: 'spectrometer, spain, workshop, event, lang:es, event:rsvp, bilbao, date:11-18-2016, location:blurred, lat:43.2, lon:-2.9, place:bilbao-spain'
 author: pablo
 path: /notes/pablo/11-17-2016/como-hacer-un-espectrometro-en-la-bilbao-maker-faire.md
 nid: 13709
@@ -12,7 +11,7 @@ uid: 160
 
 # Intro al espectrómetro de Public Lab en la Bilbao Maker Faire
 
-by [pablo](../profile/pablo) November 17, 2016 11:41
+by [pablo](../profile/pablo) | November 17, 2016 11:41
 
 November 17, 2016 11:41 | Tags: [spectrometer](../tag/spectrometer), [spain](../tag/spain), [workshop](../tag/workshop), [event](../tag/event), [lang:es](../tag/lang:es), [event:rsvp](../tag/event:rsvp), [bilbao](../tag/bilbao), [date:11-18-2016](../tag/date:11-18-2016), [location:blurred](../tag/location:blurred), [lat:43.2](../tag/lat:43.2), [lon:-2.9](../tag/lon:-2.9), [place:bilbao-spain](../tag/place:bilbao-spain)
 

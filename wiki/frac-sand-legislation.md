@@ -1,6 +1,5 @@
 ---
-title: 'Frac Sand Legislation'
-tagnames: fracking, parent:frac-sand-advocacy-leverage-points
+title: "Frac Sand Legislation"\ntagnames: 'fracking, parent:frac-sand-advocacy-leverage-points'
 author: gretchengehrke
 path: /wiki/frac-sand-legislation.md
 nid: 12614

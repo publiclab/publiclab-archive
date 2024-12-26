@@ -1,6 +1,5 @@
 ---
-title: 'Routine maintenance and calibration of the MiniVol, with images'
-tagnames: air-quality, check, dust, silica, pm, particle-sensing, pm-monitoring, minivol, activity:minivol, replication:13902, regular, single-point, understanding, step
+title: "Routine maintenance and calibration of the MiniVol, with images"\ntagnames: 'air-quality, check, dust, silica, pm, particle-sensing, pm-monitoring, minivol, activity:minivol, replication:13902, regular, single-point, understanding, step'
 author: mathew
 path: /notes/mathew/02-07-2017/routine-maintenance-and-calibration-of-the-minivol.md
 nid: 13907
@@ -12,7 +11,7 @@ uid: 4
 
 # Routine maintenance and calibration of the MiniVol, with images
 
-by [mathew](../profile/mathew) February 07, 2017 20:20
+by [mathew](../profile/mathew) | February 07, 2017 20:20
 
 February 07, 2017 20:20 | Tags: [air-quality](../tag/air-quality), [check](../tag/check), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol), [replication:13902](../tag/replication:13902), [regular](../tag/regular), [single-point](../tag/single-point), [understanding](../tag/understanding), [step](../tag/step)
 

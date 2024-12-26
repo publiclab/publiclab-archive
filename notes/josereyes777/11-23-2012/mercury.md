@@ -1,6 +1,5 @@
 ---
-title: 'Mercury'
-tagnames: 
+title: "Mercury"\ntagnames: ''
 author: josereyes777
 path: /notes/josereyes777/11-23-2012/mercury.md
 nid: 4996
@@ -12,7 +11,7 @@ uid: 46143
 
 # Mercury
 
-by [josereyes777](../profile/josereyes777) November 23, 2012 08:27
+by [josereyes777](../profile/josereyes777) | November 23, 2012 08:27
 
 November 23, 2012 08:27 | Tags: 
 

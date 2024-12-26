@@ -1,6 +1,5 @@
 ---
-title: 'Helium alternative'
-tagnames: balloon-mapping, helium, question:balloon-mapping, answered, question:mini-balloon-kit, question:helium
+title: "Helium alternative"\ntagnames: 'balloon-mapping, helium, question:balloon-mapping, answered, question:mini-balloon-kit, question:helium'
 author: mrw0116
 path: /notes/mrw0116/11-10-2017/helium-alternative.md
 nid: 15172
@@ -12,7 +11,7 @@ uid: 518064
 
 # Helium alternative
 
-by [mrw0116](../profile/mrw0116) November 10, 2017 16:16
+by [mrw0116](../profile/mrw0116) | November 10, 2017 16:16
 
 November 10, 2017 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [helium](../tag/helium), [question:balloon-mapping](../tag/question:balloon-mapping), [answered](../tag/answered), [question:mini-balloon-kit](../tag/question:mini-balloon-kit), [question:helium](../tag/question:helium)
 

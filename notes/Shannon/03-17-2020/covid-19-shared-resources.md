@@ -1,6 +1,5 @@
 ---
-title: 'COVID-19: Tips for working remotely'
-tagnames: blog, with:stevie, with:liz, with:joyofsoy, with:mimiss, morninghello, covid-19
+title: "COVID-19: Tips for working remotely"\ntagnames: 'blog, with:stevie, with:liz, with:joyofsoy, with:mimiss, morninghello, covid-19'
 author: Shannon
 path: /notes/Shannon/03-17-2020/covid-19-shared-resources.md
 nid: 23163
@@ -12,7 +11,7 @@ uid: 9
 
 # COVID-19: Tips for working remotely
 
-by [Shannon](../profile/Shannon) March 17, 2020 20:25
+by [Shannon](../profile/Shannon) | March 17, 2020 20:25
 
 March 17, 2020 20:25 | Tags: [blog](../tag/blog), [with:stevie](../tag/with:stevie), [with:liz](../tag/with:liz), [with:joyofsoy](../tag/with:joyofsoy), [with:mimiss](../tag/with:mimiss), [morninghello](../tag/morninghello), [covid-19](../tag/covid-19)
 

@@ -1,6 +1,5 @@
 ---
-title: '"Ecohackers: These kids track pollution with balloons and kites"'
-tagnames: blog
+title: ""Ecohackers: These kids track pollution with balloons and kites""\ntagnames: 'blog'
 author: stevie
 path: /notes/stevie/07-22-2015/ecohackers-these-kids-track-pollution-with-balloons-and-kites.md
 nid: 12090
@@ -12,7 +11,7 @@ uid: 422561
 
 # "Ecohackers: These kids track pollution with balloons and kites"
 
-by [stevie](../profile/stevie) July 22, 2015 14:41
+by [stevie](../profile/stevie) | July 22, 2015 14:41
 
 July 22, 2015 14:41 | Tags: [blog](../tag/blog)
 

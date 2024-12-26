@@ -1,6 +1,5 @@
 ---
-title: 'Balloon Mapping In Edgard!'
-tagnames: mapping, balloon, first-time-poster, zoom:6, lat:30.043257, lon:-90.560086
+title: "Balloon Mapping In Edgard!"\ntagnames: 'mapping, balloon, first-time-poster, zoom:6, lat:30.043257, lon:-90.560086'
 author: Keimyren
 path: /notes/Keimyren/04-30-2021/balloon-mapping-in-edgard.md
 nid: 26426
@@ -10,7 +9,7 @@ uid: 754785
 
 # Balloon Mapping In Edgard!
 
-by [Keimyren](../profile/Keimyren) April 30, 2021 18:32
+by [Keimyren](../profile/Keimyren) | April 30, 2021 18:32
 
 April 30, 2021 18:32 | Tags: [mapping](../tag/mapping), [balloon](../tag/balloon), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.043257](../tag/lat:30.043257), [lon:-90.560086](../tag/lon:-90.560086)
 

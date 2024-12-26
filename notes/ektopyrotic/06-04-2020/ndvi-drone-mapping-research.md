@@ -1,6 +1,5 @@
 ---
-title: 'NDVI Drone Mapping Research'
-tagnames: ndvi, infrared, agriculture, remote, software, sensing, panorama, drone, monitoring, code, python, stitching, ecosystem, programming, first-time-poster, geography, zoom:6, lat:53.349805, lon:-6.260309, geomatics, esp32
+title: "NDVI Drone Mapping Research"\ntagnames: 'ndvi, infrared, agriculture, remote, software, sensing, panorama, drone, monitoring, code, python, stitching, ecosystem, programming, first-time-poster, geography, zoom:6, lat:53.349805, lon:-6.260309, geomatics, esp32'
 author: ektopyrotic
 path: /notes/ektopyrotic/06-04-2020/ndvi-drone-mapping-research.md
 nid: 23777
@@ -12,7 +11,7 @@ uid: 699450
 
 # NDVI Drone Mapping Research
 
-by [ektopyrotic](../profile/ektopyrotic) June 04, 2020 19:16
+by [ektopyrotic](../profile/ektopyrotic) | June 04, 2020 19:16
 
 June 04, 2020 19:16 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [agriculture](../tag/agriculture), [remote](../tag/remote), [software](../tag/software), [sensing](../tag/sensing), [panorama](../tag/panorama), [drone](../tag/drone), [monitoring](../tag/monitoring), [code](../tag/code), [python](../tag/python), [stitching](../tag/stitching), [ecosystem](../tag/ecosystem), [programming](../tag/programming), [first-time-poster](../tag/first-time-poster), [geography](../tag/geography), [zoom:6](../tag/zoom:6), [lat:53.349805](../tag/lat:53.349805), [lon:-6.260309](../tag/lon:-6.260309), [geomatics](../tag/geomatics), [esp32](../tag/esp32)
 

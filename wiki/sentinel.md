@@ -1,6 +1,5 @@
 ---
-title: 'sentinel'
-tagnames: redirect:19663
+title: "sentinel"\ntagnames: 'redirect:19663'
 author: joyofsoy
 path: /wiki/sentinel.md
 nid: 22766

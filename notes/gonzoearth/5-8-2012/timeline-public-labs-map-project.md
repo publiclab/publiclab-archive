@@ -1,6 +1,5 @@
 ---
-title: 'Timeline of a Public Labs map project'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, idealab
+title: "Timeline of a Public Labs map project"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, idealab'
 author: gonzoearth
 path: /notes/gonzoearth/5-8-2012/timeline-public-labs-map-project.md
 nid: 1926
@@ -12,7 +11,7 @@ uid: 12
 
 # Timeline of a Public Labs map project
 
-by [gonzoearth](../profile/gonzoearth) May 08, 2012 17:28
+by [gonzoearth](../profile/gonzoearth) | May 08, 2012 17:28
 
 May 08, 2012 17:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [idealab](../tag/idealab)
 

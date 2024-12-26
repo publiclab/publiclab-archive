@@ -1,6 +1,5 @@
 ---
-title: 'Subscribe'
-tagnames: newsletter, sidebar:featured, style:wide, style:presentation, newsletter-archive
+title: "Subscribe"\ntagnames: 'newsletter, sidebar:featured, style:wide, style:presentation, newsletter-archive'
 author: warren
 path: /wiki/subscribe.md
 nid: 308

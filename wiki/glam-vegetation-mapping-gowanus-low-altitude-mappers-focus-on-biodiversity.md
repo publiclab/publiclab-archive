@@ -1,6 +1,5 @@
 ---
-title: 'GLAM Vegetation Mapping: Gowanus Low Altitude Mappers focus on biodiversity'
-tagnames: gowanus-canal, gowanus-canal-superfund-site, gowanus-dredgers-canoe-club, grassrootsmappingforum, glam, style:fancy, gmf-4
+title: "GLAM Vegetation Mapping: Gowanus Low Altitude Mappers focus on biodiversity"\ntagnames: 'gowanus-canal, gowanus-canal-superfund-site, gowanus-dredgers-canoe-club, grassrootsmappingforum, glam, style:fancy, gmf-4'
 author: mollydanielsson
 path: /wiki/glam-vegetation-mapping-gowanus-low-altitude-mappers-focus-on-biodiversity.md
 nid: 11583

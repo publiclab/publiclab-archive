@@ -1,6 +1,5 @@
 ---
-title: 'Outreachy proposal: Design a new full-screen User Interface for Infragram.org '
-tagnames: software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022
+title: "Outreachy proposal: Design a new full-screen User Interface for Infragram.org "\ntagnames: 'software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022'
 author: victoria_o_ajala
 path: /notes/victoria_o_ajala/04-22-2022/outreachy-proposal.md
 nid: 30553
@@ -12,7 +11,7 @@ uid: 792805
 
 # Outreachy proposal: Design a new full-screen User Interface for Infragram.org 
 
-by [victoria_o_ajala](../profile/victoria_o_ajala) April 22, 2022 08:53
+by [victoria_o_ajala](../profile/victoria_o_ajala) | April 22, 2022 08:53
 
 April 22, 2022 08:53 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 

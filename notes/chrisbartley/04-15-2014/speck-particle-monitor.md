@@ -1,6 +1,5 @@
 ---
-title: 'Speck particle monitor'
-tagnames: indoor-air-quality-mapping, particulate-sensing, pittsburgh, cmu, air-quality, visualization, dust, optical-sensor, particulate, speck, pennsylvania, air-sensors
+title: "Speck particle monitor"\ntagnames: 'indoor-air-quality-mapping, particulate-sensing, pittsburgh, cmu, air-quality, visualization, dust, optical-sensor, particulate, speck, pennsylvania, air-sensors'
 author: chrisbartley
 path: /notes/chrisbartley/04-15-2014/speck-particle-monitor.md
 nid: 10316
@@ -12,7 +11,7 @@ uid: 422225
 
 # Speck particle monitor
 
-by [chrisbartley](../profile/chrisbartley) April 15, 2014 21:23
+by [chrisbartley](../profile/chrisbartley) | April 15, 2014 21:23
 
 April 15, 2014 21:23 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [particulate-sensing](../tag/particulate-sensing), [pittsburgh](../tag/pittsburgh), [cmu](../tag/cmu), [air-quality](../tag/air-quality), [visualization](../tag/visualization), [dust](../tag/dust), [optical-sensor](../tag/optical-sensor), [particulate](../tag/particulate), [speck](../tag/speck), [pennsylvania](../tag/pennsylvania), [air-sensors](../tag/air-sensors)
 

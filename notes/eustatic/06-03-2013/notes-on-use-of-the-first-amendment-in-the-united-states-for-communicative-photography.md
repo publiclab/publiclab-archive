@@ -1,6 +1,5 @@
 ---
-title: 'Notes on use of the first amendment in the United States for communicative photography'
-tagnames: balloon-mapping, kite-mapping, evidence, legal, unitedbulk, photographers-rights, free-speech, response:7945, court, first-amendment, law-and-policy
+title: "Notes on use of the first amendment in the United States for communicative photography"\ntagnames: 'balloon-mapping, kite-mapping, evidence, legal, unitedbulk, photographers-rights, free-speech, response:7945, court, first-amendment, law-and-policy'
 author: eustatic
 path: /06-03-2013/notes-on-use-of-the-first-amendment-in-the-united-states-for-communicative-photography.md
 nid: 8034
@@ -12,7 +11,7 @@ uid: 379
 
 # Notes on use of the first amendment in the United States for communicative photography
 
-by [eustatic](../profile/eustatic) June 03, 2013 22:56
+by [eustatic](../profile/eustatic) | June 03, 2013 22:56
 
 June 03, 2013 22:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [evidence](../tag/evidence), [legal](../tag/legal), [unitedbulk](../tag/unitedbulk), [photographers-rights](../tag/photographers-rights), [free-speech](../tag/free-speech), [response:7945](../tag/response:7945), [court](../tag/court), [first-amendment](../tag/first-amendment), [law-and-policy](../tag/law-and-policy)
 

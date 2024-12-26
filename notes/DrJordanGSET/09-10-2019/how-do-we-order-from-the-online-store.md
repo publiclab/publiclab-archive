@@ -1,6 +1,5 @@
 ---
-title: 'How do we order from the online store?'
-tagnames: question:general, first-time-poster
+title: "How do we order from the online store?"\ntagnames: 'question:general, first-time-poster'
 author: DrJordanGSET
 path: /notes/DrJordanGSET/09-10-2019/how-do-we-order-from-the-online-store.md
 nid: 20817
@@ -10,7 +9,7 @@ uid: 578977
 
 # How do we order from the online store?
 
-by [DrJordanGSET](../profile/DrJordanGSET) September 10, 2019 21:01
+by [DrJordanGSET](../profile/DrJordanGSET) | September 10, 2019 21:01
 
 September 10, 2019 21:01 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 

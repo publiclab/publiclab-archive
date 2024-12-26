@@ -1,6 +1,5 @@
 ---
-title: 'Canon A2200 NIR conversion'
-tagnames: nir, leaffest, a2200, conversion, infragram-conversion
+title: "Canon A2200 NIR conversion"\ntagnames: 'nir, leaffest, a2200, conversion, infragram-conversion'
 author: nedhorning
 path: /notes/nedhorning/9-25-2012/canon-a2200-nir-conversion.md
 nid: 4002
@@ -12,7 +11,7 @@ uid: 133
 
 # Canon A2200 NIR conversion
 
-by [nedhorning](../profile/nedhorning) September 25, 2012 14:08
+by [nedhorning](../profile/nedhorning) | September 25, 2012 14:08
 
 September 25, 2012 14:08 | Tags: [nir](../tag/nir), [leaffest](../tag/leaffest), [a2200](../tag/a2200), [conversion](../tag/conversion), [infragram-conversion](../tag/infragram-conversion)
 

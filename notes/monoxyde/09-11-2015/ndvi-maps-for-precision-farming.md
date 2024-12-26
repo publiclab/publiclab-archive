@@ -1,6 +1,5 @@
 ---
-title: 'NDVI MAPS for Precision Farming'
-tagnames: near-infrared-camera, ndvi, imagej, infrared-conversion
+title: "NDVI MAPS for Precision Farming"\ntagnames: 'near-infrared-camera, ndvi, imagej, infrared-conversion'
 author: Monoxyde
 path: /notes/monoxyde/09-11-2015/ndvi-maps-for-precision-farming.md
 nid: 12210
@@ -12,7 +11,7 @@ uid: 432132
 
 # NDVI MAPS for Precision Farming
 
-by [Monoxyde](../profile/Monoxyde) September 11, 2015 18:27
+by [Monoxyde](../profile/Monoxyde) | September 11, 2015 18:27
 
 September 11, 2015 18:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infrared-conversion](../tag/infrared-conversion)
 

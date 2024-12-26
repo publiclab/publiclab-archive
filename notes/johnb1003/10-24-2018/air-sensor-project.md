@@ -1,6 +1,5 @@
 ---
-title: 'Air Sensor Project'
-tagnames: particulate-sensing, amherst, massachusetts, air-quality, umass-amherst, dust, pm, dust-monitoring, dht22, shinyei, air-sensing, air-sensors, air-sensor-projects
+title: "Air Sensor Project"\ntagnames: 'particulate-sensing, amherst, massachusetts, air-quality, umass-amherst, dust, pm, dust-monitoring, dht22, shinyei, air-sensing, air-sensors, air-sensor-projects'
 author: johnb1003
 path: /notes/johnb1003/10-24-2018/air-sensor-project.md
 nid: 17388
@@ -12,7 +11,7 @@ uid: 556306
 
 # Air Sensor Project
 
-by [johnb1003](../profile/johnb1003) October 24, 2018 19:26
+by [johnb1003](../profile/johnb1003) | October 24, 2018 19:26
 
 October 24, 2018 19:26 | Tags: [particulate-sensing](../tag/particulate-sensing), [amherst](../tag/amherst), [massachusetts](../tag/massachusetts), [air-quality](../tag/air-quality), [umass-amherst](../tag/umass-amherst), [dust](../tag/dust), [pm](../tag/pm), [dust-monitoring](../tag/dust-monitoring), [dht22](../tag/dht22), [shinyei](../tag/shinyei), [air-sensing](../tag/air-sensing), [air-sensors](../tag/air-sensors), [air-sensor-projects](../tag/air-sensor-projects)
 

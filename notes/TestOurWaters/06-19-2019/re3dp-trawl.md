@@ -1,6 +1,5 @@
 ---
-title: 'Re3DP Trawl'
-tagnames: water-quality, micro-plastics, microplastics, plastics, trawl, first-time-poster, activity:microplastics
+title: "Re3DP Trawl"\ntagnames: 'water-quality, micro-plastics, microplastics, plastics, trawl, first-time-poster, activity:microplastics'
 author: TestOurWaters
 path: /notes/TestOurWaters/06-19-2019/re3dp-trawl.md
 nid: 19740
@@ -12,7 +11,7 @@ uid: 597615
 
 # Re3DP Trawl
 
-by [TestOurWaters](../profile/TestOurWaters) June 19, 2019 16:17
+by [TestOurWaters](../profile/TestOurWaters) | June 19, 2019 16:17
 
 June 19, 2019 16:17 | Tags: [water-quality](../tag/water-quality), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [trawl](../tag/trawl), [first-time-poster](../tag/first-time-poster), [activity:microplastics](../tag/activity:microplastics)
 

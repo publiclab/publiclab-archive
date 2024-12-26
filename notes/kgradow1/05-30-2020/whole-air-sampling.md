@@ -1,6 +1,5 @@
 ---
-title: 'Whole Air Sampling'
-tagnames: air-quality, bucket-brigade, air-sampling, lat:42, lon:-70, zoom:6, bucket-monitor, activity:air-sampling
+title: "Whole Air Sampling"\ntagnames: 'air-quality, bucket-brigade, air-sampling, lat:42, lon:-70, zoom:6, bucket-monitor, activity:air-sampling'
 author: kgradow1
 path: /notes/kgradow1/05-30-2020/whole-air-sampling.md
 nid: 23739
@@ -12,7 +11,7 @@ uid: 297929
 
 # Whole Air Sampling
 
-by [kgradow1](../profile/kgradow1) May 30, 2020 01:23
+by [kgradow1](../profile/kgradow1) | May 30, 2020 01:23
 
 May 30, 2020 01:23 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [air-sampling](../tag/air-sampling), [lat:42](../tag/lat:42), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:air-sampling](../tag/activity:air-sampling)
 

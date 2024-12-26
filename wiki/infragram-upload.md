@@ -1,6 +1,5 @@
 ---
-title: 'infragram-upload'
-tagnames: parent:infragram
+title: "infragram-upload"\ntagnames: 'parent:infragram'
 author: warren
 path: /wiki/infragram-upload.md
 nid: 24562

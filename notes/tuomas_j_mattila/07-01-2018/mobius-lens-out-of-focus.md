@@ -1,6 +1,5 @@
 ---
-title: 'Mobius lens out of focus'
-tagnames: question:general
+title: "Mobius lens out of focus"\ntagnames: 'question:general'
 author: tuomas_j_mattila
 path: /notes/tuomas_j_mattila/07-01-2018/mobius-lens-out-of-focus.md
 nid: 16601
@@ -10,7 +9,7 @@ uid: 539737
 
 # Mobius lens out of focus
 
-by [tuomas_j_mattila](../profile/tuomas_j_mattila) July 01, 2018 18:35
+by [tuomas_j_mattila](../profile/tuomas_j_mattila) | July 01, 2018 18:35
 
 July 01, 2018 18:35 | Tags: [question:general](../tag/question:general)
 

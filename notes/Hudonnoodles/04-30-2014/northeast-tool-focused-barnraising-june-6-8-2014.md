@@ -1,6 +1,5 @@
 ---
-title: 'Northeast Tool-focused Barnraising: June 6-8, 2014'
-tagnames: new-york-city, providence, somerville-massachusetts, vermont, boston, philadelphia, barnraising, event, plymouth, tidmarsh, dc-baltimore, northeast, tool-focused, jones-river, regional
+title: "Northeast Tool-focused Barnraising: June 6-8, 2014"\ntagnames: 'new-york-city, providence, somerville-massachusetts, vermont, boston, philadelphia, barnraising, event, plymouth, tidmarsh, dc-baltimore, northeast, tool-focused, jones-river, regional'
 author: Hudonnoodles
 path: /notes/Hudonnoodles/04-30-2014/northeast-tool-focused-barnraising-june-6-8-2014.md
 nid: 10383
@@ -12,7 +11,7 @@ uid: 102
 
 # Northeast Tool-focused Barnraising: June 6-8, 2014
 
-by [Hudonnoodles](../profile/Hudonnoodles) April 30, 2014 15:27
+by [Hudonnoodles](../profile/Hudonnoodles) | April 30, 2014 15:27
 
 April 30, 2014 15:27 | Tags: [new-york-city](../tag/new-york-city), [providence](../tag/providence), [somerville-massachusetts](../tag/somerville-massachusetts), [vermont](../tag/vermont), [boston](../tag/boston), [philadelphia](../tag/philadelphia), [barnraising](../tag/barnraising), [event](../tag/event), [plymouth](../tag/plymouth), [tidmarsh](../tag/tidmarsh), [dc-baltimore](../tag/dc-baltimore), [northeast](../tag/northeast), [tool-focused](../tag/tool-focused), [jones-river](../tag/jones-river), [regional](../tag/regional)
 

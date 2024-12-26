@@ -1,6 +1,5 @@
 ---
-title: 'Tips for adding images to your Notes and Wiki pages'
-tagnames: 
+title: "Tips for adding images to your Notes and Wiki pages"\ntagnames: ''
 author: rjstatic-admin
 path: /wiki/how-add-images-to-your-notes-and-wiki-pages.md
 nid: 658

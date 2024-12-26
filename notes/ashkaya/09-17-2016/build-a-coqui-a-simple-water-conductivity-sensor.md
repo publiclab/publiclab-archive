@@ -1,6 +1,5 @@
 ---
-title: 'Build a Coquí: A Simple Water Conductivity Sensor (version 1)'
-tagnames: water, tutorial, conductivity, open-water, with:kanarinka, coqui, tutorials, difficulty:easy, status:review-me, category:build, time:1h, activity:coqui
+title: "Build a Coquí: A Simple Water Conductivity Sensor (version 1)"\ntagnames: 'water, tutorial, conductivity, open-water, with:kanarinka, coqui, tutorials, difficulty:easy, status:review-me, category:build, time:1h, activity:coqui'
 author: akshaya
 path: /notes/ashkaya/09-17-2016/build-a-coqui-a-simple-water-conductivity-sensor.md
 nid: 13459
@@ -12,7 +11,7 @@ uid: 472548
 
 # Build a Coquí: A Simple Water Conductivity Sensor (version 1)
 
-by [akshaya](../profile/akshaya) September 17, 2016 23:21
+by [akshaya](../profile/akshaya) | September 17, 2016 23:21
 
 September 17, 2016 23:21 | Tags: [water](../tag/water), [tutorial](../tag/tutorial), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [with:kanarinka](../tag/with:kanarinka), [coqui](../tag/coqui), [tutorials](../tag/tutorials), [difficulty:easy](../tag/difficulty:easy), [status:review-me](../tag/status:review-me), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [activity:coqui](../tag/activity:coqui)
 

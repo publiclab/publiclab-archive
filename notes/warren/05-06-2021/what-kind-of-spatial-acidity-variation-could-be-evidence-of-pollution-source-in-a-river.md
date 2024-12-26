@@ -1,6 +1,5 @@
 ---
-title: 'What kind of spatial acidity variation could be evidence of pollution source in a river?'
-tagnames: mapping, water-quality, rivers, ph, question:water-quality, fertilizer, lat:40, lon:-70, zoom:6
+title: "What kind of spatial acidity variation could be evidence of pollution source in a river?"\ntagnames: 'mapping, water-quality, rivers, ph, question:water-quality, fertilizer, lat:40, lon:-70, zoom:6'
 author: warren
 path: /notes/warren/05-06-2021/what-kind-of-spatial-acidity-variation-could-be-evidence-of-pollution-source-in-a-river.md
 nid: 26518
@@ -12,7 +11,7 @@ uid: 1
 
 # What kind of spatial acidity variation could be evidence of pollution source in a river?
 
-by [warren](../profile/warren) May 06, 2021 21:48
+by [warren](../profile/warren) | May 06, 2021 21:48
 
 May 06, 2021 21:48 | Tags: [mapping](../tag/mapping), [water-quality](../tag/water-quality), [rivers](../tag/rivers), [ph](../tag/ph), [question:water-quality](../tag/question:water-quality), [fertilizer](../tag/fertilizer), [lat:40](../tag/lat:40), [lon:-70](../tag/lon:-70), [zoom:6](../tag/zoom:6)
 

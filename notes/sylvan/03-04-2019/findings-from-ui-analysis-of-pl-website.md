@@ -1,6 +1,5 @@
 ---
-title: 'Findings from UI Analysis of PL website'
-tagnames: design, request, ui, pin:ui
+title: "Findings from UI Analysis of PL website"\ntagnames: 'design, request, ui, pin:ui'
 author: sylvan
 path: /notes/sylvan/03-04-2019/findings-from-ui-analysis-of-pl-website.md
 nid: 18467
@@ -12,7 +11,7 @@ uid: 540012
 
 # Findings from UI Analysis of PL website
 
-by [sylvan](../profile/sylvan) March 04, 2019 20:10
+by [sylvan](../profile/sylvan) | March 04, 2019 20:10
 
 March 04, 2019 20:10 | Tags: [design](../tag/design), [request](../tag/request), [ui](../tag/ui), [pin:ui](../tag/pin:ui)
 

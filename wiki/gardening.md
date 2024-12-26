@@ -1,6 +1,5 @@
 ---
-title: 'Gardening'
-tagnames: 
+title: "Gardening"\ntagnames: ''
 author: warren
 path: /wiki/gardening.md
 nid: 649

@@ -1,6 +1,5 @@
 ---
-title: 'Video tutorial: Intro to MapKnitter.org'
-tagnames: mapknitter
+title: "Video tutorial: Intro to MapKnitter.org"\ntagnames: 'mapknitter'
 author: warren
 path: /notes/warren/9-30-2011/video-intro-mapknitterorg.md
 nid: 488
@@ -12,7 +11,7 @@ uid: 1
 
 # Video tutorial: Intro to MapKnitter.org
 
-by [warren](../profile/warren) September 30, 2011 19:16
+by [warren](../profile/warren) | September 30, 2011 19:16
 
 September 30, 2011 19:16 | Tags: [mapknitter](../tag/mapknitter)
 

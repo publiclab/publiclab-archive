@@ -1,6 +1,5 @@
 ---
-title: 'Rocketfish hd webcam conversion '
-tagnames: near-infrared-camera, conversion, infragram, response:8285, infragram-conversion, armroyjem
+title: "Rocketfish hd webcam conversion "\ntagnames: 'near-infrared-camera, conversion, infragram, response:8285, infragram-conversion, armroyjem'
 author: gonzoearth
 path: /notes/gonzoearth/06-20-2013/rocketfish-hd-webcam-conversion.md
 nid: 8323
@@ -12,7 +11,7 @@ uid: 12
 
 # Rocketfish hd webcam conversion 
 
-by [gonzoearth](../profile/gonzoearth) June 20, 2013 22:39
+by [gonzoearth](../profile/gonzoearth) | June 20, 2013 22:39
 
 June 20, 2013 22:39 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [infragram](../tag/infragram), [response:8285](../tag/response:8285), [infragram-conversion](../tag/infragram-conversion), [armroyjem](../tag/armroyjem)
 

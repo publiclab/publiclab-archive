@@ -1,6 +1,5 @@
 ---
-title: 'Open sourcing MapKnitter data'
-tagnames: 
+title: "Open sourcing MapKnitter data"\ntagnames: ''
 author: warren
 path: /wiki/open-sourcing-mapknitter-data.md
 nid: 777

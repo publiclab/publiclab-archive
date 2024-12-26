@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab River Rat Pack -- St. Louis -- Molly Chaney'
-tagnames: publiclabriverratpack
+title: "Public Lab River Rat Pack -- St. Louis -- Molly Chaney"\ntagnames: 'publiclabriverratpack'
 author: mchaney
 path: /notes/mchaney/05-10-2016/public-lab-river-rat-pack-st-louis-molly-chaney.md
 nid: 13100
@@ -10,7 +9,7 @@ uid: 466008
 
 # Public Lab River Rat Pack -- St. Louis -- Molly Chaney
 
-by [mchaney](../profile/mchaney) May 10, 2016 23:53
+by [mchaney](../profile/mchaney) | May 10, 2016 23:53
 
 May 10, 2016 23:53 | Tags: [publiclabriverratpack](../tag/publiclabriverratpack)
 

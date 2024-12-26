@@ -1,6 +1,5 @@
 ---
-title: 'mapping curriculum: first flight'
-tagnames: curriculum, parent:mapping-curriculum, mapping-curriculum
+title: "mapping curriculum: first flight"\ntagnames: 'curriculum, parent:mapping-curriculum, mapping-curriculum'
 author: gonzoearth
 path: /wiki/mapping-curriculum-first-flight.md
 nid: 390

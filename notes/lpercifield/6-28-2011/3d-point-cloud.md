@@ -1,6 +1,5 @@
 ---
-title: '3D Point Cloud'
-tagnames: first-time-poster
+title: "3D Point Cloud"\ntagnames: 'first-time-poster'
 author: lpercifield
 path: /notes/lpercifield/6-28-2011/3d-point-cloud.md
 nid: 363
@@ -12,7 +11,7 @@ uid: 20
 
 # 3D Point Cloud
 
-by [lpercifield](../profile/lpercifield) June 28, 2011 17:07
+by [lpercifield](../profile/lpercifield) | June 28, 2011 17:07
 
 June 28, 2011 17:07 | Tags: [first-time-poster](../tag/first-time-poster)
 

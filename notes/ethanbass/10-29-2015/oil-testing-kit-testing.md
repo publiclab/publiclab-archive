@@ -1,6 +1,5 @@
 ---
-title: 'Oil testing kit: Testing'
-tagnames: spectrometer, oil-testing-kit, barnstar:basic, oil-testing-kit-beta
+title: "Oil testing kit: Testing"\ntagnames: 'spectrometer, oil-testing-kit, barnstar:basic, oil-testing-kit-beta'
 author: ethanbass
 path: /notes/ethanbass/10-29-2015/oil-testing-kit-testing.md
 nid: 12344
@@ -12,7 +11,7 @@ uid: 46902
 
 # Oil testing kit: Testing
 
-by [ethanbass](../profile/ethanbass) October 29, 2015 18:59
+by [ethanbass](../profile/ethanbass) | October 29, 2015 18:59
 
 October 29, 2015 18:59 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 

@@ -1,6 +1,5 @@
 ---
-title: 'mapknitter-leaflet'
-tagnames: mapknitter, mapknitter-development, parent:mapknitter
+title: "mapknitter-leaflet"\ntagnames: 'mapknitter, mapknitter-development, parent:mapknitter'
 author: warren
 path: /wiki/mapknitter-leaflet.md
 nid: 11468

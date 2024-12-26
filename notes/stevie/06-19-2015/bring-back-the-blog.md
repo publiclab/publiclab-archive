@@ -1,6 +1,5 @@
 ---
-title: 'Bring Back the Blog!'
-tagnames: community, blog
+title: "Bring Back the Blog!"\ntagnames: 'community, blog'
 author: stevie
 path: /notes/stevie/06-19-2015/bring-back-the-blog.md
 nid: 11990
@@ -12,7 +11,7 @@ uid: 422561
 
 # Bring Back the Blog!
 
-by [stevie](../profile/stevie) June 19, 2015 20:21
+by [stevie](../profile/stevie) | June 19, 2015 20:21
 
 June 19, 2015 20:21 | Tags: [community](../tag/community), [blog](../tag/blog)
 

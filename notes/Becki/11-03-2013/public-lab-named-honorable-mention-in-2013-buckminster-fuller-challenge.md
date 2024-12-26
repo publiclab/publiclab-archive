@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Named Honorable Mention in 2013 Buckminster Fuller Challenge'
-tagnames: buckminster-fuller-challenge
+title: "Public Lab Named Honorable Mention in 2013 Buckminster Fuller Challenge"\ntagnames: 'buckminster-fuller-challenge'
 author: Becki
 path: /notes/Becki/11-03-2013/public-lab-named-honorable-mention-in-2013-buckminster-fuller-challenge.md
 nid: 9720
@@ -12,7 +11,7 @@ uid: 46673
 
 # Public Lab Named Honorable Mention in 2013 Buckminster Fuller Challenge
 
-by [Becki](../profile/Becki) November 03, 2013 15:20
+by [Becki](../profile/Becki) | November 03, 2013 15:20
 
 November 03, 2013 15:20 | Tags: [buckminster-fuller-challenge](../tag/buckminster-fuller-challenge)
 

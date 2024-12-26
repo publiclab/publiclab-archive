@@ -1,6 +1,5 @@
 ---
-title: 'Be a mentor for Public Lab in Google Summer of Code 2017'
-tagnames: software, gsoc, web, developers, wwg, gsoc-2017
+title: "Be a mentor for Public Lab in Google Summer of Code 2017"\ntagnames: 'software, gsoc, web, developers, wwg, gsoc-2017'
 author: warren
 path: /notes/warren/02-08-2017/be-a-mentor-for-public-lab-in-google-summer-of-code-2017.md
 nid: 13910
@@ -12,7 +11,7 @@ uid: 1
 
 # Be a mentor for Public Lab in Google Summer of Code 2017
 
-by [warren](../profile/warren) February 08, 2017 21:58
+by [warren](../profile/warren) | February 08, 2017 21:58
 
 February 08, 2017 21:58 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [gsoc-2017](../tag/gsoc-2017)
 

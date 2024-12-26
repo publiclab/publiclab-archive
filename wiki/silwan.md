@@ -1,6 +1,5 @@
 ---
-title: 'Silwan'
-tagnames: 
+title: "Silwan"\ntagnames: ''
 author: warren
 path: /wiki/silwan.md
 nid: 313

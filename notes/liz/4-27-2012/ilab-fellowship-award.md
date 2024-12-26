@@ -1,6 +1,5 @@
 ---
-title: 'iLAB Fellowship Award'
-tagnames: balloon-mapping, kite-mapping, ilab
+title: "iLAB Fellowship Award"\ntagnames: 'balloon-mapping, kite-mapping, ilab'
 author: liz
 path: /notes/liz/4-27-2012/ilab-fellowship-award.md
 nid: 1819
@@ -10,7 +9,7 @@ uid: 7
 
 # iLAB Fellowship Award
 
-by [liz](../profile/liz) April 27, 2012 18:17
+by [liz](../profile/liz) | April 27, 2012 18:17
 
 April 27, 2012 18:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ilab](../tag/ilab)
 

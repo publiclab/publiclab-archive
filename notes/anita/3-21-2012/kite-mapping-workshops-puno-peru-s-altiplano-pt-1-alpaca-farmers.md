@@ -1,6 +1,5 @@
 ---
-title: 'Kite Mapping Workshops in Puno, Peru’s Altiplano – Pt. 1: Alpaca Farmers '
-tagnames: peru, self-made-kite-mapping, diy-kite, south-america
+title: "Kite Mapping Workshops in Puno, Peru’s Altiplano – Pt. 1: Alpaca Farmers "\ntagnames: 'peru, self-made-kite-mapping, diy-kite, south-america'
 author: anita
 path: /notes/anita/3-21-2012/kite-mapping-workshops-puno-peru-s-altiplano-pt-1-alpaca-farmers.md
 nid: 1509
@@ -12,7 +11,7 @@ uid: 481
 
 # Kite Mapping Workshops in Puno, Peru’s Altiplano – Pt. 1: Alpaca Farmers 
 
-by [anita](../profile/anita) March 21, 2012 17:12
+by [anita](../profile/anita) | March 21, 2012 17:12
 
 March 21, 2012 17:12 | Tags: [peru](../tag/peru), [self-made-kite-mapping](../tag/self-made-kite-mapping), [diy-kite](../tag/diy-kite), [south-america](../tag/south-america)
 

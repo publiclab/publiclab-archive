@@ -1,6 +1,5 @@
 ---
-title: 'First Drone Flight and White Balance Issues'
-tagnames: near-infrared-camera, ndvi, nir, near-infrared, question:white-balance
+title: "First Drone Flight and White Balance Issues"\ntagnames: 'near-infrared-camera, ndvi, nir, near-infrared, question:white-balance'
 author: amck
 path: /notes/amck/09-14-2015/first-drone-flight-and-white-balance-issues.md
 nid: 12215
@@ -12,7 +11,7 @@ uid: 451388
 
 # First Drone Flight and White Balance Issues
 
-by [amck](../profile/amck) September 14, 2015 22:42
+by [amck](../profile/amck) | September 14, 2015 22:42
 
 September 14, 2015 22:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [near-infrared](../tag/near-infrared), [question:white-balance](../tag/question:white-balance)
 

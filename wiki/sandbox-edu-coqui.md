@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-edu-coqui'
-tagnames: 
+title: "sandbox-edu-coqui"\ntagnames: ''
 author: mimiss
 path: /wiki/sandbox-edu-coqui.md
 nid: 19505

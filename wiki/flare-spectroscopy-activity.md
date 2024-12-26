@@ -1,6 +1,5 @@
 ---
-title: 'Flare Spectroscopy Activity'
-tagnames: education, spectrometry, classroom, activity, response:4406
+title: "Flare Spectroscopy Activity"\ntagnames: 'education, spectrometry, classroom, activity, response:4406'
 author: warren
 path: /wiki/flare-spectroscopy-activity.md
 nid: 9401

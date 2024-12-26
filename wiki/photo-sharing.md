@@ -1,6 +1,5 @@
 ---
-title: 'Photo Sharing'
-tagnames: balloon-mapping, gps, photo-monitoring, timelapse, tool, geo-tagging, lens-distortion, method
+title: "Photo Sharing"\ntagnames: 'balloon-mapping, gps, photo-monitoring, timelapse, tool, geo-tagging, lens-distortion, method'
 author: warren
 path: /wiki/photo-sharing.md
 nid: 14184

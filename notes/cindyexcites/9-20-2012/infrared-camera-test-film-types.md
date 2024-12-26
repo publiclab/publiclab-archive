@@ -1,6 +1,5 @@
 ---
-title: 'Infrared camera test - film types'
-tagnames: near-infrared-camera, nrg, ndvi
+title: "Infrared camera test - film types"\ntagnames: 'near-infrared-camera, nrg, ndvi'
 author: cindy_excites
 path: /notes/cindyexcites/9-20-2012/infrared-camera-test-film-types.md
 nid: 3907
@@ -12,7 +11,7 @@ uid: 1083
 
 # Infrared camera test - film types
 
-by [cindy_excites](../profile/cindy_excites) September 20, 2012 11:01
+by [cindy_excites](../profile/cindy_excites) | September 20, 2012 11:01
 
 September 20, 2012 11:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi)
 

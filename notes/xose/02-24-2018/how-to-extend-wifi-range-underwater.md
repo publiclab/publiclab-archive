@@ -1,6 +1,5 @@
 ---
-title: 'How to extend wifi range underwater?'
-tagnames: question, gopro, question:question, question:gopro, mini-camera, underwater-image, question:mini-camera
+title: "How to extend wifi range underwater?"\ntagnames: 'question, gopro, question:question, question:gopro, mini-camera, underwater-image, question:mini-camera'
 author: xose
 path: /notes/xose/02-24-2018/how-to-extend-wifi-range-underwater.md
 nid: 15811
@@ -10,7 +9,7 @@ uid: 497123
 
 # How to extend wifi range underwater?
 
-by [xose](../profile/xose) February 24, 2018 16:59
+by [xose](../profile/xose) | February 24, 2018 16:59
 
 February 24, 2018 16:59 | Tags: [question](../tag/question), [gopro](../tag/gopro), [question:question](../tag/question:question), [question:gopro](../tag/question:gopro), [mini-camera](../tag/mini-camera), [underwater-image](../tag/underwater-image), [question:mini-camera](../tag/question:mini-camera)
 

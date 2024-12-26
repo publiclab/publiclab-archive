@@ -1,6 +1,5 @@
 ---
-title: 'Hydrogen Sulfide Copper Pipe Testing'
-tagnames: hydrogen-sulfide, method, h2s-copper-pipe, copper-pipe, parent:hydrogen-sulfide, community-kits-prep, activities:h2s-copper-pipe, questions:h2s-copper-pipe
+title: "Hydrogen Sulfide Copper Pipe Testing"\ntagnames: 'hydrogen-sulfide, method, h2s-copper-pipe, copper-pipe, parent:hydrogen-sulfide, community-kits-prep, activities:h2s-copper-pipe, questions:h2s-copper-pipe'
 author: gretchengehrke
 path: /wiki/hydrogen-sulfide-copper-pipe.md
 nid: 15067

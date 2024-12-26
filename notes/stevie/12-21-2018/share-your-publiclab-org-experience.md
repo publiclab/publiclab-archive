@@ -1,6 +1,5 @@
 ---
-title: 'Share your PublicLab.org experience! '
-tagnames: request, ui
+title: "Share your PublicLab.org experience! "\ntagnames: 'request, ui'
 author: stevie
 path: /notes/stevie/12-21-2018/share-your-publiclab-org-experience.md
 nid: 17987
@@ -12,7 +11,7 @@ uid: 422561
 
 # Share your PublicLab.org experience! 
 
-by [stevie](../profile/stevie) December 21, 2018 19:05
+by [stevie](../profile/stevie) | December 21, 2018 19:05
 
 December 21, 2018 19:05 | Tags: [request](../tag/request), [ui](../tag/ui)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Make a Public Lab spectrometer'
-tagnames: spectrometry, water-quality, sidebar:featured, parent:spectrometry
+title: "Make a Public Lab spectrometer"\ntagnames: 'spectrometry, water-quality, sidebar:featured, parent:spectrometry'
 author: warren
 path: /wiki/economist.md
 nid: 15169

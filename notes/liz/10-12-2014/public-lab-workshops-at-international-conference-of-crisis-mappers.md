@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab workshops at International Conference of Crisis Mappers'
-tagnames: new-york-city, balloon-mapping, event, oil-testing, event:rsvp, rsvp:bronwen, date:11-06-2014, rsvp:kimberlyhaas, rsvp:devinb
+title: "Public Lab workshops at International Conference of Crisis Mappers"\ntagnames: 'new-york-city, balloon-mapping, event, oil-testing, event:rsvp, rsvp:bronwen, date:11-06-2014, rsvp:kimberlyhaas, rsvp:devinb'
 author: liz
 path: /notes/liz/10-12-2014/public-lab-workshops-at-international-conference-of-crisis-mappers.md
 nid: 11261
@@ -12,7 +11,7 @@ uid: 7
 
 # Public Lab workshops at International Conference of Crisis Mappers
 
-by [liz](../profile/liz) October 12, 2014 19:59
+by [liz](../profile/liz) | October 12, 2014 19:59
 
 October 12, 2014 19:59 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [oil-testing](../tag/oil-testing), [event:rsvp](../tag/event:rsvp), [rsvp:bronwen](../tag/rsvp:bronwen), [date:11-06-2014](../tag/date:11-06-2014), [rsvp:kimberlyhaas](../tag/rsvp:kimberlyhaas), [rsvp:devinb](../tag/rsvp:devinb)
 

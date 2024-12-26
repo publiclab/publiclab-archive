@@ -1,6 +1,5 @@
 ---
-title: 'What procedure is best to determine background airborne silica levels?'
-tagnames: wisconsin, dust, silica, frac-sand, pm, pm-monitoring, question:pm, question:minivol, question:silica, silica-monitoring, question:frac-sand
+title: "What procedure is best to determine background airborne silica levels?"\ntagnames: 'wisconsin, dust, silica, frac-sand, pm, pm-monitoring, question:pm, question:minivol, question:silica, silica-monitoring, question:frac-sand'
 author: mathew
 path: /notes/mathew/02-10-2017/what-procedure-is-best-to-determine-background-airborne-silica-levels.md
 nid: 13921
@@ -12,7 +11,7 @@ uid: 4
 
 # What procedure is best to determine background airborne silica levels?
 
-by [mathew](../profile/mathew) February 10, 2017 23:36
+by [mathew](../profile/mathew) | February 10, 2017 23:36
 
 February 10, 2017 23:36 | Tags: [wisconsin](../tag/wisconsin), [dust](../tag/dust), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [pm-monitoring](../tag/pm-monitoring), [question:pm](../tag/question:pm), [question:minivol](../tag/question:minivol), [question:silica](../tag/question:silica), [silica-monitoring](../tag/silica-monitoring), [question:frac-sand](../tag/question:frac-sand)
 

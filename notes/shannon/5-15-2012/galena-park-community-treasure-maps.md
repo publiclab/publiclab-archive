@@ -1,6 +1,5 @@
 ---
-title: 'Galena Park Community "treasure maps"'
-tagnames: balloon-mapping, kite-mapping, annotated-maps, community-mapping
+title: "Galena Park Community "treasure maps""\ntagnames: 'balloon-mapping, kite-mapping, annotated-maps, community-mapping'
 author: Shannon
 path: /notes/shannon/5-15-2012/galena-park-community-treasure-maps.md
 nid: 2006
@@ -12,7 +11,7 @@ uid: 9
 
 # Galena Park Community "treasure maps"
 
-by [Shannon](../profile/Shannon) May 16, 2012 03:51
+by [Shannon](../profile/Shannon) | May 16, 2012 03:51
 
 May 16, 2012 03:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annotated-maps](../tag/annotated-maps), [community-mapping](../tag/community-mapping)
 

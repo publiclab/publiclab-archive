@@ -1,6 +1,5 @@
 ---
-title: 'New spectrometer liner design with integrated camera mount'
-tagnames: spectrometer, kit, insert, refinement
+title: "New spectrometer liner design with integrated camera mount"\ntagnames: 'spectrometer, kit, insert, refinement'
 author: warren
 path: /notes/warren/04-15-2013/new-spectrometer-liner-design-with-integrated-camera-mount.md
 nid: 6839
@@ -12,7 +11,7 @@ uid: 1
 
 # New spectrometer liner design with integrated camera mount
 
-by [warren](../profile/warren) April 15, 2013 13:31
+by [warren](../profile/warren) | April 15, 2013 13:31
 
 April 15, 2013 13:31 | Tags: [spectrometer](../tag/spectrometer), [kit](../tag/kit), [insert](../tag/insert), [refinement](../tag/refinement)
 

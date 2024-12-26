@@ -1,6 +1,5 @@
 ---
-title: 'The KAPtober Collection'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infragram, gigapan, titan, redstone, response:11103
+title: "The KAPtober Collection"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infragram, gigapan, titan, redstone, response:11103'
 author: cfastie
 path: /notes/cfastie/10-08-2014/the-kaptober-collection.md
 nid: 11253
@@ -12,7 +11,7 @@ uid: 554
 
 # The KAPtober Collection
 
-by [cfastie](../profile/cfastie) October 08, 2014 23:08
+by [cfastie](../profile/cfastie) | October 08, 2014 23:08
 
 October 08, 2014 23:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infragram](../tag/infragram), [gigapan](../tag/gigapan), [titan](../tag/titan), [redstone](../tag/redstone), [response:11103](../tag/response:11103)
 

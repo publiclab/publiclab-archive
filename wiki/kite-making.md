@@ -1,6 +1,5 @@
 ---
-title: 'Kite making'
-tagnames: balloon-mapping, kite-mapping, aerial-photography, diy-kite, kites, list:grassrootsmapping, aerial-mapping, kite-making, activities:kite-making, parent:aerial-photography
+title: "Kite making"\ntagnames: 'balloon-mapping, kite-mapping, aerial-photography, diy-kite, kites, list:grassrootsmapping, aerial-mapping, kite-making, activities:kite-making, parent:aerial-photography'
 author: warren
 path: /wiki/kite-making.md
 nid: 13762

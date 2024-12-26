@@ -1,6 +1,5 @@
 ---
-title: 'Are there simple tests for nitrates in well water? '
-tagnames: water-quality, nitrates, water-testing, drinking-water, question:water-quality, question:general, general, question:nitrates, question:drinking-water, question:well-water, well-water, question:water-testing
+title: "Are there simple tests for nitrates in well water? "\ntagnames: 'water-quality, nitrates, water-testing, drinking-water, question:water-quality, question:general, general, question:nitrates, question:drinking-water, question:well-water, well-water, question:water-testing'
 author: stevie
 path: /notes/stevie/12-16-2019/are-there-simple-tests-for-nitrates-in-well-water.md
 nid: 21769
@@ -10,7 +9,7 @@ uid: 422561
 
 # Are there simple tests for nitrates in well water? 
 
-by [stevie](../profile/stevie) December 16, 2019 14:59
+by [stevie](../profile/stevie) | December 16, 2019 14:59
 
 December 16, 2019 14:59 | Tags: [water-quality](../tag/water-quality), [nitrates](../tag/nitrates), [water-testing](../tag/water-testing), [drinking-water](../tag/drinking-water), [question:water-quality](../tag/question:water-quality), [question:general](../tag/question:general), [general](../tag/general), [question:nitrates](../tag/question:nitrates), [question:drinking-water](../tag/question:drinking-water), [question:well-water](../tag/question:well-water), [well-water](../tag/well-water), [question:water-testing](../tag/question:water-testing)
 

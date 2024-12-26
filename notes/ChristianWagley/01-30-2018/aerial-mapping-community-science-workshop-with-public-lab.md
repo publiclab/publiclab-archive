@@ -1,6 +1,5 @@
 ---
-title: 'Aerial Mapping: Community science workshop with Public Lab'
-tagnames: balloon-mapping, water-quality, florida, sedimentation, nas, seagrass, lat:30.448673, lon:-87.011718, place:2609-san-clemente-dr-milton-fl-32583, panhandle-sedimentation, panhandle
+title: "Aerial Mapping: Community science workshop with Public Lab"\ntagnames: 'balloon-mapping, water-quality, florida, sedimentation, nas, seagrass, lat:30.448673, lon:-87.011718, place:2609-san-clemente-dr-milton-fl-32583, panhandle-sedimentation, panhandle'
 author: ChristianWagley
 path: /notes/ChristianWagley/01-30-2018/aerial-mapping-community-science-workshop-with-public-lab.md
 nid: 15641
@@ -12,7 +11,7 @@ uid: 521037
 
 # Aerial Mapping: Community science workshop with Public Lab
 
-by [ChristianWagley](../profile/ChristianWagley) January 30, 2018 14:03
+by [ChristianWagley](../profile/ChristianWagley) | January 30, 2018 14:03
 
 January 30, 2018 14:03 | Tags: [balloon-mapping](../tag/balloon-mapping), [water-quality](../tag/water-quality), [florida](../tag/florida), [sedimentation](../tag/sedimentation), [nas](../tag/nas), [seagrass](../tag/seagrass), [lat:30.448673](../tag/lat:30.448673), [lon:-87.011718](../tag/lon:-87.011718), [place:2609-san-clemente-dr-milton-fl-32583](../tag/place:2609-san-clemente-dr-milton-fl-32583), [panhandle-sedimentation](../tag/panhandle-sedimentation), [panhandle](../tag/panhandle)
 

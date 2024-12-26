@@ -1,6 +1,5 @@
 ---
-title: 'nitrates'
-tagnames: redirect:nitrogen
+title: "nitrates"\ntagnames: 'redirect:nitrogen'
 author: warren
 path: /wiki/nitrates.md
 nid: 18782

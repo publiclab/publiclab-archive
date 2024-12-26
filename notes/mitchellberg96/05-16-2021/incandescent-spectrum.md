@@ -1,6 +1,5 @@
 ---
-title: 'Incandescent Spectrum'
-tagnames: first-time-poster, zoom:4, lat:42.287148, lon:-85.605247
+title: "Incandescent Spectrum"\ntagnames: 'first-time-poster, zoom:4, lat:42.287148, lon:-85.605247'
 author: mitchellberg96
 path: /notes/mitchellberg96/05-16-2021/incandescent-spectrum.md
 nid: 26611
@@ -12,7 +11,7 @@ uid: 755996
 
 # Incandescent Spectrum
 
-by [mitchellberg96](../profile/mitchellberg96) May 16, 2021 21:20
+by [mitchellberg96](../profile/mitchellberg96) | May 16, 2021 21:20
 
 May 16, 2021 21:20 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:4](../tag/zoom:4), [lat:42.287148](../tag/lat:42.287148), [lon:-85.605247](../tag/lon:-85.605247)
 

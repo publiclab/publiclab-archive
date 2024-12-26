@@ -1,6 +1,5 @@
 ---
-title: 'comparison visual analysis of infrablue photography '
-tagnames: 
+title: "comparison visual analysis of infrablue photography "\ntagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/07-17-2013/comparison-visual-analysis-of-infrablue-photography.md
 nid: 8904
@@ -12,7 +11,7 @@ uid: 12
 
 # comparison visual analysis of infrablue photography 
 
-by [gonzoearth](../profile/gonzoearth) July 17, 2013 19:34
+by [gonzoearth](../profile/gonzoearth) | July 17, 2013 19:34
 
 July 17, 2013 19:34 | Tags: 
 

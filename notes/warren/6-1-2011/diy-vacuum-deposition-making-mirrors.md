@@ -1,6 +1,5 @@
 ---
-title: 'DIY vacuum deposition for making mirrors'
-tagnames: 
+title: "DIY vacuum deposition for making mirrors"\ntagnames: ''
 author: warren
 path: /notes/warren/6-1-2011/diy-vacuum-deposition-making-mirrors.md
 nid: 310
@@ -12,7 +11,7 @@ uid: 1
 
 # DIY vacuum deposition for making mirrors
 
-by [warren](../profile/warren) June 01, 2011 15:03
+by [warren](../profile/warren) | June 01, 2011 15:03
 
 June 01, 2011 15:03 | Tags: 
 

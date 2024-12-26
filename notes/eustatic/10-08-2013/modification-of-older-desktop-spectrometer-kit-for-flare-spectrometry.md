@@ -1,6 +1,5 @@
 ---
-title: 'Modification of camera position on older desktop spectrometer kit for flare spectrometry'
-tagnames: gulf-coast, spectrometer, kits, desktop-spectrometer-assembly, desktop-spectrometry-kit, chapter, flare, modifications, barnraising-2013
+title: "Modification of camera position on older desktop spectrometer kit for flare spectrometry"\ntagnames: 'gulf-coast, spectrometer, kits, desktop-spectrometer-assembly, desktop-spectrometry-kit, chapter, flare, modifications, barnraising-2013'
 author: eustatic
 path: /10-08-2013/modification-of-older-desktop-spectrometer-kit-for-flare-spectrometry.md
 nid: 9420
@@ -12,7 +11,7 @@ uid: 379
 
 # Modification of camera position on older desktop spectrometer kit for flare spectrometry
 
-by [eustatic](../profile/eustatic) October 08, 2013 16:32
+by [eustatic](../profile/eustatic) | October 08, 2013 16:32
 
 October 08, 2013 16:32 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [kits](../tag/kits), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [chapter](../tag/chapter), [flare](../tag/flare), [modifications](../tag/modifications), [barnraising-2013](../tag/barnraising-2013)
 

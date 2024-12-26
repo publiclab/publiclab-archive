@@ -1,6 +1,5 @@
 ---
-title: 'Question: Can DIY-spectrometer be used for analysis of soil'
-tagnames: soil, reagents, gardening, question:spectrometer, question:spectrometry, question:spectrometry-challenge, soil-analysis, question:soil
+title: "Question: Can DIY-spectrometer be used for analysis of soil"\ntagnames: 'soil, reagents, gardening, question:spectrometer, question:spectrometry, question:spectrometry-challenge, soil-analysis, question:soil'
 author: interestedperson_ha
 path: /notes/interestedperson_ha/06-27-2016/question-can-diy-spectrometer-be-used-for-analysis-of-soil.md
 nid: 13247
@@ -10,7 +9,7 @@ uid: 481090
 
 # Question: Can DIY-spectrometer be used for analysis of soil
 
-by [interestedperson_ha](../profile/interestedperson_ha) June 27, 2016 20:47
+by [interestedperson_ha](../profile/interestedperson_ha) | June 27, 2016 20:47
 
 June 27, 2016 20:47 | Tags: [soil](../tag/soil), [reagents](../tag/reagents), [gardening](../tag/gardening), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [soil-analysis](../tag/soil-analysis), [question:soil](../tag/question:soil)
 

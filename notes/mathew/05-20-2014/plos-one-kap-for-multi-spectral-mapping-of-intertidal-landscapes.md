@@ -1,6 +1,5 @@
 ---
-title: 'PLOS One: KAP for... Multi-Spectral Mapping of Intertidal Landscapes '
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, infrared, kite, photo-rig, kites, infragram
+title: "PLOS One: KAP for... Multi-Spectral Mapping of Intertidal Landscapes "\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, infrared, kite, photo-rig, kites, infragram'
 author: mathew
 path: /notes/mathew/05-20-2014/plos-one-kap-for-multi-spectral-mapping-of-intertidal-landscapes.md
 nid: 10489
@@ -12,7 +11,7 @@ uid: 4
 
 # PLOS One: KAP for... Multi-Spectral Mapping of Intertidal Landscapes 
 
-by [mathew](../profile/mathew) May 20, 2014 16:25
+by [mathew](../profile/mathew) | May 20, 2014 16:25
 
 May 20, 2014 16:25 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [kites](../tag/kites), [infragram](../tag/infragram)
 

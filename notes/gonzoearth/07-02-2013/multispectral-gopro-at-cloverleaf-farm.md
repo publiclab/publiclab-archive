@@ -1,6 +1,5 @@
 ---
-title: 'Multispectral GoPro at Cloverleaf Farmstand'
-tagnames: near-infrared-camera, kite-mapping, ndvi, agriculture, infragram, gopro, gopro-ag, mini-camera, activity:mini-camera
+title: "Multispectral GoPro at Cloverleaf Farmstand"\ntagnames: 'near-infrared-camera, kite-mapping, ndvi, agriculture, infragram, gopro, gopro-ag, mini-camera, activity:mini-camera'
 author: gonzoearth
 path: /notes/gonzoearth/07-02-2013/multispectral-gopro-at-cloverleaf-farm.md
 nid: 8607
@@ -12,7 +11,7 @@ uid: 12
 
 # Multispectral GoPro at Cloverleaf Farmstand
 
-by [gonzoearth](../profile/gonzoearth) July 02, 2013 15:56
+by [gonzoearth](../profile/gonzoearth) | July 02, 2013 15:56
 
 July 02, 2013 15:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [infragram](../tag/infragram), [gopro](../tag/gopro), [gopro-ag](../tag/gopro-ag), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
 

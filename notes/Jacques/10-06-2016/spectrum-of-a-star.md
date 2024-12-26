@@ -1,6 +1,5 @@
 ---
-title: 'Spectrum of a star'
-tagnames: 
+title: "Spectrum of a star"\ntagnames: ''
 author: Jacques
 path: /notes/Jacques/10-06-2016/spectrum-of-a-star.md
 nid: 13525
@@ -12,7 +11,7 @@ uid: 492851
 
 # Spectrum of a star
 
-by [Jacques](../profile/Jacques) October 06, 2016 03:22
+by [Jacques](../profile/Jacques) | October 06, 2016 03:22
 
 October 06, 2016 03:22 | Tags: 
 

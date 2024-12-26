@@ -1,6 +1,5 @@
 ---
-title: 'Google Code-in 2016 with FOSSASIA'
-tagnames: developers, gcin, gcin-2016
+title: "Google Code-in 2016 with FOSSASIA"\ntagnames: 'developers, gcin, gcin-2016'
 author: ananyo2012
 path: /notes/ananyo2012/02-04-2017/google-code-in-2016-with-fossasia.md
 nid: 13905
@@ -12,7 +11,7 @@ uid: 468506
 
 # Google Code-in 2016 with FOSSASIA
 
-by [ananyo2012](../profile/ananyo2012) February 04, 2017 18:51
+by [ananyo2012](../profile/ananyo2012) | February 04, 2017 18:51
 
 February 04, 2017 18:51 | Tags: [developers](../tag/developers), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016)
 

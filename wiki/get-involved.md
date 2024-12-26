@@ -1,6 +1,5 @@
 ---
-title: 'Notes for new Get Involved sequence'
-tagnames: website, plots2, introduction, participation, wintercamp, out-of-date
+title: "Notes for new Get Involved sequence"\ntagnames: 'website, plots2, introduction, participation, wintercamp, out-of-date'
 author: warren
 path: /wiki/get-involved.md
 nid: 5530

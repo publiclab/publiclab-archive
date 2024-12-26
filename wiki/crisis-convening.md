@@ -1,6 +1,5 @@
 ---
-title: 'Crisis Convening'
-tagnames: barnraising, newark, new-jersey, parent:barnraising
+title: "Crisis Convening"\ntagnames: 'barnraising, newark, new-jersey, parent:barnraising'
 author: devinb
 path: /wiki/crisis-convening.md
 nid: 16515

@@ -1,6 +1,5 @@
 ---
-title: 'NDVI Bee Movie'
-tagnames: 
+title: "NDVI Bee Movie"\ntagnames: ''
 author: donblair
 path: /notes/donblair/06-01-2013/ndvi-bee-movie.md
 nid: 8006
@@ -12,7 +11,7 @@ uid: 43651
 
 # NDVI Bee Movie
 
-by [donblair](../profile/donblair) June 01, 2013 04:59
+by [donblair](../profile/donblair) | June 01, 2013 04:59
 
 June 01, 2013 04:59 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'GSoC Proposal 2019: Mapknitter's Rails Upgrade'
-tagnames: mapknitter, gsoc, proposal, soc, first-time-poster, 2019, soc-2019, soc-2019-proposals, soc-2019-projects
+title: "GSoC Proposal 2019: Mapknitter's Rails Upgrade"\ntagnames: 'mapknitter, gsoc, proposal, soc, first-time-poster, 2019, soc-2019, soc-2019-proposals, soc-2019-projects'
 author: alaxallves
 path: /notes/alaxallves/04-03-2019/gsoc-proposal-2019-mapknitter-s-rails-upgrade.md
 nid: 18947
@@ -10,7 +9,7 @@ uid: 577447
 
 # GSoC Proposal 2019: Mapknitter's Rails Upgrade
 
-by [alaxallves](../profile/alaxallves) April 03, 2019 18:35
+by [alaxallves](../profile/alaxallves) | April 03, 2019 18:35
 
 April 03, 2019 18:35 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [proposal](../tag/proposal), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [2019](../tag/2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 

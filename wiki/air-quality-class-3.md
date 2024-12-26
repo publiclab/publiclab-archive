@@ -1,6 +1,5 @@
 ---
-title: 'Air Quality Class 3'
-tagnames: 
+title: "Air Quality Class 3"\ntagnames: ''
 author: liz
 path: /wiki/air-quality-class-3.md
 nid: 6001

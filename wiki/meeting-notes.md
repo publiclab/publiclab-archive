@@ -1,6 +1,5 @@
 ---
-title: 'Meeting Notes'
-tagnames: 
+title: "Meeting Notes"\ntagnames: ''
 author: warren
 path: /wiki/meeting-notes.md
 nid: 181

@@ -1,6 +1,5 @@
 ---
-title: 'IR Pass Filters and a 2 camera NDVI Setup'
-tagnames: near-infrared-camera, ndvi, infrared, dual-camera
+title: "IR Pass Filters and a 2 camera NDVI Setup"\ntagnames: 'near-infrared-camera, ndvi, infrared, dual-camera'
 author: dlaflash
 path: /notes/dlaflash/09-21-2014/ir-pass-filters-and-a-2-camera-ndvi-setup.md
 nid: 11167
@@ -12,7 +11,7 @@ uid: 427566
 
 # IR Pass Filters and a 2 camera NDVI Setup
 
-by [dlaflash](../profile/dlaflash) September 21, 2014 18:26
+by [dlaflash](../profile/dlaflash) | September 21, 2014 18:26
 
 September 21, 2014 18:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [dual-camera](../tag/dual-camera)
 

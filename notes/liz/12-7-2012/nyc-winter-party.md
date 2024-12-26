@@ -1,6 +1,5 @@
 ---
-title: 'NYC Winter Party'
-tagnames: event
+title: "NYC Winter Party"\ntagnames: 'event'
 author: liz
 path: /notes/liz/12-7-2012/nyc-winter-party.md
 nid: 5151
@@ -12,7 +11,7 @@ uid: 7
 
 # NYC Winter Party
 
-by [liz](../profile/liz) December 07, 2012 18:54
+by [liz](../profile/liz) | December 07, 2012 18:54
 
 December 07, 2012 18:54 | Tags: [event](../tag/event)
 

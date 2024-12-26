@@ -1,6 +1,5 @@
 ---
-title: 'RIFFLE: Conductivity + Adhesive updates'
-tagnames: water, quality
+title: "RIFFLE: Conductivity + Adhesive updates"\ntagnames: 'water, quality'
 author: donblair
 path: /notes/donblair/04-14-2014/riffle-conductivity-adhesive-updates.md
 nid: 10308
@@ -12,7 +11,7 @@ uid: 43651
 
 # RIFFLE: Conductivity + Adhesive updates
 
-by [donblair](../profile/donblair) April 14, 2014 17:52
+by [donblair](../profile/donblair) | April 14, 2014 17:52
 
 April 14, 2014 17:52 | Tags: [water](../tag/water), [quality](../tag/quality)
 

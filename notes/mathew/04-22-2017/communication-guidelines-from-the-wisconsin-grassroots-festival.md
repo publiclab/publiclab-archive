@@ -1,6 +1,5 @@
 ---
-title: 'Communication Guidelines from the Wisconsin Grassroots Festival'
-tagnames: community, guidelines, facilitation, conduct, code-of-conduct, communication
+title: "Communication Guidelines from the Wisconsin Grassroots Festival"\ntagnames: 'community, guidelines, facilitation, conduct, code-of-conduct, communication'
 author: mathew
 path: /notes/mathew/04-22-2017/communication-guidelines-from-the-wisconsin-grassroots-festival.md
 nid: 14129
@@ -10,7 +9,7 @@ uid: 4
 
 # Communication Guidelines from the Wisconsin Grassroots Festival
 
-by [mathew](../profile/mathew) April 22, 2017 00:41
+by [mathew](../profile/mathew) | April 22, 2017 00:41
 
 April 22, 2017 00:41 | Tags: [community](../tag/community), [guidelines](../tag/guidelines), [facilitation](../tag/facilitation), [conduct](../tag/conduct), [code-of-conduct](../tag/code-of-conduct), [communication](../tag/communication)
 

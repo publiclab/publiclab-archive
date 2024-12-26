@@ -1,6 +1,5 @@
 ---
-title: 'oil-testing-workshop-build-a-spectrometer'
-tagnames: workshop, oil-testing-kit, parent:oil-testing-workshops
+title: "oil-testing-workshop-build-a-spectrometer"\ntagnames: 'workshop, oil-testing-kit, parent:oil-testing-workshops'
 author: liz
 path: /wiki/oil-testing-workshop-build-a-spectrometer.md
 nid: 12669

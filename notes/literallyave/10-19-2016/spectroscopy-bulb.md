@@ -1,6 +1,5 @@
 ---
-title: 'Spectroscopy Bulb'
-tagnames: hidden:response, response:13586, first-time-poster
+title: "Spectroscopy Bulb"\ntagnames: 'hidden:response, response:13586, first-time-poster'
 author: literallyave
 path: /notes/literallyave/10-19-2016/spectroscopy-bulb.md
 nid: 13587
@@ -12,7 +11,7 @@ uid: 494872
 
 # Spectroscopy Bulb
 
-by [literallyave](../profile/literallyave) October 19, 2016 15:04
+by [literallyave](../profile/literallyave) | October 19, 2016 15:04
 
 October 19, 2016 15:04 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586), [first-time-poster](../tag/first-time-poster)
 

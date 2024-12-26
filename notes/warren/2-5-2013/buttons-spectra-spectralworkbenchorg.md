@@ -1,6 +1,5 @@
 ---
-title: 'Like buttons for spectra on SpectralWorkbench.org'
-tagnames: spectrometer, spectralworkbench
+title: "Like buttons for spectra on SpectralWorkbench.org"\ntagnames: 'spectrometer, spectralworkbench'
 author: warren
 path: /notes/warren/2-5-2013/buttons-spectra-spectralworkbenchorg.md
 nid: 5895
@@ -12,7 +11,7 @@ uid: 1
 
 # Like buttons for spectra on SpectralWorkbench.org
 
-by [warren](../profile/warren) February 06, 2013 00:23
+by [warren](../profile/warren) | February 06, 2013 00:23
 
 February 06, 2013 00:23 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 

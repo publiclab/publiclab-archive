@@ -1,6 +1,5 @@
 ---
-title: '555 Trigger for Synchronized Dual Cameras'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, triggering
+title: "555 Trigger for Synchronized Dual Cameras"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, triggering'
 author: warren
 path: /notes/warren/2-27-2012/555-trigger-syncrhonized-dual-cameras.md
 nid: 861
@@ -12,7 +11,7 @@ uid: 1
 
 # 555 Trigger for Synchronized Dual Cameras
 
-by [warren](../profile/warren) February 27, 2012 18:08
+by [warren](../profile/warren) | February 27, 2012 18:08
 
 February 27, 2012 18:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering)
 

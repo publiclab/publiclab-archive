@@ -1,6 +1,5 @@
 ---
-title: 'How do you get the red LED on the pi camera to turn off?'
-tagnames: spectrometer, spectrometry, fluorescence, raspberry-pi, lego, question:general, raspberry-pi-spectrometer, lego-spectrometer, response:15360
+title: "How do you get the red LED on the pi camera to turn off?"\ntagnames: 'spectrometer, spectrometry, fluorescence, raspberry-pi, lego, question:general, raspberry-pi-spectrometer, lego-spectrometer, response:15360'
 author: zixaq
 path: /notes/zixaq/09-03-2018/how-do-you-get-the-red-led-on-the-pi-camera-to-turn-off.md
 nid: 17046
@@ -10,7 +9,7 @@ uid: 549272
 
 # How do you get the red LED on the pi camera to turn off?
 
-by [zixaq](../profile/zixaq) September 03, 2018 18:35
+by [zixaq](../profile/zixaq) | September 03, 2018 18:35
 
 September 03, 2018 18:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [raspberry-pi](../tag/raspberry-pi), [lego](../tag/lego), [question:general](../tag/question:general), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [response:15360](../tag/response:15360)
 

@@ -1,6 +1,5 @@
 ---
-title: 'never say it can't be done'
-tagnames: spectrometer, spectroscopy, first-time-poster
+title: "never say it can't be done"\ntagnames: 'spectrometer, spectroscopy, first-time-poster'
 author: sonofaquark
 path: /notes/sonofaquark/3-21-2013/never-say-it-cant-be-done.md
 nid: 6456
@@ -10,7 +9,7 @@ uid: 54330
 
 # never say it can't be done
 
-by [sonofaquark](../profile/sonofaquark) March 21, 2013 12:17
+by [sonofaquark](../profile/sonofaquark) | March 21, 2013 12:17
 
 March 21, 2013 12:17 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [first-time-poster](../tag/first-time-poster)
 

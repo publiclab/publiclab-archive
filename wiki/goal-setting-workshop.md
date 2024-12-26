@@ -1,6 +1,5 @@
 ---
-title: 'Goal Setting Workshop'
-tagnames: workshop, methods, getting-started, collaborative-tools, goal
+title: "Goal Setting Workshop"\ntagnames: 'workshop, methods, getting-started, collaborative-tools, goal'
 author: stevie
 path: /wiki/goal-setting-workshop.md
 nid: 14957

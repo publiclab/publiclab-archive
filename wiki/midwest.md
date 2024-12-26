@@ -1,6 +1,5 @@
 ---
-title: 'Midwest'
-tagnames: tabbed:notes, tabbed:wikis, list:publiclab-midwest, events:midwest, region, mid-west
+title: "Midwest"\ntagnames: 'tabbed:notes, tabbed:wikis, list:publiclab-midwest, events:midwest, region, mid-west'
 author: stevie
 path: /wiki/midwest.md
 nid: 10394

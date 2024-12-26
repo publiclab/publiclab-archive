@@ -1,6 +1,5 @@
 ---
-title: 'Recap on a Thermal Flashlight Workshop from 12/18/2011'
-tagnames: somerville-massachusetts, thermal-photography, boston, meetup, thermal-flashlight
+title: "Recap on a Thermal Flashlight Workshop from 12/18/2011"\ntagnames: 'somerville-massachusetts, thermal-photography, boston, meetup, thermal-flashlight'
 author: rjstatic
 path: /1-20-2012/recap-thermal-flashlight-workshop-12182011.md
 nid: 717
@@ -12,7 +11,7 @@ uid: 174
 
 # Recap on a Thermal Flashlight Workshop from 12/18/2011
 
-by [rjstatic](../profile/rjstatic) January 21, 2012 03:47
+by [rjstatic](../profile/rjstatic) | January 21, 2012 03:47
 
 January 21, 2012 03:47 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [thermal-photography](../tag/thermal-photography), [boston](../tag/boston), [meetup](../tag/meetup), [thermal-flashlight](../tag/thermal-flashlight)
 

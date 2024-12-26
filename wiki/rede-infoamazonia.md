@@ -1,6 +1,5 @@
 ---
-title: 'rede-infoamazonia'
-tagnames: water-quality, list:plots-waterquality, brasil, parent:open-water, rede-infoamazonia
+title: "rede-infoamazonia"\ntagnames: 'water-quality, list:plots-waterquality, brasil, parent:open-water, rede-infoamazonia'
 author: vjpixel
 path: /wiki/rede-infoamazonia.md
 nid: 13901

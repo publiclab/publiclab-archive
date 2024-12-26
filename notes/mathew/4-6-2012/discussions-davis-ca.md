@@ -1,6 +1,5 @@
 ---
-title: 'Discussions in Davis, CA'
-tagnames: 
+title: "Discussions in Davis, CA"\ntagnames: ''
 author: mathew
 path: /notes/mathew/4-6-2012/discussions-davis-ca.md
 nid: 1630
@@ -10,7 +9,7 @@ uid: 4
 
 # Discussions in Davis, CA
 
-by [mathew](../profile/mathew) April 06, 2012 23:13
+by [mathew](../profile/mathew) | April 06, 2012 23:13
 
 April 06, 2012 23:13 | Tags: 
 

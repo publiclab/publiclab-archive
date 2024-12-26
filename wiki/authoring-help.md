@@ -1,6 +1,5 @@
 ---
-title: 'Authoring Help'
-tagnames: help, authoring, markdown, authoring-help, parent:website
+title: "Authoring Help"\ntagnames: 'help, authoring, markdown, authoring-help, parent:website'
 author: warren
 path: /wiki/authoring-help.md
 nid: 6897

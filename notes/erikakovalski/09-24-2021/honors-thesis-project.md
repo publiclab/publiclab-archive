@@ -1,6 +1,5 @@
 ---
-title: 'Honors Thesis Project'
-tagnames: first-time-poster, zoom:6, lat:42.386759, lon:-72.530051
+title: "Honors Thesis Project"\ntagnames: 'first-time-poster, zoom:6, lat:42.386759, lon:-72.530051'
 author: erikakovalski
 path: /notes/erikakovalski/09-24-2021/honors-thesis-project.md
 nid: 27797
@@ -12,7 +11,7 @@ uid: 773225
 
 # Honors Thesis Project
 
-by [erikakovalski](../profile/erikakovalski) September 24, 2021 19:42
+by [erikakovalski](../profile/erikakovalski) | September 24, 2021 19:42
 
 September 24, 2021 19:42 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:42.386759](../tag/lat:42.386759), [lon:-72.530051](../tag/lon:-72.530051)
 

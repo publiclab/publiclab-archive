@@ -1,6 +1,5 @@
 ---
-title: 'The story of a DIY poem'
-tagnames: politics, barnstar:empiricism, poem
+title: "The story of a DIY poem"\ntagnames: 'politics, barnstar:empiricism, poem'
 author: cindy_excites
 path: /notes/Cindy_ExCites/07-09-2014/the-story-of-a-diy-poem.md
 nid: 10667
@@ -12,7 +11,7 @@ uid: 1083
 
 # The story of a DIY poem
 
-by [cindy_excites](../profile/cindy_excites) July 09, 2014 11:14
+by [cindy_excites](../profile/cindy_excites) | July 09, 2014 11:14
 
 July 09, 2014 11:14 | Tags: [politics](../tag/politics), [barnstar:empiricism](../tag/barnstar:empiricism), [poem](../tag/poem)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Vinyl chloride spill in eastern ohio'
-tagnames: question:general, general, place:ohio
+title: "Vinyl chloride spill in eastern ohio"\ntagnames: 'question:general, general, place:ohio'
 author: Ag8n
 path: /notes/Ag8n/02-07-2023/vinyl-chloride-spill-in-eastern-ohio.md
 nid: 38685
@@ -10,7 +9,7 @@ uid: 520994
 
 # Vinyl chloride spill in eastern ohio
 
-by [Ag8n](../profile/Ag8n) February 07, 2023 01:05
+by [Ag8n](../profile/Ag8n) | February 07, 2023 01:05
 
 February 07, 2023 01:05 | Tags: [question:general](../tag/question:general), [general](../tag/general), [place:ohio](../tag/place:ohio)
 

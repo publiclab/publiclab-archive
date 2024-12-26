@@ -1,6 +1,5 @@
 ---
-title: 'Host an Issue Brief workshop'
-tagnames: workshop, event, activity, getting-started, issue-brief, activity:community-organizing, activity:issue-brief
+title: "Host an Issue Brief workshop"\ntagnames: 'workshop, event, activity, getting-started, issue-brief, activity:community-organizing, activity:issue-brief'
 author: stevie
 path: /wiki/host-an-issue-brief-workshop.md
 nid: 15140

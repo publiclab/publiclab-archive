@@ -1,6 +1,5 @@
 ---
-title: 'Sandbox 4'
-tagnames: stories-test
+title: "Sandbox 4"\ntagnames: 'stories-test'
 author: warren
 path: /wiki/sandbox-4.md
 nid: 18257

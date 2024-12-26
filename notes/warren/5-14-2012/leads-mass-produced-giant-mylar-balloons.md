@@ -1,6 +1,5 @@
 ---
-title: 'Leads on mass produced giant mylar balloons'
-tagnames: balloon-mapping, mylar, diy-balloon, balloon, supply-chain
+title: "Leads on mass produced giant mylar balloons"\ntagnames: 'balloon-mapping, mylar, diy-balloon, balloon, supply-chain'
 author: warren
 path: /notes/warren/5-14-2012/leads-mass-produced-giant-mylar-balloons.md
 nid: 1968
@@ -12,7 +11,7 @@ uid: 1
 
 # Leads on mass produced giant mylar balloons
 
-by [warren](../profile/warren) May 14, 2012 21:00
+by [warren](../profile/warren) | May 14, 2012 21:00
 
 May 14, 2012 21:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [diy-balloon](../tag/diy-balloon), [balloon](../tag/balloon), [supply-chain](../tag/supply-chain)
 

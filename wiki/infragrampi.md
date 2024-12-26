@@ -1,6 +1,5 @@
 ---
-title: 'infragrampi'
-tagnames: redirect:15134
+title: "infragrampi"\ntagnames: 'redirect:15134'
 author: joyofsoy
 path: /wiki/infragrampi.md
 nid: 20604

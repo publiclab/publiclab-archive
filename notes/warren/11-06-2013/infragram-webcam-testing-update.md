@@ -1,6 +1,5 @@
 ---
-title: 'Infragram Webcam testing update'
-tagnames: near-infrared-camera, kickstarter, infragram
+title: "Infragram Webcam testing update"\ntagnames: 'near-infrared-camera, kickstarter, infragram'
 author: warren
 path: /notes/warren/11-06-2013/infragram-webcam-testing-update.md
 nid: 9738
@@ -12,7 +11,7 @@ uid: 1
 
 # Infragram Webcam testing update
 
-by [warren](../profile/warren) November 06, 2013 17:29
+by [warren](../profile/warren) | November 06, 2013 17:29
 
 November 06, 2013 17:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram)
 

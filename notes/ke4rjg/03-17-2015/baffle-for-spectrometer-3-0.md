@@ -1,6 +1,5 @@
 ---
-title: 'Baffle for Spectrometer 3.0'
-tagnames: spectrometer, oil-testing-kit, improvement, baffle, spectrometer-3, spec-3
+title: "Baffle for Spectrometer 3.0"\ntagnames: 'spectrometer, oil-testing-kit, improvement, baffle, spectrometer-3, spec-3'
 author: ke4rjg
 path: /notes/ke4rjg/03-17-2015/baffle-for-spectrometer-3-0.md
 nid: 11685
@@ -12,7 +11,7 @@ uid: 426908
 
 # Baffle for Spectrometer 3.0
 
-by [ke4rjg](../profile/ke4rjg) March 17, 2015 16:24
+by [ke4rjg](../profile/ke4rjg) | March 17, 2015 16:24
 
 March 17, 2015 16:24 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [improvement](../tag/improvement), [baffle](../tag/baffle), [spectrometer-3](../tag/spectrometer-3), [spec-3](../tag/spec-3)
 

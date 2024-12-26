@@ -1,6 +1,5 @@
 ---
-title: 'Assembling a Mini Pearl Pro Logger'
-tagnames: arduino, sensors, datalogger, data-logging, activity:arduino, mini-pearl-logger, activity:mini-pearl-logger
+title: "Assembling a Mini Pearl Pro Logger"\ntagnames: 'arduino, sensors, datalogger, data-logging, activity:arduino, mini-pearl-logger, activity:mini-pearl-logger'
 author: cfastie
 path: /notes/cfastie/03-04-2018/assembling-a-mini-pearl-pro-logger.md
 nid: 15857
@@ -12,7 +11,7 @@ uid: 554
 
 # Assembling a Mini Pearl Pro Logger
 
-by [cfastie](../profile/cfastie) March 04, 2018 03:10
+by [cfastie](../profile/cfastie) | March 04, 2018 03:10
 
 March 04, 2018 03:10 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [activity:arduino](../tag/activity:arduino), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
 

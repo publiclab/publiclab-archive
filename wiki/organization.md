@@ -1,6 +1,5 @@
 ---
-title: 'Organization'
-tagnames: 
+title: "Organization"\ntagnames: ''
 author: warren
 path: /wiki/organization.md
 nid: 162

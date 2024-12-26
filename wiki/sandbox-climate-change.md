@@ -1,6 +1,5 @@
 ---
-title: 'sandbox-climate-change'
-tagnames: 
+title: "sandbox-climate-change"\ntagnames: ''
 author: bhamster
 path: /wiki/sandbox-climate-change.md
 nid: 24213

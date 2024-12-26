@@ -1,6 +1,5 @@
 ---
-title: 'Pesticide Detection Methods Development'
-tagnames: spectrometer, spectrometry, pesticides, quantitative, extraction, reagents, solvent
+title: "Pesticide Detection Methods Development"\ntagnames: 'spectrometer, spectrometry, pesticides, quantitative, extraction, reagents, solvent'
 author: silverhammer
 path: /wiki/pesticide-detection-methods-development.md
 nid: 10015

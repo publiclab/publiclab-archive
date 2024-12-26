@@ -1,6 +1,5 @@
 ---
-title: 'Powered string winder for balloons'
-tagnames: balloon-mapping, winders, flying
+title: "Powered string winder for balloons"\ntagnames: 'balloon-mapping, winders, flying'
 author: natevw
 path: /notes/natevw/5-3-2012/powered-string-winder-balloons.md
 nid: 1900
@@ -12,7 +11,7 @@ uid: 804
 
 # Powered string winder for balloons
 
-by [natevw](../profile/natevw) May 03, 2012 17:42
+by [natevw](../profile/natevw) | May 03, 2012 17:42
 
 May 03, 2012 17:42 | Tags: [balloon-mapping](../tag/balloon-mapping), [winders](../tag/winders), [flying](../tag/flying)
 

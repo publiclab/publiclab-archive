@@ -1,6 +1,5 @@
 ---
-title: 'Countertop Spectrometer'
-tagnames: spectrometer, countertop-spectrometer
+title: "Countertop Spectrometer"\ntagnames: 'spectrometer, countertop-spectrometer'
 author: warren
 path: /wiki/countertop-spectrometer.md
 nid: 6220

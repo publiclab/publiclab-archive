@@ -1,6 +1,5 @@
 ---
-title: 'Has anyone used ground glass joints in water sensor enclosures?'
-tagnames: question:sensor-enclosures
+title: "Has anyone used ground glass joints in water sensor enclosures?"\ntagnames: 'question:sensor-enclosures'
 author: gretchengehrke
 path: /notes/gretchengehrke/07-19-2017/has-anyone-used-ground-glass-joints-in-water-sensor-enclosures.md
 nid: 14668
@@ -10,7 +9,7 @@ uid: 430549
 
 # Has anyone used ground glass joints in water sensor enclosures?
 
-by [gretchengehrke](../profile/gretchengehrke) July 19, 2017 19:30
+by [gretchengehrke](../profile/gretchengehrke) | July 19, 2017 19:30
 
 July 19, 2017 19:30 | Tags: [question:sensor-enclosures](../tag/question:sensor-enclosures)
 

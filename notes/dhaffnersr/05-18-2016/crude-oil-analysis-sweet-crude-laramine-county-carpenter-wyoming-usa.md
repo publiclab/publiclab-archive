@@ -1,6 +1,5 @@
 ---
-title: 'Crude oil analysis (sweet crude) Laramine county carpenter Wyoming USA '
-tagnames: 
+title: "Crude oil analysis (sweet crude) Laramine county carpenter Wyoming USA "\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/05-18-2016/crude-oil-analysis-sweet-crude-laramine-county-carpenter-wyoming-usa.md
 nid: 13125
@@ -12,7 +11,7 @@ uid: 461120
 
 # Crude oil analysis (sweet crude) Laramine county carpenter Wyoming USA 
 
-by [dhaffnersr](../profile/dhaffnersr) May 18, 2016 15:00
+by [dhaffnersr](../profile/dhaffnersr) | May 18, 2016 15:00
 
 May 18, 2016 15:00 | Tags: 
 

@@ -1,6 +1,5 @@
 ---
-title: 'Fluorescence spectroscopy with the foldup + gelcap'
-tagnames: spectrometer, uv, fluorescence, fold-up, foldable
+title: "Fluorescence spectroscopy with the foldup + gelcap"\ntagnames: 'spectrometer, uv, fluorescence, fold-up, foldable'
 author: mathew
 path: /notes/mathew/09-12-2014/fluorescence-spectroscopy-with-the-foldup-gelcap.md
 nid: 11132
@@ -12,7 +11,7 @@ uid: 4
 
 # Fluorescence spectroscopy with the foldup + gelcap
 
-by [mathew](../profile/mathew) September 12, 2014 04:17
+by [mathew](../profile/mathew) | September 12, 2014 04:17
 
 September 12, 2014 04:17 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [fold-up](../tag/fold-up), [foldable](../tag/foldable)
 

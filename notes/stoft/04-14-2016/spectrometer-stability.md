@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer Stability'
-tagnames: spectrometer, intensity-calibration, intensity, stability, response:12962
+title: "Spectrometer Stability"\ntagnames: 'spectrometer, intensity-calibration, intensity, stability, response:12962'
 author: stoft
 path: /notes/stoft/04-14-2016/spectrometer-stability.md
 nid: 12973
@@ -12,7 +11,7 @@ uid: 54025
 
 # Spectrometer Stability
 
-by [stoft](../profile/stoft) April 14, 2016 07:28
+by [stoft](../profile/stoft) | April 14, 2016 07:28
 
 April 14, 2016 07:28 | Tags: [spectrometer](../tag/spectrometer), [intensity-calibration](../tag/intensity-calibration), [intensity](../tag/intensity), [stability](../tag/stability), [response:12962](../tag/response:12962)
 

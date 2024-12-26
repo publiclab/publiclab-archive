@@ -1,6 +1,5 @@
 ---
-title: 'Testing Google Maps Embed'
-tagnames: mapping, water-quality-mapping, water-quality, map-annotations
+title: "Testing Google Maps Embed"\ntagnames: 'mapping, water-quality-mapping, water-quality, map-annotations'
 author: kanarinka
 path: /notes/kanarinka/09-06-2014/testing-google-maps-embed.md
 nid: 11113
@@ -12,7 +11,7 @@ uid: 994
 
 # Testing Google Maps Embed
 
-by [kanarinka](../profile/kanarinka) September 06, 2014 11:27
+by [kanarinka](../profile/kanarinka) | September 06, 2014 11:27
 
 September 06, 2014 11:27 | Tags: [mapping](../tag/mapping), [water-quality-mapping](../tag/water-quality-mapping), [water-quality](../tag/water-quality), [map-annotations](../tag/map-annotations)
 

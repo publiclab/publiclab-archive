@@ -1,6 +1,5 @@
 ---
-title: 'Comparison Values for 0.09mm and 0.11mm Slit Width'
-tagnames: 
+title: "Comparison Values for 0.09mm and 0.11mm Slit Width"\ntagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-20-2016/comparison-values-for-0-09mm-and-0-11mm-slit-width.md
 nid: 13376
@@ -12,7 +11,7 @@ uid: 461120
 
 # Comparison Values for 0.09mm and 0.11mm Slit Width
 
-by [dhaffnersr](../profile/dhaffnersr) August 20, 2016 23:31
+by [dhaffnersr](../profile/dhaffnersr) | August 20, 2016 23:31
 
 August 20, 2016 23:31 | Tags: 
 

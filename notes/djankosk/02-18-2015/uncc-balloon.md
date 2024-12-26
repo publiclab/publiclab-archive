@@ -1,6 +1,5 @@
 ---
-title: 'uncc balloon '
-tagnames: 
+title: "uncc balloon "\ntagnames: ''
 author: djankosk
 path: /notes/djankosk/02-18-2015/uncc-balloon.md
 nid: 11601
@@ -10,7 +9,7 @@ uid: 435491
 
 # uncc balloon 
 
-by [djankosk](../profile/djankosk) February 18, 2015 18:46
+by [djankosk](../profile/djankosk) | February 18, 2015 18:46
 
 February 18, 2015 18:46 | Tags: 
 

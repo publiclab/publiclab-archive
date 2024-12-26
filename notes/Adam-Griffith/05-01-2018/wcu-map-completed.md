@@ -1,6 +1,5 @@
 ---
-title: 'WCU map completed'
-tagnames: western-carolina-university
+title: "WCU map completed"\ntagnames: 'western-carolina-university'
 author: adam-griffith
 path: /notes/Adam-Griffith/05-01-2018/wcu-map-completed.md
 nid: 306
@@ -12,7 +11,7 @@ uid: 3
 
 # WCU map completed
 
-by [adam-griffith](../profile/adam-griffith) May 30, 2011 18:09
+by [adam-griffith](../profile/adam-griffith) | May 30, 2011 18:09
 
 May 30, 2011 18:09 | Tags: [western-carolina-university](../tag/western-carolina-university)
 

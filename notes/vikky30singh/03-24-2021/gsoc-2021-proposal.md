@@ -1,6 +1,5 @@
 ---
-title: 'GSOC 2021 Proposal.'
-tagnames: first-time-poster, gsoc-2021-proposals
+title: "GSOC 2021 Proposal."\ntagnames: 'first-time-poster, gsoc-2021-proposals'
 author: vikky30singh
 path: /notes/vikky30singh/03-24-2021/gsoc-2021-proposal.md
 nid: 26020
@@ -10,7 +9,7 @@ uid: 746074
 
 # GSOC 2021 Proposal.
 
-by [vikky30singh](../profile/vikky30singh) March 24, 2021 20:30
+by [vikky30singh](../profile/vikky30singh) | March 24, 2021 20:30
 
 March 24, 2021 20:30 | Tags: [first-time-poster](../tag/first-time-poster), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 

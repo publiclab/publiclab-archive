@@ -1,6 +1,5 @@
 ---
-title: 'Can I get spatial resolution by making multiple parallel slits?'
-tagnames: question:spectrometer
+title: "Can I get spatial resolution by making multiple parallel slits?"\ntagnames: 'question:spectrometer'
 author: dgidon
 path: /notes/dgidon/02-22-2018/can-i-get-spatial-resolution-by-making-multiple-parallel-slits.md
 nid: 15799
@@ -10,7 +9,7 @@ uid: 525802
 
 # Can I get spatial resolution by making multiple parallel slits?
 
-by [dgidon](../profile/dgidon) February 22, 2018 04:39
+by [dgidon](../profile/dgidon) | February 22, 2018 04:39
 
 February 22, 2018 04:39 | Tags: [question:spectrometer](../tag/question:spectrometer)
 

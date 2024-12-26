@@ -1,6 +1,5 @@
 ---
-title: 'Berkeley Kite Festival '
-tagnames: kite-mapping, kite-festival
+title: "Berkeley Kite Festival "\ntagnames: 'kite-mapping, kite-festival'
 author: gonzoearth
 path: /notes/gonzoearth/9-7-2012/berkeley-kite-festival.md
 nid: 3682
@@ -12,7 +11,7 @@ uid: 12
 
 # Berkeley Kite Festival 
 
-by [gonzoearth](../profile/gonzoearth) September 07, 2012 06:12
+by [gonzoearth](../profile/gonzoearth) | September 07, 2012 06:12
 
 September 07, 2012 06:12 | Tags: [kite-mapping](../tag/kite-mapping), [kite-festival](../tag/kite-festival)
 

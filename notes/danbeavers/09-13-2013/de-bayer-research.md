@@ -1,6 +1,5 @@
 ---
-title: 'De-Bayer research'
-tagnames: bayer-filter, camera, camera-modification, debayering
+title: "De-Bayer research"\ntagnames: 'bayer-filter, camera, camera-modification, debayering'
 author: danbeavers
 path: /notes/danbeavers/09-13-2013/de-bayer-research.md
 nid: 9324
@@ -12,7 +11,7 @@ uid: 51
 
 # De-Bayer research
 
-by [danbeavers](../profile/danbeavers) September 13, 2013 03:34
+by [danbeavers](../profile/danbeavers) | September 13, 2013 03:34
 
 September 13, 2013 03:34 | Tags: [bayer-filter](../tag/bayer-filter), [camera](../tag/camera), [camera-modification](../tag/camera-modification), [debayering](../tag/debayering)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Pevnost Olomouc'
-tagnames: mapknitter, lat:49.5770086859, lon:17.2131621838
+title: "Pevnost Olomouc"\ntagnames: 'mapknitter, lat:49.5770086859, lon:17.2131621838'
 author: bowgarden
 path: /notes/bowgarden/11-06-2016/pevnost-olomouc.md
 nid: 13684
@@ -12,7 +11,7 @@ uid: 496059
 
 # Pevnost Olomouc
 
-by [bowgarden](../profile/bowgarden) November 06, 2016 18:32
+by [bowgarden](../profile/bowgarden) | November 06, 2016 18:32
 
 November 06, 2016 18:32 | Tags: [mapknitter](../tag/mapknitter), [lat:49.5770086859](../tag/lat:49.5770086859), [lon:17.2131621838](../tag/lon:17.2131621838)
 

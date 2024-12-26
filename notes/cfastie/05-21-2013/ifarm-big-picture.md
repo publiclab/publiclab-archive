@@ -1,6 +1,5 @@
 ---
-title: 'iFarm Big Picture'
-tagnames: balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, new-hampshire, event, infragram, cfastie, ifarm, gigapan, ifarm2013, northeast
+title: "iFarm Big Picture"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, new-hampshire, event, infragram, cfastie, ifarm, gigapan, ifarm2013, northeast'
 author: cfastie
 path: /notes/cfastie/05-21-2013/ifarm-big-picture.md
 nid: 7785
@@ -12,7 +11,7 @@ uid: 554
 
 # iFarm Big Picture
 
-by [cfastie](../profile/cfastie) May 21, 2013 16:16
+by [cfastie](../profile/cfastie) | May 21, 2013 16:16
 
 May 21, 2013 16:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [new-hampshire](../tag/new-hampshire), [event](../tag/event), [infragram](../tag/infragram), [cfastie](../tag/cfastie), [ifarm](../tag/ifarm), [gigapan](../tag/gigapan), [ifarm2013](../tag/ifarm2013), [northeast](../tag/northeast)
 

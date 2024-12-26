@@ -1,6 +1,5 @@
 ---
-title: 'South of France Forest monitoring'
-tagnames: near-infrared-camera, infragram, drone, tool
+title: "South of France Forest monitoring"\ntagnames: 'near-infrared-camera, infragram, drone, tool'
 author: DroneGo
 path: /notes/DroneGo/07-20-2014/south-of-france-forest-monitoring.md
 nid: 10713
@@ -12,7 +11,7 @@ uid: 425852
 
 # South of France Forest monitoring
 
-by [DroneGo](../profile/DroneGo) July 20, 2014 08:15
+by [DroneGo](../profile/DroneGo) | July 20, 2014 08:15
 
 July 20, 2014 08:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [drone](../tag/drone), [tool](../tag/tool)
 

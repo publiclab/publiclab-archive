@@ -1,6 +1,5 @@
 ---
-title: 'Hydrogen sulfide badges by Morphix Technologies'
-tagnames: hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s
+title: "Hydrogen sulfide badges by Morphix Technologies"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s'
 author: gretchengehrke
 path: /notes/gretchengehrke/09-13-2017/hydrogen-sulfide-badges-by-morphix-technologies.md
 nid: 14892
@@ -10,7 +9,7 @@ uid: 430549
 
 # Hydrogen sulfide badges by Morphix Technologies
 
-by [gretchengehrke](../profile/gretchengehrke) September 13, 2017 23:02
+by [gretchengehrke](../profile/gretchengehrke) | September 13, 2017 23:02
 
 September 13, 2017 23:02 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s)
 

@@ -1,6 +1,5 @@
 ---
-title: 'The LUMCON Lawn'
-tagnames: image-stitching, louisiana, photoshop, barnraising, barnraising2012, lumcon, aligning, gigapan
+title: "The LUMCON Lawn"\ntagnames: 'image-stitching, louisiana, photoshop, barnraising, barnraising2012, lumcon, aligning, gigapan'
 author: cfastie
 path: /notes/cfastie/11-14-2012/lumcon-lawn.md
 nid: 4906
@@ -12,7 +11,7 @@ uid: 554
 
 # The LUMCON Lawn
 
-by [cfastie](../profile/cfastie) November 14, 2012 19:20
+by [cfastie](../profile/cfastie) | November 14, 2012 19:20
 
 November 14, 2012 19:20 | Tags: [image-stitching](../tag/image-stitching), [louisiana](../tag/louisiana), [photoshop](../tag/photoshop), [barnraising](../tag/barnraising), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [aligning](../tag/aligning), [gigapan](../tag/gigapan)
 

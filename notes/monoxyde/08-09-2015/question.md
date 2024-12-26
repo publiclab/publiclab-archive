@@ -1,6 +1,5 @@
 ---
-title: 'Question: '
-tagnames: question:near-infrared-camera
+title: "Question: "\ntagnames: 'question:near-infrared-camera'
 author: Monoxyde
 path: /notes/monoxyde/08-09-2015/question.md
 nid: 12127
@@ -12,7 +11,7 @@ uid: 432132
 
 # Question: 
 
-by [Monoxyde](../profile/Monoxyde) August 09, 2015 08:20
+by [Monoxyde](../profile/Monoxyde) | August 09, 2015 08:20
 
 August 09, 2015 08:20 | Tags: [question:near-infrared-camera](../tag/question:near-infrared-camera)
 

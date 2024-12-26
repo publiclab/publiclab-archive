@@ -1,6 +1,5 @@
 ---
-title: '到中国的东江源头村使用Balloon Mapping Kit'
-tagnames: blog, barnstar:basic
+title: "到中国的东江源头村使用Balloon Mapping Kit"\ntagnames: 'blog, barnstar:basic'
 author: karypun
 path: /notes/karypun/08-05-2016/balloon-mapping-kit.md
 nid: 13333
@@ -12,7 +11,7 @@ uid: 484876
 
 # 到中国的东江源头村使用Balloon Mapping Kit
 
-by [karypun](../profile/karypun) August 05, 2016 10:45
+by [karypun](../profile/karypun) | August 05, 2016 10:45
 
 August 05, 2016 10:45 | Tags: [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic)
 

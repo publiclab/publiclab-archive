@@ -1,6 +1,5 @@
 ---
-title: 'Portuguese language mailing list'
-tagnames: mailing-lists, portuguese
+title: "Portuguese language mailing list"\ntagnames: 'mailing-lists, portuguese'
 author: vjpixel
 path: /notes/vjpixel/08-11-2014/portuguese-language-mailing-list.md
 nid: 11038
@@ -10,7 +9,7 @@ uid: 420617
 
 # Portuguese language mailing list
 
-by [vjpixel](../profile/vjpixel) August 11, 2014 22:12
+by [vjpixel](../profile/vjpixel) | August 11, 2014 22:12
 
 August 11, 2014 22:12 | Tags: [mailing-lists](../tag/mailing-lists), [portuguese](../tag/portuguese)
 

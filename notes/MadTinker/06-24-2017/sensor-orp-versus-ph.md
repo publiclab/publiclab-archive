@@ -1,6 +1,5 @@
 ---
-title: 'Sensor: ORP versus PH'
-tagnames: arduino, water-quality, water, open-water, answered, china, data-logging, question:general, knowflow, response:14511, question:water-sensors, question:ph, question:orp
+title: "Sensor: ORP versus PH"\ntagnames: 'arduino, water-quality, water, open-water, answered, china, data-logging, question:general, knowflow, response:14511, question:water-sensors, question:ph, question:orp'
 author: MadTinker
 path: /notes/MadTinker/06-24-2017/sensor-orp-versus-ph.md
 nid: 14578
@@ -10,7 +9,7 @@ uid: 461206
 
 # Sensor: ORP versus PH
 
-by [MadTinker](../profile/MadTinker) June 24, 2017 16:11
+by [MadTinker](../profile/MadTinker) | June 24, 2017 16:11
 
 June 24, 2017 16:11 | Tags: [arduino](../tag/arduino), [water-quality](../tag/water-quality), [water](../tag/water), [open-water](../tag/open-water), [answered](../tag/answered), [china](../tag/china), [data-logging](../tag/data-logging), [question:general](../tag/question:general), [knowflow](../tag/knowflow), [response:14511](../tag/response:14511), [question:water-sensors](../tag/question:water-sensors), [question:ph](../tag/question:ph), [question:orp](../tag/question:orp)
 

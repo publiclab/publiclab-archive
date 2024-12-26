@@ -1,6 +1,5 @@
 ---
-title: 'First draft vector files for foldable mini-spectrometer'
-tagnames: spectrometer
+title: "First draft vector files for foldable mini-spectrometer"\ntagnames: 'spectrometer'
 author: warren
 path: /notes/warren/10-10-2012/first-draft-vector-files-foldable-mini-spectrometer.md
 nid: 4302
@@ -12,7 +11,7 @@ uid: 1
 
 # First draft vector files for foldable mini-spectrometer
 
-by [warren](../profile/warren) October 10, 2012 05:14
+by [warren](../profile/warren) | October 10, 2012 05:14
 
 October 10, 2012 05:14 | Tags: [spectrometer](../tag/spectrometer)
 

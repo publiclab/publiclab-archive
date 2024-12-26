@@ -1,6 +1,5 @@
 ---
-title: 'to know process of NDVI calculation through point and shoot infrared camera'
-tagnames: first-time-poster
+title: "to know process of NDVI calculation through point and shoot infrared camera"\ntagnames: 'first-time-poster'
 author: rajsan1108
 path: /notes/rajsan1108/09-18-2015/to-know-process-of-ndvi-calculation-through-point-and-shoot-infrared-camera.md
 nid: 12223
@@ -12,7 +11,7 @@ uid: 451698
 
 # to know process of NDVI calculation through point and shoot infrared camera
 
-by [rajsan1108](../profile/rajsan1108) September 18, 2015 07:59
+by [rajsan1108](../profile/rajsan1108) | September 18, 2015 07:59
 
 September 18, 2015 07:59 | Tags: [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'can i measure solid samples with the lego spectrometer?'
-tagnames: spectrometer, lego, question:general, general, first-time-poster
+title: "can i measure solid samples with the lego spectrometer?"\ntagnames: 'spectrometer, lego, question:general, general, first-time-poster'
 author: sound
 path: /notes/sound/03-20-2020/can-i-measure-solid-samples-with-the-lego-spectrometer.md
 nid: 23191
@@ -10,7 +9,7 @@ uid: 675938
 
 # can i measure solid samples with the lego spectrometer?
 
-by [sound](../profile/sound) March 20, 2020 13:24
+by [sound](../profile/sound) | March 20, 2020 13:24
 
 March 20, 2020 13:24 | Tags: [spectrometer](../tag/spectrometer), [lego](../tag/lego), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 

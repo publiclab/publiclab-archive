@@ -1,6 +1,5 @@
 ---
-title: 'Air Quality Indoors and in Tent at LEAFFEST 2014'
-tagnames: indoor-air-quality-mapping, vermont, farming, leaffest, pvos, air-quality, riffle, northeast, leaffest2014, riffle-examples
+title: "Air Quality Indoors and in Tent at LEAFFEST 2014"\ntagnames: 'indoor-air-quality-mapping, vermont, farming, leaffest, pvos, air-quality, riffle, northeast, leaffest2014, riffle-examples'
 author: cversek
 path: /notes/cversek/09-18-2014/air-quality-indoors-and-in-tent-at-leaffest-2014.md
 nid: 11151
@@ -12,7 +11,7 @@ uid: 48275
 
 # Air Quality Indoors and in Tent at LEAFFEST 2014
 
-by [cversek](../profile/cversek) September 18, 2014 05:33
+by [cversek](../profile/cversek) | September 18, 2014 05:33
 
 September 18, 2014 05:33 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [vermont](../tag/vermont), [farming](../tag/farming), [leaffest](../tag/leaffest), [pvos](../tag/pvos), [air-quality](../tag/air-quality), [riffle](../tag/riffle), [northeast](../tag/northeast), [leaffest2014](../tag/leaffest2014), [riffle-examples](../tag/riffle-examples)
 

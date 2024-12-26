@@ -1,6 +1,5 @@
 ---
-title: 'staten-island-photos'
-tagnames: 
+title: "staten-island-photos"\ntagnames: ''
 author: liz
 path: /wiki/staten-island-photos.md
 nid: 11134

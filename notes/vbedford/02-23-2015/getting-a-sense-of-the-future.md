@@ -1,6 +1,5 @@
 ---
-title: 'Getting a Sense of the Future '
-tagnames: sensors, data, journalism, sensor, sensor-journalism
+title: "Getting a Sense of the Future "\ntagnames: 'sensors, data, journalism, sensor, sensor-journalism'
 author: vbedford
 path: /notes/vbedford/02-23-2015/getting-a-sense-of-the-future.md
 nid: 11623
@@ -12,7 +11,7 @@ uid: 434423
 
 # Getting a Sense of the Future 
 
-by [vbedford](../profile/vbedford) February 23, 2015 17:50
+by [vbedford](../profile/vbedford) | February 23, 2015 17:50
 
 February 23, 2015 17:50 | Tags: [sensors](../tag/sensors), [data](../tag/data), [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism)
 

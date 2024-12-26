@@ -1,6 +1,5 @@
 ---
-title: 'Public Lab Nonprofit Staff'
-tagnames: staff, nonprofit, parent:about
+title: "Public Lab Nonprofit Staff"\ntagnames: 'staff, nonprofit, parent:about'
 author: Shannon
 path: /wiki/plots-staff.md
 nid: 616

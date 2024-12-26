@@ -1,6 +1,5 @@
 ---
-title: 'Getting Started'
-tagnames: community, welcome, style:minimal, locked, location:blurred, sidebar:none, parent:welcome, redirect:1624
+title: "Getting Started"\ntagnames: 'community, welcome, style:minimal, locked, location:blurred, sidebar:none, parent:welcome, redirect:1624'
 author: warren
 path: /wiki/getting-started.md
 nid: 539

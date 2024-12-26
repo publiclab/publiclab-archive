@@ -1,6 +1,5 @@
 ---
-title: 'sandbox community science'
-tagnames: 
+title: "sandbox community science"\ntagnames: ''
 author: liz
 path: /wiki/sandbox-community-science.md
 nid: 27693

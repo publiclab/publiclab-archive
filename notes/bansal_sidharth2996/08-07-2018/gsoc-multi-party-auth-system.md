@@ -1,6 +1,5 @@
 ---
-title: 'GSOC Multi Party Auth System '
-tagnames: software, gsoc, coding, soc, gsoc-2018, soc-2018, gsoc-2018-final, oauth, soc-2018-final, soc-2018-final-report
+title: "GSOC Multi Party Auth System "\ntagnames: 'software, gsoc, coding, soc, gsoc-2018, soc-2018, gsoc-2018-final, oauth, soc-2018-final, soc-2018-final-report'
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/08-07-2018/gsoc-multi-party-auth-system.md
 nid: 16878
@@ -10,7 +9,7 @@ uid: 503599
 
 # GSOC Multi Party Auth System 
 
-by [bansal_sidharth2996](../profile/bansal_sidharth2996) August 07, 2018 16:59
+by [bansal_sidharth2996](../profile/bansal_sidharth2996) | August 07, 2018 16:59
 
 August 07, 2018 16:59 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [gsoc-2018-final](../tag/gsoc-2018-final), [oauth](../tag/oauth), [soc-2018-final](../tag/soc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
 

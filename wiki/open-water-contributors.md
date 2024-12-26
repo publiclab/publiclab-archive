@@ -1,6 +1,5 @@
 ---
-title: 'open-water-contributors'
-tagnames: 
+title: "open-water-contributors"\ntagnames: ''
 author: donblair
 path: /wiki/open-water-contributors.md
 nid: 10942

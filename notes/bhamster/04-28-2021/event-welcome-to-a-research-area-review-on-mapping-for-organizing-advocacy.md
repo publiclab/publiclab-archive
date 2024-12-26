@@ -1,6 +1,5 @@
 ---
-title: 'Event: Welcome to a research area review on mapping for organizing & advocacy'
-tagnames: event, organizing, research, event:rsvp, rsvp:liz, advocacy, reviews, research-area-review, rsvp:amocorro, date:05-11-2021, rsvp:seankmcginnis
+title: "Event: Welcome to a research area review on mapping for organizing & advocacy"\ntagnames: 'event, organizing, research, event:rsvp, rsvp:liz, advocacy, reviews, research-area-review, rsvp:amocorro, date:05-11-2021, rsvp:seankmcginnis'
 author: bhamster
 path: /notes/bhamster/04-28-2021/event-welcome-to-a-research-area-review-on-mapping-for-organizing-advocacy.md
 nid: 26389
@@ -12,7 +11,7 @@ uid: 664477
 
 # Event: Welcome to a research area review on mapping for organizing & advocacy
 
-by [bhamster](../profile/bhamster) April 28, 2021 17:37
+by [bhamster](../profile/bhamster) | April 28, 2021 17:37
 
 April 28, 2021 17:37 | Tags: [event](../tag/event), [organizing](../tag/organizing), [research](../tag/research), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [rsvp:amocorro](../tag/rsvp:amocorro), [date:05-11-2021](../tag/date:05-11-2021), [rsvp:seankmcginnis](../tag/rsvp:seankmcginnis)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Public Comment on Minnesota's Regional Haze State Implementation Plan'
-tagnames: air-quality, minnesota, haze, public-comment, lon:-90, lat:40, zoom:4, mn-land-manoomin-protection, regional-haze-state-implementation-plan, national-parks
+title: "Public Comment on Minnesota's Regional Haze State Implementation Plan"\ntagnames: 'air-quality, minnesota, haze, public-comment, lon:-90, lat:40, zoom:4, mn-land-manoomin-protection, regional-haze-state-implementation-plan, national-parks'
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/10-06-2022/public-comment-on-minnesota-s-regional-haze-state-implementation-plan.md
 nid: 35032
@@ -12,7 +11,7 @@ uid: 796025
 
 # Public Comment on Minnesota's Regional Haze State Implementation Plan
 
-by [JuliaGuerrein](../profile/JuliaGuerrein) October 06, 2022 01:33
+by [JuliaGuerrein](../profile/JuliaGuerrein) | October 06, 2022 01:33
 
 October 06, 2022 01:33 | Tags: [air-quality](../tag/air-quality), [minnesota](../tag/minnesota), [haze](../tag/haze), [public-comment](../tag/public-comment), [lon:-90](../tag/lon:-90), [lat:40](../tag/lat:40), [zoom:4](../tag/zoom:4), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [regional-haze-state-implementation-plan](../tag/regional-haze-state-implementation-plan), [national-parks](../tag/national-parks)
 

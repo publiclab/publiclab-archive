@@ -1,6 +1,5 @@
 ---
-title: 'Calibrate your spectrometer in Spectral Workbench'
-tagnames: spectrometer, spectrometry, guide, response:12258, cross-section, activity:spectrometry, difficulty:easy, seeks:replications, activity:dssk, activity:foldable-spec, time:15m, response:748, status:review-me, category:verify, parent:spectral-workbench-calibration, activity:papercraft-spec, spectral-workbench-calibration, pin:activity:papercraft-spec, pin:spectrometry, spectrometry-calibration, activity:spectrometry-calibration
+title: "Calibrate your spectrometer in Spectral Workbench"\ntagnames: 'spectrometer, spectrometry, guide, response:12258, cross-section, activity:spectrometry, difficulty:easy, seeks:replications, activity:dssk, activity:foldable-spec, time:15m, response:748, status:review-me, category:verify, parent:spectral-workbench-calibration, activity:papercraft-spec, spectral-workbench-calibration, pin:activity:papercraft-spec, pin:spectrometry, spectrometry-calibration, activity:spectrometry-calibration'
 author: warren
 path: /notes/warren/09-01-2016/calibrating-your-spectrometer-in-spectral-workbench.md
 nid: 13410
@@ -12,7 +11,7 @@ uid: 1
 
 # Calibrate your spectrometer in Spectral Workbench
 
-by [warren](../profile/warren) September 01, 2016 20:57
+by [warren](../profile/warren) | September 01, 2016 20:57
 
 September 01, 2016 20:57 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [guide](../tag/guide), [response:12258](../tag/response:12258), [cross-section](../tag/cross-section), [activity:spectrometry](../tag/activity:spectrometry), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications), [activity:dssk](../tag/activity:dssk), [activity:foldable-spec](../tag/activity:foldable-spec), [time:15m](../tag/time:15m), [response:748](../tag/response:748), [status:review-me](../tag/status:review-me), [category:verify](../tag/category:verify), [parent:spectral-workbench-calibration](../tag/parent:spectral-workbench-calibration), [activity:papercraft-spec](../tag/activity:papercraft-spec), [spectral-workbench-calibration](../tag/spectral-workbench-calibration), [pin:activity:papercraft-spec](../tag/pin:activity:papercraft-spec), [pin:spectrometry](../tag/pin:spectrometry), [spectrometry-calibration](../tag/spectrometry-calibration), [activity:spectrometry-calibration](../tag/activity:spectrometry-calibration)
 

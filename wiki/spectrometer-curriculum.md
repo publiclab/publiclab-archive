@@ -1,6 +1,5 @@
 ---
-title: 'Spectrometer Curriculum'
-tagnames: spectrometer, education, curriculum
+title: "Spectrometer Curriculum"\ntagnames: 'spectrometer, education, curriculum'
 author: PeterDavidowicz
 path: /wiki/spectrometer-curriculum.md
 nid: 8899

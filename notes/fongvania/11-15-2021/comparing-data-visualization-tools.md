@@ -1,6 +1,5 @@
 ---
-title: 'Comparing Data Visualization Tools'
-tagnames: data, free-software, data-visualization, research-area-review, research-curation-fellows, presenting-data, air-quality-data, data-visualization-tool
+title: "Comparing Data Visualization Tools"\ntagnames: 'data, free-software, data-visualization, research-area-review, research-curation-fellows, presenting-data, air-quality-data, data-visualization-tool'
 author: fongvania
 path: /notes/fongvania/11-15-2021/comparing-data-visualization-tools.md
 nid: 28118
@@ -10,7 +9,7 @@ uid: 754846
 
 # Comparing Data Visualization Tools
 
-by [fongvania](../profile/fongvania) November 15, 2021 18:36
+by [fongvania](../profile/fongvania) | November 15, 2021 18:36
 
 November 15, 2021 18:36 | Tags: [data](../tag/data), [free-software](../tag/free-software), [data-visualization](../tag/data-visualization), [research-area-review](../tag/research-area-review), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-visualization-tool](../tag/data-visualization-tool)
 

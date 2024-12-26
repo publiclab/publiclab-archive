@@ -1,6 +1,5 @@
 ---
-title: 'Français'
-tagnames: tabbed:notes, tabbed:wikis
+title: "Français"\ntagnames: 'tabbed:notes, tabbed:wikis'
 author: warren
 path: /wiki/francais.md
 nid: 10446

@@ -1,6 +1,5 @@
 ---
-title: 'Lensless holograpic microscope'
-tagnames: holographic, microscope, microscopy, microscopes, lensless, geekcon
+title: "Lensless holograpic microscope"\ntagnames: 'holographic, microscope, microscopy, microscopes, lensless, geekcon'
 author: amirberAgain
 path: /notes/amirberAgain/04-30-2018/lensless-holograpic-microscope.md
 nid: 16269
@@ -12,7 +11,7 @@ uid: 420776
 
 # Lensless holograpic microscope
 
-by [amirberAgain](../profile/amirberAgain) April 30, 2018 07:25
+by [amirberAgain](../profile/amirberAgain) | April 30, 2018 07:25
 
 April 30, 2018 07:25 | Tags: [holographic](../tag/holographic), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [microscopes](../tag/microscopes), [lensless](../tag/lensless), [geekcon](../tag/geekcon)
 

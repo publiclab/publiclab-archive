@@ -1,6 +1,5 @@
 ---
-title: 'Fun with u-blox'
-tagnames: arduino, kite-aerial-photography, gps, ublox, skypod-gps-logger, activity:skypod-gps-logger
+title: "Fun with u-blox"\ntagnames: 'arduino, kite-aerial-photography, gps, ublox, skypod-gps-logger, activity:skypod-gps-logger'
 author: cfastie
 path: /notes/cfastie/10-05-2018/fun-with-u-blox.md
 nid: 17228
@@ -12,7 +11,7 @@ uid: 554
 
 # Fun with u-blox
 
-by [cfastie](../profile/cfastie) October 05, 2018 03:23
+by [cfastie](../profile/cfastie) | October 05, 2018 03:23
 
 October 05, 2018 03:23 | Tags: [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [gps](../tag/gps), [ublox](../tag/ublox), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger)
 

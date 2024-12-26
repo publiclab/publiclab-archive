@@ -1,6 +1,5 @@
 ---
-title: 'riffle-pilots'
-tagnames: 
+title: "riffle-pilots"\ntagnames: ''
 author: donblair
 path: /wiki/riffle-pilots.md
 nid: 10707

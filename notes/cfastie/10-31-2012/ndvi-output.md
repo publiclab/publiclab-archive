@@ -1,6 +1,5 @@
 ---
-title: 'NDVI output'
-tagnames: balloon-mapping, near-infrared-camera, ndvi, imagej, gigapan
+title: "NDVI output"\ntagnames: 'balloon-mapping, near-infrared-camera, ndvi, imagej, gigapan'
 author: cfastie
 path: /notes/cfastie/10-31-2012/ndvi-output.md
 nid: 4720
@@ -12,7 +11,7 @@ uid: 554
 
 # NDVI output
 
-by [cfastie](../profile/cfastie) October 31, 2012 16:27
+by [cfastie](../profile/cfastie) | October 31, 2012 16:27
 
 October 31, 2012 16:27 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [gigapan](../tag/gigapan)
 

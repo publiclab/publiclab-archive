@@ -1,6 +1,5 @@
 ---
-title: '3D data from image sets & Autostitching'
-tagnames: 3d, mapknitter, sfm, structure-from-motion
+title: "3D data from image sets & Autostitching"\ntagnames: '3d, mapknitter, sfm, structure-from-motion'
 author: mathew
 path: /notes/mathew/02-25-2014/3d-data-from-image-sets-autostitching.md
 nid: 10063
@@ -12,7 +11,7 @@ uid: 4
 
 # 3D data from image sets & Autostitching
 
-by [mathew](../profile/mathew) February 25, 2014 02:57
+by [mathew](../profile/mathew) | February 25, 2014 02:57
 
 February 25, 2014 02:57 | Tags: [3d](../tag/3d), [mapknitter](../tag/mapknitter), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion)
 

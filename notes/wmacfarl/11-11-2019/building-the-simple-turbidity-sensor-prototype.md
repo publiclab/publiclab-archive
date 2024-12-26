@@ -1,6 +1,5 @@
 ---
-title: 'Building the Simple Turbidity Sensor Prototype'
-tagnames: arduino, sensors, water-quality, turbidity, new, draft, time:3h, include, activity:arduino, water-sensors, activity:water-sensors, status:request, oil-and-gas-water-trio
+title: "Building the Simple Turbidity Sensor Prototype"\ntagnames: 'arduino, sensors, water-quality, turbidity, new, draft, time:3h, include, activity:arduino, water-sensors, activity:water-sensors, status:request, oil-and-gas-water-trio'
 author: wmacfarl
 path: /notes/wmacfarl/11-11-2019/building-the-simple-turbidity-sensor-prototype.md
 nid: 21441
@@ -12,7 +11,7 @@ uid: 424597
 
 # Building the Simple Turbidity Sensor Prototype
 
-by [wmacfarl](../profile/wmacfarl) November 11, 2019 03:55
+by [wmacfarl](../profile/wmacfarl) | November 11, 2019 03:55
 
 November 11, 2019 03:55 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [new](../tag/new), [draft](../tag/draft), [time:3h](../tag/time:3h), [include](../tag/include), [activity:arduino](../tag/activity:arduino), [water-sensors](../tag/water-sensors), [activity:water-sensors](../tag/activity:water-sensors), [status:request](../tag/status:request), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 

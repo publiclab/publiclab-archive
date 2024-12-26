@@ -1,6 +1,5 @@
 ---
-title: 'OSIDC Update #1'
-tagnames: first-time-poster
+title: "OSIDC Update #1"\ntagnames: 'first-time-poster'
 author: klauritsen
 path: /notes/klauritsen/09-17-2022/osidc-update-1.md
 nid: 34969
@@ -12,7 +11,7 @@ uid: 813970
 
 # OSIDC Update #1
 
-by [klauritsen](../profile/klauritsen) September 17, 2022 14:31
+by [klauritsen](../profile/klauritsen) | September 17, 2022 14:31
 
 September 17, 2022 14:31 | Tags: [first-time-poster](../tag/first-time-poster)
 

@@ -1,6 +1,5 @@
 ---
-title: 'Light source limits'
-tagnames: spectrometer, spectral-workbench, light-source, intensity
+title: "Light source limits"\ntagnames: 'spectrometer, spectral-workbench, light-source, intensity'
 author: viechdokter
 path: /notes/viechdokter/04-14-2016/light-source-limits.md
 nid: 12975
@@ -12,7 +11,7 @@ uid: 468990
 
 # Light source limits
 
-by [viechdokter](../profile/viechdokter) April 14, 2016 10:21
+by [viechdokter](../profile/viechdokter) | April 14, 2016 10:21
 
 April 14, 2016 10:21 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench), [light-source](../tag/light-source), [intensity](../tag/intensity)
 

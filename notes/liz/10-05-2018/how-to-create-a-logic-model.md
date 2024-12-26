@@ -1,6 +1,5 @@
 ---
-title: 'How to create a Logic Model'
-tagnames: evaluation, activity:evaluation
+title: "How to create a Logic Model"\ntagnames: 'evaluation, activity:evaluation'
 author: liz
 path: /notes/liz/10-05-2018/how-to-create-a-logic-model.md
 nid: 17235
@@ -12,7 +11,7 @@ uid: 7
 
 # How to create a Logic Model
 
-by [liz](../profile/liz) October 05, 2018 21:07
+by [liz](../profile/liz) | October 05, 2018 21:07
 
 October 05, 2018 21:07 | Tags: [evaluation](../tag/evaluation), [activity:evaluation](../tag/activity:evaluation)
 
