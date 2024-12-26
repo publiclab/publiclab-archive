@@ -45,7 +45,7 @@ Node.where(nid: nids).each do |node|
 
       text +=  "# " + node.title + "\n\n"
 
-      text += "by [#{node.author.username}](../profile/#{node.author.username}) | #{node.created_at.to_s(:long)}\n\n" if node.type == "note"
+      text += "by [#{node.author.username}](../../../profile/#{node.author.username}) | #{node.created_at.to_s(:long)}\n\n" if node.type == "note"
       text += "by [#{node.author.username}](../../profile/#{node.author.username}) | #{node.created_at.to_s(:long)}\n\n" if node.type == "map"
       if node.type == "page" 
 	text += "by "
