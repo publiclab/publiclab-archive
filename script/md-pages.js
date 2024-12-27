@@ -113,7 +113,25 @@ function fetchComments(frontMatter) {
     var cids = frontMatter['cids'].split(',');
     output += "<ul class='comment'>";
     cids.forEach(function(cid) {
-      output += "<li><a href='/comment/" + cid + "'>Comment " + cid + "</a></li>";
+      output += "<li id='cid-" + cid + "'><a href='/comment/" + cid + "'>Comment " + cid + "</a></li>";
+      fetch("/comment/" + cid + ".md",{
+        cache: 'no-cache',
+        mode: 'cors'
+      })
+        .then((response) => {
+          if (!response.ok) {
+            return "Page not found."
+          }
+          return response.text()
+        })
+        .then((text) => {
+          // get front matter:
+          var frontMatter = fetchFrontMatter(text);
+          var commentText = text.split(/---\n/)[2];
+          // replace URLs with fetched URL
+          console.log(frontMatter, cid, document.querySelector("#cid-" + cid + " a"));
+          document.querySelector("#cid-" + cid + " a").innerHTML = frontMatter['author'];
+        });
     })
     output += "</ul>";
   }
@@ -189,11 +207,10 @@ function fetchImagePaths(path, image) {
         ---
         */
         // use: "---\npath:/path/to/img.jpg\n---Hello world".match(/path\:(.+)/)[1]
-        var newPath = text.match(/path\: (.+)/)[1];
+        var frontMatter = fetchFrontMatter(text);
         // replace URLs with fetched URL
-        image.src = "https://publiclab.org"+newPath;
+        image.src = "https://publiclab.org" + frontMatter['path'];
       });
-
   }
 }
 

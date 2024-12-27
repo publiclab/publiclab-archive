@@ -9,15 +9,17 @@ Comment.where(nid: nids, status: 1).each do |comment|
   if User.where(id: comment.uid).length != 0 && comment.author&.username != nil
     File.open(path, 'w') do |file|
       text = "---\n"\
-        "node: [#{comment.parent.title}](..#{comment.parent.path})\n"\
-        "author: [#{comment.author.username}](../profile/#{comment.author.username})\n"\
+        "node: #{comment.parent.title}\n"\
+        "author: #{comment.author.username}\n"\
         "created_at: #{comment.created_at}\n"\
         "timestamp: #{comment.timestamp}\n"\
         "nid: #{comment.nid}\n"\
         "cid: #{comment.cid}\n"\
-        "uid: #{comment.uid}\n"\
-        "---\n\n#{comment.body}"
+        "uid: #{comment.uid}\n"
+      text +="---\n\n"
       text += "\n\n[#{comment.author&.username}](../profile/#{comment.author&.username}) replying to: [#{comment.parent.title}](..#{comment.parent.path})\n\n"
+      text += "----"
+      text += "#{comment.body}"
       file.write(text)
     end
   end

@@ -35,7 +35,7 @@ Node.where(nid: nids).each do |node|
 	"path: #{path.split("static").last}\n"\
         "nid: #{node.nid}\n"\
         "uid: #{node.uid}\n"\
-        "cids: #{node.comments&.collect(&:cid).join(',')}\n"\
+        "cids: #{node.comments.where(status: 1)&.collect(&:cid).join(',')}\n"\
         "---\n\n"
 
       if node.main_image
