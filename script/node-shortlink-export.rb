@@ -5,7 +5,8 @@ nids = 104,114,138,160,11740,11741,11742,11758,11759,11796,11820,12044,12061,123
 require 'fileutils'
 Node.where(nid: nids).each do |node|
 
-  text = "title: '#{node.title}'\n"\
+  text = "---\n\n"\
+    "title: '#{node.title}'\n"\
     "tagnames: '#{node.tagnames.join(', ')}'\n"\
     "author: #{node.author.username}\n"\
     "nid: #{node.nid}\n"\
