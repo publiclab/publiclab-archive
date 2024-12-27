@@ -90,9 +90,7 @@ function wrapFrontMatter(text) {
 // fetch front matter in format ---\nSTUFF\n---\n at start of document, return as key value pairs;
 function fetchFrontMatter(text) {
   var metadata = text.match(/^\-\-\-\n(.+)\n\-\-\-\n(.+)/s)[1];
-  console.log(metadata);
   metadata = metadata.split("\n")
-  console.log(metadata);
   var items = [];
   metadata.forEach(function(item) {
     if (item.match(':')) {
