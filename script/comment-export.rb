@@ -18,7 +18,7 @@ Comment.where(nid: nids, status: 1).each do |comment|
         "uid: #{comment.uid}\n"
       text +="---\n\n"
       text += "\n\n[#{comment.author&.username}](../profile/#{comment.author&.username}) replying to: [#{comment.parent.title}](..#{comment.parent.path})\n\n"
-      text += "----"
+      text += "----\n"
       text += "#{comment.body}"
       file.write(text)
     end
