@@ -7,6 +7,8 @@ path: /notes/warren/05-04-2014/public-lab-community-newsletter-5-4-14.md
 nid: 10411
 uid: 1
 
+cids: 11062
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/031/original/mobius-infragram.jpg)

@@ -7,6 +7,8 @@ path: /notes/ErikHanley11/04-12-2018/copper-strip-test-preparation-using-solvent
 nid: 16135
 uid: 444638
 
+cids: 19511
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/565/original/20180327_150338.jpg)

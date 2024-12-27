@@ -7,6 +7,8 @@ path: /notes/jalexa13/2-14-2013/air-quality-egg-location-0.md
 nid: 5987
 uid: 50451
 
+cids: 
+
 ---
 
 # Air Quality Egg Location

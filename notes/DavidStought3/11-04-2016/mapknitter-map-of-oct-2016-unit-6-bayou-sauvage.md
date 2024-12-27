@@ -7,6 +7,8 @@ path: /notes/DavidStought3/11-04-2016/mapknitter-map-of-oct-2016-unit-6-bayou-sa
 nid: 13679
 uid: 496384
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/702/original/IMG_2775.JPG)

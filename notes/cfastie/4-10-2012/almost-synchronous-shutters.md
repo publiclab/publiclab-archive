@@ -7,6 +7,8 @@ path: /notes/cfastie/4-10-2012/almost-synchronous-shutters.md
 nid: 1652
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/timtstv-20120410-120-11.jpg)

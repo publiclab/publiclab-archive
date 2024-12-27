@@ -7,6 +7,8 @@ path: /notes/adam-griffith/2-6-2012/updated-map-western-carolina-university.md
 nid: 753
 uid: 3
 
+cids: 452
+
 ---
 
 ![](https://publiclab.org/sites/default/files/reda.JPG)

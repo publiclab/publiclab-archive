@@ -7,6 +7,8 @@ path: /notes/stevie/08-14-2018/what-are-ways-to-monitor-algae-blooms.md
 nid: 16930
 uid: 422561
 
+cids: 20396,20404,20503,20903,23204,23205,23206,23317
+
 ---
 
 # What are ways to monitor algae blooms? 

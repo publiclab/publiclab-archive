@@ -7,6 +7,8 @@ path: /notes/patcoyle/09-07-2015/mobius-non-fish-eye-and-small-lifter-wrapup.md
 nid: 12201
 uid: 77
 
+cids: 13000,17040,17239
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/500/original/main_image_composite.jpg)

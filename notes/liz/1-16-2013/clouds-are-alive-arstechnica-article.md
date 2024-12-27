@@ -7,6 +7,8 @@ path: /notes/liz/1-16-2013/clouds-are-alive-arstechnica-article.md
 nid: 5615
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/5810163712_ac8a7f249e.jpg)

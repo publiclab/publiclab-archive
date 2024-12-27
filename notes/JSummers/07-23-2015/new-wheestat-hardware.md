@@ -7,6 +7,8 @@ path: /notes/JSummers/07-23-2015/new-wheestat-hardware.md
 nid: 12096
 uid: 304279
 
+cids: 12753
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/851/original/WheeStat7PrototypeA.jpg)

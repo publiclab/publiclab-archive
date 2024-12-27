@@ -7,6 +7,8 @@ path: /notes/Mempet/09-04-2017/bacteria.md
 nid: 14827
 uid: 513742
 
+cids: 
+
 ---
 
 # Bacteria

@@ -7,6 +7,8 @@ path: /notes/liz/10-05-2018/creating-public-lab-s-logic-model.md
 nid: 17226
 uid: 7
 
+cids: 
+
 ---
 
 # Creating Public Lab's Logic Model

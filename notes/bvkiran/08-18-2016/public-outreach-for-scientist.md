@@ -7,6 +7,8 @@ path: /notes/bvkiran/08-18-2016/public-outreach-for-scientist.md
 nid: 13361
 uid: 488028
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/669/original/pepperscincelogo.jpg)

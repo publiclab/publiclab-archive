@@ -7,6 +7,8 @@ path: /notes/cfastie/4-8-2013/bean-cam.md
 nid: 6722
 uid: 554
 
+cids: 4369,4565
+
 ---
 
 ![](https://publiclab.org/sites/default/files/bean-201334931.jpg)

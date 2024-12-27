@@ -7,6 +7,8 @@ path: /notes/donblair/04-23-2014/meter-stick-reva-lights-buzzers-particulate-mat
 nid: 10349
 uid: 43651
 
+cids: 8869,8870,8871,8872,8873,8874,8875,8877,8878,8879,8880
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/836/original/meter-stick-reva-osh-front.png)

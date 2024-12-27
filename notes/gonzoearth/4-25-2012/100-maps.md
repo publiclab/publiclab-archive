@@ -7,6 +7,8 @@ path: /notes/gonzoearth/4-25-2012/100-maps.md
 nid: 1786
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/bottle.png)

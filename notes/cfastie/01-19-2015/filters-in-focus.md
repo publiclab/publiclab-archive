@@ -7,6 +7,8 @@ path: /notes/cfastie/01-19-2015/filters-in-focus.md
 nid: 11531
 uid: 554
 
+cids: 11058,11059,12585,12588
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/643/original/S95Convert-512-10.jpg)

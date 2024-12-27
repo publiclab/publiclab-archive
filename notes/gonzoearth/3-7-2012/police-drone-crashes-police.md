@@ -7,6 +7,8 @@ path: /notes/gonzoearth/3-7-2012/police-drone-crashes-police.md
 nid: 901
 uid: 12
 
+cids: 1436
+
 ---
 
 # Police Drone Crashes Into Police!

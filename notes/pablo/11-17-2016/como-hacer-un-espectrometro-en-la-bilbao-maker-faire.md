@@ -7,6 +7,8 @@ path: /notes/pablo/11-17-2016/como-hacer-un-espectrometro-en-la-bilbao-maker-fai
 nid: 13709
 uid: 160
 
+cids: 15852,15853
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/859/original/IMG_20161117_150800.jpg)

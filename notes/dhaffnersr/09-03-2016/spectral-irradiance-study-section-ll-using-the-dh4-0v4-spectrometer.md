@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/09-03-2016/spectral-irradiance-study-section-ll-using-th
 nid: 13414
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/889/original/ALL_3_light_bulbs_sept_2_title_pic.png)

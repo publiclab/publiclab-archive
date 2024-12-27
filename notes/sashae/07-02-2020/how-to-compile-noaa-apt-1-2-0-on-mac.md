@@ -7,6 +7,8 @@ path: /notes/sashae/07-02-2020/how-to-compile-noaa-apt-1-2-0-on-mac.md
 nid: 24052
 uid: 693684
 
+cids: 27175,27791,29524,29525,30328
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/985/original/Screenshot_2020-06-10_09.15.39.png)

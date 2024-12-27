@@ -7,6 +7,8 @@ path: /notes/stevie/05-07-2019/how-much-helium-do-you-need-to-fill-a-balloon-in-
 nid: 19269
 uid: 422561
 
+cids: 24109,24110,24151
+
 ---
 
 # How much helium do you need to fill a balloon in the regular balloon mapping kits? 

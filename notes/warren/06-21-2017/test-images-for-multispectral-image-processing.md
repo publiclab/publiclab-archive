@@ -7,6 +7,8 @@ path: /notes/warren/06-21-2017/test-images-for-multispectral-image-processing.md
 nid: 14565
 uid: 1
 
+cids: 16903,16907,17010,17014,17015,22498
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/841/original/calibration.jpg)

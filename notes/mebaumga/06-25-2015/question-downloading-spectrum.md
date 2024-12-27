@@ -7,6 +7,8 @@ path: /notes/mebaumga/06-25-2015/question-downloading-spectrum.md
 nid: 12006
 uid: 442457
 
+cids: 12018
+
 ---
 
 # Question: downloading spectrum

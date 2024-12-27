@@ -7,6 +7,8 @@ path: /notes/jmacha/03-25-2021/public-lab-calls-for-the-immediate-removal-of-ric
 nid: 26027
 uid: 423019
 
+cids: 28406,28411
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/049/original/public_lab.png)

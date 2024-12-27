@@ -7,6 +7,8 @@ path: /notes/valerie/11-10-2012/aerial-microbes.md
 nid: 4861
 uid: 890
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/691/original/image_0.jpg)

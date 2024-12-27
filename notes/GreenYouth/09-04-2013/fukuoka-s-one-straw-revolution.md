@@ -7,6 +7,8 @@ path: /notes/GreenYouth/09-04-2013/fukuoka-s-one-straw-revolution.md
 nid: 9254
 uid: 231045
 
+cids: 6807,10312
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/389/original/fukuoaka.jpg)

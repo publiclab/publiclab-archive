@@ -7,6 +7,8 @@ path: /notes/warren/09-22-2017/does-anyone-know-someone-at-archive-org-who-can-e
 nid: 14933
 uid: 1
 
+cids: 17428,21404,22624
+
 ---
 
 # Does anyone know someone at Archive.org who can enable CORS for images of Harvey pollution?

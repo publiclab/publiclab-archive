@@ -7,6 +7,8 @@ path: /notes/eblaine/4-13-2013/kite-mapping-central-america-waste-and-recycling.
 nid: 6815
 uid: 57402
 
+cids: 4440
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 5_0.png)

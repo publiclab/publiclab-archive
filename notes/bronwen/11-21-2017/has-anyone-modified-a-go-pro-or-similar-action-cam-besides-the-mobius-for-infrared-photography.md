@@ -7,6 +7,8 @@ path: /notes/bronwen/11-21-2017/has-anyone-modified-a-go-pro-or-similar-action-c
 nid: 15218
 uid: 237313
 
+cids: 22748
+
 ---
 
 # Has anyone modified a Go-Pro (or similar) action cam (besides the mobius) for infrared photography?

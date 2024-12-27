@@ -7,6 +7,8 @@ path: /notes/cfastie/01-16-2015/orange-is-the-new-red.md
 nid: 11527
 uid: 554
 
+cids: 11051,11055,11065,11480,11838,11840,11841,11918,12470,12472,12591
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/617/original/Wratten15-565-26.jpg)

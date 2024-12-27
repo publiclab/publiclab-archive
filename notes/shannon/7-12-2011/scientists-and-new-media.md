@@ -7,6 +7,8 @@ path: /notes/shannon/7-12-2011/scientists-and-new-media.md
 nid: 380
 uid: 9
 
+cids: 
+
 ---
 
 # Scientists and "new" media

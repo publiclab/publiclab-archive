@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/06-01-2016/my-cat-helped-me-out-on-this-one.md
 nid: 13157
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/443/original/teetee_small_pic.png)

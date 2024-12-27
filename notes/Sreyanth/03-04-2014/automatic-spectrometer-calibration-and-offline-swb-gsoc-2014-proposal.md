@@ -7,6 +7,8 @@ path: /notes/Sreyanth/03-04-2014/automatic-spectrometer-calibration-and-offline-
 nid: 10103
 uid: 96713
 
+cids: 8408,8410,8413,8414,8415,8438,8464,8466,8490,8496,8500,8507,8508,8512,8526,8527,8543,8640
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/125/original/SWB_LOGO.png)

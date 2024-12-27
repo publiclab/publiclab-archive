@@ -7,6 +7,8 @@ path: /notes/TheChessGym/04-12-2022/microplastics-pollution-landfill-and-trash-a
 nid: 30349
 uid: 788868
 
+cids: 31482
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/681/original/6143aa7a12cda.image.jpg)

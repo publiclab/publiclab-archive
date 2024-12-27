@@ -7,6 +7,8 @@ path: /notes/Delaney/06-25-2018/how-to-retrieve-a-draft-of-a-research-note-on-pl
 nid: 16572
 uid: 517173
 
+cids: 19885,19890,19903,19986,23151
+
 ---
 
 # How to retrieve a draft of a research note on pl.org?

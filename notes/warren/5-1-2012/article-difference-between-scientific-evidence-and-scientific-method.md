@@ -7,6 +7,8 @@ path: /notes/warren/5-1-2012/article-difference-between-scientific-evidence-and-
 nid: 1873
 uid: 1
 
+cids: 
+
 ---
 
 # Article: "The Difference Between Scientific Evidence And The Scientific Method"

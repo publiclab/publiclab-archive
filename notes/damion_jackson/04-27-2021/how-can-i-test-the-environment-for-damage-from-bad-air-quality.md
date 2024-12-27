@@ -7,6 +7,8 @@ path: /notes/damion_jackson/04-27-2021/how-can-i-test-the-environment-for-damage
 nid: 26368
 uid: 754374
 
+cids: 28666,28667
+
 ---
 
 # How can I test the environment for damage from bad air quality?

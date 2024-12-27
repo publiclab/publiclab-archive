@@ -7,6 +7,8 @@ path: /notes/warren/12-19-2012/spectrometers-arriving-what-next.md
 nid: 5264
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/uploads.png)

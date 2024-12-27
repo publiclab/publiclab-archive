@@ -7,6 +7,8 @@ path: /notes/Holger/11-06-2015/raspberry-pi-based-microscope.md
 nid: 12375
 uid: 456773
 
+cids: 12887,15283,15361,17529,17535,18372,18374,18910
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/510/original/DSC_0461.JPG)

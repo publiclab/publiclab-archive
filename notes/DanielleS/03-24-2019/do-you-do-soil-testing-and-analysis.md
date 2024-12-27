@@ -7,6 +7,8 @@ path: /notes/DanielleS/03-24-2019/do-you-do-soil-testing-and-analysis.md
 nid: 18836
 uid: 569208
 
+cids: 23408
+
 ---
 
 # Do you do Soil Testing and Analysis? 

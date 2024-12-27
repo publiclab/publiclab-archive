@@ -7,6 +7,8 @@ path: /notes/mathew/04-04-2017/site-survey-for-a-minivol.md
 nid: 14086
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/074/original/20170326_131640.jpg)

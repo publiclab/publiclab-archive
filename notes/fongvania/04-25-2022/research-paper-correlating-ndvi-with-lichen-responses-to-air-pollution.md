@@ -7,6 +7,8 @@ path: /notes/fongvania/04-25-2022/research-paper-correlating-ndvi-with-lichen-re
 nid: 30586
 uid: 754846
 
+cids: 30143,30147,30148,30149,30151,30152,30153,30154,30176,30177,30182,30185,30190,30191,30196,30197,30198,30200,30201,30208,30209,30210,30248,30253,30306
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/514/original/8418527367_20acb1828c_b.jpg)

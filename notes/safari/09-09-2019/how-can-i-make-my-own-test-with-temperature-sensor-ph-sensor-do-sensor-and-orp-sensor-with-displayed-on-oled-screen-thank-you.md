@@ -7,6 +7,8 @@ path: /notes/safari/09-09-2019/how-can-i-make-my-own-test-with-temperature-senso
 nid: 20802
 uid: 613816
 
+cids: 
+
 ---
 
 # How can I make my own test with temperature sensor , ph sensor , DO sensor  and ORP sensor with displayed on OLED screen . Thank you  

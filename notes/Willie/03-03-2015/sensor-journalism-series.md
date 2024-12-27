@@ -7,6 +7,8 @@ path: /notes/Willie/03-03-2015/sensor-journalism-series.md
 nid: 11652
 uid: 235174
 
+cids: 11306,11307
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/146/original/Sensor_J_Series.png)

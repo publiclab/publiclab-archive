@@ -7,6 +7,8 @@ path: /notes/GreenFrogg/12-14-2016/volunteering-in-smartemission-network-nijmege
 nid: 13785
 uid: 499984
 
+cids: 16207
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/053/original/2016-02-12_13.09.42.jpg)

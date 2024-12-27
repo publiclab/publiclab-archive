@@ -7,6 +7,8 @@ path: /notes/liz/02-28-2017/calculate-how-much-helium-you-ll-need-to-lift-your-c
 nid: 13973
 uid: 7
 
+cids: 
+
 ---
 
 # Calculate how much helium you'll need to lift your camera

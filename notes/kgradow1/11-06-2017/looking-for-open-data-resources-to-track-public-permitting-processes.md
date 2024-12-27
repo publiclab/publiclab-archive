@@ -7,6 +7,8 @@ path: /notes/kgradow1/11-06-2017/looking-for-open-data-resources-to-track-public
 nid: 15155
 uid: 297929
 
+cids: 22751
+
 ---
 
 # Looking for open data resources to track public permitting processes. 

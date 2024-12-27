@@ -7,6 +7,8 @@ path: /notes/mike-styczynski/5-2-2011/actual-air-sensing-bicycle-project-somervi
 nid: 197
 uid: 104
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/workshop flyer[6].jpg)

@@ -7,6 +7,8 @@ path: /notes/safidy/8-22-2012/delta-kite-bag-made-7-pringles-boxes.md
 nid: 3398
 uid: 898
 
+cids: 1189,1202,1203,1204,1207
+
 ---
 
 ![](https://publiclab.org/sites/default/files/TP9A0068.jpg)

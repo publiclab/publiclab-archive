@@ -7,6 +7,8 @@ path: /notes/nedhorning/11-1-2012/update-photo-monitoring-plugin-imagejfiji.md
 nid: 4732
 uid: 133
 
+cids: 2605,2786,4037
+
 ---
 
 ![](https://publiclab.org/sites/default/files/RegPhotoFirstScreen.png)

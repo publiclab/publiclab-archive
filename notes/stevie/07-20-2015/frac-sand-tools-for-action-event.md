@@ -7,6 +7,8 @@ path: /notes/stevie/07-20-2015/frac-sand-tools-for-action-event.md
 nid: 12082
 uid: 422561
 
+cids: 12231,12233,12269,12296,12322,12326
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/735/original/Frac_Sand_Evenv.jpg)

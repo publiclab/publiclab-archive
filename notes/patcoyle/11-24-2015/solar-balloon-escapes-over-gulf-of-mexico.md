@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-24-2015/solar-balloon-escapes-over-gulf-of-mexico.md
 nid: 12444
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/027/original/solar_ballon_escape_from_paper.jpg)

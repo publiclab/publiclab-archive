@@ -7,6 +7,8 @@ path: /notes/stevie/11-14-2017/host-an-issue-brief-workshop.md
 nid: 15186
 uid: 422561
 
+cids: 19526
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/413/original/Screen_Shot_2017-11-14_at_1.48.44_PM.png)

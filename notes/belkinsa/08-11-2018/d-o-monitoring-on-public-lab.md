@@ -7,6 +7,8 @@ path: /notes/belkinsa/08-11-2018/d-o-monitoring-on-public-lab.md
 nid: 16914
 uid: 504609
 
+cids: 20392,20669,23203
+
 ---
 
 # D.O. Monitoring on Public Lab

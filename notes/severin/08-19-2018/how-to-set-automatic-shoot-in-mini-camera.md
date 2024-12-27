@@ -7,6 +7,8 @@ path: /notes/severin/08-19-2018/how-to-set-automatic-shoot-in-mini-camera.md
 nid: 16960
 uid: 547235
 
+cids: 20513,23215,24816,24817,24823,24824,24830,24831
+
 ---
 
 # How to set automatic shoot in Mini Camera

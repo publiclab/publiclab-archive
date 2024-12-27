@@ -7,6 +7,8 @@ path: /notes/warren/07-02-2015/web-working-group-monthly-recap-4-june-2015.md
 nid: 12028
 uid: 1
 
+cids: 12088
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/510/original/network-plots2.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/06-13-2013/histograms.md
 nid: 8190
 uid: 554
 
+cids: 5229,5233
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/500/original/_NIRBW-201338099.jpg)

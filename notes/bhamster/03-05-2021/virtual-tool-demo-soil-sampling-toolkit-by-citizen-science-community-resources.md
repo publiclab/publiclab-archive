@@ -7,6 +7,8 @@ path: /notes/bhamster/03-05-2021/virtual-tool-demo-soil-sampling-toolkit-by-citi
 nid: 25849
 uid: 664477
 
+cids: 28290,28293,28402,28414,28431,28947
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/868/original/CSCR_soil_test.jpeg)

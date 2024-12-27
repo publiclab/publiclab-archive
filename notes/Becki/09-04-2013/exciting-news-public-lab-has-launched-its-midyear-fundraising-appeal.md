@@ -7,6 +7,8 @@ path: /notes/Becki/09-04-2013/exciting-news-public-lab-has-launched-its-midyear-
 nid: 9284
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/397/original/staff_at_LUMCON.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/08-03-2017/winds-aloft.md
 nid: 14713
 uid: 554
 
+cids: 17158,17170,17172
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/283/original/BreadWind_20170730-0322.JPG)

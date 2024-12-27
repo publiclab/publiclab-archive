@@ -7,6 +7,8 @@ path: /notes/cfastie/06-20-2013/ndvi-from-infrablue.md
 nid: 8308
 uid: 554
 
+cids: 5546,8119,8122,8124
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/542/original/tuples.JPG)

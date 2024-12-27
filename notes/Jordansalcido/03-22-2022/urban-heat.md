@@ -7,6 +7,8 @@ path: /notes/Jordansalcido/03-22-2022/urban-heat.md
 nid: 30169
 uid: 792325
 
+cids: 29859
+
 ---
 
 # Urban Heat 

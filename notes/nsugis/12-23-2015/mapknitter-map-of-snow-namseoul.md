@@ -7,6 +7,8 @@ path: /notes/nsugis/12-23-2015/mapknitter-map-of-snow-namseoul.md
 nid: 12540
 uid: 460281
 
+cids: 
+
 ---
 
 # MapKnitter map of Snow Namseoul

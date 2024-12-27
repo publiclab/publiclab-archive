@@ -7,6 +7,8 @@ path: /notes/cfastie/04-22-2014/mobius-ir-conversion.md
 nid: 10342
 uid: 554
 
+cids: 8851,8876,8978,9647,9651,9667,9688,9765,9766,9767,9779,9790,9792,9815,10906,11573,14091,14123,14124,14126,14128
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/790/original/MobTest-399-28.jpg)

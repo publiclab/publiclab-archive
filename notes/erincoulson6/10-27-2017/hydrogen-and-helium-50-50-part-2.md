@@ -7,6 +7,8 @@ path: /notes/erincoulson6/10-27-2017/hydrogen-and-helium-50-50-part-2.md
 nid: 15115
 uid: 517054
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/105/original/58212C2D-19B6-401C-B0CC-BC768037DDEE.jpeg)

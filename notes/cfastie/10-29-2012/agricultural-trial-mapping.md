@@ -7,6 +7,8 @@ path: /notes/cfastie/10-29-2012/agricultural-trial-mapping.md
 nid: 4691
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/NDVIplotsN1k.jpg)

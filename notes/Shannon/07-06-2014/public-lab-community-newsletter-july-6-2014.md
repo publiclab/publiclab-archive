@@ -7,6 +7,8 @@ path: /notes/Shannon/07-06-2014/public-lab-community-newsletter-july-6-2014.md
 nid: 10664
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/164/original/plots-logo-transparent.jpg)

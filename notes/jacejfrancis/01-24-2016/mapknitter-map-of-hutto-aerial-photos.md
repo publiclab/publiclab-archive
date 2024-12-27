@@ -7,6 +7,8 @@ path: /notes/jacejfrancis/01-24-2016/mapknitter-map-of-hutto-aerial-photos.md
 nid: 12609
 uid: 462214
 
+cids: 
+
 ---
 
 # MapKnitter map of hutto aerial photos

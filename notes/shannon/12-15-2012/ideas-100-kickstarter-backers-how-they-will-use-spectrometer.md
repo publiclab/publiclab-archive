@@ -7,6 +7,8 @@ path: /notes/shannon/12-15-2012/ideas-100-kickstarter-backers-how-they-will-use-
 nid: 5214
 uid: 9
 
+cids: 
+
 ---
 
 # Ideas from the $100 Kickstarter backers on how they will use the spectrometer

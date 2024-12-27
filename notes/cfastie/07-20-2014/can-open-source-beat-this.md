@@ -7,6 +7,8 @@ path: /notes/cfastie/07-20-2014/can-open-source-beat-this.md
 nid: 10939
 uid: 554
 
+cids: 9560,9563,9564,9578,9581,9583,9584,9764,11463,11509,13812,25857,25860
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/405/original/Den1_0494.jpg)

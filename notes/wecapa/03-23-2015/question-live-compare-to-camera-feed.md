@@ -7,6 +7,8 @@ path: /notes/wecapa/03-23-2015/question-live-compare-to-camera-feed.md
 nid: 11717
 uid: 425603
 
+cids: 11385,11387,11388
+
 ---
 
 # Question: "live" compare to camera feed

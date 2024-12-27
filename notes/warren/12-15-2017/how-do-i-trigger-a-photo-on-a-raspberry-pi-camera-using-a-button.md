@@ -7,6 +7,8 @@ path: /notes/warren/12-15-2017/how-do-i-trigger-a-photo-on-a-raspberry-pi-camera
 nid: 15378
 uid: 1
 
+cids: 18636,22957
+
 ---
 
 # How do I trigger a photo on a Raspberry Pi camera using a button?

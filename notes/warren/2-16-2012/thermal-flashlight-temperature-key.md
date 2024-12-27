@@ -7,6 +7,8 @@ path: /notes/warren/2-16-2012/thermal-flashlight-temperature-key.md
 nid: 795
 uid: 1
 
+cids: 474,475
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 6.png)

@@ -7,6 +7,8 @@ path: /notes/gangrin/09-28-2015/bluelight.md
 nid: 12247
 uid: 452627
 
+cids: 
+
 ---
 
 # Bluelight

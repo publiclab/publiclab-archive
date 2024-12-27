@@ -7,6 +7,8 @@ path: /notes/cfastie/10-12-2015/handheld-autokap.md
 nid: 12289
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/911/original/FledFlight.jpg)

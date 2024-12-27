@@ -7,6 +7,8 @@ path: /notes/liz/09-30-2014/how-to-process-infragram-images.md
 nid: 11212
 uid: 7
 
+cids: 10475,10477,10479,10485,31301
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/212/original/IMG_6230_edit.jpg)

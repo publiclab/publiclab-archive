@@ -7,6 +7,8 @@ path: /notes/bruno/07-09-2015/do-the-work-exactly.md
 nid: 12043
 uid: 445183
 
+cids: 12157
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/589/original/2015-07-09T13_19_39.948Z.jpg)

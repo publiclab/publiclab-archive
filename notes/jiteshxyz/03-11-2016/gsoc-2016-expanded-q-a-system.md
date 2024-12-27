@@ -7,6 +7,8 @@ path: /notes/jiteshxyz/03-11-2016/gsoc-2016-expanded-q-a-system.md
 nid: 12835
 uid: 468400
 
+cids: 13930,13946,13947,13948,13949,13950,13971,13979,13986,14055,14069
+
 ---
 
 # GSOC 2016 : Expanded Q&A System

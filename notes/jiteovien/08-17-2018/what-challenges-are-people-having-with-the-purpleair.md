@@ -7,6 +7,8 @@ path: /notes/jiteovien/08-17-2018/what-challenges-are-people-having-with-the-pur
 nid: 16948
 uid: 540008
 
+cids: 20462
+
 ---
 
 # What challenges are people having with the PurpleAir?

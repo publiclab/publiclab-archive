@@ -7,6 +7,8 @@ path: /notes/jbreen/6-23-2012/fabaoutfit-derivative-kap-rig-0.md
 nid: 2618
 uid: 326
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0452.JPG)

@@ -7,6 +7,8 @@ path: /notes/cfastie/4-14-2013/sanm-leafkam.md
 nid: 6817
 uid: 554
 
+cids: 4445,4447,4454
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Sanm-201335008.jpg)

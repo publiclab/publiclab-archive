@@ -7,6 +7,8 @@ path: /notes/mmilem/10-04-2016/mapknitter-map-of-lab5matthewmilem.md
 nid: 13523
 uid: 493590
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/261/original/aight_photo_2.jpeg)

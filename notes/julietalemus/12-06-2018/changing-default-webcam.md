@@ -7,6 +7,8 @@ path: /notes/julietalemus/12-06-2018/changing-default-webcam.md
 nid: 17819
 uid: 562519
 
+cids: 21466,23298
+
 ---
 
 # changing default webcam 

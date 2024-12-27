@@ -7,6 +7,8 @@ path: /notes/Juan/05-05-2014/equipo-barato-para-pap-fabapole.md
 nid: 10426
 uid: 1310
 
+cids: 8975
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/050/original/FABApole_publiclab.png)

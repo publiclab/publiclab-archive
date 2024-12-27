@@ -7,6 +7,8 @@ path: /notes/warren/10-01-2019/pros-cons-to-cheap-handheld-water-meters-for-ph-t
 nid: 21044
 uid: 1
 
+cids: 25621,25631,25636
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/529/original/Screen_Shot_2019-10-01_at_2.17.27_PM.png)

@@ -7,6 +7,8 @@ path: /notes/mmittler/3-10-2012/spectrometer-hardware-higher-resolution.md
 nid: 917
 uid: 653
 
+cids: 530,550
+
 ---
 
 # spectrometer hardware with higher resolution

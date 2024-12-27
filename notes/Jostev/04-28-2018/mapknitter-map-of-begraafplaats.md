@@ -7,6 +7,8 @@ path: /notes/Jostev/04-28-2018/mapknitter-map-of-begraafplaats.md
 nid: 16267
 uid: 532502
 
+cids: 19534
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/813/original/Screenshot_2018-05-02_at_10.22.14_AM.png)

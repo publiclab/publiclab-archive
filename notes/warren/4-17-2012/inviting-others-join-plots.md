@@ -7,6 +7,8 @@ path: /notes/warren/4-17-2012/inviting-others-join-plots.md
 nid: 1693
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/invitations.png)

@@ -7,6 +7,8 @@ path: /notes/Akinkunmi02/04-08-2022/mapknitter-map-of-azeez-first-map.md
 nid: 30316
 uid: 793513
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/654/original/404-_icroverse.png)

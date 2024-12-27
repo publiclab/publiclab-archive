@@ -7,6 +7,8 @@ path: /notes/bicwood/04-18-2017/desktop-spectrometer-kit-availablility.md
 nid: 14120
 uid: 420736
 
+cids: 18104,18105,22455
+
 ---
 
 # Desktop Spectrometer Kit Availablility

@@ -7,6 +7,8 @@ path: /notes/warren/09-20-2016/building-the-stoft-stability-upgrade-for-desktop-
 nid: 13463
 uid: 1
 
+cids: 15441
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/083/original/build-spec.jpg)

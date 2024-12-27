@@ -7,6 +7,8 @@ path: /notes/TheChessGym/04-04-2022/private-drinking-water-well.md
 nid: 30253
 uid: 788868
 
+cids: 29918,29920
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/610/original/well.jpg)

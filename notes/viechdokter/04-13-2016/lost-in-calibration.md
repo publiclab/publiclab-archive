@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-13-2016/lost-in-calibration.md
 nid: 12967
 uid: 468990
 
+cids: 14210,14211,14217,14220,14222,14223
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/516/original/cross_section_button.jpg)

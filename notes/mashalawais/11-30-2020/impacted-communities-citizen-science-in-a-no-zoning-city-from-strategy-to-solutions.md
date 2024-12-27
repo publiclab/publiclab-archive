@@ -7,6 +7,8 @@ path: /notes/mashalawais/11-30-2020/impacted-communities-citizen-science-in-a-no
 nid: 25143
 uid: 727097
 
+cids: 27738,27748,27767
+
 ---
 
 # Impacted Communities - Citizen Science in a "No Zoning" City from Strategy to Solutions

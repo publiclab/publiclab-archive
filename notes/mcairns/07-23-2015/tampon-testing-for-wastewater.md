@@ -7,6 +7,8 @@ path: /notes/mcairns/07-23-2015/tampon-testing-for-wastewater.md
 nid: 12093
 uid: 429279
 
+cids: 12255,12550,12551,12560,12569,12571
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/877/original/Glow_Tampon.JPG)

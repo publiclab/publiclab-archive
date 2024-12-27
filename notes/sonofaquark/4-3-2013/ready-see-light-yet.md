@@ -7,6 +7,8 @@ path: /notes/sonofaquark/4-3-2013/ready-see-light-yet.md
 nid: 6661
 uid: 54330
 
+cids: 4332
+
 ---
 
 # ready to see the light yet?

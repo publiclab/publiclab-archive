@@ -7,6 +7,8 @@ path: /12-07-2017/mapknitter-map-of-bay-uhlan-pigeon-7-dec-2017.md
 nid: 15327
 uid: 379
 
+cids: 
+
 ---
 
 # MapKnitter map of bay uhlan pigeon 7 dec 2017

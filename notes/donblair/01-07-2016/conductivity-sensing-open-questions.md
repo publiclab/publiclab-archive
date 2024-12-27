@@ -7,6 +7,8 @@ path: /notes/donblair/01-07-2016/conductivity-sensing-open-questions.md
 nid: 12569
 uid: 43651
 
+cids: 13287,13288,13803,13805,16293,16294,18403
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/539/original/strayLines.gif)

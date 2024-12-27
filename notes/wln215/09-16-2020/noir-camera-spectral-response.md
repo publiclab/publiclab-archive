@@ -7,6 +7,8 @@ path: /notes/wln215/09-16-2020/noir-camera-spectral-response.md
 nid: 24474
 uid: 578478
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/905/original/sidebysidespectra.001.jpeg)

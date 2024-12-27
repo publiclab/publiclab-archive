@@ -7,6 +7,8 @@ path: /notes/warren/08-20-2013/infragram-webcam-conversion-test-with-i-zone-came
 nid: 9040
 uid: 1
 
+cids: 6698,6699,6704,20819
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/240/original/IMG_0217.JPG)

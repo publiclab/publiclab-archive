@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-10-2016/400nm-led-variance-thru-10w40-mtr-oil-in-quar
 nid: 12826
 uid: 461120
 
+cids: 13854,13855,13858,13859,13871,13874
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/738/original/led_variance_test_mar10.png)

@@ -7,6 +7,8 @@ path: /notes/Rgaude/05-14-2021/the-pothole-problem-a-new-orleans-pothole-project
 nid: 26592
 uid: 749812
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/813/original/Science_Pothole_1.jpg)

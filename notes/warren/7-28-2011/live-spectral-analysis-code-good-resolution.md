@@ -7,6 +7,8 @@ path: /notes/warren/7-28-2011/live-spectral-analysis-code-good-resolution.md
 nid: 418
 uid: 1
 
+cids: 304,305
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrometer-calibration.png)

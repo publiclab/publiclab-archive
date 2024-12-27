@@ -7,6 +7,8 @@ path: /notes/Bronwen/12-12-2019/workshop-series-on-practical-use-of-the-public-l
 nid: 21741
 uid: 237313
 
+cids: 26006,26044,26059
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/041/original/IMG_0555.JPG)

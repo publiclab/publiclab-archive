@@ -7,6 +7,8 @@ path: /notes/warren/01-27-2018/civilservant-community-research-summit-community-
 nid: 15627
 uid: 1
 
+cids: 18314,18323
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/386/original/image.png)

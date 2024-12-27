@@ -7,6 +7,8 @@ path: /notes/cfastie/10-01-2015/fall-delayed-as-leaffest-looms.md
 nid: 12262
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/736/original/Oct2014-15_2pan.jpg)

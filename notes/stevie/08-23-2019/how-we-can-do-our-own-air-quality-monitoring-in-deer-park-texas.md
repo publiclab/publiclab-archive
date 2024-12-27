@@ -7,6 +7,8 @@ path: /notes/stevie/08-23-2019/how-we-can-do-our-own-air-quality-monitoring-in-d
 nid: 20639
 uid: 422561
 
+cids: 30251
+
 ---
 
 # How we can do our own air quality monitoring in Deer Park Texas? 

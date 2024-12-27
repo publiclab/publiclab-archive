@@ -7,6 +7,8 @@ path: /notes/gustrow/04-05-2014/mapping-the-nvcc-campus-using-a-flower-pot-as-a-
 nid: 10267
 uid: 57645
 
+cids: 8679,8688,8703,8704,8707,9391,9417
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/510/original/DSC_0224-XL.jpg)

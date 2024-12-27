@@ -7,6 +7,8 @@ path: /notes/KKMS/12-17-2014/site-visits-and-results.md
 nid: 11470
 uid: 432742
 
+cids: 20667
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/459/original/_pic.jpg)

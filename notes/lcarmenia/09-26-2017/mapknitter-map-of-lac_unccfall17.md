@@ -7,6 +7,8 @@ path: /notes/lcarmenia/09-26-2017/mapknitter-map-of-lac_unccfall17.md
 nid: 14958
 uid: 515184
 
+cids: 
+
 ---
 
 # MapKnitter map of LAC_unccfall17

@@ -7,6 +7,8 @@ path: /notes/jiteovien/08-20-2018/calibrating-low-cost-air-quality-sensor-part-2
 nid: 16967
 uid: 540008
 
+cids: 20511
+
 ---
 
 # Calibrating low cost air quality sensor part 2

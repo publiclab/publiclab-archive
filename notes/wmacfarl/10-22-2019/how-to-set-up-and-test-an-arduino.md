@@ -7,6 +7,8 @@ path: /notes/wmacfarl/10-22-2019/how-to-set-up-and-test-an-arduino.md
 nid: 21249
 uid: 424597
 
+cids: 25775
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/903/original/arduino_testing.jpg)

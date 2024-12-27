@@ -7,6 +7,8 @@ path: /notes/gonzoearth/05-20-2013/heavy-duty-waist-mounted-kite-fishing-winder-
 nid: 7717
 uid: 12
 
+cids: 4777
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/352/original/GOPR0002.JPG)

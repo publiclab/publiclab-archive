@@ -7,6 +7,8 @@ path: /notes/warren/4-12-2011/notes-tues-april-12-staff-call.md
 nid: 171
 uid: 1
 
+cids: 
+
 ---
 
 # Notes from Tues April 12 staff call

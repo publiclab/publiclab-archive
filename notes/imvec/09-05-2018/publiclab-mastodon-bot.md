@@ -7,6 +7,8 @@ path: /notes/imvec/09-05-2018/publiclab-mastodon-bot.md
 nid: 17069
 uid: 495038
 
+cids: 20591,20593,20594
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/460/original/plbotheader.jpg)

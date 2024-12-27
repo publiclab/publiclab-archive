@@ -7,6 +7,8 @@ path: /notes/MadTinker/12-08-2017/are-there-accepted-definitions-of-accuracy-and
 nid: 15336
 uid: 461206
 
+cids: 22796
+
 ---
 
 # Are there accepted definitions of accuracy and precision within Public Lab? 

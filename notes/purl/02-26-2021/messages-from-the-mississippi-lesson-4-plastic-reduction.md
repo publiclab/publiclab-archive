@@ -7,6 +7,8 @@ path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-4-plastic-redu
 nid: 25811
 uid: 736598
 
+cids: 28298
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/819/original/EPA_flow_chart.png)

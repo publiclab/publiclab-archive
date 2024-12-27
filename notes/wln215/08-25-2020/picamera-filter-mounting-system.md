@@ -7,6 +7,8 @@ path: /notes/wln215/08-25-2020/picamera-filter-mounting-system.md
 nid: 24454
 uid: 578478
 
+cids: 27279,27280,27291
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/689/original/OpticCube4.3.svg)

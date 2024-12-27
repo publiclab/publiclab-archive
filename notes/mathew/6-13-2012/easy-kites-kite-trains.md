@@ -7,6 +7,8 @@ path: /notes/mathew/6-13-2012/easy-kites-kite-trains.md
 nid: 2477
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-06-13 at 3.45.52 PM.png)

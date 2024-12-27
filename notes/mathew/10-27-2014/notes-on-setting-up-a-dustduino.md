@@ -7,6 +7,8 @@ path: /notes/mathew/10-27-2014/notes-on-setting-up-a-dustduino.md
 nid: 11303
 uid: 4
 
+cids: 11229,11944
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/643/original/IMG_20141026_170648.jpg)

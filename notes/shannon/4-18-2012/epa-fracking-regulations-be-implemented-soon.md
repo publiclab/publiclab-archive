@@ -7,6 +7,8 @@ path: /notes/shannon/4-18-2012/epa-fracking-regulations-be-implemented-soon.md
 nid: 1699
 uid: 9
 
+cids: 
+
 ---
 
 # EPA Fracking Regulations To Be Implemented Soon

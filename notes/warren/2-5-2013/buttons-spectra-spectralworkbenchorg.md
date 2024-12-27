@@ -7,6 +7,8 @@ path: /notes/warren/2-5-2013/buttons-spectra-spectralworkbenchorg.md
 nid: 5895
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/like-buttons.png)

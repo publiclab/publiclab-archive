@@ -7,6 +7,8 @@ path: /notes/warren/10-21-2014/spectral-workbench-previewing-and-clipping-warnin
 nid: 11284
 uid: 1
 
+cids: 10593
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/562/original/clipping.png)

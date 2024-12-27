@@ -7,6 +7,8 @@ path: /notes/mara/1-25-2012/searching-interview-sonobuoyhydrophone-expert.md
 nid: 719
 uid: 331
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Dear Public Laboratory Community.jpg)

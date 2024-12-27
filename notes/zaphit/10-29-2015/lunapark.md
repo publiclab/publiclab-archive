@@ -7,6 +7,8 @@ path: /notes/zaphit/10-29-2015/lunapark.md
 nid: 12343
 uid: 455939
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/184/original/Screen_Shot_2015-10-29_at_1.12.28_PM.png)

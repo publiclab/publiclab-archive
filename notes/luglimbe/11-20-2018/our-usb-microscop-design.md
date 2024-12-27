@@ -7,6 +7,8 @@ path: /notes/luglimbe/11-20-2018/our-usb-microscop-design.md
 nid: 17715
 uid: 546059
 
+cids: 21308,21309,21310
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/750/original/FB_IMG_15426857402499607.jpg)

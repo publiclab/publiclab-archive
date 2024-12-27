@@ -7,6 +7,8 @@ path: /notes/aeriall/01-19-2016/mapknitter-map-of-parc-amara.md
 nid: 12594
 uid: 461834
 
+cids: 13350,13351
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/724/original/odm_orthphoto.jpg)

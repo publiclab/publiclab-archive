@@ -7,6 +7,8 @@ path: /notes/joyofsoy/10-04-2019/introduction-to-cranston-print-works.md
 nid: 21075
 uid: 540844
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/561/original/UNEDITED_MM3M85.jpg)

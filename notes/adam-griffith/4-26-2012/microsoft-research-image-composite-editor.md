@@ -7,6 +7,8 @@ path: /notes/adam-griffith/4-26-2012/microsoft-research-image-composite-editor.m
 nid: 1795
 uid: 3
 
+cids: 642,653,655,656,657,658,659,699,6692
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ICE.JPG)

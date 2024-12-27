@@ -7,6 +7,8 @@ path: /2-18-2013/bike-kite.md
 nid: 6040
 uid: 379
 
+cids: 31031,31032
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8458972207_37ab609e64_c.jpg)

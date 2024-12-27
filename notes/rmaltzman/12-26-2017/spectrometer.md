@@ -7,6 +7,8 @@ path: /notes/rmaltzman/12-26-2017/spectrometer.md
 nid: 15429
 uid: 521180
 
+cids: 18051,18065
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/030/original/spectr1.jpg)

@@ -7,6 +7,8 @@ path: /notes/Sara/01-24-2014/methods-of-estimating-the-volume-and-weight-of-wast
 nid: 9977
 uid: 8
 
+cids: 8118,8121,8125,8130,28064
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/650/original/DSC01156.jpg)

@@ -7,6 +7,8 @@ path: /notes/nsabido/05-13-2021/collecting-microplastics-in-city-park.md
 nid: 26583
 uid: 745916
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/789/original/F4C3BDE3-8198-4C53-A4AC-7FE5852C942F.JPG)

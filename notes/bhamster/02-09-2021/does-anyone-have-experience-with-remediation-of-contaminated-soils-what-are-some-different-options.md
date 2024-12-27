@@ -7,6 +7,8 @@ path: /notes/bhamster/02-09-2021/does-anyone-have-experience-with-remediation-of
 nid: 25638
 uid: 664477
 
+cids: 28164,28165,28166,28167,28173,28208,28215,28221
+
 ---
 
 # Does anyone have experience with remediation of contaminated soils? What are some different options?

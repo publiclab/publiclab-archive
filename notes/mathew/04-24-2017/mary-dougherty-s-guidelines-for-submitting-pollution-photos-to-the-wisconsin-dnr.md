@@ -7,6 +7,8 @@ path: /notes/mathew/04-24-2017/mary-dougherty-s-guidelines-for-submitting-pollut
 nid: 14134
 uid: 4
 
+cids: 
+
 ---
 
 # Mary Dougherty's guidelines for submitting pollution photos to the Wisconsin DNR

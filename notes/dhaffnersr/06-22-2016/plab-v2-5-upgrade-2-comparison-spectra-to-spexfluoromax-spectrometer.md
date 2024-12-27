@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/06-22-2016/plab-v2-5-upgrade-2-comparison-spectra-to-spe
 nid: 13226
 uid: 461120
 
+cids: 14784,14786,14787,14788,14789,14790,14791,14792,14793,14794,14795,14796,14797,14798,14800,14801,14802,14807,14809,14810,14814,14815,14816,14818,14821,14823,14824,14826
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/715/original/close_up_view_of_cmos.png)

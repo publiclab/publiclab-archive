@@ -7,6 +7,8 @@ path: /notes/bhamster/04-07-2021/wrapping-up-a-research-area-review-on-soil-cont
 nid: 26156
 uid: 664477
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/162/original/screenshot_soilRAR.png)

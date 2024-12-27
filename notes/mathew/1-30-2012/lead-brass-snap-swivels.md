@@ -7,6 +7,8 @@ path: /notes/mathew/1-30-2012/lead-brass-snap-swivels.md
 nid: 733
 uid: 4
 
+cids: 
+
 ---
 
 # lead in brass snap swivels

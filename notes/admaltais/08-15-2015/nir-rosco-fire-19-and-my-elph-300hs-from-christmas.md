@@ -7,6 +7,8 @@ path: /notes/admaltais/08-15-2015/nir-rosco-fire-19-and-my-elph-300hs-from-chris
 nid: 12145
 uid: 447727
 
+cids: 12389
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/128/original/NDVI.tif)

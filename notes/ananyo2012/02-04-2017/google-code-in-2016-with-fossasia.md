@@ -7,6 +7,8 @@ path: /notes/ananyo2012/02-04-2017/google-code-in-2016-with-fossasia.md
 nid: 13905
 uid: 468506
 
+cids: 16147
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/432/original/GCI-new-logo.jpg)

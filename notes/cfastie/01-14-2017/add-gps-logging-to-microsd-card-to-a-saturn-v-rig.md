@@ -7,6 +7,8 @@ path: /notes/cfastie/01-14-2017/add-gps-logging-to-microsd-card-to-a-saturn-v-ri
 nid: 13850
 uid: 554
 
+cids: 16099
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/276/original/GPS_20170113-7506.JPG)

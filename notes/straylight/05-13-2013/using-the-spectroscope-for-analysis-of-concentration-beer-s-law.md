@@ -7,6 +7,8 @@ path: /notes/straylight/05-13-2013/using-the-spectroscope-for-analysis-of-concen
 nid: 7475
 uid: 43047
 
+cids: 4775,10322,10323,10693,10696,10704,11137,11138,12912,13770,13783,13785,13787,13799
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/246/original/P5080044s.jpg)

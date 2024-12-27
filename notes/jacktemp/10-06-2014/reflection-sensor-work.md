@@ -7,6 +7,8 @@ path: /notes/jacktemp/10-06-2014/reflection-sensor-work.md
 nid: 11234
 uid: 428016
 
+cids: 
+
 ---
 
 # Reflection — sensor work

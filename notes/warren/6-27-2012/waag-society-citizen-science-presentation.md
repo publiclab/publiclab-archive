@@ -7,6 +7,8 @@ path: /notes/warren/6-27-2012/waag-society-citizen-science-presentation.md
 nid: 2636
 uid: 1
 
+cids: 957,958
+
 ---
 
 # Waag Society: Citizen Science presentation

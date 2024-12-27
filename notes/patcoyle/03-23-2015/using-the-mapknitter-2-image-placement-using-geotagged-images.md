@@ -7,6 +7,8 @@ path: /notes/patcoyle/03-23-2015/using-the-mapknitter-2-image-placement-using-ge
 nid: 11714
 uid: 77
 
+cids: 11382,11384,11386,11393,11394,11395,11832
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/391/original/ssmap.jpg)

@@ -7,6 +7,8 @@ path: /notes/awoolverton1/07-07-2022/a-quick-look-at-the-health-impacts-of-air-p
 nid: 31262
 uid: 778039
 
+cids: 
+
 ---
 
 # A Quick Look at the Health Impacts of Air Pollutants

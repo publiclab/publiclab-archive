@@ -7,6 +7,8 @@ path: /notes/cfastie/06-18-2017/first-flight-of-the-skypod.md
 nid: 14551
 uid: 554
 
+cids: 16895,16896,16902
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/815/original/SalCmSch_20170611-9585.JPG)

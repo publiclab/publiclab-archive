@@ -7,6 +7,8 @@ path: /notes/pdonovan/02-27-2014/the-work-of-the-biosphere.md
 nid: 10073
 uid: 421114
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/069/original/logo-1.jpg)

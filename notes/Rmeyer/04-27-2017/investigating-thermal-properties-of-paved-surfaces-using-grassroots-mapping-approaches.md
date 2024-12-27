@@ -7,6 +7,8 @@ path: /notes/Rmeyer/04-27-2017/investigating-thermal-properties-of-paved-surface
 nid: 14145
 uid: 495854
 
+cids: 16676,22461
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/212/original/File_007.jpeg)

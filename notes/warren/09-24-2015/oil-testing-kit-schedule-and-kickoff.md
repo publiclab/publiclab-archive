@@ -7,6 +7,8 @@ path: /notes/warren/09-24-2015/oil-testing-kit-schedule-and-kickoff.md
 nid: 12239
 uid: 1
 
+cids: 12600
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/674/original/Screenshot_2015-09-23_at_7.53.29_PM.png)

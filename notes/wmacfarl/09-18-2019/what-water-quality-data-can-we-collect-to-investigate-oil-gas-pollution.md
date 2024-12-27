@@ -7,6 +7,8 @@ path: /notes/wmacfarl/09-18-2019/what-water-quality-data-can-we-collect-to-inves
 nid: 20919
 uid: 424597
 
+cids: 25542,25575
+
 ---
 
 # What water quality data can we collect to investigate oil/gas pollution?

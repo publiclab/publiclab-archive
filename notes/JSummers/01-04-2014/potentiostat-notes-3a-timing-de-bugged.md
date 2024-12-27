@@ -7,6 +7,8 @@ path: /notes/JSummers/01-04-2014/potentiostat-notes-3a-timing-de-bugged.md
 nid: 9923
 uid: 304279
 
+cids: 7997,7998,7999
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/487/original/80uASV.png)

@@ -7,6 +7,8 @@ path: /notes/mathew/02-23-2017/are-there-affordable-epa-approved-methods-for-mon
 nid: 13954
 uid: 4
 
+cids: 22433
+
 ---
 
 # Are there affordable EPA-approved methods for monitoring ozone? 

@@ -7,6 +7,8 @@ path: /notes/liz/3-28-2013/spectrometer-box-design-mockup.md
 nid: 6579
 uid: 7
 
+cids: 4255,4256,4257,4258,4264,4265,4268
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130328_120228.jpg)

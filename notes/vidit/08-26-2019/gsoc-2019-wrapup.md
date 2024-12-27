@@ -7,6 +7,8 @@ path: /notes/vidit/08-26-2019/gsoc-2019-wrapup.md
 nid: 20676
 uid: 517093
 
+cids: 25426
+
 ---
 
 # GSOC 2019 wrapup 

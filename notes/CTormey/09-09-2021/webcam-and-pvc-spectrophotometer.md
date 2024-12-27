@@ -7,6 +7,8 @@ path: /notes/CTormey/09-09-2021/webcam-and-pvc-spectrophotometer.md
 nid: 27718
 uid: 713257
 
+cids: 29229,29230,29231
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/789/original/Cover_Photo.jpg)

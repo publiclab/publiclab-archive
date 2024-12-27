@@ -7,6 +7,8 @@ path: /notes/klie/07-13-2015/sprint-fellowship-application-public-lab-oil-sheen-
 nid: 12055
 uid: 441262
 
+cids: 12235
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/651/original/sheen-testing.png)

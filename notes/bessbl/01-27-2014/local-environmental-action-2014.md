@@ -7,6 +7,8 @@ path: /notes/bessbl/01-27-2014/local-environmental-action-2014.md
 nid: 9984
 uid: 420473
 
+cids: 9023
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/677/original/8556568120_1d59d542d5_m.jpg)

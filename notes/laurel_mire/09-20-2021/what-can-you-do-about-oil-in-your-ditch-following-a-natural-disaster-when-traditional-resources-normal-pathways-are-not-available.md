@@ -7,6 +7,8 @@ path: /notes/laurel_mire/09-20-2021/what-can-you-do-about-oil-in-your-ditch-foll
 nid: 27734
 uid: 759178
 
+cids: 29249,29251,29256,29257,29263,29264,29265,29267,29270,29276,29279
+
 ---
 
 # What can you do about oil in your ditch following a natural disaster when traditional resources/normal pathways are not available?

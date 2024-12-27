@@ -7,6 +7,8 @@ path: /notes/donblair/09-30-2014/coqui-bbv1-0.md
 nid: 11209
 uid: 43651
 
+cids: 10473,12293,13303,13429,13755,14239,21998
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/213/original/IMG_0734.JPG)

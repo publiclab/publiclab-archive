@@ -7,6 +7,8 @@ path: /notes/warren/09-18-2016/see-the-fraunhofer-absorption-lines-in-sunlight.m
 nid: 13460
 uid: 1
 
+cids: 30970,30971,30972
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/067/original/ecohack.JPG)

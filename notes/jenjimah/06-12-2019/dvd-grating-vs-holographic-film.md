@@ -7,6 +7,8 @@ path: /notes/jenjimah/06-12-2019/dvd-grating-vs-holographic-film.md
 nid: 19670
 uid: 505738
 
+cids: 25002
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/838/original/versus.jpg)

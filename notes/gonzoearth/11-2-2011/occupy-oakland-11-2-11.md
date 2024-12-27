@@ -7,6 +7,8 @@ path: /notes/gonzoearth/11-2-2011/occupy-oakland-11-2-11.md
 nid: 536
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_4352.JPG)

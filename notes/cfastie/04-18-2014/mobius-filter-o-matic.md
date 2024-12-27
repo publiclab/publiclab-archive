@@ -7,6 +7,8 @@ path: /notes/cfastie/04-18-2014/mobius-filter-o-matic.md
 nid: 10327
 uid: 554
 
+cids: 8811,8818,12019,12021
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/706/original/MobTest-379-83.jpg)

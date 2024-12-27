@@ -7,6 +7,8 @@ path: /notes/ceich/6-28-2012/pictures-balloon-mapping-union-sq-ny.md
 nid: 2660
 uid: 597
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/214_MayDay2012_IMG_8388_0.jpg)

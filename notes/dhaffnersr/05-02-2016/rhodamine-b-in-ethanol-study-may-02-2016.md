@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-02-2016/rhodamine-b-in-ethanol-study-may-02-2016.md
 nid: 13062
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/898/original/rhod_b_may2_small_pic_936x.png)

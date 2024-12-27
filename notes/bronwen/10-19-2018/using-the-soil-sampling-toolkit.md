@@ -7,6 +7,8 @@ path: /notes/bronwen/10-19-2018/using-the-soil-sampling-toolkit.md
 nid: 17339
 uid: 237313
 
+cids: 20936,20939
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/070/original/Screen_Shot_2018-10-19_at_12.45.03_PM.png)

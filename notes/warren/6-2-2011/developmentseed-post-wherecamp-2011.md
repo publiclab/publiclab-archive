@@ -7,6 +7,8 @@ path: /notes/warren/6-2-2011/developmentseed-post-wherecamp-2011.md
 nid: 320
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/5647023881_698b163121.jpg)

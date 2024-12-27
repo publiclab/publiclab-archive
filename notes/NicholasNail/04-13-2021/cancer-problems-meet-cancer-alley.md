@@ -7,6 +7,8 @@ path: /notes/NicholasNail/04-13-2021/cancer-problems-meet-cancer-alley.md
 nid: 26223
 uid: 750432
 
+cids: 28562,28565,28570,28584,28819
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/280/original/cancer-alley-la.jpg)

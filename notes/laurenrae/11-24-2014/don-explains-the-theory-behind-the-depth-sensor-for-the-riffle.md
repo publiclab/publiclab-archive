@@ -7,6 +7,8 @@ path: /notes/laurenrae/11-24-2014/don-explains-the-theory-behind-the-depth-senso
 nid: 11397
 uid: 431676
 
+cids: 10840,10843,10846,10847,11810
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/101/original/IMG_4051.JPG)

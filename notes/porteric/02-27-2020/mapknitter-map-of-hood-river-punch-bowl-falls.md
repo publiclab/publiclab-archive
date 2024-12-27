@@ -7,6 +7,8 @@ path: /notes/porteric/02-27-2020/mapknitter-map-of-hood-river-punch-bowl-falls.m
 nid: 22950
 uid: 668997
 
+cids: 
+
 ---
 
 # MapKnitter map of Hood River Punch Bowl Falls

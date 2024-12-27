@@ -7,6 +7,8 @@ path: /notes/liz/1-15-2012/go-scum-update.md
 nid: 689
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/0_Bottle BOAT will need to be IN FRONT of canoe for Best Filming.JPG)

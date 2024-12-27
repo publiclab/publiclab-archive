@@ -7,6 +7,8 @@ path: /notes/alexrfholland/09-06-2016/infragram-point-and-shoot-plant-cam.md
 nid: 13418
 uid: 490194
 
+cids: 15320,22274,22277
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/928/original/IMAG0099.JPG)

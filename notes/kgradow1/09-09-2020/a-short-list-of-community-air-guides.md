@@ -7,6 +7,8 @@ path: /notes/kgradow1/09-09-2020/a-short-list-of-community-air-guides.md
 nid: 24547
 uid: 297929
 
+cids: 27340,27750
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/846/original/sample.jpg)

@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/05-26-2016/pl-with-fa-venice-bienalle.md
 nid: 13143
 uid: 152
 
+cids: 14727,14732
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/314/original/Left03-cropped.png)

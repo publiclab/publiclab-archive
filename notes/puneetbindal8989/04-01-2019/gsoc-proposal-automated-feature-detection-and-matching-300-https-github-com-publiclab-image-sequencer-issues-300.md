@@ -7,6 +7,8 @@ path: /notes/puneetbindal8989/04-01-2019/gsoc-proposal-automated-feature-detecti
 nid: 18928
 uid: 580556
 
+cids: 
+
 ---
 
 # GSoC proposal: Automated feature detection and matching #300 https://github.com/publiclab/image-sequencer/issues/300

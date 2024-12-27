@@ -7,6 +7,8 @@ path: /notes/cfastie/12-29-2017/will-trigonometry-help-an-arduino-measure-water-
 nid: 15445
 uid: 554
 
+cids: 18547
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/055/original/springhouse_20171213-2111.JPG)

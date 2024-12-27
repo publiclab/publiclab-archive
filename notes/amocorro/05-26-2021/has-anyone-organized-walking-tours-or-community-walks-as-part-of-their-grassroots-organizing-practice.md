@@ -7,6 +7,8 @@ path: /notes/amocorro/05-26-2021/has-anyone-organized-walking-tours-or-community
 nid: 26718
 uid: 700923
 
+cids: 28834,28884
+
 ---
 
 # Has anyone organized "walking tours" or  "community walks" as part of their grassroots organizing practice?

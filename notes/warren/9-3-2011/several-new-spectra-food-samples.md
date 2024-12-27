@@ -7,6 +7,8 @@ path: /notes/warren/9-3-2011/several-new-spectra-food-samples.md
 nid: 451
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-8-31-149-blue-dye.png)

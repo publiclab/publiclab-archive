@@ -7,6 +7,8 @@ path: /notes/gbathree/04-08-2016/idea-for-measurement-of-airborne-pollutants-or-
 nid: 12938
 uid: 53164
 
+cids: 14150,14247,14248,14268,18083,18085
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/411/original/Quartz_Crystal_Microbalance-openQCM-seeall.jpg)

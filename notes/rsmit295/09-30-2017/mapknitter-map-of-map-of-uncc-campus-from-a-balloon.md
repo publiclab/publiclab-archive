@@ -7,6 +7,8 @@ path: /notes/rsmit295/09-30-2017/mapknitter-map-of-map-of-uncc-campus-from-a-bal
 nid: 14972
 uid: 515275
 
+cids: 17491,17492
+
 ---
 
 # MapKnitter map of Map of UNCC campus from a balloon!

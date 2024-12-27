@@ -7,6 +7,8 @@ path: /notes/stevie/11-28-2017/water-wise-nola-rain-barrel-build.md
 nid: 15252
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/638/original/Screen_Shot_2017-11-28_at_2.58.46_PM.png)

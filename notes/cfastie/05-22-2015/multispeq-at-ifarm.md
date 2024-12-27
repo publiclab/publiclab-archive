@@ -7,6 +7,8 @@ path: /notes/cfastie/05-22-2015/multispeq-at-ifarm.md
 nid: 11828
 uid: 554
 
+cids: 11723,11731,11732,11733,11734,11735,11761,31520
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/954/original/iFarm2015-621-134.jpg)

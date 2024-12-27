@@ -7,6 +7,8 @@ path: /notes/stevie/08-23-2019/what-do-the-different-colors-mean-on-the-simple-a
 nid: 20645
 uid: 422561
 
+cids: 25316,25317,25318,25321,25323
+
 ---
 
 # What do the different colors mean on the Simple Air Sensor?

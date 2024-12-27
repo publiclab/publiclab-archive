@@ -7,6 +7,8 @@ path: /notes/nathanathan/01-12-2019/what-causes-spectrum-distortion.md
 nid: 18106
 uid: 365600
 
+cids: 21726
+
 ---
 
 # What causes spectrum distortion?

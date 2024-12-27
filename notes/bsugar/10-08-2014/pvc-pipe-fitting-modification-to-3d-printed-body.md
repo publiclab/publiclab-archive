@@ -7,6 +7,8 @@ path: /notes/bsugar/10-08-2014/pvc-pipe-fitting-modification-to-3d-printed-body.
 nid: 11249
 uid: 217812
 
+cids: 10518
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/374/original/IMG_2744.JPG)

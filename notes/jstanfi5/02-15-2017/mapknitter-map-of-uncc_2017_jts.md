@@ -7,6 +7,8 @@ path: /notes/jstanfi5/02-15-2017/mapknitter-map-of-uncc_2017_jts.md
 nid: 13933
 uid: 503002
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/566/original/P1110006.JPG)

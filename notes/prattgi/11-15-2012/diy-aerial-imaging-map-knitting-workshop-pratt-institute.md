@@ -7,6 +7,8 @@ path: /notes/prattgi/11-15-2012/diy-aerial-imaging-map-knitting-workshop-pratt-i
 nid: 4921
 uid: 45852
 
+cids: 
+
 ---
 
 # DIY Aerial Imaging + Map Knitting workshop at Pratt Institute

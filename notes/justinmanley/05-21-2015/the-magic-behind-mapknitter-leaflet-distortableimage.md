@@ -7,6 +7,8 @@ path: /notes/justinmanley/05-21-2015/the-magic-behind-mapknitter-leaflet-distort
 nid: 11826
 uid: 421556
 
+cids: 11726,11727,11746,14458
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/940/original/Leaflet.DistortableImage.png)

@@ -7,6 +7,8 @@ path: /notes/Claytonb/01-29-2016/midopt-dual-bandpass-and-event38-filter-testing
 nid: 12636
 uid: 460246
 
+cids: 13535,13537
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/002/original/Nice_Calibrated_Image.jpg)

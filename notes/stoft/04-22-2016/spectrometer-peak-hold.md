@@ -7,6 +7,8 @@ path: /notes/stoft/04-22-2016/spectrometer-peak-hold.md
 nid: 13020
 uid: 54025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/752/original/STest_CFL-15ptTimeAvgPeakHold320-380nm.gif)

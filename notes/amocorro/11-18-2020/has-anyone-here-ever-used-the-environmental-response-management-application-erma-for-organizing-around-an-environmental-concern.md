@@ -7,6 +7,8 @@ path: /notes/amocorro/11-18-2020/has-anyone-here-ever-used-the-environmental-res
 nid: 25074
 uid: 700923
 
+cids: 27677,27681,27682,27683,27702,27743,27752
+
 ---
 
 # Has anyone here ever used the Environmental Response Management Application (ERMA) for organizing around an environmental concern? 

@@ -7,6 +7,8 @@ path: /notes/liz/01-21-2018/could-decentralization-assist-in-handling-personal-h
 nid: 15575
 uid: 7
 
+cids: 19063
+
 ---
 
 # Could decentralization assist in handling personal health data?

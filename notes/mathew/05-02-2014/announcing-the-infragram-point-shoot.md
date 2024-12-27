@@ -7,6 +7,8 @@ path: /notes/mathew/05-02-2014/announcing-the-infragram-point-shoot.md
 nid: 10391
 uid: 4
 
+cids: 8947,9033,9034,9038,9039,9316,9356,9372,9373,9383,9646
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/976/original/14106506533_0022f9e0d7_o%281%29.jpg)

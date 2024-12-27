@@ -7,6 +7,8 @@ path: /notes/okunlolastephen37/11-04-2022/outreachy-proposal-improve-mapknitter-
 nid: 36053
 uid: 818708
 
+cids: 30762,30768
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/319/original/images.jpeg)

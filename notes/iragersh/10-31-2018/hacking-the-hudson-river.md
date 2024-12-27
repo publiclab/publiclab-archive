@@ -7,6 +7,8 @@ path: /notes/iragersh/10-31-2018/hacking-the-hudson-river.md
 nid: 17437
 uid: 557258
 
+cids: 21062
+
 ---
 
 # Hacking the Hudson River

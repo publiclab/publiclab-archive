@@ -7,6 +7,8 @@ path: /notes/ernestbolds/2-2-2013/where-can-i-get-qualitative-spectrometer-readi
 nid: 5866
 uid: 49671
 
+cids: 3293,3294,3348
+
 ---
 
 ![](https://publiclab.org/sites/default/files/100E1180.JPG)

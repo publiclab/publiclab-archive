@@ -7,6 +7,8 @@ path: /notes/glennwalquist/12-04-2016/monitoring-sargent-sand-mining-operation-i
 nid: 13741
 uid: 498910
 
+cids: 15906,15908,15911,15912,15913,15915,15916,15923,15924,15935,15936,16120,16125,16131,16132,16133,16134,16135,16140,16141,16159,16222,16243,16256
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/965/original/IMAG0083.JPG)

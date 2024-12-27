@@ -7,6 +7,8 @@ path: /notes/warren/04-11-2013/public-lab-presentation-at-cu-mapping-democratiza
 nid: 6786
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/040/original/presentation-wilkinson.png)

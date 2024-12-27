@@ -7,6 +7,8 @@ path: /notes/Ag8n/04-02-2018/can-the-spectrometer-or-turbocharger-be-used-for-la
 nid: 16048
 uid: 520994
 
+cids: 19403,19423,23051
+
 ---
 
 # Can the spectrometer or turbocharger be used for lal testing?

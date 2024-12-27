@@ -7,6 +7,8 @@ path: /notes/cfastie/5-21-2012/range-tiny-remote.md
 nid: 2154
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/FobAntIR-525ft.jpg)

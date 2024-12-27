@@ -7,6 +7,8 @@ path: /notes/bc512/08-30-2013/extremely-precise-mapping.md
 nid: 9076
 uid: 197512
 
+cids: 6742,6743,6749
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/333/original/12334534.JPG)

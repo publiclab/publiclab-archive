@@ -7,6 +7,8 @@ path: /notes/stevie/01-04-2017/how-does-radon-react-outside.md
 nid: 13837
 uid: 422561
 
+cids: 
+
 ---
 
 # How does radon react outside? 

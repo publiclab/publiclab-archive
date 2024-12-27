@@ -7,6 +7,8 @@ path: /notes/cfastie/07-10-2013/uaf.md
 nid: 8788
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/709/original/IMG_1671nrg.jpg)

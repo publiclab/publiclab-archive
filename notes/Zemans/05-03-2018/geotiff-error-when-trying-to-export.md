@@ -7,6 +7,8 @@ path: /notes/Zemans/05-03-2018/geotiff-error-when-trying-to-export.md
 nid: 16284
 uid: 532957
 
+cids: 19538,19544,19547,19549,19606,19607,19608,19614,23085
+
 ---
 
 # Geotiff error when trying to export

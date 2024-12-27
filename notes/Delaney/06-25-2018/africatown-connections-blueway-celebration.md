@@ -7,6 +7,8 @@ path: /notes/Delaney/06-25-2018/africatown-connections-blueway-celebration.md
 nid: 16571
 uid: 517173
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/329/original/IMG_5411.jpg)

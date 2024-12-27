@@ -7,6 +7,8 @@ path: /notes/liz/02-09-2016/photos-of-building-coquis-in-hong-kong.md
 nid: 12673
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/167/original/IMG_3581.JPG)

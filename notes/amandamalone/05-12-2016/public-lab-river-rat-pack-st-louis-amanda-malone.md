@@ -7,6 +7,8 @@ path: /notes/amandamalone/05-12-2016/public-lab-river-rat-pack-st-louis-amanda-m
 nid: 13109
 uid: 465991
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/129/original/IMG_1432.JPG)

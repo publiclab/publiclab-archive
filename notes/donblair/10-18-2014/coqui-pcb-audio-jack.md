@@ -7,6 +7,8 @@ path: /notes/donblair/10-18-2014/coqui-pcb-audio-jack.md
 nid: 11275
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/465/original/coqui-v1.0-front.png)

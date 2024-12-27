@@ -7,6 +7,8 @@ path: /notes/anishshah101/06-02-2014/gsoc-update-leaflet-draw-and-non-affine-tra
 nid: 10524
 uid: 421046
 
+cids: 9117,9118,9125,9126,9158,9177
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/503/original/draw-01.png)

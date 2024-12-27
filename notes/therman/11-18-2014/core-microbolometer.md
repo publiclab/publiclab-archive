@@ -7,6 +7,8 @@ path: /notes/therman/11-18-2014/core-microbolometer.md
 nid: 11366
 uid: 431635
 
+cids: 
+
 ---
 
 # core microbolometer

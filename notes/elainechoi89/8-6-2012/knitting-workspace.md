@@ -7,6 +7,8 @@ path: /notes/elainechoi89/8-6-2012/knitting-workspace.md
 nid: 3152
 uid: 6102
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/PFIZER STUDY.jpg)

@@ -7,6 +7,8 @@ path: /notes/patcoyle/6-4-2013/prototype-juice-bottle-rig-r-10-uair-quad.md
 nid: 8050
 uid: 77
 
+cids: 4942
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3432.JPG)

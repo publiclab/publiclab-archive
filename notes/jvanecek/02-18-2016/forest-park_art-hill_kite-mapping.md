@@ -7,6 +7,8 @@ path: /notes/jvanecek/02-18-2016/forest-park_art-hill_kite-mapping.md
 nid: 12709
 uid: 465990
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/382/original/IMG_0331.JPG)

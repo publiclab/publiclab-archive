@@ -7,6 +7,8 @@ path: /notes/markwh/11-19-2014/waterproof-housing-for-arduino-conductivity-meter
 nid: 11368
 uid: 428820
 
+cids: 10794,10799
+
 ---
 
 # Waterproof Housing for Arduino Conductivity Meter-- Part 2: results and other containers

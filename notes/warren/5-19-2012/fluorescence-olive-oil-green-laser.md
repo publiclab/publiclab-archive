@@ -7,6 +7,8 @@ path: /notes/warren/5-19-2012/fluorescence-olive-oil-green-laser.md
 nid: 2140
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1416.JPG)

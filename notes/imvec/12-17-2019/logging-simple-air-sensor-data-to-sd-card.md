@@ -7,6 +7,8 @@ path: /notes/imvec/12-17-2019/logging-simple-air-sensor-data-to-sd-card.md
 nid: 21786
 uid: 495038
 
+cids: 26055,26058
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/147/original/simpleair-openlog.jpg)

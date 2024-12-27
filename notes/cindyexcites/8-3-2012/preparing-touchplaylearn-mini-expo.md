@@ -7,6 +7,8 @@ path: /notes/cindyexcites/8-3-2012/preparing-touchplaylearn-mini-expo.md
 nid: 3123
 uid: 1083
 
+cids: 
+
 ---
 
 # preparing for the Touch|Play|Learn mini-Expo

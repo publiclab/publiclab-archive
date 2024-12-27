@@ -7,6 +7,8 @@ path: /notes/JSummers/08-28-2014/atlanta-maker-faire.md
 nid: 11084
 uid: 304279
 
+cids: 10140
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/488/original/MakerLogo.png)

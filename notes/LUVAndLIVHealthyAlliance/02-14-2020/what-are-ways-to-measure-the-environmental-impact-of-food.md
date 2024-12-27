@@ -7,6 +7,8 @@ path: /notes/LUVAndLIVHealthyAlliance/02-14-2020/what-are-ways-to-measure-the-en
 nid: 22815
 uid: 664756
 
+cids: 26327,26331,26332,26333,26336,26341,26349,26441,26442
+
 ---
 
 # What are ways to measure the environmental impact of food?

@@ -7,6 +7,8 @@ path: /notes/zaphit/10-31-2015/mapknitter-map-of-lunapark.md
 nid: 12345
 uid: 455939
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/231/original/Screen_Shot_2015-10-07_at_3.07.19_PM_2x.png)

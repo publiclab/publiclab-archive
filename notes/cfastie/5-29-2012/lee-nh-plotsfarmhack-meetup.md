@@ -7,6 +7,8 @@ path: /notes/cfastie/5-29-2012/lee-nh-plotsfarmhack-meetup.md
 nid: 2237
 uid: 554
 
+cids: 779,780,795,808,815,820
+
 ---
 
 ![](https://publiclab.org/sites/default/files/LeePlotGrpNDVIb.jpg)

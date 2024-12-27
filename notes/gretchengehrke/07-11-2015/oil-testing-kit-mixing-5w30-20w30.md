@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-11-2015/oil-testing-kit-mixing-5w30-20w30.md
 nid: 12050
 uid: 430549
 
+cids: 12218,12219
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/638/original/Screen_Shot_2015-07-11_at_3.49.17_PM.png)

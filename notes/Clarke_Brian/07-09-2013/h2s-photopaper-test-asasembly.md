@@ -7,6 +7,8 @@ path: /notes/Clarke_Brian/07-09-2013/h2s-photopaper-test-asasembly.md
 nid: 8760
 uid: 48632
 
+cids: 9208,17984
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/683/original/Photopaper3_18box.jpg)

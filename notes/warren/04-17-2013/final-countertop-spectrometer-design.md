@@ -7,6 +7,8 @@ path: /notes/warren/04-17-2013/final-countertop-spectrometer-design.md
 nid: 6878
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/072/original/1366222607453.jpg)

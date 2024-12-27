@@ -7,6 +7,8 @@ path: /notes/dbenjamin/09-04-2015/photo-reconstruction-from-kap-at-acacia-reserv
 nid: 12199
 uid: 444468
 
+cids: 12495,12496,12497
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/476/original/flux-setup.exe)

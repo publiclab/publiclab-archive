@@ -7,6 +7,8 @@ path: /notes/sara/7-11-2012/bayou-sauvage-results-1-problems-labeling-test-strip
 nid: 2762
 uid: 8
 
+cids: 1000,1001,1002,1003
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Test strip labels stuck on shipping material.jpeg)

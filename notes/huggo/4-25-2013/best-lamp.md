@@ -7,6 +7,8 @@ path: /notes/huggo/4-25-2013/best-lamp.md
 nid: 7051
 uid: 43581
 
+cids: 4548
+
 ---
 
 # Best Lamp

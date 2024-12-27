@@ -7,6 +7,8 @@ path: /notes/dldisha/10-27-2020/outreachy-proposal-public-lab-new-dashboard-impl
 nid: 24825
 uid: 568154
 
+cids: 27543,27544,27560,27561,27564,27565,28217
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/312/original/cover.jpg)

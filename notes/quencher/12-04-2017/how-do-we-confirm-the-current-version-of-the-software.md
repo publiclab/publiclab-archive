@@ -7,6 +7,8 @@ path: /notes/quencher/12-04-2017/how-do-we-confirm-the-current-version-of-the-so
 nid: 15295
 uid: 513456
 
+cids: 17875,17876,17888,22776
+
 ---
 
 # How do we confirm the current version of the software?

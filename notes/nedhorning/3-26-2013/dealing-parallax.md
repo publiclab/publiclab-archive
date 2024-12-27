@@ -7,6 +7,8 @@ path: /notes/nedhorning/3-26-2013/dealing-parallax.md
 nid: 6550
 uid: 133
 
+cids: 4239,4244,4259,4261,4263,4285,4289
+
 ---
 
 ![](https://publiclab.org/sites/default/files/kpm1_2.png)

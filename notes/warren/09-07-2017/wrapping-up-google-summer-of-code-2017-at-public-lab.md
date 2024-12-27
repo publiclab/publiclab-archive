@@ -7,6 +7,8 @@ path: /notes/warren/09-07-2017/wrapping-up-google-summer-of-code-2017-at-public-
 nid: 14847
 uid: 1
 
+cids: 17344
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/582/original/gsoc.jpg)

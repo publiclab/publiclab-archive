@@ -7,6 +7,8 @@ path: /notes/perfectytindia/04-22-2022/outreachy-proposal-design-a-new-full-scre
 nid: 30578
 uid: 795448
 
+cids: 30131
+
 ---
 
 # Outreachy proposal: Design a new full-screen UI for Infragram.org

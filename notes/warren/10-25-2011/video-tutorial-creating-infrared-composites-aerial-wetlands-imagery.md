@@ -7,6 +7,8 @@ path: /notes/warren/10-25-2011/video-tutorial-creating-infrared-composites-aeria
 nid: 519
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/barataria-nrg.jpg)

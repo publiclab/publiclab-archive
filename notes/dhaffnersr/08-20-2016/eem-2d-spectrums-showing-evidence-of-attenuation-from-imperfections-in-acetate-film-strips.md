@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-20-2016/eem-2d-spectrums-showing-evidence-of-attenuat
 nid: 13373
 uid: 461120
 
+cids: 15206
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/699/original/EEM_graph_09mm_slit_solux_4700k.png)

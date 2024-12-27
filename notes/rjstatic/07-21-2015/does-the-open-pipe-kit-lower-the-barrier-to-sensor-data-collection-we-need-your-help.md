@@ -7,6 +7,8 @@ path: /07-21-2015/does-the-open-pipe-kit-lower-the-barrier-to-sensor-data-collec
 nid: 12084
 uid: 174
 
+cids: 12723,17812
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/745/original/opk-steps.jpg)

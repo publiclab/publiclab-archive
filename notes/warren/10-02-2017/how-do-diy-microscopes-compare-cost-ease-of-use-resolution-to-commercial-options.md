@@ -7,6 +7,8 @@ path: /notes/warren/10-02-2017/how-do-diy-microscopes-compare-cost-ease-of-use-r
 nid: 14992
 uid: 1
 
+cids: 17487,22659,22787
+
 ---
 
 # How do DIY microscopes compare (cost, ease of use, resolution) to commercial options?

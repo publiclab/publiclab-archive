@@ -7,6 +7,8 @@ path: /notes/warren/9-18-2012/limited-steampunk-edition-spectrometer-photos.md
 nid: 3865
 uid: 1
 
+cids: 1358,1365,1367,1427
+
 ---
 
 ![](https://publiclab.org/sites/default/files/00.JPG)

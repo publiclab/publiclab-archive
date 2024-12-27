@@ -7,6 +7,8 @@ path: /notes/ektopyrotic/06-28-2020/analysis-of-dual-bandpass-ndvi-filters-using
 nid: 24053
 uid: 699450
 
+cids: 27070,31139
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/987/original/ScientificPlottingPython.png)

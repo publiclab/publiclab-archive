@@ -7,6 +7,8 @@ path: /notes/liz/02-25-2021/city-of-new-york-s-first-ever-environmental-justice-
 nid: 25803
 uid: 7
 
+cids: 29135
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/805/original/Screen_Shot_2021-02-25_at_10.07.30_AM.png)

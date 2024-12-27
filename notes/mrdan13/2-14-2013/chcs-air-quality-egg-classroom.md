@@ -7,6 +7,8 @@ path: /notes/mrdan13/2-14-2013/chcs-air-quality-egg-classroom.md
 nid: 5982
 uid: 50414
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Air Quality Egg Classroom Location_0.jpg)

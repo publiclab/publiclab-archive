@@ -7,6 +7,8 @@ path: /notes/warren/05-27-2013/infragram-camera-conversion-test.md
 nid: 7931
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/404/original/IMG_0521.JPG)

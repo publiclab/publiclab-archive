@@ -7,6 +7,8 @@ path: /notes/marfisistemidroni/11-06-2016/phantom-3-professional.md
 nid: 13683
 uid: 459185
 
+cids: 15782,16448,16450,16817,16818
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/727/original/DJI_0010.JPG)

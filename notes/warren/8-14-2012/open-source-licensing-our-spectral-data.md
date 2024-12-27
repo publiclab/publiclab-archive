@@ -7,6 +7,8 @@ path: /notes/warren/8-14-2012/open-source-licensing-our-spectral-data.md
 nid: 3288
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/sw-copyright.png)

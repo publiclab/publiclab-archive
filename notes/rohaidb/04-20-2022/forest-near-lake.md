@@ -7,6 +7,8 @@ path: /notes/rohaidb/04-20-2022/forest-near-lake.md
 nid: 30513
 uid: 792896
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/206/original/blob)

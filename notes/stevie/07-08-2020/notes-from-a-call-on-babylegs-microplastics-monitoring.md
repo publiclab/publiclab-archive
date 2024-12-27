@@ -7,6 +7,8 @@ path: /notes/stevie/07-08-2020/notes-from-a-call-on-babylegs-microplastics-monit
 nid: 24117
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/134/original/babylegs_plastic.jpg)

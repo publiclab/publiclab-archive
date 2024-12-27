@@ -7,6 +7,8 @@ path: /notes/brookepearce/10-27-2017/hydrogen-and-helium-50-50.md
 nid: 15117
 uid: 517046
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/116/original/image.jpeg)

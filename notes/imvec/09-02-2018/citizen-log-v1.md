@@ -7,6 +7,8 @@ path: /notes/imvec/09-02-2018/citizen-log-v1.md
 nid: 17038
 uid: 495038
 
+cids: 20561,21402,21403,21405
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/425/original/clog.png)

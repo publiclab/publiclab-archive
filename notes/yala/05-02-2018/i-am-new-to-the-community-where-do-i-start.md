@@ -7,6 +7,8 @@ path: /notes/yala/05-02-2018/i-am-new-to-the-community-where-do-i-start.md
 nid: 16283
 uid: 532941
 
+cids: 23086
+
 ---
 
 # I am new to the community, where do I start?

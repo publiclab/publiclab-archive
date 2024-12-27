@@ -7,6 +7,8 @@ path: /notes/david_uwi/04-25-2017/simple-data-logger.md
 nid: 14138
 uid: 469053
 
+cids: 16613,16617,16618,16619,16637,16675,16961,16971,17870,17871
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/196/original/dataloggerpic.JPG)

@@ -7,6 +7,8 @@ path: /notes/huslage/05-01-2013/resolving-barrel-distortion-on-a-gopro-hero3.md
 nid: 7192
 uid: 716
 
+cids: 4745,5420,11136
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/149/original/G0050166.jpg)

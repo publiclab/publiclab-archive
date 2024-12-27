@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/08-02-2017/how-do-you-account-for-signal-drift-with-
 nid: 14711
 uid: 430549
 
+cids: 25073
+
 ---
 
 # How do you account for signal drift with sensors in the field?

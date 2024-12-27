@@ -7,6 +7,8 @@ path: /notes/liz/03-19-2014/exchange-of-the-cags-gowanus-newtown.md
 nid: 10202
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/319/original/1-IMG_20140226_193546139.jpg)

@@ -7,6 +7,8 @@ path: /notes/eymund-diegel/12-16-2012/mapping-sewage-flows-gowanus-canal-after-s
 nid: 5220
 uid: 1016
 
+cids: 2752,2781,2822
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2012 December 15_balloon photography_sand mappers in Red Hook_IMG_4842_cropped.jpg)

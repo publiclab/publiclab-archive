@@ -7,6 +7,8 @@ path: /notes/warren/8-24-2011/video-soda-bottle-rig-mods-pat-coyle.md
 nid: 444
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/coyle-bottle-rig.png)

@@ -7,6 +7,8 @@ path: /notes/ryan_smythe/02-24-2015/a-quick-look-at-the-issues-with-sensor-journ
 nid: 11632
 uid: 434200
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/069/original/Screen_Shot_2015-02-23_at_7.38.00_PM.png)

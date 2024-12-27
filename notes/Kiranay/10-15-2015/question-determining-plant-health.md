@@ -7,6 +7,8 @@ path: /notes/Kiranay/10-15-2015/question-determining-plant-health.md
 nid: 12304
 uid: 454266
 
+cids: 12749,12752,12757,12758,12760,12761,12790,12925,12926,12927,12937,14486,14488,14489,14490,14491,14493,14502,14504,14505,14506,14507,14508,14528,14529,14530
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/956/original/frame013.jpg)

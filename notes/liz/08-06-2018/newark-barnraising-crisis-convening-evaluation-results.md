@@ -7,6 +7,8 @@ path: /notes/liz/08-06-2018/newark-barnraising-crisis-convening-evaluation-resul
 nid: 16835
 uid: 7
 
+cids: 20376
+
 ---
 
 # Newark Barnraising & Crisis Convening evaluation results

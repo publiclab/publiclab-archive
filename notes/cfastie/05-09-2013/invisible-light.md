@@ -7,6 +7,8 @@ path: /notes/cfastie/05-09-2013/invisible-light.md
 nid: 7341
 uid: 554
 
+cids: 4652,4679,4681,4684
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/197/original/Wratten-201337469.jpg)

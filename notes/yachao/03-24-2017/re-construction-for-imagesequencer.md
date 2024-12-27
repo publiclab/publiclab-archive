@@ -7,6 +7,8 @@ path: /notes/yachao/03-24-2017/re-construction-for-imagesequencer.md
 nid: 14053
 uid: 504397
 
+cids: 16442,16475,16484,16485,16497,16498,16499,16501,16506,16511,16529,16531,16532,16537
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/013/original/Drawing1.jpg)

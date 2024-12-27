@@ -7,6 +7,8 @@ path: /notes/profbraino/1-22-2013/getting-started.md
 nid: 5673
 uid: 48546
 
+cids: 
+
 ---
 
 # getting started

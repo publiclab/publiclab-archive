@@ -7,6 +7,8 @@ path: /notes/500swapnil/02-07-2018/social-media-integration.md
 nid: 15695
 uid: 503659
 
+cids: 18408,18441,18473,18489,18672,18673,18721,18732,19181,19194,19196,19199
+
 ---
 
 # GSoC proposal: Calendar Events and Graphs Integration

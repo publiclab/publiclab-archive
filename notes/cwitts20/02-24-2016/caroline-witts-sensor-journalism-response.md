@@ -7,6 +7,8 @@ path: /notes/cwitts20/02-24-2016/caroline-witts-sensor-journalism-response.md
 nid: 12728
 uid: 461484
 
+cids: 13720,13813,13815
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/547/original/undefined)

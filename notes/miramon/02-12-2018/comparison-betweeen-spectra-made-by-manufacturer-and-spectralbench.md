@@ -7,6 +7,8 @@ path: /notes/miramon/02-12-2018/comparison-betweeen-spectra-made-by-manufacturer
 nid: 15720
 uid: 523723
 
+cids: 19923,22923,23156
+
 ---
 
 # comparison betweeen spectra made by manufacturer and spectralbench?

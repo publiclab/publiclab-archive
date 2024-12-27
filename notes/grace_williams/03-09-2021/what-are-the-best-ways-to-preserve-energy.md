@@ -7,6 +7,8 @@ path: /notes/grace_williams/03-09-2021/what-are-the-best-ways-to-preserve-energy
 nid: 25880
 uid: 744105
 
+cids: 28322,28382,28604,29341,30249
+
 ---
 
 # What are the best ways to preserve energy?

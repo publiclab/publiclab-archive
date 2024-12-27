@@ -7,6 +7,8 @@ path: /10-2-2012/draft-ground-control-points-bayou-bienvenue.md
 nid: 4127
 uid: 379
 
+cids: 1546,1559,1594,1595,1596
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Green Slice control points example_0.png)

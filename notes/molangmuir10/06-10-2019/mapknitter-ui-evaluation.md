@@ -7,6 +7,8 @@ path: /notes/molangmuir10/06-10-2019/mapknitter-ui-evaluation.md
 nid: 19650
 uid: 589023
 
+cids: 24746,24756,24767,24777,24782
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/776/original/Screenshot_2019-06-10_at_11.01.36.png)

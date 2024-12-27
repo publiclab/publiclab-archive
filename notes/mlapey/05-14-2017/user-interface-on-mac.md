@@ -7,6 +7,8 @@ path: /notes/mlapey/05-14-2017/user-interface-on-mac.md
 nid: 14189
 uid: 507247
 
+cids: 16767,22508
+
 ---
 
 # User Interface on Mac

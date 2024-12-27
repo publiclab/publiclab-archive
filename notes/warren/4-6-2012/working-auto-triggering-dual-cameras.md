@@ -7,6 +7,8 @@ path: /notes/warren/4-6-2012/working-auto-triggering-dual-cameras.md
 nid: 1629
 uid: 1
 
+cids: 586
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-04-06 17.33.56b.jpg)

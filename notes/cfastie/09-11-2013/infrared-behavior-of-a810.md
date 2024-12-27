@@ -7,6 +7,8 @@ path: /notes/cfastie/09-11-2013/infrared-behavior-of-a810.md
 nid: 9313
 uid: 554
 
+cids: 6804,6808,6809,9663
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/476/original/NIRLED-226-29CU2.jpg)

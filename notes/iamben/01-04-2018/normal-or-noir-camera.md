@@ -7,6 +7,8 @@ path: /notes/iamben/01-04-2018/normal-or-noir-camera.md
 nid: 15456
 uid: 521175
 
+cids: 18754,18755,22819
+
 ---
 
 # normal or noIR camera?

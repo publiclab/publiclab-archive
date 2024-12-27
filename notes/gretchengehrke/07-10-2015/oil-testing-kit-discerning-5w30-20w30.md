@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-10-2015/oil-testing-kit-discerning-5w30-20w30.md
 nid: 12046
 uid: 430549
 
+cids: 12139,12725
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/622/original/Screen_Shot_2015-07-10_at_11.53.56_AM.png)

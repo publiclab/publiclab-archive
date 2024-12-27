@@ -7,6 +7,8 @@ path: /notes/subir/09-23-2019/sps30-instead-of-plantower-units.md
 nid: 20963
 uid: 622299
 
+cids: 25571,25574,25583,25584
+
 ---
 
 # SPS30 instead of PlanTower units?

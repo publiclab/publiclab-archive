@@ -7,6 +7,8 @@ path: /notes/liz/09-28-2016/diy-microscope-resources.md
 nid: 13503
 uid: 7
 
+cids: 18534
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/195/original/10-1371-journal-pone-0098781-g001.png)

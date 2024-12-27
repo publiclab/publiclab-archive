@@ -7,6 +7,8 @@ path: /notes/levi_hernan/02-15-2019/3d-printed-stereotactic-frame.md
 nid: 18367
 uid: 574483
 
+cids: 31038
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/343/original/marcorender.png)

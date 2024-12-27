@@ -7,6 +7,8 @@ path: /notes/warren/5-8-2012/2-9v-batteries-drive-555-timer.md
 nid: 1928
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-05-08 19.35.13.jpg)

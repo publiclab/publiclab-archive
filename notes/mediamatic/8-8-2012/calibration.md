@@ -7,6 +7,8 @@ path: /notes/mediamatic/8-8-2012/calibration.md
 nid: 3197
 uid: 40692
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-8-8-18-6.png)

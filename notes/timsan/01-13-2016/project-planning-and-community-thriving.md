@@ -7,6 +7,8 @@ path: /notes/timsan/01-13-2016/project-planning-and-community-thriving.md
 nid: 12581
 uid: 461538
 
+cids: 
+
 ---
 
 # Project planning and community thriving

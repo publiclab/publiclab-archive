@@ -7,6 +7,8 @@ path: /notes/warren/03-05-2014/yellow-smoke-plume-at-lawrence-point-queens.md
 nid: 10107
 uid: 1
 
+cids: 8416,8417,8418,8419,8421,8435
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/138/original/IMG_0807_copy.JPG)

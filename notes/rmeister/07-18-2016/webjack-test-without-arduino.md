@@ -7,6 +7,8 @@ path: /notes/rmeister/07-18-2016/webjack-test-without-arduino.md
 nid: 13296
 uid: 468994
 
+cids: 14960,14962,14963,14964,14965,14966,14967,14971,15118,15119,15120,15121,15122,15123,15126,15127,15132,15155,15156,15157,15158,15176,15187,17964
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/116/original/audio_crossover.jpg)

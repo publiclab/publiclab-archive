@@ -7,6 +7,8 @@ path: /notes/stevie/02-02-2018/what-types-of-slides-would-be-good-for-working-wi
 nid: 15669
 uid: 422561
 
+cids: 22958,22961
+
 ---
 
 # What types of slides would be good for working with the basic microscope? 

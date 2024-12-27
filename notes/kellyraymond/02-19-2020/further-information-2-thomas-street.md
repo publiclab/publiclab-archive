@@ -7,6 +7,8 @@ path: /notes/kellyraymond/02-19-2020/further-information-2-thomas-street.md
 nid: 22858
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (2 Thomas Street)

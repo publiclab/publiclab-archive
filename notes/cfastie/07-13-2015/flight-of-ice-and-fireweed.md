@@ -7,6 +7,8 @@ path: /notes/cfastie/07-13-2015/flight-of-ice-and-fireweed.md
 nid: 12058
 uid: 554
 
+cids: 12519,12520
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/660/original/AK_1815_2k.jpg)

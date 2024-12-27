@@ -7,6 +7,8 @@ path: /notes/Bronwen/11-20-2019/home-made-disaster-kit-plan-ahead-with-this-game
 nid: 21538
 uid: 237313
 
+cids: 25893,25897
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/643/original/IMG_20191120_112245.jpg)

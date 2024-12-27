@@ -7,6 +7,8 @@ path: /notes/Utiashvili/03-07-2017/mapknitter-map-of-chcc-g01.md
 nid: 13989
 uid: 503681
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/745/original/aaaa.JPG)

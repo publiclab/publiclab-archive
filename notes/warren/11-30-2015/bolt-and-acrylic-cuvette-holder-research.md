@@ -7,6 +7,8 @@ path: /notes/warren/11-30-2015/bolt-and-acrylic-cuvette-holder-research.md
 nid: 12462
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/093/original/2015-11-30T18_24_10.130Z.jpg)

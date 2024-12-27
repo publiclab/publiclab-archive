@@ -7,6 +7,8 @@ path: /notes/partsandcrafts/02-15-2018/2-attaching-your-raspberry-pi-camera-to-a
 nid: 15739
 uid: 66014
 
+cids: 18662,18748,18749,18751,18758,18837,18919,18920,18921,18922,19009,19985,28578,28987,29273
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/562/original/image21.jpg)

@@ -7,6 +7,8 @@ path: /notes/lach_myers/06-02-2018/set-up-cam-interface-on-rpi-zero-w-with-pi-ca
 nid: 16422
 uid: 425849
 
+cids: 19739,19740
+
 ---
 
 # Set up Cam interface on RPi zero w with Pi Cam 2

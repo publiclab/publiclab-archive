@@ -7,6 +7,8 @@ path: /notes/brentnewhall/12-26-2012/black-image-after-assembly.md
 nid: 5353
 uid: 45471
 
+cids: 2824,2827,2835,2852,2856,2944
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Spectrometer 9 inches from CFL_0.jpg)

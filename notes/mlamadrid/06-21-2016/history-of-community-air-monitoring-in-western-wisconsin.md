@@ -7,6 +7,8 @@ path: /notes/mlamadrid/06-21-2016/history-of-community-air-monitoring-in-western
 nid: 13217
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/694/original/P_20160520_153314_HDR_copy.jpg)

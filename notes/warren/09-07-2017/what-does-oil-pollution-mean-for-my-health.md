@@ -7,6 +7,8 @@ path: /notes/warren/09-07-2017/what-does-oil-pollution-mean-for-my-health.md
 nid: 14845
 uid: 1
 
+cids: 22583,30379
+
 ---
 
 # What does oil pollution mean for my health?

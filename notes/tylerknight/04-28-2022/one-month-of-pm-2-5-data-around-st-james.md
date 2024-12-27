@@ -7,6 +7,8 @@ path: /notes/tylerknight/04-28-2022/one-month-of-pm-2-5-data-around-st-james.md
 nid: 30637
 uid: 777566
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/546/original/Vacherie_April_6th.png)

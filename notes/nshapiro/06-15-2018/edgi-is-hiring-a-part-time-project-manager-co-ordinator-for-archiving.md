@@ -7,6 +7,8 @@ path: /notes/nshapiro/06-15-2018/edgi-is-hiring-a-part-time-project-manager-co-o
 nid: 16509
 uid: 380298
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/227/original/EDGI_Logo-Stacked_Web_1200x862-1024x736.jpg)

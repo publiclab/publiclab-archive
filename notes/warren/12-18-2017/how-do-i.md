@@ -7,6 +7,8 @@ path: /notes/warren/12-18-2017/how-do-i.md
 nid: 15393
 uid: 1
 
+cids: 23174
+
 ---
 
 # How can we detect contaminants in water samples with a DIY spectrometer using reagents?

@@ -7,6 +7,8 @@ path: /notes/stevie/07-23-2018/setting-up-barnraising-registration.md
 nid: 16774
 uid: 422561
 
+cids: 20213
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/857/original/Screen_Shot_2018-07-23_at_3.38.52_PM.png)

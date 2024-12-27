@@ -7,6 +7,8 @@ path: /notes/david-days/05-15-2016/search-service-system-design.md
 nid: 13118
 uid: 468341
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/192/original/GSoC_Search_Project_Goal.png)

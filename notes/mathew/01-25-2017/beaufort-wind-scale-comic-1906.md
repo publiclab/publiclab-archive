@@ -7,6 +7,8 @@ path: /notes/mathew/01-25-2017/beaufort-wind-scale-comic-1906.md
 nid: 13880
 uid: 4
 
+cids: 16102,16103,16104,17358
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/374/original/george_simpson_beaufort_scale_comic_title.png)

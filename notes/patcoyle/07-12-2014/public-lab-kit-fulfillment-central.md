@@ -7,6 +7,8 @@ path: /notes/patcoyle/07-12-2014/public-lab-kit-fulfillment-central.md
 nid: 10681
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/227/original/IMG_4753.JPG)

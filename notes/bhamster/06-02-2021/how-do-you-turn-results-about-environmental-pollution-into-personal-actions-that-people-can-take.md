@@ -7,6 +7,8 @@ path: /notes/bhamster/06-02-2021/how-do-you-turn-results-about-environmental-pol
 nid: 26775
 uid: 664477
 
+cids: 28886,28895
+
 ---
 
 # How do you turn results about environmental pollution into personal actions that people can take?

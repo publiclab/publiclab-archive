@@ -7,6 +7,8 @@ path: /notes/Sonia_2000/04-22-2020/what-is-the-actual-yield-of-a-precipitation-r
 nid: 23453
 uid: 686252
 
+cids: 26749
+
 ---
 
 # What is the actual yield of a precipitation reaction between 1.50 grams sodium carbonate and 2.50 g of calcium chloride?

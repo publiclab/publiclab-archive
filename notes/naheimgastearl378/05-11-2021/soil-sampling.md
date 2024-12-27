@@ -7,6 +7,8 @@ path: /notes/naheimgastearl378/05-11-2021/soil-sampling.md
 nid: 26555
 uid: 754790
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/755/original/MicrosoftTeams-image_%281%29.png)

@@ -7,6 +7,8 @@ path: /7-23-2012/uv-detection-oil-corexit-gulf-beaches.md
 nid: 2931
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/GC-Sturdivant-2.jpg)

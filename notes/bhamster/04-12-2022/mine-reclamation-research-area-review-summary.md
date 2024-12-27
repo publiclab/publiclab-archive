@@ -7,6 +7,8 @@ path: /notes/bhamster/04-12-2022/mine-reclamation-research-area-review-summary.m
 nid: 30350
 uid: 664477
 
+cids: 29985
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/687/original/Reclamation_RAR_screenshot.png)

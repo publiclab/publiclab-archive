@@ -7,6 +7,8 @@ path: /notes/klie/09-14-2015/homebrew-fellowship-application-spectrometer-intens
 nid: 12214
 uid: 441262
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/566/original/Spectrometer_Intensity_Callibration.png)

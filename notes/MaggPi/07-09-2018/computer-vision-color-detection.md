@@ -7,6 +7,8 @@ path: /notes/MaggPi/07-09-2018/computer-vision-color-detection.md
 nid: 16663
 uid: 501996
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/532/original/star_with_color.png)

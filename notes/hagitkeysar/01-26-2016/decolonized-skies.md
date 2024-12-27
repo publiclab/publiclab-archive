@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/01-26-2016/decolonized-skies.md
 nid: 12622
 uid: 152
 
+cids: 13405,13408,13409,13433,13442,13465,13466,13472,13510,25008,25069,25091,25093,25095
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/867/original/DSCN5900.JPG)

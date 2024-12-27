@@ -7,6 +7,8 @@ path: /notes/warren/4-28-2011/cheap-uv-photos-using-uv-pass-filter-cmos-camera.m
 nid: 201
 uid: 1
 
+cids: 241,242,243,301,324
+
 ---
 
 ![](https://publiclab.org/sites/default/files/5665058986_cb54471389_o.jpg)

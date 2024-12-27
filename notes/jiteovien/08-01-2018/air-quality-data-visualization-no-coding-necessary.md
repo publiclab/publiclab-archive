@@ -7,6 +7,8 @@ path: /notes/jiteovien/08-01-2018/air-quality-data-visualization-no-coding-neces
 nid: 16826
 uid: 540008
 
+cids: 20252,20253,20262,31332
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/007/original/aqi_image.png)

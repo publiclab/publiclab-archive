@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/03-04-2022/edwight-and-shumate-3-4-22.md
 nid: 30099
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/463/original/birchtonSunny.00_03_47_03.Still001.jpg)

@@ -7,6 +7,8 @@ path: /notes/asnow/05-14-2018/will-this-single-timer-work-for-the-coqui.md
 nid: 16348
 uid: 515746
 
+cids: 19638,19639,19640,19641,23091
+
 ---
 
 # Will this single timer work for the coqui?

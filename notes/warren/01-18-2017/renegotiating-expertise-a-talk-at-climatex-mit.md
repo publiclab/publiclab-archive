@@ -7,6 +7,8 @@ path: /notes/warren/01-18-2017/renegotiating-expertise-a-talk-at-climatex-mit.md
 nid: 13863
 uid: 1
 
+cids: 16086,16136,16137,16138
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/307/original/Screenshot_2017-01-18_at_4.56.54_PM.png)

@@ -7,6 +7,8 @@ path: /notes/lperovich/08-30-2015/more-dock-data.md
 nid: 12186
 uid: 443410
 
+cids: 12501
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/342/original/8.28.15.jpg)

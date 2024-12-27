@@ -7,6 +7,8 @@ path: /notes/dbsnp/03-17-2019/a-card-game-approach-to-community-mapping.md
 nid: 18745
 uid: 543056
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/156/original/IMG_20180830_183747.jpg)

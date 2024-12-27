@@ -7,6 +7,8 @@ path: /notes/natematias/01-14-2023/creating-a-videocamera-for-passive-dust-colle
 nid: 38041
 uid: 829981
 
+cids: 30834,30836,30847,30855,30860,30861,30958,30959,31019,31097,31171,31270,31343,31504,31505,31506,31507,31508,31509,31511,31513,31514,31515
+
 ---
 
 # Creating a "videocamera" for passive dust collection over time?

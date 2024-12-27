@@ -7,6 +7,8 @@ path: /notes/mimiss/04-27-2021/webinar-community-science-local-knowledge-and-sci
 nid: 26374
 uid: 579821
 
+cids: 30908,31204,31317
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/505/original/Coalition_Webinar_2021_CommSci_FB.png)

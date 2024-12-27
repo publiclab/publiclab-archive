@@ -7,6 +7,8 @@ path: /notes/jnakos/10-04-2018/spectralworkbench-fails-to-recognize-camera.md
 nid: 17216
 uid: 553473
 
+cids: 20831,20884
+
 ---
 
 # spectralworkbench fails to recognize camera

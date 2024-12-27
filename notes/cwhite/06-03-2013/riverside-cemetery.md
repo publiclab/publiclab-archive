@@ -7,6 +7,8 @@ path: /notes/cwhite/06-03-2013/riverside-cemetery.md
 nid: 8033
 uid: 100817
 
+cids: 4936
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/470/original/rscweb.JPG)

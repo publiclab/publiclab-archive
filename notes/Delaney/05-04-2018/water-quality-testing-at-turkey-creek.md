@@ -7,6 +7,8 @@ path: /notes/Delaney/05-04-2018/water-quality-testing-at-turkey-creek.md
 nid: 16299
 uid: 517173
 
+cids: 19555,19556,19759
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/825/original/20180501_162216_preview.jpg)

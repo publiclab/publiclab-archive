@@ -7,6 +7,8 @@ path: /notes/liz/1-31-2013/dart-balloon-1967.md
 nid: 5831
 uid: 7
 
+cids: 3267
+
 ---
 
 ![](https://publiclab.org/sites/default/files/theb2769.jpg)

@@ -7,6 +7,8 @@ path: /notes/liz/10-15-2019/environmental-bounty-hunting-on-idling-commercial-ve
 nid: 21170
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/752/original/Screen_Shot_2019-10-15_at_9.51.03_AM.png)

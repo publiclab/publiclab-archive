@@ -7,6 +7,8 @@ path: /notes/warren/09-08-2017/how-do-i-share-lots-gigabytes-or-thousands-of-pho
 nid: 14862
 uid: 1
 
+cids: 22586
+
 ---
 
 # How do I share lots (gigabytes, or thousands) of photos online, cheaply and easily?

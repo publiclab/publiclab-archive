@@ -7,6 +7,8 @@ path: /notes/stevie/12-02-2016/how-do-environmental-monitoring-methods-become-re
 nid: 13738
 uid: 422561
 
+cids: 15942,15950,22376,22402
+
 ---
 
 # How do environmental monitoring methods become recognized or official by US regulatory agencies? 

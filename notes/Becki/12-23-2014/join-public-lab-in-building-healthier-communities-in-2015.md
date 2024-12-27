@@ -7,6 +7,8 @@ path: /notes/Becki/12-23-2014/join-public-lab-in-building-healthier-communities-
 nid: 11495
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/528/original/Barnraising_Group_Shot_Fall_2014.jpg)

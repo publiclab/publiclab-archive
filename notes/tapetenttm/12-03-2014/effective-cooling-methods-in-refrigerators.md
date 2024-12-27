@@ -7,6 +7,8 @@ path: /notes/tapetenttm/12-03-2014/effective-cooling-methods-in-refrigerators.md
 nid: 11432
 uid: 432297
 
+cids: 10892,10893
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/252/original/Fridge_4.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/10-26-2011/francisca-rojas-transparency-policy-project-plots
 nid: 520
 uid: 1
 
+cids: 
+
 ---
 
 # Francisca Rojas of Transparency Policy Project on PLOTS

@@ -7,6 +7,8 @@ path: /notes/cfastie/01-27-2016/the-jerkpan.md
 nid: 12624
 uid: 554
 
+cids: 13419,13420,13421,13422,13426
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/889/original/JP_LS_41o41_2kHorz.jpg)

@@ -7,6 +7,8 @@ path: /notes/incaking/12-01-2017/hi-this-looks-awesome-do-you-have-a-link-to-the
 nid: 15283
 uid: 519451
 
+cids: 
+
 ---
 
 # Hi, this looks awesome! Do you have a link to the Arduino sketch (.ino) file you've used?

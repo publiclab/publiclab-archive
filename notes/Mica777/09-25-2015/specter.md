@@ -7,6 +7,8 @@ path: /notes/Mica777/09-25-2015/specter.md
 nid: 12243
 uid: 452576
 
+cids: 
+
 ---
 
 # Specter

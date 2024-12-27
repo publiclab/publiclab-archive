@@ -7,6 +7,8 @@ path: /notes/kgradow1/06-16-2020/updated-list-of-epa-to-methods.md
 nid: 23867
 uid: 297929
 
+cids: 27038
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/812/original/Screen_Shot_2020-06-16_at_5.15.26_PM.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/08-11-2013/garden-pap-map.md
 nid: 8988
 uid: 554
 
+cids: 6626,6721
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/093/original/PoleGarden-13-08-10-183-45.jpg)

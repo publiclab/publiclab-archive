@@ -7,6 +7,8 @@ path: /notes/bhamster/01-25-2021/research-area-review-on-soil-events.md
 nid: 25533
 uid: 664477
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/498/original/Soil_samples_w_lead.jpg)

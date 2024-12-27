@@ -7,6 +7,8 @@ path: /notes/StwartMad/03-11-2021/is-the-ir-wavelength-in-spectral-workbench-mea
 nid: 25896
 uid: 740106
 
+cids: 28336,28357,28358,28359
+
 ---
 
 # Is the ir wavelength in spectral workbench measured in nm or cm?

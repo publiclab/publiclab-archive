@@ -7,6 +7,8 @@ path: /notes/stevie/01-04-2021/what-is-the-petition-process-to-the-epa-and-what-
 nid: 25410
 uid: 422561
 
+cids: 27891
+
 ---
 
 # What is the petition process to the EPA? And what are the criteria for a strong petition? 

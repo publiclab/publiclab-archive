@@ -7,6 +7,8 @@ path: /notes/warren/10-28-2013/spectral-workbench-offline.md
 nid: 9677
 uid: 1
 
+cids: 7544,7545
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/071/original/offline.png)

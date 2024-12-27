@@ -7,6 +7,8 @@ path: /notes/yuvalsh/01-06-2018/how-do-i-overlay-a-north-to-south-aerial-image-o
 nid: 15469
 uid: 435221
 
+cids: 18126,18138,18146,18162
+
 ---
 
 # How do i overlay a north to south aerial image on a digital map? 

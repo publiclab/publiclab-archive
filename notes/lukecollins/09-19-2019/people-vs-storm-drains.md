@@ -7,6 +7,8 @@ path: /notes/lukecollins/09-19-2019/people-vs-storm-drains.md
 nid: 20928
 uid: 618898
 
+cids: 25550,29320
+
 ---
 
 # People Vs. Storm Drains

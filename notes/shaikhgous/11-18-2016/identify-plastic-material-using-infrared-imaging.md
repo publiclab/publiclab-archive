@@ -7,6 +7,8 @@ path: /notes/shaikhgous/11-18-2016/identify-plastic-material-using-infrared-imag
 nid: 13711
 uid: 497478
 
+cids: 17570
+
 ---
 
 # Identify Plastic Material Using Infrared Imaging

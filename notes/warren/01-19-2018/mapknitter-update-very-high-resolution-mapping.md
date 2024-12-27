@@ -7,6 +7,8 @@ path: /notes/warren/01-19-2018/mapknitter-update-very-high-resolution-mapping.md
 nid: 15568
 uid: 1
 
+cids: 18224,30757
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/273/original/Screenshot_2018-01-05_at_2.01.47_PM.png)

@@ -7,6 +7,8 @@ path: /notes/liz/03-08-2018/schedule-grid-for-appalachian-barnraising-2017.md
 nid: 15891
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/910/original/IMG_20170624_125923_729.jpg)

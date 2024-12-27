@@ -7,6 +7,8 @@ path: /notes/donblair/01-14-2014/first-wireless-transmission-mchck-to-mchck.md
 nid: 9940
 uid: 43651
 
+cids: 8037,8038,8039,8042
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/530/original/wireless1.png)

@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-387-charles-street.md
 nid: 23044
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (387 Charles Street)

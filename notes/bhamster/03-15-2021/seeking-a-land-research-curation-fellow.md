@@ -7,6 +7,8 @@ path: /notes/bhamster/03-15-2021/seeking-a-land-research-curation-fellow.md
 nid: 25924
 uid: 664477
 
+cids: 29033,29034,29294,29556,30219,30801,30966,30967
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/954/original/Public_Lab_Letterhead_blank.png)

@@ -7,6 +7,8 @@ path: /notes/warren/07-05-2013/new-foldable-spectrometer-packaging.md
 nid: 8696
 uid: 1
 
+cids: 6118
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/642/original/IMG_0077_copy.JPG)

@@ -7,6 +7,8 @@ path: /notes/donblair/04-07-2014/open-lux.md
 nid: 10274
 uid: 43651
 
+cids: 8693,8698
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/535/original/open-lux-design.png)

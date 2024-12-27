@@ -7,6 +7,8 @@ path: /notes/warren/12-09-2019/my-upcoming-transition.md
 nid: 21706
 uid: 1
 
+cids: 25987,26232,26238,26256
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/948/original/IMG_20191203_133516.jpg)

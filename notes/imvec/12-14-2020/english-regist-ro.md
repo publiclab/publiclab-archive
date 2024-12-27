@@ -7,6 +7,8 @@ path: /notes/imvec/12-14-2020/english-regist-ro.md
 nid: 25252
 uid: 495038
 
+cids: 27800,27806,27823,27827,27838
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/015/original/front.png)

@@ -7,6 +7,8 @@ path: /1-10-2013/cognitive-delineation-publiclab-photography.md
 nid: 5538
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/PLOTS delineation barataria.png)

@@ -7,6 +7,8 @@ path: /notes/dbenjamin/09-18-2015/ir-photo-reconstruction-at-acacia-reservation.
 nid: 12227
 uid: 444468
 
+cids: 12559,12568,12570,14438,14440
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/627/original/IMG_2870.JPG)

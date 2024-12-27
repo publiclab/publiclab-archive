@@ -7,6 +7,8 @@ path: /notes/marinaraHQ/03-10-2022/monitoring-high-rise-construction-on-a-state-
 nid: 30116
 uid: 791074
 
+cids: 29809
+
 ---
 
 # Monitoring High-Rise Construction on a State Remediation Site

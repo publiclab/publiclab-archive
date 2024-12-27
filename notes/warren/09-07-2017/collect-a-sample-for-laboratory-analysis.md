@@ -7,6 +7,8 @@ path: /notes/warren/09-07-2017/collect-a-sample-for-laboratory-analysis.md
 nid: 14843
 uid: 1
 
+cids: 17341,18325
+
 ---
 
 # Draft: Collect a sample for laboratory analysis

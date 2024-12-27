@@ -7,6 +7,8 @@ path: /notes/imvec/11-10-2018/community-microscope-laser-cut-file.md
 nid: 17503
 uid: 495038
 
+cids: 21204,21317,21324,21355
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/577/original/IMG_20181110_125518.jpg)

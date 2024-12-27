@@ -7,6 +7,8 @@ path: /notes/OBartolik/05-15-2021/oven-spec.md
 nid: 26600
 uid: 755841
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/822/original/Oven_Spec.jpg)

@@ -7,6 +7,8 @@ path: /notes/MaggPi/05-14-2018/is-there-a-way-to-use-the-rgb-spectral-overlap-to
 nid: 16339
 uid: 501996
 
+cids: 19642,19644
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/938/original/spectra_rgb.jpg)

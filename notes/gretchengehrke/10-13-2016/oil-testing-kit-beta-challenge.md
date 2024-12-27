@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/10-13-2016/oil-testing-kit-beta-challenge.md
 nid: 13561
 uid: 430549
 
+cids: 15674,15688
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/402/original/OTK_image.jpg)

@@ -7,6 +7,8 @@ path: /notes/Suiris/08-06-2013/filtered-tap-h2o-vs-unfiltered-tap-h20-graph-comp
 nid: 8965
 uid: 170375
 
+cids: 6518,6519,6520,6533,6536,6548,6571,6607,6608,6610,6611,6612,6623,6624,12419
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/036/original/comparison.png)

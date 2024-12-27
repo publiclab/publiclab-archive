@@ -7,6 +7,8 @@ path: /notes/manueldun/10-04-2018/how-was-the-frequency-response-graph-interpret
 nid: 17220
 uid: 553569
 
+cids: 23243
+
 ---
 
 # How was the frequency response graph interpreted in @cfastie blogpost, and how the computation of the NDVI was derived?

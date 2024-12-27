@@ -7,6 +7,8 @@ path: /notes/mathew/05-10-2014/illustrating-infragram-point-shoot-instructions.m
 nid: 10460
 uid: 4
 
+cids: 9232,9233,9313,9357,9410,10095,10102,10104,10105
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/211/original/Screen_Shot_2014-05-09_at_5.27.34_PM.png)

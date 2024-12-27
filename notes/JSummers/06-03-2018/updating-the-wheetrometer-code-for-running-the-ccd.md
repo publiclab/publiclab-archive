@@ -7,6 +7,8 @@ path: /notes/JSummers/06-03-2018/updating-the-wheetrometer-code-for-running-the-
 nid: 16427
 uid: 304279
 
+cids: 19756,19782,19847,19850,19862,19863,19870,19874,19878,19984
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/083/original/CCD1.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/09-25-2017/does-anyone-have-a-flir-optical-gas-imaging-camer
 nid: 14949
 uid: 1
 
+cids: 22636
+
 ---
 
 # Does anyone have a FLIR Optical Gas Imaging camera to lend to help a community find gas leaks?

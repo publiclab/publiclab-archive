@@ -7,6 +7,8 @@ path: /notes/mathew/08-03-2014/state-of-the-science-the-oil-testing-kit.md
 nid: 11010
 uid: 4
 
+cids: 9755,10330,11026
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/822/original/Screen_Shot_2014-08-03_at_1.29.22_PM.png)

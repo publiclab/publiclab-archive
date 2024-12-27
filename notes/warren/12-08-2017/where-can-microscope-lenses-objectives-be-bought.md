@@ -7,6 +7,8 @@ path: /notes/warren/12-08-2017/where-can-microscope-lenses-objectives-be-bought.
 nid: 15334
 uid: 1
 
+cids: 17919,17922,18249,18250,18251,18252,18254,18255,19300,19326,22795,22867,22959,23054
+
 ---
 
 # Where can microscope lenses (objectives) be bought?

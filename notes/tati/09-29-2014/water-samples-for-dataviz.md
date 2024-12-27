@@ -7,6 +7,8 @@ path: /notes/tati/09-29-2014/water-samples-for-dataviz.md
 nid: 11200
 uid: 428062
 
+cids: 10457,10460
+
 ---
 
 # Water Samples for DataViz

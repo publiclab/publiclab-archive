@@ -7,6 +7,8 @@ path: /notes/safidy/5-30-2012/improve-sharpness-and-detail-your-photos.md
 nid: 2257
 uid: 898
 
+cids: 971,975,976
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Before After High-Pass filter_1.jpg)

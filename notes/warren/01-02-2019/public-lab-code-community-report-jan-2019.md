@@ -7,6 +7,8 @@ path: /notes/warren/01-02-2019/public-lab-code-community-report-jan-2019.md
 nid: 18039
 uid: 1
 
+cids: 21606,21607,21613,21644
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/574/original/Screenshot_2019-01-01_at_11.17.36_PM.png)

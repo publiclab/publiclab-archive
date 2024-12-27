@@ -7,6 +7,8 @@ path: /notes/warren/02-02-2014/public-lab-community-newsletter-2-01-14.md
 nid: 10002
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/721/original/mystic-river.jpg)

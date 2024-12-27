@@ -7,6 +7,8 @@ path: /notes/wmacfarl/11-11-2019/building-the-simple-turbidity-sensor-prototype.
 nid: 21441
 uid: 424597
 
+cids: 25877,25878,25880,25882,25883,25884,25885,25886,25889,25894,25896,25898
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/336/original/IMG_20191110_202710_%282%29.jpg)

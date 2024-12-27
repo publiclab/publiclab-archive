@@ -7,6 +7,8 @@ path: /notes/purpleairfan/10-04-2021/are-real-time-pm-2-5-push-warnings-from-the
 nid: 27829
 uid: 774511
 
+cids: 29303,29304,29369,29463,29473,29940
+
 ---
 
 # are real-time PM 2.5 push warnings from the PurpleAir possible?

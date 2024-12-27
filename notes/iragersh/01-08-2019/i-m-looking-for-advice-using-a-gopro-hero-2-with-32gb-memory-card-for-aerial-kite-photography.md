@@ -7,6 +7,8 @@ path: /notes/iragersh/01-08-2019/i-m-looking-for-advice-using-a-gopro-hero-2-wit
 nid: 18074
 uid: 557258
 
+cids: 21673,23306
+
 ---
 
 # I'm looking for advice using a gopro hero 2 with 32gb memory card for aerial kite photography.

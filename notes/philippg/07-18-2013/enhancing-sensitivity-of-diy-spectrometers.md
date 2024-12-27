@@ -7,6 +7,8 @@ path: /notes/philippg/07-18-2013/enhancing-sensitivity-of-diy-spectrometers.md
 nid: 8906
 uid: 121462
 
+cids: 6338,6339,6342,6431,7210
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/839/original/averaging.png)

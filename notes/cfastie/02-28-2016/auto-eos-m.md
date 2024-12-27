@@ -7,6 +7,8 @@ path: /notes/cfastie/02-28-2016/auto-eos-m.md
 nid: 12757
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/607/original/EOSIR-731-8.jpg)

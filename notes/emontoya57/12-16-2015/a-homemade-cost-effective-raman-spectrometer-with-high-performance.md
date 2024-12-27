@@ -7,6 +7,8 @@ path: /notes/emontoya57/12-16-2015/a-homemade-cost-effective-raman-spectrometer-
 nid: 12522
 uid: 422031
 
+cids: 13161,13163,13164,13169,13171,13178,14080,14082,14083,14086,16008,18432,18437,18439,21807,21821,21825
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/351/original/main_picture.jpg)

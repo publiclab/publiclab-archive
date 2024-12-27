@@ -7,6 +7,8 @@ path: /notes/icode365/03-02-2019/soc-proposal.md
 nid: 18450
 uid: 553778
 
+cids: 22021,22024,22178,22179,22198,22201,22202,22241,23327,23555,23561,23648,23726,23730,23738,23783
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/701/original/Screenshot_from_2019-03-02_17-56-47.png)

@@ -7,6 +7,8 @@ path: /notes/warren/11-16-2017/can-we-create-a-guide-or-set-of-guides-to-interpr
 nid: 15196
 uid: 1
 
+cids: 17721,17727,22730
+
 ---
 
 # Can we create a guide or set of guides to interpreting infrared or NDVI images?

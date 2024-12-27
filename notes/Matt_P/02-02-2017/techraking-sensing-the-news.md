@@ -7,6 +7,8 @@ path: /notes/Matt_P/02-02-2017/techraking-sensing-the-news.md
 nid: 13897
 uid: 343508
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/420/original/Screenshot_%28211%29.png)

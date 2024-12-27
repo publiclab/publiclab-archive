@@ -7,6 +7,8 @@ path: /notes/Abdulhakeem0801/11-12-2017/please-tell-me.md
 nid: 15176
 uid: 518115
 
+cids: 17747,22745
+
 ---
 
 # What software can i use to view Wheestat data?

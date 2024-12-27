@@ -7,6 +7,8 @@ path: /notes/Lalithr95/08-26-2016/gsoc-2016-final-outcome-of-rich-profile-tags-i
 nid: 13396
 uid: 468698
 
+cids: 15233,15234,15236,15244,28316
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/768/original/rich_profile.png)

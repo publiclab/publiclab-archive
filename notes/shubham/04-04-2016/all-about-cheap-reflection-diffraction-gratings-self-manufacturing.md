@@ -7,6 +7,8 @@ path: /notes/shubham/04-04-2016/all-about-cheap-reflection-diffraction-gratings-
 nid: 12917
 uid: 460486
 
+cids: 14122,14133,14803,14828
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/345/original/Electricity_board_prototype.jpg)

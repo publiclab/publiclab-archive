@@ -7,6 +7,8 @@ path: /notes/imvec/04-29-2020/jam-3-hacking-ecology.md
 nid: 23506
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/225/original/hackecot.jpg)

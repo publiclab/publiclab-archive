@@ -7,6 +7,8 @@ path: /notes/amysoyka/02-19-2015/the-story-of-the-stoney-creek-part-1.md
 nid: 11607
 uid: 422627
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/028/original/IMG_20140212_155304.jpg)

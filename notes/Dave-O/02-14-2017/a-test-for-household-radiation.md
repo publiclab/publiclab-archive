@@ -7,6 +7,8 @@ path: /notes/Dave-O/02-14-2017/a-test-for-household-radiation.md
 nid: 13928
 uid: 502943
 
+cids: 16208
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/952/original/dosimetry_service_badges.png)

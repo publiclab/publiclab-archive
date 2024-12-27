@@ -7,6 +7,8 @@ path: /notes/MadTinker/07-31-2017/willow-creek-water-quality-monitoring.md
 nid: 14702
 uid: 461206
 
+cids: 17146,17147,17157,17159,17168,17187,17250,17426,17427
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/236/original/IMG_7302.jpg)

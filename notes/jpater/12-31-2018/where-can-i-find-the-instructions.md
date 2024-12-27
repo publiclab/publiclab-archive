@@ -7,6 +7,8 @@ path: /notes/jpater/12-31-2018/where-can-i-find-the-instructions.md
 nid: 18030
 uid: 567478
 
+cids: 21610,21612,21615,21621
+
 ---
 
 # Where can I find the instructions?

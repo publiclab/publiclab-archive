@@ -7,6 +7,8 @@ path: /notes/stevie/04-30-2018/mapping-turkey-creek-gulfport-ms.md
 nid: 16273
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/786/original/20180314_163423.jpg)

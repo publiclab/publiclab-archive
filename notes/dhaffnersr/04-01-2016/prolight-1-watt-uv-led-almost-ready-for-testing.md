@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-01-2016/prolight-1-watt-uv-led-almost-ready-for-testi
 nid: 12902
 uid: 461120
 
+cids: 14088,14089,14090,14097,14098,14099,14105,14127,14129,14130,14134,14195,14196,14234,14243,14249,14257
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/272/original/circuit_in_operation.JPG)

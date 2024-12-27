@@ -7,6 +7,8 @@ path: /notes/souravirus/08-09-2018/gsoc-2018-rails-5-upgrade.md
 nid: 16901
 uid: 524509
 
+cids: 20362,20364
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/139/original/rails5upgrade.png)

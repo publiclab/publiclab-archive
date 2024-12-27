@@ -7,6 +7,8 @@ path: /notes/edie_blues/01-29-2019/do-you-like-this-design-for-keeping-track-of-
 nid: 18200
 uid: 552521
 
+cids: 21812,21814,21818,21819,21820,21838,21957
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/076/original/projects_v3.png)

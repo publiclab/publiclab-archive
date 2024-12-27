@@ -7,6 +7,8 @@ path: /notes/stevie/12-19-2017/what-s-the-best-way-to-take-a-sample-of-snow-to-l
 nid: 15395
 uid: 422561
 
+cids: 17997
+
 ---
 
 # What is the best way to take a sample of snow to look for particulates? 

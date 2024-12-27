@@ -7,6 +7,8 @@ path: /notes/cfastie/11-12-2013/red-filter-rising.md
 nid: 9769
 uid: 554
 
+cids: 7528,7531,7554,7556,7581,7584,7983,7989,8150,8152,8153,11611,11612,11626,12071
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/194/original/2200W25A-272-25NNR.jpg)

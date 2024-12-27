@@ -7,6 +7,8 @@ path: /notes/mmkeeley/10-24-2018/classroom-lights.md
 nid: 17381
 uid: 556288
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/194/original/71995EC2-6E03-4727-AFF0-627833195616.jpeg)

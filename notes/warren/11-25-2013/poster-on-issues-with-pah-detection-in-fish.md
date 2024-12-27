@@ -7,6 +7,8 @@ path: /notes/warren/11-25-2013/poster-on-issues-with-pah-detection-in-fish.md
 nid: 9826
 uid: 1
 
+cids: 9590,10040
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/321/original/edwin-pah-fish.jpg)

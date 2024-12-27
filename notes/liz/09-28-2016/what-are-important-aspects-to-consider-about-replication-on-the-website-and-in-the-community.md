@@ -7,6 +7,8 @@ path: /notes/liz/09-28-2016/what-are-important-aspects-to-consider-about-replica
 nid: 13500
 uid: 7
 
+cids: 15537,15543,15559,22314,22315,22316,22318,22320,22321
+
 ---
 
 # What are important aspects to consider about replication on the website and in the community?

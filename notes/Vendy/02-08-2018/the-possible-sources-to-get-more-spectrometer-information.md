@@ -7,6 +7,8 @@ path: /notes/Vendy/02-08-2018/the-possible-sources-to-get-more-spectrometer-info
 nid: 15706
 uid: 524682
 
+cids: 18454,22916,22917
+
 ---
 
 # the possible sources to get more spectrometer information 

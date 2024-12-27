@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/11-13-2017/best-plab-demo-ideas-for-a-large-group.md
 nid: 15177
 uid: 459085
 
+cids: 17711,22719,22721,22726,22727
+
 ---
 
 # Best PLab demo ideas for a large group?

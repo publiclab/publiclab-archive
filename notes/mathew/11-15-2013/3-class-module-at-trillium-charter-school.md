@@ -7,6 +7,8 @@ path: /notes/mathew/11-15-2013/3-class-module-at-trillium-charter-school.md
 nid: 9782
 uid: 4
 
+cids: 7595,7645
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/231/original/10866143594_c1c8101e29_b.jpg)

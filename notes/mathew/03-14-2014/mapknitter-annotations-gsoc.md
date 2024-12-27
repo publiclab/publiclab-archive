@@ -7,6 +7,8 @@ path: /notes/mathew/03-14-2014/mapknitter-annotations-gsoc.md
 nid: 10181
 uid: 4
 
+cids: 8516,8522,8523,8524,8530
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/256/original/bayou_manchac_sewer_outful.jpg)

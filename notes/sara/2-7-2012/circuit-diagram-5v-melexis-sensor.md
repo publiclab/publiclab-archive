@@ -7,6 +7,8 @@ path: /notes/sara/2-7-2012/circuit-diagram-5v-melexis-sensor.md
 nid: 762
 uid: 8
 
+cids: 519,520,525,532,533,4812,5228
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 3_4.png)

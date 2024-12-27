@@ -7,6 +7,8 @@ path: /notes/mathew/11-15-2012/barnraising-oil-response-toolkit-brainstorm.md
 nid: 4923
 uid: 4
 
+cids: 
+
 ---
 
 # Barnraising: Oil Response Toolkit Brainstorm

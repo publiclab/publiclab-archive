@@ -7,6 +7,8 @@ path: /notes/chloe_thomas/04-22-2021/how-to-stop-air-pollution.md
 nid: 26295
 uid: 753747
 
+cids: 28634,28635,28638
+
 ---
 
 # What can be a way to make air pollution less dangerous to the health of the world ?

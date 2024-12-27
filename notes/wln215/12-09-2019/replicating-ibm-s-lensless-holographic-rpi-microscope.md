@@ -7,6 +7,8 @@ path: /notes/wln215/12-09-2019/replicating-ibm-s-lensless-holographic-rpi-micros
 nid: 21709
 uid: 578478
 
+cids: 26043,26982,28335,28344,30218
+
 ---
 
 # Replicating IBM's Lensless, Holographic, RPi Microscope?

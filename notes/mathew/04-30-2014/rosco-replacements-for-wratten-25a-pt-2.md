@@ -7,6 +7,8 @@ path: /notes/mathew/04-30-2014/rosco-replacements-for-wratten-25a-pt-2.md
 nid: 10380
 uid: 4
 
+cids: 8922,8923,8924,8927,8933,8934,8935,9354,9355
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/918/original/Rosco_26_IMAG1171.JPG)

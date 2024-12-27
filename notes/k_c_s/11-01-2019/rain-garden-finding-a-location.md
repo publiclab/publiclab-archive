@@ -7,6 +7,8 @@ path: /notes/k_c_s/11-01-2019/rain-garden-finding-a-location.md
 nid: 21370
 uid: 619909
 
+cids: 25786
+
 ---
 
 # Rain Garden: Finding a Location

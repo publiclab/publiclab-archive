@@ -7,6 +7,8 @@ path: /12-12-2011/recap-farmhack-nh-2011.md
 nid: 628
 uid: 174
 
+cids: 
+
 ---
 
 # Recap on FarmHack NH 2011

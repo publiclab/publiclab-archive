@@ -7,6 +7,8 @@ path: /notes/bhamster/04-07-2021/soil-sampling-toolkit-by-citizen-science-commun
 nid: 26118
 uid: 664477
 
+cids: 28462,28463,28468
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/113/original/Thumbnail.png)

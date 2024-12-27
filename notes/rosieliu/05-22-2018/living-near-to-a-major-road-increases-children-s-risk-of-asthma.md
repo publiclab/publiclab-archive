@@ -7,6 +7,8 @@ path: /notes/rosieliu/05-22-2018/living-near-to-a-major-road-increases-children-
 nid: 16373
 uid: 535191
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/004/original/children's_risk_of_asthma.png)

@@ -7,6 +7,8 @@ path: /notes/stace/10-26-2020/outreachy-proposal-new-dashboard-implementation.md
 nid: 24814
 uid: 726043
 
+cids: 27522,27531,27552
+
 ---
 
 # Outreachy proposal: New Dashboard Implementation

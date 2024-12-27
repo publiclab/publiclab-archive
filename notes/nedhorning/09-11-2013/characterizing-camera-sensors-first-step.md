@@ -7,6 +7,8 @@ path: /notes/nedhorning/09-11-2013/characterizing-camera-sensors-first-step.md
 nid: 9314
 uid: 133
 
+cids: 6802,6803,6805,6806,6816,6906,6907,6917,9662
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/482/original/DonLEDs.JPG)

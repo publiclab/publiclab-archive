@@ -7,6 +7,8 @@ path: /notes/nsabido/03-15-2021/microplastics-in-water.md
 nid: 25922
 uid: 745916
 
+cids: 28379,28381
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/950/original/375_250-joseph_cotruvo_lg.jpg)

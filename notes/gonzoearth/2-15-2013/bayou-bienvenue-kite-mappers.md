@@ -7,6 +7,8 @@ path: /notes/gonzoearth/2-15-2013/bayou-bienvenue-kite-mappers.md
 nid: 6005
 uid: 12
 
+cids: 3476
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2013-01-17-louisiana-bayou-bienvenue-oblique-main-outfall-canal-field-crew.png)

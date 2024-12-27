@@ -7,6 +7,8 @@ path: /notes/jiteovien/07-06-2018/building-the-coqui.md
 nid: 16652
 uid: 540008
 
+cids: 20021
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/462/original/coqui_PhotosofPR.jpg)

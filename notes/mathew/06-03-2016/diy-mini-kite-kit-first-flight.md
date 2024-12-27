@@ -7,6 +7,8 @@ path: /notes/mathew/06-03-2016/diy-mini-kite-kit-first-flight.md
 nid: 13163
 uid: 4
 
+cids: 14723,14745
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/479/original/diykitekit.png)

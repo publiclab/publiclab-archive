@@ -7,6 +7,8 @@ path: /notes/liz/01-19-2018/does-it-matter-what-kind-of-tea-i-use-to-grow-kombuc
 nid: 15561
 uid: 7
 
+cids: 18214,18308
+
 ---
 
 # Does it matter what kind of tea i use to grow kombucha?

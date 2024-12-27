@@ -7,6 +7,8 @@ path: /notes/shubham/01-27-2016/near-infrared-absorption-spectroscopy.md
 nid: 12625
 uid: 460486
 
+cids: 13416,13427
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/891/original/IMG_20160127_172904078.jpg)

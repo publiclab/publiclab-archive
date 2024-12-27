@@ -7,6 +7,8 @@ path: /notes/stevie/09-08-2016/collaboratively-generating-more-knowledge-public-
 nid: 13430
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/977/original/cc.logo.large.png)

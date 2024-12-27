@@ -7,6 +7,8 @@ path: /notes/gonzoearth/10-21-2011/new-boston-map-library.md
 nid: 516
 uid: 12
 
+cids: 
+
 ---
 
 # New Boston Map Library

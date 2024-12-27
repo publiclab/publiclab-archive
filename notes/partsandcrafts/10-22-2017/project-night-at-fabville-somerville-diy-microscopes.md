@@ -7,6 +7,8 @@ path: /notes/partsandcrafts/10-22-2017/project-night-at-fabville-somerville-diy-
 nid: 15080
 uid: 66014
 
+cids: 17562,17583,17585,17586,27113,27114,27127
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/076/original/IMG_20171026_192925.jpg)

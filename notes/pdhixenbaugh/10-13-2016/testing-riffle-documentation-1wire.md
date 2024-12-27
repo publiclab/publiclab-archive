@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/10-13-2016/testing-riffle-documentation-1wire.md
 nid: 13559
 uid: 459085
 
+cids: 15641,15642
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/517/original/realonewire.png)

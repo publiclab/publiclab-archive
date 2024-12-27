@@ -7,6 +7,8 @@ path: /notes/donblair/04-21-2014/open-lux-rev-n-full-circle.md
 nid: 10340
 uid: 43651
 
+cids: 8843,8846,8847
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/771/original/open-lux-evolution.png)

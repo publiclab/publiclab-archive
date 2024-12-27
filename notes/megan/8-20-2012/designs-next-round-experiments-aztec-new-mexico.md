@@ -7,6 +7,8 @@ path: /notes/megan/8-20-2012/designs-next-round-experiments-aztec-new-mexico.md
 nid: 3342
 uid: 775
 
+cids: 1179
+
 ---
 
 # Designs for next round of experiments Aztec, New Mexico

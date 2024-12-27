@@ -7,6 +7,8 @@ path: /notes/jjoll/06-29-2017/stablish-a-communication-between-spectral-workbenc
 nid: 14592
 uid: 508437
 
+cids: 
+
 ---
 
 # stablish a communication between Spectral Workbench and an arduino???

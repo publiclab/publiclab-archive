@@ -7,6 +7,8 @@ path: /notes/cess/03-02-2020/call-for-2020-soc-proposals-gsoc-and-outreachy.md
 nid: 22972
 uid: 525958
 
+cids: 26475,26497,26499,26550
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/394/original/gsoc.png)

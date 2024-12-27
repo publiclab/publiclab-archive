@@ -7,6 +7,8 @@ path: /notes/warren/7-26-2012/oil-residue-preparation-spectroscopy.md
 nid: 2963
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spec-vid.png)

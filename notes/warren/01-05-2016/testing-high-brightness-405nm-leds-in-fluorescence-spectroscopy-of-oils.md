@@ -7,6 +7,8 @@ path: /notes/warren/01-05-2016/testing-high-brightness-405nm-leds-in-fluorescenc
 nid: 12561
 uid: 1
 
+cids: 13249,13256,13277,13342,17173,29602
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/514/original/IMG_20160105_090916.jpg)

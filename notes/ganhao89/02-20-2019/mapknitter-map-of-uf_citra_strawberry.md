@@ -7,6 +7,8 @@ path: /notes/ganhao89/02-20-2019/mapknitter-map-of-uf_citra_strawberry.md
 nid: 18399
 uid: 575095
 
+cids: 
+
 ---
 
 # MapKnitter map of uf_citra_strawberry

@@ -7,6 +7,8 @@ path: /notes/coreytegeler/07-17-2019/embedding-images-with-interactive-context-i
 nid: 20168
 uid: 523769
 
+cids: 25118
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/829/original/authorship.png)

@@ -7,6 +7,8 @@ path: /notes/lilybui/02-07-2014/the-riffle-effect-public-lab-s-new-pilot-water-m
 nid: 10017
 uid: 420662
 
+cids: 8188
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/820/original/20140202_132331.jpg)

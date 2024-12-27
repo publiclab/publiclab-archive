@@ -7,6 +7,8 @@ path: /notes/patcoyle/4-1-2012/stewart-long-wherecamp-4-1-12.md
 nid: 1591
 uid: 77
 
+cids: 
+
 ---
 
 # Stewart Long at WhereCamp 4-1-12

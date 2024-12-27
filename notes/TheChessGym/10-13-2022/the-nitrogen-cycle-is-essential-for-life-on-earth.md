@@ -7,6 +7,8 @@ path: /notes/TheChessGym/10-13-2022/the-nitrogen-cycle-is-essential-for-life-on-
 nid: 35065
 uid: 788868
 
+cids: 30693,30694,30695,30696,30697,30698,30699,30700,30701,30702,30703,30704
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/231/original/nitrogen-cycle.jpg)

@@ -7,6 +7,8 @@ path: /notes/liz/02-14-2018/broadcasting-the-barnraising.md
 nid: 15736
 uid: 7
 
+cids: 18434
+
 ---
 
 # Broadcasting the Barnraising?

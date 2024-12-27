@@ -7,6 +7,8 @@ path: /notes/liz/09-24-2013/world-maker-faire-2013.md
 nid: 9363
 uid: 7
 
+cids: 24136
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/667/original/MakerDon2013.jpg)

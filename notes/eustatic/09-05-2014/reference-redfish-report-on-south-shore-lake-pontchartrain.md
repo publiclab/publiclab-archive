@@ -7,6 +7,8 @@ path: /09-05-2014/reference-redfish-report-on-south-shore-lake-pontchartrain.md
 nid: 11107
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/615/original/lake-pontchartrain-redfish-8c45a6d57992b076_1_.jpg)

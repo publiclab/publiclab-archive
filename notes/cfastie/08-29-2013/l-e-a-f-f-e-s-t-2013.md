@@ -7,6 +7,8 @@ path: /notes/cfastie/08-29-2013/l-e-a-f-f-e-s-t-2013.md
 nid: 9071
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/322/original/LEAFFEST2013.jpg)

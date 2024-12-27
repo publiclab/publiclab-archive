@@ -7,6 +7,8 @@ path: /notes/ranon/06-03-2016/kaptery-rig-remodel.md
 nid: 13160
 uid: 477060
 
+cids: 14710,14713,14717,14718,14742
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/467/original/Saturn_V_Complete_Assembly_Exploded_v3.png)

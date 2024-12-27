@@ -7,6 +7,8 @@ path: /notes/vafa/03-17-2017/slite-in-spectro.md
 nid: 14032
 uid: 454714
 
+cids: 22686
+
 ---
 
 # making a slit in spectrometer

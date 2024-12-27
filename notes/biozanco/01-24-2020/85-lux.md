@@ -7,6 +7,8 @@ path: /notes/biozanco/01-24-2020/85-lux.md
 nid: 22392
 uid: 533335
 
+cids: 26219
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/750/original/blob)

@@ -7,6 +7,8 @@ path: /notes/suman/03-26-2017/batching-the-process-of-ndvi-in-fiji-for-modified-
 nid: 14061
 uid: 497769
 
+cids: 16462,16465,16468,22450,22451
+
 ---
 
 # Batching the process of NDVI in Fiji for modified mobius with red filter

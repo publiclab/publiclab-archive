@@ -7,6 +7,8 @@ path: /notes/UKanTeach/06-22-2016/mapknitter-map-of-jayhawks.md
 nid: 13230
 uid: 476734
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/733/original/the_pic.PNG)

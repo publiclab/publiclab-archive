@@ -7,6 +7,8 @@ path: /notes/wln215/11-22-2019/any-experience-with-knockoff-temperature-sensors.
 nid: 21556
 uid: 578478
 
+cids: 26980
+
 ---
 
 # Any experience with knockoff temperature sensors?

@@ -7,6 +7,8 @@ path: /notes/warren/10-9-2012/spectrometry-kit-paper-insert-design-sketches.md
 nid: 4286
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spec-insert-design.jpg)

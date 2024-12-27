@@ -7,6 +7,8 @@ path: /notes/bhickman/03-05-2015/stand-alone-data-logger-for-field-use.md
 nid: 11654
 uid: 201929
 
+cids: 11274,11282
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/151/original/Temp_v_time.png)

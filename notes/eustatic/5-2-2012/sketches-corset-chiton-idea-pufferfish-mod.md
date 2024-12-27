@@ -7,6 +7,8 @@ path: /5-2-2012/sketches-corset-chiton-idea-pufferfish-mod.md
 nid: 1889
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/double chiton corset.jpg)

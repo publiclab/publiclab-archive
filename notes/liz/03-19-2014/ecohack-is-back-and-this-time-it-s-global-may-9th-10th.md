@@ -7,6 +7,8 @@ path: /notes/liz/03-19-2014/ecohack-is-back-and-this-time-it-s-global-may-9th-10
 nid: 10203
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/321/original/6316165230_35a9b949f3_b.jpg)

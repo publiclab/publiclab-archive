@@ -7,6 +7,8 @@ path: /notes/pertuit_kathryn/05-17-2021/rowing-out-to-find-microplastics.md
 nid: 26614
 uid: 744067
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/829/original/IMG_2677.jpg)

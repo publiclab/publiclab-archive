@@ -7,6 +7,8 @@ path: /notes/mara/12-1-2011/bower-light-proof-changing-bag.md
 nid: 603
 uid: 331
 
+cids: 
+
 ---
 
 # Bower light proof changing bag...

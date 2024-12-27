@@ -7,6 +7,8 @@ path: /notes/milagarcia/07-31-2020/where-i-can-find-a-case-study-examples.md
 nid: 24241
 uid: 711353
 
+cids: 27212,27276
+
 ---
 
 # Where I can find a Case study examples  ?

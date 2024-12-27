@@ -7,6 +7,8 @@ path: /notes/shannon/2-8-2012/anticipating-sea-level-rise-louisiana.md
 nid: 763
 uid: 9
 
+cids: 521
+
 ---
 
 # Anticipating sea-level rise in Louisiana

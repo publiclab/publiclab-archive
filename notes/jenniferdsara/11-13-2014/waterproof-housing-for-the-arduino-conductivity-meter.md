@@ -7,6 +7,8 @@ path: /notes/jenniferdsara/11-13-2014/waterproof-housing-for-the-arduino-conduct
 nid: 11338
 uid: 428819
 
+cids: 10735,10756,10793
+
 ---
 
 # Waterproof Housing for Arduino Conductivity Meter 

@@ -7,6 +7,8 @@ path: /notes/warren/03-22-2019/writing-a-topic-page-on-publiclab-org.md
 nid: 18779
 uid: 1
 
+cids: 23465,23560,27199,27204,31401
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/526/original/Screen_Shot_2019-03-22_at_12.38.22_PM.png)

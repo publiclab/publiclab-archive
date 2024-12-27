@@ -7,6 +7,8 @@ path: /notes/msuphysicsformcb/09-12-2020/substitute-diffraction-grating-for-dvd.
 nid: 24568
 uid: 720360
 
+cids: 27355,27356,27363,27374
+
 ---
 
 # Substitute diffraction grating for DVD?

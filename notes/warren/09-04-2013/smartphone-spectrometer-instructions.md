@@ -7,6 +7,8 @@ path: /notes/warren/09-04-2013/smartphone-spectrometer-instructions.md
 nid: 9278
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/395/original/Screen_Shot_2013-09-04_at_1.02.36_PM.png)

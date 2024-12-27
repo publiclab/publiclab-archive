@@ -7,6 +7,8 @@ path: /notes/rajeev21/05-24-2016/map-of-utm-mauritius-using-hexacopter.md
 nid: 13139
 uid: 473323
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/276/original/IMG_0477.JPG)

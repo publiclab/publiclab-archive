@@ -7,6 +7,8 @@ path: /notes/Craig/11-12-2015/oil-testing-kit-betabeta.md
 nid: 12404
 uid: 443143
 
+cids: 12985
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/733/original/IMG_0836.JPG)

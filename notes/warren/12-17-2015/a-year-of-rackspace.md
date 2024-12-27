@@ -7,6 +7,8 @@ path: /notes/warren/12-17-2015/a-year-of-rackspace.md
 nid: 12529
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/392/original/Screenshot_2015-12-17_at_10.43.53_AM.png)

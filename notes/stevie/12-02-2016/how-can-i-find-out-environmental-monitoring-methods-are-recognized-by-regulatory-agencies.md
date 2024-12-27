@@ -7,6 +7,8 @@ path: /notes/stevie/12-02-2016/how-can-i-find-out-environmental-monitoring-metho
 nid: 13737
 uid: 422561
 
+cids: 22361,22375
+
 ---
 
 # How can I find out what environmental monitoring methods are recognized by regulatory agencies? 

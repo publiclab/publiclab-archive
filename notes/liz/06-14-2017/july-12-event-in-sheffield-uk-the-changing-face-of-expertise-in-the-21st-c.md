@@ -7,6 +7,8 @@ path: /notes/liz/06-14-2017/july-12-event-in-sheffield-uk-the-changing-face-of-e
 nid: 14537
 uid: 7
 
+cids: 
+
 ---
 
 # July 12 event in Sheffield UK -- the changing face of expertise in the 21st C

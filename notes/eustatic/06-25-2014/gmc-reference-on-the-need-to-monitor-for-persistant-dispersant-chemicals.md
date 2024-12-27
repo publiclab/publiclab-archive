@@ -7,6 +7,8 @@ path: /06-25-2014/gmc-reference-on-the-need-to-monitor-for-persistant-dispersant
 nid: 10614
 uid: 379
 
+cids: 9270,9281
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/976/original/surfrider_fdt_uv_pah_contamination_1_.jpg)

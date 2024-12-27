@@ -7,6 +7,8 @@ path: /notes/megan/4-2-2012/summary-lionel-milberger-s-copper-test.md
 nid: 1613
 uid: 775
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/copper pipe test.jpg)

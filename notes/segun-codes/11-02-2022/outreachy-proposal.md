@@ -7,6 +7,8 @@ path: /notes/segun-codes/11-02-2022/outreachy-proposal.md
 nid: 36041
 uid: 818626
 
+cids: 30740,30741,30751
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/265/original/thumbnail2.jpg)

@@ -7,6 +7,8 @@ path: /notes/paridhijain0201/04-21-2022/outreachy-proposal-full-screen-ui-for-in
 nid: 30546
 uid: 795873
 
+cids: 30112,30124
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/321/original/thumbnail.png)

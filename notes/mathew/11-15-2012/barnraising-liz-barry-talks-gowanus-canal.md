@@ -7,6 +7,8 @@ path: /notes/mathew/11-15-2012/barnraising-liz-barry-talks-gowanus-canal.md
 nid: 4925
 uid: 4
 
+cids: 
+
 ---
 
 # Barnraising: Liz Barry talks Gowanus Canal

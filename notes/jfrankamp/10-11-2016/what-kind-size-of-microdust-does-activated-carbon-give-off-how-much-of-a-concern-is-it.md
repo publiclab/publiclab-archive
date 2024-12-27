@@ -7,6 +7,8 @@ path: /notes/jfrankamp/10-11-2016/what-kind-size-of-microdust-does-activated-car
 nid: 13549
 uid: 493826
 
+cids: 15604,15605
+
 ---
 
 # What kind/size of microdust does activated carbon give off & how much of a concern is it?

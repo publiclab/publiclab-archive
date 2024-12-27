@@ -7,6 +7,8 @@ path: /notes/Mohamed/05-13-2015/sudan-team-sap-drone-project-sap-smart-agricultu
 nid: 11813
 uid: 431141
 
+cids: 11703,12155,30722
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/893/original/PROMO-SAP-R_D.jpg)

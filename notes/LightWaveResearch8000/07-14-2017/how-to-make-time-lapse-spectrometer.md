@@ -7,6 +7,8 @@ path: /notes/LightWaveResearch8000/07-14-2017/how-to-make-time-lapse-spectromete
 nid: 14655
 uid: 510698
 
+cids: 17035,22532
+
 ---
 
 # How To Make Time Lapse Spectrometer

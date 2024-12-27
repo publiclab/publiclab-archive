@@ -7,6 +7,8 @@ path: /notes/warren/05-04-2016/tweaks-to-foldable-mini-spectrometer-design.md
 nid: 13076
 uid: 1
 
+cids: 17556,17578,17592,17593,17613
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/946/original/IMG_20160212_094742_%281%29.jpg)

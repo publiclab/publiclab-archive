@@ -7,6 +7,8 @@ path: /notes/kgradow1/01-21-2021/what-are-the-risks-of-pah-exposure-from-contami
 nid: 25513
 uid: 297929
 
+cids: 27996,27997,28000,28022,28073,28113,28116,28117
+
 ---
 
 # Risks of PAH exposure from contaminated dust?

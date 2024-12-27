@@ -7,6 +7,8 @@ path: /notes/warren/01-04-2018/how-good-is-the-purpleair-sensor-and-what-does-it
 nid: 15458
 uid: 1
 
+cids: 20873,20916,21000,21003,21004,21005,22821,22824,22830,22843,23258,28852,29127
+
 ---
 
 # How good is the PurpleAir sensor and what does it detect?

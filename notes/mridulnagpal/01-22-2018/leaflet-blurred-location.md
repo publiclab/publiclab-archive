@@ -7,6 +7,8 @@ path: /notes/mridulnagpal/01-22-2018/leaflet-blurred-location.md
 nid: 15584
 uid: 497953
 
+cids: 18243,18263,18264,18279,18397,18464,18465,18468,18469,18525,18529,18530,18596,18691,18693,18729,18759,18766,18772,18773,18827,19015,19031,19076,19127,19205
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/159/original/leaflet-blurred-location.png)

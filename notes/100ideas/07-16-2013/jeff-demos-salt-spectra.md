@@ -7,6 +7,8 @@ path: /notes/100ideas/07-16-2013/jeff-demos-salt-spectra.md
 nid: 8898
 uid: 60689
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/817/original/image.jpg)

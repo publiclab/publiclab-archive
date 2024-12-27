@@ -7,6 +7,8 @@ path: /notes/lait422/04-23-2018/how-durable-is-kombucha-leather.md
 nid: 16201
 uid: 531878
 
+cids: 
+
 ---
 
 # How durable is kombucha leather?

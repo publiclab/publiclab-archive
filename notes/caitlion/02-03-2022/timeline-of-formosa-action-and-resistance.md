@@ -7,6 +7,8 @@ path: /notes/caitlion/02-03-2022/timeline-of-formosa-action-and-resistance.md
 nid: 29611
 uid: 780686
 
+cids: 29713
+
 ---
 
 # Timeline of Formosa Action and Resistance 

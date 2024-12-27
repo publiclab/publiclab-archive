@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/11-18-2013/where-do-the-maps-go.md
 nid: 9806
 uid: 152
 
+cids: 7643,7649,7653,7710
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/277/original/10148873294_8930ea62d3_c.jpg)

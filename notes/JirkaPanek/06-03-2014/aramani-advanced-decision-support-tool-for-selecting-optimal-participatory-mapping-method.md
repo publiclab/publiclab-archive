@@ -7,6 +7,8 @@ path: /notes/JirkaPanek/06-03-2014/aramani-advanced-decision-support-tool-for-se
 nid: 10527
 uid: 179
 
+cids: 9127,9128,9130,9134
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/515/original/fig_3.JPG)

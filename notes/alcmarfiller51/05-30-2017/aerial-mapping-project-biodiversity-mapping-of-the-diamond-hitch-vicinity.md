@@ -7,6 +7,8 @@ path: /notes/alcmarfiller51/05-30-2017/aerial-mapping-project-biodiversity-mappi
 nid: 14244
 uid: 508248
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/589/original/Screen_Shot_2017-05-30_at_9.15.27_AM.png)

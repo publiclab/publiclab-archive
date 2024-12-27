@@ -7,6 +7,8 @@ path: /notes/cfastie/06-01-2014/super-redstone.md
 nid: 10523
 uid: 554
 
+cids: 9113,9115,9120
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/493/original/supered-455-5.jpg)

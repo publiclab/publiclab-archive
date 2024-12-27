@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-05-2016/using-potassium-bromide-kbr-in-uv-vis-spectro
 nid: 13077
 uid: 461120
 
+cids: 14539
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/960/original/fluoro_in_acetone_may4.png)

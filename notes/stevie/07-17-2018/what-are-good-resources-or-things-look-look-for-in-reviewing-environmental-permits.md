@@ -7,6 +7,8 @@ path: /notes/stevie/07-17-2018/what-are-good-resources-or-things-look-look-for-i
 nid: 16731
 uid: 422561
 
+cids: 23193,27643
+
 ---
 
 # What are good resources, or things look look for, in reviewing environmental permits? 

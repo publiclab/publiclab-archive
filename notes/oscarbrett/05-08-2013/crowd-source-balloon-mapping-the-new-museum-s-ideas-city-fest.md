@@ -7,6 +7,8 @@ path: /notes/oscarbrett/05-08-2013/crowd-source-balloon-mapping-the-new-museum-s
 nid: 7314
 uid: 409
 
+cids: 4660
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/178/original/cover.jpg)

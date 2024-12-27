@@ -7,6 +7,8 @@ path: /notes/Akaveain_Sylvester/04-27-2021/is-there-any-other-great-ways-to-solv
 nid: 26371
 uid: 754379
 
+cids: 28639,28676,28684
+
 ---
 
 # Does the air quality affect the animals in the environment?

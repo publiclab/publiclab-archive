@@ -7,6 +7,8 @@ path: /notes/warren/11-14-2017/what-s-one-thing-that-could-be-better-for-newcome
 nid: 15189
 uid: 1
 
+cids: 17717,18282,18283,20990,22720,22731,22878,22879,22880,23029,23074
+
 ---
 
 # What's one thing that could be better for newcomers about the Public Lab website?

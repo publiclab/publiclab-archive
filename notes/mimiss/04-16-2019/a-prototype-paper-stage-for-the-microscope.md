@@ -7,6 +7,8 @@ path: /notes/mimiss/04-16-2019/a-prototype-paper-stage-for-the-microscope.md
 nid: 19081
 uid: 579821
 
+cids: 23915
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/560/original/IMG_3380.jpeg)

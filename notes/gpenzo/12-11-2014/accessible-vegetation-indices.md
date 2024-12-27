@@ -7,6 +7,8 @@ path: /notes/gpenzo/12-11-2014/accessible-vegetation-indices.md
 nid: 11448
 uid: 420719
 
+cids: 11053,11481,11507,11508
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/334/original/Test1.JPG)

@@ -7,6 +7,8 @@ path: /notes/donblair/08-03-2014/riffle-ito-and-thermistor-deployment.md
 nid: 11009
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/817/original/plot_timeseries.png)

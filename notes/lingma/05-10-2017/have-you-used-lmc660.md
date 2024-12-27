@@ -7,6 +7,8 @@ path: /notes/lingma/05-10-2017/have-you-used-lmc660.md
 nid: 14173
 uid: 506929
 
+cids: 
+
 ---
 
 # Have You Used LMC660

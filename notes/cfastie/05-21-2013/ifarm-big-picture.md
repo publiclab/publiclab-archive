@@ -7,6 +7,8 @@ path: /notes/cfastie/05-21-2013/ifarm-big-picture.md
 nid: 7785
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/367/original/Angels_6121.jpg)

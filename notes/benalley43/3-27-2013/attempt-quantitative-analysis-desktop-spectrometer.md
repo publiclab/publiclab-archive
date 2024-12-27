@@ -7,6 +7,8 @@ path: /notes/benalley43/3-27-2013/attempt-quantitative-analysis-desktop-spectrom
 nid: 6566
 uid: 50894
 
+cids: 4245,4252,4269,4302,4303,4636,4644,7211
+
 ---
 
 # Attempt at Quantitative Analysis for Desktop Spectrometer 

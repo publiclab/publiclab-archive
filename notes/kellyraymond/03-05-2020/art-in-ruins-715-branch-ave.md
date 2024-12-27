@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-715-branch-ave.md
 nid: 23054
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (715 Branch Ave)

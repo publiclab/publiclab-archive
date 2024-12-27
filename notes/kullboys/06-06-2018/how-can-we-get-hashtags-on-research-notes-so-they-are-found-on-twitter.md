@@ -7,6 +7,8 @@ path: /notes/kullboys/06-06-2018/how-can-we-get-hashtags-on-research-notes-so-th
 nid: 16436
 uid: 537089
 
+cids: 20444,23105
+
 ---
 
 # How can we get hashtags on research notes so they are found on Twitter?

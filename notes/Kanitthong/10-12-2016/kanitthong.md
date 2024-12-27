@@ -7,6 +7,8 @@ path: /notes/Kanitthong/10-12-2016/kanitthong.md
 nid: 13554
 uid: 492812
 
+cids: 15623
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/385/original/image.jpg)

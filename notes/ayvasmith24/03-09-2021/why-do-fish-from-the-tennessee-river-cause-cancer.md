@@ -7,6 +7,8 @@ path: /notes/ayvasmith24/03-09-2021/why-do-fish-from-the-tennessee-river-cause-c
 nid: 25881
 uid: 744112
 
+cids: 28314
+
 ---
 
 # why do fish from the Tennessee river cause cancer? 

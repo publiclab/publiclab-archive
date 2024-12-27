@@ -7,6 +7,8 @@ path: /notes/stevie/12-04-2019/how-do-we-keep-the-pressure-and-momentum-high-aft
 nid: 21663
 uid: 422561
 
+cids: 25964,26089
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/858/original/image.jpg)

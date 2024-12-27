@@ -7,6 +7,8 @@ path: /notes/joyofsoy/06-25-2019/taking-action-odors-in-court.md
 nid: 19857
 uid: 540844
 
+cids: 24889,24903
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/190/original/Cover_image_backup_option.jpg)

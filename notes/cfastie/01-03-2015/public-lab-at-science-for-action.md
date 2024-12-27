@@ -7,6 +7,8 @@ path: /notes/cfastie/01-03-2015/public-lab-at-science-for-action.md
 nid: 11503
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/557/original/S4A_42.jpg)

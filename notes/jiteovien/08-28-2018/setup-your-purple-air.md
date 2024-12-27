@@ -7,6 +7,8 @@ path: /notes/jiteovien/08-28-2018/setup-your-purple-air.md
 nid: 17009
 uid: 540008
 
+cids: 
+
 ---
 
 # Setup your Purple Air

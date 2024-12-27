@@ -7,6 +7,8 @@ path: /notes/ErikHanley11/04-11-2018/copper-rod-to-copper-sheet-discussion.md
 nid: 16134
 uid: 444638
 
+cids: 
+
 ---
 
 # Copper Rod to Copper Sheet Discussion

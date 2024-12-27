@@ -7,6 +7,8 @@ path: /notes/safidy/7-3-2012/nasa-kite-modeler.md
 nid: 2702
 uid: 898
 
+cids: 5479,5681,5819
+
 ---
 
 ![](https://publiclab.org/sites/default/files/nasa-logo.jpg)

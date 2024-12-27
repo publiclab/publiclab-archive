@@ -7,6 +7,8 @@ path: /notes/mathew/04-08-2013/modified-filter-switcher.md
 nid: 6717
 uid: 4
 
+cids: 4387,4393,4397,4398,4399,4488
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/030/original/fruitbowlhalf.jpg)

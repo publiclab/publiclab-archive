@@ -7,6 +7,8 @@ path: /notes/ann/06-20-2015/sweetwater-festival-mapping-notes.md
 nid: 11992
 uid: 421543
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/404/original/sweetwater-festival-rolla-bc.jpg)

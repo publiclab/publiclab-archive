@@ -7,6 +7,8 @@ path: /notes/shannon/8-2-2012/bayou-sauvage-test-2-protocol.md
 nid: 3072
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7631653960_bbc9ac8973.jpg)

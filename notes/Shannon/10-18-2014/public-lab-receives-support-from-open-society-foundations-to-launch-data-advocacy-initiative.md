@@ -7,6 +7,8 @@ path: /notes/Shannon/10-18-2014/public-lab-receives-support-from-open-society-fo
 nid: 11276
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/464/original/plots-logo-transparent.jpg)

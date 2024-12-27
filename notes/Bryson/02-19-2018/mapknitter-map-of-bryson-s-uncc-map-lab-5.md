@@ -7,6 +7,8 @@ path: /notes/Bryson/02-19-2018/mapknitter-map-of-bryson-s-uncc-map-lab-5.md
 nid: 15770
 uid: 525192
 
+cids: 
+
 ---
 
 # MapKnitter map of Bryson's UNCC Map (Lab 5)

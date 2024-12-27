@@ -7,6 +7,8 @@ path: /notes/warren/4-28-2011/balloon-mapping-harvard-gsd.md
 nid: 202
 uid: 1
 
+cids: 247,248
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-04-28 at 3.10.22 PM.png)

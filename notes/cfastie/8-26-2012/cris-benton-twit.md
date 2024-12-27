@@ -7,6 +7,8 @@ path: /notes/cfastie/8-26-2012/cris-benton-twit.md
 nid: 3466
 uid: 554
 
+cids: 2729
+
 ---
 
 ![](https://publiclab.org/sites/default/files/CrisBentonTwit.jpg)

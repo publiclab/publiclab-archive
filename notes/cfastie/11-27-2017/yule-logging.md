@@ -7,6 +7,8 @@ path: /notes/cfastie/11-27-2017/yule-logging.md
 nid: 15242
 uid: 554
 
+cids: 17788,17792,17793,17798,17805,17810,18035,18036,18050
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/605/original/StoveRelay_20171120-1684.JPG)

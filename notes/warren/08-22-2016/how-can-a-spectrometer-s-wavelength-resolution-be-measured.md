@@ -7,6 +7,8 @@ path: /notes/warren/08-22-2016/how-can-a-spectrometer-s-wavelength-resolution-be
 nid: 13385
 uid: 1
 
+cids: 22264
+
 ---
 
 # How can a spectrometer's wavelength resolution be measured?

@@ -7,6 +7,8 @@ path: /notes/difautsch/05-12-2018/mapknitter-map-of-fontainebleau-algae-bloom.md
 nid: 16335
 uid: 524069
 
+cids: 
+
 ---
 
 # MapKnitter map of Fontainebleau Algae Bloom

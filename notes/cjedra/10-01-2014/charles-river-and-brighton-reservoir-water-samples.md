@@ -7,6 +7,8 @@ path: /notes/cjedra/10-01-2014/charles-river-and-brighton-reservoir-water-sample
 nid: 11224
 uid: 428092
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/268/original/Screen_shot_2014-10-01_at_2.14.27_PM.png)

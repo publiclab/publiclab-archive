@@ -7,6 +7,8 @@ path: /notes/Andresc4/01-28-2014/ndvi-with-canon-a2300-apm-hexacopter-dji550-hel
 nid: 9986
 uid: 328260
 
+cids: 8103,8105,8106,8108,8109,8110,8111,8112,8113,8114,8115,8116,8133,8610,8611,8612,8613,8615,8616,9906,9907,9910,12039
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/679/original/dronesillos.jpg)

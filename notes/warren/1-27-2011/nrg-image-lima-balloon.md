@@ -7,6 +7,8 @@ path: /notes/warren/1-27-2011/nrg-image-lima-balloon.md
 nid: 64
 uid: 1
 
+cids: 48
+
 ---
 
 ![](https://publiclab.org/sites/default/files/5392220652_9524633600_o.jpg)

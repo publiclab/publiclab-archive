@@ -7,6 +7,8 @@ path: /notes/stevie/10-29-2018/public-lab-developing-partnership-statement.md
 nid: 17424
 uid: 422561
 
+cids: 21141,21151
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/360/original/startup-594090_960_720.jpg)

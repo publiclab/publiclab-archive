@@ -7,6 +7,8 @@ path: /notes/liz/01-10-2017/shenangochannel-org-a-dashboard-for-monitoring-and-s
 nid: 13849
 uid: 7
 
+cids: 16061,16166,16198,16199,16240
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/254/original/Screen_Shot_2017-01-10_at_11.27.27_AM.png)

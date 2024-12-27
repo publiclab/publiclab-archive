@@ -7,6 +7,8 @@ path: /notes/amirberAgain/04-30-2018/lensless-holograpic-microscope.md
 nid: 16269
 uid: 420776
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/781/original/output25.bmp)

@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-50-ashburton-street.md
 nid: 23070
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (50 Ashburton Street)

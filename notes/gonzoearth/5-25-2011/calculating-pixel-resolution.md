@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-25-2011/calculating-pixel-resolution.md
 nid: 297
 uid: 12
 
+cids: 256,257
+
 ---
 
 ![](https://publiclab.org/sites/default/files/WilkinsonEastScale.jpg)

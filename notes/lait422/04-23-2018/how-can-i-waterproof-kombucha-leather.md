@@ -7,6 +7,8 @@ path: /notes/lait422/04-23-2018/how-can-i-waterproof-kombucha-leather.md
 nid: 16200
 uid: 531878
 
+cids: 22234,25833
+
 ---
 
 # How can I waterproof kombucha leather?

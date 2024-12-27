@@ -7,6 +7,8 @@ path: /notes/aemilius89/12-18-2018/do-you-people-have-ideas-on-how-to-make-demin
 nid: 17967
 uid: 561190
 
+cids: 23305
+
 ---
 
 # Do you people have ideas on how to make demineralized water? 

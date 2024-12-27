@@ -7,6 +7,8 @@ path: /01-15-2017/mapknitter-map-of-bayou-uhlan-ppigeon-12-jan-2017.md
 nid: 13852
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/280/original/31461549794_1a1366d832_b.jpg)

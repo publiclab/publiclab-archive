@@ -7,6 +7,8 @@ path: /notes/stevie/10-19-2017/are-there-groups-who-are-currently-or-have-recent
 nid: 15068
 uid: 422561
 
+cids: 
+
 ---
 
 # Are there groups who are currently, or have recently, used the Bucket for air sampling?

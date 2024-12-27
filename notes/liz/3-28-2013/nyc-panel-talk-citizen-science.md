@@ -7,6 +7,8 @@ path: /notes/liz/3-28-2013/nyc-panel-talk-citizen-science.md
 nid: 6577
 uid: 7
 
+cids: 
+
 ---
 
 # NYC: Panel talk on citizen science

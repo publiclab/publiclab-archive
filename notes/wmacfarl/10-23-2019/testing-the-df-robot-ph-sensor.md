@@ -7,6 +7,8 @@ path: /notes/wmacfarl/10-23-2019/testing-the-df-robot-ph-sensor.md
 nid: 21267
 uid: 424597
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/933/original/ph_sensor_soy_sauce_image.jpg)

@@ -7,6 +7,8 @@ path: /notes/TaraMei/12-02-2015/barnraising-photos.md
 nid: 12469
 uid: 455825
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/133/original/IMG_5389.JPG)

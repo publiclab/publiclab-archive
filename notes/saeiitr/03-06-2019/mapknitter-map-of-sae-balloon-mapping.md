@@ -7,6 +7,8 @@ path: /notes/saeiitr/03-06-2019/mapknitter-map-of-sae-balloon-mapping.md
 nid: 18475
 uid: 577444
 
+cids: 22095,22096
+
 ---
 
 # MapKnitter map of SAE Balloon Mapping

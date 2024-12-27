@@ -7,6 +7,8 @@ path: /notes/n0reason/10-08-2014/salor.md
 nid: 11251
 uid: 429569
 
+cids: 10534
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/018/original/openrov-going-deep.jpg)

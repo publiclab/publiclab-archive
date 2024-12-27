@@ -7,6 +7,8 @@ path: /notes/Zengirl2/11-25-2017/do-you-know-of-a-success-story-of-diy-monitorin
 nid: 15239
 uid: 423961
 
+cids: 
+
 ---
 
 # Do you know of a success story of DIY monitoring for factory farm related problems?

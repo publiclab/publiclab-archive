@@ -7,6 +7,8 @@ path: /notes/sonofaquark/3-21-2013/never-say-it-cant-be-done.md
 nid: 6456
 uid: 54330
 
+cids: 4004,4007
+
 ---
 
 # never say it can't be done

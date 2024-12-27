@@ -7,6 +7,8 @@ path: /notes/plasticsquid/02-20-2020/how-many-squid-should-i-dissect-to-determin
 nid: 22885
 uid: 666968
 
+cids: 26358,26359,26362
+
 ---
 
 # How many squid should I dissect to determine the average amount of micro plastics in squid guts?

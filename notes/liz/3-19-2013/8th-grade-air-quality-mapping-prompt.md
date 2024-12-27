@@ -7,6 +7,8 @@ path: /notes/liz/3-19-2013/8th-grade-air-quality-mapping-prompt.md
 nid: 6423
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/5 - teacher drawings.jpg)

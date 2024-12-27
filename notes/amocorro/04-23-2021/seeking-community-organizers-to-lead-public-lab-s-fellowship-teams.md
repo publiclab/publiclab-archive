@@ -7,6 +7,8 @@ path: /notes/amocorro/04-23-2021/seeking-community-organizers-to-lead-public-lab
 nid: 26322
 uid: 700923
 
+cids: 28618,28723,29565
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/717/original/Public_Lab_Letterhead_blank.png)

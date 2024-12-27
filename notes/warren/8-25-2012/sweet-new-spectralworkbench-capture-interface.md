@@ -7,6 +7,8 @@ path: /notes/warren/8-25-2012/sweet-new-spectralworkbench-capture-interface.md
 nid: 3463
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/new-interface.png)

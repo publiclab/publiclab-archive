@@ -7,6 +7,8 @@ path: /notes/kellyraymond/02-19-2020/further-information-on-10-memorial-blvd.md
 nid: 22857
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (10 Memorial Blvd)

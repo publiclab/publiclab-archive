@@ -7,6 +7,8 @@ path: /notes/Joradaeg1/04-30-2021/ballon-mapping.md
 nid: 26424
 uid: 754781
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/627/original/MicrosoftTeams-image.png)

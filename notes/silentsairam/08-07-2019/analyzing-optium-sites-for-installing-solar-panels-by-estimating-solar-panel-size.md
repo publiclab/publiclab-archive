@@ -7,6 +7,8 @@ path: /notes/silentsairam/08-07-2019/analyzing-optium-sites-for-installing-solar
 nid: 20459
 uid: 553044
 
+cids: 
+
 ---
 
 # Analyzing optimum sites for installing solar panels by estimating solar panel size

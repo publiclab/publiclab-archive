@@ -7,6 +7,8 @@ path: /notes/stevie/12-07-2018/community-science-soil-testing-fellowship.md
 nid: 17835
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/184/original/pl-narrow.png)

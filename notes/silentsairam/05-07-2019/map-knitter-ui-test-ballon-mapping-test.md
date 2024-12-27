@@ -7,6 +7,8 @@ path: /notes/silentsairam/05-07-2019/map-knitter-ui-test-ballon-mapping-test.md
 nid: 19266
 uid: 553044
 
+cids: 24053,24070,24074,24075,24081,24082
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/659/original/2019-06-13_20_23_53-MapKnitter__Grab-AGE.png)

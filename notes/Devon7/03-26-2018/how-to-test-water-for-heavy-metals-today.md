@@ -7,6 +7,8 @@ path: /notes/Devon7/03-26-2018/how-to-test-water-for-heavy-metals-today.md
 nid: 16020
 uid: 528677
 
+cids: 19355,19356,23037,23067
+
 ---
 
 # How to test water for heavy metals today?

@@ -7,6 +7,8 @@ path: /notes/jradheshyam96/09-28-2018/will-julia-replace-python-or-r-in-case-of-
 nid: 17186
 uid: 552858
 
+cids: 
+
 ---
 
 # will julia replace python or R in case of Data Science?

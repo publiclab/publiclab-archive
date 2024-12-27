@@ -7,6 +7,8 @@ path: /notes/JSummers/11-16-2013/datalogger.md
 nid: 9790
 uid: 304279
 
+cids: 7650,17751,17761
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/246/original/datalog3.jpg)

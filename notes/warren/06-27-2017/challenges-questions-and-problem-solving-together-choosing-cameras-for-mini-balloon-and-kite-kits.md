@@ -7,6 +7,8 @@ path: /notes/warren/06-27-2017/challenges-questions-and-problem-solving-together
 nid: 14587
 uid: 1
 
+cids: 23047
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/928/original/OI000006-2.jpg)

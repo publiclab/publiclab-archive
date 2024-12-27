@@ -7,6 +7,8 @@ path: /notes/FrankVriale/04-03-2014/west-village.md
 nid: 10256
 uid: 422092
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/481/original/tmp_20140403_164011_HDR-769398645.jpg)

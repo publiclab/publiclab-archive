@@ -7,6 +7,8 @@ path: /notes/divyabaid16/07-03-2019/my-efforts-to-be-a-part-of-gsoc-19.md
 nid: 19970
 uid: 578652
 
+cids: 25100
+
 ---
 
 # My efforts to be a part of GSoC’19

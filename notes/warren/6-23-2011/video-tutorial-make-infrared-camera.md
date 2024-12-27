@@ -7,6 +7,8 @@ path: /notes/warren/6-23-2011/video-tutorial-make-infrared-camera.md
 nid: 354
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20110623_125121.jpg)

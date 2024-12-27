@@ -7,6 +7,8 @@ path: /notes/david_uwi/12-19-2018/particulate-sensor-using-a-stbm271.md
 nid: 17977
 uid: 469053
 
+cids: 21563,21564,21567,21600,25470,25472,25475,25519
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/444/original/IMG_0647.png)

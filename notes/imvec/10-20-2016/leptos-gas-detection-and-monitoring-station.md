@@ -7,6 +7,8 @@ path: /notes/imvec/10-20-2016/leptos-gas-detection-and-monitoring-station.md
 nid: 13630
 uid: 495038
 
+cids: 15706,15707
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/493/original/LeptosSteps001.JPG)

@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/10-07-2015/intended-purposes-for-different-tools-and
 nid: 12275
 uid: 430549
 
+cids: 12667,12668,12669,12677,12682,16566
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/807/original/undefined)

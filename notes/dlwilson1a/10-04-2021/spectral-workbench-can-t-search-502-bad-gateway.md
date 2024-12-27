@@ -7,6 +7,8 @@ path: /notes/dlwilson1a/10-04-2021/spectral-workbench-can-t-search-502-bad-gatew
 nid: 27827
 uid: 774267
 
+cids: 29298,29299,29300,29421
+
 ---
 
 # Spectral Workbench: Can't search (502 Bad Gateway)

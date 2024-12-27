@@ -7,6 +7,8 @@ path: /notes/mjcamerino92/10-18-2019/40x-portable-microscope-with-the-pi-cam-v2-
 nid: 21216
 uid: 629608
 
+cids: 
+
 ---
 
 # 40x portable microscope with the pi cam V2.0

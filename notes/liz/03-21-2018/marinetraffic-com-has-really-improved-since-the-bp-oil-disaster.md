@@ -7,6 +7,8 @@ path: /notes/liz/03-21-2018/marinetraffic-com-has-really-improved-since-the-bp-o
 nid: 15989
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/115/original/Screen_Shot_2018-03-21_at_9.54.41_AM.png)

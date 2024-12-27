@@ -7,6 +7,8 @@ path: /notes/stef/01-26-2017/fraunhofer-lines-question.md
 nid: 13882
 uid: 482758
 
+cids: 16116,22415
+
 ---
 
 # Fraunhofer Lines at higher resolutions?

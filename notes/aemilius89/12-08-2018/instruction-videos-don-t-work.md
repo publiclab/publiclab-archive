@@ -7,6 +7,8 @@ path: /notes/aemilius89/12-08-2018/instruction-videos-don-t-work.md
 nid: 17838
 uid: 561190
 
+cids: 21480,21482,21484,21485
+
 ---
 
 # Instruction videos don't work!

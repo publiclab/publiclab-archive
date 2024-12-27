@@ -7,6 +7,8 @@ path: /notes/warren/1-31-2012/idea-single-camera-ndvinrg-infrared-analysis.md
 nid: 735
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/sketch.jpg)

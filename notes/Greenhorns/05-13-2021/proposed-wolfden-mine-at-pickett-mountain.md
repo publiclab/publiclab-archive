@@ -7,6 +7,8 @@ path: /notes/Greenhorns/05-13-2021/proposed-wolfden-mine-at-pickett-mountain.md
 nid: 26582
 uid: 756206
 
+cids: 28779,28780,28791,28814,28863,29032,29403,31461,31463,31486
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/785/original/Screen_Shot_2021-05-13_at_5.10.38_PM.png)

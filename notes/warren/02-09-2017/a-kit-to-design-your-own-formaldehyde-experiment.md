@@ -7,6 +7,8 @@ path: /notes/warren/02-09-2017/a-kit-to-design-your-own-formaldehyde-experiment.
 nid: 13913
 uid: 1
 
+cids: 16214,16362,16373,16374,16377,16378,16381,16436,16610,16612,16628,16629,16630,16673,16679,16684,16686,16689,16690,16691,16695,16698,16766,16777
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/507/original/IMG_20170208_182710_209.jpg)

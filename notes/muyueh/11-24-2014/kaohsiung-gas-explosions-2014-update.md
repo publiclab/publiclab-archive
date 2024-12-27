@@ -7,6 +7,8 @@ path: /notes/muyueh/11-24-2014/kaohsiung-gas-explosions-2014-update.md
 nid: 11396
 uid: 422365
 
+cids: 10839,10849,10854,10862
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/100/original/explosions.png)

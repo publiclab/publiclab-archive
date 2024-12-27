@@ -7,6 +7,8 @@ path: /notes/rmeister/03-24-2016/browser-based-arduino-sensor-data-transfer-usin
 nid: 12883
 uid: 468994
 
+cids: 14045,14056,14063,14064,14556,14557,14560,14564,14565,14567,14573,14650,14657,14659
+
 ---
 
 # Browser-based Arduino sensor data transfer using WebRTC and headphone jack

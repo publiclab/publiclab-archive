@@ -7,6 +7,8 @@ path: /notes/sara/7-29-2012/thermal-imaging-tests-android-ap.md
 nid: 3012
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ThermalImageandroidAp2.jpeg)

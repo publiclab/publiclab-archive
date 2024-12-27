@@ -7,6 +7,8 @@ path: /notes/Dhiraj24/03-31-2020/gsoc-2020-proposal-public-lab-leaflet-environme
 nid: 23268
 uid: 553642
 
+cids: 26619,26620
+
 ---
 
 # GSoC 2020 proposal:Public Lab: Leaflet Environmental Layers (LEL): time slider UI

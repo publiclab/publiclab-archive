@@ -7,6 +7,8 @@ path: /notes/BHannon/12-28-2017/how-can-i-detect-in-urban-areas-the-amount-of-he
 nid: 15441
 uid: 521430
 
+cids: 
+
 ---
 
 # How can I detect in urban areas the amount of herbicide droplet and gaseous forms?

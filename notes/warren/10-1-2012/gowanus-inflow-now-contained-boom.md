@@ -7,6 +7,8 @@ path: /notes/warren/10-1-2012/gowanus-inflow-now-contained-boom.md
 nid: 4096
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0780.JPG)

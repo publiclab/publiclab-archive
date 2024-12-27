@@ -7,6 +7,8 @@ path: /notes/warren/05-02-2013/cuvettes-leak-if-theyre-not-held-upright.md
 nid: 7205
 uid: 1
 
+cids: 4654
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/156/original/1367503202833.jpg)

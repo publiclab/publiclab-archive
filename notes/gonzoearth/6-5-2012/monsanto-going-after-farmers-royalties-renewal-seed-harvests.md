@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-5-2012/monsanto-going-after-farmers-royalties-renewal-
 nid: 2350
 uid: 12
 
+cids: 
+
 ---
 
 # Monsanto going after farmers for royalties from renewal seed harvests

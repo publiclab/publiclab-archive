@@ -7,6 +7,8 @@ path: /notes/erumenig/09-19-2017/how-can-i-purchase-dustduino-sensor.md
 nid: 14906
 uid: 514672
 
+cids: 17392,17395,17396,17399,17415,17419,19422
+
 ---
 
 # How can I purchase dustduino sensor?

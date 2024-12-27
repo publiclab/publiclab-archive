@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-25-2012/base-maps-mapknitter.md
 nid: 2625
 uid: 12
 
+cids: 956
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-06-25 at 3.20.11 PM.png)

@@ -7,6 +7,8 @@ path: /notes/ruya/12-14-2017/buy-uk.md
 nid: 15371
 uid: 520504
 
+cids: 22802
+
 ---
 
 # buying Infragram filter pack in UK

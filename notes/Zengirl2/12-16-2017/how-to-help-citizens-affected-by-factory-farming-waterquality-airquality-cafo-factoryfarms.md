@@ -7,6 +7,8 @@ path: /notes/Zengirl2/12-16-2017/how-to-help-citizens-affected-by-factory-farmin
 nid: 15387
 uid: 423961
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/952/original/FarmSick.jpg)

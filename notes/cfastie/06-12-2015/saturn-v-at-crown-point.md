@@ -7,6 +7,8 @@ path: /notes/cfastie/06-12-2015/saturn-v-at-crown-point.md
 nid: 11975
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/323/original/CPFort-627-119.jpg)

@@ -7,6 +7,8 @@ path: /notes/bbutler/09-14-2017/where-can-someone-send-a-strange-substance-found
 nid: 14896
 uid: 514395
 
+cids: 17381,17382,17383,17384,17385,17386,17387,17388,22902
+
 ---
 
 # Where can someone send a strange substance found on their property for analysis?

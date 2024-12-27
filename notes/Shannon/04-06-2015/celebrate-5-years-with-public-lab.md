@@ -7,6 +7,8 @@ path: /notes/Shannon/04-06-2015/celebrate-5-years-with-public-lab.md
 nid: 11746
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/555/original/5245205046_bf504ff265_o.jpg)

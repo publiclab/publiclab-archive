@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-30-2021/mapknitter-map-of-more-updates-to-construction-
 nid: 27637
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/763/original/odm_orthophoto_copy_smlr_medium.jpeg)

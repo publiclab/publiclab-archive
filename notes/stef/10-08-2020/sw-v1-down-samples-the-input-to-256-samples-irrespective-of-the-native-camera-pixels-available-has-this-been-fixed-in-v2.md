@@ -7,6 +7,8 @@ path: /notes/stef/10-08-2020/sw-v1-down-samples-the-input-to-256-samples-irrespe
 nid: 24718
 uid: 482758
 
+cids: 27452
+
 ---
 
 # SW-V1 down samples the input to 256 samples irrespective of the native  camera pixels available has this been fixed in V2?

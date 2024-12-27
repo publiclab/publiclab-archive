@@ -7,6 +7,8 @@ path: /notes/fongvania/12-12-2021/data-cleaning-with-openrefine.md
 nid: 28440
 uid: 754846
 
+cids: 29518
+
 ---
 
 # Data Cleaning with OpenRefine

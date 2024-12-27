@@ -7,6 +7,8 @@ path: /notes/ajongafaczinkeng/04-19-2022/outreachy-proposal-design-a-new-full-sc
 nid: 30486
 uid: 795065
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/097/original/infragram_img1.jpg)

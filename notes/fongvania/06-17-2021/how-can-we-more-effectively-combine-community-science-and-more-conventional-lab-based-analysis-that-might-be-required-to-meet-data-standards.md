@@ -7,6 +7,8 @@ path: /notes/fongvania/06-17-2021/how-can-we-more-effectively-combine-community-
 nid: 26837
 uid: 754846
 
+cids: 28932,28933,28934,28937,28938,28963,28966,28977
+
 ---
 
 # How can we more effectively combine community science and more conventional lab-based analysis that might be required to meet data standards?

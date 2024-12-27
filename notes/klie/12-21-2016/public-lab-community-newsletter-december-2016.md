@@ -7,6 +7,8 @@ path: /notes/klie/12-21-2016/public-lab-community-newsletter-december-2016.md
 nid: 13802
 uid: 441262
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/100/original/Screen_Shot_2016-12-17_at_9.01.46_AM.png)

@@ -7,6 +7,8 @@ path: /notes/gbathree/05-17-2014/photosynq-at-bay-area-maker-faire.md
 nid: 10475
 uid: 53164
 
+cids: 9073,9074,9075
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/287/original/IMG_1458.JPG)

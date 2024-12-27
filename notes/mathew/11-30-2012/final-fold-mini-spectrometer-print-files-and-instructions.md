@@ -7,6 +7,8 @@ path: /notes/mathew/11-30-2012/final-fold-mini-spectrometer-print-files-and-inst
 nid: 5071
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-11-30 at 2.04.45 PM.png)

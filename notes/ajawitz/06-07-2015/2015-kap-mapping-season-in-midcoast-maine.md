@@ -7,6 +7,8 @@ path: /notes/ajawitz/06-07-2015/2015-kap-mapping-season-in-midcoast-maine.md
 nid: 11954
 uid: 294634
 
+cids: 11928,11979
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/234/original/Pottsorama.png)

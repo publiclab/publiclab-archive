@@ -7,6 +7,8 @@ path: /notes/imvec/07-02-2022/anadir-jack-al-coqui-para-grabar-mediciones.md
 nid: 31175
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/837/original/photo_2018-06-08_22-41-09.jpg)

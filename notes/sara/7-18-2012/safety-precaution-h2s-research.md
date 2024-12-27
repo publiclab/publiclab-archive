@@ -7,6 +7,8 @@ path: /notes/sara/7-18-2012/safety-precaution-h2s-research.md
 nid: 2866
 uid: 8
 
+cids: 1055,1571,1574,1575
+
 ---
 
 # Safety Precautions for H2S Research

@@ -7,6 +7,8 @@ path: /notes/espero/09-13-2014/using-photosynth-to-automatically-stitch-images-f
 nid: 11141
 uid: 427655
 
+cids: 10298
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/814/original/EMF-photosynth.png)

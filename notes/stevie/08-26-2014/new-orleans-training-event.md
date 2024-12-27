@@ -7,6 +7,8 @@ path: /notes/stevie/08-26-2014/new-orleans-training-event.md
 nid: 11077
 uid: 422561
 
+cids: 10119,10141,10244
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/433/original/flyer-indoor.png)

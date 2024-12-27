@@ -7,6 +7,8 @@ path: /notes/stevesteve/01-15-2018/what-is-the-latest-thinking-of-red-green-filt
 nid: 15527
 uid: 522770
 
+cids: 18180,22844
+
 ---
 
 # What is the latest thinking of red / blue filters for NDVI?

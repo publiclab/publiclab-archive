@@ -7,6 +7,8 @@ path: /notes/tommystyles/10-20-2017/need-your-feedback-on-tag-pages.md
 nid: 15072
 uid: 516670
 
+cids: 17552,17553,17700,17702,17703,17704,17705,17706,17707,17708,17709,17710,18160,18240,18266,18290,18293,18294,18295,22723,22724,22863
+
 ---
 
 # Need your feedback on Tag pages

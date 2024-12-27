@@ -7,6 +7,8 @@ path: /notes/madafe/07-30-2018/draft-how-to-intergrate-spectral-data-geometrical
 nid: 16813
 uid: 543612
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/186/original/SpectraFitting.png)

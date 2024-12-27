@@ -7,6 +7,8 @@ path: /notes/ygzstc/08-05-2015/oil-testing-kit-public-beta-program-announcing-pa
 nid: 12123
 uid: 422489
 
+cids: 12500,12507,12508,12516,12518,12541,12544,12546,12548,12549,12555,12564,12565
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/040/original/otk-b-flyer.png)

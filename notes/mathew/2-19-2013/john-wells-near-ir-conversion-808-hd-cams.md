@@ -7,6 +7,8 @@ path: /notes/mathew/2-19-2013/john-wells-near-ir-conversion-808-hd-cams.md
 nid: 6059
 uid: 4
 
+cids: 3565,3566,3567,3568,3571
+
 ---
 
 ![](https://publiclab.org/sites/default/files/coathangerrigmod.jpg)

@@ -7,6 +7,8 @@ path: /notes/smalam/02-17-2017/noise-pollution-measure-meter.md
 nid: 13938
 uid: 503036
 
+cids: 22857
+
 ---
 
 # Noise Pollution measure meter 

@@ -7,6 +7,8 @@ path: /notes/stevie/08-14-2015/mapping-in-crawford-county-wi.md
 nid: 12143
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/118/original/20150807_120415.jpg)

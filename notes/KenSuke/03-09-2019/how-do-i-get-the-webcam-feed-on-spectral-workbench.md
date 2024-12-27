@@ -7,6 +7,8 @@ path: /notes/KenSuke/03-09-2019/how-do-i-get-the-webcam-feed-on-spectral-workben
 nid: 18502
 uid: 569201
 
+cids: 22103
+
 ---
 
 # How do I get the webcam feed on Spectral Workbench?

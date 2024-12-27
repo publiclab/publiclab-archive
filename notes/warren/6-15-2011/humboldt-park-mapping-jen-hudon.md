@@ -7,6 +7,8 @@ path: /notes/warren/6-15-2011/humboldt-park-mapping-jen-hudon.md
 nid: 344
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSCN7308.JPG)

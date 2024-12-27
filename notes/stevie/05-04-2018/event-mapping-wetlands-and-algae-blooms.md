@@ -7,6 +7,8 @@ path: /notes/stevie/05-04-2018/event-mapping-wetlands-and-algae-blooms.md
 nid: 16300
 uid: 422561
 
+cids: 19601
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/827/original/Screen_Shot_2018-05-04_at_2.47.43_PM.png)

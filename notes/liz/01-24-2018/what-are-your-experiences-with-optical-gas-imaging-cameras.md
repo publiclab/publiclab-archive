@@ -7,6 +7,8 @@ path: /notes/liz/01-24-2018/what-are-your-experiences-with-optical-gas-imaging-c
 nid: 15602
 uid: 7
 
+cids: 18289
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/325/original/unnamed.jpg)

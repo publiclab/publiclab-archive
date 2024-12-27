@@ -7,6 +7,8 @@ path: /notes/stella/03-14-2018/soc-proposal-rgsoc-proposal-upgrade-to-rails-5-1-
 nid: 15948
 uid: 504749
 
+cids: 18944,19039
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/046/original/upgrade.jpg)

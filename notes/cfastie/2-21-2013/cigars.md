@@ -7,6 +7,8 @@ path: /notes/cfastie/2-21-2013/cigars.md
 nid: 6087
 uid: 554
 
+cids: 3524,3525
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Cigars-20130221-4953.jpg)

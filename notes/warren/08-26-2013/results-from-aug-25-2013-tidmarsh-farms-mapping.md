@@ -7,6 +7,8 @@ path: /notes/warren/08-26-2013/results-from-aug-25-2013-tidmarsh-farms-mapping.m
 nid: 9057
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/308/original/IMG_0209.JPG)

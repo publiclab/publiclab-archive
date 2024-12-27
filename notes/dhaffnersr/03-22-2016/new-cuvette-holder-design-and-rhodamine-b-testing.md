@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-22-2016/new-cuvette-holder-design-and-rhodamine-b-tes
 nid: 12875
 uid: 461120
 
+cids: 14023,14037,14038
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/166/original/PIC_0110.JPG)

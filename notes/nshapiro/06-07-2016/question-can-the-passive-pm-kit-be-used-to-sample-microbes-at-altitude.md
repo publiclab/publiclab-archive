@@ -7,6 +7,8 @@ path: /notes/nshapiro/06-07-2016/question-can-the-passive-pm-kit-be-used-to-samp
 nid: 13172
 uid: 380298
 
+cids: 14754,14764,14822,14829
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/518/original/hqdefault.jpg)

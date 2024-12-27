@@ -7,6 +7,8 @@ path: /notes/cfastie/01-26-2018/how-to-make-a-low-power-timer.md
 nid: 15616
 uid: 554
 
+cids: 18312
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/349/original/TPL_20180124-2578.JPG)

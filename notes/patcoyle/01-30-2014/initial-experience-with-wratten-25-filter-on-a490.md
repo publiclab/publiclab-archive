@@ -7,6 +7,8 @@ path: /notes/patcoyle/01-30-2014/initial-experience-with-wratten-25-filter-on-a4
 nid: 9991
 uid: 77
 
+cids: 8127,8129,8132,8134,16320,16325
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/690/original/IMG_7940_NDVI_Color.jpg)

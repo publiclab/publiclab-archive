@@ -7,6 +7,8 @@ path: /notes/warren/09-27-2016/document-your-hardware-upgrades-at-parts-crafts-d
 nid: 13487
 uid: 1
 
+cids: 15560,15630,15632
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/164/original/pnc_%281%29.jpg)

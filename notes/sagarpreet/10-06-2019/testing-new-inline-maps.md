@@ -7,6 +7,8 @@ path: /notes/sagarpreet/10-06-2019/testing-new-inline-maps.md
 nid: 21092
 uid: 516343
 
+cids: 25647,25662
+
 ---
 
 # [Testing] New inline maps

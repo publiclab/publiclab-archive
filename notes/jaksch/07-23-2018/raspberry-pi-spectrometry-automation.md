@@ -7,6 +7,8 @@ path: /notes/jaksch/07-23-2018/raspberry-pi-spectrometry-automation.md
 nid: 16771
 uid: 542671
 
+cids: 20201,20210,20227,20228
+
 ---
 
 # WIP Raspberry Pi Spectrometry automation 

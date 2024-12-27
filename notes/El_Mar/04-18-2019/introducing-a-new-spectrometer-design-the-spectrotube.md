@@ -7,6 +7,8 @@ path: /notes/El_Mar/04-18-2019/introducing-a-new-spectrometer-design-the-spectro
 nid: 19103
 uid: 527923
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/627/original/SpecII.JPG)

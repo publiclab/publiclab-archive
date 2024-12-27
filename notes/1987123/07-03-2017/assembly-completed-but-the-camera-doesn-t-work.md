@@ -7,6 +7,8 @@ path: /notes/1987123/07-03-2017/assembly-completed-but-the-camera-doesn-t-work.m
 nid: 14610
 uid: 510180
 
+cids: 17083,17723,22684,22732
+
 ---
 
 # Assembly completed but the camera doesn't work.

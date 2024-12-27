@@ -7,6 +7,8 @@ path: /notes/surya_teja/09-18-2019/how-to-overcome-sensitivity-issue-of-water-fl
 nid: 20911
 uid: 620589
 
+cids: 
+
 ---
 
 # How to overcome sensitivity issue of water flow sensor while interfacing with aurdino 

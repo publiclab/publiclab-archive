@@ -7,6 +7,8 @@ path: /notes/warren/04-20-2014/public-lab-trading-cards.md
 nid: 10334
 uid: 1
 
+cids: 8993
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/728/original/tmp_IMG_20140419_214207156309759.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/12-05-2016/how-do-i-make-a-video-from-a-series-of-photos.md
 nid: 13747
 uid: 1
 
+cids: 17293,22362,22363,22365,22366,22540,29317,30272
+
 ---
 
 # How do I make a video from a series of photos?

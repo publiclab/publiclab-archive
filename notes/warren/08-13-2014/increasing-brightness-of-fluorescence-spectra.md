@@ -7,6 +7,8 @@ path: /notes/warren/08-13-2014/increasing-brightness-of-fluorescence-spectra.md
 nid: 11047
 uid: 1
 
+cids: 9982,9983,9984,9999,10006,10071,10077
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/248/original/IMG_20140813_172532.jpg)

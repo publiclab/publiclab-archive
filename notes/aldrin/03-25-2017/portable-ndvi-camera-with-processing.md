@@ -7,6 +7,8 @@ path: /notes/aldrin/03-25-2017/portable-ndvi-camera-with-processing.md
 nid: 14059
 uid: 493973
 
+cids: 
+
 ---
 
 # portable NDVi camera with processing

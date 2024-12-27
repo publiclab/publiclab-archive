@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-350-allens-ave.md
 nid: 23072
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (350 Allens Ave)

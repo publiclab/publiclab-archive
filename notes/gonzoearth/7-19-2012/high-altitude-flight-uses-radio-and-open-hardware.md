@@ -7,6 +7,8 @@ path: /notes/gonzoearth/7-19-2012/high-altitude-flight-uses-radio-and-open-hardw
 nid: 2892
 uid: 12
 
+cids: 1063,26417
+
 ---
 
 # High altitude flight uses radio and open hardware

@@ -7,6 +7,8 @@ path: /notes/singhav/04-07-2019/gsoc-proposal-mapknitter-upgrade-to-rails-6.md
 nid: 18992
 uid: 552080
 
+cids: 23741,23791
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/223/original/Upgrade.jpeg)

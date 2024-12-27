@@ -7,6 +7,8 @@ path: /notes/cfastie/11-24-2015/dual-band-pass-filters.md
 nid: 12442
 uid: 554
 
+cids: 13279,13280,21824,21826,21856,21859,21877,21880,21898
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/016/original/interferencefiltersfigure8.jpg)

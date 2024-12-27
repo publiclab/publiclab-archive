@@ -7,6 +7,8 @@ path: /notes/cfastie/04-23-2014/nir-and-white-balance.md
 nid: 10345
 uid: 554
 
+cids: 8867
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/799/original/MobTest-387-2.jpg)

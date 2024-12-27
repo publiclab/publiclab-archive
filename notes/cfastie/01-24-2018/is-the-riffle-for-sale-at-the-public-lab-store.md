@@ -7,6 +7,8 @@ path: /notes/cfastie/01-24-2018/is-the-riffle-for-sale-at-the-public-lab-store.m
 nid: 15601
 uid: 554
 
+cids: 20321,20333,20334,22881,23197
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/326/original/riffle_20180124-2580.JPG)

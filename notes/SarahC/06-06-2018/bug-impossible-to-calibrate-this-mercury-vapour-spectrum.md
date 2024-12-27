@@ -7,6 +7,8 @@ path: /notes/SarahC/06-06-2018/bug-impossible-to-calibrate-this-mercury-vapour-s
 nid: 16434
 uid: 448894
 
+cids: 19758,23104
+
 ---
 
 # Bug : Impossible to calibrate this mercury vapour spectrum

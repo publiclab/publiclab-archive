@@ -7,6 +7,8 @@ path: /notes/amirberAgain/05-23-2018/use-of-a-5-bill-for-microscope-calibration.
 nid: 16381
 uid: 420776
 
+cids: 19689
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/014/original/Crop.jpg)

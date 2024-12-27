@@ -7,6 +7,8 @@ path: /notes/wward1400/02-12-2015/north-nashville-rezoning-a-concrete-batch-plan
 nid: 11577
 uid: 46742
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/915/original/%E2%80%A2_NXNE_Aerial_02.06.14_-_NxNE_Hawkins_Development_Company.jpg)

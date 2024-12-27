@@ -7,6 +7,8 @@ path: /notes/wward1400/10-09-2013/cartography-primer-no-1-at-pamet-marsh-cape-co
 nid: 9429
 uid: 46742
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/824/original/Cartography_Primer_invitation_tix_v2.jpg)

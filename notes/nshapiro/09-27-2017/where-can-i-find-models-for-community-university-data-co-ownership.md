@@ -7,6 +7,8 @@ path: /notes/nshapiro/09-27-2017/where-can-i-find-models-for-community-universit
 nid: 14963
 uid: 380298
 
+cids: 17468,17469,17476,17477,17478,17479,17498,17512,17513,17516,17596,17610,17614,17615,17616,17617,22641,22655
+
 ---
 
 # Where can I find models for community-university data co-ownership?

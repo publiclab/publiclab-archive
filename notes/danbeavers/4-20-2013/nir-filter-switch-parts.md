@@ -7,6 +7,8 @@ path: /notes/danbeavers/4-20-2013/nir-filter-switch-parts.md
 nid: 6939
 uid: 51
 
+cids: 
+
 ---
 
 # NIR Filter Switch Parts

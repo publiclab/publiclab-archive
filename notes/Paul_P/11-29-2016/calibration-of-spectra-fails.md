@@ -7,6 +7,8 @@ path: /notes/Paul_P/11-29-2016/calibration-of-spectra-fails.md
 nid: 13730
 uid: 497508
 
+cids: 15891,16182,16188,16189,16190,16191,16195,16196,16206,22355,22356,22426,22427
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/900/original/calibrate.png)

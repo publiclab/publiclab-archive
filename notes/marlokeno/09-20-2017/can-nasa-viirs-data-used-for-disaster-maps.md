@@ -7,6 +7,8 @@ path: /notes/marlokeno/09-20-2017/can-nasa-viirs-data-used-for-disaster-maps.md
 nid: 14923
 uid: 420760
 
+cids: 17414,17420,17475,22639,22642
+
 ---
 
 # Can NASA VIIRS data  used for disaster maps?

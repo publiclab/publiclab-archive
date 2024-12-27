@@ -7,6 +7,8 @@ path: /notes/warren/09-30-2017/how-does-data-from-a-kestrel-wind-sensor-compare-
 nid: 14982
 uid: 1
 
+cids: 22784
+
 ---
 
 # How does data from a Kestrel wind sensor compare to an Modern Device wind sensor?

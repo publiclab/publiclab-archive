@@ -7,6 +7,8 @@ path: /notes/cfastie/10-23-2015/power-to-the-skyshield.md
 nid: 12330
 uid: 554
 
+cids: 12776,12777,12814,12816,12817
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/085/original/notiltsky.JPG)

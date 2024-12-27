@@ -7,6 +7,8 @@ path: /notes/pablo/10-20-2014/taller-de-fotos-aereas-en-barcelona.md
 nid: 11283
 uid: 160
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/561/original/documenta-desde-el-aire.jpg)

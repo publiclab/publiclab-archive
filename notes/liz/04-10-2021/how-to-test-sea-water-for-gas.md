@@ -7,6 +7,8 @@ path: /notes/liz/04-10-2021/how-to-test-sea-water-for-gas.md
 nid: 26183
 uid: 7
 
+cids: 28522,28528,28531,28532,28534,28535,28623
+
 ---
 
 # How to test sea water for gas? 

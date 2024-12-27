@@ -7,6 +7,8 @@ path: /notes/liz/9-4-2012/nyc-lab-warming.md
 nid: 3644
 uid: 7
 
+cids: 1247
+
 ---
 
 ![](https://publiclab.org/sites/default/files/01-09-2012_Pfizer_LabWarming.JPG)

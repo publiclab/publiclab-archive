@@ -7,6 +7,8 @@ path: /notes/read_holman/12-12-2018/list-of-methods-for-lead-detection-monitorin
 nid: 17875
 uid: 540243
 
+cids: 21666,21667,21668,21669,21670,21671
+
 ---
 
 # Chemical/Analytical Methods Used When Testing for Lead

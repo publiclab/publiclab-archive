@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/10-20-2016/blink-an-led-write-a-sketch-and-build-a-bre
 nid: 13632
 uid: 459085
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/518/original/IMG_20161020_162018.jpg)

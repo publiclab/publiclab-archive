@@ -7,6 +7,8 @@ path: /notes/patcoyle/07-14-2015/smal-pocket-sled-kite-for-mobius-camera.md
 nid: 12059
 uid: 77
 
+cids: 12177,12178,12185,12187,12188
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/664/original/Untitled_2_crpd.jpg)

@@ -7,6 +7,8 @@ path: /notes/Bee/09-20-2022/local-social-context-of-the-fight-against-extraction
 nid: 34973
 uid: 793443
 
+cids: 
+
 ---
 
 # Local Social Context of the Fight Against Extraction 

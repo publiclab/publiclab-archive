@@ -7,6 +7,8 @@ path: /notes/liz/3-19-2013/8th-grade-audience-survey-viz-1.md
 nid: 6428
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7 - asthma viz crop.jpg)

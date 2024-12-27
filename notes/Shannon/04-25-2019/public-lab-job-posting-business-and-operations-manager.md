@@ -7,6 +7,8 @@ path: /notes/Shannon/04-25-2019/public-lab-job-posting-business-and-operations-m
 nid: 19163
 uid: 9
 
+cids: 24067,24897,26416,28216
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/777/original/IMG_20190424_135638_094.jpg)

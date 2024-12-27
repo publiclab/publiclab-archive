@@ -7,6 +7,8 @@ path: /09-18-2019/tallow-rapid-assessment-for-green-infrastructure.md
 nid: 20916
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/321/original/IMAG3840.jpg)

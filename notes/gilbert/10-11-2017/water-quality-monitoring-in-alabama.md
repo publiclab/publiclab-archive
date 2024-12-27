@@ -7,6 +7,8 @@ path: /notes/gilbert/10-11-2017/water-quality-monitoring-in-alabama.md
 nid: 15026
 uid: 508551
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/919/original/hog_bayou_africatown_satellite.png)

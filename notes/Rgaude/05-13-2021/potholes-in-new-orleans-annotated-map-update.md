@@ -7,6 +7,8 @@ path: /notes/Rgaude/05-13-2021/potholes-in-new-orleans-annotated-map-update.md
 nid: 26573
 uid: 749812
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/782/original/Stem_1_1.PNG)

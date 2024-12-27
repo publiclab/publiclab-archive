@@ -7,6 +7,8 @@ path: /notes/liz/07-02-2013/infragrams-over-nyc-100-quincy-garden.md
 nid: 8612
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/618/original/IMG_3096_small_NDVI.jpg)

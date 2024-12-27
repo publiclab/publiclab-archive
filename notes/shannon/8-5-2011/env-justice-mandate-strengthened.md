@@ -7,6 +7,8 @@ path: /notes/shannon/8-5-2011/env-justice-mandate-strengthened.md
 nid: 432
 uid: 9
 
+cids: 
+
 ---
 
 # Env. Justice mandate strengthened

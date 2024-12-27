@@ -7,6 +7,8 @@ path: /notes/warren/11-8-2011/barataria-and-other-ground-photos-inclusion-future
 nid: 550
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/booms.jpg)

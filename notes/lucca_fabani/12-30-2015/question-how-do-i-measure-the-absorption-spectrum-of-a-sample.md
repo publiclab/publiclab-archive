@@ -7,6 +7,8 @@ path: /notes/lucca_fabani/12-30-2015/question-how-do-i-measure-the-absorption-sp
 nid: 12549
 uid: 459614
 
+cids: 13217,13218,13219,13261,13384
+
 ---
 
 # Question: How do I measure the absorption spectrum of a sample?

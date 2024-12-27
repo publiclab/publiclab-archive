@@ -7,6 +7,8 @@ path: /notes/liz/12-07-2015/legacy-oil-spills-under-pfizer-building.md
 nid: 12485
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/236/original/IMG_20151207_143037915_HDR.jpg)

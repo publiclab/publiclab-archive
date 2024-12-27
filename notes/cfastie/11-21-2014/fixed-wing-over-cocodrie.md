@@ -7,6 +7,8 @@ path: /notes/cfastie/11-21-2014/fixed-wing-over-cocodrie.md
 nid: 11381
 uid: 554
 
+cids: 10818,10820,10821,10822
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/053/original/Barn2014_1612.jpg)

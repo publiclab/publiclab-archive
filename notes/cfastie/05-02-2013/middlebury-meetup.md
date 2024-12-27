@@ -7,6 +7,8 @@ path: /notes/cfastie/05-02-2013/middlebury-meetup.md
 nid: 7193
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/152/original/2013-04-30_09.52.08ca.jpg)

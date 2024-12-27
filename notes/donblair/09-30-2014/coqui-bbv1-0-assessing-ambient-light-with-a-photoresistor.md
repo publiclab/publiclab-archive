@@ -7,6 +7,8 @@ path: /notes/donblair/09-30-2014/coqui-bbv1-0-assessing-ambient-light-with-a-pho
 nid: 11214
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/219/original/coquiAmbient.png)

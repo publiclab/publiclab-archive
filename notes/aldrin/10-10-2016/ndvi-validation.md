@@ -7,6 +7,8 @@ path: /notes/aldrin/10-10-2016/ndvi-validation.md
 nid: 13544
 uid: 493973
 
+cids: 15610,15648,15649,22324
+
 ---
 
 # NDVI validation

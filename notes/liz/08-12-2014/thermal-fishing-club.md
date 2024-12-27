@@ -7,6 +7,8 @@ path: /notes/liz/08-12-2014/thermal-fishing-club.md
 nid: 11040
 uid: 7
 
+cids: 10240,10241,10276,10371,10377,10382,10385,10388
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/690/original/Gowanus-thermal-fishing-club.png)

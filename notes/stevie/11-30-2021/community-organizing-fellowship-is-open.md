@@ -7,6 +7,8 @@ path: /notes/stevie/11-30-2021/community-organizing-fellowship-is-open.md
 nid: 28316
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/114/original/IMG_2044.JPG)

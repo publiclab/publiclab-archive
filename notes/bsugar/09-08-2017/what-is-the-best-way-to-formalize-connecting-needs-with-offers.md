@@ -7,6 +7,8 @@ path: /notes/bsugar/09-08-2017/what-is-the-best-way-to-formalize-connecting-need
 nid: 14849
 uid: 217812
 
+cids: 17458,17907,22591,22592
+
 ---
 
 # What is the best way to formalize connecting needs with offers?

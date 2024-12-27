@@ -7,6 +7,8 @@ path: /notes/Vman/06-25-2017/unable-to-use-back-camera-on-an-android-phone.md
 nid: 14582
 uid: 497579
 
+cids: 16913,22520
+
 ---
 
 # Unable to use back camera on an android phone

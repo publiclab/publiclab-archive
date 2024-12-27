@@ -7,6 +7,8 @@ path: /notes/edilberto/03-24-2015/question.md
 nid: 11718
 uid: 433945
 
+cids: 11399
+
 ---
 
 # Question: 

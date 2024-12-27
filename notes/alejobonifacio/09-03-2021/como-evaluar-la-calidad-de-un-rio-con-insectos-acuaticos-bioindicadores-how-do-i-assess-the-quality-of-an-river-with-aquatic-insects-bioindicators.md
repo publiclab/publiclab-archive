@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/09-03-2021/como-evaluar-la-calidad-de-un-rio-con-ins
 nid: 27675
 uid: 639376
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/772/original/portada.png)

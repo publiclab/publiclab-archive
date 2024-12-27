@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/03-17-2022/clear-fork-3-17-22.md
 nid: 30144
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/528/original/clearfork.jpg)

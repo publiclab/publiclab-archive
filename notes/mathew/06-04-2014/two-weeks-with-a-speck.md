@@ -7,6 +7,8 @@ path: /notes/mathew/06-04-2014/two-weeks-with-a-speck.md
 nid: 10528
 uid: 4
 
+cids: 9169,9173,9185,9186,9187,9312
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/517/original/14155445079_6657caf3aa_b.jpg)

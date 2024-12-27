@@ -7,6 +7,8 @@ path: /notes/chongyukwai/05-23-2015/mid-stream-urine-analysis-check-whether-you-
 nid: 11834
 uid: 442298
 
+cids: 11762,11768,11773,11783
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/991/original/th.jpg)

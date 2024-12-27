@@ -7,6 +7,8 @@ path: /notes/permaculturegardener/09-26-2019/what-do-you-do-with-charcoal-from-a
 nid: 21011
 uid: 623002
 
+cids: 25614,25622,25632,25646,25653,25708
+
 ---
 
 # What do you do with charcoal from a water filter?

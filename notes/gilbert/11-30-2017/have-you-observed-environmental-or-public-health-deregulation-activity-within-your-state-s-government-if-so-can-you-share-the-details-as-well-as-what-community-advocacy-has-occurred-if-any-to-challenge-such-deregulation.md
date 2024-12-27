@@ -7,6 +7,8 @@ path: /notes/gilbert/11-30-2017/have-you-observed-environmental-or-public-health
 nid: 15281
 uid: 508551
 
+cids: 17833,17834
+
 ---
 
 # Have you observed environmental or public health deregulation activity within your State's government? If so, can you share the details, as well as what community advocacy has occurred, if any, to challenge such deregulation?

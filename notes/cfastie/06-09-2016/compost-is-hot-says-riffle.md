@@ -7,6 +7,8 @@ path: /notes/cfastie/06-09-2016/compost-is-hot-says-riffle.md
 nid: 13182
 uid: 554
 
+cids: 14738,14739,14741,14744
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/568/original/compost_20160607-5895.jpg)

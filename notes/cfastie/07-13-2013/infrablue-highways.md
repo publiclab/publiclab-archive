@@ -7,6 +7,8 @@ path: /notes/cfastie/07-13-2013/infrablue-highways.md
 nid: 8867
 uid: 554
 
+cids: 6325,6329
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/771/original/ParksVista1NBG.jpg)

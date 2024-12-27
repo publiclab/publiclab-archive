@@ -7,6 +7,8 @@ path: /notes/natalie_stjean/10-29-2019/outreachy-proposal-refine-geographic-ui-a
 nid: 21336
 uid: 625194
 
+cids: 25788,25794,25795,25796,25798,25800,26506
+
 ---
 
 # Outreachy proposal: Refine Geographic UI and JS Integration for PublicLab.org

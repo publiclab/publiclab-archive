@@ -7,6 +7,8 @@ path: /notes/warren/9-6-2011/hydrogen-sulfide-detection-fart-detector.md
 nid: 453
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screenshot.png)

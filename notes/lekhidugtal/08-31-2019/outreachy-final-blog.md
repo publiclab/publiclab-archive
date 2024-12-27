@@ -7,6 +7,8 @@ path: /notes/lekhidugtal/08-31-2019/outreachy-final-blog.md
 nid: 20736
 uid: 577754
 
+cids: 25411,25418,25421,25425,25431,25432,26280
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/988/original/o.png)

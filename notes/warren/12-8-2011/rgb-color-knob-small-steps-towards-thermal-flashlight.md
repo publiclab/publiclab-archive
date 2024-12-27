@@ -7,6 +7,8 @@ path: /notes/warren/12-8-2011/rgb-color-knob-small-steps-towards-thermal-flashli
 nid: 618
 uid: 1
 
+cids: 476
+
 ---
 
 ![](https://publiclab.org/sites/default/files/tm_blinkm_maxm_small.jpeg)

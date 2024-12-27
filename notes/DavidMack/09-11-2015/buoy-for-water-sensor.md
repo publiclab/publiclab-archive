@@ -7,6 +7,8 @@ path: /notes/DavidMack/09-11-2015/buoy-for-water-sensor.md
 nid: 12211
 uid: 420189
 
+cids: 12582,12583
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/549/original/bucketfront.jpg)

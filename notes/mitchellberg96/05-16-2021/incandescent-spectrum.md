@@ -7,6 +7,8 @@ path: /notes/mitchellberg96/05-16-2021/incandescent-spectrum.md
 nid: 26611
 uid: 755996
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/825/original/Incandescent.jpg)

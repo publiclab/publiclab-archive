@@ -7,6 +7,8 @@ path: /notes/alanw/08-23-2018/need-insight-on-using-this-lens-on-modded-camera-f
 nid: 16991
 uid: 427523
 
+cids: 20493,20824,24750
+
 ---
 
 # Need insight on using this lens on modded camera for NDVI: OCN (Orange+Cyan+NIR) filter

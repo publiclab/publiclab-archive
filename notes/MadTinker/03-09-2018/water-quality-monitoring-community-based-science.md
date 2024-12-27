@@ -7,6 +7,8 @@ path: /notes/MadTinker/03-09-2018/water-quality-monitoring-community-based-scien
 nid: 15905
 uid: 461206
 
+cids: 18826,23939
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/932/original/IMG_8373.jpg)

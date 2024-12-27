@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/11-19-2021/aguas-cloacales-en-la-cuenca-del-rio-suqu
 nid: 28163
 uid: 639376
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/096/original/WhatsApp_Image_2021-09-22_at_10.59.25.jpeg)

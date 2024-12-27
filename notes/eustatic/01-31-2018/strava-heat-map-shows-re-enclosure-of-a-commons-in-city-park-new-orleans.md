@@ -7,6 +7,8 @@ path: /01-31-2018/strava-heat-map-shows-re-enclosure-of-a-commons-in-city-park-n
 nid: 15648
 uid: 379
 
+cids: 18330,18331,18332
+
 ---
 
 # Strava 'heat map' shows re-enclosure of a commons in City Park New Orleans

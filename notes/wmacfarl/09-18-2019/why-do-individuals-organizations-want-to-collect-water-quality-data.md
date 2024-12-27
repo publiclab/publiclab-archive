@@ -7,6 +7,8 @@ path: /notes/wmacfarl/09-18-2019/why-do-individuals-organizations-want-to-collec
 nid: 20917
 uid: 424597
 
+cids: 25541,25577,25578
+
 ---
 
 # Why do individuals/organizations want to collect water quality data?

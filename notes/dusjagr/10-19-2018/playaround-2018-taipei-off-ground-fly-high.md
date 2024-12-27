@@ -7,6 +7,8 @@ path: /notes/dusjagr/10-19-2018/playaround-2018-taipei-off-ground-fly-high.md
 nid: 17331
 uid: 46795
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/061/original/GroupPix_webBanner.jpg)

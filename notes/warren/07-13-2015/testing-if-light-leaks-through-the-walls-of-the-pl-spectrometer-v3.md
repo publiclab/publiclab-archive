@@ -7,6 +7,8 @@ path: /notes/warren/07-13-2015/testing-if-light-leaks-through-the-walls-of-the-p
 nid: 12056
 uid: 1
 
+cids: 12179,12184
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/653/original/Screenshot_2015-07-13_at_4.53.26_PM.png)

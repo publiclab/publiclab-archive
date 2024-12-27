@@ -7,6 +7,8 @@ path: /notes/nshapiro/02-07-2018/indoor-air-remediation-kit-paris-prototype-and-
 nid: 15699
 uid: 380298
 
+cids: 18382,18384,18385,20836,20837
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/475/original/11_-_b.jpg)

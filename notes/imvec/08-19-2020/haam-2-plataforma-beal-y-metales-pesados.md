@@ -7,6 +7,8 @@ path: /notes/imvec/08-19-2020/haam-2-plataforma-beal-y-metales-pesados.md
 nid: 24356
 uid: 495038
 
+cids: 27298,27307
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/563/original/haam2.jpg)

@@ -7,6 +7,8 @@ path: /notes/ch_tavan/05-14-2019/low-cost-nitrate-measurement-with-flow-injectio
 nid: 19400
 uid: 587692
 
+cids: 24141,24162,24166,24211
+
 ---
 
 # Low-cost nitrate measurement with Flow Injection (FIA) or Sequential Injection (SIA)

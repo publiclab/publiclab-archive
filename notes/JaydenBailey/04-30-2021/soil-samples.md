@@ -7,6 +7,8 @@ path: /notes/JaydenBailey/04-30-2021/soil-samples.md
 nid: 26419
 uid: 754772
 
+cids: 
+
 ---
 
 # Soil Samples

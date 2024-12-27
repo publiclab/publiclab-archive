@@ -7,6 +7,8 @@ path: /notes/warren/04-18-2018/hand-cut-or-lasercut-a-simple-diy-microscope-stag
 nid: 16174
 uid: 1
 
+cids: 19450,29199
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/646/original/IMG_20180417_190644_1024x1024.jpg)

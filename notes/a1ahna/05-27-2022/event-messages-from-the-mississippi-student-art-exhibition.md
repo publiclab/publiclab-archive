@@ -7,6 +7,8 @@ path: /notes/a1ahna/05-27-2022/event-messages-from-the-mississippi-student-art-e
 nid: 30914
 uid: 518193
 
+cids: 30273,30353,30357,31002,31003,31004,31005,31158,31183,31307,31485
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/705/original/Screen_Shot_2022-05-26_at_11.14.18_PM.png)

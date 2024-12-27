@@ -7,6 +7,8 @@ path: /notes/liz/05-09-2018/can-collecting-dust-on-a-sticky-pad-result-in-epa-re
 nid: 16319
 uid: 7
 
+cids: 23094
+
 ---
 
 # Can collecting dust on a sticky pad result in EPA review?

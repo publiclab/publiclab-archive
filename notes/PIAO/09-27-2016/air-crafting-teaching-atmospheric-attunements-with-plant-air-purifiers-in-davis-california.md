@@ -7,6 +7,8 @@ path: /notes/PIAO/09-27-2016/air-crafting-teaching-atmospheric-attunements-with-
 nid: 13490
 uid: 493070
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/167/original/IMG_0029.JPG)

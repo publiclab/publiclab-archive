@@ -7,6 +7,8 @@ path: /notes/read_holman/08-13-2018/anyone-working-on-environmental-lead-exposur
 nid: 16921
 uid: 540243
 
+cids: 20387,20390,20407,20408,20414,20415,20417,20419,20420,20421,23207,23208,23209,23210,23211,23212,23213
+
 ---
 
 # Anyone working on environmental lead exposure / poisoning?

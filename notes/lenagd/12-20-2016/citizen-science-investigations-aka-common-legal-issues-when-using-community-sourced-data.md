@@ -7,6 +7,8 @@ path: /notes/lenagd/12-20-2016/citizen-science-investigations-aka-common-legal-i
 nid: 13797
 uid: 429458
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/089/original/evidence.jpg)

@@ -7,6 +7,8 @@ path: /notes/ccampos/08-10-2015/wastewater-ponds-on-google-earth.md
 nid: 12133
 uid: 446563
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/097/original/Screenshot_2015-07-14-14-41-14.png)

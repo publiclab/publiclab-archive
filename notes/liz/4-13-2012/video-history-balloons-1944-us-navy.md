@@ -7,6 +7,8 @@ path: /notes/liz/4-13-2012/video-history-balloons-1944-us-navy.md
 nid: 1666
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ballooning-in-the-1.jpg)

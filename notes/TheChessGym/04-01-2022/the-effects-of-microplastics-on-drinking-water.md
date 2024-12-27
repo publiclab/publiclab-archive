@@ -7,6 +7,8 @@ path: /notes/TheChessGym/04-01-2022/the-effects-of-microplastics-on-drinking-wat
 nid: 30243
 uid: 788868
 
+cids: 29902,31185
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/596/original/0214b72b-e8f5-4e29-8831-941ac8941e0e.jpg)

@@ -7,6 +7,8 @@ path: /notes/stevie/08-23-2019/can-a-phone-app-be-used-to-measure-for-chemical-a
 nid: 20641
 uid: 422561
 
+cids: 27690,27703,27704
+
 ---
 
 # Can a phone app be used to measure for chemical air pollutants? 

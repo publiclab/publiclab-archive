@@ -7,6 +7,8 @@ path: /notes/Sbrocks46/04-19-2022/gsoc-22-refine-user-interfaces-across-publicla
 nid: 30488
 uid: 795857
 
+cids: 30188,30779
+
 ---
 
 # GSoC 22 - Refine User Interfaces across PublicLab.org

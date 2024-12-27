@@ -7,6 +7,8 @@ path: /notes/jerejack0507/04-14-2021/plant-pollution.md
 nid: 26235
 uid: 752875
 
+cids: 28571,28590,28597,28599
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/302/original/Denka.jpg)

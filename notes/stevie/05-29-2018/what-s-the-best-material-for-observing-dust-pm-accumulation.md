@@ -7,6 +7,8 @@ path: /notes/stevie/05-29-2018/what-s-the-best-material-for-observing-dust-pm-ac
 nid: 16406
 uid: 422561
 
+cids: 19707,19708,19709,19710,19772,19777,23098,23099,23100
+
 ---
 
 # What's the best material for observing dust (PM) accumulation? 

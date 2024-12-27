@@ -7,6 +7,8 @@ path: /notes/laurel_mire/02-22-2022/what-are-plausible-uses-for-reclaimed-mining
 nid: 30074
 uid: 759178
 
+cids: 29715
+
 ---
 
 # What are plausible uses for reclaimed mining land? 

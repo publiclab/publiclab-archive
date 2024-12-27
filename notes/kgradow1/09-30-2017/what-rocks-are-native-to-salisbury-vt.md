@@ -7,6 +7,8 @@ path: /notes/kgradow1/09-30-2017/what-rocks-are-native-to-salisbury-vt.md
 nid: 14974
 uid: 297929
 
+cids: 17493,17494,17495,22652,22653,22654
+
 ---
 
 # What rocks are native to Salisbury, VT? 

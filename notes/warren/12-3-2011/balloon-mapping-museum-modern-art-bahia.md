@@ -7,6 +7,8 @@ path: /notes/warren/12-3-2011/balloon-mapping-museum-modern-art-bahia.md
 nid: 608
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/bahia.jpg)

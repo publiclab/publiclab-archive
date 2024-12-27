@@ -7,6 +7,8 @@ path: /notes/mathew/10-22-2014/frac-sand-in-10-minutes.md
 nid: 11290
 uid: 4
 
+cids: 10597,10598,10599,10673,10674,10688,10691
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/597/original/Screen_Shot_2014-10-21_at_1.21.15_PM.png)

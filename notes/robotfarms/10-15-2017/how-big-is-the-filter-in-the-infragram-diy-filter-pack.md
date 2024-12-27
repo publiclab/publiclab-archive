@@ -7,6 +7,8 @@ path: /notes/robotfarms/10-15-2017/how-big-is-the-filter-in-the-infragram-diy-fi
 nid: 15051
 uid: 516361
 
+cids: 17526,17527,22688
+
 ---
 
 # How big is the filter in the infragram DIY filter pack?

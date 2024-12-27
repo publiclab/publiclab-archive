@@ -7,6 +7,8 @@ path: /notes/MaggPi/05-11-2018/raspberry-pi-noir-close-up-imaging.md
 nid: 16326
 uid: 501996
 
+cids: 19625,19626,19627,19628,19629,19768,19775,19776,28823
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/898/original/ir_pic.png)

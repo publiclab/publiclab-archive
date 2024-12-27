@@ -7,6 +7,8 @@ path: /notes/stevie/03-13-2018/what-should-we-look-for-when-sourcing-turbidity-t
 nid: 15937
 uid: 422561
 
+cids: 18949,18953,18990,18998,22996,23003,23018
+
 ---
 
 # What should we look for when sourcing turbidity tubes? 

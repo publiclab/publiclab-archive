@@ -7,6 +7,8 @@ path: /02-28-2015/nature-center-polygons-for-the-next-phase-of-forest-restoratio
 nid: 11644
 uid: 379
 
+cids: 11243,11253,11301,11302,12596
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/127/original/Nature_Center_aerial_2010.jpg)

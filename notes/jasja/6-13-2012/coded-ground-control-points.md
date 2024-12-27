@@ -7,6 +7,8 @@ path: /notes/jasja/6-13-2012/coded-ground-control-points.md
 nid: 2476
 uid: 835
 
+cids: 891,892,893,895,930,4729,4730
+
 ---
 
 ![](https://publiclab.org/sites/default/files/coded_GCP.jpg)

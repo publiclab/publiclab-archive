@@ -7,6 +7,8 @@ path: /notes/mara/12-1-2011/light-proof-changing-bag.md
 nid: 602
 uid: 331
 
+cids: 
+
 ---
 
 # light proof changing bag...

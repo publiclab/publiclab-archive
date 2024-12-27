@@ -7,6 +7,8 @@ path: /notes/dcchallener/11-14-2016/instuctions-say-to-go-to-publiclab-org-n-115
 nid: 13702
 uid: 420056
 
+cids: 15826,22347
+
 ---
 
 # Instuctions say to go to publiclab.org/n/11533 to watcha video. It isn't there

@@ -7,6 +7,8 @@ path: /notes/Tofu/10-08-2015/testing-both-spectrometer-3-0-and-otk-assembly-beta
 nid: 12281
 uid: 445547
 
+cids: 12787,12788
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/878/original/IMG_2708.JPG)

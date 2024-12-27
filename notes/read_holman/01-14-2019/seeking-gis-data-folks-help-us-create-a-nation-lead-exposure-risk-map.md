@@ -7,6 +7,8 @@ path: /notes/read_holman/01-14-2019/seeking-gis-data-folks-help-us-create-a-nati
 nid: 18118
 uid: 540243
 
+cids: 21727,21734,21750,21751,21786,21881,21899,21900,23967
+
 ---
 
 # Seeking GIS / Data folks: Help us create a nation Lead Exposure Risk map.

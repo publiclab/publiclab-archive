@@ -7,6 +7,8 @@ path: /notes/warren/07-16-2014/recent-improvements-to-publiclab-org.md
 nid: 10699
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/359/original/Screen_Shot_2014-07-16_at_10.57.28_AM.png)

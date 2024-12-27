@@ -7,6 +7,8 @@ path: /notes/kinasmith/06-09-2016/riffle-power-consumption.md
 nid: 13180
 uid: 445906
 
+cids: 14740,14743,17764
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/546/original/NewFile5.bmp)

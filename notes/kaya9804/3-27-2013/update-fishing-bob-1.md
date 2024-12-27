@@ -7,6 +7,8 @@ path: /notes/kaya9804/3-27-2013/update-fishing-bob-1.md
 nid: 6565
 uid: 45526
 
+cids: 4260,4292
+
 ---
 
 # Update on Fishing Bob

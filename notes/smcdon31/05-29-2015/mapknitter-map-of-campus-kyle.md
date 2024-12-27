@@ -7,6 +7,8 @@ path: /notes/smcdon31/05-29-2015/mapknitter-map-of-campus-kyle.md
 nid: 11895
 uid: 442765
 
+cids: 
+
 ---
 
 # MapKnitter map of Campus: Kyle 

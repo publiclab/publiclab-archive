@@ -7,6 +7,8 @@ path: /notes/liz/05-06-2014/prospect-park-spring-mapping-project.md
 nid: 10435
 uid: 7
 
+cids: 8985
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/092/original/IMG_2379.JPG)

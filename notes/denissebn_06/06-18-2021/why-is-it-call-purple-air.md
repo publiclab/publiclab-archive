@@ -7,6 +7,8 @@ path: /notes/denissebn_06/06-18-2021/why-is-it-call-purple-air.md
 nid: 26853
 uid: 749988
 
+cids: 28967
+
 ---
 
 # Why is it call Purple air?

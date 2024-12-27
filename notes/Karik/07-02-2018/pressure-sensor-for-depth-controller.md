@@ -7,6 +7,8 @@ path: /notes/Karik/07-02-2018/pressure-sensor-for-depth-controller.md
 nid: 16606
 uid: 539823
 
+cids: 20443
+
 ---
 
 # Pressure sensor for depth controller

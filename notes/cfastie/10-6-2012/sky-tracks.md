@@ -7,6 +7,8 @@ path: /notes/cfastie/10-6-2012/sky-tracks.md
 nid: 4240
 uid: 554
 
+cids: 1584,1585,1587,1631,1633,1637,1644
+
 ---
 
 ![](https://publiclab.org/sites/default/files/BreadLoaf-20121005-1631-2.jpg)

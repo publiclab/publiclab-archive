@@ -7,6 +7,8 @@ path: /notes/warren/05-01-2018/diy-windmill-and-solar-light-workshop.md
 nid: 53
 uid: 1
 
+cids: 23974
+
 ---
 
 # DIY Windmill and Solar Light Workshop

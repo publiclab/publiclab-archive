@@ -7,6 +7,8 @@ path: /notes/warren/1-24-2011/images-arriving-loose-flight-over-lima.md
 nid: 56
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/GEDC3984.JPG)

@@ -7,6 +7,8 @@ path: /notes/JSummers/12-30-2013/potentiostat-notes-3-wheestat-5-1-fabrication.m
 nid: 9918
 uid: 304279
 
+cids: 7978,11326,11328,11372,17338,17339,17340,17503,17504,17620,17625,17634,17657
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/462/original/PCB-mounted.jpg)

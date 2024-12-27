@@ -7,6 +7,8 @@ path: /notes/cfastie/10-23-2016/3d-visualizations-from-aerial-photos-of-a-landfi
 nid: 13640
 uid: 554
 
+cids: 15715,15724,15731
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/546/original/gravelpit.JPG)

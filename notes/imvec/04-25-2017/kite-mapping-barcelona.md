@@ -7,6 +7,8 @@ path: /notes/imvec/04-25-2017/kite-mapping-barcelona.md
 nid: 14137
 uid: 495038
 
+cids: 16605,16608,16609,16665,16666,16667
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/184/original/forum.png)

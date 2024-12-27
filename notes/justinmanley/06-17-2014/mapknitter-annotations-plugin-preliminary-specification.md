@@ -7,6 +7,8 @@ path: /notes/justinmanley/06-17-2014/mapknitter-annotations-plugin-preliminary-s
 nid: 10579
 uid: 421556
 
+cids: 9202,9203,9205,16999
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/823/original/Barataria_12_june_trip_VI.png)

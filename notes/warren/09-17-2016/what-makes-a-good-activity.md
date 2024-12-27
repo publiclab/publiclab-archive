@@ -7,6 +7,8 @@ path: /notes/warren/09-17-2016/what-makes-a-good-activity.md
 nid: 13458
 uid: 1
 
+cids: 15416,15417,15422,15434,15435,15466,15472,15508,15509,16152,16590,16596,16597
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/065/original/legos.jpg)

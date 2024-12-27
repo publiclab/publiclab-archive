@@ -7,6 +7,8 @@ path: /notes/mathew/08-21-2014/low-cost-passive-aerosol-monitors.md
 nid: 11071
 uid: 4
 
+cids: 10106,10115,10682,10689
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/376/original/Screen_Shot_2014-08-21_at_12.10.22_PM.png)

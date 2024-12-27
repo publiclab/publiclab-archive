@@ -7,6 +7,8 @@ path: /notes/Hudonnoodles/04-30-2014/northeast-tool-focused-barnraising-june-6-8
 nid: 10383
 uid: 102
 
+cids: 9022
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/941/original/IMG_3410.JPG)

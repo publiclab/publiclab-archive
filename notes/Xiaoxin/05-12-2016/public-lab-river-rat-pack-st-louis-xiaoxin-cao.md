@@ -7,6 +7,8 @@ path: /notes/Xiaoxin/05-12-2016/public-lab-river-rat-pack-st-louis-xiaoxin-cao.m
 nid: 13107
 uid: 473370
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/126/original/blob)

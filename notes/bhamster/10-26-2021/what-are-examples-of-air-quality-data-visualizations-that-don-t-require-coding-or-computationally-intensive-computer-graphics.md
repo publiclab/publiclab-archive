@@ -7,6 +7,8 @@ path: /notes/bhamster/10-26-2021/what-are-examples-of-air-quality-data-visualiza
 nid: 27965
 uid: 664477
 
+cids: 29356,29366
+
 ---
 
 # What are examples of air quality data visualizations that don’t require coding or computationally intensive computer graphics?

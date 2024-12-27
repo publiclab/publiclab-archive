@@ -7,6 +7,8 @@ path: /notes/bwilliams/10-12-2012/carbon-arc-electrode-prep.md
 nid: 4356
 uid: 42631
 
+cids: 
+
 ---
 
 # Carbon Arc Electrode Prep

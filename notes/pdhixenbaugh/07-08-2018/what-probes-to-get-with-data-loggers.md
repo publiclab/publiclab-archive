@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/07-08-2018/what-probes-to-get-with-data-loggers.md
 nid: 16661
 uid: 459085
 
+cids: 20028,20029,20030,20053
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/513/original/IMG_20180701_193439012_HDR-PANO.jpg)

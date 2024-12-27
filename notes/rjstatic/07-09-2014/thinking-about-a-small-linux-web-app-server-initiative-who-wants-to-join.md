@@ -7,6 +7,8 @@ path: /07-09-2014/thinking-about-a-small-linux-web-app-server-initiative-who-wan
 nid: 10668
 uid: 174
 
+cids: 9460,9461,9470,9474,9485,9515,9517,9547,9551,9579,9580,9733
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/186/original/raspberry-pi-fido_4.jpg)

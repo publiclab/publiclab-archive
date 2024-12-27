@@ -7,6 +7,8 @@ path: /notes/Charmstrong/12-14-2014/inquiry-capturing-and-isolating-local-yeast.
 nid: 11457
 uid: 430936
 
+cids: 10943,10945,10947
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/384/original/NativeAles_illo-300x201.jpg)

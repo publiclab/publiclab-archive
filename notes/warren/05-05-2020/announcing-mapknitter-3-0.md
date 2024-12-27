@@ -7,6 +7,8 @@ path: /notes/warren/05-05-2020/announcing-mapknitter-3-0.md
 nid: 23549
 uid: 1
 
+cids: 26757,26993,27265
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/280/original/Screenshot_2019-07-05_at_6.00.19_PM.png)

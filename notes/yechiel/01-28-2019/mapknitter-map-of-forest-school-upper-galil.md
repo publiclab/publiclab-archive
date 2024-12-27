@@ -7,6 +7,8 @@ path: /notes/yechiel/01-28-2019/mapknitter-map-of-forest-school-upper-galil.md
 nid: 18195
 uid: 572078
 
+cids: 
+
 ---
 
 # MapKnitter map of Forest School Upper Galil

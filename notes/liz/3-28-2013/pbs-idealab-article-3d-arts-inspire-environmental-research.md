@@ -7,6 +7,8 @@ path: /notes/liz/3-28-2013/pbs-idealab-article-3d-arts-inspire-environmental-res
 nid: 6578
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/publiclab3.jpg)

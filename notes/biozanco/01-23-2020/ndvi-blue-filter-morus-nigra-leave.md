@@ -7,6 +7,8 @@ path: /notes/biozanco/01-23-2020/ndvi-blue-filter-morus-nigra-leave.md
 nid: 22382
 uid: 533335
 
+cids: 27120,27123
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/745/original/blob)

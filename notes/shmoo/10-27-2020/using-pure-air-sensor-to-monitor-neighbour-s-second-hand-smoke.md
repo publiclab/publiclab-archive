@@ -7,6 +7,8 @@ path: /notes/shmoo/10-27-2020/using-pure-air-sensor-to-monitor-neighbour-s-secon
 nid: 24823
 uid: 727560
 
+cids: 27605,27606
+
 ---
 
 # Using PurpleAir Sensor to monitor neighbour's second hand smoke

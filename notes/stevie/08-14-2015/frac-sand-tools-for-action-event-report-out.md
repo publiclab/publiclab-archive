@@ -7,6 +7,8 @@ path: /notes/stevie/08-14-2015/frac-sand-tools-for-action-event-report-out.md
 nid: 12142
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/115/original/Untitled_Panorama1.jpg)

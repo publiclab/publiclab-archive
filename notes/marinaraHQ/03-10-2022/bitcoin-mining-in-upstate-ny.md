@@ -7,6 +7,8 @@ path: /notes/marinaraHQ/03-10-2022/bitcoin-mining-in-upstate-ny.md
 nid: 30115
 uid: 791074
 
+cids: 29792,29793,29795,29805,29814,29819,29838,30333,30511
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/560/original/Screen_Shot_2022-03-23_at_11.32.39_PM.png)

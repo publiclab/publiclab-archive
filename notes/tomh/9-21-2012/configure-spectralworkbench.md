@@ -7,6 +7,8 @@ path: /notes/tomh/9-21-2012/configure-spectralworkbench.md
 nid: 3930
 uid: 43352
 
+cids: 1435,1437
+
 ---
 
 # Configure Spectralworkbench???

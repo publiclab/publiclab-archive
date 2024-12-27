@@ -7,6 +7,8 @@ path: /notes/asnow/11-07-2017/how-do-i-assemble-the-mini-balloon-kit.md
 nid: 15159
 uid: 515746
 
+cids: 22712
+
 ---
 
 # How do I assemble the mini-balloon kit?

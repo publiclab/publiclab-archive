@@ -7,6 +7,8 @@ path: /notes/warren/02-19-2015/tutorial-video-installing-mapknitter-2.md
 nid: 11608
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/029/original/mapknitter-install.png)

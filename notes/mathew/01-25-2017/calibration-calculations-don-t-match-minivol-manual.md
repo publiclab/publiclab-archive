@@ -7,6 +7,8 @@ path: /notes/mathew/01-25-2017/calibration-calculations-don-t-match-minivol-manu
 nid: 13876
 uid: 4
 
+cids: 16100,16108,16109,22411,22412,22414,30351,30372
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/362/original/20170109_145812.jpg)

@@ -7,6 +7,8 @@ path: /notes/amenzel8/07-10-2018/how-can-i-get-the-absorption-spectra-once-i-hav
 nid: 16681
 uid: 540852
 
+cids: 23176
+
 ---
 
 # How can I get the absorption spectra once I have calibrated my spectrometer data?

@@ -7,6 +7,8 @@ path: /notes/vanshika421/03-26-2019/outreachy-proposal-revamp-the-website-interf
 nid: 18852
 uid: 578476
 
+cids: 23442,23443,23456,23470,23484
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/728/original/CTD10112018213019-1.jpg)

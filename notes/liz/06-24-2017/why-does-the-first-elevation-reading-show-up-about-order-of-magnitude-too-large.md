@@ -7,6 +7,8 @@ path: /notes/liz/06-24-2017/why-does-the-first-elevation-reading-show-up-about-o
 nid: 14580
 uid: 7
 
+cids: 22501,22502
+
 ---
 
 # Why does the first elevation reading show up about order of magnitude too large?

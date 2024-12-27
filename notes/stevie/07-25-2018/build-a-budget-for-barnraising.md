@@ -7,6 +7,8 @@ path: /notes/stevie/07-25-2018/build-a-budget-for-barnraising.md
 nid: 16787
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/881/original/IMG_6930.JPG)

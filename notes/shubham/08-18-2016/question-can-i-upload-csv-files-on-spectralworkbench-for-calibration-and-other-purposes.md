@@ -7,6 +7,8 @@ path: /notes/shubham/08-18-2016/question-can-i-upload-csv-files-on-spectralworkb
 nid: 13363
 uid: 460486
 
+cids: 22257
+
 ---
 
 # Can i upload csv files on spectralworkbench for calibration and other purposes?

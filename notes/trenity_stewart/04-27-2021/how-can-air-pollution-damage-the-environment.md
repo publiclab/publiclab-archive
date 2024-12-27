@@ -7,6 +7,8 @@ path: /notes/trenity_stewart/04-27-2021/how-can-air-pollution-damage-the-environ
 nid: 26369
 uid: 754373
 
+cids: 28642,28645,28680
+
 ---
 
 # how can Air pollution damage the environment?

@@ -7,6 +7,8 @@ path: /notes/warren/12-24-2010/ndvi-test-lima-peru.md
 nid: 35
 uid: 1
 
+cids: 23,24,19690,19704
+
 ---
 
 ![](https://publiclab.org/sites/default/files/san-martin-visible-infrared-ndvi.jpg)

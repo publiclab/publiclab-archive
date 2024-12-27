@@ -7,6 +7,8 @@ path: /notes/warren/05-21-2013/lots-of-sample-infragram-images-for-testing.md
 nid: 7793
 uid: 1
 
+cids: 4914,4915,4916
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/375/original/IMG_3387.JPG)

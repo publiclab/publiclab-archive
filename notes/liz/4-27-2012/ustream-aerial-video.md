@@ -7,6 +7,8 @@ path: /notes/liz/4-27-2012/ustream-aerial-video.md
 nid: 1818
 uid: 7
 
+cids: 
+
 ---
 
 # uStream aerial video

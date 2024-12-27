@@ -7,6 +7,8 @@ path: /notes/cfastie/03-10-2018/installing-the-water-level-monitor.md
 nid: 15911
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/947/original/spouts2.gif)

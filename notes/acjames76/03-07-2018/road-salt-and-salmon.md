@@ -7,6 +7,8 @@ path: /notes/acjames76/03-07-2018/road-salt-and-salmon.md
 nid: 15870
 uid: 420103
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/845/original/final_graph_2013-2017.png)

@@ -7,6 +7,8 @@ path: /notes/BIKIE-GERALD-24/07-21-2022/how-do-i-access-insitu-data-on-both-the-
 nid: 34172
 uid: 799821
 
+cids: 30335,30369,30434,30682,30994,31440
+
 ---
 
 # How do I access insitu data on both the Huber’s Frontier Project and the Talon-Rio Tinto Mine (Talon Mine) to make a predictive analysis of the geospation distribution of the negative effects of these two projects?

@@ -7,6 +7,8 @@ path: /notes/kanarinka/11-17-2014/research-from-the-barnraising.md
 nid: 11346
 uid: 994
 
+cids: 10767,10768,10771,10776
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/936/original/IMG_7675.JPG)

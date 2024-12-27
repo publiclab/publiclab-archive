@@ -7,6 +7,8 @@ path: /notes/stevie/03-13-2018/what-are-good-ways-to-test-for-ph-levels-and-wher
 nid: 15936
 uid: 422561
 
+cids: 18991,22994,22995,22997,23002,23005
+
 ---
 
 # What are good ways to test for pH levels and where can we get materials to do so?

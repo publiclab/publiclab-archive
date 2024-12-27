@@ -7,6 +7,8 @@ path: /notes/anayocrescent2/11-05-2021/outreachy-proposal-refine-the-public-lab-
 nid: 28111
 uid: 775856
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/065/original/Screenshot_20211105-103212.png)

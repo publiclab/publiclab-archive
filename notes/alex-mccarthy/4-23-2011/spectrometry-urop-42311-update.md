@@ -7,6 +7,8 @@ path: /notes/alex-mccarthy/4-23-2011/spectrometry-urop-42311-update.md
 nid: 191
 uid: 125
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Spectrometer 3.0 fluorescent bulb.png)

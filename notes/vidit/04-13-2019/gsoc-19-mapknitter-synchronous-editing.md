@@ -7,6 +7,8 @@ path: /notes/vidit/04-13-2019/gsoc-19-mapknitter-synchronous-editing.md
 nid: 19051
 uid: 517093
 
+cids: 23891,24130
+
 ---
 
 # GSOC-19 Mapknitter synchronous editing

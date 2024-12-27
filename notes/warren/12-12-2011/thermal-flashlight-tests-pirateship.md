@@ -7,6 +7,8 @@ path: /notes/warren/12-12-2011/thermal-flashlight-tests-pirateship.md
 nid: 627
 uid: 1
 
+cids: 377,1024,1053
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-12-12 at 4.57.29 PM.png)

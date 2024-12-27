@@ -7,6 +7,8 @@ path: /notes/kanarinka/06-09-2014/the-neighborhood-creek-expedition.md
 nid: 10542
 uid: 994
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/569/original/neighborhoodcreek2014-1.jpg)

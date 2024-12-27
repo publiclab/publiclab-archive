@@ -7,6 +7,8 @@ path: /notes/redleon/10-09-2016/how-to-remove-range-uploaded-by-mistake.md
 nid: 13540
 uid: 493944
 
+cids: 22327
+
 ---
 
 # how to delete my spectra on Spectral Workbench

@@ -7,6 +7,8 @@ path: /notes/damian_orovitz/04-28-2020/problem-whit-workbench-spectra-unable-to-
 nid: 23502
 uid: 682559
 
+cids: 26748
+
 ---
 
 # Problem whit workbench spectra. Unable to manipulate(work) whit any image

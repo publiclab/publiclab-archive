@@ -7,6 +7,8 @@ path: /notes/stevie/01-02-2018/economist-article-do-it-yourself-science-is-takin
 nid: 15454
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/074/original/20171223_dip300.jpg)

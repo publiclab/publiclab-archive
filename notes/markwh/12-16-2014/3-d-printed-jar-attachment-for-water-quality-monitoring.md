@@ -7,6 +7,8 @@ path: /notes/markwh/12-16-2014/3-d-printed-jar-attachment-for-water-quality-moni
 nid: 11467
 uid: 428820
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/440/original/module_withBoltholes_.png)

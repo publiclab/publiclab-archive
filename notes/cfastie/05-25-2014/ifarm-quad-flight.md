@@ -7,6 +7,8 @@ path: /notes/cfastie/05-25-2014/ifarm-quad-flight.md
 nid: 10511
 uid: 554
 
+cids: 9086,9099,9105,9137
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/454/original/iFarmSat2812-2.jpg)

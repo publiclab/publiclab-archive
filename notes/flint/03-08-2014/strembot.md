@@ -7,6 +7,8 @@ path: /notes/flint/03-08-2014/strembot.md
 nid: 10144
 uid: 421273
 
+cids: 8485,8564,8565,8569
+
 ---
 
 # Strembot

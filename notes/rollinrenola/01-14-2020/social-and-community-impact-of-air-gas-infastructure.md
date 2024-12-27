@@ -7,6 +7,8 @@ path: /notes/rollinrenola/01-14-2020/social-and-community-impact-of-air-gas-infa
 nid: 22306
 uid: 618903
 
+cids: 
+
 ---
 
 # Social and Community Impact of Oil & Gas Infastructure

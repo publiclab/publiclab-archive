@@ -7,6 +7,8 @@ path: /notes/cfastie/05-22-2015/ifarm-aerial-panoramas.md
 nid: 11830
 uid: 554
 
+cids: 11744,11764,11765
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/973/original/201-208_214_9o9.jpg)

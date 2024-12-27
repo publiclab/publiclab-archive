@@ -7,6 +7,8 @@ path: /notes/hcps-saurava/12-09-2019/how-do-i-convert-the-data-received-from-my-
 nid: 21696
 uid: 643697
 
+cids: 
+
 ---
 
 # How do I convert the data received from my the processed Infragram into a unit? (mg/L of chlorophyll?)

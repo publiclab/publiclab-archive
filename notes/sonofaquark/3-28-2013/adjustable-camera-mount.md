@@ -7,6 +7,8 @@ path: /notes/sonofaquark/3-28-2013/adjustable-camera-mount.md
 nid: 6570
 uid: 54330
 
+cids: 4253
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSCN0841.JPG)

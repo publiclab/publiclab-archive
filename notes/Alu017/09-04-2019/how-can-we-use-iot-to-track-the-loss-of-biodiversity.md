@@ -7,6 +7,8 @@ path: /notes/Alu017/09-04-2019/how-can-we-use-iot-to-track-the-loss-of-biodivers
 nid: 20767
 uid: 616219
 
+cids: 
+
 ---
 
 # How can we use IoT to track the loss of biodiversity?

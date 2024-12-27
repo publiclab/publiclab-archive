@@ -7,6 +7,8 @@ path: /notes/warren/4-17-2011/using-knitter-create-online-maps-your-photoshop-ma
 nid: 175
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-04-17 at 2.39.54 PM.png)

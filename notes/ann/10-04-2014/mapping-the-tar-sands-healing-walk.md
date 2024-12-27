@@ -7,6 +7,8 @@ path: /notes/ann/10-04-2014/mapping-the-tar-sands-healing-walk.md
 nid: 11229
 uid: 421543
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/299/original/DSCF8177.JPG)

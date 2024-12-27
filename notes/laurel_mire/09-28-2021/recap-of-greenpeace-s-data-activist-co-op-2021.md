@@ -7,6 +7,8 @@ path: /notes/laurel_mire/09-28-2021/recap-of-greenpeace-s-data-activist-co-op-20
 nid: 27807
 uid: 759178
 
+cids: 29280,29281
+
 ---
 
 # Recap of Greenpeace's Data Activist Co-op 2021

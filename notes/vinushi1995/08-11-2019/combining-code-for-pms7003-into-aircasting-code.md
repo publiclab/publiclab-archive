@@ -7,6 +7,8 @@ path: /notes/vinushi1995/08-11-2019/combining-code-for-pms7003-into-aircasting-c
 nid: 20501
 uid: 605818
 
+cids: 25234,25235
+
 ---
 
 # combining code for PMS7003 into Aircasting code

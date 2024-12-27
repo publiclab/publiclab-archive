@@ -7,6 +7,8 @@ path: /notes/wmacfarl/09-18-2019/oil-and-gas-hardware-fellow-introduction.md
 nid: 20915
 uid: 424597
 
+cids: 25546,25589
+
 ---
 
 # Oil and Gas Hardware Fellow Introduction

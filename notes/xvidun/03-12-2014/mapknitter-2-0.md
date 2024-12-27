@@ -7,6 +7,8 @@ path: /notes/xvidun/03-12-2014/mapknitter-2-0.md
 nid: 10165
 uid: 421168
 
+cids: 8482,8495
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/219/original/modellingpng)

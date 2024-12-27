@@ -7,6 +7,8 @@ path: /notes/MaggPi/07-17-2018/high-dynamic-range-hdr-imaging-revisited.md
 nid: 16726
 uid: 501996
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/668/original/cfl1img04.jpg)

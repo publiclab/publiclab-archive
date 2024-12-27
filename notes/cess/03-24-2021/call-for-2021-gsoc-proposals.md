@@ -7,6 +7,8 @@ path: /notes/cess/03-24-2021/call-for-2021-gsoc-proposals.md
 nid: 26004
 uid: 525958
 
+cids: 28401
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/022/original/gsco.png)

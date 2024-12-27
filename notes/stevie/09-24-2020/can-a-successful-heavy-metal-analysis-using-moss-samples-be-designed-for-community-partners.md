@@ -7,6 +7,8 @@ path: /notes/stevie/09-24-2020/can-a-successful-heavy-metal-analysis-using-moss-
 nid: 24644
 uid: 422561
 
+cids: 27419,27422,27508
+
 ---
 
 # Can a successful heavy metal analysis using moss samples be designed for community partners?

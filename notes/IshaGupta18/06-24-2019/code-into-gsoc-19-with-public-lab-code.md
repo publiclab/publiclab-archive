@@ -7,6 +7,8 @@ path: /notes/IshaGupta18/06-24-2019/code-into-gsoc-19-with-public-lab-code.md
 nid: 19840
 uid: 568043
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/169/original/1_g5RBYeGe0VLB6t_ZsvO_wQ.png)

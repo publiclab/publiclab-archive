@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/07-09-2016/cool-riffle-data-with-holes.md
 nid: 13276
 uid: 459085
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/939/original/IMG_20160625_161315987_1_.jpg)

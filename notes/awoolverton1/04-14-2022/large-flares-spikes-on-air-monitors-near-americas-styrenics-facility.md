@@ -7,6 +7,8 @@ path: /notes/awoolverton1/04-14-2022/large-flares-spikes-on-air-monitors-near-am
 nid: 30378
 uid: 778039
 
+cids: 29997
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/762/original/Wed_6th_Spike.png)

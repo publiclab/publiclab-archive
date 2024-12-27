@@ -7,6 +7,8 @@ path: /notes/jevs/11-16-2019/which-no-ir-12mm-lens-should-i-get-for-640x480-webc
 nid: 21503
 uid: 635927
 
+cids: 25865,25866,25961
+
 ---
 
 # Which No IR 12mm lens should I get for 640x480 webcam?

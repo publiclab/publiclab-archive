@@ -7,6 +7,8 @@ path: /notes/Ligon/11-06-2013/some-simple-additions-for-the-new-spectroscope-cam
 nid: 9736
 uid: 327822
 
+cids: 7451,7691
+
 ---
 
 # Some simple additions for the new spectroscope camera

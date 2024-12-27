@@ -7,6 +7,8 @@ path: /notes/liz/01-30-2018/if-i-m-worried-about-soil-pollution-how-should-i-dec
 nid: 15646
 uid: 7
 
+cids: 22905
+
 ---
 
 # If i'm worried about soil pollution, how should i decide where to take samples?

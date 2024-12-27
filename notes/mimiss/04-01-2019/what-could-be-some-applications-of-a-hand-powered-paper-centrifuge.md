@@ -7,6 +7,8 @@ path: /notes/mimiss/04-01-2019/what-could-be-some-applications-of-a-hand-powered
 nid: 18924
 uid: 579821
 
+cids: 23581,23671,23692,23695,23699,24315,24316,24317,24318
+
 ---
 
 # What could be some applications of a hand-powered paper centrifuge?

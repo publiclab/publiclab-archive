@@ -7,6 +7,8 @@ path: /notes/juncheng09/12-09-2017/instruction-for-sensors.md
 nid: 15343
 uid: 520219
 
+cids: 18424,18428,18508
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/879/original/geGuqxuCSrSFzCw7ZSHShQ.jpg)

@@ -7,6 +7,8 @@ path: /notes/drkatnz/01-24-2014/pasture-measurement-using-nir-camera.md
 nid: 9971
 uid: 420159
 
+cids: 8068,8069,8071,8091
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/634/original/IMG_0116.JPG)

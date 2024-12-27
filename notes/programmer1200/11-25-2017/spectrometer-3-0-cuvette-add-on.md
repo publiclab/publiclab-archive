@@ -7,6 +7,8 @@ path: /notes/programmer1200/11-25-2017/spectrometer-3-0-cuvette-add-on.md
 nid: 15238
 uid: 509305
 
+cids: 17820,17950
+
 ---
 
 # Spectrometer 3.0 Cuvette Add-on

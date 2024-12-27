@@ -7,6 +7,8 @@ path: /09-05-2014/fort-jackson-passenger-pigeon.md
 nid: 11109
 uid: 379
 
+cids: 10230
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/622/original/richie_blink_fort_jackson_2014.png)

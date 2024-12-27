@@ -7,6 +7,8 @@ path: /notes/Q3HUA/10-16-2015/mapknitter-map-of-university-of-waterloo-urban-woo
 nid: 12310
 uid: 454535
 
+cids: 
+
 ---
 
 # MapKnitter map of University of Waterloo Urban Woodlot

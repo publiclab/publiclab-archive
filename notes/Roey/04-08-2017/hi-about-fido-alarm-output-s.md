@@ -7,6 +7,8 @@ path: /notes/Roey/04-08-2017/hi-about-fido-alarm-output-s.md
 nid: 14101
 uid: 505445
 
+cids: 16567
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/111/original/IMG_3990.PNG)

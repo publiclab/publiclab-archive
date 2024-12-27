@@ -7,6 +7,8 @@ path: /notes/agentpesnot/08-03-2022/join-a-citizen-science-climate-change-monito
 nid: 34820
 uid: 808787
 
+cids: 30374,30486,30654,31106,31111,31157,31193,31305,31313,31474,31475,31483,31484
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/941/original/Air_Sensor_with_Solar_Panel_v1_2022-Jul-27_08-34-44PM-000_CustomizedView7200339228.png)

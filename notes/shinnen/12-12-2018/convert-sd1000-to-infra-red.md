@@ -7,6 +7,8 @@ path: /notes/shinnen/12-12-2018/convert-sd1000-to-infra-red.md
 nid: 17879
 uid: 460991
 
+cids: 
+
 ---
 
 #  Convert SD1000 to infra-red

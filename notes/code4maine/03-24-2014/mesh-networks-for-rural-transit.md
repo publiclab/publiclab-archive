@@ -7,6 +7,8 @@ path: /notes/code4maine/03-24-2014/mesh-networks-for-rural-transit.md
 nid: 10219
 uid: 294634
 
+cids: 8584,8587
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/381/original/MaineSailor.png)

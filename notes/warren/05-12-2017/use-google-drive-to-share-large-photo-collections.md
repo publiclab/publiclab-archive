@@ -7,6 +7,8 @@ path: /notes/warren/05-12-2017/use-google-drive-to-share-large-photo-collections
 nid: 14185
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/438/original/Screen_Shot_2017-05-12_at_4.14.03_PM.png)

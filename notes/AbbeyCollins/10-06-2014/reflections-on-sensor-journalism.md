@@ -7,6 +7,8 @@ path: /notes/AbbeyCollins/10-06-2014/reflections-on-sensor-journalism.md
 nid: 11231
 uid: 428043
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/306/original/0927141521a.jpg)

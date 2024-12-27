@@ -7,6 +7,8 @@ path: /notes/imvec/07-01-2022/subsoil-sampling-guide.md
 nid: 31172
 uid: 495038
 
+cids: 30307
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/831/original/23.jpg)

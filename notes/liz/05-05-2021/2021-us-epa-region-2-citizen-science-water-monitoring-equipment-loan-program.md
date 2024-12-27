@@ -7,6 +7,8 @@ path: /notes/liz/05-05-2021/2021-us-epa-region-2-citizen-science-water-monitorin
 nid: 26504
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/686/original/unnamed.png)

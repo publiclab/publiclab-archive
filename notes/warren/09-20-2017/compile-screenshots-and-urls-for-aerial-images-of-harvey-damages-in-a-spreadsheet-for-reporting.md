@@ -7,6 +7,8 @@ path: /notes/warren/09-20-2017/compile-screenshots-and-urls-for-aerial-images-of
 nid: 14916
 uid: 1
 
+cids: 17463,17472,17517,18165
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/717/original/Screenshot_2017-09-20_at_10.42.37_AM.png)

@@ -7,6 +7,8 @@ path: /notes/mlamadrid/06-21-2016/airborne-silica-and-regulations.md
 nid: 13218
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/697/original/Screen_Shot_2016-06-21_at_1.26.19_PM.png)

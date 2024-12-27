@@ -7,6 +7,8 @@ path: /notes/NicholasNail/05-19-2021/cancer-alley-air-quality-study.md
 nid: 26646
 uid: 750432
 
+cids: 28787,28788,28797
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/856/original/5ddea56dfd9db2029c444c0a.png)

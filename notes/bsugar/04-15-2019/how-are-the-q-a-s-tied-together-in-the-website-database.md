@@ -7,6 +7,8 @@ path: /notes/bsugar/04-15-2019/how-are-the-q-a-s-tied-together-in-the-website-da
 nid: 19064
 uid: 217812
 
+cids: 23894,23904,23908,23911,30358
+
 ---
 
 # How are the Q&A's tied together in the website database?

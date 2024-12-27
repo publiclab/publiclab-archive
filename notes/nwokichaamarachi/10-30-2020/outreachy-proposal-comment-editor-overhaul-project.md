@@ -7,6 +7,8 @@ path: /notes/nwokichaamarachi/10-30-2020/outreachy-proposal-comment-editor-overh
 nid: 24875
 uid: 727923
 
+cids: 27580,27587
+
 ---
 
 # Outreachy proposal: Comment Editor Overhaul Project

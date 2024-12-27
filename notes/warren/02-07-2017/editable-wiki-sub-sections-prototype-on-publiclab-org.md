@@ -7,6 +7,8 @@ path: /notes/warren/02-07-2017/editable-wiki-sub-sections-prototype-on-publiclab
 nid: 13906
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/458/original/IMG_20170207_140919_109.jpg)

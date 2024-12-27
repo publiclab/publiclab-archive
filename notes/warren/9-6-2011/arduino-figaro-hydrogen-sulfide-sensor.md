@@ -7,6 +7,8 @@ path: /notes/warren/9-6-2011/arduino-figaro-hydrogen-sulfide-sensor.md
 nid: 454
 uid: 1
 
+cids: 1180
+
 ---
 
 ![](https://publiclab.org/sites/default/files/gasdetector.png)

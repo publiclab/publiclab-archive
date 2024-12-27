@@ -7,6 +7,8 @@ path: /notes/kgradow1/09-30-2017/how-long-does-it-take-to-build-the-hackteria-mi
 nid: 14981
 uid: 297929
 
+cids: 17507,22657,22742
+
 ---
 
 # How long does it take to build the hackteria microscope?   (is it easy?) 

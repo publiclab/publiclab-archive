@@ -7,6 +7,8 @@ path: /notes/otimmerman077_stu/02-18-2020/bioluminicence-detector.md
 nid: 22841
 uid: 626363
 
+cids: 26355,26523,28649
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/181/original/whatisbiolum.jpg)

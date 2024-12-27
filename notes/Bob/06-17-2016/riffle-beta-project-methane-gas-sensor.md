@@ -7,6 +7,8 @@ path: /notes/Bob/06-17-2016/riffle-beta-project-methane-gas-sensor.md
 nid: 13205
 uid: 43743
 
+cids: 14772,14774,14777,21577
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/663/original/sniffle.jpg)

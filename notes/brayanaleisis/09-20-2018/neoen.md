@@ -7,6 +7,8 @@ path: /notes/brayanaleisis/09-20-2018/neoen.md
 nid: 17144
 uid: 551679
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/613/original/foto_2.jpeg)

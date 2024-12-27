@@ -7,6 +7,8 @@ path: /notes/adam-griffith/8-7-2011/i-sent-article-clippings-too.md
 nid: 435
 uid: 3
 
+cids: 
+
 ---
 
 # I sent the article to clippings too...

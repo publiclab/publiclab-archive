@@ -7,6 +7,8 @@ path: /notes/code4maine/01-15-2014/will-infragram-help-with-indoor-hydroponics-a
 nid: 9946
 uid: 294634
 
+cids: 8034,8046,8047,8306
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/593/original/HouseDay.png)

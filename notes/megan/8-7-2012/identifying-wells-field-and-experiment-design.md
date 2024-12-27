@@ -7,6 +7,8 @@ path: /notes/megan/8-7-2012/identifying-wells-field-and-experiment-design.md
 nid: 3182
 uid: 775
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Sites_Identified.JPG)

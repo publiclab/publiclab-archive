@@ -7,6 +7,8 @@ path: /notes/GIA/02-24-2021/testing-for-micro-plastics-in-water.md
 nid: 25794
 uid: 739158
 
+cids: 28396
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/796/original/C0E02E49-B1AA-45EB-ABD8-EA014D500765.jpeg)

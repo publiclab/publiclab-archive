@@ -7,6 +7,8 @@ path: /3-17-2013/new-burb-texas-sinkhole.md
 nid: 6382
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/20130317-172409_0.jpg)

@@ -7,6 +7,8 @@ path: /notes/donblair/09-10-2014/water-quality-coqui-voicemails.md
 nid: 11121
 uid: 43651
 
+cids: 10257,10259
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/710/original/coqui_thumb.jpg)

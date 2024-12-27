@@ -7,6 +7,8 @@ path: /notes/cassandrasue_/09-29-2014/emerson-data-visualization-water-samples.m
 nid: 11198
 uid: 427890
 
+cids: 10461
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/058/original/IMG_0928.JPG)

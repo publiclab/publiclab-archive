@@ -7,6 +7,8 @@ path: /notes/juanquy/08-10-2015/question.md
 nid: 12135
 uid: 420458
 
+cids: 
+
 ---
 
 # Question: 

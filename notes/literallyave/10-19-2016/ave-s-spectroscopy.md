@@ -7,6 +7,8 @@ path: /notes/literallyave/10-19-2016/ave-s-spectroscopy.md
 nid: 13589
 uid: 494872
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/451/original/IMG_0645.JPG)

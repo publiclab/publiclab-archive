@@ -7,6 +7,8 @@ path: /notes/stoft/10-03-2016/plab-3-proto-slit-upgrade.md
 nid: 13515
 uid: 54025
 
+cids: 15592,15593,15611,15693,15696
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/253/original/Slit-11.jpg)

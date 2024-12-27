@@ -7,6 +7,8 @@ path: /notes/robert_winkler/01-30-2018/how-to-mount-grating-in-3d-printed-smartp
 nid: 15647
 uid: 468639
 
+cids: 18328,18483
+
 ---
 
 # How to mount grating in 3D printed smartphone spec?

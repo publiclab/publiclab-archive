@@ -7,6 +7,8 @@ path: /notes/klie/12-02-2015/native-plants-workshop-this-saturday-w-groundworks-
 nid: 12470
 uid: 441262
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/144/original/Screen_Shot_2015-12-02_at_11.14.48_AM.png)

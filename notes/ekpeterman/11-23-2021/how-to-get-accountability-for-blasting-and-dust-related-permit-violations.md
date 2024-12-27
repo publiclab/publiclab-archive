@@ -7,6 +7,8 @@ path: /notes/ekpeterman/11-23-2021/how-to-get-accountability-for-blasting-and-du
 nid: 28247
 uid: 641166
 
+cids: 29820,29890,29904,29905,29934,29994
+
 ---
 
 # How to get accountability for blasting and dust related permit violations? 

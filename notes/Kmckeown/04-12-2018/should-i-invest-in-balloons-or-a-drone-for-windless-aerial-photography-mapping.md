@@ -7,6 +7,8 @@ path: /notes/Kmckeown/04-12-2018/should-i-invest-in-balloons-or-a-drone-for-wind
 nid: 16141
 uid: 530589
 
+cids: 20454,23064,23066,23079
+
 ---
 
 # Should I invest in balloons or a drone for windless aerial photography/mapping? 

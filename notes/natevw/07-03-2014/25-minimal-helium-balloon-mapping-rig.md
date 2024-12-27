@@ -7,6 +7,8 @@ path: /notes/natevw/07-03-2014/25-minimal-helium-balloon-mapping-rig.md
 nid: 10651
 uid: 804
 
+cids: 9411,9420,9421,9449,9565,9734,9799,9811
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/116/original/__1.JPG)

@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/07-28-2015/a-lending-library-shipping-and-other-trouble
 nid: 12104
 uid: 152
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/911/original/Screen_Shot_2015-07-28_at_22.37.46.png)

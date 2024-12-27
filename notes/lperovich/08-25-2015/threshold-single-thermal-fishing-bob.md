@@ -7,6 +7,8 @@ path: /notes/lperovich/08-25-2015/threshold-single-thermal-fishing-bob.md
 nid: 12170
 uid: 443410
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/276/original/IMAG3705.jpg)

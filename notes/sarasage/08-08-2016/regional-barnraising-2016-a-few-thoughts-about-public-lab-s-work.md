@@ -7,6 +7,8 @@ path: /notes/sarasage/08-08-2016/regional-barnraising-2016-a-few-thoughts-about-
 nid: 13339
 uid: 451398
 
+cids: 15094,15647
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/425/original/VV_Barnraising_Welcome.JPG)

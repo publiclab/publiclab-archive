@@ -7,6 +7,8 @@ path: /notes/stoft/05-17-2014/plab-s-webcam-non-linearity.md
 nid: 10476
 uid: 54025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/288/original/Plot-1.jpg)

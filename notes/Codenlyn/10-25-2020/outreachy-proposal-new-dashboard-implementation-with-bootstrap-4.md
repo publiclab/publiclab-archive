@@ -7,6 +7,8 @@ path: /notes/Codenlyn/10-25-2020/outreachy-proposal-new-dashboard-implementation
 nid: 24809
 uid: 726817
 
+cids: 27527,27539,30983
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/212/original/publiclab.png)

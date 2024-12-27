@@ -7,6 +7,8 @@ path: /notes/bhamster/01-31-2022/launching-a-research-area-review-on-mine-reclam
 nid: 29075
 uid: 664477
 
+cids: 29613,31442
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/341/original/Kentucky_mine_runoff.jpg)

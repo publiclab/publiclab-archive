@@ -7,6 +7,8 @@ path: /notes/odeh0001/09-18-2018/nitrogren-spectra.md
 nid: 17137
 uid: 551283
 
+cids: 
+
 ---
 
 # Nitrogren Spectra

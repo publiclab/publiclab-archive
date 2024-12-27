@@ -7,6 +7,8 @@ path: /notes/warren/5-16-2012/laser-particulate-sensor-prototype-test.md
 nid: 2016
 uid: 1
 
+cids: 743,744,745,746,749
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1409.JPG)

@@ -7,6 +7,8 @@ path: /notes/warren/2-5-2012/palantier-impressive-image-stitching-uavs-and-kites
 nid: 749
 uid: 1
 
+cids: 431,9892,9939,9947,10169
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Palentier_KAP_Mosaic.jpg)

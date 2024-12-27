@@ -7,6 +7,8 @@ path: /notes/siwang/05-16-2017/mapknitter-map-of-frogtown-irene.md
 nid: 14198
 uid: 507380
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/465/original/output0315.jpg)

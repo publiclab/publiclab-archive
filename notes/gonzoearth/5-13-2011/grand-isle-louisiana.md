@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-13-2011/grand-isle-louisiana.md
 nid: 234
 uid: 12
 
+cids: 20821
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-2-25-louisiana-grandisle-preview.jpg)

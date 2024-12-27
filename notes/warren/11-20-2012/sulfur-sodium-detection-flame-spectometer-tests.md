@@ -7,6 +7,8 @@ path: /notes/warren/11-20-2012/sulfur-sodium-detection-flame-spectometer-tests.m
 nid: 4964
 uid: 1
 
+cids: 2651,9772
+
 ---
 
 ![](https://publiclab.org/sites/default/files/flame-spec.jpg)

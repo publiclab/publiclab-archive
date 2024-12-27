@@ -7,6 +7,8 @@ path: /notes/cfastie/11-21-2014/all-barnraising-tweets.md
 nid: 11376
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/048/original/Barn2014_1686rev.jpg)

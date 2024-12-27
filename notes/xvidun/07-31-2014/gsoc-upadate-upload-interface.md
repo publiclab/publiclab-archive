@@ -7,6 +7,8 @@ path: /notes/xvidun/07-31-2014/gsoc-upadate-upload-interface.md
 nid: 10999
 uid: 421168
 
+cids: 9985,10002,10043,10044,10045,10046,10048,10049,10050,10051,10052,10053,10054,10083,10084,10085,10086
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/683/original/UI.png)

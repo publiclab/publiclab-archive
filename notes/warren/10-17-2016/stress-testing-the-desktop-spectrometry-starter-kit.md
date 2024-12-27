@@ -7,6 +7,8 @@ path: /notes/warren/10-17-2016/stress-testing-the-desktop-spectrometry-starter-k
 nid: 13569
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/419/original/IMG_20161014_202841-2.jpg)

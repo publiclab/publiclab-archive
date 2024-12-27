@@ -7,6 +7,8 @@ path: /notes/DFlores6073/12-18-2015/oil-testing-beta.md
 nid: 12531
 uid: 441573
 
+cids: 13159,13160
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/409/original/20151217_195314.jpg)

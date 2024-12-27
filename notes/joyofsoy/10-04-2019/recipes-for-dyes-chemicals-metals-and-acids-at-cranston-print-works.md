@@ -7,6 +7,8 @@ path: /notes/joyofsoy/10-04-2019/recipes-for-dyes-chemicals-metals-and-acids-at-
 nid: 21077
 uid: 540844
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/565/original/20190618_094207.jpg)

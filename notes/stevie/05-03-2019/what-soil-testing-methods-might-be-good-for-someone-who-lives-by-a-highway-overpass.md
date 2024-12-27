@@ -7,6 +7,8 @@ path: /notes/stevie/05-03-2019/what-soil-testing-methods-might-be-good-for-someo
 nid: 19231
 uid: 422561
 
+cids: 24040,24052,24161,24165,24349
+
 ---
 
 #  What soil testing methods might be good for someone who lives by a highway overpass?

@@ -7,6 +7,8 @@ path: /notes/cfastie/01-10-2019/what-would-you-do-with-sensorship.md
 nid: 18092
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/681/original/8266_20190101-4406.JPG)

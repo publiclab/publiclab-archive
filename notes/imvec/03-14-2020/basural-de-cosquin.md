@@ -7,6 +7,8 @@ path: /notes/imvec/03-14-2020/basural-de-cosquin.md
 nid: 23143
 uid: 495038
 
+cids: 30292
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/526/original/basural.jpg)

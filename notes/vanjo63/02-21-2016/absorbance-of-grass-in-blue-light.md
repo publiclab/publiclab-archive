@@ -7,6 +7,8 @@ path: /notes/vanjo63/02-21-2016/absorbance-of-grass-in-blue-light.md
 nid: 12717
 uid: 458760
 
+cids: 13685,13686,13687,13688,13692,13694,13716,13718,13732,13736
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/505/original/Extrait_d'herbe_-_absorbance.jpg)

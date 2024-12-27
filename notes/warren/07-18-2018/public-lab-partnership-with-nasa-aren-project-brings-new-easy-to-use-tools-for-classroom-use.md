@@ -7,6 +7,8 @@ path: /notes/warren/07-18-2018/public-lab-partnership-with-nasa-aren-project-bri
 nid: 16746
 uid: 1
 
+cids: 27570
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/748/original/plant.png)

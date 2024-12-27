@@ -7,6 +7,8 @@ path: /notes/lanesharman/04-04-2020/looking-for-water-controller-resource.md
 nid: 23298
 uid: 680339
 
+cids: 26637
+
 ---
 
 # Looking for water controller resource 

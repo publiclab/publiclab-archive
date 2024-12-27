@@ -7,6 +7,8 @@ path: /notes/rachelb/03-12-2021/what-resources-can-people-use-to-prevent-polluti
 nid: 25909
 uid: 744110
 
+cids: 28398
+
 ---
 
 # What resources can people use to prevent pollution?

@@ -7,6 +7,8 @@ path: /notes/Ag8n/02-19-2018/kite-altitude-question.md
 nid: 15762
 uid: 520994
 
+cids: 18515,22933,22935,22954
+
 ---
 
 # Kite altitude question

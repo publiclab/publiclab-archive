@@ -7,6 +7,8 @@ path: /notes/stevie/11-09-2015/oil-testing-with-the-green-team.md
 nid: 12386
 uid: 422561
 
+cids: 12981
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/597/original/20151027_163955.jpg)

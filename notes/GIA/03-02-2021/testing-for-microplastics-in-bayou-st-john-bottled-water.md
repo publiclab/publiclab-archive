@@ -7,6 +7,8 @@ path: /notes/GIA/03-02-2021/testing-for-microplastics-in-bayou-st-john-bottled-w
 nid: 25826
 uid: 739158
 
+cids: 28278,28395,28622,28625
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/840/original/E5B9D5A7-E995-4205-8001-532C28A40304.jpeg)

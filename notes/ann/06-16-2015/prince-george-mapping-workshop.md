@@ -7,6 +7,8 @@ path: /notes/ann/06-16-2015/prince-george-mapping-workshop.md
 nid: 11983
 uid: 421543
 
+cids: 12141,12142,12147,12153,12162,12171,12203,12206,12208,12209,12210
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/353/original/150716_Event_Flyer.png)

@@ -7,6 +7,8 @@ path: /notes/warren/5-9-2012/sketches-self-contained-portable-spectrometer-using
 nid: 1936
 uid: 1
 
+cids: 916,917,919,921,922,931,934,935,936,937,939,940,941,13996
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120509_122945_edit0.jpg)

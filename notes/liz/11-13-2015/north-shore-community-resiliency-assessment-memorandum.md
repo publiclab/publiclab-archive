@@ -7,6 +7,8 @@ path: /notes/liz/11-13-2015/north-shore-community-resiliency-assessment-memorand
 nid: 12406
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/745/original/Screen_Shot_2015-11-13_at_1.55.50_PM.png)

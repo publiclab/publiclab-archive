@@ -7,6 +7,8 @@ path: /notes/molangmuir10/06-20-2019/designing-alternative-rigs-for-mapping.md
 nid: 19761
 uid: 589023
 
+cids: 24840,24841,24845,24853
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/038/original/IMG_20190620_131321.jpg)

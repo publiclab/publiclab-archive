@@ -7,6 +7,8 @@ path: /notes/PeterDavidowicz/07-15-2013/spectral-workbench-improvements.md
 nid: 8886
 uid: 169614
 
+cids: 6316
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/803/original/1x1.gif)

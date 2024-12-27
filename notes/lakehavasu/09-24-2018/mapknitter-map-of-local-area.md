@@ -7,6 +7,8 @@ path: /notes/lakehavasu/09-24-2018/mapknitter-map-of-local-area.md
 nid: 17168
 uid: 463094
 
+cids: 
+
 ---
 
 # MapKnitter map of Local Area

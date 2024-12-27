@@ -7,6 +7,8 @@ path: /notes/donblair/07-15-2014/why-is-peer-to-peer-file-sharing-useful-should-
 nid: 10694
 uid: 43651
 
+cids: 9516,9532,9594,16952
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/296/original/bitmate1.jpg)

@@ -7,6 +7,8 @@ path: /notes/loganw/09-29-2016/new-possibilities-for-a-low-cost-gas-camera.md
 nid: 13507
 uid: 493273
 
+cids: 15539,15540,15547,15551,15740,15742,15743,16204,16205
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/204/original/blob)

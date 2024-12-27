@@ -7,6 +7,8 @@ path: /notes/bhamster/11-06-2020/sort-and-identify-plastic-polymer-debris-by-den
 nid: 24709
 uid: 664477
 
+cids: 27674
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/079/original/RIC.png)

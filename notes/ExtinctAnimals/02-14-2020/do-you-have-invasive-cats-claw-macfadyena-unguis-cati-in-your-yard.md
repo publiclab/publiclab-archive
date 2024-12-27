@@ -7,6 +7,8 @@ path: /notes/ExtinctAnimals/02-14-2020/do-you-have-invasive-cats-claw-macfadyena
 nid: 22811
 uid: 664710
 
+cids: 26316,26318,26330
+
 ---
 
 # Do you have invasive cats claw (Macfadyena unguis-cati) in your yard?

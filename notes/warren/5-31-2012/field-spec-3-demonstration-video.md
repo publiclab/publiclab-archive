@@ -7,6 +7,8 @@ path: /notes/warren/5-31-2012/field-spec-3-demonstration-video.md
 nid: 2280
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 6_1.png)

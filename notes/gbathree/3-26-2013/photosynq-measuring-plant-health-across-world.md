@@ -7,6 +7,8 @@ path: /notes/gbathree/3-26-2013/photosynq-measuring-plant-health-across-world.md
 nid: 6552
 uid: 53164
 
+cids: 4241,4243,4610,4617
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130326_143324.jpg)

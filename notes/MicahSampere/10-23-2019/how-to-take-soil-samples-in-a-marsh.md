@@ -7,6 +7,8 @@ path: /notes/MicahSampere/10-23-2019/how-to-take-soil-samples-in-a-marsh.md
 nid: 21273
 uid: 618900
 
+cids: 25728,25732
+
 ---
 
 # How to Take Soil Samples in a Marsh

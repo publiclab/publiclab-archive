@@ -7,6 +7,8 @@ path: /notes/bacigalupe/09-04-2017/top-down-technologies-for-bottom-up-community
 nid: 14826
 uid: 513744
 
+cids: 17309
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/554/original/Screen_Shot_2017-09-04_at_3.21.52_PM.png)

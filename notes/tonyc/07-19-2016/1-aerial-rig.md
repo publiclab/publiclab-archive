@@ -7,6 +7,8 @@ path: /notes/tonyc/07-19-2016/1-aerial-rig.md
 nid: 13300
 uid: 447491
 
+cids: 14994
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/143/original/IMG_5974.JPG)

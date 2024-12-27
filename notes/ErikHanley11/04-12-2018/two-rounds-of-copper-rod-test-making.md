@@ -7,6 +7,8 @@ path: /notes/ErikHanley11/04-12-2018/two-rounds-of-copper-rod-test-making.md
 nid: 16137
 uid: 444638
 
+cids: 19385,19399,19444
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/551/original/Screen_Shot_2018-04-11_at_9.00.35_PM.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/10-8-2012/flight-temperature.md
 nid: 4260
 uid: 554
 
+cids: 1599,1600,1635
+
 ---
 
 ![](https://publiclab.org/sites/default/files/LEAFBadel-20120922-9192.jpg)

@@ -7,6 +7,8 @@ path: /notes/cguerin/05-22-2017/indoor-air-quality-remediation-kit.md
 nid: 14220
 uid: 507616
 
+cids: 16798,16799,16805
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/525/original/pot_02_web_02.jpg)

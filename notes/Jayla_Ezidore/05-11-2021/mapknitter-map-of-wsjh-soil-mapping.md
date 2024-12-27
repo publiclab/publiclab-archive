@@ -7,6 +7,8 @@ path: /notes/Jayla_Ezidore/05-11-2021/mapknitter-map-of-wsjh-soil-mapping.md
 nid: 26548
 uid: 754782
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/745/original/MicrosoftTeams-image_%282%29.png)

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-09-2016/new-upgrade-today-for-my-spectrometer-new-ccd
 nid: 13094
 uid: 461120
 
+cids: 14577,14578,14579,14580,14581,14582,14583,14584,14585
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/062/original/smaller_camera_pic3.png)

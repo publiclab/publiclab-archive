@@ -7,6 +7,8 @@ path: /notes/shinnen/12-04-2018/has-anyone-had-any-experience-converting-the-can
 nid: 17803
 uid: 460991
 
+cids: 21497
+
 ---
 
 # Has anyone had any experience converting the Canon SD1000 to infra-red?

@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-173-weeden-street.md
 nid: 23067
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (173 Weeden Street)

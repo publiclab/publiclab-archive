@@ -7,6 +7,8 @@ path: /notes/warren/10-22-2014/cfl-detection-by-contrast-for-auto-calibration.md
 nid: 11296
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/605/original/cfl.png)

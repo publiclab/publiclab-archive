@@ -7,6 +7,8 @@ path: /notes/stevie/03-20-2018/looking-for-ideas-on-filtering-metals-arsenic-and
 nid: 15983
 uid: 422561
 
+cids: 19064,19065,19111,19122
+
 ---
 
 # Looking for ideas on filtering metals, arsenic, and/or bacteria from water?

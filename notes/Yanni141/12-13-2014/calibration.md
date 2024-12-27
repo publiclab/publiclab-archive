@@ -7,6 +7,8 @@ path: /notes/Yanni141/12-13-2014/calibration.md
 nid: 11454
 uid: 432520
 
+cids: 
+
 ---
 
 # Calibration

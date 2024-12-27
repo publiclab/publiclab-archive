@@ -7,6 +7,8 @@ path: /notes/Shannon/04-10-2014/public-lab-is-hiring-job-posting-kits-initiative
 nid: 10293
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/606/original/plots-logo-transparent.jpg)

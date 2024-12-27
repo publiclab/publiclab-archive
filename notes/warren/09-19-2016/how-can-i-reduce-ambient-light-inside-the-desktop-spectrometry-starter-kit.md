@@ -7,6 +7,8 @@ path: /notes/warren/09-19-2016/how-can-i-reduce-ambient-light-inside-the-desktop
 nid: 13461
 uid: 1
 
+cids: 15461,15474,18003,22293,22294,22300,22301,22306
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/071/original/IMG_20150521_144640-2.jpg)

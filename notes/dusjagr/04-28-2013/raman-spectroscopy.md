@@ -7,6 +7,8 @@ path: /notes/dusjagr/04-28-2013/raman-spectroscopy.md
 nid: 7107
 uid: 46795
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/131/original/Raman_noodles.png)

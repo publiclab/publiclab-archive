@@ -7,6 +7,8 @@ path: /notes/warren/08-06-2015/wavelength-range-limiting-in-spectral-workbench.m
 nid: 12125
 uid: 1
 
+cids: 13054
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/051/original/Screenshot_2015-08-06_at_3.24.39_PM.png)

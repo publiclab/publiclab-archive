@@ -7,6 +7,8 @@ path: /notes/cfastie/7-9-2012/kite-mapping-tundra-plots.md
 nid: 2740
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Monabov_120627_1527.jpg)

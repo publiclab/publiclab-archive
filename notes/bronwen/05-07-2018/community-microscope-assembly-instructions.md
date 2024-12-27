@@ -7,6 +7,8 @@ path: /notes/bronwen/05-07-2018/community-microscope-assembly-instructions.md
 nid: 16310
 uid: 237313
 
+cids: 19796,19798,19800,19802,19998,20058,20656,25370
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/837/original/Screen_Shot_2018-05-07_at_5.10.36_PM.png)

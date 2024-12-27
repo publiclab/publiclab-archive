@@ -7,6 +7,8 @@ path: /notes/FineArtLight/12-16-2018/cri-software-for-spectrometer.md
 nid: 17914
 uid: 436886
 
+cids: 21527,21541,21639
+
 ---
 
 # CRI software for spectrometer?

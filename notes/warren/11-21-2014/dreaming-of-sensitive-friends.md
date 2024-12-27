@@ -7,6 +7,8 @@ path: /notes/warren/11-21-2014/dreaming-of-sensitive-friends.md
 nid: 11374
 uid: 1
 
+cids: 10842
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/046/original/portraits.png)

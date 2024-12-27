@@ -7,6 +7,8 @@ path: /notes/liz/3-9-2013/ogc-work-sensor-web-enablement.md
 nid: 6260
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/SWE Overview - OGC.jpg)

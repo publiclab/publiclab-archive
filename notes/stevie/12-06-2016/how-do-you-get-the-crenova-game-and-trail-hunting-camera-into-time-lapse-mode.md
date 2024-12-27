@@ -7,6 +7,8 @@ path: /notes/stevie/12-06-2016/how-do-you-get-the-crenova-game-and-trail-hunting
 nid: 13753
 uid: 422561
 
+cids: 15937,15938,22369,22421,22527
+
 ---
 
 # How do you get the Crenova Game and Trail Hunting Camera into time-lapse mode? 

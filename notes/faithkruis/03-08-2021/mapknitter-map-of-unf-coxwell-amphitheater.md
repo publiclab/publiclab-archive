@@ -7,6 +7,8 @@ path: /notes/faithkruis/03-08-2021/mapknitter-map-of-unf-coxwell-amphitheater.md
 nid: 25863
 uid: 741392
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/886/original/image-39-21Jan11_11-21-04.jpg)

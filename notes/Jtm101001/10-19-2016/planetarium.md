@@ -7,6 +7,8 @@ path: /notes/Jtm101001/10-19-2016/planetarium.md
 nid: 13604
 uid: 494918
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/468/original/image.jpeg)

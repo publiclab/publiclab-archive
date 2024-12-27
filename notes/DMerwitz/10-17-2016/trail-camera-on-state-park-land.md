@@ -7,6 +7,8 @@ path: /notes/DMerwitz/10-17-2016/trail-camera-on-state-park-land.md
 nid: 13572
 uid: 494671
 
+cids: 15655,15656,15673
+
 ---
 
 # Trail camera on State Park Land?

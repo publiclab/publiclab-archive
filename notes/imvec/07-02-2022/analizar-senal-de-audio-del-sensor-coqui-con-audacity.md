@@ -7,6 +7,8 @@ path: /notes/imvec/07-02-2022/analizar-senal-de-audio-del-sensor-coqui-con-audac
 nid: 31177
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/845/original/coqui_Analisis.png)

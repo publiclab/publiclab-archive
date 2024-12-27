@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-05-2013/canadian-kap-flights.md
 nid: 8962
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/022/original/IMG_6682.JPG)

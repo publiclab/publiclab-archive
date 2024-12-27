@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/03-14-2017/what-are-some-lessons-learned-using-the-rif
 nid: 14014
 uid: 459085
 
+cids: 22678,28321,28324,28327
+
 ---
 
 # What are some lessons learned using the Riffle? (Especially Underwater)

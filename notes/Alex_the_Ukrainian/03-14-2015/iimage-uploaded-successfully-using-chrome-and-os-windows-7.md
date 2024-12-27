@@ -7,6 +7,8 @@ path: /notes/Alex_the_Ukrainian/03-14-2015/iimage-uploaded-successfully-using-ch
 nid: 11677
 uid: 436428
 
+cids: 
+
 ---
 
 # IImage uploaded successfully using Chrome and OS Windows 7

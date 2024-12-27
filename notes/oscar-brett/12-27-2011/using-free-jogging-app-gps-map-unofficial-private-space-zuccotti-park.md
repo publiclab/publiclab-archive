@@ -7,6 +7,8 @@ path: /notes/oscar-brett/12-27-2011/using-free-jogging-app-gps-map-unofficial-pr
 nid: 663
 uid: 409
 
+cids: 400
+
 ---
 
 ![](https://publiclab.org/sites/default/files/*5_0.png)

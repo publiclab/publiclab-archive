@@ -7,6 +7,8 @@ path: /notes/sound/03-20-2020/can-i-measure-solid-samples-with-the-lego-spectrom
 nid: 23191
 uid: 675938
 
+cids: 26529,26530
+
 ---
 
 # can i measure solid samples with the lego spectrometer?

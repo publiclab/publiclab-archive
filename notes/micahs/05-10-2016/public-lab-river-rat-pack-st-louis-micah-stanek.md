@@ -7,6 +7,8 @@ path: /notes/micahs/05-10-2016/public-lab-river-rat-pack-st-louis-micah-stanek.m
 nid: 13099
 uid: 465997
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/092/original/IMG_4209.jpg)

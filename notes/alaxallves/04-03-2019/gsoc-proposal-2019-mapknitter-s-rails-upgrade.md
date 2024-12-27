@@ -7,6 +7,8 @@ path: /notes/alaxallves/04-03-2019/gsoc-proposal-2019-mapknitter-s-rails-upgrade
 nid: 18947
 uid: 577447
 
+cids: 23715,23728,23792,23820,24128
+
 ---
 
 # GSoC Proposal 2019: Mapknitter's Rails Upgrade

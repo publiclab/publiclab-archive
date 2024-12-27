@@ -7,6 +7,8 @@ path: /notes/Harristotle/01-14-2018/paper-spectrometer-for-phone-modification-fo
 nid: 15520
 uid: 522666
 
+cids: 18184
+
 ---
 
 # Paper spectrometer for phone: modification for hard-to-peel cd roms

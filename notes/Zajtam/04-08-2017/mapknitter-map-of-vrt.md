@@ -7,6 +7,8 @@ path: /notes/Zajtam/04-08-2017/mapknitter-map-of-vrt.md
 nid: 14100
 uid: 505441
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/110/original/Posestvo__6.4.2017.jpg)

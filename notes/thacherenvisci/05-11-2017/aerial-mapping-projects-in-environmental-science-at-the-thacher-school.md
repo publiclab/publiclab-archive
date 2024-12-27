@@ -7,6 +7,8 @@ path: /notes/thacherenvisci/05-11-2017/aerial-mapping-projects-in-environmental-
 nid: 14179
 uid: 507070
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/436/original/IMG_0373.jpg)

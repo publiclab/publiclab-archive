@@ -7,6 +7,8 @@ path: /notes/jschaffr/11-21-2011/controlled-testing-bw-film-hydrogen-sulfide-det
 nid: 575
 uid: 315
 
+cids: 346,355
+
 ---
 
 ![](https://publiclab.org/sites/default/files/controlled_hirez_rgb_1.jpg)

@@ -7,6 +7,8 @@ path: /notes/msolomon/11-08-2018/only-seeing-part-of-color-spectrum.md
 nid: 17493
 uid: 557772
 
+cids: 21197,21200,23279,23280
+
 ---
 
 # Only seeing part of color spectrum

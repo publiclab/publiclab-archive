@@ -7,6 +7,8 @@ path: /notes/levisimons/05-31-2014/los-angeles-river-monitoring.md
 nid: 10521
 uid: 1087
 
+cids: 9116,9119,9129,9561,9562
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/491/original/Los_Angeles_River_Glendale.jpg)

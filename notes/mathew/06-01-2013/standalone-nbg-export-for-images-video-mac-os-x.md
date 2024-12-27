@@ -7,6 +7,8 @@ path: /notes/mathew/06-01-2013/standalone-nbg-export-for-images-video-mac-os-x.m
 nid: 7998
 uid: 4
 
+cids: 5770
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/445/original/Screen_shot_2013-05-31_at_7.12.12_PM.png)

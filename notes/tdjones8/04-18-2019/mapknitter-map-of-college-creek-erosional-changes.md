@@ -7,6 +7,8 @@ path: /notes/tdjones8/04-18-2019/mapknitter-map-of-college-creek-erosional-chang
 nid: 19109
 uid: 583805
 
+cids: 
+
 ---
 
 # MapKnitter map of College Creek Erosional Changes

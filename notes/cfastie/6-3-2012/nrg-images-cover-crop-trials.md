@@ -7,6 +7,8 @@ path: /notes/cfastie/6-3-2012/nrg-images-cover-crop-trials.md
 nid: 2311
 uid: 554
 
+cids: 858,859,861,863,871,872,874
+
 ---
 
 ![](https://publiclab.org/sites/default/files/snapNRG.jpg)

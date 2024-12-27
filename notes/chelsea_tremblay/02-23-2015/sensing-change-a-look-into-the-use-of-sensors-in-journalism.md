@@ -7,6 +7,8 @@ path: /notes/chelsea_tremblay/02-23-2015/sensing-change-a-look-into-the-use-of-s
 nid: 11629
 uid: 434198
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/063/original/Screen_Shot_2015-02-23_at_1.23.55_PM.png)

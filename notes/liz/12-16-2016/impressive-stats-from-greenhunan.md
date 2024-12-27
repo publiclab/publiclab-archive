@@ -7,6 +7,8 @@ path: /notes/liz/12-16-2016/impressive-stats-from-greenhunan.md
 nid: 13790
 uid: 7
 
+cids: 16075,18195
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/063/original/logo.png)

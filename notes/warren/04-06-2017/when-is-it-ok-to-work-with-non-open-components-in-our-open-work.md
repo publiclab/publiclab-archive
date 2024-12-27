@@ -7,6 +7,8 @@ path: /notes/warren/04-06-2017/when-is-it-ok-to-work-with-non-open-components-in
 nid: 14096
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/103/original/IMG_20160924_134150-2.jpg)

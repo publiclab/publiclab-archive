@@ -7,6 +7,8 @@ path: /notes/MateoNeira/11-05-2015/traduccion-de-las-instrucciones-para-espectro
 nid: 12373
 uid: 441504
 
+cids: 12869,12940
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/508/original/undefined)

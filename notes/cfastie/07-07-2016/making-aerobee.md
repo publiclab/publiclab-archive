@@ -7,6 +7,8 @@ path: /notes/cfastie/07-07-2016/making-aerobee.md
 nid: 13265
 uid: 554
 
+cids: 15301,15308,15318,15321,15326,15328,15330
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/887/original/scribing.jpg)

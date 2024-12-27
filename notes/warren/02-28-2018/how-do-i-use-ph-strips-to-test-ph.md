@@ -7,6 +7,8 @@ path: /notes/warren/02-28-2018/how-do-i-use-ph-strips-to-test-ph.md
 nid: 15837
 uid: 1
 
+cids: 18756,18763,20447,22967
+
 ---
 
 # How do I use pH strips to test pH?

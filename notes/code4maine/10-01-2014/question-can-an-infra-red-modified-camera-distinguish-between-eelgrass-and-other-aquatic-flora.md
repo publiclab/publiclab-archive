@@ -7,6 +7,8 @@ path: /notes/code4maine/10-01-2014/question-can-an-infra-red-modified-camera-dis
 nid: 11226
 uid: 294634
 
+cids: 10484,10488,22573
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/270/original/220px-Eelgrass.jpg)

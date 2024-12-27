@@ -7,6 +7,8 @@ path: /notes/stoft/5-25-2013/hdr-search-high-er-dynamic-range.md
 nid: 7917
 uid: 54025
 
+cids: 4866
+
 ---
 
 ![](https://publiclab.org/sites/default/files/CFL-HDR-Cal.jpg)

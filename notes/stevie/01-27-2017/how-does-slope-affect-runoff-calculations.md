@@ -7,6 +7,8 @@ path: /notes/stevie/01-27-2017/how-does-slope-affect-runoff-calculations.md
 nid: 13885
 uid: 422561
 
+cids: 16113
+
 ---
 
 # How does slope affect runoff calculations? 

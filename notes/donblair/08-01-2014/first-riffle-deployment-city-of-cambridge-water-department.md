@@ -7,6 +7,8 @@ path: /notes/donblair/08-01-2014/first-riffle-deployment-city-of-cambridge-water
 nid: 11004
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/740/original/IMG_0357.JPG)

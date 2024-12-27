@@ -7,6 +7,8 @@ path: /notes/mathew/10-18-2012/flightstatscom-passenger-pigeon.md
 nid: 4483
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-10-18 at 5.20.28 PM.png)

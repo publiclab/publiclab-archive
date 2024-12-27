@@ -7,6 +7,8 @@ path: /notes/stevie/05-17-2017/are-there-any-methods-to-distinguish-where-partic
 nid: 14204
 uid: 422561
 
+cids: 16783,22472,22473,22477
+
 ---
 
 # Are there any methods to distinguish where particulate matter in the air comes from?

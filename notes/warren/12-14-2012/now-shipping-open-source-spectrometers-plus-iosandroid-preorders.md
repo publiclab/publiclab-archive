@@ -7,6 +7,8 @@ path: /notes/warren/12-14-2012/now-shipping-open-source-spectrometers-plus-iosan
 nid: 5204
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0203.JPG)

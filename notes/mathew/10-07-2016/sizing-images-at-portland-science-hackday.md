@@ -7,6 +7,8 @@ path: /notes/mathew/10-07-2016/sizing-images-at-portland-science-hackday.md
 nid: 13533
 uid: 4
 
+cids: 15582,16073,16076,16587
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/353/original/MacroProcess.gif)

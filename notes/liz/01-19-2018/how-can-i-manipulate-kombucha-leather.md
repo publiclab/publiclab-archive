@@ -7,6 +7,8 @@ path: /notes/liz/01-19-2018/how-can-i-manipulate-kombucha-leather.md
 nid: 15563
 uid: 7
 
+cids: 22889
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/272/original/instructables-kombucha-fabris.jpg)

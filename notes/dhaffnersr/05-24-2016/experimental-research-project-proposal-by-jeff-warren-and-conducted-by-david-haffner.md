@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-24-2016/experimental-research-project-proposal-by-jef
 nid: 13140
 uid: 461120
 
+cids: 14674,14675,14702,15092
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/277/original/PIC_0313.JPG)

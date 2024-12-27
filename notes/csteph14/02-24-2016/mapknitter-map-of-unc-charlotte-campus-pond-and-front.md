@@ -7,6 +7,8 @@ path: /notes/csteph14/02-24-2016/mapknitter-map-of-unc-charlotte-campus-pond-and
 nid: 12731
 uid: 465622
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/552/original/pond.jpg)

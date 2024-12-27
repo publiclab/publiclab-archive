@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/09-12-2020/pendulum-or-picavet-for-kites-why.md
 nid: 24567
 uid: 459085
 
+cids: 27346,27377,27381
+
 ---
 
 # Pendulum or Picavet for Kites. Why?

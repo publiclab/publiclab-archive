@@ -7,6 +7,8 @@ path: /notes/cfastie/09-10-2013/leaffest-fungal-fun.md
 nid: 9311
 uid: 554
 
+cids: 21953
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/467/original/HydnumSituNDVI.JPG)

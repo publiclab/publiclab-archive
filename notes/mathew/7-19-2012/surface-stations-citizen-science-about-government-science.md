@@ -7,6 +7,8 @@ path: /notes/mathew/7-19-2012/surface-stations-citizen-science-about-government-
 nid: 2894
 uid: 4
 
+cids: 1104
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-07-19 at 11.50.48 AM.png)

@@ -7,6 +7,8 @@ path: /notes/DrJordanGSET/09-10-2019/how-do-we-order-from-the-online-store.md
 nid: 20817
 uid: 578977
 
+cids: 25471,25477
+
 ---
 
 # How do we order from the online store?

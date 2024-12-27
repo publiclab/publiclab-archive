@@ -7,6 +7,8 @@ path: /notes/ranon/06-22-2016/ball-joint-kap-rigs.md
 nid: 13227
 uid: 477060
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/727/original/Chopper_Rig.jpg)

@@ -7,6 +7,8 @@ path: /notes/jkpetter/08-29-2016/mapknitter-map-of-prairie-island-one.md
 nid: 13404
 uid: 489340
 
+cids: 15256,15258,15267,15278,15296,15298,15356
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/833/original/IMG_9960.JPG)

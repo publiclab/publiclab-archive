@@ -7,6 +7,8 @@ path: /notes/gonzoearth/07-02-2013/camera-bench-for-mac.md
 nid: 8614
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/634/original/Screen_Shot_2013-06-27_at_3.05.31_PM.png)

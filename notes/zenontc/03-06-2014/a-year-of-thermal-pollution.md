@@ -7,6 +7,8 @@ path: /notes/zenontc/03-06-2014/a-year-of-thermal-pollution.md
 nid: 10123
 uid: 421242
 
+cids: 8439,8440,8444,8730
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/162/original/Screen_Shot_2014-03-06_at_2.42.38_PM.png)

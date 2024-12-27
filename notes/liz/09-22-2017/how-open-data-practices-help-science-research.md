@@ -7,6 +7,8 @@ path: /notes/liz/09-22-2017/how-open-data-practices-help-science-research.md
 nid: 14935
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/737/original/Screen_Shot_2017-09-22_at_10.13.07_AM.png)

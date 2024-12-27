@@ -7,6 +7,8 @@ path: /notes/laurel_mire/08-24-2021/what-s-new-in-land-and-soil-recent-land-comm
 nid: 27618
 uid: 759178
 
+cids: 
+
 ---
 
 # What’s New in Land and Soil! Recent Land Community Call Recap (8/16/21)

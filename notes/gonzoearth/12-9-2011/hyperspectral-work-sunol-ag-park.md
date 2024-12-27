@@ -7,6 +7,8 @@ path: /notes/gonzoearth/12-9-2011/hyperspectral-work-sunol-ag-park.md
 nid: 620
 uid: 12
 
+cids: 8117
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-9-24-Sunol-Ag-Park-Hyperspectral.jpg)

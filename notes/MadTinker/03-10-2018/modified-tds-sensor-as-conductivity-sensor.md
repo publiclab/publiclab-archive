@@ -7,6 +7,8 @@ path: /notes/MadTinker/03-10-2018/modified-tds-sensor-as-conductivity-sensor.md
 nid: 15914
 uid: 461206
 
+cids: 18843,18844,19092,19093,19157,19160,22983,22984,23017
+
 ---
 
 # Modified TDS sensor as Conductivity Sensor? 

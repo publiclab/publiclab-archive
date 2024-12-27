@@ -7,6 +7,8 @@ path: /notes/danbeavers/11-12-2017/depth-sensor-proposal-experimental-results.md
 nid: 15175
 uid: 51
 
+cids: 17661,17667,17668
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/369/original/BR2017LevelMeasure.jpg)

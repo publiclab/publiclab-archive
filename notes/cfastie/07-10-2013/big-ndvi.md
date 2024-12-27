@@ -7,6 +7,8 @@ path: /notes/cfastie/07-10-2013/big-ndvi.md
 nid: 8787
 uid: 554
 
+cids: 6248,6299,6311
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/708/original/IMG_6313_1500.jpg)

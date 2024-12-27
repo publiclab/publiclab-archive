@@ -7,6 +7,8 @@ path: /notes/cfastie/11-27-2013/cryptogams.md
 nid: 9828
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/339/original/FrullaniaWratt25-287-18det.jpg)

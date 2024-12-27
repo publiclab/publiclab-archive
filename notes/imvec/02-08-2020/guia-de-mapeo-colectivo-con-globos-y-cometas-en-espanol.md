@@ -7,6 +7,8 @@ path: /notes/imvec/02-08-2020/guia-de-mapeo-colectivo-con-globos-y-cometas-en-es
 nid: 22711
 uid: 495038
 
+cids: 26285,26287,26288
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/020/original/1.jpg)

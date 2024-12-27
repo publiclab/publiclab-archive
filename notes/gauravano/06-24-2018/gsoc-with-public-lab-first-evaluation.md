@@ -7,6 +7,8 @@ path: /notes/gauravano/06-24-2018/gsoc-with-public-lab-first-evaluation.md
 nid: 16557
 uid: 515081
 
+cids: 19920,19921
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/285/original/draft_view.png)

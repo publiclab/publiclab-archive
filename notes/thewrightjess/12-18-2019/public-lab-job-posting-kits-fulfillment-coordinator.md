@@ -7,6 +7,8 @@ path: /notes/thewrightjess/12-18-2019/public-lab-job-posting-kits-fulfillment-co
 nid: 21795
 uid: 603909
 
+cids: 26046,26047,26060,26212
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/174/original/ProvidenceFest_OI000014_copy.jpg)

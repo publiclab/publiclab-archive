@@ -7,6 +7,8 @@ path: /notes/kgradow1/07-03-2020/bucket-monitor-prototype.md
 nid: 24090
 uid: 297929
 
+cids: 
+
 ---
 
 # First Pass Bucket Build

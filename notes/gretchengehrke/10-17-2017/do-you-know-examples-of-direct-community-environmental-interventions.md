@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/10-17-2017/do-you-know-examples-of-direct-community-
 nid: 15063
 uid: 430549
 
+cids: 17546,22669,22670,22671,22672,22673
+
 ---
 
 # Do you know examples of direct community environmental interventions?

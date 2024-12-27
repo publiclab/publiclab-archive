@@ -7,6 +7,8 @@ path: /notes/Tomp/04-07-2019/is-there-a-predictive-relationship-between-the-numb
 nid: 18995
 uid: 583011
 
+cids: 23737,23822,23870,23871,23875
+
 ---
 
 # Is there a predictive relationship between the number of PM 2.5 and smaller airborne particulates compared to the mass of the same ug per cubic meter?

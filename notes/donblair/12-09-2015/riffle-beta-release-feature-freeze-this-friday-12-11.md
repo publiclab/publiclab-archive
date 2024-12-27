@@ -7,6 +7,8 @@ path: /notes/donblair/12-09-2015/riffle-beta-release-feature-freeze-this-friday-
 nid: 12493
 uid: 43651
 
+cids: 13075,13183,13189
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/255/original/riffleCloseup.png)

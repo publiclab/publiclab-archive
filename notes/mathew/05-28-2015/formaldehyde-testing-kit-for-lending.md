@@ -7,6 +7,8 @@ path: /notes/mathew/05-28-2015/formaldehyde-testing-kit-for-lending.md
 nid: 11850
 uid: 4
 
+cids: 11784,11785,11793,11802,11876
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/045/original/IMG_20150527_221022.jpg)

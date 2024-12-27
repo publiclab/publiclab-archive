@@ -7,6 +7,8 @@ path: /notes/vaibhavgeek/03-28-2017/omniauth-and-gamification-of-contributing-to
 nid: 14066
 uid: 504058
 
+cids: 16517,16522,16523,16524
+
 ---
 
 # Omniauth and Gamification of contributing to Public Lab

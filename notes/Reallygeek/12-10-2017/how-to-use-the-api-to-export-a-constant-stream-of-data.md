@@ -7,6 +7,8 @@ path: /notes/Reallygeek/12-10-2017/how-to-use-the-api-to-export-a-constant-strea
 nid: 15349
 uid: 513343
 
+cids: 17944,17961,18011,18053,18200,18203,22800
+
 ---
 
 # How to use the API to export a constant stream of data?

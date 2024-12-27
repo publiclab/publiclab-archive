@@ -7,6 +7,8 @@ path: /01-06-2014/grand-isle-sand-spit-2-jan-2014.md
 nid: 9925
 uid: 379
 
+cids: 7995,8009,8309,8310,8311,8314,8315,8332,8342,8344
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/490/original/b_IMG_6141.JPG)

@@ -7,6 +7,8 @@ path: /notes/eeeeert/09-11-2014/balloon-mapping-at-bayou-plaquemines.md
 nid: 11126
 uid: 428231
 
+cids: 10262
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/737/original/411-wetland.jpg)

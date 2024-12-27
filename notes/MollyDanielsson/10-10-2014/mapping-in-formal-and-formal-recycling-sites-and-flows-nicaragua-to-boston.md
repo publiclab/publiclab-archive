@@ -7,6 +7,8 @@ path: /notes/MollyDanielsson/10-10-2014/mapping-in-formal-and-formal-recycling-s
 nid: 11256
 uid: 1259
 
+cids: 10532,10533
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/398/original/IMG_9179_%281%29.JPG)

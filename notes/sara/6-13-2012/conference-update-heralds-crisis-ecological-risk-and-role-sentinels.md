@@ -7,6 +7,8 @@ path: /notes/sara/6-13-2012/conference-update-heralds-crisis-ecological-risk-and
 nid: 2471
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/-1_0.jpg)

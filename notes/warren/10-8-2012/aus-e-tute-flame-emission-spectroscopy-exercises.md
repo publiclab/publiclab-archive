@@ -7,6 +7,8 @@ path: /notes/warren/10-8-2012/aus-e-tute-flame-emission-spectroscopy-exercises.m
 nid: 4264
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-10-08 at 9.46.49 PM.png)

@@ -7,6 +7,8 @@ path: /notes/muskansingh529020/04-20-2022/outreachy-infragram-org-full-screen-ui
 nid: 30538
 uid: 795978
 
+cids: 30093,30126,30133
+
 ---
 
 # Outreachy: Infragram.org full-screen UI design 

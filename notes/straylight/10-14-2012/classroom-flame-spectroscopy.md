@@ -7,6 +7,8 @@ path: /notes/straylight/10-14-2012/classroom-flame-spectroscopy.md
 nid: 4406
 uid: 43047
 
+cids: 1651,1654,1655,1656,1657,1658,1659,4434,4483,6292,7117
+
 ---
 
 ![](https://publiclab.org/sites/default/files/sDSCN3945.jpg)

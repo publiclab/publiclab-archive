@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/01-16-2016/fluorescence-of-87-octane-gasoline.md
 nid: 12591
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/697/original/20160116_134447.jpg)

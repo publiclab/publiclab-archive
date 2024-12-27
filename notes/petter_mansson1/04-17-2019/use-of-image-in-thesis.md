@@ -7,6 +7,8 @@ path: /notes/petter_mansson1/04-17-2019/use-of-image-in-thesis.md
 nid: 19084
 uid: 573015
 
+cids: 23916,23917
+
 ---
 
 # Use of image in thesis

@@ -7,6 +7,8 @@ path: /notes/clarkebrian/2-12-2013/developing-film-canisters-louisiana-sent-shan
 nid: 5961
 uid: 48632
 
+cids: 
+
 ---
 
 # Developing film canisters from Louisiana sent by Shannon

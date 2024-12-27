@@ -7,6 +7,8 @@ path: /notes/warren/05-28-2019/introducing-the-mapknitter-community-atlas-projec
 nid: 19558
 uid: 1
 
+cids: 24280,24289,24291,24311,24329,24758,24759,24762
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/506/original/Screen_Shot_2019-05-02_at_12.06.19_PM.png)

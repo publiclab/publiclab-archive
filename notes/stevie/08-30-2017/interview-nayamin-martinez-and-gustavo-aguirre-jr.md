@@ -7,6 +7,8 @@ path: /notes/stevie/08-30-2017/interview-nayamin-martinez-and-gustavo-aguirre-jr
 nid: 14799
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/467/original/Screen_Shot_2017-08-30_at_10.12.20_AM.png)

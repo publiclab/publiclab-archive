@@ -7,6 +7,8 @@ path: /notes/noah_ben_furman/08-04-2022/timeline-of-the-huber-mill-osb-factory.m
 nid: 34827
 uid: 795472
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/959/original/Huber_Timeline.png)

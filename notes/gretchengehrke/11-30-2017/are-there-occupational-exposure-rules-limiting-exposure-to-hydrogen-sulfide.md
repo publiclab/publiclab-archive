@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/11-30-2017/are-there-occupational-exposure-rules-lim
 nid: 15273
 uid: 430549
 
+cids: 22767
+
 ---
 
 # Are there occupational exposure rules limiting exposure to hydrogen sulfide?

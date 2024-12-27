@@ -7,6 +7,8 @@ path: /notes/Wolfness921/05-07-2014/marine-bio-spectrometer-test.md
 nid: 10443
 uid: 423277
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/168/original/image.jpg)

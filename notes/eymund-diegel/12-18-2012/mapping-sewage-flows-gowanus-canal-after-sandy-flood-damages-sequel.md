@@ -7,6 +7,8 @@ path: /notes/eymund-diegel/12-18-2012/mapping-sewage-flows-gowanus-canal-after-s
 nid: 5250
 uid: 1016
 
+cids: 2771,2782
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2012 December 15_balloon_photography_sewer plumes_IMG_4087_cropped.jpg)

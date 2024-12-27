@@ -7,6 +7,8 @@ path: /notes/josereyes777/11-23-2012/mercury.md
 nid: 4996
 uid: 46143
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/hgspect.jpg)

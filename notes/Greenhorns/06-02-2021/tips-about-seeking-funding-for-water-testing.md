@@ -7,6 +7,8 @@ path: /notes/Greenhorns/06-02-2021/tips-about-seeking-funding-for-water-testing.
 nid: 26777
 uid: 756206
 
+cids: 28857,28861,28865,28868,28871,28985
+
 ---
 
 # Tips about seeking funding for water testing?

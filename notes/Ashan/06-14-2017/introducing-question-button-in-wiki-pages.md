@@ -7,6 +7,8 @@ path: /notes/Ashan/06-14-2017/introducing-question-button-in-wiki-pages.md
 nid: 14536
 uid: 502016
 
+cids: 16876,16883,16886,16892,16893
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/789/original/Selection_015.png)

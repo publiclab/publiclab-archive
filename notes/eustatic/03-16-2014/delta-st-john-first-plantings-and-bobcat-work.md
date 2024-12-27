@@ -7,6 +7,8 @@ path: /03-16-2014/delta-st-john-first-plantings-and-bobcat-work.md
 nid: 10189
 uid: 379
 
+cids: 8529,8531,8854,8856,8857,10154
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/273/original/aa_IMG_1902.JPG)

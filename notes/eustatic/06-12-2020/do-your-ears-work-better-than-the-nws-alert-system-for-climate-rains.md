@@ -7,6 +7,8 @@ path: /06-12-2020/do-your-ears-work-better-than-the-nws-alert-system-for-climate
 nid: 23832
 uid: 379
 
+cids: 27023
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/761/original/streetwise_calls_911_10_june_2020.png)

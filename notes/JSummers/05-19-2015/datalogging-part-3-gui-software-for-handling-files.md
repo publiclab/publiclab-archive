@@ -7,6 +7,8 @@ path: /notes/JSummers/05-19-2015/datalogging-part-3-gui-software-for-handling-fi
 nid: 11822
 uid: 304279
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/920/original/chartsFiles1-1.png)

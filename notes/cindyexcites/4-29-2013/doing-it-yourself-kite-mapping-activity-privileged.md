@@ -7,6 +7,8 @@ path: /notes/cindyexcites/4-29-2013/doing-it-yourself-kite-mapping-activity-priv
 nid: 7116
 uid: 1083
 
+cids: 4582,5589,9124,9135,9136,9138
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSC_0234_r.jpg)

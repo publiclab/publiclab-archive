@@ -7,6 +7,8 @@ path: /notes/MadTinker/03-26-2018/turbidity-sensor-assembly.md
 nid: 16019
 uid: 461206
 
+cids: 19198,19202,19221,19233,19234,19250,19252,20694,26403
+
 ---
 
 # Turbidity Sensor Assembly

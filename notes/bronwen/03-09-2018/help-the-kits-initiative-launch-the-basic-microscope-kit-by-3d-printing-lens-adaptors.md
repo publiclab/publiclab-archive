@@ -7,6 +7,8 @@ path: /notes/bronwen/03-09-2018/help-the-kits-initiative-launch-the-basic-micros
 nid: 15904
 uid: 237313
 
+cids: 18813,18821,19137,19138,19142,19437,19438,19439,19447,19448,19449,22978,22980
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/929/original/Screen_Shot_2018-02-23_at_9.51.25_AM.png)

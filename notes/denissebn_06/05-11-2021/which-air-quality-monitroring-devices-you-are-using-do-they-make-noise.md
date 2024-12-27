@@ -7,6 +7,8 @@ path: /notes/denissebn_06/05-11-2021/which-air-quality-monitroring-devices-you-a
 nid: 26558
 uid: 749988
 
+cids: 28756,28878
+
 ---
 
 # Which Air Quality Monitroring devices you are using, do they make noise?

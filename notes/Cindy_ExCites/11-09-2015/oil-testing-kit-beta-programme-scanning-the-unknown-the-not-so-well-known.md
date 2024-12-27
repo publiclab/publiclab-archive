@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/11-09-2015/oil-testing-kit-beta-programme-scanning-th
 nid: 12389
 uid: 1083
 
+cids: 12881,12882,12902,12924
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/596/original/IMG_4154_-_Oil_asphalt_%28640x480%29.jpg)

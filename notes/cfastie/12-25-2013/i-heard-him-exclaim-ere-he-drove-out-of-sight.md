@@ -7,6 +7,8 @@ path: /notes/cfastie/12-25-2013/i-heard-him-exclaim-ere-he-drove-out-of-sight.md
 nid: 9915
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/455/original/PLOTXmas-293-60.jpg)

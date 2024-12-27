@@ -7,6 +7,8 @@ path: /notes/warren/6-15-2011/asd-field-spectrometer-3.md
 nid: 345
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/photo.JPG)

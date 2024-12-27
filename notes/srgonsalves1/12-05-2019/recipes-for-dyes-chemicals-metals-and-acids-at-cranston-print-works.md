@@ -7,6 +7,8 @@ path: /notes/srgonsalves1/12-05-2019/recipes-for-dyes-chemicals-metals-and-acids
 nid: 21673
 uid: 635245
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/876/original/dye1.jpg)

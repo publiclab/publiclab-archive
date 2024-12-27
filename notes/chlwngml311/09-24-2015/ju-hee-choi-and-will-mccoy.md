@@ -7,6 +7,8 @@ path: /notes/chlwngml311/09-24-2015/ju-hee-choi-and-will-mccoy.md
 nid: 12241
 uid: 452468
 
+cids: 12578
+
 ---
 
 # FYS_JC&WM_Description 

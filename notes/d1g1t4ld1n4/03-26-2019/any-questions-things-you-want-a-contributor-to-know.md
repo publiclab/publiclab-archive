@@ -7,6 +7,8 @@ path: /notes/d1g1t4ld1n4/03-26-2019/any-questions-things-you-want-a-contributor-
 nid: 18863
 uid: 561816
 
+cids: 
+
 ---
 
 # Any questions/ things you want a contributor to know?

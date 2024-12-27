@@ -7,6 +7,8 @@ path: /notes/Greenhorns/06-02-2021/water-testing-protocols-for-sulfide-mining.md
 nid: 26776
 uid: 756206
 
+cids: 28870
+
 ---
 
 # Water testing protocols for Sulfide Mining?

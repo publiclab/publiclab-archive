@@ -7,6 +7,8 @@ path: /notes/bronwen/09-26-2018/community-microscopes-at-maker-faire-nyc.md
 nid: 17179
 uid: 237313
 
+cids: 20785
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/687/original/wkshop1.jpg)

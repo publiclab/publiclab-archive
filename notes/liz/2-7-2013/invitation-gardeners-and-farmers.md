@@ -7,6 +7,8 @@ path: /notes/liz/2-7-2013/invitation-gardeners-and-farmers.md
 nid: 5915
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/FiveBoroughFarmLogo.jpg)

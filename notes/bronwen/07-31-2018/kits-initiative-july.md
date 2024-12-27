@@ -7,6 +7,8 @@ path: /notes/bronwen/07-31-2018/kits-initiative-july.md
 nid: 16795
 uid: 237313
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/983/original/Updatephoto.jpg)

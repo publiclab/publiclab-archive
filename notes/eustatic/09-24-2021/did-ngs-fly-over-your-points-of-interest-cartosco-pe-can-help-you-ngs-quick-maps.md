@@ -7,6 +7,8 @@ path: /09-24-2021/did-ngs-fly-over-your-points-of-interest-cartosco-pe-can-help-
 nid: 27798
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/851/original/Ida_quick_maps.png)

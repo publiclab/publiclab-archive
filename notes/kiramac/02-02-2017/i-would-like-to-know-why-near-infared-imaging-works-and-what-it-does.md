@@ -7,6 +7,8 @@ path: /notes/kiramac/02-02-2017/i-would-like-to-know-why-near-infared-imaging-wo
 nid: 13896
 uid: 502526
 
+cids: 22420
+
 ---
 
 # I would like to know why near infared imaging works, and what it does.

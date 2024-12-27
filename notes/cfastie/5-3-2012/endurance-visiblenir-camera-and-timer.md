@@ -7,6 +7,8 @@ path: /notes/cfastie/5-3-2012/endurance-visiblenir-camera-and-timer.md
 nid: 1894
 uid: 554
 
+cids: 687
+
 ---
 
 ![](https://publiclab.org/sites/default/files/MK111endurance.jpg)

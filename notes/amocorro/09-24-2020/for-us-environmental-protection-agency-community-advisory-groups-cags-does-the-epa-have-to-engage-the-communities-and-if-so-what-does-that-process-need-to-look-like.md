@@ -7,6 +7,8 @@ path: /notes/amocorro/09-24-2020/for-us-environmental-protection-agency-communit
 nid: 24646
 uid: 700923
 
+cids: 27458,27896,27897,28209
+
 ---
 
 # For US Environmental Protection Agency Community Advisory Groups (CAGs): Does the EPA have to engage the local communities in the Superfund vicinity? And if so, what does that process need to look like?

@@ -7,6 +7,8 @@ path: /notes/stevie/03-13-2018/has-anyone-built-a-secchi-disk-before.md
 nid: 15938
 uid: 422561
 
+cids: 19077,19105,23016,23071
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/038/original/Screenshot_2018-03-13_at_12.40.47_PM.png)

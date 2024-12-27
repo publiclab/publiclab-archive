@@ -7,6 +7,8 @@ path: /notes/warren/3-6-2013/plastics-options-spectrometers.md
 nid: 6223
 uid: 1
 
+cids: 3646,3661
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2013-03-06-155128.jpg)

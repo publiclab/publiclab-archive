@@ -7,6 +7,8 @@ path: /notes/sara/2-16-2012/how-are-colors-assigned-temperatures-thermals-flashl
 nid: 794
 uid: 8
 
+cids: 473
+
 ---
 
 # How are colors assigned to temperatures with the thermal flashlight?O

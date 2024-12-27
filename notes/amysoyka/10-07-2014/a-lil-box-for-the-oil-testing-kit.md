@@ -7,6 +7,8 @@ path: /notes/amysoyka/10-07-2014/a-lil-box-for-the-oil-testing-kit.md
 nid: 11246
 uid: 422627
 
+cids: 10509,10512,10524,10529,10530,10562,10579
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/336/original/a4oiltestkitbox1.png)

@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-26-2017/what-kinds-of-data-are-best-suited-for-ra
 nid: 14685
 uid: 430549
 
+cids: 22544
+
 ---
 
 # What kinds of data are best suited for raising public awareness? other goals? 

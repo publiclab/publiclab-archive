@@ -7,6 +7,8 @@ path: /notes/silverhammer/02-06-2014/detecting-pesticides-in-organic-and-convent
 nid: 10014
 uid: 420530
 
+cids: 8182,8183,8184,8191,8192,19021,21647,21657
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/796/original/Screen_Shot_2014-02-05_at_9.25.06_PM.png)

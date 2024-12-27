@@ -7,6 +7,8 @@ path: /notes/donblair/07-11-2014/water-quality-workshop-july-12th-mit-media-lab.
 nid: 10677
 uid: 43651
 
+cids: 9476
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/224/original/giphy.gif)

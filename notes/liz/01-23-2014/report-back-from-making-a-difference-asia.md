@@ -7,6 +7,8 @@ path: /notes/liz/01-23-2014/report-back-from-making-a-difference-asia.md
 nid: 9967
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/613/original/IMG_0617.JPG)

@@ -7,6 +7,8 @@ path: /notes/barun1024/08-22-2021/gsoc-2021-geographic-features-refinement-final
 nid: 27614
 uid: 647185
 
+cids: 29173,29174,29206,29221
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/697/original/Geographic_features_refinement%281%29.png)

@@ -7,6 +7,8 @@ path: /notes/bronwen/06-20-2017/a-new-balloon-and-kite-mapping-campaign-kickstar
 nid: 14562
 uid: 237313
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/836/original/16x9-boat.jpg)

@@ -7,6 +7,8 @@ path: /notes/liz/11-02-2016/make-the-most-basic-github-contribution.md
 nid: 13672
 uid: 7
 
+cids: 23922
+
 ---
 
 # Make the most basic github contribution

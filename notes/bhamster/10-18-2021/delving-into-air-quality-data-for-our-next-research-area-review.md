@@ -7,6 +7,8 @@ path: /notes/bhamster/10-18-2021/delving-into-air-quality-data-for-our-next-rese
 nid: 27928
 uid: 664477
 
+cids: 29332
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/926/original/AirWatchBayArea.png)

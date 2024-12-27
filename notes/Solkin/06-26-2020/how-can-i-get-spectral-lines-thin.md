@@ -7,6 +7,8 @@ path: /notes/Solkin/06-26-2020/how-can-i-get-spectral-lines-thin.md
 nid: 24045
 uid: 578621
 
+cids: 27058,27094
+
 ---
 
 # How can I get spectral lines thin?

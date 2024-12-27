@@ -7,6 +7,8 @@ path: /notes/kgradow1/10-01-2017/how-does-the-epa-measure-things.md
 nid: 14985
 uid: 297929
 
+cids: 17483,22650,22930
+
 ---
 
 # How does the EPA measure things, especially the size of dust particles?

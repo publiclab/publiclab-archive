@@ -7,6 +7,8 @@ path: /notes/liz/03-13-2014/food-grade-oil-samples.md
 nid: 10167
 uid: 7
 
+cids: 8486
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/222/original/IMG_3281.JPG)

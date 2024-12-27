@@ -7,6 +7,8 @@ path: /notes/dbsnp/10-30-2018/the-value-of-personal-experiences.md
 nid: 17428
 uid: 543056
 
+cids: 26676,27367,27380,31333
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/368/original/ida.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/08-12-2016/leaffest-2016.md
 nid: 13350
 uid: 554
 
+cids: 15111,15112,15190,15194,15202,15359,15396,15397,15398,15399,15400,15459,15460,15465,15471
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/583/original/IMG_1824_2kH.jpg)

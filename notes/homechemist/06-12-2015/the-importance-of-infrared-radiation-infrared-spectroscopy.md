@@ -7,6 +7,8 @@ path: /notes/homechemist/06-12-2015/the-importance-of-infrared-radiation-infrare
 nid: 11976
 uid: 212574
 
+cids: 11953,11954,11955,11956,11958,11959
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/334/original/comparacion_sulfato_de_cobre_azul_de_metileno.jpg)

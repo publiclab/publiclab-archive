@@ -7,6 +7,8 @@ path: /notes/warren/01-25-2016/ongoing-design-of-compact-cuvette-frame.md
 nid: 12616
 uid: 1
 
+cids: 13399,13400,13401,13431,13432,13434,13565,13578,13637
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/822/original/IMG_20160125_081251.jpg)

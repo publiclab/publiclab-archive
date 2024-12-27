@@ -7,6 +7,8 @@ path: /notes/ElizabethGillis/10-01-2014/conductivity-results-group-1-emersondata
 nid: 11221
 uid: 428096
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/240/original/IMG_3506.JPG)

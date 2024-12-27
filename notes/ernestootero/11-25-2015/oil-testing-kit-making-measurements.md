@@ -7,6 +7,8 @@ path: /notes/ernestootero/11-25-2015/oil-testing-kit-making-measurements.md
 nid: 12447
 uid: 447002
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/046/original/38.png)

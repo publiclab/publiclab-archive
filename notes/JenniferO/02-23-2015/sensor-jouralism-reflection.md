@@ -7,6 +7,8 @@ path: /notes/JenniferO/02-23-2015/sensor-jouralism-reflection.md
 nid: 11627
 uid: 434163
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/062/original/64-00.jpg)

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-18-2016/uv-laser-pointer-and-green-laser-spectra-thro
 nid: 13366
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/672/original/PIC_0048.JPG)

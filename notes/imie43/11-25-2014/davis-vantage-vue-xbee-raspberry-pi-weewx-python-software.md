@@ -7,6 +7,8 @@ path: /notes/imie43/11-25-2014/davis-vantage-vue-xbee-raspberry-pi-weewx-python-
 nid: 11402
 uid: 431924
 
+cids: 
+
 ---
 
 # Davis Vantage Vue Xbee Raspberry Pi Weewx python software

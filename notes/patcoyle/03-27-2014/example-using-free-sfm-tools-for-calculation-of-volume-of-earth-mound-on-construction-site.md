@@ -7,6 +7,8 @@ path: /notes/patcoyle/03-27-2014/example-using-free-sfm-tools-for-calculation-of
 nid: 10233
 uid: 77
 
+cids: 8619
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/418/original/Knitter_ss_w_annotation.jpg)

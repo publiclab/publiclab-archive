@@ -7,6 +7,8 @@ path: /notes/bronwen/11-29-2018/assembling-the-raspberry-pi-microscope.md
 nid: 17775
 uid: 237313
 
+cids: 21406,21408,21429,21437,21438,21440
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/940/original/IMG_20181127_191333.jpg)

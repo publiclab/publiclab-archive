@@ -7,6 +7,8 @@ path: /notes/cfastie/10-09-2016/360-views-of-the-bristol-landfill.md
 nid: 13541
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/376/original/7378_stereoPSc3k.jpg)

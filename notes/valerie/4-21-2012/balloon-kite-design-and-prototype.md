@@ -7,6 +7,8 @@ path: /notes/valerie/4-21-2012/balloon-kite-design-and-prototype.md
 nid: 1741
 uid: 890
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/photo3.JPG)

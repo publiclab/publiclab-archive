@@ -7,6 +7,8 @@ path: /notes/liz/12-07-2015/openhour-winter-gathering-in-nyc.md
 nid: 12486
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/238/original/IMG_20151207_155101.jpg)

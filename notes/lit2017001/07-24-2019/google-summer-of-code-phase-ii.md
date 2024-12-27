@@ -7,6 +7,8 @@ path: /notes/lit2017001/07-24-2019/google-summer-of-code-phase-ii.md
 nid: 20292
 uid: 577890
 
+cids: 
+
 ---
 
 # Google Summer of Code: Phase II

@@ -7,6 +7,8 @@ path: /notes/cfastie/6-13-2012/lincoln-peak-vineyard.md
 nid: 2472
 uid: 554
 
+cids: 894,1682,1685
+
 ---
 
 ![](https://publiclab.org/sites/default/files/LPV-0547.jpg)

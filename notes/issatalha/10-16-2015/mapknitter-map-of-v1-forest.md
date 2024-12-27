@@ -7,6 +7,8 @@ path: /notes/issatalha/10-16-2015/mapknitter-map-of-v1-forest.md
 nid: 12312
 uid: 454532
 
+cids: 
+
 ---
 
 # MapKnitter map of v1 forest

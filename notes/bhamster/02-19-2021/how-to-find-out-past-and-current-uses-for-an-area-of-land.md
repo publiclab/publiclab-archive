@@ -7,6 +7,8 @@ path: /notes/bhamster/02-19-2021/how-to-find-out-past-and-current-uses-for-an-ar
 nid: 25743
 uid: 664477
 
+cids: 28230,28232,28312
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/758/original/Winnipeg_land_use.jpg)

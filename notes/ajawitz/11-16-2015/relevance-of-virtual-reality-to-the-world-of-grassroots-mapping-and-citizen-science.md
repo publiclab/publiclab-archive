@@ -7,6 +7,8 @@ path: /notes/ajawitz/11-16-2015/relevance-of-virtual-reality-to-the-world-of-gra
 nid: 12415
 uid: 294634
 
+cids: 12905,12911,21680
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/760/original/Assembled_Google_Cardboard_VR_mount.jpg)

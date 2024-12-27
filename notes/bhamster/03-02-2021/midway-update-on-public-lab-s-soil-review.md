@@ -7,6 +7,8 @@ path: /notes/bhamster/03-02-2021/midway-update-on-public-lab-s-soil-review.md
 nid: 25827
 uid: 664477
 
+cids: 28274,28275
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/842/original/Soil_mapping.jpg)

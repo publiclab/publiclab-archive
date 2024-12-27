@@ -7,6 +7,8 @@ path: /notes/shannon/6-27-2011/public-lab-and-cuidadano-inteligente-collaboratio
 nid: 359
 uid: 9
 
+cids: 289
+
 ---
 
 ![](https://publiclab.org/sites/default/files/CI pic.jpg)

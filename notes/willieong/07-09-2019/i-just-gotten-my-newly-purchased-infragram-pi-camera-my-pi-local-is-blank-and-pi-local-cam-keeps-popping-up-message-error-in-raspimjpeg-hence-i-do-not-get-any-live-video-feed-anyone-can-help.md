@@ -7,6 +7,8 @@ path: /notes/willieong/07-09-2019/i-just-gotten-my-newly-purchased-infragram-pi-
 nid: 20045
 uid: 602821
 
+cids: 25011
+
 ---
 
 # I just gotten my newly purchased Infragram Pi Camera, my pi.local is blank and pi.local/Cam keeps popping up message "Error in RaspiMJPEG" hence I do not get any live video feed. Anyone can help?

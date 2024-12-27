@@ -7,6 +7,8 @@ path: /notes/araaman/11-28-2017/mapknitter-map-of-capa.md
 nid: 15251
 uid: 519477
 
+cids: 
+
 ---
 
 # MapKnitter map of  CAPA 

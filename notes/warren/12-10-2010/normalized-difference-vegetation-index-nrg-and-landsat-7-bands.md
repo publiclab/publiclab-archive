@@ -7,6 +7,8 @@ path: /notes/warren/12-10-2010/normalized-difference-vegetation-index-nrg-and-la
 nid: 23
 uid: 1
 
+cids: 
+
 ---
 
 # Normalized Difference Vegetation Index, NRG, and Landsat 7 bands

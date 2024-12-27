@@ -7,6 +7,8 @@ path: /notes/safidy/7-26-2012/light-delta-kite.md
 nid: 2962
 uid: 898
 
+cids: 1116,1165
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Delta Kite voilure.jpg)

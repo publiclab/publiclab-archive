@@ -7,6 +7,8 @@ path: /notes/SeanKMcGinnis/11-12-2013/balloon-mapping-presentation-demonstration
 nid: 9771
 uid: 552
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/208/original/twoballoons.jpg)

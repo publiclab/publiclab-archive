@@ -7,6 +7,8 @@ path: /notes/philiptang42/02-23-2015/sensors-a-powerful-asset-to-journalism.md
 nid: 11619
 uid: 434166
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/059/original/sensors.jpg)

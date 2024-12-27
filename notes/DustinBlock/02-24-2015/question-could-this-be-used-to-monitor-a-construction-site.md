@@ -7,6 +7,8 @@ path: /notes/DustinBlock/02-24-2015/question-could-this-be-used-to-monitor-a-con
 nid: 11635
 uid: 435046
 
+cids: 11219
+
 ---
 
 # Question: Could this be used to monitor a construction site? 

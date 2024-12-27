@@ -7,6 +7,8 @@ path: /notes/liz/10-27-2017/how-to-identify-herbicide-known-as-dicamba-or-identi
 nid: 15108
 uid: 7
 
+cids: 22695
+
 ---
 
 # How to identify herbicide known as Dicamba or identify the damage it causes?

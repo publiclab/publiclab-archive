@@ -7,6 +7,8 @@ path: /notes/warren/05-20-2019/set-up-a-raspberry-pi-camera-with-pi-builder.md
 nid: 19462
 uid: 1
 
+cids: 24214,24243,24266,24267,24299,24300,25042,25049,25050,25052,25058,25060,25071,25078,25090,25178,25179,25230,25537,26488,28849
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/344/original/Screen_Shot_2019-05-17_at_5.20.32_PM.png)

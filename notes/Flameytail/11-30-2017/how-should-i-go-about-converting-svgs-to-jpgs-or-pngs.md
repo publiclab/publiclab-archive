@@ -7,6 +7,8 @@ path: /notes/Flameytail/11-30-2017/how-should-i-go-about-converting-svgs-to-jpgs
 nid: 15268
 uid: 519494
 
+cids: 17831,17839,17843
+
 ---
 
 # How should i go about converting svgs to jpgs or pngs

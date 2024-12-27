@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-8-2011/open-source-3d-virtual-globe-projects-pelican-m
 nid: 341
 uid: 12
 
+cids: 
+
 ---
 
 # open source 3D virtual globe projects at pelican mapping

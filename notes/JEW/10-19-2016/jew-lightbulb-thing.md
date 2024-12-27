@@ -7,6 +7,8 @@ path: /notes/JEW/10-19-2016/jew-lightbulb-thing.md
 nid: 13603
 uid: 494908
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/466/original/image.jpeg)

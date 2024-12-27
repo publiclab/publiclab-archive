@@ -7,6 +7,8 @@ path: /notes/kjdemaree/10-24-2018/school-lights.md
 nid: 17370
 uid: 556249
 
+cids: 20954
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/147/original/20181024_095101.jpg)

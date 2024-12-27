@@ -7,6 +7,8 @@ path: /notes/alaxallves/07-25-2019/second-evaluation-gsoc-2019-mapknitter-rails-
 nid: 20309
 uid: 577447
 
+cids: 25114,25132,25134,25136,25139
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/123/original/ruby-on-rails-6.png)

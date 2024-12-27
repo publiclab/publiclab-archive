@@ -7,6 +7,8 @@ path: /notes/priyaraj_17/04-11-2021/gsoc-proposal.md
 nid: 26198
 uid: 751447
 
+cids: 28512,28521,28724,28743,28753,28786
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/723/original/gsoc.jpg)

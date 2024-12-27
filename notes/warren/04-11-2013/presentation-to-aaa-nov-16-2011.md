@@ -7,6 +7,8 @@ path: /notes/warren/04-11-2013/presentation-to-aaa-nov-16-2011.md
 nid: 6782
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/037/original/presentation.png)

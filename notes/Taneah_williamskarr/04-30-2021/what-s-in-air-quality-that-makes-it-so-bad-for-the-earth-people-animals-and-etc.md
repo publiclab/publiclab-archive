@@ -7,6 +7,8 @@ path: /notes/Taneah_williamskarr/04-30-2021/what-s-in-air-quality-that-makes-it-
 nid: 26434
 uid: 754795
 
+cids: 
+
 ---
 
 # What's in Air quality that makes it so bad for the earth, people, animals and etc. 

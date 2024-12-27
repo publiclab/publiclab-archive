@@ -7,6 +7,8 @@ path: /notes/warren/11-03-2017/what-s-happening-at-the-2017-barnraising.md
 nid: 15144
 uid: 1
 
+cids: 22706
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/196/original/OI000055.jpg)

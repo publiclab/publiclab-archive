@@ -7,6 +7,8 @@ path: /notes/miguel_rosas/10-18-2016/how-to-process-images-using-a-mobiles-with-
 nid: 13575
 uid: 494659
 
+cids: 22682
+
 ---
 
 # How to process images using a mobius with an IR lens?

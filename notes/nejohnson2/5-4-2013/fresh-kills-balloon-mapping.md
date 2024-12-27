@@ -7,6 +7,8 @@ path: /notes/nejohnson2/5-4-2013/fresh-kills-balloon-mapping.md
 nid: 7236
 uid: 53894
 
+cids: 4615,4616
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1463_0.jpg)

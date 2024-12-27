@@ -7,6 +7,8 @@ path: /notes/shakebameen/04-04-2019/soc-proposal-sensor-data-upload-and-display-
 nid: 18953
 uid: 581996
 
+cids: 
+
 ---
 
 # SoC proposal: Sensor data upload and display library

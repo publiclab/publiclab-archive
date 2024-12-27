@@ -7,6 +7,8 @@ path: /notes/adam-griffith/9-10-2011/students-map-campus-univerity-south-carolin
 nid: 457
 uid: 3
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/USCB_SouthMerged.jpg)

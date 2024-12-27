@@ -7,6 +7,8 @@ path: /notes/aquiles/07-13-2018/which-objectives-do-you-use.md
 nid: 16711
 uid: 541307
 
+cids: 20105,20111,20113,20114,20134,23179
+
 ---
 
 # Which objectives do you use?

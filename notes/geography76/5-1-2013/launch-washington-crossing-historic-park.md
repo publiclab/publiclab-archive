@@ -7,6 +7,8 @@ path: /notes/geography76/5-1-2013/launch-washington-crossing-historic-park.md
 nid: 7146
 uid: 176
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/mia_sean.jpg)

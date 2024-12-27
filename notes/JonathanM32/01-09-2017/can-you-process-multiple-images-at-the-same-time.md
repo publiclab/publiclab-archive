@@ -7,6 +7,8 @@ path: /notes/JonathanM32/01-09-2017/can-you-process-multiple-images-at-the-same-
 nid: 13847
 uid: 501476
 
+cids: 22398,22399,24185
+
 ---
 
 # Can you process multiple images at the same time?

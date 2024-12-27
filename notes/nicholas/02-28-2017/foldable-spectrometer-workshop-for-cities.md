@@ -7,6 +7,8 @@ path: /notes/nicholas/02-28-2017/foldable-spectrometer-workshop-for-cities.md
 nid: 13969
 uid: 53894
 
+cids: 16252,16257
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/677/original/Screen_Shot_2017-02-28_at_10.44.29_AM.png)

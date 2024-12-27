@@ -7,6 +7,8 @@ path: /notes/p_sebastianmunoz/10-16-2018/how-to-calibrate-an-spectrometer.md
 nid: 17307
 uid: 555165
 
+cids: 20914,20917
+
 ---
 
 # How to calibrate an spectrometer?

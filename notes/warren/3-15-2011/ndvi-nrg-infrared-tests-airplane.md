@@ -7,6 +7,8 @@ path: /notes/warren/3-15-2011/ndvi-nrg-infrared-tests-airplane.md
 nid: 147
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/infrared-imaging-examples.jpg)

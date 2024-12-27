@@ -7,6 +7,8 @@ path: /notes/jimbob/08-09-2018/calibration-light-source.md
 nid: 16897
 uid: 545899
 
+cids: 20355
+
 ---
 
 # Calibration light source

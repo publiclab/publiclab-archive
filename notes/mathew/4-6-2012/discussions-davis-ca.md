@@ -7,6 +7,8 @@ path: /notes/mathew/4-6-2012/discussions-davis-ca.md
 nid: 1630
 uid: 4
 
+cids: 
+
 ---
 
 # Discussions in Davis, CA

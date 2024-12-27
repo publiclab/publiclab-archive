@@ -7,6 +7,8 @@ path: /notes/yvv/08-19-2014/goal-setting-for-upcoming-glam-event.md
 nid: 11066
 uid: 427257
 
+cids: 10117
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/345/original/13765453483_e6e1132d76_b.jpg)

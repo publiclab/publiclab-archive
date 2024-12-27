@@ -7,6 +7,8 @@ path: /notes/Joris/04-30-2016/difference-cfl-and-tube-light.md
 nid: 13056
 uid: 471889
 
+cids: 14483,14516,14518,14519,14521
+
 ---
 
 # Difference CFL and Tube light?

@@ -7,6 +7,8 @@ path: /notes/alexanderzingman/03-30-2022/hey-people-i-am-alexander-zingman-my-lo
 nid: 30230
 uid: 792587
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/588/original/popmusic03.jpg)

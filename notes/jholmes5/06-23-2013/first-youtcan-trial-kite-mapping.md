@@ -7,6 +7,8 @@ path: /notes/jholmes5/06-23-2013/first-youtcan-trial-kite-mapping.md
 nid: 8391
 uid: 133222
 
+cids: 5648
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/569/original/Picnic_House_Prospect_Park.jpg)

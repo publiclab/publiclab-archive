@@ -7,6 +7,8 @@ path: /notes/gauravano/04-07-2019/gsoc-proposal-mapknitter-overhaul.md
 nid: 18914
 uid: 515081
 
+cids: 23731
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/016/original/imgonline-com-ua-twotoone-0mdCvUJSnBUoKWeU.jpg)

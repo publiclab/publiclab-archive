@@ -7,6 +7,8 @@ path: /notes/kgradow1/12-16-2020/how-to-read-a-permit-application.md
 nid: 25269
 uid: 297929
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/045/original/Screen_Shot_2020-12-16_at_3.52.58_PM.png)

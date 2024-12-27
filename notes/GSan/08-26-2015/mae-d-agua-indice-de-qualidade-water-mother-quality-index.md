@@ -7,6 +7,8 @@ path: /notes/GSan/08-26-2015/mae-d-agua-indice-de-qualidade-water-mother-quality
 nid: 12173
 uid: 426547
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/523/original/IMG_4589.JPG)

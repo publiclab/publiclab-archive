@@ -7,6 +7,8 @@ path: /notes/adamroevens/04-14-2021/the-motherlord-of-nature-potholes.md
 nid: 26227
 uid: 752171
 
+cids: 28560,28561,28816
+
 ---
 
 # The MotherLord of Nature- Potholes

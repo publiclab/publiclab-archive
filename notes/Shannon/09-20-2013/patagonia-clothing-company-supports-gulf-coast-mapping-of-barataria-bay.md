@@ -7,6 +7,8 @@ path: /notes/Shannon/09-20-2013/patagonia-clothing-company-supports-gulf-coast-m
 nid: 9353
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/606/original/Screen_shot_2013-09-20_at_8.52.13_AM.png)

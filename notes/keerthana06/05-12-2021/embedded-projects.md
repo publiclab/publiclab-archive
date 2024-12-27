@@ -7,6 +7,8 @@ path: /notes/keerthana06/05-12-2021/embedded-projects.md
 nid: 26567
 uid: 754722
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/763/original/embedded_projects.jpg)

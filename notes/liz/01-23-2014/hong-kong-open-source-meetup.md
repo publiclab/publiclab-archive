@@ -7,6 +7,8 @@ path: /notes/liz/01-23-2014/hong-kong-open-source-meetup.md
 nid: 9968
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/621/original/IMG_0868.JPG)

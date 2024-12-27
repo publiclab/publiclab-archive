@@ -7,6 +7,8 @@ path: /notes/julia_e_masters/10-07-2021/what-are-ways-to-identify-pockets-of-hea
 nid: 27835
 uid: 756220
 
+cids: 29307,29312
+
 ---
 
 # What are ways to identify pockets of heat/air pollution in a neighborhood?

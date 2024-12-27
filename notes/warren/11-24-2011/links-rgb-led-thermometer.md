@@ -7,6 +7,8 @@ path: /notes/warren/11-24-2011/links-rgb-led-thermometer.md
 nid: 582
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/img_0470.jpg)

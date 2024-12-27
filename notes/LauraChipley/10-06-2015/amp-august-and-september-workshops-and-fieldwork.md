@@ -7,6 +7,8 @@ path: /notes/LauraChipley/10-06-2015/amp-august-and-september-workshops-and-fiel
 nid: 12272
 uid: 428957
 
+cids: 12662,12664,12674
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/790/original/marshy_fork_still.jpg)

@@ -7,6 +7,8 @@ path: /notes/xose/02-24-2018/how-to-extend-wifi-range-underwater.md
 nid: 15811
 uid: 497123
 
+cids: 18955,18956
+
 ---
 
 # How to extend wifi range underwater?

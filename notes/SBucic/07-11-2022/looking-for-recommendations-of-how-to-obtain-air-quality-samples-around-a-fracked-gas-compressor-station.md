@@ -7,6 +7,8 @@ path: /notes/SBucic/07-11-2022/looking-for-recommendations-of-how-to-obtain-air-
 nid: 31273
 uid: 524965
 
+cids: 30326,30330,30365,30775
+
 ---
 
 # Looking for recommendations of how to obtain air quality samples around a fracked gas compressor station

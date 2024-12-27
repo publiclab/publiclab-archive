@@ -7,6 +7,8 @@ path: /notes/divyabaid16/08-19-2019/public-lab-outreach-event-jaipur.md
 nid: 20581
 uid: 578652
 
+cids: 25265,25266,25267,25268,25269,25270,25274,25275,25276,25297,25381
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/659/original/IMG20190819190041.jpg)

@@ -7,6 +7,8 @@ path: /notes/mitchellberg96/05-16-2021/led-spectrum.md
 nid: 26612
 uid: 755996
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/826/original/LED_%282%29.jpg)

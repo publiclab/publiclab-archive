@@ -7,6 +7,8 @@ path: /notes/gonzoearth/7-14-2011/seamless-distortion.md
 nid: 383
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-6-22-massachusetts-cambridge-mit-knightcivicmediaconference-PREVIEW.jpg)

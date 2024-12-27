@@ -7,6 +7,8 @@ path: /notes/cfastie/10-17-2015/the-orb-of-salisbury.md
 nid: 12315
 uid: 554
 
+cids: 14730,14757,14760
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/978/original/MMfarm726_100_ps2k.jpg)

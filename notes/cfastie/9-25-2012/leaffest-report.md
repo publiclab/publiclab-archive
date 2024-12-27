@@ -7,6 +7,8 @@ path: /notes/cfastie/9-25-2012/leaffest-report.md
 nid: 4006
 uid: 554
 
+cids: 1464
+
 ---
 
 ![](https://publiclab.org/sites/default/files/LEAFBread-group1200.jpg)

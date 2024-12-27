@@ -7,6 +7,8 @@ path: /notes/shannon/1-29-2012/h2s-film-strip-test-2.md
 nid: 725
 uid: 9
 
+cids: 423,567
+
 ---
 
 ![](https://publiclab.org/sites/default/files/darkrm.png)

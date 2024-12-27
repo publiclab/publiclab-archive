@@ -7,6 +7,8 @@ path: /notes/Claytonb/02-08-2016/plant-health-ndvi-red-vs-blue-filter.md
 nid: 12670
 uid: 460246
 
+cids: 13757,13765,13766,13771,13772,13773,16121,16122,16123
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/151/original/0207161357_HDR_%282%29.jpg)

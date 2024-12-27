@@ -7,6 +7,8 @@ path: /notes/tylerknight/01-27-2022/what-is-the-most-accurate-low-cost-voc-monit
 nid: 29072
 uid: 777566
 
+cids: 29622,29626,29661,30205
+
 ---
 
 # What is the most accurate low-cost VOC monitoring method?

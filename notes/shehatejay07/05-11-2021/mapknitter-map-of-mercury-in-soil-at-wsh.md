@@ -7,6 +7,8 @@ path: /notes/shehatejay07/05-11-2021/mapknitter-map-of-mercury-in-soil-at-wsh.md
 nid: 26553
 uid: 741005
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/752/original/IMG_9867.JPG)

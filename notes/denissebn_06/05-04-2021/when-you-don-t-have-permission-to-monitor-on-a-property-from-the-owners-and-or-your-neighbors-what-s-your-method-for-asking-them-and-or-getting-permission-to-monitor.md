@@ -7,6 +7,8 @@ path: /notes/denissebn_06/05-04-2021/when-you-don-t-have-permission-to-monitor-o
 nid: 26487
 uid: 749988
 
+cids: 28769
+
 ---
 
 # When you don’t have permission to monitor on a property from the owners and/or your neighbors, what’s your method for asking them and/or getting permission to monitor?

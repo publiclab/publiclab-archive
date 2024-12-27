@@ -7,6 +7,8 @@ path: /notes/liz/10-26-2016/how-to-join-public-lab-s-transifex-project.md
 nid: 13652
 uid: 7
 
+cids: 15760,15762,23633,23635,24302,28365
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/631/original/Screen_Shot_2016-10-26_at_4.31.52_PM.png)

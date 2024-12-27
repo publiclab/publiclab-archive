@@ -7,6 +7,8 @@ path: /notes/warren/06-09-2015/web-working-group-monthly-recap-3-may-2015.md
 nid: 11963
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/259/original/waffle.png)

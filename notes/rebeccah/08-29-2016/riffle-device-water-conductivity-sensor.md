@@ -7,6 +7,8 @@ path: /notes/rebeccah/08-29-2016/riffle-device-water-conductivity-sensor.md
 nid: 13403
 uid: 489342
 
+cids: 15254,15255,15257,15292,15421,15423,15424
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/823/original/Coqui_Schematic_schem.pdf)

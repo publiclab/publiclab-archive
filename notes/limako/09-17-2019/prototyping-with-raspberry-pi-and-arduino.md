@@ -7,6 +7,8 @@ path: /notes/limako/09-17-2019/prototyping-with-raspberry-pi-and-arduino.md
 nid: 20899
 uid: 546871
 
+cids: 25562,25567,25600,25605,27242,27250,27251
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/300/original/prototyping.jpg)

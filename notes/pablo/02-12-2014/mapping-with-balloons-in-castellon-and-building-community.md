@@ -7,6 +7,8 @@ path: /notes/pablo/02-12-2014/mapping-with-balloons-in-castellon-and-building-co
 nid: 10036
 uid: 160
 
+cids: 8247,8248,8249,8250,8254,8255,8260,8271,8272,8283,8298,8320,8328
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/895/original/IMG_1303.jpg)

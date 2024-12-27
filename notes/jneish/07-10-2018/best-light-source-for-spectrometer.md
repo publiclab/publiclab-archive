@@ -7,6 +7,8 @@ path: /notes/jneish/07-10-2018/best-light-source-for-spectrometer.md
 nid: 16679
 uid: 540848
 
+cids: 20073,20099
+
 ---
 
 # Best light source for spectrometer?

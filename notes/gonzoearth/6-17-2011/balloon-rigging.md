@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-17-2011/balloon-rigging.md
 nid: 347
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/photo_0.JPG)

@@ -7,6 +7,8 @@ path: /notes/jillianmeehan/02-24-2016/sensor-journalism-what-i-ve-learned.md
 nid: 12742
 uid: 466918
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/561/original/IMG_1195.jpg)

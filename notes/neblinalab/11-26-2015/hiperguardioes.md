@@ -7,6 +7,8 @@ path: /notes/neblinalab/11-26-2015/hiperguardioes.md
 nid: 12448
 uid: 459062
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/076/original/HG-Web-Neblina-2015.jpg)

@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/06-25-2014/response-to-how-do-diy-processes-encourage
 nid: 10616
 uid: 1083
 
+cids: 9272,9302,9305
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/984/original/IMG_1855_%281024x768%29.jpg)

@@ -7,6 +7,8 @@ path: /notes/acruz11/10-04-2017/mapknitter-map-of-uncc-under-new-construction-co
 nid: 14997
 uid: 515274
 
+cids: 17496
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/884/original/LAB.JPG)

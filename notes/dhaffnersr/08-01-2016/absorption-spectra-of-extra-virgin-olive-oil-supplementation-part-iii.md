@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-01-2016/absorption-spectra-of-extra-virgin-olive-oil-
 nid: 13320
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/291/original/EVOO_july_31.png)

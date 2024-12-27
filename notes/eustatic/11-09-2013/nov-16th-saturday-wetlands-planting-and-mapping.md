@@ -7,6 +7,8 @@ path: /11-09-2013/nov-16th-saturday-wetlands-planting-and-mapping.md
 nid: 9753
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/185/original/10663899413_f47cec84a3_1_.jpg)

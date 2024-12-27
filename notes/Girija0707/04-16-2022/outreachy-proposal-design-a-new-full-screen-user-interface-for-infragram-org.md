@@ -7,6 +7,8 @@ path: /notes/Girija0707/04-16-2022/outreachy-proposal-design-a-new-full-screen-u
 nid: 30441
 uid: 795457
 
+cids: 30017,30026,30029,30067,30097,30098,30099
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/294/original/Infragram_%281%29.png)

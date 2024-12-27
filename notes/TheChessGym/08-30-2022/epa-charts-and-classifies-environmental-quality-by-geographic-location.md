@@ -7,6 +7,8 @@ path: /notes/TheChessGym/08-30-2022/epa-charts-and-classifies-environmental-qual
 nid: 34920
 uid: 788868
 
+cids: 30553,30554,30555,30556,30557,30558,30559,30560,30561,30562,30563,30564,30565,30566,30567,30568,30569
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/093/original/pollution.jpg)

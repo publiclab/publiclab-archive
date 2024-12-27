@@ -7,6 +7,8 @@ path: /notes/amocorro/05-13-2021/grab-samples-from-the-bucket-monitor-tool-which
 nid: 26580
 uid: 700923
 
+cids: 28831,28842,28843
+
 ---
 
 # Question about grab samples from the Bucket monitor tool: Which ones do I order?

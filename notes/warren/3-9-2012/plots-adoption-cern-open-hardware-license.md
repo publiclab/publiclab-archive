@@ -7,6 +7,8 @@ path: /notes/warren/3-9-2012/plots-adoption-cern-open-hardware-license.md
 nid: 913
 uid: 1
 
+cids: 
+
 ---
 
 # PLOTS adoption of the CERN Open Hardware License

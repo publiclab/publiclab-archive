@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/09-15-2016/draft-don-t-look-meta-riffle-researching-ho
 nid: 13448
 uid: 459085
 
+cids: 15383,15405,15436
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/049/original/breadboardpins.png)

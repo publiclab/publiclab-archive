@@ -7,6 +7,8 @@ path: /notes/liz/11-10-2015/pictures-from-llactalab-workshop.md
 nid: 12396
 uid: 7
 
+cids: 12889,12890
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/667/original/IMG_6002_3_small.gif)

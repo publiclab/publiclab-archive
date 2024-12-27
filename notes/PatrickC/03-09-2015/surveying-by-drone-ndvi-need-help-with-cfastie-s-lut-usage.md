@@ -7,6 +7,8 @@ path: /notes/PatrickC/03-09-2015/surveying-by-drone-ndvi-need-help-with-cfastie-
 nid: 11663
 uid: 431386
 
+cids: 11308,11310
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/223/original/IB_5_color_scale.jpg)

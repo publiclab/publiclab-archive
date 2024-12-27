@@ -7,6 +7,8 @@ path: /notes/bhamster/02-16-2022/communicating-expectations-from-chippewa-county
 nid: 30030
 uid: 664477
 
+cids: 29663
+
 ---
 
 # Communicating expectations from Chippewa County residents concerned with frac sand mines

@@ -7,6 +7,8 @@ path: /notes/warren/01-27-2017/diagramming-knowledge-production-on-publiclab-org
 nid: 13886
 uid: 1
 
+cids: 17505,17509,19109
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/390/original/diagramming.png)

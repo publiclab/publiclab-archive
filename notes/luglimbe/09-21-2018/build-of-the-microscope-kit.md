@@ -7,6 +7,8 @@ path: /notes/luglimbe/09-21-2018/build-of-the-microscope-kit.md
 nid: 17148
 uid: 546059
 
+cids: 20709
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/632/original/2018-09-20-145640.jpg)

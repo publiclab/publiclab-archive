@@ -7,6 +7,8 @@ path: /notes/ayvasmith24/03-23-2021/how-do-microplastics-from-water-bottles-get-
 nid: 26008
 uid: 744112
 
+cids: 28400
+
 ---
 
 # How do microplastics from water bottles get in water?

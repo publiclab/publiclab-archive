@@ -7,6 +7,8 @@ path: /notes/stevie/03-22-2017/how-to-evaluate-and-choose-an-advocacy-pathway.md
 nid: 14048
 uid: 422561
 
+cids: 28427
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/905/original/Example.png)

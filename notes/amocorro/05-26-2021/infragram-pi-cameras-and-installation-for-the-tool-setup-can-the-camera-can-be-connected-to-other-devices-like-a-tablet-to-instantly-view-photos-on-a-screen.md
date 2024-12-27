@@ -7,6 +7,8 @@ path: /notes/amocorro/05-26-2021/infragram-pi-cameras-and-installation-for-the-t
 nid: 26714
 uid: 700923
 
+cids: 29022
+
 ---
 
 # Infragram Pi Cameras and public installation: For the tool setup, can the camera can be connected to other devices like a tablet, to instantly view photos on a screen?

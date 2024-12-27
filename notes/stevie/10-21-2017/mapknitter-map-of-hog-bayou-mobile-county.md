@@ -7,6 +7,8 @@ path: /notes/stevie/10-21-2017/mapknitter-map-of-hog-bayou-mobile-county.md
 nid: 15078
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/020/original/20171021_130739.jpg)

@@ -7,6 +7,8 @@ path: /notes/berylha1332/05-21-2019/mapknitter-map-of-angel-s-point-la.md
 nid: 19475
 uid: 592152
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/382/original/saved-400.jpeg)

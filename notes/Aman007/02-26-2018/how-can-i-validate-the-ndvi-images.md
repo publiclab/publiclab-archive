@@ -7,6 +7,8 @@ path: /notes/Aman007/02-26-2018/how-can-i-validate-the-ndvi-images.md
 nid: 15815
 uid: 526101
 
+cids: 
+
 ---
 
 # How can I validate the NDVI images

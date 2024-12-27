@@ -7,6 +7,8 @@ path: /notes/cfastie/09-14-2013/finding-neon.md
 nid: 9326
 uid: 554
 
+cids: 6920,6921,6925
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/555/original/Taylor-neonCc.jpg)

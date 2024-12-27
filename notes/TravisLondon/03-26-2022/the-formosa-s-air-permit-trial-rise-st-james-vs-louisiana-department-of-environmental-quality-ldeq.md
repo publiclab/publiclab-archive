@@ -7,6 +7,8 @@ path: /notes/TravisLondon/03-26-2022/the-formosa-s-air-permit-trial-rise-st-jame
 nid: 30191
 uid: 776235
 
+cids: 29872
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/576/original/img_1_1647877022522.jpg)

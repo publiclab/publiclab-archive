@@ -7,6 +7,8 @@ path: /notes/DuwamishCleanup/09-23-2020/identifying-pockets-of-air-pollution-at-
 nid: 24635
 uid: 722713
 
+cids: 28955
+
 ---
 
 # Identifying Pockets of Air Pollution at the Neighborhood Scale

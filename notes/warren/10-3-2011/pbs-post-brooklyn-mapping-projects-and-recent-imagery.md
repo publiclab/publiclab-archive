@@ -7,6 +7,8 @@ path: /notes/warren/10-3-2011/pbs-post-brooklyn-mapping-projects-and-recent-imag
 nid: 493
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/maspeth-new-town-creek-plume.jpeg)

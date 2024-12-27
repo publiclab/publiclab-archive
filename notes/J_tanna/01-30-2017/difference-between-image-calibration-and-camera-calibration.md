@@ -7,6 +7,8 @@ path: /notes/J_tanna/01-30-2017/difference-between-image-calibration-and-camera-
 nid: 13889
 uid: 502448
 
+cids: 22419
+
 ---
 
 # Difference Between Image Calibration and Camera Calibration?

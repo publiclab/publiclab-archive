@@ -7,6 +7,8 @@ path: /notes/warren/08-27-2019/bringing-public-lab-s-multispectral-image-process
 nid: 20695
 uid: 1
 
+cids: 25405,25408,25430
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/920/original/Screen_Shot_2019-08-27_at_3.53.48_PM.png)

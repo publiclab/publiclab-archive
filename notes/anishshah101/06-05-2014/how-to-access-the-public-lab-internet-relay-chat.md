@@ -7,6 +7,8 @@ path: /notes/anishshah101/06-05-2014/how-to-access-the-public-lab-internet-relay
 nid: 10531
 uid: 421046
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/530/original/3.png)

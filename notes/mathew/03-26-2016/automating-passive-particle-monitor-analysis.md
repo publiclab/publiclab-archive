@@ -7,6 +7,8 @@ path: /notes/mathew/03-26-2016/automating-passive-particle-monitor-analysis.md
 nid: 12893
 uid: 4
 
+cids: 14151,14152,14305
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/228/original/Montage.jpg)

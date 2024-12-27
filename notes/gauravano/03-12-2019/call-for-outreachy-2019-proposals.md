@@ -7,6 +7,8 @@ path: /notes/gauravano/03-12-2019/call-for-outreachy-2019-proposals.md
 nid: 18518
 uid: 515081
 
+cids: 22115,22117,22120,22122,22123,22124,22136,22180,22185,23377,23381,23396,23401,23588,23600,23610
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/004/original/outreachy.png)

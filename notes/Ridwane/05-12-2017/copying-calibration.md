@@ -7,6 +7,8 @@ path: /notes/Ridwane/05-12-2017/copying-calibration.md
 nid: 14180
 uid: 506105
 
+cids: 16760
+
 ---
 
 # Copying Calibration

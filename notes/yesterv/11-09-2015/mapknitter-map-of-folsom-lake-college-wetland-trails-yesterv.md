@@ -7,6 +7,8 @@ path: /notes/yesterv/11-09-2015/mapknitter-map-of-folsom-lake-college-wetland-tr
 nid: 12390
 uid: 456377
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/630/original/IMG_1187.JPG)

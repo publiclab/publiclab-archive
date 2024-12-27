@@ -7,6 +7,8 @@ path: /notes/stevie/10-19-2021/seeking-an-environmental-policy-fellow.md
 nid: 27945
 uid: 422561
 
+cids: 29337
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/937/original/formosa_policy.jpg)

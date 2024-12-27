@@ -7,6 +7,8 @@ path: /notes/stevie/07-12-2017/what-are-some-options-for-low-cost-methane-monito
 nid: 14645
 uid: 422561
 
+cids: 17065,17066,22538
+
 ---
 
 # What are some options for low cost methane monitoring? 

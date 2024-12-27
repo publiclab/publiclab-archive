@@ -7,6 +7,8 @@ path: /notes/filimon_k/12-14-2015/mics-2614-ozone-sensor-schematic.md
 nid: 12512
 uid: 460113
 
+cids: 14849,15910
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/301/original/mics_schem.png)

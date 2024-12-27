@@ -7,6 +7,8 @@ path: /notes/sspatharioti/10-10-2017/cartoscope-grn-harvey-requests-for-feedback
 nid: 15017
 uid: 462488
 
+cids: 17508,17515,17525,17540,17573,17644
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/910/original/Screen_Shot_2017-10-09_at_10.12.48_PM.png)

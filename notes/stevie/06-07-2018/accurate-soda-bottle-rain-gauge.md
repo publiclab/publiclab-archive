@@ -7,6 +7,8 @@ path: /notes/stevie/06-07-2018/accurate-soda-bottle-rain-gauge.md
 nid: 16448
 uid: 422561
 
+cids: 19824,19836,19868,28620
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/156/original/20180607_103455.jpg)

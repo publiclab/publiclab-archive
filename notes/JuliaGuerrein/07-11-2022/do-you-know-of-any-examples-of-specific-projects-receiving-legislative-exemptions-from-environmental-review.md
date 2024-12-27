@@ -7,6 +7,8 @@ path: /notes/JuliaGuerrein/07-11-2022/do-you-know-of-any-examples-of-specific-pr
 nid: 31270
 uid: 796025
 
+cids: 
+
 ---
 
 # Do you know of any examples of specific projects receiving legislative exemptions from environmental review?

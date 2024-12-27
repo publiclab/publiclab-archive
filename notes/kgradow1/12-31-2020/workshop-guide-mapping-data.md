@@ -7,6 +7,8 @@ path: /notes/kgradow1/12-31-2020/workshop-guide-mapping-data.md
 nid: 25368
 uid: 297929
 
+cids: 27882
+
 ---
 
 # Workshop Guide: Mapping Soil Data

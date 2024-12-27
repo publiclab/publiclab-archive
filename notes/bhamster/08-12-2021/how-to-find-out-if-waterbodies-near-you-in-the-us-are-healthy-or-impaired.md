@@ -7,6 +7,8 @@ path: /notes/bhamster/08-12-2021/how-to-find-out-if-waterbodies-near-you-in-the-
 nid: 27480
 uid: 664477
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/631/original/Whatcom_Creek.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/07-30-2015/silhouette-cameo-desktop-paper-cutter-for-prototy
 nid: 12107
 uid: 1
 
+cids: 12299,12301,12333,12451
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/920/original/tmp_26382-IMG_20150730_1257291287673980.jpg)

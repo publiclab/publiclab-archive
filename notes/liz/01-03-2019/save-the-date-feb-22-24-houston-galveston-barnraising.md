@@ -7,6 +7,8 @@ path: /notes/liz/01-03-2019/save-the-date-feb-22-24-houston-galveston-barnraisin
 nid: 18048
 uid: 7
 
+cids: 21637,21638,21797
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/595/original/TexasBarnraising_flyer.jpg)

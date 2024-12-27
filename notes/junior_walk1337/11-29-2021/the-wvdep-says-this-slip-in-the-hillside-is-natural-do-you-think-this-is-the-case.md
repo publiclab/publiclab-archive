@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/11-29-2021/the-wvdep-says-this-slip-in-the-hillside
 nid: 28311
 uid: 756318
 
+cids: 
+
 ---
 
 # The WVDEP says this slip in the hillside is natural, do you think this is the case?

@@ -7,6 +7,8 @@ path: /notes/selimthegrim/08-19-2017/mapknitter-map-of-uv-station-violet.md
 nid: 14773
 uid: 512923
 
+cids: 
+
 ---
 
 # MapKnitter map of UV station Violet

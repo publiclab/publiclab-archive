@@ -7,6 +7,8 @@ path: /notes/MaggPi/03-30-2019/soc-2019-a-small-proposal-for-global-environmenta
 nid: 18907
 uid: 501996
 
+cids: 23556,23690,23708,23788,24124,24127,24876,24877,24886,24908,24919,25099,25331
+
 ---
 
 # SOC 2019:  A small proposal for global environmental monitoring 

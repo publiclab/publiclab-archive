@@ -7,6 +7,8 @@ path: /notes/gclout01/07-22-2013/pole-mapping-rig-making.md
 nid: 8917
 uid: 170147
 
+cids: 6717,10381,10389,10395,10396
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/879/original/Pole_and_Garden_Photos_3.jpg)

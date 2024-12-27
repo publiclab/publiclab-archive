@@ -7,6 +7,8 @@ path: /notes/SeanKMcGinnis/08-13-2014/philadelphia-night-market-and-the-departme
 nid: 11043
 uid: 552
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/235/original/dmd.jpg)

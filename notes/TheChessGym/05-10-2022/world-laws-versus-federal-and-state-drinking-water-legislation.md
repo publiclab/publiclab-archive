@@ -7,6 +7,8 @@ path: /notes/TheChessGym/05-10-2022/world-laws-versus-federal-and-state-drinking
 nid: 30717
 uid: 788868
 
+cids: 31465
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/668/original/drinkingwater.jpg)

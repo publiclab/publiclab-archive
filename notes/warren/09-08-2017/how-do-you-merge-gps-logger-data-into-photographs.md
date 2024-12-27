@@ -7,6 +7,8 @@ path: /notes/warren/09-08-2017/how-do-you-merge-gps-logger-data-into-photographs
 nid: 14861
 uid: 1
 
+cids: 17349,17350,17351,17357,22587,22590,22593,22594,22595,22596,22597
+
 ---
 
 # How do you merge GPS logger data into photographs?

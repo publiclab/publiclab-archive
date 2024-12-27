@@ -7,6 +7,8 @@ path: /notes/Matej/11-13-2015/separating-oil-from-water-by-freezing-the-water.md
 nid: 12405
 uid: 451808
 
+cids: 12897,12898,12901,12904,12907,12918,13064,13112,13173,13174,13555,13556
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/739/original/IMG_6508.JPG)

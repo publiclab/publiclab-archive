@@ -7,6 +7,8 @@ path: /notes/tonyc/01-26-2016/quick-and-dirty-lanyard-attachment-for-mobius-came
 nid: 12619
 uid: 447491
 
+cids: 13406,13414
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/857/original/IMG_1291.JPG)

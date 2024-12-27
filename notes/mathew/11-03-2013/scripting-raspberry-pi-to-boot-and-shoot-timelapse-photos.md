@@ -7,6 +7,8 @@ path: /notes/mathew/11-03-2013/scripting-raspberry-pi-to-boot-and-shoot-timelaps
 nid: 9719
 uid: 4
 
+cids: 7433,7475,7803,7804,7805,11317
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/106/original/10635780826_b21940d831_o.jpg)

@@ -7,6 +7,8 @@ path: /notes/bsugar/08-22-2016/question-is-there-a-simple-and-reliable-way-to-te
 nid: 13388
 uid: 217812
 
+cids: 15427,15457,15664,22278,22290
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/737/original/Screen_Shot_2016-08-22_at_6.15.44_PM.png)

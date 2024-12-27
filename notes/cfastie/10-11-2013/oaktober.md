@@ -7,6 +7,8 @@ path: /notes/cfastie/10-11-2013/oaktober.md
 nid: 9437
 uid: 554
 
+cids: 7214,7418,7557,7585,9036,9045
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/894/original/OaktoberVIS-258-22.jpg)

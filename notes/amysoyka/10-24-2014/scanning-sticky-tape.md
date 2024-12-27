@@ -7,6 +7,8 @@ path: /notes/amysoyka/10-24-2014/scanning-sticky-tape.md
 nid: 11297
 uid: 422627
 
+cids: 10613,10616,10617,10618,10619,10638,10639,10640,10694,10879,10895,10897
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/616/original/Scan_20141024.png)

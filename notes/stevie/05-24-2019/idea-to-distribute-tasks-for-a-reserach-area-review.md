@@ -7,6 +7,8 @@ path: /notes/stevie/05-24-2019/idea-to-distribute-tasks-for-a-reserach-area-revi
 nid: 19516
 uid: 422561
 
+cids: 24268,24269,24279,24285,24290,24293,24323,24324,24328,24725,31403
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/453/original/2015-barnraising-chicago-barnraising.jpg)

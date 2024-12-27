@@ -7,6 +7,8 @@ path: /notes/Reallygeek/12-04-2017/how-to-export-data-from-the-spectral-workbenc
 nid: 15291
 uid: 513343
 
+cids: 
+
 ---
 
 #  how to export data from the spectral workbench capture site?

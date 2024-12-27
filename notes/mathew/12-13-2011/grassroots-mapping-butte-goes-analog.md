@@ -7,6 +7,8 @@ path: /notes/mathew/12-13-2011/grassroots-mapping-butte-goes-analog.md
 nid: 629
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6084854686_c840afc536_b.jpeg)

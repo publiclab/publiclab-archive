@@ -7,6 +7,8 @@ path: /notes/keshavgarg234156/03-06-2020/gsoc-proposal-editor-repair-and-fortifi
 nid: 23092
 uid: 613595
 
+cids: 26437,26453,26456,26460,26461,26468,26478,26543,26552,26553,26554,26569,26579,26580,26581,26591,26617,26618,26667
+
 ---
 
 # GSoC Proposal:Editor repair and fortification

@@ -7,6 +7,8 @@ path: /notes/noctividus/06-25-2014/raspberry-pi-ndvi.md
 nid: 10618
 uid: 424585
 
+cids: 9277,9279,9282,9311,9384
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/980/original/IMAG0124_1.jpg)

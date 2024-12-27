@@ -7,6 +7,8 @@ path: /notes/liz/07-02-2013/infragrams-over-nyc-river-garden.md
 nid: 8610
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/608/original/*aerial_with_scarecrow.JPG)

@@ -7,6 +7,8 @@ path: /notes/liz/3-19-2013/5th-annual-iland-symposium.md
 nid: 6439
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2013-03-19 at 5.08.30 PM.png)

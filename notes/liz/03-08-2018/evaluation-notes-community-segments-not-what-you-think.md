@@ -7,6 +7,8 @@ path: /notes/liz/03-08-2018/evaluation-notes-community-segments-not-what-you-thi
 nid: 15895
 uid: 7
 
+cids: 
+
 ---
 
 # evaluation notes: community segments -- not what you think!

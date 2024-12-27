@@ -7,6 +7,8 @@ path: /notes/warren/09-16-2013/presentation-at-waag-society-s-eclectis-program.m
 nid: 9334
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/573/original/Screenshot_from_2013-09-16_10_54_56.png)

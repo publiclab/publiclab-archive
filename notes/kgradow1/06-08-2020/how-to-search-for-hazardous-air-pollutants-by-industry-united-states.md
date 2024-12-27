@@ -7,6 +7,8 @@ path: /notes/kgradow1/06-08-2020/how-to-search-for-hazardous-air-pollutants-by-i
 nid: 23798
 uid: 297929
 
+cids: 26989,26990,26991,27006,27007,27732,27734,27736,28200
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/719/original/Smokestack_in_Detroit_Wikipedia_Commons_%281%29.jpg)

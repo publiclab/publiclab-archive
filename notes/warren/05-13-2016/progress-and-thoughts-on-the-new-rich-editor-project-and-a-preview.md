@@ -7,6 +7,8 @@ path: /notes/warren/05-13-2016/progress-and-thoughts-on-the-new-rich-editor-proj
 nid: 13114
 uid: 1
 
+cids: 14685
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/176/original/Screenshot_2016-05-13_at_3.33.26_PM.png)

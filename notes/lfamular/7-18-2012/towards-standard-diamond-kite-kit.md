@@ -7,6 +7,8 @@ path: /notes/lfamular/7-18-2012/towards-standard-diamond-kite-kit.md
 nid: 2865
 uid: 120
 
+cids: 19372
+
 ---
 
 # Towards a standard diamond kite kit

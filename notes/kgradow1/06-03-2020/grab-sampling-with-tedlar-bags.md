@@ -7,6 +7,8 @@ path: /notes/kgradow1/06-03-2020/grab-sampling-with-tedlar-bags.md
 nid: 23773
 uid: 297929
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/616/original/Tedlar_bag_ubc.jpg)

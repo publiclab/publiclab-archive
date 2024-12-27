@@ -7,6 +7,8 @@ path: /notes/donblair/12-02-2014/less-is-more-the-role-of-small-data-for-governa
 nid: 11421
 uid: 43651
 
+cids: 10891,10894
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/190/original/screenshot.png)

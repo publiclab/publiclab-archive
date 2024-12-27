@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-11-2012/key-elements-using-crate-rigideo-key-elements-u
 nid: 4865
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/crate med size for note_0.jpg)

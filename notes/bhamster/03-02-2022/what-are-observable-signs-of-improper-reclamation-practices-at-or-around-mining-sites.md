@@ -7,6 +7,8 @@ path: /notes/bhamster/03-02-2022/what-are-observable-signs-of-improper-reclamati
 nid: 30091
 uid: 664477
 
+cids: 29843,29845
+
 ---
 
 # What are observable signs of improper reclamation practices at or around mining sites?

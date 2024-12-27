@@ -7,6 +7,8 @@ path: /notes/csteph14/02-17-2016/mapknitter-map-of-uncc-light-rail.md
 nid: 12698
 uid: 465622
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/353/original/UNCC_LIGHT_RAIL.bmp)

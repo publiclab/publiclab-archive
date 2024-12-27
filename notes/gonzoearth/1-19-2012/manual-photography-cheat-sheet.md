@@ -7,6 +7,8 @@ path: /notes/gonzoearth/1-19-2012/manual-photography-cheat-sheet.md
 nid: 707
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/photography.jpg)

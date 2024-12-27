@@ -7,6 +7,8 @@ path: /notes/shippee3/03-11-2018/mapknitter-map-of-indian-bayou-map.md
 nid: 15915
 uid: 527094
 
+cids: 18845
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/950/original/VIRB0063.JPG)

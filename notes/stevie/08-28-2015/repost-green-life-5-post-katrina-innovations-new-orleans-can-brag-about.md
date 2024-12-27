@@ -7,6 +7,8 @@ path: /notes/stevie/08-28-2015/repost-green-life-5-post-katrina-innovations-new-
 nid: 12181
 uid: 422561
 
+cids: 12475
+
 ---
 
 # Repost: GREEN LIFE 5 POST-KATRINA INNOVATIONS NEW ORLEANS CAN BRAG ABOUT

@@ -7,6 +7,8 @@ path: /notes/ola/9-1-2012/flyers-or-leaflet.md
 nid: 3607
 uid: 411
 
+cids: 1273,1278,1282
+
 ---
 
 # Flyers or leaflet

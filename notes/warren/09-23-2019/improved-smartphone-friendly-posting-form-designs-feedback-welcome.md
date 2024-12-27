@@ -7,6 +7,8 @@ path: /notes/warren/09-23-2019/improved-smartphone-friendly-posting-form-designs
 nid: 20973
 uid: 1
 
+cids: 25887,25888,25890,25892
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/407/original/Screen_Shot_2019-09-23_at_11.32.04_AM.png)

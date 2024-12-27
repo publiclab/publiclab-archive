@@ -7,6 +7,8 @@ path: /notes/meenatibiswalcynixit/01-09-2020/how-to-reduce-pollution-in-simple-w
 nid: 22250
 uid: 652379
 
+cids: 
+
 ---
 
 # How to reduce pollution in simple way?

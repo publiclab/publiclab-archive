@@ -7,6 +7,8 @@ path: /notes/liz/09-22-2017/what-are-examples-of-citizen-science-projects-that-h
 nid: 14942
 uid: 7
 
+cids: 22627,22628,22629,22630
+
 ---
 
 # What are examples of citizen science projects that have tested water for pH?

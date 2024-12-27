@@ -7,6 +7,8 @@ path: /01-26-2016/reporting-forms-for-louisiana-and-other-pollution-events.md
 nid: 12620
 uid: 379
 
+cids: 13402,13403,13404,13407,13423,26710
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/858/original/gulf-monitoring-consortium_1_.jpg)

@@ -7,6 +7,8 @@ path: /notes/henning_leonardo/06-12-2021/how-generate-ndvi-images-with-infragram
 nid: 26817
 uid: 757354
 
+cids: 28918
+
 ---
 
 # How generate NDVI images with Infragram?

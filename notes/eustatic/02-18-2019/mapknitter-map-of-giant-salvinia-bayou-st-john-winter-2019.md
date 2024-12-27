@@ -7,6 +7,8 @@ path: /02-18-2019/mapknitter-map-of-giant-salvinia-bayou-st-john-winter-2019.md
 nid: 18390
 uid: 379
 
+cids: 21904,21919
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/433/original/MZHMOBO7PZFKLK7SFX53DRBPNU.JPG)

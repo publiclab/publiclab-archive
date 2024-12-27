@@ -7,6 +7,8 @@ path: /notes/cfastie/06-22-2014/titan-2-ir.md
 nid: 10602
 uid: 554
 
+cids: 9250,9335,9753,9754,10155
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/927/original/MCOFTitan-477-18.jpg)

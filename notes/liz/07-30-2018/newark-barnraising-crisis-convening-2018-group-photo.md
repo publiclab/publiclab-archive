@@ -7,6 +7,8 @@ path: /notes/liz/07-30-2018/newark-barnraising-crisis-convening-2018-group-photo
 nid: 16812
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/969/original/barnraising-newark-2018.gif)

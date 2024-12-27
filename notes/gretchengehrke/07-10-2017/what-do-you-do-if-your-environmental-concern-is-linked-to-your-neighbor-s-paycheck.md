@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-10-2017/what-do-you-do-if-your-environmental-conc
 nid: 14642
 uid: 430549
 
+cids: 17076,17092
+
 ---
 
 # What do you do if your environmental concern is linked to your neighbor's paycheck?

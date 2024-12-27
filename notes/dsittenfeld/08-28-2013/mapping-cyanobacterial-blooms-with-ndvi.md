@@ -7,6 +7,8 @@ path: /notes/dsittenfeld/08-28-2013/mapping-cyanobacterial-blooms-with-ndvi.md
 nid: 9061
 uid: 170174
 
+cids: 6736,6755,6761,8326,8333,8825,8826,8838,8839,12181
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/318/original/ndvi_IMG_3876.JPG)

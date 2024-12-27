@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/11-08-2017/what-is-the-hydrogen-sulfide-concentratio
 nid: 15162
 uid: 430549
 
+cids: 17909
+
 ---
 
 # What is the hydrogen sulfide concentration range that can be monitored using a copper tarnish method?

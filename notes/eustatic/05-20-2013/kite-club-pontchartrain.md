@@ -7,6 +7,8 @@ path: /05-20-2013/kite-club-pontchartrain.md
 nid: 7751
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/363/original/IMG_1625.JPG)

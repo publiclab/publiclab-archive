@@ -7,6 +7,8 @@ path: /notes/abhishekchauhan1509/04-17-2022/gsoc-proposal-full-screen-ui-and-vid
 nid: 30443
 uid: 794981
 
+cids: 30023,30043,30044,30061
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/909/original/4621650.png)

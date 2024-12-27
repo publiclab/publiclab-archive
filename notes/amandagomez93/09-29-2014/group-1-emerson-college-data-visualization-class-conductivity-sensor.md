@@ -7,6 +7,8 @@ path: /notes/amandagomez93/09-29-2014/group-1-emerson-college-data-visualization
 nid: 11207
 uid: 428015
 
+cids: 10468
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/112/original/Gillis-4.jpg)

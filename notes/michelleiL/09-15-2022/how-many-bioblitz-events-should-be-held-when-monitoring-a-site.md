@@ -7,6 +7,8 @@ path: /notes/michelleiL/09-15-2022/how-many-bioblitz-events-should-be-held-when-
 nid: 34966
 uid: 799004
 
+cids: 30621,30710
+
 ---
 
 # How many Bioblitz events should be held when monitoring a site? 

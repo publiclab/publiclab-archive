@@ -7,6 +7,8 @@ path: /notes/cadreia/10-29-2020/outreachy-proposal.md
 nid: 24868
 uid: 725561
 
+cids: 27578,27589,27590,27594,27598,27644
+
 ---
 
 # Outreachy Proposal: Comment Editor Overhaul

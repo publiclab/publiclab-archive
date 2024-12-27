@@ -7,6 +7,8 @@ path: /notes/warren/6-12-2012/mobile-android-version-spectral-workbench.md
 nid: 2461
 uid: 1
 
+cids: 889,904,906,1252,1259,1288,1321,1329,1472,1475,1614,1616,1706,1709,1710,2028,2446,2447,2467,2475,2492,2882,2941,4167,4433,4481,4707,5720
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectral-workbench-mobile.png)

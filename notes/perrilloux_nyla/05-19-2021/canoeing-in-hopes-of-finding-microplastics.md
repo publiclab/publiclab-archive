@@ -7,6 +7,8 @@ path: /notes/perrilloux_nyla/05-19-2021/canoeing-in-hopes-of-finding-microplasti
 nid: 26644
 uid: 745903
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/848/original/image0_%282%29.jpeg)

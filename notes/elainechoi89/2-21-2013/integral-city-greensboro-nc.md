@@ -7,6 +7,8 @@ path: /notes/elainechoi89/2-21-2013/integral-city-greensboro-nc.md
 nid: 6080
 uid: 6102
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2013-02-21 at 2.39.00 PM_0.png)

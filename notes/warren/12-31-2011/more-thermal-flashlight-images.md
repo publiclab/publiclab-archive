@@ -7,6 +7,8 @@ path: /notes/warren/12-31-2011/more-thermal-flashlight-images.md
 nid: 672
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screenshot at 2011-12-26 20:05:29.png)

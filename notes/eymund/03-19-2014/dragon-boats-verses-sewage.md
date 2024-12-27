@@ -7,6 +7,8 @@ path: /notes/eymund/03-19-2014/dragon-boats-verses-sewage.md
 nid: 10206
 uid: 1016
 
+cids: 8554,9065,11098
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/336/original/Screen_Shot_2014-03-19_at_4.58.57_PM.png)

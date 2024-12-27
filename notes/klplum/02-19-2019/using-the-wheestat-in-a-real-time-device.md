@@ -7,6 +7,8 @@ path: /notes/klplum/02-19-2019/using-the-wheestat-in-a-real-time-device.md
 nid: 18398
 uid: 575073
 
+cids: 
+
 ---
 
 # Using the Wheestat in a real time device

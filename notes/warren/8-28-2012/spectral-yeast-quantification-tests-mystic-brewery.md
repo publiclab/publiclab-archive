@@ -7,6 +7,8 @@ path: /notes/warren/8-28-2012/spectral-yeast-quantification-tests-mystic-brewery
 nid: 3547
 uid: 1
 
+cids: 2783,2784,2785
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0570.JPG)

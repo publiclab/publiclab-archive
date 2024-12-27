@@ -7,6 +7,8 @@ path: /notes/sashae/06-21-2021/diy-satellite-ground-station-workshop.md
 nid: 25627
 uid: 693684
 
+cids: 28155,29132,29313,29314
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/616/original/DSC00603.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/11-24-2017/make-a-narrow-slit-for-a-diy-spectrometer-out-of-
 nid: 15235
 uid: 1
 
+cids: 17778,25698,25700
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/547/original/PB211739.jpg)

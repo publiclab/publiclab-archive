@@ -7,6 +7,8 @@ path: /notes/cfastie/08-07-2017/assembling-a-skypod-gps-logger.md
 nid: 14723
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/293/original/Skypod_20170412-7979b.jpg)

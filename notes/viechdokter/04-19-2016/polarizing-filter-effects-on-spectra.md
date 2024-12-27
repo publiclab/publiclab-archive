@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-19-2016/polarizing-filter-effects-on-spectra.md
 nid: 13003
 uid: 468990
 
+cids: 14335
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/670/original/Polfilter_header.jpg)

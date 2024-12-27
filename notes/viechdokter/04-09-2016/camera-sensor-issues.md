@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-09-2016/camera-sensor-issues.md
 nid: 12949
 uid: 468990
 
+cids: 14176,14189,14190,14191,14194
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/439/original/sunlight_12_curve_only.jpg)

@@ -7,6 +7,8 @@ path: /notes/abdul/06-22-2016/infragram-plant-cam.md
 nid: 13232
 uid: 479194
 
+cids: 
+
 ---
 
 # Infragram Plant Cam

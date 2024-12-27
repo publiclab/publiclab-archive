@@ -7,6 +7,8 @@ path: /notes/stevie/04-06-2022/seeking-a-documentation-fellow.md
 nid: 30241
 uid: 422561
 
+cids: 29931,30256
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/632/original/rice2_1.1.2.jpg)

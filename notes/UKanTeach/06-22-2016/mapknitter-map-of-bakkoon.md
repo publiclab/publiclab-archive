@@ -7,6 +7,8 @@ path: /notes/UKanTeach/06-22-2016/mapknitter-map-of-bakkoon.md
 nid: 13229
 uid: 476734
 
+cids: 
+
 ---
 
 # MapKnitter map of bakkoon

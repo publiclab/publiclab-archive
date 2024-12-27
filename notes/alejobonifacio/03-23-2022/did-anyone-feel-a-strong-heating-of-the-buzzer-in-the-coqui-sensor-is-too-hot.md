@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/03-23-2022/did-anyone-feel-a-strong-heating-of-the-b
 nid: 30178
 uid: 639376
 
+cids: 
+
 ---
 
 # Did anyone feel a strong heating of the buzzer in the Coqui sensor? is too hot

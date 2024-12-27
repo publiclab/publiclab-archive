@@ -7,6 +7,8 @@ path: /notes/smathermather/06-08-2015/opendronemap-openaerialmap-and-mapknitter.
 nid: 11955
 uid: 431062
 
+cids: 11920,11936,11938,11966
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/251/original/IMG_4033.JPG)

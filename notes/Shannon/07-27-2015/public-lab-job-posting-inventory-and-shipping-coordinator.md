@@ -7,6 +7,8 @@ path: /notes/Shannon/07-27-2015/public-lab-job-posting-inventory-and-shipping-co
 nid: 12102
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/903/original/plots-logo-transparent.jpg)

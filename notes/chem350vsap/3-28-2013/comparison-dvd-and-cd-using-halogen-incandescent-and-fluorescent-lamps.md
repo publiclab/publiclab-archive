@@ -7,6 +7,8 @@ path: /notes/chem350vsap/3-28-2013/comparison-dvd-and-cd-using-halogen-incandesc
 nid: 6580
 uid: 50508
 
+cids: 4254,4270,4308,4653
+
 ---
 
 ![](https://publiclab.org/sites/default/files/fluorescentDVD.png)

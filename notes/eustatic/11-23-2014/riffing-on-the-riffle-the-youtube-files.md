@@ -7,6 +7,8 @@ path: /11-23-2014/riffing-on-the-riffle-the-youtube-files.md
 nid: 11393
 uid: 379
 
+cids: 10844
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/085/original/lauren_invents_things.png)

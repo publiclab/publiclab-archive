@@ -7,6 +7,8 @@ path: /notes/mehulchapaneri8988/04-18-2022/gsoc-proposal-infragram-org-video-upl
 nid: 30475
 uid: 792355
 
+cids: 30032,30045
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/063/original/LinkedIn_cover_-_1.jpg)

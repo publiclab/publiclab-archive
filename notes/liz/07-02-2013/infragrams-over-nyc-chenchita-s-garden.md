@@ -7,6 +7,8 @@ path: /notes/liz/07-02-2013/infragrams-over-nyc-chenchita-s-garden.md
 nid: 8613
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/631/original/IMG_3652.JPG)

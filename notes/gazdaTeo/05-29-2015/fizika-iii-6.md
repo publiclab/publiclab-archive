@@ -7,6 +7,8 @@ path: /notes/gazdaTeo/05-29-2015/fizika-iii-6.md
 nid: 11876
 uid: 442742
 
+cids: 11861
+
 ---
 
 # fizika III 6

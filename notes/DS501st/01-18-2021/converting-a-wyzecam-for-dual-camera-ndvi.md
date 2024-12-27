@@ -7,6 +7,8 @@ path: /notes/DS501st/01-18-2021/converting-a-wyzecam-for-dual-camera-ndvi.md
 nid: 25491
 uid: 736201
 
+cids: 27981,27989,28008,28011,28053,30912
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/450/original/61B04f0ALWL._AC_SL1500_.jpg)

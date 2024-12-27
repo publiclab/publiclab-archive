@@ -7,6 +7,8 @@ path: /notes/kokoz/11-14-2018/is-lego-spectrometer-kit-able-to-detect-glucose.md
 nid: 17554
 uid: 559535
 
+cids: 21260,21271,23284,23288
+
 ---
 
 # Is Lego Spectrometer Kit able to detect Glucose?

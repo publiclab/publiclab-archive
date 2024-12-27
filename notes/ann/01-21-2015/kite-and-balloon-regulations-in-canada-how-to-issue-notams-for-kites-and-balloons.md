@@ -7,6 +7,8 @@ path: /notes/ann/01-21-2015/kite-and-balloon-regulations-in-canada-how-to-issue-
 nid: 11536
 uid: 421543
 
+cids: 11079,11092
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/723/original/Radio_Kite-seaplane-tests-USNavalAirStn-AnacostiaDC.jpg)

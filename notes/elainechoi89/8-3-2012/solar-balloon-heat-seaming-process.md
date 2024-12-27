@@ -7,6 +7,8 @@ path: /notes/elainechoi89/8-3-2012/solar-balloon-heat-seaming-process.md
 nid: 3115
 uid: 6102
 
+cids: 1119,1170,7345
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7489198486_0c792a32bd_z.jpg)

@@ -7,6 +7,8 @@ path: /notes/stevie/10-19-2021/formosa-plastics-around-the-world.md
 nid: 27943
 uid: 422561
 
+cids: 29336,29538
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/935/original/Formosa_explosion.jpeg)

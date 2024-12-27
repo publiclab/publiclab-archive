@@ -7,6 +7,8 @@ path: /notes/Natalie/03-06-2015/diy-pole-mapping-camera-mount.md
 nid: 11661
 uid: 424454
 
+cids: 11313,24863,25217,29085,29089,29090
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/197/original/Poleparts.JPG)

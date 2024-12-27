@@ -7,6 +7,8 @@ path: /notes/kaya9804/2-12-2013/research-plan.md
 nid: 5959
 uid: 45526
 
+cids: 
+
 ---
 
 # Research Plan

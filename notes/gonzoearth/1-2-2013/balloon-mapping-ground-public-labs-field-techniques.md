@@ -7,6 +7,8 @@ path: /notes/gonzoearth/1-2-2013/balloon-mapping-ground-public-labs-field-techni
 nid: 5394
 uid: 12
 
+cids: 2868
+
 ---
 
 ![](https://publiclab.org/sites/default/files/fairyland.JPG)

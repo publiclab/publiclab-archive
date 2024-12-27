@@ -7,6 +7,8 @@ path: /notes/dckim/10-04-2013/help-trying-to-get-spectrophotometer-to-work.md
 nid: 9397
 uid: 295582
 
+cids: 7165,7266,7304,7629,7634,7660,8018,8021
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/087/original/inside1.jpg)

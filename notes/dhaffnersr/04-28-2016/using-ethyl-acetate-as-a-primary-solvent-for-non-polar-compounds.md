@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-28-2016/using-ethyl-acetate-as-a-primary-solvent-for-
 nid: 13046
 uid: 461120
 
+cids: 14472
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/848/original/2strkmtroilapr28.JPG)

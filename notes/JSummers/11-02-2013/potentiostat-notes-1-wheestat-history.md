@@ -7,6 +7,8 @@ path: /notes/JSummers/11-02-2013/potentiostat-notes-1-wheestat-history.md
 nid: 9718
 uid: 304279
 
+cids: 9347,9348,9349,9352
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/090/original/WheeStat5_2-fig1.bmp)

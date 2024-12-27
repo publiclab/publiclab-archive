@@ -7,6 +7,8 @@ path: /notes/mathew/8-5-2011/adjustable-555-based-shutter-trigger-circuit.md
 nid: 431
 uid: 4
 
+cids: 
+
 ---
 
 # Adjustable 555-based shutter trigger circuit  

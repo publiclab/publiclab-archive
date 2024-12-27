@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-08-2016/tested-9-400nm-uv-leds-today-these-are-the-re
 nid: 12818
 uid: 461120
 
+cids: 13820,13821,13822,13823,13835,13837,13851
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/682/original/LED_test_mar8.png)

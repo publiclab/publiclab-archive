@@ -7,6 +7,8 @@ path: /notes/stevie/10-11-2017/where-can-you-purchase-a-bucket-for-air-grab-samp
 nid: 15027
 uid: 422561
 
+cids: 17511,17514,17934,17958,18959
+
 ---
 
 # Where can you purchase a bucket for air grab sampling? 

@@ -7,6 +7,8 @@ path: /notes/liz/11-11-2013/invite-buckminster-fuller-challenge-award-ceremony.m
 nid: 9768
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/197/original/General_Award_Invite.jpg)

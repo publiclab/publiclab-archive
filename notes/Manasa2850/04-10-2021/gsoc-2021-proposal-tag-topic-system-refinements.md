@@ -7,6 +7,8 @@ path: /notes/Manasa2850/04-10-2021/gsoc-2021-proposal-tag-topic-system-refinemen
 nid: 26184
 uid: 752279
 
+cids: 28514,28517,28526,28536,28537,28610,28612,28655,28656,28657,28670,28671,28672,28673,28693,28695,28696,28710
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/209/original/1.png)

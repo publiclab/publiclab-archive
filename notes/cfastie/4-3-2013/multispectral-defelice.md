@@ -7,6 +7,8 @@ path: /notes/cfastie/4-3-2013/multispectral-defelice.md
 nid: 6653
 uid: 554
 
+cids: 4331,4347,4351,4352
+
 ---
 
 ![](https://publiclab.org/sites/default/files/cocofrontNDVI1500.jpg)

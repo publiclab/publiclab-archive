@@ -7,6 +7,8 @@ path: /notes/warren/5-9-2012/jack-hitt-science-and-truth-we-re-all-it-together.m
 nid: 1934
 uid: 1
 
+cids: 
+
 ---
 
 # Jack Hitt: Science and Truth: We’re All in It Together

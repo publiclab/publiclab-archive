@@ -7,6 +7,8 @@ path: /notes/brittny/11-28-2011/thermal-imaging-uses.md
 nid: 587
 uid: 370
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMAG0350.jpeg)

@@ -7,6 +7,8 @@ path: /notes/MaggPi/08-19-2019/microscope-calibration-with-image-sequencer.md
 nid: 20564
 uid: 501996
 
+cids: 25272,25273
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/662/original/Slide11.PNG)

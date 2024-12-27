@@ -7,6 +7,8 @@ path: /notes/keshav_sethi0004/08-18-2020/spam-management-dashboard-documentation
 nid: 24349
 uid: 653396
 
+cids: 27247,27249,27253,27266,27399,27542
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/553/original/1.png)

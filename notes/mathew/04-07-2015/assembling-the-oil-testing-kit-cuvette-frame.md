@@ -7,6 +7,8 @@ path: /notes/mathew/04-07-2015/assembling-the-oil-testing-kit-cuvette-frame.md
 nid: 11751
 uid: 4
 
+cids: 11483,12295,12297,12298,12300,12704,13085
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/620/original/IMG_20150407_150745.jpg)

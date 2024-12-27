@@ -7,6 +7,8 @@ path: /notes/warren/04-15-2014/infragram-featured-in-april-s-issue-of-wired.md
 nid: 10315
 uid: 1
 
+cids: 8799
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/675/original/IMG_20140415_155127.jpg)

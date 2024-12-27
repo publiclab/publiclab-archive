@@ -7,6 +7,8 @@ path: /notes/mathew/7-19-2012/easy-cut-delta-kite-plans.md
 nid: 2874
 uid: 4
 
+cids: 6124,11452,19374,23995
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5209_crop.jpg)

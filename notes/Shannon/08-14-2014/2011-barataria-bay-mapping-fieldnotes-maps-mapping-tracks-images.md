@@ -7,6 +7,8 @@ path: /notes/Shannon/08-14-2014/2011-barataria-bay-mapping-fieldnotes-maps-mappi
 nid: 11049
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/266/original/Map_1.png)

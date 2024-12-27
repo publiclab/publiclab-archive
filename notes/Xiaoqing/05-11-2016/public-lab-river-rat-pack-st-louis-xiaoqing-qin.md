@@ -7,6 +7,8 @@ path: /notes/Xiaoqing/05-11-2016/public-lab-river-rat-pack-st-louis-xiaoqing-qin
 nid: 13102
 uid: 473184
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/102/original/water_dia-all-upload_layout.jpg)

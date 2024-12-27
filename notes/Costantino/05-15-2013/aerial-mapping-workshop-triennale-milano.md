@@ -7,6 +7,8 @@ path: /notes/Costantino/05-15-2013/aerial-mapping-workshop-triennale-milano.md
 nid: 7577
 uid: 53682
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/285/original/wefab_mapping_web_s.jpg)

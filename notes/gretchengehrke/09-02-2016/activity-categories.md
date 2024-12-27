@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/09-02-2016/activity-categories.md
 nid: 13413
 uid: 430549
 
+cids: 15299,15300,15317,15322,15327,15329,15331,16360
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/966/original/Screenshot_2016-09-07_at_3.59.21_PM.png)

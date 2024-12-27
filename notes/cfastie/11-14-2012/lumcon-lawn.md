@@ -7,6 +7,8 @@ path: /notes/cfastie/11-14-2012/lumcon-lawn.md
 nid: 4906
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/CocoS95-20121101-2100.jpg)

@@ -7,6 +7,8 @@ path: /notes/danbeavers/2-2-2013/easy-cut-delta-kite-simplification.md
 nid: 5871
 uid: 51
 
+cids: 3291,3292
+
 ---
 
 # Easy Cut Delta Kite simplification

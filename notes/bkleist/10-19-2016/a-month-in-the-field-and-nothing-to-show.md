@@ -7,6 +7,8 @@ path: /notes/bkleist/10-19-2016/a-month-in-the-field-and-nothing-to-show.md
 nid: 13578
 uid: 489504
 
+cids: 15667,15675,15780,15783,15834,15835,15850,15902,15907,25918
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/431/original/IMAG2073.JPG)

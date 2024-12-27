@@ -7,6 +7,8 @@ path: /notes/warren/05-27-2016/recent-updates-on-publiclab-org-google-summer-of-
 nid: 13150
 uid: 1
 
+cids: 14691,14694
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/380/original/Screenshot_2016-05-27_at_1.56.15_PM.png)

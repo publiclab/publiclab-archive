@@ -7,6 +7,8 @@ path: /notes/safidy/5-29-2012/chdk-jpeg-vs-raw.md
 nid: 2232
 uid: 898
 
+cids: 778,786,797,798,800,801,802
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Jpeg Raw.jpg)

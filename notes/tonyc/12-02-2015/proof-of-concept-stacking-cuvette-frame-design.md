@@ -7,6 +7,8 @@ path: /notes/tonyc/12-02-2015/proof-of-concept-stacking-cuvette-frame-design.md
 nid: 12472
 uid: 447491
 
+cids: 13006
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/155/original/P_20151202_103545.jpg)

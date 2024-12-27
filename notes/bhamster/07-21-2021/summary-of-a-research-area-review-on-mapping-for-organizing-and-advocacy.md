@@ -7,6 +7,8 @@ path: /notes/bhamster/07-21-2021/summary-of-a-research-area-review-on-mapping-fo
 nid: 27255
 uid: 664477
 
+cids: 29045,30262,31146
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/452/original/thumbnail.png)

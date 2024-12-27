@@ -7,6 +7,8 @@ path: /notes/imvec/06-09-2018/coqui-wave-audio-recording.md
 nid: 16458
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/192/original/bezoya.png)

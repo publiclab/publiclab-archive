@@ -7,6 +7,8 @@ path: /notes/warren/2-2-2012/introduction-spectral-workbench.md
 nid: 744
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 2_0.png)

@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/01-08-2022/white-oak-1-8-22.md
 nid: 28691
 uid: 756318
 
+cids: 
+
 ---
 
 # White Oak 1/8/22

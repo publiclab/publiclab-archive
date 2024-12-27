@@ -7,6 +7,8 @@ path: /notes/warren/02-17-2017/environmental-data-management-analysis-tools.md
 nid: 13937
 uid: 1
 
+cids: 19357,19467,20263,20264
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/578/original/Screen_Shot_2017-02-16_at_7.44.44_PM.png)

@@ -7,6 +7,8 @@ path: /notes/wcheung/05-09-2015/uciarc.md
 nid: 11804
 uid: 441286
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/860/original/PICT0010.jpg)

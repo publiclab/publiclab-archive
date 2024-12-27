@@ -7,6 +7,8 @@ path: /notes/TheChessGym/04-07-2022/microplastic-collection-from-mississippi-riv
 nid: 30290
 uid: 788868
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/639/original/IMG_0947.jpg)

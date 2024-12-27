@@ -7,6 +7,8 @@ path: /notes/imvec/02-08-2020/compartir-imagenes-usando-archive-org.md
 nid: 22712
 uid: 495038
 
+cids: 29580
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/022/original/archive.png)

@@ -7,6 +7,8 @@ path: /notes/rmeister/06-10-2016/serial-communication-via-headphone-jack.md
 nid: 13185
 uid: 468994
 
+cids: 15481,15483,15484,15485,15486,15487,15488,15489,15490,15494
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/576/original/figure_eval_pos.png)

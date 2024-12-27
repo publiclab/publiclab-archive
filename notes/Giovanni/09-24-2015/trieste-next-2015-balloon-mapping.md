@@ -7,6 +7,8 @@ path: /notes/Giovanni/09-24-2015/trieste-next-2015-balloon-mapping.md
 nid: 12240
 uid: 422446
 
+cids: 12593
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/679/original/IMGP1378_light.jpg)

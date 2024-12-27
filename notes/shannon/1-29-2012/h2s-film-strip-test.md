@@ -7,6 +7,8 @@ path: /notes/shannon/1-29-2012/h2s-film-strip-test.md
 nid: 726
 uid: 9
 
+cids: 
+
 ---
 
 # H2S film strip recommendations

@@ -7,6 +7,8 @@ path: /notes/31gane/01-02-2018/integration.md
 nid: 15452
 uid: 420044
 
+cids: 18584,19361,19362
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/067/original/Dispersive_Prism.jpg)

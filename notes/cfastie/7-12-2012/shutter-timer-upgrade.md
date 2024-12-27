@@ -7,6 +7,8 @@ path: /notes/cfastie/7-12-2012/shutter-timer-upgrade.md
 nid: 2785
 uid: 554
 
+cids: 1014,1015,1016
+
 ---
 
 ![](https://publiclab.org/sites/default/files/MK111-20120712-2502a.jpg)

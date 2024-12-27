@@ -7,6 +7,8 @@ path: /notes/warren/11-17-2011/543-landsat-band-colors-using-mid-infrared-detect
 nid: 563
 uid: 1
 
+cids: 352
+
 ---
 
 ![](https://publiclab.org/sites/default/files/543-pink-is-impervious-surface.png)

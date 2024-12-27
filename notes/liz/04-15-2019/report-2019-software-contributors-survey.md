@@ -7,6 +7,8 @@ path: /notes/liz/04-15-2019/report-2019-software-contributors-survey.md
 nid: 19070
 uid: 7
 
+cids: 23896,23898,23900,23905,23909,27486,27493
+
 ---
 
 # Report: 2019 Software Contributors Survey

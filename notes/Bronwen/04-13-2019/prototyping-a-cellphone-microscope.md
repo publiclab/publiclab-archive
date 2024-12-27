@@ -7,6 +7,8 @@ path: /notes/Bronwen/04-13-2019/prototyping-a-cellphone-microscope.md
 nid: 19050
 uid: 237313
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/482/original/IMG_5196.JPG)

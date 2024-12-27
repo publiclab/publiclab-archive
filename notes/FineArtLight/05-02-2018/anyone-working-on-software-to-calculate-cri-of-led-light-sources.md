@@ -7,6 +7,8 @@ path: /notes/FineArtLight/05-02-2018/anyone-working-on-software-to-calculate-cri
 nid: 16280
 uid: 436886
 
+cids: 
+
 ---
 
 # Anyone working on software to calculate CRI of LED light sources? 

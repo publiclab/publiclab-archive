@@ -7,6 +7,8 @@ path: /notes/lit2017001/08-26-2019/gsoc-19-with-public-lab.md
 nid: 20682
 uid: 577890
 
+cids: 25349,25401
+
 ---
 
 # GSoC'19 with Public Lab

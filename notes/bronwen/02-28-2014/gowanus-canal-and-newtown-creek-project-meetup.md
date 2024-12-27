@@ -7,6 +7,8 @@ path: /notes/bronwen/02-28-2014/gowanus-canal-and-newtown-creek-project-meetup.m
 nid: 10081
 uid: 237313
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/098/original/N_GMeet.jpg)

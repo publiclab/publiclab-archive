@@ -7,6 +7,8 @@ path: /notes/MaggPi/07-24-2018/ndvi-led-simulator.md
 nid: 16777
 uid: 501996
 
+cids: 20214,20234,20898
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/859/original/ndvi2.png)

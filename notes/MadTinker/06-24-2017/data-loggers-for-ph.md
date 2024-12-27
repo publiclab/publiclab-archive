@@ -7,6 +7,8 @@ path: /notes/MadTinker/06-24-2017/data-loggers-for-ph.md
 nid: 14575
 uid: 461206
 
+cids: 22499,22500
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/859/original/IMG_7187.jpg)

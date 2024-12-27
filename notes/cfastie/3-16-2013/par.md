@@ -7,6 +7,8 @@ path: /notes/cfastie/3-16-2013/par.md
 nid: 6372
 uid: 554
 
+cids: 1,3814,3820,3821,3822,3823,3825,3832,3834,3837,3840,3842,3986
+
 ---
 
 ![](https://publiclab.org/sites/default/files/PAR-201334430.jpg)

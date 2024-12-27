@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/10-12-2016/is-it-possible-to-generate-a-word-cloud-bas
 nid: 13557
 uid: 459085
 
+cids: 22332,23513
+
 ---
 
 # Is it possible to generate a word cloud based on a tag's related tags?

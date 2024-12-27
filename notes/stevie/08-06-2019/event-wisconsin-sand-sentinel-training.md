@@ -7,6 +7,8 @@ path: /notes/stevie/08-06-2019/event-wisconsin-sand-sentinel-training.md
 nid: 20438
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/371/original/Screen_Shot_2019-08-06_at_9.28.19_AM.png)

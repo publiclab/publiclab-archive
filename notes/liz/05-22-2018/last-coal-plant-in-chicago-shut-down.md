@@ -7,6 +7,8 @@ path: /notes/liz/05-22-2018/last-coal-plant-in-chicago-shut-down.md
 nid: 16376
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/009/original/Screen_Shot_2018-05-22_at_8.32.37_AM.png)

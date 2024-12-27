@@ -7,6 +7,8 @@ path: /notes/anthonytriche/04-14-2021/pollution-in-bayou-st-john.md
 nid: 26237
 uid: 750424
 
+cids: 28585,28789
+
 ---
 
 # Pollution in Bayou St. John

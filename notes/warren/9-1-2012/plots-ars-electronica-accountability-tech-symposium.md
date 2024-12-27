@@ -7,6 +7,8 @@ path: /notes/warren/9-1-2012/plots-ars-electronica-accountability-tech-symposium
 nid: 3602
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/account.png)

@@ -7,6 +7,8 @@ path: /notes/ethanbass/10-29-2015/question-is-there-a-way-to-delete-a-set-of-spe
 nid: 12341
 uid: 46902
 
+cids: 12838,12910,13383,13392,14746,14751
+
 ---
 
 # Question: Is there a way to delete a set of spectra from the spectral work bench?

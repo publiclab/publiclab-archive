@@ -7,6 +7,8 @@ path: /notes/xvidun/03-07-2014/gsoc-proposal-draft-mapknitter-enhancements.md
 nid: 10138
 uid: 421168
 
+cids: 8445,8446,8447,8448,8449,8463,8467,8492,8493,8635,8669,8734
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/181/original/Neyyar.png)

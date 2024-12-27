@@ -7,6 +7,8 @@ path: /notes/RachelFinan23/10-22-2013/any-help-fracking-project.md
 nid: 9520
 uid: 302350
 
+cids: 7321,7327,7381,9654
+
 ---
 
 # Any Help ! Fracking Project

@@ -7,6 +7,8 @@ path: /notes/Reenesa/11-01-2019/outreachy-proposal.md
 nid: 21363
 uid: 626314
 
+cids: 25787,25917
+
 ---
 
 # Outreachy proposal: 

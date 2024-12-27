@@ -7,6 +7,8 @@ path: /notes/liz/3-2-2012/video-idea-thermal-fishing-bob-gowanus.md
 nid: 883
 uid: 7
 
+cids: 
+
 ---
 
 # Video idea for thermal fishing bob in Gowanus

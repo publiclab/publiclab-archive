@@ -7,6 +7,8 @@ path: /notes/ananyo2012/08-19-2016/testing-out-a-note-within-chinese-characters-
 nid: 13369
 uid: 468506
 
+cids: 15204
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/679/original/%3F%3F17.jpg)

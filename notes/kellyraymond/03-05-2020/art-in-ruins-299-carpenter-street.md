@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-299-carpenter-street.md
 nid: 23049
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (299 Carpenter Street)

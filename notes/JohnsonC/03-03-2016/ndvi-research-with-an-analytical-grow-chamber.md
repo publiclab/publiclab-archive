@@ -7,6 +7,8 @@ path: /notes/JohnsonC/03-03-2016/ndvi-research-with-an-analytical-grow-chamber.m
 nid: 12768
 uid: 467223
 
+cids: 13784,13793,13794,13795,13796,13797,13800,13839,13845,13848,13853,13856,13864,13956,13957
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/636/original/IMG_3034.JPG)

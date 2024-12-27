@@ -7,6 +7,8 @@ path: /notes/patcoyle/12-16-2013/results-simple-aerial-photomapping-session-junc
 nid: 9888
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/413/original/121413_0021.jpg)

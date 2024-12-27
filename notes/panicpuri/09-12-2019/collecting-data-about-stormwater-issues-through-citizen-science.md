@@ -7,6 +7,8 @@ path: /notes/panicpuri/09-12-2019/collecting-data-about-stormwater-issues-throug
 nid: 20842
 uid: 617886
 
+cids: 25500,25530,25531,25544,25545,25585,25591,25593,25594
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/224/original/watershed-map_SP-01.jpg)

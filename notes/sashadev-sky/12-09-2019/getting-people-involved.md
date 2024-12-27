@@ -7,6 +7,8 @@ path: /notes/sashadev-sky/12-09-2019/getting-people-involved.md
 nid: 21699
 uid: 555321
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/933/original/workflow.jpg)

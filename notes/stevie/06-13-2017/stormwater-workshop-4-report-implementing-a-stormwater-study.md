@@ -7,6 +7,8 @@ path: /notes/stevie/06-13-2017/stormwater-workshop-4-report-implementing-a-storm
 nid: 14533
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/779/original/20170603_155739_%282%29.jpg)

@@ -7,6 +7,8 @@ path: /notes/renee/10-01-2021/creating-research-questions-for-your-community-sci
 nid: 27819
 uid: 756320
 
+cids: 30206,31114,31203,31319
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/880/original/thumbnail_Creating_Research_Questions.png)

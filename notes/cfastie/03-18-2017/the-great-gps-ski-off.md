@@ -7,6 +7,8 @@ path: /notes/cfastie/03-18-2017/the-great-gps-ski-off.md
 nid: 14036
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/888/original/gpsOff_20170317-7678ps.jpg)

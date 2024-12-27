@@ -7,6 +7,8 @@ path: /notes/code4maine/09-28-2014/options-for-low-cost-lidar.md
 nid: 11196
 uid: 294634
 
+cids: 10456,10458,10464,11804,12049,12423,12424,12920,16228
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/049/original/lidar11.png)

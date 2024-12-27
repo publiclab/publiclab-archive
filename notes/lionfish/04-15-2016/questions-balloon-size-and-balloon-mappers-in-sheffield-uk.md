@@ -7,6 +7,8 @@ path: /notes/lionfish/04-15-2016/questions-balloon-size-and-balloon-mappers-in-s
 nid: 12981
 uid: 470457
 
+cids: 14262,14263,14267,14272,14280,14282,14301,14308,14311
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/548/original/version1.jpg)

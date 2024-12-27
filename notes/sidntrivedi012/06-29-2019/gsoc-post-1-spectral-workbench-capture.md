@@ -7,6 +7,8 @@ path: /notes/sidntrivedi012/06-29-2019/gsoc-post-1-spectral-workbench-capture.md
 nid: 19926
 uid: 572743
 
+cids: 24938,24939,24960
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/365/original/header.jpeg)

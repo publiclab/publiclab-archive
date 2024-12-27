@@ -7,6 +7,8 @@ path: /notes/brachium/12-03-2014/thermal-imaging-heat-insulation-comparison.md
 nid: 11426
 uid: 432269
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/227/original/aac.png)

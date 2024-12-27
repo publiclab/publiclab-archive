@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/07-05-2021/summary-of-water-and-water-community-call
 nid: 26950
 uid: 639376
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/281/original/ecosen.png)

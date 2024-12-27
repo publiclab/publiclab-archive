@@ -7,6 +7,8 @@ path: /notes/warren/06-05-2019/build-a-simple-aerial-photo-rig-for-a-raspberry-p
 nid: 19620
 uid: 1
 
+cids: 24748,24785,25164,25253
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/709/original/IMG_20190530_173744_copy.jpg)

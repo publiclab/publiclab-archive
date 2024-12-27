@@ -7,6 +7,8 @@ path: /notes/vnourrit/09-20-2019/possibilities-to-use-the-dvd-in-reflection-in-t
 nid: 20939
 uid: 621512
 
+cids: 25586,28079
+
 ---
 
 # Possibilities to use the dvd in reflection in the spectrometer ?

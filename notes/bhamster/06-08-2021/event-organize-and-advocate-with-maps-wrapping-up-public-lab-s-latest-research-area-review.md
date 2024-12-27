@@ -7,6 +7,8 @@ path: /notes/bhamster/06-08-2021/event-organize-and-advocate-with-maps-wrapping-
 nid: 26790
 uid: 664477
 
+cids: 28906,28970,28971,28978,28979,28980,28983,28984,28991
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/083/original/Map-drawing.jpeg)

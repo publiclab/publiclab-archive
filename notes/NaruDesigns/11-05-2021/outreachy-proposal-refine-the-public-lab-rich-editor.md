@@ -7,6 +7,8 @@ path: /notes/NaruDesigns/11-05-2021/outreachy-proposal-refine-the-public-lab-ric
 nid: 28109
 uid: 775118
 
+cids: 29401,29404
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/035/original/Naru_Designs.jpeg)

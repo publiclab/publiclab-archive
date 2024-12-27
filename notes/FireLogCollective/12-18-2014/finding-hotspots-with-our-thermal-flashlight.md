@@ -7,6 +7,8 @@ path: /notes/FireLogCollective/12-18-2014/finding-hotspots-with-our-thermal-flas
 nid: 11482
 uid: 432903
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/494/original/graph1.jpg)

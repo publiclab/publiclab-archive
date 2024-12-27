@@ -7,6 +7,8 @@ path: /notes/warren/10-7-2011/fwd-mapknitter-10-released-today-turn-aerial-photo
 nid: 502
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/knitter_0.png)

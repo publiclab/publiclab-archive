@@ -7,6 +7,8 @@ path: /notes/warren/08-07-2013/smartphone-spectrometer-molds-being-machined.md
 nid: 8979
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/061/original/2_Inserts.jpg)

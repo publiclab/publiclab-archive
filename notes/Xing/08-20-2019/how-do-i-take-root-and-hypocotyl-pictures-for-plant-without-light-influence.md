@@ -7,6 +7,8 @@ path: /notes/Xing/08-20-2019/how-do-i-take-root-and-hypocotyl-pictures-for-plant
 nid: 20590
 uid: 611950
 
+cids: 25296,25305
+
 ---
 
 # How do I take root and hypocotyl pictures for plant without light influence

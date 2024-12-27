@@ -7,6 +7,8 @@ path: /notes/sja/12-10-2018/how-do-you-put-together-the-basic-microscope-kit-wit
 nid: 17855
 uid: 563626
 
+cids: 
+
 ---
 
 # How do you put together the basic microscope kit, without the Raspberry Pi?? None of the instruction videos work. 

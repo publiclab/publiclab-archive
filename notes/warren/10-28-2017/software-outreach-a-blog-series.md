@@ -7,6 +7,8 @@ path: /notes/warren/10-28-2017/software-outreach-a-blog-series.md
 nid: 15126
 uid: 1
 
+cids: 25176
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/147/original/Screenshot_2017-10-28_at_9.41.24_AM.png)

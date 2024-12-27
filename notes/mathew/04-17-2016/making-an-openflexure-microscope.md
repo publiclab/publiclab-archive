@@ -7,6 +7,8 @@ path: /notes/mathew/04-17-2016/making-an-openflexure-microscope.md
 nid: 12997
 uid: 4
 
+cids: 14313,14318,14319,14321,14332,14546,18018,18052,18054,18056,18070
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/654/original/P_20160417_104728.jpg)

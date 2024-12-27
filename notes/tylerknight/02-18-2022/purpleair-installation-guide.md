@@ -7,6 +7,8 @@ path: /notes/tylerknight/02-18-2022/purpleair-installation-guide.md
 nid: 30032
 uid: 777566
 
+cids: 29897,29898,30748
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/403/original/PurpleAirPhoto2.png)

@@ -7,6 +7,8 @@ path: /notes/apriliainggri/12-29-2014/app.md
 nid: 11499
 uid: 432482
 
+cids: 11006,11028
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/544/original/20141219_142935.jpg)

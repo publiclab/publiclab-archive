@@ -7,6 +7,8 @@ path: /notes/limon93/02-26-2015/toshiba-camileo-s10-infragram-conversion.md
 nid: 11641
 uid: 435788
 
+cids: 11248,11251
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/103/original/44460.jpg)

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/02-16-2016/addmendum-to-my-post.md
 nid: 12696
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/344/original/sunrise816.jpg)

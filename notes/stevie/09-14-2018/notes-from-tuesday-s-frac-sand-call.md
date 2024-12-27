@@ -7,6 +7,8 @@ path: /notes/stevie/09-14-2018/notes-from-tuesday-s-frac-sand-call.md
 nid: 17117
 uid: 422561
 
+cids: 20707
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/562/original/IMG_7743.JPG)

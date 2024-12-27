@@ -7,6 +7,8 @@ path: /notes/ernestootero/01-04-2016/final-results-oil-testing-kit-boqueron-puer
 nid: 12558
 uid: 447002
 
+cids: 13265,13276
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/503/original/Final_Report.jpg)

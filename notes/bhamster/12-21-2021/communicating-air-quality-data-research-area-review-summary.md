@@ -7,6 +7,8 @@ path: /notes/bhamster/12-21-2021/communicating-air-quality-data-research-area-re
 nid: 28517
 uid: 664477
 
+cids: 29537,29607,30212,30574,30744,30781,31195,31254,31255,31283,31288,31290,31292,31295,31535
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/275/original/leadimage.png)

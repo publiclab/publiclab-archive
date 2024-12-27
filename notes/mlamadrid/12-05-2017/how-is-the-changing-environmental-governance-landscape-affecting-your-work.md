@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-05-2017/how-is-the-changing-environmental-governance-l
 nid: 15309
 uid: 45586
 
+cids: 
+
 ---
 
 # How is the changing environmental governance landscape affecting YOUR work?

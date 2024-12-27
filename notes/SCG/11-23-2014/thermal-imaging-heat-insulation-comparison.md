@@ -7,6 +7,8 @@ path: /notes/SCG/11-23-2014/thermal-imaging-heat-insulation-comparison.md
 nid: 11392
 uid: 431781
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/079/original/IMG_0329.PNG)

@@ -7,6 +7,8 @@ path: /notes/shannon/5-26-2011/gulf-coast-citizen-advisory-committee.md
 nid: 302
 uid: 9
 
+cids: 
+
 ---
 
 # Gulf Coast Citizen Advisory Committee

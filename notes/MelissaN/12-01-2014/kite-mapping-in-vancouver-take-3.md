@@ -7,6 +7,8 @@ path: /notes/MelissaN/12-01-2014/kite-mapping-in-vancouver-take-3.md
 nid: 11415
 uid: 305152
 
+cids: 10884,10885,10886,10887,10888,10889
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/164/original/tt_img_00118.jpg)

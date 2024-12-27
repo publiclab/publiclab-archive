@@ -7,6 +7,8 @@ path: /notes/imvec/03-19-2020/taller-extraccion-de-lodos-en-cosquin.md
 nid: 23188
 uid: 495038
 
+cids: 26522,26524,26534,26578
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/660/original/1.jpg)

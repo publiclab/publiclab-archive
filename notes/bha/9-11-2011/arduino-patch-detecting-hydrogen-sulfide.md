@@ -7,6 +7,8 @@ path: /notes/bha/9-11-2011/arduino-patch-detecting-hydrogen-sulfide.md
 nid: 465
 uid: 280
 
+cids: 
+
 ---
 
 # The arduino patch for detecting Hydrogen Sulfide

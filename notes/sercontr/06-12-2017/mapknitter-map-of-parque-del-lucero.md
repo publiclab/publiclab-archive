@@ -7,6 +7,8 @@ path: /notes/sercontr/06-12-2017/mapknitter-map-of-parque-del-lucero.md
 nid: 14519
 uid: 508888
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/762/original/pp8-fases-ejecucion.jpg)

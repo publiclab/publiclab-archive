@@ -7,6 +7,8 @@ path: /notes/Sebastian/01-15-2014/openbuoy-net-a-low-cost-open-source-research-v
 nid: 9949
 uid: 420294
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/559/original/buoy.jpeg)

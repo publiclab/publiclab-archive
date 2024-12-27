@@ -7,6 +7,8 @@ path: /notes/GreenLeaves/07-10-2014/yellow-sky.md
 nid: 10671
 uid: 425426
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/194/original/Download.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/4-6-2012/speakcityheights-balloon-mapping-youtube.md
 nid: 1626
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-04-06 at 1.00.11 PM.png)

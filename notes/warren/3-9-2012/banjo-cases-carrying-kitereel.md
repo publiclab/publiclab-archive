@@ -7,6 +7,8 @@ path: /notes/warren/3-9-2012/banjo-cases-carrying-kitereel.md
 nid: 912
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/800px-thompson_in_violin_case.jpg)

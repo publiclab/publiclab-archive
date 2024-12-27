@@ -7,6 +7,8 @@ path: /notes/ZzzPopFzzz/12-24-2017/where-is-there-a-group-interested-in-measurin
 nid: 15427
 uid: 521127
 
+cids: 22812
+
 ---
 
 # Where is there a group interested in measuring the radiation levels from Japan?

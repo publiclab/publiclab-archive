@@ -7,6 +7,8 @@ path: /notes/donblair/04-29-2013/ircam-raspberry-pi-shield-first-steps.md
 nid: 7121
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/141/original/ircamsketch.png)

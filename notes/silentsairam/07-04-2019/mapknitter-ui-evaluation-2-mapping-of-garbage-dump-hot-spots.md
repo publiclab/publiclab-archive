@@ -7,6 +7,8 @@ path: /notes/silentsairam/07-04-2019/mapknitter-ui-evaluation-2-mapping-of-garba
 nid: 19985
 uid: 553044
 
+cids: 24997,25019,25036,25038,25059
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/653/original/im_0026_20181010_012125.jpg)

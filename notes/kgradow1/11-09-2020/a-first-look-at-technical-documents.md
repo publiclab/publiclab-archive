@@ -7,6 +7,8 @@ path: /notes/kgradow1/11-09-2020/a-first-look-at-technical-documents.md
 nid: 24952
 uid: 297929
 
+cids: 
+
 ---
 
 # A First Look at Technical Documents

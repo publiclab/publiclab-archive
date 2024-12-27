@@ -7,6 +7,8 @@ path: /notes/epongrat/11-19-2014/the-sensor-is-gathering-data.md
 nid: 11369
 uid: 428825
 
+cids: 10806,10807,10872
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/014/original/sensor_ozone.jpg)

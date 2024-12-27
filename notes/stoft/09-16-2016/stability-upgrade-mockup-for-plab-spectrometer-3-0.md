@@ -7,6 +7,8 @@ path: /notes/stoft/09-16-2016/stability-upgrade-mockup-for-plab-spectrometer-3-0
 nid: 13455
 uid: 54025
 
+cids: 15406,15407,15408,15409,15410,15411,15412,15426,15440,15446,15448,15654,15657
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/061/original/Mockup-4.jpg)

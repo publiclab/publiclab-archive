@@ -7,6 +7,8 @@ path: /notes/bhamster/03-02-2023/challenges-and-solutions-doing-fieldwork.md
 nid: 38736
 uid: 664477
 
+cids: 31176
+
 ---
 
 # Challenges and Solutions doing Fieldwork

@@ -7,6 +7,8 @@ path: /3-27-2012/thoughts-water-sensing-needs-non-profits-louisiana.md
 nid: 1547
 uid: 379
 
+cids: 20797
+
 ---
 
 ![](https://publiclab.org/sites/default/files/dream water probe.png)

@@ -7,6 +7,8 @@ path: /notes/warren/05-06-2019/a-big-welcome-to-our-outreachy-gsoc-team-for-2019
 nid: 19259
 uid: 1
 
+cids: 24030,24031,24032,24034,24058,24108
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/832/original/IMG_20190118_205609_421_copy.jpg)

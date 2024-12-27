@@ -7,6 +7,8 @@ path: /notes/iragersh/11-23-2018/looking-for-recommendations-for-underwater-vide
 nid: 17740
 uid: 557258
 
+cids: 21443,25446
+
 ---
 
 # Looking for recommendations for underwater video stream to surface

@@ -7,6 +7,8 @@ path: /notes/warren/2-27-2012/555-trigger-syncrhonized-dual-cameras.md
 nid: 861
 uid: 1
 
+cids: 496,497,500,502,510,516
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 1_0.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/3-24-2012/grassroots-ndvi-time-series.md
 nid: 1541
 uid: 554
 
+cids: 5216,5217
+
 ---
 
 ![](https://publiclab.org/sites/default/files/KentuckyNDVI.jpg)

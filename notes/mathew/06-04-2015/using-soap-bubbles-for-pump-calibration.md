@@ -7,6 +7,8 @@ path: /notes/mathew/06-04-2015/using-soap-bubbles-for-pump-calibration.md
 nid: 11949
 uid: 4
 
+cids: 11879,11880,11881,11882,11883,11887,11888,11889,11890,11891,11894,11898,11899,11900,11903,11914,11923,11924,17673,17685,17716
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/202/original/IMG_20150603_145507.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/7-7-2011/introducing-grassroots-mapping-forum-printed-map-jo
 nid: 373
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/gmf_0_0.png)

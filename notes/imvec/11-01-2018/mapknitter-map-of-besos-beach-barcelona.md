@@ -7,6 +7,8 @@ path: /notes/imvec/11-01-2018/mapknitter-map-of-besos-beach-barcelona.md
 nid: 17456
 uid: 495038
 
+cids: 21081,30294
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/436/original/besos.png)

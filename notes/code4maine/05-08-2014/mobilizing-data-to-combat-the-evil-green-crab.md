@@ -7,6 +7,8 @@ path: /notes/code4maine/05-08-2014/mobilizing-data-to-combat-the-evil-green-crab
 nid: 10452
 uid: 294634
 
+cids: 8995,8996,8997,8998,8999,9000,9001,9002,9003,9004,9005,9007,9013,9014,9017,9018,9031
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/180/original/GuardYOurShores.png)

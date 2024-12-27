@@ -7,6 +7,8 @@ path: /notes/warren/4-21-2012/balloon-kite-sketches-ecohack-ii.md
 nid: 1739
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120421_141030.jpg)

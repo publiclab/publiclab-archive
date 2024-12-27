@@ -7,6 +7,8 @@ path: /notes/dgidon/02-22-2018/can-i-get-spatial-resolution-by-making-multiple-p
 nid: 15799
 uid: 525802
 
+cids: 18593,18608,22949
+
 ---
 
 # Can I get spatial resolution by making multiple parallel slits?

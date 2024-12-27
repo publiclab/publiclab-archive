@@ -7,6 +7,8 @@ path: /notes/obiol_lianna/05-20-2021/public-lab-field-trip.md
 nid: 26648
 uid: 756670
 
+cids: 
+
 ---
 
 # Public Lab field trip

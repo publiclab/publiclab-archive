@@ -7,6 +7,8 @@ path: /notes/jayden_thibodaux/04-30-2021/when-was-the-air-quality-healthy-before
 nid: 26433
 uid: 754796
 
+cids: 
+
 ---
 
 # When was the air quality healthy before Covid-19 or right will Covid is still out in the world?

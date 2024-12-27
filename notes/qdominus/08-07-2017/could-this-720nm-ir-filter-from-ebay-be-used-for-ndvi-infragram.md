@@ -7,6 +7,8 @@ path: /notes/qdominus/08-07-2017/could-this-720nm-ir-filter-from-ebay-be-used-fo
 nid: 14724
 uid: 432372
 
+cids: 22560
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/307/original/Screenshot_1.png)

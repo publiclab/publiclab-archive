@@ -7,6 +7,8 @@ path: /notes/gilbert/07-18-2017/have-you-had-any-experience-utilizing-low-cost-p
 nid: 14663
 uid: 508551
 
+cids: 17067,22535,22536
+
 ---
 
 # Have you had any experience utilizing low cost portable microscopes?  

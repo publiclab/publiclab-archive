@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/11-12-2021/the-suspicious-drain-on-the-suquia-river.
 nid: 27853
 uid: 639376
 
+cids: 29431
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/075/original/Protada_de_lac_case_of_study.jpg)

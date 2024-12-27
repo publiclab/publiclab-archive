@@ -7,6 +7,8 @@ path: /notes/liz/2-15-2013/egg-every-desk.md
 nid: 6000
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130215_102312.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/08-31-2017/is-there-a-need-for-safely-collecting-aerial-imag
 nid: 14813
 uid: 1
 
+cids: 
+
 ---
 
 # Is there a need for safely collecting aerial imagery post-Harvey?

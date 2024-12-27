@@ -7,6 +7,8 @@ path: /notes/warren/12-12-2011/fwd-four-hack-day-pics.md
 nid: 626
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/PLOTS_temp colors1_5810.jpg)

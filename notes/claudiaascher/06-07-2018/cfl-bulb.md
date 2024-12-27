@@ -7,6 +7,8 @@ path: /notes/claudiaascher/06-07-2018/cfl-bulb.md
 nid: 16449
 uid: 537341
 
+cids: 19781
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/158/original/CFL_Bulb1.png)

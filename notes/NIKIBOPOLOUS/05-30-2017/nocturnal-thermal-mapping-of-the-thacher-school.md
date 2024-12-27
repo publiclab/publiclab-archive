@@ -7,6 +7,8 @@ path: /notes/NIKIBOPOLOUS/05-30-2017/nocturnal-thermal-mapping-of-the-thacher-sc
 nid: 14245
 uid: 508250
 
+cids: 30850
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/586/original/IMG_0098.JPG)

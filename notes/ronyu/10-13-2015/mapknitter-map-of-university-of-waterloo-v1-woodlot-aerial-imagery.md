@@ -7,6 +7,8 @@ path: /notes/ronyu/10-13-2015/mapknitter-map-of-university-of-waterloo-v1-woodlo
 nid: 12296
 uid: 454267
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/946/original/IMG_0254.JPG)

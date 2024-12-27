@@ -7,6 +7,8 @@ path: /notes/jenjimah/06-02-2019/horticultural-spectrometer-assembly-ii.md
 nid: 19599
 uid: 505738
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/672/original/20190530_173730.jpg)

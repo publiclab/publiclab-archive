@@ -7,6 +7,8 @@ path: /notes/bhamster/08-19-2020/reviewing-synthesizing-microplastics-research-o
 nid: 24358
 uid: 664477
 
+cids: 27264,27278
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/567/original/Microplastics_in_sediments.jpg)

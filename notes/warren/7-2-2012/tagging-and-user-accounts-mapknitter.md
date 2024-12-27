@@ -7,6 +7,8 @@ path: /notes/warren/7-2-2012/tagging-and-user-accounts-mapknitter.md
 nid: 2694
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 7_0.png)

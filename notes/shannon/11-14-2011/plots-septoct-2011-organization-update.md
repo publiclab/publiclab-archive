@@ -7,6 +7,8 @@ path: /notes/shannon/11-14-2011/plots-septoct-2011-organization-update.md
 nid: 560
 uid: 9
 
+cids: 
+
 ---
 
 # PLOTS Sept/Oct 2011 organization update

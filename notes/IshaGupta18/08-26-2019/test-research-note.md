@@ -7,6 +7,8 @@ path: /notes/IshaGupta18/08-26-2019/test-research-note.md
 nid: 20669
 uid: 568043
 
+cids: 25523
+
 ---
 
 # Test Research Note

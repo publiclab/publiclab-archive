@@ -7,6 +7,8 @@ path: /notes/nshapiro/11-22-2017/who-can-i-reach-out-to-for-community-science-ap
 nid: 15227
 uid: 380298
 
+cids: 17765,22753
+
 ---
 
 # Who can I reach out to for community science app UI help? 

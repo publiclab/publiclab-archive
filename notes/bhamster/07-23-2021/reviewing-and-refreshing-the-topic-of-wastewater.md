@@ -7,6 +7,8 @@ path: /notes/bhamster/07-23-2021/reviewing-and-refreshing-the-topic-of-wastewate
 nid: 27265
 uid: 664477
 
+cids: 29057
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/470/original/Wastewater_effluent_copy.jpg)

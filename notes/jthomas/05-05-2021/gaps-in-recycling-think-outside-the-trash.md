@@ -7,6 +7,8 @@ path: /notes/jthomas/05-05-2021/gaps-in-recycling-think-outside-the-trash.md
 nid: 26502
 uid: 752053
 
+cids: 28802
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/680/original/rec.png)

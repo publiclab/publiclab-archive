@@ -7,6 +7,8 @@ path: /notes/warren/2-5-2012/android-phone-hacked-radiation-detector.md
 nid: 750
 uid: 1
 
+cids: 10580
+
 ---
 
 ![](https://publiclab.org/sites/default/files/geiger.gif)

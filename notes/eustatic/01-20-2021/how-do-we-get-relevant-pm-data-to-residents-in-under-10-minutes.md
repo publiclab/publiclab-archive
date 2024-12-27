@@ -7,6 +7,8 @@ path: /01-20-2021/how-do-we-get-relevant-pm-data-to-residents-in-under-10-minute
 nid: 25501
 uid: 379
 
+cids: 27998,28003,28007,28024,28070,28824,28825,28827,29464
+
 ---
 
 # How do we get relevant PM data to residents in under 10 minutes?

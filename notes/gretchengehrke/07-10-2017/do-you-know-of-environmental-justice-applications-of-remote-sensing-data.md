@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-10-2017/do-you-know-of-environmental-justice-appl
 nid: 14640
 uid: 430549
 
+cids: 22621,23184
+
 ---
 
 # Do you know of environmental justice applications of remote sensing data?

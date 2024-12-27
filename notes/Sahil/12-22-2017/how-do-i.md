@@ -7,6 +7,8 @@ path: /notes/Sahil/12-22-2017/how-do-i.md
 nid: 15423
 uid: 520720
 
+cids: 
+
 ---
 
 # How do I...

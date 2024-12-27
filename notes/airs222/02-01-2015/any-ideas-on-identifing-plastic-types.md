@@ -7,6 +7,8 @@ path: /notes/airs222/02-01-2015/any-ideas-on-identifing-plastic-types.md
 nid: 11547
 uid: 434644
 
+cids: 11121,11168
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/766/original/logoairs.jpg)

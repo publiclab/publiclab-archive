@@ -7,6 +7,8 @@ path: /notes/gilbert/08-23-2017/mapping-workshop-at-docville-farm-in-violet-la-s
 nid: 14785
 uid: 508551
 
+cids: 17217
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/402/original/0819171116a.jpg)

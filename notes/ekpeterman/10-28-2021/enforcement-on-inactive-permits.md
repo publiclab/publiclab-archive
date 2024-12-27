@@ -7,6 +7,8 @@ path: /notes/ekpeterman/10-28-2021/enforcement-on-inactive-permits.md
 nid: 27972
 uid: 641166
 
+cids: 29422,29423,29424
+
 ---
 
 # Enforcement on inactive permits?

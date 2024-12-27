@@ -7,6 +7,8 @@ path: /notes/TheChessGym/04-05-2022/environmental-science-climate-change-poster-
 nid: 30259
 uid: 788868
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/624/original/ddr7eyk-2bf5dbb5-2425-4a04-8dc2-1b0207f3eb36.jpg)

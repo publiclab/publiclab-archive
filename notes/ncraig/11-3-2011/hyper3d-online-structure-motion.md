@@ -7,6 +7,8 @@ path: /notes/ncraig/11-3-2011/hyper3d-online-structure-motion.md
 nid: 540
 uid: 15
 
+cids: 339
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1384.JPG)

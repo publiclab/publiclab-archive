@@ -7,6 +7,8 @@ path: /notes/techlearningcollective/08-03-2019/tech-learning-as-radical-queer-fe
 nid: 20403
 uid: 608717
 
+cids: 25193,25198,25204,25207,25216
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/295/original/tlc-banner.jpg)

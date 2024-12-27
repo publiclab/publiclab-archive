@@ -7,6 +7,8 @@ path: /notes/stevie/08-24-2021/what-are-air-quality-indicators-you-should-watch-
 nid: 27619
 uid: 422561
 
+cids: 29217,29218,29223
+
 ---
 
 # What are air quality indicators you should watch for around a landfill that indicate you should take a grab sample?

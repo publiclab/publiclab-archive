@@ -7,6 +7,8 @@ path: /notes/GSan/10-08-2015/medicoes-do-urbano-cidade-eletronika-2015.md
 nid: 12282
 uid: 426547
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/879/original/2982098316_29a02a9b5f_z.jpg)

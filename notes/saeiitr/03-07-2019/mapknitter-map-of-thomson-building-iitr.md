@@ -7,6 +7,8 @@ path: /notes/saeiitr/03-07-2019/mapknitter-map-of-thomson-building-iitr.md
 nid: 18489
 uid: 577444
 
+cids: 22092
+
 ---
 
 # MapKnitter map of Thomson Building IITR

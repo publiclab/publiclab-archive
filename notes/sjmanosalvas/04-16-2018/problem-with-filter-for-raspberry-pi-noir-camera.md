@@ -7,6 +7,8 @@ path: /notes/sjmanosalvas/04-16-2018/problem-with-filter-for-raspberry-pi-noir-c
 nid: 16161
 uid: 523668
 
+cids: 19429
+
 ---
 
 # Problem with filter for Raspberry Pi NoIR Camera

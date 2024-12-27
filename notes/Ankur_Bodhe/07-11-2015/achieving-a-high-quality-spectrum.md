@@ -7,6 +7,8 @@ path: /notes/Ankur_Bodhe/07-11-2015/achieving-a-high-quality-spectrum.md
 nid: 12048
 uid: 444365
 
+cids: 12150,12176,12186
+
 ---
 
 # Achieving a high quality spectrum

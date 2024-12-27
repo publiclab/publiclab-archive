@@ -7,6 +7,8 @@ path: /notes/warren/12-06-2017/help-collect-environmental-sensors-probes-on-a-sh
 nid: 15319
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/823/original/Screenshot_2017-12-06_at_10.55.44_AM.png)

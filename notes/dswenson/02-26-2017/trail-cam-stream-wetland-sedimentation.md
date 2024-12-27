@@ -7,6 +7,8 @@ path: /notes/dswenson/02-26-2017/trail-cam-stream-wetland-sedimentation.md
 nid: 13964
 uid: 501635
 
+cids: 16242,16247,16254,16271,16278,16627,16631,16632,16633,16657
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/654/original/IMAG0003.JPG)

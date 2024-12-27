@@ -7,6 +7,8 @@ path: /notes/vjpixel/07-31-2014/rede-infoamazonia.md
 nid: 11000
 uid: 420617
 
+cids: 9844,9958,9993,10222,10246,12418,13150,16598,16600
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/219/original/Prototipo_foto_Miguel_Peixe.jpg)

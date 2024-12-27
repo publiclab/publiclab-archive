@@ -7,6 +7,8 @@ path: /notes/mathew/2-1-2013/kite-wind-speed-meter-anemometer-patents-0.md
 nid: 5837
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2013-01-31 at 9.08.22 PM.png)

@@ -7,6 +7,8 @@ path: /notes/sagarpreet/03-09-2019/gsoc-proposal-lel-2-0-and-work-on-leaflet-blu
 nid: 18500
 uid: 516343
 
+cids: 22108,22134,22165,22171,22176,22184,22206,23645,23681,23718,23798
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/110/original/LEL1.0.png)

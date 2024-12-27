@@ -7,6 +7,8 @@ path: /notes/bhamster/10-20-2020/research-area-review-on-air-quality.md
 nid: 24777
 uid: 664477
 
+cids: 27498,27623,27651
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/179/original/industrial_pollution1.jpg)

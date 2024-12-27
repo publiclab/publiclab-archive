@@ -7,6 +7,8 @@ path: /notes/hudonnoodles/3-11-2013/toxic-actions-conference-northeastern-univer
 nid: 6293
 uid: 102
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5324.JPG)

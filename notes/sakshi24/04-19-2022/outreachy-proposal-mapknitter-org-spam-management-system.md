@@ -7,6 +7,8 @@ path: /notes/sakshi24/04-19-2022/outreachy-proposal-mapknitter-org-spam-manageme
 nid: 30512
 uid: 781808
 
+cids: 30089,30120,30139
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/213/original/2560px-Outreachy-logo.svg.png)

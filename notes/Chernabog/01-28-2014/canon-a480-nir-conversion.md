@@ -7,6 +7,8 @@ path: /notes/Chernabog/01-28-2014/canon-a480-nir-conversion.md
 nid: 9985
 uid: 319651
 
+cids: 8093,8097,8099,8126,8128,19811,19812
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/678/original/A480_NIR_Conversion.JPG)

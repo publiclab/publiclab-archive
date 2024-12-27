@@ -7,6 +7,8 @@ path: /notes/warren/01-14-2015/2015-web-working-group-report.md
 nid: 11521
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/603/original/contribs.png)

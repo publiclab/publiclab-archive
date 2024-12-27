@@ -7,6 +7,8 @@ path: /notes/warren/08-15-2013/steampunk-spectrometer-photos.md
 nid: 9015
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/154/original/IMG_0016.JPG)

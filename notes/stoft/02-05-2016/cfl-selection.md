@@ -7,6 +7,8 @@ path: /notes/stoft/02-05-2016/cfl-selection.md
 nid: 12658
 uid: 54025
 
+cids: 13478,13481,13492,25867
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/082/original/CFL-COMPARE.gif)

@@ -7,6 +7,8 @@ path: /notes/zomb23/11-15-2019/feasibility-check-ndvi-analysis-of-moss.md
 nid: 21496
 uid: 638054
 
+cids: 25861,25873,25945
+
 ---
 
 # Feasibility-check: NDVI analysis of moss

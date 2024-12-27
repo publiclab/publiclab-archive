@@ -7,6 +7,8 @@ path: /notes/ninalang/02-18-2016/mapknitter-map-of-chouteau-s-landing-flight.md
 nid: 12706
 uid: 465986
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/377/original/IMG_2394.JPG)

@@ -7,6 +7,8 @@ path: /notes/nshapiro/05-06-2015/field-test-of-diy-testing-and-remediation-kit.m
 nid: 11791
 uid: 380298
 
+cids: 11605,11606,11625,11679,11691
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/818/original/Photo_Apr_10__3_09_44_PM.jpg)

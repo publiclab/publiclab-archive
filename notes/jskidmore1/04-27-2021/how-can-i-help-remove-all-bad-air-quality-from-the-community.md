@@ -7,6 +7,8 @@ path: /notes/jskidmore1/04-27-2021/how-can-i-help-remove-all-bad-air-quality-fro
 nid: 26370
 uid: 754377
 
+cids: 
+
 ---
 
 # How can I help remove all bad air quality from the community

@@ -7,6 +7,8 @@ path: /notes/warren/9-18-2012/spectral-workbench-updates-profile-page-fix-sample
 nid: 3864
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-09-18 at 8.38.14 AM.png)

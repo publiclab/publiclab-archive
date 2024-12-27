@@ -7,6 +7,8 @@ path: /notes/warren/11-14-2017/how-can-we-reduce-visual-clutter-on-the-sidebar-o
 nid: 15185
 uid: 1
 
+cids: 17683,17691,17692,22718
+
 ---
 
 # How can we reduce visual clutter on the sidebar of PublicLab.org?

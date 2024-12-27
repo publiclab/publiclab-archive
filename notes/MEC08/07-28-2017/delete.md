@@ -7,6 +7,8 @@ path: /notes/MEC08/07-28-2017/delete.md
 nid: 14695
 uid: 504231
 
+cids: 17114
+
 ---
 
 # Delete my profile?

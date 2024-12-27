@@ -7,6 +7,8 @@ path: /notes/mathew/11-2-2012/barnraising-k-12-curriculum.md
 nid: 4755
 uid: 4
 
+cids: 28326
+
 ---
 
 # Barnraising: K-12 curriculum

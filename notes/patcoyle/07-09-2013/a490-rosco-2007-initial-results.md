@@ -7,6 +7,8 @@ path: /notes/patcoyle/07-09-2013/a490-rosco-2007-initial-results.md
 nid: 8785
 uid: 77
 
+cids: 6570
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/696/original/IMG_3387.JPG)

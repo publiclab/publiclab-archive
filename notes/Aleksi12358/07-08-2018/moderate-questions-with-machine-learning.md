@@ -7,6 +7,8 @@ path: /notes/Aleksi12358/07-08-2018/moderate-questions-with-machine-learning.md
 nid: 16662
 uid: 540470
 
+cids: 20037,20069,23171
+
 ---
 
 # Moderate questions with machine learning.

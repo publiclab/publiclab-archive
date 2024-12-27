@@ -7,6 +7,8 @@ path: /notes/derekhoeferlin/05-09-2016/public-lab-river-rat-pack-st-louis-exhibi
 nid: 13093
 uid: 461337
 
+cids: 14574,14703,14704,14729
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/048/original/IMG_0349.JPG)

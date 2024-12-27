@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-22-2016/special-scan-sweet-wyoming-crude-oil-2d-eem-a
 nid: 13378
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/719/original/special_sample_scan_crude_oil_new_slit_011_aug_21_polarized.png)

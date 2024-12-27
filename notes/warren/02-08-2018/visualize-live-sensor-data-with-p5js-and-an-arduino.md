@@ -7,6 +7,8 @@ path: /notes/warren/02-08-2018/visualize-live-sensor-data-with-p5js-and-an-ardui
 nid: 15701
 uid: 1
 
+cids: 18387,18444,18450,18460,18650,19679,19680,21001,25359,25360
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/509/original/IMG_20180207_135242.jpg)

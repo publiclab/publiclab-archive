@@ -7,6 +7,8 @@ path: /notes/a1ahna/11-13-2017/local-perspectives-at-barnraising-2017.md
 nid: 15179
 uid: 518193
 
+cids: 17682,17699
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/411/original/20171103_091249.jpg)

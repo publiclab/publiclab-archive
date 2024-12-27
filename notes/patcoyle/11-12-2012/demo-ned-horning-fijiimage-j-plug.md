@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-12-2012/demo-ned-horning-fijiimage-j-plug.md
 nid: 4868
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Untitled 3_0.jpg)

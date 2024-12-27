@@ -7,6 +7,8 @@ path: /notes/DonMorrisonMaps/03-24-2016/mapknitter-map-of-black-run-preserve-was
 nid: 12885
 uid: 468995
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/206/original/March24StitchCrop.jpg)

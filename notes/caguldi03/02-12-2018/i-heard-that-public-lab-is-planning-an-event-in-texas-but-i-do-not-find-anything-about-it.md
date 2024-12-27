@@ -7,6 +7,8 @@ path: /notes/caguldi03/02-12-2018/i-heard-that-public-lab-is-planning-an-event-i
 nid: 15721
 uid: 524947
 
+cids: 18421,18422
+
 ---
 
 # I heard that Public Lab is planning an event in Texas, but I do not find anything about it.

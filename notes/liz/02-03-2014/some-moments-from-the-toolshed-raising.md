@@ -7,6 +7,8 @@ path: /notes/liz/02-03-2014/some-moments-from-the-toolshed-raising.md
 nid: 10005
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/761/original/IMG_1850.JPG)

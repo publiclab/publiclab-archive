@@ -7,6 +7,8 @@ path: /notes/gonzoearth/11-25-2011/occupy-wall-street-livestream-uses-consumer-e
 nid: 583
 uid: 12
 
+cids: 
+
 ---
 
 # Occupy Wall Street livestream uses consumer electronics for worldwide impact

@@ -7,6 +7,8 @@ path: /notes/cfastie/07-12-2015/earth-and-sky.md
 nid: 12052
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/644/original/Camp_012_2k.jpg)

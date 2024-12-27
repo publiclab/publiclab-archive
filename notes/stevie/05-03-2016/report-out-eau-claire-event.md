@@ -7,6 +7,8 @@ path: /notes/stevie/05-03-2016/report-out-eau-claire-event.md
 nid: 13067
 uid: 422561
 
+cids: 14569
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/916/original/20160423_130646_%281%29.jpg)

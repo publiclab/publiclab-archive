@@ -7,6 +7,8 @@ path: /notes/lukoyedith/04-13-2021/what-do-i-do-with-microplastics-after-being-c
 nid: 26221
 uid: 751723
 
+cids: 28576,28577
+
 ---
 
 # What do I do with microplastics after being collected?

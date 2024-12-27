@@ -7,6 +7,8 @@ path: /10-24-2014/mapping-the-nature-center.md
 nid: 11298
 uid: 379
 
+cids: 10610,10611,10615,10810,10825
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/617/original/nature-center-infrag_old.jpg)

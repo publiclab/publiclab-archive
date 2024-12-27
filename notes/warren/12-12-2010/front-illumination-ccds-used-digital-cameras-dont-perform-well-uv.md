@@ -7,6 +7,8 @@ path: /notes/warren/12-12-2010/front-illumination-ccds-used-digital-cameras-dont
 nid: 28
 uid: 1
 
+cids: 12634,12688,12689,12692,12693,12724,12727,12735,12738,12874,12885,12892,12893,29037
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2010-12-12 at 7.48.45 PM.png)

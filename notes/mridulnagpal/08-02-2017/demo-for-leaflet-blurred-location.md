@@ -7,6 +7,8 @@ path: /notes/mridulnagpal/08-02-2017/demo-for-leaflet-blurred-location.md
 nid: 14705
 uid: 497953
 
+cids: 17139,17149,17150,17151,17154,17164,17167,17169,17171
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/255/original/Screenshot_from_2017-08-02_08-34-30.png)

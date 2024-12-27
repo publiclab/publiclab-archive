@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/09-06-2016/cfl-and-led-bulb-study-section-iii.md
 nid: 13423
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/932/original/TITLE_PIC.png)

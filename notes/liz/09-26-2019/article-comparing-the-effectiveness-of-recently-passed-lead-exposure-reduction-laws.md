@@ -7,6 +7,8 @@ path: /notes/liz/09-26-2019/article-comparing-the-effectiveness-of-recently-pass
 nid: 20998
 uid: 7
 
+cids: 26185,26735
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/453/original/Screen_Shot_2019-09-26_at_12.59.01_PM.png)

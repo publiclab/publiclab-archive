@@ -7,6 +7,8 @@ path: /notes/aviceda/10-03-2020/legalities-of-map-knitting-in-australia.md
 nid: 24692
 uid: 420276
 
+cids: 27453,27454
+
 ---
 
 # Legalities of 'map-knitting' in Australia

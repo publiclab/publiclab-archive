@@ -7,6 +7,8 @@ path: /notes/stevie/06-24-2019/can-kelp-act-as-a-bioremediator.md
 nid: 19841
 uid: 422561
 
+cids: 24985
+
 ---
 
 # Can kelp act as a bioremediator? 

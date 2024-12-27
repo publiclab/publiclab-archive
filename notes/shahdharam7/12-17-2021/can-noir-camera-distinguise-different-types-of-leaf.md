@@ -7,6 +7,8 @@ path: /notes/shahdharam7/12-17-2021/can-noir-camera-distinguise-different-types-
 nid: 28501
 uid: 772303
 
+cids: 29543,29546,29548
+
 ---
 
 # Can NOIR camera distinguise different types of leaf?

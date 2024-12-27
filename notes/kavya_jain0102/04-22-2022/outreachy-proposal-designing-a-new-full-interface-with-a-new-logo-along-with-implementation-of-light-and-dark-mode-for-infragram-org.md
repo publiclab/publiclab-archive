@@ -7,6 +7,8 @@ path: /notes/kavya_jain0102/04-22-2022/outreachy-proposal-designing-a-new-full-i
 nid: 30579
 uid: 796079
 
+cids: 30130
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/427/original/Designing_a_New_Full_Interface_with_a_New_Logo_along_with_Implementation_of_Light_and_Dark_Mode_for_Infragram.org.png)

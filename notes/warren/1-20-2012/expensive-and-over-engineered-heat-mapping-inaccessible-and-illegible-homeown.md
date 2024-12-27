@@ -7,6 +7,8 @@ path: /notes/warren/1-20-2012/expensive-and-over-engineered-heat-mapping-inacces
 nid: 715
 uid: 1
 
+cids: 412
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Building_thermal_imaging.jpg)

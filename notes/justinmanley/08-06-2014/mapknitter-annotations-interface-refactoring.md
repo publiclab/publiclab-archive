@@ -7,6 +7,8 @@ path: /notes/justinmanley/08-06-2014/mapknitter-annotations-interface-refactorin
 nid: 11019
 uid: 421556
 
+cids: 9789,9791,9805,9806,9807,9812,9814,9816,9818,9820,9821,9822,9823,9824,9826,9828,9834,9836,9838,9839,10011,10013,10023
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/101/original/note1.png)

@@ -7,6 +7,8 @@ path: /notes/justinmanley/07-14-2014/mapknitter-annotations-leaflet-illustrate-e
 nid: 10686
 uid: 421556
 
+cids: 9493,9498
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/260/original/chicagooooo.png)

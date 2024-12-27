@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/08-23-2017/methods-for-or-experience-measuring-workp
 nid: 14786
 uid: 430549
 
+cids: 17218,22566
+
 ---
 
 # Methods for or experience measuring workplace hydrogen sulfide gas?

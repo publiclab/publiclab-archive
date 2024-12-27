@@ -7,6 +7,8 @@ path: /04-01-2022/has-anyone-tried-establishing-battery-backups-for-purple-air.m
 nid: 30244
 uid: 379
 
+cids: 29903
+
 ---
 
 # Has anyone tried establishing battery backups for Purple Air?

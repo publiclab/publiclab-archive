@@ -7,6 +7,8 @@ path: /notes/cfastie/5-31-2012/3d-model-meshlab.md
 nid: 2275
 uid: 554
 
+cids: 806,807,809,811,817,821,823,905
+
 ---
 
 ![](https://publiclab.org/sites/default/files/LeeLow00.jpg)

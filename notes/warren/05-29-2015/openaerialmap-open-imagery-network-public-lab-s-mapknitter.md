@@ -7,6 +7,8 @@ path: /notes/warren/05-29-2015/openaerialmap-open-imagery-network-public-lab-s-m
 nid: 11893
 uid: 1
 
+cids: 11807
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/089/original/Screen_Shot_2015-05-29_at_10.42.24_AM.png)

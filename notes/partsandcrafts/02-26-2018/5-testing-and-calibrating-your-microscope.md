@@ -7,6 +7,8 @@ path: /notes/partsandcrafts/02-26-2018/5-testing-and-calibrating-your-microscope
 nid: 15818
 uid: 66014
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/723/original/image10.jpg)

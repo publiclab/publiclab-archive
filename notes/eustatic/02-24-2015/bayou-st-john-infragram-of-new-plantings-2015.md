@@ -7,6 +7,8 @@ path: /02-24-2015/bayou-st-john-infragram-of-new-plantings-2015.md
 nid: 11634
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/074/original/a_IMAG0880_bsj_34.jpg)

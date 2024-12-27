@@ -7,6 +7,8 @@ path: /notes/5-11-2012/river-point-golf-course.md
 nid: 2090
 uid: 0
 
+cids: 
+
 ---
 
 # river-point-golf-course

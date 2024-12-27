@@ -7,6 +7,8 @@ path: /notes/bhamster/09-29-2020/summary-public-lab-s-microplastics-research-are
 nid: 24675
 uid: 664477
 
+cids: 27428,27472,27868,27880
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/016/original/Microplastics_5Gyres.jpg)

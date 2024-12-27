@@ -7,6 +7,8 @@ path: /notes/pzgeorjane/11-02-2021/outreachy-proposal-rebuilding-spectral-workbe
 nid: 28042
 uid: 775513
 
+cids: 29388,29393,29400
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/020/original/DIY.jpg)

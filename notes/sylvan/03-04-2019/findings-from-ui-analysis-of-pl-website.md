@@ -7,6 +7,8 @@ path: /notes/sylvan/03-04-2019/findings-from-ui-analysis-of-pl-website.md
 nid: 18467
 uid: 540012
 
+cids: 22039
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/739/original/Capture.PNG)

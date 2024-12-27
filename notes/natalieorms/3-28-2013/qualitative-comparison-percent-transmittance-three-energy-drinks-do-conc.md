@@ -7,6 +7,8 @@ path: /notes/natalieorms/3-28-2013/qualitative-comparison-percent-transmittance-
 nid: 6589
 uid: 50193
 
+cids: 4272,4424,4431,4680,4693
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Energy Drink Photo.jpg)

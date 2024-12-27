@@ -7,6 +7,8 @@ path: /notes/kgradow1/07-29-2020/how-a-compression-coupling-works.md
 nid: 24232
 uid: 297929
 
+cids: 27210
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/311/original/Screen_Shot_2020-07-29_at_9.22.57_AM.png)

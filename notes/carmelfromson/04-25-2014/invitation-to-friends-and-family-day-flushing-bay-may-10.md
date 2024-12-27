@@ -7,6 +7,8 @@ path: /notes/carmelfromson/04-25-2014/invitation-to-friends-and-family-day-flush
 nid: 10366
 uid: 422680
 
+cids: 8885,8887,8888,8912,8946,8948
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/864/original/Friends_and_family_day_FLYER_%28revised%292014.pdf)

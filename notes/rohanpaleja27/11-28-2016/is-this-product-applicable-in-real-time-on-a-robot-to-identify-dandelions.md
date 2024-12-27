@@ -7,6 +7,8 @@ path: /notes/rohanpaleja27/11-28-2016/is-this-product-applicable-in-real-time-on
 nid: 13729
 uid: 498340
 
+cids: 15888,15890,22352,22354
+
 ---
 
 # Is this product applicable in real-time on a robot to identify dandelions?

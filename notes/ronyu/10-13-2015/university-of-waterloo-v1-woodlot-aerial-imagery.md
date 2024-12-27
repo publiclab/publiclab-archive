@@ -7,6 +7,8 @@ path: /notes/ronyu/10-13-2015/university-of-waterloo-v1-woodlot-aerial-imagery.m
 nid: 12295
 uid: 454267
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/943/original/university-of-waterloo-v1-aerial-imagery_%281%29.jpg)

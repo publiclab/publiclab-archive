@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-04-2020/art-in-ruins-50-aleppo-street.md
 nid: 23027
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (50 Promenade Street)

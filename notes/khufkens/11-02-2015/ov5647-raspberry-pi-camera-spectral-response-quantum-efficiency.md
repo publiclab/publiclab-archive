@@ -7,6 +7,8 @@ path: /notes/khufkens/11-02-2015/ov5647-raspberry-pi-camera-spectral-response-qu
 nid: 12354
 uid: 438931
 
+cids: 12804,12811,12859,12861
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/322/original/OV5647_QE.png)

@@ -7,6 +7,8 @@ path: /notes/Natalie/02-18-2015/diy-camera-mount-for-pole-mapping.md
 nid: 11597
 uid: 424454
 
+cids: 11182,11193
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/002/original/IMG_1127.JPG)

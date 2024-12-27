@@ -7,6 +7,8 @@ path: /notes/gccummings25/10-12-2019/ethylene-oxide-testing-covington-and-smyrna
 nid: 21149
 uid: 622597
 
+cids: 25679,25695
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/683/original/newsEngin.24611199_082019-Sterigenics-CC10.jpg)

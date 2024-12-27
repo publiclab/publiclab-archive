@@ -7,6 +7,8 @@ path: /notes/Lalithr95/05-08-2016/mapknitter-map-of-test.md
 nid: 13090
 uid: 468698
 
+cids: 
+
 ---
 
 # MapKnitter map of TEST

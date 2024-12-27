@@ -7,6 +7,8 @@ path: /notes/cfastie/03-04-2014/3d-printed-mapping-rigs.md
 nid: 10101
 uid: 554
 
+cids: 8420,8422,8423,8425
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/118/original/Rigs-345-3a.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/12-06-2017/help-document-how-to-connect-different-sensors-to
 nid: 15320
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/824/original/Screenshot_2017-12-06_at_11.04.57_AM.png)

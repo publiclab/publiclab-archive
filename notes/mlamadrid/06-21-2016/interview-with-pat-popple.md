@@ -7,6 +7,8 @@ path: /notes/mlamadrid/06-21-2016/interview-with-pat-popple.md
 nid: 13219
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/698/original/Wisconsin_watch_10_26_15_PG1_9_20x_copy.jpg)

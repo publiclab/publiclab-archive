@@ -7,6 +7,8 @@ path: /notes/zjniu/11-06-2015/mapknitter-map-of-zijian-niu-geo187.md
 nid: 12377
 uid: 454553
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/514/original/IMG_0197.JPG)

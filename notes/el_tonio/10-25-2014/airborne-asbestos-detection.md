@@ -7,6 +7,8 @@ path: /notes/el_tonio/10-25-2014/airborne-asbestos-detection.md
 nid: 11300
 uid: 429873
 
+cids: 10621,10622,10624,10637,10642,10644,12542
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/628/original/WIN_20141025_150907.JPG)

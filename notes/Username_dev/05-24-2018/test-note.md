@@ -7,6 +7,8 @@ path: /notes/Username_dev/05-24-2018/test-note.md
 nid: 16389
 uid: 534514
 
+cids: 
+
 ---
 
 # Test Note

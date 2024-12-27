@@ -7,6 +7,8 @@ path: /notes/abdul/10-19-2016/foldable-paper-spectrometer-instructions.md
 nid: 13577
 uid: 479194
 
+cids: 16003,17560
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/428/original/Foldable_Main.jpg)

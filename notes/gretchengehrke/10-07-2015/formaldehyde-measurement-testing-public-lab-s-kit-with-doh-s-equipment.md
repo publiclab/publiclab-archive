@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/10-07-2015/formaldehyde-measurement-testing-public-l
 nid: 12278
 uid: 430549
 
+cids: 12672,12673,12675,12678,12680,12681,12690,12702,12754,12755,15415
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/850/original/Formaldehyde_Kit_Sept2015.jpeg)

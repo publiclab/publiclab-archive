@@ -7,6 +7,8 @@ path: /notes/shannon/5-15-2012/fwd-nolacom-louisiana-coastal-erosion-being-asses
 nid: 1989
 uid: 9
 
+cids: 
+
 ---
 
 # NOLA.com : Louisiana coastal erosion being assessed with drones

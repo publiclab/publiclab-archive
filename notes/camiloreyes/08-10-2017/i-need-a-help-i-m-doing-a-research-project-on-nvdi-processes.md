@@ -7,6 +7,8 @@ path: /notes/camiloreyes/08-10-2017/i-need-a-help-i-m-doing-a-research-project-o
 nid: 14728
 uid: 512400
 
+cids: 17353
+
 ---
 
 # I need a help I'm doing a research project on NVDI processes

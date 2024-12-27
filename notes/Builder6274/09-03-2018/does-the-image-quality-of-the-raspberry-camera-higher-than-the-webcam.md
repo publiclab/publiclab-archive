@@ -7,6 +7,8 @@ path: /notes/Builder6274/09-03-2018/does-the-image-quality-of-the-raspberry-came
 nid: 17043
 uid: 549240
 
+cids: 
+
 ---
 
 # Does the image quality of the raspberry camera higher than the webcam?

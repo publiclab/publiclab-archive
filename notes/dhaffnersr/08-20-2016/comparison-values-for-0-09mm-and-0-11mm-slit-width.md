@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-20-2016/comparison-values-for-0-09mm-and-0-11mm-slit-
 nid: 13376
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/711/original/percentage_error_formula.png)

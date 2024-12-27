@@ -7,6 +7,8 @@ path: /notes/lilybui/10-28-2014/certification-of-open-sensors.md
 nid: 11305
 uid: 420662
 
+cids: 10655
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/657/original/Screen_Shot_2014-10-28_at_12.27.49_PM.png)

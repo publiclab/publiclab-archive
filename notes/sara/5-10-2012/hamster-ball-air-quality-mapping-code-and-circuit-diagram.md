@@ -7,6 +7,8 @@ path: /notes/sara/5-10-2012/hamster-ball-air-quality-mapping-code-and-circuit-di
 nid: 1945
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/HamsterBallCircuitDiagram.png)

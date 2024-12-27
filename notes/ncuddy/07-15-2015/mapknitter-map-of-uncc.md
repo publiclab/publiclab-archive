@@ -7,6 +7,8 @@ path: /notes/ncuddy/07-15-2015/mapknitter-map-of-uncc.md
 nid: 12070
 uid: 445528
 
+cids: 12212
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/696/original/1.JPG)

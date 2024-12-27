@@ -7,6 +7,8 @@ path: /07-29-2014/louisiana-master-naturalist-map-fo-elmer-s-island-spr-2014.md
 nid: 10995
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/653/original/a_IMG_9404.JPG)

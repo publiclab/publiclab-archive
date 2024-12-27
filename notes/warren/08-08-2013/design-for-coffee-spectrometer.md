@@ -7,6 +7,8 @@ path: /notes/warren/08-08-2013/design-for-coffee-spectrometer.md
 nid: 8981
 uid: 1
 
+cids: 6634,6822,8292,14035
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/063/original/Screen_Shot_2013-08-08_at_10.48.39_AM.png)

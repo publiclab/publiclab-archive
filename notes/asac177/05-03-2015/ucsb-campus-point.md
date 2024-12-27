@@ -7,6 +7,8 @@ path: /notes/asac177/05-03-2015/ucsb-campus-point.md
 nid: 11781
 uid: 440398
 
+cids: 11678,11681
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/743/original/IMG_1212.JPG)

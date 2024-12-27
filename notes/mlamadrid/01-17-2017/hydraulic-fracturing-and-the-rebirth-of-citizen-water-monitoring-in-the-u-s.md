@@ -7,6 +7,8 @@ path: /notes/mlamadrid/01-17-2017/hydraulic-fracturing-and-the-rebirth-of-citize
 nid: 13857
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/293/original/A_volunteer_monitors_water_at_a_leachate_treatment_plant_out_ow_pipe_in_New_York_State.jpg)

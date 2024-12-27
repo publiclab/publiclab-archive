@@ -7,6 +7,8 @@ path: /notes/neilhendrick/06-11-2015/thermal-fishing-bob-temperature-measurement
 nid: 11974
 uid: 421122
 
+cids: 11949,11950,11951,11952,11964
+
 ---
 
 # Thermal Fishing Bob Temperature Measurement Speed

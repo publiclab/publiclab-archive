@@ -7,6 +7,8 @@ path: /notes/stevie/07-21-2015/dust-in-the-wind-how-data-visualization-can-help-
 nid: 12085
 uid: 422561
 
+cids: 12279
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/746/original/dustduino_proto_2_desk.jpg)

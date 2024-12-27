@@ -7,6 +7,8 @@ path: /notes/patcoyle/03-17-2015/dji-uav-with-gimp-correction-of-fisheye-effect.
 nid: 11684
 uid: 77
 
+cids: 11338,11341,11343
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/284/original/both_w_DJI_frm_ppt.jpg)

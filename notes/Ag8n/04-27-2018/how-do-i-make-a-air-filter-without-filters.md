@@ -7,6 +7,8 @@ path: /notes/Ag8n/04-27-2018/how-do-i-make-a-air-filter-without-filters.md
 nid: 16261
 uid: 520994
 
+cids: 20176
+
 ---
 
 # How do I make a air filter without filters?

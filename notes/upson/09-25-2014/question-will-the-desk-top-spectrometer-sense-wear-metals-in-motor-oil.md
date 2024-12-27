@@ -7,6 +7,8 @@ path: /notes/upson/09-25-2014/question-will-the-desk-top-spectrometer-sense-wear
 nid: 11185
 uid: 428933
 
+cids: 10438
+
 ---
 
 # Question: Will the desk top spectrometer sense wear metals in motor oil?

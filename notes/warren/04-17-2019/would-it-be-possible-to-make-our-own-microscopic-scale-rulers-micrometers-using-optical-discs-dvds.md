@@ -7,6 +7,8 @@ path: /notes/warren/04-17-2019/would-it-be-possible-to-make-our-own-microscopic-
 nid: 19091
 uid: 1
 
+cids: 23924,23925,23926,23927,23928,23933
+
 ---
 
 # Would it be possible to make our own microscopic scale rulers (micrometers) using optical discs (DVDs?)

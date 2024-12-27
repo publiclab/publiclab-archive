@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/10-31-2015/oil-testing-kit-beta-programme-calibration
 nid: 12349
 uid: 1083
 
+cids: 12805,12806,12856,12857,13072,13082
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/288/original/Spectral_workbench_calibration_success.png)

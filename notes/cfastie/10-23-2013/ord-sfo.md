@@ -7,6 +7,8 @@ path: /notes/cfastie/10-23-2013/ord-sfo.md
 nid: 9540
 uid: 554
 
+cids: 7336,7337,7409
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/024/original/ORD_SFO_NBG.jpg)

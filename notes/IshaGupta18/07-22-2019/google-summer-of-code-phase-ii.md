@@ -7,6 +7,8 @@ path: /notes/IshaGupta18/07-22-2019/google-summer-of-code-phase-ii.md
 nid: 20248
 uid: 568043
 
+cids: 25092
+
 ---
 
 # Google Summer of Code: Phase II

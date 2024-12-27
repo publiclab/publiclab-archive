@@ -7,6 +7,8 @@ path: /notes/adam-griffith/5-14-2013/folly-beach-sc-detailed-look-3-million-beac
 nid: 7552
 uid: 3
 
+cids: 4713,4725,4762,4788,4795,4796,5441
+
 ---
 
 ![](https://publiclab.org/sites/default/files/project map crop_0.jpg)

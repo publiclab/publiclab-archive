@@ -7,6 +7,8 @@ path: /notes/section1bp/05-30-2017/all-the-shingle-ladies.md
 nid: 14241
 uid: 506910
 
+cids: 16909
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/578/original/IMG_0566.JPG)

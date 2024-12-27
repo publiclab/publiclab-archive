@@ -7,6 +7,8 @@ path: /notes/bronwen/11-03-2013/attempted-kite-mapping-at-dead-horse-bay.md
 nid: 9722
 uid: 237313
 
+cids: 7494
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/110/original/IMG_0590.JPG)

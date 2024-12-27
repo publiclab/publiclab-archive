@@ -7,6 +7,8 @@ path: /notes/mehaky/02-22-2015/a-critical-look-at-sensor-journalism-could-it-cha
 nid: 11612
 uid: 435583
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/033/original/5249766381_3cb6d0e2bb_o.jpg)

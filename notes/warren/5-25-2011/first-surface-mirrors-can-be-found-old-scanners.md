@@ -7,6 +7,8 @@ path: /notes/warren/5-25-2011/first-surface-mirrors-can-be-found-old-scanners.md
 nid: 299
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20110524_173232.jpg)

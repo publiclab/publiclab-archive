@@ -7,6 +7,8 @@ path: /notes/bsugar/07-18-2014/a-catalogue-of-civic-open-source-hardware-project
 nid: 10708
 uid: 217812
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/398/original/200px-Ohw-logo.svg.png)

@@ -7,6 +7,8 @@ path: /notes/tonyc/07-07-2016/design-specifications-for-field-camera.md
 nid: 13266
 uid: 447491
 
+cids: 14954
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/895/original/IMG_4015.JPG)

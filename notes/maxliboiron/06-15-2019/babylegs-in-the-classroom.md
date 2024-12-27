@@ -7,6 +7,8 @@ path: /notes/maxliboiron/06-15-2019/babylegs-in-the-classroom.md
 nid: 19712
 uid: 310707
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/950/original/22815200_10155854722358166_5337679495054471240_n_copy.jpg)

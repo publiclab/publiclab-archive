@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/10-12-2016/how-do-you-change-a-research-note-into-a-qu
 nid: 13552
 uid: 459085
 
+cids: 15613,15614,15615,15624,22329
+
 ---
 
 # How do you change a research note into a question?

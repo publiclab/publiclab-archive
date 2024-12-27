@@ -7,6 +7,8 @@ path: /notes/micheletobias/5-23-2011/creating-multispectral-imagery-california-b
 nid: 268
 uid: 149
 
+cids: 250,251,252,253,254,264
+
 ---
 
 ![](https://publiclab.org/sites/default/files/FalseColorIR_SC.PNG)

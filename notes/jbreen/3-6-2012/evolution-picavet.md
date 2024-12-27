@@ -7,6 +7,8 @@ path: /notes/jbreen/3-6-2012/evolution-picavet.md
 nid: 897
 uid: 326
 
+cids: 524,881,7466,7467,7468,7478,7479
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSCN1670_0.jpg)

@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-186-fountain-street.md
 nid: 23041
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (186 Fountain Street)

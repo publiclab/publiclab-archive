@@ -7,6 +7,8 @@ path: /notes/ajtarnas/1-7-2013/desktop-spectrometer-built.md
 nid: 5445
 uid: 47522
 
+cids: 2939,2947
+
 ---
 
 # desktop spectrometer built

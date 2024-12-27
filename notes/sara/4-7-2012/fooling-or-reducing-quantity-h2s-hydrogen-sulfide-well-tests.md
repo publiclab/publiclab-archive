@@ -7,6 +7,8 @@ path: /notes/sara/4-7-2012/fooling-or-reducing-quantity-h2s-hydrogen-sulfide-wel
 nid: 1631
 uid: 8
 
+cids: 
+
 ---
 
 # FOOLING OR REDUCING THE QUANTITY OF H2S (hydrogen sulfide) IN WELL TESTS.

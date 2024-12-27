@@ -7,6 +7,8 @@ path: /notes/vaibhavgeek/04-01-2017/omniauth-and-wiki-discussion.md
 nid: 14076
 uid: 504058
 
+cids: 16538,16543,16547
+
 ---
 
 # OmniAuth and Wiki Discussion 

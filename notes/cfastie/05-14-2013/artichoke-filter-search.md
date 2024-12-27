@@ -7,6 +7,8 @@ path: /notes/cfastie/05-14-2013/artichoke-filter-search.md
 nid: 7543
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/270/original/rosco4260.jpg)

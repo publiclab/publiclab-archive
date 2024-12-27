@@ -7,6 +7,8 @@ path: /notes/mlamadrid/05-15-2013/tool-for-stalling-mapping.md
 nid: 7593
 uid: 45586
 
+cids: 4740,6631,6632,6638,12380
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/315/original/LEVELS-OF-RESOULTION-2.jpg)

@@ -7,6 +7,8 @@ path: /notes/mathew/1-30-2012/efficient-image-sorting-finder-preview-mac.md
 nid: 732
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 3_0.png)

@@ -7,6 +7,8 @@ path: /notes/warren/06-19-2013/small-camera-conversion-tests.md
 nid: 8285
 uid: 1
 
+cids: 8404,8405,9525,9544,9548,9549,10539
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/538/original/IMG_0043.JPG)

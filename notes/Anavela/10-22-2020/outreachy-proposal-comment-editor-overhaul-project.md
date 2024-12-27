@@ -7,6 +7,8 @@ path: /notes/Anavela/10-22-2020/outreachy-proposal-comment-editor-overhaul-proje
 nid: 24793
 uid: 725718
 
+cids: 27516,27518,27550,27645
+
 ---
 
 # Outreachy Proposal: Comment Editor Overhaul Project

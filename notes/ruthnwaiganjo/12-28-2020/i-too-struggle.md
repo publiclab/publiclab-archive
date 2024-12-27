@@ -7,6 +7,8 @@ path: /notes/ruthnwaiganjo/12-28-2020/i-too-struggle.md
 nid: 25344
 uid: 725565
 
+cids: 27870,27871,27886,27887,27913,27917
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/159/original/Screenshot_2020-12-28_at_18.08.03.png)

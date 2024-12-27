@@ -7,6 +7,8 @@ path: /notes/cfastie/04-28-2014/the-titan-2-rig.md
 nid: 10374
 uid: 554
 
+cids: 8898
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/897/original/3Dstore-364-67.jpg)

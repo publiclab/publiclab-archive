@@ -7,6 +7,8 @@ path: /notes/jiteovien/08-08-2018/can-the-community-microscope-analyze-ocean-mic
 nid: 16886
 uid: 540008
 
+cids: 20337,20340,20346,20356,20368,24330,24338
+
 ---
 
 # Can the Community Microscope analyze ocean microplastics?

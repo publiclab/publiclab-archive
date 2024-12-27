@@ -7,6 +7,8 @@ path: /notes/read_holman/12-17-2018/partnering-with-a-local-college-for-environm
 nid: 17915
 uid: 540243
 
+cids: 
+
 ---
 
 # Partnering with a Local College for Environmental Testing

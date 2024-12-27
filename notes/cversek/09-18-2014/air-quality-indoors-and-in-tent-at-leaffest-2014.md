@@ -7,6 +7,8 @@ path: /notes/cversek/09-18-2014/air-quality-indoors-and-in-tent-at-leaffest-2014
 nid: 11151
 uid: 48275
 
+cids: 10321,10329,10332,10338,10339,10355,11133,11398
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/880/original/IMAG0219.jpg)

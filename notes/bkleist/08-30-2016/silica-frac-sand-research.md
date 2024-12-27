@@ -7,6 +7,8 @@ path: /notes/bkleist/08-30-2016/silica-frac-sand-research.md
 nid: 13406
 uid: 489504
 
+cids: 15288,15294,15323,15599,16072
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/861/original/IMAG1814.JPG)

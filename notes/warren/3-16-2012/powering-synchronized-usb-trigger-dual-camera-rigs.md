@@ -7,6 +7,8 @@ path: /notes/warren/3-16-2012/powering-synchronized-usb-trigger-dual-camera-rigs
 nid: 1483
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0033.JPG)

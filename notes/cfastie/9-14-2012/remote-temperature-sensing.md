@@ -7,6 +7,8 @@ path: /notes/cfastie/9-14-2012/remote-temperature-sensing.md
 nid: 3822
 uid: 554
 
+cids: 1326,1330
+
 ---
 
 ![](https://publiclab.org/sites/default/files/JeeNodeComposta.jpg)

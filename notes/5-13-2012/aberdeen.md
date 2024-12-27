@@ -7,6 +7,8 @@ path: /notes/5-13-2012/aberdeen.md
 nid: 2086
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0761_medium.JPG)

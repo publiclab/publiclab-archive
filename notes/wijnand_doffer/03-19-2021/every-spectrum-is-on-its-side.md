@@ -7,6 +7,8 @@ path: /notes/wijnand_doffer/03-19-2021/every-spectrum-is-on-its-side.md
 nid: 25976
 uid: 747913
 
+cids: 28393,28425
+
 ---
 
 # Every spectrum is on its side?

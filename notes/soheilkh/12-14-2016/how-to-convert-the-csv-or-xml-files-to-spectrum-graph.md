@@ -7,6 +7,8 @@ path: /notes/soheilkh/12-14-2016/how-to-convert-the-csv-or-xml-files-to-spectrum
 nid: 13781
 uid: 499133
 
+cids: 15972,16161,16165,22379,22381
+
 ---
 
 # How to convert the csv or xml files to spectrum graph? 

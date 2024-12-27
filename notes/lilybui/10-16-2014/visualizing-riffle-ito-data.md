@@ -7,6 +7,8 @@ path: /notes/lilybui/10-16-2014/visualizing-riffle-ito-data.md
 nid: 11271
 uid: 420662
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/454/original/20141015_132222.jpg)

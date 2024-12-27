@@ -7,6 +7,8 @@ path: /notes/cutlan/01-09-2018/kilimanjaro-citizen-science-1.md
 nid: 15493
 uid: 522144
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/136/original/MLIMA.jpg)

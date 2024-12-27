@@ -7,6 +7,8 @@ path: /notes/giannispimenidis/04-13-2020/what-s-wrong-with-my-wheestat.md
 nid: 23371
 uid: 657238
 
+cids: 26850,26853,26854
+
 ---
 
 # What's wrong with my  wheestat?

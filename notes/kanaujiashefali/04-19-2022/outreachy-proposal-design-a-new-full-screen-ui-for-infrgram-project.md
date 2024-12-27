@@ -7,6 +7,8 @@ path: /notes/kanaujiashefali/04-19-2022/outreachy-proposal-design-a-new-full-scr
 nid: 30511
 uid: 793637
 
+cids: 30088,30090,30102,30103,30105,30109
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/163/original/Infragram-%E2%80%93-Figma_%281%29.png)

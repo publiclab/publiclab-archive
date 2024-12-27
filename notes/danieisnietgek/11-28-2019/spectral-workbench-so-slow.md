@@ -7,6 +7,8 @@ path: /notes/danieisnietgek/11-28-2019/spectral-workbench-so-slow.md
 nid: 21611
 uid: 636328
 
+cids: 25934,25940,25949
+
 ---
 
 # Spectral Workbench so slow on raspberry pi zero

@@ -7,6 +7,8 @@ path: /notes/rnlefevre/05-12-2016/public-lab-river-rat-pack-st-louis-rachel-lefe
 nid: 13111
 uid: 465996
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/153/original/public_lab_website_submission_header_2.jpg)

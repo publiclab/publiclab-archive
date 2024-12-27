@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-20-2016/plab-spectrometer-version-2-5-vs-spex-fluorom
 nid: 13006
 uid: 461120
 
+cids: 14445
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/678/original/eosin_y_apr20.JPG)

@@ -7,6 +7,8 @@ path: /notes/sspatharioti/10-31-2017/do-you-or-your-community-have-a-set-of-imag
 nid: 15130
 uid: 462488
 
+cids: 17752,22744
+
 ---
 
 # Do you or your community have a set of images in need of analysis? 

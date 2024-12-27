@@ -7,6 +7,8 @@ path: /notes/liz/11-28-2015/greenworksnola-youth-presenting-at-barnraising-2015.
 nid: 12460
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/086/original/Screen_Shot_2015-11-28_at_2.33.37_PM.png)

@@ -7,6 +7,8 @@ path: /notes/mathew/08-01-2014/karen-s-comments-on-the-spectrometer-instructions
 nid: 11007
 uid: 4
 
+cids: 9925,20992,20995
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/808/original/IMG_20140801_140537.jpg)

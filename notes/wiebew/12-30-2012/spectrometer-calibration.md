@@ -7,6 +7,8 @@ path: /notes/wiebew/12-30-2012/spectrometer-calibration.md
 nid: 5381
 uid: 44887
 
+cids: 2861,4163
+
 ---
 
 # Spectrometer calibration

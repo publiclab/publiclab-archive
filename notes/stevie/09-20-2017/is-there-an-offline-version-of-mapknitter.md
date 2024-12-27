@@ -7,6 +7,8 @@ path: /notes/stevie/09-20-2017/is-there-an-offline-version-of-mapknitter.md
 nid: 14917
 uid: 422561
 
+cids: 22616
+
 ---
 
 # Is there an offline version of Mapknitter? 

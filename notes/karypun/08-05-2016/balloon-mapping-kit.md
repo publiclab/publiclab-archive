@@ -7,6 +7,8 @@ path: /notes/karypun/08-05-2016/balloon-mapping-kit.md
 nid: 13333
 uid: 484876
 
+cids: 15086,15088,15103,15105,15128,15130
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/376/original/1624676511.jpg)

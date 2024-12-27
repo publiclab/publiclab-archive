@@ -7,6 +7,8 @@ path: /notes/macmuzz/05-05-2019/creating-ndvi-images-with-pi-no-ir-v2.md
 nid: 19241
 uid: 588552
 
+cids: 24036,24038,25555,25558
+
 ---
 
 # Creating NDVI images with PI no ir V2

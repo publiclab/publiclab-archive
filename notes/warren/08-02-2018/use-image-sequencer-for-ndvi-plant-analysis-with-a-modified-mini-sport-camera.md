@@ -7,6 +7,8 @@ path: /notes/warren/08-02-2018/use-image-sequencer-for-ndvi-plant-analysis-with-
 nid: 16843
 uid: 1
 
+cids: 27572
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/050/original/Screen_Shot_2018-08-02_at_6.17.50_PM.png)

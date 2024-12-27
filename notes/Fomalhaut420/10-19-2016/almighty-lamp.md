@@ -7,6 +7,8 @@ path: /notes/Fomalhaut420/10-19-2016/almighty-lamp.md
 nid: 13627
 uid: 494933
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/484/original/image.jpeg)

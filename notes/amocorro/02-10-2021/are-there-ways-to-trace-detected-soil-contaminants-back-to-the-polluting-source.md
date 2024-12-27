@@ -7,6 +7,8 @@ path: /notes/amocorro/02-10-2021/are-there-ways-to-trace-detected-soil-contamina
 nid: 25644
 uid: 700923
 
+cids: 28177,28181,28212
+
 ---
 
 # Are there ways to trace detected soil contaminants back to the polluting source?

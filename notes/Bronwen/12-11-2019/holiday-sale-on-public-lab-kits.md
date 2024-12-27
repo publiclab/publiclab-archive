@@ -7,6 +7,8 @@ path: /notes/Bronwen/12-11-2019/holiday-sale-on-public-lab-kits.md
 nid: 21733
 uid: 237313
 
+cids: 26211
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/018/original/IMG_4743.JPG)

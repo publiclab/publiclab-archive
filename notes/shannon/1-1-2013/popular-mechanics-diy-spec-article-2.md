@@ -7,6 +7,8 @@ path: /notes/shannon/1-1-2013/popular-mechanics-diy-spec-article-2.md
 nid: 5390
 uid: 9
 
+cids: 
+
 ---
 
 # Popular Mechanics DIY Spec. article #2

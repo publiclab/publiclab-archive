@@ -7,6 +7,8 @@ path: /notes/warren/12-13-2017/introducing-a-lego-spectrometer.md
 nid: 15364
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/930/original/PC051869.JPG)

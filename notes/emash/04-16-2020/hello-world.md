@@ -7,6 +7,8 @@ path: /notes/emash/04-16-2020/hello-world.md
 nid: 23401
 uid: 442760
 
+cids: 
+
 ---
 
 # hello world

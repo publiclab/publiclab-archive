@@ -7,6 +7,8 @@ path: /notes/shanlter/09-21-2016/pearl-river-monitoring-in-guangzhou.md
 nid: 13468
 uid: 420999
 
+cids: 15468,15469,15470,15478,15479,15983,16843,16855,16856,16869
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/114/original/2016-09-10_10.53.51.jpg)

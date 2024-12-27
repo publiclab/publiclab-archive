@@ -7,6 +7,8 @@ path: /notes/7enproceso/03-26-2014/jornada-de-documentacion-y-exploracion-colect
 nid: 10227
 uid: 421767
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/394/original/IMG_8613.JPG)

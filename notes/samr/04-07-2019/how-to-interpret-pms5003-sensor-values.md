@@ -7,6 +7,8 @@ path: /notes/samr/04-07-2019/how-to-interpret-pms5003-sensor-values.md
 nid: 18997
 uid: 581810
 
+cids: 23755,23762,23765,23772,23781,23823,23827,23889,23906,23907,30988,30989
+
 ---
 
 # How to interpret PMS5003 sensor values?

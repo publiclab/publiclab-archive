@@ -7,6 +7,8 @@ path: /notes/cindyexcites/8-3-2012/update-may-june-july.md
 nid: 3121
 uid: 1083
 
+cids: 
+
 ---
 
 # Update May-June-July

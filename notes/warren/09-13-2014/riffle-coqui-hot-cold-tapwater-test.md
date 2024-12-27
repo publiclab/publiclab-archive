@@ -7,6 +7,8 @@ path: /notes/warren/09-13-2014/riffle-coqui-hot-cold-tapwater-test.md
 nid: 11140
 uid: 1
 
+cids: 10288,10290,10302,12089,12099,12113,12128,12148,15433,15618,15619,15628,15629,15639
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/813/original/2014-09-13_16.34.18.jpg)

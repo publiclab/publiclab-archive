@@ -7,6 +7,8 @@ path: /notes/justinmanley/09-01-2014/setting-up-mapknitter.md
 nid: 11095
 uid: 421556
 
+cids: 10166,10733,10766,10774,10775,10777,10778,10860,10861
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/540/original/installingMapKnitter.png)

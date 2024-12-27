@@ -7,6 +7,8 @@ path: /notes/amocorro/12-07-2020/what-s-cadac-gas.md
 nid: 25181
 uid: 700923
 
+cids: 27780,27786
+
 ---
 
 # What's CADAC GAS?

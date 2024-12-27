@@ -7,6 +7,8 @@ path: /notes/roberts_ecofarm/10-24-2018/inexpensive-conductivity-probe-for-drink
 nid: 17383
 uid: 556121
 
+cids: 20960,20984,21016,21023
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/186/original/water_quality.jpg)

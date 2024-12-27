@@ -7,6 +7,8 @@ path: /notes/okellomanpeter/03-03-2022/impact-of-rainwater-harvest-on-agricultur
 nid: 30094
 uid: 790533
 
+cids: 29848,29855,30859,30925,30926,30964,30965,30986,31102,31262,31422,31424
+
 ---
 
 # Impact of rainwater harvest on Agriculture and education

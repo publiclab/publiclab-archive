@@ -7,6 +7,8 @@ path: /notes/dbsnp/04-09-2019/bio-climatic-housing-monitoring.md
 nid: 19014
 uid: 543056
 
+cids: 23855,23856,23857,23858,23859,23860,23861,28035
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/361/original/DSC_0322.JPG)

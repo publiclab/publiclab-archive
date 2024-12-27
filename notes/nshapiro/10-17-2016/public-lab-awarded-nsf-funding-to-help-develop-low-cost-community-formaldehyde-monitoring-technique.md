@@ -7,6 +7,8 @@ path: /notes/nshapiro/10-17-2016/public-lab-awarded-nsf-funding-to-help-develop-
 nid: 13571
 uid: 380298
 
+cids: 15710,15747
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/422/original/b.jpg)

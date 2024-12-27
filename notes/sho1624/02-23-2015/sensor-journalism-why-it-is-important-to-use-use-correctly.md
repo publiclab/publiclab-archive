@@ -7,6 +7,8 @@ path: /notes/sho1624/02-23-2015/sensor-journalism-why-it-is-important-to-use-use
 nid: 11621
 uid: 434116
 
+cids: 
+
 ---
 
 # Sensor Journalism - Why It Is Important To Use & Use Correctly

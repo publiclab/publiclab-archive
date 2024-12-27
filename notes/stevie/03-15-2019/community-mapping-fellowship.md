@@ -7,6 +7,8 @@ path: /notes/stevie/03-15-2019/community-mapping-fellowship.md
 nid: 18560
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/090/original/20141213_125947.jpg)

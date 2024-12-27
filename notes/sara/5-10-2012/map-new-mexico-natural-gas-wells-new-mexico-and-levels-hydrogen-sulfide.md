@@ -7,6 +7,8 @@ path: /notes/sara/5-10-2012/map-new-mexico-natural-gas-wells-new-mexico-and-leve
 nid: 1947
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/San Juan Basin Gas Well and H2S.png)

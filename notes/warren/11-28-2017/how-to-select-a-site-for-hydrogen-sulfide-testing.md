@@ -7,6 +7,8 @@ path: /notes/warren/11-28-2017/how-to-select-a-site-for-hydrogen-sulfide-testing
 nid: 15255
 uid: 1
 
+cids: 22760,22770,22775
+
 ---
 
 # How to select a site for hydrogen sulfide testing?

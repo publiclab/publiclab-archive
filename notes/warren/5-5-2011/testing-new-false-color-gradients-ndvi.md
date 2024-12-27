@@ -7,6 +7,8 @@ path: /notes/warren/5-5-2011/testing-new-false-color-gradients-ndvi.md
 nid: 219
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ndvi-3-color.jpg)

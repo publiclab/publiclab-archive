@@ -7,6 +7,8 @@ path: /notes/warren/5-24-2011/rent-flir-thermal-infrared-cameras-some-home-depot
 nid: 294
 uid: 1
 
+cids: 255,258
+
 ---
 
 ![](https://publiclab.org/sites/default/files/HD_webbannerV2.jpg)

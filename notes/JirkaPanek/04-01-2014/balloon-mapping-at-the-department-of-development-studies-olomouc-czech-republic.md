@@ -7,6 +7,8 @@ path: /notes/JirkaPanek/04-01-2014/balloon-mapping-at-the-department-of-developm
 nid: 10246
 uid: 179
 
+cids: 8643,8673
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/459/original/009.JPG)

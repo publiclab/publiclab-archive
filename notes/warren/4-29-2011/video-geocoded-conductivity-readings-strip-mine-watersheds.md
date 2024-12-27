@@ -7,6 +7,8 @@ path: /notes/warren/4-29-2011/video-geocoded-conductivity-readings-strip-mine-wa
 nid: 204
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-04-28 at 11.34.52 PM.png)

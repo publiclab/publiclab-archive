@@ -7,6 +7,8 @@ path: /notes/Akinkunmi02/04-10-2022/outreachy-proposal-mapknitter-org-spam-manag
 nid: 30327
 uid: 793513
 
+cids: 29972,30057,30087
+
 ---
 
 # Outreachy proposal: MapKnitter.org Spam Management system

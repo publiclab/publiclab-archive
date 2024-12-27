@@ -7,6 +7,8 @@ path: /notes/Jvan/10-05-2021/mapknitter-map-of-workshop-mapping-at-torry-battery
 nid: 27834
 uid: 773648
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/893/original/public_lab.jpg)

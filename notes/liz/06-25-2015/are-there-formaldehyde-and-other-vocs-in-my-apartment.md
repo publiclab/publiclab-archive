@@ -7,6 +7,8 @@ path: /notes/liz/06-25-2015/are-there-formaldehyde-and-other-vocs-in-my-apartmen
 nid: 12007
 uid: 7
 
+cids: 12024,12025,12028,12030,12041,12042,12043
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/440/original/IMG_5743.JPG)

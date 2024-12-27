@@ -7,6 +7,8 @@ path: /notes/cfastie/08-04-2015/aerial-photo-rig-bargains.md
 nid: 12119
 uid: 554
 
+cids: 12324
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/029/original/Melon-646-56-SS2k.jpg)

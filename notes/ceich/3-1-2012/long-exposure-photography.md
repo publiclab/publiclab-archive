@@ -7,6 +7,8 @@ path: /notes/ceich/3-1-2012/long-exposure-photography.md
 nid: 882
 uid: 597
 
+cids: 506
+
 ---
 
 ![](https://publiclab.org/sites/default/files/PLOTS temp colors2_sm.jpg)

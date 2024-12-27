@@ -7,6 +7,8 @@ path: /notes/liz/03-07-2018/make-barnraising-signs.md
 nid: 15881
 uid: 7
 
+cids: 18797,18798,19323,19413
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/865/original/IMG_1941.jpg)

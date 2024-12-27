@@ -7,6 +7,8 @@ path: /notes/warren/8-13-2012/foldable-and-countertop-spectrometers.md
 nid: 3266
 uid: 1
 
+cids: 1156
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-08-12 23.53.29.jpg)

@@ -7,6 +7,8 @@ path: /notes/clownfish/04-24-2016/question-focus-on-mobile-phone.md
 nid: 13025
 uid: 471261
 
+cids: 14428
+
 ---
 
 # Question: Focus on mobile phone

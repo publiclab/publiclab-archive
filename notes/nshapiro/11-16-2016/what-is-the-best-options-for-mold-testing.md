@@ -7,6 +7,8 @@ path: /notes/nshapiro/11-16-2016/what-is-the-best-options-for-mold-testing.md
 nid: 13707
 uid: 380298
 
+cids: 
+
 ---
 
 # What is the best options for mold testing?

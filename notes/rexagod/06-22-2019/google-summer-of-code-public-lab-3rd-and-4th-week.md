@@ -7,6 +7,8 @@ path: /notes/rexagod/06-22-2019/google-summer-of-code-public-lab-3rd-and-4th-wee
 nid: 19815
 uid: 564358
 
+cids: 24867,24871,24873,25082
+
 ---
 
 # Google Summer of Code @ Public Lab: 3rd and 4th Week

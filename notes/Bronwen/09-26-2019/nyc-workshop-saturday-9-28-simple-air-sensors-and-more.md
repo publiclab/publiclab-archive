@@ -7,6 +7,8 @@ path: /notes/Bronwen/09-26-2019/nyc-workshop-saturday-9-28-simple-air-sensors-an
 nid: 20999
 uid: 237313
 
+cids: 25599,26328
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/456/original/FlyerEnglish.jpg)

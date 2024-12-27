@@ -7,6 +7,8 @@ path: /notes/drabanus/6-4-2013/spectra-workbench-offline-use.md
 nid: 8047
 uid: 88958
 
+cids: 4938,7600
+
 ---
 
 # Spectra Workbench for offline use?

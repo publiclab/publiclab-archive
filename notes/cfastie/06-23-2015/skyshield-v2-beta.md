@@ -7,6 +7,8 @@ path: /notes/cfastie/06-23-2015/skyshield-v2-beta.md
 nid: 11997
 uid: 554
 
+cids: 12003,12004,12008
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/417/original/SkyShield22-637-101.jpg)

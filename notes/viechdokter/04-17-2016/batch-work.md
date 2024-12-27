@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-17-2016/batch-work.md
 nid: 12992
 uid: 468990
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/619/original/batch_work.jpg)

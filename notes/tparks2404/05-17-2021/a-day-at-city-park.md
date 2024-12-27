@@ -7,6 +7,8 @@ path: /notes/tparks2404/05-17-2021/a-day-at-city-park.md
 nid: 26629
 uid: 745919
 
+cids: 
+
 ---
 
 # a day at city park!

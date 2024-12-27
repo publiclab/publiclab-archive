@@ -7,6 +7,8 @@ path: /notes/warren/04-15-2013/new-spectrometer-liner-design-with-integrated-cam
 nid: 6839
 uid: 1
 
+cids: 4448,4449,4450,4461,4462
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/060/original/1366031736824.jpg)

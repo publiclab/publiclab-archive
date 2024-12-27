@@ -7,6 +7,8 @@ path: /notes/Dasta/04-14-2019/forest-conservation-through-local-wisdom.md
 nid: 19054
 uid: 584138
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/501/original/forest-conservation.png)

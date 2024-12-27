@@ -7,6 +7,8 @@ path: /notes/donblair/07-21-2014/open-hour-on-water-quality-monday-july-21-8pm.m
 nid: 10940
 uid: 43651
 
+cids: 9574,9575
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/421/original/WaterPollutionDeule2006_02_24_4.jpg)

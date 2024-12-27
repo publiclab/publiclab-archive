@@ -7,6 +7,8 @@ path: /notes/warren/3-16-2012/infrared-camera-hacking-meetup-modifies-7-cameras.
 nid: 1482
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0030.JPG)

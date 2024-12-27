@@ -7,6 +7,8 @@ path: /notes/anushkachauhan/04-22-2022/outreachy-proposal-infragram-redesign.md
 nid: 30580
 uid: 796158
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/487/original/Outreachy-logo.png)

@@ -7,6 +7,8 @@ path: /notes/joyofsoy/11-09-2018/the-importance-of-community-based-responders.md
 nid: 17502
 uid: 540844
 
+cids: 21195
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/576/original/OI000012.jpg)

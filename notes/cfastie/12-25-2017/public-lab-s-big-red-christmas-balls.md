@@ -7,6 +7,8 @@ path: /notes/cfastie/12-25-2017/public-lab-s-big-red-christmas-balls.md
 nid: 15428
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/024/original/xmas_20171212-2087.JPG)

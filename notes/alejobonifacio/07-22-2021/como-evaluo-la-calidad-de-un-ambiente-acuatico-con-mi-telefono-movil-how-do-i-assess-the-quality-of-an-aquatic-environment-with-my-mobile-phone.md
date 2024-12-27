@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/07-22-2021/como-evaluo-la-calidad-de-un-ambiente-acu
 nid: 27184
 uid: 639376
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/426/original/AppEar.png)

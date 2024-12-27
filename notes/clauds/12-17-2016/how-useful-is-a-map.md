@@ -7,6 +7,8 @@ path: /notes/clauds/12-17-2016/how-useful-is-a-map.md
 nid: 13791
 uid: 43867
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/068/original/L1260087_copy.jpg)

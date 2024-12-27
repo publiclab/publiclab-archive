@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/10-13-2016/organizing-the-riffle-area.md
 nid: 13558
 uid: 459085
 
+cids: 15669,15670,15671,15672,15683,15684,15689,15694,15712
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/389/original/organizing_riffle.png)

@@ -7,6 +7,8 @@ path: /notes/patcoyle/12-09-2015/simple-aerial-photomapping-at-ewb-west-coast-re
 nid: 12491
 uid: 77
 
+cids: 14758
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/246/original/22676199848_e0a277ddf2_k.jpg)

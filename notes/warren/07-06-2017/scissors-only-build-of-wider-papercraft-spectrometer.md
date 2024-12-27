@@ -7,6 +7,8 @@ path: /notes/warren/07-06-2017/scissors-only-build-of-wider-papercraft-spectrome
 nid: 14625
 uid: 1
 
+cids: 17579
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/060/original/P7060003.JPG)

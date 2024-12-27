@@ -7,6 +7,8 @@ path: /notes/samwf/08-01-2017/mapping-rugged-coastal-environments-with-a-raspber
 nid: 14703
 uid: 511878
 
+cids: 17125,17129,17131,17133,17134,17135,17136,17156
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/245/original/IMG_1333_%281%29.jpg)

@@ -7,6 +7,8 @@ path: /notes/patcoyle/2-23-2013/juice-bottle-bottom-dual-camera-rig.md
 nid: 6108
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/P1070408.JPG)

@@ -7,6 +7,8 @@ path: /notes/rollinrenola/11-19-2019/week-7-fellowship-update.md
 nid: 21531
 uid: 618903
 
+cids: 
+
 ---
 
 # Week 7 Fellowship Update 

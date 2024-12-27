@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/09-12-2016/laser-calibration-532nm-of-new-dvd-diffration
 nid: 13443
 uid: 461120
 
+cids: 15358
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/018/original/CFL_calibration_title_pic_sept_12.png)

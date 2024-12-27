@@ -7,6 +7,8 @@ path: /notes/Willie/09-02-2014/testing-the-mobile-dustduino.md
 nid: 11097
 uid: 235174
 
+cids: 10174,10175,10178,10180,10183,10189,10193,10199,10202,10313
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/547/original/Clara's_car_sensor.jpg)

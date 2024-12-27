@@ -7,6 +7,8 @@ path: /notes/donblair/03-23-2016/ttl-serial-jpeg-cameras-microcontrollers.md
 nid: 12880
 uid: 43651
 
+cids: 14030,14032,14033,14076,14087,14154
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/197/original/IMG_20160323_103253944.jpg)

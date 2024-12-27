@@ -7,6 +7,8 @@ path: /notes/laurel_mire/06-19-2021/what-groups-or-agencies-are-looking-at-the-i
 nid: 26856
 uid: 759178
 
+cids: 28976
+
 ---
 
 # What groups or agencies are looking at the intersections of land/soil management and ocean pollution?

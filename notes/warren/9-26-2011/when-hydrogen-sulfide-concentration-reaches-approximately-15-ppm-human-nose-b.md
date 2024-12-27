@@ -7,6 +7,8 @@ path: /notes/warren/9-26-2011/when-hydrogen-sulfide-concentration-reaches-approx
 nid: 478
 uid: 1
 
+cids: 19329
+
 ---
 
 # "...when the hydrogen sulfide concentration reaches approximately 15 ppm, the human nose becomes desensitized"

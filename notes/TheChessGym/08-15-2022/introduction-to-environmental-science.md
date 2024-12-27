@@ -7,6 +7,8 @@ path: /notes/TheChessGym/08-15-2022/introduction-to-environmental-science.md
 nid: 34877
 uid: 788868
 
+cids: 30382,30383,30384,30385,30386,30387,30388,30391,30409,30411,30431
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/027/original/ev.jpg)

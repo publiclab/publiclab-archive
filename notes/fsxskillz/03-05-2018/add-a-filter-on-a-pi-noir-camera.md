@@ -7,6 +7,8 @@ path: /notes/fsxskillz/03-05-2018/add-a-filter-on-a-pi-noir-camera.md
 nid: 15862
 uid: 526740
 
+cids: 22981,25607
+
 ---
 
 # Add a filter on a Pi NoIR camera

@@ -7,6 +7,8 @@ path: /notes/liz/12-7-2012/nyc-winter-party.md
 nid: 5151
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Holiday2012-NYCparty.png)

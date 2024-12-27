@@ -7,6 +7,8 @@ path: /notes/warren/03-23-2015/public-lab-talk-at-libreplanet-2015-two-public-la
 nid: 11715
 uid: 1
 
+cids: 11392,11409
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/397/original/libreplanet-talk.png)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-29-2012/help-learning-use-mapknitter.md
 nid: 2677
 uid: 12
 
+cids: 2675,8181,9037,16812
+
 ---
 
 ![](https://publiclab.org/sites/default/files/1.JPG)

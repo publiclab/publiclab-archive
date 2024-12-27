@@ -7,6 +7,8 @@ path: /notes/donblair/05-28-2014/riffle-dev-fun-w-five-five-fives.md
 nid: 10514
 uid: 43651
 
+cids: 9089,9092,9097,9101,9102,9103,9104,9145,9146,9147,9148,9149
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/474/original/FI66X99H7996R0X.MEDIUM.jpg)

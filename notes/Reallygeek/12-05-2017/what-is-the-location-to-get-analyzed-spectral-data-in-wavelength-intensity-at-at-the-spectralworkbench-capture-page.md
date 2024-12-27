@@ -7,6 +7,8 @@ path: /notes/Reallygeek/12-05-2017/what-is-the-location-to-get-analyzed-spectral
 nid: 15302
 uid: 513343
 
+cids: 
+
 ---
 
 # What is the location to get analyzed spectral data in [wavelength, intensity] at at the SpectralWorkbench/capture page?

@@ -7,6 +7,8 @@ path: /notes/gilbert/10-30-2017/what-specific-water-quality-issues-have-recently
 nid: 15128
 uid: 508551
 
+cids: 
+
 ---
 
 # What water quality issues have recently emerged in your region, i.e. "boil water alerts," "swimming ban," "no fishing advisories," "water-borne disease outbreaks," "industrial spills," "contaminated flooding," "unusual water taste, color or smell"?

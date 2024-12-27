@@ -7,6 +7,8 @@ path: /notes/hudonnoodles/3-1-2013/boston-plots-meetup-synopsis-220.md
 nid: 6153
 uid: 102
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0131-IMG_0133b.jpg)

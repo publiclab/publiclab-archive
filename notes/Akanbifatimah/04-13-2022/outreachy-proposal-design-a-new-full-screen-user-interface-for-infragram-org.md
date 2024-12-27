@@ -7,6 +7,8 @@ path: /notes/Akanbifatimah/04-13-2022/outreachy-proposal-design-a-new-full-scree
 nid: 30353
 uid: 793806
 
+cids: 30001,30010,30011,30021,30022,30058,30157
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/721/original/pexels-pixabay-460621.jpg)

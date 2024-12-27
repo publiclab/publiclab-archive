@@ -7,6 +7,8 @@ path: /notes/OpenSystems/04-22-2015/placa-salvador-segui-barcelona.md
 nid: 11763
 uid: 439331
 
+cids: 11524
+
 ---
 
 # Plaça Salvador Seguí, Barcelona

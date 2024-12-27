@@ -7,6 +7,8 @@ path: /notes/cummins_leila/03-05-2021/how-severely-has-climate-change-and-pollut
 nid: 25851
 uid: 744181
 
+cids: 28301,28376
+
 ---
 
 # How severely has climate change and pollution affected Louisiana?

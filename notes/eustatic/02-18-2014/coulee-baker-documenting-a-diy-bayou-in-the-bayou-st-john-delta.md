@@ -7,6 +7,8 @@ path: /02-18-2014/coulee-baker-documenting-a-diy-bayou-in-the-bayou-st-john-delt
 nid: 10046
 uid: 379
 
+cids: 12275
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/940/original/1926272_10102999443343340_645541198_o_1_.jpg)

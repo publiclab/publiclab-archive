@@ -7,6 +7,8 @@ path: /notes/cfastie/06-26-2013/infrablue-haze.md
 nid: 8456
 uid: 554
 
+cids: 11822,11827
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/575/original/InfFAI_Jun25-2013_20_00_43nrg1500.jpg)

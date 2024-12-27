@@ -7,6 +7,8 @@ path: /notes/stefannibrasil/03-23-2018/v2-api-collaboration.md
 nid: 16015
 uid: 525300
 
+cids: 19163,19261,19271,19301,23030
+
 ---
 
 # v2 API collaboration

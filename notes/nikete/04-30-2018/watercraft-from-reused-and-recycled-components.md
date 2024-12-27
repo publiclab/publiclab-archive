@@ -7,6 +7,8 @@ path: /notes/nikete/04-30-2018/watercraft-from-reused-and-recycled-components.md
 nid: 16268
 uid: 532571
 
+cids: 19523,19524,19527,19528,19564,19566,19567,19672,20947,26865
+
 ---
 
 # watercraft from reused and recycled components

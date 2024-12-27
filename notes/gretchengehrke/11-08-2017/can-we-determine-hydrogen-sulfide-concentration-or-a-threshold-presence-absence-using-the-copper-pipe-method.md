@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/11-08-2017/can-we-determine-hydrogen-sulfide-concent
 nid: 15163
 uid: 430549
 
+cids: 
+
 ---
 
 # Can we determine hydrogen sulfide concentration, or a threshold presence/absence using the copper pipe method?

@@ -7,6 +7,8 @@ path: /notes/liz/4-27-2012/multiple-tethers-balloon.md
 nid: 1816
 uid: 7
 
+cids: 668,670
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Anthony_OpenPlans_JavierDeLaTorre.jpg)

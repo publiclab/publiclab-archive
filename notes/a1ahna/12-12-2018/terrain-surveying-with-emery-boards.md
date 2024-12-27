@@ -7,6 +7,8 @@ path: /notes/a1ahna/12-12-2018/terrain-surveying-with-emery-boards.md
 nid: 17856
 uid: 518193
 
+cids: 21535,26126,26142,26143,26161
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/267/original/emerycover_resized.png)

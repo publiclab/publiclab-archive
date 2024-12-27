@@ -7,6 +7,8 @@ path: /notes/silentsairam/05-11-2019/how-to-delete-the-images-which-i-do-not-wan
 nid: 19301
 uid: 553044
 
+cids: 24113,24116,24175,24204,24354,24355
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/882/original/2019-05-11_23_47_45-MapKnitter__Garbage_Hot_spots.png)

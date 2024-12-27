@@ -7,6 +7,8 @@ path: /notes/warren/11-28-2017/how-can-we-safely-try-out-and-evaluate-a-hydrogen
 nid: 15254
 uid: 1
 
+cids: 22759,22761,22778,22782
+
 ---
 
 # How can we safely try out and evaluate a hydrogen sulfide test?

@@ -7,6 +7,8 @@ path: /notes/stevie/03-21-2018/how-do-i-choose-a-method-for-monitoring-turbidity
 nid: 15990
 uid: 422561
 
+cids: 23020,23025
+
 ---
 
 # How do I choose a method for monitoring turbidity? 

@@ -7,6 +7,8 @@ path: /notes/donblair/05-03-2014/preliminary-pcbs-for-particulates.md
 nid: 10405
 uid: 43651
 
+cids: 8962,8964,9629,9893,9994,11947,15990
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/013/original/prelimPM)

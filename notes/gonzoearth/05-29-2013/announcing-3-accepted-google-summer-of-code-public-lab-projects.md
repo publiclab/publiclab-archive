@@ -7,6 +7,8 @@ path: /notes/gonzoearth/05-29-2013/announcing-3-accepted-google-summer-of-code-p
 nid: 7961
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/428/original/GSoC_2013_logo.jpg)

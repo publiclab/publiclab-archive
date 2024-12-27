@@ -7,6 +7,8 @@ path: /notes/mkashyap354/03-17-2017/tagging-interface.md
 nid: 14031
 uid: 503534
 
+cids: 16404,16405,16410,16490,16493
+
 ---
 
 # Tagging Interface

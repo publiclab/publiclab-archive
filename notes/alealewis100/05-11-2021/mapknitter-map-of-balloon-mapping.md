@@ -7,6 +7,8 @@ path: /notes/alealewis100/05-11-2021/mapknitter-map-of-balloon-mapping.md
 nid: 26554
 uid: 754778
 
+cids: 
+
 ---
 
 # MapKnitter map of balloon mapping

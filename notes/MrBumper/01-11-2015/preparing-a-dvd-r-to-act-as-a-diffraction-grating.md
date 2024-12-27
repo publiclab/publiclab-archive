@@ -7,6 +7,8 @@ path: /notes/MrBumper/01-11-2015/preparing-a-dvd-r-to-act-as-a-diffraction-grati
 nid: 11515
 uid: 432766
 
+cids: 11034,11036,11063,11066,11112,11120,11128,11334,11336,11478,11479,12562,13756,14457,25696,25697
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/582/original/DVDFragmentDiffraction.png)

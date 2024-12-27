@@ -7,6 +7,8 @@ path: /notes/cindyexcites/9-26-2012/touchplaylearn-space-explore-create.md
 nid: 4025
 uid: 1083
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSC_0485_c.jpg)

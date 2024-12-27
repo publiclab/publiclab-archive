@@ -7,6 +7,8 @@ path: /notes/imvec/11-08-2017/round-table-discussion-on-the-concept-of-citizen-s
 nid: 15161
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/331/original/colorado_top_bar_beehives_-_aker_1.jpg)

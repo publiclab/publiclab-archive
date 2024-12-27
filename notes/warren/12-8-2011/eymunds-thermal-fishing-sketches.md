@@ -7,6 +7,8 @@ path: /notes/warren/12-8-2011/eymunds-thermal-fishing-sketches.md
 nid: 619
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6481808803_73d35d279c_b.jpeg)

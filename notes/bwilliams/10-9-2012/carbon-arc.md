@@ -7,6 +7,8 @@ path: /notes/bwilliams/10-9-2012/carbon-arc.md
 nid: 4291
 uid: 42631
 
+cids: 1603,1604,1607,1609,1615,1621,1624
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Carbon Arc 010.JPG)

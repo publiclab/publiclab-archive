@@ -7,6 +7,8 @@ path: /notes/klausmayr/03-16-2021/how-can-you-map-the-growth-of-tree-roots.md
 nid: 25946
 uid: 737257
 
+cids: 
+
 ---
 
 # How can you map the growth of tree roots?

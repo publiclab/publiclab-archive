@@ -7,6 +7,8 @@ path: /notes/wu_ming2/02-02-2019/how-do-i-calculate-error-for-averages.md
 nid: 18243
 uid: 572116
 
+cids: 21843,23640
+
 ---
 
 # How do I calculate error for averages?

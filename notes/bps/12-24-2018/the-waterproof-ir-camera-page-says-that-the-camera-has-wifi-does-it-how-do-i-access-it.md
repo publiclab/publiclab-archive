@@ -7,6 +7,8 @@ path: /notes/bps/12-24-2018/the-waterproof-ir-camera-page-says-that-the-camera-h
 nid: 17998
 uid: 566207
 
+cids: 21611
+
 ---
 
 # The waterproof IR camera page says that the camera has WiFi. Does it? How do I access it?

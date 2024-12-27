@@ -7,6 +7,8 @@ path: /notes/cfastie/05-19-2016/frozen-riffle.md
 nid: 13128
 uid: 554
 
+cids: 14651,15285,15286
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/219/original/riffle_20160517-5550-2.jpg)

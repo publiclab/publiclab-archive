@@ -7,6 +7,8 @@ path: /notes/cfastie/12-10-2012/citizen-science-google.md
 nid: 5172
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/googleplus.jpg)

@@ -7,6 +7,8 @@ path: /notes/MaggPi/07-02-2018/camera-exposure-matrix.md
 nid: 16605
 uid: 501996
 
+cids: 19961,19962
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/379/original/Slide2.JPG)

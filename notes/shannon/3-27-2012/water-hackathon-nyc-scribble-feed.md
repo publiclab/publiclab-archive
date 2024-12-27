@@ -7,6 +7,8 @@ path: /notes/shannon/3-27-2012/water-hackathon-nyc-scribble-feed.md
 nid: 1545
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_4035.JPG)

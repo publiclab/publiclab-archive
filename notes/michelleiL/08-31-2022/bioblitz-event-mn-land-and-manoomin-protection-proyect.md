@@ -7,6 +7,8 @@ path: /notes/michelleiL/08-31-2022/bioblitz-event-mn-land-and-manoomin-protectio
 nid: 34921
 uid: 799004
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/095/original/300646763_3213798962223528_3242440747236780938_n.jpg)

@@ -7,6 +7,8 @@ path: /notes/nicoleloor/02-14-2018/mapknitter-map-of-lab-5-geog-1103.md
 nid: 15734
 uid: 525180
 
+cids: 
+
 ---
 
 # MapKnitter map of Lab 5 GEOG 1103

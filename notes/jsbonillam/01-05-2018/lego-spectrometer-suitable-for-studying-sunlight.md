@@ -7,6 +7,8 @@ path: /notes/jsbonillam/01-05-2018/lego-spectrometer-suitable-for-studying-sunli
 nid: 15463
 uid: 521899
 
+cids: 18120,18125,18127,18148,18156,18157,18487,22828,22829,22836,22837,22950
+
 ---
 
 # Lego Spectrometer suitable for studying sunlight?

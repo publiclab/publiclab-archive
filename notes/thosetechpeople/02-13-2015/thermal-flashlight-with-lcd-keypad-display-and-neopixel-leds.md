@@ -7,6 +7,8 @@ path: /notes/thosetechpeople/02-13-2015/thermal-flashlight-with-lcd-keypad-displ
 nid: 11581
 uid: 435226
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/963/original/IMG_20150210_075830_hdr.jpg)

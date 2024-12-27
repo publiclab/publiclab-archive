@@ -7,6 +7,8 @@ path: /notes/FoxClass/06-23-2016/mini-spectrophotometer-how-does-this-deviate-fr
 nid: 13233
 uid: 480280
 
+cids: 14811,14817,14864,14865,14866,14867,15493
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/738/original/2016-03-10_12.27.02.jpg)

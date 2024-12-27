@@ -7,6 +7,8 @@ path: /notes/stevie/11-29-2021/what-are-health-and-environmental-concerns-for-se
 nid: 28312
 uid: 422561
 
+cids: 29470,29471,29472
+
 ---
 
 # What are health and environmental concerns for sewage smell in a home?

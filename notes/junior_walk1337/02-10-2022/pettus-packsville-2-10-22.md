@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/02-10-2022/pettus-packsville-2-10-22.md
 nid: 30020
 uid: 756318
 
+cids: 29643
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/372/original/Pettus-Packsville2-10-22.00_03_49_05.Still001.jpg)

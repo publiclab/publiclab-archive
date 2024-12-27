@@ -7,6 +7,8 @@ path: /notes/DFlores6073/05-30-2015/mapknitter-map-of-new-orleans-city-park-nir.
 nid: 11915
 uid: 441573
 
+cids: 11829,11830
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/109/original/IMAG0043.jpg)

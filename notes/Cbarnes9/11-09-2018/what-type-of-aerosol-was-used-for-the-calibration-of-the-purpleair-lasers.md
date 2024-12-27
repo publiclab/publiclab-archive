@@ -7,6 +7,8 @@ path: /notes/Cbarnes9/11-09-2018/what-type-of-aerosol-was-used-for-the-calibrati
 nid: 17496
 uid: 558529
 
+cids: 21214,21216,21379,21909,23281
+
 ---
 
 # What type of aerosol was used for the calibration of the purpleair lasers? 

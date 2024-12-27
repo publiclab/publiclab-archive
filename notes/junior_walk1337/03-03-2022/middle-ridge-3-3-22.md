@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/03-03-2022/middle-ridge-3-3-22.md
 nid: 30097
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/458/original/middleridge3-3-22.00_02_54_13.Still001.jpg)

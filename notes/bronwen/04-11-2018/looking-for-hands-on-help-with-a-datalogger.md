@@ -7,6 +7,8 @@ path: /notes/bronwen/04-11-2018/looking-for-hands-on-help-with-a-datalogger.md
 nid: 16131
 uid: 237313
 
+cids: 19349,19390,23065
+
 ---
 
 # Looking for hands-on help with a datalogger!

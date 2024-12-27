@@ -7,6 +7,8 @@ path: /notes/tonyc/11-03-2015/pole-mapping-kit-ideas.md
 nid: 12360
 uid: 447491
 
+cids: 12843,12844,12923,13102,13103
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/376/original/IMG_3546.JPG)

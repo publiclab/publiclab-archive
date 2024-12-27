@@ -7,6 +7,8 @@ path: /notes/A_SCH/11-08-2020/draft.md
 nid: 24955
 uid: 704145
 
+cids: 27633,27638
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/837/original/Screen_Shot_2020-11-28_at_3.21.09_PM.png)

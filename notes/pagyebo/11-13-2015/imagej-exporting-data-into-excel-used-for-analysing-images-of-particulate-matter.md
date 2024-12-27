@@ -7,6 +7,8 @@ path: /notes/pagyebo/11-13-2015/imagej-exporting-data-into-excel-used-for-analys
 nid: 12407
 uid: 451158
 
+cids: 12908
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/746/original/image_J_4.jpg)

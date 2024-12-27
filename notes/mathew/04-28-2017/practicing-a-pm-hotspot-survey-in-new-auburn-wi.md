@@ -7,6 +7,8 @@ path: /notes/mathew/04-28-2017/practicing-a-pm-hotspot-survey-in-new-auburn-wi.m
 nid: 14146
 uid: 4
 
+cids: 16634,16636,16664,16688,16701
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/256/original/20170331_113121.jpg)

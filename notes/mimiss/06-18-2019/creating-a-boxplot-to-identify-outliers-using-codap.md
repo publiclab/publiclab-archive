@@ -7,6 +7,8 @@ path: /notes/mimiss/06-18-2019/creating-a-boxplot-to-identify-outliers-using-cod
 nid: 19730
 uid: 579821
 
+cids: 24827,24828,24829,24832,24833
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/980/original/Screen_Shot_2019-06-18_at_10.27.45_AM.png)

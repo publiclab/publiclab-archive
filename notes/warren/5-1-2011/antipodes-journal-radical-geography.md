@@ -7,6 +7,8 @@ path: /notes/warren/5-1-2011/antipodes-journal-radical-geography.md
 nid: 209
 uid: 1
 
+cids: 
+
 ---
 
 # Antipodes: a journal of radical geography

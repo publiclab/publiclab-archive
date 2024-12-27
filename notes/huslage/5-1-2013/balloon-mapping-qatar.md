@@ -7,6 +7,8 @@ path: /notes/huslage/5-1-2013/balloon-mapping-qatar.md
 nid: 7191
 uid: 716
 
+cids: 4599,4603
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2359.jpg)

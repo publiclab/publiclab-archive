@@ -7,6 +7,8 @@ path: /notes/wmacfarl/11-12-2019/oil-and-gas-hardware-fellow-status-update-week-
 nid: 21466
 uid: 424597
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/364/original/IMG_20191110_204333_%283%29.jpg)

@@ -7,6 +7,8 @@ path: /notes/stevie/07-11-2019/choosing-an-environmental-monitoring-method.md
 nid: 20079
 uid: 422561
 
+cids: 25026
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/640/original/20190224_110643.jpg)

@@ -7,6 +7,8 @@ path: /notes/bkleist/04-04-2017/uwec-air-quality-monitoring.md
 nid: 14087
 uid: 489504
 
+cids: 16564,16592,17360
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/083/original/download.jpg)

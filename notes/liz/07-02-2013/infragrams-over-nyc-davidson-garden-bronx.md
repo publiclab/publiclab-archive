@@ -7,6 +7,8 @@ path: /notes/liz/07-02-2013/infragrams-over-nyc-davidson-garden-bronx.md
 nid: 8608
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/585/original/BX-davidson-stitch-small-NDVI.jpg)

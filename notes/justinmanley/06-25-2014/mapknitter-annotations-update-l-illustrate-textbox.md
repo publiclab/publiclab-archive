@@ -7,6 +7,8 @@ path: /notes/justinmanley/06-25-2014/mapknitter-annotations-update-l-illustrate-
 nid: 10613
 uid: 421556
 
+cids: 9264,9265,9266,11269,11271
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/963/original/Screenshot_from_2014-06-24_17_42_45.png)

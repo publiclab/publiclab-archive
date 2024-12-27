@@ -7,6 +7,8 @@ path: /notes/anishshah101/07-28-2014/gsoc-update-new-class-additions-in-imagedis
 nid: 10985
 uid: 421046
 
+cids: 9670,9671,9672,9673,9685
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/603/original/1.PNG)

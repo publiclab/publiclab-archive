@@ -7,6 +7,8 @@ path: /notes/cfastie/06-09-2017/the-mini-pearl-logger.md
 nid: 14518
 uid: 554
 
+cids: 16901,16915,16917
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/448/original/MiniPearl400.jpg)

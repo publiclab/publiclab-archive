@@ -7,6 +7,8 @@ path: /notes/LaPa/12-03-2015/how-do-i-set-a-costum-white-balance-of-the-noir-mod
 nid: 12476
 uid: 457187
 
+cids: 13020,13024,13032,13037,13038,13040,13041,13042,13048,13049,13053,13068,13069,13088,13202,13206,13213,13214,13352,13354,13355,13356,13371,13372,13374
+
 ---
 
 # How do I set a custum white balance of the NoIR modulo cam?

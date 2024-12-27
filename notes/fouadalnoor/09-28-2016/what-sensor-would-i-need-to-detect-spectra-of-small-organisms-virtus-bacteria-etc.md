@@ -7,6 +7,8 @@ path: /notes/fouadalnoor/09-28-2016/what-sensor-would-i-need-to-detect-spectra-o
 nid: 13498
 uid: 493187
 
+cids: 15519,15528,22309,22322
+
 ---
 
 # What sensor would I need to detect spectra of small organisms (virtus, bacteria etc)

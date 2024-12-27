@@ -7,6 +7,8 @@ path: /notes/mathew/04-07-2015/can-a-surface-sheen-be-collected-for-oil-testing.
 nid: 11752
 uid: 4
 
+cids: 11482
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/625/original/slick.png)

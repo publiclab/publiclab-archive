@@ -7,6 +7,8 @@ path: /notes/niklasjordan/08-25-2019/which-sensor-is-the-best-to-use-it-during-c
 nid: 20657
 uid: 531062
 
+cids: 25336,25337
+
 ---
 
 # Which sensor is the best to use it during cycling?

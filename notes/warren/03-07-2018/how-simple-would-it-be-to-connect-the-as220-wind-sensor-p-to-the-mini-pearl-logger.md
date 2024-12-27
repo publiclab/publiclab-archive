@@ -7,6 +7,8 @@ path: /notes/warren/03-07-2018/how-simple-would-it-be-to-connect-the-as220-wind-
 nid: 15879
 uid: 1
 
+cids: 18795,22970,22975
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/861/original/Screenshot_2018-02-28_at_4.43.15_PM.png)

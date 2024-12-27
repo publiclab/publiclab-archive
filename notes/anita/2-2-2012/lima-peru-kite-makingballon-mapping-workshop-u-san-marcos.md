@@ -7,6 +7,8 @@ path: /notes/anita/2-2-2012/lima-peru-kite-makingballon-mapping-workshop-u-san-m
 nid: 743
 uid: 481
 
+cids: 430,432,457,458,477,488,6220
+
 ---
 
 ![](https://publiclab.org/sites/default/files/stadium4.JPG)

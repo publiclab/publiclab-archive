@@ -7,6 +7,8 @@ path: /notes/mathew/01-17-2015/shortlinks-putting-contributors-directly-on-a-kit
 nid: 11529
 uid: 4
 
+cids: 11060,11087,11377
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/630/original/mock-right.jpg)

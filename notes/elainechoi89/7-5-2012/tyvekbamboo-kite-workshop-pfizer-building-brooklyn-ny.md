@@ -7,6 +7,8 @@ path: /notes/elainechoi89/7-5-2012/tyvekbamboo-kite-workshop-pfizer-building-bro
 nid: 2715
 uid: 6102
 
+cids: 974
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7488860910_d3b65d8de3_c.jpg)

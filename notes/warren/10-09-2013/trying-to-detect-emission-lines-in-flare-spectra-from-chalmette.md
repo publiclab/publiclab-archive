@@ -7,6 +7,8 @@ path: /notes/warren/10-09-2013/trying-to-detect-emission-lines-in-flare-spectra-
 nid: 9430
 uid: 1
 
+cids: 7175,8045
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/834/original/Screen_Shot_2013-10-09_at_1.57.17_PM.png)

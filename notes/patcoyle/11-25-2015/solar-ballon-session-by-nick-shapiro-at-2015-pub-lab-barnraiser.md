@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-25-2015/solar-ballon-session-by-nick-shapiro-at-2015-pu
 nid: 12445
 uid: 77
 
+cids: 12942
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/033/original/pano_IMG_7541.JPG)

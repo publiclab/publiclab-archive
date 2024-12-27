@@ -7,6 +7,8 @@ path: /notes/warren/2-18-2013/spectraonlinecom-spectrum-searching.md
 nid: 6043
 uid: 1
 
+cids: 3484,6323,6327,6328
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectraonline.png)

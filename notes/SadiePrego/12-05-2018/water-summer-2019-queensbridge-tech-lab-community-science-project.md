@@ -7,6 +7,8 @@ path: /notes/SadiePrego/12-05-2018/water-summer-2019-queensbridge-tech-lab-commu
 nid: 17816
 uid: 562839
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/134/original/queensbridgegogoelmaps.jpg)

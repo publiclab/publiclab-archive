@@ -7,6 +7,8 @@ path: /notes/mercyorangi/08-16-2014/sky-cam-user-guide.md
 nid: 11061
 uid: 421649
 
+cids: 10022,10025,10031,10033,10056
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/317/original/guideblog.png)

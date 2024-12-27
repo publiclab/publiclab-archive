@@ -7,6 +7,8 @@ path: /notes/warren/10-27-2011/video-tutorial-creating-false-color-ndvi-aerial-w
 nid: 523
 uid: 1
 
+cids: 11992,12011,12962,12964,12966,12969,12970,12971,12973,12975,12986,12990,12993,12995,13051,13073,29374,29378
+
 ---
 
 ![](https://publiclab.org/sites/default/files/barataria-ndvi-falsecolor.jpg)

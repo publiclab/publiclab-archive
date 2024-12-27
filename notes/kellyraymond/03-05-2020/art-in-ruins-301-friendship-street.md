@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-301-friendship-street.md
 nid: 23058
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (301 Friendship Street)

@@ -7,6 +7,8 @@ path: /notes/clauds/04-28-2016/camp-code-how-to-navigate-a-refugee-settlement.md
 nid: 13043
 uid: 43867
 
+cids: 14734
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/831/original/mansell-camp-code-18-1020x1020.jpg)

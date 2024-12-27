@@ -7,6 +7,8 @@ path: /notes/liz/9-13-2012/above-so-below-higher-ed-workshop.md
 nid: 3802
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/As above so below flyer.png)

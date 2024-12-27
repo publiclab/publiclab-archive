@@ -7,6 +7,8 @@ path: /notes/liz/08-03-2017/what-do-the-terms-attainment-and-nonattainment-mean.
 nid: 14717
 uid: 7
 
+cids: 22554,22555
+
 ---
 
 # What do the terms attainment and nonattainment mean?

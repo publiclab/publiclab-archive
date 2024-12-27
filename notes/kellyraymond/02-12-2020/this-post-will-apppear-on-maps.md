@@ -7,6 +7,8 @@ path: /notes/kellyraymond/02-12-2020/this-post-will-apppear-on-maps.md
 nid: 22777
 uid: 664202
 
+cids: 
+
 ---
 
 # This post will apppear on maps

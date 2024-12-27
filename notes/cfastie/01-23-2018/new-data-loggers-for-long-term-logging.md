@@ -7,6 +7,8 @@ path: /notes/cfastie/01-23-2018/new-data-loggers-for-long-term-logging.md
 nid: 15597
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/316/original/IMG_20180118_130424122.jpg)

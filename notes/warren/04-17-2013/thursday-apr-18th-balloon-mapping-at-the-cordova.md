@@ -7,6 +7,8 @@ path: /notes/warren/04-17-2013/thursday-apr-18th-balloon-mapping-at-the-cordova.
 nid: 6875
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/068/original/decordova.png)

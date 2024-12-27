@@ -7,6 +7,8 @@ path: /notes/fez/02-01-2017/diy-methods-for-nitrate-detection-in-food.md
 nid: 13893
 uid: 502511
 
+cids: 18345,22790
+
 ---
 
 # DIY methods for nitrate detection in food?

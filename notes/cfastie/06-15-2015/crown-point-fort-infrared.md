@@ -7,6 +7,8 @@ path: /notes/cfastie/06-15-2015/crown-point-fort-infrared.md
 nid: 11980
 uid: 554
 
+cids: 11968,11970
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/346/original/CPFortWr15-629-373CIR2k.jpg)

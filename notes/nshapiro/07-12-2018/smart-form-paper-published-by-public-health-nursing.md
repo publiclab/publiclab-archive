@@ -7,6 +7,8 @@ path: /notes/nshapiro/07-12-2018/smart-form-paper-published-by-public-health-nur
 nid: 16709
 uid: 380298
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/566/original/Formaldehyde-icon-A-2017-1n08u6a-150x150.png)

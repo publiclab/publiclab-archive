@@ -7,6 +7,8 @@ path: /notes/plam/03-31-2017/infragrammer-webgl-hsv-vs-standard-equations.md
 nid: 14069
 uid: 504901
 
+cids: 17175
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/973/original/Comparison.jpg)

@@ -7,6 +7,8 @@ path: /notes/shanlter/12-17-2015/waterfilter-kits-for-rural-chinese.md
 nid: 12528
 uid: 420999
 
+cids: 13155,13177,13358
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/389/original/2015-12-06_14.15.19.jpg)

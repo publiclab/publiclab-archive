@@ -7,6 +7,8 @@ path: /notes/rgardaphe/01-10-2019/call-for-early-adopters-to-test-uploading-data
 nid: 18096
 uid: 530432
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/696/original/Screen_Shot_2019-01-10_at_11.03.47_AM.png)

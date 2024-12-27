@@ -7,6 +7,8 @@ path: /notes/warren/09-05-2019/congratulations-to-our-2019-outreachy-and-google-
 nid: 20777
 uid: 1
 
+cids: 25448,25450
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/140/original/IMG20190819190114.jpg)

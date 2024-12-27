@@ -7,6 +7,8 @@ path: /notes/warren/09-25-2013/stepped-slit-tests.md
 nid: 9373
 uid: 1
 
+cids: 7020,7021,7023,7028,19553,19559,19560,19561
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/681/original/Screen_Shot_2013-09-25_at_9.10.33_AM.png)

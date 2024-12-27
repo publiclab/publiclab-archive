@@ -7,6 +7,8 @@ path: /06-16-2022/imtt-explosions-need-for-purple-air-in-st-rose.md
 nid: 31060
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/770/original/june_13_2022_imtt_explosion_no_offsite_impacts_st_charles_parish_oil_terminal.png)

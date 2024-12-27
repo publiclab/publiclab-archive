@@ -7,6 +7,8 @@ path: /notes/warren/02-13-2015/announcing-mapknitter-2-0.md
 nid: 11582
 uid: 1
 
+cids: 11167
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/965/original/mk2.1.png)

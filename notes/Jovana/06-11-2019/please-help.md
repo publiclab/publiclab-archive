@@ -7,6 +7,8 @@ path: /notes/Jovana/06-11-2019/please-help.md
 nid: 19659
 uid: 596357
 
+cids: 
+
 ---
 
 # please help!

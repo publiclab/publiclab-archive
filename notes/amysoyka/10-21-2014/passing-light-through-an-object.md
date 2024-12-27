@@ -7,6 +7,8 @@ path: /notes/amysoyka/10-21-2014/passing-light-through-an-object.md
 nid: 11286
 uid: 422627
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/566/original/IMG_20141019_235745.jpg)

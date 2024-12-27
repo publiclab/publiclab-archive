@@ -7,6 +7,8 @@ path: /notes/bhamster/07-20-2021/event-welcome-to-a-public-research-area-review-
 nid: 27205
 uid: 664477
 
+cids: 29041,29048,29049,29050,29051,29052,29053,29061,29068
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/431/original/sewage-pipe-polluted-water_copy.jpg)

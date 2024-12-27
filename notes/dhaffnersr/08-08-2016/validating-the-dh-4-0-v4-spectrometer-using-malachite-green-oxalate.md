@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-08-2016/validating-the-dh-4-0-v4-spectrometer-using-m
 nid: 13340
 uid: 461120
 
+cids: 20436
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/426/original/malachite_green.png)

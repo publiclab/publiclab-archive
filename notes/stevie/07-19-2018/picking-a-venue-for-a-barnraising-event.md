@@ -7,6 +7,8 @@ path: /notes/stevie/07-19-2018/picking-a-venue-for-a-barnraising-event.md
 nid: 16753
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/804/original/2015-barnraising-dinner.jpg)

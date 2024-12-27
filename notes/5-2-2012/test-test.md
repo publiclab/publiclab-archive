@@ -7,6 +7,8 @@ path: /notes/5-2-2012/test-test.md
 nid: 2101
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/16_medium_0.png)

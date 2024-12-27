@@ -7,6 +7,8 @@ path: /notes/dplus/2-3-2013/fake-alcoholic-drinks.md
 nid: 5879
 uid: 49040
 
+cids: 3335,3337
+
 ---
 
 # Fake alcoholic drinks

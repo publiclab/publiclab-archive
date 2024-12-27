@@ -7,6 +7,8 @@ path: /notes/cfastie/12-25-2014/santa-s-first-stop.md
 nid: 11497
 uid: 554
 
+cids: 11005,11029
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/536/original/3DXmas-557-33.jpg)

@@ -7,6 +7,8 @@ path: /notes/WhiteRabbit/07-29-2014/question.md
 nid: 10993
 uid: 425996
 
+cids: 9704,9705,9706,9714,9724,9725,9739,22569
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/665/original/greengrass.jpg)

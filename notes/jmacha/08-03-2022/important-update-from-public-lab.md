@@ -7,6 +7,8 @@ path: /notes/jmacha/08-03-2022/important-update-from-public-lab.md
 nid: 34816
 uid: 423019
 
+cids: 30604,30628,30655,30661,30726,30733,30734,30807,30815,30879,31274,31306,31534
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/933/original/Public_Lab_Banner.png)

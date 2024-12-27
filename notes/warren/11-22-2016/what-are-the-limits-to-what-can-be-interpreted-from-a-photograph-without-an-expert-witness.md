@@ -7,6 +7,8 @@ path: /notes/warren/11-22-2016/what-are-the-limits-to-what-can-be-interpreted-fr
 nid: 13720
 uid: 1
 
+cids: 
+
 ---
 
 # What are the limits to what can be interpreted from a photograph without an expert witness?

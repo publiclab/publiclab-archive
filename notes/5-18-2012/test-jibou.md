@@ -7,6 +7,8 @@ path: /notes/5-18-2012/test-jibou.md
 nid: 2127
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0445_medium.JPG)

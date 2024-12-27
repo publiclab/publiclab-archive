@@ -7,6 +7,8 @@ path: /notes/TJRobinson/10-19-2016/tjrobinson-10-19-16.md
 nid: 13588
 uid: 494873
 
+cids: 
+
 ---
 
 # TJRobinson 10/19/16

@@ -7,6 +7,8 @@ path: /notes/brooksdr/09-12-2014/question-retrieving-true-color-image-from-infra
 nid: 11135
 uid: 427254
 
+cids: 10286,10287,22856
+
 ---
 
 # Question: retrieving true color image from infragram images

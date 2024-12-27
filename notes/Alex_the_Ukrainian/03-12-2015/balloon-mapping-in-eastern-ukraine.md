@@ -7,6 +7,8 @@ path: /notes/Alex_the_Ukrainian/03-12-2015/balloon-mapping-in-eastern-ukraine.md
 nid: 11673
 uid: 436428
 
+cids: 11323,11342,11359,11361,11363,11364,11366,11413,11437,11439
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/510/original/hello_from_kharkiv.jpg)

@@ -7,6 +7,8 @@ path: /notes/Matej/02-12-2016/collecting-oil-sheen-on-newtown-creek-dutch-kills-
 nid: 12681
 uid: 451808
 
+cids: 13601,13611,13612,13618
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/262/original/DSC09004.JPG)

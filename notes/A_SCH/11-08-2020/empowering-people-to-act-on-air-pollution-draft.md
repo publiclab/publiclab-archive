@@ -7,6 +7,8 @@ path: /notes/A_SCH/11-08-2020/empowering-people-to-act-on-air-pollution-draft.md
 nid: 24956
 uid: 704145
 
+cids: 27636,27731,27735,27739,27774,27775,27776
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/840/original/Screen_Shot_2020-11-28_at_3.28.48_PM.png)

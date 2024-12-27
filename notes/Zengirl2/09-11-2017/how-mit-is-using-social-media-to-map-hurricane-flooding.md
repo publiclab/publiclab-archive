@@ -7,6 +7,8 @@ path: /notes/Zengirl2/09-11-2017/how-mit-is-using-social-media-to-map-hurricane-
 nid: 14874
 uid: 423961
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/606/original/MITFLOOD.jpg)

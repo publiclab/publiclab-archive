@@ -7,6 +7,8 @@ path: /notes/micheletobias/11-26-2011/intertidal-zone-leo-carrillo-state-park-ca
 nid: 585
 uid: 149
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/LC_Panorama.jpg)

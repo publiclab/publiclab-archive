@@ -7,6 +7,8 @@ path: /notes/gonzoearth/1-5-2012/indiemapper-now-free.md
 nid: 681
 uid: 12
 
+cids: 
+
 ---
 
 # indiemapper is now free

@@ -7,6 +7,8 @@ path: /notes/cfastie/05-11-2017/dual-ndvi-ultra-probe-unit.md
 nid: 14177
 uid: 554
 
+cids: 16743,16744,16751,16755,16756,16774,18221,20164,24874
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/405/original/nanolog_20170508-8619psc.jpg)

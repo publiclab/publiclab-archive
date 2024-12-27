@@ -7,6 +7,8 @@ path: /notes/axman/11-20-2016/photoreactive-purple-dye-can-it-block-wavelengths-
 nid: 13713
 uid: 497547
 
+cids: 15864,16314
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/866/original/spectra.png)

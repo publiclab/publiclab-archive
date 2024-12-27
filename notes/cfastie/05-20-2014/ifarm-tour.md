@@ -7,6 +7,8 @@ path: /notes/cfastie/05-20-2014/ifarm-tour.md
 nid: 10486
 uid: 554
 
+cids: 9052,27879
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/314/original/iFarmSat2757.jpg)

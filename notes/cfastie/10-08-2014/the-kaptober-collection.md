@@ -7,6 +7,8 @@ path: /notes/cfastie/10-08-2014/the-kaptober-collection.md
 nid: 11253
 uid: 554
 
+cids: 10541
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/382/original/KAPtober-538-26.jpg)

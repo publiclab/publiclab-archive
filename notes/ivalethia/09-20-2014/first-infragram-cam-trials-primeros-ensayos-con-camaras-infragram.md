@@ -7,6 +7,8 @@ path: /notes/ivalethia/09-20-2014/first-infragram-cam-trials-primeros-ensayos-co
 nid: 11165
 uid: 423004
 
+cids: 10357,10359,10380,10384,10406,10428,10431,10432,10433
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/926/original/SONY-DSC-P41-LANDSCAPE.1_1_.jpg)

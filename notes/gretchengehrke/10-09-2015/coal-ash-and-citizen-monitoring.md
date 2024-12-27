@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/10-09-2015/coal-ash-and-citizen-monitoring.md
 nid: 12287
 uid: 430549
 
+cids: 12706,13200,13228
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/895/original/DanRiverCoalAsh_creditLivingOnEarth.jpg)

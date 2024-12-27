@@ -7,6 +7,8 @@ path: /notes/shannon/12-19-2011/cit-sci-eye-earth-conf.md
 nid: 650
 uid: 9
 
+cids: 
+
 ---
 
 # Cit. Sci. from Eye on Earth conf.

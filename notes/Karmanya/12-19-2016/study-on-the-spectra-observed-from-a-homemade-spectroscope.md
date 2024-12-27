@@ -7,6 +7,8 @@ path: /notes/Karmanya/12-19-2016/study-on-the-spectra-observed-from-a-homemade-s
 nid: 13795
 uid: 500347
 
+cids: 16001
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/075/original/Spectrum-wave-radio-signal-frequency-5-600x285.jpg)

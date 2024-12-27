@@ -7,6 +7,8 @@ path: /notes/a1ahna/11-13-2018/landfill-mapping-with-oakville-community-action-g
 nid: 17544
 uid: 518193
 
+cids: 21717,21722,27728
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/641/original/IMG_4496.JPG)

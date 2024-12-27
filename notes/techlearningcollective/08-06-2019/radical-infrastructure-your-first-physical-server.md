@@ -7,6 +7,8 @@ path: /notes/techlearningcollective/08-06-2019/radical-infrastructure-your-first
 nid: 20446
 uid: 608717
 
+cids: 26015
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/383/original/workshop.radical-infrastructures.your-first-physical-server.rectangle.png)

@@ -7,6 +7,8 @@ path: /notes/naheimgastearl378/05-11-2021/mapknitter-map-of-balloon-mapping-in.m
 nid: 26552
 uid: 754790
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/748/original/IMG_9678.JPG)

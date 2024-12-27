@@ -7,6 +7,8 @@ path: /notes/eymund-diegel/12-6-2012/going-flow-grassroots-mapping-historic-stre
 nid: 5139
 uid: 1016
 
+cids: 3458
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8_2012_March_5_First Street Basin E-Waste Dump landfill at Gowanus Canal looking towards Carroll Bridge.JPG)

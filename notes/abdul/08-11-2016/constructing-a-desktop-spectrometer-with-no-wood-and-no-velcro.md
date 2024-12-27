@@ -7,6 +7,8 @@ path: /notes/abdul/08-11-2016/constructing-a-desktop-spectrometer-with-no-wood-a
 nid: 13345
 uid: 479194
 
+cids: 15113,15114,15115,15116,15266,15275,15379,15380,15390,15391,15428
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/546/original/FullDSK.jpg)

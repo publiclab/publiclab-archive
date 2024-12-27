@@ -7,6 +7,8 @@ path: /notes/Josep/11-25-2019/citizen-science-test.md
 nid: 21577
 uid: 640842
 
+cids: 
+
 ---
 
 # Citizen Science Test

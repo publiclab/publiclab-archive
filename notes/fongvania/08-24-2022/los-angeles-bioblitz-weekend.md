@@ -7,6 +7,8 @@ path: /notes/fongvania/08-24-2022/los-angeles-bioblitz-weekend.md
 nid: 34853
 uid: 754846
 
+cids: 30510
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/984/original/logo_v2.png)

@@ -7,6 +7,8 @@ path: /notes/jl/4-20-2012/slo-pre-flight.md
 nid: 1716
 uid: 587
 
+cids: 631,636,660,747,750,751
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-03-29_18-47-01_748.jpg)

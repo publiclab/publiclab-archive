@@ -7,6 +7,8 @@ path: /notes/kaustubh_nair/08-26-2019/gsoc19-mapknitter-rails-upgrade.md
 nid: 20667
 uid: 577485
 
+cids: 25382,25402
+
 ---
 
 # GSoC19: Mapknitter Rails Upgrade 

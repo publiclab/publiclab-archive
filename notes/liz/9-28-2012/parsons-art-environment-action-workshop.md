@@ -7,6 +7,8 @@ path: /notes/liz/9-28-2012/parsons-art-environment-action-workshop.md
 nid: 4087
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120928_175737_0.jpg)

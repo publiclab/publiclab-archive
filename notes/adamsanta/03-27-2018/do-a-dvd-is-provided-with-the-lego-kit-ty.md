@@ -7,6 +7,8 @@ path: /notes/adamsanta/03-27-2018/do-a-dvd-is-provided-with-the-lego-kit-ty.md
 nid: 16024
 uid: 528735
 
+cids: 19247
+
 ---
 
 # Do a DVD is provided with the LEGO kit ? ty !

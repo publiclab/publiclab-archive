@@ -7,6 +7,8 @@ path: /notes/illy/04-22-2022/outreachy-proposal-re-design-of-homepage-sandbox-fo
 nid: 30577
 uid: 793723
 
+cids: 30132
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/605/original/Sandbox_both.png)

@@ -7,6 +7,8 @@ path: /notes/familysimon/10-22-2019/dvd-vs-diffraction-grating-on-amazon-ebay.md
 nid: 21261
 uid: 630826
 
+cids: 25720,25749,25756,27048,30784
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/925/original/31Su-DcPGjL._AC_UL320_ML3_.jpg)

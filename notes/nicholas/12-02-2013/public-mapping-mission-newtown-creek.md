@@ -7,6 +7,8 @@ path: /notes/nicholas/12-02-2013/public-mapping-mission-newtown-creek.md
 nid: 9843
 uid: 53894
 
+cids: 7848,7946,16944
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/351/original/publicMapping_Final.png)

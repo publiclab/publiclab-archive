@@ -7,6 +7,8 @@ path: /notes/olivia/2-16-2012/finding-kite-flight-launch-sites-centerville.md
 nid: 792
 uid: 269
 
+cids: 472
+
 ---
 
 ![](https://publiclab.org/sites/default/files/grassrootsmapping.toolcomparison.jpg)

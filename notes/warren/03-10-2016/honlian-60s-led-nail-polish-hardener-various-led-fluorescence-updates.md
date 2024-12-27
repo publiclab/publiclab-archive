@@ -7,6 +7,8 @@ path: /notes/warren/03-10-2016/honlian-60s-led-nail-polish-hardener-various-led-
 nid: 12823
 uid: 1
 
+cids: 13843,13844,13846,13849,13860,13867,13868,13877,13878,13879
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/697/original/IMG_20160309_150758-2.jpg)

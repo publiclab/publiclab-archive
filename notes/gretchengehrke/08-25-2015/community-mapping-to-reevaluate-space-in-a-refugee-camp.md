@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/08-25-2015/community-mapping-to-reevaluate-space-in-
 nid: 12166
 uid: 430549
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/272/original/L1200326_small.JPG)

@@ -7,6 +7,8 @@ path: /notes/khufkens/04-24-2015/phenopi-a-citizen-science-phenology-monitoring-
 nid: 11766
 uid: 438931
 
+cids: 11526,11527,11528,11529,11530,11531,11532,11541,11542
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/687/original/Screen_Shot_2015-04-23_at_21.03.23.png)

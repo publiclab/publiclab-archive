@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-03-2016/slit-width-testing-and-comparisons-using-a-cf
 nid: 12770
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/648/original/slit_width_comparisons_mar3.png)

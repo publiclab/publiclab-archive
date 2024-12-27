@@ -7,6 +7,8 @@ path: /notes/brandta5/10-03-2015/spectroscopic-studies-of-beer.md
 nid: 12263
 uid: 453302
 
+cids: 12648,12797
+
 ---
 
 # Spectroscopic Studies of Beer

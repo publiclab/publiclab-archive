@@ -7,6 +7,8 @@ path: /notes/kksgandhi/01-08-2021/help-neu-researchers-build-better-citizen-scie
 nid: 25440
 uid: 735334
 
+cids: 27943,27944,27945,27946,27956
+
 ---
 
 # Help NEU researchers build better Citizen Science games [CLOSED]

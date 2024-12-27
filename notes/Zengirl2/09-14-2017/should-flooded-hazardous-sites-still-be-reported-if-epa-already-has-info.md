@@ -7,6 +7,8 @@ path: /notes/Zengirl2/09-14-2017/should-flooded-hazardous-sites-still-be-reporte
 nid: 14894
 uid: 423961
 
+cids: 22604,22605
+
 ---
 
 # Should Flooded Hazardous Sites Still Be Reported if EPA Already Has Info?

@@ -7,6 +7,8 @@ path: /notes/jschaffr/10-18-2011/hydrogen-sulfide-testing-black-and-white-film.m
 nid: 509
 uid: 315
 
+cids: 345,568,17878
+
 ---
 
 ![](https://publiclab.org/sites/default/files/slvrware-tarnish-280x300.jpg)

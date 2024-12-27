@@ -7,6 +7,8 @@ path: /notes/liz/03-01-2017/set-your-camera-to-take-pictures-continuously.md
 nid: 13981
 uid: 7
 
+cids: 16284,16288,16315
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/701/original/PebbleByMatL.png)

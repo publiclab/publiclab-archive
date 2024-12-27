@@ -7,6 +7,8 @@ path: /notes/bronwen/11-21-2017/power-connectivity-error-messages-with-dsk-3-0-c
 nid: 15216
 uid: 237313
 
+cids: 
+
 ---
 
 # Power & connectivity error messages with DSK 3.0 Cameras 

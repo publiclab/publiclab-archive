@@ -7,6 +7,8 @@ path: /notes/pablo/12-17-2012/repairing-kites-stick-fiber-glass-safety-marker.md
 nid: 5230
 uid: 160
 
+cids: 19373,19382
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_6975_0.JPG)

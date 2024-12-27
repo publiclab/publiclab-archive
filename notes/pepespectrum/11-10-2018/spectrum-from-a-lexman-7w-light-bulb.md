@@ -7,6 +7,8 @@ path: /notes/pepespectrum/11-10-2018/spectrum-from-a-lexman-7w-light-bulb.md
 nid: 17508
 uid: 558785
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/588/original/espectro.jpg)

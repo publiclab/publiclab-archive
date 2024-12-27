@@ -7,6 +7,8 @@ path: /notes/mathew/12-15-2014/csi-creek-scene-investigators-public-lab-tv.md
 nid: 11461
 uid: 4
 
+cids: 10949,10959,10960,10965,27416
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/409/original/2014_Gowanus_CSI_Unit_Cold_Cases_The_Creek_Scene_Investigation_Clue_Kit.jpg)

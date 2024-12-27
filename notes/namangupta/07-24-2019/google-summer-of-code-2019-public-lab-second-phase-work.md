@@ -7,6 +7,8 @@ path: /notes/namangupta/07-24-2019/google-summer-of-code-2019-public-lab-second-
 nid: 20273
 uid: 522848
 
+cids: 25122
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/088/original/download.png)

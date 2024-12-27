@@ -7,6 +7,8 @@ path: /notes/stevie/10-17-2014/dusthack-event-menomonie-wisconsin.md
 nid: 11273
 uid: 422561
 
+cids: 10576,10588,10630,10633,12327,12328,12329
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/463/original/DustHack.JPG)

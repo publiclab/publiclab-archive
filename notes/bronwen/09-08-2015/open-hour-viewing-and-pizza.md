@@ -7,6 +7,8 @@ path: /notes/bronwen/09-08-2015/open-hour-viewing-and-pizza.md
 nid: 12206
 uid: 237313
 
+cids: 12523
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/516/original/Pizza_theorem_example.jpg)

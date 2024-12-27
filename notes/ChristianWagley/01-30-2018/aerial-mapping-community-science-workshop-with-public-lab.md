@@ -7,6 +7,8 @@ path: /notes/ChristianWagley/01-30-2018/aerial-mapping-community-science-worksho
 nid: 15641
 uid: 521037
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/401/original/20171021_130739.jpg)

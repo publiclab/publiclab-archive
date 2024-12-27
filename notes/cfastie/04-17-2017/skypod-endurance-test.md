@@ -7,6 +7,8 @@ path: /notes/cfastie/04-17-2017/skypod-endurance-test.md
 nid: 14116
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/142/original/IMG_20170415_185404.jpg)

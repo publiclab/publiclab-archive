@@ -7,6 +7,8 @@ path: /notes/warren/12-14-2011/thermal-crop-mapping-bicycle.md
 nid: 636
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20111214_114529-1.jpg)

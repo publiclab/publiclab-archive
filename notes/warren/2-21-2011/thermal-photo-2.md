@@ -7,6 +7,8 @@ path: /notes/warren/2-21-2011/thermal-photo-2.md
 nid: 97
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/mon-21.jpg)

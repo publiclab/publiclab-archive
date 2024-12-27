@@ -7,6 +7,8 @@ path: /notes/frabisog/03-22-2015/question-purchase-sensor.md
 nid: 11713
 uid: 435648
 
+cids: 11390,11396
+
 ---
 
 # Question: purchase sensor

@@ -7,6 +7,8 @@ path: /notes/shanlter/01-31-2016/the-open-burning-of-textile-waste.md
 nid: 12638
 uid: 420999
 
+cids: 13449,13511,16036
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/010/original/%3F%3F%3F%3F_2016-01-31_%3F%3F8.57.41.png)

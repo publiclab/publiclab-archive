@@ -7,6 +7,8 @@ path: /notes/quinn-codes-synthesis/10-29-2018/outreachy-proposal.md
 nid: 17419
 uid: 553069
 
+cids: 21056,21057,21098,21100,21126,21134
+
 ---
 
 # Outreachy proposal

@@ -7,6 +7,8 @@ path: /notes/calvrix/04-02-2017/graph-editor-for-image-sequencer.md
 nid: 14079
 uid: 503867
 
+cids: 16539,16554
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/016/original/Screenshot_from_2017-04-02_11-53-34.png)

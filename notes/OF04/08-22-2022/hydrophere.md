@@ -7,6 +7,8 @@ path: /notes/OF04/08-22-2022/hydrophere.md
 nid: 34893
 uid: 810245
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/050/original/1200px-Big_Spring_Missouri_1-02Aug08.jpg)

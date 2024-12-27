@@ -7,6 +7,8 @@ path: /notes/warren/8-29-2012/refractometer-hands.md
 nid: 3551
 uid: 1
 
+cids: 1227,1235,1245
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0591.JPG)

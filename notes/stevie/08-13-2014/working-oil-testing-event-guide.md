@@ -7,6 +7,8 @@ path: /notes/stevie/08-13-2014/working-oil-testing-event-guide.md
 nid: 11046
 uid: 422561
 
+cids: 9989,9990,10645
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/243/original/IMG_2342.JPG)

@@ -7,6 +7,8 @@ path: /notes/mathew/02-12-2014/snappicam-a-raspberry-pi-point-shoot.md
 nid: 10029
 uid: 4
 
+cids: 9215,9227
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/876/original/NewImage13.png)

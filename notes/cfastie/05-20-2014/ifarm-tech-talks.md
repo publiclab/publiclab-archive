@@ -7,6 +7,8 @@ path: /notes/cfastie/05-20-2014/ifarm-tech-talks.md
 nid: 10485
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/299/original/iFarmSat2688.jpg)

@@ -7,6 +7,8 @@ path: /notes/mathew/09-12-2014/fluorescence-spectroscopy-with-the-foldup-gelcap.
 nid: 11132
 uid: 4
 
+cids: 10265,10268,10277,10278,12795,12798
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/780/original/IMG_20140911_201544.jpg)

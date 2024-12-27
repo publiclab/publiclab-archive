@@ -7,6 +7,8 @@ path: /notes/efukuda/10-07-2015/water-pollution-riffle-project.md
 nid: 12274
 uid: 453502
 
+cids: 
+
 ---
 
 # Water Pollution (Riffle) Project

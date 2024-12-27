@@ -7,6 +7,8 @@ path: /notes/MaggPi/06-21-2018/infrared-insect-microscopy.md
 nid: 16540
 uid: 501996
 
+cids: 19848,19849,19851,19880,19883,21380,21393,27714
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/254/original/Slide4.JPG)

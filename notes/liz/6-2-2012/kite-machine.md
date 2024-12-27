@@ -7,6 +7,8 @@ path: /notes/liz/6-2-2012/kite-machine.md
 nid: 2309
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120602_155121.jpg)

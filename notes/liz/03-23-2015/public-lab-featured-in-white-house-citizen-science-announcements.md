@@ -7,6 +7,8 @@ path: /notes/liz/03-23-2015/public-lab-featured-in-white-house-citizen-science-a
 nid: 11716
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/398/original/Screen_Shot_2015-03-23_at_11.07.29_AM.png)

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-06-2016/dh-4-0-v4-spectrometer-build-illustrations-mo
 nid: 13337
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/410/original/PIC_0458.JPG)

@@ -7,6 +7,8 @@ path: /notes/mathew/05-28-2013/bugs-in-ir.md
 nid: 7944
 uid: 4
 
+cids: 4870,4888
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/425/original/IMG_1366_ir.jpg)

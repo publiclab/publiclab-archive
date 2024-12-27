@@ -7,6 +7,8 @@ path: /notes/patcoyle/2-21-2013/initial-experiences-sx260hs-gps.md
 nid: 6083
 uid: 77
 
+cids: 3527,3528,3531,3541,3542,15004
+
 ---
 
 ![](https://publiclab.org/sites/default/files/SX260HS flight tracks.jpg)

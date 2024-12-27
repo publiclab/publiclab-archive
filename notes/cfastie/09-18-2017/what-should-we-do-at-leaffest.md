@@ -7,6 +7,8 @@ path: /notes/cfastie/09-18-2017/what-should-we-do-at-leaffest.md
 nid: 14904
 uid: 554
 
+cids: 17393,17471,22608,22609,22610,22611,22612,22613,22637,22638,22640
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/699/original/LEAF2016_20160918-6881.JPG)

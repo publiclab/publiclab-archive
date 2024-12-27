@@ -7,6 +7,8 @@ path: /notes/julia_e_masters/09-23-2021/open-source-technology-is-integral-to-eq
 nid: 27787
 uid: 756220
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/849/original/10049079664_59cd98d4fd_c.jpg)

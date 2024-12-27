@@ -7,6 +7,8 @@ path: /notes/kramadan/11-05-2018/outreachy-proposal-planning-for-expanded-commun
 nid: 17473
 uid: 558057
 
+cids: 21186,21212
+
 ---
 
 # Outreachy proposal: Planning for expanded community stats system

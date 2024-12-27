@@ -7,6 +7,8 @@ path: /notes/liz/07-23-2014/northshore-staten-island-mapstitching-event.md
 nid: 10952
 uid: 7
 
+cids: 9598,9600,9712,9713,9742
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/459/original/002.JPG)

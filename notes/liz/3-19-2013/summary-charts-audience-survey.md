@@ -7,6 +7,8 @@ path: /notes/liz/3-19-2013/summary-charts-audience-survey.md
 nid: 6432
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2013-03-19 at 2.00.50 PM.png)

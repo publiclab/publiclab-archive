@@ -7,6 +7,8 @@ path: /notes/kgradow1/10-21-2020/how-to-keep-a-pollution-log.md
 nid: 24788
 uid: 297929
 
+cids: 27618,27630,27631
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/194/original/Screen_Shot_2020-10-21_at_4.51.25_PM.jpg)

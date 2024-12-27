@@ -7,6 +7,8 @@ path: /notes/Gregory_Jasmine/10-05-2015/balloon-mapping-lab-5.md
 nid: 12267
 uid: 453039
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/762/original/P1030699.JPG)

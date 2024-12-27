@@ -7,6 +7,8 @@ path: /notes/Yeipi/03-26-2018/measuring-pollen.md
 nid: 16021
 uid: 528684
 
+cids: 19209,19213,19246,19946,19947,23038,23044
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/207/original/276mrc.gif)

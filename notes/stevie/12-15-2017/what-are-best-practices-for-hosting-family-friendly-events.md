@@ -7,6 +7,8 @@ path: /notes/stevie/12-15-2017/what-are-best-practices-for-hosting-family-friend
 nid: 15384
 uid: 422561
 
+cids: 18094,22807
+
 ---
 
 # What are best practices for hosting family friendly events? 

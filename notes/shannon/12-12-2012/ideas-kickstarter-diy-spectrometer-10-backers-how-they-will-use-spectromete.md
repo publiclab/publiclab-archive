@@ -7,6 +7,8 @@ path: /notes/shannon/12-12-2012/ideas-kickstarter-diy-spectrometer-10-backers-ho
 nid: 5182
 uid: 9
 
+cids: 2744
+
 ---
 
 # Ideas from the $10 Kickstarter backers on how they will use the spectrometer

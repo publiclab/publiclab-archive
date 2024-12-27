@@ -7,6 +7,8 @@ path: /notes/cfastie/10-25-2015/uncontrolled-reentry.md
 nid: 12333
 uid: 554
 
+cids: 12778,12779,12784
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/137/original/PetriTub176aLP2k.jpg)

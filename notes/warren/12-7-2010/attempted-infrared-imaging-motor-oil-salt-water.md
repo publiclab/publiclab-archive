@@ -7,6 +7,8 @@ path: /notes/warren/12-7-2010/attempted-infrared-imaging-motor-oil-salt-water.md
 nid: 7
 uid: 1
 
+cids: 3,17285,17286
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/763/original/elderberry-litmus-paper-home-made_th.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/2-19-2011/guides-wiki-page.md
 nid: 91
 uid: 1
 
+cids: 
+
 ---
 
 # Guides wiki page

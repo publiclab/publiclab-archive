@@ -7,6 +7,8 @@ path: /notes/silentsairam/05-09-2019/detect-hydrogen-sulfide-fart-in-public-toil
 nid: 19288
 uid: 553044
 
+cids: 24095,24106,24107
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/863/original/2019-03-26_11_04_08-COM90.png)

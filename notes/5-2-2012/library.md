@@ -7,6 +7,8 @@ path: /notes/5-2-2012/library.md
 nid: 2099
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3251_medium_2.JPG)

@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-04-2020/art-in-ruins-40-church-street.md
 nid: 23009
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (40 Church Street)

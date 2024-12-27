@@ -7,6 +7,8 @@ path: /notes/warren/02-07-2014/public-lab-community-newsletter-february-7-2014.m
 nid: 10019
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/822/original/Screen_Shot_2014-02-07_at_5.41.17_PM.png)

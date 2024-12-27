@@ -7,6 +7,8 @@ path: /notes/keerthana06/05-22-2021/mechatronics-project-ideas.md
 nid: 26676
 uid: 754722
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/901/original/MECHATRONICS1.jpg)

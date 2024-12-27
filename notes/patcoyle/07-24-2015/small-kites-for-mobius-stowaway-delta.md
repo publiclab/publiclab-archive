@@ -7,6 +7,8 @@ path: /notes/patcoyle/07-24-2015/small-kites-for-mobius-stowaway-delta.md
 nid: 12098
 uid: 77
 
+cids: 12272,12273,12291,12304,12317,12343,12345
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/891/original/w_images_crpd.jpg)

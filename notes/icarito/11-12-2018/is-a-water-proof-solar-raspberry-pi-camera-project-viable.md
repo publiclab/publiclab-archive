@@ -7,6 +7,8 @@ path: /notes/icarito/11-12-2018/is-a-water-proof-solar-raspberry-pi-camera-proje
 nid: 17526
 uid: 448589
 
+cids: 21220,21222,21254,21256,21266,21269,21286,21301,23286
+
 ---
 
 # Is a Water Proof Solar Raspberry Pi Camera project viable?

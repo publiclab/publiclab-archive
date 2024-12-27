@@ -7,6 +7,8 @@ path: /notes/ajongafaczinkeng/04-19-2022/outreachy-proposal-design-and-implement
 nid: 30487
 uid: 795065
 
+cids: 30052,30107,30114
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/129/original/SharedScreenshot.jpg)

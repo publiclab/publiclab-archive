@@ -7,6 +7,8 @@ path: /notes/warren/11-9-2011/paper-comparison-orthorectification-methods-suitab
 nid: 553
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ortho.png)

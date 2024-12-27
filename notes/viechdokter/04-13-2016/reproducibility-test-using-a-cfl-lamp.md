@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-13-2016/reproducibility-test-using-a-cfl-lamp.md
 nid: 12966
 uid: 468990
 
+cids: 14208,14214,14215,14218,14219,14221
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/515/original/CFL_reproducibility_animation.gif)

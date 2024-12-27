@@ -7,6 +7,8 @@ path: /notes/warren/07-25-2018/public-lab-nonprofit-job-posting-user-interface-d
 nid: 16775
 uid: 1
 
+cids: 20533
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/858/original/pl-narrow.png)

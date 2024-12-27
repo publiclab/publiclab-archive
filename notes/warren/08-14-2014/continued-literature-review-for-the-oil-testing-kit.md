@@ -7,6 +7,8 @@ path: /notes/warren/08-14-2014/continued-literature-review-for-the-oil-testing-k
 nid: 11053
 uid: 1
 
+cids: 10003,10029,10032,10036
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/274/original/saturation.png)

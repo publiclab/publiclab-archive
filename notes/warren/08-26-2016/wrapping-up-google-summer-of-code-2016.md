@@ -7,6 +7,8 @@ path: /notes/warren/08-26-2016/wrapping-up-google-summer-of-code-2016.md
 nid: 13397
 uid: 1
 
+cids: 15250,15273
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/774/original/Screenshot_2016-08-26_at_11.44.16_AM.png)

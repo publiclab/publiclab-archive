@@ -7,6 +7,8 @@ path: /notes/fieldlab/05-06-2016/quantitative-analysis-using-paper-based-kits.md
 nid: 13083
 uid: 446122
 
+cids: 14558,14561,14576,14601,17905
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/972/original/G0014811.JPG)

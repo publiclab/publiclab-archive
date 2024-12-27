@@ -7,6 +7,8 @@ path: /notes/nedhorning/06-23-2014/calibrating-raw-images-a-step-toward-jpeg-cal
 nid: 10607
 uid: 133
 
+cids: 9252,9254,9257,10504,11585,11586,11594,11600,13143,13145,13534
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/950/original/RedNIR_Plots.png)

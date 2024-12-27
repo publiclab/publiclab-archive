@@ -7,6 +7,8 @@ path: /notes/DanielleS/01-22-2019/how-do-you-test-for-oil-and-gas-related-contam
 nid: 18162
 uid: 569208
 
+cids: 21795,21796,21805
+
 ---
 
 # How do you test for oil and gas-related contaminants in soils? 

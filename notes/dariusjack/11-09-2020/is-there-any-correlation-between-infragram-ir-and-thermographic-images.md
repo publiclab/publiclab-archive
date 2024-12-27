@@ -7,6 +7,8 @@ path: /notes/dariusjack/11-09-2020/is-there-any-correlation-between-infragram-ir
 nid: 25023
 uid: 728980
 
+cids: 27649
+
 ---
 
 # Is there any correlation between Infragram, IR and Thermographic images ?

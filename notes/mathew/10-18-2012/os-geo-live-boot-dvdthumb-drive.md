@@ -7,6 +7,8 @@ path: /notes/mathew/10-18-2012/os-geo-live-boot-dvdthumb-drive.md
 nid: 4482
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/osgeolive_menu.png)

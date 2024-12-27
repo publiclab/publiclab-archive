@@ -7,6 +7,8 @@ path: /notes/mcmurrandavid/03-18-2020/nga-puna-wai.md
 nid: 23164
 uid: 675072
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/596/original/DJI_0514.JPG)

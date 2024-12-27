@@ -7,6 +7,8 @@ path: /notes/claudsmm/08-23-2015/lessons-from-mapping-bourj-al-shamali-refugee-c
 nid: 12161
 uid: 43867
 
+cids: 12433,12434,12438,12442,12444,12448,12477,12481,12483,12484,12485
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/254/original/IMG_0700_small.JPG)

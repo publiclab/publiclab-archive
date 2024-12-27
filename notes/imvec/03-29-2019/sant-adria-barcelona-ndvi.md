@@ -7,6 +7,8 @@ path: /notes/imvec/03-29-2019/sant-adria-barcelona-ndvi.md
 nid: 18899
 uid: 495038
 
+cids: 23542,30293
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/857/original/gasnatural.jpg)

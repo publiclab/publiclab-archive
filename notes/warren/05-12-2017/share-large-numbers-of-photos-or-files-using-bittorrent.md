@@ -7,6 +7,8 @@ path: /notes/warren/05-12-2017/share-large-numbers-of-photos-or-files-using-bitt
 nid: 14183
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/427/original/Screen_Shot_2017-05-12_at_12.37.31_PM.png)

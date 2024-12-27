@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-01-2015/mobius-non-fish-eye-lens-conversion.md
 nid: 12112
 uid: 77
 
+cids: 12302,12303,12974
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/976/original/IMAG0159.JPG)

@@ -7,6 +7,8 @@ path: /notes/JHYeh/01-02-2019/can-detect-the-camara-but-can-t-show-image.md
 nid: 18045
 uid: 516902
 
+cids: 21609
+
 ---
 
 # Can detect the camara,but can't show image

@@ -7,6 +7,8 @@ path: /notes/mathew/02-02-2017/minivol-pre-deployment-preparation.md
 nid: 13898
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/421/original/20170109_144838.jpg)

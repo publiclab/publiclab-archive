@@ -7,6 +7,8 @@ path: /notes/skoci/07-27-2016/question-joining.md
 nid: 13312
 uid: 483438
 
+cids: 15037,15290,22245
+
 ---
 
 # Question: Joining

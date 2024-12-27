@@ -7,6 +7,8 @@ path: /notes/gbathree/01-20-2014/testing-photosynq-in-a-greenhouse.md
 nid: 9960
 uid: 53164
 
+cids: 8062,8063,8226,8244,8257,8269
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/586/original/PANO_20140114_145307.jpg)

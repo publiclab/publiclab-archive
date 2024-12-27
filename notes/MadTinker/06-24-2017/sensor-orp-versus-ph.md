@@ -7,6 +7,8 @@ path: /notes/MadTinker/06-24-2017/sensor-orp-versus-ph.md
 nid: 14578
 uid: 461206
 
+cids: 22514,22515
+
 ---
 
 # Sensor: ORP versus PH

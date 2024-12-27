@@ -7,6 +7,8 @@ path: /notes/ranon/07-07-2016/reconfigurable-rig.md
 nid: 13267
 uid: 477060
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/893/original/Tilt_Mechanism_%28v3_recovered%29.png)

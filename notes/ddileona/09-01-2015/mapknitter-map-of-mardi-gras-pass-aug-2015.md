@@ -7,6 +7,8 @@ path: /notes/ddileona/09-01-2015/mapknitter-map-of-mardi-gras-pass-aug-2015.md
 nid: 12190
 uid: 436738
 
+cids: 12488
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/367/original/IMG_7380.JPG)

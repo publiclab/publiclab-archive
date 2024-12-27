@@ -7,6 +7,8 @@ path: /notes/warren/08-11-2014/visible-range-fluorescence-fingerprinting-of-heat
 nid: 11037
 uid: 1
 
+cids: 9873
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/218/original/comparison.png)

@@ -7,6 +7,8 @@ path: /notes/anniecarroll13/02-24-2016/use-of-sensors-in-journalism.md
 nid: 12743
 uid: 461509
 
+cids: 
+
 ---
 
 # Use of sensors in Journalism 

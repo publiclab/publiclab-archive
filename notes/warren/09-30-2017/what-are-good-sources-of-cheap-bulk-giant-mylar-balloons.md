@@ -7,6 +7,8 @@ path: /notes/warren/09-30-2017/what-are-good-sources-of-cheap-bulk-giant-mylar-b
 nid: 14983
 uid: 1
 
+cids: 22645
+
 ---
 
 # What are good sources of cheap bulk giant mylar balloons?

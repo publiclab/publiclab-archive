@@ -7,6 +7,8 @@ path: /notes/ruturaj_mohite/03-19-2020/gsoc-2020-proposal-spectral-workbench-rai
 nid: 23184
 uid: 658211
 
+cids: 26525,26526,26548,26568,26572,26573
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/640/original/gsoc.png)

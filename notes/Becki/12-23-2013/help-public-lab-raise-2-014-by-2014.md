@@ -7,6 +7,8 @@ path: /notes/Becki/12-23-2013/help-public-lab-raise-2-014-by-2014.md
 nid: 9913
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/447/original/staff_at_LUMCON.jpg)

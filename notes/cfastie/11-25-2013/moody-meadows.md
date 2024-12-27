@@ -7,6 +7,8 @@ path: /notes/cfastie/11-25-2013/moody-meadows.md
 nid: 9824
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/317/original/LEDRGB-283-58a.jpg)

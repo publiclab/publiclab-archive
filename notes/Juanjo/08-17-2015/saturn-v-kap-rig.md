@@ -7,6 +7,8 @@ path: /notes/Juanjo/08-17-2015/saturn-v-kap-rig.md
 nid: 12151
 uid: 447129
 
+cids: 12394,12397,12400,12404,17354,17355
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/156/original/IMG_6113.JPG)

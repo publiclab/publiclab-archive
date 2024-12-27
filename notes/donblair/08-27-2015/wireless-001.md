@@ -7,6 +7,8 @@ path: /notes/donblair/08-27-2015/wireless-001.md
 nid: 12175
 uid: 43651
 
+cids: 12458,12462,12478,12479
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/297/original/wireless.png)

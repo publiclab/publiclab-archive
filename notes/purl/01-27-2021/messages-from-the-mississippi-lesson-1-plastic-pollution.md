@@ -7,6 +7,8 @@ path: /notes/purl/01-27-2021/messages-from-the-mississippi-lesson-1-plastic-poll
 nid: 25560
 uid: 736598
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/826/original/EPA_flow_chart.png)

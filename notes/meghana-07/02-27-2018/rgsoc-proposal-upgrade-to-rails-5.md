@@ -7,6 +7,8 @@ path: /notes/meghana-07/02-27-2018/rgsoc-proposal-upgrade-to-rails-5.md
 nid: 15826
 uid: 526196
 
+cids: 18645,18648,18652,18793,18811,18812,19116,19188,19249
+
 ---
 
 # RGSoC proposal: Upgrade to Rails 5

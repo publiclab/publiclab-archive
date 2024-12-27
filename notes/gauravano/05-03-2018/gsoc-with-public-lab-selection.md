@@ -7,6 +7,8 @@ path: /notes/gauravano/05-03-2018/gsoc-with-public-lab-selection.md
 nid: 16295
 uid: 515081
 
+cids: 19558,19562,19563,19565
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/821/original/gsoc.png)

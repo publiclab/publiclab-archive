@@ -7,6 +7,8 @@ path: /notes/stoft/02-26-2015/plab-3-sanm-camera-focus.md
 nid: 11642
 uid: 54025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/104/original/Sanm1600x1200x24-FocusTest.jpg)

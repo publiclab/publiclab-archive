@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/06-11-2016/tested-3-high-powered-leds-red-blue-and-viole
 nid: 13188
 uid: 461120
 
+cids: 14779,14780,14781,14782
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/587/original/red_led_june11.bmp)

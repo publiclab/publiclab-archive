@@ -7,6 +7,8 @@ path: /notes/christie_reni/01-29-2020/new-features-in-leaflet-environmental-laye
 nid: 22425
 uid: 630062
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/806/original/crisner.github.io_leaflet-environmental-layers_example_index.html_%285%29.png)

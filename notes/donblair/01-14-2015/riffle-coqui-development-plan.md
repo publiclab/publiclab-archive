@@ -7,6 +7,8 @@ path: /notes/donblair/01-14-2015/riffle-coqui-development-plan.md
 nid: 11523
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/616/original/IMG_0846.JPG)

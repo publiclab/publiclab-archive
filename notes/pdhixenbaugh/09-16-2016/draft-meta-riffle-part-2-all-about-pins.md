@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/09-16-2016/draft-meta-riffle-part-2-all-about-pins.md
 nid: 13457
 uid: 459085
 
+cids: 15413
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/062/original/breadboardpins.png)

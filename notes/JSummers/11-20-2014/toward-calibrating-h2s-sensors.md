@@ -7,6 +7,8 @@ path: /notes/JSummers/11-20-2014/toward-calibrating-h2s-sensors.md
 nid: 11372
 uid: 304279
 
+cids: 10805
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/028/original/DOT_poison_label.png)

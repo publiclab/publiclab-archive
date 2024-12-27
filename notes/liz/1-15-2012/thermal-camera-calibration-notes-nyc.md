@@ -7,6 +7,8 @@ path: /notes/liz/1-15-2012/thermal-camera-calibration-notes-nyc.md
 nid: 688
 uid: 7
 
+cids: 406
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-01-15 at 7.27.48 PM.png)

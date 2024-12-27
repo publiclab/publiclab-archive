@@ -7,6 +7,8 @@ path: /notes/Cipis22/10-14-2015/mapknitter-map-of-isleta.md
 nid: 12300
 uid: 453842
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/948/original/IMG_2681.JPG)

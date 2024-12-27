@@ -7,6 +7,8 @@ path: /notes/nshapiro/01-23-2018/refining-the-user-interface-of-a-community-scie
 nid: 15589
 uid: 380298
 
+cids: 18258,18271,18272,18274,18477
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/299/original/Smart-Forms_wireframes-cropped-page-001.jpg)

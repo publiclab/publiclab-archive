@@ -7,6 +7,8 @@ path: /notes/gbathree/07-11-2013/measuring-algal-photosynthetic-activity-with-ph
 nid: 8850
 uid: 53164
 
+cids: 6303,6306
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/759/original/photosynqePBR.jpg)

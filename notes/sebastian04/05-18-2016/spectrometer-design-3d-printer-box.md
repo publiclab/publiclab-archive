@@ -7,6 +7,8 @@ path: /notes/sebastian04/05-18-2016/spectrometer-design-3d-printer-box.md
 nid: 13124
 uid: 470987
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/202/original/espectrof.PNG)

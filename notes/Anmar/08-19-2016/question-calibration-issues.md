@@ -7,6 +7,8 @@ path: /notes/Anmar/08-19-2016/question-calibration-issues.md
 nid: 13371
 uid: 482249
 
+cids: 15201,15207,16894,17619,17623,17662,17663,17690
+
 ---
 
 # Calibration Issues with larger images 

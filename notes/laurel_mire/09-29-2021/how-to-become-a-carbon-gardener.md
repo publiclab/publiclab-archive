@@ -7,6 +7,8 @@ path: /notes/laurel_mire/09-29-2021/how-to-become-a-carbon-gardener.md
 nid: 27813
 uid: 759178
 
+cids: 29811
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/869/original/soil-gf2b15707a_1280.png)

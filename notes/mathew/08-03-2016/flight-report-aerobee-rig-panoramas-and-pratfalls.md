@@ -7,6 +7,8 @@ path: /notes/mathew/08-03-2016/flight-report-aerobee-rig-panoramas-and-pratfalls
 nid: 13326
 uid: 4
 
+cids: 15069,15074,15078
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/316/original/P_20160729_135108_crop.jpg)

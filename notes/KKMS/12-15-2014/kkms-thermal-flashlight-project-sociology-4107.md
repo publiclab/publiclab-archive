@@ -7,6 +7,8 @@ path: /notes/KKMS/12-15-2014/kkms-thermal-flashlight-project-sociology-4107.md
 nid: 11460
 uid: 432742
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/407/original/Thermal_Flashlight.jpg)

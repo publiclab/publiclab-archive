@@ -7,6 +7,8 @@ path: /notes/warren/10-10-2012/comparisons-oil-samples-and-residues-uv-light.md
 nid: 4330
 uid: 1
 
+cids: 1619
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0907.JPG)

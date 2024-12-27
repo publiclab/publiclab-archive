@@ -7,6 +7,8 @@ path: /notes/deepwinter/6-5-2012/rhus-open-source-mobile-gis-community-ecology.m
 nid: 2348
 uid: 808
 
+cids: 876,8049,8052
+
 ---
 
 ![](https://publiclab.org/sites/default/files/anotherMainImage.png)

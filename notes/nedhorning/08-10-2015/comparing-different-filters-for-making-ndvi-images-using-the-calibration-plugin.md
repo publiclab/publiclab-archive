@@ -7,6 +7,8 @@ path: /notes/nedhorning/08-10-2015/comparing-different-filters-for-making-ndvi-i
 nid: 12134
 uid: 133
 
+cids: 12372,12375,13121,13132,18606,18609
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/093/original/iFarm2015-621-4_Clipped.jpg)

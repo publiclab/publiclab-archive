@@ -7,6 +7,8 @@ path: /notes/birdlink/12-14-2018/need-information-on-self-watering-irrigation-sy
 nid: 17902
 uid: 564432
 
+cids: 21513,21540,21550
+
 ---
 
 # need information on self-watering irrigation systems, rainwater capture down spout filter, dew collection systems

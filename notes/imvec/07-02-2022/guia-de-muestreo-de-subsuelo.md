@@ -7,6 +7,8 @@ path: /notes/imvec/07-02-2022/guia-de-muestreo-de-subsuelo.md
 nid: 31174
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/836/original/23.jpg)

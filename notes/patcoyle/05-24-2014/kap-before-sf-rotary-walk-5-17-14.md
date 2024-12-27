@@ -7,6 +7,8 @@ path: /notes/patcoyle/05-24-2014/kap-before-sf-rotary-walk-5-17-14.md
 nid: 10509
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/447/original/rotary-fundraising-walk-san-francisco-.jpg)

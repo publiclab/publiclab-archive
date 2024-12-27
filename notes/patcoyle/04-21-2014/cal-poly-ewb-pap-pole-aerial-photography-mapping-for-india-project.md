@@ -7,6 +7,8 @@ path: /notes/patcoyle/04-21-2014/cal-poly-ewb-pap-pole-aerial-photography-mappin
 nid: 10339
 uid: 77
 
+cids: 8841
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/764/original/Drawing_Set_Page_05.jpg)

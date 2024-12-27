@@ -7,6 +7,8 @@ path: /notes/bsugar/03-30-2019/cultivating-community-through-cultivating-data.md
 nid: 18838
 uid: 217812
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/900/original/plots_doc_home_med.png)

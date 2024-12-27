@@ -7,6 +7,8 @@ path: /notes/joyofsoy/10-04-2019/a-wintry-kite-mapping-at-cranston-print-works.m
 nid: 21078
 uid: 540844
 
+cids: 25639
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/568/original/PC080339.jpg)

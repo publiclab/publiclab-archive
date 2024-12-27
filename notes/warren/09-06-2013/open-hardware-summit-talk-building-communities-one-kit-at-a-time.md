@@ -7,6 +7,8 @@ path: /notes/warren/09-06-2013/open-hardware-summit-talk-building-communities-on
 nid: 9300
 uid: 1
 
+cids: 6769
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/417/original/jeffrey-warren-ohs-2013-backup.png)

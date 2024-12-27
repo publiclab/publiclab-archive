@@ -7,6 +7,8 @@ path: /notes/christie_reni/01-20-2020/modifying-expectations-a-progress-report.m
 nid: 22350
 uid: 630062
 
+cids: 
+
 ---
 
 # Modifying Expectations: A Progress Report

@@ -7,6 +7,8 @@ path: /notes/Puppylover07/04-30-2021/balloon-mapping-and-soil-sampling-behind-th
 nid: 26427
 uid: 754788
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/630/original/MicrosoftTeams-image.png)

@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/05-10-2022/construya-un-sensor-de-conductividad-coqu
 nid: 30705
 uid: 639376
 
+cids: 30305
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/645/original/portada.jpg)

@@ -7,6 +7,8 @@ path: /notes/silverhammer/02-27-2014/evaluation-of-pesticide-residues-in-organic
 nid: 10074
 uid: 420530
 
+cids: 8373,8376,8379,8385,8387,8431,11216
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/072/original/Screen_Shot_2014-02-05_at_9.25.06_PM.png)

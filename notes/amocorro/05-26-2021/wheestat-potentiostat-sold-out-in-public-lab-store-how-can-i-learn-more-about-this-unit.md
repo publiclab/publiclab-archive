@@ -7,6 +7,8 @@ path: /notes/amocorro/05-26-2021/wheestat-potentiostat-sold-out-in-public-lab-st
 nid: 26717
 uid: 700923
 
+cids: 
+
 ---
 
 # WheeStat potentiostat "sold out" in Public Lab store, how can I learn more about this tool?

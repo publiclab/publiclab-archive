@@ -7,6 +7,8 @@ path: /notes/adam-griffith/3-31-2013/pbs-idea-lab-post-field-trips.md
 nid: 6635
 uid: 3
 
+cids: 4386
+
 ---
 
 ![](https://publiclab.org/sites/default/files/overview_0.JPG)

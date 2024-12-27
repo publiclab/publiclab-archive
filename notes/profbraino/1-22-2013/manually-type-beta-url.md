@@ -7,6 +7,8 @@ path: /notes/profbraino/1-22-2013/manually-type-beta-url.md
 nid: 5677
 uid: 48546
 
+cids: 
+
 ---
 
 # manually type beta url

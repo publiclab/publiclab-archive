@@ -7,6 +7,8 @@ path: /notes/liz/2-15-2013/air-quality-egg-assembly.md
 nid: 5997
 uid: 7
 
+cids: 6574
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130214_194812.jpg)

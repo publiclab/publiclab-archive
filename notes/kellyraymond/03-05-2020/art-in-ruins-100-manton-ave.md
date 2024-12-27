@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-100-manton-ave.md
 nid: 23062
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (100 Manton Ave)

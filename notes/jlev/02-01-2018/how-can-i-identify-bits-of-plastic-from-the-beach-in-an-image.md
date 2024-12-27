@@ -7,6 +7,8 @@ path: /notes/jlev/02-01-2018/how-can-i-identify-bits-of-plastic-from-the-beach-i
 nid: 15654
 uid: 439055
 
+cids: 18343,18348,18392,18393,18395,18396,18398,18399,18400,22172,22174,22188,22199,22918,22919,22920,23325
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/424/original/plastic.jpg)

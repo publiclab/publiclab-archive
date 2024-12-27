@@ -7,6 +7,8 @@ path: /notes/liz/3-19-2013/8th-grade-air-quality-mapping-1.md
 nid: 6421
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/3 - weather wheel crop.jpg)

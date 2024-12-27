@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/02-23-2016/baseline-comparisons-using-09mm-slit-uv-flash
 nid: 12722
 uid: 461120
 
+cids: 13700,13701,13702,13705,13706,13707,13708,13709,13711,13712,13713,13714,13715,13735
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/521/original/uvlaser_uvflashlight_comparison_updated_feb23.png)

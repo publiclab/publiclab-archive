@@ -7,6 +7,8 @@ path: /notes/ajy00/03-25-2018/an-evolution-of-the-3d-print-version-of-the-spectr
 nid: 16018
 uid: 521938
 
+cids: 19158
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/180/original/spectro_evo2s.png)

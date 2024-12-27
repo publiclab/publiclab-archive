@@ -7,6 +7,8 @@ path: /notes/2globalvillage/03-29-2020/how-can-i-measure-the-wavelength-of-a-red
 nid: 23225
 uid: 678362
 
+cids: 26625
+
 ---
 
 # how can I measure the wavelength of a red led? I suspect it is about 650nm but I want to know how to measure it. 

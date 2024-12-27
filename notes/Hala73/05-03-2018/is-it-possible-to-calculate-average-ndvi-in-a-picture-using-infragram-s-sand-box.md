@@ -7,6 +7,8 @@ path: /notes/Hala73/05-03-2018/is-it-possible-to-calculate-average-ndvi-in-a-pic
 nid: 16288
 uid: 533077
 
+cids: 19550,19595,19597,19598,23084,23089
+
 ---
 
 # Is it possible to calculate average NDVI in a picture using infragram's sand box?

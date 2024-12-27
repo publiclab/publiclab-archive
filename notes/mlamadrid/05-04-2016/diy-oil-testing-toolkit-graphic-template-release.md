@@ -7,6 +7,8 @@ path: /notes/mlamadrid/05-04-2016/diy-oil-testing-toolkit-graphic-template-relea
 nid: 13071
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/940/original/Indesign-template.png)

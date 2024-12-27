@@ -7,6 +7,8 @@ path: /notes/DanielleS/05-03-2019/people-who-work-on-soil-join-us-for-methods-ja
 nid: 19234
 uid: 569208
 
+cids: 
+
 ---
 
 # People who work on soil- join us for methods jam this Tuesday! 

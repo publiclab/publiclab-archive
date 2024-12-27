@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/01-05-2022/birchton-wv-1-5-22.md
 nid: 28623
 uid: 756318
 
+cids: 29566,29568,29569,29570,29572
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/302/original/birchtonSunny.00_02_06_17.Still001.jpg)

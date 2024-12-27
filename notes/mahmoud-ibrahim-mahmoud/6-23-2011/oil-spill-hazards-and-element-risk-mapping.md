@@ -7,6 +7,8 @@ path: /notes/mahmoud-ibrahim-mahmoud/6-23-2011/oil-spill-hazards-and-element-ris
 nid: 353
 uid: 168
 
+cids: 285
+
 ---
 
 # Oil spill hazards and element at risk mapping

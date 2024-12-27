@@ -7,6 +7,8 @@ path: /notes/franktank/03-10-2016/improving-user-experience-on-public-lab.md
 nid: 12824
 uid: 468625
 
+cids: 13861,13862,13863,13865,13866,13881,13928,13935,13940,13998,14007
+
 ---
 
 # Rich Profile Pages on PublicLab.org - GSoC 2016

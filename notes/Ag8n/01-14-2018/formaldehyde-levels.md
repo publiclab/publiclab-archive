@@ -7,6 +7,8 @@ path: /notes/Ag8n/01-14-2018/formaldehyde-levels.md
 nid: 15522
 uid: 520994
 
+cids: 18181,18187,18206,18213,22846
+
 ---
 
 # Formaldehyde levels

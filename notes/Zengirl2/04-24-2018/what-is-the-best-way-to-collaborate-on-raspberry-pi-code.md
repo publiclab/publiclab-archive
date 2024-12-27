@@ -7,6 +7,8 @@ path: /notes/Zengirl2/04-24-2018/what-is-the-best-way-to-collaborate-on-raspberr
 nid: 16205
 uid: 423961
 
+cids: 
+
 ---
 
 # What is the best way to collaborate on Raspberry Pi code?

@@ -7,6 +7,8 @@ path: /notes/iragersh/11-22-2018/are-there-any-designs-for-a-water-depth-sensor-
 nid: 17729
 uid: 557258
 
+cids: 21364,21366
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/813/original/20181026_084645.jpg)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/7-17-2012/usgs-historical-topography-maps.md
 nid: 2846
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-07-17 at 11.15.03 AM.png)

@@ -7,6 +7,8 @@ path: /notes/mathew/7-13-2012/thermal-flashlight-calibration-nomogram.md
 nid: 2799
 uid: 4
 
+cids: 1017,1028
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5171.JPG)

@@ -7,6 +7,8 @@ path: /notes/liz/04-05-2017/host-an-event-to-draw-a-picture-of-your-place-as-a-g
 nid: 14089
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/086/original/IMG_2031.JPG)

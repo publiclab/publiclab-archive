@@ -7,6 +7,8 @@ path: /notes/liz/08-25-2015/fkit-on-the-move.md
 nid: 12167
 uid: 7
 
+cids: 12461,12476
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/270/original/Yellow.jpg)

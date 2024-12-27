@@ -7,6 +7,8 @@ path: /notes/Jenn_Zarate/10-09-2014/reflection-on-sensor-journalism.md
 nid: 11255
 uid: 429632
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/396/original/photo_2.JPG)

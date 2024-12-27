@@ -7,6 +7,8 @@ path: /notes/marthav/1-1-2013/my-macbooks-webcam.md
 nid: 5389
 uid: 47245
 
+cids: 2942
+
 ---
 
 # my MacBook's webcam is 

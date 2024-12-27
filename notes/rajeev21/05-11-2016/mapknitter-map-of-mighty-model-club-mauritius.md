@@ -7,6 +7,8 @@ path: /notes/rajeev21/05-11-2016/mapknitter-map-of-mighty-model-club-mauritius.m
 nid: 13104
 uid: 473323
 
+cids: 14589,14590
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/114/original/IMG_0300.JPG)

@@ -7,6 +7,8 @@ path: /notes/cfastie/1-21-2013/spectrometer-image-quality.md
 nid: 5663
 uid: 554
 
+cids: 3158,3184,3185,3193,3194,3195,3215,3249
+
 ---
 
 ![](https://publiclab.org/sites/default/files/D40CFLCUSG.jpg)

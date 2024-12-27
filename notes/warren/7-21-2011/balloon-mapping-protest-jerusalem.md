@@ -7,6 +7,8 @@ path: /notes/warren/7-21-2011/balloon-mapping-protest-jerusalem.md
 nid: 403
 uid: 1
 
+cids: 300
+
 ---
 
 ![](https://publiclab.org/sites/default/files/5940055519_ff00c64495.jpg)

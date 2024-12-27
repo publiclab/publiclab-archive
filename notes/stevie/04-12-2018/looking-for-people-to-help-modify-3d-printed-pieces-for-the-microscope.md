@@ -7,6 +7,8 @@ path: /notes/stevie/04-12-2018/looking-for-people-to-help-modify-3d-printed-piec
 nid: 16148
 uid: 422561
 
+cids: 21297,21448,21459,21460,21464
+
 ---
 
 # Looking for people to help modify 3d printed pieces for the microscope.

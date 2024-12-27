@@ -7,6 +7,8 @@ path: /notes/warren/10-1-2012/ultraviolet-fluorescence-bp-oil-residue-and-olive-
 nid: 4097
 uid: 1
 
+cids: 1608,1610
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0786.JPG)

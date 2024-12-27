@@ -7,6 +7,8 @@ path: /notes/ddileona/01-08-2016/oil-testing-kit-beta-test.md
 nid: 12572
 uid: 436738
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/559/original/undefined)

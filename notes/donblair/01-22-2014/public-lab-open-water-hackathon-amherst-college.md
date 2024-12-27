@@ -7,6 +7,8 @@ path: /notes/donblair/01-22-2014/public-lab-open-water-hackathon-amherst-college
 nid: 9964
 uid: 43651
 
+cids: 8070
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/604/original/hackThumb.png)

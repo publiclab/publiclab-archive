@@ -7,6 +7,8 @@ path: /notes/warren/03-02-2022/using-uvc-or-deep-uv-light-to-detect-lead-by-fluo
 nid: 30092
 uid: 1
 
+cids: 29741,29742,29743,29744,29745,29747,29748,29750,29751,29752,29754,29755,29756,29757
+
 ---
 
 # Using UVC or "deep UV" light to detect lead by fluorescence

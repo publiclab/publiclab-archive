@@ -7,6 +7,8 @@ path: /notes/ann/04-07-2015/smithers-workshop-diy-aerial-photography-and-mapping
 nid: 11747
 uid: 421543
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/558/original/Workshop_Flyer.png)

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-04-2016/good-science-snr-data-for-rhodamine-b-100ppm.
 nid: 12916
 uid: 461120
 
+cids: 14111
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/341/original/rhod_b_mar30.png)

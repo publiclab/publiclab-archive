@@ -7,6 +7,8 @@ path: /notes/cindyexcites/8-3-2012/aims-initiative.md
 nid: 3120
 uid: 1083
 
+cids: 
+
 ---
 
 # Aims of initiative

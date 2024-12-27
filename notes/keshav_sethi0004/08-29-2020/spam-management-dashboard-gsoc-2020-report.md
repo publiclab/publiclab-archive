@@ -7,6 +7,8 @@ path: /notes/keshav_sethi0004/08-29-2020/spam-management-dashboard-gsoc-2020-rep
 nid: 24481
 uid: 653396
 
+cids: 27304,27312,27313,27316,27334,31407
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/738/original/Screenshot_from_2020-08-30_00-03-38.png)

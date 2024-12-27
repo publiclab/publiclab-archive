@@ -7,6 +7,8 @@ path: /notes/warren/2-19-2013/ircam-compact-wiring-prototype.md
 nid: 6057
 uid: 1
 
+cids: 3479
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130218_181651_0.jpg)

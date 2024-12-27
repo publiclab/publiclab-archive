@@ -7,6 +7,8 @@ path: /notes/homechemist/08-30-2013/homemade-spectometer-for-sample-absorstion-a
 nid: 9077
 uid: 212574
 
+cids: 6745,6746,6747,6748
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/342/original/test.jpg)

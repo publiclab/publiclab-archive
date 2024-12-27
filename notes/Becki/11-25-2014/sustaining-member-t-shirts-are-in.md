@@ -7,6 +7,8 @@ path: /notes/Becki/11-25-2014/sustaining-member-t-shirts-are-in.md
 nid: 11403
 uid: 46673
 
+cids: 10863,10864
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/117/original/Tshirt-small.jpg)

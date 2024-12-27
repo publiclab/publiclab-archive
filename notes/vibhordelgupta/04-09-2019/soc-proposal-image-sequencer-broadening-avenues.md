@@ -7,6 +7,8 @@ path: /notes/vibhordelgupta/04-09-2019/soc-proposal-image-sequencer-broadening-a
 nid: 19010
 uid: 568180
 
+cids: 23918,23958
+
 ---
 
 # SoC proposal: Image Sequencer: Broadening Avenues

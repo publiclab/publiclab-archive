@@ -7,6 +7,8 @@ path: /notes/Matej/02-04-2016/public-lab-workshop-at-the-subview-luncheonette.md
 nid: 12653
 uid: 451808
 
+cids: 13570,13571,13572,13574,13575,13593,13594,13595,13596,13598,13613,13614,13615,13628,13635
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/071/original/oilspillshape3.jpg)

@@ -7,6 +7,8 @@ path: /notes/stevie/10-02-2017/interview-jim-gurley.md
 nid: 14991
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/826/original/19sand0930.jpg)

@@ -7,6 +7,8 @@ path: /02-12-2014/barataria-2014-february-9th.md
 nid: 10032
 uid: 379
 
+cids: 8238,8245,8246,8263,8264,8265,8268,8270
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/881/original/b_IMG_1162.JPG)

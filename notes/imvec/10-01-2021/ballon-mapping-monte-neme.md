@@ -7,6 +7,8 @@ path: /notes/imvec/10-01-2021/ballon-mapping-monte-neme.md
 nid: 27822
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/883/original/monteneme_knit_170929.png)

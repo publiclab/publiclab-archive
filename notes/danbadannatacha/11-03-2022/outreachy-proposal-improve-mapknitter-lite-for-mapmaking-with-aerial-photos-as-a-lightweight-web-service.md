@@ -7,6 +7,8 @@ path: /notes/danbadannatacha/11-03-2022/outreachy-proposal-improve-mapknitter-li
 nid: 36046
 uid: 818333
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/277/original/frontend.JPG)

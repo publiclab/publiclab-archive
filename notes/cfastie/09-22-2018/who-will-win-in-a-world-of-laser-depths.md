@@ -7,6 +7,8 @@ path: /notes/cfastie/09-22-2018/who-will-win-in-a-world-of-laser-depths.md
 nid: 17155
 uid: 554
 
+cids: 20712,20713
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/652/original/IMG_20180722_134745796.jpg)

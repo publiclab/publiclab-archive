@@ -7,6 +7,8 @@ path: /notes/bnjmnph/09-29-2015/question-possible-to-get-3d-map-from-balloon-map
 nid: 12251
 uid: 452752
 
+cids: 12590,12601,12611,12622,12638
+
 ---
 
 # Question: Possible to get 3D map from balloon mapping?

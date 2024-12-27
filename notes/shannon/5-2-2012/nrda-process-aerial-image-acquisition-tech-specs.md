@@ -7,6 +7,8 @@ path: /notes/shannon/5-2-2012/nrda-process-aerial-image-acquisition-tech-specs.m
 nid: 1892
 uid: 9
 
+cids: 669,671,672,673
+
 ---
 
 # NRDA process aerial image acquisition tech. specs.

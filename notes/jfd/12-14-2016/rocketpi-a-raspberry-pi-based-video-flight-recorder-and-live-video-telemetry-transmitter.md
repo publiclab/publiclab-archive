@@ -7,6 +7,8 @@ path: /notes/jfd/12-14-2016/rocketpi-a-raspberry-pi-based-video-flight-recorder-
 nid: 13784
 uid: 499882
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/049/original/mercator-ae2-cropped.jpg)

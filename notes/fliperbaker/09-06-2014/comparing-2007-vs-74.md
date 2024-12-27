@@ -7,6 +7,8 @@ path: /notes/fliperbaker/09-06-2014/comparing-2007-vs-74.md
 nid: 11114
 uid: 421358
 
+cids: 10216,10217
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/648/original/filter_comp_2.PNG)

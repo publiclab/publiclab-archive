@@ -7,6 +7,8 @@ path: /notes/mathew/6-13-2012/thermal-flashlight-power-ring.md
 nid: 2478
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-06-13 at 4.15.23 PM.png)

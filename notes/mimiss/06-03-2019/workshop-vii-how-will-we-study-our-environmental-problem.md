@@ -7,6 +7,8 @@ path: /notes/mimiss/06-03-2019/workshop-vii-how-will-we-study-our-environmental-
 nid: 19606
 uid: 579821
 
+cids: 28351
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/697/original/NAS_Community_Science_in_the_Classroom_Overview.png)

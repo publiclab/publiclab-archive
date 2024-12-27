@@ -7,6 +7,8 @@ path: /notes/DrJessie/11-06-2017/changes-in-factory-pollution-and-asthma-emergen
 nid: 15154
 uid: 512098
 
+cids: 
+
 ---
 
 # Changes in factory pollution and asthma emergency department visits

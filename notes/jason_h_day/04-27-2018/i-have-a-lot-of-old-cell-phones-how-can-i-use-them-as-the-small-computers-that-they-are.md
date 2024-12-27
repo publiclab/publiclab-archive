@@ -7,6 +7,8 @@ path: /notes/jason_h_day/04-27-2018/i-have-a-lot-of-old-cell-phones-how-can-i-us
 nid: 16222
 uid: 532380
 
+cids: 23082
+
 ---
 
 # I have a lot of "old" cell phones. How can I use them as the small computers that they are?

@@ -7,6 +7,8 @@ path: /notes/nshapiro/08-02-2016/plant-air-remediation-field-test-2-georgia.md
 nid: 13325
 uid: 380298
 
+cids: 15071,15072,15073,15093,15095,15101
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/310/original/Plant_photo_1.jpg)

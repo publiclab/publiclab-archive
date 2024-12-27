@@ -7,6 +7,8 @@ path: /notes/warren/09-29-2016/what-are-good-containers-to-use-for-spectrometry-
 nid: 13509
 uid: 1
 
+cids: 22859
+
 ---
 
 # What are good containers to use for spectrometry samples?

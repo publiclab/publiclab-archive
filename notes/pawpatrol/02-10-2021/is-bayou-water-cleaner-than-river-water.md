@@ -7,6 +7,8 @@ path: /notes/pawpatrol/02-10-2021/is-bayou-water-cleaner-than-river-water.md
 nid: 25645
 uid: 739155
 
+cids: 28207,28237
+
 ---
 
 # Is Bayou water cleaner than river water?

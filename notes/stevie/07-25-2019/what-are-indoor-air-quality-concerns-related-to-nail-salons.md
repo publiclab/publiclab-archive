@@ -7,6 +7,8 @@ path: /notes/stevie/07-25-2019/what-are-indoor-air-quality-concerns-related-to-n
 nid: 20310
 uid: 422561
 
+cids: 25142,25144,25218,25221,25227,25246,25285,25393
+
 ---
 
 # What are indoor air quality concerns related to nail salons? 

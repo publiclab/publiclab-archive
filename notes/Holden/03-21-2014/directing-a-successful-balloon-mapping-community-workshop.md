@@ -7,6 +7,8 @@ path: /notes/Holden/03-21-2014/directing-a-successful-balloon-mapping-community-
 nid: 10214
 uid: 170164
 
+cids: 8620,31396
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/361/original/IMG_20140315_111124_637.jpg)

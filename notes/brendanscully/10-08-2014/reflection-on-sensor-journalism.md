@@ -7,6 +7,8 @@ path: /notes/brendanscully/10-08-2014/reflection-on-sensor-journalism.md
 nid: 11250
 uid: 428089
 
+cids: 
+
 ---
 
 # Reflection on Sensor Journalism 

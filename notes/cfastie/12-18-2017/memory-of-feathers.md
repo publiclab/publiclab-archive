@@ -7,6 +7,8 @@ path: /notes/cfastie/12-18-2017/memory-of-feathers.md
 nid: 15394
 uid: 554
 
+cids: 17981
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/974/original/stove_20171217-2212.JPG)

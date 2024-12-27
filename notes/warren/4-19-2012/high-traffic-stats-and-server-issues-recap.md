@@ -7,6 +7,8 @@ path: /notes/warren/4-19-2012/high-traffic-stats-and-server-issues-recap.md
 nid: 1715
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/visitors-by-hour.png)

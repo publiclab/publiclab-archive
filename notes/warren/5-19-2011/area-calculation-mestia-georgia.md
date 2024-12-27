@@ -7,6 +7,8 @@ path: /notes/warren/5-19-2011/area-calculation-mestia-georgia.md
 nid: 254
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/mestia.png)

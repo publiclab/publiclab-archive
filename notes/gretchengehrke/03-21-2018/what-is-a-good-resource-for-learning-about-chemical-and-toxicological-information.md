@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/03-21-2018/what-is-a-good-resource-for-learning-abou
 nid: 15992
 uid: 430549
 
+cids: 23022
+
 ---
 
 # What is a good resource for learning about chemical and toxicological information?

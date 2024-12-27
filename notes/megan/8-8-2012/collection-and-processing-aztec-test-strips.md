@@ -7,6 +7,8 @@ path: /notes/megan/8-8-2012/collection-and-processing-aztec-test-strips.md
 nid: 3193
 uid: 775
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/SR1.jpg)

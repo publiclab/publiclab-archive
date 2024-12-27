@@ -7,6 +7,8 @@ path: /notes/KristinaTamara/05-26-2019/can-you-help-us-with-calibrating-our-spec
 nid: 19525
 uid: 592485
 
+cids: 24271,24277,24292,24322,24344,25480,25482
+
 ---
 
 # Can you help us with calibrating our spectrometer?

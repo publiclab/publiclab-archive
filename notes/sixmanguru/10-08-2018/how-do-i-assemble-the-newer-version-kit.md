@@ -7,6 +7,8 @@ path: /notes/sixmanguru/10-08-2018/how-do-i-assemble-the-newer-version-kit.md
 nid: 17251
 uid: 554110
 
+cids: 20830,21019
+
 ---
 
 # How do I... assemble the newer version kit

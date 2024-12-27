@@ -7,6 +7,8 @@ path: /notes/liz/08-15-2014/newark-green-garden-goal-setting.md
 nid: 11058
 uid: 7
 
+cids: 
+
 ---
 
 # Newark Green Garden goal setting

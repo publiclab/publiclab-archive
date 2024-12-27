@@ -7,6 +7,8 @@ path: /notes/GSan/10-21-2016/water-sensor-with-ne555-ec-electrical-conductivity.
 nid: 13634
 uid: 426547
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/526/original/noisedagua.jpg)

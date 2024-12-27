@@ -7,6 +7,8 @@ path: /notes/shannon/6-13-2012/air-column-monitor-components.md
 nid: 2469
 uid: 9
 
+cids: 896,897,898,899,903
+
 ---
 
 # Air column monitor components

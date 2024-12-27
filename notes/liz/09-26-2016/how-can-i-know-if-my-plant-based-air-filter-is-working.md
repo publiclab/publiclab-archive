@@ -7,6 +7,8 @@ path: /notes/liz/09-26-2016/how-can-i-know-if-my-plant-based-air-filter-is-worki
 nid: 13482
 uid: 7
 
+cids: 15506,15552,15553,22307,22308
+
 ---
 
 # How can i know if my plant-based air filter is working?

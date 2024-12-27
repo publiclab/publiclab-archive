@@ -7,6 +7,8 @@ path: /notes/cfastie/05-18-2016/riffle-test-1.md
 nid: 13122
 uid: 554
 
+cids: 14664,14665
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/198/original/riffle_20160517-5561.jpg)

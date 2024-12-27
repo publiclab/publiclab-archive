@@ -7,6 +7,8 @@ path: /notes/sara/3-30-2012/description-horwell-et-al-2004-experimental-set-test
 nid: 1585
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Diagram1HorwellExpSetUp.jpg)

@@ -7,6 +7,8 @@ path: /notes/imvec/04-30-2020/jam-5-nuestros-suelos.md
 nid: 23523
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/248/original/nuestrossuelos.jpg)

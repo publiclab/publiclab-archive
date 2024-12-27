@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-12-2016/final-data-analysis-for-10w40-motor-oil-using
 nid: 12838
 uid: 461120
 
+cids: 13882,13883,13886,13887,13889,13891,13892,13893,13894,13895,13896,13897,13898,13900,13901,13902,13903,13905,13906,13909,13914,13918,13952,14000,14001,14005,14009
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/794/original/dual_beam_mar11.png)

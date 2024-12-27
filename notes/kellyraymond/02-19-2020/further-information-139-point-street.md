@@ -7,6 +7,8 @@ path: /notes/kellyraymond/02-19-2020/further-information-139-point-street.md
 nid: 22859
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (139 Point Street)

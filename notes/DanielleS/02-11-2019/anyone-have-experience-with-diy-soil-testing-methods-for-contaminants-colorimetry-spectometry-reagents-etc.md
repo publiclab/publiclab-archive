@@ -7,6 +7,8 @@ path: /notes/DanielleS/02-11-2019/anyone-have-experience-with-diy-soil-testing-m
 nid: 18343
 uid: 569208
 
+cids: 28045
+
 ---
 
 # Anyone have experience with diy soil testing methods for contaminants- Colorimetry, spectometry, reagents, etc?

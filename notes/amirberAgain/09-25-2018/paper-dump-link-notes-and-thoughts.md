@@ -7,6 +7,8 @@ path: /notes/amirberAgain/09-25-2018/paper-dump-link-notes-and-thoughts.md
 nid: 17171
 uid: 420776
 
+cids: 20722
+
 ---
 
 # paper dump: link notes and thoughts.

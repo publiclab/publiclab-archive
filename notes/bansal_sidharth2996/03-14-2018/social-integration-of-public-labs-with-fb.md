@@ -7,6 +7,8 @@ path: /notes/bansal_sidharth2996/03-14-2018/social-integration-of-public-labs-wi
 nid: 15945
 uid: 503599
 
+cids: 18973,23001,23011
+
 ---
 
 # Social Integration of Public Labs with FB

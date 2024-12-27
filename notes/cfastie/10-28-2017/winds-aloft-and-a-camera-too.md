@@ -7,6 +7,8 @@ path: /notes/cfastie/10-28-2017/winds-aloft-and-a-camera-too.md
 nid: 15125
 uid: 554
 
+cids: 23983,23984,23992
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/134/original/sfmCrown_20171023-1457.JPG)

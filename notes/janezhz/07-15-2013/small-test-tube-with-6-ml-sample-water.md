@@ -7,6 +7,8 @@ path: /notes/janezhz/07-15-2013/small-test-tube-with-6-ml-sample-water.md
 nid: 8894
 uid: 170107
 
+cids: 6343,6345
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/814/original/6ml_tube.jpg)

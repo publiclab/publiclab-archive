@@ -7,6 +7,8 @@ path: /notes/stevie/05-30-2015/mapknitter-map-of-bayou-st-john-at-lake-pontchart
 nid: 11916
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/110/original/20150530_140807.jpg)

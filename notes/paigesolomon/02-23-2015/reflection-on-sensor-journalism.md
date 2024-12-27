@@ -7,6 +7,8 @@ path: /notes/paigesolomon/02-23-2015/reflection-on-sensor-journalism.md
 nid: 11620
 uid: 434147
 
+cids: 
+
 ---
 
 # Reflection on Sensor Journalism

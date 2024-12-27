@@ -7,6 +7,8 @@ path: /notes/gpenzo/07-13-2014/ndvi-exposure-setting.md
 nid: 10684
 uid: 420719
 
+cids: 9490
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/257/original/split1.jpg)

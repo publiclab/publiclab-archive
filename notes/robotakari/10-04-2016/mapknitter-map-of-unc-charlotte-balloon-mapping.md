@@ -7,6 +7,8 @@ path: /notes/robotakari/10-04-2016/mapknitter-map-of-unc-charlotte-balloon-mappi
 nid: 13522
 uid: 465800
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/260/original/1920px-World_map_2004_CIA_large_1.7m_whitespace_removed.jpg)

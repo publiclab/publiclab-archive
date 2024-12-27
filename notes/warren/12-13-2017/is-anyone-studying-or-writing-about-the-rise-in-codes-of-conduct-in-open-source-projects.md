@@ -7,6 +7,8 @@ path: /notes/warren/12-13-2017/is-anyone-studying-or-writing-about-the-rise-in-c
 nid: 15359
 uid: 1
 
+cids: 22884,22893
+
 ---
 
 # Is anyone studying or writing about the rise in Codes of Conduct in open source projects?

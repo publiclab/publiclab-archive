@@ -7,6 +7,8 @@ path: /notes/hspencer22/03-08-2022/how-do-we-address-forever-chemicals-in-munici
 nid: 30106
 uid: 791068
 
+cids: 29759,29760,29810,29842,30150
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/467/original/20200201_111439.jpg)

@@ -7,6 +7,8 @@ path: /notes/maxliboiron/07-17-2018/how-to-use-babylegs.md
 nid: 16735
 uid: 310707
 
+cids: 20180,20181
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/702/original/25735.png)

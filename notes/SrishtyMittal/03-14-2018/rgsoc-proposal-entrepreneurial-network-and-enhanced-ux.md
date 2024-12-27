@@ -7,6 +7,8 @@ path: /notes/SrishtyMittal/03-14-2018/rgsoc-proposal-entrepreneurial-network-and
 nid: 15952
 uid: 526047
 
+cids: 18945,18976,19151,20606
+
 ---
 
 # RGSoC proposal: Entrepreneurial Network And Enhanced UX

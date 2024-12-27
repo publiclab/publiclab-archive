@@ -7,6 +7,8 @@ path: /notes/Ashan/08-23-2017/introducing-inline-commenting-for-wiki-pages.md
 nid: 14781
 uid: 502016
 
+cids: 17212,17213,17221,17226,17247
+
 ---
 
 # GSoC 2017: Final Report on Wiki Discussion

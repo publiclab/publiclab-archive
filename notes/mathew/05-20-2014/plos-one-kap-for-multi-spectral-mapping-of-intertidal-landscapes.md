@@ -7,6 +7,8 @@ path: /notes/mathew/05-20-2014/plos-one-kap-for-multi-spectral-mapping-of-intert
 nid: 10489
 uid: 4
 
+cids: 9060,9061,9062,9063,9079,9150,11643
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/329/original/Screen_Shot_2014-05-20_at_9.23.57_AM.png)

@@ -7,6 +7,8 @@ path: /notes/stevie/12-07-2021/how-long-do-you-need-to-co-locate-an-air-quality-
 nid: 28339
 uid: 422561
 
+cids: 29503,29523,29532,29533,29534,29583
+
 ---
 
 # How long do you need to co-locate an air quality tool to get what you need to calibrate or  "ground truth" another tool? 

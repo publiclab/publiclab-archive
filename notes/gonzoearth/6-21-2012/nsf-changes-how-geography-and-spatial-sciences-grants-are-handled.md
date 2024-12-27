@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-21-2012/nsf-changes-how-geography-and-spatial-sciences
 nid: 2605
 uid: 12
 
+cids: 
+
 ---
 
 # NSF Changes how Geography and Spatial Sciences Grants are Handled

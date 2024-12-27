@@ -7,6 +7,8 @@ path: /notes/sara/7-18-2012/story-oil-field-workers-death-linked-vocs.md
 nid: 2864
 uid: 8
 
+cids: 
+
 ---
 
 # Story Of Oil Field Worker's Death linked to VOCs

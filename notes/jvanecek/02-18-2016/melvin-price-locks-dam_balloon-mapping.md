@@ -7,6 +7,8 @@ path: /notes/jvanecek/02-18-2016/melvin-price-locks-dam_balloon-mapping.md
 nid: 12711
 uid: 465990
 
+cids: 13667,13674
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/385/original/Mel_Price_1_Fave.png)

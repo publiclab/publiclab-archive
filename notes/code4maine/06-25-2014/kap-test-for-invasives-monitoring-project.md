@@ -7,6 +7,8 @@ path: /notes/code4maine/06-25-2014/kap-test-for-invasives-monitoring-project.md
 nid: 10615
 uid: 294634
 
+cids: 9271,9273,9280,9283,9284,9304,9307,9309,9318,9319,9331,9332,9333,9334,9336,9338,9339,9340,9366,9367,9370,9853,9854,9855,9856,9857,10764
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/977/original/vlcsnap-2014-06-20-15h26m17s124.png)

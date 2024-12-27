@@ -7,6 +7,8 @@ path: /notes/warren/05-15-2013/talk-at-the-new-england-society-of-applied-spectr
 nid: 7579
 uid: 1
 
+cids: 6081
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/298/original/Screen_Shot_2013-05-15_at_10.59.11_AM.png)

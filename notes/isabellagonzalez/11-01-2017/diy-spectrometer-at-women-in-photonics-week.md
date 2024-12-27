@@ -7,6 +7,8 @@ path: /notes/isabellagonzalez/11-01-2017/diy-spectrometer-at-women-in-photonics-
 nid: 15136
 uid: 178517
 
+cids: 17906
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/167/original/P1004612-HDR.jpg)

@@ -7,6 +7,8 @@ path: /notes/weertsc/12-03-2014/comparison-of-window-insulation-in-old-vs-new-bu
 nid: 11434
 uid: 432302
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/261/original/image10.jpeg)

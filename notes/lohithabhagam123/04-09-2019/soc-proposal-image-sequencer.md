@@ -7,6 +7,8 @@ path: /notes/lohithabhagam123/04-09-2019/soc-proposal-image-sequencer.md
 nid: 19009
 uid: 577728
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/341/original/wallpaper.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/04-02-2016/plenty-boost.md
 nid: 12906
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/296/original/boost_20160401-4561.jpg)

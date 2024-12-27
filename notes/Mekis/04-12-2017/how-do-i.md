@@ -7,6 +7,8 @@ path: /notes/Mekis/04-12-2017/how-do-i.md
 nid: 14108
 uid: 505614
 
+cids: 22509
+
 ---
 
 # How do I...

@@ -7,6 +7,8 @@ path: /notes/sara/12-13-2011/formaldehyde-sensing-indoor-air-pollution.md
 nid: 635
 uid: 8
 
+cids: 384,385,386,387,388,389,390,391,392,393,398
+
 ---
 
 # Formaldehyde Sensing for Indoor air-pollution

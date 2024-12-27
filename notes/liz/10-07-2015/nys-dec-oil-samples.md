@@ -7,6 +7,8 @@ path: /notes/liz/10-07-2015/nys-dec-oil-samples.md
 nid: 12277
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/843/original/NY-DEC-oil-samples.jpg)

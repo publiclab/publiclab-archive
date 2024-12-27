@@ -7,6 +7,8 @@ path: /notes/Corymbia/02-19-2019/testing-a-midopt-db660-850-filter-nir-contamina
 nid: 18394
 uid: 572650
 
+cids: 21911,21913,21917,21918,21920,21926,21927,21929,21931,21932,21933,21934,21935,21936,21937,21938,21940,21941,21942,21945,21964,27573
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/438/original/IMG_6818_%281%29.jpg)

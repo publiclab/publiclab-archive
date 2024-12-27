@@ -7,6 +7,8 @@ path: /notes/liz/03-23-2022/quickly-find-regulatory-violations-near-you.md
 nid: 30179
 uid: 7
 
+cids: 29849,29850
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/548/original/Screen_Shot_2022-03-19_at_4.46.28_PM.png)

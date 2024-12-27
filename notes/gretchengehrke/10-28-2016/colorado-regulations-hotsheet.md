@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/10-28-2016/colorado-regulations-hotsheet.md
 nid: 13664
 uid: 430549
 
+cids: 15751
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/664/original/Screen_Shot_2016-10-28_at_5.40.17_PM.png)

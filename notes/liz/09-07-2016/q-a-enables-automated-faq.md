@@ -7,6 +7,8 @@ path: /notes/liz/09-07-2016/q-a-enables-automated-faq.md
 nid: 13428
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/964/original/Screenshot_2016-09-07_at_3.51.53_PM.png)

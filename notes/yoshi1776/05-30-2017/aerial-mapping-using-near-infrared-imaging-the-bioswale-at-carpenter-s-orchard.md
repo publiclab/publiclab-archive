@@ -7,6 +7,8 @@ path: /notes/yoshi1776/05-30-2017/aerial-mapping-using-near-infrared-imaging-the
 nid: 14247
 uid: 508251
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/584/original/Screen_Shot_2017-05-30_at_9.18.50_AM.png)

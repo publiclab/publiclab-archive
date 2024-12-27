@@ -7,6 +7,8 @@ path: /05-30-2019/mapknitter-map-of-usfws-restoration-bayou-bonfouca-southeast-s
 nid: 19580
 uid: 379
 
+cids: 24334
+
 ---
 
 # MapKnitter map of USFWS restoration Bayou Bonfouca southeast survey

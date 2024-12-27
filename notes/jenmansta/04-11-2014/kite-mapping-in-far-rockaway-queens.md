@@ -7,6 +7,8 @@ path: /notes/jenmansta/04-11-2014/kite-mapping-in-far-rockaway-queens.md
 nid: 10299
 uid: 422207
 
+cids: 8740,8741,8748
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/631/original/rockaway_photo.jpg)

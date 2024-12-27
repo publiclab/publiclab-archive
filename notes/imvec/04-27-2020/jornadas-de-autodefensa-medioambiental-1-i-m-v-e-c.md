@@ -7,6 +7,8 @@ path: /notes/imvec/04-27-2020/jornadas-de-autodefensa-medioambiental-1-i-m-v-e-c
 nid: 23485
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/196/original/cosquin5b.jpg)

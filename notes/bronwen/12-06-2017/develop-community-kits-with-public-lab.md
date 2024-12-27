@@ -7,6 +7,8 @@ path: /notes/bronwen/12-06-2017/develop-community-kits-with-public-lab.md
 nid: 15318
 uid: 237313
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/820/original/publabkits.jpg)

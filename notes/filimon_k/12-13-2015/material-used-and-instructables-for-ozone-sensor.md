@@ -7,6 +7,8 @@ path: /notes/filimon_k/12-13-2015/material-used-and-instructables-for-ozone-sens
 nid: 12510
 uid: 460113
 
+cids: 
+
 ---
 
 # Material used and instructables (for ozone sensor)

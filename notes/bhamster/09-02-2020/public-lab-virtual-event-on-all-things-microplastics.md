@@ -7,6 +7,8 @@ path: /notes/bhamster/09-02-2020/public-lab-virtual-event-on-all-things-micropla
 nid: 24494
 uid: 664477
 
+cids: 27318,27321,27398,27400,27451,27691,28203
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/755/original/Microplastics_ChesapeakeBay.jpg)

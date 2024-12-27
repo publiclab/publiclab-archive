@@ -7,6 +7,8 @@ path: /notes/brylie_bernard13/04-30-2021/balloon-mapping-at-wsjh.md
 nid: 26432
 uid: 741183
 
+cids: 
+
 ---
 
 # Balloon Mapping at WSJH

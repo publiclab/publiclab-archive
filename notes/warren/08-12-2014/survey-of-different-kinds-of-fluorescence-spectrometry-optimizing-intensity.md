@@ -7,6 +7,8 @@ path: /notes/warren/08-12-2014/survey-of-different-kinds-of-fluorescence-spectro
 nid: 11039
 uid: 1
 
+cids: 9926,9927,9929,9930,9931,9932,9941,9969,9970,9972,9973,9974,9975
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/222/original/elfrida.png)

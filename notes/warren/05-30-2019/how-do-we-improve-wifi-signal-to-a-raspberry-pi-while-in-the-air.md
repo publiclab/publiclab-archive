@@ -7,6 +7,8 @@ path: /notes/warren/05-30-2019/how-do-we-improve-wifi-signal-to-a-raspberry-pi-w
 nid: 19579
 uid: 1
 
+cids: 24309,24310,24314,24331,24851,25483
+
 ---
 
 # How do we improve WiFi signal to a Raspberry Pi while in the air?

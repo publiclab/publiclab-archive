@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-19-2017/what-information-do-i-need-to-assess-if-a
 nid: 14666
 uid: 430549
 
+cids: 17879,17880,22783
+
 ---
 
 # What information do I need to assess if a data logger and sensor will be compatible? 

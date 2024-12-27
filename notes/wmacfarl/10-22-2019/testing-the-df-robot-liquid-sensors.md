@@ -7,6 +7,8 @@ path: /notes/wmacfarl/10-22-2019/testing-the-df-robot-liquid-sensors.md
 nid: 21248
 uid: 424597
 
+cids: 25723
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/930/original/dfrobot_sensors.jpg)

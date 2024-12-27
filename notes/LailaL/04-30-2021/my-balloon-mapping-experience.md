@@ -7,6 +7,8 @@ path: /notes/LailaL/04-30-2021/my-balloon-mapping-experience.md
 nid: 26420
 uid: 741030
 
+cids: 28748,28749
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/626/original/MicrosoftTeams-image.png)

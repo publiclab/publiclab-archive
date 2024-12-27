@@ -7,6 +7,8 @@ path: /notes/gonzoearth/9-29-2012/diy-map-making-balloon-view-los-angeles.md
 nid: 4092
 uid: 12
 
+cids: 1528
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-09-28 at 9.45.19 PM.png)

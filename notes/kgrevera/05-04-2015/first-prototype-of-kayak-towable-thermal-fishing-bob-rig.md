@@ -7,6 +7,8 @@ path: /notes/kgrevera/05-04-2015/first-prototype-of-kayak-towable-thermal-fishin
 nid: 11782
 uid: 432001
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/758/original/IMG_5757.pdf)

@@ -7,6 +7,8 @@ path: /notes/xose/12-06-2016/afloss-collection-of-tutorials.md
 nid: 13749
 uid: 497123
 
+cids: 15930,15933,16010
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/982/original/floss_1_800.png)

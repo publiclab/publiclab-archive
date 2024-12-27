@@ -7,6 +7,8 @@ path: /notes/mathew/4-13-2012/kite-balloon-rh-upson.md
 nid: 1665
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-04-12 at 9.34.43 PM.png)

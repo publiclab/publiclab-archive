@@ -7,6 +7,8 @@ path: /notes/JLJ/04-09-2018/calculating-ndvi-using-pinoir-camera-and-blue-filter
 nid: 16120
 uid: 530259
 
+cids: 19338,19428,23056,23058
+
 ---
 
 # Calculating NDVI - using PiNoIR camera and blue filter

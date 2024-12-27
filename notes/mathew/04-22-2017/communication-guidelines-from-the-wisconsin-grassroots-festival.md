@@ -7,6 +7,8 @@ path: /notes/mathew/04-22-2017/communication-guidelines-from-the-wisconsin-grass
 nid: 14129
 uid: 4
 
+cids: 19706
+
 ---
 
 # Communication Guidelines from the Wisconsin Grassroots Festival

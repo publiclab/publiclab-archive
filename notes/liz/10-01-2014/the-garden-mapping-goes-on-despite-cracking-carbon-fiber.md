@@ -7,6 +7,8 @@ path: /notes/liz/10-01-2014/the-garden-mapping-goes-on-despite-cracking-carbon-f
 nid: 11219
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/231/original/IMG_3800.JPG)

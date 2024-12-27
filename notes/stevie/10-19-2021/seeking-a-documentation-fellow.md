@@ -7,6 +7,8 @@ path: /notes/stevie/10-19-2021/seeking-a-documentation-fellow.md
 nid: 27947
 uid: 422561
 
+cids: 29339
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/939/original/Screen_Shot_2021-10-19_at_2.37.36_PM.png)

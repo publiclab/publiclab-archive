@@ -7,6 +7,8 @@ path: /notes/warren/10-31-2016/create-a-welcoming-first-timers-only-issue-to-inv
 nid: 13667
 uid: 1
 
+cids: 15756,15781,31393
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/668/original/Screenshot_2016-10-30_at_7.55.15_PM.png)

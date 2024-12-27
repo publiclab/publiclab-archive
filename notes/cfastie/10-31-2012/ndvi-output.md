@@ -7,6 +7,8 @@ path: /notes/cfastie/10-31-2012/ndvi-output.md
 nid: 4720
 uid: 554
 
+cids: 1941,2114
+
 ---
 
 ![](https://publiclab.org/sites/default/files/NDVILuts.jpg)

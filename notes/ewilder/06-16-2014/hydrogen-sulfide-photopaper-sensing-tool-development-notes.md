@@ -7,6 +7,8 @@ path: /notes/ewilder/06-16-2014/hydrogen-sulfide-photopaper-sensing-tool-develop
 nid: 10576
 uid: 421152
 
+cids: 16752,16753
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/765/original/undefined)

@@ -7,6 +7,8 @@ path: /notes/Rgaude/04-30-2021/potholes-in-new-orleans-study-design.md
 nid: 26417
 uid: 749812
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/622/original/Science_Pothole_1.jpg)

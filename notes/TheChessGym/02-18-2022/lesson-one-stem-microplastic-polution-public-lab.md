@@ -7,6 +7,8 @@ path: /notes/TheChessGym/02-18-2022/lesson-one-stem-microplastic-polution-public
 nid: 30036
 uid: 788868
 
+cids: 29684
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/407/original/images%281%29)

@@ -7,6 +7,8 @@ path: /notes/warren/11-28-2012/boston-area-mapknitter-meetup.md
 nid: 5038
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 12.png)

@@ -7,6 +7,8 @@ path: /notes/azaelb/05-09-2015/ndvi-with-a-key-chain-camera-to-use-with-a-mini-d
 nid: 11802
 uid: 319070
 
+cids: 11638,11640
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/859/original/InfragramColorIndex.jpg)

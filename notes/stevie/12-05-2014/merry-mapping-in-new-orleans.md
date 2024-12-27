@@ -7,6 +7,8 @@ path: /notes/stevie/12-05-2014/merry-mapping-in-new-orleans.md
 nid: 11438
 uid: 422561
 
+cids: 10911
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/272/original/a_IMG_4175.JPG)

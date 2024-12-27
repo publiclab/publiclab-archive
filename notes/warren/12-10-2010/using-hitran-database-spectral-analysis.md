@@ -7,6 +7,8 @@ path: /notes/warren/12-10-2010/using-hitran-database-spectral-analysis.md
 nid: 25
 uid: 1
 
+cids: 328,8603,8644,8647,8681,21291
+
 ---
 
 ![](https://publiclab.org/sites/default/files/directoutput-1.png)

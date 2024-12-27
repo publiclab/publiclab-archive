@@ -7,6 +7,8 @@ path: /notes/pibinko/04-25-2022/participatory-night-sky-quality-monitoring.md
 nid: 30588
 uid: 793578
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/520/original/bmp_adesivo-992x1024.jpg)

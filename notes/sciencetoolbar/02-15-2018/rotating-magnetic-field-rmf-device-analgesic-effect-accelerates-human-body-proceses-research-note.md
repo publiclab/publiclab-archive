@@ -7,6 +7,8 @@ path: /notes/sciencetoolbar/02-15-2018/rotating-magnetic-field-rmf-device-analge
 nid: 15741
 uid: 513114
 
+cids: 26586,28175
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/327/original/rotating_magnetic_field_device.jpg)

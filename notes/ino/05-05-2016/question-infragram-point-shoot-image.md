@@ -7,6 +7,8 @@ path: /notes/ino/05-05-2016/question-infragram-point-shoot-image.md
 nid: 13082
 uid: 468582
 
+cids: 14554,14555
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/971/original/Essai_infragram.PNG)

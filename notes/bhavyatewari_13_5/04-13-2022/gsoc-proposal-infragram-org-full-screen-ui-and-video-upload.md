@@ -7,6 +7,8 @@ path: /notes/bhavyatewari_13_5/04-13-2022/gsoc-proposal-infragram-org-full-scree
 nid: 30355
 uid: 795167
 
+cids: 30003,30005,30037,30047,30071
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/734/original/PublicLab_logo.png)

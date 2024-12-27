@@ -7,6 +7,8 @@ path: /notes/mcuman/12-30-2012/white-light-sources.md
 nid: 5382
 uid: 47250
 
+cids: 
+
 ---
 
 # White light sources

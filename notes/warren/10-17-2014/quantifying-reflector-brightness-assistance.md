@@ -7,6 +7,8 @@ path: /notes/warren/10-17-2014/quantifying-reflector-brightness-assistance.md
 nid: 11272
 uid: 1
 
+cids: 10569
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/461/original/reflector.png)

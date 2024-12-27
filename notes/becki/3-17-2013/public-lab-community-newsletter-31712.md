@@ -7,6 +7,8 @@ path: /notes/becki/3-17-2013/public-lab-community-newsletter-31712.md
 nid: 6379
 uid: 46673
 
+cids: 
+
 ---
 
 # Public Lab Community Newsletter 3.17.13

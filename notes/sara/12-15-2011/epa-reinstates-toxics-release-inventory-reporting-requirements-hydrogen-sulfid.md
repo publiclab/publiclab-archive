@@ -7,6 +7,8 @@ path: /notes/sara/12-15-2011/epa-reinstates-toxics-release-inventory-reporting-r
 nid: 642
 uid: 8
 
+cids: 
+
 ---
 
 # EPA Reinstates Toxics Release Inventory Reporting Requirements For Hydrogen Sulfide 

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-28-2016/resolution-test-using-532nm-laser-and-405nm-u
 nid: 13402
 uid: 461120
 
+cids: 15246,15252,15253
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/805/original/JDEPC-ov05_sheet_3.png)

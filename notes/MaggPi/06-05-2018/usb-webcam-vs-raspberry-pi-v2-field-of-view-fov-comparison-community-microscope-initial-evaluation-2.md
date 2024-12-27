@@ -7,6 +7,8 @@ path: /notes/MaggPi/06-05-2018/usb-webcam-vs-raspberry-pi-v2-field-of-view-fov-c
 nid: 16431
 uid: 501996
 
+cids: 19765,19766,19767,19779,19797,19803
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/108/original/Slide5.JPG)

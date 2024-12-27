@@ -7,6 +7,8 @@ path: /notes/gbathree/08-13-2014/photosynq-midsummer-update.md
 nid: 11042
 uid: 53164
 
+cids: 10000
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/230/original/Selection_039.png)

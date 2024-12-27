@@ -7,6 +7,8 @@ path: /notes/denissebn_06/04-01-2021/is-the-ballon-legal.md
 nid: 26117
 uid: 749988
 
+cids: 28452,28454,28471
+
 ---
 
 # Is the ballon legal?

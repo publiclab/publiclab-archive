@@ -7,6 +7,8 @@ path: /notes/stevie/06-14-2019/how-do-i-take-good-photographs-of-environmental-i
 nid: 19702
 uid: 422561
 
+cids: 24796
+
 ---
 
 # How do I take good photographs of environmental issues?

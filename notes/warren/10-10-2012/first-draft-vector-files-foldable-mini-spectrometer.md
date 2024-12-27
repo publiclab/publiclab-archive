@@ -7,6 +7,8 @@ path: /notes/warren/10-10-2012/first-draft-vector-files-foldable-mini-spectromet
 nid: 4302
 uid: 1
 
+cids: 1618,1620,1628,1686,2301,6333
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-10-10 at 1.08.24 AM.png)

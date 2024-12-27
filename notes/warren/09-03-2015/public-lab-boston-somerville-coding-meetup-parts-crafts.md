@@ -7,6 +7,8 @@ path: /notes/warren/09-03-2015/public-lab-boston-somerville-coding-meetup-parts-
 nid: 12195
 uid: 1
 
+cids: 12499,12512,12522
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/448/original/pnc.jpg)

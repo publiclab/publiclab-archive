@@ -7,6 +7,8 @@ path: /notes/patcoyle/7-26-2012/my-first-personal-aerial-photo-mapping-session-b
 nid: 2961
 uid: 77
 
+cids: 1086
+
 ---
 
 # My first “Personal aerial photo-mapping session with balloons or kites,” a fundraising auction item, was successful

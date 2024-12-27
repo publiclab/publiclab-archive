@@ -7,6 +7,8 @@ path: /notes/jackabel/02-11-2021/lead-air-sampling.md
 nid: 25662
 uid: 739284
 
+cids: 28190,28198
+
 ---
 
 # lead air sampling

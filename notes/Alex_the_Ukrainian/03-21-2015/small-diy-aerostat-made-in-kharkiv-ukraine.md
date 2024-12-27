@@ -7,6 +7,8 @@ path: /notes/Alex_the_Ukrainian/03-21-2015/small-diy-aerostat-made-in-kharkiv-uk
 nid: 11708
 uid: 436428
 
+cids: 11410,18084,18090,29777,29783
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/380/original/PICT0724_lw.JPG)

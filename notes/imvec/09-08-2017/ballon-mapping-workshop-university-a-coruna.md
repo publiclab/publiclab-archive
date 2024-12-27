@@ -7,6 +7,8 @@ path: /notes/imvec/09-08-2017/ballon-mapping-workshop-university-a-coruna.md
 nid: 14857
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/589/original/endesa.jpg)

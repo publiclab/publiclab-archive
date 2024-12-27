@@ -7,6 +7,8 @@ path: /notes/mercyorangi/03-21-2014/sky-cam-enhancement-gsoc-2014.md
 nid: 10213
 uid: 421649
 
+cids: 8798,8802,8834,9032
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/362/original/sky_cam.jpg)

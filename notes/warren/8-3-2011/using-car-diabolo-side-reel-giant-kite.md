@@ -7,6 +7,8 @@ path: /notes/warren/8-3-2011/using-car-diabolo-side-reel-giant-kite.md
 nid: 424
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/diablo.png)

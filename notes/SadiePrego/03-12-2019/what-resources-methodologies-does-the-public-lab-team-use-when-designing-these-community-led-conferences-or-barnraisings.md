@@ -7,6 +7,8 @@ path: /notes/SadiePrego/03-12-2019/what-resources-methodologies-does-the-public-
 nid: 18521
 uid: 562839
 
+cids: 22126,22128
+
 ---
 
 # What resources / methodologies does the Public Lab team use when designing Community led conferences / Barnraisings? 

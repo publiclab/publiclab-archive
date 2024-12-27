@@ -7,6 +7,8 @@ path: /notes/kgradow1/05-30-2020/whole-air-sampling.md
 nid: 23739
 uid: 297929
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/566/original/EPA_Summa_Canisters__Air_sampling_summa_canister_with_field_duplicate_in_Louisiana.jpg)

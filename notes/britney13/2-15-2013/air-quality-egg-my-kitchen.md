@@ -7,6 +7,8 @@ path: /notes/britney13/2-15-2013/air-quality-egg-my-kitchen.md
 nid: 5999
 uid: 50452
 
+cids: 3516,3523,3586,3591,3597,3599
+
 ---
 
 ![](https://publiclab.org/sites/default/files/an_1.jpeg)

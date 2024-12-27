@@ -7,6 +7,8 @@ path: /notes/bronwen/08-24-2017/kits-are-on-the-move.md
 nid: 14789
 uid: 237313
 
+cids: 17465
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/409/original/kitswindow_copy.jpg)

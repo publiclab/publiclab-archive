@@ -7,6 +7,8 @@ path: /notes/stevie/10-19-2017/where-do-you-send-air-grab-samples-to-for-testing
 nid: 15069
 uid: 422561
 
+cids: 22998,22999,27208
+
 ---
 
 # Where do you send air grab samples to for testing? 

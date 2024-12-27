@@ -7,6 +7,8 @@ path: /notes/TheChessGym/09-26-2022/sublimation-and-deposition-impact-our-water-
 nid: 34998
 uid: 788868
 
+cids: 30635,30636,30637,30638,30639,30640,30641,30642
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/193/original/conversion-sublimation-carbon-dioxide-gas.webp)

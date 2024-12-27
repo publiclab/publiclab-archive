@@ -7,6 +7,8 @@ path: /notes/pataxte/01-14-2019/a-platform-for-seeing-the-shutdown.md
 nid: 18109
 uid: 559561
 
+cids: 21736
+
 ---
 
 # a platform for Seeing the Shutdown?

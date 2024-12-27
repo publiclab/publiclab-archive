@@ -7,6 +7,8 @@ path: /notes/liz/11-02-2018/how-can-we-adjust-the-volume-of-the-coqui.md
 nid: 17466
 uid: 7
 
+cids: 21103,21104,21107,21109,21110,21119,21994
+
 ---
 
 # How can we adjust the volume of the coqui?

@@ -7,6 +7,8 @@ path: /notes/daniel94/11-27-2015/calibrating.md
 nid: 12450
 uid: 458703
 
+cids: 12948,12960,12965,13047,13268
+
 ---
 
 # Calibrating

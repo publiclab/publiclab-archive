@@ -7,6 +7,8 @@ path: /notes/warren/08-17-2013/infragrammar-compositing-infrared-images-with-sim
 nid: 9028
 uid: 1
 
+cids: 6663,6664,6665,6666,6667,6707,6710,6712
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/174/original/Screen_Shot_2013-08-17_at_11.52.00_AM.png)

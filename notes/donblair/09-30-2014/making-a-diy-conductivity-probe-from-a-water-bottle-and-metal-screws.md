@@ -7,6 +7,8 @@ path: /notes/donblair/09-30-2014/making-a-diy-conductivity-probe-from-a-water-bo
 nid: 11217
 uid: 43651
 
+cids: 12900,13298,13302,13305,13313,13314
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/222/original/IMG_0737.JPG)

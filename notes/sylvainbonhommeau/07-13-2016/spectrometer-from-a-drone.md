@@ -7,6 +7,8 @@ path: /notes/sylvainbonhommeau/07-13-2016/spectrometer-from-a-drone.md
 nid: 13286
 uid: 483452
 
+cids: 14927,14935,14937,14938,14959,15248
+
 ---
 
 # Spectrometer from a drone

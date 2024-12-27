@@ -7,6 +7,8 @@ path: /4-9-2012/bohemia-spillway-kite-photos.md
 nid: 1633
 uid: 379
 
+cids: 607,1724,11016,11017,12325
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0921 y - Copy.JPG)

@@ -7,6 +7,8 @@ path: /notes/warren/6-4-2011/national-geographic-lidar-survey-tree-canopy-colore
 nid: 333
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20110514_103134.jpg)

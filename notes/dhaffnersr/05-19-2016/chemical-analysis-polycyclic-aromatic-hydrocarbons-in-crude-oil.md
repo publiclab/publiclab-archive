@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-19-2016/chemical-analysis-polycyclic-aromatic-hydroca
 nid: 13131
 uid: 461120
 
+cids: 14654
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/226/original/981px-Benzo-a-pyrene.svg.png)

@@ -7,6 +7,8 @@ path: /notes/noi5e/12-17-2020/outreachy-blog-1-intro-core-values.md
 nid: 25289
 uid: 726270
 
+cids: 27828,27829,27830,27833,27834,27843,27866
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/081/original/G9zVJXuoW.jpeg)

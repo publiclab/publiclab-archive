@@ -7,6 +7,8 @@ path: /notes/jamontalbs/03-30-2023/question-validity-of-aquaculture-water-qualit
 nid: 38773
 uid: 838180
 
+cids: 30918,30984,30985,31018,31033,31044,31110,31124,31143,31159,31236,31249,31299,31300,31340,31341,31419,31433,31459,31494,31498
+
 ---
 
 # Question: Validity of Aquaculture Water Quality Test Kits

@@ -7,6 +7,8 @@ path: /notes/jakemartin/07-12-2016/diy-fluorometer-and-solvent-free-extraction-a
 nid: 13285
 uid: 422965
 
+cids: 14924,14926,17826,17827
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/019/original/photo_4_%2811%29.JPG)

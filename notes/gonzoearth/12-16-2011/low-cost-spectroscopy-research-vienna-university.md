@@ -7,6 +7,8 @@ path: /notes/gonzoearth/12-16-2011/low-cost-spectroscopy-research-vienna-univers
 nid: 644
 uid: 12
 
+cids: 381
+
 ---
 
 # low cost spectroscopy research at Vienna University

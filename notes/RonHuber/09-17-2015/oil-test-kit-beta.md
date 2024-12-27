@@ -7,6 +7,8 @@ path: /notes/RonHuber/09-17-2015/oil-test-kit-beta.md
 nid: 12219
 uid: 437
 
+cids: 12557,12558
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/584/original/oiltestkit_box4.jpg)

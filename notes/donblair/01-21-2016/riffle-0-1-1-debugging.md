@@ -7,6 +7,8 @@ path: /notes/donblair/01-21-2016/riffle-0-1-1-debugging.md
 nid: 12600
 uid: 43651
 
+cids: 13369,13373,13386,13387,13388,13389,13390,13393,13417,13418
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/749/original/IMG_20160121_165717798.jpg)

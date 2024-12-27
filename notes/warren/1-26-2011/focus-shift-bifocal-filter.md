@@ -7,6 +7,8 @@ path: /notes/warren/1-26-2011/focus-shift-bifocal-filter.md
 nid: 61
 uid: 1
 
+cids: 1234
+
 ---
 
 ![](https://publiclab.org/sites/default/files/GEDC4109.JPG)

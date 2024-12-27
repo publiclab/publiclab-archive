@@ -7,6 +7,8 @@ path: /06-04-2022/operation-pollution-sucks-100-nurdle-sucker-upper-from-commerc
 nid: 31030
 uid: 379
 
+cids: 31337,31372,31376,31469
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/725/original/mesh_bags.jpg)

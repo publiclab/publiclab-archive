@@ -7,6 +7,8 @@ path: /notes/Schroyer/06-26-2014/broadcast-dust-readings-from-a-smartphone.md
 nid: 10620
 uid: 381809
 
+cids: 9306,9363,9371,9376,9377,9378,9379,9381,9382,9434,9445,10253
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/996/original/DustDuino_Logo.jpg)

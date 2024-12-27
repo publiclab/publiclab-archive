@@ -7,6 +7,8 @@ path: /notes/MicheleTobias/05-31-2013/public-lab-norcal-meet-up-cloverleaf-farms
 nid: 7995
 uid: 149
 
+cids: 4926
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/443/original/KAPSite.PNG)

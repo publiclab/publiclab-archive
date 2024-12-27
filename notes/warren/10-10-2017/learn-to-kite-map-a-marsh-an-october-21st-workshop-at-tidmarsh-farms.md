@@ -7,6 +7,8 @@ path: /notes/warren/10-10-2017/learn-to-kite-map-a-marsh-an-october-21st-worksho
 nid: 15015
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/914/original/squid-kite.jpg)

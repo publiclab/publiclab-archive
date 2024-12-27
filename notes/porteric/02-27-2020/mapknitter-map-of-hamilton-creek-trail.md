@@ -7,6 +7,8 @@ path: /notes/porteric/02-27-2020/mapknitter-map-of-hamilton-creek-trail.md
 nid: 22945
 uid: 668997
 
+cids: 
+
 ---
 
 # MapKnitter map of Hamilton Creek Trail

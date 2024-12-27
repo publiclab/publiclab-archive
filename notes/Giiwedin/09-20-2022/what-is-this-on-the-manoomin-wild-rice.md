@@ -7,6 +7,8 @@ path: /notes/Giiwedin/09-20-2022/what-is-this-on-the-manoomin-wild-rice.md
 nid: 34972
 uid: 799642
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/165/original/0574F654-C3A3-4F45-8B2F-A501D0B51860.jpeg)

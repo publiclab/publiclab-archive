@@ -7,6 +7,8 @@ path: /notes/gilbert/08-31-2017/africatown-blueway-public-lab-nas-workshop-prich
 nid: 14808
 uid: 508551
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/487/original/image.png)

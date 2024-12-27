@@ -7,6 +7,8 @@ path: /notes/TheChessGym/10-18-2022/nitrogen-cycle-facts.md
 nid: 35482
 uid: 788868
 
+cids: 30714,30715,30716,30717,30718,30719,30720,30721,30723,30724
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/236/original/Nitrogen_Cycle_2.svg.webp)

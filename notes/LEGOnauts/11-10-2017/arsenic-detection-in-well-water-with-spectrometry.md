@@ -7,6 +7,8 @@ path: /notes/LEGOnauts/11-10-2017/arsenic-detection-in-well-water-with-spectrome
 nid: 15170
 uid: 517979
 
+cids: 17654,17659
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/361/original/As.jpg)

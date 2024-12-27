@@ -7,6 +7,8 @@ path: /notes/liz/10-01-2014/next-attempts-at-dye-tracing.md
 nid: 11223
 uid: 7
 
+cids: 10481,10482,10486,10502,10557
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/267/original/IMG_1393.JPG)

@@ -7,6 +7,8 @@ path: /notes/liz/07-22-2013/gowanus-challenge-and-the-glam-balloon-featured-in-n
 nid: 8918
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/889/original/2013_15_June_Gowanus_Dredges_Canoe_Club_Challenge_Race_The_Destination_pic_by_Eymund.JPG)

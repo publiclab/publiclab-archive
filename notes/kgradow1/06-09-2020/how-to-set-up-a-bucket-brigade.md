@@ -7,6 +7,8 @@ path: /notes/kgradow1/06-09-2020/how-to-set-up-a-bucket-brigade.md
 nid: 23804
 uid: 297929
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/707/original/How_to_Form_a_Bucket_Brigade.jpg)

@@ -7,6 +7,8 @@ path: /notes/Ag8n/03-01-2018/how-do-i-use-this-with-rtlsdr.md
 nid: 15849
 uid: 520994
 
+cids: 18690,18711,18716,18724
+
 ---
 
 # How do I...use this with rtlsdr?

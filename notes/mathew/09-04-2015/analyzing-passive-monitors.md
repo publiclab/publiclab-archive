@@ -7,6 +7,8 @@ path: /notes/mathew/09-04-2015/analyzing-passive-monitors.md
 nid: 12197
 uid: 4
 
+cids: 12655,12747,12786,13070,14687,16051,16053,16054
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/472/original/areavsperimeter.jpg)

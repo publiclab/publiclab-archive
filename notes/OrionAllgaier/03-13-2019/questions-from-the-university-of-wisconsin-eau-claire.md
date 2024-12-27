@@ -7,6 +7,8 @@ path: /notes/OrionAllgaier/03-13-2019/questions-from-the-university-of-wisconsin
 nid: 18544
 uid: 526982
 
+cids: 22144,22156,22157,22158,22159
+
 ---
 
 # Questions about Plantower sensors from the University of Wisconsin - Eau Claire

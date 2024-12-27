@@ -7,6 +7,8 @@ path: /notes/patcoyle/03-16-2014/initial-observations-free-sfm-tools-for-scaled-
 nid: 10188
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/269/original/image_from_123D_model_on_site.jpg)

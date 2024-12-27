@@ -7,6 +7,8 @@ path: /notes/mathew/2-23-2013/inspirational-deltas.md
 nid: 6097
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/kiteplans_planos_tissue_tissue.html_.gif)

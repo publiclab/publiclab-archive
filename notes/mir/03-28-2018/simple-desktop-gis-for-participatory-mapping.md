@@ -7,6 +7,8 @@ path: /notes/mir/03-28-2018/simple-desktop-gis-for-participatory-mapping.md
 nid: 16033
 uid: 528162
 
+cids: 19296,23043,23049,23050,23068
+
 ---
 
 # Simple desktop GIS for participatory mapping

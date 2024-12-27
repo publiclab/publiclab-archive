@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/09-08-2016/0-05mm-slit-gillette-utility-knife-razor-blad
 nid: 13432
 uid: 461120
 
+cids: 16441
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/983/original/EEM_532nm_laser_log_view_contures.png)

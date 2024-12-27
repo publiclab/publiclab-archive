@@ -7,6 +7,8 @@ path: /notes/ajawitz/06-17-2015/question-would-the-thermal-fishing-bob-concept-w
 nid: 11984
 uid: 294634
 
+cids: 11971,11972,11973,11974,11975,11976,11977,11993,11994,12047,12055,12152
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/354/original/Seaglide.jpg)

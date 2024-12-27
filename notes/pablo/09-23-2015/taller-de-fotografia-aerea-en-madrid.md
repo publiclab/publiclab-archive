@@ -7,6 +7,8 @@ path: /notes/pablo/09-23-2015/taller-de-fotografia-aerea-en-madrid.md
 nid: 12237
 uid: 160
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/672/original/01_IMAG0291.jpg)

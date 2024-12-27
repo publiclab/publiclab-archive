@@ -7,6 +7,8 @@ path: /notes/placematters/5-5-2011/diy-touchtable-wii-remote.md
 nid: 610
 uid: 140
 
+cids: 1058,1059,1060
+
 ---
 
 ![](https://publiclab.org/sites/default/files/3D model of projectors and tripod_0.png)

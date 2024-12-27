@@ -7,6 +7,8 @@ path: /notes/homechemist/08-04-2014/homemade-colorimter-determine-the-concentrat
 nid: 11012
 uid: 212574
 
+cids: 9761,9763,9768,9769,9770,9771,9773,9775,9776,9810,10574,11957,12332,23910
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/010/original/remediation6.png)

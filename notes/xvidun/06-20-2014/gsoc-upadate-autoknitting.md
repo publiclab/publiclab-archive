@@ -7,6 +7,8 @@ path: /notes/xvidun/06-20-2014/gsoc-upadate-autoknitting.md
 nid: 10594
 uid: 421168
 
+cids: 9217,9218,9219,9221,9228,9230
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/900/original/Map-cuas-marked.png)

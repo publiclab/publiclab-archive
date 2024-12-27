@@ -7,6 +7,8 @@ path: /notes/dorncox/05-10-2014/ifarm-2014.md
 nid: 10461
 uid: 1205
 
+cids: 9026,9027,9053
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/214/original/photo_2.JPG)

@@ -7,6 +7,8 @@ path: /notes/mathew/7-12-2012/printable-scale-targets-cataloging-camera-phone-di
 nid: 2783
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5168_crop.jpg)

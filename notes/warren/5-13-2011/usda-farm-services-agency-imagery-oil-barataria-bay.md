@@ -7,6 +7,8 @@ path: /notes/warren/5-13-2011/usda-farm-services-agency-imagery-oil-barataria-ba
 nid: 235
 uid: 1
 
+cids: 245
+
 ---
 
 ![](https://publiclab.org/sites/default/files/oil_in_GE_Barataria_0.JPG)

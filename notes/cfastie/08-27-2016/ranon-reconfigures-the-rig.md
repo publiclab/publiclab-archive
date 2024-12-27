@@ -7,6 +7,8 @@ path: /notes/cfastie/08-27-2016/ranon-reconfigures-the-rig.md
 nid: 13400
 uid: 554
 
+cids: 15249,15251,15259,15260,15269,15274
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/776/original/RecoRig_20o20_2k.jpg)

@@ -7,6 +7,8 @@ path: /notes/stevie/08-06-2019/seeking-monitoring-methods-fellow-for-oil-gas-wat
 nid: 20444
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/381/original/HUMAN_NATURE__LLC_-_Photo_Feb_24__12_56_35_PM.jpg)

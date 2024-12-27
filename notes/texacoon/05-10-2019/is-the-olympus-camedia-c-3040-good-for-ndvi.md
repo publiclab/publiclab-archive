@@ -7,6 +7,8 @@ path: /notes/texacoon/05-10-2019/is-the-olympus-camedia-c-3040-good-for-ndvi.md
 nid: 19291
 uid: 585854
 
+cids: 24102,24115,24117,24142
+
 ---
 
 # Is the Olympus CAMEDIA C-3040 good for NDVI?

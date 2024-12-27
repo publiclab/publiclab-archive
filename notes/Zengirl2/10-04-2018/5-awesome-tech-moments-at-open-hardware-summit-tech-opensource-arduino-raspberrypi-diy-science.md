@@ -7,6 +7,8 @@ path: /notes/Zengirl2/10-04-2018/5-awesome-tech-moments-at-open-hardware-summit-
 nid: 17224
 uid: 423961
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/766/original/Badge.jpg)

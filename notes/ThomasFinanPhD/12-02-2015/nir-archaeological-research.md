@@ -7,6 +7,8 @@ path: /notes/ThomasFinanPhD/12-02-2015/nir-archaeological-research.md
 nid: 12468
 uid: 459445
 
+cids: 12996
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/121/original/Frame-24-07-2015-06-11-04.tiff)

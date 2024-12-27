@@ -7,6 +7,8 @@ path: /notes/Bshort4009985/04-30-2021/my-experiences-of-soil-sampling.md
 nid: 26431
 uid: 754786
 
+cids: 28697
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/636/original/MicrosoftTeams-image.png)

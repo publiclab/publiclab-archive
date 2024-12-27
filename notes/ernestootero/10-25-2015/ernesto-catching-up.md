@@ -7,6 +7,8 @@ path: /notes/ernestootero/10-25-2015/ernesto-catching-up.md
 nid: 12332
 uid: 447002
 
+cids: 12860
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/127/original/20150930_102630.jpg)

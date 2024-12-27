@@ -7,6 +7,8 @@ path: /notes/testtube/01-23-2017/save-and-download-buttons-where-does-the-file-s
 nid: 13871
 uid: 484823
 
+cids: 22408,22413
+
 ---
 
 # Save and Download buttons -where does the file save or download to?

@@ -7,6 +7,8 @@ path: /notes/liz/09-17-2014/world-maker-faire.md
 nid: 11148
 uid: 7
 
+cids: 10365,10372,10379
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/844/original/Screen_Shot_2014-09-17_at_4.01.48_PM.png)

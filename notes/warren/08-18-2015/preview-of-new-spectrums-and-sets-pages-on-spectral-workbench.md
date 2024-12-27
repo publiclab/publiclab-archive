@@ -7,6 +7,8 @@ path: /notes/warren/08-18-2015/preview-of-new-spectrums-and-sets-pages-on-spectr
 nid: 12154
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/169/original/Screenshot_2015-08-18_at_2.09.18_PM.png)

@@ -7,6 +7,8 @@ path: /notes/silvanhi/08-22-2014/mobius-actioncam-with-wratten-25a-filter-ndvi-a
 nid: 11072
 uid: 427351
 
+cids: 10107,10108,10109,10110,10111,10112,10113,10125,10500,11544
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/380/original/42.jpeg)

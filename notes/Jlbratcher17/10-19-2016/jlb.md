@@ -7,6 +7,8 @@ path: /notes/Jlbratcher17/10-19-2016/jlb.md
 nid: 13605
 uid: 494919
 
+cids: 15682
+
 ---
 
 # Jlb

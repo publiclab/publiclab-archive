@@ -7,6 +7,8 @@ path: /notes/Oc3anResearch3rs/02-07-2020/how-do-hygiene-products-effect-bodies-o
 nid: 22701
 uid: 662454
 
+cids: 26320,26597
+
 ---
 
 # how do hygiene products effect bodies of water ?

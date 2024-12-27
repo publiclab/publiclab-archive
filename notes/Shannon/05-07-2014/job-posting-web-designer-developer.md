@@ -7,6 +7,8 @@ path: /notes/Shannon/05-07-2014/job-posting-web-designer-developer.md
 nid: 10438
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/093/original/plots-logo-transparent.jpg)

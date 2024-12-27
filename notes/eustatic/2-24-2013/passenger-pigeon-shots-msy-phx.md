@@ -7,6 +7,8 @@ path: /2-24-2013/passenger-pigeon-shots-msy-phx.md
 nid: 6115
 uid: 379
 
+cids: 3553,3555,3556,3560,3623
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8487377765_5dce3c82eb_k.jpg)

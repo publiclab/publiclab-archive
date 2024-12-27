@@ -7,6 +7,8 @@ path: /notes/warren/07-30-2014/equalizing-area-of-spectral-graphs-for-comparison
 nid: 10997
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/680/original/comparisons.jpg)

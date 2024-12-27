@@ -7,6 +7,8 @@ path: /notes/vr00n/06-07-2017/citywide-street-quality-identification.md
 nid: 14510
 uid: 508616
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/685/original/device.jpeg)

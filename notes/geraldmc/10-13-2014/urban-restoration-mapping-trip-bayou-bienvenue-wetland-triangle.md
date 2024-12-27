@@ -7,6 +7,8 @@ path: /notes/geraldmc/10-13-2014/urban-restoration-mapping-trip-bayou-bienvenue-
 nid: 11262
 uid: 421225
 
+cids: 10540,10542,10543,10544,10545,10546,10547
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/430/original/BIENVENUE_STICHED.png)

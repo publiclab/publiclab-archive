@@ -7,6 +7,8 @@ path: /notes/ajguthrie99/08-25-2020/beginning-senior-thesis.md
 nid: 24453
 uid: 716372
 
+cids: 27275
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/674/original/IMG_6284.jpg)

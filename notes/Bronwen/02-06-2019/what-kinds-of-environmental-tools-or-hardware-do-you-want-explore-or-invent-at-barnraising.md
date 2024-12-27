@@ -7,6 +7,8 @@ path: /notes/Bronwen/02-06-2019/what-kinds-of-environmental-tools-or-hardware-do
 nid: 18269
 uid: 237313
 
+cids: 21860,21864
+
 ---
 
 # What kinds of environmental tools or hardware do you want explore (or invent) at Barnraising?

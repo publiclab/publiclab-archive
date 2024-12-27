@@ -7,6 +7,8 @@ path: /notes/warren/04-20-2018/prepare-an-sd-card-for-a-raspberry-pi-camera-from
 nid: 16180
 uid: 1
 
+cids: 20100,20101,20146,24255,24286,24288,24294
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/673/original/SD_card.jpg)

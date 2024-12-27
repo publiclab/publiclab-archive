@@ -7,6 +7,8 @@ path: /notes/stevie/04-28-2020/how-long-should-you-deploy-babylegs-for.md
 nid: 23501
 uid: 422561
 
+cids: 26724
+
 ---
 
 # How long should you deploy babylegs for? 

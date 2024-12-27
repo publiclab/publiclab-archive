@@ -7,6 +7,8 @@ path: /notes/Jtaw/03-14-2017/what-is-the-algorithm-used-in-generating-the-fastie
 nid: 14012
 uid: 504063
 
+cids: 16363,16369,18260,22442,22445,23223
+
 ---
 
 # What is the algorithm used in generating the fastie colormap from NDVI in Infragram? 

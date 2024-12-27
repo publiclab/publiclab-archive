@@ -7,6 +7,8 @@ path: /notes/cfastie/5-15-2012/ndvi-out-shadows.md
 nid: 1991
 uid: 554
 
+cids: 1115
+
 ---
 
 ![](https://publiclab.org/sites/default/files/SwampVIS-414-IR-412.jpg)

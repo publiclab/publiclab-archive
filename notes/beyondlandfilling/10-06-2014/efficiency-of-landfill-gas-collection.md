@@ -7,6 +7,8 @@ path: /notes/beyondlandfilling/10-06-2014/efficiency-of-landfill-gas-collection.
 nid: 11238
 uid: 429454
 
+cids: 
+
 ---
 
 # Efficiency of Landfill Gas Collection 

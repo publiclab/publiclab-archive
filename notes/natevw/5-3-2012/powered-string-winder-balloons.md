@@ -7,6 +7,8 @@ path: /notes/natevw/5-3-2012/powered-string-winder-balloons.md
 nid: 1900
 uid: 804
 
+cids: 683,684,700
+
 ---
 
 ![](https://publiclab.org/sites/default/files/string_winder_diagram_bg_0.png)

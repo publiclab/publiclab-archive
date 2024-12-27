@@ -7,6 +7,8 @@ path: /notes/imvec/11-25-2017/3er-encuentro-de-ciencia-ciudadana.md
 nid: 15236
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/552/original/2016_0104_003127_261.jpg)

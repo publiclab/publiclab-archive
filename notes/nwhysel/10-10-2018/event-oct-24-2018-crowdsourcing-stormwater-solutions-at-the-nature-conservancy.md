@@ -7,6 +7,8 @@ path: /notes/nwhysel/10-10-2018/event-oct-24-2018-crowdsourcing-stormwater-solut
 nid: 17268
 uid: 434096
 
+cids: 20885,20890
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/894/original/highres_474970365.jpeg)

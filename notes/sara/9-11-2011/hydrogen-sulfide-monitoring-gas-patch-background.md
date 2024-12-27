@@ -7,6 +7,8 @@ path: /notes/sara/9-11-2011/hydrogen-sulfide-monitoring-gas-patch-background.md
 nid: 458
 uid: 8
 
+cids: 
+
 ---
 
 # Hydrogen Sulfide Monitoring In Gas Patch Background 

@@ -7,6 +7,8 @@ path: /notes/michelleiL/08-10-2022/open-call-game-over-formosa-plastics-report-b
 nid: 34861
 uid: 799004
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/011/original/Game_Over_Formosa.jpg)

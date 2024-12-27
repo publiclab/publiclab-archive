@@ -7,6 +7,8 @@ path: /notes/programmer1200/02-24-2018/atomic-emission-spectrum-website-to-pdf.m
 nid: 15810
 uid: 509305
 
+cids: 18591,18592,18594
+
 ---
 
 # Atomic Emission Spectrums

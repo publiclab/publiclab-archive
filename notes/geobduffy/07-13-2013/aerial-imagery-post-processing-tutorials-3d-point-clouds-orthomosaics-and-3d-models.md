@@ -7,6 +7,8 @@ path: /notes/geobduffy/07-13-2013/aerial-imagery-post-processing-tutorials-3d-po
 nid: 8866
 uid: 60509
 
+cids: 6307
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/768/original/PP_Tut_2.jpg)

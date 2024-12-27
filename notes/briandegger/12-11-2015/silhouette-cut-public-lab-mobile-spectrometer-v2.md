@@ -7,6 +7,8 @@ path: /notes/briandegger/12-11-2015/silhouette-cut-public-lab-mobile-spectromete
 nid: 12497
 uid: 58232
 
+cids: 13084,13175,13263,13300,13301,13304
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/265/original/F8XFIT3IC6IFMT8.LARGE.jpg)

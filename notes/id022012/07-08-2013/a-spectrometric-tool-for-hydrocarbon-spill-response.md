@@ -7,6 +7,8 @@ path: /notes/id022012/07-08-2013/a-spectrometric-tool-for-hydrocarbon-spill-resp
 nid: 8759
 uid: 60504
 
+cids: 6298,8154
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/679/original/MOD3_-_20130702_200254.jpg)

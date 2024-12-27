@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-25-2015/biobubbler-session-at-2015-public-lab-barnraise
 nid: 12446
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/044/original/formaldehyde_bubbler.jpg)

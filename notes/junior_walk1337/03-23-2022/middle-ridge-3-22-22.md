@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/03-23-2022/middle-ridge-3-22-22.md
 nid: 30175
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/555/original/birchtonSunny.00_03_12_20.Still001.jpg)

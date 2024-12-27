@@ -7,6 +7,8 @@ path: /notes/c329163204/05-24-2019/what-will-hawach-scientific-bring-to-you.md
 nid: 19513
 uid: 592122
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/446/original/15.jpg)

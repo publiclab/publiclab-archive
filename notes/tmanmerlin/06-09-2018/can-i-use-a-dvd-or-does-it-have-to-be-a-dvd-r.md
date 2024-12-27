@@ -7,6 +7,8 @@ path: /notes/tmanmerlin/06-09-2018/can-i-use-a-dvd-or-does-it-have-to-be-a-dvd-r
 nid: 16461
 uid: 498632
 
+cids: 19827,19828,19829,19830,19859,19888,19889,23116,23117,23118,23147,23149
+
 ---
 
 # Can I use a DVD or does it have to be a DVD-R ?

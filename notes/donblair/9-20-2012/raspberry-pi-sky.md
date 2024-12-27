@@ -7,6 +7,8 @@ path: /notes/donblair/9-20-2012/raspberry-pi-sky.md
 nid: 3908
 uid: 43651
 
+cids: 1405,1406,1421,1729,2588,24747
+
 ---
 
 ![](https://publiclab.org/sites/default/files/raspberryPIinthesky2_0.png)

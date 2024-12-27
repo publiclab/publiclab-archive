@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/05-24-2021/mi-post-de-presentacion.md
 nid: 26700
 uid: 639376
 
+cids: 28829,28830,28837,28839
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/915/original/IMG_20210516_111908.jpg)

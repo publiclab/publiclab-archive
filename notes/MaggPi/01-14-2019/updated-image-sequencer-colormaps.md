@@ -7,6 +7,8 @@ path: /notes/MaggPi/01-14-2019/updated-image-sequencer-colormaps.md
 nid: 18117
 uid: 501996
 
+cids: 21729,21730,22082,22083,22085,22086,22087,22181,23809
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/815/original/Slide1.JPG)

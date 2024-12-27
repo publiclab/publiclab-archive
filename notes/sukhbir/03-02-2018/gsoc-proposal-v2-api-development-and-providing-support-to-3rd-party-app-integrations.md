@@ -7,6 +7,8 @@ path: /notes/sukhbir/03-02-2018/gsoc-proposal-v2-api-development-and-providing-s
 nid: 15853
 uid: 525032
 
+cids: 18769,18778,18779,18870,18871,18974,19034,19050,19180,19185,19187,19189,19203,19206
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/790/original/screenshot_cropped.png)

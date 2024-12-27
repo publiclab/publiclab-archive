@@ -7,6 +7,8 @@ path: /notes/JSummers/04-09-2014/datalogger-part-2-hardware-design.md
 nid: 10288
 uid: 304279
 
+cids: 8717,8718
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/579/original/EagleBoardDataLogger2.png)

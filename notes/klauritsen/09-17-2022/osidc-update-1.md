@@ -7,6 +7,8 @@ path: /notes/klauritsen/09-17-2022/osidc-update-1.md
 nid: 34969
 uid: 813970
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/162/original/IMG_3328.jpg)

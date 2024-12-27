@@ -7,6 +7,8 @@ path: /notes/warren/12-13-2012/instructions-desktop-spectrometry-kit-backpack-de
 nid: 5190
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/desktop-kit-instructions-0.4.png)

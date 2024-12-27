@@ -7,6 +7,8 @@ path: /notes/Shannon/02-24-2014/join-the-public-lab-nonprofit-team-job-posting-o
 nid: 10060
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/012/original/plots-logo-transparent.jpg)

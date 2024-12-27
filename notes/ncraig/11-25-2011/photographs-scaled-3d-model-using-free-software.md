@@ -7,6 +7,8 @@ path: /notes/ncraig/11-25-2011/photographs-scaled-3d-model-using-free-software.m
 nid: 584
 uid: 15
 
+cids: 363,364,382,448,16251
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-11-27 at 12.09.40 AM.png)

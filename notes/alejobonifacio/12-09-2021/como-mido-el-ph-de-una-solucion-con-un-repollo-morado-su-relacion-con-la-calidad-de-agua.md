@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/12-09-2021/como-mido-el-ph-de-una-solucion-con-un-re
 nid: 28413
 uid: 639376
 
+cids: 29510,29511
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/196/original/Actividad_repollo.png)

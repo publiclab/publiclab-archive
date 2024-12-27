@@ -7,6 +7,8 @@ path: /notes/TheChessGym/03-15-2022/the-formation-and-beginning-of-public-lab.md
 nid: 30130
 uid: 788868
 
+cids: 29800,29801,29804,29829
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/520/original/Mississippi_River.jpg)

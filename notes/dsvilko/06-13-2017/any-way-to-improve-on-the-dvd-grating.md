@@ -7,6 +7,8 @@ path: /notes/dsvilko/06-13-2017/any-way-to-improve-on-the-dvd-grating.md
 nid: 14529
 uid: 257524
 
+cids: 16871,22488
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/774/original/IMG_1170.JPG)

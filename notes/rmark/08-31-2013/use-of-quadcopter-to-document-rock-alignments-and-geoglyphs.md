@@ -7,6 +7,8 @@ path: /notes/rmark/08-31-2013/use-of-quadcopter-to-document-rock-alignments-and-
 nid: 9082
 uid: 942
 
+cids: 6773,6774,7814,7818,13235
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/357/original/_dsc5981_1000.jpg)

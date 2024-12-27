@@ -7,6 +7,8 @@ path: /notes/geraldmc/11-08-2014/the-titan-ii-unpacked.md
 nid: 11326
 uid: 421225
 
+cids: 10718,10721,10729
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/780/original/T2RIG-1.jpg)

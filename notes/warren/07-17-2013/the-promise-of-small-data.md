@@ -7,6 +7,8 @@ path: /notes/warren/07-17-2013/the-promise-of-small-data.md
 nid: 8903
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/832/original/Screen_Shot_2013-07-17_at_3.14.02_PM.png)

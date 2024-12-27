@@ -7,6 +7,8 @@ path: /notes/mathew/05-21-2014/imagining-testing-polarized-light-microscopy-for-
 nid: 10493
 uid: 4
 
+cids: 9048,9049,9050,9054,9055,9056,9057,9058,9059,9066,9717,18106,18112,18113,18118,18121,18122,18136,18342,18352
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/338/original/Screen_Shot_2014-05-20_at_4.17.52_PM.png)

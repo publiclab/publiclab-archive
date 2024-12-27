@@ -7,6 +7,8 @@ path: /11-11-2014/a-method-for-distorting-mobius-action-cam-imagery-in-gimp-foss
 nid: 11336
 uid: 379
 
+cids: 10728,10730,10760,11314
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/812/original/IMAG0021_test_grid_farther_away.JPG)

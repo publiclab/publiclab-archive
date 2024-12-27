@@ -7,6 +7,8 @@ path: /notes/patcoyle/02-27-2014/more-updated-maps-construction-site-activities-
 nid: 10075
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/073/original/2-27-14_PS_Panorama1.jpg)

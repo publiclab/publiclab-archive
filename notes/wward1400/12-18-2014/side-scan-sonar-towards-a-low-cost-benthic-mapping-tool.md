@@ -7,6 +7,8 @@ path: /notes/wward1400/12-18-2014/side-scan-sonar-towards-a-low-cost-benthic-map
 nid: 11484
 uid: 46742
 
+cids: 10973,10974,10979,10980,11020,11198,11799,14333
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/495/original/coverLowCostBenthicMapping.png)

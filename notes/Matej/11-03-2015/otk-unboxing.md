@@ -7,6 +7,8 @@ path: /notes/Matej/11-03-2015/otk-unboxing.md
 nid: 12359
 uid: 451808
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/368/original/IMG_6429.JPG)

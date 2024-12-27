@@ -7,6 +7,8 @@ path: /notes/shanlter/02-07-2016/guilin-pharma-mapping.md
 nid: 12667
 uid: 420999
 
+cids: 13547,14728,20671,20676,20699
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/125/original/_DSC9387.JPG)

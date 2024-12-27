@@ -7,6 +7,8 @@ path: /notes/victoriamarshall/5-1-2013/patch-dynamics-urban-design-and-ecology-m
 nid: 7144
 uid: 60659
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/C_LivingImage_1_sm.jpg)

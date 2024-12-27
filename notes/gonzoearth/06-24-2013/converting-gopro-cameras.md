@@ -7,6 +7,8 @@ path: /notes/gonzoearth/06-24-2013/converting-gopro-cameras.md
 nid: 8419
 uid: 12
 
+cids: 6156,18456
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/574/original/IMG_0029.jpg)

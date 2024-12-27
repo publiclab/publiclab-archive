@@ -7,6 +7,8 @@ path: /notes/Cesar1178/06-15-2016/bombilla-led.md
 nid: 13200
 uid: 479097
 
+cids: 14767
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/648/original/image.jpg)

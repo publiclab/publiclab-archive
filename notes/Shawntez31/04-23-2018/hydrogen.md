@@ -7,6 +7,8 @@ path: /notes/Shawntez31/04-23-2018/hydrogen.md
 nid: 16193
 uid: 531452
 
+cids: 19535
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/691/original/6B43F9DF-B2E0-49DB-9B05-711BEE79F5E1.jpeg)

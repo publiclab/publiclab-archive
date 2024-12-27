@@ -7,6 +7,8 @@ path: /notes/warren/04-21-2016/prototype-of-easy-to-build-rigid-spectrometer-hou
 nid: 13013
 uid: 1
 
+cids: 14405,14411,14412,14417,14434,14435,14436,14437,14441,14444,14476,14477,14549,15378,15388,15389,15392,15393,15394
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/724/original/tmp_12449-IMG_20160421_154045-1649115331.jpg)

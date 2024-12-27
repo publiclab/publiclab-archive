@@ -7,6 +7,8 @@ path: /notes/Travis/06-10-2015/tracking-plant-health-using-visible-and-infrared-
 nid: 11965
 uid: 442974
 
+cids: 16806
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/281/original/IMAG0056.jpg)

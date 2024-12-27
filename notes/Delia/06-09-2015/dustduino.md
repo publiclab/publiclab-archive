@@ -7,6 +7,8 @@ path: /notes/Delia/06-09-2015/dustduino.md
 nid: 11962
 uid: 443407
 
+cids: 11929,11930,11932,11934
+
 ---
 
 # Dustduino

@@ -7,6 +7,8 @@ path: /notes/jacktemp/09-30-2014/follow-up-group-2-water-sample-results.md
 nid: 11210
 uid: 428016
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/138/original/unnamed.jpg)

@@ -7,6 +7,8 @@ path: /notes/denissebn_06/06-04-2021/first-hand-experience-on-using-public-lab-w
 nid: 26780
 uid: 749988
 
+cids: 28866
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/060/original/Sara_Sage_Headshot.jpg)

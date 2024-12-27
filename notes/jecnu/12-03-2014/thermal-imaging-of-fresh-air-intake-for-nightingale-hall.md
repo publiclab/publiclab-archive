@@ -7,6 +7,8 @@ path: /notes/jecnu/12-03-2014/thermal-imaging-of-fresh-air-intake-for-nightingal
 nid: 11431
 uid: 432296
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/243/original/FullSizeRender-2.jpg)

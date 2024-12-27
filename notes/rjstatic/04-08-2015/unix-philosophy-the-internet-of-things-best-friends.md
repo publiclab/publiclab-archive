@@ -7,6 +7,8 @@ path: /04-08-2015/unix-philosophy-the-internet-of-things-best-friends.md
 nid: 11753
 uid: 174
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/630/original/noun_82872_cc.png)

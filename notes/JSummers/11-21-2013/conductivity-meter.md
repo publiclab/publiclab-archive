@@ -7,6 +7,8 @@ path: /notes/JSummers/11-21-2013/conductivity-meter.md
 nid: 9813
 uid: 304279
 
+cids: 7683,7685
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/282/original/ConductivityA.JPG)

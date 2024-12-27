@@ -7,6 +7,8 @@ path: /notes/warren/7-12-2011/new-knitter-features-plus-undo.md
 nid: 379
 uid: 1
 
+cids: 298
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/024/original/image.png)

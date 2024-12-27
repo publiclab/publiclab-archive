@@ -7,6 +7,8 @@ path: /notes/anirudhprabhakaran3/09-09-2022/my-experience-during-gsoc-22.md
 nid: 34947
 uid: 751144
 
+cids: 
+
 ---
 
 # My experience during GSoC '22

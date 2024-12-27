@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/10-20-2016/riffle-and-thermsistor.md
 nid: 13629
 uid: 459085
 
+cids: 17844
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/490/original/riffle___thermsistor.png)

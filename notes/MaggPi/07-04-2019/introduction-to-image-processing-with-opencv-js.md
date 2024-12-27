@@ -7,6 +7,8 @@ path: /notes/MaggPi/07-04-2019/introduction-to-image-processing-with-opencv-js.m
 nid: 19987
 uid: 501996
 
+cids: 24976
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/508/original/opencv_ex.PNG)

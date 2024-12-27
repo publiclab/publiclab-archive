@@ -7,6 +7,8 @@ path: /notes/aayushgupta1/03-21-2017/upgrading-plot-to-rails-5.md
 nid: 14043
 uid: 503612
 
+cids: 16417,16424,16425,16426,16427,16435
+
 ---
 
 # Upgrading Plot to Rails 5

@@ -7,6 +7,8 @@ path: /notes/marlokeno/12-23-2015/a-proposal-for-a-way-to-remediate-indoor-silic
 nid: 12539
 uid: 420760
 
+cids: 13197,13201,13204,13208,13209,13211,13212,13272,13275,13318
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/451/original/OSHA_silica_poster.jpg)

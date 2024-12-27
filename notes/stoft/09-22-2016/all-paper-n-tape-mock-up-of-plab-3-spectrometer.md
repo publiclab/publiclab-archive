@@ -7,6 +7,8 @@ path: /notes/stoft/09-22-2016/all-paper-n-tape-mock-up-of-plab-3-spectrometer.md
 nid: 13471
 uid: 54025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/127/original/Paper-00.jpg)

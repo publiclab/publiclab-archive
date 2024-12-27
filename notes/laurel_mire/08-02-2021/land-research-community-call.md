@@ -7,6 +7,8 @@ path: /notes/laurel_mire/08-02-2021/land-research-community-call.md
 nid: 27414
 uid: 759178
 
+cids: 29083,29118,29119,29121
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/536/original/landcall.jpeg)

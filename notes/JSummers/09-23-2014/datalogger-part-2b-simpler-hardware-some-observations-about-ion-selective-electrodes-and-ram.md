@@ -7,6 +7,8 @@ path: /notes/JSummers/09-23-2014/datalogger-part-2b-simpler-hardware-some-observ
 nid: 11177
 uid: 304279
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/987/original/EagleBoardDataLogger4.png)

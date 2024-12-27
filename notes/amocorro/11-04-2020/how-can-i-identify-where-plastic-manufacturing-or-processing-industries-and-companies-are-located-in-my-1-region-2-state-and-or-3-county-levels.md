@@ -7,6 +7,8 @@ path: /notes/amocorro/11-04-2020/how-can-i-identify-where-plastic-manufacturing-
 nid: 24923
 uid: 700923
 
+cids: 27627,27629,27684,27685,27688,27689,27719,27720,29419
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/504/original/CityofTacoma.jpg)

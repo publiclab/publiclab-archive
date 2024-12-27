@@ -7,6 +7,8 @@ path: /notes/donblair/11-01-2015/turbidity-sensor-prototype.md
 nid: 12350
 uid: 43651
 
+cids: 12809,12812,12865,12879,15761,17123,17642
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/320/original/t7.png)

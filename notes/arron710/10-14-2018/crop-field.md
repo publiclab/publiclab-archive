@@ -7,6 +7,8 @@ path: /notes/arron710/10-14-2018/crop-field.md
 nid: 17293
 uid: 554852
 
+cids: 
+
 ---
 
 # Crop field

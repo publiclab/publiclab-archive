@@ -7,6 +7,8 @@ path: /notes/tylerknight/08-03-2022/july-pm-2-5-data.md
 nid: 34824
 uid: 777566
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/943/original/Fireworks.jpeg)

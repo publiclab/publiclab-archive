@@ -7,6 +7,8 @@ path: /notes/cfastie/06-05-2013/2-cameras-or-not-2-cameras.md
 nid: 8072
 uid: 554
 
+cids: 5267,6101
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/478/original/wheatInf_RGB2k.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/5-4-2012/remove-usb-cable-ferrite-bead.md
 nid: 1907
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ferrite-20120504-145-3.jpg)

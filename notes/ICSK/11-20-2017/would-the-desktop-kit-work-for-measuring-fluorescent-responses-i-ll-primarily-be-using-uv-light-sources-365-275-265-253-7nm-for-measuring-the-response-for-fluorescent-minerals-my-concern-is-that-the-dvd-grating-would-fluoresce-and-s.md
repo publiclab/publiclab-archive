@@ -7,6 +7,8 @@ path: /notes/ICSK/11-20-2017/would-the-desktop-kit-work-for-measuring-fluorescen
 nid: 15210
 uid: 429540
 
+cids: 17728,17729,17787,17795,22736,22737,22755
+
 ---
 
 # Would the desktop spectrometry kit work for measuring fluorescent responses?

@@ -7,6 +7,8 @@ path: /notes/warren/6-27-2011/slideshow-modifying-plantcam-timelapse-infrared.md
 nid: 357
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0001.JPG)

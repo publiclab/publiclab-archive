@@ -7,6 +7,8 @@ path: /notes/mathew/11-21-2014/a-diy-gas-finding-camera.md
 nid: 11377
 uid: 4
 
+cids: 10811,10813,10814,10815,10816,10817,10819,10823,10831,10832,11297
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/049/original/Screen_Shot_2014-11-20_at_8.21.11_PM.png)

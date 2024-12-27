@@ -7,6 +7,8 @@ path: /notes/warren/05-27-2015/red-filters-in-infragram-webcams-a-test.md
 nid: 11846
 uid: 1
 
+cids: 11776,11777,11778,11779,11794,11795,11796,11797,11798,11800,12054,12057,12058,12066,16814,16816
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/029/original/Screen_Shot_2015-05-27_at_3.53.41_PM.png)

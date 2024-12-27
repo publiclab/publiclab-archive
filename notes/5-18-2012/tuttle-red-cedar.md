@@ -7,6 +7,8 @@ path: /notes/5-18-2012/tuttle-red-cedar.md
 nid: 2134
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_4639_medium.JPG)

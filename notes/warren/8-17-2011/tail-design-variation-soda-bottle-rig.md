@@ -7,6 +7,8 @@ path: /notes/warren/8-17-2011/tail-design-variation-soda-bottle-rig.md
 nid: 439
 uid: 1
 
+cids: 320,321
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6047881163_4af820ba95_b.jpg)

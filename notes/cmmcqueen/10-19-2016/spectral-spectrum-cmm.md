@@ -7,6 +7,8 @@ path: /notes/cmmcqueen/10-19-2016/spectral-spectrum-cmm.md
 nid: 13582
 uid: 494857
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/435/original/image.png)

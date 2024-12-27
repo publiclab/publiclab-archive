@@ -7,6 +7,8 @@ path: /notes/nicholas/12-05-2013/chdk-scripting.md
 nid: 9858
 uid: 53894
 
+cids: 7831,7840
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/357/original/Screen_Shot_2013-12-05_at_3.33.30_PM.png)

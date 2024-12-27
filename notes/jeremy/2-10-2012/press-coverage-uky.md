@@ -7,6 +7,8 @@ path: /notes/jeremy/2-10-2012/press-coverage-uky.md
 nid: 775
 uid: 323
 
+cids: 449,451
+
 ---
 
 ![](https://publiclab.org/sites/default/files/BalloonMapping.jpg)

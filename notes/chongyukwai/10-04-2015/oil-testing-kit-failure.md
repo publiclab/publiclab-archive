@@ -7,6 +7,8 @@ path: /notes/chongyukwai/10-04-2015/oil-testing-kit-failure.md
 nid: 12264
 uid: 442298
 
+cids: 12645,12646
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/898/original/undefined)

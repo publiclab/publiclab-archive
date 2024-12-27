@@ -7,6 +7,8 @@ path: /notes/ranon/06-14-2016/cardboard-foldable-kap-rig.md
 nid: 13196
 uid: 477060
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/641/original/IMG_1071.JPG)

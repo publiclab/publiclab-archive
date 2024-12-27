@@ -7,6 +7,8 @@ path: /notes/SpencerYerbury/10-13-2015/mapknitter-map-of-uw-woodlot.md
 nid: 12293
 uid: 454221
 
+cids: 
+
 ---
 
 # MapKnitter map of UW Woodlot

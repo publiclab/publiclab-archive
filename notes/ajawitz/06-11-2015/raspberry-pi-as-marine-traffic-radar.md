@@ -7,6 +7,8 @@ path: /notes/ajawitz/06-11-2015/raspberry-pi-as-marine-traffic-radar.md
 nid: 11970
 uid: 294634
 
+cids: 11982,11985,27044
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/313/original/RPISDR.jpg)

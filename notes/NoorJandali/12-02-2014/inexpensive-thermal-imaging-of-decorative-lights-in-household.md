@@ -7,6 +7,8 @@ path: /notes/NoorJandali/12-02-2014/inexpensive-thermal-imaging-of-decorative-li
 nid: 11420
 uid: 431799
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/180/original/IMG_3434.JPG)

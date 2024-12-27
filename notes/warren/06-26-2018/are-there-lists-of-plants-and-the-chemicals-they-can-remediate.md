@@ -7,6 +7,8 @@ path: /notes/warren/06-26-2018/are-there-lists-of-plants-and-the-chemicals-they-
 nid: 16574
 uid: 1
 
+cids: 19941,19945,23158
+
 ---
 
 # Are there lists of plants and the chemicals they can remediate?

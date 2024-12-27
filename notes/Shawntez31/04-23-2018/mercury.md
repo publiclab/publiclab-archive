@@ -7,6 +7,8 @@ path: /notes/Shawntez31/04-23-2018/mercury.md
 nid: 16194
 uid: 531452
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/692/original/DA43526D-FC37-4376-9075-17FB497C42DF.jpeg)

@@ -7,6 +7,8 @@ path: /10-27-2013/event-oil-rains-from-valero-murphy-facility-tania-dall-wwl.md
 nid: 9643
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/065/original/valero_rain.png)

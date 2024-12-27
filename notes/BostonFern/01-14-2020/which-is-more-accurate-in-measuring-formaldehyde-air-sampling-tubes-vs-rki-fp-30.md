@@ -7,6 +7,8 @@ path: /notes/BostonFern/01-14-2020/which-is-more-accurate-in-measuring-formaldeh
 nid: 22308
 uid: 643525
 
+cids: 26170,26261
+
 ---
 
 # Which is more accurate in measuring formaldehyde: air sampling tubes vs RKI FP-30?

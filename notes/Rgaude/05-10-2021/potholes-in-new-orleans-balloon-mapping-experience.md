@@ -7,6 +7,8 @@ path: /notes/Rgaude/05-10-2021/potholes-in-new-orleans-balloon-mapping-experienc
 nid: 26542
 uid: 749812
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/738/original/Science_Pothole_1.jpg)

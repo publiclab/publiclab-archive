@@ -7,6 +7,8 @@ path: /notes/cfastie/07-18-2017/redstone-rig-2-0.md
 nid: 14660
 uid: 554
 
+cids: 17057,17058,17102
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/150/original/AssembledLegsRender2c.jpg)

@@ -7,6 +7,8 @@ path: /notes/roberts_ecofarm/10-24-2018/diy-conductivity-sensors.md
 nid: 17365
 uid: 556121
 
+cids: 20951,20962,22027,22029,22030,23259
+
 ---
 
 # DIY conductivity Sensors

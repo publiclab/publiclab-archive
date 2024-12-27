@@ -7,6 +7,8 @@ path: /notes/warren/11-21-2015/oil-sample-concentration-session-at-barnraising.m
 nid: 12428
 uid: 1
 
+cids: 12928,12929
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/854/original/Screenshot_2015-11-21_at_10.25.52_AM.png)

@@ -7,6 +7,8 @@ path: /notes/kanarinka/04-15-2014/the-open-water-project-faq.md
 nid: 10312
 uid: 994
 
+cids: 8773,8778,8781,9067,9068,9070,9071,9087
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/674/original/pic1.png)

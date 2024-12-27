@@ -7,6 +7,8 @@ path: /05-21-2016/riffing-on-the-riffle-for-a-depth-sensor-update-from-2014.md
 nid: 13135
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/240/original/screen_cap_depth_sensor.png)

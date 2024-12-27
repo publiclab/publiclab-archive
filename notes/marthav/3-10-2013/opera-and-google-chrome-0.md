@@ -7,6 +7,8 @@ path: /notes/marthav/3-10-2013/opera-and-google-chrome-0.md
 nid: 6281
 uid: 47245
 
+cids: 6312,6314
+
 ---
 
 # Opera and Google Chrome

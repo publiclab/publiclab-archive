@@ -7,6 +7,8 @@ path: /12-28-2015/some-gulf-coast-use-cases-for-the-oil-testing-kit-in-2015.md
 nid: 12547
 uid: 379
 
+cids: 13227,13230,13248,13278,13283,13285,13286,13550,13559,13560
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/481/original/13770013494_51c704be39_b_oakville.jpg)

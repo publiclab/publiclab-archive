@@ -7,6 +7,8 @@ path: /notes/mathew/8-29-2012/laser-cut-picavet-pet-bottle-rig.md
 nid: 3563
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2liter-Picavet_display_medium.jpg)

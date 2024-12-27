@@ -7,6 +7,8 @@ path: /notes/warren/05-05-2015/web-working-group-monthly-recap-2-april-2015.md
 nid: 11786
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/790/original/plots2-punchcard.png)

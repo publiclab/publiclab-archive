@@ -7,6 +7,8 @@ path: /notes/patcoyle/12-24-2013/first-flight-public-lab-kite-kit-delta-and-new-
 nid: 9914
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/448/original/PL_Delta_crpd.jpg)

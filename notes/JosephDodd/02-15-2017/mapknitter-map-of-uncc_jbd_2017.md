@@ -7,6 +7,8 @@ path: /notes/JosephDodd/02-15-2017/mapknitter-map-of-uncc_jbd_2017.md
 nid: 13932
 uid: 503010
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/565/original/P1080505.JPG)

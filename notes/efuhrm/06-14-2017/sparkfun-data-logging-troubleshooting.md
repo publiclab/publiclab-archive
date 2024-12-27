@@ -7,6 +7,8 @@ path: /notes/efuhrm/06-14-2017/sparkfun-data-logging-troubleshooting.md
 nid: 14542
 uid: 509097
 
+cids: 17020,17021,17022,17023,17024
+
 ---
 
 # Sparkfun data logging troubleshooting?

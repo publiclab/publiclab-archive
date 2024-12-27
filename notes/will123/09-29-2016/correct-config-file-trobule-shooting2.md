@@ -7,6 +7,8 @@ path: /notes/will123/09-29-2016/correct-config-file-trobule-shooting2.md
 nid: 13505
 uid: 492777
 
+cids: 22312
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/200/original/IMAG0005.JPG)

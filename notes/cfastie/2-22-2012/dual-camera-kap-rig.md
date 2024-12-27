@@ -7,6 +7,8 @@ path: /notes/cfastie/2-22-2012/dual-camera-kap-rig.md
 nid: 831
 uid: 554
 
+cids: 485,486,487,489,490,492,495,505,681,693,8538,8555,8563,21793,21868
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Legomass.jpg)

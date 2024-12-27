@@ -7,6 +7,8 @@ path: /notes/Shannon/10-27-2013/2013-barnraising-evaluation-summary.md
 nid: 9649
 uid: 9
 
+cids: 8381
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/068/original/plots-logo-transparent.jpg)

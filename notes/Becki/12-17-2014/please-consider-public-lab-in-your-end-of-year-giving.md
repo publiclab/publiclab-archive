@@ -7,6 +7,8 @@ path: /notes/Becki/12-17-2014/please-consider-public-lab-in-your-end-of-year-giv
 nid: 11471
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/462/original/Barnraising_Group_Shot_Fall_2014.jpg)

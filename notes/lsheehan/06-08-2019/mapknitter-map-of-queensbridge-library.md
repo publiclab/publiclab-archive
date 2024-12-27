@@ -7,6 +7,8 @@ path: /notes/lsheehan/06-08-2019/mapknitter-map-of-queensbridge-library.md
 nid: 19640
 uid: 596392
 
+cids: 24760
+
 ---
 
 # MapKnitter map of Queensbridge Library

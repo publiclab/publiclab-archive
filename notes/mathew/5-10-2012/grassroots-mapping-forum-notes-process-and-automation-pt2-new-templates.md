@@ -7,6 +7,8 @@ path: /notes/mathew/5-10-2012/grassroots-mapping-forum-notes-process-and-automat
 nid: 1955
 uid: 4
 
+cids: 28581
+
 ---
 
 ![](https://publiclab.org/sites/default/files/GM_Forum_template4_2_sm.pdf.jpg)

@@ -7,6 +7,8 @@ path: /notes/liz/09-22-2017/how-has-ph-testing-evolved-over-time.md
 nid: 14940
 uid: 7
 
+cids: 17454,22625,22634
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/757/original/slide_72.jpg)

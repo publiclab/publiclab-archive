@@ -7,6 +7,8 @@ path: /notes/stoft/03-01-2015/optimal-slit-width.md
 nid: 11646
 uid: 54025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/136/original/P3U-435nm.gif)

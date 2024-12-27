@@ -7,6 +7,8 @@ path: /notes/marlokeno/04-01-2015/detecting-chromium.md
 nid: 11733
 uid: 420760
 
+cids: 11447,11464
+
 ---
 
 # Detecting chromium

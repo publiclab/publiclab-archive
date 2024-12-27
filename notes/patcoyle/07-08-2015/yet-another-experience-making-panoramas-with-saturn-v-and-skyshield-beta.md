@@ -7,6 +7,8 @@ path: /notes/patcoyle/07-08-2015/yet-another-experience-making-panoramas-with-sa
 nid: 12040
 uid: 77
 
+cids: 12118,12120,12121,12123
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/572/original/Untitled_Panorama2.jpg)

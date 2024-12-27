@@ -7,6 +7,8 @@ path: /notes/warren/3-8-2013/macro-system-spectral-workbench-api.md
 nid: 6247
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/macros.png)

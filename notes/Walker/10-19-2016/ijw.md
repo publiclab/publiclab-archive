@@ -7,6 +7,8 @@ path: /notes/Walker/10-19-2016/ijw.md
 nid: 13598
 uid: 494882
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/460/original/IMG_0138.JPG)

@@ -7,6 +7,8 @@ path: /notes/sara/1-31-2012/bibliography-hydrogen-sulfide-research.md
 nid: 734
 uid: 8
 
+cids: 9096
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Horwell et al H2S image.png)

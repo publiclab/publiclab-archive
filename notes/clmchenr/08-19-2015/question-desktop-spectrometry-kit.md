@@ -7,6 +7,8 @@ path: /notes/clmchenr/08-19-2015/question-desktop-spectrometry-kit.md
 nid: 12156
 uid: 448606
 
+cids: 12412,12420,12429
+
 ---
 
 # Question: Desktop Spectrometry Kit 

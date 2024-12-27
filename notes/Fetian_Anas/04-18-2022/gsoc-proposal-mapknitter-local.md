@@ -7,6 +7,8 @@ path: /notes/Fetian_Anas/04-18-2022/gsoc-proposal-mapknitter-local.md
 nid: 30478
 uid: 794281
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/073/original/GSOC.png)

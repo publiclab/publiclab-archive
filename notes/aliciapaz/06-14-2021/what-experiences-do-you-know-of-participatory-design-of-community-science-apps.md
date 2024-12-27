@@ -7,6 +7,8 @@ path: /notes/aliciapaz/06-14-2021/what-experiences-do-you-know-of-participatory-
 nid: 26823
 uid: 752301
 
+cids: 
+
 ---
 
 # What experiences do you know of participatory design of community science apps? 

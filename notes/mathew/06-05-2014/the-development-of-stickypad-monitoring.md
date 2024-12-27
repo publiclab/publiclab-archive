@@ -7,6 +7,8 @@ path: /notes/mathew/06-05-2014/the-development-of-stickypad-monitoring.md
 nid: 10530
 uid: 4
 
+cids: 9143,9144,10570,19583,19590,29086
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/527/original/Screen_Shot_2014-06-04_at_8.39.39_PM.png)

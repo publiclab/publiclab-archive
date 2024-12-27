@@ -7,6 +7,8 @@ path: /10-27-2013/balloon-mapping-of-bienvenue-wetland-triangle-bulrush-planting
 nid: 9644
 uid: 379
 
+cids: 7597
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/066/original/1379455_10102647600050120_988661020_n_annotated.jpg)

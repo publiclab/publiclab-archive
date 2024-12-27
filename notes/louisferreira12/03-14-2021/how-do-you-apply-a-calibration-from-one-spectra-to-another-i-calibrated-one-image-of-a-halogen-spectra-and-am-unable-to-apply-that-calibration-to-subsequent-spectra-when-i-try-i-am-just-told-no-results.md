@@ -7,6 +7,8 @@ path: /notes/louisferreira12/03-14-2021/how-do-you-apply-a-calibration-from-one-
 nid: 25917
 uid: 746385
 
+cids: 28338,28356
+
 ---
 
 # How do you apply a calibration from one spectra to another? I calibrated one image of a halogen spectra, and am unable to apply that calibration to subsequent spectra, when i try i am just told "No Results"

@@ -7,6 +7,8 @@ path: /notes/warren/07-09-2014/infragram-kite-mapping-at-fab10-barcelona.md
 nid: 10666
 uid: 1
 
+cids: 9455,9457,9458,9459,9462,9463,9465,9466,9467,9473,9504,9526
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/175/original/IMAG0922.JPG)

@@ -7,6 +7,8 @@ path: /notes/anirudhprabhakaran3/04-13-2022/gsoc-2022-proposal-legacy-code-depre
 nid: 30330
 uid: 751144
 
+cids: 30035,30078
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/675/original/GSoC-icon-192.png)

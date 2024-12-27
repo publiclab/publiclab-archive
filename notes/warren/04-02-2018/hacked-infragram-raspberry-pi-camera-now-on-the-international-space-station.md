@@ -7,6 +7,8 @@ path: /notes/warren/04-02-2018/hacked-infragram-raspberry-pi-camera-now-on-the-i
 nid: 16052
 uid: 1
 
+cids: 19289,19292,19299
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/296/original/ISS-Feature3.jpg)

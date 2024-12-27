@@ -7,6 +7,8 @@ path: /notes/shannon/9-13-2012/2012-public-lab-barn-raising-invitation.md
 nid: 3800
 uid: 9
 
+cids: 
+
 ---
 
 # 2012 Public Lab barn raising invitation

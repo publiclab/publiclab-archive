@@ -7,6 +7,8 @@ path: /notes/mathew/5-21-2012/170cm-hydrogen-filled-weather-balloon-burn-test.md
 nid: 2152
 uid: 4
 
+cids: 757,773
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-05-20 at 9.13.50 PM.png)

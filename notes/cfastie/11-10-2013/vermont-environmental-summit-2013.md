@@ -7,6 +7,8 @@ path: /notes/cfastie/11-10-2013/vermont-environmental-summit-2013.md
 nid: 9759
 uid: 554
 
+cids: 7526
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/188/original/Summit-274-47.jpg)

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/02-15-2016/laser-eye-safety.md
 nid: 12692
 uid: 461120
 
+cids: 13624,13627
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/305/original/after14.jpg)

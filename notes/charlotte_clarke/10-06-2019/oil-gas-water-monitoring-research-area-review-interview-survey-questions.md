@@ -7,6 +7,8 @@ path: /notes/charlotte_clarke/10-06-2019/oil-gas-water-monitoring-research-area-
 nid: 21096
 uid: 510781
 
+cids: 25684,25722
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/588/original/deepwater-horizon-oil-spill-cycling-of-carbon.jpg)

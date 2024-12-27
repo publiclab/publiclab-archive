@@ -7,6 +7,8 @@ path: /notes/mathew/10-5-2012/shannon-dosemagen-interviews-scott-eustis-gulf-res
 nid: 4183
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2614510826_2c83e754f2_b_0.jpg)

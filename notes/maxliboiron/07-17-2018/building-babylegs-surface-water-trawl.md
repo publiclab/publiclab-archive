@@ -7,6 +7,8 @@ path: /notes/maxliboiron/07-17-2018/building-babylegs-surface-water-trawl.md
 nid: 16733
 uid: 310707
 
+cids: 20222,20223,20835,26711,26835
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/728/original/mat.jpg)

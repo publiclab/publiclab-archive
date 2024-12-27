@@ -7,6 +7,8 @@ path: /notes/mjain26/07-28-2014/youth-balloon-mapping-workshop-complete.md
 nid: 10986
 uid: 424870
 
+cids: 9679,16945
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/620/original/IMG_3773.JPG)

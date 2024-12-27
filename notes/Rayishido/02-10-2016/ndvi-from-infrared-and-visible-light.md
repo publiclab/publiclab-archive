@@ -7,6 +7,8 @@ path: /notes/Rayishido/02-10-2016/ndvi-from-infrared-and-visible-light.md
 nid: 12676
 uid: 464454
 
+cids: 13549,13553,13591,13616,13625,13629,13631,13632,13633,13634,13729,13730,14531,14532,14537
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/211/original/NDVI.jpg)

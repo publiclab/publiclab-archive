@@ -7,6 +7,8 @@ path: /notes/SarahC/05-31-2018/amazon-uk-link-for-perfect-cfl-all-mine-are-wide-
 nid: 16412
 uid: 448894
 
+cids: 19731,19736,23101,23140,23177
+
 ---
 
 # Amazon UK - Link for perfect CFL? All mine are wide spectrum phosphor!

@@ -7,6 +7,8 @@ path: /notes/JumpKitten8683/10-28-2019/environmental-study-for-flooding-in-the-s
 nid: 21319
 uid: 620730
 
+cids: 25862,25979,28309,28313,28318
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/060/original/its_flooding.jpg)

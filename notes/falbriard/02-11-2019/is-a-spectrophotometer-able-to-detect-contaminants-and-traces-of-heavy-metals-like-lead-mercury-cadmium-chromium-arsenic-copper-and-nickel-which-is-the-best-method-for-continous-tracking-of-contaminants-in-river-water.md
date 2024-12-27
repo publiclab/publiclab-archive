@@ -7,6 +7,8 @@ path: /notes/falbriard/02-11-2019/is-a-spectrophotometer-able-to-detect-contamin
 nid: 18340
 uid: 573944
 
+cids: 21869,21870,21903,21906,21907,21912,21944,21946,23315
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/294/original/rio_paraopema.jpeg)

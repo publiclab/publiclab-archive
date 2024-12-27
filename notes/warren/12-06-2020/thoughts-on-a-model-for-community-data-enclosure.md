@@ -7,6 +7,8 @@ path: /notes/warren/12-06-2020/thoughts-on-a-model-for-community-data-enclosure.
 nid: 25177
 uid: 1
 
+cids: 27770,27771,28869
+
 ---
 
 # Thoughts on a model for community data enclosure

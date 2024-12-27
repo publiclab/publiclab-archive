@@ -7,6 +7,8 @@ path: /notes/tonyc/08-20-2015/tracking-oil-trains-using-rfids.md
 nid: 12159
 uid: 447491
 
+cids: 12430,12452,13190
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/221/original/800px-BNSF_eastbound_oil_train_in_Bad_Rock_Canyon.jpg)

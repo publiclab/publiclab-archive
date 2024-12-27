@@ -7,6 +7,8 @@ path: /notes/SCG/11-25-2014/thermal-imaging-heat-insulation-in-older-building.md
 nid: 11401
 uid: 431781
 
+cids: 15741
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/115/original/Screen_Shot_2014-11-24_at_10.30.10_PM.png)

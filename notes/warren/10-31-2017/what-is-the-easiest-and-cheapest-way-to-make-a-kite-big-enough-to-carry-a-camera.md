@@ -7,6 +7,8 @@ path: /notes/warren/10-31-2017/what-is-the-easiest-and-cheapest-way-to-make-a-ki
 nid: 15132
 uid: 1
 
+cids: 22700
+
 ---
 
 # What is the easiest and cheapest way to make a kite big enough to carry a camera?

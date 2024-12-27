@@ -7,6 +7,8 @@ path: /notes/warren/3-10-2012/infraredvisible-single-camera-beamsplitter-setup.m
 nid: 914
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/beamsplitter.jpg)

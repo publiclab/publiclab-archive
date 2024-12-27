@@ -7,6 +7,8 @@ path: /notes/Meculus/01-05-2020/microscope-not-focusing-right.md
 nid: 22219
 uid: 651005
 
+cids: 26100,26193,26195,26225,26231
+
 ---
 
 # Microscope not focusing right

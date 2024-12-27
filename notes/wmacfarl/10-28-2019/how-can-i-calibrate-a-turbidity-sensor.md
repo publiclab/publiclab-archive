@@ -7,6 +7,8 @@ path: /notes/wmacfarl/10-28-2019/how-can-i-calibrate-a-turbidity-sensor.md
 nid: 21316
 uid: 424597
 
+cids: 25757,25759,25760,25797
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/064/original/turbid_water.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/08-12-2017/winds-aloft-less-noise.md
 nid: 14756
 uid: 554
 
+cids: 17184,17208,17209,17210,17211,17215,17216
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/330/original/wind_20170810-0427.JPG)

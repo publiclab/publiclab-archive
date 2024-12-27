@@ -7,6 +7,8 @@ path: /notes/Kmckeown/08-22-2018/ideas-for-a-diy-maker-class-for-6th-graders.md
 nid: 16982
 uid: 530589
 
+cids: 23216,23217,23218,27541
+
 ---
 
 # Ideas for a DIY + Maker class for 6th graders

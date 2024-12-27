@@ -7,6 +7,8 @@ path: /notes/hagit-keysar/8-25-2012/jerusalem.md
 nid: 3464
 uid: 152
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2299.JPG)

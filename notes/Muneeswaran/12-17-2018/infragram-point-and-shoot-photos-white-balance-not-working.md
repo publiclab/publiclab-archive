@@ -7,6 +7,8 @@ path: /notes/Muneeswaran/12-17-2018/infragram-point-and-shoot-photos-white-balan
 nid: 17917
 uid: 555831
 
+cids: 
+
 ---
 
 # Infragram Point and shoot photos: white balance not working

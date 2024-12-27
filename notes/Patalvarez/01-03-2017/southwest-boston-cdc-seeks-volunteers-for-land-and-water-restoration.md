@@ -7,6 +7,8 @@ path: /notes/Patalvarez/01-03-2017/southwest-boston-cdc-seeks-volunteers-for-lan
 nid: 13833
 uid: 500512
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/189/original/Tree_Just_Planted!.jpg)

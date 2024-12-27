@@ -7,6 +7,8 @@ path: /notes/joyofsoy/02-21-2020/public-lab-receives-three-year-award-from-the-g
 nid: 22894
 uid: 540844
 
+cids: 26382,26640
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/217/original/Boots-ground-02_copy.jpg)

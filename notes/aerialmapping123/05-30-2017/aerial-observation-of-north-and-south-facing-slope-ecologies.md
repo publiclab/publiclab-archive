@@ -7,6 +7,8 @@ path: /notes/aerialmapping123/05-30-2017/aerial-observation-of-north-and-south-f
 nid: 14240
 uid: 508245
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/574/original/huntington-section-2-group-1.jpg)

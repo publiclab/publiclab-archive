@@ -7,6 +7,8 @@ path: /04-18-2013/kite-balloon-map-of-bp-memorial-demonstration-in-artillery-par
 nid: 6895
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/082/original/305981_10151332531227204_1249348336_n.jpg)

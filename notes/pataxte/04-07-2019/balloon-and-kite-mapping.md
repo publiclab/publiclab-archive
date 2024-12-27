@@ -7,6 +7,8 @@ path: /notes/pataxte/04-07-2019/balloon-and-kite-mapping.md
 nid: 18994
 uid: 559561
 
+cids: 23826,23854
+
 ---
 
 # balloon and kite mapping

@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-711-putnam-pike.md
 nid: 23050
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (711 Putnam Pike)

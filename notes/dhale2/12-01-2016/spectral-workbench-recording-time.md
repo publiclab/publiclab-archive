@@ -7,6 +7,8 @@ path: /notes/dhale2/12-01-2016/spectral-workbench-recording-time.md
 nid: 13735
 uid: 498686
 
+cids: 22357,22358,22359,22360
+
 ---
 
 # Spectral Workbench recording time?

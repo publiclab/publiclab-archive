@@ -7,6 +7,8 @@ path: /notes/amocorro/11-23-2020/youth-led-environmental-justice-organizing-duri
 nid: 25097
 uid: 700923
 
+cids: 27711
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/798/original/DRCC-youthcorps.jpg)

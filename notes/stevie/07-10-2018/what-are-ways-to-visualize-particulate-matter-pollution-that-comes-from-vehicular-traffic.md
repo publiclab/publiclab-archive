@@ -7,6 +7,8 @@ path: /notes/stevie/07-10-2018/what-are-ways-to-visualize-particulate-matter-pol
 nid: 16677
 uid: 422561
 
+cids: 20064,20247
+
 ---
 
 # What are ways to visualize particulate matter pollution that comes from vehicular traffic?

@@ -7,6 +7,8 @@ path: /09-16-2014/use-of-velcro-ties-in-balloon-mapping.md
 nid: 11143
 uid: 379
 
+cids: 10305,10314,10316,10318,10510,10511,10513,10516,10519
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/824/original/15236580291_aa7bf799ce.jpg)

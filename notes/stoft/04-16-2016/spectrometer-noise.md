@@ -7,6 +7,8 @@ path: /notes/stoft/04-16-2016/spectrometer-noise.md
 nid: 12987
 uid: 54025
 
+cids: 14283,14287,14292,14294,14295
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/581/original/STest_0-15BluDistrib.gif)

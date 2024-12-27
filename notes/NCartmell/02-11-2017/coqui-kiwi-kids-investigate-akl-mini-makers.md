@@ -7,6 +7,8 @@ path: /notes/NCartmell/02-11-2017/coqui-kiwi-kids-investigate-akl-mini-makers.md
 nid: 13924
 uid: 502789
 
+cids: 16694
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/532/original/nutrient-pathoways.png)

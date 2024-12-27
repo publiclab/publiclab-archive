@@ -7,6 +7,8 @@ path: /notes/imvec/07-14-2020/haam-1-publiclab-investigacion-vecinal.md
 nid: 24153
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/183/original/haam1.jpg)

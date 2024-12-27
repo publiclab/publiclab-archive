@@ -7,6 +7,8 @@ path: /notes/Sjrobinson/10-19-2016/rainbowsawesome.md
 nid: 13581
 uid: 494850
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/437/original/image.jpeg)

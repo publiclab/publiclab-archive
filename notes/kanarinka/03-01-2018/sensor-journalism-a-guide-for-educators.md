@@ -7,6 +7,8 @@ path: /notes/kanarinka/03-01-2018/sensor-journalism-a-guide-for-educators.md
 nid: 15852
 uid: 994
 
+cids: 19491,19525
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/789/original/Screenshot_2018-03-01_18.16.16.png)

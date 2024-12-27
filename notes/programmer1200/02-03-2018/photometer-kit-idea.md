@@ -7,6 +7,8 @@ path: /notes/programmer1200/02-03-2018/photometer-kit-idea.md
 nid: 15672
 uid: 509305
 
+cids: 18359,18360,18364,18365,18366,18373,18379,18383,18389,18952,18964,19085
+
 ---
 
 # Photometer Kit idea 

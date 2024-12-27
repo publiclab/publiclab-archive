@@ -7,6 +7,8 @@ path: /notes/fongvania/02-17-2022/activity-air-pollution-gardens.md
 nid: 30033
 uid: 754846
 
+cids: 29677
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/400/original/mesa-lab-ozone-garden.jpg)

@@ -7,6 +7,8 @@ path: /notes/schejbal1992/04-26-2021/calibration-spectral-workbench-js.md
 nid: 26345
 uid: 677686
 
+cids: 
+
 ---
 
 # Calibration  spectral-workbench.js

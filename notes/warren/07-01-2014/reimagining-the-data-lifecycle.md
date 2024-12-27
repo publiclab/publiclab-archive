@@ -7,6 +7,8 @@ path: /notes/warren/07-01-2014/reimagining-the-data-lifecycle.md
 nid: 10637
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/049/original/Screen_Shot_2014-07-01_at_11.03.10_AM.png)

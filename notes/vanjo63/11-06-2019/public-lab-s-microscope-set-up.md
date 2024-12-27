@@ -7,6 +7,8 @@ path: /notes/vanjo63/11-06-2019/public-lab-s-microscope-set-up.md
 nid: 21418
 uid: 458760
 
+cids: 26752,27274
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/287/original/my_photo-1.jpg)

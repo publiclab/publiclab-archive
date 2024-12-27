@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-6-2012/canon-a1200-ir-conversion-november-2-4-2012-plot
 nid: 4788
 uid: 77
 
+cids: 2553,19813
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8161180748_ab35988314_z.jpg)

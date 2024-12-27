@@ -7,6 +7,8 @@ path: /notes/adrianh831/03-28-2014/is-there-a-way-to-calculate-or-figure-out-the
 nid: 10238
 uid: 421875
 
+cids: 17541
+
 ---
 
 # Is there a way to Calculate or Figure out the CRI of an LED with the Desktop Spectrometry Kit

@@ -7,6 +7,8 @@ path: /notes/aidanswope/05-21-2019/angel-s-point-balloon-map-updated.md
 nid: 19477
 uid: 592088
 
+cids: 24229,24232
+
 ---
 
 # Angel's Point Balloon Map: Updated

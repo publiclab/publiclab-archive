@@ -7,6 +7,8 @@ path: /notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners.md
 nid: 13828
 uid: 500732
 
+cids: 16022,16023
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/173/original/Screenshot_from_2017-01-01_02-44-17.png)

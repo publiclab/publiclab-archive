@@ -7,6 +7,8 @@ path: /notes/namangupta/08-25-2019/google-summer-of-code-2019-work-product-2019.
 nid: 20664
 uid: 522848
 
+cids: 25378
+
 ---
 
 # Google Summer of Code 2019 Work Product 2019

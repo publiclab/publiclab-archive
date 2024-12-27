@@ -7,6 +7,8 @@ path: /notes/joyofsoy/10-04-2019/immigration-in-cranston.md
 nid: 21080
 uid: 540844
 
+cids: 25642,25713
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/570/original/unnamed.jpg)

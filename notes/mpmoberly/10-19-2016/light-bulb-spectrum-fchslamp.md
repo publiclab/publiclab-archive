@@ -7,6 +7,8 @@ path: /notes/mpmoberly/10-19-2016/light-bulb-spectrum-fchslamp.md
 nid: 13616
 uid: 494931
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/476/original/image.png)

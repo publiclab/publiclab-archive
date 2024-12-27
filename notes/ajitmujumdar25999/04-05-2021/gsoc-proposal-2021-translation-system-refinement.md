@@ -7,6 +7,8 @@ path: /notes/ajitmujumdar25999/04-05-2021/gsoc-proposal-2021-translation-system-
 nid: 26143
 uid: 654056
 
+cids: 28458,28483,28508,28515,28539
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/210/original/gsoc.jpeg)

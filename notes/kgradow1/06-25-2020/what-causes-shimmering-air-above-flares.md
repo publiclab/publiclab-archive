@@ -7,6 +7,8 @@ path: /notes/kgradow1/06-25-2020/what-causes-shimmering-air-above-flares.md
 nid: 24042
 uid: 297929
 
+cids: 27090,27095,27096,27098,27103
+
 ---
 
 # What causes shimmering air above flares?

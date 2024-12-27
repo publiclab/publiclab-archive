@@ -7,6 +7,8 @@ path: /notes/gbathree/01-15-2014/using-photosynq-as-general-purpose-tool-for-det
 nid: 9948
 uid: 53164
 
+cids: 8031,8033,8040,8041,8043
+
 ---
 
 # Using PhotosynQ as general purpose tool for detecting contaminants

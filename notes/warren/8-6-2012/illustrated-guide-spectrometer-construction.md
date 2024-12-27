@@ -7,6 +7,8 @@ path: /notes/warren/8-6-2012/illustrated-guide-spectrometer-construction.md
 nid: 3154
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrometer-guide-p1.png)

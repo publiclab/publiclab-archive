@@ -7,6 +7,8 @@ path: /notes/warren/10-09-2013/absorption-lines-in-flare-spectra.md
 nid: 9431
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/848/original/capture-2.png)

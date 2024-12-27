@@ -7,6 +7,8 @@ path: /notes/forcha/08-28-2022/gsoc-report-full-screen-ui-and-video-upload-on-in
 nid: 34908
 uid: 791076
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/077/original/infragram-logo-removebg-preview_%281%29.png)

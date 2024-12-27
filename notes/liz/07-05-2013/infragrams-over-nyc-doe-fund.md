@@ -7,6 +7,8 @@ path: /notes/liz/07-05-2013/infragrams-over-nyc-doe-fund.md
 nid: 8700
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/647/original/IMG_20130628_182047.jpg)

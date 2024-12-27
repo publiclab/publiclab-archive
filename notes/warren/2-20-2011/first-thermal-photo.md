@@ -7,6 +7,8 @@ path: /notes/warren/2-20-2011/first-thermal-photo.md
 nid: 93
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/demo.jpg)

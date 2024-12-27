@@ -7,6 +7,8 @@ path: /notes/patcoyle/9-4-2012/dronemappercom-cloudbased-aerial-photo-processing
 nid: 3645
 uid: 77
 
+cids: 1255,1270
+
 ---
 
 ![](https://publiclab.org/sites/default/files/OrthoN-DroneMapper_test1.jpg)

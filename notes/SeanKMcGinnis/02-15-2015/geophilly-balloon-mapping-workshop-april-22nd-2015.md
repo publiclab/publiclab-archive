@@ -7,6 +7,8 @@ path: /notes/SeanKMcGinnis/02-15-2015/geophilly-balloon-mapping-workshop-april-2
 nid: 11589
 uid: 552
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/992/original/ptw.png)

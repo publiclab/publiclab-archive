@@ -7,6 +7,8 @@ path: /notes/gpenzo/05-16-2015/photomonitoringplugin-fuzzy.md
 nid: 11821
 uid: 420719
 
+cids: 11684,11685,11686,11689,11690,11698,11710
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/911/original/vis_36_NDVI_Float.bmp)

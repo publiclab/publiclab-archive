@@ -7,6 +7,8 @@ path: /notes/JSummers/12-29-2018/a-diy-pipetting-robot-for-biochemistry-applicat
 nid: 18024
 uid: 304279
 
+cids: 21601
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/541/original/robot3a_25.jpg)

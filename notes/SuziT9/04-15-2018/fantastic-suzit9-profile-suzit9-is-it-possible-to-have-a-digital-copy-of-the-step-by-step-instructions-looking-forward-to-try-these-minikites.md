@@ -7,6 +7,8 @@ path: /notes/SuziT9/04-15-2018/fantastic-suzit9-profile-suzit9-is-it-possible-to
 nid: 16156
 uid: 477814
 
+cids: 19430,23073
+
 ---
 
 # Is it possible to have a digital copy of the step-by-step instructions?

@@ -7,6 +7,8 @@ path: /notes/cfastie/07-03-2017/the-squid-and-the-rok.md
 nid: 14612
 uid: 554
 
+cids: 17001,17002,17003
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/988/original/Squid_20170702-9878c.jpg)

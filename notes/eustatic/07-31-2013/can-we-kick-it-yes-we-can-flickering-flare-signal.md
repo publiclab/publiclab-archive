@@ -7,6 +7,8 @@ path: /07-31-2013/can-we-kick-it-yes-we-can-flickering-flare-signal.md
 nid: 8944
 uid: 379
 
+cids: 6435,6445
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/969/original/9378316440_f7f5277d11_c.jpg)

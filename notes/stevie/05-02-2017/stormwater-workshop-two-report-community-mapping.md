@@ -7,6 +7,8 @@ path: /notes/stevie/05-02-2017/stormwater-workshop-two-report-community-mapping.
 nid: 14158
 uid: 422561
 
+cids: 16910
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/334/original/20170408_141510.jpg)

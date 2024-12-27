@@ -7,6 +7,8 @@ path: /11-12-2014/seagrant-helicopter-photo-of-urban-waterway-restoration-in-map
 nid: 11337
 uid: 379
 
+cids: 10752
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/822/original/BSJ_open_one_hour_nov_2014_LSU_sea_Grant_helicopter_video_41_5.png)

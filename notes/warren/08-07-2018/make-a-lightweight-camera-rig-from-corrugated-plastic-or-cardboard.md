@@ -7,6 +7,8 @@ path: /notes/warren/08-07-2018/make-a-lightweight-camera-rig-from-corrugated-pla
 nid: 16877
 uid: 1
 
+cids: 20336,20338,27727
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/101/original/IMG_20180804_232012_414.jpg)

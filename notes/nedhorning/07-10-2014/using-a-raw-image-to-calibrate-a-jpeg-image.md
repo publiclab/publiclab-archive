@@ -7,6 +7,8 @@ path: /notes/nedhorning/07-10-2014/using-a-raw-image-to-calibrate-a-jpeg-image.m
 nid: 10672
 uid: 133
 
+cids: 11969
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/195/original/IMG_1029.JPG)

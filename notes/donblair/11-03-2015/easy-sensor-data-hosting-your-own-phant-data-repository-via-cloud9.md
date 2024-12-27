@@ -7,6 +7,8 @@ path: /notes/donblair/11-03-2015/easy-sensor-data-hosting-your-own-phant-data-re
 nid: 12357
 uid: 43651
 
+cids: 12866
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/360/original/cover.png)

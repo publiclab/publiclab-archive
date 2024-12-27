@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-22-2016/data-validation-of-previous-eosin-y-results-f
 nid: 13019
 uid: 461120
 
+cids: 14418
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/743/original/532nm_green_laser_apr22.png)

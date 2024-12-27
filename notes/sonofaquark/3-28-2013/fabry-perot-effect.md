@@ -7,6 +7,8 @@ path: /notes/sonofaquark/3-28-2013/fabry-perot-effect.md
 nid: 6581
 uid: 54330
 
+cids: 4274,4282,4283,4290,4295,4299,4306,4475,4524
+
 ---
 
 # Fabry-Perot Effect

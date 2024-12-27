@@ -7,6 +7,8 @@ path: /notes/preciousakams/10-29-2020/outreachy-proposal-comment-editor-overhaul
 nid: 24862
 uid: 727417
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/356/original/pexels-designecologist-1779487.jpg)

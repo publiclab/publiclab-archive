@@ -7,6 +7,8 @@ path: /notes/micheletobias/7-29-2012/carabiner-kite-line-attachment.md
 nid: 3014
 uid: 149
 
+cids: 1098,1108,1109,1110,1111,2522
+
 ---
 
 # Carabiner Kite Line Attachment

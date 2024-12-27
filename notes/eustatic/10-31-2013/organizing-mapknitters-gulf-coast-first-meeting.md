@@ -7,6 +7,8 @@ path: /10-31-2013/organizing-mapknitters-gulf-coast-first-meeting.md
 nid: 9707
 uid: 379
 
+cids: 7413,7833
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/089/original/CAM00317.jpg)

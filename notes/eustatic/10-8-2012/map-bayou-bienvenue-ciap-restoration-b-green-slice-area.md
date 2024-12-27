@@ -7,6 +7,8 @@ path: /10-8-2012/map-bayou-bienvenue-ciap-restoration-b-green-slice-area.md
 nid: 4252
 uid: 379
 
+cids: 1601,1606,1639,1642,1648
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8065245440_7cdf1fb6e8_0.jpg)

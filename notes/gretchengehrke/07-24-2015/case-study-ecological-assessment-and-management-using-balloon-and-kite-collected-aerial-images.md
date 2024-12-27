@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-24-2015/case-study-ecological-assessment-and-mana
 nid: 12099
 uid: 430549
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/929/original/a_IMAG0880_bsj_34.jpg)

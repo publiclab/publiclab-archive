@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/11-30-2017/does-pennsylvania-have-air-quality-standa
 nid: 15274
 uid: 430549
 
+cids: 22768
+
 ---
 
 # Does Pennsylvania have air quality standards for hydrogen sulfide? 

@@ -7,6 +7,8 @@ path: /notes/warren/9-21-2012/public-lab-community-newsletter-92112.md
 nid: 3927
 uid: 1
 
+cids: 
+
 ---
 
 # Public Lab community newsletter 9.21.12

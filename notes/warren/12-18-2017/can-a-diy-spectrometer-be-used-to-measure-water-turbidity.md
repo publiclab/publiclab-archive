@@ -7,6 +7,8 @@ path: /notes/warren/12-18-2017/can-a-diy-spectrometer-be-used-to-measure-water-t
 nid: 15392
 uid: 1
 
+cids: 18010,18058,18059,18363,22815,22912
+
 ---
 
 # Can a DIY spectrometer be used to measure water turbidity?

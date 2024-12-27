@@ -7,6 +7,8 @@ path: /notes/imvec/11-15-2016/fresh-air-collector.md
 nid: 13706
 uid: 495038
 
+cids: 15832,15848,15919
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/846/original/freshair.jpg)

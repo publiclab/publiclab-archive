@@ -7,6 +7,8 @@ path: /notes/jacobsimonson/10-19-2011/wetable-and-charm.md
 nid: 510
 uid: 295
 
+cids: 1061
+
 ---
 
 # The weTable and CHARM

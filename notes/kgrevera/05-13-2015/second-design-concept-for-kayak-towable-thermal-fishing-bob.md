@@ -7,6 +7,8 @@ path: /notes/kgrevera/05-13-2015/second-design-concept-for-kayak-towable-thermal
 nid: 11810
 uid: 432001
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/884/original/Screen_Shot_2015-05-13_at_9.28.30_AM.png)

@@ -7,6 +7,8 @@ path: /notes/imvec/04-19-2017/hack-the-earth-5th-edition.md
 nid: 14123
 uid: 495038
 
+cids: 16602
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/165/original/ants.jpg)

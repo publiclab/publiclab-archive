@@ -7,6 +7,8 @@ path: /notes/bhamster/06-15-2021/meet-public-lab-s-new-research-curation-fellows
 nid: 26830
 uid: 664477
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/184/original/2021Fellows_intro_photos.jpg)

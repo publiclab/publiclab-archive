@@ -7,6 +7,8 @@ path: /notes/Juanjo/10-01-2017/kite-for-aerial-photography.md
 nid: 14988
 uid: 447129
 
+cids: 18329,18356,27030
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/811/original/IMG_5754.JPG)

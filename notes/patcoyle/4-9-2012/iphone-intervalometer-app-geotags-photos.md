@@ -7,6 +7,8 @@ path: /notes/patcoyle/4-9-2012/iphone-intervalometer-app-geotags-photos.md
 nid: 1635
 uid: 77
 
+cids: 
+
 ---
 
 # iPhone intervalometer app geotags photos

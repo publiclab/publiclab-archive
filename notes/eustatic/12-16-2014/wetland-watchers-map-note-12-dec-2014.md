@@ -7,6 +7,8 @@ path: /12-16-2014/wetland-watchers-map-note-12-dec-2014.md
 nid: 11463
 uid: 379
 
+cids: 12164,12165
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/419/original/a_IMG_0857.JPG)

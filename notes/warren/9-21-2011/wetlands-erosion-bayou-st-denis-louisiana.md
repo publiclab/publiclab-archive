@@ -7,6 +7,8 @@ path: /notes/warren/9-21-2011/wetlands-erosion-bayou-st-denis-louisiana.md
 nid: 475
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-09-21 at 1.29.04 PM.png)

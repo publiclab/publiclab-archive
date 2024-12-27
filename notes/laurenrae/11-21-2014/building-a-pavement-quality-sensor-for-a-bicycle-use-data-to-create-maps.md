@@ -7,6 +7,8 @@ path: /notes/laurenrae/11-21-2014/building-a-pavement-quality-sensor-for-a-bicyc
 nid: 11380
 uid: 431676
 
+cids: 10828,10841,12145
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/050/original/IMG_4026.JPG)

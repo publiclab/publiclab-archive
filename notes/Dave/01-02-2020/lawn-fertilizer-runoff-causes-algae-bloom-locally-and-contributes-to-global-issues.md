@@ -7,6 +7,8 @@ path: /notes/Dave/01-02-2020/lawn-fertilizer-runoff-causes-algae-bloom-locally-a
 nid: 22200
 uid: 648822
 
+cids: 26120,26339
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/396/original/green-algae-background_%281%29.jpg)

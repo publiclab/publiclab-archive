@@ -7,6 +7,8 @@ path: /notes/donblair/04-17-2014/open-lux-rev-f-neopixel-fiesta.md
 nid: 10326
 uid: 43651
 
+cids: 8806,8808,8813
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/703/original/open-lux-revf-front.png)

@@ -7,6 +7,8 @@ path: /notes/amychan331/11-02-2018/outreachy-proposal-on-expanded-community-stat
 nid: 17463
 uid: 556795
 
+cids: 
+
 ---
 
 # Outreachy proposal on expanded community stats system by Amy Chan

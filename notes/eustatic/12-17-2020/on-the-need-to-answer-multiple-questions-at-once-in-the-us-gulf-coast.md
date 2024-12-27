@@ -7,6 +7,8 @@ path: /12-17-2020/on-the-need-to-answer-multiple-questions-at-once-in-the-us-gul
 nid: 25288
 uid: 379
 
+cids: 27824,27885,27888,29435
+
 ---
 
 # On the need to answer multiple questions at once in the US Gulf Coast

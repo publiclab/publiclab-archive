@@ -7,6 +7,8 @@ path: /notes/jkpetter/11-01-2016/mapknitter-map-of-trial-four-improved-mount-cum
 nid: 13668
 uid: 489340
 
+cids: 15759
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/674/original/P1070904.JPG)

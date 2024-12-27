@@ -7,6 +7,8 @@ path: /notes/stevie/08-17-2017/interview-karen-savage.md
 nid: 14764
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/363/original/karensavage_02.JPG)

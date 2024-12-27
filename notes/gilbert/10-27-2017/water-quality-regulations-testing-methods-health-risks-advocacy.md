@@ -7,6 +7,8 @@ path: /notes/gilbert/10-27-2017/water-quality-regulations-testing-methods-health
 nid: 15122
 uid: 508551
 
+cids: 17589,17590,17591,17602,17603,17604,17605
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/120/original/images.jpg)

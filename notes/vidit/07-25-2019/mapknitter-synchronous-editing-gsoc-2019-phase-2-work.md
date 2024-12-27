@@ -7,6 +7,8 @@ path: /notes/vidit/07-25-2019/mapknitter-synchronous-editing-gsoc-2019-phase-2-w
 nid: 20313
 uid: 517093
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/125/original/gsoc-phase-2-image.png)

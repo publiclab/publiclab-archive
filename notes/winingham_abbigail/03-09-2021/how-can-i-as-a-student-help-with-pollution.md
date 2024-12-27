@@ -7,6 +7,8 @@ path: /notes/winingham_abbigail/03-09-2021/how-can-i-as-a-student-help-with-poll
 nid: 25878
 uid: 745901
 
+cids: 28332
+
 ---
 
 # How can I, as a student, help with pollution?

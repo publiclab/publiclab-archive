@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/09-09-2016/empirical-verification-of-0-05mm-slit-width-o
 nid: 13434
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/986/original/slit_view_at_100_times_mag_sept_8.png)

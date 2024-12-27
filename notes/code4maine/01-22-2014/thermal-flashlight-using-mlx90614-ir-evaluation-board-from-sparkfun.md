@@ -7,6 +7,8 @@ path: /notes/code4maine/01-22-2014/thermal-flashlight-using-mlx90614-ir-evaluati
 nid: 9962
 uid: 294634
 
+cids: 8060,8061,8064,8065,8066,15968
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/601/original/SparkfunEval.jpg)

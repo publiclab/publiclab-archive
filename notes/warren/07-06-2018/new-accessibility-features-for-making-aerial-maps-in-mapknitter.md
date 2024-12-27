@@ -7,6 +7,8 @@ path: /notes/warren/07-06-2018/new-accessibility-features-for-making-aerial-maps
 nid: 16653
 uid: 1
 
+cids: 20004,20010,20332,20458,20478,20479,20603
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/429/original/Screen_Shot_2018-07-05_at_4.31.45_PM.png)

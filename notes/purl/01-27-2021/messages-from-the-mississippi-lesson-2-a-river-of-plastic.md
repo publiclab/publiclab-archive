@@ -7,6 +7,8 @@ path: /notes/purl/01-27-2021/messages-from-the-mississippi-lesson-2-a-river-of-p
 nid: 25561
 uid: 736598
 
+cids: 28134
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/824/original/EPA_flow_chart.png)

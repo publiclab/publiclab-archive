@@ -7,6 +7,8 @@ path: /notes/sara/7-18-2012/bayou-savage-results-2-degree-canister-openness.md
 nid: 2867
 uid: 8
 
+cids: 1057
+
 ---
 
 ![](https://publiclab.org/sites/default/files/BSresultsbyopenness.JPG)

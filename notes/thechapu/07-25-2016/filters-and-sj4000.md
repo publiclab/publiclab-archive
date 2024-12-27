@@ -7,6 +7,8 @@ path: /notes/thechapu/07-25-2016/filters-and-sj4000.md
 nid: 13307
 uid: 478881
 
+cids: 15017,15018,15020,15028,15031,15043,15046,15048,15049
+
 ---
 
 # Filters and SJ4000

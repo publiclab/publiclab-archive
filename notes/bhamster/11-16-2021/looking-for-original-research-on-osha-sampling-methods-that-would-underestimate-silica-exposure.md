@@ -7,6 +7,8 @@ path: /notes/bhamster/11-16-2021/looking-for-original-research-on-osha-sampling-
 nid: 28122
 uid: 664477
 
+cids: 29438,29439
+
 ---
 
 # Looking for original research on OSHA sampling methods that would underestimate silica exposure

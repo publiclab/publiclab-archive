@@ -7,6 +7,8 @@ path: /notes/kgradow1/04-22-2021/friday-april-23-unhealthy-homes-lead-advocacy-p
 nid: 26303
 uid: 297929
 
+cids: 28619,28643
+
 ---
 
 # Friday April 23: Unhealthy Homes Lead Advocacy Panel

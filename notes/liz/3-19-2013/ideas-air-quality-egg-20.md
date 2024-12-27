@@ -7,6 +7,8 @@ path: /notes/liz/3-19-2013/ideas-air-quality-egg-20.md
 nid: 6429
 uid: 7
 
+cids: 5134
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8 - Air Quality Egg 2.0.jpg)

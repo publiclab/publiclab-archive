@@ -7,6 +7,8 @@ path: /08-14-2014/trash-of-bayou-st-john.md
 nid: 11050
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/267/original/a_IMG_8304_goldfish_trash.JPG)

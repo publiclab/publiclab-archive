@@ -7,6 +7,8 @@ path: /notes/nanocastro/04-26-2017/maca-open-air-quality-monitor-project-in-lati
 nid: 14139
 uid: 506212
 
+cids: 16620,16621,16622,16623,16624,16626,18067,18479,18494,18524,18765,18767,18775,19266,19365,19879,19881,19882
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/946/original/abierto.jpg)

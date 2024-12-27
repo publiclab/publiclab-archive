@@ -7,6 +7,8 @@ path: /notes/imvec/04-28-2018/foldable-spectrometer-workshop.md
 nid: 16266
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/777/original/Espectrometro_blck.png)

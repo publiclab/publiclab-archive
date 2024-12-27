@@ -7,6 +7,8 @@ path: /notes/cfastie/4-22-2012/tiny-remote-control.md
 nid: 1746
 uid: 554
 
+cids: 654,8745
+
 ---
 
 ![](https://publiclab.org/sites/default/files/433MHzboard.jpg)

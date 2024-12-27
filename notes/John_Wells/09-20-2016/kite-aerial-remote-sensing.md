@@ -7,6 +7,8 @@ path: /notes/John_Wells/09-20-2016/kite-aerial-remote-sensing.md
 nid: 13464
 uid: 372
 
+cids: 15445,15449,15450,15451,15452,15453,15568,15570,27130,27132
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/089/original/thermalkap.jpg)

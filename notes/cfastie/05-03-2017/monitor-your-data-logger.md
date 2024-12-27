@@ -7,6 +7,8 @@ path: /notes/cfastie/05-03-2017/monitor-your-data-logger.md
 nid: 14160
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/374/original/LCD3.gif)

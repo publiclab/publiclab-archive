@@ -7,6 +7,8 @@ path: /notes/mathew/7-28-2011/splitting-bamboo-kites.md
 nid: 416
 uid: 4
 
+cids: 302
+
 ---
 
 # splitting bamboo for kites

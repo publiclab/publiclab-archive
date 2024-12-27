@@ -7,6 +7,8 @@ path: /notes/warren/11-23-2015/issues-1-3-of-the-barnraiser.md
 nid: 12441
 uid: 1
 
+cids: 12938,13134,13135
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/008/original/barnraiser.jpg)

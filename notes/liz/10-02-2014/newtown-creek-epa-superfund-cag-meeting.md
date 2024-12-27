@@ -7,6 +7,8 @@ path: /notes/liz/10-02-2014/newtown-creek-epa-superfund-cag-meeting.md
 nid: 11228
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/275/original/1412205088155.jpg)

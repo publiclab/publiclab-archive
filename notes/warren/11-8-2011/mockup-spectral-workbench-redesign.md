@@ -7,6 +7,8 @@ path: /notes/warren/11-8-2011/mockup-spectral-workbench-redesign.md
 nid: 551
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/SpectralWorkbenchmockups.png)

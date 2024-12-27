@@ -7,6 +7,8 @@ path: /notes/gkdavis/09-11-2014/balloon-mapping-bayou-plaquemines.md
 nid: 11128
 uid: 428234
 
+cids: 10489
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/740/original/bayou-plaquemines.jpg)

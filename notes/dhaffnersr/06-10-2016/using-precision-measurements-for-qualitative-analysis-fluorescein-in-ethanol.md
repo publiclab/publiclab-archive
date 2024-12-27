@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/06-10-2016/using-precision-measurements-for-qualitative-
 nid: 13183
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/570/original/bmp_upload_pic2.bmp)

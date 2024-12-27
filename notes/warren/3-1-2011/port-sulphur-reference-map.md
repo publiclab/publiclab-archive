@@ -7,6 +7,8 @@ path: /notes/warren/3-1-2011/port-sulphur-reference-map.md
 nid: 106
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org//tmp/Capture.JPG)

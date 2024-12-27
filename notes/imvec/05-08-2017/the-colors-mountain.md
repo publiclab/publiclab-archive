@@ -7,6 +7,8 @@ path: /notes/imvec/05-08-2017/the-colors-mountain.md
 nid: 14168
 uid: 495038
 
+cids: 16721,16723
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/395/original/tcm.jpg)

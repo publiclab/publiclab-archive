@@ -7,6 +7,8 @@ path: /notes/warren/2-6-2012/air-testing-hamster-ball-progress.md
 nid: 757
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6831657511_d6af55523f_b.jpg)

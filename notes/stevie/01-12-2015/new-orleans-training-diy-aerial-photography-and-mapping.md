@@ -7,6 +7,8 @@ path: /notes/stevie/01-12-2015/new-orleans-training-diy-aerial-photography-and-m
 nid: 11518
 uid: 422561
 
+cids: 11052,11068,11069,11073,11105,11126,11143,11172
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/585/original/Mapping_Training.jpg)

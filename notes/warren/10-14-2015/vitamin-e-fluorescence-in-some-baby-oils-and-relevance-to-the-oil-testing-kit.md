@@ -7,6 +7,8 @@ path: /notes/warren/10-14-2015/vitamin-e-fluorescence-in-some-baby-oils-and-rele
 nid: 12301
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/949/original/IMG_20151010_224435.jpg)

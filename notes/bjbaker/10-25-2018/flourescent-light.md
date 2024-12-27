@@ -7,6 +7,8 @@ path: /notes/bjbaker/10-25-2018/flourescent-light.md
 nid: 17390
 uid: 556241
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/225/original/22658174-304D-4AFD-9C3B-8A6168A8C03E.jpeg)

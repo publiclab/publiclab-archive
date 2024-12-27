@@ -7,6 +7,8 @@ path: /notes/ananyo2012/08-17-2016/is-the-question-interface-working.md
 nid: 13360
 uid: 468506
 
+cids: 15160,15183,15193,15303,15304,15313,15324,15342,15616,22252,22256,22270,22271,22276
+
 ---
 
 # Is the question interface working?

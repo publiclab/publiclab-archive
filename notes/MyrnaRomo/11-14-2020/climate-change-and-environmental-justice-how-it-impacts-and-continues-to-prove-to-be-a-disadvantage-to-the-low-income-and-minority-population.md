@@ -7,6 +7,8 @@ path: /notes/MyrnaRomo/11-14-2020/climate-change-and-environmental-justice-how-i
 nid: 25060
 uid: 726546
 
+cids: 27669,27672,27673,27745,27779,28244,28911
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/749/original/climate-change-is-not-a-white-thing-featured-web-810x422.jpg)

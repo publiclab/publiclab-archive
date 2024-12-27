@@ -7,6 +7,8 @@ path: /notes/Zengirl2/03-09-2018/what-is-an-easy-to-use-phone-app-for-public-to-
 nid: 15907
 uid: 423961
 
+cids: 18828,18829,18842,20235,22986,22987,23185
+
 ---
 
 # What is an easy-to-use phone app for public to record air quality issues? #air #app #tech

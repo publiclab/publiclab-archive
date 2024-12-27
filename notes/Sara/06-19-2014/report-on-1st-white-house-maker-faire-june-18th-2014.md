@@ -7,6 +7,8 @@ path: /notes/Sara/06-19-2014/report-on-1st-white-house-maker-faire-june-18th-201
 nid: 10593
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/883/original/10494510_10152246735432798_8167745360193519641_o.jpg)

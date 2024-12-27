@@ -7,6 +7,8 @@ path: /notes/MaggPi/05-09-2019/satellite-environmental-monitoring-request-for-si
 nid: 19272
 uid: 501996
 
+cids: 24076,24077,24078,24083,24160
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/846/original/apr20.gif)

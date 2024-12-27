@@ -7,6 +7,8 @@ path: /notes/Sreyanth/05-20-2014/gsoc-2014-automatic-spectrometer-calibration.md
 nid: 10491
 uid: 96713
 
+cids: 9047,9399
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/331/original/SWB_LOGO.png)

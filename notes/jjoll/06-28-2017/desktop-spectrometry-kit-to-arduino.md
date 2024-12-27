@@ -7,6 +7,8 @@ path: /notes/jjoll/06-28-2017/desktop-spectrometry-kit-to-arduino.md
 nid: 14589
 uid: 508437
 
+cids: 16940,16941,16942,22504,22505
+
 ---
 
 # Desktop Spectrometry Kit to arduino?

@@ -7,6 +7,8 @@ path: /notes/stevie/05-06-2014/hope-in-bloom-hope-in-balloon.md
 nid: 10428
 uid: 422561
 
+cids: 8979,8980,8986,8988
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/261/original/image21.jpg)

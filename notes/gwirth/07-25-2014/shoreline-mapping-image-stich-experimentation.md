@@ -7,6 +7,8 @@ path: /notes/gwirth/07-25-2014/shoreline-mapping-image-stich-experimentation.md
 nid: 10979
 uid: 30539
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/576/original/GreatKills_Series.jpg)

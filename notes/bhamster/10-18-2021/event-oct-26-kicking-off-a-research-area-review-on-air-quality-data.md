@@ -7,6 +7,8 @@ path: /notes/bhamster/10-18-2021/event-oct-26-kicking-off-a-research-area-review
 nid: 27929
 uid: 664477
 
+cids: 29333,29342,29354,29363
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/927/original/LESBreathe_PM25_July4.png)

@@ -7,6 +7,8 @@ path: /notes/khufkens/01-03-2016/jungle-rhythms-find-the-rhythm-of-tropical-tree
 nid: 12556
 uid: 438931
 
+cids: 13239,13241,13242
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/495/original/junglerhythms_mini_cards.png)

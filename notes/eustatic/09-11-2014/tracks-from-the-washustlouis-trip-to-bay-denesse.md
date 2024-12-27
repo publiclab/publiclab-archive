@@ -7,6 +7,8 @@ path: /09-11-2014/tracks-from-the-washustlouis-trip-to-bay-denesse.md
 nid: 11124
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/731/original/screenshot_map_wash_U_stlouis_trip.png)

@@ -7,6 +7,8 @@ path: /notes/GreenLeaves/07-04-2014/vienna-infragram.md
 nid: 10656
 uid: 425426
 
+cids: 9416,9435
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/125/original/IMG_2614.JPG)

@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/05-22-2016/riffle-and-arduino-first-impressions-notes.
 nid: 13137
 uid: 459085
 
+cids: 14666,14667,14682
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/255/original/blinkRiffleMod___Arduino_2_1.0.5_dfsg2-4_011.png)

@@ -7,6 +7,8 @@ path: /notes/mmonet3/08-15-2022/environment-vs-population.md
 nid: 34878
 uid: 809816
 
+cids: 30413
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/028/original/images.jpg)

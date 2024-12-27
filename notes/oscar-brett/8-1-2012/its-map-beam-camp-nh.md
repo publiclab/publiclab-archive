@@ -7,6 +7,8 @@ path: /notes/oscar-brett/8-1-2012/its-map-beam-camp-nh.md
 nid: 3068
 uid: 409
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/P7312157_0.JPG)

@@ -7,6 +7,8 @@ path: /notes/dariusjack/11-13-2020/why-image-sequencer-fails-to-work-from-web-pa
 nid: 25057
 uid: 728980
 
+cids: 27661,27664
+
 ---
 
 # Why Image Sequencer fails to work from web page ?

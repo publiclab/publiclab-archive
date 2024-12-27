@@ -7,6 +7,8 @@ path: /notes/gauravano/03-29-2019/software-community-growth-through-first-timers
 nid: 18893
 uid: 515081
 
+cids: 23524,23541,23543,23546,23547,23548,24012,24016,24272,24273,24274,24275,24282,24283,24287
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/830/original/Screenshot_from_2019-03-29_04-18-05.png)

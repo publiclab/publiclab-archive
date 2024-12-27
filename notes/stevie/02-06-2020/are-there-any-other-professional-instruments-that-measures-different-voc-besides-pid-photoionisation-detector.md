@@ -7,6 +7,8 @@ path: /notes/stevie/02-06-2020/are-there-any-other-professional-instruments-that
 nid: 22692
 uid: 422561
 
+cids: 26262,26270,26271,26272,26278
+
 ---
 
 # Are there any other professional instruments that measures different VOC besides PID (photoionisation detector)?

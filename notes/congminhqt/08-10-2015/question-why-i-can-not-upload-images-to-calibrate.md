@@ -7,6 +7,8 @@ path: /notes/congminhqt/08-10-2015/question-why-i-can-not-upload-images-to-calib
 nid: 12129
 uid: 446338
 
+cids: 12350,12353,12359,12362,12365,12378
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/084/original/compac.png)

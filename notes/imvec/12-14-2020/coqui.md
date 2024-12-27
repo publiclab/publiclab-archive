@@ -7,6 +7,8 @@ path: /notes/imvec/12-14-2020/coqui.md
 nid: 25251
 uid: 495038
 
+cids: 27813,27901
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/014/original/1.jpg)

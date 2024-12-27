@@ -7,6 +7,8 @@ path: /notes/divyabaid16/03-28-2019/ideas-for-footer-design-publiclab-org.md
 nid: 18883
 uid: 578652
 
+cids: 23510,23519,23529,23531,23532,23544
+
 ---
 
 # Ideas for Footer Design - PublicLab.org

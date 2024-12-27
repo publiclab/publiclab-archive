@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/04-07-2022/using-coqui-in-a-the-suquia-river-for-con
 nid: 30293
 uid: 639376
 
+cids: 29980,29984,29986,29987,29989,29990,29995,29996,29998
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/648/original/Portada.png)

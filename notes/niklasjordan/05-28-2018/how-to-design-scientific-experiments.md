@@ -7,6 +7,8 @@ path: /notes/niklasjordan/05-28-2018/how-to-design-scientific-experiments.md
 nid: 16400
 uid: 531062
 
+cids: 19705,23096,23522
+
 ---
 
 # How to design scientific experiments?

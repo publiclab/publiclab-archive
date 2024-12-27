@@ -7,6 +7,8 @@ path: /notes/cesarharada/2-24-2011/quantify-wetland-aerial-uv-photo.md
 nid: 102
 uid: 50
 
+cids: 238
+
 ---
 
 ![](https://publiclab.org/sites/default/files/test_cesar_adam4_0.jpg)

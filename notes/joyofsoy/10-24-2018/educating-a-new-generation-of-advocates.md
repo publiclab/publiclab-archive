@@ -7,6 +7,8 @@ path: /notes/joyofsoy/10-24-2018/educating-a-new-generation-of-advocates.md
 nid: 17387
 uid: 540844
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/221/original/Exploring_a_guide_to_flora_and_fauna_on_the_Mississippi_Coastal_Birding_Trail_%281%29.jpg)

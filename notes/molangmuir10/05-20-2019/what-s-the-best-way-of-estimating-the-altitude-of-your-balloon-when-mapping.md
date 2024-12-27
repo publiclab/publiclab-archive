@@ -7,6 +7,8 @@ path: /notes/molangmuir10/05-20-2019/what-s-the-best-way-of-estimating-the-altit
 nid: 19464
 uid: 589023
 
+cids: 24209,24233,24241,24246,24247,24297,24298
+
 ---
 
 # What's the best way of estimating the altitude of your balloon when mapping?

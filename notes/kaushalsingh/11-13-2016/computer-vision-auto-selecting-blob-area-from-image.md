@@ -7,6 +7,8 @@ path: /notes/kaushalsingh/11-13-2016/computer-vision-auto-selecting-blob-area-fr
 nid: 13698
 uid: 496664
 
+cids: 15820,22345
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/826/original/BLOB.jpg)

@@ -7,6 +7,8 @@ path: /notes/ghk/07-21-2014/ghk-engine-ndvi-analysis.md
 nid: 10941
 uid: 422181
 
+cids: 9587,9611,9612
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/432/original/ghklogo.svg)

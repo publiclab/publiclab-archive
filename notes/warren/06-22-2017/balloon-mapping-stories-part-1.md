@@ -7,6 +7,8 @@ path: /notes/warren/06-22-2017/balloon-mapping-stories-part-1.md
 nid: 14572
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/851/original/stormwater.jpg)

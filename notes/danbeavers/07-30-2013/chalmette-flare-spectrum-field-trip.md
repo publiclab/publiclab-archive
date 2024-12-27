@@ -7,6 +7,8 @@ path: /notes/danbeavers/07-30-2013/chalmette-flare-spectrum-field-trip.md
 nid: 8941
 uid: 51
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/962/original/flare2%287-26-2013%29rotate.png)

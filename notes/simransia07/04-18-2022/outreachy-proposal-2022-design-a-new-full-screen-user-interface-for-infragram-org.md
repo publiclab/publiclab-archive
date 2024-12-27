@@ -7,6 +7,8 @@ path: /notes/simransia07/04-18-2022/outreachy-proposal-2022-design-a-new-full-sc
 nid: 30479
 uid: 794606
 
+cids: 30082,30127,30136,30166,30167,30183
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/123/original/Group_49_%285%29.png)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/2-20-2012/new-federal-law-towards-faa-and-commercial-dro
 nid: 816
 uid: 12
 
+cids: 
+
 ---
 
 # New Federal law towards FAA and commercial drones appearing in the US

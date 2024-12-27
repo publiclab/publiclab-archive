@@ -7,6 +7,8 @@ path: /notes/Jimzamjimmyy/06-12-2018/mapknitter-map-of-testing.md
 nid: 16481
 uid: 537970
 
+cids: 
+
 ---
 
 # MapKnitter map of testing

@@ -7,6 +7,8 @@ path: /notes/sciencetoolbar/04-19-2018/simple-pulse-motor-generator-powered-with
 nid: 16175
 uid: 513114
 
+cids: 20488,20489
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/663/original/Pulse_motor_generator.jpg)

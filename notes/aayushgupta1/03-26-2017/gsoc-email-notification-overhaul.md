@@ -7,6 +7,8 @@ path: /notes/aayushgupta1/03-26-2017/gsoc-email-notification-overhaul.md
 nid: 14060
 uid: 503612
 
+cids: 16458,16467,16474,16477,16575
+
 ---
 
 # GSOC - Upgrade Plot to Rails 4 and Email Notification Overhaul

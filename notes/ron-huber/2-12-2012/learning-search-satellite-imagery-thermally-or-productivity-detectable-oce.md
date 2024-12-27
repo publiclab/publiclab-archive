@@ -7,6 +7,8 @@ path: /notes/ron-huber/2-12-2012/learning-search-satellite-imagery-thermally-or-
 nid: 782
 uid: 437
 
+cids: 456,9201
+
 ---
 
 # Learning to search satellite imagery for thermally- or productivity- detectable ocean upwellings

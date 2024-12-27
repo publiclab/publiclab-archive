@@ -7,6 +7,8 @@ path: /notes/nyck31/01-06-2018/how-to-build-a-spectrometer-for-detecting-fetanyl
 nid: 15464
 uid: 521909
 
+cids: 22826,22827
+
 ---
 
 # How to build a spectrometer for detecting fetanyl in street drugs using the Atmel SAM4S Xplained Pro

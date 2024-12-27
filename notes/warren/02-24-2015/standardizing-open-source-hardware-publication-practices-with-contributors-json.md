@@ -7,6 +7,8 @@ path: /notes/warren/02-24-2015/standardizing-open-source-hardware-publication-pr
 nid: 11636
 uid: 1
 
+cids: 11206,11207,11208,11209,11210,11211,11212,11213,11214,11215,11224
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/077/original/contributors-json.png)

@@ -7,6 +7,8 @@ path: /notes/warren/04-29-2017/getting-a-raspberry-pi-to-output-data-by-emulatin
 nid: 14151
 uid: 1
 
+cids: 16658,16660,16661,16663,22462
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/273/original/IMG_20170429_162416.jpg)

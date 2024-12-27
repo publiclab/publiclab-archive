@@ -7,6 +7,8 @@ path: /notes/warren/02-04-2014/oil-testing-kit-draft-materials-list.md
 nid: 10011
 uid: 1
 
+cids: 8155,8156,8157,8158,8159,8160,8161,8163,8164,8165,8166,8167,8168,8175,8195,8219,8230,8313,8454,8551,9527,9528,9529,9530,9531,9533,9534,9542,9554,9879,9881,9882,9884
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/771/original/IMG_0385.JPG)

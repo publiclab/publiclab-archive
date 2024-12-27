@@ -7,6 +7,8 @@ path: /notes/SpencerDay/05-02-2016/mapknitter-map-of-flc-wetland-spencer-day.md
 nid: 13063
 uid: 471485
 
+cids: 14499
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/900/original/FLC_Wetland_Spencer_Day.jpg)

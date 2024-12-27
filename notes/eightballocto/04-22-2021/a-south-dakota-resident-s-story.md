@@ -7,6 +7,8 @@ path: /notes/eightballocto/04-22-2021/a-south-dakota-resident-s-story.md
 nid: 26294
 uid: 751770
 
+cids: 
+
 ---
 
 # A South Dakota resident's story

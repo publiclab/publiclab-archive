@@ -7,6 +7,8 @@ path: /notes/DustinBlock/02-09-2015/photosynq-in-detroit.md
 nid: 11569
 uid: 435046
 
+cids: 11148
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/878/original/IMG_4168.JPG)

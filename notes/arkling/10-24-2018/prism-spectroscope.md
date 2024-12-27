@@ -7,6 +7,8 @@ path: /notes/arkling/10-24-2018/prism-spectroscope.md
 nid: 17380
 uid: 556282
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/193/original/2092159D-2D80-4EBB-ADC5-87930CDEF6FC.jpeg)

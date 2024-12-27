@@ -7,6 +7,8 @@ path: /notes/bhamster/10-15-2021/getting-the-scoop-on-wastewater-summary-of-a-re
 nid: 27852
 uid: 664477
 
+cids: 29316
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/906/original/WastewaterRAR_pres_screenshot.png)

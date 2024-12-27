@@ -7,6 +7,8 @@ path: /notes/kanarinka/02-24-2016/assignment-reflections-on-sensor-journalism.md
 nid: 12748
 uid: 994
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/574/original/assignment.png)

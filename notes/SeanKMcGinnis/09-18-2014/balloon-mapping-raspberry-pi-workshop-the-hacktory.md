@@ -7,6 +7,8 @@ path: /notes/SeanKMcGinnis/09-18-2014/balloon-mapping-raspberry-pi-workshop-the-
 nid: 11153
 uid: 552
 
+cids: 10548
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/883/original/DSC02113.JPG)

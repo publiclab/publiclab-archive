@@ -7,6 +7,8 @@ path: /notes/stevie/08-31-2017/what-are-soil-sampling-protocols-being-used-by-gr
 nid: 14807
 uid: 422561
 
+cids: 18324,22578,22580,22581,22903
+
 ---
 
 # What are soil sampling protocols being used by groups along the gulf coast?

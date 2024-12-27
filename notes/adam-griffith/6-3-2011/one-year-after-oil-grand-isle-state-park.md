@@ -7,6 +7,8 @@ path: /notes/adam-griffith/6-3-2011/one-year-after-oil-grand-isle-state-park.md
 nid: 325
 uid: 3
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Unknown.jpeg)

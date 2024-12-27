@@ -7,6 +7,8 @@ path: /notes/megan/4-2-2012/possible-sensor-field-calibration-photo-test-strips.
 nid: 1612
 uid: 775
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/H2S Monitoring.JPG)

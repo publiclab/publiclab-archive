@@ -7,6 +7,8 @@ path: /notes/darkdimension/06-03-2018/diffraction-grating-200nm-400nm-light-vend
 nid: 16424
 uid: 536710
 
+cids: 19753,19754,23103,23112
+
 ---
 
 # Diffraction grating (200nm - 400nm) & Light, Vendor/Source Identification

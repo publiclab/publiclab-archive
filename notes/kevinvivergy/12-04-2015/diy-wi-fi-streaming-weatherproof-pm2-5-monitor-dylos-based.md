@@ -7,6 +7,8 @@ path: /notes/kevinvivergy/12-04-2015/diy-wi-fi-streaming-weatherproof-pm2-5-moni
 nid: 12481
 uid: 456612
 
+cids: 13033,13034,13035,13039,13043,13045,13046,14245,14250,14251,14253,14254,14255,14756,14759,15622,15625,15627
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/192/original/20151204_112527.jpg)

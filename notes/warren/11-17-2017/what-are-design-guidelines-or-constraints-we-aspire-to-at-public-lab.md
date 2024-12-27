@@ -7,6 +7,8 @@ path: /notes/warren/11-17-2017/what-are-design-guidelines-or-constraints-we-aspi
 nid: 15202
 uid: 1
 
+cids: 22728
+
 ---
 
 # What are design guidelines or constraints we aspire to at Public Lab?

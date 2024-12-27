@@ -7,6 +7,8 @@ path: /notes/JorgeHM/03-25-2021/help-cannot-see-any-live-video-or-take-pictures.
 nid: 26029
 uid: 750126
 
+cids: 28419,28423,28426,28461,28611,28613,28702,28810,28826,28997,29301
+
 ---
 
 # HELP! Cannot see any live video or take pictures.

@@ -7,6 +7,8 @@ path: /notes/alex-mccarthy/4-20-2011/spectrometry-urop-42011-update.md
 nid: 183
 uid: 125
 
+cids: 
+
 ---
 
 # Spectrometry UROP 4/20/11 update

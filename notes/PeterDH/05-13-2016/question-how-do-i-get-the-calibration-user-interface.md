@@ -7,6 +7,8 @@ path: /notes/PeterDH/05-13-2016/question-how-do-i-get-the-calibration-user-inter
 nid: 13115
 uid: 473559
 
+cids: 14610,22266
+
 ---
 
 # Question: How do I get the calibration user interface?

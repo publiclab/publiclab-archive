@@ -7,6 +7,8 @@ path: /notes/stevie/05-17-2017/last-annual-barnraising-looking-to-the-future.md
 nid: 14206
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/486/original/Screen_Shot_2017-05-17_at_1.52.15_PM.png)

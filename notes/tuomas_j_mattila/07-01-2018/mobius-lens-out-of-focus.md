@@ -7,6 +7,8 @@ path: /notes/tuomas_j_mattila/07-01-2018/mobius-lens-out-of-focus.md
 nid: 16601
 uid: 539737
 
+cids: 19963,19978,20079,20081,23160
+
 ---
 
 # Mobius lens out of focus

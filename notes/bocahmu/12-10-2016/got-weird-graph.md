@@ -7,6 +7,8 @@ path: /notes/bocahmu/12-10-2016/got-weird-graph.md
 nid: 13765
 uid: 498509
 
+cids: 15952,22372
+
 ---
 
 # got weird graph

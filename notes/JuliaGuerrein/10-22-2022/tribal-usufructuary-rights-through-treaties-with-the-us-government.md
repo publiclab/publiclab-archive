@@ -7,6 +7,8 @@ path: /notes/JuliaGuerrein/10-22-2022/tribal-usufructuary-rights-through-treatie
 nid: 35724
 uid: 796025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/240/original/51676617438_640bf3f1b4_b.jpg)

@@ -7,6 +7,8 @@ path: /notes/donblair/10-31-2015/riffle-water-bottle-enclosure-rubber-stopper-w-
 nid: 12347
 uid: 43651
 
+cids: 12813,12826,12827,12829,12833,12834
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/236/original/goo.jpg)

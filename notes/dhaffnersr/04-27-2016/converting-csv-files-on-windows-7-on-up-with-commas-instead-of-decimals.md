@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-27-2016/converting-csv-files-on-windows-7-on-up-with-
 nid: 13037
 uid: 461120
 
+cids: 14459,14460
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/822/original/pic1.png)

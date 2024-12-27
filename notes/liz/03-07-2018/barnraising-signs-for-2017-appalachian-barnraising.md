@@ -7,6 +7,8 @@ path: /notes/liz/03-07-2018/barnraising-signs-for-2017-appalachian-barnraising.m
 nid: 15882
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/866/original/IMG_20170624_142110653.jpg)

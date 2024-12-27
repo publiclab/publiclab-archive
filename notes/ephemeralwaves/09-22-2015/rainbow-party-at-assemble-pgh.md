@@ -7,6 +7,8 @@ path: /notes/ephemeralwaves/09-22-2015/rainbow-party-at-assemble-pgh.md
 nid: 12236
 uid: 47284
 
+cids: 12598,14523,22093
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/671/original/giselleandmichal.jpg)

@@ -7,6 +7,8 @@ path: /notes/nedhorning/9-25-2012/canon-a2200-nir-conversion.md
 nid: 4002
 uid: 133
 
+cids: 1524,1537,1557,2551,4956,6351,7454,8051,8054,8055,9008,9009,9010,9011,9012,9015,9016,9164
+
 ---
 
 ![](https://publiclab.org/sites/default/files/RemoveRubberGasketClipped.jpg)

@@ -7,6 +7,8 @@ path: /notes/omarion/02-17-2020/creating-a-bioluminescence-detector.md
 nid: 22838
 uid: 622967
 
+cids: 
+
 ---
 
 # Creating a Bioluminescence Detector 

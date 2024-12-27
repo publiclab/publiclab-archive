@@ -7,6 +7,8 @@ path: /notes/dhaprt/11-30-2017/how-do-i-find-where-and-how-to-download-the-spect
 nid: 15267
 uid: 519609
 
+cids: 17858,22765
+
 ---
 
 # How do I find where and how to download the spectroscope software on the Public Lab site?

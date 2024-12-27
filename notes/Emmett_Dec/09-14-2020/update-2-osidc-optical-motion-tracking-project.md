@@ -7,6 +7,8 @@ path: /notes/Emmett_Dec/09-14-2020/update-2-osidc-optical-motion-tracking-projec
 nid: 24569
 uid: 716411
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/877/original/murthy_video_still.jpg)

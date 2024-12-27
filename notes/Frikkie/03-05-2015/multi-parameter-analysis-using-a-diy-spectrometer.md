@@ -7,6 +7,8 @@ path: /notes/Frikkie/03-05-2015/multi-parameter-analysis-using-a-diy-spectromete
 nid: 11655
 uid: 435693
 
+cids: 11283,11286,11289,11375,13284
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/175/original/FLAME_EMISION_SETUP.png)

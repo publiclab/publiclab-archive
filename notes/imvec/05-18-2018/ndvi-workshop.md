@@ -7,6 +7,8 @@ path: /notes/imvec/05-18-2018/ndvi-workshop.md
 nid: 16363
 uid: 495038
 
+cids: 19654,19655,19681
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/989/original/1507_P7215081_NDVI_Color.jpg)

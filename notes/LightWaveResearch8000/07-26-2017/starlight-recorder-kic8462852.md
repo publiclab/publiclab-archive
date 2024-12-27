@@ -7,6 +7,8 @@ path: /notes/LightWaveResearch8000/07-26-2017/starlight-recorder-kic8462852.md
 nid: 14683
 uid: 510698
 
+cids: 22779
+
 ---
 
 # Starlight Recorder KIC8462852

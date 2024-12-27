@@ -7,6 +7,8 @@ path: /notes/mlamadrid/01-18-2017/photo-documentation-of-frac-sand-mine-surface-
 nid: 13860
 uid: 45586
 
+cids: 28240
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/302/original/LB1.png)

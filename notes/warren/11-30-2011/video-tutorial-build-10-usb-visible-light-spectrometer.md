@@ -7,6 +7,8 @@ path: /notes/warren/11-30-2011/video-tutorial-build-10-usb-visible-light-spectro
 nid: 599
 uid: 1
 
+cids: 3256,3257
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-11-30 at 7.19.34 PM.png)

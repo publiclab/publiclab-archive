@@ -7,6 +7,8 @@ path: /notes/5-13-2012/abrdn.md
 nid: 2087
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1022_medium.JPG)

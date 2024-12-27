@@ -7,6 +7,8 @@ path: /notes/radz_saini99/04-22-2022/design-a-new-full-screen-user-interface-for
 nid: 30576
 uid: 795476
 
+cids: 
+
 ---
 
 # Design a new full-screen user interface for Infragram.org

@@ -7,6 +7,8 @@ path: /notes/jiteovien/07-09-2018/integrating-user-instructions-into-the-communi
 nid: 16668
 uid: 540008
 
+cids: 20077,20091,20145
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/824/original/25552.png)

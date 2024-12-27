@@ -7,6 +7,8 @@ path: /notes/warren/11-15-2013/visualight-board-for-thermal-flashlights.md
 nid: 9784
 uid: 1
 
+cids: 7603,7619,7882,7883,7884,8101
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/233/original/visualight.jpg)

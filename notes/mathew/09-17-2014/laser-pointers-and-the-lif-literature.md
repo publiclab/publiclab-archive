@@ -7,6 +7,8 @@ path: /notes/mathew/09-17-2014/laser-pointers-and-the-lif-literature.md
 nid: 11150
 uid: 4
 
+cids: 10409
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/850/original/Screen_Shot_2014-09-17_at_1.04.55_PM.png)

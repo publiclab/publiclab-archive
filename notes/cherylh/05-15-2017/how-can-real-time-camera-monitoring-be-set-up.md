@@ -7,6 +7,8 @@ path: /notes/cherylh/05-15-2017/how-can-real-time-camera-monitoring-be-set-up.md
 nid: 14191
 uid: 507287
 
+cids: 22469,22471,22474,22493
+
 ---
 
 # How can real-time camera monitoring be set up?  

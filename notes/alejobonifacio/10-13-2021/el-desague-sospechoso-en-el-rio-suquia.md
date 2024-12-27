@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/10-13-2021/el-desague-sospechoso-en-el-rio-suquia.md
 nid: 27765
 uid: 639376
 
+cids: 29375
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/838/original/Protada_de_lac_case_of_study.jpg)

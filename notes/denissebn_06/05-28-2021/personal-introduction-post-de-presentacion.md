@@ -7,6 +7,8 @@ path: /notes/denissebn_06/05-28-2021/personal-introduction-post-de-presentacion.
 nid: 26733
 uid: 749988
 
+cids: 28854
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/986/original/DSCN4576_1_.JPG)

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-04-2016/some-tools-of-the-trade-and-a-new-cree-highpo
 nid: 13069
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/921/original/blue_LEDclose_up__475nm_highpower_1000mA_may3.png)

@@ -7,6 +7,8 @@ path: /notes/stephanie13/2-21-2013/air-quality-egg.md
 nid: 6086
 uid: 50454
 
+cids: 3594
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130221_182434_0.jpg)

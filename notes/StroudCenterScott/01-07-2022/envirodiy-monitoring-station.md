@@ -7,6 +7,8 @@ path: /notes/StroudCenterScott/01-07-2022/envirodiy-monitoring-station.md
 nid: 28687
 uid: 765031
 
+cids: 29585,29586
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/307/original/EnviroDIYMonitoringStation.jpg)

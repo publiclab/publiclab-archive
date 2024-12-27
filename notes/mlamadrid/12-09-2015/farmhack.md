@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-09-2015/farmhack.md
 nid: 12492
 uid: 45586
 
+cids: 13076,13079,13081
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/249/original/iFarmSat2737.jpg)

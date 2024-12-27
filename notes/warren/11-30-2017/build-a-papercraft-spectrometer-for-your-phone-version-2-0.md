@@ -7,6 +7,8 @@ path: /notes/warren/11-30-2017/build-a-papercraft-spectrometer-for-your-phone-ve
 nid: 15276
 uid: 1
 
+cids: 18968,23515,23893,24917,25284,25301,25580,25588,25592,26584,29688,29702,31352
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/675/original/OI000109.jpg)

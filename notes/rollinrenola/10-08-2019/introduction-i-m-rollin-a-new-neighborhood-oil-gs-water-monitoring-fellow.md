@@ -7,6 +7,8 @@ path: /notes/rollinrenola/10-08-2019/introduction-i-m-rollin-a-new-neighborhood-
 nid: 21113
 uid: 618903
 
+cids: 25685
+
 ---
 
 # Introduction: I'm Rollin, A new Neighborhood oil & gas water monitoring fellow

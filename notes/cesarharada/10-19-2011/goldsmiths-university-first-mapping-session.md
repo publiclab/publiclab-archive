@@ -7,6 +7,8 @@ path: /notes/cesarharada/10-19-2011/goldsmiths-university-first-mapping-session.
 nid: 511
 uid: 50
 
+cids: 7264
+
 ---
 
 # Goldsmiths University First Mapping session

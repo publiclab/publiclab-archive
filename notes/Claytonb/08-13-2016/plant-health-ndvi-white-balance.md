@@ -7,6 +7,8 @@ path: /notes/Claytonb/08-13-2016/plant-health-ndvi-white-balance.md
 nid: 13352
 uid: 460246
 
+cids: 15110,15711,15713,20167
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/611/original/IMG_0554.JPG)

@@ -7,6 +7,8 @@ path: /notes/donblair/03-23-2016/sync-mod-for-ambient-background-removal-first-t
 nid: 12881
 uid: 43651
 
+cids: 17297,17643
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/201/original/IMG_20160321_202615863.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/02-14-2016/rig-refinement.md
 nid: 12686
 uid: 554
 
+cids: 13670,13695
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/283/original/TraySupp2pan.jpg)

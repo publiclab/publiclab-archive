@@ -7,6 +7,8 @@ path: /notes/gonzoearth/7-5-2011/yet-another-soda-bottle-camera-house.md
 nid: 369
 uid: 12
 
+cids: 296,16219
+
 ---
 
 ![](https://publiclab.org/sites/default/files/camera-bottle.jpg)

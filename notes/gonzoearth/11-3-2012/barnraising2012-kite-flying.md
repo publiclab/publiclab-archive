@@ -7,6 +7,8 @@ path: /notes/gonzoearth/11-3-2012/barnraising2012-kite-flying.md
 nid: 4761
 uid: 12
 
+cids: 2005
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-11-03-louisiana-cocodrie-lumcon_0.jpg)

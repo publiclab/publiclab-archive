@@ -7,6 +7,8 @@ path: /notes/mathew/02-10-2017/what-procedure-is-best-to-determine-background-ai
 nid: 13921
 uid: 4
 
+cids: 16463
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/527/original/EPA_454-R-04-002_Fig_2.png)

@@ -7,6 +7,8 @@ path: /notes/bc512/08-18-2013/mapping-vineyards-with-quadcopter-using-converted-
 nid: 9035
 uid: 197512
 
+cids: 6688,7812,7813,7815,7816,7819
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/210/original/missionplanner2.PNG)

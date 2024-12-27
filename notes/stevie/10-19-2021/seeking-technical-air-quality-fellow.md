@@ -7,6 +7,8 @@ path: /notes/stevie/10-19-2021/seeking-technical-air-quality-fellow.md
 nid: 27946
 uid: 422561
 
+cids: 29338
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/938/original/IMG_2503.JPG)

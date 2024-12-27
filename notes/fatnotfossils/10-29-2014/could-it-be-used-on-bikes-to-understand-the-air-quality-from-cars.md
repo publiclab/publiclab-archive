@@ -7,6 +7,8 @@ path: /notes/fatnotfossils/10-29-2014/could-it-be-used-on-bikes-to-understand-th
 nid: 11312
 uid: 430643
 
+cids: 10684
+
 ---
 
 # Could it be used on bikes to understand the air quality from cars

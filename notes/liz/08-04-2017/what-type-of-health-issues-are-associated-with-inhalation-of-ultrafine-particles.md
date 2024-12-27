@@ -7,6 +7,8 @@ path: /notes/liz/08-04-2017/what-type-of-health-issues-are-associated-with-inhal
 nid: 14718
 uid: 7
 
+cids: 22558,22603
+
 ---
 
 # What type of health issues are associated with inhalation of ultrafine particles?

@@ -7,6 +7,8 @@ path: /notes/kgrevera/05-26-2015/thermal-fishing-bob-development-workshop-on-nor
 nid: 11842
 uid: 432001
 
+cids: 11919,11927
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/016/original/Untitled3.png)

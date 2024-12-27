@@ -7,6 +7,8 @@ path: /notes/patricktorphy/02-24-2016/sensor-journalism-accomplishments-pitfalls
 nid: 12745
 uid: 461515
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/565/original/Oliver_Munday_Illustration_for_Foreign_Policy_magazine_article_by_William_T._Vollmann.jpg)

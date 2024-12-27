@@ -7,6 +7,8 @@ path: /notes/ranon/07-11-2016/friction-stoppers.md
 nid: 13281
 uid: 477060
 
+cids: 14912,14913,14914,14917,14918,14925
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/980/original/Friction_Stoppers.jpg)

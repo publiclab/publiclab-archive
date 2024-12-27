@@ -7,6 +7,8 @@ path: /notes/Shannon/03-01-2016/creating-an-evaluation-framework-for-public-lab.
 nid: 12764
 uid: 9
 
+cids: 13810,14773
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/631/original/logo.png)

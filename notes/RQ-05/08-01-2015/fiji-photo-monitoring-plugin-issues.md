@@ -7,6 +7,8 @@ path: /notes/RQ-05/08-01-2015/fiji-photo-monitoring-plugin-issues.md
 nid: 12114
 uid: 440673
 
+cids: 12309
+
 ---
 
 # Fiji Photo Monitoring Plugin issues

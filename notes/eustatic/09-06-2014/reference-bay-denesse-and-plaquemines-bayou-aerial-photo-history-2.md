@@ -7,6 +7,8 @@ path: /09-06-2014/reference-bay-denesse-and-plaquemines-bayou-aerial-photo-histo
 nid: 11112
 uid: 379
 
+cids: 10210,10211,10317,10492,10493
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/634/original/57aNdR_Bay_Denesse_all.gif)

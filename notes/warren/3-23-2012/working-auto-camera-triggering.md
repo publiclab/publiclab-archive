@@ -7,6 +7,8 @@ path: /notes/warren/3-23-2012/working-auto-camera-triggering.md
 nid: 1533
 uid: 1
 
+cids: 551,11419
+
 ---
 
 ![](https://publiclab.org/sites/default/files/camera-triggering.png)

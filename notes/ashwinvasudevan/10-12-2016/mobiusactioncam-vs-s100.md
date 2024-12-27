@@ -7,6 +7,8 @@ path: /notes/ashwinvasudevan/10-12-2016/mobiusactioncam-vs-s100.md
 nid: 13553
 uid: 494213
 
+cids: 15636,15645,15699,15700
+
 ---
 
 # MobiusActionCam vs S100

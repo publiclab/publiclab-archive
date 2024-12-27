@@ -7,6 +7,8 @@ path: /11-11-2014/water-hackathon-series-2-the-riffle-training.md
 nid: 11335
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/810/original/riffleAudio.png)

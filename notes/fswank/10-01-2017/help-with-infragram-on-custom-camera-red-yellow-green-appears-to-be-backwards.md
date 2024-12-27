@@ -7,6 +7,8 @@ path: /notes/fswank/10-01-2017/help-with-infragram-on-custom-camera-red-yellow-g
 nid: 14987
 uid: 515510
 
+cids: 22651
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/799/original/infragramtroubleshooting.jpg)

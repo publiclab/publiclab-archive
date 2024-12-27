@@ -7,6 +7,8 @@ path: /notes/mathew/02-26-2015/sensors-in-soda-bottles.md
 nid: 11640
 uid: 4
 
+cids: 11227,11228,11230,11265,11277,11278
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/092/original/IMG_20150216_170555.jpg)

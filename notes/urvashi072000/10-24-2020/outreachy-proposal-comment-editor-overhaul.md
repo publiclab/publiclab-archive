@@ -7,6 +7,8 @@ path: /notes/urvashi072000/10-24-2020/outreachy-proposal-comment-editor-overhaul
 nid: 24806
 uid: 638826
 
+cids: 27528,27529,27530,27538,27591
+
 ---
 
 # Outreachy proposal: Comment Editor Overhaul

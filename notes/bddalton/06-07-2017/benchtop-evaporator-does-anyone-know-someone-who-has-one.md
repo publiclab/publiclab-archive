@@ -7,6 +7,8 @@ path: /notes/bddalton/06-07-2017/benchtop-evaporator-does-anyone-know-someone-wh
 nid: 14509
 uid: 508614
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/684/original/images.jpg)

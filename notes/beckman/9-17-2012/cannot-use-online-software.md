@@ -7,6 +7,8 @@ path: /notes/beckman/9-17-2012/cannot-use-online-software.md
 nid: 3855
 uid: 42932
 
+cids: 1356
+
 ---
 
 # cannot use online software

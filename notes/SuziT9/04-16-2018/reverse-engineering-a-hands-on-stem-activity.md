@@ -7,6 +7,8 @@ path: /notes/SuziT9/04-16-2018/reverse-engineering-a-hands-on-stem-activity.md
 nid: 16162
 uid: 477814
 
+cids: 19434,19440,19452
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/625/original/screwdrivers-icon_My3bwS_O_L.png)

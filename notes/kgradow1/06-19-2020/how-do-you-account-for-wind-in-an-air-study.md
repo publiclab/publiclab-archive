@@ -7,6 +7,8 @@ path: /notes/kgradow1/06-19-2020/how-do-you-account-for-wind-in-an-air-study.md
 nid: 23888
 uid: 297929
 
+cids: 27037,27084
+
 ---
 
 # How do you account for wind in an air study?

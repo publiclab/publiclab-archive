@@ -7,6 +7,8 @@ path: /notes/warren/09-09-2013/an-overview-of-the-publiclab-org-website.md
 nid: 9310
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/466/original/Screen_Shot_2013-09-09_at_3.38.19_PM.png)

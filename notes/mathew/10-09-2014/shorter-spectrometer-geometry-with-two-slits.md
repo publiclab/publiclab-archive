@@ -7,6 +7,8 @@ path: /notes/mathew/10-09-2014/shorter-spectrometer-geometry-with-two-slits.md
 nid: 11254
 uid: 4
 
+cids: 10520,10537,10538
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/388/original/IMG_20141008_183921.jpg)

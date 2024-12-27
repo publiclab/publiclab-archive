@@ -7,6 +7,8 @@ path: /notes/rexagod/07-21-2019/google-summer-of-code-second-evaluations.md
 nid: 20223
 uid: 564358
 
+cids: 25089,25135,25160,25171,25194,31410
+
 ---
 
 # Google Summer of Code: Second Evaluations

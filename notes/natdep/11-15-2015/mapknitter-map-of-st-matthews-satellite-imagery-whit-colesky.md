@@ -7,6 +7,8 @@ path: /notes/natdep/11-15-2015/mapknitter-map-of-st-matthews-satellite-imagery-w
 nid: 12411
 uid: 456410
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/755/original/Photo_on_8-10-15_at_7.36_PM.jpg)

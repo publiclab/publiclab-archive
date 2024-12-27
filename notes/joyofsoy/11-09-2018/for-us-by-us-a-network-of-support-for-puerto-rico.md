@@ -7,6 +7,8 @@ path: /notes/joyofsoy/11-09-2018/for-us-by-us-a-network-of-support-for-puerto-ri
 nid: 17501
 uid: 540844
 
+cids: 21193,21194
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/574/original/IMG_20180715_105306_065_%282%29.jpg)

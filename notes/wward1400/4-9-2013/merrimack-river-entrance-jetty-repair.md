@@ -7,6 +7,8 @@ path: /notes/wward1400/4-9-2013/merrimack-river-entrance-jetty-repair.md
 nid: 6751
 uid: 46742
 
+cids: 4472
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_7847.JPG)

@@ -7,6 +7,8 @@ path: /notes/bbran/10-21-2016/progress-options.md
 nid: 13635
 uid: 495181
 
+cids: 15698,15701,15702
+
 ---
 
 # Progress? Options...

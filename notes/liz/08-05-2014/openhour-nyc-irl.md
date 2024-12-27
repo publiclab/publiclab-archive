@@ -7,6 +7,8 @@ path: /notes/liz/08-05-2014/openhour-nyc-irl.md
 nid: 11014
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/034/original/IMG_2059.JPG)

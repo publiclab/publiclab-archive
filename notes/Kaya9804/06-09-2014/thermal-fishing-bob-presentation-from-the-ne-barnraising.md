@@ -7,6 +7,8 @@ path: /notes/Kaya9804/06-09-2014/thermal-fishing-bob-presentation-from-the-ne-ba
 nid: 10544
 uid: 45526
 
+cids: 9167,9168,9172
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/575/original/IMG_1214.jpg)

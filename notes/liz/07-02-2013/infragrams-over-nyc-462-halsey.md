@@ -7,6 +7,8 @@ path: /notes/liz/07-02-2013/infragrams-over-nyc-462-halsey.md
 nid: 8611
 uid: 7
 
+cids: 5963
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/617/original/IMG_3106.JPG)

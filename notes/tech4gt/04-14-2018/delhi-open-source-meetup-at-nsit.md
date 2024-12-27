@@ -7,6 +7,8 @@ path: /notes/tech4gt/04-14-2018/delhi-open-source-meetup-at-nsit.md
 nid: 16152
 uid: 523178
 
+cids: 19405,19406,19407,19409,19410,19411,19412,19416,19417,19425,19427,19432,19483
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/591/original/download.jpeg)

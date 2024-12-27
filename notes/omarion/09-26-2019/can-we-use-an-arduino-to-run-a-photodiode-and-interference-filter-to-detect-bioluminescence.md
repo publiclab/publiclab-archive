@@ -7,6 +7,8 @@ path: /notes/omarion/09-26-2019/can-we-use-an-arduino-to-run-a-photodiode-and-in
 nid: 20995
 uid: 622967
 
+cids: 25601,25602,25610,27060
+
 ---
 
 # Can we use an arduino to run a photodiode and interference filter to detect  bioluminescence?

@@ -7,6 +7,8 @@ path: /notes/scottvr/07-15-2015/447nm-oops.md
 nid: 12069
 uid: 445249
 
+cids: 12193,12197
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/695/original/1436945689128.jpg)

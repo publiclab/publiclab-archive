@@ -7,6 +7,8 @@ path: /notes/shannon/4-28-2011/exposure-gulf.md
 nid: 198
 uid: 9
 
+cids: 
+
 ---
 
 # Exposure in the Gulf

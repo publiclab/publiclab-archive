@@ -7,6 +7,8 @@ path: /notes/warren/2-9-2011/melexis-thermometer-sensitivity-55-um-15-um.md
 nid: 80
 uid: 1
 
+cids: 
+
 ---
 
 # Melexis thermometer sensitivity is 5.5 um to 15 um

@@ -7,6 +7,8 @@ path: /notes/cfastie/07-19-2018/dfrobot-tds-sensor-first-look.md
 nid: 16752
 uid: 554
 
+cids: 20175,20177,25001,25003,27366
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/777/original/TDS_20180711-3087.JPG)

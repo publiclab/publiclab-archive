@@ -7,6 +7,8 @@ path: /notes/anishshah101/05-04-2014/gsoc-blog-on-the-project-of-revamping-the-m
 nid: 10410
 uid: 421046
 
+cids: 
+
 ---
 
 # GSoC blog on the project of revamping the Mapkniiter tool.

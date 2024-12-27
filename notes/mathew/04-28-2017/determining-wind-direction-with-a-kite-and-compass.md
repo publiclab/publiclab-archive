@@ -7,6 +7,8 @@ path: /notes/mathew/04-28-2017/determining-wind-direction-with-a-kite-and-compas
 nid: 14148
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/259/original/IMG_7783.jpg)

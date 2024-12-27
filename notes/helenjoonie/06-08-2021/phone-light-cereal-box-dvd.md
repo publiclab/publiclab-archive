@@ -7,6 +7,8 @@ path: /notes/helenjoonie/06-08-2021/phone-light-cereal-box-dvd.md
 nid: 26787
 uid: 756764
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/080/original/20210608_124922.jpg)

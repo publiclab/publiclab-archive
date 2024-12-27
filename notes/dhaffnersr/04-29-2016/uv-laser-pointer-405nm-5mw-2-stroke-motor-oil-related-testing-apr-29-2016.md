@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-29-2016/uv-laser-pointer-405nm-5mw-2-stroke-motor-oil
 nid: 13049
 uid: 461120
 
+cids: 14478,14479,14562,14563
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/855/original/UV_laser_pointer_apr29.JPG)

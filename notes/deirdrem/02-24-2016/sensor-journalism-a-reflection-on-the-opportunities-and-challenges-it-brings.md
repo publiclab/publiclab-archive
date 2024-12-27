@@ -7,6 +7,8 @@ path: /notes/deirdrem/02-24-2016/sensor-journalism-a-reflection-on-the-opportuni
 nid: 12746
 uid: 461479
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/566/original/IMAG1150_1.jpg)

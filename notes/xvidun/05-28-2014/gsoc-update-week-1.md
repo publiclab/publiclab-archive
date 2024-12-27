@@ -7,6 +7,8 @@ path: /notes/xvidun/05-28-2014/gsoc-update-week-1.md
 nid: 10516
 uid: 421168
 
+cids: 9088,9093,9094,9095,9098,9139,9140,9141,9142,9151
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/484/original/download.jpg)

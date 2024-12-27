@@ -7,6 +7,8 @@ path: /notes/donblair/3-5-2013/late-night-ircam-hack.md
 nid: 6211
 uid: 43651
 
+cids: 3629,3630,3631,3632,3635,3657,3663,3664,3670,3671,3672,3673,3675,3676,3850,3859,4222
+
 ---
 
 ![](https://publiclab.org/sites/default/files/pic_54_1.png)

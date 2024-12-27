@@ -7,6 +7,8 @@ path: /notes/charlotte_clarke/10-23-2019/reptiles-at-the-bayou-halloween-and-coa
 nid: 21274
 uid: 510781
 
+cids: 25733,25737,25738,26795
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/943/original/75580169_10157646750442456_4453131347870875648_o.jpg)

@@ -7,6 +7,8 @@ path: /notes/jarrarte/08-06-2014/using-the-infragram-webcam-in-linux.md
 nid: 11017
 uid: 425714
 
+cids: 9780,9781
+
 ---
 
 # Using the infragram webcam in Linux

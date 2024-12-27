@@ -7,6 +7,8 @@ path: /notes/dmdc/4-30-2013/reflectance-spectrometry.md
 nid: 7137
 uid: 60042
 
+cids: 4589,8058,8353,20977,20996,21011,21015
+
 ---
 
 # Reflectance spectrometry

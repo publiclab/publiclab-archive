@@ -7,6 +7,8 @@ path: /notes/sarasage/08-09-2021/choosing-locations-and-methodology-for-air-qual
 nid: 27448
 uid: 451398
 
+cids: 29115,29116
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/591/original/Testing_Site_Selection.JPG)

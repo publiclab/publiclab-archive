@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-09-2016/build-instructions-for-the-dh-4-0-v4-spectrom
 nid: 13342
 uid: 461120
 
+cids: 15377,15381
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/436/original/DVD_INSTRUCTION.png)

@@ -7,6 +7,8 @@ path: /notes/DavidMack/05-31-2017/u-s-epa-community-webinar-on-citizen-science-a
 nid: 14497
 uid: 420189
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/612/original/Environmental_Protection_Agency_logo.svg.png)

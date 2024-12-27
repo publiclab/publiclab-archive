@@ -7,6 +7,8 @@ path: /notes/tungs10/11-08-2013/spectroscopy-of-oxyhydrogen-flames.md
 nid: 9749
 uid: 356541
 
+cids: 7496,7507
+
 ---
 
 # Spectroscopy of oxyhydrogen flames

@@ -7,6 +7,8 @@ path: /notes/patcoyle/12-2-2012/training-session-simple-aerial-photomapping-uc-b
 nid: 5087
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/P1060683.jpg)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-17-2011/diy-drones.md
 nid: 242
 uid: 12
 
+cids: 
+
 ---
 
 # DIY Drones

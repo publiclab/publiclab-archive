@@ -7,6 +7,8 @@ path: /notes/cfastie/01-03-2015/public-lab-organizers-summit-2014.md
 nid: 11507
 uid: 554
 
+cids: 11046,12276
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/561/original/Barn2014_095.jpg)

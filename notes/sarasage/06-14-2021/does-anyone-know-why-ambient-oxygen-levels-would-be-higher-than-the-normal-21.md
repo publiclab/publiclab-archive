@@ -7,6 +7,8 @@ path: /notes/sarasage/06-14-2021/does-anyone-know-why-ambient-oxygen-levels-woul
 nid: 26824
 uid: 451398
 
+cids: 28922,28923,28927,28928
+
 ---
 
 # Does anyone know why ambient oxygen levels would be higher than the normal 21%?

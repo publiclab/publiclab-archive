@@ -7,6 +7,8 @@ path: /notes/Morgan/01-24-2018/do-the-same-regulations-that-apply-to-drones-appl
 nid: 15603
 uid: 501320
 
+cids: 18305,22882,22883
+
 ---
 
 # Do the same regulations that apply to drones apply to balloon mapping?

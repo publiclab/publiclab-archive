@@ -7,6 +7,8 @@ path: /notes/agann3/01-30-2014/zone-x.md
 nid: 9990
 uid: 420538
 
+cids: 
+
 ---
 
 # Zone X

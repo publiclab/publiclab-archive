@@ -7,6 +7,8 @@ path: /notes/ranon/07-11-2016/hand-assembled-pendulums.md
 nid: 13278
 uid: 477060
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/951/original/Pendulum_with_rig.jpg)

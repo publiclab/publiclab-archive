@@ -7,6 +7,8 @@ path: /notes/icarito/06-23-2020/is-our-error-reporting-adequate.md
 nid: 24022
 uid: 448589
 
+cids: 27046,27142,27181,27183,27184,27185,27186,27196
+
 ---
 
 # Is our error reporting adequate?

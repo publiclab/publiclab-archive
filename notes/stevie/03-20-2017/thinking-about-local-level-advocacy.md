@@ -7,6 +7,8 @@ path: /notes/stevie/03-20-2017/thinking-about-local-level-advocacy.md
 nid: 14041
 uid: 422561
 
+cids: 16432,28844,28846
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/892/original/Cropped_2.jpg)

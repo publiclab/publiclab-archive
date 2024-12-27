@@ -7,6 +7,8 @@ path: /notes/thangvu/03-23-2018/can-a-spectrometer-be-used-to-measure-color-of-w
 nid: 16012
 uid: 528416
 
+cids: 19135,19141,19164,19165,19171,19173,19176,19179,19183,19184,19193,19195,19220,23032,23033,23036
+
 ---
 
 # can a spectrometer be used to measure color of water ?

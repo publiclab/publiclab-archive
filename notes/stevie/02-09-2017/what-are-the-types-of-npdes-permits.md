@@ -7,6 +7,8 @@ path: /notes/stevie/02-09-2017/what-are-the-types-of-npdes-permits.md
 nid: 13917
 uid: 422561
 
+cids: 22423,22429
+
 ---
 
 # What types of NPDES permits are there? 

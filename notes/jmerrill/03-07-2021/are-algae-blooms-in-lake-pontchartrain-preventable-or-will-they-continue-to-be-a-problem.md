@@ -7,6 +7,8 @@ path: /notes/jmerrill/03-07-2021/are-algae-blooms-in-lake-pontchartrain-preventa
 nid: 25855
 uid: 742582
 
+cids: 28328,28377,28378,28380
+
 ---
 
 # Are algae blooms in Lake Pontchartrain preventable or will they continue to be a problem?

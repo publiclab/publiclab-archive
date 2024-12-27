@@ -7,6 +7,8 @@ path: /notes/Becki/07-19-2014/public-lab-community-newsletter-7-18-2014.md
 nid: 10709
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/395/original/logo.png)

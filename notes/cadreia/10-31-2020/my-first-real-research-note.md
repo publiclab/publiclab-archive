@@ -7,6 +7,8 @@ path: /notes/cadreia/10-31-2020/my-first-real-research-note.md
 nid: 24883
 uid: 725561
 
+cids: 27619
+
 ---
 
 # My First Real Research Note

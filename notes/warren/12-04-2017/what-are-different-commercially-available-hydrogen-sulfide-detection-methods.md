@@ -7,6 +7,8 @@ path: /notes/warren/12-04-2017/what-are-different-commercially-available-hydroge
 nid: 15298
 uid: 1
 
+cids: 22777,22780,22781
+
 ---
 
 # What are different commercially available hydrogen sulfide detection methods?

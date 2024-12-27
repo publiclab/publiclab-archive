@@ -7,6 +7,8 @@ path: /notes/CherokeeConcernedCitizens/06-13-2020/what-do-i-need-to-know-before-
 nid: 23837
 uid: 701875
 
+cids: 27025,27029,27111,27112,27128,27149,27160,27172,27173,27174
+
 ---
 
 # What do I need to know before collecting soil for the Hanby soil testing kit?

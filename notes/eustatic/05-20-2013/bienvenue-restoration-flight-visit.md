@@ -7,6 +7,8 @@ path: /05-20-2013/bienvenue-restoration-flight-visit.md
 nid: 7753
 uid: 379
 
+cids: 4783,4827,4828,4829,4830,4831,4838
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/365/original/Bienvenue_mapping_restoration.png)

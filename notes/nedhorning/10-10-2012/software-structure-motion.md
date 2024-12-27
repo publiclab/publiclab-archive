@@ -7,6 +7,8 @@ path: /notes/nedhorning/10-10-2012/software-structure-motion.md
 nid: 4328
 uid: 133
 
+cids: 1634
+
 ---
 
 ![](https://publiclab.org/sites/default/files/TreeSmooth00.png)

@@ -7,6 +7,8 @@ path: /notes/warren/9-14-2011/hydrogen-sulfide-sensing-brainstorm.md
 nid: 466
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20110914_120009.jpg)

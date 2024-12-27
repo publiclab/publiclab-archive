@@ -7,6 +7,8 @@ path: /notes/warren/6-20-2012/keeping-it-easy-making-it-awesome-open-source-docu
 nid: 2588
 uid: 1
 
+cids: 926
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0130.JPG)

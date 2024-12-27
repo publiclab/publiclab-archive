@@ -7,6 +7,8 @@ path: /notes/RVDave/11-04-2016/mapknitter-map-of-bayou-sav.md
 nid: 13677
 uid: 496388
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/699/original/IMG_2955.JPG)

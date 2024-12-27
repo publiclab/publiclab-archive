@@ -7,6 +7,8 @@ path: /notes/wjw/01-25-2016/gather-and-analyze-long-term-solar-and-wind-data-for
 nid: 12610
 uid: 462290
 
+cids: 13532,13811
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/799/original/2015_hhllc_araial.png)

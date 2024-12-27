@@ -7,6 +7,8 @@ path: /notes/stevie/08-21-2014/a-non-maker-s-take-on-the-picayune-make.md
 nid: 11070
 uid: 422561
 
+cids: 10299
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/368/original/20140816_173901.jpg)

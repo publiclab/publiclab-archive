@@ -7,6 +7,8 @@ path: /notes/warren/11-21-2017/find-the-concentration-of-a-liquid-with-a-diy-spe
 nid: 15220
 uid: 1
 
+cids: 17768,17779,17836
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/520/original/PB211770_copy.jpg)

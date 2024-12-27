@@ -7,6 +7,8 @@ path: /notes/eymund-diegel/10-26-2012/hello-kitty-watchdog-patrols-gowanus-canal
 nid: 4649
 uid: 1016
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/1_hello kitty camera knows naughty from nice.jpg)

@@ -7,6 +7,8 @@ path: /notes/dckim11/01-16-2014/absorption-spectra-makes-sense.md
 nid: 9950
 uid: 300699
 
+cids: 8036,8044,8187
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/566/original/photo.JPG)

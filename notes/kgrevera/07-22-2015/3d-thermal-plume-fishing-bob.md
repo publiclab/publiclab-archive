@@ -7,6 +7,8 @@ path: /notes/kgrevera/07-22-2015/3d-thermal-plume-fishing-bob.md
 nid: 12087
 uid: 432001
 
+cids: 12237
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/779/original/IMG_6401.pdf)

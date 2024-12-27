@@ -7,6 +7,8 @@ path: /notes/changeadmin/8-3-2012/mapping-newtown-creek.md
 nid: 3114
 uid: 39384
 
+cids: 1118,6341
+
 ---
 
 ![](https://publiclab.org/sites/default/files/622121_421091804595735_2045517148_o.jpg)

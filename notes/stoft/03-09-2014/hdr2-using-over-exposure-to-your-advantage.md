@@ -7,6 +7,8 @@ path: /notes/stoft/03-09-2014/hdr2-using-over-exposure-to-your-advantage.md
 nid: 10147
 uid: 54025
 
+cids: 8452,8453,8456,24744
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/188/original/HDR2.jpg)

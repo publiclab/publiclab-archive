@@ -7,6 +7,8 @@ path: /notes/warren/11-29-2011/example-aster-satellite-image-thermal-pollution.m
 nid: 596
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/thermal-pollution.jpg)

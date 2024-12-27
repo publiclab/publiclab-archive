@@ -7,6 +7,8 @@ path: /notes/cfastie/07-23-2013/waterchestnut-big-picture.md
 nid: 8926
 uid: 554
 
+cids: 6353,6354,6358,6359,6360,6362,6363,6364,6366,6367,6410,6418,6420,6422,6425,6427,6428
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/903/original/hayangel1800.jpg)

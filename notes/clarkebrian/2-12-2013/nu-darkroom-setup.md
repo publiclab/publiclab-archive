@@ -7,6 +7,8 @@ path: /notes/clarkebrian/2-12-2013/nu-darkroom-setup.md
 nid: 5958
 uid: 48632
 
+cids: 
+
 ---
 
 # NU Darkroom Setup

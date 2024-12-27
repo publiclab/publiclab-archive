@@ -7,6 +7,8 @@ path: /10-28-2012/draftintro-aerial-photo-interpretation-wetland-class-notes.md
 nid: 4673
 uid: 379
 
+cids: 29778
+
 ---
 
 # [draft]Intro to Aerial Photo interpretation of wetland class notes

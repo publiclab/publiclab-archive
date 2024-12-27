@@ -7,6 +7,8 @@ path: /notes/warren/01-09-2018/is-there-more-information-on-the-corrosion-coupon
 nid: 15491
 uid: 1
 
+cids: 
+
 ---
 
 # Is there more information on the "Corrosion Coupon" hydrogen sulfide test kit?

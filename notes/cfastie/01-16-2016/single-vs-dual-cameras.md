@@ -7,6 +7,8 @@ path: /notes/cfastie/01-16-2016/single-vs-dual-cameras.md
 nid: 12592
 uid: 554
 
+cids: 13378
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/688/original/Middopt-708-3.jpg)

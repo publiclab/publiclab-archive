@@ -7,6 +7,8 @@ path: /notes/willkarspeck/08-10-2020/mapknitter-map-of-berthoud-lighting.md
 nid: 24300
 uid: 713206
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/445/original/org_2fc4d35418ff3705_1597054934000.jpg)

@@ -7,6 +7,8 @@ path: /notes/nathanathan/11-19-2013/using-ica-for-spectral-analysis.md
 nid: 9809
 uid: 365600
 
+cids: 7637,7638,7640,7641,7642,7644,7648,7651,11892,11893
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/270/original/Untitled_drawing.png)

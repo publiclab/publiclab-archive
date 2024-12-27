@@ -7,6 +7,8 @@ path: /notes/ottinger/08-30-2018/website-for-public-data.md
 nid: 17022
 uid: 503419
 
+cids: 29302
+
 ---
 
 # Website for public data

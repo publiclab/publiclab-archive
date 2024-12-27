@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-11-2016/introducing-the-dh-4-2-spectrometer-prototype
 nid: 13103
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/103/original/top_view.png)

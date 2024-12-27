@@ -7,6 +7,8 @@ path: /notes/warren/01-09-2018/what-lab-tests-are-available-for-hydrogen-sulfide
 nid: 15485
 uid: 1
 
+cids: 18145,18152,22831,22833
+
 ---
 
 # What lab tests are available for hydrogen sulfide, and how much do they cost?

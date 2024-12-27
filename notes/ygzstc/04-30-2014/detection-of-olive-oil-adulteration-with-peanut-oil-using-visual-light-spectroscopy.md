@@ -7,6 +7,8 @@ path: /notes/ygzstc/04-30-2014/detection-of-olive-oil-adulteration-with-peanut-o
 nid: 10382
 uid: 422489
 
+cids: 8928,8929,8930,8931,8932,8936,8937,8940,13074,13090
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/940/original/Picture1.png)

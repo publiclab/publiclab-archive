@@ -7,6 +7,8 @@ path: /notes/joquendo/05-16-2019/id-and-password-request-after-image-load.md
 nid: 19428
 uid: 589024
 
+cids: 24154,24155,24158
+
 ---
 
 # ID and Password Request after Image Load

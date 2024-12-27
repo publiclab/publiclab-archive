@@ -7,6 +7,8 @@ path: /notes/TheFreshHydraOfNola/02-14-2020/does-anyone-have-any-tips-for-emptyi
 nid: 22813
 uid: 664747
 
+cids: 26321,26322,26324,26325,26329,26350
+
 ---
 
 # Does anyone have any tips for emptying hydra tank without damaging culture?

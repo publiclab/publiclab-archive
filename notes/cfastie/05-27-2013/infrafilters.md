@@ -7,6 +7,8 @@ path: /notes/cfastie/05-27-2013/infrafilters.md
 nid: 7933
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/416/original/WheatNBG.jpg)

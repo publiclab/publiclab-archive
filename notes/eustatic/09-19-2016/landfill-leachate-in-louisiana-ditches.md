@@ -7,6 +7,8 @@ path: /09-19-2016/landfill-leachate-in-louisiana-ditches.md
 nid: 13462
 uid: 379
 
+cids: 15439,15443,15444
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/074/original/9-13-16_Leachate_1.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/12-15-2011/toshiba-radiation-camera-makes-radioactivity-heat
 nid: 641
 uid: 1
 
+cids: 380
+
 ---
 
 ![](https://publiclab.org/sites/default/files/radiation-camera.jpg)

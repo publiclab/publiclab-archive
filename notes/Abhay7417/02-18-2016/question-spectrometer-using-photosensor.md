@@ -7,6 +7,8 @@ path: /notes/Abhay7417/02-18-2016/question-spectrometer-using-photosensor.md
 nid: 12703
 uid: 465695
 
+cids: 13661
+
 ---
 
 # Question: Spectrometer  using photosensor

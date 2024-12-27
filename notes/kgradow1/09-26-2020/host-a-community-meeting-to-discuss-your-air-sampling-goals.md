@@ -7,6 +7,8 @@ path: /notes/kgradow1/09-26-2020/host-a-community-meeting-to-discuss-your-air-sa
 nid: 24655
 uid: 297929
 
+cids: 27414,27417,27420,27431,27915,27916
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/996/original/Screen_Shot_2020-09-26_at_12.44.37_AM.png)

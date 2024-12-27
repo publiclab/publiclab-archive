@@ -7,6 +7,8 @@ path: /notes/karenv/5-1-2013/kite-mapping-near-pilgrim.md
 nid: 7189
 uid: 60501
 
+cids: 4601,4613,6436
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3410.JPG)

@@ -7,6 +7,8 @@ path: /notes/mathew/3-12-2013/ir-filter-switchers.md
 nid: 6315
 uid: 4
 
+cids: 3996,4014,9652,9687
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2013-03-12 at 7.49.19 PM.png)

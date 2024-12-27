@@ -7,6 +7,8 @@ path: /notes/megan/9-6-2012/putting-together-h2s-test-kit.md
 nid: 3674
 uid: 775
 
+cids: 1306,17985
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1116_0.JPG)

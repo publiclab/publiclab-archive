@@ -7,6 +7,8 @@ path: /notes/ccpandhare/10-19-2017/introducing-image-sequencer-a-pure-javascript
 nid: 15066
 uid: 503543
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/979/original/Header.png)

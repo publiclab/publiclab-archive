@@ -7,6 +7,8 @@ path: /notes/wward1400/06-05-2013/infragram-panoramas-on-nasa-picture-post.md
 nid: 8074
 uid: 46742
 
+cids: 4986
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/473/original/picturePost_8directional.jpg)

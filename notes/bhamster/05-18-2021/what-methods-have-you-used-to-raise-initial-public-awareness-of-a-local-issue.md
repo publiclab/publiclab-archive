@@ -7,6 +7,8 @@ path: /notes/bhamster/05-18-2021/what-methods-have-you-used-to-raise-initial-pub
 nid: 26636
 uid: 664477
 
+cids: 28832,28833,28835,28838,28841,28848,28993,29353
+
 ---
 
 # What methods have you used to raise initial public awareness of a local issue?

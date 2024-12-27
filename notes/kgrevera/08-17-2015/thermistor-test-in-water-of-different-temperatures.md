@@ -7,6 +7,8 @@ path: /notes/kgrevera/08-17-2015/thermistor-test-in-water-of-different-temperatu
 nid: 12147
 uid: 432001
 
+cids: 12392
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/143/original/Screen_Shot_2015-08-17_at_10.31.35_AM.png)

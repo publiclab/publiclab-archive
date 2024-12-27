@@ -7,6 +7,8 @@ path: /notes/frobert9/02-24-2016/mapknitter-map-of-uncc-front-entrance-balloon-m
 nid: 12726
 uid: 465827
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/542/original/P1090545.JPG)

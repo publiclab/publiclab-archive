@@ -7,6 +7,8 @@ path: /notes/stevie/08-06-2019/seeking-hardware-fellow-for-oil-gas-water-fellows
 nid: 20443
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/380/original/Sensor_Build_ShanHe2017-08-19_155901_copy.jpeg)

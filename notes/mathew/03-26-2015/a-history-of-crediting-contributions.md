@@ -7,6 +7,8 @@ path: /notes/mathew/03-26-2015/a-history-of-crediting-contributions.md
 nid: 11724
 uid: 4
 
+cids: 11402,11406,11448
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/417/original/20140909_110952.jpg)

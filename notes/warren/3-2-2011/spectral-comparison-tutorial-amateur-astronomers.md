@@ -7,6 +7,8 @@ path: /notes/warren/3-2-2011/spectral-comparison-tutorial-amateur-astronomers.md
 nid: 108
 uid: 1
 
+cids: 9606,9607,9608
+
 ---
 
 ![](https://publiclab.org/sites/default/files/less65b.jpg)

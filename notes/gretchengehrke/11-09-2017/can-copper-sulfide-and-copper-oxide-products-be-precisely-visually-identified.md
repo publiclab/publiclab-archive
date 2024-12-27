@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/11-09-2017/can-copper-sulfide-and-copper-oxide-produ
 nid: 15166
 uid: 430549
 
+cids: 18853,18886,18897,18930,22988
+
 ---
 
 # Can copper sulfide and copper oxide products be precisely visually identified?

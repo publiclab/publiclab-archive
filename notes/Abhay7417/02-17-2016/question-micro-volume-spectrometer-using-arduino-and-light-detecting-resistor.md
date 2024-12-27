@@ -7,6 +7,8 @@ path: /notes/Abhay7417/02-17-2016/question-micro-volume-spectrometer-using-ardui
 nid: 12700
 uid: 465695
 
+cids: 13645,13657,13660,13675,14112
+
 ---
 
 # Question: Micro volume spectrometer using arduino and light detecting resistor.

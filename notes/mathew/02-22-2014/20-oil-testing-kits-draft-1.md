@@ -7,6 +7,8 @@ path: /notes/mathew/02-22-2014/20-oil-testing-kits-draft-1.md
 nid: 10054
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/973/original/20140221_162810.jpg)

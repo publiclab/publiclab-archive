@@ -7,6 +7,8 @@ path: /notes/ceberndsen/08-23-2018/copying-calibration-issue.md
 nid: 16990
 uid: 547555
 
+cids: 
+
 ---
 
 # copying calibration issue

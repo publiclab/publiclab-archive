@@ -7,6 +7,8 @@ path: /notes/AssemblePapers/12-06-2016/a-balloon-mapping-event-at-mpavilion-melb
 nid: 13748
 uid: 497918
 
+cids: 15928,15943,15947
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/977/original/Robert_1.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/5-8-2012/stitched-panoramas-plots-ir-camera-tool.md
 nid: 1927
 uid: 554
 
+cids: 709,710,711,712,713,714,715,726
+
 ---
 
 ![](https://publiclab.org/sites/default/files/FledIRshots-20120503-153-34.jpg)

@@ -7,6 +7,8 @@ path: /notes/yvv/09-18-2014/glam-event.md
 nid: 11160
 uid: 427257
 
+cids: 10341,10417,10419,10421,10426,10455
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/891/original/Gowanus_Pic.jpg)

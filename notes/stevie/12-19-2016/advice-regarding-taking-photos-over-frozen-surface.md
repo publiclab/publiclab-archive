@@ -7,6 +7,8 @@ path: /notes/stevie/12-19-2016/advice-regarding-taking-photos-over-frozen-surfac
 nid: 13796
 uid: 422561
 
+cids: 16005,16007,16009,22387,22388
+
 ---
 
 # Advice regarding taking photos over frozen surface?

@@ -7,6 +7,8 @@ path: /notes/wmacfarl/10-12-2019/testing-of-df-robot-turbidity-sensor.md
 nid: 21114
 uid: 424597
 
+cids: 25761
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/701/original/00_turbidity_sensor.jpg)

@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/10-07-2015/oil-testing-kit-beta-programme-package-con
 nid: 12276
 uid: 1083
 
+cids: 12759
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/812/original/IMG_4015.JPG)

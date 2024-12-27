@@ -7,6 +7,8 @@ path: /notes/suget305/12-07-2015/su-get-305-final-project.md
 nid: 12483
 uid: 452260
 
+cids: 
+
 ---
 
 # SU GET 305 Final Project

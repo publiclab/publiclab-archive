@@ -7,6 +7,8 @@ path: /notes/cfastie/07-29-2013/waterchestnut-nrg.md
 nid: 8937
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/944/original/IMG_7344_NRGenh1800.jpg)

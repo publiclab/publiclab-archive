@@ -7,6 +7,8 @@ path: /notes/JirkaPanek/06-23-2014/balloon-mapping-at-faculty-of-science-olomouc
 nid: 10605
 uid: 179
 
+cids: 9248,9260
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/935/original/faculty-of-science.jpg)

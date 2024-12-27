@@ -7,6 +7,8 @@ path: /notes/Amtwynn/10-27-2017/co2-part-2.md
 nid: 15114
 uid: 517043
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/103/original/IMG_0120.JPG)

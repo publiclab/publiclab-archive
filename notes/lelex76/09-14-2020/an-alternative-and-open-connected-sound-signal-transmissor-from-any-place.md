@@ -7,6 +7,8 @@ path: /notes/lelex76/09-14-2020/an-alternative-and-open-connected-sound-signal-t
 nid: 24577
 uid: 720560
 
+cids: 27350,27351,27352,27353,27370,27423,27425
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/885/original/Tryptich.pdf)

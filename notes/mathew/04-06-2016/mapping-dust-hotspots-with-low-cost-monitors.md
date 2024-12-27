@@ -7,6 +7,8 @@ path: /notes/mathew/04-06-2016/mapping-dust-hotspots-with-low-cost-monitors.md
 nid: 12928
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/384/original/Screen_Shot_2016-04-06_at_10.18.00_AM.png)

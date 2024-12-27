@@ -7,6 +7,8 @@ path: /notes/TaylorKiss/10-07-2014/sensor-journalism-reflection.md
 nid: 11248
 uid: 427886
 
+cids: 
+
 ---
 
 # Sensor Journalism Reflection 

@@ -7,6 +7,8 @@ path: /notes/cfastie/09-29-2017/nasa-aeropod-unboxing.md
 nid: 14968
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/793/original/Aerokat_20170928-1118.JPG)

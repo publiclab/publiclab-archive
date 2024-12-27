@@ -7,6 +7,8 @@ path: /11-19-2014/first-draft-on-architecture-of-sensor-plugins-reservoir-plugin
 nid: 11370
 uid: 174
 
+cids: 10800,10801,10808,10809,12230
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/017/original/icon_51835.png)

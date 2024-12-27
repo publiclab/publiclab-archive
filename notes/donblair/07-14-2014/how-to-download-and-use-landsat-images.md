@@ -7,6 +7,8 @@ path: /notes/donblair/07-14-2014/how-to-download-and-use-landsat-images.md
 nid: 10690
 uid: 43651
 
+cids: 9494,9495,9501,9505,9508,9509,9595,9785,10167,10168,11379
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/289/original/landsat.png)

@@ -7,6 +7,8 @@ path: /notes/megan/8-14-2012/new-experimental-design-aztec-new-mexico.md
 nid: 3285
 uid: 775
 
+cids: 
+
 ---
 
 # New Experimental Design, Aztec, New Mexico

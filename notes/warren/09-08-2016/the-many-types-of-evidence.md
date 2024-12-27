@@ -7,6 +7,8 @@ path: /notes/warren/09-08-2016/the-many-types-of-evidence.md
 nid: 13431
 uid: 1
 
+cids: 15347,15348,15349,15351,15352,15353,15362,15363,15364,15366,15368,15371,15372,15373,15374,15375
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/982/original/DSC09006.JPG)

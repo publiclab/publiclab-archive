@@ -7,6 +7,8 @@ path: /notes/lauramorenor/05-04-2018/light-spectrum.md
 nid: 16302
 uid: 533222
 
+cids: 19645,19789,19790
+
 ---
 
 # LIGHT SPECTRUM

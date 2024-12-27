@@ -7,6 +7,8 @@ path: /notes/warren/10-08-2016/in-the-plant-based-air-purifier-could-airflow-go-
 nid: 13538
 uid: 1
 
+cids: 15595,15598,15601,15603,16840,20986,22323,23260,23261
+
 ---
 
 # In the plant based air purifier, could airflow go the other way, using an unmodified pump?

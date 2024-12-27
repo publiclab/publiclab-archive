@@ -7,6 +7,8 @@ path: /7-14-2012/bayou-sauvage-h2s-expectations-question.md
 nid: 2809
 uid: 379
 
+cids: 1027
+
 ---
 
 ![](https://publiclab.org/sites/default/files/h2s hypothesis hole.JPG)

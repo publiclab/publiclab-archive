@@ -7,6 +7,8 @@ path: /notes/mlamadrid/06-22-2016/using-photographs-in-fighting-mining-companies
 nid: 13222
 uid: 45586
 
+cids: 14832
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/705/original/Clayton_blast_8-21-2013.jpg)

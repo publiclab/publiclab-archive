@@ -7,6 +7,8 @@ path: /notes/MicheleTobias/06-04-2013/farm-mapping-at-cloverleaf-farmstand-davis
 nid: 8051
 uid: 149
 
+cids: 4991
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/474/original/3D_R0885.JPG)

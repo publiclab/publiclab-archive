@@ -7,6 +7,8 @@ path: /notes/liz/07-28-2014/first-field-day-in-newark-s-green-garden.md
 nid: 10987
 uid: 7
 
+cids: 9726,9961
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/630/original/IMG_1241.JPG)

@@ -7,6 +7,8 @@ path: /notes/cfastie/10-11-2012/leaffy-sunday.md
 nid: 4342
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1505.jpg)

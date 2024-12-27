@@ -7,6 +7,8 @@ path: /notes/monoxyde/03-18-2015/question-help-needed.md
 nid: 11686
 uid: 432132
 
+cids: 11350,11351
+
 ---
 
 # Question: HELP NEEDED

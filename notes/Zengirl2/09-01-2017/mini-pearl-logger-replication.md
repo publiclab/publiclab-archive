@@ -7,6 +7,8 @@ path: /notes/Zengirl2/09-01-2017/mini-pearl-logger-replication.md
 nid: 14818
 uid: 423961
 
+cids: 17301,17302,17303,17306
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/522/original/MiniPearlLit.jpg)

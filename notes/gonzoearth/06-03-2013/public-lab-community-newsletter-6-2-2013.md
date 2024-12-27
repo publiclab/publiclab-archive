@@ -7,6 +7,8 @@ path: /notes/gonzoearth/06-03-2013/public-lab-community-newsletter-6-2-2013.md
 nid: 8023
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/468/original/Boots-ground-02_%281%29.png)

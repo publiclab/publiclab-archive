@@ -7,6 +7,8 @@ path: /notes/imvec/02-18-2018/electronic-nose-projects.md
 nid: 15760
 uid: 495038
 
+cids: 18502,18597,18600
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/606/original/0x03rev5_front_w_comp-1-625x205.jpg)

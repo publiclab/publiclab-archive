@@ -7,6 +7,8 @@ path: /notes/Bronwen/11-25-2019/can-you-modify-a-drone-s-camera-for-ndvi-picture
 nid: 21579
 uid: 237313
 
+cids: 25920,25921
+
 ---
 
 # Can you modify a drone's camera for ndvi pictures?

@@ -7,6 +7,8 @@ path: /notes/cfastie/09-09-2013/more-camera-testing.md
 nid: 9305
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/459/original/LeaffestD40-223-46.jpg)

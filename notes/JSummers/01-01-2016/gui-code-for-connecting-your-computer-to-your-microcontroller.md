@@ -7,6 +7,8 @@ path: /notes/JSummers/01-01-2016/gui-code-for-connecting-your-computer-to-your-m
 nid: 12554
 uid: 304279
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/487/original/GUI-1.png)

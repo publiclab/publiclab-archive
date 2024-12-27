@@ -7,6 +7,8 @@ path: /notes/warren/2-16-2012/testing-wines-uv-visible-spectrometry.md
 nid: 796
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 7.png)

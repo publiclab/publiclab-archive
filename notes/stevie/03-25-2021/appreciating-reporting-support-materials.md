@@ -7,6 +7,8 @@ path: /notes/stevie/03-25-2021/appreciating-reporting-support-materials.md
 nid: 26028
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/052/original/Screen_Shot_2021-03-25_at_12.43.00_PM.png)

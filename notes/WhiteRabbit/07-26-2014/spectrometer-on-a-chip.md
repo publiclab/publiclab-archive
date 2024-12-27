@@ -7,6 +7,8 @@ path: /notes/WhiteRabbit/07-26-2014/spectrometer-on-a-chip.md
 nid: 10981
 uid: 425996
 
+cids: 9677,9692
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/593/original/PixelSensorTack_%281%29.jpg)

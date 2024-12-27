@@ -7,6 +7,8 @@ path: /notes/mdkamrulhasan/03-20-2016/blood-component-analysis-using-finger-tip-
 nid: 12864
 uid: 468879
 
+cids: 14258
+
 ---
 
 # Blood component analysis using Finger Tip video image

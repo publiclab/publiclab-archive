@@ -7,6 +7,8 @@ path: /notes/Ligon/11-07-2013/oops.md
 nid: 9746
 uid: 327822
 
+cids: 7476,7487
+
 ---
 
 # Duplicate accounts

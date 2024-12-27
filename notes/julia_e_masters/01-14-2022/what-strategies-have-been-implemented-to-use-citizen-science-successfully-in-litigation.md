@@ -7,6 +7,8 @@ path: /notes/julia_e_masters/01-14-2022/what-strategies-have-been-implemented-to
 nid: 28700
 uid: 756220
 
+cids: 29604,29837
+
 ---
 
 # What strategies have been implemented to use citizen science successfully in litigation?

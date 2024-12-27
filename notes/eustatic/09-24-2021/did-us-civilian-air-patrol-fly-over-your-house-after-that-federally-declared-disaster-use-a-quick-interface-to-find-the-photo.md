@@ -7,6 +7,8 @@ path: /09-24-2021/did-us-civilian-air-patrol-fly-over-your-house-after-that-fede
 nid: 27799
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/852/original/ERMA_CAP_Ida_close.png)

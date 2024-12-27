@@ -7,6 +7,8 @@ path: /notes/warren/01-26-2018/what-are-different-ways-to-collect-respirable-dus
 nid: 15615
 uid: 1
 
+cids: 18668,22963
+
 ---
 
 # What are different ways to collect respirable dust samples for analysis?

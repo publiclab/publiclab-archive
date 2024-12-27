@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/02-01-2016/prototype-incident-light-blocker.md
 nid: 12641
 uid: 461120
 
+cids: 13452,13453
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/018/original/20160201_132119.jpg)

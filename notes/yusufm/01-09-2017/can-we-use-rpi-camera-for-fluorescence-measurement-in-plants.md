@@ -7,6 +7,8 @@ path: /notes/yusufm/01-09-2017/can-we-use-rpi-camera-for-fluorescence-measuremen
 nid: 13846
 uid: 501474
 
+cids: 16056,16089,22397
+
 ---
 
 # Can we use rPi camera for fluorescence measurement in plants

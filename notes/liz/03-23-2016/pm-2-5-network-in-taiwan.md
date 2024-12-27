@@ -7,6 +7,8 @@ path: /notes/liz/03-23-2016/pm-2-5-network-in-taiwan.md
 nid: 12878
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/196/original/Screen_Shot_2016-03-23_at_11.01.44_AM.png)

@@ -7,6 +7,8 @@ path: /notes/nedhorning/06-24-2014/updated-photo-monitoring-plugin-to-compare-nd
 nid: 10610
 uid: 133
 
+cids: 9251,9276,9403,9404,10116,10118,10121,10130,10133,10134,10136,10139,10505,10515,10517
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/958/original/RegPhotoFirstScreen.png)

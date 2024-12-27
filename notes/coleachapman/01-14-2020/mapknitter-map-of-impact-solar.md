@@ -7,6 +7,8 @@ path: /notes/coleachapman/01-14-2020/mapknitter-map-of-impact-solar.md
 nid: 22307
 uid: 654034
 
+cids: 
+
 ---
 
 # MapKnitter map of Impact Solar 

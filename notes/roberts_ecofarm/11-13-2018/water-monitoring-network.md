@@ -7,6 +7,8 @@ path: /notes/roberts_ecofarm/11-13-2018/water-monitoring-network.md
 nid: 17507
 uid: 556121
 
+cids: 21481
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/587/original/pexels-photo-67184.jpeg)

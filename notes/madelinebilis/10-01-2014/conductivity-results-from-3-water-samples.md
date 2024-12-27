@@ -7,6 +7,8 @@ path: /notes/madelinebilis/10-01-2014/conductivity-results-from-3-water-samples.
 nid: 11218
 uid: 428057
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/224/original/thumbnail.jpg)

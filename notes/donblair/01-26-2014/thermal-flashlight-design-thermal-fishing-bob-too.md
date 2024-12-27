@@ -7,6 +7,8 @@ path: /notes/donblair/01-26-2014/thermal-flashlight-design-thermal-fishing-bob-t
 nid: 9981
 uid: 43651
 
+cids: 8088,8089,8090,8100,8102,8107,8140,8147
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/666/original/thermalFlashMain.png)

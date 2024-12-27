@@ -7,6 +7,8 @@ path: /notes/stevie/01-04-2021/in-terms-of-community-science-mdeq-already-discre
 nid: 25411
 uid: 422561
 
+cids: 27892,27895,27899,27910,27934,27949,28171,28210,28223
+
 ---
 
 # In terms of community science, MDEQ already discredited community based science, what might add legitimacy to our data? 

@@ -7,6 +7,8 @@ path: /notes/warren/12-8-2010/bayou-st-denis-cartagen-knitter.md
 nid: 13
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 2.png)

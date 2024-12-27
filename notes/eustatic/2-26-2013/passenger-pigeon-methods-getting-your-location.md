@@ -7,6 +7,8 @@ path: /2-26-2013/passenger-pigeon-methods-getting-your-location.md
 nid: 6130
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/msy to phx.png)

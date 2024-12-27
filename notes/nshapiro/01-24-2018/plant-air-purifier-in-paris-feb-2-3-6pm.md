@@ -7,6 +7,8 @@ path: /notes/nshapiro/01-24-2018/plant-air-purifier-in-paris-feb-2-3-6pm.md
 nid: 15605
 uid: 380298
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/335/original/PlantPurifier.png)

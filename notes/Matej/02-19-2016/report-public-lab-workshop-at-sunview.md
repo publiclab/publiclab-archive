@@ -7,6 +7,8 @@ path: /notes/Matej/02-19-2016/report-public-lab-workshop-at-sunview.md
 nid: 12713
 uid: 451808
 
+cids: 13673,13678,27754
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/393/original/PL_Workshop_Sunview-7110.jpg)

@@ -7,6 +7,8 @@ path: /notes/joyofsoy/12-11-2019/spread-the-word-this-holiday-season.md
 nid: 21732
 uid: 540844
 
+cids: 26079,26368
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/008/original/OI000012_copy.jpg)

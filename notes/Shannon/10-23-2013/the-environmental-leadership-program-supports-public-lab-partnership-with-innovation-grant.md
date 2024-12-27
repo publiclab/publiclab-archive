@@ -7,6 +7,8 @@ path: /notes/Shannon/10-23-2013/the-environmental-leadership-program-supports-pu
 nid: 9534
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/998/original/plots-logo-transparent.jpg)

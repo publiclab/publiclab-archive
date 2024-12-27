@@ -7,6 +7,8 @@ path: /notes/warren/10-27-2017/what-sessions-would-people-like-to-have-at-the-20
 nid: 15103
 uid: 1
 
+cids: 17598,17599,22689,22690,22691,22694,22696,22697,22698,22699,22703
+
 ---
 
 # What sessions would people like to have at the 2017 Barnraising?

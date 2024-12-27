@@ -7,6 +7,8 @@ path: /notes/jenjimah/04-12-2019/does-the-rolling-shutter-aspect-of-cameras-impa
 nid: 19046
 uid: 505738
 
+cids: 23882,23883,24348
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/434/original/lm7HG.jpg)

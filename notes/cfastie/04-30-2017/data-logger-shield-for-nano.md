@@ -7,6 +7,8 @@ path: /notes/cfastie/04-30-2017/data-logger-shield-for-nano.md
 nid: 14152
 uid: 554
 
+cids: 16668,16669,16670,16671,16672,16674,16680,16683,16685,16697,16702,16810,16811,18220,18223,24345,25526,30774
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/276/original/NanoLog_20170430-8321ps.jpg)

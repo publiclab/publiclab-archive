@@ -7,6 +7,8 @@ path: /notes/megan/4-2-2012/container-testing-photopaper-test-strips-2.md
 nid: 1610
 uid: 775
 
+cids: 966,967
+
 ---
 
 ![](https://publiclab.org/sites/default/files/C2.jpg)

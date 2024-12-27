@@ -7,6 +7,8 @@ path: /notes/klrussell/12-14-2014/arduino-uno-thermo-flashlight-casing-specs.md
 nid: 11458
 uid: 432708
 
+cids: 10946
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/392/original/IMG_20141214_135624.jpg)

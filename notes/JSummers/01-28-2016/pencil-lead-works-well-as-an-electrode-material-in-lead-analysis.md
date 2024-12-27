@@ -7,6 +7,8 @@ path: /notes/JSummers/01-28-2016/pencil-lead-works-well-as-an-electrode-material
 nid: 12633
 uid: 304279
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/928/original/Pb-ASV-pencil.png)

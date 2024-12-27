@@ -7,6 +7,8 @@ path: /notes/belkinsa/07-18-2018/are-there-any-diy-equipment-that-measure-dissol
 nid: 16736
 uid: 504609
 
+cids: 20155,20216,20373,20377,20383,23182
+
 ---
 
 # Are there any DIY equipment that measure dissolved oxygen levels in water?

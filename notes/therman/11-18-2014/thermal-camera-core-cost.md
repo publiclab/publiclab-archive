@@ -7,6 +7,8 @@ path: /notes/therman/11-18-2014/thermal-camera-core-cost.md
 nid: 11365
 uid: 431635
 
+cids: 
+
 ---
 
 # thermal camera core cost

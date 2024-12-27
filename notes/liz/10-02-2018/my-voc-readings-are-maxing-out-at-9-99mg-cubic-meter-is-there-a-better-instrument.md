@@ -7,6 +7,8 @@ path: /notes/liz/10-02-2018/my-voc-readings-are-maxing-out-at-9-99mg-cubic-meter
 nid: 17209
 uid: 7
 
+cids: 20777,20778
+
 ---
 
 # My VOC readings are maxing out at 9.99mg/cubic meter. Is there a better instrument?

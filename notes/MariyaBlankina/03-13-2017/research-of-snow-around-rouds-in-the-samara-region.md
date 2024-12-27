@@ -7,6 +7,8 @@ path: /notes/MariyaBlankina/03-13-2017/research-of-snow-around-rouds-in-the-sama
 nid: 14005
 uid: 504010
 
+cids: 16351
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/775/original/1489393344.jpg)

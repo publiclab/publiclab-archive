@@ -7,6 +7,8 @@ path: /notes/warren/06-19-2017/how-do-i-cheaply-do-long-term-outdoor-timelapses.
 nid: 14554
 uid: 1
 
+cids: 22756
+
 ---
 
 # How do I cheaply do long-term outdoor timelapses?

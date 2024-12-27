@@ -7,6 +7,8 @@ path: /notes/amayas/03-27-2021/what-are-the-best-settings-for-a-camera.md
 nid: 26046
 uid: 422444
 
+cids: 
+
 ---
 
 # What are the best settings for a Camera?

@@ -7,6 +7,8 @@ path: /05-20-2013/pontchartrain-restoration.md
 nid: 7752
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/364/original/IMG_1541__yes_lake.JPG)

@@ -7,6 +7,8 @@ path: /notes/kgradow1/07-14-2020/documenting-public-lab-projects-on-github.md
 nid: 24152
 uid: 297929
 
+cids: 27162,27163
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/182/original/Screen_Shot_2020-07-14_at_2.20.22_PM.png)

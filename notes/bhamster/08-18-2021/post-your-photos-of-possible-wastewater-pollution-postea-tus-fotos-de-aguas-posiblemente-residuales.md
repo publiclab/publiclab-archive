@@ -7,6 +7,8 @@ path: /notes/bhamster/08-18-2021/post-your-photos-of-possible-wastewater-polluti
 nid: 27577
 uid: 664477
 
+cids: 29156,29184
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/678/original/Outfall_for_the_Hattiesburg_South_Sewage_Lagoon_copy.jpg)

@@ -7,6 +7,8 @@ path: /notes/walkerjeffd/08-11-2014/kayak-deployment-on-8-7-2014.md
 nid: 11034
 uid: 422528
 
+cids: 10016
+
 ---
 
 # Kayak Deployment on 8/7/2014

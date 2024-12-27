@@ -7,6 +7,8 @@ path: /notes/depaceantonia17/02-24-2016/sensor-journalism-reflection.md
 nid: 12730
 uid: 461495
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/551/original/undefined)

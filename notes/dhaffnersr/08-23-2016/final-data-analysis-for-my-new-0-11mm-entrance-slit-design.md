@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-23-2016/final-data-analysis-for-my-new-0-11mm-entranc
 nid: 13392
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/746/original/ALL_5_SAMPLES_raw_data__eosin_y_aug_22_title_pic.png)

@@ -7,6 +7,8 @@ path: /notes/livioguerrero/11-30-2012/preliminary-sample.md
 nid: 5070
 uid: 44973
 
+cids: 2665,2666,10069
+
 ---
 
 ![](https://publiclab.org/sites/default/files/sample-florescence-comp.jpg)

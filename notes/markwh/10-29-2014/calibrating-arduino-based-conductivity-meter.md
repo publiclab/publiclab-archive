@@ -7,6 +7,8 @@ path: /notes/markwh/10-29-2014/calibrating-arduino-based-conductivity-meter.md
 nid: 11307
 uid: 428820
 
+cids: 10659,10662,10663,10672,13353
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/672/original/calibration1.png)

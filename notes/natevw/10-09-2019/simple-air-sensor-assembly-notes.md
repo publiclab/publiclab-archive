@@ -7,6 +7,8 @@ path: /notes/natevw/10-09-2019/simple-air-sensor-assembly-notes.md
 nid: 21126
 uid: 804
 
+cids: 
+
 ---
 
 # Simple air sensor assembly notes

@@ -7,6 +7,8 @@ path: /notes/sarasage/05-26-2017/ever-heard-of-battery-eliminators.md
 nid: 14225
 uid: 451398
 
+cids: 22478
+
 ---
 
 # Ever heard of battery eliminators? 

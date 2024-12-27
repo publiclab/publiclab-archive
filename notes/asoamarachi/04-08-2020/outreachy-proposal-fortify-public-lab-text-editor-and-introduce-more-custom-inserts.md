@@ -7,6 +7,8 @@ path: /notes/asoamarachi/04-08-2020/outreachy-proposal-fortify-public-lab-text-e
 nid: 23339
 uid: 671968
 
+cids: 26668,26670,26671,26674,26680,26681,26682,26685
+
 ---
 
 # Outreachy proposal: Fortify Public Lab Text Editor and Introduce More Custom Inserts

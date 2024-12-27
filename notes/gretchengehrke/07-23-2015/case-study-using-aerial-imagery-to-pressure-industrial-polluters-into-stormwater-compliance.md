@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-23-2015/case-study-using-aerial-imagery-to-pressu
 nid: 12095
 uid: 430549
 
+cids: 12254,12256,12257,12258,12265,12270,12271
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/884/original/Gowanus_IR_IMG_2038.JPG)

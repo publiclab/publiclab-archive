@@ -7,6 +7,8 @@ path: /notes/MaryBandy/02-09-2021/how-do-i-find-testing-for-air-quality-in-my-ho
 nid: 25637
 uid: 738980
 
+cids: 28169,28172,28174,28222
+
 ---
 
 # HOW do i find testing for air quality in my home - specifically for silica?

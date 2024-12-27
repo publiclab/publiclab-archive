@@ -7,6 +7,8 @@ path: /notes/LaPa/03-31-2016/raspberry-noir-cam-sensors-to-detect-water-stress-o
 nid: 12900
 uid: 457187
 
+cids: 14095,14101,14131,14135,14142,14244,14252,14256,14278,14281,14302,14303,14304,14310,14312,14320,14370,14395,14423,14424,14426,14432,14571,17203,17224,17225,31358
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/266/original/IRRPICam.JPG)

@@ -7,6 +7,8 @@ path: /notes/gangrin/09-28-2015/research-for-finding-effective-ways-to-block-blu
 nid: 12246
 uid: 452627
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/688/original/%3F%3F%3F.jpg)

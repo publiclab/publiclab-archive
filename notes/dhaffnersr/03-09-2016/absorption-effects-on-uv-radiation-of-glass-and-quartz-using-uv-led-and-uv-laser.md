@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-09-2016/absorption-effects-on-uv-radiation-of-glass-a
 nid: 12821
 uid: 461120
 
+cids: 14006,14010
+
 ---
 
 # Absorption effects on UV radiation of Glass and Quartz using UV LED and UV laser

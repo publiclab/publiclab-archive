@@ -7,6 +7,8 @@ path: /notes/vbedford/02-23-2015/getting-a-sense-of-the-future.md
 nid: 11623
 uid: 434423
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/060/original/Screen-Shot-2013-04-16-at-6.04.16-PM.png)

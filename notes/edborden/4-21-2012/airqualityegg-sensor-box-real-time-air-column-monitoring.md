@@ -7,6 +7,8 @@ path: /notes/edborden/4-21-2012/airqualityegg-sensor-box-real-time-air-column-mo
 nid: 1743
 uid: 730
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/565335247.jpg)

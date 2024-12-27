@@ -7,6 +7,8 @@ path: /notes/warren/9-28-2011/trees-chainsaws-protest-and-balloons.md
 nid: 485
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/sumava-layer.jpeg)

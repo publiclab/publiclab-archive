@@ -7,6 +7,8 @@ path: /notes/zengirl2/10-16-2019/do-you-have-any-experience-with-wildfires-in-in
 nid: 21174
 uid: 423961
 
+cids: 25693,25694
+
 ---
 
 # Do you have any experience with wildfires in Indonesia?

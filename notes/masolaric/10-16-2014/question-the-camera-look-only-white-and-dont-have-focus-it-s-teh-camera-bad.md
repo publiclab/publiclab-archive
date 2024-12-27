@@ -7,6 +7,8 @@ path: /notes/masolaric/10-16-2014/question-the-camera-look-only-white-and-dont-h
 nid: 11270
 uid: 426768
 
+cids: 10559,10608,10643,22572
+
 ---
 
 # Question: the camera look only white and dont have focus...it´s teh camera bad?

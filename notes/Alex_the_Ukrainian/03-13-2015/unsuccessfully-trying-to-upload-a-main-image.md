@@ -7,6 +7,8 @@ path: /notes/Alex_the_Ukrainian/03-13-2015/unsuccessfully-trying-to-upload-a-mai
 nid: 11676
 uid: 436428
 
+cids: 11337,11438
+
 ---
 
 # Unsuccessfully trying to upload a main image

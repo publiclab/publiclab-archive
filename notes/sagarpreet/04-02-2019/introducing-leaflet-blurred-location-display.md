@@ -7,6 +7,8 @@ path: /notes/sagarpreet/04-02-2019/introducing-leaflet-blurred-location-display.
 nid: 18933
 uid: 516343
 
+cids: 23622,23623,23652,23840,23843
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/972/original/Screenshot_2019-04-02_at_12.53.20_PM.png)

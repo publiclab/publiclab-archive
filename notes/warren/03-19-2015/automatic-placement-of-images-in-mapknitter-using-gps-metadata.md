@@ -7,6 +7,8 @@ path: /notes/warren/03-19-2015/automatic-placement-of-images-in-mapknitter-using
 nid: 11693
 uid: 1
 
+cids: 11365,11367,11368,11369,11370,11371,11470,11833
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/324/original/auto-gps.png)

@@ -7,6 +7,8 @@ path: /notes/ryzokuken/08-18-2017/call-for-plotsbot-behaviors.md
 nid: 14768
 uid: 493113
 
+cids: 17189,17194,17196,17197,17198,17199,17200,17201,17202,17205,20994
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/367/original/vertical_GSoC_logo.jpg)

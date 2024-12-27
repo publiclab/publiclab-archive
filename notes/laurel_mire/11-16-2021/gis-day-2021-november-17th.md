@@ -7,6 +7,8 @@ path: /notes/laurel_mire/11-16-2021/gis-day-2021-november-17th.md
 nid: 28123
 uid: 759178
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/084/original/GISDayImage.PNG)

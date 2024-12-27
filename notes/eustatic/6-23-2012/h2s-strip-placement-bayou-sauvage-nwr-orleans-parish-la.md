@@ -7,6 +7,8 @@ path: /6-23-2012/h2s-strip-placement-bayou-sauvage-nwr-orleans-parish-la.md
 nid: 2619
 uid: 379
 
+cids: 949,950,952,968,970,1008,3559
+
 ---
 
 ![](https://publiclab.org/sites/default/files/H2S placement 23 june.jpg)

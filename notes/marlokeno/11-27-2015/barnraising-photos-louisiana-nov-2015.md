@@ -7,6 +7,8 @@ path: /notes/marlokeno/11-27-2015/barnraising-photos-louisiana-nov-2015.md
 nid: 12452
 uid: 420760
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/068/original/P1080680.JPG)

@@ -7,6 +7,8 @@ path: /notes/kinasmith/09-09-2016/dendrometers.md
 nid: 13435
 uid: 445906
 
+cids: 15357,15745,15746,17362,17378
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/991/original/DSC01267.jpg)

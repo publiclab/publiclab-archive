@@ -7,6 +7,8 @@ path: /notes/paullin/10-16-2015/mapknitter-map-of-uw-woolot-map.md
 nid: 12307
 uid: 453939
 
+cids: 
+
 ---
 
 # MapKnitter map of uw woolot map

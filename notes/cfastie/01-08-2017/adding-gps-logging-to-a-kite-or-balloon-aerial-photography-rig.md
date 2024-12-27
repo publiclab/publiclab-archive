@@ -7,6 +7,8 @@ path: /notes/cfastie/01-08-2017/adding-gps-logging-to-a-kite-or-balloon-aerial-p
 nid: 13845
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/232/original/GPS_20170107-7463.JPG)

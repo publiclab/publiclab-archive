@@ -7,6 +7,8 @@ path: /notes/warren/06-27-2019/getting-help-in-a-coding-project.md
 nid: 19900
 uid: 1
 
+cids: 24937,24950
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/299/original/Screen_Shot_2019-06-27_at_5.34.58_PM.png)

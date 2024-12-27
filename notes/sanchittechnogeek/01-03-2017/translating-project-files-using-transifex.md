@@ -7,6 +7,8 @@ path: /notes/sanchittechnogeek/01-03-2017/translating-project-files-using-transi
 nid: 13834
 uid: 500310
 
+cids: 16027,16029,16030,16032
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/199/original/transifex.PNG)

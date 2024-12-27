@@ -7,6 +7,8 @@ path: /notes/jbest/11-06-2013/canon-a2400-ir-conversion.md
 nid: 9740
 uid: 194322
 
+cids: 7453,7455,7456,7457,8630,8641,8645,8660,8682
+
 ---
 
 # Canon A2400 IR conversion

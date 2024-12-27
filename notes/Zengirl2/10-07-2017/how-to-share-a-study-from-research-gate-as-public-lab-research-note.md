@@ -7,6 +7,8 @@ path: /notes/Zengirl2/10-07-2017/how-to-share-a-study-from-research-gate-as-publ
 nid: 15007
 uid: 423961
 
+cids: 17501,22656
+
 ---
 
 # How to share a study from Research Gate as Public Lab Research Note

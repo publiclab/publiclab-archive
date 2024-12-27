@@ -7,6 +7,8 @@ path: /notes/kgradow1/06-12-2020/what-s-the-relationship-between-temp-and-dewpoi
 nid: 23834
 uid: 297929
 
+cids: 27014
+
 ---
 
 # What's the relationship between temp and dewpoint?

@@ -7,6 +7,8 @@ path: /notes/MaggPi/08-03-2018/ngb-ndvi-video-optimization-red-blue-manual-gain-
 nid: 16844
 uid: 501996
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/051/original/NDVIposter.png)

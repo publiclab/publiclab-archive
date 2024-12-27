@@ -7,6 +7,8 @@ path: /notes/danbeavers/2-11-2013/bayou-bienvenue-la-0.md
 nid: 5945
 uid: 51
 
+cids: 3388,3389,3390,3391,3392,3400,3401
+
 ---
 
 ![](https://publiclab.org/sites/default/files/BB.jpg)

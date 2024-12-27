@@ -7,6 +7,8 @@ path: /notes/RonHuber/06-20-2014/sunday-muddy-sunday-weekly-intertidal-waste-plu
 nid: 10598
 uid: 437
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/910/original/gacshore_050113_aerial_cove_captions.jpg)

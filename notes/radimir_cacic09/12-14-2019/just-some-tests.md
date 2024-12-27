@@ -7,6 +7,8 @@ path: /notes/radimir_cacic09/12-14-2019/just-some-tests.md
 nid: 21754
 uid: 644656
 
+cids: 26007,26163,26166,26169,26179
+
 ---
 
 # Just some tests :)

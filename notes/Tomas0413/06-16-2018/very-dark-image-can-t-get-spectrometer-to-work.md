@@ -7,6 +7,8 @@ path: /notes/Tomas0413/06-16-2018/very-dark-image-can-t-get-spectrometer-to-work
 nid: 16511
 uid: 527973
 
+cids: 
+
 ---
 
 # Very dark image, can't get spectrometer to work

@@ -7,6 +7,8 @@ path: /notes/lukemcpheters/07-08-2019/can-t-access-pi-camera-in-spectral-workben
 nid: 20039
 uid: 602442
 
+cids: 25007,25031,25035,25056
+
 ---
 
 # Can't access pi camera in Spectral Workbench

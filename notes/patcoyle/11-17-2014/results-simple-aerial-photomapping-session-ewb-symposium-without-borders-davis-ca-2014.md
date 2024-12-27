@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-17-2014/results-simple-aerial-photomapping-session-ewb-
 nid: 11364
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/977/original/P1130103.JPG)

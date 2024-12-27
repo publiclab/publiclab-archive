@@ -7,6 +7,8 @@ path: /notes/gilbert/10-11-2017/water-quality-testing-requirements.md
 nid: 15033
 uid: 508551
 
+cids: 22674
+
 ---
 
 # Water Quality Testing Requirements

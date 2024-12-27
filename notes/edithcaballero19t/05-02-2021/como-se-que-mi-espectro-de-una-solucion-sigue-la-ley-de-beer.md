@@ -7,6 +7,8 @@ path: /notes/edithcaballero19t/05-02-2021/como-se-que-mi-espectro-de-una-solucio
 nid: 26455
 uid: 753470
 
+cids: 28713
+
 ---
 
 # ¿como se que mi espectro de una solución sigue la ley de beer? 

@@ -7,6 +7,8 @@ path: /notes/pdog/09-29-2015/mapknitter-map-of-uncc-1103-lab.md
 nid: 12254
 uid: 452913
 
+cids: 
+
 ---
 
 # MapKnitter map of UNCC 1103 Lab

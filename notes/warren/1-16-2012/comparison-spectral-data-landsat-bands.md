@@ -7,6 +7,8 @@ path: /notes/warren/1-16-2012/comparison-spectral-data-landsat-bands.md
 nid: 693
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/bands.png)

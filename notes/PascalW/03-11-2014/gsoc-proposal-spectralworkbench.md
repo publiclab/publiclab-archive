@@ -7,6 +7,8 @@ path: /notes/PascalW/03-11-2014/gsoc-proposal-spectralworkbench.md
 nid: 10160
 uid: 148271
 
+cids: 8506,8509,8510,8518,8519,8520,8521,8637,8648,8655,8659,8661,8663,8664,8665,8666,8667,8670,8671,8683,8690,8758,8938,8939
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/210/original/exposures.jpg)

@@ -7,6 +7,8 @@ path: /notes/stephanie13/2-15-2013/living-room.md
 nid: 5994
 uid: 50454
 
+cids: 3592,3596,3601
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130214_235514.jpg)

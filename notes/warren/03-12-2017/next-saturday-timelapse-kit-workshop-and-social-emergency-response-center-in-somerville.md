@@ -7,6 +7,8 @@ path: /notes/warren/03-12-2017/next-saturday-timelapse-kit-workshop-and-social-e
 nid: 14003
 uid: 1
 
+cids: 16339,16359,16366,16382
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/770/original/tmp_15415-IMG_20170214_121228_354-1789056372.jpg)

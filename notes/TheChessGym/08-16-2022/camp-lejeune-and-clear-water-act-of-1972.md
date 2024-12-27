@@ -7,6 +7,8 @@ path: /notes/TheChessGym/08-16-2022/camp-lejeune-and-clear-water-act-of-1972.md
 nid: 34882
 uid: 788868
 
+cids: 30393,30394,30395,30396,30397,30398,30399,30400,30401,30402,30403,30404,30405,30406,30407,30408,30410,30430,30457
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/039/original/cdw.webp)

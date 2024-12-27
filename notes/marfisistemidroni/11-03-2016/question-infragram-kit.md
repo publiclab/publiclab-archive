@@ -7,6 +7,8 @@ path: /notes/marfisistemidroni/11-03-2016/question-infragram-kit.md
 nid: 13676
 uid: 459185
 
+cids: 15773,15774,15775,15776,22441
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/698/original/DSC03034.JPG)

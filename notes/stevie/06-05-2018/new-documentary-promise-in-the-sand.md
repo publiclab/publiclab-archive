@@ -7,6 +7,8 @@ path: /notes/stevie/06-05-2018/new-documentary-promise-in-the-sand.md
 nid: 16433
 uid: 422561
 
+cids: 20256
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/110/original/Sand.jpg)

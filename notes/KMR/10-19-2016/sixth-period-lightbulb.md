@@ -7,6 +7,8 @@ path: /notes/KMR/10-19-2016/sixth-period-lightbulb.md
 nid: 13619
 uid: 494924
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/477/original/image.jpeg)

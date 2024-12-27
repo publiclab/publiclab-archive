@@ -7,6 +7,8 @@ path: /notes/ananyo2012/05-11-2016/design-ideas-for-expanded-q-a-project.md
 nid: 13101
 uid: 468506
 
+cids: 14587,14588,14592,14593,14594,14595,14596,14597,14598,14683,14684
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/254/original/question_index_page.jpg)

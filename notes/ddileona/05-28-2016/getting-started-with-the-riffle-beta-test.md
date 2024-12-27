@@ -7,6 +7,8 @@ path: /notes/ddileona/05-28-2016/getting-started-with-the-riffle-beta-test.md
 nid: 13151
 uid: 436738
 
+cids: 14700,14706
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/385/original/20160525_203932.jpg)

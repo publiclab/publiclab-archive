@@ -7,6 +7,8 @@ path: /notes/Wilkeltus/02-14-2022/make-for-classroom-spectroscopy.md
 nid: 30027
 uid: 788441
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/381/original/DIY_Spectrometer.jpg)

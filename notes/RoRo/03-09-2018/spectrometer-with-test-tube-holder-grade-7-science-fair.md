@@ -7,6 +7,8 @@ path: /notes/RoRo/03-09-2018/spectrometer-with-test-tube-holder-grade-7-science-
 nid: 15901
 uid: 525966
 
+cids: 18814,18815,19276
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/928/original/fair.jpg)

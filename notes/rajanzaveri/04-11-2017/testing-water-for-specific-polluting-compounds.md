@@ -7,6 +7,8 @@ path: /notes/rajanzaveri/04-11-2017/testing-water-for-specific-polluting-compoun
 nid: 14106
 uid: 505552
 
+cids: 17294,17342
+
 ---
 
 # Testing Water For Specific Polluting Compounds

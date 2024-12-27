@@ -7,6 +7,8 @@ path: /notes/malejatafurbustos/10-31-2019/espectro-electromagnetico.md
 nid: 21351
 uid: 633285
 
+cids: 26141
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/113/original/espectro2.jpeg)

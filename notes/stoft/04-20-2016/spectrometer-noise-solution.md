@@ -7,6 +7,8 @@ path: /notes/stoft/04-20-2016/spectrometer-noise-solution.md
 nid: 13007
 uid: 54025
 
+cids: 14354,14359,14413,14421,29305,29927
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/689/original/STest_CFL-15ptTimeAvgSNR.gif)

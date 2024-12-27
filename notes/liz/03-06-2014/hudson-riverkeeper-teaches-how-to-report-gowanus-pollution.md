@@ -7,6 +7,8 @@ path: /notes/liz/03-06-2014/hudson-riverkeeper-teaches-how-to-report-gowanus-pol
 nid: 10113
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/157/original/photo.JPG)

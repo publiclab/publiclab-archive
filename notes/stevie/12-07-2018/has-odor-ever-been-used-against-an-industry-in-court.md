@@ -7,6 +7,8 @@ path: /notes/stevie/12-07-2018/has-odor-ever-been-used-against-an-industry-in-co
 nid: 17834
 uid: 422561
 
+cids: 21532,23299,25445,28859
+
 ---
 
 # Has odor ever been used against an industry in court? 

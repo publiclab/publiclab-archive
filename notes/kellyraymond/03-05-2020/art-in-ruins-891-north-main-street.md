@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-891-north-main-street.md
 nid: 23059
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (891 North Main Street)

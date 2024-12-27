@@ -7,6 +7,8 @@ path: /notes/mj7007/03-20-2014/gsoc-2014-proposal-draft-sky-cam-enhancements.md
 nid: 10208
 uid: 421351
 
+cids: 8639
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/344/original/IMG_20130912_190456.jpg)

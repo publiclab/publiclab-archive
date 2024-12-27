@@ -7,6 +7,8 @@ path: /notes/bhamster/06-02-2021/how-do-you-make-results-from-environmental-moni
 nid: 26774
 uid: 664477
 
+cids: 29149,29155
+
 ---
 
 # How do you make results from environmental monitoring personally meaningful to people?

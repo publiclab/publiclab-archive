@@ -7,6 +7,8 @@ path: /notes/KushalKC/10-24-2017/how-to-connect-a-creative-cam-notebook-with-a-s
 nid: 15091
 uid: 516049
 
+cids: 17565,22683
+
 ---
 
 # How to connect a creative cam notebook with a smartphone?

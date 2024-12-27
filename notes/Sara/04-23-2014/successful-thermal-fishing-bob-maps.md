@@ -7,6 +7,8 @@ path: /notes/Sara/04-23-2014/successful-thermal-fishing-bob-maps.md
 nid: 10346
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/822/original/Screen_Shot_2014-04-08_at_7.49.33_PM.png)

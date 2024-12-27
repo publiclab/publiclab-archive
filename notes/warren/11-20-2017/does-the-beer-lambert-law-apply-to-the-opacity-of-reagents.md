@@ -7,6 +7,8 @@ path: /notes/warren/11-20-2017/does-the-beer-lambert-law-apply-to-the-opacity-of
 nid: 15212
 uid: 1
 
+cids: 17734,17974,22738,22739
+
 ---
 
 # Does the Beer Lambert law apply to the opacity of reagents?

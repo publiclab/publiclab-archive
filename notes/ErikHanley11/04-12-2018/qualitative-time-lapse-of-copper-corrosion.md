@@ -7,6 +7,8 @@ path: /notes/ErikHanley11/04-12-2018/qualitative-time-lapse-of-copper-corrosion.
 nid: 16138
 uid: 444638
 
+cids: 19386,19391,19397,19443
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/563/original/Screen_Shot_2018-04-11_at_9.54.09_PM.png)

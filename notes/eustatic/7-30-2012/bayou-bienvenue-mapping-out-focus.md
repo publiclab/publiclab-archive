@@ -7,6 +7,8 @@ path: /7-30-2012/bayou-bienvenue-mapping-out-focus.md
 nid: 3026
 uid: 379
 
+cids: 1103,1140,1560
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_4468.JPG)

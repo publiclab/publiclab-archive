@@ -7,6 +7,8 @@ path: /notes/gonzoearth/8-6-2011/plots-map-tools-walkthrough.md
 nid: 433
 uid: 12
 
+cids: 310
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2011-08-06 at 9.14.49 AM.png)

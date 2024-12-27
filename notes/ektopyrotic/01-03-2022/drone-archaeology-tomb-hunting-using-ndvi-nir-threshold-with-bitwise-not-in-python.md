@@ -7,6 +7,8 @@ path: /notes/ektopyrotic/01-03-2022/drone-archaeology-tomb-hunting-using-ndvi-ni
 nid: 28618
 uid: 699450
 
+cids: 31136
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/296/original/drone_tomb_hunter_python.png)

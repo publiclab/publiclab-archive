@@ -7,6 +7,8 @@ path: /notes/warren/11-30-2017/what-are-some-ways-to-collect-dust-or-particulate
 nid: 15271
 uid: 1
 
+cids: 22773,22838,22931,22962
+
 ---
 
 # What are some ways to collect dust or particulate samples for analysis? 

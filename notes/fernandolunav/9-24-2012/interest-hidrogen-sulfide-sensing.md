@@ -7,6 +7,8 @@ path: /notes/fernandolunav/9-24-2012/interest-hidrogen-sulfide-sensing.md
 nid: 3989
 uid: 43553
 
+cids: 1451,1453,1459
+
 ---
 
 # Interest in Hidrogen Sulfide Sensing

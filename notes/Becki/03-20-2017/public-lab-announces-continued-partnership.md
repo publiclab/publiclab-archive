@@ -7,6 +7,8 @@ path: /notes/Becki/03-20-2017/public-lab-announces-continued-partnership.md
 nid: 14040
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/885/original/Logos_-_Autodesk_SVCF_Announcement.jpg)

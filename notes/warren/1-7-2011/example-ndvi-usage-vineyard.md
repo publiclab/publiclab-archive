@@ -7,6 +7,8 @@ path: /notes/warren/1-7-2011/example-ndvi-usage-vineyard.md
 nid: 43
 uid: 1
 
+cids: 15055
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ndvi-example.jpg)

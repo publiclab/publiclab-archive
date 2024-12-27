@@ -7,6 +7,8 @@ path: /notes/imvec/02-11-2019/mapknitter-map-of-collado-villalba-2.md
 nid: 18341
 uid: 495038
 
+cids: 22055,30295,30296
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/290/original/G0039463.jpg)

@@ -7,6 +7,8 @@ path: /11-14-2017/mapknitter-map-of-bayou-casotte-on-a-calm-sunny-day.md
 nid: 15182
 uid: 379
 
+cids: 17678,17680,17712,17730
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/408/original/casotte.jpg)

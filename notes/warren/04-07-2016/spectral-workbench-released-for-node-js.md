@@ -7,6 +7,8 @@ path: /notes/warren/04-07-2016/spectral-workbench-released-for-node-js.md
 nid: 12933
 uid: 1
 
+cids: 23525,23526,23527
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/401/original/Screenshot_2016-04-07_at_12.05.45_PM.png)

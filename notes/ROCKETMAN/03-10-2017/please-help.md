@@ -7,6 +7,8 @@ path: /notes/ROCKETMAN/03-10-2017/please-help.md
 nid: 13998
 uid: 503855
 
+cids: 16383
+
 ---
 
 # please help!

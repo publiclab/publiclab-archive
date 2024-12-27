@@ -7,6 +7,8 @@ path: /04-30-2014/west-bay-river-restoration-diversion-strategy-in-action.md
 nid: 10381
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/928/original/IMG_1095.JPG)

@@ -7,6 +7,8 @@ path: /notes/ajguthrie99/11-13-2020/learning-python-on-raspberry-pi.md
 nid: 25059
 uid: 716372
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/748/original/IMG_6376.jpg)

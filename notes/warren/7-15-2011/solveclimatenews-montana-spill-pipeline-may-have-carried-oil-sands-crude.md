@@ -7,6 +7,8 @@ path: /notes/warren/7-15-2011/solveclimatenews-montana-spill-pipeline-may-have-c
 nid: 384
 uid: 1
 
+cids: 
+
 ---
 
 # SolveClimateNews: Montana Spill Pipeline May Have Carried Oil Sands Crude

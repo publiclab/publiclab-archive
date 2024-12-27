@@ -7,6 +7,8 @@ path: /notes/JSummers/09-25-2014/datalogger-part-2a-generating-a-signal-amplifyi
 nid: 11190
 uid: 304279
 
+cids: 10780,10790,10812,10824,10826,10836
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/033/original/DataLog1.png)

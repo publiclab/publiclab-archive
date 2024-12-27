@@ -7,6 +7,8 @@ path: /notes/Jvan/09-25-2021/kite-aerial-mapping-of-torry-battery.md
 nid: 27801
 uid: 773648
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/855/original/AATP0051.jpg)

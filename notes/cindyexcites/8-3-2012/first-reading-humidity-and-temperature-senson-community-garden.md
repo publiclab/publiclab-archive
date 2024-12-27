@@ -7,6 +7,8 @@ path: /notes/cindyexcites/8-3-2012/first-reading-humidity-and-temperature-senson
 nid: 3124
 uid: 1083
 
+cids: 1120,1121,6381
+
 ---
 
 # First reading from the humidity and temperature sensor @ the community garden

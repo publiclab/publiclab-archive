@@ -7,6 +7,8 @@ path: /notes/ttaylor/08-16-2013/a-little-background-work-for-trapa-classificatio
 nid: 9019
 uid: 58398
 
+cids: 6648,6649,6652,6654,6655,6656,6657,6658,6659
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/164/original/classifier2Test.jpg)

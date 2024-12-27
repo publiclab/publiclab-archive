@@ -7,6 +7,8 @@ path: /notes/lach_myers/07-08-2018/lego-spectrometer-publiclab-design.md
 nid: 16660
 uid: 425849
 
+cids: 20034,20035,20092,20093,20094,20102,20108,20147,20282,20283,20292
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/510/original/P1020358a.jpg)

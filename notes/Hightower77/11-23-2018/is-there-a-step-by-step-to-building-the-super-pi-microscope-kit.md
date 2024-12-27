@@ -7,6 +7,8 @@ path: /notes/Hightower77/11-23-2018/is-there-a-step-by-step-to-building-the-supe
 nid: 17742
 uid: 560996
 
+cids: 21349,21352,23290
+
 ---
 
 # Is there a step by step to building the super pi Microscope kit

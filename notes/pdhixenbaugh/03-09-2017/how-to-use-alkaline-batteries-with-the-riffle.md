@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/03-09-2017/how-to-use-alkaline-batteries-with-the-riff
 nid: 13996
 uid: 459085
 
+cids: 16332,16334,16335,16336,22439
+
 ---
 
 # How to use Alkaline Batteries with the Riffle?

@@ -7,6 +7,8 @@ path: /notes/eigentuininhuis/02-05-2016/question-can-t-save-spectrum-anymore.md
 nid: 12657
 uid: 460522
 
+cids: 13480,13482,13483,13484,13486,13488,13489,13491,13493
+
 ---
 
 # Question: can't save spectrum anymore

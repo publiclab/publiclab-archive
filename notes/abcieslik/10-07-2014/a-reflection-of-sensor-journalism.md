@@ -7,6 +7,8 @@ path: /notes/abcieslik/10-07-2014/a-reflection-of-sensor-journalism.md
 nid: 11247
 uid: 428083
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/346/original/IMG_4978.JPG)

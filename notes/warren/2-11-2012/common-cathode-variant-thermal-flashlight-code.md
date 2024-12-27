@@ -7,6 +7,8 @@ path: /notes/warren/2-11-2012/common-cathode-variant-thermal-flashlight-code.md
 nid: 780
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/22.jpg)

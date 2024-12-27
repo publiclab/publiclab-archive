@@ -7,6 +7,8 @@ path: /notes/warren/5-19-2011/calculating-area-map-dumb-way.md
 nid: 253
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/lima-morflex-area.png)

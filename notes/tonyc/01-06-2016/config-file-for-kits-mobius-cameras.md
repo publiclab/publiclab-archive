@@ -7,6 +7,8 @@ path: /notes/tonyc/01-06-2016/config-file-for-kits-mobius-cameras.md
 nid: 12566
 uid: 447491
 
+cids: 13294,13375
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/535/original/mobius-with-ruler_medium.JPG)

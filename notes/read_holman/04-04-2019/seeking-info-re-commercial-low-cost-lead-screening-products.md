@@ -7,6 +7,8 @@ path: /notes/read_holman/04-04-2019/seeking-info-re-commercial-low-cost-lead-scr
 nid: 18958
 uid: 540243
 
+cids: 23674,23675,23698,23700,23701,23702,23780,23897
+
 ---
 
 # Seeking Info re Commercial Low-cost Lead Screening Products

@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/05-11-2022/edwight-5-11-22.md
 nid: 30721
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/670/original/Edwight.jpg)

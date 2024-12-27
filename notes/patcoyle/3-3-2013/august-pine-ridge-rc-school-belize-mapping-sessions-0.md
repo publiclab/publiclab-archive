@@ -7,6 +7,8 @@ path: /notes/patcoyle/3-3-2013/august-pine-ridge-rc-school-belize-mapping-sessio
 nid: 6175
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/P1070320_kids thumbs up_0.JPG)

@@ -7,6 +7,8 @@ path: /notes/cfastie/08-02-2013/trapa-detection.md
 nid: 8958
 uid: 554
 
+cids: 6470,6478,6480,6614,6617,6641,6642,6647
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/999/original/WarnerLkVis7136Trapa2500A.jpg)

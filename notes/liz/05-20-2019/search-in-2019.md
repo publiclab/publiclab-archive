@@ -7,6 +7,8 @@ path: /notes/liz/05-20-2019/search-in-2019.md
 nid: 19466
 uid: 7
 
+cids: 24221
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/349/original/Search-mockup.png)

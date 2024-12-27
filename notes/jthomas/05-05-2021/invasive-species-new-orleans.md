@@ -7,6 +7,8 @@ path: /notes/jthomas/05-05-2021/invasive-species-new-orleans.md
 nid: 26501
 uid: 752053
 
+cids: 28801
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/679/original/water_hyacinth_no.jpg)

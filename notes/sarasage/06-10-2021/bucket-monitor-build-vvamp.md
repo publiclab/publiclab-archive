@@ -7,6 +7,8 @@ path: /notes/sarasage/06-10-2021/bucket-monitor-build-vvamp.md
 nid: 26745
 uid: 451398
 
+cids: 29035
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/054/original/Final.jpg)

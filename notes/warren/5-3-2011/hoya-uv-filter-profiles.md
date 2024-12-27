@@ -7,6 +7,8 @@ path: /notes/warren/5-3-2011/hoya-uv-filter-profiles.md
 nid: 212
 uid: 1
 
+cids: 259
+
 ---
 
 ![](https://publiclab.org/sites/default/files/hoya-spectra.gif)

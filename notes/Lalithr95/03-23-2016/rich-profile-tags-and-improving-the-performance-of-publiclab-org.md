@@ -7,6 +7,8 @@ path: /notes/Lalithr95/03-23-2016/rich-profile-tags-and-improving-the-performanc
 nid: 12879
 uid: 468698
 
+cids: 14025,14031,14040
+
 ---
 
 # Rich Profile tags and improving the performance of Publiclab.org

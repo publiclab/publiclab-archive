@@ -7,6 +7,8 @@ path: /notes/jr57k/04-08-2014/initial-calibration.md
 nid: 10280
 uid: 422226
 
+cids: 
+
 ---
 
 # Initial Calibration

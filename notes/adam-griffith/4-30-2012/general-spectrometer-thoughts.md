@@ -7,6 +7,8 @@ path: /notes/adam-griffith/4-30-2012/general-spectrometer-thoughts.md
 nid: 1859
 uid: 3
 
+cids: 697,698
+
 ---
 
 # General spectrometer thoughts

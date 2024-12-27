@@ -7,6 +7,8 @@ path: /notes/chauhan_shubhangi96/11-06-2018/outreachy-proposal-expanded-communit
 nid: 17477
 uid: 555727
 
+cids: 21148,21149,21150,21171,21185
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/499/original/stats_cover.jpg)

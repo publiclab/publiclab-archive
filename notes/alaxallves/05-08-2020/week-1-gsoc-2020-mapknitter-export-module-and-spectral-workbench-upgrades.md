@@ -7,6 +7,8 @@ path: /notes/alaxallves/05-08-2020/week-1-gsoc-2020-mapknitter-export-module-and
 nid: 23580
 uid: 577447
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/319/original/brasil.png)

@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-06-2017/roll-up-your-sleeves-and-fight-regulatory-roll
 nid: 15314
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/813/original/Stitched_image.jpg)

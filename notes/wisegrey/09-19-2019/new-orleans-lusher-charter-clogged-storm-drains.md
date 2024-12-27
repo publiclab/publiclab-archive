@@ -7,6 +7,8 @@ path: /notes/wisegrey/09-19-2019/new-orleans-lusher-charter-clogged-storm-drains
 nid: 20929
 uid: 618896
 
+cids: 25548,25683
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/338/original/download.jpg)

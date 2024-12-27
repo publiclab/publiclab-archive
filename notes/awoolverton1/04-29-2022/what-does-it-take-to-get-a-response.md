@@ -7,6 +7,8 @@ path: /notes/awoolverton1/04-29-2022/what-does-it-take-to-get-a-response.md
 nid: 30660
 uid: 778039
 
+cids: 30162,30165,30236
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/568/original/LDEQ.JPG)

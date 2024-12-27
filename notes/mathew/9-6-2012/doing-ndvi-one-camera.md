@@ -7,6 +7,8 @@ path: /notes/mathew/9-6-2012/doing-ndvi-one-camera.md
 nid: 3668
 uid: 4
 
+cids: 1272
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Canon_T2i_NDVI_MK_II_QE.jpg)

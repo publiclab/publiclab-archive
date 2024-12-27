@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/07-27-2022/seeking-for-bioindicator-protozoans-with-
 nid: 34806
 uid: 639376
 
+cids: 30354
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/922/original/__Seeking_for_bioindicator_protozoans_with_the_DIY_microscope%282%29.png)

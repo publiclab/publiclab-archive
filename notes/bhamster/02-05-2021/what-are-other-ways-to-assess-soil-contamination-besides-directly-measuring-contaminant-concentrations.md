@@ -7,6 +7,8 @@ path: /notes/bhamster/02-05-2021/what-are-other-ways-to-assess-soil-contaminatio
 nid: 25605
 uid: 664477
 
+cids: 28138,28139,28142,28150,28154,28160,28162,28163,28281,28360,28361
+
 ---
 
 # What are other ways to assess soil contamination, besides directly measuring contaminant concentrations?

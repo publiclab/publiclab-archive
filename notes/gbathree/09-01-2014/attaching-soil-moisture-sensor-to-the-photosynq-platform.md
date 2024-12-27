@@ -7,6 +7,8 @@ path: /notes/gbathree/09-01-2014/attaching-soil-moisture-sensor-to-the-photosynq
 nid: 11093
 uid: 53164
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/539/original/14_-_1.jpg)

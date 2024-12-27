@@ -7,6 +7,8 @@ path: /notes/programmer1200/03-29-2018/spectrometer-3-0-add-on-v2.md
 nid: 16042
 uid: 509305
 
+cids: 19275,19295,19309,19310,19311,19418
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/248/original/29748606_10156168760040995_1250387487_o.jpg)

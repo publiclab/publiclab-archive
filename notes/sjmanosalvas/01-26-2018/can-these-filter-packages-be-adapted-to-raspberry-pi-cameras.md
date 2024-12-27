@@ -7,6 +7,8 @@ path: /notes/sjmanosalvas/01-26-2018/can-these-filter-packages-be-adapted-to-ras
 nid: 15622
 uid: 523668
 
+cids: 18780,18781,22890
+
 ---
 
 #  Can these filter packages be adapted to Raspberry Pi cameras?

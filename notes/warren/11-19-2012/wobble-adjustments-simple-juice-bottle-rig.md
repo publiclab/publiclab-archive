@@ -7,6 +7,8 @@ path: /notes/warren/11-19-2012/wobble-adjustments-simple-juice-bottle-rig.md
 nid: 4952
 uid: 1
 
+cids: 2583
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-11-19 at 1.50.59 PM.png)

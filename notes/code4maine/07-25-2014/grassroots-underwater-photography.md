@@ -7,6 +7,8 @@ path: /notes/code4maine/07-25-2014/grassroots-underwater-photography.md
 nid: 10977
 uid: 294634
 
+cids: 9633,9634,9636,9637,9638,9639,9642,9664,9674,9676,9721
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/534/original/vlcsnap-2014-07-24-21h30m06s29.png)

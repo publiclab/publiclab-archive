@@ -7,6 +7,8 @@ path: /notes/bhamster/02-22-2022/how-do-i-find-the-reclamation-permit-for-an-act
 nid: 30073
 uid: 664477
 
+cids: 30334
+
 ---
 
 # How do I find the reclamation permit for an active mine?

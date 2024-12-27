@@ -7,6 +7,8 @@ path: /notes/mrodriguezorejuela/09-28-2018/mapir-survey3-rgn-image-processing-pi
 nid: 17185
 uid: 550339
 
+cids: 20757,20762,23237
+
 ---
 
 # Mapir Survey3 RGN image processing pipeline

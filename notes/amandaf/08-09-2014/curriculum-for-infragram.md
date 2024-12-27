@@ -7,6 +7,8 @@ path: /notes/amandaf/08-09-2014/curriculum-for-infragram.md
 nid: 11026
 uid: 426589
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/156/original/Rosco_19_NDVI.jpg)

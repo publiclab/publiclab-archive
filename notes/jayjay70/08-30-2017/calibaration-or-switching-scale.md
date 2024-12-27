@@ -7,6 +7,8 @@ path: /notes/jayjay70/08-30-2017/calibaration-or-switching-scale.md
 nid: 14800
 uid: 513445
 
+cids: 22568
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/468/original/WP_20130525_007.jpg)

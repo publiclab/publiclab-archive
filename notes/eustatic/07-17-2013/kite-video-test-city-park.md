@@ -7,6 +7,8 @@ path: /07-17-2013/kite-video-test-city-park.md
 nid: 8902
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/829/original/20_april_city_park_little_bear.png)

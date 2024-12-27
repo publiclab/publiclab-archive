@@ -7,6 +7,8 @@ path: /notes/geoderek/12-16-2019/mapknitter-map-of-p-cola-beach-1.md
 nid: 21770
 uid: 637361
 
+cids: 26033,26056,26074,26076
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/205/original/IMG_20190302_152731173.jpg)

@@ -7,6 +7,8 @@ path: /notes/iutseif/06-15-2021/incandescent-light.md
 nid: 26828
 uid: 760039
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/183/original/_.dmg)

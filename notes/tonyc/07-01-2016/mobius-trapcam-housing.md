@@ -7,6 +7,8 @@ path: /notes/tonyc/07-01-2016/mobius-trapcam-housing.md
 nid: 13254
 uid: 447491
 
+cids: 14843,14844,14853,14859,14869,14870,15079
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/842/original/IMG_4026.JPG)

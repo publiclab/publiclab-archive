@@ -7,6 +7,8 @@ path: /notes/Matej/09-18-2015/oil-testing-kit-workshop-at-art-in-odd-places-fest
 nid: 12228
 uid: 451808
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/631/original/image.jpg)

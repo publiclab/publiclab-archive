@@ -7,6 +7,8 @@ path: /notes/mlamadrid/06-29-2014/la-river-balloon-mapping-for-community-buildin
 nid: 10631
 uid: 45586
 
+cids: 11376,11378
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/025/original/MVI_0124_07512.jpg)

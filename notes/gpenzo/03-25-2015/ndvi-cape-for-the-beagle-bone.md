@@ -7,6 +7,8 @@ path: /notes/gpenzo/03-25-2015/ndvi-cape-for-the-beagle-bone.md
 nid: 11723
 uid: 420719
 
+cids: 11401,11407,11417,11420,11431,12305,12880,13788
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/414/original/ndvi_cap_v1_crop.jpg)

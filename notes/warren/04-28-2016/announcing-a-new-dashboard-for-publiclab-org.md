@@ -7,6 +7,8 @@ path: /notes/warren/04-28-2016/announcing-a-new-dashboard-for-publiclab-org.md
 nid: 13045
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/846/original/Screenshot_2016-04-26_at_6.46.19_PM.png)

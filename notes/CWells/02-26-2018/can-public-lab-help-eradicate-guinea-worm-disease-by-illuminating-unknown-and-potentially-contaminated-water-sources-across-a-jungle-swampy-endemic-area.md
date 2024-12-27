@@ -7,6 +7,8 @@ path: /notes/CWells/02-26-2018/can-public-lab-help-eradicate-guinea-worm-disease
 nid: 15816
 uid: 526118
 
+cids: 18612,18625,18631,18642,18643
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/719/original/Screen_Shot_2018-02-26_at_12.11.18_PM.png)

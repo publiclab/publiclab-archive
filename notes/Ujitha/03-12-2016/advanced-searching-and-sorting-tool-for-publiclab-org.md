@@ -7,6 +7,8 @@ path: /notes/Ujitha/03-12-2016/advanced-searching-and-sorting-tool-for-publiclab
 nid: 12837
 uid: 467748
 
+cids: 13926,13927,13934,13941,13942,13943,13953,13954,13960,13976,14013,14014,14026,14027,14515
+
 ---
 
 # Advanced Searching and Sorting Tool for publiclab.org

@@ -7,6 +7,8 @@ path: /notes/stevie/01-18-2019/are-there-any-charts-useful-for-describing-the-wa
 nid: 18141
 uid: 422561
 
+cids: 21764,21768
+
 ---
 
 # Are there any charts useful for describing the way pollutants smell?

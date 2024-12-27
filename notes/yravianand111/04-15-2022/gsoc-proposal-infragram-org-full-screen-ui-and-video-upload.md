@@ -7,6 +7,8 @@ path: /notes/yravianand111/04-15-2022/gsoc-proposal-infragram-org-full-screen-ui
 nid: 30405
 uid: 784616
 
+cids: 30039,30040,30066
+
 ---
 
 # GSoC"proposal: Infragram.org full-screen UI and video upload 

@@ -7,6 +7,8 @@ path: /06-13-2014/barataria-2014-vii-june-12th.md
 nid: 10570
 uid: 379
 
+cids: 9194,9197,10929
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/714/original/Barataria_12_june_trip_VI.png)

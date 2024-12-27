@@ -7,6 +7,8 @@ path: /notes/rmeister/08-23-2016/gsoc-2016-final-work-product-of-browser-based-a
 nid: 13390
 uid: 468994
 
+cids: 15224,15225,15229,15231,15232,16341,16344,16345,16346
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/744/original/out.gif)

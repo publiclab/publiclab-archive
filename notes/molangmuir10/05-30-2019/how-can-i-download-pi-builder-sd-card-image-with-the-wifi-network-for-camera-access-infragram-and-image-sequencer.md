@@ -7,6 +7,8 @@ path: /notes/molangmuir10/05-30-2019/how-can-i-download-pi-builder-sd-card-image
 nid: 19577
 uid: 589023
 
+cids: 24303,24304,24723,24724,24727,24732,24733,24745,27157
+
 ---
 
 # How can I download pi-builder SD card image with the WIFI network for camera access, Infragram and Image Sequencer?

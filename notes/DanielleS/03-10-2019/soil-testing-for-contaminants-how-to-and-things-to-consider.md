@@ -7,6 +7,8 @@ path: /notes/DanielleS/03-10-2019/soil-testing-for-contaminants-how-to-and-thing
 nid: 18505
 uid: 569208
 
+cids: 25300,25304,25311,25313
+
 ---
 
 # Things to Consider When Testing Soil for Contaminants  

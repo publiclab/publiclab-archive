@@ -7,6 +7,8 @@ path: /notes/warren/9-23-2012/leaffest-brainstorm-raspberry-pi-based-dual-webcam
 nid: 3955
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120923_120619_0.jpg)

@@ -7,6 +7,8 @@ path: /notes/cess/10-24-2018/outreachy-proposal.md
 nid: 17368
 uid: 525958
 
+cids: 20953,20955,20956,20965,20966,20968,20969,20971,21132,21133
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/130/original/stat.jpg)

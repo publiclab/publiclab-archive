@@ -7,6 +7,8 @@ path: /notes/gabrielmetoyer/04-14-2021/the-problematic-pollution-of-lake-pontcha
 nid: 26233
 uid: 750416
 
+cids: 28563,28564,28806,28807
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/298/original/Screenshot_%28124%29.png)

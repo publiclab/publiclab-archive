@@ -7,6 +7,8 @@ path: /notes/ccpandhare/08-23-2017/gsoc-2017-final-work-product-of-image-sequenc
 nid: 14780
 uid: 503543
 
+cids: 17220,17227,17233,17234,17240,17258,17260,17261,17266,17267,17268,17269,17270
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/605/original/Screenshot_2017-09-11_at_10.57.23_AM.png)

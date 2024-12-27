@@ -7,6 +7,8 @@ path: /notes/MadTinker/03-21-2018/willow-creek-water-quality-monitoring-electric
 nid: 15996
 uid: 461206
 
+cids: 19666,19988,20112,20482
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/122/original/IMG_8394.jpg)

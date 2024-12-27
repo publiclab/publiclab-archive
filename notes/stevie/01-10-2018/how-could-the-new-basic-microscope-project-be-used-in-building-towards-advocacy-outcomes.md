@@ -7,6 +7,8 @@ path: /notes/stevie/01-10-2018/how-could-the-new-basic-microscope-project-be-use
 nid: 15505
 uid: 422561
 
+cids: 
+
 ---
 
 # How could the new basic microscope project be used in building towards advocacy outcomes?

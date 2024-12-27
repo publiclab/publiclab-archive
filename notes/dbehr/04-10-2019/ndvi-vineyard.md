@@ -7,6 +7,8 @@ path: /notes/dbehr/04-10-2019/ndvi-vineyard.md
 nid: 19019
 uid: 436864
 
+cids: 
+
 ---
 
 # NDVI Vineyard

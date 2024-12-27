@@ -7,6 +7,8 @@ path: /notes/donblair/09-08-2015/rubba-stoppaz.md
 nid: 12204
 uid: 43651
 
+cids: 12509,12513,12514,12515,12517,12521,13904,13962
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/510/original/all_enclosures.jpg)

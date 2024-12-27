@@ -7,6 +7,8 @@ path: /notes/TheChessGym/08-19-2022/environmental-science-stimuli-that-can-adver
 nid: 34889
 uid: 788868
 
+cids: 30435,30436,30437,30438,30439,30440,30441,30442,30443,30444,30445,30446,30447,30448,30449,30450,30451
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/046/original/WEP.jpg)

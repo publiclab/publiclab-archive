@@ -7,6 +7,8 @@ path: /notes/mathew/9-6-2012/wpi-blue-hill-tracking-plants-kites-middle-schooler
 nid: 3670
 uid: 4
 
+cids: 19363
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-09-06 at 5.21.21 PM.png)

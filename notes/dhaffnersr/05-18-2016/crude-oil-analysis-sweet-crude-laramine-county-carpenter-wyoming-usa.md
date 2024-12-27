@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-18-2016/crude-oil-analysis-sweet-crude-laramine-count
 nid: 13125
 uid: 461120
 
+cids: 14681
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/206/original/sweet_crude_from_Wyoming_may16.png)

@@ -7,6 +7,8 @@ path: /notes/epongrat/12-15-2014/calibrating-ozone-sensor.md
 nid: 11459
 uid: 428825
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/397/original/Screen_Shot_2014-12-05_at_2.09.39_PM.png)

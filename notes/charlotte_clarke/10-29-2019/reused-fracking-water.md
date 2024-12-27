@@ -7,6 +7,8 @@ path: /notes/charlotte_clarke/10-29-2019/reused-fracking-water.md
 nid: 21332
 uid: 510781
 
+cids: 25765,25819
+
 ---
 
 # Reused fracking water?

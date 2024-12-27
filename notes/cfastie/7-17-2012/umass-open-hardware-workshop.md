@@ -7,6 +7,8 @@ path: /notes/cfastie/7-17-2012/umass-open-hardware-workshop.md
 nid: 2848
 uid: 554
 
+cids: 1031,1040,1047,1062
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Amherst_NDVI_Color_logo.jpg)

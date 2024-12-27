@@ -7,6 +7,8 @@ path: /notes/cfastie/7-3-2012/timer-battery-disappoints.md
 nid: 2697
 uid: 554
 
+cids: 981,982
+
 ---
 
 ![](https://publiclab.org/sites/default/files/4LR44.jpg)

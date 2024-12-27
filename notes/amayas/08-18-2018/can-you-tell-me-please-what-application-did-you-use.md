@@ -7,6 +7,8 @@ path: /notes/amayas/08-18-2018/can-you-tell-me-please-what-application-did-you-u
 nid: 16956
 uid: 422444
 
+cids: 20430,20431,20441
+
 ---
 
 # Can you tell me please what application did you use ?

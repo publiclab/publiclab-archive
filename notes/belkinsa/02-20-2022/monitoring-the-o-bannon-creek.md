@@ -7,6 +7,8 @@ path: /notes/belkinsa/02-20-2022/monitoring-the-o-bannon-creek.md
 nid: 30066
 uid: 504609
 
+cids: 29821
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/414/original/PXL_20211203_212831599.jpg)

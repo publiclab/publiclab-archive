@@ -7,6 +7,8 @@ path: /notes/code4maine/01-03-2014/thermal-flashlight-from-hacked-off-the-shelf-
 nid: 9922
 uid: 294634
 
+cids: 7991,7992,7996,8005,8059,12525
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/478/original/ThermaHack.jpg)

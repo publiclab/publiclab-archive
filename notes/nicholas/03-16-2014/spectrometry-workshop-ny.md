@@ -7,6 +7,8 @@ path: /notes/nicholas/03-16-2014/spectrometry-workshop-ny.md
 nid: 10190
 uid: 53894
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/274/original/IMG_1603.jpg)

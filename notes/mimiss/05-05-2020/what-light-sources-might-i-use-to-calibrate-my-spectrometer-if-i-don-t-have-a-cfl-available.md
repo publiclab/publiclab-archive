@@ -7,6 +7,8 @@ path: /notes/mimiss/05-05-2020/what-light-sources-might-i-use-to-calibrate-my-sp
 nid: 23548
 uid: 579821
 
+cids: 26753,26755,26813,28820,28821,28822,28845,28851
+
 ---
 
 # What light sources might I use to calibrate my spectrometer if I don’t have a CFL available?

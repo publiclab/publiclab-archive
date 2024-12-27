@@ -7,6 +7,8 @@ path: /notes/shannon/4-21-2012/prototype-pufferfish-balloon-ecohack.md
 nid: 1742
 uid: 9
 
+cids: 621,647
+
 ---
 
 ![](https://publiclab.org/sites/default/files/EcoHack image.jpg)

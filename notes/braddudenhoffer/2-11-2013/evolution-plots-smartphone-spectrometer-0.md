@@ -7,6 +7,8 @@ path: /notes/braddudenhoffer/2-11-2013/evolution-plots-smartphone-spectrometer-0
 nid: 5949
 uid: 571
 
+cids: 3393,3394,3395,3396,3397,3398,3404,3407,3411,4798
+
 ---
 
 ![](https://publiclab.org/sites/default/files/AutoCAD_render1.png)

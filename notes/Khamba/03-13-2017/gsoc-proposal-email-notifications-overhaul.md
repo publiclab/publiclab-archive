@@ -7,6 +7,8 @@ path: /notes/Khamba/03-13-2017/gsoc-proposal-email-notifications-overhaul.md
 nid: 14004
 uid: 503974
 
+cids: 16409,16411,16434,16472,16478,16479,16480,16481,16482,16483,16533,16534,16536,16542
+
 ---
 
 # GSoC Proposal - Email Notifications Overhaul

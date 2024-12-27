@@ -7,6 +7,8 @@ path: /notes/stef/02-18-2021/how-does-one-load-a-calibration-file.md
 nid: 25730
 uid: 482758
 
+cids: 
+
 ---
 
 # how does one load a calibration file?

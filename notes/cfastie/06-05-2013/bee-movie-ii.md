@@ -7,6 +7,8 @@ path: /notes/cfastie/06-05-2013/bee-movie-ii.md
 nid: 8073
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/479/original/B2BB.jpg)

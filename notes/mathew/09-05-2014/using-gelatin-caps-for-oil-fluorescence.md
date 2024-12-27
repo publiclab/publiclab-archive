@@ -7,6 +7,8 @@ path: /notes/mathew/09-05-2014/using-gelatin-caps-for-oil-fluorescence.md
 nid: 11104
 uid: 4
 
+cids: 10186,10195,10200,10247,10249,10250,10251,10252,10255,10256,10258,10261,10263,10352,10471,10472,10474,10476,10478
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/611/original/Screen_Shot_2014-09-04_at_6.59.47_PM.png)

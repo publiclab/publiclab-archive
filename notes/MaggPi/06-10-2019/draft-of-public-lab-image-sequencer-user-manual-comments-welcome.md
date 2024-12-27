@@ -7,6 +7,8 @@ path: /notes/MaggPi/06-10-2019/draft-of-public-lab-image-sequencer-user-manual-c
 nid: 19642
 uid: 501996
 
+cids: 24755,24757,24763,24766,24769,24956
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/752/original/image_sequencer_example.JPG)

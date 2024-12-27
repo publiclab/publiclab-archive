@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-07-2016/direct-sunlight-vs-diffuse-sunlight.md
 nid: 12934
 uid: 468990
 
+cids: 14136,14137,14138,14139,14141,14143,14145,14146,14147,14148,14149
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/406/original/comparison_direct_to_diffuse_sunlight.jpg)

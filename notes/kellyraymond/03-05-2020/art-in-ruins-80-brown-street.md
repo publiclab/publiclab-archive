@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-80-brown-street.md
 nid: 23034
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (80 Brown Street)

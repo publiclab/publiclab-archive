@@ -7,6 +7,8 @@ path: /notes/waugh2k/06-26-2019/who-has-used-vehicles-as-mobile-sensor-platforms
 nid: 19877
 uid: 54
 
+cids: 24952,24984
+
 ---
 
 # Who has used vehicles as mobile sensor platforms?

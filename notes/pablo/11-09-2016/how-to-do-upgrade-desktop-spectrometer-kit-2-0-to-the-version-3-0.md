@@ -7,6 +7,8 @@ path: /notes/pablo/11-09-2016/how-to-do-upgrade-desktop-spectrometer-kit-2-0-to-
 nid: 13689
 uid: 160
 
+cids: 16728
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/735/original/Cw0j9cVXEAAfVWV.jpg)

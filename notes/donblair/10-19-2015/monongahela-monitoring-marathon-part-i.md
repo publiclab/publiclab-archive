@@ -7,6 +7,8 @@ path: /notes/donblair/10-19-2015/monongahela-monitoring-marathon-part-i.md
 nid: 12317
 uid: 43651
 
+cids: 12764
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/035/original/monitoringPic.png)

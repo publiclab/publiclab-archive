@@ -7,6 +7,8 @@ path: /notes/astefanu/10-13-2015/map-of-v1-green-with-aerial-photos-uw.md
 nid: 12298
 uid: 453924
 
+cids: 12722
+
 ---
 
 # Map of V1 Green with Aerial Photos, UW

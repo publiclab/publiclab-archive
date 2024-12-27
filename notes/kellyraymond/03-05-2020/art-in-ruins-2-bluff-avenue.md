@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-2-bluff-avenue.md
 nid: 23038
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (2 Bluff Avenue)

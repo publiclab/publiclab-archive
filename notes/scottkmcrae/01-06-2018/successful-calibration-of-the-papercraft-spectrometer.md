@@ -7,6 +7,8 @@ path: /notes/scottkmcrae/01-06-2018/successful-calibration-of-the-papercraft-spe
 nid: 15466
 uid: 521915
 
+cids: 18129
+
 ---
 
 # Successful Calibration of the papercraft spectrometer

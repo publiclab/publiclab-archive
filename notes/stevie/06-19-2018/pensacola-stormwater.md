@@ -7,6 +7,8 @@ path: /notes/stevie/06-19-2018/pensacola-stormwater.md
 nid: 16532
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/244/original/20180611_114136.jpg)

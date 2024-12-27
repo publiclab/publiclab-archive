@@ -7,6 +7,8 @@ path: /notes/stevie/05-14-2018/bay-area-maker-faire.md
 nid: 16349
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/942/original/MF.png)

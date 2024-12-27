@@ -7,6 +7,8 @@ path: /notes/danbeavers/4-12-2013/determination-cadmium-and-lead-extracted-ceram
 nid: 6804
 uid: 51
 
+cids: 4452
+
 ---
 
 # Determination of Cadmium and Lead Extracted from Ceramic Foodware

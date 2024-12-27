@@ -7,6 +7,8 @@ path: /notes/liz/05-06-2016/oblique-rig-for-gopro.md
 nid: 13085
 uid: 7
 
+cids: 14575
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/985/original/IMG_0007.JPG)

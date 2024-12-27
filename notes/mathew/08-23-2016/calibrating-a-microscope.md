@@ -7,6 +7,8 @@ path: /notes/mathew/08-23-2016/calibrating-a-microscope.md
 nid: 13391
 uid: 4
 
+cids: 15581,18149
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/745/original/Asakura-Oosawa_Model__Two_Plates_in_a_solution_of_Macromolecules.png)

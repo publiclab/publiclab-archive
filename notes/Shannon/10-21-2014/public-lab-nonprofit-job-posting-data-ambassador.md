@@ -7,6 +7,8 @@ path: /notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-data-ambassador
 nid: 11289
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/595/original/plots-logo-transparent.jpg)

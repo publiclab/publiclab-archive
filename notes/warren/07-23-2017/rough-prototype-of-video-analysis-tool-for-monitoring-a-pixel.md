@@ -7,6 +7,8 @@ path: /notes/warren/07-23-2017/rough-prototype-of-video-analysis-tool-for-monito
 nid: 14675
 uid: 1
 
+cids: 19634,19635
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/196/original/Screenshot_2017-07-23_at_11.53.44_AM.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/12-03-2015/testing-midopt-filters.md
 nid: 12473
 uid: 554
 
+cids: 13306,13307,13412,13435,13437,13438,13439,13440
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/165/original/ScreenShot.JPG)

@@ -7,6 +7,8 @@ path: /notes/falgoust_gianna/05-17-2021/a-beautiful-view.md
 nid: 26627
 uid: 745905
 
+cids: 
+
 ---
 
 # A beautiful view! 

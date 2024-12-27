@@ -7,6 +7,8 @@ path: /notes/sagarpreet/12-20-2018/new-features-in-leaflet-environmental-layers.
 nid: 17978
 uid: 516343
 
+cids: 21552,21553,21555,21566,21642
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/462/original/spinner-gif.gif)

@@ -7,6 +7,8 @@ path: /notes/liz/09-15-2016/first-draft-of-tag-graph.md
 nid: 13449
 uid: 7
 
+cids: 15402,15404
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/052/original/Screen_Shot_2016-09-15_at_2.14.24_PM.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/05-01-2016/calibration-cogitation.md
 nid: 13058
 uid: 554
 
+cids: 14510,14524,15211,15213,15216,15218,15658,15708,16586,16588,16594
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/890/original/IRPAP_20160418-0170.jpg)

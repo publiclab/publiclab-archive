@@ -7,6 +7,8 @@ path: /notes/imvec/10-26-2019/taller-construeix-el-teu-microscopi.md
 nid: 21304
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/028/original/mic.jpg)

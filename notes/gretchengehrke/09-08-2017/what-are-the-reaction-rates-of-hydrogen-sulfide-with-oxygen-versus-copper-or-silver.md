@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/09-08-2017/what-are-the-reaction-rates-of-hydrogen-s
 nid: 14870
 uid: 430549
 
+cids: 
+
 ---
 
 # What are the reaction rates of hydrogen sulfide with oxygen versus copper or silver? 

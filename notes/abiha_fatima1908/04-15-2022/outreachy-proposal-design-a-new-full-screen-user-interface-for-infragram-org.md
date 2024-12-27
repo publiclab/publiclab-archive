@@ -7,6 +7,8 @@ path: /notes/abiha_fatima1908/04-15-2022/outreachy-proposal-design-a-new-full-sc
 nid: 30407
 uid: 793042
 
+cids: 30007,30064,30091
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/781/original/outreachy-logo.png)

@@ -7,6 +7,8 @@ path: /notes/liz/01-19-2018/what-are-some-techniques-for-drying-kombucha-leather
 nid: 15564
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/269/original/Cottonmeshwet_sml.jpg)

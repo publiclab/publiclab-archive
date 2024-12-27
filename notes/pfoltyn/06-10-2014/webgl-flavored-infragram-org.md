@@ -7,6 +7,8 @@ path: /notes/pfoltyn/06-10-2014/webgl-flavored-infragram-org.md
 nid: 10549
 uid: 264346
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/659/original/infragram-gl.png)

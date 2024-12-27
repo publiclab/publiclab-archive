@@ -7,6 +7,8 @@ path: /notes/cess/07-20-2020/mega-workshop-2-by-rails-girls-kenya.md
 nid: 24200
 uid: 525958
 
+cids: 27191,27192,27193
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/236/original/IMG_9486.jpg)

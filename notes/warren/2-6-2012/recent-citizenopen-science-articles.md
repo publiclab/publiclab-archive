@@ -7,6 +7,8 @@ path: /notes/warren/2-6-2012/recent-citizenopen-science-articles.md
 nid: 758
 uid: 1
 
+cids: 24276
+
 ---
 
 # Recent citizen/open science articles

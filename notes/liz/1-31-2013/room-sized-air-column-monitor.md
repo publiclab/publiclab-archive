@@ -7,6 +7,8 @@ path: /notes/liz/1-31-2013/room-sized-air-column-monitor.md
 nid: 5833
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/wea01433.jpg)

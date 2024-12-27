@@ -7,6 +7,8 @@ path: /notes/warren/09-30-2017/how-do-we-get-data-off-of-different-wind-sensors.
 nid: 14973
 uid: 1
 
+cids: 22932,22936
+
 ---
 
 # How do we get data off of different wind sensors

@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-04-2020/art-in-ruins-407-pine-street.md
 nid: 23014
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (407 Pine Street)

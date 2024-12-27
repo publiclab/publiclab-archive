@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/02-21-2017/epa-method-9-visual-determination-of-the-
 nid: 13943
 uid: 430549
 
+cids: 16217,16272,31390
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/601/original/IMG_2181_sRGB.JPG)

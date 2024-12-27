@@ -7,6 +7,8 @@ path: /notes/julsmill/12-20-2017/i-want-to-know-a-method-to-quantify-milk-protei
 nid: 15404
 uid: 518294
 
+cids: 22839,22840
+
 ---
 
 # I want to know a method to quantify milk proteins using the foldable mini spectrometer, Is this possible?

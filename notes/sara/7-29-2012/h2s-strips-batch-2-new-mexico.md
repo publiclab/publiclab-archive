@@ -7,6 +7,8 @@ path: /notes/sara/7-29-2012/h2s-strips-batch-2-new-mexico.md
 nid: 3011
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/water_glycerol_2h2S.jpeg)

@@ -7,6 +7,8 @@ path: /notes/liz/12-04-2015/barnraising-2015-storify.md
 nid: 12480
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/198/original/Screen_Shot_2015-12-04_at_4.34.08_PM.png)

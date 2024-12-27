@@ -7,6 +7,8 @@ path: /notes/bronwen/06-07-2017/balloon-kits-in-the-wild.md
 nid: 14508
 uid: 237313
 
+cids: 16851,16859,16950
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/683/original/IMG_20170607_163205_806.jpg)

@@ -7,6 +7,8 @@ path: /notes/sagarpreet/07-01-2018/what-more-data-layers-can-we-show-on-map.md
 nid: 16600
 uid: 516343
 
+cids: 19959,20089,20090,20875,20888,20892,20894,20895,20896,20913,20921,20922,20923,20924,21048,21728,23178,23268,23310
+
 ---
 
 # What more data-layers can we show on map ?

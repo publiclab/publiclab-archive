@@ -7,6 +7,8 @@ path: /notes/Willie/02-05-2014/jakarta-flood-kite-mapping.md
 nid: 10013
 uid: 235174
 
+cids: 8179,8215,8216,16911
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/788/original/G0020738.JPG)

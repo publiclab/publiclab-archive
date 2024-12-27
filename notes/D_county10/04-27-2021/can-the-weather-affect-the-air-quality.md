@@ -7,6 +7,8 @@ path: /notes/D_county10/04-27-2021/can-the-weather-affect-the-air-quality.md
 nid: 26372
 uid: 754380
 
+cids: 28648,28677,28683
+
 ---
 
 # can the weather affect the air quality

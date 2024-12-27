@@ -7,6 +7,8 @@ path: /12-11-2014/using-aerial-photography-to-identify-wildlife.md
 nid: 11449
 uid: 379
 
+cids: 10930,10931,10933,10939
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/338/original/bird_id_in_BM1_image.png)

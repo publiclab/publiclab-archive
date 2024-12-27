@@ -7,6 +7,8 @@ path: /notes/warren/03-10-2016/google-summer-of-code-2016-draft-proposals.md
 nid: 12827
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/740/original/Screenshot_2016-03-10_at_2.11.03_PM.png)

@@ -7,6 +7,8 @@ path: /notes/Sara/07-21-2013/digital-sts-workshop-at-arnold-arboretum-in-boston.
 nid: 8914
 uid: 8
 
+cids: 6385
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/861/original/Screen_Shot_2013-07-18_at_4.24.00_PM.png)

@@ -7,6 +7,8 @@ path: /notes/jkpetter/09-27-2016/mapknitter-map-of-penstemon-pole-mapping-2.md
 nid: 13486
 uid: 489340
 
+cids: 15502,15504,15511
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/161/original/IMG_0013.JPG)

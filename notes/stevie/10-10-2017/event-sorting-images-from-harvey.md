@@ -7,6 +7,8 @@ path: /notes/stevie/10-10-2017/event-sorting-images-from-harvey.md
 nid: 15016
 uid: 422561
 
+cids: 17522,17523
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/915/original/Screenshot_2017-09-20_at_10.37.43_AM.png)

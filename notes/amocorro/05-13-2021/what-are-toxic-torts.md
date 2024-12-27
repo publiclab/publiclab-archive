@@ -7,6 +7,8 @@ path: /notes/amocorro/05-13-2021/what-are-toxic-torts.md
 nid: 26578
 uid: 700923
 
+cids: 28771
+
 ---
 
 # What are toxic torts? 

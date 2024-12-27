@@ -7,6 +7,8 @@ path: /notes/gilbert/10-11-2017/riparian-industrial-facilities.md
 nid: 15037
 uid: 508551
 
+cids: 
+
 ---
 
 # Riparian Industrial Facilities

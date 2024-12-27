@@ -7,6 +7,8 @@ path: /notes/liz/09-24-2018/concept-of-social-rules-from-recurse-center.md
 nid: 17165
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/656/original/public_social_rules_2x-c8e6cdf02583cbedfb263a2bf6743463dc829e9f91d17a6e766193ad592f7024.jpg)

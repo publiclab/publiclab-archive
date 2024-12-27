@@ -7,6 +7,8 @@ path: /notes/joyofsoy/09-26-2019/reporting-frac-sand-mine-violations-in-wisconsi
 nid: 21012
 uid: 540844
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/473/original/IMG_20190813_160436.jpg)

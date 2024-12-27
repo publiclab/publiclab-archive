@@ -7,6 +7,8 @@ path: /notes/cfastie/08-13-2016/first-eos-m-aerials.md
 nid: 13351
 uid: 554
 
+cids: 15117,15131
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/606/original/399-434_36o44SGpsFlatCrp.jpg)

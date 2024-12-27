@@ -7,6 +7,8 @@ path: /notes/JSummers/03-10-2014/quantifying-airborne-hydrogen-sulfide.md
 nid: 10152
 uid: 304279
 
+cids: 8472,8483,8515,11373,11374
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/203/original/data_analyzed.png)

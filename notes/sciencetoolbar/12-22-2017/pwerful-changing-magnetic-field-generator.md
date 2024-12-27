@@ -7,6 +7,8 @@ path: /notes/sciencetoolbar/12-22-2017/pwerful-changing-magnetic-field-generator
 nid: 15421
 uid: 513114
 
+cids: 18009,18022,18026
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/574/original/neogymyum_magnets_spheres.jpg)

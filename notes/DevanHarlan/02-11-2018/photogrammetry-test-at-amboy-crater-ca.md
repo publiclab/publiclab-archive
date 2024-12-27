@@ -7,6 +7,8 @@ path: /notes/DevanHarlan/02-11-2018/photogrammetry-test-at-amboy-crater-ca.md
 nid: 15713
 uid: 524871
 
+cids: 18409,18410,18416,18418,18419,18420,18503,18505,18506,18522
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/529/original/IMG_1007.JPG)

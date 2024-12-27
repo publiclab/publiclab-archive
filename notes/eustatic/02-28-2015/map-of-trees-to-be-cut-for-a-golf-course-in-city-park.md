@@ -7,6 +7,8 @@ path: /02-28-2015/map-of-trees-to-be-cut-for-a-golf-course-in-city-park.md
 nid: 11645
 uid: 379
 
+cids: 11240,11241,11242,11244,11245,11246,11247,11249,11250,11279
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/128/original/17_live_oak_trees_to_be_cut_map_city_park.png)

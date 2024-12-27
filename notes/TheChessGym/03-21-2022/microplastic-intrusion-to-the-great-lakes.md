@@ -7,6 +7,8 @@ path: /notes/TheChessGym/03-21-2022/microplastic-intrusion-to-the-great-lakes.md
 nid: 30168
 uid: 788868
 
+cids: 29844
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/552/original/great-lakes.jpg)

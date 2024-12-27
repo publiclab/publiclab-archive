@@ -7,6 +7,8 @@ path: /notes/warren/6-5-2012/new-webcams-plots-video-spectrometer.md
 nid: 2349
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1472.JPG)

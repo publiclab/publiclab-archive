@@ -7,6 +7,8 @@ path: /notes/inyangasi4/10-30-2020/outreachy-proposal-public-lab-new-dashboard-i
 nid: 24881
 uid: 726717
 
+cids: 
+
 ---
 
 # [Outreachy Proposal] Public Lab New Dashboard Implementation Project.

@@ -7,6 +7,8 @@ path: /notes/shannon/8-2-2012/homemade-pole-photography-rig-0.md
 nid: 3098
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/J. Mehta 1.jpg)

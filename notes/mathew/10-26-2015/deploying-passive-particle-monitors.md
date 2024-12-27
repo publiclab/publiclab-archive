@@ -7,6 +7,8 @@ path: /notes/mathew/10-26-2015/deploying-passive-particle-monitors.md
 nid: 12337
 uid: 4
 
+cids: 12796,19325,19331,19339,19346
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/166/original/IMG_20151015_120027-trim.png)

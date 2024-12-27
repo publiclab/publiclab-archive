@@ -7,6 +7,8 @@ path: /notes/gkb/04-08-2017/data-collection-and-curation-questions.md
 nid: 14102
 uid: 505449
 
+cids: 
+
 ---
 
 # Data Collection and Curation Questions

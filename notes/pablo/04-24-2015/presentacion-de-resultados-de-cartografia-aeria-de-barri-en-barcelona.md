@@ -7,6 +7,8 @@ path: /notes/pablo/04-24-2015/presentacion-de-resultados-de-cartografia-aeria-de
 nid: 11769
 uid: 160
 
+cids: 11533
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/701/original/salvador-segui-map.jpg)

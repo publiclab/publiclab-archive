@@ -7,6 +7,8 @@ path: /notes/RoderickRead/07-05-2014/stabilise-a-lift-sled-kite.md
 nid: 10660
 uid: 421588
 
+cids: 9428,9430,9450
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/140/original/stabilised_lifter_arched_power_sled.png)

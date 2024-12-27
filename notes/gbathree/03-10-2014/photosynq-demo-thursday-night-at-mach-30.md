@@ -7,6 +7,8 @@ path: /notes/gbathree/03-10-2014/photosynq-demo-thursday-night-at-mach-30.md
 nid: 10149
 uid: 53164
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/191/original/beta_in_progres.jpg)

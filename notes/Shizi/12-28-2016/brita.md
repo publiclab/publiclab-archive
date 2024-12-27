@@ -7,6 +7,8 @@ path: /notes/Shizi/12-28-2016/brita.md
 nid: 13809
 uid: 475993
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/149/original/brita.png)

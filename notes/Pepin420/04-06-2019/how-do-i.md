@@ -7,6 +7,8 @@ path: /notes/Pepin420/04-06-2019/how-do-i.md
 nid: 18973
 uid: 582812
 
+cids: 27241
+
 ---
 
 # How do I...

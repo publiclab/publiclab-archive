@@ -7,6 +7,8 @@ path: /notes/hardeydoyeen1/10-31-2020/outreachy-proposal-new-dashboard-implement
 nid: 24889
 uid: 726106
 
+cids: 27744
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/443/original/26E7A077-877E-4BC0-A360-B6107C147694.png)

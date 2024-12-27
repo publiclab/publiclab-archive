@@ -7,6 +7,8 @@ path: /notes/sarasage/09-07-2017/do-harvey-response-organizations-need-tds-or-ai
 nid: 14848
 uid: 451398
 
+cids: 
+
 ---
 
 # Do Harvey response organizations need TDS or air monitoring equipment?

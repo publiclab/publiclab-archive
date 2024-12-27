@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-28-2012/finding-helium.md
 nid: 2666
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7207537300_928821ee09.jpg)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-1-2012/using-cameras-nir-have-no-nir-hotfilter.md
 nid: 1877
 uid: 12
 
+cids: 662,1378
+
 ---
 
 ![](https://publiclab.org/sites/default/files/images_0.jpeg)

@@ -7,6 +7,8 @@ path: /notes/warren/11-10-2012/brainstorming-scaffolding-grassroots-science-lear
 nid: 4863
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0011.JPG)

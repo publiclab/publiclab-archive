@@ -7,6 +7,8 @@ path: /notes/fongvania/06-11-2021/meet-vania-the-new-air-research-curation-fello
 nid: 26813
 uid: 754846
 
+cids: 28912,28914,28920,28926,28929,28930,28945,29027
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/167/original/Screenshot_2021-06-10_230639.png)

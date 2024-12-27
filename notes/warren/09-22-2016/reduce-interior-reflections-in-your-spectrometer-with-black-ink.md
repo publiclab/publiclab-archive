@@ -7,6 +7,8 @@ path: /notes/warren/09-22-2016/reduce-interior-reflections-in-your-spectrometer-
 nid: 13470
 uid: 1
 
+cids: 15475,15476,15482,15497,15866,15867
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/118/original/sumi-zoomed.jpg)

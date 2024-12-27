@@ -7,6 +7,8 @@ path: /notes/livingenaanasebh/11-03-2022/outreachy-proposal-improve-mapknitter-l
 nid: 36043
 uid: 816440
 
+cids: 30749,30753,30754,30759
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/267/original/IMG_20221103_001225.jpg)

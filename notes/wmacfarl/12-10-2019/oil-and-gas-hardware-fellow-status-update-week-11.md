@@ -7,6 +7,8 @@ path: /notes/wmacfarl/12-10-2019/oil-and-gas-hardware-fellow-status-update-week-
 nid: 21710
 uid: 424597
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/964/original/ph_sensors_both.jpg)

@@ -7,6 +7,8 @@ path: /notes/Albertazzi/03-14-2014/cheap-single-camera-system-for-ndvi-with-prof
 nid: 10180
 uid: 421089
 
+cids: 8503,8505,8606
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/251/original/canon_500d.jpg)

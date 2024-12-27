@@ -7,6 +7,8 @@ path: /notes/S_mboyi/04-16-2022/outreachy-proposal-re-design-of-the-infragram-la
 nid: 30434
 uid: 795348
 
+cids: 30065,30079
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/819/original/Android_Large_-_1.png)

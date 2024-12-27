@@ -7,6 +7,8 @@ path: /notes/stoft/05-14-2013/in-search-of-spectrometer-measurement-and-calibrat
 nid: 7507
 uid: 54025
 
+cids: 4705,4711,4722,4784,7945,12574
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/252/original/Proto2.jpg)

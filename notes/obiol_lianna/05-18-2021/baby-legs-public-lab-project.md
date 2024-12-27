@@ -7,6 +7,8 @@ path: /notes/obiol_lianna/05-18-2021/baby-legs-public-lab-project.md
 nid: 26632
 uid: 756670
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/839/original/IMG_0513.jpg)

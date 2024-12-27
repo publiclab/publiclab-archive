@@ -7,6 +7,8 @@ path: /notes/warren/06-12-2017/any-simple-ways-to-measure-wind-direction-from-a-
 nid: 14527
 uid: 1
 
+cids: 22990
+
 ---
 
 # Any simple ways to measure wind direction from a data logger?

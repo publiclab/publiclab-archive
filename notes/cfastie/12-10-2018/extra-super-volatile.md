@@ -7,6 +7,8 @@ path: /notes/cfastie/12-10-2018/extra-super-volatile.md
 nid: 17848
 uid: 554
 
+cids: 21554,21557
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/217/original/VOC3d_20181130-4304.JPG)

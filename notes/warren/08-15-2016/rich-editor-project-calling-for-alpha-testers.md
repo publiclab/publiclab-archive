@@ -7,6 +7,8 @@ path: /notes/warren/08-15-2016/rich-editor-project-calling-for-alpha-testers.md
 nid: 13353
 uid: 1
 
+cids: 15125,15135,15136,15138,15142
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/619/original/Screenshot_2016-08-15_at_4.55.19_PM.png)

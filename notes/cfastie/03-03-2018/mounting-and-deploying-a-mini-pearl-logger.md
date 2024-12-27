@@ -7,6 +7,8 @@ path: /notes/cfastie/03-03-2018/mounting-and-deploying-a-mini-pearl-logger.md
 nid: 15855
 uid: 554
 
+cids: 18794
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/792/original/miniPearl_20180226-2690.JPG)

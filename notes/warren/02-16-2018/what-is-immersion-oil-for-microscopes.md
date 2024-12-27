@@ -7,6 +7,8 @@ path: /notes/warren/02-16-2018/what-is-immersion-oil-for-microscopes.md
 nid: 15747
 uid: 1
 
+cids: 18451,18610,18611,18616,19599,19605,22927,22955,26149
+
 ---
 
 # What is "immersion oil" for microscopes?

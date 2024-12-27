@@ -7,6 +7,8 @@ path: /notes/cure828282/09-30-2021/grating-calibration.md
 nid: 27815
 uid: 731949
 
+cids: 29318
+
 ---
 
 # grating calibration

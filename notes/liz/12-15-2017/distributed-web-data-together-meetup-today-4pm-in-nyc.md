@@ -7,6 +7,8 @@ path: /notes/liz/12-15-2017/distributed-web-data-together-meetup-today-4pm-in-ny
 nid: 15377
 uid: 7
 
+cids: 17979
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/939/original/Screen_Shot_2017-12-15_at_12.05.34_PM.png)

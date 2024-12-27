@@ -7,6 +7,8 @@ path: /notes/rockets/11-05-2019/knowflow-will-have-a-nb-iot-version-one-in-few-w
 nid: 21393
 uid: 492583
 
+cids: 25810,25814,25815,25817,25822
+
 ---
 
 # KnowFlow will have a NB-IoT version one in few weeks

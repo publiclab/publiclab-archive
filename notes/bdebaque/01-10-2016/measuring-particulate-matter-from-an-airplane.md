@@ -7,6 +7,8 @@ path: /notes/bdebaque/01-10-2016/measuring-particulate-matter-from-an-airplane.m
 nid: 12574
 uid: 57052
 
+cids: 13316,13331,14039
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/595/original/w4science.jpg)

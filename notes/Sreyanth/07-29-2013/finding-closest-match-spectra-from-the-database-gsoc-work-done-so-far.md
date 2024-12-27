@@ -7,6 +7,8 @@ path: /notes/Sreyanth/07-29-2013/finding-closest-match-spectra-from-the-database
 nid: 8939
 uid: 96713
 
+cids: 6421
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/929/original/match_69.png)

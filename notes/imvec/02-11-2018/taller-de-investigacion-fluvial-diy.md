@@ -7,6 +7,8 @@ path: /notes/imvec/02-11-2018/taller-de-investigacion-fluvial-diy.md
 nid: 15715
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/548/original/Screenshot_from_2018-02-11_19-03-31.png)

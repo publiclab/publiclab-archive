@@ -7,6 +7,8 @@ path: /notes/pfhs/06-03-2018/how-long-does-an-inflated-neoprene-balloon-last-myl
 nid: 16426
 uid: 442023
 
+cids: 19749,19750,23107
+
 ---
 
 # How long does an inflated neoprene balloon last? Mylar balloons better for summer camp?

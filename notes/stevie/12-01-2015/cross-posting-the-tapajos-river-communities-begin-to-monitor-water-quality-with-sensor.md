@@ -7,6 +7,8 @@ path: /notes/stevie/12-01-2015/cross-posting-the-tapajos-river-communities-begin
 nid: 12467
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/112/original/DSC_0788-e1448393832236.jpg)

@@ -7,6 +7,8 @@ path: /notes/Mempet/09-04-2017/natural-disinfectant.md
 nid: 14828
 uid: 513742
 
+cids: 17314,22577
+
 ---
 
 # Natural Disinfectant

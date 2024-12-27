@@ -7,6 +7,8 @@ path: /notes/wward1400/06-14-2013/infragram-tidepooling.md
 nid: 8196
 uid: 46742
 
+cids: 5262,5270,5275,5277,5288
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/503/original/OdiorneSSC_ir.JPG)

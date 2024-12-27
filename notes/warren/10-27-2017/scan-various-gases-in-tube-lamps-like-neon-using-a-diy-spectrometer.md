@@ -7,6 +7,8 @@ path: /notes/warren/10-27-2017/scan-various-gases-in-tube-lamps-like-neon-using-
 nid: 15121
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/121/original/Edelgase_in_Entladungsroehren.jpg)

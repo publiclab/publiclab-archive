@@ -7,6 +7,8 @@ path: /notes/jeff/3-25-2013/uncovering-historic-stream-flowing-gowanus-canal-0.m
 nid: 6525
 uid: 54526
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2013_03_11_13_19_24_BUOY01_B.png)

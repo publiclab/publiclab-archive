@@ -7,6 +7,8 @@ path: /notes/cfastie/05-21-2015/ifarm-2015-report.md
 nid: 11825
 uid: 554
 
+cids: 11717,11718,11747,11748
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/933/original/iFarm2015-621-30.jpg)

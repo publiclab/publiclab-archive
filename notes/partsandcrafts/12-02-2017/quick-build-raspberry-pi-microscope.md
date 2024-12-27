@@ -7,6 +7,8 @@ path: /notes/partsandcrafts/12-02-2017/quick-build-raspberry-pi-microscope.md
 nid: 15285
 uid: 66014
 
+cids: 17867,17877,17920,17927,17930,17931,17932,18242,18244,18299,18300,18301,18302
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/698/original/removing_lens.jpg)

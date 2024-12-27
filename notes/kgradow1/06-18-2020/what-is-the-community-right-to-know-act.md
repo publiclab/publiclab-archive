@@ -7,6 +7,8 @@ path: /notes/kgradow1/06-18-2020/what-is-the-community-right-to-know-act.md
 nid: 23874
 uid: 297929
 
+cids: 27148,30996,30997,31022,31116
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/817/original/Screen_Shot_2020-06-17_at_8.33.19_PM.png)

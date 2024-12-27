@@ -7,6 +7,8 @@ path: /notes/silentsairam/01-07-2020/sensoring-citizenship.md
 nid: 22231
 uid: 553044
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/464/original/I2.jpg)

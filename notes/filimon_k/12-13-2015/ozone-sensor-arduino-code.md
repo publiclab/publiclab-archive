@@ -7,6 +7,8 @@ path: /notes/filimon_k/12-13-2015/ozone-sensor-arduino-code.md
 nid: 12508
 uid: 460113
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/296/original/WP_20151213_001.jpg)

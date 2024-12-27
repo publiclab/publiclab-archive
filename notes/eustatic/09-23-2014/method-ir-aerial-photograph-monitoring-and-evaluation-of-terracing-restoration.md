@@ -7,6 +7,8 @@ path: /09-23-2014/method-ir-aerial-photograph-monitoring-and-evaluation-of-terra
 nid: 11175
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/974/original/old_terracing_projects_CIR_analysis_2010.png)

@@ -7,6 +7,8 @@ path: /notes/carllipo/09-05-2013/modifying-a-mobius-actioncam-for-near-ir-photos
 nid: 9293
 uid: 170171
 
+cids: 8541,8542,8545,8556,8562
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/408/original/mobius.jpg)

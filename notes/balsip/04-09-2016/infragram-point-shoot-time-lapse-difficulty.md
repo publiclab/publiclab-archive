@@ -7,6 +7,8 @@ path: /notes/balsip/04-09-2016/infragram-point-shoot-time-lapse-difficulty.md
 nid: 12947
 uid: 422670
 
+cids: 14171,14174,14229
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/432/original/IMG_5069.jpg)

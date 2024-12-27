@@ -7,6 +7,8 @@ path: /notes/stevie/11-30-2021/is-there-an-easy-way-app-to-find-my-elevation-abo
 nid: 28317
 uid: 422561
 
+cids: 29476,29479,29480
+
 ---
 
 # Is there an easy way (app?) to find my elevation above sea level?

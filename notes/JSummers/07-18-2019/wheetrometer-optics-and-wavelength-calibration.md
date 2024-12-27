@@ -7,6 +7,8 @@ path: /notes/JSummers/07-18-2019/wheetrometer-optics-and-wavelength-calibration.
 nid: 20183
 uid: 304279
 
+cids: 25228,29288
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/850/original/3DPrintedWheetrometer07-18-2016.png)

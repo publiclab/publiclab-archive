@@ -7,6 +7,8 @@ path: /notes/latrecejohnson59/07-01-2020/coal-ash-you-dig.md
 nid: 24080
 uid: 703047
 
+cids: 27562
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/051/original/12615735424_11e92db467_b.jpg)

@@ -7,6 +7,8 @@ path: /notes/Barabba33/09-16-2016/don-t-know-how-to-use-diy-plant-analysis-webca
 nid: 13452
 uid: 491796
 
+cids: 15403,15429
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/054/original/help.png)

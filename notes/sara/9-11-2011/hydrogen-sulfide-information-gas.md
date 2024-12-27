@@ -7,6 +7,8 @@ path: /notes/sara/9-11-2011/hydrogen-sulfide-information-gas.md
 nid: 460
 uid: 8
 
+cids: 
+
 ---
 
 # Hydrogen Sulfide Information on the Gas

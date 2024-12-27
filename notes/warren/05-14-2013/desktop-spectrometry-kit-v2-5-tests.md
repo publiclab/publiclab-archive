@@ -7,6 +7,8 @@ path: /notes/warren/05-14-2013/desktop-spectrometry-kit-v2-5-tests.md
 nid: 7553
 uid: 1
 
+cids: 4997
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/273/original/IMG_0518.JPG)

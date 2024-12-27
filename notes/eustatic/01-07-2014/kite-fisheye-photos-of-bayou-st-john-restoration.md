@@ -7,6 +7,8 @@ path: /01-07-2014/kite-fisheye-photos-of-bayou-st-john-restoration.md
 nid: 9928
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/492/original/11764793925_d6688c4fba_c_1_.jpg)

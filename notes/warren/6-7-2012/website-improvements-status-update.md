@@ -7,6 +7,8 @@ path: /notes/warren/6-7-2012/website-improvements-status-update.md
 nid: 2393
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/MockupforSubscriptionWidget.png)

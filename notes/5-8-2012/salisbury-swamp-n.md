@@ -7,6 +7,8 @@ path: /notes/5-8-2012/salisbury-swamp-n.md
 nid: 2094
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/SwampVIS-20120505-151-163_medium_5.jpg)

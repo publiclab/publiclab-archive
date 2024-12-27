@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/06-21-2021/charla-comunitaria-sobre-investigacion-en
 nid: 26870
 uid: 639376
 
+cids: 28952,28953,28957,28959,28962,28964,28965,28968,28969,28972
+
 ---
 
 # Charla comunitaria sobre investigación en agua

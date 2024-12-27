@@ -7,6 +7,8 @@ path: /notes/JSAENZ/07-10-2017/use-or-calibrate-calibration-dont-show-my-referen
 nid: 14638
 uid: 510701
 
+cids: 17054
+
 ---
 
 # "Use or calibrate calibration" dont show my reference CFL already calibrated

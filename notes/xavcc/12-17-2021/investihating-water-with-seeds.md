@@ -7,6 +7,8 @@ path: /notes/xavcc/12-17-2021/investihating-water-with-seeds.md
 nid: 28507
 uid: 630823
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/249/original/63cb0f05f4e8a119.png)

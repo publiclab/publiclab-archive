@@ -7,6 +7,8 @@ path: /notes/donblair/04-11-2014/comparisons-canons-mobiuses-fruit.md
 nid: 10298
 uid: 43651
 
+cids: 8737,8762
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/623/original/comparison.png)

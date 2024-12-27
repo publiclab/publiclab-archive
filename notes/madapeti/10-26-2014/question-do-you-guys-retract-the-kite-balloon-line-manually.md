@@ -7,6 +7,8 @@ path: /notes/madapeti/10-26-2014/question-do-you-guys-retract-the-kite-balloon-l
 nid: 11301
 uid: 430465
 
+cids: 10625,10627,10628,10634,10641,22551,22574
+
 ---
 
 # Question: Do you guys retract the kite / balloon line manually?

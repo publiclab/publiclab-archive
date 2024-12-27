@@ -7,6 +7,8 @@ path: /notes/stevie/07-13-2018/what-is-a-good-way-to-track-vehicular-traffic.md
 nid: 16712
 uid: 422561
 
+cids: 20106,20107,20110,20248,20272,23180,23181,23183,26638,26654
+
 ---
 
 # What is a good way to track vehicular traffic?

@@ -7,6 +7,8 @@ path: /notes/nathanathan/10-27-2018/scanning-full-spectrum-images-via-smart-phon
 nid: 17413
 uid: 365600
 
+cids: 21020,21021
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/321/original/tempsnip.png)

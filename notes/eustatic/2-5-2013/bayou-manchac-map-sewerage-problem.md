@@ -7,6 +7,8 @@ path: /2-5-2013/bayou-manchac-map-sewerage-problem.md
 nid: 5893
 uid: 379
 
+cids: 3341,13357,13424
+
 ---
 
 ![](https://publiclab.org/sites/default/files/bayou manchac sewer outful.jpg)

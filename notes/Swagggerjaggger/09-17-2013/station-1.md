@@ -7,6 +7,8 @@ path: /notes/Swagggerjaggger/09-17-2013/station-1.md
 nid: 9339
 uid: 258401
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/589/original/image.jpg)

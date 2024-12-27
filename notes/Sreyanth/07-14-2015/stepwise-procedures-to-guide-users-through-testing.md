@@ -7,6 +7,8 @@ path: /notes/Sreyanth/07-14-2015/stepwise-procedures-to-guide-users-through-test
 nid: 12062
 uid: 96713
 
+cids: 12195,12196,12199,12246,12247,12248,12249,12250,12251,12252,12262,12263,12264,12266,12267,12268
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/681/original/MainImage.png)

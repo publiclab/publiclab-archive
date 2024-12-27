@@ -7,6 +7,8 @@ path: /notes/Shannon/06-23-2015/public-laboratory-for-open-technology-and-scienc
 nid: 11998
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/415/original/plots-logo-transparent.jpg)

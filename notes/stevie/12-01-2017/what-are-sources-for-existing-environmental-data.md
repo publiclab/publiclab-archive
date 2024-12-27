@@ -7,6 +7,8 @@ path: /notes/stevie/12-01-2017/what-are-sources-for-existing-environmental-data.
 nid: 15284
 uid: 422561
 
+cids: 17857,22809
+
 ---
 
 # What are sources for existing environmental data? 

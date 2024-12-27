@@ -7,6 +7,8 @@ path: /notes/shannon/11-7-2011/npr-series-toxic-places.md
 nid: 546
 uid: 9
 
+cids: 
+
 ---
 
 # NPR Series on Toxic Places

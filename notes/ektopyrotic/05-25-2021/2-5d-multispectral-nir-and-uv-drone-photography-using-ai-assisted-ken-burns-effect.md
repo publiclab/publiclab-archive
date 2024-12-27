@@ -7,6 +7,8 @@ path: /notes/ektopyrotic/05-25-2021/2-5d-multispectral-nir-and-uv-drone-photogra
 nid: 26703
 uid: 699450
 
+cids: 28931,28935
+
 ---
 
 # 2.5D Multispectral (NIR and UV) Drone Photography Using AI-Assisted Ken Burns Effect

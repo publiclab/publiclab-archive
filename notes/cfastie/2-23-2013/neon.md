@@ -7,6 +7,8 @@ path: /notes/cfastie/2-23-2013/neon.md
 nid: 6105
 uid: 554
 
+cids: 3535
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Shin-2.jpg)

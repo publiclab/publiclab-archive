@@ -7,6 +7,8 @@ path: /notes/bhamster/02-10-2022/is-there-federal-level-recourse-that-communitie
 nid: 30019
 uid: 664477
 
+cids: 29860
+
 ---
 
 # Is there federal-level recourse that communities can take when mine reclamation is not being done properly?

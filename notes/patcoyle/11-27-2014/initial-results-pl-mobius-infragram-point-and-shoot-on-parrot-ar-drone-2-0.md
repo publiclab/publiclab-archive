@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-27-2014/initial-results-pl-mobius-infragram-point-and-s
 nid: 11413
 uid: 77
 
+cids: 10867,10869,10873,10874,10875,10876
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/144/original/ARParrot_w_Mobius_wo_image_crpd.jpg)

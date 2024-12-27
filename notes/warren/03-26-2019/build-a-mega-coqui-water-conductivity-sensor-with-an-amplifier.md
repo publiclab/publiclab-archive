@@ -7,6 +7,8 @@ path: /notes/warren/03-26-2019/build-a-mega-coqui-water-conductivity-sensor-with
 nid: 18868
 uid: 1
 
+cids: 23461,23545
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/548/original/IMG_20190322_185608_063_copy.jpg)

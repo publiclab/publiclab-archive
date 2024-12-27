@@ -7,6 +7,8 @@ path: /notes/anan12/07-05-2019/my-journey-to-getting-selected-and-first-few-week
 nid: 20009
 uid: 577881
 
+cids: 25077
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/526/original/image.jpeg)

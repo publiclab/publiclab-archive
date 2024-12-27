@@ -7,6 +7,8 @@ path: /notes/lit2017001/04-01-2019/soc-proposal-image-sequencer-v3-boosting-the-
 nid: 18931
 uid: 577890
 
+cids: 23669,23670,23672,23693,23722,23723,23770
+
 ---
 
 # SoC proposal: Image-Sequencer v3: Boosting the performance and adding demonstration based on colorimetry

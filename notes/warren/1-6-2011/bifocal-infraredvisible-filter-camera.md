@@ -7,6 +7,8 @@ path: /notes/warren/1-6-2011/bifocal-infraredvisible-filter-camera.md
 nid: 40
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSCN1703.JPG)

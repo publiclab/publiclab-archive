@@ -7,6 +7,8 @@ path: /notes/PeterDavidowicz/07-15-2013/spectrometer-curriculum.md
 nid: 8885
 uid: 169614
 
+cids: 6650
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/802/original/Spectral-Challenge.jpeg)

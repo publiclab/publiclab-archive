@@ -7,6 +7,8 @@ path: /notes/cfastie/07-10-2013/aspen-leaf-miner.md
 nid: 8789
 uid: 554
 
+cids: 6246,6313
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/717/original/AspenMiner1500.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/01-09-2019/call-for-summer-of-code-2019-mentors.md
 nid: 18090
 uid: 1
 
+cids: 21686,21689,21732,21744,21747,21895,21960,21963,22022,22046,22047,22074,22100,22101,22197,23533,23549,23705,23807,23808,23942,23954,23960,24096,24097,24098
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/675/original/image.png)

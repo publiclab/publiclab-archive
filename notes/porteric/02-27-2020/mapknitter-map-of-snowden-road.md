@@ -7,6 +7,8 @@ path: /notes/porteric/02-27-2020/mapknitter-map-of-snowden-road.md
 nid: 22947
 uid: 668997
 
+cids: 
+
 ---
 
 # MapKnitter map of Snowden Road

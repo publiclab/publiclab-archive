@@ -7,6 +7,8 @@ path: /notes/Bronwen/03-04-2019/diy-salinity-measurements-with-coqui-and-or-mult
 nid: 18462
 uid: 237313
 
+cids: 22049,22050,23323
+
 ---
 
 # DIY Salinity Measurements with Coqui and/or Multimeter?

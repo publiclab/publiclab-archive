@@ -7,6 +7,8 @@ path: /notes/ggallant/05-18-2016/riffle-first-experience.md
 nid: 13123
 uid: 427373
 
+cids: 14641,14646,14648,14652,14656,14658,14660,14705,14707,14709,14714,14799,14804
+
 ---
 
 # Riffle first experience

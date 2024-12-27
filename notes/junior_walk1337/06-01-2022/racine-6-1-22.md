@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/06-01-2022/racine-6-1-22.md
 nid: 31004
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/717/original/racine.jpg)

@@ -7,6 +7,8 @@ path: /notes/fliperbaker/10-06-2014/ndvi-with-red-filters.md
 nid: 11240
 uid: 421358
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/322/original/IMG_1885.JPG)

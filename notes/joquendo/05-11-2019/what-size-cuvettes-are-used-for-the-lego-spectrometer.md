@@ -7,6 +7,8 @@ path: /notes/joquendo/05-11-2019/what-size-cuvettes-are-used-for-the-lego-spectr
 nid: 19295
 uid: 589024
 
+cids: 24131,24132,24133,24134,24135,24137
+
 ---
 
 # What size cuvettes are used for the lego spectrometer?

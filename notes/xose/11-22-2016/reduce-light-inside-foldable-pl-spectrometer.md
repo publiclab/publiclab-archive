@@ -7,6 +7,8 @@ path: /notes/xose/11-22-2016/reduce-light-inside-foldable-pl-spectrometer.md
 nid: 13722
 uid: 497123
 
+cids: 15870,15872,15897,16063,16068,16069,16070
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/880/original/2016-11-22_19.48.08.png)

@@ -7,6 +7,8 @@ path: /notes/denim_stcyr/05-01-2021/what-factors-air-quality.md
 nid: 26438
 uid: 753882
 
+cids: 28681,28722
+
 ---
 
 # What factors air quality?

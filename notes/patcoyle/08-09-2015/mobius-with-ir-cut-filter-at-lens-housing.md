@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-09-2015/mobius-with-ir-cut-filter-at-lens-housing.md
 nid: 12126
 uid: 77
 
+cids: 12364,12504
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/063/original/IMG_6316.JPG)

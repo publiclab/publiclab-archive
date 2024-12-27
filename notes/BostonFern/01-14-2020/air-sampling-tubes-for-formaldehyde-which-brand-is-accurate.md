@@ -7,6 +7,8 @@ path: /notes/BostonFern/01-14-2020/air-sampling-tubes-for-formaldehyde-which-bra
 nid: 22309
 uid: 643525
 
+cids: 26157
+
 ---
 
 # Air sampling tubes for formaldehyde: which brand is accurate?

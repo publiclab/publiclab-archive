@@ -7,6 +7,8 @@ path: /notes/warren/9-19-2011/battlement-mesa-concerned-citizens-bucket-brigade.
 nid: 471
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/battlement-mesa-bucket-brigade.jpg)

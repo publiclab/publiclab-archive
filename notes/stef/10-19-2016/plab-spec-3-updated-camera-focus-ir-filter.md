@@ -7,6 +7,8 @@ path: /notes/stef/10-19-2016/plab-spec-3-updated-camera-focus-ir-filter.md
 nid: 13599
 uid: 482758
 
+cids: 15668,15676,15677,15678,15690,15725,15733
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/444/original/IMGP1572.JPG)

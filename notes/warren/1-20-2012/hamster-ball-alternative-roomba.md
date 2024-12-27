@@ -7,6 +7,8 @@ path: /notes/warren/1-20-2012/hamster-ball-alternative-roomba.md
 nid: 710
 uid: 1
 
+cids: 413,415,416,417,437
+
 ---
 
 ![](https://publiclab.org/sites/default/files/hamster-ball.jpg)

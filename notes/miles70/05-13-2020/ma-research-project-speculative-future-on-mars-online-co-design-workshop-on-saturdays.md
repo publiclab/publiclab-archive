@@ -7,6 +7,8 @@ path: /notes/miles70/05-13-2020/ma-research-project-speculative-future-on-mars-o
 nid: 23623
 uid: 693225
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/383/original/Mars_Colony_by_Mauricio_Pampin.jpg)

@@ -7,6 +7,8 @@ path: /notes/partsandcrafts/12-03-2017/setting-up-the-raspberry-pi-camera-for-wi
 nid: 15289
 uid: 66014
 
+cids: 17865,17891,17948,17949,17962,18776,19459
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/756/original/seeing_stuff.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/11-15-2013/introducing-the-public-lab-smartphone-spectromete
 nid: 9786
 uid: 1
 
+cids: 7948,7980,14092,14193
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/238/original/IMG_0372.JPG)

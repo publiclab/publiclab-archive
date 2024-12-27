@@ -7,6 +7,8 @@ path: /notes/liz/11-15-2019/do-you-have-experience-using-a-gas-chromatograph.md
 nid: 21495
 uid: 7
 
+cids: 25858,26092,26118
+
 ---
 
 # Do you have experience using a gas chromatograph?

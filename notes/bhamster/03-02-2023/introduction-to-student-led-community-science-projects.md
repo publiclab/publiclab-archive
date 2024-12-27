@@ -7,6 +7,8 @@ path: /notes/bhamster/03-02-2023/introduction-to-student-led-community-science-p
 nid: 38731
 uid: 664477
 
+cids: 30873
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/449/original/CSF_18_drawings.png)

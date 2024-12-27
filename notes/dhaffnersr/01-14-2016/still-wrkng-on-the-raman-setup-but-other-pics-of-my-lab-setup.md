@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/01-14-2016/still-wrkng-on-the-raman-setup-but-other-pics
 nid: 12584
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/628/original/oct14.jpg)

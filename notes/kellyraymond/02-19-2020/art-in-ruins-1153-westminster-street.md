@@ -7,6 +7,8 @@ path: /notes/kellyraymond/02-19-2020/art-in-ruins-1153-westminster-street.md
 nid: 22863
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (1153 Westminster Street)

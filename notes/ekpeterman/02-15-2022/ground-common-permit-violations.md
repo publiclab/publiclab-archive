@@ -7,6 +7,8 @@ path: /notes/ekpeterman/02-15-2022/ground-common-permit-violations.md
 nid: 30028
 uid: 641166
 
+cids: 29655
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/443/original/mr4-4-18.00_03_04_19.Still004.jpg)

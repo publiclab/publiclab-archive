@@ -7,6 +7,8 @@ path: /notes/mathew/03-14-2014/oil-fluorescence-testing-station-from-a-spectrome
 nid: 10170
 uid: 4
 
+cids: 8504,8525,9365
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/241/original/IMG_0902.JPG)

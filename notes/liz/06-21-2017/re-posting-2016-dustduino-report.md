@@ -7,6 +7,8 @@ path: /notes/liz/06-21-2017/re-posting-2016-dustduino-report.md
 nid: 14564
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/837/original/Screen_Shot_2017-06-21_at_2.44.45_PM.png)

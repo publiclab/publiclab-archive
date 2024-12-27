@@ -7,6 +7,8 @@ path: /notes/asasergio/01-24-2016/what-size-width-and-height-of-the-image-to-ver
 nid: 12607
 uid: 462036
 
+cids: 13385,13391,13395,13396
+
 ---
 
 # What size (width and height) of the image to vertical upload (blue top) in SpectralWorkbench?

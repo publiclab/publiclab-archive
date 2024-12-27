@@ -7,6 +7,8 @@ path: /notes/Zengirl2/03-22-2018/how-to-get-excited-about-climate-change-prep-cl
 nid: 16009
 uid: 423961
 
+cids: 19125
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/156/original/GameofFloods.JPG)

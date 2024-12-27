@@ -7,6 +7,8 @@ path: /notes/JessJayneBaugh/01-31-2017/mapknitter-map-of-oswiecim-jewish-cemeter
 nid: 13892
 uid: 501759
 
+cids: 
+
 ---
 
 # MapKnitter map of Oswiecim Jewish Cemetery 

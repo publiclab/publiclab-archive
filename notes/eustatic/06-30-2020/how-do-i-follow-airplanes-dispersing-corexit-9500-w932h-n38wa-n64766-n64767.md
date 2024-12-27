@@ -7,6 +7,8 @@ path: /06-30-2020/how-do-i-follow-airplanes-dispersing-corexit-9500-w932h-n38wa-
 nid: 24073
 uid: 379
 
+cids: 27077,27079,27080,27091,27092,27099,27119,27124
+
 ---
 
 # How do I follow airplanes dispersing Corexit 9500? N932H N38WA N64766 N64767

@@ -7,6 +7,8 @@ path: /notes/kh_machine/06-12-2015/two-ways-around-a-faster-more-precise-thermis
 nid: 11977
 uid: 443618
 
+cids: 12100
+
 ---
 
 # Two Ways Around a Faster, More Precise Thermister

@@ -7,6 +7,8 @@ path: /notes/Detector/10-26-2021/always-blank-black-spectrum.md
 nid: 27963
 uid: 776815
 
+cids: 29370
+
 ---
 
 # Always blank, black spectrum

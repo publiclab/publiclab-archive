@@ -7,6 +7,8 @@ path: /notes/ddileona/03-17-2015/spring-fling-building-a-better-pole-for-mapping
 nid: 11682
 uid: 436738
 
+cids: 11345,11352,28691
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/283/original/photo-ing.jpg)

@@ -7,6 +7,8 @@ path: /notes/pietervanboheemen/04-24-2019/how-do-i-get-the-usb-camera-to-work-on
 nid: 19156
 uid: 435408
 
+cids: 23982
+
 ---
 
 # How do I get the USB camera to work on an Android phone

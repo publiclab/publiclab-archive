@@ -7,6 +7,8 @@ path: /4-3-2013/kite-map-mouth-bayou-st-john.md
 nid: 6665
 uid: 379
 
+cids: 8014,8015
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1571 oblique nola.JPG)

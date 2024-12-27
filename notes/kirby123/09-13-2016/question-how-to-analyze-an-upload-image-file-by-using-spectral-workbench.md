@@ -7,6 +7,8 @@ path: /notes/kirby123/09-13-2016/question-how-to-analyze-an-upload-image-file-by
 nid: 13446
 uid: 490406
 
+cids: 17607,22281
+
 ---
 
 # Question: How to analyze an upload image file by using Spectral Workbench ?

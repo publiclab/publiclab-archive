@@ -7,6 +7,8 @@ path: /notes/danbeavers/4-11-2013/exxon-pipeline-mayflower-arkansas-oil-spill.md
 nid: 6767
 uid: 51
 
+cids: 4390,4391,4392,4430
+
 ---
 
 ![](https://publiclab.org/sites/default/files/epaosc.jpg)

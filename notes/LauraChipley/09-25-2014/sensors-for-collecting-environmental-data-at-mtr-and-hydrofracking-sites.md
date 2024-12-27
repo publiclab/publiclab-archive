@@ -7,6 +7,8 @@ path: /notes/LauraChipley/09-25-2014/sensors-for-collecting-environmental-data-a
 nid: 11187
 uid: 428957
 
+cids: 10437,10444,10964,15350
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/015/original/runoff.jpg)

@@ -7,6 +7,8 @@ path: /notes/mimiss/06-03-2019/workshop-vi-how-can-an-environmental-study-effect
 nid: 19433
 uid: 579821
 
+cids: 28346
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/294/original/NAS_Community_Science_in_the_Classroom_Overview.png)

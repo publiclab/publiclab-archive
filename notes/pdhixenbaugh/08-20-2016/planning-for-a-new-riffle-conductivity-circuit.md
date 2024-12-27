@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/08-20-2016/planning-for-a-new-riffle-conductivity-circ
 nid: 13374
 uid: 459085
 
+cids: 15210,16681,16696,16789,16790
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/705/original/images.jpg)

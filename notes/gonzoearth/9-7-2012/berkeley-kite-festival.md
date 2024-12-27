@@ -7,6 +7,8 @@ path: /notes/gonzoearth/9-7-2012/berkeley-kite-festival.md
 nid: 3682
 uid: 12
 
+cids: 1280,1281
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1644.JPG)

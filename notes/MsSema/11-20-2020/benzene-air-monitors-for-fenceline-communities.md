@@ -7,6 +7,8 @@ path: /notes/MsSema/11-20-2020/benzene-air-monitors-for-fenceline-communities.md
 nid: 25090
 uid: 727001
 
+cids: 27698,27733,27742,27747
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/790/original/ITC_Deer_Park.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/10-25-2011/using-colorcontrast-enhancement-see-water-aerial-
 nid: 518
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_7316-enhanced.jpg)

@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-15-2016/thinking-about-a-more-stable-spectrometer.md
 nid: 12986
 uid: 468990
 
+cids: 14269,14271,14273,14275,14276,14288,14291,14293,14296,14297,14298,14299,14300,14419,14420,15454,15455
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/564/original/more_stable_spectrometer_plan_header.jpg)

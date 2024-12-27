@@ -7,6 +7,8 @@ path: /notes/bhickman/05-09-2016/conductivity-and-temperature-meter.md
 nid: 13091
 uid: 201929
 
+cids: 14617,14630,14637,14647,14662,15295,15332,15333,16791,16807,27075,27867,31359
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/031/original/image001.jpg)

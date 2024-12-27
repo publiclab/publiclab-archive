@@ -7,6 +7,8 @@ path: /notes/stevie/06-30-2017/is-it-important-to-account-for-humidity-using-opt
 nid: 14594
 uid: 422561
 
+cids: 16963,16964,16984,16991,22510,22511
+
 ---
 
 # Is it important to account for humidity using optical particulate matter monitors? 

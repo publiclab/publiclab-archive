@@ -7,6 +7,8 @@ path: /notes/warren/04-10-2014/mobius-action-cam-infragram-tests.md
 nid: 10291
 uid: 1
 
+cids: 8723,8724,8725,8727,8752
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/602/original/Screen_Shot_2014-04-10_at_11.45.44_AM.png)

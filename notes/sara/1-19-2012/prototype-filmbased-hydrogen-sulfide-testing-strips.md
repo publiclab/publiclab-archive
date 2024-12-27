@@ -7,6 +7,8 @@ path: /notes/sara/1-19-2012/prototype-filmbased-hydrogen-sulfide-testing-strips.
 nid: 708
 uid: 8
 
+cids: 410,411,422
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 3.png)

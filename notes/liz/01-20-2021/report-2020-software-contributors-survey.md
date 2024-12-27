@@ -7,6 +7,8 @@ path: /notes/liz/01-20-2021/report-2020-software-contributors-survey.md
 nid: 23484
 uid: 7
 
+cids: 27982,28219,28239
+
 ---
 
 # Report: 2020 Software Contributors Survey

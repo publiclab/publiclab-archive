@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-08-2014/wratten-25-and-ndvi-a1200-imagery-from-terravio
 nid: 11024
 uid: 77
 
+cids: 9846,9848
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/148/original/both_rtd_crpd.jpg)

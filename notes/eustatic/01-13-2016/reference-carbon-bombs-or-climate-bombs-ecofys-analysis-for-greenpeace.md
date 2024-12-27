@@ -7,6 +7,8 @@ path: /01-13-2016/reference-carbon-bombs-or-climate-bombs-ecofys-analysis-for-gr
 nid: 12580
 uid: 379
 
+cids: 13323,13776
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/622/original/Carbon-bombs-map-001.jpg)

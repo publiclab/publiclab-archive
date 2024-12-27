@@ -7,6 +7,8 @@ path: /notes/warren/04-18-2013/screening-of-short-film-on-public-l.md
 nid: 6894
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/081/original/logo_blue.gif)

@@ -7,6 +7,8 @@ path: /notes/warren/06-02-2013/ndvi-difficulties-with-infrablue-filter.md
 nid: 8018
 uid: 1
 
+cids: 4911,4912,4913,4919
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/463/original/IMG_1222.JPG)

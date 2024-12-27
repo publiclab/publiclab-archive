@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/04-10-2014/mapping-urban-biosphere-in-jerusalem.md
 nid: 10289
 uid: 152
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/585/original/20131201_114211.jpg)

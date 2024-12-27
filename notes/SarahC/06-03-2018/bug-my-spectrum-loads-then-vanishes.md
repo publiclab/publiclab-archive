@@ -7,6 +7,8 @@ path: /notes/SarahC/06-03-2018/bug-my-spectrum-loads-then-vanishes.md
 nid: 16425
 uid: 448894
 
+cids: 19773,23108
+
 ---
 
 # Bug? My Spectrum loads then vanishes.

@@ -7,6 +7,8 @@ path: /notes/cjtiaan/03-14-2016/question-how-to-i-convert-the-spectrum-from-the-
 nid: 12843
 uid: 468739
 
+cids: 13916,13917,13919,13959,13969
+
 ---
 
 # Question:  How to I convert the spectrum from the webcam to a spectral power density graph.

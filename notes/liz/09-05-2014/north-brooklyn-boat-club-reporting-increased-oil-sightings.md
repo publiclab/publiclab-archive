@@ -7,6 +7,8 @@ path: /notes/liz/09-05-2014/north-brooklyn-boat-club-reporting-increased-oil-sig
 nid: 11106
 uid: 7
 
+cids: 10201,10254
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/613/original/Screen_Shot_2014-09-05_at_11.17.44_AM.png)

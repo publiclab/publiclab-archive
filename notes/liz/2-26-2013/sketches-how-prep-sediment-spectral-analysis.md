@@ -7,6 +7,8 @@ path: /notes/liz/2-26-2013/sketches-how-prep-sediment-spectral-analysis.md
 nid: 6125
 uid: 7
 
+cids: 3561,3562
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130226_101133.jpg)

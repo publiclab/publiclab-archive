@@ -7,6 +7,8 @@ path: /notes/jarrarte/08-06-2014/overexposure-using-yuv-format-and-manual-exposu
 nid: 11018
 uid: 425714
 
+cids: 9808
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/083/original/thumb.jpg)

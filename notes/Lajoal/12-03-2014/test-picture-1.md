@@ -7,6 +7,8 @@ path: /notes/Lajoal/12-03-2014/test-picture-1.md
 nid: 11427
 uid: 432272
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/230/original/CAM00378.jpg)

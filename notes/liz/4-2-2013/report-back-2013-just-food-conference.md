@@ -7,6 +7,8 @@ path: /notes/liz/4-2-2013/report-back-2013-just-food-conference.md
 nid: 6651
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/justfood_logo.gif)

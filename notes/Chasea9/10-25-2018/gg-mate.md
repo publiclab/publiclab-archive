@@ -7,6 +7,8 @@ path: /notes/Chasea9/10-25-2018/gg-mate.md
 nid: 17393
 uid: 556444
 
+cids: 21753
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/253/original/260C340F-4D0B-45AB-9860-1DA816ED8BD4.jpeg)

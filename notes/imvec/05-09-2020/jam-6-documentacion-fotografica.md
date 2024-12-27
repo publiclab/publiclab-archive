@@ -7,6 +7,8 @@ path: /notes/imvec/05-09-2020/jam-6-documentacion-fotografica.md
 nid: 23586
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/324/original/docfoto.jpeg)

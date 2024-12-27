@@ -7,6 +7,8 @@ path: /notes/warren/06-06-2017/what-kinds-of-toxins-can-be-filtered-by-plants-an
 nid: 14506
 uid: 1
 
+cids: 17480,17481,22644
+
 ---
 
 # What kinds of toxins can be filtered by plants, and how do we know?

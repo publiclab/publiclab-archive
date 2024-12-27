@@ -7,6 +7,8 @@ path: /notes/sr71luis/10-08-2021/street-lights.md
 nid: 27838
 uid: 774888
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/897/original/DJI_0693.JPG)

@@ -7,6 +7,8 @@ path: /notes/purl/01-28-2021/messages-from-the-mississippi-lesson-3-analyzing-da
 nid: 25564
 uid: 736598
 
+cids: 28066
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/825/original/EPA_flow_chart.png)

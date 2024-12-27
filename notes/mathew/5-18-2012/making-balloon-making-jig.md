@@ -7,6 +7,8 @@ path: /notes/mathew/5-18-2012/making-balloon-making-jig.md
 nid: 2135
 uid: 4
 
+cids: 761,771
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Foilballoon03.09.JPG)

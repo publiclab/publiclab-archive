@@ -7,6 +7,8 @@ path: /notes/Claytonb/07-09-2016/plant-health-ndvi-consumer-camera-vs-profession
 nid: 13275
 uid: 460246
 
+cids: 14899,14902,14936,14946,14947,14956,15367,15369,16223
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/938/original/side_by_side_cameras.JPG)

@@ -7,6 +7,8 @@ path: /notes/Delaney/02-14-2018/public-lab-nonprofit-internship-posting-environm
 nid: 15731
 uid: 517173
 
+cids: 27053
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/655/original/PublicLab.png)

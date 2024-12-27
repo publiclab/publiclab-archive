@@ -7,6 +7,8 @@ path: /notes/carohowe/07-14-2017/seeking-dc-area-folks-interested-in-building-te
 nid: 14653
 uid: 510884
 
+cids: 17055,17060,17061,17064,17070,17183,22537,22633
+
 ---
 
 # Seeking DC-area folks interested in building temperature sensors for urban heat island measurement

@@ -7,6 +7,8 @@ path: /notes/stevie/08-19-2021/announcing-our-newest-fellowship-team-project.md
 nid: 27602
 uid: 422561
 
+cids: 29180,29188
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/683/original/middleridge_%281%29.jpg)

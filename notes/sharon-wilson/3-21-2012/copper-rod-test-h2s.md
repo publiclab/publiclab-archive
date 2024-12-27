@@ -7,6 +7,8 @@ path: /notes/sharon-wilson/3-21-2012/copper-rod-test-h2s.md
 nid: 1513
 uid: 697
 
+cids: 544,19398
+
 ---
 
 ![](https://publiclab.org/sites/default/files/H2S detect.jpg)

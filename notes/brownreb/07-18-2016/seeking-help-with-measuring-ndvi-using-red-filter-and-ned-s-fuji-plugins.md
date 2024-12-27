@@ -7,6 +7,8 @@ path: /notes/brownreb/07-18-2016/seeking-help-with-measuring-ndvi-using-red-filt
 nid: 13297
 uid: 484208
 
+cids: 14973,14974,14983
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/122/original/IMG_0001.JPG)

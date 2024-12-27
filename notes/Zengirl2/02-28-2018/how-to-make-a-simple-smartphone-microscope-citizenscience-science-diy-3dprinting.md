@@ -7,6 +7,8 @@ path: /notes/Zengirl2/02-28-2018/how-to-make-a-simple-smartphone-microscope-citi
 nid: 15832
 uid: 423961
 
+cids: 18909,18912,18914,18965
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/744/original/SmartphoneScope.jpg)

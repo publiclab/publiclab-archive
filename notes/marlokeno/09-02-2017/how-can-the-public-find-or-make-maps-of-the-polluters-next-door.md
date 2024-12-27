@@ -7,6 +7,8 @@ path: /notes/marlokeno/09-02-2017/how-can-the-public-find-or-make-maps-of-the-po
 nid: 14821
 uid: 420760
 
+cids: 22579,23023,23123
+
 ---
 
 # How can the public find or make maps of the polluters next door?

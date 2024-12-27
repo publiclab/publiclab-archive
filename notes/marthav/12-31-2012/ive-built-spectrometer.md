@@ -7,6 +7,8 @@ path: /notes/marthav/12-31-2012/ive-built-spectrometer.md
 nid: 5388
 uid: 47245
 
+cids: 2857,2864
+
 ---
 
 # I've built the spectrometer

@@ -7,6 +7,8 @@ path: /notes/jarenfrow/10-19-2016/lamp.md
 nid: 13617
 uid: 494927
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/473/original/image.jpeg)

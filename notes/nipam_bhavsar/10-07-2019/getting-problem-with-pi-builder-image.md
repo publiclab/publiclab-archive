@@ -7,6 +7,8 @@ path: /notes/nipam_bhavsar/10-07-2019/getting-problem-with-pi-builder-image.md
 nid: 21106
 uid: 625789
 
+cids: 25655,25658,28850
+
 ---
 
 # Getting problem with Pi-builder image

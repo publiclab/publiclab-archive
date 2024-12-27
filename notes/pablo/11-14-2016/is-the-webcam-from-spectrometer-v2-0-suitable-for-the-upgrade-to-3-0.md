@@ -7,6 +7,8 @@ path: /notes/pablo/11-14-2016/is-the-webcam-from-spectrometer-v2-0-suitable-for-
 nid: 13704
 uid: 160
 
+cids: 15829,15831,15837,15838,15839,15840,15841,15842,15843,15844,15846,15847,15849,15851,22346,22348
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/836/original/spectrometer2.0-webcam.jpeg)

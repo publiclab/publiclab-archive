@@ -7,6 +7,8 @@ path: /notes/bhamster/04-28-2021/event-welcome-to-a-research-area-review-on-mapp
 nid: 26389
 uid: 664477
 
+cids: 28728,28730,28731,28735,28736,28737,28741,28742,28745,28746,28762,28763,28776,28794,28812,28813
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/602/original/join_conversation.png)

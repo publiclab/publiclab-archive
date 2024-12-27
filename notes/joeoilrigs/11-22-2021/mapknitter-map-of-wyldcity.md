@@ -7,6 +7,8 @@ path: /notes/joeoilrigs/11-22-2021/mapknitter-map-of-wyldcity.md
 nid: 28221
 uid: 779414
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/099/original/DJI_0212.JPG)

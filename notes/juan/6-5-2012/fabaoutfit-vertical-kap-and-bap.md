@@ -7,6 +7,8 @@ path: /notes/juan/6-5-2012/fabaoutfit-vertical-kap-and-bap.md
 nid: 2352
 uid: 1310
 
+cids: 850,851,852,853,854,862,864,865,866,867,880,882,8539,16229
+
 ---
 
 ![](https://publiclab.org/sites/default/files/FABArig-elements.png)

@@ -7,6 +7,8 @@ path: /notes/kgradow1/01-04-2021/take-back-your-air-using-the-bucket-air-quality
 nid: 25407
 uid: 297929
 
+cids: 
+
 ---
 
 # Take Back Your Air! Using the Bucket Air Quality Monitor

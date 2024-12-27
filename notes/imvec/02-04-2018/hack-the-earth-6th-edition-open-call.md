@@ -7,6 +7,8 @@ path: /notes/imvec/02-04-2018/hack-the-earth-6th-edition-open-call.md
 nid: 15679
 uid: 495038
 
+cids: 18369
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/443/original/hte2108.png)

@@ -7,6 +7,8 @@ path: /notes/pluharj/1-13-2013/diy-desktop-spectrometer-camera-quit-working-afte
 nid: 5573
 uid: 46812
 
+cids: 3049,3075
+
 ---
 
 ![](https://publiclab.org/sites/default/files/genius-facecam-1320-webcam.jpg)

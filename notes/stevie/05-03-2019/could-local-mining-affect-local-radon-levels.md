@@ -7,6 +7,8 @@ path: /notes/stevie/05-03-2019/could-local-mining-affect-local-radon-levels.md
 nid: 19229
 uid: 422561
 
+cids: 24059,24340,27322
+
 ---
 
 # Could local mining affect local radon levels? 

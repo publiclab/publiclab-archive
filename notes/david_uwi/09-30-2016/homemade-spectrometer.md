@@ -7,6 +7,8 @@ path: /notes/david_uwi/09-30-2016/homemade-spectrometer.md
 nid: 13512
 uid: 469053
 
+cids: 15545,15546,15548,15549,15550,15620,15640,15665,15686,17418,18110,21045,24799,26229,28355,28647
+
 ---
 
 # Homemade spectrometer

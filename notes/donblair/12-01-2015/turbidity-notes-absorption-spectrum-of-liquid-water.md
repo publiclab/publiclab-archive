@@ -7,6 +7,8 @@ path: /notes/donblair/12-01-2015/turbidity-notes-absorption-spectrum-of-liquid-w
 nid: 12465
 uid: 43651
 
+cids: 12968,12976,12979
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/106/original/Absorption_spectrum_of_liquid_water.png)

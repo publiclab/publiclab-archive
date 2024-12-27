@@ -7,6 +7,8 @@ path: /notes/SeanKMcGinnis/03-12-2014/raspberry-pi-camera-rig.md
 nid: 10166
 uid: 552
 
+cids: 8474,8650,9716,24305,24306,24313
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/221/original/DSC02109.JPG)

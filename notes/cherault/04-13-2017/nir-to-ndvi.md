@@ -7,6 +7,8 @@ path: /notes/cherault/04-13-2017/nir-to-ndvi.md
 nid: 14111
 uid: 505648
 
+cids: 16585
+
 ---
 
 # NIR to NDVI

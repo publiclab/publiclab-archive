@@ -7,6 +7,8 @@ path: /notes/Adam-Griffith/05-01-2018/wcu-map-completed.md
 nid: 306
 uid: 3
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/406/original/WCU_Phipps_PL.jpg)

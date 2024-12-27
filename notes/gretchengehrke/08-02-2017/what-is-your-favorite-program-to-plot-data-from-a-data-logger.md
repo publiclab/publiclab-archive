@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/08-02-2017/what-is-your-favorite-program-to-plot-dat
 nid: 14710
 uid: 430549
 
+cids: 22547,22556,22557,22564,24230
+
 ---
 
 # What is your favorite program to plot data from a data logger? 

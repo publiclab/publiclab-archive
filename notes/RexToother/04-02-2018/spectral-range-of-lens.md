@@ -7,6 +7,8 @@ path: /notes/RexToother/04-02-2018/spectral-range-of-lens.md
 nid: 16051
 uid: 529435
 
+cids: 19290,19291,23055
+
 ---
 
 # Spectral Range of Lens? 

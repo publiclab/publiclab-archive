@@ -7,6 +7,8 @@ path: /notes/steven_leung2414/10-23-2020/led-test-1.md
 nid: 24794
 uid: 727023
 
+cids: 27501
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/198/original/IMG_8253.jpg)

@@ -7,6 +7,8 @@ path: /notes/B-winters/12-14-2018/revised-3d-printable-mini-spectrometer.md
 nid: 17891
 uid: 563397
 
+cids: 21584,21585,21586,23369,23370,29377,29379,31252
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/513/original/camera_spectrometer.jpg)

@@ -7,6 +7,8 @@ path: /notes/stevie/02-16-2021/public-lab-seeking-documentation-fellow.md
 nid: 25707
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/720/original/BR_image.jpg)

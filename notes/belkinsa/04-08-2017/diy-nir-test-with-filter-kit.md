@@ -7,6 +7,8 @@ path: /notes/belkinsa/04-08-2017/diy-nir-test-with-filter-kit.md
 nid: 14099
 uid: 504609
 
+cids: 16565
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/106/original/Screenshot_from_2017-04-06_20-35-39.png)

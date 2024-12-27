@@ -7,6 +7,8 @@ path: /notes/warren/10-27-2017/join-doccom-the-barnraising-2017-documentation-co
 nid: 15124
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/126/original/IMG_20170624_150422_187.jpg)

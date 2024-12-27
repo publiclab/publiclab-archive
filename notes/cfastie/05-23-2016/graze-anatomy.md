@@ -7,6 +7,8 @@ path: /notes/cfastie/05-23-2016/graze-anatomy.md
 nid: 13138
 uid: 554
 
+cids: 14671,14676,14677,14678,14679,14680,16992,16993
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/256/original/Rye_20160522-5683.jpg)

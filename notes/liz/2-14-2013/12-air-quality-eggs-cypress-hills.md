@@ -7,6 +7,8 @@ path: /notes/liz/2-14-2013/12-air-quality-eggs-cypress-hills.md
 nid: 5989
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130214_194826.jpg)

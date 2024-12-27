@@ -7,6 +7,8 @@ path: /notes/warren/08-29-2013/huentek-infragram-webcam-tests.md
 nid: 9074
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/325/original/Screen_Shot_2013-08-29_at_1.51.35_PM.png)

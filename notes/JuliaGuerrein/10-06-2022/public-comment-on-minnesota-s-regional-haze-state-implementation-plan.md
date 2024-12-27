@@ -7,6 +7,8 @@ path: /notes/JuliaGuerrein/10-06-2022/public-comment-on-minnesota-s-regional-haz
 nid: 35032
 uid: 796025
 
+cids: 30729,30745,30785,30901,30902,31284,31287,31291,31293,31296
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/213/original/1622527496513.jpg)

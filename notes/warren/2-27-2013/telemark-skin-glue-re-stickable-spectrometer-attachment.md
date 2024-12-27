@@ -7,6 +7,8 @@ path: /notes/warren/2-27-2013/telemark-skin-glue-re-stickable-spectrometer-attac
 nid: 6140
 uid: 1
 
+cids: 3576
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130227_153552.jpg)

@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/11-02-2017/copper-sheet-hydrogen-sulfide-detection-a
 nid: 15142
 uid: 430549
 
+cids: 17756,17763,17777,17803,17804,17806,17807,17808,17809,17813,18133,18246,18247,18262
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/639/original/IMG_3099.JPG)

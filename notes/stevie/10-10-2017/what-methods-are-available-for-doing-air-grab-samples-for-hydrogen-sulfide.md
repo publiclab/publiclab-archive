@@ -7,6 +7,8 @@ path: /notes/stevie/10-10-2017/what-methods-are-available-for-doing-air-grab-sam
 nid: 15021
 uid: 422561
 
+cids: 22661,22663
+
 ---
 
 # What methods are available for doing air grab samples for hydrogen sulfide?

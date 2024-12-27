@@ -7,6 +7,8 @@ path: /notes/liz/05-16-2017/early-2014-plant-filter-prototype.md
 nid: 14201
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/469/original/DSC_0721_crop.jpg)

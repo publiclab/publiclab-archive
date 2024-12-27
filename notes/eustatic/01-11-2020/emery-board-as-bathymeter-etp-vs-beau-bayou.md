@@ -7,6 +7,8 @@ path: /01-11-2020/emery-board-as-bathymeter-etp-vs-beau-bayou.md
 nid: 22292
 uid: 379
 
+cids: 26146
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/606/original/image.png)

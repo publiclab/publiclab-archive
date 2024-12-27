@@ -7,6 +7,8 @@ path: /notes/mkoistinen/2-12-2013/using-home-made-spectrometer-test-kombucha-rea
 nid: 5955
 uid: 50322
 
+cids: 3403,3408,3409,3417,3634
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1475.JPG)

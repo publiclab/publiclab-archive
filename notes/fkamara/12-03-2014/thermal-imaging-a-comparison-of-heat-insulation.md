@@ -7,6 +7,8 @@ path: /notes/fkamara/12-03-2014/thermal-imaging-a-comparison-of-heat-insulation.
 nid: 11424
 uid: 432244
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/200/original/Picture1.png)

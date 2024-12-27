@@ -7,6 +7,8 @@ path: /notes/JSummers/12-02-2014/titraumatic-automated-titration-apparatus.md
 nid: 11418
 uid: 304279
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/175/original/Titraumatic1b-11-30-14.png)

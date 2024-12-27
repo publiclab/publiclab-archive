@@ -7,6 +7,8 @@ path: /notes/georgiabullen/3-19-2013/chaq-visualizing-air-quality-class-5-march-
 nid: 6448
 uid: 50592
 
+cids: 
+
 ---
 
 # CHAQ: Visualizing Air Quality - Class 5 - March 8th

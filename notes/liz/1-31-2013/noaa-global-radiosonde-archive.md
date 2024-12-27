@@ -7,6 +7,8 @@ path: /notes/liz/1-31-2013/noaa-global-radiosonde-archive.md
 nid: 5830
 uid: 7
 
+cids: 3265
+
 ---
 
 ![](https://publiclab.org/sites/default/files/wea01118.jpg)

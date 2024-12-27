@@ -7,6 +7,8 @@ path: /notes/warren/09-30-2019/microbrews-meet-up-at-as220-food-providence.md
 nid: 21039
 uid: 1
 
+cids: 25645,25651
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/517/original/P8091305.JPG)

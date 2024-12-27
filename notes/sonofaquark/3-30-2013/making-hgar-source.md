@@ -7,6 +7,8 @@ path: /notes/sonofaquark/3-30-2013/making-hgar-source.md
 nid: 6622
 uid: 54330
 
+cids: 4293,4294,4296,4297,4298,4319,4326,4328
+
 ---
 
 ![](https://publiclab.org/sites/default/files/argon.JPG)

@@ -7,6 +7,8 @@ path: /notes/cfastie/12-05-2015/how-can-one-infragram-photo-produce-different-nd
 nid: 12482
 uid: 554
 
+cids: 13044,13050,13052,13063,13065,13067,17557
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/218/original/InfragramSS.JPG)

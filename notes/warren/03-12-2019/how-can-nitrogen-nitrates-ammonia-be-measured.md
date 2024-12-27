@@ -7,6 +7,8 @@ path: /notes/warren/03-12-2019/how-can-nitrogen-nitrates-ammonia-be-measured.md
 nid: 18527
 uid: 1
 
+cids: 23402,23432,23504
+
 ---
 
 # How can nitrogen/nitrates/ammonia be measured?

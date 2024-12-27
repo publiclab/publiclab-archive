@@ -7,6 +7,8 @@ path: /notes/gagan6730/07-24-2019/when-i-am-trying-to-run-the-server-for-plots-2
 nid: 20253
 uid: 606384
 
+cids: 25106,25109
+
 ---
 
 # When I am trying to run the server for plots-2 , I am getting "Sprockets::FileNotFound in Home#home" error.  "couldn't find file 'bootstrap/dist/css/bootstrap.min.css' with type 'text/css'"

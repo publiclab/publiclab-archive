@@ -7,6 +7,8 @@ path: /notes/warren/2-19-2013/opening-spectronic-20.md
 nid: 6060
 uid: 1
 
+cids: 3488,3490,3507,4186,4187,4189,4199
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0382.JPG)

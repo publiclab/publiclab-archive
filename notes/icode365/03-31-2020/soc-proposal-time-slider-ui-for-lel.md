@@ -7,6 +7,8 @@ path: /notes/icode365/03-31-2020/soc-proposal-time-slider-ui-for-lel.md
 nid: 23264
 uid: 553778
 
+cids: 26615,26646,26649,26650,26651
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/832/original/banner.png)

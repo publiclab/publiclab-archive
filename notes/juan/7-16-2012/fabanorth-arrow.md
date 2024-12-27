@@ -7,6 +7,8 @@ path: /notes/juan/7-16-2012/fabanorth-arrow.md
 nid: 2824
 uid: 1310
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/FABAnorth.png)

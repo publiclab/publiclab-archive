@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-09-2013/kites-at-head-smashed-in-buffalo-jump-in-albert
 nid: 8984
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/080/original/9461635507_6b36244417_b.jpg)

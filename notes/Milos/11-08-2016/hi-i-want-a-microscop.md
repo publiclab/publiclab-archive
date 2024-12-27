@@ -7,6 +7,8 @@ path: /notes/Milos/11-08-2016/hi-i-want-a-microscop.md
 nid: 13686
 uid: 496548
 
+cids: 22458
+
 ---
 
 # Hi, I want a microscop

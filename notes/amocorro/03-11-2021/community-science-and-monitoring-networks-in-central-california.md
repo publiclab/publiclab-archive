@@ -7,6 +7,8 @@ path: /notes/amocorro/03-11-2021/community-science-and-monitoring-networks-in-ce
 nid: 25901
 uid: 700923
 
+cids: 28329,28429
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/923/original/01Bucket2021-GustavoCCEJN_and_AMocorroPowell.png)

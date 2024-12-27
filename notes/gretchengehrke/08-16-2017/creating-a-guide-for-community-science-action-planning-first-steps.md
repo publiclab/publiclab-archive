@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/08-16-2017/creating-a-guide-for-community-science-ac
 nid: 14762
 uid: 430549
 
+cids: 17188,17264,17276
+
 ---
 
 # Creating a guide for community science action planning: first steps

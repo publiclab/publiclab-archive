@@ -7,6 +7,8 @@ path: /notes/jbest/11-15-2013/the-brit-camera-rig.md
 nid: 9785
 uid: 194322
 
+cids: 7628,7630
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/239/original/IMG_2922.JPG)

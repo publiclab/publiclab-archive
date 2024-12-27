@@ -7,6 +7,8 @@ path: /notes/kgradow1/04-30-2020/using-survey-info-to-inform-open-hardware-devel
 nid: 23522
 uid: 297929
 
+cids: 26747
+
 ---
 
 # Have you used surveys to inform open hardware development?  

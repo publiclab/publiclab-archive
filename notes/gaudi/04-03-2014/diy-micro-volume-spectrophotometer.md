@@ -7,6 +7,8 @@ path: /notes/gaudi/04-03-2014/diy-micro-volume-spectrophotometer.md
 nid: 10255
 uid: 421141
 
+cids: 8705,8710,8712,9689,19569
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/479/original/MicroVolumeSpectrometer.jpg)

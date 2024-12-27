@@ -7,6 +7,8 @@ path: /notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera.md
 nid: 12083
 uid: 77
 
+cids: 12229,12238
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/738/original/IMG_6175.JPG)

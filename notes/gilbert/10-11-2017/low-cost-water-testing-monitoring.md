@@ -7,6 +7,8 @@ path: /notes/gilbert/10-11-2017/low-cost-water-testing-monitoring.md
 nid: 15034
 uid: 508551
 
+cids: 
+
 ---
 
 # LOW-COST WATER TESTING & MONITORING

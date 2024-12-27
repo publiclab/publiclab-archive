@@ -7,6 +7,8 @@ path: /notes/cstegal9/02-19-2016/mapknitter-map-of-uncc-balloon-mapping-casey.md
 nid: 12715
 uid: 465625
 
+cids: 
+
 ---
 
 # MapKnitter map of uncc balloon mapping-casey

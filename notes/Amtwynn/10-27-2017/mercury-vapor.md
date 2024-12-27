@@ -7,6 +7,8 @@ path: /notes/Amtwynn/10-27-2017/mercury-vapor.md
 nid: 15116
 uid: 517043
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/106/original/IMG_0122.JPG)

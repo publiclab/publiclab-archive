@@ -7,6 +7,8 @@ path: /notes/JuliaGuerrein/07-11-2022/minnesota-environmental-review-process-and
 nid: 31271
 uid: 796025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/881/original/Screenshot_2022-07-11_115021.png)

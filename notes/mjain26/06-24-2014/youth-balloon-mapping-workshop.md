@@ -7,6 +7,8 @@ path: /notes/mjain26/06-24-2014/youth-balloon-mapping-workshop.md
 nid: 10612
 uid: 424870
 
+cids: 9261,9262,9268,9405,9407,9409,9541,9722
+
 ---
 
 # Youth Balloon Mapping Workshop

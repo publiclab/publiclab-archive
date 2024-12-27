@@ -7,6 +7,8 @@ path: /notes/charlotte_clarke/11-06-2019/use-your-sensors-oil-water-testing-even
 nid: 21417
 uid: 510781
 
+cids: 25823
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/273/original/Use_Your_Sensors__Oil_Water_Testing_Event_in_New_Orleans_%281%29.png)

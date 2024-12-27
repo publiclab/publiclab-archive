@@ -7,6 +7,8 @@ path: /notes/Willie/07-31-2015/dustduino-sketches.md
 nid: 12109
 uid: 235174
 
+cids: 12785
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/944/original/IMG_20150520_142421933.jpg)

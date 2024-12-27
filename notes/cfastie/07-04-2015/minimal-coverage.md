@@ -7,6 +7,8 @@ path: /notes/cfastie/07-04-2015/minimal-coverage.md
 nid: 12032
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/535/original/Murphy_008_2k.jpg)

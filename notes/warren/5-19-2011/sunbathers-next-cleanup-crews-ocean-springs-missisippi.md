@@ -7,6 +7,8 @@ path: /notes/warren/5-19-2011/sunbathers-next-cleanup-crews-ocean-springs-missis
 nid: 252
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-05-19 at 11.20.08 AM.png)

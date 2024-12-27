@@ -7,6 +7,8 @@ path: /notes/cfastie/04-13-2016/tiny-boost.md
 nid: 12963
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/501/original/LREOS40o40_3k.jpg)

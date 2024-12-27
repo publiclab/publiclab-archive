@@ -7,6 +7,8 @@ path: /notes/charlotte_clarke/10-29-2019/oil-and-gas-monitoring-methods-fellow-u
 nid: 21334
 uid: 510781
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/085/original/IMG_9350.jpg)

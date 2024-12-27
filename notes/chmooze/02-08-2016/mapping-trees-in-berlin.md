@@ -7,6 +7,8 @@ path: /notes/chmooze/02-08-2016/mapping-trees-in-berlin.md
 nid: 12668
 uid: 461520
 
+cids: 13518,13533,13990,13994,14835,18810,20858
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/132/original/DSC01310.jpg)

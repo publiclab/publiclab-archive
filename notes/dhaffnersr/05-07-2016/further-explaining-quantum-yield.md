@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-07-2016/further-explaining-quantum-yield.md
 nid: 13089
 uid: 461120
 
+cids: 14570,14572
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/996/original/florida-lionfish.jpg)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/12-29-2011/oblique-aerial-bay-jimmy-wilkinson-bayou.md
 nid: 669
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-2-25-louisiana-barataria-bay-jimmy-east-oblique_0.jpg)

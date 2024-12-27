@@ -7,6 +7,8 @@ path: /notes/stevie/07-10-2018/what-type-of-permits-are-required-for-gravel-and-
 nid: 16675
 uid: 422561
 
+cids: 20061
+
 ---
 
 # What type of permits are required for gravel and asphalt processing facilities?

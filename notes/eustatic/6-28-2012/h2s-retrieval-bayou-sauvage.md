@@ -7,6 +7,8 @@ path: /6-28-2012/h2s-retrieval-bayou-sauvage.md
 nid: 2663
 uid: 379
 
+cids: 960,972,990,991,992,993,994,995,998,999
+
 ---
 
 ![](https://publiclab.org/sites/default/files/H2S retrieval.jpg)

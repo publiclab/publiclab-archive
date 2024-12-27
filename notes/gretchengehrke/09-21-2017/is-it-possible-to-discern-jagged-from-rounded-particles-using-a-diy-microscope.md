@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/09-21-2017/is-it-possible-to-discern-jagged-from-rou
 nid: 14928
 uid: 430549
 
+cids: 17439,18096,18097,18560
+
 ---
 
 # Is it possible to discern jagged from rounded particles using a DIY microscope? 

@@ -7,6 +7,8 @@ path: /notes/hklebs/11-17-2014/env-tech_neu_2014-thermal-flashlight.md
 nid: 11353
 uid: 431609
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/949/original/ThermalFlashlightKitchen.png)

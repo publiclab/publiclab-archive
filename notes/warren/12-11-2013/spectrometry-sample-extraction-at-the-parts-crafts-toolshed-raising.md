@@ -7,6 +7,8 @@ path: /notes/warren/12-11-2013/spectrometry-sample-extraction-at-the-parts-craft
 nid: 9864
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/381/original/IMG_0384.JPG)

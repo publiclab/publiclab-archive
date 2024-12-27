@@ -7,6 +7,8 @@ path: /notes/shanlter/01-19-2018/diy-water-monitoring-workshop-at-hkbu.md
 nid: 15550
 uid: 420999
 
+cids: 
+
 ---
 
 # DIY water monitoring workshop at HKBU

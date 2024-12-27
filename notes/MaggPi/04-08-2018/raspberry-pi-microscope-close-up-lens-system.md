@@ -7,6 +7,8 @@ path: /notes/MaggPi/04-08-2018/raspberry-pi-microscope-close-up-lens-system.md
 nid: 16101
 uid: 501996
 
+cids: 19408,19455,19461,19475,19478,19493,19494,19495,19497,19498,19499
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/355/original/raspberry_pi_microscope_lens.jpg)

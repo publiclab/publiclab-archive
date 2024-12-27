@@ -7,6 +7,8 @@ path: /notes/warren/04-11-2013/old-public-lab-presentation-at-harvard-kennedy-sc
 nid: 6781
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/036/original/presentation.png)

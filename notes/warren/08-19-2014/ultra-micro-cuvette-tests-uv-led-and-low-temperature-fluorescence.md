@@ -7,6 +7,8 @@ path: /notes/warren/08-19-2014/ultra-micro-cuvette-tests-uv-led-and-low-temperat
 nid: 11063
 uid: 1
 
+cids: 10078,12081,12933,12934,12935,12936,12961
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/337/original/IMG_20140819_122124.jpg)

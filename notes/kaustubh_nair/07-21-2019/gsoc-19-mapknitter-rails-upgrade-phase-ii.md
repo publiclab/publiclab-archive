@@ -7,6 +7,8 @@ path: /notes/kaustubh_nair/07-21-2019/gsoc-19-mapknitter-rails-upgrade-phase-ii.
 nid: 20224
 uid: 577485
 
+cids: 25080,25081,25115,25137,25138
+
 ---
 
 # GSoC '19: Mapknitter Rails upgrade, Phase II

@@ -7,6 +7,8 @@ path: /notes/julia_e_masters/10-19-2021/resilience-efforts-after-extreme-weather
 nid: 27839
 uid: 756220
 
+cids: 
+
 ---
 
 # Resilience efforts after extreme weather

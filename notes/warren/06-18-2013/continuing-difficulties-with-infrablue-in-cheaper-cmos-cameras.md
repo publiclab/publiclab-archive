@@ -7,6 +7,8 @@ path: /notes/warren/06-18-2013/continuing-difficulties-with-infrablue-in-cheaper
 nid: 8261
 uid: 1
 
+cids: 5453,5462,5486,5895,6155,6157,6161,6162,6167,6245
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/530/original/Screen_Shot_2013-06-18_at_11.17.51_AM.png)

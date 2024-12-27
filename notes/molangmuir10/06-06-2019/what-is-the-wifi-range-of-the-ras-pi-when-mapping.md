@@ -7,6 +7,8 @@ path: /notes/molangmuir10/06-06-2019/what-is-the-wifi-range-of-the-ras-pi-when-m
 nid: 19624
 uid: 589023
 
+cids: 
+
 ---
 
 # What is the wifi range of the ras-pi when mapping?

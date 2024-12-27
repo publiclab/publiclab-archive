@@ -7,6 +7,8 @@ path: /notes/Metamer/03-10-2018/since-spectrometer-webcam-kits-are-sold-out-whic
 nid: 15910
 uid: 525402
 
+cids: 18927,18932,22985
+
 ---
 
 # Since spectrometer webcam kits are sold out, which would work/what would you recommend?

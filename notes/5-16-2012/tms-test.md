@@ -7,6 +7,8 @@ path: /notes/5-16-2012/tms-test.md
 nid: 2084
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/kit-tote-white-lines_medium_0.jpg)

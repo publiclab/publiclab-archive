@@ -7,6 +7,8 @@ path: /notes/imvec/03-08-2018/minetest-safe-digital-polluted-areas.md
 nid: 15887
 uid: 495038
 
+cids: 26643
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/885/original/Screenshot_from_2018-03-06_20-59-18.png)

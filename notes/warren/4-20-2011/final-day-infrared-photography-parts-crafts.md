@@ -7,6 +7,8 @@ path: /notes/warren/4-20-2011/final-day-infrared-photography-parts-crafts.md
 nid: 186
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/parts-and-crafts-nrg.jpg)

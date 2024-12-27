@@ -7,6 +7,8 @@ path: /notes/matthart610/12-05-2017/noise-when-trying-to-analyze-spectrum.md
 nid: 15300
 uid: 519570
 
+cids: 22788
+
 ---
 
 # Noise when Trying to Analyze Spectrum

@@ -7,6 +7,8 @@ path: /notes/Tanish/04-23-2021/gsoc-2021-proposal-education-related-usability-up
 nid: 26311
 uid: 749103
 
+cids: 28653,28654,28687,28688,28712,28714
+
 ---
 
 # GSoC 2021 proposal:  Education-related usability upgrades

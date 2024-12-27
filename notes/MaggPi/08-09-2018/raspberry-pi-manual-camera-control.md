@@ -7,6 +7,8 @@ path: /notes/MaggPi/08-09-2018/raspberry-pi-manual-camera-control.md
 nid: 16887
 uid: 501996
 
+cids: 20343,20363,20365,20366
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/127/original/manual_controller.png)

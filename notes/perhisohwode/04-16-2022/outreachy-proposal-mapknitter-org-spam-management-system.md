@@ -7,6 +7,8 @@ path: /notes/perhisohwode/04-16-2022/outreachy-proposal-mapknitter-org-spam-mana
 nid: 30442
 uid: 793563
 
+cids: 30018,30070,30111,30170
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/841/original/spam-g7b9dab021_1920.jpg)

@@ -7,6 +7,8 @@ path: /notes/mimiss/06-04-2019/workshop-viii.md
 nid: 19615
 uid: 579821
 
+cids: 25484,28352
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/704/original/NAS_Community_Science_in_the_Classroom_Overview.png)

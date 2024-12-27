@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/10-20-2016/replication-blink-a-led.md
 nid: 13633
 uid: 459085
 
+cids: 15691,15692,15695
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/522/original/IMG_20161020_154529.jpg)

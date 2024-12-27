@@ -7,6 +7,8 @@ path: /notes/ttaylor/4-21-2013/nir-image-enhancement-thinking-outloud-0.md
 nid: 6956
 uid: 58398
 
+cids: 4503,4505,4509,4510,4515
+
 ---
 
 ![](https://publiclab.org/sites/default/files/enhanced_IR_image.jpg)

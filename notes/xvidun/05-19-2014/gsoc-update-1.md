@@ -7,6 +7,8 @@ path: /notes/xvidun/05-19-2014/gsoc-update-1.md
 nid: 10483
 uid: 421168
 
+cids: 9043,9044,9046
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/296/original/download.jpg)

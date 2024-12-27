@@ -7,6 +7,8 @@ path: /notes/tech4gt/08-09-2018/gsoc-2018-work-on-image-sequencer.md
 nid: 16892
 uid: 523178
 
+cids: 20351,20352,20353,20354,20608,20609,20611,20615,20616,20617,20618,20620,20628,20910,20937
+
 ---
 
 # GSOC 2018 Work on Image Sequencer

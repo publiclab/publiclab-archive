@@ -7,6 +7,8 @@ path: /notes/warren/11-13-2015/slit-holder-for-desktop-spectrometer.md
 nid: 12408
 uid: 1
 
+cids: 12906,12963,12998,12999
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/747/original/IMG_20151113_111644_2.jpg)

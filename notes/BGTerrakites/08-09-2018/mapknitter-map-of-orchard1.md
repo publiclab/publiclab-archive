@@ -7,6 +7,8 @@ path: /notes/BGTerrakites/08-09-2018/mapknitter-map-of-orchard1.md
 nid: 16899
 uid: 545921
 
+cids: 20369,20381
+
 ---
 
 # MapKnitter map of Orchard1

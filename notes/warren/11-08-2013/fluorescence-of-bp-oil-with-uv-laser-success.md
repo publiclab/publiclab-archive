@@ -7,6 +7,8 @@ path: /notes/warren/11-08-2013/fluorescence-of-bp-oil-with-uv-laser-success.md
 nid: 9750
 uid: 1
 
+cids: 7491,7498,7499,7500,7501,7502,7503,7505,7548,7549,7620,7622,7842,7937,7982
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/173/original/IMG_0328.JPG)

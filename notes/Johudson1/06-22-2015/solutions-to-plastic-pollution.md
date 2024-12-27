@@ -7,6 +7,8 @@ path: /notes/Johudson1/06-22-2015/solutions-to-plastic-pollution.md
 nid: 11995
 uid: 444215
 
+cids: 12002,13563
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/414/original/102979-004-7CA2A83F.jpg)

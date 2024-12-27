@@ -7,6 +7,8 @@ path: /notes/Anice/01-09-2019/i-am-getting-very-low-ndvi-values.md
 nid: 18084
 uid: 564024
 
+cids: 21684,21706,23307,30171
+
 ---
 
 # I am getting very low NDVI values.

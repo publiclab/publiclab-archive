@@ -7,6 +7,8 @@ path: /notes/wward1400/07-26-2013/seasonal-ndvi-with-picturepost-infragram-monit
 nid: 8930
 uid: 46742
 
+cids: 6392
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/920/original/Infragram_PicturePost_SSC.png)

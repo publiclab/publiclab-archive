@@ -7,6 +7,8 @@ path: /notes/warren/02-07-2014/sampling-extension-for-smartphone-specs.md
 nid: 10020
 uid: 1
 
+cids: 8190,8214,8218,8220,8228,8256,8258,8259
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/823/original/sampling-kit.png)

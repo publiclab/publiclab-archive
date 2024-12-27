@@ -7,6 +7,8 @@ path: /06-06-2016/dronecopter-vs-kite-evaluation-bayou-st-john-june-5th-2016.md
 nid: 13168
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/502/original/a_IMAG0673_bsj_wetland_site.JPG)

@@ -7,6 +7,8 @@ path: /notes/ives/4-10-2013/cedaps-realiza-oficina-de-mapeamento-em-eus-bio-cear
 nid: 6762
 uid: 403
 
+cids: 4389,4394,4593,4594,4595
+
 ---
 
 ![](https://publiclab.org/sites/default/files/10899_528102040562302_1516759573_n.jpg)

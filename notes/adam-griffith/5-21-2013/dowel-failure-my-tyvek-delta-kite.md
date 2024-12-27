@@ -7,6 +7,8 @@ path: /notes/adam-griffith/5-21-2013/dowel-failure-my-tyvek-delta-kite.md
 nid: 7783
 uid: 3
 
+cids: 4803
+
 ---
 
 ![](https://publiclab.org/sites/default/files/photo 2.JPG)

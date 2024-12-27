@@ -7,6 +7,8 @@ path: /notes/Shannon/07-18-2014/epa-and-public-lab-revitalize-urban-waters-in-ne
 nid: 10705
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/380/original/Screen_Shot_2014-07-18_at_6.24.43_AM.png)

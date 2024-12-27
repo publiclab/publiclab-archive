@@ -7,6 +7,8 @@ path: /notes/ajguthrie99/11-15-2020/raspberry-pi-camera-and-vision.md
 nid: 25063
 uid: 716372
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/756/original/IMG_6377.jpg)

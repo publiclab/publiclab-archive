@@ -7,6 +7,8 @@ path: /notes/rmill105/10-06-2015/uncc-spatial-thinking.md
 nid: 12271
 uid: 453029
 
+cids: 12670
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/770/original/P1060004.JPG)

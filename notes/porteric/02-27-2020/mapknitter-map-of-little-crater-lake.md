@@ -7,6 +7,8 @@ path: /notes/porteric/02-27-2020/mapknitter-map-of-little-crater-lake.md
 nid: 22949
 uid: 668997
 
+cids: 
+
 ---
 
 # MapKnitter map of Little Crater Lake

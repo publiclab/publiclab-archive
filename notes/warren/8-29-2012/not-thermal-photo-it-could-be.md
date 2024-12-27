@@ -7,6 +7,8 @@ path: /notes/warren/8-29-2012/not-thermal-photo-it-could-be.md
 nid: 3559
 uid: 1
 
+cids: 4529,5475,6070
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Are-You-Really-Lost.JPG)

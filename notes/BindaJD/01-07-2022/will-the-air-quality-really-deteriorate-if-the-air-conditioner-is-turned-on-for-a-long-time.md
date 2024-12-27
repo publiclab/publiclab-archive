@@ -7,6 +7,8 @@ path: /notes/BindaJD/01-07-2022/will-the-air-quality-really-deteriorate-if-the-a
 nid: 28686
 uid: 784723
 
+cids: 29587
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/306/original/air_quality_sensor.png)

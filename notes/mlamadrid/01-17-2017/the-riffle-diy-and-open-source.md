@@ -7,6 +7,8 @@ path: /notes/mlamadrid/01-17-2017/the-riffle-diy-and-open-source.md
 nid: 13856
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/289/original/Riffle_20160527-5700.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/2-26-2013/can-you-take-ndvinrg-infrared-composites-smartphon
 nid: 6128
 uid: 1
 
+cids: 3563
+
 ---
 
 ![](https://publiclab.org/sites/default/files/nrg_0.jpg)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/05-09-2013/mapknitter-forcing-layer-order-through-larger
 nid: 7368
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/208/original/DSCN0089.JPG)

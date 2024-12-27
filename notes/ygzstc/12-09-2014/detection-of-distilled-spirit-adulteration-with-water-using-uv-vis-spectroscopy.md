@@ -7,6 +7,8 @@ path: /notes/ygzstc/12-09-2014/detection-of-distilled-spirit-adulteration-with-w
 nid: 11444
 uid: 422489
 
+cids: 10923,10928,10934,10935
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/315/original/PictureJD-1.png)

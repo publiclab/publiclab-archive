@@ -7,6 +7,8 @@ path: /notes/joshuaflux/09-08-2014/oil-terminal-monitoring-newburgh-ny.md
 nid: 11117
 uid: 425404
 
+cids: 10228,10248
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/663/original/logo150pxwithtext.png)

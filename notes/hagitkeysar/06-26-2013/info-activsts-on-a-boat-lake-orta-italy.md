@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/06-26-2013/info-activsts-on-a-boat-lake-orta-italy.md
 nid: 8457
 uid: 152
 
+cids: 5747,9453
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/576/original/info-activists-on-boat.jpg)

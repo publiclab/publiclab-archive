@@ -7,6 +7,8 @@ path: /notes/ad/11-28-2011/thermal-camera-arduino-uno-mlx90614-ir-thermometer.md
 nid: 593
 uid: 373
 
+cids: 372,375,376,6228,6284,17442,19272,19273,19274
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ThermCam pic.jpg)

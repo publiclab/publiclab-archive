@@ -7,6 +7,8 @@ path: /notes/bhamster/10-29-2021/what-are-ways-to-alert-residents-to-air-quality
 nid: 27982
 uid: 664477
 
+cids: 29385,29483
+
 ---
 
 # What are ways to alert residents to air quality concerns without using cell phones or wifi?

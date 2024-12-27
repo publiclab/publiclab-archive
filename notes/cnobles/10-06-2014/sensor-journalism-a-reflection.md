@@ -7,6 +7,8 @@ path: /notes/cnobles/10-06-2014/sensor-journalism-a-reflection.md
 nid: 11236
 uid: 427857
 
+cids: 
+
 ---
 
 # Sensor Journalism - A reflection

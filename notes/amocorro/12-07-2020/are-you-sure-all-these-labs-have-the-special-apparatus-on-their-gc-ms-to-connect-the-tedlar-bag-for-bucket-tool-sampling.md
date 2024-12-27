@@ -7,6 +7,8 @@ path: /notes/amocorro/12-07-2020/are-you-sure-all-these-labs-have-the-special-ap
 nid: 25182
 uid: 700923
 
+cids: 27788
+
 ---
 
 # Do all these labs have the special apparatus on their GC/MS to connect the tedlar bag for Bucket tool sampling?

@@ -7,6 +7,8 @@ path: /notes/wln215/12-09-2019/open-source-spectrometer-for-detecting-laser-harm
 nid: 21708
 uid: 578478
 
+cids: 26981
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/959/original/im_0068_20181010_074544.jpg)

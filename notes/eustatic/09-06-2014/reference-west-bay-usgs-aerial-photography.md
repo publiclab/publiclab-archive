@@ -7,6 +7,8 @@ path: /09-06-2014/reference-west-bay-usgs-aerial-photography.md
 nid: 11110
 uid: 379
 
+cids: 10205,10206,10207,10208
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/625/original/west_bay_NAIP_2013.png)

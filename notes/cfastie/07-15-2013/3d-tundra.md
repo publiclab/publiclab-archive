@@ -7,6 +7,8 @@ path: /notes/cfastie/07-15-2013/3d-tundra.md
 nid: 8895
 uid: 554
 
+cids: 6321,6324,6326,6330,6335,9114
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/805/original/MA53D.jpg)

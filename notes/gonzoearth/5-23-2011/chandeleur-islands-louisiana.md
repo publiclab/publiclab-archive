@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-23-2011/chandeleur-islands-louisiana.md
 nid: 266
 uid: 12
 
+cids: 249,263,11905,11906
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-05-23 at 1.37.51 PM.png)

@@ -7,6 +7,8 @@ path: /notes/warren/12-08-2017/what-do-i-need-to-get-started-with-the-community-
 nid: 15335
 uid: 1
 
+cids: 22794,22911
+
 ---
 
 # What do I need to get started with the Community Kits program?

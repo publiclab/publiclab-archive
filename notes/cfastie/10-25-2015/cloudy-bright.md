@@ -7,6 +7,8 @@ path: /notes/cfastie/10-25-2015/cloudy-bright.md
 nid: 12335
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/154/original/Verge728LPps2k.jpg)

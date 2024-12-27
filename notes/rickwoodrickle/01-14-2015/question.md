@@ -7,6 +7,8 @@ path: /notes/rickwoodrickle/01-14-2015/question.md
 nid: 11524
 uid: 433790
 
+cids: 11043
+
 ---
 
 # Is the dustduino (with Shinyei sensor) appropriate for use to study particulates at high altitude (100,00ft)?

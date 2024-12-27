@@ -7,6 +7,8 @@ path: /notes/Ankita/02-12-2018/how-to-get-ndvi-image-by-image-src-instead-of-cho
 nid: 15719
 uid: 524916
 
+cids: 18545
+
 ---
 
 # How to get NDVI image by image src instead of choosing image ?

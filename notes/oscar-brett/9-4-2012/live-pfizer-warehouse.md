@@ -7,6 +7,8 @@ path: /notes/oscar-brett/9-4-2012/live-pfizer-warehouse.md
 nid: 3634
 uid: 409
 
+cids: 1246
+
 ---
 
 ![](https://publiclab.org/sites/default/files/P9010355.JPG)

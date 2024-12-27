@@ -7,6 +7,8 @@ path: /notes/makayla_thomas/04-27-2021/what-is-some-ways-that-we-the-people-impa
 nid: 26373
 uid: 754382
 
+cids: 
+
 ---
 
 # What is some ways that we the people impact our community in a positive and harmful way in our everyday activities?

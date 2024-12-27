@@ -7,6 +7,8 @@ path: /notes/sneves/11-10-2015/spn-veg-ndvi-software-for-windows-freeware.md
 nid: 12393
 uid: 450683
 
+cids: 13370
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/636/original/logo_icon.ico)

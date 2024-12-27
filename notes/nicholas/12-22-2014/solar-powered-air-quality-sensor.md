@@ -7,6 +7,8 @@ path: /notes/nicholas/12-22-2014/solar-powered-air-quality-sensor.md
 nid: 11492
 uid: 53894
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/520/original/Screen_Shot_2014-12-22_at_1.38.26_PM.png)

@@ -7,6 +7,8 @@ path: /notes/sobers/11-28-2011/temperature-sensor-led-light.md
 nid: 594
 uid: 371
 
+cids: 370
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSC05653crop.jpg)

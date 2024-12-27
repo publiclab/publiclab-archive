@@ -7,6 +7,8 @@ path: /notes/cfastie/07-17-2013/infrablue-minutiae.md
 nid: 8901
 uid: 554
 
+cids: 6331
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/826/original/BuchberryNDVI.jpg)

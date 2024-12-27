@@ -7,6 +7,8 @@ path: /notes/warren/06-12-2017/web-working-group-update-18-may-2017.md
 nid: 14526
 uid: 1
 
+cids: 16872,16885
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/773/original/Screenshot_2017-06-12_at_6.31.48_PM.png)

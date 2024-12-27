@@ -7,6 +7,8 @@ path: /notes/liz/2-21-2013/nyc-2013-kickoff-meeting-0.md
 nid: 6077
 uid: 7
 
+cids: 3513,3514
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Boots-ground-02.png)

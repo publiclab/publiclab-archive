@@ -7,6 +7,8 @@ path: /notes/mimiss/04-01-2019/have-you-tried-any-good-diy-microscope-dyes-or-st
 nid: 18930
 uid: 579821
 
+cids: 23584,23589,23593,23594,23634
+
 ---
 
 # Have you tried any good DIY microscope dyes or stains?

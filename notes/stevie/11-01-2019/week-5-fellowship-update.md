@@ -7,6 +7,8 @@ path: /notes/stevie/11-01-2019/week-5-fellowship-update.md
 nid: 21369
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/136/original/UV-florescence.JPG)

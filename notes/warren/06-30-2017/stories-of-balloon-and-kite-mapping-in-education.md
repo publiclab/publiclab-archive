@@ -7,6 +7,8 @@ path: /notes/warren/06-30-2017/stories-of-balloon-and-kite-mapping-in-education.
 nid: 14597
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/952/original/IMG_20170630_170300_402.jpg)

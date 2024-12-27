@@ -7,6 +7,8 @@ path: /notes/jmgianca/08-15-2013/sled-kite-video-rig.md
 nid: 9014
 uid: 185763
 
+cids: 6643,6669
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/140/original/rig-bottom.png)

@@ -7,6 +7,8 @@ path: /notes/vihelmo/08-01-2015/unammne-aerial-systems-drones-in-lima-peru.md
 nid: 12113
 uid: 446492
 
+cids: 12308,12313,12584
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/980/original/Vihelmo_UAS.JPG)

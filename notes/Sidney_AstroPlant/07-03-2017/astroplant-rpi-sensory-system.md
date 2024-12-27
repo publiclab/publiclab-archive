@@ -7,6 +7,8 @@ path: /notes/Sidney_AstroPlant/07-03-2017/astroplant-rpi-sensory-system.md
 nid: 14609
 uid: 509744
 
+cids: 16959,16965,16967,16968,16969,16970,16972,16977,16987,22512
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/987/original/IMG_4158.JPG)

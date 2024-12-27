@@ -7,6 +7,8 @@ path: /notes/stevie/11-14-2017/host-a-goal-setting-workshop.md
 nid: 15188
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/414/original/20170304_132424.jpg)

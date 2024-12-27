@@ -7,6 +7,8 @@ path: /notes/code4maine/08-05-2014/aerial-mapping-drone-for-under-60.md
 nid: 11015
 uid: 294634
 
+cids: 9774,9777,9784,9795,9842,9845,9847,9912,9913,9917,9918,9920,9921,9924,9995,10363,10550,10568,10609,11518,11629,11630,12422,12473,15217
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/928/original/FlyingWing.jpg)

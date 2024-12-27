@@ -7,6 +7,8 @@ path: /notes/section1group1/05-30-2017/aerial-mapping-of-effects-of-a-water-dive
 nid: 14246
 uid: 507181
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/591/original/IMG_3437.JPG)

@@ -7,6 +7,8 @@ path: /notes/stevie/03-21-2018/what-are-good-resources-for-teaching-middle-schoo
 nid: 15993
 uid: 422561
 
+cids: 23027,23035,23076,23220
+
 ---
 
 # What are good resources for teaching middle school age children about water quality parameters? 

@@ -7,6 +7,8 @@ path: /notes/nshapiro/05-08-2015/community-formaldehyde-monitoring-at-natural-ga
 nid: 11800
 uid: 380298
 
+cids: 19678,27260,27261,27263
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/842/original/FullSizeRender.jpg)

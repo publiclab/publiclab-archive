@@ -7,6 +7,8 @@ path: /notes/liz/3-5-2013/precursor-unconferences.md
 nid: 6209
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/open-space-technology.jpg)

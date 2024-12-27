@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/03-24-2022/be-careful-calibrating-coqui-conductivity
 nid: 30185
 uid: 639376
 
+cids: 29891,29892,29952
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/563/original/DistbetpeaksVsConc.png)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/08-01-2013/berkeley-kite-festival.md
 nid: 8952
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/993/original/2013-07-28-california-berkeley-kite-festival-top.jpg)

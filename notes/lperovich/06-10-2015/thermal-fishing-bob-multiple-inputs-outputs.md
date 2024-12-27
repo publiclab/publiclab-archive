@@ -7,6 +7,8 @@ path: /notes/lperovich/06-10-2015/thermal-fishing-bob-multiple-inputs-outputs.md
 nid: 11964
 uid: 443410
 
+cids: 12103
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/270/original/multiInputThermalFishing_bb.jpg)

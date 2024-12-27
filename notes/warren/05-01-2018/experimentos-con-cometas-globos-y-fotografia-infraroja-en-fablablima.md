@@ -7,6 +7,8 @@ path: /notes/warren/05-01-2018/experimentos-con-cometas-globos-y-fotografia-infr
 nid: 42
 uid: 1
 
+cids: 25
+
 ---
 
 # Experimentos con cometas, globos, y fotografía infraroja en FabLabLima 

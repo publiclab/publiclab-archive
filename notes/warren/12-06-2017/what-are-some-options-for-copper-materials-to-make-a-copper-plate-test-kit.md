@@ -7,6 +7,8 @@ path: /notes/warren/12-06-2017/what-are-some-options-for-copper-materials-to-mak
 nid: 15321
 uid: 1
 
+cids: 18318,22793,22865
+
 ---
 
 # What are some options for copper materials to make a copper plate test kit?

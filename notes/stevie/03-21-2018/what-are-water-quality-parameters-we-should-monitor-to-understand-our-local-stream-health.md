@@ -7,6 +7,8 @@ path: /notes/stevie/03-21-2018/what-are-water-quality-parameters-we-should-monit
 nid: 15994
 uid: 422561
 
+cids: 21424,23026,25075,25117
+
 ---
 
 # What are water quality parameters we should monitor to understand our local stream health? 

@@ -7,6 +7,8 @@ path: /notes/oritchie/09-17-2014/cal-poly-spectra.md
 nid: 11147
 uid: 428561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/840/original/photo.JPG)

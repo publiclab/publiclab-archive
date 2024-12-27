@@ -7,6 +7,8 @@ path: /notes/laurel_mire/09-09-2021/data-visualization-with-sheet-mapper-how-to-
 nid: 27717
 uid: 759178
 
+cids: 29238,29243
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/787/original/SheetMappercover.PNG)

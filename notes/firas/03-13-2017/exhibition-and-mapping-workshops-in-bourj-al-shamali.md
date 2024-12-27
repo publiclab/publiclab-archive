@@ -7,6 +7,8 @@ path: /notes/firas/03-13-2017/exhibition-and-mapping-workshops-in-bourj-al-shama
 nid: 14007
 uid: 448963
 
+cids: 16347,16348,16349,16352,16355
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/779/original/WhatsApp_Image_2017-03-13_at_6.26.54_PM.jpeg)

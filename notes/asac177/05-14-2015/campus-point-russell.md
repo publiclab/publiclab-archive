@@ -7,6 +7,8 @@ path: /notes/asac177/05-14-2015/campus-point-russell.md
 nid: 11819
 uid: 440398
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/900/original/IMG_0084.JPG)

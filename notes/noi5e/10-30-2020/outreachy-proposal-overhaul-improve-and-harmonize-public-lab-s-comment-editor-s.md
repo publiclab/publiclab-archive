@@ -7,6 +7,8 @@ path: /notes/noi5e/10-30-2020/outreachy-proposal-overhaul-improve-and-harmonize-
 nid: 24869
 uid: 726270
 
+cids: 27579,27583,27584,27595,27599,27600,27601
+
 ---
 
 # Outreachy Proposal: Overhaul, Improve, and Harmonize Public Lab's Comment Editor(s)!

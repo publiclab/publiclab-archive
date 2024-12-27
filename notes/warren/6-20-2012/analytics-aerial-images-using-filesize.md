@@ -7,6 +7,8 @@ path: /notes/warren/6-20-2012/analytics-aerial-images-using-filesize.md
 nid: 2589
 uid: 1
 
+cids: 924,927,932,933,946,9154
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 4_2.png)

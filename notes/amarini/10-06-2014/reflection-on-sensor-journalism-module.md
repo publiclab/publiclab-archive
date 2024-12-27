@@ -7,6 +7,8 @@ path: /notes/amarini/10-06-2014/reflection-on-sensor-journalism-module.md
 nid: 11245
 uid: 428064
 
+cids: 
+
 ---
 
 # Reflection on Sensor Journalism Module

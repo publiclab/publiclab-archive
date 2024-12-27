@@ -7,6 +7,8 @@ path: /notes/stevie/06-06-2016/reflecting-on-the-depth-sensor-build.md
 nid: 13170
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/511/original/20160517_191654.jpg)

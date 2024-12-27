@@ -7,6 +7,8 @@ path: /notes/cfastie/10-16-2015/return-to-planet-leaffest.md
 nid: 12313
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/974/original/2PlanetLFps.jpg)

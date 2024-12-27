@@ -7,6 +7,8 @@ path: /notes/TakeshiMatsumoto/04-11-2018/diy-spectrometer-episode-2-using-lego.m
 nid: 16130
 uid: 528173
 
+cids: 19351,19383,19671,19691
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/521/original/experimental_0.jpg)

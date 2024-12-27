@@ -7,6 +7,8 @@ path: /notes/Mesc/09-29-2015/olympic-legacy.md
 nid: 12253
 uid: 444516
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/712/original/250px-Olympic_Park__London__16_April_2012.jpg)

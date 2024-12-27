@@ -7,6 +7,8 @@ path: /notes/Zengirl2/08-01-2017/how-cafos-factory-farms-are-plaguing-north-caro
 nid: 14704
 uid: 423961
 
+cids: 17140,17141,17142,17144,25849,31242
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/250/original/Farm.jpg)

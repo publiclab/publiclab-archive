@@ -7,6 +7,8 @@ path: /notes/ckenny/12-16-2014/thermal-flashlight-data-collection-in-holyrood-nl
 nid: 11466
 uid: 431154
 
+cids: 10981
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/436/original/Screen_Shot_2014-12-16_at_1.18.40_PM.png)

@@ -7,6 +7,8 @@ path: /notes/shanlter/07-03-2017/monitor-transparency-dissolved-oxygen-orp-and-a
 nid: 14603
 uid: 420999
 
+cids: 17028,17073,17074,17078
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/977/original/CIMG1264.JPG)

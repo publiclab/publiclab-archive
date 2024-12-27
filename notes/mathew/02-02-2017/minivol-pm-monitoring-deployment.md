@@ -7,6 +7,8 @@ path: /notes/mathew/02-02-2017/minivol-pm-monitoring-deployment.md
 nid: 13899
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/422/original/homeminivol2.jpg)

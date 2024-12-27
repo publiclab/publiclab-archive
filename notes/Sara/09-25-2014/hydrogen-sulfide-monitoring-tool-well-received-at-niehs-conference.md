@@ -7,6 +7,8 @@ path: /notes/Sara/09-25-2014/hydrogen-sulfide-monitoring-tool-well-received-at-n
 nid: 11189
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/032/original/Screen_Shot_2014-09-25_at_2.14.38_PM.png)

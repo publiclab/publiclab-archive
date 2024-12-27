@@ -7,6 +7,8 @@ path: /notes/warren/9-30-2011/video-intro-mapknitterorg.md
 nid: 488
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/knitter.png)

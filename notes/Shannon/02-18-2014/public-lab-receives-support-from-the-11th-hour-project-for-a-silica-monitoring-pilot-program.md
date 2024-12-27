@@ -7,6 +7,8 @@ path: /notes/Shannon/02-18-2014/public-lab-receives-support-from-the-11th-hour-p
 nid: 10047
 uid: 9
 
+cids: 8299,8300
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/941/original/plots-logo-transparent.jpg)

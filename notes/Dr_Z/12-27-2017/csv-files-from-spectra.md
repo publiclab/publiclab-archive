@@ -7,6 +7,8 @@ path: /notes/Dr_Z/12-27-2017/csv-files-from-spectra.md
 nid: 15436
 uid: 513355
 
+cids: 18069,18099,22813
+
 ---
 
 # CSV files from spectra

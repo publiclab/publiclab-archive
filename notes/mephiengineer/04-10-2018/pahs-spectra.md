@@ -7,6 +7,8 @@ path: /notes/mephiengineer/04-10-2018/pahs-spectra.md
 nid: 16122
 uid: 506459
 
+cids: 23060,23061
+
 ---
 
 # PAHs spectra

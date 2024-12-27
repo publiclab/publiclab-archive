@@ -7,6 +7,8 @@ path: /notes/liz/02-28-2018/updates-from-staten-island-northshore-conservancy.md
 nid: 15838
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/764/original/Screen_Shot_2018-02-28_at_2.43.12_PM.png)

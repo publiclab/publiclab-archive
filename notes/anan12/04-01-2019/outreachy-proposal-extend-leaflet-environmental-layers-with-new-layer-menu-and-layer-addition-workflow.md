@@ -7,6 +7,8 @@ path: /notes/anan12/04-01-2019/outreachy-proposal-extend-leaflet-environmental-l
 nid: 18925
 uid: 577881
 
+cids: 23599,23608,23618,23786,23818
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/906/original/thumnail.jpeg)

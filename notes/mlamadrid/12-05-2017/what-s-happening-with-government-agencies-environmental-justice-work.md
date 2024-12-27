@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-05-2017/what-s-happening-with-government-agencies-envi
 nid: 15312
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/809/original/TPL_ga_chattahoochee_02012017_005.jpg)

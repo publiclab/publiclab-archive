@@ -7,6 +7,8 @@ path: /notes/cs3009709/05-11-2021/mapknitter-map-of-balloon-mapping-at-wsjh.md
 nid: 26551
 uid: 754791
 
+cids: 28738,28740
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/751/original/IMG_9818.JPG)

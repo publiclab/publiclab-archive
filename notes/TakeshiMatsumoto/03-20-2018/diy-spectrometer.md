@@ -7,6 +7,8 @@ path: /notes/TakeshiMatsumoto/03-20-2018/diy-spectrometer.md
 nid: 15985
 uid: 528173
 
+cids: 19079,19094,19104,19150,19223,19229,19256
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/110/original/IMG_3655_1.jpg)

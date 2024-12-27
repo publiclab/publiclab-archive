@@ -7,6 +7,8 @@ path: /notes/warren/5-1-2012/spectrometer-alignment-ideas.md
 nid: 1871
 uid: 1
 
+cids: 661
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ColorTouch_0.jpeg)

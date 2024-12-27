@@ -7,6 +7,8 @@ path: /notes/JSummers/10-08-2013/syringepump-2-3.md
 nid: 9421
 uid: 304279
 
+cids: 7162,7171,7423,8304,8305
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/809/original/SyringePumpC.jpg)

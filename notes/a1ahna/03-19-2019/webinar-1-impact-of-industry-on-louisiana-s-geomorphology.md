@@ -7,6 +7,8 @@ path: /notes/a1ahna/03-19-2019/webinar-1-impact-of-industry-on-louisiana-s-geomo
 nid: 18777
 uid: 518193
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/264/original/cover.JPG)

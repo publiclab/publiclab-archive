@@ -7,6 +7,8 @@ path: /notes/SangHo/03-17-2018/camera-module-for-computer-vision-led-plant-measu
 nid: 15965
 uid: 446912
 
+cids: 19005,19006,19014
+
 ---
 
 # Camera module for Computer Vision/LED Plant Measurement System

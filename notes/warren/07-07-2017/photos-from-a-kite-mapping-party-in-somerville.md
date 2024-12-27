@@ -7,6 +7,8 @@ path: /notes/warren/07-07-2017/photos-from-a-kite-mapping-party-in-somerville.md
 nid: 14631
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/069/original/2016_0210_102917_227.JPG)

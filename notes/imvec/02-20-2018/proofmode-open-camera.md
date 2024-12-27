@@ -7,6 +7,8 @@ path: /notes/imvec/02-20-2018/proofmode-open-camera.md
 nid: 15786
 uid: 495038
 
+cids: 18546,18585,18626
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/634/original/oc.jpg)

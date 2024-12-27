@@ -7,6 +7,8 @@ path: /notes/wmacfarl/01-11-2020/how-to-connect-an-orp-sensor-to-the-simple-wate
 nid: 22290
 uid: 424597
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/590/original/ORP_sensor_attached.jpg)

@@ -7,6 +7,8 @@ path: /notes/charlotte_clarke/11-13-2019/oil-gas-openhour-follow-up-community-en
 nid: 21477
 uid: 510781
 
+cids: 
+
 ---
 
 # Oil & Gas OpenHour Follow Up: Community Environmental Protection and Advocacy

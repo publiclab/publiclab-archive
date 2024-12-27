@@ -7,6 +7,8 @@ path: /notes/Airship7/03-02-2016/question-re-desktop-spectrometry-kit.md
 nid: 12767
 uid: 468156
 
+cids: 
+
 ---
 
 # Question: RE: Desktop Spectrometry Kit

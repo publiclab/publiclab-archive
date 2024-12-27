@@ -7,6 +7,8 @@ path: /notes/warren/08-20-2013/smartphone-spectrometer-molded-samples-have-arriv
 nid: 9039
 uid: 1
 
+cids: 6697,6700,6719,6732
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/228/original/IMG_0239.JPG)

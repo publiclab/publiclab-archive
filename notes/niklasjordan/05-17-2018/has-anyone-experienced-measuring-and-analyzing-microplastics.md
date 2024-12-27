@@ -7,6 +7,8 @@ path: /notes/niklasjordan/05-17-2018/has-anyone-experienced-measuring-and-analyz
 nid: 16361
 uid: 531062
 
+cids: 19703,23093,23097,23293
+
 ---
 
 # Has anyone experienced measuring and analyzing microplastics?

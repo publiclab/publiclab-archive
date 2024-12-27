@@ -7,6 +7,8 @@ path: /notes/shubham/08-17-2016/how-to-neutralize-remove-the-source-s-spectra-to
 nid: 13358
 uid: 460486
 
+cids: 15144,15145,15146,15147,15149,22248,22249,22250,22251,22253,22254,22255
+
 ---
 
 # How to neutralize/remove the source's spectra to obtain absorption spectra?

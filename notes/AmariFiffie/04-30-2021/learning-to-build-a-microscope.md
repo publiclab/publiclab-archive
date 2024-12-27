@@ -7,6 +7,8 @@ path: /notes/AmariFiffie/04-30-2021/learning-to-build-a-microscope.md
 nid: 26428
 uid: 754783
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/625/original/MicrosoftTeams-image.png)

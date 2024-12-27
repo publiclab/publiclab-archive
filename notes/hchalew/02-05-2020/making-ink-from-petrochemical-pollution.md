@@ -7,6 +7,8 @@ path: /notes/hchalew/02-05-2020/making-ink-from-petrochemical-pollution.md
 nid: 22682
 uid: 661285
 
+cids: 26257,26258
+
 ---
 
 # Making ink from petrochemical pollution?

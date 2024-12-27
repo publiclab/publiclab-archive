@@ -7,6 +7,8 @@ path: /notes/bronwen/06-29-2018/community-microscope-thank-you.md
 nid: 16590
 uid: 237313
 
+cids: 19972
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/357/original/IMG_3817.JPG)

@@ -7,6 +7,8 @@ path: /notes/kgrevera/05-26-2015/thermal-fishing-bob-development-workshop.md
 nid: 11841
 uid: 432001
 
+cids: 11878
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/015/original/Untitled3.png)

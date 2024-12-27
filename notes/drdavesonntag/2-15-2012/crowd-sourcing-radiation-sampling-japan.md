@@ -7,6 +7,8 @@ path: /notes/drdavesonntag/2-15-2012/crowd-sourcing-radiation-sampling-japan.md
 nid: 791
 uid: 517
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/scjp-head.png)

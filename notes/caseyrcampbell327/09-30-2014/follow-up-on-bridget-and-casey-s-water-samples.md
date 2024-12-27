@@ -7,6 +7,8 @@ path: /notes/caseyrcampbell327/09-30-2014/follow-up-on-bridget-and-casey-s-water
 nid: 11208
 uid: 427892
 
+cids: 10483
+
 ---
 
 # Follow up on Bridget and Casey's water samples

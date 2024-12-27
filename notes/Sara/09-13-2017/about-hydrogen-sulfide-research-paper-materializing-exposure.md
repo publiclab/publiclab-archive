@@ -7,6 +7,8 @@ path: /notes/Sara/09-13-2017/about-hydrogen-sulfide-research-paper-materializing
 nid: 14891
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/917/original/Additional_Figures_MaterializingExposure_compressed.pdf)

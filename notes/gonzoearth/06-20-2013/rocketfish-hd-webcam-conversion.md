@@ -7,6 +7,8 @@ path: /notes/gonzoearth/06-20-2013/rocketfish-hd-webcam-conversion.md
 nid: 8323
 uid: 12
 
+cids: 5556,5560,5954
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/549/original/IMG_0022.JPG)

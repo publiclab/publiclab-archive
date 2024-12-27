@@ -7,6 +7,8 @@ path: /06-08-2014/tips-on-sorting-on-windows-including-re-naming-filenames.md
 nid: 10540
 uid: 379
 
+cids: 9165,9170,9174,9175,9179
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/562/original/screenshot_preview_list_pl_sorting.png)

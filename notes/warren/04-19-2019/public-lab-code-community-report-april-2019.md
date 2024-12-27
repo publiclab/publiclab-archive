@@ -7,6 +7,8 @@ path: /notes/warren/04-19-2019/public-lab-code-community-report-april-2019.md
 nid: 19116
 uid: 1
 
+cids: 23966
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/654/original/image.png)

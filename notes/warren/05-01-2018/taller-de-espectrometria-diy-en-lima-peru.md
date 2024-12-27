@@ -7,6 +7,8 @@ path: /notes/warren/05-01-2018/taller-de-espectrometria-diy-en-lima-peru.md
 nid: 41
 uid: 1
 
+cids: 
+
 ---
 
 # Taller de espectrometría "DIY" en Lima, Peru

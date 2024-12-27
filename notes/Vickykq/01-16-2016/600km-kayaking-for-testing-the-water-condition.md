@@ -7,6 +7,8 @@ path: /notes/Vickykq/01-16-2016/600km-kayaking-for-testing-the-water-condition.m
 nid: 12589
 uid: 461714
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/673/original/undefined)

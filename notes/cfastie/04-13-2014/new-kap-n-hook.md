@@ -7,6 +7,8 @@ path: /notes/cfastie/04-13-2014/new-kap-n-hook.md
 nid: 10302
 uid: 554
 
+cids: 8756,8760
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/639/original/KapnHookUse.jpg)

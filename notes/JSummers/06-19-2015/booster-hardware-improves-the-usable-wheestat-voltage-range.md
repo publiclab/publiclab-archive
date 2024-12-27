@@ -7,6 +7,8 @@ path: /notes/JSummers/06-19-2015/booster-hardware-improves-the-usable-wheestat-v
 nid: 11989
 uid: 304279
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/208/original/ASV_Pb_Analysis.png)

@@ -7,6 +7,8 @@ path: /notes/warren/09-28-2016/fly-a-small-camera-on-a-very-portable-squid-shape
 nid: 13502
 uid: 1
 
+cids: 15525,15526,15527,15529,15531,16118,16127,16128
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/193/original/IMG_20160924_134150-2.jpg)

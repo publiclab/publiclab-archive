@@ -7,6 +7,8 @@ path: /notes/jetson/1-27-2013/attempt-distance-spectrometery.md
 nid: 5741
 uid: 47133
 
+cids: 3262,3284,3285,3287,3299,3300,3308,3333,3336,3342,6950
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Scope Spcetrometer_3.jpg)

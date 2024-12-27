@@ -7,6 +7,8 @@ path: /notes/stevie/09-06-2016/question-has-anyone-used-a-timelapse-camera-in-st
 nid: 13427
 uid: 422561
 
+cids: 15336,15337,15338,15339,15340,15341,15343,15344,15345,15437,15607,15661,15755,22291,22328
+
 ---
 
 # Has anyone used a timelapse camera in stream monitoring?

@@ -7,6 +7,8 @@ path: /notes/denissebn_06/04-30-2021/wilfires-in-el-salvador.md
 nid: 26404
 uid: 749988
 
+cids: 30320
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/616/original/LaMontanona-incendio.png)

@@ -7,6 +7,8 @@ path: /04-20-2014/barataria-2014-march-21st.md
 nid: 10336
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/730/original/21_march_barataria_public_lab.png)

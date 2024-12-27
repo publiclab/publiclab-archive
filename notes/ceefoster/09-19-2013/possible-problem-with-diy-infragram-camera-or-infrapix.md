@@ -7,6 +7,8 @@ path: /notes/ceefoster/09-19-2013/possible-problem-with-diy-infragram-camera-or-
 nid: 9347
 uid: 264459
 
+cids: 6967,6976,6981,7002,7003,7012,7013,7016,7046,7048,7053,7054
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/600/original/figs_infrapixNDVI.jpg)

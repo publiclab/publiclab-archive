@@ -7,6 +7,8 @@ path: /notes/cfastie/04-24-2014/mobius-white-balance.md
 nid: 10353
 uid: 554
 
+cids: 16769,16770
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/842/original/MobTest-408-24CU.jpg)

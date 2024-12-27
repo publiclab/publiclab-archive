@@ -7,6 +7,8 @@ path: /notes/kgradow1/09-30-2017/walkthrough-what-software-is-used-to-get-wind-d
 nid: 14977
 uid: 297929
 
+cids: 17749
+
 ---
 
 # Walkthrough:  What software is used to get wind data off the Kestral?

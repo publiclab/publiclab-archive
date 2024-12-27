@@ -7,6 +7,8 @@ path: /notes/cfastie/04-15-2014/pierre-s-plastic-picavet.md
 nid: 10311
 uid: 554
 
+cids: 9329,9330
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/665/original/3Dstore-363-73.jpg)

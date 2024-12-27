@@ -7,6 +7,8 @@ path: /notes/lilybui/11-27-2014/riffle-ito-rhapsody-more-data-auralization-sonif
 nid: 11412
 uid: 420662
 
+cids: 10868,10877,10881
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/138/original/20141126_213113.jpg)

@@ -7,6 +7,8 @@ path: /notes/mimiss/03-31-2020/build-an-infragram-pi-camera.md
 nid: 23270
 uid: 579821
 
+cids: 29219
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/841/original/IMG_2008.jpeg)

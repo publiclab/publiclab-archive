@@ -7,6 +7,8 @@ path: /notes/claf/04-05-2015/xbeepal-ready-for-monitoring.md
 nid: 11743
 uid: 426041
 
+cids: 11466,11469,11471,11472,11474,11475,11476,12896,12931
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/548/original/alive-sm.jpg)

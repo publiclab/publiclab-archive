@@ -7,6 +7,8 @@ path: /notes/suman/03-25-2017/related-literatures-international-journals-related
 nid: 14058
 uid: 497769
 
+cids: 
+
 ---
 
 # Related Literatures, International Journals related to NDVI from Cheap Modified Mobius Camera

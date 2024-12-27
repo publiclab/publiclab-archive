@@ -7,6 +7,8 @@ path: /notes/rebeccaMw/01-25-2022/adapted-sampling-for-the-babylegs-kit.md
 nid: 28831
 uid: 779054
 
+cids: 29807,30316,31201,31309,31314,31318,31325
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/332/original/Babylegs.png)

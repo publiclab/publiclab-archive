@@ -7,6 +7,8 @@ path: /notes/danieisnietgek/11-28-2019/spectral-workbench.md
 nid: 21610
 uid: 636328
 
+cids: 
+
 ---
 
 # Spectral Workbench

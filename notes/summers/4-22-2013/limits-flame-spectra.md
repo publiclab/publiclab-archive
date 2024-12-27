@@ -7,6 +7,8 @@ path: /notes/summers/4-22-2013/limits-flame-spectra.md
 nid: 6984
 uid: 55091
 
+cids: 4520,4522,4523,4527,4637,6496,6766
+
 ---
 
 # Limits on Flame Spectra

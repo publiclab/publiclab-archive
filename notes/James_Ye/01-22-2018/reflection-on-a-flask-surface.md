@@ -7,6 +7,8 @@ path: /notes/James_Ye/01-22-2018/reflection-on-a-flask-surface.md
 nid: 15579
 uid: 523260
 
+cids: 
+
 ---
 
 # Reflection on a flask surface

@@ -7,6 +7,8 @@ path: /07-10-2017/quick-kite-survey-of-bayou-st-john-wetland-post-cindy-july-1st
 nid: 14643
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/099/original/July_1_2017_post_cindy_annotated_kite_picture.png)

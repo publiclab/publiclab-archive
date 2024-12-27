@@ -7,6 +7,8 @@ path: /notes/mdiego2798/12-08-2021/printable-3d-spectometer.md
 nid: 28341
 uid: 781768
 
+cids: 29508,29512,29513,29561
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/200/original/IMG_20211210_071405__01.jpg)

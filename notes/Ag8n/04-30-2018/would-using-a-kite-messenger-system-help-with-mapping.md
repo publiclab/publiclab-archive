@@ -7,6 +7,8 @@ path: /notes/Ag8n/04-30-2018/would-using-a-kite-messenger-system-help-with-mappi
 nid: 16272
 uid: 520994
 
+cids: 19531,23083,23987
+
 ---
 
 # Would using a kite messenger system help with mapping?

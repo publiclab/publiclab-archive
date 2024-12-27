@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-1-2012/scope-alberta-oil-sands-must-be-seen-be-believe
 nid: 1878
 uid: 12
 
+cids: 688,694
+
 ---
 
 # "The Scope Of The Alberta Oil Sands Must Be Seen To Be Believed"

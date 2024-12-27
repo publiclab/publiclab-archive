@@ -7,6 +7,8 @@ path: /notes/dorncox/4-23-2013/ifarm-imaging-agricultural-research-and-managemen
 nid: 7013
 uid: 1205
 
+cids: 4629,4738
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/115/original/Launching_the_rig.jpg)

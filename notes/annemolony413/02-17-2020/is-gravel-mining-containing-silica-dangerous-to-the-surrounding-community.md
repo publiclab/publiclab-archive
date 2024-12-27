@@ -7,6 +7,8 @@ path: /notes/annemolony413/02-17-2020/is-gravel-mining-containing-silica-dangero
 nid: 22828
 uid: 665463
 
+cids: 26346,26385,26399,26400
+
 ---
 
 # Is gravel mining containing silica dangerous to the surrounding community?

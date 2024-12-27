@@ -7,6 +7,8 @@ path: /notes/CD3000/11-20-2018/how-can-i-connect-my-gopro-to-spectralworkbench-s
 nid: 17722
 uid: 558166
 
+cids: 21314,21476,21487
+
 ---
 
 # How can I connect my gopro to SpectralWorkbench software?  Is there other open software that would?

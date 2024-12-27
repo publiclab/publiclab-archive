@@ -7,6 +7,8 @@ path: /notes/jalexa13/2-14-2013/closer-look-air-quality-egg-location.md
 nid: 5988
 uid: 50451
 
+cids: 
+
 ---
 
 # Closer Look at the Air Quality Egg Location

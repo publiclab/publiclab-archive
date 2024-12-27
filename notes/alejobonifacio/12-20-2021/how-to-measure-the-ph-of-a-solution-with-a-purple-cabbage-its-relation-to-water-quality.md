@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/12-20-2021/how-to-measure-the-ph-of-a-solution-with-
 nid: 28512
 uid: 639376
 
+cids: 29536,29594,29596,29609,29610,29612,29635,29639,29640,29641,29642,29645,29646,31113,31315,31326
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/269/original/Purple_cabagge_activity.png)

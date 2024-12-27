@@ -7,6 +7,8 @@ path: /notes/rcmjh/02-03-2017/getting-mini-spectrometer-to-produce-a-spectrum.md
 nid: 13903
 uid: 502562
 
+cids: 16139
+
 ---
 
 # Getting mini spectrometer to produce a spectrum

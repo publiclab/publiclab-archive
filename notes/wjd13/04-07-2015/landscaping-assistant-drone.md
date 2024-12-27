@@ -7,6 +7,8 @@ path: /notes/wjd13/04-07-2015/landscaping-assistant-drone.md
 nid: 11749
 uid: 438057
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/564/original/housefromabove)

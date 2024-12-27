@@ -7,6 +7,8 @@ path: /notes/natevw/4-9-2012/balloon-kit-tips.md
 nid: 1636
 uid: 804
 
+cids: 587
+
 ---
 
 ![](https://publiclab.org/sites/default/files/fusing_rope.jpg)

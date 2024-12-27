@@ -7,6 +7,8 @@ path: /notes/warren/9-13-2012/spectrometry-update-idealab-blog.md
 nid: 3798
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spec.jpg)

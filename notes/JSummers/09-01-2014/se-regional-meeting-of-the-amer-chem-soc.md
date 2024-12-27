@@ -7,6 +7,8 @@ path: /notes/JSummers/09-01-2014/se-regional-meeting-of-the-amer-chem-soc.md
 nid: 11094
 uid: 304279
 
+cids: 11432,11433
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/489/original/SERMACS_Logo.png)

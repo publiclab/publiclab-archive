@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/09-10-2016/comparing-the-ebert-cfl-spectral-image-to-the
 nid: 13440
 uid: 461120
 
+cids: 15354
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/009/original/CFL_cal_PLAB_fit_of_7_sept_10_test002.png)

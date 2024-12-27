@@ -7,6 +7,8 @@ path: /notes/stevie/03-05-2015/gulf-coast-april-pole-mapping.md
 nid: 11656
 uid: 422561
 
+cids: 11468,11488
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/176/original/April_Mapping.jpg)

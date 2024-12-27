@@ -7,6 +7,8 @@ path: /notes/ninalang/05-12-2016/public-lab-river-rat-pack-st-louis-nina.md
 nid: 13110
 uid: 465986
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/134/original/20160220_114512.jpg)

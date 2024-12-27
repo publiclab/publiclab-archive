@@ -7,6 +7,8 @@ path: /notes/HaTran/08-02-2016/mapknitter-map-of-lipsi.md
 nid: 13323
 uid: 485436
 
+cids: 15059,15060,15061
+
 ---
 
 # MapKnitter map of Lipsi

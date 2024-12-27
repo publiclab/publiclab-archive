@@ -7,6 +7,8 @@ path: /notes/stevie/05-10-2017/what-are-the-health-effects-related-to-fine-parti
 nid: 14175
 uid: 422561
 
+cids: 22464,22465,22466,22467,22470,22476,22559
+
 ---
 
 # What are the health effects related to fine particles of calcium carbonate?

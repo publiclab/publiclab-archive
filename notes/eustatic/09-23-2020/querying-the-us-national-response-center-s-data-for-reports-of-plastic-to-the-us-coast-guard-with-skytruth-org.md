@@ -7,6 +7,8 @@ path: /09-23-2020/querying-the-us-national-response-center-s-data-for-reports-of
 nid: 24634
 uid: 379
 
+cids: 27405,27421,27429,27432,27467
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/970/original/skytruthalertsmap_%282%29.jpg)

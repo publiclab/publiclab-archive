@@ -7,6 +7,8 @@ path: /notes/SpencerH/03-13-2017/cannot-find-colour-spectrum.md
 nid: 14006
 uid: 503742
 
+cids: 16343,22679
+
 ---
 
 # Cannot find colour spectrum

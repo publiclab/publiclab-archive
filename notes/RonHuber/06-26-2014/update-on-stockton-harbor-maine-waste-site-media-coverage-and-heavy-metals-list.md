@@ -7,6 +7,8 @@ path: /notes/RonHuber/06-26-2014/update-on-stockton-harbor-maine-waste-site-medi
 nid: 10621
 uid: 437
 
+cids: 9488,9491
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/001/original/gacshore_1940_2011_tips.jpg)

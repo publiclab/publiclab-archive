@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-31-2016/200-00-laser-vs-18-00-laser.md
 nid: 12899
 uid: 461120
 
+cids: 14167,14168
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/260/original/PIC_0138.JPG)

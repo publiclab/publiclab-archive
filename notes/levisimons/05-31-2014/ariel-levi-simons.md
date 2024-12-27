@@ -7,6 +7,8 @@ path: /notes/levisimons/05-31-2014/ariel-levi-simons.md
 nid: 10520
 uid: 1087
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/490/original/levi.jpg)

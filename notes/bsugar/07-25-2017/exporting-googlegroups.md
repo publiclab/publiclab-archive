@@ -7,6 +7,8 @@ path: /notes/bsugar/07-25-2017/exporting-googlegroups.md
 nid: 14679
 uid: 217812
 
+cids: 17094,17095,17096,17097,17098,17101
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/210/original/Screen_Shot_2017-07-25_at_2.58.41_AM.png)

@@ -7,6 +7,8 @@ path: /notes/shannon/5-2-2012/air-column-monitor-notes-5212-meeting.md
 nid: 1890
 uid: 9
 
+cids: 
+
 ---
 
 # Air Column Monitor notes: 5.2.12 meeting

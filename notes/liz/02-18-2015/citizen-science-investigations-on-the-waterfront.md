@@ -7,6 +7,8 @@ path: /notes/liz/02-18-2015/citizen-science-investigations-on-the-waterfront.md
 nid: 11602
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/018/original/2015-02-27-GowanusCSI.png)

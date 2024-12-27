@@ -7,6 +7,8 @@ path: /notes/stevie/05-12-2015/bayou-bienvenue-mapping.md
 nid: 11807
 uid: 422561
 
+cids: 11664,11687,11736
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/866/original/Bayou_Bien._Mapping.jpg)

@@ -7,6 +7,8 @@ path: /08-11-2015/can-a-linux-board-and-wifi-bridge-be-cost-effective-for-remote
 nid: 12137
 uid: 174
 
+cids: 12357,12358,12363
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/100/original/p6Ixe.jpg)

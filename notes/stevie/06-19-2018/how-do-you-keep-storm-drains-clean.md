@@ -7,6 +7,8 @@ path: /notes/stevie/06-19-2018/how-do-you-keep-storm-drains-clean.md
 nid: 16530
 uid: 422561
 
+cids: 23131
+
 ---
 
 # How do you keep storm drains clean? 

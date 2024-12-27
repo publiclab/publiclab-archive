@@ -7,6 +7,8 @@ path: /notes/asnow/01-23-2018/prefered-slit-size.md
 nid: 15590
 uid: 515746
 
+cids: 18268,18297,19327,19462,19481,22871
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/297/original/slits_1024x1024.jpg)

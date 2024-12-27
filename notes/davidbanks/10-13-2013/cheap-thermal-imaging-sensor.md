@@ -7,6 +7,8 @@ path: /notes/davidbanks/10-13-2013/cheap-thermal-imaging-sensor.md
 nid: 9444
 uid: 308648
 
+cids: 7245
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/925/original/foto_1.JPG)

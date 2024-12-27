@@ -7,6 +7,8 @@ path: /notes/Ironman/12-29-2021/how-to-meassure-plastics-for-bpa.md
 nid: 28595
 uid: 783927
 
+cids: 29562,29564,29567,29573,29574,29581
+
 ---
 
 # How to meassure plastics for BPA?

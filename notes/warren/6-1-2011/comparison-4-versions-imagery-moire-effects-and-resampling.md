@@ -7,6 +7,8 @@ path: /notes/warren/6-1-2011/comparison-4-versions-imagery-moire-effects-and-res
 nid: 315
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-06-01 at 10.36.23 PM.png)

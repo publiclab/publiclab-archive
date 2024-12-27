@@ -7,6 +7,8 @@ path: /notes/mathew/08-29-2014/clips-for-the-next-spectrometer-pt-2.md
 nid: 11085
 uid: 4
 
+cids: 10170,10203,10204
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/496/original/Screen_Shot_2014-08-28_at_9.35.40_PM.png)

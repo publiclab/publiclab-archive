@@ -7,6 +7,8 @@ path: /notes/warren/7-2-2012/matching-olive-oil-spectra-spectralworkbench.md
 nid: 2695
 uid: 1
 
+cids: 1074,1532,1612
+
 ---
 
 ![](https://publiclab.org/sites/default/files/match.jpg)

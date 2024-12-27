@@ -7,6 +7,8 @@ path: /notes/mathew/09-02-2015/replicating-a-passive-dust-monitor-method.md
 nid: 12192
 uid: 4
 
+cids: 12489,12493,12498,13199
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/387/original/IMG_20150901_210206-edit.jpg)

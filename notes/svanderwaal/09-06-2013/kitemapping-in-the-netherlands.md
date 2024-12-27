@@ -7,6 +7,8 @@ path: /notes/svanderwaal/09-06-2013/kitemapping-in-the-netherlands.md
 nid: 9299
 uid: 236313
 
+cids: 6764,6918,6943
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/416/original/2013-06-28_15.50.16.jpg)

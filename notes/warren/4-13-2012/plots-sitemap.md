@@ -7,6 +7,8 @@ path: /notes/warren/4-13-2012/plots-sitemap.md
 nid: 1669
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/image.jpg)

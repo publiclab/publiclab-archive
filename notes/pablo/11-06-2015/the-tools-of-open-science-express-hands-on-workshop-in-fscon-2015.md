@@ -7,6 +7,8 @@ path: /notes/pablo/11-06-2015/the-tools-of-open-science-express-hands-on-worksho
 nid: 12374
 uid: 160
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/509/original/IMG_8187-1024x768.jpg)

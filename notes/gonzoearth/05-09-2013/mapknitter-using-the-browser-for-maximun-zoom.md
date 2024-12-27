@@ -7,6 +7,8 @@ path: /notes/gonzoearth/05-09-2013/mapknitter-using-the-browser-for-maximun-zoom
 nid: 7367
 uid: 12
 
+cids: 8583,8823
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/205/original/Screen_Shot_2013-05-09_at_4.13.45_PM.png)

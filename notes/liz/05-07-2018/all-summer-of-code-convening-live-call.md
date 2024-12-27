@@ -7,6 +7,8 @@ path: /notes/liz/05-07-2018/all-summer-of-code-convening-live-call.md
 nid: 16308
 uid: 7
 
+cids: 19577,19578,19579,19580,19581,19584,19585,19826,19837,19857,19864
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/832/original/satellite.svg)

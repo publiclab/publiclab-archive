@@ -7,6 +7,8 @@ path: /notes/minot/12-13-2012/understanding-spectrum.md
 nid: 5191
 uid: 46765
 
+cids: 2737
+
 ---
 
 # Understanding the spectrum

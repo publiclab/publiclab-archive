@@ -7,6 +7,8 @@ path: /notes/igniteeng000/03-31-2019/mapknitter-map-of-statue-of-liberty.md
 nid: 18910
 uid: 551692
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/903/original/sole.jpg)

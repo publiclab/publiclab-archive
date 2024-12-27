@@ -7,6 +7,8 @@ path: /notes/lmc6399group/02-13-2015/common-anode-led-thermal-flashlight-casing-
 nid: 11580
 uid: 435207
 
+cids: 11164,11166,11192
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/961/original/diagram.jpg)

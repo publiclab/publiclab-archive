@@ -7,6 +7,8 @@ path: /notes/chross/06-26-2019/spectrometer-improvements.md
 nid: 19870
 uid: 600374
 
+cids: 
+
 ---
 
 # Spectrometer: improvements

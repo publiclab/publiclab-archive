@@ -7,6 +7,8 @@ path: /notes/lpercifield/6-28-2011/3d-point-cloud.md
 nid: 363
 uid: 20
 
+cids: 291,293,295,299,29535,30267
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-06-28 at 1.03.31 PM.png)

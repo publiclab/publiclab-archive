@@ -7,6 +7,8 @@ path: /notes/sara/7-29-2012/epa-citizen-science-workshops.md
 nid: 3013
 uid: 8
 
+cids: 
+
 ---
 
 # EPA Citizen Science Workshops

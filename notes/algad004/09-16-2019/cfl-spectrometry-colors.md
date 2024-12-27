@@ -7,6 +7,8 @@ path: /notes/algad004/09-16-2019/cfl-spectrometry-colors.md
 nid: 20890
 uid: 619927
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/283/original/IMG_1311.jpg)

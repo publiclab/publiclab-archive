@@ -7,6 +7,8 @@ path: /notes/mimiss/09-05-2019/community-microscope-stage-assembly-instructions.
 nid: 20703
 uid: 579821
 
+cids: 25440,25441,25442,25443,25447,29408,29412,29427,29428,29437,29440,29441,29458,30650
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/139/original/microscope-drawing-clip-lens.jpg)

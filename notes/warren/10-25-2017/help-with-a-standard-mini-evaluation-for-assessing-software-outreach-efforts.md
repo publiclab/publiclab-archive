@@ -7,6 +7,8 @@ path: /notes/warren/10-25-2017/help-with-a-standard-mini-evaluation-for-assessin
 nid: 15093
 uid: 1
 
+cids: 17572,17574,17575,17576,17584,17814,17815,18131,22973,23039,24086
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/026/original/Screenshot_2017-10-25_at_10.47.03_AM.png)

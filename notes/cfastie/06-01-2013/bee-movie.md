@@ -7,6 +7,8 @@ path: /notes/cfastie/06-01-2013/bee-movie.md
 nid: 7997
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/444/original/bee.jpg)

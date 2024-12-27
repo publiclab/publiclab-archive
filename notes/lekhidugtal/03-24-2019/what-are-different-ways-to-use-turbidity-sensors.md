@@ -7,6 +7,8 @@ path: /notes/lekhidugtal/03-24-2019/what-are-different-ways-to-use-turbidity-sen
 nid: 18834
 uid: 577754
 
+cids: 
+
 ---
 
 # What are some different ways to use turbidity sensors? 

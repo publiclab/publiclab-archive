@@ -7,6 +7,8 @@ path: /notes/nshapiro/09-02-2016/question-what-is-the-open-source-community-s-ta
 nid: 13411
 uid: 380298
 
+cids: 15291,15293,15297,15302,15305,15563,22267,22268,22269,22310
+
 ---
 
 # Question: What is the Open Source Community's Take the MIT License?

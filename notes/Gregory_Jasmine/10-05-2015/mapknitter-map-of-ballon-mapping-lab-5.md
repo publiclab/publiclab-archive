@@ -7,6 +7,8 @@ path: /notes/Gregory_Jasmine/10-05-2015/mapknitter-map-of-ballon-mapping-lab-5.m
 nid: 12268
 uid: 453039
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/763/original/P1030699.JPG)

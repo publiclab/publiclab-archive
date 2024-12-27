@@ -7,6 +7,8 @@ path: /notes/imvec/07-06-2018/summerlab-2018-citizen-investigation-and-civic-use
 nid: 16654
 uid: 495038
 
+cids: 20498
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/460/original/summerlab_1.png)

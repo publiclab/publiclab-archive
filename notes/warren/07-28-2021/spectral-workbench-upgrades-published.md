@@ -7,6 +7,8 @@ path: /notes/warren/07-28-2021/spectral-workbench-upgrades-published.md
 nid: 27345
 uid: 1
 
+cids: 29066,29067
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/509/original/Screen_Shot_2021-07-28_at_8.46.21_AM.png)

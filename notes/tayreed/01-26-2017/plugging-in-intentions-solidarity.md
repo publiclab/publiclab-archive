@@ -7,6 +7,8 @@ path: /notes/tayreed/01-26-2017/plugging-in-intentions-solidarity.md
 nid: 13881
 uid: 502372
 
+cids: 16115,16119,16129,16130,16143
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/380/original/wp_20151011_19_11_32_pro.jpg)

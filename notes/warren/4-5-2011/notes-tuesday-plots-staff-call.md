@@ -7,6 +7,8 @@ path: /notes/warren/4-5-2011/notes-tuesday-plots-staff-call.md
 nid: 157
 uid: 1
 
+cids: 
+
 ---
 
 # Notes from Tuesday PLOTS staff call

@@ -7,6 +7,8 @@ path: /notes/TravisLondon/03-22-2022/a-public-statement-against-formosa-plastic-
 nid: 30174
 uid: 776235
 
+cids: 29846
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/565/original/pasted_image_0.png)

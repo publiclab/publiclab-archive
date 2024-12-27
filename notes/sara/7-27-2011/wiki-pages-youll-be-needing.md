@@ -7,6 +7,8 @@ path: /notes/sara/7-27-2011/wiki-pages-youll-be-needing.md
 nid: 412
 uid: 8
 
+cids: 
+
 ---
 
 # Wiki pages you'll be needing:

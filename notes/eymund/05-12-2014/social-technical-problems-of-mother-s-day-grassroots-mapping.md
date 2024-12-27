@@ -7,6 +7,8 @@ path: /notes/eymund/05-12-2014/social-technical-problems-of-mother-s-day-grassro
 nid: 10465
 uid: 1016
 
+cids: 9021
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/235/original/0_2014_5_11_Prospect_Park_spring_scoping_IMG_6263_cropped.jpg)

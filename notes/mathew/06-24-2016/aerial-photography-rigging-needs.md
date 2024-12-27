@@ -7,6 +7,8 @@ path: /notes/mathew/06-24-2016/aerial-photography-rigging-needs.md
 nid: 13243
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/791/original/P1090338.JPG)

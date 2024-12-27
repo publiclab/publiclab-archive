@@ -7,6 +7,8 @@ path: /notes/jela0194/06-11-2019/can-you-calibrate-this.md
 nid: 19657
 uid: 596485
 
+cids: 
+
 ---
 
 # Can you calibrate this?

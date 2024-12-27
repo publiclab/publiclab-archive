@@ -7,6 +7,8 @@ path: /notes/bsugar/04-29-2019/part-i-how-to-create-a-relational-diagram-of-the-
 nid: 19174
 uid: 217812
 
+cids: 24007,24008,25017,25025
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/712/original/Screen_Shot_2019-04-26_at_5.14.33_PM.png)

@@ -7,6 +7,8 @@ path: /3-29-2013/weeks-bay-kite-training.md
 nid: 6607
 uid: 379
 
+cids: 4286,4287,4288,4324
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0686 y.JPG)

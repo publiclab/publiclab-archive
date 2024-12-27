@@ -7,6 +7,8 @@ path: /notes/Zengirl2/10-20-2017/replication-harvey-impact-image-sort.md
 nid: 15073
 uid: 423961
 
+cids: 17551
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/988/original/HarveyLes.jpg)

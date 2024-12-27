@@ -7,6 +7,8 @@ path: /notes/shannon/4-27-2011/no-we-dont-want-move.md
 nid: 196
 uid: 9
 
+cids: 
+
 ---
 
 # No, we don't want to move.

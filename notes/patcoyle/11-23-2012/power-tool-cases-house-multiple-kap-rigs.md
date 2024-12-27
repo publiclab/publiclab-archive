@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-23-2012/power-tool-cases-house-multiple-kap-rigs.md
 nid: 4998
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Untitled 01_0.jpg)

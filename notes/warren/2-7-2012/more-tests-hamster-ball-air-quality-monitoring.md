@@ -7,6 +7,8 @@ path: /notes/warren/2-7-2012/more-tests-hamster-ball-air-quality-monitoring.md
 nid: 761
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6836250339_4fa8172c29_b.jpg)

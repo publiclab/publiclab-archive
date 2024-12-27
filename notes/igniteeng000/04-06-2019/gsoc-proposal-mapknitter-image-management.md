@@ -7,6 +7,8 @@ path: /notes/igniteeng000/04-06-2019/gsoc-proposal-mapknitter-image-management.m
 nid: 18969
 uid: 551692
 
+cids: 23732,23782,24064
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/170/original/mapknitter-yarn.png)

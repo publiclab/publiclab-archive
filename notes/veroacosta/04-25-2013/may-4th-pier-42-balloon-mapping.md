@@ -7,6 +7,8 @@ path: /notes/veroacosta/04-25-2013/may-4th-pier-42-balloon-mapping.md
 nid: 7050
 uid: 45662
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/119/original/PTP42_Community_Day_Flier_English.jpg)

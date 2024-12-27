@@ -7,6 +7,8 @@ path: /notes/gonzoearth/10-15-2012/cartography-and-geographic-information-societ
 nid: 4426
 uid: 12
 
+cids: 
+
 ---
 
 # The Cartography and Geographic Information Society Map Design Competition

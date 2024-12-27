@@ -7,6 +7,8 @@ path: /notes/jrmc502/10-07-2020/towards-ai-assisted-water-testing.md
 nid: 24713
 uid: 705531
 
+cids: 27478,27505,27511,27512,27514,27761,28065
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/095/original/IMG_20200819_134838734_HDR.jpg)

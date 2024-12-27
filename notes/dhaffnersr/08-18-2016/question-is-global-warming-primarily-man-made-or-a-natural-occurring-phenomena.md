@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-18-2016/question-is-global-warming-primarily-man-made
 nid: 13362
 uid: 461120
 
+cids: 15178,15180,15184,15186,22258,22259,22260,22261,22262,22263
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/670/original/hqdefault.jpg)

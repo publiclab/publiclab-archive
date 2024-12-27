@@ -7,6 +7,8 @@ path: /notes/warren/4-8-2012/davis-square-balloon-photos.md
 nid: 1632
 uid: 1
 
+cids: 625
+
 ---
 
 ![](https://publiclab.org/sites/default/files/davis-square-2227.jpg)

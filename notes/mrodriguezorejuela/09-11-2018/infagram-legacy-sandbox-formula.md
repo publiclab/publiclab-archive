@@ -7,6 +7,8 @@ path: /notes/mrodriguezorejuela/09-11-2018/infagram-legacy-sandbox-formula.md
 nid: 17089
 uid: 550339
 
+cids: 20646,23225
+
 ---
 
 # Infragram - Legacy sandbox formula

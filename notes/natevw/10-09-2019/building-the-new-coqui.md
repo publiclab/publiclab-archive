@@ -7,6 +7,8 @@ path: /notes/natevw/10-09-2019/building-the-new-coqui.md
 nid: 21125
 uid: 804
 
+cids: 
+
 ---
 
 # Building the new Coqui

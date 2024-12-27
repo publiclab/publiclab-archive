@@ -7,6 +7,8 @@ path: /notes/5-5-2012/newark-reservoir.md
 nid: 2097
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/t_160_medium.jpg)

@@ -7,6 +7,8 @@ path: /notes/Dave-O/10-16-2017/building-a-fusor-need-help-with-plasma-position.m
 nid: 15056
 uid: 502943
 
+cids: 
+
 ---
 
 # Building a Fusor. Need help with plasma position

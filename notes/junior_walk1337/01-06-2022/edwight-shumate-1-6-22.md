@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/01-06-2022/edwight-shumate-1-6-22.md
 nid: 28685
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/304/original/Edwight-Sundial.jpg)

@@ -7,6 +7,8 @@ path: /notes/liz/09-23-2016/event-citizen-science-gathering-in-west-virginia.md
 nid: 13472
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/135/original/Screen_Shot_2016-09-23_at_11.37.53_AM.png)

@@ -7,6 +7,8 @@ path: /notes/mathew/09-04-2014/getting-a-high-altitude-balloon-back.md
 nid: 11101
 uid: 4
 
+cids: 10190,10196,10209,10924,12721
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/584/original/Screen_Shot_2014-09-03_at_10.08.19_PM.png)

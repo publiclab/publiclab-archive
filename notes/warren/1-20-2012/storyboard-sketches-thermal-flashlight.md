@@ -7,6 +7,8 @@ path: /notes/warren/1-20-2012/storyboard-sketches-thermal-flashlight.md
 nid: 711
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/thermal-flashlight-room-color.jpg)

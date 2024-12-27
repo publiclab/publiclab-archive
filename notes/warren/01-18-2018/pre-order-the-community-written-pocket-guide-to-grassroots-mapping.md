@@ -7,6 +7,8 @@ path: /notes/warren/01-18-2018/pre-order-the-community-written-pocket-guide-to-g
 nid: 15545
 uid: 1
 
+cids: 18209,18210,18211
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/201/original/26068242_2000536900161090_8104197322948214784_n.jpg)

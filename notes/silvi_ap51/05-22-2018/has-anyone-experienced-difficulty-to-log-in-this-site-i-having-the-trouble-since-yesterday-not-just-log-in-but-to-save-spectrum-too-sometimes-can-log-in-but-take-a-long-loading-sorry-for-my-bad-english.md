@@ -7,6 +7,8 @@ path: /notes/silvi_ap51/05-22-2018/has-anyone-experienced-difficulty-to-log-in-t
 nid: 16378
 uid: 523982
 
+cids: 19682,19692,19693,19696,19697,19698,19699,19702,19723
+
 ---
 
 # Has anyone experienced difficulty to log in this site? I having the trouble since yesterday. Not just log in, but to save spectrum too (sometimes can log in but take a long loading). sorry for my bad english.

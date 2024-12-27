@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-20-2016/effects-of-the-turning-angle-of-a-polarizing
 nid: 13005
 uid: 468990
 
+cids: 14341,14345
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/677/original/Polfilter_turn.jpg)

@@ -7,6 +7,8 @@ path: /05-28-2013/kite-photos-of-ongoing-coal-pollution-in-plaquemines-parish-la
 nid: 7945
 uid: 379
 
+cids: 17313
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/427/original/8742168630_279f662a1f_o.jpg)

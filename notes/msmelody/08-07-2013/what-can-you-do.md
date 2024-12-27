@@ -7,6 +7,8 @@ path: /notes/msmelody/08-07-2013/what-can-you-do.md
 nid: 8978
 uid: 163752
 
+cids: 6550,6551,6552,6553,6556,6557,6558,6559,6560,6561,6562,6577,6579,6580,6581,6583,6584,6585,6586,6587
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/059/original/AQE_mainphoto)

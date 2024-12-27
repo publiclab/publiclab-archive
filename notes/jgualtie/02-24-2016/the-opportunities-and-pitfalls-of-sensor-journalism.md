@@ -7,6 +7,8 @@ path: /notes/jgualtie/02-24-2016/the-opportunities-and-pitfalls-of-sensor-journa
 nid: 12741
 uid: 461488
 
+cids: 
+
 ---
 
 # The Opportunities and Pitfalls of Sensor Journalism

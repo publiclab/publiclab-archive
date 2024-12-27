@@ -7,6 +7,8 @@ path: /notes/sarasage/11-11-2016/barnraising-2016-at-lumcon-resources-for-landfi
 nid: 13696
 uid: 451398
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/764/original/Banner_Barnraising2016_for_Landfill_Peeps.jpg)

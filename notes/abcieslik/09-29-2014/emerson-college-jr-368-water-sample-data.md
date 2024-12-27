@@ -7,6 +7,8 @@ path: /notes/abcieslik/09-29-2014/emerson-college-jr-368-water-sample-data.md
 nid: 11206
 uid: 428083
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/094/original/IMG_4978.JPG)

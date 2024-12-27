@@ -7,6 +7,8 @@ path: /notes/kauemv2/05-16-2019/should-i-use-two-sheets-of-filter.md
 nid: 19434
 uid: 590177
 
+cids: 24159,24164,24181,24259,29802
+
 ---
 
 # Should I use two sheets of filter?

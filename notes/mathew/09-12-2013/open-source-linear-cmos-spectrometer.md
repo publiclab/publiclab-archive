@@ -7,6 +7,8 @@ path: /notes/mathew/09-12-2013/open-source-linear-cmos-spectrometer.md
 nid: 9319
 uid: 4
 
+cids: 6949
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/499/original/DSC_0658-720.jpg)

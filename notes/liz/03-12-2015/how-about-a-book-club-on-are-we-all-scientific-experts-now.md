@@ -7,6 +7,8 @@ path: /notes/liz/03-12-2015/how-about-a-book-club-on-are-we-all-scientific-exper
 nid: 11672
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/244/original/18452_review_are_we_all_scientific_experts_now_harry_collins.jpg)

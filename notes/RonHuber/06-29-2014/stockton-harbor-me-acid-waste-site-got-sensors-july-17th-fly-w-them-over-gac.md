@@ -7,6 +7,8 @@ path: /notes/RonHuber/06-29-2014/stockton-harbor-me-acid-waste-site-got-sensors-
 nid: 10629
 uid: 437
 
+cids: 9368
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/014/original/gacshore_050113_gac_abandoned_bldg_tank_pollutedflat6.jpg)

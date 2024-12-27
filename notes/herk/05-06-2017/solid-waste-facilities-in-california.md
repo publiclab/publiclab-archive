@@ -7,6 +7,8 @@ path: /notes/herk/05-06-2017/solid-waste-facilities-in-california.md
 nid: 14166
 uid: 505555
 
+cids: 16778,16782,28170
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/398/original/map.PNG)

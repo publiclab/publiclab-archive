@@ -7,6 +7,8 @@ path: /notes/pablo/03-17-2014/talk-at-the-emerging-ict-for-citizens-veillance-wo
 nid: 10196
 uid: 160
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/294/original/citizens-veillance-workshop-ispra.png)

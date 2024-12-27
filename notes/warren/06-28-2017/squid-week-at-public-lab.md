@@ -7,6 +7,8 @@ path: /notes/warren/06-28-2017/squid-week-at-public-lab.md
 nid: 14590
 uid: 1
 
+cids: 16935
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/932/original/OI000076.jpg)

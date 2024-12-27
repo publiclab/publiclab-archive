@@ -7,6 +7,8 @@ path: /notes/tomtobback/10-28-2015/why-pm10count-relates-to-p2-rather-than-p1.md
 nid: 12339
 uid: 455689
 
+cids: 12793,12801,12803,12815
+
 ---
 
 # why PM10count relates to P2 rather than P1?

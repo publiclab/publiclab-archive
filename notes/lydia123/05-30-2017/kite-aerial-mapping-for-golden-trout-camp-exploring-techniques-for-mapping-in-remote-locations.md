@@ -7,6 +7,8 @@ path: /notes/lydia123/05-30-2017/kite-aerial-mapping-for-golden-trout-camp-explo
 nid: 14487
 uid: 508247
 
+cids: 16825,16832
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/776/original/IMG_5611.JPG)

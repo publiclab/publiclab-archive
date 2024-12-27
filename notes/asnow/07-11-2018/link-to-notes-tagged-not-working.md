@@ -7,6 +7,8 @@ path: /notes/asnow/07-11-2018/link-to-notes-tagged-not-working.md
 nid: 16689
 uid: 515746
 
+cids: 20812,31077
+
 ---
 
 # Link to notes tagged not working

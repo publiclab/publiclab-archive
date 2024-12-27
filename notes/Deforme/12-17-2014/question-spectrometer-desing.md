@@ -7,6 +7,8 @@ path: /notes/Deforme/12-17-2014/question-spectrometer-desing.md
 nid: 11480
 uid: 432880
 
+cids: 10972,10985
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/486/original/Prism_Monochrometer.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/09-19-2017/how-do-i-stabilize-smaller-balloons-and-prevent-t
 nid: 14907
 uid: 1
 
+cids: 17577,17581,17832,17892,17893,17894,17913,17915,17938,17939,22685,22687,22786,22798
+
 ---
 
 # How do I stabilize smaller balloons and prevent them from being blown down in the wind?

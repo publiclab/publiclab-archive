@@ -7,6 +7,8 @@ path: /03-11-2022/does-this-plume-count-as-a-violation-under-method-9-opacity-ph
 nid: 30121
 uid: 379
 
+cids: 29785,29786,29791,29796
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/496/original/OC_Rain_Cii_Carbon_feb_2022.jpg)

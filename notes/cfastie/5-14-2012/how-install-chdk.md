@@ -7,6 +7,8 @@ path: /notes/cfastie/5-14-2012/how-install-chdk.md
 nid: 1964
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/chdksplash.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/02-08-2017/be-a-mentor-for-public-lab-in-google-summer-of-co
 nid: 13910
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/489/original/gsoc-orgs.png)

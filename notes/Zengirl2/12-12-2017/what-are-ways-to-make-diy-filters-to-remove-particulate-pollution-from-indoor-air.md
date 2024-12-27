@@ -7,6 +7,8 @@ path: /notes/Zengirl2/12-12-2017/what-are-ways-to-make-diy-filters-to-remove-par
 nid: 15356
 uid: 423961
 
+cids: 17957,17960,17967,17972,17978,17988,17989,17992,22801,24930,24931,24943
+
 ---
 
 # What are ways to make DIY filters to remove particulate pollution from indoor air?

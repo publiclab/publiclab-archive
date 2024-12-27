@@ -7,6 +7,8 @@ path: /notes/gonzoearth/11-22-2011/video-occupy-uc-davis-nov-21-2011.md
 nid: 578
 uid: 12
 
+cids: 361,365
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_7868.JPG)

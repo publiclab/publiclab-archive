@@ -7,6 +7,8 @@ path: /notes/sfrickel/12-06-2019/recovering-ri-s-lost-industrial-footprint.md
 nid: 21685
 uid: 635246
 
+cids: 25969,25978
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/898/original/relic_gif-small.gif)

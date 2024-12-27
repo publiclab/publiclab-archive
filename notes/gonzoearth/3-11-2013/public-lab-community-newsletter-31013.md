@@ -7,6 +7,8 @@ path: /notes/gonzoearth/3-11-2013/public-lab-community-newsletter-31013.md
 nid: 6289
 uid: 12
 
+cids: 
+
 ---
 
 # Public Lab Community Newsletter 3.10.13

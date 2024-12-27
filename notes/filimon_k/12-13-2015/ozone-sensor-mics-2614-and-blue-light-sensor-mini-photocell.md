@@ -7,6 +7,8 @@ path: /notes/filimon_k/12-13-2015/ozone-sensor-mics-2614-and-blue-light-sensor-m
 nid: 12506
 uid: 460113
 
+cids: 15567,15653
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/294/original/ch5320.jpg)

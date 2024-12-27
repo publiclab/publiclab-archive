@@ -7,6 +7,8 @@ path: /notes/gwirth/7-23-2012/yellow-bar-island-dredge-reuse.md
 nid: 2930
 uid: 30539
 
+cids: 1068,1072,2001,2002,2003,2004,6337,6340
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Full_55x120.jpg)

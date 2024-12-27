@@ -7,6 +7,8 @@ path: /notes/sara/5-10-2012/map-epa-national-priorities-list-sites-h2s-issues.md
 nid: 1948
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Frequency of National Priorities list sites with H2S issues.png)

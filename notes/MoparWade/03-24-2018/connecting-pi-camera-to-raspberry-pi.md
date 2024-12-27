@@ -7,6 +7,8 @@ path: /notes/MoparWade/03-24-2018/connecting-pi-camera-to-raspberry-pi.md
 nid: 16016
 uid: 528484
 
+cids: 19253
+
 ---
 
 # Connecting Pi camera to Raspberry Pi

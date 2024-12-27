@@ -7,6 +7,8 @@ path: /notes/lionheadrex/06-22-2014/troubleshooting-white-light-instead-of-emiss
 nid: 10603
 uid: 424825
 
+cids: 9238,9239,9240,9315,9344,9345,9346
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/930/original/IMG_7959.JPG)

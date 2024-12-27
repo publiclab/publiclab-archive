@@ -7,6 +7,8 @@ path: /notes/kensanfran/11-02-2014/smart-sensor-board-for-electrochemical-gas-se
 nid: 11315
 uid: 430796
 
+cids: 10681,10685,10687,10692,13689,14132
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/691/original/echemX_328a_front.png)

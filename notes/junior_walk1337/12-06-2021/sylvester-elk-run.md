@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/12-06-2021/sylvester-elk-run.md
 nid: 28335
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/299/original/Screen_Shot_2022-01-04_at_11.38.18_AM.png)

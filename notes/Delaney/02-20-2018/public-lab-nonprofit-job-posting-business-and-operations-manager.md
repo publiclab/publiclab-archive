@@ -7,6 +7,8 @@ path: /notes/Delaney/02-20-2018/public-lab-nonprofit-job-posting-business-and-op
 nid: 15787
 uid: 517173
 
+cids: 19711
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/657/original/pl-narrow.png)

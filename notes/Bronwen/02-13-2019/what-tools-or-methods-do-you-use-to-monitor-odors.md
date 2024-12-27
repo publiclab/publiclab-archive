@@ -7,6 +7,8 @@ path: /notes/Bronwen/02-13-2019/what-tools-or-methods-do-you-use-to-monitor-odor
 nid: 18359
 uid: 237313
 
+cids: 21866,21891,21894,21910,23318
+
 ---
 
 # What tools or methods do you use to monitor odors?

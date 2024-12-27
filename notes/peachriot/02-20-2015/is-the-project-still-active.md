@@ -7,6 +7,8 @@ path: /notes/peachriot/02-20-2015/is-the-project-still-active.md
 nid: 11610
 uid: 435436
 
+cids: 11218,11967
+
 ---
 
 # Is the project still active?

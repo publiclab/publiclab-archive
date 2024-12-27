@@ -7,6 +7,8 @@ path: /notes/warren/3-1-2012/triggering-a495-buttonusb.md
 nid: 881
 uid: 1
 
+cids: 507,509,517,518,538,539,540,613
+
 ---
 
 ![](https://publiclab.org/sites/default/files/dual-a490.jpg)

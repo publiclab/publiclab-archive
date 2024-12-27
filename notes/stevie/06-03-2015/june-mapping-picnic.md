@@ -7,6 +7,8 @@ path: /notes/stevie/06-03-2015/june-mapping-picnic.md
 nid: 11947
 uid: 422561
 
+cids: 11877,11931
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/194/original/June_Picnic.jpg)

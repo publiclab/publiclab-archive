@@ -7,6 +7,8 @@ path: /notes/sauvzi13397/04-03-2019/mapknitter-aerial-image-labelling-to-detect-
 nid: 18950
 uid: 581175
 
+cids: 23659,23661,23712,23717,23848
+
 ---
 
 # MapKnitter Aerial Image labelling to detect Environmental issues using machine vision

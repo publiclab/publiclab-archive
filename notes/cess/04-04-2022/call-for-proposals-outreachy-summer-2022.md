@@ -7,6 +7,8 @@ path: /notes/cess/04-04-2022/call-for-proposals-outreachy-summer-2022.md
 nid: 30248
 uid: 525958
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/608/original/outreachy.png)

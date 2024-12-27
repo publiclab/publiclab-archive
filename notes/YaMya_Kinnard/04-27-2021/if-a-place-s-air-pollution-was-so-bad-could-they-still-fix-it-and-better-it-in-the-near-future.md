@@ -7,6 +7,8 @@ path: /notes/YaMya_Kinnard/04-27-2021/if-a-place-s-air-pollution-was-so-bad-coul
 nid: 26366
 uid: 754375
 
+cids: 28636
+
 ---
 
 # If a location have bad air quality, could it be reversed?

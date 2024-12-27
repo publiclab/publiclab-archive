@@ -7,6 +7,8 @@ path: /notes/darinacosta/07-12-2013/oil-platform-hotspot-analysis-near-venice-lo
 nid: 8858
 uid: 170106
 
+cids: 6318
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/766/original/djacosta_oilplatformhotspotanalysis_v1.jpg)

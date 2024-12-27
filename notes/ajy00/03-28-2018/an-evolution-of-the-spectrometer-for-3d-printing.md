@@ -7,6 +7,8 @@ path: /notes/ajy00/03-28-2018/an-evolution-of-the-spectrometer-for-3d-printing.m
 nid: 16032
 uid: 521938
 
+cids: 
+
 ---
 
 # An evolution of the Spectrometer for 3D printing

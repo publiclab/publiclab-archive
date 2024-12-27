@@ -7,6 +7,8 @@ path: /notes/LauraChipley/09-18-2015/hacking-trail-cameras-to-document-blasts-on
 nid: 12225
 uid: 428957
 
+cids: 12561,12656,12665,16177,16224,16225,16226,16227,16230,16231,16232,16233,16250,16261,16262,16267,16779,17789,17790,24909
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/624/original/brushyforkstill.jpg)

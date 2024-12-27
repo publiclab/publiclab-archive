@@ -7,6 +7,8 @@ path: /notes/partsandcrafts/02-26-2018/4-lighting-your-sample.md
 nid: 15817
 uid: 66014
 
+cids: 18818,20961
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/722/original/image10.jpg)

@@ -7,6 +7,8 @@ path: /10-15-2020/can-i-rapidly-survey-the-chalmette-stink-on-my-way-to-work.md
 nid: 24755
 uid: 379
 
+cids: 27622,27773,27778
+
 ---
 
 # Can I rapidly survey the Chalmette stink on my way to work?

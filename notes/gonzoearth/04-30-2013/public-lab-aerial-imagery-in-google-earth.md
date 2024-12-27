@@ -7,6 +7,8 @@ path: /notes/gonzoearth/04-30-2013/public-lab-aerial-imagery-in-google-earth.md
 nid: 7132
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/143/original/Public-Lab-Google-Maps.png)

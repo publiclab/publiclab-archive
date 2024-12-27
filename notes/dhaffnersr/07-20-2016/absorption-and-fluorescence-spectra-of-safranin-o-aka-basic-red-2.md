@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/07-20-2016/absorption-and-fluorescence-spectra-of-safran
 nid: 13302
 uid: 461120
 
+cids: 15050,15051
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/160/original/ABtest01_5_dyes_july_16_test_tubes.png)

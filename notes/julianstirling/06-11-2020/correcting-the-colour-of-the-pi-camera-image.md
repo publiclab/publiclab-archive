@@ -7,6 +7,8 @@ path: /notes/julianstirling/06-11-2020/correcting-the-colour-of-the-pi-camera-im
 nid: 23818
 uid: 701272
 
+cids: 27035
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/729/original/ColourCorrection.png)

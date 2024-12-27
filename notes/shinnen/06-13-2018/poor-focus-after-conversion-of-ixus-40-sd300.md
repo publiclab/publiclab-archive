@@ -7,6 +7,8 @@ path: /notes/shinnen/06-13-2018/poor-focus-after-conversion-of-ixus-40-sd300.md
 nid: 16493
 uid: 460991
 
+cids: 19814,19817,19819,19820,19821,21521
+
 ---
 
 # poor focus after conversion of Ixus 40 (SD300)

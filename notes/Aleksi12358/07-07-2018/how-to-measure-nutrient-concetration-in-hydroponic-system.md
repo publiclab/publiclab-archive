@@ -7,6 +7,8 @@ path: /notes/Aleksi12358/07-07-2018/how-to-measure-nutrient-concetration-in-hydr
 nid: 16659
 uid: 540470
 
+cids: 20025,20026,20031,20032,20033,20043,20045,20050,20051,20052,20060,23167,23168,23169,28410
+
 ---
 
 # How to measure nutrient concetration in hydroponic system?

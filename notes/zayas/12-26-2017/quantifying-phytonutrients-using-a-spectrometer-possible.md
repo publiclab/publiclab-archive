@@ -7,6 +7,8 @@ path: /notes/zayas/12-26-2017/quantifying-phytonutrients-using-a-spectrometer-po
 nid: 15433
 uid: 521220
 
+cids: 18074,18075,18086,19568,19572,22810,22817
+
 ---
 
 # Quantifying Phytonutrients using a Spectrometer, Possible?

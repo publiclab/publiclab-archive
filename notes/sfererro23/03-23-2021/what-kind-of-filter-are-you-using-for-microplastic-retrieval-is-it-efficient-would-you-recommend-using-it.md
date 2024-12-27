@@ -7,6 +7,8 @@ path: /notes/sfererro23/03-23-2021/what-kind-of-filter-are-you-using-for-micropl
 nid: 26009
 uid: 744100
 
+cids: 28412,28430
+
 ---
 
 # What kind of filter are you using for microplastic retrieval? Is it efficient? Would you recommend using it?

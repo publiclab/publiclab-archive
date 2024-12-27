@@ -7,6 +7,8 @@ path: /notes/astoicof/6-12-2012/3-d-images-big-branch-balloon-mapping.md
 nid: 2462
 uid: 256
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/3-D glasses.JPG)

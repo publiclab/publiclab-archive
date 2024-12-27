@@ -7,6 +7,8 @@ path: /notes/Davide_Ferrante/03-10-2018/how-to-do-x.md
 nid: 15913
 uid: 527238
 
+cids: 18841,18915,23010
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/949/original/RGB.jpg)

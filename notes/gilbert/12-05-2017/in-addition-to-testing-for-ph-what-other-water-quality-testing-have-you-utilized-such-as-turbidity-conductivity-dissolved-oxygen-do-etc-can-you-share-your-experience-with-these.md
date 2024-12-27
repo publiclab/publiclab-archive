@@ -7,6 +7,8 @@ path: /notes/gilbert/12-05-2017/in-addition-to-testing-for-ph-what-other-water-q
 nid: 15308
 uid: 508551
 
+cids: 
+
 ---
 
 # In addition to testing for pH, what other water quality testing have you utilized, such as turbidity, conductivity, dissolved oxygen (DO), etc.? Can you share your experience with these?

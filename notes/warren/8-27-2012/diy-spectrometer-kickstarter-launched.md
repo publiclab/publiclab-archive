@@ -7,6 +7,8 @@ path: /notes/warren/8-27-2012/diy-spectrometer-kickstarter-launched.md
 nid: 3479
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7833357456_ccc83a62e9_b.jpeg)

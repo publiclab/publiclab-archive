@@ -7,6 +7,8 @@ path: /notes/cfastie/09-18-2014/leaffest-2014-accounting.md
 nid: 11152
 uid: 554
 
+cids: 10356,10358,10360,10368,10369
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/857/original/LEAF2014_735.jpg)

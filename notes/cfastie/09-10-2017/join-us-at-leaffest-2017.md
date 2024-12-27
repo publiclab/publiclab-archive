@@ -7,6 +7,8 @@ path: /notes/cfastie/09-10-2017/join-us-at-leaffest-2017.md
 nid: 14873
 uid: 554
 
+cids: 17356,17466,17467,17470
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/599/original/LEAFFEST2017a.jpg)

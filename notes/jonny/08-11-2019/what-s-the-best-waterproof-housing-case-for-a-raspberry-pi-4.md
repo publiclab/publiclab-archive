@@ -7,6 +7,8 @@ path: /notes/jonny/08-11-2019/what-s-the-best-waterproof-housing-case-for-a-rasp
 nid: 20499
 uid: 553725
 
+cids: 25245,25248,25257,25258,27085
+
 ---
 
 # What's the best waterproof housing/case for a Raspberry Pi 4?

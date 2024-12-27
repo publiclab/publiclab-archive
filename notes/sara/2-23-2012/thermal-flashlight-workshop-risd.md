@@ -7,6 +7,8 @@ path: /notes/sara/2-23-2012/thermal-flashlight-workshop-risd.md
 nid: 835
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/RISDTF2.jpeg)

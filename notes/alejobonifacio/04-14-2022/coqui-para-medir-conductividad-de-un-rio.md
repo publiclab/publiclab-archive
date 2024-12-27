@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/04-14-2022/coqui-para-medir-conductividad-de-un-rio.
 nid: 30377
 uid: 639376
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/755/original/Portada%281%29.png)

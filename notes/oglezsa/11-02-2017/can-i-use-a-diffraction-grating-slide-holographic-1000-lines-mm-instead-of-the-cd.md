@@ -7,6 +7,8 @@ path: /notes/oglezsa/11-02-2017/can-i-use-a-diffraction-grating-slide-holographi
 nid: 15143
 uid: 517558
 
+cids: 17650,22704,22818
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/175/original/Grating.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/2-10-2012/thatchmore-farms-hypr3d-model.md
 nid: 772
 uid: 1
 
+cids: 450,454,455,742
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 1.png)

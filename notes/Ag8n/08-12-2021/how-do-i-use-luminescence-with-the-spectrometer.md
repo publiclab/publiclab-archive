@@ -7,6 +7,8 @@ path: /notes/Ag8n/08-12-2021/how-do-i-use-luminescence-with-the-spectrometer.md
 nid: 27477
 uid: 520994
 
+cids: 29128,29129,29130,29145,29162,29164,29165,29172
+
 ---
 
 # How do I...use luminescence with the spectrometer?

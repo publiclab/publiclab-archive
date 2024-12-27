@@ -7,6 +7,8 @@ path: /notes/obisidian/07-17-2017/spectrometry-degrees-between-gratings-or-camer
 nid: 14659
 uid: 511090
 
+cids: 22534
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/144/original/blob)

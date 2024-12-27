@@ -7,6 +7,8 @@ path: /notes/schintha12/03-09-2017/spectrometer-sensor.md
 nid: 13995
 uid: 503785
 
+cids: 16330,22440
+
 ---
 
 # Spectrometer/Sensor

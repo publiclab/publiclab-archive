@@ -7,6 +7,8 @@ path: /notes/cfastie/12-3-2012/spectrometer-testing.md
 nid: 5098
 uid: 554
 
+cids: 2676,2681,2695,2699,2700,2702,2704,2705,2706,2707,16445
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrometer-20121203-2041ps.jpg)

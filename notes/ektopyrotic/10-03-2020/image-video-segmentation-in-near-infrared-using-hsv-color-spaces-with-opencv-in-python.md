@@ -7,6 +7,8 @@ path: /notes/ektopyrotic/10-03-2020/image-video-segmentation-in-near-infrared-us
 nid: 24696
 uid: 699450
 
+cids: 27489,31140,31154,31155
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/046/original/SegmentedInfraBlueNDVI.jpg)

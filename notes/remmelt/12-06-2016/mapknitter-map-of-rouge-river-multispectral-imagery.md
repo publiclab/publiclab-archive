@@ -7,6 +7,8 @@ path: /notes/remmelt/12-06-2016/mapknitter-map-of-rouge-river-multispectral-imag
 nid: 13751
 uid: 499094
 
+cids: 
+
 ---
 
 # MapKnitter map of Rouge RIver Multispectral Imagery

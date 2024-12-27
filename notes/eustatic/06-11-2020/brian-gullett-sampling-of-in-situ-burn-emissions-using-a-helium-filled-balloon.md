@@ -7,6 +7,8 @@ path: /06-11-2020/brian-gullett-sampling-of-in-situ-burn-emissions-using-a-heliu
 nid: 23822
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/751/original/USEPA_balloon_sampling_of_air__balloon_in_plume.png)

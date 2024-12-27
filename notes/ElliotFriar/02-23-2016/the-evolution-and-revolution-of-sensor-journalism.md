@@ -7,6 +7,8 @@ path: /notes/ElliotFriar/02-23-2016/the-evolution-and-revolution-of-sensor-journ
 nid: 12723
 uid: 461498
 
+cids: 13710
+
 ---
 
 # The Evolution and Revolution of Sensor Journalism

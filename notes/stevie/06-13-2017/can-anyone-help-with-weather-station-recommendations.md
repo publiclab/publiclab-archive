@@ -7,6 +7,8 @@ path: /notes/stevie/06-13-2017/can-anyone-help-with-weather-station-recommendati
 nid: 14530
 uid: 422561
 
+cids: 22486,22487,22490,22507
+
 ---
 
 # Can anyone help with weather station recommendations?

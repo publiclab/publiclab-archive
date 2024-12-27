@@ -7,6 +7,8 @@ path: /notes/shannon/8-5-2012/bayou-sauvage-draeger-tubes-after-24-hours.md
 nid: 3139
 uid: 9
 
+cids: 28114,28115
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Pole5 24 hours IMG_0321.JPG)

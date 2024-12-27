@@ -7,6 +7,8 @@ path: /notes/kog62290/01-03-2020/copying-calibration-issue.md
 nid: 22209
 uid: 650365
 
+cids: 26084
+
 ---
 
 # copying calibration issue

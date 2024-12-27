@@ -7,6 +7,8 @@ path: /notes/syoif/04-12-2017/world-s-fastest-and-super-cheap-automated-cell-cou
 nid: 14107
 uid: 505605
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/118/original/16326565_1379636792082132_1075932693_o.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/07-31-2013/modifications-and-tweaks-for-flare-spectrometry.m
 nid: 8945
 uid: 1
 
+cids: 7181
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/970/original/IMG_20130731_162948.jpg)

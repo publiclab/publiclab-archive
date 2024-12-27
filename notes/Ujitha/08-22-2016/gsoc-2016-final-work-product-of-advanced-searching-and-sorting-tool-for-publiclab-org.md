@@ -7,6 +7,8 @@ path: /notes/Ujitha/08-22-2016/gsoc-2016-final-work-product-of-advanced-searchin
 nid: 13383
 uid: 467748
 
+cids: 15219,15237,15238
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/723/original/Screen_Shot_2016-08-22_at_9.41.48_PM.png)

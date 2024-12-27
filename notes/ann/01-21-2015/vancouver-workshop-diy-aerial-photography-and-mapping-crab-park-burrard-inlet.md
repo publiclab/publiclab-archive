@@ -7,6 +7,8 @@ path: /notes/ann/01-21-2015/vancouver-workshop-diy-aerial-photography-and-mappin
 nid: 11534
 uid: 421543
 
+cids: 11070,11072,11074,11083,11097,11100
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/701/original/Screen_Shot_2015-01-20_at_7.26.27_PM.png)

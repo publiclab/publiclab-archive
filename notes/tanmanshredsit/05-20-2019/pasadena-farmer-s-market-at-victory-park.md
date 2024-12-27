@@ -7,6 +7,8 @@ path: /notes/tanmanshredsit/05-20-2019/pasadena-farmer-s-market-at-victory-park.
 nid: 19456
 uid: 591685
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/330/original/GOOD_2829.JPG)

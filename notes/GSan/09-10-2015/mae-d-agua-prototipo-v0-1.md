@@ -7,6 +7,8 @@ path: /notes/GSan/09-10-2015/mae-d-agua-prototipo-v0-1.md
 nid: 12208
 uid: 426547
 
+cids: 13151,13153,13154
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/522/original/maedagua_prot001.png)

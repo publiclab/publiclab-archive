@@ -7,6 +7,8 @@ path: /notes/erix/4-5-2013/1st-login.md
 nid: 6682
 uid: 56147
 
+cids: 5981
+
 ---
 
 # 1st login

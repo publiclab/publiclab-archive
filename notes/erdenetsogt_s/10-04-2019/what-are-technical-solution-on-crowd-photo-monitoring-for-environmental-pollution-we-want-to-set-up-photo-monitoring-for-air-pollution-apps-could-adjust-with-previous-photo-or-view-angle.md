@@ -7,6 +7,8 @@ path: /notes/erdenetsogt_s/10-04-2019/what-are-technical-solution-on-crowd-photo
 nid: 21069
 uid: 624977
 
+cids: 25652,25677
+
 ---
 
 # what are technical solution on crowd photo monitoring for environmental pollution? We want to set up photo monitoring for Air pollution, apps could adjust with previous photo or view angle. 

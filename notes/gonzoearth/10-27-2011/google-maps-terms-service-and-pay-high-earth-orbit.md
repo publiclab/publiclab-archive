@@ -7,6 +7,8 @@ path: /notes/gonzoearth/10-27-2011/google-maps-terms-service-and-pay-high-earth-
 nid: 522
 uid: 12
 
+cids: 
+
 ---
 
 # Google Maps Terms of Service and Pay :: High Earth Orbit

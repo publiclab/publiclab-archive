@@ -7,6 +7,8 @@ path: /notes/stevie/05-16-2017/stormwater-workshop-3-report-designing-a-stormwat
 nid: 14202
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/477/original/20170513_152504.jpg)

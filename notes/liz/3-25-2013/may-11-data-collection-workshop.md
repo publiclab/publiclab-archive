@@ -7,6 +7,8 @@ path: /notes/liz/3-25-2013/may-11-data-collection-workshop.md
 nid: 6523
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Be-prepared-to-be-surprised_0.jpg)

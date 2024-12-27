@@ -7,6 +7,8 @@ path: /notes/warren/2-23-2012/more-thermal-photography-parts-crafts.md
 nid: 836
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/1.png)

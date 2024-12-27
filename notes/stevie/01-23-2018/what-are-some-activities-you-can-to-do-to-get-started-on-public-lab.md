@@ -7,6 +7,8 @@ path: /notes/stevie/01-23-2018/what-are-some-activities-you-can-to-do-to-get-sta
 nid: 15593
 uid: 422561
 
+cids: 22872
+
 ---
 
 # What are some activities you can to do to get started on Public Lab? 

@@ -7,6 +7,8 @@ path: /notes/liz/06-22-2017/tim-dye-s-amazing-timeline-of-the-air-sensor-revolut
 nid: 14570
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/850/original/canary-coal-mine-main-648x325.jpg)

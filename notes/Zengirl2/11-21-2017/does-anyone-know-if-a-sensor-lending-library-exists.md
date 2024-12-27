@@ -7,6 +7,8 @@ path: /notes/Zengirl2/11-21-2017/does-anyone-know-if-a-sensor-lending-library-ex
 nid: 15219
 uid: 423961
 
+cids: 17762,17828,17829,17830,22764
+
 ---
 
 # Does anyone know if a sensor lending library exists?

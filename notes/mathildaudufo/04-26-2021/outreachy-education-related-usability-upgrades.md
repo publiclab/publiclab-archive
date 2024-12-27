@@ -7,6 +7,8 @@ path: /notes/mathildaudufo/04-26-2021/outreachy-education-related-usability-upgr
 nid: 26348
 uid: 751138
 
+cids: 28621,28624,28650,28651,28652,28660,28662,28692,28694
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/482/original/outreachy-logo.png)

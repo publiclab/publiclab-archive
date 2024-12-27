@@ -7,6 +7,8 @@ path: /notes/stevie/02-22-2017/how-do-i-know-which-key-points-to-push-when-makin
 nid: 13952
 uid: 422561
 
+cids: 22432
+
 ---
 
 # How do I know which key points to push when making a public comment against an industry? 

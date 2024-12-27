@@ -7,6 +7,8 @@ path: /notes/Zajtam/04-10-2017/mapknitter-export.md
 nid: 14104
 uid: 505441
 
+cids: 22460
+
 ---
 
 # Mapknitter export

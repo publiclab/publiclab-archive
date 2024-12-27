@@ -7,6 +7,8 @@ path: /notes/allenhaoming/10-16-2015/mapknitter-map-of-geog187-waterloo-map-2.md
 nid: 12309
 uid: 453919
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/973/original/IMG_0203.JPG)

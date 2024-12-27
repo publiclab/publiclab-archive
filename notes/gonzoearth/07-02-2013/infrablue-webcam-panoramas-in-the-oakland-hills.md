@@ -7,6 +7,8 @@ path: /notes/gonzoearth/07-02-2013/infrablue-webcam-panoramas-in-the-oakland-hil
 nid: 8615
 uid: 12
 
+cids: 5960,5964
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/636/original/Infrablue-Panorama-Skyline-June-2013.jpg)

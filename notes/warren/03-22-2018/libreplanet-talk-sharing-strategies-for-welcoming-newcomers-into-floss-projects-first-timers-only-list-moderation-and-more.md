@@ -7,6 +7,8 @@ path: /notes/warren/03-22-2018/libreplanet-talk-sharing-strategies-for-welcoming
 nid: 16008
 uid: 1
 
+cids: 19121,19304
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/155/original/libreplanet-action.jpg)

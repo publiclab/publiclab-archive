@@ -7,6 +7,8 @@ path: /notes/electronicsclub/10-22-2019/television-tv-camera-tube.md
 nid: 21253
 uid: 624709
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/913/original/Diagram-of-Camera-Tube.jpg)

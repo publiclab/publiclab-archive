@@ -7,6 +7,8 @@ path: /notes/mathew/02-07-2017/routine-maintenance-and-calibration-of-the-minivo
 nid: 13907
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/473/original/20170109_145812_%281%29.jpg)

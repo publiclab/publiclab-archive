@@ -7,6 +7,8 @@ path: /notes/JuliaGuerrein/06-07-2022/do-you-have-any-examples-of-community-base
 nid: 31037
 uid: 796025
 
+cids: 30309,30945,30946,30947
+
 ---
 
 # Do you have any examples of community-based lawyering or policy work?

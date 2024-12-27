@@ -7,6 +7,8 @@ path: /notes/donblair/02-23-2014/preliminary-plymouth-plant-plume-ponderings.md
 nid: 10057
 uid: 43651
 
+cids: 8319,8321,8598,9152,9850,9950,9955,9959
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/990/original/small.png)

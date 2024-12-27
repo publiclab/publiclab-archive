@@ -7,6 +7,8 @@ path: /notes/warren/2-9-2011/pyrex-thermal-infrared-transmissivity.md
 nid: 81
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Pyrex.gif)

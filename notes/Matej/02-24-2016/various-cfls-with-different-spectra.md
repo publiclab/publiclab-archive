@@ -7,6 +7,8 @@ path: /notes/Matej/02-24-2016/various-cfls-with-different-spectra.md
 nid: 12727
 uid: 451808
 
+cids: 13722,13723,13724,13726,13727,13728,13734,13816,13817,14509,14513,14514,14520,14522
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/545/original/IMG_7173.jpg)

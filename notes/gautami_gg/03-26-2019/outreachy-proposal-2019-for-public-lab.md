@@ -7,6 +7,8 @@ path: /notes/gautami_gg/03-26-2019/outreachy-proposal-2019-for-public-lab.md
 nid: 18867
 uid: 579624
 
+cids: 23462,23463,23464,23481,23483,23512,23530,23598,23606,23649,23650
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/766/original/outreachy.png)

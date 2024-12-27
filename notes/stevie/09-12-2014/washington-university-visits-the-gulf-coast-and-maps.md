@@ -7,6 +7,8 @@ path: /notes/stevie/09-12-2014/washington-university-visits-the-gulf-coast-and-m
 nid: 11137
 uid: 422561
 
+cids: 10279,10280,10281,10289,10295,10296,10297,10300,10306,10491,10494,15830
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/805/original/20140910_115150.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/01-22-2018/how-do-we-do-user-interface-design-work-in-a-comm
 nid: 15587
 uid: 1
 
+cids: 18256,18269,18287,18288,18491,18504,18507,22869,22934,22941
+
 ---
 
 # How do we do user interface design work in a community process?

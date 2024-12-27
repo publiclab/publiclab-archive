@@ -7,6 +7,8 @@ path: /notes/cagiva/01-21-2019/how-to-do-the-white-balancing-for-the-red-filter.
 nid: 18154
 uid: 569044
 
+cids: 21774,21776,21778,21780,21783
+
 ---
 
 # How to do the white-balancing for the RED filter?

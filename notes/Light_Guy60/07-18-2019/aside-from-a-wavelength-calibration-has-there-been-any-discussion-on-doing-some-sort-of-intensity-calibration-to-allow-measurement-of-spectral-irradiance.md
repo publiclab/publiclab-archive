@@ -7,6 +7,8 @@ path: /notes/Light_Guy60/07-18-2019/aside-from-a-wavelength-calibration-has-ther
 nid: 20184
 uid: 521170
 
+cids: 25070
+
 ---
 
 # Aside from a wavelength calibration, has there been any discussion on doing some sort of intensity calibration to allow measurement of spectral irradiance? 

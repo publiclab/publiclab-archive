@@ -7,6 +7,8 @@ path: /notes/cfastie/12-24-2015/tales-from-the-cryptogam.md
 nid: 12541
 uid: 554
 
+cids: 13203,13205,13210
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/459/original/MossPole222LPrect2k.jpg)

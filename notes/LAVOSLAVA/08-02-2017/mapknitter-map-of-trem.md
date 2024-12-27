@@ -7,6 +7,8 @@ path: /notes/LAVOSLAVA/08-02-2017/mapknitter-map-of-trem.md
 nid: 14709
 uid: 511988
 
+cids: 17182
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/271/original/IMG_2919-1024x768.jpg)

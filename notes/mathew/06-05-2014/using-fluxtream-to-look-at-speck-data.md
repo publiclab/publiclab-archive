@@ -7,6 +7,8 @@ path: /notes/mathew/06-05-2014/using-fluxtream-to-look-at-speck-data.md
 nid: 10532
 uid: 4
 
+cids: 10218
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/543/original/Screen_Shot_2014-06-05_at_3.23.26_PM.png)

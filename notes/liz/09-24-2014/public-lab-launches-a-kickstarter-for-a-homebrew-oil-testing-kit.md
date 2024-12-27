@@ -7,6 +7,8 @@ path: /notes/liz/09-24-2014/public-lab-launches-a-kickstarter-for-a-homebrew-oil
 nid: 11180
 uid: 7
 
+cids: 10410
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/007/original/Screen_Shot_2014-09-24_at_10.10.47_AM.png)

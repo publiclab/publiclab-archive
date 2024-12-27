@@ -7,6 +7,8 @@ path: /notes/acnud/12-17-2014/thermal-flashlight-tech-failure-spectacle.md
 nid: 11479
 uid: 432851
 
+cids: 10971,10975,10976,10977
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/485/original/holyrudeactual.jpg)

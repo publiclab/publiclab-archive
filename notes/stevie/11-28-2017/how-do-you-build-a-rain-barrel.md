@@ -7,6 +7,8 @@ path: /notes/stevie/11-28-2017/how-do-you-build-a-rain-barrel.md
 nid: 15248
 uid: 422561
 
+cids: 22758
+
 ---
 
 # How do you build a rain barrel? 

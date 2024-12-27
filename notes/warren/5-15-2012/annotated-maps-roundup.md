@@ -7,6 +7,8 @@ path: /notes/warren/5-15-2012/annotated-maps-roundup.md
 nid: 1994
 uid: 1
 
+cids: 752,796,822,844,860,875,915
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120515_164601.jpg)

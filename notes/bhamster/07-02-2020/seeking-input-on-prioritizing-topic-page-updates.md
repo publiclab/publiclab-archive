@@ -7,6 +7,8 @@ path: /notes/bhamster/07-02-2020/seeking-input-on-prioritizing-topic-page-update
 nid: 24079
 uid: 664477
 
+cids: 27109,27110,27118,27125,27137,27171
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/050/original/Screen_Shot_2020-07-01_at_10.45.43_AM.png)

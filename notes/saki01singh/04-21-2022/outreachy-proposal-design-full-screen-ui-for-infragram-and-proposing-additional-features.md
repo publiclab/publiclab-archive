@@ -7,6 +7,8 @@ path: /notes/saki01singh/04-21-2022/outreachy-proposal-design-full-screen-ui-for
 nid: 30550
 uid: 794945
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/323/original/outreachy_ss.png)

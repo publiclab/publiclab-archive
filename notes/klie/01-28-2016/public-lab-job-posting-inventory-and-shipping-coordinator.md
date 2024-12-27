@@ -7,6 +7,8 @@ path: /notes/klie/01-28-2016/public-lab-job-posting-inventory-and-shipping-coord
 nid: 12631
 uid: 441262
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/906/original/plots-logo-transparent.jpg)

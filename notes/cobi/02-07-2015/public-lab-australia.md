@@ -7,6 +7,8 @@ path: /notes/cobi/02-07-2015/public-lab-australia.md
 nid: 11559
 uid: 427829
 
+cids: 11159,11174
+
 ---
 
 # Public Lab Australia? 

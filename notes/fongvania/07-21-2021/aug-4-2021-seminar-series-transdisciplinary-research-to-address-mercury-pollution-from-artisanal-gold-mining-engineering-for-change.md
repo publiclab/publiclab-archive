@@ -7,6 +7,8 @@ path: /notes/fongvania/07-21-2021/aug-4-2021-seminar-series-transdisciplinary-re
 nid: 27210
 uid: 754846
 
+cids: 
+
 ---
 
 # Aug 4, 2021 Seminar Series: Transdisciplinary Research to Address Mercury Pollution from Artisanal Gold Mining | Engineering For Change

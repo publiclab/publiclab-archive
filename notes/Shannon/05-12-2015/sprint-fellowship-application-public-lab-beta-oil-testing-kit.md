@@ -7,6 +7,8 @@ path: /notes/Shannon/05-12-2015/sprint-fellowship-application-public-lab-beta-oi
 nid: 11806
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/865/original/plots-logo-transparent.jpg)

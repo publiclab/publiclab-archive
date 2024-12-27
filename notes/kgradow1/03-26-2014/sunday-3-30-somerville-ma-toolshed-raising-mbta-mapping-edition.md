@@ -7,6 +7,8 @@ path: /notes/kgradow1/03-26-2014/sunday-3-30-somerville-ma-toolshed-raising-mbta
 nid: 10226
 uid: 297929
 
+cids: 8586
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/386/original/map2.jpg)

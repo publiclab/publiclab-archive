@@ -7,6 +7,8 @@ path: /notes/GreenFrogg/12-15-2016/measuring-air-quality-pm-new-years-eve-during
 nid: 13787
 uid: 499984
 
+cids: 15982,15985,15987,15988,15994,15995,15996,16021,16024,16028,16197,16200,18037,18038,18039,18043,18091,18093,18117
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/059/original/20161214_PA2LIA.jpg)

@@ -7,6 +7,8 @@ path: /notes/bhamster/03-02-2023/collecting-microplastics-in-city-park.md
 nid: 38733
 uid: 664477
 
+cids: 31175,31182,31339,31371,31377,31462,31473
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/452/original/Microplastics_City_Park.png)

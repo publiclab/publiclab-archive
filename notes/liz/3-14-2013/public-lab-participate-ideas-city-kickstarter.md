@@ -7,6 +7,8 @@ path: /notes/liz/3-14-2013/public-lab-participate-ideas-city-kickstarter.md
 nid: 6343
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/792x792x1.jpg)

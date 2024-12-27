@@ -7,6 +7,8 @@ path: /notes/shannon/10-6-2011/waterkeeper-bp-oil-spill-one-year-report.md
 nid: 500
 uid: 9
 
+cids: 
+
 ---
 
 # Waterkeeper BP oil spill one year report

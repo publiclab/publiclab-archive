@@ -7,6 +7,8 @@ path: /notes/sagarpreet_chadha/10-20-2020/first-timer-only-release-workflow.md
 nid: 24773
 uid: 725408
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/169/original/Screenshot_2020-10-20_at_1.54.53_PM.png)

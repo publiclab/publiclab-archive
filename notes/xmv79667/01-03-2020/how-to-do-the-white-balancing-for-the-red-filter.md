@@ -7,6 +7,8 @@ path: /notes/xmv79667/01-03-2020/how-to-do-the-white-balancing-for-the-red-filte
 nid: 22208
 uid: 641890
 
+cids: 26087
+
 ---
 
 # How to do the white-balancing for the RED filter?

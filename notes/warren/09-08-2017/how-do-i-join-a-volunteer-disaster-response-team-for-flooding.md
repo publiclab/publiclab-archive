@@ -7,6 +7,8 @@ path: /notes/warren/09-08-2017/how-do-i-join-a-volunteer-disaster-response-team-
 nid: 14867
 uid: 1
 
+cids: 22588
+
 ---
 
 # How do I join a volunteer Disaster Response Team for flooding?

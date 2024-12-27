@@ -7,6 +7,8 @@ path: /notes/ngobirifalyne00/04-16-2022/outreachy-proposal-design-a-new-full-scr
 nid: 30435
 uid: 795460
 
+cids: 30015,30030
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/832/original/infragram_page.PNG)

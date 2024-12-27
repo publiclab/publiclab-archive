@@ -7,6 +7,8 @@ path: /notes/eymund/06-10-2014/exploring-the-space-unseen-historic-resources-for
 nid: 10546
 uid: 1016
 
+cids: 9178,9189
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/584/original/0_2014_6_7_Public_Lab_Barnraising_Tidmarsh_Farm_axIMG_2943_cropped_c.jpg)

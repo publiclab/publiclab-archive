@@ -7,6 +7,8 @@ path: /notes/cfastie/10-09-2018/logging-firewood.md
 nid: 17252
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/853/original/woodstove_20180106-2340.JPG)

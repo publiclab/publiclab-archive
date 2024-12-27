@@ -7,6 +7,8 @@ path: /notes/AndyZ/11-22-2013/flare-spectrometer-proposal-in-shreveport-and-mera
 nid: 9815
 uid: 301914
 
+cids: 30840,30841,30842,30843
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/295/original/Shreveport_flare_08.12.11_video_2.jpg)

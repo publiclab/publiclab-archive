@@ -7,6 +7,8 @@ path: /notes/rexagod/06-22-2019/google-summer-of-code-public-lab-1st-and-2nd-wee
 nid: 19814
 uid: 564358
 
+cids: 24866,24870,25083,25084
+
 ---
 
 # Google Summer of Code @ Public Lab: 1st and 2nd Week

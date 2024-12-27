@@ -7,6 +7,8 @@ path: /notes/shannon/6-2-2011/chemical-contamination-atchafalaya-basin.md
 nid: 323
 uid: 9
 
+cids: 
+
 ---
 
 # Chemical contamination in the Atchafalaya Basin

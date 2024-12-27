@@ -7,6 +7,8 @@ path: /notes/Hudonnoodles/11-17-2013/public-lab-boston-area-toolshed-raising-par
 nid: 9794
 uid: 102
 
+cids: 7621
+
 ---
 
 # Public Lab Boston-area Toolshed Raising @ Parts & Crafts

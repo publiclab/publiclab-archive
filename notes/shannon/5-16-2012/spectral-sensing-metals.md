@@ -7,6 +7,8 @@ path: /notes/shannon/5-16-2012/spectral-sensing-metals.md
 nid: 2007
 uid: 9
 
+cids: 
+
 ---
 
 # Spectral sensing for metals

@@ -7,6 +7,8 @@ path: /notes/epongrat/10-14-2014/research-note-1-10-14-14.md
 nid: 11263
 uid: 428825
 
+cids: 10573,10587
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/438/original/IMG_6261.JPG)

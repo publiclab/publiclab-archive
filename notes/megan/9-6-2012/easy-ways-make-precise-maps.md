@@ -7,6 +7,8 @@ path: /notes/megan/9-6-2012/easy-ways-make-precise-maps.md
 nid: 3676
 uid: 775
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/SR1 (2).JPG)

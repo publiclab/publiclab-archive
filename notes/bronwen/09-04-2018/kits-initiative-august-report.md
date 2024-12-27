@@ -7,6 +7,8 @@ path: /notes/bronwen/09-04-2018/kits-initiative-august-report.md
 nid: 17060
 uid: 237313
 
+cids: 20592
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/446/original/IMG_20180828_142438_764.jpg)

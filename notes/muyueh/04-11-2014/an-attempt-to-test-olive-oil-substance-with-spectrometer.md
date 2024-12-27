@@ -7,6 +7,8 @@ path: /notes/muyueh/04-11-2014/an-attempt-to-test-olive-oil-substance-with-spect
 nid: 10295
 uid: 422365
 
+cids: 8746
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/614/original/ENcolor.png)

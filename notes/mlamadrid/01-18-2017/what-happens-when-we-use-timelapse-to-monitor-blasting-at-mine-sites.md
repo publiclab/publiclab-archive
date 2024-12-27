@@ -7,6 +7,8 @@ path: /notes/mlamadrid/01-18-2017/what-happens-when-we-use-timelapse-to-monitor-
 nid: 13861
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/421/original/timelapse2-02.png)

@@ -7,6 +7,8 @@ path: /notes/danbeavers/2-16-2013/kite-flying-tree.md
 nid: 6021
 uid: 51
 
+cids: 3436,3465
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0272.JPG)

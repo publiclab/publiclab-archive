@@ -7,6 +7,8 @@ path: /notes/rthibault/05-09-2016/public-lab-river-rat-pack-st-louis-rory-thibau
 nid: 13096
 uid: 465998
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/084/original/12716134_1105741376143965_436147808187310811_o.jpg)

@@ -7,6 +7,8 @@ path: /notes/agentnightingale/08-26-2020/infragram-and-pi-noir-camera-ndvi-not-w
 nid: 24460
 uid: 658888
 
+cids: 27297,27301,27303,27306,27308,27315
+
 ---
 
 # infragram and Pi NoIR camera - NDVI not working 

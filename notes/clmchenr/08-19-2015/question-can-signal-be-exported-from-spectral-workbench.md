@@ -7,6 +7,8 @@ path: /notes/clmchenr/08-19-2015/question-can-signal-be-exported-from-spectral-w
 nid: 12155
 uid: 448606
 
+cids: 12411
+
 ---
 
 # Question: Can signal be exported from Spectral Workbench? 

@@ -7,6 +7,8 @@ path: /notes/sara/7-13-2012/bayou-sauvage-results-2-reflections-fixing-process.m
 nid: 2800
 uid: 8
 
+cids: 1009,1011
+
 ---
 
 ![](https://publiclab.org/sites/default/files/BayouSavageSamples6-8_abcd_fixed_dried_7_13_12.jpeg)

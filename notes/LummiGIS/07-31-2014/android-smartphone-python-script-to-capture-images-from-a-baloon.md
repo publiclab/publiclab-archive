@@ -7,6 +7,8 @@ path: /notes/LummiGIS/07-31-2014/android-smartphone-python-script-to-capture-ima
 nid: 11002
 uid: 426179
 
+cids: 9992,20074,21432
+
 ---
 
 # Android smartphone/Python Script to capture images from a balloon.

@@ -7,6 +7,8 @@ path: /notes/MadTinker/07-30-2017/just-tried-to-publish-a-replication-of-the-kno
 nid: 14698
 uid: 461206
 
+cids: 17117,17120,17130,17137,17138,17145,17160,17161,22545,22546,22548,22549,22550
+
 ---
 
 # Just tried to publish a Replication of the KnowFlow and fail ...

@@ -7,6 +7,8 @@ path: /notes/cfastie/09-12-2013/moar-nir-tracking.md
 nid: 9316
 uid: 554
 
+cids: 6811,6813,6821,6824,6826,6827
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/496/original/NIRLED-225-6-Edit.jpg)

@@ -7,6 +7,8 @@ path: /notes/mlamadrid/03-17-2016/spectometer-intensity-calibration.md
 nid: 12852
 uid: 45586
 
+cids: 18380,18394
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/117/original/IMG_20150407_150745.jpg)

@@ -7,6 +7,8 @@ path: /notes/mcpwnhound/04-06-2020/spectrum.md
 nid: 23314
 uid: 680892
 
+cids: 26639
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/968/original/spectrum.png)

@@ -7,6 +7,8 @@ path: /notes/liz/2-7-2013/gowanus-brainstorm-annotated-maps.md
 nid: 5917
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130129_185744.jpg)

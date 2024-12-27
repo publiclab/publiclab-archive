@@ -7,6 +7,8 @@ path: /notes/julianbolanos/01-30-2017/raspberry-pi-noir-with-red-filters-work.md
 nid: 13888
 uid: 502441
 
+cids: 16114,16318,17609
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/392/original/054100001.jpg)

@@ -7,6 +7,8 @@ path: /notes/Rural/02-22-2016/mapping-rural-alberta-s-wetlands.md
 nid: 12718
 uid: 428405
 
+cids: 13693,13731,13733,13737,13739,13758,13759,13760,13763,14115,14118,14119,14120
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/506/original/dazzle.jpg)

@@ -7,6 +7,8 @@ path: /notes/bkleist/02-10-2017/air-quality-monitoring-at-uwec.md
 nid: 13920
 uid: 489504
 
+cids: 16157,16168,16169,16212,16241,16248,16258,16259,16260,16748
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/526/original/20140611-flying-0391--FeaturedImageL--featuredM_1.jpg)

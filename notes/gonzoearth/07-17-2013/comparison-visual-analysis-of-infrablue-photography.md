@@ -7,6 +7,8 @@ path: /notes/gonzoearth/07-17-2013/comparison-visual-analysis-of-infrablue-photo
 nid: 8904
 uid: 12
 
+cids: 6334
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/833/original/vis-ndvi-fastie.gif)

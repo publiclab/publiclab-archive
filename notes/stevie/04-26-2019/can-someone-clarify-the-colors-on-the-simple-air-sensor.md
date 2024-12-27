@@ -7,6 +7,8 @@ path: /notes/stevie/04-26-2019/can-someone-clarify-the-colors-on-the-simple-air-
 nid: 19173
 uid: 422561
 
+cids: 23996,24002,24010,24011,24220
+
 ---
 
 # Can someone clarify the colors on the simple air sensor? (turning white when plugged in)

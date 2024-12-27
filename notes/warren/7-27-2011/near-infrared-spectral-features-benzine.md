@@ -7,6 +7,8 @@ path: /notes/warren/7-27-2011/near-infrared-spectral-features-benzine.md
 nid: 415
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/benzine-near-infrared.png)

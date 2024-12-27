@@ -7,6 +7,8 @@ path: /notes/Damarquis/10-20-2015/using-imagej-to-analyze-threshold-and-saving-r
 nid: 12322
 uid: 450903
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/067/original/Thesholding.PNG)

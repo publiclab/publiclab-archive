@@ -7,6 +7,8 @@ path: /notes/stella/08-24-2017/gsoc-2017-final-report.md
 nid: 14790
 uid: 504749
 
+cids: 17229,17232,17235,17243,17256,17299
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/410/original/sampleEmail.png)

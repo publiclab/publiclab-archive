@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/01-23-2016/fluorescence-of-tabasco-sauce.md
 nid: 12605
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/779/original/finalbootsy.jpg)

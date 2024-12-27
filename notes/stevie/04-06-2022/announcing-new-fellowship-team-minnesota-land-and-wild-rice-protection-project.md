@@ -7,6 +7,8 @@ path: /notes/stevie/04-06-2022/announcing-new-fellowship-team-minnesota-land-and
 nid: 30239
 uid: 422561
 
+cids: 29928
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/629/original/Screen_Shot_2022-04-05_at_2.18.48_PM.png)

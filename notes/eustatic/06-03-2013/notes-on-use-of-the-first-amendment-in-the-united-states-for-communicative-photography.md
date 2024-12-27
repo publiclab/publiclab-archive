@@ -7,6 +7,8 @@ path: /06-03-2013/notes-on-use-of-the-first-amendment-in-the-united-states-for-c
 nid: 8034
 uid: 379
 
+cids: 6301
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/471/original/8742168630_279f662a1f_o.jpg)

@@ -7,6 +7,8 @@ path: /notes/sara/4-2-2012/planning-public-lab-h2s-screen-experiments.md
 nid: 1605
 uid: 8
 
+cids: 
+
 ---
 
 # Planning for Public Lab H2S screen Experiments

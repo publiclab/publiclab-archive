@@ -7,6 +7,8 @@ path: /notes/cfastie/3-13-2013/light-amber.md
 nid: 6318
 uid: 554
 
+cids: 3769,3771,3782,3800,4478
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Syrup-201334107-2.jpg)

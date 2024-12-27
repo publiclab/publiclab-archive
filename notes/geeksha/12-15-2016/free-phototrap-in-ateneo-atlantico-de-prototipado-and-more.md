@@ -7,6 +7,8 @@ path: /notes/geeksha/12-15-2016/free-phototrap-in-ateneo-atlantico-de-prototipad
 nid: 13788
 uid: 500063
 
+cids: 15984,15986
+
 ---
 
 # Free Phototrap in Ateneo Atlántico de Prototipado and more

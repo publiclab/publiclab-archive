@@ -7,6 +7,8 @@ path: /notes/liz/3-17-2013/reviewing-photos-lookout-hill.md
 nid: 6377
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130317_123611.jpg)

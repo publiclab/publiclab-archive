@@ -7,6 +7,8 @@ path: /notes/jkpetter/09-21-2016/mapknitter-map-of-prairie-island-penstemon-pole
 nid: 13469
 uid: 489340
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/117/original/IMG_0001.JPG)

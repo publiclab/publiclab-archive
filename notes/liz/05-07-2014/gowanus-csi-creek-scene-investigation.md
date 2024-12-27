@@ -7,6 +7,8 @@ path: /notes/liz/05-07-2014/gowanus-csi-creek-scene-investigation.md
 nid: 10436
 uid: 7
 
+cids: 11018,29935,29955
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/099/original/2014_Gowanus_CSI_Unit_Cold_Cases_The_Creek_Scene_Investigation_Clue_Kit.jpg)

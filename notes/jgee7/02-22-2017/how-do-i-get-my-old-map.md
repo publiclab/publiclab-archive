@@ -7,6 +7,8 @@ path: /notes/jgee7/02-22-2017/how-do-i-get-my-old-map.md
 nid: 13950
 uid: 503006
 
+cids: 
+
 ---
 
 # how do i get my old map 

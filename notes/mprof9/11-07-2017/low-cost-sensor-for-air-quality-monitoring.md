@@ -7,6 +7,8 @@ path: /notes/mprof9/11-07-2017/low-cost-sensor-for-air-quality-monitoring.md
 nid: 15156
 uid: 517870
 
+cids: 18913,18939,18951,20506
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/327/original/VOCino_foto.png)

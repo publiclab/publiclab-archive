@@ -7,6 +7,8 @@ path: /notes/shannonkmcalpine/02-01-2019/how-to-start-air-monitoring-project.md
 nid: 18242
 uid: 572747
 
+cids: 21828,21830,21831,21832,21853,21867,21908,21915,23828
+
 ---
 
 # How to start air monitoring project?

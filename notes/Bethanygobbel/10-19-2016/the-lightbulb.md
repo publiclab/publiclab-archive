@@ -7,6 +7,8 @@ path: /notes/Bethanygobbel/10-19-2016/the-lightbulb.md
 nid: 13606
 uid: 494909
 
+cids: 15681
+
 ---
 
 # The Lightbulb 

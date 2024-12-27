@@ -7,6 +7,8 @@ path: /notes/TedF/08-18-2013/constructing-a-2-90g-wooden-metal-picavet.md
 nid: 9033
 uid: 197186
 
+cids: 6681,6683,6695,10572,10581
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/200/original/photo_%282%29.JPG)

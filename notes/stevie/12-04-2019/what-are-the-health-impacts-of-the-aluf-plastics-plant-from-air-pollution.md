@@ -7,6 +7,8 @@ path: /notes/stevie/12-04-2019/what-are-the-health-impacts-of-the-aluf-plastics-
 nid: 21664
 uid: 422561
 
+cids: 25963,25992,26000,26133,26148
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/859/original/c10a146a466abaac6dcb5efff47f7a8.jpg)

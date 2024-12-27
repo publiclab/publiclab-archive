@@ -7,6 +7,8 @@ path: /notes/gonzoearth/4-23-2011/2011-4-22-california-palo-alto-wherecamp.md
 nid: 190
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/11-4-22 california - palo alto - wherecamp.jpg)

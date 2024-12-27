@@ -7,6 +7,8 @@ path: /notes/warren/03-29-2019/what-are-some-standard-bottles-we-could-use-to-bu
 nid: 18901
 uid: 1
 
+cids: 23574,23575,23586,24084,24105
+
 ---
 
 # What are some standard bottles we could use to build BabyLegs?

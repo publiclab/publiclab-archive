@@ -7,6 +7,8 @@ path: /notes/warren/08-13-2013/importing-spectra-from-nist-and-webmineral-com-to
 nid: 8995
 uid: 1
 
+cids: 6740,6741,6744,7118
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/119/original/Screen_Shot_2013-08-13_at_11.57.22_AM.png)

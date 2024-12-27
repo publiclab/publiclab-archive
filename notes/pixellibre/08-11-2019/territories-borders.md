@@ -7,6 +7,8 @@ path: /notes/pixellibre/08-11-2019/territories-borders.md
 nid: 20502
 uid: 590548
 
+cids: 25250
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/474/original/FrontiersTerritories_JoanaResende%281%29.jpg)

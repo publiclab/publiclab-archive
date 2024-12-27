@@ -7,6 +7,8 @@ path: /notes/RonHuber/06-17-2014/testing-a-penobscot-bay-maine-beach-and-clamfla
 nid: 10577
 uid: 437
 
+cids: 9206,9258
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/772/original/gacshore_050612_swflat_debris.jpg)

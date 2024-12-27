@@ -7,6 +7,8 @@ path: /notes/nedhorning/10-10-2013/balloon-mapping-of-wetlands-near-clayton-ny.m
 nid: 9434
 uid: 133
 
+cids: 7203,7204,7205,7208,7227
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/874/original/BevinsCaprentersDeferno.jpg)

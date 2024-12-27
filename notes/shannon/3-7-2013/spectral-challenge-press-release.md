@@ -7,6 +7,8 @@ path: /notes/shannon/3-7-2013/spectral-challenge-press-release.md
 nid: 6233
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectral-challenge.png)

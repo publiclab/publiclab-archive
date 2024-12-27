@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-8-2011/epa-awards-brownfield-cleanup-funding-portlard-
 nid: 340
 uid: 12
 
+cids: 
+
 ---
 
 # EPA awards brownfield cleanup funding to Portlard project

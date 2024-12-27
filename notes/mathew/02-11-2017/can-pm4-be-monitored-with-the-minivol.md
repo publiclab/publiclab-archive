@@ -7,6 +7,8 @@ path: /notes/mathew/02-11-2017/can-pm4-be-monitored-with-the-minivol.md
 nid: 13922
 uid: 4
 
+cids: 22681
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/528/original/Citrine-sample2.jpg)

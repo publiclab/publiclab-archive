@@ -7,6 +7,8 @@ path: /notes/gwirth/06-10-2014/jamaica-bay-marsh-planting.md
 nid: 10547
 uid: 30539
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/655/original/JB_Mapping.jpg)

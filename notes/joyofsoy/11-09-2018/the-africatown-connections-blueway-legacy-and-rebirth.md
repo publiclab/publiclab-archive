@@ -7,6 +7,8 @@ path: /notes/joyofsoy/11-09-2018/the-africatown-connections-blueway-legacy-and-r
 nid: 17498
 uid: 540844
 
+cids: 21187
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/559/original/Participants_in_a_balloon_and_kite_mapping_workshop_on_Hog_Bayou__one_of_the_points_of_interest_on_the_Blueway_%281%29.jpg)

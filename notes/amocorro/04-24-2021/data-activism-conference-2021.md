@@ -7,6 +7,8 @@ path: /notes/amocorro/04-24-2021/data-activism-conference-2021.md
 nid: 26323
 uid: 700923
 
+cids: 29042
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/459/original/greenpeace_sticker_CC.jpg)

@@ -7,6 +7,8 @@ path: /notes/Holden/03-11-2014/estimating-volume-and-weight-of-petroleum-waste-p
 nid: 10159
 uid: 170164
 
+cids: 8469,8470,8471,8498,8536,8600,8701,11454
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/209/original/AR-712199809.jpg_maxw_582_maxh_370_Q_70__updated_)

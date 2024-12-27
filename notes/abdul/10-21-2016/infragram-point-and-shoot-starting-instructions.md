@@ -7,6 +7,8 @@ path: /notes/abdul/10-21-2016/infragram-point-and-shoot-starting-instructions.md
 nid: 13637
 uid: 479194
 
+cids: 15704,15705,17425
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/533/original/Rosco_26_filtered.JPG)

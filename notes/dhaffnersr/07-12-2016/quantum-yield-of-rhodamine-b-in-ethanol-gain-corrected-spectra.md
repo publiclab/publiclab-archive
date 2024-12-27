@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/07-12-2016/quantum-yield-of-rhodamine-b-in-ethanol-gain-
 nid: 13283
 uid: 461120
 
+cids: 14916,31391
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/986/original/rhod_b_100ppmMAIN_PIC.png)

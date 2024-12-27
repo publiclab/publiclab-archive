@@ -7,6 +7,8 @@ path: /notes/cfastie/07-10-2013/spruce-tips.md
 nid: 8810
 uid: 554
 
+cids: 21370
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/736/original/IMG_46821500.jpg)

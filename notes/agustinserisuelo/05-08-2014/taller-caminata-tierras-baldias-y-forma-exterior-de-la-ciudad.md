@@ -7,6 +7,8 @@ path: /notes/agustinserisuelo/05-08-2014/taller-caminata-tierras-baldias-y-forma
 nid: 10450
 uid: 423290
 
+cids: 8991,8992,8994
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/177/original/Callejero_Castell%C3%B3n_2013.jpg)

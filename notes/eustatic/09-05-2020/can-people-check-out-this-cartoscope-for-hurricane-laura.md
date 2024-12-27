@@ -7,6 +7,8 @@ path: /09-05-2020/can-people-check-out-this-cartoscope-for-hurricane-laura.md
 nid: 24527
 uid: 379
 
+cids: 
+
 ---
 
 # Can People Check out This Cartoscope for Hurricane Laura?

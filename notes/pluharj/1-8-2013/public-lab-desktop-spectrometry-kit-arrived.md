@@ -7,6 +7,8 @@ path: /notes/pluharj/1-8-2013/public-lab-desktop-spectrometry-kit-arrived.md
 nid: 5473
 uid: 46812
 
+cids: 2948,2978,3255,3259,3266,3268
+
 ---
 
 ![](https://publiclab.org/sites/default/files/_IGP4542.jpg)

@@ -7,6 +7,8 @@ path: /notes/Shannon/10-03-2019/job-posting-public-lab-development-associate.md
 nid: 21065
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/637/original/shannon_dosemagen_img_7304_edited-1.jpg)

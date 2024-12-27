@@ -7,6 +7,8 @@ path: /notes/cfastie/08-11-2013/infairgrams.md
 nid: 8991
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/100/original/ACFair-SwingsC.jpg)

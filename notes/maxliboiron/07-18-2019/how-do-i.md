@@ -7,6 +7,8 @@ path: /notes/maxliboiron/07-18-2019/how-do-i.md
 nid: 20182
 uid: 310707
 
+cids: 25072
+
 ---
 
 # What is the magnification on the Basic Microscope kit?

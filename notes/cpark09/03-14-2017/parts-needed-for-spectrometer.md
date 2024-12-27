@@ -7,6 +7,8 @@ path: /notes/cpark09/03-14-2017/parts-needed-for-spectrometer.md
 nid: 14011
 uid: 504045
 
+cids: 
+
 ---
 
 # parts needed for spectrometer

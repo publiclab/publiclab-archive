@@ -7,6 +7,8 @@ path: /notes/stevie/08-01-2014/recap-july-31-new-orleans-oil-testing-meetup.md
 nid: 11005
 uid: 422561
 
+cids: 9743,9744,9749,9750,9751,9752,9793,9794,9796,9800,9801,9802,9803,9809,9813,9817,9825,9895,9940,9949,9962,9979,10068
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/793/original/20140731_182846.jpg)

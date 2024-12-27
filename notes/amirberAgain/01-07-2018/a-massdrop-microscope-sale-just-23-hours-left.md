@@ -7,6 +7,8 @@ path: /notes/amirberAgain/01-07-2018/a-massdrop-microscope-sale-just-23-hours-le
 nid: 15471
 uid: 420776
 
+cids: 
+
 ---
 
 # A Massdrop microscope sale (just 23 hours left)

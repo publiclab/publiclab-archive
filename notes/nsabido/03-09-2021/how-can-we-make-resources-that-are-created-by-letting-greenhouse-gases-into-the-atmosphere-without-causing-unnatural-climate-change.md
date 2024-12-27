@@ -7,6 +7,8 @@ path: /notes/nsabido/03-09-2021/how-can-we-make-resources-that-are-created-by-le
 nid: 25882
 uid: 745916
 
+cids: 28315,28988
+
 ---
 
 # How can we make resources that are created by letting greenhouse gases into the atmosphere without causing unnatural climate change?

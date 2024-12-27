@@ -7,6 +7,8 @@ path: /notes/warren/08-21-2013/public-lab-sessions-mozfest-oct-25-7-2013.md
 nid: 9047
 uid: 1
 
+cids: 6715
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/267/original/mozfest.png)

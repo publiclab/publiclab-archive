@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/09-21-2017/is-it-possible-to-accurately-size-inhalab
 nid: 14929
 uid: 430549
 
+cids: 17440,17441,18561,22939
+
 ---
 
 # Is it possible to accurately size inhalable and respirable particles using a DIY microscope?

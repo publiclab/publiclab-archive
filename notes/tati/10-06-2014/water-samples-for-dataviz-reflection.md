@@ -7,6 +7,8 @@ path: /notes/tati/10-06-2014/water-samples-for-dataviz-reflection.md
 nid: 11233
 uid: 428062
 
+cids: 
+
 ---
 
 # Water Samples For DataViz Reflection 

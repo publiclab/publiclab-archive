@@ -7,6 +7,8 @@ path: /notes/seankmcginnis/06-03-2021/purpleair-sensor-data-to-hosted-geospatial
 nid: 26746
 uid: 552
 
+cids: 28875,28876,28880,28883,28885
+
 ---
 
 # PurpleAir Sensor Data to Hosted Geospatial Data Layer

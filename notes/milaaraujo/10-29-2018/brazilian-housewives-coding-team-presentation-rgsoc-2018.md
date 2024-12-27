@@ -7,6 +7,8 @@ path: /notes/milaaraujo/10-29-2018/brazilian-housewives-coding-team-presentation
 nid: 17426
 uid: 525897
 
+cids: 21050,21051,21077
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/367/original/Untitled.png)

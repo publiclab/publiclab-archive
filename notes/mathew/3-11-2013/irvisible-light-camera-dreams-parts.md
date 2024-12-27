@@ -7,6 +7,8 @@ path: /notes/mathew/3-11-2013/irvisible-light-camera-dreams-parts.md
 nid: 6294
 uid: 4
 
+cids: 4016,4017,4021,4029,4038,4138,4139,4142,4149,4474
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2013-03-11_18-45-18_446.jpg)

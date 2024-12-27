@@ -7,6 +7,8 @@ path: /notes/warren/10-20-2017/what-s-an-easy-way-to-compare-two-liquid-samples-
 nid: 15076
 uid: 1
 
+cids: 17818,17821,17822,17823,17975,17976,20788,22763
+
 ---
 
 # What's an easy way to compare two liquid samples with a spectrometer?

@@ -7,6 +7,8 @@ path: /notes/apacheguy/04-27-2016/updates-needed-to-dustduino-diy-wiki.md
 nid: 13042
 uid: 471724
 
+cids: 14462,14474
+
 ---
 
 # Updates needed to DustDuino DIY wiki

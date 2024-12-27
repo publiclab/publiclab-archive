@@ -7,6 +7,8 @@ path: /notes/davidmanthos/09-01-2013/skytruthing-the-bakken-shale.md
 nid: 9086
 uid: 224945
 
+cids: 6757,6758,6760,7870,7871,7930
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/368/original/Bakken.Marble.Annotated.png)

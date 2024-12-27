@@ -7,6 +7,8 @@ path: /notes/thayshi/11-01-2018/outreachy-proposal-by-narnt.md
 nid: 17455
 uid: 557369
 
+cids: 21082,21114,21129
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/498/original/chart-35773_640.png)

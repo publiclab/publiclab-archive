@@ -7,6 +7,8 @@ path: /11-10-2013/obliques-of-city-park-stormwater-wetland-nov-9th.md
 nid: 9758
 uid: 379
 
+cids: 7527,7536,7537,7538,7542
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/187/original/10767703546_c88413e6d9_b_1_.jpg)

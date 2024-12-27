@@ -7,6 +7,8 @@ path: /notes/bhamster/03-02-2023/soil-contamination-in-st-john-the-baptist-paris
 nid: 38732
 uid: 664477
 
+cids: 30875
+
 ---
 
 # Soil Contamination in St. John the Baptist Parish

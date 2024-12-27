@@ -7,6 +7,8 @@ path: /08-01-2013/zapping-grand-isle-coffee-team-orca-and-the-green-laser.md
 nid: 8955
 uid: 379
 
+cids: 6494
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/998/original/9411582542_4ecd03902c_z.jpg)

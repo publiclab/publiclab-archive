@@ -7,6 +7,8 @@ path: /notes/jiteovien/08-28-2018/public-lab-providence-has-a-purpleair.md
 nid: 17006
 uid: 540008
 
+cids: 20492,20496,20497,20499,20500,20502,20512,20524,20540,20541,20542,20562
+
 ---
 
 # Public Lab Providence has a PurpleAir

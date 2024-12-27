@@ -7,6 +7,8 @@ path: /notes/stevie/07-09-2014/a-new-orleans-event-samples-with-spectrometry.md
 nid: 10669
 uid: 422561
 
+cids: 9492,9510,9740,9741
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/170/original/Slide1.jpg)

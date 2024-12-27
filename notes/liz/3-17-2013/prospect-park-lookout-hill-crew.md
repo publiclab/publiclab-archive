@@ -7,6 +7,8 @@ path: /notes/liz/3-17-2013/prospect-park-lookout-hill-crew.md
 nid: 6374
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130317_112452.jpg)

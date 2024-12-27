@@ -7,6 +7,8 @@ path: /notes/wmacfarl/09-25-2019/how-can-we-relate-water-quality-sensor-measurem
 nid: 20979
 uid: 424597
 
+cids: 25590,25619
+
 ---
 
 # How can we relate water quality sensor measurements to oil/gas pollution?

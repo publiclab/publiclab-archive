@@ -7,6 +7,8 @@ path: /notes/sagarpreet/05-12-2018/summer-of-code-with-public-lab.md
 nid: 16332
 uid: 516343
 
+cids: 19630,19631,19637
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/913/original/Screen_Shot_2018-05-12_at_2.02.16_PM.png)

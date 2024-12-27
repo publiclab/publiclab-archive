@@ -7,6 +7,8 @@ path: /notes/warren/8-4-2011/sf-gate-man-caught-attempting-diy-fission.md
 nid: 426
 uid: 1
 
+cids: 
+
 ---
 
 # SF Gate: Man caught attempting DIY fission

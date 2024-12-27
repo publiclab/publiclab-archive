@@ -7,6 +7,8 @@ path: /notes/gonzoearth/1-4-2013/looking-california-neighborhood-fall-and-winter
 nid: 5415
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2013-01-04 at 1.26.16 PM.png)

@@ -7,6 +7,8 @@ path: /notes/wmacfarl/11-05-2019/oil-and-gas-hardware-fellow-status-update-week-
 nid: 21392
 uid: 424597
 
+cids: 25803
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/218/original/cell_phone_turbidity.jpg)

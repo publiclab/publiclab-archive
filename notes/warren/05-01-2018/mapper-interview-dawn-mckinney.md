@@ -7,6 +7,8 @@ path: /notes/warren/05-01-2018/mapper-interview-dawn-mckinney.md
 nid: 143
 uid: 1
 
+cids: 
+
 ---
 
 # Mapper interview: Dawn McKinney

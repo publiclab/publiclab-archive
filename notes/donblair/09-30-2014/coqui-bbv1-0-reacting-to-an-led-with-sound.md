@@ -7,6 +7,8 @@ path: /notes/donblair/09-30-2014/coqui-bbv1-0-reacting-to-an-led-with-sound.md
 nid: 11215
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/220/original/coquiLED.png)

@@ -7,6 +7,8 @@ path: /notes/silentsairam/05-10-2020/particulate-matter-and-its-influence-on-cov
 nid: 23595
 uid: 553044
 
+cids: 26786,26790,26799
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/334/original/effects.jpg)

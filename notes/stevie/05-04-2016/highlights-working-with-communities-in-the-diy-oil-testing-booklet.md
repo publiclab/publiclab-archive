@@ -7,6 +7,8 @@ path: /notes/stevie/05-04-2016/highlights-working-with-communities-in-the-diy-oi
 nid: 13075
 uid: 422561
 
+cids: 14733,14736,17998,18000,18001,18006,18061,18062,18076
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/942/original/IMG_20160420_112253-2.jpg)

@@ -7,6 +7,8 @@ path: /notes/stef/10-22-2016/spectrometer-light-tight-cover-build.md
 nid: 13639
 uid: 482758
 
+cids: 15722,15723,15734
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/538/original/IMGP1626.JPG)

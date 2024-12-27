@@ -7,6 +7,8 @@ path: /notes/shannon/5-15-2012/galena-park-community-treasure-maps.md
 nid: 2006
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5017.jpg)

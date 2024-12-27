@@ -7,6 +7,8 @@ path: /notes/wajeehamushtaq1/10-27-2021/outreachy-proposal-rebuilding-spectral-w
 nid: 27968
 uid: 775423
 
+cids: 29359,29389,29394
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/956/original/IMG_20201208_122730.jpg)

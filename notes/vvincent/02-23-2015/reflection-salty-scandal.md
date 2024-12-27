@@ -7,6 +7,8 @@ path: /notes/vvincent/02-23-2015/reflection-salty-scandal.md
 nid: 11630
 uid: 435415
 
+cids: 
+
 ---
 
 # Reflection Salty Scandal

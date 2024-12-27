@@ -7,6 +7,8 @@ path: /notes/noi5e/01-08-2021/everybody-struggles-outreachy-public-lab-internshi
 nid: 25436
 uid: 726270
 
+cids: 27918,27919,27922,27925,27927,27929,27942
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/352/original/passedout.jpg)

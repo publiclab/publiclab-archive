@@ -7,6 +7,8 @@ path: /notes/wmacfarl/01-10-2020/building-the-simple-water-sensor-platform.md
 nid: 22256
 uid: 424597
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/539/original/sensor_platform.jpg)

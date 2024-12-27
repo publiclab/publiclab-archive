@@ -7,6 +7,8 @@ path: /notes/Ag8n/05-18-2018/can-you-detect-pvc-microplastics-with-a-nvdi-camera
 nid: 16364
 uid: 520994
 
+cids: 19658,19659,19801,23115,23119
+
 ---
 
 # Can you detect pvc microplastics with a nvdi camera?

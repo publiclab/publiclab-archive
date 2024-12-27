@@ -7,6 +7,8 @@ path: /notes/liz/05-06-2014/planning-jamaica-bay-mapping-sites.md
 nid: 10433
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/079/original/IMG_2375.JPG)

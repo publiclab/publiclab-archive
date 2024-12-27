@@ -7,6 +7,8 @@ path: /notes/bronwen/07-12-2018/newark-barnraising-crisis-convening-photos.md
 nid: 16710
 uid: 237313
 
+cids: 20098,20103,20104,20115,20116,20117,20118,20119,20121,20122,20123,20124,20125,20126,20127,20128,20129,20130,20131,20133,20142,20268
+
 ---
 
 # Newark Barnraising & Crisis Convening Photos

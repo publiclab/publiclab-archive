@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/10-07-2015/oil-testing-kit-beta-programme-assembly-cu
 nid: 12279
 uid: 1083
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/868/original/IMG_4037.JPG)

@@ -7,6 +7,8 @@ path: /notes/ann/11-14-2014/edmonton-balloon-and-kite-mapping-workshop-pipeline-
 nid: 11343
 uid: 421543
 
+cids: 10754,10765
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/849/original/IMG_2212.JPG)

@@ -7,6 +7,8 @@ path: /notes/liz/11-02-2018/how-can-we-adjust-the-frequency-of-the-coqui.md
 nid: 17467
 uid: 7
 
+cids: 21348,23274,23289
+
 ---
 
 # How can we adjust the frequency of the coqui?

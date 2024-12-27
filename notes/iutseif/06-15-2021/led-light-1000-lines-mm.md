@@ -7,6 +7,8 @@ path: /notes/iutseif/06-15-2021/led-light-1000-lines-mm.md
 nid: 26827
 uid: 760039
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/182/original/_.dmg)

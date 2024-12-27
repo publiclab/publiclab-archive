@@ -7,6 +7,8 @@ path: /notes/anishshah101/03-08-2014/gsoc-2014-proposal-porting-imagedistortion-
 nid: 10141
 uid: 421046
 
+cids: 8460,8461,8494,8502,8513,8517,8632,8633,8646,8656,8942,8981,8982,8987
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/178/original/layers-2x.png)

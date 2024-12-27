@@ -7,6 +7,8 @@ path: /notes/patcoyle/5-19-2012/3-camera-rig-testing-chdk.md
 nid: 2143
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2801.JPG)

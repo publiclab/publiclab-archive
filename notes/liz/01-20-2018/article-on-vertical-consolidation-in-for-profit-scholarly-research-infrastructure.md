@@ -7,6 +7,8 @@ path: /notes/liz/01-20-2018/article-on-vertical-consolidation-in-for-profit-scho
 nid: 15573
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/278/original/production-cycle.png)

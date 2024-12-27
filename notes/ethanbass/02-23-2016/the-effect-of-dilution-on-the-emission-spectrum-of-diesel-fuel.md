@@ -7,6 +7,8 @@ path: /notes/ethanbass/02-23-2016/the-effect-of-dilution-on-the-emission-spectru
 nid: 12720
 uid: 46902
 
+cids: 13703,13704
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/513/original/Screen_Shot_2016-02-23_at_1.38.13_AM.png)

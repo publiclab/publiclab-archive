@@ -7,6 +7,8 @@ path: /notes/maning/1-25-2012/helium-high-balloon-mapping-phillipines.md
 nid: 718
 uid: 468
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/picture-3.png)

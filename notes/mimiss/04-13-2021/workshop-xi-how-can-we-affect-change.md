@@ -7,6 +7,8 @@ path: /notes/mimiss/04-13-2021/workshop-xi-how-can-we-affect-change.md
 nid: 26168
 uid: 579821
 
+cids: 31047
+
 ---
 
 # Workshop XI: How can we affect change?

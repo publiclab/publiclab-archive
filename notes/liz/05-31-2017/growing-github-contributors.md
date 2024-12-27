@@ -7,6 +7,8 @@ path: /notes/liz/05-31-2017/growing-github-contributors.md
 nid: 14495
 uid: 7
 
+cids: 16815,16824
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/605/original/Screen_Shot_2017-05-31_at_11.28.19_AM.png)

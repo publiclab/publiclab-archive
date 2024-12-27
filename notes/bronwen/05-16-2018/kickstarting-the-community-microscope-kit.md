@@ -7,6 +7,8 @@ path: /notes/bronwen/05-16-2018/kickstarting-the-community-microscope-kit.md
 nid: 16353
 uid: 237313
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/962/original/final.png)

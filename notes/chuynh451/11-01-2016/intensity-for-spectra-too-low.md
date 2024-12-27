@@ -7,6 +7,8 @@ path: /notes/chuynh451/11-01-2016/intensity-for-spectra-too-low.md
 nid: 13670
 uid: 495484
 
+cids: 15765,15766,16105,22343
+
 ---
 
 # Intensity for spectra too low?

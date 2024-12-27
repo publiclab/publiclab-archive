@@ -7,6 +7,8 @@ path: /notes/smathermather/12-23-2014/opendronemap-open-source-toolkit-for-proce
 nid: 11494
 uid: 431062
 
+cids: 10992,10994,10996,11000,11001,11134
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/526/original/langley_screen.jpg)

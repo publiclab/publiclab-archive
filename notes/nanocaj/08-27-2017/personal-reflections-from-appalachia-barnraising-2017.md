@@ -7,6 +7,8 @@ path: /notes/nanocaj/08-27-2017/personal-reflections-from-appalachia-barnraising
 nid: 14793
 uid: 513316
 
+cids: 17343
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/447/original/IMG_1789.JPG)

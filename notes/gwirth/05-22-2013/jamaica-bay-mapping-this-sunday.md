@@ -7,6 +7,8 @@ path: /notes/gwirth/05-22-2013/jamaica-bay-mapping-this-sunday.md
 nid: 7820
 uid: 30539
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/384/original/Full_55x120.jpg)

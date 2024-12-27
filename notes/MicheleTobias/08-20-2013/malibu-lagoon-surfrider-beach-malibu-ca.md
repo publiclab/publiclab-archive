@@ -7,6 +7,8 @@ path: /notes/MicheleTobias/08-20-2013/malibu-lagoon-surfrider-beach-malibu-ca.md
 nid: 9037
 uid: 149
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/215/original/IMG_5494.JPG)

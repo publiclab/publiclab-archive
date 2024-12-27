@@ -7,6 +7,8 @@ path: /notes/warren/5-14-2012/leads-mass-produced-giant-mylar-balloons.md
 nid: 1968
 uid: 1
 
+cids: 740,14638
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Customized_WIFI_advertising_Balloons.jpg)

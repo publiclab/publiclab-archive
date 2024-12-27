@@ -7,6 +7,8 @@ path: /notes/mathew/06-01-2015/plan-for-recording-shinyei-optical-sensors-using-
 nid: 11927
 uid: 4
 
+cids: 11835,11836,11842,11843,11884,11897,11909,11910,11911,11912,11913,11933,11935,18478
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/164/original/Screen_Shot_2015-05-19_at_3.51.13_PM.png)

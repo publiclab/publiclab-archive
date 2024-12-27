@@ -7,6 +7,8 @@ path: /notes/TheChessGym/08-29-2022/biodiversity-is-important.md
 nid: 34919
 uid: 788868
 
+cids: 30536,30538,30539,30540,30541,30542,30543,30544,30545,30546,30547,30548,30549,30550,30551,30552
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/091/original/biomes-world_0.jpg)

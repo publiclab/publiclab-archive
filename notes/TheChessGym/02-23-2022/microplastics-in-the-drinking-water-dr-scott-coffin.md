@@ -7,6 +7,8 @@ path: /notes/TheChessGym/02-23-2022/microplastics-in-the-drinking-water-dr-scott
 nid: 30076
 uid: 788868
 
+cids: 29714,29722
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/423/original/bodyplas.jpg)

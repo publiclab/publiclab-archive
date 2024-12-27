@@ -7,6 +7,8 @@ path: /notes/patzerrpd/03-07-2016/m-sc-student-looking-for-community-research-to
 nid: 12778
 uid: 468530
 
+cids: 13818,13824,13869
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/668/original/uoGuelphphoto.jpg)

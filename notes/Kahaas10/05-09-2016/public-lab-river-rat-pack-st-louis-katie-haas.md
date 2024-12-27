@@ -7,6 +7,8 @@ path: /notes/Kahaas10/05-09-2016/public-lab-river-rat-pack-st-louis-katie-haas.m
 nid: 13095
 uid: 465989
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/072/original/public_lab_intro_panels_Page_1.jpg)

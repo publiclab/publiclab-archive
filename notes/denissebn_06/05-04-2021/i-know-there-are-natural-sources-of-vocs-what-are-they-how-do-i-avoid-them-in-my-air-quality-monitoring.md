@@ -7,6 +7,8 @@ path: /notes/denissebn_06/05-04-2021/i-know-there-are-natural-sources-of-vocs-wh
 nid: 26488
 uid: 749988
 
+cids: 28768,28899,28902
+
 ---
 
 # There are natural sources of VOCs, what are they? How do I avoid them in my air quality monitoring? 

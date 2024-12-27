@@ -7,6 +7,8 @@ path: /notes/warren/1-30-2013/light-socket-tests-countertop-spectrometer-3d-prin
 nid: 5806
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0316.JPG)

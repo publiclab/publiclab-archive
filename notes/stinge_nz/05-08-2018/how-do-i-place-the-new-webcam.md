@@ -7,6 +7,8 @@ path: /notes/stinge_nz/05-08-2018/how-do-i-place-the-new-webcam.md
 nid: 16312
 uid: 435334
 
+cids: 19586,19831,19835,19896,19897,19898,19956,19990,20233,20241,23088,23146,23148,23150
+
 ---
 
 # How do I...place the new webcam

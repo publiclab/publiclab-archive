@@ -7,6 +7,8 @@ path: /07-20-2014/is-our-fridge-too-warm-a-fido-now-sends-us-text-message-alerts
 nid: 10712
 uid: 174
 
+cids: 9558,9559,11814
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/401/original/negative-temperatures-on-fido.png)

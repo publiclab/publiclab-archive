@@ -7,6 +7,8 @@ path: /notes/Amtwynn/10-27-2017/pure-co2.md
 nid: 15109
 uid: 517043
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/096/original/IMG_0117.JPG)

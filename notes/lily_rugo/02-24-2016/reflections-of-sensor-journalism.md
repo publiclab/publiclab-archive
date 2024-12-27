@@ -7,6 +7,8 @@ path: /notes/lily_rugo/02-24-2016/reflections-of-sensor-journalism.md
 nid: 12733
 uid: 461426
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/554/original/Screen_Shot_2016-02-24_at_1.24.10_AM.png)

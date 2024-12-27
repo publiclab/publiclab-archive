@@ -7,6 +7,8 @@ path: /notes/gonzoearth/12-11-2012/new-mapbox-satellite-imagery-layer.md
 nid: 5177
 uid: 12
 
+cids: 2728
+
 ---
 
 # New MapBox aerial imagery layer

@@ -7,6 +7,8 @@ path: /notes/warren/4-30-2011/emails-expose-bps-attempts-control-research-impact
 nid: 208
 uid: 1
 
+cids: 
+
 ---
 
 # Emails expose BP's attempts to control research into impact of Gulf oil spill

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/4-19-2011/notes-4-19-staff-call.md
 nid: 180
 uid: 12
 
+cids: 
+
 ---
 
 # Notes from 4-19 staff call

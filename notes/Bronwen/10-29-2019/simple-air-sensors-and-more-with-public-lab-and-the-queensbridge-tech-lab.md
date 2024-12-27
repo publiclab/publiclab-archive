@@ -7,6 +7,8 @@ path: /notes/Bronwen/10-29-2019/simple-air-sensors-and-more-with-public-lab-and-
 nid: 21339
 uid: 237313
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/088/original/SASTREE.jpg)

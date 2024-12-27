@@ -7,6 +7,8 @@ path: /notes/Chus/12-12-2018/nvdi-camino.md
 nid: 17882
 uid: 530977
 
+cids: 21498,21500,21507,21525
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/325/original/camino.JPG)

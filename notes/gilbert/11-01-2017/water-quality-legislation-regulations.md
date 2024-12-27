@@ -7,6 +7,8 @@ path: /notes/gilbert/11-01-2017/water-quality-legislation-regulations.md
 nid: 15137
 uid: 508551
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/171/original/Nerpa_-_Pusa_Siberica_-_Lake_Baikal___Mass_Seal_Deaths-_Oct_31_2017.jpg)

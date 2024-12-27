@@ -7,6 +7,8 @@ path: /notes/mathew/04-07-2015/designing-an-oil-testing-kit-cuvette-frame.md
 nid: 11750
 uid: 4
 
+cids: 11742,11743,11763,11772,11808,11809,11813
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/566/original/IMG_20150407_150745.jpg)

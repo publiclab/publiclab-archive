@@ -7,6 +7,8 @@ path: /notes/Guillaume123/01-21-2015/spectrometer-for-analysing-garden-soil.md
 nid: 11535
 uid: 284858
 
+cids: 11075,11078,11080,11084,11085,11086,11090,11093
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/721/original/Spectrometer.jpg)

@@ -7,6 +7,8 @@ path: /notes/liz/05-06-2013/report-back-from-transparency-camp-2013.md
 nid: 7264
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/175/original/Screen_Shot_2013-05-06_at_5.26.32_PM.png)

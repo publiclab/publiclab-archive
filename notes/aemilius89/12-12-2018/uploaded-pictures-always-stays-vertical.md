@@ -7,6 +7,8 @@ path: /notes/aemilius89/12-12-2018/uploaded-pictures-always-stays-vertical.md
 nid: 17878
 uid: 561190
 
+cids: 21501,21619,21641,21733,21745,26315
+
 ---
 
 # Uploaded pictures always stays vertical

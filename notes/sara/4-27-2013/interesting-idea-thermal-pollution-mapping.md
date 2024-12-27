@@ -7,6 +7,8 @@ path: /notes/sara/4-27-2013/interesting-idea-thermal-pollution-mapping.md
 nid: 7090
 uid: 8
 
+cids: 
+
 ---
 
 # Interesting idea for thermal pollution mapping

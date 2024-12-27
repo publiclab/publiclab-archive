@@ -7,6 +7,8 @@ path: /notes/liz/01-23-2014/hackerspace-sg-meetup.md
 nid: 9969
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/628/original/IMG_1805.JPG)

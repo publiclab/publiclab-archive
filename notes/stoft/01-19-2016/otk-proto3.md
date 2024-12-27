@@ -7,6 +7,8 @@ path: /notes/stoft/01-19-2016/otk-proto3.md
 nid: 12593
 uid: 54025
 
+cids: 13346,13347,13348,13349,13359,13361
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/717/original/OTKP3_Main.jpg)

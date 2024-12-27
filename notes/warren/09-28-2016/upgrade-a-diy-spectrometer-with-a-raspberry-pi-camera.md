@@ -7,6 +7,8 @@ path: /notes/warren/09-28-2016/upgrade-a-diy-spectrometer-with-a-raspberry-pi-ca
 nid: 13499
 uid: 1
 
+cids: 15521,15524,15562,15564,15565,21227,22311,22313,22337,23120
+
 ---
 
 # Can I upgrade a DIY spectrometer with a Raspberry Pi camera?

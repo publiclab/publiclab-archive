@@ -7,6 +7,8 @@ path: /notes/profbraino/1-22-2013/two-step-process-0.md
 nid: 5676
 uid: 48546
 
+cids: 3167,3169,3170,3171,3172,3173,3175,3176,3178,3179,3180,3181,3182,3183
+
 ---
 
 # two step process

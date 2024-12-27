@@ -7,6 +7,8 @@ path: /notes/stevie/01-22-2018/what-is-the-best-light-source-to-use-for-the-basi
 nid: 15586
 uid: 422561
 
+cids: 18273,18315,18664,18819,18820,18831,22895,22979,22992
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/933/original/OI000142.jpg)

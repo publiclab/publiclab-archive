@@ -7,6 +7,8 @@ path: /notes/Aleksi12358/07-09-2018/raspberry-pi-operating-system-for-lego-spect
 nid: 16669
 uid: 540470
 
+cids: 20065,20066,20109,20156,23173,23175
+
 ---
 
 # Raspberry pi operating system for Lego spectrometer

@@ -7,6 +7,8 @@ path: /notes/Mekis/04-16-2017/diy-spectrophotometer.md
 nid: 14115
 uid: 505614
 
+cids: 16589,18681
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/141/original/refraction-150853_1280.png)

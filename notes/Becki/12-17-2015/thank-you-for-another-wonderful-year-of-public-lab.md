@@ -7,6 +7,8 @@ path: /notes/Becki/12-17-2015/thank-you-for-another-wonderful-year-of-public-lab
 nid: 12530
 uid: 46673
 
+cids: 13330
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/397/original/Barnraising_Nametags_-_Fall_2015.png)

@@ -7,6 +7,8 @@ path: /notes/nickyshen0306/08-22-2019/what-is-the-working-principle-of-blue-red-
 nid: 20621
 uid: 612401
 
+cids: 25312,25324
+
 ---
 
 # What is the working principle of Blue/Red filter

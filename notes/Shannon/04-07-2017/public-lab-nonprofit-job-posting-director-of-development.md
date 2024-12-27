@@ -7,6 +7,8 @@ path: /notes/Shannon/04-07-2017/public-lab-nonprofit-job-posting-director-of-dev
 nid: 14097
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/156/original/plots-logo-transparent.jpg)

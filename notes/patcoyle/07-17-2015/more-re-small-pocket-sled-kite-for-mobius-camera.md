@@ -7,6 +7,8 @@ path: /notes/patcoyle/07-17-2015/more-re-small-pocket-sled-kite-for-mobius-camer
 nid: 12073
 uid: 77
 
+cids: 12220,12221,12222,12223,12225,12227
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/702/original/screenshot_contact_sheet2.jpg)

@@ -7,6 +7,8 @@ path: /notes/joywager/4-2-2012/mobile-e-coli-detector-created-cell-phones-ucla-r
 nid: 1596
 uid: 774
 
+cids: 690
+
 ---
 
 #  Mobile E coli detector created for cell phones by UCLA researchers

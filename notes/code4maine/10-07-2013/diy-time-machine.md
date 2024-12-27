@@ -7,6 +7,8 @@ path: /notes/code4maine/10-07-2013/diy-time-machine.md
 nid: 9417
 uid: 294634
 
+cids: 7148,7346
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/798/original/PortableScanner.jpg)

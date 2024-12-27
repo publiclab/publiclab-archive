@@ -7,6 +7,8 @@ path: /notes/cfastie/05-26-2017/portable-thermal-ir-temperature-logger-unit.md
 nid: 14229
 uid: 554
 
+cids: 18222,21777,21784
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/551/original/Deek_18B20_20170524-9159.JPG)

@@ -7,6 +7,8 @@ path: /notes/joyofsoy/10-04-2019/memories-with-molly.md
 nid: 21079
 uid: 540844
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/569/original/20190618_094529.jpg)

@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-13-2016/reproducibility-test-of-data-using-an-ir-lam
 nid: 12962
 uid: 468990
 
+cids: 14233,14236,14238,14240
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/502/original/IR_test_setup.jpg)

@@ -7,6 +7,8 @@ path: /notes/bhamster/06-23-2020/how-can-i-test-whether-beach-foam-is-natural-or
 nid: 24027
 uid: 664477
 
+cids: 27047,27050,27051,27209,27418,29731
+
 ---
 
 # How can I test whether beach foam is natural or potential pollution?

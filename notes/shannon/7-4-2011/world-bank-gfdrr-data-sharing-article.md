@@ -7,6 +7,8 @@ path: /notes/shannon/7-4-2011/world-bank-gfdrr-data-sharing-article.md
 nid: 367
 uid: 9
 
+cids: 
+
 ---
 
 # World Bank GFDRR data sharing article

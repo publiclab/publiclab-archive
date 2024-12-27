@@ -7,6 +7,8 @@ path: /notes/ananyo2012/08-20-2016/gsoc-2016-final-work-product-of-expanded-q-a-
 nid: 13372
 uid: 468506
 
+cids: 15195,15196,15197,15198,15199,15200,15209,15226,15227,15228
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/693/original/question_index.png)

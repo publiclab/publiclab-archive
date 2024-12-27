@@ -7,6 +7,8 @@ path: /notes/kgradow1/04-08-2014/union-square-mbta-mapping.md
 nid: 10282
 uid: 297929
 
+cids: 8709,10301
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/570/original/IMG_1971.JPG)

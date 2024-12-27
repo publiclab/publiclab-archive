@@ -7,6 +7,8 @@ path: /notes/kgradow1/10-01-2017/what-is-the-scenario-under-which-you-would-use-
 nid: 14986
 uid: 297929
 
+cids: 22747
+
 ---
 
 # What is the scenario under which you would use an optical vs. a passive monitor to measure dust? 

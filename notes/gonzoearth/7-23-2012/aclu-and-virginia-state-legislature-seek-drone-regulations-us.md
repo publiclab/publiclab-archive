@@ -7,6 +7,8 @@ path: /notes/gonzoearth/7-23-2012/aclu-and-virginia-state-legislature-seek-drone
 nid: 2995
 uid: 12
 
+cids: 
+
 ---
 
 # ACLU and Virginia state legislature seek drone regulations in the U.S.

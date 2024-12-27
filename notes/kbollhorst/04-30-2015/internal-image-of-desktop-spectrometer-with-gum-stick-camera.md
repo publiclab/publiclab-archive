@@ -7,6 +7,8 @@ path: /notes/kbollhorst/04-30-2015/internal-image-of-desktop-spectrometer-with-g
 nid: 11775
 uid: 439554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/726/original/Internal_Spectrometer.jpg)

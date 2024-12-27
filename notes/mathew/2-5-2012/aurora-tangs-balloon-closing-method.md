@@ -7,6 +7,8 @@ path: /notes/mathew/2-5-2012/aurora-tangs-balloon-closing-method.md
 nid: 751
 uid: 4
 
+cids: 433,593,611,18770
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0511.JPG)

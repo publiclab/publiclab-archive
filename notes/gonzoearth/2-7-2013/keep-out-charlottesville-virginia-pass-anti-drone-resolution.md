@@ -7,6 +7,8 @@ path: /notes/gonzoearth/2-7-2013/keep-out-charlottesville-virginia-pass-anti-dro
 nid: 5916
 uid: 12
 
+cids: 
+
 ---
 
 # KEEP OUT: Charlottesville Virginia Pass Anti-Drone Resolution

@@ -7,6 +7,8 @@ path: /notes/bhamster/03-03-2022/finding-reclamation-permits-for-mines.md
 nid: 30093
 uid: 664477
 
+cids: 29740
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/455/original/Pebble_Mine_Plan_sm.jpeg)

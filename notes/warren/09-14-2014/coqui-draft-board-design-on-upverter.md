@@ -7,6 +7,8 @@ path: /notes/warren/09-14-2014/coqui-draft-board-design-on-upverter.md
 nid: 11142
 uid: 1
 
+cids: 10283,10285,10292,10303,10304,10320,11770,11771
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/817/original/coqui.png)

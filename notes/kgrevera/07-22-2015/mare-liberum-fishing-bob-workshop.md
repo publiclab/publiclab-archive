@@ -7,6 +7,8 @@ path: /notes/kgrevera/07-22-2015/mare-liberum-fishing-bob-workshop.md
 nid: 12088
 uid: 432001
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/803/original/Screen_Shot_2015-07-06_at_11.46.56_AM.png)

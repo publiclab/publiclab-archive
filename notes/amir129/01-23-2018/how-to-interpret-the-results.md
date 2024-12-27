@@ -7,6 +7,8 @@ path: /notes/amir129/01-23-2018/how-to-interpret-the-results.md
 nid: 15594
 uid: 523425
 
+cids: 18275,18276,18277,18278,22873,22874,22876,22877,22896,22898
+
 ---
 
 # How to interpret the results?

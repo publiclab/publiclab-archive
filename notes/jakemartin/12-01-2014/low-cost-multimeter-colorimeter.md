@@ -7,6 +7,8 @@ path: /notes/jakemartin/12-01-2014/low-cost-multimeter-colorimeter.md
 nid: 11414
 uid: 422965
 
+cids: 10921,10978,11007,11008
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/152/original/IMG_0358.jpg)

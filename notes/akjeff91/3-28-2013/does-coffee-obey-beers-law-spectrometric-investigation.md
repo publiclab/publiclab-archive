@@ -7,6 +7,8 @@ path: /notes/akjeff91/3-28-2013/does-coffee-obey-beers-law-spectrometric-investi
 nid: 6587
 uid: 51885
 
+cids: 4266,4271,4275,4291
+
 ---
 
 # Does Coffee Obey Beer's Law? A Spectrometric Investigation

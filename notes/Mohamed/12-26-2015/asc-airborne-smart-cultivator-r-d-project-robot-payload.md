@@ -7,6 +7,8 @@ path: /notes/Mohamed/12-26-2015/asc-airborne-smart-cultivator-r-d-project-robot-
 nid: 12544
 uid: 431141
 
+cids: 27760
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/475/original/ASC-Robot-Y.mp4_snapshot_02.09__2015.10.29_02.13.00_.jpg)

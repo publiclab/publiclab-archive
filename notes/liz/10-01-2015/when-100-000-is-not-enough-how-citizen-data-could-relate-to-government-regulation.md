@@ -7,6 +7,8 @@ path: /notes/liz/10-01-2015/when-100-000-is-not-enough-how-citizen-data-could-re
 nid: 12261
 uid: 7
 
+cids: 13198,27238,27268,27292,27295
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/732/original/Whats-the-use.jpg)

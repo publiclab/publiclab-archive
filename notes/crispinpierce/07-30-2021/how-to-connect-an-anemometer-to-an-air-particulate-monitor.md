@@ -7,6 +7,8 @@ path: /notes/crispinpierce/07-30-2021/how-to-connect-an-anemometer-to-an-air-par
 nid: 27394
 uid: 426100
 
+cids: 
+
 ---
 
 # How to connect an anemometer to an air particulate monitor?

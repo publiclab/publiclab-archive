@@ -7,6 +7,8 @@ path: /notes/cfastie/3-6-2013/polynomial.md
 nid: 6225
 uid: 554
 
+cids: 3658,3660,12617,12618
+
 ---
 
 ![](https://publiclab.org/sites/default/files/poly-Snowy-1200.jpg)

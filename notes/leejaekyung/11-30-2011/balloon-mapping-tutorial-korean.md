@@ -7,6 +7,8 @@ path: /notes/leejaekyung/11-30-2011/balloon-mapping-tutorial-korean.md
 nid: 601
 uid: 274
 
+cids: 368,480
+
 ---
 
 ![](https://publiclab.org/sites/default/files/poster-low.jpg)

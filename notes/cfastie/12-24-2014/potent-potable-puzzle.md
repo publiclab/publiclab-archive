@@ -7,6 +7,8 @@ path: /notes/cfastie/12-24-2014/potent-potable-puzzle.md
 nid: 11496
 uid: 554
 
+cids: 11002,11003,11004,11418
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/533/original/4IRbevWrat87_Named.jpg)

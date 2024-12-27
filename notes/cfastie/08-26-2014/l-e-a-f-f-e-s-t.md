@@ -7,6 +7,8 @@ path: /notes/cfastie/08-26-2014/l-e-a-f-f-e-s-t.md
 nid: 11076
 uid: 554
 
+cids: 10159,10160,10165,10179
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/407/original/LEAFBread-group1200s.jpg)

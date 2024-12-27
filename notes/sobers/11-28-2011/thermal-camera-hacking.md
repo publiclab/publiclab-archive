@@ -7,6 +7,8 @@ path: /notes/sobers/11-28-2011/thermal-camera-hacking.md
 nid: 588
 uid: 371
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrum.jpg)

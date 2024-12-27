@@ -7,6 +7,8 @@ path: /notes/gonzoearth/3-22-2012/mapmaker-training.md
 nid: 1515
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6939415409_f5ec501e63.jpg)

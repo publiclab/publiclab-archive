@@ -7,6 +7,8 @@ path: /notes/kgrevera/07-06-2015/cape-cod-thermal-fishing-bob-field-test.md
 nid: 12034
 uid: 432001
 
+cids: 12101,12102
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/548/original/Screen_Shot_2015-07-06_at_11.45.55_AM.png)

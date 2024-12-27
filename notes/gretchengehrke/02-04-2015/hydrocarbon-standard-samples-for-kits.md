@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/02-04-2015/hydrocarbon-standard-samples-for-kits.md
 nid: 11553
 uid: 430549
 
+cids: 11131,11140,11155,12726
+
 ---
 
 # Hydrocarbon standard samples for kits

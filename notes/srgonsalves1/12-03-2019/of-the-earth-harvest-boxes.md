@@ -7,6 +7,8 @@ path: /notes/srgonsalves1/12-03-2019/of-the-earth-harvest-boxes.md
 nid: 21649
 uid: 635245
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/834/original/Harvest_Box_Logo2.png)

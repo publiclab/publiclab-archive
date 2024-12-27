@@ -7,6 +7,8 @@ path: /notes/warren/6-5-2011/filter-pinwheel-multispectral-sensing.md
 nid: 331
 uid: 1
 
+cids: 9655
+
 ---
 
 ![](https://publiclab.org/sites/default/files/multispectral.jpg)

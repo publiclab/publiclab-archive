@@ -7,6 +7,8 @@ path: /notes/anishshah101/06-13-2014/gsoc-update-working-of-image-distortion-in-
 nid: 10557
 uid: 421046
 
+cids: 9191,9193,9198
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/696/original/main.png)

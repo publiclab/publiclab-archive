@@ -7,6 +7,8 @@ path: /notes/stevie/10-20-2014/nocca-mapping-at-city-park.md
 nid: 11281
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/551/original/20141020_111334.jpg)

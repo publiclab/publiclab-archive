@@ -7,6 +7,8 @@ path: /notes/warren/04-11-2013/presentation-to-foss4g-denver-2011.md
 nid: 6785
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/039/original/presentation-wilkinson.png)

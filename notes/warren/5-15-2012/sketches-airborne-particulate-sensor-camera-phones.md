@@ -7,6 +7,8 @@ path: /notes/warren/5-15-2012/sketches-airborne-particulate-sensor-camera-phones
 nid: 1993
 uid: 1
 
+cids: 741
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120515_154050_0.jpg)

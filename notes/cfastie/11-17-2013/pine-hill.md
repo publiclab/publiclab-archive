@@ -7,6 +7,8 @@ path: /notes/cfastie/11-17-2013/pine-hill.md
 nid: 9792
 uid: 554
 
+cids: 7632,7834,7836,7837
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/250/original/PineHill-276-40.jpg)

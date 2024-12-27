@@ -7,6 +7,8 @@ path: /notes/tonyc/01-21-2016/mobius-picavet-rig.md
 nid: 12598
 uid: 447491
 
+cids: 13360,13362,13363,13364,13366,13367,13380
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/744/original/picavet.JPG)

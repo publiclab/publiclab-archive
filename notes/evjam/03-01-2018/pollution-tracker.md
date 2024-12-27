@@ -7,6 +7,8 @@ path: /notes/evjam/03-01-2018/pollution-tracker.md
 nid: 15845
 uid: 526436
 
+cids: 18695,18782,18783,18784
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/775/original/14111623_10206775202445125_994403153_n.jpg)

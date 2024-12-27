@@ -7,6 +7,8 @@ path: /notes/ranon/07-07-2016/electronics-free-automated-pan-mechanisms.md
 nid: 13268
 uid: 477060
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/903/original/Silly_Putty_Pan_Mechanism.jpg)

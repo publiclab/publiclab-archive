@@ -7,6 +7,8 @@ path: /notes/TedF/10-20-2014/attaching-a-camera-to-a-wooden-picavet-using-nails-
 nid: 11279
 uid: 197186
 
+cids: 10584,10607
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/511/original/IMG_1354.JPG)

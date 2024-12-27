@@ -7,6 +7,8 @@ path: /notes/leeuwenstein/7-16-2012/question.md
 nid: 2823
 uid: 480
 
+cids: 1018
+
 ---
 
 # question

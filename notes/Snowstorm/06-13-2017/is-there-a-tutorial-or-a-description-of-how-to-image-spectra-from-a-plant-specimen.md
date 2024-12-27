@@ -7,6 +7,8 @@ path: /notes/Snowstorm/06-13-2017/is-there-a-tutorial-or-a-description-of-how-to
 nid: 14528
 uid: 508966
 
+cids: 22485
+
 ---
 
 # Is there a tutorial or a description of how to image spectra from a plant specimen?

@@ -7,6 +7,8 @@ path: /notes/coaat97/10-01-2022/construye-tu-propio-espectroscopio-para-el-movil
 nid: 35016
 uid: 609174
 
+cids: 31356
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/201/original/2022-10-01_111018.jpg)

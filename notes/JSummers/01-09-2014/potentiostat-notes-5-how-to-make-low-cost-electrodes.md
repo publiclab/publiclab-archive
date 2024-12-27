@@ -7,6 +7,8 @@ path: /notes/JSummers/01-09-2014/potentiostat-notes-5-how-to-make-low-cost-elect
 nid: 9932
 uid: 304279
 
+cids: 8007,9419,9425,12109,12819,12820,12821,12822,12823,12825
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/501/original/DSCN0502.JPG)

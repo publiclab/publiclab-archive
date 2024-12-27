@@ -7,6 +7,8 @@ path: /notes/lucenk/07-15-2014/live-infragram.md
 nid: 10695
 uid: 424538
 
+cids: 9521,9522,9523,9535,9536,9546
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/333/original/Screen_Shot_2014-07-15_at_1.24.01_PM.png)

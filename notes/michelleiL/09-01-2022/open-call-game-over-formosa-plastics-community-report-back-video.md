@@ -7,6 +7,8 @@ path: /notes/michelleiL/09-01-2022/open-call-game-over-formosa-plastics-communit
 nid: 34925
 uid: 799004
 
+cids: 30624,31256,31285,31286,31289,31294,31297,31312
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/105/original/IMG_1951.JPG)

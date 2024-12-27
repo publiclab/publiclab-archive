@@ -7,6 +7,8 @@ path: /notes/bryanchua/12-18-2018/hydro-powered-diy-ftir-spectrometer.md
 nid: 17968
 uid: 561828
 
+cids: 21546,21547,21561,21565,26816,26817,26827
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/425/original/FTIR.png)

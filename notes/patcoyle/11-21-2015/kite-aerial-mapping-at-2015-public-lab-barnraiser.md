@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-21-2015/kite-aerial-mapping-at-2015-public-lab-barnrais
 nid: 12435
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/910/original/IMG_7094.JPG)

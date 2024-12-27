@@ -7,6 +7,8 @@ path: /notes/liz/05-09-2014/youth-of-ironbound-set-2014-garden-goals.md
 nid: 10457
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/208/original/IMG_2048.JPG)

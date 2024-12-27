@@ -7,6 +7,8 @@ path: /notes/liz/03-01-2017/choose-a-camera-for-aerial-photography.md
 nid: 13980
 uid: 7
 
+cids: 16285,16305
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/700/original/s-l1600.jpg)

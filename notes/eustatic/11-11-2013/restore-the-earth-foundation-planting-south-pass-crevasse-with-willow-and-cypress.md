@@ -7,6 +7,8 @@ path: /11-11-2013/restore-the-earth-foundation-planting-south-pass-crevasse-with
 nid: 9765
 uid: 379
 
+cids: 8012,8013
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/193/original/10782827585_0cf4538c5e_z_1_.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/11-07-2013/focus-on-filters.md
 nid: 9744
 uid: 554
 
+cids: 7462,7463,7489,7506,7512,7670,7851,7852,7854,8578,8580
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/153/original/A2200-273-3.jpg)

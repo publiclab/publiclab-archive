@@ -7,6 +7,8 @@ path: /notes/fongvania/10-07-2021/hyperlocal-air-quality-dataset-for-california-
 nid: 27814
 uid: 754846
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/870/original/1_mzGUT2I4VaK0x7saEOiNDQ.jpeg)

@@ -7,6 +7,8 @@ path: /notes/warren/04-11-2013/public-lab-presentation-at-personal-democracy-for
 nid: 6787
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/042/original/presentation-wilkinson.png)

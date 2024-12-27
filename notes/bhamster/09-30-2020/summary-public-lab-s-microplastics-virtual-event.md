@@ -7,6 +7,8 @@ path: /notes/bhamster/09-30-2020/summary-public-lab-s-microplastics-virtual-even
 nid: 24681
 uid: 664477
 
+cids: 27430,27433,27436
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/029/original/Screen_Shot_2020-09-29_at_2.41.55_PM.png)

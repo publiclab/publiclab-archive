@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/07-09-2014/the-story-of-a-diy-poem.md
 nid: 10667
 uid: 1083
 
+cids: 9456
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/185/original/poem_by_allan_andre.jpg)

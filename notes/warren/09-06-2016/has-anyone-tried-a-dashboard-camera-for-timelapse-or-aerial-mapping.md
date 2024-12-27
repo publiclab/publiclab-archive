@@ -7,6 +7,8 @@ path: /notes/warren/09-06-2016/has-anyone-tried-a-dashboard-camera-for-timelapse
 nid: 13424
 uid: 1
 
+cids: 15325,15360,30252
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/951/original/black-box.jpg)

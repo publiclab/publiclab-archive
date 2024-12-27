@@ -7,6 +7,8 @@ path: /notes/liz/01-19-2018/what-kinds-of-surface-design-decoration-can-i-apply-
 nid: 15567
 uid: 7
 
+cids: 
+
 ---
 
 # What kinds of surface design / decoration can i apply to kombucha leather?

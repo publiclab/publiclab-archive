@@ -7,6 +7,8 @@ path: /notes/Zengirl2/03-22-2018/can-bio-char-products-absorb-cafo-gases-like-hy
 nid: 16006
 uid: 423961
 
+cids: 19267,23031,23045
+
 ---
 
 # Can Bio-char products absorb CAFO gases like Hydrogen Sulfide or Ammonia?

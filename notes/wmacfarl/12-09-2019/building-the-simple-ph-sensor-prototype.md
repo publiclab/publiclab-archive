@@ -7,6 +7,8 @@ path: /notes/wmacfarl/12-09-2019/building-the-simple-ph-sensor-prototype.md
 nid: 21697
 uid: 424597
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/925/original/ph_sensor_build.jpg)

@@ -7,6 +7,8 @@ path: /notes/donblair/03-08-2016/removing-ambient-background-light-from-turbidit
 nid: 12782
 uid: 43651
 
+cids: 13819,14008,14029,14042,14066,14067
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/674/original/fig9.png)

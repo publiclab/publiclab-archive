@@ -7,6 +7,8 @@ path: /notes/sonofaquark/4-1-2013/forward-light.md
 nid: 6642
 uid: 54330
 
+cids: 4309,4354
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSCN0844.JPG)

@@ -7,6 +7,8 @@ path: /notes/keshav_sethi0004/06-16-2020/gsoc-2020-week-6-coding-period-week-2-s
 nid: 23863
 uid: 653396
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/809/original/Screenshot_from_2020-06-09_10-59-20.png)

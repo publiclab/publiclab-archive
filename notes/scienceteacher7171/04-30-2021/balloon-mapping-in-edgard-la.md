@@ -7,6 +7,8 @@ path: /notes/scienceteacher7171/04-30-2021/balloon-mapping-in-edgard-la.md
 nid: 26416
 uid: 739693
 
+cids: 28674,28675
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/620/original/thumbnail_IMG_3892.jpg)

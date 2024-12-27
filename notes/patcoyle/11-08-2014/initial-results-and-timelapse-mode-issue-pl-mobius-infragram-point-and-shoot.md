@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-08-2014/initial-results-and-timelapse-mode-issue-pl-mob
 nid: 11327
 uid: 77
 
+cids: 10723,10725,17558
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/782/original/IMAG0001_NDVI_Color.jpg)

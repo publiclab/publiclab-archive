@@ -7,6 +7,8 @@ path: /notes/aashnaaashna/04-03-2019/soc-proposal-image-sequencer.md
 nid: 18943
 uid: 553271
 
+cids: 23714,23719,23720,23727,23739,23776,23794,23836,23837,24878
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/186/original/ip.jpg)

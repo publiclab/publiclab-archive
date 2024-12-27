@@ -7,6 +7,8 @@ path: /notes/Sara/07-12-2013/limn-issue-with-article-on-public-lab.md
 nid: 8857
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/762/original/Screen_Shot_2013-07-12_at_6.37.10_AM.png)

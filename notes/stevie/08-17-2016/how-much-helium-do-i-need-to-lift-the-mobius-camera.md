@@ -7,6 +7,8 @@ path: /notes/stevie/08-17-2016/how-much-helium-do-i-need-to-lift-the-mobius-came
 nid: 13359
 uid: 422561
 
+cids: 15152
+
 ---
 
 # How much helium do I need to lift the mobius camera?

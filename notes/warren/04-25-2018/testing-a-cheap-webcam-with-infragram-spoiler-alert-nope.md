@@ -7,6 +7,8 @@ path: /notes/warren/04-25-2018/testing-a-cheap-webcam-with-infragram-spoiler-ale
 nid: 16212
 uid: 1
 
+cids: 21156,21157,21158,26103
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/747/original/IMG_20180425_165529_888.jpg)

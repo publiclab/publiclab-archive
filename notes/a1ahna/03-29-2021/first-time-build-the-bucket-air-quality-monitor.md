@@ -7,6 +7,8 @@ path: /notes/a1ahna/03-29-2021/first-time-build-the-bucket-air-quality-monitor.m
 nid: 26056
 uid: 518193
 
+cids: 28502,28503
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/088/original/IMG_0302.JPG)

@@ -7,6 +7,8 @@ path: /notes/stevie/12-01-2014/the-water-hackathon-report.md
 nid: 11417
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/173/original/20141120_202750.jpg)

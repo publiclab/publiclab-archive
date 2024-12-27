@@ -7,6 +7,8 @@ path: /notes/LailaL/05-11-2021/mapknitter-map-of-mapkitter-of-west-st-john-high.
 nid: 26549
 uid: 741030
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/746/original/IMG_9967.JPG)

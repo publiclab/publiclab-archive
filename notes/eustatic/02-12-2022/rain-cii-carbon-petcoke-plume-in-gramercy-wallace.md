@@ -7,6 +7,8 @@ path: /02-12-2022/rain-cii-carbon-petcoke-plume-in-gramercy-wallace.md
 nid: 30023
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/375/original/51876440284_afcd77e06a_b.jpg)

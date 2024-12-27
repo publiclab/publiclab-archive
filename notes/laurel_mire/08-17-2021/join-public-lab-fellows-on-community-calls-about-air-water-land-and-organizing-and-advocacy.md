@@ -7,6 +7,8 @@ path: /notes/laurel_mire/08-17-2021/join-public-lab-fellows-on-community-calls-a
 nid: 27576
 uid: 759178
 
+cids: 29152,29153,29154,29867,30854,30894,30895,30896,31531
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/676/original/PL_CCresearchnote.png)

@@ -7,6 +7,8 @@ path: /notes/patcoyle/02-22-2014/initial-ndvi-results-with-a1200-with-internal-w
 nid: 10055
 uid: 77
 
+cids: 8317,8325,8331,8368,11917,11926,11943,12319,12320,15083,15084,15085
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/974/original/12688716325_09458a3d4a.jpg)

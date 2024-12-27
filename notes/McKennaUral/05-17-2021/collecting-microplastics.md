@@ -7,6 +7,8 @@ path: /notes/McKennaUral/05-17-2021/collecting-microplastics.md
 nid: 26625
 uid: 744102
 
+cids: 31189
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/836/original/IMG_4822.JPG)

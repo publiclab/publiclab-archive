@@ -7,6 +7,8 @@ path: /notes/Shannon/07-02-2015/2014-public-lab-annual-report.md
 nid: 12029
 uid: 9
 
+cids: 12136
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/519/original/Screen_Shot_2015-07-02_at_3.20.39_PM.png)

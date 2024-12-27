@@ -7,6 +7,8 @@ path: /notes/maria93101/05-20-2019/mapknitter-map-of-pasadena-farmer-s-market.md
 nid: 19470
 uid: 591697
 
+cids: 24226
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/368/original/GOOD_2808.JPG)

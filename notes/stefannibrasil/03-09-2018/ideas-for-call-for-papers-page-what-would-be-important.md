@@ -7,6 +7,8 @@ path: /notes/stefannibrasil/03-09-2018/ideas-for-call-for-papers-page-what-would
 nid: 15908
 uid: 525300
 
+cids: 18846,18847,18848,18852,19139,22989,23000
+
 ---
 
 # Ideas for Call for papers page: What would be important?

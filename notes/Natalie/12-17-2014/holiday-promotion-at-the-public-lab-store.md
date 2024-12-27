@@ -7,6 +7,8 @@ path: /notes/Natalie/12-17-2014/holiday-promotion-at-the-public-lab-store.md
 nid: 11478
 uid: 424454
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/471/original/IMG_0721.JPG)

@@ -7,6 +7,8 @@ path: /notes/bhamster/11-23-2020/what-are-your-experiences-using-low-cost-voc-se
 nid: 25098
 uid: 664477
 
+cids: 27724,27737,27741,27768,27783
+
 ---
 
 # What are your experiences using low-cost VOC sensors outdoors? And other questions about accuracy.

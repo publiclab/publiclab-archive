@@ -7,6 +7,8 @@ path: /notes/anthony_mastracci/02-23-2015/the-opportnities-of-sensor-journalism.
 nid: 11622
 uid: 434173
 
+cids: 
+
 ---
 
 # The Opportnities Of Sensor Journalism

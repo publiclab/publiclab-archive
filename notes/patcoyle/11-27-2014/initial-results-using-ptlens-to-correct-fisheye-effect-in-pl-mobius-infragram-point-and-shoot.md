@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-27-2014/initial-results-using-ptlens-to-correct-fisheye
 nid: 11407
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/124/original/Color_Index.jpg)

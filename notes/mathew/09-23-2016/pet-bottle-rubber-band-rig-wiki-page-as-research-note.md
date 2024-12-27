@@ -7,6 +7,8 @@ path: /notes/mathew/09-23-2016/pet-bottle-rubber-band-rig-wiki-page-as-research-
 nid: 13475
 uid: 4
 
+cids: 15480
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/136/original/6786569511_3b53017e4e_o.jpg)

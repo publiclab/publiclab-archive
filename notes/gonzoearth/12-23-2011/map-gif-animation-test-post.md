@@ -7,6 +7,8 @@ path: /notes/gonzoearth/12-23-2011/map-gif-animation-test-post.md
 nid: 660
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/wilkinson.gif)

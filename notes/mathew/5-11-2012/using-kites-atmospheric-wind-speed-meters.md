@@ -7,6 +7,8 @@ path: /notes/mathew/5-11-2012/using-kites-atmospheric-wind-speed-meters.md
 nid: 1962
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/hobbs - kite aerodynamics and anemometry.pdf (page 243 of 323).jpg)

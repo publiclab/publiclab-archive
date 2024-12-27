@@ -7,6 +7,8 @@ path: /notes/warren/2-12-2013/countertop-and-mobile-spectrometers-and-ios-progre
 nid: 5962
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8451770972_657cce8fda.jpg)

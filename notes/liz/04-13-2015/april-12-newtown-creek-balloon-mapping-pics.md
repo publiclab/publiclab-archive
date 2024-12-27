@@ -7,6 +7,8 @@ path: /notes/liz/04-13-2015/april-12-newtown-creek-balloon-mapping-pics.md
 nid: 11755
 uid: 7
 
+cids: 11500,13573
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/645/original/IMG_4880.JPG)

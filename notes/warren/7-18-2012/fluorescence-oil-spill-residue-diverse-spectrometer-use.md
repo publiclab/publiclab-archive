@@ -7,6 +7,8 @@ path: /notes/warren/7-18-2012/fluorescence-oil-spill-residue-diverse-spectromete
 nid: 2862
 uid: 1
 
+cids: 1042,1043,1054,1403,22229,22231
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0175.JPG)

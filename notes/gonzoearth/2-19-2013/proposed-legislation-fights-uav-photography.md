@@ -7,6 +7,8 @@ path: /notes/gonzoearth/2-19-2013/proposed-legislation-fights-uav-photography.md
 nid: 6063
 uid: 12
 
+cids: 
+
 ---
 
 # Proposed Legislation Fights UAV Photography

@@ -7,6 +7,8 @@ path: /notes/mercybenzaquen/02-23-2016/sensor-journalism-to-fight-censorship.md
 nid: 12724
 uid: 461472
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/533/original/censorship.jpg)

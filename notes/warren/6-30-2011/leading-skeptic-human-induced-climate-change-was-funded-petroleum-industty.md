@@ -7,6 +7,8 @@ path: /notes/warren/6-30-2011/leading-skeptic-human-induced-climate-change-was-f
 nid: 364
 uid: 1
 
+cids: 594
+
 ---
 
 # Leading skeptic of human induced climate change was funded by petroleum industty

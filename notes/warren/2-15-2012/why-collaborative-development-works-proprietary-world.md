@@ -7,6 +7,8 @@ path: /notes/warren/2-15-2012/why-collaborative-development-works-proprietary-wo
 nid: 790
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/balloon.jpg)

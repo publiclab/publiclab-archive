@@ -7,6 +7,8 @@ path: /notes/stoft/04-14-2016/spectrometer-stability.md
 nid: 12973
 uid: 54025
 
+cids: 14231,14232,14237,14241,14260,14264,14270,14277,14289
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/534/original/STest_0-60Waterfall.gif)

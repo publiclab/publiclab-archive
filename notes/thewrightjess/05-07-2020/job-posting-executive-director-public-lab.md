@@ -7,6 +7,8 @@ path: /notes/thewrightjess/05-07-2020/job-posting-executive-director-public-lab.
 nid: 23559
 uid: 603909
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/311/original/boots_big.png)

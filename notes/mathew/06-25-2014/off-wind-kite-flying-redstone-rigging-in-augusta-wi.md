@@ -7,6 +7,8 @@ path: /notes/mathew/06-25-2014/off-wind-kite-flying-redstone-rigging-in-augusta-
 nid: 10619
 uid: 4
 
+cids: 9487,9694,9697,9699,9700
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/989/original/IMG_7701.JPG)

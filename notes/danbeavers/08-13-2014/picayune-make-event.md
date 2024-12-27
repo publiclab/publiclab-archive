@@ -7,6 +7,8 @@ path: /notes/danbeavers/08-13-2014/picayune-make-event.md
 nid: 11045
 uid: 51
 
+cids: 9978
+
 ---
 
 # Picayune Make event

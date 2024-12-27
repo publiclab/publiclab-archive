@@ -7,6 +7,8 @@ path: /notes/cfastie/07-26-2016/photos-to-3d.md
 nid: 13310
 uid: 554
 
+cids: 15065,15262,15263,15264,15265,15272
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/234/original/Atwater2pan.jpg)

@@ -7,6 +7,8 @@ path: /notes/wmacfarl/09-30-2017/can-we-take-photos-with-the-raspberry-pi-zero-w
 nid: 14980
 uid: 424597
 
+cids: 17484,17566
+
 ---
 
 # Can we take photos with the Raspberry Pi Zero W and Raspberry Pi camera?

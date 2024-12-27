@@ -7,6 +7,8 @@ path: /notes/pazb/08-16-2017/some-flying-mapping-seems-to-be-coming-our-way-and-
 nid: 14759
 uid: 512631
 
+cids: 17185,17214,17246,17265,17363,17364,17366
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/349/original/DSC_2008.JPG)

@@ -7,6 +7,8 @@ path: /notes/cfastie/03-31-2017/u-blox-gps-board.md
 nid: 14074
 uid: 554
 
+cids: 16562,16563,16583,27972
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/988/original/3tracksallps.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/2-29-2012/rc-truck-based-air-sensor.md
 nid: 872
 uid: 1
 
+cids: 503,504,508
+
 ---
 
 ![](https://publiclab.org/sites/default/files/truck.jpg)

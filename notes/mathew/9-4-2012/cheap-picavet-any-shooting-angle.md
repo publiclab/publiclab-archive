@@ -7,6 +7,8 @@ path: /notes/mathew/9-4-2012/cheap-picavet-any-shooting-angle.md
 nid: 3635
 uid: 4
 
+cids: 1289
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_8345.JPG)

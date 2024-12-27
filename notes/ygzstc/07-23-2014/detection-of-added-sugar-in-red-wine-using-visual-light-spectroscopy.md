@@ -7,6 +7,8 @@ path: /notes/ygzstc/07-23-2014/detection-of-added-sugar-in-red-wine-using-visual
 nid: 10955
 uid: 422489
 
+cids: 9601,9602,9603,9604,9605,9617,9619,9621,9622,9623,9624,9659,19832,21544,21548,21549,21551,21556,21560,21569
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/480/original/PictureRWS-1.png)

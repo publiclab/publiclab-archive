@@ -7,6 +7,8 @@ path: /notes/patcoyle/06-20-2015/additional-experience-with-with-saturn-v-and-sk
 nid: 11991
 uid: 77
 
+cids: 11987,11988,11989
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/395/original/Untitled_Panorama1_smlr.jpg)

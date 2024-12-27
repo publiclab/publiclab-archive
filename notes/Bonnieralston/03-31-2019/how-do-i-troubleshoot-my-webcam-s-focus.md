@@ -7,6 +7,8 @@ path: /notes/Bonnieralston/03-31-2019/how-do-i-troubleshoot-my-webcam-s-focus.md
 nid: 18916
 uid: 564730
 
+cids: 23582
+
 ---
 
 # How do I...troubleshoot my webcam's focus?

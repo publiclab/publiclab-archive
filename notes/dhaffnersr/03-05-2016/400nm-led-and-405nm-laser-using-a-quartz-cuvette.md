@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-05-2016/400nm-led-and-405nm-laser-using-a-quartz-cuve
 nid: 12777
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/659/original/400nm_LED_mar5.png)

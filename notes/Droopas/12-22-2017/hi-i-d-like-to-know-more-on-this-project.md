@@ -7,6 +7,8 @@ path: /notes/Droopas/12-22-2017/hi-i-d-like-to-know-more-on-this-project.md
 nid: 15417
 uid: 520956
 
+cids: 18064,22814
+
 ---
 
 # Hi I'd like to know more on this project

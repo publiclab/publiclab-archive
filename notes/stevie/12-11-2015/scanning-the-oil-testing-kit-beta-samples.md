@@ -7,6 +7,8 @@ path: /notes/stevie/12-11-2015/scanning-the-oil-testing-kit-beta-samples.md
 nid: 12500
 uid: 422561
 
+cids: 13091,13094,13095,13096,13097,13098,13099,13100
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/279/original/80w90.png)

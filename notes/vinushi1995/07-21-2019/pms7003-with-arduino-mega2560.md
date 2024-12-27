@@ -7,6 +7,8 @@ path: /notes/vinushi1995/07-21-2019/pms7003-with-arduino-mega2560.md
 nid: 20210
 uid: 605818
 
+cids: 25094,25096,26194
+
 ---
 
 # PMS7003 with Arduino MEGA2560

@@ -7,6 +7,8 @@ path: /notes/karishmagvanwari/04-16-2022/gsoc-22-proposal-refine-user-interfaces
 nid: 30436
 uid: 779523
 
+cids: 30042
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/853/original/gsoc.png)

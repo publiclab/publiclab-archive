@@ -7,6 +7,8 @@ path: /notes/liz/02-28-2018/convening-diversity-and-inclusion-initiatives-across
 nid: 15840
 uid: 7
 
+cids: 18675,26931,26952
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/766/original/Screen_Shot_2018-02-28_at_5.56.08_PM.png)

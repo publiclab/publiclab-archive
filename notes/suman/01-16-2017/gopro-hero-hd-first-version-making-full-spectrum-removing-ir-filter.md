@@ -7,6 +7,8 @@ path: /notes/suman/01-16-2017/gopro-hero-hd-first-version-making-full-spectrum-r
 nid: 13853
 uid: 497769
 
+cids: 16096,16097,16098,16126,22404,22406,22407
+
 ---
 
 # GoPro Hero HD first version- Making full spectrum( Removing IR filter)

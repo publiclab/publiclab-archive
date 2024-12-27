@@ -7,6 +7,8 @@ path: /notes/JSummers/12-29-2018/programming-texas-instruments-microcontrollers-
 nid: 18023
 uid: 304279
 
+cids: 21602,21603,30766
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/539/original/loadingCode-25.jpg)

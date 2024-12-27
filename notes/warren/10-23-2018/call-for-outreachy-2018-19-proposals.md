@@ -7,6 +7,8 @@ path: /notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals.md
 nid: 17359
 uid: 1
 
+cids: 20952,20964,20967,21059,21060,21061,21093,21095,21097,21130,21131,21312,21315
+
 ---
 
 # Call for Outreachy 2018-19 proposals!

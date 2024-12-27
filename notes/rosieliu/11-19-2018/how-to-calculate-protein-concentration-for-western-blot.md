@@ -7,6 +7,8 @@ path: /notes/rosieliu/11-19-2018/how-to-calculate-protein-concentration-for-west
 nid: 17709
 uid: 535191
 
+cids: 21319
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/740/original/Protocols_WB_01.png)

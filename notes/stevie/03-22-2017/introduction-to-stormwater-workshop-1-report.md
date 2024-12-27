@@ -7,6 +7,8 @@ path: /notes/stevie/03-22-2017/introduction-to-stormwater-workshop-1-report.md
 nid: 14049
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/916/original/20170304_132500.jpg)

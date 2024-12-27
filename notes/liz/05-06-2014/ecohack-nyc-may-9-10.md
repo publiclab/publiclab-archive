@@ -7,6 +7,8 @@ path: /notes/liz/05-06-2014/ecohack-nyc-may-9-10.md
 nid: 10430
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/075/original/Screen_Shot_2014-05-06_at_3.09.39_PM.png)

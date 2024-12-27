@@ -7,6 +7,8 @@ path: /notes/ChristianWagley/12-22-2017/sedimentation-in-the-fl-panhandle.md
 nid: 15424
 uid: 521037
 
+cids: 18089
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/018/original/Indian_Bayou_sediment_pollution.jpg)

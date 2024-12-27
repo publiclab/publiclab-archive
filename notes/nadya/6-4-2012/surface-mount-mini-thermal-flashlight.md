@@ -7,6 +7,8 @@ path: /notes/nadya/6-4-2012/surface-mount-mini-thermal-flashlight.md
 nid: 2339
 uid: 704
 
+cids: 835,838,839,842,847,888
+
 ---
 
 ![](https://publiclab.org/sites/default/files/thermal-traces.png)

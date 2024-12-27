@@ -7,6 +7,8 @@ path: /notes/donblair/06-01-2013/ndvi-bee-movie.md
 nid: 8006
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/448/original/NDVI.png)

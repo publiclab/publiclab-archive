@@ -7,6 +7,8 @@ path: /notes/mollydb/09-30-2017/does-leadership-require-expertise.md
 nid: 14976
 uid: 503960
 
+cids: 17488
+
 ---
 
 # Does leadership require expertise?

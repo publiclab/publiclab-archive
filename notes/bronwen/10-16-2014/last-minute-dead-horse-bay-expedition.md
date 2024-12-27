@@ -7,6 +7,8 @@ path: /notes/bronwen/10-16-2014/last-minute-dead-horse-bay-expedition.md
 nid: 11269
 uid: 237313
 
+cids: 10561,10564,10577
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/450/original/kraken.jpg)

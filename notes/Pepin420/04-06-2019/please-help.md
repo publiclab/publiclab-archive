@@ -7,6 +7,8 @@ path: /notes/Pepin420/04-06-2019/please-help.md
 nid: 18971
 uid: 582812
 
+cids: 23742,23754,23775
+
 ---
 
 # please help!

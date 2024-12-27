@@ -7,6 +7,8 @@ path: /notes/warren/09-08-2013/infragram-webcam-test-raw-images.md
 nid: 9302
 uid: 1
 
+cids: 6770,6771
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/424/original/IMG_0251.JPG)

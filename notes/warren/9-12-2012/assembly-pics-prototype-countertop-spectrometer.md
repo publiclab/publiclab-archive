@@ -7,6 +7,8 @@ path: /notes/warren/9-12-2012/assembly-pics-prototype-countertop-spectrometer.md
 nid: 3760
 uid: 1
 
+cids: 7303,7330,7350
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0632.JPG)

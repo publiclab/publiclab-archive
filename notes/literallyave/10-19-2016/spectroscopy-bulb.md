@@ -7,6 +7,8 @@ path: /notes/literallyave/10-19-2016/spectroscopy-bulb.md
 nid: 13587
 uid: 494872
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/448/original/IMG_0645.JPG)

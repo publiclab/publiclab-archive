@@ -7,6 +7,8 @@ path: /notes/shannon/6-17-2011/additional-need-aerial-monitoring-gulf.md
 nid: 346
 uid: 9
 
+cids: 270
+
 ---
 
 # additional need for aerial monitoring in the Gulf

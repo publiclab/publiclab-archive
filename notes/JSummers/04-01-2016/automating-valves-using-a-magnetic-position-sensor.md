@@ -7,6 +7,8 @@ path: /notes/JSummers/04-01-2016/automating-valves-using-a-magnetic-position-sen
 nid: 12903
 uid: 304279
 
+cids: 14096,14109
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/267/original/valve3.jpg)

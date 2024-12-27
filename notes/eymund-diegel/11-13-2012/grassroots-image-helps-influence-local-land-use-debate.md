@@ -7,6 +7,8 @@ path: /notes/eymund-diegel/11-13-2012/grassroots-image-helps-influence-local-lan
 nid: 4899
 uid: 1016
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/11_2012 7 July_suspected_Marylander Burial Ground at 8th St and 3rd Avenue_a visible pattern of cracks in concrete may give clues to mass grave trenches facing the rising sun_IMG_6490 w notes.jpg)

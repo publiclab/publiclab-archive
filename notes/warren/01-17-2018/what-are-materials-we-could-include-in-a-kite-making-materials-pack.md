@@ -7,6 +7,8 @@ path: /notes/warren/01-17-2018/what-are-materials-we-could-include-in-a-kite-mak
 nid: 15541
 uid: 1
 
+cids: 18197,22913,22942,22952,23072
+
 ---
 
 # What are materials we could include in a Kite Making Materials Pack?

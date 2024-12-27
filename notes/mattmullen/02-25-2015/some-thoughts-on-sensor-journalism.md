@@ -7,6 +7,8 @@ path: /notes/mattmullen/02-25-2015/some-thoughts-on-sensor-journalism.md
 nid: 11637
 uid: 434175
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/078/original/Screen_Shot_2015-02-23_at_12.36.17_AM.png)

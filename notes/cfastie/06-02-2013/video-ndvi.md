@@ -7,6 +7,8 @@ path: /notes/cfastie/06-02-2013/video-ndvi.md
 nid: 8016
 uid: 554
 
+cids: 4918,4921
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/453/original/3infframes.jpg)

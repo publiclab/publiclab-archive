@@ -7,6 +7,8 @@ path: /notes/cfastie/07-01-2017/mini-pearl-jam.md
 nid: 14598
 uid: 554
 
+cids: 17005,17037
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/955/original/mini_20170630-9785.JPG)

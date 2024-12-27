@@ -7,6 +7,8 @@ path: /notes/cfastie/12-09-2017/will-an-arduino-measure-water-depth.md
 nid: 15342
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/865/original/springhouse_20171206-2045.JPG)

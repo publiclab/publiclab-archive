@@ -7,6 +7,8 @@ path: /notes/TheChessGym/02-22-2022/microplastics-intrusion-to-the-human-body.md
 nid: 30072
 uid: 788868
 
+cids: 31187
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/419/original/bodyplas.jpg)

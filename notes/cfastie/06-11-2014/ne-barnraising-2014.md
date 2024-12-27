@@ -7,6 +7,8 @@ path: /notes/cfastie/06-11-2014/ne-barnraising-2014.md
 nid: 10551
 uid: 554
 
+cids: 9190
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/660/original/JonesGroup8Gifc.gif)

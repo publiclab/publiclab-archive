@@ -7,6 +7,8 @@ path: /notes/cfastie/12-21-2014/holiday-beverage-whodunit.md
 nid: 11489
 uid: 554
 
+cids: 10983,10986,10988,10991,11021,11022
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/507/original/IRbevWrat87-560-21A.jpg)

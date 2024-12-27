@@ -7,6 +7,8 @@ path: /notes/MaggPi/08-14-2018/computer-vision-observations-of-elodea-plant-cell
 nid: 16922
 uid: 501996
 
+cids: 20412,20413,20423,20424
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/191/original/elodea_post_shot.JPG)

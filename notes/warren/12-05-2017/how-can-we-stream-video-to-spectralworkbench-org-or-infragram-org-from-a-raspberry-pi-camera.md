@@ -7,6 +7,8 @@ path: /notes/warren/12-05-2017/how-can-we-stream-video-to-spectralworkbench-org-
 nid: 15301
 uid: 1
 
+cids: 17897,22806
+
 ---
 
 # How can we stream video to SpectralWorkbench.org or Infragram.org from a Raspberry Pi camera?

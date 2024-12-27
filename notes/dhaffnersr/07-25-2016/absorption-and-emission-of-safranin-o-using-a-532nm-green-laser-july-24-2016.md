@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/07-25-2016/absorption-and-emission-of-safranin-o-using-a
 nid: 13308
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/215/original/beer_lambert_law_1.png)

@@ -7,6 +7,8 @@ path: /notes/kgradow1/11-04-2017/prototype-build-for-barnraising-2017.md
 nid: 15151
 uid: 297929
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/186/original/this_is_a_microscope.jpg)

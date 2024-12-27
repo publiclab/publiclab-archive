@@ -7,6 +7,8 @@ path: /notes/shubhangi_student_eee20/04-14-2022/outreachy-proposal-design-a-new-
 nid: 30376
 uid: 793820
 
+cids: 30000,30008,30012,30060,30063,30083,30084,30121
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/748/original/INFRAGRAM%283%29.png)

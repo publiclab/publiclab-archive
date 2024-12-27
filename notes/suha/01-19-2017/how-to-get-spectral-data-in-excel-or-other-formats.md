@@ -7,6 +7,8 @@ path: /notes/suha/01-19-2017/how-to-get-spectral-data-in-excel-or-other-formats.
 nid: 13866
 uid: 490153
 
+cids: 16443,16444,16446,22405
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/325/original/FlourescentLamp.png)

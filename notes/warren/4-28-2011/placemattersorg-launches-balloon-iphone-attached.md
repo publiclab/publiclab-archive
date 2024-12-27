@@ -7,6 +7,8 @@ path: /notes/warren/4-28-2011/placemattersorg-launches-balloon-iphone-attached.m
 nid: 203
 uid: 1
 
+cids: 
+
 ---
 
 # Placematters.org launches balloon with iPhone attached

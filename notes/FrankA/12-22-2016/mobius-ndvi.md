@@ -7,6 +7,8 @@ path: /notes/FrankA/12-22-2016/mobius-ndvi.md
 nid: 13803
 uid: 469049
 
+cids: 16071,16357,16361
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/125/original/Screen_Shot_2016-12-22_at_3.23.02_PM.png)

@@ -7,6 +7,8 @@ path: /notes/warren/07-05-2013/saugus-landfill-overflight-photos-with-infragram.
 nid: 8704
 uid: 1
 
+cids: 6322
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/653/original/ndvi_IMG_0403b.JPG)

@@ -7,6 +7,8 @@ path: /notes/liz/08-02-2015/hunter-s-point-south.md
 nid: 12115
 uid: 7
 
+cids: 12310,12311,12315,12316
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/998/original/IMG_5744.JPG)

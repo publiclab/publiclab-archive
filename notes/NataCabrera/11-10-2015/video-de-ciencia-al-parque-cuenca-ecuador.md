@@ -7,6 +7,8 @@ path: /notes/NataCabrera/11-10-2015/video-de-ciencia-al-parque-cuenca-ecuador.md
 nid: 12394
 uid: 457248
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/639/original/Captura_de_pantalla_2015-11-10_a_la%28s%29_11.32.31.png)

@@ -7,6 +7,8 @@ path: /notes/hendrik_hagala/10-13-2020/infragram-for-hydroponics.md
 nid: 24745
 uid: 726020
 
+cids: 27466,27477,27479
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/130/original/WolksGarden.JPG)

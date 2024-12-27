@@ -7,6 +7,8 @@ path: /notes/klie/06-22-2017/public-lab-nonprofit-job-posting-administrative-coo
 nid: 14573
 uid: 441262
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/855/original/plots-logo-transparent.jpg)

@@ -7,6 +7,8 @@ path: /notes/awelch18/10-04-2016/mapknitter-map-of-uncc-renovations.md
 nid: 13519
 uid: 493086
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/257/original/P1100631.JPG)

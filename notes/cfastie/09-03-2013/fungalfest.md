@@ -7,6 +7,8 @@ path: /notes/cfastie/09-03-2013/fungalfest.md
 nid: 9229
 uid: 554
 
+cids: 6753,6754
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/382/original/leaffestest-216-41.jpg)

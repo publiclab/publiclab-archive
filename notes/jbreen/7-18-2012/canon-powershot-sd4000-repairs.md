@@ -7,6 +7,8 @@ path: /notes/jbreen/7-18-2012/canon-powershot-sd4000-repairs.md
 nid: 2861
 uid: 326
 
+cids: 1034,1035,5626
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0461.JPG)

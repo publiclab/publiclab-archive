@@ -7,6 +7,8 @@ path: /notes/mathew/02-13-2014/great-infragram-conversion-video-canon-elph-130is
 nid: 10040
 uid: 4
 
+cids: 8286,8424
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/921/original/Screen_shot_2014-02-13_at_2.18.57_PM.png)

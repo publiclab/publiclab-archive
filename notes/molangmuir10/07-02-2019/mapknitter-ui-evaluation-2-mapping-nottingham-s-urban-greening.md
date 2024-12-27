@@ -7,6 +7,8 @@ path: /notes/molangmuir10/07-02-2019/mapknitter-ui-evaluation-2-mapping-nottingh
 nid: 19955
 uid: 589023
 
+cids: 24978,24996,25020,25195,25438
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/428/original/G0102321.jpeg)

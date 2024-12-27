@@ -7,6 +7,8 @@ path: /notes/Zengirl2/08-24-2018/northeast-barnraising-2018-how-to-make-disaster
 nid: 16997
 uid: 423961
 
+cids: 20491,20501,20514,20612,20614,20625,20626,20662
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/341/original/NEWEmilio.jpg)

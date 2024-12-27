@@ -7,6 +7,8 @@ path: /notes/warren/4-29-2011/draft-revised-spectrometer-guide-alex-mccarthy.md
 nid: 205
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/554/original/Screen_Shot_2013-09-13_at_4.54.54_PM.png)

@@ -7,6 +7,8 @@ path: /notes/divyabaid16/07-03-2019/mapknitter-multiple-image-export.md
 nid: 19969
 uid: 578652
 
+cids: 24964,24977,25123,25166
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/462/original/Selection_194.png)

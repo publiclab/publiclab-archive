@@ -7,6 +7,8 @@ path: /notes/ethanbass/10-23-2015/oil-testing-kit-assembly-initial-calibration.m
 nid: 12331
 uid: 46902
 
+cids: 12783,12791,12810,12837,12863
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/121/original/spec3.jpg)

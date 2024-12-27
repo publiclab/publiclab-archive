@@ -7,6 +7,8 @@ path: /notes/aplank/05-29-2017/montreal-s-rosemount-district-in-1947.md
 nid: 14237
 uid: 507757
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/569/original/P13-40_-_Parc_Beaubien_to_St_Brendans_-_VM97-3_7P13-40.jpg)

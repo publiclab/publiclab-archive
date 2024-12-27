@@ -7,6 +7,8 @@ path: /notes/ad/11-28-2011/thermal-camera-arduino-mlx90614-ir-thermometer-1.md
 nid: 592
 uid: 373
 
+cids: 1143
+
 ---
 
 # Thermal Camera: Arduino + MLX90614 IR Thermometer

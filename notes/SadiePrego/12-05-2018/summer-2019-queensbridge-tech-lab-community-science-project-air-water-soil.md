@@ -7,6 +7,8 @@ path: /notes/SadiePrego/12-05-2018/summer-2019-queensbridge-tech-lab-community-s
 nid: 17815
 uid: 562839
 
+cids: 21451,21452,21453,21454,21457
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/133/original/queensbridgegogoelmaps.jpg)

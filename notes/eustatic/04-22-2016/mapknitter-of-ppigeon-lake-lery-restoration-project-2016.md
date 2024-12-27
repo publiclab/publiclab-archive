@@ -7,6 +7,8 @@ path: /04-22-2016/mapknitter-of-ppigeon-lake-lery-restoration-project-2016.md
 nid: 13015
 uid: 379
 
+cids: 14403
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/733/original/image.png)

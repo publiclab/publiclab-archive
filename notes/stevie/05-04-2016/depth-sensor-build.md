@@ -7,6 +7,8 @@ path: /notes/stevie/05-04-2016/depth-sensor-build.md
 nid: 13073
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/825/original/Screen_Shot_2016-04-27_at_12.34.51_PM.png)

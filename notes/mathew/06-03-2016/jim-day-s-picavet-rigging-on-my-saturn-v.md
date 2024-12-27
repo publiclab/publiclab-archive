@@ -7,6 +7,8 @@ path: /notes/mathew/06-03-2016/jim-day-s-picavet-rigging-on-my-saturn-v.md
 nid: 13164
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/486/original/P_20160312_084727.jpg)

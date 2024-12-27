@@ -7,6 +7,8 @@ path: /notes/stevie/04-04-2016/event-in-eau-claire-wi.md
 nid: 12919
 uid: 422561
 
+cids: 14155
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/351/original/Screen_Shot_2016-04-04_at_3.09.05_PM.png)

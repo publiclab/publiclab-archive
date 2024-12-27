@@ -7,6 +7,8 @@ path: /11-11-2014/water-hackathon-series-1-brainstorm-session.md
 nid: 11334
 uid: 379
 
+cids: 10788,10791
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/808/original/15591577486_06e24b0155_z.jpg)

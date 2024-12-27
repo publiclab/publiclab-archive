@@ -7,6 +7,8 @@ path: /notes/RonHuber/12-06-2014/gac-chemical-submits-its-cleanup-plan-for-its-s
 nid: 11441
 uid: 437
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/296/original/lighthawk_071714_gac_acidplant_tank_plumes.jpg)

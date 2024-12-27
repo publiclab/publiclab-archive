@@ -7,6 +7,8 @@ path: /notes/nshapiro/09-04-2017/smartphone-app-for-residential-testing-of-forma
 nid: 14824
 uid: 380298
 
+cids: 17304,17308,17310,17312,17474
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/552/original/IMG_0273.PNG)

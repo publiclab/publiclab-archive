@@ -7,6 +7,8 @@ path: /notes/warren/2-6-2012/infrared-photography-sketches.md
 nid: 760
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/infrared-mod.jpg)

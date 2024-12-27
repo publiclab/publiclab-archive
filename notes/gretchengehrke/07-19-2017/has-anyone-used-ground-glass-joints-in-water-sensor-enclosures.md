@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-19-2017/has-anyone-used-ground-glass-joints-in-wa
 nid: 14668
 uid: 430549
 
+cids: 17100,22543
+
 ---
 
 # Has anyone used ground glass joints in water sensor enclosures?

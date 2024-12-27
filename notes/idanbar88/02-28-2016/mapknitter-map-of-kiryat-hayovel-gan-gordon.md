@@ -7,6 +7,8 @@ path: /notes/idanbar88/02-28-2016/mapknitter-map-of-kiryat-hayovel-gan-gordon.md
 nid: 12758
 uid: 467056
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/608/original/IMG_1802.JPG)

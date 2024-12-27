@@ -7,6 +7,8 @@ path: /notes/warren/09-12-2017/how-do-i-identify-an-oil-sheen-or-spill-or-slick-
 nid: 14879
 uid: 1
 
+cids: 22614
+
 ---
 
 # How do I identify an oil sheen or spill or slick in aerial photography?

@@ -7,6 +7,8 @@ path: /notes/johnwells/2-26-2013/clockwork-picavet.md
 nid: 6132
 uid: 372
 
+cids: 3577,3581,3584,3600
+
 ---
 
 # Clockwork Picavet

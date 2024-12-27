@@ -7,6 +7,8 @@ path: /notes/MaggPi/07-22-2018/can-more-info-on-colormaps-be-added-to-image-sequ
 nid: 16763
 uid: 501996
 
+cids: 20194,20195,21770
+
 ---
 
 # Can more info on  colormaps be added to image-sequencer?

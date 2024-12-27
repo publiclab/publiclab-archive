@@ -7,6 +7,8 @@ path: /notes/rafaelsol/05-12-2018/toys-creating-and-painting.md
 nid: 16333
 uid: 534191
 
+cids: 19632
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/915/original/logo-Ludosia2.png)

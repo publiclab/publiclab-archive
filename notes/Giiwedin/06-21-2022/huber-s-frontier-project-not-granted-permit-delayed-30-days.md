@@ -7,6 +7,8 @@ path: /notes/Giiwedin/06-21-2022/huber-s-frontier-project-not-granted-permit-del
 nid: 31121
 uid: 799642
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/786/original/8DF788F1-0834-4AFF-8B92-FDBD7B5E0113.jpeg)

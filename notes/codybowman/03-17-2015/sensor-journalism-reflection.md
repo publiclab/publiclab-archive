@@ -7,6 +7,8 @@ path: /notes/codybowman/03-17-2015/sensor-journalism-reflection.md
 nid: 11683
 uid: 434172
 
+cids: 
+
 ---
 
 # Sensor Journalism Reflection

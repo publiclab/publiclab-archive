@@ -7,6 +7,8 @@ path: /notes/cfastie/12-25-2012/tis-season.md
 nid: 5345
 uid: 554
 
+cids: 2820,2821
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Xmas-SWc1500.jpg)

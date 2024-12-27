@@ -7,6 +7,8 @@ path: /notes/donblair/09-30-2014/coqui-bbv1-0-testing-conductivity-of-a-solution
 nid: 11213
 uid: 43651
 
+cids: 10902
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/218/original/coquiConduct.png)

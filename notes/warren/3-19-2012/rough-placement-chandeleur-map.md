@@ -7,6 +7,8 @@ path: /notes/warren/3-19-2012/rough-placement-chandeleur-map.md
 nid: 1489
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/rough-placement-of-chandeleur-map.png)

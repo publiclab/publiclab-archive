@@ -7,6 +7,8 @@ path: /notes/shannon/8-5-2012/prep-canisters-photo-strips.md
 nid: 3140
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7447204808_df5804b033.jpg)

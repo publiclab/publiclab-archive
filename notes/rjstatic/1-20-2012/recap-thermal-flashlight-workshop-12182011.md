@@ -7,6 +7,8 @@ path: /1-20-2012/recap-thermal-flashlight-workshop-12182011.md
 nid: 717
 uid: 174
 
+cids: 419
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2011-12-18 at 8.33.54 PM.png)

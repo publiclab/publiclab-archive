@@ -7,6 +7,8 @@ path: /notes/warren/08-30-2013/public-lab-community-newsletter-august-30-2013.md
 nid: 9079
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/347/original/img_1990_r_20.jpg)

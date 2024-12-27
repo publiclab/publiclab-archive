@@ -7,6 +7,8 @@ path: /notes/warren/8-17-2011/video-spectrometer-setup-dimmer-and-sample-platfor
 nid: 440
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6047918956_9b54a14a85_b.jpg)

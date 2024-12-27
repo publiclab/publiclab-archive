@@ -7,6 +7,8 @@ path: /notes/rockets/03-18-2020/knowflow-nb-iot-version.md
 nid: 23165
 uid: 492583
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/597/original/021322h4zacf55ba58wv8w.png)

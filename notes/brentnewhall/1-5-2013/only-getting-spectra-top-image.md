@@ -7,6 +7,8 @@ path: /notes/brentnewhall/1-5-2013/only-getting-spectra-top-image.md
 nid: 5425
 uid: 45471
 
+cids: 2938,2946
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Photo on 1-5-13 at 9.31 AM.jpg)

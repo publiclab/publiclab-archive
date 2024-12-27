@@ -7,6 +7,8 @@ path: /notes/silentsairam/05-09-2019/mapknitter-map-of-garbage-hot-spots.md
 nid: 19279
 uid: 553044
 
+cids: 24112
+
 ---
 
 # MapKnitter map of Garbage Hot spots 

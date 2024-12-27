@@ -7,6 +7,8 @@ path: /notes/eymund-diegel/11-9-2012/raising-dead-grassroots-mapping-helps-look-
 nid: 4835
 uid: 1016
 
+cids: 2865,12871
+
 ---
 
 ![](https://publiclab.org/sites/default/files/1_2012 7 July cracked concrete aerial and David Tennant with hamlet skull.jpg)

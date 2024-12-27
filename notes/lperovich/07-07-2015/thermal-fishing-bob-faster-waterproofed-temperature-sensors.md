@@ -7,6 +7,8 @@ path: /notes/lperovich/07-07-2015/thermal-fishing-bob-faster-waterproofed-temper
 nid: 12037
 uid: 443410
 
+cids: 12115
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/560/original/IMAG3048.jpg)

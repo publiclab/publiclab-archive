@@ -7,6 +7,8 @@ path: /notes/amysoyka/06-23-2014/important-report-on-climate-change-2014.md
 nid: 10606
 uid: 422627
 
+cids: 
+
 ---
 
 # Important Report on Climate Change 2014

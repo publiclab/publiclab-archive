@@ -7,6 +7,8 @@ path: /notes/Vendy/02-08-2018/what-are-the-possible-sources-to-get-more-spectrom
 nid: 15705
 uid: 524682
 
+cids: 22915
+
 ---
 
 # What are the possible sources to get more spectrometer information

@@ -7,6 +7,8 @@ path: /notes/5-3-2012/granite-falls-wa-ca-1941.md
 nid: 2098
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/4CGY02042_063_medium_1.jpg)

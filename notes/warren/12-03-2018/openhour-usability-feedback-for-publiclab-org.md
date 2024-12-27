@@ -7,6 +7,8 @@ path: /notes/warren/12-03-2018/openhour-usability-feedback-for-publiclab-org.md
 nid: 17792
 uid: 1
 
+cids: 21425,21426,21720,21721
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/034/original/Dtgk1ooXoAA2le6.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/08-01-2013/improvements-in-infragram-ndvi-with-test-cameras.
 nid: 8950
 uid: 1
 
+cids: 6447,6450,6453,6466,6467,6472,6475,6476,6477,6489
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/990/original/ndvi_normal-1.png)

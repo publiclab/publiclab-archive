@@ -7,6 +7,8 @@ path: /notes/bhamster/03-31-2022/is-there-a-federal-program-in-the-us-for-reclai
 nid: 30242
 uid: 664477
 
+cids: 29921,30871
+
 ---
 
 # Is there a federal program in the US for reclaiming abandoned oil wells?

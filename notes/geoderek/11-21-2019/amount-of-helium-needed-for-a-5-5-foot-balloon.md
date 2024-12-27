@@ -7,6 +7,8 @@ path: /notes/geoderek/11-21-2019/amount-of-helium-needed-for-a-5-5-foot-balloon.
 nid: 21547
 uid: 637361
 
+cids: 25902,25903
+
 ---
 
 # Amount of helium needed for a 5.5 foot balloon

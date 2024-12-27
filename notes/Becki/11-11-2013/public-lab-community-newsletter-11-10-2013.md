@@ -7,6 +7,8 @@ path: /notes/Becki/11-11-2013/public-lab-community-newsletter-11-10-2013.md
 nid: 9760
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/192/original/Boots-in-circle-with-hatch-large.jpg)

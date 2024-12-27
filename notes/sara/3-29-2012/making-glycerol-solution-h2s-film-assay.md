@@ -7,6 +7,8 @@ path: /notes/sara/3-29-2012/making-glycerol-solution-h2s-film-assay.md
 nid: 1579
 uid: 8
 
+cids: 
+
 ---
 
 # Making Glycerol Solution for H2S film Assay

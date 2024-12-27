@@ -7,6 +7,8 @@ path: /notes/greenbeans/02-19-2021/testing-water-for-pollution.md
 nid: 25739
 uid: 739156
 
+cids: 28231,28394
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/750/original/E270B506-9F1A-4886-B4BA-31AF2CC59A28.jpeg)

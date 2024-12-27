@@ -7,6 +7,8 @@ path: /notes/warren/07-12-2013/new-publiclab-org-website-launched.md
 nid: 8855
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/761/original/Screen_Shot_2013-07-11_at_8.55.38_PM.png)

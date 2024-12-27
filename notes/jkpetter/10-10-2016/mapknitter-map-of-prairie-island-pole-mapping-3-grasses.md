@@ -7,6 +7,8 @@ path: /notes/jkpetter/10-10-2016/mapknitter-map-of-prairie-island-pole-mapping-3
 nid: 13543
 uid: 489340
 
+cids: 15602
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/380/original/IMG_0050.JPG)

@@ -7,6 +7,8 @@ path: /notes/gilbert/10-30-2017/can-you-share-details-on-any-recent-changes-in-e
 nid: 15129
 uid: 508551
 
+cids: 
+
 ---
 
 # Can you share details on any recent changes in environmental regulations or court rulings, particularly as relates to water quality, in the State where you reside?

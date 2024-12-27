@@ -7,6 +7,8 @@ path: /notes/Shannon/02-16-2017/public-lab-nonprofit-job-posting-open-hardware-c
 nid: 13934
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/154/original/plots-logo-transparent.jpg)

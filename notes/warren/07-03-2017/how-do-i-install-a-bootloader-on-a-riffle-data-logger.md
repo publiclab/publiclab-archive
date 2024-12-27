@@ -7,6 +7,8 @@ path: /notes/warren/07-03-2017/how-do-i-install-a-bootloader-on-a-riffle-data-lo
 nid: 14613
 uid: 1
 
+cids: 16960,22518
+
 ---
 
 # How do I install a bootloader on a Riffle data logger?

@@ -7,6 +7,8 @@ path: /notes/biomeind15/04-19-2022/outreachy-proposal-design-a-new-full-screen-u
 nid: 30489
 uid: 795837
 
+cids: 30076,30092
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/136/original/Biodoumoye_Meindinyo.png)

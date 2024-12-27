@@ -7,6 +7,8 @@ path: /06-25-2014/team-orca-resurrected-gulf-monitoring-consortium-test-for-bp-t
 nid: 10617
 uid: 379
 
+cids: 9274,9275,9299,9300,9314
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/987/original/14506149522_4f48e402f1_1_.jpg)

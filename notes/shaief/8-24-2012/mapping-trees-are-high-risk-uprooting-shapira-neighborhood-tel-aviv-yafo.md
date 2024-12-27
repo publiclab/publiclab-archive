@@ -7,6 +7,8 @@ path: /notes/shaief/8-24-2012/mapping-trees-are-high-risk-uprooting-shapira-neig
 nid: 3451
 uid: 151
 
+cids: 1193,1196,1205,1220
+
 ---
 
 # Mapping trees that are in high risk of uprooting at Shapira Neighborhood, Tel Aviv-Yafo

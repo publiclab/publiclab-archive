@@ -7,6 +7,8 @@ path: /notes/shenzj1994/02-04-2018/how-do-i-use-spectralworkbench-js-to-auto-cal
 nid: 15675
 uid: 524178
 
+cids: 
+
 ---
 
 # How do I use SpectralWorkbench.js to auto-calibrate?

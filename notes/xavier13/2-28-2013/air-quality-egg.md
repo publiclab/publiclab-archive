@@ -7,6 +7,8 @@ path: /notes/xavier13/2-28-2013/air-quality-egg.md
 nid: 6150
 uid: 50449
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Egg.JPG)

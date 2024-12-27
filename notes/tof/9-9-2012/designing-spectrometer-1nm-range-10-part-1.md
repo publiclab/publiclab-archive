@@ -7,6 +7,8 @@ path: /notes/tof/9-9-2012/designing-spectrometer-1nm-range-10-part-1.md
 nid: 3702
 uid: 42340
 
+cids: 1293,1294,1295,1296,1302,1316,1629
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Handdrawing.jpg)

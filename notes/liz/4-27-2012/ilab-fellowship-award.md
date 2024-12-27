@@ -7,6 +7,8 @@ path: /notes/liz/4-27-2012/ilab-fellowship-award.md
 nid: 1819
 uid: 7
 
+cids: 
+
 ---
 
 # iLAB Fellowship Award

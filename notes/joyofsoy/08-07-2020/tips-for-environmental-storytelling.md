@@ -7,6 +7,8 @@ path: /notes/joyofsoy/08-07-2020/tips-for-environmental-storytelling.md
 nid: 24285
 uid: 540844
 
+cids: 27224,27256,27257
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/427/original/power-station-smoke-character-man-chimneys-pollution-a-person-to-think-scenery.jpg)

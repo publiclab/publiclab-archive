@@ -7,6 +7,8 @@ path: /notes/jdetka/06-02-2022/white-balance-settings-pi-noir-camera-with-blue-f
 nid: 31008
 uid: 801421
 
+cids: 30246,30868,30869,30870
+
 ---
 
 # White balance settings - pi NoIR camera with blue filter NDVI

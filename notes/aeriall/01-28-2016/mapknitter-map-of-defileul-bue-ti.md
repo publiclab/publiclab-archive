@@ -7,6 +7,8 @@ path: /notes/aeriall/01-28-2016/mapknitter-map-of-defileul-bue-ti.md
 nid: 12628
 uid: 461834
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/901/original/Aeriall-CompanyLogo_for_Yoast.png)

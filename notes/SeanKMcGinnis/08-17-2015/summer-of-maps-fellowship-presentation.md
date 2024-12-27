@@ -7,6 +7,8 @@ path: /notes/SeanKMcGinnis/08-17-2015/summer-of-maps-fellowship-presentation.md
 nid: 12152
 uid: 552
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/165/original/SummerOfMaps.png)

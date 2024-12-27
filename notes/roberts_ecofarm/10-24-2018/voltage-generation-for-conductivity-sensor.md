@@ -7,6 +7,8 @@ path: /notes/roberts_ecofarm/10-24-2018/voltage-generation-for-conductivity-sens
 nid: 17366
 uid: 556121
 
+cids: 20978,20979
+
 ---
 
 # Voltage generation for conductivity sensor

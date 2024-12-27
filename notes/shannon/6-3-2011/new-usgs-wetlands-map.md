@@ -7,6 +7,8 @@ path: /notes/shannon/6-3-2011/new-usgs-wetlands-map.md
 nid: 324
 uid: 9
 
+cids: 342
+
 ---
 
 # new USGS wetlands map

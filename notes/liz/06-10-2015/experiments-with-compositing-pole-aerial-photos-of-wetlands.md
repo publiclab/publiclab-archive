@@ -7,6 +7,8 @@ path: /notes/liz/06-10-2015/experiments-with-compositing-pole-aerial-photos-of-w
 nid: 11967
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/296/original/southshore-set-3.jpg)

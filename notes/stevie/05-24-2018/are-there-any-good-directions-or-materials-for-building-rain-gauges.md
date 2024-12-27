@@ -7,6 +7,8 @@ path: /notes/stevie/05-24-2018/are-there-any-good-directions-or-materials-for-bu
 nid: 16386
 uid: 422561
 
+cids: 23095,23110,23111
+
 ---
 
 # Are there any good directions or materials for building rain gauges? 

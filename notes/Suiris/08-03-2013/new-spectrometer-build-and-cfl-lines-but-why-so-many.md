@@ -7,6 +7,8 @@ path: /notes/Suiris/08-03-2013/new-spectrometer-build-and-cfl-lines-but-why-so-m
 nid: 8961
 uid: 170375
 
+cids: 6471,6474,6485,6487,6490,6491,6501,6530,6537,6627,6630,6645,6661
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/011/original/IMG_0003.JPG)

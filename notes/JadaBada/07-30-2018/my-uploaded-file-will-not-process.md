@@ -7,6 +7,8 @@ path: /notes/JadaBada/07-30-2018/my-uploaded-file-will-not-process.md
 nid: 16811
 uid: 543272
 
+cids: 20312,23192
+
 ---
 
 # My uploaded file will not process.

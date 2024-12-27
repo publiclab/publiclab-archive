@@ -7,6 +7,8 @@ path: /notes/SeanKMcGinnis/05-16-2013/line-reel-for-balloon-kite-string.md
 nid: 7620
 uid: 552
 
+cids: 4739,4743,4779,4780,4794,6375,6376
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/334/original/IMG_2368.JPG)

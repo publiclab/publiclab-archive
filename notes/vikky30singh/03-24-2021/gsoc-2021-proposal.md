@@ -7,6 +7,8 @@ path: /notes/vikky30singh/03-24-2021/gsoc-2021-proposal.md
 nid: 26020
 uid: 746074
 
+cids: 28441,28449,28476,28500
+
 ---
 
 # GSOC 2021 Proposal.

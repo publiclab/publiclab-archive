@@ -7,6 +7,8 @@ path: /notes/warren/02-21-2017/build-a-juice-bottle-based-rig-to-carry-two-camer
 nid: 13945
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/603/original/7129638595_22d9fbd3c0_k.jpg)

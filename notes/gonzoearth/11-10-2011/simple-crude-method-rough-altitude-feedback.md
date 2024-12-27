@@ -7,6 +7,8 @@ path: /notes/gonzoearth/11-10-2011/simple-crude-method-rough-altitude-feedback.m
 nid: 556
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/photo_1.JPG)

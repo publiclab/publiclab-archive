@@ -7,6 +7,8 @@ path: /notes/Spectrajohn/10-19-2016/incandescent-bulb.md
 nid: 13597
 uid: 494881
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/459/original/image.jpeg)

@@ -7,6 +7,8 @@ path: /notes/MadTinker/09-08-2017/suggestions-for-a-temperature-sensor-for-surfa
 nid: 14863
 uid: 461206
 
+cids: 22589
+
 ---
 
 # Suggestions for a temperature sensor for surface (stone) measurements?

@@ -7,6 +7,8 @@ path: /notes/programmer1200/11-20-2017/spectrometer-3-0-upgrades.md
 nid: 15207
 uid: 509305
 
+cids: 17735,17736,17737,17743,17757,17758,17766
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/459/original/insidespec.jpg)

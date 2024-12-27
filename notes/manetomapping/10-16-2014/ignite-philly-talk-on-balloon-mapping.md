@@ -7,6 +7,8 @@ path: /notes/manetomapping/10-16-2014/ignite-philly-talk-on-balloon-mapping.md
 nid: 11268
 uid: 59273
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/449/original/ignite.PNG)

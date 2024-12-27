@@ -7,6 +7,8 @@ path: /notes/warren/11-1-2011/iphone-4-and-evo-4g-phones-have-back-illuminated-u
 nid: 533
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Sony_Back_Lit_CMOS_Sensor.jpg)

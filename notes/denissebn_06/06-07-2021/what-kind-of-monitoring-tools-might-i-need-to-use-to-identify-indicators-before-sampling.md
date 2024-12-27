@@ -7,6 +7,8 @@ path: /notes/denissebn_06/06-07-2021/what-kind-of-monitoring-tools-might-i-need-
 nid: 26785
 uid: 749988
 
+cids: 
+
 ---
 
 # What kind of monitoring tools might I need to use to identify indicators before sampling with the bucket?

@@ -7,6 +7,8 @@ path: /notes/pataxte/11-14-2018/any-pole-photos-of-community-gardens.md
 nid: 17555
 uid: 559561
 
+cids: 21268,21287,21306,21716,23285,23287
+
 ---
 
 # Any pole photos of community gardens?

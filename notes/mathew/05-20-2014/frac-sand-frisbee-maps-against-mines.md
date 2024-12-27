@@ -7,6 +7,8 @@ path: /notes/mathew/05-20-2014/frac-sand-frisbee-maps-against-mines.md
 nid: 10484
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/309/original/map3.3-1024x890.jpg)

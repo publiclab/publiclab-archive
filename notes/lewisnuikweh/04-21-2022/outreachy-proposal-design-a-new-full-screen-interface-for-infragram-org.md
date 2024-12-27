@@ -7,6 +7,8 @@ path: /notes/lewisnuikweh/04-21-2022/outreachy-proposal-design-a-new-full-screen
 nid: 30547
 uid: 795986
 
+cids: 
+
 ---
 
 # Outreachy proposal: Design a new full-screen interface for Infragram.org

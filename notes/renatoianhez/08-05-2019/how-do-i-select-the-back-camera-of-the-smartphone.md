@@ -7,6 +7,8 @@ path: /notes/renatoianhez/08-05-2019/how-do-i-select-the-back-camera-of-the-smar
 nid: 20415
 uid: 609011
 
+cids: 26875,27412,30068
+
 ---
 
 # How do I select the back camera of the smartphone?

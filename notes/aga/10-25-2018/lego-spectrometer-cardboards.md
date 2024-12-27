@@ -7,6 +7,8 @@ path: /notes/aga/10-25-2018/lego-spectrometer-cardboards.md
 nid: 17389
 uid: 500640
 
+cids: 20976,23262
+
 ---
 
 # Lego Spectrometer cardboard cut out template? 

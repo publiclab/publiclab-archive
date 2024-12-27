@@ -7,6 +7,8 @@ path: /notes/tmclean1/05-17-2018/mapknitter-map-of-fontainebleau-state-park-ball
 nid: 16357
 uid: 534217
 
+cids: 
+
 ---
 
 # MapKnitter map of Fontainebleau State Park Balloon NIR

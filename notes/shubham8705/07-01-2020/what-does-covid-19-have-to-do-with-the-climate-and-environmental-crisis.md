@@ -7,6 +7,8 @@ path: /notes/shubham8705/07-01-2020/what-does-covid-19-have-to-do-with-the-clima
 nid: 24078
 uid: 687735
 
+cids: 27086,27089,27666
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/048/original/Climate_Change___Corona_Virus.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/11-08-2015/converging-on-an-1886-viewpoint.md
 nid: 12378
 uid: 554
 
+cids: 12883,12884
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/540/original/Free651LP100u2k.jpg)

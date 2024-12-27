@@ -7,6 +7,8 @@ path: /notes/mlamadrid/03-17-2016/oil-sheen-testing.md
 nid: 12851
 uid: 45586
 
+cids: 13977
+
 ---
 
 # Oil Sheen Testing

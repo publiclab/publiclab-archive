@@ -7,6 +7,8 @@ path: /notes/chrisG/04-02-2018/mapknitter-map-of-garrett-square-test.md
 nid: 16054
 uid: 529459
 
+cids: 
+
 ---
 
 # MapKnitter map of Garrett Square Test

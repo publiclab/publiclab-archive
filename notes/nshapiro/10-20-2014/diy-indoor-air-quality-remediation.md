@@ -7,6 +7,8 @@ path: /notes/nshapiro/10-20-2014/diy-indoor-air-quality-remediation.md
 nid: 11282
 uid: 380298
 
+cids: 10590,10591,10594,10595,10596,10600,10606,10623,10626,10629,10660,10661,10942
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/560/original/photo_1.JPG)

@@ -7,6 +7,8 @@ path: /notes/warren/04-13-2016/call-for-input-on-upcoming-rich-editor-and-rich-w
 nid: 12969
 uid: 1
 
+cids: 14230,14235,14340,14442,14443,14446,14447,14461,14463
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/522/original/IMG_20160413_163125-2.jpg)

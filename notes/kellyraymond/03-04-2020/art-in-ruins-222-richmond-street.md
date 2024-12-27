@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-04-2020/art-in-ruins-222-richmond-street.md
 nid: 23016
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (222 Richmond Street)

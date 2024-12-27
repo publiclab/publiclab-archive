@@ -7,6 +7,8 @@ path: /notes/stevie/12-04-2019/what-are-air-testing-labs-or-companies-we-can-rec
 nid: 21662
 uid: 422561
 
+cids: 25965,26088,26090
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/861/original/summa.jpg)

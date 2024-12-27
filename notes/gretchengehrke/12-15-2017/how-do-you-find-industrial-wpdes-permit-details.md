@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/12-15-2017/how-do-you-find-industrial-wpdes-permit-d
 nid: 15380
 uid: 430549
 
+cids: 
+
 ---
 
 # How do you find industrial WPDES permit details? 

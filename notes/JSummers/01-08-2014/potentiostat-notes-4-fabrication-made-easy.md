@@ -7,6 +7,8 @@ path: /notes/JSummers/01-08-2014/potentiostat-notes-4-fabrication-made-easy.md
 nid: 9931
 uid: 304279
 
+cids: 8266,8267,8273,8274,8275,8735,8738,8848,8865,13680,13682
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/499/original/OSHParkPCB-3.png)

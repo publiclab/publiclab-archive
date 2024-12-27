@@ -7,6 +7,8 @@ path: /notes/cess/04-04-2021/call-for-proposals-outreachy-summer-2021.md
 nid: 26135
 uid: 525958
 
+cids: 29371
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/144/original/Yellow_and_Blue_Retail_Logo.png)

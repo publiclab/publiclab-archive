@@ -7,6 +7,8 @@ path: /notes/divyabaid16/07-22-2019/updated-evaluation-2-gsoc.md
 nid: 20226
 uid: 578652
 
+cids: 25086,25124,25167,25168,25172
+
 ---
 
 # Updated: Evaluation 2 GSoC

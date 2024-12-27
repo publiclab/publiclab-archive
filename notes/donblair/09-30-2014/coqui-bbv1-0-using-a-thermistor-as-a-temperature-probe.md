@@ -7,6 +7,8 @@ path: /notes/donblair/09-30-2014/coqui-bbv1-0-using-a-thermistor-as-a-temperatur
 nid: 11216
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/221/original/coquiTemp.png)

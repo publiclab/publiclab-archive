@@ -7,6 +7,8 @@ path: /notes/gonzoearth/08-01-2013/super-simple-kap-mount-with-small-tripod-and-
 nid: 8953
 uid: 12
 
+cids: 6449,6461
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/995/original/IMG_0186.jpg)

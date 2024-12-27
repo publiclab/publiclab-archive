@@ -7,6 +7,8 @@ path: /notes/kgradow1/05-08-2020/is-the-purple-air-sensor-an-epa-validated-tool.
 nid: 23575
 uid: 297929
 
+cids: 26858,26984,26987,26988
+
 ---
 
 # Is the Purple Air sensor an EPA-validated tool?

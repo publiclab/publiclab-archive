@@ -7,6 +7,8 @@ path: /notes/shannon/1-31-2012/h2s-film-strip-bag-test.md
 nid: 737
 uid: 9
 
+cids: 
+
 ---
 
 # H2S film strip bag test

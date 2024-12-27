@@ -7,6 +7,8 @@ path: /notes/bronwen/11-21-2015/barnraising-2015-photos-bronwen.md
 nid: 12429
 uid: 237313
 
+cids: 
+
 ---
 
 # Barnraising 2015 Photos Bronwen

@@ -7,6 +7,8 @@ path: /11-03-2020/how-many-pellets-are-actually-at-the-dow-outfall-compared-to-t
 nid: 24913
 uid: 379
 
+cids: 27609,27613,31188
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/476/original/survey_east_after_dow_50514038513_3bc642a5a3_b.jpg)

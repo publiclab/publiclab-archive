@@ -7,6 +7,8 @@ path: /notes/noi5e/02-03-2021/done-75-done-progress-report-outreachy-public-lab-
 nid: 25587
 uid: 726270
 
+cids: 28120,28136,28143,28144,28146
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/589/original/maxresdefault.jpg)

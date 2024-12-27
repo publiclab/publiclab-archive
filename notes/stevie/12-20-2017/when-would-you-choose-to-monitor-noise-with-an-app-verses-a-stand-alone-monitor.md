@@ -7,6 +7,8 @@ path: /notes/stevie/12-20-2017/when-would-you-choose-to-monitor-noise-with-an-ap
 nid: 15405
 uid: 422561
 
+cids: 17995,22820
+
 ---
 
 # When would you choose to monitor noise with an app verses a stand alone monitor? 

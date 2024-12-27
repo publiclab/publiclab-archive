@@ -7,6 +7,8 @@ path: /notes/tlevine/1-10-2013/how-organize-public-lab-chapter.md
 nid: 5531
 uid: 40459
 
+cids: 
+
 ---
 
 # How to organize a public lab chapter

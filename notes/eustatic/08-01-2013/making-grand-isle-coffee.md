@@ -7,6 +7,8 @@ path: /08-01-2013/making-grand-isle-coffee.md
 nid: 8949
 uid: 379
 
+cids: 6439,6441
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/984/original/9262759096_99ea947ba7.jpg)

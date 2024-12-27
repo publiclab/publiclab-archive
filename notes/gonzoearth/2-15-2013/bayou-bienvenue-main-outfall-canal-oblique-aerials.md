@@ -7,6 +7,8 @@ path: /notes/gonzoearth/2-15-2013/bayou-bienvenue-main-outfall-canal-oblique-aer
 nid: 6003
 uid: 12
 
+cids: 3430,3431
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2013-01-17-louisiana-bayou-bienvenue-oblique-main-outfall-canal-east.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/5-31-2012/cern-open-hardware-license-transition-update-11-pe
 nid: 2278
 uid: 1
 
+cids: 
+
 ---
 
 # CERN Open Hardware License transition update: 11 people left

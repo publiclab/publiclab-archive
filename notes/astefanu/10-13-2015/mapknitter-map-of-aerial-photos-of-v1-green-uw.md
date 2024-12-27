@@ -7,6 +7,8 @@ path: /notes/astefanu/10-13-2015/mapknitter-map-of-aerial-photos-of-v1-green-uw.
 nid: 12297
 uid: 453924
 
+cids: 
+
 ---
 
 # MapKnitter map of Aerial Photos of V1 Green, UW

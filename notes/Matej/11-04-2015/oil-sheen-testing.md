@@ -7,6 +7,8 @@ path: /notes/Matej/11-04-2015/oil-sheen-testing.md
 nid: 12363
 uid: 451808
 
+cids: 12842,12850,12852,12853,13036
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/384/original/OSlogo-01.jpg)

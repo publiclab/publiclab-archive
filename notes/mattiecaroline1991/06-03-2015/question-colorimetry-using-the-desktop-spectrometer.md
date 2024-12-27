@@ -7,6 +7,8 @@ path: /notes/mattiecaroline1991/06-03-2015/question-colorimetry-using-the-deskto
 nid: 11946
 uid: 443091
 
+cids: 
+
 ---
 
 # Question: Colorimetry using the desktop spectrometer

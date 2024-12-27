@@ -7,6 +7,8 @@ path: /notes/liz/02-24-2014/goal-setting-workshop-design.md
 nid: 10061
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/013/original/cropped-cropped-icc_logo1.gif)

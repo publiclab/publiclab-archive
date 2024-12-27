@@ -7,6 +7,8 @@ path: /notes/nitin_tech/03-17-2020/soc-proposal.md
 nid: 23161
 uid: 610628
 
+cids: 26511,26512,26545,26557
+
 ---
 
 # SoC proposal: 

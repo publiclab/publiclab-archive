@@ -7,6 +7,8 @@ path: /notes/hanswilms/07-27-2017/why-can-t-i-calibrate-glitch.md
 nid: 14688
 uid: 511595
 
+cids: 17115,17128,17162,17165
+
 ---
 
 # Why can't I calibrate? Glitch?

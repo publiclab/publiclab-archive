@@ -7,6 +7,8 @@ path: /notes/IshaGupta18/03-22-2019/outreachy-19-proposal-public-lab-ui-improvem
 nid: 18806
 uid: 568043
 
+cids: 23366,23371,23372,23384,23385,23386,23391,23397,23405,23416,23421,23422,23453,23457,23458,23459,23460,23573,23583,23604,23713
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/462/original/Copy_of_PublicLab_mockups.jpg)

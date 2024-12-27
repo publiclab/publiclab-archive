@@ -7,6 +7,8 @@ path: /notes/nicholas/07-19-2014/phragmites-landfill-invasion.md
 nid: 10711
 uid: 53894
 
+cids: 9570,9571,9572,9573,9582,9585,9588,9597
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/400/original/Screen_Shot_2014-07-17_at_18.12.34.png)

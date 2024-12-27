@@ -7,6 +7,8 @@ path: /notes/warren/12-11-2017/can-we-use-webjack-as-a-javascript-serial-bridge.
 nid: 15351
 uid: 1
 
+cids: 
+
 ---
 
 # Can we use WebJack as a JavaScript - Serial bridge?

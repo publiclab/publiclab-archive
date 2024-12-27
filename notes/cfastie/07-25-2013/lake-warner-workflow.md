@@ -7,6 +7,8 @@ path: /notes/cfastie/07-25-2013/lake-warner-workflow.md
 nid: 8928
 uid: 554
 
+cids: 6384,6386,6387
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/916/original/WarnerLkVis7198Wolffia.jpg)

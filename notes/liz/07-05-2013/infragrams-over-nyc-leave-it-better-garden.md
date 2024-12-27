@@ -7,6 +7,8 @@ path: /notes/liz/07-05-2013/infragrams-over-nyc-leave-it-better-garden.md
 nid: 8703
 uid: 7
 
+cids: 6168
+
 ---
 
 # Infragrams over NYC: Leave It Better Garden

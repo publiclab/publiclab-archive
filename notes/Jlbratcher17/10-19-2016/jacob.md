@@ -7,6 +7,8 @@ path: /notes/Jlbratcher17/10-19-2016/jacob.md
 nid: 13608
 uid: 494919
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/469/original/IMG_4558.JPG)

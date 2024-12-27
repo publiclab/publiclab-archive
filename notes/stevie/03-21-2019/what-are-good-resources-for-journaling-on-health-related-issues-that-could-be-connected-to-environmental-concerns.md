@@ -7,6 +7,8 @@ path: /notes/stevie/03-21-2019/what-are-good-resources-for-journaling-on-health-
 nid: 18795
 uid: 422561
 
+cids: 23353,23364
+
 ---
 
 # What are good resources for journaling on health related issues that could be connected to environmental concerns? 

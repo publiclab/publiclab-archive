@@ -7,6 +7,8 @@ path: /notes/shannon/11-19-2012/public-lab-community-newsletter-111712.md
 nid: 4947
 uid: 9
 
+cids: 
+
 ---
 
 # Public Lab community newsletter 11.17.12

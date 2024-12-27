@@ -7,6 +7,8 @@ path: /notes/stevie/08-01-2018/where-can-we-share-well-water-data.md
 nid: 16825
 uid: 422561
 
+cids: 20341,20342,20388,20634,23187,23198,23224
+
 ---
 
 # Where can we share well water data?

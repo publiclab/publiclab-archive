@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-13-2016/automated-captures.md
 nid: 12965
 uid: 468990
 
+cids: 14207,14209,14212,14213,14216,14224,14225,14226,14227,14228
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/513/original/og_countdown.png)

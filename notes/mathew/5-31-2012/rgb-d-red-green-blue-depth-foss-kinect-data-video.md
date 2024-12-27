@@ -7,6 +7,8 @@ path: /notes/mathew/5-31-2012/rgb-d-red-green-blue-depth-foss-kinect-data-video.
 nid: 2277
 uid: 4
 
+cids: 
+
 ---
 
 # RGB +D (red, green, blue, depth) FOSS for Kinect data + video

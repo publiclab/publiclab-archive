@@ -7,6 +7,8 @@ path: /notes/patcoyle/2-25-2012/2-24-12-kap-livermore-ca-development.md
 nid: 851
 uid: 77
 
+cids: 
+
 ---
 
 # 2-24-12 KAP Livermore CA development

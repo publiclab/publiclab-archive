@@ -7,6 +7,8 @@ path: /notes/mathew/05-05-2015/evaluating-low-cost-optical-dust-sensors.md
 nid: 11783
 uid: 4
 
+cids: 11591,11593,11645,11708,11709,11711,12065,12547,12718,12719,12845,12846,13344,13626,14108,14110,14327,14334,14336,14337,14338,14339,14342
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/773/original/figD1.png)

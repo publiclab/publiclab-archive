@@ -7,6 +7,8 @@ path: /notes/JuanSardi/11-04-2015/mapknitter-map-of-practica-cuenca.md
 nid: 12369
 uid: 456579
 
+cids: 
+
 ---
 
 # MapKnitter map of Practica Cuenca 

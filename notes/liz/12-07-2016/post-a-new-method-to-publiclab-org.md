@@ -7,6 +7,8 @@ path: /notes/liz/12-07-2016/post-a-new-method-to-publiclab-org.md
 nid: 13756
 uid: 7
 
+cids: 15949,16178
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/553/original/tmp_15415-IMG_20170214_153703_5341659245659.jpg)

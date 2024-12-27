@@ -7,6 +7,8 @@ path: /08-23-2018/how-not-to-grow-lotus-for-wetland-transplanting.md
 nid: 16985
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/321/original/43268898564_d99bc59189_b.jpg)

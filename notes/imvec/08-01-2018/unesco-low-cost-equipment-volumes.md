@@ -7,6 +7,8 @@ path: /notes/imvec/08-01-2018/unesco-low-cost-equipment-volumes.md
 nid: 16821
 uid: 495038
 
+cids: 28233
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/986/original/lce.png)

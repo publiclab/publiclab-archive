@@ -7,6 +7,8 @@ path: /notes/stevie/01-23-2018/workshop-draft-an-issue-brief-with-a-group.md
 nid: 15591
 uid: 422561
 
+cids: 19594,30179
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/298/original/IMG_20170624_135224484.jpg)

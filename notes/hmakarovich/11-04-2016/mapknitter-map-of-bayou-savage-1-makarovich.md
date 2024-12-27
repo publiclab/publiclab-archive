@@ -7,6 +7,8 @@ path: /notes/hmakarovich/11-04-2016/mapknitter-map-of-bayou-savage-1-makarovich.
 nid: 13678
 uid: 496381
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/700/original/IMG_2955.JPG)

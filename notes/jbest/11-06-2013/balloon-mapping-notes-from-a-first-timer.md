@@ -7,6 +7,8 @@ path: /notes/jbest/11-06-2013/balloon-mapping-notes-from-a-first-timer.md
 nid: 9742
 uid: 194322
 
+cids: 7465,7469,7470,7471,7472,7474,7492,7523,7587
+
 ---
 
 # Balloon mapping notes from a first-timer

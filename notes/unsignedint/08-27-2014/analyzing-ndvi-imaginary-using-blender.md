@@ -7,6 +7,8 @@ path: /notes/unsignedint/08-27-2014/analyzing-ndvi-imaginary-using-blender.md
 nid: 11080
 uid: 427535
 
+cids: 10124,10128,10132,10135
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/451/original/infragram.blend.png)

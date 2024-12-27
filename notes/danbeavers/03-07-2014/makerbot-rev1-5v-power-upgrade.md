@@ -7,6 +7,8 @@ path: /notes/danbeavers/03-07-2014/makerbot-rev1-5v-power-upgrade.md
 nid: 10137
 uid: 51
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/176/original/115_0039.JPG)

@@ -7,6 +7,8 @@ path: /notes/stevie/02-03-2015/gulf-coast-spring-fling.md
 nid: 11551
 uid: 422561
 
+cids: 11129,11312,11322
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/769/original/Spring_Fling.jpg)

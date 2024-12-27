@@ -7,6 +7,8 @@ path: /notes/warren/10-14-2015/week-3-recap-from-oil-testing-kit-beta-program-we
 nid: 12302
 uid: 1
 
+cids: 12739,12740,12741
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/950/original/Screenshot_2015-10-14_at_2.24.32_PM.png)

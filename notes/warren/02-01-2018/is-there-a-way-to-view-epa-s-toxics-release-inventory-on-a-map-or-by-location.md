@@ -7,6 +7,8 @@ path: /notes/warren/02-01-2018/is-there-a-way-to-view-epa-s-toxics-release-inven
 nid: 15653
 uid: 1
 
+cids: 18346,18669,19090,19324,22906,22907,22908,22964,22966
+
 ---
 
 # Is there a way to view EPA's Toxics Release Inventory on a map, or by location?

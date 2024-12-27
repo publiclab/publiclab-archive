@@ -7,6 +7,8 @@ path: /notes/warren/10-29-2018/help-us-refine-the-search-interface-at-publiclab-
 nid: 17425
 uid: 1
 
+cids: 21036,21052,21071,23267,23269,23270
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/363/original/Screen_Shot_2018-10-29_at_6.12.05_PM.png)

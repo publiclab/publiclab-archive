@@ -7,6 +7,8 @@ path: /notes/cfastie/12-21-2017/log-all-the-data-with-adafruit-s-tpl5110-low-pow
 nid: 15413
 uid: 554
 
+cids: 18055,18068,19519,19521,24146,24147,24148
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/998/original/TPL_20171221-2307.JPG)

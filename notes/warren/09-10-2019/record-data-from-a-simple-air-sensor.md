@@ -7,6 +7,8 @@ path: /notes/warren/09-10-2019/record-data-from-a-simple-air-sensor.md
 nid: 20818
 uid: 1
 
+cids: 25474,26031,26032,26034
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/200/original/IMG_20190910_173314_867.jpg)

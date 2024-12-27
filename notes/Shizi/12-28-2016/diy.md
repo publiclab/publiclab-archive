@@ -7,6 +7,8 @@ path: /notes/Shizi/12-28-2016/diy.md
 nid: 13818
 uid: 475993
 
+cids: 16074
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/153/original/%3F%3F_2.png)

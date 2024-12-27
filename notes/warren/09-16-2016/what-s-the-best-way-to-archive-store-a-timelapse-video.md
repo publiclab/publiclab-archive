@@ -7,6 +7,8 @@ path: /notes/warren/09-16-2016/what-s-the-best-way-to-archive-store-a-timelapse-
 nid: 13454
 uid: 1
 
+cids: 18340,22285,22370
+
 ---
 
 # What's the best way to archive/store a timelapse video?

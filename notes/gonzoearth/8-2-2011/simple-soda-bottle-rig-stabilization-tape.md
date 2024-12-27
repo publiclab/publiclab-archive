@@ -7,6 +7,8 @@ path: /notes/gonzoearth/8-2-2011/simple-soda-bottle-rig-stabilization-tape.md
 nid: 423
 uid: 12
 
+cids: 308
+
 ---
 
 ![](https://publiclab.org/sites/default/files/soda-bottle-line-tape.jpg)

@@ -7,6 +7,8 @@ path: /notes/liz/06-01-2013/june-1-sensor-journalism-conference-at-columbia-univ
 nid: 8011
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/451/original/logo.jpg)

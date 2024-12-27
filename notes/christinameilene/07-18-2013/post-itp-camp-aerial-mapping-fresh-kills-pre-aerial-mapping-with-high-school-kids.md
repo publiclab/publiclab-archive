@@ -7,6 +7,8 @@ path: /notes/christinameilene/07-18-2013/post-itp-camp-aerial-mapping-fresh-kill
 nid: 8907
 uid: 170195
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/841/original/9112187334_e1a6c13ddc_c.jpg)

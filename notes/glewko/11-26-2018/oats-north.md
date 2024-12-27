@@ -7,6 +7,8 @@ path: /notes/glewko/11-26-2018/oats-north.md
 nid: 17750
 uid: 547255
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/833/original/YUN00105.jpg)

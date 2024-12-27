@@ -7,6 +7,8 @@ path: /notes/kplowe2/02-25-2020/helium.md
 nid: 22933
 uid: 668609
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/245/original/color_chem.jpg)

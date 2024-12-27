@@ -7,6 +7,8 @@ path: /notes/stevie/10-16-2017/interview-yvette-arellano.md
 nid: 15054
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/950/original/Arellano_650.jpg)

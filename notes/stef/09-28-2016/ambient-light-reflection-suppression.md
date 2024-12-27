@@ -7,6 +7,8 @@ path: /notes/stef/09-28-2016/ambient-light-reflection-suppression.md
 nid: 13497
 uid: 482758
 
+cids: 15518,15522
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/191/original/IMGP1462.JPG)

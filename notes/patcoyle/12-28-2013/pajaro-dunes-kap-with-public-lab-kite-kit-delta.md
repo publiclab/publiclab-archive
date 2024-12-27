@@ -7,6 +7,8 @@ path: /notes/patcoyle/12-28-2013/pajaro-dunes-kap-with-public-lab-kite-kit-delta
 nid: 9916
 uid: 77
 
+cids: 8010
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/457/original/P1090338.JPG)

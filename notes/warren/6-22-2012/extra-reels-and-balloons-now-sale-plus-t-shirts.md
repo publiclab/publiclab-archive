@@ -7,6 +7,8 @@ path: /notes/warren/6-22-2012/extra-reels-and-balloons-now-sale-plus-t-shirts.md
 nid: 2612
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/store.png)

@@ -7,6 +7,8 @@ path: /notes/amocorro/05-13-2021/are-you-smelling-odors-in-your-community-and-sh
 nid: 26577
 uid: 700923
 
+cids: 28773,28774
+
 ---
 
 #  Are you smelling odors in your community, and should you be concerned?  

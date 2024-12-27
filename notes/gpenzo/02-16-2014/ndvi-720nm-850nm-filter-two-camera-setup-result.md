@@ -7,6 +7,8 @@ path: /notes/gpenzo/02-16-2014/ndvi-720nm-850nm-filter-two-camera-setup-result.m
 nid: 10043
 uid: 420719
 
+cids: 8278,8287,8289,8290,8294,8295,8296,8297,8302,8303,8307,8406,11522
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/935/original/850_IR_HIST.png)

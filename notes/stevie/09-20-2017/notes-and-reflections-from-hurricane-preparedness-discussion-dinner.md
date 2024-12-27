@@ -7,6 +7,8 @@ path: /notes/stevie/09-20-2017/notes-and-reflections-from-hurricane-preparedness
 nid: 14921
 uid: 422561
 
+cids: 17482
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/720/original/20170918_193848.jpg)

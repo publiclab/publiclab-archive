@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/05-07-2016/quantum-yield-calculations-for-fluorescein-in
 nid: 13088
 uid: 461120
 
+cids: 14566,14568
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/988/original/385nm_led_in_operation.png)

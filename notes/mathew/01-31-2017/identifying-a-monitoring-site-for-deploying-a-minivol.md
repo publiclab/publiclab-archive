@@ -7,6 +7,8 @@ path: /notes/mathew/01-31-2017/identifying-a-monitoring-site-for-deploying-a-min
 nid: 13891
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/395/original/homeminivol2.jpg)

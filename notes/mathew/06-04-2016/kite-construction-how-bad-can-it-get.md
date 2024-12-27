@@ -7,6 +7,8 @@ path: /notes/mathew/06-04-2016/kite-construction-how-bad-can-it-get.md
 nid: 13165
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/492/original/P_20160513_202145_HDR.jpg)

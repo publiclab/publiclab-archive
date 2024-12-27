@@ -7,6 +7,8 @@ path: /notes/warren/01-14-2019/experiment-with-polarizing-filters-to-view-crysta
 nid: 18114
 uid: 1
 
+cids: 21735,22210,22214
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/781/original/image.png)

@@ -7,6 +7,8 @@ path: /notes/liz/05-19-2021/seeking-maps-of-mining-sites-in-maine.md
 nid: 26647
 uid: 7
 
+cids: 28792,28793,28796,28798,28799,28800,28803
+
 ---
 
 # Seeking maps of mining sites in Maine

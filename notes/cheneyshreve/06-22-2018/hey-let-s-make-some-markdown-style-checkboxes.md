@@ -7,6 +7,8 @@ path: /notes/cheneyshreve/06-22-2018/hey-let-s-make-some-markdown-style-checkbox
 nid: 16554
 uid: 537364
 
+cids: 
+
 ---
 
 # Hey, let's make some markdown style checkboxes!

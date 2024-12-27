@@ -7,6 +7,8 @@ path: /notes/SeanKMcGinnis/08-15-2014/philadelphia-night-market-balloon-flight.m
 nid: 11056
 uid: 552
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/285/original/Tower.jpg)

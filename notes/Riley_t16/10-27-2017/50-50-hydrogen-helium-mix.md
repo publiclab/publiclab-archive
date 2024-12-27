@@ -7,6 +7,8 @@ path: /notes/Riley_t16/10-27-2017/50-50-hydrogen-helium-mix.md
 nid: 15119
 uid: 517081
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/118/original/5F221589-F805-41ED-990C-71436D06629A.jpeg)

@@ -7,6 +7,8 @@ path: /notes/kgradow1/05-13-2018/raspberry-pi-microscope-honeybee-legs.md
 nid: 16337
 uid: 297929
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/918/original/im_0022_20180325_235126.jpg)

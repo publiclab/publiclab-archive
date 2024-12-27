@@ -7,6 +7,8 @@ path: /notes/warren/8-10-2011/defcon-attendees-attempt-launching-camera-flare-gu
 nid: 436
 uid: 1
 
+cids: 
+
 ---
 
 # Defcon attendees attempt launching a camera from a flare gun to 500ft

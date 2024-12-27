@@ -7,6 +7,8 @@ path: /notes/bhamster/06-12-2020/hello-from-public-lab-s-new-research-coordinato
 nid: 23830
 uid: 664477
 
+cids: 27028,27032,27033,27076,27087,27088
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/743/original/newcomsci.jpg)

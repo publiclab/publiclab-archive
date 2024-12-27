@@ -7,6 +7,8 @@ path: /notes/Delaney/12-12-2017/public-lab-community-newsletter-december-2017.md
 nid: 15355
 uid: 517173
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/995/original/Header-2.png)

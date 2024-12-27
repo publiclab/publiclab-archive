@@ -7,6 +7,8 @@ path: /notes/kellyraymond/02-19-2020/further-information-art-in-ruins.md
 nid: 22856
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (164 Summit Ave)

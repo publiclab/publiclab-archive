@@ -7,6 +7,8 @@ path: /notes/TeacherHelen/03-22-2018/i-just-made-my-papercraft-spectrometer-and-
 nid: 16005
 uid: 528351
 
+cids: 
+
 ---
 
 # I just made my  Papercraft  Spectrometer and have no idea what to next!

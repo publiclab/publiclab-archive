@@ -7,6 +7,8 @@ path: /notes/stevie/09-22-2017/workshop-mapping-the-africatown-connections-bluew
 nid: 14943
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/748/original/balloon_and_rig_close_up.png)

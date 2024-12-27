@@ -7,6 +7,8 @@ path: /notes/kgradow1/06-23-2020/what-diagnostic-tools-do-you-use-when-air-sampl
 nid: 24024
 uid: 297929
 
+cids: 27214
+
 ---
 
 # What diagnostic tools do you use when air sampling? 

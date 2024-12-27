@@ -7,6 +7,8 @@ path: /notes/stevie/12-15-2017/what-are-some-good-kid-friendly-activities-people
 nid: 15385
 uid: 422561
 
+cids: 18046,22811,23070
+
 ---
 
 # What are some good kid friendly activities people can run at events?

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-16-2016/carbol-fuchsin-doped-with-lugol-s-iodine-solu
 nid: 13355
 uid: 461120
 
+cids: 15139
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/626/original/carbol_fuchsin.png)

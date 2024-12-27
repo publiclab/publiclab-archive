@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-21-2016/and-if-i-flip-it-over-effects-of-a-reversed-
 nid: 13011
 uid: 468990
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/715/original/flip_over_header.jpg)

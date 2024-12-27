@@ -7,6 +7,8 @@ path: /notes/JSummers/07-04-2014/getting-your-wheestat-set-up.md
 nid: 10658
 uid: 304279
 
+cids: 9418,9424,10147,10152,10441,10443,10449,10565,10582,11458,14992,16570
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/135/original/WheeStat-VoltammetryPhoto.jpg)

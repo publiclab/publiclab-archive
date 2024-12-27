@@ -7,6 +7,8 @@ path: /notes/xose/06-30-2022/mapknitter-map-of-embalse-de-cachamuina.md
 nid: 31168
 uid: 497123
 
+cids: 30286,30287,30288,30289,30290,30291
+
 ---
 
 # MapKnitter map of Embalse de Cachamuiña

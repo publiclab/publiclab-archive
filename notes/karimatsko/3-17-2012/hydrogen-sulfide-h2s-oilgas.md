@@ -7,6 +7,8 @@ path: /notes/karimatsko/3-17-2012/hydrogen-sulfide-h2s-oilgas.md
 nid: 1485
 uid: 685
 
+cids: 573
+
 ---
 
 # Hydrogen Sulfide H2S & Oil/Gas

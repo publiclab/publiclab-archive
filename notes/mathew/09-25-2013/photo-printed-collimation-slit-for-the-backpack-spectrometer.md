@@ -7,6 +7,8 @@ path: /notes/mathew/09-25-2013/photo-printed-collimation-slit-for-the-backpack-s
 nid: 9366
 uid: 4
 
+cids: 7014,7018,7019
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/671/original/9925545636_602ee6e16d_z.jpg)

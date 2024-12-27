@@ -7,6 +7,8 @@ path: /notes/stevie/06-19-2015/bring-back-the-blog.md
 nid: 11990
 uid: 422561
 
+cids: 11986
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/394/original/Come_Map!.JPG)

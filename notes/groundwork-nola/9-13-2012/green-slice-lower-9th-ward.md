@@ -7,6 +7,8 @@ path: /notes/groundwork-nola/9-13-2012/green-slice-lower-9th-ward.md
 nid: 3801
 uid: 41249
 
+cids: 1319
+
 ---
 
 # Green Slice- Lower 9th Ward

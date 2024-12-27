@@ -7,6 +7,8 @@ path: /notes/cfastie/06-21-2013/engineered-histograms.md
 nid: 8358
 uid: 554
 
+cids: 17611,17612,17618,17697,17776,17785,17872,17889,17901,17940,17943,17951,17952,17953,17971,17977,17980
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/564/original/907_rgbhist.jpg)

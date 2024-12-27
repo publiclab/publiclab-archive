@@ -7,6 +7,8 @@ path: /notes/se18023/04-24-2019/can-geotagged-aerial-images-be-automatically-pla
 nid: 19153
 uid: 586048
 
+cids: 23973,23978,23988,23989,23991,24069
+
 ---
 
 # Can geotagged aerial images be automatically placed in the right location on the map according to their coordinates?

@@ -7,6 +7,8 @@ path: /notes/alaxallves/05-24-2020/week-3-gsoc-2020-mapknitter-export-module-and
 nid: 23689
 uid: 577447
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/524/original/week3.jpg)

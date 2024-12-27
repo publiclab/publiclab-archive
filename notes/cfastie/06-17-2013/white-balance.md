@@ -7,6 +7,8 @@ path: /notes/cfastie/06-17-2013/white-balance.md
 nid: 8224
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/517/original/18WBsurface.jpg)

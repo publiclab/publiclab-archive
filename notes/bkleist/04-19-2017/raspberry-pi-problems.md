@@ -7,6 +7,8 @@ path: /notes/bkleist/04-19-2017/raspberry-pi-problems.md
 nid: 14124
 uid: 489504
 
+cids: 16599,16677,16678,16771
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/167/original/7513051848_9a6ef2feb8_o.jpeg)

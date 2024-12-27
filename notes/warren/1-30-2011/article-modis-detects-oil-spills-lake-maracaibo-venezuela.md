@@ -7,6 +7,8 @@ path: /notes/warren/1-30-2011/article-modis-detects-oil-spills-lake-maracaibo-ve
 nid: 67
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2011-01-30 at 3.42.39 PM.png)

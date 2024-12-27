@@ -7,6 +7,8 @@ path: /notes/sr71luis/10-08-2021/mapknitter-map-of-street-lamp-study.md
 nid: 27837
 uid: 774888
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/896/original/DJI_0258.JPG)

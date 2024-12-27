@@ -7,6 +7,8 @@ path: /notes/viechdokter/05-05-2016/question-why-average-and-what-happens-to-the
 nid: 13081
 uid: 468990
 
+cids: 14541,14542,14543,14545,14547,14548,14550,14551,14552,14553
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/969/original/Bayer_filter.jpg)

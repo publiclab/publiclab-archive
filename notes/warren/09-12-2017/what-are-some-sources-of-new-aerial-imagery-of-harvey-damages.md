@@ -7,6 +7,8 @@ path: /notes/warren/09-12-2017/what-are-some-sources-of-new-aerial-imagery-of-ha
 nid: 14880
 uid: 1
 
+cids: 17365,17369,17380,22598,22601,22606
+
 ---
 
 # What are some sources of new aerial imagery of Harvey damages?

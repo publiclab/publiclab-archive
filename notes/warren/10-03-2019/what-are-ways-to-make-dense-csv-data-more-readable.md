@@ -7,6 +7,8 @@ path: /notes/warren/10-03-2019/what-are-ways-to-make-dense-csv-data-more-readabl
 nid: 21068
 uid: 1
 
+cids: 25629,25630,25637,25638,25640,25649,26167
+
 ---
 
 # What are ways to make dense CSV data more readable?

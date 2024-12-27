@@ -7,6 +7,8 @@ path: /notes/cfastie/08-18-2013/hornworms.md
 nid: 9031
 uid: 554
 
+cids: 6673,6678,6679,6680,6690,6691
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/178/original/Hornworm.gif)

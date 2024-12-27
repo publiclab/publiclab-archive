@@ -7,6 +7,8 @@ path: /notes/laurenrae/11-24-2014/talk-science-to-me-kenny-and-don-audtion-for-p
 nid: 11398
 uid: 431676
 
+cids: 10834,10851
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/102/original/IMG_4038.jpg)

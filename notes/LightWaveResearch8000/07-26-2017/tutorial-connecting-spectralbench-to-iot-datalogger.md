@@ -7,6 +7,8 @@ path: /notes/LightWaveResearch8000/07-26-2017/tutorial-connecting-spectralbench-
 nid: 14682
 uid: 510698
 
+cids: 
+
 ---
 
 # Tutorial Connecting SpectralBench To IoT Datalogger?

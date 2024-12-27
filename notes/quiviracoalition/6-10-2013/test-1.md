@@ -7,6 +7,8 @@ path: /notes/quiviracoalition/6-10-2013/test-1.md
 nid: 8158
 uid: 114333
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/5.jpeg)

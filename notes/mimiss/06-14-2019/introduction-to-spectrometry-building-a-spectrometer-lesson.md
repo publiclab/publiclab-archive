@@ -7,6 +7,8 @@ path: /notes/mimiss/06-14-2019/introduction-to-spectrometry-building-a-spectrome
 nid: 19700
 uid: 579821
 
+cids: 26175
+
 ---
 
 # Introduction to Spectrometry (& Building a Spectrometer!) Lesson

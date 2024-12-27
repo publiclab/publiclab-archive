@@ -7,6 +7,8 @@ path: /notes/warren/4-2-2013/crowdfunding-open-source-community-how-backers-beco
 nid: 6649
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2013-04-02 at 8.34.40 AM.png)

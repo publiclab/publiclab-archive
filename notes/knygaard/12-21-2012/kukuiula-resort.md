@@ -7,6 +7,8 @@ path: /notes/knygaard/12-21-2012/kukuiula-resort.md
 nid: 5287
 uid: 46987
 
+cids: 2807,2812
+
 ---
 
 # Kukui'ula Resort

@@ -7,6 +7,8 @@ path: /notes/Becki/12-01-2015/support-public-lab-on-givingtuesday.md
 nid: 12466
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/110/original/Profile-Image.jpg)

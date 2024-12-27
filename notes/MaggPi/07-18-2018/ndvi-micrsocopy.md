@@ -7,6 +7,8 @@ path: /notes/MaggPi/07-18-2018/ndvi-micrsocopy.md
 nid: 16741
 uid: 501996
 
+cids: 20151,20152,20154,20157,20158,20159,20160,20169,20170,20221
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/742/original/ndvi.png)

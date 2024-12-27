@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-119-harris-avenue.md
 nid: 23066
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (119 Harris Avenue)

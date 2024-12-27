@@ -7,6 +7,8 @@ path: /notes/Ag8n/08-31-2018/sanity-check-for-air-sensors.md
 nid: 17032
 uid: 520994
 
+cids: 20543,20544,20545,20548,20572,20573,20575,20576,20577,20578,20584,20585,20668
+
 ---
 
 # Sanity check for air sensors

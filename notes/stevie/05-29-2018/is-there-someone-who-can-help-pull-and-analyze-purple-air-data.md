@@ -7,6 +7,8 @@ path: /notes/stevie/05-29-2018/is-there-someone-who-can-help-pull-and-analyze-pu
 nid: 16405
 uid: 422561
 
+cids: 19969,20371,20463,20467,20483,23106,23202,23219
+
 ---
 
 # Is there someone who can help pull and analyze Purple Air data?

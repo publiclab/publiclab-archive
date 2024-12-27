@@ -7,6 +7,8 @@ path: /notes/AlexanderZemliakov/10-31-2018/energosberegayshaia-lampa-start.md
 nid: 17449
 uid: 557438
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/416/original/20181031_202557red.jpg)

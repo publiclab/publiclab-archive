@@ -7,6 +7,8 @@ path: /notes/sagarpreet/12-17-2019/introducing-new-inline-lel-power-tags.md
 nid: 21773
 uid: 516343
 
+cids: 26029,26030
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/125/original/Screenshot_2019-11-09_at_3.06.06_PM.png)

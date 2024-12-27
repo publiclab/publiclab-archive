@@ -7,6 +7,8 @@ path: /notes/BIKIE-GERALD-24/07-09-2022/status-trends-and-gap-of-oceanography-in
 nid: 31268
 uid: 799821
 
+cids: 30314,30336,30738
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/877/original/Cameroon.JPG)

@@ -7,6 +7,8 @@ path: /notes/soniya2903/03-01-2018/rgsoc-proposal-rich-editor-extras.md
 nid: 15846
 uid: 526441
 
+cids: 18696,19041
+
 ---
 
 # RGSoC proposal: Rich Editor Extras

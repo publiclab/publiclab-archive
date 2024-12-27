@@ -7,6 +7,8 @@ path: /notes/deeptalaxmibharadwaj/10-25-2020/creating-a-biodegradable-water-resi
 nid: 24810
 uid: 615276
 
+cids: 27620,31218
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/220/original/title.png)

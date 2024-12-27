@@ -7,6 +7,8 @@ path: /notes/gonzoearth/04-17-2013/google-summer-of-code-2013-public-lab.md
 nid: 6877
 uid: 12
 
+cids: 4468
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/073/original/GSoC_2013_logo.jpg)

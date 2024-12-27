@@ -7,6 +7,8 @@ path: /notes/joyofsoy/04-20-2020/celebrating-our-tenth-anniversary.md
 nid: 23422
 uid: 540844
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/115/original/publiclab_mapping_1200x430.png)

@@ -7,6 +7,8 @@ path: /notes/liz/03-15-2015/our-values-are-related-to-and-distinct-from-basic-pe
 nid: 11680
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/263/original/ValuesStatement-Phil_Cindy_barnraising_2014.png)

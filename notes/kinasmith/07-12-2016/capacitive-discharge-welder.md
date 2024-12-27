@@ -7,6 +7,8 @@ path: /notes/kinasmith/07-12-2016/capacitive-discharge-welder.md
 nid: 13284
 uid: 445906
 
+cids: 14921,14928,14931,14932,14942,17601,18304
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/008/original/IMG_20160709_184753.jpg)

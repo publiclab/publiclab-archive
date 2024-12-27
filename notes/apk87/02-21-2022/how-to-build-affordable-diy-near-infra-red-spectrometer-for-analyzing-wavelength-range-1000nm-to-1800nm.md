@@ -7,6 +7,8 @@ path: /notes/apk87/02-21-2022/how-to-build-affordable-diy-near-infra-red-spectro
 nid: 30068
 uid: 789359
 
+cids: 29703,30814
+
 ---
 
 # How to build affordable DIY Near Infra red Spectrometer for analyzing wavelength range 1000nm to 1800nm ?

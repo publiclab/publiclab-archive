@@ -7,6 +7,8 @@ path: /notes/lucalink07/06-12-2019/but-for-the-installation-of-the-red-blue-filt
 nid: 19683
 uid: 597396
 
+cids: 24988
+
 ---
 
 # but for the installation of the red / blue filter on camera, should the latter have infrared?

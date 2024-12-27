@@ -7,6 +7,8 @@ path: /notes/tonyc/01-27-2016/rollup-of-mobius-pendulum-kit-ideas.md
 nid: 12623
 uid: 447491
 
+cids: 14125
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/886/original/IMG_1270.JPG)

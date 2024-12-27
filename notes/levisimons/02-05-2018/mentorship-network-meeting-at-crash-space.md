@@ -7,6 +7,8 @@ path: /notes/levisimons/02-05-2018/mentorship-network-meeting-at-crash-space.md
 nid: 15690
 uid: 1087
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/465/original/original.jpg)

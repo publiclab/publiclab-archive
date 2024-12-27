@@ -7,6 +7,8 @@ path: /notes/stevie/07-08-2015/new-orleans-map-viewing-party.md
 nid: 12039
 uid: 422561
 
+cids: 12280
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/570/original/Map_viewing.png)

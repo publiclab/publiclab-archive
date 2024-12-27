@@ -7,6 +7,8 @@ path: /notes/stevie/09-17-2015/ej-in-la.md
 nid: 12220
 uid: 422561
 
+cids: 12586
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/591/original/Baton_Rouge.png)

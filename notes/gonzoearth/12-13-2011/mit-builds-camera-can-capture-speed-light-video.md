@@ -7,6 +7,8 @@ path: /notes/gonzoearth/12-13-2011/mit-builds-camera-can-capture-speed-light-vid
 nid: 631
 uid: 12
 
+cids: 
+
 ---
 
 # MIT builds camera that can capture at the speed of light (video)

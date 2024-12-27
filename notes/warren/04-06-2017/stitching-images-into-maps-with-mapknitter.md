@@ -7,6 +7,8 @@ path: /notes/warren/04-06-2017/stitching-images-into-maps-with-mapknitter.md
 nid: 14095
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/102/original/Screen_Shot_2017-04-06_at_3.28.48_PM.png)

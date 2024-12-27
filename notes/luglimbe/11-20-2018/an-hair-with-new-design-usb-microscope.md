@@ -7,6 +7,8 @@ path: /notes/luglimbe/11-20-2018/an-hair-with-new-design-usb-microscope.md
 nid: 17714
 uid: 546059
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/746/original/2018-09-20-150352.jpg)

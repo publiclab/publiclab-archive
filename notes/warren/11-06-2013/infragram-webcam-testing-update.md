@@ -7,6 +7,8 @@ path: /notes/warren/11-06-2013/infragram-webcam-testing-update.md
 nid: 9738
 uid: 1
 
+cids: 7493
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/117/original/with_74_filter.JPG)

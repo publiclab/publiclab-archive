@@ -7,6 +7,8 @@ path: /notes/johnb1003/10-24-2018/air-sensor-project.md
 nid: 17388
 uid: 556306
 
+cids: 20963,21022,21072
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/954/original/fullsizeoutput_364.jpeg)

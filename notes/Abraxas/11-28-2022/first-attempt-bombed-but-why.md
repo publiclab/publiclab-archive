@@ -7,6 +7,8 @@ path: /notes/Abraxas/11-28-2022/first-attempt-bombed-but-why.md
 nid: 37872
 uid: 822105
 
+cids: 30782,30783
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/351/original/Spec3.jpg)

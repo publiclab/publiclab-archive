@@ -7,6 +7,8 @@ path: /notes/porteric/02-27-2020/mapknitter-map-of-historic-columbia-river-highw
 nid: 22951
 uid: 668997
 
+cids: 26404
+
 ---
 
 # MapKnitter map of Historic Columbia River Highway State Trail Overlook

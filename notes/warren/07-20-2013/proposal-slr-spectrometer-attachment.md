@@ -7,6 +7,8 @@ path: /notes/warren/07-20-2013/proposal-slr-spectrometer-attachment.md
 nid: 8912
 uid: 1
 
+cids: 6390,7692,7695,7700,8227
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/857/original/Screen_Shot_2013-07-20_at_1.07.47_PM.png)

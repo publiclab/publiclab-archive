@@ -7,6 +7,8 @@ path: /notes/karunv/10-12-2020/ndvi-with-a-2-camera-setup.md
 nid: 24740
 uid: 722156
 
+cids: 27464,27483
+
 ---
 
 # NDVI with a 2 camera setup

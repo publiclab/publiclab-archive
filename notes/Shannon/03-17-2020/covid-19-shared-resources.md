@@ -7,6 +7,8 @@ path: /notes/Shannon/03-17-2020/covid-19-shared-resources.md
 nid: 23163
 uid: 9
 
+cids: 26551,26624,26801,26802,26994
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/595/original/office-phone-coffee-table-preview.jpg)

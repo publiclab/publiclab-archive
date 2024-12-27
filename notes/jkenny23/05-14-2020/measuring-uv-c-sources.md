@@ -7,6 +7,8 @@ path: /notes/jkenny23/05-14-2020/measuring-uv-c-sources.md
 nid: 23629
 uid: 693382
 
+cids: 26818,26819,26821,26833
+
 ---
 
 # Measuring UV-C Sources

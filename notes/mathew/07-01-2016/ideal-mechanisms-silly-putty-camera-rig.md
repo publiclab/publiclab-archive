@@ -7,6 +7,8 @@ path: /notes/mathew/07-01-2016/ideal-mechanisms-silly-putty-camera-rig.md
 nid: 13255
 uid: 4
 
+cids: 14848,14854
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/831/original/C01-01.gif)

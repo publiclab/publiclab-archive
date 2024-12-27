@@ -7,6 +7,8 @@ path: /notes/cfastie/06-10-2014/ne-organizers-summit.md
 nid: 10545
 uid: 554
 
+cids: 9176
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/580/original/NEbarn-465-146.jpg)

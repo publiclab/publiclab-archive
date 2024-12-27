@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/01-10-2016/raman-spectrometer-using-green-laser-pointer.
 nid: 12575
 uid: 461120
 
+cids: 13332,13337
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/599/original/good.jpg)

@@ -7,6 +7,8 @@ path: /notes/Kahaas10/02-18-2016/chain-of-rocks-mississippi-river.md
 nid: 12708
 uid: 465989
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/380/original/photomerge_2.png)

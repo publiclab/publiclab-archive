@@ -7,6 +7,8 @@ path: /notes/Giiwedin/08-09-2022/manoomin-at-white-oak-lake-minneosta.md
 nid: 34848
 uid: 799642
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/980/original/C33F3848-DD91-41D9-9B09-80456988A237.jpeg)

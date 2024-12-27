@@ -7,6 +7,8 @@ path: /notes/jfalquet/01-06-2020/anyboby-with-experience-in-measuring-ir-emissio
 nid: 22228
 uid: 648805
 
+cids: 26098,26101
+
 ---
 
 # Anyboby with experience in measuring IR emissions between 8-13 um ?

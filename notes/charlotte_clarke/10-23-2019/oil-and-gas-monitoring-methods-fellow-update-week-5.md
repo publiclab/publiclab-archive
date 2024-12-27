@@ -7,6 +7,8 @@ path: /notes/charlotte_clarke/10-23-2019/oil-and-gas-monitoring-methods-fellow-u
 nid: 21272
 uid: 510781
 
+cids: 25730,25731
+
 ---
 
 # Oil and Gas Monitoring Methods Fellow Update: Week 5

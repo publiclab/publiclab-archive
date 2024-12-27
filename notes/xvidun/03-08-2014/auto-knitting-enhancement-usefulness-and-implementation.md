@@ -7,6 +7,8 @@ path: /notes/xvidun/03-08-2014/auto-knitting-enhancement-usefulness-and-implemen
 nid: 10145
 uid: 421168
 
+cids: 8459,8636
+
 ---
 
 # Auto Knitting enhancement usefulness and implementation.

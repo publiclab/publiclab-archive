@@ -7,6 +7,8 @@ path: /notes/stevie/02-24-2021/does-anyone-have-any-concerns-regarding-the-water
 nid: 25795
 uid: 422561
 
+cids: 28255,28256,28261
+
 ---
 
 # Does anyone have any concerns regarding the water quality in New Orleans?

@@ -7,6 +7,8 @@ path: /notes/khufkens/05-03-2015/phenopi-beta-software-installer-release.md
 nid: 11779
 uid: 438931
 
+cids: 11581,11582
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/740/original/Screen_Shot_2015-04-23_at_21.03.23.png)

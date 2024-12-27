@@ -7,6 +7,8 @@ path: /notes/warren/7-8-2011/nieman-lab-macgyver-method-news-challenge-funding-p
 nid: 374
 uid: 1
 
+cids: 
+
 ---
 
 # Nieman Lab: The MacGyver method: With News Challenge funding, The Public Lab is building up its civic media toolkit

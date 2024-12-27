@@ -7,6 +7,8 @@ path: /notes/tahnok/04-25-2019/can-the-link-to-the-kap-kite-comparison-table-be-
 nid: 19158
 uid: 586163
 
+cids: 23979,23980
+
 ---
 
 # Can the link to the KAP Kite Comparison table be updated?

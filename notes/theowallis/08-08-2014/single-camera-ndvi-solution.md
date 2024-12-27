@@ -7,6 +7,8 @@ path: /notes/theowallis/08-08-2014/single-camera-ndvi-solution.md
 nid: 11022
 uid: 425909
 
+cids: 9819,9863,11176
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/138/original/IMAG0001.JPG)

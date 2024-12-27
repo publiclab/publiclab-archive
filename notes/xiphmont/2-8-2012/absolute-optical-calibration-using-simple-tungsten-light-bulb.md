@@ -7,6 +7,8 @@ path: /notes/xiphmont/2-8-2012/absolute-optical-calibration-using-simple-tungste
 nid: 765
 uid: 470
 
+cids: 14020,14022
+
 ---
 
 # ABSOLUTE OPTICAL CALIBRATION USING A SIMPLE TUNGSTEN LIGHT BULB

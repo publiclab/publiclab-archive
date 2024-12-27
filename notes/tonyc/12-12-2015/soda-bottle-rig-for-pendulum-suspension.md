@@ -7,6 +7,8 @@ path: /notes/tonyc/12-12-2015/soda-bottle-rig-for-pendulum-suspension.md
 nid: 12502
 uid: 447491
 
+cids: 13087,13105,13117,13120,13141
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/282/original/IMG_3567.JPG)

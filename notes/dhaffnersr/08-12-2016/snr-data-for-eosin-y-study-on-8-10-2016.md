@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-12-2016/snr-data-for-eosin-y-study-on-8-10-2016.md
 nid: 13349
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/573/original/eosin_y_5_samples.png)

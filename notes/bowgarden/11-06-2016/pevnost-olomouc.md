@@ -7,6 +7,8 @@ path: /notes/bowgarden/11-06-2016/pevnost-olomouc.md
 nid: 13684
 uid: 496059
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/728/original/IMG_20161030_132205.jpg)

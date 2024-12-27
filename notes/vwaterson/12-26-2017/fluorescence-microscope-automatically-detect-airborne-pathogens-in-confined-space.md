@@ -7,6 +7,8 @@ path: /notes/vwaterson/12-26-2017/fluorescence-microscope-automatically-detect-a
 nid: 15435
 uid: 521239
 
+cids: 18045,18047,18048,18049,18060,18063,18066
+
 ---
 
 # Fluorescence microscope - automatically detect airborne pathogens in confined space?

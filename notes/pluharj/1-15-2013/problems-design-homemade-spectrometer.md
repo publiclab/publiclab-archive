@@ -7,6 +7,8 @@ path: /notes/pluharj/1-15-2013/problems-design-homemade-spectrometer.md
 nid: 5597
 uid: 46812
 
+cids: 3083,3087,3108
+
 ---
 
 ![](https://publiclab.org/sites/default/files/_IGP4553.jpg)

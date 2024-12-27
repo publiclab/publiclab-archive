@@ -7,6 +7,8 @@ path: /notes/chelsea_tremblay/02-23-2015/jr-368-02-water-conductivity-testing.md
 nid: 11616
 uid: 434198
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/054/original/testing_testing.JPG)

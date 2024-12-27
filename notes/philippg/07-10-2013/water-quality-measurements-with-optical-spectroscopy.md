@@ -7,6 +7,8 @@ path: /notes/philippg/07-10-2013/water-quality-measurements-with-optical-spectro
 nid: 8809
 uid: 121462
 
+cids: 6247,6262,6296,6300,6302,6310,6319,6332,6442,9035,12972
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/731/original/2013-07-10_11.49.28.jpg)

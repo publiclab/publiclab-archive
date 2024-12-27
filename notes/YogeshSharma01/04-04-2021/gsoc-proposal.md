@@ -7,6 +7,8 @@ path: /notes/YogeshSharma01/04-04-2021/gsoc-proposal.md
 nid: 26136
 uid: 749112
 
+cids: 28481,28485,28497
+
 ---
 
 # GSoC!proposal: Translation System Refinements

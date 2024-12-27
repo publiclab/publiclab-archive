@@ -7,6 +7,8 @@ path: /notes/ccpandhare/03-18-2017/developing-image-sequencer-as-a-library.md
 nid: 14035
 uid: 503543
 
+cids: 16390,16391,16397,16412,16419,16420,16437,16451,16489,16504,16505,16509,16510
+
 ---
 
 # Developing Image Sequencer as a Library

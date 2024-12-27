@@ -7,6 +7,8 @@ path: /notes/liz/04-26-2013/may-4-ideascity-speechbusters-earth-observation-syst
 nid: 7071
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/125/original/Speechbuster.jpg)

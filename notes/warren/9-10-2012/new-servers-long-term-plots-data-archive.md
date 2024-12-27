@@ -7,6 +7,8 @@ path: /notes/warren/9-10-2012/new-servers-long-term-plots-data-archive.md
 nid: 3725
 uid: 1
 
+cids: 1309,1312
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0627.JPG)

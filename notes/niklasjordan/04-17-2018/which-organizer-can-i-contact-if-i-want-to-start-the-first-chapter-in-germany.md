@@ -7,6 +7,8 @@ path: /notes/niklasjordan/04-17-2018/which-organizer-can-i-contact-if-i-want-to-
 nid: 16163
 uid: 531062
 
+cids: 19436,19441,19445,19446,19454,19456,19508,19509,19512,19532,19533,23069
+
 ---
 
 # Which organizer can I contact if I want to start the first chapter in Germany?

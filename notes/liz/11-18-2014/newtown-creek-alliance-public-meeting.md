@@ -7,6 +7,8 @@ path: /notes/liz/11-18-2014/newtown-creek-alliance-public-meeting.md
 nid: 11367
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/995/original/NCA_publicmeet_2014-11-19.jpg)

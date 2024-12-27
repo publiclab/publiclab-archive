@@ -7,6 +7,8 @@ path: /notes/shannon/12-7-2012/seeing-light.md
 nid: 5152
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Pop Sci.jpg)

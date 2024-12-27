@@ -7,6 +7,8 @@ path: /notes/warren/09-16-2016/is-there-a-water-quality-equivalent-of-smoke-scho
 nid: 13456
 uid: 1
 
+cids: 22295
+
 ---
 
 # Is there a water quality equivalent of Smoke School, the EPA air pollution observer certification?

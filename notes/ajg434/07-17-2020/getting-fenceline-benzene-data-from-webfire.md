@@ -7,6 +7,8 @@ path: /notes/ajg434/07-17-2020/getting-fenceline-benzene-data-from-webfire.md
 nid: 24175
 uid: 704146
 
+cids: 27179
+
 ---
 
 #   Getting Fenceline Benzene Data from WebFire

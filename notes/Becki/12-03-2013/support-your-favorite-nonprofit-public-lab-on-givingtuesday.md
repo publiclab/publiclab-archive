@@ -7,6 +7,8 @@ path: /notes/Becki/12-03-2013/support-your-favorite-nonprofit-public-lab-on-givi
 nid: 9844
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/352/original/PublicLabBarnraising2013Group_webresolution.jpg)

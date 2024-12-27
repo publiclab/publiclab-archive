@@ -7,6 +7,8 @@ path: /notes/levisimons/06-15-2014/carbon-dioxide-monitoring-near-lax.md
 nid: 10573
 uid: 1087
 
+cids: 9259
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/741/original/MapAverage.png)

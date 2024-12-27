@@ -7,6 +7,8 @@ path: /notes/cfastie/09-19-2014/leaffest-aerials.md
 nid: 11162
 uid: 554
 
+cids: 10361
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/895/original/IMG_1883.jpg)

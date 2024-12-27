@@ -7,6 +7,8 @@ path: /notes/cosettespafford/12-30-2015/spectrometry.md
 nid: 12551
 uid: 457275
 
+cids: 13220,13223
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/484/original/DSC_7011.JPG)

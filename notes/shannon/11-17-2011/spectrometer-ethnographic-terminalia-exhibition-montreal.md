@@ -7,6 +7,8 @@ path: /notes/shannon/11-17-2011/spectrometer-ethnographic-terminalia-exhibition-
 nid: 565
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ethnographic-terminalia.jpg)

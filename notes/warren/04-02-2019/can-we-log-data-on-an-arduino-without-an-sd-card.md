@@ -7,6 +7,8 @@ path: /notes/warren/04-02-2019/can-we-log-data-on-an-arduino-without-an-sd-card.
 nid: 18936
 uid: 1
 
+cids: 23624,25456,26392
+
 ---
 
 # Can we log data on an Arduino without an SD card?

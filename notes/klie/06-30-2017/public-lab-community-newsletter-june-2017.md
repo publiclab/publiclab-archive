@@ -7,6 +7,8 @@ path: /notes/klie/06-30-2017/public-lab-community-newsletter-june-2017.md
 nid: 14595
 uid: 441262
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/948/original/Copy_of_PUBLIC_LAB_NEWS.png)

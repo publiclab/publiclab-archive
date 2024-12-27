@@ -7,6 +7,8 @@ path: /notes/GSan/08-28-2015/hackear.md
 nid: 12177
 uid: 426547
 
+cids: 12468
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/310/original/dustduino_post1.png)

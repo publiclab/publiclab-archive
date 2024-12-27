@@ -7,6 +7,8 @@ path: /notes/niklasjordan/04-27-2018/wip-step-by-step-build-a-fine-dust-sensor-w
 nid: 16230
 uid: 531062
 
+cids: 19510,19515
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/774/original/IMG_0261_Kopie.jpg)

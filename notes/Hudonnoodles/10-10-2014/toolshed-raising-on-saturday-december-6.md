@@ -7,6 +7,8 @@ path: /notes/Hudonnoodles/10-10-2014/toolshed-raising-on-saturday-december-6.md
 nid: 11257
 uid: 102
 
+cids: 10531,10563,10566,10567,10571,10578,10592,10706,10714,10781,10782,10783,10784,10785,10786,10787,10789,10796,10797,10798,10829,10830,10857,10859
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/829/original/holiday_party!.jpg)

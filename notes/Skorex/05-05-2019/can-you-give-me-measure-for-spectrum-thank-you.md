@@ -7,6 +7,8 @@ path: /notes/Skorex/05-05-2019/can-you-give-me-measure-for-spectrum-thank-you.md
 nid: 19245
 uid: 588596
 
+cids: 24144,25479
+
 ---
 
 # Can you give me measure for spectrum? Thank you.

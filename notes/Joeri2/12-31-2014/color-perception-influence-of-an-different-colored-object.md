@@ -7,6 +7,8 @@ path: /notes/Joeri2/12-31-2014/color-perception-influence-of-an-different-colore
 nid: 11501
 uid: 433286
 
+cids: 11033,11035
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/555/original/2014-12-24_00.24.33.jpg)

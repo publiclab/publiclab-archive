@@ -7,6 +7,8 @@ path: /notes/pataxte/08-01-2021/mapknitter-export-with-clean-not-fuzzy-borders.m
 nid: 27398
 uid: 559561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/537/original/2021_garden_AUG_1.pdf)

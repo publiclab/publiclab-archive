@@ -7,6 +7,8 @@ path: /notes/umberto_rootman/05-17-2020/cheap-sports-cam-mod.md
 nid: 23655
 uid: 694138
 
+cids: 26823,26824,26828,26832,26837,26846,26859,26860,26863,26864,26867,26871,26957,27016
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/405/original/IMG_20200221_112030.jpg)

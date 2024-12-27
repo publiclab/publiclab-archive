@@ -7,6 +7,8 @@ path: /notes/Giiwedin/08-09-2022/manoomin-at-moss-lake-minneosta.md
 nid: 34845
 uid: 799642
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/974/original/16989047-7FD9-4C80-AFF6-99A4212ED90A.jpeg)

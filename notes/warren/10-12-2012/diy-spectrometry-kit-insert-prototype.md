@@ -7,6 +7,8 @@ path: /notes/warren/10-12-2012/diy-spectrometry-kit-insert-prototype.md
 nid: 4369
 uid: 1
 
+cids: 2653,2654,2661,2662
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0914.JPG)

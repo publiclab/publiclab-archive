@@ -7,6 +7,8 @@ path: /notes/amocorro/05-27-2021/the-united-states-has-a-lot-of-helpful-database
 nid: 26728
 uid: 700923
 
+cids: 28855
+
 ---
 
 # The United States has a lot of helpful databases to identify Environmental Justice communities, are there similar tools being used in Canada?  

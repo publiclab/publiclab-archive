@@ -7,6 +7,8 @@ path: /notes/waynebekke/12-08-2018/how-can-i-obtain-ndvi-value-of-a-photo-of-a-s
 nid: 17837
 uid: 563322
 
+cids: 
+
 ---
 
 # How can I obtain NDVI value of a  photo of a single plant that I took using the Raspberry Pi NoIR with blue filter

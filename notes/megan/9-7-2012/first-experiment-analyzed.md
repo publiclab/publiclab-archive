@@ -7,6 +7,8 @@ path: /notes/megan/9-7-2012/first-experiment-analyzed.md
 nid: 3688
 uid: 775
 
+cids: 1304,1305
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Info correlated in gradient_0.jpg)

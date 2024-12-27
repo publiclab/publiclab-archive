@@ -7,6 +7,8 @@ path: /notes/aelobo/11-27-2016/why-copy-calibration-does-not-apply.md
 nid: 13726
 uid: 496227
 
+cids: 22353
+
 ---
 
 # Why copy calibration does not apply?

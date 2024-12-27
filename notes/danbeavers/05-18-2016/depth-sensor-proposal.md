@@ -7,6 +7,8 @@ path: /notes/danbeavers/05-18-2016/depth-sensor-proposal.md
 nid: 13126
 uid: 51
 
+cids: 14639,14644,17660
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/212/original/manometerLevelSensor.svg)

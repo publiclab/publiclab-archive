@@ -7,6 +7,8 @@ path: /notes/donblair/04-08-2014/ams-science-club-toxics-skycrane-projected-impa
 nid: 10284
 uid: 43651
 
+cids: 8714,8716,8722
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/572/original/skycranefromabove.jpeg)

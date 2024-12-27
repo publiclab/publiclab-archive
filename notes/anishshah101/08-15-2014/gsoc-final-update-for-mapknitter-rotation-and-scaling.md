@@ -7,6 +7,8 @@ path: /notes/anishshah101/08-15-2014/gsoc-final-update-for-mapknitter-rotation-a
 nid: 11059
 uid: 421046
 
+cids: 10017,10018,10027,10028,10030,10034,10037,10114
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/301/original/1.png)

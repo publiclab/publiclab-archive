@@ -7,6 +7,8 @@ path: /notes/warren/6-6-2011/chlorophyll-imaging-track-algal-blooms.md
 nid: 337
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/chlorophyll.png)

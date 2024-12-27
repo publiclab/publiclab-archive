@@ -7,6 +7,8 @@ path: /notes/netham/09-26-2014/can-we-develop-microusb-interfacing-for-public-la
 nid: 11191
 uid: 428266
 
+cids: 10446,10447,10450,10453,10454
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/042/original/photo-171-e1411635820919.jpg)

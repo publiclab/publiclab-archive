@@ -7,6 +7,8 @@ path: /notes/patcoyle/2-14-2013/muffles-junior-college-belize-mapping-sessions-2
 nid: 5978
 uid: 77
 
+cids: 3422
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2416_ac_brt_0.jpg)

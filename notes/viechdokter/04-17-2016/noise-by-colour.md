@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-17-2016/noise-by-colour.md
 nid: 12994
 uid: 468990
 
+cids: 14306,14307,14309,14326,14328,14329,14330,14331,14344,14346,14347,14348,14351,14361,14363,14366,14369,14373,14379,14381,14383,14385,14386
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/627/original/noise_by_colour_header.jpg)

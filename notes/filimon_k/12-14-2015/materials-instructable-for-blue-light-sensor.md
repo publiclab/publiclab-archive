@@ -7,6 +7,8 @@ path: /notes/filimon_k/12-14-2015/materials-instructable-for-blue-light-sensor.m
 nid: 12514
 uid: 460113
 
+cids: 26900
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/307/original/bluelightspec.jpg)

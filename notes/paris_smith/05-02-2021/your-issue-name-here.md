@@ -7,6 +7,8 @@ path: /notes/paris_smith/05-02-2021/your-issue-name-here.md
 nid: 26456
 uid: 754383
 
+cids: 
+
 ---
 
 # Your issue name here

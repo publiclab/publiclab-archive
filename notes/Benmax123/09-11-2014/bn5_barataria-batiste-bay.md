@@ -7,6 +7,8 @@ path: /notes/Benmax123/09-11-2014/bn5_barataria-batiste-bay.md
 nid: 11125
 uid: 428239
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/732/original/bn5-barataria-2014wbckgrnd.jpg)

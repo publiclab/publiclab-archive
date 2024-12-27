@@ -7,6 +7,8 @@ path: /notes/Ag8n/02-12-2018/substitution-for-conductivity-meter.md
 nid: 15716
 uid: 520994
 
+cids: 18429,18430,18431,18436,18446,22924,22925
+
 ---
 
 # Substitution for conductivity meter

@@ -7,6 +7,8 @@ path: /notes/sara/9-11-2011/conversion-gm3-ppm-hydrogen-sulfide.md
 nid: 461
 uid: 8
 
+cids: 4821,4980
+
 ---
 
 # Conversion from µg/m3 to ppm hydrogen sulfide

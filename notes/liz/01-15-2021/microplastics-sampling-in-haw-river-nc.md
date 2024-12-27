@@ -7,6 +7,8 @@ path: /notes/liz/01-15-2021/microplastics-sampling-in-haw-river-nc.md
 nid: 25469
 uid: 7
 
+cids: 27963
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/416/original/IMG_20210115_100917.jpg)

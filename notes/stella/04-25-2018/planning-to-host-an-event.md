@@ -7,6 +7,8 @@ path: /notes/stella/04-25-2018/planning-to-host-an-event.md
 nid: 16210
 uid: 504749
 
+cids: 19490
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/724/original/event_lists2.jpg)

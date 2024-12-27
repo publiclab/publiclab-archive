@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/06-06-2016/using-precision-measurements-for-qualitative-
 nid: 13169
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/503/original/eosiny_PNG_with_serological_pump_and_tip_upload_presentation_june_6PNG.png)

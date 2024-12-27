@@ -7,6 +7,8 @@ path: /notes/liz/05-13-2013/science-hack-day-nyc-balloon-mapping-workshop.md
 nid: 7491
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/247/original/logo_wsf.gif)

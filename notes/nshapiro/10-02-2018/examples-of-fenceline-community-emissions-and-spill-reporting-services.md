@@ -7,6 +7,8 @@ path: /notes/nshapiro/10-02-2018/examples-of-fenceline-community-emissions-and-s
 nid: 17208
 uid: 380298
 
+cids: 20773,23242,23252,23253,23254
+
 ---
 
 # Examples of fenceline community emissions and spill reporting services?

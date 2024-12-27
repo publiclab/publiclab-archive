@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/01-14-2016/recent-pictures-of-my-lab-set-up.md
 nid: 12585
 uid: 461120
 
+cids: 13341
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/642/original/oct14.jpg)

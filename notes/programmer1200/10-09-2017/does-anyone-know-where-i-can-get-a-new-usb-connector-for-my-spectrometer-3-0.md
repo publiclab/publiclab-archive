@@ -7,6 +7,8 @@ path: /notes/programmer1200/10-09-2017/does-anyone-know-where-i-can-get-a-new-us
 nid: 15011
 uid: 509305
 
+cids: 17748,17753,22746
+
 ---
 
 # Does anyone know where I can get a new usb connector for my spectrometer 3.0 ?

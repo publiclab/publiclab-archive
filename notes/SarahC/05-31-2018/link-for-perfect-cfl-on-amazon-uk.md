@@ -7,6 +7,8 @@ path: /notes/SarahC/05-31-2018/link-for-perfect-cfl-on-amazon-uk.md
 nid: 16413
 uid: 448894
 
+cids: 27434
+
 ---
 
 # Link for perfect CFL on Amazon UK? 

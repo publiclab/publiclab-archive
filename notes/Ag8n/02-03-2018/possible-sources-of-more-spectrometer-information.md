@@ -7,6 +7,8 @@ path: /notes/Ag8n/02-03-2018/possible-sources-of-more-spectrometer-information.m
 nid: 15670
 uid: 520994
 
+cids: 18361,18362,23114
+
 ---
 
 # Possible sources of more spectrometer information

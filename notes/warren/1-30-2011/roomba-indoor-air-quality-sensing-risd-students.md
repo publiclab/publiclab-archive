@@ -7,6 +7,8 @@ path: /notes/warren/1-30-2011/roomba-indoor-air-quality-sensing-risd-students.md
 nid: 68
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/5396892754_221d12acf6_b.jpg)

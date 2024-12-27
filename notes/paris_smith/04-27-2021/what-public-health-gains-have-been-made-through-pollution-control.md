@@ -7,6 +7,8 @@ path: /notes/paris_smith/04-27-2021/what-public-health-gains-have-been-made-thro
 nid: 26375
 uid: 754383
 
+cids: 28637,28661,28685
+
 ---
 
 # What public health gains have been made through pollution control?

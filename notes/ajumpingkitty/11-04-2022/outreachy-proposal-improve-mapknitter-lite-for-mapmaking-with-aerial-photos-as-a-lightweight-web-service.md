@@ -7,6 +7,8 @@ path: /notes/ajumpingkitty/11-04-2022/outreachy-proposal-improve-mapknitter-lite
 nid: 36052
 uid: 818804
 
+cids: 30756,30812
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/309/original/pic.jpeg)

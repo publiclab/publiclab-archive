@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/09-13-2017/hydrogen-sulfide-badges-by-morphix-techno
 nid: 14892
 uid: 430549
 
+cids: 17672
+
 ---
 
 # Hydrogen sulfide badges by Morphix Technologies

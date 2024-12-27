@@ -7,6 +7,8 @@ path: /notes/warren/10-17-2012/prototype-raspberry-pi-based-dual-ir-cam.md
 nid: 4471
 uid: 1
 
+cids: 1680,1689,1691,1969,2038,5282
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0923.JPG)

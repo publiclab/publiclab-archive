@@ -7,6 +7,8 @@ path: /notes/donblair/02-28-2014/thermal-flashlight-reva-mostly-built.md
 nid: 10077
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/083/original/thermal.png)

@@ -7,6 +7,8 @@ path: /notes/LukeS/04-22-2016/measuring-indoor-carbon-dioxide-levels-indoor-air-
 nid: 13018
 uid: 455370
 
+cids: 27463
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/742/original/indoor-CO2-measurement-kit.jpg)

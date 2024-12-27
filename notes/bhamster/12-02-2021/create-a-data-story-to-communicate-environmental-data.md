@@ -7,6 +7,8 @@ path: /notes/bhamster/12-02-2021/create-a-data-story-to-communicate-environmenta
 nid: 28326
 uid: 664477
 
+cids: 29484,30311
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/132/original/infographic_sketch_cropped.jpeg)

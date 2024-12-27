@@ -7,6 +7,8 @@ path: /notes/liz/07-31-2013/glam-featured-on-gowanus-your-face-off.md
 nid: 8947
 uid: 7
 
+cids: 6599
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/976/original/Gowanus-Your-Face-Off_%281%29.png)

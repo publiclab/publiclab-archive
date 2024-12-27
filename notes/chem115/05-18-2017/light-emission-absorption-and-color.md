@@ -7,6 +7,8 @@ path: /notes/chem115/05-18-2017/light-emission-absorption-and-color.md
 nid: 14212
 uid: 507574
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/496/original/8277298848_5688256a0a.jpg)

@@ -7,6 +7,8 @@ path: /notes/micahs/02-18-2016/mapknitter-map-of-chain-of-rocks-canal-160218.md
 nid: 12710
 uid: 465997
 
+cids: 13666,13671
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/383/original/IMG_2819.JPG)

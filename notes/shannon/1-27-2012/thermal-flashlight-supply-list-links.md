@@ -7,6 +7,8 @@ path: /notes/shannon/1-27-2012/thermal-flashlight-supply-list-links.md
 nid: 722
 uid: 9
 
+cids: 
+
 ---
 
 # Thermal flashlight with supply list links

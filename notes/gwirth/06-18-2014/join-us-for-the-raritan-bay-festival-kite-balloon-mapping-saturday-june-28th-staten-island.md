@@ -7,6 +7,8 @@ path: /notes/gwirth/06-18-2014/join-us-for-the-raritan-bay-festival-kite-balloon
 nid: 10585
 uid: 30539
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/834/original/Raritan_Bay_Festival_2014_FLyer.jpg)

@@ -7,6 +7,8 @@ path: /notes/Mustapha/09-27-2016/balloon-mapping-images-as-a-way-to-explain-life
 nid: 13492
 uid: 493078
 
+cids: 15505,15997
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/177/original/L1250880.jpg)

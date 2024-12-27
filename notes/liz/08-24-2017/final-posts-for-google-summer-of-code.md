@@ -7,6 +7,8 @@ path: /notes/liz/08-24-2017/final-posts-for-google-summer-of-code.md
 nid: 14788
 uid: 7
 
+cids: 17345
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/408/original/vertical_GSoC_logo.jpg)

@@ -7,6 +7,8 @@ path: /notes/lperovich/08-26-2015/dock-test-data.md
 nid: 12172
 uid: 443410
 
+cids: 12453,12471
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/287/original/dockTest8.25.15.jpg)

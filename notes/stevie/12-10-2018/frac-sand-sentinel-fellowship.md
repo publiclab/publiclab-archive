@@ -7,6 +7,8 @@ path: /notes/stevie/12-10-2018/frac-sand-sentinel-fellowship.md
 nid: 17853
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/258/original/pl-narrow.png)

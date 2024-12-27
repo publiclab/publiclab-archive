@@ -7,6 +7,8 @@ path: /notes/warren/6-3-2011/techpresident-digital-mappers-plot-future-maptivism
 nid: 332
 uid: 1
 
+cids: 
+
 ---
 
 # TechPresident: Digital Mappers Plot the Future of Maptivism

@@ -7,6 +7,8 @@ path: /notes/Marija1508/05-12-2019/spectrometer.md
 nid: 19309
 uid: 590127
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/892/original/mara.jpg)

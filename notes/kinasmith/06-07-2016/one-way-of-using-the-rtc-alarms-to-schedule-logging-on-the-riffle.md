@@ -7,6 +7,8 @@ path: /notes/kinasmith/06-07-2016/one-way-of-using-the-rtc-alarms-to-schedule-lo
 nid: 13171
 uid: 445906
 
+cids: 14719,14720,14721,14722,14724,14725,14726,14735,14737,14765
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/517/original/petting-my-cat-wallpaper-660x3301.jpg)

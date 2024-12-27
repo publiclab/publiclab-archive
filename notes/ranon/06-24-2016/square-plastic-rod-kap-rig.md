@@ -7,6 +7,8 @@ path: /notes/ranon/06-24-2016/square-plastic-rod-kap-rig.md
 nid: 13242
 uid: 477060
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/788/original/Square_Tubing_Rig.jpg)

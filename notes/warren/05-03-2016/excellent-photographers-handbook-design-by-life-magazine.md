@@ -7,6 +7,8 @@ path: /notes/warren/05-03-2016/excellent-photographers-handbook-design-by-life-m
 nid: 13066
 uid: 1
 
+cids: 14512,14526
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/908/original/tmp_8630-IMG_20160503_1356191787192055.jpg)

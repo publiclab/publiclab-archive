@@ -7,6 +7,8 @@ path: /notes/mimiss/05-07-2019/workshop-i-how-do-communities-respond-to-environm
 nid: 19265
 uid: 579821
 
+cids: 28347
+
 ---
 
 # How do communities respond to environmental problems? (Lesson Plan)

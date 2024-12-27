@@ -7,6 +7,8 @@ path: /notes/scotttees/10-09-2018/diy-oil-refinery-air-quality-monitoring.md
 nid: 17260
 uid: 430317
 
+cids: 20838,20856,20874,23250,23255,23257,23302
+
 ---
 
 # DIY Oil Refinery Air Quality Monitoring?

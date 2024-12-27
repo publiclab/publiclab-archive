@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-1-2012/drones-drones-drones.md
 nid: 1879
 uid: 12
 
+cids: 
+
 ---
 
 # Drones Drones Drones

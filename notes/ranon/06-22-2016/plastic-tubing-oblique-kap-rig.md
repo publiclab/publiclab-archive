@@ -7,6 +7,8 @@ path: /notes/ranon/06-22-2016/plastic-tubing-oblique-kap-rig.md
 nid: 13228
 uid: 477060
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/731/original/Tinker_Toy_Rig.jpg)

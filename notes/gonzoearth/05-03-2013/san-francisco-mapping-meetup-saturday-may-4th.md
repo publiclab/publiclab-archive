@@ -7,6 +7,8 @@ path: /notes/gonzoearth/05-03-2013/san-francisco-mapping-meetup-saturday-may-4th
 nid: 7224
 uid: 12
 
+cids: 8824
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/163/original/IMG_7404crpd.jpg)

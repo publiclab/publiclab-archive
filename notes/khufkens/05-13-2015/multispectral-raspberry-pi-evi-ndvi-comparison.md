@@ -7,6 +7,8 @@ path: /notes/khufkens/05-13-2015/multispectral-raspberry-pi-evi-ndvi-comparison.
 nid: 11808
 uid: 438931
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/878/original/Screen_Shot_2015-05-12_at_23.30.04.png)

@@ -7,6 +7,8 @@ path: /notes/liz/10-13-2020/translate-guides.md
 nid: 24746
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/131/original/Screen_Shot_2020-10-13_at_11.22.15_AM.png)

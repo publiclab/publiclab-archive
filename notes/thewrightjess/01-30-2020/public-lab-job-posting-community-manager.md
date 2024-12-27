@@ -7,6 +7,8 @@ path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-community-manager.m
 nid: 22438
 uid: 603909
 
+cids: 26340,26449,27205,27206
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/833/original/Community_Manager.jpg)

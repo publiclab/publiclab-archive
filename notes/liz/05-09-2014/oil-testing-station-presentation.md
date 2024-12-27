@@ -7,6 +7,8 @@ path: /notes/liz/05-09-2014/oil-testing-station-presentation.md
 nid: 10459
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/210/original/IMG_2342.JPG)

@@ -7,6 +7,8 @@ path: /notes/oscar-brett/5-22-2012/may-day-community-aerial.md
 nid: 2163
 uid: 409
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/(P7).jpeg)

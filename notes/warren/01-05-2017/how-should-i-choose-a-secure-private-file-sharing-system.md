@@ -7,6 +7,8 @@ path: /notes/warren/01-05-2017/how-should-i-choose-a-secure-private-file-sharing
 nid: 13840
 uid: 1
 
+cids: 16042,22395
+
 ---
 
 # How should I choose a secure/private file sharing system?

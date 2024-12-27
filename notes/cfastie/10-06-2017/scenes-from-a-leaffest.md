@@ -7,6 +7,8 @@ path: /notes/cfastie/10-06-2017/scenes-from-a-leaffest.md
 nid: 15004
 uid: 554
 
+cids: 17499,17500
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/889/original/leaf2017_20171001-1188.JPG)

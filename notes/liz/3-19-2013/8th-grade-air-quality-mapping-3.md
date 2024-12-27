@@ -7,6 +7,8 @@ path: /notes/liz/3-19-2013/8th-grade-air-quality-mapping-3.md
 nid: 6425
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6 - word cloud of place of origin detail.jpg)

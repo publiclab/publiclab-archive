@@ -7,6 +7,8 @@ path: /notes/liz/8-21-2012/bronx-river-soundview-park-oyster-reef-mapping.md
 nid: 3354
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Oyster spat at Soundview 8_21_12. 3.jpg)

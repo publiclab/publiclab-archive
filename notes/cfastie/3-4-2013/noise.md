@@ -7,6 +7,8 @@ path: /notes/cfastie/3-4-2013/noise.md
 nid: 6197
 uid: 554
 
+cids: 3633,3636,3644
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Noise.PNG)

@@ -7,6 +7,8 @@ path: /notes/sara/5-2-2012/materials-copper-pipe-work.md
 nid: 1887
 uid: 8
 
+cids: 725
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Copperpipe cutting materials.jpg)

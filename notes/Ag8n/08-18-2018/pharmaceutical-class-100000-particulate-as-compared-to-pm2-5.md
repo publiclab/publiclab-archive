@@ -7,6 +7,8 @@ path: /notes/Ag8n/08-18-2018/pharmaceutical-class-100000-particulate-as-compared
 nid: 16959
 uid: 520994
 
+cids: 20449,23214
+
 ---
 
 # Pharmaceutical class 100000 particulate as compared to pm2.5

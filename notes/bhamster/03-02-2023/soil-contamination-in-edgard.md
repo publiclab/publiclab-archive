@@ -7,6 +7,8 @@ path: /notes/bhamster/03-02-2023/soil-contamination-in-edgard.md
 nid: 38735
 uid: 664477
 
+cids: 
+
 ---
 
 # Soil Contamination in Edgard

@@ -7,6 +7,8 @@ path: /notes/stevie/03-22-2017/how-to-visually-document-a-site.md
 nid: 14047
 uid: 422561
 
+cids: 18623,28251,31361
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/903/original/20170304_142516.jpg)

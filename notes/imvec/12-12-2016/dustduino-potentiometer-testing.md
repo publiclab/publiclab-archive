@@ -7,6 +7,8 @@ path: /notes/imvec/12-12-2016/dustduino-potentiometer-testing.md
 nid: 13775
 uid: 495038
 
+cids: 15958,15960,15961,15970,15979,15980,15989,15993,18911
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/023/original/CzfTDQFWQAANJFR.jpg)

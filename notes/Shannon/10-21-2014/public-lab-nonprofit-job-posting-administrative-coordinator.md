@@ -7,6 +7,8 @@ path: /notes/Shannon/10-21-2014/public-lab-nonprofit-job-posting-administrative-
 nid: 11288
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/594/original/plots-logo-transparent.jpg)

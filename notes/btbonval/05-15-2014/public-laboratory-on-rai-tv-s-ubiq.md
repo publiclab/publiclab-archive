@@ -7,6 +7,8 @@ path: /notes/btbonval/05-15-2014/public-laboratory-on-rai-tv-s-ubiq.md
 nid: 10474
 uid: 43229
 
+cids: 10423
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/281/original/raiubiq.png)

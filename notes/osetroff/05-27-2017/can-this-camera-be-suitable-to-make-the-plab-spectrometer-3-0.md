@@ -7,6 +7,8 @@ path: /notes/osetroff/05-27-2017/can-this-camera-be-suitable-to-make-the-plab-sp
 nid: 14233
 uid: 507230
 
+cids: 
+
 ---
 
 # Can this camera be suitable to make the PLAB spectrometer 3.0?

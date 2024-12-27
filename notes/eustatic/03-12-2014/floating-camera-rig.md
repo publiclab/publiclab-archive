@@ -7,6 +7,8 @@ path: /03-12-2014/floating-camera-rig.md
 nid: 10162
 uid: 379
 
+cids: 8475,8478,8487,8488,8511,8514
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/218/original/IMG_4141.JPG)

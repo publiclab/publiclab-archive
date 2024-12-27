@@ -7,6 +7,8 @@ path: /notes/cfastie/6-24-2012/alaska-range-balloon-mapping.md
 nid: 2623
 uid: 554
 
+cids: 953
+
 ---
 
 ![](https://publiclab.org/sites/default/files/CanyonCk3689_120623.jpg)

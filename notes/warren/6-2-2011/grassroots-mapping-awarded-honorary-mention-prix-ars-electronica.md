@@ -7,6 +7,8 @@ path: /notes/warren/6-2-2011/grassroots-mapping-awarded-honorary-mention-prix-ar
 nid: 317
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/prix-ars.png)

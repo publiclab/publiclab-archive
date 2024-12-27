@@ -7,6 +7,8 @@ path: /notes/mimiss/05-09-2019/is-there-a-way-to-use-ground-proximity-data-to-do
 nid: 19286
 uid: 579821
 
+cids: 27692
+
 ---
 
 # Is there a way to use ground-proximity data to do terrain mapping via kite/balloon mapping?

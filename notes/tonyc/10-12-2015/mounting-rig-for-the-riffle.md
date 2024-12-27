@@ -7,6 +7,8 @@ path: /notes/tonyc/10-12-2015/mounting-rig-for-the-riffle.md
 nid: 12292
 uid: 447491
 
+cids: 12711,12712,12751,12762
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/930/original/P_20151012_150854.jpg)

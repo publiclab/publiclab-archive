@@ -7,6 +7,8 @@ path: /notes/Shish/06-13-2018/is-lab-interested-in-expanding-in-india.md
 nid: 16492
 uid: 538067
 
+cids: 23944,23950
+
 ---
 
 # Is lab interested in expanding in India? 

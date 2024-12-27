@@ -7,6 +7,8 @@ path: /notes/warren/03-20-2018/collaboratively-document-an-event-with-a-mini-new
 nid: 15986
 uid: 1
 
+cids: 19067,19120
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/111/original/IMG_20170624_150422_187_%281%29.jpg)

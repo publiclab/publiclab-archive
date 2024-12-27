@@ -7,6 +7,8 @@ path: /notes/tumakin/11-11-2020/counter-intuitive-ndvi-values-in-drought-stresse
 nid: 25044
 uid: 729147
 
+cids: 27667,27670,27671,27678,27716,27718
+
 ---
 
 # Counter-intuitive NDVI values in drought-stressed plants? (RPi NoIR v.2 with a red filter and artificial lighting)

@@ -7,6 +7,8 @@ path: /notes/jsbonillam/04-23-2018/how-does-the-spectral-workbench-intensity-mea
 nid: 16198
 uid: 521899
 
+cids: 
+
 ---
 
 # How does the Spectral Workbench intensity measuring work?

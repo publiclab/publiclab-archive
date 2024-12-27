@@ -7,6 +7,8 @@ path: /notes/sarasage/05-26-2017/getting-gps-in-remote-locations.md
 nid: 14228
 uid: 451398
 
+cids: 16809,16837,16838,16841,22479
+
 ---
 
 # Getting GPS in Remote Locations

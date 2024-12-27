@@ -7,6 +7,8 @@ path: /notes/RQ-05/06-15-2015/modified-mobius-with-pl-red-filter.md
 nid: 11979
 uid: 440673
 
+cids: 11965,16447,16449,16452,16453,16455,16457,16461
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/343/original/IMAG0046.JPG)

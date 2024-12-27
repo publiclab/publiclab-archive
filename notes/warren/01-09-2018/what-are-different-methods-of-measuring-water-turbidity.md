@@ -7,6 +7,8 @@ path: /notes/warren/01-09-2018/what-are-different-methods-of-measuring-water-tur
 nid: 15492
 uid: 1
 
+cids: 22834,23019,25879
+
 ---
 
 # What are different methods of measuring water turbidity?

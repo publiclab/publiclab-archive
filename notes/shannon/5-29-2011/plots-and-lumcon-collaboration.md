@@ -7,6 +7,8 @@ path: /notes/shannon/5-29-2011/plots-and-lumcon-collaboration.md
 nid: 334
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1155.JPG)

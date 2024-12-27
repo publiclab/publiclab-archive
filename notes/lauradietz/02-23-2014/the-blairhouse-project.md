@@ -7,6 +7,8 @@ path: /notes/lauradietz/02-23-2014/the-blairhouse-project.md
 nid: 10058
 uid: 420993
 
+cids: 8329,8330,8334,8337,8338,12705
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/999/original/blair-house-temperature.png)

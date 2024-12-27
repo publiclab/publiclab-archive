@@ -7,6 +7,8 @@ path: /notes/amocorro/03-19-2021/what-is-particulate-matter-pm-and-why-should-yo
 nid: 25981
 uid: 700923
 
+cids: 28375,28397
+
 ---
 
 # What is Particulate Matter (PM) and why should you be concerned? 

@@ -7,6 +7,8 @@ path: /notes/cess/05-09-2018/contribute-to-girlsgetgeeky-on-mozilla-global-sprin
 nid: 16318
 uid: 525958
 
+cids: 19591,19592,19593
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/849/original/sprint.jpg)

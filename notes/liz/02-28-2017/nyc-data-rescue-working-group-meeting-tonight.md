@@ -7,6 +7,8 @@ path: /notes/liz/02-28-2017/nyc-data-rescue-working-group-meeting-tonight.md
 nid: 13970
 uid: 7
 
+cids: 16264
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/679/original/data_rescue_nyc.jpg)

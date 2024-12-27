@@ -7,6 +7,8 @@ path: /notes/ErikHanley11/06-30-2015/preparation-for-pilot-h2s-testing.md
 nid: 12019
 uid: 444638
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/469/original/IMG_3676.JPG)

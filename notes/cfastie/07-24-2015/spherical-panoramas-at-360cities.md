@@ -7,6 +7,8 @@ path: /notes/cfastie/07-24-2015/spherical-panoramas-at-360cities.md
 nid: 12097
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/888/original/AK_0274_2L.jpg)

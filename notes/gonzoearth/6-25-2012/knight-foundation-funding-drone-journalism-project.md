@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-25-2012/knight-foundation-funding-drone-journalism-pro
 nid: 2624
 uid: 12
 
+cids: 
+
 ---
 
 # Knight Foundation funding drone journalism project

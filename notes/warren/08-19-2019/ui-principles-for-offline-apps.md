@@ -7,6 +7,8 @@ path: /notes/warren/08-19-2019/ui-principles-for-offline-apps.md
 nid: 20580
 uid: 1
 
+cids: 25264,25271,25280,25281,25282
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/657/original/Screen_Shot_2019-08-19_at_12.25.13_PM.png)

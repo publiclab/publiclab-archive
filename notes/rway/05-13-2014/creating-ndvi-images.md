@@ -7,6 +7,8 @@ path: /notes/rway/05-13-2014/creating-ndvi-images.md
 nid: 10469
 uid: 423528
 
+cids: 9025,28341
+
 ---
 
 # Creating NDVI images?

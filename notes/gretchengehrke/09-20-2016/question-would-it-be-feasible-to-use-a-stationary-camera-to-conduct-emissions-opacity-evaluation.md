@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/09-20-2016/question-would-it-be-feasible-to-use-a-st
 nid: 13467
 uid: 430549
 
+cids: 15500,22302,22303,22341
+
 ---
 
 # Can we use a timelapse or video camera to monitor particulate air plumes?

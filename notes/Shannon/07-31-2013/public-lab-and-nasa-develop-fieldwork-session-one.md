@@ -7,6 +7,8 @@ path: /notes/Shannon/07-31-2013/public-lab-and-nasa-develop-fieldwork-session-on
 nid: 8946
 uid: 9
 
+cids: 6446,6486
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/973/original/Spectrometer.jpg)

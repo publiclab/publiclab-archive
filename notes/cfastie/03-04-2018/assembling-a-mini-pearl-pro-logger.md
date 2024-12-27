@@ -7,6 +7,8 @@ path: /notes/cfastie/03-04-2018/assembling-a-mini-pearl-pro-logger.md
 nid: 15857
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/811/original/miniPearl_20180225-2684.JPG)

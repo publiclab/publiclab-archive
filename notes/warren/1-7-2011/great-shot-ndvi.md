@@ -7,6 +7,8 @@ path: /notes/warren/1-7-2011/great-shot-ndvi.md
 nid: 44
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/GEDC3685.JPG)

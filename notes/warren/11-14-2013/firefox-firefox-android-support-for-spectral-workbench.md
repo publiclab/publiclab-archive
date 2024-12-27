@@ -7,6 +7,8 @@ path: /notes/warren/11-14-2013/firefox-firefox-android-support-for-spectral-work
 nid: 9781
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/218/original/firefox.png)

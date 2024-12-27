@@ -7,6 +7,8 @@ path: /notes/donblair/08-14-2014/epa-s-advanced-monitoring-tech-demo-day.md
 nid: 11054
 uid: 43651
 
+cids: 10007,10079,10080,10082,10127,10129,10153,10158,10161,10163,10164
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/275/original/epatechdemoday.png)

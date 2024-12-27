@@ -7,6 +7,8 @@ path: /notes/khalil/11-19-2016/collect-data-for-different-bacteria-growth-in-liq
 nid: 13712
 uid: 497529
 
+cids: 15917
+
 ---
 
 # collect data for different bacteria growth in liquid and soil

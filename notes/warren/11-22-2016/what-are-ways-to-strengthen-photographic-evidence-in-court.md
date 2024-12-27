@@ -7,6 +7,8 @@ path: /notes/warren/11-22-2016/what-are-ways-to-strengthen-photographic-evidence
 nid: 13717
 uid: 1
 
+cids: 
+
 ---
 
 # What are ways to strengthen photographic evidence in court?

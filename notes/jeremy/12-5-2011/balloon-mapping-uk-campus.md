@@ -7,6 +7,8 @@ path: /notes/jeremy/12-5-2011/balloon-mapping-uk-campus.md
 nid: 612
 uid: 323
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/img_4293.jpg)

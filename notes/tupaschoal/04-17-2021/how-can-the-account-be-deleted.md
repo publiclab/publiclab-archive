@@ -7,6 +7,8 @@ path: /notes/tupaschoal/04-17-2021/how-can-the-account-be-deleted.md
 nid: 26263
 uid: 478357
 
+cids: 
+
 ---
 
 # How can the account be deleted?

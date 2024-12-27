@@ -7,6 +7,8 @@ path: /notes/liz/01-19-2018/how-do-i-dye-kombucha-leather.md
 nid: 15566
 uid: 7
 
+cids: 18219,19600,19648
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/277/original/KombuchaArt.jpg)

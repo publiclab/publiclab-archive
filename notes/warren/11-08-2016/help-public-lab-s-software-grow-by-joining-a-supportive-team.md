@@ -7,6 +7,8 @@ path: /notes/warren/11-08-2016/help-public-lab-s-software-grow-by-joining-a-supp
 nid: 13687
 uid: 1
 
+cids: 15868,15871,15885,15889,15934,16353,18205,18426,18447,18514,18516,21444,21445,21446,30261,31409
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/731/original/Screenshot_2016-11-08_at_3.53.47_PM.png)

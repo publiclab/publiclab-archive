@@ -7,6 +7,8 @@ path: /notes/mimiss/04-21-2020/live-build-with-public-lab-mini-kites.md
 nid: 23437
 uid: 579821
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/146/original/IMG_2457_2.jpeg)

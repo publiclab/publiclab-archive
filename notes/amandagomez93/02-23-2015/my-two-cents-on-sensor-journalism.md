@@ -7,6 +7,8 @@ path: /notes/amandagomez93/02-23-2015/my-two-cents-on-sensor-journalism.md
 nid: 11618
 uid: 428015
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/058/original/Screen_shot_2015-02-23_at_12.39.24_AM.png)

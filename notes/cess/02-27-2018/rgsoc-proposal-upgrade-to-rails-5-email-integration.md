@@ -7,6 +7,8 @@ path: /notes/cess/02-27-2018/rgsoc-proposal-upgrade-to-rails-5-email-integration
 nid: 15823
 uid: 525958
 
+cids: 18647,18649,18791,18796,18884,18889
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/730/original/upgrade.jpg)

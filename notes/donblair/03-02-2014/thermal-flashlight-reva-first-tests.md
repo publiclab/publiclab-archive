@@ -7,6 +7,8 @@ path: /notes/donblair/03-02-2014/thermal-flashlight-reva-first-tests.md
 nid: 10094
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/111/original/thermalll.png)

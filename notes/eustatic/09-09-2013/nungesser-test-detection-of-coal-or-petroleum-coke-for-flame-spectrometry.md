@@ -7,6 +7,8 @@ path: /09-09-2013/nungesser-test-detection-of-coal-or-petroleum-coke-for-flame-s
 nid: 9304
 uid: 379
 
+cids: 6772,6938
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/444/original/9683150316_dc926982d2_k.jpg)

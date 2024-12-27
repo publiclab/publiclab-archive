@@ -7,6 +7,8 @@ path: /notes/warren/09-03-2014/odyssey-magazine-piece-on-balloon-mapping.md
 nid: 11100
 uid: 1
 
+cids: 10184
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/576/original/IMG_20140903_120308.jpg)

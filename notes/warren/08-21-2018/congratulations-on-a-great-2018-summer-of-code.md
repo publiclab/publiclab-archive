@@ -7,6 +7,8 @@ path: /notes/warren/08-21-2018/congratulations-on-a-great-2018-summer-of-code.md
 nid: 16979
 uid: 1
 
+cids: 20445,20453,21678,21679
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/275/original/Screenshot_2018-08-21_at_10.32.14_PM.png)

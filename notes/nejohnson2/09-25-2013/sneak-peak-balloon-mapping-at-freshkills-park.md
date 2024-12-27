@@ -7,6 +7,8 @@ path: /notes/nejohnson2/09-25-2013/sneak-peak-balloon-mapping-at-freshkills-park
 nid: 9374
 uid: 53894
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/686/original/Screen_Shot_2013-09-25_at_10.48.34_AM.png)

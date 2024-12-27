@@ -7,6 +7,8 @@ path: /notes/5-11-2012/centrum-nauki-kopernik.md
 nid: 2089
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3061_medium_1.JPG)

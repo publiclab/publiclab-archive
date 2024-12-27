@@ -7,6 +7,8 @@ path: /notes/SadiePrego/12-05-2018/soil-testing-data-viz-summer-2019-queensbridg
 nid: 17817
 uid: 562839
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/135/original/queensbridgegogoelmaps.jpg)

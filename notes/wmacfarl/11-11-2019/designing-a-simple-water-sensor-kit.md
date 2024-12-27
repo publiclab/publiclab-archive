@@ -7,6 +7,8 @@ path: /notes/wmacfarl/11-11-2019/designing-a-simple-water-sensor-kit.md
 nid: 21439
 uid: 424597
 
+cids: 25844
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/313/original/IMG_20191110_151320.jpg)

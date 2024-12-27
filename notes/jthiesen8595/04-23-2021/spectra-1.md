@@ -7,6 +7,8 @@ path: /notes/jthiesen8595/04-23-2021/spectra-1.md
 nid: 26320
 uid: 753957
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/454/original/20210423_123045.jpg)

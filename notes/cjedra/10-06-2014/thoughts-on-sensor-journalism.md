@@ -7,6 +7,8 @@ path: /notes/cjedra/10-06-2014/thoughts-on-sensor-journalism.md
 nid: 11242
 uid: 428092
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/325/original/photo_%2857%29.JPG)

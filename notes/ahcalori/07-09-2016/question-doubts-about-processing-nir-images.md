@@ -7,6 +7,8 @@ path: /notes/ahcalori/07-09-2016/question-doubts-about-processing-nir-images.md
 nid: 13274
 uid: 476358
 
+cids: 14895,14896,14897,14898,14903,14904,14906,14907
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/923/original/NDVI_image.jpg)

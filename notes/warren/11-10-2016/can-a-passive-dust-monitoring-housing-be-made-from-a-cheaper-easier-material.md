@@ -7,6 +7,8 @@ path: /notes/warren/11-10-2016/can-a-passive-dust-monitoring-housing-be-made-fro
 nid: 13692
 uid: 1
 
+cids: 15921,22772
+
 ---
 
 # Can a passive dust monitoring housing be made from a cheaper/easier material?

@@ -7,6 +7,8 @@ path: /notes/chalmers/02-19-2017/testing-water-depth-from-camera-image.md
 nid: 13942
 uid: 503143
 
+cids: 16213,16266,16438,26048
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/596/original/carScale.png)

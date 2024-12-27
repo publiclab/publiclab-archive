@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-19-2017/can-commercially-available-water-sensors-
 nid: 14667
 uid: 430549
 
+cids: 22541,22542
+
 ---
 
 # Can commercially available water sensors work with DIY data loggers? 

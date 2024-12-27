@@ -7,6 +7,8 @@ path: /notes/gonzoearth/05-11-2013/public-lab-weekly-newsletter-5-11-13.md
 nid: 7441
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/211/original/logo-boots.png)

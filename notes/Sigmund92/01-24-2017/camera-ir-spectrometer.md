@@ -7,6 +7,8 @@ path: /notes/Sigmund92/01-24-2017/camera-ir-spectrometer.md
 nid: 13874
 uid: 496585
 
+cids: 16094,16124,22417
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/355/original/CS.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/8-11-2012/mobile-thermographer-prototype.md
 nid: 3244
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/screenshot-1344714251131.png)

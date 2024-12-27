@@ -7,6 +7,8 @@ path: /notes/warren/3-8-2012/solar-spectrum-monitoring-setup.md
 nid: 905
 uid: 1
 
+cids: 526,527
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrometer-solar.jpg)

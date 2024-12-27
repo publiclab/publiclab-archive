@@ -7,6 +7,8 @@ path: /notes/Jayla_Ezidore/04-30-2021/building-the-community-microscope-kit.md
 nid: 26422
 uid: 754782
 
+cids: 
+
 ---
 
 # Building The Community Microscope Kit

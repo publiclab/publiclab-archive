@@ -7,6 +7,8 @@ path: /notes/Ag8n/02-17-2018/3-particle-type.md
 nid: 15752
 uid: 520994
 
+cids: 
+
 ---
 
 # 3 particle type

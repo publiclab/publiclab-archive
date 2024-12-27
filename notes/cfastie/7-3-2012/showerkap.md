@@ -7,6 +7,8 @@ path: /notes/cfastie/7-3-2012/showerkap.md
 nid: 2696
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Monashot_120627_2452.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/12-15-2014/multispeq-fluorescence.md
 nid: 11462
 uid: 554
 
+cids: 10950,10951,10953,10954,10967,10968,10969,10970
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/410/original/Barn2014_661.jpg)

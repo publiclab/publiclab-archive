@@ -7,6 +7,8 @@ path: /notes/cfastie/04-17-2014/mobius-and-nir.md
 nid: 10324
 uid: 554
 
+cids: 8807,8889,8890,8891,8893,8894,8896
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/699/original/MobSpyLED.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/11-30-2011/visible-light-spectrometer-2660-4-7nm-bandwidth.m
 nid: 600
 uid: 1
 
+cids: 1248,1261,1262,1264,1268,1283
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrometer.jpeg)

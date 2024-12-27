@@ -7,6 +7,8 @@ path: /notes/deepwinter/8-3-2012/alternate-design-h2s-cannister.md
 nid: 3127
 uid: 808
 
+cids: 1122,1123,17987
+
 ---
 
 ![](https://publiclab.org/sites/default/files/20120803_200549.jpg)

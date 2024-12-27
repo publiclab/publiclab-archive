@@ -7,6 +7,8 @@ path: /notes/bha/4-9-2012/making-small-hamsterball.md
 nid: 1634
 uid: 280
 
+cids: 
+
 ---
 
 # Making a small hamsterball

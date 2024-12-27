@@ -7,6 +7,8 @@ path: /notes/Markos/08-24-2015/klorauto-automated-chlorination.md
 nid: 12164
 uid: 46525
 
+cids: 12432,12480
+
 ---
 
 # Klorauto - Automated Chlorination

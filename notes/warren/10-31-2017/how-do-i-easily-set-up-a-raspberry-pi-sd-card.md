@@ -7,6 +7,8 @@ path: /notes/warren/10-31-2017/how-do-i-easily-set-up-a-raspberry-pi-sd-card.md
 nid: 15133
 uid: 1
 
+cids: 22701,23282
+
 ---
 
 # How do I easily set up a Raspberry Pi SD card?

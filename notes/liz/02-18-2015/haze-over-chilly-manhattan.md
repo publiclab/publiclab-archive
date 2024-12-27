@@ -7,6 +7,8 @@ path: /notes/liz/02-18-2015/haze-over-chilly-manhattan.md
 nid: 11603
 uid: 7
 
+cids: 11185,11186,11187,11188,11258
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/025/original/IMG_4743.JPG)

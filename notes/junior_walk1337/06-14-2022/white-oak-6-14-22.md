@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/06-14-2022/white-oak-6-14-22.md
 nid: 31053
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/766/original/white_oak_6-14-22.jpg)

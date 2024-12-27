@@ -7,6 +7,8 @@ path: /notes/5-17-2012/phoenix-202-freeway-1.md
 nid: 2082
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/1_01.tif.thmb_medium.jpg)

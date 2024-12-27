@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/03-22-2018/search-function-operating-strangely.md
 nid: 16002
 uid: 430549
 
+cids: 19112,23034
+
 ---
 
 # Search function operating strangely?

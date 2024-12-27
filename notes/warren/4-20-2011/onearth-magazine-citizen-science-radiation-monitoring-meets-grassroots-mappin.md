@@ -7,6 +7,8 @@ path: /notes/warren/4-20-2011/onearth-magazine-citizen-science-radiation-monitor
 nid: 185
 uid: 1
 
+cids: 
+
 ---
 
 # OnEarth magazine: Citizen Science : Radiation Monitoring meets Grassroots Mapping with RDTN.org

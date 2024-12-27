@@ -7,6 +7,8 @@ path: /notes/warren/9-19-2011/prototype-h2s-sensor.md
 nid: 470
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/h2s.jpg)

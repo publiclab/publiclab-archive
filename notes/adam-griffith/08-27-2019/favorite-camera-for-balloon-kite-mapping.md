@@ -7,6 +7,8 @@ path: /notes/adam-griffith/08-27-2019/favorite-camera-for-balloon-kite-mapping.m
 nid: 20694
 uid: 3
 
+cids: 25366,25436
+
 ---
 
 # Favorite camera for balloon/kite mapping?

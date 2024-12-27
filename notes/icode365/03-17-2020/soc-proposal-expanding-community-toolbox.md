@@ -7,6 +7,8 @@ path: /notes/icode365/03-17-2020/soc-proposal-expanding-community-toolbox.md
 nid: 23157
 uid: 553778
 
+cids: 26504,26517,26541,26542,26562,26563,26760
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/571/original/banner.png)

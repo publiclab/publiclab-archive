@@ -7,6 +7,8 @@ path: /notes/warren/09-12-2017/where-are-people-compiling-lists-of-potential-pol
 nid: 14886
 uid: 1
 
+cids: 22599,22600,22602
+
 ---
 
 # Where are people compiling lists of potential pollution sites following Hurricane Harvey?

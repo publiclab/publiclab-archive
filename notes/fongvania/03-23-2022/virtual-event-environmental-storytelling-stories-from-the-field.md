@@ -7,6 +7,8 @@ path: /notes/fongvania/03-23-2022/virtual-event-environmental-storytelling-stori
 nid: 30180
 uid: 754846
 
+cids: 29874,29875,29884,29906,29933,29951,29970,29971,29991,30819,30820,30821
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/653/original/Environmental_Storytelling_-_Stories_from_the_Field_v3.png)

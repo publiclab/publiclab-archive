@@ -7,6 +7,8 @@ path: /notes/cindyexcites/8-3-2012/initiative-summary.md
 nid: 3119
 uid: 1083
 
+cids: 
+
 ---
 
 # Initiative summary

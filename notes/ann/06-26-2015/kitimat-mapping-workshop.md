@@ -7,6 +7,8 @@ path: /notes/ann/06-26-2015/kitimat-mapping-workshop.md
 nid: 12015
 uid: 421543
 
+cids: 12104,12259
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/460/original/event_flyer_low.png)

@@ -7,6 +7,8 @@ path: /notes/anjohn12/04-14-2016/question-getting-the-spectrometer-to-work-with-
 nid: 12978
 uid: 465834
 
+cids: 14242,15024,17567,17568,17942,22279
+
 ---
 
 # Getting the spectrometer to work with a Raspberry Pi?

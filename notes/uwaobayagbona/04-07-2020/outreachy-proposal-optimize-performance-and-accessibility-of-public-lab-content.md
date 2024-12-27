@@ -7,6 +7,8 @@ path: /notes/uwaobayagbona/04-07-2020/outreachy-proposal-optimize-performance-an
 nid: 23328
 uid: 674327
 
+cids: 26655
+
 ---
 
 # Outreachy proposal: Optimize Performance and Accessibility of Public Lab Content.

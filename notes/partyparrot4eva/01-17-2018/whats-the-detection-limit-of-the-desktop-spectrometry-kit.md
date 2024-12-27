@@ -7,6 +7,8 @@ path: /notes/partyparrot4eva/01-17-2018/whats-the-detection-limit-of-the-desktop
 nid: 15536
 uid: 522883
 
+cids: 18358,22850,22860
+
 ---
 
 # Whats the detection limit of the Desktop Spectrometry kit?

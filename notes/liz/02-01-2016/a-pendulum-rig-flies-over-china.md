@@ -7,6 +7,8 @@ path: /notes/liz/02-01-2016/a-pendulum-rig-flies-over-china.md
 nid: 12642
 uid: 7
 
+cids: 13450,13451
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/033/original/IMG_3418.JPG)

@@ -7,6 +7,8 @@ path: /notes/Cbdykes/10-19-2016/light-spectra.md
 nid: 13622
 uid: 494926
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/478/original/IMG_2328.JPG)

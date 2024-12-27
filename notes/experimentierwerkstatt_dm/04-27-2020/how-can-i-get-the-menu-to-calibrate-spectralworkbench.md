@@ -7,6 +7,8 @@ path: /notes/experimentierwerkstatt_dm/04-27-2020/how-can-i-get-the-menu-to-cali
 nid: 23483
 uid: 687411
 
+cids: 26705,26706,26713,26714,26715,26716,26717,26718,26719
+
 ---
 
 # How can I get the menu to calibrate SpectralWorkbench?

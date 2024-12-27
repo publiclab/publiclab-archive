@@ -7,6 +7,8 @@ path: /notes/gabriellaruffino7/05-17-2021/collecting-micro-plastics-at-city-park
 nid: 26622
 uid: 756661
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/835/original/Photos_%281%29.zip)

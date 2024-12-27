@@ -7,6 +7,8 @@ path: /notes/julsmill/12-20-2017/i-want-to-know-a-method-to-quantify-milk-protei
 nid: 15403
 uid: 518294
 
+cids: 
+
 ---
 
 # I want to know a method to quantify milk proteins (cow milk, almond milk, coconut milk, oat milk) using the foldable mini spectrometer, Is this possible?

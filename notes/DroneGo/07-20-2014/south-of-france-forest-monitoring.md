@@ -7,6 +7,8 @@ path: /notes/DroneGo/07-20-2014/south-of-france-forest-monitoring.md
 nid: 10713
 uid: 425852
 
+cids: 9568,9569,9577
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/402/original/Test_Drome_NDVI.jpg)

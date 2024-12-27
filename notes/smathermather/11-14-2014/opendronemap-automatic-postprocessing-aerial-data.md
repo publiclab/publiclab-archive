@@ -7,6 +7,8 @@ path: /notes/smathermather/11-14-2014/opendronemap-automatic-postprocessing-aeri
 nid: 11342
 uid: 431062
 
+cids: 10753,10757,10758,10759,10761,10762,10763
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/844/original/balloon.PNG)

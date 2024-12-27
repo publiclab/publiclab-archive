@@ -7,6 +7,8 @@ path: /notes/patcoyle/10-20-2013/results-simple-aerial-photomapping-session-san-
 nid: 9507
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/957/original/IMG_7629_stitch3_NDVI_Color.jpg)

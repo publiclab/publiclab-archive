@@ -7,6 +7,8 @@ path: /notes/cfastie/9-4-2012/spectrometer-kickstarter-mashable.md
 nid: 3633
 uid: 554
 
+cids: 1243
+
 ---
 
 ![](https://publiclab.org/sites/default/files/mashable1_0.jpg)

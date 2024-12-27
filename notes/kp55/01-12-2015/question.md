@@ -7,6 +7,8 @@ path: /notes/kp55/01-12-2015/question.md
 nid: 11516
 uid: 433692
 
+cids: 11037,11391,22929
+
 ---
 
 # Is it possible to log the data from a dustduino without a wifi network?

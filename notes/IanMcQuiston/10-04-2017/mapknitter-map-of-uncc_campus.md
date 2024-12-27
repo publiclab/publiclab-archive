@@ -7,6 +7,8 @@ path: /notes/IanMcQuiston/10-04-2017/mapknitter-map-of-uncc_campus.md
 nid: 14996
 uid: 515281
 
+cids: 
+
 ---
 
 # MapKnitter map of uncc_campus

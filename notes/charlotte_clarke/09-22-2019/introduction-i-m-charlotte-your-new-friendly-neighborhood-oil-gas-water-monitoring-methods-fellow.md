@@ -7,6 +7,8 @@ path: /notes/charlotte_clarke/09-22-2019/introduction-i-m-charlotte-your-new-fri
 nid: 20961
 uid: 510781
 
+cids: 25568
+
 ---
 
 # Introduction: I'm Charlotte, your new friendly neighborhood oil & gas water monitoring methods fellow!

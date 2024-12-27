@@ -7,6 +7,8 @@ path: /notes/DanielleS/03-08-2019/diy-soil-texture-tests-learn-more-about-your-s
 nid: 18491
 uid: 569208
 
+cids: 22099,22233,28282,28287
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/950/original/image.png)

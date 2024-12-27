@@ -7,6 +7,8 @@ path: /notes/gwirth/7-7-2012/vegetation-mapping.md
 nid: 2732
 uid: 30539
 
+cids: 979,1739,1740,6349
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_6490.JPG)

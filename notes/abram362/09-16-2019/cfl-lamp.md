@@ -7,6 +7,8 @@ path: /notes/abram362/09-16-2019/cfl-lamp.md
 nid: 20889
 uid: 619861
 
+cids: 
+
 ---
 
 # CFL Lamp 

@@ -7,6 +7,8 @@ path: /notes/liz/5-11-2012/water-testing-card-idea-fluoride.md
 nid: 1961
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120511_164852.jpg)

@@ -7,6 +7,8 @@ path: /5-18-2012/photos-suburban-forest-recovery-post-katrina.md
 nid: 2131
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Woodlands Conservancy Map Medium.PNG)

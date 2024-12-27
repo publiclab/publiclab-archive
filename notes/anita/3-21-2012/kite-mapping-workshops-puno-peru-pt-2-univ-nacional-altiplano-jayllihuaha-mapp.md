@@ -7,6 +7,8 @@ path: /notes/anita/3-21-2012/kite-mapping-workshops-puno-peru-pt-2-univ-nacional
 nid: 1510
 uid: 481
 
+cids: 542,556
+
 ---
 
 ![](https://publiclab.org/sites/default/files/CIMG2082.jpg)

@@ -7,6 +7,8 @@ path: /notes/ChristianWagley/03-22-2018/recent-community-science-workshop-in-fl.
 nid: 16003
 uid: 521037
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/132/original/IMG-8306.JPG)

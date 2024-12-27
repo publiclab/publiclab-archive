@@ -7,6 +7,8 @@ path: /notes/warren/01-18-2018/software-outreach-modularity-is-great-for-collabo
 nid: 15543
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/197/original/Screenshot_20180117-193940.png)

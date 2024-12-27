@@ -7,6 +7,8 @@ path: /notes/_mahsa_/11-09-2015/oil-testing-kit-assembly-calibration.md
 nid: 12379
 uid: 445603
 
+cids: 12877,12878,12888,12980
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/570/original/undefined)

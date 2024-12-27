@@ -7,6 +7,8 @@ path: /notes/neilh/4-13-2012/erosion-civilisation-storm-storm.md
 nid: 1671
 uid: 698
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/CotatiCreekConfluenceLaguna120413 (05).JPG)

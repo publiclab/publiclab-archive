@@ -7,6 +7,8 @@ path: /notes/stevie/02-09-2017/are-there-any-exemptions-under-the-npdes.md
 nid: 13918
 uid: 422561
 
+cids: 16164,18588,22424,22430,28698
+
 ---
 
 # Are there any exemptions under the NPDES? 

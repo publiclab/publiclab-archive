@@ -7,6 +7,8 @@ path: /notes/warren/04-11-2013/wherecamp-boston-2011-presentation.md
 nid: 6784
 uid: 1
 
+cids: 
+
 ---
 
 # WhereCamp Boston 2011 presentation

@@ -7,6 +7,8 @@ path: /notes/saraortiz1/05-04-2018/sunlight.md
 nid: 16298
 uid: 533200
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/824/original/LUZ_SOL.jpg)

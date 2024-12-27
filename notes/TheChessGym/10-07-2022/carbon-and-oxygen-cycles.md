@@ -7,6 +7,8 @@ path: /notes/TheChessGym/10-07-2022/carbon-and-oxygen-cycles.md
 nid: 35034
 uid: 788868
 
+cids: 30663,30664,30665,30666,30667,30668,30669,30670,30671,30672,30673,30674
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/220/original/carbonandoxygen.jpg)

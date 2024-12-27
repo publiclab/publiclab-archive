@@ -7,6 +7,8 @@ path: /notes/mathew/9-6-2012/thermal-imaging-rh-workshops-camera.md
 nid: 3672
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-09-06 at 5.41.36 PM.png)

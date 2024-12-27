@@ -7,6 +7,8 @@ path: /notes/jenhu/04-03-2018/why-do-the-plant-colors-look-the-way-they-do.md
 nid: 16062
 uid: 517893
 
+cids: 23053
+
 ---
 
 # Why do the plant colors look the way they do?

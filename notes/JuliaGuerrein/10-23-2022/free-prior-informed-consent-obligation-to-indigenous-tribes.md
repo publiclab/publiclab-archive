@@ -7,6 +7,8 @@ path: /notes/JuliaGuerrein/10-23-2022/free-prior-informed-consent-obligation-to-
 nid: 35725
 uid: 796025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/241/original/Untitled_55.png)

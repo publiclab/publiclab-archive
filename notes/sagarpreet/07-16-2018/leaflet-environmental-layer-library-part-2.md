@@ -7,6 +7,8 @@ path: /notes/sagarpreet/07-16-2018/leaflet-environmental-layer-library-part-2.md
 nid: 16724
 uid: 516343
 
+cids: 20136,20141,20144,20274,20275,20276,20277,20636
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/647/original/Screen_Shot_2018-07-03_at_1.54.14_PM.png)

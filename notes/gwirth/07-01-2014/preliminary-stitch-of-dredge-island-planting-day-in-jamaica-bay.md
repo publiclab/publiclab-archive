@@ -7,6 +7,8 @@ path: /notes/gwirth/07-01-2014/preliminary-stitch-of-dredge-island-planting-day-
 nid: 10640
 uid: 30539
 
+cids: 9390,9439,9555
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/075/original/Screen_Shot_2014-06-27_at_2.26.16_PM.png)

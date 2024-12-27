@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-09-2016/another-one-about-over-exposure.md
 nid: 12950
 uid: 468990
 
+cids: 14156,14157,14187
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/443/original/over-exposure.jpg)

@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-1-la-salle-square.md
 nid: 23030
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (1 La Salle Square)

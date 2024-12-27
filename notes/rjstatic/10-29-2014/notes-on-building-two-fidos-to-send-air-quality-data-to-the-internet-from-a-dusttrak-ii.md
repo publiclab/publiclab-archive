@@ -7,6 +7,8 @@ path: /10-29-2014/notes-on-building-two-fidos-to-send-air-quality-data-to-the-in
 nid: 11306
 uid: 174
 
+cids: 10656,10657
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/666/original/20141027_234754.jpg)

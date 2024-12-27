@@ -7,6 +7,8 @@ path: /notes/Trillion_Trees/07-20-2020/trillion-trees-initiative-for-climate-pro
 nid: 24197
 uid: 709175
 
+cids: 27277,27665
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/222/original/TrillionTreesInitiative_org.jpg)

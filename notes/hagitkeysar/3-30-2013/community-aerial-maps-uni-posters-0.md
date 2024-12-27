@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/3-30-2013/community-aerial-maps-uni-posters-0.md
 nid: 6624
 uid: 152
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/seminar-8-4_0.jpg)

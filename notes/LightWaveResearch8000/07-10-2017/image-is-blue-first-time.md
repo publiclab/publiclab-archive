@@ -7,6 +7,8 @@ path: /notes/LightWaveResearch8000/07-10-2017/image-is-blue-first-time.md
 nid: 14637
 uid: 510698
 
+cids: 17019,22521,22531
+
 ---
 
 # Image is blue - First time 

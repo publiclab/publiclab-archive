@@ -7,6 +7,8 @@ path: /notes/kgradow1/10-11-2017/open-shop-at-the-barnraising-useful-if-so-what-
 nid: 15022
 uid: 297929
 
+cids: 17561,22664,22666,22676
+
 ---
 
 # Open shop at the Barnraising:  Useful?  If so, what tools and materials?

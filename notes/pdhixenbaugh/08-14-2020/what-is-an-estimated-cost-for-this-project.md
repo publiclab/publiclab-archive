@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/08-14-2020/what-is-an-estimated-cost-for-this-project.
 nid: 24323
 uid: 459085
 
+cids: 27243,27244,27245
+
 ---
 
 # What is an estimated cost for this project?

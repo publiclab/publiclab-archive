@@ -7,6 +7,8 @@ path: /notes/amocorro/03-19-2021/what-are-people-doing-about-polluted-soils-that
 nid: 25982
 uid: 700923
 
+cids: 28362
+
 ---
 
 # What are people doing about polluted soils that get put back as fill?

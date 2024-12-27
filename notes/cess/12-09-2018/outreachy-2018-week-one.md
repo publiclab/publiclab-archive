@@ -7,6 +7,8 @@ path: /notes/cess/12-09-2018/outreachy-2018-week-one.md
 nid: 17839
 uid: 525958
 
+cids: 21472,21473,21474,21475,21478,21483
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/257/original/CTD10112018213019.jpg)

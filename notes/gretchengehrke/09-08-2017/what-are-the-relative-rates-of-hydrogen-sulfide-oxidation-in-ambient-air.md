@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/09-08-2017/what-are-the-relative-rates-of-hydrogen-s
 nid: 14869
 uid: 430549
 
+cids: 22803
+
 ---
 
 # What are the relative rates of hydrogen sulfide oxidation in ambient air?

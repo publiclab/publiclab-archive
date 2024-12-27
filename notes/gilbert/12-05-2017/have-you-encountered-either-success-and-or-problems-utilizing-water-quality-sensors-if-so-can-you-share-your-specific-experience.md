@@ -7,6 +7,8 @@ path: /notes/gilbert/12-05-2017/have-you-encountered-either-success-and-or-probl
 nid: 15306
 uid: 508551
 
+cids: 
+
 ---
 
 # Have you encountered either success and/or problems utilizing water quality sensors? If so, can you share your specific experience?

@@ -7,6 +7,8 @@ path: /3-7-2013/green-slice-shots-kite-lesson-mr-mortons-class-0.md
 nid: 6235
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8538250418_4610da0417_o.jpg)

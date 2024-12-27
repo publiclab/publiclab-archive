@@ -7,6 +7,8 @@ path: /notes/liz/03-01-2017/make-or-buy-public-lab-s-balloon-mapping-kit.md
 nid: 13978
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/697/original/balloonmappingkit.jpg)

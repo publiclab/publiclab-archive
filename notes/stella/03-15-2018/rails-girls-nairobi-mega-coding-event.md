@@ -7,6 +7,8 @@ path: /notes/stella/03-15-2018/rails-girls-nairobi-mega-coding-event.md
 nid: 15962
 uid: 504749
 
+cids: 18966,18967,18970,18971,18975,18977,19033,19078,19095,19451,19453,19457
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/084/original/IMG_1673.JPG)

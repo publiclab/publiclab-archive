@@ -7,6 +7,8 @@ path: /notes/MaggPi/03-20-2018/gsoc-proposal-computer-vision-enhancements-for-ra
 nid: 15978
 uid: 501996
 
+cids: 19502,19504,19516,19517,19551,19609,19615,19617,19618,19622,19649,19650,19651,19713,19721,19724,19725,19809,20076,20083,20394,20410,20411,20422,20439
+
 ---
 
 # GSoC proposal: Computer Vision enhancements for Raspberry Pi based Public Lab Science Projects

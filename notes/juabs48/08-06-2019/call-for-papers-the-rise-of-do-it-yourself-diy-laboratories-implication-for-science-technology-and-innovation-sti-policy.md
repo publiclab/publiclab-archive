@@ -7,6 +7,8 @@ path: /notes/juabs48/08-06-2019/call-for-papers-the-rise-of-do-it-yourself-diy-l
 nid: 20440
 uid: 609260
 
+cids: 25213
+
 ---
 
 # Call for papers: The rise of Do-It-Yourself (DIY) Laboratories: Implication for Science, Technology, and Innovation (STI) Policy

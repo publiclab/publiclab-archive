@@ -7,6 +7,8 @@ path: /notes/GSan/05-30-2016/therminator-box-thermal-arduino-incubator-box.md
 nid: 13155
 uid: 426547
 
+cids: 14708,14711
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/436/original/IMG_7433_v1.JPG)

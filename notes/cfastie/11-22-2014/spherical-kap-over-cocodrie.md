@@ -7,6 +7,8 @@ path: /notes/cfastie/11-22-2014/spherical-kap-over-cocodrie.md
 nid: 11385
 uid: 554
 
+cids: 10827,10896
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/070/original/Barn2014_1580.jpg)

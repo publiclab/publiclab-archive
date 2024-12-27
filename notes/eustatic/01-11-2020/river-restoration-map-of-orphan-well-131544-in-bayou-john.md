@@ -7,6 +7,8 @@ path: /01-11-2020/river-restoration-map-of-orphan-well-131544-in-bayou-john.md
 nid: 22293
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/609/original/IMG_0124_orphan_well_destroyed_30_acres_now_healing.JPG)

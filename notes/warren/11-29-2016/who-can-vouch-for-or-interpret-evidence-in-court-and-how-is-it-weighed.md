@@ -7,6 +7,8 @@ path: /notes/warren/11-29-2016/who-can-vouch-for-or-interpret-evidence-in-court-
 nid: 13731
 uid: 1
 
+cids: 
+
 ---
 
 # Who can vouch for, or interpret, evidence in court, and how is it weighed?

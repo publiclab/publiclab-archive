@@ -7,6 +7,8 @@ path: /notes/liz/01-20-2017/edgi-foia-event-at-cuny-in-new-york-city-online.md
 nid: 13868
 uid: 7
 
+cids: 16088,16093,16095
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/378/original/CUNYFOIA.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/10-05-2018/fun-with-u-blox.md
 nid: 17228
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/798/original/satsworbits.PNG)

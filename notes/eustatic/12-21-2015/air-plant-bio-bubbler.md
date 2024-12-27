@@ -7,6 +7,8 @@ path: /12-21-2015/air-plant-bio-bubbler.md
 nid: 12535
 uid: 379
 
+cids: 13181,13191,13196
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/420/original/23521261750_3234da2081_z.jpg)

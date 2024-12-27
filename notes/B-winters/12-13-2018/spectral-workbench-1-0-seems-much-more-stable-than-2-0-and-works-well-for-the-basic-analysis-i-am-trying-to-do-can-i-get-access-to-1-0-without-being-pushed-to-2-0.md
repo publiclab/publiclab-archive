@@ -7,6 +7,8 @@ path: /notes/B-winters/12-13-2018/spectral-workbench-1-0-seems-much-more-stable-
 nid: 17889
 uid: 563397
 
+cids: 23314
+
 ---
 
 # Spectral Workbench 1.0 seems much more stable than 2.0 and works well for the basic analysis I am trying to do, can I get access to 1.0 without being pushed to 2.0?

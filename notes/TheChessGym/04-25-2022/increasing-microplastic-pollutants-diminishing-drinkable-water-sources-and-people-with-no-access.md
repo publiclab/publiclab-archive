@@ -7,6 +7,8 @@ path: /notes/TheChessGym/04-25-2022/increasing-microplastic-pollutants-diminishi
 nid: 30589
 uid: 788868
 
+cids: 31184
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/521/original/lakeclark.jpg)

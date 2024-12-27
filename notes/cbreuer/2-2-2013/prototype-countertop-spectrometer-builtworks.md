@@ -7,6 +7,8 @@ path: /notes/cbreuer/2-2-2013/prototype-countertop-spectrometer-builtworks.md
 nid: 5875
 uid: 49682
 
+cids: 3309,3320
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Photo 3.jpg)

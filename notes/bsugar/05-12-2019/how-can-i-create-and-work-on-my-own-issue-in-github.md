@@ -7,6 +7,8 @@ path: /notes/bsugar/05-12-2019/how-can-i-create-and-work-on-my-own-issue-in-gith
 nid: 19308
 uid: 217812
 
+cids: 24119,24120,24121,24122,26687
+
 ---
 
 # How can I create and work on my own issue in Github? 

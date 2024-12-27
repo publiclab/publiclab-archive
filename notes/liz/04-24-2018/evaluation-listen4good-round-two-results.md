@@ -7,6 +7,8 @@ path: /notes/liz/04-24-2018/evaluation-listen4good-round-two-results.md
 nid: 16206
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/722/original/Listen4Good-1024x762.png)

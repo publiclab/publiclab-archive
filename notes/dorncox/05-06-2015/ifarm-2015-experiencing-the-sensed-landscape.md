@@ -7,6 +7,8 @@ path: /notes/dorncox/05-06-2015/ifarm-2015-experiencing-the-sensed-landscape.md
 nid: 11790
 uid: 1205
 
+cids: 11660,11662,11665
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/817/original/IMG_0296.JPG)

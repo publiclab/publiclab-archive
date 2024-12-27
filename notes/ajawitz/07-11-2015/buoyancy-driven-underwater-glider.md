@@ -7,6 +7,8 @@ path: /notes/ajawitz/07-11-2015/buoyancy-driven-underwater-glider.md
 nid: 12049
 uid: 294634
 
+cids: 12232,12342,12348,12349,12351,12355,12356,12360,12361,12366,12367,15752
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/009/original/BallGlider.jpg)

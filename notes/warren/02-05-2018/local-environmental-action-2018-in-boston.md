@@ -7,6 +7,8 @@ path: /notes/warren/02-05-2018/local-environmental-action-2018-in-boston.md
 nid: 15689
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/464/original/Screenshot_2018-02-05_at_5.07.06_PM.png)

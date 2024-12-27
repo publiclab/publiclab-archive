@@ -7,6 +7,8 @@ path: /02-19-2014/history-the-first-aerial-photographers-of-new-orleans.md
 nid: 10048
 uid: 379
 
+cids: 8324
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/943/original/RichC_annotated_NOLA.png)

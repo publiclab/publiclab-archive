@@ -7,6 +7,8 @@ path: /notes/stevie/02-24-2022/what-are-some-good-trouble-shooting-tips-for-inst
 nid: 30080
 uid: 422561
 
+cids: 29718,29899,29900,29901
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/530/original/PurpleAirPhoto2.png)

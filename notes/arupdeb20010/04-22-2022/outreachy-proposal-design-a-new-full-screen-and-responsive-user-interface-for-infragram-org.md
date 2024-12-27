@@ -7,6 +7,8 @@ path: /notes/arupdeb20010/04-22-2022/outreachy-proposal-design-a-new-full-screen
 nid: 30574
 uid: 796187
 
+cids: 30123,30134
+
 ---
 
 # Outreachy proposal: Design a new full-screen and Responsive  user interface for Infragram.org

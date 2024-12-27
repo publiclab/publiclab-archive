@@ -7,6 +7,8 @@ path: /09-08-2015/mardi-gras-pass-is-digging-in-and-building-out-summer-2015-map
 nid: 12203
 uid: 379
 
+cids: 12506
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/509/original/11947763_10104785512696040_5556034842542079026_o_1_.jpg)

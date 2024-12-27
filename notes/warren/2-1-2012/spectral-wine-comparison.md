@@ -7,6 +7,8 @@ path: /notes/warren/2-1-2012/spectral-wine-comparison.md
 nid: 738
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/wine-comparison.png)

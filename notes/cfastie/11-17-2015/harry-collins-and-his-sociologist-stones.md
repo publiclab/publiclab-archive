@@ -7,6 +7,8 @@ path: /notes/cfastie/11-17-2015/harry-collins-and-his-sociologist-stones.md
 nid: 12418
 uid: 554
 
+cids: 12913,12917,12919
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/766/original/BarnRaisins.jpg)

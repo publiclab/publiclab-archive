@@ -7,6 +7,8 @@ path: /notes/TheChessGym/03-03-2022/where-are-missing-99-of-microplastic-polluti
 nid: 30095
 uid: 788868
 
+cids: 29746
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/456/original/OIP.jpg)

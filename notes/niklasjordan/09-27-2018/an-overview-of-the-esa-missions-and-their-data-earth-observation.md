@@ -7,6 +7,8 @@ path: /notes/niklasjordan/09-27-2018/an-overview-of-the-esa-missions-and-their-d
 nid: 17183
 uid: 531062
 
+cids: 20735,20770,21111,21115
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/694/original/Aeolus_separation.jpg)

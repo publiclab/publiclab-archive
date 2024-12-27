@@ -7,6 +7,8 @@ path: /notes/gonzoearth/4-23-2012/light-aircraft-aerial-mapping-setup.md
 nid: 1759
 uid: 12
 
+cids: 626,627,628,629,635
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1052_0.JPG)

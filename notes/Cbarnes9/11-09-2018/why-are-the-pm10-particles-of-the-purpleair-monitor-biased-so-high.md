@@ -7,6 +7,8 @@ path: /notes/Cbarnes9/11-09-2018/why-are-the-pm10-particles-of-the-purpleair-mon
 nid: 17497
 uid: 558529
 
+cids: 21208,21210,21228,21231,21289,23278,23291
+
 ---
 
 # Why are the PM10 particles of the Purpleair monitor biased so high?

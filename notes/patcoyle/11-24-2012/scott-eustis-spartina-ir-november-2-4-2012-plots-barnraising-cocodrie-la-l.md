@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-24-2012/scott-eustis-spartina-ir-november-2-4-2012-plot
 nid: 5014
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_4744_NDVI_Color.jpg)

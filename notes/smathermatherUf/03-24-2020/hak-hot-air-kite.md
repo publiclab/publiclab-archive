@@ -7,6 +7,8 @@ path: /notes/smathermatherUf/03-24-2020/hak-hot-air-kite.md
 nid: 23203
 uid: 596011
 
+cids: 26613,26614,26666,26669
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/710/original/hak1.jpg)

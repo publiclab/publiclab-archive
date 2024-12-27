@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/05-25-2022/edwight-5-24-22.md
 nid: 30905
 uid: 756318
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/696/original/birchtonSunny.00_01_54_04.Still003.jpg)

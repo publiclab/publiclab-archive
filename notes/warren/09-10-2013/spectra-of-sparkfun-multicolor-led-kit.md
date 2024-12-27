@@ -7,6 +7,8 @@ path: /notes/warren/09-10-2013/spectra-of-sparkfun-multicolor-led-kit.md
 nid: 9312
 uid: 1
 
+cids: 6784,6785
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/474/original/Screen_Shot_2013-09-09_at_11.37.56_PM.png)

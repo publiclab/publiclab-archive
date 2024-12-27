@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/02-21-2017/epa-method-22-visual-determination-of-fug
 nid: 13944
 uid: 430549
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/602/original/SmokeFlare_donnan_dot_com.jpeg)

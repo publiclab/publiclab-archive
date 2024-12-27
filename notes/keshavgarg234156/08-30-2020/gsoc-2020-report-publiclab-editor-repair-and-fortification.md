@@ -7,6 +7,8 @@ path: /notes/keshavgarg234156/08-30-2020/gsoc-2020-report-publiclab-editor-repai
 nid: 24483
 uid: 613595
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/740/original/GSoC_-_Vertical_Narrow_-_Gray_Text_-_White_BG.png)

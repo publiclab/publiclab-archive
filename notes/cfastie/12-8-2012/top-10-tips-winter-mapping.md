@@ -7,6 +7,8 @@ path: /notes/cfastie/12-8-2012/top-10-tips-winter-mapping.md
 nid: 5161
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/LincPk-20120310-108-102_1.jpg)

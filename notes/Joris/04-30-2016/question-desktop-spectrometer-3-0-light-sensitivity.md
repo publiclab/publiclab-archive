@@ -7,6 +7,8 @@ path: /notes/Joris/04-30-2016/question-desktop-spectrometer-3-0-light-sensitivit
 nid: 13055
 uid: 471889
 
+cids: 14484
+
 ---
 
 # Question: desktop spectrometer 3.0 light sensitivity

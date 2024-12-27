@@ -7,6 +7,8 @@ path: /notes/gonzoearth/8-15-2012/military-now-flying-surveliance-balloons-2000-
 nid: 3295
 uid: 12
 
+cids: 
+
 ---
 
 # Military now flying surveliance balloons at 2,000' on U.S. Border

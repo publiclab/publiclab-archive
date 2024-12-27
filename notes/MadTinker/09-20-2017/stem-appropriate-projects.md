@@ -7,6 +7,8 @@ path: /notes/MadTinker/09-20-2017/stem-appropriate-projects.md
 nid: 14926
 uid: 461206
 
+cids: 17423,22623
+
 ---
 
 # STEM appropriate projects?

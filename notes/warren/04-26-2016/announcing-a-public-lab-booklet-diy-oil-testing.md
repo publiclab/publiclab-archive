@@ -7,6 +7,8 @@ path: /notes/warren/04-26-2016/announcing-a-public-lab-booklet-diy-oil-testing.m
 nid: 13032
 uid: 1
 
+cids: 14534
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/787/original/IMG_20160420_111959-2.jpg)

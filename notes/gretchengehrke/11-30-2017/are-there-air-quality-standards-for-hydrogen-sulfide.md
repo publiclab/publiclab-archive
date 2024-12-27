@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/11-30-2017/are-there-air-quality-standards-for-hydro
 nid: 15272
 uid: 430549
 
+cids: 22766
+
 ---
 
 # Are there air quality standards for hydrogen sulfide? 

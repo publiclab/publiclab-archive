@@ -7,6 +7,8 @@ path: /notes/klie/11-17-2016/where-can-i-get-a-latching-push-button-that-isn-t-e
 nid: 13710
 uid: 441262
 
+cids: 15857,15859,15860,22351
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/854/original/Untitled_design.jpg)

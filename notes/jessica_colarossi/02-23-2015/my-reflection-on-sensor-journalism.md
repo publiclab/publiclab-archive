@@ -7,6 +7,8 @@ path: /notes/jessica_colarossi/02-23-2015/my-reflection-on-sensor-journalism.md
 nid: 11631
 uid: 435609
 
+cids: 
+
 ---
 
 # My Reflection on Sensor Journalism 

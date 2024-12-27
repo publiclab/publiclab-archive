@@ -7,6 +7,8 @@ path: /notes/stevie/02-09-2017/evaluation-listen4good-round-one-results.md
 nid: 13914
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/519/original/20160709_143453.jpg)

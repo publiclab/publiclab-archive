@@ -7,6 +7,8 @@ path: /notes/tonyc/07-01-2016/capturing-location-information-with-trap-cam.md
 nid: 13253
 uid: 447491
 
+cids: 14852,14855,14857,14860,14862
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/829/original/HPIM8466-R-_Wyatt_Run_mud_INTO_Fishing_crk.JPG)

@@ -7,6 +7,8 @@ path: /notes/mimiss/04-21-2020/building-miniature-kites.md
 nid: 23411
 uid: 579821
 
+cids: 26730
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/134/original/IMG_2422.jpeg)

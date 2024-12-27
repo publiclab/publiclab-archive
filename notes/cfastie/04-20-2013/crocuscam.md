@@ -7,6 +7,8 @@ path: /notes/cfastie/04-20-2013/crocuscam.md
 nid: 6924
 uid: 554
 
+cids: 4559,11169,11171
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/096/original/Rosco-201335583.jpg)

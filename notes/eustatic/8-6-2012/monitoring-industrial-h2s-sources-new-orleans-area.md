@@ -7,6 +7,8 @@ path: /8-6-2012/monitoring-industrial-h2s-sources-new-orleans-area.md
 nid: 3151
 uid: 379
 
+cids: 1125
+
 ---
 
 ![](https://publiclab.org/sites/default/files/norco-flare-2.jpg)

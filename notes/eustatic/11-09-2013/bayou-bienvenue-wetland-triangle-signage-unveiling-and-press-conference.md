@@ -7,6 +7,8 @@ path: /11-09-2013/bayou-bienvenue-wetland-triangle-signage-unveiling-and-press-c
 nid: 9756
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/186/original/10506242995_cf27e0e056_1_.jpg)

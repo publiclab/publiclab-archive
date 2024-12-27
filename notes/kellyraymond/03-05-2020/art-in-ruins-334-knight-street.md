@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-334-knight-street.md
 nid: 23042
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (334 Knight Street)

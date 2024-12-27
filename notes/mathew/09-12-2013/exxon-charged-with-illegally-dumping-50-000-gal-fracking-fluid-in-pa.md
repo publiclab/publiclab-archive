@@ -7,6 +7,8 @@ path: /notes/mathew/09-12-2013/exxon-charged-with-illegally-dumping-50-000-gal-f
 nid: 9318
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/498/original/Exxon-logo_0.gif)

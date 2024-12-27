@@ -7,6 +7,8 @@ path: /notes/warren/10-04-2018/reply-by-email-a-new-way-to-use-publiclab-org.md
 nid: 17227
 uid: 1
 
+cids: 20798,20801,20802,20803,20804,20808,20810,30999,31408
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/790/original/Screen_Shot_2018-10-04_at_5.47.00_PM.png)

@@ -7,6 +7,8 @@ path: /notes/warren/6-5-2011/great-band-color-tool-american-museum-natural-histo
 nid: 330
 uid: 1
 
+cids: 17376
+
 ---
 
 ![](https://publiclab.org/sites/default/files/amnh.png)

@@ -7,6 +7,8 @@ path: /notes/warren/10-20-2017/update-firmware-on-the-mobius-action-cam.md
 nid: 15074
 uid: 1
 
+cids: 
+
 ---
 
 # Update firmware on the Mobius Action Cam

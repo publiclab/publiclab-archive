@@ -7,6 +7,8 @@ path: /notes/cfastie/03-27-2014/the-redstone-rig-is-ready.md
 nid: 10230
 uid: 554
 
+cids: 8599,8601
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/408/original/3Dstore-363-121.jpg)

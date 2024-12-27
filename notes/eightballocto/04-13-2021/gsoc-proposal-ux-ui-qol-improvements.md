@@ -7,6 +7,8 @@ path: /notes/eightballocto/04-13-2021/gsoc-proposal-ux-ui-qol-improvements.md
 nid: 26225
 uid: 751770
 
+cids: 28808
+
 ---
 
 # GSoC!proposal:  UX/UI QoL Improvements

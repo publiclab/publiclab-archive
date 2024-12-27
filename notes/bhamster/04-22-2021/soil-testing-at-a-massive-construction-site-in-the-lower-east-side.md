@@ -7,6 +7,8 @@ path: /notes/bhamster/04-22-2021/soil-testing-at-a-massive-construction-site-in-
 nid: 25829
 uid: 664477
 
+cids: 28417,31472
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/086/original/ERPA_sign.jpg)

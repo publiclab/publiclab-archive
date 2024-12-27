@@ -7,6 +7,8 @@ path: /notes/julsy709/12-18-2014/thermal-camera-used-for-community-mapping.md
 nid: 11481
 uid: 432717
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/487/original/churchillsquaremapping.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/07-17-2013/balancing-act.md
 nid: 8900
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/821/original/BlueOrig.jpg)

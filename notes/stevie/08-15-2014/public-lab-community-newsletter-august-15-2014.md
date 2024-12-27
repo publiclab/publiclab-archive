@@ -7,6 +7,8 @@ path: /notes/stevie/08-15-2014/public-lab-community-newsletter-august-15-2014.md
 nid: 11060
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/311/original/plots-logo-text.gif)

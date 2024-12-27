@@ -7,6 +7,8 @@ path: /notes/gpenzo/02-09-2014/nvdi-with-canon-a2500.md
 nid: 10024
 uid: 420719
 
+cids: 8203,8210,8301,8360,8371
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/855/original/CRW_0042_NDVI_Float.jpg)

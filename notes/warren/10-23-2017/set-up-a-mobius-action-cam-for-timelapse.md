@@ -7,6 +7,8 @@ path: /notes/warren/10-23-2017/set-up-a-mobius-action-cam-for-timelapse.md
 nid: 15083
 uid: 1
 
+cids: 
+
 ---
 
 # Set up a Mobius Action Cam for timelapse 

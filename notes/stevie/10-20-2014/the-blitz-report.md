@@ -7,6 +7,8 @@ path: /notes/stevie/10-20-2014/the-blitz-report.md
 nid: 11280
 uid: 422561
 
+cids: 10583,10585,10586,11025
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/548/original/IMG_1154.JPG)

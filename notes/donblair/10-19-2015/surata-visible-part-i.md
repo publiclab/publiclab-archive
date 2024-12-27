@@ -7,6 +7,8 @@ path: /notes/donblair/10-19-2015/surata-visible-part-i.md
 nid: 12316
 uid: 43651
 
+cids: 12763,12768
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/989/original/IMG_20150731_114647287.jpg)

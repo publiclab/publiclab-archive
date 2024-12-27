@@ -7,6 +7,8 @@ path: /notes/seong/2-18-2012/thermal-image-experiments-london-citizen-cyberscien
 nid: 810
 uid: 533
 
+cids: 493,25816,25821
+
 ---
 
 # Thermal image experiments at London citizen cyberscience summit 2012

@@ -7,6 +7,8 @@ path: /notes/warren/2-10-2012/temperature-during-thatchmore-farms-flight.md
 nid: 776
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/thatchmore-flight.png)

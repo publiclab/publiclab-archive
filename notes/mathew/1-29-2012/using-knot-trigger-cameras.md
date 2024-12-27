@@ -7,6 +7,8 @@ path: /notes/mathew/1-29-2012/using-knot-trigger-cameras.md
 nid: 724
 uid: 4
 
+cids: 16176,16201
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6786473357_b8d5d4a382.jpg)

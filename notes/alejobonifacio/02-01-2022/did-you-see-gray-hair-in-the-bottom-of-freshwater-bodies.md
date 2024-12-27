@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/02-01-2022/did-you-see-gray-hair-in-the-bottom-of-fr
 nid: 29038
 uid: 639376
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/333/original/PeloGrisActPortada.jpeg)

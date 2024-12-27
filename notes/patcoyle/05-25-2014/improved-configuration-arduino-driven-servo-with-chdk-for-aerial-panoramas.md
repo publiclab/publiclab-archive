@@ -7,6 +7,8 @@ path: /notes/patcoyle/05-25-2014/improved-configuration-arduino-driven-servo-wit
 nid: 10512
 uid: 77
 
+cids: 9082,9083,9085
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/460/original/IMG_4545.JPG)

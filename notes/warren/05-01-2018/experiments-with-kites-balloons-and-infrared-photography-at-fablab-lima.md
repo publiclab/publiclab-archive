@@ -7,6 +7,8 @@ path: /notes/warren/05-01-2018/experiments-with-kites-balloons-and-infrared-phot
 nid: 45
 uid: 1
 
+cids: 26,20640
+
 ---
 
 # Experiments with kites, balloons, and infrared photography at FabLab Lima

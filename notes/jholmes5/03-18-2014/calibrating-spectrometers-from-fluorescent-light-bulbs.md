@@ -7,6 +7,8 @@ path: /notes/jholmes5/03-18-2014/calibrating-spectrometers-from-fluorescent-ligh
 nid: 10197
 uid: 133222
 
+cids: 8534,8535
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/302/original/Museum_office_1.jpg)

@@ -7,6 +7,8 @@ path: /notes/groundworknola/5-9-2013/youth-mapping-experiences.md
 nid: 7360
 uid: 41249
 
+cids: 4655,4692,4694
+
 ---
 
 # Youth Mapping Experiences

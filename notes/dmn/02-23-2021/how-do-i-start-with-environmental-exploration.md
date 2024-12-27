@@ -7,6 +7,8 @@ path: /notes/dmn/02-23-2021/how-do-i-start-with-environmental-exploration.md
 nid: 25781
 uid: 741007
 
+cids: 28243,28258
+
 ---
 
 # How do I start with environmental exploration?

@@ -7,6 +7,8 @@ path: /notes/giuliooooo/01-09-2018/how-can-i-have-a-value-of-ndvi-starting-from-
 nid: 15488
 uid: 522105
 
+cids: 18143
+
 ---
 
 # How can I have a value of NDVI starting from a IR picture? I want to find a numeric value of NDVI in pictures teken with a normal camera without IR filter. is it possible? 

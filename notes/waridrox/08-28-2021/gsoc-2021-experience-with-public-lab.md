@@ -7,6 +7,8 @@ path: /notes/waridrox/08-28-2021/gsoc-2021-experience-with-public-lab.md
 nid: 27630
 uid: 745996
 
+cids: 29197
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/748/original/1*tsw1ypPVNddLK3yF7G33JQ.png)

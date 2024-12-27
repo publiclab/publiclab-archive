@@ -7,6 +7,8 @@ path: /notes/mathew/3-12-2013/open-sourcehackable-camera-platforms.md
 nid: 6311
 uid: 4
 
+cids: 
+
 ---
 
 # Open Source/hackable Camera platforms

@@ -7,6 +7,8 @@ path: /notes/5-11-2012/pomnik-nad-wis.md
 nid: 2088
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2641_medium_0.JPG)

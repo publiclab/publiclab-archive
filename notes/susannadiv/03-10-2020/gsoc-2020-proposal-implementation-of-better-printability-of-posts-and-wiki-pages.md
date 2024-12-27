@@ -7,6 +7,8 @@ path: /notes/susannadiv/03-10-2020/gsoc-2020-proposal-implementation-of-better-p
 nid: 23115
 uid: 670493
 
+cids: 26462,26463,26480,26498,26544,26566,26570,26582,26583
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/400/original/GSoC_-_Vertical_Narrow_-_Gray_Text_-_White_BG.png)

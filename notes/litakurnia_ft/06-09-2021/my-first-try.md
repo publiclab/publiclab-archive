@@ -7,6 +7,8 @@ path: /notes/litakurnia_ft/06-09-2021/my-first-try.md
 nid: 26795
 uid: 759343
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/103/original/blob)

@@ -7,6 +7,8 @@ path: /notes/nitrous2022/09-29-2021/i-know-that-this-project-is-a-while-in-the-p
 nid: 27812
 uid: 774066
 
+cids: 29284,29285,29286,29287
+
 ---
 
 # I know that this project is a while in the past, but I hope the potentiostat can be resurrected...

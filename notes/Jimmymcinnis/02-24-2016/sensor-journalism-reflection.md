@@ -7,6 +7,8 @@ path: /notes/Jimmymcinnis/02-24-2016/sensor-journalism-reflection.md
 nid: 12732
 uid: 461514
 
+cids: 
+
 ---
 
 # Sensor Journalism Reflection

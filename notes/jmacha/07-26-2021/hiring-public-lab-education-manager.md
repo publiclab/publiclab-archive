@@ -7,6 +7,8 @@ path: /notes/jmacha/07-26-2021/hiring-public-lab-education-manager.md
 nid: 27327
 uid: 423019
 
+cids: 29062,29531,31142
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/496/original/public_lab_header.png)

@@ -7,6 +7,8 @@ path: /notes/mathew/01-16-2015/sketching-a-waterproof-pop-bottle-sensor-system.m
 nid: 11528
 uid: 4
 
+cids: 11056,11061,11067,11071
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/629/original/IMG_20150114_130503.jpg)

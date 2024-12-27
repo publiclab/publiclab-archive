@@ -7,6 +7,8 @@ path: /notes/Smh/10-19-2016/light-or-something.md
 nid: 13610
 uid: 494923
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/472/original/IMG_0009.JPG)

@@ -7,6 +7,8 @@ path: /notes/stevie/01-21-2016/frac-sand-mining-the-community-fight.md
 nid: 12597
 uid: 422561
 
+cids: 13368,16160
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/741/original/IMG_7729.JPG)

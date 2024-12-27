@@ -7,6 +7,8 @@ path: /notes/ektopyrotic/06-10-2020/fusing-3d-modelling-with-ndvi-in-python-visu
 nid: 23807
 uid: 699450
 
+cids: 26995,26996,26998,31137
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/722/original/NDVIandNIR3DModelVideoTitleYoutube.png)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-10-2012/print-maps-plots-archive-and-mapknitter.md
 nid: 1949
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7000205023_966dd6df37.jpg)

@@ -7,6 +7,8 @@ path: /notes/christenmcnamara/2-26-2013/balloon-mapping-test-flight-riverside-ce
 nid: 6129
 uid: 51650
 
+cids: 3564
+
 ---
 
 ![](https://publiclab.org/sites/default/files/136.JPG)

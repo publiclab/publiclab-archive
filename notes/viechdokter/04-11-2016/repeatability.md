@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-11-2016/repeatability.md
 nid: 12959
 uid: 468990
 
+cids: 14178,14179,14180,14181,14182,14185,14186
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/496/original/Repeatability_-_header.jpg)

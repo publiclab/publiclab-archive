@@ -7,6 +7,8 @@ path: /notes/ektopyrotic/06-13-2020/drone-ndvi-mapping-with-qgis-and-python-anal
 nid: 23838
 uid: 699450
 
+cids: 31138
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/774/original/imageedit_36_3422185227.png)

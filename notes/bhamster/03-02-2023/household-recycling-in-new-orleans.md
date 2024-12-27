@@ -7,6 +7,8 @@ path: /notes/bhamster/03-02-2023/household-recycling-in-new-orleans.md
 nid: 38734
 uid: 664477
 
+cids: 31177
+
 ---
 
 # Household Recycling in New Orleans

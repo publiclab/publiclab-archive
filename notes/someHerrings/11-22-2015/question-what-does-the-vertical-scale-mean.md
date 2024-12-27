@@ -7,6 +7,8 @@ path: /notes/someHerrings/11-22-2015/question-what-does-the-vertical-scale-mean.
 nid: 12436
 uid: 458454
 
+cids: 13022,18202,22854,22855
+
 ---
 
 # Question: What does the vertical scale mean?

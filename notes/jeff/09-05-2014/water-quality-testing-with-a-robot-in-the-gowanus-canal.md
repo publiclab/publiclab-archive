@@ -7,6 +7,8 @@ path: /notes/jeff/09-05-2014/water-quality-testing-with-a-robot-in-the-gowanus-c
 nid: 11105
 uid: 54526
 
+cids: 10191,10198,10213,10214,10220,12775
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/606/original/robot_in_canal.jpg)

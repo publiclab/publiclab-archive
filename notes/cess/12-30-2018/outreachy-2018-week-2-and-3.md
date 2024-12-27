@@ -7,6 +7,8 @@ path: /notes/cess/12-30-2018/outreachy-2018-week-2-and-3.md
 nid: 18026
 uid: 525958
 
+cids: 21608,21617,21620,21622,21623
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/550/original/w1.jpg)

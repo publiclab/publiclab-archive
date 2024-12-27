@@ -7,6 +7,8 @@ path: /notes/imvec/03-24-2020/jam-jornadas-de-autodefensa-medioambiental.md
 nid: 23204
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/711/original/JAM.jpg)

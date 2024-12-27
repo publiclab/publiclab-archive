@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/11-04-2015/oil-testing-kit-beta-programme-scanning-ot
 nid: 12366
 uid: 1083
 
+cids: 12855,13056,13078,13080,13264
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/588/original/IMG_4148_-_Crude_%28694x800%29.jpg)

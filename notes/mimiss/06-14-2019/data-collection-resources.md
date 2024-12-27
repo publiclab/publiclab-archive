@@ -7,6 +7,8 @@ path: /notes/mimiss/06-14-2019/data-collection-resources.md
 nid: 19699
 uid: 579821
 
+cids: 28353
+
 ---
 
 # Data Collection Resources

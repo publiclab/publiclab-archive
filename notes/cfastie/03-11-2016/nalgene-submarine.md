@@ -7,6 +7,8 @@ path: /notes/cfastie/03-11-2016/nalgene-submarine.md
 nid: 12832
 uid: 554
 
+cids: 13944,14544
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/752/original/Nalgene-739-30.jpg)

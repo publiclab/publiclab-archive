@@ -7,6 +7,8 @@ path: /notes/tryndashe/08-11-2019/mapknitter-map-of-taiwan-one-spot.md
 nid: 20505
 uid: 610319
 
+cids: 25239
+
 ---
 
 # MapKnitter map of taiwan one spot

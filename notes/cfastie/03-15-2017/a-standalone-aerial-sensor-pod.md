@@ -7,6 +7,8 @@ path: /notes/cfastie/03-15-2017/a-standalone-aerial-sensor-pod.md
 nid: 14020
 uid: 554
 
+cids: 16367,16370,16371,16372,16375,16376
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/813/original/GPSpod_parts.jpg)

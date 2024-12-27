@@ -7,6 +7,8 @@ path: /notes/jens/11-17-2014/test-of-the-thermal-light-env-tech_neu2014.md
 nid: 11354
 uid: 431604
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/944/original/Ardruinolightsymposium.jpg)

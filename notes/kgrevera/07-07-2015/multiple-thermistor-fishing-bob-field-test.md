@@ -7,6 +7,8 @@ path: /notes/kgrevera/07-07-2015/multiple-thermistor-fishing-bob-field-test.md
 nid: 12036
 uid: 432001
 
+cids: 12116
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/552/original/Screen_Shot_2015-07-06_at_11.46.21_AM.png)

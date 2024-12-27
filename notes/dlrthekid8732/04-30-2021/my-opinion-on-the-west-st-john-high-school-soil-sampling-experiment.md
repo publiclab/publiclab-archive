@@ -7,6 +7,8 @@ path: /notes/dlrthekid8732/04-30-2021/my-opinion-on-the-west-st-john-high-school
 nid: 26429
 uid: 754777
 
+cids: 28727
+
 ---
 
 # My opinion on the West St. John High School Soil Sampling experiment 

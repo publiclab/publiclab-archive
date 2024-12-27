@@ -7,6 +7,8 @@ path: /notes/warren/10-31-2017/can-i-use-a-raspberry-pi-with-the-pi-noir-camera-
 nid: 15135
 uid: 1
 
+cids: 22702,23283
+
 ---
 
 # Can I use a Raspberry Pi with the Pi Noir camera to make NDVI images?

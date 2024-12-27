@@ -7,6 +7,8 @@ path: /notes/bhamster/03-02-2023/from-air-to-soil.md
 nid: 38737
 uid: 664477
 
+cids: 
+
 ---
 
 # From Air to Soil

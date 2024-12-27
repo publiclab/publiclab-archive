@@ -7,6 +7,8 @@ path: /notes/rollinrenola/11-05-2019/oil-and-gas-monitoring-fellowship-update.md
 nid: 21402
 uid: 618903
 
+cids: 25808
+
 ---
 
 # Oil and Gas Monitoring  Fellowship Update:

@@ -7,6 +7,8 @@ path: /notes/cfastie/05-23-2014/ifarm-aeries.md
 nid: 10503
 uid: 554
 
+cids: 9078
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/363/original/iFarmSat2866.jpg)

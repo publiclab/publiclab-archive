@@ -7,6 +7,8 @@ path: /notes/CptTray/11-22-2015/mapknitter-map-of-land-use-project-1.md
 nid: 12438
 uid: 458777
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/926/original/mapdraft1.png)

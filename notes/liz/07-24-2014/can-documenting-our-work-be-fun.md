@@ -7,6 +7,8 @@ path: /notes/liz/07-24-2014/can-documenting-our-work-be-fun.md
 nid: 10956
 uid: 7
 
+cids: 9613,9616,9625,9675,9682,9756
+
 ---
 
 # Can documenting our work be fun?

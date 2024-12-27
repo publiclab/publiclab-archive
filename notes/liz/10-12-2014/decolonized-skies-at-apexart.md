@@ -7,6 +7,8 @@ path: /notes/liz/10-12-2014/decolonized-skies-at-apexart.md
 nid: 11260
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/414/original/Screen_Shot_2014-10-12_at_11.48.56_AM.png)

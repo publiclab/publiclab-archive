@@ -7,6 +7,8 @@ path: /notes/warren/2-13-2012/tracking-contributions-open-source-projects.md
 nid: 783
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 3_1.png)

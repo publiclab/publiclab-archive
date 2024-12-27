@@ -7,6 +7,8 @@ path: /notes/code4maine/02-10-2014/cloud-sensor-base-station.md
 nid: 10025
 uid: 294634
 
+cids: 10219
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/865/original/LeoWRT.jpg)

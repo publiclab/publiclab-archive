@@ -7,6 +7,8 @@ path: /notes/gwirth/07-25-2014/shoreline-mapping-image-stich-series.md
 nid: 10978
 uid: 30539
 
+cids: 
+
 ---
 
 # Shoreline mapping - image stich series

@@ -7,6 +7,8 @@ path: /notes/warren/01-16-2014/reagent-based-pah-voh-pcb-testing-kits-for-soil-a
 nid: 9951
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/569/original/Screen_Shot_2014-01-16_at_4.22.17_PM.png)

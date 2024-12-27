@@ -7,6 +7,8 @@ path: /notes/keimpe/6-29-2012/amsterdam-kite-satellite.md
 nid: 2667
 uid: 18394
 
+cids: 4835
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Kite-satellite-mapping.jpg)

@@ -7,6 +7,8 @@ path: /notes/rebeccaMw/01-10-2022/can-the-public-lab-babylegs-kit-be-modified-to
 nid: 28695
 uid: 779054
 
+cids: 
+
 ---
 
 # Can the Public Lab BabyLegs kit be modified to sample for plankton?

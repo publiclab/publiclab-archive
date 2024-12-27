@@ -7,6 +7,8 @@ path: /notes/OF04/08-23-2022/biome.md
 nid: 34897
 uid: 810245
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/059/original/download_%281%29.jpg)

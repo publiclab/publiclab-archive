@@ -7,6 +7,8 @@ path: /notes/gwirth/11-11-2013/rulers-bar-island-wetland-mapping.md
 nid: 9767
 uid: 30539
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/195/original/10762999756_2f4e13d3e9_b.jpg)

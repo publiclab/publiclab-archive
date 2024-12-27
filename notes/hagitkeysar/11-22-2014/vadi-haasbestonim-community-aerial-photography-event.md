@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/11-22-2014/vadi-haasbestonim-community-aerial-photograp
 nid: 11391
 uid: 152
 
+cids: 10845,10865,11990
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/071/original/20131201_102447.jpg)

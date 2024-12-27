@@ -7,6 +7,8 @@ path: /notes/iragersh/10-31-2018/kelp.md
 nid: 17438
 uid: 557258
 
+cids: 21063,21073
+
 ---
 
 # Kelp

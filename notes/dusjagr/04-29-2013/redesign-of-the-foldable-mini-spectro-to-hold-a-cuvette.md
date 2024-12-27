@@ -7,6 +7,8 @@ path: /notes/dusjagr/04-29-2013/redesign-of-the-foldable-mini-spectro-to-hold-a-
 nid: 7117
 uid: 46795
 
+cids: 4564,4577,4578,4583,4755,6759,9432
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/135/original/foldableMiniSpectro_v2_on_Android.jpg)

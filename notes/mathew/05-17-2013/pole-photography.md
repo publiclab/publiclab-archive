@@ -7,6 +7,8 @@ path: /notes/mathew/05-17-2013/pole-photography.md
 nid: 7641
 uid: 4
 
+cids: 4756,4757,4773
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/344/original/IMG_4544.JPG)

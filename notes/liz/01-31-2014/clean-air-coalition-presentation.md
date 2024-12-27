@@ -7,6 +7,8 @@ path: /notes/liz/01-31-2014/clean-air-coalition-presentation.md
 nid: 9996
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/710/original/cleanair_logo.png)

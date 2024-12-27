@@ -7,6 +7,8 @@ path: /notes/tonyc/03-22-2016/using-mobius-camera-as-a-trap-cam-in-field-deploym
 nid: 12876
 uid: 447491
 
+cids: 14017,14021,14028,14034,14041,14043,14044,14049,14113,14114,14265,14266,14837
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/184/original/IMG_1137.JPG)

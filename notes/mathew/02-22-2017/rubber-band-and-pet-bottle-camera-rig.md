@@ -7,6 +7,8 @@ path: /notes/mathew/02-22-2017/rubber-band-and-pet-bottle-camera-rig.md
 nid: 13948
 uid: 4
 
+cids: 16234,16236
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/611/original/Screen_Shot_2017-02-21_at_5.07.48_PM.png)

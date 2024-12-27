@@ -7,6 +7,8 @@ path: /notes/warren/11-11-2016/the-barnraiser-2016-early-edition.md
 nid: 13697
 uid: 1
 
+cids: 15827
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/777/original/IMG_20161111_083445.jpg)

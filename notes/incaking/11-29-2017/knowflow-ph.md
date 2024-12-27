@@ -7,6 +7,8 @@ path: /notes/incaking/11-29-2017/knowflow-ph.md
 nid: 15258
 uid: 519451
 
+cids: 17819,17840,17841,17842,18423
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/641/original/143711uknjj7yljjyz4n7o.jpg)

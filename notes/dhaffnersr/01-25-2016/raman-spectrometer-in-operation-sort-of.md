@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/01-25-2016/raman-spectrometer-in-operation-sort-of.md
 nid: 12615
 uid: 461120
 
+cids: 17518
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/807/original/20160125_104801.jpg)

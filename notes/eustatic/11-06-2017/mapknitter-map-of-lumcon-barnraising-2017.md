@@ -7,6 +7,8 @@ path: /11-06-2017/mapknitter-map-of-lumcon-barnraising-2017.md
 nid: 15153
 uid: 379
 
+cids: 17635,17658
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/283/original/b_IMG_2022.JPG)

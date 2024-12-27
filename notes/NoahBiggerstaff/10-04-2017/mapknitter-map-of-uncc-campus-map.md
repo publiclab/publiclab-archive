@@ -7,6 +7,8 @@ path: /notes/NoahBiggerstaff/10-04-2017/mapknitter-map-of-uncc-campus-map.md
 nid: 15000
 uid: 515272
 
+cids: 
+
 ---
 
 # MapKnitter map of UNCC campus map

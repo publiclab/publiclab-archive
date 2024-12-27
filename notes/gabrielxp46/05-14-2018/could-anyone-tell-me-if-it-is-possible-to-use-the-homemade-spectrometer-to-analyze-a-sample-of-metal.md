@@ -7,6 +7,8 @@ path: /notes/gabrielxp46/05-14-2018/could-anyone-tell-me-if-it-is-possible-to-us
 nid: 16346
 uid: 534394
 
+cids: 19647,19726,23092
+
 ---
 
 # could anyone tell me if it is possible to use the homemade spectrometer to analyze a sample of metal?

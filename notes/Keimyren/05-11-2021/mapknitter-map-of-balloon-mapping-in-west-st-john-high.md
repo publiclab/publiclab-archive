@@ -7,6 +7,8 @@ path: /notes/Keimyren/05-11-2021/mapknitter-map-of-balloon-mapping-in-west-st-jo
 nid: 26550
 uid: 754785
 
+cids: 28739
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/747/original/IMG_9868.JPG)

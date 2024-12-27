@@ -7,6 +7,8 @@ path: /notes/jrokoff/09-11-2014/fort-bayou-near-infrared-map.md
 nid: 11127
 uid: 428230
 
+cids: 10260,10264,10270,10271,16327,16328,16389
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/735/original/low-alt-infrared_copy.jpg)

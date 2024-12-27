@@ -7,6 +7,8 @@ path: /notes/donblair/05-05-2014/monday-5-5-14-at-mit-water-quality-primer-data-
 nid: 10420
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/041/original/monsterSoup.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/2-21-2011/third-thermal-photo.md
 nid: 98
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/mon-21c.jpg)

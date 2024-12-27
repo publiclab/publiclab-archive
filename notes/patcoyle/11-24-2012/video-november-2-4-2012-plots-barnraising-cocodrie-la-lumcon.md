@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-24-2012/video-november-2-4-2012-plots-barnraising-cocod
 nid: 5013
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8167049049_0bfce6b7da_z.jpg)

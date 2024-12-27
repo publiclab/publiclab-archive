@@ -7,6 +7,8 @@ path: /notes/peppepegasus/03-15-2016/help-about-ndvi-obtained-with-mapri-cameras
 nid: 12848
 uid: 468764
 
+cids: 13937,13938,13939,13963,13964,13965,13967,14079,14081,14093,14094,14100,14102,14117,14121,14160,14164,14165,14183,14184,19734,19735
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/066/original/ndvi_ph3.pdf)

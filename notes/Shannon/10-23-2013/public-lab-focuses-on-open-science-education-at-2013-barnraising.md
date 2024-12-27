@@ -7,6 +7,8 @@ path: /notes/Shannon/10-23-2013/public-lab-focuses-on-open-science-education-at-
 nid: 9533
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/995/original/PublicLabBarnraising2013Group.JPG)

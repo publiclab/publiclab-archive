@@ -7,6 +7,8 @@ path: /notes/joyofsoy/11-09-2018/sustain-the-nine-resilience-in-the-lower-ninth-
 nid: 17499
 uid: 540844
 
+cids: 21712,28310
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/560/original/%282%29_Decades_of_wetlands_destruction_have_transformed_this_once-thriving_cypress_swamp_%281%29.jpg)

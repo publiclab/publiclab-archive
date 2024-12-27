@@ -7,6 +7,8 @@ path: /notes/nameiswillis/04-02-2015/newtown-creek-workshop-with-balloon-photogr
 nid: 11738
 uid: 420464
 
+cids: 11486,11496
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/528/original/NH_aprilpostfront1.jpg)

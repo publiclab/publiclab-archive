@@ -7,6 +7,8 @@ path: /notes/drdbw/3-28-2012/thermal-torch-adjustable-temperature-scale.md
 nid: 1553
 uid: 706
 
+cids: 563,772,799
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Circuit_Breadboard.jpg)

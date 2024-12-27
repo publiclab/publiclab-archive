@@ -7,6 +7,8 @@ path: /notes/lelex76/09-15-2020/questions-about-signals.md
 nid: 24578
 uid: 720560
 
+cids: 27369,27371,27372,27448
+
 ---
 
 # questions about signals

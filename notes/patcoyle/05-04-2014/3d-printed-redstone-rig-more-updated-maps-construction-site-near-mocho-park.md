@@ -7,6 +7,8 @@ path: /notes/patcoyle/05-04-2014/3d-printed-redstone-rig-more-updated-maps-const
 nid: 10409
 uid: 77
 
+cids: 8960,8963
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/022/original/IMG_1506.JPG)

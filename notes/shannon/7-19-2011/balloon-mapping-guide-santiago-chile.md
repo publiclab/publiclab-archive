@@ -7,6 +7,8 @@ path: /notes/shannon/7-19-2011/balloon-mapping-guide-santiago-chile.md
 nid: 388
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Instrucciones-globo_CI.png)

@@ -7,6 +7,8 @@ path: /notes/radhikadua/10-30-2018/outreachy-proposal-improve-statistics-system-
 nid: 17427
 uid: 556474
 
+cids: 21043,21054,21058,21078,21080,21094,21113,21118,21122,21128,21135,21136,21137,21138,21144,21145,21152,21331
+
 ---
 
 # Outreachy proposal: Improve statistics system for publiclab

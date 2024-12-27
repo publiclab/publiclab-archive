@@ -7,6 +7,8 @@ path: /notes/mathew/2-14-2013/flying-wind-dazzle-delta.md
 nid: 5983
 uid: 4
 
+cids: 3428
+
 ---
 
 ![](https://publiclab.org/sites/default/files/off-windoverlay.jpg)

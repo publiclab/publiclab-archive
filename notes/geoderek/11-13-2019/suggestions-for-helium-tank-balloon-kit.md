@@ -7,6 +7,8 @@ path: /notes/geoderek/11-13-2019/suggestions-for-helium-tank-balloon-kit.md
 nid: 21478
 uid: 637361
 
+cids: 25847,25848
+
 ---
 
 # Suggestions for helium tank Balloon kit

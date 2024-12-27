@@ -7,6 +7,8 @@ path: /notes/partsandcrafts/10-27-2017/how-do-i-access-the-wiki.md
 nid: 15097
 uid: 66014
 
+cids: 22692,22743
+
 ---
 
 # How do I access the wiki?

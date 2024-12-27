@@ -7,6 +7,8 @@ path: /notes/SeanKMcGinnis/02-13-2014/ignite-philly-13.md
 nid: 10039
 uid: 552
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/920/original/ignite-logo.jpg)

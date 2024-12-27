@@ -7,6 +7,8 @@ path: /notes/xose/05-02-2017/nosa-agencia-espacial-gallega.md
 nid: 14157
 uid: 497123
 
+cids: 16717
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/319/original/nosa-sonda.jpg)

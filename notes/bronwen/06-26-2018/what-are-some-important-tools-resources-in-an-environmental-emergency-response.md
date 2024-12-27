@@ -7,6 +7,8 @@ path: /notes/bronwen/06-26-2018/what-are-some-important-tools-resources-in-an-en
 nid: 16573
 uid: 237313
 
+cids: 20036,20038,23154,23157
+
 ---
 
 # What Are Some Important Tools/Resources in an Environmental Emergency Response?

@@ -7,6 +7,8 @@ path: /notes/warren/1-11-2012/nytimes-op-ed-open-access-nih-funded-research.md
 nid: 685
 uid: 1
 
+cids: 
+
 ---
 
 # NYTimes Op-Ed on open access to NIH-funded research

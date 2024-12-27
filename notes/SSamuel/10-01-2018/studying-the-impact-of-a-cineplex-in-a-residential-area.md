@@ -7,6 +7,8 @@ path: /notes/SSamuel/10-01-2018/studying-the-impact-of-a-cineplex-in-a-residenti
 nid: 17194
 uid: 429972
 
+cids: 20759,20784,23249,26466
+
 ---
 
 # Studying the impact of a Cineplex in a residential area

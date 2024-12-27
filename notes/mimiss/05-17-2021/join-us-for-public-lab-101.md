@@ -7,6 +7,8 @@ path: /notes/mimiss/05-17-2021/join-us-for-public-lab-101.md
 nid: 26630
 uid: 579821
 
+cids: 29420,31161
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/838/original/5951788839_97d9633a3b_b.jpg)

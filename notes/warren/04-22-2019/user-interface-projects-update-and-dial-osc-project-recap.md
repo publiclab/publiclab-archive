@@ -7,6 +7,8 @@ path: /notes/warren/04-22-2019/user-interface-projects-update-and-dial-osc-proje
 nid: 19141
 uid: 1
 
+cids: 23962,23964,24089,24090,24091,24101
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/678/original/Screen_Shot_2019-04-22_at_1.05.12_PM.png)

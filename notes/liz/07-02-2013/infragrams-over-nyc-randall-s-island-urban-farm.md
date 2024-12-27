@@ -7,6 +7,8 @@ path: /notes/liz/07-02-2013/infragrams-over-nyc-randall-s-island-urban-farm.md
 nid: 8609
 uid: 7
 
+cids: 5962
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/598/original/*NickInGardenWithPole.jpg)

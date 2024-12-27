@@ -7,6 +7,8 @@ path: /notes/EdithCheung/11-27-2018/public-lab-code-of-conduct-chinese-version.m
 nid: 17760
 uid: 513991
 
+cids: 21373
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/853/original/image.png)

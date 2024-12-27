@@ -7,6 +7,8 @@ path: /notes/jschaffr/1-31-2012/h2s-detectors-light-contamination-test-environme
 nid: 736
 uid: 315
 
+cids: 425
+
 ---
 
 # H2S Detectors - Light Contamination Test Environment

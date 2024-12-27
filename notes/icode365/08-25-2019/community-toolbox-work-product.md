@@ -7,6 +7,8 @@ path: /notes/icode365/08-25-2019/community-toolbox-work-product.md
 nid: 20662
 uid: 553778
 
+cids: 25345,25385,25386,25387,25388,25391,25392,25395,25396,25397,25433,31406
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/871/original/fto-wp.png)

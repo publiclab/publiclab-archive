@@ -7,6 +7,8 @@ path: /notes/warren/09-12-2018/introducing-a-new-privacy-policy-for-public-lab.m
 nid: 17103
 uid: 1
 
+cids: 20665,20670
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/544/original/pl-narrow.png)

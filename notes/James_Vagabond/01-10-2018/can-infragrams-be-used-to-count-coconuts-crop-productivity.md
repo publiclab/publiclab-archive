@@ -7,6 +7,8 @@ path: /notes/James_Vagabond/01-10-2018/can-infragrams-be-used-to-count-coconuts-
 nid: 15504
 uid: 522293
 
+cids: 22845
+
 ---
 
 # Can Infragrams be used to count coconuts/crop productivity?

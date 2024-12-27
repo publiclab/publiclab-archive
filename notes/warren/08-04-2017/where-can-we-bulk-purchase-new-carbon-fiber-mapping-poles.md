@@ -7,6 +7,8 @@ path: /notes/warren/08-04-2017/where-can-we-bulk-purchase-new-carbon-fiber-mappi
 nid: 14720
 uid: 1
 
+cids: 17959
+
 ---
 
 # Where can we bulk purchase new carbon fiber mapping poles?

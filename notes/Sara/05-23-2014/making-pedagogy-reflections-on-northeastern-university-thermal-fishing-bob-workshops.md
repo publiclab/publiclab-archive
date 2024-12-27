@@ -7,6 +7,8 @@ path: /notes/Sara/05-23-2014/making-pedagogy-reflections-on-northeastern-univers
 nid: 10506
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/443/original/Screen_Shot_2014-04-08_at_7.49.33_PM.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/06-11-2013/rock-tripe-slab.md
 nid: 8159
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/498/original/Tripe4panel1800.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/11-28-2011/some-amazing-kite-aerial-thermal-photography-west
 nid: 586
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/flirpathfindir.jpg)

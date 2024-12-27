@@ -7,6 +7,8 @@ path: /notes/carolccarvalho/07-15-2016/raspberry-noir-cam-blue-filter.md
 nid: 13289
 uid: 461381
 
+cids: 14953,14995,14996,15029,15032,15788
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/047/original/resultado.png)

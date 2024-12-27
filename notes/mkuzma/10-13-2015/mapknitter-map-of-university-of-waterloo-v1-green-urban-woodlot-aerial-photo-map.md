@@ -7,6 +7,8 @@ path: /notes/mkuzma/10-13-2015/mapknitter-map-of-university-of-waterloo-v1-green
 nid: 12294
 uid: 453934
 
+cids: 
+
 ---
 
 # MapKnitter map of University of Waterloo - V1 Green Urban Woodlot Aerial Photo Map

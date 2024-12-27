@@ -7,6 +7,8 @@ path: /notes/peace/07-01-2016/desktop-spectrometry-3-0-kit-can-it-quantify-ident
 nid: 13252
 uid: 481667
 
+cids: 14851,15034
+
 ---
 
 # Desktop spectrometry 3.0 kit: Can it quantify/identify a mixture of chemical solvents?

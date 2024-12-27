@@ -7,6 +7,8 @@ path: /notes/deepwinter/7-11-2012/draft-experimental-plan-h2s-study-collapsed-sa
 nid: 2758
 uid: 808
 
+cids: 1032,1065,1066
+
 ---
 
 # Draft Experimental Plan for H2S Study in Collapsed Salt Marsh

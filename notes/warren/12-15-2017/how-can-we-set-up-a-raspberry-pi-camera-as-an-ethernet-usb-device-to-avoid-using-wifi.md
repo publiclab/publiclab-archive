@@ -7,6 +7,8 @@ path: /notes/warren/12-15-2017/how-can-we-set-up-a-raspberry-pi-camera-as-an-eth
 nid: 15376
 uid: 1
 
+cids: 18635,18637,18641,22804,22968
+
 ---
 
 # How can we set up a Raspberry Pi camera as an ethernet USB device to avoid using WiFi 

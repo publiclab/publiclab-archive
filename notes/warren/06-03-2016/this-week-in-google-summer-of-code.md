@@ -7,6 +7,8 @@ path: /notes/warren/06-03-2016/this-week-in-google-summer-of-code.md
 nid: 13161
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/472/original/Screenshot_2016-06-03_at_4.26.34_PM.png)

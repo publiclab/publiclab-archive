@@ -7,6 +7,8 @@ path: /notes/warren/4-20-2011/how-connect-vivitar-10-walgreens-camera.md
 nid: 184
 uid: 1
 
+cids: 
+
 ---
 
 # How to connect to a Vivitar $10 Walgreens camera

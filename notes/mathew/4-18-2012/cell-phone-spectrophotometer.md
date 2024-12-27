@@ -7,6 +7,8 @@ path: /notes/mathew/4-18-2012/cell-phone-spectrophotometer.md
 nid: 1700
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-04-18 at 6.40.48 PM.png)

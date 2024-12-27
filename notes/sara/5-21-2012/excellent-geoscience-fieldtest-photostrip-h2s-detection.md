@@ -7,6 +7,8 @@ path: /notes/sara/5-21-2012/excellent-geoscience-fieldtest-photostrip-h2s-detect
 nid: 2157
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 6_0.png)

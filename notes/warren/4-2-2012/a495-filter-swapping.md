@@ -7,6 +7,8 @@ path: /notes/warren/4-2-2012/a495-filter-swapping.md
 nid: 1600
 uid: 1
 
+cids: 577,578,579,580,585
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2012-04-02 12.23.13.jpg)

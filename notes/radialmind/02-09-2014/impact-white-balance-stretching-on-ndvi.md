@@ -7,6 +7,8 @@ path: /notes/radialmind/02-09-2014/impact-white-balance-stretching-on-ndvi.md
 nid: 10022
 uid: 170347
 
+cids: 8200,8201,8209,8211,8229,8231,8232,8233,8235,8236
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/847/original/fluorescent-white-balance-ndvi-nostretch.jpg)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-10-2012/mapping-parties-nyc-map-evasive-species.md
 nid: 1950
 uid: 12
 
+cids: 
+
 ---
 
 # mapping parties in NYC map invasive species

@@ -7,6 +7,8 @@ path: /notes/imvec/12-02-2018/community-microscope-workshop-barcelona.md
 nid: 17782
 uid: 495038
 
+cids: 21415,21420
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/375/original/Screenshot_from_2018-12-14_14-21-46.png)

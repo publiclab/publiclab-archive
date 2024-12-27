@@ -7,6 +7,8 @@ path: /notes/ikcal11/05-10-2020/trash-tography-mapping-trash-in-creeks-through-p
 nid: 23597
 uid: 679735
 
+cids: 26788,26791,26806,26807,26812
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/348/original/Photo.jpg)

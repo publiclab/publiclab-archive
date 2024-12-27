@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/11-08-2017/how-quickly-do-copper-sulfide-and-copper-
 nid: 15165
 uid: 430549
 
+cids: 
+
 ---
 
 # How quickly do copper sulfide and copper oxide form under different environmental conditions?

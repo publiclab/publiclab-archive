@@ -7,6 +7,8 @@ path: /notes/nicholas/07-20-2014/landsat-image-analysis-over-new-york.md
 nid: 10938
 uid: 53894
 
+cids: 9928,9934,9935,9938,9942
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/403/original/Screen_Shot_2014-07-15_at_11.33.56.png)

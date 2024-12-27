@@ -7,6 +7,8 @@ path: /notes/warren/4-6-2012/harrisburg-students-use-plots-balloon-mapping-local
 nid: 1627
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/harrisburg.png)

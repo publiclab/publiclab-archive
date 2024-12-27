@@ -7,6 +7,8 @@ path: /notes/cfastie/07-05-2016/the-aerobee-rig.md
 nid: 13261
 uid: 554
 
+cids: 14880,14881,14884,14887,27345,27378
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/871/original/Aerobee_20160517-5500-2.jpg)

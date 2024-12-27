@@ -7,6 +7,8 @@ path: /notes/mienaikoe/07-01-2017/eddi-eletrodialysis-desalinator-for-desalinati
 nid: 14601
 uid: 510171
 
+cids: 17029
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/974/original/maxresdefault.jpg)

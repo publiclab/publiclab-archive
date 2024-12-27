@@ -7,6 +7,8 @@ path: /notes/stevie/10-11-2017/how-do-i-choose-between-different-types-of-air-ca
 nid: 15030
 uid: 422561
 
+cids: 
+
 ---
 
 # How do I choose between different types of air canisters for grab sampling?

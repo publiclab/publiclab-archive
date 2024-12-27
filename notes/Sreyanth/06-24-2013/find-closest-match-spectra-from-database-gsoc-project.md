@@ -7,6 +7,8 @@ path: /notes/Sreyanth/06-24-2013/find-closest-match-spectra-from-database-gsoc-p
 nid: 8410
 uid: 96713
 
+cids: 5984,6403,6408,6417
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/573/original/logo_%283%29.png)

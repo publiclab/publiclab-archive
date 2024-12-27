@@ -7,6 +7,8 @@ path: /notes/sara/7-18-2012/thermal-images-community-environmental-college.md
 nid: 2863
 uid: 8
 
+cids: 1048,1051,1052
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ThermalImagepipe70-90_0.png)

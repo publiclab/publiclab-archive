@@ -7,6 +7,8 @@ path: /12-24-2012/nolacom-article-sulfur-release-chalmette.md
 nid: 5328
 uid: 379
 
+cids: 
+
 ---
 
 # NOLA.com article on Sulfur release to Chalmette

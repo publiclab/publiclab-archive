@@ -7,6 +7,8 @@ path: /notes/klie/08-18-2017/public-lab-nonprofit-job-posting-kit-fulfillment-co
 nid: 14767
 uid: 441262
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/366/original/plots-logo-transparent.jpg)

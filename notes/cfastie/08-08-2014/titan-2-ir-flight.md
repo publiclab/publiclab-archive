@@ -7,6 +7,8 @@ path: /notes/cfastie/08-08-2014/titan-2-ir-flight.md
 nid: 11021
 uid: 554
 
+cids: 9840,9843
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/128/original/TitanPetri-491-50.jpg)

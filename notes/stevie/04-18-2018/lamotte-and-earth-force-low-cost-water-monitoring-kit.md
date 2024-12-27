@@ -7,6 +7,8 @@ path: /notes/stevie/04-18-2018/lamotte-and-earth-force-low-cost-water-monitoring
 nid: 16173
 uid: 422561
 
+cids: 20470,20471
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/640/original/20180418_092808.jpg)

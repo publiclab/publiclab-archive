@@ -7,6 +7,8 @@ path: /notes/stevie/08-11-2017/interview-series-with-grassroots-community-organi
 nid: 14733
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/321/original/obliquePC.JPG)

@@ -7,6 +7,8 @@ path: /notes/warren/02-15-2017/laser-cut-the-desktop-spectrometry-kit-v3-box.md
 nid: 13931
 uid: 1
 
+cids: 16183,16184,16185,16186,16187,16192,16193,16194,31354
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/564/original/tmp_6326-IMG_20170215_152044_365-505216256.jpg)

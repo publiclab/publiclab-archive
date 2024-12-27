@@ -7,6 +7,8 @@ path: /notes/xose/05-13-2017/use-archive-org-to-share-large-photo-collections.md
 nid: 14188
 uid: 497123
 
+cids: 16762,16763,16764,16765,16768,17430,17431
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/444/original/13.png)

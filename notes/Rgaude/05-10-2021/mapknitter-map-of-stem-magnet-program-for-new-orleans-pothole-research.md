@@ -7,6 +7,8 @@ path: /notes/Rgaude/05-10-2021/mapknitter-map-of-stem-magnet-program-for-new-orl
 nid: 26540
 uid: 749812
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/737/original/Science_Pothole_1.jpg)

@@ -7,6 +7,8 @@ path: /notes/bronwen/09-04-2018/off-the-shelf-diy-kits-sensors-or-apps-for-monit
 nid: 17057
 uid: 237313
 
+cids: 23222
+
 ---
 
 # Off the shelf, DIY kits, sensors or apps for monitoring noise.

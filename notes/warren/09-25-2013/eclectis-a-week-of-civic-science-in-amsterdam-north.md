@@ -7,6 +7,8 @@ path: /notes/warren/09-25-2013/eclectis-a-week-of-civic-science-in-amsterdam-nor
 nid: 9372
 uid: 1
 
+cids: 7017
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/672/original/IMG_0110.JPG)

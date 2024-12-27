@@ -7,6 +7,8 @@ path: /notes/gaeunkim/01-06-2017/separating-power-tags-from-normal-tags.md
 nid: 13842
 uid: 501359
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/223/original/Screen_Shot_2017-01-06_at_8.50.00_PM.png)

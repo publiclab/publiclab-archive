@@ -7,6 +7,8 @@ path: /notes/stevie/09-04-2018/recent-conversations-on-the-frac-sand-issue.md
 nid: 17061
 uid: 422561
 
+cids: 20567,20568,20569,20570,20571,20574,20590,20595,20596,20613,23853
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/432/original/IMG_2523.JPG)

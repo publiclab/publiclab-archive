@@ -7,6 +7,8 @@ path: /notes/Dr_Know77/01-03-2019/magnetic-induction-lamp.md
 nid: 18055
 uid: 567857
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/605/original/Spektrum_magnetic_induction_lamp_02.jpg)

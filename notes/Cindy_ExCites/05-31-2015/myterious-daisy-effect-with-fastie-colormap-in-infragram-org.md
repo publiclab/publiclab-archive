@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/05-31-2015/myterious-daisy-effect-with-fastie-colorma
 nid: 11923
 uid: 1083
 
+cids: 11819,11820,11821,11825
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/117/original/Daisy_effect_2.gif)

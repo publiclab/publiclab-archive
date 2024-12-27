@@ -7,6 +7,8 @@ path: /notes/warren/09-23-2014/oil-fluorescence-scanning-on-an-ocean-optics-spec
 nid: 11176
 uid: 1
 
+cids: 10907,12294
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/971/original/ocean-optics.jpg)

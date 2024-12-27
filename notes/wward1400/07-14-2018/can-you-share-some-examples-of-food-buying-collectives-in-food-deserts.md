@@ -7,6 +7,8 @@ path: /notes/wward1400/07-14-2018/can-you-share-some-examples-of-food-buying-col
 nid: 16717
 uid: 46742
 
+cids: 20140
+
 ---
 
 # Can we share examples of food buying collectives in food deserts?

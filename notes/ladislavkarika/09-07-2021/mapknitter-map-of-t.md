@@ -7,6 +7,8 @@ path: /notes/ladislavkarika/09-07-2021/mapknitter-map-of-t.md
 nid: 27694
 uid: 771796
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/785/original/29E5738B-1619-476C-A51C-FCC92AD36E20.jpeg)

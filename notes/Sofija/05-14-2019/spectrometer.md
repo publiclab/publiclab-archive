@@ -7,6 +7,8 @@ path: /notes/Sofija/05-14-2019/spectrometer.md
 nid: 19403
 uid: 590578
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/253/original/60308654_2308634359423892_7862280914884100096_n.jpg)

@@ -7,6 +7,8 @@ path: /notes/Anice/12-13-2018/how-is-the-value-of-red-isolated-from-nir-for-ndvi
 nid: 17883
 uid: 564024
 
+cids: 21506,23301
+
 ---
 
 # NDVI: How is NIR value removed/separated from the RED+NIR that enters the red channel when using a single camera?

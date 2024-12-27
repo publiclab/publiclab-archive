@@ -7,6 +7,8 @@ path: /notes/warren/11-10-2014/table-for-choosing-monitoring-tools.md
 nid: 11328
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/788/original/Screen_Shot_2014-11-10_at_10.16.37_AM.png)

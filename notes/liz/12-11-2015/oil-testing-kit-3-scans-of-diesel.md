@@ -7,6 +7,8 @@ path: /notes/liz/12-11-2015/oil-testing-kit-3-scans-of-diesel.md
 nid: 12501
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/280/original/Screen_Shot_2015-12-11_at_3.53.58_PM.png)

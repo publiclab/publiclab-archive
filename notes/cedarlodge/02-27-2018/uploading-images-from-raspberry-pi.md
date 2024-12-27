@@ -7,6 +7,8 @@ path: /notes/cedarlodge/02-27-2018/uploading-images-from-raspberry-pi.md
 nid: 15824
 uid: 523507
 
+cids: 18644,18654,18655,18658,18659,18733,18744,18757,18936,18983,19008,22960
+
 ---
 
 # Uploading images from raspberry pi.

@@ -7,6 +7,8 @@ path: /notes/stemnorthamerica/08-30-2018/mapknitter-map-of-am-parking-lot-map.md
 nid: 17025
 uid: 548799
 
+cids: 
+
 ---
 
 # MapKnitter map of AM Parking Lot Map

@@ -7,6 +7,8 @@ path: /notes/warren/09-07-2017/what-could-teenagers-do-to-support-harvey-respons
 nid: 14844
 uid: 1
 
+cids: 17410,22585,22620
+
 ---
 
 # What could teenagers do to support Harvey response efforts?

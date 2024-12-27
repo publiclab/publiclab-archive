@@ -7,6 +7,8 @@ path: /notes/warren/11-14-2011/spectrometer-calibration-guidelines.md
 nid: 562
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20111114_142959_0.jpg)

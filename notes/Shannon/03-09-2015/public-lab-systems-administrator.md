@@ -7,6 +7,8 @@ path: /notes/Shannon/03-09-2015/public-lab-systems-administrator.md
 nid: 11668
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/240/original/plots-logo-transparent.jpg)

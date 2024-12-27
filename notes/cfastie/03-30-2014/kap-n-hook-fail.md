@@ -7,6 +7,8 @@ path: /notes/cfastie/03-30-2014/kap-n-hook-fail.md
 nid: 10244
 uid: 554
 
+cids: 8618,8653,8654,8700,8751
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/453/original/KAPnHook-372-15c.jpg)

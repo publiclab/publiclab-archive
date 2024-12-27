@@ -7,6 +7,8 @@ path: /notes/konancyber/02-22-2020/avocado-tree.md
 nid: 22898
 uid: 667420
 
+cids: 26369,26371,26372,26373,26380,26381
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/219/original/blob)

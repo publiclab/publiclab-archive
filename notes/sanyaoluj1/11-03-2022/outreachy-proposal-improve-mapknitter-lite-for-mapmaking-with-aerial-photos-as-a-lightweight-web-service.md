@@ -7,6 +7,8 @@ path: /notes/sanyaoluj1/11-03-2022/outreachy-proposal-improve-mapknitter-lite-fo
 nid: 36051
 uid: 816148
 
+cids: 30760,30763,30769
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/281/original/mapknitter.png)

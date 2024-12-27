@@ -7,6 +7,8 @@ path: /notes/Zengirl2/11-30-2017/can-you-use-rubbing-alcohol-for-prepping-copper
 nid: 15279
 uid: 423961
 
+cids: 17835,17837,17838,17912,17914,18245,18248,18253,18816,18817,18822,18823,22769,22792,22864,22977
+
 ---
 
 # Can you use rubbing alcohol or nail polish remover for prepping copper for Hydrogen Sulfide test?

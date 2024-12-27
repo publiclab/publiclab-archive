@@ -7,6 +7,8 @@ path: /notes/Ajith_Kumar/10-10-2016/what-are-the-requirements-of-a-camera-for-fi
 nid: 13548
 uid: 494004
 
+cids: 15637,22325,22326
+
 ---
 
 # what are the requirements of a camera for Filter replacement and NDVI imaging?

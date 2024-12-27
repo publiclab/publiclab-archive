@@ -7,6 +7,8 @@ path: /notes/AyakoM/05-16-2018/serc-manual-coming-soon-to-public-lab-store.md
 nid: 16354
 uid: 525175
 
+cids: 19732
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/963/original/IMG_20180516_095400_505.jpg)

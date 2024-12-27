@@ -7,6 +7,8 @@ path: /notes/oscar-brett/7-26-2012/prototyping-kite-kids.md
 nid: 2960
 uid: 409
 
+cids: 1084,1085
+
 ---
 
 ![](https://publiclab.org/sites/default/files/P7241843_0.JPG)

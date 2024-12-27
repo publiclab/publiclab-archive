@@ -7,6 +7,8 @@ path: /notes/warren/06-08-2018/web-working-group-update-22-june-2018.md
 nid: 16455
 uid: 1
 
+cids: 19787,19788,19793
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/178/original/pulse.png)

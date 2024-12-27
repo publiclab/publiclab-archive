@@ -7,6 +7,8 @@ path: /notes/laurel_mire/12-03-2021/how-to-visualize-your-location-based-data-in
 nid: 28330
 uid: 759178
 
+cids: 29492
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/140/original/8715654343_71f64d4d75_b.jpg)

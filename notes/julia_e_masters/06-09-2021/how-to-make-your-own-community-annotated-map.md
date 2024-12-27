@@ -7,6 +7,8 @@ path: /notes/julia_e_masters/06-09-2021/how-to-make-your-own-community-annotated
 nid: 26778
 uid: 756220
 
+cids: 28913,28940,31385
+
 ---
 
 # How to ... make your own community annotated map! 

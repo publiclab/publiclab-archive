@@ -7,6 +7,8 @@ path: /notes/mimiss/09-16-2020/for-the-bucket-monitor-how-many-tedlar-bags-do-yo
 nid: 24591
 uid: 579821
 
+cids: 27393,27411,27413,27427,27612
+
 ---
 
 # For the Bucket Monitor, how many tedlar bags do you need per-sampling?

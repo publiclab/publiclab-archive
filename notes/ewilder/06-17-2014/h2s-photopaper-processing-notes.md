@@ -7,6 +7,8 @@ path: /notes/ewilder/06-17-2014/h2s-photopaper-processing-notes.md
 nid: 10578
 uid: 421152
 
+cids: 9211,17986
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/778/original/undefined)

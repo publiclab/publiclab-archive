@@ -7,6 +7,8 @@ path: /notes/kunlefashmayop/04-18-2022/re-design-infragram-landing-page.md
 nid: 30476
 uid: 794018
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/070/original/infragram2.png)

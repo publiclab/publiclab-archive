@@ -7,6 +7,8 @@ path: /notes/kellyraymond/02-19-2020/art-in-ruins-100-fountain-street.md
 nid: 22867
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (100 Fountain Street)

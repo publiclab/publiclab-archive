@@ -7,6 +7,8 @@ path: /notes/cfastie/10-12-2015/nighthawk-panoramas.md
 nid: 12291
 uid: 554
 
+cids: 12708,12714,12716,12717
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/919/original/Planet2LFst2k.jpg)

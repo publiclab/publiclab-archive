@@ -7,6 +7,8 @@ path: /notes/MicroscopesAreCool/12-05-2016/microscope-from-tablet-computer.md
 nid: 13743
 uid: 471803
 
+cids: 18908
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/968/original/20161202_135228.jpg)

@@ -7,6 +7,8 @@ path: /notes/fongvania/09-21-2021/activity-lichens-for-qualitative-air-quality-d
 nid: 27727
 uid: 754846
 
+cids: 
+
 ---
 
 # Activity: Lichens for Qualitative Air Quality Determination

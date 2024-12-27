@@ -7,6 +7,8 @@ path: /notes/shannon/6-24-2012/article-opening-science.md
 nid: 2620
 uid: 9
 
+cids: 
+
 ---
 
 # Article on opening science

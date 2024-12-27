@@ -7,6 +7,8 @@ path: /notes/warren/08-06-2013/brainstorming-coffee-analytics-system-for-coffee-
 nid: 8973
 uid: 1
 
+cids: 6535,6573,6605,8276,8293
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/042/original/coffee-analytics.jpg)

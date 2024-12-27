@@ -7,6 +7,8 @@ path: /notes/Adreenah/11-23-2020/mutual-aid-in-the-mist-of-a-pandemic.md
 nid: 25096
 uid: 730104
 
+cids: 
+
 ---
 
 # Mutual Aid in the Mist of a Pandemic 

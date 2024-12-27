@@ -7,6 +7,8 @@ path: /notes/mimiss/06-24-2020/do-you-have-any-tips-for-splicing-dvd-rs-for-spec
 nid: 24037
 uid: 579821
 
+cids: 27049,27064,27167,30380
+
 ---
 
 # Do you have any tips for splicing DVD-Rs for spectrometer builds?

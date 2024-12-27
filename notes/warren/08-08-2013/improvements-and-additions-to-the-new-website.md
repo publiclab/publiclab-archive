@@ -7,6 +7,8 @@ path: /notes/warren/08-08-2013/improvements-and-additions-to-the-new-website.md
 nid: 8983
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/078/original/Screen_Shot_2013-08-08_at_5.46.57_PM.png)

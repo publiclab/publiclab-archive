@@ -7,6 +7,8 @@ path: /notes/nnole/12-18-2016/chosing-which-camera-to-obtain-data-from.md
 nid: 13792
 uid: 499675
 
+cids: 15998,16000,16006
+
 ---
 
 # Chosing which camera to obtain data from

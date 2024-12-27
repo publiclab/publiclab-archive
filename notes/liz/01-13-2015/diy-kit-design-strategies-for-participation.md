@@ -7,6 +7,8 @@ path: /notes/liz/01-13-2015/diy-kit-design-strategies-for-participation.md
 nid: 11520
 uid: 7
 
+cids: 11038,11039,11040,11041,11044,11304
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/600/original/DesignStrategies4Engagement.jpg)

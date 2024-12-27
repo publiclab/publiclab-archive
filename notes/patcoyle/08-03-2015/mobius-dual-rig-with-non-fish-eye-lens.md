@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-03-2015/mobius-dual-rig-with-non-fish-eye-lens.md
 nid: 12116
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/010/original/cover_composite_crpd.jpg)

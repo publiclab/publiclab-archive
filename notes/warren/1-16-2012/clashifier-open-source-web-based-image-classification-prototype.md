@@ -7,6 +7,8 @@ path: /notes/warren/1-16-2012/clashifier-open-source-web-based-image-classificat
 nid: 692
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/classification.png)

@@ -7,6 +7,8 @@ path: /notes/donblair/04-25-2013/i-for-one-welcome-our-new-ircam-overlords.md
 nid: 7036
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/114/original/overlord.png)

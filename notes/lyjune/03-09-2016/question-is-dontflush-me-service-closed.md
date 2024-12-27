@@ -7,6 +7,8 @@ path: /notes/lyjune/03-09-2016/question-is-dontflush-me-service-closed.md
 nid: 12820
 uid: 468617
 
+cids: 13842,13847,13857,13978
+
 ---
 
 # Question: Is dontflush.me service closed? 

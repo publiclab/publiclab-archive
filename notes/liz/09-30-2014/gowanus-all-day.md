@@ -7,6 +7,8 @@ path: /notes/liz/09-30-2014/gowanus-all-day.md
 nid: 11211
 uid: 7
 
+cids: 10499
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/139/original/underBridgeSequence.gif)

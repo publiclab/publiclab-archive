@@ -7,6 +7,8 @@ path: /notes/megan/4-19-2012/making-tent-bags-photopaper-test.md
 nid: 1713
 uid: 775
 
+cids: 
+
 ---
 
 # Making tent bags for photopaper test

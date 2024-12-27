@@ -7,6 +7,8 @@ path: /notes/porbe/10-16-2015/question-help.md
 nid: 12311
 uid: 434765
 
+cids: 12750,12765
+
 ---
 
 # Question: Help

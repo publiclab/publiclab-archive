@@ -7,6 +7,8 @@ path: /notes/sara/3-29-2012/procedure-fixing-h2s-photographic-paper-strips.md
 nid: 1581
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/27603.jpeg)

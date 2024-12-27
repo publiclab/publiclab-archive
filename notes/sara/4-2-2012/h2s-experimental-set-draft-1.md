@@ -7,6 +7,8 @@ path: /notes/sara/4-2-2012/h2s-experimental-set-draft-1.md
 nid: 1607
 uid: 8
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Draft1H2Ssetup.jpg)

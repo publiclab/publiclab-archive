@@ -7,6 +7,8 @@ path: /notes/sylvan/07-17-2018/what-are-the-initial-steps-you-take-when-you-begi
 nid: 16734
 uid: 540012
 
+cids: 20179,20183,20186,23521
+
 ---
 
 # What are the initial steps you take when you begin a new environmental data investigation?

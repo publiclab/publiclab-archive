@@ -7,6 +7,8 @@ path: /notes/mridulnagpal/08-23-2017/gsoc-submission-for-map-of-projects.md
 nid: 14784
 uid: 497953
 
+cids: 17219,17228,17236,17248,17252,17253,17254,17255,17257,17263,17300
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/401/original/Screenshot_from_2017-08-02_08-34-30.png)

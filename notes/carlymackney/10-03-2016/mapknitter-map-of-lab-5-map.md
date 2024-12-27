@@ -7,6 +7,8 @@ path: /notes/carlymackney/10-03-2016/mapknitter-map-of-lab-5-map.md
 nid: 13516
 uid: 493085
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/254/original/P1100886.JPG)

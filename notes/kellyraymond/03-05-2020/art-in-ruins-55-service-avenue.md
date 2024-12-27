@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-55-service-avenue.md
 nid: 23033
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (55 Service Avenue)

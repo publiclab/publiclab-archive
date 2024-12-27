@@ -7,6 +7,8 @@ path: /notes/gautami_gg/08-30-2019/gsoc-final-report-for-ui-improvements.md
 nid: 20724
 uid: 579624
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/074/original/1_g5RBYeGe0VLB6t_ZsvO_wQ.png)

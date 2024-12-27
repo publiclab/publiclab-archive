@@ -7,6 +7,8 @@ path: /notes/shannon/7-16-2012/fwd-grassrootsmapping-ap-article-industry-pushbac
 nid: 2923
 uid: 9
 
+cids: 
+
 ---
 
 # Fwd: [grassrootsmapping] AP article on industry pushback on regulators taking photos of pollution from the air

@@ -7,6 +7,8 @@ path: /notes/as1234/12-12-2016/is-this-software-for-plant-analysis-only.md
 nid: 13772
 uid: 499599
 
+cids: 15955,15956,15963
+
 ---
 
 # Is this software for plant analysis only?

@@ -7,6 +7,8 @@ path: /notes/sara/4-27-2012/h2s-strip-batch-1-testing-made-426.md
 nid: 1817
 uid: 8
 
+cids: 649,650,651
+
 ---
 
 # H2S strip batch 1 for testing made 4/26

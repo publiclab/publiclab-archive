@@ -7,6 +7,8 @@ path: /notes/kgradow1/09-30-2017/how-to-build-an-efficient-workflow-for-small-sc
 nid: 14979
 uid: 297929
 
+cids: 22791
+
 ---
 
 # How to build an efficient workflow for small-scale kit manufacturing?

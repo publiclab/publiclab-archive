@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/11-04-2017/how-to-best-write-a-debrief-of-a-session-at
 nid: 15148
 uid: 459085
 
+cids: 17624,17645,22705,22707,22709,22722,23078
+
 ---
 
 # How to best write a debrief of a session at Barnraising?

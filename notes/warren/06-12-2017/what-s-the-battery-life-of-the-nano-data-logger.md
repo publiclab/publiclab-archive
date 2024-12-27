@@ -7,6 +7,8 @@ path: /notes/warren/06-12-2017/what-s-the-battery-life-of-the-nano-data-logger.m
 nid: 14525
 uid: 1
 
+cids: 16862,16864,16866,16867,16868,22484
+
 ---
 
 # What's the battery life of the Nano Data Logger?

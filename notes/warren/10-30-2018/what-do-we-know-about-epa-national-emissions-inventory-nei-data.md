@@ -7,6 +7,8 @@ path: /notes/warren/10-30-2018/what-do-we-know-about-epa-national-emissions-inve
 nid: 17435
 uid: 1
 
+cids: 
+
 ---
 
 # What do we know about EPA National Emissions Inventory (NEI) data?

@@ -7,6 +7,8 @@ path: /notes/marlokeno/03-16-2017/is-this-government-security-warning-on-noaa-ne
 nid: 14029
 uid: 420760
 
+cids: 22448
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/850/original/Screenshot_2017-03-16_at_1.34.54_PM.png)

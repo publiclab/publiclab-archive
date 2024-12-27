@@ -7,6 +7,8 @@ path: /notes/mastfiubbc/10-16-2014/coqui-conductivity-detector-proves-reliable-d
 nid: 11266
 uid: 430001
 
+cids: 10560
+
 ---
 
 # Coqui Conductivity Detector Proves Reliable During SoBe King Tide

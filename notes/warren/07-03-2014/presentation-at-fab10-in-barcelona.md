@@ -7,6 +7,8 @@ path: /notes/warren/07-03-2014/presentation-at-fab10-in-barcelona.md
 nid: 10649
 uid: 1
 
+cids: 9486
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/104/original/Screenshot_2014-07-03-10-24-44_2.jpg)

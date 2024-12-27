@@ -7,6 +7,8 @@ path: /notes/elucasfreitas/06-19-2022/run-infragram-offiline-whitout-online-anal
 nid: 31076
 uid: 803723
 
+cids: 30277,30280
+
 ---
 
 # Run infragram offiline (whitout online analysis)

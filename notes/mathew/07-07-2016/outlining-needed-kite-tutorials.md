@@ -7,6 +7,8 @@ path: /notes/mathew/07-07-2016/outlining-needed-kite-tutorials.md
 nid: 13269
 uid: 4
 
+cids: 14879,14882,14883,14939,14952
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/902/original/IMG_7701.JPG)

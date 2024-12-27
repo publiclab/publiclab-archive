@@ -7,6 +7,8 @@ path: /notes/bhamster/10-22-2021/what-are-some-of-the-first-things-you-do-with-a
 nid: 27958
 uid: 664477
 
+cids: 29344,29345,29346,29347,29459,29460,29469
+
 ---
 
 # What are some of the first things you do with air quality monitoring data to better understand it? 

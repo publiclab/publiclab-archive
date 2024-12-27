@@ -7,6 +7,8 @@ path: /notes/bhamster/01-31-2022/event-feb-8-kicking-off-a-research-area-review-
 nid: 29605
 uid: 664477
 
+cids: 29616,29624,29625,29627,29628,29630,29632,29636,29637
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/348/original/Frac_sand_mine.jpg)

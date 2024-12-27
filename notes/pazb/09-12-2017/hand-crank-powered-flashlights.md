@@ -7,6 +7,8 @@ path: /notes/pazb/09-12-2017/hand-crank-powered-flashlights.md
 nid: 14885
 uid: 512631
 
+cids: 17367,17368
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/645/original/IMG_2784.jpg)

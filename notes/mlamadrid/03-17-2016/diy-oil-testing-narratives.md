@@ -7,6 +7,8 @@ path: /notes/mlamadrid/03-17-2016/diy-oil-testing-narratives.md
 nid: 12850
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/138/original/IMG_20160123_125902_500_%281%29.jpg)

@@ -7,6 +7,8 @@ path: /notes/mjain26/07-29-2014/exposure-settings-to-balloon-mapping.md
 nid: 10994
 uid: 424870
 
+cids: 9702,9707
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/652/original/IMG_2086.JPG)

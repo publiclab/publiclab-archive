@@ -7,6 +7,8 @@ path: /notes/cjhodge/10-24-2018/classroom-lights.md
 nid: 17382
 uid: 556273
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/199/original/FF3C9CE1-8278-47F5-922C-B71708C5E23F.jpeg)

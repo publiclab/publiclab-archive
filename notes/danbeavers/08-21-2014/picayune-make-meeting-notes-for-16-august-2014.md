@@ -7,6 +7,8 @@ path: /notes/danbeavers/08-21-2014/picayune-make-meeting-notes-for-16-august-201
 nid: 11069
 uid: 51
 
+cids: 10093,10094
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/360/original/20140816_164550.jpg)

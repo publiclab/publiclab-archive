@@ -7,6 +7,8 @@ path: /notes/ekpeterman/01-20-2022/common-permit-violations-water.md
 nid: 28758
 uid: 641166
 
+cids: 29597,29598
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/314/original/middleridge2016.00_11_06_10.Still005.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/8-27-2012/spectrometry-discussion-across-web.md
 nid: 3501
 uid: 1
 
+cids: 1320,1598,1613,1676,1716,1718,1722,1723,4008,4010,4013
+
 ---
 
 # Spectrometry discussion across the web

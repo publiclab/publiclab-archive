@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/10-07-2013/new-ways-of-seeing-in-jerusalem-the-environm
 nid: 9418
 uid: 152
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/799/original/07-kite.jpg)

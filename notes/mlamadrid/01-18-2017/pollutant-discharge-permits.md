@@ -7,6 +7,8 @@ path: /notes/mlamadrid/01-18-2017/pollutant-discharge-permits.md
 nid: 13858
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/294/original/city-of-durham-stormwater-services-sta-member-in-a-drainage-ditch.JPG)

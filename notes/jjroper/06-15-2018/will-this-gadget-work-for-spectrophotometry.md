@@ -7,6 +7,8 @@ path: /notes/jjroper/06-15-2018/will-this-gadget-work-for-spectrophotometry.md
 nid: 16510
 uid: 538367
 
+cids: 19825,23122
+
 ---
 
 # Will this gadget work for spectrophotometry?

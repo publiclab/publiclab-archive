@@ -7,6 +7,8 @@ path: /notes/warren/6-20-2011/knc-test.md
 nid: 348
 uid: 1
 
+cids: 272,286,288,290
+
 ---
 
 ![](https://publiclab.org/sites/default/files/plots-group-kn.JPG)

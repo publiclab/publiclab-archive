@@ -7,6 +7,8 @@ path: /notes/mathew/05-05-2014/infragrams-from-a-quadcopter.md
 nid: 10425
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/051/original/IMAG1291.JPG)

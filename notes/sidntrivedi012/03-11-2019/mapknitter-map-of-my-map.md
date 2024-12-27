@@ -7,6 +7,8 @@ path: /notes/sidntrivedi012/03-11-2019/mapknitter-map-of-my-map.md
 nid: 18514
 uid: 572743
 
+cids: 
+
 ---
 
 # MapKnitter map of My map

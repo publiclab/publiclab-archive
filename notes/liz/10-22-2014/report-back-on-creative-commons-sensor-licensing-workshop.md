@@ -7,6 +7,8 @@ path: /notes/liz/10-22-2014/report-back-on-creative-commons-sensor-licensing-wor
 nid: 11291
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/599/original/cc.large.png)

@@ -7,6 +7,8 @@ path: /notes/caseyrcampbell327/10-06-2014/sensor-journalism-water-conductivity-r
 nid: 11237
 uid: 427892
 
+cids: 10506
+
 ---
 
 # Sensor Journalism & Water Conductivity Reflection 

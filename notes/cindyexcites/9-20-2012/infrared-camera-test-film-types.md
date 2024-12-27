@@ -7,6 +7,8 @@ path: /notes/cindyexcites/9-20-2012/infrared-camera-test-film-types.md
 nid: 3907
 uid: 1083
 
+cids: 1398,1399,1400,1534,1538,1539,1540,1541,3598
+
 ---
 
 ![](https://publiclab.org/sites/default/files/0011_end_of_dvlpd_film_20percent.jpg)

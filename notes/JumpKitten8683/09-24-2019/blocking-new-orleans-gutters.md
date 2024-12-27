@@ -7,6 +7,8 @@ path: /notes/JumpKitten8683/09-24-2019/blocking-new-orleans-gutters.md
 nid: 20978
 uid: 620730
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/432/original/clogged.jpg)

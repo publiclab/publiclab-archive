@@ -7,6 +7,8 @@ path: /notes/warren/08-01-2019/what-are-easy-and-fast-ways-to-get-files-off-a-ra
 nid: 20379
 uid: 1
 
+cids: 25180,25214,25434
+
 ---
 
 # What are easy and fast ways to get files off a Raspberry Pi?

@@ -7,6 +7,8 @@ path: /notes/JuliaR/11-17-2014/thermal-flashlight-env-tech_neu_2014.md
 nid: 11355
 uid: 431607
 
+cids: 10772
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/956/original/!!!photo_1.JPG)

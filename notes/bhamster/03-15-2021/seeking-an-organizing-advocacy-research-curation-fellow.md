@@ -7,6 +7,8 @@ path: /notes/bhamster/03-15-2021/seeking-an-organizing-advocacy-research-curatio
 nid: 25926
 uid: 664477
 
+cids: 31133
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/956/original/Public_Lab_Letterhead_blank.png)

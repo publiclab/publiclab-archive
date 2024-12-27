@@ -7,6 +7,8 @@ path: /notes/MaggPi/02-05-2019/mapknitter-map-of-bee-leg-stitch-test.md
 nid: 18258
 uid: 501996
 
+cids: 21839,21841,21845,21846,21850,21981
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/183/original/beeleg1.jpg)

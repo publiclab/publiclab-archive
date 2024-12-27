@@ -7,6 +7,8 @@ path: /notes/Giiwedin/09-20-2022/brown-spot-fungal-disease-on-manoomin-on-kettle
 nid: 34971
 uid: 799642
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/164/original/5C37A3DE-5138-473C-B015-83453505C9EF.jpeg)

@@ -7,6 +7,8 @@ path: /notes/cindyexcites/8-3-2012/update-june-july-web-development.md
 nid: 3122
 uid: 1083
 
+cids: 
+
 ---
 
 # Update June-July (web-development)

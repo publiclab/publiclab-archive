@@ -7,6 +7,8 @@ path: /notes/gilbert/09-11-2017/hurricane-preparedness-dinner-discussion-sept-18
 nid: 14877
 uid: 508551
 
+cids: 17361
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/608/original/download.jpg)

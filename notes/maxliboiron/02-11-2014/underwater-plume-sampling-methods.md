@@ -7,6 +7,8 @@ path: /notes/maxliboiron/02-11-2014/underwater-plume-sampling-methods.md
 nid: 10027
 uid: 310707
 
+cids: 8223,8224,8241,8252
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/874/original/fig01.jpg)

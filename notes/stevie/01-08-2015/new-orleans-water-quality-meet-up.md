@@ -7,6 +7,8 @@ path: /notes/stevie/01-08-2015/new-orleans-water-quality-meet-up.md
 nid: 11513
 uid: 422561
 
+cids: 11032,11047,11057,11076,11077,13180
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/577/original/Water_Quality_Meetup.jpg)

@@ -7,6 +7,8 @@ path: /notes/khufkens/04-29-2015/the-accidental-raspberry-pi-spectrometer-first-
 nid: 11774
 uid: 438931
 
+cids: 13222,13226
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/737/original/spectrum.jpg)

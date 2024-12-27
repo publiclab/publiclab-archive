@@ -7,6 +7,8 @@ path: /notes/imvec/12-02-2018/taller-de-microscopio-diy-en-barcelona.md
 nid: 17783
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/374/original/Screenshot_from_2018-12-14_14-24-54.png)

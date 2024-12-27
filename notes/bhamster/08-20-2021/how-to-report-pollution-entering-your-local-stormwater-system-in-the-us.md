@@ -7,6 +7,8 @@ path: /notes/bhamster/08-20-2021/how-to-report-pollution-entering-your-local-sto
 nid: 27606
 uid: 664477
 
+cids: 29187,29189,29194,29195,29242
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/688/original/stormdrain_copy.jpg)

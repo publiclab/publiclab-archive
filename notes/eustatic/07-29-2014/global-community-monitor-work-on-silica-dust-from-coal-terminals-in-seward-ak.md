@@ -7,6 +7,8 @@ path: /07-29-2014/global-community-monitor-work-on-silica-dust-from-coal-termina
 nid: 10988
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/642/original/SewardMonitorandMeter.jpg)

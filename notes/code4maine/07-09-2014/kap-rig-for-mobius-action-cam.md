@@ -7,6 +7,8 @@ path: /notes/code4maine/07-09-2014/kap-rig-for-mobius-action-cam.md
 nid: 10670
 uid: 294634
 
+cids: 9500,9511,9566,10294
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/192/original/Mobius_Foam.png)

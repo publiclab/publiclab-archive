@@ -7,6 +7,8 @@ path: /notes/warren/11-08-2013/smartphone-spectrometer-and-infragram-webcam-phot
 nid: 9751
 uid: 1
 
+cids: 7525
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/184/original/IMG_0350.JPG)

@@ -7,6 +7,8 @@ path: /notes/A_SCH/11-08-2020/mobilizing-action-through-community-science-draft.
 nid: 24957
 uid: 704145
 
+cids: 27634,27709
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/838/original/Screen_Shot_2020-11-28_at_3.24.26_PM.png)

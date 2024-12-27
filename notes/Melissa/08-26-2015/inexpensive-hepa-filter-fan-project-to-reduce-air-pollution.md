@@ -7,6 +7,8 @@ path: /notes/Melissa/08-26-2015/inexpensive-hepa-filter-fan-project-to-reduce-ai
 nid: 12171
 uid: 449383
 
+cids: 12440,12441,12443,12445,12446,12447,12449,12454,12455,12456,12463,18621,18622,18633,18640,18656,18683,18785,18957,20224,26633
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/279/original/IMG_9778.jpg)

@@ -7,6 +7,8 @@ path: /notes/TK_Siddharth/09-22-2018/how-spectroscopy-relates-to-the-life-of-a-c
 nid: 17157
 uid: 551563
 
+cids: 
+
 ---
 
 # How spectroscopy relates to the life of a common man in a daily basis

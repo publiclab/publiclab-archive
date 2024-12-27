@@ -7,6 +7,8 @@ path: /notes/rajsan1108/09-18-2015/to-know-process-of-ndvi-calculation-through-p
 nid: 12223
 uid: 451698
 
+cids: 12563
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/622/original/IMAG0124.JPG)

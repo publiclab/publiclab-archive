@@ -7,6 +7,8 @@ path: /notes/warren/04-27-2016/great-introductory-packaging.md
 nid: 13035
 uid: 1
 
+cids: 14473,14731
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/810/original/tmp_9111-IMG_20160414_1138582083143760.jpg)

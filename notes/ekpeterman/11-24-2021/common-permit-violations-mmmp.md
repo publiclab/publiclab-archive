@@ -7,6 +7,8 @@ path: /notes/ekpeterman/11-24-2021/common-permit-violations-mmmp.md
 nid: 28278
 uid: 641166
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/181/original/white_oak_collapsing_highwall2.png)

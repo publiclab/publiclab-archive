@@ -7,6 +7,8 @@ path: /notes/warren/12-7-2012/spectronic-20-spectrometer-comparison-our-own.md
 nid: 5157
 uid: 1
 
+cids: 2712,3358,3402
+
 ---
 
 ![](https://publiclab.org/sites/default/files/8253458670_5108ef19b6_o.jpeg)

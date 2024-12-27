@@ -7,6 +7,8 @@ path: /notes/cfastie/5-25-2013/silvopasture.md
 nid: 7915
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/TFBama_3314_1800.jpg)

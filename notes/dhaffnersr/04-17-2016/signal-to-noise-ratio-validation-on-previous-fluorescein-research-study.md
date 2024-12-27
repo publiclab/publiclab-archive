@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-17-2016/signal-to-noise-ratio-validation-on-previous-
 nid: 12991
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/616/original/PIC_0113.JPG)

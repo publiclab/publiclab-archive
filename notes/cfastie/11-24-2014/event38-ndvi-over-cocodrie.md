@@ -7,6 +7,8 @@ path: /notes/cfastie/11-24-2014/event38-ndvi-over-cocodrie.md
 nid: 11394
 uid: 554
 
+cids: 10833,10837,10838
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/098/original/KnitterNDVI.JPG)

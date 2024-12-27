@@ -7,6 +7,8 @@ path: /notes/liz/3-8-2013/chaq-air-logo.md
 nid: 6252
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/AIR in heart.jpg)

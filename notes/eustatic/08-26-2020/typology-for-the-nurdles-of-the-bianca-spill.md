@@ -7,6 +7,8 @@ path: /08-26-2020/typology-for-the-nurdles-of-the-bianca-spill.md
 nid: 24462
 uid: 379
 
+cids: 27282,27284,27299,27300
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/699/original/IMG_007.JPG)

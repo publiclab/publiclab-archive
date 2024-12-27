@@ -7,6 +7,8 @@ path: /notes/icarito/03-10-2018/replicated-with-cannon-a2300.md
 nid: 15912
 uid: 448589
 
+cids: 
+
 ---
 
 # Replicated with Cannon A2300

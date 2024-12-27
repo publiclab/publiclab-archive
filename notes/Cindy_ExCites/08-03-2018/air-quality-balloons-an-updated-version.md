@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/08-03-2018/air-quality-balloons-an-updated-version.md
 nid: 16851
 uid: 1083
 
+cids: 20278,20293,20295,20298
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/057/original/FBB5DH6GC4G1BD1.LARGE.jpg)

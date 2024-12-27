@@ -7,6 +7,8 @@ path: /notes/gilbert/10-13-2017/hurricane-harvey-industrial-impact-image-sorting
 nid: 15047
 uid: 508551
 
+cids: 17521,17524,17536,17547
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/934/original/1012172009b.jpg)

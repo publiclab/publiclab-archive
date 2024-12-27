@@ -7,6 +7,8 @@ path: /notes/mridulnagpal/08-10-2018/gsoc-submission-for-leaflet-blurred-locatio
 nid: 16906
 uid: 497953
 
+cids: 20370
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/143/original/Display.png)

@@ -7,6 +7,8 @@ path: /notes/ranon/08-09-2016/reconfigurable-rig-version-1-assembly-guide.md
 nid: 13343
 uid: 477060
 
+cids: 15097,15100,15650
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/527/original/ReconfigurableRigConfigurationRenders.png)

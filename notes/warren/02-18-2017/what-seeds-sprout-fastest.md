@@ -7,6 +7,8 @@ path: /notes/warren/02-18-2017/what-seeds-sprout-fastest.md
 nid: 13941
 uid: 1
 
+cids: 22428,22431
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/590/original/IMG_20170216_185258.jpg)

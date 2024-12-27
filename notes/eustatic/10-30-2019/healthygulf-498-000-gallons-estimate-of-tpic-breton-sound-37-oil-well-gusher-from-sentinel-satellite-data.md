@@ -7,6 +7,8 @@ path: /10-30-2019/healthygulf-498-000-gallons-estimate-of-tpic-breton-sound-37-o
 nid: 21346
 uid: 379
 
+cids: 25769,25772,25774
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/098/original/BS37_TPIC_NESDIS_Oct_26.jpg)

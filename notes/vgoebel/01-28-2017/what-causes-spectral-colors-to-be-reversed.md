@@ -7,6 +7,8 @@ path: /notes/vgoebel/01-28-2017/what-causes-spectral-colors-to-be-reversed.md
 nid: 13887
 uid: 502425
 
+cids: 22416,22418
+
 ---
 
 # what causes spectral colors to be reversed?  

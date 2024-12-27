@@ -7,6 +7,8 @@ path: /notes/denissebn_06/06-07-2021/what-kind-of-event-would-trigger-me-needing
 nid: 26784
 uid: 749988
 
+cids: 28877,28904
+
 ---
 
 # What kind of event would trigger me needing to take an air sample with the bucket? 

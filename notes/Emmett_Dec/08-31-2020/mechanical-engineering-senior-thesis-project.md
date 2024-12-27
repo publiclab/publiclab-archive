@@ -7,6 +7,8 @@ path: /notes/Emmett_Dec/08-31-2020/mechanical-engineering-senior-thesis-project.
 nid: 24484
 uid: 716411
 
+cids: 27326
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/749/original/Raspberry-Pi-4-8b.jpg)

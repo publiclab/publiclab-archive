@@ -7,6 +7,8 @@ path: /notes/liz/02-25-2014/natural-resource-trustees-of-newtown-creek.md
 nid: 10064
 uid: 7
 
+cids: 8350
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/019/original/noaa_logo_sm.png)

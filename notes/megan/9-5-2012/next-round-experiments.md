@@ -7,6 +7,8 @@ path: /notes/megan/9-5-2012/next-round-experiments.md
 nid: 3654
 uid: 775
 
+cids: 1257,1258,1260,1274,1275,1276,1565,1566,1567,1568,1569,1570,1572,1573
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Second Round of experiment.jpg)

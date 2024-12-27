@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-08-2015/photo-monitoring-plugin-for-ndvi-using-imagej.
 nid: 12489
 uid: 45586
 
+cids: 13077,13083,13086,13089
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/243/original/NDVIplotsN1k.jpg)

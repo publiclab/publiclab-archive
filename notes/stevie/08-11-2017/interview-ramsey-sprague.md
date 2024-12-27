@@ -7,6 +7,8 @@ path: /notes/stevie/08-11-2017/interview-ramsey-sprague.md
 nid: 14734
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/380/original/Ramsey.jpeg)

@@ -7,6 +7,8 @@ path: /notes/S_mboyi/04-16-2022/re-design-of-the-infragram-landing-page-and-resp
 nid: 30437
 uid: 795348
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/876/original/Android_Large_-_1.png)

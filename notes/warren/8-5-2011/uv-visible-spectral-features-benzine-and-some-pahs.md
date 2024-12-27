@@ -7,6 +7,8 @@ path: /notes/warren/8-5-2011/uv-visible-spectral-features-benzine-and-some-pahs.
 nid: 427
 uid: 1
 
+cids: 31399
+
 ---
 
 ![](https://publiclab.org/sites/default/files/polyarom.gif)

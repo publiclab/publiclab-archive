@@ -7,6 +7,8 @@ path: /notes/warren/09-07-2017/how-do-i-collect-a-sample-for-laboratory-analysis
 nid: 14842
 uid: 1
 
+cids: 18326,22582,22904
+
 ---
 
 # How do I collect a sample for laboratory analysis?

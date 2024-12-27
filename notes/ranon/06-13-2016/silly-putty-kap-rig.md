@@ -7,6 +7,8 @@ path: /notes/ranon/06-13-2016/silly-putty-kap-rig.md
 nid: 13194
 uid: 477060
 
+cids: 14762,14763,14776,14778
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/609/original/IMG_1069.jpg)

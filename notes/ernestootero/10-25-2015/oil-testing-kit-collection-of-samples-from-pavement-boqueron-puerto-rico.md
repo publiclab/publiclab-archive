@@ -7,6 +7,8 @@ path: /notes/ernestootero/10-25-2015/oil-testing-kit-collection-of-samples-from-
 nid: 12334
 uid: 447002
 
+cids: 12780,12781,12782,12867,12868,12873,12939
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/163/original/20151025_105936.jpg)

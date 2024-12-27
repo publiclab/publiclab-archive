@@ -7,6 +7,8 @@ path: /notes/liz/08-12-2014/better-communicate-the-purpose-of-research-notes.md
 nid: 11041
 uid: 7
 
+cids: 9937,10239,10439
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/688/original/Screen_Shot_2014-09-09_at_9.26.13_PM.png)

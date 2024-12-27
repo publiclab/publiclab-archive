@@ -7,6 +7,8 @@ path: /notes/Rgaude/05-14-2021/potholes-in-new-orleans-conclusion.md
 nid: 26594
 uid: 749812
 
+cids: 29852,30764
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/814/original/Science_Pothole_1.jpg)

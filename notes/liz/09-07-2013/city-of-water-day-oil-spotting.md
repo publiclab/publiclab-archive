@@ -7,6 +7,8 @@ path: /notes/liz/09-07-2013/city-of-water-day-oil-spotting.md
 nid: 9301
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/423/original/story2-oil-seeps-from-pipe.png)

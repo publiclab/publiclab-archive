@@ -7,6 +7,8 @@ path: /notes/kaya9804/2-20-2013/getting-ready-start-building.md
 nid: 6066
 uid: 45526
 
+cids: 3512,3539,3540,3550
+
 ---
 
 # Getting Ready to Start Building.

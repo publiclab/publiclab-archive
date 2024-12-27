@@ -7,6 +7,8 @@ path: /notes/mlamadrid/06-22-2016/documenting-runoff-with-photography.md
 nid: 13224
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/709/original/HPIM8466-R-_Wyatt_Run_mud_INTO_Fishing_crk.JPG)

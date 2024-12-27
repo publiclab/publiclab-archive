@@ -7,6 +7,8 @@ path: /notes/cfastie/11-22-2013/white-balance-for-all.md
 nid: 9816
 uid: 554
 
+cids: 7694,7696,7701,7704,7707,7822
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/288/original/LEDRGB-283-11.jpg)

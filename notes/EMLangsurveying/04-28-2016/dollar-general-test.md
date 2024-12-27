@@ -7,6 +7,8 @@ path: /notes/EMLangsurveying/04-28-2016/dollar-general-test.md
 nid: 13044
 uid: 471810
 
+cids: 14468
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/839/original/DJI_0007.JPG)

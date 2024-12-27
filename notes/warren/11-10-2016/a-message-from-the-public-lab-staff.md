@@ -7,6 +7,8 @@ path: /notes/warren/11-10-2016/a-message-from-the-public-lab-staff.md
 nid: 13693
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/738/original/PublicLab_-_Maker_Summit.png)

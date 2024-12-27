@@ -7,6 +7,8 @@ path: /notes/shannon/5-25-2012/air-column-monitor-ecohack-video.md
 nid: 2204
 uid: 9
 
+cids: 
+
 ---
 
 # Air Column Monitor EcoHack video

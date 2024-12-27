@@ -7,6 +7,8 @@ path: /notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two
 nid: 2279
 uid: 133
 
+cids: 812,813,816,833,834,836,837,887,4584
+
 ---
 
 ![](https://publiclab.org/sites/default/files/TreesVIS_NRG.jpg)

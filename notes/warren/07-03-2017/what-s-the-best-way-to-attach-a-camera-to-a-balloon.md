@@ -7,6 +7,8 @@ path: /notes/warren/07-03-2017/what-s-the-best-way-to-attach-a-camera-to-a-ballo
 nid: 14611
 uid: 1
 
+cids: 16966,22517
+
 ---
 
 # What's the best way to attach a camera to a balloon?

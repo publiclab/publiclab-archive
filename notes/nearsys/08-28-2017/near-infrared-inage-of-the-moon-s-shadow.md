@@ -7,6 +7,8 @@ path: /notes/nearsys/08-28-2017/near-infrared-inage-of-the-moon-s-shadow.md
 nid: 14796
 uid: 506331
 
+cids: 17272,17274
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/464/original/IMAG2160.JPG)

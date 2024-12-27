@@ -7,6 +7,8 @@ path: /notes/shanlter/12-04-2017/folding-beijing-a-board-game-based-on-beijing-e
 nid: 15292
 uid: 420999
 
+cids: 17963,17968,17969,17970,18892,25872
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/767/original/2017-11-27_15.41.03-1.jpg)

@@ -7,6 +7,8 @@ path: /notes/pataxte/11-12-2019/mapknitter-downloading-exporting.md
 nid: 21467
 uid: 559561
 
+cids: 25891,25904
+
 ---
 
 # mapknitter, downloading, exporting

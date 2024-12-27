@@ -7,6 +7,8 @@ path: /notes/dbsnp/09-22-2018/mesh-pcb-making-workshop-by-reaccion.md
 nid: 17159
 uid: 543056
 
+cids: 20714
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/655/original/Afiche.png)

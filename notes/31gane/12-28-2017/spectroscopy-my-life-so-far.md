@@ -7,6 +7,8 @@ path: /notes/31gane/12-28-2017/spectroscopy-my-life-so-far.md
 nid: 15440
 uid: 420044
 
+cids: 18041,18042,18087
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/045/original/Screenshot_from_2017-12-29_13-15-42.png)

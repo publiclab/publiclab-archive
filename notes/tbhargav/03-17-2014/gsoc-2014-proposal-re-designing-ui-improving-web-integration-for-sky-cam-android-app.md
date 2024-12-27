@@ -7,6 +7,8 @@ path: /notes/tbhargav/03-17-2014/gsoc-2014-proposal-re-designing-ui-improving-we
 nid: 10192
 uid: 421490
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/292/original/skycamguimockupdraft.png)

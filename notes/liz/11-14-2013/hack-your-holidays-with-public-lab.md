@@ -7,6 +7,8 @@ path: /notes/liz/11-14-2013/hack-your-holidays-with-public-lab.md
 nid: 9780
 uid: 7
 
+cids: 28080
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/211/original/IMG_0620_editcropcredit-01.png)

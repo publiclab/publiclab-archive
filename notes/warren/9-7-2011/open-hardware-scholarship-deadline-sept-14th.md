@@ -7,6 +7,8 @@ path: /notes/warren/9-7-2011/open-hardware-scholarship-deadline-sept-14th.md
 nid: 455
 uid: 1
 
+cids: 
+
 ---
 
 # Open Hardware SCHOLARSHIP - deadline sept 14th

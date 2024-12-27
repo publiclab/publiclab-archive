@@ -7,6 +7,8 @@ path: /notes/sdepolo/05-30-2017/investigating-thermal-properties-of-rooftops-usi
 nid: 14255
 uid: 508246
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/593/original/Screen_Shot_2017-05-30_at_9.23.46_AM.png)

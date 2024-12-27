@@ -7,6 +7,8 @@ path: /notes/tim_spec/02-26-2017/jdepc-ov05-camera-intelligent-exposure.md
 nid: 13962
 uid: 468882
 
+cids: 17780,17781,17784,22434,22754
+
 ---
 
 # JDEPC-OV05 camera intelligent exposure

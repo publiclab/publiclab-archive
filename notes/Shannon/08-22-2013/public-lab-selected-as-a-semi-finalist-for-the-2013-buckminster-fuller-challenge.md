@@ -7,6 +7,8 @@ path: /notes/Shannon/08-22-2013/public-lab-selected-as-a-semi-finalist-for-the-2
 nid: 9049
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/291/original/blob)

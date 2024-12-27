@@ -7,6 +7,8 @@ path: /notes/Georgi/05-02-2016/question-calibration.md
 nid: 13061
 uid: 472098
 
+cids: 14496,22280
+
 ---
 
 # Question: Calibration...

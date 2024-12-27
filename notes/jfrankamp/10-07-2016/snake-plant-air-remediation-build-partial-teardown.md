@@ -7,6 +7,8 @@ path: /notes/jfrankamp/10-07-2016/snake-plant-air-remediation-build-partial-tear
 nid: 13532
 uid: 493826
 
+cids: 15583,15584,15585,15586,15587,16148,16149,16150,16151
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/345/original/blob)

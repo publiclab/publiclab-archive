@@ -7,6 +7,8 @@ path: /notes/romrod/11-06-2018/expanding-public-lab-s-community-stats-system.md
 nid: 17476
 uid: 558157
 
+cids: 
+
 ---
 
 # Expanding Public Lab's community stats system

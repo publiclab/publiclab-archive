@@ -7,6 +7,8 @@ path: /notes/dwhite01/01-18-2020/whats-the-price-of-the-spectrometer-3.md
 nid: 22341
 uid: 655539
 
+cids: 26190
+
 ---
 
 # WHATS THE PRICE OF THE SPECTROMETER 3?

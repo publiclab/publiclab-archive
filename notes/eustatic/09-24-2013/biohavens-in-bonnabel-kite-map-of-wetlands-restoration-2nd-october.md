@@ -7,6 +7,8 @@ path: /09-24-2013/biohavens-in-bonnabel-kite-map-of-wetlands-restoration-2nd-oct
 nid: 9364
 uid: 379
 
+cids: 7024
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/670/original/Biohavens.png)

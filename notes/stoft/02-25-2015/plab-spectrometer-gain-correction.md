@@ -7,6 +7,8 @@ path: /notes/stoft/02-25-2015/plab-spectrometer-gain-correction.md
 nid: 11638
 uid: 54025
 
+cids: 11220,11221,11222,11225,11226,11356,11571,11572,13240,13254,13258,13267,13269,13274,13281,13282,13289,17851,17859,17860,17861,17863,17874,17885,17887
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/085/original/GainCal-2.gif)

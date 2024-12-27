@@ -7,6 +7,8 @@ path: /notes/purl/01-26-2021/babylegs-first-try.md
 nid: 25545
 uid: 736598
 
+cids: 28055,28057
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/510/original/WIN_20210126_15_54_35_Pro.jpg)

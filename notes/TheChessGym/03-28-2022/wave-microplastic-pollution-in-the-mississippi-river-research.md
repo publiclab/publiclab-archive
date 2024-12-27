@@ -7,6 +7,8 @@ path: /notes/TheChessGym/03-28-2022/wave-microplastic-pollution-in-the-mississip
 nid: 30194
 uid: 788868
 
+cids: 30315,31186
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/577/original/microplastics.jpg)

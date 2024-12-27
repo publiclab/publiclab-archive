@@ -7,6 +7,8 @@ path: /notes/AndrewConner/12-03-2014/comparison-of-heat-insulation-in-two-differ
 nid: 11430
 uid: 432241
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/238/original/glowdoodle-2014-11-25-20-49-36.jpg)

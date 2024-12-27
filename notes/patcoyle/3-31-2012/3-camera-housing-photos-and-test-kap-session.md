@@ -7,6 +7,8 @@ path: /notes/patcoyle/3-31-2012/3-camera-housing-photos-and-test-kap-session.md
 nid: 1588
 uid: 77
 
+cids: 574,575
+
 ---
 
 # 3-camera housing photos and test KAP session

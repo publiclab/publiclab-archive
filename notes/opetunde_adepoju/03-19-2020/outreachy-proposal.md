@@ -7,6 +7,8 @@ path: /notes/opetunde_adepoju/03-19-2020/outreachy-proposal.md
 nid: 23186
 uid: 672574
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/647/original/outi.png)

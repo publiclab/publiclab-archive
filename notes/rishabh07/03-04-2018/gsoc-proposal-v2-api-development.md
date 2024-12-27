@@ -7,6 +7,8 @@ path: /notes/rishabh07/03-04-2018/gsoc-proposal-v2-api-development.md
 nid: 15858
 uid: 526576
 
+cids: 18865,18969,19040,19270
+
 ---
 
 # GSoC proposal: v2 API development

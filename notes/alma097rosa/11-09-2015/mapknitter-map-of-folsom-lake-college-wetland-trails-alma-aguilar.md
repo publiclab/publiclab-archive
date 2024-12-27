@@ -7,6 +7,8 @@ path: /notes/alma097rosa/11-09-2015/mapknitter-map-of-folsom-lake-college-wetlan
 nid: 12391
 uid: 456383
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/631/original/IMG_1126.JPG)

@@ -7,6 +7,8 @@ path: /notes/warren/6-14-2012/ecosynth-upcoming-open-source-3d-mapping-forests.m
 nid: 2491
 uid: 1
 
+cids: 1441,4820,5504
+
 ---
 
 ![](https://publiclab.org/sites/default/files/UMBC_Knoll_2012_10_24_oblique.png)

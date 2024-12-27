@@ -7,6 +7,8 @@ path: /notes/stevie/08-06-2019/seeking-community-fellow-for-oil-gas-water-fellow
 nid: 20445
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/382/original/Sadie_Prego_IMG_3844.jpeg)

@@ -7,6 +7,8 @@ path: /notes/sagarpreet/08-08-2018/gsoc-2018-wrap-up-post.md
 nid: 16883
 uid: 516343
 
+cids: 20409
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/104/original/Screen_Shot_2018-08-08_at_8.08.33_PM.png)

@@ -7,6 +7,8 @@ path: /notes/fongvania/08-19-2021/august-11-2021-air-quality-community-call-debr
 nid: 27578
 uid: 754846
 
+cids: 
+
 ---
 
 # August 11, 2021 Air Quality Community Call Debrief 

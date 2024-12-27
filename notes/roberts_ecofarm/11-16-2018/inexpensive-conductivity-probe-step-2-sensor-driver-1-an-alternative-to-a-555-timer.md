@@ -7,6 +7,8 @@ path: /notes/roberts_ecofarm/11-16-2018/inexpensive-conductivity-probe-step-2-se
 nid: 17556
 uid: 556121
 
+cids: 21455,21456,21458,21462
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/670/original/water_quality.jpg)

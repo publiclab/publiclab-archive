@@ -7,6 +7,8 @@ path: /notes/viechdokter/04-14-2016/light-source-limits.md
 nid: 12975
 uid: 468990
 
+cids: 14259
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/538/original/light_source_limits.jpg)

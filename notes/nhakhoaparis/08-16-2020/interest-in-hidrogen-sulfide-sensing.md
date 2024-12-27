@@ -7,6 +7,8 @@ path: /notes/nhakhoaparis/08-16-2020/interest-in-hidrogen-sulfide-sensing.md
 nid: 24335
 uid: 714364
 
+cids: 27240
+
 ---
 
 # Interest in Hidrogen Sulfide Sensing

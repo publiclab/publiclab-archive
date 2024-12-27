@@ -7,6 +7,8 @@ path: /notes/eymund/12-14-2014/having-fun-while-exploring-a-sinking-world.md
 nid: 11455
 uid: 1016
 
+cids: 10948,10952,10963
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/359/original/0_2014_11_15_Cocodrie_Barn_Raising_is_Kite_Mapping_Fun_3.gif)

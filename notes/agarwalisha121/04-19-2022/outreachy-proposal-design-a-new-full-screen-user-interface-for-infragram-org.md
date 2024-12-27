@@ -7,6 +7,8 @@ path: /notes/agarwalisha121/04-19-2022/outreachy-proposal-design-a-new-full-scre
 nid: 30484
 uid: 795441
 
+cids: 30075,30100
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/131/original/359168.jpg)

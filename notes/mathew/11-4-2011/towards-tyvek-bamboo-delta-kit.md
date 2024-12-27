@@ -7,6 +7,8 @@ path: /notes/mathew/11-4-2011/towards-tyvek-bamboo-delta-kit.md
 nid: 542
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6293479738_a1a26d7658_o.jpeg)

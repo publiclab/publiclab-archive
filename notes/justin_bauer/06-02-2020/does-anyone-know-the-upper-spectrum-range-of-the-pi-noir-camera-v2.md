@@ -7,6 +7,8 @@ path: /notes/justin_bauer/06-02-2020/does-anyone-know-the-upper-spectrum-range-o
 nid: 23765
 uid: 698760
 
+cids: 26927
+
 ---
 
 # Does anyone know the upper spectrum range of the Pi NoIR Camera V2?

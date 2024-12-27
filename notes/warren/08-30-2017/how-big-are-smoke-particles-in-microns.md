@@ -7,6 +7,8 @@ path: /notes/warren/08-30-2017/how-big-are-smoke-particles-in-microns.md
 nid: 14803
 uid: 1
 
+cids: 22567,22571,22643,22646
+
 ---
 
 # How big are smoke particles, in microns?

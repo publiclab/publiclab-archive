@@ -7,6 +7,8 @@ path: /notes/TheChessGym/08-22-2022/the-hydrosphere-is-a-valuable-natural-resour
 nid: 34894
 uid: 788868
 
+cids: 30458,30460,30461,30462,30463,30464,30465,30466
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/051/original/hydro.jpg)

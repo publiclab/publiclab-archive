@@ -7,6 +7,8 @@ path: /notes/sashae/05-15-2020/is-anyone-working-on-the-reception-of-satellite-i
 nid: 23635
 uid: 693684
 
+cids: 26834,26836,26839,26840,26843,26849,26856,26857,26868,26872,26873,26880,26885,26888,26891,26895,26899,26919,26956,26967
+
 ---
 
 # Is anyone working on the reception of satellite imagery using ham radio methods?

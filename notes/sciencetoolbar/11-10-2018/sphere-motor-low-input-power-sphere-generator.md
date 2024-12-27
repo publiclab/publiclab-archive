@@ -7,6 +7,8 @@ path: /notes/sciencetoolbar/11-10-2018/sphere-motor-low-input-power-sphere-gener
 nid: 17509
 uid: 513114
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/591/original/Sphere_motor_-_low_input_power.jpg)

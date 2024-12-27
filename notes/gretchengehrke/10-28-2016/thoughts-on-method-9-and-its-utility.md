@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/10-28-2016/thoughts-on-method-9-and-its-utility.md
 nid: 13662
 uid: 430549
 
+cids: 15873,15886,15918,29784
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/665/original/SmokeSchool-crop.jpg)

@@ -7,6 +7,8 @@ path: /notes/SangHo/02-21-2018/infragram-feild-test-in-jeju-island.md
 nid: 15797
 uid: 446912
 
+cids: 18544
+
 ---
 
 # Infragram feild test in Jeju island.

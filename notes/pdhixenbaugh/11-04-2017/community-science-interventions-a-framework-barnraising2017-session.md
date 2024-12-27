@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/11-04-2017/community-science-interventions-a-framework
 nid: 15149
 uid: 459085
 
+cids: 
+
 ---
 
 # Community Science Interventions: A Framework (Barnraising2017 Session)

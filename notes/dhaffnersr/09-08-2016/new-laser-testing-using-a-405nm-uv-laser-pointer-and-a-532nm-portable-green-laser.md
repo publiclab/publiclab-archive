@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/09-08-2016/new-laser-testing-using-a-405nm-uv-laser-poin
 nid: 13429
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/967/original/BOTH_405nm_532nm_lasers_sept_7.png)

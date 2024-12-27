@@ -7,6 +7,8 @@ path: /notes/PDiddy/10-27-2017/50-hydrogen-50-helium-light-spectroscopy.md
 nid: 15100
 uid: 517047
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/069/original/IMG_0224.JPG)

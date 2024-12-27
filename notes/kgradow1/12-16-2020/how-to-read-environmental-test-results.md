@@ -7,6 +7,8 @@ path: /notes/kgradow1/12-16-2020/how-to-read-environmental-test-results.md
 nid: 25270
 uid: 297929
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/046/original/Screen_Shot_2020-12-16_at_4.00.59_PM.png)

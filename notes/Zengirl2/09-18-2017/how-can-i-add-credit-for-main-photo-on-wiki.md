@@ -7,6 +7,8 @@ path: /notes/Zengirl2/09-18-2017/how-can-i-add-credit-for-main-photo-on-wiki.md
 nid: 14902
 uid: 423961
 
+cids: 17389,17390,22607
+
 ---
 
 # How can I add credit for main photo on Wiki?

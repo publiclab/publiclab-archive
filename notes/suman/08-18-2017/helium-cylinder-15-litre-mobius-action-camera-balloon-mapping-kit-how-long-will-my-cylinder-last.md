@@ -7,6 +7,8 @@ path: /notes/suman/08-18-2017/helium-cylinder-15-litre-mobius-action-camera-ball
 nid: 14766
 uid: 497769
 
+cids: 17359,21901,22565
+
 ---
 
 #  Helium Cylinder (15 Litre) Mobius Action Camera Balloon mapping Kit How long will my cylinder last?

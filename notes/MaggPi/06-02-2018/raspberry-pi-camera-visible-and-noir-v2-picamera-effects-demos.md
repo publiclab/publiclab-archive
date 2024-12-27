@@ -7,6 +7,8 @@ path: /notes/MaggPi/06-02-2018/raspberry-pi-camera-visible-and-noir-v2-picamera-
 nid: 16423
 uid: 501996
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/081/original/effects_video.jpg)

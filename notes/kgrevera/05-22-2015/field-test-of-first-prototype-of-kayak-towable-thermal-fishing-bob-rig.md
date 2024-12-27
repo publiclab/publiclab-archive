@@ -7,6 +7,8 @@ path: /notes/kgrevera/05-22-2015/field-test-of-first-prototype-of-kayak-towable-
 nid: 11831
 uid: 432001
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/978/original/Screen_Shot_2015-05-22_at_7.05.40_PM.png)

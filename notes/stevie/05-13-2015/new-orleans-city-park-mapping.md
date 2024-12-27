@@ -7,6 +7,8 @@ path: /notes/stevie/05-13-2015/new-orleans-city-park-mapping.md
 nid: 11812
 uid: 422561
 
+cids: 11688,11697,11806,11811,11812
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/867/original/IDIYA_Mapping.jpg)

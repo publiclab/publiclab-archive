@@ -7,6 +7,8 @@ path: /notes/shannon/4-26-2012/list-plots-organizers.md
 nid: 1806
 uid: 9
 
+cids: 
+
 ---
 
 # A list for “plots-organizers”

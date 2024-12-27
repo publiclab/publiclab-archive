@@ -7,6 +7,8 @@ path: /notes/Natalie/06-19-2014/mobius-cam-point-and-shoot-shipping-update.md
 nid: 10592
 uid: 424454
 
+cids: 9715,9718,9719,9720
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/881/original/14106506533_0022f9e0d7_o%281%29.jpg)

@@ -7,6 +7,8 @@ path: /notes/sarasage/08-29-2016/community-level-odor-mapping-site.md
 nid: 13405
 uid: 451398
 
+cids: 15261,15270,15271,15703,15709,18928,31364
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/834/original/OdorComplaintSite.JPG)

@@ -7,6 +7,8 @@ path: /notes/gbathree/09-05-2013/killing-plants-for-fun-and-science.md
 nid: 9291
 uid: 53164
 
+cids: 6765
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/398/original/IMG_20130826_090525.jpg)

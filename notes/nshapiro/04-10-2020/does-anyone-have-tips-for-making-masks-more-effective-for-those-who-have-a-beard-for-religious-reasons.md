@@ -7,6 +7,8 @@ path: /notes/nshapiro/04-10-2020/does-anyone-have-tips-for-making-masks-more-eff
 nid: 23357
 uid: 380298
 
+cids: 26658,26659,26660,26661,26662,26663,26690,26691,26693,26696,26697,26699,27983,28020
+
 ---
 
 # Does anyone have tips for making masks more effective for those who have a beard for religious reasons?

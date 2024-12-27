@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/07-24-2016/absorption-and-emission-using-the-plab-v2-5-s
 nid: 13305
 uid: 461120
 
+cids: 15016
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/195/original/cuvette_holder_apparates.png)

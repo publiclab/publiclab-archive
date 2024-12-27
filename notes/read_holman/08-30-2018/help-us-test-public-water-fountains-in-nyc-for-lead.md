@@ -7,6 +7,8 @@ path: /notes/read_holman/08-30-2018/help-us-test-public-water-fountains-in-nyc-f
 nid: 17027
 uid: 540243
 
+cids: 20522,20581,20600,20601,20635,20651,20653,20654,20655,20688,20697,20715
+
 ---
 
 # Help us test public water fountains in NYC for lead!?

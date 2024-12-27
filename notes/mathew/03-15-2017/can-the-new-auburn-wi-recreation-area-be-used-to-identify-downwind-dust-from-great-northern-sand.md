@@ -7,6 +7,8 @@ path: /notes/mathew/03-15-2017/can-the-new-auburn-wi-recreation-area-be-used-to-
 nid: 14018
 uid: 4
 
+cids: 22447,22452
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/811/original/Screen_Shot_2017-03-14_at_5.14.24_PM.png)

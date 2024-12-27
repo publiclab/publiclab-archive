@@ -7,6 +7,8 @@ path: /notes/sarasage/10-28-2016/socal-waste-stream-mapping-at-learn-beyond-the-
 nid: 13661
 uid: 451398
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/649/original/Class_01-B.jpg)

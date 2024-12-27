@@ -7,6 +7,8 @@ path: /notes/sudheesh001/03-25-2016/internationalize-public-lab-gsoc-2016.md
 nid: 12886
 uid: 468998
 
+cids: 14057,14065
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/209/original/localization.jpg)

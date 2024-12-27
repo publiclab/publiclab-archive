@@ -7,6 +7,8 @@ path: /notes/warren/4-4-2012/possible-portable-spectrometer-light-sources.md
 nid: 1619
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120404_183945.jpg)

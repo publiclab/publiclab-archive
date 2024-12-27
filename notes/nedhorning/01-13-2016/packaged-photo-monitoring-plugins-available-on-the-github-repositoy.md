@@ -7,6 +7,8 @@ path: /notes/nedhorning/01-13-2016/packaged-photo-monitoring-plugins-available-o
 nid: 12582
 uid: 133
 
+cids: 13377,14586,14591,15940,26599,26897
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/623/original/Fiji-icon.png)

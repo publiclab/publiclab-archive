@@ -7,6 +7,8 @@ path: /notes/elaineyuyu/01-26-2018/how-to-make-a-simple-multispectral-sensor-wit
 nid: 15624
 uid: 523661
 
+cids: 18316,22892
+
 ---
 
 # How to make a simple multispectral sensor with specific wavelengths (8-10 channels)?

@@ -7,6 +7,8 @@ path: /notes/xavcc/12-18-2021/water-analysis-general-presentation.md
 nid: 28509
 uid: 630823
 
+cids: 29545,29549,29550
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/265/original/b968cee3c0badd26.jpeg)

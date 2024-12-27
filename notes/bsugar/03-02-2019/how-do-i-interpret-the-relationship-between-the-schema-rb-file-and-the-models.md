@@ -7,6 +7,8 @@ path: /notes/bsugar/03-02-2019/how-do-i-interpret-the-relationship-between-the-s
 nid: 18446
 uid: 217812
 
+cids: 22034,22035,22036,23322
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/664/original/mysql_er_diagram.png)

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/06-24-2013/tedxucdavis-presentation-from-the-university-
 nid: 8400
 uid: 12
 
+cids: 5700,5718
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/571/original/Screen_Shot_2013-06-23_at_10.48.07_PM.png)

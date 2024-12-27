@@ -7,6 +7,8 @@ path: /notes/cfastie/04-24-2013/daffycam.md
 nid: 7031
 uid: 554
 
+cids: 4531,4532,4537
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/111/original/daffodil-201336168.jpg)

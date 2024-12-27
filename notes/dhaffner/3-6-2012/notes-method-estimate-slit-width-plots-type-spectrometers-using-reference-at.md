@@ -7,6 +7,8 @@ path: /notes/dhaffner/3-6-2012/notes-method-estimate-slit-width-plots-type-spect
 nid: 898
 uid: 100
 
+cids: 869
+
 ---
 
 ![](https://publiclab.org/sites/default/files/convolution02.gif)

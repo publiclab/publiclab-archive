@@ -7,6 +7,8 @@ path: /notes/ezrajet9/11-01-2021/outreachy-proposal-refine-the-public-lab-rich-e
 nid: 28016
 uid: 776386
 
+cids: 29390,29392,29395,29396,29399
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/015/original/form.png)

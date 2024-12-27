@@ -7,6 +7,8 @@ path: /notes/stevie/01-04-2021/soil-testing-and-atsdr-in-pascagoula-ms.md
 nid: 25408
 uid: 422561
 
+cids: 27889,28141,28178,28183,28184,28186,28498
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/288/original/IMG_1966001.jpg)

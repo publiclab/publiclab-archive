@@ -7,6 +7,8 @@ path: /notes/warren/04-02-2019/what-are-some-activities-for-using-the-simple-air
 nid: 18937
 uid: 1
 
+cids: 23625,23626,23627,23628,23629,23630,23632,23637,23638,23642,23643,23666,23667,23694,23703
+
 ---
 
 # What are some activities for using the Simple Air Sensor as part of a broader air quality project?

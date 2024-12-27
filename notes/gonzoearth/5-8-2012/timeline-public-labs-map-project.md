@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-8-2012/timeline-public-labs-map-project.md
 nid: 1926
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/70.jpg)

@@ -7,6 +7,8 @@ path: /notes/5-6-2012/ucsc-trees-test.md
 nid: 2096
 uid: 0
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DCP_0333_medium_7.JPG)

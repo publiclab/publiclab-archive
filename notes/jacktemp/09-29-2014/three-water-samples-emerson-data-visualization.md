@@ -7,6 +7,8 @@ path: /notes/jacktemp/09-29-2014/three-water-samples-emerson-data-visualization.
 nid: 11197
 uid: 428016
 
+cids: 10462
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/050/original/unnamed.jpg)

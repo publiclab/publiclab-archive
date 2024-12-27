@@ -7,6 +7,8 @@ path: /notes/ikerluna/10-22-2013/bio-ceramic-system.md
 nid: 9524
 uid: 271926
 
+cids: 7416
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/990/original/IMG_0044.JPG)

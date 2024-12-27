@@ -7,6 +7,8 @@ path: /notes/jfd/12-14-2016/video-infragram.md
 nid: 13783
 uid: 499882
 
+cids: 15978,15991,15992,22380,22383
+
 ---
 
 # Video Infragram

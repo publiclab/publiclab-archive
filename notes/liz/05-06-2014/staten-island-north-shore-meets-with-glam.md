@@ -7,6 +7,8 @@ path: /notes/liz/05-06-2014/staten-island-north-shore-meets-with-glam.md
 nid: 10432
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/077/original/IMG_2364.JPG)

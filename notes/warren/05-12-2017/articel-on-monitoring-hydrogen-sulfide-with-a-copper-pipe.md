@@ -7,6 +7,8 @@ path: /notes/warren/05-12-2017/articel-on-monitoring-hydrogen-sulfide-with-a-cop
 nid: 14186
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/426/original/Screen_Shot_2017-05-11_at_6.17.48_PM.png)

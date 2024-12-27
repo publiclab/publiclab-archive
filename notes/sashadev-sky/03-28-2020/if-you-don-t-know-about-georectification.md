@@ -7,6 +7,8 @@ path: /notes/sashadev-sky/03-28-2020/if-you-don-t-know-about-georectification.md
 nid: 23224
 uid: 555321
 
+cids: 26603,26642,26653
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/776/original/pasted_image_0.png)

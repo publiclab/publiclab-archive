@@ -7,6 +7,8 @@ path: /notes/id022012/07-10-2013/using-optic-fiber-to-take-a-picture-of-multiple
 nid: 8804
 uid: 60504
 
+cids: 6304,6305
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/727/original/TST_-_Spectro__Sch%C3%A8ma_130702GP.jpg)

@@ -7,6 +7,8 @@ path: /notes/bansal_sidharth2996/05-19-2018/google-summer-of-code-public-labs.md
 nid: 16368
 uid: 503599
 
+cids: 19665
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/996/original/gsoc.png)

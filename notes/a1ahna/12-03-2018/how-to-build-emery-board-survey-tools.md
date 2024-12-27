@@ -7,6 +7,8 @@ path: /notes/a1ahna/12-03-2018/how-to-build-emery-board-survey-tools.md
 nid: 17771
 uid: 518193
 
+cids: 21468,21470,21471,21488,21713,21715,21718
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/053/original/Board_build_header_2_large.jpg)

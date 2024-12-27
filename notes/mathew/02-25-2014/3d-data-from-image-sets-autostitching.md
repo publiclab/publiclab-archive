@@ -7,6 +7,8 @@ path: /notes/mathew/02-25-2014/3d-data-from-image-sets-autostitching.md
 nid: 10063
 uid: 4
 
+cids: 8336,8340,8345,8348,12895,15824
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/017/original/PP_Tut_2.jpg)

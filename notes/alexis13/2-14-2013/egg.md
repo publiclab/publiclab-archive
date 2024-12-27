@@ -7,6 +7,8 @@ path: /notes/alexis13/2-14-2013/egg.md
 nid: 5990
 uid: 50424
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/130214-205806_0.jpg)

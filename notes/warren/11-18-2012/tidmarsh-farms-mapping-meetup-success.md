@@ -7,6 +7,8 @@ path: /notes/warren/11-18-2012/tidmarsh-farms-mapping-meetup-success.md
 nid: 4939
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_8052.JPG)

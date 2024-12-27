@@ -7,6 +7,8 @@ path: /notes/liz/09-18-2015/airhugger-org-in-tonawonda.md
 nid: 12226
 uid: 7
 
+cids: 12643,12676,12715
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/625/original/IMG_20150918_094445539_HDR.jpg)

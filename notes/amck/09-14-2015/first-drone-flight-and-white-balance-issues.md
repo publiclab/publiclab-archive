@@ -7,6 +7,8 @@ path: /notes/amck/09-14-2015/first-drone-flight-and-white-balance-issues.md
 nid: 12215
 uid: 451388
 
+cids: 12537,12538,12539,12540
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/573/original/IMG_0423.JPG)

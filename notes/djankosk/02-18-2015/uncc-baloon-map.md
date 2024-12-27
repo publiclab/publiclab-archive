@@ -7,6 +7,8 @@ path: /notes/djankosk/02-18-2015/uncc-baloon-map.md
 nid: 11600
 uid: 435491
 
+cids: 
+
 ---
 
 # uncc baloon map

@@ -7,6 +7,8 @@ path: /notes/cfastie/1-4-2013/foldup-spectrometer-iphone.md
 nid: 5414
 uid: 554
 
+cids: 2872,2894,2895,2940,2943,5637
+
 ---
 
 ![](https://publiclab.org/sites/default/files/foldup-20130102-3992angle2.jpg)

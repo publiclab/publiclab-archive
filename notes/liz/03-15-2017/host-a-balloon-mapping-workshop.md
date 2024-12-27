@@ -7,6 +7,8 @@ path: /notes/liz/03-15-2017/host-a-balloon-mapping-workshop.md
 nid: 14022
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/822/original/a-14.jpg)

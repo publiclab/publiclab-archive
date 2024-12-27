@@ -7,6 +7,8 @@ path: /notes/patcoyle/05-22-2014/initial-results-kap-with-arduino-driven-servo-w
 nid: 10500
 uid: 77
 
+cids: 9064,9069,9081
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/353/original/Untitled_Panorama1.jpg)

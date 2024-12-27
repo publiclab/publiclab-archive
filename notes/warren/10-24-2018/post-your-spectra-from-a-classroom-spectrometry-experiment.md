@@ -7,6 +7,8 @@ path: /notes/warren/10-24-2018/post-your-spectra-from-a-classroom-spectrometry-e
 nid: 17384
 uid: 1
 
+cids: 20957,27845
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/208/original/image.jpg)

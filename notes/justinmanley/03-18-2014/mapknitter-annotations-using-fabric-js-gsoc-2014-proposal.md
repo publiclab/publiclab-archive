@@ -7,6 +7,8 @@ path: /notes/justinmanley/03-18-2014/mapknitter-annotations-using-fabric-js-gsoc
 nid: 10198
 uid: 421556
 
+cids: 8537,8540,8552,8638,8672
+
 ---
 
 # Mapknitter Annotations using Fabric.js (GSOC 2014 Proposal)

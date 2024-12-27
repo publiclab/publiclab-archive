@@ -7,6 +7,8 @@ path: /notes/gonzoearth/07-02-2013/multispectral-gopro-at-cloverleaf-farm.md
 nid: 8607
 uid: 12
 
+cids: 5958,5965,9024,9028,9029
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/578/original/161.png)

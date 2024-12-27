@@ -7,6 +7,8 @@ path: /notes/Shannon/02-27-2014/public-lab-receives-support-from-the-rita-allen-
 nid: 10072
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/064/original/plots-logo-transparent.jpg)

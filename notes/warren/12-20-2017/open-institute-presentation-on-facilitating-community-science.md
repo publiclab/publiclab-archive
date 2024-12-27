@@ -7,6 +7,8 @@ path: /notes/warren/12-20-2017/open-institute-presentation-on-facilitating-commu
 nid: 15401
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/983/original/Screenshot_2017-12-20_at_10.59.03_AM.png)

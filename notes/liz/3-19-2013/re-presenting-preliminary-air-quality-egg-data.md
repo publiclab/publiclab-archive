@@ -7,6 +7,8 @@ path: /notes/liz/3-19-2013/re-presenting-preliminary-air-quality-egg-data.md
 nid: 6437
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130315_120203.jpg)

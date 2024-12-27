@@ -7,6 +7,8 @@ path: /notes/wlkwong/01-01-2017/orientation-of-slit-vs-that-of-diffraction-grati
 nid: 13830
 uid: 500713
 
+cids: 22391,22392
+
 ---
 
 # orientation of slit vs that of diffraction grating

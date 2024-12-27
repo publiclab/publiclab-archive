@@ -7,6 +7,8 @@ path: /notes/justinmanley/08-19-2014/mapknitter-annotations-riffle-data-as-map-a
 nid: 11064
 uid: 421556
 
+cids: 10073,10074
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/340/original/IMAG0382.jpg)

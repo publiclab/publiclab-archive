@@ -7,6 +7,8 @@ path: /notes/victoria_o_ajala/04-22-2022/outreachy-proposal.md
 nid: 30553
 uid: 792805
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/416/original/Untitled%283%29.png)

@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-06-2017/activate-impact-fund-boldness.md
 nid: 15315
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/814/original/Stormwater_workshop_stevie2.jpg)

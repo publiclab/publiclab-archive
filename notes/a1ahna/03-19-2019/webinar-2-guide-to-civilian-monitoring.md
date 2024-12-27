@@ -7,6 +7,8 @@ path: /notes/a1ahna/03-19-2019/webinar-2-guide-to-civilian-monitoring.md
 nid: 18781
 uid: 518193
 
+cids: 23331,23340
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/299/original/cover_w2.JPG)

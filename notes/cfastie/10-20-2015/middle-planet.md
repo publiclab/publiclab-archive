@@ -7,6 +7,8 @@ path: /notes/cfastie/10-20-2015/middle-planet.md
 nid: 12323
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/059/original/LP814b2k.jpg)

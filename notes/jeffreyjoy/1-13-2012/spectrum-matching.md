@@ -7,6 +7,8 @@ path: /notes/jeffreyjoy/1-13-2012/spectrum-matching.md
 nid: 687
 uid: 440
 
+cids: 405,4165
+
 ---
 
 # spectrum matching

@@ -7,6 +7,8 @@ path: /notes/zixaq/09-03-2018/how-do-you-get-the-red-led-on-the-pi-camera-to-tur
 nid: 17046
 uid: 549272
 
+cids: 20557,20560,20564,20580
+
 ---
 
 # How do you get the red LED on the pi camera to turn off?

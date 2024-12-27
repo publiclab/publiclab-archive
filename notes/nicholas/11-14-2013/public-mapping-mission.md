@@ -7,6 +7,8 @@ path: /notes/nicholas/11-14-2013/public-mapping-mission.md
 nid: 9779
 uid: 53894
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/210/original/publicMapping_2.png)

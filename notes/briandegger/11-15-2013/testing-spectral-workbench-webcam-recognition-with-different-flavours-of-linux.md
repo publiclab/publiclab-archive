@@ -7,6 +7,8 @@ path: /notes/briandegger/11-15-2013/testing-spectral-workbench-webcam-recognitio
 nid: 9783
 uid: 58232
 
+cids: 
+
 ---
 
 # Testing spectral workbench webcam recognition with different flavours of linux

@@ -7,6 +7,8 @@ path: /notes/cfastie/11-11-2014/mapping-the-lumcon-lawn.md
 nid: 11332
 uid: 554
 
+cids: 10727
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/798/original/CocoVIS-volley2k.jpg)

@@ -7,6 +7,8 @@ path: /notes/MadTinker/02-10-2018/conductivity-sensor-electrolysis-a-concern-in-
 nid: 15712
 uid: 461206
 
+cids: 18402,22921,22922
+
 ---
 
 # conductivity sensor electrolysis a concern in moving water?  

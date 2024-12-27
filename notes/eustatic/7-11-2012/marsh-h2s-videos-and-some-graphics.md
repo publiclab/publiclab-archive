@@ -7,6 +7,8 @@ path: /7-11-2012/marsh-h2s-videos-and-some-graphics.md
 nid: 2760
 uid: 379
 
+cids: 997
+
 ---
 
 # marsh-H2S videos and some graphics

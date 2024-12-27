@@ -7,6 +7,8 @@ path: /notes/ruthnwaiganjo/10-26-2020/outreachy-winter-proposal-new-dashboard-im
 nid: 24815
 uid: 725565
 
+cids: 27523,27524,27525,27536,27537,27545,27547,27555,27581,27585,27586,27588,27592,27593,27646,27648,27652,28018
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/265/original/Screenshot_2020-10-26_at_10.51.33.png)

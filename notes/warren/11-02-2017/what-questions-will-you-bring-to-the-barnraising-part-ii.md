@@ -7,6 +7,8 @@ path: /notes/warren/11-02-2017/what-questions-will-you-bring-to-the-barnraising-
 nid: 15141
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/174/original/questioners.png)

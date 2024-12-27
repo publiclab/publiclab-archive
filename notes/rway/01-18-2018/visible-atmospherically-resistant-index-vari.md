@@ -7,6 +7,8 @@ path: /notes/rway/01-18-2018/visible-atmospherically-resistant-index-vari.md
 nid: 15546
 uid: 423528
 
+cids: 
+
 ---
 
 #  Visible Atmospherically Resistant Index (VARI)

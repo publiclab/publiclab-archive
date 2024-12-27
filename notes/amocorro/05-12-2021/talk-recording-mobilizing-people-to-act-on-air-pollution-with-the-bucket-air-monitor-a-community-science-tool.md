@@ -7,6 +7,8 @@ path: /notes/amocorro/05-12-2021/talk-recording-mobilizing-people-to-act-on-air-
 nid: 26568
 uid: 700923
 
+cids: 28764
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/769/original/de-bucketizing_the_org_chart1.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/8-7-2011/bbc-plots-how-create-your-own-aerial-map.md
 nid: 434
 uid: 1
 
+cids: 
+
 ---
 
 # BBC on PLOTS: How to create your own aerial map

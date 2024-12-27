@@ -7,6 +7,8 @@ path: /notes/abdul/10-28-2016/what-is-the-ideal-white-balance-for-the-infragam-p
 nid: 13665
 uid: 479194
 
+cids: 17559
+
 ---
 
 # What is the ideal white balance for the Infragam Point and Shoot?

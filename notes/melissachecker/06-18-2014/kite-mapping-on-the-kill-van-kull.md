@@ -7,6 +7,8 @@ path: /notes/melissachecker/06-18-2014/kite-mapping-on-the-kill-van-kull.md
 nid: 10586
 uid: 424962
 
+cids: 10008
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/838/original/DSC00776.JPG)

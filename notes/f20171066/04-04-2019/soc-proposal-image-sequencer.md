@@ -7,6 +7,8 @@ path: /notes/f20171066/04-04-2019/soc-proposal-image-sequencer.md
 nid: 18959
 uid: 579292
 
+cids: 23683,23686,23697,23704,23706,23787
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/039/original/imagesequencer.JPG)

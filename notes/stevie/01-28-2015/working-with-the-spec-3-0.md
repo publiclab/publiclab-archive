@@ -7,6 +7,8 @@ path: /notes/stevie/01-28-2015/working-with-the-spec-3-0.md
 nid: 11544
 uid: 422561
 
+cids: 11102,11106,11319,11320,16117
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/755/original/20150127_132536.jpg)

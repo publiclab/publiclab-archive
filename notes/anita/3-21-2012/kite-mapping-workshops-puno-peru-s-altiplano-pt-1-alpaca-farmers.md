@@ -7,6 +7,8 @@ path: /notes/anita/3-21-2012/kite-mapping-workshops-puno-peru-s-altiplano-pt-1-a
 nid: 1509
 uid: 481
 
+cids: 549,557
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Alpaqueros_Jayllihauha.jpg)

@@ -7,6 +7,8 @@ path: /notes/amysoyka/07-02-2014/idea-for-detecting-specific-emissions.md
 nid: 10646
 uid: 422627
 
+cids: 9392,9393,9395,9396,9397,9402,9412
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/080/original/absorbption.png)

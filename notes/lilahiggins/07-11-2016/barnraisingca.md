@@ -7,6 +7,8 @@ path: /notes/lilahiggins/07-11-2016/barnraisingca.md
 nid: 13279
 uid: 482809
 
+cids: 14910
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/974/original/XRUL2654.jpg)

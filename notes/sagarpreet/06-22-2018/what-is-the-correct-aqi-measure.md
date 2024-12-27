@@ -7,6 +7,8 @@ path: /notes/sagarpreet/06-22-2018/what-is-the-correct-aqi-measure.md
 nid: 16551
 uid: 516343
 
+cids: 19876,19899,19900,19902,19907,19908,19924,19925,19926,19927,19928,19935,21257,23152,23153,23763,23816,23829
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/270/original/Screen_Shot_2018-06-22_at_5.40.41_PM.png)

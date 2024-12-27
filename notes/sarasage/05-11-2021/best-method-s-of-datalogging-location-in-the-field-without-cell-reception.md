@@ -7,6 +7,8 @@ path: /notes/sarasage/05-11-2021/best-method-s-of-datalogging-location-in-the-fi
 nid: 26556
 uid: 451398
 
+cids: 28744,28754,28755,28758,28759,28760,28772,28781,28900
+
 ---
 
 # Best Method(s) of Datalogging Location in the Field Without Cell Reception?

@@ -7,6 +7,8 @@ path: /notes/allie_shenkin/07-13-2013/canopy-structure-and-function-of-tropical-
 nid: 8868
 uid: 170116
 
+cids: 6308,6315,6317,6320
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/772/original/medium_DSCN0047_1_.JPG_AWSAccessKeyId_AKIAISUZRVAFZUSTGD4A_Signature_96qJ15VQ2GYKkxVjjgZ7JR0iZSE__Expires_1373730502)

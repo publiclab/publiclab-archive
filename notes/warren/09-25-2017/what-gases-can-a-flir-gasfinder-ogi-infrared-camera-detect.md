@@ -7,6 +7,8 @@ path: /notes/warren/09-25-2017/what-gases-can-a-flir-gasfinder-ogi-infrared-came
 nid: 14950
 uid: 1
 
+cids: 22749
+
 ---
 
 # What gases can a FLIR GasFinder (OGI) infrared camera detect?

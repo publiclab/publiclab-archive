@@ -7,6 +7,8 @@ path: /notes/warren/4-4-2012/grassroots-mapping-tshirts.md
 nid: 1620
 uid: 1
 
+cids: 616
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3422.JPG)

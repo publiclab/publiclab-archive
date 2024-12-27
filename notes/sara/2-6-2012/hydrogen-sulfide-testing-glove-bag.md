@@ -7,6 +7,8 @@ path: /notes/sara/2-6-2012/hydrogen-sulfide-testing-glove-bag.md
 nid: 755
 uid: 8
 
+cids: 435,436,446
+
 ---
 
 ![](https://publiclab.org/sites/default/files/atmosbag.Par_.0001.Image_.200.jpg)

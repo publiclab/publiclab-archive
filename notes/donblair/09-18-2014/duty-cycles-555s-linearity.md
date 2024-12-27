@@ -7,6 +7,8 @@ path: /notes/donblair/09-18-2014/duty-cycles-555s-linearity.md
 nid: 11159
 uid: 43651
 
+cids: 10326,10327,10328,10331,10333,10335,10336,10337,10340,10342,10343,10344,10345,10346,10347
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/884/original/555-2-to1-MS-ratio-WF.jpg)

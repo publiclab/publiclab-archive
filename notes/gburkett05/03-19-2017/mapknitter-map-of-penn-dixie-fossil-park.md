@@ -7,6 +7,8 @@ path: /notes/gburkett05/03-19-2017/mapknitter-map-of-penn-dixie-fossil-park.md
 nid: 14037
 uid: 504200
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/879/original/thumbnail.jpg)

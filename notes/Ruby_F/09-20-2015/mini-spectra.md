@@ -7,6 +7,8 @@ path: /notes/Ruby_F/09-20-2015/mini-spectra.md
 nid: 12233
 uid: 452070
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/647/original/image.jpeg)

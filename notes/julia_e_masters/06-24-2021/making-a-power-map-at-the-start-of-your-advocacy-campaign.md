@@ -7,6 +7,8 @@ path: /notes/julia_e_masters/06-24-2021/making-a-power-map-at-the-start-of-your-
 nid: 26896
 uid: 756220
 
+cids: 28990
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/246/original/Powermap_Example.jpeg)

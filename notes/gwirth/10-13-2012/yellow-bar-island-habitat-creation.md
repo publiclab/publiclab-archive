@@ -7,6 +7,8 @@ path: /notes/gwirth/10-13-2012/yellow-bar-island-habitat-creation.md
 nid: 4404
 uid: 30539
 
+cids: 1649,1650,1662
+
 ---
 
 ![](https://publiclab.org/sites/default/files/120925_YellowBar_Gwirth_full (1)_0.jpg)

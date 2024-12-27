@@ -7,6 +7,8 @@ path: /notes/mpmoberly/10-19-2016/light-bulb-spectrum.md
 nid: 13612
 uid: 494931
 
+cids: 15680
+
 ---
 
 # Light bulb spectrum 

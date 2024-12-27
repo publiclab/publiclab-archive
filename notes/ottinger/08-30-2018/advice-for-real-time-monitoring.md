@@ -7,6 +7,8 @@ path: /notes/ottinger/08-30-2018/advice-for-real-time-monitoring.md
 nid: 17021
 uid: 503419
 
+cids: 29023,29025,29026
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/390/original/image.png)

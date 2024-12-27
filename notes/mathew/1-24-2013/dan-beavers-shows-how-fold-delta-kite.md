@@ -7,6 +7,8 @@ path: /notes/mathew/1-24-2013/dan-beavers-shows-how-fold-delta-kite.md
 nid: 5694
 uid: 4
 
+cids: 3224
+
 ---
 
 ![](https://publiclab.org/sites/default/files/foldyourkite.gif)

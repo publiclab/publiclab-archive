@@ -7,6 +7,8 @@ path: /notes/cagiva/01-10-2019/ndvi-for-blue-filter.md
 nid: 18097
 uid: 569044
 
+cids: 21711,23308,25625
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/754/original/IMG_1954-NDVI.jpg)

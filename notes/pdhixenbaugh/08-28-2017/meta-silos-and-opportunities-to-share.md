@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/08-28-2017/meta-silos-and-opportunities-to-share.md
 nid: 14795
 uid: 459085
 
+cids: 17262,17271,17273,17275,28609
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/455/original/oil-silo-home-conversion.jpg)

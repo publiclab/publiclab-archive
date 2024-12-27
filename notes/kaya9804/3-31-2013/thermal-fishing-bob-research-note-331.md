@@ -7,6 +7,8 @@ path: /notes/kaya9804/3-31-2013/thermal-fishing-bob-research-note-331.md
 nid: 6633
 uid: 45526
 
+cids: 4301
+
 ---
 
 ![](https://publiclab.org/sites/default/files/photo_0.jpg)

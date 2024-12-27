@@ -7,6 +7,8 @@ path: /notes/ajguthrie99/09-07-2020/headless-configuration-and-learning-shell-co
 nid: 24537
 uid: 716372
 
+cids: 27336,27344
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/807/original/IMG_6304.jpg)

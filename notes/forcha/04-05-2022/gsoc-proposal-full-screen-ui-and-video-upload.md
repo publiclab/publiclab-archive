@@ -7,6 +7,8 @@ path: /notes/forcha/04-05-2022/gsoc-proposal-full-screen-ui-and-video-upload.md
 nid: 30254
 uid: 791076
 
+cids: 29993,29999,30034,30080,30137,30140,30141
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/611/original/ndownload_%281%29.png)

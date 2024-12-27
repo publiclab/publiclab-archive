@@ -7,6 +7,8 @@ path: /notes/17sushmita/04-12-2021/gsoc-proposal-tag-topic-system-refinements.md
 nid: 26208
 uid: 741338
 
+cids: 28541,28542,28544,28545,28546,28551,28552,28555,28556
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/276/original/gsoc.png)

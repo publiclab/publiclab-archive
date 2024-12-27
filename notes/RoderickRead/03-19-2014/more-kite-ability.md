@@ -7,6 +7,8 @@ path: /notes/RoderickRead/03-19-2014/more-kite-ability.md
 nid: 10201
 uid: 421588
 
+cids: 8553,8559
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/317/original/kite_control_frame_grab.jpg)

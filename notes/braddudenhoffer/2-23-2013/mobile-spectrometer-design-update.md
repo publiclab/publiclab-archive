@@ -7,6 +7,8 @@ path: /notes/braddudenhoffer/2-23-2013/mobile-spectrometer-design-update.md
 nid: 6106
 uid: 571
 
+cids: 3538,3656,31366
+
 ---
 
 ![](https://publiclab.org/sites/default/files/20130223_01.jpg)

@@ -7,6 +7,8 @@ path: /notes/joaquinx/11-25-2017/solar-ballon-flight-trajectory-visualization.md
 nid: 15237
 uid: 518981
 
+cids: 17799,17800,17801,17850,17855,27932
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/559/original/DIFF4-web.jpg)

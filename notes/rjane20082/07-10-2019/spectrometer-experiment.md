@@ -7,6 +7,8 @@ path: /notes/rjane20082/07-10-2019/spectrometer-experiment.md
 nid: 20064
 uid: 603721
 
+cids: 25033,25066,25068
+
 ---
 
 # Spectrometer experiment

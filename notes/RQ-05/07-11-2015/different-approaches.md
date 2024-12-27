@@ -7,6 +7,8 @@ path: /notes/RQ-05/07-11-2015/different-approaches.md
 nid: 12051
 uid: 440673
 
+cids: 12156,12159,12175,12190,12200,12204
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/641/original/GreyNDVI.jpg)

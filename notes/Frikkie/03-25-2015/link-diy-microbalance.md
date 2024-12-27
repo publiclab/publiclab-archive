@@ -7,6 +7,8 @@ path: /notes/Frikkie/03-25-2015/link-diy-microbalance.md
 nid: 11722
 uid: 435693
 
+cids: 11404,11411,11424,11568,11596
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/405/original/images.jpg)

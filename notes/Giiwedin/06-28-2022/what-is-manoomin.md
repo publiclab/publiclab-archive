@@ -7,6 +7,8 @@ path: /notes/Giiwedin/06-28-2022/what-is-manoomin.md
 nid: 31164
 uid: 799642
 
+cids: 30282,30285
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/820/original/F7088200-2E3B-4D6F-BDB1-5246DE41DC57.jpeg)

@@ -7,6 +7,8 @@ path: /notes/liz/9-7-2012/urban-systems-symposium.md
 nid: 3687
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/berkeley.jpg)

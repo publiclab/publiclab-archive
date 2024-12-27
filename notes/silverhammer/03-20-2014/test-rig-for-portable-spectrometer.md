@@ -7,6 +7,8 @@ path: /notes/silverhammer/03-20-2014/test-rig-for-portable-spectrometer.md
 nid: 10209
 uid: 420530
 
+cids: 8657,8658
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/350/original/2014-03-19_23.18.03.jpg)

@@ -7,6 +7,8 @@ path: /notes/ethanbass/10-29-2015/oil-testing-kit-testing.md
 nid: 12344
 uid: 46902
 
+cids: 12864,12886,12941,12949,13055,13058,13061,13066,13071,13266
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/223/original/diesel_and_crude_crop_w_3_unknowns.png)

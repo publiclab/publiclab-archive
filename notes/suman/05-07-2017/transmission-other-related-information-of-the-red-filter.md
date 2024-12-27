@@ -7,6 +7,8 @@ path: /notes/suman/05-07-2017/transmission-other-related-information-of-the-red-
 nid: 14167
 uid: 497769
 
+cids: 16719,16724,16746
+
 ---
 
 # Transmission & other related information of the Red Filter

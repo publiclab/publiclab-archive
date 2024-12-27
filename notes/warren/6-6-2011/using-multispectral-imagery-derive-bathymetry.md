@@ -7,6 +7,8 @@ path: /notes/warren/6-6-2011/using-multispectral-imagery-derive-bathymetry.md
 nid: 336
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/bathymetry.png)

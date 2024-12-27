@@ -7,6 +7,8 @@ path: /notes/smmontgom/09-08-2018/crowdsourcing-lead-testing-in-nyc-parks-and-pl
 nid: 17082
 uid: 488474
 
+cids: 20621,20627,20630,20672,20716,26910
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/495/original/KidPhoto2_2.5_tight-crop_400x267.png)

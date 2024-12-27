@@ -7,6 +7,8 @@ path: /notes/cfastie/04-25-2017/inexpensive-data-logging.md
 nid: 14135
 uid: 554
 
+cids: 16604,16606,16607,16611,16614
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/175/original/NanoLog_20170422-8066.JPG)

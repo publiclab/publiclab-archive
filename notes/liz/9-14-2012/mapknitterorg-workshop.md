@@ -7,6 +7,8 @@ path: /notes/liz/9-14-2012/mapknitterorg-workshop.md
 nid: 3821
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen Shot 2012-09-14 at 2.22.31 PM.png)

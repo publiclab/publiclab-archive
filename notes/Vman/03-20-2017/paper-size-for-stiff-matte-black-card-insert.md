@@ -7,6 +7,8 @@ path: /notes/Vman/03-20-2017/paper-size-for-stiff-matte-black-card-insert.md
 nid: 14038
 uid: 497579
 
+cids: 16415
+
 ---
 
 # Paper size for stiff matte black card insert

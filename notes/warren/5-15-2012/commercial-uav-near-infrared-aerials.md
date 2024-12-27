@@ -7,6 +7,8 @@ path: /notes/warren/5-15-2012/commercial-uav-near-infrared-aerials.md
 nid: 1990
 uid: 1
 
+cids: 739
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-05-15 at 9.43.51 AM.png)

@@ -7,6 +7,8 @@ path: /notes/cfastie/04-25-2016/pole-ndvi-of-deer-grazing.md
 nid: 13028
 uid: 554
 
+cids: 14439,14449,14450
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/821/original/deerblogl.jpg)

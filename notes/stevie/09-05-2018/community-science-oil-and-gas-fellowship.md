@@ -7,6 +7,8 @@ path: /notes/stevie/09-05-2018/community-science-oil-and-gas-fellowship.md
 nid: 17066
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/447/original/pl-narrow.png)

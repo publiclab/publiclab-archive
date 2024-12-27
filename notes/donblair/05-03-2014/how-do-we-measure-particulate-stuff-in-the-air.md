@@ -7,6 +7,8 @@ path: /notes/donblair/05-03-2014/how-do-we-measure-particulate-stuff-in-the-air.
 nid: 10406
 uid: 43651
 
+cids: 8950,8951,8952,8953,8954,8955,8956,8959,8965,8969
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/021/original/figD1.png)

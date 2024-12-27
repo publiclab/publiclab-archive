@@ -7,6 +7,8 @@ path: /notes/belkinsa/01-30-2022/can-pond-testing-kits-be-used-for-stream-river-
 nid: 29231
 uid: 504609
 
+cids: 29614,29615,29617,29620,29634
+
 ---
 
 # Can pond testing kits be used for stream/river water?

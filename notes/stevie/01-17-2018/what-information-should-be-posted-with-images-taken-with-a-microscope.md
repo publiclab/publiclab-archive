@@ -7,6 +7,8 @@ path: /notes/stevie/01-17-2018/what-information-should-be-posted-with-images-tak
 nid: 15539
 uid: 422561
 
+cids: 20313,22885,22886
+
 ---
 
 # What information should be posted with images taken with a microscope?

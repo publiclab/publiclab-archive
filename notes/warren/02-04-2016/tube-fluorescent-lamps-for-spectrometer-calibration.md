@@ -7,6 +7,8 @@ path: /notes/warren/02-04-2016/tube-fluorescent-lamps-for-spectrometer-calibrati
 nid: 12654
 uid: 1
 
+cids: 13473,13474,13475,13479,13487,13490,13503,13504,13505,13506,13507,13508,13509,23850,23851,23852
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/078/original/IMG_20160204_124718.jpg)

@@ -7,6 +7,8 @@ path: /notes/jean-christophe-dore/10-23-2012/self-adhesive-diffraction-grating-c
 nid: 4586
 uid: 44865
 
+cids: 1717,1719,1720,2629
+
 ---
 
 ![](https://publiclab.org/sites/default/files/bonnette_adhesive2.jpg)

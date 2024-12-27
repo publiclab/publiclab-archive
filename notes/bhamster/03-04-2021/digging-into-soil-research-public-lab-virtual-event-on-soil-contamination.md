@@ -7,6 +7,8 @@ path: /notes/bhamster/03-04-2021/digging-into-soil-research-public-lab-virtual-e
 nid: 25843
 uid: 664477
 
+cids: 28294,28354,28399,28403,28408,28409,28418,28428
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/860/original/Urban_garden_SK.jpg)

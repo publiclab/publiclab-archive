@@ -7,6 +7,8 @@ path: /notes/govindgoel/03-25-2021/gsoc-proposal.md
 nid: 26033
 uid: 641919
 
+cids: 28407,28439,28443,28478,28479,28482,28484,28506
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/092/original/gsoc_image.jpeg)

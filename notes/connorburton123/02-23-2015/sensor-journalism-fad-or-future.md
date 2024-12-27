@@ -7,6 +7,8 @@ path: /notes/connorburton123/02-23-2015/sensor-journalism-fad-or-future.md
 nid: 11615
 uid: 435383
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/051/original/Screen_Shot_2015-02-22_at_7.00.17_PM.png)

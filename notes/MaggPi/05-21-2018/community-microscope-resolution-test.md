@@ -7,6 +7,8 @@ path: /notes/MaggPi/05-21-2018/community-microscope-resolution-test.md
 nid: 16369
 uid: 501996
 
+cids: 19683,19684,19686,19712,19714,19717,19718,19727
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/002/original/microscope1_%281%29.jpg)

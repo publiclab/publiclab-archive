@@ -7,6 +7,8 @@ path: /notes/warren/07-21-2013/balloon-mapping-featured-in-popular-science-big-b
 nid: 8913
 uid: 1
 
+cids: 6347,6348
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/858/original/book-of-hacks.jpg)

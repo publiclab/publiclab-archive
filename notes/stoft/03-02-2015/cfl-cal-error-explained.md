@@ -7,6 +7,8 @@ path: /notes/stoft/03-02-2015/cfl-cal-error-explained.md
 nid: 11647
 uid: 54025
 
+cids: 11357,11362,11700
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/137/original/CFL-DispursionCal.gif)

@@ -7,6 +7,8 @@ path: /notes/JWL/12-04-2014/detection-of-heavy-metals-in-plants.md
 nid: 11435
 uid: 432339
 
+cids: 10898,10899
+
 ---
 
 # Detection of heavy metals in plants

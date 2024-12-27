@@ -7,6 +7,8 @@ path: /notes/cfastie/05-27-2016/riffle-campout.md
 nid: 13149
 uid: 554
 
+cids: 14692,14693,14695,14697,14698,14699,14701
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/375/original/Riffle_20160527-5700.jpg)

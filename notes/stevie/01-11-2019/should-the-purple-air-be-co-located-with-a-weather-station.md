@@ -7,6 +7,8 @@ path: /notes/stevie/01-11-2019/should-the-purple-air-be-co-located-with-a-weathe
 nid: 18102
 uid: 422561
 
+cids: 23309,23311
+
 ---
 
 # Should the Purple Air be co-located with a weather station?

@@ -7,6 +7,8 @@ path: /notes/warren/07-31-2015/sneak-preview-of-new-spectral-workbench-sets-disp
 nid: 12108
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/943/original/Screen_Shot_2015-07-30_at_8.53.03_PM.png)

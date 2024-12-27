@@ -7,6 +7,8 @@ path: /notes/donblair/10-21-2012/r-pi-sky-leaffest.md
 nid: 4545
 uid: 43651
 
+cids: 2616
+
 ---
 
 ![](https://publiclab.org/sites/default/files/LEAFBadel-20120922-8943_0.jpg)

@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-21-2016/c2h6o-ethanol-naoh-sodium-hydroxide-successfu
 nid: 13014
 uid: 461120
 
+cids: 14376
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/729/original/eosin_y_and_solvent_ethanol_apr21.png)

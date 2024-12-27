@@ -7,6 +7,8 @@ path: /notes/mlamadrid/06-21-2016/what-happens-when-the-mining-stops-focus-on-re
 nid: 13216
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/693/original/Hoffman_Hills__Cheryl_Miller_copy.jpg)

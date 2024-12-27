@@ -7,6 +7,8 @@ path: /notes/bhickman/05-09-2016/turbidity-sensor.md
 nid: 13092
 uid: 201929
 
+cids: 14599,14600,14602,14603,14604,14606,14607,14613,14631,14634,14636,14649,17110,17116,17122,31386
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/036/original/image001.png)

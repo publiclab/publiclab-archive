@@ -7,6 +7,8 @@ path: /notes/stevie/06-10-2020/why-does-my-coqui-not-change-frequency-in-salt-wa
 nid: 23815
 uid: 422561
 
+cids: 27021,27022
+
 ---
 
 # Why does my coqui not change frequency in salt water anymore? 

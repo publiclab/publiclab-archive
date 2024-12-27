@@ -7,6 +7,8 @@ path: /notes/ElizabethGillis/10-06-2014/a-not-entirely-negative-reflection-on-se
 nid: 11239
 uid: 428096
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/320/original/Gillis-5.jpg)

@@ -7,6 +7,8 @@ path: /notes/LivingstonChangeMakerClub/04-12-2021/bird-population-size.md
 nid: 26207
 uid: 749565
 
+cids: 28594
+
 ---
 
 # Bird Population Size

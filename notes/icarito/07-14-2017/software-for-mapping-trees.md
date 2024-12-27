@@ -7,6 +7,8 @@ path: /notes/icarito/07-14-2017/software-for-mapping-trees.md
 nid: 14651
 uid: 448589
 
+cids: 17032,17033,17062,17099,22524,22525
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/123/original/mariana_arbol.jpg)

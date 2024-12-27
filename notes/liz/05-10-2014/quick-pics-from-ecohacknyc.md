@@ -7,6 +7,8 @@ path: /notes/liz/05-10-2014/quick-pics-from-ecohacknyc.md
 nid: 10464
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/232/original/IMG_2401.JPG)

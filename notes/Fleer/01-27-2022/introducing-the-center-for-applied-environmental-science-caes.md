@@ -7,6 +7,8 @@ path: /notes/Fleer/01-27-2022/introducing-the-center-for-applied-environmental-s
 nid: 29069
 uid: 785824
 
+cids: 29621,29623
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/355/original/CAESlogo.jpg)

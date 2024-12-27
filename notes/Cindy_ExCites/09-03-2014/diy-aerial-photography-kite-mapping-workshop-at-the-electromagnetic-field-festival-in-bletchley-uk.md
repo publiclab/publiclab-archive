@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/09-03-2014/diy-aerial-photography-kite-mapping-worksh
 nid: 11099
 uid: 1083
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/569/original/EMF_0003_%28768x1024%29.jpg)

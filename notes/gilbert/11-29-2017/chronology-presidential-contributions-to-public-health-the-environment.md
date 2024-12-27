@@ -7,6 +7,8 @@ path: /notes/gilbert/11-29-2017/chronology-presidential-contributions-to-public-
 nid: 15265
 uid: 508551
 
+cids: 17824,17825,20435
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/652/original/download.jpg)

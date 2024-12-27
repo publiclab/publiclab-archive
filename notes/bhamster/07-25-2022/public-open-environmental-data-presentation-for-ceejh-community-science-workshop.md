@@ -7,6 +7,8 @@ path: /notes/bhamster/07-25-2022/public-open-environmental-data-presentation-for
 nid: 34785
 uid: 664477
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/920/original/CEEJH_pres_image_1.png)

@@ -7,6 +7,8 @@ path: /notes/denissebn_06/10-04-2021/historical-chart-of-odor-complaints-for-vva
 nid: 27828
 uid: 749988
 
+cids: 29296
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/890/original/VVAMP_Thumbnail_Logo1_Holser_Canyon.tif)

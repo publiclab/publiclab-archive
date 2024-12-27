@@ -7,6 +7,8 @@ path: /notes/warren/09-23-2014/better-smoothing-and-equalizing-graph-height-for-
 nid: 11172
 uid: 1
 
+cids: 10374,10375
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/959/original/Screen_Shot_2014-09-22_at_9.32.35_PM.png)

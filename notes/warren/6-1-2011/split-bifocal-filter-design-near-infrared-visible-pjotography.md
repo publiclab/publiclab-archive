@@ -7,6 +7,8 @@ path: /notes/warren/6-1-2011/split-bifocal-filter-design-near-infrared-visible-p
 nid: 322
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20110601_101949.jpg)

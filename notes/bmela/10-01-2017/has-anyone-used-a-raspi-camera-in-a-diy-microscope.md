@@ -7,6 +7,8 @@ path: /notes/bmela/10-01-2017/has-anyone-used-a-raspi-camera-in-a-diy-microscope
 nid: 14989
 uid: 515525
 
+cids: 22649,22660
+
 ---
 
 # Has anyone used a RasPi camera in a DIY microscope?

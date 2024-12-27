@@ -7,6 +7,8 @@ path: /notes/patcoyle/1-21-2013/balloon-mapping-meetup-saturday-11213-san-franci
 nid: 5664
 uid: 77
 
+cids: 20700
+
 ---
 
 ![](https://publiclab.org/sites/default/files/P1060844.JPG)

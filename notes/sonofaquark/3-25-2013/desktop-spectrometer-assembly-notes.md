@@ -7,6 +7,8 @@ path: /notes/sonofaquark/3-25-2013/desktop-spectrometer-assembly-notes.md
 nid: 6535
 uid: 54330
 
+cids: 4206,4207,4216
+
 ---
 
 # Desktop Spectrometer Assembly Notes

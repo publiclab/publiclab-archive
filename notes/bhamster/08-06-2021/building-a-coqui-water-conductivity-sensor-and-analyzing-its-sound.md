@@ -7,6 +7,8 @@ path: /notes/bhamster/08-06-2021/building-a-coqui-water-conductivity-sensor-and-
 nid: 27442
 uid: 664477
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/579/original/Spectrogram_copy.png)

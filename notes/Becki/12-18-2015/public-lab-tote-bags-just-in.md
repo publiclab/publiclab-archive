@@ -7,6 +7,8 @@ path: /notes/Becki/12-18-2015/public-lab-tote-bags-just-in.md
 nid: 12533
 uid: 46673
 
+cids: 13170,13179
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/415/original/Tote_on_wall.JPG)

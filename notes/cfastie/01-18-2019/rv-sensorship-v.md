@@ -7,6 +7,8 @@ path: /notes/cfastie/01-18-2019/rv-sensorship-v.md
 nid: 18142
 uid: 554
 
+cids: 21823,23474,23559
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/930/original/8266_20190107-4584-2.JPG)

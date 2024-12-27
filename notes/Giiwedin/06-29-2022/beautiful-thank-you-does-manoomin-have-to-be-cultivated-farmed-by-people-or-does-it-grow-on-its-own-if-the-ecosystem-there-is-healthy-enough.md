@@ -7,6 +7,8 @@ path: /notes/Giiwedin/06-29-2022/beautiful-thank-you-does-manoomin-have-to-be-cu
 nid: 31166
 uid: 799642
 
+cids: 
+
 ---
 
 # Beautiful, thank you! Does Manoomin have to be cultivated/farmed by people, or does it grow on its own if the ecosystem there is healthy enough?

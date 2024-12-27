@@ -7,6 +7,8 @@ path: /notes/cfastie/08-20-2013/white-balance-recovery.md
 nid: 9038
 uid: 554
 
+cids: 6714,6720
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/216/original/Lettuce_Infrared.jpg)

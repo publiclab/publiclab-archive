@@ -7,6 +7,8 @@ path: /notes/warren/12-12-2010/can-we-use-back-illuminated-cmos-video-cameras-uv
 nid: 29
 uid: 1
 
+cids: 4,1233,1265
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2010-12-12 at 7.54.59 PM.png)

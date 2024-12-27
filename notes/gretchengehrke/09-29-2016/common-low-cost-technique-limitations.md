@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/09-29-2016/common-low-cost-technique-limitations.md
 nid: 13508
 uid: 430549
 
+cids: 15533,18103
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/387/original/Screenshot_2016-10-12_at_4.29.19_PM.png)

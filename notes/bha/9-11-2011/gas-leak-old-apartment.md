@@ -7,6 +7,8 @@ path: /notes/bha/9-11-2011/gas-leak-old-apartment.md
 nid: 464
 uid: 280
 
+cids: 325,327,344,426,427,548,1688,14144
+
 ---
 
 # The gas leak from an old apartment.

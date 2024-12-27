@@ -7,6 +7,8 @@ path: /notes/mathildaudufo/10-18-2021/call-for-proposals-outreachy-winter-2021.m
 nid: 27925
 uid: 751138
 
+cids: 29324,29325,29326,29355,29360,29383,29384,29398,29402
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/925/original/download.png)

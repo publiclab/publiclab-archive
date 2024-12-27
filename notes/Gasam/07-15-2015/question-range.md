@@ -7,6 +7,8 @@ path: /notes/Gasam/07-15-2015/question-range.md
 nid: 12068
 uid: 444988
 
+cids: 12194
+
 ---
 
 # Question: Range

@@ -7,6 +7,8 @@ path: /notes/divyabaid16/08-24-2019/gsoc-2019-mapknitter-image-management-divya-
 nid: 20655
 uid: 578652
 
+cids: 25326,25339,25340,25341,25399
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/828/original/Selection_240.png)

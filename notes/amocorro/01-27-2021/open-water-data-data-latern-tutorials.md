@@ -7,6 +7,8 @@ path: /notes/amocorro/01-27-2021/open-water-data-data-latern-tutorials.md
 nid: 25558
 uid: 700923
 
+cids: 28054,28058
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/542/original/openwaterdataproject_rioaschphoenix.jpg)

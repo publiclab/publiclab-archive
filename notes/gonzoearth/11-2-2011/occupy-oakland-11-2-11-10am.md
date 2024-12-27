@@ -7,6 +7,8 @@ path: /notes/gonzoearth/11-2-2011/occupy-oakland-11-2-11-10am.md
 nid: 537
 uid: 12
 
+cids: 340
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_9915.JPG)

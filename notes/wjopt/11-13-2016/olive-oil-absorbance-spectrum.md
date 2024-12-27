@@ -7,6 +7,8 @@ path: /notes/wjopt/11-13-2016/olive-oil-absorbance-spectrum.md
 nid: 13699
 uid: 469044
 
+cids: 15821
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/828/original/olive_oil_absorbance_spectrum.png)

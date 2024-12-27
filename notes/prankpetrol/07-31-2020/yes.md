@@ -7,6 +7,8 @@ path: /notes/prankpetrol/07-31-2020/yes.md
 nid: 24238
 uid: 711253
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/333/original/IMG_E9917.JPG)

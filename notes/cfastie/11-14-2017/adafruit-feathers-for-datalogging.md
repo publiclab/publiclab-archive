@@ -7,6 +7,8 @@ path: /notes/cfastie/11-14-2017/adafruit-feathers-for-datalogging.md
 nid: 15181
 uid: 554
 
+cids: 17719,17720,17755,26068,26082,26083,26102,26154
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/382/original/Feather_20171112-1556-2.JPG)

@@ -7,6 +7,8 @@ path: /notes/kgradow1/11-06-2020/toxic-city-health-impacts-of-chemicals-emitted-
 nid: 24940
 uid: 297929
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/534/original/SDCEA-Logo_%281%29.jpg)

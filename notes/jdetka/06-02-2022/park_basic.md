@@ -7,6 +7,8 @@ path: /notes/jdetka/06-02-2022/park_basic.md
 nid: 31005
 uid: 801421
 
+cids: 30240
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/718/original/blob)

@@ -7,6 +7,8 @@ path: /notes/patcoyle/09-17-2013/kap-with-simple-dual-juice-bottle-rig-infragram
 nid: 9336
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/576/original/pre-stitched-nfragram-map-near-mocho-park-livermore-ca.jpg)

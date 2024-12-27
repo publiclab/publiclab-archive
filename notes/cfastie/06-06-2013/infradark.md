@@ -7,6 +7,8 @@ path: /notes/cfastie/06-06-2013/infradark.md
 nid: 8089
 uid: 554
 
+cids: 4987,4988,4989
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/489/original/WillsTwo.jpg)

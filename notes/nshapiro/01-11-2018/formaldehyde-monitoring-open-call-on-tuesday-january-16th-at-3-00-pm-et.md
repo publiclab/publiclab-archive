@@ -7,6 +7,8 @@ path: /notes/nshapiro/01-11-2018/formaldehyde-monitoring-open-call-on-tuesday-ja
 nid: 15515
 uid: 380298
 
+cids: 18179
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/169/original/Smartform.jpg)

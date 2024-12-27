@@ -7,6 +7,8 @@ path: /notes/cfastie/01-22-2016/kap-rig-impasse.md
 nid: 12601
 uid: 554
 
+cids: 13381,13394,13397
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/765/original/Aerobee-717-7.jpg)

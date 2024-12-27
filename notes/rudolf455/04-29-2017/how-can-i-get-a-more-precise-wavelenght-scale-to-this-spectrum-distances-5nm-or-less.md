@@ -7,6 +7,8 @@ path: /notes/rudolf455/04-29-2017/how-can-i-get-a-more-precise-wavelenght-scale-
 nid: 14150
 uid: 505468
 
+cids: 16659,16662
+
 ---
 
 # how can i get a more precise wavelenght-scale to  this spectrum --distances 5nm or less ?

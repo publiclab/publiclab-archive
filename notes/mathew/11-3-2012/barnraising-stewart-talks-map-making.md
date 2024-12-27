@@ -7,6 +7,8 @@ path: /notes/mathew/11-3-2012/barnraising-stewart-talks-map-making.md
 nid: 4760
 uid: 4
 
+cids: 
+
 ---
 
 # Barnraising: Stewart talks map making

@@ -7,6 +7,8 @@ path: /notes/jbest/03-27-2019/aerial-map-of-brit.md
 nid: 18879
 uid: 194322
 
+cids: 
+
 ---
 
 # Aerial map of BRIT

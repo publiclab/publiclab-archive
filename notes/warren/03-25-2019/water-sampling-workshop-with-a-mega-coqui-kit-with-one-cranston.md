@@ -7,6 +7,8 @@ path: /notes/warren/03-25-2019/water-sampling-workshop-with-a-mega-coqui-kit-wit
 nid: 18790
 uid: 1
 
+cids: 23489
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/314/original/lead.JPG)

@@ -7,6 +7,8 @@ path: /notes/liz/03-08-2018/make-nametags-for-each-barnraiser.md
 nid: 15892
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/911/original/IMG_20151120_084018417.jpg)

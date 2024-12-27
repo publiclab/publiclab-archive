@@ -7,6 +7,8 @@ path: /notes/cfastie/08-20-2017/mini-pearl-logger-longer.md
 nid: 14774
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/373/original/sensors_20170723-0179.JPG)

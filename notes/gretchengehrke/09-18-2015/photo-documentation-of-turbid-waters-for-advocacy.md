@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/09-18-2015/photo-documentation-of-turbid-waters-for-
 nid: 12221
 uid: 430549
 
+cids: 12556,16781
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/596/original/HPIM8466-R-_Wyatt_Run_mud_INTO_Fishing_crk.JPG)

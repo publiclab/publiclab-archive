@@ -7,6 +7,8 @@ path: /notes/molangmuir10/05-13-2019/mapping-nottingham-s-urban-greening-growing
 nid: 19394
 uid: 589023
 
+cids: 24140,24143,24145,24153,24184,27105,27108
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/588/original/Urban_Greening.png)

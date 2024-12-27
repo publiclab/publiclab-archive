@@ -7,6 +7,8 @@ path: /notes/greenalastair/08-02-2022/csv-import-to-excel.md
 nid: 34818
 uid: 808697
 
+cids: 30377,30634,30651,30656,30798,30899,31425
+
 ---
 
 # CSV import to excel

@@ -7,6 +7,8 @@ path: /notes/warren/10-09-2015/web-working-group-monthly-recap-7-september-2015.
 nid: 12284
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/892/original/Screenshot_2015-10-09_at_12.53.59_PM.png)

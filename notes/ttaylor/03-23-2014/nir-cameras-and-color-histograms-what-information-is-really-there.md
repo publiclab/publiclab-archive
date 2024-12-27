@@ -7,6 +7,8 @@ path: /notes/ttaylor/03-23-2014/nir-cameras-and-color-histograms-what-informatio
 nid: 10218
 uid: 58398
 
+cids: 8573,8574
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/370/original/43x36clip.png)

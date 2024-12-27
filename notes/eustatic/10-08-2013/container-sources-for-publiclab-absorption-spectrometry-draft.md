@@ -7,6 +7,8 @@ path: /10-08-2013/container-sources-for-publiclab-absorption-spectrometry-draft.
 nid: 9419
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/805/original/9779965725_c277560950_c_container.jpg)

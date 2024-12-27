@@ -7,6 +7,8 @@ path: /notes/donblair/02-15-2014/thermal-flashlight-now-with-more-ledz.md
 nid: 10042
 uid: 43651
 
+cids: 8279
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/923/original/large_i.png)

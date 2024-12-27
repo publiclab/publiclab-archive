@@ -7,6 +7,8 @@ path: /notes/byeongwon/12-19-2010/roomba-project.md
 nid: 33
 uid: 14
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Rooba01.jpg)

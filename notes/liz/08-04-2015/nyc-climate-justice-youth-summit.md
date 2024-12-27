@@ -7,6 +7,8 @@ path: /notes/liz/08-04-2015/nyc-climate-justice-youth-summit.md
 nid: 12121
 uid: 7
 
+cids: 12323
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/034/original/front_rev-3.jpg)

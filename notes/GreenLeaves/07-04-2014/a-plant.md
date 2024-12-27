@@ -7,6 +7,8 @@ path: /notes/GreenLeaves/07-04-2014/a-plant.md
 nid: 10655
 uid: 425426
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/124/original/wei%C3%9F_p.JPG)

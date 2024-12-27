@@ -7,6 +7,8 @@ path: /notes/bodacea/01-30-2014/radiation-monitoring.md
 nid: 9989
 uid: 648
 
+cids: 8123,8148,8169
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/688/original/blob)

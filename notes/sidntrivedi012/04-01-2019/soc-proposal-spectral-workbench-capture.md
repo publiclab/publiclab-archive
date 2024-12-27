@@ -7,6 +7,8 @@ path: /notes/sidntrivedi012/04-01-2019/soc-proposal-spectral-workbench-capture.m
 nid: 18922
 uid: 572743
 
+cids: 23580,23613,23614,23617,23662,23663,23709,23758,23759,23760,23784,23812
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/929/original/proposal.png)

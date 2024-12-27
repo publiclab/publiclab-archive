@@ -7,6 +7,8 @@ path: /notes/nstarli/10-08-2019/bad-ndvi-results-from-pi-noir-with-blue-filter.m
 nid: 21117
 uid: 581160
 
+cids: 25654,25656,25657,25660,25666,25667
+
 ---
 
 # Bad NDVI Results from Pi NOIR with Blue Filter

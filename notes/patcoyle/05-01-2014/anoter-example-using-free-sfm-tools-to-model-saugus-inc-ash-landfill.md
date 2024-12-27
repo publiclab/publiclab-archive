@@ -7,6 +7,8 @@ path: /notes/patcoyle/05-01-2014/anoter-example-using-free-sfm-tools-to-model-sa
 nid: 10390
 uid: 77
 
+cids: 8949,10429
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/961/original/Sagus_MA_model_views00.png)

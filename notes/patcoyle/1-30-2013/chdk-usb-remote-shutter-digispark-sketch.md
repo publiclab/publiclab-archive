@@ -7,6 +7,8 @@ path: /notes/patcoyle/1-30-2013/chdk-usb-remote-shutter-digispark-sketch.md
 nid: 5811
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Untitled 1.jpg)

@@ -7,6 +7,8 @@ path: /notes/araaman/11-28-2017/mapknitter-map-of-bennington-college-capa.md
 nid: 15250
 uid: 519477
 
+cids: 
+
 ---
 
 # MapKnitter map of Bennington College CAPA

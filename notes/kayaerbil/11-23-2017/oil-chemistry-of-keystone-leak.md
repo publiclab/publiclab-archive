@@ -7,6 +7,8 @@ path: /notes/kayaerbil/11-23-2017/oil-chemistry-of-keystone-leak.md
 nid: 15232
 uid: 519113
 
+cids: 17796,17797,17862,17903,17904
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/543/original/FB_IMG_1511426888944.jpg)

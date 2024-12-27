@@ -7,6 +7,8 @@ path: /notes/liz/09-27-2016/what-goes-into-choosing-a-topic-name.md
 nid: 13493
 uid: 7
 
+cids: 15510,15512
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/180/original/IMG_7637.JPG)

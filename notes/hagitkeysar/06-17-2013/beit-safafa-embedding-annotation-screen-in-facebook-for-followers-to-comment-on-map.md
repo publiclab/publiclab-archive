@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/06-17-2013/beit-safafa-embedding-annotation-screen-in-f
 nid: 8244
 uid: 152
 
+cids: 5389,28554
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/525/original/beit-safafa.jpg)

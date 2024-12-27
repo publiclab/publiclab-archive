@@ -7,6 +7,8 @@ path: /notes/ranon/08-10-2016/reconfigurable-rig-pole-configuration-and-github-r
 nid: 13344
 uid: 477060
 
+cids: 15102,15104,15107,15108,15109,15268,15279,15280,15281,15282
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/535/original/Reconfigurable_Rig_Pole_Configuration_Render.png)

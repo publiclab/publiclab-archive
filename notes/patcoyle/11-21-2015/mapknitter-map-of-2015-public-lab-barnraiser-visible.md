@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-21-2015/mapknitter-map-of-2015-public-lab-barnraiser-vi
 nid: 12432
 uid: 77
 
+cids: 
+
 ---
 
 # MapKnitter map of 2015 Public Lab Barnraiser visible

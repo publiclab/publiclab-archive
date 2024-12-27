@@ -7,6 +7,8 @@ path: /notes/saeed957/05-02-2017/suppression-of-background-light.md
 nid: 14156
 uid: 504013
 
+cids: 16682,16687,16692
+
 ---
 
 # Suppression of background light

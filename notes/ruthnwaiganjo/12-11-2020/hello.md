@@ -7,6 +7,8 @@ path: /notes/ruthnwaiganjo/12-11-2020/hello.md
 nid: 25228
 uid: 725565
 
+cids: 27799,27802,27803,27841,27842,27844,27926
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/953/original/Ugali___Sukuma_Wiki.jpg)

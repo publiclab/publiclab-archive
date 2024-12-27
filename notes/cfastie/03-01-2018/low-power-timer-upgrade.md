@@ -7,6 +7,8 @@ path: /notes/cfastie/03-01-2018/low-power-timer-upgrade.md
 nid: 15841
 uid: 554
 
+cids: 28416,29046,29091,29092
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/767/original/miniPearl_20180225-2670-2ps.jpg)

@@ -7,6 +7,8 @@ path: /notes/imvec/06-08-2018/adding-a-jack-to-the-coqui.md
 nid: 16456
 uid: 495038
 
+cids: 19860
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/182/original/photo_2018-06-08_22-41-09.jpg)

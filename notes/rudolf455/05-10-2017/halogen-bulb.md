@@ -7,6 +7,8 @@ path: /notes/rudolf455/05-10-2017/halogen-bulb.md
 nid: 14172
 uid: 505468
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/404/original/LEARN_LIGHT_FLAPPITschmuhalogen5.jpg)

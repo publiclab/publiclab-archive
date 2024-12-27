@@ -7,6 +7,8 @@ path: /notes/sashae/06-25-2020/what-does-a-raw-noaa-image-look-like.md
 nid: 24040
 uid: 693684
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/929/original/NOAA_18_S_72_W_2020-06-05_11-10_BST_contrast.png)

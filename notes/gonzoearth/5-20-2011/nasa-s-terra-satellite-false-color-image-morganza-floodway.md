@@ -7,6 +7,8 @@ path: /notes/gonzoearth/5-20-2011/nasa-s-terra-satellite-false-color-image-morga
 nid: 263
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Capture.JPG)

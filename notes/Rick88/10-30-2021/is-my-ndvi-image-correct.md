@@ -7,6 +7,8 @@ path: /notes/Rick88/10-30-2021/is-my-ndvi-image-correct.md
 nid: 28014
 uid: 777298
 
+cids: 
+
 ---
 
 # Is my NDVI image correct?

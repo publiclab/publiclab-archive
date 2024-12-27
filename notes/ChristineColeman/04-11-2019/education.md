@@ -7,6 +7,8 @@ path: /notes/ChristineColeman/04-11-2019/education.md
 nid: 19037
 uid: 580300
 
+cids: 23890,24061
+
 ---
 
 # Education 

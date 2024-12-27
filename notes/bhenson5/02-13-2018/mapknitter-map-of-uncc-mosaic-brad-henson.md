@@ -7,6 +7,8 @@ path: /notes/bhenson5/02-13-2018/mapknitter-map-of-uncc-mosaic-brad-henson.md
 nid: 15726
 uid: 525075
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/554/original/P1040127.JPG)

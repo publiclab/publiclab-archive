@@ -7,6 +7,8 @@ path: /notes/seko/06-23-2016/question-using-a-webcam-with-a-image-resolution-of-
 nid: 13234
 uid: 475753
 
+cids: 22265
+
 ---
 
 # Question: Using a webcam with a image resolution of 1920x1020

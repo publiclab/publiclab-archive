@@ -7,6 +7,8 @@ path: /notes/megan/8-14-2012/new-container-tests-aztec-new-mexico.md
 nid: 3286
 uid: 775
 
+cids: 1172,1174
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1081.JPG)

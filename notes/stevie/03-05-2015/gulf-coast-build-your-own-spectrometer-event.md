@@ -7,6 +7,8 @@ path: /notes/stevie/03-05-2015/gulf-coast-build-your-own-spectrometer-event.md
 nid: 11657
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/179/original/Oil_Testing_and_Spectrometry.jpg)

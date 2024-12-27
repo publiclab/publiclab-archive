@@ -7,6 +7,8 @@ path: /notes/LauraChipley/10-09-2015/dustduino-build-for-the-amp-project.md
 nid: 12283
 uid: 428957
 
+cids: 12699,12756
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/885/original/dustduino_1.jpg)

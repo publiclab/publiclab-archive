@@ -7,6 +7,8 @@ path: /notes/warren/11-06-2016/bridges-between-our-community-and-our-software-co
 nid: 13682
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/723/original/Screenshot_2016-11-05_at_8.12.04_PM.png)

@@ -7,6 +7,8 @@ path: /notes/rockets/07-10-2017/how-accurate-is-the-probe.md
 nid: 14635
 uid: 492583
 
+cids: 17018,17025,22519
+
 ---
 
 # How accurate are KnowFlow probes?

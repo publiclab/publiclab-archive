@@ -7,6 +7,8 @@ path: /notes/Zengirl2/01-04-2018/how-to-bootload-a-riffle.md
 nid: 15459
 uid: 423961
 
+cids: 18130,18163
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/095/original/RiffleCU.JPG)

@@ -7,6 +7,8 @@ path: /notes/sebasvanegasb/11-04-2015/mapping-experiment-llactalab-cuenca-ecuado
 nid: 12367
 uid: 456585
 
+cids: 12847,12848,12851
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/476/original/IMG_5981.JPG)

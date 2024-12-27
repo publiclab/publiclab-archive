@@ -7,6 +7,8 @@ path: /notes/cfastie/05-19-2014/ifarm-uav-field-day.md
 nid: 10481
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/293/original/IMG_5865.JPG)

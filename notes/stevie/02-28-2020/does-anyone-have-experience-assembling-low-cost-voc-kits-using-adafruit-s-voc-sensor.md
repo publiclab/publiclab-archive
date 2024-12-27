@@ -7,6 +7,8 @@ path: /notes/stevie/02-28-2020/does-anyone-have-experience-assembling-low-cost-v
 nid: 22967
 uid: 422561
 
+cids: 26395,26396,26401,26444,26454,26459,26472,26516
+
 ---
 
 # Does anyone have experience assembling low-cost VOC kits using Adafruit’s VOC sensor?

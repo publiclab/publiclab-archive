@@ -7,6 +7,8 @@ path: /notes/santybarbosaespin/10-30-2019/sun.md
 nid: 21348
 uid: 631550
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/036/106/original/IMG_20191025_063230072.jpg)

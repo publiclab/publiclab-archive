@@ -7,6 +7,8 @@ path: /notes/Winter/10-06-2016/loading-the-proper-camera-driver-for-the-vimicro-
 nid: 13527
 uid: 488457
 
+cids: 15590,15643,15644
+
 ---
 
 # loading the proper camera driver for the DSK webcam

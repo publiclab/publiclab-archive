@@ -7,6 +7,8 @@ path: /notes/fongvania/07-21-2021/learning-to-spot-lichens-and-mosses.md
 nid: 27215
 uid: 754846
 
+cids: 29047,29054,29056,29063
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/445/original/IMG_1509.jpg)

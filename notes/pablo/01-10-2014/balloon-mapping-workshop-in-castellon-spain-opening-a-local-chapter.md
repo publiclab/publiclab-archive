@@ -7,6 +7,8 @@ path: /notes/pablo/01-10-2014/balloon-mapping-workshop-in-castellon-spain-openin
 nid: 9935
 uid: 160
 
+cids: 8019,8022
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/513/original/documentando-territorio-cartel-2.jpg)

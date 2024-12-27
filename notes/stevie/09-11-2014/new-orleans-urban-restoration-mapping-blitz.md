@@ -7,6 +7,8 @@ path: /notes/stevie/09-11-2014/new-orleans-urban-restoration-mapping-blitz.md
 nid: 11131
 uid: 422561
 
+cids: 10282,10291,10293,10362,10435,10451,10521,10522,10523,10525,10526,10527,10536
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/779/original/Public_Lab_event_flyer_stevie.jpg)

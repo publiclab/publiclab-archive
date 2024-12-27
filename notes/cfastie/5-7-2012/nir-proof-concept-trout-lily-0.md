@@ -7,6 +7,8 @@ path: /notes/cfastie/5-7-2012/nir-proof-concept-trout-lily-0.md
 nid: 1921
 uid: 554
 
+cids: 706,708,736,737
+
 ---
 
 ![](https://publiclab.org/sites/default/files/trout-lilies.png)

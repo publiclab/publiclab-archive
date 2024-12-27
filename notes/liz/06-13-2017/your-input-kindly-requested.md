@@ -7,6 +7,8 @@ path: /notes/liz/06-13-2017/your-input-kindly-requested.md
 nid: 14532
 uid: 7
 
+cids: 16888,17126
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/777/original/plots-logo-transparent.jpg)

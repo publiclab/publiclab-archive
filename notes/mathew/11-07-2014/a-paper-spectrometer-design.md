@@ -7,6 +7,8 @@ path: /notes/mathew/11-07-2014/a-paper-spectrometer-design.md
 nid: 11324
 uid: 4
 
+cids: 10708,10712,10715,10716,10717,10719,10918
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/766/original/IMG_20141106_161031.jpg)

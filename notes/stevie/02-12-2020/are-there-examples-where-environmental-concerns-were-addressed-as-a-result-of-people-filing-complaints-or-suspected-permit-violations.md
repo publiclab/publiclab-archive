@@ -7,6 +7,8 @@ path: /notes/stevie/02-12-2020/are-there-examples-where-environmental-concerns-w
 nid: 22775
 uid: 422561
 
+cids: 26291,26292,26294,26300,26302,26303,26304
+
 ---
 
 # Are there examples where environmental concerns were addressed as a result of people filing complaints (or suspected permit violations)? 

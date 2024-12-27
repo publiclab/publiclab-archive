@@ -7,6 +7,8 @@ path: /notes/itm2017004/03-12-2020/outreachy-proposal-optimize-performance-and-a
 nid: 23130
 uid: 667155
 
+cids: 26471,26482,26483,26484,26490,26491,26515,26532,26533,26574,26779,26780,26781,26787,26789
+
 ---
 
 # Outreachy Proposal: Optimize Performance and Accessibility of Public Lab Content.

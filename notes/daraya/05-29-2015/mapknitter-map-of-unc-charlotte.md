@@ -7,6 +7,8 @@ path: /notes/daraya/05-29-2015/mapknitter-map-of-unc-charlotte.md
 nid: 11894
 uid: 442682
 
+cids: 
+
 ---
 
 # MapKnitter map of unc charlotte

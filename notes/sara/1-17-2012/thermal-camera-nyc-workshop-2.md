@@ -7,6 +7,8 @@ path: /notes/sara/1-17-2012/thermal-camera-nyc-workshop-2.md
 nid: 694
 uid: 8
 
+cids: 407,564,565,566
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 11.png)

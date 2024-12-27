@@ -7,6 +7,8 @@ path: /notes/pjsbill/04-02-2015/video-streaming-with-infragram-on-intel-edison-u
 nid: 11737
 uid: 430349
 
+cids: 11462,11465
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/525/original/ghklogo.png)

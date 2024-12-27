@@ -7,6 +7,8 @@ path: /notes/denissebn_06/07-12-2021/how-subsurface-gasses-migrate-and-what-allo
 nid: 27075
 uid: 749988
 
+cids: 29018,29021,29065,29069,29082
+
 ---
 
 # How subsurface gasses migrate and what allows them to dissipate? Landfill gasses

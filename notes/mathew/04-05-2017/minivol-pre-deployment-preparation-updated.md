@@ -7,6 +7,8 @@ path: /notes/mathew/04-05-2017/minivol-pre-deployment-preparation-updated.md
 nid: 14090
 uid: 4
 
+cids: 
+
 ---
 
 # MiniVol pre-deployment preparation, Updated

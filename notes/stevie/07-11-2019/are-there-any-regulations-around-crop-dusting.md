@@ -7,6 +7,8 @@ path: /notes/stevie/07-11-2019/are-there-any-regulations-around-crop-dusting.md
 nid: 20077
 uid: 422561
 
+cids: 
+
 ---
 
 # Are there any regulations around crop dusting? 

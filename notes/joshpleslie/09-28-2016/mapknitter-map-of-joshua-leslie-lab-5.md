@@ -7,6 +7,8 @@ path: /notes/joshpleslie/09-28-2016/mapknitter-map-of-joshua-leslie-lab-5.md
 nid: 13501
 uid: 493191
 
+cids: 15523
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/192/original/P1130477.JPG)

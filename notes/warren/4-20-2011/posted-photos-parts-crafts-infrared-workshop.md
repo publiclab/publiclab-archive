@@ -7,6 +7,8 @@ path: /notes/warren/4-20-2011/posted-photos-parts-crafts-infrared-workshop.md
 nid: 182
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_2016.JPG)

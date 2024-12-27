@@ -7,6 +7,8 @@ path: /notes/warren/12-28-2013/live-webcam-infragramming-webgl-option.md
 nid: 9917
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/459/original/webcam.png)

@@ -7,6 +7,8 @@ path: /notes/warren/12-10-2010/methane-absorption-band-around-1100nm.md
 nid: 24
 uid: 1
 
+cids: 21292
+
 ---
 
 ![](https://publiclab.org/sites/default/files/directoutput.png)

@@ -7,6 +7,8 @@ path: /notes/alaxallves/08-24-2019/google-summer-of-code-2019-report.md
 nid: 20656
 uid: 577447
 
+cids: 25328,25329,25332,25333,25335,25338,25375,25398,25403,25406,25407,25409
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/830/original/rails-6.0.0.beta.png)

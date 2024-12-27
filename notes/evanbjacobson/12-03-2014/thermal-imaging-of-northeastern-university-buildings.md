@@ -7,6 +7,8 @@ path: /notes/evanbjacobson/12-03-2014/thermal-imaging-of-northeastern-university
 nid: 11433
 uid: 432234
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/256/original/Racket.JPG)

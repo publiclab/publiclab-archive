@@ -7,6 +7,8 @@ path: /notes/warren/7-18-2012/mylar-delta-kite-design.md
 nid: 2860
 uid: 1
 
+cids: 1044,1049,1050
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0238.JPG)

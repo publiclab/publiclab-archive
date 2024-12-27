@@ -7,6 +7,8 @@ path: /notes/cristoforetti/06-22-2016/webvalley-2016-improved-compact-spectromet
 nid: 13225
 uid: 470966
 
+cids: 14783,14785,14805,14806,14808,14827,14830
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/710/original/pl2.jpg)

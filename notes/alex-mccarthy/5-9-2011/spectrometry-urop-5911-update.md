@@ -7,6 +7,8 @@ path: /notes/alex-mccarthy/5-9-2011/spectrometry-urop-5911-update.md
 nid: 232
 uid: 125
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/100_0396.JPG)

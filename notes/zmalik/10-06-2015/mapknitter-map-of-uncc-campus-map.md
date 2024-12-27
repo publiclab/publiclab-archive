@@ -7,6 +7,8 @@ path: /notes/zmalik/10-06-2015/mapknitter-map-of-uncc-campus-map.md
 nid: 12269
 uid: 452921
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/767/original/P1030697.JPG)

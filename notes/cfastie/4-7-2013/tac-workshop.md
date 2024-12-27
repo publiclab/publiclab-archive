@@ -7,6 +7,8 @@ path: /notes/cfastie/4-7-2013/tac-workshop.md
 nid: 6707
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Sparrow-201334737.jpg)

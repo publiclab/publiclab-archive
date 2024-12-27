@@ -7,6 +7,8 @@ path: /notes/ektopyrotic/09-14-2020/new-developments-in-multi-spectral-drone-ima
 nid: 24576
 uid: 699450
 
+cids: 27362,27364,27365,27409
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/884/original/DJI_0880.JPG)

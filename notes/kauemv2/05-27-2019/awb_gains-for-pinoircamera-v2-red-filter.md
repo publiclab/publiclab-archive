@@ -7,6 +7,8 @@ path: /notes/kauemv2/05-27-2019/awb_gains-for-pinoircamera-v2-red-filter.md
 nid: 19540
 uid: 590177
 
+cids: 24264,24356,29803
+
 ---
 
 # AWB_Gains for PiNoIRCamera V2 (Red Filter)

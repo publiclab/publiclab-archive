@@ -7,6 +7,8 @@ path: /notes/mlamadrid/06-22-2016/visual-reporting-on-air-quality-epa-method-9.m
 nid: 13221
 uid: 45586
 
+cids: 14872,14876
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/704/original/crispin_pierce.jpg)

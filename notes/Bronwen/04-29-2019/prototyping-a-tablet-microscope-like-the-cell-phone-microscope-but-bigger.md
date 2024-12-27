@@ -7,6 +7,8 @@ path: /notes/Bronwen/04-29-2019/prototyping-a-tablet-microscope-like-the-cell-ph
 nid: 19188
 uid: 237313
 
+cids: 24001,24006,24009,24021,24049,24050,24103
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/745/original/tablettopview.jpg)

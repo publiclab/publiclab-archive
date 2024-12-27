@@ -7,6 +7,8 @@ path: /notes/donblair/05-28-2014/riffle-dev-closer-to-conductivity-measuring-555
 nid: 10515
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/475/original/555pinout.jpg)

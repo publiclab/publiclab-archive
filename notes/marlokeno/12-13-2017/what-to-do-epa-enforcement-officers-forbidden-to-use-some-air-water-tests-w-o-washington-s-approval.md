@@ -7,6 +7,8 @@ path: /notes/marlokeno/12-13-2017/what-to-do-epa-enforcement-officers-forbidden-
 nid: 15367
 uid: 420760
 
+cids: 
+
 ---
 
 # What to do-EPA enforcement officers forbidden to use some air & water tests w.o. Washington's approval?

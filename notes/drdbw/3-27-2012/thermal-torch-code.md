@@ -7,6 +7,8 @@ path: /notes/drdbw/3-27-2012/thermal-torch-code.md
 nid: 1548
 uid: 706
 
+cids: 559,560,561
+
 ---
 
 # Thermal Torch Code

@@ -7,6 +7,8 @@ path: /notes/liz/04-11-2014/reducing-reflections-in-foldup-spec.md
 nid: 10297
 uid: 7
 
+cids: 8733,8739
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/620/original/IMG_2262.JPG)

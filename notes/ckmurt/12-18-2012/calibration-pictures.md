@@ -7,6 +7,8 @@ path: /notes/ckmurt/12-18-2012/calibration-pictures.md
 nid: 5244
 uid: 46853
 
+cids: 2764,2765,2766,2767,2769,2770,2792,2795,2796,2797,2802,2803,2804,8185
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectrometry 3.JPG)

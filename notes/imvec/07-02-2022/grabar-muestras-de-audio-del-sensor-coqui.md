@@ -7,6 +7,8 @@ path: /notes/imvec/07-02-2022/grabar-muestras-de-audio-del-sensor-coqui.md
 nid: 31176
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/842/original/bezoya.png)

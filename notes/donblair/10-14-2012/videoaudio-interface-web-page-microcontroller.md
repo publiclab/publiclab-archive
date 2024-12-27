@@ -7,6 +7,8 @@ path: /notes/donblair/10-14-2012/videoaudio-interface-web-page-microcontroller.m
 nid: 4407
 uid: 43651
 
+cids: 1664,1665,1669,1673,1675,1677,1678,1679,1683,1696,1752,2044,2100
+
 ---
 
 ![](https://publiclab.org/sites/default/files/publiclabisrad.png)

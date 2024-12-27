@@ -7,6 +7,8 @@ path: /notes/donblair/08-25-2015/dock-test.md
 nid: 12169
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/274/original/thermal-tape.JPG)

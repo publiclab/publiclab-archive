@@ -7,6 +7,8 @@ path: /notes/noklein99/12-11-2021/mapknitter-map-of-stetson-university-ponce-pre
 nid: 28416
 uid: 781933
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/203/original/IMG_0067.PNG)

@@ -7,6 +7,8 @@ path: /notes/jsand4/02-14-2018/mapknitter-map-of-uncc-main-campus.md
 nid: 15733
 uid: 525194
 
+cids: 18435
+
 ---
 
 # MapKnitter map of UNCC main Campus

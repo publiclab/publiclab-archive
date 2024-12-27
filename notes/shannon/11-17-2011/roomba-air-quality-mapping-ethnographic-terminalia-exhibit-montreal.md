@@ -7,6 +7,8 @@ path: /notes/shannon/11-17-2011/roomba-air-quality-mapping-ethnographic-terminal
 nid: 566
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/ethnographic-terminalia-2.jpg)

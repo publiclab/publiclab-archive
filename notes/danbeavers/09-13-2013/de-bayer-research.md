@@ -7,6 +7,8 @@ path: /notes/danbeavers/09-13-2013/de-bayer-research.md
 nid: 9324
 uid: 51
 
+cids: 6831
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/541/original/mono5.jpg)

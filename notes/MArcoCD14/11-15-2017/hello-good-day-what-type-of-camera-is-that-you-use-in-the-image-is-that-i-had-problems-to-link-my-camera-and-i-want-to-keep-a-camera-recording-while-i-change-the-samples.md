@@ -7,6 +7,8 @@ path: /notes/MArcoCD14/11-15-2017/hello-good-day-what-type-of-camera-is-that-you
 nid: 15195
 uid: 518466
 
+cids: 17696
+
 ---
 
 # Hello good day what type of camera is that you use in the image?, is that I had problems to link my camera and I want to keep a camera recording while I change the samples

@@ -7,6 +7,8 @@ path: /notes/liz/1-31-2013/aqe-sd-assembly.md
 nid: 5828
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130131_135114.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/05-27-2013/infragram-test-photos-from-a-plane-window.md
 nid: 7932
 uid: 1
 
+cids: 4860,4862
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/406/original/IMG_0019_copy.JPG)

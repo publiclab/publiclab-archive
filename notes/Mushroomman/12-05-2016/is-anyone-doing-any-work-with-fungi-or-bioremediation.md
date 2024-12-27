@@ -7,6 +7,8 @@ path: /notes/Mushroomman/12-05-2016/is-anyone-doing-any-work-with-fungi-or-biore
 nid: 13745
 uid: 498969
 
+cids: 22223,22382,22481,25532
+
 ---
 
 # Is anyone doing any work with fungi? or bioremediation?

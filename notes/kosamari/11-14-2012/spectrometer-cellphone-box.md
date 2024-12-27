@@ -7,6 +7,8 @@ path: /notes/kosamari/11-14-2012/spectrometer-cellphone-box.md
 nid: 4905
 uid: 44255
 
+cids: 2504
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSC_0311.JPG)

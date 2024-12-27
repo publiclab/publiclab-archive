@@ -7,6 +7,8 @@ path: /notes/waridrox/04-03-2021/gsoc-2021-proposal-spectral-workbench-js-js-rai
 nid: 26134
 uid: 745996
 
+cids: 28448,28487,28493,28504,28510,28511,28513,28520
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/143/original/Picture_1.png)

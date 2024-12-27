@@ -7,6 +7,8 @@ path: /notes/ngocthuyluu/11-19-2020/testing-for-contaminants-in-garden-soil.md
 nid: 25075
 uid: 727477
 
+cids: 27694,27699,27713,28017,28067,28168,28182
+
 ---
 
 # Testing for Contaminants in Garden Soil

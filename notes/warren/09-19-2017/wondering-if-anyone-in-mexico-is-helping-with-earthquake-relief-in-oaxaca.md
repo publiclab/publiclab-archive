@@ -7,6 +7,8 @@ path: /notes/warren/09-19-2017/wondering-if-anyone-in-mexico-is-helping-with-ear
 nid: 14911
 uid: 1
 
+cids: 22632
+
 ---
 
 # Wondering if anyone in Mexico is helping with earthquake relief in Oaxaca?

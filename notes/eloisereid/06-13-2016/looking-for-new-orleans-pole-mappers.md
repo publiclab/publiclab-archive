@@ -7,6 +7,8 @@ path: /notes/eloisereid/06-13-2016/looking-for-new-orleans-pole-mappers.md
 nid: 13193
 uid: 478190
 
+cids: 
+
 ---
 
 # Looking for New Orleans Pole Mappers

@@ -7,6 +7,8 @@ path: /notes/takurofisayo/04-20-2022/outreachy-proposal-new-ui-design-for-infrag
 nid: 30515
 uid: 795380
 
+cids: 30104,30108,30116
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/366/original/www.figma.com_file_NPxEm0dDHU4XrskbIvUZ9i_Public-Lab---New-UI_node-id_0_1.png)

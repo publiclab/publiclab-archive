@@ -7,6 +7,8 @@ path: /notes/ddileona/03-20-2015/spring-fling-calibrating-the-coqui.md
 nid: 11694
 uid: 436738
 
+cids: 11383
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/327/original/Adding_Salt.jpg)

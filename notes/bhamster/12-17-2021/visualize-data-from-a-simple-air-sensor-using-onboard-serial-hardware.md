@@ -7,6 +7,8 @@ path: /notes/bhamster/12-17-2021/visualize-data-from-a-simple-air-sensor-using-o
 nid: 28508
 uid: 664477
 
+cids: 29689,29716
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/250/original/SAS_plotter_lead_image.png)

@@ -7,6 +7,8 @@ path: /notes/tylerknight/06-01-2022/rising-pm-2-5-in-st-james.md
 nid: 31003
 uid: 777566
 
+cids: 30243,30245
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/713/original/Vacherie_5_Day_Event.png)

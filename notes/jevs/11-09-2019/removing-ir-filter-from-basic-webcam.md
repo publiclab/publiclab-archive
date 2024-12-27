@@ -7,6 +7,8 @@ path: /notes/jevs/11-09-2019/removing-ir-filter-from-basic-webcam.md
 nid: 21429
 uid: 635927
 
+cids: 25834,25835,25836,25837,25838,25839,25840,25842,25843,25845,25850,25851,25852,25853,25855
+
 ---
 
 # Removing IR filter from basic webcam?

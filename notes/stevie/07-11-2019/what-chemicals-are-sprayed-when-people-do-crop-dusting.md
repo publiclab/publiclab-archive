@@ -7,6 +7,8 @@ path: /notes/stevie/07-11-2019/what-chemicals-are-sprayed-when-people-do-crop-du
 nid: 20076
 uid: 422561
 
+cids: 25034
+
 ---
 
 # What chemicals are sprayed when people do crop dusting? 

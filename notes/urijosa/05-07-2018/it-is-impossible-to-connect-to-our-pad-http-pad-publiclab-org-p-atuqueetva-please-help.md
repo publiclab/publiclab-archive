@@ -7,6 +7,8 @@ path: /notes/urijosa/05-07-2018/it-is-impossible-to-connect-to-our-pad-http-pad-
 nid: 16306
 uid: 533492
 
+cids: 19575,23087
+
 ---
 
 # It is impossible to connect to our pad: http://pad.publiclab.org/p/atuqueetva PLEASE HELP

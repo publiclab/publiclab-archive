@@ -7,6 +7,8 @@ path: /notes/DanielleS/03-12-2019/how-do-you-choose-where-to-take-soil-samples-w
 nid: 18519
 uid: 569208
 
+cids: 27693,27700,27701,27706
+
 ---
 
 # How do you choose where to take soil samples when concerned about leaching of contaminants from a landfill?

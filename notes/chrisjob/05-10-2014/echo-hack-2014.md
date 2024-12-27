@@ -7,6 +7,8 @@ path: /notes/chrisjob/05-10-2014/echo-hack-2014.md
 nid: 10463
 uid: 423389
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/216/original/windowView.png)

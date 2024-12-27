@@ -7,6 +7,8 @@ path: /notes/patcoyle/5-18-2012/follow-faucet-cover-camera-enclosure.md
 nid: 2126
 uid: 77
 
+cids: 753,754,12189
+
 ---
 
 ![](https://publiclab.org/sites/default/files/faucet covers.JPG)

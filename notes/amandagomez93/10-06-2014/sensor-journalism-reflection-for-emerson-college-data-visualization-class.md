@@ -7,6 +7,8 @@ path: /notes/amandagomez93/10-06-2014/sensor-journalism-reflection-for-emerson-c
 nid: 11232
 uid: 428015
 
+cids: 
+
 ---
 
 # Sensor Journalism Reflection for Emerson College Data Visualization Class

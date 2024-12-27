@@ -7,6 +7,8 @@ path: /8-6-2012/gas-some-hydrogen-sulfide-escaping-collapsing-salt-dome.md
 nid: 3159
 uid: 379
 
+cids: 
+
 ---
 
 # Gas, some Hydrogen Sulfide escaping from collapsing salt dome

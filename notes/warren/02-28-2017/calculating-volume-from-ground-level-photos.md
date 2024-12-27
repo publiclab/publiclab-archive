@@ -7,6 +7,8 @@ path: /notes/warren/02-28-2017/calculating-volume-from-ground-level-photos.md
 nid: 13976
 uid: 1
 
+cids: 16255,16265,16329,22435,22436,22437
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/693/original/IMAG0263_%281%29.jpg)

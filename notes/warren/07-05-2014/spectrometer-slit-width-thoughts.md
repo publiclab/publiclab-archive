@@ -7,6 +7,8 @@ path: /notes/warren/07-05-2014/spectrometer-slit-width-thoughts.md
 nid: 10662
 uid: 1
 
+cids: 9426,9427,9438,9440,9451
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/147/original/IMG_20140705_150534_2.jpg)

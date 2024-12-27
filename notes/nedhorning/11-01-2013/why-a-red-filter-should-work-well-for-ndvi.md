@@ -7,6 +7,8 @@ path: /notes/nedhorning/11-01-2013/why-a-red-filter-should-work-well-for-ndvi.md
 nid: 9717
 uid: 133
 
+cids: 7414,7430,7438,7442,8983,9665,13908,13910,15571,15572,15573,15574
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/097/original/4Graphs.png)

@@ -7,6 +7,8 @@ path: /notes/brittny/12-5-2011/artlab-thermal-cameras-0.md
 nid: 614
 uid: 370
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_5717.JPG)

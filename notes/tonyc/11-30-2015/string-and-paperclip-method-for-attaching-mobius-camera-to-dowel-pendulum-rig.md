@@ -7,6 +7,8 @@ path: /notes/tonyc/11-30-2015/string-and-paperclip-method-for-attaching-mobius-c
 nid: 12463
 uid: 447491
 
+cids: 12967,12977,12978,12982,12983,12987,12988
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/098/original/P_20151130_140715.jpg)

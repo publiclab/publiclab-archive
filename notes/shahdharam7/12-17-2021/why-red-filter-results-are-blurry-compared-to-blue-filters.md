@@ -7,6 +7,8 @@ path: /notes/shahdharam7/12-17-2021/why-red-filter-results-are-blurry-compared-t
 nid: 28502
 uid: 772303
 
+cids: 29544,29547,29557
+
 ---
 
 # Why Red filter results are blurry compared to Blue filters?

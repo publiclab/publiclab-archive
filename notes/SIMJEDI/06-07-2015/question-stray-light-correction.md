@@ -7,6 +7,8 @@ path: /notes/SIMJEDI/06-07-2015/question-stray-light-correction.md
 nid: 11953
 uid: 443196
 
+cids: 
+
 ---
 
 # Question: Stray light correction

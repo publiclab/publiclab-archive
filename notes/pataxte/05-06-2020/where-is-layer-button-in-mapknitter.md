@@ -7,6 +7,8 @@ path: /notes/pataxte/05-06-2020/where-is-layer-button-in-mapknitter.md
 nid: 23562
 uid: 559561
 
+cids: 26761,26762,26763,26804,26805,26810,26811,26820
+
 ---
 
 # where is layer button in mapknitter?

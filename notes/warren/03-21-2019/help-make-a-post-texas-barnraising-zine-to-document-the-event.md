@@ -7,6 +7,8 @@ path: /notes/warren/03-21-2019/help-make-a-post-texas-barnraising-zine-to-docume
 nid: 18561
 uid: 1
 
+cids: 26284
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/092/original/Screen_Shot_2019-03-15_at_1.15.31_PM.png)

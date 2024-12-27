@@ -7,6 +7,8 @@ path: /notes/Juan/05-19-2014/accion-pap-de-urgencia-gijon-spain.md
 nid: 10478
 uid: 1310
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/292/original/fabapole_ruinagijon_pap_web.jpg)

@@ -7,6 +7,8 @@ path: /notes/donblair/11-02-2015/riffle-one-sided-pcb-w-breakaway-mounting-tabs.
 nid: 12356
 uid: 43651
 
+cids: 12807,12808,12818,12824,12828,12830,12831,12832,12835,12836
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/335/original/riffle-sidetab-mockup.png)

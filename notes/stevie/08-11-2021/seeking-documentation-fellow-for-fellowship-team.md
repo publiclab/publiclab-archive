@@ -7,6 +7,8 @@ path: /notes/stevie/08-11-2021/seeking-documentation-fellow-for-fellowship-team.
 nid: 27474
 uid: 422561
 
+cids: 29148
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/616/original/middleridge.jpg)

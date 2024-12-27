@@ -7,6 +7,8 @@ path: /notes/lloydmallison/02-24-2016/reflections-on-sensor-journalism.md
 nid: 12739
 uid: 461505
 
+cids: 
+
 ---
 
 # Reflections on Sensor Journalism

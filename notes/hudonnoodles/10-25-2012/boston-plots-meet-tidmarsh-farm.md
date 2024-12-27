@@ -7,6 +7,8 @@ path: /notes/hudonnoodles/10-25-2012/boston-plots-meet-tidmarsh-farm.md
 nid: 4636
 uid: 102
 
+cids: 1743,1751,1756,1943,2126,2127,2128
+
 ---
 
 # Boston PLOTS Meet Up - Tidmarsh Farm

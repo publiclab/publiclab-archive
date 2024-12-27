@@ -7,6 +7,8 @@ path: /notes/marxaj/05-27-2015/mapknitter-map-of-claremont-uav-20may2015.md
 nid: 11844
 uid: 442207
 
+cids: 11774
+
 ---
 
 # MapKnitter map of Claremont UAV 20May2015

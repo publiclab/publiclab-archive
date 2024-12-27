@@ -7,6 +7,8 @@ path: /notes/cfastie/2-19-2013/ebert.md
 nid: 6061
 uid: 554
 
+cids: 3482,3487,3491,3492,3493,3494,3495,3496,3499,3517,3518,3519,7875,7876,7877
+
 ---
 
 ![](https://publiclab.org/sites/default/files/EbertPlan.jpg)

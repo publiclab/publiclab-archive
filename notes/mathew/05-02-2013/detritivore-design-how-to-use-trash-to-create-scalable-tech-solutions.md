@@ -7,6 +7,8 @@ path: /notes/mathew/05-02-2013/detritivore-design-how-to-use-trash-to-create-sca
 nid: 7208
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/159/original/cds.jpg)

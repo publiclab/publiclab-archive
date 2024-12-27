@@ -7,6 +7,8 @@ path: /notes/mathew/11-14-2012/tweeking-jeffs-fold-spectrometer.md
 nid: 4901
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-11-14 at 1.05.50 AM.png)

@@ -7,6 +7,8 @@ path: /notes/neilh20/07-22-2014/water-quality-instrumentation-quality-gottchas.m
 nid: 10945
 uid: 425914
 
+cids: 9591,9592,9645
+
 ---
 
 # Water quality instrumentation quality gottchas

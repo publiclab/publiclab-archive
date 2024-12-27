@@ -7,6 +7,8 @@ path: /notes/blazan/10-19-2015/comprehensive-wearable-air-quality-sensor.md
 nid: 12318
 uid: 454906
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/037/original/Return-of-chapel-header.jpg)

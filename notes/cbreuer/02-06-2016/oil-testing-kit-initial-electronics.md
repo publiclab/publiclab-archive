@@ -7,6 +7,8 @@ path: /notes/cbreuer/02-06-2016/oil-testing-kit-initial-electronics.md
 nid: 12666
 uid: 49682
 
+cids: 13512,13513,13514,13515,13523,13539,13540
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/118/original/Screen_Shot_2016-02-06_at_4.17.43_PM.png)

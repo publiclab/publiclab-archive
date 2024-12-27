@@ -7,6 +7,8 @@ path: /notes/laurenrae/08-30-2015/mapknitter-map-of-mardi-gras-pass-infagram-map
 nid: 12187
 uid: 431676
 
+cids: 12494,12505
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/343/original/IMAG0169.JPG)

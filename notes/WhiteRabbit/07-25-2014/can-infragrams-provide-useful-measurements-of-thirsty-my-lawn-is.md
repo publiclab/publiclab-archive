@@ -7,6 +7,8 @@ path: /notes/WhiteRabbit/07-25-2014/can-infragrams-provide-useful-measurements-o
 nid: 10969
 uid: 425996
 
+cids: 9627,9631,9643,9649,9650,9656,9657,9658,9660,9661,9666,9686,9691,11130
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/518/original/7-14-2014_irrigatioin_event.png)

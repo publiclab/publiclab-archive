@@ -7,6 +7,8 @@ path: /notes/mathew/06-12-2014/diy-dust-monitoring-dylos-in-wisconsin.md
 nid: 10552
 uid: 4
 
+cids: 9213,9327,9362,9364,9374,9375,9380
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/678/original/Screen_Shot_2014-06-11_at_7.13.27_PM.png)

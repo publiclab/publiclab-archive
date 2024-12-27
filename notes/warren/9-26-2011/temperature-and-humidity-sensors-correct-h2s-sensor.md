@@ -7,6 +7,8 @@ path: /notes/warren/9-26-2011/temperature-and-humidity-sensors-correct-h2s-senso
 nid: 477
 uid: 1
 
+cids: 
+
 ---
 
 # Temperature and humidity sensors to correct H2S sensor

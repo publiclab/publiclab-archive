@@ -7,6 +7,8 @@ path: /notes/pdhixenbaugh/07-11-2016/remixing-kina-and-don-s-code-low-power-temp
 nid: 13282
 uid: 459085
 
+cids: 14915
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/985/original/Capture.PNG)

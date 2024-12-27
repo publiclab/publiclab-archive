@@ -7,6 +7,8 @@ path: /notes/kosamari/11-14-2012/diy-cotton-candy-maker-0.md
 nid: 4904
 uid: 44255
 
+cids: 2465,16912
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSC_0291.JPG)

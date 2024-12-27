@@ -7,6 +7,8 @@ path: /notes/wln215/03-12-2019/harmonic-modes-in-a-red-laser-diode.md
 nid: 18522
 uid: 578478
 
+cids: 25669
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/556/original/Centered_spread_Grade_A.jpg)

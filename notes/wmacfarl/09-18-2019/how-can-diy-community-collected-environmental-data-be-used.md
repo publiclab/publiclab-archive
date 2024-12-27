@@ -7,6 +7,8 @@ path: /notes/wmacfarl/09-18-2019/how-can-diy-community-collected-environmental-d
 nid: 20918
 uid: 424597
 
+cids: 25543,25576,25616,25617
+
 ---
 
 # How can DIY/community-collected environmental data be used?

@@ -7,6 +7,8 @@ path: /notes/astoicof/9-12-2012/call-it-delta-maybe.md
 nid: 3767
 uid: 256
 
+cids: 1339,1340
+
 ---
 
 ![](https://publiclab.org/sites/default/files/photo 3.JPG)

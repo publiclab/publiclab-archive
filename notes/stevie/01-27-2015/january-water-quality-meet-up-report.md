@@ -7,6 +7,8 @@ path: /notes/stevie/01-27-2015/january-water-quality-meet-up-report.md
 nid: 11541
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/741/original/20150124_145807.jpg)

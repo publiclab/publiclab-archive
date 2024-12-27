@@ -7,6 +7,8 @@ path: /notes/gpenzo/07-10-2014/inconsistant-two-cam-ndvi.md
 nid: 10674
 uid: 420719
 
+cids: 9472,9475,9477,9478,9479,9489
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/213/original/der.jpeg)

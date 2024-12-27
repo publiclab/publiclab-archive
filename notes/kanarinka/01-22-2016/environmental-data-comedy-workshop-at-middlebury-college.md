@@ -7,6 +7,8 @@ path: /notes/kanarinka/01-22-2016/environmental-data-comedy-workshop-at-middlebu
 nid: 12602
 uid: 994
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/767/original/edited1.jpg)

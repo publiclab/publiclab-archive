@@ -7,6 +7,8 @@ path: /notes/warren/11-26-2012/new-spectral-workbench-analysis-interface.md
 nid: 5020
 uid: 1
 
+cids: 2647,2648
+
 ---
 
 ![](https://publiclab.org/sites/default/files/spectral-workbench-analyze.png)

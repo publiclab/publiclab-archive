@@ -7,6 +7,8 @@ path: /notes/joyofsoy/10-04-2019/how-a-leader-and-a-community-saved-the-sprague-
 nid: 21076
 uid: 540844
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/562/original/12013.fic.2556-1.jpg)

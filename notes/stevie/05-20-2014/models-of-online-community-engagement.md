@@ -7,6 +7,8 @@ path: /notes/stevie/05-20-2014/models-of-online-community-engagement.md
 nid: 10492
 uid: 422561
 
+cids: 9091
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/337/original/Hats.jpeg)

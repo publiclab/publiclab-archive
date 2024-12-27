@@ -7,6 +7,8 @@ path: /notes/gbathree/12-23-2013/update-on-photosynq.md
 nid: 9912
 uid: 53164
 
+cids: 8032
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/446/original/IMG_2821.JPG)

@@ -7,6 +7,8 @@ path: /notes/MeganKierstead/11-10-2015/building-a-dustduino-my-first-arduino-pro
 nid: 12400
 uid: 457273
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/722/original/DustDuinoSupplies.jpg)

@@ -7,6 +7,8 @@ path: /notes/cess/04-11-2022/call-for-proposals-google-summer-of-code-2022.md
 nid: 30348
 uid: 525958
 
+cids: 29979,29988
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/679/original/Screenshot_from_2022-04-11_19-50-54.png)

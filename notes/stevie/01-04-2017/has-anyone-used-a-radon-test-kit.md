@@ -7,6 +7,8 @@ path: /notes/stevie/01-04-2017/has-anyone-used-a-radon-test-kit.md
 nid: 13838
 uid: 422561
 
+cids: 22394,24018,24019,24027
+
 ---
 
 # Has anyone used a radon test kit? 

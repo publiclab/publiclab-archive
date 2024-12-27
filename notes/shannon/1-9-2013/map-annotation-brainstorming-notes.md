@@ -7,6 +7,8 @@ path: /notes/shannon/1-9-2013/map-annotation-brainstorming-notes.md
 nid: 5494
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_3807_0.JPG)

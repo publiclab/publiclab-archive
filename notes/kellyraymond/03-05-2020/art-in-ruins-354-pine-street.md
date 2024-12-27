@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-354-pine-street.md
 nid: 23046
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (354 Pine Street)

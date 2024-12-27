@@ -7,6 +7,8 @@ path: /notes/yuritza13/2-28-2013/air-quality-egg-0.md
 nid: 6149
 uid: 50441
 
+cids: 3603,3604,3614
+
 ---
 
 ![](https://publiclab.org/sites/default/files/GEDC2655.JPG)

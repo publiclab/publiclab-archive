@@ -7,6 +7,8 @@ path: /notes/warren/11-14-2017/what-s-the-best-setup-for-a-copper-rod-or-copper-
 nid: 15184
 uid: 1
 
+cids: 17847,17848,18666,18667,22725,22866
+
 ---
 
 # What's the best setup for a copper rod or copper plate test for DIY hydrogen sulfide detection?

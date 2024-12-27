@@ -7,6 +7,8 @@ path: /notes/Becki/08-13-2014/public-lab-selected-as-social-venture-network-2014
 nid: 11048
 uid: 46673
 
+cids: 9988,9991
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/252/original/SVN.jpg)

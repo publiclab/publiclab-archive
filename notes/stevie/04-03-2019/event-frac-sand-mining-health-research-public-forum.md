@@ -7,6 +7,8 @@ path: /notes/stevie/04-03-2019/event-frac-sand-mining-health-research-public-for
 nid: 18949
 uid: 422561
 
+cids: 24295
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/005/original/Screen_Shot_2019-04-03_at_4.55.15_PM.png)

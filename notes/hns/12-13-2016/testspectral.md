@@ -7,6 +7,8 @@ path: /notes/hns/12-13-2016/testspectral.md
 nid: 13778
 uid: 499393
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/032/original/IMG_Spectral.jpg)

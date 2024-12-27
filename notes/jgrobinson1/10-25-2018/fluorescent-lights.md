@@ -7,6 +7,8 @@ path: /notes/jgrobinson1/10-25-2018/fluorescent-lights.md
 nid: 17394
 uid: 556440
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/242/original/1EA865F5-B15C-4295-B4CF-B90C7A572206.jpeg)

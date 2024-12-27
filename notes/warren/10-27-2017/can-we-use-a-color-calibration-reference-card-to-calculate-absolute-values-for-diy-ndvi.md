@@ -7,6 +7,8 @@ path: /notes/warren/10-27-2017/can-we-use-a-color-calibration-reference-card-to-
 nid: 15123
 uid: 1
 
+cids: 22693
+
 ---
 
 # Can we use a color calibration reference card to calculate absolute values for DIY NDVI?

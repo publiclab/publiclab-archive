@@ -7,6 +7,8 @@ path: /notes/denissebn_06/06-08-2021/what-kind-of-continuos-air-monitoring-devic
 nid: 26789
 uid: 749988
 
+cids: 28879,28881,28882,28901
+
 ---
 
 # What kind of continous air monitoring devices measure HAPs and PAHs?

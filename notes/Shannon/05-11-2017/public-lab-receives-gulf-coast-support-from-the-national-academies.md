@@ -7,6 +7,8 @@ path: /notes/Shannon/05-11-2017/public-lab-receives-gulf-coast-support-from-the-
 nid: 14178
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/418/original/PublicLab.png)

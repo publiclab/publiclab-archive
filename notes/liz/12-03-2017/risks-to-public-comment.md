@@ -7,6 +7,8 @@ path: /notes/liz/12-03-2017/risks-to-public-comment.md
 nid: 15290
 uid: 7
 
+cids: 17853,17854,17864
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/760/original/FCC-FINAL.jpg)

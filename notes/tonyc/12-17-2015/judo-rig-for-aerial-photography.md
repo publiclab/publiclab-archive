@@ -7,6 +7,8 @@ path: /notes/tonyc/12-17-2015/judo-rig-for-aerial-photography.md
 nid: 12524
 uid: 447491
 
+cids: 13148,13149,13152,13156,13157
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/364/original/IMG_3571.JPG)

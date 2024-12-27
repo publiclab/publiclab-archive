@@ -7,6 +7,8 @@ path: /notes/cbrinega/02-15-2017/mapknitter-map-of-uncc_balloonmapping_cab3.md
 nid: 13930
 uid: 502960
 
+cids: 
+
 ---
 
 # MapKnitter map of uncc_balloonmapping_cab3

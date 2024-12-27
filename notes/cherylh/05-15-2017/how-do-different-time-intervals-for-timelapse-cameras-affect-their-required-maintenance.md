@@ -7,6 +7,8 @@ path: /notes/cherylh/05-15-2017/how-do-different-time-intervals-for-timelapse-ca
 nid: 14190
 uid: 507287
 
+cids: 16772,16773,22468,22475
+
 ---
 
 # How do different time intervals for timelapse cameras affect their required maintenance? 

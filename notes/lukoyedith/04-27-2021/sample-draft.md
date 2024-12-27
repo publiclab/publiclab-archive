@@ -7,6 +7,8 @@ path: /notes/lukoyedith/04-27-2021/sample-draft.md
 nid: 26334
 uid: 751723
 
+cids: 28690,28700,28701,28705,28785,28795
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/572/original/EzZsyJ2XEAArq1k.png)

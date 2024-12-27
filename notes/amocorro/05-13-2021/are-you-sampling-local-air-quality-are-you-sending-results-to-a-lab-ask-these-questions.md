@@ -7,6 +7,8 @@ path: /notes/amocorro/05-13-2021/are-you-sampling-local-air-quality-are-you-send
 nid: 26574
 uid: 700923
 
+cids: 28766
+
 ---
 
 # Are you sampling local air quality? Are you sending results to a lab? Ask these questions! 

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/8-10-2011/uavs-and-agriculture.md
 nid: 437
 uid: 12
 
+cids: 
+
 ---
 
 # UAVs and Agriculture

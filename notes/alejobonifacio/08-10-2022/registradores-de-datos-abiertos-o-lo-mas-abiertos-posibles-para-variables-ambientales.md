@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/08-10-2022/registradores-de-datos-abiertos-o-lo-mas-
 nid: 34859
 uid: 639376
 
+cids: 30375,30376,30389,30390,30483,30484,30485
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/994/original/IMG_20220808_224708.jpg)

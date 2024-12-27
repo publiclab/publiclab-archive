@@ -7,6 +7,8 @@ path: /notes/Schoster/01-25-2017/what-are-the-units-on-the-x-axis-for-the-spectr
 nid: 13878
 uid: 468914
 
+cids: 22409,22410
+
 ---
 
 # What are the units on the X axis for the spectrum capture for the Desktop Spectrometry Kit 3.0

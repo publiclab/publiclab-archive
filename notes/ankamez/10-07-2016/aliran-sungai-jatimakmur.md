@@ -7,6 +7,8 @@ path: /notes/ankamez/10-07-2016/aliran-sungai-jatimakmur.md
 nid: 13531
 uid: 493824
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/329/original/DJI_0118.JPG)

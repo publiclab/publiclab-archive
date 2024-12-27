@@ -7,6 +7,8 @@ path: /08-02-2013/mapping-wetland-forest-restoration-efforts-at-new-orleans-natu
 nid: 8959
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/006/original/9260127104_3cda99d3be.jpg)

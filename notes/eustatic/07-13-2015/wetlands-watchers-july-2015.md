@@ -7,6 +7,8 @@ path: /07-13-2015/wetlands-watchers-july-2015.md
 nid: 12053
 uid: 379
 
+cids: 12166,12169,12226,12277,12278
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/650/original/a_IMG_4030.JPG)

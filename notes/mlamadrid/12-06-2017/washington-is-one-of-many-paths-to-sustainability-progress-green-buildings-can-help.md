@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-06-2017/washington-is-one-of-many-paths-to-sustainabil
 nid: 15316
 uid: 45586
 
+cids: 21834
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/815/original/usgbc_29582871.jpg)

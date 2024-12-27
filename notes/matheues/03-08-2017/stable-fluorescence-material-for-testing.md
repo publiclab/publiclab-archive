@@ -7,6 +7,8 @@ path: /notes/matheues/03-08-2017/stable-fluorescence-material-for-testing.md
 nid: 13992
 uid: 503736
 
+cids: 16395,16413,17608
+
 ---
 
 # Stable fluorescence material for testing

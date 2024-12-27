@@ -7,6 +7,8 @@ path: /notes/ThomasTaufan/11-26-2019/how-can-i-process-the-images-taken-from-mod
 nid: 21587
 uid: 640373
 
+cids: 25937,25946
+
 ---
 
 # How can I process the images taken from modified camera?

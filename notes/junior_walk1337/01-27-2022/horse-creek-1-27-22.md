@@ -7,6 +7,8 @@ path: /notes/junior_walk1337/01-27-2022/horse-creek-1-27-22.md
 nid: 29071
 uid: 756318
 
+cids: 29619
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/339/original/HC.jpg)

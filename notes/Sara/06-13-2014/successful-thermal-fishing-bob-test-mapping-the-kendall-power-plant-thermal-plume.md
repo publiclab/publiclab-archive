@@ -7,6 +7,8 @@ path: /notes/Sara/06-13-2014/successful-thermal-fishing-bob-test-mapping-the-ken
 nid: 10558
 uid: 8
 
+cids: 9199
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/702/original/CompositeSM.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/2-19-2011/gowanus-canal-balloon-tests.md
 nid: 92
 uid: 1
 
+cids: 
+
 ---
 
 # Gowanus Canal balloon tests

@@ -7,6 +7,8 @@ path: /notes/mathew/3-21-2013/capturing-full-resolution-webcam-video-mac.md
 nid: 6464
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/sun4 2.jpg)

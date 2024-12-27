@@ -7,6 +7,8 @@ path: /notes/stevie/08-23-2019/deer-park-tx-chemical-storage-tank-fire.md
 nid: 20638
 uid: 422561
 
+cids: 25314,25319,25320
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/813/original/gallery_xlarge.jpg)

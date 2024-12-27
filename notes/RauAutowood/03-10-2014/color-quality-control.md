@@ -7,6 +7,8 @@ path: /notes/RauAutowood/03-10-2014/color-quality-control.md
 nid: 10150
 uid: 421139
 
+cids: 8480
+
 ---
 
 # Color Quality Control

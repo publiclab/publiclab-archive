@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/01-01-2016/ground-truth-in-the-negev-naqab-desert-israe
 nid: 12555
 uid: 152
 
+cids: 13243
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/490/original/IMG_8287.JPG)

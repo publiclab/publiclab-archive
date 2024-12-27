@@ -7,6 +7,8 @@ path: /notes/sam14/04-30-2020/is-there-a-way-to-convert-an-infrared-video-footag
 nid: 23517
 uid: 689303
 
+cids: 26750,26829
+
 ---
 
 # Is there a way to convert an infrared video footage to NDVI?

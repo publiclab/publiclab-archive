@@ -7,6 +7,8 @@ path: /notes/Ag8n/08-09-2018/mini-video-recorder.md
 nid: 16900
 uid: 520994
 
+cids: 20358,20359,20360,20361
+
 ---
 
 # Mini video recorder

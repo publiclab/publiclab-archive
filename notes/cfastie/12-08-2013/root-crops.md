@@ -7,6 +7,8 @@ path: /notes/cfastie/12-08-2013/root-crops.md
 nid: 9859
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/359/original/IRcarrotPot-289-20.jpg)

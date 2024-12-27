@@ -7,6 +7,8 @@ path: /notes/patcoyle/06-04-2015/initial-experience-with-saturn-v-and-skyshield-
 nid: 11952
 uid: 77
 
+cids: 11916,11961
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/249/original/Untitled_Panorama_exp-2.75.jpg)

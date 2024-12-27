@@ -7,6 +7,8 @@ path: /notes/suman/11-22-2016/query-about-infragram-diy-filter-pack-blue-red-fil
 nid: 13721
 uid: 497769
 
+cids: 15874,15876,22757
+
 ---
 
 # Query about Infragram DIY Filter Pack ( blue & red filter)

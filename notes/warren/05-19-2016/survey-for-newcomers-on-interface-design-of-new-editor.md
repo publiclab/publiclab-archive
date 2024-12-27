@@ -7,6 +7,8 @@ path: /notes/warren/05-19-2016/survey-for-newcomers-on-interface-design-of-new-e
 nid: 13129
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/272/original/IMG_20160523_111116-2.jpg)

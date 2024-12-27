@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/12-20-2021/the-cry-of-the-suquia-river.md
 nid: 28513
 uid: 639376
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/273/original/Banner_The_cry_of_the_Suqu%C3%ADa.png)

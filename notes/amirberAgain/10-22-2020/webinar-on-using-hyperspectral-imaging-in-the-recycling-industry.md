@@ -7,6 +7,8 @@ path: /notes/amirberAgain/10-22-2020/webinar-on-using-hyperspectral-imaging-in-t
 nid: 24790
 uid: 420776
 
+cids: 27500,27502
+
 ---
 
 # Webinar on using hyperspectral imaging in the recycling industry 

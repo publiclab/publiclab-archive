@@ -7,6 +7,8 @@ path: /notes/Chickynuggies02/02-10-2021/what-are-the-differences-in-water-qualit
 nid: 25646
 uid: 739153
 
+cids: 28238,28249
+
 ---
 
 # What are the differences in water quality in various bodies of water in the New Orleans area?

@@ -7,6 +7,8 @@ path: /notes/mmill229/02-22-2017/mapknitter-map-of-uncc-balloon-mapping.md
 nid: 13953
 uid: 503284
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/614/original/P1040158.JPG)

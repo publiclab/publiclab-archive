@@ -7,6 +7,8 @@ path: /notes/maykef/10-12-2018/cheap-multispectral-camera.md
 nid: 17281
 uid: 481511
 
+cids: 20897,20900,20943,20945,20948,20949,21085,21087,21088,21090,21091,21092,21096,21099,21169,21170
+
 ---
 
 # Cheap multispectral camera 

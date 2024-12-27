@@ -7,6 +7,8 @@ path: /notes/warren/04-24-2017/decibel-meters-for-iphones.md
 nid: 14133
 uid: 1
 
+cids: 22456,22457
+
 ---
 
 # Decibel meters for iPhones?

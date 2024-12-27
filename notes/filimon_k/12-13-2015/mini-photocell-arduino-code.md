@@ -7,6 +7,8 @@ path: /notes/filimon_k/12-13-2015/mini-photocell-arduino-code.md
 nid: 12509
 uid: 460113
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/297/original/z.jpg)

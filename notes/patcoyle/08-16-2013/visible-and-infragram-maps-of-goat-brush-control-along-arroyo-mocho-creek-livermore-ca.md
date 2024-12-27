@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-16-2013/visible-and-infragram-maps-of-goat-brush-contro
 nid: 9020
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/166/original/IMG_7385_NDVI_Color.jpg)

@@ -7,6 +7,8 @@ path: /notes/Keimyren/04-30-2021/balloon-mapping-in-edgard.md
 nid: 26426
 uid: 754785
 
+cids: 
+
 ---
 
 # Balloon Mapping In Edgard!

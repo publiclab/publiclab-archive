@@ -7,6 +7,8 @@ path: /notes/AmberWise/09-23-2015/deploying-unc-passive-sampler-on-south-side-of
 nid: 12238
 uid: 450902
 
+cids: 12577,12606,14409,14452
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/664/original/research_group_with_device.JPG)

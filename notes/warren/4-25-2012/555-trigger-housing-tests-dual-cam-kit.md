@@ -7,6 +7,8 @@ path: /notes/warren/4-25-2012/555-trigger-housing-tests-dual-cam-kit.md
 nid: 1788
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20120425_175628.jpg)

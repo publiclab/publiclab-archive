@@ -7,6 +7,8 @@ path: /notes/stevie/05-23-2019/thinking-through-research-area-reviews.md
 nid: 19506
 uid: 422561
 
+cids: 24240,24244,24245
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/439/original/20150613_124753.jpg)

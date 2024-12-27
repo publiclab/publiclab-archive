@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-20-2021/mapknitter-map-of-bossd-site.md
 nid: 27609
 uid: 77
 
+cids: 29168
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/694/original/Screen_Shot_2021-08-20_at_1.36.46_PM.png)

@@ -7,6 +7,8 @@ path: /notes/Bobby-urdd/09-13-2019/gwersyll-llangrannog.md
 nid: 20863
 uid: 618916
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/256/original/DJI_0023.JPG)

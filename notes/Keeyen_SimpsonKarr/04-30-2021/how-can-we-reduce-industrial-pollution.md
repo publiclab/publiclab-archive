@@ -7,6 +7,8 @@ path: /notes/Keeyen_SimpsonKarr/04-30-2021/how-can-we-reduce-industrial-pollutio
 nid: 26437
 uid: 754800
 
+cids: 
+
 ---
 
 # How can we reduce industrial pollution

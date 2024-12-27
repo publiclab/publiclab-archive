@@ -7,6 +7,8 @@ path: /notes/Rgaude/05-14-2021/potholes-in-new-orleans-survey-results.md
 nid: 26591
 uid: 749812
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/802/original/Science_Pothole_1.jpg)

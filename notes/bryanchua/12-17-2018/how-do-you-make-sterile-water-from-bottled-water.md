@@ -7,6 +7,8 @@ path: /notes/bryanchua/12-17-2018/how-do-you-make-sterile-water-from-bottled-wat
 nid: 17962
 uid: 561828
 
+cids: 21534,21542,21545
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/418/original/sterile.png)

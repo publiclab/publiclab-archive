@@ -7,6 +7,8 @@ path: /notes/ajguthrie99/11-13-2020/learning-how-to-control-arduino-with-raspber
 nid: 25058
 uid: 716372
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/746/original/IMG_6374.jpg)

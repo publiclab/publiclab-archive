@@ -7,6 +7,8 @@ path: /notes/liz/09-17-2014/newark-green-garden-2nd-aerials.md
 nid: 11144
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/831/original/IMG_2318.JPG)

@@ -7,6 +7,8 @@ path: /notes/klrussell/12-16-2014/thermo-flashlight-lcd-screen-enhancement-ardui
 nid: 11464
 uid: 432708
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/423/original/IMG_20141214_135711.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/12-14-2010/plant-spectral-timelapse-7hrs.md
 nid: 31
 uid: 1
 
+cids: 5,7,20428
+
 ---
 
 # Plant spectral timelapse (~7hrs)

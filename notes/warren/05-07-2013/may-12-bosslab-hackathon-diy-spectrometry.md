@@ -7,6 +7,8 @@ path: /notes/warren/05-07-2013/may-12-bosslab-hackathon-diy-spectrometry.md
 nid: 7286
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/176/original/impact-sticker.png)

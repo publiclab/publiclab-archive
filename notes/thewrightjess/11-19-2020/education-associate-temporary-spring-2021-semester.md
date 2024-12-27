@@ -7,6 +7,8 @@ path: /notes/thewrightjess/11-19-2020/education-associate-temporary-spring-2021-
 nid: 25072
 uid: 603909
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/775/original/Building_community_microscopes_for_environmental_investigation_at_Public_Lab's_2019_Texas_Barnraising_CC-BY-SA_2019_Public_Lab_contributor__SadiePrego.jpg)

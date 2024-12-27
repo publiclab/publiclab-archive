@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-11-2016/complete-redesign-of-entrance-slit.md
 nid: 13346
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/559/original/slit_design_pic_6.png)

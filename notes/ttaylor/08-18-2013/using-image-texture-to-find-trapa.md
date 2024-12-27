@@ -7,6 +7,8 @@ path: /notes/ttaylor/08-18-2013/using-image-texture-to-find-trapa.md
 nid: 9034
 uid: 58398
 
+cids: 6689
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/207/original/TrapaPlant.jpg)

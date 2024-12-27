@@ -7,6 +7,8 @@ path: /notes/mebaumga/05-25-2015/question-deep-uv.md
 nid: 11836
 uid: 442457
 
+cids: 11758,11759,11760,11766,12839
+
 ---
 
 # Question: deep UV

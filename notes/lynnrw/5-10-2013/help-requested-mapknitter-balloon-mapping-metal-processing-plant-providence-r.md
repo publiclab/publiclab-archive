@@ -7,6 +7,8 @@ path: /notes/lynnrw/5-10-2013/help-requested-mapknitter-balloon-mapping-metal-pr
 nid: 7414
 uid: 46536
 
+cids: 4706,4724,4899
+
 ---
 
 ![](https://publiclab.org/sites/default/files/image_6.jpg)

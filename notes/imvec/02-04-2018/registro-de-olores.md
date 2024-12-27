@@ -7,6 +7,8 @@ path: /notes/imvec/02-04-2018/registro-de-olores.md
 nid: 15680
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/445/original/olor.jpg)

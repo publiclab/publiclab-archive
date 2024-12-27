@@ -7,6 +7,8 @@ path: /notes/liz/3-28-2013/higher-ed-workshop.md
 nid: 6576
 uid: 7
 
+cids: 4366
+
 ---
 
 ![](https://publiclab.org/sites/default/files/tumblr_mcnyy9gWDa1rqyq46o11_1280.jpg)

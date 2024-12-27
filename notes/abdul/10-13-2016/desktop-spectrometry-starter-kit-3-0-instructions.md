@@ -7,6 +7,8 @@ path: /notes/abdul/10-13-2016/desktop-spectrometry-starter-kit-3-0-instructions.
 nid: 13560
 uid: 479194
 
+cids: 15660,15662,15663,15777,16530
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/405/original/dssk-3.0.jpg)

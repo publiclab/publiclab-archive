@@ -7,6 +7,8 @@ path: /notes/yamadanao614/07-24-2017/what-is-the-standard-1-wire-bus-connector.m
 nid: 14676
 uid: 511444
 
+cids: 17090,17091
+
 ---
 
 # What is the standard 1-wire bus connector?

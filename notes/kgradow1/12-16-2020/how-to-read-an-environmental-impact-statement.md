@@ -7,6 +7,8 @@ path: /notes/kgradow1/12-16-2020/how-to-read-an-environmental-impact-statement.m
 nid: 25268
 uid: 297929
 
+cids: 27836,30213
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/044/original/Screen_Shot_2020-12-16_at_3.50.27_PM.png)

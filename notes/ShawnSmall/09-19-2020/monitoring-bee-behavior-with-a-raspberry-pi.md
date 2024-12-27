@@ -7,6 +7,8 @@ path: /notes/ShawnSmall/09-19-2020/monitoring-bee-behavior-with-a-raspberry-pi.m
 nid: 24604
 uid: 721831
 
+cids: 27406,27435,27468,27469
+
 ---
 
 # Monitoring Bee Behavior with a Raspberry Pi

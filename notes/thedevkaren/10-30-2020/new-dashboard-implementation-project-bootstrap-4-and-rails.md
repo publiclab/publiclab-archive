@@ -7,6 +7,8 @@ path: /notes/thedevkaren/10-30-2020/new-dashboard-implementation-project-bootstr
 nid: 24873
 uid: 727770
 
+cids: 27576,27577
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/392/original/dashboard.jpg)

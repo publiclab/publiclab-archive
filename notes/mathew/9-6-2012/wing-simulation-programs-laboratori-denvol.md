@@ -7,6 +7,8 @@ path: /notes/mathew/9-6-2012/wing-simulation-programs-laboratori-denvol.md
 nid: 3671
 uid: 4
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-09-06 at 5.30.58 PM.png)

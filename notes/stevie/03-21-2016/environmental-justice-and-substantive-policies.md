@@ -7,6 +7,8 @@ path: /notes/stevie/03-21-2016/environmental-justice-and-substantive-policies.md
 nid: 12868
 uid: 422561
 
+cids: 14012,14018
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/159/original/NEJAC.jpg)

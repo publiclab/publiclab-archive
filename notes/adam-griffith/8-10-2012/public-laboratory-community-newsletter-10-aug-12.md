@@ -7,6 +7,8 @@ path: /notes/adam-griffith/8-10-2012/public-laboratory-community-newsletter-10-a
 nid: 3240
 uid: 3
 
+cids: 
+
 ---
 
 # Public Laboratory Community Newsletter 10 AUG 12

@@ -7,6 +7,8 @@ path: /01-06-2014/double-delta-kite-in-low-wind-out-at-lake-pontchartrain.md
 nid: 9926
 uid: 379
 
+cids: 8008
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/491/original/IMG_62931_jordan_public_lab_double_kite.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/09-19-2017/how-big-are-silica-particles-in-microns.md
 nid: 14912
 uid: 1
 
+cids: 17394,22631
+
 ---
 
 # How big are silica particles, in microns?

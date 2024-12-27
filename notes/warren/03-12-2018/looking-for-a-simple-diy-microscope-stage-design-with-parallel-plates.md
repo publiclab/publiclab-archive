@@ -7,6 +7,8 @@ path: /notes/warren/03-12-2018/looking-for-a-simple-diy-microscope-stage-design-
 nid: 15926
 uid: 1
 
+cids: 18893,18902,23077
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/024/original/600px-LifePatchMicroscope.jpg)

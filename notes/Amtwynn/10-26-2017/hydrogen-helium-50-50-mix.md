@@ -7,6 +7,8 @@ path: /notes/Amtwynn/10-26-2017/hydrogen-helium-50-50-mix.md
 nid: 15095
 uid: 517043
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/072/original/IMG_0095.JPG)

@@ -7,6 +7,8 @@ path: /notes/jiteovien/09-05-2018/mapping-point-source-polluters-in-providence-r
 nid: 17067
 uid: 540008
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/451/original/tableaupublic.JPG)

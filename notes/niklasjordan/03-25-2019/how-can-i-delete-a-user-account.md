@@ -7,6 +7,8 @@ path: /notes/niklasjordan/03-25-2019/how-can-i-delete-a-user-account.md
 nid: 18841
 uid: 531062
 
+cids: 23427,23503,23644
+
 ---
 
 # How can I delete a User Account?

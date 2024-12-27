@@ -7,6 +7,8 @@ path: /notes/thedevkaren/10-30-2020/outreachy-proposal-new-dashboard-implementat
 nid: 24872
 uid: 727770
 
+cids: 27597
+
 ---
 
 # # Outreachy Proposal : New Dashboard Implementation Project: Bootstrap 4 and Rails

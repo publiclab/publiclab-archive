@@ -7,6 +7,8 @@ path: /notes/warren/11-03-2016/join-doccom-the-barnraising-documentation-committ
 nid: 13675
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/697/original/barnraiser.jpg)

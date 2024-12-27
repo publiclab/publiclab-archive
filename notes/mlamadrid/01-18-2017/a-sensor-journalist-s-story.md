@@ -7,6 +7,8 @@ path: /notes/mlamadrid/01-18-2017/a-sensor-journalist-s-story.md
 nid: 13859
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/296/original/21836556510_f5f89bef91_o-2.jpg)

@@ -7,6 +7,8 @@ path: /notes/stevie/07-14-2017/stormwater-workshop-6-monitoring-and-lessons-lear
 nid: 14654
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/127/original/20170708_173545_720-1.jpg)

@@ -7,6 +7,8 @@ path: /notes/cfastie/01-03-2015/public-lab-barnraising-2014-day-1.md
 nid: 11506
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/560/original/Barn2014_213.jpg)

@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-05-2017/silver-linings-of-community-science.md
 nid: 15311
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/805/original/ShanHe_2017-08-19_150714.jpeg)

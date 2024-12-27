@@ -7,6 +7,8 @@ path: /notes/abram362/09-16-2019/air.md
 nid: 20888
 uid: 619861
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/282/original/IMG_1384.jpg)

@@ -7,6 +7,8 @@ path: /notes/JuliaGuerrein/01-24-2023/minnesota-general-public-comment.md
 nid: 38557
 uid: 796025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/417/original/istockphoto-1081574566-612x612.jpg)

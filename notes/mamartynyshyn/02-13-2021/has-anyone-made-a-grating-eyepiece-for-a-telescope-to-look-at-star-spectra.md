@@ -7,6 +7,8 @@ path: /notes/mamartynyshyn/02-13-2021/has-anyone-made-a-grating-eyepiece-for-a-t
 nid: 25675
 uid: 739523
 
+cids: 28206
+
 ---
 
 # Has anyone made a grating eyepiece for a telescope to look at star spectra?

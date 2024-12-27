@@ -7,6 +7,8 @@ path: /notes/warren/10-11-2015/leaffest-2015-day-one-in-photos.md
 nid: 12288
 uid: 1
 
+cids: 12707,12720
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/900/original/tmp_27093-IMG_20151010_1544482087887727.jpg)

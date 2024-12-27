@@ -7,6 +7,8 @@ path: /notes/kinasmith/09-09-2016/particle-electron.md
 nid: 13436
 uid: 445906
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/999/original/IMG_20160909_120416.jpg)

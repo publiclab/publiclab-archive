@@ -7,6 +7,8 @@ path: /notes/gonzoearth/12-27-2011/i-built-spy-satellites-living.md
 nid: 666
 uid: 12
 
+cids: 
+
 ---
 
 # "I built spy satellites for a living"

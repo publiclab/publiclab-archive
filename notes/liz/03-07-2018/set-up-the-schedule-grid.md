@@ -7,6 +7,8 @@ path: /notes/liz/03-07-2018/set-up-the-schedule-grid.md
 nid: 15884
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/869/original/IMG_20161110_201129423_HDR_crop.jpg)

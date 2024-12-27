@@ -7,6 +7,8 @@ path: /notes/TheChessGym/08-23-2022/biomes-are-important-to-the-study-of-environ
 nid: 34896
 uid: 788868
 
+cids: 30468,30469,30470,30471,30472,30473,30474,30475,30476,30477,30478,30479,30480,30481
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/053/original/biomes-world_0.jpg)

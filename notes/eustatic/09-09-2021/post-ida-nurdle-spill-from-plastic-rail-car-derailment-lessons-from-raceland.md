@@ -7,6 +7,8 @@ path: /09-09-2021/post-ida-nurdle-spill-from-plastic-rail-car-derailment-lessons
 nid: 27716
 uid: 379
 
+cids: 29227,29232,29233,29234,29235,29236,29416,29686
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/790/original/train_derailment_raceland_Ida_nurdles_1315801.jpg)

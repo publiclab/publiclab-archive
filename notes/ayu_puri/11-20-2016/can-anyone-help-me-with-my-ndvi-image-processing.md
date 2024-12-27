@@ -7,6 +7,8 @@ path: /notes/ayu_puri/11-20-2016/can-anyone-help-me-with-my-ndvi-image-processin
 nid: 13714
 uid: 497558
 
+cids: 15855,15856,22350
+
 ---
 
 # can anyone help me with my ndvi ( image processing ) ?

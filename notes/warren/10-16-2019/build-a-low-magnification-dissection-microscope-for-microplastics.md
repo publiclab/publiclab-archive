@@ -7,6 +7,8 @@ path: /notes/warren/10-16-2019/build-a-low-magnification-dissection-microscope-f
 nid: 21185
 uid: 1
 
+cids: 25724,25734,25735,25739
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/790/original/IMG_20191016_100004.jpg)

@@ -7,6 +7,8 @@ path: /notes/section1group3/05-30-2017/mapping-the-thacher-bioswale-analyzing-er
 nid: 14239
 uid: 507074
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/581/original/IMG_4412.JPG)

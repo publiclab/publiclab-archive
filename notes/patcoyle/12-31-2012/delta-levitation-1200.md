@@ -7,6 +7,8 @@ path: /notes/patcoyle/12-31-2012/delta-levitation-1200.md
 nid: 5387
 uid: 77
 
+cids: 2858
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_7190.JPG)

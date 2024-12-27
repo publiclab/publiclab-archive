@@ -7,6 +7,8 @@ path: /notes/aferland/10-21-2014/aerial-balloon-mapping.md
 nid: 11287
 uid: 428191
 
+cids: 10601,10614,10650,10651,10664,10665,10666,10667
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/600/original/photo_1ff.JPG)

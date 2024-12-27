@@ -7,6 +7,8 @@ path: /notes/mathew/04-29-2014/a-wratten-25a-replacement-from-rosco.md
 nid: 10376
 uid: 4
 
+cids: 8908,16754,16757,16758,16759,16761,20738,24819
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/913/original/Screen_Shot_2014-04-28_at_3.53.03_PM.png)

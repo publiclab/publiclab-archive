@@ -7,6 +7,8 @@ path: /notes/TaraMei/04-30-2016/pole-mapping-an-urban-prairie-in-durham-nc.md
 nid: 13054
 uid: 455825
 
+cids: 14481,14495
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/881/original/IMG_8914.jpg)

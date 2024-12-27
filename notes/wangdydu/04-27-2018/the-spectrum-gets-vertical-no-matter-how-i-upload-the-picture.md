@@ -7,6 +7,8 @@ path: /notes/wangdydu/04-27-2018/the-spectrum-gets-vertical-no-matter-how-i-uplo
 nid: 16220
 uid: 532021
 
+cids: 20137,20138,20166,20184,21075,23081,23275,23276
+
 ---
 
 # The spectrum gets vertical no matter how I upload the picture. 

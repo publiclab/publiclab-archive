@@ -7,6 +7,8 @@ path: /notes/MaggPi/08-17-2019/shades-of-green-openstreetmap-overlays-on-satelli
 nid: 20562
 uid: 501996
 
+cids: 25263,25278,25334
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/595/original/shades_of_green.png)

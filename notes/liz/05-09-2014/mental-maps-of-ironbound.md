@@ -7,6 +7,8 @@ path: /notes/liz/05-09-2014/mental-maps-of-ironbound.md
 nid: 10456
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/201/original/IMG_2031.JPG)

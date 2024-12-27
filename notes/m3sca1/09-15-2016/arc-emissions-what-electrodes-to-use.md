@@ -7,6 +7,8 @@ path: /notes/m3sca1/09-15-2016/arc-emissions-what-electrodes-to-use.md
 nid: 13447
 uid: 491522
 
+cids: 15401,22283
+
 ---
 
 # Arc Emissions- What electrodes to use?

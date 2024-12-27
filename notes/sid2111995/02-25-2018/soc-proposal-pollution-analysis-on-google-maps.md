@@ -7,6 +7,8 @@ path: /notes/sid2111995/02-25-2018/soc-proposal-pollution-analysis-on-google-map
 nid: 15813
 uid: 526051
 
+cids: 18701,19037
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/706/original/airpol.png)

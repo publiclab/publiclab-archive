@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-06-2016/fluorescein-as-a-gain-medium-regent-here-at-p
 nid: 12926
 uid: 461120
 
+cids: 14192,14199,14200,14201,14203,14206
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/372/original/prolight_led_eosin_y_apr4.JPG)

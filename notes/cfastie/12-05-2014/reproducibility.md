@@ -7,6 +7,8 @@ path: /notes/cfastie/12-05-2014/reproducibility.md
 nid: 11436
 uid: 554
 
+cids: 10900,10901,10903,10904,10909,10910,10932
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/266/original/B2Wt2YpCUAAKmCN.jpg)

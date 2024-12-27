@@ -7,6 +7,8 @@ path: /notes/kanarinka/10-23-2018/introducing-the-coqui-it-s-a-frog-and-a-tool.m
 nid: 17354
 uid: 994
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/096/original/Screenshot_2018-10-22_15.50.27.png)

@@ -7,6 +7,8 @@ path: /notes/ErikHanley11/04-12-2018/response-to-alternative-copper-sheet-prepar
 nid: 16139
 uid: 444638
 
+cids: 
+
 ---
 
 # Response to Alternative Copper Sheet Preparation Method on Public Lab

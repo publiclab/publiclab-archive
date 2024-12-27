@@ -7,6 +7,8 @@ path: /notes/warren/5-25-2011/excerpts-using-uv-and-ir-oil-slick-identification.
 nid: 295
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/uv-ir-oil.png)

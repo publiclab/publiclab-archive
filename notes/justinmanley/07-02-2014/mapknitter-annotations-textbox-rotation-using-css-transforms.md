@@ -7,6 +7,8 @@ path: /notes/justinmanley/07-02-2014/mapknitter-annotations-textbox-rotation-usi
 nid: 10641
 uid: 421556
 
+cids: 9394,9398,9400,10010
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/077/original/Screenshot_from_2014-07-01_20_15_19_copy.png)

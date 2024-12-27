@@ -7,6 +7,8 @@ path: /notes/ananyo2012/09-06-2016/how-to-ask-a-question.md
 nid: 13425
 uid: 468506
 
+cids: 15314,15315,15316,22275
+
 ---
 
 # How to ask a question

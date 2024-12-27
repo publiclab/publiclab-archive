@@ -7,6 +7,8 @@ path: /notes/Agaa/11-11-2020/i-am-interested-in-testing-local-water-quality-myse
 nid: 25046
 uid: 729305
 
+cids: 27653,27659,27663,27712,27729,27730
+
 ---
 
 # I am interested in testing local water quality myself in river. Where can I start?

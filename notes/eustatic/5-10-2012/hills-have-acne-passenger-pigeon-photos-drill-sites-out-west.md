@@ -7,6 +7,8 @@ path: /5-10-2012/hills-have-acne-passenger-pigeon-photos-drill-sites-out-west.md
 nid: 1952
 uid: 379
 
+cids: 730,731,732,733
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7165625584_c7de45de7f_o.jpg)

@@ -7,6 +7,8 @@ path: /notes/a_sivolap978/08-02-2021/how-to-delete-unwanted-spectra.md
 nid: 27415
 uid: 767777
 
+cids: 29084,29158
+
 ---
 
 # how to delete unwanted spectra?

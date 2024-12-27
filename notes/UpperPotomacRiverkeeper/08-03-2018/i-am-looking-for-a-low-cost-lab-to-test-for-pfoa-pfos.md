@@ -7,6 +7,8 @@ path: /notes/UpperPotomacRiverkeeper/08-03-2018/i-am-looking-for-a-low-cost-lab-
 nid: 16847
 uid: 544989
 
+cids: 23191,23199,23200,30845
+
 ---
 
 # I am looking for a low cost lab to test for PFOA/PFOS. 

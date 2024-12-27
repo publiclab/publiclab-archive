@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/10-19-2017/effective-low-cost-water-filters-to-remov
 nid: 15065
 uid: 430549
 
+cids: 17750,22750
+
 ---
 
 # Effective low-cost water filters to remove hydrogen sulfide?

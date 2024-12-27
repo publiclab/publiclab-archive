@@ -7,6 +7,8 @@ path: /notes/ann/04-07-2015/prince-rupert-workshop-diy-aerial-photography-and-ma
 nid: 11748
 uid: 421543
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/560/original/Prince_Rupert_flyer.png)

@@ -7,6 +7,8 @@ path: /notes/imvec/01-19-2018/convocatoria-gaimec.md
 nid: 15555
 uid: 495038
 
+cids: 18225,18228
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/257/original/convocatoria_GAIMeC_DEF.jpg)

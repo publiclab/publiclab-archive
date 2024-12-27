@@ -7,6 +7,8 @@ path: /notes/JSummers/12-31-2018/diy-injection-device-for-chemical-reaction-kine
 nid: 18031
 uid: 304279
 
+cids: 21605,21614,21616,21618
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/028/563/original/Injector4_25.jpg)

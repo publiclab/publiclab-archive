@@ -7,6 +7,8 @@ path: /notes/DocCooper74/04-23-2015/mu-campus-map.md
 nid: 11765
 uid: 439416
 
+cids: 11538
+
 ---
 
 # MU Campus Map

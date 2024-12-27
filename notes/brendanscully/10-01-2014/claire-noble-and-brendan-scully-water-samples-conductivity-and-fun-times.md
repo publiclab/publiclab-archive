@@ -7,6 +7,8 @@ path: /notes/brendanscully/10-01-2014/claire-noble-and-brendan-scully-water-samp
 nid: 11220
 uid: 428089
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/238/original/data_viz_water.jpg)

@@ -7,6 +7,8 @@ path: /notes/walkerjeffd/08-13-2014/creating-collapse-able-sections-in-a-researc
 nid: 11044
 uid: 422528
 
+cids: 9996,15240,15241,15242,15243,15245
+
 ---
 
 # Creating Collapse-able Sections in a Research Note

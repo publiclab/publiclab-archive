@@ -7,6 +7,8 @@ path: /notes/joyofsoy/01-30-2020/fellowship-posting-community-technology-fellow.
 nid: 22441
 uid: 540844
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/840/original/Screen_Shot_2020-01-30_at_8.54.41_PM.png)

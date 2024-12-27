@@ -7,6 +7,8 @@ path: /notes/warren/09-30-2015/week-1-recap-from-oil-testing-kit-beta-program-ki
 nid: 12257
 uid: 1
 
+cids: 12604,12609,12610,12613,12614
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/716/original/otk-m.jpg)

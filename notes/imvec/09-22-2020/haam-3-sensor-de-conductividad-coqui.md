@@ -7,6 +7,8 @@ path: /notes/imvec/09-22-2020/haam-3-sensor-de-conductividad-coqui.md
 nid: 24626
 uid: 495038
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/960/original/haam3.jpg)

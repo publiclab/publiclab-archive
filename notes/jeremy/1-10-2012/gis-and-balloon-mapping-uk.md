@@ -7,6 +7,8 @@ path: /notes/jeremy/1-10-2012/gis-and-balloon-mapping-uk.md
 nid: 684
 uid: 323
 
+cids: 404
+
 ---
 
 ![](https://publiclab.org/sites/default/files/393444_10100724417722978_10713121_59788487_343083522_n.jpg)

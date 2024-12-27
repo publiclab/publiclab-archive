@@ -7,6 +7,8 @@ path: /notes/wahlb8765/06-15-2017/mapknitter-map-of-wci-field.md
 nid: 14546
 uid: 509153
 
+cids: 
+
 ---
 
 # MapKnitter map of WCI Field

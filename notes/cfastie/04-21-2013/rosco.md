@@ -7,6 +7,8 @@ path: /notes/cfastie/04-21-2013/rosco.md
 nid: 6953
 uid: 554
 
+cids: 4496,4502,4566,4567,4568,4570,5191,5224,5225
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/105/original/LifePixel-EpReCUNDVIGS.jpg)

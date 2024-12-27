@@ -7,6 +7,8 @@ path: /notes/warren/7-29-2011/gowanus-water-absorption-spectrum.md
 nid: 419
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-7-29-1144.png)

@@ -7,6 +7,8 @@ path: /notes/donblair/04-14-2014/riffle-conductivity-adhesive-updates.md
 nid: 10308
 uid: 43651
 
+cids: 8759,8761,8763,8765,8771,8780,8783,8784,8786,8787,8967
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/652/original/riffle-conductivity.png)

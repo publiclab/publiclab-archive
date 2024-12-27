@@ -7,6 +7,8 @@ path: /notes/anita/2-13-2012/artisanal-kite-mapping-villa-maria-lima-peru.md
 nid: 786
 uid: 481
 
+cids: 460,461,462,463,464,471
+
 ---
 
 ![](https://publiclab.org/sites/default/files/VMT_2.jpg)

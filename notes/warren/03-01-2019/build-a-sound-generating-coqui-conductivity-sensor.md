@@ -7,6 +7,8 @@ path: /notes/warren/03-01-2019/build-a-sound-generating-coqui-conductivity-senso
 nid: 18313
 uid: 1
 
+cids: 21995,22018,25104,25105,25664
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/336/original/OI000071_copy.jpg)

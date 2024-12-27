@@ -7,6 +7,8 @@ path: /09-17-2013/reference-coal-leachate-contaminants-of-concern-to-washington-
 nid: 9335
 uid: 379
 
+cids: 6953
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/575/original/United_Bulk_2_september_post_issac.jpg)

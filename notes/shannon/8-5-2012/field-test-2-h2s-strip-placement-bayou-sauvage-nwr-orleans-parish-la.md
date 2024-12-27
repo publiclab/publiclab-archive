@@ -7,6 +7,8 @@ path: /notes/shannon/8-5-2012/field-test-2-h2s-strip-placement-bayou-sauvage-nwr
 nid: 3141
 uid: 9
 
+cids: 1141
+
 ---
 
 ![](https://publiclab.org/sites/default/files/GPX H2s2  Bayou Sauvage.jpg)

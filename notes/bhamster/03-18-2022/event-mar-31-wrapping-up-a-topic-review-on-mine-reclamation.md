@@ -7,6 +7,8 @@ path: /notes/bhamster/03-18-2022/event-mar-31-wrapping-up-a-topic-review-on-mine
 nid: 30148
 uid: 664477
 
+cids: 29834,29876
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/537/original/Tyrone_Mine_copy.jpg)

@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/02-03-2017/maps-without-borders-stories-of-civic-scie
 nid: 13904
 uid: 1083
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/428/original/images001.jpeg)

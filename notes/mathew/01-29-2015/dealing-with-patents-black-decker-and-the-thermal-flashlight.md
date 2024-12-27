@@ -7,6 +7,8 @@ path: /notes/mathew/01-29-2015/dealing-with-patents-black-decker-and-the-thermal
 nid: 11545
 uid: 4
 
+cids: 11103,11104,11107,11108,11109,11195
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/764/original/Screen_Shot_2015-01-29_at_10.53.48_AM.png)

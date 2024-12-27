@@ -7,6 +7,8 @@ path: /notes/liz/10-26-2016/add-a-new-language-in-transifex-managers.md
 nid: 13653
 uid: 7
 
+cids: 23668,23677,23678,23684,23685,23696
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/625/original/Screen_Shot_2016-10-26_at_3.43.35_PM_copy.png)

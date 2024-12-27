@@ -7,6 +7,8 @@ path: /notes/Jdahlen/06-24-2014/dissecting-humidity-from-particle-count-in-frac-
 nid: 10611
 uid: 425122
 
+cids: 9255,9269,9278,9285,9298,9303,9308,9310,9328,9342,9361,9429,9437,9444,9446,9447,9468
+
 ---
 
 # Dissecting Humidity from Particle Count in Frac Sand Sampling 

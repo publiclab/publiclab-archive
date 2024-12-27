@@ -7,6 +7,8 @@ path: /notes/cfastie/06-15-2016/in-the-heat-of-the-pile.md
 nid: 13197
 uid: 554
 
+cids: 14769,14770,14771
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/642/original/Compost_B3_After.jpg)

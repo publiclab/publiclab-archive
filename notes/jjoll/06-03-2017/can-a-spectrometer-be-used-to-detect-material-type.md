@@ -7,6 +7,8 @@ path: /notes/jjoll/06-03-2017/can-a-spectrometer-be-used-to-detect-material-type
 nid: 14499
 uid: 508437
 
+cids: 16833,17569,22480
+
 ---
 
 # Can a Spectrometer be used to detect material type?

@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/05-31-2021/as-soil-and-water-share-similar-pollution
 nid: 26744
 uid: 639376
 
+cids: 28853,28856,28860,28862,28864,28872,28873,28874,28892,28898,28960
+
 ---
 
 # As soil and water share similar pollution problems, what research methods can be shared between them?

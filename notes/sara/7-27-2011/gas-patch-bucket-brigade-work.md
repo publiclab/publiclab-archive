@@ -7,6 +7,8 @@ path: /notes/sara/7-27-2011/gas-patch-bucket-brigade-work.md
 nid: 414
 uid: 8
 
+cids: 
+
 ---
 
 # Gas patch Bucket Brigade work

@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/12-16-2015/oil-testing-kit-beta-tests-with-some-need
 nid: 12523
 uid: 430549
 
+cids: 13144,13158,13162
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/362/original/OTK_NDCrude_20151215.png)

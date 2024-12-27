@@ -7,6 +7,8 @@ path: /notes/stefq1111/04-08-2022/outreachy-proposal.md
 nid: 30319
 uid: 792049
 
+cids: 30055,30115,30767
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/503/original/road-ge0e654c9b_1920.jpg)

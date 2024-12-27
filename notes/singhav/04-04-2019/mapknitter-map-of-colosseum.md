@@ -7,6 +7,8 @@ path: /notes/singhav/04-04-2019/mapknitter-map-of-colosseum.md
 nid: 18951
 uid: 552080
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/007/original/shutterstock_88957447-1050x756.jpg)

@@ -7,6 +7,8 @@ path: /08-15-2014/reference-graphic-barataria-work.md
 nid: 11055
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/278/original/philip_trosclair_rockerfeller_delination_over_time_showing_erosion.png)

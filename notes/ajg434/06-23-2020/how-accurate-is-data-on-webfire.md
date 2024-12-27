@@ -7,6 +7,8 @@ path: /notes/ajg434/06-23-2020/how-accurate-is-data-on-webfire.md
 nid: 24025
 uid: 704146
 
+cids: 27054,27056,27057
+
 ---
 
 # How accurate is data on WebFire?

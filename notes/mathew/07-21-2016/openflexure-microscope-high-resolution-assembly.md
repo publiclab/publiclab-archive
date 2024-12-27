@@ -7,6 +7,8 @@ path: /notes/mathew/07-21-2016/openflexure-microscope-high-resolution-assembly.m
 nid: 13303
 uid: 4
 
+cids: 14997,14999,15000,15002,15580,15588,15600
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/172/original/P_20160711_151836.jpg)

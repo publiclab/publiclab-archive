@@ -7,6 +7,8 @@ path: /notes/willieong/07-06-2019/sorry-for-asking-such-a-elementary-question-wh
 nid: 20016
 uid: 602821
 
+cids: 24999
+
 ---
 
 # Sorry for asking such a elementary question, what does the intensity % means? Can it shows how strong the light source is? Is it in terms of lux?

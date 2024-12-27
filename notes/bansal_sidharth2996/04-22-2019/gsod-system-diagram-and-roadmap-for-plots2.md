@@ -7,6 +7,8 @@ path: /notes/bansal_sidharth2996/04-22-2019/gsod-system-diagram-and-roadmap-for-
 nid: 19140
 uid: 503599
 
+cids: 23961,23997,23998
+
 ---
 
 # GSoD : System diagram and Roadmap for Plots2

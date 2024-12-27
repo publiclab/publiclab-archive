@@ -7,6 +7,8 @@ path: /notes/Shannon/05-01-2018/plots-new-york-summit.md
 nid: 188
 uid: 9
 
+cids: 244
+
 ---
 
 # PLOTS New York Summit

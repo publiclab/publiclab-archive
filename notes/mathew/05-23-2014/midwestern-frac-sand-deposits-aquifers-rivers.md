@@ -7,6 +7,8 @@ path: /notes/mathew/05-23-2014/midwestern-frac-sand-deposits-aquifers-rivers.md
 nid: 10504
 uid: 4
 
+cids: 9695,13590,14661
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/374/original/A020.gif)

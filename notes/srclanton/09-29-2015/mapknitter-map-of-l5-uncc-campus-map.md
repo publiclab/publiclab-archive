@@ -7,6 +7,8 @@ path: /notes/srclanton/09-29-2015/mapknitter-map-of-l5-uncc-campus-map.md
 nid: 12255
 uid: 452916
 
+cids: 
+
 ---
 
 # MapKnitter map of L5 UNCC Campus Map

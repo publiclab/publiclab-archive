@@ -7,6 +7,8 @@ path: /notes/btbonval/07-14-2014/calibrating-dht11-sensors.md
 nid: 10688
 uid: 43229
 
+cids: 9513,9514,9545,18173
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/270/original/IMG_20140714_115010.jpg)

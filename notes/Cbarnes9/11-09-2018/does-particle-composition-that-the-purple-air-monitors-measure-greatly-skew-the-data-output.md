@@ -7,6 +7,8 @@ path: /notes/Cbarnes9/11-09-2018/does-particle-composition-that-the-purple-air-m
 nid: 17495
 uid: 558529
 
+cids: 21209,21215,21378,23292
+
 ---
 
 # Does particle composition that the purple air monitors measure greatly skew the data output? 

@@ -7,6 +7,8 @@ path: /notes/mathew/06-11-2015/mini-buck-vs-the-bubbles.md
 nid: 11969
 uid: 4
 
+cids: 11939,11960,11962,11963,12012
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/302/original/Screen_Shot_2015-06-10_at_3_28_07_PM.png)

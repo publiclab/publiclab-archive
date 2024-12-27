@@ -7,6 +7,8 @@ path: /notes/wward1400/11-07-2013/cartography-primer-pamet-marsh.md
 nid: 9743
 uid: 46742
 
+cids: 7504,7639,7647,7652
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/140/original/IMG_3839.JPG)

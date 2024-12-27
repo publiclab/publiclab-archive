@@ -7,6 +7,8 @@ path: /notes/gonzoearth/6-20-2011/qgis-17-out.md
 nid: 349
 uid: 12
 
+cids: 
+
 ---
 
 # QGIS 1.7 is out :)

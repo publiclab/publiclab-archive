@@ -7,6 +7,8 @@ path: /notes/cfastie/09-20-2016/zero-dark-thirsty-capturing-replenishing-nightti
 nid: 13465
 uid: 554
 
+cids: 15442,15447,15462,15463,15464,15606,15609
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/086/original/LEAF2016_20160918-6931_2k.jpg)

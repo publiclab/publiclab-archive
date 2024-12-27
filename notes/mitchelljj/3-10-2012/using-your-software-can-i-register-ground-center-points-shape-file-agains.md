@@ -7,6 +7,8 @@ path: /notes/mitchelljj/3-10-2012/using-your-software-can-i-register-ground-cent
 nid: 915
 uid: 652
 
+cids: 536,961
+
 ---
 
 # Using your software can I register ground center points for a shape file against a base raster image file?

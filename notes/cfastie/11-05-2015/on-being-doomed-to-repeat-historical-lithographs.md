@@ -7,6 +7,8 @@ path: /notes/cfastie/11-05-2015/on-being-doomed-to-repeat-historical-lithographs
 nid: 12370
 uid: 554
 
+cids: 13225,13229,13231
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/485/original/Mary351_LP100ps2k.jpg)

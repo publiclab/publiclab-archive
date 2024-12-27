@@ -7,6 +7,8 @@ path: /notes/sdepolo/05-30-2017/how-to-build-a-specialty-phone-carriage.md
 nid: 14488
 uid: 508246
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/599/original/IMG_0104.JPG)

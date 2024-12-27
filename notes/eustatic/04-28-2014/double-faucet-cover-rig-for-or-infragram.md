@@ -7,6 +7,8 @@ path: /04-28-2014/double-faucet-cover-rig-for-or-infragram.md
 nid: 10373
 uid: 379
 
+cids: 8897,8904,8906,8909,8911
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/896/original/IMG_2345.JPG)

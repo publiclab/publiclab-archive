@@ -7,6 +7,8 @@ path: /notes/Tbtouaki/09-24-2014/modified-camera-with-25a-red-filter-ndvi-needs-
 nid: 11178
 uid: 420408
 
+cids: 10408,11014,12072,12840,12841,21707
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/000/original/CORTE_A076_2014_07_18_IR.jpg)

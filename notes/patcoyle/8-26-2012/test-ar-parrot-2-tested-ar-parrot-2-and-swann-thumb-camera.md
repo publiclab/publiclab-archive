@@ -7,6 +7,8 @@ path: /notes/patcoyle/8-26-2012/test-ar-parrot-2-tested-ar-parrot-2-and-swann-th
 nid: 3465
 uid: 77
 
+cids: 1206
+
 ---
 
 ![](https://publiclab.org/sites/default/files/7861443028_d6e03eed7e_b.jpg)

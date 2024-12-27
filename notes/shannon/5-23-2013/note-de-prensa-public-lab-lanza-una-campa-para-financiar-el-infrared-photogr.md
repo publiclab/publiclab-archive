@@ -7,6 +7,8 @@ path: /notes/shannon/5-23-2013/note-de-prensa-public-lab-lanza-una-campa-para-fi
 nid: 7878
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/INfrared Camera main image.JPG)

@@ -7,6 +7,8 @@ path: /notes/warren/11-30-2012/measuring-our-community-growth-using-web-traffic.
 nid: 5068
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-11-30 at 2.09.48 PM.png)

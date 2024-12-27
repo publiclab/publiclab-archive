@@ -7,6 +7,8 @@ path: /notes/IyinomenDaniel/11-23-2017/spectroscopic-gas-measurement.md
 nid: 15233
 uid: 519115
 
+cids: 
+
 ---
 
 # Spectroscopic gas measurement

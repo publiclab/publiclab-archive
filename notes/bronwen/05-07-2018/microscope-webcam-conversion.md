@@ -7,6 +7,8 @@ path: /notes/bronwen/05-07-2018/microscope-webcam-conversion.md
 nid: 16309
 uid: 237313
 
+cids: 19582,19596,20629,20657,20970,21159,21164,21175,21219,21226,25943,29209
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/834/original/camera.jpg)

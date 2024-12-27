@@ -7,6 +7,8 @@ path: /notes/f20171066/04-05-2019/soc-proposal-publiclab-editor.md
 nid: 18970
 uid: 579292
 
+cids: 23797
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/135/original/editor.png)

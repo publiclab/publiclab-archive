@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/08-05-2016/chemical-analysis-for-kirkland-organic-extra-
 nid: 13335
 uid: 461120
 
+cids: 15087,15090,30343
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/379/original/both_EVOO_samples.png)

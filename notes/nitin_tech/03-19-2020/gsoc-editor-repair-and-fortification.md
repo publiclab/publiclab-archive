@@ -7,6 +7,8 @@ path: /notes/nitin_tech/03-19-2020/gsoc-editor-repair-and-fortification.md
 nid: 23180
 uid: 610628
 
+cids: 
+
 ---
 
 # gsoc:Editor repair and fortification

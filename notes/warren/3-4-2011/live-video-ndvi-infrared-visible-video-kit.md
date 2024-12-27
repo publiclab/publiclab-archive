@@ -7,6 +7,8 @@ path: /notes/warren/3-4-2011/live-video-ndvi-infrared-visible-video-kit.md
 nid: 115
 uid: 1
 
+cids: 
+
 ---
 
 # Live video NDVI with infrared-visible-video-kit

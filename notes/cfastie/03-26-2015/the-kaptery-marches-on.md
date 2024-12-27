@@ -7,6 +7,8 @@ path: /notes/cfastie/03-26-2015/the-kaptery-marches-on.md
 nid: 11726
 uid: 554
 
+cids: 11403,11426,11427,11428
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/452/original/KAPstock-604-10.jpg)

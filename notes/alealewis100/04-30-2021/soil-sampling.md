@@ -7,6 +7,8 @@ path: /notes/alealewis100/04-30-2021/soil-sampling.md
 nid: 26430
 uid: 754778
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/631/original/MicrosoftTeams-image_%281%29.png)

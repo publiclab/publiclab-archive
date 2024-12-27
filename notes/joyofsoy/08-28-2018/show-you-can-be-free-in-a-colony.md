@@ -7,6 +7,8 @@ path: /notes/joyofsoy/08-28-2018/show-you-can-be-free-in-a-colony.md
 nid: 17011
 uid: 540844
 
+cids: 20510
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/371/original/OI000048_%281%29_%281%29.jpg)

@@ -7,6 +7,8 @@ path: /notes/flipgonza/02-24-2016/sensor-journalism.md
 nid: 12744
 uid: 461517
 
+cids: 
+
 ---
 
 # Sensor Journalism 

@@ -7,6 +7,8 @@ path: /notes/warren/01-08-2018/software-project-ideas-for-upcoming-2018-summer-o
 nid: 15477
 uid: 1
 
+cids: 18216,18217,18241,18438,22847,22848,22861,22868,22891,29500
+
 ---
 
 # Software project ideas for upcoming 2018 Summer of Code fellowships?

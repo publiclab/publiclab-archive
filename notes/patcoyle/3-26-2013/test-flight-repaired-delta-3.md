@@ -7,6 +7,8 @@ path: /notes/patcoyle/3-26-2013/test-flight-repaired-delta-3.md
 nid: 6549
 uid: 77
 
+cids: 4237,4238,4240,4276,4284
+
 ---
 
 # Test flight with repaired Delta

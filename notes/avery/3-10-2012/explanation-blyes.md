@@ -7,6 +7,8 @@ path: /notes/avery/3-10-2012/explanation-blyes.md
 nid: 916
 uid: 441
 
+cids: 531
+
 ---
 
 # Explanation of BLYES

@@ -7,6 +7,8 @@ path: /notes/marlokeno/02-12-2014/cp-rr-oil-tanker-leak-from-red-wing-to-winona-
 nid: 10030
 uid: 420760
 
+cids: 8234,8237,8239,8240,9698,10081,10088,13536,13546,13561
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/877/original/oil-on-tracks-long-view-3_Weaver_MN.jpg)

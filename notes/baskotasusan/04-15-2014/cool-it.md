@@ -7,6 +7,8 @@ path: /notes/baskotasusan/04-15-2014/cool-it.md
 nid: 10310
 uid: 422471
 
+cids: 8827,8850
+
 ---
 
 # Cool It 

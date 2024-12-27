@@ -7,6 +7,8 @@ path: /notes/gauravano/08-12-2018/gsoc-2018-final-work-product-of-draft-feature-
 nid: 16913
 uid: 515081
 
+cids: 20509
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/157/original/draft_page.png)

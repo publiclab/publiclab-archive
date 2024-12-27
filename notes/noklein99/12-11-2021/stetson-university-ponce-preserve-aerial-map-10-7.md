@@ -7,6 +7,8 @@ path: /notes/noklein99/12-11-2021/stetson-university-ponce-preserve-aerial-map-1
 nid: 28418
 uid: 781933
 
+cids: 29560
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/207/original/IMG_0066.PNG)

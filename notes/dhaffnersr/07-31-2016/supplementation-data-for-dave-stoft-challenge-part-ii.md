@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/07-31-2016/supplementation-data-for-dave-stoft-challenge
 nid: 13316
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/276/original/all_4_samples.png)

@@ -7,6 +7,8 @@ path: /notes/sirkubax/12-12-2016/buggy-spectral-meter-galaxy-s7.md
 nid: 13776
 uid: 499666
 
+cids: 22373,22374,22377,22378,22384
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/026/original/2016-12-12_22.32.56.jpg)

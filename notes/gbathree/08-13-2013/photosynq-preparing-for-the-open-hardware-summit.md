@@ -7,6 +7,8 @@ path: /notes/gbathree/08-13-2013/photosynq-preparing-for-the-open-hardware-summi
 nid: 8997
 uid: 53164
 
+cids: 6625,6729,6731
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/125/original/IMG_20130813_144209.jpg)

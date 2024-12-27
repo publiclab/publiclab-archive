@@ -7,6 +7,8 @@ path: /notes/warren/12-06-2017/help-improve-the-step-by-step-guides-people-have-
 nid: 15323
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/828/original/Screen_Shot_2017-12-06_at_2.14.11_PM.png)

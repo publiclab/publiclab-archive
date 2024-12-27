@@ -7,6 +7,8 @@ path: /notes/winingham_abbigail/05-14-2021/testing-the-water-in-city-park.md
 nid: 26593
 uid: 745901
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/815/original/IMG_9070.JPG)

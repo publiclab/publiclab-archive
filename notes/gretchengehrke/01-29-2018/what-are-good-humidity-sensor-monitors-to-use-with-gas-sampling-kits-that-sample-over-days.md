@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/01-29-2018/what-are-good-humidity-sensor-monitors-to
 nid: 15636
 uid: 430549
 
+cids: 22897,22899
+
 ---
 
 # What are good humidity sensor/monitors to use with gas sampling kits?

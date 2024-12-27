@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/04-11-2016/chlorophyll-extract-using-prolight-led-1w-3-4
 nid: 12957
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/481/original/chloro_side_view.JPG)

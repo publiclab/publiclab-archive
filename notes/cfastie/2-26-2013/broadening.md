@@ -7,6 +7,8 @@ path: /notes/cfastie/2-26-2013/broadening.md
 nid: 6124
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/NaStreetLamp2Pan_0.jpg)

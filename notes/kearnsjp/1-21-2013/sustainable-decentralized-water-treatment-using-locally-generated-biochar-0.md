@@ -7,6 +7,8 @@ path: /notes/kearnsjp/1-21-2013/sustainable-decentralized-water-treatment-using-
 nid: 5669
 uid: 48560
 
+cids: 3168,3174,14535
+
 ---
 
 ![](https://publiclab.org/sites/default/files/portable WTP diagram_0.jpg)

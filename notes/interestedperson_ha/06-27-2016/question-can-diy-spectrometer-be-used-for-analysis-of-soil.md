@@ -7,6 +7,8 @@ path: /notes/interestedperson_ha/06-27-2016/question-can-diy-spectrometer-be-use
 nid: 13247
 uid: 481090
 
+cids: 14863,14868,14871,14873,14874,14909,17732
+
 ---
 
 # Question: Can DIY-spectrometer be used for analysis of soil

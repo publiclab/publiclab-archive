@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/06-21-2021/water-research-community-call-english-spe
 nid: 26869
 uid: 639376
 
+cids: 28949,28950,28954,28958
+
 ---
 
 # Water Research community Call (English-speaking call)

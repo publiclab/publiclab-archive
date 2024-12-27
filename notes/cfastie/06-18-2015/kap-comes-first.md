@@ -7,6 +7,8 @@ path: /notes/cfastie/06-18-2015/kap-comes-first.md
 nid: 11988
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/382/original/BrePettis.JPG)

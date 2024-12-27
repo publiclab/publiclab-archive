@@ -7,6 +7,8 @@ path: /notes/warren/07-19-2013/smoothing-macro-using-spectral-workbench-api.md
 nid: 8908
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/850/original/Screen_Shot_2013-07-19_at_11.46.10_AM.png)

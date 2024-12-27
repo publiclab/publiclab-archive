@@ -7,6 +7,8 @@ path: /notes/litar/04-25-2016/question-why-won-t-the-spectrum-plot-show-once-the
 nid: 13027
 uid: 471461
 
+cids: 14427,14454,14464,14465,14470,14471
+
 ---
 
 # Question: Why won't the spectrum plot show once the image has been uploaded?

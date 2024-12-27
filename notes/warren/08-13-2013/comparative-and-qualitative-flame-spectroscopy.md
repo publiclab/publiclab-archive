@@ -7,6 +7,8 @@ path: /notes/warren/08-13-2013/comparative-and-qualitative-flame-spectroscopy.md
 nid: 8996
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/122/original/Screen_Shot_2013-08-13_at_12.25.58_PM.png)

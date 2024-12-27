@@ -7,6 +7,8 @@ path: /notes/warren/02-14-2019/seeking-sources-of-local-wind-weather-data.md
 nid: 18364
 uid: 1
 
+cids: 21871,21873,21874
+
 ---
 
 # Seeking sources of local wind/weather data

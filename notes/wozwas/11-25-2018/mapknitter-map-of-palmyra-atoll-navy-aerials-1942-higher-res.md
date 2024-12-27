@@ -7,6 +7,8 @@ path: /notes/wozwas/11-25-2018/mapknitter-map-of-palmyra-atoll-navy-aerials-1942
 nid: 17749
 uid: 561108
 
+cids: 21336
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/831/original/263.jpg)

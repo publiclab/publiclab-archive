@@ -7,6 +7,8 @@ path: /notes/aliciapaz/04-28-2021/outreachy-proposal-tag-topic-system-refinement
 nid: 26380
 uid: 752301
 
+cids: 28658,28669,28689,28699,28711,28716,28732,28784
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/534/original/thumbnail.png)

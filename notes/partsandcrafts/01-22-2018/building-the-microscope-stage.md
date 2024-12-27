@@ -7,6 +7,8 @@ path: /notes/partsandcrafts/01-22-2018/building-the-microscope-stage.md
 nid: 15585
 uid: 66014
 
+cids: 18298,18663,18752
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/284/original/image5.jpg)

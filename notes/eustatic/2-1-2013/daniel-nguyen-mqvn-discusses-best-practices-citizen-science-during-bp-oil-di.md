@@ -7,6 +7,8 @@ path: /2-1-2013/daniel-nguyen-mqvn-discusses-best-practices-citizen-science-duri
 nid: 5853
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/cmty meeting.png)

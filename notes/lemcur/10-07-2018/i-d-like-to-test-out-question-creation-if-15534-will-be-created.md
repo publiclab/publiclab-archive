@@ -7,6 +7,8 @@ path: /notes/lemcur/10-07-2018/i-d-like-to-test-out-question-creation-if-15534-w
 nid: 17243
 uid: 553368
 
+cids: 
+
 ---
 
 # I'd like to test out question creation, if 15534 will be created

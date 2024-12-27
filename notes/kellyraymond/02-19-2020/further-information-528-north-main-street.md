@@ -7,6 +7,8 @@ path: /notes/kellyraymond/02-19-2020/further-information-528-north-main-street.m
 nid: 22860
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (528 North Main Street)

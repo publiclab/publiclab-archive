@@ -7,6 +7,8 @@ path: /01-16-2016/creosote-superfund-site-in-north-picayune-ms.md
 nid: 12590
 uid: 379
 
+cids: 13379
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/696/original/DSC_0956.JPG)

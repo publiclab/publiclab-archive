@@ -7,6 +7,8 @@ path: /notes/kelv/11-21-2018/tag-page.md
 nid: 17724
 uid: 553553
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/776/original/lead.png)

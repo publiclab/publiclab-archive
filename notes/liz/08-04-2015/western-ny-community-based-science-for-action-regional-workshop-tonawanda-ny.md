@@ -7,6 +7,8 @@ path: /notes/liz/08-04-2015/western-ny-community-based-science-for-action-region
 nid: 12120
 uid: 7
 
+cids: 12337
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/033/original/cropped-cropped-NF1.jpg)

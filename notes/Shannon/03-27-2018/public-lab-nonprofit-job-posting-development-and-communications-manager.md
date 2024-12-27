@@ -7,6 +7,8 @@ path: /notes/Shannon/03-27-2018/public-lab-nonprofit-job-posting-development-and
 nid: 16027
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/227/original/pl-narrow.png)

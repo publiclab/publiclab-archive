@@ -7,6 +7,8 @@ path: /notes/mimiss/04-28-2020/what-are-ways-we-could-model-the-absorption-of-ch
 nid: 23499
 uid: 579821
 
+cids: 26722
+
 ---
 
 # What are ways we could model the absorption of chemicals by plastic waste?

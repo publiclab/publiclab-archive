@@ -7,6 +7,8 @@ path: /notes/amysoyka/06-20-2014/how-to-set-up-your-weather-station-and-stream-i
 nid: 10595
 uid: 422627
 
+cids: 9245,9267,9286,9287,9288,9289,9290,9291,9292,9293,9294,9295,9296,9297,9301,9322
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/906/original/weatherstation.jpg)

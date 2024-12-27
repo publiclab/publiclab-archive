@@ -7,6 +7,8 @@ path: /notes/warren/11-23-2011/8-webcam-spectrometer-not-great.md
 nid: 580
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/2011-11-23-17-42-cheap-notebook-webcam-creative.png)

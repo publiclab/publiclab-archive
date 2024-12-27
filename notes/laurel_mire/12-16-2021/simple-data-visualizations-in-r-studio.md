@@ -7,6 +7,8 @@ path: /notes/laurel_mire/12-16-2021/simple-data-visualizations-in-r-studio.md
 nid: 28500
 uid: 759178
 
+cids: 
+
 ---
 
 # Simple Data Visualizations in R Studio

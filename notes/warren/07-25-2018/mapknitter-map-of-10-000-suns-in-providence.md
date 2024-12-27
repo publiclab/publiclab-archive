@@ -7,6 +7,8 @@ path: /notes/warren/07-25-2018/mapknitter-map-of-10-000-suns-in-providence.md
 nid: 16784
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/869/original/Screen_Shot_2018-07-24_at_11.36.13_PM.png)

@@ -7,6 +7,8 @@ path: /notes/rjun86/01-26-2018/canon-powershot-sd750.md
 nid: 15617
 uid: 523652
 
+cids: 18306,18455,22888
+
 ---
 
 #  Canon PowerShot SD750 

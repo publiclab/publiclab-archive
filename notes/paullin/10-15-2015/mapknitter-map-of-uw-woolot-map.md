@@ -7,6 +7,8 @@ path: /notes/paullin/10-15-2015/mapknitter-map-of-uw-woolot-map.md
 nid: 12306
 uid: 453939
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/969/original/IMG_0202_medium.JPG)

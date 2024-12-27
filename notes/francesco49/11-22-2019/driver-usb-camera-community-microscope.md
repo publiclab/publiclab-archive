@@ -7,6 +7,8 @@ path: /notes/francesco49/11-22-2019/driver-usb-camera-community-microscope.md
 nid: 21551
 uid: 640236
 
+cids: 
+
 ---
 
 # driver usb camera community microscope

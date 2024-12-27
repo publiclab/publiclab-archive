@@ -7,6 +7,8 @@ path: /notes/RTegelbeckers/02-25-2014/3d-printed-body-for-diy-spectrometry-kit.m
 nid: 10066
 uid: 421058
 
+cids: 8343,8346,8347
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/030/original/DSCI0577.JPG)

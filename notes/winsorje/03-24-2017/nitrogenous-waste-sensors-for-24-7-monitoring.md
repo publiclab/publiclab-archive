@@ -7,6 +7,8 @@ path: /notes/winsorje/03-24-2017/nitrogenous-waste-sensors-for-24-7-monitoring.m
 nid: 14056
 uid: 504455
 
+cids: 22449
+
 ---
 
 # Nitrogenous waste sensors for 24/7 monitoring

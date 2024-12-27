@@ -7,6 +7,8 @@ path: /notes/warren/08-20-2013/new-boxes-for-balloon-mapping-kits.md
 nid: 9042
 uid: 1
 
+cids: 6703,6733
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/254/original/IMG_0198.JPG)

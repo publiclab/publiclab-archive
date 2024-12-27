@@ -7,6 +7,8 @@ path: /notes/Shannon/01-18-2017/public-lab-and-uc-davis-partner-to-explore-commu
 nid: 13862
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/306/original/barnraising-handraising_copy.JPG)

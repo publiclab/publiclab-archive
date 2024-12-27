@@ -7,6 +7,8 @@ path: /notes/mathew/07-15-2014/a-restrospective-of-spectrometer-design-ideas-201
 nid: 10692
 uid: 4
 
+cids: 13101
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/291/original/8548944631_a1ba61040c.jpg)

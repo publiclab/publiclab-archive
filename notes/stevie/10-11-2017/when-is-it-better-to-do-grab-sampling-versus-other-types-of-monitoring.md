@@ -7,6 +7,8 @@ path: /notes/stevie/10-11-2017/when-is-it-better-to-do-grab-sampling-versus-othe
 nid: 15028
 uid: 422561
 
+cids: 22662,26845
+
 ---
 
 # When is it better to do grab sampling versus other types of monitoring?

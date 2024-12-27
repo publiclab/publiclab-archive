@@ -7,6 +7,8 @@ path: /notes/liz/01-25-2018/conversation-on-decentralizing-data-storage-and-mesh
 nid: 15606
 uid: 7
 
+cids: 
+
 ---
 
 # Conversation on decentralizing data storage and mesh networks

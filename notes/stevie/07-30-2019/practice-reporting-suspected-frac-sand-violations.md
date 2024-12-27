@@ -7,6 +7,8 @@ path: /notes/stevie/07-30-2019/practice-reporting-suspected-frac-sand-violations
 nid: 20359
 uid: 422561
 
+cids: 25170,25192,25199
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/240/original/Screen_Shot_2019-07-31_at_9.31.05_AM.png)

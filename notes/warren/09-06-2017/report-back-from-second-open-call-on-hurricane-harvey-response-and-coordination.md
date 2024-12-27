@@ -7,6 +7,8 @@ path: /notes/warren/09-06-2017/report-back-from-second-open-call-on-hurricane-ha
 nid: 14833
 uid: 1
 
+cids: 
+
 ---
 
 # Report-back from second Open Call on Hurricane Harvey response and coordination

@@ -7,6 +7,8 @@ path: /notes/bansal_sidharth2996/09-12-2018/soc-meetup-at-dtu.md
 nid: 17097
 uid: 503599
 
+cids: 20638,20644,20647,20648,20649,20650,20658,20659,20663,20674,20675,20677,20678,20679,20698
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/521/original/image.png)

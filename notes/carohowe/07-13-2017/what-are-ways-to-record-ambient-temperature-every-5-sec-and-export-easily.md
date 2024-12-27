@@ -7,6 +7,8 @@ path: /notes/carohowe/07-13-2017/what-are-ways-to-record-ambient-temperature-eve
 nid: 14650
 uid: 510884
 
+cids: 17031,17034,17063,17071,17072,17077,22522,22523,22526,22533
+
 ---
 
 # What are ways to record ambient temperature every 5 sec and export easily?

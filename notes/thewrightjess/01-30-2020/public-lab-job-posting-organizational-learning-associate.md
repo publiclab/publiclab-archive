@@ -7,6 +7,8 @@ path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-organizational-lear
 nid: 22437
 uid: 603909
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/832/original/Organizational_Learning.jpg)

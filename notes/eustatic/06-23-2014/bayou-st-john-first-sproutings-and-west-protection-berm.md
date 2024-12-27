@@ -7,6 +7,8 @@ path: /06-23-2014/bayou-st-john-first-sproutings-and-west-protection-berm.md
 nid: 10604
 uid: 379
 
+cids: 9243,9244,10156,10157
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/934/original/14483937984_a3c3610f19_1_.jpg)

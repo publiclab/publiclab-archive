@@ -7,6 +7,8 @@ path: /notes/Shannon/12-13-2016/environmental-protection-belongs-to-the-public-a
 nid: 13780
 uid: 9
 
+cids: 15971,15976,15977
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/036/original/Screen_Shot_2016-12-13_at_3.09.41_PM.png)

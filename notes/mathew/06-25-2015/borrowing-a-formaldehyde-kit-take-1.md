@@ -7,6 +7,8 @@ path: /notes/mathew/06-25-2015/borrowing-a-formaldehyde-kit-take-1.md
 nid: 12003
 uid: 4
 
+cids: 12017,12020,12022,12023,12026,12027,12085,12086,12087,12092,12093,12094,12401,12403,12406
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/429/original/Untitled.png)

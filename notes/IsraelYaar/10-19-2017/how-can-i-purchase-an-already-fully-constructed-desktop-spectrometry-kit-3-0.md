@@ -7,6 +7,8 @@ path: /notes/IsraelYaar/10-19-2017/how-can-i-purchase-an-already-fully-construct
 nid: 15071
 uid: 516669
 
+cids: 22677
+
 ---
 
 # How can I purchase an already fully constructed "Desktop Spectrometry Kit 3.0"?

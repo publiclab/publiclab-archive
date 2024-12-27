@@ -7,6 +7,8 @@ path: /notes/rupeshjey/05-21-2019/mapknitter-map-of-pasadena-farmers-market.md
 nid: 19480
 uid: 592126
 
+cids: 
+
 ---
 
 # MapKnitter map of Pasadena Farmers' Market

@@ -7,6 +7,8 @@ path: /notes/Thekachi/04-17-2022/outreachy-proposal-design-a-new-full-screen-use
 nid: 30447
 uid: 792901
 
+cids: 30073,30095
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/964/original/Screenshot_2022-04-17_at_12.02.05.png)

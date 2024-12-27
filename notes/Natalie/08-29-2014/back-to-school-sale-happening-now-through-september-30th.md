@@ -7,6 +7,8 @@ path: /notes/Natalie/08-29-2014/back-to-school-sale-happening-now-through-septem
 nid: 11089
 uid: 424454
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/522/original/B2S.png)

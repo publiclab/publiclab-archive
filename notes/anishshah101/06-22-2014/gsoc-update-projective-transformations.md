@@ -7,6 +7,8 @@ path: /notes/anishshah101/06-22-2014/gsoc-update-projective-transformations.md
 nid: 10601
 uid: 421046
 
+cids: 9237,9317,9320,9321,9350,9351,9369
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/920/original/4.png)

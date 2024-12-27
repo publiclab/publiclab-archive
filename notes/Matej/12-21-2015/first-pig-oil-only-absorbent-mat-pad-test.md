@@ -7,6 +7,8 @@ path: /notes/Matej/12-21-2015/first-pig-oil-only-absorbent-mat-pad-test.md
 nid: 12536
 uid: 451808
 
+cids: 13247,13251,13552
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/442/original/unboxing.jpg)

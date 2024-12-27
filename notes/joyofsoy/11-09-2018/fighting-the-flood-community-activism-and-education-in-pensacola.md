@@ -7,6 +7,8 @@ path: /notes/joyofsoy/11-09-2018/fighting-the-flood-community-activism-and-educa
 nid: 17500
 uid: 540844
 
+cids: 21188,21407,21576,22224
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/571/original/20170613_100248_%281%29.jpg)

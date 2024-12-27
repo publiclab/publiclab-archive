@@ -7,6 +7,8 @@ path: /notes/alaxallves/08-29-2020/gsoc-2020-report.md
 nid: 24471
 uid: 577447
 
+cids: 27309,27310,27314,27317
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/040/716/original/o-que-%C3%A9-devops-1.png)

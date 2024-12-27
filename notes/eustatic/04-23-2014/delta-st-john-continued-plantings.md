@@ -7,6 +7,8 @@ path: /04-23-2014/delta-st-john-continued-plantings.md
 nid: 10344
 uid: 379
 
+cids: 8858,8859,8860,8861,8864,8866
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/813/original/d_IMG_9255.JPG)

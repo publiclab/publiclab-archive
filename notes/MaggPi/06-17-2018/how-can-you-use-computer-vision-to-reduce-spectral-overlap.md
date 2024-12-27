@@ -7,6 +7,8 @@ path: /notes/MaggPi/06-17-2018/how-can-you-use-computer-vision-to-reduce-spectra
 nid: 16513
 uid: 501996
 
+cids: 19833,19834,19891
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/237/original/spectral_starcase_-_Copy.jpg)

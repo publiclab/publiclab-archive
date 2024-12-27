@@ -7,6 +7,8 @@ path: /notes/warren/01-12-2018/an-amazing-week-of-software-contributing-at-publi
 nid: 15518
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/176/original/Screen_Shot_2018-01-12_at_5.09.14_PM.png)

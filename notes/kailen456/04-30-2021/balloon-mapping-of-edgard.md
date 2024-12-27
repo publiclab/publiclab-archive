@@ -7,6 +7,8 @@ path: /notes/kailen456/04-30-2021/balloon-mapping-of-edgard.md
 nid: 26423
 uid: 754776
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/633/original/Doc3.docx)

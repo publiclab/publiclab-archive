@@ -7,6 +7,8 @@ path: /notes/mseibert/12-20-2013/barataria-unit-tarpaper-canal-nw-monitoring-18-
 nid: 9909
 uid: 419999
 
+cids: 7935,7942,7943,7944
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/435/original/marsh.jpg)

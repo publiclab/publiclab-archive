@@ -7,6 +7,8 @@ path: /notes/cfastie/5-2-2012/no-output-signal-ir-kit-timer.md
 nid: 1891
 uid: 554
 
+cids: 663,664,665,666,667,674,675,676,677,678,679,716,717,718,719,1006,1007
+
 ---
 
 ![](https://publiclab.org/sites/default/files/555-20120502-136-13.jpg)

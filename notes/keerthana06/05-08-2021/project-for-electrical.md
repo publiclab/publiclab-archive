@@ -7,6 +7,8 @@ path: /notes/keerthana06/05-08-2021/project-for-electrical.md
 nid: 26528
 uid: 754722
 
+cids: 28725,28726
+
 ---
 
 # Project for electrical

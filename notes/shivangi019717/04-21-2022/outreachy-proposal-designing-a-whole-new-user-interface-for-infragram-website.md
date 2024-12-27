@@ -7,6 +7,8 @@ path: /notes/shivangi019717/04-21-2022/outreachy-proposal-designing-a-whole-new-
 nid: 30549
 uid: 796011
 
+cids: 30113
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/357/original/my_wrireframe.png)

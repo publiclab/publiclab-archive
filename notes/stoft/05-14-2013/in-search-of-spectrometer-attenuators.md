@@ -7,6 +7,8 @@ path: /notes/stoft/05-14-2013/in-search-of-spectrometer-attenuators.md
 nid: 7526
 uid: 54025
 
+cids: 4712,4721,6432,6479,6484,6488,6497,6498,6544,6546,6564,6565,6566,6567
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/267/original/FilterTypes.jpg)

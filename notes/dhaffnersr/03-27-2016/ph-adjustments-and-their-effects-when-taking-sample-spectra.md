@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-27-2016/ph-adjustments-and-their-effects-when-taking-
 nid: 12895
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/246/original/rhd_b_methyl_b_samples_mar25.JPG)

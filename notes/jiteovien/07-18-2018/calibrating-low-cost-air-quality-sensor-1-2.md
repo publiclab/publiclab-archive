@@ -7,6 +7,8 @@ path: /notes/jiteovien/07-18-2018/calibrating-low-cost-air-quality-sensor-1-2.md
 nid: 16745
 uid: 540008
 
+cids: 20161,20165,20171,20244
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/744/original/aq.jpg)

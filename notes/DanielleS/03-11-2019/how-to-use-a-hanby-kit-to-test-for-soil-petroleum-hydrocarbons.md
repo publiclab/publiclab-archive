@@ -7,6 +7,8 @@ path: /notes/DanielleS/03-11-2019/how-to-use-a-hanby-kit-to-test-for-soil-petrol
 nid: 18507
 uid: 569208
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/990/original/hanby_ezr.gif)

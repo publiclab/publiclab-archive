@@ -7,6 +7,8 @@ path: /notes/stevie/03-04-2020/event-sand-sentinel-training-bloomer-wi.md
 nid: 23028
 uid: 422561
 
+cids: 26422,26470,26585
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/329/original/FracSandMining-2013-Auch33Chippewa_Co._LaGesse.JPG)

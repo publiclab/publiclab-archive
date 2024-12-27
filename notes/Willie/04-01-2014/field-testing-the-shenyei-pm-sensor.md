@@ -7,6 +7,8 @@ path: /notes/Willie/04-01-2014/field-testing-the-shenyei-pm-sensor.md
 nid: 10247
 uid: 235174
 
+cids: 8631,8634,8642,8652,8662,8829,9586,11948
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/471/original/ShinyeiPPD42NS_Insides_Labeled_600.jpg)

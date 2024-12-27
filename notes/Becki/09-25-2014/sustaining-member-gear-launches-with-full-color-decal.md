@@ -7,6 +7,8 @@ path: /notes/Becki/09-25-2014/sustaining-member-gear-launches-with-full-color-de
 nid: 11186
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/030/original/decals_in_baggie-medium.jpg)

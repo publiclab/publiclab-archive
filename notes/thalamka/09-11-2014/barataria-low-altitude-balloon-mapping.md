@@ -7,6 +7,8 @@ path: /notes/thalamka/09-11-2014/barataria-low-altitude-balloon-mapping.md
 nid: 11129
 uid: 428238
 
+cids: 10310,10315,10927
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/743/original/bm1-barataria-2014.jpg)

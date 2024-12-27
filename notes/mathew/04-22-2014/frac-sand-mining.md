@@ -7,6 +7,8 @@ path: /notes/mathew/04-22-2014/frac-sand-mining.md
 nid: 10341
 uid: 4
 
+cids: 8852,8853,19965,19967,21522
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/783/original/Screen_Shot_2014-04-21_at_5.22.54_PM.png)

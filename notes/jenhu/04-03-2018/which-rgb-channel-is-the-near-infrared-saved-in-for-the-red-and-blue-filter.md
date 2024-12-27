@@ -7,6 +7,8 @@ path: /notes/jenhu/04-03-2018/which-rgb-channel-is-the-near-infrared-saved-in-fo
 nid: 16061
 uid: 517893
 
+cids: 23052
+
 ---
 
 # Which RGB channel is the near-infrared saved in for the red and blue filter?  

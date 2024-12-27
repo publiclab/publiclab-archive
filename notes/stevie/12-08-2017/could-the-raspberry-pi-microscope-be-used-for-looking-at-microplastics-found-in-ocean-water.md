@@ -7,6 +7,8 @@ path: /notes/stevie/12-08-2017/could-the-raspberry-pi-microscope-be-used-for-loo
 nid: 15340
 uid: 422561
 
+cids: 17935,20309,20339,22797,23196
+
 ---
 
 # Could the Raspberry Pi Microscope be used for looking at microplastics found in ocean water?

@@ -7,6 +7,8 @@ path: /notes/ryangaia/07-18-2019/is-helium-lift-ability-is-temperature-dependent
 nid: 20181
 uid: 425275
 
+cids: 25064,25065
+
 ---
 
 # Is helium lift-ability is temperature dependent?

@@ -7,6 +7,8 @@ path: /notes/MaggPi/04-26-2018/which-public-lab-kit-is-best-for-testing-the-impa
 nid: 16213
 uid: 501996
 
+cids: 19501,19616,23090
+
 ---
 
 # Which Public Lab kit is  best  for testing the impact of different camera settings?

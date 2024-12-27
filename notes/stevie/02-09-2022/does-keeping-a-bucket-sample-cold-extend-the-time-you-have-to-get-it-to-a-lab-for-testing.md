@@ -7,6 +7,8 @@ path: /notes/stevie/02-09-2022/does-keeping-a-bucket-sample-cold-extend-the-time
 nid: 30014
 uid: 422561
 
+cids: 30345
+
 ---
 
 # Does keeping a bucket sample cold extend the time you have to get it to a lab for testing? 

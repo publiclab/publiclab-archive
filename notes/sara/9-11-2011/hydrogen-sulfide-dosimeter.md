@@ -7,6 +7,8 @@ path: /notes/sara/9-11-2011/hydrogen-sulfide-dosimeter.md
 nid: 463
 uid: 8
 
+cids: 17653
+
 ---
 
 # Hydrogen Sulfide Dosimeter

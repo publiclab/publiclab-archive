@@ -7,6 +7,8 @@ path: /notes/Alex_the_Ukrainian/03-21-2015/kharkiv-diy-egg-shaped-balloons.md
 nid: 11707
 uid: 436428
 
+cids: 11412
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/373/original/6_aloft_with_cloud.jpg)

@@ -7,6 +7,8 @@ path: /notes/rkpattnaik780/04-05-2019/soc-proposal-improving-ui-and-structure-of
 nid: 18967
 uid: 577587
 
+cids: 23734,23796,23815,24047,24111
+
 ---
 
 # SoC proposal: Improving UI and Structure of Leaflet Environmental Layers

@@ -7,6 +7,8 @@ path: /notes/cfastie/09-11-2013/fade-out.md
 nid: 9315
 uid: 554
 
+cids: 6812,6815,6820
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/488/original/fadecard-231-11a.jpg)

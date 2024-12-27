@@ -7,6 +7,8 @@ path: /notes/stevie/01-24-2020/how-can-you-tell-if-a-sheen-on-water-is-bacterial
 nid: 22396
 uid: 422561
 
+cids: 26209,26213
+
 ---
 
 # How can you tell if a sheen on water is bacterial or petroleum (oil)? 

@@ -7,6 +7,8 @@ path: /notes/eymund-diegel/4-30-2012/gowanus-canal-salt-lot-kite-mapping.md
 nid: 1849
 uid: 1016
 
+cids: 691,692
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Hello Kitty says use protection when flying.jpg)

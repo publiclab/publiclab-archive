@@ -7,6 +7,8 @@ path: /notes/stevie/08-26-2021/what-are-ways-to-monitor-for-ethylene-oxide.md
 nid: 27625
 uid: 422561
 
+cids: 29200
+
 ---
 
 # What are ways to monitor for ethylene oxide?

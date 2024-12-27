@@ -7,6 +7,8 @@ path: /notes/warren/01-07-2014/infragram-live-infragram-webcams-en-route-from-fa
 nid: 9929
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/495/original/Screen_Shot_2014-01-07_at_12.43.22_PM.png)

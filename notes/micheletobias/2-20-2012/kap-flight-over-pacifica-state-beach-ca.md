@@ -7,6 +7,8 @@ path: /notes/micheletobias/2-20-2012/kap-flight-over-pacifica-state-beach-ca.md
 nid: 814
 uid: 149
 
+cids: 481,483,484
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Pacifica_Try4_2012.jpg)

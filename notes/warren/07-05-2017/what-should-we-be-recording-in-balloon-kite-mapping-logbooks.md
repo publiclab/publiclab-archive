@@ -7,6 +7,8 @@ path: /notes/warren/07-05-2017/what-should-we-be-recording-in-balloon-kite-mappi
 nid: 14620
 uid: 1
 
+cids: 22516
+
 ---
 
 # What should we be recording in balloon/kite mapping logbooks?

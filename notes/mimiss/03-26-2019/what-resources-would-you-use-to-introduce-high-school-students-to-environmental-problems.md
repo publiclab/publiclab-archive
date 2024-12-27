@@ -7,6 +7,8 @@ path: /notes/mimiss/03-26-2019/what-resources-would-you-use-to-introduce-high-sc
 nid: 18861
 uid: 579821
 
+cids: 23505,23844,23938,31120
+
 ---
 
 # What are some of your favorite community science projects from around the world?

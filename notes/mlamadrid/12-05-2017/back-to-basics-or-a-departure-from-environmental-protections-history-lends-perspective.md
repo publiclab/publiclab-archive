@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-05-2017/back-to-basics-or-a-departure-from-environment
 nid: 15310
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/804/original/Africatown_Blueway_Planning_Stevie.jpg)

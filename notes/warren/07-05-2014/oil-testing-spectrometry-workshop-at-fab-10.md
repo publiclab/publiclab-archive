@@ -7,6 +7,8 @@ path: /notes/warren/07-05-2014/oil-testing-spectrometry-workshop-at-fab-10.md
 nid: 10661
 uid: 1
 
+cids: 9422,9423,9431,9433,9443
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/141/original/IMG_20140704_175642.jpg)

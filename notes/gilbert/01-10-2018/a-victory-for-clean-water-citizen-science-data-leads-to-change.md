@@ -7,6 +7,8 @@ path: /notes/gilbert/01-10-2018/a-victory-for-clean-water-citizen-science-data-l
 nid: 15503
 uid: 508551
 
+cids: 18182,18511
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/157/original/image.png)

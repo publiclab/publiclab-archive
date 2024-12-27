@@ -7,6 +7,8 @@ path: /notes/gilbert/08-30-2017/disaster-management-organizations-and-software-o
 nid: 14802
 uid: 508551
 
+cids: 17337
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/473/original/Hurricane_Harvey_node_full_image_2.jpg)

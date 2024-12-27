@@ -7,6 +7,8 @@ path: /notes/Zengirl2/12-11-2017/what-kind-of-camera-is-needed-for-night-time-ba
 nid: 15352
 uid: 423961
 
+cids: 22799
+
 ---
 
 # What kind of camera is needed for night-time balloon mapping?

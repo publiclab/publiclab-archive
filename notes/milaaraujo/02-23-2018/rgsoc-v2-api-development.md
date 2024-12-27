@@ -7,6 +7,8 @@ path: /notes/milaaraujo/02-23-2018/rgsoc-v2-api-development.md
 nid: 15805
 uid: 525897
 
+cids: 18586,18587,18589,18646,18651,18861,18862,18863,19140,19404,19431
+
 ---
 
 # RGSoC: v2 API development

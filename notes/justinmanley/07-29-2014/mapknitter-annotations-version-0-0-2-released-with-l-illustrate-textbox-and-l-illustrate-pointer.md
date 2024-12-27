@@ -7,6 +7,8 @@ path: /notes/justinmanley/07-29-2014/mapknitter-annotations-version-0-0-2-releas
 nid: 10990
 uid: 421556
 
+cids: 9693,9701,9708,9723,9735,9738,10009
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/650/original/header.png)

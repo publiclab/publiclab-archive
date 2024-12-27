@@ -7,6 +7,8 @@ path: /notes/norbert/07-23-2018/hobo-4-channel-logger-with-larger-battery.md
 nid: 16766
 uid: 542953
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/836/original/onelogger_0426s.jpg)

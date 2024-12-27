@@ -7,6 +7,8 @@ path: /notes/ryzokuken/08-23-2017/getting-to-know-plotsbot.md
 nid: 14779
 uid: 493113
 
+cids: 17207,17222,17223,17230,17231,17244,17245,17259,17298
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/397/original/PublicLab.png)

@@ -7,6 +7,8 @@ path: /notes/gwirth/06-05-2013/gowanus-vegetation-mapping-saturday-june-8th.md
 nid: 8057
 uid: 30539
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/475/original/GC_cleangreen_thumb.jpg)

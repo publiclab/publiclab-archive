@@ -7,6 +7,8 @@ path: /notes/stevie/03-21-2018/how-do-we-address-the-issue-of-people-posting-the
 nid: 15991
 uid: 422561
 
+cids: 19114,19119,19435,23024,23028
+
 ---
 
 # How do we address the issue of people posting the same or very similar questions? 

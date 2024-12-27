@@ -7,6 +7,8 @@ path: /notes/Jkkowalski1397/10-19-2016/spectral-spectrum.md
 nid: 13580
 uid: 494854
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/434/original/image.jpeg)

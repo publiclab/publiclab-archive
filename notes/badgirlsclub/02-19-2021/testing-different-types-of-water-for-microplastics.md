@@ -7,6 +7,8 @@ path: /notes/badgirlsclub/02-19-2021/testing-different-types-of-water-for-microp
 nid: 25738
 uid: 739157
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/747/original/download.jpg)

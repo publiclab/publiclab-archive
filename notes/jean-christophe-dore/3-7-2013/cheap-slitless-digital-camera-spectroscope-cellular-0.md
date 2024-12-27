@@ -7,6 +7,8 @@ path: /notes/jean-christophe-dore/3-7-2013/cheap-slitless-digital-camera-spectro
 nid: 6232
 uid: 44865
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/1_0.jpg)

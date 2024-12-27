@@ -7,6 +7,8 @@ path: /notes/liz/07-11-2013/infragrams-over-nyc-feedback-farm-on-bergen-street.m
 nid: 8824
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/747/original/BK-FeedbackFarm-Bergen.jpg)

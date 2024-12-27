@@ -7,6 +7,8 @@ path: /notes/jjcreedon/11-16-2017/how-is-technical-advisory-committee-formed-for
 nid: 15197
 uid: 515357
 
+cids: 17718,17767,22729,22741
+
 ---
 
 # How is a Technical Advisory Committee formed (for a Citizen Science Project)?

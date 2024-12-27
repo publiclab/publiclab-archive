@@ -7,6 +7,8 @@ path: /notes/emilabraham/11-21-2014/question-how-much-is-the-total-cost.md
 nid: 11378
 uid: 430731
 
+cids: 
+
 ---
 
 # Question: How much is the total cost?

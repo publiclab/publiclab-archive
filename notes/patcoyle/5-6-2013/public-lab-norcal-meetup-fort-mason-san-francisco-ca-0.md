@@ -7,6 +7,8 @@ path: /notes/patcoyle/5-6-2013/public-lab-norcal-meetup-fort-mason-san-francisco
 nid: 7266
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/P1070627.JPG)

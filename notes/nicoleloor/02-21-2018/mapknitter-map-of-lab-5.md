@@ -7,6 +7,8 @@ path: /notes/nicoleloor/02-21-2018/mapknitter-map-of-lab-5.md
 nid: 15795
 uid: 525180
 
+cids: 
+
 ---
 
 # MapKnitter map of Lab 5

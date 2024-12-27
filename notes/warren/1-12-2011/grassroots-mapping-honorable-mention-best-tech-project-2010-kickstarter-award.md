@@ -7,6 +7,8 @@ path: /notes/warren/1-12-2011/grassroots-mapping-honorable-mention-best-tech-pro
 nid: 50
 uid: 1
 
+cids: 22187
+
 ---
 
 # Grassroots Mapping is an Honorable Mention for Best Tech Project at the 2010 Kickstarter Awards

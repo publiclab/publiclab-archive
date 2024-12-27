@@ -7,6 +7,8 @@ path: /notes/stevie/08-10-2017/community-mapping-in-st-bernard-parish-louisiana.
 nid: 14729
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/317/original/Screen_Shot_2017-08-07_at_3.45.14_PM.png)

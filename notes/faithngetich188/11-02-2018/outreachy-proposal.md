@@ -7,6 +7,8 @@ path: /notes/faithngetich188/11-02-2018/outreachy-proposal.md
 nid: 17468
 uid: 555582
 
+cids: 21102,21106,21127,21140
+
 ---
 
 # Outreachy proposal: 

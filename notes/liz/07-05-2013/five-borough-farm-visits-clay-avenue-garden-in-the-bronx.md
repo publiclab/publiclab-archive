@@ -7,6 +7,8 @@ path: /notes/liz/07-05-2013/five-borough-farm-visits-clay-avenue-garden-in-the-b
 nid: 8705
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/668/original/IMG_20130629_165857.jpg)

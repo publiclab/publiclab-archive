@@ -7,6 +7,8 @@ path: /notes/cfastie/9-5-2012/l-e-f-f-e-s-t.md
 nid: 3652
 uid: 554
 
+cids: 1256
+
 ---
 
 ![](https://publiclab.org/sites/default/files/leaffestcover.jpg)

@@ -7,6 +7,8 @@ path: /notes/liz/4-13-2012/barnstars.md
 nid: 1663
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/traditional.gif)

@@ -7,6 +7,8 @@ path: /notes/amallozzi/02-24-2020/can-public-lab-s-lego-spectrometer-be-used-to-
 nid: 22914
 uid: 601701
 
+cids: 26374,26377,26379
+
 ---
 
 # Can Public Lab's Lego Spectrometer be used to measure sunscreen in water?

@@ -7,6 +7,8 @@ path: /notes/liz/05-30-2014/june-1-jamaica-bay-wetland-planting-photography.md
 nid: 10518
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/485/original/unnamed.jpg)

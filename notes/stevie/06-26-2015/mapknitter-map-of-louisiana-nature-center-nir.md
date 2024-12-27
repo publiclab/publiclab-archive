@@ -7,6 +7,8 @@ path: /notes/stevie/06-26-2015/mapknitter-map-of-louisiana-nature-center-nir.md
 nid: 12009
 uid: 422561
 
+cids: 12595
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/448/original/IMAG0033.JPG)

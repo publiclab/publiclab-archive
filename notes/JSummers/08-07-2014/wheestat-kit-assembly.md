@@ -7,6 +7,8 @@ path: /notes/JSummers/08-07-2014/wheestat-kit-assembly.md
 nid: 11020
 uid: 304279
 
+cids: 9997,9998,10001,10221,10229,11446,11457,11461,11485,11487,12167,12772,12774,16416,16428
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/121/original/WheeStatKit.jpg)

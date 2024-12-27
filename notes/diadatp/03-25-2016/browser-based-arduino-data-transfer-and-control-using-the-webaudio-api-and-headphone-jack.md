@@ -7,6 +7,8 @@ path: /notes/diadatp/03-25-2016/browser-based-arduino-data-transfer-and-control-
 nid: 12888
 uid: 468811
 
+cids: 14670
+
 ---
 
 # Browser-based Arduino data transfer and control using the WebAudio API and headphone jack

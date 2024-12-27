@@ -7,6 +7,8 @@ path: /notes/cfastie/12-25-2015/diy-holiday.md
 nid: 12543
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/469/original/XmasPLA-713-75.jpg)

@@ -7,6 +7,8 @@ path: /notes/kgradow1/07-23-2014/brainstorm-a-family-hackerspace.md
 nid: 10951
 uid: 297929
 
+cids: 9635
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/457/original/20140721_134622.jpg)

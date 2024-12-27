@@ -7,6 +7,8 @@ path: /notes/warren/01-27-2018/do-people-who-collaborated-at-the-madeira-open-in
 nid: 15626
 uid: 1
 
+cids: 18310,22894
+
 ---
 
 # Do people who collaborated at the Madeira Open Institute event have photos to share?

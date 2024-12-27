@@ -7,6 +7,8 @@ path: /notes/Schroyer/11-23-2013/measure-coarse-and-fine-air-particulates-with-a
 nid: 9818
 uid: 381809
 
+cids: 7711,7713,7792,8073,8094,8095,8096,8143,8144,8145,8651,8828,8832,8835,8845,8881,8884,9231,10507,11275,11276,11937,11945,13172,16576,20202,20246,20249,20250,20382,20857,20860,20861
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/305/original/dustduino_proto_2_desk.jpg)

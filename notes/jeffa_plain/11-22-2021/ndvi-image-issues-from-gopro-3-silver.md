@@ -7,6 +7,8 @@ path: /notes/jeffa_plain/11-22-2021/ndvi-image-issues-from-gopro-3-silver.md
 nid: 28222
 uid: 779420
 
+cids: 29478,29481,29490,29493,29494,29495,29496,29497,29498
+
 ---
 
 # NDVI image issues from GoPro 3+ Silver 

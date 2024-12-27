@@ -7,6 +7,8 @@ path: /3-29-2013/swamp-stomp-video.md
 nid: 6608
 uid: 379
 
+cids: 4404
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0114.JPG)

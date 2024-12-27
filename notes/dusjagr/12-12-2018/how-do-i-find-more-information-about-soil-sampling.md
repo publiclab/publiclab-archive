@@ -7,6 +7,8 @@ path: /notes/dusjagr/12-12-2018/how-do-i-find-more-information-about-soil-sampli
 nid: 17880
 uid: 46795
 
+cids: 21499,21515,21516,23665,26766
+
 ---
 
 # How do I... find more information about soil sampling

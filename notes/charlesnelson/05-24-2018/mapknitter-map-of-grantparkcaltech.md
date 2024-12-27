@@ -7,6 +7,8 @@ path: /notes/charlesnelson/05-24-2018/mapknitter-map-of-grantparkcaltech.md
 nid: 16382
 uid: 535436
 
+cids: 
+
 ---
 
 # MapKnitter map of grantparkcaltech

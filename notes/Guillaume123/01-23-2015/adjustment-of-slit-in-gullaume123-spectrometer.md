@@ -7,6 +7,8 @@ path: /notes/Guillaume123/01-23-2015/adjustment-of-slit-in-gullaume123-spectrome
 nid: 11538
 uid: 284858
 
+cids: 11089
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/724/original/Top_of_knife_edges.JPG)

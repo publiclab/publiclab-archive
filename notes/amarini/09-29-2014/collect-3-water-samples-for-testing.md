@@ -7,6 +7,8 @@ path: /notes/amarini/09-29-2014/collect-3-water-samples-for-testing.md
 nid: 11205
 uid: 428064
 
+cids: 10469,10480,27757
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/083/original/photo_2_%282%29.JPG)

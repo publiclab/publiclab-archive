@@ -7,6 +7,8 @@ path: /notes/thewrightjess/09-27-2019/public-lab-job-posting-kits-fulfillment-co
 nid: 21030
 uid: 603909
 
+cids: 25604
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/035/499/original/kits.png)

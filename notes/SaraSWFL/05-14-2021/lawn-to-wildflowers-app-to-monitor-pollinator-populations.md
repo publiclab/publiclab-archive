@@ -7,6 +7,8 @@ path: /notes/SaraSWFL/05-14-2021/lawn-to-wildflowers-app-to-monitor-pollinator-p
 nid: 26595
 uid: 756414
 
+cids: 28982
+
 ---
 
 # “Lawn to wildflowers” app to monitor pollinator populations?

@@ -7,6 +7,8 @@ path: /notes/SomyaSinghal/04-21-2022/outreachy-proposal-design-a-new-full-screen
 nid: 30543
 uid: 792904
 
+cids: 30106,30129,30135,30156
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/304/original/out-1.png)

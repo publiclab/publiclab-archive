@@ -7,6 +7,8 @@ path: /notes/eymund/05-14-2014/the-most-radioactive-place-in-new-york-city.md
 nid: 10472
 uid: 1016
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/278/original/Gowanus_Mutant_Ninja_Turtles_Nickolodeon.jpg)

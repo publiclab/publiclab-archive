@@ -7,6 +7,8 @@ path: /notes/DuvTorres/05-27-2015/what-is-the-correct-interpretation-for-the-ndv
 nid: 11845
 uid: 442564
 
+cids: 11775,11781,11983,11984
+
 ---
 
 # What is the correct interpretation for the NDVI infragram color scale?

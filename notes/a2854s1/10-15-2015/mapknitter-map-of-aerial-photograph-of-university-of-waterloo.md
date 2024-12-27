@@ -7,6 +7,8 @@ path: /notes/a2854s1/10-15-2015/mapknitter-map-of-aerial-photograph-of-universit
 nid: 12305
 uid: 453202
 
+cids: 
+
 ---
 
 # MapKnitter map of Aerial Photograph of University of Waterloo

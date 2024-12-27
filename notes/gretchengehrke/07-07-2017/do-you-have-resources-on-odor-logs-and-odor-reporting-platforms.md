@@ -7,6 +7,8 @@ path: /notes/gretchengehrke/07-07-2017/do-you-have-resources-on-odor-logs-and-od
 nid: 14632
 uid: 430549
 
+cids: 17079,17080,22028,22528,22529,22530,23320
+
 ---
 
 # Do you have resources on odor logs and odor reporting platforms? 

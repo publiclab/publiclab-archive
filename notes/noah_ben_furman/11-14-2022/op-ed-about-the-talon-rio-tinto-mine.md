@@ -7,6 +7,8 @@ path: /notes/noah_ben_furman/11-14-2022/op-ed-about-the-talon-rio-tinto-mine.md
 nid: 37424
 uid: 795472
 
+cids: 30773
+
 ---
 
 # Op-Ed about the Talon-Rio Tinto Mine

@@ -7,6 +7,8 @@ path: /notes/cfastie/03-02-2014/snowfest-the-movie.md
 nid: 10097
 uid: 554
 
+cids: 8392
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/114/original/IMG_9337b.jpg)

@@ -7,6 +7,8 @@ path: /notes/liz/10-26-2016/how-to-invite-someone-to-translate-on-transifex.md
 nid: 13649
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/592/original/Screen_Shot_2016-10-26_at_10.00.56_AM.png)

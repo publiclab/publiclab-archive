@@ -7,6 +7,8 @@ path: /notes/Roolark/01-01-2014/usability-of-public-lab-s-ndvi-and-kite-balloon-
 nid: 9919
 uid: 411681
 
+cids: 7979,7981,7988
+
 ---
 
 # Usability of Public Lab's NDVI and Kite/Balloon Mapping for Remote Sensing in Academics/Research

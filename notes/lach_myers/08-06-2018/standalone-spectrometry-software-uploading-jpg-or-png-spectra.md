@@ -7,6 +7,8 @@ path: /notes/lach_myers/08-06-2018/standalone-spectrometry-software-uploading-jp
 nid: 16870
 uid: 425849
 
+cids: 20296,24726,24834,24835,25968,25986
+
 ---
 
 # Standalone Spectrometry software & uploading JPG or PNG spectra

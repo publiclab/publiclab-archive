@@ -7,6 +7,8 @@ path: /notes/warren/5-14-2011/infrared-visible-dual-camera-mapping-rig-cesar-har
 nid: 238
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/5709445998_613ef060f6_b.jpg)

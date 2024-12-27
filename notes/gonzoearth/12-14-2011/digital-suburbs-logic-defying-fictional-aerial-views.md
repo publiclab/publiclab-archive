@@ -7,6 +7,8 @@ path: /notes/gonzoearth/12-14-2011/digital-suburbs-logic-defying-fictional-aeria
 nid: 638
 uid: 12
 
+cids: 
+
 ---
 
 # Digital Suburbs: Logic-Defying Fictional Aerial Views

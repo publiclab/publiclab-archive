@@ -7,6 +7,8 @@ path: /notes/yravianand111/04-19-2022/outreachy-proposal.md
 nid: 30485
 uid: 784616
 
+cids: 30077,30155
+
 ---
 
 # Outreachy proposal: Infragram.org full-screen UI and video upload 

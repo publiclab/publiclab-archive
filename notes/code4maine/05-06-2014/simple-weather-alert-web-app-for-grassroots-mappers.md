@@ -7,6 +7,8 @@ path: /notes/code4maine/05-06-2014/simple-weather-alert-web-app-for-grassroots-m
 nid: 10427
 uid: 294634
 
+cids: 8989,8990
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/061/original/Forecast_-_Google_Chrome_002.png)

@@ -7,6 +7,8 @@ path: /notes/liz/08-30-2016/check-out-these-activity-grids.md
 nid: 13407
 uid: 7
 
+cids: 15276,15277,15753,15754,15757,15784,15845,15869
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/965/original/Screenshot_2016-09-07_at_3.53.55_PM.png)

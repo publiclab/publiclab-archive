@@ -7,6 +7,8 @@ path: /notes/jneish/07-10-2018/most-accurate-spectrographs.md
 nid: 16680
 uid: 540848
 
+cids: 20095
+
 ---
 
 # Most accurate spectrographs? 

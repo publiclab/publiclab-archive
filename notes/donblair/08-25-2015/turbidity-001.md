@@ -7,6 +7,8 @@ path: /notes/donblair/08-25-2015/turbidity-001.md
 nid: 12168
 uid: 43651
 
+cids: 12450,12457,12459,12460
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/273/original/turbidity.png)

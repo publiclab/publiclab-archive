@@ -7,6 +7,8 @@ path: /notes/liz/1-29-2013/genas-large-format-print.md
 nid: 5797
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20130129_185846.jpg)

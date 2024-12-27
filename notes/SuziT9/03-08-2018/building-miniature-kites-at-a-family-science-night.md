@@ -7,6 +7,8 @@ path: /notes/SuziT9/03-08-2018/building-miniature-kites-at-a-family-science-nigh
 nid: 15900
 uid: 477814
 
+cids: 18833,18834,18855,19442,26700,30572
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/916/original/IMG_7452.jpg)

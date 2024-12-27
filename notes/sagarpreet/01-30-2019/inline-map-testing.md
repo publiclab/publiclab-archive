@@ -7,6 +7,8 @@ path: /notes/sagarpreet/01-30-2019/inline-map-testing.md
 nid: 18208
 uid: 516343
 
+cids: 21817,21822
+
 ---
 
 # Inline map testing 

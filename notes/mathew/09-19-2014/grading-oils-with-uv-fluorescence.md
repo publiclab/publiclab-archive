@@ -7,6 +7,8 @@ path: /notes/mathew/09-19-2014/grading-oils-with-uv-fluorescence.md
 nid: 11163
 uid: 4
 
+cids: 10348,10349,10350,10353,10354
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/905/original/IMG_20140918_123107.jpg)

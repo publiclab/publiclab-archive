@@ -7,6 +7,8 @@ path: /notes/SCG/11-24-2014/thermal-flashlight-casing.md
 nid: 11399
 uid: 431781
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/104/original/IMG_0332_%281%29.JPG)

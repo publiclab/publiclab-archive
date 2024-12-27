@@ -7,6 +7,8 @@ path: /notes/mjg2171/06-26-2015/mapknitter-map-of-nature-center-balloon-mapping-
 nid: 12010
 uid: 428965
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/450/original/IMG_2161.JPG)

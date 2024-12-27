@@ -7,6 +7,8 @@ path: /notes/liz/10-19-2016/assignment-spectrometry-at-nafcs.md
 nid: 13586
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/443/original/image.png)

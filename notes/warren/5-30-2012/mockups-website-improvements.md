@@ -7,6 +7,8 @@ path: /notes/warren/5-30-2012/mockups-website-improvements.md
 nid: 2261
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 5.png)

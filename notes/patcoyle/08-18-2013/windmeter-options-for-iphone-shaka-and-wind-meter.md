@@ -7,6 +7,8 @@ path: /notes/patcoyle/08-18-2013/windmeter-options-for-iphone-shaka-and-wind-met
 nid: 9032
 uid: 77
 
+cids: 6677,6682,6684,6737
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/183/original/P1080566_crpd.jpg)

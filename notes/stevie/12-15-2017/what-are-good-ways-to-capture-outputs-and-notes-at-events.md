@@ -7,6 +7,8 @@ path: /notes/stevie/12-15-2017/what-are-good-ways-to-capture-outputs-and-notes-a
 nid: 15382
 uid: 422561
 
+cids: 17965,22805,22816
+
 ---
 
 # What are good ways to capture outputs and notes at events? 

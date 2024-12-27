@@ -7,6 +7,8 @@ path: /notes/kgradow1/05-20-2020/can-we-add-a-2um-filter-to-the-bucket-monitor-t
 nid: 23673
 uid: 297929
 
+cids: 26847,26852,26962,27001
+
 ---
 
 # Can we add a 2um filter to the bucket monitor to capture particulates?

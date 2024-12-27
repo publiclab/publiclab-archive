@@ -7,6 +7,8 @@ path: /notes/stevie/10-19-2021/announcing-new-fellowship-team-game-over-formosa.
 nid: 27944
 uid: 422561
 
+cids: 29335,29442,30339,30341
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/936/original/5d30f2ceb2ea1.image_%281%29.jpg)

@@ -7,6 +7,8 @@ path: /notes/Shannon/05-22-2013/press-release-public-lab-launches-a-kickstarter-
 nid: 7815
 uid: 9
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/379/original/plots-logo-transparent.jpg)

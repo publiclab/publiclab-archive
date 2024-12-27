@@ -7,6 +7,8 @@ path: /notes/jerejack0507/05-04-2021/we-are-having-trouble-with-our-map-knitting
 nid: 26490
 uid: 752875
 
+cids: 28707,28708,28709
+
 ---
 
 # We are having trouble with our map knitting

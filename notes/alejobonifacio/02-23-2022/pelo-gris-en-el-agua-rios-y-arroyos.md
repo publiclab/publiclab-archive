@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/02-23-2022/pelo-gris-en-el-agua-rios-y-arroyos.md
 nid: 28794
 uid: 639376
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/424/original/PeloGrisActPortada_%281%29.jpeg)

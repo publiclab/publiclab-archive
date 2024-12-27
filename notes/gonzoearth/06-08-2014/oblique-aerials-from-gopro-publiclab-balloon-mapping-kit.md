@@ -7,6 +7,8 @@ path: /notes/gonzoearth/06-08-2014/oblique-aerials-from-gopro-publiclab-balloon-
 nid: 10541
 uid: 12
 
+cids: 9161,9162,9163
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/565/original/G0013438.JPG)

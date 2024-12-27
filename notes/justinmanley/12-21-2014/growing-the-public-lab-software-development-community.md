@@ -7,6 +7,8 @@ path: /notes/justinmanley/12-21-2014/growing-the-public-lab-software-development
 nid: 11490
 uid: 421556
 
+cids: 10984,10989,10990,10993,10997,10998
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/515/original/contributing.png)

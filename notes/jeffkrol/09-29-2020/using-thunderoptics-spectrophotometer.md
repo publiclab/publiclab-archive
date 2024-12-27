@@ -7,6 +7,8 @@ path: /notes/jeffkrol/09-29-2020/using-thunderoptics-spectrophotometer.md
 nid: 24676
 uid: 723935
 
+cids: 27424,27440,27441,27446,28161
+
 ---
 
 # Using Thunderoptics spectrophotometer

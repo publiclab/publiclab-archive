@@ -7,6 +7,8 @@ path: /notes/MrBumper/12-20-2014/my-experience-of-building-and-using-a-spectrome
 nid: 11488
 uid: 432766
 
+cids: 10982,10987,11048,11049,11050,11081,11082
+
 ---
 
 # My experience of building and using a spectrometer based on the Public Lab design

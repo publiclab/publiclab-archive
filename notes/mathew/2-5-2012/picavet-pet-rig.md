@@ -7,6 +7,8 @@ path: /notes/mathew/2-5-2012/picavet-pet-rig.md
 nid: 752
 uid: 4
 
+cids: 434,543,9519,9520,9524
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_1256.JPG)

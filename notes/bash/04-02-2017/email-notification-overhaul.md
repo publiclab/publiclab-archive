@@ -7,6 +7,8 @@ path: /notes/bash/04-02-2017/email-notification-overhaul.md
 nid: 14082
 uid: 505018
 
+cids: 16535,16544
+
 ---
 
 # Email notification overhaul

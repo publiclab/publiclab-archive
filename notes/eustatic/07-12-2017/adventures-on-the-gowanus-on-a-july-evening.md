@@ -7,6 +7,8 @@ path: /07-12-2017/adventures-on-the-gowanus-on-a-july-evening.md
 nid: 14646
 uid: 379
 
+cids: 17026,17606,20218,20220
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/106/original/a_IMAG0257_gowanus_is_coming__for_ya_infra.JPG)

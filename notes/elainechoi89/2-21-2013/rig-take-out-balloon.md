@@ -7,6 +7,8 @@ path: /notes/elainechoi89/2-21-2013/rig-take-out-balloon.md
 nid: 6082
 uid: 6102
 
+cids: 
+
 ---
 
 # Rig & Take-out Balloon 

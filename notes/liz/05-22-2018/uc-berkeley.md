@@ -7,6 +7,8 @@ path: /notes/liz/05-22-2018/uc-berkeley.md
 nid: 16377
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/010/original/cerch_map_w_cosecha_1200.jpg)

@@ -7,6 +7,8 @@ path: /notes/warren/04-23-2018/announcing-9-google-summer-of-code-projects-for-2
 nid: 16197
 uid: 1
 
+cids: 19470,19471,19472,19473,19476,19477,19479,19480,19507,19576,19588,19643,19646,19662
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/024/695/original/Screenshot_2018-04-23_at_12.09.57_PM.png)

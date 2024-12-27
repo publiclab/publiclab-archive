@@ -7,6 +7,8 @@ path: /notes/harshitha/01-16-2020/used-the-pinoir-camera-with-blue-filter-for-my
 nid: 22327
 uid: 654540
 
+cids: 26162,30242,30823
+
 ---
 
 # Used the PiNoIR camera with blue filter for my experiment in order to obtain the values of NIR and Red region, now i wanted  to know  what out put we are getting is right or wrong?

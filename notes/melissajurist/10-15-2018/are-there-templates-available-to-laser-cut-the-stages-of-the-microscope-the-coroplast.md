@@ -7,6 +7,8 @@ path: /notes/melissajurist/10-15-2018/are-there-templates-available-to-laser-cut
 nid: 17296
 uid: 554973
 
+cids: 20902,20908,23256,27305
+
 ---
 
 # Are there templates available to laser cut the stages of the microscope  - the coroplast?

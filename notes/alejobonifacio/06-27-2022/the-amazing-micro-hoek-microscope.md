@@ -7,6 +7,8 @@ path: /notes/alejobonifacio/06-27-2022/the-amazing-micro-hoek-microscope.md
 nid: 31057
 uid: 639376
 
+cids: 30322,30323,30324,30329,30331,30338,30346,30362,30364,30366
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/891/original/WhatsApp_Image_2022-06-29_at_12.12.08_PM.jpeg)

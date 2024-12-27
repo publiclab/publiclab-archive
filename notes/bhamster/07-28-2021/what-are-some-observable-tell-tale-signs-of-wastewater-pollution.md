@@ -7,6 +7,8 @@ path: /notes/bhamster/07-28-2021/what-are-some-observable-tell-tale-signs-of-was
 nid: 27373
 uid: 664477
 
+cids: 29093,29094,29095,29096,29098,29099,29100,29101,29105,29120,29157
+
 ---
 
 # What are some observable tell-tale signs of wastewater pollution?

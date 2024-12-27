@@ -7,6 +7,8 @@ path: /notes/nickyshen0306/09-12-2019/how-to-design-a-camera-for-calculating-end
 nid: 20843
 uid: 612401
 
+cids: 25501,25502,25504,25505,25508
+
 ---
 
 # How to design a camera for calculating ENDVI.

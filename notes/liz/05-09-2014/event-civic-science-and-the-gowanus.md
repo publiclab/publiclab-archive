@@ -7,6 +7,8 @@ path: /notes/liz/05-09-2014/event-civic-science-and-the-gowanus.md
 nid: 10458
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/209/original/Ecology-Lectures_2014.png)

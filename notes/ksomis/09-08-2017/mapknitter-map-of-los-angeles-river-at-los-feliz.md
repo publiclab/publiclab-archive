@@ -7,6 +7,8 @@ path: /notes/ksomis/09-08-2017/mapknitter-map-of-los-angeles-river-at-los-feliz.
 nid: 14850
 uid: 507395
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/583/original/G0021915.JPG)

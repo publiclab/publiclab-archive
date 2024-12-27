@@ -7,6 +7,8 @@ path: /notes/Becki/11-03-2013/public-lab-named-honorable-mention-in-2013-buckmin
 nid: 9720
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/107/original/challenge_status_HonorableMention-01.png)

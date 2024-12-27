@@ -7,6 +7,8 @@ path: /notes/patrickdickson/06-18-2020/recycling-of-compact-disks.md
 nid: 23878
 uid: 702987
 
+cids: 27039
+
 ---
 
 # Recycling of compact disks

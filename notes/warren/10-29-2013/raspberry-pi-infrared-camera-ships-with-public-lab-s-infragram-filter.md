@@ -7,6 +7,8 @@ path: /notes/warren/10-29-2013/raspberry-pi-infrared-camera-ships-with-public-la
 nid: 9679
 uid: 1
 
+cids: 7422,7434
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/002/074/original/1567kit_LRG.jpg)

@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-19-2012/updated-map-2012-barnraising-session-november-2
 nid: 4955
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/a1200-lumcon--cocodrie--la_updated_resized.jpg)

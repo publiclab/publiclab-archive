@@ -7,6 +7,8 @@ path: /notes/edugil/11-08-2017/which-is-the-wind-speed-range-when-using-when-map
 nid: 15160
 uid: 510859
 
+cids: 22733,22734,22785
+
 ---
 
 # Which is the wind speed range (maximum)  when mapping with balloon?  

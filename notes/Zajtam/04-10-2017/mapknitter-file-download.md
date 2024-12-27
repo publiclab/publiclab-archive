@@ -7,6 +7,8 @@ path: /notes/Zajtam/04-10-2017/mapknitter-file-download.md
 nid: 14105
 uid: 505441
 
+cids: 
+
 ---
 
 # Mapknitter file download

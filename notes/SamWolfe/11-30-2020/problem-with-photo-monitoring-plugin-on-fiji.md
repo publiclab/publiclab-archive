@@ -7,6 +7,8 @@ path: /notes/SamWolfe/11-30-2020/problem-with-photo-monitoring-plugin-on-fiji.md
 nid: 25141
 uid: 730951
 
+cids: 27777,27781,27784
+
 ---
 
 # Problem with Photo Monitoring Plugin on Fiji

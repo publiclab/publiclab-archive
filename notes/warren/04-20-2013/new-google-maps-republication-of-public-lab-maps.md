@@ -7,6 +7,8 @@ path: /notes/warren/04-20-2013/new-google-maps-republication-of-public-lab-maps.
 nid: 6934
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/098/original/lee-nh-google-maps-larger.png)

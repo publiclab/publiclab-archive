@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/03-11-2016/tested-10-380nm-uv-leds-with-10w40mtr-oil-thr
 nid: 12834
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/765/original/380nm_mar11.png)

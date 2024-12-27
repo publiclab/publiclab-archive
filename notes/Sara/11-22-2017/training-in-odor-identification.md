@@ -7,6 +7,8 @@ path: /notes/Sara/11-22-2017/training-in-odor-identification.md
 nid: 15226
 uid: 8
 
+cids: 22752
+
 ---
 
 # Training in odor identification?

@@ -7,6 +7,8 @@ path: /notes/gonzoearth/1-4-2012/georectifying-wetlands.md
 nid: 679
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Capture_40.JPG)

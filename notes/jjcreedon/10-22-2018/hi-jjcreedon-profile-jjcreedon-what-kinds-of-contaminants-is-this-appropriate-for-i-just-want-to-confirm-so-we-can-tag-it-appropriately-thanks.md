@@ -7,6 +7,8 @@ path: /notes/jjcreedon/10-22-2018/hi-jjcreedon-profile-jjcreedon-what-kinds-of-c
 nid: 17350
 uid: 515357
 
+cids: 20938,20940
+
 ---
 
 # Answered: what kinds of contaminants is the soil sampling toolkit appropriate for?

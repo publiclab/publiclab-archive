@@ -7,6 +7,8 @@ path: /notes/mathew/06-04-2013/removing-a-raspberry-pi-camera-ir-filter-learn-fr
 nid: 8049
 uid: 4
 
+cids: 4940,4990
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/472/original/Screen_shot_2013-06-04_at_10.33.37_AM.png)

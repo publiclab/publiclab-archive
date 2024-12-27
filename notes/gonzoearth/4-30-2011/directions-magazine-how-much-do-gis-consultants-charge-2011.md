@@ -7,6 +7,8 @@ path: /notes/gonzoearth/4-30-2011/directions-magazine-how-much-do-gis-consultant
 nid: 207
 uid: 12
 
+cids: 
+
 ---
 
 # Directions Magazine: how much do GIS consultants charge in 2011 ?

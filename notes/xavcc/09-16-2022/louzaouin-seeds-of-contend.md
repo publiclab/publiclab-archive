@@ -7,6 +7,8 @@ path: /notes/xavcc/09-16-2022/louzaouin-seeds-of-contend.md
 nid: 34968
 uid: 630823
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/047/161/original/rennes-flaque-1.jpg)

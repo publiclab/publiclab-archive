@@ -7,6 +7,8 @@ path: /notes/anishshah101/07-10-2014/gsoc-update-using-3d-transformations-on-obj
 nid: 10673
 uid: 421046
 
+cids: 
+
 ---
 
 # GSoC Update- Using 3d transformations on objects inside html canvas.

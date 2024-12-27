@@ -7,6 +7,8 @@ path: /notes/warren/1-19-2012/wine-spectroscopy-adam-hasler.md
 nid: 706
 uid: 1
 
+cids: 408,409,1211,1242
+
 ---
 
 ![](https://publiclab.org/sites/default/files/wine.jpg)

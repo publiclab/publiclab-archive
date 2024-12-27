@@ -7,6 +7,8 @@ path: /notes/pablo/03-24-2015/talleres-de-fotografia-de-bajo-coste-desde-el-aire
 nid: 11719
 uid: 160
 
+cids: 11408,12573
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/400/original/foto-aerea-madrid-plaza-cebada.jpg)

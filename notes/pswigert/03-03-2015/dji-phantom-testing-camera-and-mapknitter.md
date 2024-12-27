@@ -7,6 +7,8 @@ path: /notes/pswigert/03-03-2015/dji-phantom-testing-camera-and-mapknitter.md
 nid: 11653
 uid: 434699
 
+cids: 11268,11294,11298,11305
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/147/original/DJI00116.JPG)

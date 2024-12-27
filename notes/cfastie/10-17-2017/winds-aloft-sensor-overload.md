@@ -7,6 +7,8 @@ path: /notes/cfastie/10-17-2017/winds-aloft-sensor-overload.md
 nid: 15057
 uid: 554
 
+cids: 17542,17543,17548,17549,17550,18670,18671
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/955/original/BreadKest_20171013-1397.JPG)

@@ -7,6 +7,8 @@ path: /notes/iwahle/05-21-2019/mapknitter-map-of-art88-farmers-market.md
 nid: 19481
 uid: 592128
 
+cids: 
+
 ---
 
 # MapKnitter map of art88 farmers market

@@ -7,6 +7,8 @@ path: /notes/ChristianWagley/03-15-2021/does-anybody-know-how-to-create-a-tide-g
 nid: 25927
 uid: 521037
 
+cids: 28339
+
 ---
 
 # Does anybody know how to create a tide gauge or tide staff that students could use to monitor sea level?

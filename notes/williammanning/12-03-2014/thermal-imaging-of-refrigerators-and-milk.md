@@ -7,6 +7,8 @@ path: /notes/williammanning/12-03-2014/thermal-imaging-of-refrigerators-and-milk
 nid: 11425
 uid: 432240
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/206/original/Screen_Shot_2014-12-02_at_3.54.34_PM.png)

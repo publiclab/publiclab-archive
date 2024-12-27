@@ -7,6 +7,8 @@ path: /notes/dbenjamin/08-13-2015/low-flying-kap.md
 nid: 12141
 uid: 444468
 
+cids: 12381,12385,12386
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/105/original/IMG_1771.JPG)

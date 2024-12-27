@@ -7,6 +7,8 @@ path: /notes/Henry0815/06-16-2014/question-lany-ow-light-settings-for-web-cam-us
 nid: 10574
 uid: 424770
 
+cids: 9220,9496,9497,9502,9507,22552
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/019/original/IMG_0601.JPG)

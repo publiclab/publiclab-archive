@@ -7,6 +7,8 @@ path: /notes/warren/05-05-2013/fanciful-turntable-spectrometer.md
 nid: 7239
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/174/original/6054618516_2251b3da43_b.jpg)

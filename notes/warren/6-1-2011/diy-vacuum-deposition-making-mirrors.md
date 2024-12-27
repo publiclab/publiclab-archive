@@ -7,6 +7,8 @@ path: /notes/warren/6-1-2011/diy-vacuum-deposition-making-mirrors.md
 nid: 310
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/DSC05879.JPG)

@@ -7,6 +7,8 @@ path: /notes/Bronwen/02-05-2019/mapknitter-map-of-microscopeknittest.md
 nid: 18263
 uid: 237313
 
+cids: 21849
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/029/189/original/Photo_on_12-16-18_at_8.40_AM.jpg)

@@ -7,6 +7,8 @@ path: /notes/kellyraymond/03-05-2020/art-in-ruins-1-butler-avenue.md
 nid: 23071
 uid: 664202
 
+cids: 
+
 ---
 
 # Art in Ruins (1 Butler Avenue)

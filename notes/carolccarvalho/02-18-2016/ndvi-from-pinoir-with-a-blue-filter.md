@@ -7,6 +7,8 @@ path: /notes/carolccarvalho/02-18-2016/ndvi-from-pinoir-with-a-blue-filter.md
 nid: 12712
 uid: 461381
 
+cids: 13669,19503,19513
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/392/original/ndvi.jpg)

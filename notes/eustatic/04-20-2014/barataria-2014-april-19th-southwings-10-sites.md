@@ -7,6 +7,8 @@ path: /04-20-2014/barataria-2014-april-19th-southwings-10-sites.md
 nid: 10337
 uid: 379
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/867/original/IMG_1009_BM5_wide_out.JPG)

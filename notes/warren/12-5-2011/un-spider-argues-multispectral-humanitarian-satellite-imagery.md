@@ -7,6 +7,8 @@ path: /notes/warren/12-5-2011/un-spider-argues-multispectral-humanitarian-satell
 nid: 611
 uid: 1
 
+cids: 
+
 ---
 
 # UN-SPIDER argues for multispectral humanitarian satellite imagery

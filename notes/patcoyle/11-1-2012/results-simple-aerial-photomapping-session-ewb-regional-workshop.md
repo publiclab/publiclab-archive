@@ -7,6 +7,8 @@ path: /notes/patcoyle/11-1-2012/results-simple-aerial-photomapping-session-ewb-r
 nid: 4725
 uid: 77
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/grab of NDVI copy.jpg)

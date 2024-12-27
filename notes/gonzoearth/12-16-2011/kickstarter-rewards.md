@@ -7,6 +7,8 @@ path: /notes/gonzoearth/12-16-2011/kickstarter-rewards.md
 nid: 645
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/kickstarter-rewards.jpg)

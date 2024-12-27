@@ -7,6 +7,8 @@ path: /notes/warren/06-12-2017/what-are-the-differences-between-the-nano-data-lo
 nid: 14524
 uid: 1
 
+cids: 22483
+
 ---
 
 # What are the differences between the Nano Data Logger and the Riffle?

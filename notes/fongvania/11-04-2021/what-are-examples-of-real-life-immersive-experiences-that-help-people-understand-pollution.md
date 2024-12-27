@@ -7,6 +7,8 @@ path: /notes/fongvania/11-04-2021/what-are-examples-of-real-life-immersive-exper
 nid: 28075
 uid: 754846
 
+cids: 29466,29477,29519,29521,29522
+
 ---
 
 # What are examples of "real-life", immersive experiences that help people understand pollution?

@@ -7,6 +7,8 @@ path: /notes/ChrisWard/12-18-2018/knowflow-send-data-to-android-app-via-bluetoot
 nid: 17963
 uid: 565268
 
+cids: 21537,21538
+
 ---
 
 # KnowFlow: Send Data to Android App via BluetoothLE

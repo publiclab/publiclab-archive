@@ -7,6 +7,8 @@ path: /notes/kamau19/03-18-2019/what-constitutes-transit-violations-in-wisconsin
 nid: 18765
 uid: 571595
 
+cids: 22222,23355
+
 ---
 
 # What constitutes transit violations in Wisconsin?

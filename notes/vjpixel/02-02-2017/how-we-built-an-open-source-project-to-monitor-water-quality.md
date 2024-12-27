@@ -7,6 +7,8 @@ path: /notes/vjpixel/02-02-2017/how-we-built-an-open-source-project-to-monitor-w
 nid: 13900
 uid: 420617
 
+cids: 16144,16145,16146
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/019/423/original/DSC_0117-1024x576.jpg)

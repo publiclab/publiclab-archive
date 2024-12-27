@@ -7,6 +7,8 @@ path: /notes/ccpandhare/07-08-2017/how-to-verify-if-my-programmatically-generate
 nid: 14634
 uid: 503543
 
+cids: 17006,17007,17008,17009,17011,17012,17013,17016,17017,17030
+
 ---
 
 # How to verify generated NDVI Images?

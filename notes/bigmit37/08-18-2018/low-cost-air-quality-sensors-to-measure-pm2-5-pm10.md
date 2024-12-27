@@ -7,6 +7,8 @@ path: /notes/bigmit37/08-18-2018/low-cost-air-quality-sensors-to-measure-pm2-5-p
 nid: 16958
 uid: 547166
 
+cids: 20440,20515,20523,20535,20547,21007,21396
+
 ---
 
 # Low-cost air quality sensors to measure PM2.5, PM10?

@@ -7,6 +7,8 @@ path: /notes/warren/9-24-2012/super-video-thermal-infrared-spectroscopy.md
 nid: 3988
 uid: 1
 
+cids: 1450
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Screen shot 2012-09-24 at 11.23.14 AM.png)

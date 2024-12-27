@@ -7,6 +7,8 @@ path: /notes/warren/6-3-2011/nytimes-chemicals-farm-runoff-rattle-states-mississ
 nid: 321
 uid: 1
 
+cids: 
+
 ---
 
 # NYTimes: Chemicals in Farm Runoff Rattle States on the Mississippi

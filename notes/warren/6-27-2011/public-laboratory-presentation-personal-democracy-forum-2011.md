@@ -7,6 +7,8 @@ path: /notes/warren/6-27-2011/public-laboratory-presentation-personal-democracy-
 nid: 361
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/pdf.png)

@@ -7,6 +7,8 @@ path: /notes/stevie/06-16-2017/what-would-be-a-good-basic-activity-to-test-out-a
 nid: 14550
 uid: 422561
 
+cids: 16897,16899,16900,22491,22492,22496,22497
+
 ---
 
 # What would be a good basic activity to test out a data logging device in water? 

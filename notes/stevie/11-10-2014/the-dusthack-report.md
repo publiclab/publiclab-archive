@@ -7,6 +7,8 @@ path: /notes/stevie/11-10-2014/the-dusthack-report.md
 nid: 11331
 uid: 422561
 
+cids: 10726
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/794/original/DustHack.png)

@@ -7,6 +7,8 @@ path: /notes/RocketScientist/04-11-2019/s4-small-satellites-for-secondary-studen
 nid: 19041
 uid: 583835
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/031/421/original/fullsizeoutput_acb3.jpeg)

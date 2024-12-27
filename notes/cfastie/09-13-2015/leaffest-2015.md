@@ -7,6 +7,8 @@ path: /notes/cfastie/09-13-2015/leaffest-2015.md
 nid: 12212
 uid: 554
 
+cids: 12543
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/562/original/LEAF2014_210.jpg)

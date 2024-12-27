@@ -7,6 +7,8 @@ path: /notes/nicholas/09-08-2014/sneak-peak-balloon-kite-photography-event.md
 nid: 11118
 uid: 53894
 
+cids: 10243
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/666/original/Screen_Shot_2014-09-08_at_16.32.38.png)

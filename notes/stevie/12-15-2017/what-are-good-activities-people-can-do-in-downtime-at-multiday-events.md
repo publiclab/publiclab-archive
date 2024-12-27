@@ -7,6 +7,8 @@ path: /notes/stevie/12-15-2017/what-are-good-activities-people-can-do-in-downtim
 nid: 15383
 uid: 422561
 
+cids: 
+
 ---
 
 # What are good activities people can do in downtime at multiday events? 

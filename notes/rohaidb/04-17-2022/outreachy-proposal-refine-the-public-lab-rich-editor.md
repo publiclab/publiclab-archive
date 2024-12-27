@@ -7,6 +7,8 @@ path: /notes/rohaidb/04-17-2022/outreachy-proposal-refine-the-public-lab-rich-ed
 nid: 30446
 uid: 792896
 
+cids: 30049,30056,30072,30081
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/045/933/original/Main_Page.png)

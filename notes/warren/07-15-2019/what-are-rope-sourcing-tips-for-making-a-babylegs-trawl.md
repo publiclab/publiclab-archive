@@ -7,6 +7,8 @@ path: /notes/warren/07-15-2019/what-are-rope-sourcing-tips-for-making-a-babylegs
 nid: 20119
 uid: 1
 
+cids: 25051,25054,25689,25690
+
 ---
 
 # What are rope sourcing tips for making a BabyLegs trawl?

@@ -7,6 +7,8 @@ path: /notes/PDiddy/10-27-2017/co2-lamp-spectrometry.md
 nid: 15110
 uid: 517047
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/022/099/original/IMG_0232.JPG)

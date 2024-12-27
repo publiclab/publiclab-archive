@@ -7,6 +7,8 @@ path: /notes/maxliboiron/07-19-2018/how-to-process-microplastic-samples-from-a-t
 nid: 16750
 uid: 310707
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/025/805/original/Screen_Shot_2018-07-19_at_3.33.54_PM_copy.png)

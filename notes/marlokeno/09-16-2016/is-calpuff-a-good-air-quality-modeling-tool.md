@@ -7,6 +7,8 @@ path: /notes/marlokeno/09-16-2016/is-calpuff-a-good-air-quality-modeling-tool.md
 nid: 13453
 uid: 420760
 
+cids: 22286,22292,22304,22305
+
 ---
 
 # Is CALPUFF a good air quality modeling tool

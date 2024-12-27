@@ -7,6 +7,8 @@ path: /notes/jordankc/01-21-2018/do-i-need-to-use-a-dvd-r-will-a-cd-r-work-too.m
 nid: 15574
 uid: 523214
 
+cids: 18226,22862
+
 ---
 
 # Do I need to use a DVD-R?  Will a CD-R work too?

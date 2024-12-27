@@ -7,6 +7,8 @@ path: /notes/warren/7-1-2011/new-features-center-image-password-protection-knitt
 nid: 366
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/vitebsk.png)

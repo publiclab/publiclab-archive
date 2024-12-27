@@ -7,6 +7,8 @@ path: /notes/Becki/02-09-2015/hot-off-the-presses-public-lab-waterproof-pocket-n
 nid: 11570
 uid: 46673
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/879/original/Cover_Feb_2015.jpg)

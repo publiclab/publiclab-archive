@@ -7,6 +7,8 @@ path: /notes/yvv/09-29-2014/glam-event-9-27.md
 nid: 11199
 uid: 427257
 
+cids: 10463
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/063/original/IMG_5190.JPG)

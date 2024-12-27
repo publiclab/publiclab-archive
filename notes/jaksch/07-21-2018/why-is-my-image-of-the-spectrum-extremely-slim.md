@@ -7,6 +7,8 @@ path: /notes/jaksch/07-21-2018/why-is-my-image-of-the-spectrum-extremely-slim.md
 nid: 16762
 uid: 542671
 
+cids: 20188,20190,20191,20192,20196,20200
+
 ---
 
 # [SOLVED] Why is my image of the spectrum extremely "slim"? DVD+RW is not good as a diffraction grating!

@@ -7,6 +7,8 @@ path: /notes/liz/03-08-2018/take-a-group-photo-at-lunch-of-the-main-day-of-a-bar
 nid: 15893
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/913/original/IMG_20170624_143248_118_crop.jpg)

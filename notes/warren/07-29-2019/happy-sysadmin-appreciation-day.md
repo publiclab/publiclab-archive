@@ -7,6 +7,8 @@ path: /notes/warren/07-29-2019/happy-sysadmin-appreciation-day.md
 nid: 20352
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/034/186/original/385950780_568c993e80.jpg)

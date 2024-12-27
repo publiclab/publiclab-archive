@@ -7,6 +7,8 @@ path: /notes/code4maine/08-11-2014/map-showing-where-you-can-and-can-t-fly-drone
 nid: 11032
 uid: 294634
 
+cids: 9861,9862,9865,9878,9891,9976,9977,9980,9981,9986,9987,10019
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/207/original/DroneMap.png)

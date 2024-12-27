@@ -7,6 +7,8 @@ path: /notes/bhamster/09-14-2021/event-wondering-about-wastewater-join-us-for-a-
 nid: 27723
 uid: 664477
 
+cids: 29240,29241,29246,29247,29248,29254,29274,29289
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/813/original/River_Alejo_copy.jpeg)

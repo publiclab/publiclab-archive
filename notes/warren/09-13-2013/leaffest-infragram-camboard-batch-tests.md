@@ -7,6 +7,8 @@ path: /notes/warren/09-13-2013/leaffest-infragram-camboard-batch-tests.md
 nid: 9325
 uid: 1
 
+cids: 6905,6911,6913,6916,6919
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/543/original/leaffest-tests.jpg)

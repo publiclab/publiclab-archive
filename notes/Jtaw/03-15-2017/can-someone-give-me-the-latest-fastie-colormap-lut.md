@@ -7,6 +7,8 @@ path: /notes/Jtaw/03-15-2017/can-someone-give-me-the-latest-fastie-colormap-lut.
 nid: 14021
 uid: 504063
 
+cids: 
+
 ---
 
 # Can someone give me the latest fastie colormap LUT? 

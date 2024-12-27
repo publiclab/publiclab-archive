@@ -7,6 +7,8 @@ path: /notes/warren/8-29-2012/testing-coffee-spectra-toscaninis.md
 nid: 3562
 uid: 1
 
+cids: 1263,1271
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0606.JPG)

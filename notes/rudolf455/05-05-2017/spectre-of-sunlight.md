@@ -7,6 +7,8 @@ path: /notes/rudolf455/05-05-2017/spectre-of-sunlight.md
 nid: 14164
 uid: 505468
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/020/389/original/IMG_20170505_153850.jpg)

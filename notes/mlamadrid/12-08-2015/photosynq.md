@@ -7,6 +7,8 @@ path: /notes/mlamadrid/12-08-2015/photosynq.md
 nid: 12488
 uid: 45586
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/241/original/Screen_Shot_2015-10-28_at_12.44.48_AM.png)

@@ -7,6 +7,8 @@ path: /notes/ecberger/10-25-2018/fluorescent-light.md
 nid: 17392
 uid: 556445
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/248/original/036F8657-980F-469A-AF76-8A57F39AF7FF.jpeg)

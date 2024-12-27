@@ -7,6 +7,8 @@ path: /notes/bronwen/08-15-2014/glam-and-gowanus-canal-conservancy-goal-setting-
 nid: 11057
 uid: 237313
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/291/original/IMG_2120.JPG)

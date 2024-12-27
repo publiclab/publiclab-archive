@@ -7,6 +7,8 @@ path: /notes/alexgomezf1064/06-08-2021/spectre-alex.md
 nid: 26788
 uid: 759263
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/044/082/original/IMG-20210608-WA0002.jpg)

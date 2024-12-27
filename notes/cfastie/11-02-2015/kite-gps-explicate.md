@@ -7,6 +7,8 @@ path: /notes/cfastie/11-02-2015/kite-gps-explicate.md
 nid: 12355
 uid: 554
 
+cids: 28307
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/330/original/Brist-1083LP100ps2k.jpg)

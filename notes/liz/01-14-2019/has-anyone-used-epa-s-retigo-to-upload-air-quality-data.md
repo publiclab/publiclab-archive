@@ -7,6 +7,8 @@ path: /notes/liz/01-14-2019/has-anyone-used-epa-s-retigo-to-upload-air-quality-d
 nid: 18116
 uid: 7
 
+cids: 
+
 ---
 
 # Has anyone used EPA's RETIGO to upload air quality data?

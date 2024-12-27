@@ -7,6 +7,8 @@ path: /notes/liz/2-28-2012/thermal-imaging-creek-usgs.md
 nid: 867
 uid: 7
 
+cids: 498
+
 ---
 
 ![](https://publiclab.org/sites/default/files/0_DIY_Inspiration_Map_of_Tidal-creek temperature anomalies in nighttime thermal infrared imagery near Cedar Key Florida_USGS_2008_5023_17_Raabe.jpg)

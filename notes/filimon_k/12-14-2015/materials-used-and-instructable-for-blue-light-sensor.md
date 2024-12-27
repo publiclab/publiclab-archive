@@ -7,6 +7,8 @@ path: /notes/filimon_k/12-14-2015/materials-used-and-instructable-for-blue-light
 nid: 12515
 uid: 460113
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/316/original/09088-02-L.jpg)

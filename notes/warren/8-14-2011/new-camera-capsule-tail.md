@@ -7,6 +7,8 @@ path: /notes/warren/8-14-2011/new-camera-capsule-tail.md
 nid: 438
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_20110813_121907.jpg)

@@ -7,6 +7,8 @@ path: /notes/mathew/06-10-2015/bubble-filled-adventures-in-low-pressure-airflow.
 nid: 11968
 uid: 4
 
+cids: 12336
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/301/original/IMG_20150610_151055.jpg)

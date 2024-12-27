@@ -7,6 +7,8 @@ path: /notes/alex-mccarthy/4-5-2011/spectrometry-1st-week-plan.md
 nid: 156
 uid: 125
 
+cids: 
+
 ---
 
 # Spectrometry 1st week plan 

@@ -7,6 +7,8 @@ path: /notes/Shendry/01-25-2017/mapir-survey-2-nir.md
 nid: 13879
 uid: 502311
 
+cids: 16101,16106,16107
+
 ---
 
 # MAPIR Survey 2 NIR

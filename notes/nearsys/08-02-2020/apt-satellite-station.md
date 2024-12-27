@@ -7,6 +7,8 @@ path: /notes/nearsys/08-02-2020/apt-satellite-station.md
 nid: 24253
 uid: 506331
 
+cids: 27211,27254,27258,27283,27289,27290,27293,27294,27296,27487,27488
+
 ---
 
 # APT Satellite Station

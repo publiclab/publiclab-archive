@@ -7,6 +7,8 @@ path: /notes/cfastie/10-08-2016/aerial-mapping-a-reclaimed-landfill.md
 nid: 13534
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/357/original/Bristol_20161007-7073.JPG)

@@ -7,6 +7,8 @@ path: /notes/cristoforetti/05-13-2016/a-more-compact-spectrometer.md
 nid: 13112
 uid: 470966
 
+cids: 14608,14614,14615,14616,14618,14620,14621,14622,14623,14624,14626,14627
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/016/166/original/project1.jpg)

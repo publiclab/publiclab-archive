@@ -7,6 +7,8 @@ path: /notes/daniedb68/05-28-2014/ndvi-quick-analysis-application.md
 nid: 10513
 uid: 420557
 
+cids: 9090,9100,9110,9111,9112
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/471/original/screen.JPG)

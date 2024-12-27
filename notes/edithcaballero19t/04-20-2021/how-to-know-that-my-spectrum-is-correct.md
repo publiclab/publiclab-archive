@@ -7,6 +7,8 @@ path: /notes/edithcaballero19t/04-20-2021/how-to-know-that-my-spectrum-is-correc
 nid: 26281
 uid: 753470
 
+cids: 
+
 ---
 
 # how to know that my spectrum is correct?

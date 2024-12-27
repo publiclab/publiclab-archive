@@ -7,6 +7,8 @@ path: /notes/stevie/07-22-2015/ecohackers-these-kids-track-pollution-with-balloo
 nid: 12090
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/806/original/20141020_111334.jpg)

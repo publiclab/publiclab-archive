@@ -7,6 +7,8 @@ path: /notes/ke4rjg/03-17-2015/baffle-for-spectrometer-3-0.md
 nid: 11685
 uid: 426908
 
+cids: 11335,11349,11360
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/009/289/original/Baffle_for_Spectrometer_3.0.pdf)

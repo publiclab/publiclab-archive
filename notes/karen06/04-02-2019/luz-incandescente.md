@@ -7,6 +7,8 @@ path: /notes/karen06/04-02-2019/luz-incandescente.md
 nid: 18935
 uid: 581794
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/993/original/WhatsApp_Image_2019-04-01_at_12.24.33_PM.jpeg)

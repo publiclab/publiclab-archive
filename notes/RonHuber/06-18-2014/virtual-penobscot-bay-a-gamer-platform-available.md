@@ -7,6 +7,8 @@ path: /notes/RonHuber/06-18-2014/virtual-penobscot-bay-a-gamer-platform-availabl
 nid: 10587
 uid: 437
 
+cids: 9207,9236,9341
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/843/original/pb_bathymetry_captioned1.jpg)

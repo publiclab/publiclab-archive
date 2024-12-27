@@ -7,6 +7,8 @@ path: /notes/subir/05-07-2020/what-air-pollution-patterns-do-you-see.md
 nid: 23570
 uid: 622299
 
+cids: 26765,26773
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/309/original/IMGP1779.JPG)

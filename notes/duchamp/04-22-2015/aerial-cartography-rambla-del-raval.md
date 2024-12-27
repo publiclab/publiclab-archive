@@ -7,6 +7,8 @@ path: /notes/duchamp/04-22-2015/aerial-cartography-rambla-del-raval.md
 nid: 11762
 uid: 439194
 
+cids: 
+
 ---
 
 # Aerial Cartography. Rambla del Raval

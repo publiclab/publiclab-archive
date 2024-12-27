@@ -7,6 +7,8 @@ path: /notes/elongo/08-22-2017/how-to-run-imagej-fiji-in-rpi.md
 nid: 14775
 uid: 509135
 
+cids: 17204,17206
+
 ---
 
 # How to run ImageJ, Fiji in RPi?

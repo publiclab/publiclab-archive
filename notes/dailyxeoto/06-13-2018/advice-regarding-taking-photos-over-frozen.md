@@ -7,6 +7,8 @@ path: /notes/dailyxeoto/06-13-2018/advice-regarding-taking-photos-over-frozen.md
 nid: 16490
 uid: 528838
 
+cids: 23127
+
 ---
 
 # Advice regarding taking photos over frozen

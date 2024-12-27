@@ -7,6 +7,8 @@ path: /notes/Gasp00/05-28-2018/h2o-sensores-oportunidade-de-parceria.md
 nid: 16401
 uid: 535994
 
+cids: 19932,19933
+
 ---
 
 # H2O sensores - oportunidade de parceria

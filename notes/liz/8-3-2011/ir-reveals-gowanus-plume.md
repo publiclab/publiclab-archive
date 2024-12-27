@@ -7,6 +7,8 @@ path: /notes/liz/8-3-2011/ir-reveals-gowanus-plume.md
 nid: 425
 uid: 7
 
+cids: 307,309,312,313,314,9952,9957,9960
+
 ---
 
 ![](https://publiclab.org/sites/default/files/6006190104_c024a5c028_b.jpg)

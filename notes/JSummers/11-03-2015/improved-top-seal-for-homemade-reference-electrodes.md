@@ -7,6 +7,8 @@ path: /notes/JSummers/11-03-2015/improved-top-seal-for-homemade-reference-electr
 nid: 12358
 uid: 304279
 
+cids: 29283
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/012/345/original/comparison2.jpg)

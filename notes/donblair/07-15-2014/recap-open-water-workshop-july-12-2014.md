@@ -7,6 +7,8 @@ path: /notes/donblair/07-15-2014/recap-open-water-workshop-july-12-2014.md
 nid: 10693
 uid: 43651
 
+cids: 9512,9518,9538,9539,9556,9644,21154,21155
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/294/original/hPP.png)

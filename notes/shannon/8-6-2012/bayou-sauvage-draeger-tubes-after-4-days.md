@@ -7,6 +7,8 @@ path: /notes/shannon/8-6-2012/bayou-sauvage-draeger-tubes-after-4-days.md
 nid: 3153
 uid: 9
 
+cids: 1126,1127,1128,1130,1131,1192,1217,2738,2739
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0431.JPG)

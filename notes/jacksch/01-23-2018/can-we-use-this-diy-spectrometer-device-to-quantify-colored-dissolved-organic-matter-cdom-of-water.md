@@ -7,6 +7,8 @@ path: /notes/jacksch/01-23-2018/can-we-use-this-diy-spectrometer-device-to-quant
 nid: 15588
 uid: 523331
 
+cids: 18321,18322,22875
+
 ---
 
 # Can we use this DIY spectrometer device to quantify colored dissolved organic matter (CDOM) of water?

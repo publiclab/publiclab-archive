@@ -7,6 +7,8 @@ path: /notes/bronwen/10-04-2018/how-can-you-calculate-microscope-magnification-w
 nid: 17221
 uid: 237313
 
+cids: 20800,20805,20822,23244,23246
+
 ---
 
 # How can you calculate microscope magnification with just a calibration slide?

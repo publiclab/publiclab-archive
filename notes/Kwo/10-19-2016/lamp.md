@@ -7,6 +7,8 @@ path: /notes/Kwo/10-19-2016/lamp.md
 nid: 13594
 uid: 494874
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/455/original/image.jpeg)

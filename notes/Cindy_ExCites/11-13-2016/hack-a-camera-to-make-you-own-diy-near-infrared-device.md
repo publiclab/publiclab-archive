@@ -7,6 +7,8 @@ path: /notes/Cindy_ExCites/11-13-2016/hack-a-camera-to-make-you-own-diy-near-inf
 nid: 13700
 uid: 1083
 
+cids: 16025,16026,16033,16034,16035,16039,16040,16045,16046,16047,16048,27017
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/834/original/016_-_Copy_%28800x387%29.jpg)

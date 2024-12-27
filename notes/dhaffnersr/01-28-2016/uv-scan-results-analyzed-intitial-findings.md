@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/01-28-2016/uv-scan-results-analyzed-intitial-findings.md
 nid: 12630
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/903/original/UVscan02.jpg)

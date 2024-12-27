@@ -7,6 +7,8 @@ path: /notes/warren/10-4-2011/discovering-hydrocarbon-leaks-uv-photography.md
 nid: 497
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/figure10.jpg)

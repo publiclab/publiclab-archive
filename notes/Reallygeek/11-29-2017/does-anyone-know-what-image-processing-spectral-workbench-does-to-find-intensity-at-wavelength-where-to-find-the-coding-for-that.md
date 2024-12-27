@@ -7,6 +7,8 @@ path: /notes/Reallygeek/11-29-2017/does-anyone-know-what-image-processing-spectr
 nid: 15257
 uid: 513343
 
+cids: 17816,17856,17883,17884,17896,17898,17900,17916,22762,22771
+
 ---
 
 # Does anyone know what image processing spectral workbench does to find intensity at wavelength/ where to find the coding for that?

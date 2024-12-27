@@ -7,6 +7,8 @@ path: /notes/anirudhprabhakaran3/04-03-2021/gsoc-2021-proposal-education-related
 nid: 26133
 uid: 751144
 
+cids: 28527,28529,28530,28533
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/123/original/GSoC-icon-192.png)

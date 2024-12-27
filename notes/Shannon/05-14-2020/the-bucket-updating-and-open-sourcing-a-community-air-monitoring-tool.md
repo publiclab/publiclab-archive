@@ -7,6 +7,8 @@ path: /notes/Shannon/05-14-2020/the-bucket-updating-and-open-sourcing-a-communit
 nid: 23630
 uid: 9
 
+cids: 26902,26903,27341
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/039/390/original/Bucket_image.png)

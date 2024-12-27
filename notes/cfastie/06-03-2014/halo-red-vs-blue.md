@@ -7,6 +7,8 @@ path: /notes/cfastie/06-03-2014/halo-red-vs-blue.md
 nid: 10526
 uid: 554
 
+cids: 9121
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/509/original/Halo22-461-2.jpg)

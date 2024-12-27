@@ -7,6 +7,8 @@ path: /6-11-2012/point-platte-marsh-restoration-over-time-air-vs-ground.md
 nid: 2443
 uid: 379
 
+cids: 3274,10913
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0653.JPG)

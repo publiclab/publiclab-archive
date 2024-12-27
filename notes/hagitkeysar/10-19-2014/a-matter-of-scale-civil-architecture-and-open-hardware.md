@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/10-19-2014/a-matter-of-scale-civil-architecture-and-ope
 nid: 11278
 uid: 152
 
+cids: 11088,11101
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/500/original/Civil_Architecture_and_OH_presentation_new_27.09_Page_01.jpg)

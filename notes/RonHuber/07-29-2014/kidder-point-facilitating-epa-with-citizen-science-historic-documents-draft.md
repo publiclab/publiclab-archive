@@ -7,6 +7,8 @@ path: /notes/RonHuber/07-29-2014/kidder-point-facilitating-epa-with-citizen-scie
 nid: 10989
 uid: 437
 
+cids: 9728
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/649/original/imag0045.jpg)

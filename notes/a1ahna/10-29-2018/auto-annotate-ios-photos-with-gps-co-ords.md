@@ -7,6 +7,8 @@ path: /notes/a1ahna/10-29-2018/auto-annotate-ios-photos-with-gps-co-ords.md
 nid: 17423
 uid: 518193
 
+cids: 23273
+
 ---
 
 # Auto-annotate iOS photos with GPS co'ords?

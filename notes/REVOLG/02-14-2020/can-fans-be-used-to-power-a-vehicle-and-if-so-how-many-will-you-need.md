@@ -7,6 +7,8 @@ path: /notes/REVOLG/02-14-2020/can-fans-be-used-to-power-a-vehicle-and-if-so-how
 nid: 22812
 uid: 664720
 
+cids: 26319,26351
+
 ---
 
 # Can fans be used to power a vehicle and if so how many will you need?

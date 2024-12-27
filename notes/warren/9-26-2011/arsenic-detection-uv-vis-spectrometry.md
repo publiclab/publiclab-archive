@@ -7,6 +7,8 @@ path: /notes/warren/9-26-2011/arsenic-detection-uv-vis-spectrometry.md
 nid: 480
 uid: 1
 
+cids: 334,10647,19364
+
 ---
 
 ![](https://publiclab.org/sites/default/files/malachite-green-arsenic-spectra.png)

@@ -7,6 +7,8 @@ path: /notes/scaramel/6-13-2013/video-kitemappers.md
 nid: 8189
 uid: 43696
 
+cids: 5440,5699,6068,8941
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/501/original/Screen_Shot_2013-06-13_at_7.07.35_PM.png)

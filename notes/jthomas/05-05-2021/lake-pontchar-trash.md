@@ -7,6 +7,8 @@ path: /notes/jthomas/05-05-2021/lake-pontchar-trash.md
 nid: 26503
 uid: 752053
 
+cids: 28815
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/684/original/lp_trash.jpg)

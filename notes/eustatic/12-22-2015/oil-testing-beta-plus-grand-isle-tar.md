@@ -7,6 +7,8 @@ path: /12-22-2015/oil-testing-beta-plus-grand-isle-tar.md
 nid: 12538
 uid: 379
 
+cids: 13193,13252,13270
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/447/original/23525563700_d620d2e0cb_z.jpg)

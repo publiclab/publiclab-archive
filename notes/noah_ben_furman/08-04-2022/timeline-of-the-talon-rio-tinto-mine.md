@@ -7,6 +7,8 @@ path: /notes/noah_ben_furman/08-04-2022/timeline-of-the-talon-rio-tinto-mine.md
 nid: 34828
 uid: 795472
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/960/original/Talon_Timeline.png)

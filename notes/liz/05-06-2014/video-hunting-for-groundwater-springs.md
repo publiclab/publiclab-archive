@@ -7,6 +7,8 @@ path: /notes/liz/05-06-2014/video-hunting-for-groundwater-springs.md
 nid: 10434
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/091/original/Screen_Shot_2014-05-06_at_5.10.39_PM.png)

@@ -7,6 +7,8 @@ path: /notes/Vern/10-30-2017/making-thermocouples.md
 nid: 15127
 uid: 517328
 
+cids: 17600
+
 ---
 
 # Making Thermocouples

@@ -7,6 +7,8 @@ path: /notes/kgradow1/10-30-2020/statistics-for-action-air-quality-guide.md
 nid: 24878
 uid: 297929
 
+cids: 27914
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/424/original/Screen_Shot_2020-10-30_at_4.08.54_PM.png)

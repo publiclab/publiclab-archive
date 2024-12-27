@@ -7,6 +7,8 @@ path: /notes/warren/2-6-2012/skytruth-southwings-collect-evidence-lawsuit-7-yr-o
 nid: 756
 uid: 1
 
+cids: 569,572
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Picture 4_0.png)

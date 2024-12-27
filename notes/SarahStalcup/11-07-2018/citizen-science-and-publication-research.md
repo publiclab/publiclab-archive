@@ -7,6 +7,8 @@ path: /notes/SarahStalcup/11-07-2018/citizen-science-and-publication-research.md
 nid: 17486
 uid: 557430
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/507/original/publication_image.png)

@@ -7,6 +7,8 @@ path: /notes/purl/01-26-2021/what-are-some-affordable-methods-of-air-quality-mon
 nid: 25544
 uid: 736598
 
+cids: 28061,28062,28063,28069,28077
+
 ---
 
 # What are some affordable methods of air quality monitoring in New Orleans?

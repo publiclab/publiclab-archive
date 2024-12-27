@@ -7,6 +7,8 @@ path: /notes/jessicac/12-06-2019/what-actions-can-residents-take-to-use-environm
 nid: 21688
 uid: 643430
 
+cids: 25970,25971,25972,25973,25980,25981
+
 ---
 
 # What actions can residents take to use environmental data to make an impact in their community? 

@@ -7,6 +7,8 @@ path: /notes/stevie/12-01-2016/what-fuels-a-movement.md
 nid: 13736
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/952/original/P-etcoke-protestors.jpg)

@@ -7,6 +7,8 @@ path: /notes/donblair/06-13-2014/science-for-the-people.md
 nid: 10569
 uid: 43651
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/709/original/science.png)

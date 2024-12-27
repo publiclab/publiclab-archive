@@ -7,6 +7,8 @@ path: /notes/melaniescobar/02-24-2016/sensor-journalism-reflection.md
 nid: 12740
 uid: 461508
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/560/original/Sensor_Journalism-_Data_Viz.docx)

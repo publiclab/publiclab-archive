@@ -7,6 +7,8 @@ path: /notes/warren/5-18-2012/lee-nh-help-and-learn-about-documenting-cover-crop
 nid: 2138
 uid: 1
 
+cids: 
+
 ---
 
 # Lee, NH – Help and learn about documenting cover crops using balloon mapping and spectral analysis

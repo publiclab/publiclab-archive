@@ -7,6 +7,8 @@ path: /notes/Zengirl2/09-18-2017/having-fun-testing-attachments.md
 nid: 14901
 uid: 423961
 
+cids: 17908
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/690/original/MiniPearl.jpg)

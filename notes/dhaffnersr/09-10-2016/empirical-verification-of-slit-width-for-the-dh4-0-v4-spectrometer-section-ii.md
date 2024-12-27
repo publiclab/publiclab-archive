@@ -7,6 +7,8 @@ path: /notes/dhaffnersr/09-10-2016/empirical-verification-of-slit-width-for-the-
 nid: 13437
 uid: 461120
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/000/original/horizontal_view_sept_9.png)

@@ -7,6 +7,8 @@ path: /notes/liz/09-22-2017/when-is-litmus-paper-not-good-enough-for-measuring-p
 nid: 14941
 uid: 7
 
+cids: 22626
+
 ---
 
 # When is litmus paper not good enough for measuring pH?

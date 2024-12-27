@@ -7,6 +7,8 @@ path: /notes/warren/02-05-2016/web-working-group-monthly-recap-10-january-2016.m
 nid: 12660
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/100/original/Screenshot_2016-01-21_at_9.12.26_AM.png)

@@ -7,6 +7,8 @@ path: /notes/ddileona/06-26-2015/mapknitter-map-of-stormwater-wetlands.md
 nid: 12008
 uid: 436738
 
+cids: 12029,12075,12097
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/010/444/original/IMG_2109.JPG)

@@ -7,6 +7,8 @@ path: /notes/liz/10-12-2014/public-lab-workshops-at-international-conference-of-
 nid: 11261
 uid: 7
 
+cids: 10558,10679,10695,10698,10700,10701
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/417/original/crisismappers_logo_transparent.png)

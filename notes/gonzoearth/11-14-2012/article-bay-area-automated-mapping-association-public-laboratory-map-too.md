@@ -7,6 +7,8 @@ path: /notes/gonzoearth/11-14-2012/article-bay-area-automated-mapping-associatio
 nid: 4907
 uid: 12
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/coverart.png)

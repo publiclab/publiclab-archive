@@ -7,6 +7,8 @@ path: /notes/warren/02-19-2016/preliminary-led-and-isopropyl-alcohol-solvent-tes
 nid: 12716
 uid: 1
 
+cids: 13679,13683,13684,13690,13691,13696
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/014/497/original/IMG_20160210_135231.jpg)

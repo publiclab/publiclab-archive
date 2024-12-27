@@ -7,6 +7,8 @@ path: /notes/warren/04-18-2014/0-75-lead-testing-color-strips.md
 nid: 10328
 uid: 1
 
+cids: 8812,8819,8830,8833,11680,20464,20465,20475,20476,20480
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/719/original/lead-test-kit.jpg)

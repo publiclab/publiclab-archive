@@ -7,6 +7,8 @@ path: /notes/hagitkeysar/03-26-2016/public-lab-installation-in-the-eu-joint-rese
 nid: 12894
 uid: 152
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/240/original/IMG_1292_copy.jpg)

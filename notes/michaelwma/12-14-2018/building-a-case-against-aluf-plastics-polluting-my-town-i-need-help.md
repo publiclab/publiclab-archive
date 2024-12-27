@@ -7,6 +7,8 @@ path: /notes/michaelwma/12-14-2018/building-a-case-against-aluf-plastics-polluti
 nid: 17892
 uid: 563601
 
+cids: 21519,21520,21524,21531,23303,23304,25793,25811,25856
+
 ---
 
 # Building a case against Aluf Plastics -- polluting my town & I need help

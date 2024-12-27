@@ -7,6 +7,8 @@ path: /notes/Pera/04-10-2014/aerial-mapping-workshop-in-washington-dc-monday-apr
 nid: 10290
 uid: 279527
 
+cids: 
+
 ---
 
 # Aerial mapping workshop in Washington DC - Monday, April 14!

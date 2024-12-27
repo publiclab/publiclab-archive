@@ -7,6 +7,8 @@ path: /notes/warren/09-19-2017/request-for-kite-balloon-mapping-help-at-tidmarsh
 nid: 14909
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/707/original/IMG_0209.JPG)

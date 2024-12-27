@@ -7,6 +7,8 @@ path: /notes/ncmcintire/10-24-2018/light.md
 nid: 17375
 uid: 556276
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/027/175/original/88D4AA02-E18D-42D8-8326-87B1266D9B14.jpeg)

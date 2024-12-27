@@ -7,6 +7,8 @@ path: /notes/stevie/08-23-2019/what-are-best-practices-and-tools-to-help-clean-u
 nid: 20642
 uid: 422561
 
+cids: 25315,25322,25325,25330,25346,25347,25351,25353,25356,25358,25394,25451,25452,25454,25463,25467,25493,25496,25512,25522,25527,25528,25529,25572,25573,25598
+
 ---
 
 # What are best practices and tools to help clean up data sets? 

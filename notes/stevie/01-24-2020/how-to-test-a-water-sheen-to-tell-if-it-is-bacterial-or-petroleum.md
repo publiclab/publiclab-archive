@@ -7,6 +7,8 @@ path: /notes/stevie/01-24-2020/how-to-test-a-water-sheen-to-tell-if-it-is-bacter
 nid: 22397
 uid: 422561
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/037/756/original/Oil_sheen_.jpg)

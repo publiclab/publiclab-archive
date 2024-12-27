@@ -7,6 +7,8 @@ path: /notes/warren/03-01-2019/can-we-use-a-guitar-tuning-app-to-get-numeric-dat
 nid: 18445
 uid: 1
 
+cids: 23333,23480,23498,30303
+
 ---
 
 # Can we use a guitar tuning app to get numeric data from the Coqui water sensor? 

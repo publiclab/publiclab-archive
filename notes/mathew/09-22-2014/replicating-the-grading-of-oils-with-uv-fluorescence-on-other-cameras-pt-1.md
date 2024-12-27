@@ -7,6 +7,8 @@ path: /notes/mathew/09-22-2014/replicating-the-grading-of-oils-with-uv-fluoresce
 nid: 11168
 uid: 4
 
+cids: 10366,10367,10370,10373
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/006/940/original/IMG_20140921_165716.jpg)

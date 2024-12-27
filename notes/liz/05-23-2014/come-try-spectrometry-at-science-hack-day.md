@@ -7,6 +7,8 @@ path: /notes/liz/05-23-2014/come-try-spectrometry-at-science-hack-day.md
 nid: 10507
 uid: 7
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/004/446/original/wsf-logo.png)

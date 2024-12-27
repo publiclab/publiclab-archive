@@ -7,6 +7,8 @@ path: /notes/joyofsoy/06-27-2019/how-to-use-a-transect-illustration-by-sara-sage
 nid: 19901
 uid: 540844
 
+cids: 24924,24933
+
 ---
 
 # How to Use a Transect, illustrated by Sara Sage

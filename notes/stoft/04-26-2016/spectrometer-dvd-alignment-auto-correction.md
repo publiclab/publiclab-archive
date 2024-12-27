@@ -7,6 +7,8 @@ path: /notes/stoft/04-26-2016/spectrometer-dvd-alignment-auto-correction.md
 nid: 13031
 uid: 54025
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/015/782/original/STest_CFL-V1Proto3DSpectraY270-310.gif)

@@ -7,6 +7,8 @@ path: /notes/rachelb/05-17-2021/data-collected.md
 nid: 26623
 uid: 744110
 
+cids: 
+
 ---
 
 # Data collected

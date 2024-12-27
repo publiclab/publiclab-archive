@@ -7,6 +7,8 @@ path: /notes/mchao2/03-03-2020/sidewalk-stones.md
 nid: 22983
 uid: 670687
 
+cids: 26411,26418,26426
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/038/302/original/blob)

@@ -7,6 +7,8 @@ path: /notes/mimiss/05-21-2019/workshop-iv-what-do-we-know-and-what-do-we-want-t
 nid: 19431
 uid: 579821
 
+cids: 28350
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/292/original/NAS_Community_Science_in_the_Classroom_Overview.png)

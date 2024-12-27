@@ -7,6 +7,8 @@ path: /notes/JSummers/01-12-2015/valve-automation-for-laboratory-liquid-handelin
 nid: 11519
 uid: 304279
 
+cids: 11132
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/008/590/original/valve1.jpg)

@@ -7,6 +7,8 @@ path: /notes/A_SCH/11-09-2020/how-to-use-your-bucket-data-draft.md
 nid: 24964
 uid: 704145
 
+cids: 27635
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/041/839/original/Screen_Shot_2020-11-28_at_3.24.26_PM.png)

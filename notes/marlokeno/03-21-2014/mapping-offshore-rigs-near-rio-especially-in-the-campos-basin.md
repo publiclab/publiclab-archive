@@ -7,6 +7,8 @@ path: /notes/marlokeno/03-21-2014/mapping-offshore-rigs-near-rio-especially-in-t
 nid: 10211
 uid: 420760
 
+cids: 9609,9696
+
 ---
 
 # mapping offshore rigs near Rio, especially in the Campos basin

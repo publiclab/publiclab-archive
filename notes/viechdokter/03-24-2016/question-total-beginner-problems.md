@@ -7,6 +7,8 @@ path: /notes/viechdokter/03-24-2016/question-total-beginner-problems.md
 nid: 12882
 uid: 468990
 
+cids: 14046,14047,14048,14050,14051,14052,14053,14054,14085
+
 ---
 
 # Question: total beginner problems

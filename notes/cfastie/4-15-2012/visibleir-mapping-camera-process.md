@@ -7,6 +7,8 @@ path: /notes/cfastie/4-15-2012/visibleir-mapping-camera-process.md
 nid: 1677
 uid: 554
 
+cids: 601
+
 ---
 
 ![](https://publiclab.org/sites/default/files/Canon_40D_Response_CurveB.jpg)

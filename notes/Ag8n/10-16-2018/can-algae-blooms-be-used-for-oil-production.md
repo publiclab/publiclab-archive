@@ -7,6 +7,8 @@ path: /notes/Ag8n/10-16-2018/can-algae-blooms-be-used-for-oil-production.md
 nid: 17308
 uid: 520994
 
+cids: 20933,20944
+
 ---
 
 # Can algae blooms be used for oil production?

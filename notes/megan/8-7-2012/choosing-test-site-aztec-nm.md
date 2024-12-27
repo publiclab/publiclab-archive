@@ -7,6 +7,8 @@ path: /notes/megan/8-7-2012/choosing-test-site-aztec-nm.md
 nid: 3181
 uid: 775
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/map.jpg)

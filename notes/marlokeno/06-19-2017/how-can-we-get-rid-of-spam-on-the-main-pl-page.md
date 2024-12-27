@@ -7,6 +7,8 @@ path: /notes/marlokeno/06-19-2017/how-can-we-get-rid-of-spam-on-the-main-pl-page
 nid: 14557
 uid: 420760
 
+cids: 16898,22495
+
 ---
 
 # How can we get rid of spam on the main PL page?

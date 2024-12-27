@@ -7,6 +7,8 @@ path: /notes/stevie/06-18-2019/launching-a-newcomers-welcome-call.md
 nid: 19731
 uid: 422561
 
+cids: 24846,24912,25256
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/032/990/original/Screen_Shot_2019-06-18_at_3.54.19_PM.png)

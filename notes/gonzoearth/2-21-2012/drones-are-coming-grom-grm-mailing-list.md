@@ -7,6 +7,8 @@ path: /notes/gonzoearth/2-21-2012/drones-are-coming-grom-grm-mailing-list.md
 nid: 828
 uid: 12
 
+cids: 
+
 ---
 
 # drones are coming, article link from the GRM mailing list

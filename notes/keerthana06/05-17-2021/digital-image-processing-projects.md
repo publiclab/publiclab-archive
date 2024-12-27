@@ -7,6 +7,8 @@ path: /notes/keerthana06/05-17-2021/digital-image-processing-projects.md
 nid: 26621
 uid: 754722
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/043/834/original/Digital-Image-Processing-Projects.jpg)

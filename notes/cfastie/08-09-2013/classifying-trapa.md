@@ -7,6 +7,8 @@ path: /notes/cfastie/08-09-2013/classifying-trapa.md
 nid: 8986
 uid: 554
 
+cids: 6595,6596,6598,6615,6616
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/090/original/TrapGIF4.gif)

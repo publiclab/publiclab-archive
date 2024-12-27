@@ -7,6 +7,8 @@ path: /notes/Giiwedin/08-09-2022/manoomin-at-boy-lake-minnesota.md
 nid: 34847
 uid: 799642
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/977/original/EB87BE1B-A1CC-429B-B507-A250FDC4B3EC.jpeg)

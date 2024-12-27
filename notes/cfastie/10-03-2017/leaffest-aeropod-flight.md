@@ -7,6 +7,8 @@ path: /notes/cfastie/10-03-2017/leaffest-aeropod-flight.md
 nid: 14993
 uid: 554
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/852/original/SkyVane_20171001-1269.JPG)

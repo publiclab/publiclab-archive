@@ -7,6 +7,8 @@ path: /notes/omarion/09-26-2019/what-are-the-best-light-sensors.md
 nid: 20997
 uid: 622967
 
+cids: 25596,25597,25699,25712
+
 ---
 
 # what are the best light sensors?

@@ -7,6 +7,8 @@ path: /notes/Zengirl2/09-19-2017/are-there-maps-tools-for-finding-potential-poll
 nid: 14913
 uid: 423961
 
+cids: 22622
+
 ---
 
 # Are there maps/tools for finding potential pollution sites for Puerto Rico?

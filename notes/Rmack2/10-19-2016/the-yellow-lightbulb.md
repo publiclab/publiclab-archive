@@ -7,6 +7,8 @@ path: /notes/Rmack2/10-19-2016/the-yellow-lightbulb.md
 nid: 13621
 uid: 494932
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/018/480/original/image.jpeg)

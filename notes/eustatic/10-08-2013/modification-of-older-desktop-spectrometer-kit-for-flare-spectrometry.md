@@ -7,6 +7,8 @@ path: /10-08-2013/modification-of-older-desktop-spectrometer-kit-for-flare-spect
 nid: 9420
 uid: 379
 
+cids: 7157,7158,7200,7201
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/001/806/original/10148178135_c63ceb413f_m_spectorm.jpg)

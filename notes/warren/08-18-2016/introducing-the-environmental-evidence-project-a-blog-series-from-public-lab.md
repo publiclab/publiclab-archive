@@ -7,6 +7,8 @@ path: /notes/warren/08-18-2016/introducing-the-environmental-evidence-project-a-
 nid: 13365
 uid: 1
 
+cids: 15177,15185,15346,15513,15517
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/017/658/original/8516111863_38ff97e56e_b.jpg)

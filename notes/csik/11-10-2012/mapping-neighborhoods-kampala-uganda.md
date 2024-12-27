@@ -7,6 +7,8 @@ path: /notes/csik/11-10-2012/mapping-neighborhoods-kampala-uganda.md
 nid: 4860
 uid: 45627
 
+cids: 
+
 ---
 
 # Mapping neighborhoods in Kampala, Uganda

@@ -7,6 +7,8 @@ path: /notes/Nelari/05-25-2019/split-dvd-which-part-to-use-for-spectrometer.md
 nid: 19520
 uid: 593108
 
+cids: 24251,24263,24989,25478,25506
+
 ---
 
 # Split DVD – which part to use for spectrometer

@@ -7,6 +7,8 @@ path: /notes/dmunchak/09-02-2017/catch-basins-101.md
 nid: 14822
 uid: 513675
 
+cids: 17305,17316,17317,17318,17321,17322,17326,17330,26295,26299
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/021/553/original/IMG_3687.JPG)

@@ -7,6 +7,8 @@ path: /notes/KristinaTamara/06-02-2019/please-help.md
 nid: 19600
 uid: 592485
 
+cids: 24350,24749,24774
+
 ---
 
 # please help! 

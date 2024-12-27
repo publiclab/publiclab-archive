@@ -7,6 +7,8 @@ path: /notes/purl/02-09-2021/new-orleans-parish-educators-join-public-lab-for-ou
 nid: 25636
 uid: 736598
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/042/645/original/EPA_flow_chart.png)

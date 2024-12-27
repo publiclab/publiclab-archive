@@ -7,6 +7,8 @@ path: /notes/awoolverton1/07-26-2022/what-do-workers-experience-reflections-from
 nid: 34803
 uid: 778039
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/046/921/original/Worker_pic_1.JPG)

@@ -7,6 +7,8 @@ path: /notes/manetomapping/10-08-2014/balloon-mapping-public-space-usage-at-a-po
 nid: 11252
 uid: 59273
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/007/378/original/balloonmapping.jpg)

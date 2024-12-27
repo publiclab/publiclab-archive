@@ -7,6 +7,8 @@ path: /notes/warren/06-24-2019/what-do-i-do-with-microplastics-after-being-colle
 nid: 19838
 uid: 1
 
+cids: 24872,24879,24928,24947,24986,25755
+
 ---
 
 # What do I do with microplastics after being collected?

@@ -7,6 +7,8 @@ path: /notes/stevie/01-23-2018/where-can-you-get-the-stage-for-the-basic-microsc
 nid: 15596
 uid: 422561
 
+cids: 
+
 ---
 
 # Where can you get the stage for the basic microscope? 

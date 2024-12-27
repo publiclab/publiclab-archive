@@ -7,6 +7,8 @@ path: /notes/patcoyle/04-07-2014/using-free-sfm-tools-for-automatic-volume-calcu
 nid: 10279
 uid: 77
 
+cids: 8715,8726,9242,9253
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/003/542/original/ss_of_selected_edges_filled_maybe.tiff)

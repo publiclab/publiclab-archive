@@ -7,6 +7,8 @@ path: /notes/geography76/5-1-2013/balloon-mapping-workshop-during-philly-tech-we
 nid: 7142
 uid: 176
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/196/original/DanaBalloon.jpg)

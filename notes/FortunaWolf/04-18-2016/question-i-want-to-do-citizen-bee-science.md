@@ -7,6 +7,8 @@ path: /notes/FortunaWolf/04-18-2016/question-i-want-to-do-citizen-bee-science.md
 nid: 13000
 uid: 470770
 
+cids: 14322,14323,14324,14325,14353,14357,14414
+
 ---
 
 # Question: I want to do citizen bee science

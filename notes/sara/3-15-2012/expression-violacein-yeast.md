@@ -7,6 +7,8 @@ path: /notes/sara/3-15-2012/expression-violacein-yeast.md
 nid: 1416
 uid: 8
 
+cids: 1201,1216,11980,12371,12410
+
 ---
 
 ![](https://publiclab.org/sites/default/files/1471-2180-4-25-2-l.jpeg)

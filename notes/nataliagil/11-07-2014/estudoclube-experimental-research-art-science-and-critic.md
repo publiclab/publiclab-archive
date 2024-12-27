@@ -7,6 +7,8 @@ path: /notes/nataliagil/11-07-2014/estudoclube-experimental-research-art-science
 nid: 11320
 uid: 431087
 
+cids: 
+
 ---
 
 # estudoclube - experimental research: art, science and critic

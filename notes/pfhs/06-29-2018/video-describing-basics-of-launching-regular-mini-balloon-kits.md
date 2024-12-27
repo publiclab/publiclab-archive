@@ -7,6 +7,8 @@ path: /notes/pfhs/06-29-2018/video-describing-basics-of-launching-regular-mini-b
 nid: 16591
 uid: 442023
 
+cids: 19954,19955
+
 ---
 
 # Video describing basics of launching regular/mini balloon kits?

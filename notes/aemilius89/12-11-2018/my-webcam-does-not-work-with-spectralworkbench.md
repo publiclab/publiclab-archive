@@ -7,6 +7,8 @@ path: /notes/aemilius89/12-11-2018/my-webcam-does-not-work-with-spectralworkbenc
 nid: 17863
 uid: 561190
 
+cids: 21492,21493,21494,21496,21502,21755
+
 ---
 
 # My webcam does not work with spectralworkbench

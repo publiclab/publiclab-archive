@@ -7,6 +7,8 @@ path: /notes/cfastie/10-12-2015/pfk-nighthawk-debut-at-leaffest.md
 nid: 12290
 uid: 554
 
+cids: 12713
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/011/914/original/PetriPFK-670-5.jpg)

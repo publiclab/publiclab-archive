@@ -7,6 +7,8 @@ path: /notes/RonHuber/07-27-2014/stockton-harbor-wastes-overflown-epa-starts-pre
 nid: 10983
 uid: 437
 
+cids: 9678,9680,9681,9683,9684
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/005/601/original/lh_071714_gac_cove_acidfactory_plumes6.jpg)

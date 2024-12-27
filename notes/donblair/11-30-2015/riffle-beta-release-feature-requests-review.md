@@ -7,6 +7,8 @@ path: /notes/donblair/11-30-2015/riffle-beta-release-feature-requests-review.md
 nid: 12464
 uid: 43651
 
+cids: 12984,12994,13001,13002,13003,13005,13008,13012,13013,13014,13016,13017,13018,13019,13021,13023,13025,13026,13027,13028,13029,13030,13031,13789,13792
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/013/105/original/riffle-twohole.png)

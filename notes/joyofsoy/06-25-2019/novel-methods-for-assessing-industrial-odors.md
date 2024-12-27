@@ -7,6 +7,8 @@ path: /notes/joyofsoy/06-25-2019/novel-methods-for-assessing-industrial-odors.md
 nid: 19859
 uid: 540844
 
+cids: 24890
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/033/194/original/Article_4_-_Capturing_measurements_of_volatile_organic_compounds_in_North_Denver.jpg)

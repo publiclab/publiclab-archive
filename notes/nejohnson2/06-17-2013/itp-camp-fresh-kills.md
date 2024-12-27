@@ -7,6 +7,8 @@ path: /notes/nejohnson2/06-17-2013/itp-camp-fresh-kills.md
 nid: 8245
 uid: 53894
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/526/original/Screen_Shot_2013-06-17_at_10.34.15_AM.png)

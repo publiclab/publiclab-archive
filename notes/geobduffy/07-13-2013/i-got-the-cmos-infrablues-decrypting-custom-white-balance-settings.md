@@ -7,6 +7,8 @@ path: /notes/geobduffy/07-13-2013/i-got-the-cmos-infrablues-decrypting-custom-wh
 nid: 8869
 uid: 60509
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/000/773/original/sx230_aerial_RICH.jpg)

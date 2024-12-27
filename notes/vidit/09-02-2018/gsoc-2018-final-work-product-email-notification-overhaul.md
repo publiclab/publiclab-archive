@@ -7,6 +7,8 @@ path: /notes/vidit/09-02-2018/gsoc-2018-final-work-product-email-notification-ov
 nid: 17039
 uid: 517093
 
+cids: 20589
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/026/426/original/gsoc-2.png)

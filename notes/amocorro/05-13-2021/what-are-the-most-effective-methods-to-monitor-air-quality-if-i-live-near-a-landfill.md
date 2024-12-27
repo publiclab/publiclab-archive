@@ -7,6 +7,8 @@ path: /notes/amocorro/05-13-2021/what-are-the-most-effective-methods-to-monitor-
 nid: 26576
 uid: 700923
 
+cids: 28770,28887,29055
+
 ---
 
 #  What are the most effective methods to monitor air quality if you live near a landfill?

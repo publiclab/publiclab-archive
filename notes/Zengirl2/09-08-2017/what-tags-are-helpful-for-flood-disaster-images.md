@@ -7,6 +7,8 @@ path: /notes/Zengirl2/09-08-2017/what-tags-are-helpful-for-flood-disaster-images
 nid: 14852
 uid: 423961
 
+cids: 
+
 ---
 
 # What tags are helpful for flood/disaster images?

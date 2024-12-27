@@ -7,6 +7,8 @@ path: /notes/liz/01-26-2018/grow-kombucha-leather-parsons-healthy-materials-lab.
 nid: 15623
 uid: 7
 
+cids: 18309,31395
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/023/354/original/Screen_Shot_2018-01-26_at_4.42.13_PM.png)

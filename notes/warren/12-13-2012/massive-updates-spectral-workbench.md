@@ -7,6 +7,8 @@ path: /notes/warren/12-13-2012/massive-updates-spectral-workbench.md
 nid: 5188
 uid: 1
 
+cids: 3085
+
 ---
 
 ![](https://publiclab.org/sites/default/files/front-page.png)

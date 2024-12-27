@@ -7,6 +7,8 @@ path: /notes/lekhidugtal/03-13-2019/ui-wireframe-for-profile-page.md
 nid: 18537
 uid: 577754
 
+cids: 22135,22142,22155,22164,22168,22237,22243,23328,25279
+
 ---
 
 ![](https://publiclab.org/public/system/images/photos/000/030/055/original/Untitled_%286%29.png)

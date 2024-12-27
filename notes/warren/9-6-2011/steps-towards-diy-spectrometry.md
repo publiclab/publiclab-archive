@@ -7,6 +7,8 @@ path: /notes/warren/9-6-2011/steps-towards-diy-spectrometry.md
 nid: 452
 uid: 1
 
+cids: 
+
 ---
 
 ![](https://publiclab.org/sites/default/files/IMG_0004.JPG)
