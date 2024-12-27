@@ -41,13 +41,14 @@ function fetchPath(path, element, wentBack = false) {
 
 function displayText(text, element) {
   text = fixHeadings(text);
-  console.log(fetchFrontMatter(text));
+  var frontMatter = fetchFrontMatter(text);
   text = wrapFrontMatter(text);
   output = marked.parse(text);
   // figure raw markdown address
   var markdownFile = document.location.href.split('#').join("") + ".md"
   output = "<p style='float:right;padding-left:5px;'> | <a href='" + markdownFile + "'>Raw markdown</a></p>" + output;
   output = parseIncludes(output);
+  output += fetchComments(frontMatter);
   element.innerHTML = output;
   let root = document.location.href.split('#')[0];
   let current_path = document.location.href.split('#')[1];
@@ -89,15 +90,34 @@ function wrapFrontMatter(text) {
 
 // fetch front matter in format ---\nSTUFF\n---\n at start of document, return as key value pairs;
 function fetchFrontMatter(text) {
-  var metadata = text.match(/^\-\-\-\n(.+)\n\-\-\-\n(.+)/s)[1];
-  metadata = metadata.split("\n")
-  var items = [];
-  metadata.forEach(function(item) {
-    if (item.match(':')) {
-      items[item.split(':')[0].trim()] = item.split(':')[1].trim();
-    } 
-  });
-  return items;
+  var metadata = text.match(/^\-\-\-\n(.+)\n\-\-\-\n(.+)/s)
+  if (metadata != null) {
+    metadata = metadata[1];
+    metadata = metadata.split("\n")
+    var items = [];
+    metadata.forEach(function(item) {
+      if (item.match(':')) {
+        items[item.split(':')[0].trim()] = item.split(':')[1].trim();
+      } 
+    });
+    return items;
+  } else {
+    return [];
+  }
+}
+
+function fetchComments(frontMatter) {
+  var output = "";
+  if (frontMatter['cids'] && frontMatter['cids'].trim() != "") {
+    output += "<hr />\n\n<h2>Comments</h2>"
+    var cids = frontMatter['cids'].split(',');
+    output += "<ul class='comment'>";
+    cids.forEach(function(cid) {
+      output += "<li><a href='/comment/" + cid + "'>Comment " + cid + "</a></li>";
+    })
+    output += "</ul>";
+  }
+  return output;
 }
 
 // correct old-style headings like ###Heading and ###Heading###
