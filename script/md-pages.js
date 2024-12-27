@@ -99,17 +99,17 @@ function fixHeadings(text) {
     text = text.replace(/^(\#)([\w\s]+)\#/g,"$1 $2")
   }
   // just before:
-  if (text.match(/^\#\#\#\w/) != null) {
-    text = text.replace(/^(\#\#\#)(\w)/g,"$1 $2")
+  if (text.match(/^\#\#\#\#\w/m) != null) {
+    text = text.replace(/^(\#\#\#\#)(\w)/gm,"$1 $2")
   }
-  if (text.match(/^\#\#\#\w/) != null) {
-    text = text.replace(/^(\#\#\#)(\w)/g,"$1 $2")
+  if (text.match(/^\#\#\#\w/m) != null) {
+    text = text.replace(/^(\#\#\#)(\w)/gm,"$1 $2")
   }
-  if (text.match(/^\#\#\w/) != null) {
-    text = text.replace(/^(\#\#)(\w)/g,"$1 $2")
+  if (text.match(/^\#\#\w/m) != null) {
+    text = text.replace(/^(\#\#)(\w)/gm,"$1 $2")
   }
-  if (text.match(/^\#\w/) != null) {
-    text = text.replace(/^(\#)(\w)/g,"$1 $2")
+  if (text.match(/^\#\w/m) != null) {
+    text = text.replace(/^(\#)(\w)/gm,"$1 $2")
   }
   return text;
 }
