@@ -127,10 +127,10 @@ function fetchComments(frontMatter) {
         .then((text) => {
           // get front matter:
           var frontMatter = fetchFrontMatter(text);
-          var commentText = text.split(/---\n/)[2];
+          var commentText = text.split(/----\n/)[1];
           // replace URLs with fetched URL
           console.log(frontMatter, cid, document.querySelector("#cid-" + cid + " a"));
-          document.querySelector("#cid-" + cid + " a").innerHTML = frontMatter['author'];
+          document.querySelector("#cid-" + cid).innerHTML = "<a href='/profile/" + frontMatter['author'] + "'>" + frontMatter['author'] + "</a> " + frontMatter['created_at'] + ": " + marked.parse(commentText);
         });
     })
     output += "</ul>";
