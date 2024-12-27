@@ -30,7 +30,7 @@ Node.where(nid: nids).each do |node|
     else
       text = "---\n"
       text += 'title: "' + node.title + '"' + "\n"
-      text += "tagnames: '#{node.tagnames.join(', ')}'\n"\
+      text += "\ntagnames: '#{node.tagnames.join(', ')}'\n"\
         "author: #{node.author.username}\n"\
 	"author: #{node.author.username}\n"\
 	"path: #{path.split("static").last}\n"\

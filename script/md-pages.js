@@ -41,8 +41,12 @@ function fetchPath(path, element, wentBack = false) {
 
 function displayText(text, element) {
   text = fixHeadings(text);
+  console.log(fetchFrontMatter(text));
   text = wrapFrontMatter(text);
   output = marked.parse(text);
+  // figure raw markdown address
+  var markdownFile = document.location.href.split('#').join("") + ".md"
+  output = "<p style='float:right;padding-left:5px;'> | <a href='" + markdownFile + "'>Raw markdown</a></p>" + output;
   output = parseIncludes(output);
   element.innerHTML = output;
   let root = document.location.href.split('#')[0];
@@ -81,6 +85,21 @@ function displayText(text, element) {
 // https://jekyllrb.com/docs/front-matter/
 function wrapFrontMatter(text) {
   return text.replace(/^\-\-\-\n(.+)\n\-\-\-\n(.+)/s,"<details><summary><i>Metadata</i></summary>\n$1\n</details>\n$2")
+}
+
+// fetch front matter in format ---\nSTUFF\n---\n at start of document, return as key value pairs;
+function fetchFrontMatter(text) {
+  var metadata = text.match(/^\-\-\-\n(.+)\n\-\-\-\n(.+)/s)[1];
+  console.log(metadata);
+  metadata = metadata.split("\n")
+  console.log(metadata);
+  var items = [];
+  metadata.forEach(function(item) {
+    if (item.match(':')) {
+      items[item.split(':')[0].trim()] = item.split(':')[1].trim();
+    } 
+  });
+  return items;
 }
 
 // correct old-style headings like ###Heading and ###Heading###
@@ -131,7 +150,6 @@ function adjustPaths(path) {
 
 function fetchImagePaths(path, image) {
   if (path.includes('/i/')) {
-    console.log('nice!', path);
     var pathWithoutParams = path.split('?')[0]; // bc many include ?s=o for size prefs, which we ignore
     fetch(path + ".md",{
       cache: 'no-cache',
