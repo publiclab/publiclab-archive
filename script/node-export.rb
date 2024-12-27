@@ -46,25 +46,25 @@ Node.where(nid: nids).each do |node|
 
       text +=  "# " + node.title + "\n\n"
 
-      text += "by [#{node.author.username}](../../../profile/#{node.author.username}) | #{node.created_at.to_s(:long)}\n\n" if node.type == "note"
-      text += "by [#{node.author.username}](../../profile/#{node.author.username}) | #{node.created_at.to_s(:long)}\n\n" if node.type == "map"
+      text += "by [#{node.author.username}](/profile/#{node.author.username}) | #{node.created_at.to_s(:long)}\n\n" if node.type == "note"
+      text += "by [#{node.author.username}](/profile/#{node.author.username}) | #{node.created_at.to_s(:long)}\n\n" if node.type == "map"
       if node.type == "page" 
 	text += "by "
         authors = []
 	node.authors.compact.collect(&:username).each do |username|
-          authors << "[#{username}](../profile/#{username})"
+          authors << "[#{username}](/profile/#{username})"
 	end
         text += authors.join(', ') + "\n\n"
       end
       tags = []
       node.tags.each do |tag|
-        tags << "[#{tag.name}](../tag/#{tag.name})"
+        tags << "[#{tag.name}](/tag/#{tag.name})"
       end
       text += "#{node.created_at.to_s(:long)} | Tags: #{tags.join(', ')}\n\n"
       text += "----\n\n"
-      body = node.body.gsub(/(?<![\>`])(\<p\>)?\[activities\:(\S+)\]/, '[\2](../../tag/activity:\2)')
-      body = body.gsub(/(?<![\>`])(\<p\>)?\[questions\:(\S+)\]/, '[\2](../../tag/question:\2)')
-      body = body.gsub(/(?<![\>`])(\<p\>)?\[notes\:(\S+)\]/, '[\2](../../tag/\2)')
+      body = node.body.gsub(/(?<![\>`])(\<p\>)?\[activities\:(\S+)\]/, '[\2](/tag/activity:\2)')
+      body = body.gsub(/(?<![\>`])(\<p\>)?\[questions\:(\S+)\]/, '[\2](/tag/question:\2)')
+      body = body.gsub(/(?<![\>`])(\<p\>)?\[notes\:(\S+)\]/, '[\2](/tag/\2)')
       text += body
       file.write(text)
     end
