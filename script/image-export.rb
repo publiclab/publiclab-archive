@@ -10,7 +10,7 @@ images.each do |image|
     text += "path: #{image.path}\n"
     text += "created_at: #{image.created_at.to_s(:long)}\n"
     text += "---\n\n"
-    text += "<script>window.location.replace('.." + image.path + '");</script>';
+    text += "<script>window.location.replace('..#{ image.path }');</script>";
     File.open(path, 'w') do |file|
       file.write(text)
     end

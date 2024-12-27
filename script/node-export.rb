@@ -28,14 +28,17 @@ Node.where(nid: nids).each do |node|
     if node.type.include?('redirect')
       file.write(node.type.split('redirect|').last)
     else
-      text = "---\n"\
-        "title: '#{node.title}'\n"\
-        "tagnames: '#{node.tagnames.join(', ')}'\n"\
+      text = "---\n"
+      text += 'title: "' + node.title + '"' + "\n"
+      text += "tagnames: '#{node.tagnames.join(', ')}'\n"\
+        "author: #{node.author.username}\n"\
 	"author: #{node.author.username}\n"\
 	"path: #{path.split("static").last}\n"\
         "nid: #{node.nid}\n"\
         "uid: #{node.uid}\n\n"\
         "---\n\n"
+
+
 
       if node.main_image
         # img_path = @node.main_image.path(@node.main_image.photo_file_name == "blob" ? :original : :large) 

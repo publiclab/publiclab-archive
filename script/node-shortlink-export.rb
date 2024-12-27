@@ -12,7 +12,7 @@ Node.where(nid: nids).each do |node|
     "uid: #{node.uid}\n"\
     "path: #{node.path}\n"
   text += "---\n\n"
-  text += "<script>window.location.replace('.." + node.path + '");</script>';
+  text += "<script>window.location.replace('..#{ node.path }');</script>";
 
   path = "public/static/n/#{node.id}.md"
 
