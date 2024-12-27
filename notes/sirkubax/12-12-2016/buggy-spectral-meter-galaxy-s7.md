@@ -1,5 +1,7 @@
 ---
-title: "Buggy spectral meter? Galaxy S7..."\ntagnames: 'spectrometer, spectralworkbench, red, uvc, save, question:general'
+title: "Buggy spectral meter? Galaxy S7..."
+
+tagnames: 'spectrometer, spectralworkbench, red, uvc, save, question:general'
 author: sirkubax
 path: /notes/sirkubax/12-12-2016/buggy-spectral-meter-galaxy-s7.md
 nid: 13776
@@ -11,7 +13,7 @@ uid: 499666
 
 # Buggy spectral meter? Galaxy S7...
 
-by [sirkubax](../profile/sirkubax) | December 12, 2016 21:44
+by [sirkubax](../../../profile/sirkubax) | December 12, 2016 21:44
 
 December 12, 2016 21:44 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [red](../tag/red), [uvc](../tag/uvc), [save](../tag/save), [question:general](../tag/question:general)
 

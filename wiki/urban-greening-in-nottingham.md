@@ -1,5 +1,7 @@
 ---
-title: "Urban greening in Nottingham"\ntagnames: 'mapping, uk, urban-ag, eu, project, nottingham, project:advocacy-with-maps'
+title: "Urban greening in Nottingham"
+
+tagnames: 'mapping, uk, urban-ag, eu, project, nottingham, project:advocacy-with-maps'
 author: molangmuir10
 path: /wiki/urban-greening-in-nottingham.md
 nid: 20517

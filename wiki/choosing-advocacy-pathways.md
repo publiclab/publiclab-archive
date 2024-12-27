@@ -1,5 +1,7 @@
 ---
-title: "Choosing advocacy pathways"\ntagnames: 'tool, tools, methods, advocacy, method, community-organizing'
+title: "Choosing advocacy pathways"
+
+tagnames: 'tool, tools, methods, advocacy, method, community-organizing'
 author: liz
 path: /wiki/choosing-advocacy-pathways.md
 nid: 12640

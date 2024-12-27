@@ -1,5 +1,7 @@
 ---
-title: "Addressing the Health Impacts of Petrochemical Production"\ntagnames: ''
+title: "Addressing the Health Impacts of Petrochemical Production"
+
+tagnames: ''
 author: A_SCH
 path: /notes/A_SCH/01-07-2021/addressing-the-health-impacts-of-petrochemical-production.md
 nid: 25431
@@ -9,7 +11,7 @@ uid: 704145
 
 # Addressing the Health Impacts of Petrochemical Production
 
-by [A_SCH](../profile/A_SCH) | January 07, 2021 16:22
+by [A_SCH](../../../profile/A_SCH) | January 07, 2021 16:22
 
 January 07, 2021 16:22 | Tags: 
 

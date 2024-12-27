@@ -1,5 +1,7 @@
 ---
-title: "H2S film strip recommendations"\ntagnames: ''
+title: "H2S film strip recommendations"
+
+tagnames: ''
 author: Shannon
 path: /notes/shannon/1-29-2012/h2s-film-strip-test.md
 nid: 726
@@ -9,7 +11,7 @@ uid: 9
 
 # H2S film strip recommendations
 
-by [Shannon](../profile/Shannon) | January 30, 2012 04:13
+by [Shannon](../../../profile/Shannon) | January 30, 2012 04:13
 
 January 30, 2012 04:13 | Tags: 
 

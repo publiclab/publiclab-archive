@@ -1,5 +1,7 @@
 ---
-title: "How to process microplastic samples from a trawl"\ntagnames: 'water-quality, seeks:replications, ocean, micro-plastics, question:microplastics, microplastics, plastics, babylegs, activity:babylegs, activity:microplastics'
+title: "How to process microplastic samples from a trawl"
+
+tagnames: 'water-quality, seeks:replications, ocean, micro-plastics, question:microplastics, microplastics, plastics, babylegs, activity:babylegs, activity:microplastics'
 author: maxliboiron
 path: /notes/maxliboiron/07-19-2018/how-to-process-microplastic-samples-from-a-trawl.md
 nid: 16750
@@ -11,7 +13,7 @@ uid: 310707
 
 # How to process microplastic samples from a trawl
 
-by [maxliboiron](../profile/maxliboiron) | July 19, 2018 11:38
+by [maxliboiron](../../../profile/maxliboiron) | July 19, 2018 11:38
 
 July 19, 2018 11:38 | Tags: [water-quality](../tag/water-quality), [seeks:replications](../tag/seeks:replications), [ocean](../tag/ocean), [micro-plastics](../tag/micro-plastics), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [plastics](../tag/plastics), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [activity:microplastics](../tag/activity:microplastics)
 

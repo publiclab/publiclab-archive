@@ -1,5 +1,7 @@
 ---
-title: "Hometesting for Environmental Estrogens Bibliography"\ntagnames: ''
+title: "Hometesting for Environmental Estrogens Bibliography"
+
+tagnames: ''
 author: sara
 path: /wiki/hometesting-environmental-estrogens.md
 nid: 507

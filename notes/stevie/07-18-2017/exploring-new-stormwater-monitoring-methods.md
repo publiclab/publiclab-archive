@@ -1,5 +1,7 @@
 ---
-title: "Exploring New Stormwater Monitoring Methods"\ntagnames: 'gulf-coast, new-orleans, blog, stormwater, workshop-series'
+title: "Exploring New Stormwater Monitoring Methods"
+
+tagnames: 'gulf-coast, new-orleans, blog, stormwater, workshop-series'
 author: stevie
 path: /notes/stevie/07-18-2017/exploring-new-stormwater-monitoring-methods.md
 nid: 14664
@@ -11,7 +13,7 @@ uid: 422561
 
 # Exploring New Stormwater Monitoring Methods
 
-by [stevie](../profile/stevie) | July 18, 2017 20:41
+by [stevie](../../../profile/stevie) | July 18, 2017 20:41
 
 July 18, 2017 20:41 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [blog](../tag/blog), [stormwater](../tag/stormwater), [workshop-series](../tag/workshop-series)
 

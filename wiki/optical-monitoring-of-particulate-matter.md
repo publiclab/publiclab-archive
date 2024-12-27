@@ -1,5 +1,7 @@
 ---
-title: "Optical Monitoring of Particulate Matter"\ntagnames: 'arduino, air-quality, pm, parent:pm-monitoring, method, optical-pm, air-sensors, parent:air-quality'
+title: "Optical Monitoring of Particulate Matter"
+
+tagnames: 'arduino, air-quality, pm, parent:pm-monitoring, method, optical-pm, air-sensors, parent:air-quality'
 author: mathew
 path: /wiki/optical-monitoring-of-particulate-matter.md
 nid: 12627

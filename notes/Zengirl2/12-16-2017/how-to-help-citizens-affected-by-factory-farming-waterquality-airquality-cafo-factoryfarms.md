@@ -1,5 +1,7 @@
 ---
-title: "How to Help Citizens Affected by Factory Farming? #waterquality #airquality #CAFO #factoryfarms"\ntagnames: 'balloon-mapping, hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, water-quality, cafo, ammonia, factory-farms, srap'
+title: "How to Help Citizens Affected by Factory Farming? #waterquality #airquality #CAFO #factoryfarms"
+
+tagnames: 'balloon-mapping, hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, water-quality, cafo, ammonia, factory-farms, srap'
 author: zengirl2
 path: /notes/Zengirl2/12-16-2017/how-to-help-citizens-affected-by-factory-farming-waterquality-airquality-cafo-factoryfarms.md
 nid: 15387
@@ -11,7 +13,7 @@ uid: 423961
 
 # How to Help Citizens Affected by Factory Farming? #waterquality #airquality #CAFO #factoryfarms
 
-by [zengirl2](../profile/zengirl2) | December 16, 2017 23:14
+by [zengirl2](../../../profile/zengirl2) | December 16, 2017 23:14
 
 December 16, 2017 23:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [cafo](../tag/cafo), [ammonia](../tag/ammonia), [factory-farms](../tag/factory-farms), [srap](../tag/srap)
 

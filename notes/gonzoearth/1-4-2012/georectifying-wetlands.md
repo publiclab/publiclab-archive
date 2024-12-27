@@ -1,5 +1,7 @@
 ---
-title: "Georectifying in the Wetlands"\ntagnames: 'wetlands, idealab, barataria, rectifying, lat:29.476067, lon:-89.921722, place:wilkinson-bay-louisiana-usa'
+title: "Georectifying in the Wetlands"
+
+tagnames: 'wetlands, idealab, barataria, rectifying, lat:29.476067, lon:-89.921722, place:wilkinson-bay-louisiana-usa'
 author: gonzoearth
 path: /notes/gonzoearth/1-4-2012/georectifying-wetlands.md
 nid: 679
@@ -11,7 +13,7 @@ uid: 12
 
 # Georectifying in the Wetlands
 
-by [gonzoearth](../profile/gonzoearth) | January 04, 2012 23:25
+by [gonzoearth](../../../profile/gonzoearth) | January 04, 2012 23:25
 
 January 04, 2012 23:25 | Tags: [wetlands](../tag/wetlands), [idealab](../tag/idealab), [barataria](../tag/barataria), [rectifying](../tag/rectifying), [lat:29.476067](../tag/lat:29.476067), [lon:-89.921722](../tag/lon:-89.921722), [place:wilkinson-bay-louisiana-usa](../tag/place:wilkinson-bay-louisiana-usa)
 

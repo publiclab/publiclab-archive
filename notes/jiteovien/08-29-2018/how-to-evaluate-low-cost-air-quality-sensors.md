@@ -1,5 +1,7 @@
 ---
-title: "How to evaluate low cost air quality sensors"\ntagnames: 'air-quality, sensors, pm, particulate-matter, activity:sensors, air-sensors, purpleair, purple-air, collocation, air-sensor-eval'
+title: "How to evaluate low cost air quality sensors"
+
+tagnames: 'air-quality, sensors, pm, particulate-matter, activity:sensors, air-sensors, purpleair, purple-air, collocation, air-sensor-eval'
 author: jiteovien
 path: /notes/jiteovien/08-29-2018/how-to-evaluate-low-cost-air-quality-sensors.md
 nid: 17020
@@ -9,7 +11,7 @@ uid: 540008
 
 # How to evaluate low cost air quality sensors
 
-by [jiteovien](../profile/jiteovien) | August 29, 2018 21:45
+by [jiteovien](../../../profile/jiteovien) | August 29, 2018 21:45
 
 August 29, 2018 21:45 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [activity:sensors](../tag/activity:sensors), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [collocation](../tag/collocation), [air-sensor-eval](../tag/air-sensor-eval)
 

@@ -1,5 +1,7 @@
 ---
-title: "mapknitter, downloading, exporting"\ntagnames: 'mapknitter, question:mapknitter'
+title: "mapknitter, downloading, exporting"
+
+tagnames: 'mapknitter, question:mapknitter'
 author: pataxte
 path: /notes/pataxte/11-12-2019/mapknitter-downloading-exporting.md
 nid: 21467
@@ -9,7 +11,7 @@ uid: 559561
 
 # mapknitter, downloading, exporting
 
-by [pataxte](../profile/pataxte) | November 12, 2019 16:14
+by [pataxte](../../../profile/pataxte) | November 12, 2019 16:14
 
 November 12, 2019 16:14 | Tags: [mapknitter](../tag/mapknitter), [question:mapknitter](../tag/question:mapknitter)
 

@@ -1,5 +1,7 @@
 ---
-title: "Edmonton Balloon and Kite Mapping Workshop"\ntagnames: 'balloon-mapping, edmonton, event, canada, alberta, event:rsvp, date:11-22-2014, rsvp:ann, rsvp:anne, replication:14022'
+title: "Edmonton Balloon and Kite Mapping Workshop"
+
+tagnames: 'balloon-mapping, edmonton, event, canada, alberta, event:rsvp, date:11-22-2014, rsvp:ann, rsvp:anne, replication:14022'
 author: ann
 path: /notes/ann/11-14-2014/edmonton-balloon-and-kite-mapping-workshop-pipeline-mapping.md
 nid: 11343
@@ -11,7 +13,7 @@ uid: 421543
 
 # Edmonton Balloon and Kite Mapping Workshop
 
-by [ann](../profile/ann) | November 14, 2014 14:43
+by [ann](../../../profile/ann) | November 14, 2014 14:43
 
 November 14, 2014 14:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [edmonton](../tag/edmonton), [event](../tag/event), [canada](../tag/canada), [alberta](../tag/alberta), [event:rsvp](../tag/event:rsvp), [date:11-22-2014](../tag/date:11-22-2014), [rsvp:ann](../tag/rsvp:ann), [rsvp:anne](../tag/rsvp:anne), [replication:14022](../tag/replication:14022)
 

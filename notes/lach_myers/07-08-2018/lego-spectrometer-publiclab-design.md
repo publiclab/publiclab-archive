@@ -1,5 +1,7 @@
 ---
-title: "Lego spectrometer - Publiclab design"\ntagnames: 'spectrometer, spectrometry, fluorescence, raspberry-pi, lego, raspberry-pi-spectrometer, lego-spectrometer, response:15360, replication:15360'
+title: "Lego spectrometer - Publiclab design"
+
+tagnames: 'spectrometer, spectrometry, fluorescence, raspberry-pi, lego, raspberry-pi-spectrometer, lego-spectrometer, response:15360, replication:15360'
 author: lach_myers
 path: /notes/lach_myers/07-08-2018/lego-spectrometer-publiclab-design.md
 nid: 16660
@@ -11,7 +13,7 @@ uid: 425849
 
 # Lego spectrometer - Publiclab design
 
-by [lach_myers](../profile/lach_myers) | July 08, 2018 13:30
+by [lach_myers](../../../profile/lach_myers) | July 08, 2018 13:30
 
 July 08, 2018 13:30 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [raspberry-pi](../tag/raspberry-pi), [lego](../tag/lego), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [response:15360](../tag/response:15360), [replication:15360](../tag/replication:15360)
 

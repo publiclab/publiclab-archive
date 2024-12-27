@@ -1,5 +1,7 @@
 ---
-title: "Infairgrams"\ntagnames: 'near-infrared-camera, vermont, infrared, photoshop, infragram'
+title: "Infairgrams"
+
+tagnames: 'near-infrared-camera, vermont, infrared, photoshop, infragram'
 author: cfastie
 path: /notes/cfastie/08-11-2013/infairgrams.md
 nid: 8991
@@ -11,7 +13,7 @@ uid: 554
 
 # Infairgrams
 
-by [cfastie](../profile/cfastie) | August 11, 2013 15:21
+by [cfastie](../../../profile/cfastie) | August 11, 2013 15:21
 
 August 11, 2013 15:21 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [photoshop](../tag/photoshop), [infragram](../tag/infragram)
 

@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench recording time?"\ntagnames: 'question:spectral-workbench, answered'
+title: "Spectral Workbench recording time?"
+
+tagnames: 'question:spectral-workbench, answered'
 author: dhale2
 path: /notes/dhale2/12-01-2016/spectral-workbench-recording-time.md
 nid: 13735
@@ -9,7 +11,7 @@ uid: 498686
 
 # Spectral Workbench recording time?
 
-by [dhale2](../profile/dhale2) | December 01, 2016 12:09
+by [dhale2](../../../profile/dhale2) | December 01, 2016 12:09
 
 December 01, 2016 12:09 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 

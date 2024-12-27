@@ -1,5 +1,7 @@
 ---
-title: "Europe"\ntagnames: ''
+title: "Europe"
+
+tagnames: ''
 author: liz
 path: /wiki/eu.md
 nid: 14539

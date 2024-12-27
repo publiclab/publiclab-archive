@@ -1,5 +1,7 @@
 ---
-title: "Cannot find colour spectrum"\ntagnames: 'question:spectral-workbench'
+title: "Cannot find colour spectrum"
+
+tagnames: 'question:spectral-workbench'
 author: SpencerH
 path: /notes/SpencerH/03-13-2017/cannot-find-colour-spectrum.md
 nid: 14006
@@ -9,7 +11,7 @@ uid: 503742
 
 # Cannot find colour spectrum
 
-by [SpencerH](../profile/SpencerH) | March 13, 2017 09:42
+by [SpencerH](../../../profile/SpencerH) | March 13, 2017 09:42
 
 March 13, 2017 09:42 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 

@@ -1,5 +1,7 @@
 ---
-title: "Mobius ActionCam for Aerial Photography"\ntagnames: ''
+title: "Mobius ActionCam for Aerial Photography"
+
+tagnames: ''
 author: tonyc
 path: /wiki/mobius-actioncam-for-aerial-photography.md
 nid: 12567

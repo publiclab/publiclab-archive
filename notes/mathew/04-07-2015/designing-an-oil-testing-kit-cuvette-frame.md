@@ -1,5 +1,7 @@
 ---
-title: "Designing an Oil Testing Kit Cuvette Frame"\ntagnames: 'laser, fluorescence, desktop-spectrometer, oil-testing-kit, 405nm, otk'
+title: "Designing an Oil Testing Kit Cuvette Frame"
+
+tagnames: 'laser, fluorescence, desktop-spectrometer, oil-testing-kit, 405nm, otk'
 author: mathew
 path: /notes/mathew/04-07-2015/designing-an-oil-testing-kit-cuvette-frame.md
 nid: 11750
@@ -11,7 +13,7 @@ uid: 4
 
 # Designing an Oil Testing Kit Cuvette Frame
 
-by [mathew](../profile/mathew) | April 07, 2015 22:53
+by [mathew](../../../profile/mathew) | April 07, 2015 22:53
 
 April 07, 2015 22:53 | Tags: [laser](../tag/laser), [fluorescence](../tag/fluorescence), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [otk](../tag/otk)
 

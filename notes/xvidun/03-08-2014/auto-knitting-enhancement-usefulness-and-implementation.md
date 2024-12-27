@@ -1,5 +1,7 @@
 ---
-title: "Auto Knitting enhancement usefulness and implementation."\ntagnames: 'mapknitter, gsoc, auto-knitting, exif'
+title: "Auto Knitting enhancement usefulness and implementation."
+
+tagnames: 'mapknitter, gsoc, auto-knitting, exif'
 author: xvidun
 path: /notes/xvidun/03-08-2014/auto-knitting-enhancement-usefulness-and-implementation.md
 nid: 10145
@@ -9,7 +11,7 @@ uid: 421168
 
 # Auto Knitting enhancement usefulness and implementation.
 
-by [xvidun](../profile/xvidun) | March 08, 2014 20:13
+by [xvidun](../../../profile/xvidun) | March 08, 2014 20:13
 
 March 08, 2014 20:13 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [auto-knitting](../tag/auto-knitting), [exif](../tag/exif)
 

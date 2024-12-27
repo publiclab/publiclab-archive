@@ -1,5 +1,7 @@
 ---
-title: "What are some standard bottles we could use to build BabyLegs?"\ntagnames: 'water-quality, bottles, sourcing, microplastics, question:babylegs, babylegs'
+title: "What are some standard bottles we could use to build BabyLegs?"
+
+tagnames: 'water-quality, bottles, sourcing, microplastics, question:babylegs, babylegs'
 author: warren
 path: /notes/warren/03-29-2019/what-are-some-standard-bottles-we-could-use-to-build-babylegs.md
 nid: 18901
@@ -9,7 +11,7 @@ uid: 1
 
 # What are some standard bottles we could use to build BabyLegs?
 
-by [warren](../profile/warren) | March 29, 2019 15:16
+by [warren](../../../profile/warren) | March 29, 2019 15:16
 
 March 29, 2019 15:16 | Tags: [water-quality](../tag/water-quality), [bottles](../tag/bottles), [sourcing](../tag/sourcing), [microplastics](../tag/microplastics), [question:babylegs](../tag/question:babylegs), [babylegs](../tag/babylegs)
 

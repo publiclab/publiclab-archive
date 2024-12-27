@@ -1,5 +1,7 @@
 ---
-title: "Infragram convertible cameras"\ntagnames: 'near-infrared-camera, conversion, filter, infragram, parent:infragram, 74'
+title: "Infragram convertible cameras"
+
+tagnames: 'near-infrared-camera, conversion, filter, infragram, parent:infragram, 74'
 author: warren
 path: /wiki/infragram-convertible-cameras.md
 nid: 7823

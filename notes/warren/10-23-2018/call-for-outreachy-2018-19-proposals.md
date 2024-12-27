@@ -1,5 +1,7 @@
 ---
-title: "Call for Outreachy 2018-19 proposals!"\ntagnames: 'website, software, code, wwg, software-outreach, soc, outreachy, call-for-proposals, outreachy-2018, proposals, call-'
+title: "Call for Outreachy 2018-19 proposals!"
+
+tagnames: 'website, software, code, wwg, software-outreach, soc, outreachy, call-for-proposals, outreachy-2018, proposals, call-'
 author: warren
 path: /notes/warren/10-23-2018/call-for-outreachy-2018-19-proposals.md
 nid: 17359
@@ -9,7 +11,7 @@ uid: 1
 
 # Call for Outreachy 2018-19 proposals!
 
-by [warren](../profile/warren) | October 23, 2018 17:00
+by [warren](../../../profile/warren) | October 23, 2018 17:00
 
 October 23, 2018 17:00 | Tags: [website](../tag/website), [software](../tag/software), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [outreachy-2018](../tag/outreachy-2018), [proposals](../tag/proposals), [call-](../tag/call-)
 

@@ -1,5 +1,7 @@
 ---
-title: "Changing filters on the pDR-1500"\ntagnames: 'dust, silica, pm, dust-monitoring, pm-monitoring, 1031710, pdr-1500, activity:pdr-1500'
+title: "Changing filters on the pDR-1500"
+
+tagnames: 'dust, silica, pm, dust-monitoring, pm-monitoring, 1031710, pdr-1500, activity:pdr-1500'
 author: mathew
 path: /notes/mathew/05-01-2017/changing-filters-on-the-pdr-1500.md
 nid: 14154
@@ -11,7 +13,7 @@ uid: 4
 
 # Changing filters on the pDR-1500
 
-by [mathew](../profile/mathew) | May 01, 2017 23:21
+by [mathew](../../../profile/mathew) | May 01, 2017 23:21
 
 May 01, 2017 23:21 | Tags: [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [dust-monitoring](../tag/dust-monitoring), [pm-monitoring](../tag/pm-monitoring), [1031710](../tag/1031710), [pdr-1500](../tag/pdr-1500), [activity:pdr-1500](../tag/activity:pdr-1500)
 

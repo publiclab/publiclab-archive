@@ -1,5 +1,7 @@
 ---
-title: "How to select a site for hydrogen sulfide testing?"\ntagnames: 'hydrogen-sulfide, h2s, site-survey, question:site-survey, h2s-copper-pipe, question:h2s, question:hydrogen-sulfide, question:h2s-copper-pipe, site-selection'
+title: "How to select a site for hydrogen sulfide testing?"
+
+tagnames: 'hydrogen-sulfide, h2s, site-survey, question:site-survey, h2s-copper-pipe, question:h2s, question:hydrogen-sulfide, question:h2s-copper-pipe, site-selection'
 author: warren
 path: /notes/warren/11-28-2017/how-to-select-a-site-for-hydrogen-sulfide-testing.md
 nid: 15255
@@ -9,7 +11,7 @@ uid: 1
 
 # How to select a site for hydrogen sulfide testing?
 
-by [warren](../profile/warren) | November 28, 2017 22:38
+by [warren](../../../profile/warren) | November 28, 2017 22:38
 
 November 28, 2017 22:38 | Tags: [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [site-survey](../tag/site-survey), [question:site-survey](../tag/question:site-survey), [h2s-copper-pipe](../tag/h2s-copper-pipe), [question:h2s](../tag/question:h2s), [question:hydrogen-sulfide](../tag/question:hydrogen-sulfide), [question:h2s-copper-pipe](../tag/question:h2s-copper-pipe), [site-selection](../tag/site-selection)
 

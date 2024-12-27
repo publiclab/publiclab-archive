@@ -1,5 +1,7 @@
 ---
-title: "Sky Cam - User Guide"\ntagnames: 'balloon-mapping, mapknitter, timelapse, skycam, cartography-collective, sky-camera, activity:camera-triggering, activity:intervalometer'
+title: "Sky Cam - User Guide"
+
+tagnames: 'balloon-mapping, mapknitter, timelapse, skycam, cartography-collective, sky-camera, activity:camera-triggering, activity:intervalometer'
 author: mercyorangi
 path: /notes/mercyorangi/08-16-2014/sky-cam-user-guide.md
 nid: 11061
@@ -11,7 +13,7 @@ uid: 421649
 
 # Sky Cam - User Guide
 
-by [mercyorangi](../profile/mercyorangi) | August 16, 2014 20:34
+by [mercyorangi](../../../profile/mercyorangi) | August 16, 2014 20:34
 
 August 16, 2014 20:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [timelapse](../tag/timelapse), [skycam](../tag/skycam), [cartography-collective](../tag/cartography-collective), [sky-camera](../tag/sky-camera), [activity:camera-triggering](../tag/activity:camera-triggering), [activity:intervalometer](../tag/activity:intervalometer)
 

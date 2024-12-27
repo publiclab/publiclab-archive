@@ -1,5 +1,7 @@
 ---
-title: "Water: Common Permit Violations"\ntagnames: 'coal-mining, mountaintop-removal, water-quality, advocacy, permit-violation, with:junior_walk1337, mmmp, with:jfreemanfilm, reclamation'
+title: "Water: Common Permit Violations"
+
+tagnames: 'coal-mining, mountaintop-removal, water-quality, advocacy, permit-violation, with:junior_walk1337, mmmp, with:jfreemanfilm, reclamation'
 author: ekpeterman
 path: /notes/ekpeterman/01-20-2022/common-permit-violations-water.md
 nid: 28758
@@ -11,7 +13,7 @@ uid: 641166
 
 # Water: Common Permit Violations
 
-by [ekpeterman](../profile/ekpeterman) | January 20, 2022 14:35
+by [ekpeterman](../../../profile/ekpeterman) | January 20, 2022 14:35
 
 January 20, 2022 14:35 | Tags: [coal-mining](../tag/coal-mining), [mountaintop-removal](../tag/mountaintop-removal), [water-quality](../tag/water-quality), [advocacy](../tag/advocacy), [permit-violation](../tag/permit-violation), [with:junior_walk1337](../tag/with:junior_walk1337), [mmmp](../tag/mmmp), [with:jfreemanfilm](../tag/with:jfreemanfilm), [reclamation](../tag/reclamation)
 

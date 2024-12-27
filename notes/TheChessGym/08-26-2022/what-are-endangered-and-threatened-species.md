@@ -1,5 +1,7 @@
 ---
-title: "What Are Endangered and Threatened Species? "\ntagnames: 'first-time-poster, lat:20, lon:70, zoom:5'
+title: "What Are Endangered and Threatened Species? "
+
+tagnames: 'first-time-poster, lat:20, lon:70, zoom:5'
 author: TheChessGym
 path: /notes/TheChessGym/08-26-2022/what-are-endangered-and-threatened-species.md
 nid: 34902
@@ -11,7 +13,7 @@ uid: 788868
 
 # What Are Endangered and Threatened Species? 
 
-by [TheChessGym](../profile/TheChessGym) | August 26, 2022 13:12
+by [TheChessGym](../../../profile/TheChessGym) | August 26, 2022 13:12
 
 August 26, 2022 13:12 | Tags: [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:5](../tag/zoom:5)
 

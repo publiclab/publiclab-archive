@@ -1,5 +1,7 @@
 ---
-title: "Learning How to Control Arduino with Raspberry Pi"\ntagnames: ''
+title: "Learning How to Control Arduino with Raspberry Pi"
+
+tagnames: ''
 author: ajguthrie99
 path: /notes/ajguthrie99/11-13-2020/learning-how-to-control-arduino-with-raspberry-pi.md
 nid: 25058
@@ -11,7 +13,7 @@ uid: 716372
 
 # Learning How to Control Arduino with Raspberry Pi
 
-by [ajguthrie99](../profile/ajguthrie99) | November 13, 2020 20:29
+by [ajguthrie99](../../../profile/ajguthrie99) | November 13, 2020 20:29
 
 November 13, 2020 20:29 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Dual camera kit electronics"\ntagnames: 'near-infrared-camera'
+title: "Dual camera kit electronics"
+
+tagnames: 'near-infrared-camera'
 author: warren
 path: /wiki/dual-camera-kit-electronics.md
 nid: 1796

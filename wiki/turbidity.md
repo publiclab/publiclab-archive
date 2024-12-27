@@ -1,5 +1,7 @@
 ---
-title: "Assess Turbidity in Water"\ntagnames: 'agriculture, mining, water-quality, turbidity, method, parent:water-quality'
+title: "Assess Turbidity in Water"
+
+tagnames: 'agriculture, mining, water-quality, turbidity, method, parent:water-quality'
 author: warren
 path: /wiki/turbidity.md
 nid: 14953

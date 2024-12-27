@@ -1,5 +1,7 @@
 ---
-title: "Lessons from mapping Bourj Al Shamali refugee camp in Lebanon"\ntagnames: 'balloon-mapping, kite-mapping, blog, barnstar:basic, with:firas, with:mustafa10, lebanon, middle-east, bourjalshamali, with:mustapha, with:amal, first-time-poster'
+title: "Lessons from mapping Bourj Al Shamali refugee camp in Lebanon"
+
+tagnames: 'balloon-mapping, kite-mapping, blog, barnstar:basic, with:firas, with:mustafa10, lebanon, middle-east, bourjalshamali, with:mustapha, with:amal, first-time-poster'
 author: clauds
 path: /notes/claudsmm/08-23-2015/lessons-from-mapping-bourj-al-shamali-refugee-camp.md
 nid: 12161
@@ -11,7 +13,7 @@ uid: 43867
 
 # Lessons from mapping Bourj Al Shamali refugee camp in Lebanon
 
-by [clauds](../profile/clauds) | August 23, 2015 00:05
+by [clauds](../../../profile/clauds) | August 23, 2015 00:05
 
 August 23, 2015 00:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [blog](../tag/blog), [barnstar:basic](../tag/barnstar:basic), [with:firas](../tag/with:firas), [with:mustafa10](../tag/with:mustafa10), [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [bourjalshamali](../tag/bourjalshamali), [with:mustapha](../tag/with:mustapha), [with:amal](../tag/with:amal), [first-time-poster](../tag/first-time-poster)
 

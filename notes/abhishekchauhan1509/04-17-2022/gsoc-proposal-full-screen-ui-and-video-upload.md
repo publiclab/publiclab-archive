@@ -1,5 +1,7 @@
 ---
-title: "GSoC"proposal: Full-screen UI and video upload "\ntagnames: 'software, gsoc, soc, first-time-poster, gsoc-2022, gsoc-2022-proposals'
+title: "GSoC"proposal: Full-screen UI and video upload "
+
+tagnames: 'software, gsoc, soc, first-time-poster, gsoc-2022, gsoc-2022-proposals'
 author: abhishekchauhan1509
 path: /notes/abhishekchauhan1509/04-17-2022/gsoc-proposal-full-screen-ui-and-video-upload.md
 nid: 30443
@@ -11,7 +13,7 @@ uid: 794981
 
 # GSoC"proposal: Full-screen UI and video upload 
 
-by [abhishekchauhan1509](../profile/abhishekchauhan1509) | April 17, 2022 01:09
+by [abhishekchauhan1509](../../../profile/abhishekchauhan1509) | April 17, 2022 01:09
 
 April 17, 2022 01:09 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [first-time-poster](../tag/first-time-poster), [gsoc-2022](../tag/gsoc-2022), [gsoc-2022-proposals](../tag/gsoc-2022-proposals)
 

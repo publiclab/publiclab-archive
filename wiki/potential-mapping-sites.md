@@ -1,5 +1,7 @@
 ---
-title: "Potential Mapping Sites"\ntagnames: 'kite-aerial-photography, mapping'
+title: "Potential Mapping Sites"
+
+tagnames: 'kite-aerial-photography, mapping'
 author: danbeavers
 path: /wiki/potential-mapping-sites.md
 nid: 5030

@@ -1,5 +1,7 @@
 ---
-title: "An Arduino Based UnderWater Sensor Platform"\ntagnames: 'arduino, education, temperature, pvc, water-quality, water, water-monitoring, water-quality-sensor, underwater, datalogger, conductivity, pressure, logger, barnstar:basic, activity:water-sensors, datalogger-option'
+title: "An Arduino Based UnderWater Sensor Platform"
+
+tagnames: 'arduino, education, temperature, pvc, water-quality, water, water-monitoring, water-quality-sensor, underwater, datalogger, conductivity, pressure, logger, barnstar:basic, activity:water-sensors, datalogger-option'
 author: EdMallon
 path: /notes/EdMallon/02-11-2014/an-arduino-based-underwater-sensor-platform.md
 nid: 10026
@@ -11,7 +13,7 @@ uid: 420750
 
 # An Arduino Based UnderWater Sensor Platform
 
-by [EdMallon](../profile/EdMallon) | February 11, 2014 16:20
+by [EdMallon](../../../profile/EdMallon) | February 11, 2014 16:20
 
 February 11, 2014 16:20 | Tags: [arduino](../tag/arduino), [education](../tag/education), [temperature](../tag/temperature), [pvc](../tag/pvc), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [underwater](../tag/underwater), [datalogger](../tag/datalogger), [conductivity](../tag/conductivity), [pressure](../tag/pressure), [logger](../tag/logger), [barnstar:basic](../tag/barnstar:basic), [activity:water-sensors](../tag/activity:water-sensors), [datalogger-option](../tag/datalogger-option)
 

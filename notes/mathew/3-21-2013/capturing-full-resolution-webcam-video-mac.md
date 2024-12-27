@@ -1,5 +1,7 @@
 ---
-title: "Capturing full resolution webcam video on a mac"\ntagnames: 'near-infrared-camera, spectrometer, spectrometry, desktop-spectrometer'
+title: "Capturing full resolution webcam video on a mac"
+
+tagnames: 'near-infrared-camera, spectrometer, spectrometry, desktop-spectrometer'
 author: mathew
 path: /notes/mathew/3-21-2013/capturing-full-resolution-webcam-video-mac.md
 nid: 6464
@@ -11,7 +13,7 @@ uid: 4
 
 # Capturing full resolution webcam video on a mac
 
-by [mathew](../profile/mathew) | March 21, 2013 22:07
+by [mathew](../../../profile/mathew) | March 21, 2013 22:07
 
 March 21, 2013 22:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [desktop-spectrometer](../tag/desktop-spectrometer)
 

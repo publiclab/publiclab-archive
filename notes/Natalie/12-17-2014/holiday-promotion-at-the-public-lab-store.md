@@ -1,5 +1,7 @@
 ---
-title: "Holiday Promotion at the Public Lab Store"\ntagnames: 'sales'
+title: "Holiday Promotion at the Public Lab Store"
+
+tagnames: 'sales'
 author: natalie
 path: /notes/Natalie/12-17-2014/holiday-promotion-at-the-public-lab-store.md
 nid: 11478
@@ -11,7 +13,7 @@ uid: 424454
 
 # Holiday Promotion at the Public Lab Store
 
-by [natalie](../profile/natalie) | December 17, 2014 20:31
+by [natalie](../../../profile/natalie) | December 17, 2014 20:31
 
 December 17, 2014 20:31 | Tags: [sales](../tag/sales)
 

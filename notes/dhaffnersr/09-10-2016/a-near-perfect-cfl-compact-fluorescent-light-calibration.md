@@ -1,5 +1,7 @@
 ---
-title: "A Near Perfect CFL (compact fluorescent light) Calibration"\ntagnames: ''
+title: "A Near Perfect CFL (compact fluorescent light) Calibration"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/09-10-2016/a-near-perfect-cfl-compact-fluorescent-light-calibration.md
 nid: 13439
@@ -11,7 +13,7 @@ uid: 461120
 
 # A Near Perfect CFL (compact fluorescent light) Calibration
 
-by [dhaffnersr](../profile/dhaffnersr) | September 10, 2016 09:52
+by [dhaffnersr](../../../profile/dhaffnersr) | September 10, 2016 09:52
 
 September 10, 2016 09:52 | Tags: 
 

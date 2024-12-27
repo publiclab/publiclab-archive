@@ -1,5 +1,7 @@
 ---
-title: "Winds aloft"\ntagnames: 'balloon-mapping, kite-mapping, arduino, kite-aerial-photography, kite, sensors, wind, saturnv, skyshield, half-spherical, skypod, nano-data-logger, bme280, ublox, response:14551, wind-sensor, rokkaku, series:diy-wind-sensors, skypod-gps-logger, activity:skypod-gps-logger, activity:as220-wind-sensors'
+title: "Winds aloft"
+
+tagnames: 'balloon-mapping, kite-mapping, arduino, kite-aerial-photography, kite, sensors, wind, saturnv, skyshield, half-spherical, skypod, nano-data-logger, bme280, ublox, response:14551, wind-sensor, rokkaku, series:diy-wind-sensors, skypod-gps-logger, activity:skypod-gps-logger, activity:as220-wind-sensors'
 author: cfastie
 path: /notes/cfastie/08-03-2017/winds-aloft.md
 nid: 14713
@@ -11,7 +13,7 @@ uid: 554
 
 # Winds aloft
 
-by [cfastie](../profile/cfastie) | August 03, 2017 01:45
+by [cfastie](../../../profile/cfastie) | August 03, 2017 01:45
 
 August 03, 2017 01:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [sensors](../tag/sensors), [wind](../tag/wind), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [skypod](../tag/skypod), [nano-data-logger](../tag/nano-data-logger), [bme280](../tag/bme280), [ublox](../tag/ublox), [response:14551](../tag/response:14551), [wind-sensor](../tag/wind-sensor), [rokkaku](../tag/rokkaku), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger), [activity:as220-wind-sensors](../tag/activity:as220-wind-sensors)
 

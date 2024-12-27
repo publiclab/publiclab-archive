@@ -1,5 +1,7 @@
 ---
-title: "Alternative solar materials"\ntagnames: ''
+title: "Alternative solar materials"
+
+tagnames: ''
 author: warren
 path: /wiki/alternative-solar-materials.md
 nid: 22839

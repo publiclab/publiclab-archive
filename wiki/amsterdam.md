@@ -1,5 +1,7 @@
 ---
-title: "Amsterdam"\ntagnames: 'waagsociety, amsterdam, netherlands, chapter, list:plots-amsterdam, waag, lat:52.3747158, lng:4.8986166'
+title: "Amsterdam"
+
+tagnames: 'waagsociety, amsterdam, netherlands, chapter, list:plots-amsterdam, waag, lat:52.3747158, lng:4.8986166'
 author: warren
 path: /wiki/amsterdam.md
 nid: 9321

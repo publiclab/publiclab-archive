@@ -1,5 +1,7 @@
 ---
-title: "Mobius dual rig with non-fish-eye lens"\ntagnames: 'kap, mobius-actioncam, juice-bottle-rig, infragram-point-shoot, kap-rigs, photomonitoring, stowaway-delta, non-fish-eye, levitation-delta'
+title: "Mobius dual rig with non-fish-eye lens"
+
+tagnames: 'kap, mobius-actioncam, juice-bottle-rig, infragram-point-shoot, kap-rigs, photomonitoring, stowaway-delta, non-fish-eye, levitation-delta'
 author: patcoyle
 path: /notes/patcoyle/08-03-2015/mobius-dual-rig-with-non-fish-eye-lens.md
 nid: 12116
@@ -11,7 +13,7 @@ uid: 77
 
 # Mobius dual rig with non-fish-eye lens
 
-by [patcoyle](../profile/patcoyle) | August 03, 2015 05:08
+by [patcoyle](../../../profile/patcoyle) | August 03, 2015 05:08
 
 August 03, 2015 05:08 | Tags: [kap](../tag/kap), [mobius-actioncam](../tag/mobius-actioncam), [juice-bottle-rig](../tag/juice-bottle-rig), [infragram-point-shoot](../tag/infragram-point-shoot), [kap-rigs](../tag/kap-rigs), [photomonitoring](../tag/photomonitoring), [stowaway-delta](../tag/stowaway-delta), [non-fish-eye](../tag/non-fish-eye), [levitation-delta](../tag/levitation-delta)
 

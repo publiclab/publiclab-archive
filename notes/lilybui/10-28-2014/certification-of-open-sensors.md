@@ -1,5 +1,7 @@
 ---
-title: "Certification of Open Sensors?"\ntagnames: 'licensing, open-hardware, sensors, licenses, creativecommons, sensor-networks, sensor-journalism'
+title: "Certification of Open Sensors?"
+
+tagnames: 'licensing, open-hardware, sensors, licenses, creativecommons, sensor-networks, sensor-journalism'
 author: lilybui
 path: /notes/lilybui/10-28-2014/certification-of-open-sensors.md
 nid: 11305
@@ -11,7 +13,7 @@ uid: 420662
 
 # Certification of Open Sensors?
 
-by [lilybui](../profile/lilybui) | October 28, 2014 16:42
+by [lilybui](../../../profile/lilybui) | October 28, 2014 16:42
 
 October 28, 2014 16:42 | Tags: [licensing](../tag/licensing), [open-hardware](../tag/open-hardware), [sensors](../tag/sensors), [licenses](../tag/licenses), [creativecommons](../tag/creativecommons), [sensor-networks](../tag/sensor-networks), [sensor-journalism](../tag/sensor-journalism)
 

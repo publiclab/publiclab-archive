@@ -1,5 +1,7 @@
 ---
-title: "Question: How do I save the calibration data?"\ntagnames: 'question:spectral-workbench, answered'
+title: "Question: How do I save the calibration data?"
+
+tagnames: 'question:spectral-workbench, answered'
 author: mokeymark
 path: /notes/mokeymark/02-17-2016/question-how-do-i-save-the-calibration-data.md
 nid: 12701
@@ -9,7 +11,7 @@ uid: 450298
 
 # Question: How do I save the calibration data?
 
-by [mokeymark](../profile/mokeymark) | February 17, 2016 15:05
+by [mokeymark](../../../profile/mokeymark) | February 17, 2016 15:05
 
 February 17, 2016 15:05 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 

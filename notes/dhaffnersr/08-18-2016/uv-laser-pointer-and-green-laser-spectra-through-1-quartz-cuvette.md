@@ -1,5 +1,7 @@
 ---
-title: "UV Laser Pointer and Green Laser Spectra Through 1 Quartz Cuvette"\ntagnames: ''
+title: "UV Laser Pointer and Green Laser Spectra Through 1 Quartz Cuvette"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-18-2016/uv-laser-pointer-and-green-laser-spectra-through-1-quartz-cuvette.md
 nid: 13366
@@ -11,7 +13,7 @@ uid: 461120
 
 # UV Laser Pointer and Green Laser Spectra Through 1 Quartz Cuvette
 
-by [dhaffnersr](../profile/dhaffnersr) | August 18, 2016 21:08
+by [dhaffnersr](../../../profile/dhaffnersr) | August 18, 2016 21:08
 
 August 18, 2016 21:08 | Tags: 
 

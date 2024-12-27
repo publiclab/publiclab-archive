@@ -1,5 +1,7 @@
 ---
-title: "Thermal Fishing Club"\ntagnames: 'thermal-fishing, with:warren'
+title: "Thermal Fishing Club"
+
+tagnames: 'thermal-fishing, with:warren'
 author: liz
 path: /notes/liz/08-12-2014/thermal-fishing-club.md
 nid: 11040
@@ -11,7 +13,7 @@ uid: 7
 
 # Thermal Fishing Club
 
-by [liz](../profile/liz) | August 12, 2014 16:32
+by [liz](../../../profile/liz) | August 12, 2014 16:32
 
 August 12, 2014 16:32 | Tags: [thermal-fishing](../tag/thermal-fishing), [with:warren](../tag/with:warren)
 

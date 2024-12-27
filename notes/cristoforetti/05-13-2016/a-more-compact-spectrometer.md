@@ -1,5 +1,7 @@
 ---
-title: "A more compact spectrometer"\ntagnames: 'spectrometer, spectrometry, italy, diy-spectrometer, webvalley, upgrade:spectrometry, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, first-time-poster'
+title: "A more compact spectrometer"
+
+tagnames: 'spectrometer, spectrometry, italy, diy-spectrometer, webvalley, upgrade:spectrometry, raspberry-pi-spectrometer, activity:raspberry-pi-spectrometer, first-time-poster'
 author: cristoforetti
 path: /notes/cristoforetti/05-13-2016/a-more-compact-spectrometer.md
 nid: 13112
@@ -11,7 +13,7 @@ uid: 470966
 
 # A more compact spectrometer
 
-by [cristoforetti](../profile/cristoforetti) | May 13, 2016 16:59
+by [cristoforetti](../../../profile/cristoforetti) | May 13, 2016 16:59
 
 May 13, 2016 16:59 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [italy](../tag/italy), [diy-spectrometer](../tag/diy-spectrometer), [webvalley](../tag/webvalley), [upgrade:spectrometry](../tag/upgrade:spectrometry), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [first-time-poster](../tag/first-time-poster)
 

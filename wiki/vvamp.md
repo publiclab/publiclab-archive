@@ -1,5 +1,7 @@
 ---
-title: "VVAMP"\ntagnames: 'landfill, air-quality, lang:es, pm, land-use, air-monitoring, particulate-matter, project, bucket, air-quality-projects, project:featured, VVAMP, prompt:vvamp, questions:vvamp'
+title: "VVAMP"
+
+tagnames: 'landfill, air-quality, lang:es, pm, land-use, air-monitoring, particulate-matter, project, bucket, air-quality-projects, project:featured, VVAMP, prompt:vvamp, questions:vvamp'
 author: amocorro
 path: /wiki/vvamp.md
 nid: 26302

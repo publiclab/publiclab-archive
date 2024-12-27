@@ -1,5 +1,7 @@
 ---
-title: "gifs"\ntagnames: ''
+title: "gifs"
+
+tagnames: ''
 author: warren
 path: /wiki/gifs.md
 nid: 17280

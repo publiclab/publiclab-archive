@@ -1,5 +1,7 @@
 ---
-title: "Thermal Camera Hacking Notes"\ntagnames: 'thermal-photography, first-time-poster'
+title: "Thermal Camera Hacking Notes"
+
+tagnames: 'thermal-photography, first-time-poster'
 author: sobers
 path: /notes/sobers/11-28-2011/thermal-camera-hacking.md
 nid: 588
@@ -11,7 +13,7 @@ uid: 371
 
 # Thermal Camera Hacking Notes
 
-by [sobers](../profile/sobers) | November 28, 2011 18:35
+by [sobers](../../../profile/sobers) | November 28, 2011 18:35
 
 November 28, 2011 18:35 | Tags: [thermal-photography](../tag/thermal-photography), [first-time-poster](../tag/first-time-poster)
 

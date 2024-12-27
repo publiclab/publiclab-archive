@@ -1,5 +1,7 @@
 ---
-title: "Sanm LeafKam"\ntagnames: 'near-infrared-camera, nrg, ndvi, nir, vermont, infrared-camera, infragram, plant-health, development'
+title: "Sanm LeafKam"
+
+tagnames: 'near-infrared-camera, nrg, ndvi, nir, vermont, infrared-camera, infragram, plant-health, development'
 author: cfastie
 path: /notes/cfastie/4-14-2013/sanm-leafkam.md
 nid: 6817
@@ -11,7 +13,7 @@ uid: 554
 
 # Sanm LeafKam
 
-by [cfastie](../profile/cfastie) | April 14, 2013 04:18
+by [cfastie](../../../profile/cfastie) | April 14, 2013 04:18
 
 April 14, 2013 04:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared-camera](../tag/infrared-camera), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [development](../tag/development)
 

@@ -1,5 +1,7 @@
 ---
-title: "fido"\ntagnames: 'fido'
+title: "fido"
+
+tagnames: 'fido'
 author: liz
 path: /wiki/fido.md
 nid: 11193

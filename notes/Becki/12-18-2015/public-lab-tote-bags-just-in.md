@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Tote Bags just in!"\ntagnames: 'sustaining-members'
+title: "Public Lab Tote Bags just in!"
+
+tagnames: 'sustaining-members'
 author: Becki
 path: /notes/Becki/12-18-2015/public-lab-tote-bags-just-in.md
 nid: 12533
@@ -11,7 +13,7 @@ uid: 46673
 
 # Public Lab Tote Bags just in!
 
-by [Becki](../profile/Becki) | December 18, 2015 22:19
+by [Becki](../../../profile/Becki) | December 18, 2015 22:19
 
 December 18, 2015 22:19 | Tags: [sustaining-members](../tag/sustaining-members)
 

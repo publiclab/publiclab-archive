@@ -1,5 +1,7 @@
 ---
-title: "SERC"\ntagnames: 'serc, community-kits-prep'
+title: "SERC"
+
+tagnames: 'serc, community-kits-prep'
 author: warren
 path: /wiki/serc.md
 nid: 13988

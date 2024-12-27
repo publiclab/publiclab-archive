@@ -1,5 +1,7 @@
 ---
-title: "code"\ntagnames: 'redirect:9491'
+title: "code"
+
+tagnames: 'redirect:9491'
 author: warren
 path: /wiki/code.md
 nid: 15969

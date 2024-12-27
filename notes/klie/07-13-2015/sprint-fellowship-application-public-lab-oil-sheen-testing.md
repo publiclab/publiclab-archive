@@ -1,5 +1,7 @@
 ---
-title: "Sprint Fellowship Application: Public Lab Oil Sheen Testing"\ntagnames: 'oil-testing-kit, fellows, response:11752, first-time-poster'
+title: "Sprint Fellowship Application: Public Lab Oil Sheen Testing"
+
+tagnames: 'oil-testing-kit, fellows, response:11752, first-time-poster'
 author: klie
 path: /notes/klie/07-13-2015/sprint-fellowship-application-public-lab-oil-sheen-testing.md
 nid: 12055
@@ -11,7 +13,7 @@ uid: 441262
 
 # Sprint Fellowship Application: Public Lab Oil Sheen Testing
 
-by [klie](../profile/klie) | July 13, 2015 19:52
+by [klie](../../../profile/klie) | July 13, 2015 19:52
 
 July 13, 2015 19:52 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [fellows](../tag/fellows), [response:11752](../tag/response:11752), [first-time-poster](../tag/first-time-poster)
 

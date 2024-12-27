@@ -1,5 +1,7 @@
 ---
-title: "Video tutorial: Creating infrared composites of aerial wetlands imagery"\ntagnames: 'near-infrared-camera, video, nrg, activity:multispectral-imaging, activity:infragram, activity:ndvi, activity:nrg'
+title: "Video tutorial: Creating infrared composites of aerial wetlands imagery"
+
+tagnames: 'near-infrared-camera, video, nrg, activity:multispectral-imaging, activity:infragram, activity:ndvi, activity:nrg'
 author: warren
 path: /notes/warren/10-25-2011/video-tutorial-creating-infrared-composites-aerial-wetlands-imagery.md
 nid: 519
@@ -11,7 +13,7 @@ uid: 1
 
 # Video tutorial: Creating infrared composites of aerial wetlands imagery
 
-by [warren](../profile/warren) | October 25, 2011 18:07
+by [warren](../../../profile/warren) | October 25, 2011 18:07
 
 October 25, 2011 18:07 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [nrg](../tag/nrg), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [activity:ndvi](../tag/activity:ndvi), [activity:nrg](../tag/activity:nrg)
 

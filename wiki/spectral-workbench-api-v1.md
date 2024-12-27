@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench API v1"\ntagnames: 'software, spectral-workbench, development, spectral-workbench-api, parent:spectral-workbench-api'
+title: "Spectral Workbench API v1"
+
+tagnames: 'software, spectral-workbench, development, spectral-workbench-api, parent:spectral-workbench-api'
 author: warren
 path: /wiki/spectral-workbench-api-v1.md
 nid: 12626

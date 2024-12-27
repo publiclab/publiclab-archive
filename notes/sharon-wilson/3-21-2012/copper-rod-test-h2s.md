@@ -1,5 +1,7 @@
 ---
-title: "Copper rod test for H2S"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, activity:h2s-copper-pipe'
+title: "Copper rod test for H2S"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, activity:h2s-copper-pipe'
 author: Sharon Wilson
 path: /notes/sharon-wilson/3-21-2012/copper-rod-test-h2s.md
 nid: 1513
@@ -11,7 +13,7 @@ uid: 697
 
 # Copper rod test for H2S
 
-by [Sharon Wilson](../profile/Sharon Wilson) | March 22, 2012 02:20
+by [Sharon Wilson](../../../profile/Sharon Wilson) | March 22, 2012 02:20
 
 March 22, 2012 02:20 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [activity:h2s-copper-pipe](../tag/activity:h2s-copper-pipe)
 

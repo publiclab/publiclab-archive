@@ -1,5 +1,7 @@
 ---
-title: "Design recommendations for postcard research invitation?"\ntagnames: 'design, formaldehyde, indoor-air-quality-monitoring, smart-form, question:design, question:outreach'
+title: "Design recommendations for postcard research invitation?"
+
+tagnames: 'design, formaldehyde, indoor-air-quality-monitoring, smart-form, question:design, question:outreach'
 author: gretchengehrke
 path: /notes/gretchengehrke/03-12-2018/design-recommendations-for-postcard-research-invitation.md
 nid: 15924
@@ -11,7 +13,7 @@ uid: 430549
 
 # Design recommendations for postcard research invitation?
 
-by [gretchengehrke](../profile/gretchengehrke) | March 12, 2018 16:26
+by [gretchengehrke](../../../profile/gretchengehrke) | March 12, 2018 16:26
 
 March 12, 2018 16:26 | Tags: [design](../tag/design), [formaldehyde](../tag/formaldehyde), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [smart-form](../tag/smart-form), [question:design](../tag/question:design), [question:outreach](../tag/question:outreach)
 

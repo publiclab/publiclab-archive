@@ -1,5 +1,7 @@
 ---
-title: "Software for mapping trees?"\ntagnames: 'question:general, first-time-poster'
+title: "Software for mapping trees?"
+
+tagnames: 'question:general, first-time-poster'
 author: icarito
 path: /notes/icarito/07-14-2017/software-for-mapping-trees.md
 nid: 14651
@@ -11,7 +13,7 @@ uid: 448589
 
 # Software for mapping trees?
 
-by [icarito](../profile/icarito) | July 14, 2017 02:55
+by [icarito](../../../profile/icarito) | July 14, 2017 02:55
 
 July 14, 2017 02:55 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 

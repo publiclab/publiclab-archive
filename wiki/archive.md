@@ -1,5 +1,7 @@
 ---
-title: "The PLOTS Archive"\ntagnames: ''
+title: "The PLOTS Archive"
+
+tagnames: ''
 author: warren
 path: /wiki/archive.md
 nid: 267

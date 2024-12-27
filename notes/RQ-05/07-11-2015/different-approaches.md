@@ -1,5 +1,7 @@
 ---
-title: "Different approaches......"\ntagnames: 'ndvi, drone, mobius, uas, luts'
+title: "Different approaches......"
+
+tagnames: 'ndvi, drone, mobius, uas, luts'
 author: RQ-05
 path: /notes/RQ-05/07-11-2015/different-approaches.md
 nid: 12051
@@ -11,7 +13,7 @@ uid: 440673
 
 # Different approaches......
 
-by [RQ-05](../profile/RQ-05) | July 11, 2015 21:15
+by [RQ-05](../../../profile/RQ-05) | July 11, 2015 21:15
 
 July 11, 2015 21:15 | Tags: [ndvi](../tag/ndvi), [drone](../tag/drone), [mobius](../tag/mobius), [uas](../tag/uas), [luts](../tag/luts)
 

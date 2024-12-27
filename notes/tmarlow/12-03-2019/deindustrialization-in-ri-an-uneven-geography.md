@@ -1,5 +1,7 @@
 ---
-title: "Deindustrialization in RI: An Uneven Geography"\ntagnames: 'rhode-island, blog, industry, first-time-poster, employment, brown, unearthing-pvd, unearthing-pvd-analyses, lat:41.826858, lon:-71.401872, deindustrialization'
+title: "Deindustrialization in RI: An Uneven Geography"
+
+tagnames: 'rhode-island, blog, industry, first-time-poster, employment, brown, unearthing-pvd, unearthing-pvd-analyses, lat:41.826858, lon:-71.401872, deindustrialization'
 author: tmarlow
 path: /notes/tmarlow/12-03-2019/deindustrialization-in-ri-an-uneven-geography.md
 nid: 21651
@@ -11,7 +13,7 @@ uid: 635271
 
 # Deindustrialization in RI: An Uneven Geography
 
-by [tmarlow](../profile/tmarlow) | December 03, 2019 21:44
+by [tmarlow](../../../profile/tmarlow) | December 03, 2019 21:44
 
 December 03, 2019 21:44 | Tags: [rhode-island](../tag/rhode-island), [blog](../tag/blog), [industry](../tag/industry), [first-time-poster](../tag/first-time-poster), [employment](../tag/employment), [brown](../tag/brown), [unearthing-pvd](../tag/unearthing-pvd), [unearthing-pvd-analyses](../tag/unearthing-pvd-analyses), [lat:41.826858](../tag/lat:41.826858), [lon:-71.401872](../tag/lon:-71.401872), [deindustrialization](../tag/deindustrialization)
 

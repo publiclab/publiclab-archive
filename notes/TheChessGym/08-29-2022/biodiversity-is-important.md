@@ -1,5 +1,7 @@
 ---
-title: "Biodiversity Is Important "\ntagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
+title: "Biodiversity Is Important "
+
+tagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/08-29-2022/biodiversity-is-important.md
 nid: 34919
@@ -11,7 +13,7 @@ uid: 788868
 
 # Biodiversity Is Important 
 
-by [TheChessGym](../profile/TheChessGym) | August 29, 2022 12:09
+by [TheChessGym](../../../profile/TheChessGym) | August 29, 2022 12:09
 
 August 29, 2022 12:09 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

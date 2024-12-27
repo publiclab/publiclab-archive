@@ -1,5 +1,7 @@
 ---
-title: "Kickstarter Credits"\ntagnames: ''
+title: "Kickstarter Credits"
+
+tagnames: ''
 author: warren
 path: /wiki/kickstarter-credits.md
 nid: 14561

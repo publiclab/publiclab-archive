@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench Tools"\ntagnames: 'fluorescence, spectral-workbench, transmittance, parent:spectral-workbench, wishlist'
+title: "Spectral Workbench Tools"
+
+tagnames: 'fluorescence, spectral-workbench, transmittance, parent:spectral-workbench, wishlist'
 author: warren
 path: /wiki/spectral-workbench-tools.md
 nid: 12286

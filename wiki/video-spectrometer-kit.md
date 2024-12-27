@@ -1,5 +1,7 @@
 ---
-title: "Video Spectrometer Kit"\ntagnames: ''
+title: "Video Spectrometer Kit"
+
+tagnames: ''
 author: warren
 path: /wiki/video-spectrometer-kit.md
 nid: 554

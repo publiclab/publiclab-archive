@@ -1,5 +1,7 @@
 ---
-title: "Knowflow组装（一）——pH和温度监测"\ntagnames: 'arduino, water-sensing, temperature, water-quality, thermal-pollution, barnstar:photo-documentation, arduino-uno, ph, include, data-logging, activity:arduino, knowflow, activity:data-logging, lang:zh, activity:ph, first-time-poster'
+title: "Knowflow组装（一）——pH和温度监测"
+
+tagnames: 'arduino, water-sensing, temperature, water-quality, thermal-pollution, barnstar:photo-documentation, arduino-uno, ph, include, data-logging, activity:arduino, knowflow, activity:data-logging, lang:zh, activity:ph, first-time-poster'
 author: incaking
 path: /notes/incaking/11-29-2017/knowflow-ph.md
 nid: 15258
@@ -11,7 +13,7 @@ uid: 519451
 
 # Knowflow组装（一）——pH和温度监测
 
-by [incaking](../profile/incaking) | November 29, 2017 04:09
+by [incaking](../../../profile/incaking) | November 29, 2017 04:09
 
 November 29, 2017 04:09 | Tags: [arduino](../tag/arduino), [water-sensing](../tag/water-sensing), [temperature](../tag/temperature), [water-quality](../tag/water-quality), [thermal-pollution](../tag/thermal-pollution), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [arduino-uno](../tag/arduino-uno), [ph](../tag/ph), [include](../tag/include), [data-logging](../tag/data-logging), [activity:arduino](../tag/activity:arduino), [knowflow](../tag/knowflow), [activity:data-logging](../tag/activity:data-logging), [lang:zh](../tag/lang:zh), [activity:ph](../tag/activity:ph), [first-time-poster](../tag/first-time-poster)
 

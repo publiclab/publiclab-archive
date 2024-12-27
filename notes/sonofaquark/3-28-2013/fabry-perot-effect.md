@@ -1,5 +1,7 @@
 ---
-title: "Fabry-Perot Effect"\ntagnames: 'spectrometer'
+title: "Fabry-Perot Effect"
+
+tagnames: 'spectrometer'
 author: sonofaquark
 path: /notes/sonofaquark/3-28-2013/fabry-perot-effect.md
 nid: 6581
@@ -9,7 +11,7 @@ uid: 54330
 
 # Fabry-Perot Effect
 
-by [sonofaquark](../profile/sonofaquark) | March 28, 2013 17:56
+by [sonofaquark](../../../profile/sonofaquark) | March 28, 2013 17:56
 
 March 28, 2013 17:56 | Tags: [spectrometer](../tag/spectrometer)
 

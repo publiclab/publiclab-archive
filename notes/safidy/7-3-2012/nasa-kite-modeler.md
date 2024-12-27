@@ -1,5 +1,7 @@
 ---
-title: "Nasa Kite modeler"\ntagnames: 'kite-mapping, safidy-andrianantenaina, nasa, kite-modeler, diy-kite, software'
+title: "Nasa Kite modeler"
+
+tagnames: 'kite-mapping, safidy-andrianantenaina, nasa, kite-modeler, diy-kite, software'
 author: Safidy
 path: /notes/safidy/7-3-2012/nasa-kite-modeler.md
 nid: 2702
@@ -11,7 +13,7 @@ uid: 898
 
 # Nasa Kite modeler
 
-by [Safidy](../profile/Safidy) | July 04, 2012 01:08
+by [Safidy](../../../profile/Safidy) | July 04, 2012 01:08
 
 July 04, 2012 01:08 | Tags: [kite-mapping](../tag/kite-mapping), [safidy-andrianantenaina](../tag/safidy-andrianantenaina), [nasa](../tag/nasa), [kite-modeler](../tag/kite-modeler), [diy-kite](../tag/diy-kite), [software](../tag/software)
 

@@ -1,5 +1,7 @@
 ---
-title: "T and RH compensation for PM measurements?"\ntagnames: 'air-quality, question:air-quality, air-sampling, pm-measurements'
+title: "T and RH compensation for PM measurements?"
+
+tagnames: 'air-quality, question:air-quality, air-sampling, pm-measurements'
 author: subir
 path: /notes/subir/05-28-2020/t-and-rh-compensation-for-pm-measurements.md
 nid: 23732
@@ -9,7 +11,7 @@ uid: 622299
 
 # T and RH compensation for PM measurements?
 
-by [subir](../profile/subir) | May 28, 2020 18:29
+by [subir](../../../profile/subir) | May 28, 2020 18:29
 
 May 28, 2020 18:29 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [air-sampling](../tag/air-sampling), [pm-measurements](../tag/pm-measurements)
 

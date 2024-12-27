@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal: Design a new full-screen UI for Infragram.org"\ntagnames: 'first-time-poster, zoom:3, lat:25.482951, lon:84.990234'
+title: "Outreachy proposal: Design a new full-screen UI for Infragram.org"
+
+tagnames: 'first-time-poster, zoom:3, lat:25.482951, lon:84.990234'
 author: perfectytindia
 path: /notes/perfectytindia/04-22-2022/outreachy-proposal-design-a-new-full-screen-ui-for-infragram-org.md
 nid: 30578
@@ -9,7 +11,7 @@ uid: 795448
 
 # Outreachy proposal: Design a new full-screen UI for Infragram.org
 
-by [perfectytindia](../profile/perfectytindia) | April 22, 2022 14:43
+by [perfectytindia](../../../profile/perfectytindia) | April 22, 2022 14:43
 
 April 22, 2022 14:43 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:3](../tag/zoom:3), [lat:25.482951](../tag/lat:25.482951), [lon:84.990234](../tag/lon:84.990234)
 

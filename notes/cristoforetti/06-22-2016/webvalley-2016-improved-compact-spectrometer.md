@@ -1,5 +1,7 @@
 ---
-title: "WebValley 2016: improved compact spectrometer"\ntagnames: 'spectrometer, spectrometry, raspberry-pi, italy, portable, webvalley, raspberry-pi-spectrometer'
+title: "WebValley 2016: improved compact spectrometer"
+
+tagnames: 'spectrometer, spectrometry, raspberry-pi, italy, portable, webvalley, raspberry-pi-spectrometer'
 author: cristoforetti
 path: /notes/cristoforetti/06-22-2016/webvalley-2016-improved-compact-spectrometer.md
 nid: 13225
@@ -11,7 +13,7 @@ uid: 470966
 
 # WebValley 2016: improved compact spectrometer
 
-by [cristoforetti](../profile/cristoforetti) | June 22, 2016 12:38
+by [cristoforetti](../../../profile/cristoforetti) | June 22, 2016 12:38
 
 June 22, 2016 12:38 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [italy](../tag/italy), [portable](../tag/portable), [webvalley](../tag/webvalley), [raspberry-pi-spectrometer](../tag/raspberry-pi-spectrometer)
 

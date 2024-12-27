@@ -1,5 +1,7 @@
 ---
-title: "Income"\ntagnames: ''
+title: "Income"
+
+tagnames: ''
 author: warren
 path: /wiki/income.md
 nid: 555

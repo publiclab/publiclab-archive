@@ -1,5 +1,7 @@
 ---
-title: "How to Keep a Pollution Log"\ntagnames: 'organizing, air-quality, bucket-brigade, new, getting-started, draft, odor, activity:new, activity:odor, odor-logging, activity:odor-logging, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor'
+title: "How to Keep a Pollution Log"
+
+tagnames: 'organizing, air-quality, bucket-brigade, new, getting-started, draft, odor, activity:new, activity:odor, odor-logging, activity:odor-logging, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor'
 author: kgradow1
 path: /notes/kgradow1/10-21-2020/how-to-keep-a-pollution-log.md
 nid: 24788
@@ -11,7 +13,7 @@ uid: 297929
 
 # How to Keep a Pollution Log
 
-by [kgradow1](../profile/kgradow1) | October 21, 2020 22:00
+by [kgradow1](../../../profile/kgradow1) | October 21, 2020 22:00
 
 October 21, 2020 22:00 | Tags: [organizing](../tag/organizing), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [getting-started](../tag/getting-started), [draft](../tag/draft), [odor](../tag/odor), [activity:new](../tag/activity:new), [activity:odor](../tag/activity:odor), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor)
 

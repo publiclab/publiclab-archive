@@ -1,5 +1,7 @@
 ---
-title: "Bucket Successes "\ntagnames: 'air-quality, bucket-brigade, barnstar:watchdog, with:kgradow1, advocacy, community-organizing, advocacy-pathways, bucket-monitor'
+title: "Bucket Successes "
+
+tagnames: 'air-quality, bucket-brigade, barnstar:watchdog, with:kgradow1, advocacy, community-organizing, advocacy-pathways, bucket-monitor'
 author: A_SCH
 path: /notes/A_SCH/11-08-2020/mobilizing-action-through-community-science-draft.md
 nid: 24957
@@ -11,7 +13,7 @@ uid: 704145
 
 # Bucket Successes 
 
-by [A_SCH](../profile/A_SCH) | November 08, 2020 23:24
+by [A_SCH](../../../profile/A_SCH) | November 08, 2020 23:24
 
 November 08, 2020 23:24 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [barnstar:watchdog](../tag/barnstar:watchdog), [with:kgradow1](../tag/with:kgradow1), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [advocacy-pathways](../tag/advocacy-pathways), [bucket-monitor](../tag/bucket-monitor)
 

@@ -1,5 +1,7 @@
 ---
-title: "Public Lab/open spectrometry presentation"\ntagnames: 'spectrometer, boston, presentations, event, talk, presentation'
+title: "Public Lab/open spectrometry presentation"
+
+tagnames: 'spectrometer, boston, presentations, event, talk, presentation'
 author: warren
 path: /notes/warren/3-22-2013/public-labopen-spectrometry-presentation.md
 nid: 6489
@@ -11,7 +13,7 @@ uid: 1
 
 # Public Lab/open spectrometry presentation
 
-by [warren](../profile/warren) | March 22, 2013 17:01
+by [warren](../../../profile/warren) | March 22, 2013 17:01
 
 March 22, 2013 17:01 | Tags: [spectrometer](../tag/spectrometer), [boston](../tag/boston), [presentations](../tag/presentations), [event](../tag/event), [talk](../tag/talk), [presentation](../tag/presentation)
 

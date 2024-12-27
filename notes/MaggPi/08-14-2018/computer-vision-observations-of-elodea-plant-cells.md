@@ -1,5 +1,7 @@
 ---
-title: "Computer vision  microscope observations of Elodea plant cells"\ntagnames: 'raspberry-pi, barnstar:basic, microscope, computer-vision, gsoc-2018, color-filter'
+title: "Computer vision  microscope observations of Elodea plant cells"
+
+tagnames: 'raspberry-pi, barnstar:basic, microscope, computer-vision, gsoc-2018, color-filter'
 author: MaggPi
 path: /notes/MaggPi/08-14-2018/computer-vision-observations-of-elodea-plant-cells.md
 nid: 16922
@@ -11,7 +13,7 @@ uid: 501996
 
 # Computer vision  microscope observations of Elodea plant cells
 
-by [MaggPi](../profile/MaggPi) | August 14, 2018 03:02
+by [MaggPi](../../../profile/MaggPi) | August 14, 2018 03:02
 
 August 14, 2018 03:02 | Tags: [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [microscope](../tag/microscope), [computer-vision](../tag/computer-vision), [gsoc-2018](../tag/gsoc-2018), [color-filter](../tag/color-filter)
 

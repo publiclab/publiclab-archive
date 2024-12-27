@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal:Design a new full-screen UI for Infragram.org"\ntagnames: 'software, outreachy, first-time-poster, zoom:11, outreachy-2022, outreachy-summer-2022, lat:23.830576, lon:91.288146'
+title: "Outreachy proposal:Design a new full-screen UI for Infragram.org"
+
+tagnames: 'software, outreachy, first-time-poster, zoom:11, outreachy-2022, outreachy-summer-2022, lat:23.830576, lon:91.288146'
 author: SomyaSinghal
 path: /notes/SomyaSinghal/04-21-2022/outreachy-proposal-design-a-new-full-screen-ui-for-infragram-org.md
 nid: 30543
@@ -11,7 +13,7 @@ uid: 792904
 
 # Outreachy proposal:Design a new full-screen UI for Infragram.org
 
-by [SomyaSinghal](../profile/SomyaSinghal) | April 21, 2022 11:11
+by [SomyaSinghal](../../../profile/SomyaSinghal) | April 21, 2022 11:11
 
 April 21, 2022 11:11 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:11](../tag/zoom:11), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lat:23.830576](../tag/lat:23.830576), [lon:91.288146](../tag/lon:91.288146)
 

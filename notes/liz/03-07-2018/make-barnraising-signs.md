@@ -1,5 +1,7 @@
 ---
-title: "Make Open Space signs for an event like the Barnraising"\ntagnames: 'barnraising, activity:barnraising, activity:night-before-barnraising'
+title: "Make Open Space signs for an event like the Barnraising"
+
+tagnames: 'barnraising, activity:barnraising, activity:night-before-barnraising'
 author: liz
 path: /notes/liz/03-07-2018/make-barnraising-signs.md
 nid: 15881
@@ -11,7 +13,7 @@ uid: 7
 
 # Make Open Space signs for an event like the Barnraising
 
-by [liz](../profile/liz) | March 07, 2018 20:28
+by [liz](../../../profile/liz) | March 07, 2018 20:28
 
 March 07, 2018 20:28 | Tags: [barnraising](../tag/barnraising), [activity:barnraising](../tag/activity:barnraising), [activity:night-before-barnraising](../tag/activity:night-before-barnraising)
 

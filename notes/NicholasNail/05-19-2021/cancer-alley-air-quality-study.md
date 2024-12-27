@@ -1,5 +1,7 @@
 ---
-title: "Cancer Alley Air Quality Study"\ntagnames: 'air-quality, oxygen, carbon-dioxide, project, lat:30, lon:-91, study, zoom:6, cancer-alley, with:owentaylor, with:duynguyen'
+title: "Cancer Alley Air Quality Study"
+
+tagnames: 'air-quality, oxygen, carbon-dioxide, project, lat:30, lon:-91, study, zoom:6, cancer-alley, with:owentaylor, with:duynguyen'
 author: NicholasNail
 path: /notes/NicholasNail/05-19-2021/cancer-alley-air-quality-study.md
 nid: 26646
@@ -11,7 +13,7 @@ uid: 750432
 
 # Cancer Alley Air Quality Study
 
-by [NicholasNail](../profile/NicholasNail) | May 19, 2021 16:27
+by [NicholasNail](../../../profile/NicholasNail) | May 19, 2021 16:27
 
 May 19, 2021 16:27 | Tags: [air-quality](../tag/air-quality), [oxygen](../tag/oxygen), [carbon-dioxide](../tag/carbon-dioxide), [project](../tag/project), [lat:30](../tag/lat:30), [lon:-91](../tag/lon:-91), [study](../tag/study), [zoom:6](../tag/zoom:6), [cancer-alley](../tag/cancer-alley), [with:owentaylor](../tag/with:owentaylor), [with:duynguyen](../tag/with:duynguyen)
 

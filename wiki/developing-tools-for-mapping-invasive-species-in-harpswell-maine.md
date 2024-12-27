@@ -1,5 +1,7 @@
 ---
-title: "Developing Tools for Mapping Invasive Species in Harpswell Maine"\ntagnames: 'grassrootsmapping, citizen-science, invasives, invasive-species, civic-hacking'
+title: "Developing Tools for Mapping Invasive Species in Harpswell Maine"
+
+tagnames: 'grassrootsmapping, citizen-science, invasives, invasive-species, civic-hacking'
 author: ajawitz
 path: /wiki/developing-tools-for-mapping-invasive-species-in-harpswell-maine.md
 nid: 10009

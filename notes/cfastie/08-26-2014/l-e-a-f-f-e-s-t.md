@@ -1,5 +1,7 @@
 ---
-title: "L E A F F E S T"\ntagnames: 'near-infrared-camera, spectrometer, vermont, oil-spill-toolkit, leaffest, event, infragram, northeast, leaffest2014'
+title: "L E A F F E S T"
+
+tagnames: 'near-infrared-camera, spectrometer, vermont, oil-spill-toolkit, leaffest, event, infragram, northeast, leaffest2014'
 author: cfastie
 path: /notes/cfastie/08-26-2014/l-e-a-f-f-e-s-t.md
 nid: 11076
@@ -11,7 +13,7 @@ uid: 554
 
 # L E A F F E S T
 
-by [cfastie](../profile/cfastie) | August 26, 2014 02:45
+by [cfastie](../../../profile/cfastie) | August 26, 2014 02:45
 
 August 26, 2014 02:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [oil-spill-toolkit](../tag/oil-spill-toolkit), [leaffest](../tag/leaffest), [event](../tag/event), [infragram](../tag/infragram), [northeast](../tag/northeast), [leaffest2014](../tag/leaffest2014)
 

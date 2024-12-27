@@ -1,5 +1,7 @@
 ---
-title: "First thermal photo"\ntagnames: 'thermal-photography, thermal-camera, scanning'
+title: "First thermal photo"
+
+tagnames: 'thermal-photography, thermal-camera, scanning'
 author: warren
 path: /notes/warren/2-20-2011/first-thermal-photo.md
 nid: 93
@@ -11,7 +13,7 @@ uid: 1
 
 # First thermal photo
 
-by [warren](../profile/warren) | February 20, 2011 16:20
+by [warren](../../../profile/warren) | February 20, 2011 16:20
 
 February 20, 2011 16:20 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-camera](../tag/thermal-camera), [scanning](../tag/scanning)
 

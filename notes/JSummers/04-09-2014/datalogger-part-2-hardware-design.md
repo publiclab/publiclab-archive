@@ -1,5 +1,7 @@
 ---
-title: "DataLogger: Part 2, Hardware design"\ntagnames: 'datalogger, datalogger-option'
+title: "DataLogger: Part 2, Hardware design"
+
+tagnames: 'datalogger, datalogger-option'
 author: JSummers
 path: /notes/JSummers/04-09-2014/datalogger-part-2-hardware-design.md
 nid: 10288
@@ -11,7 +13,7 @@ uid: 304279
 
 # DataLogger: Part 2, Hardware design
 
-by [JSummers](../profile/JSummers) | April 09, 2014 16:33
+by [JSummers](../../../profile/JSummers) | April 09, 2014 16:33
 
 April 09, 2014 16:33 | Tags: [datalogger](../tag/datalogger), [datalogger-option](../tag/datalogger-option)
 

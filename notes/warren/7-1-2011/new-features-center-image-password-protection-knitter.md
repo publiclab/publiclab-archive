@@ -1,5 +1,7 @@
 ---
-title: "New features: center on image, password protection in Knitter"\ntagnames: ''
+title: "New features: center on image, password protection in Knitter"
+
+tagnames: ''
 author: warren
 path: /notes/warren/7-1-2011/new-features-center-image-password-protection-knitter.md
 nid: 366
@@ -11,7 +13,7 @@ uid: 1
 
 # New features: center on image, password protection in Knitter
 
-by [warren](../profile/warren) | July 01, 2011 11:50
+by [warren](../../../profile/warren) | July 01, 2011 11:50
 
 July 01, 2011 11:50 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Workshop IX: What Story Does Our Data Tell?"\ntagnames: 'education'
+title: "Workshop IX: What Story Does Our Data Tell?"
+
+tagnames: 'education'
 author: purl
 path: /notes/purl/02-02-2021/workshop-ix-what-story-does-our-data-tell.md
 nid: 25585
@@ -11,7 +13,7 @@ uid: 736598
 
 # Workshop IX: What Story Does Our Data Tell?
 
-by [purl](../profile/purl) | February 02, 2021 15:27
+by [purl](../../../profile/purl) | February 02, 2021 15:27
 
 February 02, 2021 15:27 | Tags: [education](../tag/education)
 

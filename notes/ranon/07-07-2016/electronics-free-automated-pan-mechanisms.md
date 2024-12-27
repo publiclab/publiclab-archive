@@ -1,5 +1,7 @@
 ---
-title: "Electronics-Free Automated Pan Mechanisms"\ntagnames: 'kite-aerial-photography, kite, kap, photo-rig, panorama, autokap, kap-rigs, jerkpan, reconfigurable-rig'
+title: "Electronics-Free Automated Pan Mechanisms"
+
+tagnames: 'kite-aerial-photography, kite, kap, photo-rig, panorama, autokap, kap-rigs, jerkpan, reconfigurable-rig'
 author: ranon
 path: /notes/ranon/07-07-2016/electronics-free-automated-pan-mechanisms.md
 nid: 13268
@@ -11,7 +13,7 @@ uid: 477060
 
 # Electronics-Free Automated Pan Mechanisms
 
-by [ranon](../profile/ranon) | July 07, 2016 21:52
+by [ranon](../../../profile/ranon) | July 07, 2016 21:52
 
 July 07, 2016 21:52 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [panorama](../tag/panorama), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [jerkpan](../tag/jerkpan), [reconfigurable-rig](../tag/reconfigurable-rig)
 

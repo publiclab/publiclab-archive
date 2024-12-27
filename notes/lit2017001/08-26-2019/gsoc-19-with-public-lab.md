@@ -1,5 +1,7 @@
 ---
-title: "GSoC'19 with Public Lab"\ntagnames: 'google-summer-of-code, gsoc-19, soc-19, gsoc-final-eval, gsoc-2019-final-report'
+title: "GSoC'19 with Public Lab"
+
+tagnames: 'google-summer-of-code, gsoc-19, soc-19, gsoc-final-eval, gsoc-2019-final-report'
 author: lit2017001
 path: /notes/lit2017001/08-26-2019/gsoc-19-with-public-lab.md
 nid: 20682
@@ -9,7 +11,7 @@ uid: 577890
 
 # GSoC'19 with Public Lab
 
-by [lit2017001](../profile/lit2017001) | August 26, 2019 16:13
+by [lit2017001](../../../profile/lit2017001) | August 26, 2019 16:13
 
 August 26, 2019 16:13 | Tags: [google-summer-of-code](../tag/google-summer-of-code), [gsoc-19](../tag/gsoc-19), [soc-19](../tag/soc-19), [gsoc-final-eval](../tag/gsoc-final-eval), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 

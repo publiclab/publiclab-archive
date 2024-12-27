@@ -1,5 +1,7 @@
 ---
-title: "Rosco filters"\ntagnames: 'roco-filter-colour-color-gel'
+title: "Rosco filters"
+
+tagnames: 'roco-filter-colour-color-gel'
 author: taosubmarines
 path: /wiki/rosco-filters.md
 nid: 10168

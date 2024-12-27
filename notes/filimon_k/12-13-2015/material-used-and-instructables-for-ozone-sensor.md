@@ -1,5 +1,7 @@
 ---
-title: "Material used and instructables (for ozone sensor)"\ntagnames: ''
+title: "Material used and instructables (for ozone sensor)"
+
+tagnames: ''
 author: filimon_k
 path: /notes/filimon_k/12-13-2015/material-used-and-instructables-for-ozone-sensor.md
 nid: 12510
@@ -9,7 +11,7 @@ uid: 460113
 
 # Material used and instructables (for ozone sensor)
 
-by [filimon_k](../profile/filimon_k) | December 13, 2015 20:20
+by [filimon_k](../../../profile/filimon_k) | December 13, 2015 20:20
 
 December 13, 2015 20:20 | Tags: 
 

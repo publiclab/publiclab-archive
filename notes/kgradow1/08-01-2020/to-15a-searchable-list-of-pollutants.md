@@ -1,5 +1,7 @@
 ---
-title: "What kinds of chemicals can the bucket test for?"\ntagnames: 'epa, air-quality, bucket-brigade, vocs, lon:-71, lat:42, zoom:6, bucket-monitor'
+title: "What kinds of chemicals can the bucket test for?"
+
+tagnames: 'epa, air-quality, bucket-brigade, vocs, lon:-71, lat:42, zoom:6, bucket-monitor'
 author: kgradow1
 path: /notes/kgradow1/08-01-2020/to-15a-searchable-list-of-pollutants.md
 nid: 24245
@@ -11,7 +13,7 @@ uid: 297929
 
 # What kinds of chemicals can the bucket test for?
 
-by [kgradow1](../profile/kgradow1) | August 01, 2020 12:51
+by [kgradow1](../../../profile/kgradow1) | August 01, 2020 12:51
 
 August 01, 2020 12:51 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [vocs](../tag/vocs), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor)
 

@@ -1,5 +1,7 @@
 ---
-title: "Sample curriculum:  All about light"\ntagnames: ''
+title: "Sample curriculum:  All about light"
+
+tagnames: ''
 author: kgradow1
 path: /wiki/sample-curriculum-all-about-light.md
 nid: 9411

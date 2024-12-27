@@ -1,5 +1,7 @@
 ---
-title: "Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity "\ntagnames: 'event, habitat, biodiversity, hidden:response, response:14179'
+title: "Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity "
+
+tagnames: 'event, habitat, biodiversity, hidden:response, response:14179'
 author: alcmarfiller51
 path: /notes/alcmarfiller51/05-30-2017/aerial-mapping-project-biodiversity-mapping-of-the-diamond-hitch-vicinity.md
 nid: 14244
@@ -11,7 +13,7 @@ uid: 508248
 
 # Aerial Mapping Project: Biodiversity Mapping of the Diamond Hitch Vicinity 
 
-by [alcmarfiller51](../profile/alcmarfiller51) | May 30, 2017 16:21
+by [alcmarfiller51](../../../profile/alcmarfiller51) | May 30, 2017 16:21
 
 May 30, 2017 16:21 | Tags: [event](../tag/event), [habitat](../tag/habitat), [biodiversity](../tag/biodiversity), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179)
 

@@ -1,5 +1,7 @@
 ---
-title: "Homemade Raman spectrometer"\ntagnames: 'spectrometer, raman, spectroscopy, homemade'
+title: "Homemade Raman spectrometer"
+
+tagnames: 'spectrometer, raman, spectroscopy, homemade'
 author: homechemist
 path: /notes/homechemist/08-16-2017/homemade-raman-spectrometer.md
 nid: 14761
@@ -11,7 +13,7 @@ uid: 212574
 
 # Homemade Raman spectrometer
 
-by [homechemist](../profile/homechemist) | August 16, 2017 20:32
+by [homechemist](../../../profile/homechemist) | August 16, 2017 20:32
 
 August 16, 2017 20:32 | Tags: [spectrometer](../tag/spectrometer), [raman](../tag/raman), [spectroscopy](../tag/spectroscopy), [homemade](../tag/homemade)
 

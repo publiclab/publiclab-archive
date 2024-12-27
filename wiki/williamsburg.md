@@ -1,5 +1,7 @@
 ---
-title: "williamsburg"\ntagnames: 'new-york-city, garden, northeast, southside, williamsburg, parent:new-york-city'
+title: "williamsburg"
+
+tagnames: 'new-york-city, garden, northeast, southside, williamsburg, parent:new-york-city'
 author: liz
 path: /wiki/williamsburg.md
 nid: 10444

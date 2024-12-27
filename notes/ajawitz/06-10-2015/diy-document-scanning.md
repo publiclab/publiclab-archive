@@ -1,5 +1,7 @@
 ---
-title: "DIY Document Scanning"\ntagnames: 'archival, tool, open_source_hardware, diybookscanner, book-scanning'
+title: "DIY Document Scanning"
+
+tagnames: 'archival, tool, open_source_hardware, diybookscanner, book-scanning'
 author: ajawitz
 path: /notes/ajawitz/06-10-2015/diy-document-scanning.md
 nid: 11966
@@ -11,7 +13,7 @@ uid: 294634
 
 # DIY Document Scanning
 
-by [ajawitz](../profile/ajawitz) | June 10, 2015 18:56
+by [ajawitz](../../../profile/ajawitz) | June 10, 2015 18:56
 
 June 10, 2015 18:56 | Tags: [archival](../tag/archival), [tool](../tag/tool), [open_source_hardware](../tag/open_source_hardware), [diybookscanner](../tag/diybookscanner), [book-scanning](../tag/book-scanning)
 

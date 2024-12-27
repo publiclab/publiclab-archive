@@ -1,5 +1,7 @@
 ---
-title: "Thermal Fishing Bob Temperature Measurement Speed"\ntagnames: 'thermal-imaging, thermal-fishing-bob'
+title: "Thermal Fishing Bob Temperature Measurement Speed"
+
+tagnames: 'thermal-imaging, thermal-fishing-bob'
 author: neilhendrick
 path: /notes/neilhendrick/06-11-2015/thermal-fishing-bob-temperature-measurement-speed.md
 nid: 11974
@@ -9,7 +11,7 @@ uid: 421122
 
 # Thermal Fishing Bob Temperature Measurement Speed
 
-by [neilhendrick](../profile/neilhendrick) | June 11, 2015 22:20
+by [neilhendrick](../../../profile/neilhendrick) | June 11, 2015 22:20
 
 June 11, 2015 22:20 | Tags: [thermal-imaging](../tag/thermal-imaging), [thermal-fishing-bob](../tag/thermal-fishing-bob)
 

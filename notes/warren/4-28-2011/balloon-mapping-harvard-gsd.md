@@ -1,5 +1,7 @@
 ---
-title: "Balloon Mapping Harvard GSD"\ntagnames: 'balloon-mapping, boston, massachusetts, northeast'
+title: "Balloon Mapping Harvard GSD"
+
+tagnames: 'balloon-mapping, boston, massachusetts, northeast'
 author: warren
 path: /notes/warren/4-28-2011/balloon-mapping-harvard-gsd.md
 nid: 202
@@ -11,7 +13,7 @@ uid: 1
 
 # Balloon Mapping Harvard GSD
 
-by [warren](../profile/warren) | April 28, 2011 19:11
+by [warren](../../../profile/warren) | April 28, 2011 19:11
 
 April 28, 2011 19:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [boston](../tag/boston), [massachusetts](../tag/massachusetts), [northeast](../tag/northeast)
 

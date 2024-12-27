@@ -1,5 +1,7 @@
 ---
-title: "Raspberry Pi-in-the-sky"\ntagnames: 'balloon-mapping, kite-mapping, photo-rig, wireless, remote, raspberry-pi, rpi, pi-camera, raspberry-pi-cameras, activity:pi-camera, first-time-poster'
+title: "Raspberry Pi-in-the-sky"
+
+tagnames: 'balloon-mapping, kite-mapping, photo-rig, wireless, remote, raspberry-pi, rpi, pi-camera, raspberry-pi-cameras, activity:pi-camera, first-time-poster'
 author: donblair
 path: /notes/donblair/9-20-2012/raspberry-pi-sky.md
 nid: 3908
@@ -11,7 +13,7 @@ uid: 43651
 
 # Raspberry Pi-in-the-sky
 
-by [donblair](../profile/donblair) | September 20, 2012 13:54
+by [donblair](../../../profile/donblair) | September 20, 2012 13:54
 
 September 20, 2012 13:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [photo-rig](../tag/photo-rig), [wireless](../tag/wireless), [remote](../tag/remote), [raspberry-pi](../tag/raspberry-pi), [rpi](../tag/rpi), [pi-camera](../tag/pi-camera), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:pi-camera](../tag/activity:pi-camera), [first-time-poster](../tag/first-time-poster)
 

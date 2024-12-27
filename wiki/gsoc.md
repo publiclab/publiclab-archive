@@ -1,5 +1,7 @@
 ---
-title: "Summer of Code programs"\ntagnames: 'gsoc, list:plots-gsoc, developers, parent:developers, soc-2017, questions, soc-2018, outreachy-2018, soc-2019, outreachy-2019, pin:gsoc, pin:soc, pin:outreachy'
+title: "Summer of Code programs"
+
+tagnames: 'gsoc, list:plots-gsoc, developers, parent:developers, soc-2017, questions, soc-2018, outreachy-2018, soc-2019, outreachy-2019, pin:gsoc, pin:soc, pin:outreachy'
 author: warren
 path: /wiki/gsoc.md
 nid: 7963

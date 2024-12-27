@@ -1,5 +1,7 @@
 ---
-title: "Are there any charts useful for describing the way pollutants smell?"\ntagnames: 'chart, question:question, odor, smell, pollutant'
+title: "Are there any charts useful for describing the way pollutants smell?"
+
+tagnames: 'chart, question:question, odor, smell, pollutant'
 author: stevie
 path: /notes/stevie/01-18-2019/are-there-any-charts-useful-for-describing-the-way-pollutants-smell.md
 nid: 18141
@@ -9,7 +11,7 @@ uid: 422561
 
 # Are there any charts useful for describing the way pollutants smell?
 
-by [stevie](../profile/stevie) | January 18, 2019 20:22
+by [stevie](../../../profile/stevie) | January 18, 2019 20:22
 
 January 18, 2019 20:22 | Tags: [chart](../tag/chart), [question:question](../tag/question:question), [odor](../tag/odor), [smell](../tag/smell), [pollutant](../tag/pollutant)
 

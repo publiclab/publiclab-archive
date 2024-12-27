@@ -1,5 +1,7 @@
 ---
-title: "Riffle: one-sided pcb w/ breakaway mounting tabs"\ntagnames: 'riffle'
+title: "Riffle: one-sided pcb w/ breakaway mounting tabs"
+
+tagnames: 'riffle'
 author: donblair
 path: /notes/donblair/11-02-2015/riffle-one-sided-pcb-w-breakaway-mounting-tabs.md
 nid: 12356
@@ -11,7 +13,7 @@ uid: 43651
 
 # Riffle: one-sided pcb w/ breakaway mounting tabs
 
-by [donblair](../profile/donblair) | November 02, 2015 19:20
+by [donblair](../../../profile/donblair) | November 02, 2015 19:20
 
 November 02, 2015 19:20 | Tags: [riffle](../tag/riffle)
 

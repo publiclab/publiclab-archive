@@ -1,5 +1,7 @@
 ---
-title: "Flame testing metal salts"\ntagnames: 'spectrometer, boston, education, partsandcrafts, curriculum, youth, somerville, massachusetts, flame, parts-and-crafts, aluminum, response:4406, copper, sodium, iron, emission-spectra, flame-test, strontium, potassium, activity:spectrometry, time:3h, difficulty:medium, category:observe, activity:education, activity:science-fair, activity:classroom, activity:curriculum, activity:nitrogen, fire-science'
+title: "Flame testing metal salts"
+
+tagnames: 'spectrometer, boston, education, partsandcrafts, curriculum, youth, somerville, massachusetts, flame, parts-and-crafts, aluminum, response:4406, copper, sodium, iron, emission-spectra, flame-test, strontium, potassium, activity:spectrometry, time:3h, difficulty:medium, category:observe, activity:education, activity:science-fair, activity:classroom, activity:curriculum, activity:nitrogen, fire-science'
 author: kgradow1
 path: /notes/kgradow1/10-19-2015/pyrotechnics-101-flame-testing-metal-salts.md
 nid: 12319
@@ -11,7 +13,7 @@ uid: 297929
 
 # Flame testing metal salts
 
-by [kgradow1](../profile/kgradow1) | October 19, 2015 23:56
+by [kgradow1](../../../profile/kgradow1) | October 19, 2015 23:56
 
 October 19, 2015 23:56 | Tags: [spectrometer](../tag/spectrometer), [boston](../tag/boston), [education](../tag/education), [partsandcrafts](../tag/partsandcrafts), [curriculum](../tag/curriculum), [youth](../tag/youth), [somerville](../tag/somerville), [massachusetts](../tag/massachusetts), [flame](../tag/flame), [parts-and-crafts](../tag/parts-and-crafts), [aluminum](../tag/aluminum), [response:4406](../tag/response:4406), [copper](../tag/copper), [sodium](../tag/sodium), [iron](../tag/iron), [emission-spectra](../tag/emission-spectra), [flame-test](../tag/flame-test), [strontium](../tag/strontium), [potassium](../tag/potassium), [activity:spectrometry](../tag/activity:spectrometry), [time:3h](../tag/time:3h), [difficulty:medium](../tag/difficulty:medium), [category:observe](../tag/category:observe), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [activity:curriculum](../tag/activity:curriculum), [activity:nitrogen](../tag/activity:nitrogen), [fire-science](../tag/fire-science)
 

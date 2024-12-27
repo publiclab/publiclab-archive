@@ -1,5 +1,7 @@
 ---
-title: "Echo Hack 2014 "\ntagnames: 'spectrometer, sky, replication:6168'
+title: "Echo Hack 2014 "
+
+tagnames: 'spectrometer, sky, replication:6168'
 author: chrisjob
 path: /notes/chrisjob/05-10-2014/echo-hack-2014.md
 nid: 10463
@@ -11,7 +13,7 @@ uid: 423389
 
 # Echo Hack 2014 
 
-by [chrisjob](../profile/chrisjob) | May 10, 2014 19:03
+by [chrisjob](../../../profile/chrisjob) | May 10, 2014 19:03
 
 May 10, 2014 19:03 | Tags: [spectrometer](../tag/spectrometer), [sky](../tag/sky), [replication:6168](../tag/replication:6168)
 

@@ -1,5 +1,7 @@
 ---
-title: "HDR2: Using Over-Exposure to Your Advantage"\ntagnames: 'spectrometer, hdr, dynamic-range'
+title: "HDR2: Using Over-Exposure to Your Advantage"
+
+tagnames: 'spectrometer, hdr, dynamic-range'
 author: stoft
 path: /notes/stoft/03-09-2014/hdr2-using-over-exposure-to-your-advantage.md
 nid: 10147
@@ -11,7 +13,7 @@ uid: 54025
 
 # HDR2: Using Over-Exposure to Your Advantage
 
-by [stoft](../profile/stoft) | March 09, 2014 19:57
+by [stoft](../../../profile/stoft) | March 09, 2014 19:57
 
 March 09, 2014 19:57 | Tags: [spectrometer](../tag/spectrometer), [hdr](../tag/hdr), [dynamic-range](../tag/dynamic-range)
 

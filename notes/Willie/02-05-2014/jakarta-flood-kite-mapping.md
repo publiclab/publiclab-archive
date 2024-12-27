@@ -1,5 +1,7 @@
 ---
-title: "Jakarta Flood Kite Mapping "\ntagnames: 'kite-mapping, gopro, asia, indonesia, flood, stormwater, jakarta, flooding, activity:kite-mapping, water-level, flood-mapping, location:blurred, mini-camera, first-time-poster, activity:mini-camera, activity:flood-mapping, lat:-6, lon:106'
+title: "Jakarta Flood Kite Mapping "
+
+tagnames: 'kite-mapping, gopro, asia, indonesia, flood, stormwater, jakarta, flooding, activity:kite-mapping, water-level, flood-mapping, location:blurred, mini-camera, first-time-poster, activity:mini-camera, activity:flood-mapping, lat:-6, lon:106'
 author: willie
 path: /notes/Willie/02-05-2014/jakarta-flood-kite-mapping.md
 nid: 10013
@@ -11,7 +13,7 @@ uid: 235174
 
 # Jakarta Flood Kite Mapping 
 
-by [willie](../profile/willie) | February 05, 2014 22:53
+by [willie](../../../profile/willie) | February 05, 2014 22:53
 
 February 05, 2014 22:53 | Tags: [kite-mapping](../tag/kite-mapping), [gopro](../tag/gopro), [asia](../tag/asia), [indonesia](../tag/indonesia), [flood](../tag/flood), [stormwater](../tag/stormwater), [jakarta](../tag/jakarta), [flooding](../tag/flooding), [activity:kite-mapping](../tag/activity:kite-mapping), [water-level](../tag/water-level), [flood-mapping](../tag/flood-mapping), [location:blurred](../tag/location:blurred), [mini-camera](../tag/mini-camera), [first-time-poster](../tag/first-time-poster), [activity:mini-camera](../tag/activity:mini-camera), [activity:flood-mapping](../tag/activity:flood-mapping), [lat:-6](../tag/lat:-6), [lon:106](../tag/lon:106)
 

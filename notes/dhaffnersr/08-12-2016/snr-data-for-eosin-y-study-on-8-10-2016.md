@@ -1,5 +1,7 @@
 ---
-title: "SNR Data for Eosin Y Study on 8/10/2016"\ntagnames: ''
+title: "SNR Data for Eosin Y Study on 8/10/2016"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-12-2016/snr-data-for-eosin-y-study-on-8-10-2016.md
 nid: 13349
@@ -11,7 +13,7 @@ uid: 461120
 
 # SNR Data for Eosin Y Study on 8/10/2016
 
-by [dhaffnersr](../profile/dhaffnersr) | August 12, 2016 16:10
+by [dhaffnersr](../../../profile/dhaffnersr) | August 12, 2016 16:10
 
 August 12, 2016 16:10 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Strava 'heat map' shows re-enclosure of a commons in City Park New Orleans"\ntagnames: 'evidence, big-data, urban-planning, new-orleans, lousiana, enclosure, strava, commons, parks'
+title: "Strava 'heat map' shows re-enclosure of a commons in City Park New Orleans"
+
+tagnames: 'evidence, big-data, urban-planning, new-orleans, lousiana, enclosure, strava, commons, parks'
 author: eustatic
 path: /01-31-2018/strava-heat-map-shows-re-enclosure-of-a-commons-in-city-park-new-orleans.md
 nid: 15648
@@ -9,7 +11,7 @@ uid: 379
 
 # Strava 'heat map' shows re-enclosure of a commons in City Park New Orleans
 
-by [eustatic](../profile/eustatic) | January 31, 2018 00:22
+by [eustatic](../../../profile/eustatic) | January 31, 2018 00:22
 
 January 31, 2018 00:22 | Tags: [evidence](../tag/evidence), [big-data](../tag/big-data), [urban-planning](../tag/urban-planning), [new-orleans](../tag/new-orleans), [lousiana](../tag/lousiana), [enclosure](../tag/enclosure), [strava](../tag/strava), [commons](../tag/commons), [parks](../tag/parks)
 

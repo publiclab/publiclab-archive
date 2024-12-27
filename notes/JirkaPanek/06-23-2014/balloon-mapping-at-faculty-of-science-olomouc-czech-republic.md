@@ -1,5 +1,7 @@
 ---
-title: "Balloon Mapping at Faculty of Science, Olomouc, Czech Republic"\ntagnames: 'balloon-mapping, chdk, field, test'
+title: "Balloon Mapping at Faculty of Science, Olomouc, Czech Republic"
+
+tagnames: 'balloon-mapping, chdk, field, test'
 author: JirkaPanek
 path: /notes/JirkaPanek/06-23-2014/balloon-mapping-at-faculty-of-science-olomouc-czech-republic.md
 nid: 10605
@@ -11,7 +13,7 @@ uid: 179
 
 # Balloon Mapping at Faculty of Science, Olomouc, Czech Republic
 
-by [JirkaPanek](../profile/JirkaPanek) | June 23, 2014 07:53
+by [JirkaPanek](../../../profile/JirkaPanek) | June 23, 2014 07:53
 
 June 23, 2014 07:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [chdk](../tag/chdk), [field](../tag/field), [test](../tag/test)
 

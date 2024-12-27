@@ -1,5 +1,7 @@
 ---
-title: "Mapping the LUMCON lawn"\ntagnames: 'near-infrared-camera, kite-mapping, image-stitching, louisiana, photoshop, cocodrie, barnraising, lumcon, aligning, gigapan, barnraising2014, response:4906'
+title: "Mapping the LUMCON lawn"
+
+tagnames: 'near-infrared-camera, kite-mapping, image-stitching, louisiana, photoshop, cocodrie, barnraising, lumcon, aligning, gigapan, barnraising2014, response:4906'
 author: cfastie
 path: /notes/cfastie/11-11-2014/mapping-the-lumcon-lawn.md
 nid: 11332
@@ -11,7 +13,7 @@ uid: 554
 
 # Mapping the LUMCON lawn
 
-by [cfastie](../profile/cfastie) | November 11, 2014 01:05
+by [cfastie](../../../profile/cfastie) | November 11, 2014 01:05
 
 November 11, 2014 01:05 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [image-stitching](../tag/image-stitching), [louisiana](../tag/louisiana), [photoshop](../tag/photoshop), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [aligning](../tag/aligning), [gigapan](../tag/gigapan), [barnraising2014](../tag/barnraising2014), [response:4906](../tag/response:4906)
 

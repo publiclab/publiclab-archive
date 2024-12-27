@@ -1,5 +1,7 @@
 ---
-title: "Silhouette Cameo desktop paper cutter for prototyping"\ntagnames: 'spectrometer, oil-testing-kit, papercraft, paper, die-cut, die-cutting, silhouette-cameo, prototyping, response:11751, cameo, upgrade:foldable-spec'
+title: "Silhouette Cameo desktop paper cutter for prototyping"
+
+tagnames: 'spectrometer, oil-testing-kit, papercraft, paper, die-cut, die-cutting, silhouette-cameo, prototyping, response:11751, cameo, upgrade:foldable-spec'
 author: warren
 path: /notes/warren/07-30-2015/silhouette-cameo-desktop-paper-cutter-for-prototyping.md
 nid: 12107
@@ -11,7 +13,7 @@ uid: 1
 
 # Silhouette Cameo desktop paper cutter for prototyping
 
-by [warren](../profile/warren) | July 30, 2015 18:49
+by [warren](../../../profile/warren) | July 30, 2015 18:49
 
 July 30, 2015 18:49 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [papercraft](../tag/papercraft), [paper](../tag/paper), [die-cut](../tag/die-cut), [die-cutting](../tag/die-cutting), [silhouette-cameo](../tag/silhouette-cameo), [prototyping](../tag/prototyping), [response:11751](../tag/response:11751), [cameo](../tag/cameo), [upgrade:foldable-spec](../tag/upgrade:foldable-spec)
 

@@ -1,5 +1,7 @@
 ---
-title: "Photo Documentation of Frac Sand Mine Surface Water Spills"\ntagnames: 'time-lapse, photo-monitoring, timelapse, water-quality, blog, frac-sand, fracsand, parent:frac-sand, communityscienceforum, community-science-forum, reclamation'
+title: "Photo Documentation of Frac Sand Mine Surface Water Spills"
+
+tagnames: 'time-lapse, photo-monitoring, timelapse, water-quality, blog, frac-sand, fracsand, parent:frac-sand, communityscienceforum, community-science-forum, reclamation'
 author: mlamadrid
 path: /notes/mlamadrid/01-18-2017/photo-documentation-of-frac-sand-mine-surface-water-spills.md
 nid: 13860
@@ -11,7 +13,7 @@ uid: 45586
 
 # Photo Documentation of Frac Sand Mine Surface Water Spills
 
-by [mlamadrid](../profile/mlamadrid) | January 18, 2017 03:50
+by [mlamadrid](../../../profile/mlamadrid) | January 18, 2017 03:50
 
 January 18, 2017 03:50 | Tags: [time-lapse](../tag/time-lapse), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [water-quality](../tag/water-quality), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [community-science-forum](../tag/community-science-forum), [reclamation](../tag/reclamation)
 

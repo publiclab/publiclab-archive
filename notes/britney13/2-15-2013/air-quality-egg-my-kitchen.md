@@ -1,5 +1,7 @@
 ---
-title: "Air quality egg in my kitchen"\ntagnames: 'new-york-city, cypress-hills, chaq, first-time-poster'
+title: "Air quality egg in my kitchen"
+
+tagnames: 'new-york-city, cypress-hills, chaq, first-time-poster'
 author: britney13
 path: /notes/britney13/2-15-2013/air-quality-egg-my-kitchen.md
 nid: 5999
@@ -11,7 +13,7 @@ uid: 50452
 
 # Air quality egg in my kitchen
 
-by [britney13](../profile/britney13) | February 15, 2013 15:45
+by [britney13](../../../profile/britney13) | February 15, 2013 15:45
 
 February 15, 2013 15:45 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [first-time-poster](../tag/first-time-poster)
 

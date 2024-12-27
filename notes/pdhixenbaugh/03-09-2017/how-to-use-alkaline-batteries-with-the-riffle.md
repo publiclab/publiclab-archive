@@ -1,5 +1,7 @@
 ---
-title: "How to use Alkaline Batteries with the Riffle?"\ntagnames: 'riffle, question:riffle, answered'
+title: "How to use Alkaline Batteries with the Riffle?"
+
+tagnames: 'riffle, question:riffle, answered'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/03-09-2017/how-to-use-alkaline-batteries-with-the-riffle.md
 nid: 13996
@@ -9,7 +11,7 @@ uid: 459085
 
 # How to use Alkaline Batteries with the Riffle?
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) | March 09, 2017 18:47
+by [pdhixenbaugh](../../../profile/pdhixenbaugh) | March 09, 2017 18:47
 
 March 09, 2017 18:47 | Tags: [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [answered](../tag/answered)
 

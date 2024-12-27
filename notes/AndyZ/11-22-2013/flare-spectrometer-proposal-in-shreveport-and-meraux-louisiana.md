@@ -1,5 +1,7 @@
 ---
-title: "Flare Spectrometer proposal in Shreveport and Meraux Louisiana"\ntagnames: 'gulf-coast, spectrometer, spectrum-matching, spectralworkbench, flame-spectroscopy, watchdog, flare, shreveport, meraux, ioby'
+title: "Flare Spectrometer proposal in Shreveport and Meraux Louisiana"
+
+tagnames: 'gulf-coast, spectrometer, spectrum-matching, spectralworkbench, flame-spectroscopy, watchdog, flare, shreveport, meraux, ioby'
 author: AndyZ
 path: /notes/AndyZ/11-22-2013/flare-spectrometer-proposal-in-shreveport-and-meraux-louisiana.md
 nid: 9815
@@ -11,7 +13,7 @@ uid: 301914
 
 # Flare Spectrometer proposal in Shreveport and Meraux Louisiana
 
-by [AndyZ](../profile/AndyZ) | November 22, 2013 18:06
+by [AndyZ](../../../profile/AndyZ) | November 22, 2013 18:06
 
 November 22, 2013 18:06 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [spectralworkbench](../tag/spectralworkbench), [flame-spectroscopy](../tag/flame-spectroscopy), [watchdog](../tag/watchdog), [flare](../tag/flare), [shreveport](../tag/shreveport), [meraux](../tag/meraux), [ioby](../tag/ioby)
 

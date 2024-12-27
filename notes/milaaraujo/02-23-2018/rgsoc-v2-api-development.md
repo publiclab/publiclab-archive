@@ -1,5 +1,7 @@
 ---
-title: "RGSoC: v2 API development"\ntagnames: 'software, gsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals, soc-2018-api, with:stefannibrasil, first-time-poster'
+title: "RGSoC: v2 API development"
+
+tagnames: 'software, gsoc, soc, response:13975, gsoc-2018, soc-2018, rgsoc-2018, soc-2018-proposals, soc-2018-api, with:stefannibrasil, first-time-poster'
 author: milaaraujo
 path: /notes/milaaraujo/02-23-2018/rgsoc-v2-api-development.md
 nid: 15805
@@ -9,7 +11,7 @@ uid: 525897
 
 # RGSoC: v2 API development
 
-by [milaaraujo](../profile/milaaraujo) | February 23, 2018 05:34
+by [milaaraujo](../../../profile/milaaraujo) | February 23, 2018 05:34
 
 February 23, 2018 05:34 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-api](../tag/soc-2018-api), [with:stefannibrasil](../tag/with:stefannibrasil), [first-time-poster](../tag/first-time-poster)
 

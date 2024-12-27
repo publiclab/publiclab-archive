@@ -1,5 +1,7 @@
 ---
-title: "pictures from LlactaLab workshop"\ntagnames: 'ecuador, llactalab, cuenca'
+title: "pictures from LlactaLab workshop"
+
+tagnames: 'ecuador, llactalab, cuenca'
 author: liz
 path: /notes/liz/11-10-2015/pictures-from-llactalab-workshop.md
 nid: 12396
@@ -11,7 +13,7 @@ uid: 7
 
 # pictures from LlactaLab workshop
 
-by [liz](../profile/liz) | November 10, 2015 17:10
+by [liz](../../../profile/liz) | November 10, 2015 17:10
 
 November 10, 2015 17:10 | Tags: [ecuador](../tag/ecuador), [llactalab](../tag/llactalab), [cuenca](../tag/cuenca)
 

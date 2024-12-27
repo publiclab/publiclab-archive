@@ -1,5 +1,7 @@
 ---
-title: "August 11, 2021 Air Quality Community Call Debrief "\ntagnames: 'air-quality, community-engagement, notes, air-quality-projects, research-curation-fellows, community-calls'
+title: "August 11, 2021 Air Quality Community Call Debrief "
+
+tagnames: 'air-quality, community-engagement, notes, air-quality-projects, research-curation-fellows, community-calls'
 author: fongvania
 path: /notes/fongvania/08-19-2021/august-11-2021-air-quality-community-call-debrief.md
 nid: 27578
@@ -9,7 +11,7 @@ uid: 754846
 
 # August 11, 2021 Air Quality Community Call Debrief 
 
-by [fongvania](../profile/fongvania) | August 19, 2021 05:58
+by [fongvania](../../../profile/fongvania) | August 19, 2021 05:58
 
 August 19, 2021 05:58 | Tags: [air-quality](../tag/air-quality), [community-engagement](../tag/community-engagement), [notes](../tag/notes), [air-quality-projects](../tag/air-quality-projects), [research-curation-fellows](../tag/research-curation-fellows), [community-calls](../tag/community-calls)
 

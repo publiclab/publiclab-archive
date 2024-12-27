@@ -1,5 +1,7 @@
 ---
-title: "Biome"\ntagnames: 'mississippi-river'
+title: "Biome"
+
+tagnames: 'mississippi-river'
 author: OF04
 path: /notes/OF04/08-23-2022/biome.md
 nid: 34897
@@ -11,7 +13,7 @@ uid: 810245
 
 # Biome
 
-by [OF04](../profile/OF04) | August 23, 2022 13:47
+by [OF04](../../../profile/OF04) | August 23, 2022 13:47
 
 August 23, 2022 13:47 | Tags: [mississippi-river](../tag/mississippi-river)
 

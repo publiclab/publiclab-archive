@@ -1,5 +1,7 @@
 ---
-title: "EDGI FOIA event at CUNY in New York City & online"\ntagnames: 'new-york-city, event, live-call, cuny, edgi'
+title: "EDGI FOIA event at CUNY in New York City & online"
+
+tagnames: 'new-york-city, event, live-call, cuny, edgi'
 author: liz
 path: /notes/liz/01-20-2017/edgi-foia-event-at-cuny-in-new-york-city-online.md
 nid: 13868
@@ -11,7 +13,7 @@ uid: 7
 
 # EDGI FOIA event at CUNY in New York City & online
 
-by [liz](../profile/liz) | January 20, 2017 22:30
+by [liz](../../../profile/liz) | January 20, 2017 22:30
 
 January 20, 2017 22:30 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [live-call](../tag/live-call), [cuny](../tag/cuny), [edgi](../tag/edgi)
 

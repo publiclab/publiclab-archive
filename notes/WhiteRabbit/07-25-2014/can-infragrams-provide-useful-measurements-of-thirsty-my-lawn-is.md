@@ -1,5 +1,7 @@
 ---
-title: "Can infragrams provide useful measurements of how thirsty my lawn is?"\ntagnames: 'near-infrared-camera, ndvi, uv, infrared, agriculture, spectrometry, fluorescence, soil, infragram, health, sensors, plant, plants, camera, nvdi, water, grass, gardening, landscape, irrigation, watering, thirst, dehydration, stress, moisture, sensor, detection, drought, lawn, spectral, dry, monitor, detect, detector, warning, land-cover, first-time-poster'
+title: "Can infragrams provide useful measurements of how thirsty my lawn is?"
+
+tagnames: 'near-infrared-camera, ndvi, uv, infrared, agriculture, spectrometry, fluorescence, soil, infragram, health, sensors, plant, plants, camera, nvdi, water, grass, gardening, landscape, irrigation, watering, thirst, dehydration, stress, moisture, sensor, detection, drought, lawn, spectral, dry, monitor, detect, detector, warning, land-cover, first-time-poster'
 author: WhiteRabbit
 path: /notes/WhiteRabbit/07-25-2014/can-infragrams-provide-useful-measurements-of-thirsty-my-lawn-is.md
 nid: 10969
@@ -11,7 +13,7 @@ uid: 425996
 
 # Can infragrams provide useful measurements of how thirsty my lawn is?
 
-by [WhiteRabbit](../profile/WhiteRabbit) | July 25, 2014 06:19
+by [WhiteRabbit](../../../profile/WhiteRabbit) | July 25, 2014 06:19
 
 July 25, 2014 06:19 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [uv](../tag/uv), [infrared](../tag/infrared), [agriculture](../tag/agriculture), [spectrometry](../tag/spectrometry), [fluorescence](../tag/fluorescence), [soil](../tag/soil), [infragram](../tag/infragram), [health](../tag/health), [sensors](../tag/sensors), [plant](../tag/plant), [plants](../tag/plants), [camera](../tag/camera), [nvdi](../tag/nvdi), [water](../tag/water), [grass](../tag/grass), [gardening](../tag/gardening), [landscape](../tag/landscape), [irrigation](../tag/irrigation), [watering](../tag/watering), [thirst](../tag/thirst), [dehydration](../tag/dehydration), [stress](../tag/stress), [moisture](../tag/moisture), [sensor](../tag/sensor), [detection](../tag/detection), [drought](../tag/drought), [lawn](../tag/lawn), [spectral](../tag/spectral), [dry](../tag/dry), [monitor](../tag/monitor), [detect](../tag/detect), [detector](../tag/detector), [warning](../tag/warning), [land-cover](../tag/land-cover), [first-time-poster](../tag/first-time-poster)
 

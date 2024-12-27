@@ -1,5 +1,7 @@
 ---
-title: "Week 1: Recap from Oil Testing Kit Beta Program kickoff chat"\ntagnames: 'spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta'
+title: "Week 1: Recap from Oil Testing Kit Beta Program kickoff chat"
+
+tagnames: 'spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta'
 author: warren
 path: /notes/warren/09-30-2015/week-1-recap-from-oil-testing-kit-beta-program-kickoff-chat.md
 nid: 12257
@@ -11,7 +13,7 @@ uid: 1
 
 # Week 1: Recap from Oil Testing Kit Beta Program kickoff chat
 
-by [warren](../profile/warren) | September 30, 2015 18:38
+by [warren](../../../profile/warren) | September 30, 2015 18:38
 
 September 30, 2015 18:38 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 

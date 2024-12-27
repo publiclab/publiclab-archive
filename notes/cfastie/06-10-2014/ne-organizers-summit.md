@@ -1,5 +1,7 @@
 ---
-title: "NE Organizers Summit"\ntagnames: 'barnraising, event, organizers, massachusetts, tidmarsh, northeast, nebarnraising, ma, barnstar:photo-documentation'
+title: "NE Organizers Summit"
+
+tagnames: 'barnraising, event, organizers, massachusetts, tidmarsh, northeast, nebarnraising, ma, barnstar:photo-documentation'
 author: cfastie
 path: /notes/cfastie/06-10-2014/ne-organizers-summit.md
 nid: 10545
@@ -11,7 +13,7 @@ uid: 554
 
 # NE Organizers Summit
 
-by [cfastie](../profile/cfastie) | June 10, 2014 17:06
+by [cfastie](../../../profile/cfastie) | June 10, 2014 17:06
 
 June 10, 2014 17:06 | Tags: [barnraising](../tag/barnraising), [event](../tag/event), [organizers](../tag/organizers), [massachusetts](../tag/massachusetts), [tidmarsh](../tag/tidmarsh), [northeast](../tag/northeast), [nebarnraising](../tag/nebarnraising), [ma](../tag/ma), [barnstar:photo-documentation](../tag/barnstar:photo-documentation)
 

@@ -1,5 +1,7 @@
 ---
-title: "Weeks Bay Kite Training"\ntagnames: 'kite-mapping, gulf-restoration-network, event, gulf-coast'
+title: "Weeks Bay Kite Training"
+
+tagnames: 'kite-mapping, gulf-restoration-network, event, gulf-coast'
 author: eustatic
 path: /3-29-2013/weeks-bay-kite-training.md
 nid: 6607
@@ -11,7 +13,7 @@ uid: 379
 
 # Weeks Bay Kite Training
 
-by [eustatic](../profile/eustatic) | March 29, 2013 21:41
+by [eustatic](../../../profile/eustatic) | March 29, 2013 21:41
 
 March 29, 2013 21:41 | Tags: [kite-mapping](../tag/kite-mapping), [gulf-restoration-network](../tag/gulf-restoration-network), [event](../tag/event), [gulf-coast](../tag/gulf-coast)
 

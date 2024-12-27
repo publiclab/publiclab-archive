@@ -1,5 +1,7 @@
 ---
-title: "Hack a camera to make you own DIY Near Infrared device"\ntagnames: 'nir, london, workshop, event, event:rsvp, date:11-14-2016, rsvp:davidmbatuegwu'
+title: "Hack a camera to make you own DIY Near Infrared device"
+
+tagnames: 'nir, london, workshop, event, event:rsvp, date:11-14-2016, rsvp:davidmbatuegwu'
 author: cindy_excites
 path: /notes/Cindy_ExCites/11-13-2016/hack-a-camera-to-make-you-own-diy-near-infrared-device.md
 nid: 13700
@@ -11,7 +13,7 @@ uid: 1083
 
 # Hack a camera to make you own DIY Near Infrared device
 
-by [cindy_excites](../profile/cindy_excites) | November 13, 2016 21:40
+by [cindy_excites](../../../profile/cindy_excites) | November 13, 2016 21:40
 
 November 13, 2016 21:40 | Tags: [nir](../tag/nir), [london](../tag/london), [workshop](../tag/workshop), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:11-14-2016](../tag/date:11-14-2016), [rsvp:davidmbatuegwu](../tag/rsvp:davidmbatuegwu)
 

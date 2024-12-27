@@ -1,5 +1,7 @@
 ---
-title: "Freshwater Salinity Preliminary Research"\ntagnames: 'water-quality, first-time-poster'
+title: "Freshwater Salinity Preliminary Research"
+
+tagnames: 'water-quality, first-time-poster'
 author: paigesolomon
 path: /notes/paigesolomon/02-17-2015/freshwater-salinity-preliminary-research.md
 nid: 11592
@@ -9,7 +11,7 @@ uid: 434147
 
 # Freshwater Salinity Preliminary Research
 
-by [paigesolomon](../profile/paigesolomon) | February 17, 2015 17:07
+by [paigesolomon](../../../profile/paigesolomon) | February 17, 2015 17:07
 
 February 17, 2015 17:07 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
 

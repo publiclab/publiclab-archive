@@ -1,5 +1,7 @@
 ---
-title: "CEDRO Grassroots Mapping Curriculum"\ntagnames: 'balloon-mapping, education, curriculum, k-12, youth'
+title: "CEDRO Grassroots Mapping Curriculum"
+
+tagnames: 'balloon-mapping, education, curriculum, k-12, youth'
 author: warren
 path: /wiki/cedro-grassroots-mapping-curriculum.md
 nid: 856

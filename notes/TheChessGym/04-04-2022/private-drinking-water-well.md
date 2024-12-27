@@ -1,5 +1,7 @@
 ---
-title: "Private Drinking Water Well "\ntagnames: 'microplastics, lat:22, lon:76, zoom:6'
+title: "Private Drinking Water Well "
+
+tagnames: 'microplastics, lat:22, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/04-04-2022/private-drinking-water-well.md
 nid: 30253
@@ -11,7 +13,7 @@ uid: 788868
 
 # Private Drinking Water Well 
 
-by [TheChessGym](../profile/TheChessGym) | April 04, 2022 15:05
+by [TheChessGym](../../../profile/TheChessGym) | April 04, 2022 15:05
 
 April 04, 2022 15:05 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

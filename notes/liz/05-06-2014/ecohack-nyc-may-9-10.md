@@ -1,5 +1,7 @@
 ---
-title: "EcoHack NYC May 9-10"\ntagnames: 'new-york-city, ecohack, event'
+title: "EcoHack NYC May 9-10"
+
+tagnames: 'new-york-city, ecohack, event'
 author: liz
 path: /notes/liz/05-06-2014/ecohack-nyc-may-9-10.md
 nid: 10430
@@ -11,7 +13,7 @@ uid: 7
 
 # EcoHack NYC May 9-10
 
-by [liz](../profile/liz) | May 06, 2014 19:17
+by [liz](../../../profile/liz) | May 06, 2014 19:17
 
 May 06, 2014 19:17 | Tags: [new-york-city](../tag/new-york-city), [ecohack](../tag/ecohack), [event](../tag/event)
 

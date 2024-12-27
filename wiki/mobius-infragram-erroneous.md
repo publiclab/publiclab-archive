@@ -1,5 +1,7 @@
 ---
-title: "mobius-infragram-erroneous"\ntagnames: ''
+title: "mobius-infragram-erroneous"
+
+tagnames: ''
 author: warren
 path: /wiki/mobius-infragram-erroneous.md
 nid: 10294

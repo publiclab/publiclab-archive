@@ -1,5 +1,7 @@
 ---
-title: "What groups or agencies are looking at the intersections of land/soil management and ocean pollution?"\ntagnames: 'soil, water-quality, question:water-quality, ocean, question:general, general, question:soil, soil-contamination, research-curation-fellows'
+title: "What groups or agencies are looking at the intersections of land/soil management and ocean pollution?"
+
+tagnames: 'soil, water-quality, question:water-quality, ocean, question:general, general, question:soil, soil-contamination, research-curation-fellows'
 author: laurel_mire
 path: /notes/laurel_mire/06-19-2021/what-groups-or-agencies-are-looking-at-the-intersections-of-land-soil-management-and-ocean-pollution.md
 nid: 26856
@@ -9,7 +11,7 @@ uid: 759178
 
 # What groups or agencies are looking at the intersections of land/soil management and ocean pollution?
 
-by [laurel_mire](../profile/laurel_mire) | June 19, 2021 16:51
+by [laurel_mire](../../../profile/laurel_mire) | June 19, 2021 16:51
 
 June 19, 2021 16:51 | Tags: [soil](../tag/soil), [water-quality](../tag/water-quality), [question:water-quality](../tag/question:water-quality), [ocean](../tag/ocean), [question:general](../tag/question:general), [general](../tag/general), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [research-curation-fellows](../tag/research-curation-fellows)
 

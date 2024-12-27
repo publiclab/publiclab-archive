@@ -1,5 +1,7 @@
 ---
-title: "library"\ntagnames: ''
+title: "library"
+
+tagnames: ''
 author: 
 path: /notes/5-2-2012/library.md
 nid: 2099
@@ -11,7 +13,7 @@ uid: 0
 
 # library
 
-by [](../profile/) | May 02, 2012 21:50
+by [](../../../profile/) | May 02, 2012 21:50
 
 May 02, 2012 21:50 | Tags: 
 

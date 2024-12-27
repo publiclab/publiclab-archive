@@ -1,5 +1,7 @@
 ---
-title: "sandbox-2"\ntagnames: ''
+title: "sandbox-2"
+
+tagnames: ''
 author: warren
 path: /feature/sandbox-2.md
 nid: 12044

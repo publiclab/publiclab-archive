@@ -1,5 +1,7 @@
 ---
-title: "A Reflection on Sensor Journalism"\ntagnames: 'sensor-journalism'
+title: "A Reflection on Sensor Journalism"
+
+tagnames: 'sensor-journalism'
 author: cassandrasue_
 path: /notes/cassandrasue_/10-06-2014/a-reflection-on-sensor-journalism.md
 nid: 11241
@@ -9,7 +11,7 @@ uid: 427890
 
 # A Reflection on Sensor Journalism
 
-by [cassandrasue_](../profile/cassandrasue_) | October 06, 2014 17:22
+by [cassandrasue_](../../../profile/cassandrasue_) | October 06, 2014 17:22
 
 October 06, 2014 17:22 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

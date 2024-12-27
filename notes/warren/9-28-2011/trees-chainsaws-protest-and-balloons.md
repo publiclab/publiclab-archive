@@ -1,5 +1,7 @@
 ---
-title: "Trees, Chainsaws, Protest and Balloons"\ntagnames: 'protest-mapping, forest, czech-republic, logging, eu'
+title: "Trees, Chainsaws, Protest and Balloons"
+
+tagnames: 'protest-mapping, forest, czech-republic, logging, eu'
 author: warren
 path: /notes/warren/9-28-2011/trees-chainsaws-protest-and-balloons.md
 nid: 485
@@ -11,7 +13,7 @@ uid: 1
 
 # Trees, Chainsaws, Protest and Balloons
 
-by [warren](../profile/warren) | September 29, 2011 03:11
+by [warren](../../../profile/warren) | September 29, 2011 03:11
 
 September 29, 2011 03:11 | Tags: [protest-mapping](../tag/protest-mapping), [forest](../tag/forest), [czech-republic](../tag/czech-republic), [logging](../tag/logging), [eu](../tag/eu)
 

@@ -1,5 +1,7 @@
 ---
-title: "cheap slitless digital camera spectroscope with cellular"\ntagnames: ''
+title: "cheap slitless digital camera spectroscope with cellular"
+
+tagnames: ''
 author: JCD
 path: /wiki/cheap-slitless-digital-camera-spectroscope-cellular.md
 nid: 6229

@@ -1,5 +1,7 @@
 ---
-title: "What are the best practices for the management of lab chemicals?"\ntagnames: 'laboratory, standards, reagents, lab, reference, question:general, general, chemicals, first-time-poster'
+title: "What are the best practices for the management of lab chemicals?"
+
+tagnames: 'laboratory, standards, reagents, lab, reference, question:general, general, chemicals, first-time-poster'
 author: Rehan
 path: /notes/Rehan/03-25-2022/what-are-the-best-practices-for-the-management-of-lab-chemicals.md
 nid: 30188
@@ -9,7 +11,7 @@ uid: 792706
 
 # What are the best practices for the management of lab chemicals?
 
-by [Rehan](../profile/Rehan) | March 25, 2022 11:16
+by [Rehan](../../../profile/Rehan) | March 25, 2022 11:16
 
 March 25, 2022 11:16 | Tags: [laboratory](../tag/laboratory), [standards](../tag/standards), [reagents](../tag/reagents), [lab](../tag/lab), [reference](../tag/reference), [question:general](../tag/question:general), [general](../tag/general), [chemicals](../tag/chemicals), [first-time-poster](../tag/first-time-poster)
 

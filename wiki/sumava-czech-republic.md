@@ -1,5 +1,7 @@
 ---
-title: "Sumava, Czech Republic"\ntagnames: 'chapter'
+title: "Sumava, Czech Republic"
+
+tagnames: 'chapter'
 author: Shannon
 path: /wiki/sumava-czech-republic.md
 nid: 484

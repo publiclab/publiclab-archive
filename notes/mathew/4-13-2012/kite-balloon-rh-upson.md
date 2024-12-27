@@ -1,5 +1,7 @@
 ---
-title: "Kite Balloon of R.H. Upson"\ntagnames: 'balloon-mapping, kite-mapping, kite-balloon-hybrid'
+title: "Kite Balloon of R.H. Upson"
+
+tagnames: 'balloon-mapping, kite-mapping, kite-balloon-hybrid'
 author: mathew
 path: /notes/mathew/4-13-2012/kite-balloon-rh-upson.md
 nid: 1665
@@ -11,7 +13,7 @@ uid: 4
 
 # Kite Balloon of R.H. Upson
 
-by [mathew](../profile/mathew) | April 13, 2012 04:14
+by [mathew](../../../profile/mathew) | April 13, 2012 04:14
 
 April 13, 2012 04:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
 

@@ -1,5 +1,7 @@
 ---
-title: "How do environmental monitoring methods become recognized or official by US regulatory agencies? "\ntagnames: 'openhour, answered, question:question, question:openhour, question:regulations, question:legal, question:method, law-and-policy, question:law-and-policy'
+title: "How do environmental monitoring methods become recognized or official by US regulatory agencies? "
+
+tagnames: 'openhour, answered, question:question, question:openhour, question:regulations, question:legal, question:method, law-and-policy, question:law-and-policy'
 author: stevie
 path: /notes/stevie/12-02-2016/how-do-environmental-monitoring-methods-become-recognized-or-official-by-us-regulatory-agencies.md
 nid: 13738
@@ -9,7 +11,7 @@ uid: 422561
 
 # How do environmental monitoring methods become recognized or official by US regulatory agencies? 
 
-by [stevie](../profile/stevie) | December 02, 2016 16:32
+by [stevie](../../../profile/stevie) | December 02, 2016 16:32
 
 December 02, 2016 16:32 | Tags: [openhour](../tag/openhour), [answered](../tag/answered), [question:question](../tag/question:question), [question:openhour](../tag/question:openhour), [question:regulations](../tag/question:regulations), [question:legal](../tag/question:legal), [question:method](../tag/question:method), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 

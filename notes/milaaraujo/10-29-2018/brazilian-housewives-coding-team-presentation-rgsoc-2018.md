@@ -1,5 +1,7 @@
 ---
-title: "Brazilian Housewives Coding Team Presentation - RGSOC - 2018"\ntagnames: 'software, search, api, code, rgsoc, soc, rgsoc-2018, with:stefannibrasil, railsgirls'
+title: "Brazilian Housewives Coding Team Presentation - RGSOC - 2018"
+
+tagnames: 'software, search, api, code, rgsoc, soc, rgsoc-2018, with:stefannibrasil, railsgirls'
 author: milaaraujo
 path: /notes/milaaraujo/10-29-2018/brazilian-housewives-coding-team-presentation-rgsoc-2018.md
 nid: 17426
@@ -11,7 +13,7 @@ uid: 525897
 
 # Brazilian Housewives Coding Team Presentation - RGSOC - 2018
 
-by [milaaraujo](../profile/milaaraujo) | October 29, 2018 23:28
+by [milaaraujo](../../../profile/milaaraujo) | October 29, 2018 23:28
 
 October 29, 2018 23:28 | Tags: [software](../tag/software), [search](../tag/search), [api](../tag/api), [code](../tag/code), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [rgsoc-2018](../tag/rgsoc-2018), [with:stefannibrasil](../tag/with:stefannibrasil), [railsgirls](../tag/railsgirls)
 

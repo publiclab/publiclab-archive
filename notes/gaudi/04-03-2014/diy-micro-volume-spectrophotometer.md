@@ -1,5 +1,7 @@
 ---
-title: "DIY Micro Volume Spectrophotometer"\ntagnames: 'spectrometer, nanometer, sampling, nano-drop, location:blurred, place:united-states, lat:35, lon:-78, zoom:6'
+title: "DIY Micro Volume Spectrophotometer"
+
+tagnames: 'spectrometer, nanometer, sampling, nano-drop, location:blurred, place:united-states, lat:35, lon:-78, zoom:6'
 author: gaudi
 path: /notes/gaudi/04-03-2014/diy-micro-volume-spectrophotometer.md
 nid: 10255
@@ -11,7 +13,7 @@ uid: 421141
 
 # DIY Micro Volume Spectrophotometer
 
-by [gaudi](../profile/gaudi) | April 03, 2014 12:52
+by [gaudi](../../../profile/gaudi) | April 03, 2014 12:52
 
 April 03, 2014 12:52 | Tags: [spectrometer](../tag/spectrometer), [nanometer](../tag/nanometer), [sampling](../tag/sampling), [nano-drop](../tag/nano-drop), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:35](../tag/lat:35), [lon:-78](../tag/lon:-78), [zoom:6](../tag/zoom:6)
 

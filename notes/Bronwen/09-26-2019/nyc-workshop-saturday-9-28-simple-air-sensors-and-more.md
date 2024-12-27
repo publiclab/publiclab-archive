@@ -1,5 +1,7 @@
 ---
-title: "NYC Workshop Saturday, 9/28: Simple Air Sensors and More!"\ntagnames: 'new-york-city, events, workshop, nyc, oil-and-gas, simple-air-sensor, with:sadieprego, lat:40.712239, lon:-73.957135'
+title: "NYC Workshop Saturday, 9/28: Simple Air Sensors and More!"
+
+tagnames: 'new-york-city, events, workshop, nyc, oil-and-gas, simple-air-sensor, with:sadieprego, lat:40.712239, lon:-73.957135'
 author: Bronwen
 path: /notes/Bronwen/09-26-2019/nyc-workshop-saturday-9-28-simple-air-sensors-and-more.md
 nid: 20999
@@ -11,7 +13,7 @@ uid: 237313
 
 # NYC Workshop Saturday, 9/28: Simple Air Sensors and More!
 
-by [Bronwen](../profile/Bronwen) | September 26, 2019 17:46
+by [Bronwen](../../../profile/Bronwen) | September 26, 2019 17:46
 
 September 26, 2019 17:46 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [workshop](../tag/workshop), [nyc](../tag/nyc), [oil-and-gas](../tag/oil-and-gas), [simple-air-sensor](../tag/simple-air-sensor), [with:sadieprego](../tag/with:sadieprego), [lat:40.712239](../tag/lat:40.712239), [lon:-73.957135](../tag/lon:-73.957135)
 

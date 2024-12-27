@@ -1,5 +1,7 @@
 ---
-title: "Talk at National Institute of Environmental Health Science (NIEHS)"\ntagnames: 'boston'
+title: "Talk at National Institute of Environmental Health Science (NIEHS)"
+
+tagnames: 'boston'
 author: sara
 path: /notes/Sara/01-02-2014/talk-at-national-institute-of-environmental-health-science-niehs.md
 nid: 9920
@@ -11,7 +13,7 @@ uid: 8
 
 # Talk at National Institute of Environmental Health Science (NIEHS)
 
-by [sara](../profile/sara) | January 02, 2014 16:10
+by [sara](../../../profile/sara) | January 02, 2014 16:10
 
 January 02, 2014 16:10 | Tags: [boston](../tag/boston)
 

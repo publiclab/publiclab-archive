@@ -1,5 +1,7 @@
 ---
-title: "BBC on PLOTS: How to create your own aerial map"\ntagnames: ''
+title: "BBC on PLOTS: How to create your own aerial map"
+
+tagnames: ''
 author: warren
 path: /notes/warren/8-7-2011/bbc-plots-how-create-your-own-aerial-map.md
 nid: 434
@@ -9,7 +11,7 @@ uid: 1
 
 # BBC on PLOTS: How to create your own aerial map
 
-by [warren](../profile/warren) | August 07, 2011 04:36
+by [warren](../../../profile/warren) | August 07, 2011 04:36
 
 August 07, 2011 04:36 | Tags: 
 

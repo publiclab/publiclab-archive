@@ -1,5 +1,7 @@
 ---
-title: "Public Lab awarded NSF funding to help develop low-cost community formaldehyde monitoring technique"\ntagnames: 'collaboration, software, formaldehyde, wherewebreathe, open-air, indoor-air-quality, with:gretchengehrke, indoor-air, nsf, with:becki, smart-form'
+title: "Public Lab awarded NSF funding to help develop low-cost community formaldehyde monitoring technique"
+
+tagnames: 'collaboration, software, formaldehyde, wherewebreathe, open-air, indoor-air-quality, with:gretchengehrke, indoor-air, nsf, with:becki, smart-form'
 author: nshapiro
 path: /notes/nshapiro/10-17-2016/public-lab-awarded-nsf-funding-to-help-develop-low-cost-community-formaldehyde-monitoring-technique.md
 nid: 13571
@@ -11,7 +13,7 @@ uid: 380298
 
 # Public Lab awarded NSF funding to help develop low-cost community formaldehyde monitoring technique
 
-by [nshapiro](../profile/nshapiro) | October 17, 2016 18:47
+by [nshapiro](../../../profile/nshapiro) | October 17, 2016 18:47
 
 October 17, 2016 18:47 | Tags: [collaboration](../tag/collaboration), [software](../tag/software), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [open-air](../tag/open-air), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [nsf](../tag/nsf), [with:becki](../tag/with:becki), [smart-form](../tag/smart-form)
 

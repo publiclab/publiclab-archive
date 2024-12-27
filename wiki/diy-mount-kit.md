@@ -1,5 +1,7 @@
 ---
-title: "diy-mount-kit"\ntagnames: 'slit'
+title: "diy-mount-kit"
+
+tagnames: 'slit'
 author: tonyc
 path: /wiki/diy-mount-kit.md
 nid: 12749

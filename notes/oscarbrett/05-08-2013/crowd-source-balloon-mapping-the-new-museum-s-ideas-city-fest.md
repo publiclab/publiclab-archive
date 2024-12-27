@@ -1,5 +1,7 @@
 ---
-title: "Crowd-Source Balloon Mapping @ The New Museum's "IDEAS CITY" Fest"\ntagnames: 'new-york-city, balloon-mapping, new-museum'
+title: "Crowd-Source Balloon Mapping @ The New Museum's "IDEAS CITY" Fest"
+
+tagnames: 'new-york-city, balloon-mapping, new-museum'
 author: oscarbrett
 path: /notes/oscarbrett/05-08-2013/crowd-source-balloon-mapping-the-new-museum-s-ideas-city-fest.md
 nid: 7314
@@ -11,7 +13,7 @@ uid: 409
 
 # Crowd-Source Balloon Mapping @ The New Museum's "IDEAS CITY" Fest
 
-by [oscarbrett](../profile/oscarbrett) | May 08, 2013 14:48
+by [oscarbrett](../../../profile/oscarbrett) | May 08, 2013 14:48
 
 May 08, 2013 14:48 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [new-museum](../tag/new-museum)
 

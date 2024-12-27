@@ -1,5 +1,7 @@
 ---
-title: "mapping urban biosphere in Jerusalem"\ntagnames: 'balloon-mapping, photography, jerusalem, kite, rhus, israel, palestine, blog, aerial, urban-biosphere, geo-tagged-photography'
+title: "mapping urban biosphere in Jerusalem"
+
+tagnames: 'balloon-mapping, photography, jerusalem, kite, rhus, israel, palestine, blog, aerial, urban-biosphere, geo-tagged-photography'
 author: hagitkeysar
 path: /notes/hagitkeysar/04-10-2014/mapping-urban-biosphere-in-jerusalem.md
 nid: 10289
@@ -11,7 +13,7 @@ uid: 152
 
 # mapping urban biosphere in Jerusalem
 
-by [hagitkeysar](../profile/hagitkeysar) | April 10, 2014 10:12
+by [hagitkeysar](../../../profile/hagitkeysar) | April 10, 2014 10:12
 
 April 10, 2014 10:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [photography](../tag/photography), [jerusalem](../tag/jerusalem), [kite](../tag/kite), [rhus](../tag/rhus), [israel](../tag/israel), [palestine](../tag/palestine), [blog](../tag/blog), [aerial](../tag/aerial), [urban-biosphere](../tag/urban-biosphere), [geo-tagged-photography](../tag/geo-tagged-photography)
 

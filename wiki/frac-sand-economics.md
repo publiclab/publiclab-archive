@@ -1,5 +1,7 @@
 ---
-title: "Building a Frac Sand Economic Assessment "\ntagnames: 'wisconsin, frac-sand, parent:frac-sand, parent:frac-sand-advocacy-leverage-points, reclamation'
+title: "Building a Frac Sand Economic Assessment "
+
+tagnames: 'wisconsin, frac-sand, parent:frac-sand, parent:frac-sand-advocacy-leverage-points, reclamation'
 author: gretchengehrke
 path: /wiki/frac-sand-economics.md
 nid: 14648

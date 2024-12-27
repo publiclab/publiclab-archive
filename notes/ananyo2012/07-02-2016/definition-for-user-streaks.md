@@ -1,5 +1,7 @@
 ---
-title: "Definition of User Streaks "\ntagnames: 'web, activity, seeks:responses, feature'
+title: "Definition of User Streaks "
+
+tagnames: 'web, activity, seeks:responses, feature'
 author: ananyo2012
 path: /notes/ananyo2012/07-02-2016/definition-for-user-streaks.md
 nid: 13257
@@ -9,7 +11,7 @@ uid: 468506
 
 # Definition of User Streaks 
 
-by [ananyo2012](../profile/ananyo2012) | July 02, 2016 09:29
+by [ananyo2012](../../../profile/ananyo2012) | July 02, 2016 09:29
 
 July 02, 2016 09:29 | Tags: [web](../tag/web), [activity](../tag/activity), [seeks:responses](../tag/seeks:responses), [feature](../tag/feature)
 

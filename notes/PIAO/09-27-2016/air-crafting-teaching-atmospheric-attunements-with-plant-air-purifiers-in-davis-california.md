@@ -1,5 +1,7 @@
 ---
-title: "Air-Crafting: Teaching Atmospheric Attunements with Plant Air Purifiers in Davis, California"\ntagnames: 'remediation, formaldehyde, open-air, indoor-air-quality, indoor-air, replication:13480'
+title: "Air-Crafting: Teaching Atmospheric Attunements with Plant Air Purifiers in Davis, California"
+
+tagnames: 'remediation, formaldehyde, open-air, indoor-air-quality, indoor-air, replication:13480'
 author: PIAO
 path: /notes/PIAO/09-27-2016/air-crafting-teaching-atmospheric-attunements-with-plant-air-purifiers-in-davis-california.md
 nid: 13490
@@ -11,7 +13,7 @@ uid: 493070
 
 # Air-Crafting: Teaching Atmospheric Attunements with Plant Air Purifiers in Davis, California
 
-by [PIAO](../profile/PIAO) | September 27, 2016 18:24
+by [PIAO](../../../profile/PIAO) | September 27, 2016 18:24
 
 September 27, 2016 18:24 | Tags: [remediation](../tag/remediation), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [replication:13480](../tag/replication:13480)
 

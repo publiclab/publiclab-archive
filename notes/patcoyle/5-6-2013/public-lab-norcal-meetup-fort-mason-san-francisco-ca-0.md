@@ -1,5 +1,7 @@
 ---
-title: "Public Lab NorCal Meetup Fort Mason San Francisco CA"\ntagnames: 'near-infrared-camera, kite-mapping, ndvi, dual-camera, uav, kap, norcal, event, replication:14022'
+title: "Public Lab NorCal Meetup Fort Mason San Francisco CA"
+
+tagnames: 'near-infrared-camera, kite-mapping, ndvi, dual-camera, uav, kap, norcal, event, replication:14022'
 author: patcoyle
 path: /notes/patcoyle/5-6-2013/public-lab-norcal-meetup-fort-mason-san-francisco-ca-0.md
 nid: 7266
@@ -11,7 +13,7 @@ uid: 77
 
 # Public Lab NorCal Meetup Fort Mason San Francisco CA
 
-by [patcoyle](../profile/patcoyle) | May 07, 2013 01:22
+by [patcoyle](../../../profile/patcoyle) | May 07, 2013 01:22
 
 May 07, 2013 01:22 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [dual-camera](../tag/dual-camera), [uav](../tag/uav), [kap](../tag/kap), [norcal](../tag/norcal), [event](../tag/event), [replication:14022](../tag/replication:14022)
 

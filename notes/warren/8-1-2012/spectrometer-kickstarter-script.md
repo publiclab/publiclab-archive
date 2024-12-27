@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer Kickstarter script"\ntagnames: 'spectrometer, kickstarter'
+title: "Spectrometer Kickstarter script"
+
+tagnames: 'spectrometer, kickstarter'
 author: warren
 path: /notes/warren/8-1-2012/spectrometer-kickstarter-script.md
 nid: 3063
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectrometer Kickstarter script
 
-by [warren](../profile/warren) | August 01, 2012 15:17
+by [warren](../../../profile/warren) | August 01, 2012 15:17
 
 August 01, 2012 15:17 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter)
 

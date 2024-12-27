@@ -1,5 +1,7 @@
 ---
-title: "How to build Emery Board Survey Tools "\ntagnames: 'oil, mapping, pipeline, survey, barnstar:basic, barnstar:photo-documentation, industry, hardware, draft, oil-and-gas, site-survey, activity:site-survey, beach, activity:new, pipelines, terrain, geography, geology, spoilbank, land-survey, emery-board'
+title: "How to build Emery Board Survey Tools "
+
+tagnames: 'oil, mapping, pipeline, survey, barnstar:basic, barnstar:photo-documentation, industry, hardware, draft, oil-and-gas, site-survey, activity:site-survey, beach, activity:new, pipelines, terrain, geography, geology, spoilbank, land-survey, emery-board'
 author: a1ahna
 path: /notes/a1ahna/12-03-2018/how-to-build-emery-board-survey-tools.md
 nid: 17771
@@ -11,7 +13,7 @@ uid: 518193
 
 # How to build Emery Board Survey Tools 
 
-by [a1ahna](../profile/a1ahna) | November 28, 2018 22:16
+by [a1ahna](../../../profile/a1ahna) | November 28, 2018 22:16
 
 November 28, 2018 22:16 | Tags: [oil](../tag/oil), [mapping](../tag/mapping), [pipeline](../tag/pipeline), [survey](../tag/survey), [barnstar:basic](../tag/barnstar:basic), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [industry](../tag/industry), [hardware](../tag/hardware), [draft](../tag/draft), [oil-and-gas](../tag/oil-and-gas), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [beach](../tag/beach), [activity:new](../tag/activity:new), [pipelines](../tag/pipelines), [terrain](../tag/terrain), [geography](../tag/geography), [geology](../tag/geology), [spoilbank](../tag/spoilbank), [land-survey](../tag/land-survey), [emery-board](../tag/emery-board)
 

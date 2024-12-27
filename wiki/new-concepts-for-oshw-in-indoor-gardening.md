@@ -1,5 +1,7 @@
 ---
-title: "New Concepts for OSHW in Indoor Gardening"\ntagnames: 'sensors, garden, datalogger, hydroponics, gardening, data-logging, cannabis'
+title: "New Concepts for OSHW in Indoor Gardening"
+
+tagnames: 'sensors, garden, datalogger, hydroponics, gardening, data-logging, cannabis'
 author: ajawitz
 path: /wiki/new-concepts-for-oshw-in-indoor-gardening.md
 nid: 10018

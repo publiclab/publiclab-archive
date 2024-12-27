@@ -1,5 +1,7 @@
 ---
-title: "Local Environmental Action 2018 in Boston"\ntagnames: 'boston, event, tac, organizing, northeastern, toxics-action-center, event:rsvp, community-organizing, local-environmental-action, conference, date:03-03-2018'
+title: "Local Environmental Action 2018 in Boston"
+
+tagnames: 'boston, event, tac, organizing, northeastern, toxics-action-center, event:rsvp, community-organizing, local-environmental-action, conference, date:03-03-2018'
 author: warren
 path: /notes/warren/02-05-2018/local-environmental-action-2018-in-boston.md
 nid: 15689
@@ -11,7 +13,7 @@ uid: 1
 
 # Local Environmental Action 2018 in Boston
 
-by [warren](../profile/warren) | February 05, 2018 22:11
+by [warren](../../../profile/warren) | February 05, 2018 22:11
 
 February 05, 2018 22:11 | Tags: [boston](../tag/boston), [event](../tag/event), [tac](../tag/tac), [organizing](../tag/organizing), [northeastern](../tag/northeastern), [toxics-action-center](../tag/toxics-action-center), [event:rsvp](../tag/event:rsvp), [community-organizing](../tag/community-organizing), [local-environmental-action](../tag/local-environmental-action), [conference](../tag/conference), [date:03-03-2018](../tag/date:03-03-2018)
 

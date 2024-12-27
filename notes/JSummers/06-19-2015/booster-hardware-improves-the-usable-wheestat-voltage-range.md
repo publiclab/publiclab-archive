@@ -1,5 +1,7 @@
 ---
-title: "Booster hardware improves the usable WheeStat voltage range."\ntagnames: 'wheestat'
+title: "Booster hardware improves the usable WheeStat voltage range."
+
+tagnames: 'wheestat'
 author: JSummers
 path: /notes/JSummers/06-19-2015/booster-hardware-improves-the-usable-wheestat-voltage-range.md
 nid: 11989
@@ -11,7 +13,7 @@ uid: 304279
 
 # Booster hardware improves the usable WheeStat voltage range.
 
-by [JSummers](../profile/JSummers) | June 19, 2015 11:48
+by [JSummers](../../../profile/JSummers) | June 19, 2015 11:48
 
 June 19, 2015 11:48 | Tags: [wheestat](../tag/wheestat)
 

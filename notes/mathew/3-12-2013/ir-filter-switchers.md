@@ -1,5 +1,7 @@
 ---
-title: "IR filter switchers"\ntagnames: 'near-infrared-camera, infrared, ircam, infrared-camera, filter-switcher'
+title: "IR filter switchers"
+
+tagnames: 'near-infrared-camera, infrared, ircam, infrared-camera, filter-switcher'
 author: mathew
 path: /notes/mathew/3-12-2013/ir-filter-switchers.md
 nid: 6315
@@ -11,7 +13,7 @@ uid: 4
 
 # IR filter switchers
 
-by [mathew](../profile/mathew) | March 13, 2013 03:11
+by [mathew](../../../profile/mathew) | March 13, 2013 03:11
 
 March 13, 2013 03:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [ircam](../tag/ircam), [infrared-camera](../tag/infrared-camera), [filter-switcher](../tag/filter-switcher)
 

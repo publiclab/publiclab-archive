@@ -1,5 +1,7 @@
 ---
-title: "mapping curriculum publishing"\ntagnames: ''
+title: "mapping curriculum publishing"
+
+tagnames: ''
 author: gonzoearth
 path: /wiki/mapping-curriculum-publishing.md
 nid: 397

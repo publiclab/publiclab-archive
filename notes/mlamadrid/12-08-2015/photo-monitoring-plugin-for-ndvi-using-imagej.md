@@ -1,5 +1,7 @@
 ---
-title: "Photo Monitoring Plugin For NDVI using ImageJ"\ntagnames: 'ndvi, imagej, grassrootsmappingforum, with:nedhorning, style:fancy, gmf-9'
+title: "Photo Monitoring Plugin For NDVI using ImageJ"
+
+tagnames: 'ndvi, imagej, grassrootsmappingforum, with:nedhorning, style:fancy, gmf-9'
 author: mlamadrid
 path: /notes/mlamadrid/12-08-2015/photo-monitoring-plugin-for-ndvi-using-imagej.md
 nid: 12489
@@ -11,7 +13,7 @@ uid: 45586
 
 # Photo Monitoring Plugin For NDVI using ImageJ
 
-by [mlamadrid](../profile/mlamadrid) | December 08, 2015 21:10
+by [mlamadrid](../../../profile/mlamadrid) | December 08, 2015 21:10
 
 December 08, 2015 21:10 | Tags: [ndvi](../tag/ndvi), [imagej](../tag/imagej), [grassrootsmappingforum](../tag/grassrootsmappingforum), [with:nedhorning](../tag/with:nedhorning), [style:fancy](../tag/style:fancy), [gmf-9](../tag/gmf-9)
 

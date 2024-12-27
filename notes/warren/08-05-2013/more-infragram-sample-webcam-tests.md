@@ -1,5 +1,7 @@
 ---
-title: "More Infragram sample webcam tests"\ntagnames: 'near-infrared-camera, infragram, infragram-conversion, infragram-camera-testing'
+title: "More Infragram sample webcam tests"
+
+tagnames: 'near-infrared-camera, infragram, infragram-conversion, infragram-camera-testing'
 author: warren
 path: /notes/warren/08-05-2013/more-infragram-sample-webcam-tests.md
 nid: 8963
@@ -11,7 +13,7 @@ uid: 1
 
 # More Infragram sample webcam tests
 
-by [warren](../profile/warren) | August 05, 2013 18:37
+by [warren](../../../profile/warren) | August 05, 2013 18:37
 
 August 05, 2013 18:37 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-camera-testing](../tag/infragram-camera-testing)
 

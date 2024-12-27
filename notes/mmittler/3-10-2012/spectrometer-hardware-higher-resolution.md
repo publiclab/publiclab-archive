@@ -1,5 +1,7 @@
 ---
-title: "spectrometer hardware with higher resolution"\ntagnames: 'spectrometer'
+title: "spectrometer hardware with higher resolution"
+
+tagnames: 'spectrometer'
 author: mmittler
 path: /notes/mmittler/3-10-2012/spectrometer-hardware-higher-resolution.md
 nid: 917
@@ -9,7 +11,7 @@ uid: 653
 
 # spectrometer hardware with higher resolution
 
-by [mmittler](../profile/mmittler) | March 10, 2012 21:13
+by [mmittler](../../../profile/mmittler) | March 10, 2012 21:13
 
 March 10, 2012 21:13 | Tags: [spectrometer](../tag/spectrometer)
 

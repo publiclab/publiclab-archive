@@ -1,5 +1,7 @@
 ---
-title: "Standalone NBG export for Images & Video (Mac OS X)"\ntagnames: 'near-infrared-camera, video, infragram, nbg, false-color'
+title: "Standalone NBG export for Images & Video (Mac OS X)"
+
+tagnames: 'near-infrared-camera, video, infragram, nbg, false-color'
 author: mathew
 path: /notes/mathew/06-01-2013/standalone-nbg-export-for-images-video-mac-os-x.md
 nid: 7998
@@ -11,7 +13,7 @@ uid: 4
 
 # Standalone NBG export for Images & Video (Mac OS X)
 
-by [mathew](../profile/mathew) | June 01, 2013 02:29
+by [mathew](../../../profile/mathew) | June 01, 2013 02:29
 
 June 01, 2013 02:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [infragram](../tag/infragram), [nbg](../tag/nbg), [false-color](../tag/false-color)
 

@@ -1,5 +1,7 @@
 ---
-title: "Biohavens in Bonnabel --Kite Map of  Wetlands Restoration 2nd October"\ntagnames: 'gulf-coast, kite-mapping, event, marsh, islands, habitat'
+title: "Biohavens in Bonnabel --Kite Map of  Wetlands Restoration 2nd October"
+
+tagnames: 'gulf-coast, kite-mapping, event, marsh, islands, habitat'
 author: eustatic
 path: /09-24-2013/biohavens-in-bonnabel-kite-map-of-wetlands-restoration-2nd-october.md
 nid: 9364
@@ -11,7 +13,7 @@ uid: 379
 
 # Biohavens in Bonnabel --Kite Map of  Wetlands Restoration 2nd October
 
-by [eustatic](../profile/eustatic) | September 24, 2013 23:35
+by [eustatic](../../../profile/eustatic) | September 24, 2013 23:35
 
 September 24, 2013 23:35 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [event](../tag/event), [marsh](../tag/marsh), [islands](../tag/islands), [habitat](../tag/habitat)
 

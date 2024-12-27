@@ -1,5 +1,7 @@
 ---
-title: "Automated captures?"\ntagnames: 'spectrometer, question:spectral-workbench, answered'
+title: "Automated captures?"
+
+tagnames: 'spectrometer, question:spectral-workbench, answered'
 author: viechdokter
 path: /notes/viechdokter/04-13-2016/automated-captures.md
 nid: 12965
@@ -11,7 +13,7 @@ uid: 468990
 
 # Automated captures?
 
-by [viechdokter](../profile/viechdokter) | April 13, 2016 12:01
+by [viechdokter](../../../profile/viechdokter) | April 13, 2016 12:01
 
 April 13, 2016 12:01 | Tags: [spectrometer](../tag/spectrometer), [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 

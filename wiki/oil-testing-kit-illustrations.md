@@ -1,5 +1,7 @@
 ---
-title: "Oil Testing Kit Illustrations"\ntagnames: 'spectrometer, guides, fluorescence, oil-testing-kit, parent:oil-testing-kit, illustrations'
+title: "Oil Testing Kit Illustrations"
+
+tagnames: 'spectrometer, guides, fluorescence, oil-testing-kit, parent:oil-testing-kit, illustrations'
 author: warren
 path: /wiki/oil-testing-kit-illustrations.md
 nid: 10950

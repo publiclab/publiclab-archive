@@ -1,5 +1,7 @@
 ---
-title: "Filtered tap H2O vs unfiltered tap H2O spectral graph comparison"\ntagnames: 'spectrometer, spectrometry, spectroscopy, water-quality, water-monitoring, sweden, transmittance, tapwater, drinking-water, activity:spectrometry, activity:tapwater'
+title: "Filtered tap H2O vs unfiltered tap H2O spectral graph comparison"
+
+tagnames: 'spectrometer, spectrometry, spectroscopy, water-quality, water-monitoring, sweden, transmittance, tapwater, drinking-water, activity:spectrometry, activity:tapwater'
 author: Suiris
 path: /notes/Suiris/08-06-2013/filtered-tap-h2o-vs-unfiltered-tap-h20-graph-comparison.md
 nid: 8965
@@ -11,7 +13,7 @@ uid: 170375
 
 # Filtered tap H2O vs unfiltered tap H2O spectral graph comparison
 
-by [Suiris](../profile/Suiris) | August 06, 2013 01:33
+by [Suiris](../../../profile/Suiris) | August 06, 2013 01:33
 
 August 06, 2013 01:33 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [spectroscopy](../tag/spectroscopy), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [sweden](../tag/sweden), [transmittance](../tag/transmittance), [tapwater](../tag/tapwater), [drinking-water](../tag/drinking-water), [activity:spectrometry](../tag/activity:spectrometry), [activity:tapwater](../tag/activity:tapwater)
 

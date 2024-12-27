@@ -1,5 +1,7 @@
 ---
-title: "Turbidity Measurement Methods & Regulations"\ntagnames: 'water-quality, turbidity, water-sensors, nephelometry, water-regulation, parent:water-quality'
+title: "Turbidity Measurement Methods & Regulations"
+
+tagnames: 'water-quality, turbidity, water-sensors, nephelometry, water-regulation, parent:water-quality'
 author: gilbert
 path: /wiki/turbidity-measurement-methods-regulations.md
 nid: 15406

@@ -1,5 +1,7 @@
 ---
-title: "Water quality testing with a robot in the Gowanus Canal"\ntagnames: 'new-york-city, gowanus, gowanus-canal, water-quality, northeast, robot'
+title: "Water quality testing with a robot in the Gowanus Canal"
+
+tagnames: 'new-york-city, gowanus, gowanus-canal, water-quality, northeast, robot'
 author: jeff
 path: /notes/jeff/09-05-2014/water-quality-testing-with-a-robot-in-the-gowanus-canal.md
 nid: 11105
@@ -11,7 +13,7 @@ uid: 54526
 
 # Water quality testing with a robot in the Gowanus Canal
 
-by [jeff](../profile/jeff) | September 05, 2014 02:04
+by [jeff](../../../profile/jeff) | September 05, 2014 02:04
 
 September 05, 2014 02:04 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [water-quality](../tag/water-quality), [northeast](../tag/northeast), [robot](../tag/robot)
 

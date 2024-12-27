@@ -1,5 +1,7 @@
 ---
-title: "Map showing where you can and can't fly drones"\ntagnames: 'faa, regulations, mapbox'
+title: "Map showing where you can and can't fly drones"
+
+tagnames: 'faa, regulations, mapbox'
 author: ajawitz
 path: /notes/code4maine/08-11-2014/map-showing-where-you-can-and-can-t-fly-drones.md
 nid: 11032
@@ -11,7 +13,7 @@ uid: 294634
 
 # Map showing where you can and can't fly drones
 
-by [ajawitz](../profile/ajawitz) | August 11, 2014 13:56
+by [ajawitz](../../../profile/ajawitz) | August 11, 2014 13:56
 
 August 11, 2014 13:56 | Tags: [faa](../tag/faa), [regulations](../tag/regulations), [mapbox](../tag/mapbox)
 

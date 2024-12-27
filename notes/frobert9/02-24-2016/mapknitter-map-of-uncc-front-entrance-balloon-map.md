@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of UNCC Front Entrance Balloon Map"\ntagnames: 'mapknitter, lat:35.301447208, lon:-80.7316294312'
+title: "MapKnitter map of UNCC Front Entrance Balloon Map"
+
+tagnames: 'mapknitter, lat:35.301447208, lon:-80.7316294312'
 author: frobert9
 path: /notes/frobert9/02-24-2016/mapknitter-map-of-uncc-front-entrance-balloon-map.md
 nid: 12726
@@ -11,7 +13,7 @@ uid: 465827
 
 # MapKnitter map of UNCC Front Entrance Balloon Map
 
-by [frobert9](../profile/frobert9) | February 24, 2016 01:19
+by [frobert9](../../../profile/frobert9) | February 24, 2016 01:19
 
 February 24, 2016 01:19 | Tags: [mapknitter](../tag/mapknitter), [lat:35.301447208](../tag/lat:35.301447208), [lon:-80.7316294312](../tag/lon:-80.7316294312)
 

@@ -1,5 +1,7 @@
 ---
-title: "Gulf Coast Spring Fling! "\ntagnames: 'gulf-coast, balloon-mapping, spectrometry, event, water-quality, event:rsvp, urbanwater, coqui, urbanwaters, waterquality, oiltestkit, date:03-14-2015, rsvp:jlwhitbeck, rsvp:abbeyghart, rsvp:jeanellsullivan'
+title: "Gulf Coast Spring Fling! "
+
+tagnames: 'gulf-coast, balloon-mapping, spectrometry, event, water-quality, event:rsvp, urbanwater, coqui, urbanwaters, waterquality, oiltestkit, date:03-14-2015, rsvp:jlwhitbeck, rsvp:abbeyghart, rsvp:jeanellsullivan'
 author: stevie
 path: /notes/stevie/02-03-2015/gulf-coast-spring-fling.md
 nid: 11551
@@ -11,7 +13,7 @@ uid: 422561
 
 # Gulf Coast Spring Fling! 
 
-by [stevie](../profile/stevie) | February 03, 2015 20:11
+by [stevie](../../../profile/stevie) | February 03, 2015 20:11
 
 February 03, 2015 20:11 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [spectrometry](../tag/spectrometry), [event](../tag/event), [water-quality](../tag/water-quality), [event:rsvp](../tag/event:rsvp), [urbanwater](../tag/urbanwater), [coqui](../tag/coqui), [urbanwaters](../tag/urbanwaters), [waterquality](../tag/waterquality), [oiltestkit](../tag/oiltestkit), [date:03-14-2015](../tag/date:03-14-2015), [rsvp:jlwhitbeck](../tag/rsvp:jlwhitbeck), [rsvp:abbeyghart](../tag/rsvp:abbeyghart), [rsvp:jeanellsullivan](../tag/rsvp:jeanellsullivan)
 

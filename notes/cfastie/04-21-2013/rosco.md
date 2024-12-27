@@ -1,5 +1,7 @@
 ---
-title: "Rosco!"\ntagnames: 'near-infrared-camera, nrg, ndvi, nir, vermont, infrared, white-balance, infragram, plant-health, development, superblue, rosco, vegetation, infrablue, infragram-filters'
+title: "Rosco!"
+
+tagnames: 'near-infrared-camera, nrg, ndvi, nir, vermont, infrared, white-balance, infragram, plant-health, development, superblue, rosco, vegetation, infrablue, infragram-filters'
 author: cfastie
 path: /notes/cfastie/04-21-2013/rosco.md
 nid: 6953
@@ -11,7 +13,7 @@ uid: 554
 
 # Rosco!
 
-by [cfastie](../profile/cfastie) | April 21, 2013 18:57
+by [cfastie](../../../profile/cfastie) | April 21, 2013 18:57
 
 April 21, 2013 18:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [development](../tag/development), [superblue](../tag/superblue), [rosco](../tag/rosco), [vegetation](../tag/vegetation), [infrablue](../tag/infrablue), [infragram-filters](../tag/infragram-filters)
 

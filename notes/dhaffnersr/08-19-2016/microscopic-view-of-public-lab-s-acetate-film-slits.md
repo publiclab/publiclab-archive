@@ -1,5 +1,7 @@
 ---
-title: "Microscopic View of Public Lab's Acetate film slits"\ntagnames: ''
+title: "Microscopic View of Public Lab's Acetate film slits"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-19-2016/microscopic-view-of-public-lab-s-acetate-film-slits.md
 nid: 13370
@@ -11,7 +13,7 @@ uid: 461120
 
 # Microscopic View of Public Lab's Acetate film slits
 
-by [dhaffnersr](../profile/dhaffnersr) | August 19, 2016 16:48
+by [dhaffnersr](../../../profile/dhaffnersr) | August 19, 2016 16:48
 
 August 19, 2016 16:48 | Tags: 
 

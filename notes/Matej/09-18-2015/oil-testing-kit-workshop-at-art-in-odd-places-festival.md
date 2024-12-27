@@ -1,5 +1,7 @@
 ---
-title: "Oil Testing Kit Workshop at Art in Odd Places Festival"\ntagnames: 'spectrometer, oil, event, unboxing, maine, oil-testing-kit, event:rsvp, penobscot-bay, oil-pollution, response:12219, date:10-11-2015, first-time-poster'
+title: "Oil Testing Kit Workshop at Art in Odd Places Festival"
+
+tagnames: 'spectrometer, oil, event, unboxing, maine, oil-testing-kit, event:rsvp, penobscot-bay, oil-pollution, response:12219, date:10-11-2015, first-time-poster'
 author: Matej
 path: /notes/Matej/09-18-2015/oil-testing-kit-workshop-at-art-in-odd-places-festival.md
 nid: 12228
@@ -11,7 +13,7 @@ uid: 451808
 
 # Oil Testing Kit Workshop at Art in Odd Places Festival
 
-by [Matej](../profile/Matej) | September 18, 2015 15:55
+by [Matej](../../../profile/Matej) | September 18, 2015 15:55
 
 September 18, 2015 15:55 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [event](../tag/event), [unboxing](../tag/unboxing), [maine](../tag/maine), [oil-testing-kit](../tag/oil-testing-kit), [event:rsvp](../tag/event:rsvp), [penobscot-bay](../tag/penobscot-bay), [oil-pollution](../tag/oil-pollution), [response:12219](../tag/response:12219), [date:10-11-2015](../tag/date:10-11-2015), [first-time-poster](../tag/first-time-poster)
 

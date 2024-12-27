@@ -1,5 +1,7 @@
 ---
-title: "Stereo Camera"\ntagnames: 'dual-camera, agriculture, photo-rig, urban-planning, tool, stereo, land-use, method, land-change'
+title: "Stereo Camera"
+
+tagnames: 'dual-camera, agriculture, photo-rig, urban-planning, tool, stereo, land-use, method, land-change'
 author: liz
 path: /wiki/stereo-camera.md
 nid: 47

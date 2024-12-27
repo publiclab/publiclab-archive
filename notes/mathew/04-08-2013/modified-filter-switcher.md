@@ -1,5 +1,7 @@
 ---
-title: "Modified Filter Switcher"\ntagnames: 'near-infrared-camera, infrared-camera, filter-switcher'
+title: "Modified Filter Switcher"
+
+tagnames: 'near-infrared-camera, infrared-camera, filter-switcher'
 author: mathew
 path: /notes/mathew/04-08-2013/modified-filter-switcher.md
 nid: 6717
@@ -11,7 +13,7 @@ uid: 4
 
 # Modified Filter Switcher
 
-by [mathew](../profile/mathew) | April 08, 2013 03:45
+by [mathew](../../../profile/mathew) | April 08, 2013 03:45
 
 April 08, 2013 03:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared-camera](../tag/infrared-camera), [filter-switcher](../tag/filter-switcher)
 

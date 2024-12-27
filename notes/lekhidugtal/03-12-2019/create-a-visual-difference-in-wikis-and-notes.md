@@ -1,5 +1,7 @@
 ---
-title: "Create a Visual difference in wikis and notes"\ntagnames: 'design, ui, first-time-poster, ui-designs, notes, wikis'
+title: "Create a Visual difference in wikis and notes"
+
+tagnames: 'design, ui, first-time-poster, ui-designs, notes, wikis'
 author: lekhidugtal
 path: /notes/lekhidugtal/03-12-2019/create-a-visual-difference-in-wikis-and-notes.md
 nid: 18523
@@ -11,7 +13,7 @@ uid: 577754
 
 # Create a Visual difference in wikis and notes
 
-by [lekhidugtal](../profile/lekhidugtal) | March 12, 2019 16:52
+by [lekhidugtal](../../../profile/lekhidugtal) | March 12, 2019 16:52
 
 March 12, 2019 16:52 | Tags: [design](../tag/design), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster), [ui-designs](../tag/ui-designs), [notes](../tag/notes), [wikis](../tag/wikis)
 

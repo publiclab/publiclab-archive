@@ -1,5 +1,7 @@
 ---
-title: "Add Reviewers to a language (managers)"\ntagnames: 'community, website, localization, translation, language, activity:localization-managers, transifex'
+title: "Add Reviewers to a language (managers)"
+
+tagnames: 'community, website, localization, translation, language, activity:localization-managers, transifex'
 author: liz
 path: /notes/liz/10-26-2016/add-reviewers-to-a-language.md
 nid: 13656
@@ -11,7 +13,7 @@ uid: 7
 
 # Add Reviewers to a language (managers)
 
-by [liz](../profile/liz) | October 26, 2016 20:26
+by [liz](../../../profile/liz) | October 26, 2016 20:26
 
 October 26, 2016 20:26 | Tags: [community](../tag/community), [website](../tag/website), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization-managers](../tag/activity:localization-managers), [transifex](../tag/transifex)
 

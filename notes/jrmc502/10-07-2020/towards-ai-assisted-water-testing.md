@@ -1,5 +1,7 @@
 ---
-title: "(Towards) AI-Assisted Water Testing"\ntagnames: 'water-quality, wheestat, first-time-poster, zoom:4, ai, lat:38.833881, lon:-104.821363, machine-learning'
+title: "(Towards) AI-Assisted Water Testing"
+
+tagnames: 'water-quality, wheestat, first-time-poster, zoom:4, ai, lat:38.833881, lon:-104.821363, machine-learning'
 author: jrmc502
 path: /notes/jrmc502/10-07-2020/towards-ai-assisted-water-testing.md
 nid: 24713
@@ -11,7 +13,7 @@ uid: 705531
 
 # (Towards) AI-Assisted Water Testing
 
-by [jrmc502](../profile/jrmc502) | October 07, 2020 19:15
+by [jrmc502](../../../profile/jrmc502) | October 07, 2020 19:15
 
 October 07, 2020 19:15 | Tags: [water-quality](../tag/water-quality), [wheestat](../tag/wheestat), [first-time-poster](../tag/first-time-poster), [zoom:4](../tag/zoom:4), [ai](../tag/ai), [lat:38.833881](../tag/lat:38.833881), [lon:-104.821363](../tag/lon:-104.821363), [machine-learning](../tag/machine-learning)
 

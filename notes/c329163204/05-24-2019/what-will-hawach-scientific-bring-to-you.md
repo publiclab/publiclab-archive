@@ -1,5 +1,7 @@
 ---
-title: "What Will Hawach Scientific Bring to You?"\ntagnames: 'lat:34.341574, lon:108.93977'
+title: "What Will Hawach Scientific Bring to You?"
+
+tagnames: 'lat:34.341574, lon:108.93977'
 author: c329163204
 path: /notes/c329163204/05-24-2019/what-will-hawach-scientific-bring-to-you.md
 nid: 19513
@@ -11,7 +13,7 @@ uid: 592122
 
 # What Will Hawach Scientific Bring to You?
 
-by [c329163204](../profile/c329163204) | May 24, 2019 10:19
+by [c329163204](../../../profile/c329163204) | May 24, 2019 10:19
 
 May 24, 2019 10:19 | Tags: [lat:34.341574](../tag/lat:34.341574), [lon:108.93977](../tag/lon:108.93977)
 

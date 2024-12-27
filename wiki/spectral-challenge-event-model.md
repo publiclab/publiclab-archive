@@ -1,5 +1,7 @@
 ---
-title: "Spectral Challenge event model"\ntagnames: 'event, spectralchallenge'
+title: "Spectral Challenge event model"
+
+tagnames: 'event, spectralchallenge'
 author: liz
 path: /wiki/spectral-challenge-event-model.md
 nid: 6933

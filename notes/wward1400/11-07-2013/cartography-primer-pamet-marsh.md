@@ -1,5 +1,7 @@
 ---
-title: "Cartography Primer - Pamet Marsh"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, boston, wetlands, oyster-reef, infragram, cape-cod, marsh, pamet, oyster, infrabluephoto, lat:41.997066, lon:-70.038032, place:pamet-marsh-ma'
+title: "Cartography Primer - Pamet Marsh"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, boston, wetlands, oyster-reef, infragram, cape-cod, marsh, pamet, oyster, infrabluephoto, lat:41.997066, lon:-70.038032, place:pamet-marsh-ma'
 author: wward1400
 path: /notes/wward1400/11-07-2013/cartography-primer-pamet-marsh.md
 nid: 9743
@@ -11,7 +13,7 @@ uid: 46742
 
 # Cartography Primer - Pamet Marsh
 
-by [wward1400](../profile/wward1400) | November 07, 2013 03:05
+by [wward1400](../../../profile/wward1400) | November 07, 2013 03:05
 
 November 07, 2013 03:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [wetlands](../tag/wetlands), [oyster-reef](../tag/oyster-reef), [infragram](../tag/infragram), [cape-cod](../tag/cape-cod), [marsh](../tag/marsh), [pamet](../tag/pamet), [oyster](../tag/oyster), [infrabluephoto](../tag/infrabluephoto), [lat:41.997066](../tag/lat:41.997066), [lon:-70.038032](../tag/lon:-70.038032), [place:pamet-marsh-ma](../tag/place:pamet-marsh-ma)
 

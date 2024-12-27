@@ -1,5 +1,7 @@
 ---
-title: "Can I rapidly survey the Chalmette stink on my way to work?"\ntagnames: 'gulf-coast, louisiana, gps, air-quality, chalmette, question:general, general, odor-logging, question:odor-logging'
+title: "Can I rapidly survey the Chalmette stink on my way to work?"
+
+tagnames: 'gulf-coast, louisiana, gps, air-quality, chalmette, question:general, general, odor-logging, question:odor-logging'
 author: eustatic
 path: /10-15-2020/can-i-rapidly-survey-the-chalmette-stink-on-my-way-to-work.md
 nid: 24755
@@ -9,7 +11,7 @@ uid: 379
 
 # Can I rapidly survey the Chalmette stink on my way to work?
 
-by [eustatic](../profile/eustatic) | October 15, 2020 19:51
+by [eustatic](../../../profile/eustatic) | October 15, 2020 19:51
 
 October 15, 2020 19:51 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [gps](../tag/gps), [air-quality](../tag/air-quality), [chalmette](../tag/chalmette), [question:general](../tag/question:general), [general](../tag/general), [odor-logging](../tag/odor-logging), [question:odor-logging](../tag/question:odor-logging)
 

@@ -1,5 +1,7 @@
 ---
-title: "Hi Mathew "\ntagnames: 'first-time-poster'
+title: "Hi Mathew "
+
+tagnames: 'first-time-poster'
 author: myluli0110
 path: /notes/myluli0110/08-02-2022/hi-mathew.md
 nid: 34815
@@ -9,7 +11,7 @@ uid: 808124
 
 # Hi Mathew 
 
-by [myluli0110](../profile/myluli0110) | August 02, 2022 02:55
+by [myluli0110](../../../profile/myluli0110) | August 02, 2022 02:55
 
 August 02, 2022 02:55 | Tags: [first-time-poster](../tag/first-time-poster)
 

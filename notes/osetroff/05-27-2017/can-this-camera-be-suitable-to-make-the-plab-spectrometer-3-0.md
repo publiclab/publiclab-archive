@@ -1,5 +1,7 @@
 ---
-title: "Can this camera be suitable to make the PLAB spectrometer 3.0?"\ntagnames: 'question:generalspectrometer'
+title: "Can this camera be suitable to make the PLAB spectrometer 3.0?"
+
+tagnames: 'question:generalspectrometer'
 author: osetroff
 path: /notes/osetroff/05-27-2017/can-this-camera-be-suitable-to-make-the-plab-spectrometer-3-0.md
 nid: 14233
@@ -9,7 +11,7 @@ uid: 507230
 
 # Can this camera be suitable to make the PLAB spectrometer 3.0?
 
-by [osetroff](../profile/osetroff) | May 27, 2017 18:23
+by [osetroff](../../../profile/osetroff) | May 27, 2017 18:23
 
 May 27, 2017 18:23 | Tags: [question:generalspectrometer](../tag/question:generalspectrometer)
 

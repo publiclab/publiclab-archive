@@ -1,5 +1,7 @@
 ---
-title: "Low floor, high ceiling for Public Lab research notes"\ntagnames: 'collaboration, community, website, research, blog, authoring, research-notes, growth, ui'
+title: "Low floor, high ceiling for Public Lab research notes"
+
+tagnames: 'collaboration, community, website, research, blog, authoring, research-notes, growth, ui'
 author: warren
 path: /notes/warren/07-01-2015/low-floor-high-ceiling-for-public-lab-research-notes.md
 nid: 12027
@@ -11,7 +13,7 @@ uid: 1
 
 # Low floor, high ceiling for Public Lab research notes
 
-by [warren](../profile/warren) | July 01, 2015 15:41
+by [warren](../../../profile/warren) | July 01, 2015 15:41
 
 July 01, 2015 15:41 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [website](../tag/website), [research](../tag/research), [blog](../tag/blog), [authoring](../tag/authoring), [research-notes](../tag/research-notes), [growth](../tag/growth), [ui](../tag/ui)
 

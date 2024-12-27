@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Financials"\ntagnames: 'fundraising, nonprofit, parent:about'
+title: "Public Lab Financials"
+
+tagnames: 'fundraising, nonprofit, parent:about'
 author: Shannon
 path: /wiki/how-we-are-funded.md
 nid: 657

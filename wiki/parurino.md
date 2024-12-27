@@ -1,5 +1,7 @@
 ---
-title: "Parurino"\ntagnames: 'parurino'
+title: "Parurino"
+
+tagnames: 'parurino'
 author: warren
 path: /wiki/parurino.md
 nid: 445

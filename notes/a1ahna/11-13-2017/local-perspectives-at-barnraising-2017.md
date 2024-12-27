@@ -1,5 +1,7 @@
 ---
-title: "Local Perspectives at Barnraising 2017"\ntagnames: 'balloon-mapping, community, louisiana, conservation, cocodrie, mapping, barnraising, event, blog, drone, barnstar:basic, kayak, preservation, barnraising-2017, barnraising2017, landsapes, map, first-time-poster'
+title: "Local Perspectives at Barnraising 2017"
+
+tagnames: 'balloon-mapping, community, louisiana, conservation, cocodrie, mapping, barnraising, event, blog, drone, barnstar:basic, kayak, preservation, barnraising-2017, barnraising2017, landsapes, map, first-time-poster'
 author: a1ahna
 path: /notes/a1ahna/11-13-2017/local-perspectives-at-barnraising-2017.md
 nid: 15179
@@ -11,7 +13,7 @@ uid: 518193
 
 # Local Perspectives at Barnraising 2017
 
-by [a1ahna](../profile/a1ahna) | November 13, 2017 18:11
+by [a1ahna](../../../profile/a1ahna) | November 13, 2017 18:11
 
 November 13, 2017 18:11 | Tags: [balloon-mapping](../tag/balloon-mapping), [community](../tag/community), [louisiana](../tag/louisiana), [conservation](../tag/conservation), [cocodrie](../tag/cocodrie), [mapping](../tag/mapping), [barnraising](../tag/barnraising), [event](../tag/event), [blog](../tag/blog), [drone](../tag/drone), [barnstar:basic](../tag/barnstar:basic), [kayak](../tag/kayak), [preservation](../tag/preservation), [barnraising-2017](../tag/barnraising-2017), [barnraising2017](../tag/barnraising2017), [landsapes](../tag/landsapes), [map](../tag/map), [first-time-poster](../tag/first-time-poster)
 

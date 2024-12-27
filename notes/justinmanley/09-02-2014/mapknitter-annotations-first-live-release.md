@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter Annotations: First Live Release"\ntagnames: 'mapknitter, gsoc, gsoc-2014, annotations'
+title: "MapKnitter Annotations: First Live Release"
+
+tagnames: 'mapknitter, gsoc, gsoc-2014, annotations'
 author: justinmanley
 path: /notes/justinmanley/09-02-2014/mapknitter-annotations-first-live-release.md
 nid: 11096
@@ -11,7 +13,7 @@ uid: 421556
 
 # MapKnitter Annotations: First Live Release
 
-by [justinmanley](../profile/justinmanley) | September 02, 2014 03:22
+by [justinmanley](../../../profile/justinmanley) | September 02, 2014 03:22
 
 September 02, 2014 03:22 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
 

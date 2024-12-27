@@ -1,5 +1,7 @@
 ---
-title: "Holiday Sale on Public Lab Kits!"\ntagnames: 'balloon-mapping, spectrometer, kite-mapping, kits, store, hardware, community-microscope'
+title: "Holiday Sale on Public Lab Kits!"
+
+tagnames: 'balloon-mapping, spectrometer, kite-mapping, kits, store, hardware, community-microscope'
 author: Bronwen
 path: /notes/Bronwen/12-11-2019/holiday-sale-on-public-lab-kits.md
 nid: 21733
@@ -11,7 +13,7 @@ uid: 237313
 
 # Holiday Sale on Public Lab Kits!
 
-by [Bronwen](../profile/Bronwen) | December 11, 2019 20:07
+by [Bronwen](../../../profile/Bronwen) | December 11, 2019 20:07
 
 December 11, 2019 20:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping), [kits](../tag/kits), [store](../tag/store), [hardware](../tag/hardware), [community-microscope](../tag/community-microscope)
 

@@ -1,5 +1,7 @@
 ---
-title: "map of Green Garden June 27 2014"\ntagnames: 'polemapping, newark, new-jersey, urban-ag, garden, pole-mapping, elp, northeast, with:thegreencommunitygarden'
+title: "map of Green Garden June 27 2014"
+
+tagnames: 'polemapping, newark, new-jersey, urban-ag, garden, pole-mapping, elp, northeast, with:thegreencommunitygarden'
 author: liz
 path: /notes/liz/07-29-2014/map-of-green-garden-june-27-2014.md
 nid: 10992
@@ -11,7 +13,7 @@ uid: 7
 
 # map of Green Garden June 27 2014
 
-by [liz](../profile/liz) | July 29, 2014 16:48
+by [liz](../../../profile/liz) | July 29, 2014 16:48
 
 July 29, 2014 16:48 | Tags: [polemapping](../tag/polemapping), [newark](../tag/newark), [new-jersey](../tag/new-jersey), [urban-ag](../tag/urban-ag), [garden](../tag/garden), [pole-mapping](../tag/pole-mapping), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden)
 

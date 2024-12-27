@@ -1,5 +1,7 @@
 ---
-title: "Davis"\ntagnames: 'chapter'
+title: "Davis"
+
+tagnames: 'chapter'
 author: gonzoearth
 path: /wiki/davis.md
 nid: 778

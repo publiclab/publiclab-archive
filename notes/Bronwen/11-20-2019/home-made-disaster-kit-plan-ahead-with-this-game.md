@@ -1,5 +1,7 @@
 ---
-title: "Home-Made Disaster Kit: Plan Ahead With This Game!"\ntagnames: 'barnraising, blog, disaster-response, activity:disaster-response, disaster-response-kit, txbarnraising, texas-barnraising, with:dbsnp, emergency-response-kit, reaccion, txbr2019'
+title: "Home-Made Disaster Kit: Plan Ahead With This Game!"
+
+tagnames: 'barnraising, blog, disaster-response, activity:disaster-response, disaster-response-kit, txbarnraising, texas-barnraising, with:dbsnp, emergency-response-kit, reaccion, txbr2019'
 author: Bronwen
 path: /notes/Bronwen/11-20-2019/home-made-disaster-kit-plan-ahead-with-this-game.md
 nid: 21538
@@ -11,7 +13,7 @@ uid: 237313
 
 # Home-Made Disaster Kit: Plan Ahead With This Game!
 
-by [Bronwen](../profile/Bronwen) | November 20, 2019 14:57
+by [Bronwen](../../../profile/Bronwen) | November 20, 2019 14:57
 
 November 20, 2019 14:57 | Tags: [barnraising](../tag/barnraising), [blog](../tag/blog), [disaster-response](../tag/disaster-response), [activity:disaster-response](../tag/activity:disaster-response), [disaster-response-kit](../tag/disaster-response-kit), [txbarnraising](../tag/txbarnraising), [texas-barnraising](../tag/texas-barnraising), [with:dbsnp](../tag/with:dbsnp), [emergency-response-kit](../tag/emergency-response-kit), [reaccion](../tag/reaccion), [txbr2019](../tag/txbr2019)
 

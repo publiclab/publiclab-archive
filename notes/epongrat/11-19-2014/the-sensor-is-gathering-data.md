@@ -1,5 +1,7 @@
 ---
-title: "Pollution to Solution: The sensor is gathering data!"\ntagnames: 'air-quality, umass-amherst, amherst-media, 5-college, publiclab-at-umass'
+title: "Pollution to Solution: The sensor is gathering data!"
+
+tagnames: 'air-quality, umass-amherst, amherst-media, 5-college, publiclab-at-umass'
 author: epongrat
 path: /notes/epongrat/11-19-2014/the-sensor-is-gathering-data.md
 nid: 11369
@@ -11,7 +13,7 @@ uid: 428825
 
 # Pollution to Solution: The sensor is gathering data!
 
-by [epongrat](../profile/epongrat) | November 19, 2014 20:53
+by [epongrat](../../../profile/epongrat) | November 19, 2014 20:53
 
 November 19, 2014 20:53 | Tags: [air-quality](../tag/air-quality), [umass-amherst](../tag/umass-amherst), [amherst-media](../tag/amherst-media), [5-college](../tag/5-college), [publiclab-at-umass](../tag/publiclab-at-umass)
 

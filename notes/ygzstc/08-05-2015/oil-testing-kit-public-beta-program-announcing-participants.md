@@ -1,5 +1,7 @@
 ---
-title: "Oil Testing Kit Public Beta Program - Welcome!"\ntagnames: 'spectrometer, oil-testing, oil-testing-kit, homebrew-oil-testing-kit, otk, homebrew, response:12060'
+title: "Oil Testing Kit Public Beta Program - Welcome!"
+
+tagnames: 'spectrometer, oil-testing, oil-testing-kit, homebrew-oil-testing-kit, otk, homebrew, response:12060'
 author: ygzstc
 path: /notes/ygzstc/08-05-2015/oil-testing-kit-public-beta-program-announcing-participants.md
 nid: 12123
@@ -11,7 +13,7 @@ uid: 422489
 
 # Oil Testing Kit Public Beta Program - Welcome!
 
-by [ygzstc](../profile/ygzstc) | August 05, 2015 17:55
+by [ygzstc](../../../profile/ygzstc) | August 05, 2015 17:55
 
 August 05, 2015 17:55 | Tags: [spectrometer](../tag/spectrometer), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [otk](../tag/otk), [homebrew](../tag/homebrew), [response:12060](../tag/response:12060)
 

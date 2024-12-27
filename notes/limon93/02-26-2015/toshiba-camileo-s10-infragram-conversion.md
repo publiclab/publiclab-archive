@@ -1,5 +1,7 @@
 ---
-title: "Toshiba Camileo S10 Infragram conversion."\ntagnames: 'ir, conversion, filter, infragram, toshiba, camileo, s10, activity:infrared-camera-conversion'
+title: "Toshiba Camileo S10 Infragram conversion."
+
+tagnames: 'ir, conversion, filter, infragram, toshiba, camileo, s10, activity:infrared-camera-conversion'
 author: limon93
 path: /notes/limon93/02-26-2015/toshiba-camileo-s10-infragram-conversion.md
 nid: 11641
@@ -11,7 +13,7 @@ uid: 435788
 
 # Toshiba Camileo S10 Infragram conversion.
 
-by [limon93](../profile/limon93) | February 26, 2015 15:01
+by [limon93](../../../profile/limon93) | February 26, 2015 15:01
 
 February 26, 2015 15:01 | Tags: [ir](../tag/ir), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [toshiba](../tag/toshiba), [camileo](../tag/camileo), [s10](../tag/s10), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion)
 

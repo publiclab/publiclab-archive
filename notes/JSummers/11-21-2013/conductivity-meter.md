@@ -1,5 +1,7 @@
 ---
-title: "Conductivity meter"\ntagnames: 'wcu, launchpad, conductivity, activity:conductivity'
+title: "Conductivity meter"
+
+tagnames: 'wcu, launchpad, conductivity, activity:conductivity'
 author: JSummers
 path: /notes/JSummers/11-21-2013/conductivity-meter.md
 nid: 9813
@@ -11,7 +13,7 @@ uid: 304279
 
 # Conductivity meter
 
-by [JSummers](../profile/JSummers) | November 21, 2013 22:28
+by [JSummers](../../../profile/JSummers) | November 21, 2013 22:28
 
 November 21, 2013 22:28 | Tags: [wcu](../tag/wcu), [launchpad](../tag/launchpad), [conductivity](../tag/conductivity), [activity:conductivity](../tag/activity:conductivity)
 

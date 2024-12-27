@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench calibration"\ntagnames: 'spectrometer, spectralworkbench, cd, parent:spectral-workbench, location:blurred, lat:20, spectral-workbench-calibration, zoom:6, lon:-103, place:mexico'
+title: "Spectral Workbench calibration"
+
+tagnames: 'spectrometer, spectralworkbench, cd, parent:spectral-workbench, location:blurred, lat:20, spectral-workbench-calibration, zoom:6, lon:-103, place:mexico'
 author: warren
 path: /wiki/spectral-workbench-calibration.md
 nid: 748

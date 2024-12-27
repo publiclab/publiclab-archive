@@ -1,5 +1,7 @@
 ---
-title: "Gather and analyze long term solar and wind data for my locale"\ntagnames: 'arduino, wisconsin, wind, monitoring, weather, solar, activity:arduino, activity:weather, activity:wind, activity:solar'
+title: "Gather and analyze long term solar and wind data for my locale"
+
+tagnames: 'arduino, wisconsin, wind, monitoring, weather, solar, activity:arduino, activity:weather, activity:wind, activity:solar'
 author: wjw
 path: /notes/wjw/01-25-2016/gather-and-analyze-long-term-solar-and-wind-data-for-my-locale.md
 nid: 12610
@@ -11,7 +13,7 @@ uid: 462290
 
 # Gather and analyze long term solar and wind data for my locale
 
-by [wjw](../profile/wjw) | January 25, 2016 01:09
+by [wjw](../../../profile/wjw) | January 25, 2016 01:09
 
 January 25, 2016 01:09 | Tags: [arduino](../tag/arduino), [wisconsin](../tag/wisconsin), [wind](../tag/wind), [monitoring](../tag/monitoring), [weather](../tag/weather), [solar](../tag/solar), [activity:arduino](../tag/activity:arduino), [activity:weather](../tag/activity:weather), [activity:wind](../tag/activity:wind), [activity:solar](../tag/activity:solar)
 

@@ -1,5 +1,7 @@
 ---
-title: "Mapping the Thacher Bioswale: Analyzing Erosion Patterns and Vegetation"\ntagnames: 'balloon-mapping, event, erosion, hidden:response, response:14179'
+title: "Mapping the Thacher Bioswale: Analyzing Erosion Patterns and Vegetation"
+
+tagnames: 'balloon-mapping, event, erosion, hidden:response, response:14179'
 author: section1group3
 path: /notes/section1group3/05-30-2017/mapping-the-thacher-bioswale-analyzing-erosion-patterns-and-vegetation.md
 nid: 14239
@@ -11,7 +13,7 @@ uid: 507074
 
 # Mapping the Thacher Bioswale: Analyzing Erosion Patterns and Vegetation
 
-by [section1group3](../profile/section1group3) | May 30, 2017 16:07
+by [section1group3](../../../profile/section1group3) | May 30, 2017 16:07
 
 May 30, 2017 16:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [erosion](../tag/erosion), [hidden:response](../tag/hidden:response), [response:14179](../tag/response:14179)
 

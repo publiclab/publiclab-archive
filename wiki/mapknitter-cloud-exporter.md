@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter Cloud Exporter"\ntagnames: 'mapknitter, mapknitter-development, parent:mapknitter, location:blurred, zoom:15, lat:57.11, lon:-2.23'
+title: "MapKnitter Cloud Exporter"
+
+tagnames: 'mapknitter, mapknitter-development, parent:mapknitter, location:blurred, zoom:15, lat:57.11, lon:-2.23'
 author: warren
 path: /wiki/mapknitter-cloud-exporter.md
 nid: 23345

@@ -1,5 +1,7 @@
 ---
-title: "Software project ideas for upcoming 2018 Summer of Code fellowships?"\ntagnames: 'software, gsoc, developers, code, response:12827, question:gsoc, soc, response:13975, summer-of-code, question:soc, question:developers, question:software'
+title: "Software project ideas for upcoming 2018 Summer of Code fellowships?"
+
+tagnames: 'software, gsoc, developers, code, response:12827, question:gsoc, soc, response:13975, summer-of-code, question:soc, question:developers, question:software'
 author: warren
 path: /notes/warren/01-08-2018/software-project-ideas-for-upcoming-2018-summer-of-code-fellowships.md
 nid: 15477
@@ -9,7 +11,7 @@ uid: 1
 
 # Software project ideas for upcoming 2018 Summer of Code fellowships?
 
-by [warren](../profile/warren) | January 08, 2018 19:15
+by [warren](../../../profile/warren) | January 08, 2018 19:15
 
 January 08, 2018 19:15 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [code](../tag/code), [response:12827](../tag/response:12827), [question:gsoc](../tag/question:gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [summer-of-code](../tag/summer-of-code), [question:soc](../tag/question:soc), [question:developers](../tag/question:developers), [question:software](../tag/question:software)
 

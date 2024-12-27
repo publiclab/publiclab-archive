@@ -1,5 +1,7 @@
 ---
-title: "Community Atlas"\ntagnames: 'community-atlas'
+title: "Community Atlas"
+
+tagnames: 'community-atlas'
 author: warren
 path: /wiki/community-atlas.md
 nid: 20644

@@ -1,5 +1,7 @@
 ---
-title: "Mapping a Human Scaled World"\ntagnames: ''
+title: "Mapping a Human Scaled World"
+
+tagnames: ''
 author: eymund
 path: /notes/eymund/02-20-2014/mapping-a-human-scaled-world.md
 nid: 10050
@@ -11,7 +13,7 @@ uid: 1016
 
 # Mapping a Human Scaled World
 
-by [eymund](../profile/eymund) | February 20, 2014 17:54
+by [eymund](../../../profile/eymund) | February 20, 2014 17:54
 
 February 20, 2014 17:54 | Tags: 
 

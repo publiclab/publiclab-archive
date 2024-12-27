@@ -1,5 +1,7 @@
 ---
-title: "Using Fluxtream to look at Speck Data"\ntagnames: 'visualization, data, dust, silica, speck'
+title: "Using Fluxtream to look at Speck Data"
+
+tagnames: 'visualization, data, dust, silica, speck'
 author: mathew
 path: /notes/mathew/06-05-2014/using-fluxtream-to-look-at-speck-data.md
 nid: 10532
@@ -11,7 +13,7 @@ uid: 4
 
 # Using Fluxtream to look at Speck Data
 
-by [mathew](../profile/mathew) | June 05, 2014 22:26
+by [mathew](../../../profile/mathew) | June 05, 2014 22:26
 
 June 05, 2014 22:26 | Tags: [visualization](../tag/visualization), [data](../tag/data), [dust](../tag/dust), [silica](../tag/silica), [speck](../tag/speck)
 

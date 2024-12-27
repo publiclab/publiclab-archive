@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal: Fortify Public Lab Text Editor and Introduce More Custom Inserts"\ntagnames: 'software, soc, outreachy, first-time-poster, image, soc-2020, outreachy-2020, outreachy-2020-proposals, response:23084'
+title: "Outreachy proposal: Fortify Public Lab Text Editor and Introduce More Custom Inserts"
+
+tagnames: 'software, soc, outreachy, first-time-poster, image, soc-2020, outreachy-2020, outreachy-2020-proposals, response:23084'
 author: asoamarachi
 path: /notes/asoamarachi/04-08-2020/outreachy-proposal-fortify-public-lab-text-editor-and-introduce-more-custom-inserts.md
 nid: 23339
@@ -9,7 +11,7 @@ uid: 671968
 
 # Outreachy proposal: Fortify Public Lab Text Editor and Introduce More Custom Inserts
 
-by [asoamarachi](../profile/asoamarachi) | April 08, 2020 08:43
+by [asoamarachi](../../../profile/asoamarachi) | April 08, 2020 08:43
 
 April 08, 2020 08:43 | Tags: [software](../tag/software), [soc](../tag/soc), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [image](../tag/image), [soc-2020](../tag/soc-2020), [outreachy-2020](../tag/outreachy-2020), [outreachy-2020-proposals](../tag/outreachy-2020-proposals), [response:23084](../tag/response:23084)
 

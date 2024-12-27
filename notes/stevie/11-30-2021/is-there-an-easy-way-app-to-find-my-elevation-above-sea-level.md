@@ -1,5 +1,7 @@
 ---
-title: "Is there an easy way (app?) to find my elevation above sea level?"\ntagnames: 'mapping, air-quality, question:air-quality, question:general, general, purpleair, question:mapping, question:purpleair, purple-air, elevation, question:purple-air, with:lesbreathe, question:elevation, lesbreathe, question:lesbreathe, erpa, question:erpa'
+title: "Is there an easy way (app?) to find my elevation above sea level?"
+
+tagnames: 'mapping, air-quality, question:air-quality, question:general, general, purpleair, question:mapping, question:purpleair, purple-air, elevation, question:purple-air, with:lesbreathe, question:elevation, lesbreathe, question:lesbreathe, erpa, question:erpa'
 author: stevie
 path: /notes/stevie/11-30-2021/is-there-an-easy-way-app-to-find-my-elevation-above-sea-level.md
 nid: 28317
@@ -9,7 +11,7 @@ uid: 422561
 
 # Is there an easy way (app?) to find my elevation above sea level?
 
-by [stevie](../profile/stevie) | November 30, 2021 20:29
+by [stevie](../../../profile/stevie) | November 30, 2021 20:29
 
 November 30, 2021 20:29 | Tags: [mapping](../tag/mapping), [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [purpleair](../tag/purpleair), [question:mapping](../tag/question:mapping), [question:purpleair](../tag/question:purpleair), [purple-air](../tag/purple-air), [elevation](../tag/elevation), [question:purple-air](../tag/question:purple-air), [with:lesbreathe](../tag/with:lesbreathe), [question:elevation](../tag/question:elevation), [lesbreathe](../tag/lesbreathe), [question:lesbreathe](../tag/question:lesbreathe), [erpa](../tag/erpa), [question:erpa](../tag/question:erpa)
 

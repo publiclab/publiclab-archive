@@ -1,5 +1,7 @@
 ---
-title: "Preparing to map thermal pollution"\ntagnames: 'thermal-photography, tac, thermal-imaging, flir, thermal-pollution'
+title: "Preparing to map thermal pollution"
+
+tagnames: 'thermal-photography, tac, thermal-imaging, flir, thermal-pollution'
 author: clairebwmiller
 path: /notes/clairebwmiller/02-04-2014/preparing-to-map-thermal-pollution.md
 nid: 10010
@@ -11,7 +13,7 @@ uid: 420611
 
 # Preparing to map thermal pollution
 
-by [clairebwmiller](../profile/clairebwmiller) | February 04, 2014 16:59
+by [clairebwmiller](../../../profile/clairebwmiller) | February 04, 2014 16:59
 
 February 04, 2014 16:59 | Tags: [thermal-photography](../tag/thermal-photography), [tac](../tag/tac), [thermal-imaging](../tag/thermal-imaging), [flir](../tag/flir), [thermal-pollution](../tag/thermal-pollution)
 

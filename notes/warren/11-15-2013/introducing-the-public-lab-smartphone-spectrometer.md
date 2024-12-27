@@ -1,5 +1,7 @@
 ---
-title: "Introducing the Public Lab Smartphone Spectrometer"\ntagnames: 'spectrometer, kickstarter, smartphone-spectrometer'
+title: "Introducing the Public Lab Smartphone Spectrometer"
+
+tagnames: 'spectrometer, kickstarter, smartphone-spectrometer'
 author: warren
 path: /notes/warren/11-15-2013/introducing-the-public-lab-smartphone-spectrometer.md
 nid: 9786
@@ -11,7 +13,7 @@ uid: 1
 
 # Introducing the Public Lab Smartphone Spectrometer
 
-by [warren](../profile/warren) | November 15, 2013 20:49
+by [warren](../../../profile/warren) | November 15, 2013 20:49
 
 November 15, 2013 20:49 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [smartphone-spectrometer](../tag/smartphone-spectrometer)
 

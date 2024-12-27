@@ -1,5 +1,7 @@
 ---
-title: "Testing a cheap webcam with Infragram - spoiler alert: nope"\ntagnames: 'kits, webcam, infragram, infragram-conversion, lens, red-filter, infragram-webcam, aren, activity:infrared-camera-conversion, infrared-camera-conversion, ndvi:, infragram-testing, m12, negative-result'
+title: "Testing a cheap webcam with Infragram - spoiler alert: nope"
+
+tagnames: 'kits, webcam, infragram, infragram-conversion, lens, red-filter, infragram-webcam, aren, activity:infrared-camera-conversion, infrared-camera-conversion, ndvi:, infragram-testing, m12, negative-result'
 author: warren
 path: /notes/warren/04-25-2018/testing-a-cheap-webcam-with-infragram-spoiler-alert-nope.md
 nid: 16212
@@ -11,7 +13,7 @@ uid: 1
 
 # Testing a cheap webcam with Infragram - spoiler alert: nope
 
-by [warren](../profile/warren) | April 25, 2018 20:56
+by [warren](../../../profile/warren) | April 25, 2018 20:56
 
 April 25, 2018 20:56 | Tags: [kits](../tag/kits), [webcam](../tag/webcam), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [lens](../tag/lens), [red-filter](../tag/red-filter), [infragram-webcam](../tag/infragram-webcam), [aren](../tag/aren), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [infrared-camera-conversion](../tag/infrared-camera-conversion), [ndvi:](../tag/ndvi:), [infragram-testing](../tag/infragram-testing), [m12](../tag/m12), [negative-result](../tag/negative-result)
 

@@ -1,5 +1,7 @@
 ---
-title: "What are people doing about polluted soils that get put back as fill?"\ntagnames: 'soil, wisconsin, question:general, general, with:pat, question:soil, soil-contamination, pollutants, fill-dirt'
+title: "What are people doing about polluted soils that get put back as fill?"
+
+tagnames: 'soil, wisconsin, question:general, general, with:pat, question:soil, soil-contamination, pollutants, fill-dirt'
 author: amocorro
 path: /notes/amocorro/03-19-2021/what-are-people-doing-about-polluted-soils-that-get-put-back-as-fill.md
 nid: 25982
@@ -9,7 +11,7 @@ uid: 700923
 
 # What are people doing about polluted soils that get put back as fill?
 
-by [amocorro](../profile/amocorro) | March 19, 2021 20:03
+by [amocorro](../../../profile/amocorro) | March 19, 2021 20:03
 
 March 19, 2021 20:03 | Tags: [soil](../tag/soil), [wisconsin](../tag/wisconsin), [question:general](../tag/question:general), [general](../tag/general), [with:pat](../tag/with:pat), [question:soil](../tag/question:soil), [soil-contamination](../tag/soil-contamination), [pollutants](../tag/pollutants), [fill-dirt](../tag/fill-dirt)
 

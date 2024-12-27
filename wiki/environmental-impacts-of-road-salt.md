@@ -1,5 +1,7 @@
 ---
-title: "Environmental Impacts of Road Salt"\ntagnames: 'conductivity, journalism, salt'
+title: "Environmental Impacts of Road Salt"
+
+tagnames: 'conductivity, journalism, salt'
 author: kanarinka
 path: /wiki/environmental-impacts-of-road-salt.md
 nid: 11092

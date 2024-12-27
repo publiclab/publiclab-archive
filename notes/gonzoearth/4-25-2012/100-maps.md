@@ -1,5 +1,7 @@
 ---
-title: "100 Maps"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping'
+title: "100 Maps"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping'
 author: gonzoearth
 path: /notes/gonzoearth/4-25-2012/100-maps.md
 nid: 1786
@@ -11,7 +13,7 @@ uid: 12
 
 # 100 Maps
 
-by [gonzoearth](../profile/gonzoearth) | April 25, 2012 18:56
+by [gonzoearth](../../../profile/gonzoearth) | April 25, 2012 18:56
 
 April 25, 2012 18:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 

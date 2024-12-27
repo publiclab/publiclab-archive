@@ -1,5 +1,7 @@
 ---
-title: "Publish in the PLOTS archive"\ntagnames: 'balloon-mapping, kite-mapping'
+title: "Publish in the PLOTS archive"
+
+tagnames: 'balloon-mapping, kite-mapping'
 author: warren
 path: /wiki/publish-plots-archive.md
 nid: 870

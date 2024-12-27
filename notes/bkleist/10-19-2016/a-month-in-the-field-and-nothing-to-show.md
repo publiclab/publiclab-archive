@@ -1,5 +1,7 @@
 ---
-title: "A month in the field and nothing to show"\ntagnames: 'sand, photo-monitoring, wisconsin, timelapse, camera, mining, silica, frac-sand, mobius, mid-west, parent:frac-sand'
+title: "A month in the field and nothing to show"
+
+tagnames: 'sand, photo-monitoring, wisconsin, timelapse, camera, mining, silica, frac-sand, mobius, mid-west, parent:frac-sand'
 author: bkleist
 path: /notes/bkleist/10-19-2016/a-month-in-the-field-and-nothing-to-show.md
 nid: 13578
@@ -11,7 +13,7 @@ uid: 489504
 
 # A month in the field and nothing to show
 
-by [bkleist](../profile/bkleist) | October 19, 2016 03:09
+by [bkleist](../../../profile/bkleist) | October 19, 2016 03:09
 
 October 19, 2016 03:09 | Tags: [sand](../tag/sand), [photo-monitoring](../tag/photo-monitoring), [wisconsin](../tag/wisconsin), [timelapse](../tag/timelapse), [camera](../tag/camera), [mining](../tag/mining), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [mobius](../tag/mobius), [mid-west](../tag/mid-west), [parent:frac-sand](../tag/parent:frac-sand)
 

@@ -1,5 +1,7 @@
 ---
-title: "Public Lab community newsletter 10.12.12"\ntagnames: 'newsletter, newsletter-archive'
+title: "Public Lab community newsletter 10.12.12"
+
+tagnames: 'newsletter, newsletter-archive'
 author: Shannon
 path: /notes/shannon/10-12-2012/public-lab-community-newsletter-101212-0.md
 nid: 4377
@@ -9,7 +11,7 @@ uid: 9
 
 # Public Lab community newsletter 10.12.12
 
-by [Shannon](../profile/Shannon) | October 13, 2012 01:02
+by [Shannon](../../../profile/Shannon) | October 13, 2012 01:02
 
 October 13, 2012 01:02 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 

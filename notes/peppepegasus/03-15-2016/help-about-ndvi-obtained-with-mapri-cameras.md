@@ -1,5 +1,7 @@
 ---
-title: "Help about NDVI obtained with Mapir cameras."\ntagnames: 'help, uk, mailing-lists, research, forum, forums, lists, discussion'
+title: "Help about NDVI obtained with Mapir cameras."
+
+tagnames: 'help, uk, mailing-lists, research, forum, forums, lists, discussion'
 author: peppepegasus
 path: /notes/peppepegasus/03-15-2016/help-about-ndvi-obtained-with-mapri-cameras.md
 nid: 12848
@@ -11,7 +13,7 @@ uid: 468764
 
 # Help about NDVI obtained with Mapir cameras.
 
-by [peppepegasus](../profile/peppepegasus) | March 15, 2016 17:03
+by [peppepegasus](../../../profile/peppepegasus) | March 15, 2016 17:03
 
 March 15, 2016 17:03 | Tags: [help](../tag/help), [uk](../tag/uk), [mailing-lists](../tag/mailing-lists), [research](../tag/research), [forum](../tag/forum), [forums](../tag/forums), [lists](../tag/lists), [discussion](../tag/discussion)
 

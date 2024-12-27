@@ -1,5 +1,7 @@
 ---
-title: "Add a new language in Transifex (managers)"\ntagnames: 'community, website, activity, category:verify, localization, translation, language, activity:localization-managers'
+title: "Add a new language in Transifex (managers)"
+
+tagnames: 'community, website, activity, category:verify, localization, translation, language, activity:localization-managers'
 author: liz
 path: /notes/liz/10-26-2016/add-a-new-language-in-transifex-managers.md
 nid: 13653
@@ -11,7 +13,7 @@ uid: 7
 
 # Add a new language in Transifex (managers)
 
-by [liz](../profile/liz) | October 26, 2016 19:47
+by [liz](../../../profile/liz) | October 26, 2016 19:47
 
 October 26, 2016 19:47 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [category:verify](../tag/category:verify), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization-managers](../tag/activity:localization-managers)
 

@@ -1,5 +1,7 @@
 ---
-title: "Region"\ntagnames: 'community, chapters, region, website-utilities, parent:locations'
+title: "Region"
+
+tagnames: 'community, chapters, region, website-utilities, parent:locations'
 author: liz
 path: /wiki/region.md
 nid: 10499

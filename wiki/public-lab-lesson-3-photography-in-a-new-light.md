@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Lesson 3: Photography in a New Light"\ntagnames: 'near-infrared-camera, ndvi, photography, education, wetlands, near-infrared, infragram, classroom, lesson_plan, electromagnetic_spectrum, parent:wetlands-lesson-plans, activity:infragram, activity:ndvi, activity:wetlands'
+title: "Public Lab Lesson 3: Photography in a New Light"
+
+tagnames: 'near-infrared-camera, ndvi, photography, education, wetlands, near-infrared, infragram, classroom, lesson_plan, electromagnetic_spectrum, parent:wetlands-lesson-plans, activity:infragram, activity:ndvi, activity:wetlands'
 author: mollydanielsson
 path: /wiki/public-lab-lesson-3-photography-in-a-new-light.md
 nid: 11560

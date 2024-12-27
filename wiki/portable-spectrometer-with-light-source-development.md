@@ -1,5 +1,7 @@
 ---
-title: "Portable Spectrometer with Light Source Development"\ntagnames: ''
+title: "Portable Spectrometer with Light Source Development"
+
+tagnames: ''
 author: silverhammer
 path: /wiki/portable-spectrometer-with-light-source-development.md
 nid: 10273

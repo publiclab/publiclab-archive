@@ -1,5 +1,7 @@
 ---
-title: "Reflections of Sensor Journalism"\ntagnames: 'sensor-journalism, response:12748, hidden:response'
+title: "Reflections of Sensor Journalism"
+
+tagnames: 'sensor-journalism, response:12748, hidden:response'
 author: lily_rugo
 path: /notes/lily_rugo/02-24-2016/reflections-of-sensor-journalism.md
 nid: 12733
@@ -11,7 +13,7 @@ uid: 461426
 
 # Reflections of Sensor Journalism
 
-by [lily_rugo](../profile/lily_rugo) | February 24, 2016 06:28
+by [lily_rugo](../../../profile/lily_rugo) | February 24, 2016 06:28
 
 February 24, 2016 06:28 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

@@ -1,5 +1,7 @@
 ---
-title: "Can we use a timelapse or video camera to monitor particulate air plumes?"\ntagnames: 'photo-monitoring, timelapse, with:warren, question:timelapse, smoke-school, q, question:photo-monitoring'
+title: "Can we use a timelapse or video camera to monitor particulate air plumes?"
+
+tagnames: 'photo-monitoring, timelapse, with:warren, question:timelapse, smoke-school, q, question:photo-monitoring'
 author: gretchengehrke
 path: /notes/gretchengehrke/09-20-2016/question-would-it-be-feasible-to-use-a-stationary-camera-to-conduct-emissions-opacity-evaluation.md
 nid: 13467
@@ -9,7 +11,7 @@ uid: 430549
 
 # Can we use a timelapse or video camera to monitor particulate air plumes?
 
-by [gretchengehrke](../profile/gretchengehrke) | September 20, 2016 20:21
+by [gretchengehrke](../../../profile/gretchengehrke) | September 20, 2016 20:21
 
 September 20, 2016 20:21 | Tags: [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [with:warren](../tag/with:warren), [question:timelapse](../tag/question:timelapse), [smoke-school](../tag/smoke-school), [q](../tag/q), [question:photo-monitoring](../tag/question:photo-monitoring)
 

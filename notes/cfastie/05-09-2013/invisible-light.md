@@ -1,5 +1,7 @@
 ---
-title: "Invisible Rays"\ntagnames: 'near-infrared-camera, ndvi, nir, vermont, infrared, infragram, plant-health, history, wratten87, infrablue'
+title: "Invisible Rays"
+
+tagnames: 'near-infrared-camera, ndvi, nir, vermont, infrared, infragram, plant-health, history, wratten87, infrablue'
 author: cfastie
 path: /notes/cfastie/05-09-2013/invisible-light.md
 nid: 7341
@@ -11,7 +13,7 @@ uid: 554
 
 # Invisible Rays
 
-by [cfastie](../profile/cfastie) | May 09, 2013 05:41
+by [cfastie](../../../profile/cfastie) | May 09, 2013 05:41
 
 May 09, 2013 05:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infrared](../tag/infrared), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [history](../tag/history), [wratten87](../tag/wratten87), [infrablue](../tag/infrablue)
 

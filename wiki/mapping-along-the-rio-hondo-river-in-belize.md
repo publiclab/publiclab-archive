@@ -1,5 +1,7 @@
 ---
-title: "Mapping along the Rio Hondo River in Belize"\ntagnames: 'belize, belizeopensource, grassrootsmappingforum, style:fancy, with:patcoyle, gmf-5, geomatic'
+title: "Mapping along the Rio Hondo River in Belize"
+
+tagnames: 'belize, belizeopensource, grassrootsmappingforum, style:fancy, with:patcoyle, gmf-5, geomatic'
 author: mollydanielsson
 path: /wiki/mapping-along-the-rio-hondo-river-in-belize.md
 nid: 11701

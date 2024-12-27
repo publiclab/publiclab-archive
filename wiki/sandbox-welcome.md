@@ -1,5 +1,7 @@
 ---
-title: "sandbox-welcome"\ntagnames: ''
+title: "sandbox-welcome"
+
+tagnames: ''
 author: joyofsoy
 path: /wiki/sandbox-welcome.md
 nid: 20896

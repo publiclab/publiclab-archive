@@ -1,5 +1,7 @@
 ---
-title: "Air-testing hamster ball progress"\ntagnames: 'hamster-ball, air-quality, openlux, roomba, hamster, lego, response:710, air-sensors'
+title: "Air-testing hamster ball progress"
+
+tagnames: 'hamster-ball, air-quality, openlux, roomba, hamster, lego, response:710, air-sensors'
 author: warren
 path: /notes/warren/2-6-2012/air-testing-hamster-ball-progress.md
 nid: 757
@@ -11,7 +13,7 @@ uid: 1
 
 # Air-testing hamster ball progress
 
-by [warren](../profile/warren) | February 06, 2012 20:45
+by [warren](../../../profile/warren) | February 06, 2012 20:45
 
 February 06, 2012 20:45 | Tags: [hamster-ball](../tag/hamster-ball), [air-quality](../tag/air-quality), [openlux](../tag/openlux), [roomba](../tag/roomba), [hamster](../tag/hamster), [lego](../tag/lego), [response:710](../tag/response:710), [air-sensors](../tag/air-sensors)
 

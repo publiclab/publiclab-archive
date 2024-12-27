@@ -1,5 +1,7 @@
 ---
-title: "multiple tethers on balloon"\ntagnames: 'balloon-mapping, multiple-tethers, flying'
+title: "multiple tethers on balloon"
+
+tagnames: 'balloon-mapping, multiple-tethers, flying'
 author: liz
 path: /notes/liz/4-27-2012/multiple-tethers-balloon.md
 nid: 1816
@@ -11,7 +13,7 @@ uid: 7
 
 # multiple tethers on balloon
 
-by [liz](../profile/liz) | April 27, 2012 17:43
+by [liz](../../../profile/liz) | April 27, 2012 17:43
 
 April 27, 2012 17:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [multiple-tethers](../tag/multiple-tethers), [flying](../tag/flying)
 

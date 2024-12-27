@@ -1,5 +1,7 @@
 ---
-title: "Apply to GSoC with PLOTS"\ntagnames: 'gsoc, parent:gsoc'
+title: "Apply to GSoC with PLOTS"
+
+tagnames: 'gsoc, parent:gsoc'
 author: warren
 path: /wiki/gsoc-apply.md
 nid: 900

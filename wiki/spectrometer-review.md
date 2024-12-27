@@ -1,5 +1,7 @@
 ---
-title: "spectrometer review"\ntagnames: ''
+title: "spectrometer review"
+
+tagnames: ''
 author: gonzoearth
 path: /wiki/spectrometer-review.md
 nid: 701

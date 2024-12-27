@@ -1,5 +1,7 @@
 ---
-title: "Developing Open Source Tools with Public Lab"\ntagnames: ''
+title: "Developing Open Source Tools with Public Lab"
+
+tagnames: ''
 author: mollydanielsson
 path: /wiki/developing-open-source-tools-public-lab-draft-page.md
 nid: 5609

@@ -1,5 +1,7 @@
 ---
-title: "Madeira"\ntagnames: 'wetlands, event, soil, silica, eu, challenges, agricultural, fertilizer, microplastics, madeira, portugal'
+title: "Madeira"
+
+tagnames: 'wetlands, event, soil, silica, eu, challenges, agricultural, fertilizer, microplastics, madeira, portugal'
 author: warren
 path: /wiki/madeira.md
 nid: 15375

@@ -1,5 +1,7 @@
 ---
-title: "What's one thing that could be better for newcomers about the Public Lab website?"\ntagnames: 'website, design, test, answered, wwg, ui, question:ui'
+title: "What's one thing that could be better for newcomers about the Public Lab website?"
+
+tagnames: 'website, design, test, answered, wwg, ui, question:ui'
 author: warren
 path: /notes/warren/11-14-2017/what-s-one-thing-that-could-be-better-for-newcomers-about-the-public-lab-website.md
 nid: 15189
@@ -9,7 +11,7 @@ uid: 1
 
 # What's one thing that could be better for newcomers about the Public Lab website?
 
-by [warren](../profile/warren) | November 14, 2017 21:39
+by [warren](../../../profile/warren) | November 14, 2017 21:39
 
 November 14, 2017 21:39 | Tags: [website](../tag/website), [design](../tag/design), [test](../tag/test), [answered](../tag/answered), [wwg](../tag/wwg), [ui](../tag/ui), [question:ui](../tag/question:ui)
 

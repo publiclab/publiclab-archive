@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal on expanded community stats system by Amy Chan"\ntagnames: 'software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster'
+title: "Outreachy proposal on expanded community stats system by Amy Chan"
+
+tagnames: 'software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster'
 author: amychan331
 path: /notes/amychan331/11-02-2018/outreachy-proposal-on-expanded-community-stats-system-by-amy-chan.md
 nid: 17463
@@ -9,7 +11,7 @@ uid: 556795
 
 # Outreachy proposal on expanded community stats system by Amy Chan
 
-by [amychan331](../profile/amychan331) | November 02, 2018 05:49
+by [amychan331](../../../profile/amychan331) | November 02, 2018 05:49
 
 November 02, 2018 05:49 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
 

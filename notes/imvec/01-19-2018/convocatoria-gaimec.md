@@ -1,5 +1,7 @@
 ---
-title: "Convocatoria GAIMeC"\ntagnames: 'barcelona, spain, event, lang:es, event:rsvp, learning, opencall, gaimec, donosti, spanish, date:01-31-2018'
+title: "Convocatoria GAIMeC"
+
+tagnames: 'barcelona, spain, event, lang:es, event:rsvp, learning, opencall, gaimec, donosti, spanish, date:01-31-2018'
 author: imvec
 path: /notes/imvec/01-19-2018/convocatoria-gaimec.md
 nid: 15555
@@ -11,7 +13,7 @@ uid: 495038
 
 # Convocatoria GAIMeC
 
-by [imvec](../profile/imvec) | January 19, 2018 15:37
+by [imvec](../../../profile/imvec) | January 19, 2018 15:37
 
 January 19, 2018 15:37 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [event](../tag/event), [lang:es](../tag/lang:es), [event:rsvp](../tag/event:rsvp), [learning](../tag/learning), [opencall](../tag/opencall), [gaimec](../tag/gaimec), [donosti](../tag/donosti), [spanish](../tag/spanish), [date:01-31-2018](../tag/date:01-31-2018)
 

@@ -1,5 +1,7 @@
 ---
-title: "Flight Temperature"\ntagnames: 'kite-mapping, arduino, mapknitter, leaffest, leaffest2012, gps, jeenode, qgis'
+title: "Flight Temperature"
+
+tagnames: 'kite-mapping, arduino, mapknitter, leaffest, leaffest2012, gps, jeenode, qgis'
 author: cfastie
 path: /notes/cfastie/10-8-2012/flight-temperature.md
 nid: 4260
@@ -11,7 +13,7 @@ uid: 554
 
 # Flight Temperature
 
-by [cfastie](../profile/cfastie) | October 08, 2012 23:26
+by [cfastie](../../../profile/cfastie) | October 08, 2012 23:26
 
 October 08, 2012 23:26 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [mapknitter](../tag/mapknitter), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [gps](../tag/gps), [jeenode](../tag/jeenode), [qgis](../tag/qgis)
 

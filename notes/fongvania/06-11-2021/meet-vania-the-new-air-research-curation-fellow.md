@@ -1,5 +1,7 @@
 ---
-title: "Meet Vania, the new Air Research Curation Fellow!"\ntagnames: 'air-quality, fellows, first-time-poster, research-curation-fellows'
+title: "Meet Vania, the new Air Research Curation Fellow!"
+
+tagnames: 'air-quality, fellows, first-time-poster, research-curation-fellows'
 author: fongvania
 path: /notes/fongvania/06-11-2021/meet-vania-the-new-air-research-curation-fellow.md
 nid: 26813
@@ -11,7 +13,7 @@ uid: 754846
 
 # Meet Vania, the new Air Research Curation Fellow!
 
-by [fongvania](../profile/fongvania) | June 11, 2021 06:41
+by [fongvania](../../../profile/fongvania) | June 11, 2021 06:41
 
 June 11, 2021 06:41 | Tags: [air-quality](../tag/air-quality), [fellows](../tag/fellows), [first-time-poster](../tag/first-time-poster), [research-curation-fellows](../tag/research-curation-fellows)
 

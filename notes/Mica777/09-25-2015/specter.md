@@ -1,5 +1,7 @@
 ---
-title: "Specter"\ntagnames: 'event'
+title: "Specter"
+
+tagnames: 'event'
 author: Mica777
 path: /notes/Mica777/09-25-2015/specter.md
 nid: 12243
@@ -9,7 +11,7 @@ uid: 452576
 
 # Specter
 
-by [Mica777](../profile/Mica777) | September 25, 2015 21:48
+by [Mica777](../../../profile/Mica777) | September 25, 2015 21:48
 
 September 25, 2015 21:48 | Tags: [event](../tag/event)
 

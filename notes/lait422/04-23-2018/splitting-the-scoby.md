@@ -1,5 +1,7 @@
 ---
-title: "Splitting the SCOBY"\ntagnames: 'kombucha-leather, replication:15560, first-time-poster'
+title: "Splitting the SCOBY"
+
+tagnames: 'kombucha-leather, replication:15560, first-time-poster'
 author: lait422
 path: /notes/lait422/04-23-2018/splitting-the-scoby.md
 nid: 16199
@@ -9,7 +11,7 @@ uid: 531878
 
 # Splitting the SCOBY
 
-by [lait422](../profile/lait422) | April 23, 2018 21:21
+by [lait422](../../../profile/lait422) | April 23, 2018 21:21
 
 April 23, 2018 21:21 | Tags: [kombucha-leather](../tag/kombucha-leather), [replication:15560](../tag/replication:15560), [first-time-poster](../tag/first-time-poster)
 

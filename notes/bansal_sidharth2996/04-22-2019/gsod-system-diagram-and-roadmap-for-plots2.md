@@ -1,5 +1,7 @@
 ---
-title: "GSoD : System diagram and Roadmap for Plots2"\ntagnames: 'documentation, gsoc, gsoc-proposal, soc, gsod, gsod2019, gsod19'
+title: "GSoD : System diagram and Roadmap for Plots2"
+
+tagnames: 'documentation, gsoc, gsoc-proposal, soc, gsod, gsod2019, gsod19'
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/04-22-2019/gsod-system-diagram-and-roadmap-for-plots2.md
 nid: 19140
@@ -9,7 +11,7 @@ uid: 503599
 
 # GSoD : System diagram and Roadmap for Plots2
 
-by [bansal_sidharth2996](../profile/bansal_sidharth2996) | April 22, 2019 16:07
+by [bansal_sidharth2996](../../../profile/bansal_sidharth2996) | April 22, 2019 16:07
 
 April 22, 2019 16:07 | Tags: [documentation](../tag/documentation), [gsoc](../tag/gsoc), [gsoc-proposal](../tag/gsoc-proposal), [soc](../tag/soc), [gsod](../tag/gsod), [gsod2019](../tag/gsod2019), [gsod19](../tag/gsod19)
 

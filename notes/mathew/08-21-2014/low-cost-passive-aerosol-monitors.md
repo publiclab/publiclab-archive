@@ -1,5 +1,7 @@
 ---
-title: "Low-cost passive aerosol monitors"\ntagnames: 'air-quality, dust, particulates, silica, frac-sand, pm, particle-sensing, particle-monitoring, fracsand, passive-particle-monitors, passive-pm, parent:frac-sand'
+title: "Low-cost passive aerosol monitors"
+
+tagnames: 'air-quality, dust, particulates, silica, frac-sand, pm, particle-sensing, particle-monitoring, fracsand, passive-particle-monitors, passive-pm, parent:frac-sand'
 author: mathew
 path: /notes/mathew/08-21-2014/low-cost-passive-aerosol-monitors.md
 nid: 11071
@@ -11,7 +13,7 @@ uid: 4
 
 # Low-cost passive aerosol monitors
 
-by [mathew](../profile/mathew) | August 21, 2014 23:33
+by [mathew](../../../profile/mathew) | August 21, 2014 23:33
 
 August 21, 2014 23:33 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [fracsand](../tag/fracsand), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand)
 

@@ -1,5 +1,7 @@
 ---
-title: "Juice jug rig"\ntagnames: 'photo-rig'
+title: "Juice jug rig"
+
+tagnames: 'photo-rig'
 author: warren
 path: /wiki/juice-jug-rig.md
 nid: 1854

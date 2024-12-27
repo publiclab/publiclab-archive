@@ -1,5 +1,7 @@
 ---
-title: "open-water-events"\ntagnames: 'boston, water-sensing, events:boston, water-quality, parent:open-water'
+title: "open-water-events"
+
+tagnames: 'boston, water-sensing, events:boston, water-quality, parent:open-water'
 author: donblair
 path: /wiki/open-water-events.md
 nid: 10659

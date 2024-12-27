@@ -1,5 +1,7 @@
 ---
-title: "How can I waterproof kombucha leather?"\ntagnames: 'kombucha-leather, question:kombucha-leather'
+title: "How can I waterproof kombucha leather?"
+
+tagnames: 'kombucha-leather, question:kombucha-leather'
 author: lait422
 path: /notes/lait422/04-23-2018/how-can-i-waterproof-kombucha-leather.md
 nid: 16200
@@ -9,7 +11,7 @@ uid: 531878
 
 # How can I waterproof kombucha leather?
 
-by [lait422](../profile/lait422) | April 23, 2018 21:27
+by [lait422](../../../profile/lait422) | April 23, 2018 21:27
 
 April 23, 2018 21:27 | Tags: [kombucha-leather](../tag/kombucha-leather), [question:kombucha-leather](../tag/question:kombucha-leather)
 

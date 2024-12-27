@@ -1,5 +1,7 @@
 ---
-title: "DIY Satellite Ground Station"\ntagnames: 'satellite-imagery, barnstar:basic, barnstar:empiricism, seeks:replications, noaa, lat:51.50735, lon:-0.127758, antenna, zoom:6, open-weather, activity:open-weather, with:sophied'
+title: "DIY Satellite Ground Station"
+
+tagnames: 'satellite-imagery, barnstar:basic, barnstar:empiricism, seeks:replications, noaa, lat:51.50735, lon:-0.127758, antenna, zoom:6, open-weather, activity:open-weather, with:sophied'
 author: sashae
 path: /notes/sashae/06-26-2020/diy-satellite-ground-station.md
 nid: 24043
@@ -11,7 +13,7 @@ uid: 693684
 
 # DIY Satellite Ground Station
 
-by [sashae](../profile/sashae) | June 26, 2020 17:12
+by [sashae](../../../profile/sashae) | June 26, 2020 17:12
 
 June 26, 2020 17:12 | Tags: [satellite-imagery](../tag/satellite-imagery), [barnstar:basic](../tag/barnstar:basic), [barnstar:empiricism](../tag/barnstar:empiricism), [seeks:replications](../tag/seeks:replications), [noaa](../tag/noaa), [lat:51.50735](../tag/lat:51.50735), [lon:-0.127758](../tag/lon:-0.127758), [antenna](../tag/antenna), [zoom:6](../tag/zoom:6), [open-weather](../tag/open-weather), [activity:open-weather](../tag/activity:open-weather), [with:sophied](../tag/with:sophied)
 

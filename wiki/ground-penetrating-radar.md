@@ -1,5 +1,7 @@
 ---
-title: "Ground Penetrating Radar"\ntagnames: 'radar, ground-penetrating-radar'
+title: "Ground Penetrating Radar"
+
+tagnames: 'radar, ground-penetrating-radar'
 author: bodacea
 path: /wiki/ground-penetrating-radar.md
 nid: 9812

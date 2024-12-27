@@ -1,5 +1,7 @@
 ---
-title: "What are best practices and tools to help clean up data sets? "\ntagnames: 'question:pm, question:frac-sand, question:data, question:purple-air, question:data-cleaning, air-quality-data, question:air-quality-data'
+title: "What are best practices and tools to help clean up data sets? "
+
+tagnames: 'question:pm, question:frac-sand, question:data, question:purple-air, question:data-cleaning, air-quality-data, question:air-quality-data'
 author: stevie
 path: /notes/stevie/08-23-2019/what-are-best-practices-and-tools-to-help-clean-up-data-sets.md
 nid: 20642
@@ -9,7 +11,7 @@ uid: 422561
 
 # What are best practices and tools to help clean up data sets? 
 
-by [stevie](../profile/stevie) | August 23, 2019 19:07
+by [stevie](../../../profile/stevie) | August 23, 2019 19:07
 
 August 23, 2019 19:07 | Tags: [question:pm](../tag/question:pm), [question:frac-sand](../tag/question:frac-sand), [question:data](../tag/question:data), [question:purple-air](../tag/question:purple-air), [question:data-cleaning](../tag/question:data-cleaning), [air-quality-data](../tag/air-quality-data), [question:air-quality-data](../tag/question:air-quality-data)
 

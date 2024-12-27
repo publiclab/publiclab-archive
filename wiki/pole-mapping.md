@@ -1,5 +1,7 @@
 ---
-title: "Pole Mapping"\ntagnames: 'agriculture, polemapping, urban-planning, pole-mapping, tool, land-use, difficulty:medium, status:in-progress, time:1h, activity:aerial-photography, category:monitor, parent:aerial-photography, method, land-change'
+title: "Pole Mapping"
+
+tagnames: 'agriculture, polemapping, urban-planning, pole-mapping, tool, land-use, difficulty:medium, status:in-progress, time:1h, activity:aerial-photography, category:monitor, parent:aerial-photography, method, land-change'
 author: liz
 path: /wiki/pole-mapping.md
 nid: 11512

@@ -1,5 +1,7 @@
 ---
-title: "AppEar - Ciencia ciudadana en ríos, lagos, lagunas y estuarios"\ntagnames: 'citizen-science, water-quality, lang:es, research-curation-fellows, parent:water, appear'
+title: "AppEar - Ciencia ciudadana en ríos, lagos, lagunas y estuarios"
+
+tagnames: 'citizen-science, water-quality, lang:es, research-curation-fellows, parent:water, appear'
 author: alejobonifacio
 path: /wiki/appear-ciencia-ciudadana-en-rios-lagos-lagunas-y-estuarios.md
 nid: 26786

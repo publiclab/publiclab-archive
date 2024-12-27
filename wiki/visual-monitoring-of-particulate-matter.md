@@ -1,5 +1,7 @@
 ---
-title: "Visual Monitoring of Particulate Matter"\ntagnames: 'particulate, pm, parent:pm-monitoring, visual-monitoring'
+title: "Visual Monitoring of Particulate Matter"
+
+tagnames: 'particulate, pm, parent:pm-monitoring, visual-monitoring'
 author: mathew
 path: /wiki/visual-monitoring-of-particulate-matter.md
 nid: 12688

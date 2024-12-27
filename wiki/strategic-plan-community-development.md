@@ -1,5 +1,7 @@
 ---
-title: "strategic-plan-community-development"\ntagnames: 'community, organizers, community-development'
+title: "strategic-plan-community-development"
+
+tagnames: 'community, organizers, community-development'
 author: liz
 path: /wiki/strategic-plan-community-development.md
 nid: 10480

@@ -1,5 +1,7 @@
 ---
-title: "Tool template"\ntagnames: ''
+title: "Tool template"
+
+tagnames: ''
 author: warren
 path: /wiki/tool-template.md
 nid: 655

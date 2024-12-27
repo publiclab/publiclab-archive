@@ -1,5 +1,7 @@
 ---
-title: "Appalachia Barnraising 2017"\ntagnames: 'barnraising, appalachia-barnraising'
+title: "Appalachia Barnraising 2017"
+
+tagnames: 'barnraising, appalachia-barnraising'
 author: stevie
 path: /wiki/appalachia-barnraising-2017.md
 nid: 14687

@@ -1,5 +1,7 @@
 ---
-title: "Kampung Melaka"\ntagnames: ''
+title: "Kampung Melaka"
+
+tagnames: ''
 author: pojij_85
 path: /notes/pojij_85/07-11-2018/kampung-melaka.md
 nid: 16684
@@ -11,7 +13,7 @@ uid: 540883
 
 # Kampung Melaka
 
-by [pojij_85](../profile/pojij_85) | July 11, 2018 01:11
+by [pojij_85](../../../profile/pojij_85) | July 11, 2018 01:11
 
 July 11, 2018 01:11 | Tags: 
 

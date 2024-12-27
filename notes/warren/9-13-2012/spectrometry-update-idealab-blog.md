@@ -1,5 +1,7 @@
 ---
-title: "Spectrometry update on IdeaLab blog"\ntagnames: 'spectrometer, idealab'
+title: "Spectrometry update on IdeaLab blog"
+
+tagnames: 'spectrometer, idealab'
 author: warren
 path: /notes/warren/9-13-2012/spectrometry-update-idealab-blog.md
 nid: 3798
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectrometry update on IdeaLab blog
 
-by [warren](../profile/warren) | September 13, 2012 14:06
+by [warren](../../../profile/warren) | September 13, 2012 14:06
 
 September 13, 2012 14:06 | Tags: [spectrometer](../tag/spectrometer), [idealab](../tag/idealab)
 

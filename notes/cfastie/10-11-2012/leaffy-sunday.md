@@ -1,5 +1,7 @@
 ---
-title: "LEAFFY Sunday"\ntagnames: 'kite-mapping, events, leaffest, leaffest2012, gps, pvos'
+title: "LEAFFY Sunday"
+
+tagnames: 'kite-mapping, events, leaffest, leaffest2012, gps, pvos'
 author: cfastie
 path: /notes/cfastie/10-11-2012/leaffy-sunday.md
 nid: 4342
@@ -11,7 +13,7 @@ uid: 554
 
 # LEAFFY Sunday
 
-by [cfastie](../profile/cfastie) | October 11, 2012 14:58
+by [cfastie](../../../profile/cfastie) | October 11, 2012 14:58
 
 October 11, 2012 14:58 | Tags: [kite-mapping](../tag/kite-mapping), [events](../tag/events), [leaffest](../tag/leaffest), [leaffest2012](../tag/leaffest2012), [gps](../tag/gps), [pvos](../tag/pvos)
 

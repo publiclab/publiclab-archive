@@ -1,5 +1,7 @@
 ---
-title: "Making Thermocouples"\ntagnames: 'thermocouple'
+title: "Making Thermocouples"
+
+tagnames: 'thermocouple'
 author: Vern
 path: /notes/Vern/10-30-2017/making-thermocouples.md
 nid: 15127
@@ -9,7 +11,7 @@ uid: 517328
 
 # Making Thermocouples
 
-by [Vern](../profile/Vern) | October 30, 2017 09:10
+by [Vern](../../../profile/Vern) | October 30, 2017 09:10
 
 October 30, 2017 09:10 | Tags: [thermocouple](../tag/thermocouple)
 

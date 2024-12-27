@@ -1,5 +1,7 @@
 ---
-title: "The value of personal experiences"\ntagnames: 'central-america, barnraiser, storytelling, disaster-response, location:blurred, lon:-88, crisis-convening, barnraising-newark-2018, el-salvador, lat:13'
+title: "The value of personal experiences"
+
+tagnames: 'central-america, barnraiser, storytelling, disaster-response, location:blurred, lon:-88, crisis-convening, barnraising-newark-2018, el-salvador, lat:13'
 author: dbsnp
 path: /notes/dbsnp/10-30-2018/the-value-of-personal-experiences.md
 nid: 17428
@@ -11,7 +13,7 @@ uid: 543056
 
 # The value of personal experiences
 
-by [dbsnp](../profile/dbsnp) | October 30, 2018 05:28
+by [dbsnp](../../../profile/dbsnp) | October 30, 2018 05:28
 
 October 30, 2018 05:28 | Tags: [central-america](../tag/central-america), [barnraiser](../tag/barnraiser), [storytelling](../tag/storytelling), [disaster-response](../tag/disaster-response), [location:blurred](../tag/location:blurred), [lon:-88](../tag/lon:-88), [crisis-convening](../tag/crisis-convening), [barnraising-newark-2018](../tag/barnraising-newark-2018), [el-salvador](../tag/el-salvador), [lat:13](../tag/lat:13)
 

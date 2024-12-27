@@ -1,5 +1,7 @@
 ---
-title: "Calculating volume from ground level photos?"\ntagnames: 'sfm, timelapse, volume, answered, sand-mining, question:sfm'
+title: "Calculating volume from ground level photos?"
+
+tagnames: 'sfm, timelapse, volume, answered, sand-mining, question:sfm'
 author: warren
 path: /notes/warren/02-28-2017/calculating-volume-from-ground-level-photos.md
 nid: 13976
@@ -11,7 +13,7 @@ uid: 1
 
 # Calculating volume from ground level photos?
 
-by [warren](../profile/warren) | February 28, 2017 22:00
+by [warren](../../../profile/warren) | February 28, 2017 22:00
 
 February 28, 2017 22:00 | Tags: [sfm](../tag/sfm), [timelapse](../tag/timelapse), [volume](../tag/volume), [answered](../tag/answered), [sand-mining](../tag/sand-mining), [question:sfm](../tag/question:sfm)
 

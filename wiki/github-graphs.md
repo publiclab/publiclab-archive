@@ -1,5 +1,7 @@
 ---
-title: "GitHub graphs"\ntagnames: ''
+title: "GitHub graphs"
+
+tagnames: ''
 author: warren
 path: /wiki/github-graphs.md
 nid: 647

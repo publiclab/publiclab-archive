@@ -1,5 +1,7 @@
 ---
-title: "Thermal Imaging Uses"\ntagnames: 'first-time-poster'
+title: "Thermal Imaging Uses"
+
+tagnames: 'first-time-poster'
 author: Brittny
 path: /notes/brittny/11-28-2011/thermal-imaging-uses.md
 nid: 587
@@ -11,7 +13,7 @@ uid: 370
 
 # Thermal Imaging Uses
 
-by [Brittny](../profile/Brittny) | November 28, 2011 18:28
+by [Brittny](../../../profile/Brittny) | November 28, 2011 18:28
 
 November 28, 2011 18:28 | Tags: [first-time-poster](../tag/first-time-poster)
 

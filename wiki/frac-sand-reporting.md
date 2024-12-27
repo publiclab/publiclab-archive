@@ -1,5 +1,7 @@
 ---
-title: "Frac Sand Reporting "\ntagnames: 'frac-sand, parent:frac-sand'
+title: "Frac Sand Reporting "
+
+tagnames: 'frac-sand, parent:frac-sand'
 author: stevie
 path: /wiki/frac-sand-reporting.md
 nid: 18554

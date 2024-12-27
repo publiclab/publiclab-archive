@@ -1,5 +1,7 @@
 ---
-title: "Potent Potable Puzzle"\ntagnames: 'near-infrared-camera, nir, holiday, absorption, infragram, happy-holidays, response:11489'
+title: "Potent Potable Puzzle"
+
+tagnames: 'near-infrared-camera, nir, holiday, absorption, infragram, happy-holidays, response:11489'
 author: cfastie
 path: /notes/cfastie/12-24-2014/potent-potable-puzzle.md
 nid: 11496
@@ -11,7 +13,7 @@ uid: 554
 
 # Potent Potable Puzzle
 
-by [cfastie](../profile/cfastie) | December 24, 2014 18:42
+by [cfastie](../../../profile/cfastie) | December 24, 2014 18:42
 
 December 24, 2014 18:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [holiday](../tag/holiday), [absorption](../tag/absorption), [infragram](../tag/infragram), [happy-holidays](../tag/happy-holidays), [response:11489](../tag/response:11489)
 

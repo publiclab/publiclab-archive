@@ -1,5 +1,7 @@
 ---
-title: "March Mapping Madness-L.A./San Diego"\ntagnames: ''
+title: "March Mapping Madness-L.A./San Diego"
+
+tagnames: ''
 author: sara
 path: /wiki/march-mapping-madness-lasan-diego.md
 nid: 891

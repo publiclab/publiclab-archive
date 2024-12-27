@@ -1,5 +1,7 @@
 ---
-title: "Prototyping with Raspberry Pi and Arduino"\ntagnames: 'arduino, education, raspberry-pi, umass-amherst, prototyping, first-time-poster'
+title: "Prototyping with Raspberry Pi and Arduino"
+
+tagnames: 'arduino, education, raspberry-pi, umass-amherst, prototyping, first-time-poster'
 author: limako
 path: /notes/limako/09-17-2019/prototyping-with-raspberry-pi-and-arduino.md
 nid: 20899
@@ -11,7 +13,7 @@ uid: 546871
 
 # Prototyping with Raspberry Pi and Arduino
 
-by [limako](../profile/limako) | September 17, 2019 20:23
+by [limako](../../../profile/limako) | September 17, 2019 20:23
 
 September 17, 2019 20:23 | Tags: [arduino](../tag/arduino), [education](../tag/education), [raspberry-pi](../tag/raspberry-pi), [umass-amherst](../tag/umass-amherst), [prototyping](../tag/prototyping), [first-time-poster](../tag/first-time-poster)
 

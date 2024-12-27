@@ -1,5 +1,7 @@
 ---
-title: "FLIR"\ntagnames: 'methane'
+title: "FLIR"
+
+tagnames: 'methane'
 author: warren
 path: /wiki/flir.md
 nid: 14947

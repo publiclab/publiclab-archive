@@ -1,5 +1,7 @@
 ---
-title: "dronecopter vs kite evaluation: Bayou St John June 5th 2016"\ntagnames: 'gulf-coast, kite-mapping, bsj'
+title: "dronecopter vs kite evaluation: Bayou St John June 5th 2016"
+
+tagnames: 'gulf-coast, kite-mapping, bsj'
 author: eustatic
 path: /06-06-2016/dronecopter-vs-kite-evaluation-bayou-st-john-june-5th-2016.md
 nid: 13168
@@ -11,7 +13,7 @@ uid: 379
 
 # dronecopter vs kite evaluation: Bayou St John June 5th 2016
 
-by [eustatic](../profile/eustatic) | June 06, 2016 13:51
+by [eustatic](../../../profile/eustatic) | June 06, 2016 13:51
 
 June 06, 2016 13:51 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bsj](../tag/bsj)
 

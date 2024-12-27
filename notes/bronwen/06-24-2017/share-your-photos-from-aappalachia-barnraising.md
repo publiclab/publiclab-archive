@@ -1,5 +1,7 @@
 ---
-title: "Share your photos from Aappalachia Barnraising"\ntagnames: 'barnraising, barnraisingwv2017thanks'
+title: "Share your photos from Aappalachia Barnraising"
+
+tagnames: 'barnraising, barnraisingwv2017thanks'
 author: Bronwen
 path: /notes/bronwen/06-24-2017/share-your-photos-from-aappalachia-barnraising.md
 nid: 14579
@@ -11,7 +13,7 @@ uid: 237313
 
 # Share your photos from Aappalachia Barnraising
 
-by [Bronwen](../profile/Bronwen) | June 24, 2017 18:01
+by [Bronwen](../../../profile/Bronwen) | June 24, 2017 18:01
 
 June 24, 2017 18:01 | Tags: [barnraising](../tag/barnraising), [barnraisingwv2017thanks](../tag/barnraisingwv2017thanks)
 

@@ -1,5 +1,7 @@
 ---
-title: "Eclectis: a week of civic science in Amsterdam North"\ntagnames: 'near-infrared-camera, education, waagsociety, amsterdam, workshop, infragram, waag, eclectis, activity:infragram, infragram-helmet, helmet'
+title: "Eclectis: a week of civic science in Amsterdam North"
+
+tagnames: 'near-infrared-camera, education, waagsociety, amsterdam, workshop, infragram, waag, eclectis, activity:infragram, infragram-helmet, helmet'
 author: warren
 path: /notes/warren/09-25-2013/eclectis-a-week-of-civic-science-in-amsterdam-north.md
 nid: 9372
@@ -11,7 +13,7 @@ uid: 1
 
 # Eclectis: a week of civic science in Amsterdam North
 
-by [warren](../profile/warren) | September 25, 2013 12:56
+by [warren](../../../profile/warren) | September 25, 2013 12:56
 
 September 25, 2013 12:56 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [education](../tag/education), [waagsociety](../tag/waagsociety), [amsterdam](../tag/amsterdam), [workshop](../tag/workshop), [infragram](../tag/infragram), [waag](../tag/waag), [eclectis](../tag/eclectis), [activity:infragram](../tag/activity:infragram), [infragram-helmet](../tag/infragram-helmet), [helmet](../tag/helmet)
 

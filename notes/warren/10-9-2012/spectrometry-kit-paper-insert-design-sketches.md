@@ -1,5 +1,7 @@
 ---
-title: "Spectrometry kit paper insert design sketches"\ntagnames: 'spectrometer'
+title: "Spectrometry kit paper insert design sketches"
+
+tagnames: 'spectrometer'
 author: warren
 path: /notes/warren/10-9-2012/spectrometry-kit-paper-insert-design-sketches.md
 nid: 4286
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectrometry kit paper insert design sketches
 
-by [warren](../profile/warren) | October 09, 2012 16:59
+by [warren](../../../profile/warren) | October 09, 2012 16:59
 
 October 09, 2012 16:59 | Tags: [spectrometer](../tag/spectrometer)
 

@@ -1,5 +1,7 @@
 ---
-title: "All about cheap Reflection Diffraction Gratings-Self manufacturing!"\ntagnames: 'diffraction-grating'
+title: "All about cheap Reflection Diffraction Gratings-Self manufacturing!"
+
+tagnames: 'diffraction-grating'
 author: shubham
 path: /notes/shubham/04-04-2016/all-about-cheap-reflection-diffraction-gratings-self-manufacturing.md
 nid: 12917
@@ -11,7 +13,7 @@ uid: 460486
 
 # All about cheap Reflection Diffraction Gratings-Self manufacturing!
 
-by [shubham](../profile/shubham) | April 04, 2016 16:13
+by [shubham](../../../profile/shubham) | April 04, 2016 16:13
 
 April 04, 2016 16:13 | Tags: [diffraction-grating](../tag/diffraction-grating)
 

@@ -1,5 +1,7 @@
 ---
-title: "Streak"\ntagnames: 'community, website, streak, streaks'
+title: "Streak"
+
+tagnames: 'community, website, streak, streaks'
 author: warren
 path: /wiki/streak.md
 nid: 13166

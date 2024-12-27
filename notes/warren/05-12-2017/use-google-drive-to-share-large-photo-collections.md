@@ -1,5 +1,7 @@
 ---
-title: "Use Google Drive to share large photo collections"\ntagnames: 'balloon-mapping, photo-monitoring, timelapse, file-sharing, activity:photo-sharing, photo-sharing, activity:google-docs, google-docs, post-flight'
+title: "Use Google Drive to share large photo collections"
+
+tagnames: 'balloon-mapping, photo-monitoring, timelapse, file-sharing, activity:photo-sharing, photo-sharing, activity:google-docs, google-docs, post-flight'
 author: warren
 path: /notes/warren/05-12-2017/use-google-drive-to-share-large-photo-collections.md
 nid: 14185
@@ -11,7 +13,7 @@ uid: 1
 
 # Use Google Drive to share large photo collections
 
-by [warren](../profile/warren) | May 12, 2017 20:15
+by [warren](../../../profile/warren) | May 12, 2017 20:15
 
 May 12, 2017 20:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [file-sharing](../tag/file-sharing), [activity:photo-sharing](../tag/activity:photo-sharing), [photo-sharing](../tag/photo-sharing), [activity:google-docs](../tag/activity:google-docs), [google-docs](../tag/google-docs), [post-flight](../tag/post-flight)
 

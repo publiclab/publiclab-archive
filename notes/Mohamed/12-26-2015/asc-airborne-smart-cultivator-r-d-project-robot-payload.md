@@ -1,5 +1,7 @@
 ---
-title: "ASC- Airborne Smart Cultivator R&D project( Robot+Payload)"\ntagnames: 'ndvi, drones, agriculture, uav-mapping, unmanned, asc, sudan, mohamed, aal, sap.'
+title: "ASC- Airborne Smart Cultivator R&D project( Robot+Payload)"
+
+tagnames: 'ndvi, drones, agriculture, uav-mapping, unmanned, asc, sudan, mohamed, aal, sap.'
 author: Mohamed
 path: /notes/Mohamed/12-26-2015/asc-airborne-smart-cultivator-r-d-project-robot-payload.md
 nid: 12544
@@ -11,7 +13,7 @@ uid: 431141
 
 # ASC- Airborne Smart Cultivator R&D project( Robot+Payload)
 
-by [Mohamed](../profile/Mohamed) | December 26, 2015 18:41
+by [Mohamed](../../../profile/Mohamed) | December 26, 2015 18:41
 
 December 26, 2015 18:41 | Tags: [ndvi](../tag/ndvi), [drones](../tag/drones), [agriculture](../tag/agriculture), [uav-mapping](../tag/uav-mapping), [unmanned](../tag/unmanned), [asc](../tag/asc), [sudan](../tag/sudan), [mohamed](../tag/mohamed), [aal](../tag/aal), [sap.](../tag/sap.)
 

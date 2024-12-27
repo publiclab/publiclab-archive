@@ -1,5 +1,7 @@
 ---
-title: "Detritivore Design by Mathew Lippincott"\ntagnames: 'design, grassrootsmappingforum, trash, gmf-6, style:fancy, with:mathew'
+title: "Detritivore Design by Mathew Lippincott"
+
+tagnames: 'design, grassrootsmappingforum, trash, gmf-6, style:fancy, with:mathew'
 author: mollydanielsson
 path: /wiki/detritivore-design-by-mathew-lippincott.md
 nid: 11703

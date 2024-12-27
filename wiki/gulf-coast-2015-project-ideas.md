@@ -1,5 +1,7 @@
 ---
-title: "Gulf Coast 2015 Project Ideas"\ntagnames: 'gulf-coast'
+title: "Gulf Coast 2015 Project Ideas"
+
+tagnames: 'gulf-coast'
 author: stevie
 path: /wiki/gulf-coast-2015-project-ideas.md
 nid: 11514

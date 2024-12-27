@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter Help"\ntagnames: 'balloon-mapping, mapknitter, hagit-keysar'
+title: "MapKnitter Help"
+
+tagnames: 'balloon-mapping, mapknitter, hagit-keysar'
 author: gonzoearth
 path: /wiki/mapknitter-help.md
 nid: 468

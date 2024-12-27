@@ -1,5 +1,7 @@
 ---
-title: "Balloon Mapping with Raspberry Pi Workshop"\ntagnames: 'balloon-mapping, workshop, raspberry-pi'
+title: "Balloon Mapping with Raspberry Pi Workshop"
+
+tagnames: 'balloon-mapping, workshop, raspberry-pi'
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/11-06-2014/balloon-mapping-with-raspberry-pi-workshop.md
 nid: 11319
@@ -11,7 +13,7 @@ uid: 552
 
 # Balloon Mapping with Raspberry Pi Workshop
 
-by [seankmcginnis](../profile/seankmcginnis) | November 06, 2014 14:29
+by [seankmcginnis](../../../profile/seankmcginnis) | November 06, 2014 14:29
 
 November 06, 2014 14:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [workshop](../tag/workshop), [raspberry-pi](../tag/raspberry-pi)
 

@@ -1,5 +1,7 @@
 ---
-title: "Simple Water Sensor Platform"\ntagnames: 'arduino, water-sensing, water-quality-mapping, water-quality-monitoring, sensors, water-quality, method, oil-and-gas-water-trio, simple-water-sensor-platform'
+title: "Simple Water Sensor Platform"
+
+tagnames: 'arduino, water-sensing, water-quality-mapping, water-quality-monitoring, sensors, water-quality, method, oil-and-gas-water-trio, simple-water-sensor-platform'
 author: wmacfarl
 path: /wiki/simple-water-sensor-platform.md
 nid: 22362

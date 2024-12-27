@@ -1,5 +1,7 @@
 ---
-title: "Good shutter synchronization"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, triggering, chdk, synchrony'
+title: "Good shutter synchronization"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, triggering, chdk, synchrony'
 author: cfastie
 path: /notes/cfastie/4-14-2012/good-shutter-synchronization.md
 nid: 1676
@@ -11,7 +13,7 @@ uid: 554
 
 # Good shutter synchronization
 
-by [cfastie](../profile/cfastie) | April 14, 2012 15:16
+by [cfastie](../../../profile/cfastie) | April 14, 2012 15:16
 
 April 14, 2012 15:16 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [chdk](../tag/chdk), [synchrony](../tag/synchrony)
 

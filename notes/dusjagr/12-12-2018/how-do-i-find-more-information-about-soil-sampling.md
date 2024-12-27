@@ -1,5 +1,7 @@
 ---
-title: "How do I... find more information about soil sampling"\ntagnames: 'soil-sampling, question:soil-sampling, question:soil'
+title: "How do I... find more information about soil sampling"
+
+tagnames: 'soil-sampling, question:soil-sampling, question:soil'
 author: dusjagr
 path: /notes/dusjagr/12-12-2018/how-do-i-find-more-information-about-soil-sampling.md
 nid: 17880
@@ -9,7 +11,7 @@ uid: 46795
 
 # How do I... find more information about soil sampling
 
-by [dusjagr](../profile/dusjagr) | December 12, 2018 19:31
+by [dusjagr](../../../profile/dusjagr) | December 12, 2018 19:31
 
 December 12, 2018 19:31 | Tags: [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [question:soil](../tag/question:soil)
 

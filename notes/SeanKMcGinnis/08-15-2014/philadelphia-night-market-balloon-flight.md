@@ -1,5 +1,7 @@
 ---
-title: "Philadelphia Night Market Balloon Flight"\ntagnames: 'balloon-mapping, philadelphia, event, urban-design, northeast, replication:14022'
+title: "Philadelphia Night Market Balloon Flight"
+
+tagnames: 'balloon-mapping, philadelphia, event, urban-design, northeast, replication:14022'
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/08-15-2014/philadelphia-night-market-balloon-flight.md
 nid: 11056
@@ -11,7 +13,7 @@ uid: 552
 
 # Philadelphia Night Market Balloon Flight
 
-by [seankmcginnis](../profile/seankmcginnis) | August 15, 2014 09:59
+by [seankmcginnis](../../../profile/seankmcginnis) | August 15, 2014 09:59
 
 August 15, 2014 09:59 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia), [event](../tag/event), [urban-design](../tag/urban-design), [northeast](../tag/northeast), [replication:14022](../tag/replication:14022)
 

@@ -1,5 +1,7 @@
 ---
-title: "Shutter timer upgrade"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, triggering, 555-timer, camera-triggering, timer, intervalometer, 555, activity:camera-triggering, activity:intervalometer'
+title: "Shutter timer upgrade"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, triggering, 555-timer, camera-triggering, timer, intervalometer, 555, activity:camera-triggering, activity:intervalometer'
 author: cfastie
 path: /notes/cfastie/7-12-2012/shutter-timer-upgrade.md
 nid: 2785
@@ -11,7 +13,7 @@ uid: 554
 
 # Shutter timer upgrade
 
-by [cfastie](../profile/cfastie) | July 13, 2012 00:17
+by [cfastie](../../../profile/cfastie) | July 13, 2012 00:17
 
 July 13, 2012 00:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [555-timer](../tag/555-timer), [camera-triggering](../tag/camera-triggering), [timer](../tag/timer), [intervalometer](../tag/intervalometer), [555](../tag/555), [activity:camera-triggering](../tag/activity:camera-triggering), [activity:intervalometer](../tag/activity:intervalometer)
 

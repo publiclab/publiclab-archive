@@ -1,5 +1,7 @@
 ---
-title: "Problems with Design of Homemade Spectrometer"\ntagnames: ''
+title: "Problems with Design of Homemade Spectrometer"
+
+tagnames: ''
 author: pluharj
 path: /notes/pluharj/1-15-2013/problems-design-homemade-spectrometer.md
 nid: 5597
@@ -11,7 +13,7 @@ uid: 46812
 
 # Problems with Design of Homemade Spectrometer
 
-by [pluharj](../profile/pluharj) | January 15, 2013 20:36
+by [pluharj](../../../profile/pluharj) | January 15, 2013 20:36
 
 January 15, 2013 20:36 | Tags: 
 

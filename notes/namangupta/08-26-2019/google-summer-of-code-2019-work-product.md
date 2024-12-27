@@ -1,5 +1,7 @@
 ---
-title: "Google Summer of Code 2019: Work Product"\ntagnames: 'gsoc, soc, gsoc-2019, soc-2019, gsoc-2019-final-report'
+title: "Google Summer of Code 2019: Work Product"
+
+tagnames: 'gsoc, soc, gsoc-2019, soc-2019, gsoc-2019-final-report'
 author: namangupta
 path: /notes/namangupta/08-26-2019/google-summer-of-code-2019-work-product.md
 nid: 20670
@@ -9,7 +11,7 @@ uid: 522848
 
 # Google Summer of Code 2019: Work Product
 
-by [namangupta](../profile/namangupta) | August 26, 2019 07:05
+by [namangupta](../../../profile/namangupta) | August 26, 2019 07:05
 
 August 26, 2019 07:05 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 

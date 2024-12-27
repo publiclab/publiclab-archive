@@ -1,5 +1,7 @@
 ---
-title: "Improved top seal for homemade reference electrodes."\ntagnames: 'potentiostat, cheapstat, tool, wheestat, response:9932'
+title: "Improved top seal for homemade reference electrodes."
+
+tagnames: 'potentiostat, cheapstat, tool, wheestat, response:9932'
 author: JSummers
 path: /notes/JSummers/11-03-2015/improved-top-seal-for-homemade-reference-electrodes.md
 nid: 12358
@@ -11,7 +13,7 @@ uid: 304279
 
 # Improved top seal for homemade reference electrodes.
 
-by [JSummers](../profile/JSummers) | November 03, 2015 17:22
+by [JSummers](../../../profile/JSummers) | November 03, 2015 17:22
 
 November 03, 2015 17:22 | Tags: [potentiostat](../tag/potentiostat), [cheapstat](../tag/cheapstat), [tool](../tag/tool), [wheestat](../tag/wheestat), [response:9932](../tag/response:9932)
 

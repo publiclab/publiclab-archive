@@ -1,5 +1,7 @@
 ---
-title: "Youth Balloon Mapping Workshop"\ntagnames: 'balloon-mapping, education, curriculum, chicago, midwest, civiclab, civic-lab, first-time-poster'
+title: "Youth Balloon Mapping Workshop"
+
+tagnames: 'balloon-mapping, education, curriculum, chicago, midwest, civiclab, civic-lab, first-time-poster'
 author: mjain26
 path: /notes/mjain26/06-24-2014/youth-balloon-mapping-workshop.md
 nid: 10612
@@ -9,7 +11,7 @@ uid: 424870
 
 # Youth Balloon Mapping Workshop
 
-by [mjain26](../profile/mjain26) | June 24, 2014 21:39
+by [mjain26](../../../profile/mjain26) | June 24, 2014 21:39
 
 June 24, 2014 21:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [chicago](../tag/chicago), [midwest](../tag/midwest), [civiclab](../tag/civiclab), [civic-lab](../tag/civic-lab), [first-time-poster](../tag/first-time-poster)
 

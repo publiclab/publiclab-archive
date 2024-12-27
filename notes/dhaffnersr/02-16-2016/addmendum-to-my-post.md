@@ -1,5 +1,7 @@
 ---
-title: "addmendum to my post..."\ntagnames: ''
+title: "addmendum to my post..."
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/02-16-2016/addmendum-to-my-post.md
 nid: 12696
@@ -11,7 +13,7 @@ uid: 461120
 
 # addmendum to my post...
 
-by [dhaffnersr](../profile/dhaffnersr) | February 16, 2016 18:23
+by [dhaffnersr](../../../profile/dhaffnersr) | February 16, 2016 18:23
 
 February 16, 2016 18:23 | Tags: 
 

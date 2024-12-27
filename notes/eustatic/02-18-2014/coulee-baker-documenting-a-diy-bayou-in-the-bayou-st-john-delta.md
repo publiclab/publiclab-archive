@@ -1,5 +1,7 @@
 ---
-title: "Coulee Baker:  documenting a DIY bayou in the Bayou St John "delta""\ntagnames: 'gulf-coast, kite-mapping, wetlands, wetland, dredge-reuse, gopro, dredgefestla, bsj, response:9928'
+title: "Coulee Baker:  documenting a DIY bayou in the Bayou St John "delta""
+
+tagnames: 'gulf-coast, kite-mapping, wetlands, wetland, dredge-reuse, gopro, dredgefestla, bsj, response:9928'
 author: eustatic
 path: /02-18-2014/coulee-baker-documenting-a-diy-bayou-in-the-bayou-st-john-delta.md
 nid: 10046
@@ -11,7 +13,7 @@ uid: 379
 
 # Coulee Baker:  documenting a DIY bayou in the Bayou St John "delta"
 
-by [eustatic](../profile/eustatic) | February 18, 2014 03:20
+by [eustatic](../../../profile/eustatic) | February 18, 2014 03:20
 
 February 18, 2014 03:20 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [wetland](../tag/wetland), [dredge-reuse](../tag/dredge-reuse), [gopro](../tag/gopro), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj), [response:9928](../tag/response:9928)
 

@@ -1,5 +1,7 @@
 ---
-title: "How to read a Permit Application"\ntagnames: 'air-quality, water-quality, bucket-brigade, new, soil-testing, draft, activity:air-quality, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action'
+title: "How to read a Permit Application"
+
+tagnames: 'air-quality, water-quality, bucket-brigade, new, soil-testing, draft, activity:air-quality, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action'
 author: kgradow1
 path: /notes/kgradow1/12-16-2020/how-to-read-a-permit-application.md
 nid: 25269
@@ -11,7 +13,7 @@ uid: 297929
 
 # How to read a Permit Application
 
-by [kgradow1](../profile/kgradow1) | December 16, 2020 20:54
+by [kgradow1](../../../profile/kgradow1) | December 16, 2020 20:54
 
 December 16, 2020 20:54 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [soil-testing](../tag/soil-testing), [draft](../tag/draft), [activity:air-quality](../tag/activity:air-quality), [activity:new](../tag/activity:new), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [statistics-for-action](../tag/statistics-for-action)
 

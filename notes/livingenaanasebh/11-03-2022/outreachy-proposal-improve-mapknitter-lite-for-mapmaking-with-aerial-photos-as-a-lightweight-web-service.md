@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal: Improve MapKnitter Lite for Mapmaking with Aerial Photos as a Lightweight Web Service"\ntagnames: 'software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022'
+title: "Outreachy proposal: Improve MapKnitter Lite for Mapmaking with Aerial Photos as a Lightweight Web Service"
+
+tagnames: 'software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022'
 author: livingenaanasebh
 path: /notes/livingenaanasebh/11-03-2022/outreachy-proposal-improve-mapknitter-lite-for-mapmaking-with-aerial-photos-as-a-lightweight-web-service.md
 nid: 36043
@@ -11,7 +13,7 @@ uid: 816440
 
 # Outreachy proposal: Improve MapKnitter Lite for Mapmaking with Aerial Photos as a Lightweight Web Service
 
-by [livingenaanasebh](../profile/livingenaanasebh) | November 03, 2022 00:22
+by [livingenaanasebh](../../../profile/livingenaanasebh) | November 03, 2022 00:22
 
 November 03, 2022 00:22 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 

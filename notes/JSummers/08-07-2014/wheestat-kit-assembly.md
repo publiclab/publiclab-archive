@@ -1,5 +1,7 @@
 ---
-title: "WheeStat kit assembly"\ntagnames: 'water-quality, potentiostat, wheestat, response:10658, response:10627'
+title: "WheeStat kit assembly"
+
+tagnames: 'water-quality, potentiostat, wheestat, response:10658, response:10627'
 author: JSummers
 path: /notes/JSummers/08-07-2014/wheestat-kit-assembly.md
 nid: 11020
@@ -11,7 +13,7 @@ uid: 304279
 
 # WheeStat kit assembly
 
-by [JSummers](../profile/JSummers) | August 07, 2014 20:38
+by [JSummers](../../../profile/JSummers) | August 07, 2014 20:38
 
 August 07, 2014 20:38 | Tags: [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat), [response:10658](../tag/response:10658), [response:10627](../tag/response:10627)
 

@@ -1,5 +1,7 @@
 ---
-title: "Community Science Soil Testing Fellowship"\ntagnames: 'soil, jobs, fellows, fellowship, soil-sampling, fellow'
+title: "Community Science Soil Testing Fellowship"
+
+tagnames: 'soil, jobs, fellows, fellowship, soil-sampling, fellow'
 author: stevie
 path: /notes/stevie/12-07-2018/community-science-soil-testing-fellowship.md
 nid: 17835
@@ -11,7 +13,7 @@ uid: 422561
 
 # Community Science Soil Testing Fellowship
 
-by [stevie](../profile/stevie) | December 07, 2018 21:19
+by [stevie](../../../profile/stevie) | December 07, 2018 21:19
 
 December 07, 2018 21:19 | Tags: [soil](../tag/soil), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [soil-sampling](../tag/soil-sampling), [fellow](../tag/fellow)
 

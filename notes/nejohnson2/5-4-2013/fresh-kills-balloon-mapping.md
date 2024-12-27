@@ -1,5 +1,7 @@
 ---
-title: "Fresh Kills Balloon Mapping"\ntagnames: 'balloon-mapping, landfill, waste, wasteland, fresh-kills, first-time-poster'
+title: "Fresh Kills Balloon Mapping"
+
+tagnames: 'balloon-mapping, landfill, waste, wasteland, fresh-kills, first-time-poster'
 author: nicholas
 path: /notes/nejohnson2/5-4-2013/fresh-kills-balloon-mapping.md
 nid: 7236
@@ -11,7 +13,7 @@ uid: 53894
 
 # Fresh Kills Balloon Mapping
 
-by [nicholas](../profile/nicholas) | May 04, 2013 14:51
+by [nicholas](../../../profile/nicholas) | May 04, 2013 14:51
 
 May 04, 2013 14:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [wasteland](../tag/wasteland), [fresh-kills](../tag/fresh-kills), [first-time-poster](../tag/first-time-poster)
 

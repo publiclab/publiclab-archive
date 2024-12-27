@@ -1,5 +1,7 @@
 ---
-title: "opencall"\ntagnames: 'redirect:14798'
+title: "opencall"
+
+tagnames: 'redirect:14798'
 author: warren
 path: /wiki/opencall.md
 nid: 15305

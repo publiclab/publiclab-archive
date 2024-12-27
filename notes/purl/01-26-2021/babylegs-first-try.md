@@ -1,5 +1,7 @@
 ---
-title: "Babylegs first try!"\ntagnames: 'gulf-coast, waterway, lake-pontchartrain, lower-ninth-ward, water-monitoring, bayou-st-john, waterquality, microplastics, babylegs, first-time-poster, zoom:17, plastic-pollution, nurdles, lat:29.962508, lon:-90.028858'
+title: "Babylegs first try!"
+
+tagnames: 'gulf-coast, waterway, lake-pontchartrain, lower-ninth-ward, water-monitoring, bayou-st-john, waterquality, microplastics, babylegs, first-time-poster, zoom:17, plastic-pollution, nurdles, lat:29.962508, lon:-90.028858'
 author: purl
 path: /notes/purl/01-26-2021/babylegs-first-try.md
 nid: 25545
@@ -11,7 +13,7 @@ uid: 736598
 
 # Babylegs first try!
 
-by [purl](../profile/purl) | January 26, 2021 22:54
+by [purl](../../../profile/purl) | January 26, 2021 22:54
 
 January 26, 2021 22:54 | Tags: [gulf-coast](../tag/gulf-coast), [waterway](../tag/waterway), [lake-pontchartrain](../tag/lake-pontchartrain), [lower-ninth-ward](../tag/lower-ninth-ward), [water-monitoring](../tag/water-monitoring), [bayou-st-john](../tag/bayou-st-john), [waterquality](../tag/waterquality), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [first-time-poster](../tag/first-time-poster), [zoom:17](../tag/zoom:17), [plastic-pollution](../tag/plastic-pollution), [nurdles](../tag/nurdles), [lat:29.962508](../tag/lat:29.962508), [lon:-90.028858](../tag/lon:-90.028858)
 

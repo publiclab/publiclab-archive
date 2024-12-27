@@ -1,5 +1,7 @@
 ---
-title: "Priorities"\ntagnames: ''
+title: "Priorities"
+
+tagnames: ''
 author: warren
 path: /wiki/priorities.md
 nid: 88

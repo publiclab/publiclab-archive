@@ -1,5 +1,7 @@
 ---
-title: "Le Monde Science & Techno Section Coverage"\ntagnames: ''
+title: "Le Monde Science & Techno Section Coverage"
+
+tagnames: ''
 author: Shannon
 path: /wiki/le-monde-science-techno-section-coverage.md
 nid: 906

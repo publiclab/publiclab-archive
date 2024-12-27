@@ -1,5 +1,7 @@
 ---
-title: "Raspberry Pi Microscope Image Stitching "\ntagnames: 'image-stitching, raspberry-pi, stitching, microscope, microscopy, computer-vision, opencv, raspberry-pi-cameras, live'
+title: "Raspberry Pi Microscope Image Stitching "
+
+tagnames: 'image-stitching, raspberry-pi, stitching, microscope, microscopy, computer-vision, opencv, raspberry-pi-cameras, live'
 author: MaggPi
 path: /notes/MaggPi/03-23-2019/raspberry-pi-microscope-image-stitching.md
 nid: 18826
@@ -11,7 +13,7 @@ uid: 501996
 
 # Raspberry Pi Microscope Image Stitching 
 
-by [MaggPi](../profile/MaggPi) | March 23, 2019 05:52
+by [MaggPi](../../../profile/MaggPi) | March 23, 2019 05:52
 
 March 23, 2019 05:52 | Tags: [image-stitching](../tag/image-stitching), [raspberry-pi](../tag/raspberry-pi), [stitching](../tag/stitching), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [computer-vision](../tag/computer-vision), [opencv](../tag/opencv), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [live](../tag/live)
 

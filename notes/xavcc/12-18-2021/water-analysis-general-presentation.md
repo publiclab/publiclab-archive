@@ -1,5 +1,7 @@
 ---
-title: "Water analysis / General presentation"\ntagnames: 'water-quality, first-time-poster, zoom:6, zoom:7, lat:48.117266, lon:-1.677792, lat:48.107431, lon:-1.669921, lat:48.114766, lon:-1.680908, lat:48.11, lon:-1.6744'
+title: "Water analysis / General presentation"
+
+tagnames: 'water-quality, first-time-poster, zoom:6, zoom:7, lat:48.117266, lon:-1.677792, lat:48.107431, lon:-1.669921, lat:48.114766, lon:-1.680908, lat:48.11, lon:-1.6744'
 author: xavcc
 path: /notes/xavcc/12-18-2021/water-analysis-general-presentation.md
 nid: 28509
@@ -11,7 +13,7 @@ uid: 630823
 
 # Water analysis / General presentation
 
-by [xavcc](../profile/xavcc) | December 18, 2021 16:38
+by [xavcc](../../../profile/xavcc) | December 18, 2021 16:38
 
 December 18, 2021 16:38 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [zoom:7](../tag/zoom:7), [lat:48.117266](../tag/lat:48.117266), [lon:-1.677792](../tag/lon:-1.677792), [lat:48.107431](../tag/lat:48.107431), [lon:-1.669921](../tag/lon:-1.669921), [lat:48.114766](../tag/lat:48.114766), [lon:-1.680908](../tag/lon:-1.680908), [lat:48.11](../tag/lat:48.11), [lon:-1.6744](../tag/lon:-1.6744)
 

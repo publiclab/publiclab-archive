@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of UNF Coxwell Amphitheater"\ntagnames: 'mapknitter, leaflet, aerial-photos, florida, first-time-poster, zoom:16, lat:30.2661204, lon:-81.5072314, lat:30.271929, lon:-81.510432, university-north-florida'
+title: "MapKnitter map of UNF Coxwell Amphitheater"
+
+tagnames: 'mapknitter, leaflet, aerial-photos, florida, first-time-poster, zoom:16, lat:30.2661204, lon:-81.5072314, lat:30.271929, lon:-81.510432, university-north-florida'
 author: faithkruis
 path: /notes/faithkruis/03-08-2021/mapknitter-map-of-unf-coxwell-amphitheater.md
 nid: 25863
@@ -11,7 +13,7 @@ uid: 741392
 
 # MapKnitter map of UNF Coxwell Amphitheater
 
-by [faithkruis](../profile/faithkruis) | March 08, 2021 14:18
+by [faithkruis](../../../profile/faithkruis) | March 08, 2021 14:18
 
 March 08, 2021 14:18 | Tags: [mapknitter](../tag/mapknitter), [leaflet](../tag/leaflet), [aerial-photos](../tag/aerial-photos), [florida](../tag/florida), [first-time-poster](../tag/first-time-poster), [zoom:16](../tag/zoom:16), [lat:30.2661204](../tag/lat:30.2661204), [lon:-81.5072314](../tag/lon:-81.5072314), [lat:30.271929](../tag/lat:30.271929), [lon:-81.510432](../tag/lon:-81.510432), [university-north-florida](../tag/university-north-florida)
 

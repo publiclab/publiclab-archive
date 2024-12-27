@@ -1,5 +1,7 @@
 ---
-title: "CHDK usb remote shutter Digispark sketch"\ntagnames: 'near-infrared-camera, triggering, chdk, camera-triggering'
+title: "CHDK usb remote shutter Digispark sketch"
+
+tagnames: 'near-infrared-camera, triggering, chdk, camera-triggering'
 author: patcoyle
 path: /notes/patcoyle/1-30-2013/chdk-usb-remote-shutter-digispark-sketch.md
 nid: 5811
@@ -11,7 +13,7 @@ uid: 77
 
 # CHDK usb remote shutter Digispark sketch
 
-by [patcoyle](../profile/patcoyle) | January 31, 2013 04:36
+by [patcoyle](../../../profile/patcoyle) | January 31, 2013 04:36
 
 January 31, 2013 04:36 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [chdk](../tag/chdk), [camera-triggering](../tag/camera-triggering)
 

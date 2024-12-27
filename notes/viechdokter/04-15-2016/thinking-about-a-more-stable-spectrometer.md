@@ -1,5 +1,7 @@
 ---
-title: "Thinking about a more stable spectrometer..."\ntagnames: 'spectrometer, design, barnstar:basic, stability, setup, rigidness'
+title: "Thinking about a more stable spectrometer..."
+
+tagnames: 'spectrometer, design, barnstar:basic, stability, setup, rigidness'
 author: viechdokter
 path: /notes/viechdokter/04-15-2016/thinking-about-a-more-stable-spectrometer.md
 nid: 12986
@@ -11,7 +13,7 @@ uid: 468990
 
 # Thinking about a more stable spectrometer...
 
-by [viechdokter](../profile/viechdokter) | April 15, 2016 20:20
+by [viechdokter](../../../profile/viechdokter) | April 15, 2016 20:20
 
 April 15, 2016 20:20 | Tags: [spectrometer](../tag/spectrometer), [design](../tag/design), [barnstar:basic](../tag/barnstar:basic), [stability](../tag/stability), [setup](../tag/setup), [rigidness](../tag/rigidness)
 

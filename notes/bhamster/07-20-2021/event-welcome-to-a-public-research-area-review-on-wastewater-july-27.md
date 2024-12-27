@@ -1,5 +1,7 @@
 ---
-title: "Event! Welcome to a public research area review on wastewater, July 27"\ntagnames: 'event, research, water-quality, stormwater, event:rsvp, wastewater, reviews, research-area-review, rsvp:alejobonifacio, research-curation-fellows-event, rsvp:denissebn_06, with:alejobonifacio, rsvp:heyitsjoe'
+title: "Event! Welcome to a public research area review on wastewater, July 27"
+
+tagnames: 'event, research, water-quality, stormwater, event:rsvp, wastewater, reviews, research-area-review, rsvp:alejobonifacio, research-curation-fellows-event, rsvp:denissebn_06, with:alejobonifacio, rsvp:heyitsjoe'
 author: bhamster
 path: /notes/bhamster/07-20-2021/event-welcome-to-a-public-research-area-review-on-wastewater-july-27.md
 nid: 27205
@@ -11,7 +13,7 @@ uid: 664477
 
 # Event! Welcome to a public research area review on wastewater, July 27
 
-by [bhamster](../profile/bhamster) | July 20, 2021 21:16
+by [bhamster](../../../profile/bhamster) | July 20, 2021 21:16
 
 July 20, 2021 21:16 | Tags: [event](../tag/event), [research](../tag/research), [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [event:rsvp](../tag/event:rsvp), [wastewater](../tag/wastewater), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [rsvp:alejobonifacio](../tag/rsvp:alejobonifacio), [research-curation-fellows-event](../tag/research-curation-fellows-event), [rsvp:denissebn_06](../tag/rsvp:denissebn_06), [with:alejobonifacio](../tag/with:alejobonifacio), [rsvp:heyitsjoe](../tag/rsvp:heyitsjoe)
 

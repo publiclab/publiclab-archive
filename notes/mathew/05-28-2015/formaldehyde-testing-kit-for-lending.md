@@ -1,5 +1,7 @@
 ---
-title: "Formaldehyde Testing Kit for Lending "\ntagnames: 'air-quality, formaldehyde, open-air, openair, lending-library, indoor-air-quality, library, replication:11317'
+title: "Formaldehyde Testing Kit for Lending "
+
+tagnames: 'air-quality, formaldehyde, open-air, openair, lending-library, indoor-air-quality, library, replication:11317'
 author: mathew
 path: /notes/mathew/05-28-2015/formaldehyde-testing-kit-for-lending.md
 nid: 11850
@@ -11,7 +13,7 @@ uid: 4
 
 # Formaldehyde Testing Kit for Lending 
 
-by [mathew](../profile/mathew) | May 28, 2015 06:00
+by [mathew](../../../profile/mathew) | May 28, 2015 06:00
 
 May 28, 2015 06:00 | Tags: [air-quality](../tag/air-quality), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [lending-library](../tag/lending-library), [indoor-air-quality](../tag/indoor-air-quality), [library](../tag/library), [replication:11317](../tag/replication:11317)
 

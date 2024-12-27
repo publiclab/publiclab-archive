@@ -1,5 +1,7 @@
 ---
-title: "New Laser Testing Using a 405nm UV laser Pointer and a 532nm Portable Green Laser"\ntagnames: ''
+title: "New Laser Testing Using a 405nm UV laser Pointer and a 532nm Portable Green Laser"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/09-08-2016/new-laser-testing-using-a-405nm-uv-laser-pointer-and-a-532nm-portable-green-laser.md
 nid: 13429
@@ -11,7 +13,7 @@ uid: 461120
 
 # New Laser Testing Using a 405nm UV laser Pointer and a 532nm Portable Green Laser
 
-by [dhaffnersr](../profile/dhaffnersr) | September 08, 2016 11:54
+by [dhaffnersr](../../../profile/dhaffnersr) | September 08, 2016 11:54
 
 September 08, 2016 11:54 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Map annotation brainstorming notes"\ntagnames: 'balloon-mapping, kite-mapping, annotated-maps'
+title: "Map annotation brainstorming notes"
+
+tagnames: 'balloon-mapping, kite-mapping, annotated-maps'
 author: Shannon
 path: /notes/shannon/1-9-2013/map-annotation-brainstorming-notes.md
 nid: 5494
@@ -11,7 +13,7 @@ uid: 9
 
 # Map annotation brainstorming notes
 
-by [Shannon](../profile/Shannon) | January 09, 2013 16:39
+by [Shannon](../../../profile/Shannon) | January 09, 2013 16:39
 
 January 09, 2013 16:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annotated-maps](../tag/annotated-maps)
 

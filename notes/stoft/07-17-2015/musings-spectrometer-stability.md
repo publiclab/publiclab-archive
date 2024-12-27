@@ -1,5 +1,7 @@
 ---
-title: "Musings: Spectrometer Stability"\ntagnames: 'spectrometer, oil, kit, test, response:11649'
+title: "Musings: Spectrometer Stability"
+
+tagnames: 'spectrometer, oil, kit, test, response:11649'
 author: stoft
 path: /notes/stoft/07-17-2015/musings-spectrometer-stability.md
 nid: 12074
@@ -11,7 +13,7 @@ uid: 54025
 
 # Musings: Spectrometer Stability
 
-by [stoft](../profile/stoft) | July 17, 2015 05:46
+by [stoft](../../../profile/stoft) | July 17, 2015 05:46
 
 July 17, 2015 05:46 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [kit](../tag/kit), [test](../tag/test), [response:11649](../tag/response:11649)
 

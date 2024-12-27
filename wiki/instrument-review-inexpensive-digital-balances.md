@@ -1,5 +1,7 @@
 ---
-title: "Instrument Review: Inexpensive Digital Balances"\ntagnames: ''
+title: "Instrument Review: Inexpensive Digital Balances"
+
+tagnames: ''
 author: JSummers
 path: /wiki/instrument-review-inexpensive-digital-balances.md
 nid: 10199

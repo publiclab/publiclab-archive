@@ -1,5 +1,7 @@
 ---
-title: "microscope-photos"\ntagnames: 'communityscience, communitymicroscope'
+title: "microscope-photos"
+
+tagnames: 'communityscience, communitymicroscope'
 author: liz
 path: /wiki/microscope-photos.md
 nid: 20704

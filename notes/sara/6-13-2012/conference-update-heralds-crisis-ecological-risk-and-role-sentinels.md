@@ -1,5 +1,7 @@
 ---
-title: "Conference Update: Heralds of Crisis: Ecological Risk and the Role of Sentinels"\ntagnames: 'conferences'
+title: "Conference Update: Heralds of Crisis: Ecological Risk and the Role of Sentinels"
+
+tagnames: 'conferences'
 author: sara
 path: /notes/sara/6-13-2012/conference-update-heralds-crisis-ecological-risk-and-role-sentinels.md
 nid: 2471
@@ -11,7 +13,7 @@ uid: 8
 
 # Conference Update: Heralds of Crisis: Ecological Risk and the Role of Sentinels
 
-by [sara](../profile/sara) | June 13, 2012 13:58
+by [sara](../../../profile/sara) | June 13, 2012 13:58
 
 June 13, 2012 13:58 | Tags: [conferences](../tag/conferences)
 

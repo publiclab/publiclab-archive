@@ -1,5 +1,7 @@
 ---
-title: "Chemical Corridor Cookbook"\ntagnames: ''
+title: "Chemical Corridor Cookbook"
+
+tagnames: ''
 author: warren
 path: /wiki/chemical-corridor-cookbook.md
 nid: 12244

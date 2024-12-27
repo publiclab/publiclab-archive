@@ -1,5 +1,7 @@
 ---
-title: "NDVI image issues from GoPro 3+ Silver "\ntagnames: 'ndvi, nir, filter, infragram, plant, question:ndvi, question:infragram, photomonitoring, multispectral-imaging, first-time-poster'
+title: "NDVI image issues from GoPro 3+ Silver "
+
+tagnames: 'ndvi, nir, filter, infragram, plant, question:ndvi, question:infragram, photomonitoring, multispectral-imaging, first-time-poster'
 author: jeffa_plain
 path: /notes/jeffa_plain/11-22-2021/ndvi-image-issues-from-gopro-3-silver.md
 nid: 28222
@@ -9,7 +11,7 @@ uid: 779420
 
 # NDVI image issues from GoPro 3+ Silver 
 
-by [jeffa_plain](../profile/jeffa_plain) | November 22, 2021 19:19
+by [jeffa_plain](../../../profile/jeffa_plain) | November 22, 2021 19:19
 
 November 22, 2021 19:19 | Tags: [ndvi](../tag/ndvi), [nir](../tag/nir), [filter](../tag/filter), [infragram](../tag/infragram), [plant](../tag/plant), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [photomonitoring](../tag/photomonitoring), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
 

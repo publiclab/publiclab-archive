@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of Unc Charlotte Campus pond and front"\ntagnames: 'mapknitter, lat:35.1884000217, lon:-80.9829711914'
+title: "MapKnitter map of Unc Charlotte Campus pond and front"
+
+tagnames: 'mapknitter, lat:35.1884000217, lon:-80.9829711914'
 author: csteph14
 path: /notes/csteph14/02-24-2016/mapknitter-map-of-unc-charlotte-campus-pond-and-front.md
 nid: 12731
@@ -11,7 +13,7 @@ uid: 465622
 
 # MapKnitter map of Unc Charlotte Campus pond and front
 
-by [csteph14](../profile/csteph14) | February 24, 2016 05:09
+by [csteph14](../../../profile/csteph14) | February 24, 2016 05:09
 
 February 24, 2016 05:09 | Tags: [mapknitter](../tag/mapknitter), [lat:35.1884000217](../tag/lat:35.1884000217), [lon:-80.9829711914](../tag/lon:-80.9829711914)
 

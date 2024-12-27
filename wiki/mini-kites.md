@@ -1,5 +1,7 @@
 ---
-title: "Mini Kites"\ntagnames: 'mini-kite'
+title: "Mini Kites"
+
+tagnames: 'mini-kite'
 author: mimiss
 path: /wiki/mini-kites.md
 nid: 23436

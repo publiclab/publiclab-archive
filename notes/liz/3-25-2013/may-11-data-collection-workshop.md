@@ -1,5 +1,7 @@
 ---
-title: "May 11 data collection workshop"\ntagnames: 'new-york-city, event, 5bf, five-borough-farm, urban-ag, open-space-technology, garden'
+title: "May 11 data collection workshop"
+
+tagnames: 'new-york-city, event, 5bf, five-borough-farm, urban-ag, open-space-technology, garden'
 author: liz
 path: /notes/liz/3-25-2013/may-11-data-collection-workshop.md
 nid: 6523
@@ -11,7 +13,7 @@ uid: 7
 
 # May 11 data collection workshop
 
-by [liz](../profile/liz) | March 25, 2013 22:07
+by [liz](../../../profile/liz) | March 25, 2013 22:07
 
 March 25, 2013 22:07 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [5bf](../tag/5bf), [five-borough-farm](../tag/five-borough-farm), [urban-ag](../tag/urban-ag), [open-space-technology](../tag/open-space-technology), [garden](../tag/garden)
 

@@ -1,5 +1,7 @@
 ---
-title: "First experiment with the WheeStat - Quercetin"\ntagnames: 'potentiostat, wheestat, food-quality, activity:potentiostat, potenciostat, lat:-32.934928, lon:-68.818875, activity:wheestat'
+title: "First experiment with the WheeStat - Quercetin"
+
+tagnames: 'potentiostat, wheestat, food-quality, activity:potentiostat, potenciostat, lat:-32.934928, lon:-68.818875, activity:wheestat'
 author: nanocastro
 path: /notes/nanocastro/04-17-2019/first-experiment-with-the-wheestat-quercetin.md
 nid: 19092
@@ -11,7 +13,7 @@ uid: 506212
 
 # First experiment with the WheeStat - Quercetin
 
-by [nanocastro](../profile/nanocastro) | April 17, 2019 20:45
+by [nanocastro](../../../profile/nanocastro) | April 17, 2019 20:45
 
 April 17, 2019 20:45 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat), [food-quality](../tag/food-quality), [activity:potentiostat](../tag/activity:potentiostat), [potenciostat](../tag/potenciostat), [lat:-32.934928](../tag/lat:-32.934928), [lon:-68.818875](../tag/lon:-68.818875), [activity:wheestat](../tag/activity:wheestat)
 

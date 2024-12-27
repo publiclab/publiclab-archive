@@ -1,5 +1,7 @@
 ---
-title: "TEST for posts not being published"\ntagnames: ''
+title: "TEST for posts not being published"
+
+tagnames: ''
 author: icode365
 path: /notes/icode365/04-11-2019/test-for-posts-not-being-published.md
 nid: 19038
@@ -9,7 +11,7 @@ uid: 553778
 
 # TEST for posts not being published
 
-by [icode365](../profile/icode365) | April 11, 2019 14:05
+by [icode365](../../../profile/icode365) | April 11, 2019 14:05
 
 April 11, 2019 14:05 | Tags: 
 

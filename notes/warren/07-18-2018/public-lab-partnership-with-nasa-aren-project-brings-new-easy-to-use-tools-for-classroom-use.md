@@ -1,5 +1,7 @@
 ---
-title: "Public Lab partnership with NASA AREN project brings new easy-to-use tools for classroom use"\ntagnames: 'balloon-mapping, near-infrared-camera, ndvi, education, nasa, infragram, classroom, blog, blog-submission, multispectral-imaging, aren, image-sequencer, stem, globe'
+title: "Public Lab partnership with NASA AREN project brings new easy-to-use tools for classroom use"
+
+tagnames: 'balloon-mapping, near-infrared-camera, ndvi, education, nasa, infragram, classroom, blog, blog-submission, multispectral-imaging, aren, image-sequencer, stem, globe'
 author: warren
 path: /notes/warren/07-18-2018/public-lab-partnership-with-nasa-aren-project-brings-new-easy-to-use-tools-for-classroom-use.md
 nid: 16746
@@ -11,7 +13,7 @@ uid: 1
 
 # Public Lab partnership with NASA AREN project brings new easy-to-use tools for classroom use
 
-by [warren](../profile/warren) | July 18, 2018 21:43
+by [warren](../../../profile/warren) | July 18, 2018 21:43
 
 July 18, 2018 21:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [education](../tag/education), [nasa](../tag/nasa), [infragram](../tag/infragram), [classroom](../tag/classroom), [blog](../tag/blog), [blog-submission](../tag/blog-submission), [multispectral-imaging](../tag/multispectral-imaging), [aren](../tag/aren), [image-sequencer](../tag/image-sequencer), [stem](../tag/stem), [globe](../tag/globe)
 

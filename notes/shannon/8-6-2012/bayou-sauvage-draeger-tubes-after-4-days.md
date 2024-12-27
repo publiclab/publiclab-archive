@@ -1,5 +1,7 @@
 ---
-title: "Bayou Sauvage Draeger tubes after 4 days"\ntagnames: 'hydrogen-sulfide-sensing, wetlands'
+title: "Bayou Sauvage Draeger tubes after 4 days"
+
+tagnames: 'hydrogen-sulfide-sensing, wetlands'
 author: Shannon
 path: /notes/shannon/8-6-2012/bayou-sauvage-draeger-tubes-after-4-days.md
 nid: 3153
@@ -11,7 +13,7 @@ uid: 9
 
 # Bayou Sauvage Draeger tubes after 4 days
 
-by [Shannon](../profile/Shannon) | August 06, 2012 22:14
+by [Shannon](../../../profile/Shannon) | August 06, 2012 22:14
 
 August 06, 2012 22:14 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [wetlands](../tag/wetlands)
 

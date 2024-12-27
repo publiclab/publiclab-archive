@@ -1,5 +1,7 @@
 ---
-title: "400nm LED and 405nm laser using a quartz cuvette"\ntagnames: ''
+title: "400nm LED and 405nm laser using a quartz cuvette"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/03-05-2016/400nm-led-and-405nm-laser-using-a-quartz-cuvette.md
 nid: 12777
@@ -11,7 +13,7 @@ uid: 461120
 
 # 400nm LED and 405nm laser using a quartz cuvette
 
-by [dhaffnersr](../profile/dhaffnersr) | March 05, 2016 18:49
+by [dhaffnersr](../../../profile/dhaffnersr) | March 05, 2016 18:49
 
 March 05, 2016 18:49 | Tags: 
 

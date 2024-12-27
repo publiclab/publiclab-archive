@@ -1,5 +1,7 @@
 ---
-title: "Image history: Version tracking Mapknitter"\ntagnames: 'mapknitter, gsoc, soc19'
+title: "Image history: Version tracking Mapknitter"
+
+tagnames: 'mapknitter, gsoc, soc19'
 author: divyabaid16
 path: /notes/divyabaid16/08-14-2019/image-history-version-tracking-mapknitter.md
 nid: 20530
@@ -9,7 +11,7 @@ uid: 578652
 
 # Image history: Version tracking Mapknitter
 
-by [divyabaid16](../profile/divyabaid16) | August 14, 2019 12:43
+by [divyabaid16](../../../profile/divyabaid16) | August 14, 2019 12:43
 
 August 14, 2019 12:43 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [soc19](../tag/soc19)
 

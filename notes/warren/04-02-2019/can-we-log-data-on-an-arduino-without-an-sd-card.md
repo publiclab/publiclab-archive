@@ -1,5 +1,7 @@
 ---
-title: "Can we log data on an Arduino without an SD card?"\ntagnames: 'arduino, webjack, data-logging, question:data-logging, plantower, p5js, question:simple-air-sensor, simple-air-sensor'
+title: "Can we log data on an Arduino without an SD card?"
+
+tagnames: 'arduino, webjack, data-logging, question:data-logging, plantower, p5js, question:simple-air-sensor, simple-air-sensor'
 author: warren
 path: /notes/warren/04-02-2019/can-we-log-data-on-an-arduino-without-an-sd-card.md
 nid: 18936
@@ -9,7 +11,7 @@ uid: 1
 
 # Can we log data on an Arduino without an SD card?
 
-by [warren](../profile/warren) | April 02, 2019 15:06
+by [warren](../../../profile/warren) | April 02, 2019 15:06
 
 April 02, 2019 15:06 | Tags: [arduino](../tag/arduino), [webjack](../tag/webjack), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [plantower](../tag/plantower), [p5js](../tag/p5js), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor)
 

@@ -1,5 +1,7 @@
 ---
-title: "GSoC proposal: Mapknitter ORB Descriptor (w/ auto-stitching, pattern training, and live video support) and LDI revamp (major UI enhancements)"\ntagnames: 'software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects'
+title: "GSoC proposal: Mapknitter ORB Descriptor (w/ auto-stitching, pattern training, and live video support) and LDI revamp (major UI enhancements)"
+
+tagnames: 'software, gsoc, soc, response:13975, first-time-poster, rgsoc-2019, gsoc-2019, soc-2019, soc-2019-proposals, soc-2019-projects'
 author: rexagod
 path: /notes/rexagod/03-11-2019/gsoc-proposal-mapknitter-orb-descriptor-w-auto-stitching-pattern-training-and-live-video-support-and-ldi-revamp-major-ui-enhancements.md
 nid: 18515
@@ -11,7 +13,7 @@ uid: 564358
 
 # GSoC proposal: Mapknitter ORB Descriptor (w/ auto-stitching, pattern training, and live video support) and LDI revamp (major UI enhancements)
 
-by [rexagod](../profile/rexagod) | March 11, 2019 15:08
+by [rexagod](../../../profile/rexagod) | March 11, 2019 15:08
 
 March 11, 2019 15:08 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-proposals](../tag/soc-2019-proposals), [soc-2019-projects](../tag/soc-2019-projects)
 

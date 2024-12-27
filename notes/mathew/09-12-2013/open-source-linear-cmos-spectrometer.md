@@ -1,5 +1,7 @@
 ---
-title: "Open Source Linear CMOS Spectrometer"\ntagnames: 'spectrometer, spectrometry'
+title: "Open Source Linear CMOS Spectrometer"
+
+tagnames: 'spectrometer, spectrometry'
 author: mathew
 path: /notes/mathew/09-12-2013/open-source-linear-cmos-spectrometer.md
 nid: 9319
@@ -11,7 +13,7 @@ uid: 4
 
 # Open Source Linear CMOS Spectrometer
 
-by [mathew](../profile/mathew) | September 12, 2013 17:17
+by [mathew](../../../profile/mathew) | September 12, 2013 17:17
 
 September 12, 2013 17:17 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry)
 

@@ -1,5 +1,7 @@
 ---
-title: "Conductivity of Water and Community Science"\ntagnames: 'water-sensing, water-quality, conductivity, community-science, parent:water-quality'
+title: "Conductivity of Water and Community Science"
+
+tagnames: 'water-sensing, water-quality, conductivity, community-science, parent:water-quality'
 author: gilbert
 path: /wiki/conductivity-of-water-and-community-science.md
 nid: 15407

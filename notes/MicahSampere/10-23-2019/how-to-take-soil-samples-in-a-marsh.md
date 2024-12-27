@@ -1,5 +1,7 @@
 ---
-title: "How to Take Soil Samples in a Marsh"\ntagnames: 'gulf-coast, wetlands, soil, new-orleans, erosion, marsh, soil-testing, soil-sampling, question:soil-sampling, soil-analysis, question:wetlands, question:soil, with:jeanell873'
+title: "How to Take Soil Samples in a Marsh"
+
+tagnames: 'gulf-coast, wetlands, soil, new-orleans, erosion, marsh, soil-testing, soil-sampling, question:soil-sampling, soil-analysis, question:wetlands, question:soil, with:jeanell873'
 author: MicahSampere
 path: /notes/MicahSampere/10-23-2019/how-to-take-soil-samples-in-a-marsh.md
 nid: 21273
@@ -9,7 +11,7 @@ uid: 618900
 
 # How to Take Soil Samples in a Marsh
 
-by [MicahSampere](../profile/MicahSampere) | October 23, 2019 14:36
+by [MicahSampere](../../../profile/MicahSampere) | October 23, 2019 14:36
 
 October 23, 2019 14:36 | Tags: [gulf-coast](../tag/gulf-coast), [wetlands](../tag/wetlands), [soil](../tag/soil), [new-orleans](../tag/new-orleans), [erosion](../tag/erosion), [marsh](../tag/marsh), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [soil-analysis](../tag/soil-analysis), [question:wetlands](../tag/question:wetlands), [question:soil](../tag/question:soil), [with:jeanell873](../tag/with:jeanell873)
 

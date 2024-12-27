@@ -1,5 +1,7 @@
 ---
-title: "Monitoring Sargent Sand Mining operation in Ludington, Michigan"\ntagnames: 'sand, photo-monitoring, timelapse, mining, monitoring, trail-cam, photographic-evidence, photographic-monitoring, dune, story:timelapse, lat:43.9932773, lon:-86.4780084, timelapse-story'
+title: "Monitoring Sargent Sand Mining operation in Ludington, Michigan"
+
+tagnames: 'sand, photo-monitoring, timelapse, mining, monitoring, trail-cam, photographic-evidence, photographic-monitoring, dune, story:timelapse, lat:43.9932773, lon:-86.4780084, timelapse-story'
 author: glennwalquist
 path: /notes/glennwalquist/12-04-2016/monitoring-sargent-sand-mining-operation-in-ludington-michigan.md
 nid: 13741
@@ -11,7 +13,7 @@ uid: 498910
 
 # Monitoring Sargent Sand Mining operation in Ludington, Michigan
 
-by [glennwalquist](../profile/glennwalquist) | December 04, 2016 00:17
+by [glennwalquist](../../../profile/glennwalquist) | December 04, 2016 00:17
 
 December 04, 2016 00:17 | Tags: [sand](../tag/sand), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [mining](../tag/mining), [monitoring](../tag/monitoring), [trail-cam](../tag/trail-cam), [photographic-evidence](../tag/photographic-evidence), [photographic-monitoring](../tag/photographic-monitoring), [dune](../tag/dune), [story:timelapse](../tag/story:timelapse), [lat:43.9932773](../tag/lat:43.9932773), [lon:-86.4780084](../tag/lon:-86.4780084), [timelapse-story](../tag/timelapse-story)
 

@@ -1,5 +1,7 @@
 ---
-title: "Youth Mapping Experiences"\ntagnames: 'education, youth-mapping, groundworknola'
+title: "Youth Mapping Experiences"
+
+tagnames: 'education, youth-mapping, groundworknola'
 author: GroundworkNola
 path: /notes/groundworknola/5-9-2013/youth-mapping-experiences.md
 nid: 7360
@@ -9,7 +11,7 @@ uid: 41249
 
 # Youth Mapping Experiences
 
-by [GroundworkNola](../profile/GroundworkNola) | May 09, 2013 16:51
+by [GroundworkNola](../../../profile/GroundworkNola) | May 09, 2013 16:51
 
 May 09, 2013 16:51 | Tags: [education](../tag/education), [youth-mapping](../tag/youth-mapping), [groundworknola](../tag/groundworknola)
 

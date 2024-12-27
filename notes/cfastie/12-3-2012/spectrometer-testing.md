@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer testing"\ntagnames: 'spectrometer, grating, diffraction-grating, cfl, compact-fluorescent, entrance-slit'
+title: "Spectrometer testing"
+
+tagnames: 'spectrometer, grating, diffraction-grating, cfl, compact-fluorescent, entrance-slit'
 author: cfastie
 path: /notes/cfastie/12-3-2012/spectrometer-testing.md
 nid: 5098
@@ -11,7 +13,7 @@ uid: 554
 
 # Spectrometer testing
 
-by [cfastie](../profile/cfastie) | December 04, 2012 04:41
+by [cfastie](../../../profile/cfastie) | December 04, 2012 04:41
 
 December 04, 2012 04:41 | Tags: [spectrometer](../tag/spectrometer), [grating](../tag/grating), [diffraction-grating](../tag/diffraction-grating), [cfl](../tag/cfl), [compact-fluorescent](../tag/compact-fluorescent), [entrance-slit](../tag/entrance-slit)
 

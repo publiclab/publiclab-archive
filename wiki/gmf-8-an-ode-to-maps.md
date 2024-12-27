@@ -1,5 +1,7 @@
 ---
-title: "GMF-8-An-Ode-To-Maps"\ntagnames: 'grassrootsmappingforum, style:fancy, gmf-8'
+title: "GMF-8-An-Ode-To-Maps"
+
+tagnames: 'grassrootsmappingforum, style:fancy, gmf-8'
 author: liz
 path: /wiki/gmf-8-an-ode-to-maps.md
 nid: 12148

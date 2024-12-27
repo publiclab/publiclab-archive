@@ -1,5 +1,7 @@
 ---
-title: "Mini video recorder"\ntagnames: 'mapknitter, question:mapknitter'
+title: "Mini video recorder"
+
+tagnames: 'mapknitter, question:mapknitter'
 author: Ag8n
 path: /notes/Ag8n/08-09-2018/mini-video-recorder.md
 nid: 16900
@@ -9,7 +11,7 @@ uid: 520994
 
 # Mini video recorder
 
-by [Ag8n](../profile/Ag8n) | August 09, 2018 18:13
+by [Ag8n](../../../profile/Ag8n) | August 09, 2018 18:13
 
 August 09, 2018 18:13 | Tags: [mapknitter](../tag/mapknitter), [question:mapknitter](../tag/question:mapknitter)
 

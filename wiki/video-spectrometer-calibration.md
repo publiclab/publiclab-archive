@@ -1,5 +1,7 @@
 ---
-title: "Video spectrometer calibration"\ntagnames: ''
+title: "Video spectrometer calibration"
+
+tagnames: ''
 author: warren
 path: /wiki/video-spectrometer-calibration.md
 nid: 573

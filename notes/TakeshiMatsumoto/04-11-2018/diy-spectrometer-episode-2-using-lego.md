@@ -1,5 +1,7 @@
 ---
-title: "DIY-spectrometer episode 2 (using LEGO)"\ntagnames: 'spectrometer, spectrometry, lego, activity:spectrometry, activity:lego-spectrometer, activity:lego'
+title: "DIY-spectrometer episode 2 (using LEGO)"
+
+tagnames: 'spectrometer, spectrometry, lego, activity:spectrometry, activity:lego-spectrometer, activity:lego'
 author: TakeshiMatsumoto
 path: /notes/TakeshiMatsumoto/04-11-2018/diy-spectrometer-episode-2-using-lego.md
 nid: 16130
@@ -11,7 +13,7 @@ uid: 528173
 
 # DIY-spectrometer episode 2 (using LEGO)
 
-by [TakeshiMatsumoto](../profile/TakeshiMatsumoto) | April 11, 2018 08:58
+by [TakeshiMatsumoto](../../../profile/TakeshiMatsumoto) | April 11, 2018 08:58
 
 April 11, 2018 08:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [lego](../tag/lego), [activity:spectrometry](../tag/activity:spectrometry), [activity:lego-spectrometer](../tag/activity:lego-spectrometer), [activity:lego](../tag/activity:lego)
 

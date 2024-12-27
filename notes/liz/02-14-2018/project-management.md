@@ -1,5 +1,7 @@
 ---
-title: "Project management?"\ntagnames: 'community, question:general, question:community'
+title: "Project management?"
+
+tagnames: 'community, question:general, question:community'
 author: liz
 path: /notes/liz/02-14-2018/project-management.md
 nid: 15738
@@ -9,7 +11,7 @@ uid: 7
 
 # Project management?
 
-by [liz](../profile/liz) | February 14, 2018 23:27
+by [liz](../../../profile/liz) | February 14, 2018 23:27
 
 February 14, 2018 23:27 | Tags: [community](../tag/community), [question:general](../tag/question:general), [question:community](../tag/question:community)
 

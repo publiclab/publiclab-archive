@@ -1,5 +1,7 @@
 ---
-title: "What are some good trouble shooting tips for installing/maintaining a PurpleAir? "\ntagnames: 'air-quality, pm, sensor, question:air-quality, air-monitoring, question:pm, question:general, general, particulate-matter, question:air-monitoring, purpleair, question:purpleair, purple-air, question:sensor, question:purple-air, formosaplastics, question:formosaplastics, with:tylerknight'
+title: "What are some good trouble shooting tips for installing/maintaining a PurpleAir? "
+
+tagnames: 'air-quality, pm, sensor, question:air-quality, air-monitoring, question:pm, question:general, general, particulate-matter, question:air-monitoring, purpleair, question:purpleair, purple-air, question:sensor, question:purple-air, formosaplastics, question:formosaplastics, with:tylerknight'
 author: stevie
 path: /notes/stevie/02-24-2022/what-are-some-good-trouble-shooting-tips-for-installing-maintaining-a-purpleair.md
 nid: 30080
@@ -11,7 +13,7 @@ uid: 422561
 
 # What are some good trouble shooting tips for installing/maintaining a PurpleAir? 
 
-by [stevie](../profile/stevie) | February 24, 2022 16:22
+by [stevie](../../../profile/stevie) | February 24, 2022 16:22
 
 February 24, 2022 16:22 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [sensor](../tag/sensor), [question:air-quality](../tag/question:air-quality), [air-monitoring](../tag/air-monitoring), [question:pm](../tag/question:pm), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [question:air-monitoring](../tag/question:air-monitoring), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [purple-air](../tag/purple-air), [question:sensor](../tag/question:sensor), [question:purple-air](../tag/question:purple-air), [formosaplastics](../tag/formosaplastics), [question:formosaplastics](../tag/question:formosaplastics), [with:tylerknight](../tag/with:tylerknight)
 

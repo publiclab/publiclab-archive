@@ -1,5 +1,7 @@
 ---
-title: "GSOC 2016 Outcome : Internationalization of Publiclab.org"\ntagnames: 'gsoc, gsoc-2016, internationalization, i18n, response:13397, translation'
+title: "GSOC 2016 Outcome : Internationalization of Publiclab.org"
+
+tagnames: 'gsoc, gsoc-2016, internationalization, i18n, response:13397, translation'
 author: jiteshxyz
 path: /notes/jiteshxyz/08-22-2016/gsoc-2016-outcome-internationalization-of-publiclab-org.md
 nid: 13382
@@ -11,7 +13,7 @@ uid: 468400
 
 # GSOC 2016 Outcome : Internationalization of Publiclab.org
 
-by [jiteshxyz](../profile/jiteshxyz) | August 22, 2016 17:48
+by [jiteshxyz](../../../profile/jiteshxyz) | August 22, 2016 17:48
 
 August 22, 2016 17:48 | Tags: [gsoc](../tag/gsoc), [gsoc-2016](../tag/gsoc-2016), [internationalization](../tag/internationalization), [i18n](../tag/i18n), [response:13397](../tag/response:13397), [translation](../tag/translation)
 

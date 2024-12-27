@@ -1,5 +1,7 @@
 ---
-title: "Report: Particle Visualization Event"\ntagnames: 'wisconsin, air-quality, frac-sand, pm, midwest, particle-monitoring, with:warren, fracsand, microscope, passive-particle-monitors, parent:frac-sand, with:pat, basic-microscope, with:dswenson'
+title: "Report: Particle Visualization Event"
+
+tagnames: 'wisconsin, air-quality, frac-sand, pm, midwest, particle-monitoring, with:warren, fracsand, microscope, passive-particle-monitors, parent:frac-sand, with:pat, basic-microscope, with:dswenson'
 author: stevie
 path: /notes/stevie/03-12-2018/report-particle-visualization-event.md
 nid: 15923
@@ -11,7 +13,7 @@ uid: 422561
 
 # Report: Particle Visualization Event
 
-by [stevie](../profile/stevie) | March 12, 2018 15:40
+by [stevie](../../../profile/stevie) | March 12, 2018 15:40
 
 March 12, 2018 15:40 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [with:warren](../tag/with:warren), [fracsand](../tag/fracsand), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [parent:frac-sand](../tag/parent:frac-sand), [with:pat](../tag/with:pat), [basic-microscope](../tag/basic-microscope), [with:dswenson](../tag/with:dswenson)
 

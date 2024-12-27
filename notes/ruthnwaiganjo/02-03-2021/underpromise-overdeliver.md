@@ -1,5 +1,7 @@
 ---
-title: "Underpromise | Overdeliver"\ntagnames: 'blog-submission, outreachy-2020, estimations'
+title: "Underpromise | Overdeliver"
+
+tagnames: 'blog-submission, outreachy-2020, estimations'
 author: ruthnwaiganjo
 path: /notes/ruthnwaiganjo/02-03-2021/underpromise-overdeliver.md
 nid: 25595
@@ -11,7 +13,7 @@ uid: 725565
 
 # Underpromise | Overdeliver
 
-by [ruthnwaiganjo](../profile/ruthnwaiganjo) | February 03, 2021 15:05
+by [ruthnwaiganjo](../../../profile/ruthnwaiganjo) | February 03, 2021 15:05
 
 February 03, 2021 15:05 | Tags: [blog-submission](../tag/blog-submission), [outreachy-2020](../tag/outreachy-2020), [estimations](../tag/estimations)
 

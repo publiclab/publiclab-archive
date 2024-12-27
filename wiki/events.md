@@ -1,5 +1,7 @@
 ---
-title: "Events"\ntagnames: 'community, events, event, organizers, style:minimal, locked'
+title: "Events"
+
+tagnames: 'community, events, event, organizers, style:minimal, locked'
 author: warren
 path: /wiki/events.md
 nid: 303

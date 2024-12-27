@@ -1,5 +1,7 @@
 ---
-title: "Inviting contributors"\ntagnames: ''
+title: "Inviting contributors"
+
+tagnames: ''
 author: warren
 path: /wiki/inviting-contributors.md
 nid: 759

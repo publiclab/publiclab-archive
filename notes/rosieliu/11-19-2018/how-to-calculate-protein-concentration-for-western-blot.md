@@ -1,5 +1,7 @@
 ---
-title: "How to Calculate Protein Concentration for Western Blot"\ntagnames: ''
+title: "How to Calculate Protein Concentration for Western Blot"
+
+tagnames: ''
 author: rosieliu
 path: /notes/rosieliu/11-19-2018/how-to-calculate-protein-concentration-for-western-blot.md
 nid: 17709
@@ -11,7 +13,7 @@ uid: 535191
 
 # How to Calculate Protein Concentration for Western Blot
 
-by [rosieliu](../profile/rosieliu) | November 19, 2018 09:04
+by [rosieliu](../../../profile/rosieliu) | November 19, 2018 09:04
 
 November 19, 2018 09:04 | Tags: 
 

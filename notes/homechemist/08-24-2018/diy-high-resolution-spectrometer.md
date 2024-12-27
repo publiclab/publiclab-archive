@@ -1,5 +1,7 @@
 ---
-title: "DIY High resolution spectrometer"\ntagnames: 'spectrometer, spectroscopy, chemistry'
+title: "DIY High resolution spectrometer"
+
+tagnames: 'spectrometer, spectroscopy, chemistry'
 author: homechemist
 path: /notes/homechemist/08-24-2018/diy-high-resolution-spectrometer.md
 nid: 16996
@@ -11,7 +13,7 @@ uid: 212574
 
 # DIY High resolution spectrometer
 
-by [homechemist](../profile/homechemist) | August 24, 2018 16:21
+by [homechemist](../../../profile/homechemist) | August 24, 2018 16:21
 
 August 24, 2018 16:21 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [chemistry](../tag/chemistry)
 

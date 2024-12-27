@@ -1,5 +1,7 @@
 ---
-title: "A DIY gas-finding camera?"\ntagnames: 'thermal-photography, infrared, camera, flir, methane, voc, gasfinder'
+title: "A DIY gas-finding camera?"
+
+tagnames: 'thermal-photography, infrared, camera, flir, methane, voc, gasfinder'
 author: mathew
 path: /notes/mathew/11-21-2014/a-diy-gas-finding-camera.md
 nid: 11377
@@ -11,7 +13,7 @@ uid: 4
 
 # A DIY gas-finding camera?
 
-by [mathew](../profile/mathew) | November 21, 2014 04:26
+by [mathew](../../../profile/mathew) | November 21, 2014 04:26
 
 November 21, 2014 04:26 | Tags: [thermal-photography](../tag/thermal-photography), [infrared](../tag/infrared), [camera](../tag/camera), [flir](../tag/flir), [methane](../tag/methane), [voc](../tag/voc), [gasfinder](../tag/gasfinder)
 

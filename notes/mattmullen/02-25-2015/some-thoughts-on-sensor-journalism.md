@@ -1,5 +1,7 @@
 ---
-title: "Some Thoughts on Sensor Journalism "\ntagnames: 'journalism, sensor, sensor-journalism, emersondataviz'
+title: "Some Thoughts on Sensor Journalism "
+
+tagnames: 'journalism, sensor, sensor-journalism, emersondataviz'
 author: mattmullen
 path: /notes/mattmullen/02-25-2015/some-thoughts-on-sensor-journalism.md
 nid: 11637
@@ -11,7 +13,7 @@ uid: 434175
 
 # Some Thoughts on Sensor Journalism 
 
-by [mattmullen](../profile/mattmullen) | February 25, 2015 03:41
+by [mattmullen](../../../profile/mattmullen) | February 25, 2015 03:41
 
 February 25, 2015 03:41 | Tags: [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism), [emersondataviz](../tag/emersondataviz)
 

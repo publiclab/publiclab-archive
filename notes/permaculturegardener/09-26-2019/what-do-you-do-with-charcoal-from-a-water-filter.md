@@ -1,5 +1,7 @@
 ---
-title: "What do you do with charcoal from a water filter?"\ntagnames: 'question:general, question:waste, first-time-poster, question:hazardous-waste, question:charcoal'
+title: "What do you do with charcoal from a water filter?"
+
+tagnames: 'question:general, question:waste, first-time-poster, question:hazardous-waste, question:charcoal'
 author: permaculturegardener
 path: /notes/permaculturegardener/09-26-2019/what-do-you-do-with-charcoal-from-a-water-filter.md
 nid: 21011
@@ -9,7 +11,7 @@ uid: 623002
 
 # What do you do with charcoal from a water filter?
 
-by [permaculturegardener](../profile/permaculturegardener) | September 26, 2019 18:43
+by [permaculturegardener](../../../profile/permaculturegardener) | September 26, 2019 18:43
 
 September 26, 2019 18:43 | Tags: [question:general](../tag/question:general), [question:waste](../tag/question:waste), [first-time-poster](../tag/first-time-poster), [question:hazardous-waste](../tag/question:hazardous-waste), [question:charcoal](../tag/question:charcoal)
 

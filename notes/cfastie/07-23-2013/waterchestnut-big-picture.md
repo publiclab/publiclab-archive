@@ -1,5 +1,7 @@
 ---
-title: "WATERCHESTNUT Big Picture"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, vermont, vegetation-mapping, lake, pvos, event, massachusetts, invasive, umass-amherst, aquatic, usfws, classification, h2onutz, invasive-species, pioneer-valley'
+title: "WATERCHESTNUT Big Picture"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, vermont, vegetation-mapping, lake, pvos, event, massachusetts, invasive, umass-amherst, aquatic, usfws, classification, h2onutz, invasive-species, pioneer-valley'
 author: cfastie
 path: /notes/cfastie/07-23-2013/waterchestnut-big-picture.md
 nid: 8926
@@ -11,7 +13,7 @@ uid: 554
 
 # WATERCHESTNUT Big Picture
 
-by [cfastie](../profile/cfastie) | July 23, 2013 22:20
+by [cfastie](../../../profile/cfastie) | July 23, 2013 22:20
 
 July 23, 2013 22:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [vegetation-mapping](../tag/vegetation-mapping), [lake](../tag/lake), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [h2onutz](../tag/h2onutz), [invasive-species](../tag/invasive-species), [pioneer-valley](../tag/pioneer-valley)
 

@@ -1,5 +1,7 @@
 ---
-title: "Exhibitions"\ntagnames: 'database, data-collection, data, local-projects'
+title: "Exhibitions"
+
+tagnames: 'database, data-collection, data, local-projects'
 author: warren
 path: /wiki/exhibitions.md
 nid: 96

@@ -1,5 +1,7 @@
 ---
-title: "Congratulations to our 2019 Outreachy and Google Summer of Code team!"\ntagnames: 'gsoc, blog, code, wwg, soc, outreachy, gsoc-2019, soc-2019, outreachy-2019, gsoc-2019-final-report'
+title: "Congratulations to our 2019 Outreachy and Google Summer of Code team!"
+
+tagnames: 'gsoc, blog, code, wwg, soc, outreachy, gsoc-2019, soc-2019, outreachy-2019, gsoc-2019-final-report'
 author: warren
 path: /notes/warren/09-05-2019/congratulations-to-our-2019-outreachy-and-google-summer-of-code-team.md
 nid: 20777
@@ -11,7 +13,7 @@ uid: 1
 
 # Congratulations to our 2019 Outreachy and Google Summer of Code team!
 
-by [warren](../profile/warren) | September 05, 2019 19:17
+by [warren](../../../profile/warren) | September 05, 2019 19:17
 
 September 05, 2019 19:17 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [wwg](../tag/wwg), [soc](../tag/soc), [outreachy](../tag/outreachy), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019), [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 

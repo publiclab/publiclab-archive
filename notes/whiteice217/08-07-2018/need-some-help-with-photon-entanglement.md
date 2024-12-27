@@ -1,5 +1,7 @@
 ---
-title: "Need some help with photon entanglement "\ntagnames: 'physics, question:general, communication, photons, entanglement, computers, question:physics'
+title: "Need some help with photon entanglement "
+
+tagnames: 'physics, question:general, communication, photons, entanglement, computers, question:physics'
 author: whiteice217
 path: /notes/whiteice217/08-07-2018/need-some-help-with-photon-entanglement.md
 nid: 16879
@@ -9,7 +11,7 @@ uid: 542028
 
 # Need some help with photon entanglement 
 
-by [whiteice217](../profile/whiteice217) | August 07, 2018 18:27
+by [whiteice217](../../../profile/whiteice217) | August 07, 2018 18:27
 
 August 07, 2018 18:27 | Tags: [physics](../tag/physics), [question:general](../tag/question:general), [communication](../tag/communication), [photons](../tag/photons), [entanglement](../tag/entanglement), [computers](../tag/computers), [question:physics](../tag/question:physics)
 

@@ -1,5 +1,7 @@
 ---
-title: "A Lending Library (shipping and other troubles in the holyland)"\ntagnames: 'balloon-mapping, kite-mapping, jerusalem, diy, israel, palestine, lending-library, troubles-in-the-holyland, middle-east'
+title: "A Lending Library (shipping and other troubles in the holyland)"
+
+tagnames: 'balloon-mapping, kite-mapping, jerusalem, diy, israel, palestine, lending-library, troubles-in-the-holyland, middle-east'
 author: hagitkeysar
 path: /notes/hagitkeysar/07-28-2015/a-lending-library-shipping-and-other-troubles-in-the-holyland.md
 nid: 12104
@@ -11,7 +13,7 @@ uid: 152
 
 # A Lending Library (shipping and other troubles in the holyland)
 
-by [hagitkeysar](../profile/hagitkeysar) | July 28, 2015 19:40
+by [hagitkeysar](../../../profile/hagitkeysar) | July 28, 2015 19:40
 
 July 28, 2015 19:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [jerusalem](../tag/jerusalem), [diy](../tag/diy), [israel](../tag/israel), [palestine](../tag/palestine), [lending-library](../tag/lending-library), [troubles-in-the-holyland](../tag/troubles-in-the-holyland), [middle-east](../tag/middle-east)
 

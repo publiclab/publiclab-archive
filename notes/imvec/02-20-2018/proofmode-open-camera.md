@@ -1,5 +1,7 @@
 ---
-title: "Proofmode + Open Camera"\ntagnames: 'photography, spain, android, reporting, photo-monitoring, metadata, eu, visual-monitoring, site-survey, activity:site-survey, violation-reporting, image-gathering, verifcation, pgp, openpgp, sha256, guardian-project, proofmode, spill-reporting'
+title: "Proofmode + Open Camera"
+
+tagnames: 'photography, spain, android, reporting, photo-monitoring, metadata, eu, visual-monitoring, site-survey, activity:site-survey, violation-reporting, image-gathering, verifcation, pgp, openpgp, sha256, guardian-project, proofmode, spill-reporting'
 author: imvec
 path: /notes/imvec/02-20-2018/proofmode-open-camera.md
 nid: 15786
@@ -11,7 +13,7 @@ uid: 495038
 
 # Proofmode + Open Camera
 
-by [imvec](../profile/imvec) | February 20, 2018 12:24
+by [imvec](../../../profile/imvec) | February 20, 2018 12:24
 
 February 20, 2018 12:24 | Tags: [photography](../tag/photography), [spain](../tag/spain), [android](../tag/android), [reporting](../tag/reporting), [photo-monitoring](../tag/photo-monitoring), [metadata](../tag/metadata), [eu](../tag/eu), [visual-monitoring](../tag/visual-monitoring), [site-survey](../tag/site-survey), [activity:site-survey](../tag/activity:site-survey), [violation-reporting](../tag/violation-reporting), [image-gathering](../tag/image-gathering), [verifcation](../tag/verifcation), [pgp](../tag/pgp), [openpgp](../tag/openpgp), [sha256](../tag/sha256), [guardian-project](../tag/guardian-project), [proofmode](../tag/proofmode), [spill-reporting](../tag/spill-reporting)
 

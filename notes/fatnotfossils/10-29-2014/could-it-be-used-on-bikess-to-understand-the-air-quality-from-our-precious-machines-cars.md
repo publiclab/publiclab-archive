@@ -1,5 +1,7 @@
 ---
-title: "Could it be used on bikess to understand the air quality from our precious machines (cars)"\ntagnames: 'question:dustduino, first-time-poster'
+title: "Could it be used on bikess to understand the air quality from our precious machines (cars)"
+
+tagnames: 'question:dustduino, first-time-poster'
 author: fatnotfossils
 path: /notes/fatnotfossils/10-29-2014/could-it-be-used-on-bikess-to-understand-the-air-quality-from-our-precious-machines-cars.md
 nid: 11311
@@ -9,7 +11,7 @@ uid: 430643
 
 # Could it be used on bikess to understand the air quality from our precious machines (cars)
 
-by [fatnotfossils](../profile/fatnotfossils) | October 29, 2014 13:06
+by [fatnotfossils](../../../profile/fatnotfossils) | October 29, 2014 13:06
 
 October 29, 2014 13:06 | Tags: [question:dustduino](../tag/question:dustduino), [first-time-poster](../tag/first-time-poster)
 

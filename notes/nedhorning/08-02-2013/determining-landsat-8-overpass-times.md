@@ -1,5 +1,7 @@
 ---
-title: "Determining Landsat 8 overpass times"\ntagnames: 'remote-sensing, landsat, satellite-imagery, activity:remote-sensing'
+title: "Determining Landsat 8 overpass times"
+
+tagnames: 'remote-sensing, landsat, satellite-imagery, activity:remote-sensing'
 author: nedhorning
 path: /notes/nedhorning/08-02-2013/determining-landsat-8-overpass-times.md
 nid: 8960
@@ -11,7 +13,7 @@ uid: 133
 
 # Determining Landsat 8 overpass times
 
-by [nedhorning](../profile/nedhorning) | August 02, 2013 22:54
+by [nedhorning](../../../profile/nedhorning) | August 02, 2013 22:54
 
 August 02, 2013 22:54 | Tags: [remote-sensing](../tag/remote-sensing), [landsat](../tag/landsat), [satellite-imagery](../tag/satellite-imagery), [activity:remote-sensing](../tag/activity:remote-sensing)
 

@@ -1,5 +1,7 @@
 ---
-title: "Urban Waters Mapping, NOLA"\ntagnames: 'gulf-coast, wetlands, community-mapping, louisiana, restoration, epa, new-orleans, neworleans, tabbed:notes, urbanwater, urbanwaters, community-organizing, project, project:wetlands, fresh-water, urban-wetland'
+title: "Urban Waters Mapping, NOLA"
+
+tagnames: 'gulf-coast, wetlands, community-mapping, louisiana, restoration, epa, new-orleans, neworleans, tabbed:notes, urbanwater, urbanwaters, community-organizing, project, project:wetlands, fresh-water, urban-wetland'
 author: stevie
 path: /wiki/urban-waters-mapping-nola.md
 nid: 11258

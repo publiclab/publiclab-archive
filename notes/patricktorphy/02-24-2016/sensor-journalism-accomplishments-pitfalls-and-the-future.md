@@ -1,5 +1,7 @@
 ---
-title: "Sensor Journalism: Accomplishments, Pitfalls, and The Future "\ntagnames: 'sensor-journalism, response:12748, hidden:response'
+title: "Sensor Journalism: Accomplishments, Pitfalls, and The Future "
+
+tagnames: 'sensor-journalism, response:12748, hidden:response'
 author: patricktorphy
 path: /notes/patricktorphy/02-24-2016/sensor-journalism-accomplishments-pitfalls-and-the-future.md
 nid: 12745
@@ -11,7 +13,7 @@ uid: 461515
 
 # Sensor Journalism: Accomplishments, Pitfalls, and The Future 
 
-by [patricktorphy](../profile/patricktorphy) | February 24, 2016 19:01
+by [patricktorphy](../../../profile/patricktorphy) | February 24, 2016 19:01
 
 February 24, 2016 19:01 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

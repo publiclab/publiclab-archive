@@ -1,5 +1,7 @@
 ---
-title: "food"\ntagnames: 'infrared, food, food-fraud, multispeq, food-quality, food-desert, multispectral-analysis'
+title: "food"
+
+tagnames: 'infrared, food, food-fraud, multispeq, food-quality, food-desert, multispectral-analysis'
 author: btbonval
 path: /wiki/food.md
 nid: 11472

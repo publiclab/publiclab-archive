@@ -1,5 +1,7 @@
 ---
-title: "Oil Testing Kit -- mixing 5W30 20W30"\ntagnames: 'spectrometer, oil, oil-testing, oil-testing-kit, response:12046'
+title: "Oil Testing Kit -- mixing 5W30 20W30"
+
+tagnames: 'spectrometer, oil, oil-testing, oil-testing-kit, response:12046'
 author: gretchengehrke
 path: /notes/gretchengehrke/07-11-2015/oil-testing-kit-mixing-5w30-20w30.md
 nid: 12050
@@ -11,7 +13,7 @@ uid: 430549
 
 # Oil Testing Kit -- mixing 5W30 20W30
 
-by [gretchengehrke](../profile/gretchengehrke) | July 11, 2015 20:04
+by [gretchengehrke](../../../profile/gretchengehrke) | July 11, 2015 20:04
 
 July 11, 2015 20:04 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [oil-testing](../tag/oil-testing), [oil-testing-kit](../tag/oil-testing-kit), [response:12046](../tag/response:12046)
 

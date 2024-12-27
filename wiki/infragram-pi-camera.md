@@ -1,5 +1,7 @@
 ---
-title: "Infragram Pi Camera"\ntagnames: ''
+title: "Infragram Pi Camera"
+
+tagnames: ''
 author: joyofsoy
 path: /wiki/infragram-pi-camera.md
 nid: 20603

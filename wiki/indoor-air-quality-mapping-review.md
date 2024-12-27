@@ -1,5 +1,7 @@
 ---
-title: "indoor air quality mapping review"\ntagnames: 'air-quality, review'
+title: "indoor air quality mapping review"
+
+tagnames: 'air-quality, review'
 author: gonzoearth
 path: /wiki/indoor-air-quality-mapping-review.md
 nid: 704

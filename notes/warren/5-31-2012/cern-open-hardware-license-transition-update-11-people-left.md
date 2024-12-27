@@ -1,5 +1,7 @@
 ---
-title: "CERN Open Hardware License transition update: 11 people left"\ntagnames: 'open-source, licensing, open-hardware'
+title: "CERN Open Hardware License transition update: 11 people left"
+
+tagnames: 'open-source, licensing, open-hardware'
 author: warren
 path: /notes/warren/5-31-2012/cern-open-hardware-license-transition-update-11-people-left.md
 nid: 2278
@@ -9,7 +11,7 @@ uid: 1
 
 # CERN Open Hardware License transition update: 11 people left
 
-by [warren](../profile/warren) | May 31, 2012 16:47
+by [warren](../../../profile/warren) | May 31, 2012 16:47
 
 May 31, 2012 16:47 | Tags: [open-source](../tag/open-source), [licensing](../tag/licensing), [open-hardware](../tag/open-hardware)
 

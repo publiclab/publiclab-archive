@@ -1,5 +1,7 @@
 ---
-title: "Barataria and other ground photos for inclusion in future Archive map entries"\ntagnames: 'gulf-coast, oil-spill, barataria'
+title: "Barataria and other ground photos for inclusion in future Archive map entries"
+
+tagnames: 'gulf-coast, oil-spill, barataria'
 author: warren
 path: /notes/warren/11-8-2011/barataria-and-other-ground-photos-inclusion-future-archive-map-entries.md
 nid: 550
@@ -11,7 +13,7 @@ uid: 1
 
 # Barataria and other ground photos for inclusion in future Archive map entries
 
-by [warren](../profile/warren) | November 08, 2011 15:33
+by [warren](../../../profile/warren) | November 08, 2011 15:33
 
 November 08, 2011 15:33 | Tags: [gulf-coast](../tag/gulf-coast), [oil-spill](../tag/oil-spill), [barataria](../tag/barataria)
 

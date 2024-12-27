@@ -1,5 +1,7 @@
 ---
-title: "Trash Can Rig for Heavy Cameras"\ntagnames: 'balloon-mapping, photo-rig'
+title: "Trash Can Rig for Heavy Cameras"
+
+tagnames: 'balloon-mapping, photo-rig'
 author: MicheleTobias
 path: /wiki/trash-can-rig-heavy-cameras.md
 nid: 818

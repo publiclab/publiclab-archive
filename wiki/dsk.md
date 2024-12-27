@@ -1,5 +1,7 @@
 ---
-title: "Desktop Spectrometry Kit"\ntagnames: 'spectrometer, needs-revision, prompt:spectrometry, parent:spectrometer, tripod-table-lamp'
+title: "Desktop Spectrometry Kit"
+
+tagnames: 'spectrometer, needs-revision, prompt:spectrometry, parent:spectrometer, tripod-table-lamp'
 author: warren
 path: /wiki/dsk.md
 nid: 5187

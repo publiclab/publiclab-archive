@@ -1,5 +1,7 @@
 ---
-title: "LEAFFEST Infragram camboard batch tests"\ntagnames: 'near-infrared-camera, ndvi, leaffest, infragram, cameras, photo-monitoring-plugin, infragram-conversion, leaffest2013'
+title: "LEAFFEST Infragram camboard batch tests"
+
+tagnames: 'near-infrared-camera, ndvi, leaffest, infragram, cameras, photo-monitoring-plugin, infragram-conversion, leaffest2013'
 author: warren
 path: /notes/warren/09-13-2013/leaffest-infragram-camboard-batch-tests.md
 nid: 9325
@@ -11,7 +13,7 @@ uid: 1
 
 # LEAFFEST Infragram camboard batch tests
 
-by [warren](../profile/warren) | September 13, 2013 15:52
+by [warren](../../../profile/warren) | September 13, 2013 15:52
 
 September 13, 2013 15:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [cameras](../tag/cameras), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [infragram-conversion](../tag/infragram-conversion), [leaffest2013](../tag/leaffest2013)
 

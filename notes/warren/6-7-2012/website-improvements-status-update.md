@@ -1,5 +1,7 @@
 ---
-title: "Website improvements status update"\ntagnames: 'website'
+title: "Website improvements status update"
+
+tagnames: 'website'
 author: warren
 path: /notes/warren/6-7-2012/website-improvements-status-update.md
 nid: 2393
@@ -11,7 +13,7 @@ uid: 1
 
 # Website improvements status update
 
-by [warren](../profile/warren) | June 07, 2012 19:16
+by [warren](../../../profile/warren) | June 07, 2012 19:16
 
 June 07, 2012 19:16 | Tags: [website](../tag/website)
 

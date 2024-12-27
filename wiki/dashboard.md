@@ -1,5 +1,7 @@
 ---
-title: "Dashboard"\ntagnames: ''
+title: "Dashboard"
+
+tagnames: ''
 author: warren
 path: /wiki/dashboard.md
 nid: 356

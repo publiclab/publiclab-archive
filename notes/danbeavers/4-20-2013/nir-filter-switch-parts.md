@@ -1,5 +1,7 @@
 ---
-title: "NIR Filter Switch Parts"\ntagnames: ''
+title: "NIR Filter Switch Parts"
+
+tagnames: ''
 author: danbeavers
 path: /notes/danbeavers/4-20-2013/nir-filter-switch-parts.md
 nid: 6939
@@ -9,7 +11,7 @@ uid: 51
 
 # NIR Filter Switch Parts
 
-by [danbeavers](../profile/danbeavers) | April 20, 2013 20:43
+by [danbeavers](../../../profile/danbeavers) | April 20, 2013 20:43
 
 April 20, 2013 20:43 | Tags: 
 

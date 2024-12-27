@@ -1,5 +1,7 @@
 ---
-title: "Bot for Publiclab"\ntagnames: 'gsoc, publiclab, irc, node, bot, gitter, soc-2017-proposals, response:13975, 123, gsoc-2017-accepted, first-time-poster'
+title: "Bot for Publiclab"
+
+tagnames: 'gsoc, publiclab, irc, node, bot, gitter, soc-2017-proposals, response:13975, 123, gsoc-2017-accepted, first-time-poster'
 author: ryzokuken
 path: /notes/ryzokuken/02-28-2017/bot-for-publiclab.md
 nid: 13972
@@ -9,7 +11,7 @@ uid: 493113
 
 # Bot for Publiclab
 
-by [ryzokuken](../profile/ryzokuken) | February 28, 2017 19:19
+by [ryzokuken](../../../profile/ryzokuken) | February 28, 2017 19:19
 
 February 28, 2017 19:19 | Tags: [gsoc](../tag/gsoc), [publiclab](../tag/publiclab), [irc](../tag/irc), [node](../tag/node), [bot](../tag/bot), [gitter](../tag/gitter), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975), [123](../tag/123), [gsoc-2017-accepted](../tag/gsoc-2017-accepted), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "Environmental Protection Belongs to the Public: A report for EPA on the role of citizen science"\ntagnames: 'blog, report'
+title: "Environmental Protection Belongs to the Public: A report for EPA on the role of citizen science"
+
+tagnames: 'blog, report'
 author: Shannon
 path: /notes/Shannon/12-13-2016/environmental-protection-belongs-to-the-public-a-report-for-epa-on-the-role-of-citizen-science.md
 nid: 13780
@@ -11,7 +13,7 @@ uid: 9
 
 # Environmental Protection Belongs to the Public: A report for EPA on the role of citizen science
 
-by [Shannon](../profile/Shannon) | December 13, 2016 21:12
+by [Shannon](../../../profile/Shannon) | December 13, 2016 21:12
 
 December 13, 2016 21:12 | Tags: [blog](../tag/blog), [report](../tag/report)
 

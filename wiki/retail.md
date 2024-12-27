@@ -1,5 +1,7 @@
 ---
-title: "Retail "\ntagnames: ''
+title: "Retail "
+
+tagnames: ''
 author: warren
 path: /wiki/retail.md
 nid: 535

@@ -1,5 +1,7 @@
 ---
-title: "NDVI exposure setting"\ntagnames: 'ndvi, calibration, infragram, exposure, time'
+title: "NDVI exposure setting"
+
+tagnames: 'ndvi, calibration, infragram, exposure, time'
 author: gpenzo
 path: /notes/gpenzo/07-13-2014/ndvi-exposure-setting.md
 nid: 10684
@@ -11,7 +13,7 @@ uid: 420719
 
 # NDVI exposure setting
 
-by [gpenzo](../profile/gpenzo) | July 13, 2014 21:04
+by [gpenzo](../../../profile/gpenzo) | July 13, 2014 21:04
 
 July 13, 2014 21:04 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infragram](../tag/infragram), [exposure](../tag/exposure), [time](../tag/time)
 

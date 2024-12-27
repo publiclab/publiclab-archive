@@ -1,5 +1,7 @@
 ---
-title: "Optimal Slit Width"\ntagnames: 'spectrometer, slit, slit-width'
+title: "Optimal Slit Width"
+
+tagnames: 'spectrometer, slit, slit-width'
 author: stoft
 path: /notes/stoft/03-01-2015/optimal-slit-width.md
 nid: 11646
@@ -11,7 +13,7 @@ uid: 54025
 
 # Optimal Slit Width
 
-by [stoft](../profile/stoft) | March 01, 2015 20:39
+by [stoft](../../../profile/stoft) | March 01, 2015 20:39
 
 March 01, 2015 20:39 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [slit-width](../tag/slit-width)
 

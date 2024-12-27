@@ -1,5 +1,7 @@
 ---
-title: "WebGL flavored infragram.org"\ntagnames: 'near-infrared-camera, infragram, infragram-sandbox, webgl, barnstar:basic'
+title: "WebGL flavored infragram.org"
+
+tagnames: 'near-infrared-camera, infragram, infragram-sandbox, webgl, barnstar:basic'
 author: pfoltyn
 path: /notes/pfoltyn/06-10-2014/webgl-flavored-infragram-org.md
 nid: 10549
@@ -11,7 +13,7 @@ uid: 264346
 
 # WebGL flavored infragram.org
 
-by [pfoltyn](../profile/pfoltyn) | June 10, 2014 19:41
+by [pfoltyn](../../../profile/pfoltyn) | June 10, 2014 19:41
 
 June 10, 2014 19:41 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [webgl](../tag/webgl), [barnstar:basic](../tag/barnstar:basic)
 

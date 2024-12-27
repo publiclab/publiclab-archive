@@ -1,5 +1,7 @@
 ---
-title: "Create a welcoming "first-timers-only" issue to invite new software contributors"\ntagnames: 'community, outreach, gsoc, web, wwg, activity:software, first-timers-only, contributors, software-outreach, activity:soc, activity:software-outreach, first-timers-only-blog, series:software-outreach, activity:developers'
+title: "Create a welcoming "first-timers-only" issue to invite new software contributors"
+
+tagnames: 'community, outreach, gsoc, web, wwg, activity:software, first-timers-only, contributors, software-outreach, activity:soc, activity:software-outreach, first-timers-only-blog, series:software-outreach, activity:developers'
 author: warren
 path: /notes/warren/10-31-2016/create-a-welcoming-first-timers-only-issue-to-invite-new-software-contributors.md
 nid: 13667
@@ -11,7 +13,7 @@ uid: 1
 
 # Create a welcoming "first-timers-only" issue to invite new software contributors
 
-by [warren](../profile/warren) | October 31, 2016 03:10
+by [warren](../../../profile/warren) | October 31, 2016 03:10
 
 October 31, 2016 03:10 | Tags: [community](../tag/community), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [web](../tag/web), [wwg](../tag/wwg), [activity:software](../tag/activity:software), [first-timers-only](../tag/first-timers-only), [contributors](../tag/contributors), [software-outreach](../tag/software-outreach), [activity:soc](../tag/activity:soc), [activity:software-outreach](../tag/activity:software-outreach), [first-timers-only-blog](../tag/first-timers-only-blog), [series:software-outreach](../tag/series:software-outreach), [activity:developers](../tag/activity:developers)
 

@@ -1,5 +1,7 @@
 ---
-title: "The Environmental Leadership Program Supports Public Lab Partnership with Innovation Grant"\ntagnames: 'newark, new-jersey, blog'
+title: "The Environmental Leadership Program Supports Public Lab Partnership with Innovation Grant"
+
+tagnames: 'newark, new-jersey, blog'
 author: Shannon
 path: /notes/Shannon/10-23-2013/the-environmental-leadership-program-supports-public-lab-partnership-with-innovation-grant.md
 nid: 9534
@@ -11,7 +13,7 @@ uid: 9
 
 # The Environmental Leadership Program Supports Public Lab Partnership with Innovation Grant
 
-by [Shannon](../profile/Shannon) | October 23, 2013 15:31
+by [Shannon](../../../profile/Shannon) | October 23, 2013 15:31
 
 October 23, 2013 15:31 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [blog](../tag/blog)
 

@@ -1,5 +1,7 @@
 ---
-title: "Automating ImageJ for particle image analysis"\ntagnames: 'image-processing, dust, silica, pm, particle-sensing, image-analysis, microscope, passive-particle-monitors, passive-pm, activity:microscope, microscopes, activity:microscopes, particle-imaging, particle-analysis'
+title: "Automating ImageJ for particle image analysis"
+
+tagnames: 'image-processing, dust, silica, pm, particle-sensing, image-analysis, microscope, passive-particle-monitors, passive-pm, activity:microscope, microscopes, activity:microscopes, particle-imaging, particle-analysis'
 author: SimonPyle
 path: /notes/SimonPyle/05-13-2016/automating-imagej-for-particle-image-analysis.md
 nid: 13116
@@ -11,7 +13,7 @@ uid: 468943
 
 # Automating ImageJ for particle image analysis
 
-by [SimonPyle](../profile/SimonPyle) | May 13, 2016 23:33
+by [SimonPyle](../../../profile/SimonPyle) | May 13, 2016 23:33
 
 May 13, 2016 23:33 | Tags: [image-processing](../tag/image-processing), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [image-analysis](../tag/image-analysis), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [particle-imaging](../tag/particle-imaging), [particle-analysis](../tag/particle-analysis)
 

@@ -1,5 +1,7 @@
 ---
-title: "dashboard-sidebar"\ntagnames: ''
+title: "dashboard-sidebar"
+
+tagnames: ''
 author: warren
 path: /feature/dashboard-sidebar.md
 nid: 17211

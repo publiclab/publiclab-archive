@@ -1,5 +1,7 @@
 ---
-title: "Huentek Infragram Webcam tests"\ntagnames: 'near-infrared-camera, kickstarter, webcam, infragram, infragram-conversion'
+title: "Huentek Infragram Webcam tests"
+
+tagnames: 'near-infrared-camera, kickstarter, webcam, infragram, infragram-conversion'
 author: warren
 path: /notes/warren/08-29-2013/huentek-infragram-webcam-tests.md
 nid: 9074
@@ -11,7 +13,7 @@ uid: 1
 
 # Huentek Infragram Webcam tests
 
-by [warren](../profile/warren) | August 29, 2013 17:53
+by [warren](../../../profile/warren) | August 29, 2013 17:53
 
 August 29, 2013 17:53 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kickstarter](../tag/kickstarter), [webcam](../tag/webcam), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion)
 

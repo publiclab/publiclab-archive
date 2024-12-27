@@ -1,5 +1,7 @@
 ---
-title: "Constructing a Desktop Spectrometer with no Wood, and no Velcro"\ntagnames: 'kits, spectrometry, kit, dsk, builds, desktop, modification, difficulty:easy, upgrade:spectrometry, upgrade:dssk, seeks:builds, category:build, status:in-progress, time:1h'
+title: "Constructing a Desktop Spectrometer with no Wood, and no Velcro"
+
+tagnames: 'kits, spectrometry, kit, dsk, builds, desktop, modification, difficulty:easy, upgrade:spectrometry, upgrade:dssk, seeks:builds, category:build, status:in-progress, time:1h'
 author: abdul
 path: /notes/abdul/08-11-2016/constructing-a-desktop-spectrometer-with-no-wood-and-no-velcro.md
 nid: 13345
@@ -11,7 +13,7 @@ uid: 479194
 
 # Constructing a Desktop Spectrometer with no Wood, and no Velcro
 
-by [abdul](../profile/abdul) | August 11, 2016 00:18
+by [abdul](../../../profile/abdul) | August 11, 2016 00:18
 
 August 11, 2016 00:18 | Tags: [kits](../tag/kits), [spectrometry](../tag/spectrometry), [kit](../tag/kit), [dsk](../tag/dsk), [builds](../tag/builds), [desktop](../tag/desktop), [modification](../tag/modification), [difficulty:easy](../tag/difficulty:easy), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [seeks:builds](../tag/seeks:builds), [category:build](../tag/category:build), [status:in-progress](../tag/status:in-progress), [time:1h](../tag/time:1h)
 

@@ -1,5 +1,7 @@
 ---
-title: "Post-ITP Camp Aerial Mapping @ Fresh Kills, Pre-Aerial Mapping with High School Kids!"\ntagnames: 'new-york-city, balloon-mapping, landfill, waste, trash, fresh-kills, itp, high-school'
+title: "Post-ITP Camp Aerial Mapping @ Fresh Kills, Pre-Aerial Mapping with High School Kids!"
+
+tagnames: 'new-york-city, balloon-mapping, landfill, waste, trash, fresh-kills, itp, high-school'
 author: christinameilene
 path: /notes/christinameilene/07-18-2013/post-itp-camp-aerial-mapping-fresh-kills-pre-aerial-mapping-with-high-school-kids.md
 nid: 8907
@@ -11,7 +13,7 @@ uid: 170195
 
 # Post-ITP Camp Aerial Mapping @ Fresh Kills, Pre-Aerial Mapping with High School Kids!
 
-by [christinameilene](../profile/christinameilene) | July 18, 2013 22:22
+by [christinameilene](../../../profile/christinameilene) | July 18, 2013 22:22
 
 July 18, 2013 22:22 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [trash](../tag/trash), [fresh-kills](../tag/fresh-kills), [itp](../tag/itp), [high-school](../tag/high-school)
 

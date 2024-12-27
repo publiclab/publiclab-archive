@@ -1,5 +1,7 @@
 ---
-title: "Measuring algal photosynthetic activity with Photosynq"\ntagnames: 'photosynthesis, photosynq, algae'
+title: "Measuring algal photosynthetic activity with Photosynq"
+
+tagnames: 'photosynthesis, photosynq, algae'
 author: gbathree
 path: /notes/gbathree/07-11-2013/measuring-algal-photosynthetic-activity-with-photosynq.md
 nid: 8850
@@ -11,7 +13,7 @@ uid: 53164
 
 # Measuring algal photosynthetic activity with Photosynq
 
-by [gbathree](../profile/gbathree) | July 11, 2013 13:00
+by [gbathree](../../../profile/gbathree) | July 11, 2013 13:00
 
 July 11, 2013 13:00 | Tags: [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [algae](../tag/algae)
 

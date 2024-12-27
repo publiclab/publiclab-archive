@@ -1,5 +1,7 @@
 ---
-title: "Calculating Pixel Resolution"\ntagnames: ''
+title: "Calculating Pixel Resolution"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/5-25-2011/calculating-pixel-resolution.md
 nid: 297
@@ -11,7 +13,7 @@ uid: 12
 
 # Calculating Pixel Resolution
 
-by [gonzoearth](../profile/gonzoearth) | May 25, 2011 19:18
+by [gonzoearth](../../../profile/gonzoearth) | May 25, 2011 19:18
 
 May 25, 2011 19:18 | Tags: 
 

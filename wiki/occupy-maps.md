@@ -1,5 +1,7 @@
 ---
-title: "Occupy Maps"\ntagnames: 'protest-mapping, occupy'
+title: "Occupy Maps"
+
+tagnames: 'protest-mapping, occupy'
 author: warren
 path: /wiki/occupy-maps.md
 nid: 577

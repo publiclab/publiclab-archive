@@ -1,5 +1,7 @@
 ---
-title: "Grassroots Mapping in Butte Goes Analog"\ntagnames: 'annotated-maps, idealab, land-use, zoning, centerville, mountain-west, montana, reclamation'
+title: "Grassroots Mapping in Butte Goes Analog"
+
+tagnames: 'annotated-maps, idealab, land-use, zoning, centerville, mountain-west, montana, reclamation'
 author: mathew
 path: /notes/mathew/12-13-2011/grassroots-mapping-butte-goes-analog.md
 nid: 629
@@ -11,7 +13,7 @@ uid: 4
 
 # Grassroots Mapping in Butte Goes Analog
 
-by [mathew](../profile/mathew) | December 13, 2011 05:00
+by [mathew](../../../profile/mathew) | December 13, 2011 05:00
 
 December 13, 2011 05:00 | Tags: [annotated-maps](../tag/annotated-maps), [idealab](../tag/idealab), [land-use](../tag/land-use), [zoning](../tag/zoning), [centerville](../tag/centerville), [mountain-west](../tag/mountain-west), [montana](../tag/montana), [reclamation](../tag/reclamation)
 

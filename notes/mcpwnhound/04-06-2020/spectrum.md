@@ -1,5 +1,7 @@
 ---
-title: "Spectrum "\ntagnames: 'first-time-poster'
+title: "Spectrum "
+
+tagnames: 'first-time-poster'
 author: mcpwnhound
 path: /notes/mcpwnhound/04-06-2020/spectrum.md
 nid: 23314
@@ -11,7 +13,7 @@ uid: 680892
 
 # Spectrum 
 
-by [mcpwnhound](../profile/mcpwnhound) | April 06, 2020 16:26
+by [mcpwnhound](../../../profile/mcpwnhound) | April 06, 2020 16:26
 
 April 06, 2020 16:26 | Tags: [first-time-poster](../tag/first-time-poster)
 

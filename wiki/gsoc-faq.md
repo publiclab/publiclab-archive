@@ -1,5 +1,7 @@
 ---
-title: "GSoC FAQ"\ntagnames: 'gsoc, gsoc-2014'
+title: "GSoC FAQ"
+
+tagnames: 'gsoc, gsoc-2014'
 author: warren
 path: /wiki/gsoc-faq.md
 nid: 10356

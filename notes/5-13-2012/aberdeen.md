@@ -1,5 +1,7 @@
 ---
-title: "aberdeen"\ntagnames: ''
+title: "aberdeen"
+
+tagnames: ''
 author: 
 path: /notes/5-13-2012/aberdeen.md
 nid: 2086
@@ -11,7 +13,7 @@ uid: 0
 
 # aberdeen
 
-by [](../profile/) | May 14, 2012 01:55
+by [](../../../profile/) | May 14, 2012 01:55
 
 May 14, 2012 01:55 | Tags: 
 

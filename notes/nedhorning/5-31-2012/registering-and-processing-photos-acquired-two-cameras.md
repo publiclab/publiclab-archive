@@ -1,5 +1,7 @@
 ---
-title: "Registering and processing photos acquired from two cameras"\ntagnames: 'near-infrared-camera, image-processing, imagej, great-photos, image-registration, first-time-poster'
+title: "Registering and processing photos acquired from two cameras"
+
+tagnames: 'near-infrared-camera, image-processing, imagej, great-photos, image-registration, first-time-poster'
 author: nedhorning
 path: /notes/nedhorning/5-31-2012/registering-and-processing-photos-acquired-two-cameras.md
 nid: 2279
@@ -11,7 +13,7 @@ uid: 133
 
 # Registering and processing photos acquired from two cameras
 
-by [nedhorning](../profile/nedhorning) | May 31, 2012 18:16
+by [nedhorning](../../../profile/nedhorning) | May 31, 2012 18:16
 
 May 31, 2012 18:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [image-processing](../tag/image-processing), [imagej](../tag/imagej), [great-photos](../tag/great-photos), [image-registration](../tag/image-registration), [first-time-poster](../tag/first-time-poster)
 

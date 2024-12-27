@@ -1,5 +1,7 @@
 ---
-title: "KAPvolution"\ntagnames: 'balloon-mapping, vermont, kite-aerial-photography, kite, kap, camera, focus, aerial-mapping, canon, response:11531, eos_m, mirrorless, image-quality'
+title: "KAPvolution"
+
+tagnames: 'balloon-mapping, vermont, kite-aerial-photography, kite, kap, camera, focus, aerial-mapping, canon, response:11531, eos_m, mirrorless, image-quality'
 author: cfastie
 path: /notes/cfastie/02-25-2016/kapvolution.md
 nid: 12752
@@ -11,7 +13,7 @@ uid: 554
 
 # KAPvolution
 
-by [cfastie](../profile/cfastie) | February 25, 2016 00:43
+by [cfastie](../../../profile/cfastie) | February 25, 2016 00:43
 
 February 25, 2016 00:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [kap](../tag/kap), [camera](../tag/camera), [focus](../tag/focus), [aerial-mapping](../tag/aerial-mapping), [canon](../tag/canon), [response:11531](../tag/response:11531), [eos_m](../tag/eos_m), [mirrorless](../tag/mirrorless), [image-quality](../tag/image-quality)
 

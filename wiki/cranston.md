@@ -1,5 +1,7 @@
 ---
-title: "Cranston"\ntagnames: ''
+title: "Cranston"
+
+tagnames: ''
 author: warren
 path: /wiki/cranston.md
 nid: 17754

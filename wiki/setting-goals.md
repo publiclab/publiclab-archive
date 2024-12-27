@@ -1,5 +1,7 @@
 ---
-title: "setting-goals"\ntagnames: 'parent:gardening-toolkit, gardening-toolkit'
+title: "setting-goals"
+
+tagnames: 'parent:gardening-toolkit, gardening-toolkit'
 author: liz
 path: /wiki/setting-goals.md
 nid: 11485

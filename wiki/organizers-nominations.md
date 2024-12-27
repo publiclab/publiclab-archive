@@ -1,5 +1,7 @@
 ---
-title: "Organizers nominations"\ntagnames: 'community, organizers, parent:organizers'
+title: "Organizers nominations"
+
+tagnames: 'community, organizers, parent:organizers'
 author: warren
 path: /wiki/organizers-nominations.md
 nid: 2299

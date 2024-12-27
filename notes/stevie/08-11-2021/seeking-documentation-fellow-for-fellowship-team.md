@@ -1,5 +1,7 @@
 ---
-title: "Seeking Documentation Fellow for Fellowship Team"\ntagnames: 'photography, documentation, west-virginia, mountaintop-removal, mining, coal, jobs, fellows, fellowship, oil-and-gas, fellowships, mmmp'
+title: "Seeking Documentation Fellow for Fellowship Team"
+
+tagnames: 'photography, documentation, west-virginia, mountaintop-removal, mining, coal, jobs, fellows, fellowship, oil-and-gas, fellowships, mmmp'
 author: stevie
 path: /notes/stevie/08-11-2021/seeking-documentation-fellow-for-fellowship-team.md
 nid: 27474
@@ -11,7 +13,7 @@ uid: 422561
 
 # Seeking Documentation Fellow for Fellowship Team
 
-by [stevie](../profile/stevie) | August 11, 2021 21:01
+by [stevie](../../../profile/stevie) | August 11, 2021 21:01
 
 August 11, 2021 21:01 | Tags: [photography](../tag/photography), [documentation](../tag/documentation), [west-virginia](../tag/west-virginia), [mountaintop-removal](../tag/mountaintop-removal), [mining](../tag/mining), [coal](../tag/coal), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [oil-and-gas](../tag/oil-and-gas), [fellowships](../tag/fellowships), [mmmp](../tag/mmmp)
 

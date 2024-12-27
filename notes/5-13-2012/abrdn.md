@@ -1,5 +1,7 @@
 ---
-title: "abrdn"\ntagnames: ''
+title: "abrdn"
+
+tagnames: ''
 author: 
 path: /notes/5-13-2012/abrdn.md
 nid: 2087
@@ -11,7 +13,7 @@ uid: 0
 
 # abrdn
 
-by [](../profile/) | May 13, 2012 16:38
+by [](../../../profile/) | May 13, 2012 16:38
 
 May 13, 2012 16:38 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Frac Sand Frisbee- Maps against Mines"\ntagnames: 'community-mapping, mapping, blog, fracking, silica, frac-sand, powerpoint, parent:frac-sand, story:frac-sand'
+title: "Frac Sand Frisbee- Maps against Mines"
+
+tagnames: 'community-mapping, mapping, blog, fracking, silica, frac-sand, powerpoint, parent:frac-sand, story:frac-sand'
 author: mathew
 path: /notes/mathew/05-20-2014/frac-sand-frisbee-maps-against-mines.md
 nid: 10484
@@ -11,7 +13,7 @@ uid: 4
 
 # Frac Sand Frisbee- Maps against Mines
 
-by [mathew](../profile/mathew) | May 20, 2014 01:30
+by [mathew](../../../profile/mathew) | May 20, 2014 01:30
 
 May 20, 2014 01:30 | Tags: [community-mapping](../tag/community-mapping), [mapping](../tag/mapping), [blog](../tag/blog), [fracking](../tag/fracking), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [powerpoint](../tag/powerpoint), [parent:frac-sand](../tag/parent:frac-sand), [story:frac-sand](../tag/story:frac-sand)
 

@@ -1,5 +1,7 @@
 ---
-title: "tool development community outreach "\ntagnames: 'tool-focused, tool-development'
+title: "tool development community outreach "
+
+tagnames: 'tool-focused, tool-development'
 author: stevie
 path: /wiki/tool-development-community-outreach.md
 nid: 12756

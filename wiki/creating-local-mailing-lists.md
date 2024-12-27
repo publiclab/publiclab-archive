@@ -1,5 +1,7 @@
 ---
-title: "Instructions for creating local mailing lists"\ntagnames: 'mailing-lists'
+title: "Instructions for creating local mailing lists"
+
+tagnames: 'mailing-lists'
 author: Shannon
 path: /wiki/creating-local-mailing-lists.md
 nid: 3095

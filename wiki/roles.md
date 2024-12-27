@@ -1,5 +1,7 @@
 ---
-title: "Roles"\ntagnames: 'organizing, moderation, roles'
+title: "Roles"
+
+tagnames: 'organizing, moderation, roles'
 author: warren
 path: /wiki/roles.md
 nid: 14959

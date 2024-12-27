@@ -1,5 +1,7 @@
 ---
-title: "5th Anniversary call for memories!"\ntagnames: 'community, events, event'
+title: "5th Anniversary call for memories!"
+
+tagnames: 'community, events, event'
 author: liz
 path: /notes/liz/04-06-2015/5th-anniversary-call-for-memories.md
 nid: 11745
@@ -11,7 +13,7 @@ uid: 7
 
 # 5th Anniversary call for memories!
 
-by [liz](../profile/liz) | April 06, 2015 13:01
+by [liz](../../../profile/liz) | April 06, 2015 13:01
 
 April 06, 2015 13:01 | Tags: [community](../tag/community), [events](../tag/events), [event](../tag/event)
 

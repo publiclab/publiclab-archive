@@ -1,5 +1,7 @@
 ---
-title: "Sensor enclosures"\ntagnames: 'sensing, sensors, water-quality, tool, method, enclosures'
+title: "Sensor enclosures"
+
+tagnames: 'sensing, sensors, water-quality, tool, method, enclosures'
 author: warren
 path: /wiki/sensor-enclosures.md
 nid: 14615

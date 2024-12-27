@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of Hood River Punch Bowl Falls"\ntagnames: 'mapknitter, first-time-poster, zoom:16, lat:45.602139, lon:-121.6358304, lon:-121.63583'
+title: "MapKnitter map of Hood River Punch Bowl Falls"
+
+tagnames: 'mapknitter, first-time-poster, zoom:16, lat:45.602139, lon:-121.6358304, lon:-121.63583'
 author: porteric
 path: /notes/porteric/02-27-2020/mapknitter-map-of-hood-river-punch-bowl-falls.md
 nid: 22950
@@ -9,7 +11,7 @@ uid: 668997
 
 # MapKnitter map of Hood River Punch Bowl Falls
 
-by [porteric](../profile/porteric) | February 27, 2020 06:36
+by [porteric](../../../profile/porteric) | February 27, 2020 06:36
 
 February 27, 2020 06:36 | Tags: [mapknitter](../tag/mapknitter), [first-time-poster](../tag/first-time-poster), [zoom:16](../tag/zoom:16), [lat:45.602139](../tag/lat:45.602139), [lon:-121.6358304](../tag/lon:-121.6358304), [lon:-121.63583](../tag/lon:-121.63583)
 

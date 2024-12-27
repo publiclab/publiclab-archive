@@ -1,5 +1,7 @@
 ---
-title: "A balloon mapping event at MPavilion (Melbourne, Australia)"\ntagnames: 'balloon-mapping, australia, event, event:rsvp, assemble-papers, mpavilion, melbourne, replication:14022, oceania'
+title: "A balloon mapping event at MPavilion (Melbourne, Australia)"
+
+tagnames: 'balloon-mapping, australia, event, event:rsvp, assemble-papers, mpavilion, melbourne, replication:14022, oceania'
 author: AssemblePapers
 path: /notes/AssemblePapers/12-06-2016/a-balloon-mapping-event-at-mpavilion-melbourne-australia.md
 nid: 13748
@@ -11,7 +13,7 @@ uid: 497918
 
 # A balloon mapping event at MPavilion (Melbourne, Australia)
 
-by [AssemblePapers](../profile/AssemblePapers) | December 06, 2016 01:50
+by [AssemblePapers](../../../profile/AssemblePapers) | December 06, 2016 01:50
 
 December 06, 2016 01:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [australia](../tag/australia), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [assemble-papers](../tag/assemble-papers), [mpavilion](../tag/mpavilion), [melbourne](../tag/melbourne), [replication:14022](../tag/replication:14022), [oceania](../tag/oceania)
 

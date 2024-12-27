@@ -1,5 +1,7 @@
 ---
-title: "Analyzed Results and Suggested Next Steps for H2S Testing in Aztec, New Mexico"\ntagnames: 'hydrogen-sulfide-sensing, new-mexico, h2s, h2s-photopaper, mountain-west'
+title: "Analyzed Results and Suggested Next Steps for H2S Testing in Aztec, New Mexico"
+
+tagnames: 'hydrogen-sulfide-sensing, new-mexico, h2s, h2s-photopaper, mountain-west'
 author: megan
 path: /notes/megan/8-10-2012/analyzed-results-and-suggested-next-steps-aztec-new-mexico.md
 nid: 3231
@@ -9,7 +11,7 @@ uid: 775
 
 # Analyzed Results and Suggested Next Steps for H2S Testing in Aztec, New Mexico
 
-by [megan](../profile/megan) | August 10, 2012 06:54
+by [megan](../../../profile/megan) | August 10, 2012 06:54
 
 August 10, 2012 06:54 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [new-mexico](../tag/new-mexico), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [mountain-west](../tag/mountain-west)
 

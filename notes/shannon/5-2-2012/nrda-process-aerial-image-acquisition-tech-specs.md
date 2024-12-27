@@ -1,5 +1,7 @@
 ---
-title: "NRDA process aerial image acquisition tech. specs."\ntagnames: 'balloon-mapping, kite-mapping'
+title: "NRDA process aerial image acquisition tech. specs."
+
+tagnames: 'balloon-mapping, kite-mapping'
 author: Shannon
 path: /notes/shannon/5-2-2012/nrda-process-aerial-image-acquisition-tech-specs.md
 nid: 1892
@@ -9,7 +11,7 @@ uid: 9
 
 # NRDA process aerial image acquisition tech. specs.
 
-by [Shannon](../profile/Shannon) | May 02, 2012 20:34
+by [Shannon](../../../profile/Shannon) | May 02, 2012 20:34
 
 May 02, 2012 20:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 

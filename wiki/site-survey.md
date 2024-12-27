@@ -1,5 +1,7 @@
 ---
-title: "Survey your site"\ntagnames: 'research, tool, methods, visual-monitoring, method, site-survey'
+title: "Survey your site"
+
+tagnames: 'research, tool, methods, visual-monitoring, method, site-survey'
 author: stevie
 path: /wiki/site-survey.md
 nid: 14045

@@ -1,5 +1,7 @@
 ---
-title: "What to do-EPA enforcement officers forbidden to use some air & water tests w.o. Washington's approval?"\ntagnames: 'air-quality, water-quality, question:general'
+title: "What to do-EPA enforcement officers forbidden to use some air & water tests w.o. Washington's approval?"
+
+tagnames: 'air-quality, water-quality, question:general'
 author: marlokeno
 path: /notes/marlokeno/12-13-2017/what-to-do-epa-enforcement-officers-forbidden-to-use-some-air-water-tests-w-o-washington-s-approval.md
 nid: 15367
@@ -9,7 +11,7 @@ uid: 420760
 
 # What to do-EPA enforcement officers forbidden to use some air & water tests w.o. Washington's approval?
 
-by [marlokeno](../profile/marlokeno) | December 13, 2017 23:47
+by [marlokeno](../../../profile/marlokeno) | December 13, 2017 23:47
 
 December 13, 2017 23:47 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [question:general](../tag/question:general)
 

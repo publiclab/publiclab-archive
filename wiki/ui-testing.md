@@ -1,5 +1,7 @@
 ---
-title: "UI Testing"\ntagnames: 'style:minimal, ui, sidebar:none, ui-testing, lookback'
+title: "UI Testing"
+
+tagnames: 'style:minimal, ui, sidebar:none, ui-testing, lookback'
 author: warren
 path: /wiki/ui-testing.md
 nid: 18444

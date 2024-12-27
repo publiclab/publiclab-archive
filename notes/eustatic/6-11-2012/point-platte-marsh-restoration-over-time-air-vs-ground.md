@@ -1,5 +1,7 @@
 ---
-title: "Point Platte marsh restoration over time; air vs ground"\ntagnames: 'balloon-mapping'
+title: "Point Platte marsh restoration over time; air vs ground"
+
+tagnames: 'balloon-mapping'
 author: eustatic
 path: /6-11-2012/point-platte-marsh-restoration-over-time-air-vs-ground.md
 nid: 2443
@@ -11,7 +13,7 @@ uid: 379
 
 # Point Platte marsh restoration over time; air vs ground
 
-by [eustatic](../profile/eustatic) | June 12, 2012 03:54
+by [eustatic](../../../profile/eustatic) | June 12, 2012 03:54
 
 June 12, 2012 03:54 | Tags: [balloon-mapping](../tag/balloon-mapping)
 

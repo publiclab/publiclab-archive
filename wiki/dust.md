@@ -1,5 +1,7 @@
 ---
-title: "Dust"\ntagnames: 'pm, redirect:12579'
+title: "Dust"
+
+tagnames: 'pm, redirect:12579'
 author: warren
 path: /wiki/dust.md
 nid: 14009

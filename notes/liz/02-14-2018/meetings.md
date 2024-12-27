@@ -1,5 +1,7 @@
 ---
-title: "Meetings? "\ntagnames: 'community, question:general, opencall, question:community'
+title: "Meetings? "
+
+tagnames: 'community, question:general, opencall, question:community'
 author: liz
 path: /notes/liz/02-14-2018/meetings.md
 nid: 15737
@@ -9,7 +11,7 @@ uid: 7
 
 # Meetings? 
 
-by [liz](../profile/liz) | February 14, 2018 23:10
+by [liz](../../../profile/liz) | February 14, 2018 23:10
 
 February 14, 2018 23:10 | Tags: [community](../tag/community), [question:general](../tag/question:general), [opencall](../tag/opencall), [question:community](../tag/question:community)
 

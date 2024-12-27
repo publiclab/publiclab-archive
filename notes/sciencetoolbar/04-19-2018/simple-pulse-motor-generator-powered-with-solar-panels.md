@@ -1,5 +1,7 @@
 ---
-title: "Simple pulse motor generator, powered with solar panels "\ntagnames: 'classroom, generator, solar, activity:science-fair, science-fair, activity:solar, activity:classroom, activity:generator, motor-generator, pulse-motor, pulse-motor-generator, pmg'
+title: "Simple pulse motor generator, powered with solar panels "
+
+tagnames: 'classroom, generator, solar, activity:science-fair, science-fair, activity:solar, activity:classroom, activity:generator, motor-generator, pulse-motor, pulse-motor-generator, pmg'
 author: sciencetoolbar
 path: /notes/sciencetoolbar/04-19-2018/simple-pulse-motor-generator-powered-with-solar-panels.md
 nid: 16175
@@ -11,7 +13,7 @@ uid: 513114
 
 # Simple pulse motor generator, powered with solar panels 
 
-by [sciencetoolbar](../profile/sciencetoolbar) | April 19, 2018 11:10
+by [sciencetoolbar](../../../profile/sciencetoolbar) | April 19, 2018 11:10
 
 April 19, 2018 11:10 | Tags: [classroom](../tag/classroom), [generator](../tag/generator), [solar](../tag/solar), [activity:science-fair](../tag/activity:science-fair), [science-fair](../tag/science-fair), [activity:solar](../tag/activity:solar), [activity:classroom](../tag/activity:classroom), [activity:generator](../tag/activity:generator), [motor-generator](../tag/motor-generator), [pulse-motor](../tag/pulse-motor), [pulse-motor-generator](../tag/pulse-motor-generator), [pmg](../tag/pmg)
 

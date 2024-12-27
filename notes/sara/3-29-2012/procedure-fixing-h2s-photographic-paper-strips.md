@@ -1,5 +1,7 @@
 ---
-title: "Procedure for Fixing H2S photographic paper strips"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, activity:h2s-photopaper'
+title: "Procedure for Fixing H2S photographic paper strips"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper, activity:h2s-photopaper'
 author: sara
 path: /notes/sara/3-29-2012/procedure-fixing-h2s-photographic-paper-strips.md
 nid: 1581
@@ -11,7 +13,7 @@ uid: 8
 
 # Procedure for Fixing H2S photographic paper strips
 
-by [sara](../profile/sara) | March 29, 2012 17:31
+by [sara](../../../profile/sara) | March 29, 2012 17:31
 
 March 29, 2012 17:31 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper), [activity:h2s-photopaper](../tag/activity:h2s-photopaper)
 

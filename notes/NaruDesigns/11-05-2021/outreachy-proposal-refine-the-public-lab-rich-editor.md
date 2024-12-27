@@ -1,5 +1,7 @@
 ---
-title: "Outreachy Proposal - Refine the Public Lab Rich Editor"\ntagnames: 'lat:0, lon:0, first-time-poster, zoom:0, outreachy-winter-2021'
+title: "Outreachy Proposal - Refine the Public Lab Rich Editor"
+
+tagnames: 'lat:0, lon:0, first-time-poster, zoom:0, outreachy-winter-2021'
 author: NaruDesigns
 path: /notes/NaruDesigns/11-05-2021/outreachy-proposal-refine-the-public-lab-rich-editor.md
 nid: 28109
@@ -11,7 +13,7 @@ uid: 775118
 
 # Outreachy Proposal - Refine the Public Lab Rich Editor
 
-by [NaruDesigns](../profile/NaruDesigns) | November 05, 2021 00:42
+by [NaruDesigns](../../../profile/NaruDesigns) | November 05, 2021 00:42
 
 November 05, 2021 00:42 | Tags: [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [first-time-poster](../tag/first-time-poster), [zoom:0](../tag/zoom:0), [outreachy-winter-2021](../tag/outreachy-winter-2021)
 

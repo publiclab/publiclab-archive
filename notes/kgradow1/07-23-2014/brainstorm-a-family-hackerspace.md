@@ -1,5 +1,7 @@
 ---
-title: "Brainstorm a Family Hackerspace!"\ntagnames: 'somerville-massachusetts, boston, partsandcrafts, event, somerville, events:boston, event:rsvp, date:07-24-2014'
+title: "Brainstorm a Family Hackerspace!"
+
+tagnames: 'somerville-massachusetts, boston, partsandcrafts, event, somerville, events:boston, event:rsvp, date:07-24-2014'
 author: kgradow1
 path: /notes/kgradow1/07-23-2014/brainstorm-a-family-hackerspace.md
 nid: 10951
@@ -11,7 +13,7 @@ uid: 297929
 
 # Brainstorm a Family Hackerspace!
 
-by [kgradow1](../profile/kgradow1) | July 23, 2014 15:14
+by [kgradow1](../../../profile/kgradow1) | July 23, 2014 15:14
 
 July 23, 2014 15:14 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [event](../tag/event), [somerville](../tag/somerville), [events:boston](../tag/events:boston), [event:rsvp](../tag/event:rsvp), [date:07-24-2014](../tag/date:07-24-2014)
 

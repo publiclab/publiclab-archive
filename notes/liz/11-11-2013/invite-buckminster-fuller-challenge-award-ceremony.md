@@ -1,5 +1,7 @@
 ---
-title: "Invite: Buckminster Fuller Challenge Award Ceremony"\ntagnames: 'new-york-city, events, events:new-york-city'
+title: "Invite: Buckminster Fuller Challenge Award Ceremony"
+
+tagnames: 'new-york-city, events, events:new-york-city'
 author: liz
 path: /notes/liz/11-11-2013/invite-buckminster-fuller-challenge-award-ceremony.md
 nid: 9768
@@ -11,7 +13,7 @@ uid: 7
 
 # Invite: Buckminster Fuller Challenge Award Ceremony
 
-by [liz](../profile/liz) | November 11, 2013 18:29
+by [liz](../../../profile/liz) | November 11, 2013 18:29
 
 November 11, 2013 18:29 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [events:new-york-city](../tag/events:new-york-city)
 

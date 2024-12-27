@@ -1,5 +1,7 @@
 ---
-title: "Staff Call 7 11 2011: Partnerships"\ntagnames: 'partnerships'
+title: "Staff Call 7 11 2011: Partnerships"
+
+tagnames: 'partnerships'
 author: warren
 path: /wiki/staff-call-7-11-2011-partnerships.md
 nid: 392

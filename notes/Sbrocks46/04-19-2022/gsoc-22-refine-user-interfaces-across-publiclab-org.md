@@ -1,5 +1,7 @@
 ---
-title: "GSoC 22 - Refine User Interfaces across PublicLab.org"\ntagnames: 'first-time-poster, lat:18.52043, lon:73.856743, zoom:6, gsoc-2022-proposals, question:gsoc-2022-proposals, questions:gsoc-2022-proposals'
+title: "GSoC 22 - Refine User Interfaces across PublicLab.org"
+
+tagnames: 'first-time-poster, lat:18.52043, lon:73.856743, zoom:6, gsoc-2022-proposals, question:gsoc-2022-proposals, questions:gsoc-2022-proposals'
 author: Sbrocks46
 path: /notes/Sbrocks46/04-19-2022/gsoc-22-refine-user-interfaces-across-publiclab-org.md
 nid: 30488
@@ -9,7 +11,7 @@ uid: 795857
 
 # GSoC 22 - Refine User Interfaces across PublicLab.org
 
-by [Sbrocks46](../profile/Sbrocks46) | April 19, 2022 16:17
+by [Sbrocks46](../../../profile/Sbrocks46) | April 19, 2022 16:17
 
 April 19, 2022 16:17 | Tags: [first-time-poster](../tag/first-time-poster), [lat:18.52043](../tag/lat:18.52043), [lon:73.856743](../tag/lon:73.856743), [zoom:6](../tag/zoom:6), [gsoc-2022-proposals](../tag/gsoc-2022-proposals), [question:gsoc-2022-proposals](../tag/question:gsoc-2022-proposals), [questions:gsoc-2022-proposals](../tag/questions:gsoc-2022-proposals)
 

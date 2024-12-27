@@ -1,5 +1,7 @@
 ---
-title: "Somerville, Massachusetts"\ntagnames: 'somerville-massachusetts, boston, events:boston, list:plots-boston, chapter, northeast, parent:northeast, lat:42.38, lon:-71.09, location:blurred, place:somerville'
+title: "Somerville, Massachusetts"
+
+tagnames: 'somerville-massachusetts, boston, events:boston, list:plots-boston, chapter, northeast, parent:northeast, lat:42.38, lon:-71.09, location:blurred, place:somerville'
 author: warren
 path: /wiki/somerville-massachusetts.md
 nid: 178

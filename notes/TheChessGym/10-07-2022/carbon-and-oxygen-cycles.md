@@ -1,5 +1,7 @@
 ---
-title: "Carbon and Oxygen Cycles "\ntagnames: 'first-time-poster, lat:20, lon:70, zoom:5'
+title: "Carbon and Oxygen Cycles "
+
+tagnames: 'first-time-poster, lat:20, lon:70, zoom:5'
 author: TheChessGym
 path: /notes/TheChessGym/10-07-2022/carbon-and-oxygen-cycles.md
 nid: 35034
@@ -11,7 +13,7 @@ uid: 788868
 
 # Carbon and Oxygen Cycles 
 
-by [TheChessGym](../profile/TheChessGym) | October 07, 2022 13:17
+by [TheChessGym](../../../profile/TheChessGym) | October 07, 2022 13:17
 
 October 07, 2022 13:17 | Tags: [first-time-poster](../tag/first-time-poster), [lat:20](../tag/lat:20), [lon:70](../tag/lon:70), [zoom:5](../tag/zoom:5)
 

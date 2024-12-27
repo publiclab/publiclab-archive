@@ -1,5 +1,7 @@
 ---
-title: "Canon SD4000IS as Infragram"\ntagnames: 'near-infrared-camera, infragram, rosco, red-filter'
+title: "Canon SD4000IS as Infragram"
+
+tagnames: 'near-infrared-camera, infragram, rosco, red-filter'
 author: warren
 path: /notes/warren/08-08-2014/canon-sd4000is-as-infragram.md
 nid: 11023
@@ -11,7 +13,7 @@ uid: 1
 
 # Canon SD4000IS as Infragram
 
-by [warren](../profile/warren) | August 08, 2014 18:50
+by [warren](../../../profile/warren) | August 08, 2014 18:50
 
 August 08, 2014 18:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [rosco](../tag/rosco), [red-filter](../tag/red-filter)
 

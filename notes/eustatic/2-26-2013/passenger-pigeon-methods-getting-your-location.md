@@ -1,5 +1,7 @@
 ---
-title: "Passenger Pigeon methods:  getting your location, the hacky way"\ntagnames: 'kite-mapping, passenger-pigeon, united-states, activity:passenger-pigeon'
+title: "Passenger Pigeon methods:  getting your location, the hacky way"
+
+tagnames: 'kite-mapping, passenger-pigeon, united-states, activity:passenger-pigeon'
 author: eustatic
 path: /2-26-2013/passenger-pigeon-methods-getting-your-location.md
 nid: 6130
@@ -11,7 +13,7 @@ uid: 379
 
 # Passenger Pigeon methods:  getting your location, the hacky way
 
-by [eustatic](../profile/eustatic) | February 26, 2013 22:59
+by [eustatic](../../../profile/eustatic) | February 26, 2013 22:59
 
 February 26, 2013 22:59 | Tags: [kite-mapping](../tag/kite-mapping), [passenger-pigeon](../tag/passenger-pigeon), [united-states](../tag/united-states), [activity:passenger-pigeon](../tag/activity:passenger-pigeon)
 

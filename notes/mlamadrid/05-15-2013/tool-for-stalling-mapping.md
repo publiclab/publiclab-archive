@@ -1,5 +1,7 @@
 ---
-title: "Tool for Stalling: Mapping"\ntagnames: 'balloon-mapping, uganda, eviction, tenure, blog, cargo-collective, tenure-mapping, land-use, first-time-poster'
+title: "Tool for Stalling: Mapping"
+
+tagnames: 'balloon-mapping, uganda, eviction, tenure, blog, cargo-collective, tenure-mapping, land-use, first-time-poster'
 author: mlamadrid
 path: /notes/mlamadrid/05-15-2013/tool-for-stalling-mapping.md
 nid: 7593
@@ -11,7 +13,7 @@ uid: 45586
 
 # Tool for Stalling: Mapping
 
-by [mlamadrid](../profile/mlamadrid) | May 15, 2013 23:10
+by [mlamadrid](../../../profile/mlamadrid) | May 15, 2013 23:10
 
 May 15, 2013 23:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [uganda](../tag/uganda), [eviction](../tag/eviction), [tenure](../tag/tenure), [blog](../tag/blog), [cargo-collective](../tag/cargo-collective), [tenure-mapping](../tag/tenure-mapping), [land-use](../tag/land-use), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "How has pH testing evolved over time?"\ntagnames: 'answered, question:ph, questions:ph-testing'
+title: "How has pH testing evolved over time?"
+
+tagnames: 'answered, question:ph, questions:ph-testing'
 author: liz
 path: /notes/liz/09-22-2017/how-has-ph-testing-evolved-over-time.md
 nid: 14940
@@ -11,7 +13,7 @@ uid: 7
 
 # How has pH testing evolved over time?
 
-by [liz](../profile/liz) | September 22, 2017 17:09
+by [liz](../../../profile/liz) | September 22, 2017 17:09
 
 September 22, 2017 17:09 | Tags: [answered](../tag/answered), [question:ph](../tag/question:ph), [questions:ph-testing](../tag/questions:ph-testing)
 

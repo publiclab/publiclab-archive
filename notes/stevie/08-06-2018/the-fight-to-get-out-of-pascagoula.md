@@ -1,5 +1,7 @@
 ---
-title: "The fight to get out of Pascagoula"\ntagnames: 'gulf-coast, mississippi, blog, pollution, pm, industry, odor, odor-log, chemicals, pascagoula, tri, toxics-release-inventory, odor-logging, chevron, mdeq, phosphates'
+title: "The fight to get out of Pascagoula"
+
+tagnames: 'gulf-coast, mississippi, blog, pollution, pm, industry, odor, odor-log, chemicals, pascagoula, tri, toxics-release-inventory, odor-logging, chevron, mdeq, phosphates'
 author: stevie
 path: /notes/stevie/08-06-2018/the-fight-to-get-out-of-pascagoula.md
 nid: 16871
@@ -11,7 +13,7 @@ uid: 422561
 
 # The fight to get out of Pascagoula
 
-by [stevie](../profile/stevie) | August 06, 2018 19:16
+by [stevie](../../../profile/stevie) | August 06, 2018 19:16
 
 August 06, 2018 19:16 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [blog](../tag/blog), [pollution](../tag/pollution), [pm](../tag/pm), [industry](../tag/industry), [odor](../tag/odor), [odor-log](../tag/odor-log), [chemicals](../tag/chemicals), [pascagoula](../tag/pascagoula), [tri](../tag/tri), [toxics-release-inventory](../tag/toxics-release-inventory), [odor-logging](../tag/odor-logging), [chevron](../tag/chevron), [mdeq](../tag/mdeq), [phosphates](../tag/phosphates)
 

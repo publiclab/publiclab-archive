@@ -1,5 +1,7 @@
 ---
-title: "What is kriging? How it works and how can we use it when measuring purple air? "\ntagnames: 'air-quality, air, pm, air-monitoring, question:general, general, particulate-matter, purpleair, purple-air, question:vvamp, kriging, gausse-regression'
+title: "What is kriging? How it works and how can we use it when measuring purple air? "
+
+tagnames: 'air-quality, air, pm, air-monitoring, question:general, general, particulate-matter, purpleair, purple-air, question:vvamp, kriging, gausse-regression'
 author: denissebn_06
 path: /notes/denissebn_06/06-18-2021/what-is-kriging-how-it-works-and-how-can-we-use-it-when-measuring-purple-air.md
 nid: 26852
@@ -9,7 +11,7 @@ uid: 749988
 
 # What is kriging? How it works and how can we use it when measuring purple air? 
 
-by [denissebn_06](../profile/denissebn_06) | June 18, 2021 19:30
+by [denissebn_06](../../../profile/denissebn_06) | June 18, 2021 19:30
 
 June 18, 2021 19:30 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [pm](../tag/pm), [air-monitoring](../tag/air-monitoring), [question:general](../tag/question:general), [general](../tag/general), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [purple-air](../tag/purple-air), [question:vvamp](../tag/question:vvamp), [kriging](../tag/kriging), [gausse-regression](../tag/gausse-regression)
 

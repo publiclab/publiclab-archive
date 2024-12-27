@@ -1,5 +1,7 @@
 ---
-title: "A year of Rackspace"\ntagnames: 'server, rackspace, wwg, hosting'
+title: "A year of Rackspace"
+
+tagnames: 'server, rackspace, wwg, hosting'
 author: warren
 path: /notes/warren/12-17-2015/a-year-of-rackspace.md
 nid: 12529
@@ -11,7 +13,7 @@ uid: 1
 
 # A year of Rackspace
 
-by [warren](../profile/warren) | December 17, 2015 16:16
+by [warren](../../../profile/warren) | December 17, 2015 16:16
 
 December 17, 2015 16:16 | Tags: [server](../tag/server), [rackspace](../tag/rackspace), [wwg](../tag/wwg), [hosting](../tag/hosting)
 

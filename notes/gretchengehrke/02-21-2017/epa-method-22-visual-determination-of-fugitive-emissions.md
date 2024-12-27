@@ -1,5 +1,7 @@
 ---
-title: "EPA Method 22: Visual Determination of Fugitive Emissions"\ntagnames: 'frac-sand, pm, parent:frac-sand, visual-monitoring, activity:observation, activity:monitor, opacity, activity:site-survey, activity:visual-monitoring'
+title: "EPA Method 22: Visual Determination of Fugitive Emissions"
+
+tagnames: 'frac-sand, pm, parent:frac-sand, visual-monitoring, activity:observation, activity:monitor, opacity, activity:site-survey, activity:visual-monitoring'
 author: gretchengehrke
 path: /notes/gretchengehrke/02-21-2017/epa-method-22-visual-determination-of-fugitive-emissions.md
 nid: 13944
@@ -11,7 +13,7 @@ uid: 430549
 
 # EPA Method 22: Visual Determination of Fugitive Emissions
 
-by [gretchengehrke](../profile/gretchengehrke) | February 21, 2017 22:44
+by [gretchengehrke](../../../profile/gretchengehrke) | February 21, 2017 22:44
 
 February 21, 2017 22:44 | Tags: [frac-sand](../tag/frac-sand), [pm](../tag/pm), [parent:frac-sand](../tag/parent:frac-sand), [visual-monitoring](../tag/visual-monitoring), [activity:observation](../tag/activity:observation), [activity:monitor](../tag/activity:monitor), [opacity](../tag/opacity), [activity:site-survey](../tag/activity:site-survey), [activity:visual-monitoring](../tag/activity:visual-monitoring)
 

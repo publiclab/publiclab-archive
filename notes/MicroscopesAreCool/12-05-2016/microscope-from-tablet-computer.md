@@ -1,5 +1,7 @@
 ---
-title: "Microscope from Tablet Computer"\ntagnames: 'dust, smartphone, pm, biology, microscope, microscopy, time:3h, status:complete, tablet, activity:microscopy, microscopes, activity:microscopes, lat:42.38, location:blurred, make-magazine, artisans-asylum, lon:-71.1, place:artisans-asylum'
+title: "Microscope from Tablet Computer"
+
+tagnames: 'dust, smartphone, pm, biology, microscope, microscopy, time:3h, status:complete, tablet, activity:microscopy, microscopes, activity:microscopes, lat:42.38, location:blurred, make-magazine, artisans-asylum, lon:-71.1, place:artisans-asylum'
 author: MicroscopesAreCool
 path: /notes/MicroscopesAreCool/12-05-2016/microscope-from-tablet-computer.md
 nid: 13743
@@ -11,7 +13,7 @@ uid: 471803
 
 # Microscope from Tablet Computer
 
-by [MicroscopesAreCool](../profile/MicroscopesAreCool) | December 05, 2016 00:06
+by [MicroscopesAreCool](../../../profile/MicroscopesAreCool) | December 05, 2016 00:06
 
 December 05, 2016 00:06 | Tags: [dust](../tag/dust), [smartphone](../tag/smartphone), [pm](../tag/pm), [biology](../tag/biology), [microscope](../tag/microscope), [microscopy](../tag/microscopy), [time:3h](../tag/time:3h), [status:complete](../tag/status:complete), [tablet](../tag/tablet), [activity:microscopy](../tag/activity:microscopy), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [lat:42.38](../tag/lat:42.38), [location:blurred](../tag/location:blurred), [make-magazine](../tag/make-magazine), [artisans-asylum](../tag/artisans-asylum), [lon:-71.1](../tag/lon:-71.1), [place:artisans-asylum](../tag/place:artisans-asylum)
 

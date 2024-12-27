@@ -1,5 +1,7 @@
 ---
-title: "The Open Water Project: FAQ"\ntagnames: 'water-quality, riffle, parent:water-quality'
+title: "The Open Water Project: FAQ"
+
+tagnames: 'water-quality, riffle, parent:water-quality'
 author: kanarinka
 path: /wiki/the-open-water-project-faq.md
 nid: 10320

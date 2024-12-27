@@ -1,5 +1,7 @@
 ---
-title: "oauth"\ntagnames: 'social-media, parent:power-tags, oauth, gsoc:2018'
+title: "oauth"
+
+tagnames: 'social-media, parent:power-tags, oauth, gsoc:2018'
 author: bansal_sidharth2996
 path: /wiki/oauth.md
 nid: 16397

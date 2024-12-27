@@ -1,5 +1,7 @@
 ---
-title: "Public Mapping Mission"\ntagnames: 'new-york-city, education, events, event, events:new-york-city, replication:14022'
+title: "Public Mapping Mission"
+
+tagnames: 'new-york-city, education, events, event, events:new-york-city, replication:14022'
 author: nicholas
 path: /notes/nicholas/11-14-2013/public-mapping-mission.md
 nid: 9779
@@ -11,7 +13,7 @@ uid: 53894
 
 # Public Mapping Mission
 
-by [nicholas](../profile/nicholas) | November 14, 2013 20:02
+by [nicholas](../../../profile/nicholas) | November 14, 2013 20:02
 
 November 14, 2013 20:02 | Tags: [new-york-city](../tag/new-york-city), [education](../tag/education), [events](../tag/events), [event](../tag/event), [events:new-york-city](../tag/events:new-york-city), [replication:14022](../tag/replication:14022)
 

@@ -1,5 +1,7 @@
 ---
-title: "JAM!! Jornadas de Autodefensa Medioambiental"\ntagnames: 'lang:es, argentina, spanish, zoom:16, cosquin, glifosato, agrotoxicos, lat:41.408488, lon:2.199325'
+title: "JAM!! Jornadas de Autodefensa Medioambiental"
+
+tagnames: 'lang:es, argentina, spanish, zoom:16, cosquin, glifosato, agrotoxicos, lat:41.408488, lon:2.199325'
 author: imvec
 path: /notes/imvec/03-24-2020/jam-jornadas-de-autodefensa-medioambiental.md
 nid: 23204
@@ -11,7 +13,7 @@ uid: 495038
 
 # JAM!! Jornadas de Autodefensa Medioambiental
 
-by [imvec](../profile/imvec) | March 24, 2020 23:44
+by [imvec](../../../profile/imvec) | March 24, 2020 23:44
 
 March 24, 2020 23:44 | Tags: [lang:es](../tag/lang:es), [argentina](../tag/argentina), [spanish](../tag/spanish), [zoom:16](../tag/zoom:16), [cosquin](../tag/cosquin), [glifosato](../tag/glifosato), [agrotoxicos](../tag/agrotoxicos), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325)
 

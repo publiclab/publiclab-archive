@@ -1,5 +1,7 @@
 ---
-title: "Hurricanes"\ntagnames: 'redirect:13474'
+title: "Hurricanes"
+
+tagnames: 'redirect:13474'
 author: warren
 path: /wiki/hurricanes.md
 nid: 14866

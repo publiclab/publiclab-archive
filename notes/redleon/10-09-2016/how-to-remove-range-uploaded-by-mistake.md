@@ -1,5 +1,7 @@
 ---
-title: "how to delete my spectra on Spectral Workbench"\ntagnames: 'spectrometry, spectral-workbench, question:spectrometry, question:spectral-workbench'
+title: "how to delete my spectra on Spectral Workbench"
+
+tagnames: 'spectrometry, spectral-workbench, question:spectrometry, question:spectral-workbench'
 author: redleon
 path: /notes/redleon/10-09-2016/how-to-remove-range-uploaded-by-mistake.md
 nid: 13540
@@ -9,7 +11,7 @@ uid: 493944
 
 # how to delete my spectra on Spectral Workbench
 
-by [redleon](../profile/redleon) | October 09, 2016 16:32
+by [redleon](../../../profile/redleon) | October 09, 2016 16:32
 
 October 09, 2016 16:32 | Tags: [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench)
 

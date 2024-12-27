@@ -1,5 +1,7 @@
 ---
-title: "White Oak 1/8/22"\ntagnames: 'drones, water-quality, coal, extraction, land-use, mmmp'
+title: "White Oak 1/8/22"
+
+tagnames: 'drones, water-quality, coal, extraction, land-use, mmmp'
 author: junior_walk1337
 path: /notes/junior_walk1337/01-08-2022/white-oak-1-8-22.md
 nid: 28691
@@ -9,7 +11,7 @@ uid: 756318
 
 # White Oak 1/8/22
 
-by [junior_walk1337](../profile/junior_walk1337) | January 08, 2022 20:28
+by [junior_walk1337](../../../profile/junior_walk1337) | January 08, 2022 20:28
 
 January 08, 2022 20:28 | Tags: [drones](../tag/drones), [water-quality](../tag/water-quality), [coal](../tag/coal), [extraction](../tag/extraction), [land-use](../tag/land-use), [mmmp](../tag/mmmp)
 

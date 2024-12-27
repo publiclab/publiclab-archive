@@ -1,5 +1,7 @@
 ---
-title: "Demo of Ned Horning Fiji/Image-J plug-in"\ntagnames: 'plots, barnraising2012, lumcon, cocodrie-la'
+title: "Demo of Ned Horning Fiji/Image-J plug-in"
+
+tagnames: 'plots, barnraising2012, lumcon, cocodrie-la'
 author: patcoyle
 path: /notes/patcoyle/11-12-2012/demo-ned-horning-fijiimage-j-plug.md
 nid: 4868
@@ -11,7 +13,7 @@ uid: 77
 
 # Demo of Ned Horning Fiji/Image-J plug-in
 
-by [patcoyle](../profile/patcoyle) | November 12, 2012 16:36
+by [patcoyle](../../../profile/patcoyle) | November 12, 2012 16:36
 
 November 12, 2012 16:36 | Tags: [plots](../tag/plots), [barnraising2012](../tag/barnraising2012), [lumcon](../tag/lumcon), [cocodrie-la](../tag/cocodrie-la)
 

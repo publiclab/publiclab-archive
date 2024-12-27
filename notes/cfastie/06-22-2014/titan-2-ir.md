@@ -1,5 +1,7 @@
 ---
-title: "Titan 2 IR"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, infragram, 3d-printing, gigapan, makerbot, northeast, response:10523, titan, ndvi-ag, category:field-test'
+title: "Titan 2 IR"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, vermont, infrared, kap, infragram, 3d-printing, gigapan, makerbot, northeast, response:10523, titan, ndvi-ag, category:field-test'
 author: cfastie
 path: /notes/cfastie/06-22-2014/titan-2-ir.md
 nid: 10602
@@ -11,7 +13,7 @@ uid: 554
 
 # Titan 2 IR
 
-by [cfastie](../profile/cfastie) | June 22, 2014 18:19
+by [cfastie](../../../profile/cfastie) | June 22, 2014 18:19
 
 June 22, 2014 18:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [kap](../tag/kap), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [gigapan](../tag/gigapan), [makerbot](../tag/makerbot), [northeast](../tag/northeast), [response:10523](../tag/response:10523), [titan](../tag/titan), [ndvi-ag](../tag/ndvi-ag), [category:field-test](../tag/category:field-test)
 

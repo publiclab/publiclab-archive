@@ -1,5 +1,7 @@
 ---
-title: "Use of velcro ties in Balloon mapping"\ntagnames: 'gulf-coast, balloon-mapping, balloon-mapping-kit, kit, balloon, washustlouis, washu-stlouis, response:11137'
+title: "Use of velcro ties in Balloon mapping"
+
+tagnames: 'gulf-coast, balloon-mapping, balloon-mapping-kit, kit, balloon, washustlouis, washu-stlouis, response:11137'
 author: eustatic
 path: /09-16-2014/use-of-velcro-ties-in-balloon-mapping.md
 nid: 11143
@@ -11,7 +13,7 @@ uid: 379
 
 # Use of velcro ties in Balloon mapping
 
-by [eustatic](../profile/eustatic) | September 16, 2014 05:35
+by [eustatic](../../../profile/eustatic) | September 16, 2014 05:35
 
 September 16, 2014 05:35 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [balloon-mapping-kit](../tag/balloon-mapping-kit), [kit](../tag/kit), [balloon](../tag/balloon), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [response:11137](../tag/response:11137)
 

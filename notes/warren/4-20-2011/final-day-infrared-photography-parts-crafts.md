@@ -1,5 +1,7 @@
 ---
-title: "Final day of infrared photography at Parts & Crafts"\ntagnames: 'near-infrared-camera, nrg, ndvi, partsandcrafts, parts-and-crafts, keychain-cameras, pole-photography'
+title: "Final day of infrared photography at Parts & Crafts"
+
+tagnames: 'near-infrared-camera, nrg, ndvi, partsandcrafts, parts-and-crafts, keychain-cameras, pole-photography'
 author: warren
 path: /notes/warren/4-20-2011/final-day-infrared-photography-parts-crafts.md
 nid: 186
@@ -11,7 +13,7 @@ uid: 1
 
 # Final day of infrared photography at Parts & Crafts
 
-by [warren](../profile/warren) | April 20, 2011 21:52
+by [warren](../../../profile/warren) | April 20, 2011 21:52
 
 April 20, 2011 21:52 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [partsandcrafts](../tag/partsandcrafts), [parts-and-crafts](../tag/parts-and-crafts), [keychain-cameras](../tag/keychain-cameras), [pole-photography](../tag/pole-photography)
 

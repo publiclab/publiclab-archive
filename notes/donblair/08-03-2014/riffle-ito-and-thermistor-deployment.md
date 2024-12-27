@@ -1,5 +1,7 @@
 ---
-title: "RIffle-ito and Thermistor Deployment"\ntagnames: 'temperature, riffle'
+title: "RIffle-ito and Thermistor Deployment"
+
+tagnames: 'temperature, riffle'
 author: donblair
 path: /notes/donblair/08-03-2014/riffle-ito-and-thermistor-deployment.md
 nid: 11009
@@ -11,7 +13,7 @@ uid: 43651
 
 # RIffle-ito and Thermistor Deployment
 
-by [donblair](../profile/donblair) | August 03, 2014 16:18
+by [donblair](../../../profile/donblair) | August 03, 2014 16:18
 
 August 03, 2014 16:18 | Tags: [temperature](../tag/temperature), [riffle](../tag/riffle)
 

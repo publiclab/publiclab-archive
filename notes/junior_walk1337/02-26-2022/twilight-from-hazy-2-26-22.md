@@ -1,5 +1,7 @@
 ---
-title: "Twilight from Hazy 2/26/22"\ntagnames: 'drones, coal-mining, coal, mmmp'
+title: "Twilight from Hazy 2/26/22"
+
+tagnames: 'drones, coal-mining, coal, mmmp'
 author: junior_walk1337
 path: /notes/junior_walk1337/02-26-2022/twilight-from-hazy-2-26-22.md
 nid: 30085
@@ -11,7 +13,7 @@ uid: 756318
 
 # Twilight from Hazy 2/26/22
 
-by [junior_walk1337](../profile/junior_walk1337) | February 26, 2022 23:31
+by [junior_walk1337](../../../profile/junior_walk1337) | February 26, 2022 23:31
 
 February 26, 2022 23:31 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [coal](../tag/coal), [mmmp](../tag/mmmp)
 

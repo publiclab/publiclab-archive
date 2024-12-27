@@ -1,5 +1,7 @@
 ---
-title: "Los Angeles Bioblitz Weekend"\ntagnames: 'biodiversity, location:blurred, place:united-states, lat:36, zoom:6, lon:-121, research-curation-fellows, bioindicators, bioblitz'
+title: "Los Angeles Bioblitz Weekend"
+
+tagnames: 'biodiversity, location:blurred, place:united-states, lat:36, zoom:6, lon:-121, research-curation-fellows, bioindicators, bioblitz'
 author: fongvania
 path: /notes/fongvania/08-24-2022/los-angeles-bioblitz-weekend.md
 nid: 34853
@@ -11,7 +13,7 @@ uid: 754846
 
 # Los Angeles Bioblitz Weekend
 
-by [fongvania](../profile/fongvania) | August 24, 2022 06:22
+by [fongvania](../../../profile/fongvania) | August 24, 2022 06:22
 
 August 24, 2022 06:22 | Tags: [biodiversity](../tag/biodiversity), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:36](../tag/lat:36), [zoom:6](../tag/zoom:6), [lon:-121](../tag/lon:-121), [research-curation-fellows](../tag/research-curation-fellows), [bioindicators](../tag/bioindicators), [bioblitz](../tag/bioblitz)
 

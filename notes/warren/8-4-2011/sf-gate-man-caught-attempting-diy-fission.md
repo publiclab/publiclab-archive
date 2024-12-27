@@ -1,5 +1,7 @@
 ---
-title: "SF Gate: Man caught attempting DIY fission"\ntagnames: ''
+title: "SF Gate: Man caught attempting DIY fission"
+
+tagnames: ''
 author: warren
 path: /notes/warren/8-4-2011/sf-gate-man-caught-attempting-diy-fission.md
 nid: 426
@@ -9,7 +11,7 @@ uid: 1
 
 # SF Gate: Man caught attempting DIY fission
 
-by [warren](../profile/warren) | August 04, 2011 18:22
+by [warren](../../../profile/warren) | August 04, 2011 18:22
 
 August 04, 2011 18:22 | Tags: 
 

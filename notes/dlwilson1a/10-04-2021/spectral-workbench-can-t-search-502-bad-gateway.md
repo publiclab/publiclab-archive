@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench: Can't search (502 Bad Gateway)"\ntagnames: 'website, question:website, first-time-poster'
+title: "Spectral Workbench: Can't search (502 Bad Gateway)"
+
+tagnames: 'website, question:website, first-time-poster'
 author: dlwilson1a
 path: /notes/dlwilson1a/10-04-2021/spectral-workbench-can-t-search-502-bad-gateway.md
 nid: 27827
@@ -9,7 +11,7 @@ uid: 774267
 
 # Spectral Workbench: Can't search (502 Bad Gateway)
 
-by [dlwilson1a](../profile/dlwilson1a) | October 04, 2021 19:13
+by [dlwilson1a](../../../profile/dlwilson1a) | October 04, 2021 19:13
 
 October 04, 2021 19:13 | Tags: [website](../tag/website), [question:website](../tag/question:website), [first-time-poster](../tag/first-time-poster)
 

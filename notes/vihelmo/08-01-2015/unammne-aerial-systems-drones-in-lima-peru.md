@@ -1,5 +1,7 @@
 ---
-title: "VIHELMO VELAPATINO. - Unmanned Aerial Systems - Drones in LIMA PERU"\ntagnames: 'lima, peru, drones, camera, thermal, multicopters, quadcopters, unmanned, aircraft, systems, south-america'
+title: "VIHELMO VELAPATINO. - Unmanned Aerial Systems - Drones in LIMA PERU"
+
+tagnames: 'lima, peru, drones, camera, thermal, multicopters, quadcopters, unmanned, aircraft, systems, south-america'
 author: vihelmo
 path: /notes/vihelmo/08-01-2015/unammne-aerial-systems-drones-in-lima-peru.md
 nid: 12113
@@ -11,7 +13,7 @@ uid: 446492
 
 # VIHELMO VELAPATINO. - Unmanned Aerial Systems - Drones in LIMA PERU
 
-by [vihelmo](../profile/vihelmo) | August 01, 2015 19:28
+by [vihelmo](../../../profile/vihelmo) | August 01, 2015 19:28
 
 August 01, 2015 19:28 | Tags: [lima](../tag/lima), [peru](../tag/peru), [drones](../tag/drones), [camera](../tag/camera), [thermal](../tag/thermal), [multicopters](../tag/multicopters), [quadcopters](../tag/quadcopters), [unmanned](../tag/unmanned), [aircraft](../tag/aircraft), [systems](../tag/systems), [south-america](../tag/south-america)
 

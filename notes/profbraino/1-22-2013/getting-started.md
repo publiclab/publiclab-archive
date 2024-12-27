@@ -1,5 +1,7 @@
 ---
-title: "getting started"\ntagnames: 'first-time-poster'
+title: "getting started"
+
+tagnames: 'first-time-poster'
 author: prof_braino
 path: /notes/profbraino/1-22-2013/getting-started.md
 nid: 5673
@@ -9,7 +11,7 @@ uid: 48546
 
 # getting started
 
-by [prof_braino](../profile/prof_braino) | January 22, 2013 16:26
+by [prof_braino](../../../profile/prof_braino) | January 22, 2013 16:26
 
 January 22, 2013 16:26 | Tags: [first-time-poster](../tag/first-time-poster)
 

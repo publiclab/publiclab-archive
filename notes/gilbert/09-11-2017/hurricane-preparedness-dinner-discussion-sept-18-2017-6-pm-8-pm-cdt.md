@@ -1,5 +1,7 @@
 ---
-title: "Hurricane Preparedness Dinner/Discussion - SEPT. 18, 2017 6 PM -8 PM  "\ntagnames: 'publiclab, with:stevie, disaster-resilience, hurricane-preparedness, water_works'
+title: "Hurricane Preparedness Dinner/Discussion - SEPT. 18, 2017 6 PM -8 PM  "
+
+tagnames: 'publiclab, with:stevie, disaster-resilience, hurricane-preparedness, water_works'
 author: gilbert
 path: /notes/gilbert/09-11-2017/hurricane-preparedness-dinner-discussion-sept-18-2017-6-pm-8-pm-cdt.md
 nid: 14877
@@ -11,7 +13,7 @@ uid: 508551
 
 # Hurricane Preparedness Dinner/Discussion - SEPT. 18, 2017 6 PM -8 PM  
 
-by [gilbert](../profile/gilbert) | September 11, 2017 20:46
+by [gilbert](../../../profile/gilbert) | September 11, 2017 20:46
 
 September 11, 2017 20:46 | Tags: [publiclab](../tag/publiclab), [with:stevie](../tag/with:stevie), [disaster-resilience](../tag/disaster-resilience), [hurricane-preparedness](../tag/hurricane-preparedness), [water_works](../tag/water_works)
 

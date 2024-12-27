@@ -1,5 +1,7 @@
 ---
-title: "Centerville, Butte, MT"\ntagnames: ''
+title: "Centerville, Butte, MT"
+
+tagnames: ''
 author: Shannon
 path: /wiki/centerville-butte-mt.md
 nid: 656

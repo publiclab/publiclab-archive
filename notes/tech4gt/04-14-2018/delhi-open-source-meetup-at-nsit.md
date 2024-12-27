@@ -1,5 +1,7 @@
 ---
-title: "Delhi Open source meetup at NSIT"\ntagnames: 'event, india, barnstar:basic, software-outreach, coding-events, new-delhi, with:gabru-md'
+title: "Delhi Open source meetup at NSIT"
+
+tagnames: 'event, india, barnstar:basic, software-outreach, coding-events, new-delhi, with:gabru-md'
 author: tech4gt
 path: /notes/tech4gt/04-14-2018/delhi-open-source-meetup-at-nsit.md
 nid: 16152
@@ -11,7 +13,7 @@ uid: 523178
 
 # Delhi Open source meetup at NSIT
 
-by [tech4gt](../profile/tech4gt) | April 14, 2018 05:21
+by [tech4gt](../../../profile/tech4gt) | April 14, 2018 05:21
 
 April 14, 2018 05:21 | Tags: [event](../tag/event), [india](../tag/india), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [coding-events](../tag/coding-events), [new-delhi](../tag/new-delhi), [with:gabru-md](../tag/with:gabru-md)
 

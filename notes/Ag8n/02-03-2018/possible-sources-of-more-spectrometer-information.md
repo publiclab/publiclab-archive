@@ -1,5 +1,7 @@
 ---
-title: "Possible sources of more spectrometer information"\ntagnames: 'spectrometry, question:spectrometry, request:activity'
+title: "Possible sources of more spectrometer information"
+
+tagnames: 'spectrometry, question:spectrometry, request:activity'
 author: Ag8n
 path: /notes/Ag8n/02-03-2018/possible-sources-of-more-spectrometer-information.md
 nid: 15670
@@ -9,7 +11,7 @@ uid: 520994
 
 # Possible sources of more spectrometer information
 
-by [Ag8n](../profile/Ag8n) | February 03, 2018 00:15
+by [Ag8n](../../../profile/Ag8n) | February 03, 2018 00:15
 
 February 03, 2018 00:15 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [request:activity](../tag/request:activity)
 

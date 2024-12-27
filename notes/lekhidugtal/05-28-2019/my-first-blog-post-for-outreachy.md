@@ -1,5 +1,7 @@
 ---
-title: "My first blog post for outreachy"\ntagnames: 'blog, soc, summer-of-code, outreachy'
+title: "My first blog post for outreachy"
+
+tagnames: 'blog, soc, summer-of-code, outreachy'
 author: lekhidugtal
 path: /notes/lekhidugtal/05-28-2019/my-first-blog-post-for-outreachy.md
 nid: 19557
@@ -11,7 +13,7 @@ uid: 577754
 
 # My first blog post for outreachy
 
-by [lekhidugtal](../profile/lekhidugtal) | May 28, 2019 16:06
+by [lekhidugtal](../../../profile/lekhidugtal) | May 28, 2019 16:06
 
 May 28, 2019 16:06 | Tags: [blog](../tag/blog), [soc](../tag/soc), [summer-of-code](../tag/summer-of-code), [outreachy](../tag/outreachy)
 

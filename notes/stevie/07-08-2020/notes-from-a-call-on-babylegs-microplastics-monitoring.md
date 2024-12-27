@@ -1,5 +1,7 @@
 ---
-title: "Notes from a call on Babylegs (microplastics monitoring)"\ntagnames: 'water-quality, microplastics, babylegs'
+title: "Notes from a call on Babylegs (microplastics monitoring)"
+
+tagnames: 'water-quality, microplastics, babylegs'
 author: stevie
 path: /notes/stevie/07-08-2020/notes-from-a-call-on-babylegs-microplastics-monitoring.md
 nid: 24117
@@ -11,7 +13,7 @@ uid: 422561
 
 # Notes from a call on Babylegs (microplastics monitoring)
 
-by [stevie](../profile/stevie) | July 08, 2020 20:21
+by [stevie](../../../profile/stevie) | July 08, 2020 20:21
 
 July 08, 2020 20:21 | Tags: [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs)
 

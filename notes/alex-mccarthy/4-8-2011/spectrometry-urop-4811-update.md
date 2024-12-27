@@ -1,5 +1,7 @@
 ---
-title: "Spectrometry UROP 4/8/11 update"\ntagnames: 'spectrometer, uv, fluorescence, pah'
+title: "Spectrometry UROP 4/8/11 update"
+
+tagnames: 'spectrometer, uv, fluorescence, pah'
 author: Alex-McCarthy
 path: /notes/alex-mccarthy/4-8-2011/spectrometry-urop-4811-update.md
 nid: 169
@@ -11,7 +13,7 @@ uid: 125
 
 # Spectrometry UROP 4/8/11 update
 
-by [Alex-McCarthy](../profile/Alex-McCarthy) | April 09, 2011 00:42
+by [Alex-McCarthy](../../../profile/Alex-McCarthy) | April 09, 2011 00:42
 
 April 09, 2011 00:42 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [pah](../tag/pah)
 

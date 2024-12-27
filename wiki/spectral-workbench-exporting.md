@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench exporting"\ntagnames: 'spectrometer, spectralworkbench'
+title: "Spectral Workbench exporting"
+
+tagnames: 'spectrometer, spectralworkbench'
 author: warren
 path: /wiki/spectral-workbench-exporting.md
 nid: 4213

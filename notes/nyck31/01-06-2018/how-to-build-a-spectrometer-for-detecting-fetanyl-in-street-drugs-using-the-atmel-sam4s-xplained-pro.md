@@ -1,5 +1,7 @@
 ---
-title: "How to build a spectrometer for detecting fetanyl in street drugs using the Atmel SAM4S Xplained Pro"\ntagnames: 'spectrometer, chemical, answered, street, question:question, composition, drugs'
+title: "How to build a spectrometer for detecting fetanyl in street drugs using the Atmel SAM4S Xplained Pro"
+
+tagnames: 'spectrometer, chemical, answered, street, question:question, composition, drugs'
 author: nyck31
 path: /notes/nyck31/01-06-2018/how-to-build-a-spectrometer-for-detecting-fetanyl-in-street-drugs-using-the-atmel-sam4s-xplained-pro.md
 nid: 15464
@@ -9,7 +11,7 @@ uid: 521909
 
 # How to build a spectrometer for detecting fetanyl in street drugs using the Atmel SAM4S Xplained Pro
 
-by [nyck31](../profile/nyck31) | January 06, 2018 00:18
+by [nyck31](../../../profile/nyck31) | January 06, 2018 00:18
 
 January 06, 2018 00:18 | Tags: [spectrometer](../tag/spectrometer), [chemical](../tag/chemical), [answered](../tag/answered), [street](../tag/street), [question:question](../tag/question:question), [composition](../tag/composition), [drugs](../tag/drugs)
 

@@ -1,5 +1,7 @@
 ---
-title: "AFLOSS collection of tutorials"\ntagnames: 'software, tools, afloss, bookmarks'
+title: "AFLOSS collection of tutorials"
+
+tagnames: 'software, tools, afloss, bookmarks'
 author: xose
 path: /notes/xose/12-06-2016/afloss-collection-of-tutorials.md
 nid: 13749
@@ -11,7 +13,7 @@ uid: 497123
 
 # AFLOSS collection of tutorials
 
-by [xose](../profile/xose) | December 06, 2016 11:52
+by [xose](../../../profile/xose) | December 06, 2016 11:52
 
 December 06, 2016 11:52 | Tags: [software](../tag/software), [tools](../tag/tools), [afloss](../tag/afloss), [bookmarks](../tag/bookmarks)
 

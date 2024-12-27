@@ -1,5 +1,7 @@
 ---
-title: "Timelapse apps"\ntagnames: 'balloon-mapping, kite-mapping, timelapse, apps, parent:balloon-mapping'
+title: "Timelapse apps"
+
+tagnames: 'balloon-mapping, kite-mapping, timelapse, apps, parent:balloon-mapping'
 author: warren
 path: /wiki/timelapse-apps.md
 nid: 643

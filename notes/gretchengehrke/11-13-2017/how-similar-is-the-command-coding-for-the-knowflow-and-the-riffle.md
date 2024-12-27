@@ -1,5 +1,7 @@
 ---
-title: "How similar is the code for the KnowFlow and the RIFFLE data loggers?"\ntagnames: 'riffle, question:riffle, data-logging, question:data-logging, knowflow, question:knowflow'
+title: "How similar is the code for the KnowFlow and the RIFFLE data loggers?"
+
+tagnames: 'riffle, question:riffle, data-logging, question:data-logging, knowflow, question:knowflow'
 author: gretchengehrke
 path: /notes/gretchengehrke/11-13-2017/how-similar-is-the-command-coding-for-the-knowflow-and-the-riffle.md
 nid: 15178
@@ -9,7 +11,7 @@ uid: 430549
 
 # How similar is the code for the KnowFlow and the RIFFLE data loggers?
 
-by [gretchengehrke](../profile/gretchengehrke) | November 13, 2017 17:24
+by [gretchengehrke](../../../profile/gretchengehrke) | November 13, 2017 17:24
 
 November 13, 2017 17:24 | Tags: [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [data-logging](../tag/data-logging), [question:data-logging](../tag/question:data-logging), [knowflow](../tag/knowflow), [question:knowflow](../tag/question:knowflow)
 

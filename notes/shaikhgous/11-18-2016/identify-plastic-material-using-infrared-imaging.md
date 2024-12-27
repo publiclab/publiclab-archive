@@ -1,5 +1,7 @@
 ---
-title: "Identify Plastic Material Using Infrared Imaging"\ntagnames: 'infrared, spectrometry, question:spectrometry, question:infrared, question:multispectral-imaging, response:13679, recycling, question:plastic, polymer'
+title: "Identify Plastic Material Using Infrared Imaging"
+
+tagnames: 'infrared, spectrometry, question:spectrometry, question:infrared, question:multispectral-imaging, response:13679, recycling, question:plastic, polymer'
 author: shaikhgous
 path: /notes/shaikhgous/11-18-2016/identify-plastic-material-using-infrared-imaging.md
 nid: 13711
@@ -9,7 +11,7 @@ uid: 497478
 
 # Identify Plastic Material Using Infrared Imaging
 
-by [shaikhgous](../profile/shaikhgous) | November 18, 2016 11:49
+by [shaikhgous](../../../profile/shaikhgous) | November 18, 2016 11:49
 
 November 18, 2016 11:49 | Tags: [infrared](../tag/infrared), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [response:13679](../tag/response:13679), [recycling](../tag/recycling), [question:plastic](../tag/question:plastic), [polymer](../tag/polymer)
 

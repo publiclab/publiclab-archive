@@ -1,5 +1,7 @@
 ---
-title: "Emerson College JR-368 Water Sample Data Results"\ntagnames: 'water-quality, coqui'
+title: "Emerson College JR-368 Water Sample Data Results"
+
+tagnames: 'water-quality, coqui'
 author: abcieslik
 path: /notes/abcieslik/10-01-2014/emerson-college-jr-368-water-sample-data-results.md
 nid: 11227
@@ -11,7 +13,7 @@ uid: 428083
 
 # Emerson College JR-368 Water Sample Data Results
 
-by [abcieslik](../profile/abcieslik) | October 01, 2014 20:10
+by [abcieslik](../../../profile/abcieslik) | October 01, 2014 20:10
 
 October 01, 2014 20:10 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui)
 

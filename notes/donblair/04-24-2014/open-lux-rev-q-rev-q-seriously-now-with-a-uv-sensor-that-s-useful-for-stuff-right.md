@@ -1,5 +1,7 @@
 ---
-title: "Open-Lux:: REV-Q! (REV Q. Seriously?) Now with a UV sensor. That's useful for stuff, right?"\ntagnames: 'thermal-flashlight, openlux'
+title: "Open-Lux:: REV-Q! (REV Q. Seriously?) Now with a UV sensor. That's useful for stuff, right?"
+
+tagnames: 'thermal-flashlight, openlux'
 author: donblair
 path: /notes/donblair/04-24-2014/open-lux-rev-q-rev-q-seriously-now-with-a-uv-sensor-that-s-useful-for-stuff-right.md
 nid: 10352
@@ -11,7 +13,7 @@ uid: 43651
 
 # Open-Lux:: REV-Q! (REV Q. Seriously?) Now with a UV sensor. That's useful for stuff, right?
 
-by [donblair](../profile/donblair) | April 24, 2014 04:31
+by [donblair](../../../profile/donblair) | April 24, 2014 04:31
 
 April 24, 2014 04:31 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [openlux](../tag/openlux)
 

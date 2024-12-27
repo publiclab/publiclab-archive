@@ -1,5 +1,7 @@
 ---
-title: "¿Aguas cloacales en la cuenca del río Suquía? "\ntagnames: 'sewage, water-quality, water, lang:es, wastewater, south-america, lat:0, lon:0, issue-brief, zoom:0, agua, research-curation-fellows, vigilantes-del-agua, response:27765, aguas-cloacales'
+title: "¿Aguas cloacales en la cuenca del río Suquía? "
+
+tagnames: 'sewage, water-quality, water, lang:es, wastewater, south-america, lat:0, lon:0, issue-brief, zoom:0, agua, research-curation-fellows, vigilantes-del-agua, response:27765, aguas-cloacales'
 author: alejobonifacio
 path: /notes/alejobonifacio/11-19-2021/aguas-cloacales-en-la-cuenca-del-rio-suquia.md
 nid: 28163
@@ -11,7 +13,7 @@ uid: 639376
 
 # ¿Aguas cloacales en la cuenca del río Suquía? 
 
-by [alejobonifacio](../profile/alejobonifacio) | November 19, 2021 18:18
+by [alejobonifacio](../../../profile/alejobonifacio) | November 19, 2021 18:18
 
 November 19, 2021 18:18 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [water](../tag/water), [lang:es](../tag/lang:es), [wastewater](../tag/wastewater), [south-america](../tag/south-america), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [issue-brief](../tag/issue-brief), [zoom:0](../tag/zoom:0), [agua](../tag/agua), [research-curation-fellows](../tag/research-curation-fellows), [vigilantes-del-agua](../tag/vigilantes-del-agua), [response:27765](../tag/response:27765), [aguas-cloacales](../tag/aguas-cloacales)
 

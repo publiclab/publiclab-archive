@@ -1,5 +1,7 @@
 ---
-title: "Mobius MicroCam"\ntagnames: 'mobius, microscope, microscopes'
+title: "Mobius MicroCam"
+
+tagnames: 'mobius, microscope, microscopes'
 author: tonyc
 path: /notes/tonyc/03-17-2016/mobius-microcam.md
 nid: 12856
@@ -11,7 +13,7 @@ uid: 447491
 
 # Mobius MicroCam
 
-by [tonyc](../profile/tonyc) | March 17, 2016 19:55
+by [tonyc](../../../profile/tonyc) | March 17, 2016 19:55
 
 March 17, 2016 19:55 | Tags: [mobius](../tag/mobius), [microscope](../tag/microscope), [microscopes](../tag/microscopes)
 

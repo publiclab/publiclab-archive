@@ -1,5 +1,7 @@
 ---
-title: "Creating Multispectral Imagery for California Beaches"\ntagnames: 'balloon-mapping, nir, infrared, california, gdal, false-color, gis, activity:multispectral-imaging, activity:infragram, multispectral-imaging, beach, beach-mapping, santa-barbara, hot-air-balloon-mapping, first-time-poster'
+title: "Creating Multispectral Imagery for California Beaches"
+
+tagnames: 'balloon-mapping, nir, infrared, california, gdal, false-color, gis, activity:multispectral-imaging, activity:infragram, multispectral-imaging, beach, beach-mapping, santa-barbara, hot-air-balloon-mapping, first-time-poster'
 author: MicheleTobias
 path: /notes/micheletobias/5-23-2011/creating-multispectral-imagery-california-beaches.md
 nid: 268
@@ -11,7 +13,7 @@ uid: 149
 
 # Creating Multispectral Imagery for California Beaches
 
-by [MicheleTobias](../profile/MicheleTobias) | May 24, 2011 00:51
+by [MicheleTobias](../../../profile/MicheleTobias) | May 24, 2011 00:51
 
 May 24, 2011 00:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [nir](../tag/nir), [infrared](../tag/infrared), [california](../tag/california), [gdal](../tag/gdal), [false-color](../tag/false-color), [gis](../tag/gis), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [multispectral-imaging](../tag/multispectral-imaging), [beach](../tag/beach), [beach-mapping](../tag/beach-mapping), [santa-barbara](../tag/santa-barbara), [hot-air-balloon-mapping](../tag/hot-air-balloon-mapping), [first-time-poster](../tag/first-time-poster)
 

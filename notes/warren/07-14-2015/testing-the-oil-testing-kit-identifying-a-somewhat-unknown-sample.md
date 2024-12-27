@@ -1,5 +1,7 @@
 ---
-title: "Testing the Oil Testing Kit: identifying a "somewhat unknown" sample"\ntagnames: 'spectrometer, laser, fluorescence, crude, oil-testing-kit, 405nm, response:11173, response:11163, response:12046, activity:spectrometry, activity:spectrometry-sampling'
+title: "Testing the Oil Testing Kit: identifying a "somewhat unknown" sample"
+
+tagnames: 'spectrometer, laser, fluorescence, crude, oil-testing-kit, 405nm, response:11173, response:11163, response:12046, activity:spectrometry, activity:spectrometry-sampling'
 author: warren
 path: /notes/warren/07-14-2015/testing-the-oil-testing-kit-identifying-a-somewhat-unknown-sample.md
 nid: 12063
@@ -11,7 +13,7 @@ uid: 1
 
 # Testing the Oil Testing Kit: identifying a "somewhat unknown" sample
 
-by [warren](../profile/warren) | July 14, 2015 19:37
+by [warren](../../../profile/warren) | July 14, 2015 19:37
 
 July 14, 2015 19:37 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [fluorescence](../tag/fluorescence), [crude](../tag/crude), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [response:11173](../tag/response:11173), [response:11163](../tag/response:11163), [response:12046](../tag/response:12046), [activity:spectrometry](../tag/activity:spectrometry), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 

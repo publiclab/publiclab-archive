@@ -1,5 +1,7 @@
 ---
-title: "How Wisconsin's Dept. of Natural Resources (DNR) Wants to Receive Environmental Violation Data"\ntagnames: 'oil-spill, reporting, wisconsin, frac-sand, pm, hazardous-materials, environment-monitoring, silica-monitoring, violation-reporting, spills, dnr, reporting-forms, violations, spill-reporting'
+title: "How Wisconsin's Dept. of Natural Resources (DNR) Wants to Receive Environmental Violation Data"
+
+tagnames: 'oil-spill, reporting, wisconsin, frac-sand, pm, hazardous-materials, environment-monitoring, silica-monitoring, violation-reporting, spills, dnr, reporting-forms, violations, spill-reporting'
 author: gilbert
 path: /wiki/how-wisconsin-s-dept-of-natural-resources-dnr-wants-to-receive-environmental-violation-data.md
 nid: 15180

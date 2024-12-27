@@ -1,5 +1,7 @@
 ---
-title: "Quick Build:  Basic Microscope Kit with Raspberry Pi"\ntagnames: 'raspberry-pi, barnstar:photo-documentation, with:kgradow1, with:warren, microscope, passive-particle-monitors, microscopes, activity:microscopes, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope'
+title: "Quick Build:  Basic Microscope Kit with Raspberry Pi"
+
+tagnames: 'raspberry-pi, barnstar:photo-documentation, with:kgradow1, with:warren, microscope, passive-particle-monitors, microscopes, activity:microscopes, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope'
 author: partsandcrafts
 path: /notes/partsandcrafts/12-02-2017/quick-build-raspberry-pi-microscope.md
 nid: 15285
@@ -11,7 +13,7 @@ uid: 66014
 
 # Quick Build:  Basic Microscope Kit with Raspberry Pi
 
-by [partsandcrafts](../profile/partsandcrafts) | December 02, 2017 03:15
+by [partsandcrafts](../../../profile/partsandcrafts) | December 02, 2017 03:15
 
 December 02, 2017 03:15 | Tags: [raspberry-pi](../tag/raspberry-pi), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [series:basic-microscope](../tag/series:basic-microscope)
 

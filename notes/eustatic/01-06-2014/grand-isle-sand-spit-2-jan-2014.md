@@ -1,5 +1,7 @@
 ---
-title: "Grand Isle Sand Spit 2 Jan 2014"\ntagnames: 'gulf-coast, grand-isle, kite-mapping, dredgefestla'
+title: "Grand Isle Sand Spit 2 Jan 2014"
+
+tagnames: 'gulf-coast, grand-isle, kite-mapping, dredgefestla'
 author: eustatic
 path: /01-06-2014/grand-isle-sand-spit-2-jan-2014.md
 nid: 9925
@@ -11,7 +13,7 @@ uid: 379
 
 # Grand Isle Sand Spit 2 Jan 2014
 
-by [eustatic](../profile/eustatic) | January 06, 2014 01:38
+by [eustatic](../../../profile/eustatic) | January 06, 2014 01:38
 
 January 06, 2014 01:38 | Tags: [gulf-coast](../tag/gulf-coast), [grand-isle](../tag/grand-isle), [kite-mapping](../tag/kite-mapping), [dredgefestla](../tag/dredgefestla)
 

@@ -1,5 +1,7 @@
 ---
-title: "Mapping Biodiversity Hotspots - Shannon Entropy Applied to Pixel Space (Case Study: Cape Cod, MA)"\ntagnames: 'mapping, ecology, biodiversity, diversidad'
+title: "Mapping Biodiversity Hotspots - Shannon Entropy Applied to Pixel Space (Case Study: Cape Cod, MA)"
+
+tagnames: 'mapping, ecology, biodiversity, diversidad'
 author: podolsky
 path: /notes/podolsky/08-14-2015/mapping-biodiversity-hotspots-shannon-index-applied-to-pixel-space-case-study-cape-cod-ma.md
 nid: 12144
@@ -11,7 +13,7 @@ uid: 447732
 
 # Mapping Biodiversity Hotspots - Shannon Entropy Applied to Pixel Space (Case Study: Cape Cod, MA)
 
-by [podolsky](../profile/podolsky) | August 14, 2015 22:41
+by [podolsky](../../../profile/podolsky) | August 14, 2015 22:41
 
 August 14, 2015 22:41 | Tags: [mapping](../tag/mapping), [ecology](../tag/ecology), [biodiversity](../tag/biodiversity), [diversidad](../tag/diversidad)
 

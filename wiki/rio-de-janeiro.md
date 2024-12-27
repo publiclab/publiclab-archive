@@ -1,5 +1,7 @@
 ---
-title: "Rio de Janeiro"\ntagnames: 'rio, brazil, events:rio-de-janeiro, chapter, lat:-22.9083, lon:-43.1964'
+title: "Rio de Janeiro"
+
+tagnames: 'rio, brazil, events:rio-de-janeiro, chapter, lat:-22.9083, lon:-43.1964'
 author: liz
 path: /wiki/rio-de-janeiro.md
 nid: 495

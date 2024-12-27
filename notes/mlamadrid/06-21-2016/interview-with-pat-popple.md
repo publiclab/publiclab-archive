@@ -1,5 +1,7 @@
 ---
-title: "Interview with Pat Popple"\ntagnames: 'wisconsin, blog, frac-sand, with:stevie, parent:frac-sand, communityscienceforum, with:pat'
+title: "Interview with Pat Popple"
+
+tagnames: 'wisconsin, blog, frac-sand, with:stevie, parent:frac-sand, communityscienceforum, with:pat'
 author: mlamadrid
 path: /notes/mlamadrid/06-21-2016/interview-with-pat-popple.md
 nid: 13219
@@ -11,7 +13,7 @@ uid: 45586
 
 # Interview with Pat Popple
 
-by [mlamadrid](../profile/mlamadrid) | June 21, 2016 20:39
+by [mlamadrid](../../../profile/mlamadrid) | June 21, 2016 20:39
 
 June 21, 2016 20:39 | Tags: [wisconsin](../tag/wisconsin), [blog](../tag/blog), [frac-sand](../tag/frac-sand), [with:stevie](../tag/with:stevie), [parent:frac-sand](../tag/parent:frac-sand), [communityscienceforum](../tag/communityscienceforum), [with:pat](../tag/with:pat)
 

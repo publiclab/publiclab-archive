@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter UI Evaluation 2 - Mapping of Garbage Dump/Hot spots"\ntagnames: 'mapknitter, community, barnstar:basic, fellowship, ui, ballon-mapping, community-atlas, lat:10.758918, lon:78.813218, lat:10.768555, lon:78.815917, lat:10.7658773436, lon:78.8163886952, community-atlas-ui'
+title: "MapKnitter UI Evaluation 2 - Mapping of Garbage Dump/Hot spots"
+
+tagnames: 'mapknitter, community, barnstar:basic, fellowship, ui, ballon-mapping, community-atlas, lat:10.758918, lon:78.813218, lat:10.768555, lon:78.815917, lat:10.7658773436, lon:78.8163886952, community-atlas-ui'
 author: silentsairam
 path: /notes/silentsairam/07-04-2019/mapknitter-ui-evaluation-2-mapping-of-garbage-dump-hot-spots.md
 nid: 19985
@@ -11,7 +13,7 @@ uid: 553044
 
 # MapKnitter UI Evaluation 2 - Mapping of Garbage Dump/Hot spots
 
-by [silentsairam](../profile/silentsairam) | July 04, 2019 08:54
+by [silentsairam](../../../profile/silentsairam) | July 04, 2019 08:54
 
 July 04, 2019 08:54 | Tags: [mapknitter](../tag/mapknitter), [community](../tag/community), [barnstar:basic](../tag/barnstar:basic), [fellowship](../tag/fellowship), [ui](../tag/ui), [ballon-mapping](../tag/ballon-mapping), [community-atlas](../tag/community-atlas), [lat:10.758918](../tag/lat:10.758918), [lon:78.813218](../tag/lon:78.813218), [lat:10.768555](../tag/lat:10.768555), [lon:78.815917](../tag/lon:78.815917), [lat:10.7658773436](../tag/lat:10.7658773436), [lon:78.8163886952](../tag/lon:78.8163886952), [community-atlas-ui](../tag/community-atlas-ui)
 

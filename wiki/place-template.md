@@ -1,5 +1,7 @@
 ---
-title: "Place template"\ntagnames: ''
+title: "Place template"
+
+tagnames: ''
 author: warren
 path: /wiki/place-template.md
 nid: 449

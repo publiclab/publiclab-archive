@@ -1,5 +1,7 @@
 ---
-title: "maine"\ntagnames: 'maine, northeast, parent:northeast, phosphogypsum, bauxite, alum, penobscot'
+title: "maine"
+
+tagnames: 'maine, northeast, parent:northeast, phosphogypsum, bauxite, alum, penobscot'
 author: liz
 path: /wiki/maine.md
 nid: 10479

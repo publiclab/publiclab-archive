@@ -1,5 +1,7 @@
 ---
-title: "One Cranston"\ntagnames: 'place, location:blurred, lat:41.7900, lon:-71.4570, redirect:onecranston'
+title: "One Cranston"
+
+tagnames: 'place, location:blurred, lat:41.7900, lon:-71.4570, redirect:onecranston'
 author: warren
 path: /wiki/one-cranston.md
 nid: 19000

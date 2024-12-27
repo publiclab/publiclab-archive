@@ -1,5 +1,7 @@
 ---
-title: "Delta St John:  first plantings and bobcat work "\ntagnames: 'gulf-coast, kite-mapping, eustatic, dredgefestla, bsj, response:6665'
+title: "Delta St John:  first plantings and bobcat work "
+
+tagnames: 'gulf-coast, kite-mapping, eustatic, dredgefestla, bsj, response:6665'
 author: eustatic
 path: /03-16-2014/delta-st-john-first-plantings-and-bobcat-work.md
 nid: 10189
@@ -11,7 +13,7 @@ uid: 379
 
 # Delta St John:  first plantings and bobcat work 
 
-by [eustatic](../profile/eustatic) | March 16, 2014 11:24
+by [eustatic](../../../profile/eustatic) | March 16, 2014 11:24
 
 March 16, 2014 11:24 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [eustatic](../tag/eustatic), [dredgefestla](../tag/dredgefestla), [bsj](../tag/bsj), [response:6665](../tag/response:6665)
 

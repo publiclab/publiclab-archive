@@ -1,5 +1,7 @@
 ---
-title: "Bayou Sauvage test #2 protocol"\ntagnames: 'hydrogen-sulfide-sensing'
+title: "Bayou Sauvage test #2 protocol"
+
+tagnames: 'hydrogen-sulfide-sensing'
 author: Shannon
 path: /notes/shannon/8-2-2012/bayou-sauvage-test-2-protocol.md
 nid: 3072
@@ -11,7 +13,7 @@ uid: 9
 
 # Bayou Sauvage test #2 protocol
 
-by [Shannon](../profile/Shannon) | August 02, 2012 04:32
+by [Shannon](../../../profile/Shannon) | August 02, 2012 04:32
 
 August 02, 2012 04:32 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 

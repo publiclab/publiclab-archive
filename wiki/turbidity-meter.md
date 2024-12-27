@@ -1,5 +1,7 @@
 ---
-title: "turbidity sensor"\ntagnames: 'water-quality, water-monitoring, turbidity, parent:turbidity'
+title: "turbidity sensor"
+
+tagnames: 'water-quality, water-monitoring, turbidity, parent:turbidity'
 author: liz
 path: /wiki/turbidity-meter.md
 nid: 924

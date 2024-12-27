@@ -1,5 +1,7 @@
 ---
-title: "Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19"\ntagnames: 'open-hardware, documentation, partsandcrafts, event, somerville, desktop-spectrometer, desktop-spectrometer-assembly, desktop-spectrometry-kit, event:rsvp, upgrades, oshwa, replication, documenation-days, date:09-12-2016'
+title: "Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19"
+
+tagnames: 'open-hardware, documentation, partsandcrafts, event, somerville, desktop-spectrometer, desktop-spectrometer-assembly, desktop-spectrometry-kit, event:rsvp, upgrades, oshwa, replication, documenation-days, date:09-12-2016'
 author: warren
 path: /notes/warren/09-27-2016/document-your-hardware-upgrades-at-parts-crafts-documentation-days-oct-12-19.md
 nid: 13487
@@ -11,7 +13,7 @@ uid: 1
 
 # Document your hardware upgrades at Parts & Crafts Documentation Days - Oct 12 & 19
 
-by [warren](../profile/warren) | September 27, 2016 15:36
+by [warren](../../../profile/warren) | September 27, 2016 15:36
 
 September 27, 2016 15:36 | Tags: [open-hardware](../tag/open-hardware), [documentation](../tag/documentation), [partsandcrafts](../tag/partsandcrafts), [event](../tag/event), [somerville](../tag/somerville), [desktop-spectrometer](../tag/desktop-spectrometer), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [event:rsvp](../tag/event:rsvp), [upgrades](../tag/upgrades), [oshwa](../tag/oshwa), [replication](../tag/replication), [documenation-days](../tag/documenation-days), [date:09-12-2016](../tag/date:09-12-2016)
 

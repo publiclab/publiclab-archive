@@ -1,5 +1,7 @@
 ---
-title: "Indoor microbiome sampler (vacuum adapter)"\ntagnames: '3d-printing, indoor, low-cost, indoor-air-quality, with:haines241, microbiome'
+title: "Indoor microbiome sampler (vacuum adapter)"
+
+tagnames: '3d-printing, indoor, low-cost, indoor-air-quality, with:haines241, microbiome'
 author: nshapiro
 path: /notes/nshapiro/04-15-2019/indoor-microbiome-sampler-vacuum-adapter.md
 nid: 19058
@@ -11,7 +13,7 @@ uid: 380298
 
 # Indoor microbiome sampler (vacuum adapter)
 
-by [nshapiro](../profile/nshapiro) | April 15, 2019 00:10
+by [nshapiro](../../../profile/nshapiro) | April 15, 2019 00:10
 
 April 15, 2019 00:10 | Tags: [3d-printing](../tag/3d-printing), [indoor](../tag/indoor), [low-cost](../tag/low-cost), [indoor-air-quality](../tag/indoor-air-quality), [with:haines241](../tag/with:haines241), [microbiome](../tag/microbiome)
 

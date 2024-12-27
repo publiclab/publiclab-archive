@@ -1,5 +1,7 @@
 ---
-title: "How could we design a group activity around siting air sensors?"\ntagnames: 'education, curriculum, air-quality, classroom, question:dustduino, humidity, study-design, question:education, question:classroom, plantower, purple-air, question:simple-air-sensor, simple-air-sensor, simple-air-sensors'
+title: "How could we design a group activity around siting air sensors?"
+
+tagnames: 'education, curriculum, air-quality, classroom, question:dustduino, humidity, study-design, question:education, question:classroom, plantower, purple-air, question:simple-air-sensor, simple-air-sensor, simple-air-sensors'
 author: warren
 path: /notes/warren/06-24-2019/how-could-we-design-a-group-activity-around-siting-air-sensors.md
 nid: 19843
@@ -11,7 +13,7 @@ uid: 1
 
 # How could we design a group activity around siting air sensors?
 
-by [warren](../profile/warren) | June 24, 2019 22:37
+by [warren](../../../profile/warren) | June 24, 2019 22:37
 
 June 24, 2019 22:37 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [air-quality](../tag/air-quality), [classroom](../tag/classroom), [question:dustduino](../tag/question:dustduino), [humidity](../tag/humidity), [study-design](../tag/study-design), [question:education](../tag/question:education), [question:classroom](../tag/question:classroom), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor), [simple-air-sensors](../tag/simple-air-sensors)
 

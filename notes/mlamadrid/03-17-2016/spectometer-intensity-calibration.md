@@ -1,5 +1,7 @@
 ---
-title: "Oil Test Kit Beta Program - Data Analysis"\ntagnames: 'spectrometer, oil-testing-kit, with:ygzstc'
+title: "Oil Test Kit Beta Program - Data Analysis"
+
+tagnames: 'spectrometer, oil-testing-kit, with:ygzstc'
 author: mlamadrid
 path: /notes/mlamadrid/03-17-2016/spectometer-intensity-calibration.md
 nid: 12852
@@ -11,7 +13,7 @@ uid: 45586
 
 # Oil Test Kit Beta Program - Data Analysis
 
-by [mlamadrid](../profile/mlamadrid) | March 17, 2016 04:02
+by [mlamadrid](../../../profile/mlamadrid) | March 17, 2016 04:02
 
 March 17, 2016 04:02 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [with:ygzstc](../tag/with:ygzstc)
 

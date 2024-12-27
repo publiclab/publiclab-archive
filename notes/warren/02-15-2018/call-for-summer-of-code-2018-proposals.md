@@ -1,5 +1,7 @@
 ---
-title: "Call for Summer of Code 2018 proposals!"\ntagnames: 'website, software, gsoc, blog, developers, code, wwg, software-outreach, rgsoc, soc, response:13975, response:14162, gsoc-2018, soc-2018, rgsoc-2018, call-for-proposals'
+title: "Call for Summer of Code 2018 proposals!"
+
+tagnames: 'website, software, gsoc, blog, developers, code, wwg, software-outreach, rgsoc, soc, response:13975, response:14162, gsoc-2018, soc-2018, rgsoc-2018, call-for-proposals'
 author: warren
 path: /notes/warren/02-15-2018/call-for-summer-of-code-2018-proposals.md
 nid: 15743
@@ -11,7 +13,7 @@ uid: 1
 
 # Call for Summer of Code 2018 proposals!
 
-by [warren](../profile/warren) | February 15, 2018 21:05
+by [warren](../../../profile/warren) | February 15, 2018 21:05
 
 February 15, 2018 21:05 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [response:14162](../tag/response:14162), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [call-for-proposals](../tag/call-for-proposals)
 

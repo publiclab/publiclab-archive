@@ -1,5 +1,7 @@
 ---
-title: "Google Summer of Code 2016: draft proposals"\ntagnames: 'software, gsoc, coding, seeks:responses, gsoc-2016, gsoc-2016-proposals'
+title: "Google Summer of Code 2016: draft proposals"
+
+tagnames: 'software, gsoc, coding, seeks:responses, gsoc-2016, gsoc-2016-proposals'
 author: warren
 path: /notes/warren/03-10-2016/google-summer-of-code-2016-draft-proposals.md
 nid: 12827
@@ -11,7 +13,7 @@ uid: 1
 
 # Google Summer of Code 2016: draft proposals
 
-by [warren](../profile/warren) | March 10, 2016 19:19
+by [warren](../../../profile/warren) | March 10, 2016 19:19
 
 March 10, 2016 19:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [seeks:responses](../tag/seeks:responses), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals)
 

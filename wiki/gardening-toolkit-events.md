@@ -1,5 +1,7 @@
 ---
-title: "gardening-toolkit-events"\ntagnames: 'garden, elp, garden-toolkit'
+title: "gardening-toolkit-events"
+
+tagnames: 'garden, elp, garden-toolkit'
 author: liz
 path: /wiki/gardening-toolkit-events.md
 nid: 10228

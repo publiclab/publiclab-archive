@@ -1,5 +1,7 @@
 ---
-title: "Use of Quadcopter to Document Rock Alignments and Geoglyphs"\ntagnames: 'uav, quadcopter, rock, geoglyphs, drone'
+title: "Use of Quadcopter to Document Rock Alignments and Geoglyphs"
+
+tagnames: 'uav, quadcopter, rock, geoglyphs, drone'
 author: rmark
 path: /notes/rmark/08-31-2013/use-of-quadcopter-to-document-rock-alignments-and-geoglyphs.md
 nid: 9082
@@ -11,7 +13,7 @@ uid: 942
 
 # Use of Quadcopter to Document Rock Alignments and Geoglyphs
 
-by [rmark](../profile/rmark) | August 31, 2013 00:54
+by [rmark](../../../profile/rmark) | August 31, 2013 00:54
 
 August 31, 2013 00:54 | Tags: [uav](../tag/uav), [quadcopter](../tag/quadcopter), [rock](../tag/rock), [geoglyphs](../tag/geoglyphs), [drone](../tag/drone)
 

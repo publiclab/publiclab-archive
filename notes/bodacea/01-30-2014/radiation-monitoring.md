@@ -1,5 +1,7 @@
 ---
-title: "Radiation Monitoring"\ntagnames: 'radiation, first-time-poster'
+title: "Radiation Monitoring"
+
+tagnames: 'radiation, first-time-poster'
 author: bodacea
 path: /notes/bodacea/01-30-2014/radiation-monitoring.md
 nid: 9989
@@ -11,7 +13,7 @@ uid: 648
 
 # Radiation Monitoring
 
-by [bodacea](../profile/bodacea) | January 30, 2014 17:41
+by [bodacea](../../../profile/bodacea) | January 30, 2014 17:41
 
 January 30, 2014 17:41 | Tags: [radiation](../tag/radiation), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "Best PLab demo ideas for a large group?"\ntagnames: 'education, events, event, workshops, question:question, question:events, question:demos, question:presentations, question:workshops'
+title: "Best PLab demo ideas for a large group?"
+
+tagnames: 'education, events, event, workshops, question:question, question:events, question:demos, question:presentations, question:workshops'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/11-13-2017/best-plab-demo-ideas-for-a-large-group.md
 nid: 15177
@@ -9,7 +11,7 @@ uid: 459085
 
 # Best PLab demo ideas for a large group?
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) | November 13, 2017 15:59
+by [pdhixenbaugh](../../../profile/pdhixenbaugh) | November 13, 2017 15:59
 
 November 13, 2017 15:59 | Tags: [education](../tag/education), [events](../tag/events), [event](../tag/event), [workshops](../tag/workshops), [question:question](../tag/question:question), [question:events](../tag/question:events), [question:demos](../tag/question:demos), [question:presentations](../tag/question:presentations), [question:workshops](../tag/question:workshops)
 

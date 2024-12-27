@@ -1,5 +1,7 @@
 ---
-title: "Question: Possible to get 3D map from balloon mapping?"\ntagnames: 'question:balloon-mapping'
+title: "Question: Possible to get 3D map from balloon mapping?"
+
+tagnames: 'question:balloon-mapping'
 author: bnjmnph
 path: /notes/bnjmnph/09-29-2015/question-possible-to-get-3d-map-from-balloon-mapping.md
 nid: 12251
@@ -9,7 +11,7 @@ uid: 452752
 
 # Question: Possible to get 3D map from balloon mapping?
 
-by [bnjmnph](../profile/bnjmnph) | September 29, 2015 02:59
+by [bnjmnph](../../../profile/bnjmnph) | September 29, 2015 02:59
 
 September 29, 2015 02:59 | Tags: [question:balloon-mapping](../tag/question:balloon-mapping)
 

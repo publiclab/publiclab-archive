@@ -1,5 +1,7 @@
 ---
-title: "Collection and Processing of Aztec Test Strips"\ntagnames: 'hydrogen-sulfide-sensing'
+title: "Collection and Processing of Aztec Test Strips"
+
+tagnames: 'hydrogen-sulfide-sensing'
 author: megan
 path: /notes/megan/8-8-2012/collection-and-processing-aztec-test-strips.md
 nid: 3193
@@ -11,7 +13,7 @@ uid: 775
 
 # Collection and Processing of Aztec Test Strips
 
-by [megan](../profile/megan) | August 08, 2012 05:42
+by [megan](../../../profile/megan) | August 08, 2012 05:42
 
 August 08, 2012 05:42 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 

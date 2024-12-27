@@ -1,5 +1,7 @@
 ---
-title: "Citizen log v1"\ntagnames: 'reporting, air-quality, water-quality, odor, activity:odor, activity:water'
+title: "Citizen log v1"
+
+tagnames: 'reporting, air-quality, water-quality, odor, activity:odor, activity:water'
 author: imvec
 path: /notes/imvec/09-02-2018/citizen-log-v1.md
 nid: 17038
@@ -11,7 +13,7 @@ uid: 495038
 
 # Citizen log v1
 
-by [imvec](../profile/imvec) | September 02, 2018 13:33
+by [imvec](../../../profile/imvec) | September 02, 2018 13:33
 
 September 02, 2018 13:33 | Tags: [reporting](../tag/reporting), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [odor](../tag/odor), [activity:odor](../tag/activity:odor), [activity:water](../tag/activity:water)
 

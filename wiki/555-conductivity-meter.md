@@ -1,5 +1,7 @@
 ---
-title: "555-conductivity-meter"\ntagnames: 'water-quality-monitoring, water-quality, conductivity, riffle, open-water, 555, response:10538, response:10675, parent:open-water, coqui'
+title: "555-conductivity-meter"
+
+tagnames: 'water-quality-monitoring, water-quality, conductivity, riffle, open-water, 555, response:10538, response:10675, parent:open-water, coqui'
 author: kgradow1
 path: /wiki/555-conductivity-meter.md
 nid: 10683

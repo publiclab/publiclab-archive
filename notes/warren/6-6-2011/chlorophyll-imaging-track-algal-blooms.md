@@ -1,5 +1,7 @@
 ---
-title: "Chlorophyll imaging to track algal blooms"\ntagnames: 'multispectral, chlorophyll, algae, algal-blooms, modis, cyanobacteria'
+title: "Chlorophyll imaging to track algal blooms"
+
+tagnames: 'multispectral, chlorophyll, algae, algal-blooms, modis, cyanobacteria'
 author: warren
 path: /notes/warren/6-6-2011/chlorophyll-imaging-track-algal-blooms.md
 nid: 337
@@ -11,7 +13,7 @@ uid: 1
 
 # Chlorophyll imaging to track algal blooms
 
-by [warren](../profile/warren) | June 06, 2011 18:31
+by [warren](../../../profile/warren) | June 06, 2011 18:31
 
 June 06, 2011 18:31 | Tags: [multispectral](../tag/multispectral), [chlorophyll](../tag/chlorophyll), [algae](../tag/algae), [algal-blooms](../tag/algal-blooms), [modis](../tag/modis), [cyanobacteria](../tag/cyanobacteria)
 

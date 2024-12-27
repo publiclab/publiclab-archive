@@ -1,5 +1,7 @@
 ---
-title: "When is it OK to work with non-open components in open source work?"\ntagnames: 'open-source, licensing, open-hardware, blog, with:liz, oshwa, certification, hardware, closed-source, proprietary-tools, openness, proprietary, gpl'
+title: "When is it OK to work with non-open components in open source work?"
+
+tagnames: 'open-source, licensing, open-hardware, blog, with:liz, oshwa, certification, hardware, closed-source, proprietary-tools, openness, proprietary, gpl'
 author: warren
 path: /notes/warren/04-06-2017/when-is-it-ok-to-work-with-non-open-components-in-our-open-work.md
 nid: 14096
@@ -11,7 +13,7 @@ uid: 1
 
 # When is it OK to work with non-open components in open source work?
 
-by [warren](../profile/warren) | April 06, 2017 20:01
+by [warren](../../../profile/warren) | April 06, 2017 20:01
 
 April 06, 2017 20:01 | Tags: [open-source](../tag/open-source), [licensing](../tag/licensing), [open-hardware](../tag/open-hardware), [blog](../tag/blog), [with:liz](../tag/with:liz), [oshwa](../tag/oshwa), [certification](../tag/certification), [hardware](../tag/hardware), [closed-source](../tag/closed-source), [proprietary-tools](../tag/proprietary-tools), [openness](../tag/openness), [proprietary](../tag/proprietary), [gpl](../tag/gpl)
 

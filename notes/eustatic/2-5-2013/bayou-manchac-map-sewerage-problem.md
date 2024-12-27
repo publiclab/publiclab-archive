@@ -1,5 +1,7 @@
 ---
-title: "Bayou Manchac map of sewerage problem"\ntagnames: 'balloon-mapping, kite-mapping, annotated-maps, map-aesthetics'
+title: "Bayou Manchac map of sewerage problem"
+
+tagnames: 'balloon-mapping, kite-mapping, annotated-maps, map-aesthetics'
 author: eustatic
 path: /2-5-2013/bayou-manchac-map-sewerage-problem.md
 nid: 5893
@@ -11,7 +13,7 @@ uid: 379
 
 # Bayou Manchac map of sewerage problem
 
-by [eustatic](../profile/eustatic) | February 05, 2013 16:52
+by [eustatic](../../../profile/eustatic) | February 05, 2013 16:52
 
 February 05, 2013 16:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [annotated-maps](../tag/annotated-maps), [map-aesthetics](../tag/map-aesthetics)
 

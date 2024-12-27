@@ -1,5 +1,7 @@
 ---
-title: "Donate"\ntagnames: 'donation, sidebar:none, donations'
+title: "Donate"
+
+tagnames: 'donation, sidebar:none, donations'
 author: warren
 path: /wiki/donate.md
 nid: 327

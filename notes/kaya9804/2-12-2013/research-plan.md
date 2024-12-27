@@ -1,5 +1,7 @@
 ---
-title: "Research Plan"\ntagnames: 'thermal-imaging, thermal-fishing, thermal-technology, infrared-camera, research, first-time-poster'
+title: "Research Plan"
+
+tagnames: 'thermal-imaging, thermal-fishing, thermal-technology, infrared-camera, research, first-time-poster'
 author: Kaya9804
 path: /notes/kaya9804/2-12-2013/research-plan.md
 nid: 5959
@@ -9,7 +11,7 @@ uid: 45526
 
 # Research Plan
 
-by [Kaya9804](../profile/Kaya9804) | February 12, 2013 20:39
+by [Kaya9804](../../../profile/Kaya9804) | February 12, 2013 20:39
 
 February 12, 2013 20:39 | Tags: [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing), [thermal-technology](../tag/thermal-technology), [infrared-camera](../tag/infrared-camera), [research](../tag/research), [first-time-poster](../tag/first-time-poster)
 

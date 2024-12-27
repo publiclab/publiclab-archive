@@ -1,5 +1,7 @@
 ---
-title: "RAILS GIRLS NAIROBI MEGA CODING EVENT"\ntagnames: 'education, events, workshop, software, event, open-space-technology, blog, kenya, coding, barnstar:basic, rails, africa, onboarding, software-outreach, rgsoc, soc, women, railsgirlsnairobi, nairobi, date:02-16-2018, coding-events'
+title: "RAILS GIRLS NAIROBI MEGA CODING EVENT"
+
+tagnames: 'education, events, workshop, software, event, open-space-technology, blog, kenya, coding, barnstar:basic, rails, africa, onboarding, software-outreach, rgsoc, soc, women, railsgirlsnairobi, nairobi, date:02-16-2018, coding-events'
 author: stella
 path: /notes/stella/03-15-2018/rails-girls-nairobi-mega-coding-event.md
 nid: 15962
@@ -11,7 +13,7 @@ uid: 504749
 
 # RAILS GIRLS NAIROBI MEGA CODING EVENT
 
-by [stella](../profile/stella) | March 15, 2018 14:10
+by [stella](../../../profile/stella) | March 15, 2018 14:10
 
 March 15, 2018 14:10 | Tags: [education](../tag/education), [events](../tag/events), [workshop](../tag/workshop), [software](../tag/software), [event](../tag/event), [open-space-technology](../tag/open-space-technology), [blog](../tag/blog), [kenya](../tag/kenya), [coding](../tag/coding), [barnstar:basic](../tag/barnstar:basic), [rails](../tag/rails), [africa](../tag/africa), [onboarding](../tag/onboarding), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [women](../tag/women), [railsgirlsnairobi](../tag/railsgirlsnairobi), [nairobi](../tag/nairobi), [date:02-16-2018](../tag/date:02-16-2018), [coding-events](../tag/coding-events)
 

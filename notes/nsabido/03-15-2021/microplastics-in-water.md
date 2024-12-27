@@ -1,5 +1,7 @@
 ---
-title: "Microplastics in water"\ntagnames: 'issue-brief, microplastics, zoom:6, lat:30.984297, lon:-91.962332'
+title: "Microplastics in water"
+
+tagnames: 'issue-brief, microplastics, zoom:6, lat:30.984297, lon:-91.962332'
 author: nsabido
 path: /notes/nsabido/03-15-2021/microplastics-in-water.md
 nid: 25922
@@ -11,7 +13,7 @@ uid: 745916
 
 # Microplastics in water
 
-by [nsabido](../profile/nsabido) | March 15, 2021 15:53
+by [nsabido](../../../profile/nsabido) | March 15, 2021 15:53
 
 March 15, 2021 15:53 | Tags: [issue-brief](../tag/issue-brief), [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:30.984297](../tag/lat:30.984297), [lon:-91.962332](../tag/lon:-91.962332)
 

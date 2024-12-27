@@ -1,5 +1,7 @@
 ---
-title: "Host a Barnraising"\ntagnames: 'redirect:barnraising-host'
+title: "Host a Barnraising"
+
+tagnames: 'redirect:barnraising-host'
 author: warren
 path: /wiki/host-a-barnraising.md
 nid: 20531

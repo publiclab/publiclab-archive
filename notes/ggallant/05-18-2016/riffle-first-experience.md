@@ -1,5 +1,7 @@
 ---
-title: "Riffle first experience"\ntagnames: 'riffle, riffle-beta'
+title: "Riffle first experience"
+
+tagnames: 'riffle, riffle-beta'
 author: ggallant
 path: /notes/ggallant/05-18-2016/riffle-first-experience.md
 nid: 13123
@@ -9,7 +11,7 @@ uid: 427373
 
 # Riffle first experience
 
-by [ggallant](../profile/ggallant) | May 18, 2016 12:22
+by [ggallant](../../../profile/ggallant) | May 18, 2016 12:22
 
 May 18, 2016 12:22 | Tags: [riffle](../tag/riffle), [riffle-beta](../tag/riffle-beta)
 

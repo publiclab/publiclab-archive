@@ -1,5 +1,7 @@
 ---
-title: "Impact white balance & stretching on NDVI"\ntagnames: 'near-infrared-camera, ndvi, infragram'
+title: "Impact white balance & stretching on NDVI"
+
+tagnames: 'near-infrared-camera, ndvi, infragram'
 author: radialmind
 path: /notes/radialmind/02-09-2014/impact-white-balance-stretching-on-ndvi.md
 nid: 10022
@@ -11,7 +13,7 @@ uid: 170347
 
 # Impact white balance & stretching on NDVI
 
-by [radialmind](../profile/radialmind) | February 09, 2014 13:44
+by [radialmind](../../../profile/radialmind) | February 09, 2014 13:44
 
 February 09, 2014 13:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram)
 

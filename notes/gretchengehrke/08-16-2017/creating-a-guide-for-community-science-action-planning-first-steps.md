@@ -1,5 +1,7 @@
 ---
-title: "Creating a guide for community science action planning: first steps"\ntagnames: 'air-quality, water-quality, methodologies, monitoring, advocacy'
+title: "Creating a guide for community science action planning: first steps"
+
+tagnames: 'air-quality, water-quality, methodologies, monitoring, advocacy'
 author: gretchengehrke
 path: /notes/gretchengehrke/08-16-2017/creating-a-guide-for-community-science-action-planning-first-steps.md
 nid: 14762
@@ -9,7 +11,7 @@ uid: 430549
 
 # Creating a guide for community science action planning: first steps
 
-by [gretchengehrke](../profile/gretchengehrke) | August 16, 2017 22:32
+by [gretchengehrke](../../../profile/gretchengehrke) | August 16, 2017 22:32
 
 August 16, 2017 22:32 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [methodologies](../tag/methodologies), [monitoring](../tag/monitoring), [advocacy](../tag/advocacy)
 

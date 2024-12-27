@@ -1,5 +1,7 @@
 ---
-title: "Grassroots Mapping Forum #4 in print"\ntagnames: 'gmf'
+title: "Grassroots Mapping Forum #4 in print"
+
+tagnames: 'gmf'
 author: mathew
 path: /notes/mathew/02-20-2014/grassroots-mapping-forum-4-in-print.md
 nid: 10051
@@ -11,7 +13,7 @@ uid: 4
 
 # Grassroots Mapping Forum #4 in print
 
-by [mathew](../profile/mathew) | February 20, 2014 23:02
+by [mathew](../../../profile/mathew) | February 20, 2014 23:02
 
 February 20, 2014 23:02 | Tags: [gmf](../tag/gmf)
 

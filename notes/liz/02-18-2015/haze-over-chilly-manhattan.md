@@ -1,5 +1,7 @@
 ---
-title: "Haze over chilly Manhattan"\ntagnames: 'new-york-city, air-column-monitor, air-quality, haze, smog'
+title: "Haze over chilly Manhattan"
+
+tagnames: 'new-york-city, air-column-monitor, air-quality, haze, smog'
 author: liz
 path: /notes/liz/02-18-2015/haze-over-chilly-manhattan.md
 nid: 11603
@@ -11,7 +13,7 @@ uid: 7
 
 # Haze over chilly Manhattan
 
-by [liz](../profile/liz) | February 18, 2015 21:01
+by [liz](../../../profile/liz) | February 18, 2015 21:01
 
 February 18, 2015 21:01 | Tags: [new-york-city](../tag/new-york-city), [air-column-monitor](../tag/air-column-monitor), [air-quality](../tag/air-quality), [haze](../tag/haze), [smog](../tag/smog)
 

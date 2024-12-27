@@ -1,5 +1,7 @@
 ---
-title: "Air Quality Class 5"\ntagnames: ''
+title: "Air Quality Class 5"
+
+tagnames: ''
 author: liz
 path: /wiki/air-quality-class-5.md
 nid: 6092

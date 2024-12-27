@@ -1,5 +1,7 @@
 ---
-title: "Public Lab receives support from the Passport Foundation for air quality project"\ntagnames: 'air, quality, indoor'
+title: "Public Lab receives support from the Passport Foundation for air quality project"
+
+tagnames: 'air, quality, indoor'
 author: Shannon
 path: /notes/Shannon/04-14-2014/public-lab-receives-support-from-the-passport-foundation.md
 nid: 10307
@@ -11,7 +13,7 @@ uid: 9
 
 # Public Lab receives support from the Passport Foundation for air quality project
 
-by [Shannon](../profile/Shannon) | April 14, 2014 17:41
+by [Shannon](../../../profile/Shannon) | April 14, 2014 17:41
 
 April 14, 2014 17:41 | Tags: [air](../tag/air), [quality](../tag/quality), [indoor](../tag/indoor)
 

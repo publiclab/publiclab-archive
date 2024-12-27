@@ -1,5 +1,7 @@
 ---
-title: "GSoC Update - AutoKnitting 2"\ntagnames: 'mapknitter, gsoc, gsoc-2014, exif, response:10594'
+title: "GSoC Update - AutoKnitting 2"
+
+tagnames: 'mapknitter, gsoc, gsoc-2014, exif, response:10594'
 author: xvidun
 path: /notes/xvidun/07-03-2014/gsoc-update-autoknitting-2.md
 nid: 10648
@@ -11,7 +13,7 @@ uid: 421168
 
 # GSoC Update - AutoKnitting 2
 
-by [xvidun](../profile/xvidun) | July 03, 2014 05:47
+by [xvidun](../../../profile/xvidun) | July 03, 2014 05:47
 
 July 03, 2014 05:47 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [exif](../tag/exif), [response:10594](../tag/response:10594)
 

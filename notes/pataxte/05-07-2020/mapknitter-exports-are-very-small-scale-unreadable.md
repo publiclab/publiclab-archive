@@ -1,5 +1,7 @@
 ---
-title: "mapknitter exports are very small scale, unreadable"\ntagnames: 'mapknitter'
+title: "mapknitter exports are very small scale, unreadable"
+
+tagnames: 'mapknitter'
 author: pataxte
 path: /notes/pataxte/05-07-2020/mapknitter-exports-are-very-small-scale-unreadable.md
 nid: 23571
@@ -9,7 +11,7 @@ uid: 559561
 
 # mapknitter exports are very small scale, unreadable
 
-by [pataxte](../profile/pataxte) | May 07, 2020 17:01
+by [pataxte](../../../profile/pataxte) | May 07, 2020 17:01
 
 May 07, 2020 17:01 | Tags: [mapknitter](../tag/mapknitter)
 

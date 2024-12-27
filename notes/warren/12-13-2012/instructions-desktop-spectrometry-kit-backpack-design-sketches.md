@@ -1,5 +1,7 @@
 ---
-title: "Instructions for Desktop Spectrometry Kit & 'backpack' design sketches"\ntagnames: 'spectrometer, guides, kickstarter'
+title: "Instructions for Desktop Spectrometry Kit & 'backpack' design sketches"
+
+tagnames: 'spectrometer, guides, kickstarter'
 author: warren
 path: /notes/warren/12-13-2012/instructions-desktop-spectrometry-kit-backpack-design-sketches.md
 nid: 5190
@@ -11,7 +13,7 @@ uid: 1
 
 # Instructions for Desktop Spectrometry Kit & 'backpack' design sketches
 
-by [warren](../profile/warren) | December 13, 2012 21:01
+by [warren](../../../profile/warren) | December 13, 2012 21:01
 
 December 13, 2012 21:01 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [kickstarter](../tag/kickstarter)
 

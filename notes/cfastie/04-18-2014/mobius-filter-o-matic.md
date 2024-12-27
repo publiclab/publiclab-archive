@@ -1,5 +1,7 @@
 ---
-title: "Mobius Filter-O-Matic"\ntagnames: 'near-infrared-camera, ndvi, infrared, infragram, 3d-printing, infragram-sandbox, mobius-actioncam, response:10324, mobius, infragram-point-shoot, upgrade:multispectral-imaging, upgrade:mobius, upgrade:infragram-point-shoot, upgrade:mobius-action-cam'
+title: "Mobius Filter-O-Matic"
+
+tagnames: 'near-infrared-camera, ndvi, infrared, infragram, 3d-printing, infragram-sandbox, mobius-actioncam, response:10324, mobius, infragram-point-shoot, upgrade:multispectral-imaging, upgrade:mobius, upgrade:infragram-point-shoot, upgrade:mobius-action-cam'
 author: cfastie
 path: /notes/cfastie/04-18-2014/mobius-filter-o-matic.md
 nid: 10327
@@ -11,7 +13,7 @@ uid: 554
 
 # Mobius Filter-O-Matic
 
-by [cfastie](../profile/cfastie) | April 18, 2014 15:14
+by [cfastie](../../../profile/cfastie) | April 18, 2014 15:14
 
 April 18, 2014 15:14 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [3d-printing](../tag/3d-printing), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [response:10324](../tag/response:10324), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [upgrade:multispectral-imaging](../tag/upgrade:multispectral-imaging), [upgrade:mobius](../tag/upgrade:mobius), [upgrade:infragram-point-shoot](../tag/upgrade:infragram-point-shoot), [upgrade:mobius-action-cam](../tag/upgrade:mobius-action-cam)
 

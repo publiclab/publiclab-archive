@@ -1,5 +1,7 @@
 ---
-title: "Diverging street flooding"\ntagnames: 'new-orleans, stormwater, flooding, issue-brief, first-time-poster, lat:29.954934, lon:-90.065917, with:jeanell873'
+title: "Diverging street flooding"
+
+tagnames: 'new-orleans, stormwater, flooding, issue-brief, first-time-poster, lat:29.954934, lon:-90.065917, with:jeanell873'
 author: Athan_Nelson
 path: /notes/Athan_Nelson/09-19-2019/diverging-street-flooding.md
 nid: 20926
@@ -11,7 +13,7 @@ uid: 618892
 
 # Diverging street flooding
 
-by [Athan_Nelson](../profile/Athan_Nelson) | September 19, 2019 14:23
+by [Athan_Nelson](../../../profile/Athan_Nelson) | September 19, 2019 14:23
 
 September 19, 2019 14:23 | Tags: [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [issue-brief](../tag/issue-brief), [first-time-poster](../tag/first-time-poster), [lat:29.954934](../tag/lat:29.954934), [lon:-90.065917](../tag/lon:-90.065917), [with:jeanell873](../tag/with:jeanell873)
 

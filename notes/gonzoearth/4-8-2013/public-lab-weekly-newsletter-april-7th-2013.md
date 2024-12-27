@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Community Newsletter April 7th, 2013"\ntagnames: 'newsletter, newsletter-archive'
+title: "Public Lab Community Newsletter April 7th, 2013"
+
+tagnames: 'newsletter, newsletter-archive'
 author: gonzoearth
 path: /notes/gonzoearth/4-8-2013/public-lab-weekly-newsletter-april-7th-2013.md
 nid: 6718
@@ -9,7 +11,7 @@ uid: 12
 
 # Public Lab Community Newsletter April 7th, 2013
 
-by [gonzoearth](../profile/gonzoearth) | April 08, 2013 04:13
+by [gonzoearth](../../../profile/gonzoearth) | April 08, 2013 04:13
 
 April 08, 2013 04:13 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 

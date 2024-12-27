@@ -1,5 +1,7 @@
 ---
-title: "Webcam Conversion to (Near-) Infrared"\ntagnames: 'near-infrared-camera, nir, infrared, webcam, near-infrared, ir, conversion, filter, activity:infrared-camera-conversion'
+title: "Webcam Conversion to (Near-) Infrared"
+
+tagnames: 'near-infrared-camera, nir, infrared, webcam, near-infrared, ir, conversion, filter, activity:infrared-camera-conversion'
 author: JoshMc
 path: /notes/joshmc/10-12-2012/webcam-conversion-near-infrared.md
 nid: 4389
@@ -11,7 +13,7 @@ uid: 995
 
 # Webcam Conversion to (Near-) Infrared
 
-by [JoshMc](../profile/JoshMc) | October 13, 2012 03:12
+by [JoshMc](../../../profile/JoshMc) | October 13, 2012 03:12
 
 October 13, 2012 03:12 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [infrared](../tag/infrared), [webcam](../tag/webcam), [near-infrared](../tag/near-infrared), [ir](../tag/ir), [conversion](../tag/conversion), [filter](../tag/filter), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion)
 

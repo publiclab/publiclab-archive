@@ -1,5 +1,7 @@
 ---
-title: "NDVI out of the shadows"\ntagnames: 'near-infrared-camera, kite-mapping, grassrootsmapping, nrg, ndvi, vegetation-mapping'
+title: "NDVI out of the shadows"
+
+tagnames: 'near-infrared-camera, kite-mapping, grassrootsmapping, nrg, ndvi, vegetation-mapping'
 author: cfastie
 path: /notes/cfastie/5-15-2012/ndvi-out-shadows.md
 nid: 1991
@@ -11,7 +13,7 @@ uid: 554
 
 # NDVI out of the shadows
 
-by [cfastie](../profile/cfastie) | May 15, 2012 13:51
+by [cfastie](../../../profile/cfastie) | May 15, 2012 13:51
 
 May 15, 2012 13:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vegetation-mapping](../tag/vegetation-mapping)
 

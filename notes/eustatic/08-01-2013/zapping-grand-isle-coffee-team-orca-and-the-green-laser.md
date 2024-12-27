@@ -1,5 +1,7 @@
 ---
-title: "Zapping Grand Isle Coffee: Team Orca and the green laser"\ntagnames: 'gulf-coast, spectrometer, oil, spectrometry, sample-prep, bp, tarball, orca, response:8949'
+title: "Zapping Grand Isle Coffee: Team Orca and the green laser"
+
+tagnames: 'gulf-coast, spectrometer, oil, spectrometry, sample-prep, bp, tarball, orca, response:8949'
 author: eustatic
 path: /08-01-2013/zapping-grand-isle-coffee-team-orca-and-the-green-laser.md
 nid: 8955
@@ -11,7 +13,7 @@ uid: 379
 
 # Zapping Grand Isle Coffee: Team Orca and the green laser
 
-by [eustatic](../profile/eustatic) | August 01, 2013 19:53
+by [eustatic](../../../profile/eustatic) | August 01, 2013 19:53
 
 August 01, 2013 19:53 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [spectrometry](../tag/spectrometry), [sample-prep](../tag/sample-prep), [bp](../tag/bp), [tarball](../tag/tarball), [orca](../tag/orca), [response:8949](../tag/response:8949)
 

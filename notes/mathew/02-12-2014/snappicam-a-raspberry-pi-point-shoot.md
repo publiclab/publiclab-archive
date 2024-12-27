@@ -1,5 +1,7 @@
 ---
-title: "SnapPiCam: a Raspberry Pi Point & Shoot"\ntagnames: 'raspberry-pi, infragram, pi-camera, infragram-pi'
+title: "SnapPiCam: a Raspberry Pi Point & Shoot"
+
+tagnames: 'raspberry-pi, infragram, pi-camera, infragram-pi'
 author: mathew
 path: /notes/mathew/02-12-2014/snappicam-a-raspberry-pi-point-shoot.md
 nid: 10029
@@ -11,7 +13,7 @@ uid: 4
 
 # SnapPiCam: a Raspberry Pi Point & Shoot
 
-by [mathew](../profile/mathew) | February 12, 2014 01:00
+by [mathew](../../../profile/mathew) | February 12, 2014 01:00
 
 February 12, 2014 01:00 | Tags: [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [pi-camera](../tag/pi-camera), [infragram-pi](../tag/infragram-pi)
 

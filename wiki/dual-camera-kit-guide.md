@@ -1,5 +1,7 @@
 ---
-title: "Dual Camera Kit Guide"\ntagnames: 'near-infrared-camera, infrared, dual-camera, photo-rig'
+title: "Dual Camera Kit Guide"
+
+tagnames: 'near-infrared-camera, infrared, dual-camera, photo-rig'
 author: warren
 path: /wiki/dual-camera-kit-guide.md
 nid: 1758

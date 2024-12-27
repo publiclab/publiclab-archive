@@ -1,5 +1,7 @@
 ---
-title: "Welcome to Public Lab"\ntagnames: 'community, website, welcome, getting-started, newcomers, onboarding, style:minimal, content'
+title: "Welcome to Public Lab"
+
+tagnames: 'community, website, welcome, getting-started, newcomers, onboarding, style:minimal, content'
 author: warren
 path: /wiki/welcome.md
 nid: 1624

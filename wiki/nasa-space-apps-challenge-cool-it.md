@@ -1,5 +1,7 @@
 ---
-title: "NASA Space Apps Challenge: Cool It!"\ntagnames: 'nasa, epa, space-apps-challenge'
+title: "NASA Space Apps Challenge: Cool It!"
+
+tagnames: 'nasa, epa, space-apps-challenge'
 author: jmsaavedra
 path: /wiki/nasa-space-apps-challenge-cool-it.md
 nid: 10287

@@ -1,5 +1,7 @@
 ---
-title: "Louisiana Master Naturalist Map of Elmer's Island Spr 2014"\ntagnames: 'gulf-coast, kite-mapping, lmngno'
+title: "Louisiana Master Naturalist Map of Elmer's Island Spr 2014"
+
+tagnames: 'gulf-coast, kite-mapping, lmngno'
 author: eustatic
 path: /07-29-2014/louisiana-master-naturalist-map-fo-elmer-s-island-spr-2014.md
 nid: 10995
@@ -11,7 +13,7 @@ uid: 379
 
 # Louisiana Master Naturalist Map of Elmer's Island Spr 2014
 
-by [eustatic](../profile/eustatic) | July 29, 2014 20:25
+by [eustatic](../../../profile/eustatic) | July 29, 2014 20:25
 
 July 29, 2014 20:25 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [lmngno](../tag/lmngno)
 

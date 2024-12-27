@@ -1,5 +1,7 @@
 ---
-title: "Public Lab intro video script"\ntagnames: ''
+title: "Public Lab intro video script"
+
+tagnames: ''
 author: warren
 path: /wiki/public-lab-intro-video-script.md
 nid: 5718

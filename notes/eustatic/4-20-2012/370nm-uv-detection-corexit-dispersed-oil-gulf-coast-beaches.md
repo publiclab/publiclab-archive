@@ -1,5 +1,7 @@
 ---
-title: "370nm UV detection of Corexit-dispersed oil on Gulf Coast Beaches"\ntagnames: 'gulf-coast, spectrometer, uv, oil, ultraviolet, fluorescence, surfrider, corexit'
+title: "370nm UV detection of Corexit-dispersed oil on Gulf Coast Beaches"
+
+tagnames: 'gulf-coast, spectrometer, uv, oil, ultraviolet, fluorescence, surfrider, corexit'
 author: eustatic
 path: /4-20-2012/370nm-uv-detection-corexit-dispersed-oil-gulf-coast-beaches.md
 nid: 1724
@@ -11,7 +13,7 @@ uid: 379
 
 # 370nm UV detection of Corexit-dispersed oil on Gulf Coast Beaches
 
-by [eustatic](../profile/eustatic) | April 20, 2012 23:51
+by [eustatic](../../../profile/eustatic) | April 20, 2012 23:51
 
 April 20, 2012 23:51 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [uv](../tag/uv), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [surfrider](../tag/surfrider), [corexit](../tag/corexit)
 

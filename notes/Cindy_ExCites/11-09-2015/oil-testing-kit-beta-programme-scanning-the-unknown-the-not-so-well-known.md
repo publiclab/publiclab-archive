@@ -1,5 +1,7 @@
 ---
-title: "Oil testing kit Beta programme - Scanning the unknown & the not so well known…"\ntagnames: 'spectrometer, calibration, fluorescence, spectrometer-calibration, oil-testing-kit, oil-testing-kit-beta, oil-testing-kit-beta-calibration, response:12366'
+title: "Oil testing kit Beta programme - Scanning the unknown & the not so well known…"
+
+tagnames: 'spectrometer, calibration, fluorescence, spectrometer-calibration, oil-testing-kit, oil-testing-kit-beta, oil-testing-kit-beta-calibration, response:12366'
 author: cindy_excites
 path: /notes/Cindy_ExCites/11-09-2015/oil-testing-kit-beta-programme-scanning-the-unknown-the-not-so-well-known.md
 nid: 12389
@@ -11,7 +13,7 @@ uid: 1083
 
 # Oil testing kit Beta programme - Scanning the unknown & the not so well known…
 
-by [cindy_excites](../profile/cindy_excites) | November 09, 2015 18:07
+by [cindy_excites](../../../profile/cindy_excites) | November 09, 2015 18:07
 
 November 09, 2015 18:07 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [fluorescence](../tag/fluorescence), [spectrometer-calibration](../tag/spectrometer-calibration), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta), [oil-testing-kit-beta-calibration](../tag/oil-testing-kit-beta-calibration), [response:12366](../tag/response:12366)
 

@@ -1,5 +1,7 @@
 ---
-title: "Dealing with parallax"\ntagnames: 'near-infrared-camera, image-stitching, parallax, image-registration'
+title: "Dealing with parallax"
+
+tagnames: 'near-infrared-camera, image-stitching, parallax, image-registration'
 author: nedhorning
 path: /notes/nedhorning/3-26-2013/dealing-parallax.md
 nid: 6550
@@ -11,7 +13,7 @@ uid: 133
 
 # Dealing with parallax
 
-by [nedhorning](../profile/nedhorning) | March 27, 2013 01:06
+by [nedhorning](../../../profile/nedhorning) | March 27, 2013 01:06
 
 March 27, 2013 01:06 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [image-stitching](../tag/image-stitching), [parallax](../tag/parallax), [image-registration](../tag/image-registration)
 

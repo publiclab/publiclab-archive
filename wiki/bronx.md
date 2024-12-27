@@ -1,5 +1,7 @@
 ---
-title: "bronx"\ntagnames: 'new-york-city, bronx, parent:new-york-city'
+title: "bronx"
+
+tagnames: 'new-york-city, bronx, parent:new-york-city'
 author: liz
 path: /wiki/bronx.md
 nid: 12216

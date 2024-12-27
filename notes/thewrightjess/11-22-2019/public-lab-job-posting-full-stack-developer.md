@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Job Posting: Full Stack Developer"\ntagnames: 'jobs'
+title: "Public Lab Job Posting: Full Stack Developer"
+
+tagnames: 'jobs'
 author: thewrightjess
 path: /notes/thewrightjess/11-22-2019/public-lab-job-posting-full-stack-developer.md
 nid: 21554
@@ -11,7 +13,7 @@ uid: 603909
 
 # Public Lab Job Posting: Full Stack Developer
 
-by [thewrightjess](../profile/thewrightjess) | November 22, 2019 13:20
+by [thewrightjess](../../../profile/thewrightjess) | November 22, 2019 13:20
 
 November 22, 2019 13:20 | Tags: [jobs](../tag/jobs)
 

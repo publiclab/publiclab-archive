@@ -1,5 +1,7 @@
 ---
-title: "NYC Climate Justice Youth Summit"\ntagnames: 'new-york-city, event, climate-change, climate, event:rsvp, rsvp:liz, date:08-06-2015'
+title: "NYC Climate Justice Youth Summit"
+
+tagnames: 'new-york-city, event, climate-change, climate, event:rsvp, rsvp:liz, date:08-06-2015'
 author: liz
 path: /notes/liz/08-04-2015/nyc-climate-justice-youth-summit.md
 nid: 12121
@@ -11,7 +13,7 @@ uid: 7
 
 # NYC Climate Justice Youth Summit
 
-by [liz](../profile/liz) | August 04, 2015 16:57
+by [liz](../../../profile/liz) | August 04, 2015 16:57
 
 August 04, 2015 16:57 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [climate-change](../tag/climate-change), [climate](../tag/climate), [event:rsvp](../tag/event:rsvp), [rsvp:liz](../tag/rsvp:liz), [date:08-06-2015](../tag/date:08-06-2015)
 

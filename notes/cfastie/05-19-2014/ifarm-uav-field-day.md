@@ -1,5 +1,7 @@
 ---
-title: "iFarm UAV Field Day"\ntagnames: 'remote-sensing, boston, new-hampshire, farmhack, uav, agriculture, farm, event, garden, ifarm, crops, northeast, uas, ifarm2014, aerial-imaging, sensor-networks, internet-of-things, response:10461'
+title: "iFarm UAV Field Day"
+
+tagnames: 'remote-sensing, boston, new-hampshire, farmhack, uav, agriculture, farm, event, garden, ifarm, crops, northeast, uas, ifarm2014, aerial-imaging, sensor-networks, internet-of-things, response:10461'
 author: cfastie
 path: /notes/cfastie/05-19-2014/ifarm-uav-field-day.md
 nid: 10481
@@ -11,7 +13,7 @@ uid: 554
 
 # iFarm UAV Field Day
 
-by [cfastie](../profile/cfastie) | May 19, 2014 18:00
+by [cfastie](../../../profile/cfastie) | May 19, 2014 18:00
 
 May 19, 2014 18:00 | Tags: [remote-sensing](../tag/remote-sensing), [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [uav](../tag/uav), [agriculture](../tag/agriculture), [farm](../tag/farm), [event](../tag/event), [garden](../tag/garden), [ifarm](../tag/ifarm), [crops](../tag/crops), [northeast](../tag/northeast), [uas](../tag/uas), [ifarm2014](../tag/ifarm2014), [aerial-imaging](../tag/aerial-imaging), [sensor-networks](../tag/sensor-networks), [internet-of-things](../tag/internet-of-things), [response:10461](../tag/response:10461)
 

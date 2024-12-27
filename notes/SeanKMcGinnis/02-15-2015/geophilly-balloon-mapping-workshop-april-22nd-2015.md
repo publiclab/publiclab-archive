@@ -1,5 +1,7 @@
 ---
-title: "GeoPhilly Balloon Mapping Workshop - April 22nd, 2015"\ntagnames: 'balloon-mapping, philadelphia, event, new-jersey'
+title: "GeoPhilly Balloon Mapping Workshop - April 22nd, 2015"
+
+tagnames: 'balloon-mapping, philadelphia, event, new-jersey'
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/02-15-2015/geophilly-balloon-mapping-workshop-april-22nd-2015.md
 nid: 11589
@@ -11,7 +13,7 @@ uid: 552
 
 # GeoPhilly Balloon Mapping Workshop - April 22nd, 2015
 
-by [seankmcginnis](../profile/seankmcginnis) | February 15, 2015 20:15
+by [seankmcginnis](../../../profile/seankmcginnis) | February 15, 2015 20:15
 
 February 15, 2015 20:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [philadelphia](../tag/philadelphia), [event](../tag/event), [new-jersey](../tag/new-jersey)
 

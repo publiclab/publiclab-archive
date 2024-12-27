@@ -1,5 +1,7 @@
 ---
-title: "WasteWater Ponds on Google Earth"\ntagnames: 'california, ccejn, first-time-poster'
+title: "WasteWater Ponds on Google Earth"
+
+tagnames: 'california, ccejn, first-time-poster'
 author: ccampos
 path: /notes/ccampos/08-10-2015/wastewater-ponds-on-google-earth.md
 nid: 12133
@@ -11,7 +13,7 @@ uid: 446563
 
 # WasteWater Ponds on Google Earth
 
-by [ccampos](../profile/ccampos) | August 10, 2015 21:13
+by [ccampos](../../../profile/ccampos) | August 10, 2015 21:13
 
 August 10, 2015 21:13 | Tags: [california](../tag/california), [ccejn](../tag/ccejn), [first-time-poster](../tag/first-time-poster)
 

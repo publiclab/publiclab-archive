@@ -1,5 +1,7 @@
 ---
-title: "Flying off wind with the Dazzle Delta"\ntagnames: 'portland, kite-mapping, kite-fishing, kites, kite-techniques, off-wind-flying'
+title: "Flying off wind with the Dazzle Delta"
+
+tagnames: 'portland, kite-mapping, kite-fishing, kites, kite-techniques, off-wind-flying'
 author: mathew
 path: /notes/mathew/2-14-2013/flying-wind-dazzle-delta.md
 nid: 5983
@@ -11,7 +13,7 @@ uid: 4
 
 # Flying off wind with the Dazzle Delta
 
-by [mathew](../profile/mathew) | February 14, 2013 19:43
+by [mathew](../../../profile/mathew) | February 14, 2013 19:43
 
 February 14, 2013 19:43 | Tags: [portland](../tag/portland), [kite-mapping](../tag/kite-mapping), [kite-fishing](../tag/kite-fishing), [kites](../tag/kites), [kite-techniques](../tag/kite-techniques), [off-wind-flying](../tag/off-wind-flying)
 

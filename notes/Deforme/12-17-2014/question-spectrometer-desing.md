@@ -1,5 +1,7 @@
 ---
-title: "Question: Spectrometer Desing"\ntagnames: 'spectrometer, calibration, wavelength, question:spectometer, question:calibration, question:wavelength'
+title: "Question: Spectrometer Desing"
+
+tagnames: 'spectrometer, calibration, wavelength, question:spectometer, question:calibration, question:wavelength'
 author: Deforme
 path: /notes/Deforme/12-17-2014/question-spectrometer-desing.md
 nid: 11480
@@ -11,7 +13,7 @@ uid: 432880
 
 # Question: Spectrometer Desing
 
-by [Deforme](../profile/Deforme) | December 17, 2014 23:53
+by [Deforme](../../../profile/Deforme) | December 17, 2014 23:53
 
 December 17, 2014 23:53 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [wavelength](../tag/wavelength), [question:spectometer](../tag/question:spectometer), [question:calibration](../tag/question:calibration), [question:wavelength](../tag/question:wavelength)
 

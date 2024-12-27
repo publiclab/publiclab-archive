@@ -1,5 +1,7 @@
 ---
-title: "ShowerKAP II"\ntagnames: 'near-infrared-camera, kite-mapping, infrared, alaska, tundra, infragram, akrange'
+title: "ShowerKAP II"
+
+tagnames: 'near-infrared-camera, kite-mapping, infrared, alaska, tundra, infragram, akrange'
 author: cfastie
 path: /notes/cfastie/07-06-2013/showerkap-ii.md
 nid: 8727
@@ -11,7 +13,7 @@ uid: 554
 
 # ShowerKAP II
 
-by [cfastie](../profile/cfastie) | July 06, 2013 23:11
+by [cfastie](../../../profile/cfastie) | July 06, 2013 23:11
 
 July 06, 2013 23:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [alaska](../tag/alaska), [tundra](../tag/tundra), [infragram](../tag/infragram), [akrange](../tag/akrange)
 

@@ -1,5 +1,7 @@
 ---
-title: "Having Fun while Exploring a Sinking World"\ntagnames: 'new-york-city, gulf-coast, kite-mapping, wetlands, kite, mapping, barnraising, lat:29.382175, lon:-90.62622, place:cocodrie-louisiana'
+title: "Having Fun while Exploring a Sinking World"
+
+tagnames: 'new-york-city, gulf-coast, kite-mapping, wetlands, kite, mapping, barnraising, lat:29.382175, lon:-90.62622, place:cocodrie-louisiana'
 author: eymund
 path: /notes/eymund/12-14-2014/having-fun-while-exploring-a-sinking-world.md
 nid: 11455
@@ -11,7 +13,7 @@ uid: 1016
 
 # Having Fun while Exploring a Sinking World
 
-by [eymund](../profile/eymund) | December 14, 2014 13:19
+by [eymund](../../../profile/eymund) | December 14, 2014 13:19
 
 December 14, 2014 13:19 | Tags: [new-york-city](../tag/new-york-city), [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [kite](../tag/kite), [mapping](../tag/mapping), [barnraising](../tag/barnraising), [lat:29.382175](../tag/lat:29.382175), [lon:-90.62622](../tag/lon:-90.62622), [place:cocodrie-louisiana](../tag/place:cocodrie-louisiana)
 

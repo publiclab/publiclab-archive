@@ -1,5 +1,7 @@
 ---
-title: "Educating a New Generation of Advocates"\ntagnames: 'gulf-coast, balloon-mapping, water-quality, blog, gulfport, turkey-creek, csf15'
+title: "Educating a New Generation of Advocates"
+
+tagnames: 'gulf-coast, balloon-mapping, water-quality, blog, gulfport, turkey-creek, csf15'
 author: joyofsoy
 path: /notes/joyofsoy/10-24-2018/educating-a-new-generation-of-advocates.md
 nid: 17387
@@ -11,7 +13,7 @@ uid: 540844
 
 # Educating a New Generation of Advocates
 
-by [joyofsoy](../profile/joyofsoy) | October 24, 2018 19:10
+by [joyofsoy](../../../profile/joyofsoy) | October 24, 2018 19:10
 
 October 24, 2018 19:10 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [water-quality](../tag/water-quality), [blog](../tag/blog), [gulfport](../tag/gulfport), [turkey-creek](../tag/turkey-creek), [csf15](../tag/csf15)
 

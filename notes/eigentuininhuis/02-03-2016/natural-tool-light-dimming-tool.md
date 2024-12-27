@@ -1,5 +1,7 @@
 ---
-title: "Natural tool light dimming tool"\ntagnames: 'spectrometer, mango'
+title: "Natural tool light dimming tool"
+
+tagnames: 'spectrometer, mango'
 author: eigentuininhuis
 path: /notes/eigentuininhuis/02-03-2016/natural-tool-light-dimming-tool.md
 nid: 12650
@@ -11,7 +13,7 @@ uid: 460522
 
 # Natural tool light dimming tool
 
-by [eigentuininhuis](../profile/eigentuininhuis) | February 03, 2016 23:48
+by [eigentuininhuis](../../../profile/eigentuininhuis) | February 03, 2016 23:48
 
 February 03, 2016 23:48 | Tags: [spectrometer](../tag/spectrometer), [mango](../tag/mango)
 

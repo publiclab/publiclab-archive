@@ -1,5 +1,7 @@
 ---
-title: "Exhibition and Mapping Workshops in Bourj Al Shamali"\ntagnames: 'balloon-mapping, exhibition, bourjalshamali'
+title: "Exhibition and Mapping Workshops in Bourj Al Shamali"
+
+tagnames: 'balloon-mapping, exhibition, bourjalshamali'
 author: firas
 path: /notes/firas/03-13-2017/exhibition-and-mapping-workshops-in-bourj-al-shamali.md
 nid: 14007
@@ -11,7 +13,7 @@ uid: 448963
 
 # Exhibition and Mapping Workshops in Bourj Al Shamali
 
-by [firas](../profile/firas) | March 13, 2017 17:31
+by [firas](../../../profile/firas) | March 13, 2017 17:31
 
 March 13, 2017 17:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [exhibition](../tag/exhibition), [bourjalshamali](../tag/bourjalshamali)
 

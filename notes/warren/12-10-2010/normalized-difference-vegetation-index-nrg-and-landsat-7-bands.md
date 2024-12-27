@@ -1,5 +1,7 @@
 ---
-title: "Normalized Difference Vegetation Index, NRG, and Landsat 7 bands"\ntagnames: 'near-infrared-camera, ndvi, landsat, satellite-imagery'
+title: "Normalized Difference Vegetation Index, NRG, and Landsat 7 bands"
+
+tagnames: 'near-infrared-camera, ndvi, landsat, satellite-imagery'
 author: warren
 path: /notes/warren/12-10-2010/normalized-difference-vegetation-index-nrg-and-landsat-7-bands.md
 nid: 23
@@ -9,7 +11,7 @@ uid: 1
 
 # Normalized Difference Vegetation Index, NRG, and Landsat 7 bands
 
-by [warren](../profile/warren) | December 11, 2010 01:18
+by [warren](../../../profile/warren) | December 11, 2010 01:18
 
 December 11, 2010 01:18 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [landsat](../tag/landsat), [satellite-imagery](../tag/satellite-imagery)
 

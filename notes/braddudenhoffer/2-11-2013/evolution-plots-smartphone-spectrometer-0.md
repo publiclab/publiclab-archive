@@ -1,5 +1,7 @@
 ---
-title: "The Evolution of the PLOTS Smartphone Spectrometer"\ntagnames: 'spectrometer, mobile-spectrometer, backpack, first-time-poster'
+title: "The Evolution of the PLOTS Smartphone Spectrometer"
+
+tagnames: 'spectrometer, mobile-spectrometer, backpack, first-time-poster'
 author: BradDudenhoffer
 path: /notes/braddudenhoffer/2-11-2013/evolution-plots-smartphone-spectrometer-0.md
 nid: 5949
@@ -11,7 +13,7 @@ uid: 571
 
 # The Evolution of the PLOTS Smartphone Spectrometer
 
-by [BradDudenhoffer](../profile/BradDudenhoffer) | February 12, 2013 01:10
+by [BradDudenhoffer](../../../profile/BradDudenhoffer) | February 12, 2013 01:10
 
 February 12, 2013 01:10 | Tags: [spectrometer](../tag/spectrometer), [mobile-spectrometer](../tag/mobile-spectrometer), [backpack](../tag/backpack), [first-time-poster](../tag/first-time-poster)
 

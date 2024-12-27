@@ -1,5 +1,7 @@
 ---
-title: "Heavy duty waist mounted kite fishing winder from Japan"\ntagnames: 'balloon-mapping, kite-mapping, kap, photo-rig, winder'
+title: "Heavy duty waist mounted kite fishing winder from Japan"
+
+tagnames: 'balloon-mapping, kite-mapping, kap, photo-rig, winder'
 author: gonzoearth
 path: /notes/gonzoearth/05-20-2013/heavy-duty-waist-mounted-kite-fishing-winder-from-japan.md
 nid: 7717
@@ -11,7 +13,7 @@ uid: 12
 
 # Heavy duty waist mounted kite fishing winder from Japan
 
-by [gonzoearth](../profile/gonzoearth) | May 20, 2013 03:29
+by [gonzoearth](../../../profile/gonzoearth) | May 20, 2013 03:29
 
 May 20, 2013 03:29 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [winder](../tag/winder)
 

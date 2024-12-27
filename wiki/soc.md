@@ -1,5 +1,7 @@
 ---
-title: "soc"\ntagnames: 'redirect:gsoc'
+title: "soc"
+
+tagnames: 'redirect:gsoc'
 author: warren
 path: /wiki/soc.md
 nid: 24583

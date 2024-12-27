@@ -1,5 +1,7 @@
 ---
-title: "build of the microscope kit"\ntagnames: 'calibration, africa, microscope, location:blurred, lat:0, lon:10, community-microscope, cameroon, place:cameroon, first-time-poster'
+title: "build of the microscope kit"
+
+tagnames: 'calibration, africa, microscope, location:blurred, lat:0, lon:10, community-microscope, cameroon, place:cameroon, first-time-poster'
 author: luglimbe
 path: /notes/luglimbe/09-21-2018/build-of-the-microscope-kit.md
 nid: 17148
@@ -11,7 +13,7 @@ uid: 546059
 
 # build of the microscope kit
 
-by [luglimbe](../profile/luglimbe) | September 21, 2018 11:24
+by [luglimbe](../../../profile/luglimbe) | September 21, 2018 11:24
 
 September 21, 2018 11:24 | Tags: [calibration](../tag/calibration), [africa](../tag/africa), [microscope](../tag/microscope), [location:blurred](../tag/location:blurred), [lat:0](../tag/lat:0), [lon:10](../tag/lon:10), [community-microscope](../tag/community-microscope), [cameroon](../tag/cameroon), [place:cameroon](../tag/place:cameroon), [first-time-poster](../tag/first-time-poster)
 

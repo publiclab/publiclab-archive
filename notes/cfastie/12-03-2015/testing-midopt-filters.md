@@ -1,5 +1,7 @@
 ---
-title: "Testing MIDOPT filters"\ntagnames: 'ndvi, infrared, filter, infragram, plant-health, dualband, midopt, response:12442'
+title: "Testing MIDOPT filters"
+
+tagnames: 'ndvi, infrared, filter, infragram, plant-health, dualband, midopt, response:12442'
 author: cfastie
 path: /notes/cfastie/12-03-2015/testing-midopt-filters.md
 nid: 12473
@@ -11,7 +13,7 @@ uid: 554
 
 # Testing MIDOPT filters
 
-by [cfastie](../profile/cfastie) | December 03, 2015 03:54
+by [cfastie](../../../profile/cfastie) | December 03, 2015 03:54
 
 December 03, 2015 03:54 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [response:12442](../tag/response:12442)
 

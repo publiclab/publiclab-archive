@@ -1,5 +1,7 @@
 ---
-title: "A Timeline for June 10th Climate Rain"\ntagnames: 'zoom:6, zoom:16, lat:30.024887, lon:-90.068482, lat:30.024884, lon:-90.068472'
+title: "A Timeline for June 10th Climate Rain"
+
+tagnames: 'zoom:6, zoom:16, lat:30.024887, lon:-90.068482, lat:30.024884, lon:-90.068472'
 author: eustatic
 path: /06-12-2020/do-your-ears-work-better-than-the-nws-alert-system-for-climate-rains.md
 nid: 23832
@@ -11,7 +13,7 @@ uid: 379
 
 # A Timeline for June 10th Climate Rain
 
-by [eustatic](../profile/eustatic) | June 12, 2020 17:56
+by [eustatic](../../../profile/eustatic) | June 12, 2020 17:56
 
 June 12, 2020 17:56 | Tags: [zoom:6](../tag/zoom:6), [zoom:16](../tag/zoom:16), [lat:30.024887](../tag/lat:30.024887), [lon:-90.068482](../tag/lon:-90.068482), [lat:30.024884](../tag/lat:30.024884), [lon:-90.068472](../tag/lon:-90.068472)
 

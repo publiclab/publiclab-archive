@@ -1,5 +1,7 @@
 ---
-title: "Start Here"\ntagnames: 'elp, mental-mapping, parent:gardening-toolkit, gardening-toolkit'
+title: "Start Here"
+
+tagnames: 'elp, mental-mapping, parent:gardening-toolkit, gardening-toolkit'
 author: liz
 path: /wiki/start-here.md
 nid: 11483

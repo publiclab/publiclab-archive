@@ -1,5 +1,7 @@
 ---
-title: "Oil Testing Event"\ntagnames: 'event, oil-testing, parent:oil-testing-kit, activity:teach-and-learn, activity:events'
+title: "Oil Testing Event"
+
+tagnames: 'event, oil-testing, parent:oil-testing-kit, activity:teach-and-learn, activity:events'
 author: liz
 path: /wiki/oil-testing-event.md
 nid: 11304

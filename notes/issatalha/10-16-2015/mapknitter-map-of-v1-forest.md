@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of v1 forest"\ntagnames: 'mapknitter, lat:43.4703411796, lon:-80.5492633581'
+title: "MapKnitter map of v1 forest"
+
+tagnames: 'mapknitter, lat:43.4703411796, lon:-80.5492633581'
 author: issatalha
 path: /notes/issatalha/10-16-2015/mapknitter-map-of-v1-forest.md
 nid: 12312
@@ -9,7 +11,7 @@ uid: 454532
 
 # MapKnitter map of v1 forest
 
-by [issatalha](../profile/issatalha) | October 16, 2015 04:34
+by [issatalha](../../../profile/issatalha) | October 16, 2015 04:34
 
 October 16, 2015 04:34 | Tags: [mapknitter](../tag/mapknitter), [lat:43.4703411796](../tag/lat:43.4703411796), [lon:-80.5492633581](../tag/lon:-80.5492633581)
 

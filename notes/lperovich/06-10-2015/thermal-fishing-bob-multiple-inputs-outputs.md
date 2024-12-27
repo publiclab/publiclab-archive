@@ -1,5 +1,7 @@
 ---
-title: "Thermal Fishing Bob: multiple inputs/outputs "\ntagnames: 'thermal-fishing-bob, activity:thermal-fishing-bob, first-time-poster'
+title: "Thermal Fishing Bob: multiple inputs/outputs "
+
+tagnames: 'thermal-fishing-bob, activity:thermal-fishing-bob, first-time-poster'
 author: lperovich
 path: /notes/lperovich/06-10-2015/thermal-fishing-bob-multiple-inputs-outputs.md
 nid: 11964
@@ -11,7 +13,7 @@ uid: 443410
 
 # Thermal Fishing Bob: multiple inputs/outputs 
 
-by [lperovich](../profile/lperovich) | June 10, 2015 15:28
+by [lperovich](../../../profile/lperovich) | June 10, 2015 15:28
 
 June 10, 2015 15:28 | Tags: [thermal-fishing-bob](../tag/thermal-fishing-bob), [activity:thermal-fishing-bob](../tag/activity:thermal-fishing-bob), [first-time-poster](../tag/first-time-poster)
 

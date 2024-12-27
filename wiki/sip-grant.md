@@ -1,5 +1,7 @@
 ---
-title: "SIP Grant"\ntagnames: ''
+title: "SIP Grant"
+
+tagnames: ''
 author: warren
 path: /wiki/sip-grant.md
 nid: 1488

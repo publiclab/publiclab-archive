@@ -1,5 +1,7 @@
 ---
-title: "How can I create and work on my own issue in Github? "\ntagnames: 'web-development, github, wwg, question:website'
+title: "How can I create and work on my own issue in Github? "
+
+tagnames: 'web-development, github, wwg, question:website'
 author: bsugar
 path: /notes/bsugar/05-12-2019/how-can-i-create-and-work-on-my-own-issue-in-github.md
 nid: 19308
@@ -9,7 +11,7 @@ uid: 217812
 
 # How can I create and work on my own issue in Github? 
 
-by [bsugar](../profile/bsugar) | May 12, 2019 17:57
+by [bsugar](../../../profile/bsugar) | May 12, 2019 17:57
 
 May 12, 2019 17:57 | Tags: [web-development](../tag/web-development), [github](../tag/github), [wwg](../tag/wwg), [question:website](../tag/question:website)
 

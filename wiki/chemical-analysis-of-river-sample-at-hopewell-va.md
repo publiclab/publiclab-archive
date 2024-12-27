@@ -1,5 +1,7 @@
 ---
-title: "CHEMICAL ANALYSIS OF RIVER SAMPLE AT HOPEWELL VA"\ntagnames: 'southeast, protocol'
+title: "CHEMICAL ANALYSIS OF RIVER SAMPLE AT HOPEWELL VA"
+
+tagnames: 'southeast, protocol'
 author: dhaffnersr
 path: /wiki/chemical-analysis-of-river-sample-at-hopewell-va.md
 nid: 12586

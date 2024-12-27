@@ -1,5 +1,7 @@
 ---
-title: "ucsc-trees-test"\ntagnames: ''
+title: "ucsc-trees-test"
+
+tagnames: ''
 author: 
 path: /notes/5-6-2012/ucsc-trees-test.md
 nid: 2096
@@ -11,7 +13,7 @@ uid: 0
 
 # ucsc-trees-test
 
-by [](../profile/) | May 07, 2012 00:44
+by [](../../../profile/) | May 07, 2012 00:44
 
 May 07, 2012 00:44 | Tags: 
 

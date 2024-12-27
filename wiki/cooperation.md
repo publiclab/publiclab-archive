@@ -1,5 +1,7 @@
 ---
-title: "cooperation"\ntagnames: 'boston'
+title: "cooperation"
+
+tagnames: 'boston'
 author: donblair
 path: /wiki/cooperation.md
 nid: 11179

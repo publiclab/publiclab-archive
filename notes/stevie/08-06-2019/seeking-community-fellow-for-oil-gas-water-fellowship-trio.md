@@ -1,5 +1,7 @@
 ---
-title: "Seeking Community Fellow for Oil & Gas Water Fellowship Trio"\ntagnames: 'gulf-coast, community, organizers, water-quality, water, jobs, fellows, fellowship, oil-and-gas-water-trio'
+title: "Seeking Community Fellow for Oil & Gas Water Fellowship Trio"
+
+tagnames: 'gulf-coast, community, organizers, water-quality, water, jobs, fellows, fellowship, oil-and-gas-water-trio'
 author: stevie
 path: /notes/stevie/08-06-2019/seeking-community-fellow-for-oil-gas-water-fellowship-trio.md
 nid: 20445
@@ -11,7 +13,7 @@ uid: 422561
 
 # Seeking Community Fellow for Oil & Gas Water Fellowship Trio
 
-by [stevie](../profile/stevie) | August 06, 2019 16:44
+by [stevie](../../../profile/stevie) | August 06, 2019 16:44
 
 August 06, 2019 16:44 | Tags: [gulf-coast](../tag/gulf-coast), [community](../tag/community), [organizers](../tag/organizers), [water-quality](../tag/water-quality), [water](../tag/water), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 

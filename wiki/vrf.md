@@ -1,5 +1,7 @@
 ---
-title: "vrf"\ntagnames: 'redirect:19661'
+title: "vrf"
+
+tagnames: 'redirect:19661'
 author: joyofsoy
 path: /wiki/vrf.md
 nid: 22765

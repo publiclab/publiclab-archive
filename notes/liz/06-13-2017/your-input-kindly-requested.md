@@ -1,5 +1,7 @@
 ---
-title: "Your input kindly requested on the 2017 Community Survey!"\ntagnames: 'community, evaluation'
+title: "Your input kindly requested on the 2017 Community Survey!"
+
+tagnames: 'community, evaluation'
 author: liz
 path: /notes/liz/06-13-2017/your-input-kindly-requested.md
 nid: 14532
@@ -11,7 +13,7 @@ uid: 7
 
 # Your input kindly requested on the 2017 Community Survey!
 
-by [liz](../profile/liz) | June 13, 2017 21:31
+by [liz](../../../profile/liz) | June 13, 2017 21:31
 
 June 13, 2017 21:31 | Tags: [community](../tag/community), [evaluation](../tag/evaluation)
 

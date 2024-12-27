@@ -1,5 +1,7 @@
 ---
-title: "Legacy oil spills under Pfizer building"\ntagnames: 'new-york-city'
+title: "Legacy oil spills under Pfizer building"
+
+tagnames: 'new-york-city'
 author: liz
 path: /notes/liz/12-07-2015/legacy-oil-spills-under-pfizer-building.md
 nid: 12485
@@ -11,7 +13,7 @@ uid: 7
 
 # Legacy oil spills under Pfizer building
 
-by [liz](../profile/liz) | December 07, 2015 19:44
+by [liz](../../../profile/liz) | December 07, 2015 19:44
 
 December 07, 2015 19:44 | Tags: [new-york-city](../tag/new-york-city)
 

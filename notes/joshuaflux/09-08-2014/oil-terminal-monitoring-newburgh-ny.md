@@ -1,5 +1,7 @@
 ---
-title: "Oil Terminal Monitoring - Newburgh (NY)"\ntagnames: 'new-york, oil, tar-sands, bakken, oil-testing-kit, tar, valley, hudson, newburgh, sands, hudson-valley, first-time-poster'
+title: "Oil Terminal Monitoring - Newburgh (NY)"
+
+tagnames: 'new-york, oil, tar-sands, bakken, oil-testing-kit, tar, valley, hudson, newburgh, sands, hudson-valley, first-time-poster'
 author: joshuaflux
 path: /notes/joshuaflux/09-08-2014/oil-terminal-monitoring-newburgh-ny.md
 nid: 11117
@@ -11,7 +13,7 @@ uid: 425404
 
 # Oil Terminal Monitoring - Newburgh (NY)
 
-by [joshuaflux](../profile/joshuaflux) | September 08, 2014 16:43
+by [joshuaflux](../../../profile/joshuaflux) | September 08, 2014 16:43
 
 September 08, 2014 16:43 | Tags: [new-york](../tag/new-york), [oil](../tag/oil), [tar-sands](../tag/tar-sands), [bakken](../tag/bakken), [oil-testing-kit](../tag/oil-testing-kit), [tar](../tag/tar), [valley](../tag/valley), [hudson](../tag/hudson), [newburgh](../tag/newburgh), [sands](../tag/sands), [hudson-valley](../tag/hudson-valley), [first-time-poster](../tag/first-time-poster)
 

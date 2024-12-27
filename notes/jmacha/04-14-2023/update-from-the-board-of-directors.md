@@ -1,5 +1,7 @@
 ---
-title: "Update from the Board of Directors"\ntagnames: 'education, barnraising, organizing, air, blog, water, land'
+title: "Update from the Board of Directors"
+
+tagnames: 'education, barnraising, organizing, air, blog, water, land'
 author: jmacha
 path: /notes/jmacha/04-14-2023/update-from-the-board-of-directors.md
 nid: 38806
@@ -9,7 +11,7 @@ uid: 423019
 
 # Update from the Board of Directors
 
-by [jmacha](../profile/jmacha) | April 14, 2023 20:25
+by [jmacha](../../../profile/jmacha) | April 14, 2023 20:25
 
 April 14, 2023 20:25 | Tags: [education](../tag/education), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [air](../tag/air), [blog](../tag/blog), [water](../tag/water), [land](../tag/land)
 

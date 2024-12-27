@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal: "\ntagnames: 'software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster'
+title: "Outreachy proposal: "
+
+tagnames: 'software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster'
 author: faithngetich188
 path: /notes/faithngetich188/11-02-2018/outreachy-proposal.md
 nid: 17468
@@ -9,7 +11,7 @@ uid: 555582
 
 # Outreachy proposal: 
 
-by [faithngetich188](../profile/faithngetich188) | November 02, 2018 20:40
+by [faithngetich188](../../../profile/faithngetich188) | November 02, 2018 20:40
 
 November 02, 2018 20:40 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
 

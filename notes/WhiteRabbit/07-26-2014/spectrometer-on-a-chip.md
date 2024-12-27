@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer on a chip"\ntagnames: 'spectrometer, chip'
+title: "Spectrometer on a chip"
+
+tagnames: 'spectrometer, chip'
 author: WhiteRabbit
 path: /notes/WhiteRabbit/07-26-2014/spectrometer-on-a-chip.md
 nid: 10981
@@ -11,7 +13,7 @@ uid: 425996
 
 # Spectrometer on a chip
 
-by [WhiteRabbit](../profile/WhiteRabbit) | July 26, 2014 20:08
+by [WhiteRabbit](../../../profile/WhiteRabbit) | July 26, 2014 20:08
 
 July 26, 2014 20:08 | Tags: [spectrometer](../tag/spectrometer), [chip](../tag/chip)
 

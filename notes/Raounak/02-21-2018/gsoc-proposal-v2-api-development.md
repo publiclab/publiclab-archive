@@ -1,5 +1,7 @@
 ---
-title: "GSoC proposal: v2 API development | Grape | Swagger Specification"\ntagnames: 'software, gsoc, grapes, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, rest-api, rails-api, swagger, soc-2018-api'
+title: "GSoC proposal: v2 API development | Grape | Swagger Specification"
+
+tagnames: 'software, gsoc, grapes, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, rest-api, rails-api, swagger, soc-2018-api'
 author: Raounak
 path: /notes/Raounak/02-21-2018/gsoc-proposal-v2-api-development.md
 nid: 15790
@@ -11,7 +13,7 @@ uid: 525706
 
 # GSoC proposal: v2 API development | Grape | Swagger Specification
 
-by [Raounak](../profile/Raounak) | February 21, 2018 09:11
+by [Raounak](../../../profile/Raounak) | February 21, 2018 09:11
 
 February 21, 2018 09:11 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [grapes](../tag/grapes), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [rest-api](../tag/rest-api), [rails-api](../tag/rails-api), [swagger](../tag/swagger), [soc-2018-api](../tag/soc-2018-api)
 

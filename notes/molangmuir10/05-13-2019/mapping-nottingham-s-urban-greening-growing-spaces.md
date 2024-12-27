@@ -1,5 +1,7 @@
 ---
-title: "Mapping Nottingham's urban greening & growing spaces (UK)"\ntagnames: 'balloon-mapping, first-time-poster, community-atlas, lat:52.948637, lon:-1.16455, community-mapping-fellows, urbangreeninginnottingham'
+title: "Mapping Nottingham's urban greening & growing spaces (UK)"
+
+tagnames: 'balloon-mapping, first-time-poster, community-atlas, lat:52.948637, lon:-1.16455, community-mapping-fellows, urbangreeninginnottingham'
 author: molangmuir10
 path: /notes/molangmuir10/05-13-2019/mapping-nottingham-s-urban-greening-growing-spaces.md
 nid: 19394
@@ -11,7 +13,7 @@ uid: 589023
 
 # Mapping Nottingham's urban greening & growing spaces (UK)
 
-by [molangmuir10](../profile/molangmuir10) | May 13, 2019 22:05
+by [molangmuir10](../../../profile/molangmuir10) | May 13, 2019 22:05
 
 May 13, 2019 22:05 | Tags: [balloon-mapping](../tag/balloon-mapping), [first-time-poster](../tag/first-time-poster), [community-atlas](../tag/community-atlas), [lat:52.948637](../tag/lat:52.948637), [lon:-1.16455](../tag/lon:-1.16455), [community-mapping-fellows](../tag/community-mapping-fellows), [urbangreeninginnottingham](../tag/urbangreeninginnottingham)
 

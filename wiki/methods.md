@@ -1,5 +1,7 @@
 ---
-title: "Methods"\ntagnames: 'methods, organization'
+title: "Methods"
+
+tagnames: 'methods, organization'
 author: warren
 path: /wiki/methods.md
 nid: 14859

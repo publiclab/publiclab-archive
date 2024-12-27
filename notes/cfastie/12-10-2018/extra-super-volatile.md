@@ -1,5 +1,7 @@
 ---
-title: "Extra Super Volatile"\ntagnames: 'arduino, air-quality, sensors, dust, indoor-air-quality-monitoring, hardware, data-logging, activity:particulate-monitoring, activity:arduino, nano-data-logger, activity:nano-data-logger, activity:data-logging, air-sensors, purpleair, plantower, pms7003, air-quality-monitoring, ccs811-gas-sensor'
+title: "Extra Super Volatile"
+
+tagnames: 'arduino, air-quality, sensors, dust, indoor-air-quality-monitoring, hardware, data-logging, activity:particulate-monitoring, activity:arduino, nano-data-logger, activity:nano-data-logger, activity:data-logging, air-sensors, purpleair, plantower, pms7003, air-quality-monitoring, ccs811-gas-sensor'
 author: cfastie
 path: /notes/cfastie/12-10-2018/extra-super-volatile.md
 nid: 17848
@@ -11,7 +13,7 @@ uid: 554
 
 # Extra Super Volatile
 
-by [cfastie](../profile/cfastie) | December 10, 2018 05:31
+by [cfastie](../../../profile/cfastie) | December 10, 2018 05:31
 
 December 10, 2018 05:31 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [sensors](../tag/sensors), [dust](../tag/dust), [indoor-air-quality-monitoring](../tag/indoor-air-quality-monitoring), [hardware](../tag/hardware), [data-logging](../tag/data-logging), [activity:particulate-monitoring](../tag/activity:particulate-monitoring), [activity:arduino](../tag/activity:arduino), [nano-data-logger](../tag/nano-data-logger), [activity:nano-data-logger](../tag/activity:nano-data-logger), [activity:data-logging](../tag/activity:data-logging), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [pms7003](../tag/pms7003), [air-quality-monitoring](../tag/air-quality-monitoring), [ccs811-gas-sensor](../tag/ccs811-gas-sensor)
 

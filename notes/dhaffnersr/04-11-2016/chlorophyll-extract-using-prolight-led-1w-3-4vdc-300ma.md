@@ -1,5 +1,7 @@
 ---
-title: "Chlorophyll extract using prolight LED (1W 3.4vdc 300mA)"\ntagnames: ''
+title: "Chlorophyll extract using prolight LED (1W 3.4vdc 300mA)"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-11-2016/chlorophyll-extract-using-prolight-led-1w-3-4vdc-300ma.md
 nid: 12957
@@ -11,7 +13,7 @@ uid: 461120
 
 # Chlorophyll extract using prolight LED (1W 3.4vdc 300mA)
 
-by [dhaffnersr](../profile/dhaffnersr) | April 11, 2016 16:52
+by [dhaffnersr](../../../profile/dhaffnersr) | April 11, 2016 16:52
 
 April 11, 2016 16:52 | Tags: 
 

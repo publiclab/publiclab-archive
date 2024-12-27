@@ -1,5 +1,7 @@
 ---
-title: "Newtown Creek Alliance public meeting"\ntagnames: 'new-york-city, newtown-creek, event, superfund, northeast, event:rsvp, date:11-18-2014'
+title: "Newtown Creek Alliance public meeting"
+
+tagnames: 'new-york-city, newtown-creek, event, superfund, northeast, event:rsvp, date:11-18-2014'
 author: liz
 path: /notes/liz/11-18-2014/newtown-creek-alliance-public-meeting.md
 nid: 11367
@@ -11,7 +13,7 @@ uid: 7
 
 # Newtown Creek Alliance public meeting
 
-by [liz](../profile/liz) | November 18, 2014 21:24
+by [liz](../../../profile/liz) | November 18, 2014 21:24
 
 November 18, 2014 21:24 | Tags: [new-york-city](../tag/new-york-city), [newtown-creek](../tag/newtown-creek), [event](../tag/event), [superfund](../tag/superfund), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [date:11-18-2014](../tag/date:11-18-2014)
 

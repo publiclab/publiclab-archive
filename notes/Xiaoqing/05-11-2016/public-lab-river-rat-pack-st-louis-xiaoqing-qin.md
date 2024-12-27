@@ -1,5 +1,7 @@
 ---
-title: "Public Lab River Rat Pack -- St. Louis – Xiaoqing Qin"\ntagnames: 'balloon-mapping, blog, mississippi-river, mid-west, missouri, publiclabriverratpack, antidrone, stlouis, response:13093'
+title: "Public Lab River Rat Pack -- St. Louis – Xiaoqing Qin"
+
+tagnames: 'balloon-mapping, blog, mississippi-river, mid-west, missouri, publiclabriverratpack, antidrone, stlouis, response:13093'
 author: Xiaoqing
 path: /notes/Xiaoqing/05-11-2016/public-lab-river-rat-pack-st-louis-xiaoqing-qin.md
 nid: 13102
@@ -11,7 +13,7 @@ uid: 473184
 
 # Public Lab River Rat Pack -- St. Louis – Xiaoqing Qin
 
-by [Xiaoqing](../profile/Xiaoqing) | May 11, 2016 17:04
+by [Xiaoqing](../../../profile/Xiaoqing) | May 11, 2016 17:04
 
 May 11, 2016 17:04 | Tags: [balloon-mapping](../tag/balloon-mapping), [blog](../tag/blog), [mississippi-river](../tag/mississippi-river), [mid-west](../tag/mid-west), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [antidrone](../tag/antidrone), [stlouis](../tag/stlouis), [response:13093](../tag/response:13093)
 

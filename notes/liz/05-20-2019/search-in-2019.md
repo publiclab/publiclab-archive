@@ -1,5 +1,7 @@
 ---
-title: "Search in 2019"\ntagnames: 'website, search, code, wwg, ui'
+title: "Search in 2019"
+
+tagnames: 'website, search, code, wwg, ui'
 author: liz
 path: /notes/liz/05-20-2019/search-in-2019.md
 nid: 19466
@@ -11,7 +13,7 @@ uid: 7
 
 # Search in 2019
 
-by [liz](../profile/liz) | May 20, 2019 18:38
+by [liz](../../../profile/liz) | May 20, 2019 18:38
 
 May 20, 2019 18:38 | Tags: [website](../tag/website), [search](../tag/search), [code](../tag/code), [wwg](../tag/wwg), [ui](../tag/ui)
 

@@ -1,5 +1,7 @@
 ---
-title: "Goal-Setting for Upcoming GLAM Event"\ntagnames: 'new-york-city, gowanus, gowanus-canal, brooklyn, gowanus-canal-conservancy, event, glam, northeast, goal-setting, first-time-poster'
+title: "Goal-Setting for Upcoming GLAM Event"
+
+tagnames: 'new-york-city, gowanus, gowanus-canal, brooklyn, gowanus-canal-conservancy, event, glam, northeast, goal-setting, first-time-poster'
 author: yvv
 path: /notes/yvv/08-19-2014/goal-setting-for-upcoming-glam-event.md
 nid: 11066
@@ -11,7 +13,7 @@ uid: 427257
 
 # Goal-Setting for Upcoming GLAM Event
 
-by [yvv](../profile/yvv) | August 19, 2014 21:06
+by [yvv](../../../profile/yvv) | August 19, 2014 21:06
 
 August 19, 2014 21:06 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [gowanus-canal](../tag/gowanus-canal), [brooklyn](../tag/brooklyn), [gowanus-canal-conservancy](../tag/gowanus-canal-conservancy), [event](../tag/event), [glam](../tag/glam), [northeast](../tag/northeast), [goal-setting](../tag/goal-setting), [first-time-poster](../tag/first-time-poster)
 

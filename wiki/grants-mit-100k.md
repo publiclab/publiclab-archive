@@ -1,5 +1,7 @@
 ---
-title: "Grants: MIT 100k"\ntagnames: 'education, kits, curriculum, baloon-mapping, grants, proposal, do_your_own_baloon_mapping'
+title: "Grants: MIT 100k"
+
+tagnames: 'education, kits, curriculum, baloon-mapping, grants, proposal, do_your_own_baloon_mapping'
 author: warren
 path: /wiki/grants-mit-100k.md
 nid: 113

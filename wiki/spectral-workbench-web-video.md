@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench web video"\ntagnames: 'spectralworkbench'
+title: "Spectral Workbench web video"
+
+tagnames: 'spectralworkbench'
 author: warren
 path: /wiki/spectral-workbench-web-video.md
 nid: 2430

@@ -1,5 +1,7 @@
 ---
-title: "Public Lab River Rat Pack-St. Louis-Nina"\ntagnames: 'mid-west, publiclabriverratpack, stlouis'
+title: "Public Lab River Rat Pack-St. Louis-Nina"
+
+tagnames: 'mid-west, publiclabriverratpack, stlouis'
 author: ninalang
 path: /notes/ninalang/05-12-2016/public-lab-river-rat-pack-st-louis-nina.md
 nid: 13110
@@ -11,7 +13,7 @@ uid: 465986
 
 # Public Lab River Rat Pack-St. Louis-Nina
 
-by [ninalang](../profile/ninalang) | May 12, 2016 17:41
+by [ninalang](../../../profile/ninalang) | May 12, 2016 17:41
 
 May 12, 2016 17:41 | Tags: [mid-west](../tag/mid-west), [publiclabriverratpack](../tag/publiclabriverratpack), [stlouis](../tag/stlouis)
 

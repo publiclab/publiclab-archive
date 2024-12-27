@@ -1,5 +1,7 @@
 ---
-title: "uganda"\ntagnames: 'uganda, africa'
+title: "uganda"
+
+tagnames: 'uganda, africa'
 author: liz
 path: /wiki/uganda.md
 nid: 11155

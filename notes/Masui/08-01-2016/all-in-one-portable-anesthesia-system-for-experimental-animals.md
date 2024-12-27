@@ -1,5 +1,7 @@
 ---
-title: "All in One Portable Anesthesia System  for experimental animals"\ntagnames: 'diy, diy-bio, research, biohacking, for, experimental, medical, animal, mouse, anesthesia, portability'
+title: "All in One Portable Anesthesia System  for experimental animals"
+
+tagnames: 'diy, diy-bio, research, biohacking, for, experimental, medical, animal, mouse, anesthesia, portability'
 author: Masui
 path: /notes/Masui/08-01-2016/all-in-one-portable-anesthesia-system-for-experimental-animals.md
 nid: 13319
@@ -11,7 +13,7 @@ uid: 485717
 
 # All in One Portable Anesthesia System  for experimental animals
 
-by [Masui](../profile/Masui) | August 01, 2016 09:25
+by [Masui](../../../profile/Masui) | August 01, 2016 09:25
 
 August 01, 2016 09:25 | Tags: [diy](../tag/diy), [diy-bio](../tag/diy-bio), [research](../tag/research), [biohacking](../tag/biohacking), [for](../tag/for), [experimental](../tag/experimental), [medical](../tag/medical), [animal](../tag/animal), [mouse](../tag/mouse), [anesthesia](../tag/anesthesia), [portability](../tag/portability)
 

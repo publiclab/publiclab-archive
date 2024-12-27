@@ -1,5 +1,7 @@
 ---
-title: "Emerson College JR-368 Water Sample Data"\ntagnames: 'first-time-poster'
+title: "Emerson College JR-368 Water Sample Data"
+
+tagnames: 'first-time-poster'
 author: abcieslik
 path: /notes/abcieslik/09-29-2014/emerson-college-jr-368-water-sample-data.md
 nid: 11206
@@ -11,7 +13,7 @@ uid: 428083
 
 # Emerson College JR-368 Water Sample Data
 
-by [abcieslik](../profile/abcieslik) | September 29, 2014 20:44
+by [abcieslik](../../../profile/abcieslik) | September 29, 2014 20:44
 
 September 29, 2014 20:44 | Tags: [first-time-poster](../tag/first-time-poster)
 

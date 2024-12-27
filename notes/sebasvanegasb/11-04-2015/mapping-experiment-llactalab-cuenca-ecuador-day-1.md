@@ -1,5 +1,7 @@
 ---
-title: "Mapping Experiment Llactalab Cuenca Ecuador day 1"\ntagnames: 'kite-mapping, lang:es, ecuador, llactalab'
+title: "Mapping Experiment Llactalab Cuenca Ecuador day 1"
+
+tagnames: 'kite-mapping, lang:es, ecuador, llactalab'
 author: sebasvanegasb
 path: /notes/sebasvanegasb/11-04-2015/mapping-experiment-llactalab-cuenca-ecuador-day-1.md
 nid: 12367
@@ -11,7 +13,7 @@ uid: 456585
 
 # Mapping Experiment Llactalab Cuenca Ecuador day 1
 
-by [sebasvanegasb](../profile/sebasvanegasb) | November 04, 2015 22:40
+by [sebasvanegasb](../../../profile/sebasvanegasb) | November 04, 2015 22:40
 
 November 04, 2015 22:40 | Tags: [kite-mapping](../tag/kite-mapping), [lang:es](../tag/lang:es), [ecuador](../tag/ecuador), [llactalab](../tag/llactalab)
 

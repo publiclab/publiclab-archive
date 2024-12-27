@@ -1,5 +1,7 @@
 ---
-title: "Attaching a Raspberry Pi Camera to a Microscope Objective Lens"\ntagnames: 'raspberry-pi, with:kgradow1, with:warren, microscope, pi-camera, microscopes, with:wmacfarl, with:bmela, activity:basic-microscope, basic-microscope, series:basic-microscope'
+title: "Attaching a Raspberry Pi Camera to a Microscope Objective Lens"
+
+tagnames: 'raspberry-pi, with:kgradow1, with:warren, microscope, pi-camera, microscopes, with:wmacfarl, with:bmela, activity:basic-microscope, basic-microscope, series:basic-microscope'
 author: partsandcrafts
 path: /notes/partsandcrafts/02-15-2018/2-attaching-your-raspberry-pi-camera-to-a-microscope-objective-lens.md
 nid: 15739
@@ -11,7 +13,7 @@ uid: 66014
 
 # Attaching a Raspberry Pi Camera to a Microscope Objective Lens
 
-by [partsandcrafts](../profile/partsandcrafts) | February 15, 2018 01:26
+by [partsandcrafts](../../../profile/partsandcrafts) | February 15, 2018 01:26
 
 February 15, 2018 01:26 | Tags: [raspberry-pi](../tag/raspberry-pi), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [pi-camera](../tag/pi-camera), [microscopes](../tag/microscopes), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [basic-microscope](../tag/basic-microscope), [series:basic-microscope](../tag/series:basic-microscope)
 

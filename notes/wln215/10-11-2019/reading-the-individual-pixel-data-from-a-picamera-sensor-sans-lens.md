@@ -1,5 +1,7 @@
 ---
-title: "Reading the individual pixel data from a piCamera sensor sans-lens?"\ntagnames: 'spectrometer, spectroscopy, question:spectrometer, spectrometers, question:general, general, picamera'
+title: "Reading the individual pixel data from a piCamera sensor sans-lens?"
+
+tagnames: 'spectrometer, spectroscopy, question:spectrometer, spectrometers, question:general, general, picamera'
 author: wln215
 path: /notes/wln215/10-11-2019/reading-the-individual-pixel-data-from-a-picamera-sensor-sans-lens.md
 nid: 21139
@@ -9,7 +11,7 @@ uid: 578478
 
 # Reading the individual pixel data from a piCamera sensor sans-lens?
 
-by [wln215](../profile/wln215) | October 11, 2019 17:44
+by [wln215](../../../profile/wln215) | October 11, 2019 17:44
 
 October 11, 2019 17:44 | Tags: [spectrometer](../tag/spectrometer), [spectroscopy](../tag/spectroscopy), [question:spectrometer](../tag/question:spectrometer), [spectrometers](../tag/spectrometers), [question:general](../tag/question:general), [general](../tag/general), [picamera](../tag/picamera)
 

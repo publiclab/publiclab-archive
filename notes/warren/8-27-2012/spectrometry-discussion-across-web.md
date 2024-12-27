@@ -1,5 +1,7 @@
 ---
-title: "Spectrometry discussion across the web"\ntagnames: 'spectrometer'
+title: "Spectrometry discussion across the web"
+
+tagnames: 'spectrometer'
 author: warren
 path: /notes/warren/8-27-2012/spectrometry-discussion-across-web.md
 nid: 3501
@@ -9,7 +11,7 @@ uid: 1
 
 # Spectrometry discussion across the web
 
-by [warren](../profile/warren) | August 27, 2012 21:11
+by [warren](../../../profile/warren) | August 27, 2012 21:11
 
 August 27, 2012 21:11 | Tags: [spectrometer](../tag/spectrometer)
 

@@ -1,5 +1,7 @@
 ---
-title: "babylegsposter"\ntagnames: 'parent:babylegs'
+title: "babylegsposter"
+
+tagnames: 'parent:babylegs'
 author: warren
 path: /wiki/babylegsposter.md
 nid: 20768

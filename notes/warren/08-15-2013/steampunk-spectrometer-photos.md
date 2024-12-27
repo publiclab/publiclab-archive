@@ -1,5 +1,7 @@
 ---
-title: "Steampunk spectrometer photos"\ntagnames: 'spectrometer, kickstarter, steampunk, steampunk-spectrometer'
+title: "Steampunk spectrometer photos"
+
+tagnames: 'spectrometer, kickstarter, steampunk, steampunk-spectrometer'
 author: warren
 path: /notes/warren/08-15-2013/steampunk-spectrometer-photos.md
 nid: 9015
@@ -11,7 +13,7 @@ uid: 1
 
 # Steampunk spectrometer photos
 
-by [warren](../profile/warren) | August 15, 2013 22:27
+by [warren](../../../profile/warren) | August 15, 2013 22:27
 
 August 15, 2013 22:27 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [steampunk](../tag/steampunk), [steampunk-spectrometer](../tag/steampunk-spectrometer)
 

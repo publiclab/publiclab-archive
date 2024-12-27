@@ -1,5 +1,7 @@
 ---
-title: "Video tutorial: Decisions With Distortions"\ntagnames: ''
+title: "Video tutorial: Decisions With Distortions"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/10-21-2011/decisions-distortions.md
 nid: 514
@@ -11,7 +13,7 @@ uid: 12
 
 # Video tutorial: Decisions With Distortions
 
-by [gonzoearth](../profile/gonzoearth) | October 21, 2011 05:26
+by [gonzoearth](../../../profile/gonzoearth) | October 21, 2011 05:26
 
 October 21, 2011 05:26 | Tags: 
 

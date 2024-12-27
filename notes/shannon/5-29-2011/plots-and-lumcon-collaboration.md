@@ -1,5 +1,7 @@
 ---
-title: "PLOTS and LUMCON Collaboration"\ntagnames: 'gulf-coast, near-infrared-camera, lumcon'
+title: "PLOTS and LUMCON Collaboration"
+
+tagnames: 'gulf-coast, near-infrared-camera, lumcon'
 author: Shannon
 path: /notes/shannon/5-29-2011/plots-and-lumcon-collaboration.md
 nid: 334
@@ -11,7 +13,7 @@ uid: 9
 
 # PLOTS and LUMCON Collaboration
 
-by [Shannon](../profile/Shannon) | June 06, 2011 04:00
+by [Shannon](../../../profile/Shannon) | June 06, 2011 04:00
 
 June 06, 2011 04:00 | Tags: [gulf-coast](../tag/gulf-coast), [near-infrared-camera](../tag/near-infrared-camera), [lumcon](../tag/lumcon)
 

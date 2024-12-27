@@ -1,5 +1,7 @@
 ---
-title: "Davis Vantage Vue Xbee Raspberry Pi Weewx python software"\ntagnames: ''
+title: "Davis Vantage Vue Xbee Raspberry Pi Weewx python software"
+
+tagnames: ''
 author: imie43
 path: /notes/imie43/11-25-2014/davis-vantage-vue-xbee-raspberry-pi-weewx-python-software.md
 nid: 11402
@@ -9,7 +11,7 @@ uid: 431924
 
 # Davis Vantage Vue Xbee Raspberry Pi Weewx python software
 
-by [imie43](../profile/imie43) | November 25, 2014 11:26
+by [imie43](../../../profile/imie43) | November 25, 2014 11:26
 
 November 25, 2014 11:26 | Tags: 
 

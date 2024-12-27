@@ -1,5 +1,7 @@
 ---
-title: "Airborne Asbestos Detection"\ntagnames: 'laser, air-quality, asbestos, magnetic, paramagnetic'
+title: "Airborne Asbestos Detection"
+
+tagnames: 'laser, air-quality, asbestos, magnetic, paramagnetic'
 author: el_tonio
 path: /notes/el_tonio/10-25-2014/airborne-asbestos-detection.md
 nid: 11300
@@ -11,7 +13,7 @@ uid: 429873
 
 # Airborne Asbestos Detection
 
-by [el_tonio](../profile/el_tonio) | October 25, 2014 14:16
+by [el_tonio](../../../profile/el_tonio) | October 25, 2014 14:16
 
 October 25, 2014 14:16 | Tags: [laser](../tag/laser), [air-quality](../tag/air-quality), [asbestos](../tag/asbestos), [magnetic](../tag/magnetic), [paramagnetic](../tag/paramagnetic)
 

@@ -1,5 +1,7 @@
 ---
-title: "Exxon charged with illegally dumping 50,000 gal fracking Fluid in PA"\ntagnames: 'spectralchallenge'
+title: "Exxon charged with illegally dumping 50,000 gal fracking Fluid in PA"
+
+tagnames: 'spectralchallenge'
 author: mathew
 path: /notes/mathew/09-12-2013/exxon-charged-with-illegally-dumping-50-000-gal-fracking-fluid-in-pa.md
 nid: 9318
@@ -11,7 +13,7 @@ uid: 4
 
 # Exxon charged with illegally dumping 50,000 gal fracking Fluid in PA
 
-by [mathew](../profile/mathew) | September 12, 2013 17:00
+by [mathew](../../../profile/mathew) | September 12, 2013 17:00
 
 September 12, 2013 17:00 | Tags: [spectralchallenge](../tag/spectralchallenge)
 

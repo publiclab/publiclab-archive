@@ -1,5 +1,7 @@
 ---
-title: "Getting started with the Infragram Point and Shoot"\ntagnames: 'ndvi, infrared, filter, assembly, infragram, camera, instructions, lens, barnstar:basic, with:warren, difficulty:medium, activity:multispectral-imaging, activity:infragram, time:1hr, pointshoot, point-shoot, activity:infragram-point-shoot'
+title: "Getting started with the Infragram Point and Shoot"
+
+tagnames: 'ndvi, infrared, filter, assembly, infragram, camera, instructions, lens, barnstar:basic, with:warren, difficulty:medium, activity:multispectral-imaging, activity:infragram, time:1hr, pointshoot, point-shoot, activity:infragram-point-shoot'
 author: abdul
 path: /notes/abdul/10-21-2016/infragram-point-and-shoot-starting-instructions.md
 nid: 13637
@@ -11,7 +13,7 @@ uid: 479194
 
 # Getting started with the Infragram Point and Shoot
 
-by [abdul](../profile/abdul) | October 21, 2016 19:40
+by [abdul](../../../profile/abdul) | October 21, 2016 19:40
 
 October 21, 2016 19:40 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [assembly](../tag/assembly), [infragram](../tag/infragram), [camera](../tag/camera), [instructions](../tag/instructions), [lens](../tag/lens), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [difficulty:medium](../tag/difficulty:medium), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:infragram](../tag/activity:infragram), [time:1hr](../tag/time:1hr), [pointshoot](../tag/pointshoot), [point-shoot](../tag/point-shoot), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot)
 

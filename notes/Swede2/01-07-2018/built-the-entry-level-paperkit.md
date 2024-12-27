@@ -1,5 +1,7 @@
 ---
-title: "Built the entry level paperkit"\ntagnames: 'spectrometer, spectralworkbench, assembly, kit, instructions, smartphone, foldable, papercraft, spectral, smart, beginner, starter, starterkit, phone, printable, replication:13577'
+title: "Built the entry level paperkit"
+
+tagnames: 'spectrometer, spectralworkbench, assembly, kit, instructions, smartphone, foldable, papercraft, spectral, smart, beginner, starter, starterkit, phone, printable, replication:13577'
 author: Swede2
 path: /notes/Swede2/01-07-2018/built-the-entry-level-paperkit.md
 nid: 15472
@@ -11,7 +13,7 @@ uid: 521609
 
 # Built the entry level paperkit
 
-by [Swede2](../profile/Swede2) | January 07, 2018 16:22
+by [Swede2](../../../profile/Swede2) | January 07, 2018 16:22
 
 January 07, 2018 16:22 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [assembly](../tag/assembly), [kit](../tag/kit), [instructions](../tag/instructions), [smartphone](../tag/smartphone), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [spectral](../tag/spectral), [smart](../tag/smart), [beginner](../tag/beginner), [starter](../tag/starter), [starterkit](../tag/starterkit), [phone](../tag/phone), [printable](../tag/printable), [replication:13577](../tag/replication:13577)
 

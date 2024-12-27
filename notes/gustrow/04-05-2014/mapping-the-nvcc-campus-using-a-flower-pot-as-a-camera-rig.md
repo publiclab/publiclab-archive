@@ -1,5 +1,7 @@
 ---
-title: "Mapping the NVCC campus using a flower pot as a camera rig"\ntagnames: 'balloon-mapping, near-infrared-camera, triggering, chdk, field-test, photo-rig, southeast, virginia'
+title: "Mapping the NVCC campus using a flower pot as a camera rig"
+
+tagnames: 'balloon-mapping, near-infrared-camera, triggering, chdk, field-test, photo-rig, southeast, virginia'
 author: gustrow
 path: /notes/gustrow/04-05-2014/mapping-the-nvcc-campus-using-a-flower-pot-as-a-camera-rig.md
 nid: 10267
@@ -11,7 +13,7 @@ uid: 57645
 
 # Mapping the NVCC campus using a flower pot as a camera rig
 
-by [gustrow](../profile/gustrow) | April 05, 2014 00:34
+by [gustrow](../../../profile/gustrow) | April 05, 2014 00:34
 
 April 05, 2014 00:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [chdk](../tag/chdk), [field-test](../tag/field-test), [photo-rig](../tag/photo-rig), [southeast](../tag/southeast), [virginia](../tag/virginia)
 

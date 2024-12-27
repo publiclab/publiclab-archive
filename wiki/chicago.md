@@ -1,5 +1,7 @@
 ---
-title: "Chicago"\ntagnames: 'chapter, petcoke, chicago, list:public-lab-chicago, lat:41.8804024, lon:-87.6322914, events:chicago, midwest, blight'
+title: "Chicago"
+
+tagnames: 'chapter, petcoke, chicago, list:public-lab-chicago, lat:41.8804024, lon:-87.6322914, events:chicago, midwest, blight'
 author: dbild
 path: /wiki/chicago.md
 nid: 10033

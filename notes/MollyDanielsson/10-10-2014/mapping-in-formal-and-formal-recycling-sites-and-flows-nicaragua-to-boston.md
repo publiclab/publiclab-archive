@@ -1,5 +1,7 @@
 ---
-title: "Mapping (in)formal and formal recycling sites and flows: Nicaragua to Boston"\ntagnames: 'boston, gmf, landfill, central-america, waste, nicaragua, trash, northeast, style:fancy, response:6815, gmf6, el-rama'
+title: "Mapping (in)formal and formal recycling sites and flows: Nicaragua to Boston"
+
+tagnames: 'boston, gmf, landfill, central-america, waste, nicaragua, trash, northeast, style:fancy, response:6815, gmf6, el-rama'
 author: mollydanielsson
 path: /notes/MollyDanielsson/10-10-2014/mapping-in-formal-and-formal-recycling-sites-and-flows-nicaragua-to-boston.md
 nid: 11256
@@ -11,7 +13,7 @@ uid: 1259
 
 # Mapping (in)formal and formal recycling sites and flows: Nicaragua to Boston
 
-by [mollydanielsson](../profile/mollydanielsson) | October 10, 2014 01:27
+by [mollydanielsson](../../../profile/mollydanielsson) | October 10, 2014 01:27
 
 October 10, 2014 01:27 | Tags: [boston](../tag/boston), [gmf](../tag/gmf), [landfill](../tag/landfill), [central-america](../tag/central-america), [waste](../tag/waste), [nicaragua](../tag/nicaragua), [trash](../tag/trash), [northeast](../tag/northeast), [style:fancy](../tag/style:fancy), [response:6815](../tag/response:6815), [gmf6](../tag/gmf6), [el-rama](../tag/el-rama)
 

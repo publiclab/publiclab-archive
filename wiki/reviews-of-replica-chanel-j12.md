@@ -1,5 +1,7 @@
 ---
-title: "Reviews of Replica Chanel J12"\ntagnames: 'first-time-poster'
+title: "Reviews of Replica Chanel J12"
+
+tagnames: 'first-time-poster'
 author: lawraymond3
 path: /wiki/reviews-of-replica-chanel-j12.md
 nid: 9953

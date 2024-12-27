@@ -1,5 +1,7 @@
 ---
-title: "Soil Sampling Toolkit by Citizen Science Community Resources: History and How-To Video"\ntagnames: 'video, soil, soil-testing, soil-sampling, soil-testing-toolkit, with:jjcreedon, soil-contamination, with:mike_cscr'
+title: "Soil Sampling Toolkit by Citizen Science Community Resources: History and How-To Video"
+
+tagnames: 'video, soil, soil-testing, soil-sampling, soil-testing-toolkit, with:jjcreedon, soil-contamination, with:mike_cscr'
 author: bhamster
 path: /notes/bhamster/04-07-2021/soil-sampling-toolkit-by-citizen-science-community-resources-history-and-how-to-video.md
 nid: 26118
@@ -11,7 +13,7 @@ uid: 664477
 
 # Soil Sampling Toolkit by Citizen Science Community Resources: History and How-To Video
 
-by [bhamster](../profile/bhamster) | April 07, 2021 15:32
+by [bhamster](../../../profile/bhamster) | April 07, 2021 15:32
 
 April 07, 2021 15:32 | Tags: [video](../tag/video), [soil](../tag/soil), [soil-testing](../tag/soil-testing), [soil-sampling](../tag/soil-sampling), [soil-testing-toolkit](../tag/soil-testing-toolkit), [with:jjcreedon](../tag/with:jjcreedon), [soil-contamination](../tag/soil-contamination), [with:mike_cscr](../tag/with:mike_cscr)
 

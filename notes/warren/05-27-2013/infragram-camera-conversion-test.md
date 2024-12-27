@@ -1,5 +1,7 @@
 ---
-title: "Infragram camera conversion test"\ntagnames: 'near-infrared-camera, infragram, infragram-conversion'
+title: "Infragram camera conversion test"
+
+tagnames: 'near-infrared-camera, infragram, infragram-conversion'
 author: warren
 path: /notes/warren/05-27-2013/infragram-camera-conversion-test.md
 nid: 7931
@@ -11,7 +13,7 @@ uid: 1
 
 # Infragram camera conversion test
 
-by [warren](../profile/warren) | May 27, 2013 12:29
+by [warren](../../../profile/warren) | May 27, 2013 12:29
 
 May 27, 2013 12:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion)
 

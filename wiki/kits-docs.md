@@ -1,5 +1,7 @@
 ---
-title: "Kits Docs"\ntagnames: 'providence, balloon-mapping, kite-mapping, open-source, community, kits, kite, aerial-photography, diy, mapping, science, design, balloon, opensource, pollution, environment, maker, kitemapping, parent:kits, citizenscience, communityscience, exploration, activism'
+title: "Kits Docs"
+
+tagnames: 'providence, balloon-mapping, kite-mapping, open-source, community, kits, kite, aerial-photography, diy, mapping, science, design, balloon, opensource, pollution, environment, maker, kitemapping, parent:kits, citizenscience, communityscience, exploration, activism'
 author: kits
 path: /wiki/kits-docs.md
 nid: 14931

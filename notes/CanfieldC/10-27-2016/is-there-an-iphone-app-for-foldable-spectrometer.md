@@ -1,5 +1,7 @@
 ---
-title: "Is there an iPhone app for foldable spectrometer?"\ntagnames: 'education, iphone, cd, app, interface, foldable, question:spectrometry, paper, spectrum, spectrometers, site'
+title: "Is there an iPhone app for foldable spectrometer?"
+
+tagnames: 'education, iphone, cd, app, interface, foldable, question:spectrometry, paper, spectrum, spectrometers, site'
 author: CanfieldC
 path: /notes/CanfieldC/10-27-2016/is-there-an-iphone-app-for-foldable-spectrometer.md
 nid: 13660
@@ -11,7 +13,7 @@ uid: 495838
 
 # Is there an iPhone app for foldable spectrometer?
 
-by [CanfieldC](../profile/CanfieldC) | October 27, 2016 19:58
+by [CanfieldC](../../../profile/CanfieldC) | October 27, 2016 19:58
 
 October 27, 2016 19:58 | Tags: [education](../tag/education), [iphone](../tag/iphone), [cd](../tag/cd), [app](../tag/app), [interface](../tag/interface), [foldable](../tag/foldable), [question:spectrometry](../tag/question:spectrometry), [paper](../tag/paper), [spectrum](../tag/spectrum), [spectrometers](../tag/spectrometers), [site](../tag/site)
 

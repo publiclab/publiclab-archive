@@ -1,5 +1,7 @@
 ---
-title: "Announcing the Infragram Point & Shoot"\ntagnames: 'near-infrared-camera, infrared, kickstarter, infragram, rosco, mobius, wratten, redfilter'
+title: "Announcing the Infragram Point & Shoot"
+
+tagnames: 'near-infrared-camera, infrared, kickstarter, infragram, rosco, mobius, wratten, redfilter'
 author: mathew
 path: /notes/mathew/05-02-2014/announcing-the-infragram-point-shoot.md
 nid: 10391
@@ -11,7 +13,7 @@ uid: 4
 
 # Announcing the Infragram Point & Shoot
 
-by [mathew](../profile/mathew) | May 02, 2014 05:58
+by [mathew](../../../profile/mathew) | May 02, 2014 05:58
 
 May 02, 2014 05:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [rosco](../tag/rosco), [mobius](../tag/mobius), [wratten](../tag/wratten), [redfilter](../tag/redfilter)
 

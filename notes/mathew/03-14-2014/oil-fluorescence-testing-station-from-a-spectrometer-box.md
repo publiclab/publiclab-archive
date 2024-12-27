@@ -1,5 +1,7 @@
 ---
-title: "Oil Fluorescence Testing station from a spectrometer box"\ntagnames: 'spectrometer, oil-testing-kit'
+title: "Oil Fluorescence Testing station from a spectrometer box"
+
+tagnames: 'spectrometer, oil-testing-kit'
 author: mathew
 path: /notes/mathew/03-14-2014/oil-fluorescence-testing-station-from-a-spectrometer-box.md
 nid: 10170
@@ -11,7 +13,7 @@ uid: 4
 
 # Oil Fluorescence Testing station from a spectrometer box
 
-by [mathew](../profile/mathew) | March 14, 2014 01:06
+by [mathew](../../../profile/mathew) | March 14, 2014 01:06
 
 March 14, 2014 01:06 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
 

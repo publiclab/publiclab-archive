@@ -1,5 +1,7 @@
 ---
-title: "Reflectance spectrometry"\ntagnames: 'spectrometer, reflectance'
+title: "Reflectance spectrometry"
+
+tagnames: 'spectrometer, reflectance'
 author: dmdc
 path: /notes/dmdc/4-30-2013/reflectance-spectrometry.md
 nid: 7137
@@ -9,7 +11,7 @@ uid: 60042
 
 # Reflectance spectrometry
 
-by [dmdc](../profile/dmdc) | April 30, 2013 20:19
+by [dmdc](../../../profile/dmdc) | April 30, 2013 20:19
 
 April 30, 2013 20:19 | Tags: [spectrometer](../tag/spectrometer), [reflectance](../tag/reflectance)
 

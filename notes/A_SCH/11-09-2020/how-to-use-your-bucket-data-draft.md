@@ -1,5 +1,7 @@
 ---
-title: "How to Use Your Bucket Data"\ntagnames: 'air-quality, bucket-brigade, with:kgradow1, advocacy, community-organizing, activity:community-organizing, bucket-monitor, activity:bucket-monitor, activity:advocacy'
+title: "How to Use Your Bucket Data"
+
+tagnames: 'air-quality, bucket-brigade, with:kgradow1, advocacy, community-organizing, activity:community-organizing, bucket-monitor, activity:bucket-monitor, activity:advocacy'
 author: A_SCH
 path: /notes/A_SCH/11-09-2020/how-to-use-your-bucket-data-draft.md
 nid: 24964
@@ -11,7 +13,7 @@ uid: 704145
 
 # How to Use Your Bucket Data
 
-by [A_SCH](../profile/A_SCH) | November 09, 2020 07:19
+by [A_SCH](../../../profile/A_SCH) | November 09, 2020 07:19
 
 November 09, 2020 07:19 | Tags: [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [with:kgradow1](../tag/with:kgradow1), [advocacy](../tag/advocacy), [community-organizing](../tag/community-organizing), [activity:community-organizing](../tag/activity:community-organizing), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [activity:advocacy](../tag/activity:advocacy)
 

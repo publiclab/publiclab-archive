@@ -1,5 +1,7 @@
 ---
-title: "GSOC 2018 Work on Image Sequencer"\ntagnames: 'software, gsoc, code, soc, gsoc-2018, soc-2018, image-sequencer, soc-2018-final, soc-2018-final-report'
+title: "GSOC 2018 Work on Image Sequencer"
+
+tagnames: 'software, gsoc, code, soc, gsoc-2018, soc-2018, image-sequencer, soc-2018-final, soc-2018-final-report'
 author: tech4gt
 path: /notes/tech4gt/08-09-2018/gsoc-2018-work-on-image-sequencer.md
 nid: 16892
@@ -9,7 +11,7 @@ uid: 523178
 
 # GSOC 2018 Work on Image Sequencer
 
-by [tech4gt](../profile/tech4gt) | August 09, 2018 11:17
+by [tech4gt](../../../profile/tech4gt) | August 09, 2018 11:17
 
 August 09, 2018 11:17 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [code](../tag/code), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [image-sequencer](../tag/image-sequencer), [soc-2018-final](../tag/soc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
 

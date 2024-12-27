@@ -1,5 +1,7 @@
 ---
-title: "Follow up — Group 2 Water Sample Results"\ntagnames: 'water-quality, conductivity, open-water, coqui, emerson, parent:coqui'
+title: "Follow up — Group 2 Water Sample Results"
+
+tagnames: 'water-quality, conductivity, open-water, coqui, emerson, parent:coqui'
 author: jacktemp
 path: /notes/jacktemp/09-30-2014/follow-up-group-2-water-sample-results.md
 nid: 11210
@@ -11,7 +13,7 @@ uid: 428016
 
 # Follow up — Group 2 Water Sample Results
 
-by [jacktemp](../profile/jacktemp) | September 30, 2014 20:44
+by [jacktemp](../../../profile/jacktemp) | September 30, 2014 20:44
 
 September 30, 2014 20:44 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [open-water](../tag/open-water), [coqui](../tag/coqui), [emerson](../tag/emerson), [parent:coqui](../tag/parent:coqui)
 

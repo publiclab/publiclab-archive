@@ -1,5 +1,7 @@
 ---
-title: "Simple, crude method for rough altitude feedback"\ntagnames: ''
+title: "Simple, crude method for rough altitude feedback"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/11-10-2011/simple-crude-method-rough-altitude-feedback.md
 nid: 556
@@ -11,7 +13,7 @@ uid: 12
 
 # Simple, crude method for rough altitude feedback
 
-by [gonzoearth](../profile/gonzoearth) | November 10, 2011 21:04
+by [gonzoearth](../../../profile/gonzoearth) | November 10, 2011 21:04
 
 November 10, 2011 21:04 | Tags: 
 

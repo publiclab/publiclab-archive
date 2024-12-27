@@ -1,5 +1,7 @@
 ---
-title: "Picayune Make event"\ntagnames: 'event, event:rsvp, event:picayune, date:08-16-2014, event:gulfcoast, event:make, rsvp:stevie'
+title: "Picayune Make event"
+
+tagnames: 'event, event:rsvp, event:picayune, date:08-16-2014, event:gulfcoast, event:make, rsvp:stevie'
 author: danbeavers
 path: /notes/danbeavers/08-13-2014/picayune-make-event.md
 nid: 11045
@@ -9,7 +11,7 @@ uid: 51
 
 # Picayune Make event
 
-by [danbeavers](../profile/danbeavers) | August 13, 2014 20:47
+by [danbeavers](../../../profile/danbeavers) | August 13, 2014 20:47
 
 August 13, 2014 20:47 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [event:picayune](../tag/event:picayune), [date:08-16-2014](../tag/date:08-16-2014), [event:gulfcoast](../tag/event:gulfcoast), [event:make](../tag/event:make), [rsvp:stevie](../tag/rsvp:stevie)
 

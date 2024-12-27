@@ -1,5 +1,7 @@
 ---
-title: "The Barnraiser"\ntagnames: 'barnraising, doccom, barnraiser, barnraising-2015, parent:doccom'
+title: "The Barnraiser"
+
+tagnames: 'barnraising, doccom, barnraiser, barnraising-2015, parent:doccom'
 author: warren
 path: /wiki/the-barnraiser.md
 nid: 12372

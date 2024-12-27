@@ -1,5 +1,7 @@
 ---
-title: "Contributing to Public Lab Software"\ntagnames: 'software, guidelines, github, plots-dev, contributing, getting-started, parent:developers, response:11490, 44'
+title: "Contributing to Public Lab Software"
+
+tagnames: 'software, guidelines, github, plots-dev, contributing, getting-started, parent:developers, response:11490, 44'
 author: justinmanley
 path: /wiki/contributing-to-public-lab-software.md
 nid: 11487

@@ -1,5 +1,7 @@
 ---
-title: "How to calibrate the white-balance for NDVI using the BLUE filter?"\ntagnames: 'near-infrared-camera, ndvi, calibration, infrared, white-balance, infragram, infrablue, wratten25a, super-red, red-vs-blue, question:ndvi, question:infragram, question:white-balance, hardware, general, response:9691, first-time-poster'
+title: "How to calibrate the white-balance for NDVI using the BLUE filter?"
+
+tagnames: 'near-infrared-camera, ndvi, calibration, infrared, white-balance, infragram, infrablue, wratten25a, super-red, red-vs-blue, question:ndvi, question:infragram, question:white-balance, hardware, general, response:9691, first-time-poster'
 author: cagiva
 path: /notes/cagiva/01-10-2019/ndvi-for-blue-filter.md
 nid: 18097
@@ -11,7 +13,7 @@ uid: 569044
 
 # How to calibrate the white-balance for NDVI using the BLUE filter?
 
-by [cagiva](../profile/cagiva) | January 10, 2019 20:50
+by [cagiva](../../../profile/cagiva) | January 10, 2019 20:50
 
 January 10, 2019 20:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [red-vs-blue](../tag/red-vs-blue), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:white-balance](../tag/question:white-balance), [hardware](../tag/hardware), [general](../tag/general), [response:9691](../tag/response:9691), [first-time-poster](../tag/first-time-poster)
 

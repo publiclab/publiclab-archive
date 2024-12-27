@@ -1,5 +1,7 @@
 ---
-title: "How can community science projects go about seeking funding?"\ntagnames: 'fundraising, question:general, general, research-curation-fellows, community-monitoring-costs, funding, question:funding'
+title: "How can community science projects go about seeking funding?"
+
+tagnames: 'fundraising, question:general, general, research-curation-fellows, community-monitoring-costs, funding, question:funding'
 author: fongvania
 path: /notes/fongvania/07-29-2021/how-can-community-science-projects-go-about-seeking-funding.md
 nid: 27375
@@ -9,7 +11,7 @@ uid: 754846
 
 # How can community science projects go about seeking funding?
 
-by [fongvania](../profile/fongvania) | July 29, 2021 01:37
+by [fongvania](../../../profile/fongvania) | July 29, 2021 01:37
 
 July 29, 2021 01:37 | Tags: [fundraising](../tag/fundraising), [question:general](../tag/question:general), [general](../tag/general), [research-curation-fellows](../tag/research-curation-fellows), [community-monitoring-costs](../tag/community-monitoring-costs), [funding](../tag/funding), [question:funding](../tag/question:funding)
 

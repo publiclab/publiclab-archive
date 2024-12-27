@@ -1,5 +1,7 @@
 ---
-title: "Thoughts on a model for community data enclosure"\ntagnames: 'community, ethics, data, lat:41, blog-submission, study-design, lon:-71, zoom:6, citscichat'
+title: "Thoughts on a model for community data enclosure"
+
+tagnames: 'community, ethics, data, lat:41, blog-submission, study-design, lon:-71, zoom:6, citscichat'
 author: warren
 path: /notes/warren/12-06-2020/thoughts-on-a-model-for-community-data-enclosure.md
 nid: 25177
@@ -9,7 +11,7 @@ uid: 1
 
 # Thoughts on a model for community data enclosure
 
-by [warren](../profile/warren) | December 06, 2020 19:09
+by [warren](../../../profile/warren) | December 06, 2020 19:09
 
 December 06, 2020 19:09 | Tags: [community](../tag/community), [ethics](../tag/ethics), [data](../tag/data), [lat:41](../tag/lat:41), [blog-submission](../tag/blog-submission), [study-design](../tag/study-design), [lon:-71](../tag/lon:-71), [zoom:6](../tag/zoom:6), [citscichat](../tag/citscichat)
 

@@ -1,5 +1,7 @@
 ---
-title: "A big WELCOME to our Outreachy/GSoC team for 2019!"\ntagnames: 'gsoc, blog, code, soc, outreachy, gsoc-2019, soc-2019'
+title: "A big WELCOME to our Outreachy/GSoC team for 2019!"
+
+tagnames: 'gsoc, blog, code, soc, outreachy, gsoc-2019, soc-2019'
 author: warren
 path: /notes/warren/05-06-2019/a-big-welcome-to-our-outreachy-gsoc-team-for-2019.md
 nid: 19259
@@ -11,7 +13,7 @@ uid: 1
 
 # A big WELCOME to our Outreachy/GSoC team for 2019!
 
-by [warren](../profile/warren) | May 06, 2019 18:33
+by [warren](../../../profile/warren) | May 06, 2019 18:33
 
 May 06, 2019 18:33 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [soc](../tag/soc), [outreachy](../tag/outreachy), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 

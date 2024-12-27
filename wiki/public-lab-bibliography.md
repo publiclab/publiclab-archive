@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Bibliography"\ntagnames: 'locked'
+title: "Public Lab Bibliography"
+
+tagnames: 'locked'
 author: sara
 path: /wiki/public-lab-bibliography.md
 nid: 922

@@ -1,5 +1,7 @@
 ---
-title: "balloon improvement ideas"\ntagnames: 'balloon-mapping'
+title: "balloon improvement ideas"
+
+tagnames: 'balloon-mapping'
 author: Larzag
 path: /notes/larzag/8-2-2012/balloon-improvement-ideas.md
 nid: 3096
@@ -9,7 +11,7 @@ uid: 1225
 
 # balloon improvement ideas
 
-by [Larzag](../profile/Larzag) | August 02, 2012 17:23
+by [Larzag](../../../profile/Larzag) | August 02, 2012 17:23
 
 August 02, 2012 17:23 | Tags: [balloon-mapping](../tag/balloon-mapping)
 

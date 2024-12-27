@@ -1,5 +1,7 @@
 ---
-title: "Final fold-up mini-spectrometer print files and instructions"\ntagnames: 'spectrometer, guides, fold-up-mini-spectrometer'
+title: "Final fold-up mini-spectrometer print files and instructions"
+
+tagnames: 'spectrometer, guides, fold-up-mini-spectrometer'
 author: mathew
 path: /notes/mathew/11-30-2012/final-fold-mini-spectrometer-print-files-and-instructions.md
 nid: 5071
@@ -11,7 +13,7 @@ uid: 4
 
 # Final fold-up mini-spectrometer print files and instructions
 
-by [mathew](../profile/mathew) | November 30, 2012 22:19
+by [mathew](../../../profile/mathew) | November 30, 2012 22:19
 
 November 30, 2012 22:19 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer)
 

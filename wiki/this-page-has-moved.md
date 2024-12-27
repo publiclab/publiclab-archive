@@ -1,5 +1,7 @@
 ---
-title: "This page has moved"\ntagnames: ''
+title: "This page has moved"
+
+tagnames: ''
 author: warren
 path: /wiki/this-page-has-moved.md
 nid: 557

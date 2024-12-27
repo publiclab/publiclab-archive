@@ -1,5 +1,7 @@
 ---
-title: "Hong Kong Open Source Meetup"\ntagnames: 'event, hong-kong, asia'
+title: "Hong Kong Open Source Meetup"
+
+tagnames: 'event, hong-kong, asia'
 author: liz
 path: /notes/liz/01-23-2014/hong-kong-open-source-meetup.md
 nid: 9968
@@ -11,7 +13,7 @@ uid: 7
 
 # Hong Kong Open Source Meetup
 
-by [liz](../profile/liz) | January 23, 2014 16:21
+by [liz](../../../profile/liz) | January 23, 2014 16:21
 
 January 23, 2014 16:21 | Tags: [event](../tag/event), [hong-kong](../tag/hong-kong), [asia](../tag/asia)
 

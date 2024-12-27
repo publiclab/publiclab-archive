@@ -1,5 +1,7 @@
 ---
-title: "Grow kombucha leather (Parsons Healthy Materials Lab)"\ntagnames: 'seeks:replications, kombucha-leather, activity:kombucha-leather'
+title: "Grow kombucha leather (Parsons Healthy Materials Lab)"
+
+tagnames: 'seeks:replications, kombucha-leather, activity:kombucha-leather'
 author: liz
 path: /notes/liz/01-26-2018/grow-kombucha-leather-parsons-healthy-materials-lab.md
 nid: 15623
@@ -11,7 +13,7 @@ uid: 7
 
 # Grow kombucha leather (Parsons Healthy Materials Lab)
 
-by [liz](../profile/liz) | January 26, 2018 21:47
+by [liz](../../../profile/liz) | January 26, 2018 21:47
 
 January 26, 2018 21:47 | Tags: [seeks:replications](../tag/seeks:replications), [kombucha-leather](../tag/kombucha-leather), [activity:kombucha-leather](../tag/activity:kombucha-leather)
 

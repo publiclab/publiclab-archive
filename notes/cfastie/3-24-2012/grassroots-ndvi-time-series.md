@@ -1,5 +1,7 @@
 ---
-title: "Grassroots NDVI - time series"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, timeseries'
+title: "Grassroots NDVI - time series"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, ndvi, timeseries'
 author: cfastie
 path: /notes/cfastie/3-24-2012/grassroots-ndvi-time-series.md
 nid: 1541
@@ -11,7 +13,7 @@ uid: 554
 
 # Grassroots NDVI - time series
 
-by [cfastie](../profile/cfastie) | March 25, 2012 03:43
+by [cfastie](../../../profile/cfastie) | March 25, 2012 03:43
 
 March 25, 2012 03:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [ndvi](../tag/ndvi), [timeseries](../tag/timeseries)
 

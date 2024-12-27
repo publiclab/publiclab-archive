@@ -1,5 +1,7 @@
 ---
-title: "effects on UV radiation of Glass and Quartz using UV LED and UV laser"\ntagnames: ''
+title: "effects on UV radiation of Glass and Quartz using UV LED and UV laser"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/03-09-2016/effects-on-uv-radiation-of-glass-and-quartz-using-uv-led-and-uv-laser.md
 nid: 12822
@@ -11,7 +13,7 @@ uid: 461120
 
 # effects on UV radiation of Glass and Quartz using UV LED and UV laser
 
-by [dhaffnersr](../profile/dhaffnersr) | March 09, 2016 21:27
+by [dhaffnersr](../../../profile/dhaffnersr) | March 09, 2016 21:27
 
 March 09, 2016 21:27 | Tags: 
 

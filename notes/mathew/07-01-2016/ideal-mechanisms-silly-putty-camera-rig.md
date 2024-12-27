@@ -1,5 +1,7 @@
 ---
-title: "ideal mechanisms & silly putty camera rig"\ntagnames: 'kite-mapping, kap, photo-rig, autokap, kap-rigs, silly-putty, reconfigurable-rig'
+title: "ideal mechanisms & silly putty camera rig"
+
+tagnames: 'kite-mapping, kap, photo-rig, autokap, kap-rigs, silly-putty, reconfigurable-rig'
 author: mathew
 path: /notes/mathew/07-01-2016/ideal-mechanisms-silly-putty-camera-rig.md
 nid: 13255
@@ -11,7 +13,7 @@ uid: 4
 
 # ideal mechanisms & silly putty camera rig
 
-by [mathew](../profile/mathew) | July 01, 2016 23:25
+by [mathew](../../../profile/mathew) | July 01, 2016 23:25
 
 July 01, 2016 23:25 | Tags: [kite-mapping](../tag/kite-mapping), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [silly-putty](../tag/silly-putty), [reconfigurable-rig](../tag/reconfigurable-rig)
 

@@ -1,5 +1,7 @@
 ---
-title: "Do the same regulations that apply to drones apply to balloon mapping?"\ntagnames: 'balloon-mapping, faa, regulations, drone, answered, question:general, question:legal, airport, law-and-policy, question:law-and-policy'
+title: "Do the same regulations that apply to drones apply to balloon mapping?"
+
+tagnames: 'balloon-mapping, faa, regulations, drone, answered, question:general, question:legal, airport, law-and-policy, question:law-and-policy'
 author: Morgan
 path: /notes/Morgan/01-24-2018/do-the-same-regulations-that-apply-to-drones-apply-to-balloon-mapping.md
 nid: 15603
@@ -9,7 +11,7 @@ uid: 501320
 
 # Do the same regulations that apply to drones apply to balloon mapping?
 
-by [Morgan](../profile/Morgan) | January 24, 2018 21:50
+by [Morgan](../../../profile/Morgan) | January 24, 2018 21:50
 
 January 24, 2018 21:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [faa](../tag/faa), [regulations](../tag/regulations), [drone](../tag/drone), [answered](../tag/answered), [question:general](../tag/question:general), [question:legal](../tag/question:legal), [airport](../tag/airport), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 

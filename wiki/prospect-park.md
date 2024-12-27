@@ -1,5 +1,7 @@
 ---
-title: "Prospect Park"\ntagnames: 'new-york-city, gowanus, prospect-park, spring'
+title: "Prospect Park"
+
+tagnames: 'new-york-city, gowanus, prospect-park, spring'
 author: liz
 path: /wiki/prospect-park.md
 nid: 10437

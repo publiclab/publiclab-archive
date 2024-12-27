@@ -1,5 +1,7 @@
 ---
-title: "everything"\ntagnames: ''
+title: "everything"
+
+tagnames: ''
 author: Manasa2850
 path: /wiki/everything.md
 nid: 26974

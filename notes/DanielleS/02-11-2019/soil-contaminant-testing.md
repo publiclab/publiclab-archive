@@ -1,5 +1,7 @@
 ---
-title: "Soil Contaminant Testing "\ntagnames: 'barnraising, heavy-metals, soil, pah, lead, soil-testing, colorimeter, oil-and-gas, soil-quality, spectometry'
+title: "Soil Contaminant Testing "
+
+tagnames: 'barnraising, heavy-metals, soil, pah, lead, soil-testing, colorimeter, oil-and-gas, soil-quality, spectometry'
 author: DanielleS
 path: /notes/DanielleS/02-11-2019/soil-contaminant-testing.md
 nid: 18344
@@ -11,7 +13,7 @@ uid: 569208
 
 # Soil Contaminant Testing 
 
-by [DanielleS](../profile/DanielleS) | February 11, 2019 19:30
+by [DanielleS](../../../profile/DanielleS) | February 11, 2019 19:30
 
 February 11, 2019 19:30 | Tags: [barnraising](../tag/barnraising), [heavy-metals](../tag/heavy-metals), [soil](../tag/soil), [pah](../tag/pah), [lead](../tag/lead), [soil-testing](../tag/soil-testing), [colorimeter](../tag/colorimeter), [oil-and-gas](../tag/oil-and-gas), [soil-quality](../tag/soil-quality), [spectometry](../tag/spectometry)
 

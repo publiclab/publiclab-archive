@@ -1,5 +1,7 @@
 ---
-title: "Web Working Group Monthly Recap 5: July 2015"\ntagnames: 'mapknitter, web-development, software, plots2, spectral-workbench, wwg, webwg, response:12028'
+title: "Web Working Group Monthly Recap 5: July 2015"
+
+tagnames: 'mapknitter, web-development, software, plots2, spectral-workbench, wwg, webwg, response:12028'
 author: warren
 path: /notes/warren/08-03-2015/web-working-group-monthly-recap-5-july-2015.md
 nid: 12117
@@ -11,7 +13,7 @@ uid: 1
 
 # Web Working Group Monthly Recap 5: July 2015
 
-by [warren](../profile/warren) | August 03, 2015 20:49
+by [warren](../../../profile/warren) | August 03, 2015 20:49
 
 August 03, 2015 20:49 | Tags: [mapknitter](../tag/mapknitter), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [spectral-workbench](../tag/spectral-workbench), [wwg](../tag/wwg), [webwg](../tag/webwg), [response:12028](../tag/response:12028)
 

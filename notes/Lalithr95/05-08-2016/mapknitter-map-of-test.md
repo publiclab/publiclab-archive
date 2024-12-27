@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of TEST"\ntagnames: 'abc, pqr, xyz'
+title: "MapKnitter map of TEST"
+
+tagnames: 'abc, pqr, xyz'
 author: Lalithr95
 path: /notes/Lalithr95/05-08-2016/mapknitter-map-of-test.md
 nid: 13090
@@ -9,7 +11,7 @@ uid: 468698
 
 # MapKnitter map of TEST
 
-by [Lalithr95](../profile/Lalithr95) | May 08, 2016 09:21
+by [Lalithr95](../../../profile/Lalithr95) | May 08, 2016 09:21
 
 May 08, 2016 09:21 | Tags: [abc](../tag/abc), [pqr](../tag/pqr), [xyz](../tag/xyz)
 

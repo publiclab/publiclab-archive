@@ -1,5 +1,7 @@
 ---
-title: "Map archive"\ntagnames: 'map-archive'
+title: "Map archive"
+
+tagnames: 'map-archive'
 author: warren
 path: /wiki/map-archive.md
 nid: 34961

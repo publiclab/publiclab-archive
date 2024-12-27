@@ -1,5 +1,7 @@
 ---
-title: "NYC lab warming"\ntagnames: ''
+title: "NYC lab warming"
+
+tagnames: ''
 author: liz
 path: /notes/liz/9-4-2012/nyc-lab-warming.md
 nid: 3644
@@ -11,7 +13,7 @@ uid: 7
 
 # NYC lab warming
 
-by [liz](../profile/liz) | September 05, 2012 03:40
+by [liz](../../../profile/liz) | September 05, 2012 03:40
 
 September 05, 2012 03:40 | Tags: 
 

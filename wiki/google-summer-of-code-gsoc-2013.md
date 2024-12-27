@@ -1,5 +1,7 @@
 ---
-title: "Google Summer of Code (GSOC) 2013"\ntagnames: 'gsoc, gsoc-2013, google'
+title: "Google Summer of Code (GSOC) 2013"
+
+tagnames: 'gsoc, gsoc-2013, google'
 author: gonzoearth
 path: /wiki/google-summer-of-code-gsoc-2013.md
 nid: 6842

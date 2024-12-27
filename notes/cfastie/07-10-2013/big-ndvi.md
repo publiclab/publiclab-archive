@@ -1,5 +1,7 @@
 ---
-title: "Big NDVI"\ntagnames: 'near-infrared-camera, ndvi, infrared, alaska, infragram, infrablue, gigapan, 74'
+title: "Big NDVI"
+
+tagnames: 'near-infrared-camera, ndvi, infrared, alaska, infragram, infrablue, gigapan, 74'
 author: cfastie
 path: /notes/cfastie/07-10-2013/big-ndvi.md
 nid: 8787
@@ -11,7 +13,7 @@ uid: 554
 
 # Big NDVI
 
-by [cfastie](../profile/cfastie) | July 10, 2013 01:23
+by [cfastie](../../../profile/cfastie) | July 10, 2013 01:23
 
 July 10, 2013 01:23 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [alaska](../tag/alaska), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [gigapan](../tag/gigapan), [74](../tag/74)
 

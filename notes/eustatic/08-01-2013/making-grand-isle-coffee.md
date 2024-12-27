@@ -1,5 +1,7 @@
 ---
-title: "Making Grand Isle Coffee: Team Orca "\ntagnames: 'gulf-coast, spectrometer, oil, spectrometry, sample-prep, bp, tarball, orca'
+title: "Making Grand Isle Coffee: Team Orca "
+
+tagnames: 'gulf-coast, spectrometer, oil, spectrometry, sample-prep, bp, tarball, orca'
 author: eustatic
 path: /08-01-2013/making-grand-isle-coffee.md
 nid: 8949
@@ -11,7 +13,7 @@ uid: 379
 
 # Making Grand Isle Coffee: Team Orca 
 
-by [eustatic](../profile/eustatic) | August 01, 2013 01:24
+by [eustatic](../../../profile/eustatic) | August 01, 2013 01:24
 
 August 01, 2013 01:24 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [oil](../tag/oil), [spectrometry](../tag/spectrometry), [sample-prep](../tag/sample-prep), [bp](../tag/bp), [tarball](../tag/tarball), [orca](../tag/orca)
 

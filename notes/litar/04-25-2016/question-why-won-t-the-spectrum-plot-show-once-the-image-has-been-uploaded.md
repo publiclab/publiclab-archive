@@ -1,5 +1,7 @@
 ---
-title: "Question: Why won't the spectrum plot show once the image has been uploaded?"\ntagnames: 'question:spectral-workbench'
+title: "Question: Why won't the spectrum plot show once the image has been uploaded?"
+
+tagnames: 'question:spectral-workbench'
 author: litar
 path: /notes/litar/04-25-2016/question-why-won-t-the-spectrum-plot-show-once-the-image-has-been-uploaded.md
 nid: 13027
@@ -9,7 +11,7 @@ uid: 471461
 
 # Question: Why won't the spectrum plot show once the image has been uploaded?
 
-by [litar](../profile/litar) | April 25, 2016 12:00
+by [litar](../../../profile/litar) | April 25, 2016 12:00
 
 April 25, 2016 12:00 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 

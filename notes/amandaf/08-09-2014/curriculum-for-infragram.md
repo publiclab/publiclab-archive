@@ -1,5 +1,7 @@
 ---
-title: "Curriculum for Infragram"\ntagnames: 'near-infrared-camera, curriculum, near-infrared, raspberry-pi, near-ir, infragram, rpi, with:mathew, first-time-poster'
+title: "Curriculum for Infragram"
+
+tagnames: 'near-infrared-camera, curriculum, near-infrared, raspberry-pi, near-ir, infragram, rpi, with:mathew, first-time-poster'
 author: amandaf
 path: /notes/amandaf/08-09-2014/curriculum-for-infragram.md
 nid: 11026
@@ -11,7 +13,7 @@ uid: 426589
 
 # Curriculum for Infragram
 
-by [amandaf](../profile/amandaf) | August 09, 2014 00:27
+by [amandaf](../../../profile/amandaf) | August 09, 2014 00:27
 
 August 09, 2014 00:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [curriculum](../tag/curriculum), [near-infrared](../tag/near-infrared), [raspberry-pi](../tag/raspberry-pi), [near-ir](../tag/near-ir), [infragram](../tag/infragram), [rpi](../tag/rpi), [with:mathew](../tag/with:mathew), [first-time-poster](../tag/first-time-poster)
 

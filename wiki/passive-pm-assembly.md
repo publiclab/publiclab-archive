@@ -1,5 +1,7 @@
 ---
-title: "passive-pm-assembly"\ntagnames: 'parent:passive-pm, activity:open-air'
+title: "passive-pm-assembly"
+
+tagnames: 'parent:passive-pm, activity:open-air'
 author: mathew
 path: /wiki/passive-pm-assembly.md
 nid: 12648

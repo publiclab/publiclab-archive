@@ -1,5 +1,7 @@
 ---
-title: "Event: Welcome to the soil research area review!"\ntagnames: 'event, soil, reviews, soil-contamination, research-area-review'
+title: "Event: Welcome to the soil research area review!"
+
+tagnames: 'event, soil, reviews, soil-contamination, research-area-review'
 author: bhamster
 path: /notes/bhamster/01-25-2021/event-welcome-to-the-soil-research-area-review.md
 nid: 25535
@@ -11,7 +13,7 @@ uid: 664477
 
 # Event: Welcome to the soil research area review!
 
-by [bhamster](../profile/bhamster) | January 25, 2021 22:27
+by [bhamster](../../../profile/bhamster) | January 25, 2021 22:27
 
 January 25, 2021 22:27 | Tags: [event](../tag/event), [soil](../tag/soil), [reviews](../tag/reviews), [soil-contamination](../tag/soil-contamination), [research-area-review](../tag/research-area-review)
 

@@ -1,5 +1,7 @@
 ---
-title: "Fanciful "turntable spectrometer""\ntagnames: 'spectrometer, parts-and-crafts, turntable'
+title: "Fanciful "turntable spectrometer""
+
+tagnames: 'spectrometer, parts-and-crafts, turntable'
 author: warren
 path: /notes/warren/05-05-2013/fanciful-turntable-spectrometer.md
 nid: 7239
@@ -11,7 +13,7 @@ uid: 1
 
 # Fanciful "turntable spectrometer"
 
-by [warren](../profile/warren) | May 05, 2013 01:34
+by [warren](../../../profile/warren) | May 05, 2013 01:34
 
 May 05, 2013 01:34 | Tags: [spectrometer](../tag/spectrometer), [parts-and-crafts](../tag/parts-and-crafts), [turntable](../tag/turntable)
 

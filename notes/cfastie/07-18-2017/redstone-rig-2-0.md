@@ -1,5 +1,7 @@
 ---
-title: "Redstone Rig 2.0"\ntagnames: 'balloon-mapping, kite-mapping, aerial-photography, kap, photo-rig, aerial-mapping, camera-rig, redstone, kaptery, autodesk'
+title: "Redstone Rig 2.0"
+
+tagnames: 'balloon-mapping, kite-mapping, aerial-photography, kap, photo-rig, aerial-mapping, camera-rig, redstone, kaptery, autodesk'
 author: cfastie
 path: /notes/cfastie/07-18-2017/redstone-rig-2-0.md
 nid: 14660
@@ -11,7 +13,7 @@ uid: 554
 
 # Redstone Rig 2.0
 
-by [cfastie](../profile/cfastie) | July 18, 2017 02:40
+by [cfastie](../../../profile/cfastie) | July 18, 2017 02:40
 
 July 18, 2017 02:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [aerial-mapping](../tag/aerial-mapping), [camera-rig](../tag/camera-rig), [redstone](../tag/redstone), [kaptery](../tag/kaptery), [autodesk](../tag/autodesk)
 

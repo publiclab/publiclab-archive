@@ -1,5 +1,7 @@
 ---
-title: "Question: downloading spectrum"\ntagnames: 'question:spectral-workbench, answered'
+title: "Question: downloading spectrum"
+
+tagnames: 'question:spectral-workbench, answered'
 author: mebaumga
 path: /notes/mebaumga/06-25-2015/question-downloading-spectrum.md
 nid: 12006
@@ -9,7 +11,7 @@ uid: 442457
 
 # Question: downloading spectrum
 
-by [mebaumga](../profile/mebaumga) | June 25, 2015 15:15
+by [mebaumga](../../../profile/mebaumga) | June 25, 2015 15:15
 
 June 25, 2015 15:15 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 

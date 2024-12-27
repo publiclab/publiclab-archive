@@ -1,5 +1,7 @@
 ---
-title: "Mobile cuvette holder"\ntagnames: 'spectrometer, vermont, cuvettes, 3d-printing, sampling, oil-sampling-kit, smartphone, snowfest2014, activity:spectrometry-sampling'
+title: "Mobile cuvette holder"
+
+tagnames: 'spectrometer, vermont, cuvettes, 3d-printing, sampling, oil-sampling-kit, smartphone, snowfest2014, activity:spectrometry-sampling'
 author: cfastie
 path: /notes/cfastie/02-25-2014/mobile-cuvette-holder.md
 nid: 10065
@@ -11,7 +13,7 @@ uid: 554
 
 # Mobile cuvette holder
 
-by [cfastie](../profile/cfastie) | February 25, 2014 18:27
+by [cfastie](../../../profile/cfastie) | February 25, 2014 18:27
 
 February 25, 2014 18:27 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [cuvettes](../tag/cuvettes), [3d-printing](../tag/3d-printing), [sampling](../tag/sampling), [oil-sampling-kit](../tag/oil-sampling-kit), [smartphone](../tag/smartphone), [snowfest2014](../tag/snowfest2014), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 

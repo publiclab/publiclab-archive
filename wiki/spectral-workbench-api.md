@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench API"\ntagnames: 'spectrometer, spectralworkbench'
+title: "Spectral Workbench API"
+
+tagnames: 'spectrometer, spectralworkbench'
 author: warren
 path: /wiki/spectral-workbench-api.md
 nid: 4343

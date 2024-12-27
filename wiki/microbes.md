@@ -1,5 +1,7 @@
 ---
-title: "microbes"\ntagnames: 'air-column-monitor, diy-bio, microbes, air-quality, diybio'
+title: "microbes"
+
+tagnames: 'air-column-monitor, diy-bio, microbes, air-quality, diybio'
 author: liz
 path: /wiki/microbes.md
 nid: 3909

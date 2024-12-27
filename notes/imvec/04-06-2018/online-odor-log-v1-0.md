@@ -1,5 +1,7 @@
 ---
-title: "Online Odor Log v1.0"\ntagnames: 'evidence, landfill, air-quality, air, waste, landfills, odor, odor-log, oil-and-gas, smell, gaimec, activity:odor, odor-logging, activity:odor-logging, smells, ushahidi, diary'
+title: "Online Odor Log v1.0"
+
+tagnames: 'evidence, landfill, air-quality, air, waste, landfills, odor, odor-log, oil-and-gas, smell, gaimec, activity:odor, odor-logging, activity:odor-logging, smells, ushahidi, diary'
 author: imvec
 path: /notes/imvec/04-06-2018/online-odor-log-v1-0.md
 nid: 16081
@@ -11,7 +13,7 @@ uid: 495038
 
 # Online Odor Log v1.0
 
-by [imvec](../profile/imvec) | April 06, 2018 10:56
+by [imvec](../../../profile/imvec) | April 06, 2018 10:56
 
 April 06, 2018 10:56 | Tags: [evidence](../tag/evidence), [landfill](../tag/landfill), [air-quality](../tag/air-quality), [air](../tag/air), [waste](../tag/waste), [landfills](../tag/landfills), [odor](../tag/odor), [odor-log](../tag/odor-log), [oil-and-gas](../tag/oil-and-gas), [smell](../tag/smell), [gaimec](../tag/gaimec), [activity:odor](../tag/activity:odor), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging), [smells](../tag/smells), [ushahidi](../tag/ushahidi), [diary](../tag/diary)
 

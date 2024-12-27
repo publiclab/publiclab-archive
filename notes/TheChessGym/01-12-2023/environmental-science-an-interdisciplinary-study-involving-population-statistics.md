@@ -1,5 +1,7 @@
 ---
-title: "Environmental Science An Interdisciplinary Study Involving Population Statistics"\ntagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
+title: "Environmental Science An Interdisciplinary Study Involving Population Statistics"
+
+tagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/01-12-2023/environmental-science-an-interdisciplinary-study-involving-population-statistics.md
 nid: 38038
@@ -11,7 +13,7 @@ uid: 788868
 
 # Environmental Science An Interdisciplinary Study Involving Population Statistics
 
-by [TheChessGym](../profile/TheChessGym) | January 12, 2023 17:37
+by [TheChessGym](../../../profile/TheChessGym) | January 12, 2023 17:37
 
 January 12, 2023 17:37 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

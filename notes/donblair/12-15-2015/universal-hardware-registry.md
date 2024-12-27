@@ -1,5 +1,7 @@
 ---
-title: "Universal Hardware Registry?"\ntagnames: 'open-hardware, hardware, units, mayan-codex'
+title: "Universal Hardware Registry?"
+
+tagnames: 'open-hardware, hardware, units, mayan-codex'
 author: donblair
 path: /notes/donblair/12-15-2015/universal-hardware-registry.md
 nid: 12519
@@ -11,7 +13,7 @@ uid: 43651
 
 # Universal Hardware Registry?
 
-by [donblair](../profile/donblair) | December 15, 2015 16:33
+by [donblair](../../../profile/donblair) | December 15, 2015 16:33
 
 December 15, 2015 16:33 | Tags: [open-hardware](../tag/open-hardware), [hardware](../tag/hardware), [units](../tag/units), [mayan-codex](../tag/mayan-codex)
 

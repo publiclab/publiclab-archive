@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench Offline"\ntagnames: 'spectrometer, spectralworkbench, offline'
+title: "Spectral Workbench Offline"
+
+tagnames: 'spectrometer, spectralworkbench, offline'
 author: warren
 path: /notes/warren/10-28-2013/spectral-workbench-offline.md
 nid: 9677
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectral Workbench Offline
 
-by [warren](../profile/warren) | October 28, 2013 23:31
+by [warren](../../../profile/warren) | October 28, 2013 23:31
 
 October 28, 2013 23:31 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [offline](../tag/offline)
 

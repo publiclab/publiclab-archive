@@ -1,5 +1,7 @@
 ---
-title: "Red Filter Rising"\ntagnames: 'near-infrared-camera, nrg, vermont, infrared, conversion, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, response:9744, scattering, nbn, nnr, super-red'
+title: "Red Filter Rising"
+
+tagnames: 'near-infrared-camera, nrg, vermont, infrared, conversion, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, response:9744, scattering, nbn, nnr, super-red'
 author: cfastie
 path: /notes/cfastie/11-12-2013/red-filter-rising.md
 nid: 9769
@@ -11,7 +13,7 @@ uid: 554
 
 # Red Filter Rising
 
-by [cfastie](../profile/cfastie) | November 12, 2013 02:00
+by [cfastie](../../../profile/cfastie) | November 12, 2013 02:00
 
 November 12, 2013 02:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [vermont](../tag/vermont), [infrared](../tag/infrared), [conversion](../tag/conversion), [filter](../tag/filter), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [response:9744](../tag/response:9744), [scattering](../tag/scattering), [nbn](../tag/nbn), [nnr](../tag/nnr), [super-red](../tag/super-red)
 

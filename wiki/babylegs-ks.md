@@ -1,5 +1,7 @@
 ---
-title: "BabyLegs KS"\ntagnames: 'diy, opensource, communityscience, microplastics, babylegs, parent:babylegs, plastic, plasticpollution, marinedebris, alert:testing, plastic-pollution'
+title: "BabyLegs KS"
+
+tagnames: 'diy, opensource, communityscience, microplastics, babylegs, parent:babylegs, plastic, plasticpollution, marinedebris, alert:testing, plastic-pollution'
 author: warren
 path: /wiki/babylegs-ks.md
 nid: 19732

@@ -1,5 +1,7 @@
 ---
-title: "SFO-ORD"\ntagnames: 'near-infrared-camera, ndvi, passenger-pigeon, infragram, photosynthesis, gsoc, google, google-summer-of-code, gsoc2013, infrablue, response:9540, mentorsummit, mentorsummit13, a810'
+title: "SFO-ORD"
+
+tagnames: 'near-infrared-camera, ndvi, passenger-pigeon, infragram, photosynthesis, gsoc, google, google-summer-of-code, gsoc2013, infrablue, response:9540, mentorsummit, mentorsummit13, a810'
 author: cfastie
 path: /notes/cfastie/10-25-2013/sfo-ord.md
 nid: 9548
@@ -11,7 +13,7 @@ uid: 554
 
 # SFO-ORD
 
-by [cfastie](../profile/cfastie) | October 25, 2013 16:43
+by [cfastie](../../../profile/cfastie) | October 25, 2013 16:43
 
 October 25, 2013 16:43 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [passenger-pigeon](../tag/passenger-pigeon), [infragram](../tag/infragram), [photosynthesis](../tag/photosynthesis), [gsoc](../tag/gsoc), [google](../tag/google), [google-summer-of-code](../tag/google-summer-of-code), [gsoc2013](../tag/gsoc2013), [infrablue](../tag/infrablue), [response:9540](../tag/response:9540), [mentorsummit](../tag/mentorsummit), [mentorsummit13](../tag/mentorsummit13), [a810](../tag/a810)
 

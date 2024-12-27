@@ -1,5 +1,7 @@
 ---
-title: "Advocacy and Organizing Community Call"\ntagnames: 'event, organizing, climate-change, event:rsvp, advocacy, campaign, community-organizing, opendata, research-curation-fellows-event, date:09-10-2021, rsvp:julia_e_masters'
+title: "Advocacy and Organizing Community Call"
+
+tagnames: 'event, organizing, climate-change, event:rsvp, advocacy, campaign, community-organizing, opendata, research-curation-fellows-event, date:09-10-2021, rsvp:julia_e_masters'
 author: julia_e_masters
 path: /notes/julia_e_masters/08-26-2021/advocacy-and-organizing-community-call.md
 nid: 27624
@@ -11,7 +13,7 @@ uid: 756220
 
 # Advocacy and Organizing Community Call
 
-by [julia_e_masters](../profile/julia_e_masters) | August 26, 2021 18:11
+by [julia_e_masters](../../../profile/julia_e_masters) | August 26, 2021 18:11
 
 August 26, 2021 18:11 | Tags: [event](../tag/event), [organizing](../tag/organizing), [climate-change](../tag/climate-change), [event:rsvp](../tag/event:rsvp), [advocacy](../tag/advocacy), [campaign](../tag/campaign), [community-organizing](../tag/community-organizing), [opendata](../tag/opendata), [research-curation-fellows-event](../tag/research-curation-fellows-event), [date:09-10-2021](../tag/date:09-10-2021), [rsvp:julia_e_masters](../tag/rsvp:julia_e_masters)
 

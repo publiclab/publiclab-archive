@@ -1,5 +1,7 @@
 ---
-title: "The Mother Lord of Nature: Potholes"\ntagnames: 'issue-brief, zoom:6, with:kevinmarinello, with:rayfieldlotten, lat:30.003812, lon:-90.059059'
+title: "The Mother Lord of Nature: Potholes"
+
+tagnames: 'issue-brief, zoom:6, with:kevinmarinello, with:rayfieldlotten, lat:30.003812, lon:-90.059059'
 author: adamroevens
 path: /notes/adamroevens/05-17-2021/the-mother-lord-of-nature-potholes.md
 nid: 26626
@@ -9,7 +11,7 @@ uid: 752171
 
 # The Mother Lord of Nature: Potholes
 
-by [adamroevens](../profile/adamroevens) | May 17, 2021 16:34
+by [adamroevens](../../../profile/adamroevens) | May 17, 2021 16:34
 
 May 17, 2021 16:34 | Tags: [issue-brief](../tag/issue-brief), [zoom:6](../tag/zoom:6), [with:kevinmarinello](../tag/with:kevinmarinello), [with:rayfieldlotten](../tag/with:rayfieldlotten), [lat:30.003812](../tag/lat:30.003812), [lon:-90.059059](../tag/lon:-90.059059)
 

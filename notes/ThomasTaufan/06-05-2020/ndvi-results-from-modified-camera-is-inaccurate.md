@@ -1,5 +1,7 @@
 ---
-title: "NDVI results from modified camera is inaccurate"\ntagnames: 'ndvi, filter, infragram, camera, red, redfilter, question:general, general, modified'
+title: "NDVI results from modified camera is inaccurate"
+
+tagnames: 'ndvi, filter, infragram, camera, red, redfilter, question:general, general, modified'
 author: ThomasTaufan
 path: /notes/ThomasTaufan/06-05-2020/ndvi-results-from-modified-camera-is-inaccurate.md
 nid: 23780
@@ -9,7 +11,7 @@ uid: 640373
 
 # NDVI results from modified camera is inaccurate
 
-by [ThomasTaufan](../profile/ThomasTaufan) | June 05, 2020 05:16
+by [ThomasTaufan](../../../profile/ThomasTaufan) | June 05, 2020 05:16
 
 June 05, 2020 05:16 | Tags: [ndvi](../tag/ndvi), [filter](../tag/filter), [infragram](../tag/infragram), [camera](../tag/camera), [red](../tag/red), [redfilter](../tag/redfilter), [question:general](../tag/question:general), [general](../tag/general), [modified](../tag/modified)
 

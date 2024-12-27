@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench previewing and clipping warnings"\ntagnames: 'spectrometer, fluorescence, spectral-workbench, oil-testing-kit, response:11173'
+title: "Spectral Workbench previewing and clipping warnings"
+
+tagnames: 'spectrometer, fluorescence, spectral-workbench, oil-testing-kit, response:11173'
 author: warren
 path: /notes/warren/10-21-2014/spectral-workbench-previewing-and-clipping-warnings.md
 nid: 11284
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectral Workbench previewing and clipping warnings
 
-by [warren](../profile/warren) | October 21, 2014 00:08
+by [warren](../../../profile/warren) | October 21, 2014 00:08
 
 October 21, 2014 00:08 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [oil-testing-kit](../tag/oil-testing-kit), [response:11173](../tag/response:11173)
 

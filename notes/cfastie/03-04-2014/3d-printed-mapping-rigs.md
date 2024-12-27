@@ -1,5 +1,7 @@
 ---
-title: "3D printed mapping rigs"\ntagnames: 'balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, snowfest, response:10097, snowfest2014'
+title: "3D printed mapping rigs"
+
+tagnames: 'balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, snowfest, response:10097, snowfest2014'
 author: cfastie
 path: /notes/cfastie/03-04-2014/3d-printed-mapping-rigs.md
 nid: 10101
@@ -11,7 +13,7 @@ uid: 554
 
 # 3D printed mapping rigs
 
-by [cfastie](../profile/cfastie) | March 04, 2014 15:53
+by [cfastie](../../../profile/cfastie) | March 04, 2014 15:53
 
 March 04, 2014 15:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [snowfest](../tag/snowfest), [response:10097](../tag/response:10097), [snowfest2014](../tag/snowfest2014)
 

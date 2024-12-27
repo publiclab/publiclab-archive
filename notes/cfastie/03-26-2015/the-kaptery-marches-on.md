@@ -1,5 +1,7 @@
 ---
-title: "The KAPtery marches on"\ntagnames: 'balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery'
+title: "The KAPtery marches on"
+
+tagnames: 'balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery'
 author: cfastie
 path: /notes/cfastie/03-26-2015/the-kaptery-marches-on.md
 nid: 11726
@@ -11,7 +13,7 @@ uid: 554
 
 # The KAPtery marches on
 
-by [cfastie](../profile/cfastie) | March 26, 2015 16:08
+by [cfastie](../../../profile/cfastie) | March 26, 2015 16:08
 
 March 26, 2015 16:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery)
 

@@ -1,5 +1,7 @@
 ---
-title: "How do we measure particulate stuff in the air?"\ntagnames: 'particulate-sensing, dust, particulate, pm, optical-pm, wind-sensor, as220-wind-sensors'
+title: "How do we measure particulate stuff in the air?"
+
+tagnames: 'particulate-sensing, dust, particulate, pm, optical-pm, wind-sensor, as220-wind-sensors'
 author: donblair
 path: /notes/donblair/05-03-2014/how-do-we-measure-particulate-stuff-in-the-air.md
 nid: 10406
@@ -11,7 +13,7 @@ uid: 43651
 
 # How do we measure particulate stuff in the air?
 
-by [donblair](../profile/donblair) | May 03, 2014 12:53
+by [donblair](../../../profile/donblair) | May 03, 2014 12:53
 
 May 03, 2014 12:53 | Tags: [particulate-sensing](../tag/particulate-sensing), [dust](../tag/dust), [particulate](../tag/particulate), [pm](../tag/pm), [optical-pm](../tag/optical-pm), [wind-sensor](../tag/wind-sensor), [as220-wind-sensors](../tag/as220-wind-sensors)
 

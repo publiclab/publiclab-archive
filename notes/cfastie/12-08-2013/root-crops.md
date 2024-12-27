@@ -1,5 +1,7 @@
 ---
-title: "Root crops"\ntagnames: 'near-infrared-camera, ndvi, vermont, a2200, infragram, photosynthesis, garden, list:plots-infrared, infrablue, pigments, response:9432, bg3, wratten25a, red-filter, ndvi-ag, activity:multispectral-imaging'
+title: "Root crops"
+
+tagnames: 'near-infrared-camera, ndvi, vermont, a2200, infragram, photosynthesis, garden, list:plots-infrared, infrablue, pigments, response:9432, bg3, wratten25a, red-filter, ndvi-ag, activity:multispectral-imaging'
 author: cfastie
 path: /notes/cfastie/12-08-2013/root-crops.md
 nid: 9859
@@ -11,7 +13,7 @@ uid: 554
 
 # Root crops
 
-by [cfastie](../profile/cfastie) | December 08, 2013 04:16
+by [cfastie](../../../profile/cfastie) | December 08, 2013 04:16
 
 December 08, 2013 04:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [a2200](../tag/a2200), [infragram](../tag/infragram), [photosynthesis](../tag/photosynthesis), [garden](../tag/garden), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [pigments](../tag/pigments), [response:9432](../tag/response:9432), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [red-filter](../tag/red-filter), [ndvi-ag](../tag/ndvi-ag), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
 

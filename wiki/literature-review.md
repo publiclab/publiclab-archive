@@ -1,5 +1,7 @@
 ---
-title: "Conducting a Literature Review"\ntagnames: 'research, tool, literature-review, method'
+title: "Conducting a Literature Review"
+
+tagnames: 'research, tool, literature-review, method'
 author: gretchengehrke
 path: /wiki/literature-review.md
 nid: 13398

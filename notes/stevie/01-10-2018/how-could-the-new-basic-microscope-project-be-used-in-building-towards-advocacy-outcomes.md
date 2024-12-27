@@ -1,5 +1,7 @@
 ---
-title: "How could the new basic microscope project be used in building towards advocacy outcomes?"\ntagnames: 'microscope, advocacy, question:advocacy, question:microscope, question:microscopes, question:basic-microscope, basic-microscope, question:community-microscope'
+title: "How could the new basic microscope project be used in building towards advocacy outcomes?"
+
+tagnames: 'microscope, advocacy, question:advocacy, question:microscope, question:microscopes, question:basic-microscope, basic-microscope, question:community-microscope'
 author: stevie
 path: /notes/stevie/01-10-2018/how-could-the-new-basic-microscope-project-be-used-in-building-towards-advocacy-outcomes.md
 nid: 15505
@@ -9,7 +11,7 @@ uid: 422561
 
 # How could the new basic microscope project be used in building towards advocacy outcomes?
 
-by [stevie](../profile/stevie) | January 10, 2018 21:10
+by [stevie](../../../profile/stevie) | January 10, 2018 21:10
 
 January 10, 2018 21:10 | Tags: [microscope](../tag/microscope), [advocacy](../tag/advocacy), [question:advocacy](../tag/question:advocacy), [question:microscope](../tag/question:microscope), [question:microscopes](../tag/question:microscopes), [question:basic-microscope](../tag/question:basic-microscope), [basic-microscope](../tag/basic-microscope), [question:community-microscope](../tag/question:community-microscope)
 

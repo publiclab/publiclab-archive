@@ -1,5 +1,7 @@
 ---
-title: "Notes from Tues April 12 staff call"\ntagnames: ''
+title: "Notes from Tues April 12 staff call"
+
+tagnames: ''
 author: warren
 path: /notes/warren/4-12-2011/notes-tues-april-12-staff-call.md
 nid: 171
@@ -9,7 +11,7 @@ uid: 1
 
 # Notes from Tues April 12 staff call
 
-by [warren](../profile/warren) | April 12, 2011 15:26
+by [warren](../../../profile/warren) | April 12, 2011 15:26
 
 April 12, 2011 15:26 | Tags: 
 

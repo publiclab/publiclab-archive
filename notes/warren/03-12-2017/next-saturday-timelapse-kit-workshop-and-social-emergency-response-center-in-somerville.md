@@ -1,5 +1,7 @@
 ---
-title: "Next Saturday: Timelapse Kit workshop and Social Emergency Response Center in Somerville"\ntagnames: 'somerville-massachusetts, boston, partsandcrafts, workshop, photo-monitoring, event, somerville, timelapse, northeast, event:rsvp, 2, 1, serc, ds4si, date:03-18-2017, rsvp:xose'
+title: "Next Saturday: Timelapse Kit workshop and Social Emergency Response Center in Somerville"
+
+tagnames: 'somerville-massachusetts, boston, partsandcrafts, workshop, photo-monitoring, event, somerville, timelapse, northeast, event:rsvp, 2, 1, serc, ds4si, date:03-18-2017, rsvp:xose'
 author: warren
 path: /notes/warren/03-12-2017/next-saturday-timelapse-kit-workshop-and-social-emergency-response-center-in-somerville.md
 nid: 14003
@@ -11,7 +13,7 @@ uid: 1
 
 # Next Saturday: Timelapse Kit workshop and Social Emergency Response Center in Somerville
 
-by [warren](../profile/warren) | March 12, 2017 06:01
+by [warren](../../../profile/warren) | March 12, 2017 06:01
 
 March 12, 2017 06:01 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [partsandcrafts](../tag/partsandcrafts), [workshop](../tag/workshop), [photo-monitoring](../tag/photo-monitoring), [event](../tag/event), [somerville](../tag/somerville), [timelapse](../tag/timelapse), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [2](../tag/2), [1](../tag/1), [serc](../tag/serc), [ds4si](../tag/ds4si), [date:03-18-2017](../tag/date:03-18-2017), [rsvp:xose](../tag/rsvp:xose)
 

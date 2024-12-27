@@ -1,5 +1,7 @@
 ---
-title: "Response to "How do DIY processes encourage citizen participation?""\ntagnames: 'kite-mapping, diy, civic-science, crowdsourcing'
+title: "Response to "How do DIY processes encourage citizen participation?""
+
+tagnames: 'kite-mapping, diy, civic-science, crowdsourcing'
 author: cindy_excites
 path: /notes/Cindy_ExCites/06-25-2014/response-to-how-do-diy-processes-encourage-citizen-participation.md
 nid: 10616
@@ -11,7 +13,7 @@ uid: 1083
 
 # Response to "How do DIY processes encourage citizen participation?"
 
-by [cindy_excites](../profile/cindy_excites) | June 25, 2014 19:31
+by [cindy_excites](../../../profile/cindy_excites) | June 25, 2014 19:31
 
 June 25, 2014 19:31 | Tags: [kite-mapping](../tag/kite-mapping), [diy](../tag/diy), [civic-science](../tag/civic-science), [crowdsourcing](../tag/crowdsourcing)
 

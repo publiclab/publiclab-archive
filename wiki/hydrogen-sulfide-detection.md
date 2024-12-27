@@ -1,5 +1,7 @@
 ---
-title: "Hydrogen Sulfide Detection"\ntagnames: 'hydrogen-sulfide, h2s, parent:hydrogen-sulfide, h2s-overview'
+title: "Hydrogen Sulfide Detection"
+
+tagnames: 'hydrogen-sulfide, h2s, parent:hydrogen-sulfide, h2s-overview'
 author: gretchengehrke
 path: /wiki/hydrogen-sulfide-detection.md
 nid: 15055

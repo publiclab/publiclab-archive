@@ -1,5 +1,7 @@
 ---
-title: "Southeast United States"\ntagnames: 'list:plots-southeast, tabbed:notes, tabbed:wikis, region'
+title: "Southeast United States"
+
+tagnames: 'list:plots-southeast, tabbed:notes, tabbed:wikis, region'
 author: liz
 path: /wiki/southeast.md
 nid: 10497

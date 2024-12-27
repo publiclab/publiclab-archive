@@ -1,5 +1,7 @@
 ---
-title: "Announcing MapKnitter 2.0"\ntagnames: 'balloon-mapping, kite-mapping, grassrootsmapping, mapknitter, image-stitching, web-development, software, grassrootsmappingforum, gsoc, developers, gsoc-2014, stitching, mapknitter2, gmf-8'
+title: "Announcing MapKnitter 2.0"
+
+tagnames: 'balloon-mapping, kite-mapping, grassrootsmapping, mapknitter, image-stitching, web-development, software, grassrootsmappingforum, gsoc, developers, gsoc-2014, stitching, mapknitter2, gmf-8'
 author: warren
 path: /notes/warren/02-13-2015/announcing-mapknitter-2-0.md
 nid: 11582
@@ -11,7 +13,7 @@ uid: 1
 
 # Announcing MapKnitter 2.0
 
-by [warren](../profile/warren) | February 13, 2015 18:49
+by [warren](../../../profile/warren) | February 13, 2015 18:49
 
 February 13, 2015 18:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [image-stitching](../tag/image-stitching), [web-development](../tag/web-development), [software](../tag/software), [grassrootsmappingforum](../tag/grassrootsmappingforum), [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2014](../tag/gsoc-2014), [stitching](../tag/stitching), [mapknitter2](../tag/mapknitter2), [gmf-8](../tag/gmf-8)
 

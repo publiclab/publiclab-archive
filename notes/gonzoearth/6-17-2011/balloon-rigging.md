@@ -1,5 +1,7 @@
 ---
-title: "balloon rigging"\ntagnames: 'balloon-mapping, photo-rig'
+title: "balloon rigging"
+
+tagnames: 'balloon-mapping, photo-rig'
 author: gonzoearth
 path: /notes/gonzoearth/6-17-2011/balloon-rigging.md
 nid: 347
@@ -11,7 +13,7 @@ uid: 12
 
 # balloon rigging
 
-by [gonzoearth](../profile/gonzoearth) | June 18, 2011 02:52
+by [gonzoearth](../../../profile/gonzoearth) | June 18, 2011 02:52
 
 June 18, 2011 02:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [photo-rig](../tag/photo-rig)
 

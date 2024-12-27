@@ -1,5 +1,7 @@
 ---
-title: "Cool It "\ntagnames: 'nasa, apps, space-apps-challenge, urban-heat-island'
+title: "Cool It "
+
+tagnames: 'nasa, apps, space-apps-challenge, urban-heat-island'
 author: baskotasusan
 path: /notes/baskotasusan/04-15-2014/cool-it.md
 nid: 10310
@@ -9,7 +11,7 @@ uid: 422471
 
 # Cool It 
 
-by [baskotasusan](../profile/baskotasusan) | April 15, 2014 12:00
+by [baskotasusan](../../../profile/baskotasusan) | April 15, 2014 12:00
 
 April 15, 2014 12:00 | Tags: [nasa](../tag/nasa), [apps](../tag/apps), [space-apps-challenge](../tag/space-apps-challenge), [urban-heat-island](../tag/urban-heat-island)
 

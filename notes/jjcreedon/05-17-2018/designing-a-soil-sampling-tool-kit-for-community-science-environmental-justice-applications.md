@@ -1,5 +1,7 @@
 ---
-title: "Designing a soil sampling tool kit for community science /environmental justice applications"\ntagnames: 'industrial-monitoring, lead, advocacy, soil-sampling, activity:soil-sampling-toolkit'
+title: "Designing a soil sampling tool kit for community science /environmental justice applications"
+
+tagnames: 'industrial-monitoring, lead, advocacy, soil-sampling, activity:soil-sampling-toolkit'
 author: jjcreedon
 path: /notes/jjcreedon/05-17-2018/designing-a-soil-sampling-tool-kit-for-community-science-environmental-justice-applications.md
 nid: 16356
@@ -11,7 +13,7 @@ uid: 515357
 
 # Designing a soil sampling tool kit for community science /environmental justice applications
 
-by [jjcreedon](../profile/jjcreedon) | May 17, 2018 00:28
+by [jjcreedon](../../../profile/jjcreedon) | May 17, 2018 00:28
 
 May 17, 2018 00:28 | Tags: [industrial-monitoring](../tag/industrial-monitoring), [lead](../tag/lead), [advocacy](../tag/advocacy), [soil-sampling](../tag/soil-sampling), [activity:soil-sampling-toolkit](../tag/activity:soil-sampling-toolkit)
 

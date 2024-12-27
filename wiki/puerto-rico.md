@@ -1,5 +1,7 @@
 ---
-title: "Puerto Rico"\ntagnames: 'pr, place, caribbean, puerto-rico, location:blurred, lat:18, lon:-66'
+title: "Puerto Rico"
+
+tagnames: 'pr, place, caribbean, puerto-rico, location:blurred, lat:18, lon:-66'
 author: liz
 path: /wiki/puerto-rico.md
 nid: 12131

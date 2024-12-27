@@ -1,5 +1,7 @@
 ---
-title: "Boston-area MapKnitter meetup"\ntagnames: 'balloon-mapping, kite-mapping, mapknitter, meetup, event'
+title: "Boston-area MapKnitter meetup"
+
+tagnames: 'balloon-mapping, kite-mapping, mapknitter, meetup, event'
 author: warren
 path: /notes/warren/11-28-2012/boston-area-mapknitter-meetup.md
 nid: 5038
@@ -11,7 +13,7 @@ uid: 1
 
 # Boston-area MapKnitter meetup
 
-by [warren](../profile/warren) | November 28, 2012 21:32
+by [warren](../../../profile/warren) | November 28, 2012 21:32
 
 November 28, 2012 21:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [meetup](../tag/meetup), [event](../tag/event)
 

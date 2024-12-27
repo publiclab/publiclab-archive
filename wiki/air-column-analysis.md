@@ -1,5 +1,7 @@
 ---
-title: "Air column analysis"\ntagnames: 'air-column-monitor, air-column, vibrations, string, windspeed'
+title: "Air column analysis"
+
+tagnames: 'air-column-monitor, air-column, vibrations, string, windspeed'
 author: warren
 path: /wiki/air-column-analysis.md
 nid: 745

@@ -1,5 +1,7 @@
 ---
-title: "Print maps from the PLOTS Archive and MapKnitter"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping'
+title: "Print maps from the PLOTS Archive and MapKnitter"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping'
 author: gonzoearth
 path: /notes/gonzoearth/5-10-2012/print-maps-plots-archive-and-mapknitter.md
 nid: 1949
@@ -11,7 +13,7 @@ uid: 12
 
 # Print maps from the PLOTS Archive and MapKnitter
 
-by [gonzoearth](../profile/gonzoearth) | May 10, 2012 20:38
+by [gonzoearth](../../../profile/gonzoearth) | May 10, 2012 20:38
 
 May 10, 2012 20:38 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping)
 

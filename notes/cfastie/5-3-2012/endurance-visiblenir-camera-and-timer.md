@@ -1,5 +1,7 @@
 ---
-title: "Endurance of visible/NIR camera and timer"\ntagnames: 'near-infrared-camera, triggering, troubleshooting'
+title: "Endurance of visible/NIR camera and timer"
+
+tagnames: 'near-infrared-camera, triggering, troubleshooting'
 author: cfastie
 path: /notes/cfastie/5-3-2012/endurance-visiblenir-camera-and-timer.md
 nid: 1894
@@ -11,7 +13,7 @@ uid: 554
 
 # Endurance of visible/NIR camera and timer
 
-by [cfastie](../profile/cfastie) | May 03, 2012 05:54
+by [cfastie](../../../profile/cfastie) | May 03, 2012 05:54
 
 May 03, 2012 05:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [troubleshooting](../tag/troubleshooting)
 

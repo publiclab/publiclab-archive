@@ -1,5 +1,7 @@
 ---
-title: "Edwight and Shumate 3/4/22"\ntagnames: 'drones, coal-mining, coal, mmmp'
+title: "Edwight and Shumate 3/4/22"
+
+tagnames: 'drones, coal-mining, coal, mmmp'
 author: junior_walk1337
 path: /notes/junior_walk1337/03-04-2022/edwight-and-shumate-3-4-22.md
 nid: 30099
@@ -11,7 +13,7 @@ uid: 756318
 
 # Edwight and Shumate 3/4/22
 
-by [junior_walk1337](../profile/junior_walk1337) | March 04, 2022 20:45
+by [junior_walk1337](../../../profile/junior_walk1337) | March 04, 2022 20:45
 
 March 04, 2022 20:45 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [coal](../tag/coal), [mmmp](../tag/mmmp)
 

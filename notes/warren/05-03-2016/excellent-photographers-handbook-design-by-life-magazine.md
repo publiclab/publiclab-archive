@@ -1,5 +1,7 @@
 ---
-title: "Excellent photographers handbook design by LIFE magazine"\ntagnames: 'guides, design, instructions, steps, onboarding, accessibility, booklets'
+title: "Excellent photographers handbook design by LIFE magazine"
+
+tagnames: 'guides, design, instructions, steps, onboarding, accessibility, booklets'
 author: warren
 path: /notes/warren/05-03-2016/excellent-photographers-handbook-design-by-life-magazine.md
 nid: 13066
@@ -11,7 +13,7 @@ uid: 1
 
 # Excellent photographers handbook design by LIFE magazine
 
-by [warren](../profile/warren) | May 03, 2016 19:08
+by [warren](../../../profile/warren) | May 03, 2016 19:08
 
 May 03, 2016 19:08 | Tags: [guides](../tag/guides), [design](../tag/design), [instructions](../tag/instructions), [steps](../tag/steps), [onboarding](../tag/onboarding), [accessibility](../tag/accessibility), [booklets](../tag/booklets)
 

@@ -1,5 +1,7 @@
 ---
-title: "Microplastic Collection From Mississippi River Water Bottle Display"\ntagnames: 'gulf-coast, mississippi-river, lat:22, babylegs, first-time-poster, lon:76, zoom:6'
+title: "Microplastic Collection From Mississippi River Water Bottle Display"
+
+tagnames: 'gulf-coast, mississippi-river, lat:22, babylegs, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/04-07-2022/microplastic-collection-from-mississippi-river-water-bottle-display.md
 nid: 30290
@@ -11,7 +13,7 @@ uid: 788868
 
 # Microplastic Collection From Mississippi River Water Bottle Display
 
-by [TheChessGym](../profile/TheChessGym) | April 07, 2022 14:15
+by [TheChessGym](../../../profile/TheChessGym) | April 07, 2022 14:15
 
 April 07, 2022 14:15 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi-river](../tag/mississippi-river), [lat:22](../tag/lat:22), [babylegs](../tag/babylegs), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

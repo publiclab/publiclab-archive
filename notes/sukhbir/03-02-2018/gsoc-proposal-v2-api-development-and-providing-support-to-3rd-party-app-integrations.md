@@ -1,5 +1,7 @@
 ---
-title: "GSoC Proposal: v2 API development and third party app integrations"\ntagnames: 'software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-api, first-time-poster'
+title: "GSoC Proposal: v2 API development and third party app integrations"
+
+tagnames: 'software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-api, first-time-poster'
 author: sukhbir
 path: /notes/sukhbir/03-02-2018/gsoc-proposal-v2-api-development-and-providing-support-to-3rd-party-app-integrations.md
 nid: 15853
@@ -11,7 +13,7 @@ uid: 525032
 
 # GSoC Proposal: v2 API development and third party app integrations
 
-by [sukhbir](../profile/sukhbir) | March 02, 2018 01:42
+by [sukhbir](../../../profile/sukhbir) | March 02, 2018 01:42
 
 March 02, 2018 01:42 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-api](../tag/soc-2018-api), [first-time-poster](../tag/first-time-poster)
 

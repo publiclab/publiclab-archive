@@ -1,5 +1,7 @@
 ---
-title: "Air quality balloons - an updated version?"\ntagnames: 'air-quality, sensors, question:air-quality, question:general, awareness-raising, question:balloons'
+title: "Air quality balloons - an updated version?"
+
+tagnames: 'air-quality, sensors, question:air-quality, question:general, awareness-raising, question:balloons'
 author: cindy_excites
 path: /notes/Cindy_ExCites/08-03-2018/air-quality-balloons-an-updated-version.md
 nid: 16851
@@ -11,7 +13,7 @@ uid: 1083
 
 # Air quality balloons - an updated version?
 
-by [cindy_excites](../profile/cindy_excites) | August 03, 2018 16:39
+by [cindy_excites](../../../profile/cindy_excites) | August 03, 2018 16:39
 
 August 03, 2018 16:39 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [awareness-raising](../tag/awareness-raising), [question:balloons](../tag/question:balloons)
 

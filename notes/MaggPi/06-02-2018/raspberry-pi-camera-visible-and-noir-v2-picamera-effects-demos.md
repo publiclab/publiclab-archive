@@ -1,5 +1,7 @@
 ---
-title: "Raspberry Pi camera (visible and NOIR) V2 / picamera effects demos"\ntagnames: 'webcam, camera, gsoc, pi, raspberry, pi-camera, pinoir, soc, gsoc-2018, soc-2018, pi-microscope, camera-comparison'
+title: "Raspberry Pi camera (visible and NOIR) V2 / picamera effects demos"
+
+tagnames: 'webcam, camera, gsoc, pi, raspberry, pi-camera, pinoir, soc, gsoc-2018, soc-2018, pi-microscope, camera-comparison'
 author: MaggPi
 path: /notes/MaggPi/06-02-2018/raspberry-pi-camera-visible-and-noir-v2-picamera-effects-demos.md
 nid: 16423
@@ -11,7 +13,7 @@ uid: 501996
 
 # Raspberry Pi camera (visible and NOIR) V2 / picamera effects demos
 
-by [MaggPi](../profile/MaggPi) | June 02, 2018 22:12
+by [MaggPi](../../../profile/MaggPi) | June 02, 2018 22:12
 
 June 02, 2018 22:12 | Tags: [webcam](../tag/webcam), [camera](../tag/camera), [gsoc](../tag/gsoc), [pi](../tag/pi), [raspberry](../tag/raspberry), [pi-camera](../tag/pi-camera), [pinoir](../tag/pinoir), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [pi-microscope](../tag/pi-microscope), [camera-comparison](../tag/camera-comparison)
 

@@ -1,5 +1,7 @@
 ---
-title: "Servidor Proxy"\ntagnames: ''
+title: "Servidor Proxy"
+
+tagnames: ''
 author: Jayko
 path: /notes/Jayko/09-18-2014/servidor-proxy.md
 nid: 11161
@@ -9,7 +11,7 @@ uid: 428655
 
 # Servidor Proxy
 
-by [Jayko](../profile/Jayko) | September 18, 2014 22:52
+by [Jayko](../../../profile/Jayko) | September 18, 2014 22:52
 
 September 18, 2014 22:52 | Tags: 
 

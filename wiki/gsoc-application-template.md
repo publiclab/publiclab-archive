@@ -1,5 +1,7 @@
 ---
-title: "SoC Application Template"\ntagnames: 'gsoc, parent:gsoc'
+title: "SoC Application Template"
+
+tagnames: 'gsoc, parent:gsoc'
 author: warren
 path: /wiki/gsoc-application-template.md
 nid: 899

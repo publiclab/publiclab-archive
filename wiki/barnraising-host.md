@@ -1,5 +1,7 @@
 ---
-title: "Host a Barnraising 举办一个谷仓聚会"\ntagnames: 'events, barnraising, parent:barnraising, sidebar:none'
+title: "Host a Barnraising 举办一个谷仓聚会"
+
+tagnames: 'events, barnraising, parent:barnraising, sidebar:none'
 author: stevie
 path: /wiki/barnraising-host.md
 nid: 15381

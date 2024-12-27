@@ -1,5 +1,7 @@
 ---
-title: "Inexpensive HEPA Filter Fan project to reduce air pollution"\ntagnames: 'filter, air-quality, air, transportation, dust, traffic, filters, air-filter, airpollution, filtration, activity:dust, activity:air-quality, air-filters, activity:air-filters, activity:filters'
+title: "Inexpensive HEPA Filter Fan project to reduce air pollution"
+
+tagnames: 'filter, air-quality, air, transportation, dust, traffic, filters, air-filter, airpollution, filtration, activity:dust, activity:air-quality, air-filters, activity:air-filters, activity:filters'
 author: Melissa
 path: /notes/Melissa/08-26-2015/inexpensive-hepa-filter-fan-project-to-reduce-air-pollution.md
 nid: 12171
@@ -11,7 +13,7 @@ uid: 449383
 
 # Inexpensive HEPA Filter Fan project to reduce air pollution
 
-by [Melissa](../profile/Melissa) | August 26, 2015 16:09
+by [Melissa](../../../profile/Melissa) | August 26, 2015 16:09
 
 August 26, 2015 16:09 | Tags: [filter](../tag/filter), [air-quality](../tag/air-quality), [air](../tag/air), [transportation](../tag/transportation), [dust](../tag/dust), [traffic](../tag/traffic), [filters](../tag/filters), [air-filter](../tag/air-filter), [airpollution](../tag/airpollution), [filtration](../tag/filtration), [activity:dust](../tag/activity:dust), [activity:air-quality](../tag/activity:air-quality), [air-filters](../tag/air-filters), [activity:air-filters](../tag/activity:air-filters), [activity:filters](../tag/activity:filters)
 

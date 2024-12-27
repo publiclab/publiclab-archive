@@ -1,5 +1,7 @@
 ---
-title: "Google Summer of Code 2019 @ Public Lab: Second Phase Work"\ntagnames: 'gsoc, gsoc-2019'
+title: "Google Summer of Code 2019 @ Public Lab: Second Phase Work"
+
+tagnames: 'gsoc, gsoc-2019'
 author: namangupta
 path: /notes/namangupta/07-24-2019/google-summer-of-code-2019-public-lab-second-phase-work.md
 nid: 20273
@@ -11,7 +13,7 @@ uid: 522848
 
 # Google Summer of Code 2019 @ Public Lab: Second Phase Work
 
-by [namangupta](../profile/namangupta) | July 24, 2019 20:40
+by [namangupta](../../../profile/namangupta) | July 24, 2019 20:40
 
 July 24, 2019 20:40 | Tags: [gsoc](../tag/gsoc), [gsoc-2019](../tag/gsoc-2019)
 

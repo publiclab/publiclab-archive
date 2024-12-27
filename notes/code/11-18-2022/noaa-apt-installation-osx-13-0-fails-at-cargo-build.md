@@ -1,5 +1,7 @@
 ---
-title: "NOAA-Apt installation OSX 13.0 fails at Cargo Build"\ntagnames: 'noaa, lat:30, first-time-poster, zoom:3, lon:-100, response:24052'
+title: "NOAA-Apt installation OSX 13.0 fails at Cargo Build"
+
+tagnames: 'noaa, lat:30, first-time-poster, zoom:3, lon:-100, response:24052'
 author: code
 path: /notes/code/11-18-2022/noaa-apt-installation-osx-13-0-fails-at-cargo-build.md
 nid: 37430
@@ -9,7 +11,7 @@ uid: 820958
 
 # NOAA-Apt installation OSX 13.0 fails at Cargo Build
 
-by [code](../profile/code) | November 18, 2022 05:24
+by [code](../../../profile/code) | November 18, 2022 05:24
 
 November 18, 2022 05:24 | Tags: [noaa](../tag/noaa), [lat:30](../tag/lat:30), [first-time-poster](../tag/first-time-poster), [zoom:3](../tag/zoom:3), [lon:-100](../tag/lon:-100), [response:24052](../tag/response:24052)
 

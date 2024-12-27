@@ -1,5 +1,7 @@
 ---
-title: "mechatronics project ideas"\ntagnames: 'issue-brief'
+title: "mechatronics project ideas"
+
+tagnames: 'issue-brief'
 author: keerthana06
 path: /notes/keerthana06/05-22-2021/mechatronics-project-ideas.md
 nid: 26676
@@ -11,7 +13,7 @@ uid: 754722
 
 # mechatronics project ideas
 
-by [keerthana06](../profile/keerthana06) | May 22, 2021 10:39
+by [keerthana06](../../../profile/keerthana06) | May 22, 2021 10:39
 
 May 22, 2021 10:39 | Tags: [issue-brief](../tag/issue-brief)
 

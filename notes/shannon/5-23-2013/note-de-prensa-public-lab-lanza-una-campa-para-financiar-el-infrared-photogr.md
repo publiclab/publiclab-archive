@@ -1,5 +1,7 @@
 ---
-title: "Nota de Prensa: Public Lab lanza una campana para financiar el Infrared Photography Project  "\ntagnames: 'infrared, infragram, press-release'
+title: "Nota de Prensa: Public Lab lanza una campana para financiar el Infrared Photography Project  "
+
+tagnames: 'infrared, infragram, press-release'
 author: Shannon
 path: /notes/shannon/5-23-2013/note-de-prensa-public-lab-lanza-una-campa-para-financiar-el-infrared-photogr.md
 nid: 7878
@@ -11,7 +13,7 @@ uid: 9
 
 # Nota de Prensa: Public Lab lanza una campana para financiar el Infrared Photography Project  
 
-by [Shannon](../profile/Shannon) | May 24, 2013 00:59
+by [Shannon](../../../profile/Shannon) | May 24, 2013 00:59
 
 May 24, 2013 00:59 | Tags: [infrared](../tag/infrared), [infragram](../tag/infragram), [press-release](../tag/press-release)
 

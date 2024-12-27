@@ -1,5 +1,7 @@
 ---
-title: "How do I..."\ntagnames: 'spectrometry, question:spectrometry, first-time-poster'
+title: "How do I..."
+
+tagnames: 'spectrometry, question:spectrometry, first-time-poster'
 author: Mekis
 path: /notes/Mekis/04-12-2017/how-do-i.md
 nid: 14108
@@ -9,7 +11,7 @@ uid: 505614
 
 # How do I...
 
-by [Mekis](../profile/Mekis) | April 12, 2017 18:45
+by [Mekis](../../../profile/Mekis) | April 12, 2017 18:45
 
 April 12, 2017 18:45 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [first-time-poster](../tag/first-time-poster)
 

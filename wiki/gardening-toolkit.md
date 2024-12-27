@@ -1,5 +1,7 @@
 ---
-title: "gardening-toolkit"\ntagnames: 'polemapping, urban-ag, infragram, garden, pole-photography, pole-mapping, tool, elp, gardening-toolkit, method, activity:teach-and-learn, workshop-series, activity:workshop-series'
+title: "gardening-toolkit"
+
+tagnames: 'polemapping, urban-ag, infragram, garden, pole-photography, pole-mapping, tool, elp, gardening-toolkit, method, activity:teach-and-learn, workshop-series, activity:workshop-series'
 author: liz
 path: /wiki/gardening-toolkit.md
 nid: 10229

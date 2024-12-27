@@ -1,5 +1,7 @@
 ---
-title: "20 Oil Testing kits (draft 1) "\ntagnames: 'spectrometer, oil-testing-kit'
+title: "20 Oil Testing kits (draft 1) "
+
+tagnames: 'spectrometer, oil-testing-kit'
 author: mathew
 path: /notes/mathew/02-22-2014/20-oil-testing-kits-draft-1.md
 nid: 10054
@@ -11,7 +13,7 @@ uid: 4
 
 # 20 Oil Testing kits (draft 1) 
 
-by [mathew](../profile/mathew) | February 22, 2014 01:09
+by [mathew](../../../profile/mathew) | February 22, 2014 01:09
 
 February 22, 2014 01:09 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
 

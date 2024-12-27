@@ -1,5 +1,7 @@
 ---
-title: "Let public lands speak for themselves"\ntagnames: 'environment, land-use, governance'
+title: "Let public lands speak for themselves"
+
+tagnames: 'environment, land-use, governance'
 author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/let-public-lands-speak-for-themselves.md
 nid: 15313
@@ -11,7 +13,7 @@ uid: 45586
 
 # Let public lands speak for themselves
 
-by [mlamadrid](../profile/mlamadrid) | December 05, 2017 23:55
+by [mlamadrid](../../../profile/mlamadrid) | December 05, 2017 23:55
 
 December 05, 2017 23:55 | Tags: [environment](../tag/environment), [land-use](../tag/land-use), [governance](../tag/governance)
 

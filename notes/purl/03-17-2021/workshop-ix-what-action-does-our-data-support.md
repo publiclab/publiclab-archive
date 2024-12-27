@@ -1,5 +1,7 @@
 ---
-title: "Workshop X: What Action Does our Data Support?"\ntagnames: 'education, workshop, communityscience'
+title: "Workshop X: What Action Does our Data Support?"
+
+tagnames: 'education, workshop, communityscience'
 author: purl
 path: /notes/purl/03-17-2021/workshop-ix-what-action-does-our-data-support.md
 nid: 25955
@@ -11,7 +13,7 @@ uid: 736598
 
 # Workshop X: What Action Does our Data Support?
 
-by [purl](../profile/purl) | March 17, 2021 18:56
+by [purl](../../../profile/purl) | March 17, 2021 18:56
 
 March 17, 2021 18:56 | Tags: [education](../tag/education), [workshop](../tag/workshop), [communityscience](../tag/communityscience)
 

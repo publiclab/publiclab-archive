@@ -1,5 +1,7 @@
 ---
-title: "Evaluation of Pesticide Residues in Organic Raspberries using Different Extraction Solvents"\ntagnames: 'spectrometer, agriculture, pesticides, extraction, reagents, raspberries, organic, response:10014, solvents'
+title: "Evaluation of Pesticide Residues in Organic Raspberries using Different Extraction Solvents"
+
+tagnames: 'spectrometer, agriculture, pesticides, extraction, reagents, raspberries, organic, response:10014, solvents'
 author: silverhammer
 path: /notes/silverhammer/02-27-2014/evaluation-of-pesticide-residues-in-organic-raspberries-using-different-extraction-solvents.md
 nid: 10074
@@ -11,7 +13,7 @@ uid: 420530
 
 # Evaluation of Pesticide Residues in Organic Raspberries using Different Extraction Solvents
 
-by [silverhammer](../profile/silverhammer) | February 27, 2014 22:03
+by [silverhammer](../../../profile/silverhammer) | February 27, 2014 22:03
 
 February 27, 2014 22:03 | Tags: [spectrometer](../tag/spectrometer), [agriculture](../tag/agriculture), [pesticides](../tag/pesticides), [extraction](../tag/extraction), [reagents](../tag/reagents), [raspberries](../tag/raspberries), [organic](../tag/organic), [response:10014](../tag/response:10014), [solvents](../tag/solvents)
 

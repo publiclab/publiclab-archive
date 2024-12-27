@@ -1,5 +1,7 @@
 ---
-title: "Massachusetts Indoor Air "\ntagnames: 'massachusetts, indoor-air-quality, indoor-air, indoor-air-info-sheet'
+title: "Massachusetts Indoor Air "
+
+tagnames: 'massachusetts, indoor-air-quality, indoor-air, indoor-air-info-sheet'
 author: gretchengehrke
 path: /wiki/massachusetts-indoor-air.md
 nid: 13564

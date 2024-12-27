@@ -1,5 +1,7 @@
 ---
-title: "Advanced Searching and Sorting Tool for publiclab.org"\ntagnames: 'software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827, rich-search, first-time-poster'
+title: "Advanced Searching and Sorting Tool for publiclab.org"
+
+tagnames: 'software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827, rich-search, first-time-poster'
 author: Ujitha
 path: /notes/Ujitha/03-12-2016/advanced-searching-and-sorting-tool-for-publiclab-org.md
 nid: 12837
@@ -9,7 +11,7 @@ uid: 467748
 
 # Advanced Searching and Sorting Tool for publiclab.org
 
-by [Ujitha](../profile/Ujitha) | March 12, 2016 12:24
+by [Ujitha](../../../profile/Ujitha) | March 12, 2016 12:24
 
 March 12, 2016 12:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827), [rich-search](../tag/rich-search), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "GsOc Proposal 2021: Filter out spam from comment."\ntagnames: 'gsoc, soc, location:blurred, lat:28, lon:77, place:india, zoom:6, gsoc-2021-proposals'
+title: "GsOc Proposal 2021: Filter out spam from comment."
+
+tagnames: 'gsoc, soc, location:blurred, lat:28, lon:77, place:india, zoom:6, gsoc-2021-proposals'
 author: lukoyedith
 path: /wiki/gsoc-proposal-2021-filter-out-spam-from-comment.md
 nid: 26224

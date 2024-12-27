@@ -1,5 +1,7 @@
 ---
-title: "Creating a Box Plot to Identify Potential Outliers Using CODAP"\ntagnames: 'data, activity:education, environmental-data, data-analysis, data-logging-visualization, data-visualization, activity:data-analysis, codap, presenting-data, activity:presenting-data'
+title: "Creating a Box Plot to Identify Potential Outliers Using CODAP"
+
+tagnames: 'data, activity:education, environmental-data, data-analysis, data-logging-visualization, data-visualization, activity:data-analysis, codap, presenting-data, activity:presenting-data'
 author: mimiss
 path: /notes/mimiss/06-18-2019/creating-a-boxplot-to-identify-outliers-using-codap.md
 nid: 19730
@@ -11,7 +13,7 @@ uid: 579821
 
 # Creating a Box Plot to Identify Potential Outliers Using CODAP
 
-by [mimiss](../profile/mimiss) | June 18, 2019 16:29
+by [mimiss](../../../profile/mimiss) | June 18, 2019 16:29
 
 June 18, 2019 16:29 | Tags: [data](../tag/data), [activity:education](../tag/activity:education), [environmental-data](../tag/environmental-data), [data-analysis](../tag/data-analysis), [data-logging-visualization](../tag/data-logging-visualization), [data-visualization](../tag/data-visualization), [activity:data-analysis](../tag/activity:data-analysis), [codap](../tag/codap), [presenting-data](../tag/presenting-data), [activity:presenting-data](../tag/activity:presenting-data)
 

@@ -1,5 +1,7 @@
 ---
-title: "Screening of short film on Public Lab on April 19"\ntagnames: 'somerville-massachusetts, kite-mapping, boston, barnraising, event'
+title: "Screening of short film on Public Lab on April 19"
+
+tagnames: 'somerville-massachusetts, kite-mapping, boston, barnraising, event'
 author: warren
 path: /notes/warren/04-18-2013/screening-of-short-film-on-public-l.md
 nid: 6894
@@ -11,7 +13,7 @@ uid: 1
 
 # Screening of short film on Public Lab on April 19
 
-by [warren](../profile/warren) | April 18, 2013 15:03
+by [warren](../../../profile/warren) | April 18, 2013 15:03
 
 April 18, 2013 15:03 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [barnraising](../tag/barnraising), [event](../tag/event)
 

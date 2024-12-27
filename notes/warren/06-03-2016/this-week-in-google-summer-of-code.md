@@ -1,5 +1,7 @@
 ---
-title: "This week in Google Summer of Code"\ntagnames: 'website, software, gsoc, developers, coding, wwg, gsoc-2016, response:13150'
+title: "This week in Google Summer of Code"
+
+tagnames: 'website, software, gsoc, developers, coding, wwg, gsoc-2016, response:13150'
 author: warren
 path: /notes/warren/06-03-2016/this-week-in-google-summer-of-code.md
 nid: 13161
@@ -11,7 +13,7 @@ uid: 1
 
 # This week in Google Summer of Code
 
-by [warren](../profile/warren) | June 03, 2016 20:32
+by [warren](../../../profile/warren) | June 03, 2016 20:32
 
 June 03, 2016 20:32 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [response:13150](../tag/response:13150)
 

@@ -1,5 +1,7 @@
 ---
-title: "Diamond kite bridles"\ntagnames: 'kite-mapping, kite, diy-kite, bridle, diamond, help, diy-kites, kite-making'
+title: "Diamond kite bridles"
+
+tagnames: 'kite-mapping, kite, diy-kite, bridle, diamond, help, diy-kites, kite-making'
 author: lfamular
 path: /notes/lfamular/8-15-2012/diamond-kite-bridles.md
 nid: 3297
@@ -11,7 +13,7 @@ uid: 120
 
 # Diamond kite bridles
 
-by [lfamular](../profile/lfamular) | August 15, 2012 22:16
+by [lfamular](../../../profile/lfamular) | August 15, 2012 22:16
 
 August 15, 2012 22:16 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [diy-kite](../tag/diy-kite), [bridle](../tag/bridle), [diamond](../tag/diamond), [help](../tag/help), [diy-kites](../tag/diy-kites), [kite-making](../tag/kite-making)
 

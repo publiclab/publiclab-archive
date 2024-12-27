@@ -1,5 +1,7 @@
 ---
-title: "lang:es"\ntagnames: ''
+title: "lang:es"
+
+tagnames: ''
 author: xose
 path: /wiki/lang-es.md
 nid: 24268

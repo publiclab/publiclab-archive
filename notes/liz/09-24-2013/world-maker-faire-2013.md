@@ -1,5 +1,7 @@
 ---
-title: "World Maker Faire 2013"\ntagnames: 'new-york-city, events, makerfaire, panel, with:donblair, make'
+title: "World Maker Faire 2013"
+
+tagnames: 'new-york-city, events, makerfaire, panel, with:donblair, make'
 author: liz
 path: /notes/liz/09-24-2013/world-maker-faire-2013.md
 nid: 9363
@@ -11,7 +13,7 @@ uid: 7
 
 # World Maker Faire 2013
 
-by [liz](../profile/liz) | September 24, 2013 23:01
+by [liz](../../../profile/liz) | September 24, 2013 23:01
 
 September 24, 2013 23:01 | Tags: [new-york-city](../tag/new-york-city), [events](../tag/events), [makerfaire](../tag/makerfaire), [panel](../tag/panel), [with:donblair](../tag/with:donblair), [make](../tag/make)
 

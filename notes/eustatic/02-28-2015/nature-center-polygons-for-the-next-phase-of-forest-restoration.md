@@ -1,5 +1,7 @@
 ---
-title: "Nature Center polygons for the next phase of Forest Restoration"\ntagnames: 'gulf-coast, mapknitter, urbanwater, urbanwaters'
+title: "Nature Center polygons for the next phase of Forest Restoration"
+
+tagnames: 'gulf-coast, mapknitter, urbanwater, urbanwaters'
 author: eustatic
 path: /02-28-2015/nature-center-polygons-for-the-next-phase-of-forest-restoration.md
 nid: 11644
@@ -11,7 +13,7 @@ uid: 379
 
 # Nature Center polygons for the next phase of Forest Restoration
 
-by [eustatic](../profile/eustatic) | February 28, 2015 22:06
+by [eustatic](../../../profile/eustatic) | February 28, 2015 22:06
 
 February 28, 2015 22:06 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters)
 

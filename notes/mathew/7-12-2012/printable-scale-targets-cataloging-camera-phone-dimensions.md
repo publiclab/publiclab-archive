@@ -1,5 +1,7 @@
 ---
-title: "printable scale targets for cataloging camera & phone dimensions"\ntagnames: 'balloon-mapping, spectrometer, kite-mapping'
+title: "printable scale targets for cataloging camera & phone dimensions"
+
+tagnames: 'balloon-mapping, spectrometer, kite-mapping'
 author: mathew
 path: /notes/mathew/7-12-2012/printable-scale-targets-cataloging-camera-phone-dimensions.md
 nid: 2783
@@ -11,7 +13,7 @@ uid: 4
 
 # printable scale targets for cataloging camera & phone dimensions
 
-by [mathew](../profile/mathew) | July 12, 2012 19:56
+by [mathew](../../../profile/mathew) | July 12, 2012 19:56
 
 July 12, 2012 19:56 | Tags: [balloon-mapping](../tag/balloon-mapping), [spectrometer](../tag/spectrometer), [kite-mapping](../tag/kite-mapping)
 

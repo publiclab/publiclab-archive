@@ -1,5 +1,7 @@
 ---
-title: "Raspberry PI NoIR close-up Imaging "\ntagnames: 'near-infrared, raspberry-pi, gsoc, barnstar:basic, tool-focused, pi-camera, pinoir, soc, raspberry-pi-cameras, activity:microscope, gsoc-2018, soc-2018, activity:community-microscope, pi-microscope, series:community-microscope-tests, activity:community-microscope-usage'
+title: "Raspberry PI NoIR close-up Imaging "
+
+tagnames: 'near-infrared, raspberry-pi, gsoc, barnstar:basic, tool-focused, pi-camera, pinoir, soc, raspberry-pi-cameras, activity:microscope, gsoc-2018, soc-2018, activity:community-microscope, pi-microscope, series:community-microscope-tests, activity:community-microscope-usage'
 author: MaggPi
 path: /notes/MaggPi/05-11-2018/raspberry-pi-noir-close-up-imaging.md
 nid: 16326
@@ -11,7 +13,7 @@ uid: 501996
 
 # Raspberry PI NoIR close-up Imaging 
 
-by [MaggPi](../profile/MaggPi) | May 11, 2018 04:14
+by [MaggPi](../../../profile/MaggPi) | May 11, 2018 04:14
 
 May 11, 2018 04:14 | Tags: [near-infrared](../tag/near-infrared), [raspberry-pi](../tag/raspberry-pi), [gsoc](../tag/gsoc), [barnstar:basic](../tag/barnstar:basic), [tool-focused](../tag/tool-focused), [pi-camera](../tag/pi-camera), [pinoir](../tag/pinoir), [soc](../tag/soc), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:microscope](../tag/activity:microscope), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [activity:community-microscope](../tag/activity:community-microscope), [pi-microscope](../tag/pi-microscope), [series:community-microscope-tests](../tag/series:community-microscope-tests), [activity:community-microscope-usage](../tag/activity:community-microscope-usage)
 

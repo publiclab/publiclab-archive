@@ -1,5 +1,7 @@
 ---
-title: "Android phone hacked as radiation detector"\ntagnames: 'android, radiation'
+title: "Android phone hacked as radiation detector"
+
+tagnames: 'android, radiation'
 author: warren
 path: /notes/warren/2-5-2012/android-phone-hacked-radiation-detector.md
 nid: 750
@@ -11,7 +13,7 @@ uid: 1
 
 # Android phone hacked as radiation detector
 
-by [warren](../profile/warren) | February 05, 2012 17:31
+by [warren](../../../profile/warren) | February 05, 2012 17:31
 
 February 05, 2012 17:31 | Tags: [android](../tag/android), [radiation](../tag/radiation)
 

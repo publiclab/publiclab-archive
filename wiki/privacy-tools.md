@@ -1,5 +1,7 @@
 ---
-title: "Privacy Tools"\ntagnames: 'security, privacy, anonymity, parent:privacy, redirect:17805'
+title: "Privacy Tools"
+
+tagnames: 'security, privacy, anonymity, parent:privacy, redirect:17805'
 author: warren
 path: /wiki/privacy-tools.md
 nid: 17405

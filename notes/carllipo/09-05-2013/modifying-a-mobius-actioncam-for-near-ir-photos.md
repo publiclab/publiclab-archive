@@ -1,5 +1,7 @@
 ---
-title: "Modifying a Mobius ActionCam for Near IR Photos"\ntagnames: 'near-infrared-camera, ndvi, infragram, infragram-conversion, infragram-sandbox, mobius-actioncam, rcgroups'
+title: "Modifying a Mobius ActionCam for Near IR Photos"
+
+tagnames: 'near-infrared-camera, ndvi, infragram, infragram-conversion, infragram-sandbox, mobius-actioncam, rcgroups'
 author: carllipo
 path: /notes/carllipo/09-05-2013/modifying-a-mobius-actioncam-for-near-ir-photos.md
 nid: 9293
@@ -11,7 +13,7 @@ uid: 170171
 
 # Modifying a Mobius ActionCam for Near IR Photos
 
-by [carllipo](../profile/carllipo) | September 05, 2013 19:35
+by [carllipo](../../../profile/carllipo) | September 05, 2013 19:35
 
 September 05, 2013 19:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [rcgroups](../tag/rcgroups)
 

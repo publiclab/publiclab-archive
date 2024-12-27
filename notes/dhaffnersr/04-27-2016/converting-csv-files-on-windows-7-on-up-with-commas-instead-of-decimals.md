@@ -1,5 +1,7 @@
 ---
-title: "Converting CSV files on Windows 7 on up with commas instead of decimals"\ntagnames: ''
+title: "Converting CSV files on Windows 7 on up with commas instead of decimals"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-27-2016/converting-csv-files-on-windows-7-on-up-with-commas-instead-of-decimals.md
 nid: 13037
@@ -11,7 +13,7 @@ uid: 461120
 
 # Converting CSV files on Windows 7 on up with commas instead of decimals
 
-by [dhaffnersr](../profile/dhaffnersr) | April 27, 2016 15:35
+by [dhaffnersr](../../../profile/dhaffnersr) | April 27, 2016 15:35
 
 April 27, 2016 15:35 | Tags: 
 

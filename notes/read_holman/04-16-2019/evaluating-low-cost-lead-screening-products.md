@@ -1,5 +1,7 @@
 ---
-title: "Evaluating Low-cost Lead Screening Products"\ntagnames: 'lead, colorimetry, colorimetric, water-testing, lead-testing, lead-kits, paint'
+title: "Evaluating Low-cost Lead Screening Products"
+
+tagnames: 'lead, colorimetry, colorimetric, water-testing, lead-testing, lead-kits, paint'
 author: read_holman
 path: /notes/read_holman/04-16-2019/evaluating-low-cost-lead-screening-products.md
 nid: 19078
@@ -9,7 +11,7 @@ uid: 540243
 
 # Evaluating Low-cost Lead Screening Products
 
-by [read_holman](../profile/read_holman) | April 16, 2019 16:32
+by [read_holman](../../../profile/read_holman) | April 16, 2019 16:32
 
 April 16, 2019 16:32 | Tags: [lead](../tag/lead), [colorimetry](../tag/colorimetry), [colorimetric](../tag/colorimetric), [water-testing](../tag/water-testing), [lead-testing](../tag/lead-testing), [lead-kits](../tag/lead-kits), [paint](../tag/paint)
 

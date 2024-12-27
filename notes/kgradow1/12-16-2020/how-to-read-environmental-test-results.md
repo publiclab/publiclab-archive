@@ -1,5 +1,7 @@
 ---
-title: "How to read Environmental Test Results"\ntagnames: 'air-quality, water-quality, bucket-brigade, new, draft, soil-quality, activity:air-quality, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action, interpret-results-intro'
+title: "How to read Environmental Test Results"
+
+tagnames: 'air-quality, water-quality, bucket-brigade, new, draft, soil-quality, activity:air-quality, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action, interpret-results-intro'
 author: kgradow1
 path: /notes/kgradow1/12-16-2020/how-to-read-environmental-test-results.md
 nid: 25270
@@ -11,7 +13,7 @@ uid: 297929
 
 # How to read Environmental Test Results
 
-by [kgradow1](../profile/kgradow1) | December 16, 2020 21:01
+by [kgradow1](../../../profile/kgradow1) | December 16, 2020 21:01
 
 December 16, 2020 21:01 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [draft](../tag/draft), [soil-quality](../tag/soil-quality), [activity:air-quality](../tag/activity:air-quality), [activity:new](../tag/activity:new), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [statistics-for-action](../tag/statistics-for-action), [interpret-results-intro](../tag/interpret-results-intro)
 

@@ -1,5 +1,7 @@
 ---
-title: "DIY Formaldehyde Test Kit"\ntagnames: 'air-quality, air, prototype, barnstar:empiricism, formaldehyde, wherewebreathe, barnstar:excessive-enthusiasm, gas, low-cost, meter, canary-database, indoor-air-quality, hcho, seeks:replications, time:3h, difficulty:medium, category:build, status:in-progress, activity:open-air'
+title: "DIY Formaldehyde Test Kit"
+
+tagnames: 'air-quality, air, prototype, barnstar:empiricism, formaldehyde, wherewebreathe, barnstar:excessive-enthusiasm, gas, low-cost, meter, canary-database, indoor-air-quality, hcho, seeks:replications, time:3h, difficulty:medium, category:build, status:in-progress, activity:open-air'
 author: nshapiro
 path: /notes/nshapiro/11-03-2014/diy-formaldehyde-test-kit.md
 nid: 11317
@@ -11,7 +13,7 @@ uid: 380298
 
 # DIY Formaldehyde Test Kit
 
-by [nshapiro](../profile/nshapiro) | November 03, 2014 17:44
+by [nshapiro](../../../profile/nshapiro) | November 03, 2014 17:44
 
 November 03, 2014 17:44 | Tags: [air-quality](../tag/air-quality), [air](../tag/air), [prototype](../tag/prototype), [barnstar:empiricism](../tag/barnstar:empiricism), [formaldehyde](../tag/formaldehyde), [wherewebreathe](../tag/wherewebreathe), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [gas](../tag/gas), [low-cost](../tag/low-cost), [meter](../tag/meter), [canary-database](../tag/canary-database), [indoor-air-quality](../tag/indoor-air-quality), [hcho](../tag/hcho), [seeks:replications](../tag/seeks:replications), [time:3h](../tag/time:3h), [difficulty:medium](../tag/difficulty:medium), [category:build](../tag/category:build), [status:in-progress](../tag/status:in-progress), [activity:open-air](../tag/activity:open-air)
 

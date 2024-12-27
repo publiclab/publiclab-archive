@@ -1,5 +1,7 @@
 ---
-title: "Style guide"\ntagnames: 'design, style-guide, sidebar:none'
+title: "Style guide"
+
+tagnames: 'design, style-guide, sidebar:none'
 author: warren
 path: /wiki/style-guide.md
 nid: 11739

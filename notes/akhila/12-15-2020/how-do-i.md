@@ -1,5 +1,7 @@
 ---
-title: "How do I..."\ntagnames: 'barnstar:empiricism, food-quality, fertilizer, question:spectrometry-challenge, spectrometry-challenge, nitrogen, first-time-poster'
+title: "How do I..."
+
+tagnames: 'barnstar:empiricism, food-quality, fertilizer, question:spectrometry-challenge, spectrometry-challenge, nitrogen, first-time-poster'
 author: akhila
 path: /notes/akhila/12-15-2020/how-do-i.md
 nid: 25257
@@ -9,7 +11,7 @@ uid: 598560
 
 # How do I...
 
-by [akhila](../profile/akhila) | December 15, 2020 23:10
+by [akhila](../../../profile/akhila) | December 15, 2020 23:10
 
 December 15, 2020 23:10 | Tags: [barnstar:empiricism](../tag/barnstar:empiricism), [food-quality](../tag/food-quality), [fertilizer](../tag/fertilizer), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [spectrometry-challenge](../tag/spectrometry-challenge), [nitrogen](../tag/nitrogen), [first-time-poster](../tag/first-time-poster)
 

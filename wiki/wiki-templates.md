@@ -1,5 +1,7 @@
 ---
-title: "Wiki Templates "\ntagnames: 'issue, templates, template, parent:website'
+title: "Wiki Templates "
+
+tagnames: 'issue, templates, template, parent:website'
 author: stevie
 path: /wiki/wiki-templates.md
 nid: 15049

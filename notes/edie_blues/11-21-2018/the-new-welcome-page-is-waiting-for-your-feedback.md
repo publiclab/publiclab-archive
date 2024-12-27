@@ -1,5 +1,7 @@
 ---
-title: "The new Welcome Page is waiting for your feedback"\ntagnames: 'welcome, ui, first-time-poster, new-users, ui-designs'
+title: "The new Welcome Page is waiting for your feedback"
+
+tagnames: 'welcome, ui, first-time-poster, new-users, ui-designs'
 author: edie_blues
 path: /notes/edie_blues/11-21-2018/the-new-welcome-page-is-waiting-for-your-feedback.md
 nid: 17726
@@ -11,7 +13,7 @@ uid: 552521
 
 # The new Welcome Page is waiting for your feedback
 
-by [edie_blues](../profile/edie_blues) | November 21, 2018 18:26
+by [edie_blues](../../../profile/edie_blues) | November 21, 2018 18:26
 
 November 21, 2018 18:26 | Tags: [welcome](../tag/welcome), [ui](../tag/ui), [first-time-poster](../tag/first-time-poster), [new-users](../tag/new-users), [ui-designs](../tag/ui-designs)
 

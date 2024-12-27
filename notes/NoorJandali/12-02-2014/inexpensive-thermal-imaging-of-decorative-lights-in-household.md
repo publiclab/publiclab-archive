@@ -1,5 +1,7 @@
 ---
-title: "Inexpensive Thermal Imaging of Decorative Lights in Household"\ntagnames: 'thermal-photography, thermal-flashlight, insulation, heat, upgrade:thermal-flashlight, replication:625'
+title: "Inexpensive Thermal Imaging of Decorative Lights in Household"
+
+tagnames: 'thermal-photography, thermal-flashlight, insulation, heat, upgrade:thermal-flashlight, replication:625'
 author: NoorJandali
 path: /notes/NoorJandali/12-02-2014/inexpensive-thermal-imaging-of-decorative-lights-in-household.md
 nid: 11420
@@ -11,7 +13,7 @@ uid: 431799
 
 # Inexpensive Thermal Imaging of Decorative Lights in Household
 
-by [NoorJandali](../profile/NoorJandali) | December 02, 2014 18:33
+by [NoorJandali](../../../profile/NoorJandali) | December 02, 2014 18:33
 
 December 02, 2014 18:33 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [insulation](../tag/insulation), [heat](../tag/heat), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight), [replication:625](../tag/replication:625)
 

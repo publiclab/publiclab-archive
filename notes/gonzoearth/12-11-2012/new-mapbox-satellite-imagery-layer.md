@@ -1,5 +1,7 @@
 ---
-title: "New MapBox aerial imagery layer"\ntagnames: ''
+title: "New MapBox aerial imagery layer"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/12-11-2012/new-mapbox-satellite-imagery-layer.md
 nid: 5177
@@ -9,7 +11,7 @@ uid: 12
 
 # New MapBox aerial imagery layer
 
-by [gonzoearth](../profile/gonzoearth) | December 12, 2012 01:34
+by [gonzoearth](../../../profile/gonzoearth) | December 12, 2012 01:34
 
 December 12, 2012 01:34 | Tags: 
 

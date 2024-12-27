@@ -1,5 +1,7 @@
 ---
-title: "Near Infrared Camera history"\ntagnames: 'near-infrared-camera, ndvi, infragram'
+title: "Near Infrared Camera history"
+
+tagnames: 'near-infrared-camera, ndvi, infragram'
 author: liz
 path: /wiki/near-infrared-camera-history.md
 nid: 7660

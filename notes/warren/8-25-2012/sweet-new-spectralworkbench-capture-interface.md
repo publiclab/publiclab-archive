@@ -1,5 +1,7 @@
 ---
-title: "Sweet new SpectralWorkbench capture interface"\ntagnames: 'spectrometer'
+title: "Sweet new SpectralWorkbench capture interface"
+
+tagnames: 'spectrometer'
 author: warren
 path: /notes/warren/8-25-2012/sweet-new-spectralworkbench-capture-interface.md
 nid: 3463
@@ -11,7 +13,7 @@ uid: 1
 
 # Sweet new SpectralWorkbench capture interface
 
-by [warren](../profile/warren) | August 25, 2012 18:06
+by [warren](../../../profile/warren) | August 25, 2012 18:06
 
 August 25, 2012 18:06 | Tags: [spectrometer](../tag/spectrometer)
 

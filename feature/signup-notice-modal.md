@@ -1,5 +1,7 @@
 ---
-title: "signup-notice-modal"\ntagnames: ''
+title: "signup-notice-modal"
+
+tagnames: ''
 author: warren
 path: /feature/signup-notice-modal.md
 nid: 18064

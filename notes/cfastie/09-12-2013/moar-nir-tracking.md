@@ -1,5 +1,7 @@
 ---
-title: "Moar NIR tracking"\ntagnames: 'near-infrared-camera, vermont, infrared, leaffest, infragram, histogram, led, leaffest2013, frosted-globe'
+title: "Moar NIR tracking"
+
+tagnames: 'near-infrared-camera, vermont, infrared, leaffest, infragram, histogram, led, leaffest2013, frosted-globe'
 author: cfastie
 path: /notes/cfastie/09-12-2013/moar-nir-tracking.md
 nid: 9316
@@ -11,7 +13,7 @@ uid: 554
 
 # Moar NIR tracking
 
-by [cfastie](../profile/cfastie) | September 12, 2013 02:58
+by [cfastie](../../../profile/cfastie) | September 12, 2013 02:58
 
 September 12, 2013 02:58 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [histogram](../tag/histogram), [led](../tag/led), [leaffest2013](../tag/leaffest2013), [frosted-globe](../tag/frosted-globe)
 

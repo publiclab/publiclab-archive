@@ -1,5 +1,7 @@
 ---
-title: "Mapping Trees In Berlin"\ntagnames: 'urban, tree, urban-ecology, trees, eu, ecology, berlin, germany, urban-forest, plant-identification, identifcation, plant-id'
+title: "Mapping Trees In Berlin"
+
+tagnames: 'urban, tree, urban-ecology, trees, eu, ecology, berlin, germany, urban-forest, plant-identification, identifcation, plant-id'
 author: chmooze
 path: /notes/chmooze/02-08-2016/mapping-trees-in-berlin.md
 nid: 12668
@@ -11,7 +13,7 @@ uid: 461520
 
 # Mapping Trees In Berlin
 
-by [chmooze](../profile/chmooze) | February 08, 2016 14:54
+by [chmooze](../../../profile/chmooze) | February 08, 2016 14:54
 
 February 08, 2016 14:54 | Tags: [urban](../tag/urban), [tree](../tag/tree), [urban-ecology](../tag/urban-ecology), [trees](../tag/trees), [eu](../tag/eu), [ecology](../tag/ecology), [berlin](../tag/berlin), [germany](../tag/germany), [urban-forest](../tag/urban-forest), [plant-identification](../tag/plant-identification), [identifcation](../tag/identifcation), [plant-id](../tag/plant-id)
 

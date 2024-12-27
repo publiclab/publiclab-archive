@@ -1,5 +1,7 @@
 ---
-title: "How we built an open source project to monitor water quality"\ntagnames: 'water-quality, list:plots-waterquality, brasil, parent:open-water, report, redeinfoamazonia, maedagua'
+title: "How we built an open source project to monitor water quality"
+
+tagnames: 'water-quality, list:plots-waterquality, brasil, parent:open-water, report, redeinfoamazonia, maedagua'
 author: vjpixel
 path: /notes/vjpixel/02-02-2017/how-we-built-an-open-source-project-to-monitor-water-quality.md
 nid: 13900
@@ -11,7 +13,7 @@ uid: 420617
 
 # How we built an open source project to monitor water quality
 
-by [vjpixel](../profile/vjpixel) | February 02, 2017 23:02
+by [vjpixel](../../../profile/vjpixel) | February 02, 2017 23:02
 
 February 02, 2017 23:02 | Tags: [water-quality](../tag/water-quality), [list:plots-waterquality](../tag/list:plots-waterquality), [brasil](../tag/brasil), [parent:open-water](../tag/parent:open-water), [report](../tag/report), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua)
 

@@ -1,5 +1,7 @@
 ---
-title: "PhotosynQ midsummer update"\ntagnames: 'science, photosynthesis, photosynq, plant, multispeq'
+title: "PhotosynQ midsummer update"
+
+tagnames: 'science, photosynthesis, photosynq, plant, multispeq'
 author: gbathree
 path: /notes/gbathree/08-13-2014/photosynq-midsummer-update.md
 nid: 11042
@@ -11,7 +13,7 @@ uid: 53164
 
 # PhotosynQ midsummer update
 
-by [gbathree](../profile/gbathree) | August 13, 2014 01:12
+by [gbathree](../../../profile/gbathree) | August 13, 2014 01:12
 
 August 13, 2014 01:12 | Tags: [science](../tag/science), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq), [plant](../tag/plant), [multispeq](../tag/multispeq)
 

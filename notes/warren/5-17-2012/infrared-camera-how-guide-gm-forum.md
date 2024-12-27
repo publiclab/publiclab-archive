@@ -1,5 +1,7 @@
 ---
-title: "Infrared camera how-to guide for GM Forum"\ntagnames: 'near-infrared-camera, great-photos'
+title: "Infrared camera how-to guide for GM Forum"
+
+tagnames: 'near-infrared-camera, great-photos'
 author: warren
 path: /notes/warren/5-17-2012/infrared-camera-how-guide-gm-forum.md
 nid: 2105
@@ -11,7 +13,7 @@ uid: 1
 
 # Infrared camera how-to guide for GM Forum
 
-by [warren](../profile/warren) | May 17, 2012 23:42
+by [warren](../../../profile/warren) | May 17, 2012 23:42
 
 May 17, 2012 23:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [great-photos](../tag/great-photos)
 

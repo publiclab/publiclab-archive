@@ -1,5 +1,7 @@
 ---
-title: "Pi Builder"\ntagnames: 'raspberry-pi, cameras, pi, rpi, activity:community-microscope, pi-builder, parent:pi-camera'
+title: "Pi Builder"
+
+tagnames: 'raspberry-pi, cameras, pi, rpi, activity:community-microscope, pi-builder, parent:pi-camera'
 author: warren
 path: /wiki/pi-builder.md
 nid: 17414

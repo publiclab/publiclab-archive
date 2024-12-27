@@ -1,5 +1,7 @@
 ---
-title: "FungalFest"\ntagnames: 'near-infrared-camera, vermont, leaffest, infragram, leaffest2013, fungus'
+title: "FungalFest"
+
+tagnames: 'near-infrared-camera, vermont, leaffest, infragram, leaffest2013, fungus'
 author: cfastie
 path: /notes/cfastie/09-03-2013/fungalfest.md
 nid: 9229
@@ -11,7 +13,7 @@ uid: 554
 
 # FungalFest
 
-by [cfastie](../profile/cfastie) | September 03, 2013 17:27
+by [cfastie](../../../profile/cfastie) | September 03, 2013 17:27
 
 September 03, 2013 17:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [leaffest2013](../tag/leaffest2013), [fungus](../tag/fungus)
 

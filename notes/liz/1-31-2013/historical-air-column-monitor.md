@@ -1,5 +1,7 @@
 ---
-title: "Historical "air column monitor""\ntagnames: 'air-column-monitor'
+title: "Historical "air column monitor""
+
+tagnames: 'air-column-monitor'
 author: liz
 path: /notes/liz/1-31-2013/historical-air-column-monitor.md
 nid: 5832
@@ -11,7 +13,7 @@ uid: 7
 
 # Historical "air column monitor"
 
-by [liz](../profile/liz) | January 31, 2013 23:04
+by [liz](../../../profile/liz) | January 31, 2013 23:04
 
 January 31, 2013 23:04 | Tags: [air-column-monitor](../tag/air-column-monitor)
 

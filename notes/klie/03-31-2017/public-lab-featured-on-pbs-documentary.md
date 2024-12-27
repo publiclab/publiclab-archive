@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Featured on PBS Documentary"\ntagnames: ''
+title: "Public Lab Featured on PBS Documentary"
+
+tagnames: ''
 author: klie
 path: /notes/klie/03-31-2017/public-lab-featured-on-pbs-documentary.md
 nid: 14073
@@ -11,7 +13,7 @@ uid: 441262
 
 # Public Lab Featured on PBS Documentary
 
-by [klie](../profile/klie) | March 31, 2017 21:07
+by [klie](../../../profile/klie) | March 31, 2017 21:07
 
 March 31, 2017 21:07 | Tags: 
 

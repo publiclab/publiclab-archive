@@ -1,5 +1,7 @@
 ---
-title: "Using the HITRAN database for spectral analysis"\ntagnames: 'spectrometer, spectral-analysis, spectral-matching, methane, hitran'
+title: "Using the HITRAN database for spectral analysis"
+
+tagnames: 'spectrometer, spectral-analysis, spectral-matching, methane, hitran'
 author: warren
 path: /notes/warren/12-10-2010/using-hitran-database-spectral-analysis.md
 nid: 25
@@ -11,7 +13,7 @@ uid: 1
 
 # Using the HITRAN database for spectral analysis
 
-by [warren](../profile/warren) | December 11, 2010 03:39
+by [warren](../../../profile/warren) | December 11, 2010 03:39
 
 December 11, 2010 03:39 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [spectral-matching](../tag/spectral-matching), [methane](../tag/methane), [hitran](../tag/hitran)
 

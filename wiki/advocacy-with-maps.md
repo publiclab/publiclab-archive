@@ -1,5 +1,7 @@
 ---
-title: "Advocacy with Maps"\ntagnames: 'annotated-maps, aerial-photography, mapping, organizing, aerial-mapping, advocacy, method, community-organizing, advocacy-with-maps'
+title: "Advocacy with Maps"
+
+tagnames: 'annotated-maps, aerial-photography, mapping, organizing, aerial-mapping, advocacy, method, community-organizing, advocacy-with-maps'
 author: bhamster
 path: /wiki/advocacy-with-maps.md
 nid: 26872

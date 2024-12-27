@@ -1,5 +1,7 @@
 ---
-title: "2011 Harvard GCA Conference"\ntagnames: 'presentations, talks, harvard'
+title: "2011 Harvard GCA Conference"
+
+tagnames: 'presentations, talks, harvard'
 author: warren
 path: /wiki/2011-harvard-gca-conference.md
 nid: 144

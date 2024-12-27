@@ -1,5 +1,7 @@
 ---
-title: "Direct sunlight vs. diffuse sunlight..."\ntagnames: 'spectrometer, spectrometry, sunlight, replication:13460'
+title: "Direct sunlight vs. diffuse sunlight..."
+
+tagnames: 'spectrometer, spectrometry, sunlight, replication:13460'
 author: viechdokter
 path: /notes/viechdokter/04-07-2016/direct-sunlight-vs-diffuse-sunlight.md
 nid: 12934
@@ -11,7 +13,7 @@ uid: 468990
 
 # Direct sunlight vs. diffuse sunlight...
 
-by [viechdokter](../profile/viechdokter) | April 07, 2016 18:02
+by [viechdokter](../../../profile/viechdokter) | April 07, 2016 18:02
 
 April 07, 2016 18:02 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [sunlight](../tag/sunlight), [replication:13460](../tag/replication:13460)
 

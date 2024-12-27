@@ -1,5 +1,7 @@
 ---
-title: "Mounting rig for the Riffle"\ntagnames: 'riffle, parent:riffle, riffle-examples'
+title: "Mounting rig for the Riffle"
+
+tagnames: 'riffle, parent:riffle, riffle-examples'
 author: tonyc
 path: /notes/tonyc/10-12-2015/mounting-rig-for-the-riffle.md
 nid: 12292
@@ -11,7 +13,7 @@ uid: 447491
 
 # Mounting rig for the Riffle
 
-by [tonyc](../profile/tonyc) | October 12, 2015 23:01
+by [tonyc](../../../profile/tonyc) | October 12, 2015 23:01
 
 October 12, 2015 23:01 | Tags: [riffle](../tag/riffle), [parent:riffle](../tag/parent:riffle), [riffle-examples](../tag/riffle-examples)
 

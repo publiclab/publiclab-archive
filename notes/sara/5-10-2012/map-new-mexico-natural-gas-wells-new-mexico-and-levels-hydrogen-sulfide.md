@@ -1,5 +1,7 @@
 ---
-title: "Map of New Mexico Natural Gas Wells in New Mexico and levels of Hydrogen Sulfide"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, natural-gas, h2s-sites'
+title: "Map of New Mexico Natural Gas Wells in New Mexico and levels of Hydrogen Sulfide"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, natural-gas, h2s-sites'
 author: sara
 path: /notes/sara/5-10-2012/map-new-mexico-natural-gas-wells-new-mexico-and-levels-hydrogen-sulfide.md
 nid: 1947
@@ -11,7 +13,7 @@ uid: 8
 
 # Map of New Mexico Natural Gas Wells in New Mexico and levels of Hydrogen Sulfide
 
-by [sara](../profile/sara) | May 10, 2012 17:07
+by [sara](../../../profile/sara) | May 10, 2012 17:07
 
 May 10, 2012 17:07 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [natural-gas](../tag/natural-gas), [h2s-sites](../tag/h2s-sites)
 

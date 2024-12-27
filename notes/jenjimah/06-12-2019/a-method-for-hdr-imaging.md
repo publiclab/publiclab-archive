@@ -1,5 +1,7 @@
 ---
-title: "A Method for HDR Imaging"\ntagnames: 'spectrometer, spectrometry, raspberry-pi, cameras, hdr, barnstar:basic'
+title: "A Method for HDR Imaging"
+
+tagnames: 'spectrometer, spectrometry, raspberry-pi, cameras, hdr, barnstar:basic'
 author: jenjimah
 path: /notes/jenjimah/06-12-2019/a-method-for-hdr-imaging.md
 nid: 19682
@@ -11,7 +13,7 @@ uid: 505738
 
 # A Method for HDR Imaging
 
-by [jenjimah](../profile/jenjimah) | June 12, 2019 19:15
+by [jenjimah](../../../profile/jenjimah) | June 12, 2019 19:15
 
 June 12, 2019 19:15 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [raspberry-pi](../tag/raspberry-pi), [cameras](../tag/cameras), [hdr](../tag/hdr), [barnstar:basic](../tag/barnstar:basic)
 

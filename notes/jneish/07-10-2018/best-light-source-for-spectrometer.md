@@ -1,5 +1,7 @@
 ---
-title: "Best light source for spectrometer?"\ntagnames: 'spectrometry, tool, question:spectrometry, question:general, method, chemicals, oil-and-gas, solid, first-time-poster'
+title: "Best light source for spectrometer?"
+
+tagnames: 'spectrometry, tool, question:spectrometry, question:general, method, chemicals, oil-and-gas, solid, first-time-poster'
 author: jneish
 path: /notes/jneish/07-10-2018/best-light-source-for-spectrometer.md
 nid: 16679
@@ -9,7 +11,7 @@ uid: 540848
 
 # Best light source for spectrometer?
 
-by [jneish](../profile/jneish) | July 10, 2018 18:25
+by [jneish](../../../profile/jneish) | July 10, 2018 18:25
 
 July 10, 2018 18:25 | Tags: [spectrometry](../tag/spectrometry), [tool](../tag/tool), [question:spectrometry](../tag/question:spectrometry), [question:general](../tag/question:general), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [solid](../tag/solid), [first-time-poster](../tag/first-time-poster)
 

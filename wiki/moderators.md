@@ -1,5 +1,7 @@
 ---
-title: "Moderators"\ntagnames: 'community, mailing-lists, needs-revision, moderators, spam, redirect:12861'
+title: "Moderators"
+
+tagnames: 'community, mailing-lists, needs-revision, moderators, spam, redirect:12861'
 author: warren
 path: /wiki/moderators.md
 nid: 809

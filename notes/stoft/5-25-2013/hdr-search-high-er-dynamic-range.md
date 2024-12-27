@@ -1,5 +1,7 @@
 ---
-title: "HDR: In search of High-er Dynamic Range"\ntagnames: 'spectrometer, calibration, hdr, attenuation'
+title: "HDR: In search of High-er Dynamic Range"
+
+tagnames: 'spectrometer, calibration, hdr, attenuation'
 author: stoft
 path: /notes/stoft/5-25-2013/hdr-search-high-er-dynamic-range.md
 nid: 7917
@@ -11,7 +13,7 @@ uid: 54025
 
 # HDR: In search of High-er Dynamic Range
 
-by [stoft](../profile/stoft) | May 26, 2013 00:26
+by [stoft](../../../profile/stoft) | May 26, 2013 00:26
 
 May 26, 2013 00:26 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration), [hdr](../tag/hdr), [attenuation](../tag/attenuation)
 

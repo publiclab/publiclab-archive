@@ -1,5 +1,7 @@
 ---
-title: "KAP'n Hook fail"\ntagnames: 'balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, response:10230'
+title: "KAP'n Hook fail"
+
+tagnames: 'balloon-mapping, kite-mapping, vermont, kap, 3d-printing, makerbot, response:10230'
 author: cfastie
 path: /notes/cfastie/03-30-2014/kap-n-hook-fail.md
 nid: 10244
@@ -11,7 +13,7 @@ uid: 554
 
 # KAP'n Hook fail
 
-by [cfastie](../profile/cfastie) | March 30, 2014 01:41
+by [cfastie](../../../profile/cfastie) | March 30, 2014 01:41
 
 March 30, 2014 01:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230)
 

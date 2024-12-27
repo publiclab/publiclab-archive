@@ -1,5 +1,7 @@
 ---
-title: "Public Laboratory Store"\ntagnames: ''
+title: "Public Laboratory Store"
+
+tagnames: ''
 author: warren
 path: /wiki/store.md
 nid: 473

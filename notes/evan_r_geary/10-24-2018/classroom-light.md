@@ -1,5 +1,7 @@
 ---
-title: "Classroom light"\ntagnames: ''
+title: "Classroom light"
+
+tagnames: ''
 author: evan_r_geary
 path: /notes/evan_r_geary/10-24-2018/classroom-light.md
 nid: 17373
@@ -11,7 +13,7 @@ uid: 556242
 
 # Classroom light
 
-by [evan_r_geary](../profile/evan_r_geary) | October 24, 2018 14:15
+by [evan_r_geary](../../../profile/evan_r_geary) | October 24, 2018 14:15
 
 October 24, 2018 14:15 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Updated maps - construction site activities near Mocho Park"\ntagnames: 'time-lapse, kap, sx260hs, construction, juice-bottle-rig'
+title: "Updated maps - construction site activities near Mocho Park"
+
+tagnames: 'time-lapse, kap, sx260hs, construction, juice-bottle-rig'
 author: patcoyle
 path: /notes/patcoyle/01-17-2014/updated-maps-construction-site-activities-near-mocho-park.md
 nid: 9956
@@ -11,7 +13,7 @@ uid: 77
 
 # Updated maps - construction site activities near Mocho Park
 
-by [patcoyle](../profile/patcoyle) | January 17, 2014 23:56
+by [patcoyle](../../../profile/patcoyle) | January 17, 2014 23:56
 
 January 17, 2014 23:56 | Tags: [time-lapse](../tag/time-lapse), [kap](../tag/kap), [sx260hs](../tag/sx260hs), [construction](../tag/construction), [juice-bottle-rig](../tag/juice-bottle-rig)
 

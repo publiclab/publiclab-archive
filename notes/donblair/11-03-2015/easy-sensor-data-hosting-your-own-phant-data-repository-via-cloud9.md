@@ -1,5 +1,7 @@
 ---
-title: "Testing a Phant Data Repository on Cloud9"\ntagnames: 'phant, data-management, cloud, cloud9, data-logging-visualization'
+title: "Testing a Phant Data Repository on Cloud9"
+
+tagnames: 'phant, data-management, cloud, cloud9, data-logging-visualization'
 author: donblair
 path: /notes/donblair/11-03-2015/easy-sensor-data-hosting-your-own-phant-data-repository-via-cloud9.md
 nid: 12357
@@ -11,7 +13,7 @@ uid: 43651
 
 # Testing a Phant Data Repository on Cloud9
 
-by [donblair](../profile/donblair) | November 03, 2015 15:58
+by [donblair](../../../profile/donblair) | November 03, 2015 15:58
 
 November 03, 2015 15:58 | Tags: [phant](../tag/phant), [data-management](../tag/data-management), [cloud](../tag/cloud), [cloud9](../tag/cloud9), [data-logging-visualization](../tag/data-logging-visualization)
 

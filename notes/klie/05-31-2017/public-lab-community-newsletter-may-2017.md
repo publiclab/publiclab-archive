@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Community Newsletter: May 2017"\ntagnames: 'gulf-coast, newsletter, barnraising, openhardware, news, gsoc, gulf, facilitation, appalachia, gsoc2017, rgsoc, nas, soc2017, rgsoc2017'
+title: "Public Lab Community Newsletter: May 2017"
+
+tagnames: 'gulf-coast, newsletter, barnraising, openhardware, news, gsoc, gulf, facilitation, appalachia, gsoc2017, rgsoc, nas, soc2017, rgsoc2017'
 author: klie
 path: /notes/klie/05-31-2017/public-lab-community-newsletter-may-2017.md
 nid: 14496
@@ -11,7 +13,7 @@ uid: 441262
 
 # Public Lab Community Newsletter: May 2017
 
-by [klie](../profile/klie) | May 31, 2017 21:24
+by [klie](../../../profile/klie) | May 31, 2017 21:24
 
 May 31, 2017 21:24 | Tags: [gulf-coast](../tag/gulf-coast), [newsletter](../tag/newsletter), [barnraising](../tag/barnraising), [openhardware](../tag/openhardware), [news](../tag/news), [gsoc](../tag/gsoc), [gulf](../tag/gulf), [facilitation](../tag/facilitation), [appalachia](../tag/appalachia), [gsoc2017](../tag/gsoc2017), [rgsoc](../tag/rgsoc), [nas](../tag/nas), [soc2017](../tag/soc2017), [rgsoc2017](../tag/rgsoc2017)
 

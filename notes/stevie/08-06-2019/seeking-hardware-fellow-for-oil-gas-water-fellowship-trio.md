@@ -1,5 +1,7 @@
 ---
-title: "Seeking Hardware Fellow for Oil & Gas Water Fellowship Trio"\ntagnames: 'providence, organizers, water-quality, water, jobs, fellows, hardware, fellowship, oil-and-gas-water-trio'
+title: "Seeking Hardware Fellow for Oil & Gas Water Fellowship Trio"
+
+tagnames: 'providence, organizers, water-quality, water, jobs, fellows, hardware, fellowship, oil-and-gas-water-trio'
 author: stevie
 path: /notes/stevie/08-06-2019/seeking-hardware-fellow-for-oil-gas-water-fellowship-trio.md
 nid: 20443
@@ -11,7 +13,7 @@ uid: 422561
 
 # Seeking Hardware Fellow for Oil & Gas Water Fellowship Trio
 
-by [stevie](../profile/stevie) | August 06, 2019 16:30
+by [stevie](../../../profile/stevie) | August 06, 2019 16:30
 
 August 06, 2019 16:30 | Tags: [providence](../tag/providence), [organizers](../tag/organizers), [water-quality](../tag/water-quality), [water](../tag/water), [jobs](../tag/jobs), [fellows](../tag/fellows), [hardware](../tag/hardware), [fellowship](../tag/fellowship), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 

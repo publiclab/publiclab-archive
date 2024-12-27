@@ -1,5 +1,7 @@
 ---
-title: "Somerville SERC"\ntagnames: 'parent:serc'
+title: "Somerville SERC"
+
+tagnames: 'parent:serc'
 author: warren
 path: /wiki/somerville-serc.md
 nid: 16147

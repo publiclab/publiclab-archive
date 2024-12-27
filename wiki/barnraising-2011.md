@@ -1,5 +1,7 @@
 ---
-title: "Barnraising 2011"\ntagnames: 'western-north-carolina, asheville, barnraising, event, list:plots-barnraising, southeast'
+title: "Barnraising 2011"
+
+tagnames: 'western-north-carolina, asheville, barnraising, event, list:plots-barnraising, southeast'
 author: warren
 path: /wiki/barnraising-2011.md
 nid: 8807

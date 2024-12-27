@@ -1,5 +1,7 @@
 ---
-title: "Balloon mapping in Eastern Ukraine"\ntagnames: 'balloon-mapping, ukraine, first-time-poster'
+title: "Balloon mapping in Eastern Ukraine"
+
+tagnames: 'balloon-mapping, ukraine, first-time-poster'
 author: Alex_the_Ukrainian
 path: /notes/Alex_the_Ukrainian/03-12-2015/balloon-mapping-in-eastern-ukraine.md
 nid: 11673
@@ -11,7 +13,7 @@ uid: 436428
 
 # Balloon mapping in Eastern Ukraine
 
-by [Alex_the_Ukrainian](../profile/Alex_the_Ukrainian) | March 12, 2015 21:07
+by [Alex_the_Ukrainian](../../../profile/Alex_the_Ukrainian) | March 12, 2015 21:07
 
 March 12, 2015 21:07 | Tags: [balloon-mapping](../tag/balloon-mapping), [ukraine](../tag/ukraine), [first-time-poster](../tag/first-time-poster)
 

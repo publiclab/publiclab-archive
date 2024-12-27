@@ -1,5 +1,7 @@
 ---
-title: "Barataria 2014: I February 9th"\ntagnames: 'barataria-bay, kite-mapping, wetlands, louisiana, wetland, bp, patagonia'
+title: "Barataria 2014: I February 9th"
+
+tagnames: 'barataria-bay, kite-mapping, wetlands, louisiana, wetland, bp, patagonia'
 author: eustatic
 path: /02-12-2014/barataria-2014-february-9th.md
 nid: 10032
@@ -11,7 +13,7 @@ uid: 379
 
 # Barataria 2014: I February 9th
 
-by [eustatic](../profile/eustatic) | February 12, 2014 05:49
+by [eustatic](../../../profile/eustatic) | February 12, 2014 05:49
 
 February 12, 2014 05:49 | Tags: [barataria-bay](../tag/barataria-bay), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [bp](../tag/bp), [patagonia](../tag/patagonia)
 

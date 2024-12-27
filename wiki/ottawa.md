@@ -1,5 +1,7 @@
 ---
-title: "ottawa"\ntagnames: 'spectrometer, chapter, water-quality, water, canada, ottawa, events:ottawa, parent:region'
+title: "ottawa"
+
+tagnames: 'spectrometer, chapter, water-quality, water, canada, ottawa, events:ottawa, parent:region'
 author: Haripriya
 path: /wiki/ottawa.md
 nid: 10591

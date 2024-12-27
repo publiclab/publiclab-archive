@@ -1,5 +1,7 @@
 ---
-title: "Where can we share well water data?"\ntagnames: 'question:question, question:water-quality, question:testing, question:drinking-water, question:well, question:well-water'
+title: "Where can we share well water data?"
+
+tagnames: 'question:question, question:water-quality, question:testing, question:drinking-water, question:well, question:well-water'
 author: stevie
 path: /notes/stevie/08-01-2018/where-can-we-share-well-water-data.md
 nid: 16825
@@ -9,7 +11,7 @@ uid: 422561
 
 # Where can we share well water data?
 
-by [stevie](../profile/stevie) | August 01, 2018 20:53
+by [stevie](../../../profile/stevie) | August 01, 2018 20:53
 
 August 01, 2018 20:53 | Tags: [question:question](../tag/question:question), [question:water-quality](../tag/question:water-quality), [question:testing](../tag/question:testing), [question:drinking-water](../tag/question:drinking-water), [question:well](../tag/question:well), [question:well-water](../tag/question:well-water)
 

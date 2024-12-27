@@ -1,5 +1,7 @@
 ---
-title: "Build a plant-based air purifier "\ntagnames: 'remediation, air-quality, barnstar:basic, formaldehyde, open-air, filters, indoor-air-quality, indoor-air, pick, current, difficulty:easy, seeks:replications, time:3h, category:build, status:in-progress, vocs, activity:open-air, activity:formaldehyde, activity:indoor-air-remediation, plant-air-purifier-prototypes, activity:filters'
+title: "Build a plant-based air purifier "
+
+tagnames: 'remediation, air-quality, barnstar:basic, formaldehyde, open-air, filters, indoor-air-quality, indoor-air, pick, current, difficulty:easy, seeks:replications, time:3h, category:build, status:in-progress, vocs, activity:open-air, activity:formaldehyde, activity:indoor-air-remediation, plant-air-purifier-prototypes, activity:filters'
 author: nshapiro
 path: /notes/nshapiro/09-26-2016/build-a-plant-based-air-purifier.md
 nid: 13480
@@ -11,7 +13,7 @@ uid: 380298
 
 # Build a plant-based air purifier 
 
-by [nshapiro](../profile/nshapiro) | September 26, 2016 15:15
+by [nshapiro](../../../profile/nshapiro) | September 26, 2016 15:15
 
 September 26, 2016 15:15 | Tags: [remediation](../tag/remediation), [air-quality](../tag/air-quality), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [filters](../tag/filters), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [pick](../tag/pick), [current](../tag/current), [difficulty:easy](../tag/difficulty:easy), [seeks:replications](../tag/seeks:replications), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [status:in-progress](../tag/status:in-progress), [vocs](../tag/vocs), [activity:open-air](../tag/activity:open-air), [activity:formaldehyde](../tag/activity:formaldehyde), [activity:indoor-air-remediation](../tag/activity:indoor-air-remediation), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes), [activity:filters](../tag/activity:filters)
 

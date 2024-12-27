@@ -1,5 +1,7 @@
 ---
-title: "Brainstorm on ways to use colored light to show sensor readings"\ntagnames: 'arduino, sensors, visualization, leds, question:sensors, plantower, purple-air, question:simple-air-sensor, simple-air-sensor, question:data-display, data-display'
+title: "Brainstorm on ways to use colored light to show sensor readings"
+
+tagnames: 'arduino, sensors, visualization, leds, question:sensors, plantower, purple-air, question:simple-air-sensor, simple-air-sensor, question:data-display, data-display'
 author: warren
 path: /notes/warren/04-18-2019/brainstorm-on-ways-to-use-colored-light-to-show-sensor-readings.md
 nid: 19110
@@ -9,7 +11,7 @@ uid: 1
 
 # Brainstorm on ways to use colored light to show sensor readings
 
-by [warren](../profile/warren) | April 18, 2019 17:52
+by [warren](../../../profile/warren) | April 18, 2019 17:52
 
 April 18, 2019 17:52 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [visualization](../tag/visualization), [leds](../tag/leds), [question:sensors](../tag/question:sensors), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [question:simple-air-sensor](../tag/question:simple-air-sensor), [simple-air-sensor](../tag/simple-air-sensor), [question:data-display](../tag/question:data-display), [data-display](../tag/data-display)
 

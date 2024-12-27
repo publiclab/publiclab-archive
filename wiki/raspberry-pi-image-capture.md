@@ -1,5 +1,7 @@
 ---
-title: "raspberry pi image capture"\ntagnames: ''
+title: "raspberry pi image capture"
+
+tagnames: ''
 author: donblair
 path: /wiki/raspberry-pi-image-capture.md
 nid: 7659

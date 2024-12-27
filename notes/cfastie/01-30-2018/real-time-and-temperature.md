@@ -1,5 +1,7 @@
 ---
-title: "Real time and temperature"\ntagnames: 'arduino, barnstar:empiricism, data-logging, mini-pearl-logger, real-time-clock, ds3231, pro-mini'
+title: "Real time and temperature"
+
+tagnames: 'arduino, barnstar:empiricism, data-logging, mini-pearl-logger, real-time-clock, ds3231, pro-mini'
 author: cfastie
 path: /notes/cfastie/01-30-2018/real-time-and-temperature.md
 nid: 15638
@@ -11,7 +13,7 @@ uid: 554
 
 # Real time and temperature
 
-by [cfastie](../profile/cfastie) | January 30, 2018 04:03
+by [cfastie](../../../profile/cfastie) | January 30, 2018 04:03
 
 January 30, 2018 04:03 | Tags: [arduino](../tag/arduino), [barnstar:empiricism](../tag/barnstar:empiricism), [data-logging](../tag/data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [real-time-clock](../tag/real-time-clock), [ds3231](../tag/ds3231), [pro-mini](../tag/pro-mini)
 

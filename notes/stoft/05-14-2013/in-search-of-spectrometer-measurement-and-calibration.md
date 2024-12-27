@@ -1,5 +1,7 @@
 ---
-title: "In Search of Spectrometer Measurement and Calibration"\ntagnames: 'spectrometer, desktop-spectrometry-kit, slit, improvements, focus, response:7226'
+title: "In Search of Spectrometer Measurement and Calibration"
+
+tagnames: 'spectrometer, desktop-spectrometry-kit, slit, improvements, focus, response:7226'
 author: stoft
 path: /notes/stoft/05-14-2013/in-search-of-spectrometer-measurement-and-calibration.md
 nid: 7507
@@ -11,7 +13,7 @@ uid: 54025
 
 # In Search of Spectrometer Measurement and Calibration
 
-by [stoft](../profile/stoft) | May 14, 2013 01:02
+by [stoft](../../../profile/stoft) | May 14, 2013 01:02
 
 May 14, 2013 01:02 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [slit](../tag/slit), [improvements](../tag/improvements), [focus](../tag/focus), [response:7226](../tag/response:7226)
 

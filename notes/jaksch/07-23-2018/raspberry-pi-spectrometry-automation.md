@@ -1,5 +1,7 @@
 ---
-title: "WIP Raspberry Pi Spectrometry automation "\ntagnames: 'spectrometry, activity:spectrometry'
+title: "WIP Raspberry Pi Spectrometry automation "
+
+tagnames: 'spectrometry, activity:spectrometry'
 author: jaksch
 path: /notes/jaksch/07-23-2018/raspberry-pi-spectrometry-automation.md
 nid: 16771
@@ -9,7 +11,7 @@ uid: 542671
 
 # WIP Raspberry Pi Spectrometry automation 
 
-by [jaksch](../profile/jaksch) | July 23, 2018 15:04
+by [jaksch](../../../profile/jaksch) | July 23, 2018 15:04
 
 July 23, 2018 15:04 | Tags: [spectrometry](../tag/spectrometry), [activity:spectrometry](../tag/activity:spectrometry)
 

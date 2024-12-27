@@ -1,5 +1,7 @@
 ---
-title: "Using free SFM tools for automatic volume calculation"\ntagnames: '3d, kap, sfm, structure-from-motion, measurement, response:9977, autostitch, 3dmodeling, volume, response:10159'
+title: "Using free SFM tools for automatic volume calculation"
+
+tagnames: '3d, kap, sfm, structure-from-motion, measurement, response:9977, autostitch, 3dmodeling, volume, response:10159'
 author: patcoyle
 path: /notes/patcoyle/04-07-2014/using-free-sfm-tools-for-automatic-volume-calculation.md
 nid: 10279
@@ -11,7 +13,7 @@ uid: 77
 
 # Using free SFM tools for automatic volume calculation
 
-by [patcoyle](../profile/patcoyle) | April 07, 2014 22:13
+by [patcoyle](../../../profile/patcoyle) | April 07, 2014 22:13
 
 April 07, 2014 22:13 | Tags: [3d](../tag/3d), [kap](../tag/kap), [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [measurement](../tag/measurement), [response:9977](../tag/response:9977), [autostitch](../tag/autostitch), [3dmodeling](../tag/3dmodeling), [volume](../tag/volume), [response:10159](../tag/response:10159)
 

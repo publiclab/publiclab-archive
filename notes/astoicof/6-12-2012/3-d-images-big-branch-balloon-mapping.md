@@ -1,5 +1,7 @@
 ---
-title: "3-D Images- Big Branch Balloon Mapping"\ntagnames: 'balloon-mapping, first-time-poster'
+title: "3-D Images- Big Branch Balloon Mapping"
+
+tagnames: 'balloon-mapping, first-time-poster'
 author: astoicof
 path: /notes/astoicof/6-12-2012/3-d-images-big-branch-balloon-mapping.md
 nid: 2462
@@ -11,7 +13,7 @@ uid: 256
 
 # 3-D Images- Big Branch Balloon Mapping
 
-by [astoicof](../profile/astoicof) | June 12, 2012 22:12
+by [astoicof](../../../profile/astoicof) | June 12, 2012 22:12
 
 June 12, 2012 22:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [first-time-poster](../tag/first-time-poster)
 

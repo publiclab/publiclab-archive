@@ -1,5 +1,7 @@
 ---
-title: "Willow Creek Water Quality Monitoring (EC and TDS)"\ntagnames: 'water-quality, water-quality-sensor, activity:turbidity, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger, tds, activity:conductivity, response:14702, reclamation'
+title: "Willow Creek Water Quality Monitoring (EC and TDS)"
+
+tagnames: 'water-quality, water-quality-sensor, activity:turbidity, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger, tds, activity:conductivity, response:14702, reclamation'
 author: MadTinker
 path: /notes/MadTinker/03-21-2018/willow-creek-water-quality-monitoring-electrical-conductivity-sensor.md
 nid: 15996
@@ -11,7 +13,7 @@ uid: 461206
 
 # Willow Creek Water Quality Monitoring (EC and TDS)
 
-by [MadTinker](../profile/MadTinker) | March 21, 2018 22:57
+by [MadTinker](../../../profile/MadTinker) | March 21, 2018 22:57
 
 March 21, 2018 22:57 | Tags: [water-quality](../tag/water-quality), [water-quality-sensor](../tag/water-quality-sensor), [activity:turbidity](../tag/activity:turbidity), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [tds](../tag/tds), [activity:conductivity](../tag/activity:conductivity), [response:14702](../tag/response:14702), [reclamation](../tag/reclamation)
 

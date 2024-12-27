@@ -1,5 +1,7 @@
 ---
-title: "STILL WRKNG ON THE RAMAN SETUP, BUT OTHER PICS OF MY LAB SETUP"\ntagnames: ''
+title: "STILL WRKNG ON THE RAMAN SETUP, BUT OTHER PICS OF MY LAB SETUP"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/01-14-2016/still-wrkng-on-the-raman-setup-but-other-pics-of-my-lab-setup.md
 nid: 12584
@@ -11,7 +13,7 @@ uid: 461120
 
 # STILL WRKNG ON THE RAMAN SETUP, BUT OTHER PICS OF MY LAB SETUP
 
-by [dhaffnersr](../profile/dhaffnersr) | January 14, 2016 21:21
+by [dhaffnersr](../../../profile/dhaffnersr) | January 14, 2016 21:21
 
 January 14, 2016 21:21 | Tags: 
 

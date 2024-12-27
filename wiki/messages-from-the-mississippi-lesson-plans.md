@@ -1,5 +1,7 @@
 ---
-title: "Messages from the Mississippi: Lesson Plans"\ntagnames: 'education, mississippi-river, parent:education, microplastics, babylegs, environmental-education, lesson, hands-on, baby-legs, plastic-pollution, lesson-plans'
+title: "Messages from the Mississippi: Lesson Plans"
+
+tagnames: 'education, mississippi-river, parent:education, microplastics, babylegs, environmental-education, lesson, hands-on, baby-legs, plastic-pollution, lesson-plans'
 author: mimiss
 path: /wiki/messages-from-the-mississippi-lesson-plans.md
 nid: 25458

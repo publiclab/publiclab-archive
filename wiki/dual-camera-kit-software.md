@@ -1,5 +1,7 @@
 ---
-title: "Dual Camera Kit Software"\ntagnames: 'near-infrared-camera'
+title: "Dual Camera Kit Software"
+
+tagnames: 'near-infrared-camera'
 author: warren
 path: /wiki/dual-camera-kit-software.md
 nid: 1764

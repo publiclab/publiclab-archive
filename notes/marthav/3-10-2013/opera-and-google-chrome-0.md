@@ -1,5 +1,7 @@
 ---
-title: "Opera and Google Chrome"\ntagnames: 'webcam, opera'
+title: "Opera and Google Chrome"
+
+tagnames: 'webcam, opera'
 author: MarthaV
 path: /notes/marthav/3-10-2013/opera-and-google-chrome-0.md
 nid: 6281
@@ -9,7 +11,7 @@ uid: 47245
 
 # Opera and Google Chrome
 
-by [MarthaV](../profile/MarthaV) | March 10, 2013 21:18
+by [MarthaV](../../../profile/MarthaV) | March 10, 2013 21:18
 
 March 10, 2013 21:18 | Tags: [webcam](../tag/webcam), [opera](../tag/opera)
 

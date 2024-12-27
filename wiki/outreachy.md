@@ -1,5 +1,7 @@
 ---
-title: "outreachy"\ntagnames: 'redirect:gsoc'
+title: "outreachy"
+
+tagnames: 'redirect:gsoc'
 author: warren
 path: /wiki/outreachy.md
 nid: 21222

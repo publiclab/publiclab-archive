@@ -1,5 +1,7 @@
 ---
-title: "GSoC 2018 Wrap-Up Post"\ntagnames: 'gsoc-2018-final, soc-2018-final, soc-2018-final-report'
+title: "GSoC 2018 Wrap-Up Post"
+
+tagnames: 'gsoc-2018-final, soc-2018-final, soc-2018-final-report'
 author: sagarpreet
 path: /notes/sagarpreet/08-08-2018/gsoc-2018-wrap-up-post.md
 nid: 16883
@@ -11,7 +13,7 @@ uid: 516343
 
 # GSoC 2018 Wrap-Up Post
 
-by [sagarpreet](../profile/sagarpreet) | August 08, 2018 14:39
+by [sagarpreet](../../../profile/sagarpreet) | August 08, 2018 14:39
 
 August 08, 2018 14:39 | Tags: [gsoc-2018-final](../tag/gsoc-2018-final), [soc-2018-final](../tag/soc-2018-final), [soc-2018-final-report](../tag/soc-2018-final-report)
 

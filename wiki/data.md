@@ -1,5 +1,7 @@
 ---
-title: "Data"\ntagnames: ''
+title: "Data"
+
+tagnames: ''
 author: warren
 path: /wiki/data.md
 nid: 170

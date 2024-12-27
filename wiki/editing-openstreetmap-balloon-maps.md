@@ -1,5 +1,7 @@
 ---
-title: "Editing OpenStreetMap with balloon maps"\ntagnames: 'balloon-mapping, kite-mapping'
+title: "Editing OpenStreetMap with balloon maps"
+
+tagnames: 'balloon-mapping, kite-mapping'
 author: warren
 path: /wiki/editing-openstreetmap-balloon-maps.md
 nid: 909

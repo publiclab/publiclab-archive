@@ -1,5 +1,7 @@
 ---
-title: "Public Lab calls for the immediate removal of Richard Stallman"\ntagnames: 'blog, public-comment, lat:42.360082, lon:-71.05888, zoom:6'
+title: "Public Lab calls for the immediate removal of Richard Stallman"
+
+tagnames: 'blog, public-comment, lat:42.360082, lon:-71.05888, zoom:6'
 author: jmacha
 path: /notes/jmacha/03-25-2021/public-lab-calls-for-the-immediate-removal-of-richard-stallman.md
 nid: 26027
@@ -11,7 +13,7 @@ uid: 423019
 
 # Public Lab calls for the immediate removal of Richard Stallman
 
-by [jmacha](../profile/jmacha) | March 25, 2021 16:18
+by [jmacha](../../../profile/jmacha) | March 25, 2021 16:18
 
 March 25, 2021 16:18 | Tags: [blog](../tag/blog), [public-comment](../tag/public-comment), [lat:42.360082](../tag/lat:42.360082), [lon:-71.05888](../tag/lon:-71.05888), [zoom:6](../tag/zoom:6)
 

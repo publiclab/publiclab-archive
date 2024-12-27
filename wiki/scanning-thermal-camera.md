@@ -1,5 +1,7 @@
 ---
-title: "Scanning thermal camera"\ntagnames: 'thermal-photography, flir, thermal-camera, scanning'
+title: "Scanning thermal camera"
+
+tagnames: 'thermal-photography, flir, thermal-camera, scanning'
 author: warren
 path: /wiki/scanning-thermal-camera.md
 nid: 630

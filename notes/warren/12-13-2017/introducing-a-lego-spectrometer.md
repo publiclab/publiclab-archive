@@ -1,5 +1,7 @@
 ---
-title: "Introducing a Lego Spectrometer"\ntagnames: 'spectrometer, kits, spectrometry, blog, lego, lego-spectrometer, lego-quickstart'
+title: "Introducing a Lego Spectrometer"
+
+tagnames: 'spectrometer, kits, spectrometry, blog, lego, lego-spectrometer, lego-quickstart'
 author: warren
 path: /notes/warren/12-13-2017/introducing-a-lego-spectrometer.md
 nid: 15364
@@ -11,7 +13,7 @@ uid: 1
 
 # Introducing a Lego Spectrometer
 
-by [warren](../profile/warren) | December 13, 2017 17:34
+by [warren](../../../profile/warren) | December 13, 2017 17:34
 
 December 13, 2017 17:34 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [spectrometry](../tag/spectrometry), [blog](../tag/blog), [lego](../tag/lego), [lego-spectrometer](../tag/lego-spectrometer), [lego-quickstart](../tag/lego-quickstart)
 

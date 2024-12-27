@@ -1,5 +1,7 @@
 ---
-title: "More thermal photography at Parts & Crafts"\ntagnames: 'thermal-photography, thermal-flashlight, parts-and-crafts, replication:625'
+title: "More thermal photography at Parts & Crafts"
+
+tagnames: 'thermal-photography, thermal-flashlight, parts-and-crafts, replication:625'
 author: warren
 path: /notes/warren/2-23-2012/more-thermal-photography-parts-crafts.md
 nid: 836
@@ -11,7 +13,7 @@ uid: 1
 
 # More thermal photography at Parts & Crafts
 
-by [warren](../profile/warren) | February 23, 2012 23:43
+by [warren](../../../profile/warren) | February 23, 2012 23:43
 
 February 23, 2012 23:43 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [parts-and-crafts](../tag/parts-and-crafts), [replication:625](../tag/replication:625)
 

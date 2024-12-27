@@ -1,5 +1,7 @@
 ---
-title: "Hey people, I am Alexander Zingman, my loved one calls me Alex. "\ntagnames: 'about, first-time-poster, zoom:16, alexander, aboutme, zingman, alexander-zingman, lat:53.900596, lon:27.558968'
+title: "Hey people, I am Alexander Zingman, my loved one calls me Alex. "
+
+tagnames: 'about, first-time-poster, zoom:16, alexander, aboutme, zingman, alexander-zingman, lat:53.900596, lon:27.558968'
 author: alexanderzingman
 path: /notes/alexanderzingman/03-30-2022/hey-people-i-am-alexander-zingman-my-loved-one-calls-me-alex.md
 nid: 30230
@@ -11,7 +13,7 @@ uid: 792587
 
 # Hey people, I am Alexander Zingman, my loved one calls me Alex. 
 
-by [alexanderzingman](../profile/alexanderzingman) | March 30, 2022 06:07
+by [alexanderzingman](../../../profile/alexanderzingman) | March 30, 2022 06:07
 
 March 30, 2022 06:07 | Tags: [about](../tag/about), [first-time-poster](../tag/first-time-poster), [zoom:16](../tag/zoom:16), [alexander](../tag/alexander), [aboutme](../tag/aboutme), [zingman](../tag/zingman), [alexander-zingman](../tag/alexander-zingman), [lat:53.900596](../tag/lat:53.900596), [lon:27.558968](../tag/lon:27.558968)
 

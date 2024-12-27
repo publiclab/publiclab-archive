@@ -1,5 +1,7 @@
 ---
-title: "GIS folsom lake college"\ntagnames: ''
+title: "GIS folsom lake college"
+
+tagnames: ''
 author: krismondani
 path: /notes/krismondani/05-08-2015/gis-folsom-lake-college.md
 nid: 11793
@@ -11,7 +13,7 @@ uid: 441173
 
 # GIS folsom lake college
 
-by [krismondani](../profile/krismondani) | May 08, 2015 01:02
+by [krismondani](../../../profile/krismondani) | May 08, 2015 01:02
 
 May 08, 2015 01:02 | Tags: 
 

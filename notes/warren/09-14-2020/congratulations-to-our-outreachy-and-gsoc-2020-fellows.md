@@ -1,5 +1,7 @@
 ---
-title: "Congratulations to our Outreachy and GSoC 2020 fellows 👏👏👏"\ntagnames: 'gsoc, blog, code, soc, outreachy, with:sagarpreet, soc-2020, soc-2020-final'
+title: "Congratulations to our Outreachy and GSoC 2020 fellows 👏👏👏"
+
+tagnames: 'gsoc, blog, code, soc, outreachy, with:sagarpreet, soc-2020, soc-2020-final'
 author: warren
 path: /notes/warren/09-14-2020/congratulations-to-our-outreachy-and-gsoc-2020-fellows.md
 nid: 24574
@@ -11,7 +13,7 @@ uid: 1
 
 # Congratulations to our Outreachy and GSoC 2020 fellows 👏👏👏
 
-by [warren](../profile/warren) | September 14, 2020 14:55
+by [warren](../../../profile/warren) | September 14, 2020 14:55
 
 September 14, 2020 14:55 | Tags: [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [soc](../tag/soc), [outreachy](../tag/outreachy), [with:sagarpreet](../tag/with:sagarpreet), [soc-2020](../tag/soc-2020), [soc-2020-final](../tag/soc-2020-final)
 

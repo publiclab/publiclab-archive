@@ -1,5 +1,7 @@
 ---
-title: "Lycopene"\ntagnames: 'near-infrared-camera, spectrometer, ndvi, vermont, ebert, absorption, infragram, par, photosynthesis, garden, infrablue, leaffest2013, response:9088, pigments, tomatoes, red-filter, ndvi-ag, activity:spectrometry, seeks:replications, activity:multispectral-imaging, activity:education, activity:science-fair, activity:classroom, activity:field-studies'
+title: "Lycopene"
+
+tagnames: 'near-infrared-camera, spectrometer, ndvi, vermont, ebert, absorption, infragram, par, photosynthesis, garden, infrablue, leaffest2013, response:9088, pigments, tomatoes, red-filter, ndvi-ag, activity:spectrometry, seeks:replications, activity:multispectral-imaging, activity:education, activity:science-fair, activity:classroom, activity:field-studies'
 author: cfastie
 path: /notes/cfastie/10-10-2013/lycopene.md
 nid: 9432
@@ -11,7 +13,7 @@ uid: 554
 
 # Lycopene
 
-by [cfastie](../profile/cfastie) | October 10, 2013 16:08
+by [cfastie](../../../profile/cfastie) | October 10, 2013 16:08
 
 October 10, 2013 16:08 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spectrometer](../tag/spectrometer), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [ebert](../tag/ebert), [absorption](../tag/absorption), [infragram](../tag/infragram), [par](../tag/par), [photosynthesis](../tag/photosynthesis), [garden](../tag/garden), [infrablue](../tag/infrablue), [leaffest2013](../tag/leaffest2013), [response:9088](../tag/response:9088), [pigments](../tag/pigments), [tomatoes](../tag/tomatoes), [red-filter](../tag/red-filter), [ndvi-ag](../tag/ndvi-ag), [activity:spectrometry](../tag/activity:spectrometry), [seeks:replications](../tag/seeks:replications), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [activity:field-studies](../tag/activity:field-studies)
 

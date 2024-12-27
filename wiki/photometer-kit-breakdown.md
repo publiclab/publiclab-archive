@@ -1,5 +1,7 @@
 ---
-title: "Photometer Kit Breakdown"\ntagnames: 'community-kits, new-community-kits, community-kits-prep'
+title: "Photometer Kit Breakdown"
+
+tagnames: 'community-kits, new-community-kits, community-kits-prep'
 author: programmer1200
 path: /wiki/photometer-kit-breakdown.md
 nid: 15686

@@ -1,5 +1,7 @@
 ---
-title: "The Neighborhood Creek Expedition"\ntagnames: 'boston, water-sensing, massachusetts, water-quality, water, northeast, waltham'
+title: "The Neighborhood Creek Expedition"
+
+tagnames: 'boston, water-sensing, massachusetts, water-quality, water, northeast, waltham'
 author: kanarinka
 path: /notes/kanarinka/06-09-2014/the-neighborhood-creek-expedition.md
 nid: 10542
@@ -11,7 +13,7 @@ uid: 994
 
 # The Neighborhood Creek Expedition
 
-by [kanarinka](../profile/kanarinka) | June 09, 2014 11:48
+by [kanarinka](../../../profile/kanarinka) | June 09, 2014 11:48
 
 June 09, 2014 11:48 | Tags: [boston](../tag/boston), [water-sensing](../tag/water-sensing), [massachusetts](../tag/massachusetts), [water-quality](../tag/water-quality), [water](../tag/water), [northeast](../tag/northeast), [waltham](../tag/waltham)
 

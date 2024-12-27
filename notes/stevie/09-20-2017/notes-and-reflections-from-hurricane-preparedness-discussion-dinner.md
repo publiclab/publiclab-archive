@@ -1,5 +1,7 @@
 ---
-title: "Notes and Reflections from Hurricane Preparedness Discussion/Dinner"\ntagnames: 'gulf-coast, disaster-preparedness, workshop, new-orleans, hurricane, with:mimibell, nas, disaster-response, nola, resilience, water-works'
+title: "Notes and Reflections from Hurricane Preparedness Discussion/Dinner"
+
+tagnames: 'gulf-coast, disaster-preparedness, workshop, new-orleans, hurricane, with:mimibell, nas, disaster-response, nola, resilience, water-works'
 author: stevie
 path: /notes/stevie/09-20-2017/notes-and-reflections-from-hurricane-preparedness-discussion-dinner.md
 nid: 14921
@@ -11,7 +13,7 @@ uid: 422561
 
 # Notes and Reflections from Hurricane Preparedness Discussion/Dinner
 
-by [stevie](../profile/stevie) | September 20, 2017 16:51
+by [stevie](../../../profile/stevie) | September 20, 2017 16:51
 
 September 20, 2017 16:51 | Tags: [gulf-coast](../tag/gulf-coast), [disaster-preparedness](../tag/disaster-preparedness), [workshop](../tag/workshop), [new-orleans](../tag/new-orleans), [hurricane](../tag/hurricane), [with:mimibell](../tag/with:mimibell), [nas](../tag/nas), [disaster-response](../tag/disaster-response), [nola](../tag/nola), [resilience](../tag/resilience), [water-works](../tag/water-works)
 

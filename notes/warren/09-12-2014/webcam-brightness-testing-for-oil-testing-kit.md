@@ -1,5 +1,7 @@
 ---
-title: "Webcam brightness testing for Oil Testing Kit"\ntagnames: 'spectrometer, uv, fluorescence, fold-up, foldable, response:11132'
+title: "Webcam brightness testing for Oil Testing Kit"
+
+tagnames: 'spectrometer, uv, fluorescence, fold-up, foldable, response:11132'
 author: warren
 path: /notes/warren/09-12-2014/webcam-brightness-testing-for-oil-testing-kit.md
 nid: 11133
@@ -11,7 +13,7 @@ uid: 1
 
 # Webcam brightness testing for Oil Testing Kit
 
-by [warren](../profile/warren) | September 12, 2014 15:44
+by [warren](../../../profile/warren) | September 12, 2014 15:44
 
 September 12, 2014 15:44 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [fluorescence](../tag/fluorescence), [fold-up](../tag/fold-up), [foldable](../tag/foldable), [response:11132](../tag/response:11132)
 

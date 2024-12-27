@@ -1,5 +1,7 @@
 ---
-title: "Birds at Grand Isle State Park"\ntagnames: ''
+title: "Birds at Grand Isle State Park"
+
+tagnames: ''
 author: warren
 path: /notes/warren/5-13-2011/birds-grand-isle-state-park.md
 nid: 236
@@ -11,7 +13,7 @@ uid: 1
 
 # Birds at Grand Isle State Park
 
-by [warren](../profile/warren) | May 13, 2011 18:11
+by [warren](../../../profile/warren) | May 13, 2011 18:11
 
 May 13, 2011 18:11 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "How to choose the order of pictures when exporting"\ntagnames: 'mapknitter, help, tutorial, exporting, answered, question:mapknitter'
+title: "How to choose the order of pictures when exporting"
+
+tagnames: 'mapknitter, help, tutorial, exporting, answered, question:mapknitter'
 author: adyr_construction
 path: /notes/adyr_construction/01-08-2018/how-to-choose-the-order-of-pictures-when-exporting.md
 nid: 15474
@@ -9,7 +11,7 @@ uid: 522032
 
 # How to choose the order of pictures when exporting
 
-by [adyr_construction](../profile/adyr_construction) | January 08, 2018 14:15
+by [adyr_construction](../../../profile/adyr_construction) | January 08, 2018 14:15
 
 January 08, 2018 14:15 | Tags: [mapknitter](../tag/mapknitter), [help](../tag/help), [tutorial](../tag/tutorial), [exporting](../tag/exporting), [answered](../tag/answered), [question:mapknitter](../tag/question:mapknitter)
 

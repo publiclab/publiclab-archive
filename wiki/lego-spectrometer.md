@@ -1,5 +1,7 @@
 ---
-title: "Lego Spectrometer"\ntagnames: 'spectrometry, lego, parent:spectrometry, method, lego-spectrometer, activities:lego-spectrometer'
+title: "Lego Spectrometer"
+
+tagnames: 'spectrometry, lego, parent:spectrometry, method, lego-spectrometer, activities:lego-spectrometer'
 author: warren
 path: /wiki/lego-spectrometer.md
 nid: 15354

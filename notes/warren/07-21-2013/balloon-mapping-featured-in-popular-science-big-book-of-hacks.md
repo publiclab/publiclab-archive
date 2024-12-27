@@ -1,5 +1,7 @@
 ---
-title: "Balloon Mapping featured in Popular Science "Big Book of Hacks""\ntagnames: 'balloon-mapping, media, popular-science, book, hacks, attribution, contributing'
+title: "Balloon Mapping featured in Popular Science "Big Book of Hacks""
+
+tagnames: 'balloon-mapping, media, popular-science, book, hacks, attribution, contributing'
 author: warren
 path: /notes/warren/07-21-2013/balloon-mapping-featured-in-popular-science-big-book-of-hacks.md
 nid: 8913
@@ -11,7 +13,7 @@ uid: 1
 
 # Balloon Mapping featured in Popular Science "Big Book of Hacks"
 
-by [warren](../profile/warren) | July 21, 2013 16:20
+by [warren](../../../profile/warren) | July 21, 2013 16:20
 
 July 21, 2013 16:20 | Tags: [balloon-mapping](../tag/balloon-mapping), [media](../tag/media), [popular-science](../tag/popular-science), [book](../tag/book), [hacks](../tag/hacks), [attribution](../tag/attribution), [contributing](../tag/contributing)
 

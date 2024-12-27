@@ -1,5 +1,7 @@
 ---
-title: "Bayou Sauvage Results 2: reflections on fixing process"\ntagnames: 'providence, hydrogen-sulfide-sensing, as220, hydrogen-sulfide, h2s, h2s-photopaper'
+title: "Bayou Sauvage Results 2: reflections on fixing process"
+
+tagnames: 'providence, hydrogen-sulfide-sensing, as220, hydrogen-sulfide, h2s, h2s-photopaper'
 author: sara
 path: /notes/sara/7-13-2012/bayou-sauvage-results-2-reflections-fixing-process.md
 nid: 2800
@@ -11,7 +13,7 @@ uid: 8
 
 # Bayou Sauvage Results 2: reflections on fixing process
 
-by [sara](../profile/sara) | July 13, 2012 22:53
+by [sara](../../../profile/sara) | July 13, 2012 22:53
 
 July 13, 2012 22:53 | Tags: [providence](../tag/providence), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [as220](../tag/as220), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 

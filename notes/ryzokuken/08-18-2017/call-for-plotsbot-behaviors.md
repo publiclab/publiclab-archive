@@ -1,5 +1,7 @@
 ---
-title: "Call for plotsbot behaviors"\ntagnames: 'google-summer-of-code, plotsbot'
+title: "Call for plotsbot behaviors"
+
+tagnames: 'google-summer-of-code, plotsbot'
 author: ryzokuken
 path: /notes/ryzokuken/08-18-2017/call-for-plotsbot-behaviors.md
 nid: 14768
@@ -11,7 +13,7 @@ uid: 493113
 
 # Call for plotsbot behaviors
 
-by [ryzokuken](../profile/ryzokuken) | August 18, 2017 18:20
+by [ryzokuken](../../../profile/ryzokuken) | August 18, 2017 18:20
 
 August 18, 2017 18:20 | Tags: [google-summer-of-code](../tag/google-summer-of-code), [plotsbot](../tag/plotsbot)
 

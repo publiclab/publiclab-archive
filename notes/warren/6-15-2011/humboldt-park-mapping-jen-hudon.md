@@ -1,5 +1,7 @@
 ---
-title: "Humboldt Park mapping with Jen Hudon"\ntagnames: 'balloon-mapping, chicago, events:midwest, midwest'
+title: "Humboldt Park mapping with Jen Hudon"
+
+tagnames: 'balloon-mapping, chicago, events:midwest, midwest'
 author: warren
 path: /notes/warren/6-15-2011/humboldt-park-mapping-jen-hudon.md
 nid: 344
@@ -11,7 +13,7 @@ uid: 1
 
 # Humboldt Park mapping with Jen Hudon
 
-by [warren](../profile/warren) | June 15, 2011 16:35
+by [warren](../../../profile/warren) | June 15, 2011 16:35
 
 June 15, 2011 16:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [chicago](../tag/chicago), [events:midwest](../tag/events:midwest), [midwest](../tag/midwest)
 

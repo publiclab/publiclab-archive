@@ -1,5 +1,7 @@
 ---
-title: "Signature Development for Aerial Photo Classification:  Louisiana Wetland Forest Mine Reclamation project"\ntagnames: 'wetlands, louisiana, aerial-photography, mining, classification, methods, disaster-resilience, zoom:8, mine-reclamation, mine-reclamation-photography, signatures, floodplains, lat:30.82678, lon:-90.990077'
+title: "Signature Development for Aerial Photo Classification:  Louisiana Wetland Forest Mine Reclamation project"
+
+tagnames: 'wetlands, louisiana, aerial-photography, mining, classification, methods, disaster-resilience, zoom:8, mine-reclamation, mine-reclamation-photography, signatures, floodplains, lat:30.82678, lon:-90.990077'
 author: eustatic
 path: /03-11-2022/signature-development-for-aerial-photo-classification-louisiana-wetland-forest-mine-reclamation-project.md
 nid: 30119
@@ -11,7 +13,7 @@ uid: 379
 
 # Signature Development for Aerial Photo Classification:  Louisiana Wetland Forest Mine Reclamation project
 
-by [eustatic](../profile/eustatic) | March 11, 2022 16:43
+by [eustatic](../../../profile/eustatic) | March 11, 2022 16:43
 
 March 11, 2022 16:43 | Tags: [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [aerial-photography](../tag/aerial-photography), [mining](../tag/mining), [classification](../tag/classification), [methods](../tag/methods), [disaster-resilience](../tag/disaster-resilience), [zoom:8](../tag/zoom:8), [mine-reclamation](../tag/mine-reclamation), [mine-reclamation-photography](../tag/mine-reclamation-photography), [signatures](../tag/signatures), [floodplains](../tag/floodplains), [lat:30.82678](../tag/lat:30.82678), [lon:-90.990077](../tag/lon:-90.990077)
 

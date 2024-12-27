@@ -1,5 +1,7 @@
 ---
-title: "Last Minute Dead Horse Bay Expedition"\ntagnames: 'event, event:rsvp, date:10-19-2014'
+title: "Last Minute Dead Horse Bay Expedition"
+
+tagnames: 'event, event:rsvp, date:10-19-2014'
 author: Bronwen
 path: /notes/bronwen/10-16-2014/last-minute-dead-horse-bay-expedition.md
 nid: 11269
@@ -11,7 +13,7 @@ uid: 237313
 
 # Last Minute Dead Horse Bay Expedition
 
-by [Bronwen](../profile/Bronwen) | October 16, 2014 18:02
+by [Bronwen](../../../profile/Bronwen) | October 16, 2014 18:02
 
 October 16, 2014 18:02 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:10-19-2014](../tag/date:10-19-2014)
 

@@ -1,5 +1,7 @@
 ---
-title: "Opera Mobile"\ntagnames: ''
+title: "Opera Mobile"
+
+tagnames: ''
 author: warren
 path: /wiki/opera-mobile.md
 nid: 4574

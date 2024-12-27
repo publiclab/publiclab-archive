@@ -1,5 +1,7 @@
 ---
-title: "Waterproof Housing for Arduino Conductivity Meter "\ntagnames: 'water-sensing, water-quality-monitoring, water-quality, umass-amherst, publiclab-at-umass'
+title: "Waterproof Housing for Arduino Conductivity Meter "
+
+tagnames: 'water-sensing, water-quality-monitoring, water-quality, umass-amherst, publiclab-at-umass'
 author: jenniferdsara
 path: /notes/jenniferdsara/11-13-2014/waterproof-housing-for-the-arduino-conductivity-meter.md
 nid: 11338
@@ -9,7 +11,7 @@ uid: 428819
 
 # Waterproof Housing for Arduino Conductivity Meter 
 
-by [jenniferdsara](../profile/jenniferdsara) | November 13, 2014 02:15
+by [jenniferdsara](../../../profile/jenniferdsara) | November 13, 2014 02:15
 
 November 13, 2014 02:15 | Tags: [water-sensing](../tag/water-sensing), [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [umass-amherst](../tag/umass-amherst), [publiclab-at-umass](../tag/publiclab-at-umass)
 

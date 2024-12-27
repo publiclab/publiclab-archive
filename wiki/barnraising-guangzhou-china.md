@@ -1,5 +1,7 @@
 ---
-title: "谷仓聚会 Barnraising Guangzhou, China"\ntagnames: 'barnraising, asia, parent:barnraising, guangzhou, china, lang:zh'
+title: "谷仓聚会 Barnraising Guangzhou, China"
+
+tagnames: 'barnraising, asia, parent:barnraising, guangzhou, china, lang:zh'
 author: shanlter
 path: /wiki/barnraising-guangzhou-china.md
 nid: 17002

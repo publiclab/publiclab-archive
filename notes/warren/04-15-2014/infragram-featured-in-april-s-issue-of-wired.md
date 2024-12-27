@@ -1,5 +1,7 @@
 ---
-title: "Infragram featured in April's issue of Wired"\ntagnames: 'media, infragram, wired'
+title: "Infragram featured in April's issue of Wired"
+
+tagnames: 'media, infragram, wired'
 author: warren
 path: /notes/warren/04-15-2014/infragram-featured-in-april-s-issue-of-wired.md
 nid: 10315
@@ -11,7 +13,7 @@ uid: 1
 
 # Infragram featured in April's issue of Wired
 
-by [warren](../profile/warren) | April 15, 2014 20:26
+by [warren](../../../profile/warren) | April 15, 2014 20:26
 
 April 15, 2014 20:26 | Tags: [media](../tag/media), [infragram](../tag/infragram), [wired](../tag/wired)
 

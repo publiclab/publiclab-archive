@@ -1,5 +1,7 @@
 ---
-title: "Measure coarse and fine air particulates with a DustDuino"\ntagnames: 'arduino, particulate-sensing, air-quality, dustduino, dust, particulates, particulate, pm, fablab, shinyei, activity:dustduino, activity:pm, activity:data-logging, activity:dust, air-sensors, first-time-poster'
+title: "Measure coarse and fine air particulates with a DustDuino"
+
+tagnames: 'arduino, particulate-sensing, air-quality, dustduino, dust, particulates, particulate, pm, fablab, shinyei, activity:dustduino, activity:pm, activity:data-logging, activity:dust, air-sensors, first-time-poster'
 author: Schroyer
 path: /notes/Schroyer/11-23-2013/measure-coarse-and-fine-air-particulates-with-a-dustduino.md
 nid: 9818
@@ -11,7 +13,7 @@ uid: 381809
 
 # Measure coarse and fine air particulates with a DustDuino
 
-by [Schroyer](../profile/Schroyer) | November 23, 2013 18:39
+by [Schroyer](../../../profile/Schroyer) | November 23, 2013 18:39
 
 November 23, 2013 18:39 | Tags: [arduino](../tag/arduino), [particulate-sensing](../tag/particulate-sensing), [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [dust](../tag/dust), [particulates](../tag/particulates), [particulate](../tag/particulate), [pm](../tag/pm), [fablab](../tag/fablab), [shinyei](../tag/shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:pm](../tag/activity:pm), [activity:data-logging](../tag/activity:data-logging), [activity:dust](../tag/activity:dust), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster)
 

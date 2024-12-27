@@ -1,5 +1,7 @@
 ---
-title: "Prototyping simple paper connections"\ntagnames: 'spectrometer, papercraft, die-cutting, silhouette-cameo, prototyping'
+title: "Prototyping simple paper connections"
+
+tagnames: 'spectrometer, papercraft, die-cutting, silhouette-cameo, prototyping'
 author: warren
 path: /notes/warren/08-15-2015/prototyping-simple-paper-connections.md
 nid: 12146
@@ -11,7 +13,7 @@ uid: 1
 
 # Prototyping simple paper connections
 
-by [warren](../profile/warren) | August 15, 2015 17:21
+by [warren](../../../profile/warren) | August 15, 2015 17:21
 
 August 15, 2015 17:21 | Tags: [spectrometer](../tag/spectrometer), [papercraft](../tag/papercraft), [die-cutting](../tag/die-cutting), [silhouette-cameo](../tag/silhouette-cameo), [prototyping](../tag/prototyping)
 

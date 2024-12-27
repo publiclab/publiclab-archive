@@ -1,5 +1,7 @@
 ---
-title: "Engineered Histograms"\ntagnames: 'near-infrared-camera, ndvi, infrared, infragram, infrablue, response:8190, tests, response:8261, response:8353'
+title: "Engineered Histograms"
+
+tagnames: 'near-infrared-camera, ndvi, infrared, infragram, infrablue, response:8190, tests, response:8261, response:8353'
 author: cfastie
 path: /notes/cfastie/06-21-2013/engineered-histograms.md
 nid: 8358
@@ -11,7 +13,7 @@ uid: 554
 
 # Engineered Histograms
 
-by [cfastie](../profile/cfastie) | June 21, 2013 22:04
+by [cfastie](../../../profile/cfastie) | June 21, 2013 22:04
 
 June 21, 2013 22:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [response:8190](../tag/response:8190), [tests](../tag/tests), [response:8261](../tag/response:8261), [response:8353](../tag/response:8353)
 

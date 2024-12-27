@@ -1,5 +1,7 @@
 ---
-title: "Additional experience with with Saturn V and SkyShield beta"\ntagnames: 'chdk, delta, kap, autokap, kap-rigs, kaptery, saturnv, skyshield'
+title: "Additional experience with with Saturn V and SkyShield beta"
+
+tagnames: 'chdk, delta, kap, autokap, kap-rigs, kaptery, saturnv, skyshield'
 author: patcoyle
 path: /notes/patcoyle/06-20-2015/additional-experience-with-with-saturn-v-and-skyshield-beta.md
 nid: 11991
@@ -11,7 +13,7 @@ uid: 77
 
 # Additional experience with with Saturn V and SkyShield beta
 
-by [patcoyle](../profile/patcoyle) | June 20, 2015 01:42
+by [patcoyle](../../../profile/patcoyle) | June 20, 2015 01:42
 
 June 20, 2015 01:42 | Tags: [chdk](../tag/chdk), [delta](../tag/delta), [kap](../tag/kap), [autokap](../tag/autokap), [kap-rigs](../tag/kap-rigs), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
 

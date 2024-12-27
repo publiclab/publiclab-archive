@@ -1,5 +1,7 @@
 ---
-title: "liz@publiclab"\ntagnames: 'liz'
+title: "liz@publiclab"
+
+tagnames: 'liz'
 author: danielrobinson
 path: /wiki/liz-publiclab.md
 nid: 13184

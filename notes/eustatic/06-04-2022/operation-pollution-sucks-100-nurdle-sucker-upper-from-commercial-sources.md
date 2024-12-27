@@ -1,5 +1,7 @@
 ---
-title: "Operation Pollution Sucks:  ~$100 nurdle sucker upper from commercial sources"\ntagnames: 'kits, water-quality, microplastics, zoom:18, nurdles, nurdlepatrol, lat:40.037875, lon:-76.305514'
+title: "Operation Pollution Sucks:  ~$100 nurdle sucker upper from commercial sources"
+
+tagnames: 'kits, water-quality, microplastics, zoom:18, nurdles, nurdlepatrol, lat:40.037875, lon:-76.305514'
 author: eustatic
 path: /06-04-2022/operation-pollution-sucks-100-nurdle-sucker-upper-from-commercial-sources.md
 nid: 31030
@@ -11,7 +13,7 @@ uid: 379
 
 # Operation Pollution Sucks:  ~$100 nurdle sucker upper from commercial sources
 
-by [eustatic](../profile/eustatic) | June 04, 2022 19:45
+by [eustatic](../../../profile/eustatic) | June 04, 2022 19:45
 
 June 04, 2022 19:45 | Tags: [kits](../tag/kits), [water-quality](../tag/water-quality), [microplastics](../tag/microplastics), [zoom:18](../tag/zoom:18), [nurdles](../tag/nurdles), [nurdlepatrol](../tag/nurdlepatrol), [lat:40.037875](../tag/lat:40.037875), [lon:-76.305514](../tag/lon:-76.305514)
 

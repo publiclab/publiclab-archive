@@ -1,5 +1,7 @@
 ---
-title: "DIY cold brewed coffee maker"\ntagnames: 'coffee, coldbrew'
+title: "DIY cold brewed coffee maker"
+
+tagnames: 'coffee, coldbrew'
 author: JSummers
 path: /notes/JSummers/11-07-2014/diy-cold-brewed-coffee-maker.md
 nid: 11325
@@ -11,7 +13,7 @@ uid: 304279
 
 # DIY cold brewed coffee maker
 
-by [JSummers](../profile/JSummers) | November 07, 2014 21:41
+by [JSummers](../../../profile/JSummers) | November 07, 2014 21:41
 
 November 07, 2014 21:41 | Tags: [coffee](../tag/coffee), [coldbrew](../tag/coldbrew)
 

@@ -1,5 +1,7 @@
 ---
-title: "Public Lab at Science for Action "\ntagnames: 'gulf-coast, kite-mapping, conferences, louisiana, barnraising, barnraising2014, response:11376'
+title: "Public Lab at Science for Action "
+
+tagnames: 'gulf-coast, kite-mapping, conferences, louisiana, barnraising, barnraising2014, response:11376'
 author: cfastie
 path: /notes/cfastie/01-03-2015/public-lab-at-science-for-action.md
 nid: 11503
@@ -11,7 +13,7 @@ uid: 554
 
 # Public Lab at Science for Action 
 
-by [cfastie](../profile/cfastie) | January 03, 2015 23:36
+by [cfastie](../../../profile/cfastie) | January 03, 2015 23:36
 
 January 03, 2015 23:36 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [conferences](../tag/conferences), [louisiana](../tag/louisiana), [barnraising](../tag/barnraising), [barnraising2014](../tag/barnraising2014), [response:11376](../tag/response:11376)
 

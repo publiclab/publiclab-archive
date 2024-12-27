@@ -1,5 +1,7 @@
 ---
-title: "Newtown Creek EPA Superfund CAG meeting"\ntagnames: 'new-york-city, newtown-creek, superfund-site, epa, cag, northeast'
+title: "Newtown Creek EPA Superfund CAG meeting"
+
+tagnames: 'new-york-city, newtown-creek, superfund-site, epa, cag, northeast'
 author: liz
 path: /notes/liz/10-02-2014/newtown-creek-epa-superfund-cag-meeting.md
 nid: 11228
@@ -11,7 +13,7 @@ uid: 7
 
 # Newtown Creek EPA Superfund CAG meeting
 
-by [liz](../profile/liz) | October 02, 2014 00:00
+by [liz](../../../profile/liz) | October 02, 2014 00:00
 
 October 02, 2014 00:00 | Tags: [new-york-city](../tag/new-york-city), [newtown-creek](../tag/newtown-creek), [superfund-site](../tag/superfund-site), [epa](../tag/epa), [cag](../tag/cag), [northeast](../tag/northeast)
 

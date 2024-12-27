@@ -1,5 +1,7 @@
 ---
-title: "Climate Change and Environmental Justice:  How it impacts and continues to prove to be a disadvantage to the low income and minority population."\ntagnames: 'pollution, climate-change, environmental-justice, lat:41, issue-brief, environmental-advocacy, first-time-poster, zoom:7, climate-crisis, lon:-87'
+title: "Climate Change and Environmental Justice:  How it impacts and continues to prove to be a disadvantage to the low income and minority population."
+
+tagnames: 'pollution, climate-change, environmental-justice, lat:41, issue-brief, environmental-advocacy, first-time-poster, zoom:7, climate-crisis, lon:-87'
 author: MyrnaRomo
 path: /notes/MyrnaRomo/11-14-2020/climate-change-and-environmental-justice-how-it-impacts-and-continues-to-prove-to-be-a-disadvantage-to-the-low-income-and-minority-population.md
 nid: 25060
@@ -11,7 +13,7 @@ uid: 726546
 
 # Climate Change and Environmental Justice:  How it impacts and continues to prove to be a disadvantage to the low income and minority population.
 
-by [MyrnaRomo](../profile/MyrnaRomo) | November 14, 2020 00:19
+by [MyrnaRomo](../../../profile/MyrnaRomo) | November 14, 2020 00:19
 
 November 14, 2020 00:19 | Tags: [pollution](../tag/pollution), [climate-change](../tag/climate-change), [environmental-justice](../tag/environmental-justice), [lat:41](../tag/lat:41), [issue-brief](../tag/issue-brief), [environmental-advocacy](../tag/environmental-advocacy), [first-time-poster](../tag/first-time-poster), [zoom:7](../tag/zoom:7), [climate-crisis](../tag/climate-crisis), [lon:-87](../tag/lon:-87)
 

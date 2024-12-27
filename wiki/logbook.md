@@ -1,5 +1,7 @@
 ---
-title: "Logbook"\ntagnames: ''
+title: "Logbook"
+
+tagnames: ''
 author: warren
 path: /wiki/logbook.md
 nid: 105

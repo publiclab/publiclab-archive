@@ -1,5 +1,7 @@
 ---
-title: "A Prototype Paper Stage for the Microscope"\ntagnames: 'papercraft, prototyping, microscope, activity:microscope, activity:microscopes, microscope-stage, activity:community-microscope, community-microscope, community-microscope-prototyping, activity:community-microscope-usage'
+title: "A Prototype Paper Stage for the Microscope"
+
+tagnames: 'papercraft, prototyping, microscope, activity:microscope, activity:microscopes, microscope-stage, activity:community-microscope, community-microscope, community-microscope-prototyping, activity:community-microscope-usage'
 author: mimiss
 path: /notes/mimiss/04-16-2019/a-prototype-paper-stage-for-the-microscope.md
 nid: 19081
@@ -11,7 +13,7 @@ uid: 579821
 
 # A Prototype Paper Stage for the Microscope
 
-by [mimiss](../profile/mimiss) | April 16, 2019 20:10
+by [mimiss](../../../profile/mimiss) | April 16, 2019 20:10
 
 April 16, 2019 20:10 | Tags: [papercraft](../tag/papercraft), [prototyping](../tag/prototyping), [microscope](../tag/microscope), [activity:microscope](../tag/activity:microscope), [activity:microscopes](../tag/activity:microscopes), [microscope-stage](../tag/microscope-stage), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [community-microscope-prototyping](../tag/community-microscope-prototyping), [activity:community-microscope-usage](../tag/activity:community-microscope-usage)
 

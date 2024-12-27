@@ -1,5 +1,7 @@
 ---
-title: "Bayou Bienvenue Kite Mappers"\ntagnames: 'gulf-coast, kite-mapping, bienvenue'
+title: "Bayou Bienvenue Kite Mappers"
+
+tagnames: 'gulf-coast, kite-mapping, bienvenue'
 author: gonzoearth
 path: /notes/gonzoearth/2-15-2013/bayou-bienvenue-kite-mappers.md
 nid: 6005
@@ -11,7 +13,7 @@ uid: 12
 
 # Bayou Bienvenue Kite Mappers
 
-by [gonzoearth](../profile/gonzoearth) | February 15, 2013 18:32
+by [gonzoearth](../../../profile/gonzoearth) | February 15, 2013 18:32
 
 February 15, 2013 18:32 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bienvenue](../tag/bienvenue)
 

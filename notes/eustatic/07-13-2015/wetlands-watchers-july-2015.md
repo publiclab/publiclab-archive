@@ -1,5 +1,7 @@
 ---
-title: "Wetland Watchers July 2015"\ntagnames: 'gulf-coast, balloon-mapping, laplace, wetlands, conservation, park, ecologically-sensitive-site, remediation, balloon, erosion, barnstar:basic, urbanwater, urbanwaters, response:11463, lat:30.056293, lon:-90.371349, place:wetland-watchers-park'
+title: "Wetland Watchers July 2015"
+
+tagnames: 'gulf-coast, balloon-mapping, laplace, wetlands, conservation, park, ecologically-sensitive-site, remediation, balloon, erosion, barnstar:basic, urbanwater, urbanwaters, response:11463, lat:30.056293, lon:-90.371349, place:wetland-watchers-park'
 author: eustatic
 path: /07-13-2015/wetlands-watchers-july-2015.md
 nid: 12053
@@ -11,7 +13,7 @@ uid: 379
 
 # Wetland Watchers July 2015
 
-by [eustatic](../profile/eustatic) | July 13, 2015 05:35
+by [eustatic](../../../profile/eustatic) | July 13, 2015 05:35
 
 July 13, 2015 05:35 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [laplace](../tag/laplace), [wetlands](../tag/wetlands), [conservation](../tag/conservation), [park](../tag/park), [ecologically-sensitive-site](../tag/ecologically-sensitive-site), [remediation](../tag/remediation), [balloon](../tag/balloon), [erosion](../tag/erosion), [barnstar:basic](../tag/barnstar:basic), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [response:11463](../tag/response:11463), [lat:30.056293](../tag/lat:30.056293), [lon:-90.371349](../tag/lon:-90.371349), [place:wetland-watchers-park](../tag/place:wetland-watchers-park)
 

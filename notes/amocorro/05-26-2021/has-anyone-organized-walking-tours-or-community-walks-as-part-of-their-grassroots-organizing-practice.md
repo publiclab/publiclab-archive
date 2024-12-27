@@ -1,5 +1,7 @@
 ---
-title: "Has anyone organized "walking tours" or  "community walks" as part of their grassroots organizing practice?"\ntagnames: 'community-mapping, organizing, place, advocacy, environmental-justice, question:general, general, community-organizing, local-knowledge, question:organizing, walking-tours, toxic-tours'
+title: "Has anyone organized "walking tours" or  "community walks" as part of their grassroots organizing practice?"
+
+tagnames: 'community-mapping, organizing, place, advocacy, environmental-justice, question:general, general, community-organizing, local-knowledge, question:organizing, walking-tours, toxic-tours'
 author: amocorro
 path: /notes/amocorro/05-26-2021/has-anyone-organized-walking-tours-or-community-walks-as-part-of-their-grassroots-organizing-practice.md
 nid: 26718
@@ -9,7 +11,7 @@ uid: 700923
 
 # Has anyone organized "walking tours" or  "community walks" as part of their grassroots organizing practice?
 
-by [amocorro](../profile/amocorro) | May 26, 2021 23:23
+by [amocorro](../../../profile/amocorro) | May 26, 2021 23:23
 
 May 26, 2021 23:23 | Tags: [community-mapping](../tag/community-mapping), [organizing](../tag/organizing), [place](../tag/place), [advocacy](../tag/advocacy), [environmental-justice](../tag/environmental-justice), [question:general](../tag/question:general), [general](../tag/general), [community-organizing](../tag/community-organizing), [local-knowledge](../tag/local-knowledge), [question:organizing](../tag/question:organizing), [walking-tours](../tag/walking-tours), [toxic-tours](../tag/toxic-tours)
 

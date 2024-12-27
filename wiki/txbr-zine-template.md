@@ -1,5 +1,7 @@
 ---
-title: "Txbr-zine-template"\ntagnames: 'template, parent:templates'
+title: "Txbr-zine-template"
+
+tagnames: 'template, parent:templates'
 author: warren
 path: /wiki/txbr-zine-template.md
 nid: 18413

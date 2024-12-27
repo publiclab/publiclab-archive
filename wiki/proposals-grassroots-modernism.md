@@ -1,5 +1,7 @@
 ---
-title: "Proposals: Grassroots Modernism"\ntagnames: ''
+title: "Proposals: Grassroots Modernism"
+
+tagnames: ''
 author: warren
 path: /wiki/proposals-grassroots-modernism.md
 nid: 152

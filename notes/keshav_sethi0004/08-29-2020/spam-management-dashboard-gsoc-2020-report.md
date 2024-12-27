@@ -1,5 +1,7 @@
 ---
-title: "GSoC 2020 Report: Spam Management Dashboard "\ntagnames: 'gsoc, spam, report, keshav, gsoc-2020-report, soc-2020-final'
+title: "GSoC 2020 Report: Spam Management Dashboard "
+
+tagnames: 'gsoc, spam, report, keshav, gsoc-2020-report, soc-2020-final'
 author: keshav_sethi0004
 path: /notes/keshav_sethi0004/08-29-2020/spam-management-dashboard-gsoc-2020-report.md
 nid: 24481
@@ -11,7 +13,7 @@ uid: 653396
 
 # GSoC 2020 Report: Spam Management Dashboard 
 
-by [keshav_sethi0004](../profile/keshav_sethi0004) | August 29, 2020 21:56
+by [keshav_sethi0004](../../../profile/keshav_sethi0004) | August 29, 2020 21:56
 
 August 29, 2020 21:56 | Tags: [gsoc](../tag/gsoc), [spam](../tag/spam), [report](../tag/report), [keshav](../tag/keshav), [gsoc-2020-report](../tag/gsoc-2020-report), [soc-2020-final](../tag/soc-2020-final)
 

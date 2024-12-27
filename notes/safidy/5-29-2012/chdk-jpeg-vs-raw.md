@@ -1,5 +1,7 @@
 ---
-title: "CHDK : Jpeg VS Raw"\ntagnames: 'kite-mapping, chdk, safidy-andrianantenaina, raw, first-time-poster'
+title: "CHDK : Jpeg VS Raw"
+
+tagnames: 'kite-mapping, chdk, safidy-andrianantenaina, raw, first-time-poster'
 author: Safidy
 path: /notes/safidy/5-29-2012/chdk-jpeg-vs-raw.md
 nid: 2232
@@ -11,7 +13,7 @@ uid: 898
 
 # CHDK : Jpeg VS Raw
 
-by [Safidy](../profile/Safidy) | May 29, 2012 06:02
+by [Safidy](../../../profile/Safidy) | May 29, 2012 06:02
 
 May 29, 2012 06:02 | Tags: [kite-mapping](../tag/kite-mapping), [chdk](../tag/chdk), [safidy-andrianantenaina](../tag/safidy-andrianantenaina), [raw](../tag/raw), [first-time-poster](../tag/first-time-poster)
 

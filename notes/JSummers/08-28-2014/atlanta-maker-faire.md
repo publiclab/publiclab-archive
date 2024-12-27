@@ -1,5 +1,7 @@
 ---
-title: "Atlanta Maker Faire"\ntagnames: 'event, event:rsvp, date:08-28-2014'
+title: "Atlanta Maker Faire"
+
+tagnames: 'event, event:rsvp, date:08-28-2014'
 author: JSummers
 path: /notes/JSummers/08-28-2014/atlanta-maker-faire.md
 nid: 11084
@@ -11,7 +13,7 @@ uid: 304279
 
 # Atlanta Maker Faire
 
-by [JSummers](../profile/JSummers) | August 28, 2014 17:24
+by [JSummers](../../../profile/JSummers) | August 28, 2014 17:24
 
 August 28, 2014 17:24 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [date:08-28-2014](../tag/date:08-28-2014)
 

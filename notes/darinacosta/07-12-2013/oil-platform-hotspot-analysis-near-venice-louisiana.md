@@ -1,5 +1,7 @@
 ---
-title: "Oil Platform Hotspot Analysis near Venice, Louisiana"\ntagnames: 'gulf-coast, louisiana, oil, gis'
+title: "Oil Platform Hotspot Analysis near Venice, Louisiana"
+
+tagnames: 'gulf-coast, louisiana, oil, gis'
 author: darinacosta
 path: /notes/darinacosta/07-12-2013/oil-platform-hotspot-analysis-near-venice-louisiana.md
 nid: 8858
@@ -11,7 +13,7 @@ uid: 170106
 
 # Oil Platform Hotspot Analysis near Venice, Louisiana
 
-by [darinacosta](../profile/darinacosta) | July 12, 2013 20:05
+by [darinacosta](../../../profile/darinacosta) | July 12, 2013 20:05
 
 July 12, 2013 20:05 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [oil](../tag/oil), [gis](../tag/gis)
 

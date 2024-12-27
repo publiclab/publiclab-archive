@@ -1,5 +1,7 @@
 ---
-title: "CivilServant Community Research Summit, community, society and moderation systems"\ntagnames: 'collaboration, outreach, research, peer-production, moderation, newcomers, onboarding, welcoming, wikipedia'
+title: "CivilServant Community Research Summit, community, society and moderation systems"
+
+tagnames: 'collaboration, outreach, research, peer-production, moderation, newcomers, onboarding, welcoming, wikipedia'
 author: warren
 path: /notes/warren/01-27-2018/civilservant-community-research-summit-community-society-and-moderation-systems.md
 nid: 15627
@@ -11,7 +13,7 @@ uid: 1
 
 # CivilServant Community Research Summit, community, society and moderation systems
 
-by [warren](../profile/warren) | January 27, 2018 20:28
+by [warren](../../../profile/warren) | January 27, 2018 20:28
 
 January 27, 2018 20:28 | Tags: [collaboration](../tag/collaboration), [outreach](../tag/outreach), [research](../tag/research), [peer-production](../tag/peer-production), [moderation](../tag/moderation), [newcomers](../tag/newcomers), [onboarding](../tag/onboarding), [welcoming](../tag/welcoming), [wikipedia](../tag/wikipedia)
 

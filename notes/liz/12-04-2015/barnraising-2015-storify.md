@@ -1,5 +1,7 @@
 ---
-title: "Barnraising 2015 Storify"\ntagnames: 'barnraising-2015, with:bronwen'
+title: "Barnraising 2015 Storify"
+
+tagnames: 'barnraising-2015, with:bronwen'
 author: liz
 path: /notes/liz/12-04-2015/barnraising-2015-storify.md
 nid: 12480
@@ -11,7 +13,7 @@ uid: 7
 
 # Barnraising 2015 Storify
 
-by [liz](../profile/liz) | December 04, 2015 21:37
+by [liz](../../../profile/liz) | December 04, 2015 21:37
 
 December 04, 2015 21:37 | Tags: [barnraising-2015](../tag/barnraising-2015), [with:bronwen](../tag/with:bronwen)
 

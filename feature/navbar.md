@@ -1,5 +1,7 @@
 ---
-title: "navbar"\ntagnames: 'e8e8e8'
+title: "navbar"
+
+tagnames: 'e8e8e8'
 author: warren
 path: /feature/navbar.md
 nid: 21542

@@ -1,5 +1,7 @@
 ---
-title: "Testing - water depth from camera image"\ntagnames: 'stormwater, seeks:replications, activity:timelapse, activity:stormwater, activity:site-survey'
+title: "Testing - water depth from camera image"
+
+tagnames: 'stormwater, seeks:replications, activity:timelapse, activity:stormwater, activity:site-survey'
 author: chalmers
 path: /notes/chalmers/02-19-2017/testing-water-depth-from-camera-image.md
 nid: 13942
@@ -11,7 +13,7 @@ uid: 503143
 
 # Testing - water depth from camera image
 
-by [chalmers](../profile/chalmers) | February 19, 2017 18:42
+by [chalmers](../../../profile/chalmers) | February 19, 2017 18:42
 
 February 19, 2017 18:42 | Tags: [stormwater](../tag/stormwater), [seeks:replications](../tag/seeks:replications), [activity:timelapse](../tag/activity:timelapse), [activity:stormwater](../tag/activity:stormwater), [activity:site-survey](../tag/activity:site-survey)
 

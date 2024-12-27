@@ -1,5 +1,7 @@
 ---
-title: "Topic Pages"\ntagnames: 'parent:website'
+title: "Topic Pages"
+
+tagnames: 'parent:website'
 author: warren
 path: /wiki/topic-pages.md
 nid: 20034

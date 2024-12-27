@@ -1,5 +1,7 @@
 ---
-title: "Ambient/Light Bulb Testing"\ntagnames: 'spectrometer, spectrometry, question:spectrometry, exposure-calibration'
+title: "Ambient/Light Bulb Testing"
+
+tagnames: 'spectrometer, spectrometry, question:spectrometry, exposure-calibration'
 author: idev247
 path: /notes/idev247/12-06-2016/ambient-light-bulb-testing.md
 nid: 13752
@@ -9,7 +11,7 @@ uid: 498913
 
 # Ambient/Light Bulb Testing
 
-by [idev247](../profile/idev247) | December 06, 2016 18:09
+by [idev247](../../../profile/idev247) | December 06, 2016 18:09
 
 December 06, 2016 18:09 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [exposure-calibration](../tag/exposure-calibration)
 

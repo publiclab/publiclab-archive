@@ -1,5 +1,7 @@
 ---
-title: "the Hills have Acne: passenger pigeon photos of drill sites out West"\ntagnames: 'passenger-pigeon'
+title: "the Hills have Acne: passenger pigeon photos of drill sites out West"
+
+tagnames: 'passenger-pigeon'
 author: eustatic
 path: /5-10-2012/hills-have-acne-passenger-pigeon-photos-drill-sites-out-west.md
 nid: 1952
@@ -11,7 +13,7 @@ uid: 379
 
 # the Hills have Acne: passenger pigeon photos of drill sites out West
 
-by [eustatic](../profile/eustatic) | May 10, 2012 22:08
+by [eustatic](../../../profile/eustatic) | May 10, 2012 22:08
 
 May 10, 2012 22:08 | Tags: [passenger-pigeon](../tag/passenger-pigeon)
 

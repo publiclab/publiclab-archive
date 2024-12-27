@@ -1,5 +1,7 @@
 ---
-title: "State of the Science: The Oil Testing Kit"\ntagnames: 'spectrometer, video, oil-testing-kit, with:warren'
+title: "State of the Science: The Oil Testing Kit"
+
+tagnames: 'spectrometer, video, oil-testing-kit, with:warren'
 author: mathew
 path: /notes/mathew/08-03-2014/state-of-the-science-the-oil-testing-kit.md
 nid: 11010
@@ -11,7 +13,7 @@ uid: 4
 
 # State of the Science: The Oil Testing Kit
 
-by [mathew](../profile/mathew) | August 03, 2014 21:12
+by [mathew](../../../profile/mathew) | August 03, 2014 21:12
 
 August 03, 2014 21:12 | Tags: [spectrometer](../tag/spectrometer), [video](../tag/video), [oil-testing-kit](../tag/oil-testing-kit), [with:warren](../tag/with:warren)
 

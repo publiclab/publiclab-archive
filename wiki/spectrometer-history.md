@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer History"\ntagnames: 'spectrometer, parent:spectrometry'
+title: "Spectrometer History"
+
+tagnames: 'spectrometer, parent:spectrometry'
 author: mathew
 path: /wiki/spectrometer-history.md
 nid: 10691

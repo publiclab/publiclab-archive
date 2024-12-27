@@ -1,5 +1,7 @@
 ---
-title: "why PM10count relates to P2 rather than P1?"\ntagnames: 'question:dustduino'
+title: "why PM10count relates to P2 rather than P1?"
+
+tagnames: 'question:dustduino'
 author: tomtobback
 path: /notes/tomtobback/10-28-2015/why-pm10count-relates-to-p2-rather-than-p1.md
 nid: 12339
@@ -9,7 +11,7 @@ uid: 455689
 
 # why PM10count relates to P2 rather than P1?
 
-by [tomtobback](../profile/tomtobback) | October 28, 2015 13:48
+by [tomtobback](../../../profile/tomtobback) | October 28, 2015 13:48
 
 October 28, 2015 13:48 | Tags: [question:dustduino](../tag/question:dustduino)
 

@@ -1,5 +1,7 @@
 ---
-title: "Progress on NRG compositing from MapKnitter"\ntagnames: 'saugus, landfill, waste'
+title: "Progress on NRG compositing from MapKnitter"
+
+tagnames: 'saugus, landfill, waste'
 author: warren
 path: /notes/warren/1-3-2012/progress-nrg-compositing-mapknitter.md
 nid: 676
@@ -11,7 +13,7 @@ uid: 1
 
 # Progress on NRG compositing from MapKnitter
 
-by [warren](../profile/warren) | January 04, 2012 01:21
+by [warren](../../../profile/warren) | January 04, 2012 01:21
 
 January 04, 2012 01:21 | Tags: [saugus](../tag/saugus), [landfill](../tag/landfill), [waste](../tag/waste)
 

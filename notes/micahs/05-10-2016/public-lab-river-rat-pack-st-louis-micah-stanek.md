@@ -1,5 +1,7 @@
 ---
-title: "Public Lab River Rat Pack -- St. Louis -- Micah Stanek"\ntagnames: 'publiclabriverratpack'
+title: "Public Lab River Rat Pack -- St. Louis -- Micah Stanek"
+
+tagnames: 'publiclabriverratpack'
 author: micahs
 path: /notes/micahs/05-10-2016/public-lab-river-rat-pack-st-louis-micah-stanek.md
 nid: 13099
@@ -11,7 +13,7 @@ uid: 465997
 
 # Public Lab River Rat Pack -- St. Louis -- Micah Stanek
 
-by [micahs](../profile/micahs) | May 10, 2016 22:31
+by [micahs](../../../profile/micahs) | May 10, 2016 22:31
 
 May 10, 2016 22:31 | Tags: [publiclabriverratpack](../tag/publiclabriverratpack)
 

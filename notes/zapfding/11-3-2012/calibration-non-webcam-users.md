@@ -1,5 +1,7 @@
 ---
-title: "Calibration for non-webcam users?"\ntagnames: 'troubleshooting, spectralworkbench, help'
+title: "Calibration for non-webcam users?"
+
+tagnames: 'troubleshooting, spectralworkbench, help'
 author: zapfding
 path: /notes/zapfding/11-3-2012/calibration-non-webcam-users.md
 nid: 4762
@@ -9,7 +11,7 @@ uid: 45301
 
 # Calibration for non-webcam users?
 
-by [zapfding](../profile/zapfding) | November 04, 2012 03:02
+by [zapfding](../../../profile/zapfding) | November 04, 2012 03:02
 
 November 04, 2012 03:02 | Tags: [troubleshooting](../tag/troubleshooting), [spectralworkbench](../tag/spectralworkbench), [help](../tag/help)
 

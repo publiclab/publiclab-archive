@@ -1,5 +1,7 @@
 ---
-title: "sandbox-getting-started"\ntagnames: ''
+title: "sandbox-getting-started"
+
+tagnames: ''
 author: bhamster
 path: /wiki/sandbox-getting-started.md
 nid: 34879

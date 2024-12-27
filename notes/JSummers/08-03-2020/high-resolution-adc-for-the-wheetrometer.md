@@ -1,5 +1,7 @@
 ---
-title: "High resolution ADC for the WheeTrometer."\ntagnames: 'advancedsearch, response:16427'
+title: "High resolution ADC for the WheeTrometer."
+
+tagnames: 'advancedsearch, response:16427'
 author: JSummers
 path: /notes/JSummers/08-03-2020/high-resolution-adc-for-the-wheetrometer.md
 nid: 24256
@@ -11,7 +13,7 @@ uid: 304279
 
 # High resolution ADC for the WheeTrometer.
 
-by [JSummers](../profile/JSummers) | August 03, 2020 14:29
+by [JSummers](../../../profile/JSummers) | August 03, 2020 14:29
 
 August 03, 2020 14:29 | Tags: [advancedsearch](../tag/advancedsearch), [response:16427](../tag/response:16427)
 

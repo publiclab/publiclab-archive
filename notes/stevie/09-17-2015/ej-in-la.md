@@ -1,5 +1,7 @@
 ---
-title: "EJ in LA"\ntagnames: 'gulf-coast, louisiana, blog, gulfcoast, environmental-justice'
+title: "EJ in LA"
+
+tagnames: 'gulf-coast, louisiana, blog, gulfcoast, environmental-justice'
 author: stevie
 path: /notes/stevie/09-17-2015/ej-in-la.md
 nid: 12220
@@ -11,7 +13,7 @@ uid: 422561
 
 # EJ in LA
 
-by [stevie](../profile/stevie) | September 17, 2015 20:21
+by [stevie](../../../profile/stevie) | September 17, 2015 20:21
 
 September 17, 2015 20:21 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [blog](../tag/blog), [gulfcoast](../tag/gulfcoast), [environmental-justice](../tag/environmental-justice)
 

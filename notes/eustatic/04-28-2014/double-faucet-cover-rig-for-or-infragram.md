@@ -1,5 +1,7 @@
 ---
-title: "Double Faucet Cover Rig for or infragram"\ntagnames: 'gulf-coast, balloon-mapping, kite-mapping, rig, photo-rig, photo, camera, tests, activity:photo-rig'
+title: "Double Faucet Cover Rig for or infragram"
+
+tagnames: 'gulf-coast, balloon-mapping, kite-mapping, rig, photo-rig, photo, camera, tests, activity:photo-rig'
 author: eustatic
 path: /04-28-2014/double-faucet-cover-rig-for-or-infragram.md
 nid: 10373
@@ -11,7 +13,7 @@ uid: 379
 
 # Double Faucet Cover Rig for or infragram
 
-by [eustatic](../profile/eustatic) | April 28, 2014 00:26
+by [eustatic](../../../profile/eustatic) | April 28, 2014 00:26
 
 April 28, 2014 00:26 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [rig](../tag/rig), [photo-rig](../tag/photo-rig), [photo](../tag/photo), [camera](../tag/camera), [tests](../tag/tests), [activity:photo-rig](../tag/activity:photo-rig)
 

@@ -1,5 +1,7 @@
 ---
-title: "Lake Warner Workflow"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, vermont, ground-control-points, lake, gps, pvos, event, massachusetts, google-earth, invasive, umass-amherst, aquatic, usfws, classification, response:8926, georeferencing, h2onutz, activity:site-survey'
+title: "Lake Warner Workflow"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, vermont, ground-control-points, lake, gps, pvos, event, massachusetts, google-earth, invasive, umass-amherst, aquatic, usfws, classification, response:8926, georeferencing, h2onutz, activity:site-survey'
 author: cfastie
 path: /notes/cfastie/07-25-2013/lake-warner-workflow.md
 nid: 8928
@@ -11,7 +13,7 @@ uid: 554
 
 # Lake Warner Workflow
 
-by [cfastie](../profile/cfastie) | July 25, 2013 21:41
+by [cfastie](../../../profile/cfastie) | July 25, 2013 21:41
 
 July 25, 2013 21:41 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [ground-control-points](../tag/ground-control-points), [lake](../tag/lake), [gps](../tag/gps), [pvos](../tag/pvos), [event](../tag/event), [massachusetts](../tag/massachusetts), [google-earth](../tag/google-earth), [invasive](../tag/invasive), [umass-amherst](../tag/umass-amherst), [aquatic](../tag/aquatic), [usfws](../tag/usfws), [classification](../tag/classification), [response:8926](../tag/response:8926), [georeferencing](../tag/georeferencing), [h2onutz](../tag/h2onutz), [activity:site-survey](../tag/activity:site-survey)
 

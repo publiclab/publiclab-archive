@@ -1,5 +1,7 @@
 ---
-title: "Open Air"\ntagnames: 'air-quality, air, list:plots-airquality, activities:open-air, upgrades:open-air'
+title: "Open Air"
+
+tagnames: 'air-quality, air, list:plots-airquality, activities:open-air, upgrades:open-air'
 author: liz
 path: /wiki/open-air.md
 nid: 11626

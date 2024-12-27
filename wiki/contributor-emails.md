@@ -1,5 +1,7 @@
 ---
-title: "Contributor emails"\ntagnames: ''
+title: "Contributor emails"
+
+tagnames: ''
 author: warren
 path: /wiki/contributor-emails.md
 nid: 653

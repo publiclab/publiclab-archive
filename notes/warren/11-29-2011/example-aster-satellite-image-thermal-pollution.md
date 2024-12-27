@@ -1,5 +1,7 @@
 ---
-title: "Example ASTER Satellite image of thermal pollution"\ntagnames: ''
+title: "Example ASTER Satellite image of thermal pollution"
+
+tagnames: ''
 author: warren
 path: /notes/warren/11-29-2011/example-aster-satellite-image-thermal-pollution.md
 nid: 596
@@ -11,7 +13,7 @@ uid: 1
 
 # Example ASTER Satellite image of thermal pollution
 
-by [warren](../profile/warren) | November 29, 2011 14:23
+by [warren](../../../profile/warren) | November 29, 2011 14:23
 
 November 29, 2011 14:23 | Tags: 
 

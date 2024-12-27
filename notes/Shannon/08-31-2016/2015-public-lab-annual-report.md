@@ -1,5 +1,7 @@
 ---
-title: "2015 Public Lab annual report"\ntagnames: 'annual-report'
+title: "2015 Public Lab annual report"
+
+tagnames: 'annual-report'
 author: Shannon
 path: /notes/Shannon/08-31-2016/2015-public-lab-annual-report.md
 nid: 13408
@@ -11,7 +13,7 @@ uid: 9
 
 # 2015 Public Lab annual report
 
-by [Shannon](../profile/Shannon) | August 31, 2016 01:21
+by [Shannon](../../../profile/Shannon) | August 31, 2016 01:21
 
 August 31, 2016 01:21 | Tags: [annual-report](../tag/annual-report)
 

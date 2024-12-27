@@ -1,5 +1,7 @@
 ---
-title: "Public Lab community newsletter 10.6.13: Update from the 2013 barnraising"\ntagnames: 'newsletter, barnraising, newsletter-archive'
+title: "Public Lab community newsletter 10.6.13: Update from the 2013 barnraising"
+
+tagnames: 'newsletter, barnraising, newsletter-archive'
 author: Shannon
 path: /notes/Shannon/10-06-2013/public-lab-community-newsletter-10-6-13-update-from-the-2013-barnraising.md
 nid: 9413
@@ -11,7 +13,7 @@ uid: 9
 
 # Public Lab community newsletter 10.6.13: Update from the 2013 barnraising
 
-by [Shannon](../profile/Shannon) | October 06, 2013 20:51
+by [Shannon](../../../profile/Shannon) | October 06, 2013 20:51
 
 October 06, 2013 20:51 | Tags: [newsletter](../tag/newsletter), [barnraising](../tag/barnraising), [newsletter-archive](../tag/newsletter-archive)
 

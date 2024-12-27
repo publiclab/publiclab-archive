@@ -1,5 +1,7 @@
 ---
-title: "Detecting wastewater pollution"\ntagnames: 'sewage, water-quality, stormwater, wastewater, method, detecting-wastewater, detecting-wastewater-method, parent:wastewater'
+title: "Detecting wastewater pollution"
+
+tagnames: 'sewage, water-quality, stormwater, wastewater, method, detecting-wastewater, detecting-wastewater-method, parent:wastewater'
 author: bhamster
 path: /wiki/detecting-wastewater.md
 nid: 27628

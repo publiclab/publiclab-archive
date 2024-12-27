@@ -1,5 +1,7 @@
 ---
-title: "Suppression of background light"\ntagnames: 'spectrometry, spectral-workbench, light, question:spectral-workbench, background, suppression'
+title: "Suppression of background light"
+
+tagnames: 'spectrometry, spectral-workbench, light, question:spectral-workbench, background, suppression'
 author: saeed957
 path: /notes/saeed957/05-02-2017/suppression-of-background-light.md
 nid: 14156
@@ -9,7 +11,7 @@ uid: 504013
 
 # Suppression of background light
 
-by [saeed957](../profile/saeed957) | May 02, 2017 07:32
+by [saeed957](../../../profile/saeed957) | May 02, 2017 07:32
 
 May 02, 2017 07:32 | Tags: [spectrometry](../tag/spectrometry), [spectral-workbench](../tag/spectral-workbench), [light](../tag/light), [question:spectral-workbench](../tag/question:spectral-workbench), [background](../tag/background), [suppression](../tag/suppression)
 

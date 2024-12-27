@@ -1,5 +1,7 @@
 ---
-title: "General Environmental Monitoring Study Strategies"\ntagnames: 'air-quality, monitoring, study-design'
+title: "General Environmental Monitoring Study Strategies"
+
+tagnames: 'air-quality, monitoring, study-design'
 author: gretchengehrke
 path: /wiki/general-environmental-monitoring-study-strategies.md
 nid: 14128

@@ -1,5 +1,7 @@
 ---
-title: "First draft on architecture of Sensor plugins, Reservoir plugins, and Pipes for the Open Pipe Kit"\ntagnames: 'open-pipe-kit'
+title: "First draft on architecture of Sensor plugins, Reservoir plugins, and Pipes for the Open Pipe Kit"
+
+tagnames: 'open-pipe-kit'
 author: rjstatic
 path: /11-19-2014/first-draft-on-architecture-of-sensor-plugins-reservoir-plugins-and-pipes-for-the-open-pipe-kit.md
 nid: 11370
@@ -11,7 +13,7 @@ uid: 174
 
 # First draft on architecture of Sensor plugins, Reservoir plugins, and Pipes for the Open Pipe Kit
 
-by [rjstatic](../profile/rjstatic) | November 19, 2014 22:59
+by [rjstatic](../../../profile/rjstatic) | November 19, 2014 22:59
 
 November 19, 2014 22:59 | Tags: [open-pipe-kit](../tag/open-pipe-kit)
 

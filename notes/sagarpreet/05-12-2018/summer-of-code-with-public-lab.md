@@ -1,5 +1,7 @@
 ---
-title: "Summer of code with Public Lab"\ntagnames: ''
+title: "Summer of code with Public Lab"
+
+tagnames: ''
 author: sagarpreet
 path: /notes/sagarpreet/05-12-2018/summer-of-code-with-public-lab.md
 nid: 16332
@@ -11,7 +13,7 @@ uid: 516343
 
 # Summer of code with Public Lab
 
-by [sagarpreet](../profile/sagarpreet) | May 12, 2018 09:24
+by [sagarpreet](../../../profile/sagarpreet) | May 12, 2018 09:24
 
 May 12, 2018 09:24 | Tags: 
 

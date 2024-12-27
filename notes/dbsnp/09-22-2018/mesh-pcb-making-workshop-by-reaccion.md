@@ -1,5 +1,7 @@
 ---
-title: "Mesh PCB making workshop by Reacción"\ntagnames: 'workshop, event, events:boston, ohs, open-hardware-summit, pcb, event:rsvp, date:09-26-2018, first-time-poster'
+title: "Mesh PCB making workshop by Reacción"
+
+tagnames: 'workshop, event, events:boston, ohs, open-hardware-summit, pcb, event:rsvp, date:09-26-2018, first-time-poster'
 author: dbsnp
 path: /notes/dbsnp/09-22-2018/mesh-pcb-making-workshop-by-reaccion.md
 nid: 17159
@@ -11,7 +13,7 @@ uid: 543056
 
 # Mesh PCB making workshop by Reacción
 
-by [dbsnp](../profile/dbsnp) | September 22, 2018 19:44
+by [dbsnp](../../../profile/dbsnp) | September 22, 2018 19:44
 
 September 22, 2018 19:44 | Tags: [workshop](../tag/workshop), [event](../tag/event), [events:boston](../tag/events:boston), [ohs](../tag/ohs), [open-hardware-summit](../tag/open-hardware-summit), [pcb](../tag/pcb), [event:rsvp](../tag/event:rsvp), [date:09-26-2018](../tag/date:09-26-2018), [first-time-poster](../tag/first-time-poster)
 

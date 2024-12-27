@@ -1,5 +1,7 @@
 ---
-title: "Registradores de datos abiertos (o lo más abiertos posibles) para variables ambientales"\ntagnames: 'lat:0, lon:0, zoom:0'
+title: "Registradores de datos abiertos (o lo más abiertos posibles) para variables ambientales"
+
+tagnames: 'lat:0, lon:0, zoom:0'
 author: alejobonifacio
 path: /notes/alejobonifacio/08-10-2022/registradores-de-datos-abiertos-o-lo-mas-abiertos-posibles-para-variables-ambientales.md
 nid: 34859
@@ -11,7 +13,7 @@ uid: 639376
 
 # Registradores de datos abiertos (o lo más abiertos posibles) para variables ambientales
 
-by [alejobonifacio](../profile/alejobonifacio) | August 10, 2022 19:51
+by [alejobonifacio](../../../profile/alejobonifacio) | August 10, 2022 19:51
 
 August 10, 2022 19:51 | Tags: [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [zoom:0](../tag/zoom:0)
 

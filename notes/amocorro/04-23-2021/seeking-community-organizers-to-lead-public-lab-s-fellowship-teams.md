@@ -1,5 +1,7 @@
 ---
-title: "Seeking Frontline Community Organizers to lead Public Lab’s Fellowship Teams"\ntagnames: 'jobs, with:stevie, fellows, fellowship, community-organizing'
+title: "Seeking Frontline Community Organizers to lead Public Lab’s Fellowship Teams"
+
+tagnames: 'jobs, with:stevie, fellows, fellowship, community-organizing'
 author: amocorro
 path: /notes/amocorro/04-23-2021/seeking-community-organizers-to-lead-public-lab-s-fellowship-teams.md
 nid: 26322
@@ -11,7 +13,7 @@ uid: 700923
 
 # Seeking Frontline Community Organizers to lead Public Lab’s Fellowship Teams
 
-by [amocorro](../profile/amocorro) | April 23, 2021 21:33
+by [amocorro](../../../profile/amocorro) | April 23, 2021 21:33
 
 April 23, 2021 21:33 | Tags: [jobs](../tag/jobs), [with:stevie](../tag/with:stevie), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [community-organizing](../tag/community-organizing)
 

@@ -1,5 +1,7 @@
 ---
-title: "How do I start with reafforestation project?"\ntagnames: 'question:general, general, first-time-poster'
+title: "How do I start with reafforestation project?"
+
+tagnames: 'question:general, general, first-time-poster'
 author: Maranatha
 path: /notes/Maranatha/12-16-2019/how-do-i-start-with-reafforestation-project.md
 nid: 21762
@@ -9,7 +11,7 @@ uid: 644856
 
 # How do I start with reafforestation project?
 
-by [Maranatha](../profile/Maranatha) | December 16, 2019 05:41
+by [Maranatha](../../../profile/Maranatha) | December 16, 2019 05:41
 
 December 16, 2019 05:41 | Tags: [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 

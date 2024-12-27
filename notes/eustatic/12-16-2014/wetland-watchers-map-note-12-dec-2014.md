@@ -1,5 +1,7 @@
 ---
-title: "Wetland Watchers map note, 12 dec 2014"\ntagnames: 'laplace, wetlands, conservation, park, ecologically-sensitive-site, remediation, urbanwater, urbanwaters, lat:30.057208, lon:-90.370788, place:wetland-watchers-park'
+title: "Wetland Watchers map note, 12 dec 2014"
+
+tagnames: 'laplace, wetlands, conservation, park, ecologically-sensitive-site, remediation, urbanwater, urbanwaters, lat:30.057208, lon:-90.370788, place:wetland-watchers-park'
 author: eustatic
 path: /12-16-2014/wetland-watchers-map-note-12-dec-2014.md
 nid: 11463
@@ -11,7 +13,7 @@ uid: 379
 
 # Wetland Watchers map note, 12 dec 2014
 
-by [eustatic](../profile/eustatic) | December 16, 2014 01:05
+by [eustatic](../../../profile/eustatic) | December 16, 2014 01:05
 
 December 16, 2014 01:05 | Tags: [laplace](../tag/laplace), [wetlands](../tag/wetlands), [conservation](../tag/conservation), [park](../tag/park), [ecologically-sensitive-site](../tag/ecologically-sensitive-site), [remediation](../tag/remediation), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [lat:30.057208](../tag/lat:30.057208), [lon:-90.370788](../tag/lon:-90.370788), [place:wetland-watchers-park](../tag/place:wetland-watchers-park)
 

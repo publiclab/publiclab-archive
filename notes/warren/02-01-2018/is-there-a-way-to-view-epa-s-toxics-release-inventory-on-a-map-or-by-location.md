@@ -1,5 +1,7 @@
 ---
-title: "Is there a way to view EPA's Toxics Release Inventory on a map, or by location?"\ntagnames: 'epa, maps, data, emissions, answered, edgi, environmental-data, question:data, question:mapping, tri, toxics-release-inventory, data.gov, spills, leaks, pollution-mapping, question:emissions'
+title: "Is there a way to view EPA's Toxics Release Inventory on a map, or by location?"
+
+tagnames: 'epa, maps, data, emissions, answered, edgi, environmental-data, question:data, question:mapping, tri, toxics-release-inventory, data.gov, spills, leaks, pollution-mapping, question:emissions'
 author: warren
 path: /notes/warren/02-01-2018/is-there-a-way-to-view-epa-s-toxics-release-inventory-on-a-map-or-by-location.md
 nid: 15653
@@ -9,7 +11,7 @@ uid: 1
 
 # Is there a way to view EPA's Toxics Release Inventory on a map, or by location?
 
-by [warren](../profile/warren) | February 01, 2018 00:31
+by [warren](../../../profile/warren) | February 01, 2018 00:31
 
 February 01, 2018 00:31 | Tags: [epa](../tag/epa), [maps](../tag/maps), [data](../tag/data), [emissions](../tag/emissions), [answered](../tag/answered), [edgi](../tag/edgi), [environmental-data](../tag/environmental-data), [question:data](../tag/question:data), [question:mapping](../tag/question:mapping), [tri](../tag/tri), [toxics-release-inventory](../tag/toxics-release-inventory), [data.gov](../tag/data.gov), [spills](../tag/spills), [leaks](../tag/leaks), [pollution-mapping](../tag/pollution-mapping), [question:emissions](../tag/question:emissions)
 

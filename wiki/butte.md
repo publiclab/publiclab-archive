@@ -1,5 +1,7 @@
 ---
-title: "Butte"\ntagnames: 'chapter, parent:northwest, montana'
+title: "Butte"
+
+tagnames: 'chapter, parent:northwest, montana'
 author: mathew
 path: /wiki/butte.md
 nid: 408

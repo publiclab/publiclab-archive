@@ -1,5 +1,7 @@
 ---
-title: "Residents are fighting back against plastics odors in this small NY town"\ntagnames: 'air-quality, blog, odor, oil-and-gas, plastics, with:joyofsoy, with:michaelwma, with:hara214, with:ca4o, orangetown-aluf, lat:41.074021, lon:-73.97621'
+title: "Residents are fighting back against plastics odors in this small NY town"
+
+tagnames: 'air-quality, blog, odor, oil-and-gas, plastics, with:joyofsoy, with:michaelwma, with:hara214, with:ca4o, orangetown-aluf, lat:41.074021, lon:-73.97621'
 author: stevie
 path: /notes/stevie/12-04-2019/residents-are-fighting-back-against-plastics-odors-in-this-small-ny-town.md
 nid: 21416
@@ -11,7 +13,7 @@ uid: 422561
 
 # Residents are fighting back against plastics odors in this small NY town
 
-by [stevie](../profile/stevie) | December 04, 2019 16:50
+by [stevie](../../../profile/stevie) | December 04, 2019 16:50
 
 December 04, 2019 16:50 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [odor](../tag/odor), [oil-and-gas](../tag/oil-and-gas), [plastics](../tag/plastics), [with:joyofsoy](../tag/with:joyofsoy), [with:michaelwma](../tag/with:michaelwma), [with:hara214](../tag/with:hara214), [with:ca4o](../tag/with:ca4o), [orangetown-aluf](../tag/orangetown-aluf), [lat:41.074021](../tag/lat:41.074021), [lon:-73.97621](../tag/lon:-73.97621)
 

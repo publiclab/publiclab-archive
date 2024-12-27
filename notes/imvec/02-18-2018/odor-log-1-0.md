@@ -1,5 +1,7 @@
 ---
-title: "Odor Log 1.0"\ntagnames: 'air-quality, logging, getting-started, body-senses, odors, odor, odor-log, smell, gaimec, lang:en, activity:odor, odor-logging, activity:odor-logging'
+title: "Odor Log 1.0"
+
+tagnames: 'air-quality, logging, getting-started, body-senses, odors, odor, odor-log, smell, gaimec, lang:en, activity:odor, odor-logging, activity:odor-logging'
 author: imvec
 path: /notes/imvec/02-18-2018/odor-log-1-0.md
 nid: 15761
@@ -11,7 +13,7 @@ uid: 495038
 
 # Odor Log 1.0
 
-by [imvec](../profile/imvec) | February 18, 2018 22:50
+by [imvec](../../../profile/imvec) | February 18, 2018 22:50
 
 February 18, 2018 22:50 | Tags: [air-quality](../tag/air-quality), [logging](../tag/logging), [getting-started](../tag/getting-started), [body-senses](../tag/body-senses), [odors](../tag/odors), [odor](../tag/odor), [odor-log](../tag/odor-log), [smell](../tag/smell), [gaimec](../tag/gaimec), [lang:en](../tag/lang:en), [activity:odor](../tag/activity:odor), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging)
 

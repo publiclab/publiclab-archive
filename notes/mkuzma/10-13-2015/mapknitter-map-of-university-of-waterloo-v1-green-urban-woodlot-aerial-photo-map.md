@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of University of Waterloo - V1 Green Urban Woodlot Aerial Photo Map"\ntagnames: 'mapknitter, lat:43.4642578, lon:-80.5204096'
+title: "MapKnitter map of University of Waterloo - V1 Green Urban Woodlot Aerial Photo Map"
+
+tagnames: 'mapknitter, lat:43.4642578, lon:-80.5204096'
 author: mkuzma
 path: /notes/mkuzma/10-13-2015/mapknitter-map-of-university-of-waterloo-v1-green-urban-woodlot-aerial-photo-map.md
 nid: 12294
@@ -9,7 +11,7 @@ uid: 453934
 
 # MapKnitter map of University of Waterloo - V1 Green Urban Woodlot Aerial Photo Map
 
-by [mkuzma](../profile/mkuzma) | October 13, 2015 16:43
+by [mkuzma](../../../profile/mkuzma) | October 13, 2015 16:43
 
 October 13, 2015 16:43 | Tags: [mapknitter](../tag/mapknitter), [lat:43.4642578](../tag/lat:43.4642578), [lon:-80.5204096](../tag/lon:-80.5204096)
 

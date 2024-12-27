@@ -1,5 +1,7 @@
 ---
-title: "Sensor Journalism: A Guide for Educators"\ntagnames: 'education, curriculum, water-quality, coqui, sensor-journalism, seeks:replications, storytelling, activity:coqui-usage, activity:edu-coqui'
+title: "Sensor Journalism: A Guide for Educators"
+
+tagnames: 'education, curriculum, water-quality, coqui, sensor-journalism, seeks:replications, storytelling, activity:coqui-usage, activity:edu-coqui'
 author: kanarinka
 path: /notes/kanarinka/03-01-2018/sensor-journalism-a-guide-for-educators.md
 nid: 15852
@@ -11,7 +13,7 @@ uid: 994
 
 # Sensor Journalism: A Guide for Educators
 
-by [kanarinka](../profile/kanarinka) | March 01, 2018 23:17
+by [kanarinka](../../../profile/kanarinka) | March 01, 2018 23:17
 
 March 01, 2018 23:17 | Tags: [education](../tag/education), [curriculum](../tag/curriculum), [water-quality](../tag/water-quality), [coqui](../tag/coqui), [sensor-journalism](../tag/sensor-journalism), [seeks:replications](../tag/seeks:replications), [storytelling](../tag/storytelling), [activity:coqui-usage](../tag/activity:coqui-usage), [activity:edu-coqui](../tag/activity:edu-coqui)
 

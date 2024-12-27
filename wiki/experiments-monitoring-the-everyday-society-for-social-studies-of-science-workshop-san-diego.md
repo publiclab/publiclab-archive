@@ -1,5 +1,7 @@
 ---
-title: "Experiments Monitoring the Everyday: Society for Social Studies of Science Workshop San Diego"\ntagnames: 'san-diego, workshops, 4s'
+title: "Experiments Monitoring the Everyday: Society for Social Studies of Science Workshop San Diego"
+
+tagnames: 'san-diego, workshops, 4s'
 author: sara
 path: /wiki/experiments-monitoring-the-everyday-society-for-social-studies-of-science-workshop-san-diego.md
 nid: 9441

@@ -1,5 +1,7 @@
 ---
-title: "Polynomial"\ntagnames: 'spectrometer, vermont, calibration, spectralworkbench, cfl, ebert, nonlinear, non-linear, polynomial'
+title: "Polynomial"
+
+tagnames: 'spectrometer, vermont, calibration, spectralworkbench, cfl, ebert, nonlinear, non-linear, polynomial'
 author: cfastie
 path: /notes/cfastie/3-6-2013/polynomial.md
 nid: 6225
@@ -11,7 +13,7 @@ uid: 554
 
 # Polynomial
 
-by [cfastie](../profile/cfastie) | March 07, 2013 04:14
+by [cfastie](../../../profile/cfastie) | March 07, 2013 04:14
 
 March 07, 2013 04:14 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [calibration](../tag/calibration), [spectralworkbench](../tag/spectralworkbench), [cfl](../tag/cfl), [ebert](../tag/ebert), [nonlinear](../tag/nonlinear), [non-linear](../tag/non-linear), [polynomial](../tag/polynomial)
 

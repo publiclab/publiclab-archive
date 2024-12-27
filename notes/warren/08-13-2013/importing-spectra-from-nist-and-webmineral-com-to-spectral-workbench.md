@@ -1,5 +1,7 @@
 ---
-title: "Importing spectra from NIST and WebMineral.com to Spectral Workbench"\ntagnames: 'spectrometer, flame, spectral-analysis, flare, emission, emissions, nist, spectral-databases, activity:spectrometry, activity:spectral-workbench, 10863'
+title: "Importing spectra from NIST and WebMineral.com to Spectral Workbench"
+
+tagnames: 'spectrometer, flame, spectral-analysis, flare, emission, emissions, nist, spectral-databases, activity:spectrometry, activity:spectral-workbench, 10863'
 author: warren
 path: /notes/warren/08-13-2013/importing-spectra-from-nist-and-webmineral-com-to-spectral-workbench.md
 nid: 8995
@@ -11,7 +13,7 @@ uid: 1
 
 # Importing spectra from NIST and WebMineral.com to Spectral Workbench
 
-by [warren](../profile/warren) | August 13, 2013 16:16
+by [warren](../../../profile/warren) | August 13, 2013 16:16
 
 August 13, 2013 16:16 | Tags: [spectrometer](../tag/spectrometer), [flame](../tag/flame), [spectral-analysis](../tag/spectral-analysis), [flare](../tag/flare), [emission](../tag/emission), [emissions](../tag/emissions), [nist](../tag/nist), [spectral-databases](../tag/spectral-databases), [activity:spectrometry](../tag/activity:spectrometry), [activity:spectral-workbench](../tag/activity:spectral-workbench), [10863](../tag/10863)
 

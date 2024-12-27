@@ -1,5 +1,7 @@
 ---
-title: "Fake alcoholic drinks"\ntagnames: 'spectrometer, spectral-analysis, alcoholic-drinks, near-ir, eu, greece, location:blurred, lat:30, activity:spectrometer, lon:20, place:greece'
+title: "Fake alcoholic drinks"
+
+tagnames: 'spectrometer, spectral-analysis, alcoholic-drinks, near-ir, eu, greece, location:blurred, lat:30, activity:spectrometer, lon:20, place:greece'
 author: Dplus
 path: /notes/dplus/2-3-2013/fake-alcoholic-drinks.md
 nid: 5879
@@ -9,7 +11,7 @@ uid: 49040
 
 # Fake alcoholic drinks
 
-by [Dplus](../profile/Dplus) | February 03, 2013 20:46
+by [Dplus](../../../profile/Dplus) | February 03, 2013 20:46
 
 February 03, 2013 20:46 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [alcoholic-drinks](../tag/alcoholic-drinks), [near-ir](../tag/near-ir), [eu](../tag/eu), [greece](../tag/greece), [location:blurred](../tag/location:blurred), [lat:30](../tag/lat:30), [activity:spectrometer](../tag/activity:spectrometer), [lon:20](../tag/lon:20), [place:greece](../tag/place:greece)
 

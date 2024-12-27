@@ -1,5 +1,7 @@
 ---
-title: "What's the battery life of the Nano Data Logger?"\ntagnames: 'answered, data-logging, nano-data-logger, question:nano-data-logger'
+title: "What's the battery life of the Nano Data Logger?"
+
+tagnames: 'answered, data-logging, nano-data-logger, question:nano-data-logger'
 author: warren
 path: /notes/warren/06-12-2017/what-s-the-battery-life-of-the-nano-data-logger.md
 nid: 14525
@@ -9,7 +11,7 @@ uid: 1
 
 # What's the battery life of the Nano Data Logger?
 
-by [warren](../profile/warren) | June 12, 2017 21:35
+by [warren](../../../profile/warren) | June 12, 2017 21:35
 
 June 12, 2017 21:35 | Tags: [answered](../tag/answered), [data-logging](../tag/data-logging), [nano-data-logger](../tag/nano-data-logger), [question:nano-data-logger](../tag/question:nano-data-logger)
 

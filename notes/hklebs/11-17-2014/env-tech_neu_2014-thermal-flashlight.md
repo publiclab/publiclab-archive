@@ -1,5 +1,7 @@
 ---
-title: "Env+Tech_neu_2014 - Thermal Flashlight"\ntagnames: 'thermal-photography, thermal-flashlight, thermal-imaging, northeastern, thermal, insulation, heat, replication:625'
+title: "Env+Tech_neu_2014 - Thermal Flashlight"
+
+tagnames: 'thermal-photography, thermal-flashlight, thermal-imaging, northeastern, thermal, insulation, heat, replication:625'
 author: hklebs
 path: /notes/hklebs/11-17-2014/env-tech_neu_2014-thermal-flashlight.md
 nid: 11353
@@ -11,7 +13,7 @@ uid: 431609
 
 # Env+Tech_neu_2014 - Thermal Flashlight
 
-by [hklebs](../profile/hklebs) | November 17, 2014 16:00
+by [hklebs](../../../profile/hklebs) | November 17, 2014 16:00
 
 November 17, 2014 16:00 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [thermal](../tag/thermal), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
 

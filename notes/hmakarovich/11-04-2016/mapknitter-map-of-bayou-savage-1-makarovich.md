@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of Bayou Savage 1 makarovich"\ntagnames: 'mapknitter, lat:30.0492174934, lon:-89.8750627041'
+title: "MapKnitter map of Bayou Savage 1 makarovich"
+
+tagnames: 'mapknitter, lat:30.0492174934, lon:-89.8750627041'
 author: hmakarovich
 path: /notes/hmakarovich/11-04-2016/mapknitter-map-of-bayou-savage-1-makarovich.md
 nid: 13678
@@ -11,7 +13,7 @@ uid: 496381
 
 # MapKnitter map of Bayou Savage 1 makarovich
 
-by [hmakarovich](../profile/hmakarovich) | November 04, 2016 21:07
+by [hmakarovich](../../../profile/hmakarovich) | November 04, 2016 21:07
 
 November 04, 2016 21:07 | Tags: [mapknitter](../tag/mapknitter), [lat:30.0492174934](../tag/lat:30.0492174934), [lon:-89.8750627041](../tag/lon:-89.8750627041)
 

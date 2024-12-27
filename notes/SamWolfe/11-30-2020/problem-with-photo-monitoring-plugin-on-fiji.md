@@ -1,5 +1,7 @@
 ---
-title: "Problem with Photo Monitoring Plugin on Fiji"\ntagnames: 'website, photo-monitoring, fiji, photo-monitoring-plugin, question:website, question:photo-monitoring-plugin, first-time-poster'
+title: "Problem with Photo Monitoring Plugin on Fiji"
+
+tagnames: 'website, photo-monitoring, fiji, photo-monitoring-plugin, question:website, question:photo-monitoring-plugin, first-time-poster'
 author: SamWolfe
 path: /notes/SamWolfe/11-30-2020/problem-with-photo-monitoring-plugin-on-fiji.md
 nid: 25141
@@ -9,7 +11,7 @@ uid: 730951
 
 # Problem with Photo Monitoring Plugin on Fiji
 
-by [SamWolfe](../profile/SamWolfe) | November 30, 2020 15:54
+by [SamWolfe](../../../profile/SamWolfe) | November 30, 2020 15:54
 
 November 30, 2020 15:54 | Tags: [website](../tag/website), [photo-monitoring](../tag/photo-monitoring), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [question:website](../tag/question:website), [question:photo-monitoring-plugin](../tag/question:photo-monitoring-plugin), [first-time-poster](../tag/first-time-poster)
 

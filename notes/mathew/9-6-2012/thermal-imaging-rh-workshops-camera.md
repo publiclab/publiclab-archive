@@ -1,5 +1,7 @@
 ---
-title: "Thermal Imaging with RH Workshop's Camera"\ntagnames: 'thermal-photography, thermal-flashlight'
+title: "Thermal Imaging with RH Workshop's Camera"
+
+tagnames: 'thermal-photography, thermal-flashlight'
 author: mathew
 path: /notes/mathew/9-6-2012/thermal-imaging-rh-workshops-camera.md
 nid: 3672
@@ -11,7 +13,7 @@ uid: 4
 
 # Thermal Imaging with RH Workshop's Camera
 
-by [mathew](../profile/mathew) | September 07, 2012 00:42
+by [mathew](../../../profile/mathew) | September 07, 2012 00:42
 
 September 07, 2012 00:42 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight)
 

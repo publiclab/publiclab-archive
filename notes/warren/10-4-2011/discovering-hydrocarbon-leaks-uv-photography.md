@@ -1,5 +1,7 @@
 ---
-title: "Discovering hydrocarbon leaks with UV photography?"\ntagnames: 'uv, ultraviolet, fluorescence, hydrocarbon'
+title: "Discovering hydrocarbon leaks with UV photography?"
+
+tagnames: 'uv, ultraviolet, fluorescence, hydrocarbon'
 author: warren
 path: /notes/warren/10-4-2011/discovering-hydrocarbon-leaks-uv-photography.md
 nid: 497
@@ -11,7 +13,7 @@ uid: 1
 
 # Discovering hydrocarbon leaks with UV photography?
 
-by [warren](../profile/warren) | October 04, 2011 19:15
+by [warren](../../../profile/warren) | October 04, 2011 19:15
 
 October 04, 2011 19:15 | Tags: [uv](../tag/uv), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [hydrocarbon](../tag/hydrocarbon)
 

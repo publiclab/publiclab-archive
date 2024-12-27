@@ -1,5 +1,7 @@
 ---
-title: "A Year of Thermal Pollution from Oyster Creek Nuclear Plant"\ntagnames: 'thermal-photography, landsat, nuclear, satellite-imagery, satellite, lat:39.748887, lon:-74.39676, place:oyster-creek-nuclear-generating-station-u-s-9-forked-river-nj'
+title: "A Year of Thermal Pollution from Oyster Creek Nuclear Plant"
+
+tagnames: 'thermal-photography, landsat, nuclear, satellite-imagery, satellite, lat:39.748887, lon:-74.39676, place:oyster-creek-nuclear-generating-station-u-s-9-forked-river-nj'
 author: zenontc
 path: /notes/zenontc/03-06-2014/a-year-of-thermal-pollution.md
 nid: 10123
@@ -11,7 +13,7 @@ uid: 421242
 
 # A Year of Thermal Pollution from Oyster Creek Nuclear Plant
 
-by [zenontc](../profile/zenontc) | March 06, 2014 19:49
+by [zenontc](../../../profile/zenontc) | March 06, 2014 19:49
 
 March 06, 2014 19:49 | Tags: [thermal-photography](../tag/thermal-photography), [landsat](../tag/landsat), [nuclear](../tag/nuclear), [satellite-imagery](../tag/satellite-imagery), [satellite](../tag/satellite), [lat:39.748887](../tag/lat:39.748887), [lon:-74.39676](../tag/lon:-74.39676), [place:oyster-creek-nuclear-generating-station-u-s-9-forked-river-nj](../tag/place:oyster-creek-nuclear-generating-station-u-s-9-forked-river-nj)
 

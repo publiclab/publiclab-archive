@@ -1,5 +1,7 @@
 ---
-title: "Renegotiating Expertise: a talk at ClimateX MIT"\ntagnames: 'boston, presentations, talk, presentation, northeast, climate-change, climate, mit, expertise, climatex'
+title: "Renegotiating Expertise: a talk at ClimateX MIT"
+
+tagnames: 'boston, presentations, talk, presentation, northeast, climate-change, climate, mit, expertise, climatex'
 author: warren
 path: /notes/warren/01-18-2017/renegotiating-expertise-a-talk-at-climatex-mit.md
 nid: 13863
@@ -11,7 +13,7 @@ uid: 1
 
 # Renegotiating Expertise: a talk at ClimateX MIT
 
-by [warren](../profile/warren) | January 18, 2017 22:06
+by [warren](../../../profile/warren) | January 18, 2017 22:06
 
 January 18, 2017 22:06 | Tags: [boston](../tag/boston), [presentations](../tag/presentations), [talk](../tag/talk), [presentation](../tag/presentation), [northeast](../tag/northeast), [climate-change](../tag/climate-change), [climate](../tag/climate), [mit](../tag/mit), [expertise](../tag/expertise), [climatex](../tag/climatex)
 

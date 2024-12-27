@@ -1,5 +1,7 @@
 ---
-title: "Thermal Images for Community Environmental College"\ntagnames: 'thermal-flashlight, replication:625'
+title: "Thermal Images for Community Environmental College"
+
+tagnames: 'thermal-flashlight, replication:625'
 author: sara
 path: /notes/sara/7-18-2012/thermal-images-community-environmental-college.md
 nid: 2863
@@ -11,7 +13,7 @@ uid: 8
 
 # Thermal Images for Community Environmental College
 
-by [sara](../profile/sara) | July 18, 2012 14:31
+by [sara](../../../profile/sara) | July 18, 2012 14:31
 
 July 18, 2012 14:31 | Tags: [thermal-flashlight](../tag/thermal-flashlight), [replication:625](../tag/replication:625)
 

@@ -1,5 +1,7 @@
 ---
-title: "I am getting very low NDVI values."\ntagnames: 'ndvi, agriculture, infragram, crops, aerial, question:ndvi, question:infragram, sugarcane, answered, imaging, hardware, pin:question:infragram-challenges'
+title: "I am getting very low NDVI values."
+
+tagnames: 'ndvi, agriculture, infragram, crops, aerial, question:ndvi, question:infragram, sugarcane, answered, imaging, hardware, pin:question:infragram-challenges'
 author: Anice
 path: /notes/Anice/01-09-2019/i-am-getting-very-low-ndvi-values.md
 nid: 18084
@@ -9,7 +11,7 @@ uid: 564024
 
 # I am getting very low NDVI values.
 
-by [Anice](../profile/Anice) | January 09, 2019 08:21
+by [Anice](../../../profile/Anice) | January 09, 2019 08:21
 
 January 09, 2019 08:21 | Tags: [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [infragram](../tag/infragram), [crops](../tag/crops), [aerial](../tag/aerial), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [sugarcane](../tag/sugarcane), [answered](../tag/answered), [imaging](../tag/imaging), [hardware](../tag/hardware), [pin:question:infragram-challenges](../tag/pin:question:infragram-challenges)
 

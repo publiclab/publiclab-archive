@@ -1,5 +1,7 @@
 ---
-title: "Getting GPS in Remote Locations"\ntagnames: 'question:question'
+title: "Getting GPS in Remote Locations"
+
+tagnames: 'question:question'
 author: sarasage
 path: /notes/sarasage/05-26-2017/getting-gps-in-remote-locations.md
 nid: 14228
@@ -9,7 +11,7 @@ uid: 451398
 
 # Getting GPS in Remote Locations
 
-by [sarasage](../profile/sarasage) | May 26, 2017 16:43
+by [sarasage](../../../profile/sarasage) | May 26, 2017 16:43
 
 May 26, 2017 16:43 | Tags: [question:question](../tag/question:question)
 

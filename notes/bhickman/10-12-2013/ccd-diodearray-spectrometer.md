@@ -1,5 +1,7 @@
 ---
-title: "CCD Photodiode Array Spectrometer"\ntagnames: 'spectrometer, cuvette, beers-law, first-time-poster'
+title: "CCD Photodiode Array Spectrometer"
+
+tagnames: 'spectrometer, cuvette, beers-law, first-time-poster'
 author: bhickman
 path: /notes/bhickman/10-12-2013/ccd-diodearray-spectrometer.md
 nid: 9442
@@ -11,7 +13,7 @@ uid: 201929
 
 # CCD Photodiode Array Spectrometer
 
-by [bhickman](../profile/bhickman) | October 12, 2013 00:23
+by [bhickman](../../../profile/bhickman) | October 12, 2013 00:23
 
 October 12, 2013 00:23 | Tags: [spectrometer](../tag/spectrometer), [cuvette](../tag/cuvette), [beers-law](../tag/beers-law), [first-time-poster](../tag/first-time-poster)
 

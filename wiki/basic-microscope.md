@@ -1,5 +1,7 @@
 ---
-title: "Basic Microscope Kit"\ntagnames: 'microscopes, community-kits, new-community-kits, parent:microscopes, 13503, community-kits-prep'
+title: "Basic Microscope Kit"
+
+tagnames: 'microscopes, community-kits, new-community-kits, parent:microscopes, 13503, community-kits-prep'
 author: warren
 path: /wiki/basic-microscope.md
 nid: 15338

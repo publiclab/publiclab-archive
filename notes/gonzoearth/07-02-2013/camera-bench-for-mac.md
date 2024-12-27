@@ -1,5 +1,7 @@
 ---
-title: "Camera Bench for Mac"\ntagnames: 'near-infrared-camera, conversion, infragram, response:8285'
+title: "Camera Bench for Mac"
+
+tagnames: 'near-infrared-camera, conversion, infragram, response:8285'
 author: gonzoearth
 path: /notes/gonzoearth/07-02-2013/camera-bench-for-mac.md
 nid: 8614
@@ -11,7 +13,7 @@ uid: 12
 
 # Camera Bench for Mac
 
-by [gonzoearth](../profile/gonzoearth) | July 02, 2013 22:27
+by [gonzoearth](../../../profile/gonzoearth) | July 02, 2013 22:27
 
 July 02, 2013 22:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [conversion](../tag/conversion), [infragram](../tag/infragram), [response:8285](../tag/response:8285)
 

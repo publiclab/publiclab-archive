@@ -1,5 +1,7 @@
 ---
-title: "Interesting idea for thermal pollution mapping"\ntagnames: 'thermal-imaging, thermal-fishing'
+title: "Interesting idea for thermal pollution mapping"
+
+tagnames: 'thermal-imaging, thermal-fishing'
 author: sara
 path: /notes/sara/4-27-2013/interesting-idea-thermal-pollution-mapping.md
 nid: 7090
@@ -9,7 +11,7 @@ uid: 8
 
 # Interesting idea for thermal pollution mapping
 
-by [sara](../profile/sara) | April 27, 2013 21:36
+by [sara](../../../profile/sara) | April 27, 2013 21:36
 
 April 27, 2013 21:36 | Tags: [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing)
 

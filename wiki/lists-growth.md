@@ -1,5 +1,7 @@
 ---
-title: "Lists Growth"\ntagnames: ''
+title: "Lists Growth"
+
+tagnames: ''
 author: warren
 path: /wiki/lists-growth.md
 nid: 13936

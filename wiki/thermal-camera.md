@@ -1,5 +1,7 @@
 ---
-title: "Thermal camera"\ntagnames: 'redirect:3'
+title: "Thermal camera"
+
+tagnames: 'redirect:3'
 author: warren
 path: /wiki/thermal-camera.md
 nid: 74

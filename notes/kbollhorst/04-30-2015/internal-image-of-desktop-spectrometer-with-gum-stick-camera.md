@@ -1,5 +1,7 @@
 ---
-title: "Internal Image of Desktop Spectrometer with "Gum Stick" Camera"\ntagnames: 'spectrometer, diy'
+title: "Internal Image of Desktop Spectrometer with "Gum Stick" Camera"
+
+tagnames: 'spectrometer, diy'
 author: kbollhorst
 path: /notes/kbollhorst/04-30-2015/internal-image-of-desktop-spectrometer-with-gum-stick-camera.md
 nid: 11775
@@ -11,7 +13,7 @@ uid: 439554
 
 # Internal Image of Desktop Spectrometer with "Gum Stick" Camera
 
-by [kbollhorst](../profile/kbollhorst) | April 30, 2015 11:57
+by [kbollhorst](../../../profile/kbollhorst) | April 30, 2015 11:57
 
 April 30, 2015 11:57 | Tags: [spectrometer](../tag/spectrometer), [diy](../tag/diy)
 

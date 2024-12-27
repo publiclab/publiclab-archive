@@ -1,5 +1,7 @@
 ---
-title: "Project Night:  DIY Microscopes!"\ntagnames: 'event, event:rsvp, with:kgradow1, date:10-26-2017, with:wmacfarl, first-time-poster'
+title: "Project Night:  DIY Microscopes!"
+
+tagnames: 'event, event:rsvp, with:kgradow1, date:10-26-2017, with:wmacfarl, first-time-poster'
 author: partsandcrafts
 path: /notes/partsandcrafts/10-22-2017/project-night-at-fabville-somerville-diy-microscopes.md
 nid: 15080
@@ -11,7 +13,7 @@ uid: 66014
 
 # Project Night:  DIY Microscopes!
 
-by [partsandcrafts](../profile/partsandcrafts) | October 22, 2017 21:45
+by [partsandcrafts](../../../profile/partsandcrafts) | October 22, 2017 21:45
 
 October 22, 2017 21:45 | Tags: [event](../tag/event), [event:rsvp](../tag/event:rsvp), [with:kgradow1](../tag/with:kgradow1), [date:10-26-2017](../tag/date:10-26-2017), [with:wmacfarl](../tag/with:wmacfarl), [first-time-poster](../tag/first-time-poster)
 

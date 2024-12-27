@@ -1,5 +1,7 @@
 ---
-title: "indonesia"\ntagnames: 'kite-aerial-photography, dustduino, indonesia, jakarta'
+title: "indonesia"
+
+tagnames: 'kite-aerial-photography, dustduino, indonesia, jakarta'
 author: willie
 path: /wiki/indonesia.md
 nid: 11098

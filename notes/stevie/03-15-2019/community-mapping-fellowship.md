@@ -1,5 +1,7 @@
 ---
-title: "Community Mapping Fellowship"\ntagnames: 'balloon-mapping, kite-mapping, mapping, fellows, fellowship, job, map'
+title: "Community Mapping Fellowship"
+
+tagnames: 'balloon-mapping, kite-mapping, mapping, fellows, fellowship, job, map'
 author: stevie
 path: /notes/stevie/03-15-2019/community-mapping-fellowship.md
 nid: 18560
@@ -11,7 +13,7 @@ uid: 422561
 
 # Community Mapping Fellowship
 
-by [stevie](../profile/stevie) | March 15, 2019 16:18
+by [stevie](../../../profile/stevie) | March 15, 2019 16:18
 
 March 15, 2019 16:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapping](../tag/mapping), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [job](../tag/job), [map](../tag/map)
 

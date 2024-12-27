@@ -1,5 +1,7 @@
 ---
-title: "Dark images, can't get spectrometer to work"\ntagnames: 'spectrometry, cfl, desktop-spectrometry-kit, failure, question:spectrometer, question:spectrometry, answered, dark, first-time-poster'
+title: "Dark images, can't get spectrometer to work"
+
+tagnames: 'spectrometry, cfl, desktop-spectrometry-kit, failure, question:spectrometer, question:spectrometry, answered, dark, first-time-poster'
 author: Tomas0413
 path: /notes/Tomas0413/06-16-2018/dark-images-can-t-get-spectrometer-to-work.md
 nid: 16512
@@ -9,7 +11,7 @@ uid: 527973
 
 # Dark images, can't get spectrometer to work
 
-by [Tomas0413](../profile/Tomas0413) | June 16, 2018 12:06
+by [Tomas0413](../../../profile/Tomas0413) | June 16, 2018 12:06
 
 June 16, 2018 12:06 | Tags: [spectrometry](../tag/spectrometry), [cfl](../tag/cfl), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [failure](../tag/failure), [question:spectrometer](../tag/question:spectrometer), [question:spectrometry](../tag/question:spectrometry), [answered](../tag/answered), [dark](../tag/dark), [first-time-poster](../tag/first-time-poster)
 

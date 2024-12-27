@@ -1,5 +1,7 @@
 ---
-title: "Photosynq - measuring plant health across the world"\ntagnames: 'education, diy-bio, photosynq, plant, tree, big-data, diybio, first-time-poster'
+title: "Photosynq - measuring plant health across the world"
+
+tagnames: 'education, diy-bio, photosynq, plant, tree, big-data, diybio, first-time-poster'
 author: gbathree
 path: /notes/gbathree/3-26-2013/photosynq-measuring-plant-health-across-world.md
 nid: 6552
@@ -11,7 +13,7 @@ uid: 53164
 
 # Photosynq - measuring plant health across the world
 
-by [gbathree](../profile/gbathree) | March 27, 2013 02:06
+by [gbathree](../../../profile/gbathree) | March 27, 2013 02:06
 
 March 27, 2013 02:06 | Tags: [education](../tag/education), [diy-bio](../tag/diy-bio), [photosynq](../tag/photosynq), [plant](../tag/plant), [tree](../tag/tree), [big-data](../tag/big-data), [diybio](../tag/diybio), [first-time-poster](../tag/first-time-poster)
 

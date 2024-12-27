@@ -1,5 +1,7 @@
 ---
-title: "Can anyone tell what is wrong with my coqui?"\ntagnames: 'question:water-quality, question:coqui, question:kits, question:make'
+title: "Can anyone tell what is wrong with my coqui?"
+
+tagnames: 'question:water-quality, question:coqui, question:kits, question:make'
 author: stevie
 path: /notes/stevie/04-07-2019/can-anyone-tell-what-is-wrong-with-my-coqui.md
 nid: 18993
@@ -9,7 +11,7 @@ uid: 422561
 
 # Can anyone tell what is wrong with my coqui?
 
-by [stevie](../profile/stevie) | April 07, 2019 13:32
+by [stevie](../../../profile/stevie) | April 07, 2019 13:32
 
 April 07, 2019 13:32 | Tags: [question:water-quality](../tag/question:water-quality), [question:coqui](../tag/question:coqui), [question:kits](../tag/question:kits), [question:make](../tag/question:make)
 

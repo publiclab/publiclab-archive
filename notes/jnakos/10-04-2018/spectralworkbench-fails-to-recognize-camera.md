@@ -1,5 +1,7 @@
 ---
-title: "spectralworkbench fails to recognize camera"\ntagnames: 'question:general'
+title: "spectralworkbench fails to recognize camera"
+
+tagnames: 'question:general'
 author: jnakos
 path: /notes/jnakos/10-04-2018/spectralworkbench-fails-to-recognize-camera.md
 nid: 17216
@@ -9,7 +11,7 @@ uid: 553473
 
 # spectralworkbench fails to recognize camera
 
-by [jnakos](../profile/jnakos) | October 04, 2018 04:03
+by [jnakos](../../../profile/jnakos) | October 04, 2018 04:03
 
 October 04, 2018 04:03 | Tags: [question:general](../tag/question:general)
 

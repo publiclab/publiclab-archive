@@ -1,5 +1,7 @@
 ---
-title: "Nalgene submarine"\ntagnames: 'arduino, housing, water-quality, water, riffle, bottle, response:12674, nalgene, neoprene, hull-piercing, riffle-examples, data-logger-enclosures:, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures'
+title: "Nalgene submarine"
+
+tagnames: 'arduino, housing, water-quality, water, riffle, bottle, response:12674, nalgene, neoprene, hull-piercing, riffle-examples, data-logger-enclosures:, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures'
 author: cfastie
 path: /notes/cfastie/03-11-2016/nalgene-submarine.md
 nid: 12832
@@ -11,7 +13,7 @@ uid: 554
 
 # Nalgene submarine
 
-by [cfastie](../profile/cfastie) | March 11, 2016 05:05
+by [cfastie](../../../profile/cfastie) | March 11, 2016 05:05
 
 March 11, 2016 05:05 | Tags: [arduino](../tag/arduino), [housing](../tag/housing), [water-quality](../tag/water-quality), [water](../tag/water), [riffle](../tag/riffle), [bottle](../tag/bottle), [response:12674](../tag/response:12674), [nalgene](../tag/nalgene), [neoprene](../tag/neoprene), [hull-piercing](../tag/hull-piercing), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures:](../tag/data-logger-enclosures:), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures)
 

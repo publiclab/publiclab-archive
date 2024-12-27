@@ -1,5 +1,7 @@
 ---
-title: "What's New in Land & Soil (11/21 Update)"\ntagnames: 'soil, land-use, research-curation-fellows'
+title: "What's New in Land & Soil (11/21 Update)"
+
+tagnames: 'soil, land-use, research-curation-fellows'
 author: laurel_mire
 path: /notes/laurel_mire/11-18-2021/what-s-new-in-land-soil-11-21-update.md
 nid: 28129
@@ -9,7 +11,7 @@ uid: 759178
 
 # What's New in Land & Soil (11/21 Update)
 
-by [laurel_mire](../profile/laurel_mire) | November 18, 2021 16:56
+by [laurel_mire](../../../profile/laurel_mire) | November 18, 2021 16:56
 
 November 18, 2021 16:56 | Tags: [soil](../tag/soil), [land-use](../tag/land-use), [research-curation-fellows](../tag/research-curation-fellows)
 

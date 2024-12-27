@@ -1,5 +1,7 @@
 ---
-title: "A Lil' Box for the Oil Testing Kit. (Incomplete)"\ntagnames: 'spectrometer, box, oil-testing-kit'
+title: "A Lil' Box for the Oil Testing Kit. (Incomplete)"
+
+tagnames: 'spectrometer, box, oil-testing-kit'
 author: amysoyka
 path: /notes/amysoyka/10-07-2014/a-lil-box-for-the-oil-testing-kit.md
 nid: 11246
@@ -11,7 +13,7 @@ uid: 422627
 
 # A Lil' Box for the Oil Testing Kit. (Incomplete)
 
-by [amysoyka](../profile/amysoyka) | October 07, 2014 05:39
+by [amysoyka](../../../profile/amysoyka) | October 07, 2014 05:39
 
 October 07, 2014 05:39 | Tags: [spectrometer](../tag/spectrometer), [box](../tag/box), [oil-testing-kit](../tag/oil-testing-kit)
 

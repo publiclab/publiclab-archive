@@ -1,5 +1,7 @@
 ---
-title: "Your First Contribution on Public Lab"\ntagnames: 'welcome, newcomers, first-timers, first-contribution'
+title: "Your First Contribution on Public Lab"
+
+tagnames: 'welcome, newcomers, first-timers, first-contribution'
 author: warren
 path: /wiki/first-contribution.md
 nid: 16325

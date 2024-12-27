@@ -1,5 +1,7 @@
 ---
-title: "Mockup for Spectral Workbench redesign"\ntagnames: ''
+title: "Mockup for Spectral Workbench redesign"
+
+tagnames: ''
 author: warren
 path: /notes/warren/11-8-2011/mockup-spectral-workbench-redesign.md
 nid: 551
@@ -11,7 +13,7 @@ uid: 1
 
 # Mockup for Spectral Workbench redesign
 
-by [warren](../profile/warren) | November 09, 2011 03:31
+by [warren](../../../profile/warren) | November 09, 2011 03:31
 
 November 09, 2011 03:31 | Tags: 
 

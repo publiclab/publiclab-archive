@@ -1,5 +1,7 @@
 ---
-title: "Hydrogen Sulfide Regulations"\ntagnames: 'hydrogen-sulfide, h2s, regulations, 6, parent:hydrogen-sulfide, h2s-overview, air-quality-regulations'
+title: "Hydrogen Sulfide Regulations"
+
+tagnames: 'hydrogen-sulfide, h2s, regulations, 6, parent:hydrogen-sulfide, h2s-overview, air-quality-regulations'
 author: gretchengehrke
 path: /wiki/hydrogen-sulfide-regulations.md
 nid: 15018

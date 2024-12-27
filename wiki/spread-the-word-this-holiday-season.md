@@ -1,5 +1,7 @@
 ---
-title: "Spread the word this holiday season"\ntagnames: 'diy'
+title: "Spread the word this holiday season"
+
+tagnames: 'diy'
 author: joyofsoy
 path: /wiki/spread-the-word-this-holiday-season.md
 nid: 17794

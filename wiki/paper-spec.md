@@ -1,5 +1,7 @@
 ---
-title: "paper-spec"\ntagnames: 'redirect:15277'
+title: "paper-spec"
+
+tagnames: 'redirect:15277'
 author: warren
 path: /wiki/paper-spec.md
 nid: 15278

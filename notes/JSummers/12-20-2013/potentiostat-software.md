@@ -1,5 +1,7 @@
 ---
-title: "Potentiostat Notes 2: Software"\ntagnames: 'potentiostat, wheestat'
+title: "Potentiostat Notes 2: Software"
+
+tagnames: 'potentiostat, wheestat'
 author: JSummers
 path: /notes/JSummers/12-20-2013/potentiostat-software.md
 nid: 9911
@@ -11,7 +13,7 @@ uid: 304279
 
 # Potentiostat Notes 2: Software
 
-by [JSummers](../profile/JSummers) | December 20, 2013 20:12
+by [JSummers](../../../profile/JSummers) | December 20, 2013 20:12
 
 December 20, 2013 20:12 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
 

@@ -1,5 +1,7 @@
 ---
-title: "email-footer"\ntagnames: ''
+title: "email-footer"
+
+tagnames: ''
 author: warren
 path: /feature/email-footer.md
 nid: 13754

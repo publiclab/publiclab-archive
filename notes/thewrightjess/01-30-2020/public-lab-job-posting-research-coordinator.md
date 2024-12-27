@@ -1,5 +1,7 @@
 ---
-title: "Job Posting: Research Coordinator"\ntagnames: 'community, research, development, jobs, location:blurred, place:united-states, lat:36, zoom:6, lon:-79'
+title: "Job Posting: Research Coordinator"
+
+tagnames: 'community, research, development, jobs, location:blurred, place:united-states, lat:36, zoom:6, lon:-79'
 author: thewrightjess
 path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-research-coordinator.md
 nid: 22440
@@ -11,7 +13,7 @@ uid: 603909
 
 # Job Posting: Research Coordinator
 
-by [thewrightjess](../profile/thewrightjess) | January 30, 2020 18:53
+by [thewrightjess](../../../profile/thewrightjess) | January 30, 2020 18:53
 
 January 30, 2020 18:53 | Tags: [community](../tag/community), [research](../tag/research), [development](../tag/development), [jobs](../tag/jobs), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:36](../tag/lat:36), [zoom:6](../tag/zoom:6), [lon:-79](../tag/lon:-79)
 

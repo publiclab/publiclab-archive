@@ -1,5 +1,7 @@
 ---
-title: "Reproducibility"\ntagnames: 'events, barnraising, event, research, power-tags, barnraising2014'
+title: "Reproducibility"
+
+tagnames: 'events, barnraising, event, research, power-tags, barnraising2014'
 author: cfastie
 path: /notes/cfastie/12-05-2014/reproducibility.md
 nid: 11436
@@ -11,7 +13,7 @@ uid: 554
 
 # Reproducibility
 
-by [cfastie](../profile/cfastie) | December 05, 2014 02:00
+by [cfastie](../../../profile/cfastie) | December 05, 2014 02:00
 
 December 05, 2014 02:00 | Tags: [events](../tag/events), [barnraising](../tag/barnraising), [event](../tag/event), [research](../tag/research), [power-tags](../tag/power-tags), [barnraising2014](../tag/barnraising2014)
 

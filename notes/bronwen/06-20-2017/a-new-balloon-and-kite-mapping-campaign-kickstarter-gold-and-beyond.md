@@ -1,5 +1,7 @@
 ---
-title: "A New Balloon and Kite Mapping campaign: Kickstarter Gold and Beyond!"\ntagnames: 'balloon-mapping, kite-mapping, kickstarter, blog, mini-kite-kit, mini-balloon-kit'
+title: "A New Balloon and Kite Mapping campaign: Kickstarter Gold and Beyond!"
+
+tagnames: 'balloon-mapping, kite-mapping, kickstarter, blog, mini-kite-kit, mini-balloon-kit'
 author: Bronwen
 path: /notes/bronwen/06-20-2017/a-new-balloon-and-kite-mapping-campaign-kickstarter-gold-and-beyond.md
 nid: 14562
@@ -11,7 +13,7 @@ uid: 237313
 
 # A New Balloon and Kite Mapping campaign: Kickstarter Gold and Beyond!
 
-by [Bronwen](../profile/Bronwen) | June 20, 2017 22:40
+by [Bronwen](../../../profile/Bronwen) | June 20, 2017 22:40
 
 June 20, 2017 22:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [blog](../tag/blog), [mini-kite-kit](../tag/mini-kite-kit), [mini-balloon-kit](../tag/mini-balloon-kit)
 

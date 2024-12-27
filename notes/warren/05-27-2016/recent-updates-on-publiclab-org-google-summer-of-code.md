@@ -1,5 +1,7 @@
 ---
-title: "Recent updates on PublicLab.org, Google Summer of Code"\ntagnames: 'website, software, gsoc, developers, coding, wwg, gsoc-2016'
+title: "Recent updates on PublicLab.org, Google Summer of Code"
+
+tagnames: 'website, software, gsoc, developers, coding, wwg, gsoc-2016'
 author: warren
 path: /notes/warren/05-27-2016/recent-updates-on-publiclab-org-google-summer-of-code.md
 nid: 13150
@@ -11,7 +13,7 @@ uid: 1
 
 # Recent updates on PublicLab.org, Google Summer of Code
 
-by [warren](../profile/warren) | May 27, 2016 18:04
+by [warren](../../../profile/warren) | May 27, 2016 18:04
 
 May 27, 2016 18:04 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016)
 

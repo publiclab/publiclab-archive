@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench offline"\ntagnames: 'spectrometer, spectralworkbench'
+title: "Spectral Workbench offline"
+
+tagnames: 'spectrometer, spectralworkbench'
 author: warren
 path: /wiki/spectral-workbench-offline.md
 nid: 4212

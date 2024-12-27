@@ -1,5 +1,7 @@
 ---
-title: "饮用水自测指引-Drinking Water Testing "\ntagnames: 'water-quality, open-water, water-testing'
+title: "饮用水自测指引-Drinking Water Testing "
+
+tagnames: 'water-quality, open-water, water-testing'
 author: shanlter
 path: /wiki/drinking-water-testing.md
 nid: 13174

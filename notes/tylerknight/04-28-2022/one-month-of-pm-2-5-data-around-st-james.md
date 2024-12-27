@@ -1,5 +1,7 @@
 ---
-title: "One Month of PM 2.5 Data around St James"\ntagnames: 'gulf-coast, air-quality, pm, particulate-matter, purpleair, st-james, formosaplastics'
+title: "One Month of PM 2.5 Data around St James"
+
+tagnames: 'gulf-coast, air-quality, pm, particulate-matter, purpleair, st-james, formosaplastics'
 author: tylerknight
 path: /notes/tylerknight/04-28-2022/one-month-of-pm-2-5-data-around-st-james.md
 nid: 30637
@@ -11,7 +13,7 @@ uid: 777566
 
 # One Month of PM 2.5 Data around St James
 
-by [tylerknight](../profile/tylerknight) | April 28, 2022 18:57
+by [tylerknight](../../../profile/tylerknight) | April 28, 2022 18:57
 
 April 28, 2022 18:57 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [pm](../tag/pm), [particulate-matter](../tag/particulate-matter), [purpleair](../tag/purpleair), [st-james](../tag/st-james), [formosaplastics](../tag/formosaplastics)
 

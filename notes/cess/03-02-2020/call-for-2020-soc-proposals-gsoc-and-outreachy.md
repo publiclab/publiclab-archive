@@ -1,5 +1,7 @@
 ---
-title: "Call for 2020 GSoC proposals"\ntagnames: 'software, gsoc, soc, lat:0, lon:0, outreachy, call-for-proposals, zoom:1'
+title: "Call for 2020 GSoC proposals"
+
+tagnames: 'software, gsoc, soc, lat:0, lon:0, outreachy, call-for-proposals, zoom:1'
 author: cess
 path: /notes/cess/03-02-2020/call-for-2020-soc-proposals-gsoc-and-outreachy.md
 nid: 22972
@@ -11,7 +13,7 @@ uid: 525958
 
 # Call for 2020 GSoC proposals
 
-by [cess](../profile/cess) | March 02, 2020 07:25
+by [cess](../../../profile/cess) | March 02, 2020 07:25
 
 March 02, 2020 07:25 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [zoom:1](../tag/zoom:1)
 

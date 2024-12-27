@@ -1,5 +1,7 @@
 ---
-title: "Proposed Wolfden Mine at Pickett Mountain"\ntagnames: 'mining, water-quality, maine, mine, northeast, lead, zinc, first-time-poster, zoom:6, mines, lat:46.125882, lon:-68.439756, questions:water-quality'
+title: "Proposed Wolfden Mine at Pickett Mountain"
+
+tagnames: 'mining, water-quality, maine, mine, northeast, lead, zinc, first-time-poster, zoom:6, mines, lat:46.125882, lon:-68.439756, questions:water-quality'
 author: Greenhorns
 path: /notes/Greenhorns/05-13-2021/proposed-wolfden-mine-at-pickett-mountain.md
 nid: 26582
@@ -11,7 +13,7 @@ uid: 756206
 
 # Proposed Wolfden Mine at Pickett Mountain
 
-by [Greenhorns](../profile/Greenhorns) | May 13, 2021 21:44
+by [Greenhorns](../../../profile/Greenhorns) | May 13, 2021 21:44
 
 May 13, 2021 21:44 | Tags: [mining](../tag/mining), [water-quality](../tag/water-quality), [maine](../tag/maine), [mine](../tag/mine), [northeast](../tag/northeast), [lead](../tag/lead), [zinc](../tag/zinc), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [mines](../tag/mines), [lat:46.125882](../tag/lat:46.125882), [lon:-68.439756](../tag/lon:-68.439756), [questions:water-quality](../tag/questions:water-quality)
 

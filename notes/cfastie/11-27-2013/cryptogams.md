@@ -1,5 +1,7 @@
 ---
-title: "Cryptogams"\ntagnames: 'near-infrared-camera, nrg, vermont, infrared, a2200, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, nbn, nnr, super-red, response:9824'
+title: "Cryptogams"
+
+tagnames: 'near-infrared-camera, nrg, vermont, infrared, a2200, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, nbn, nnr, super-red, response:9824'
 author: cfastie
 path: /notes/cfastie/11-27-2013/cryptogams.md
 nid: 9828
@@ -11,7 +13,7 @@ uid: 554
 
 # Cryptogams
 
-by [cfastie](../profile/cfastie) | November 27, 2013 17:13
+by [cfastie](../../../profile/cfastie) | November 27, 2013 17:13
 
 November 27, 2013 17:13 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [vermont](../tag/vermont), [infrared](../tag/infrared), [a2200](../tag/a2200), [filter](../tag/filter), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [nbn](../tag/nbn), [nnr](../tag/nnr), [super-red](../tag/super-red), [response:9824](../tag/response:9824)
 

@@ -1,5 +1,7 @@
 ---
-title: "Dustduino Build for the AMP project"\ntagnames: 'particulate-sensing, west-virginia, mountaintop-removal, dustduino, dust, pm, southeast, particulate-monitoring, amp, mtr, shinyei, appalachia, replication:9818, air-sensors'
+title: "Dustduino Build for the AMP project"
+
+tagnames: 'particulate-sensing, west-virginia, mountaintop-removal, dustduino, dust, pm, southeast, particulate-monitoring, amp, mtr, shinyei, appalachia, replication:9818, air-sensors'
 author: LauraChipley
 path: /notes/LauraChipley/10-09-2015/dustduino-build-for-the-amp-project.md
 nid: 12283
@@ -11,7 +13,7 @@ uid: 428957
 
 # Dustduino Build for the AMP project
 
-by [LauraChipley](../profile/LauraChipley) | October 09, 2015 15:15
+by [LauraChipley](../../../profile/LauraChipley) | October 09, 2015 15:15
 
 October 09, 2015 15:15 | Tags: [particulate-sensing](../tag/particulate-sensing), [west-virginia](../tag/west-virginia), [mountaintop-removal](../tag/mountaintop-removal), [dustduino](../tag/dustduino), [dust](../tag/dust), [pm](../tag/pm), [southeast](../tag/southeast), [particulate-monitoring](../tag/particulate-monitoring), [amp](../tag/amp), [mtr](../tag/mtr), [shinyei](../tag/shinyei), [appalachia](../tag/appalachia), [replication:9818](../tag/replication:9818), [air-sensors](../tag/air-sensors)
 

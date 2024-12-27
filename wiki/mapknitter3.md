@@ -1,5 +1,7 @@
 ---
-title: "mapknitter3"\ntagnames: 'redirect:23549'
+title: "mapknitter3"
+
+tagnames: 'redirect:23549'
 author: warren
 path: /wiki/mapknitter3.md
 nid: 23551

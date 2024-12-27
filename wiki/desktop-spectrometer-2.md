@@ -1,5 +1,7 @@
 ---
-title: "desktop spectrometer 2"\ntagnames: 'prompt:spectrometry'
+title: "desktop spectrometer 2"
+
+tagnames: 'prompt:spectrometry'
 author: mathew
 path: /wiki/desktop-spectrometer-2.md
 nid: 11532

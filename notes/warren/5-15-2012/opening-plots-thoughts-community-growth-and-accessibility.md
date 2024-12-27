@@ -1,5 +1,7 @@
 ---
-title: "Opening up PLOTS: thoughts on community growth and accessibility"\ntagnames: 'community'
+title: "Opening up PLOTS: thoughts on community growth and accessibility"
+
+tagnames: 'community'
 author: warren
 path: /notes/warren/5-15-2012/opening-plots-thoughts-community-growth-and-accessibility.md
 nid: 1995
@@ -11,7 +13,7 @@ uid: 1
 
 # Opening up PLOTS: thoughts on community growth and accessibility
 
-by [warren](../profile/warren) | May 15, 2012 22:10
+by [warren](../../../profile/warren) | May 15, 2012 22:10
 
 May 15, 2012 22:10 | Tags: [community](../tag/community)
 

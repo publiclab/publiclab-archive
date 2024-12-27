@@ -1,5 +1,7 @@
 ---
-title: "Global helium shortage"\ntagnames: 'balloon-mapping'
+title: "Global helium shortage"
+
+tagnames: 'balloon-mapping'
 author: cfastie
 path: /notes/cfastie/8-24-2012/global-helium-shortage.md
 nid: 3454
@@ -11,7 +13,7 @@ uid: 554
 
 # Global helium shortage
 
-by [cfastie](../profile/cfastie) | August 25, 2012 02:27
+by [cfastie](../../../profile/cfastie) | August 25, 2012 02:27
 
 August 25, 2012 02:27 | Tags: [balloon-mapping](../tag/balloon-mapping)
 

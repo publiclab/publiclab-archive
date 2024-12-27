@@ -1,5 +1,7 @@
 ---
-title: "Event: Clean Air Council + Delaware Riverkeeper Network"\ntagnames: 'event, particulates, event:rsvp, event:pennsylvania, lat:40.396764, lon:-75.563964, place:bally-pennsylvania, rsvp:lakshit2000'
+title: "Event: Clean Air Council + Delaware Riverkeeper Network"
+
+tagnames: 'event, particulates, event:rsvp, event:pennsylvania, lat:40.396764, lon:-75.563964, place:bally-pennsylvania, rsvp:lakshit2000'
 author: liz
 path: /notes/liz/01-08-2019/event-clean-air-council-delaware-riverkeeper-network.md
 nid: 18082
@@ -9,7 +11,7 @@ uid: 7
 
 # Event: Clean Air Council + Delaware Riverkeeper Network
 
-by [liz](../profile/liz) | January 08, 2019 14:25
+by [liz](../../../profile/liz) | January 08, 2019 14:25
 
 January 08, 2019 14:25 | Tags: [event](../tag/event), [particulates](../tag/particulates), [event:rsvp](../tag/event:rsvp), [event:pennsylvania](../tag/event:pennsylvania), [lat:40.396764](../tag/lat:40.396764), [lon:-75.563964](../tag/lon:-75.563964), [place:bally-pennsylvania](../tag/place:bally-pennsylvania), [rsvp:lakshit2000](../tag/rsvp:lakshit2000)
 

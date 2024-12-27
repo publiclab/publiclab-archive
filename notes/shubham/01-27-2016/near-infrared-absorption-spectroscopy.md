@@ -1,5 +1,7 @@
 ---
-title: "Near-infrared absorption spectroscopy"\ntagnames: 'spectrometer, nir, near-infrared, absorption, cuvette, ccd, linearccd, barnstar:basic, first-time-poster'
+title: "Near-infrared absorption spectroscopy"
+
+tagnames: 'spectrometer, nir, near-infrared, absorption, cuvette, ccd, linearccd, barnstar:basic, first-time-poster'
 author: shubham
 path: /notes/shubham/01-27-2016/near-infrared-absorption-spectroscopy.md
 nid: 12625
@@ -11,7 +13,7 @@ uid: 460486
 
 # Near-infrared absorption spectroscopy
 
-by [shubham](../profile/shubham) | January 27, 2016 13:06
+by [shubham](../../../profile/shubham) | January 27, 2016 13:06
 
 January 27, 2016 13:06 | Tags: [spectrometer](../tag/spectrometer), [nir](../tag/nir), [near-infrared](../tag/near-infrared), [absorption](../tag/absorption), [cuvette](../tag/cuvette), [ccd](../tag/ccd), [linearccd](../tag/linearccd), [barnstar:basic](../tag/barnstar:basic), [first-time-poster](../tag/first-time-poster)
 

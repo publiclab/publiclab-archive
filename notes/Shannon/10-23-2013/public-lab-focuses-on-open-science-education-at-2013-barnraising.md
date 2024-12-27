@@ -1,5 +1,7 @@
 ---
-title: "Public Lab focuses on open science education at 2013 barnraising"\ntagnames: 'gulf-coast, education, idealab, barnraising, blog, barnstar:photo-documentation'
+title: "Public Lab focuses on open science education at 2013 barnraising"
+
+tagnames: 'gulf-coast, education, idealab, barnraising, blog, barnstar:photo-documentation'
 author: Shannon
 path: /notes/Shannon/10-23-2013/public-lab-focuses-on-open-science-education-at-2013-barnraising.md
 nid: 9533
@@ -11,7 +13,7 @@ uid: 9
 
 # Public Lab focuses on open science education at 2013 barnraising
 
-by [Shannon](../profile/Shannon) | October 23, 2013 14:37
+by [Shannon](../../../profile/Shannon) | October 23, 2013 14:37
 
 October 23, 2013 14:37 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [idealab](../tag/idealab), [barnraising](../tag/barnraising), [blog](../tag/blog), [barnstar:photo-documentation](../tag/barnstar:photo-documentation)
 

@@ -1,5 +1,7 @@
 ---
-title: "NRG images of cover crop trials"\ntagnames: 'balloon-mapping, near-infrared-camera, 3d, nrg, nir, farmhack, agriculture, farm, sfm, ifarm'
+title: "NRG images of cover crop trials"
+
+tagnames: 'balloon-mapping, near-infrared-camera, 3d, nrg, nir, farmhack, agriculture, farm, sfm, ifarm'
 author: cfastie
 path: /notes/cfastie/6-3-2012/nrg-images-cover-crop-trials.md
 nid: 2311
@@ -11,7 +13,7 @@ uid: 554
 
 # NRG images of cover crop trials
 
-by [cfastie](../profile/cfastie) | June 04, 2012 00:47
+by [cfastie](../../../profile/cfastie) | June 04, 2012 00:47
 
 June 04, 2012 00:47 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [3d](../tag/3d), [nrg](../tag/nrg), [nir](../tag/nir), [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [farm](../tag/farm), [sfm](../tag/sfm), [ifarm](../tag/ifarm)
 

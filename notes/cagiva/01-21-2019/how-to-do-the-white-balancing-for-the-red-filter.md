@@ -1,5 +1,7 @@
 ---
-title: "How to do the white-balancing for the RED filter?"\ntagnames: 'near-infrared-camera, ndvi, question:general, general'
+title: "How to do the white-balancing for the RED filter?"
+
+tagnames: 'near-infrared-camera, ndvi, question:general, general'
 author: cagiva
 path: /notes/cagiva/01-21-2019/how-to-do-the-white-balancing-for-the-red-filter.md
 nid: 18154
@@ -9,7 +11,7 @@ uid: 569044
 
 # How to do the white-balancing for the RED filter?
 
-by [cagiva](../profile/cagiva) | January 21, 2019 22:40
+by [cagiva](../../../profile/cagiva) | January 21, 2019 22:40
 
 January 21, 2019 22:40 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [question:general](../tag/question:general), [general](../tag/general)
 

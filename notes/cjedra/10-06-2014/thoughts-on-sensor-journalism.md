@@ -1,5 +1,7 @@
 ---
-title: "Thoughts on sensor journalism "\ntagnames: 'sensor-journalism'
+title: "Thoughts on sensor journalism "
+
+tagnames: 'sensor-journalism'
 author: cjedra
 path: /notes/cjedra/10-06-2014/thoughts-on-sensor-journalism.md
 nid: 11242
@@ -11,7 +13,7 @@ uid: 428092
 
 # Thoughts on sensor journalism 
 
-by [cjedra](../profile/cjedra) | October 06, 2014 17:43
+by [cjedra](../../../profile/cjedra) | October 06, 2014 17:43
 
 October 06, 2014 17:43 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

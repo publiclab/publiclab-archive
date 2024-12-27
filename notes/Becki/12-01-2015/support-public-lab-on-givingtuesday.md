@@ -1,5 +1,7 @@
 ---
-title: "Support Public Lab on #GivingTuesday"\ntagnames: 'fundraising'
+title: "Support Public Lab on #GivingTuesday"
+
+tagnames: 'fundraising'
 author: Becki
 path: /notes/Becki/12-01-2015/support-public-lab-on-givingtuesday.md
 nid: 12466
@@ -11,7 +13,7 @@ uid: 46673
 
 # Support Public Lab on #GivingTuesday
 
-by [Becki](../profile/Becki) | December 01, 2015 16:20
+by [Becki](../../../profile/Becki) | December 01, 2015 16:20
 
 December 01, 2015 16:20 | Tags: [fundraising](../tag/fundraising)
 

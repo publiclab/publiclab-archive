@@ -1,5 +1,7 @@
 ---
-title: "A Public Lab Chapter in Bourj Al Shamali? "\ntagnames: 'palestine, chapters, barnstar:basic, lebanon, middle-east, refugees, bourjalshamali'
+title: "A Public Lab Chapter in Bourj Al Shamali? "
+
+tagnames: 'palestine, chapters, barnstar:basic, lebanon, middle-east, refugees, bourjalshamali'
 author: clauds
 path: /notes/clauds/09-03-2015/a-public-lab-chapter-in-bourj-al-shamali.md
 nid: 12196
@@ -11,7 +13,7 @@ uid: 43867
 
 # A Public Lab Chapter in Bourj Al Shamali? 
 
-by [clauds](../profile/clauds) | September 03, 2015 22:29
+by [clauds](../../../profile/clauds) | September 03, 2015 22:29
 
 September 03, 2015 22:29 | Tags: [palestine](../tag/palestine), [chapters](../tag/chapters), [barnstar:basic](../tag/barnstar:basic), [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [refugees](../tag/refugees), [bourjalshamali](../tag/bourjalshamali)
 

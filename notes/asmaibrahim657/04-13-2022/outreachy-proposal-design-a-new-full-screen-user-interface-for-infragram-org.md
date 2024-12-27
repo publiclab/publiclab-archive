@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal: Design a new full-screen user interface for Infragram.org"\ntagnames: 'software, outreachy, first-time-poster, zoom:6, lon:74.355468, outreachy-2022, outreachy-summer-2022, lat:31.522361'
+title: "Outreachy proposal: Design a new full-screen user interface for Infragram.org"
+
+tagnames: 'software, outreachy, first-time-poster, zoom:6, lon:74.355468, outreachy-2022, outreachy-summer-2022, lat:31.522361'
 author: asmaibrahim657
 path: /notes/asmaibrahim657/04-13-2022/outreachy-proposal-design-a-new-full-screen-user-interface-for-infragram-org.md
 nid: 30356
@@ -11,7 +13,7 @@ uid: 793876
 
 # Outreachy proposal: Design a new full-screen user interface for Infragram.org
 
-by [asmaibrahim657](../profile/asmaibrahim657) | April 13, 2022 20:33
+by [asmaibrahim657](../../../profile/asmaibrahim657) | April 13, 2022 20:33
 
 April 13, 2022 20:33 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lon:74.355468](../tag/lon:74.355468), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022), [lat:31.522361](../tag/lat:31.522361)
 

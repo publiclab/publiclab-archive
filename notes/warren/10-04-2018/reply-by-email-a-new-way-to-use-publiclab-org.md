@@ -1,5 +1,7 @@
 ---
-title: "Reply-by-email: a new way to use PublicLab.org"\ntagnames: 'community, gsoc, blog, code, barnstar:basic, forums, soc, soc-2018, google-groups, email, groups'
+title: "Reply-by-email: a new way to use PublicLab.org"
+
+tagnames: 'community, gsoc, blog, code, barnstar:basic, forums, soc, soc-2018, google-groups, email, groups'
 author: warren
 path: /notes/warren/10-04-2018/reply-by-email-a-new-way-to-use-publiclab-org.md
 nid: 17227
@@ -11,7 +13,7 @@ uid: 1
 
 # Reply-by-email: a new way to use PublicLab.org
 
-by [warren](../profile/warren) | October 04, 2018 21:52
+by [warren](../../../profile/warren) | October 04, 2018 21:52
 
 October 04, 2018 21:52 | Tags: [community](../tag/community), [gsoc](../tag/gsoc), [blog](../tag/blog), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [forums](../tag/forums), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [google-groups](../tag/google-groups), [email](../tag/email), [groups](../tag/groups)
 

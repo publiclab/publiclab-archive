@@ -1,5 +1,7 @@
 ---
-title: "uva-cat-art"\ntagnames: ''
+title: "uva-cat-art"
+
+tagnames: ''
 author: 
 path: /notes/5-2-2012/uva-cat-art.md
 nid: 2100
@@ -11,7 +13,7 @@ uid: 0
 
 # uva-cat-art
 
-by [](../profile/) | May 02, 2012 14:23
+by [](../../../profile/) | May 02, 2012 14:23
 
 May 02, 2012 14:23 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Testing a Penobscot Bay, Maine beach and clamflat for heavy metals & other contaminants"\ntagnames: 'heavy-metals, superfund, maine, northeast, lead, red, phosphogypsum, bauxite, alum, penobscot, mercury, bay, stockton, harbor, kidder, point, superphosphate, mud, cercla, cadmium, pcbs, friends-of-penobscot-bay, lead-testing'
+title: "Testing a Penobscot Bay, Maine beach and clamflat for heavy metals & other contaminants"
+
+tagnames: 'heavy-metals, superfund, maine, northeast, lead, red, phosphogypsum, bauxite, alum, penobscot, mercury, bay, stockton, harbor, kidder, point, superphosphate, mud, cercla, cadmium, pcbs, friends-of-penobscot-bay, lead-testing'
 author: ronhuber
 path: /notes/RonHuber/06-17-2014/testing-a-penobscot-bay-maine-beach-and-clamflat-for-heavy-metals-other-contaminants.md
 nid: 10577
@@ -11,7 +13,7 @@ uid: 437
 
 # Testing a Penobscot Bay, Maine beach and clamflat for heavy metals & other contaminants
 
-by [ronhuber](../profile/ronhuber) | June 17, 2014 01:41
+by [ronhuber](../../../profile/ronhuber) | June 17, 2014 01:41
 
 June 17, 2014 01:41 | Tags: [heavy-metals](../tag/heavy-metals), [superfund](../tag/superfund), [maine](../tag/maine), [northeast](../tag/northeast), [lead](../tag/lead), [red](../tag/red), [phosphogypsum](../tag/phosphogypsum), [bauxite](../tag/bauxite), [alum](../tag/alum), [penobscot](../tag/penobscot), [mercury](../tag/mercury), [bay](../tag/bay), [stockton](../tag/stockton), [harbor](../tag/harbor), [kidder](../tag/kidder), [point](../tag/point), [superphosphate](../tag/superphosphate), [mud](../tag/mud), [cercla](../tag/cercla), [cadmium](../tag/cadmium), [pcbs](../tag/pcbs), [friends-of-penobscot-bay](../tag/friends-of-penobscot-bay), [lead-testing](../tag/lead-testing)
 

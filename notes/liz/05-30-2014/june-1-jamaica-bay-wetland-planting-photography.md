@@ -1,5 +1,7 @@
 ---
-title: "June 1 Jamaica Bay wetland planting photography"\ntagnames: 'new-york-city, kite-mapping, wetlands, jamaica-bay, northeast, with:gwirth, place:rulers-bar-jamaica-bay, lat:40.610564, lon:-73.821601'
+title: "June 1 Jamaica Bay wetland planting photography"
+
+tagnames: 'new-york-city, kite-mapping, wetlands, jamaica-bay, northeast, with:gwirth, place:rulers-bar-jamaica-bay, lat:40.610564, lon:-73.821601'
 author: liz
 path: /notes/liz/05-30-2014/june-1-jamaica-bay-wetland-planting-photography.md
 nid: 10518
@@ -11,7 +13,7 @@ uid: 7
 
 # June 1 Jamaica Bay wetland planting photography
 
-by [liz](../profile/liz) | May 30, 2014 17:46
+by [liz](../../../profile/liz) | May 30, 2014 17:46
 
 May 30, 2014 17:46 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [jamaica-bay](../tag/jamaica-bay), [northeast](../tag/northeast), [with:gwirth](../tag/with:gwirth), [place:rulers-bar-jamaica-bay](../tag/place:rulers-bar-jamaica-bay), [lat:40.610564](../tag/lat:40.610564), [lon:-73.821601](../tag/lon:-73.821601)
 

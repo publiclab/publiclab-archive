@@ -1,5 +1,7 @@
 ---
-title: "Help Public Lab’s software grow by joining a supportive team"\ntagnames: 'software, gsoc, web, coding, github, wwg, activity:software, software-outreach, 1234, mentoring, activity:soc, activity:software-outreach, series:software-outreach'
+title: "Help Public Lab’s software grow by joining a supportive team"
+
+tagnames: 'software, gsoc, web, coding, github, wwg, activity:software, software-outreach, 1234, mentoring, activity:soc, activity:software-outreach, series:software-outreach'
 author: warren
 path: /notes/warren/11-08-2016/help-public-lab-s-software-grow-by-joining-a-supportive-team.md
 nid: 13687
@@ -11,7 +13,7 @@ uid: 1
 
 # Help Public Lab’s software grow by joining a supportive team
 
-by [warren](../profile/warren) | November 08, 2016 21:55
+by [warren](../../../profile/warren) | November 08, 2016 21:55
 
 November 08, 2016 21:55 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [coding](../tag/coding), [github](../tag/github), [wwg](../tag/wwg), [activity:software](../tag/activity:software), [software-outreach](../tag/software-outreach), [1234](../tag/1234), [mentoring](../tag/mentoring), [activity:soc](../tag/activity:soc), [activity:software-outreach](../tag/activity:software-outreach), [series:software-outreach](../tag/series:software-outreach)
 

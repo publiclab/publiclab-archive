@@ -1,5 +1,7 @@
 ---
-title: "How do I set a custum white balance of the NoIR modulo cam?"\ntagnames: 'raspberry-pi, white-balance, pi-camera, pinoir, whitebalance, question:pi-camera, raspberry-pi-infragram, activity:raspberry-pi-infragram, question:raspberry-pi-infragram, question:infragram-filters, question:infrared-camera-conversion, first-time-poster'
+title: "How do I set a custum white balance of the NoIR modulo cam?"
+
+tagnames: 'raspberry-pi, white-balance, pi-camera, pinoir, whitebalance, question:pi-camera, raspberry-pi-infragram, activity:raspberry-pi-infragram, question:raspberry-pi-infragram, question:infragram-filters, question:infrared-camera-conversion, first-time-poster'
 author: LaPa
 path: /notes/LaPa/12-03-2015/how-do-i-set-a-costum-white-balance-of-the-noir-modulo-cam.md
 nid: 12476
@@ -9,7 +11,7 @@ uid: 457187
 
 # How do I set a custum white balance of the NoIR modulo cam?
 
-by [LaPa](../profile/LaPa) | December 03, 2015 21:53
+by [LaPa](../../../profile/LaPa) | December 03, 2015 21:53
 
 December 03, 2015 21:53 | Tags: [raspberry-pi](../tag/raspberry-pi), [white-balance](../tag/white-balance), [pi-camera](../tag/pi-camera), [pinoir](../tag/pinoir), [whitebalance](../tag/whitebalance), [question:pi-camera](../tag/question:pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [question:infragram-filters](../tag/question:infragram-filters), [question:infrared-camera-conversion](../tag/question:infrared-camera-conversion), [first-time-poster](../tag/first-time-poster)
 

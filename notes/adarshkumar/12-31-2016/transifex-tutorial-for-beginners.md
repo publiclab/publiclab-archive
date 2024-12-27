@@ -1,5 +1,7 @@
 ---
-title: "Transifex tutorial for beginners"\ntagnames: 'community, website, activity, localization, translation, language, gcin, gcin-2016, replication:13651, transifex'
+title: "Transifex tutorial for beginners"
+
+tagnames: 'community, website, activity, localization, translation, language, gcin, gcin-2016, replication:13651, transifex'
 author: adarshkumar
 path: /notes/adarshkumar/12-31-2016/transifex-tutorial-for-beginners.md
 nid: 13828
@@ -11,7 +13,7 @@ uid: 500732
 
 # Transifex tutorial for beginners
 
-by [adarshkumar](../profile/adarshkumar) | December 31, 2016 21:43
+by [adarshkumar](../../../profile/adarshkumar) | December 31, 2016 21:43
 
 December 31, 2016 21:43 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
 

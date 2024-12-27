@@ -1,5 +1,7 @@
 ---
-title: "GSoC proposal: Social Media Integration and Leaflet-Layers Library ."\ntagnames: 'software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, gsoc-2018-final, first-time-poster'
+title: "GSoC proposal: Social Media Integration and Leaflet-Layers Library ."
+
+tagnames: 'software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, gsoc-2018-final, first-time-poster'
 author: sagarpreet
 path: /notes/sagarpreet/02-16-2018/social-media-integration-and-part-of-interactive-project-maps.md
 nid: 15744
@@ -11,7 +13,7 @@ uid: 516343
 
 # GSoC proposal: Social Media Integration and Leaflet-Layers Library .
 
-by [sagarpreet](../profile/sagarpreet) | February 16, 2018 05:09
+by [sagarpreet](../../../profile/sagarpreet) | February 16, 2018 05:09
 
 February 16, 2018 05:09 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
 

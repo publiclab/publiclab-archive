@@ -1,5 +1,7 @@
 ---
-title: "Update on Photosynq"\ntagnames: 'photosynq'
+title: "Update on Photosynq"
+
+tagnames: 'photosynq'
 author: gbathree
 path: /notes/gbathree/12-23-2013/update-on-photosynq.md
 nid: 9912
@@ -11,7 +13,7 @@ uid: 53164
 
 # Update on Photosynq
 
-by [gbathree](../profile/gbathree) | December 23, 2013 19:32
+by [gbathree](../../../profile/gbathree) | December 23, 2013 19:32
 
 December 23, 2013 19:32 | Tags: [photosynq](../tag/photosynq)
 

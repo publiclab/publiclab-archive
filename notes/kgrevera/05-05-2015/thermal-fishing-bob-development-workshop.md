@@ -1,5 +1,7 @@
 ---
-title: "Thermal Fishing Bob Development Workshop"\ntagnames: 'boston, event, thermal, northeast, fishing, bob, event:rsvp, rsvp:hudonnoodles, date:05-19-2015, rsvp:trueface'
+title: "Thermal Fishing Bob Development Workshop"
+
+tagnames: 'boston, event, thermal, northeast, fishing, bob, event:rsvp, rsvp:hudonnoodles, date:05-19-2015, rsvp:trueface'
 author: kgrevera
 path: /notes/kgrevera/05-05-2015/thermal-fishing-bob-development-workshop.md
 nid: 11785
@@ -11,7 +13,7 @@ uid: 432001
 
 # Thermal Fishing Bob Development Workshop
 
-by [kgrevera](../profile/kgrevera) | May 05, 2015 13:20
+by [kgrevera](../../../profile/kgrevera) | May 05, 2015 13:20
 
 May 05, 2015 13:20 | Tags: [boston](../tag/boston), [event](../tag/event), [thermal](../tag/thermal), [northeast](../tag/northeast), [fishing](../tag/fishing), [bob](../tag/bob), [event:rsvp](../tag/event:rsvp), [rsvp:hudonnoodles](../tag/rsvp:hudonnoodles), [date:05-19-2015](../tag/date:05-19-2015), [rsvp:trueface](../tag/rsvp:trueface)
 

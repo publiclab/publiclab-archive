@@ -1,5 +1,7 @@
 ---
-title: "A non-maker's take on the Picayune Make :) "\ntagnames: 'gulf-coast, event, picayune-make'
+title: "A non-maker's take on the Picayune Make :) "
+
+tagnames: 'gulf-coast, event, picayune-make'
 author: stevie
 path: /notes/stevie/08-21-2014/a-non-maker-s-take-on-the-picayune-make.md
 nid: 11070
@@ -11,7 +13,7 @@ uid: 422561
 
 # A non-maker's take on the Picayune Make :) 
 
-by [stevie](../profile/stevie) | August 21, 2014 20:25
+by [stevie](../../../profile/stevie) | August 21, 2014 20:25
 
 August 21, 2014 20:25 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [picayune-make](../tag/picayune-make)
 

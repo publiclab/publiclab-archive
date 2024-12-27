@@ -1,5 +1,7 @@
 ---
-title: "Computer Vision/LED Plant Measurement System"\ntagnames: 'multispectral, raspberry-pi, plant-health, gardening, python, activity:multispectral-imaging, computer-vision, first-time-poster'
+title: "Computer Vision/LED Plant Measurement System"
+
+tagnames: 'multispectral, raspberry-pi, plant-health, gardening, python, activity:multispectral-imaging, computer-vision, first-time-poster'
 author: MaggPi
 path: /notes/MaggPi/03-15-2018/computer-vision-led-plant-measurement-system.md
 nid: 15957
@@ -11,7 +13,7 @@ uid: 501996
 
 # Computer Vision/LED Plant Measurement System
 
-by [MaggPi](../profile/MaggPi) | March 15, 2018 06:57
+by [MaggPi](../../../profile/MaggPi) | March 15, 2018 06:57
 
 March 15, 2018 06:57 | Tags: [multispectral](../tag/multispectral), [raspberry-pi](../tag/raspberry-pi), [plant-health](../tag/plant-health), [gardening](../tag/gardening), [python](../tag/python), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [computer-vision](../tag/computer-vision), [first-time-poster](../tag/first-time-poster)
 

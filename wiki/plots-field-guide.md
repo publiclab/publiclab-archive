@@ -1,5 +1,7 @@
 ---
-title: "PLOTS Field Guide"\ntagnames: ''
+title: "PLOTS Field Guide"
+
+tagnames: ''
 author: donblair
 path: /wiki/plots-field-guide.md
 nid: 4331

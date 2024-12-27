@@ -1,5 +1,7 @@
 ---
-title: "How to install CHDK"\ntagnames: 'near-infrared-camera, video, chdk, tutorial'
+title: "How to install CHDK"
+
+tagnames: 'near-infrared-camera, video, chdk, tutorial'
 author: cfastie
 path: /notes/cfastie/5-14-2012/how-install-chdk.md
 nid: 1964
@@ -11,7 +13,7 @@ uid: 554
 
 # How to install CHDK
 
-by [cfastie](../profile/cfastie) | May 14, 2012 15:50
+by [cfastie](../../../profile/cfastie) | May 14, 2012 15:50
 
 May 14, 2012 15:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [chdk](../tag/chdk), [tutorial](../tag/tutorial)
 

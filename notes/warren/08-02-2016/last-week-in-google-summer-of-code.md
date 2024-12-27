@@ -1,5 +1,7 @@
 ---
-title: "Last week in Google Summer of Code"\ntagnames: 'website, software, gsoc, developers, coding, wwg, gsoc-2016, webjack, 618, 600, 628, response:13311'
+title: "Last week in Google Summer of Code"
+
+tagnames: 'website, software, gsoc, developers, coding, wwg, gsoc-2016, webjack, 618, 600, 628, response:13311'
 author: warren
 path: /notes/warren/08-02-2016/last-week-in-google-summer-of-code.md
 nid: 13324
@@ -11,7 +13,7 @@ uid: 1
 
 # Last week in Google Summer of Code
 
-by [warren](../profile/warren) | August 02, 2016 15:26
+by [warren](../../../profile/warren) | August 02, 2016 15:26
 
 August 02, 2016 15:26 | Tags: [website](../tag/website), [software](../tag/software), [gsoc](../tag/gsoc), [developers](../tag/developers), [coding](../tag/coding), [wwg](../tag/wwg), [gsoc-2016](../tag/gsoc-2016), [webjack](../tag/webjack), [618](../tag/618), [600](../tag/600), [628](../tag/628), [response:13311](../tag/response:13311)
 

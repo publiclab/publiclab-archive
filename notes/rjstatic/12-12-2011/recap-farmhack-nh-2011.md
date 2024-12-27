@@ -1,5 +1,7 @@
 ---
-title: "Recap on FarmHack NH 2011"\ntagnames: 'farmhack, agriculture, farm, first-time-poster'
+title: "Recap on FarmHack NH 2011"
+
+tagnames: 'farmhack, agriculture, farm, first-time-poster'
 author: rjstatic
 path: /12-12-2011/recap-farmhack-nh-2011.md
 nid: 628
@@ -9,7 +11,7 @@ uid: 174
 
 # Recap on FarmHack NH 2011
 
-by [rjstatic](../profile/rjstatic) | December 12, 2011 23:06
+by [rjstatic](../../../profile/rjstatic) | December 12, 2011 23:06
 
 December 12, 2011 23:06 | Tags: [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [farm](../tag/farm), [first-time-poster](../tag/first-time-poster)
 

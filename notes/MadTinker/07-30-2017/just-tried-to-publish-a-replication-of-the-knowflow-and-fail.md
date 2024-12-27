@@ -1,5 +1,7 @@
 ---
-title: "Just tried to publish a Replication of the KnowFlow and fail ..."\ntagnames: 'tool, answered, question:general, knowflow'
+title: "Just tried to publish a Replication of the KnowFlow and fail ..."
+
+tagnames: 'tool, answered, question:general, knowflow'
 author: MadTinker
 path: /notes/MadTinker/07-30-2017/just-tried-to-publish-a-replication-of-the-knowflow-and-fail.md
 nid: 14698
@@ -9,7 +11,7 @@ uid: 461206
 
 # Just tried to publish a Replication of the KnowFlow and fail ...
 
-by [MadTinker](../profile/MadTinker) | July 30, 2017 20:17
+by [MadTinker](../../../profile/MadTinker) | July 30, 2017 20:17
 
 July 30, 2017 20:17 | Tags: [tool](../tag/tool), [answered](../tag/answered), [question:general](../tag/question:general), [knowflow](../tag/knowflow)
 

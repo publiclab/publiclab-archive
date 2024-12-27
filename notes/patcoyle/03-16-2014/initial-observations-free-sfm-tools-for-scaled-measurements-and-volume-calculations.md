@@ -1,5 +1,7 @@
 ---
-title: "initial observations (revised): free SFM tools for scaled measurements and volume calculations"\ntagnames: 'sfm, structure-from-motion, measurement, autostitch, 3dmodeling'
+title: "initial observations (revised): free SFM tools for scaled measurements and volume calculations"
+
+tagnames: 'sfm, structure-from-motion, measurement, autostitch, 3dmodeling'
 author: patcoyle
 path: /notes/patcoyle/03-16-2014/initial-observations-free-sfm-tools-for-scaled-measurements-and-volume-calculations.md
 nid: 10188
@@ -11,7 +13,7 @@ uid: 77
 
 # initial observations (revised): free SFM tools for scaled measurements and volume calculations
 
-by [patcoyle](../profile/patcoyle) | March 16, 2014 00:04
+by [patcoyle](../../../profile/patcoyle) | March 16, 2014 00:04
 
 March 16, 2014 00:04 | Tags: [sfm](../tag/sfm), [structure-from-motion](../tag/structure-from-motion), [measurement](../tag/measurement), [autostitch](../tag/autostitch), [3dmodeling](../tag/3dmodeling)
 

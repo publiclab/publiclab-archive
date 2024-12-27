@@ -1,5 +1,7 @@
 ---
-title: "taarifa"\ntagnames: ''
+title: "taarifa"
+
+tagnames: ''
 author: donblair
 path: /wiki/taarifa.md
 nid: 10470

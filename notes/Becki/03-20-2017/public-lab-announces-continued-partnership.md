@@ -1,5 +1,7 @@
 ---
-title: "Public Lab announces continued partnership"\ntagnames: ''
+title: "Public Lab announces continued partnership"
+
+tagnames: ''
 author: Becki
 path: /notes/Becki/03-20-2017/public-lab-announces-continued-partnership.md
 nid: 14040
@@ -11,7 +13,7 @@ uid: 46673
 
 # Public Lab announces continued partnership
 
-by [Becki](../profile/Becki) | March 20, 2017 15:42
+by [Becki](../../../profile/Becki) | March 20, 2017 15:42
 
 March 20, 2017 15:42 | Tags: 
 

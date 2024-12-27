@@ -1,5 +1,7 @@
 ---
-title: "CFL Cal Error Explained"\ntagnames: 'spectrometer, cfl'
+title: "CFL Cal Error Explained"
+
+tagnames: 'spectrometer, cfl'
 author: stoft
 path: /notes/stoft/03-02-2015/cfl-cal-error-explained.md
 nid: 11647
@@ -11,7 +13,7 @@ uid: 54025
 
 # CFL Cal Error Explained
 
-by [stoft](../profile/stoft) | March 02, 2015 00:18
+by [stoft](../../../profile/stoft) | March 02, 2015 00:18
 
 March 02, 2015 00:18 | Tags: [spectrometer](../tag/spectrometer), [cfl](../tag/cfl)
 

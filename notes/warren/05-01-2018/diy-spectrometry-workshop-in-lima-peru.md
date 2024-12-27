@@ -1,5 +1,7 @@
 ---
-title: "DIY Spectrometry Workshop in Lima, Peru "\ntagnames: 'lima, spectrometer, peru, workshop, spectrometry, event, escuelab, fablab, center-for-bits-and-atoms, cba'
+title: "DIY Spectrometry Workshop in Lima, Peru "
+
+tagnames: 'lima, spectrometer, peru, workshop, spectrometry, event, escuelab, fablab, center-for-bits-and-atoms, cba'
 author: warren
 path: /notes/warren/05-01-2018/diy-spectrometry-workshop-in-lima-peru.md
 nid: 38
@@ -9,7 +11,7 @@ uid: 1
 
 # DIY Spectrometry Workshop in Lima, Peru 
 
-by [warren](../profile/warren) | January 07, 2011 04:29
+by [warren](../../../profile/warren) | January 07, 2011 04:29
 
 January 07, 2011 04:29 | Tags: [lima](../tag/lima), [spectrometer](../tag/spectrometer), [peru](../tag/peru), [workshop](../tag/workshop), [spectrometry](../tag/spectrometry), [event](../tag/event), [escuelab](../tag/escuelab), [fablab](../tag/fablab), [center-for-bits-and-atoms](../tag/center-for-bits-and-atoms), [cba](../tag/cba)
 

@@ -1,5 +1,7 @@
 ---
-title: "All Barnraising Tweets"\ntagnames: 'gulf-coast, kite-mapping, louisiana, cocodrie, barnraising, lumcon, barnraising2014'
+title: "All Barnraising Tweets"
+
+tagnames: 'gulf-coast, kite-mapping, louisiana, cocodrie, barnraising, lumcon, barnraising2014'
 author: cfastie
 path: /notes/cfastie/11-21-2014/all-barnraising-tweets.md
 nid: 11376
@@ -11,7 +13,7 @@ uid: 554
 
 # All Barnraising Tweets
 
-by [cfastie](../profile/cfastie) | November 21, 2014 03:03
+by [cfastie](../../../profile/cfastie) | November 21, 2014 03:03
 
 November 21, 2014 03:03 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [louisiana](../tag/louisiana), [cocodrie](../tag/cocodrie), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [barnraising2014](../tag/barnraising2014)
 

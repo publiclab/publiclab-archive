@@ -1,5 +1,7 @@
 ---
-title: "NDVI Calculation"\ntagnames: 'ndvi, gdal, python'
+title: "NDVI Calculation"
+
+tagnames: 'ndvi, gdal, python'
 author: warren
 path: /wiki/ndvi-calculation.md
 nid: 62

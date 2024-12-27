@@ -1,5 +1,7 @@
 ---
-title: "Open Hardware Summit talk: Building communities one kit at a time"\ntagnames: 'open-hardware, retail, kits, openhardware, presentation, ohs, open-hardware-summit'
+title: "Open Hardware Summit talk: Building communities one kit at a time"
+
+tagnames: 'open-hardware, retail, kits, openhardware, presentation, ohs, open-hardware-summit'
 author: warren
 path: /notes/warren/09-06-2013/open-hardware-summit-talk-building-communities-one-kit-at-a-time.md
 nid: 9300
@@ -11,7 +13,7 @@ uid: 1
 
 # Open Hardware Summit talk: Building communities one kit at a time
 
-by [warren](../profile/warren) | September 06, 2013 18:16
+by [warren](../../../profile/warren) | September 06, 2013 18:16
 
 September 06, 2013 18:16 | Tags: [open-hardware](../tag/open-hardware), [retail](../tag/retail), [kits](../tag/kits), [openhardware](../tag/openhardware), [presentation](../tag/presentation), [ohs](../tag/ohs), [open-hardware-summit](../tag/open-hardware-summit)
 

@@ -1,5 +1,7 @@
 ---
-title: "barnraising-2014"\ntagnames: 'events, barnraising, event, great-photos, parent:barnraising, barnraising2014'
+title: "barnraising-2014"
+
+tagnames: 'events, barnraising, event, great-photos, parent:barnraising, barnraising2014'
 author: stevie
 path: /wiki/barnraising-2014.md
 nid: 11404

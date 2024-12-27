@@ -1,5 +1,7 @@
 ---
-title: "Activity Categories"\ntagnames: 'with:warren, with:liz, research-culture, activity-grids, with:abdul, activity-categories, activities'
+title: "Activity Categories"
+
+tagnames: 'with:warren, with:liz, research-culture, activity-grids, with:abdul, activity-categories, activities'
 author: gretchengehrke
 path: /notes/gretchengehrke/09-02-2016/activity-categories.md
 nid: 13413
@@ -11,7 +13,7 @@ uid: 430549
 
 # Activity Categories
 
-by [gretchengehrke](../profile/gretchengehrke) | September 02, 2016 22:41
+by [gretchengehrke](../../../profile/gretchengehrke) | September 02, 2016 22:41
 
 September 02, 2016 22:41 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [with:abdul](../tag/with:abdul), [activity-categories](../tag/activity-categories), [activities](../tag/activities)
 

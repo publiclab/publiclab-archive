@@ -1,5 +1,7 @@
 ---
-title: "Open Hardware Licensing"\ntagnames: ''
+title: "Open Hardware Licensing"
+
+tagnames: ''
 author: warren
 path: /wiki/open-hardware-licensing.md
 nid: 879

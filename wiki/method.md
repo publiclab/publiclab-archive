@@ -1,5 +1,7 @@
 ---
-title: "Method"\ntagnames: 'redirect:14859'
+title: "Method"
+
+tagnames: 'redirect:14859'
 author: warren
 path: /wiki/method.md
 nid: 14860

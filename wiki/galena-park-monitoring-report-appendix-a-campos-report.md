@@ -1,5 +1,7 @@
 ---
-title: "galena-park-monitoring-report-appendix-a-campos-report"\ntagnames: 'parent:texas, texas'
+title: "galena-park-monitoring-report-appendix-a-campos-report"
+
+tagnames: 'parent:texas, texas'
 author: liz
 path: /wiki/galena-park-monitoring-report-appendix-a-campos-report.md
 nid: 12185

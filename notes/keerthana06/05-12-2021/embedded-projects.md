@@ -1,5 +1,7 @@
 ---
-title: "Embedded projects"\ntagnames: ''
+title: "Embedded projects"
+
+tagnames: ''
 author: keerthana06
 path: /notes/keerthana06/05-12-2021/embedded-projects.md
 nid: 26567
@@ -11,7 +13,7 @@ uid: 754722
 
 # Embedded projects
 
-by [keerthana06](../profile/keerthana06) | May 12, 2021 13:52
+by [keerthana06](../../../profile/keerthana06) | May 12, 2021 13:52
 
 May 12, 2021 13:52 | Tags: 
 

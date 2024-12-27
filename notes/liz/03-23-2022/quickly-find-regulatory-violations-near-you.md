@@ -1,5 +1,7 @@
 ---
-title: " Quickly find regulatory violations near you"\ntagnames: 'epa, regulations, enforcement, edgi, environmental-data, echo, violations, with:a1ahna, public-data, with:lourdesvera'
+title: " Quickly find regulatory violations near you"
+
+tagnames: 'epa, regulations, enforcement, edgi, environmental-data, echo, violations, with:a1ahna, public-data, with:lourdesvera'
 author: liz
 path: /notes/liz/03-23-2022/quickly-find-regulatory-violations-near-you.md
 nid: 30179
@@ -11,7 +13,7 @@ uid: 7
 
 #  Quickly find regulatory violations near you
 
-by [liz](../profile/liz) | March 23, 2022 19:18
+by [liz](../../../profile/liz) | March 23, 2022 19:18
 
 March 23, 2022 19:18 | Tags: [epa](../tag/epa), [regulations](../tag/regulations), [enforcement](../tag/enforcement), [edgi](../tag/edgi), [environmental-data](../tag/environmental-data), [echo](../tag/echo), [violations](../tag/violations), [with:a1ahna](../tag/with:a1ahna), [public-data](../tag/public-data), [with:lourdesvera](../tag/with:lourdesvera)
 

@@ -1,5 +1,7 @@
 ---
-title: "Rain Cii Carbon Petcoke Plume in Gramercy / Wallace"\ntagnames: 'air-quality, zoom:12, lat:30.053372, lon:-90.668269'
+title: "Rain Cii Carbon Petcoke Plume in Gramercy / Wallace"
+
+tagnames: 'air-quality, zoom:12, lat:30.053372, lon:-90.668269'
 author: eustatic
 path: /02-12-2022/rain-cii-carbon-petcoke-plume-in-gramercy-wallace.md
 nid: 30023
@@ -11,7 +13,7 @@ uid: 379
 
 # Rain Cii Carbon Petcoke Plume in Gramercy / Wallace
 
-by [eustatic](../profile/eustatic) | February 12, 2022 01:52
+by [eustatic](../../../profile/eustatic) | February 12, 2022 01:52
 
 February 12, 2022 01:52 | Tags: [air-quality](../tag/air-quality), [zoom:12](../tag/zoom:12), [lat:30.053372](../tag/lat:30.053372), [lon:-90.668269](../tag/lon:-90.668269)
 

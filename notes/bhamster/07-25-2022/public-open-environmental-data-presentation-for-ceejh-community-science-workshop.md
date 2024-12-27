@@ -1,5 +1,7 @@
 ---
-title: "Public & Open Environmental Data: presentation for CEEJH Community Science Workshop"\ntagnames: 'environmental-data, existing-data, datasource, public-data'
+title: "Public & Open Environmental Data: presentation for CEEJH Community Science Workshop"
+
+tagnames: 'environmental-data, existing-data, datasource, public-data'
 author: bhamster
 path: /notes/bhamster/07-25-2022/public-open-environmental-data-presentation-for-ceejh-community-science-workshop.md
 nid: 34785
@@ -11,7 +13,7 @@ uid: 664477
 
 # Public & Open Environmental Data: presentation for CEEJH Community Science Workshop
 
-by [bhamster](../profile/bhamster) | July 25, 2022 18:55
+by [bhamster](../../../profile/bhamster) | July 25, 2022 18:55
 
 July 25, 2022 18:55 | Tags: [environmental-data](../tag/environmental-data), [existing-data](../tag/existing-data), [datasource](../tag/datasource), [public-data](../tag/public-data)
 

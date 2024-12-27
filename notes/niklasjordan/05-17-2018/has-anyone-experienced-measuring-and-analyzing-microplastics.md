@@ -1,5 +1,7 @@
 ---
-title: "Has anyone experienced measuring and analyzing microplastics?"\ntagnames: 'answered, question:microplastics, microplastics, ftir'
+title: "Has anyone experienced measuring and analyzing microplastics?"
+
+tagnames: 'answered, question:microplastics, microplastics, ftir'
 author: niklasjordan
 path: /notes/niklasjordan/05-17-2018/has-anyone-experienced-measuring-and-analyzing-microplastics.md
 nid: 16361
@@ -9,7 +11,7 @@ uid: 531062
 
 # Has anyone experienced measuring and analyzing microplastics?
 
-by [niklasjordan](../profile/niklasjordan) | May 17, 2018 13:27
+by [niklasjordan](../../../profile/niklasjordan) | May 17, 2018 13:27
 
 May 17, 2018 13:27 | Tags: [answered](../tag/answered), [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [ftir](../tag/ftir)
 

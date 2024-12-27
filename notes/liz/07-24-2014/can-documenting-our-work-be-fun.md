@@ -1,5 +1,7 @@
 ---
-title: "Can documenting our work be fun?"\ntagnames: 'collaboration, community, documentation, wiki, wiki-gardening'
+title: "Can documenting our work be fun?"
+
+tagnames: 'collaboration, community, documentation, wiki, wiki-gardening'
 author: liz
 path: /notes/liz/07-24-2014/can-documenting-our-work-be-fun.md
 nid: 10956
@@ -9,7 +11,7 @@ uid: 7
 
 # Can documenting our work be fun?
 
-by [liz](../profile/liz) | July 24, 2014 17:00
+by [liz](../../../profile/liz) | July 24, 2014 17:00
 
 July 24, 2014 17:00 | Tags: [collaboration](../tag/collaboration), [community](../tag/community), [documentation](../tag/documentation), [wiki](../tag/wiki), [wiki-gardening](../tag/wiki-gardening)
 

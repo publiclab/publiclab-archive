@@ -1,5 +1,7 @@
 ---
-title: "Collecting Microplastics in City Park"\ntagnames: 'lon:-90.08789, zoom:6, lat:30.01203, excelatchapelle, chipmunkscityparkproject'
+title: "Collecting Microplastics in City Park"
+
+tagnames: 'lon:-90.08789, zoom:6, lat:30.01203, excelatchapelle, chipmunkscityparkproject'
 author: nsabido
 path: /notes/nsabido/05-13-2021/collecting-microplastics-in-city-park.md
 nid: 26583
@@ -11,7 +13,7 @@ uid: 745916
 
 # Collecting Microplastics in City Park
 
-by [nsabido](../profile/nsabido) | May 13, 2021 21:58
+by [nsabido](../../../profile/nsabido) | May 13, 2021 21:58
 
 May 13, 2021 21:58 | Tags: [lon:-90.08789](../tag/lon:-90.08789), [zoom:6](../tag/zoom:6), [lat:30.01203](../tag/lat:30.01203), [excelatchapelle](../tag/excelatchapelle), [chipmunkscityparkproject](../tag/chipmunkscityparkproject)
 

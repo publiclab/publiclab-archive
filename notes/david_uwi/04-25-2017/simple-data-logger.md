@@ -1,5 +1,7 @@
 ---
-title: "Simple data logger"\ntagnames: 'datalogger, pressure, barometric, activity:data-logging, datalogger-option'
+title: "Simple data logger"
+
+tagnames: 'datalogger, pressure, barometric, activity:data-logging, datalogger-option'
 author: david_uwi
 path: /notes/david_uwi/04-25-2017/simple-data-logger.md
 nid: 14138
@@ -11,7 +13,7 @@ uid: 469053
 
 # Simple data logger
 
-by [david_uwi](../profile/david_uwi) | April 25, 2017 15:32
+by [david_uwi](../../../profile/david_uwi) | April 25, 2017 15:32
 
 April 25, 2017 15:32 | Tags: [datalogger](../tag/datalogger), [pressure](../tag/pressure), [barometric](../tag/barometric), [activity:data-logging](../tag/activity:data-logging), [datalogger-option](../tag/datalogger-option)
 

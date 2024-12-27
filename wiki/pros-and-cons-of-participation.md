@@ -1,5 +1,7 @@
 ---
-title: "pros and cons of participation"\ntagnames: 'top-secret'
+title: "pros and cons of participation"
+
+tagnames: 'top-secret'
 author: donblair
 path: /wiki/pros-and-cons-of-participation.md
 nid: 10283

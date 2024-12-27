@@ -1,5 +1,7 @@
 ---
-title: "D.O. Monitoring on Public Lab"\ntagnames: 'question:question, question:water-quality, question:dissolved-oxygen, question:DO'
+title: "D.O. Monitoring on Public Lab"
+
+tagnames: 'question:question, question:water-quality, question:dissolved-oxygen, question:DO'
 author: belkinsa
 path: /notes/belkinsa/08-11-2018/d-o-monitoring-on-public-lab.md
 nid: 16914
@@ -9,7 +11,7 @@ uid: 504609
 
 # D.O. Monitoring on Public Lab
 
-by [belkinsa](../profile/belkinsa) | August 11, 2018 15:50
+by [belkinsa](../../../profile/belkinsa) | August 11, 2018 15:50
 
 August 11, 2018 15:50 | Tags: [question:question](../tag/question:question), [question:water-quality](../tag/question:water-quality), [question:dissolved-oxygen](../tag/question:dissolved-oxygen), [question:DO](../tag/question:DO)
 

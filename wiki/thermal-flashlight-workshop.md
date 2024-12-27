@@ -1,5 +1,7 @@
 ---
-title: "Thermal flashlight workshop"\ntagnames: ''
+title: "Thermal flashlight workshop"
+
+tagnames: ''
 author: warren
 path: /wiki/thermal-flashlight-workshop.md
 nid: 637

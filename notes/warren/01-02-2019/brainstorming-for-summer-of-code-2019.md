@@ -1,5 +1,7 @@
 ---
-title: "Brainstorming for Summer of Code 2019"\ntagnames: 'outreach, gsoc, code, wwg, software-outreach, rgsoc, soc, ideas, rgsoc-2019, gsoc-2019, soc-2019, soc-ideas, brainstorm, response:15477'
+title: "Brainstorming for Summer of Code 2019"
+
+tagnames: 'outreach, gsoc, code, wwg, software-outreach, rgsoc, soc, ideas, rgsoc-2019, gsoc-2019, soc-2019, soc-ideas, brainstorm, response:15477'
 author: warren
 path: /notes/warren/01-02-2019/brainstorming-for-summer-of-code-2019.md
 nid: 18047
@@ -11,7 +13,7 @@ uid: 1
 
 # Brainstorming for Summer of Code 2019
 
-by [warren](../profile/warren) | January 02, 2019 19:04
+by [warren](../../../profile/warren) | January 02, 2019 19:04
 
 January 02, 2019 19:04 | Tags: [outreach](../tag/outreach), [gsoc](../tag/gsoc), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [rgsoc](../tag/rgsoc), [soc](../tag/soc), [ideas](../tag/ideas), [rgsoc-2019](../tag/rgsoc-2019), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-ideas](../tag/soc-ideas), [brainstorm](../tag/brainstorm), [response:15477](../tag/response:15477)
 

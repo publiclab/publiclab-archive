@@ -1,5 +1,7 @@
 ---
-title: "Testing out a note within chinese characters in main image"\ntagnames: ''
+title: "Testing out a note within chinese characters in main image"
+
+tagnames: ''
 author: ananyo2012
 path: /notes/ananyo2012/08-19-2016/testing-out-a-note-within-chinese-characters-in-main-image.md
 nid: 13369
@@ -11,7 +13,7 @@ uid: 468506
 
 # Testing out a note within chinese characters in main image
 
-by [ananyo2012](../profile/ananyo2012) | August 19, 2016 13:15
+by [ananyo2012](../../../profile/ananyo2012) | August 19, 2016 13:15
 
 August 19, 2016 13:15 | Tags: 
 

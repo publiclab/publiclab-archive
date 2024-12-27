@@ -1,5 +1,7 @@
 ---
-title: "infragram-mobius"\ntagnames: ''
+title: "infragram-mobius"
+
+tagnames: ''
 author: muratvarcin
 path: /wiki/infragram-mobius.md
 nid: 12111

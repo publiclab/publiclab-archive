@@ -1,5 +1,7 @@
 ---
-title: "Tribal usufructuary rights through treaties with the US Government"\ntagnames: 'minnesota, location:blurred, lat:44, place:united-states, zoom:6, mn-land-manoomin-protection, lon:-93, treaty-rights, environmental-law'
+title: "Tribal usufructuary rights through treaties with the US Government"
+
+tagnames: 'minnesota, location:blurred, lat:44, place:united-states, zoom:6, mn-land-manoomin-protection, lon:-93, treaty-rights, environmental-law'
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/10-22-2022/tribal-usufructuary-rights-through-treaties-with-the-us-government.md
 nid: 35724
@@ -11,7 +13,7 @@ uid: 796025
 
 # Tribal usufructuary rights through treaties with the US Government
 
-by [JuliaGuerrein](../profile/JuliaGuerrein) | October 22, 2022 22:48
+by [JuliaGuerrein](../../../profile/JuliaGuerrein) | October 22, 2022 22:48
 
 October 22, 2022 22:48 | Tags: [minnesota](../tag/minnesota), [location:blurred](../tag/location:blurred), [lat:44](../tag/lat:44), [place:united-states](../tag/place:united-states), [zoom:6](../tag/zoom:6), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93), [treaty-rights](../tag/treaty-rights), [environmental-law](../tag/environmental-law)
 

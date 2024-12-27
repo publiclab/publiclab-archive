@@ -1,5 +1,7 @@
 ---
-title: "Wheetrometer Spectrometer update: Part 2."\ntagnames: 'spectrometer, software, wheetrometer'
+title: "Wheetrometer Spectrometer update: Part 2."
+
+tagnames: 'spectrometer, software, wheetrometer'
 author: JSummers
 path: /notes/JSummers/08-16-2018/wheetrometer-spectrometer-update-part-2.md
 nid: 16944
@@ -11,7 +13,7 @@ uid: 304279
 
 # Wheetrometer Spectrometer update: Part 2.
 
-by [JSummers](../profile/JSummers) | August 16, 2018 20:57
+by [JSummers](../../../profile/JSummers) | August 16, 2018 20:57
 
 August 16, 2018 20:57 | Tags: [spectrometer](../tag/spectrometer), [software](../tag/software), [wheetrometer](../tag/wheetrometer)
 

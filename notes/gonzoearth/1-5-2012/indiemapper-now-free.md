@@ -1,5 +1,7 @@
 ---
-title: "indiemapper is now free"\ntagnames: ''
+title: "indiemapper is now free"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/1-5-2012/indiemapper-now-free.md
 nid: 681
@@ -9,7 +11,7 @@ uid: 12
 
 # indiemapper is now free
 
-by [gonzoearth](../profile/gonzoearth) | January 05, 2012 18:46
+by [gonzoearth](../../../profile/gonzoearth) | January 05, 2012 18:46
 
 January 05, 2012 18:46 | Tags: 
 

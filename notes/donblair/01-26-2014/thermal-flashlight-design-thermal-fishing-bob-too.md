@@ -1,5 +1,7 @@
 ---
-title: "Thermal flashlight design (+ thermal fishing bob, too?)"\ntagnames: 'thermal-photography, thermal-flashlight, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, upgrade:thermal-flashlight, upgrade:thermal-fishing-bob'
+title: "Thermal flashlight design (+ thermal fishing bob, too?)"
+
+tagnames: 'thermal-photography, thermal-flashlight, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, upgrade:thermal-flashlight, upgrade:thermal-fishing-bob'
 author: donblair
 path: /notes/donblair/01-26-2014/thermal-flashlight-design-thermal-fishing-bob-too.md
 nid: 9981
@@ -11,7 +13,7 @@ uid: 43651
 
 # Thermal flashlight design (+ thermal fishing bob, too?)
 
-by [donblair](../profile/donblair) | January 26, 2014 18:44
+by [donblair](../../../profile/donblair) | January 26, 2014 18:44
 
 January 26, 2014 18:44 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight), [upgrade:thermal-fishing-bob](../tag/upgrade:thermal-fishing-bob)
 

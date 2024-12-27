@@ -1,5 +1,7 @@
 ---
-title: "Multigrain NDVI"\ntagnames: 'near-infrared-camera, kite-mapping, nrg, ndvi, vermont, new-hampshire, agriculture, infragram, plant-health, ifarm, gigapan, ifarm2013'
+title: "Multigrain NDVI"
+
+tagnames: 'near-infrared-camera, kite-mapping, nrg, ndvi, vermont, new-hampshire, agriculture, infragram, plant-health, ifarm, gigapan, ifarm2013'
 author: cfastie
 path: /notes/cfastie/05-23-2013/multigrain-ndvi.md
 nid: 7837
@@ -11,7 +13,7 @@ uid: 554
 
 # Multigrain NDVI
 
-by [cfastie](../profile/cfastie) | May 23, 2013 01:11
+by [cfastie](../../../profile/cfastie) | May 23, 2013 01:11
 
 May 23, 2013 01:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [new-hampshire](../tag/new-hampshire), [agriculture](../tag/agriculture), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [ifarm](../tag/ifarm), [gigapan](../tag/gigapan), [ifarm2013](../tag/ifarm2013)
 

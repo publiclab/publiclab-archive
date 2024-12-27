@@ -1,5 +1,7 @@
 ---
-title: "Question: total beginner problems"\ntagnames: 'question:spectral-workbench, answered, first-time-poster'
+title: "Question: total beginner problems"
+
+tagnames: 'question:spectral-workbench, answered, first-time-poster'
 author: viechdokter
 path: /notes/viechdokter/03-24-2016/question-total-beginner-problems.md
 nid: 12882
@@ -9,7 +11,7 @@ uid: 468990
 
 # Question: total beginner problems
 
-by [viechdokter](../profile/viechdokter) | March 24, 2016 16:16
+by [viechdokter](../../../profile/viechdokter) | March 24, 2016 16:16
 
 March 24, 2016 16:16 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered), [first-time-poster](../tag/first-time-poster)
 

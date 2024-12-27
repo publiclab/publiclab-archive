@@ -1,5 +1,7 @@
 ---
-title: "The accidental raspberry pi spectrometer: first light"\ntagnames: 'spectrometer, diy, light, first'
+title: "The accidental raspberry pi spectrometer: first light"
+
+tagnames: 'spectrometer, diy, light, first'
 author: khufkens
 path: /notes/khufkens/04-29-2015/the-accidental-raspberry-pi-spectrometer-first-light.md
 nid: 11774
@@ -11,7 +13,7 @@ uid: 438931
 
 # The accidental raspberry pi spectrometer: first light
 
-by [khufkens](../profile/khufkens) | April 29, 2015 02:28
+by [khufkens](../../../profile/khufkens) | April 29, 2015 02:28
 
 April 29, 2015 02:28 | Tags: [spectrometer](../tag/spectrometer), [diy](../tag/diy), [light](../tag/light), [first](../tag/first)
 

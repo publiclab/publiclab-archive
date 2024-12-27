@@ -1,5 +1,7 @@
 ---
-title: "Trawling with BabyLegs in New Orleans City Park!"\ntagnames: 'new-orleans, water-quality, barnstar:excessive-enthusiasm, micro-plastics, microplastics, babylegs, trawl, baby-legs, lat:29.993002, lon:-90.08789'
+title: "Trawling with BabyLegs in New Orleans City Park!"
+
+tagnames: 'new-orleans, water-quality, barnstar:excessive-enthusiasm, micro-plastics, microplastics, babylegs, trawl, baby-legs, lat:29.993002, lon:-90.08789'
 author: mimiss
 path: /notes/mimiss/08-05-2019/trawling-with-babylegs-in-new-orleans-city-park.md
 nid: 20418
@@ -11,7 +13,7 @@ uid: 579821
 
 # Trawling with BabyLegs in New Orleans City Park!
 
-by [mimiss](../profile/mimiss) | August 05, 2019 19:46
+by [mimiss](../../../profile/mimiss) | August 05, 2019 19:46
 
 August 05, 2019 19:46 | Tags: [new-orleans](../tag/new-orleans), [water-quality](../tag/water-quality), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [micro-plastics](../tag/micro-plastics), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [trawl](../tag/trawl), [baby-legs](../tag/baby-legs), [lat:29.993002](../tag/lat:29.993002), [lon:-90.08789](../tag/lon:-90.08789)
 

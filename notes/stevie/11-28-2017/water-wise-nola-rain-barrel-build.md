@@ -1,5 +1,7 @@
 ---
-title: "Water Wise NOLA Rain Barrel Build! "\ntagnames: 'gulf-coast, event, new-orleans, stormwater, flooding, nola, rain-barrel'
+title: "Water Wise NOLA Rain Barrel Build! "
+
+tagnames: 'gulf-coast, event, new-orleans, stormwater, flooding, nola, rain-barrel'
 author: stevie
 path: /notes/stevie/11-28-2017/water-wise-nola-rain-barrel-build.md
 nid: 15252
@@ -11,7 +13,7 @@ uid: 422561
 
 # Water Wise NOLA Rain Barrel Build! 
 
-by [stevie](../profile/stevie) | November 28, 2017 21:00
+by [stevie](../../../profile/stevie) | November 28, 2017 21:00
 
 November 28, 2017 21:00 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [flooding](../tag/flooding), [nola](../tag/nola), [rain-barrel](../tag/rain-barrel)
 

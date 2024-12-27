@@ -1,5 +1,7 @@
 ---
-title: "Data Cleaning with OpenRefine"\ntagnames: 'data, research-area-review, research-curation-fellows, air-quality-data, data-cleaning, activity:air-quality-data, activity:data-cleaning'
+title: "Data Cleaning with OpenRefine"
+
+tagnames: 'data, research-area-review, research-curation-fellows, air-quality-data, data-cleaning, activity:air-quality-data, activity:data-cleaning'
 author: fongvania
 path: /notes/fongvania/12-12-2021/data-cleaning-with-openrefine.md
 nid: 28440
@@ -9,7 +11,7 @@ uid: 754846
 
 # Data Cleaning with OpenRefine
 
-by [fongvania](../profile/fongvania) | December 12, 2021 04:33
+by [fongvania](../../../profile/fongvania) | December 12, 2021 04:33
 
 December 12, 2021 04:33 | Tags: [data](../tag/data), [research-area-review](../tag/research-area-review), [research-curation-fellows](../tag/research-curation-fellows), [air-quality-data](../tag/air-quality-data), [data-cleaning](../tag/data-cleaning), [activity:air-quality-data](../tag/activity:air-quality-data), [activity:data-cleaning](../tag/activity:data-cleaning)
 

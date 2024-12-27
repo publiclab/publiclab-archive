@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal:  New UI design for infragram"\ntagnames: 'software, outreachy, first-time-poster, zoom:6, lat:9.081999, lon:8.675277, outreachy-2022, outreachy-summer-2022'
+title: "Outreachy proposal:  New UI design for infragram"
+
+tagnames: 'software, outreachy, first-time-poster, zoom:6, lat:9.081999, lon:8.675277, outreachy-2022, outreachy-summer-2022'
 author: takurofisayo
 path: /notes/takurofisayo/04-20-2022/outreachy-proposal-new-ui-design-for-infragram.md
 nid: 30515
@@ -11,7 +13,7 @@ uid: 795380
 
 # Outreachy proposal:  New UI design for infragram
 
-by [takurofisayo](../profile/takurofisayo) | April 20, 2022 08:46
+by [takurofisayo](../../../profile/takurofisayo) | April 20, 2022 08:46
 
 April 20, 2022 08:46 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:9.081999](../tag/lat:9.081999), [lon:8.675277](../tag/lon:8.675277), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 

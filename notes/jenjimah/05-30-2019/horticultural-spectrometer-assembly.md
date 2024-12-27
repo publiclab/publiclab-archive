@@ -1,5 +1,7 @@
 ---
-title: "Horticultural Spectrometer - Assembly"\ntagnames: 'spectrometer, spectrometry, lego, lego-spectrometer, horticulture, response:18991'
+title: "Horticultural Spectrometer - Assembly"
+
+tagnames: 'spectrometer, spectrometry, lego, lego-spectrometer, horticulture, response:18991'
 author: jenjimah
 path: /notes/jenjimah/05-30-2019/horticultural-spectrometer-assembly.md
 nid: 19565
@@ -11,7 +13,7 @@ uid: 505738
 
 # Horticultural Spectrometer - Assembly
 
-by [jenjimah](../profile/jenjimah) | May 30, 2019 05:57
+by [jenjimah](../../../profile/jenjimah) | May 30, 2019 05:57
 
 May 30, 2019 05:57 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [lego](../tag/lego), [lego-spectrometer](../tag/lego-spectrometer), [horticulture](../tag/horticulture), [response:18991](../tag/response:18991)
 

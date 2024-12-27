@@ -1,5 +1,7 @@
 ---
-title: "Assignment: spectrometry at NAFCS"\ntagnames: 'classroom, seeks:responses, assignment, assignment:spectrometry, response:15121'
+title: "Assignment: spectrometry at NAFCS"
+
+tagnames: 'classroom, seeks:responses, assignment, assignment:spectrometry, response:15121'
 author: liz
 path: /notes/liz/10-19-2016/assignment-spectrometry-at-nafcs.md
 nid: 13586
@@ -11,7 +13,7 @@ uid: 7
 
 # Assignment: spectrometry at NAFCS
 
-by [liz](../profile/liz) | October 19, 2016 14:50
+by [liz](../../../profile/liz) | October 19, 2016 14:50
 
 October 19, 2016 14:50 | Tags: [classroom](../tag/classroom), [seeks:responses](../tag/seeks:responses), [assignment](../tag/assignment), [assignment:spectrometry](../tag/assignment:spectrometry), [response:15121](../tag/response:15121)
 

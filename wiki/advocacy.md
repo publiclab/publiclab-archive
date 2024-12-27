@@ -1,5 +1,7 @@
 ---
-title: "Advocacy"\ntagnames: 'organizing, advocacy, method'
+title: "Advocacy"
+
+tagnames: 'organizing, advocacy, method'
 author: bhamster
 path: /wiki/advocacy.md
 nid: 26893

@@ -1,5 +1,7 @@
 ---
-title: "Batch work"\ntagnames: 'spectrometer, macro, serial, formats, file'
+title: "Batch work"
+
+tagnames: 'spectrometer, macro, serial, formats, file'
 author: viechdokter
 path: /notes/viechdokter/04-17-2016/batch-work.md
 nid: 12992
@@ -11,7 +13,7 @@ uid: 468990
 
 # Batch work
 
-by [viechdokter](../profile/viechdokter) | April 17, 2016 12:30
+by [viechdokter](../../../profile/viechdokter) | April 17, 2016 12:30
 
 April 17, 2016 12:30 | Tags: [spectrometer](../tag/spectrometer), [macro](../tag/macro), [serial](../tag/serial), [formats](../tag/formats), [file](../tag/file)
 

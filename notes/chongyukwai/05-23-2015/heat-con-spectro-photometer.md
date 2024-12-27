@@ -1,5 +1,7 @@
 ---
-title: "thermal colorimetic spectro photometer"\ntagnames: 'spectro, spectrum, first-time-poster'
+title: "thermal colorimetic spectro photometer"
+
+tagnames: 'spectro, spectrum, first-time-poster'
 author: chongyukwai
 path: /notes/chongyukwai/05-23-2015/heat-con-spectro-photometer.md
 nid: 11833
@@ -11,7 +13,7 @@ uid: 442298
 
 # thermal colorimetic spectro photometer
 
-by [chongyukwai](../profile/chongyukwai) | May 23, 2015 10:50
+by [chongyukwai](../../../profile/chongyukwai) | May 23, 2015 10:50
 
 May 23, 2015 10:50 | Tags: [spectro](../tag/spectro), [spectrum](../tag/spectrum), [first-time-poster](../tag/first-time-poster)
 

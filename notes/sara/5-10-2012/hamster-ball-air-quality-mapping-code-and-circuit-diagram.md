@@ -1,5 +1,7 @@
 ---
-title: "Hamster Ball Air Quality Mapping: Code and Circuit Diagram"\ntagnames: 'indoor-air-quality-mapping'
+title: "Hamster Ball Air Quality Mapping: Code and Circuit Diagram"
+
+tagnames: 'indoor-air-quality-mapping'
 author: sara
 path: /notes/sara/5-10-2012/hamster-ball-air-quality-mapping-code-and-circuit-diagram.md
 nid: 1945
@@ -11,7 +13,7 @@ uid: 8
 
 # Hamster Ball Air Quality Mapping: Code and Circuit Diagram
 
-by [sara](../profile/sara) | May 10, 2012 15:07
+by [sara](../../../profile/sara) | May 10, 2012 15:07
 
 May 10, 2012 15:07 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping)
 

@@ -1,5 +1,7 @@
 ---
-title: "new USGS wetlands map"\ntagnames: ''
+title: "new USGS wetlands map"
+
+tagnames: ''
 author: Shannon
 path: /notes/shannon/6-3-2011/new-usgs-wetlands-map.md
 nid: 324
@@ -9,7 +11,7 @@ uid: 9
 
 # new USGS wetlands map
 
-by [Shannon](../profile/Shannon) | June 03, 2011 14:57
+by [Shannon](../../../profile/Shannon) | June 03, 2011 14:57
 
 June 03, 2011 14:57 | Tags: 
 

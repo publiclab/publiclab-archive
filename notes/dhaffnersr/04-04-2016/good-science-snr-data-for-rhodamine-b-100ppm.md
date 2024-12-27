@@ -1,5 +1,7 @@
 ---
-title: "Good Science SNR data for Rhodamine B 100ppm"\ntagnames: ''
+title: "Good Science SNR data for Rhodamine B 100ppm"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-04-2016/good-science-snr-data-for-rhodamine-b-100ppm.md
 nid: 12916
@@ -11,7 +13,7 @@ uid: 461120
 
 # Good Science SNR data for Rhodamine B 100ppm
 
-by [dhaffnersr](../profile/dhaffnersr) | April 04, 2016 13:06
+by [dhaffnersr](../../../profile/dhaffnersr) | April 04, 2016 13:06
 
 April 04, 2016 13:06 | Tags: 
 

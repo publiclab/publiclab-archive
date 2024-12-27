@@ -1,5 +1,7 @@
 ---
-title: "Science Fairs"\ntagnames: 'education, classroom, parent:education, educators, science-fair'
+title: "Science Fairs"
+
+tagnames: 'education, classroom, parent:education, educators, science-fair'
 author: warren
 path: /wiki/science-fairs.md
 nid: 14030

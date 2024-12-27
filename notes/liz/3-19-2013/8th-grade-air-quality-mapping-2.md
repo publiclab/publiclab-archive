@@ -1,5 +1,7 @@
 ---
-title: "8th grade air quality mapping 2"\ntagnames: 'new-york-city, chaq, air-quality, air-quality-egg'
+title: "8th grade air quality mapping 2"
+
+tagnames: 'new-york-city, chaq, air-quality, air-quality-egg'
 author: liz
 path: /notes/liz/3-19-2013/8th-grade-air-quality-mapping-2.md
 nid: 6422
@@ -11,7 +13,7 @@ uid: 7
 
 # 8th grade air quality mapping 2
 
-by [liz](../profile/liz) | March 19, 2013 17:14
+by [liz](../../../profile/liz) | March 19, 2013 17:14
 
 March 19, 2013 17:14 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
 

@@ -1,5 +1,7 @@
 ---
-title: "drafts"\ntagnames: ''
+title: "drafts"
+
+tagnames: ''
 author: donblair
 path: /wiki/drafts.md
 nid: 5367

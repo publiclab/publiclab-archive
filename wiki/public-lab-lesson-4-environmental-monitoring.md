@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Lesson 4: Environmental Monitoring"\ntagnames: 'ndvi, photography, education, lesson_plan, biology, botany, parent:wetlands-lesson-plans, activity:ndvi'
+title: "Public Lab Lesson 4: Environmental Monitoring"
+
+tagnames: 'ndvi, photography, education, lesson_plan, biology, botany, parent:wetlands-lesson-plans, activity:ndvi'
 author: mollydanielsson
 path: /wiki/public-lab-lesson-4-environmental-monitoring.md
 nid: 11561

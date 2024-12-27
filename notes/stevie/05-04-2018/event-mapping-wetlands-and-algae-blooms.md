@@ -1,5 +1,7 @@
 ---
-title: "Event: Mapping wetlands and algae blooms "\ntagnames: 'gulf-coast, nir, wetlands, mapping, event, new-orleans, algae, nas'
+title: "Event: Mapping wetlands and algae blooms "
+
+tagnames: 'gulf-coast, nir, wetlands, mapping, event, new-orleans, algae, nas'
 author: stevie
 path: /notes/stevie/05-04-2018/event-mapping-wetlands-and-algae-blooms.md
 nid: 16300
@@ -11,7 +13,7 @@ uid: 422561
 
 # Event: Mapping wetlands and algae blooms 
 
-by [stevie](../profile/stevie) | May 04, 2018 19:51
+by [stevie](../../../profile/stevie) | May 04, 2018 19:51
 
 May 04, 2018 19:51 | Tags: [gulf-coast](../tag/gulf-coast), [nir](../tag/nir), [wetlands](../tag/wetlands), [mapping](../tag/mapping), [event](../tag/event), [new-orleans](../tag/new-orleans), [algae](../tag/algae), [nas](../tag/nas)
 

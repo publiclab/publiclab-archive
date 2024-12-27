@@ -1,5 +1,7 @@
 ---
-title: "A Day in the Life of LDI"\ntagnames: 'mapknitter, software, development, leaflet'
+title: "A Day in the Life of LDI"
+
+tagnames: 'mapknitter, software, development, leaflet'
 author: sashadev-sky
 path: /notes/sashadev-sky/08-11-2019/a-day-in-the-life-of-ldi.md
 nid: 20498
@@ -11,7 +13,7 @@ uid: 555321
 
 # A Day in the Life of LDI
 
-by [sashadev-sky](../profile/sashadev-sky) | August 11, 2019 01:17
+by [sashadev-sky](../../../profile/sashadev-sky) | August 11, 2019 01:17
 
 August 11, 2019 01:17 | Tags: [mapknitter](../tag/mapknitter), [software](../tag/software), [development](../tag/development), [leaflet](../tag/leaflet)
 

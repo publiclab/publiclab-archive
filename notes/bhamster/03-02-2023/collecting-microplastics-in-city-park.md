@@ -1,5 +1,7 @@
 ---
-title: "Collecting Microplastics in City Park"\ntagnames: 'microplastics, csf, community-science-forum, student-community-science, classroom-community-science, csf18'
+title: "Collecting Microplastics in City Park"
+
+tagnames: 'microplastics, csf, community-science-forum, student-community-science, classroom-community-science, csf18'
 author: bhamster
 path: /notes/bhamster/03-02-2023/collecting-microplastics-in-city-park.md
 nid: 38733
@@ -11,7 +13,7 @@ uid: 664477
 
 # Collecting Microplastics in City Park
 
-by [bhamster](../profile/bhamster) | March 02, 2023 21:58
+by [bhamster](../../../profile/bhamster) | March 02, 2023 21:58
 
 March 02, 2023 21:58 | Tags: [microplastics](../tag/microplastics), [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [csf18](../tag/csf18)
 

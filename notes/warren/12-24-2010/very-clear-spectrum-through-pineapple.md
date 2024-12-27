@@ -1,5 +1,7 @@
 ---
-title: "Very clear spectrum through pineapple"\ntagnames: 'lima, spectrometer, workshop, escuelab'
+title: "Very clear spectrum through pineapple"
+
+tagnames: 'lima, spectrometer, workshop, escuelab'
 author: warren
 path: /notes/warren/12-24-2010/very-clear-spectrum-through-pineapple.md
 nid: 34
@@ -11,7 +13,7 @@ uid: 1
 
 # Very clear spectrum through pineapple
 
-by [warren](../profile/warren) | December 24, 2010 14:34
+by [warren](../../../profile/warren) | December 24, 2010 14:34
 
 December 24, 2010 14:34 | Tags: [lima](../tag/lima), [spectrometer](../tag/spectrometer), [workshop](../tag/workshop), [escuelab](../tag/escuelab)
 

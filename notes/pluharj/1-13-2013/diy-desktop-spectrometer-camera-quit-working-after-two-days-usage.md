@@ -1,5 +1,7 @@
 ---
-title: "DIY Desktop Spectrometer - camera quit working after two days of usage"\ntagnames: 'spectrometer, troubleshooting, desktop-spectrometer'
+title: "DIY Desktop Spectrometer - camera quit working after two days of usage"
+
+tagnames: 'spectrometer, troubleshooting, desktop-spectrometer'
 author: pluharj
 path: /notes/pluharj/1-13-2013/diy-desktop-spectrometer-camera-quit-working-after-two-days-usage.md
 nid: 5573
@@ -11,7 +13,7 @@ uid: 46812
 
 # DIY Desktop Spectrometer - camera quit working after two days of usage
 
-by [pluharj](../profile/pluharj) | January 13, 2013 15:12
+by [pluharj](../../../profile/pluharj) | January 13, 2013 15:12
 
 January 13, 2013 15:12 | Tags: [spectrometer](../tag/spectrometer), [troubleshooting](../tag/troubleshooting), [desktop-spectrometer](../tag/desktop-spectrometer)
 

@@ -1,5 +1,7 @@
 ---
-title: "Recover your balance"\ntagnames: 'near-infrared-camera, ndvi, vermont, infrared, infragram, infragram-sandbox'
+title: "Recover your balance"
+
+tagnames: 'near-infrared-camera, ndvi, vermont, infrared, infragram, infragram-sandbox'
 author: cfastie
 path: /notes/cfastie/08-20-2013/white-balance-recovery.md
 nid: 9038
@@ -11,7 +13,7 @@ uid: 554
 
 # Recover your balance
 
-by [cfastie](../profile/cfastie) | August 20, 2013 05:28
+by [cfastie](../../../profile/cfastie) | August 20, 2013 05:28
 
 August 20, 2013 05:28 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox)
 

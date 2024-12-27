@@ -1,5 +1,7 @@
 ---
-title: "Measuring pollen"\ntagnames: 'air-column-monitor, question, air, pm, question:pm, question:pm-monitoring, question:pollen'
+title: "Measuring pollen"
+
+tagnames: 'air-column-monitor, question, air, pm, question:pm, question:pm-monitoring, question:pollen'
 author: Yeipi
 path: /notes/Yeipi/03-26-2018/measuring-pollen.md
 nid: 16021
@@ -11,7 +13,7 @@ uid: 528684
 
 # Measuring pollen
 
-by [Yeipi](../profile/Yeipi) | March 26, 2018 18:36
+by [Yeipi](../../../profile/Yeipi) | March 26, 2018 18:36
 
 March 26, 2018 18:36 | Tags: [air-column-monitor](../tag/air-column-monitor), [question](../tag/question), [air](../tag/air), [pm](../tag/pm), [question:pm](../tag/question:pm), [question:pm-monitoring](../tag/question:pm-monitoring), [question:pollen](../tag/question:pollen)
 

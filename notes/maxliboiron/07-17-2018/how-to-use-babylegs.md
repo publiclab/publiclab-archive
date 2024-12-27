@@ -1,5 +1,7 @@
 ---
-title: "How to use BabyLegs"\ntagnames: 'kits, seeks:replications, micro-plastics, community-kits, microplastics, babylegs, activity:babylegs, trawling, trawl, activity:microplastics'
+title: "How to use BabyLegs"
+
+tagnames: 'kits, seeks:replications, micro-plastics, community-kits, microplastics, babylegs, activity:babylegs, trawling, trawl, activity:microplastics'
 author: maxliboiron
 path: /notes/maxliboiron/07-17-2018/how-to-use-babylegs.md
 nid: 16735
@@ -11,7 +13,7 @@ uid: 310707
 
 # How to use BabyLegs
 
-by [maxliboiron](../profile/maxliboiron) | July 17, 2018 22:13
+by [maxliboiron](../../../profile/maxliboiron) | July 17, 2018 22:13
 
 July 17, 2018 22:13 | Tags: [kits](../tag/kits), [seeks:replications](../tag/seeks:replications), [micro-plastics](../tag/micro-plastics), [community-kits](../tag/community-kits), [microplastics](../tag/microplastics), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [trawling](../tag/trawling), [trawl](../tag/trawl), [activity:microplastics](../tag/activity:microplastics)
 

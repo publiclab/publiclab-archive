@@ -1,5 +1,7 @@
 ---
-title: "SoC proposal: "\ntagnames: 'software, soc, response:13975, first-time-poster, soc-2020, soc-2020-proposals'
+title: "SoC proposal: "
+
+tagnames: 'software, soc, response:13975, first-time-poster, soc-2020, soc-2020-proposals'
 author: nitin_tech
 path: /notes/nitin_tech/03-17-2020/soc-proposal.md
 nid: 23161
@@ -9,7 +11,7 @@ uid: 610628
 
 # SoC proposal: 
 
-by [nitin_tech](../profile/nitin_tech) | March 17, 2020 15:29
+by [nitin_tech](../../../profile/nitin_tech) | March 17, 2020 15:29
 
 March 17, 2020 15:29 | Tags: [software](../tag/software), [soc](../tag/soc), [response:13975](../tag/response:13975), [first-time-poster](../tag/first-time-poster), [soc-2020](../tag/soc-2020), [soc-2020-proposals](../tag/soc-2020-proposals)
 

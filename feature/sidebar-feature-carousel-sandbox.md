@@ -1,5 +1,7 @@
 ---
-title: "sidebar-feature-carousel-sandbox"\ntagnames: ''
+title: "sidebar-feature-carousel-sandbox"
+
+tagnames: ''
 author: warren
 path: /feature/sidebar-feature-carousel-sandbox.md
 nid: 12518

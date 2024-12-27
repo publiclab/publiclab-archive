@@ -1,5 +1,7 @@
 ---
-title: "NDVI Image Captures Non-Plant Objects"\ntagnames: 'ndvi, infrared, infragram, question:ndvi, barnstar:photo-documentation, question:infragram, question:infrared, raspberrypi, first-time-poster, bluefilter, automatedfieldphenomics'
+title: "NDVI Image Captures Non-Plant Objects"
+
+tagnames: 'ndvi, infrared, infragram, question:ndvi, barnstar:photo-documentation, question:infragram, question:infrared, raspberrypi, first-time-poster, bluefilter, automatedfieldphenomics'
 author: velahs
 path: /notes/velahs/07-08-2020/ndvi-image-captures-non-plant-objects.md
 nid: 24118
@@ -9,7 +11,7 @@ uid: 706471
 
 # NDVI Image Captures Non-Plant Objects
 
-by [velahs](../profile/velahs) | July 08, 2020 20:24
+by [velahs](../../../profile/velahs) | July 08, 2020 20:24
 
 July 08, 2020 20:24 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [raspberrypi](../tag/raspberrypi), [first-time-poster](../tag/first-time-poster), [bluefilter](../tag/bluefilter), [automatedfieldphenomics](../tag/automatedfieldphenomics)
 

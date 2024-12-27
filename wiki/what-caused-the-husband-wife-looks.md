@@ -1,5 +1,7 @@
 ---
-title: "What Caused the Husband-wife Looks?"\ntagnames: ''
+title: "What Caused the Husband-wife Looks?"
+
+tagnames: ''
 author: IreneJessica
 path: /wiki/what-caused-the-husband-wife-looks.md
 nid: 11816

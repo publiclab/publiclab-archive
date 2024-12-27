@@ -1,5 +1,7 @@
 ---
-title: "Shades of Green - OpenStreetMap Overlays on Satellite images"\ntagnames: 'mapknitter, osm, geospatial, satellite-imagery, gsoc-2019, planet, nottingham, lat:52.954783, lon:-1.158108'
+title: "Shades of Green - OpenStreetMap Overlays on Satellite images"
+
+tagnames: 'mapknitter, osm, geospatial, satellite-imagery, gsoc-2019, planet, nottingham, lat:52.954783, lon:-1.158108'
 author: MaggPi
 path: /notes/MaggPi/08-17-2019/shades-of-green-openstreetmap-overlays-on-satellite-images.md
 nid: 20562
@@ -11,7 +13,7 @@ uid: 501996
 
 # Shades of Green - OpenStreetMap Overlays on Satellite images
 
-by [MaggPi](../profile/MaggPi) | August 17, 2019 17:41
+by [MaggPi](../../../profile/MaggPi) | August 17, 2019 17:41
 
 August 17, 2019 17:41 | Tags: [mapknitter](../tag/mapknitter), [osm](../tag/osm), [geospatial](../tag/geospatial), [satellite-imagery](../tag/satellite-imagery), [gsoc-2019](../tag/gsoc-2019), [planet](../tag/planet), [nottingham](../tag/nottingham), [lat:52.954783](../tag/lat:52.954783), [lon:-1.158108](../tag/lon:-1.158108)
 

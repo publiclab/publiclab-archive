@@ -1,5 +1,7 @@
 ---
-title: "Five Beginner Spectrometer Activities"\ntagnames: ''
+title: "Five Beginner Spectrometer Activities"
+
+tagnames: ''
 author: willie
 path: /wiki/five-beginner-spectrometer-activities.md
 nid: 9402

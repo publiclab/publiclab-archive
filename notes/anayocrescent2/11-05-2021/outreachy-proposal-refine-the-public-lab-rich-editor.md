@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal: Refine the Public Lab Rich Editor"\ntagnames: 'first-time-poster, zoom:5, outreachy-winter-2021, lat:14.609783, lon:1.880628'
+title: "Outreachy proposal: Refine the Public Lab Rich Editor"
+
+tagnames: 'first-time-poster, zoom:5, outreachy-winter-2021, lat:14.609783, lon:1.880628'
 author: anayocrescent2
 path: /notes/anayocrescent2/11-05-2021/outreachy-proposal-refine-the-public-lab-rich-editor.md
 nid: 28111
@@ -11,7 +13,7 @@ uid: 775856
 
 # Outreachy proposal: Refine the Public Lab Rich Editor
 
-by [anayocrescent2](../profile/anayocrescent2) | November 05, 2021 09:56
+by [anayocrescent2](../../../profile/anayocrescent2) | November 05, 2021 09:56
 
 November 05, 2021 09:56 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:5](../tag/zoom:5), [outreachy-winter-2021](../tag/outreachy-winter-2021), [lat:14.609783](../tag/lat:14.609783), [lon:1.880628](../tag/lon:1.880628)
 

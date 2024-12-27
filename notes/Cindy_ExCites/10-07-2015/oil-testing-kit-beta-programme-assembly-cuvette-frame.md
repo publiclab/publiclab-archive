@@ -1,5 +1,7 @@
 ---
-title: "Oil testing kit Beta programme - Assembly: cuvette frame"\ntagnames: 'spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta'
+title: "Oil testing kit Beta programme - Assembly: cuvette frame"
+
+tagnames: 'spectrometer, fluorescence, oil-testing-kit, oil-testing-kit-beta'
 author: cindy_excites
 path: /notes/Cindy_ExCites/10-07-2015/oil-testing-kit-beta-programme-assembly-cuvette-frame.md
 nid: 12279
@@ -11,7 +13,7 @@ uid: 1083
 
 # Oil testing kit Beta programme - Assembly: cuvette frame
 
-by [cindy_excites](../profile/cindy_excites) | October 07, 2015 17:15
+by [cindy_excites](../../../profile/cindy_excites) | October 07, 2015 17:15
 
 October 07, 2015 17:15 | Tags: [spectrometer](../tag/spectrometer), [fluorescence](../tag/fluorescence), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 

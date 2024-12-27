@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer construction"\ntagnames: 'spectrometer, calibration, filter, parent:spectrometer, horizontal'
+title: "Spectrometer construction"
+
+tagnames: 'spectrometer, calibration, filter, parent:spectrometer, horizontal'
 author: warren
 path: /wiki/spectrometer-construction.md
 nid: 5186

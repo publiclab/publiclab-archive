@@ -1,5 +1,7 @@
 ---
-title: "What kind/size of microdust does activated carbon give off & how much of a concern is it?"\ntagnames: 'filter, air-quality, dust, carbon, question:air-quality, indoor-air-quality, indoor-air, question:open-air, active-carbon, question:dust-sampling'
+title: "What kind/size of microdust does activated carbon give off & how much of a concern is it?"
+
+tagnames: 'filter, air-quality, dust, carbon, question:air-quality, indoor-air-quality, indoor-air, question:open-air, active-carbon, question:dust-sampling'
 author: jfrankamp
 path: /notes/jfrankamp/10-11-2016/what-kind-size-of-microdust-does-activated-carbon-give-off-how-much-of-a-concern-is-it.md
 nid: 13549
@@ -9,7 +11,7 @@ uid: 493826
 
 # What kind/size of microdust does activated carbon give off & how much of a concern is it?
 
-by [jfrankamp](../profile/jfrankamp) | October 11, 2016 17:21
+by [jfrankamp](../../../profile/jfrankamp) | October 11, 2016 17:21
 
 October 11, 2016 17:21 | Tags: [filter](../tag/filter), [air-quality](../tag/air-quality), [dust](../tag/dust), [carbon](../tag/carbon), [question:air-quality](../tag/question:air-quality), [indoor-air-quality](../tag/indoor-air-quality), [indoor-air](../tag/indoor-air), [question:open-air](../tag/question:open-air), [active-carbon](../tag/active-carbon), [question:dust-sampling](../tag/question:dust-sampling)
 

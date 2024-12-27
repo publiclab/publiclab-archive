@@ -1,5 +1,7 @@
 ---
-title: "taiwan"\ntagnames: 'asia, china'
+title: "taiwan"
+
+tagnames: 'asia, china'
 author: liz
 path: /wiki/taiwan.md
 nid: 11203

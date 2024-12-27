@@ -1,5 +1,7 @@
 ---
-title: "WheeStat"\ntagnames: 'wheestat, redirect:10627'
+title: "WheeStat"
+
+tagnames: 'wheestat, redirect:10627'
 author: warren
 path: /wiki/wheestat.md
 nid: 11330

@@ -1,5 +1,7 @@
 ---
-title: "supplementation Data for Dave Stoft Challenge Part II"\ntagnames: ''
+title: "supplementation Data for Dave Stoft Challenge Part II"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/07-31-2016/supplementation-data-for-dave-stoft-challenge-part-ii.md
 nid: 13316
@@ -11,7 +13,7 @@ uid: 461120
 
 # supplementation Data for Dave Stoft Challenge Part II
 
-by [dhaffnersr](../profile/dhaffnersr) | July 31, 2016 12:52
+by [dhaffnersr](../../../profile/dhaffnersr) | July 31, 2016 12:52
 
 July 31, 2016 12:52 | Tags: 
 

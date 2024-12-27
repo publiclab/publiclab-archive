@@ -1,5 +1,7 @@
 ---
-title: "Continuing difficulties with infrablue in cheaper CMOS cameras"\ntagnames: 'near-infrared-camera, ndvi, infrared, infragram, infrablue, tests, infragram-conversion'
+title: "Continuing difficulties with infrablue in cheaper CMOS cameras"
+
+tagnames: 'near-infrared-camera, ndvi, infrared, infragram, infrablue, tests, infragram-conversion'
 author: warren
 path: /notes/warren/06-18-2013/continuing-difficulties-with-infrablue-in-cheaper-cmos-cameras.md
 nid: 8261
@@ -11,7 +13,7 @@ uid: 1
 
 # Continuing difficulties with infrablue in cheaper CMOS cameras
 
-by [warren](../profile/warren) | June 18, 2013 15:35
+by [warren](../../../profile/warren) | June 18, 2013 15:35
 
 June 18, 2013 15:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [tests](../tag/tests), [infragram-conversion](../tag/infragram-conversion)
 

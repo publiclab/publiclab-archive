@@ -1,5 +1,7 @@
 ---
-title: "Image Sequencer on Raspberry PI"\ntagnames: 'raspberry-pi, pi-camera, raspberry-pi-infragram, activity:raspberry-pi-infragram, activity:raspberry-pi-spectrometer, activity:pi-camera, image-sequencer'
+title: "Image Sequencer on Raspberry PI"
+
+tagnames: 'raspberry-pi, pi-camera, raspberry-pi-infragram, activity:raspberry-pi-infragram, activity:raspberry-pi-spectrometer, activity:pi-camera, image-sequencer'
 author: tech4gt
 path: /notes/tech4gt/04-03-2018/image-sequencer-on-raspberry-pi.md
 nid: 16060
@@ -11,7 +13,7 @@ uid: 523178
 
 # Image Sequencer on Raspberry PI
 
-by [tech4gt](../profile/tech4gt) | April 03, 2018 11:43
+by [tech4gt](../../../profile/tech4gt) | April 03, 2018 11:43
 
 April 03, 2018 11:43 | Tags: [raspberry-pi](../tag/raspberry-pi), [pi-camera](../tag/pi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [activity:raspberry-pi-spectrometer](../tag/activity:raspberry-pi-spectrometer), [activity:pi-camera](../tag/activity:pi-camera), [image-sequencer](../tag/image-sequencer)
 

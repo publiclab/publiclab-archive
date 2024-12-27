@@ -1,5 +1,7 @@
 ---
-title: "NDVI Quick Analysis Application"\ntagnames: 'near-infrared-camera, ndvi, analysis, software, infragram'
+title: "NDVI Quick Analysis Application"
+
+tagnames: 'near-infrared-camera, ndvi, analysis, software, infragram'
 author: daniedb68
 path: /notes/daniedb68/05-28-2014/ndvi-quick-analysis-application.md
 nid: 10513
@@ -11,7 +13,7 @@ uid: 420557
 
 # NDVI Quick Analysis Application
 
-by [daniedb68](../profile/daniedb68) | May 28, 2014 16:00
+by [daniedb68](../../../profile/daniedb68) | May 28, 2014 16:00
 
 May 28, 2014 16:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [analysis](../tag/analysis), [software](../tag/software), [infragram](../tag/infragram)
 

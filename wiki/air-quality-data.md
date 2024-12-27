@@ -1,5 +1,7 @@
 ---
-title: "Air Quality Data"\ntagnames: 'environmental-data, data-visualization, parent:air-quality, presenting-data, air-quality-data, data-viz, parent:presenting-data'
+title: "Air Quality Data"
+
+tagnames: 'environmental-data, data-visualization, parent:air-quality, presenting-data, air-quality-data, data-viz, parent:presenting-data'
 author: bhamster
 path: /wiki/air-quality-data.md
 nid: 28246

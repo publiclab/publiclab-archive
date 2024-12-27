@@ -1,5 +1,7 @@
 ---
-title: "responses"\ntagnames: 'redirect:requesting-responses'
+title: "responses"
+
+tagnames: 'redirect:requesting-responses'
 author: warren
 path: /wiki/responses.md
 nid: 25374

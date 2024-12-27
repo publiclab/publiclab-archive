@@ -1,5 +1,7 @@
 ---
-title: "Photo Documentation of Turbid Waters for Advocacy"\ntagnames: 'wisconsin, water-quality, water, turbidity, stormwater, frac-sand, openwater, fracsand, parent:frac-sand, activity:stormwater, activity:site-survey, activity:turbidity, getting-started-wastewater, detecting-wastewater, wastewater-color, activity:detecting-wastewater'
+title: "Photo Documentation of Turbid Waters for Advocacy"
+
+tagnames: 'wisconsin, water-quality, water, turbidity, stormwater, frac-sand, openwater, fracsand, parent:frac-sand, activity:stormwater, activity:site-survey, activity:turbidity, getting-started-wastewater, detecting-wastewater, wastewater-color, activity:detecting-wastewater'
 author: gretchengehrke
 path: /notes/gretchengehrke/09-18-2015/photo-documentation-of-turbid-waters-for-advocacy.md
 nid: 12221
@@ -11,7 +13,7 @@ uid: 430549
 
 # Photo Documentation of Turbid Waters for Advocacy
 
-by [gretchengehrke](../profile/gretchengehrke) | September 18, 2015 03:05
+by [gretchengehrke](../../../profile/gretchengehrke) | September 18, 2015 03:05
 
 September 18, 2015 03:05 | Tags: [wisconsin](../tag/wisconsin), [water-quality](../tag/water-quality), [water](../tag/water), [turbidity](../tag/turbidity), [stormwater](../tag/stormwater), [frac-sand](../tag/frac-sand), [openwater](../tag/openwater), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [activity:stormwater](../tag/activity:stormwater), [activity:site-survey](../tag/activity:site-survey), [activity:turbidity](../tag/activity:turbidity), [getting-started-wastewater](../tag/getting-started-wastewater), [detecting-wastewater](../tag/detecting-wastewater), [wastewater-color](../tag/wastewater-color), [activity:detecting-wastewater](../tag/activity:detecting-wastewater)
 

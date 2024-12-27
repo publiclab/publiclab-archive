@@ -1,5 +1,7 @@
 ---
-title: "Stepped slit tests"\ntagnames: 'spectrometer, slit, clipping, response:9366, stepped-slit, slit-width'
+title: "Stepped slit tests"
+
+tagnames: 'spectrometer, slit, clipping, response:9366, stepped-slit, slit-width'
 author: warren
 path: /notes/warren/09-25-2013/stepped-slit-tests.md
 nid: 9373
@@ -11,7 +13,7 @@ uid: 1
 
 # Stepped slit tests
 
-by [warren](../profile/warren) | September 25, 2013 13:42
+by [warren](../../../profile/warren) | September 25, 2013 13:42
 
 September 25, 2013 13:42 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [clipping](../tag/clipping), [response:9366](../tag/response:9366), [stepped-slit](../tag/stepped-slit), [slit-width](../tag/slit-width)
 

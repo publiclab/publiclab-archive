@@ -1,5 +1,7 @@
 ---
-title: "ammonia"\ntagnames: 'redirect:nitrogen'
+title: "ammonia"
+
+tagnames: 'redirect:nitrogen'
 author: warren
 path: /wiki/ammonia.md
 nid: 18784

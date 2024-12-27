@@ -1,5 +1,7 @@
 ---
-title: "Study on the spectra observed from a homemade spectroscope"\ntagnames: 'spectrometer, assembly, smartphone-spectrometer, smartphone, foldable, foldable-spectrometer, hardware, gcin, gcin-2016, replication:13577'
+title: "Study on the spectra observed from a homemade spectroscope"
+
+tagnames: 'spectrometer, assembly, smartphone-spectrometer, smartphone, foldable, foldable-spectrometer, hardware, gcin, gcin-2016, replication:13577'
 author: Karmanya
 path: /notes/Karmanya/12-19-2016/study-on-the-spectra-observed-from-a-homemade-spectroscope.md
 nid: 13795
@@ -11,7 +13,7 @@ uid: 500347
 
 # Study on the spectra observed from a homemade spectroscope
 
-by [Karmanya](../profile/Karmanya) | December 19, 2016 18:21
+by [Karmanya](../../../profile/Karmanya) | December 19, 2016 18:21
 
 December 19, 2016 18:21 | Tags: [spectrometer](../tag/spectrometer), [assembly](../tag/assembly), [smartphone-spectrometer](../tag/smartphone-spectrometer), [smartphone](../tag/smartphone), [foldable](../tag/foldable), [foldable-spectrometer](../tag/foldable-spectrometer), [hardware](../tag/hardware), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13577](../tag/replication:13577)
 

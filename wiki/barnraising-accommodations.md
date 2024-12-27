@@ -1,5 +1,7 @@
 ---
-title: "barnraising accommodations"\ntagnames: ''
+title: "barnraising accommodations"
+
+tagnames: ''
 author: adam-griffith
 path: /wiki/barnraising-accommodations.md
 nid: 498

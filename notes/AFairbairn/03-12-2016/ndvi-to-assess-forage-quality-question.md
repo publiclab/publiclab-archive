@@ -1,5 +1,7 @@
 ---
-title: "NDVI to Assess Forage Quality, Question."\ntagnames: 'near-infrared-camera, ndvi, imagej, infrared-conversion'
+title: "NDVI to Assess Forage Quality, Question."
+
+tagnames: 'near-infrared-camera, ndvi, imagej, infrared-conversion'
 author: AFairbairn
 path: /notes/AFairbairn/03-12-2016/ndvi-to-assess-forage-quality-question.md
 nid: 12839
@@ -11,7 +13,7 @@ uid: 468688
 
 # NDVI to Assess Forage Quality, Question.
 
-by [AFairbairn](../profile/AFairbairn) | March 12, 2016 20:57
+by [AFairbairn](../../../profile/AFairbairn) | March 12, 2016 20:57
 
 March 12, 2016 20:57 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infrared-conversion](../tag/infrared-conversion)
 

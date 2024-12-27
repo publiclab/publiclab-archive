@@ -1,5 +1,7 @@
 ---
-title: "Water Sensor with NE555 - EC - Electrical Conductivity "\ntagnames: 'watersensor, ec, arttech, br_sp'
+title: "Water Sensor with NE555 - EC - Electrical Conductivity "
+
+tagnames: 'watersensor, ec, arttech, br_sp'
 author: GSan
 path: /notes/GSan/10-21-2016/water-sensor-with-ne555-ec-electrical-conductivity.md
 nid: 13634
@@ -11,7 +13,7 @@ uid: 426547
 
 # Water Sensor with NE555 - EC - Electrical Conductivity 
 
-by [GSan](../profile/GSan) | October 21, 2016 15:26
+by [GSan](../../../profile/GSan) | October 21, 2016 15:26
 
 October 21, 2016 15:26 | Tags: [watersensor](../tag/watersensor), [ec](../tag/ec), [arttech](../tag/arttech), [br_sp](../tag/br_sp)
 

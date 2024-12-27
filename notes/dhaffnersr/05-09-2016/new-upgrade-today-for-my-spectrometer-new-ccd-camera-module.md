@@ -1,5 +1,7 @@
 ---
-title: "New upgrade today for my spectrometer/New CCD camera module"\ntagnames: ''
+title: "New upgrade today for my spectrometer/New CCD camera module"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/05-09-2016/new-upgrade-today-for-my-spectrometer-new-ccd-camera-module.md
 nid: 13094
@@ -11,7 +13,7 @@ uid: 461120
 
 # New upgrade today for my spectrometer/New CCD camera module
 
-by [dhaffnersr](../profile/dhaffnersr) | May 09, 2016 19:22
+by [dhaffnersr](../../../profile/dhaffnersr) | May 09, 2016 19:22
 
 May 09, 2016 19:22 | Tags: 
 

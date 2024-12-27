@@ -1,5 +1,7 @@
 ---
-title: "Do you have resources on odor logs and odor reporting platforms? "\ntagnames: 'question:air-quality, answered, question:odor, question:smell'
+title: "Do you have resources on odor logs and odor reporting platforms? "
+
+tagnames: 'question:air-quality, answered, question:odor, question:smell'
 author: gretchengehrke
 path: /notes/gretchengehrke/07-07-2017/do-you-have-resources-on-odor-logs-and-odor-reporting-platforms.md
 nid: 14632
@@ -9,7 +11,7 @@ uid: 430549
 
 # Do you have resources on odor logs and odor reporting platforms? 
 
-by [gretchengehrke](../profile/gretchengehrke) | July 07, 2017 20:40
+by [gretchengehrke](../../../profile/gretchengehrke) | July 07, 2017 20:40
 
 July 07, 2017 20:40 | Tags: [question:air-quality](../tag/question:air-quality), [answered](../tag/answered), [question:odor](../tag/question:odor), [question:smell](../tag/question:smell)
 

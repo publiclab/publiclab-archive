@@ -1,5 +1,7 @@
 ---
-title: "Blog Post by Tracy Englert!"\ntagnames: 'gulf-coast, gulfcoast'
+title: "Blog Post by Tracy Englert!"
+
+tagnames: 'gulf-coast, gulfcoast'
 author: stevie
 path: /notes/stevie/03-11-2015/blog-post-by-tracy-englert.md
 nid: 11671
@@ -9,7 +11,7 @@ uid: 422561
 
 # Blog Post by Tracy Englert!
 
-by [stevie](../profile/stevie) | March 11, 2015 15:40
+by [stevie](../../../profile/stevie) | March 11, 2015 15:40
 
 March 11, 2015 15:40 | Tags: [gulf-coast](../tag/gulf-coast), [gulfcoast](../tag/gulfcoast)
 

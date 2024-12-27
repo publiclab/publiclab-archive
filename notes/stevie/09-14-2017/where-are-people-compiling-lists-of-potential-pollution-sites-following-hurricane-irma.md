@@ -1,5 +1,7 @@
 ---
-title: "Where are people compiling lists of potential pollution sites following Hurricane Irma?"\ntagnames: 'hurricane, question:general, irma'
+title: "Where are people compiling lists of potential pollution sites following Hurricane Irma?"
+
+tagnames: 'hurricane, question:general, irma'
 author: stevie
 path: /notes/stevie/09-14-2017/where-are-people-compiling-lists-of-potential-pollution-sites-following-hurricane-irma.md
 nid: 14893
@@ -9,7 +11,7 @@ uid: 422561
 
 # Where are people compiling lists of potential pollution sites following Hurricane Irma?
 
-by [stevie](../profile/stevie) | September 14, 2017 14:14
+by [stevie](../../../profile/stevie) | September 14, 2017 14:14
 
 September 14, 2017 14:14 | Tags: [hurricane](../tag/hurricane), [question:general](../tag/question:general), [irma](../tag/irma)
 

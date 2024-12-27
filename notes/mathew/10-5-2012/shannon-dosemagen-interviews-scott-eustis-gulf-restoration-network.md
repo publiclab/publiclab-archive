@@ -1,5 +1,7 @@
 ---
-title: "Shannon Dosemagen Interviews Scott Eustis of Gulf Restoration Network "\ntagnames: 'wetlands, gulf-restoration-network, chandeleur-islands, restoration, interview'
+title: "Shannon Dosemagen Interviews Scott Eustis of Gulf Restoration Network "
+
+tagnames: 'wetlands, gulf-restoration-network, chandeleur-islands, restoration, interview'
 author: mathew
 path: /notes/mathew/10-5-2012/shannon-dosemagen-interviews-scott-eustis-gulf-restoration-network.md
 nid: 4183
@@ -11,7 +13,7 @@ uid: 4
 
 # Shannon Dosemagen Interviews Scott Eustis of Gulf Restoration Network 
 
-by [mathew](../profile/mathew) | October 05, 2012 04:19
+by [mathew](../../../profile/mathew) | October 05, 2012 04:19
 
 October 05, 2012 04:19 | Tags: [wetlands](../tag/wetlands), [gulf-restoration-network](../tag/gulf-restoration-network), [chandeleur-islands](../tag/chandeleur-islands), [restoration](../tag/restoration), [interview](../tag/interview)
 

@@ -1,5 +1,7 @@
 ---
-title: "Assignment: reflections on sensor journalism"\ntagnames: 'sensor-journalism, seeks:responses'
+title: "Assignment: reflections on sensor journalism"
+
+tagnames: 'sensor-journalism, seeks:responses'
 author: kanarinka
 path: /notes/kanarinka/02-24-2016/assignment-reflections-on-sensor-journalism.md
 nid: 12748
@@ -11,7 +13,7 @@ uid: 994
 
 # Assignment: reflections on sensor journalism
 
-by [kanarinka](../profile/kanarinka) | February 24, 2016 19:47
+by [kanarinka](../../../profile/kanarinka) | February 24, 2016 19:47
 
 February 24, 2016 19:47 | Tags: [sensor-journalism](../tag/sensor-journalism), [seeks:responses](../tag/seeks:responses)
 

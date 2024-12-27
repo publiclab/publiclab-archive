@@ -1,5 +1,7 @@
 ---
-title: "Online Live Builds- Make Magazine in October"\ntagnames: 'education, events, workshops, coqui, open-hour, communitymicroscope, babylegs, simple-air-sensor, activity:make, sas'
+title: "Online Live Builds- Make Magazine in October"
+
+tagnames: 'education, events, workshops, coqui, open-hour, communitymicroscope, babylegs, simple-air-sensor, activity:make, sas'
 author: Bronwen
 path: /notes/Bronwen/09-20-2019/online-live-builds-make-magazine-in-october.md
 nid: 20940
@@ -11,7 +13,7 @@ uid: 237313
 
 # Online Live Builds- Make Magazine in October
 
-by [Bronwen](../profile/Bronwen) | September 20, 2019 16:33
+by [Bronwen](../../../profile/Bronwen) | September 20, 2019 16:33
 
 September 20, 2019 16:33 | Tags: [education](../tag/education), [events](../tag/events), [workshops](../tag/workshops), [coqui](../tag/coqui), [open-hour](../tag/open-hour), [communitymicroscope](../tag/communitymicroscope), [babylegs](../tag/babylegs), [simple-air-sensor](../tag/simple-air-sensor), [activity:make](../tag/activity:make), [sas](../tag/sas)
 

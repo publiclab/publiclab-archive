@@ -1,5 +1,7 @@
 ---
-title: "Rails Girls Summer of Code"\ntagnames: 'software-outreach, rgsoc, soc, rails-girls, parent:soc'
+title: "Rails Girls Summer of Code"
+
+tagnames: 'software-outreach, rgsoc, soc, rails-girls, parent:soc'
 author: warren
 path: /wiki/rails-girls-summer-of-code.md
 nid: 16264

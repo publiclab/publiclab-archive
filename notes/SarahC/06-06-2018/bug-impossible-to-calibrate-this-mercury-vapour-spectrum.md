@@ -1,5 +1,7 @@
 ---
-title: "Bug : Impossible to calibrate this mercury vapour spectrum"\ntagnames: 'question:spectral-workbench, answered'
+title: "Bug : Impossible to calibrate this mercury vapour spectrum"
+
+tagnames: 'question:spectral-workbench, answered'
 author: SarahC
 path: /notes/SarahC/06-06-2018/bug-impossible-to-calibrate-this-mercury-vapour-spectrum.md
 nid: 16434
@@ -9,7 +11,7 @@ uid: 448894
 
 # Bug : Impossible to calibrate this mercury vapour spectrum
 
-by [SarahC](../profile/SarahC) | June 06, 2018 04:11
+by [SarahC](../../../profile/SarahC) | June 06, 2018 04:11
 
 June 06, 2018 04:11 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench), [answered](../tag/answered)
 

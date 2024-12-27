@@ -1,5 +1,7 @@
 ---
-title: "Copper Sheet Hydrogen Sulfide Detection Activity"\ntagnames: 'barnraising, hydrogen-sulfide, difficulty:easy, category:test-limits, time:1h, status:draft, h2s-copper-pipe, barnraising-2017, activity:hydrogen-sulfide, activity:h2s-copper-pipe'
+title: "Copper Sheet Hydrogen Sulfide Detection Activity"
+
+tagnames: 'barnraising, hydrogen-sulfide, difficulty:easy, category:test-limits, time:1h, status:draft, h2s-copper-pipe, barnraising-2017, activity:hydrogen-sulfide, activity:h2s-copper-pipe'
 author: gretchengehrke
 path: /notes/gretchengehrke/11-02-2017/copper-sheet-hydrogen-sulfide-detection-activity.md
 nid: 15142
@@ -11,7 +13,7 @@ uid: 430549
 
 # Copper Sheet Hydrogen Sulfide Detection Activity
 
-by [gretchengehrke](../profile/gretchengehrke) | November 02, 2017 20:46
+by [gretchengehrke](../../../profile/gretchengehrke) | November 02, 2017 20:46
 
 November 02, 2017 20:46 | Tags: [barnraising](../tag/barnraising), [hydrogen-sulfide](../tag/hydrogen-sulfide), [difficulty:easy](../tag/difficulty:easy), [category:test-limits](../tag/category:test-limits), [time:1h](../tag/time:1h), [status:draft](../tag/status:draft), [h2s-copper-pipe](../tag/h2s-copper-pipe), [barnraising-2017](../tag/barnraising-2017), [activity:hydrogen-sulfide](../tag/activity:hydrogen-sulfide), [activity:h2s-copper-pipe](../tag/activity:h2s-copper-pipe)
 

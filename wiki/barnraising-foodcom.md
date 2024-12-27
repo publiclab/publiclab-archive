@@ -1,5 +1,7 @@
 ---
-title: "barnraising-foodcom"\ntagnames: 'barnraising, foodcom'
+title: "barnraising-foodcom"
+
+tagnames: 'barnraising, foodcom'
 author: warren
 path: /wiki/barnraising-foodcom.md
 nid: 9375

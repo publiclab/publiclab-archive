@@ -1,5 +1,7 @@
 ---
-title: "Introduction to Stormwater Workshop 1 Report"\ntagnames: 'gulf-coast, new-orleans, stormwater, site-survey, replication:14048, replication:14047'
+title: "Introduction to Stormwater Workshop 1 Report"
+
+tagnames: 'gulf-coast, new-orleans, stormwater, site-survey, replication:14048, replication:14047'
 author: stevie
 path: /notes/stevie/03-22-2017/introduction-to-stormwater-workshop-1-report.md
 nid: 14049
@@ -11,7 +13,7 @@ uid: 422561
 
 # Introduction to Stormwater Workshop 1 Report
 
-by [stevie](../profile/stevie) | March 22, 2017 20:48
+by [stevie](../../../profile/stevie) | March 22, 2017 20:48
 
 March 22, 2017 20:48 | Tags: [gulf-coast](../tag/gulf-coast), [new-orleans](../tag/new-orleans), [stormwater](../tag/stormwater), [site-survey](../tag/site-survey), [replication:14048](../tag/replication:14048), [replication:14047](../tag/replication:14047)
 

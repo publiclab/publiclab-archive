@@ -1,5 +1,7 @@
 ---
-title: "How generate NDVI images with Infragram?"\ntagnames: 'infragram, question:infragram, multispectral-imaging, first-time-poster'
+title: "How generate NDVI images with Infragram?"
+
+tagnames: 'infragram, question:infragram, multispectral-imaging, first-time-poster'
 author: henning_leonardo
 path: /notes/henning_leonardo/06-12-2021/how-generate-ndvi-images-with-infragram.md
 nid: 26817
@@ -9,7 +11,7 @@ uid: 757354
 
 # How generate NDVI images with Infragram?
 
-by [henning_leonardo](../profile/henning_leonardo) | June 12, 2021 00:25
+by [henning_leonardo](../../../profile/henning_leonardo) | June 12, 2021 00:25
 
 June 12, 2021 00:25 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
 

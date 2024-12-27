@@ -1,5 +1,7 @@
 ---
-title: "Matching olive oil spectra in SpectralWorkbench"\ntagnames: 'spectrometer, spectrum-matching, spectralworkbench, matching, olive-oil'
+title: "Matching olive oil spectra in SpectralWorkbench"
+
+tagnames: 'spectrometer, spectrum-matching, spectralworkbench, matching, olive-oil'
 author: warren
 path: /notes/warren/7-2-2012/matching-olive-oil-spectra-spectralworkbench.md
 nid: 2695
@@ -11,7 +13,7 @@ uid: 1
 
 # Matching olive oil spectra in SpectralWorkbench
 
-by [warren](../profile/warren) | July 02, 2012 21:21
+by [warren](../../../profile/warren) | July 02, 2012 21:21
 
 July 02, 2012 21:21 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [spectralworkbench](../tag/spectralworkbench), [matching](../tag/matching), [olive-oil](../tag/olive-oil)
 

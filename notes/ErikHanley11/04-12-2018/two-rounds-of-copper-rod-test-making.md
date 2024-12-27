@@ -1,5 +1,7 @@
 ---
-title: "Two Rounds of Copper Rod Test Making"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, barnstar:basic, h2s-copper-pipe, copper-pipe, activity:hydrogen-sulfide, activity:h2s-copper-pipe, copper-rod, replication:15142'
+title: "Two Rounds of Copper Rod Test Making"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, barnstar:basic, h2s-copper-pipe, copper-pipe, activity:hydrogen-sulfide, activity:h2s-copper-pipe, copper-rod, replication:15142'
 author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/two-rounds-of-copper-rod-test-making.md
 nid: 16137
@@ -11,7 +13,7 @@ uid: 444638
 
 # Two Rounds of Copper Rod Test Making
 
-by [ErikHanley11](../profile/ErikHanley11) | April 12, 2018 01:14
+by [ErikHanley11](../../../profile/ErikHanley11) | April 12, 2018 01:14
 
 April 12, 2018 01:14 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [barnstar:basic](../tag/barnstar:basic), [h2s-copper-pipe](../tag/h2s-copper-pipe), [copper-pipe](../tag/copper-pipe), [activity:hydrogen-sulfide](../tag/activity:hydrogen-sulfide), [activity:h2s-copper-pipe](../tag/activity:h2s-copper-pipe), [copper-rod](../tag/copper-rod), [replication:15142](../tag/replication:15142)
 

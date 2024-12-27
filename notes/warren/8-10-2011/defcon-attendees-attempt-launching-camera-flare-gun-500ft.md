@@ -1,5 +1,7 @@
 ---
-title: "Defcon attendees attempt launching a camera from a flare gun to 500ft"\ntagnames: ''
+title: "Defcon attendees attempt launching a camera from a flare gun to 500ft"
+
+tagnames: ''
 author: warren
 path: /notes/warren/8-10-2011/defcon-attendees-attempt-launching-camera-flare-gun-500ft.md
 nid: 436
@@ -9,7 +11,7 @@ uid: 1
 
 # Defcon attendees attempt launching a camera from a flare gun to 500ft
 
-by [warren](../profile/warren) | August 10, 2011 13:38
+by [warren](../../../profile/warren) | August 10, 2011 13:38
 
 August 10, 2011 13:38 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "First reading from the humidity and temperature sensor @ the community garden"\ntagnames: 'arduino, diy, humidity-and-temperature-sensor'
+title: "First reading from the humidity and temperature sensor @ the community garden"
+
+tagnames: 'arduino, diy, humidity-and-temperature-sensor'
 author: cindy_excites
 path: /notes/cindyexcites/8-3-2012/first-reading-humidity-and-temperature-senson-community-garden.md
 nid: 3124
@@ -9,7 +11,7 @@ uid: 1083
 
 # First reading from the humidity and temperature sensor @ the community garden
 
-by [cindy_excites](../profile/cindy_excites) | August 03, 2012 22:11
+by [cindy_excites](../../../profile/cindy_excites) | August 03, 2012 22:11
 
 August 03, 2012 22:11 | Tags: [arduino](../tag/arduino), [diy](../tag/diy), [humidity-and-temperature-sensor](../tag/humidity-and-temperature-sensor)
 

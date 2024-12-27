@@ -1,5 +1,7 @@
 ---
-title: "Video NDVI "\ntagnames: 'near-infrared-camera, ndvi, infragram, infrablue, ffmpeg'
+title: "Video NDVI "
+
+tagnames: 'near-infrared-camera, ndvi, infragram, infrablue, ffmpeg'
 author: cfastie
 path: /notes/cfastie/06-02-2013/video-ndvi.md
 nid: 8016
@@ -11,7 +13,7 @@ uid: 554
 
 # Video NDVI 
 
-by [cfastie](../profile/cfastie) | June 02, 2013 14:01
+by [cfastie](../../../profile/cfastie) | June 02, 2013 14:01
 
 June 02, 2013 14:01 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [ffmpeg](../tag/ffmpeg)
 

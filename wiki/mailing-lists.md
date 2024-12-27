@@ -1,5 +1,7 @@
 ---
-title: "Sustainable Oceans Alliance"\ntagnames: 'ocean, sustainability'
+title: "Sustainable Oceans Alliance"
+
+tagnames: 'ocean, sustainability'
 author: hananbloomer
 path: /wiki/mailing-lists.md
 nid: 14205

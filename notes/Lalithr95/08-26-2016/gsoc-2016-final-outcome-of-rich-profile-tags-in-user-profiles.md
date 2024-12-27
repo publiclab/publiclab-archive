@@ -1,5 +1,7 @@
 ---
-title: "GSOC 2016: Final outcome of Rich Profile tags in user profiles"\ntagnames: 'gsoc, developers, gsoc-2016, gsoc2016, profiles, response:13397'
+title: "GSOC 2016: Final outcome of Rich Profile tags in user profiles"
+
+tagnames: 'gsoc, developers, gsoc-2016, gsoc2016, profiles, response:13397'
 author: Lalithr95
 path: /notes/Lalithr95/08-26-2016/gsoc-2016-final-outcome-of-rich-profile-tags-in-user-profiles.md
 nid: 13396
@@ -11,7 +13,7 @@ uid: 468698
 
 # GSOC 2016: Final outcome of Rich Profile tags in user profiles
 
-by [Lalithr95](../profile/Lalithr95) | August 26, 2016 12:00
+by [Lalithr95](../../../profile/Lalithr95) | August 26, 2016 12:00
 
 August 26, 2016 12:00 | Tags: [gsoc](../tag/gsoc), [developers](../tag/developers), [gsoc-2016](../tag/gsoc-2016), [gsoc2016](../tag/gsoc2016), [profiles](../tag/profiles), [response:13397](../tag/response:13397)
 

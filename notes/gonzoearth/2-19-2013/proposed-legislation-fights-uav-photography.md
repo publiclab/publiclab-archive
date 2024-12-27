@@ -1,5 +1,7 @@
 ---
-title: "Proposed Legislation Fights UAV Photography"\ntagnames: ''
+title: "Proposed Legislation Fights UAV Photography"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/2-19-2013/proposed-legislation-fights-uav-photography.md
 nid: 6063
@@ -9,7 +11,7 @@ uid: 12
 
 # Proposed Legislation Fights UAV Photography
 
-by [gonzoearth](../profile/gonzoearth) | February 20, 2013 03:30
+by [gonzoearth](../../../profile/gonzoearth) | February 20, 2013 03:30
 
 February 20, 2013 03:30 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Using Spectral Workbench to measure remote "black-body" surface temperature"\ntagnames: 'lat:0, lon:0, first-time-poster, zoom:1'
+title: "Using Spectral Workbench to measure remote "black-body" surface temperature"
+
+tagnames: 'lat:0, lon:0, first-time-poster, zoom:1'
 author: DrBeck
 path: /notes/DrBeck/09-15-2021/using-spectral-workbench-to-measure-remote-black-body-surface-temperature.md
 nid: 27726
@@ -11,7 +13,7 @@ uid: 754147
 
 # Using Spectral Workbench to measure remote "black-body" surface temperature
 
-by [DrBeck](../profile/DrBeck) | September 15, 2021 03:22
+by [DrBeck](../../../profile/DrBeck) | September 15, 2021 03:22
 
 September 15, 2021 03:22 | Tags: [lat:0](../tag/lat:0), [lon:0](../tag/lon:0), [first-time-poster](../tag/first-time-poster), [zoom:1](../tag/zoom:1)
 

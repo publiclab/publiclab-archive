@@ -1,5 +1,7 @@
 ---
-title: "Roomba indoor air-quality sensing by RISD students"\ntagnames: ''
+title: "Roomba indoor air-quality sensing by RISD students"
+
+tagnames: ''
 author: warren
 path: /notes/warren/1-30-2011/roomba-indoor-air-quality-sensing-risd-students.md
 nid: 68
@@ -11,7 +13,7 @@ uid: 1
 
 # Roomba indoor air-quality sensing by RISD students
 
-by [warren](../profile/warren) | January 30, 2011 20:52
+by [warren](../../../profile/warren) | January 30, 2011 20:52
 
 January 30, 2011 20:52 | Tags: 
 

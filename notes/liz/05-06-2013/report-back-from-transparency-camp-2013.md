@@ -1,5 +1,7 @@
 ---
-title: "Report back from Transparency Camp 2013"\ntagnames: 'community, washington-dc, event:washington-dc'
+title: "Report back from Transparency Camp 2013"
+
+tagnames: 'community, washington-dc, event:washington-dc'
 author: liz
 path: /notes/liz/05-06-2013/report-back-from-transparency-camp-2013.md
 nid: 7264
@@ -11,7 +13,7 @@ uid: 7
 
 # Report back from Transparency Camp 2013
 
-by [liz](../profile/liz) | May 06, 2013 21:32
+by [liz](../../../profile/liz) | May 06, 2013 21:32
 
 May 06, 2013 21:32 | Tags: [community](../tag/community), [washington-dc](../tag/washington-dc), [event:washington-dc](../tag/event:washington-dc)
 

@@ -1,5 +1,7 @@
 ---
-title: "Public Lab logo"\ntagnames: 'logo, redirect:15540'
+title: "Public Lab logo"
+
+tagnames: 'logo, redirect:15540'
 author: gonzoearth
 path: /wiki/public-lab-logo.md
 nid: 6874

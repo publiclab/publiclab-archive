@@ -1,5 +1,7 @@
 ---
-title: "Sponsored Makerspace Memberships in NYC"\ntagnames: 'new-york-city, makerspaces, hardware, lon:-73, lat:40, zoom:6, coworking, fatcatfablab, environmental-tools'
+title: "Sponsored Makerspace Memberships in NYC"
+
+tagnames: 'new-york-city, makerspaces, hardware, lon:-73, lat:40, zoom:6, coworking, fatcatfablab, environmental-tools'
 author: Bronwen
 path: /notes/Bronwen/10-22-2020/sponsored-makerspace-memberships-in-nyc.md
 nid: 24792
@@ -11,7 +13,7 @@ uid: 237313
 
 # Sponsored Makerspace Memberships in NYC
 
-by [Bronwen](../profile/Bronwen) | October 22, 2020 15:00
+by [Bronwen](../../../profile/Bronwen) | October 22, 2020 15:00
 
 October 22, 2020 15:00 | Tags: [new-york-city](../tag/new-york-city), [makerspaces](../tag/makerspaces), [hardware](../tag/hardware), [lon:-73](../tag/lon:-73), [lat:40](../tag/lat:40), [zoom:6](../tag/zoom:6), [coworking](../tag/coworking), [fatcatfablab](../tag/fatcatfablab), [environmental-tools](../tag/environmental-tools)
 

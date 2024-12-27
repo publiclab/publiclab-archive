@@ -1,5 +1,7 @@
 ---
-title: "cannot use online software"\ntagnames: 'bugs'
+title: "cannot use online software"
+
+tagnames: 'bugs'
 author: beckman
 path: /notes/beckman/9-17-2012/cannot-use-online-software.md
 nid: 3855
@@ -9,7 +11,7 @@ uid: 42932
 
 # cannot use online software
 
-by [beckman](../profile/beckman) | September 18, 2012 03:48
+by [beckman](../../../profile/beckman) | September 18, 2012 03:48
 
 September 18, 2012 03:48 | Tags: [bugs](../tag/bugs)
 

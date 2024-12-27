@@ -1,5 +1,7 @@
 ---
-title: "Wireless 001"\ntagnames: 'wireless, open-water, radio'
+title: "Wireless 001"
+
+tagnames: 'wireless, open-water, radio'
 author: donblair
 path: /notes/donblair/08-27-2015/wireless-001.md
 nid: 12175
@@ -11,7 +13,7 @@ uid: 43651
 
 # Wireless 001
 
-by [donblair](../profile/donblair) | August 27, 2015 18:53
+by [donblair](../../../profile/donblair) | August 27, 2015 18:53
 
 August 27, 2015 18:53 | Tags: [wireless](../tag/wireless), [open-water](../tag/open-water), [radio](../tag/radio)
 

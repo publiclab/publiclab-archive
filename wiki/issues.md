@@ -1,5 +1,7 @@
 ---
-title: "Issues"\ntagnames: 'website, troubleshooting, bugs, issues, parent:website, website-utilities'
+title: "Issues"
+
+tagnames: 'website, troubleshooting, bugs, issues, parent:website, website-utilities'
 author: warren
 path: /wiki/issues.md
 nid: 2104

@@ -1,5 +1,7 @@
 ---
-title: "MapMill Help"\ntagnames: 'help, mapmill, mapmill2, parent:mapmill, redirect:141'
+title: "MapMill Help"
+
+tagnames: 'help, mapmill, mapmill2, parent:mapmill, redirect:141'
 author: warren
 path: /wiki/mapmill-help.md
 nid: 11502

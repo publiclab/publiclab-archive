@@ -1,5 +1,7 @@
 ---
-title: "Outreachy Proposal: Overhaul, Improve, and Harmonize Public Lab's Comment Editor(s)!"\ntagnames: 'software, first-time-poster, response:23084, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687'
+title: "Outreachy Proposal: Overhaul, Improve, and Harmonize Public Lab's Comment Editor(s)!"
+
+tagnames: 'software, first-time-poster, response:23084, outreachy-winter-2020, outreachy-2020-winter-proposals, response:24687'
 author: noi5e
 path: /notes/noi5e/10-30-2020/outreachy-proposal-overhaul-improve-and-harmonize-public-lab-s-comment-editor-s.md
 nid: 24869
@@ -9,7 +11,7 @@ uid: 726270
 
 # Outreachy Proposal: Overhaul, Improve, and Harmonize Public Lab's Comment Editor(s)!
 
-by [noi5e](../profile/noi5e) | October 30, 2020 07:21
+by [noi5e](../../../profile/noi5e) | October 30, 2020 07:21
 
 October 30, 2020 07:21 | Tags: [software](../tag/software), [first-time-poster](../tag/first-time-poster), [response:23084](../tag/response:23084), [outreachy-winter-2020](../tag/outreachy-winter-2020), [outreachy-2020-winter-proposals](../tag/outreachy-2020-winter-proposals), [response:24687](../tag/response:24687)
 

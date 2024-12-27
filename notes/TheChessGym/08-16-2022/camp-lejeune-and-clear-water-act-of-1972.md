@@ -1,5 +1,7 @@
 ---
-title: "Camp Lejeune and Clear Water Act of 1972"\ntagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
+title: "Camp Lejeune and Clear Water Act of 1972"
+
+tagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/08-16-2022/camp-lejeune-and-clear-water-act-of-1972.md
 nid: 34882
@@ -11,7 +13,7 @@ uid: 788868
 
 # Camp Lejeune and Clear Water Act of 1972
 
-by [TheChessGym](../profile/TheChessGym) | August 16, 2022 13:31
+by [TheChessGym](../../../profile/TheChessGym) | August 16, 2022 13:31
 
 August 16, 2022 13:31 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

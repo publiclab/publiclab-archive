@@ -1,5 +1,7 @@
 ---
-title: "Data Validation of previous Eosin Y results for April/21/2016"\ntagnames: ''
+title: "Data Validation of previous Eosin Y results for April/21/2016"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-22-2016/data-validation-of-previous-eosin-y-results-for-april-21-2016.md
 nid: 13019
@@ -11,7 +13,7 @@ uid: 461120
 
 # Data Validation of previous Eosin Y results for April/21/2016
 
-by [dhaffnersr](../profile/dhaffnersr) | April 22, 2016 18:54
+by [dhaffnersr](../../../profile/dhaffnersr) | April 22, 2016 18:54
 
 April 22, 2016 18:54 | Tags: 
 

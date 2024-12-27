@@ -1,5 +1,7 @@
 ---
-title: "TetraPi: a well characterized multispectral camera"\ntagnames: 'ndvi, multispectral, mapping, raspberry-pi, camera, vegetation, barnstar:basic, barnstar:excessive-enthusiasm, tetrapi, imaging, pri, activity:raspberry-pi-infragram, activity:pi-camera'
+title: "TetraPi: a well characterized multispectral camera"
+
+tagnames: 'ndvi, multispectral, mapping, raspberry-pi, camera, vegetation, barnstar:basic, barnstar:excessive-enthusiasm, tetrapi, imaging, pri, activity:raspberry-pi-infragram, activity:pi-camera'
 author: khufkens
 path: /notes/khufkens/04-24-2015/tetrapi-a-well-characterized-multispectral-camera.md
 nid: 11767
@@ -11,7 +13,7 @@ uid: 438931
 
 # TetraPi: a well characterized multispectral camera
 
-by [khufkens](../profile/khufkens) | April 24, 2015 15:54
+by [khufkens](../../../profile/khufkens) | April 24, 2015 15:54
 
 April 24, 2015 15:54 | Tags: [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [mapping](../tag/mapping), [raspberry-pi](../tag/raspberry-pi), [camera](../tag/camera), [vegetation](../tag/vegetation), [barnstar:basic](../tag/barnstar:basic), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [tetrapi](../tag/tetrapi), [imaging](../tag/imaging), [pri](../tag/pri), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [activity:pi-camera](../tag/activity:pi-camera)
 

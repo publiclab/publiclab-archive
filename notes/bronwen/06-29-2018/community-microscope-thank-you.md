@@ -1,5 +1,7 @@
 ---
-title: "Community Microscope-- THANK YOU"\ntagnames: 'kits, kickstarter, blog, with:warren, microscope, community-kits, remixthemicroscope'
+title: "Community Microscope-- THANK YOU"
+
+tagnames: 'kits, kickstarter, blog, with:warren, microscope, community-kits, remixthemicroscope'
 author: Bronwen
 path: /notes/bronwen/06-29-2018/community-microscope-thank-you.md
 nid: 16590
@@ -11,7 +13,7 @@ uid: 237313
 
 # Community Microscope-- THANK YOU
 
-by [Bronwen](../profile/Bronwen) | June 29, 2018 16:50
+by [Bronwen](../../../profile/Bronwen) | June 29, 2018 16:50
 
 June 29, 2018 16:50 | Tags: [kits](../tag/kits), [kickstarter](../tag/kickstarter), [blog](../tag/blog), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [community-kits](../tag/community-kits), [remixthemicroscope](../tag/remixthemicroscope)
 

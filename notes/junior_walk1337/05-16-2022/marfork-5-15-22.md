@@ -1,5 +1,7 @@
 ---
-title: "Marfork 5/15/22"\ntagnames: 'drones, coal-mining, mmmp'
+title: "Marfork 5/15/22"
+
+tagnames: 'drones, coal-mining, mmmp'
 author: junior_walk1337
 path: /notes/junior_walk1337/05-16-2022/marfork-5-15-22.md
 nid: 30753
@@ -11,7 +13,7 @@ uid: 756318
 
 # Marfork 5/15/22
 
-by [junior_walk1337](../profile/junior_walk1337) | May 16, 2022 01:17
+by [junior_walk1337](../../../profile/junior_walk1337) | May 16, 2022 01:17
 
 May 16, 2022 01:17 | Tags: [drones](../tag/drones), [coal-mining](../tag/coal-mining), [mmmp](../tag/mmmp)
 

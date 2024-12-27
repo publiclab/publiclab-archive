@@ -1,5 +1,7 @@
 ---
-title: "ifarm-2013"\ntagnames: 'near-infrared-camera, ndvi, boston, lee, new-hampshire, infragram, ifarm'
+title: "ifarm-2013"
+
+tagnames: 'near-infrared-camera, ndvi, boston, lee, new-hampshire, infragram, ifarm'
 author: warren
 path: /wiki/ifarm-2013.md
 nid: 7711

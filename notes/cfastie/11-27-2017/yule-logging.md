@@ -1,5 +1,7 @@
 ---
-title: "Yule logging"\ntagnames: 'arduino, sensors, datalogger, data-logging, arduino-nano, nano-data-logger, 16x2_lcd, bme280, gy90615, activity:nano-data-logger, thermal-infrared, gy90614, series:woodstove-control'
+title: "Yule logging"
+
+tagnames: 'arduino, sensors, datalogger, data-logging, arduino-nano, nano-data-logger, 16x2_lcd, bme280, gy90615, activity:nano-data-logger, thermal-infrared, gy90614, series:woodstove-control'
 author: cfastie
 path: /notes/cfastie/11-27-2017/yule-logging.md
 nid: 15242
@@ -11,7 +13,7 @@ uid: 554
 
 # Yule logging
 
-by [cfastie](../profile/cfastie) | November 27, 2017 00:41
+by [cfastie](../../../profile/cfastie) | November 27, 2017 00:41
 
 November 27, 2017 00:41 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [data-logging](../tag/data-logging), [arduino-nano](../tag/arduino-nano), [nano-data-logger](../tag/nano-data-logger), [16x2_lcd](../tag/16x2_lcd), [bme280](../tag/bme280), [gy90615](../tag/gy90615), [activity:nano-data-logger](../tag/activity:nano-data-logger), [thermal-infrared](../tag/thermal-infrared), [gy90614](../tag/gy90614), [series:woodstove-control](../tag/series:woodstove-control)
 

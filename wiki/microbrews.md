@@ -1,5 +1,7 @@
 ---
-title: "Microbrews"\ntagnames: 'providence, workshop, event, microscopes, community-microscope, lat:41.821478, lon:-71.415939'
+title: "Microbrews"
+
+tagnames: 'providence, workshop, event, microscopes, community-microscope, lat:41.821478, lon:-71.415939'
 author: warren
 path: /wiki/microbrews.md
 nid: 17756

@@ -1,5 +1,7 @@
 ---
-title: "Removing a Raspberry Pi camera IR filter (learn from my mistakes)"\ntagnames: 'raspberry-pi, infragram, infragram-conversion, activity:raspberry-pi-infragram'
+title: "Removing a Raspberry Pi camera IR filter (learn from my mistakes)"
+
+tagnames: 'raspberry-pi, infragram, infragram-conversion, activity:raspberry-pi-infragram'
 author: mathew
 path: /notes/mathew/06-04-2013/removing-a-raspberry-pi-camera-ir-filter-learn-from-my-mistakes.md
 nid: 8049
@@ -11,7 +13,7 @@ uid: 4
 
 # Removing a Raspberry Pi camera IR filter (learn from my mistakes)
 
-by [mathew](../profile/mathew) | June 04, 2013 17:34
+by [mathew](../../../profile/mathew) | June 04, 2013 17:34
 
 June 04, 2013 17:34 | Tags: [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram)
 

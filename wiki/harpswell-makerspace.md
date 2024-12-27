@@ -1,5 +1,7 @@
 ---
-title: "Harpswell Makerspace"\ntagnames: 'makerspaces'
+title: "Harpswell Makerspace"
+
+tagnames: 'makerspaces'
 author: ajawitz
 path: /wiki/harpswell-makerspace.md
 nid: 9395

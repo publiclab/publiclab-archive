@@ -1,5 +1,7 @@
 ---
-title: "Spain"\ntagnames: 'spain, chapter, list:laboratoriopublico, events:spain, lat:39.895, lon:-4.024, lang:es, eu, europe'
+title: "Spain"
+
+tagnames: 'spain, chapter, list:laboratoriopublico, events:spain, lat:39.895, lon:-4.024, lang:es, eu, europe'
 author: pablo
 path: /wiki/spain.md
 nid: 10194

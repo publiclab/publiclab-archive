@@ -1,5 +1,7 @@
 ---
-title: "Python and openCV to analyze microscope slide images of airborne particles"\ntagnames: 'air-quality, pm, python, microscope, passive-particle-monitors, microscopy, opencv, particle-imaging'
+title: "Python and openCV to analyze microscope slide images of airborne particles"
+
+tagnames: 'air-quality, pm, python, microscope, passive-particle-monitors, microscopy, opencv, particle-imaging'
 author: amirberAgain
 path: /notes/amirberAgain/01-12-2018/python-and-opencv-to-analyze-microscope-slide-images-of-airborne-particles.md
 nid: 15519
@@ -11,7 +13,7 @@ uid: 420776
 
 # Python and openCV to analyze microscope slide images of airborne particles
 
-by [amirberAgain](../profile/amirberAgain) | January 12, 2018 23:21
+by [amirberAgain](../../../profile/amirberAgain) | January 12, 2018 23:21
 
 January 12, 2018 23:21 | Tags: [air-quality](../tag/air-quality), [pm](../tag/pm), [python](../tag/python), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [microscopy](../tag/microscopy), [opencv](../tag/opencv), [particle-imaging](../tag/particle-imaging)
 

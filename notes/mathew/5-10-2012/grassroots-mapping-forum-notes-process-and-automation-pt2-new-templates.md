@@ -1,5 +1,7 @@
 ---
-title: "Grassroots Mapping Forum: Notes on process and automation pt.2: new templates"\ntagnames: ''
+title: "Grassroots Mapping Forum: Notes on process and automation pt.2: new templates"
+
+tagnames: ''
 author: mathew
 path: /notes/mathew/5-10-2012/grassroots-mapping-forum-notes-process-and-automation-pt2-new-templates.md
 nid: 1955
@@ -11,7 +13,7 @@ uid: 4
 
 # Grassroots Mapping Forum: Notes on process and automation pt.2: new templates
 
-by [mathew](../profile/mathew) | May 11, 2012 01:01
+by [mathew](../../../profile/mathew) | May 11, 2012 01:01
 
 May 11, 2012 01:01 | Tags: 
 

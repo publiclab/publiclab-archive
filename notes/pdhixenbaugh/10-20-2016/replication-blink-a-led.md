@@ -1,5 +1,7 @@
 ---
-title: "(SPOILERS): Blink a LED"\ntagnames: 'replication:13632'
+title: "(SPOILERS): Blink a LED"
+
+tagnames: 'replication:13632'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/10-20-2016/replication-blink-a-led.md
 nid: 13633
@@ -11,7 +13,7 @@ uid: 459085
 
 # (SPOILERS): Blink a LED
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) | October 20, 2016 21:22
+by [pdhixenbaugh](../../../profile/pdhixenbaugh) | October 20, 2016 21:22
 
 October 20, 2016 21:22 | Tags: [replication:13632](../tag/replication:13632)
 

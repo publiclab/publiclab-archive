@@ -1,5 +1,7 @@
 ---
-title: "Taller de investigación fluvial DIY"\ntagnames: 'spain, workshop, event, events:spain, lang:es, open-water, event:rsvp, spanish, date:03-31-2018, lat:41.508577, lon:1.691894, place:ca-la-fou'
+title: "Taller de investigación fluvial DIY"
+
+tagnames: 'spain, workshop, event, events:spain, lang:es, open-water, event:rsvp, spanish, date:03-31-2018, lat:41.508577, lon:1.691894, place:ca-la-fou'
 author: imvec
 path: /notes/imvec/02-11-2018/taller-de-investigacion-fluvial-diy.md
 nid: 15715
@@ -11,7 +13,7 @@ uid: 495038
 
 # Taller de investigación fluvial DIY
 
-by [imvec](../profile/imvec) | February 11, 2018 18:25
+by [imvec](../../../profile/imvec) | February 11, 2018 18:25
 
 February 11, 2018 18:25 | Tags: [spain](../tag/spain), [workshop](../tag/workshop), [event](../tag/event), [events:spain](../tag/events:spain), [lang:es](../tag/lang:es), [open-water](../tag/open-water), [event:rsvp](../tag/event:rsvp), [spanish](../tag/spanish), [date:03-31-2018](../tag/date:03-31-2018), [lat:41.508577](../tag/lat:41.508577), [lon:1.691894](../tag/lon:1.691894), [place:ca-la-fou](../tag/place:ca-la-fou)
 

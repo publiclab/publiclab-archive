@@ -1,5 +1,7 @@
 ---
-title: "Solux 4700K Lamp Set Up"\ntagnames: ''
+title: "Solux 4700K Lamp Set Up"
+
+tagnames: ''
 author: dhaffnersr
 path: /wiki/solux-4700k-lamp-set-up.md
 nid: 13304

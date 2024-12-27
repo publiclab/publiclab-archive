@@ -1,5 +1,7 @@
 ---
-title: "Wisconsin "\ntagnames: 'wisconsin, tabbed:notes, location:blurred, lat:44, lon:-91'
+title: "Wisconsin "
+
+tagnames: 'wisconsin, tabbed:notes, location:blurred, lat:44, lon:-91'
 author: stevie
 path: /wiki/wisconsin.md
 nid: 12565

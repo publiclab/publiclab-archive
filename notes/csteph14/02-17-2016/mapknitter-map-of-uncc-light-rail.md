@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of Uncc light rail "\ntagnames: 'mapknitter, north-carolina, lat:35.3053942, lon:-80.7309334, first-time-poster'
+title: "MapKnitter map of Uncc light rail "
+
+tagnames: 'mapknitter, north-carolina, lat:35.3053942, lon:-80.7309334, first-time-poster'
 author: csteph14
 path: /notes/csteph14/02-17-2016/mapknitter-map-of-uncc-light-rail.md
 nid: 12698
@@ -11,7 +13,7 @@ uid: 465622
 
 # MapKnitter map of Uncc light rail 
 
-by [csteph14](../profile/csteph14) | February 17, 2016 04:50
+by [csteph14](../../../profile/csteph14) | February 17, 2016 04:50
 
 February 17, 2016 04:50 | Tags: [mapknitter](../tag/mapknitter), [north-carolina](../tag/north-carolina), [lat:35.3053942](../tag/lat:35.3053942), [lon:-80.7309334](../tag/lon:-80.7309334), [first-time-poster](../tag/first-time-poster)
 

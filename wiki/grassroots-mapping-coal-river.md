@@ -1,5 +1,7 @@
 ---
-title: "Grassroots Mapping Coal River"\ntagnames: 'balloon-mapping, grassrootsmappingwiki, mapping, mining, mine-reclamation-photography'
+title: "Grassroots Mapping Coal River"
+
+tagnames: 'balloon-mapping, grassrootsmappingwiki, mapping, mining, mine-reclamation-photography'
 author: warren
 path: /wiki/grassroots-mapping-coal-river.md
 nid: 1731

@@ -1,5 +1,7 @@
 ---
-title: "Remove lens distortion from photos with FisheyeGL"\ntagnames: 'nasa, infragram, fisheye, gopro, mobius, mobius-action-cam, javascript, lens-distortion, web-based, browser, activity:mobius, activity:mini-balloon-kit, activity:mini-kite-kit, activity:aerial-mapping, response:13826, activity:lens-distortion, aren, lens-swapping, lens-correction, activity:lens-correction, activity:mobius-action-cam, activity:infragram-point-shoot, mini-camera, activity:mini-camera'
+title: "Remove lens distortion from photos with FisheyeGL"
+
+tagnames: 'nasa, infragram, fisheye, gopro, mobius, mobius-action-cam, javascript, lens-distortion, web-based, browser, activity:mobius, activity:mini-balloon-kit, activity:mini-kite-kit, activity:aerial-mapping, response:13826, activity:lens-distortion, aren, lens-swapping, lens-correction, activity:lens-correction, activity:mobius-action-cam, activity:infragram-point-shoot, mini-camera, activity:mini-camera'
 author: warren
 path: /notes/warren/08-25-2017/remove-lens-distortion-from-photos-with-fisheyegl.md
 nid: 14792
@@ -11,7 +13,7 @@ uid: 1
 
 # Remove lens distortion from photos with FisheyeGL
 
-by [warren](../profile/warren) | August 25, 2017 16:04
+by [warren](../../../profile/warren) | August 25, 2017 16:04
 
 August 25, 2017 16:04 | Tags: [nasa](../tag/nasa), [infragram](../tag/infragram), [fisheye](../tag/fisheye), [gopro](../tag/gopro), [mobius](../tag/mobius), [mobius-action-cam](../tag/mobius-action-cam), [javascript](../tag/javascript), [lens-distortion](../tag/lens-distortion), [web-based](../tag/web-based), [browser](../tag/browser), [activity:mobius](../tag/activity:mobius), [activity:mini-balloon-kit](../tag/activity:mini-balloon-kit), [activity:mini-kite-kit](../tag/activity:mini-kite-kit), [activity:aerial-mapping](../tag/activity:aerial-mapping), [response:13826](../tag/response:13826), [activity:lens-distortion](../tag/activity:lens-distortion), [aren](../tag/aren), [lens-swapping](../tag/lens-swapping), [lens-correction](../tag/lens-correction), [activity:lens-correction](../tag/activity:lens-correction), [activity:mobius-action-cam](../tag/activity:mobius-action-cam), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera)
 

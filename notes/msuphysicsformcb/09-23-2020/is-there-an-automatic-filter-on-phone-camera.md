@@ -1,5 +1,7 @@
 ---
-title: "Is there an automatic filter on phone camera?"\ntagnames: 'spectrometer, question:spectrometer, dvd, question:general, general, question:dvd'
+title: "Is there an automatic filter on phone camera?"
+
+tagnames: 'spectrometer, question:spectrometer, dvd, question:general, general, question:dvd'
 author: msuphysicsformcb
 path: /notes/msuphysicsformcb/09-23-2020/is-there-an-automatic-filter-on-phone-camera.md
 nid: 24637
@@ -9,7 +11,7 @@ uid: 720360
 
 # Is there an automatic filter on phone camera?
 
-by [msuphysicsformcb](../profile/msuphysicsformcb) | September 23, 2020 23:09
+by [msuphysicsformcb](../../../profile/msuphysicsformcb) | September 23, 2020 23:09
 
 September 23, 2020 23:09 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometer](../tag/question:spectrometer), [dvd](../tag/dvd), [question:general](../tag/question:general), [general](../tag/general), [question:dvd](../tag/question:dvd)
 

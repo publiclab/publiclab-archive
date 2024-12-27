@@ -1,5 +1,7 @@
 ---
-title: "conductivity sensor electrolysis a concern in moving water?  "\ntagnames: 'water-sensing, water-monitoring, conductivity, riffle, open-water, 555, answered, question:general, response:12569'
+title: "conductivity sensor electrolysis a concern in moving water?  "
+
+tagnames: 'water-sensing, water-monitoring, conductivity, riffle, open-water, 555, answered, question:general, response:12569'
 author: MadTinker
 path: /notes/MadTinker/02-10-2018/conductivity-sensor-electrolysis-a-concern-in-moving-water.md
 nid: 15712
@@ -9,7 +11,7 @@ uid: 461206
 
 # conductivity sensor electrolysis a concern in moving water?  
 
-by [MadTinker](../profile/MadTinker) | February 10, 2018 20:01
+by [MadTinker](../../../profile/MadTinker) | February 10, 2018 20:01
 
 February 10, 2018 20:01 | Tags: [water-sensing](../tag/water-sensing), [water-monitoring](../tag/water-monitoring), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [open-water](../tag/open-water), [555](../tag/555), [answered](../tag/answered), [question:general](../tag/question:general), [response:12569](../tag/response:12569)
 

@@ -1,5 +1,7 @@
 ---
-title: "Prototype DIY glove box"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen'
+title: "Prototype DIY glove box"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen'
 author: warren
 path: /notes/warren/7-27-2012/prototype-diy-glove-box.md
 nid: 2971
@@ -11,7 +13,7 @@ uid: 1
 
 # Prototype DIY glove box
 
-by [warren](../profile/warren) | July 27, 2012 17:29
+by [warren](../../../profile/warren) | July 27, 2012 17:29
 
 July 27, 2012 17:29 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen](../tag/hydrogen)
 

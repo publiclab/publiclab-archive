@@ -1,5 +1,7 @@
 ---
-title: "Bluelight Spectrometry Kit "\ntagnames: 'spectrometry, korea'
+title: "Bluelight Spectrometry Kit "
+
+tagnames: 'spectrometry, korea'
 author: gangrin
 path: /notes/gangrin/09-28-2015/bluelight-spectrometry-kit.md
 nid: 12248
@@ -11,7 +13,7 @@ uid: 452627
 
 # Bluelight Spectrometry Kit 
 
-by [gangrin](../profile/gangrin) | September 28, 2015 07:24
+by [gangrin](../../../profile/gangrin) | September 28, 2015 07:24
 
 September 28, 2015 07:24 | Tags: [spectrometry](../tag/spectrometry), [korea](../tag/korea)
 

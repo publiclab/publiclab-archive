@@ -1,5 +1,7 @@
 ---
-title: "oil"\ntagnames: 'redirect:oil-and-gas'
+title: "oil"
+
+tagnames: 'redirect:oil-and-gas'
 author: liz
 path: /wiki/oil.md
 nid: 17972

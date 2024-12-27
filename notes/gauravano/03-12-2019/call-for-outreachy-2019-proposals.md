@@ -1,5 +1,7 @@
 ---
-title: "Call for Outreachy 2019 proposals!"\ntagnames: 'software, code, with:warren, wwg, software-outreach, soc, outreachy, call-for-proposals, proposals, response:17359, call-, outreachy-2019'
+title: "Call for Outreachy 2019 proposals!"
+
+tagnames: 'software, code, with:warren, wwg, software-outreach, soc, outreachy, call-for-proposals, proposals, response:17359, call-, outreachy-2019'
 author: gauravano
 path: /notes/gauravano/03-12-2019/call-for-outreachy-2019-proposals.md
 nid: 18518
@@ -11,7 +13,7 @@ uid: 515081
 
 # Call for Outreachy 2019 proposals!
 
-by [gauravano](../profile/gauravano) | March 11, 2019 23:43
+by [gauravano](../../../profile/gauravano) | March 11, 2019 23:43
 
 March 11, 2019 23:43 | Tags: [software](../tag/software), [code](../tag/code), [with:warren](../tag/with:warren), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [proposals](../tag/proposals), [response:17359](../tag/response:17359), [call-](../tag/call-), [outreachy-2019](../tag/outreachy-2019)
 

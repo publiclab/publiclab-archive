@@ -1,5 +1,7 @@
 ---
-title: "Mobius, stripped"\ntagnames: 'near-infrared-camera, ndvi, infragram, histogram, infragram-conversion, infragram-sandbox, mobius-actioncam, rcgroups, response:9293'
+title: "Mobius, stripped"
+
+tagnames: 'near-infrared-camera, ndvi, infragram, histogram, infragram-conversion, infragram-sandbox, mobius-actioncam, rcgroups, response:9293'
 author: cfastie
 path: /notes/cfastie/09-06-2013/mobius-stripped.md
 nid: 9296
@@ -11,7 +13,7 @@ uid: 554
 
 # Mobius, stripped
 
-by [cfastie](../profile/cfastie) | September 06, 2013 01:13
+by [cfastie](../../../profile/cfastie) | September 06, 2013 01:13
 
 September 06, 2013 01:13 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [histogram](../tag/histogram), [infragram-conversion](../tag/infragram-conversion), [infragram-sandbox](../tag/infragram-sandbox), [mobius-actioncam](../tag/mobius-actioncam), [rcgroups](../tag/rcgroups), [response:9293](../tag/response:9293)
 

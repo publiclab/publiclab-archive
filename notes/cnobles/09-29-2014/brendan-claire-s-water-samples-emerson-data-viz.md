@@ -1,5 +1,7 @@
 ---
-title: "Brendan & Claire's Water Samples -- Emerson Data Viz  "\ntagnames: 'boston, water-quality, northeast, first-time-poster'
+title: "Brendan & Claire's Water Samples -- Emerson Data Viz  "
+
+tagnames: 'boston, water-quality, northeast, first-time-poster'
 author: cnobles
 path: /notes/cnobles/09-29-2014/brendan-claire-s-water-samples-emerson-data-viz.md
 nid: 11204
@@ -11,7 +13,7 @@ uid: 427857
 
 # Brendan & Claire's Water Samples -- Emerson Data Viz  
 
-by [cnobles](../profile/cnobles) | September 29, 2014 17:05
+by [cnobles](../../../profile/cnobles) | September 29, 2014 17:05
 
 September 29, 2014 17:05 | Tags: [boston](../tag/boston), [water-quality](../tag/water-quality), [northeast](../tag/northeast), [first-time-poster](../tag/first-time-poster)
 

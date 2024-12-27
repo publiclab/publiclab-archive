@@ -1,5 +1,7 @@
 ---
-title: "NRG image of Lima from balloon"\ntagnames: 'lima, balloon-mapping, near-infrared-camera, peru, nrg, morflex'
+title: "NRG image of Lima from balloon"
+
+tagnames: 'lima, balloon-mapping, near-infrared-camera, peru, nrg, morflex'
 author: warren
 path: /notes/warren/1-27-2011/nrg-image-lima-balloon.md
 nid: 64
@@ -11,7 +13,7 @@ uid: 1
 
 # NRG image of Lima from balloon
 
-by [warren](../profile/warren) | January 27, 2011 18:15
+by [warren](../../../profile/warren) | January 27, 2011 18:15
 
 January 27, 2011 18:15 | Tags: [lima](../tag/lima), [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [peru](../tag/peru), [nrg](../tag/nrg), [morflex](../tag/morflex)
 

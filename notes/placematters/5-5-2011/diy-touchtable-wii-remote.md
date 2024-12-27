@@ -1,5 +1,7 @@
 ---
-title: "DIY Touchtable with Wii Remote"\ntagnames: 'urban-planning, touchtable'
+title: "DIY Touchtable with Wii Remote"
+
+tagnames: 'urban-planning, touchtable'
 author: PlaceMatters
 path: /notes/placematters/5-5-2011/diy-touchtable-wii-remote.md
 nid: 610
@@ -11,7 +13,7 @@ uid: 140
 
 # DIY Touchtable with Wii Remote
 
-by [PlaceMatters](../profile/PlaceMatters) | May 05, 2011 09:22
+by [PlaceMatters](../../../profile/PlaceMatters) | May 05, 2011 09:22
 
 May 05, 2011 09:22 | Tags: [urban-planning](../tag/urban-planning), [touchtable](../tag/touchtable)
 

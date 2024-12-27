@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of UNCC Renovations"\ntagnames: ''
+title: "MapKnitter map of UNCC Renovations"
+
+tagnames: ''
 author: awelch18
 path: /notes/awelch18/10-04-2016/mapknitter-map-of-uncc-renovations.md
 nid: 13519
@@ -11,7 +13,7 @@ uid: 493086
 
 # MapKnitter map of UNCC Renovations
 
-by [awelch18](../profile/awelch18) | October 04, 2016 02:15
+by [awelch18](../../../profile/awelch18) | October 04, 2016 02:15
 
 October 04, 2016 02:15 | Tags: 
 

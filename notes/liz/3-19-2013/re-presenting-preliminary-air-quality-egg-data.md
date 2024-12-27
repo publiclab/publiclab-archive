@@ -1,5 +1,7 @@
 ---
-title: "Re-presenting preliminary Air Quality Egg data"\ntagnames: 'new-york-city, chaq, air-quality, air-quality-egg'
+title: "Re-presenting preliminary Air Quality Egg data"
+
+tagnames: 'new-york-city, chaq, air-quality, air-quality-egg'
 author: liz
 path: /notes/liz/3-19-2013/re-presenting-preliminary-air-quality-egg-data.md
 nid: 6437
@@ -11,7 +13,7 @@ uid: 7
 
 # Re-presenting preliminary Air Quality Egg data
 
-by [liz](../profile/liz) | March 19, 2013 19:28
+by [liz](../../../profile/liz) | March 19, 2013 19:28
 
 March 19, 2013 19:28 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
 

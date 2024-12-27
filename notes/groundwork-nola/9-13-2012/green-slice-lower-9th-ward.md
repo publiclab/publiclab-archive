@@ -1,5 +1,7 @@
 ---
-title: "Green Slice- Lower 9th Ward"\ntagnames: 'balloon-mapping, green-slice, groundwork-nola, first-time-poster'
+title: "Green Slice- Lower 9th Ward"
+
+tagnames: 'balloon-mapping, green-slice, groundwork-nola, first-time-poster'
 author: GroundworkNola
 path: /notes/groundwork-nola/9-13-2012/green-slice-lower-9th-ward.md
 nid: 3801
@@ -9,7 +11,7 @@ uid: 41249
 
 # Green Slice- Lower 9th Ward
 
-by [GroundworkNola](../profile/GroundworkNola) | September 13, 2012 20:45
+by [GroundworkNola](../../../profile/GroundworkNola) | September 13, 2012 20:45
 
 September 13, 2012 20:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [green-slice](../tag/green-slice), [groundwork-nola](../tag/groundwork-nola), [first-time-poster](../tag/first-time-poster)
 

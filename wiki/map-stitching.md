@@ -1,5 +1,7 @@
 ---
-title: "Map Stitching"\ntagnames: ''
+title: "Map Stitching"
+
+tagnames: ''
 author: warren
 path: /wiki/map-stitching.md
 nid: 63

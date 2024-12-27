@@ -1,5 +1,7 @@
 ---
-title: "Infragram - Legacy sandbox formula"\ntagnames: 'question:general, first-time-poster'
+title: "Infragram - Legacy sandbox formula"
+
+tagnames: 'question:general, first-time-poster'
 author: mrodriguezorejuela
 path: /notes/mrodriguezorejuela/09-11-2018/infagram-legacy-sandbox-formula.md
 nid: 17089
@@ -9,7 +11,7 @@ uid: 550339
 
 # Infragram - Legacy sandbox formula
 
-by [mrodriguezorejuela](../profile/mrodriguezorejuela) | September 11, 2018 13:03
+by [mrodriguezorejuela](../../../profile/mrodriguezorejuela) | September 11, 2018 13:03
 
 September 11, 2018 13:03 | Tags: [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 

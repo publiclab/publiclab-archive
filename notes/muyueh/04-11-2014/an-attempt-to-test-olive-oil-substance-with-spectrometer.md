@@ -1,5 +1,7 @@
 ---
-title: "An attempt to test olive oil substance with spectrometer. "\ntagnames: 'spectrometer, oil, asia, olive-oil, taipei, first-time-poster'
+title: "An attempt to test olive oil substance with spectrometer. "
+
+tagnames: 'spectrometer, oil, asia, olive-oil, taipei, first-time-poster'
 author: muyueh
 path: /notes/muyueh/04-11-2014/an-attempt-to-test-olive-oil-substance-with-spectrometer.md
 nid: 10295
@@ -11,7 +13,7 @@ uid: 422365
 
 # An attempt to test olive oil substance with spectrometer. 
 
-by [muyueh](../profile/muyueh) | April 11, 2014 03:19
+by [muyueh](../../../profile/muyueh) | April 11, 2014 03:19
 
 April 11, 2014 03:19 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [asia](../tag/asia), [olive-oil](../tag/olive-oil), [taipei](../tag/taipei), [first-time-poster](../tag/first-time-poster)
 

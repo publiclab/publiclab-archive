@@ -1,5 +1,7 @@
 ---
-title: "salisbury-swamp-n--ndvi"\ntagnames: ''
+title: "salisbury-swamp-n--ndvi"
+
+tagnames: ''
 author: 
 path: /notes/5-8-2012/salisbury-swamp-n-ndvi.md
 nid: 2093
@@ -11,7 +13,7 @@ uid: 0
 
 # salisbury-swamp-n--ndvi
 
-by [](../profile/) | May 09, 2012 03:05
+by [](../../../profile/) | May 09, 2012 03:05
 
 May 09, 2012 03:05 | Tags: 
 

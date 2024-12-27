@@ -1,5 +1,7 @@
 ---
-title: "Spectroscopy & My Life So Far"\ntagnames: 'spectrometer, spectral-analysis, openaccess, opendata, openinstrument, opentools, opendesign, commons-based-peer-production, systems-integration, openresearch, openscience, first-time-poster'
+title: "Spectroscopy & My Life So Far"
+
+tagnames: 'spectrometer, spectral-analysis, openaccess, opendata, openinstrument, opentools, opendesign, commons-based-peer-production, systems-integration, openresearch, openscience, first-time-poster'
 author: 31gane
 path: /notes/31gane/12-28-2017/spectroscopy-my-life-so-far.md
 nid: 15440
@@ -11,7 +13,7 @@ uid: 420044
 
 # Spectroscopy & My Life So Far
 
-by [31gane](../profile/31gane) | December 28, 2017 11:12
+by [31gane](../../../profile/31gane) | December 28, 2017 11:12
 
 December 28, 2017 11:12 | Tags: [spectrometer](../tag/spectrometer), [spectral-analysis](../tag/spectral-analysis), [openaccess](../tag/openaccess), [opendata](../tag/opendata), [openinstrument](../tag/openinstrument), [opentools](../tag/opentools), [opendesign](../tag/opendesign), [commons-based-peer-production](../tag/commons-based-peer-production), [systems-integration](../tag/systems-integration), [openresearch](../tag/openresearch), [openscience](../tag/openscience), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "2011-4-22 california - palo alto - wherecamp"\ntagnames: 'california'
+title: "2011-4-22 california - palo alto - wherecamp"
+
+tagnames: 'california'
 author: gonzoearth
 path: /notes/gonzoearth/4-23-2011/2011-4-22-california-palo-alto-wherecamp.md
 nid: 190
@@ -11,7 +13,7 @@ uid: 12
 
 # 2011-4-22 california - palo alto - wherecamp
 
-by [gonzoearth](../profile/gonzoearth) | April 23, 2011 16:01
+by [gonzoearth](../../../profile/gonzoearth) | April 23, 2011 16:01
 
 April 23, 2011 16:01 | Tags: [california](../tag/california)
 

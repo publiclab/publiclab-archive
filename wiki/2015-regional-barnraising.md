@@ -1,5 +1,7 @@
 ---
-title: "2015 Regional Barnraising "\ntagnames: 'barnraising, chicago, midwest, mid-west, regionalbarnraising'
+title: "2015 Regional Barnraising "
+
+tagnames: 'barnraising, chicago, midwest, mid-west, regionalbarnraising'
 author: stevie
 path: /wiki/2015-regional-barnraising.md
 nid: 11987

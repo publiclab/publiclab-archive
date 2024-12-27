@@ -1,5 +1,7 @@
 ---
-title: "share"\ntagnames: 'redirect:spread-the-word-this-holiday-season'
+title: "share"
+
+tagnames: 'redirect:spread-the-word-this-holiday-season'
 author: joyofsoy
 path: /wiki/share.md
 nid: 17804

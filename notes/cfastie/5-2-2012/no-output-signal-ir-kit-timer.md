@@ -1,5 +1,7 @@
 ---
-title: "No output signal on IR kit timer"\ntagnames: 'near-infrared-camera, triggering, debugging, troubleshooting, 555-timer'
+title: "No output signal on IR kit timer"
+
+tagnames: 'near-infrared-camera, triggering, debugging, troubleshooting, 555-timer'
 author: cfastie
 path: /notes/cfastie/5-2-2012/no-output-signal-ir-kit-timer.md
 nid: 1891
@@ -11,7 +13,7 @@ uid: 554
 
 # No output signal on IR kit timer
 
-by [cfastie](../profile/cfastie) | May 02, 2012 17:24
+by [cfastie](../../../profile/cfastie) | May 02, 2012 17:24
 
 May 02, 2012 17:24 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [triggering](../tag/triggering), [debugging](../tag/debugging), [troubleshooting](../tag/troubleshooting), [555-timer](../tag/555-timer)
 

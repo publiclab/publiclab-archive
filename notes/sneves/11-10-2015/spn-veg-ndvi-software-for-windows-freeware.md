@@ -1,5 +1,7 @@
 ---
-title: "SPN-VEG - NDVI software for windows freeware"\ntagnames: 'ndvi, software'
+title: "SPN-VEG - NDVI software for windows freeware"
+
+tagnames: 'ndvi, software'
 author: sneves
 path: /notes/sneves/11-10-2015/spn-veg-ndvi-software-for-windows-freeware.md
 nid: 12393
@@ -11,7 +13,7 @@ uid: 450683
 
 # SPN-VEG - NDVI software for windows freeware
 
-by [sneves](../profile/sneves) | November 10, 2015 13:56
+by [sneves](../../../profile/sneves) | November 10, 2015 13:56
 
 November 10, 2015 13:56 | Tags: [ndvi](../tag/ndvi), [software](../tag/software)
 

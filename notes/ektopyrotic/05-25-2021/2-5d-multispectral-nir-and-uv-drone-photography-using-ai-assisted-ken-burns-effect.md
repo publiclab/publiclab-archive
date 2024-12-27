@@ -1,5 +1,7 @@
 ---
-title: "2.5D Multispectral (NIR and UV) Drone Photography Using AI-Assisted Ken Burns Effect"\ntagnames: '3d, nir, photography, uv, processing, drone, lat:28, image, visual, inspection, zoom:6, lon:-15'
+title: "2.5D Multispectral (NIR and UV) Drone Photography Using AI-Assisted Ken Burns Effect"
+
+tagnames: '3d, nir, photography, uv, processing, drone, lat:28, image, visual, inspection, zoom:6, lon:-15'
 author: ektopyrotic
 path: /notes/ektopyrotic/05-25-2021/2-5d-multispectral-nir-and-uv-drone-photography-using-ai-assisted-ken-burns-effect.md
 nid: 26703
@@ -9,7 +11,7 @@ uid: 699450
 
 # 2.5D Multispectral (NIR and UV) Drone Photography Using AI-Assisted Ken Burns Effect
 
-by [ektopyrotic](../profile/ektopyrotic) | May 25, 2021 17:44
+by [ektopyrotic](../../../profile/ektopyrotic) | May 25, 2021 17:44
 
 May 25, 2021 17:44 | Tags: [3d](../tag/3d), [nir](../tag/nir), [photography](../tag/photography), [uv](../tag/uv), [processing](../tag/processing), [drone](../tag/drone), [lat:28](../tag/lat:28), [image](../tag/image), [visual](../tag/visual), [inspection](../tag/inspection), [zoom:6](../tag/zoom:6), [lon:-15](../tag/lon:-15)
 

@@ -1,5 +1,7 @@
 ---
-title: "See the Fraunhofer absorption lines in sunlight"\ntagnames: 'spectrometer, ecohack, spectrometry, activity:spectrometry, difficulty:easy, activity:dssk, activity:foldable-spec, category:verify, category:observe, time:1h, response:6168, status:draft, activity:education, activity:science-fair, activity:classroom, activity:papercraft-spec, pin:spectrometry'
+title: "See the Fraunhofer absorption lines in sunlight"
+
+tagnames: 'spectrometer, ecohack, spectrometry, activity:spectrometry, difficulty:easy, activity:dssk, activity:foldable-spec, category:verify, category:observe, time:1h, response:6168, status:draft, activity:education, activity:science-fair, activity:classroom, activity:papercraft-spec, pin:spectrometry'
 author: warren
 path: /notes/warren/09-18-2016/see-the-fraunhofer-absorption-lines-in-sunlight.md
 nid: 13460
@@ -11,7 +13,7 @@ uid: 1
 
 # See the Fraunhofer absorption lines in sunlight
 
-by [warren](../profile/warren) | September 18, 2016 14:44
+by [warren](../../../profile/warren) | September 18, 2016 14:44
 
 September 18, 2016 14:44 | Tags: [spectrometer](../tag/spectrometer), [ecohack](../tag/ecohack), [spectrometry](../tag/spectrometry), [activity:spectrometry](../tag/activity:spectrometry), [difficulty:easy](../tag/difficulty:easy), [activity:dssk](../tag/activity:dssk), [activity:foldable-spec](../tag/activity:foldable-spec), [category:verify](../tag/category:verify), [category:observe](../tag/category:observe), [time:1h](../tag/time:1h), [response:6168](../tag/response:6168), [status:draft](../tag/status:draft), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [activity:papercraft-spec](../tag/activity:papercraft-spec), [pin:spectrometry](../tag/pin:spectrometry)
 

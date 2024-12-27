@@ -1,5 +1,7 @@
 ---
-title: "Follow up on faucet cover camera enclosure"\ntagnames: 'balloon-mapping, near-infrared-camera, multiple-camera, photo-rig, activity:photo-rig'
+title: "Follow up on faucet cover camera enclosure"
+
+tagnames: 'balloon-mapping, near-infrared-camera, multiple-camera, photo-rig, activity:photo-rig'
 author: patcoyle
 path: /notes/patcoyle/5-18-2012/follow-faucet-cover-camera-enclosure.md
 nid: 2126
@@ -11,7 +13,7 @@ uid: 77
 
 # Follow up on faucet cover camera enclosure
 
-by [patcoyle](../profile/patcoyle) | May 18, 2012 06:39
+by [patcoyle](../../../profile/patcoyle) | May 18, 2012 06:39
 
 May 18, 2012 06:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [multiple-camera](../tag/multiple-camera), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig)
 

@@ -1,5 +1,7 @@
 ---
-title: "Spectra Workbench for offline use?"\ntagnames: 'spectrometer, spectralworkbench, software-deployment, offline'
+title: "Spectra Workbench for offline use?"
+
+tagnames: 'spectrometer, spectralworkbench, software-deployment, offline'
 author: drabanus
 path: /notes/drabanus/6-4-2013/spectra-workbench-offline-use.md
 nid: 8047
@@ -9,7 +11,7 @@ uid: 88958
 
 # Spectra Workbench for offline use?
 
-by [drabanus](../profile/drabanus) | June 04, 2013 17:02
+by [drabanus](../../../profile/drabanus) | June 04, 2013 17:02
 
 June 04, 2013 17:02 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [software-deployment](../tag/software-deployment), [offline](../tag/offline)
 

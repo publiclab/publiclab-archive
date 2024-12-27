@@ -1,5 +1,7 @@
 ---
-title: "More tests for "hamster ball" air quality monitoring"\ntagnames: 'indoor-air-quality-mapping, hamster-ball, air-quality, air-sensors'
+title: "More tests for "hamster ball" air quality monitoring"
+
+tagnames: 'indoor-air-quality-mapping, hamster-ball, air-quality, air-sensors'
 author: warren
 path: /notes/warren/2-7-2012/more-tests-hamster-ball-air-quality-monitoring.md
 nid: 761
@@ -11,7 +13,7 @@ uid: 1
 
 # More tests for "hamster ball" air quality monitoring
 
-by [warren](../profile/warren) | February 07, 2012 16:31
+by [warren](../../../profile/warren) | February 07, 2012 16:31
 
 February 07, 2012 16:31 | Tags: [indoor-air-quality-mapping](../tag/indoor-air-quality-mapping), [hamster-ball](../tag/hamster-ball), [air-quality](../tag/air-quality), [air-sensors](../tag/air-sensors)
 

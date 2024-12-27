@@ -1,5 +1,7 @@
 ---
-title: "Passive Particulate Tool Development"\ntagnames: 'parent:pm'
+title: "Passive Particulate Tool Development"
+
+tagnames: 'parent:pm'
 author: mathew
 path: /wiki/pm-dev.md
 nid: 12689

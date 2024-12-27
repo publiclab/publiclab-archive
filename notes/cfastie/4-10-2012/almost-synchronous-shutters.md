@@ -1,5 +1,7 @@
 ---
-title: "Almost synchronous shutters"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, triggering, chdk, synchrony'
+title: "Almost synchronous shutters"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, triggering, chdk, synchrony'
 author: cfastie
 path: /notes/cfastie/4-10-2012/almost-synchronous-shutters.md
 nid: 1652
@@ -11,7 +13,7 @@ uid: 554
 
 # Almost synchronous shutters
 
-by [cfastie](../profile/cfastie) | April 10, 2012 21:06
+by [cfastie](../../../profile/cfastie) | April 10, 2012 21:06
 
 April 10, 2012 21:06 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [triggering](../tag/triggering), [chdk](../tag/chdk), [synchrony](../tag/synchrony)
 

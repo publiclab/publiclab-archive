@@ -1,5 +1,7 @@
 ---
-title: "marsh-H2S videos and some graphics"\ntagnames: 'hydrogen-sulfide-sensing'
+title: "marsh-H2S videos and some graphics"
+
+tagnames: 'hydrogen-sulfide-sensing'
 author: eustatic
 path: /7-11-2012/marsh-h2s-videos-and-some-graphics.md
 nid: 2760
@@ -9,7 +11,7 @@ uid: 379
 
 # marsh-H2S videos and some graphics
 
-by [eustatic](../profile/eustatic) | July 11, 2012 22:30
+by [eustatic](../../../profile/eustatic) | July 11, 2012 22:30
 
 July 11, 2012 22:30 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 

@@ -1,5 +1,7 @@
 ---
-title: "T-bracket Dual Camera Rig"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, photo-rig'
+title: "T-bracket Dual Camera Rig"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping, photo-rig'
 author: warren
 path: /wiki/t-bracket-dual-camera-rig.md
 nid: 832

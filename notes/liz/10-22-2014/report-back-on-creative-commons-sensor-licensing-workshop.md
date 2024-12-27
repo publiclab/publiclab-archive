@@ -1,5 +1,7 @@
 ---
-title: "Report back on Creative Commons Sensor licensing workshop"\ntagnames: 'new-york-city, open-source, licensing, event, sensors, licenses, creativecommons, sensor-networks'
+title: "Report back on Creative Commons Sensor licensing workshop"
+
+tagnames: 'new-york-city, open-source, licensing, event, sensors, licenses, creativecommons, sensor-networks'
 author: liz
 path: /notes/liz/10-22-2014/report-back-on-creative-commons-sensor-licensing-workshop.md
 nid: 11291
@@ -11,7 +13,7 @@ uid: 7
 
 # Report back on Creative Commons Sensor licensing workshop
 
-by [liz](../profile/liz) | October 22, 2014 16:37
+by [liz](../../../profile/liz) | October 22, 2014 16:37
 
 October 22, 2014 16:37 | Tags: [new-york-city](../tag/new-york-city), [open-source](../tag/open-source), [licensing](../tag/licensing), [event](../tag/event), [sensors](../tag/sensors), [licenses](../tag/licenses), [creativecommons](../tag/creativecommons), [sensor-networks](../tag/sensor-networks)
 

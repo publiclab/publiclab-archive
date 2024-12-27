@@ -1,5 +1,7 @@
 ---
-title: "Public Lab History"\ntagnames: 'nonprofit, history'
+title: "Public Lab History"
+
+tagnames: 'nonprofit, history'
 author: Shannon
 path: /wiki/plots-history.md
 nid: 617

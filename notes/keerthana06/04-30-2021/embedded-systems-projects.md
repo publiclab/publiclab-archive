@@ -1,5 +1,7 @@
 ---
-title: "Embedded Systems Projects"\ntagnames: 'first-time-poster'
+title: "Embedded Systems Projects"
+
+tagnames: 'first-time-poster'
 author: keerthana06
 path: /notes/keerthana06/04-30-2021/embedded-systems-projects.md
 nid: 26415
@@ -11,7 +13,7 @@ uid: 754722
 
 # Embedded Systems Projects
 
-by [keerthana06](../profile/keerthana06) | April 30, 2021 09:25
+by [keerthana06](../../../profile/keerthana06) | April 30, 2021 09:25
 
 April 30, 2021 09:25 | Tags: [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "More thermal flashlight images"\ntagnames: ''
+title: "More thermal flashlight images"
+
+tagnames: ''
 author: warren
 path: /notes/warren/12-31-2011/more-thermal-flashlight-images.md
 nid: 672
@@ -11,7 +13,7 @@ uid: 1
 
 # More thermal flashlight images
 
-by [warren](../profile/warren) | December 31, 2011 18:28
+by [warren](../../../profile/warren) | December 31, 2011 18:28
 
 December 31, 2011 18:28 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Question: Infragram point & shoot image"\ntagnames: 'white-balance, question:infragram, question:white-balance, question:infragram-point-shoot, question:infragram-white-balance'
+title: "Question: Infragram point & shoot image"
+
+tagnames: 'white-balance, question:infragram, question:white-balance, question:infragram-point-shoot, question:infragram-white-balance'
 author: ino
 path: /notes/ino/05-05-2016/question-infragram-point-shoot-image.md
 nid: 13082
@@ -11,7 +13,7 @@ uid: 468582
 
 # Question: Infragram point & shoot image
 
-by [ino](../profile/ino) | May 05, 2016 22:36
+by [ino](../../../profile/ino) | May 05, 2016 22:36
 
 May 05, 2016 22:36 | Tags: [white-balance](../tag/white-balance), [question:infragram](../tag/question:infragram), [question:white-balance](../tag/question:white-balance), [question:infragram-point-shoot](../tag/question:infragram-point-shoot), [question:infragram-white-balance](../tag/question:infragram-white-balance)
 

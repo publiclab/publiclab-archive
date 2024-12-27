@@ -1,5 +1,7 @@
 ---
-title: "Emerson Data Visualization Water Samples "\ntagnames: 'water-quality, first-time-poster'
+title: "Emerson Data Visualization Water Samples "
+
+tagnames: 'water-quality, first-time-poster'
 author: cassandrasue_
 path: /notes/cassandrasue_/09-29-2014/emerson-data-visualization-water-samples.md
 nid: 11198
@@ -11,7 +13,7 @@ uid: 427890
 
 # Emerson Data Visualization Water Samples 
 
-by [cassandrasue_](../profile/cassandrasue_) | September 29, 2014 04:27
+by [cassandrasue_](../../../profile/cassandrasue_) | September 29, 2014 04:27
 
 September 29, 2014 04:27 | Tags: [water-quality](../tag/water-quality), [first-time-poster](../tag/first-time-poster)
 

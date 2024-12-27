@@ -1,5 +1,7 @@
 ---
-title: "A note on my departure"\ntagnames: 'blog'
+title: "A note on my departure"
+
+tagnames: 'blog'
 author: Shannon
 path: /notes/Shannon/04-14-2020/a-note-on-my-departure.md
 nid: 23379
@@ -11,7 +13,7 @@ uid: 9
 
 # A note on my departure
 
-by [Shannon](../profile/Shannon) | April 14, 2020 15:55
+by [Shannon](../../../profile/Shannon) | April 14, 2020 15:55
 
 April 14, 2020 15:55 | Tags: [blog](../tag/blog)
 

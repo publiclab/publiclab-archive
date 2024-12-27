@@ -1,5 +1,7 @@
 ---
-title: "Moody Meadows"\ntagnames: 'near-infrared-camera, nrg, vermont, infrared, a2200, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, nbn, nnr, super-red, response:9769'
+title: "Moody Meadows"
+
+tagnames: 'near-infrared-camera, nrg, vermont, infrared, a2200, filter, infragram, list:plots-infrared, infrablue, bg3, wratten25a, nbn, nnr, super-red, response:9769'
 author: cfastie
 path: /notes/cfastie/11-25-2013/moody-meadows.md
 nid: 9824
@@ -11,7 +13,7 @@ uid: 554
 
 # Moody Meadows
 
-by [cfastie](../profile/cfastie) | November 25, 2013 18:10
+by [cfastie](../../../profile/cfastie) | November 25, 2013 18:10
 
 November 25, 2013 18:10 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [vermont](../tag/vermont), [infrared](../tag/infrared), [a2200](../tag/a2200), [filter](../tag/filter), [infragram](../tag/infragram), [list:plots-infrared](../tag/list:plots-infrared), [infrablue](../tag/infrablue), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [nbn](../tag/nbn), [nnr](../tag/nnr), [super-red](../tag/super-red), [response:9769](../tag/response:9769)
 

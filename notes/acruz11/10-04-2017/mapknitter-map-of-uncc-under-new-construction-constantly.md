@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of UNCC: Under New Construction Constantly "\ntagnames: 'mapknitter, lat:35.3071187405, lon:-80.7354515791'
+title: "MapKnitter map of UNCC: Under New Construction Constantly "
+
+tagnames: 'mapknitter, lat:35.3071187405, lon:-80.7354515791'
 author: acruz11
 path: /notes/acruz11/10-04-2017/mapknitter-map-of-uncc-under-new-construction-constantly.md
 nid: 14997
@@ -11,7 +13,7 @@ uid: 515274
 
 # MapKnitter map of UNCC: Under New Construction Constantly 
 
-by [acruz11](../profile/acruz11) | October 04, 2017 14:49
+by [acruz11](../../../profile/acruz11) | October 04, 2017 14:49
 
 October 04, 2017 14:49 | Tags: [mapknitter](../tag/mapknitter), [lat:35.3071187405](../tag/lat:35.3071187405), [lon:-80.7354515791](../tag/lon:-80.7354515791)
 

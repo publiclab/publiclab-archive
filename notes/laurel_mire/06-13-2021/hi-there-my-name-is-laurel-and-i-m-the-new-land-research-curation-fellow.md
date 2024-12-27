@@ -1,5 +1,7 @@
 ---
-title: "Hi there! My name is Laurel, and I'm the new Land Research Curation Fellow!"\ntagnames: 'soil, land-use, fellows, land, first-time-poster, lat:29.951065, lon:-90.071532, zoom:6, land-loss, research-curation-fellows'
+title: "Hi there! My name is Laurel, and I'm the new Land Research Curation Fellow!"
+
+tagnames: 'soil, land-use, fellows, land, first-time-poster, lat:29.951065, lon:-90.071532, zoom:6, land-loss, research-curation-fellows'
 author: laurel_mire
 path: /notes/laurel_mire/06-13-2021/hi-there-my-name-is-laurel-and-i-m-the-new-land-research-curation-fellow.md
 nid: 26818
@@ -11,7 +13,7 @@ uid: 759178
 
 # Hi there! My name is Laurel, and I'm the new Land Research Curation Fellow!
 
-by [laurel_mire](../profile/laurel_mire) | June 13, 2021 16:26
+by [laurel_mire](../../../profile/laurel_mire) | June 13, 2021 16:26
 
 June 13, 2021 16:26 | Tags: [soil](../tag/soil), [land-use](../tag/land-use), [fellows](../tag/fellows), [land](../tag/land), [first-time-poster](../tag/first-time-poster), [lat:29.951065](../tag/lat:29.951065), [lon:-90.071532](../tag/lon:-90.071532), [zoom:6](../tag/zoom:6), [land-loss](../tag/land-loss), [research-curation-fellows](../tag/research-curation-fellows)
 

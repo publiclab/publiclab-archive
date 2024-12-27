@@ -1,5 +1,7 @@
 ---
-title: "Vermont Public Lab Organizing: Toxics Action Center and Public Lab!"\ntagnames: 'balloon-mapping, vermont, northeast, traffic'
+title: "Vermont Public Lab Organizing: Toxics Action Center and Public Lab!"
+
+tagnames: 'balloon-mapping, vermont, northeast, traffic'
 author: sara
 path: /wiki/vermont-public-lab-organizing-toxics-action-center-and-public-lab.md
 nid: 3449

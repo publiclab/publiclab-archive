@@ -1,5 +1,7 @@
 ---
-title: "spectrum in sun ligth "\ntagnames: 'first-time-poster'
+title: "spectrum in sun ligth "
+
+tagnames: 'first-time-poster'
 author: sofisp1003
 path: /notes/sofisp1003/10-30-2019/spectrum-in-sun-ligth.md
 nid: 21349
@@ -11,7 +13,7 @@ uid: 632961
 
 # spectrum in sun ligth 
 
-by [sofisp1003](../profile/sofisp1003) | October 30, 2019 21:27
+by [sofisp1003](../../../profile/sofisp1003) | October 30, 2019 21:27
 
 October 30, 2019 21:27 | Tags: [first-time-poster](../tag/first-time-poster)
 

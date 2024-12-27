@@ -1,5 +1,7 @@
 ---
-title: "copying calibration issue"\ntagnames: 'spectrometer, fold-up-mini-spectrometer, spectrometer-calibration, spectral-workbench, papercraft, question:spectral-workbench, first-time-poster'
+title: "copying calibration issue"
+
+tagnames: 'spectrometer, fold-up-mini-spectrometer, spectrometer-calibration, spectral-workbench, papercraft, question:spectral-workbench, first-time-poster'
 author: kog62290
 path: /notes/kog62290/01-03-2020/copying-calibration-issue.md
 nid: 22209
@@ -9,7 +11,7 @@ uid: 650365
 
 # copying calibration issue
 
-by [kog62290](../profile/kog62290) | January 03, 2020 10:42
+by [kog62290](../../../profile/kog62290) | January 03, 2020 10:42
 
 January 03, 2020 10:42 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [spectrometer-calibration](../tag/spectrometer-calibration), [spectral-workbench](../tag/spectral-workbench), [papercraft](../tag/papercraft), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "Trigo NIR"\ntagnames: 'first-time-poster'
+title: "Trigo NIR"
+
+tagnames: 'first-time-poster'
 author: aceitesdelmaule
 path: /notes/aceitesdelmaule/11-08-2018/trigo-nir.md
 nid: 17488
@@ -11,7 +13,7 @@ uid: 558400
 
 # Trigo NIR
 
-by [aceitesdelmaule](../profile/aceitesdelmaule) | November 08, 2018 01:11
+by [aceitesdelmaule](../../../profile/aceitesdelmaule) | November 08, 2018 01:11
 
 November 08, 2018 01:11 | Tags: [first-time-poster](../tag/first-time-poster)
 

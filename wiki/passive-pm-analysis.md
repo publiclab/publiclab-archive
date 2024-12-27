@@ -1,5 +1,7 @@
 ---
-title: "passive-pm-analysis"\ntagnames: 'parent:passive-pm'
+title: "passive-pm-analysis"
+
+tagnames: 'parent:passive-pm'
 author: mathew
 path: /wiki/passive-pm-analysis.md
 nid: 12651

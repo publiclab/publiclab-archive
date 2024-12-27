@@ -1,5 +1,7 @@
 ---
-title: "What's happening with government agencies' environmental justice work?"\ntagnames: 'data, environmental, environmental-justice, governance, chattahoochee, public-awareness'
+title: "What's happening with government agencies' environmental justice work?"
+
+tagnames: 'data, environmental, environmental-justice, governance, chattahoochee, public-awareness'
 author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/what-s-happening-with-government-agencies-environmental-justice-work.md
 nid: 15312
@@ -11,7 +13,7 @@ uid: 45586
 
 # What's happening with government agencies' environmental justice work?
 
-by [mlamadrid](../profile/mlamadrid) | December 05, 2017 23:49
+by [mlamadrid](../../../profile/mlamadrid) | December 05, 2017 23:49
 
 December 05, 2017 23:49 | Tags: [data](../tag/data), [environmental](../tag/environmental), [environmental-justice](../tag/environmental-justice), [governance](../tag/governance), [chattahoochee](../tag/chattahoochee), [public-awareness](../tag/public-awareness)
 

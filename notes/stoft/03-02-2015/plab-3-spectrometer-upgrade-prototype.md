@@ -1,5 +1,7 @@
 ---
-title: "PLab 3 Spectrometer Upgrade Prototype"\ntagnames: 'spectrometer, barnstar:basic, spec-3, upgrade:spectrometry, upgrade:dssk, www.runsupplies.com, www.bitsnano.com'
+title: "PLab 3 Spectrometer Upgrade Prototype"
+
+tagnames: 'spectrometer, barnstar:basic, spec-3, upgrade:spectrometry, upgrade:dssk, www.runsupplies.com, www.bitsnano.com'
 author: stoft
 path: /notes/stoft/03-02-2015/plab-3-spectrometer-upgrade-prototype.md
 nid: 11649
@@ -11,7 +13,7 @@ uid: 54025
 
 # PLab 3 Spectrometer Upgrade Prototype
 
-by [stoft](../profile/stoft) | March 02, 2015 09:23
+by [stoft](../../../profile/stoft) | March 02, 2015 09:23
 
 March 02, 2015 09:23 | Tags: [spectrometer](../tag/spectrometer), [barnstar:basic](../tag/barnstar:basic), [spec-3](../tag/spec-3), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [www.runsupplies.com](../tag/www.runsupplies.com), [www.bitsnano.com](../tag/www.bitsnano.com)
 

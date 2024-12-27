@@ -1,5 +1,7 @@
 ---
-title: "Raspberry Pi NDVI"\ntagnames: 'near-infrared-camera, video, ndvi, mobile-phone-camera, raspberry-pi, infragram, cameras, barnstar:basic'
+title: "Raspberry Pi NDVI"
+
+tagnames: 'near-infrared-camera, video, ndvi, mobile-phone-camera, raspberry-pi, infragram, cameras, barnstar:basic'
 author: noctividus
 path: /notes/noctividus/06-25-2014/raspberry-pi-ndvi.md
 nid: 10618
@@ -11,7 +13,7 @@ uid: 424585
 
 # Raspberry Pi NDVI
 
-by [noctividus](../profile/noctividus) | June 25, 2014 19:54
+by [noctividus](../../../profile/noctividus) | June 25, 2014 19:54
 
 June 25, 2014 19:54 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [video](../tag/video), [ndvi](../tag/ndvi), [mobile-phone-camera](../tag/mobile-phone-camera), [raspberry-pi](../tag/raspberry-pi), [infragram](../tag/infragram), [cameras](../tag/cameras), [barnstar:basic](../tag/barnstar:basic)
 

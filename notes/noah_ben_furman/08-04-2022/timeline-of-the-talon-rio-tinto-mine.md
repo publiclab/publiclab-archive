@@ -1,5 +1,7 @@
 ---
-title: "Timeline of the Talon-Rio Tinto Mine"\ntagnames: 'zoom:6, lat:46, mn-land-manoomin-protection, lon:-93'
+title: "Timeline of the Talon-Rio Tinto Mine"
+
+tagnames: 'zoom:6, lat:46, mn-land-manoomin-protection, lon:-93'
 author: noah_ben_furman
 path: /notes/noah_ben_furman/08-04-2022/timeline-of-the-talon-rio-tinto-mine.md
 nid: 34828
@@ -11,7 +13,7 @@ uid: 795472
 
 # Timeline of the Talon-Rio Tinto Mine
 
-by [noah_ben_furman](../profile/noah_ben_furman) | August 04, 2022 19:20
+by [noah_ben_furman](../../../profile/noah_ben_furman) | August 04, 2022 19:20
 
 August 04, 2022 19:20 | Tags: [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93)
 

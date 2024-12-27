@@ -1,5 +1,7 @@
 ---
-title: "LaMotte and Earth Force low cost Water Monitoring kit"\ntagnames: 'gulf-coast, education, temperature, kits, mississippi, water-quality-monitoring, water-quality, water, water-monitoring, turbidity, dissolved-oxygen, reagents, nitrate, ph, water-testing, nas, water-sampling, phosphate, do, secchi-disk, bod, gulfport, nitrogen, activity:nitrogen'
+title: "LaMotte and Earth Force low cost Water Monitoring kit"
+
+tagnames: 'gulf-coast, education, temperature, kits, mississippi, water-quality-monitoring, water-quality, water, water-monitoring, turbidity, dissolved-oxygen, reagents, nitrate, ph, water-testing, nas, water-sampling, phosphate, do, secchi-disk, bod, gulfport, nitrogen, activity:nitrogen'
 author: stevie
 path: /notes/stevie/04-18-2018/lamotte-and-earth-force-low-cost-water-monitoring-kit.md
 nid: 16173
@@ -11,7 +13,7 @@ uid: 422561
 
 # LaMotte and Earth Force low cost Water Monitoring kit
 
-by [stevie](../profile/stevie) | April 18, 2018 15:18
+by [stevie](../../../profile/stevie) | April 18, 2018 15:18
 
 April 18, 2018 15:18 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [temperature](../tag/temperature), [kits](../tag/kits), [mississippi](../tag/mississippi), [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [water](../tag/water), [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [dissolved-oxygen](../tag/dissolved-oxygen), [reagents](../tag/reagents), [nitrate](../tag/nitrate), [ph](../tag/ph), [water-testing](../tag/water-testing), [nas](../tag/nas), [water-sampling](../tag/water-sampling), [phosphate](../tag/phosphate), [do](../tag/do), [secchi-disk](../tag/secchi-disk), [bod](../tag/bod), [gulfport](../tag/gulfport), [nitrogen](../tag/nitrogen), [activity:nitrogen](../tag/activity:nitrogen)
 

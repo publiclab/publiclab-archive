@@ -1,5 +1,7 @@
 ---
-title: "Graze anatomy"\ntagnames: 'ndvi, infrared, filter, infragram, plant-health, pole-photography, pap, pole-aerial-photography, pole-mapping, barnstar:basic, kaptery, midopt, aerobee, juno, grazing, response:13028, pole-bracket, category:experiment, activity:aerial-photography, activity:multispectral-imaging, activity:pole-mapping, activity:crop-analysis'
+title: "Graze anatomy"
+
+tagnames: 'ndvi, infrared, filter, infragram, plant-health, pole-photography, pap, pole-aerial-photography, pole-mapping, barnstar:basic, kaptery, midopt, aerobee, juno, grazing, response:13028, pole-bracket, category:experiment, activity:aerial-photography, activity:multispectral-imaging, activity:pole-mapping, activity:crop-analysis'
 author: cfastie
 path: /notes/cfastie/05-23-2016/graze-anatomy.md
 nid: 13138
@@ -11,7 +13,7 @@ uid: 554
 
 # Graze anatomy
 
-by [cfastie](../profile/cfastie) | May 23, 2016 03:41
+by [cfastie](../../../profile/cfastie) | May 23, 2016 03:41
 
 May 23, 2016 03:41 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [barnstar:basic](../tag/barnstar:basic), [kaptery](../tag/kaptery), [midopt](../tag/midopt), [aerobee](../tag/aerobee), [juno](../tag/juno), [grazing](../tag/grazing), [response:13028](../tag/response:13028), [pole-bracket](../tag/pole-bracket), [category:experiment](../tag/category:experiment), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:multispectral-imaging](../tag/activity:multispectral-imaging), [activity:pole-mapping](../tag/activity:pole-mapping), [activity:crop-analysis](../tag/activity:crop-analysis)
 

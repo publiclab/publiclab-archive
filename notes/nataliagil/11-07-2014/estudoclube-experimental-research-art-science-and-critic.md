@@ -1,5 +1,7 @@
 ---
-title: "estudoclube - experimental research: art, science and critic"\ntagnames: 'education, science, research, art, experimental, critic'
+title: "estudoclube - experimental research: art, science and critic"
+
+tagnames: 'education, science, research, art, experimental, critic'
 author: nataliagil
 path: /notes/nataliagil/11-07-2014/estudoclube-experimental-research-art-science-and-critic.md
 nid: 11320
@@ -9,7 +11,7 @@ uid: 431087
 
 # estudoclube - experimental research: art, science and critic
 
-by [nataliagil](../profile/nataliagil) | November 07, 2014 02:11
+by [nataliagil](../../../profile/nataliagil) | November 07, 2014 02:11
 
 November 07, 2014 02:11 | Tags: [education](../tag/education), [science](../tag/science), [research](../tag/research), [art](../tag/art), [experimental](../tag/experimental), [critic](../tag/critic)
 

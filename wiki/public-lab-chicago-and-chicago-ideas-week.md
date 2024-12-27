@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Chicago and Chicago Ideas Week"\ntagnames: 'event, chicago, civiclab'
+title: "Public Lab Chicago and Chicago Ideas Week"
+
+tagnames: 'event, chicago, civiclab'
 author: bsugar
 path: /wiki/public-lab-chicago-and-chicago-ideas-week.md
 nid: 10471

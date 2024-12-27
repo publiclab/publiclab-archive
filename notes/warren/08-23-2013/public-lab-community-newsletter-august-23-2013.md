@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Community Newsletter - August 23, 2013"\ntagnames: 'newsletter, blog, newsletter-archive'
+title: "Public Lab Community Newsletter - August 23, 2013"
+
+tagnames: 'newsletter, blog, newsletter-archive'
 author: warren
 path: /notes/warren/08-23-2013/public-lab-community-newsletter-august-23-2013.md
 nid: 9050
@@ -11,7 +13,7 @@ uid: 1
 
 # Public Lab Community Newsletter - August 23, 2013
 
-by [warren](../profile/warren) | August 23, 2013 15:27
+by [warren](../../../profile/warren) | August 23, 2013 15:27
 
 August 23, 2013 15:27 | Tags: [newsletter](../tag/newsletter), [blog](../tag/blog), [newsletter-archive](../tag/newsletter-archive)
 

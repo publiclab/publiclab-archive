@@ -1,5 +1,7 @@
 ---
-title: "Mapping with balloons in Castellón and building community (results)"\ntagnames: 'balloon-mapping, wetlands, spain, events:spain, replication:14022'
+title: "Mapping with balloons in Castellón and building community (results)"
+
+tagnames: 'balloon-mapping, wetlands, spain, events:spain, replication:14022'
 author: pablo
 path: /notes/pablo/02-12-2014/mapping-with-balloons-in-castellon-and-building-community.md
 nid: 10036
@@ -11,7 +13,7 @@ uid: 160
 
 # Mapping with balloons in Castellón and building community (results)
 
-by [pablo](../profile/pablo) | February 12, 2014 22:30
+by [pablo](../../../profile/pablo) | February 12, 2014 22:30
 
 February 12, 2014 22:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [wetlands](../tag/wetlands), [spain](../tag/spain), [events:spain](../tag/events:spain), [replication:14022](../tag/replication:14022)
 

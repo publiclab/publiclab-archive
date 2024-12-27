@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Boston/Somerville coding meetup @ Parts & Crafts"\ntagnames: 'somerville-massachusetts, boston, mapknitter, meetup, web-development, software, plots2, event, somerville, spectral-workbench, list:plots-dev, coding, openhour, event:rsvp, date:09-09-2015, coding-events'
+title: "Public Lab Boston/Somerville coding meetup @ Parts & Crafts"
+
+tagnames: 'somerville-massachusetts, boston, mapknitter, meetup, web-development, software, plots2, event, somerville, spectral-workbench, list:plots-dev, coding, openhour, event:rsvp, date:09-09-2015, coding-events'
 author: warren
 path: /notes/warren/09-03-2015/public-lab-boston-somerville-coding-meetup-parts-crafts.md
 nid: 12195
@@ -11,7 +13,7 @@ uid: 1
 
 # Public Lab Boston/Somerville coding meetup @ Parts & Crafts
 
-by [warren](../profile/warren) | September 03, 2015 15:56
+by [warren](../../../profile/warren) | September 03, 2015 15:56
 
 September 03, 2015 15:56 | Tags: [somerville-massachusetts](../tag/somerville-massachusetts), [boston](../tag/boston), [mapknitter](../tag/mapknitter), [meetup](../tag/meetup), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [event](../tag/event), [somerville](../tag/somerville), [spectral-workbench](../tag/spectral-workbench), [list:plots-dev](../tag/list:plots-dev), [coding](../tag/coding), [openhour](../tag/openhour), [event:rsvp](../tag/event:rsvp), [date:09-09-2015](../tag/date:09-09-2015), [coding-events](../tag/coding-events)
 

@@ -1,5 +1,7 @@
 ---
-title: "WPI & Blue Hill tracking plants with Kites, Middle schoolers"\ntagnames: 'balloon-mapping, kite-mapping, boston, education, curriculum, massachusetts, classroom, northeast'
+title: "WPI & Blue Hill tracking plants with Kites, Middle schoolers"
+
+tagnames: 'balloon-mapping, kite-mapping, boston, education, curriculum, massachusetts, classroom, northeast'
 author: mathew
 path: /notes/mathew/9-6-2012/wpi-blue-hill-tracking-plants-kites-middle-schoolers.md
 nid: 3670
@@ -11,7 +13,7 @@ uid: 4
 
 # WPI & Blue Hill tracking plants with Kites, Middle schoolers
 
-by [mathew](../profile/mathew) | September 07, 2012 00:21
+by [mathew](../../../profile/mathew) | September 07, 2012 00:21
 
 September 07, 2012 00:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [boston](../tag/boston), [education](../tag/education), [curriculum](../tag/curriculum), [massachusetts](../tag/massachusetts), [classroom](../tag/classroom), [northeast](../tag/northeast)
 

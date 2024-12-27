@@ -1,5 +1,7 @@
 ---
-title: "simple soda bottle rig stabilization with tape"\ntagnames: 'replication:13948'
+title: "simple soda bottle rig stabilization with tape"
+
+tagnames: 'replication:13948'
 author: gonzoearth
 path: /notes/gonzoearth/8-2-2011/simple-soda-bottle-rig-stabilization-tape.md
 nid: 423
@@ -11,7 +13,7 @@ uid: 12
 
 # simple soda bottle rig stabilization with tape
 
-by [gonzoearth](../profile/gonzoearth) | August 02, 2011 05:01
+by [gonzoearth](../../../profile/gonzoearth) | August 02, 2011 05:01
 
 August 02, 2011 05:01 | Tags: [replication:13948](../tag/replication:13948)
 

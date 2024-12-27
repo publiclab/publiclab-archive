@@ -1,5 +1,7 @@
 ---
-title: "UMass Open Hardware Workshop"\ntagnames: 'near-infrared-camera, arduino, open-source, open-hardware, conferences, umass-amherst'
+title: "UMass Open Hardware Workshop"
+
+tagnames: 'near-infrared-camera, arduino, open-source, open-hardware, conferences, umass-amherst'
 author: cfastie
 path: /notes/cfastie/7-17-2012/umass-open-hardware-workshop.md
 nid: 2848
@@ -11,7 +13,7 @@ uid: 554
 
 # UMass Open Hardware Workshop
 
-by [cfastie](../profile/cfastie) | July 18, 2012 01:29
+by [cfastie](../../../profile/cfastie) | July 18, 2012 01:29
 
 July 18, 2012 01:29 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [arduino](../tag/arduino), [open-source](../tag/open-source), [open-hardware](../tag/open-hardware), [conferences](../tag/conferences), [umass-amherst](../tag/umass-amherst)
 

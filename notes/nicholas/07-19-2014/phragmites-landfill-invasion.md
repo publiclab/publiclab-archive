@@ -1,5 +1,7 @@
 ---
-title: "Phragmites Landfill Invasion"\ntagnames: 'new-york-city, balloon-mapping, landfill, waste, invasive, invasives, invasive-species, freshkills, phragmites'
+title: "Phragmites Landfill Invasion"
+
+tagnames: 'new-york-city, balloon-mapping, landfill, waste, invasive, invasives, invasive-species, freshkills, phragmites'
 author: nicholas
 path: /notes/nicholas/07-19-2014/phragmites-landfill-invasion.md
 nid: 10711
@@ -11,7 +13,7 @@ uid: 53894
 
 # Phragmites Landfill Invasion
 
-by [nicholas](../profile/nicholas) | July 19, 2014 21:58
+by [nicholas](../../../profile/nicholas) | July 19, 2014 21:58
 
 July 19, 2014 21:58 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [landfill](../tag/landfill), [waste](../tag/waste), [invasive](../tag/invasive), [invasives](../tag/invasives), [invasive-species](../tag/invasive-species), [freshkills](../tag/freshkills), [phragmites](../tag/phragmites)
 

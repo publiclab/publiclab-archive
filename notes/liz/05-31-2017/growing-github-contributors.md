@@ -1,5 +1,7 @@
 ---
-title: "growing Github contributors"\ntagnames: 'developers, evaluation, github, webwg'
+title: "growing Github contributors"
+
+tagnames: 'developers, evaluation, github, webwg'
 author: liz
 path: /notes/liz/05-31-2017/growing-github-contributors.md
 nid: 14495
@@ -11,7 +13,7 @@ uid: 7
 
 # growing Github contributors
 
-by [liz](../profile/liz) | May 31, 2017 15:26
+by [liz](../../../profile/liz) | May 31, 2017 15:26
 
 May 31, 2017 15:26 | Tags: [developers](../tag/developers), [evaluation](../tag/evaluation), [github](../tag/github), [webwg](../tag/webwg)
 

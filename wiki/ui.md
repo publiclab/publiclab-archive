@@ -1,5 +1,7 @@
 ---
-title: "User interface design"\ntagnames: 'website, design, autodesk, ux, ui, user-interface, parent:website'
+title: "User interface design"
+
+tagnames: 'website, design, autodesk, ux, ui, user-interface, parent:website'
 author: warren
 path: /wiki/ui.md
 nid: 15043

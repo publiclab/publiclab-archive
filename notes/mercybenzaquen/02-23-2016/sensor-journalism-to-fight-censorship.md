@@ -1,5 +1,7 @@
 ---
-title: "Sensor Journalism to Fight Censorship"\ntagnames: 'sensor-journalism, response:12723, response:12748, hidden:response'
+title: "Sensor Journalism to Fight Censorship"
+
+tagnames: 'sensor-journalism, response:12723, response:12748, hidden:response'
 author: mercybenzaquen
 path: /notes/mercybenzaquen/02-23-2016/sensor-journalism-to-fight-censorship.md
 nid: 12724
@@ -11,7 +13,7 @@ uid: 461472
 
 # Sensor Journalism to Fight Censorship
 
-by [mercybenzaquen](../profile/mercybenzaquen) | February 23, 2016 21:43
+by [mercybenzaquen](../../../profile/mercybenzaquen) | February 23, 2016 21:43
 
 February 23, 2016 21:43 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12723](../tag/response:12723), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

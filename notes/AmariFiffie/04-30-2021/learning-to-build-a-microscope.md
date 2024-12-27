@@ -1,5 +1,7 @@
 ---
-title: "Learning To Build a Microscope "\ntagnames: 'first-time-poster, zoom:6, lat:30.043257, lon:-90.560086'
+title: "Learning To Build a Microscope "
+
+tagnames: 'first-time-poster, zoom:6, lat:30.043257, lon:-90.560086'
 author: AmariFiffie
 path: /notes/AmariFiffie/04-30-2021/learning-to-build-a-microscope.md
 nid: 26428
@@ -11,7 +13,7 @@ uid: 754783
 
 # Learning To Build a Microscope 
 
-by [AmariFiffie](../profile/AmariFiffie) | April 30, 2021 18:37
+by [AmariFiffie](../../../profile/AmariFiffie) | April 30, 2021 18:37
 
 April 30, 2021 18:37 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.043257](../tag/lat:30.043257), [lon:-90.560086](../tag/lon:-90.560086)
 

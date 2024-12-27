@@ -1,5 +1,7 @@
 ---
-title: "The development of stickypad monitoring"\ntagnames: 'air, dust, silica, pm, midwest, particle-monitoring, particulate-monitoring, openair, passive-pm, activity:dust-collection, activity:sticky-pad'
+title: "The development of stickypad monitoring"
+
+tagnames: 'air, dust, silica, pm, midwest, particle-monitoring, particulate-monitoring, openair, passive-pm, activity:dust-collection, activity:sticky-pad'
 author: mathew
 path: /notes/mathew/06-05-2014/the-development-of-stickypad-monitoring.md
 nid: 10530
@@ -11,7 +13,7 @@ uid: 4
 
 # The development of stickypad monitoring
 
-by [mathew](../profile/mathew) | June 05, 2014 03:42
+by [mathew](../../../profile/mathew) | June 05, 2014 03:42
 
 June 05, 2014 03:42 | Tags: [air](../tag/air), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [midwest](../tag/midwest), [particle-monitoring](../tag/particle-monitoring), [particulate-monitoring](../tag/particulate-monitoring), [openair](../tag/openair), [passive-pm](../tag/passive-pm), [activity:dust-collection](../tag/activity:dust-collection), [activity:sticky-pad](../tag/activity:sticky-pad)
 

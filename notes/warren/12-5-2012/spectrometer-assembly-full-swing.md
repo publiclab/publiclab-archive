@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer assembly in full swing"\ntagnames: 'spectrometer, kickstarter, assembly'
+title: "Spectrometer assembly in full swing"
+
+tagnames: 'spectrometer, kickstarter, assembly'
 author: warren
 path: /notes/warren/12-5-2012/spectrometer-assembly-full-swing.md
 nid: 5123
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectrometer assembly in full swing
 
-by [warren](../profile/warren) | December 05, 2012 22:46
+by [warren](../../../profile/warren) | December 05, 2012 22:46
 
 December 05, 2012 22:46 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [assembly](../tag/assembly)
 

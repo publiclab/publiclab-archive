@@ -1,5 +1,7 @@
 ---
-title: "Oil Testing Kit Literature"\ntagnames: 'spectrometer, fluorescence, literature, oil-testing-kit, parent:oil-testing-kit'
+title: "Oil Testing Kit Literature"
+
+tagnames: 'spectrometer, fluorescence, literature, oil-testing-kit, parent:oil-testing-kit'
 author: warren
 path: /wiki/oil-testing-kit-literature.md
 nid: 11052

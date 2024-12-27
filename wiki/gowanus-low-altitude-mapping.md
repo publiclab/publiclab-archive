@@ -1,5 +1,7 @@
 ---
-title: "Gowanus Low Altitude Mapping"\ntagnames: 'new-york-city, gowanus, glam, redirect:8980'
+title: "Gowanus Low Altitude Mapping"
+
+tagnames: 'new-york-city, gowanus, glam, redirect:8980'
 author: liz
 path: /wiki/gowanus-low-altitude-mapping.md
 nid: 8948

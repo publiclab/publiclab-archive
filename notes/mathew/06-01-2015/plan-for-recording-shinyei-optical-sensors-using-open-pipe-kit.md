@@ -1,5 +1,7 @@
 ---
-title: "Plan for recording Shinyei optical sensors using Open Pipe Kit"\ntagnames: 'air-quality, dustduino, silica, frac-sand, pm, open-air, particle-sensing, dust-monitoring, openair, with:warren, open-pipe-kit, opk, shinyei, fracsand, parent:frac-sand, air-sensors'
+title: "Plan for recording Shinyei optical sensors using Open Pipe Kit"
+
+tagnames: 'air-quality, dustduino, silica, frac-sand, pm, open-air, particle-sensing, dust-monitoring, openair, with:warren, open-pipe-kit, opk, shinyei, fracsand, parent:frac-sand, air-sensors'
 author: mathew
 path: /notes/mathew/06-01-2015/plan-for-recording-shinyei-optical-sensors-using-open-pipe-kit.md
 nid: 11927
@@ -11,7 +13,7 @@ uid: 4
 
 # Plan for recording Shinyei optical sensors using Open Pipe Kit
 
-by [mathew](../profile/mathew) | June 01, 2015 23:47
+by [mathew](../../../profile/mathew) | June 01, 2015 23:47
 
 June 01, 2015 23:47 | Tags: [air-quality](../tag/air-quality), [dustduino](../tag/dustduino), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [dust-monitoring](../tag/dust-monitoring), [openair](../tag/openair), [with:warren](../tag/with:warren), [open-pipe-kit](../tag/open-pipe-kit), [opk](../tag/opk), [shinyei](../tag/shinyei), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [air-sensors](../tag/air-sensors)
 

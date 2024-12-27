@@ -1,5 +1,7 @@
 ---
-title: "how does one load a calibration file?"\ntagnames: 'spectral-workbench, question:spectral-workbench'
+title: "how does one load a calibration file?"
+
+tagnames: 'spectral-workbench, question:spectral-workbench'
 author: stef
 path: /notes/stef/02-18-2021/how-does-one-load-a-calibration-file.md
 nid: 25730
@@ -9,7 +11,7 @@ uid: 482758
 
 # how does one load a calibration file?
 
-by [stef](../profile/stef) | February 18, 2021 20:19
+by [stef](../../../profile/stef) | February 18, 2021 20:19
 
 February 18, 2021 20:19 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench)
 

@@ -1,5 +1,7 @@
 ---
-title: "Project"\ntagnames: 'redirect:projects'
+title: "Project"
+
+tagnames: 'redirect:projects'
 author: stevie
 path: /wiki/project.md
 nid: 19478

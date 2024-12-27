@@ -1,5 +1,7 @@
 ---
-title: "a pendulum rig flies over China"\ntagnames: 'mobius, china, pendulum-rig'
+title: "a pendulum rig flies over China"
+
+tagnames: 'mobius, china, pendulum-rig'
 author: liz
 path: /notes/liz/02-01-2016/a-pendulum-rig-flies-over-china.md
 nid: 12642
@@ -11,7 +13,7 @@ uid: 7
 
 # a pendulum rig flies over China
 
-by [liz](../profile/liz) | February 01, 2016 21:40
+by [liz](../../../profile/liz) | February 01, 2016 21:40
 
 February 01, 2016 21:40 | Tags: [mobius](../tag/mobius), [china](../tag/china), [pendulum-rig](../tag/pendulum-rig)
 

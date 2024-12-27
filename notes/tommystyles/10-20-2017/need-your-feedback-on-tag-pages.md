@@ -1,5 +1,7 @@
 ---
-title: "Need your feedback on Tag pages"\ntagnames: 'website, design, tags, ux, ui, question:ui, usability'
+title: "Need your feedback on Tag pages"
+
+tagnames: 'website, design, tags, ux, ui, question:ui, usability'
 author: tommystyles
 path: /notes/tommystyles/10-20-2017/need-your-feedback-on-tag-pages.md
 nid: 15072
@@ -9,7 +11,7 @@ uid: 516670
 
 # Need your feedback on Tag pages
 
-by [tommystyles](../profile/tommystyles) | October 20, 2017 00:32
+by [tommystyles](../../../profile/tommystyles) | October 20, 2017 00:32
 
 October 20, 2017 00:32 | Tags: [website](../tag/website), [design](../tag/design), [tags](../tag/tags), [ux](../tag/ux), [ui](../tag/ui), [question:ui](../tag/question:ui), [usability](../tag/usability)
 

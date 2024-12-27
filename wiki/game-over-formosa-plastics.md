@@ -1,5 +1,7 @@
 ---
-title: "Game Over Formosa Plastics"\ntagnames: 'project, location:blurred, place:united-states, lat:30, lon:-90, projects, zoom:6, formosaplastics'
+title: "Game Over Formosa Plastics"
+
+tagnames: 'project, location:blurred, place:united-states, lat:30, lon:-90, projects, zoom:6, formosaplastics'
 author: awoolverton1
 path: /wiki/game-over-formosa-plastics.md
 nid: 29606

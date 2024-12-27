@@ -1,5 +1,7 @@
 ---
-title: "Converting GoPro cameras"\ntagnames: 'infragram, gopro, infrared-conversion, gopro-ag, activity:infrared-camera-conversion, mini-camera, activity:mini-camera, activity:gopro, camera-conversion'
+title: "Converting GoPro cameras"
+
+tagnames: 'infragram, gopro, infrared-conversion, gopro-ag, activity:infrared-camera-conversion, mini-camera, activity:mini-camera, activity:gopro, camera-conversion'
 author: gonzoearth
 path: /notes/gonzoearth/06-24-2013/converting-gopro-cameras.md
 nid: 8419
@@ -11,7 +13,7 @@ uid: 12
 
 # Converting GoPro cameras
 
-by [gonzoearth](../profile/gonzoearth) | June 24, 2013 19:51
+by [gonzoearth](../../../profile/gonzoearth) | June 24, 2013 19:51
 
 June 24, 2013 19:51 | Tags: [infragram](../tag/infragram), [gopro](../tag/gopro), [infrared-conversion](../tag/infrared-conversion), [gopro-ag](../tag/gopro-ag), [activity:infrared-camera-conversion](../tag/activity:infrared-camera-conversion), [mini-camera](../tag/mini-camera), [activity:mini-camera](../tag/activity:mini-camera), [activity:gopro](../tag/activity:gopro), [camera-conversion](../tag/camera-conversion)
 

@@ -1,5 +1,7 @@
 ---
-title: "Can kelp act as a bioremediator? "\ntagnames: 'kelp, question:kelp'
+title: "Can kelp act as a bioremediator? "
+
+tagnames: 'kelp, question:kelp'
 author: stevie
 path: /notes/stevie/06-24-2019/can-kelp-act-as-a-bioremediator.md
 nid: 19841
@@ -9,7 +11,7 @@ uid: 422561
 
 # Can kelp act as a bioremediator? 
 
-by [stevie](../profile/stevie) | June 24, 2019 18:34
+by [stevie](../../../profile/stevie) | June 24, 2019 18:34
 
 June 24, 2019 18:34 | Tags: [kelp](../tag/kelp), [question:kelp](../tag/question:kelp)
 

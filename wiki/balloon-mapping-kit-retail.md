@@ -1,5 +1,7 @@
 ---
-title: "Balloon Mapping Kit (retail)"\ntagnames: 'balloon-mapping, kits, parent:balloon-mapping'
+title: "Balloon Mapping Kit (retail)"
+
+tagnames: 'balloon-mapping, kits, parent:balloon-mapping'
 author: mathew
 path: /wiki/balloon-mapping-kit-retail.md
 nid: 813

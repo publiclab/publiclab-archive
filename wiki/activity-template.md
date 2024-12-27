@@ -1,5 +1,7 @@
 ---
-title: "activity-template"\ntagnames: 'template, parent:templates'
+title: "activity-template"
+
+tagnames: 'template, parent:templates'
 author: warren
 path: /wiki/activity-template.md
 nid: 15322

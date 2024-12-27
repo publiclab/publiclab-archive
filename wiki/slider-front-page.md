@@ -1,5 +1,7 @@
 ---
-title: "Slider Front Page"\ntagnames: ''
+title: "Slider Front Page"
+
+tagnames: ''
 author: warren
 path: /wiki/slider-front-page.md
 nid: 177

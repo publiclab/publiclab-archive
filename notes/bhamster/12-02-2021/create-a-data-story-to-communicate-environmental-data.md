@@ -1,5 +1,7 @@
 ---
-title: "Create a “data story” to communicate environmental data"\ntagnames: 'storytelling, environmental-data, presenting-data, air-quality-data, data-storytelling, with:renee, data-story, activity:environmental-data, activity:storytelling, activity:air-quality-data'
+title: "Create a “data story” to communicate environmental data"
+
+tagnames: 'storytelling, environmental-data, presenting-data, air-quality-data, data-storytelling, with:renee, data-story, activity:environmental-data, activity:storytelling, activity:air-quality-data'
 author: bhamster
 path: /notes/bhamster/12-02-2021/create-a-data-story-to-communicate-environmental-data.md
 nid: 28326
@@ -11,7 +13,7 @@ uid: 664477
 
 # Create a “data story” to communicate environmental data
 
-by [bhamster](../profile/bhamster) | December 02, 2021 19:12
+by [bhamster](../../../profile/bhamster) | December 02, 2021 19:12
 
 December 02, 2021 19:12 | Tags: [storytelling](../tag/storytelling), [environmental-data](../tag/environmental-data), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-storytelling](../tag/data-storytelling), [with:renee](../tag/with:renee), [data-story](../tag/data-story), [activity:environmental-data](../tag/activity:environmental-data), [activity:storytelling](../tag/activity:storytelling), [activity:air-quality-data](../tag/activity:air-quality-data)
 

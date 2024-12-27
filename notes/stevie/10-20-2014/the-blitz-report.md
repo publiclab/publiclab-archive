@@ -1,5 +1,7 @@
 ---
-title: "The Blitz Report! "\ntagnames: 'balloon-mapping, infragram, gulfcoast, urbanwater, urbanwaters, parent:urban-waters-mapping-nola'
+title: "The Blitz Report! "
+
+tagnames: 'balloon-mapping, infragram, gulfcoast, urbanwater, urbanwaters, parent:urban-waters-mapping-nola'
 author: stevie
 path: /notes/stevie/10-20-2014/the-blitz-report.md
 nid: 11280
@@ -11,7 +13,7 @@ uid: 422561
 
 # The Blitz Report! 
 
-by [stevie](../profile/stevie) | October 20, 2014 19:00
+by [stevie](../../../profile/stevie) | October 20, 2014 19:00
 
 October 20, 2014 19:00 | Tags: [balloon-mapping](../tag/balloon-mapping), [infragram](../tag/infragram), [gulfcoast](../tag/gulfcoast), [urbanwater](../tag/urbanwater), [urbanwaters](../tag/urbanwaters), [parent:urban-waters-mapping-nola](../tag/parent:urban-waters-mapping-nola)
 

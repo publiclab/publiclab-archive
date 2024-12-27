@@ -1,5 +1,7 @@
 ---
-title: "How do DIY microscopes compare (cost, ease of use, resolution) to commercial options?"\ntagnames: 'dust, particulates, pm, microscopes, question:microscopes'
+title: "How do DIY microscopes compare (cost, ease of use, resolution) to commercial options?"
+
+tagnames: 'dust, particulates, pm, microscopes, question:microscopes'
 author: warren
 path: /notes/warren/10-02-2017/how-do-diy-microscopes-compare-cost-ease-of-use-resolution-to-commercial-options.md
 nid: 14992
@@ -9,7 +11,7 @@ uid: 1
 
 # How do DIY microscopes compare (cost, ease of use, resolution) to commercial options?
 
-by [warren](../profile/warren) | October 02, 2017 18:28
+by [warren](../../../profile/warren) | October 02, 2017 18:28
 
 October 02, 2017 18:28 | Tags: [dust](../tag/dust), [particulates](../tag/particulates), [pm](../tag/pm), [microscopes](../tag/microscopes), [question:microscopes](../tag/question:microscopes)
 

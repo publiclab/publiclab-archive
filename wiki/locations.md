@@ -1,5 +1,7 @@
 ---
-title: "Locations"\ntagnames: 'community, geographic-features, location:blurred, lat:37, zoom:6, lon:-121, place:silicon-valley'
+title: "Locations"
+
+tagnames: 'community, geographic-features, location:blurred, lat:37, zoom:6, lon:-121, place:silicon-valley'
 author: adam-griffith
 path: /wiki/locations.md
 nid: 5585

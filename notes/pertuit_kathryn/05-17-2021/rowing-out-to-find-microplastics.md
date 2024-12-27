@@ -1,5 +1,7 @@
 ---
-title: "rowing out to find microplastics"\ntagnames: 'first-time-poster, chipmunkscityparkproject'
+title: "rowing out to find microplastics"
+
+tagnames: 'first-time-poster, chipmunkscityparkproject'
 author: pertuit_kathryn
 path: /notes/pertuit_kathryn/05-17-2021/rowing-out-to-find-microplastics.md
 nid: 26614
@@ -11,7 +13,7 @@ uid: 744067
 
 # rowing out to find microplastics
 
-by [pertuit_kathryn](../profile/pertuit_kathryn) | May 17, 2021 01:51
+by [pertuit_kathryn](../../../profile/pertuit_kathryn) | May 17, 2021 01:51
 
 May 17, 2021 01:51 | Tags: [first-time-poster](../tag/first-time-poster), [chipmunkscityparkproject](../tag/chipmunkscityparkproject)
 

@@ -1,5 +1,7 @@
 ---
-title: "Sunbathers next to cleanup crews in Ocean Springs, Missisippi"\ntagnames: 'gulf-coast, mississippi, ocean-springs'
+title: "Sunbathers next to cleanup crews in Ocean Springs, Missisippi"
+
+tagnames: 'gulf-coast, mississippi, ocean-springs'
 author: warren
 path: /notes/warren/5-19-2011/sunbathers-next-cleanup-crews-ocean-springs-missisippi.md
 nid: 252
@@ -11,7 +13,7 @@ uid: 1
 
 # Sunbathers next to cleanup crews in Ocean Springs, Missisippi
 
-by [warren](../profile/warren) | May 19, 2011 15:34
+by [warren](../../../profile/warren) | May 19, 2011 15:34
 
 May 19, 2011 15:34 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [ocean-springs](../tag/ocean-springs)
 

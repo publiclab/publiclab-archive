@@ -1,5 +1,7 @@
 ---
-title: "Can a Linux board and Wifi Bridge be cost effective for remote environmental monitoring?"\ntagnames: 'fido, open-pipe-kit'
+title: "Can a Linux board and Wifi Bridge be cost effective for remote environmental monitoring?"
+
+tagnames: 'fido, open-pipe-kit'
 author: rjstatic
 path: /08-11-2015/can-a-linux-board-and-wifi-bridge-be-cost-effective-for-remote-environmental-monitoring.md
 nid: 12137
@@ -11,7 +13,7 @@ uid: 174
 
 # Can a Linux board and Wifi Bridge be cost effective for remote environmental monitoring?
 
-by [rjstatic](../profile/rjstatic) | August 11, 2015 01:19
+by [rjstatic](../../../profile/rjstatic) | August 11, 2015 01:19
 
 August 11, 2015 01:19 | Tags: [fido](../tag/fido), [open-pipe-kit](../tag/open-pipe-kit)
 

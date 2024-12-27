@@ -1,5 +1,7 @@
 ---
-title: "Landsat Image Analysis Over New York"\ntagnames: 'new-york-city, remote-sensing, thermal-imaging, landsat, thermal, satellite-imagery, image-analysis, activity:thermal-imaging, activity:remote-sensing, replication:10690'
+title: "Landsat Image Analysis Over New York"
+
+tagnames: 'new-york-city, remote-sensing, thermal-imaging, landsat, thermal, satellite-imagery, image-analysis, activity:thermal-imaging, activity:remote-sensing, replication:10690'
 author: nicholas
 path: /notes/nicholas/07-20-2014/landsat-image-analysis-over-new-york.md
 nid: 10938
@@ -11,7 +13,7 @@ uid: 53894
 
 # Landsat Image Analysis Over New York
 
-by [nicholas](../profile/nicholas) | July 20, 2014 15:25
+by [nicholas](../../../profile/nicholas) | July 20, 2014 15:25
 
 July 20, 2014 15:25 | Tags: [new-york-city](../tag/new-york-city), [remote-sensing](../tag/remote-sensing), [thermal-imaging](../tag/thermal-imaging), [landsat](../tag/landsat), [thermal](../tag/thermal), [satellite-imagery](../tag/satellite-imagery), [image-analysis](../tag/image-analysis), [activity:thermal-imaging](../tag/activity:thermal-imaging), [activity:remote-sensing](../tag/activity:remote-sensing), [replication:10690](../tag/replication:10690)
 

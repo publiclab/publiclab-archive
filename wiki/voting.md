@@ -1,5 +1,7 @@
 ---
-title: "Voting"\ntagnames: ''
+title: "Voting"
+
+tagnames: ''
 author: warren
 path: /wiki/voting.md
 nid: 456

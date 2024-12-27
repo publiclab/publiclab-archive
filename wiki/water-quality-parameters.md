@@ -1,5 +1,7 @@
 ---
-title: "Water quality parameters"\ntagnames: 'water-quality-monitoring, water-quality, conductivity, list:plots-waterquality, open-water, ph, parent:water-quality, nitrogen, redirect:common-water-contaminants'
+title: "Water quality parameters"
+
+tagnames: 'water-quality-monitoring, water-quality, conductivity, list:plots-waterquality, open-water, ph, parent:water-quality, nitrogen, redirect:common-water-contaminants'
 author: vjpixel
 path: /wiki/water-quality-parameters.md
 nid: 12477

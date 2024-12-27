@@ -1,5 +1,7 @@
 ---
-title: "Mini Pearl Jam"\ntagnames: 'arduino, sensors, data-logging, bme280, arduino-pro-mini, mcp9808, response:14518, mini-pearl-logger, activity:mini-pearl-logger'
+title: "Mini Pearl Jam"
+
+tagnames: 'arduino, sensors, data-logging, bme280, arduino-pro-mini, mcp9808, response:14518, mini-pearl-logger, activity:mini-pearl-logger'
 author: cfastie
 path: /notes/cfastie/07-01-2017/mini-pearl-jam.md
 nid: 14598
@@ -11,7 +13,7 @@ uid: 554
 
 # Mini Pearl Jam
 
-by [cfastie](../profile/cfastie) | July 01, 2017 05:00
+by [cfastie](../../../profile/cfastie) | July 01, 2017 05:00
 
 July 01, 2017 05:00 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [arduino-pro-mini](../tag/arduino-pro-mini), [mcp9808](../tag/mcp9808), [response:14518](../tag/response:14518), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger)
 

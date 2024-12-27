@@ -1,5 +1,7 @@
 ---
-title: "PAR"\ntagnames: 'spectrometer, vermont, ebert, absorption, par, photosynthesis, chlorophyll, pigments'
+title: "PAR"
+
+tagnames: 'spectrometer, vermont, ebert, absorption, par, photosynthesis, chlorophyll, pigments'
 author: cfastie
 path: /notes/cfastie/3-16-2013/par.md
 nid: 6372
@@ -11,7 +13,7 @@ uid: 554
 
 # PAR
 
-by [cfastie](../profile/cfastie) | March 17, 2013 03:23
+by [cfastie](../../../profile/cfastie) | March 17, 2013 03:23
 
 March 17, 2013 03:23 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [ebert](../tag/ebert), [absorption](../tag/absorption), [par](../tag/par), [photosynthesis](../tag/photosynthesis), [chlorophyll](../tag/chlorophyll), [pigments](../tag/pigments)
 

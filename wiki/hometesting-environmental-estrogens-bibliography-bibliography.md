@@ -1,5 +1,7 @@
 ---
-title: "hometesting-environmental-estrogens-bibliography|Bibliography"\ntagnames: ''
+title: "hometesting-environmental-estrogens-bibliography|Bibliography"
+
+tagnames: ''
 author: paidagogos
 path: /wiki/hometesting-environmental-estrogens-bibliography-bibliography.md
 nid: 10231

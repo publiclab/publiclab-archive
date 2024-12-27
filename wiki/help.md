@@ -1,5 +1,7 @@
 ---
-title: "Request Mapping in your area"\ntagnames: 'community, redirect:14956'
+title: "Request Mapping in your area"
+
+tagnames: 'community, redirect:14956'
 author: adam-griffith
 path: /wiki/help.md
 nid: 5587

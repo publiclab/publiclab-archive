@@ -1,5 +1,7 @@
 ---
-title: "Thermal flashlight temperature key"\ntagnames: ''
+title: "Thermal flashlight temperature key"
+
+tagnames: ''
 author: warren
 path: /notes/warren/2-16-2012/thermal-flashlight-temperature-key.md
 nid: 795
@@ -11,7 +13,7 @@ uid: 1
 
 # Thermal flashlight temperature key
 
-by [warren](../profile/warren) | February 16, 2012 17:38
+by [warren](../../../profile/warren) | February 16, 2012 17:38
 
 February 16, 2012 17:38 | Tags: 
 

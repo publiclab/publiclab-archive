@@ -1,5 +1,7 @@
 ---
-title: "Serial communication via headphone jack"\ntagnames: 'arduino, barnstar:basic, sensor-readout, sensor-nodes, serial-link, fsk-decoder, activity:webjack, category:dev'
+title: "Serial communication via headphone jack"
+
+tagnames: 'arduino, barnstar:basic, sensor-readout, sensor-nodes, serial-link, fsk-decoder, activity:webjack, category:dev'
 author: rmeister
 path: /notes/rmeister/06-10-2016/serial-communication-via-headphone-jack.md
 nid: 13185
@@ -11,7 +13,7 @@ uid: 468994
 
 # Serial communication via headphone jack
 
-by [rmeister](../profile/rmeister) | June 10, 2016 18:06
+by [rmeister](../../../profile/rmeister) | June 10, 2016 18:06
 
 June 10, 2016 18:06 | Tags: [arduino](../tag/arduino), [barnstar:basic](../tag/barnstar:basic), [sensor-readout](../tag/sensor-readout), [sensor-nodes](../tag/sensor-nodes), [serial-link](../tag/serial-link), [fsk-decoder](../tag/fsk-decoder), [activity:webjack](../tag/activity:webjack), [category:dev](../tag/category:dev)
 

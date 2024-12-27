@@ -1,5 +1,7 @@
 ---
-title: "quebec-city"\ntagnames: 'quebec, canada, lang:fr, parent:northeast'
+title: "quebec-city"
+
+tagnames: 'quebec, canada, lang:fr, parent:northeast'
 author: bdebaque
 path: /wiki/quebec-city.md
 nid: 10451

@@ -1,5 +1,7 @@
 ---
-title: "Record data from a Simple Air Sensor"\ntagnames: 'air-quality, seeks:replications, data-logging, simple-air-sensor, activity:simple-air-sensor, simple-air-sensor-data'
+title: "Record data from a Simple Air Sensor"
+
+tagnames: 'air-quality, seeks:replications, data-logging, simple-air-sensor, activity:simple-air-sensor, simple-air-sensor-data'
 author: warren
 path: /notes/warren/09-10-2019/record-data-from-a-simple-air-sensor.md
 nid: 20818
@@ -11,7 +13,7 @@ uid: 1
 
 # Record data from a Simple Air Sensor
 
-by [warren](../profile/warren) | September 10, 2019 21:32
+by [warren](../../../profile/warren) | September 10, 2019 21:32
 
 September 10, 2019 21:32 | Tags: [air-quality](../tag/air-quality), [seeks:replications](../tag/seeks:replications), [data-logging](../tag/data-logging), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor), [simple-air-sensor-data](../tag/simple-air-sensor-data)
 

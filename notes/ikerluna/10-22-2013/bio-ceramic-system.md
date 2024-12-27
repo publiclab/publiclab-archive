@@ -1,5 +1,7 @@
 ---
-title: "Bio Ceramic System"\ntagnames: 'barcelona, spain, infragram, moss, ceramic, bio-ceramic, iaac, qgis'
+title: "Bio Ceramic System"
+
+tagnames: 'barcelona, spain, infragram, moss, ceramic, bio-ceramic, iaac, qgis'
 author: ikerluna
 path: /notes/ikerluna/10-22-2013/bio-ceramic-system.md
 nid: 9524
@@ -11,7 +13,7 @@ uid: 271926
 
 # Bio Ceramic System
 
-by [ikerluna](../profile/ikerluna) | October 22, 2013 13:27
+by [ikerluna](../../../profile/ikerluna) | October 22, 2013 13:27
 
 October 22, 2013 13:27 | Tags: [barcelona](../tag/barcelona), [spain](../tag/spain), [infragram](../tag/infragram), [moss](../tag/moss), [ceramic](../tag/ceramic), [bio-ceramic](../tag/bio-ceramic), [iaac](../tag/iaac), [qgis](../tag/qgis)
 

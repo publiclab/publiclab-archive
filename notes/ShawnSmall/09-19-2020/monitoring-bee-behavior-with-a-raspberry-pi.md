@@ -1,5 +1,7 @@
 ---
-title: "Monitoring Bee Behavior with a Raspberry Pi"\ntagnames: 'raspberrypi, first-time-poster, computervision'
+title: "Monitoring Bee Behavior with a Raspberry Pi"
+
+tagnames: 'raspberrypi, first-time-poster, computervision'
 author: ShawnSmall
 path: /notes/ShawnSmall/09-19-2020/monitoring-bee-behavior-with-a-raspberry-pi.md
 nid: 24604
@@ -9,7 +11,7 @@ uid: 721831
 
 # Monitoring Bee Behavior with a Raspberry Pi
 
-by [ShawnSmall](../profile/ShawnSmall) | September 19, 2020 04:02
+by [ShawnSmall](../../../profile/ShawnSmall) | September 19, 2020 04:02
 
 September 19, 2020 04:02 | Tags: [raspberrypi](../tag/raspberrypi), [first-time-poster](../tag/first-time-poster), [computervision](../tag/computervision)
 

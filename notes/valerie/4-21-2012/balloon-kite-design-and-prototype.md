@@ -1,5 +1,7 @@
 ---
-title: "Balloon Kite design and prototype"\ntagnames: 'balloon-mapping, diy-balloon, first-time-poster'
+title: "Balloon Kite design and prototype"
+
+tagnames: 'balloon-mapping, diy-balloon, first-time-poster'
 author: valerie
 path: /notes/valerie/4-21-2012/balloon-kite-design-and-prototype.md
 nid: 1741
@@ -11,7 +13,7 @@ uid: 890
 
 # Balloon Kite design and prototype
 
-by [valerie](../profile/valerie) | April 21, 2012 22:39
+by [valerie](../../../profile/valerie) | April 21, 2012 22:39
 
 April 21, 2012 22:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [diy-balloon](../tag/diy-balloon), [first-time-poster](../tag/first-time-poster)
 

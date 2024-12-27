@@ -1,5 +1,7 @@
 ---
-title: "Getting started with a new Newark garden"\ntagnames: 'newark, new-jersey, 5bf, community-garden, food, elp, northeast, with:thegreencommunitygarden'
+title: "Getting started with a new Newark garden"
+
+tagnames: 'newark, new-jersey, 5bf, community-garden, food, elp, northeast, with:thegreencommunitygarden'
 author: liz
 path: /notes/liz/07-23-2014/getting-started-with-a-new-newark-garden.md
 nid: 10954
@@ -11,7 +13,7 @@ uid: 7
 
 # Getting started with a new Newark garden
 
-by [liz](../profile/liz) | July 23, 2014 18:22
+by [liz](../../../profile/liz) | July 23, 2014 18:22
 
 July 23, 2014 18:22 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [5bf](../tag/5bf), [community-garden](../tag/community-garden), [food](../tag/food), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden)
 

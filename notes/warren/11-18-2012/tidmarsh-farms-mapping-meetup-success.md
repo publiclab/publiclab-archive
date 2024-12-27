@@ -1,5 +1,7 @@
 ---
-title: "Tidmarsh Farms mapping meetup: success!"\ntagnames: 'near-infrared-camera, kite-mapping, infrared, meetup, tidmarsh'
+title: "Tidmarsh Farms mapping meetup: success!"
+
+tagnames: 'near-infrared-camera, kite-mapping, infrared, meetup, tidmarsh'
 author: warren
 path: /notes/warren/11-18-2012/tidmarsh-farms-mapping-meetup-success.md
 nid: 4939
@@ -11,7 +13,7 @@ uid: 1
 
 # Tidmarsh Farms mapping meetup: success!
 
-by [warren](../profile/warren) | November 19, 2012 02:49
+by [warren](../../../profile/warren) | November 19, 2012 02:49
 
 November 19, 2012 02:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [infrared](../tag/infrared), [meetup](../tag/meetup), [tidmarsh](../tag/tidmarsh)
 

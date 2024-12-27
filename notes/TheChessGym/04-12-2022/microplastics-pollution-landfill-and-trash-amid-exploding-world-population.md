@@ -1,5 +1,7 @@
 ---
-title: "Microplastics, Pollution, Landfill, and Trash Amid Exploding World Population"\ntagnames: 'microplastics, lat:22, lon:76, zoom:6'
+title: "Microplastics, Pollution, Landfill, and Trash Amid Exploding World Population"
+
+tagnames: 'microplastics, lat:22, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/04-12-2022/microplastics-pollution-landfill-and-trash-amid-exploding-world-population.md
 nid: 30349
@@ -11,7 +13,7 @@ uid: 788868
 
 # Microplastics, Pollution, Landfill, and Trash Amid Exploding World Population
 
-by [TheChessGym](../profile/TheChessGym) | April 12, 2022 15:00
+by [TheChessGym](../../../profile/TheChessGym) | April 12, 2022 15:00
 
 April 12, 2022 15:00 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

@@ -1,5 +1,7 @@
 ---
-title: "Thermal Torch Code"\ntagnames: 'thermal-photography, first-time-poster'
+title: "Thermal Torch Code"
+
+tagnames: 'thermal-photography, first-time-poster'
 author: dr_dbw
 path: /notes/drdbw/3-27-2012/thermal-torch-code.md
 nid: 1548
@@ -9,7 +11,7 @@ uid: 706
 
 # Thermal Torch Code
 
-by [dr_dbw](../profile/dr_dbw) | March 27, 2012 22:24
+by [dr_dbw](../../../profile/dr_dbw) | March 27, 2012 22:24
 
 March 27, 2012 22:24 | Tags: [thermal-photography](../tag/thermal-photography), [first-time-poster](../tag/first-time-poster)
 

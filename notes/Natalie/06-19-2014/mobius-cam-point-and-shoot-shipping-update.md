@@ -1,5 +1,7 @@
 ---
-title: "Infragram Point & Shoot cameras now in production"\ntagnames: 'near-infrared-camera, store, kickstarter, infragram, mobius-actioncam, mobius, first-time-poster'
+title: "Infragram Point & Shoot cameras now in production"
+
+tagnames: 'near-infrared-camera, store, kickstarter, infragram, mobius-actioncam, mobius, first-time-poster'
 author: natalie
 path: /notes/Natalie/06-19-2014/mobius-cam-point-and-shoot-shipping-update.md
 nid: 10592
@@ -11,7 +13,7 @@ uid: 424454
 
 # Infragram Point & Shoot cameras now in production
 
-by [natalie](../profile/natalie) | June 19, 2014 20:26
+by [natalie](../../../profile/natalie) | June 19, 2014 20:26
 
 June 19, 2014 20:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [store](../tag/store), [kickstarter](../tag/kickstarter), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [first-time-poster](../tag/first-time-poster)
 

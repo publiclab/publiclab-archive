@@ -1,5 +1,7 @@
 ---
-title: "What water quality data can we collect to investigate oil/gas pollution?"\ntagnames: 'question:water-quality, oil-and-gas-water-trio, question:oil-and-gas-water-trio, oil-and-gas-water-quality, question:oil-and-gas-water-quality, simple-water-sensor-platform, question:simple-water-sensor-platform'
+title: "What water quality data can we collect to investigate oil/gas pollution?"
+
+tagnames: 'question:water-quality, oil-and-gas-water-trio, question:oil-and-gas-water-trio, oil-and-gas-water-quality, question:oil-and-gas-water-quality, simple-water-sensor-platform, question:simple-water-sensor-platform'
 author: wmacfarl
 path: /notes/wmacfarl/09-18-2019/what-water-quality-data-can-we-collect-to-investigate-oil-gas-pollution.md
 nid: 20919
@@ -9,7 +11,7 @@ uid: 424597
 
 # What water quality data can we collect to investigate oil/gas pollution?
 
-by [wmacfarl](../profile/wmacfarl) | September 18, 2019 20:29
+by [wmacfarl](../../../profile/wmacfarl) | September 18, 2019 20:29
 
 September 18, 2019 20:29 | Tags: [question:water-quality](../tag/question:water-quality), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](../tag/question:oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [question:oil-and-gas-water-quality](../tag/question:oil-and-gas-water-quality), [simple-water-sensor-platform](../tag/simple-water-sensor-platform), [question:simple-water-sensor-platform](../tag/question:simple-water-sensor-platform)
 

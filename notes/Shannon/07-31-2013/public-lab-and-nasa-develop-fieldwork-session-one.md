@@ -1,5 +1,7 @@
 ---
-title: "Public Lab and NASA DEVELOP fieldwork session one"\ntagnames: 'gulf-coast, spectrometer, refinery, flare, chalmette'
+title: "Public Lab and NASA DEVELOP fieldwork session one"
+
+tagnames: 'gulf-coast, spectrometer, refinery, flare, chalmette'
 author: Shannon
 path: /notes/Shannon/07-31-2013/public-lab-and-nasa-develop-fieldwork-session-one.md
 nid: 8946
@@ -11,7 +13,7 @@ uid: 9
 
 # Public Lab and NASA DEVELOP fieldwork session one
 
-by [Shannon](../profile/Shannon) | July 31, 2013 16:27
+by [Shannon](../../../profile/Shannon) | July 31, 2013 16:27
 
 July 31, 2013 16:27 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [refinery](../tag/refinery), [flare](../tag/flare), [chalmette](../tag/chalmette)
 

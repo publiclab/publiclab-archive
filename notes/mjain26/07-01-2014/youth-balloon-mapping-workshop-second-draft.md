@@ -1,5 +1,7 @@
 ---
-title: "Youth Balloon Mapping Workshop (second draft)"\ntagnames: 'balloon-mapping, education, curriculum, youth, chicago'
+title: "Youth Balloon Mapping Workshop (second draft)"
+
+tagnames: 'balloon-mapping, education, curriculum, youth, chicago'
 author: mjain26
 path: /notes/mjain26/07-01-2014/youth-balloon-mapping-workshop-second-draft.md
 nid: 10638
@@ -11,7 +13,7 @@ uid: 424870
 
 # Youth Balloon Mapping Workshop (second draft)
 
-by [mjain26](../profile/mjain26) | July 01, 2014 19:10
+by [mjain26](../../../profile/mjain26) | July 01, 2014 19:10
 
 July 01, 2014 19:10 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [curriculum](../tag/curriculum), [youth](../tag/youth), [chicago](../tag/chicago)
 

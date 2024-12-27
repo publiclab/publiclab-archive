@@ -1,5 +1,7 @@
 ---
-title: "A South Dakota resident's story"\ntagnames: 'environment, birds, blog-submission, zoom:10, personal-story, lat:44.370986, lon:-100.327148, south-dakota'
+title: "A South Dakota resident's story"
+
+tagnames: 'environment, birds, blog-submission, zoom:10, personal-story, lat:44.370986, lon:-100.327148, south-dakota'
 author: eightballocto
 path: /notes/eightballocto/04-22-2021/a-south-dakota-resident-s-story.md
 nid: 26294
@@ -9,7 +11,7 @@ uid: 751770
 
 # A South Dakota resident's story
 
-by [eightballocto](../profile/eightballocto) | April 22, 2021 00:13
+by [eightballocto](../../../profile/eightballocto) | April 22, 2021 00:13
 
 April 22, 2021 00:13 | Tags: [environment](../tag/environment), [birds](../tag/birds), [blog-submission](../tag/blog-submission), [zoom:10](../tag/zoom:10), [personal-story](../tag/personal-story), [lat:44.370986](../tag/lat:44.370986), [lon:-100.327148](../tag/lon:-100.327148), [south-dakota](../tag/south-dakota)
 

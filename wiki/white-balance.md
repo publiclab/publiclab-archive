@@ -1,5 +1,7 @@
 ---
-title: "white-balance"\ntagnames: 'redirect:8882'
+title: "white-balance"
+
+tagnames: 'redirect:8882'
 author: warren
 path: /wiki/white-balance.md
 nid: 15088

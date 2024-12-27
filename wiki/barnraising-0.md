@@ -1,5 +1,7 @@
 ---
-title: "OLDFirst Annual Barnraising!"\ntagnames: ''
+title: "OLDFirst Annual Barnraising!"
+
+tagnames: ''
 author: sara
 path: /wiki/barnraising-0.md
 nid: 450

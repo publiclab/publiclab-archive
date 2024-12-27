@@ -1,5 +1,7 @@
 ---
-title: "Collecting Microplastics in City Park #loopnola "\ntagnames: 'first-time-poster'
+title: "Collecting Microplastics in City Park #loopnola "
+
+tagnames: 'first-time-poster'
 author: kam_kam
 path: /notes/kam_kam/05-19-2021/collecting-microplastics-in-city-park-loopnola.md
 nid: 26638
@@ -11,7 +13,7 @@ uid: 745917
 
 # Collecting Microplastics in City Park #loopnola 
 
-by [kam_kam](../profile/kam_kam) | May 19, 2021 00:03
+by [kam_kam](../../../profile/kam_kam) | May 19, 2021 00:03
 
 May 19, 2021 00:03 | Tags: [first-time-poster](../tag/first-time-poster)
 

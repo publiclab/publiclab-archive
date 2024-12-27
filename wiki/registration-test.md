@@ -1,5 +1,7 @@
 ---
-title: "Registration Test"\ntagnames: 'spam'
+title: "Registration Test"
+
+tagnames: 'spam'
 author: warren
 path: /wiki/registration-test.md
 nid: 9930

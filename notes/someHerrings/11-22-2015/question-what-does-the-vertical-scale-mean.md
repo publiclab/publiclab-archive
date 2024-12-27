@@ -1,5 +1,7 @@
 ---
-title: "Question: What does the vertical scale mean?"\ntagnames: 'question:spectral-workbench'
+title: "Question: What does the vertical scale mean?"
+
+tagnames: 'question:spectral-workbench'
 author: someHerrings
 path: /notes/someHerrings/11-22-2015/question-what-does-the-vertical-scale-mean.md
 nid: 12436
@@ -9,7 +11,7 @@ uid: 458454
 
 # Question: What does the vertical scale mean?
 
-by [someHerrings](../profile/someHerrings) | November 22, 2015 00:03
+by [someHerrings](../../../profile/someHerrings) | November 22, 2015 00:03
 
 November 22, 2015 00:03 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 

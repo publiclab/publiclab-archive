@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Community Newsletter August 15, 2014"\ntagnames: 'newsletter, newsletter-archive'
+title: "Public Lab Community Newsletter August 15, 2014"
+
+tagnames: 'newsletter, newsletter-archive'
 author: stevie
 path: /notes/stevie/08-15-2014/public-lab-community-newsletter-august-15-2014.md
 nid: 11060
@@ -11,7 +13,7 @@ uid: 422561
 
 # Public Lab Community Newsletter August 15, 2014
 
-by [stevie](../profile/stevie) | August 15, 2014 22:50
+by [stevie](../../../profile/stevie) | August 15, 2014 22:50
 
 August 15, 2014 22:50 | Tags: [newsletter](../tag/newsletter), [newsletter-archive](../tag/newsletter-archive)
 

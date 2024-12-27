@@ -1,5 +1,7 @@
 ---
-title: "Oil Test Kit Round 2"\ntagnames: 'oil-testing-kit'
+title: "Oil Test Kit Round 2"
+
+tagnames: 'oil-testing-kit'
 author: liz
 path: /notes/liz/01-11-2016/oil-test-kit-round-2.md
 nid: 12576
@@ -11,7 +13,7 @@ uid: 7
 
 # Oil Test Kit Round 2
 
-by [liz](../profile/liz) | January 11, 2016 01:28
+by [liz](../../../profile/liz) | January 11, 2016 01:28
 
 January 11, 2016 01:28 | Tags: [oil-testing-kit](../tag/oil-testing-kit)
 

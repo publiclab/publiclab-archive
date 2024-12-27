@@ -1,5 +1,7 @@
 ---
-title: "Spectrometry UROP 5/6/11 update"\ntagnames: 'spectrometer, uv, pah'
+title: "Spectrometry UROP 5/6/11 update"
+
+tagnames: 'spectrometer, uv, pah'
 author: Alex-McCarthy
 path: /notes/alex-mccarthy/5-6-2011/spectrometry-urop-5611-update.md
 nid: 227
@@ -11,7 +13,7 @@ uid: 125
 
 # Spectrometry UROP 5/6/11 update
 
-by [Alex-McCarthy](../profile/Alex-McCarthy) | May 06, 2011 21:48
+by [Alex-McCarthy](../../../profile/Alex-McCarthy) | May 06, 2011 21:48
 
 May 06, 2011 21:48 | Tags: [spectrometer](../tag/spectrometer), [uv](../tag/uv), [pah](../tag/pah)
 

@@ -1,5 +1,7 @@
 ---
-title: "Balloon Mapping iPad app"\ntagnames: ''
+title: "Balloon Mapping iPad app"
+
+tagnames: ''
 author: warren
 path: /notes/warren/5-26-2011/balloon-mapping-ipad-app.md
 nid: 301
@@ -11,7 +13,7 @@ uid: 1
 
 # Balloon Mapping iPad app
 
-by [warren](../profile/warren) | May 26, 2011 17:06
+by [warren](../../../profile/warren) | May 26, 2011 17:06
 
 May 26, 2011 17:06 | Tags: 
 

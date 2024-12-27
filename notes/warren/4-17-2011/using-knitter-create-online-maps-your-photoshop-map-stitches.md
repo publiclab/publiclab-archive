@@ -1,5 +1,7 @@
 ---
-title: "Using Knitter to create online maps from your Photoshop map stitches"\ntagnames: 'peru, mapknitter, photoshop, gdal'
+title: "Using Knitter to create online maps from your Photoshop map stitches"
+
+tagnames: 'peru, mapknitter, photoshop, gdal'
 author: warren
 path: /notes/warren/4-17-2011/using-knitter-create-online-maps-your-photoshop-map-stitches.md
 nid: 175
@@ -11,7 +13,7 @@ uid: 1
 
 # Using Knitter to create online maps from your Photoshop map stitches
 
-by [warren](../profile/warren) | April 17, 2011 18:40
+by [warren](../../../profile/warren) | April 17, 2011 18:40
 
 April 17, 2011 18:40 | Tags: [peru](../tag/peru), [mapknitter](../tag/mapknitter), [photoshop](../tag/photoshop), [gdal](../tag/gdal)
 

@@ -1,5 +1,7 @@
 ---
-title: "Decolonized Skies"\ntagnames: 'balloon-mapping, jerusalem, israel, palestine, exhibition'
+title: "Decolonized Skies"
+
+tagnames: 'balloon-mapping, jerusalem, israel, palestine, exhibition'
 author: hagitkeysar
 path: /notes/hagitkeysar/01-26-2016/decolonized-skies.md
 nid: 12622
@@ -11,7 +13,7 @@ uid: 152
 
 # Decolonized Skies
 
-by [hagitkeysar](../profile/hagitkeysar) | January 26, 2016 19:46
+by [hagitkeysar](../../../profile/hagitkeysar) | January 26, 2016 19:46
 
 January 26, 2016 19:46 | Tags: [balloon-mapping](../tag/balloon-mapping), [jerusalem](../tag/jerusalem), [israel](../tag/israel), [palestine](../tag/palestine), [exhibition](../tag/exhibition)
 

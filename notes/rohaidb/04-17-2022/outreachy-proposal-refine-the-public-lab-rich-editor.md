@@ -1,5 +1,7 @@
 ---
-title: "Outreachy Proposal - Design a new full-screen user interface for Infragram.org"\ntagnames: 'software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022'
+title: "Outreachy Proposal - Design a new full-screen user interface for Infragram.org"
+
+tagnames: 'software, outreachy, first-time-poster, outreachy-2022, outreachy-summer-2022'
 author: rohaidb
 path: /notes/rohaidb/04-17-2022/outreachy-proposal-refine-the-public-lab-rich-editor.md
 nid: 30446
@@ -11,7 +13,7 @@ uid: 792896
 
 # Outreachy Proposal - Design a new full-screen user interface for Infragram.org
 
-by [rohaidb](../profile/rohaidb) | April 17, 2022 05:02
+by [rohaidb](../../../profile/rohaidb) | April 17, 2022 05:02
 
 April 17, 2022 05:02 | Tags: [software](../tag/software), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2022](../tag/outreachy-2022), [outreachy-summer-2022](../tag/outreachy-summer-2022)
 

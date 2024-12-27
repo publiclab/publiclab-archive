@@ -1,5 +1,7 @@
 ---
-title: "Build a juice bottle-based rig to carry two cameras"\ntagnames: 'balloon-mapping, kite-mapping, dual-camera, aerial-photography, photo-rig, difficulty:easy, status:review-me, category:build, time:1h, activity:photo-rig, camera-rigs, activity:camera-rig, juice-bottle'
+title: "Build a juice bottle-based rig to carry two cameras"
+
+tagnames: 'balloon-mapping, kite-mapping, dual-camera, aerial-photography, photo-rig, difficulty:easy, status:review-me, category:build, time:1h, activity:photo-rig, camera-rigs, activity:camera-rig, juice-bottle'
 author: warren
 path: /notes/warren/02-21-2017/build-a-juice-bottle-based-rig-to-carry-two-cameras.md
 nid: 13945
@@ -11,7 +13,7 @@ uid: 1
 
 # Build a juice bottle-based rig to carry two cameras
 
-by [warren](../profile/warren) | February 21, 2017 22:54
+by [warren](../../../profile/warren) | February 21, 2017 22:54
 
 February 21, 2017 22:54 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [dual-camera](../tag/dual-camera), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [difficulty:easy](../tag/difficulty:easy), [status:review-me](../tag/status:review-me), [category:build](../tag/category:build), [time:1h](../tag/time:1h), [activity:photo-rig](../tag/activity:photo-rig), [camera-rigs](../tag/camera-rigs), [activity:camera-rig](../tag/activity:camera-rig), [juice-bottle](../tag/juice-bottle)
 

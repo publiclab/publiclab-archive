@@ -1,5 +1,7 @@
 ---
-title: "IRCam"\ntagnames: 'near-infrared-camera, ircam, infragram'
+title: "IRCam"
+
+tagnames: 'near-infrared-camera, ircam, infragram'
 author: warren
 path: /wiki/ircam.md
 nid: 5733

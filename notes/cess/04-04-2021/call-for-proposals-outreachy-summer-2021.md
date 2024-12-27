@@ -1,5 +1,7 @@
 ---
-title: "Call for Proposals: Outreachy Summer 2021"\ntagnames: 'with:warren, with:liz, seeks:responses, soc, outreachy, call-for-proposals, zoom:6, with:ruthnwaiganjo, outreachy-2021'
+title: "Call for Proposals: Outreachy Summer 2021"
+
+tagnames: 'with:warren, with:liz, seeks:responses, soc, outreachy, call-for-proposals, zoom:6, with:ruthnwaiganjo, outreachy-2021'
 author: cess
 path: /notes/cess/04-04-2021/call-for-proposals-outreachy-summer-2021.md
 nid: 26135
@@ -11,7 +13,7 @@ uid: 525958
 
 # Call for Proposals: Outreachy Summer 2021
 
-by [cess](../profile/cess) | April 04, 2021 00:44
+by [cess](../../../profile/cess) | April 04, 2021 00:44
 
 April 04, 2021 00:44 | Tags: [with:warren](../tag/with:warren), [with:liz](../tag/with:liz), [seeks:responses](../tag/seeks:responses), [soc](../tag/soc), [outreachy](../tag/outreachy), [call-for-proposals](../tag/call-for-proposals), [zoom:6](../tag/zoom:6), [with:ruthnwaiganjo](../tag/with:ruthnwaiganjo), [outreachy-2021](../tag/outreachy-2021)
 

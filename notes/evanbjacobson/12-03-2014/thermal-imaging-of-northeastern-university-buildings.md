@@ -1,5 +1,7 @@
 ---
-title: "Thermal Imaging of Northeastern University buildings"\ntagnames: 'thermal-photography, thermal-flashlight, thermal, insulation, heat, activity:thermal-flashlight, replication:625'
+title: "Thermal Imaging of Northeastern University buildings"
+
+tagnames: 'thermal-photography, thermal-flashlight, thermal, insulation, heat, activity:thermal-flashlight, replication:625'
 author: evanbjacobson
 path: /notes/evanbjacobson/12-03-2014/thermal-imaging-of-northeastern-university-buildings.md
 nid: 11433
@@ -11,7 +13,7 @@ uid: 432234
 
 # Thermal Imaging of Northeastern University buildings
 
-by [evanbjacobson](../profile/evanbjacobson) | December 03, 2014 18:02
+by [evanbjacobson](../../../profile/evanbjacobson) | December 03, 2014 18:02
 
 December 03, 2014 18:02 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal](../tag/thermal), [insulation](../tag/insulation), [heat](../tag/heat), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [replication:625](../tag/replication:625)
 

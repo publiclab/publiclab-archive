@@ -1,5 +1,7 @@
 ---
-title: "Spectral image quality"\ntagnames: 'spectrometer, vermont, fold-up-mini-spectrometer, slit-width'
+title: "Spectral image quality"
+
+tagnames: 'spectrometer, vermont, fold-up-mini-spectrometer, slit-width'
 author: cfastie
 path: /notes/cfastie/1-21-2013/spectrometer-image-quality.md
 nid: 5663
@@ -11,7 +13,7 @@ uid: 554
 
 # Spectral image quality
 
-by [cfastie](../profile/cfastie) | January 21, 2013 16:30
+by [cfastie](../../../profile/cfastie) | January 21, 2013 16:30
 
 January 21, 2013 16:30 | Tags: [spectrometer](../tag/spectrometer), [vermont](../tag/vermont), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [slit-width](../tag/slit-width)
 

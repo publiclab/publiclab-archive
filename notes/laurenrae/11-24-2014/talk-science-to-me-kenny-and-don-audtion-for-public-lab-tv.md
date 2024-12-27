@@ -1,5 +1,7 @@
 ---
-title: "Talk science to me - Kenny and Don audtion for Public Lab TV"\ntagnames: 'gulf-coast, video, water-sensing, riffle, engagement, coqui'
+title: "Talk science to me - Kenny and Don audtion for Public Lab TV"
+
+tagnames: 'gulf-coast, video, water-sensing, riffle, engagement, coqui'
 author: laurenrae
 path: /notes/laurenrae/11-24-2014/talk-science-to-me-kenny-and-don-audtion-for-public-lab-tv.md
 nid: 11398
@@ -11,7 +13,7 @@ uid: 431676
 
 # Talk science to me - Kenny and Don audtion for Public Lab TV
 
-by [laurenrae](../profile/laurenrae) | November 24, 2014 15:35
+by [laurenrae](../../../profile/laurenrae) | November 24, 2014 15:35
 
 November 24, 2014 15:35 | Tags: [gulf-coast](../tag/gulf-coast), [video](../tag/video), [water-sensing](../tag/water-sensing), [riffle](../tag/riffle), [engagement](../tag/engagement), [coqui](../tag/coqui)
 

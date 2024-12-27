@@ -1,5 +1,7 @@
 ---
-title: "PBS post on Brooklyn mapping projects and recent imagery"\ntagnames: 'idealab'
+title: "PBS post on Brooklyn mapping projects and recent imagery"
+
+tagnames: 'idealab'
 author: warren
 path: /notes/warren/10-3-2011/pbs-post-brooklyn-mapping-projects-and-recent-imagery.md
 nid: 493
@@ -11,7 +13,7 @@ uid: 1
 
 # PBS post on Brooklyn mapping projects and recent imagery
 
-by [warren](../profile/warren) | October 03, 2011 16:13
+by [warren](../../../profile/warren) | October 03, 2011 16:13
 
 October 03, 2011 16:13 | Tags: [idealab](../tag/idealab)
 

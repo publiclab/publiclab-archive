@@ -1,5 +1,7 @@
 ---
-title: "Detection of Metals in Water with the WheeStat"\ntagnames: 'heavy-metals, water-quality, potentiostat, arsenic, lead, metals, copper, wheestat, parent:wheestat-user-s-manual'
+title: "Detection of Metals in Water with the WheeStat"
+
+tagnames: 'heavy-metals, water-quality, potentiostat, arsenic, lead, metals, copper, wheestat, parent:wheestat-user-s-manual'
 author: bhickman
 path: /wiki/detection-of-metals-in-water-with-the-wheestat.md
 nid: 11030

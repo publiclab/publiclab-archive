@@ -1,5 +1,7 @@
 ---
-title: "Low-Flying KAP"\ntagnames: 'kap, kap-rigs, opendronemap, saturnv, skyshield'
+title: "Low-Flying KAP"
+
+tagnames: 'kap, kap-rigs, opendronemap, saturnv, skyshield'
 author: dbenjamin
 path: /notes/dbenjamin/08-13-2015/low-flying-kap.md
 nid: 12141
@@ -11,7 +13,7 @@ uid: 444468
 
 # Low-Flying KAP
 
-by [dbenjamin](../profile/dbenjamin) | August 13, 2015 17:41
+by [dbenjamin](../../../profile/dbenjamin) | August 13, 2015 17:41
 
 August 13, 2015 17:41 | Tags: [kap](../tag/kap), [kap-rigs](../tag/kap-rigs), [opendronemap](../tag/opendronemap), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
 

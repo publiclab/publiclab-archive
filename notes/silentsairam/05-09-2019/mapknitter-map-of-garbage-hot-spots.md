@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of Garbage Hot spots "\ntagnames: 'mapknitter, question:mapknitter, lat:12.9192542779, lon:77.5967839006'
+title: "MapKnitter map of Garbage Hot spots "
+
+tagnames: 'mapknitter, question:mapknitter, lat:12.9192542779, lon:77.5967839006'
 author: silentsairam
 path: /notes/silentsairam/05-09-2019/mapknitter-map-of-garbage-hot-spots.md
 nid: 19279
@@ -9,7 +11,7 @@ uid: 553044
 
 # MapKnitter map of Garbage Hot spots 
 
-by [silentsairam](../profile/silentsairam) | May 09, 2019 04:44
+by [silentsairam](../../../profile/silentsairam) | May 09, 2019 04:44
 
 May 09, 2019 04:44 | Tags: [mapknitter](../tag/mapknitter), [question:mapknitter](../tag/question:mapknitter), [lat:12.9192542779](../tag/lat:12.9192542779), [lon:77.5967839006](../tag/lon:77.5967839006)
 

@@ -1,5 +1,7 @@
 ---
-title: "simple"\ntagnames: 'redirect:18517'
+title: "simple"
+
+tagnames: 'redirect:18517'
 author: joyofsoy
 path: /wiki/simple.md
 nid: 20605

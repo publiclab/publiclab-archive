@@ -1,5 +1,7 @@
 ---
-title: "Graded oils using UV fluorescence"\ntagnames: 'spectrometer, oil, fluorescence, spectral-workbench, crude, smoothing, clipping, oil-testing-kit, barnstar:basic, exposure, with:warren, equalizing, 405nm'
+title: "Graded oils using UV fluorescence"
+
+tagnames: 'spectrometer, oil, fluorescence, spectral-workbench, crude, smoothing, clipping, oil-testing-kit, barnstar:basic, exposure, with:warren, equalizing, 405nm'
 author: mathew
 path: /notes/mathew/09-23-2014/graded-oils-using-uv-fluorescence.md
 nid: 11173
@@ -11,7 +13,7 @@ uid: 4
 
 # Graded oils using UV fluorescence
 
-by [mathew](../profile/mathew) | September 23, 2014 04:21
+by [mathew](../../../profile/mathew) | September 23, 2014 04:21
 
 September 23, 2014 04:21 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [crude](../tag/crude), [smoothing](../tag/smoothing), [clipping](../tag/clipping), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [exposure](../tag/exposure), [with:warren](../tag/with:warren), [equalizing](../tag/equalizing), [405nm](../tag/405nm)
 

@@ -1,5 +1,7 @@
 ---
-title: "¿“Pelo” gris en el agua ríos y arroyos? "\ntagnames: 'sewage, water-quality, bacteria, lang:es, new, wastewater, activity:new, zoom:6, lon:-64, lat:-31, research-curation-fellows, activity:wastewater'
+title: "¿“Pelo” gris en el agua ríos y arroyos? "
+
+tagnames: 'sewage, water-quality, bacteria, lang:es, new, wastewater, activity:new, zoom:6, lon:-64, lat:-31, research-curation-fellows, activity:wastewater'
 author: alejobonifacio
 path: /notes/alejobonifacio/02-23-2022/pelo-gris-en-el-agua-rios-y-arroyos.md
 nid: 28794
@@ -11,7 +13,7 @@ uid: 639376
 
 # ¿“Pelo” gris en el agua ríos y arroyos? 
 
-by [alejobonifacio](../profile/alejobonifacio) | February 23, 2022 22:53
+by [alejobonifacio](../../../profile/alejobonifacio) | February 23, 2022 22:53
 
 February 23, 2022 22:53 | Tags: [sewage](../tag/sewage), [water-quality](../tag/water-quality), [bacteria](../tag/bacteria), [lang:es](../tag/lang:es), [new](../tag/new), [wastewater](../tag/wastewater), [activity:new](../tag/activity:new), [zoom:6](../tag/zoom:6), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [research-curation-fellows](../tag/research-curation-fellows), [activity:wastewater](../tag/activity:wastewater)
 

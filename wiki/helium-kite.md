@@ -1,5 +1,7 @@
 ---
-title: "Helium Kite"\ntagnames: 'balloon-mapping, kite-mapping, grassrootsmappingwiki, diy-balloon'
+title: "Helium Kite"
+
+tagnames: 'balloon-mapping, kite-mapping, grassrootsmappingwiki, diy-balloon'
 author: warren
 path: /wiki/helium-kite.md
 nid: 1730

@@ -1,5 +1,7 @@
 ---
-title: "Balloon mapping notes from a first-timer"\ntagnames: 'balloon-mapping, picavet'
+title: "Balloon mapping notes from a first-timer"
+
+tagnames: 'balloon-mapping, picavet'
 author: jbest
 path: /notes/jbest/11-06-2013/balloon-mapping-notes-from-a-first-timer.md
 nid: 9742
@@ -9,7 +11,7 @@ uid: 194322
 
 # Balloon mapping notes from a first-timer
 
-by [jbest](../profile/jbest) | November 06, 2013 23:36
+by [jbest](../../../profile/jbest) | November 06, 2013 23:36
 
 November 06, 2013 23:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [picavet](../tag/picavet)
 

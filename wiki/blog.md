@@ -1,5 +1,7 @@
 ---
-title: "Blog"\ntagnames: 'location:blurred, lat:24, zoom:6, lon:89, place:kuwait-repair-hawally-hawally-block-6-street-321-kuwait'
+title: "Blog"
+
+tagnames: 'location:blurred, lat:24, zoom:6, lon:89, place:kuwait-repair-hawally-hawally-block-6-street-321-kuwait'
 author: ephemeralwaves
 path: /wiki/blog.md
 nid: 18490

@@ -1,5 +1,7 @@
 ---
-title: "Fellowship Teams"\ntagnames: 'organizing, fellows, fellowship, parent:fellows, fellowship-team'
+title: "Fellowship Teams"
+
+tagnames: 'organizing, fellows, fellowship, parent:fellows, fellowship-team'
 author: stevie
 path: /wiki/fellowship-teams.md
 nid: 26321

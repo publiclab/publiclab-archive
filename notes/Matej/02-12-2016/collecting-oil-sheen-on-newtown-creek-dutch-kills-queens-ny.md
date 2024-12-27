@@ -1,5 +1,7 @@
 ---
-title: "Collecting Oil Sheen on Newtown Creek, Dutch Kills, Queens, NY"\ntagnames: 'new-york-city, newtown-creek, oil-testing-kit, sheen, otk, newtown-creek-alliance, greenpoint, with:nameiswillis, oil-sheen, oil-and-gas'
+title: "Collecting Oil Sheen on Newtown Creek, Dutch Kills, Queens, NY"
+
+tagnames: 'new-york-city, newtown-creek, oil-testing-kit, sheen, otk, newtown-creek-alliance, greenpoint, with:nameiswillis, oil-sheen, oil-and-gas'
 author: Matej
 path: /notes/Matej/02-12-2016/collecting-oil-sheen-on-newtown-creek-dutch-kills-queens-ny.md
 nid: 12681
@@ -11,7 +13,7 @@ uid: 451808
 
 # Collecting Oil Sheen on Newtown Creek, Dutch Kills, Queens, NY
 
-by [Matej](../profile/Matej) | February 12, 2016 16:37
+by [Matej](../../../profile/Matej) | February 12, 2016 16:37
 
 February 12, 2016 16:37 | Tags: [new-york-city](../tag/new-york-city), [newtown-creek](../tag/newtown-creek), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [otk](../tag/otk), [newtown-creek-alliance](../tag/newtown-creek-alliance), [greenpoint](../tag/greenpoint), [with:nameiswillis](../tag/with:nameiswillis), [oil-sheen](../tag/oil-sheen), [oil-and-gas](../tag/oil-and-gas)
 

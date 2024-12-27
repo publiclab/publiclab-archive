@@ -1,5 +1,7 @@
 ---
-title: "Directions Magazine: how much do GIS consultants charge in 2011 ?"\ntagnames: ''
+title: "Directions Magazine: how much do GIS consultants charge in 2011 ?"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/4-30-2011/directions-magazine-how-much-do-gis-consultants-charge-2011.md
 nid: 207
@@ -9,7 +11,7 @@ uid: 12
 
 # Directions Magazine: how much do GIS consultants charge in 2011 ?
 
-by [gonzoearth](../profile/gonzoearth) | April 30, 2011 19:18
+by [gonzoearth](../../../profile/gonzoearth) | April 30, 2011 19:18
 
 April 30, 2011 19:18 | Tags: 
 

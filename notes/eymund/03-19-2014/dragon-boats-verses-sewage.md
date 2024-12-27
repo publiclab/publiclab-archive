@@ -1,5 +1,7 @@
 ---
-title: "Dragon Boats versus sewage"\ntagnames: 'new-york-city, queens, sewage, water-quality, flushing-bay, bb-06, cso, empire-dragon-boat, northeast, flushing, dragon-boat, wastewater'
+title: "Dragon Boats versus sewage"
+
+tagnames: 'new-york-city, queens, sewage, water-quality, flushing-bay, bb-06, cso, empire-dragon-boat, northeast, flushing, dragon-boat, wastewater'
 author: eymund
 path: /notes/eymund/03-19-2014/dragon-boats-verses-sewage.md
 nid: 10206
@@ -11,7 +13,7 @@ uid: 1016
 
 # Dragon Boats versus sewage
 
-by [eymund](../profile/eymund) | March 19, 2014 21:03
+by [eymund](../../../profile/eymund) | March 19, 2014 21:03
 
 March 19, 2014 21:03 | Tags: [new-york-city](../tag/new-york-city), [queens](../tag/queens), [sewage](../tag/sewage), [water-quality](../tag/water-quality), [flushing-bay](../tag/flushing-bay), [bb-06](../tag/bb-06), [cso](../tag/cso), [empire-dragon-boat](../tag/empire-dragon-boat), [northeast](../tag/northeast), [flushing](../tag/flushing), [dragon-boat](../tag/dragon-boat), [wastewater](../tag/wastewater)
 

@@ -1,5 +1,7 @@
 ---
-title: "Will this single timer work for the coqui?"\ntagnames: 'coqui, question:coqui'
+title: "Will this single timer work for the coqui?"
+
+tagnames: 'coqui, question:coqui'
 author: asnow
 path: /notes/asnow/05-14-2018/will-this-single-timer-work-for-the-coqui.md
 nid: 16348
@@ -9,7 +11,7 @@ uid: 515746
 
 # Will this single timer work for the coqui?
 
-by [asnow](../profile/asnow) | May 14, 2018 16:45
+by [asnow](../../../profile/asnow) | May 14, 2018 16:45
 
 May 14, 2018 16:45 | Tags: [coqui](../tag/coqui), [question:coqui](../tag/question:coqui)
 

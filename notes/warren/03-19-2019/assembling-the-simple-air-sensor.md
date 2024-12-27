@@ -1,5 +1,7 @@
 ---
-title: "Assembling the Simple Air Sensor"\ntagnames: 'arduino, air-quality, dust, pm, air-sensing, seeks:replications, activity:arduino, air-sensors, purpleair, plantower, purple-air, simple-air-sensor, activity:simple-air-sensor, activity:air-sensing, lat:41.809115, lon:-71.426615, pin:simple-air-sensor, pin:activity:simple-air-sensor, sas-build'
+title: "Assembling the Simple Air Sensor"
+
+tagnames: 'arduino, air-quality, dust, pm, air-sensing, seeks:replications, activity:arduino, air-sensors, purpleair, plantower, purple-air, simple-air-sensor, activity:simple-air-sensor, activity:air-sensing, lat:41.809115, lon:-71.426615, pin:simple-air-sensor, pin:activity:simple-air-sensor, sas-build'
 author: warren
 path: /notes/warren/03-19-2019/assembling-the-simple-air-sensor.md
 nid: 18563
@@ -11,7 +13,7 @@ uid: 1
 
 # Assembling the Simple Air Sensor
 
-by [warren](../profile/warren) | March 15, 2019 22:04
+by [warren](../../../profile/warren) | March 15, 2019 22:04
 
 March 15, 2019 22:04 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [dust](../tag/dust), [pm](../tag/pm), [air-sensing](../tag/air-sensing), [seeks:replications](../tag/seeks:replications), [activity:arduino](../tag/activity:arduino), [air-sensors](../tag/air-sensors), [purpleair](../tag/purpleair), [plantower](../tag/plantower), [purple-air](../tag/purple-air), [simple-air-sensor](../tag/simple-air-sensor), [activity:simple-air-sensor](../tag/activity:simple-air-sensor), [activity:air-sensing](../tag/activity:air-sensing), [lat:41.809115](../tag/lat:41.809115), [lon:-71.426615](../tag/lon:-71.426615), [pin:simple-air-sensor](../tag/pin:simple-air-sensor), [pin:activity:simple-air-sensor](../tag/pin:activity:simple-air-sensor), [sas-build](../tag/sas-build)
 

@@ -1,5 +1,7 @@
 ---
-title: "Desktop Spectrometer assembly"\ntagnames: 'spectrometer, desktop-spectrometer-assembly'
+title: "Desktop Spectrometer assembly"
+
+tagnames: 'spectrometer, desktop-spectrometer-assembly'
 author: nutandbolt
 path: /notes/nutandbolt/1-29-2013/desktop-spectrometer-assembly.md
 nid: 5786
@@ -9,7 +11,7 @@ uid: 49307
 
 # Desktop Spectrometer assembly
 
-by [nutandbolt](../profile/nutandbolt) | January 29, 2013 17:12
+by [nutandbolt](../../../profile/nutandbolt) | January 29, 2013 17:12
 
 January 29, 2013 17:12 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer-assembly](../tag/desktop-spectrometer-assembly)
 

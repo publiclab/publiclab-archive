@@ -1,5 +1,7 @@
 ---
-title: "Make stages for the Community Microscope Kit"\ntagnames: 'spain, microscope, activity:microscope, community-microscope, activity:community-microscope-assembly, assembly:community-microscope, lasercut'
+title: "Make stages for the Community Microscope Kit"
+
+tagnames: 'spain, microscope, activity:microscope, community-microscope, activity:community-microscope-assembly, assembly:community-microscope, lasercut'
 author: imvec
 path: /notes/imvec/11-10-2018/community-microscope-laser-cut-file.md
 nid: 17503
@@ -11,7 +13,7 @@ uid: 495038
 
 # Make stages for the Community Microscope Kit
 
-by [imvec](../profile/imvec) | November 10, 2018 12:08
+by [imvec](../../../profile/imvec) | November 10, 2018 12:08
 
 November 10, 2018 12:08 | Tags: [spain](../tag/spain), [microscope](../tag/microscope), [activity:microscope](../tag/activity:microscope), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [assembly:community-microscope](../tag/assembly:community-microscope), [lasercut](../tag/lasercut)
 

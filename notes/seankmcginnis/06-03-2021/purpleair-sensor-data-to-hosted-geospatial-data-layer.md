@@ -1,5 +1,7 @@
 ---
-title: "PurpleAir Sensor Data to Hosted Geospatial Data Layer"\ntagnames: 'mapping, air-quality, geospatial, barnstar:basic, purpleair, air-quality-monitoring, presenting-data, air-quality-data'
+title: "PurpleAir Sensor Data to Hosted Geospatial Data Layer"
+
+tagnames: 'mapping, air-quality, geospatial, barnstar:basic, purpleair, air-quality-monitoring, presenting-data, air-quality-data'
 author: seankmcginnis
 path: /notes/seankmcginnis/06-03-2021/purpleair-sensor-data-to-hosted-geospatial-data-layer.md
 nid: 26746
@@ -9,7 +11,7 @@ uid: 552
 
 # PurpleAir Sensor Data to Hosted Geospatial Data Layer
 
-by [seankmcginnis](../profile/seankmcginnis) | June 03, 2021 14:26
+by [seankmcginnis](../../../profile/seankmcginnis) | June 03, 2021 14:26
 
 June 03, 2021 14:26 | Tags: [mapping](../tag/mapping), [air-quality](../tag/air-quality), [geospatial](../tag/geospatial), [barnstar:basic](../tag/barnstar:basic), [purpleair](../tag/purpleair), [air-quality-monitoring](../tag/air-quality-monitoring), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data)
 

@@ -1,5 +1,7 @@
 ---
-title: "Evaluation: Listen4Good round two results"\ntagnames: 'evaluation, listen4good'
+title: "Evaluation: Listen4Good round two results"
+
+tagnames: 'evaluation, listen4good'
 author: liz
 path: /notes/liz/04-24-2018/evaluation-listen4good-round-two-results.md
 nid: 16206
@@ -11,7 +13,7 @@ uid: 7
 
 # Evaluation: Listen4Good round two results
 
-by [liz](../profile/liz) | April 24, 2018 20:18
+by [liz](../../../profile/liz) | April 24, 2018 20:18
 
 April 24, 2018 20:18 | Tags: [evaluation](../tag/evaluation), [listen4good](../tag/listen4good)
 

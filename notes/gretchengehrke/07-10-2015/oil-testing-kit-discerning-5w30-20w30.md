@@ -1,5 +1,7 @@
 ---
-title: "Oil Testing Kit -- discerning 5W30 20W30"\ntagnames: 'spectrometer, oil, desktop-spectrometer, oil-testing-kit, oiltestkit'
+title: "Oil Testing Kit -- discerning 5W30 20W30"
+
+tagnames: 'spectrometer, oil, desktop-spectrometer, oil-testing-kit, oiltestkit'
 author: gretchengehrke
 path: /notes/gretchengehrke/07-10-2015/oil-testing-kit-discerning-5w30-20w30.md
 nid: 12046
@@ -11,7 +13,7 @@ uid: 430549
 
 # Oil Testing Kit -- discerning 5W30 20W30
 
-by [gretchengehrke](../profile/gretchengehrke) | July 10, 2015 15:59
+by [gretchengehrke](../../../profile/gretchengehrke) | July 10, 2015 15:59
 
 July 10, 2015 15:59 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [desktop-spectrometer](../tag/desktop-spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [oiltestkit](../tag/oiltestkit)
 

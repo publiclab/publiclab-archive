@@ -1,5 +1,7 @@
 ---
-title: "sandbox-organizing "\ntagnames: ''
+title: "sandbox-organizing "
+
+tagnames: ''
 author: stevie
 path: /wiki/sandbox-organizing.md
 nid: 25500

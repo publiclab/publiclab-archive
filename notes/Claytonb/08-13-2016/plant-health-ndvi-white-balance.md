@@ -1,5 +1,7 @@
 ---
-title: "Plant Health NDVI -White Balance"\ntagnames: 'near-infrared-camera, ndvi, agriculture, filter, white-balance, infragram, led, ccd, canon, bg3, wratten25a, super-red, barnstar:basic, red, grapes, activity:crop-analysis, multispectral-imaging, activity:filter-swapping, infragram-white-balance, apples'
+title: "Plant Health NDVI -White Balance"
+
+tagnames: 'near-infrared-camera, ndvi, agriculture, filter, white-balance, infragram, led, ccd, canon, bg3, wratten25a, super-red, barnstar:basic, red, grapes, activity:crop-analysis, multispectral-imaging, activity:filter-swapping, infragram-white-balance, apples'
 author: Claytonb
 path: /notes/Claytonb/08-13-2016/plant-health-ndvi-white-balance.md
 nid: 13352
@@ -11,7 +13,7 @@ uid: 460246
 
 # Plant Health NDVI -White Balance
 
-by [Claytonb](../profile/Claytonb) | August 13, 2016 22:44
+by [Claytonb](../../../profile/Claytonb) | August 13, 2016 22:44
 
 August 13, 2016 22:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [agriculture](../tag/agriculture), [filter](../tag/filter), [white-balance](../tag/white-balance), [infragram](../tag/infragram), [led](../tag/led), [ccd](../tag/ccd), [canon](../tag/canon), [bg3](../tag/bg3), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [barnstar:basic](../tag/barnstar:basic), [red](../tag/red), [grapes](../tag/grapes), [activity:crop-analysis](../tag/activity:crop-analysis), [multispectral-imaging](../tag/multispectral-imaging), [activity:filter-swapping](../tag/activity:filter-swapping), [infragram-white-balance](../tag/infragram-white-balance), [apples](../tag/apples)
 

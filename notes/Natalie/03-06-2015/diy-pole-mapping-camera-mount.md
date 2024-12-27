@@ -1,5 +1,7 @@
 ---
-title: "DIY Pole Mapping Camera Mount"\ntagnames: 'aerial-photography, polemapping, pole-photography, pole, aerial-mapping, aerial-photos, pole-aerial-photography, pole-mapping, tool, aerial, aerial-imaging, poles, activity:pole-mapping, pole-mapping-kit, pole-kit'
+title: "DIY Pole Mapping Camera Mount"
+
+tagnames: 'aerial-photography, polemapping, pole-photography, pole, aerial-mapping, aerial-photos, pole-aerial-photography, pole-mapping, tool, aerial, aerial-imaging, poles, activity:pole-mapping, pole-mapping-kit, pole-kit'
 author: natalie
 path: /notes/Natalie/03-06-2015/diy-pole-mapping-camera-mount.md
 nid: 11661
@@ -11,7 +13,7 @@ uid: 424454
 
 # DIY Pole Mapping Camera Mount
 
-by [natalie](../profile/natalie) | March 06, 2015 23:38
+by [natalie](../../../profile/natalie) | March 06, 2015 23:38
 
 March 06, 2015 23:38 | Tags: [aerial-photography](../tag/aerial-photography), [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pole](../tag/pole), [aerial-mapping](../tag/aerial-mapping), [aerial-photos](../tag/aerial-photos), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [tool](../tag/tool), [aerial](../tag/aerial), [aerial-imaging](../tag/aerial-imaging), [poles](../tag/poles), [activity:pole-mapping](../tag/activity:pole-mapping), [pole-mapping-kit](../tag/pole-mapping-kit), [pole-kit](../tag/pole-kit)
 

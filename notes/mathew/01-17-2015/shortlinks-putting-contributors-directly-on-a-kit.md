@@ -1,5 +1,7 @@
 ---
-title: "shortlinks: putting contributors directly on a kit"\ntagnames: 'spectrometer, community, oil, spectrometry, organizers, desktop-spectrometer, desktop-spectrometry-kit, design, oil-testing-kit, contributing'
+title: "shortlinks: putting contributors directly on a kit"
+
+tagnames: 'spectrometer, community, oil, spectrometry, organizers, desktop-spectrometer, desktop-spectrometry-kit, design, oil-testing-kit, contributing'
 author: mathew
 path: /notes/mathew/01-17-2015/shortlinks-putting-contributors-directly-on-a-kit.md
 nid: 11529
@@ -11,7 +13,7 @@ uid: 4
 
 # shortlinks: putting contributors directly on a kit
 
-by [mathew](../profile/mathew) | January 17, 2015 02:03
+by [mathew](../../../profile/mathew) | January 17, 2015 02:03
 
 January 17, 2015 02:03 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [oil](../tag/oil), [spectrometry](../tag/spectrometry), [organizers](../tag/organizers), [desktop-spectrometer](../tag/desktop-spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [design](../tag/design), [oil-testing-kit](../tag/oil-testing-kit), [contributing](../tag/contributing)
 

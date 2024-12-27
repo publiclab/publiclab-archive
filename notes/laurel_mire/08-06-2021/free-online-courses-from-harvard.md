@@ -1,5 +1,7 @@
 ---
-title: "Free Online Courses from Harvard"\ntagnames: 'learning, fellows, research-curation-fellows'
+title: "Free Online Courses from Harvard"
+
+tagnames: 'learning, fellows, research-curation-fellows'
 author: laurel_mire
 path: /notes/laurel_mire/08-06-2021/free-online-courses-from-harvard.md
 nid: 27440
@@ -9,7 +11,7 @@ uid: 759178
 
 # Free Online Courses from Harvard
 
-by [laurel_mire](../profile/laurel_mire) | August 06, 2021 21:17
+by [laurel_mire](../../../profile/laurel_mire) | August 06, 2021 21:17
 
 August 06, 2021 21:17 | Tags: [learning](../tag/learning), [fellows](../tag/fellows), [research-curation-fellows](../tag/research-curation-fellows)
 

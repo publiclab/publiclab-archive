@@ -1,5 +1,7 @@
 ---
-title: "Open Hardware SCHOLARSHIP - deadline sept 14th"\ntagnames: ''
+title: "Open Hardware SCHOLARSHIP - deadline sept 14th"
+
+tagnames: ''
 author: warren
 path: /notes/warren/9-7-2011/open-hardware-scholarship-deadline-sept-14th.md
 nid: 455
@@ -9,7 +11,7 @@ uid: 1
 
 # Open Hardware SCHOLARSHIP - deadline sept 14th
 
-by [warren](../profile/warren) | September 08, 2011 00:08
+by [warren](../../../profile/warren) | September 08, 2011 00:08
 
 September 08, 2011 00:08 | Tags: 
 

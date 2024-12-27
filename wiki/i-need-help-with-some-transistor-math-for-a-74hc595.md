@@ -1,5 +1,7 @@
 ---
-title: "I need help with some transistor math for a 74hc595"\ntagnames: ''
+title: "I need help with some transistor math for a 74hc595"
+
+tagnames: ''
 author: makiyang614
 path: /wiki/i-need-help-with-some-transistor-math-for-a-74hc595.md
 nid: 14507

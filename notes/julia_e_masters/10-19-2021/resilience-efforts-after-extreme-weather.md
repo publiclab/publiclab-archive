@@ -1,5 +1,7 @@
 ---
-title: "Resilience efforts after extreme weather"\ntagnames: 'organizing, weather, advocacy, response:14802, extreme'
+title: "Resilience efforts after extreme weather"
+
+tagnames: 'organizing, weather, advocacy, response:14802, extreme'
 author: julia_e_masters
 path: /notes/julia_e_masters/10-19-2021/resilience-efforts-after-extreme-weather.md
 nid: 27839
@@ -9,7 +11,7 @@ uid: 756220
 
 # Resilience efforts after extreme weather
 
-by [julia_e_masters](../profile/julia_e_masters) | October 19, 2021 17:17
+by [julia_e_masters](../../../profile/julia_e_masters) | October 19, 2021 17:17
 
 October 19, 2021 17:17 | Tags: [organizing](../tag/organizing), [weather](../tag/weather), [advocacy](../tag/advocacy), [response:14802](../tag/response:14802), [extreme](../tag/extreme)
 

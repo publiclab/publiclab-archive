@@ -1,5 +1,7 @@
 ---
-title: "csp"\ntagnames: ''
+title: "csp"
+
+tagnames: ''
 author: amocorro
 path: /wiki/csp.md
 nid: 24036

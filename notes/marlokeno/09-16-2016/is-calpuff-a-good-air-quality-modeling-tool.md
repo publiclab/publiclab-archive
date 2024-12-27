@@ -1,5 +1,7 @@
 ---
-title: "Is CALPUFF a good air quality modeling tool"\ntagnames: 'epa, air-quality, frac-sand, pm, particulate-monitoring, question:air-quality, outdoor-air, calpuff, aeromod, air-quality-modeling, particulate-dispersion, question:oil-and-gas, question:frac-sand'
+title: "Is CALPUFF a good air quality modeling tool"
+
+tagnames: 'epa, air-quality, frac-sand, pm, particulate-monitoring, question:air-quality, outdoor-air, calpuff, aeromod, air-quality-modeling, particulate-dispersion, question:oil-and-gas, question:frac-sand'
 author: marlokeno
 path: /notes/marlokeno/09-16-2016/is-calpuff-a-good-air-quality-modeling-tool.md
 nid: 13453
@@ -9,7 +11,7 @@ uid: 420760
 
 # Is CALPUFF a good air quality modeling tool
 
-by [marlokeno](../profile/marlokeno) | September 16, 2016 18:10
+by [marlokeno](../../../profile/marlokeno) | September 16, 2016 18:10
 
 September 16, 2016 18:10 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [question:air-quality](../tag/question:air-quality), [outdoor-air](../tag/outdoor-air), [calpuff](../tag/calpuff), [aeromod](../tag/aeromod), [air-quality-modeling](../tag/air-quality-modeling), [particulate-dispersion](../tag/particulate-dispersion), [question:oil-and-gas](../tag/question:oil-and-gas), [question:frac-sand](../tag/question:frac-sand)
 

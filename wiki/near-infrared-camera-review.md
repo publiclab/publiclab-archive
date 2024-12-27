@@ -1,5 +1,7 @@
 ---
-title: "near infrared camera review"\ntagnames: ''
+title: "near infrared camera review"
+
+tagnames: ''
 author: gonzoearth
 path: /wiki/near-infrared-camera-review.md
 nid: 698

@@ -1,5 +1,7 @@
 ---
-title: "Browser-based Arduino data transfer and control using the WebAudio API and headphone jack"\ntagnames: 'software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827'
+title: "Browser-based Arduino data transfer and control using the WebAudio API and headphone jack"
+
+tagnames: 'software, gsoc, coding, hidden:response, gsoc-2016, gsoc-2016-proposals, response:12827'
 author: diadatp
 path: /notes/diadatp/03-25-2016/browser-based-arduino-data-transfer-and-control-using-the-webaudio-api-and-headphone-jack.md
 nid: 12888
@@ -9,7 +11,7 @@ uid: 468811
 
 # Browser-based Arduino data transfer and control using the WebAudio API and headphone jack
 
-by [diadatp](../profile/diadatp) | March 25, 2016 15:24
+by [diadatp](../../../profile/diadatp) | March 25, 2016 15:24
 
 March 25, 2016 15:24 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [coding](../tag/coding), [hidden:response](../tag/hidden:response), [gsoc-2016](../tag/gsoc-2016), [gsoc-2016-proposals](../tag/gsoc-2016-proposals), [response:12827](../tag/response:12827)
 

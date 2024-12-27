@@ -1,5 +1,7 @@
 ---
-title: "Environmental & Public Health Advocacy Success Stories"\ntagnames: 'public-health, environment, publiclab, advocacy, success-stories, myrwa'
+title: "Environmental & Public Health Advocacy Success Stories"
+
+tagnames: 'public-health, environment, publiclab, advocacy, success-stories, myrwa'
 author: gilbert
 path: /notes/gilbert/11-15-2017/environmental-public-health-advocacy-success-stories.md
 nid: 15193
@@ -11,7 +13,7 @@ uid: 508551
 
 # Environmental & Public Health Advocacy Success Stories
 
-by [gilbert](../profile/gilbert) | November 15, 2017 19:21
+by [gilbert](../../../profile/gilbert) | November 15, 2017 19:21
 
 November 15, 2017 19:21 | Tags: [public-health](../tag/public-health), [environment](../tag/environment), [publiclab](../tag/publiclab), [advocacy](../tag/advocacy), [success-stories](../tag/success-stories), [myrwa](../tag/myrwa)
 

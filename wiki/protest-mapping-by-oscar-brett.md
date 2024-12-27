@@ -1,5 +1,7 @@
 ---
-title: "Protest Mapping by Oscar Brett"\ntagnames: 'balloon-mapping, protest-mapping, photo-rig, grassrootsmappingforum, style:fancy, gmf-3, with:oscarbrett'
+title: "Protest Mapping by Oscar Brett"
+
+tagnames: 'balloon-mapping, protest-mapping, photo-rig, grassrootsmappingforum, style:fancy, gmf-3, with:oscarbrett'
 author: mollydanielsson
 path: /wiki/protest-mapping-by-oscar-brett.md
 nid: 11689

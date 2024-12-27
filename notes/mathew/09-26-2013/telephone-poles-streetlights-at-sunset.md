@@ -1,5 +1,7 @@
 ---
-title: "telephone poles & streetlights at sunset"\ntagnames: 'spectrometer'
+title: "telephone poles & streetlights at sunset"
+
+tagnames: 'spectrometer'
 author: mathew
 path: /notes/mathew/09-26-2013/telephone-poles-streetlights-at-sunset.md
 nid: 9377
@@ -11,7 +13,7 @@ uid: 4
 
 # telephone poles & streetlights at sunset
 
-by [mathew](../profile/mathew) | September 26, 2013 06:42
+by [mathew](../../../profile/mathew) | September 26, 2013 06:42
 
 September 26, 2013 06:42 | Tags: [spectrometer](../tag/spectrometer)
 

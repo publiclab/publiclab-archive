@@ -1,5 +1,7 @@
 ---
-title: "Skane, Sweden"\ntagnames: 'chapter, sweden, skane, lat:55.603663, lon:13.036995'
+title: "Skane, Sweden"
+
+tagnames: 'chapter, sweden, skane, lat:55.603663, lon:13.036995'
 author: Shannon
 path: /wiki/skane-sweden.md
 nid: 3827

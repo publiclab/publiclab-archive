@@ -1,5 +1,7 @@
 ---
-title: "Public Lab sessions @ Mozfest, Oct 25-7 2013"\ntagnames: 'london, citizen-science, workshop, uk, event, mozfest, mozilla'
+title: "Public Lab sessions @ Mozfest, Oct 25-7 2013"
+
+tagnames: 'london, citizen-science, workshop, uk, event, mozfest, mozilla'
 author: warren
 path: /notes/warren/08-21-2013/public-lab-sessions-mozfest-oct-25-7-2013.md
 nid: 9047
@@ -11,7 +13,7 @@ uid: 1
 
 # Public Lab sessions @ Mozfest, Oct 25-7 2013
 
-by [warren](../profile/warren) | August 21, 2013 17:54
+by [warren](../../../profile/warren) | August 21, 2013 17:54
 
 August 21, 2013 17:54 | Tags: [london](../tag/london), [citizen-science](../tag/citizen-science), [workshop](../tag/workshop), [uk](../tag/uk), [event](../tag/event), [mozfest](../tag/mozfest), [mozilla](../tag/mozilla)
 

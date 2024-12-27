@@ -1,5 +1,7 @@
 ---
-title: "Tracks from the WashUstLouis trip to Bayou Plaquemines"\ntagnames: 'gulf-coast, balloon-mapping, washustlouis, washu-stlouis'
+title: "Tracks from the WashUstLouis trip to Bayou Plaquemines"
+
+tagnames: 'gulf-coast, balloon-mapping, washustlouis, washu-stlouis'
 author: eustatic
 path: /09-11-2014/tracks-from-the-washustlouis-trip-to-bay-denesse.md
 nid: 11124
@@ -11,7 +13,7 @@ uid: 379
 
 # Tracks from the WashUstLouis trip to Bayou Plaquemines
 
-by [eustatic](../profile/eustatic) | September 11, 2014 18:45
+by [eustatic](../../../profile/eustatic) | September 11, 2014 18:45
 
 September 11, 2014 18:45 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis)
 

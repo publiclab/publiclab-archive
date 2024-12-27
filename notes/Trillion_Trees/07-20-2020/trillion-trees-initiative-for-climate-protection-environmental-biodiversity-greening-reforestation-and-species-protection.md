@@ -1,5 +1,7 @@
 ---
-title: "Trillion Trees Initiative for climate protection, environmental biodiversity, greening, reforestation and species protection"\ntagnames: 'conservation, tree, environmental, wildlife, biodiversity, blog-submission, lat:50, lon:10, first-time-poster, environmentalism, reforestation, zoom:3, climate-crisis, climate-protection, greening, trillion-trees, species-protection, climate-adaption'
+title: "Trillion Trees Initiative for climate protection, environmental biodiversity, greening, reforestation and species protection"
+
+tagnames: 'conservation, tree, environmental, wildlife, biodiversity, blog-submission, lat:50, lon:10, first-time-poster, environmentalism, reforestation, zoom:3, climate-crisis, climate-protection, greening, trillion-trees, species-protection, climate-adaption'
 author: Trillion_Trees
 path: /notes/Trillion_Trees/07-20-2020/trillion-trees-initiative-for-climate-protection-environmental-biodiversity-greening-reforestation-and-species-protection.md
 nid: 24197
@@ -11,7 +13,7 @@ uid: 709175
 
 # Trillion Trees Initiative for climate protection, environmental biodiversity, greening, reforestation and species protection
 
-by [Trillion_Trees](../profile/Trillion_Trees) | July 20, 2020 14:19
+by [Trillion_Trees](../../../profile/Trillion_Trees) | July 20, 2020 14:19
 
 July 20, 2020 14:19 | Tags: [conservation](../tag/conservation), [tree](../tag/tree), [environmental](../tag/environmental), [wildlife](../tag/wildlife), [biodiversity](../tag/biodiversity), [blog-submission](../tag/blog-submission), [lat:50](../tag/lat:50), [lon:10](../tag/lon:10), [first-time-poster](../tag/first-time-poster), [environmentalism](../tag/environmentalism), [reforestation](../tag/reforestation), [zoom:3](../tag/zoom:3), [climate-crisis](../tag/climate-crisis), [climate-protection](../tag/climate-protection), [greening](../tag/greening), [trillion-trees](../tag/trillion-trees), [species-protection](../tag/species-protection), [climate-adaption](../tag/climate-adaption)
 

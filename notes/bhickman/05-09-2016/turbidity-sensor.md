@@ -1,5 +1,7 @@
 ---
-title: "Turbidity Sensor"\ntagnames: 'water-quality, turbidity, optical-sensor, barnstar:basic, waterquality, activity:turbidity, sensor-enclosures, water-sensors'
+title: "Turbidity Sensor"
+
+tagnames: 'water-quality, turbidity, optical-sensor, barnstar:basic, waterquality, activity:turbidity, sensor-enclosures, water-sensors'
 author: bhickman
 path: /notes/bhickman/05-09-2016/turbidity-sensor.md
 nid: 13092
@@ -11,7 +13,7 @@ uid: 201929
 
 # Turbidity Sensor
 
-by [bhickman](../profile/bhickman) | May 09, 2016 06:08
+by [bhickman](../../../profile/bhickman) | May 09, 2016 06:08
 
 May 09, 2016 06:08 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [optical-sensor](../tag/optical-sensor), [barnstar:basic](../tag/barnstar:basic), [waterquality](../tag/waterquality), [activity:turbidity](../tag/activity:turbidity), [sensor-enclosures](../tag/sensor-enclosures), [water-sensors](../tag/water-sensors)
 

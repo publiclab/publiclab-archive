@@ -1,5 +1,7 @@
 ---
-title: "Riffle-esque WQ monitoring"\ntagnames: 'water-quality, umass, umass-amherst, riffle, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, amherstcollege, mt.holyoke'
+title: "Riffle-esque WQ monitoring"
+
+tagnames: 'water-quality, umass, umass-amherst, riffle, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, amherstcollege, mt.holyoke'
 author: markwh
 path: /wiki/riffle-esque-wq-monitoring.md
 nid: 11169

@@ -1,5 +1,7 @@
 ---
-title: "Stockton Harbor, Me acid waste site overflight UPDATE"\ntagnames: 'maine, northeast, searsport, acid, gac, sulfuric, phosoh, barnstar:watchdog'
+title: "Stockton Harbor, Me acid waste site overflight UPDATE"
+
+tagnames: 'maine, northeast, searsport, acid, gac, sulfuric, phosoh, barnstar:watchdog'
 author: ronhuber
 path: /notes/RonHuber/06-29-2014/stockton-harbor-me-acid-waste-site-got-sensors-july-17th-fly-w-them-over-gac.md
 nid: 10629
@@ -11,7 +13,7 @@ uid: 437
 
 # Stockton Harbor, Me acid waste site overflight UPDATE
 
-by [ronhuber](../profile/ronhuber) | June 29, 2014 01:28
+by [ronhuber](../../../profile/ronhuber) | June 29, 2014 01:28
 
 June 29, 2014 01:28 | Tags: [maine](../tag/maine), [northeast](../tag/northeast), [searsport](../tag/searsport), [acid](../tag/acid), [gac](../tag/gac), [sulfuric](../tag/sulfuric), [phosoh](../tag/phosoh), [barnstar:watchdog](../tag/barnstar:watchdog)
 

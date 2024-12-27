@@ -1,5 +1,7 @@
 ---
-title: "I am interested in testing local water quality myself in river. Where can I start?"\ntagnames: 'water-quality, question:general, general, first-time-poster'
+title: "I am interested in testing local water quality myself in river. Where can I start?"
+
+tagnames: 'water-quality, question:general, general, first-time-poster'
 author: Agaa
 path: /notes/Agaa/11-11-2020/i-am-interested-in-testing-local-water-quality-myself-in-river-where-can-i-start.md
 nid: 25046
@@ -9,7 +11,7 @@ uid: 729305
 
 # I am interested in testing local water quality myself in river. Where can I start?
 
-by [Agaa](../profile/Agaa) | November 11, 2020 19:31
+by [Agaa](../../../profile/Agaa) | November 11, 2020 19:31
 
 November 11, 2020 19:31 | Tags: [water-quality](../tag/water-quality), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "Quantify wetland from aerial UV photo"\ntagnames: 'gulf-coast, multispectral, uv, wetlands, ultraviolet, lousiana, activity:image-analysis, activity:wetlands, first-time-poster'
+title: "Quantify wetland from aerial UV photo"
+
+tagnames: 'gulf-coast, multispectral, uv, wetlands, ultraviolet, lousiana, activity:image-analysis, activity:wetlands, first-time-poster'
 author: cesarharada
 path: /notes/cesarharada/2-24-2011/quantify-wetland-aerial-uv-photo.md
 nid: 102
@@ -11,7 +13,7 @@ uid: 50
 
 # Quantify wetland from aerial UV photo
 
-by [cesarharada](../profile/cesarharada) | February 24, 2011 09:13
+by [cesarharada](../../../profile/cesarharada) | February 24, 2011 09:13
 
 February 24, 2011 09:13 | Tags: [gulf-coast](../tag/gulf-coast), [multispectral](../tag/multispectral), [uv](../tag/uv), [wetlands](../tag/wetlands), [ultraviolet](../tag/ultraviolet), [lousiana](../tag/lousiana), [activity:image-analysis](../tag/activity:image-analysis), [activity:wetlands](../tag/activity:wetlands), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "Video/Audio interface, Web page & Microcontroller"\ntagnames: 'arduino, sensing'
+title: "Video/Audio interface, Web page & Microcontroller"
+
+tagnames: 'arduino, sensing'
 author: donblair
 path: /notes/donblair/10-14-2012/videoaudio-interface-web-page-microcontroller.md
 nid: 4407
@@ -11,7 +13,7 @@ uid: 43651
 
 # Video/Audio interface, Web page & Microcontroller
 
-by [donblair](../profile/donblair) | October 14, 2012 21:27
+by [donblair](../../../profile/donblair) | October 14, 2012 21:27
 
 October 14, 2012 21:27 | Tags: [arduino](../tag/arduino), [sensing](../tag/sensing)
 

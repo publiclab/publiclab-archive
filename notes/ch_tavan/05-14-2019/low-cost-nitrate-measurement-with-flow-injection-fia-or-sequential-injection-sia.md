@@ -1,5 +1,7 @@
 ---
-title: "Low-cost nitrate measurement with Flow Injection (FIA) or Sequential Injection (SIA)"\ntagnames: 'agriculture, soil, nitrate, cadmium, colorimetry, nitrates, question:nitrates, first-time-poster, sequential-injection, flow-injection'
+title: "Low-cost nitrate measurement with Flow Injection (FIA) or Sequential Injection (SIA)"
+
+tagnames: 'agriculture, soil, nitrate, cadmium, colorimetry, nitrates, question:nitrates, first-time-poster, sequential-injection, flow-injection'
 author: ch_tavan
 path: /notes/ch_tavan/05-14-2019/low-cost-nitrate-measurement-with-flow-injection-fia-or-sequential-injection-sia.md
 nid: 19400
@@ -9,7 +11,7 @@ uid: 587692
 
 # Low-cost nitrate measurement with Flow Injection (FIA) or Sequential Injection (SIA)
 
-by [ch_tavan](../profile/ch_tavan) | May 14, 2019 13:57
+by [ch_tavan](../../../profile/ch_tavan) | May 14, 2019 13:57
 
 May 14, 2019 13:57 | Tags: [agriculture](../tag/agriculture), [soil](../tag/soil), [nitrate](../tag/nitrate), [cadmium](../tag/cadmium), [colorimetry](../tag/colorimetry), [nitrates](../tag/nitrates), [question:nitrates](../tag/question:nitrates), [first-time-poster](../tag/first-time-poster), [sequential-injection](../tag/sequential-injection), [flow-injection](../tag/flow-injection)
 

@@ -1,5 +1,7 @@
 ---
-title: "Canon A495 Tips"\ntagnames: 'balloon-mapping, near-infrared-camera, kite-mapping'
+title: "Canon A495 Tips"
+
+tagnames: 'balloon-mapping, near-infrared-camera, kite-mapping'
 author: cfastie
 path: /wiki/canon-a495-tips.md
 nid: 1780

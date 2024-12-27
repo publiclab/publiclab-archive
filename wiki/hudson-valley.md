@@ -1,5 +1,7 @@
 ---
-title: "Hudson-Valley"\ntagnames: 'new-york, nyc, river, northeast, valley, beacon, hudson, ny, node'
+title: "Hudson-Valley"
+
+tagnames: 'new-york, nyc, river, northeast, valley, beacon, hudson, ny, node'
 author: joshuaflux
 path: /wiki/hudson-valley.md
 nid: 10650

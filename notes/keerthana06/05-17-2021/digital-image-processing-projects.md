@@ -1,5 +1,7 @@
 ---
-title: "digital image processing projects"\ntagnames: ''
+title: "digital image processing projects"
+
+tagnames: ''
 author: keerthana06
 path: /notes/keerthana06/05-17-2021/digital-image-processing-projects.md
 nid: 26621
@@ -11,7 +13,7 @@ uid: 754722
 
 # digital image processing projects
 
-by [keerthana06](../profile/keerthana06) | May 17, 2021 12:53
+by [keerthana06](../../../profile/keerthana06) | May 17, 2021 12:53
 
 May 17, 2021 12:53 | Tags: 
 

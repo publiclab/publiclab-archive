@@ -1,5 +1,7 @@
 ---
-title: "Mapping Newtown Creek "\ntagnames: 'new-york-city, kite-mapping, newtown-creek, tributary'
+title: "Mapping Newtown Creek "
+
+tagnames: 'new-york-city, kite-mapping, newtown-creek, tributary'
 author: ChangeAdmin
 path: /notes/changeadmin/8-3-2012/mapping-newtown-creek.md
 nid: 3114
@@ -11,7 +13,7 @@ uid: 39384
 
 # Mapping Newtown Creek 
 
-by [ChangeAdmin](../profile/ChangeAdmin) | August 03, 2012 20:24
+by [ChangeAdmin](../../../profile/ChangeAdmin) | August 03, 2012 20:24
 
 August 03, 2012 20:24 | Tags: [new-york-city](../tag/new-york-city), [kite-mapping](../tag/kite-mapping), [newtown-creek](../tag/newtown-creek), [tributary](../tag/tributary)
 

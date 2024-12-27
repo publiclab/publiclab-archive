@@ -1,5 +1,7 @@
 ---
-title: "405nm LED vs Laser"\ntagnames: 'spectrometer, laser, led, oil-testing-kit, 405nm, otk, uv-laser, uv-laser-405nm'
+title: "405nm LED vs Laser"
+
+tagnames: 'spectrometer, laser, led, oil-testing-kit, 405nm, otk, uv-laser, uv-laser-405nm'
 author: stoft
 path: /notes/stoft/02-23-2016/405nm-led-vs-laser.md
 nid: 12725
@@ -11,7 +13,7 @@ uid: 54025
 
 # 405nm LED vs Laser
 
-by [stoft](../profile/stoft) | February 23, 2016 22:34
+by [stoft](../../../profile/stoft) | February 23, 2016 22:34
 
 February 23, 2016 22:34 | Tags: [spectrometer](../tag/spectrometer), [laser](../tag/laser), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [405nm](../tag/405nm), [otk](../tag/otk), [uv-laser](../tag/uv-laser), [uv-laser-405nm](../tag/uv-laser-405nm)
 

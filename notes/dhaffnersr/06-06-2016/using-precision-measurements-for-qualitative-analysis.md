@@ -1,5 +1,7 @@
 ---
-title: "Using Precision Measurements for Qualitative Analysis "\ntagnames: ''
+title: "Using Precision Measurements for Qualitative Analysis "
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/06-06-2016/using-precision-measurements-for-qualitative-analysis.md
 nid: 13169
@@ -11,7 +13,7 @@ uid: 461120
 
 # Using Precision Measurements for Qualitative Analysis 
 
-by [dhaffnersr](../profile/dhaffnersr) | June 06, 2016 14:05
+by [dhaffnersr](../../../profile/dhaffnersr) | June 06, 2016 14:05
 
 June 06, 2016 14:05 | Tags: 
 

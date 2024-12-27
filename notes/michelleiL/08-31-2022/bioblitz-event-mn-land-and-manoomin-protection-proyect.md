@@ -1,5 +1,7 @@
 ---
-title: "Bioblitz Event: MN Land and Manoomin Protection Proyect "\ntagnames: 'event, lat:47, zoom:7, fellowship-teams, wild-rice, huber-osb-factory, talon-rio-tinto-mine, mn-land-manoomin-protection, lon:-93, great-lakes-region, manoomin, anishinaabe, ojibwe, treaty-rights'
+title: "Bioblitz Event: MN Land and Manoomin Protection Proyect "
+
+tagnames: 'event, lat:47, zoom:7, fellowship-teams, wild-rice, huber-osb-factory, talon-rio-tinto-mine, mn-land-manoomin-protection, lon:-93, great-lakes-region, manoomin, anishinaabe, ojibwe, treaty-rights'
 author: michelleiL
 path: /notes/michelleiL/08-31-2022/bioblitz-event-mn-land-and-manoomin-protection-proyect.md
 nid: 34921
@@ -11,7 +13,7 @@ uid: 799004
 
 # Bioblitz Event: MN Land and Manoomin Protection Proyect 
 
-by [michelleiL](../profile/michelleiL) | August 31, 2022 00:30
+by [michelleiL](../../../profile/michelleiL) | August 31, 2022 00:30
 
 August 31, 2022 00:30 | Tags: [event](../tag/event), [lat:47](../tag/lat:47), [zoom:7](../tag/zoom:7), [fellowship-teams](../tag/fellowship-teams), [wild-rice](../tag/wild-rice), [huber-osb-factory](../tag/huber-osb-factory), [talon-rio-tinto-mine](../tag/talon-rio-tinto-mine), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93), [great-lakes-region](../tag/great-lakes-region), [manoomin](../tag/manoomin), [anishinaabe](../tag/anishinaabe), [ojibwe](../tag/ojibwe), [treaty-rights](../tag/treaty-rights)
 

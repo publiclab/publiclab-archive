@@ -1,5 +1,7 @@
 ---
-title: "Introduction to Student-Led Community Science Projects"\ntagnames: 'csf, community-science-forum, student-community-science, classroom-community-science, with:purl, csf18'
+title: "Introduction to Student-Led Community Science Projects"
+
+tagnames: 'csf, community-science-forum, student-community-science, classroom-community-science, with:purl, csf18'
 author: bhamster
 path: /notes/bhamster/03-02-2023/introduction-to-student-led-community-science-projects.md
 nid: 38731
@@ -11,7 +13,7 @@ uid: 664477
 
 # Introduction to Student-Led Community Science Projects
 
-by [bhamster](../profile/bhamster) | March 02, 2023 21:52
+by [bhamster](../../../profile/bhamster) | March 02, 2023 21:52
 
 March 02, 2023 21:52 | Tags: [csf](../tag/csf), [community-science-forum](../tag/community-science-forum), [student-community-science](../tag/student-community-science), [classroom-community-science](../tag/classroom-community-science), [with:purl](../tag/with:purl), [csf18](../tag/csf18)
 

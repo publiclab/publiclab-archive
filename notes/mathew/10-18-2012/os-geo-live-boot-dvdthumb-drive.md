@@ -1,5 +1,7 @@
 ---
-title: "OS Geo Live Boot DVD/Thumb Drive"\ntagnames: 'balloon-mapping, kite-mapping, mapknitter, spectralworkbench, software, live-cd'
+title: "OS Geo Live Boot DVD/Thumb Drive"
+
+tagnames: 'balloon-mapping, kite-mapping, mapknitter, spectralworkbench, software, live-cd'
 author: mathew
 path: /notes/mathew/10-18-2012/os-geo-live-boot-dvdthumb-drive.md
 nid: 4482
@@ -11,7 +13,7 @@ uid: 4
 
 # OS Geo Live Boot DVD/Thumb Drive
 
-by [mathew](../profile/mathew) | October 19, 2012 00:13
+by [mathew](../../../profile/mathew) | October 19, 2012 00:13
 
 October 19, 2012 00:13 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [spectralworkbench](../tag/spectralworkbench), [software](../tag/software), [live-cd](../tag/live-cd)
 

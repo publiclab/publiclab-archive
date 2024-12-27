@@ -1,5 +1,7 @@
 ---
-title: "GSoC with Public Lab: First Evaluation "\ntagnames: 'gsoc, soc, gsoc-2018, draft-feature'
+title: "GSoC with Public Lab: First Evaluation "
+
+tagnames: 'gsoc, soc, gsoc-2018, draft-feature'
 author: gauravano
 path: /notes/gauravano/06-24-2018/gsoc-with-public-lab-first-evaluation.md
 nid: 16557
@@ -11,7 +13,7 @@ uid: 515081
 
 # GSoC with Public Lab: First Evaluation 
 
-by [gauravano](../profile/gauravano) | June 23, 2018 09:38
+by [gauravano](../../../profile/gauravano) | June 23, 2018 09:38
 
 June 23, 2018 09:38 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2018](../tag/gsoc-2018), [draft-feature](../tag/draft-feature)
 

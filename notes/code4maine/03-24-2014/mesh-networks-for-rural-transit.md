@@ -1,5 +1,7 @@
 ---
-title: "Mesh Networks for Rural Transit"\ntagnames: 'gps, transit, openwrt, mesh'
+title: "Mesh Networks for Rural Transit"
+
+tagnames: 'gps, transit, openwrt, mesh'
 author: ajawitz
 path: /notes/code4maine/03-24-2014/mesh-networks-for-rural-transit.md
 nid: 10219
@@ -11,7 +13,7 @@ uid: 294634
 
 # Mesh Networks for Rural Transit
 
-by [ajawitz](../profile/ajawitz) | March 24, 2014 22:00
+by [ajawitz](../../../profile/ajawitz) | March 24, 2014 22:00
 
 March 24, 2014 22:00 | Tags: [gps](../tag/gps), [transit](../tag/transit), [openwrt](../tag/openwrt), [mesh](../tag/mesh)
 

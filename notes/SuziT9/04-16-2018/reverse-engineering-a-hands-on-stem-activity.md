@@ -1,5 +1,7 @@
 ---
-title: "Reverse Engineering (a hands-on STEM activity)"\ntagnames: 'education, youth, outreach, kidcom, stem, engineering, activity:reverse-engineering, activity:kidcom, activity:session-ideas'
+title: "Reverse Engineering (a hands-on STEM activity)"
+
+tagnames: 'education, youth, outreach, kidcom, stem, engineering, activity:reverse-engineering, activity:kidcom, activity:session-ideas'
 author: SuziT9
 path: /notes/SuziT9/04-16-2018/reverse-engineering-a-hands-on-stem-activity.md
 nid: 16162
@@ -11,7 +13,7 @@ uid: 477814
 
 # Reverse Engineering (a hands-on STEM activity)
 
-by [SuziT9](../profile/SuziT9) | April 16, 2018 19:40
+by [SuziT9](../../../profile/SuziT9) | April 16, 2018 19:40
 
 April 16, 2018 19:40 | Tags: [education](../tag/education), [youth](../tag/youth), [outreach](../tag/outreach), [kidcom](../tag/kidcom), [stem](../tag/stem), [engineering](../tag/engineering), [activity:reverse-engineering](../tag/activity:reverse-engineering), [activity:kidcom](../tag/activity:kidcom), [activity:session-ideas](../tag/activity:session-ideas)
 

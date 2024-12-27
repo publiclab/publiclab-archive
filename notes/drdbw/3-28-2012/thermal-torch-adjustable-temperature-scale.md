@@ -1,5 +1,7 @@
 ---
-title: "Thermal Torch with Adjustable Temperature Scale"\ntagnames: 'thermal-photography'
+title: "Thermal Torch with Adjustable Temperature Scale"
+
+tagnames: 'thermal-photography'
 author: dr_dbw
 path: /notes/drdbw/3-28-2012/thermal-torch-adjustable-temperature-scale.md
 nid: 1553
@@ -11,7 +13,7 @@ uid: 706
 
 # Thermal Torch with Adjustable Temperature Scale
 
-by [dr_dbw](../profile/dr_dbw) | March 29, 2012 00:22
+by [dr_dbw](../../../profile/dr_dbw) | March 29, 2012 00:22
 
 March 29, 2012 00:22 | Tags: [thermal-photography](../tag/thermal-photography)
 

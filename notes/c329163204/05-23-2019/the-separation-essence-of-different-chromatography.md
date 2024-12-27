@@ -1,5 +1,7 @@
 ---
-title: "The Separation Essence Of Different Chromatography"\ntagnames: 'lat:34.341574, lon:108.93977'
+title: "The Separation Essence Of Different Chromatography"
+
+tagnames: 'lat:34.341574, lon:108.93977'
 author: c329163204
 path: /notes/c329163204/05-23-2019/the-separation-essence-of-different-chromatography.md
 nid: 19496
@@ -11,7 +13,7 @@ uid: 592122
 
 # The Separation Essence Of Different Chromatography
 
-by [c329163204](../profile/c329163204) | May 23, 2019 03:49
+by [c329163204](../../../profile/c329163204) | May 23, 2019 03:49
 
 May 23, 2019 03:49 | Tags: [lat:34.341574](../tag/lat:34.341574), [lon:108.93977](../tag/lon:108.93977)
 

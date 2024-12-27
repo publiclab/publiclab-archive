@@ -1,5 +1,7 @@
 ---
-title: "Portable Energy Scavenging Kit"\ntagnames: 'portable-energy-scavenging-kit, energy, tool, solar, electrochemical-sensor, method'
+title: "Portable Energy Scavenging Kit"
+
+tagnames: 'portable-energy-scavenging-kit, energy, tool, solar, electrochemical-sensor, method'
 author: Shannon
 path: /wiki/portable-energy-scavenging-kit.md
 nid: 5149

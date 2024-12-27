@@ -1,5 +1,7 @@
 ---
-title: "Infragram Sponsorship"\ntagnames: ''
+title: "Infragram Sponsorship"
+
+tagnames: ''
 author: warren
 path: /wiki/infragram-sponsorship.md
 nid: 8175

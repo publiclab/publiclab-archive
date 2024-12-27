@@ -1,5 +1,7 @@
 ---
-title: "Kite Mapping Tips"\ntagnames: 'kite-mapping, guide, quick-start, parent:kite-mapping'
+title: "Kite Mapping Tips"
+
+tagnames: 'kite-mapping, guide, quick-start, parent:kite-mapping'
 author: warren
 path: /wiki/kite-mapping-tips.md
 nid: 10321

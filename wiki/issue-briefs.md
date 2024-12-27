@@ -1,5 +1,7 @@
 ---
-title: "issue-briefs"\ntagnames: 'redirect:15138'
+title: "issue-briefs"
+
+tagnames: 'redirect:15138'
 author: warren
 path: /wiki/issue-briefs.md
 nid: 15595

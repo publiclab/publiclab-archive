@@ -1,5 +1,7 @@
 ---
-title: "My cat helped me out on this one!"\ntagnames: ''
+title: "My cat helped me out on this one!"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/06-01-2016/my-cat-helped-me-out-on-this-one.md
 nid: 13157
@@ -11,7 +13,7 @@ uid: 461120
 
 # My cat helped me out on this one!
 
-by [dhaffnersr](../profile/dhaffnersr) | June 01, 2016 16:08
+by [dhaffnersr](../../../profile/dhaffnersr) | June 01, 2016 16:08
 
 June 01, 2016 16:08 | Tags: 
 

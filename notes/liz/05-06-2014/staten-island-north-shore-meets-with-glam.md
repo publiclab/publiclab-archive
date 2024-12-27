@@ -1,5 +1,7 @@
 ---
-title: "Staten Island North Shore meets with GLAM"\ntagnames: 'new-york-city, event, glam, radiation, northeast, great-photos, staten-island'
+title: "Staten Island North Shore meets with GLAM"
+
+tagnames: 'new-york-city, event, glam, radiation, northeast, great-photos, staten-island'
 author: liz
 path: /notes/liz/05-06-2014/staten-island-north-shore-meets-with-glam.md
 nid: 10432
@@ -11,7 +13,7 @@ uid: 7
 
 # Staten Island North Shore meets with GLAM
 
-by [liz](../profile/liz) | May 06, 2014 19:58
+by [liz](../../../profile/liz) | May 06, 2014 19:58
 
 May 06, 2014 19:58 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event), [glam](../tag/glam), [radiation](../tag/radiation), [northeast](../tag/northeast), [great-photos](../tag/great-photos), [staten-island](../tag/staten-island)
 

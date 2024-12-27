@@ -1,5 +1,7 @@
 ---
-title: "H2S film strip test #2"\ntagnames: 'providence, as220, hydrogen-sulfide, h2s, h2s-photopaper'
+title: "H2S film strip test #2"
+
+tagnames: 'providence, as220, hydrogen-sulfide, h2s, h2s-photopaper'
 author: Shannon
 path: /notes/shannon/1-29-2012/h2s-film-strip-test-2.md
 nid: 725
@@ -11,7 +13,7 @@ uid: 9
 
 # H2S film strip test #2
 
-by [Shannon](../profile/Shannon) | January 30, 2012 04:11
+by [Shannon](../../../profile/Shannon) | January 30, 2012 04:11
 
 January 30, 2012 04:11 | Tags: [providence](../tag/providence), [as220](../tag/as220), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 

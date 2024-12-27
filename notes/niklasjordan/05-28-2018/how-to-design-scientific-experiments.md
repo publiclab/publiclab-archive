@@ -1,5 +1,7 @@
 ---
-title: "How to design scientific experiments?"\ntagnames: 'answered, experimental-design, category:experiment, question:general, study-design, question:study-design'
+title: "How to design scientific experiments?"
+
+tagnames: 'answered, experimental-design, category:experiment, question:general, study-design, question:study-design'
 author: niklasjordan
 path: /notes/niklasjordan/05-28-2018/how-to-design-scientific-experiments.md
 nid: 16400
@@ -9,7 +11,7 @@ uid: 531062
 
 # How to design scientific experiments?
 
-by [niklasjordan](../profile/niklasjordan) | May 28, 2018 12:29
+by [niklasjordan](../../../profile/niklasjordan) | May 28, 2018 12:29
 
 May 28, 2018 12:29 | Tags: [answered](../tag/answered), [experimental-design](../tag/experimental-design), [category:experiment](../tag/category:experiment), [question:general](../tag/question:general), [study-design](../tag/study-design), [question:study-design](../tag/question:study-design)
 

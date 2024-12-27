@@ -1,5 +1,7 @@
 ---
-title: "Anonymity"\ntagnames: 'community, security, metadata, privacy, method, anonymity, personal-information, anonymizing, risk, threat-model, risk-assessment, parent:security'
+title: "Anonymity"
+
+tagnames: 'community, security, metadata, privacy, method, anonymity, personal-information, anonymizing, risk, threat-model, risk-assessment, parent:security'
 author: warren
 path: /wiki/anonymity.md
 nid: 14498

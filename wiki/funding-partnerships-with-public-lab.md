@@ -1,5 +1,7 @@
 ---
-title: "Funding Partnerships with Public Lab"\ntagnames: 'fundraising, partnerships, grants, parent:fundraising'
+title: "Funding Partnerships with Public Lab"
+
+tagnames: 'fundraising, partnerships, grants, parent:fundraising'
 author: Becki
 path: /wiki/funding-partnerships-with-public-lab.md
 nid: 11450

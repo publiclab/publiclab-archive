@@ -1,5 +1,7 @@
 ---
-title: "Ideas from the $400 and $200 Kickstarter backers on how they will use the spectrometer"\ntagnames: 'spectrometer, fold-up-mini-spectrometer, desktop-spectrometer'
+title: "Ideas from the $400 and $200 Kickstarter backers on how they will use the spectrometer"
+
+tagnames: 'spectrometer, fold-up-mini-spectrometer, desktop-spectrometer'
 author: Shannon
 path: /notes/shannon/12-13-2012/ideas-400-and-200-kickstarter-backers-how-they-will-use-spectrometer.md
 nid: 5189
@@ -9,7 +11,7 @@ uid: 9
 
 # Ideas from the $400 and $200 Kickstarter backers on how they will use the spectrometer
 
-by [Shannon](../profile/Shannon) | December 13, 2012 20:58
+by [Shannon](../../../profile/Shannon) | December 13, 2012 20:58
 
 December 13, 2012 20:58 | Tags: [spectrometer](../tag/spectrometer), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer)
 

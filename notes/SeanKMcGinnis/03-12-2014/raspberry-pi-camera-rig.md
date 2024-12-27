@@ -1,5 +1,7 @@
 ---
-title: "Raspberry Pi Camera Rig"\ntagnames: 'balloon-mapping, near-infrared-camera, photo-rig, raspberry-pi, activity:photo-rig, raspberry-pi-cameras, activity:raspberry-pi, activity:raspberry-pi-infragram, activity:pi-camera'
+title: "Raspberry Pi Camera Rig"
+
+tagnames: 'balloon-mapping, near-infrared-camera, photo-rig, raspberry-pi, activity:photo-rig, raspberry-pi-cameras, activity:raspberry-pi, activity:raspberry-pi-infragram, activity:pi-camera'
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/03-12-2014/raspberry-pi-camera-rig.md
 nid: 10166
@@ -11,7 +13,7 @@ uid: 552
 
 # Raspberry Pi Camera Rig
 
-by [seankmcginnis](../profile/seankmcginnis) | March 12, 2014 22:31
+by [seankmcginnis](../../../profile/seankmcginnis) | March 12, 2014 22:31
 
 March 12, 2014 22:31 | Tags: [balloon-mapping](../tag/balloon-mapping), [near-infrared-camera](../tag/near-infrared-camera), [photo-rig](../tag/photo-rig), [raspberry-pi](../tag/raspberry-pi), [activity:photo-rig](../tag/activity:photo-rig), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [activity:raspberry-pi](../tag/activity:raspberry-pi), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [activity:pi-camera](../tag/activity:pi-camera)
 

@@ -1,5 +1,7 @@
 ---
-title: "dashboard-topics-footer"\ntagnames: ''
+title: "dashboard-topics-footer"
+
+tagnames: ''
 author: warren
 path: /feature/dashboard-topics-footer.md
 nid: 26674

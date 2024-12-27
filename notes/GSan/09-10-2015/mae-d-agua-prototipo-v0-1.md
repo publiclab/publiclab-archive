@@ -1,5 +1,7 @@
 ---
-title: "Mãe d'Água - protótipo v0.1"\ntagnames: 'water-quality, brasil, redeinfoamazonia, maedagua, lang:pt'
+title: "Mãe d'Água - protótipo v0.1"
+
+tagnames: 'water-quality, brasil, redeinfoamazonia, maedagua, lang:pt'
 author: GSan
 path: /notes/GSan/09-10-2015/mae-d-agua-prototipo-v0-1.md
 nid: 12208
@@ -11,7 +13,7 @@ uid: 426547
 
 # Mãe d'Água - protótipo v0.1
 
-by [GSan](../profile/GSan) | September 10, 2015 03:08
+by [GSan](../../../profile/GSan) | September 10, 2015 03:08
 
 September 10, 2015 03:08 | Tags: [water-quality](../tag/water-quality), [brasil](../tag/brasil), [redeinfoamazonia](../tag/redeinfoamazonia), [maedagua](../tag/maedagua), [lang:pt](../tag/lang:pt)
 

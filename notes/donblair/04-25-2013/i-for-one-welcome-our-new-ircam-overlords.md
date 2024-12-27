@@ -1,5 +1,7 @@
 ---
-title: "I For One Welcome Our New IRCAM Overlords"\ntagnames: 'near-infrared-camera, raspberry-pi, infrared-camera, nvdi'
+title: "I For One Welcome Our New IRCAM Overlords"
+
+tagnames: 'near-infrared-camera, raspberry-pi, infrared-camera, nvdi'
 author: donblair
 path: /notes/donblair/04-25-2013/i-for-one-welcome-our-new-ircam-overlords.md
 nid: 7036
@@ -11,7 +13,7 @@ uid: 43651
 
 # I For One Welcome Our New IRCAM Overlords
 
-by [donblair](../profile/donblair) | April 25, 2013 00:34
+by [donblair](../../../profile/donblair) | April 25, 2013 00:34
 
 April 25, 2013 00:34 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [raspberry-pi](../tag/raspberry-pi), [infrared-camera](../tag/infrared-camera), [nvdi](../tag/nvdi)
 

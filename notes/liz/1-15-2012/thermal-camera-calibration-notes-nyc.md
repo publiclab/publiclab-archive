@@ -1,5 +1,7 @@
 ---
-title: "Thermal Imaging Calibration notes for NYC"\ntagnames: ''
+title: "Thermal Imaging Calibration notes for NYC"
+
+tagnames: ''
 author: liz
 path: /notes/liz/1-15-2012/thermal-camera-calibration-notes-nyc.md
 nid: 688
@@ -11,7 +13,7 @@ uid: 7
 
 # Thermal Imaging Calibration notes for NYC
 
-by [liz](../profile/liz) | January 16, 2012 00:24
+by [liz](../../../profile/liz) | January 16, 2012 00:24
 
 January 16, 2012 00:24 | Tags: 
 

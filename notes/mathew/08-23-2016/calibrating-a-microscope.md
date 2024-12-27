@@ -1,5 +1,7 @@
 ---
-title: "Calibrating a Microscope"\ntagnames: 'silica, frac-sand, pm, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, openflexure, dust-sensing, pm-sensing, particulatematter, activity:microscope, microscopes, activity:microscopes, activity:community-microscope'
+title: "Calibrating a Microscope"
+
+tagnames: 'silica, frac-sand, pm, particle-monitoring, microscope, passive-particle-monitors, passive-pm, parent:frac-sand, microscopy, openflexure, dust-sensing, pm-sensing, particulatematter, activity:microscope, microscopes, activity:microscopes, activity:community-microscope'
 author: mathew
 path: /notes/mathew/08-23-2016/calibrating-a-microscope.md
 nid: 13391
@@ -11,7 +13,7 @@ uid: 4
 
 # Calibrating a Microscope
 
-by [mathew](../profile/mathew) | August 23, 2016 17:19
+by [mathew](../../../profile/mathew) | August 23, 2016 17:19
 
 August 23, 2016 17:19 | Tags: [silica](../tag/silica), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [particle-monitoring](../tag/particle-monitoring), [microscope](../tag/microscope), [passive-particle-monitors](../tag/passive-particle-monitors), [passive-pm](../tag/passive-pm), [parent:frac-sand](../tag/parent:frac-sand), [microscopy](../tag/microscopy), [openflexure](../tag/openflexure), [dust-sensing](../tag/dust-sensing), [pm-sensing](../tag/pm-sensing), [particulatematter](../tag/particulatematter), [activity:microscope](../tag/activity:microscope), [microscopes](../tag/microscopes), [activity:microscopes](../tag/activity:microscopes), [activity:community-microscope](../tag/activity:community-microscope)
 

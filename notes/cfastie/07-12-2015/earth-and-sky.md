@@ -1,5 +1,7 @@
 ---
-title: "Earth and Sky"\ntagnames: 'kite-aerial-photography, alaska, kap, autokap, kaptery, saturnv, skyshield, half-spherical, response:12032'
+title: "Earth and Sky"
+
+tagnames: 'kite-aerial-photography, alaska, kap, autokap, kaptery, saturnv, skyshield, half-spherical, response:12032'
 author: cfastie
 path: /notes/cfastie/07-12-2015/earth-and-sky.md
 nid: 12052
@@ -11,7 +13,7 @@ uid: 554
 
 # Earth and Sky
 
-by [cfastie](../profile/cfastie) | July 12, 2015 20:56
+by [cfastie](../../../profile/cfastie) | July 12, 2015 20:56
 
 July 12, 2015 20:56 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [alaska](../tag/alaska), [kap](../tag/kap), [autokap](../tag/autokap), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [response:12032](../tag/response:12032)
 

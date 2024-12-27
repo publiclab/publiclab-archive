@@ -1,5 +1,7 @@
 ---
-title: "Minetest safe digital polluted areas"\ntagnames: 'games, learning, kids, gaimec, minetest'
+title: "Minetest safe digital polluted areas"
+
+tagnames: 'games, learning, kids, gaimec, minetest'
 author: imvec
 path: /notes/imvec/03-08-2018/minetest-safe-digital-polluted-areas.md
 nid: 15887
@@ -11,7 +13,7 @@ uid: 495038
 
 # Minetest safe digital polluted areas
 
-by [imvec](../profile/imvec) | March 08, 2018 10:47
+by [imvec](../../../profile/imvec) | March 08, 2018 10:47
 
 March 08, 2018 10:47 | Tags: [games](../tag/games), [learning](../tag/learning), [kids](../tag/kids), [gaimec](../tag/gaimec), [minetest](../tag/minetest)
 

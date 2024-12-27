@@ -1,5 +1,7 @@
 ---
-title: "Hurricane Harvey Impact Image Sort "\ntagnames: 'oil, water-quality, pollution, image-sorting, hurricane, disaster-response, harvey, hurricanes, replication:14916'
+title: "Hurricane Harvey Impact Image Sort "
+
+tagnames: 'oil, water-quality, pollution, image-sorting, hurricane, disaster-response, harvey, hurricanes, replication:14916'
 author: zengirl2
 path: /notes/Zengirl2/10-20-2017/replication-harvey-impact-image-sort.md
 nid: 15073
@@ -11,7 +13,7 @@ uid: 423961
 
 # Hurricane Harvey Impact Image Sort 
 
-by [zengirl2](../profile/zengirl2) | October 20, 2017 03:59
+by [zengirl2](../../../profile/zengirl2) | October 20, 2017 03:59
 
 October 20, 2017 03:59 | Tags: [oil](../tag/oil), [water-quality](../tag/water-quality), [pollution](../tag/pollution), [image-sorting](../tag/image-sorting), [hurricane](../tag/hurricane), [disaster-response](../tag/disaster-response), [harvey](../tag/harvey), [hurricanes](../tag/hurricanes), [replication:14916](../tag/replication:14916)
 

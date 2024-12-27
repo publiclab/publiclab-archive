@@ -1,5 +1,7 @@
 ---
-title: "Where can I find models for community-university data co-ownership?"\ntagnames: 'ethics, legal, data-collection, data, ip, answered, question:question, community-science, question:data, question:irb, question:ethics, question:data-sharing, data-sharing, irb, question:legal, law-and-policy, question:law-and-policy'
+title: "Where can I find models for community-university data co-ownership?"
+
+tagnames: 'ethics, legal, data-collection, data, ip, answered, question:question, community-science, question:data, question:irb, question:ethics, question:data-sharing, data-sharing, irb, question:legal, law-and-policy, question:law-and-policy'
 author: nshapiro
 path: /notes/nshapiro/09-27-2017/where-can-i-find-models-for-community-university-data-co-ownership.md
 nid: 14963
@@ -9,7 +11,7 @@ uid: 380298
 
 # Where can I find models for community-university data co-ownership?
 
-by [nshapiro](../profile/nshapiro) | September 27, 2017 18:18
+by [nshapiro](../../../profile/nshapiro) | September 27, 2017 18:18
 
 September 27, 2017 18:18 | Tags: [ethics](../tag/ethics), [legal](../tag/legal), [data-collection](../tag/data-collection), [data](../tag/data), [ip](../tag/ip), [answered](../tag/answered), [question:question](../tag/question:question), [community-science](../tag/community-science), [question:data](../tag/question:data), [question:irb](../tag/question:irb), [question:ethics](../tag/question:ethics), [question:data-sharing](../tag/question:data-sharing), [data-sharing](../tag/data-sharing), [irb](../tag/irb), [question:legal](../tag/question:legal), [law-and-policy](../tag/law-and-policy), [question:law-and-policy](../tag/question:law-and-policy)
 

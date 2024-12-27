@@ -1,5 +1,7 @@
 ---
-title: "Interpreting infrared images"\ntagnames: 'near-infrared-camera, ndvi, infrared, infragram, image-interpretation, interpretation'
+title: "Interpreting infrared images"
+
+tagnames: 'near-infrared-camera, ndvi, infrared, infragram, image-interpretation, interpretation'
 author: warren
 path: /wiki/interpreting-infrared-images.md
 nid: 1872

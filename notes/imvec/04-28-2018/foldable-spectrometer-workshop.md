@@ -1,5 +1,7 @@
 ---
-title: "Foldable Spectrometer workshop - Barcelona"\ntagnames: 'spectrometer, barcelona, event, lat:41.40852, lon:2.199583, place:hangar-org'
+title: "Foldable Spectrometer workshop - Barcelona"
+
+tagnames: 'spectrometer, barcelona, event, lat:41.40852, lon:2.199583, place:hangar-org'
 author: imvec
 path: /notes/imvec/04-28-2018/foldable-spectrometer-workshop.md
 nid: 16266
@@ -11,7 +13,7 @@ uid: 495038
 
 # Foldable Spectrometer workshop - Barcelona
 
-by [imvec](../profile/imvec) | April 28, 2018 13:10
+by [imvec](../../../profile/imvec) | April 28, 2018 13:10
 
 April 28, 2018 13:10 | Tags: [spectrometer](../tag/spectrometer), [barcelona](../tag/barcelona), [event](../tag/event), [lat:41.40852](../tag/lat:41.40852), [lon:2.199583](../tag/lon:2.199583), [place:hangar-org](../tag/place:hangar-org)
 

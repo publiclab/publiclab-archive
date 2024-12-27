@@ -1,5 +1,7 @@
 ---
-title: "easy cut delta kite plans"\ntagnames: 'kite-mapping, easy-cut-delta, diy-kite, difficulty:easy, time:3h, category:build, activity:aerial-photography, activity:kite-mapping, kite-making, activity:kite-making'
+title: "easy cut delta kite plans"
+
+tagnames: 'kite-mapping, easy-cut-delta, diy-kite, difficulty:easy, time:3h, category:build, activity:aerial-photography, activity:kite-mapping, kite-making, activity:kite-making'
 author: mathew
 path: /notes/mathew/7-19-2012/easy-cut-delta-kite-plans.md
 nid: 2874
@@ -11,7 +13,7 @@ uid: 4
 
 # easy cut delta kite plans
 
-by [mathew](../profile/mathew) | July 19, 2012 07:26
+by [mathew](../../../profile/mathew) | July 19, 2012 07:26
 
 July 19, 2012 07:26 | Tags: [kite-mapping](../tag/kite-mapping), [easy-cut-delta](../tag/easy-cut-delta), [diy-kite](../tag/diy-kite), [difficulty:easy](../tag/difficulty:easy), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:kite-mapping](../tag/activity:kite-mapping), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making)
 

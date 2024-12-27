@@ -1,5 +1,7 @@
 ---
-title: "Open-Lux"\ntagnames: 'thermal-photography, ndvi, infrared, thermal-flashlight, thermal-imaging, thermal-technology, infragram, mercury, test-strips'
+title: "Open-Lux"
+
+tagnames: 'thermal-photography, ndvi, infrared, thermal-flashlight, thermal-imaging, thermal-technology, infragram, mercury, test-strips'
 author: donblair
 path: /notes/donblair/04-07-2014/open-lux.md
 nid: 10274
@@ -11,7 +13,7 @@ uid: 43651
 
 # Open-Lux
 
-by [donblair](../profile/donblair) | April 07, 2014 17:53
+by [donblair](../../../profile/donblair) | April 07, 2014 17:53
 
 April 07, 2014 17:53 | Tags: [thermal-photography](../tag/thermal-photography), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [thermal-technology](../tag/thermal-technology), [infragram](../tag/infragram), [mercury](../tag/mercury), [test-strips](../tag/test-strips)
 

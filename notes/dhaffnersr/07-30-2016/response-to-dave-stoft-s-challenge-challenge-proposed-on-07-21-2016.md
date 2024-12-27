@@ -1,5 +1,7 @@
 ---
-title: "Response to: Dave stoft's challenge (challenge proposed on 07/21/2016)"\ntagnames: ''
+title: "Response to: Dave stoft's challenge (challenge proposed on 07/21/2016)"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/07-30-2016/response-to-dave-stoft-s-challenge-challenge-proposed-on-07-21-2016.md
 nid: 13315
@@ -11,7 +13,7 @@ uid: 461120
 
 # Response to: Dave stoft's challenge (challenge proposed on 07/21/2016)
 
-by [dhaffnersr](../profile/dhaffnersr) | July 30, 2016 15:20
+by [dhaffnersr](../../../profile/dhaffnersr) | July 30, 2016 15:20
 
 July 30, 2016 15:20 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Announcing New Fellowship Team: Game Over Formosa! "\ntagnames: 'air-quality, blog, pollution, pm, environmental-justice, industry, fellowship, ej, particulate-matter, plastics, plastic, zoom:6, st-james, fellowship-teams, lat:30.101032, lon:-90.992877, with:travislondon, formosaplastics'
+title: "Announcing New Fellowship Team: Game Over Formosa! "
+
+tagnames: 'air-quality, blog, pollution, pm, environmental-justice, industry, fellowship, ej, particulate-matter, plastics, plastic, zoom:6, st-james, fellowship-teams, lat:30.101032, lon:-90.992877, with:travislondon, formosaplastics'
 author: stevie
 path: /notes/stevie/10-19-2021/announcing-new-fellowship-team-game-over-formosa.md
 nid: 27944
@@ -11,7 +13,7 @@ uid: 422561
 
 # Announcing New Fellowship Team: Game Over Formosa! 
 
-by [stevie](../profile/stevie) | October 19, 2021 17:37
+by [stevie](../../../profile/stevie) | October 19, 2021 17:37
 
 October 19, 2021 17:37 | Tags: [air-quality](../tag/air-quality), [blog](../tag/blog), [pollution](../tag/pollution), [pm](../tag/pm), [environmental-justice](../tag/environmental-justice), [industry](../tag/industry), [fellowship](../tag/fellowship), [ej](../tag/ej), [particulate-matter](../tag/particulate-matter), [plastics](../tag/plastics), [plastic](../tag/plastic), [zoom:6](../tag/zoom:6), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [lat:30.101032](../tag/lat:30.101032), [lon:-90.992877](../tag/lon:-90.992877), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
 

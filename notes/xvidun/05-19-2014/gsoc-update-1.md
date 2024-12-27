@@ -1,5 +1,7 @@
 ---
-title: "GSoC Update 1."\ntagnames: 'mapknitter, gsoc, gsoc-2014, upload, response:10138'
+title: "GSoC Update 1."
+
+tagnames: 'mapknitter, gsoc, gsoc-2014, upload, response:10138'
 author: xvidun
 path: /notes/xvidun/05-19-2014/gsoc-update-1.md
 nid: 10483
@@ -11,7 +13,7 @@ uid: 421168
 
 # GSoC Update 1.
 
-by [xvidun](../profile/xvidun) | May 19, 2014 20:44
+by [xvidun](../../../profile/xvidun) | May 19, 2014 20:44
 
 May 19, 2014 20:44 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [upload](../tag/upload), [response:10138](../tag/response:10138)
 

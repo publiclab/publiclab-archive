@@ -1,5 +1,7 @@
 ---
-title: "Cardboard Foldable KAP Rig"\ntagnames: 'balloon-mapping, kite-aerial-photography, kap, fold-up, packaging, foldable, diy-mount-kit, cardboard'
+title: "Cardboard Foldable KAP Rig"
+
+tagnames: 'balloon-mapping, kite-aerial-photography, kap, fold-up, packaging, foldable, diy-mount-kit, cardboard'
 author: ranon
 path: /notes/ranon/06-14-2016/cardboard-foldable-kap-rig.md
 nid: 13196
@@ -11,7 +13,7 @@ uid: 477060
 
 # Cardboard Foldable KAP Rig
 
-by [ranon](../profile/ranon) | June 14, 2016 19:17
+by [ranon](../../../profile/ranon) | June 14, 2016 19:17
 
 June 14, 2016 19:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [fold-up](../tag/fold-up), [packaging](../tag/packaging), [foldable](../tag/foldable), [diy-mount-kit](../tag/diy-mount-kit), [cardboard](../tag/cardboard)
 

@@ -1,5 +1,7 @@
 ---
-title: "Pollution to Solution: First Research Note 1, 10/14/14"\ntagnames: 'arduino, massachusetts, air-quality, air, pollution, sensor, solar, pioneer-valley, springfield, ozone, nitrogen-dioxide, air-sensors, air-sensor-projects, first-time-poster'
+title: "Pollution to Solution: First Research Note 1, 10/14/14"
+
+tagnames: 'arduino, massachusetts, air-quality, air, pollution, sensor, solar, pioneer-valley, springfield, ozone, nitrogen-dioxide, air-sensors, air-sensor-projects, first-time-poster'
 author: epongrat
 path: /notes/epongrat/10-14-2014/research-note-1-10-14-14.md
 nid: 11263
@@ -11,7 +13,7 @@ uid: 428825
 
 # Pollution to Solution: First Research Note 1, 10/14/14
 
-by [epongrat](../profile/epongrat) | October 14, 2014 20:52
+by [epongrat](../../../profile/epongrat) | October 14, 2014 20:52
 
 October 14, 2014 20:52 | Tags: [arduino](../tag/arduino), [massachusetts](../tag/massachusetts), [air-quality](../tag/air-quality), [air](../tag/air), [pollution](../tag/pollution), [sensor](../tag/sensor), [solar](../tag/solar), [pioneer-valley](../tag/pioneer-valley), [springfield](../tag/springfield), [ozone](../tag/ozone), [nitrogen-dioxide](../tag/nitrogen-dioxide), [air-sensors](../tag/air-sensors), [air-sensor-projects](../tag/air-sensor-projects), [first-time-poster](../tag/first-time-poster)
 

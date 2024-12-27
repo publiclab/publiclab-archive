@@ -1,5 +1,7 @@
 ---
-title: "infragram-webapp-dev"\ntagnames: 'near-infrared-camera, infragram, app'
+title: "infragram-webapp-dev"
+
+tagnames: 'near-infrared-camera, infragram, app'
 author: donblair
 path: /wiki/infragram-webapp-dev.md
 nid: 7790

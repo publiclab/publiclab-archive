@@ -1,5 +1,7 @@
 ---
-title: "Sketches for a self-contained portable spectrometer using a Raspberry Pi"\ntagnames: 'spectrometer'
+title: "Sketches for a self-contained portable spectrometer using a Raspberry Pi"
+
+tagnames: 'spectrometer'
 author: warren
 path: /notes/warren/5-9-2012/sketches-self-contained-portable-spectrometer-using-raspberry-pi.md
 nid: 1936
@@ -11,7 +13,7 @@ uid: 1
 
 # Sketches for a self-contained portable spectrometer using a Raspberry Pi
 
-by [warren](../profile/warren) | May 09, 2012 20:18
+by [warren](../../../profile/warren) | May 09, 2012 20:18
 
 May 09, 2012 20:18 | Tags: [spectrometer](../tag/spectrometer)
 

@@ -1,5 +1,7 @@
 ---
-title: "Picking a venue for a Barnraising event"\ntagnames: 'barnraising, barnraising-host, preparations-logistics, activity:preparations-logistics'
+title: "Picking a venue for a Barnraising event"
+
+tagnames: 'barnraising, barnraising-host, preparations-logistics, activity:preparations-logistics'
 author: stevie
 path: /notes/stevie/07-19-2018/picking-a-venue-for-a-barnraising-event.md
 nid: 16753
@@ -11,7 +13,7 @@ uid: 422561
 
 # Picking a venue for a Barnraising event
 
-by [stevie](../profile/stevie) | July 19, 2018 20:16
+by [stevie](../../../profile/stevie) | July 19, 2018 20:16
 
 July 19, 2018 20:16 | Tags: [barnraising](../tag/barnraising), [barnraising-host](../tag/barnraising-host), [preparations-logistics](../tag/preparations-logistics), [activity:preparations-logistics](../tag/activity:preparations-logistics)
 

@@ -1,5 +1,7 @@
 ---
-title: "New Comer Landing Page"\ntagnames: 'website, plots2, introduction, wintercamp, newcomers, onboarding, out-of-date'
+title: "New Comer Landing Page"
+
+tagnames: 'website, plots2, introduction, wintercamp, newcomers, onboarding, out-of-date'
 author: mollydanielsson
 path: /wiki/new-comer-landing-page.md
 nid: 5608

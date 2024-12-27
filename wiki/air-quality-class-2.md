@@ -1,5 +1,7 @@
 ---
-title: "Air Quality Class 2"\ntagnames: 'epa, cypress-hills, chaq'
+title: "Air Quality Class 2"
+
+tagnames: 'epa, cypress-hills, chaq'
 author: liz
 path: /wiki/air-quality-class-2.md
 nid: 5947

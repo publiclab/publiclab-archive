@@ -1,5 +1,7 @@
 ---
-title: "Mare Liberum Fishing Bob Workshop"\ntagnames: 'thermal-photography, workshop, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, mare-liberum, replication:689'
+title: "Mare Liberum Fishing Bob Workshop"
+
+tagnames: 'thermal-photography, workshop, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, mare-liberum, replication:689'
 author: kgrevera
 path: /notes/kgrevera/07-22-2015/mare-liberum-fishing-bob-workshop.md
 nid: 12088
@@ -11,7 +13,7 @@ uid: 432001
 
 # Mare Liberum Fishing Bob Workshop
 
-by [kgrevera](../profile/kgrevera) | July 22, 2015 00:44
+by [kgrevera](../../../profile/kgrevera) | July 22, 2015 00:44
 
 July 22, 2015 00:44 | Tags: [thermal-photography](../tag/thermal-photography), [workshop](../tag/workshop), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [mare-liberum](../tag/mare-liberum), [replication:689](../tag/replication:689)
 

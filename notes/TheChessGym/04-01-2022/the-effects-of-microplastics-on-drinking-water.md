@@ -1,5 +1,7 @@
 ---
-title: "The Effects Of Microplastics On Drinking Water "\ntagnames: 'microplastics, lat:22, lon:76, zoom:5'
+title: "The Effects Of Microplastics On Drinking Water "
+
+tagnames: 'microplastics, lat:22, lon:76, zoom:5'
 author: TheChessGym
 path: /notes/TheChessGym/04-01-2022/the-effects-of-microplastics-on-drinking-water.md
 nid: 30243
@@ -11,7 +13,7 @@ uid: 788868
 
 # The Effects Of Microplastics On Drinking Water 
 
-by [TheChessGym](../profile/TheChessGym) | April 01, 2022 15:06
+by [TheChessGym](../../../profile/TheChessGym) | April 01, 2022 15:06
 
 April 01, 2022 15:06 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:5](../tag/zoom:5)
 

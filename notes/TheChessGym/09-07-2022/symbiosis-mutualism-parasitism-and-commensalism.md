@@ -1,5 +1,7 @@
 ---
-title: "Symbiosis, Mutualism, Parasitism, and Commensalism "\ntagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
+title: "Symbiosis, Mutualism, Parasitism, and Commensalism "
+
+tagnames: 'lat:22, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/09-07-2022/symbiosis-mutualism-parasitism-and-commensalism.md
 nid: 34948
@@ -11,7 +13,7 @@ uid: 788868
 
 # Symbiosis, Mutualism, Parasitism, and Commensalism 
 
-by [TheChessGym](../profile/TheChessGym) | September 07, 2022 13:32
+by [TheChessGym](../../../profile/TheChessGym) | September 07, 2022 13:32
 
 September 07, 2022 13:32 | Tags: [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

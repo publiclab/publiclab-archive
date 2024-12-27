@@ -1,5 +1,7 @@
 ---
-title: "Smartphone spectrometer instructions"\ntagnames: 'spectrometer, kickstarter, smartphone-spectrometer'
+title: "Smartphone spectrometer instructions"
+
+tagnames: 'spectrometer, kickstarter, smartphone-spectrometer'
 author: warren
 path: /notes/warren/09-04-2013/smartphone-spectrometer-instructions.md
 nid: 9278
@@ -11,7 +13,7 @@ uid: 1
 
 # Smartphone spectrometer instructions
 
-by [warren](../profile/warren) | September 04, 2013 17:06
+by [warren](../../../profile/warren) | September 04, 2013 17:06
 
 September 04, 2013 17:06 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [smartphone-spectrometer](../tag/smartphone-spectrometer)
 

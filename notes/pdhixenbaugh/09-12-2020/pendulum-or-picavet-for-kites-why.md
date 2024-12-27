@@ -1,5 +1,7 @@
 ---
-title: "Pendulum or Picavet for Kites. Why?"\ntagnames: 'picavet, kap-rigs, pendulum-rig'
+title: "Pendulum or Picavet for Kites. Why?"
+
+tagnames: 'picavet, kap-rigs, pendulum-rig'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/09-12-2020/pendulum-or-picavet-for-kites-why.md
 nid: 24567
@@ -9,7 +11,7 @@ uid: 459085
 
 # Pendulum or Picavet for Kites. Why?
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) | September 12, 2020 19:39
+by [pdhixenbaugh](../../../profile/pdhixenbaugh) | September 12, 2020 19:39
 
 September 12, 2020 19:39 | Tags: [picavet](../tag/picavet), [kap-rigs](../tag/kap-rigs), [pendulum-rig](../tag/pendulum-rig)
 

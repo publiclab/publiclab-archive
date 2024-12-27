@@ -1,5 +1,7 @@
 ---
-title: "Appreciating Reporting Support Materials"\ntagnames: 'farming, reporting, cafo, frac-sand, parent:frac-sand, permits, farm-animals, reporting-forms, frac-sand-reporting, sentinel, parent:the-sand-sentinel-program, permit-violation, sand-sentinel, sentinel-program, brown-water'
+title: "Appreciating Reporting Support Materials"
+
+tagnames: 'farming, reporting, cafo, frac-sand, parent:frac-sand, permits, farm-animals, reporting-forms, frac-sand-reporting, sentinel, parent:the-sand-sentinel-program, permit-violation, sand-sentinel, sentinel-program, brown-water'
 author: stevie
 path: /notes/stevie/03-25-2021/appreciating-reporting-support-materials.md
 nid: 26028
@@ -11,7 +13,7 @@ uid: 422561
 
 # Appreciating Reporting Support Materials
 
-by [stevie](../profile/stevie) | March 25, 2021 17:29
+by [stevie](../../../profile/stevie) | March 25, 2021 17:29
 
 March 25, 2021 17:29 | Tags: [farming](../tag/farming), [reporting](../tag/reporting), [cafo](../tag/cafo), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [permits](../tag/permits), [farm-animals](../tag/farm-animals), [reporting-forms](../tag/reporting-forms), [frac-sand-reporting](../tag/frac-sand-reporting), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [permit-violation](../tag/permit-violation), [sand-sentinel](../tag/sand-sentinel), [sentinel-program](../tag/sentinel-program), [brown-water](../tag/brown-water)
 

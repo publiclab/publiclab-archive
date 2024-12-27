@@ -1,5 +1,7 @@
 ---
-title: "Soil Sampling Toolkit"\ntagnames: 'soil, soil-testing, tonawanda, method, soil-sampling, with:jjcreedon, parent:soil, parent:soil-sampling, soil-sampling-main'
+title: "Soil Sampling Toolkit"
+
+tagnames: 'soil, soil-testing, tonawanda, method, soil-sampling, with:jjcreedon, parent:soil, parent:soil-sampling, soil-sampling-main'
 author: Bronwen
 path: /wiki/soil-testing-toolkit.md
 nid: 17115

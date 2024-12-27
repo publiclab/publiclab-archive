@@ -1,5 +1,7 @@
 ---
-title: "Interview: Ramsey Sprague"\ntagnames: 'interview, mobile, blog, grassroots, environmental-justice, community-organizing, interview-series, mejac, africatown, alabama, series:community-interviews'
+title: "Interview: Ramsey Sprague"
+
+tagnames: 'interview, mobile, blog, grassroots, environmental-justice, community-organizing, interview-series, mejac, africatown, alabama, series:community-interviews'
 author: stevie
 path: /notes/stevie/08-11-2017/interview-ramsey-sprague.md
 nid: 14734
@@ -11,7 +13,7 @@ uid: 422561
 
 # Interview: Ramsey Sprague
 
-by [stevie](../profile/stevie) | August 11, 2017 20:45
+by [stevie](../../../profile/stevie) | August 11, 2017 20:45
 
 August 11, 2017 20:45 | Tags: [interview](../tag/interview), [mobile](../tag/mobile), [blog](../tag/blog), [grassroots](../tag/grassroots), [environmental-justice](../tag/environmental-justice), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [mejac](../tag/mejac), [africatown](../tag/africatown), [alabama](../tag/alabama), [series:community-interviews](../tag/series:community-interviews)
 

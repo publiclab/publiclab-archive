@@ -1,5 +1,7 @@
 ---
-title: "March Mapping Madness"\ntagnames: 'balloon-mapping, kite-mapping, march-mapping-madness'
+title: "March Mapping Madness"
+
+tagnames: 'balloon-mapping, kite-mapping, march-mapping-madness'
 author: liz
 path: /wiki/march-mapping-madness.md
 nid: 827

@@ -1,5 +1,7 @@
 ---
-title: "Spectrometry FAQ"\ntagnames: 'spectrometer'
+title: "Spectrometry FAQ"
+
+tagnames: 'spectrometer'
 author: warren
 path: /wiki/spectrometry-faq.md
 nid: 5288

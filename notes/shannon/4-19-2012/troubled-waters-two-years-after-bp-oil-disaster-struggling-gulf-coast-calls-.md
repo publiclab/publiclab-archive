@@ -1,5 +1,7 @@
 ---
-title: "Troubled Waters: two years after the BP oil disaster, a struggling Gulf Coast calls for national leadership for recovery"\ntagnames: ''
+title: "Troubled Waters: two years after the BP oil disaster, a struggling Gulf Coast calls for national leadership for recovery"
+
+tagnames: ''
 author: Shannon
 path: /notes/shannon/4-19-2012/troubled-waters-two-years-after-bp-oil-disaster-struggling-gulf-coast-calls-.md
 nid: 1710
@@ -9,7 +11,7 @@ uid: 9
 
 # Troubled Waters: two years after the BP oil disaster, a struggling Gulf Coast calls for national leadership for recovery
 
-by [Shannon](../profile/Shannon) | April 19, 2012 18:05
+by [Shannon](../../../profile/Shannon) | April 19, 2012 18:05
 
 April 19, 2012 18:05 | Tags: 
 

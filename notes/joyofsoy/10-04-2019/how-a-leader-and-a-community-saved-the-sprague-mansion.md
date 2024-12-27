@@ -1,5 +1,7 @@
 ---
-title: "How a Leader and a Community Saved the Sprague Mansion"\ntagnames: 'csf, one-cranston'
+title: "How a Leader and a Community Saved the Sprague Mansion"
+
+tagnames: 'csf, one-cranston'
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/how-a-leader-and-a-community-saved-the-sprague-mansion.md
 nid: 21076
@@ -11,7 +13,7 @@ uid: 540844
 
 # How a Leader and a Community Saved the Sprague Mansion
 
-by [joyofsoy](../profile/joyofsoy) | October 04, 2019 17:27
+by [joyofsoy](../../../profile/joyofsoy) | October 04, 2019 17:27
 
 October 04, 2019 17:27 | Tags: [csf](../tag/csf), [one-cranston](../tag/one-cranston)
 

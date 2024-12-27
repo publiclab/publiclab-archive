@@ -1,5 +1,7 @@
 ---
-title: "TechRaking: Sensing the News"\ntagnames: 'community, event, sensors, engagement'
+title: "TechRaking: Sensing the News"
+
+tagnames: 'community, event, sensors, engagement'
 author: Matt_P
 path: /notes/Matt_P/02-02-2017/techraking-sensing-the-news.md
 nid: 13897
@@ -11,7 +13,7 @@ uid: 343508
 
 # TechRaking: Sensing the News
 
-by [Matt_P](../profile/Matt_P) | February 02, 2017 18:27
+by [Matt_P](../../../profile/Matt_P) | February 02, 2017 18:27
 
 February 02, 2017 18:27 | Tags: [community](../tag/community), [event](../tag/event), [sensors](../tag/sensors), [engagement](../tag/engagement)
 

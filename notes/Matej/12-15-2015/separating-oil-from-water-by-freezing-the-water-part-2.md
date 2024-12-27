@@ -1,5 +1,7 @@
 ---
-title: "Separating Oil from Water by Freezing the Water Part 2"\ntagnames: 'oil, fluorescence, crude, sampling, oil-testing-kit, sheen, otk, os, response:12405, freezing'
+title: "Separating Oil from Water by Freezing the Water Part 2"
+
+tagnames: 'oil, fluorescence, crude, sampling, oil-testing-kit, sheen, otk, os, response:12405, freezing'
 author: Matej
 path: /notes/Matej/12-15-2015/separating-oil-from-water-by-freezing-the-water-part-2.md
 nid: 12520
@@ -11,7 +13,7 @@ uid: 451808
 
 # Separating Oil from Water by Freezing the Water Part 2
 
-by [Matej](../profile/Matej) | December 15, 2015 18:34
+by [Matej](../../../profile/Matej) | December 15, 2015 18:34
 
 December 15, 2015 18:34 | Tags: [oil](../tag/oil), [fluorescence](../tag/fluorescence), [crude](../tag/crude), [sampling](../tag/sampling), [oil-testing-kit](../tag/oil-testing-kit), [sheen](../tag/sheen), [otk](../tag/otk), [os](../tag/os), [response:12405](../tag/response:12405), [freezing](../tag/freezing)
 

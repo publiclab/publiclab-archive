@@ -1,5 +1,7 @@
 ---
-title: "article on vertical consolidation in for-profit scholarly research infrastructure"\ntagnames: 'knowledge-production'
+title: "article on vertical consolidation in for-profit scholarly research infrastructure"
+
+tagnames: 'knowledge-production'
 author: liz
 path: /notes/liz/01-20-2018/article-on-vertical-consolidation-in-for-profit-scholarly-research-infrastructure.md
 nid: 15573
@@ -11,7 +13,7 @@ uid: 7
 
 # article on vertical consolidation in for-profit scholarly research infrastructure
 
-by [liz](../profile/liz) | January 20, 2018 20:56
+by [liz](../../../profile/liz) | January 20, 2018 20:56
 
 January 20, 2018 20:56 | Tags: [knowledge-production](../tag/knowledge-production)
 

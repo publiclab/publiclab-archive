@@ -1,5 +1,7 @@
 ---
-title: "Best NDVI Filter"\ntagnames: 'question:general'
+title: "Best NDVI Filter"
+
+tagnames: 'question:general'
 author: abrenner
 path: /notes/abrenner/04-22-2017/best-ndvi-filter.md
 nid: 14131
@@ -9,7 +11,7 @@ uid: 506102
 
 # Best NDVI Filter
 
-by [abrenner](../profile/abrenner) | April 22, 2017 19:11
+by [abrenner](../../../profile/abrenner) | April 22, 2017 19:11
 
 April 22, 2017 19:11 | Tags: [question:general](../tag/question:general)
 

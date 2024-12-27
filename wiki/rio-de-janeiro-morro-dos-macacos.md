@@ -1,5 +1,7 @@
 ---
-title: "Rio de Janeiro - Morro dos Macacos"\ntagnames: 'kite-mapping, rio'
+title: "Rio de Janeiro - Morro dos Macacos"
+
+tagnames: 'kite-mapping, rio'
 author: ives
 path: /wiki/rio-de-janeiro-morro-dos-macacos.md
 nid: 652

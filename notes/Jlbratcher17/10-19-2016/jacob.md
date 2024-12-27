@@ -1,5 +1,7 @@
 ---
-title: "Jacob"\ntagnames: 'hidden:response, response:13586'
+title: "Jacob"
+
+tagnames: 'hidden:response, response:13586'
 author: Jlbratcher17
 path: /notes/Jlbratcher17/10-19-2016/jacob.md
 nid: 13608
@@ -11,7 +13,7 @@ uid: 494919
 
 # Jacob
 
-by [Jlbratcher17](../profile/Jlbratcher17) | October 19, 2016 17:26
+by [Jlbratcher17](../../../profile/Jlbratcher17) | October 19, 2016 17:26
 
 October 19, 2016 17:26 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 

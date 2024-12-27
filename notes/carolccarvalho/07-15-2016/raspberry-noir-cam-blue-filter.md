@@ -1,5 +1,7 @@
 ---
-title: "Raspberry + NoIR cam + Blue filter"\ntagnames: 'ndvi, infrared, raspberry-pi, raspberry, pi-noir, raspberry-pi-infragram, activity:raspberry-pi-infragram'
+title: "Raspberry + NoIR cam + Blue filter"
+
+tagnames: 'ndvi, infrared, raspberry-pi, raspberry, pi-noir, raspberry-pi-infragram, activity:raspberry-pi-infragram'
 author: carolccarvalho
 path: /notes/carolccarvalho/07-15-2016/raspberry-noir-cam-blue-filter.md
 nid: 13289
@@ -11,7 +13,7 @@ uid: 461381
 
 # Raspberry + NoIR cam + Blue filter
 
-by [carolccarvalho](../profile/carolccarvalho) | July 15, 2016 14:54
+by [carolccarvalho](../../../profile/carolccarvalho) | July 15, 2016 14:54
 
 July 15, 2016 14:54 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [raspberry-pi](../tag/raspberry-pi), [raspberry](../tag/raspberry), [pi-noir](../tag/pi-noir), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram)
 

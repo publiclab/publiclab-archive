@@ -1,5 +1,7 @@
 ---
-title: "Nonprofit"\ntagnames: ''
+title: "Nonprofit"
+
+tagnames: ''
 author: warren
 path: /wiki/nonprofit.md
 nid: 165

@@ -1,5 +1,7 @@
 ---
-title: "On being doomed to repeat historical lithographs"\ntagnames: 'kite-mapping, middlebury, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12355, birdseye, s100-gps'
+title: "On being doomed to repeat historical lithographs"
+
+tagnames: 'kite-mapping, middlebury, vermont, kite, saturnv, skyshield, half-spherical, littleplanet, response:12355, birdseye, s100-gps'
 author: cfastie
 path: /notes/cfastie/11-05-2015/on-being-doomed-to-repeat-historical-lithographs.md
 nid: 12370
@@ -11,7 +13,7 @@ uid: 554
 
 # On being doomed to repeat historical lithographs
 
-by [cfastie](../profile/cfastie) | November 05, 2015 03:28
+by [cfastie](../../../profile/cfastie) | November 05, 2015 03:28
 
 November 05, 2015 03:28 | Tags: [kite-mapping](../tag/kite-mapping), [middlebury](../tag/middlebury), [vermont](../tag/vermont), [kite](../tag/kite), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [littleplanet](../tag/littleplanet), [response:12355](../tag/response:12355), [birdseye](../tag/birdseye), [s100-gps](../tag/s100-gps)
 

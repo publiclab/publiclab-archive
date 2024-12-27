@@ -1,5 +1,7 @@
 ---
-title: "jQuery dependencies"\ntagnames: ''
+title: "jQuery dependencies"
+
+tagnames: ''
 author: warren
 path: /wiki/jquery-dependencies.md
 nid: 784

@@ -1,5 +1,7 @@
 ---
-title: "DIYBIO Ideas and Applications"\ntagnames: 'spectrometer, diybio, igem'
+title: "DIYBIO Ideas and Applications"
+
+tagnames: 'spectrometer, diybio, igem'
 author: donblair
 path: /wiki/diybio-ideas-and-applications.md
 nid: 7408

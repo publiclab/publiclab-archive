@@ -1,5 +1,7 @@
 ---
-title: "Notifications"\ntagnames: 'notifications'
+title: "Notifications"
+
+tagnames: 'notifications'
 author: warren
 path: /wiki/notifications.md
 nid: 20272

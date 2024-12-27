@@ -1,5 +1,7 @@
 ---
-title: "Prototype CounterTop Spectrometer Built(Works)"\ntagnames: 'spectrometer, kickstarter, countertop-spectrometer, first-time-poster'
+title: "Prototype CounterTop Spectrometer Built(Works)"
+
+tagnames: 'spectrometer, kickstarter, countertop-spectrometer, first-time-poster'
 author: cbreuer
 path: /notes/cbreuer/2-2-2013/prototype-countertop-spectrometer-builtworks.md
 nid: 5875
@@ -11,7 +13,7 @@ uid: 49682
 
 # Prototype CounterTop Spectrometer Built(Works)
 
-by [cbreuer](../profile/cbreuer) | February 03, 2013 04:42
+by [cbreuer](../../../profile/cbreuer) | February 03, 2013 04:42
 
 February 03, 2013 04:42 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter), [countertop-spectrometer](../tag/countertop-spectrometer), [first-time-poster](../tag/first-time-poster)
 

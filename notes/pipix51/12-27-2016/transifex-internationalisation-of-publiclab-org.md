@@ -1,5 +1,7 @@
 ---
-title: "Transifex Internationalisation of Publiclab.org"\ntagnames: 'website, activity, localization, translation, language, gcin, gcin-2016, replication:13651, transifex'
+title: "Transifex Internationalisation of Publiclab.org"
+
+tagnames: 'website, activity, localization, translation, language, gcin, gcin-2016, replication:13651, transifex'
 author: pipix51
 path: /notes/pipix51/12-27-2016/transifex-internationalisation-of-publiclab-org.md
 nid: 13808
@@ -11,7 +13,7 @@ uid: 500694
 
 # Transifex Internationalisation of Publiclab.org
 
-by [pipix51](../profile/pipix51) | December 27, 2016 14:38
+by [pipix51](../../../profile/pipix51) | December 27, 2016 14:38
 
 December 27, 2016 14:38 | Tags: [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [gcin](../tag/gcin), [gcin-2016](../tag/gcin-2016), [replication:13651](../tag/replication:13651), [transifex](../tag/transifex)
 

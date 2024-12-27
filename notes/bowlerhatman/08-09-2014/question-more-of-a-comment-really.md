@@ -1,5 +1,7 @@
 ---
-title: "Question: More of a comment, really"\ntagnames: 'question:spectrometry'
+title: "Question: More of a comment, really"
+
+tagnames: 'question:spectrometry'
 author: bowlerhatman
 path: /notes/bowlerhatman/08-09-2014/question-more-of-a-comment-really.md
 nid: 11027
@@ -9,7 +11,7 @@ uid: 426593
 
 # Question: More of a comment, really
 
-by [bowlerhatman](../profile/bowlerhatman) | August 09, 2014 09:11
+by [bowlerhatman](../../../profile/bowlerhatman) | August 09, 2014 09:11
 
 August 09, 2014 09:11 | Tags: [question:spectrometry](../tag/question:spectrometry)
 

@@ -1,5 +1,7 @@
 ---
-title: "balloon"\ntagnames: 'redirect:balloon-mapping'
+title: "balloon"
+
+tagnames: 'redirect:balloon-mapping'
 author: warren
 path: /wiki/balloon.md
 nid: 18415

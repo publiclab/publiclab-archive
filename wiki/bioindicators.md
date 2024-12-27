@@ -1,5 +1,7 @@
 ---
-title: "Bioindicators"\ntagnames: 'bioassay, method, bioindicators'
+title: "Bioindicators"
+
+tagnames: 'bioassay, method, bioindicators'
 author: alejobonifacio
 path: /wiki/bioindicators.md
 nid: 27476

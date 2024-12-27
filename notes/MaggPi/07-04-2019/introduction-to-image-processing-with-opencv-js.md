@@ -1,5 +1,7 @@
 ---
-title: "Introduction to Image Processing with OpenCV.js"\ntagnames: 'opencv, gsoc-2019, opencv.js, visual-studio-code'
+title: "Introduction to Image Processing with OpenCV.js"
+
+tagnames: 'opencv, gsoc-2019, opencv.js, visual-studio-code'
 author: MaggPi
 path: /notes/MaggPi/07-04-2019/introduction-to-image-processing-with-opencv-js.md
 nid: 19987
@@ -11,7 +13,7 @@ uid: 501996
 
 # Introduction to Image Processing with OpenCV.js
 
-by [MaggPi](../profile/MaggPi) | July 04, 2019 09:04
+by [MaggPi](../../../profile/MaggPi) | July 04, 2019 09:04
 
 July 04, 2019 09:04 | Tags: [opencv](../tag/opencv), [gsoc-2019](../tag/gsoc-2019), [opencv.js](../tag/opencv.js), [visual-studio-code](../tag/visual-studio-code)
 

@@ -1,5 +1,7 @@
 ---
-title: "London aerial mapping meet-up: Tuesday, February 14th"\ntagnames: 'london, ucl, uk, eu'
+title: "London aerial mapping meet-up: Tuesday, February 14th"
+
+tagnames: 'london, ucl, uk, eu'
 author: Shannon
 path: /wiki/london-aerial-mapping-meet-tuesday-february-14th.md
 nid: 781

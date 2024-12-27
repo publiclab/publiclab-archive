@@ -1,5 +1,7 @@
 ---
-title: "User Interface on Mac"\ntagnames: 'mapknitter, aerial-photography, aerial-imaging, question:mapknitter, question:aerial-imaging, question:aerial-photography'
+title: "User Interface on Mac"
+
+tagnames: 'mapknitter, aerial-photography, aerial-imaging, question:mapknitter, question:aerial-imaging, question:aerial-photography'
 author: mlapey
 path: /notes/mlapey/05-14-2017/user-interface-on-mac.md
 nid: 14189
@@ -9,7 +11,7 @@ uid: 507247
 
 # User Interface on Mac
 
-by [mlapey](../profile/mlapey) | May 14, 2017 05:25
+by [mlapey](../../../profile/mlapey) | May 14, 2017 05:25
 
 May 14, 2017 05:25 | Tags: [mapknitter](../tag/mapknitter), [aerial-photography](../tag/aerial-photography), [aerial-imaging](../tag/aerial-imaging), [question:mapknitter](../tag/question:mapknitter), [question:aerial-imaging](../tag/question:aerial-imaging), [question:aerial-photography](../tag/question:aerial-photography)
 

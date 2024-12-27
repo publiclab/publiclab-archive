@@ -1,5 +1,7 @@
 ---
-title: "Farm Mapping at Cloverleaf Farmstand, Davis, CA"\ntagnames: 'gopro, gopro-ag'
+title: "Farm Mapping at Cloverleaf Farmstand, Davis, CA"
+
+tagnames: 'gopro, gopro-ag'
 author: MicheleTobias
 path: /notes/MicheleTobias/06-04-2013/farm-mapping-at-cloverleaf-farmstand-davis-ca.md
 nid: 8051
@@ -11,7 +13,7 @@ uid: 149
 
 # Farm Mapping at Cloverleaf Farmstand, Davis, CA
 
-by [MicheleTobias](../profile/MicheleTobias) | June 04, 2013 21:38
+by [MicheleTobias](../../../profile/MicheleTobias) | June 04, 2013 21:38
 
 June 04, 2013 21:38 | Tags: [gopro](../tag/gopro), [gopro-ag](../tag/gopro-ag)
 

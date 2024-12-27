@@ -1,5 +1,7 @@
 ---
-title: "Low-cost multimeter colorimeter"\ntagnames: 'spectrometer, spectrophotometer, quantitative, parent:spectrometer, colorimetry, multimeter, first-time-poster'
+title: "Low-cost multimeter colorimeter"
+
+tagnames: 'spectrometer, spectrophotometer, quantitative, parent:spectrometer, colorimetry, multimeter, first-time-poster'
 author: jakemartin
 path: /notes/jakemartin/12-01-2014/low-cost-multimeter-colorimeter.md
 nid: 11414
@@ -11,7 +13,7 @@ uid: 422965
 
 # Low-cost multimeter colorimeter
 
-by [jakemartin](../profile/jakemartin) | December 01, 2014 03:18
+by [jakemartin](../../../profile/jakemartin) | December 01, 2014 03:18
 
 December 01, 2014 03:18 | Tags: [spectrometer](../tag/spectrometer), [spectrophotometer](../tag/spectrophotometer), [quantitative](../tag/quantitative), [parent:spectrometer](../tag/parent:spectrometer), [colorimetry](../tag/colorimetry), [multimeter](../tag/multimeter), [first-time-poster](../tag/first-time-poster)
 

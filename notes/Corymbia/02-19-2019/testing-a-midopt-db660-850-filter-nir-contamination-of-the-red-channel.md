@@ -1,5 +1,7 @@
 ---
-title: "Testing a Midopt DB660/850 filter: NIR contamination of the red channel"\ntagnames: 'near-infrared-camera, ndvi, nir, infrared, near-infrared, filter, testing, plant-health, dualband, midopt, first-time-poster, dng'
+title: "Testing a Midopt DB660/850 filter: NIR contamination of the red channel"
+
+tagnames: 'near-infrared-camera, ndvi, nir, infrared, near-infrared, filter, testing, plant-health, dualband, midopt, first-time-poster, dng'
 author: Corymbia
 path: /notes/Corymbia/02-19-2019/testing-a-midopt-db660-850-filter-nir-contamination-of-the-red-channel.md
 nid: 18394
@@ -11,7 +13,7 @@ uid: 572650
 
 # Testing a Midopt DB660/850 filter: NIR contamination of the red channel
 
-by [Corymbia](../profile/Corymbia) | February 19, 2019 06:16
+by [Corymbia](../../../profile/Corymbia) | February 19, 2019 06:16
 
 February 19, 2019 06:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [nir](../tag/nir), [infrared](../tag/infrared), [near-infrared](../tag/near-infrared), [filter](../tag/filter), [testing](../tag/testing), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [first-time-poster](../tag/first-time-poster), [dng](../tag/dng)
 

@@ -1,5 +1,7 @@
 ---
-title: "riffle-dev"\ntagnames: 'riffle, parent:riffle'
+title: "riffle-dev"
+
+tagnames: 'riffle, parent:riffle'
 author: donblair
 path: /wiki/riffle-dev.md
 nid: 11074

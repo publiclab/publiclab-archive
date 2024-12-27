@@ -1,5 +1,7 @@
 ---
-title: "Finding closest match spectra from the database (GSoC) - Final Post!"\ntagnames: 'spectrometer, spectralworkbench, spectrometry, gsoc-2013, spectral-matching, closest-match'
+title: "Finding closest match spectra from the database (GSoC) - Final Post!"
+
+tagnames: 'spectrometer, spectralworkbench, spectrometry, gsoc-2013, spectral-matching, closest-match'
 author: Sreyanth
 path: /notes/Sreyanth/09-14-2013/finding-closest-match-spectra-from-the-database-gsoc-final-post.md
 nid: 9330
@@ -11,7 +13,7 @@ uid: 96713
 
 # Finding closest match spectra from the database (GSoC) - Final Post!
 
-by [Sreyanth](../profile/Sreyanth) | September 14, 2013 21:03
+by [Sreyanth](../../../profile/Sreyanth) | September 14, 2013 21:03
 
 September 14, 2013 21:03 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [spectrometry](../tag/spectrometry), [gsoc-2013](../tag/gsoc-2013), [spectral-matching](../tag/spectral-matching), [closest-match](../tag/closest-match)
 

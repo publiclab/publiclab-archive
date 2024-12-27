@@ -1,5 +1,7 @@
 ---
-title: "Potentiostat Notes-3; WheeStat 5.1 Fabrication"\ntagnames: 'potentiostat, wheestat'
+title: "Potentiostat Notes-3; WheeStat 5.1 Fabrication"
+
+tagnames: 'potentiostat, wheestat'
 author: JSummers
 path: /notes/JSummers/12-30-2013/potentiostat-notes-3-wheestat-5-1-fabrication.md
 nid: 9918
@@ -11,7 +13,7 @@ uid: 304279
 
 # Potentiostat Notes-3; WheeStat 5.1 Fabrication
 
-by [JSummers](../profile/JSummers) | December 30, 2013 22:50
+by [JSummers](../../../profile/JSummers) | December 30, 2013 22:50
 
 December 30, 2013 22:50 | Tags: [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
 

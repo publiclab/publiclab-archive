@@ -1,5 +1,7 @@
 ---
-title: "Underwater Plume Sampling Methods"\ntagnames: 'plume, water-quality, water-monitoring, sampling, underwater, methodology, thermal-plumes, hydrothermal, method, effluent, first-time-poster, effluent-plume'
+title: "Underwater Plume Sampling Methods"
+
+tagnames: 'plume, water-quality, water-monitoring, sampling, underwater, methodology, thermal-plumes, hydrothermal, method, effluent, first-time-poster, effluent-plume'
 author: maxliboiron
 path: /notes/maxliboiron/02-11-2014/underwater-plume-sampling-methods.md
 nid: 10027
@@ -11,7 +13,7 @@ uid: 310707
 
 # Underwater Plume Sampling Methods
 
-by [maxliboiron](../profile/maxliboiron) | February 11, 2014 19:35
+by [maxliboiron](../../../profile/maxliboiron) | February 11, 2014 19:35
 
 February 11, 2014 19:35 | Tags: [plume](../tag/plume), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [sampling](../tag/sampling), [underwater](../tag/underwater), [methodology](../tag/methodology), [thermal-plumes](../tag/thermal-plumes), [hydrothermal](../tag/hydrothermal), [method](../tag/method), [effluent](../tag/effluent), [first-time-poster](../tag/first-time-poster), [effluent-plume](../tag/effluent-plume)
 

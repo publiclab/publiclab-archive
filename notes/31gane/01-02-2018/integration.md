@@ -1,5 +1,7 @@
 ---
-title: "Systems Integration - Spectrometry"\ntagnames: 'spectrometer, design, building, integration, abstraction, plan'
+title: "Systems Integration - Spectrometry"
+
+tagnames: 'spectrometer, design, building, integration, abstraction, plan'
 author: 31gane
 path: /notes/31gane/01-02-2018/integration.md
 nid: 15452
@@ -11,7 +13,7 @@ uid: 420044
 
 # Systems Integration - Spectrometry
 
-by [31gane](../profile/31gane) | January 02, 2018 11:18
+by [31gane](../../../profile/31gane) | January 02, 2018 11:18
 
 January 02, 2018 11:18 | Tags: [spectrometer](../tag/spectrometer), [design](../tag/design), [building](../tag/building), [integration](../tag/integration), [abstraction](../tag/abstraction), [plan](../tag/plan)
 

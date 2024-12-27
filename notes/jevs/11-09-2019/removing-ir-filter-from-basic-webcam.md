@@ -1,5 +1,7 @@
 ---
-title: "Removing IR filter from basic webcam?"\ntagnames: 'question:lego-spectrometer, lego-spectrometer, first-time-poster'
+title: "Removing IR filter from basic webcam?"
+
+tagnames: 'question:lego-spectrometer, lego-spectrometer, first-time-poster'
 author: jevs
 path: /notes/jevs/11-09-2019/removing-ir-filter-from-basic-webcam.md
 nid: 21429
@@ -9,7 +11,7 @@ uid: 635927
 
 # Removing IR filter from basic webcam?
 
-by [jevs](../profile/jevs) | November 09, 2019 01:09
+by [jevs](../../../profile/jevs) | November 09, 2019 01:09
 
 November 09, 2019 01:09 | Tags: [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [first-time-poster](../tag/first-time-poster)
 

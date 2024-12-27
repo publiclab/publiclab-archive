@@ -1,5 +1,7 @@
 ---
-title: "Mobile (Android) version of Spectral Workbench"\ntagnames: 'spectrometer, android, my-concern'
+title: "Mobile (Android) version of Spectral Workbench"
+
+tagnames: 'spectrometer, android, my-concern'
 author: warren
 path: /notes/warren/6-12-2012/mobile-android-version-spectral-workbench.md
 nid: 2461
@@ -11,7 +13,7 @@ uid: 1
 
 # Mobile (Android) version of Spectral Workbench
 
-by [warren](../profile/warren) | June 12, 2012 19:24
+by [warren](../../../profile/warren) | June 12, 2012 19:24
 
 June 12, 2012 19:24 | Tags: [spectrometer](../tag/spectrometer), [android](../tag/android), [my-concern](../tag/my-concern)
 

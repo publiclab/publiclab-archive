@@ -1,5 +1,7 @@
 ---
-title: "h2s photopaper"\ntagnames: 'redirect:hydrogen-sulfide-photopaper'
+title: "h2s photopaper"
+
+tagnames: 'redirect:hydrogen-sulfide-photopaper'
 author: liz
 path: /wiki/h2s-photopaper.md
 nid: 19614

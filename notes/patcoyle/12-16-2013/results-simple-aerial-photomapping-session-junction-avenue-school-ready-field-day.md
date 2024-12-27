@@ -1,5 +1,7 @@
 ---
-title: "Results: Simple Aerial Photomapping session, Junction Avenue School READY field day"\ntagnames: 'balloon-mapping, education, workshop, norcal, california, students, rotary'
+title: "Results: Simple Aerial Photomapping session, Junction Avenue School READY field day"
+
+tagnames: 'balloon-mapping, education, workshop, norcal, california, students, rotary'
 author: patcoyle
 path: /notes/patcoyle/12-16-2013/results-simple-aerial-photomapping-session-junction-avenue-school-ready-field-day.md
 nid: 9888
@@ -11,7 +13,7 @@ uid: 77
 
 # Results: Simple Aerial Photomapping session, Junction Avenue School READY field day
 
-by [patcoyle](../profile/patcoyle) | December 16, 2013 04:21
+by [patcoyle](../../../profile/patcoyle) | December 16, 2013 04:21
 
 December 16, 2013 04:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [workshop](../tag/workshop), [norcal](../tag/norcal), [california](../tag/california), [students](../tag/students), [rotary](../tag/rotary)
 

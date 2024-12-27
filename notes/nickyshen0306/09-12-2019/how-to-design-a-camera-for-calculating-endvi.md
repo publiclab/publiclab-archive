@@ -1,5 +1,7 @@
 ---
-title: "How to design a camera for calculating ENDVI."\ntagnames: 'ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging'
+title: "How to design a camera for calculating ENDVI."
+
+tagnames: 'ndvi, infrared, infragram, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging'
 author: nickyshen0306
 path: /notes/nickyshen0306/09-12-2019/how-to-design-a-camera-for-calculating-endvi.md
 nid: 20843
@@ -9,7 +11,7 @@ uid: 612401
 
 # How to design a camera for calculating ENDVI.
 
-by [nickyshen0306](../profile/nickyshen0306) | September 12, 2019 15:26
+by [nickyshen0306](../../../profile/nickyshen0306) | September 12, 2019 15:26
 
 September 12, 2019 15:26 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging)
 

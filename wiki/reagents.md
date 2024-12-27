@@ -1,5 +1,7 @@
 ---
-title: "Reagents"\ntagnames: 'reagents, method'
+title: "Reagents"
+
+tagnames: 'reagents, method'
 author: warren
 path: /wiki/reagents.md
 nid: 15211

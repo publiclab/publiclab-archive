@@ -1,5 +1,7 @@
 ---
-title: "sandbox-contribute"\ntagnames: ''
+title: "sandbox-contribute"
+
+tagnames: ''
 author: bhamster
 path: /wiki/sandbox-contribute.md
 nid: 30581

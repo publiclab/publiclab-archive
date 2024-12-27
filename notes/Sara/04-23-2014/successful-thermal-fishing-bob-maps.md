@@ -1,5 +1,7 @@
 ---
-title: "Successful Thermal Fishing Bob Maps!"\ntagnames: 'thermal-photography, boston, northeastern-university, thermal-imaging, thermal-fishing, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689'
+title: "Successful Thermal Fishing Bob Maps!"
+
+tagnames: 'thermal-photography, boston, northeastern-university, thermal-imaging, thermal-fishing, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689'
 author: sara
 path: /notes/Sara/04-23-2014/successful-thermal-fishing-bob-maps.md
 nid: 10346
@@ -11,7 +13,7 @@ uid: 8
 
 # Successful Thermal Fishing Bob Maps!
 
-by [sara](../profile/sara) | April 23, 2014 03:58
+by [sara](../../../profile/sara) | April 23, 2014 03:58
 
 April 23, 2014 03:58 | Tags: [thermal-photography](../tag/thermal-photography), [boston](../tag/boston), [northeastern-university](../tag/northeastern-university), [thermal-imaging](../tag/thermal-imaging), [thermal-fishing](../tag/thermal-fishing), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
 

@@ -1,5 +1,7 @@
 ---
-title: "Anticipating sea-level rise in Louisiana"\ntagnames: 'gulf-coast, louisiana'
+title: "Anticipating sea-level rise in Louisiana"
+
+tagnames: 'gulf-coast, louisiana'
 author: Shannon
 path: /notes/shannon/2-8-2012/anticipating-sea-level-rise-louisiana.md
 nid: 763
@@ -9,7 +11,7 @@ uid: 9
 
 # Anticipating sea-level rise in Louisiana
 
-by [Shannon](../profile/Shannon) | February 08, 2012 15:28
+by [Shannon](../../../profile/Shannon) | February 08, 2012 15:28
 
 February 08, 2012 15:28 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana)
 

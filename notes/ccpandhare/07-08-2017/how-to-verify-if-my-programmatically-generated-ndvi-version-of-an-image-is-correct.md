@@ -1,5 +1,7 @@
 ---
-title: "How to verify generated NDVI Images?"\ntagnames: 'question:ndvi'
+title: "How to verify generated NDVI Images?"
+
+tagnames: 'question:ndvi'
 author: ccpandhare
 path: /notes/ccpandhare/07-08-2017/how-to-verify-if-my-programmatically-generated-ndvi-version-of-an-image-is-correct.md
 nid: 14634
@@ -9,7 +11,7 @@ uid: 503543
 
 # How to verify generated NDVI Images?
 
-by [ccpandhare](../profile/ccpandhare) | July 08, 2017 12:50
+by [ccpandhare](../../../profile/ccpandhare) | July 08, 2017 12:50
 
 July 08, 2017 12:50 | Tags: [question:ndvi](../tag/question:ndvi)
 

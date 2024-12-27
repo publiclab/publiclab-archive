@@ -1,5 +1,7 @@
 ---
-title: "publiclab"\ntagnames: ''
+title: "publiclab"
+
+tagnames: ''
 author: warren
 path: /wiki/publiclab.md
 nid: 19415

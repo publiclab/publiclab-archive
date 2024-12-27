@@ -1,5 +1,7 @@
 ---
-title: "Saugus landfill overflight photos -- with Infragram"\ntagnames: 'near-infrared-camera, somerville-massachusetts, ndvi, boston, saugus, passenger-pigeon, landfill, infragram, waste'
+title: "Saugus landfill overflight photos -- with Infragram"
+
+tagnames: 'near-infrared-camera, somerville-massachusetts, ndvi, boston, saugus, passenger-pigeon, landfill, infragram, waste'
 author: warren
 path: /notes/warren/07-05-2013/saugus-landfill-overflight-photos-with-infragram.md
 nid: 8704
@@ -11,7 +13,7 @@ uid: 1
 
 # Saugus landfill overflight photos -- with Infragram
 
-by [warren](../profile/warren) | July 05, 2013 19:55
+by [warren](../../../profile/warren) | July 05, 2013 19:55
 
 July 05, 2013 19:55 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [somerville-massachusetts](../tag/somerville-massachusetts), [ndvi](../tag/ndvi), [boston](../tag/boston), [saugus](../tag/saugus), [passenger-pigeon](../tag/passenger-pigeon), [landfill](../tag/landfill), [infragram](../tag/infragram), [waste](../tag/waste)
 

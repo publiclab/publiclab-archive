@@ -1,5 +1,7 @@
 ---
-title: "Integral City: Greensboro, NC"\ntagnames: 'balloon-mapping, southeast'
+title: "Integral City: Greensboro, NC"
+
+tagnames: 'balloon-mapping, southeast'
 author: elainechoi89
 path: /notes/elainechoi89/2-21-2013/integral-city-greensboro-nc.md
 nid: 6080
@@ -11,7 +13,7 @@ uid: 6102
 
 # Integral City: Greensboro, NC
 
-by [elainechoi89](../profile/elainechoi89) | February 21, 2013 19:44
+by [elainechoi89](../../../profile/elainechoi89) | February 21, 2013 19:44
 
 February 21, 2013 19:44 | Tags: [balloon-mapping](../tag/balloon-mapping), [southeast](../tag/southeast)
 

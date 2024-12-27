@@ -1,5 +1,7 @@
 ---
-title: "playaround 2018 - Taipei | Off Ground - Fly High"\ntagnames: 'balloon-mapping, events, aerial-photography, asia, taipei, taiwan, replication:14022'
+title: "playaround 2018 - Taipei | Off Ground - Fly High"
+
+tagnames: 'balloon-mapping, events, aerial-photography, asia, taipei, taiwan, replication:14022'
 author: dusjagr
 path: /notes/dusjagr/10-19-2018/playaround-2018-taipei-off-ground-fly-high.md
 nid: 17331
@@ -11,7 +13,7 @@ uid: 46795
 
 # playaround 2018 - Taipei | Off Ground - Fly High
 
-by [dusjagr](../profile/dusjagr) | October 19, 2018 03:14
+by [dusjagr](../../../profile/dusjagr) | October 19, 2018 03:14
 
 October 19, 2018 03:14 | Tags: [balloon-mapping](../tag/balloon-mapping), [events](../tag/events), [aerial-photography](../tag/aerial-photography), [asia](../tag/asia), [taipei](../tag/taipei), [taiwan](../tag/taiwan), [replication:14022](../tag/replication:14022)
 

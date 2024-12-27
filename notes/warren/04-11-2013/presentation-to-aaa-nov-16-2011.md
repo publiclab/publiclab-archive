@@ -1,5 +1,7 @@
 ---
-title: "Presentation to AAA, Nov 16, 2011"\ntagnames: ''
+title: "Presentation to AAA, Nov 16, 2011"
+
+tagnames: ''
 author: warren
 path: /notes/warren/04-11-2013/presentation-to-aaa-nov-16-2011.md
 nid: 6782
@@ -11,7 +13,7 @@ uid: 1
 
 # Presentation to AAA, Nov 16, 2011
 
-by [warren](../profile/warren) | April 11, 2013 17:50
+by [warren](../../../profile/warren) | April 11, 2013 17:50
 
 April 11, 2013 17:50 | Tags: 
 

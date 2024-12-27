@@ -1,5 +1,7 @@
 ---
-title: "Purafil Corrosion Coupons"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-copper-pipe, parent:hydrogen-sulfide'
+title: "Purafil Corrosion Coupons"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-copper-pipe, parent:hydrogen-sulfide'
 author: gretchengehrke
 path: /wiki/corrosion-coupons.md
 nid: 15517

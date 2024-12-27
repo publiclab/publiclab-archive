@@ -1,5 +1,7 @@
 ---
-title: "Live Infragram"\ntagnames: 'near-infrared-camera, ndvi, infragram, maxmsp'
+title: "Live Infragram"
+
+tagnames: 'near-infrared-camera, ndvi, infragram, maxmsp'
 author: lucenk
 path: /notes/lucenk/07-15-2014/live-infragram.md
 nid: 10695
@@ -11,7 +13,7 @@ uid: 424538
 
 # Live Infragram
 
-by [lucenk](../profile/lucenk) | July 15, 2014 18:45
+by [lucenk](../../../profile/lucenk) | July 15, 2014 18:45
 
 July 15, 2014 18:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [maxmsp](../tag/maxmsp)
 

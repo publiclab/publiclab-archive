@@ -1,5 +1,7 @@
 ---
-title: "Floating camera rig"\ntagnames: 'gulf-coast, balloon-mapping, kite-mapping, wetlands, kite, photo-rig, kit, category:build, activity:aerial-photography, activity:photo-rig'
+title: "Floating camera rig"
+
+tagnames: 'gulf-coast, balloon-mapping, kite-mapping, wetlands, kite, photo-rig, kit, category:build, activity:aerial-photography, activity:photo-rig'
 author: eustatic
 path: /03-12-2014/floating-camera-rig.md
 nid: 10162
@@ -11,7 +13,7 @@ uid: 379
 
 # Floating camera rig
 
-by [eustatic](../profile/eustatic) | March 12, 2014 05:40
+by [eustatic](../../../profile/eustatic) | March 12, 2014 05:40
 
 March 12, 2014 05:40 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [wetlands](../tag/wetlands), [kite](../tag/kite), [photo-rig](../tag/photo-rig), [kit](../tag/kit), [category:build](../tag/category:build), [activity:aerial-photography](../tag/activity:aerial-photography), [activity:photo-rig](../tag/activity:photo-rig)
 

@@ -1,5 +1,7 @@
 ---
-title: "Providence, RI software development fellowship"\ntagnames: 'providence, software, blog, code, jobs, fellows, fellowship, job, pvd, lat:41.809129, lon:-71.426611'
+title: "Providence, RI software development fellowship"
+
+tagnames: 'providence, software, blog, code, jobs, fellows, fellowship, job, pvd, lat:41.809129, lon:-71.426611'
 author: warren
 path: /notes/warren/03-13-2019/providence-ri-software-development-fellowship.md
 nid: 18542
@@ -11,7 +13,7 @@ uid: 1
 
 # Providence, RI software development fellowship
 
-by [warren](../profile/warren) | March 13, 2019 18:24
+by [warren](../../../profile/warren) | March 13, 2019 18:24
 
 March 13, 2019 18:24 | Tags: [providence](../tag/providence), [software](../tag/software), [blog](../tag/blog), [code](../tag/code), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [job](../tag/job), [pvd](../tag/pvd), [lat:41.809129](../tag/lat:41.809129), [lon:-71.426611](../tag/lon:-71.426611)
 

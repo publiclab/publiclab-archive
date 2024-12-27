@@ -1,5 +1,7 @@
 ---
-title: "Open Sourcing Jerusalem"\ntagnames: 'style:fancy, with:hagitkeysar'
+title: "Open Sourcing Jerusalem"
+
+tagnames: 'style:fancy, with:hagitkeysar'
 author: mollydanielsson
 path: /wiki/open-sourcing-jerusalem.md
 nid: 11565

@@ -1,5 +1,7 @@
 ---
-title: "Event: Citizen Science Gathering in West Virginia"\ntagnames: 'conferences, west-virginia, event, southeast, event:rsvp, wv, date:09-24-2016'
+title: "Event: Citizen Science Gathering in West Virginia"
+
+tagnames: 'conferences, west-virginia, event, southeast, event:rsvp, wv, date:09-24-2016'
 author: liz
 path: /notes/liz/09-23-2016/event-citizen-science-gathering-in-west-virginia.md
 nid: 13472
@@ -11,7 +13,7 @@ uid: 7
 
 # Event: Citizen Science Gathering in West Virginia
 
-by [liz](../profile/liz) | September 23, 2016 15:39
+by [liz](../../../profile/liz) | September 23, 2016 15:39
 
 September 23, 2016 15:39 | Tags: [conferences](../tag/conferences), [west-virginia](../tag/west-virginia), [event](../tag/event), [southeast](../tag/southeast), [event:rsvp](../tag/event:rsvp), [wv](../tag/wv), [date:09-24-2016](../tag/date:09-24-2016)
 

@@ -1,5 +1,7 @@
 ---
-title: "Sprint Fellowship Application: Aquatic hydrocarbon sample preparation for Oil Testing Kit"\ntagnames: 'oil-testing-kit, fellows'
+title: "Sprint Fellowship Application: Aquatic hydrocarbon sample preparation for Oil Testing Kit"
+
+tagnames: 'oil-testing-kit, fellows'
 author: Shannon
 path: /notes/Shannon/05-13-2015/sprint-fellowship-application-aquatic-hydrocarbon-sample-preparation-for-oil-testing-kit.md
 nid: 11811
@@ -11,7 +13,7 @@ uid: 9
 
 # Sprint Fellowship Application: Aquatic hydrocarbon sample preparation for Oil Testing Kit
 
-by [Shannon](../profile/Shannon) | May 13, 2015 13:56
+by [Shannon](../../../profile/Shannon) | May 13, 2015 13:56
 
 May 13, 2015 13:56 | Tags: [oil-testing-kit](../tag/oil-testing-kit), [fellows](../tag/fellows)
 

@@ -1,5 +1,7 @@
 ---
-title: "Copper Rod to Copper Sheet Discussion"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s, h2s-copper-pipe, h2s-copper-pipe-background, copper-sheet, copper-rod'
+title: "Copper Rod to Copper Sheet Discussion"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, air-quality, h2s, h2s-copper-pipe, h2s-copper-pipe-background, copper-sheet, copper-rod'
 author: ErikHanley11
 path: /notes/ErikHanley11/04-11-2018/copper-rod-to-copper-sheet-discussion.md
 nid: 16134
@@ -9,7 +11,7 @@ uid: 444638
 
 # Copper Rod to Copper Sheet Discussion
 
-by [ErikHanley11](../profile/ErikHanley11) | April 11, 2018 23:47
+by [ErikHanley11](../../../profile/ErikHanley11) | April 11, 2018 23:47
 
 April 11, 2018 23:47 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [air-quality](../tag/air-quality), [h2s](../tag/h2s), [h2s-copper-pipe](../tag/h2s-copper-pipe), [h2s-copper-pipe-background](../tag/h2s-copper-pipe-background), [copper-sheet](../tag/copper-sheet), [copper-rod](../tag/copper-rod)
 

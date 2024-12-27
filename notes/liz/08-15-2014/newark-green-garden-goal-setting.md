@@ -1,5 +1,7 @@
 ---
-title: "Newark Green Garden goal setting"\ntagnames: 'newark, new-jersey, 5bf, urban-ag, garden, elp, northeast, with:thegreencommunitygarden'
+title: "Newark Green Garden goal setting"
+
+tagnames: 'newark, new-jersey, 5bf, urban-ag, garden, elp, northeast, with:thegreencommunitygarden'
 author: liz
 path: /notes/liz/08-15-2014/newark-green-garden-goal-setting.md
 nid: 11058
@@ -9,7 +11,7 @@ uid: 7
 
 # Newark Green Garden goal setting
 
-by [liz](../profile/liz) | August 15, 2014 19:54
+by [liz](../../../profile/liz) | August 15, 2014 19:54
 
 August 15, 2014 19:54 | Tags: [newark](../tag/newark), [new-jersey](../tag/new-jersey), [5bf](../tag/5bf), [urban-ag](../tag/urban-ag), [garden](../tag/garden), [elp](../tag/elp), [northeast](../tag/northeast), [with:thegreencommunitygarden](../tag/with:thegreencommunitygarden)
 

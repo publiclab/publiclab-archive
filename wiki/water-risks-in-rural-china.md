@@ -1,5 +1,7 @@
 ---
-title: "中国农村饮用水问题 - Water Risks in Rural China"\ntagnames: ''
+title: "中国农村饮用水问题 - Water Risks in Rural China"
+
+tagnames: ''
 author: shanlter
 path: /wiki/water-risks-in-rural-china.md
 nid: 13177

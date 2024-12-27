@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter Annotations: Version 0.0.2 released with L.Illustrate.Textbox and L.Illustrate.Pointer"\ntagnames: 'mapknitter, gsoc, gsoc-2014, annotations'
+title: "MapKnitter Annotations: Version 0.0.2 released with L.Illustrate.Textbox and L.Illustrate.Pointer"
+
+tagnames: 'mapknitter, gsoc, gsoc-2014, annotations'
 author: justinmanley
 path: /notes/justinmanley/07-29-2014/mapknitter-annotations-version-0-0-2-released-with-l-illustrate-textbox-and-l-illustrate-pointer.md
 nid: 10990
@@ -11,7 +13,7 @@ uid: 421556
 
 # MapKnitter Annotations: Version 0.0.2 released with L.Illustrate.Textbox and L.Illustrate.Pointer
 
-by [justinmanley](../profile/justinmanley) | July 29, 2014 07:02
+by [justinmanley](../../../profile/justinmanley) | July 29, 2014 07:02
 
 July 29, 2014 07:02 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [gsoc-2014](../tag/gsoc-2014), [annotations](../tag/annotations)
 

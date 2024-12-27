@@ -1,5 +1,7 @@
 ---
-title: "Question: Colorimetry using the desktop spectrometer"\ntagnames: 'question:spectral-workbench'
+title: "Question: Colorimetry using the desktop spectrometer"
+
+tagnames: 'question:spectral-workbench'
 author: mattiecaroline1991
 path: /notes/mattiecaroline1991/06-03-2015/question-colorimetry-using-the-desktop-spectrometer.md
 nid: 11946
@@ -9,7 +11,7 @@ uid: 443091
 
 # Question: Colorimetry using the desktop spectrometer
 
-by [mattiecaroline1991](../profile/mattiecaroline1991) | June 03, 2015 16:52
+by [mattiecaroline1991](../../../profile/mattiecaroline1991) | June 03, 2015 16:52
 
 June 03, 2015 16:52 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 

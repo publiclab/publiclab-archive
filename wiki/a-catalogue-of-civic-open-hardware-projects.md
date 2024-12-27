@@ -1,5 +1,7 @@
 ---
-title: "A Catalogue of Civic Open Hardware Projects"\ntagnames: 'open-hardware'
+title: "A Catalogue of Civic Open Hardware Projects"
+
+tagnames: 'open-hardware'
 author: bsugar
 path: /wiki/a-catalogue-of-civic-open-hardware-projects.md
 nid: 10710

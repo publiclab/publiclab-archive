@@ -1,5 +1,7 @@
 ---
-title: "Stable fluorescence material for testing"\ntagnames: 'question:fluoroscence'
+title: "Stable fluorescence material for testing"
+
+tagnames: 'question:fluoroscence'
 author: matheues
 path: /notes/matheues/03-08-2017/stable-fluorescence-material-for-testing.md
 nid: 13992
@@ -9,7 +11,7 @@ uid: 503736
 
 # Stable fluorescence material for testing
 
-by [matheues](../profile/matheues) | March 08, 2017 10:09
+by [matheues](../../../profile/matheues) | March 08, 2017 10:09
 
 March 08, 2017 10:09 | Tags: [question:fluoroscence](../tag/question:fluoroscence)
 

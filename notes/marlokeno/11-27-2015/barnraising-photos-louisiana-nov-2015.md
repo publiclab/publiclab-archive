@@ -1,5 +1,7 @@
 ---
-title: "barnraising photos, Louisiana, Nov 2015"\ntagnames: 'barnraising-2015'
+title: "barnraising photos, Louisiana, Nov 2015"
+
+tagnames: 'barnraising-2015'
 author: marlokeno
 path: /notes/marlokeno/11-27-2015/barnraising-photos-louisiana-nov-2015.md
 nid: 12452
@@ -11,7 +13,7 @@ uid: 420760
 
 # barnraising photos, Louisiana, Nov 2015
 
-by [marlokeno](../profile/marlokeno) | November 27, 2015 03:02
+by [marlokeno](../../../profile/marlokeno) | November 27, 2015 03:02
 
 November 27, 2015 03:02 | Tags: [barnraising-2015](../tag/barnraising-2015)
 

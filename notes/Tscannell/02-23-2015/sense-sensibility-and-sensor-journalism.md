@@ -1,5 +1,7 @@
 ---
-title: "Sense, Sensibility, and Sensor Journalism"\ntagnames: 'sensor-journalism'
+title: "Sense, Sensibility, and Sensor Journalism"
+
+tagnames: 'sensor-journalism'
 author: Tscannell
 path: /notes/Tscannell/02-23-2015/sense-sensibility-and-sensor-journalism.md
 nid: 11628
@@ -11,7 +13,7 @@ uid: 434630
 
 # Sense, Sensibility, and Sensor Journalism
 
-by [Tscannell](../profile/Tscannell) | February 23, 2015 18:10
+by [Tscannell](../../../profile/Tscannell) | February 23, 2015 18:10
 
 February 23, 2015 18:10 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

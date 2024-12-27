@@ -1,5 +1,7 @@
 ---
-title: "Mississippi Phosphates: Better air for Alice"\ntagnames: 'gulf-coast, mississippi, air-quality, lead, sulfuric-acid, ammonia, phosphate, pascagoula, phosphates'
+title: "Mississippi Phosphates: Better air for Alice"
+
+tagnames: 'gulf-coast, mississippi, air-quality, lead, sulfuric-acid, ammonia, phosphate, pascagoula, phosphates'
 author: stevie
 path: /notes/stevie/05-23-2014/mississippi-phosphates-better-air-for-alice.md
 nid: 10505
@@ -11,7 +13,7 @@ uid: 422561
 
 # Mississippi Phosphates: Better air for Alice
 
-by [stevie](../profile/stevie) | May 23, 2014 17:57
+by [stevie](../../../profile/stevie) | May 23, 2014 17:57
 
 May 23, 2014 17:57 | Tags: [gulf-coast](../tag/gulf-coast), [mississippi](../tag/mississippi), [air-quality](../tag/air-quality), [lead](../tag/lead), [sulfuric-acid](../tag/sulfuric-acid), [ammonia](../tag/ammonia), [phosphate](../tag/phosphate), [pascagoula](../tag/pascagoula), [phosphates](../tag/phosphates)
 

@@ -1,5 +1,7 @@
 ---
-title: "Sustaining Member gear launches with full color decal!"\ntagnames: 'donation, sustaining-members'
+title: "Sustaining Member gear launches with full color decal!"
+
+tagnames: 'donation, sustaining-members'
 author: Becki
 path: /notes/Becki/09-25-2014/sustaining-member-gear-launches-with-full-color-decal.md
 nid: 11186
@@ -11,7 +13,7 @@ uid: 46673
 
 # Sustaining Member gear launches with full color decal!
 
-by [Becki](../profile/Becki) | September 25, 2014 17:17
+by [Becki](../../../profile/Becki) | September 25, 2014 17:17
 
 September 25, 2014 17:17 | Tags: [donation](../tag/donation), [sustaining-members](../tag/sustaining-members)
 

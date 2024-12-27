@@ -1,5 +1,7 @@
 ---
-title: "waterquality"\ntagnames: 'redirect:9937'
+title: "waterquality"
+
+tagnames: 'redirect:9937'
 author: liz
 path: /wiki/waterquality.md
 nid: 20815

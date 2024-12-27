@@ -1,5 +1,7 @@
 ---
-title: "Update firmware on the Mobius Action Cam"\ntagnames: 'infrared, infragram, mobius-actioncam, mobius, infragram-point-shoot, mobius-action-cam, multispectral-analysis, activity:infragram, activity:mobius, activity:mobius-action-cam, activity:infragram-point-shoot'
+title: "Update firmware on the Mobius Action Cam"
+
+tagnames: 'infrared, infragram, mobius-actioncam, mobius, infragram-point-shoot, mobius-action-cam, multispectral-analysis, activity:infragram, activity:mobius, activity:mobius-action-cam, activity:infragram-point-shoot'
 author: warren
 path: /notes/warren/10-20-2017/update-firmware-on-the-mobius-action-cam.md
 nid: 15074
@@ -9,7 +11,7 @@ uid: 1
 
 # Update firmware on the Mobius Action Cam
 
-by [warren](../profile/warren) | October 20, 2017 15:04
+by [warren](../../../profile/warren) | October 20, 2017 15:04
 
 October 20, 2017 15:04 | Tags: [infrared](../tag/infrared), [infragram](../tag/infragram), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [infragram-point-shoot](../tag/infragram-point-shoot), [mobius-action-cam](../tag/mobius-action-cam), [multispectral-analysis](../tag/multispectral-analysis), [activity:infragram](../tag/activity:infragram), [activity:mobius](../tag/activity:mobius), [activity:mobius-action-cam](../tag/activity:mobius-action-cam), [activity:infragram-point-shoot](../tag/activity:infragram-point-shoot)
 

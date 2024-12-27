@@ -1,5 +1,7 @@
 ---
-title: "USB bare wire power cable"\ntagnames: 'arduino, battery, power, activity:arduino, usb'
+title: "USB bare wire power cable"
+
+tagnames: 'arduino, battery, power, activity:arduino, usb'
 author: MadTinker
 path: /notes/MadTinker/02-08-2018/usb-bare-wire-power-cable.md
 nid: 15700
@@ -11,7 +13,7 @@ uid: 461206
 
 # USB bare wire power cable
 
-by [MadTinker](../profile/MadTinker) | February 08, 2018 00:36
+by [MadTinker](../../../profile/MadTinker) | February 08, 2018 00:36
 
 February 08, 2018 00:36 | Tags: [arduino](../tag/arduino), [battery](../tag/battery), [power](../tag/power), [activity:arduino](../tag/activity:arduino), [usb](../tag/usb)
 

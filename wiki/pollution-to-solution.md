@@ -1,5 +1,7 @@
 ---
-title: "Pollution to Solution"\ntagnames: 'massachusetts, air-quality, sensors, umass-amherst, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, mtholyoke, amherstcollege, location:blurred, lat:42, lon:-72'
+title: "Pollution to Solution"
+
+tagnames: 'massachusetts, air-quality, sensors, umass-amherst, 5-college, publiclab-at-amherst-media, publiclab-at-umass, makers-and-amherst-media, mtholyoke, amherstcollege, location:blurred, lat:42, lon:-72'
 author: epongrat
 path: /wiki/pollution-to-solution.md
 nid: 11170

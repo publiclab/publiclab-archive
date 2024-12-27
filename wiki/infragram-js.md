@@ -1,5 +1,7 @@
 ---
-title: "Infragram JS"\ntagnames: ''
+title: "Infragram JS"
+
+tagnames: ''
 author: warren
 path: /wiki/infragram-js.md
 nid: 9030

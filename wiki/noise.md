@@ -1,5 +1,7 @@
 ---
-title: "Noise"\ntagnames: 'audio, noise, method, nuisance'
+title: "Noise"
+
+tagnames: 'audio, noise, method, nuisance'
 author: stevie
 path: /wiki/noise.md
 nid: 16322

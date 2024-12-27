@@ -1,5 +1,7 @@
 ---
-title: "NIR Camera Calibration"\ntagnames: 'near-infrared-camera, calibration, rgb, bayer-filter'
+title: "NIR Camera Calibration"
+
+tagnames: 'near-infrared-camera, calibration, rgb, bayer-filter'
 author: Babu
 path: /notes/babu/12-19-2012/nir-camera-calibration.md
 nid: 5257
@@ -9,7 +11,7 @@ uid: 46912
 
 # NIR Camera Calibration
 
-by [Babu](../profile/Babu) | December 19, 2012 09:51
+by [Babu](../../../profile/Babu) | December 19, 2012 09:51
 
 December 19, 2012 09:51 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [calibration](../tag/calibration), [rgb](../tag/rgb), [bayer-filter](../tag/bayer-filter)
 

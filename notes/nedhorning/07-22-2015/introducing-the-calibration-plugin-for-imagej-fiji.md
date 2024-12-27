@@ -1,5 +1,7 @@
 ---
-title: "Introducing the calibration plugin for ImageJ/Fiji"\ntagnames: 'near-infrared-camera, ndvi, imagej, infragram, infrared-photography, response:12021, ndvi-calibrate, midopt, activity:infragram, location:blurred, activity:photo-monitoring-plugin, lat:41.449, lon:31.76'
+title: "Introducing the calibration plugin for ImageJ/Fiji"
+
+tagnames: 'near-infrared-camera, ndvi, imagej, infragram, infrared-photography, response:12021, ndvi-calibrate, midopt, activity:infragram, location:blurred, activity:photo-monitoring-plugin, lat:41.449, lon:31.76'
 author: nedhorning
 path: /notes/nedhorning/07-22-2015/introducing-the-calibration-plugin-for-imagej-fiji.md
 nid: 12092
@@ -11,7 +13,7 @@ uid: 133
 
 # Introducing the calibration plugin for ImageJ/Fiji
 
-by [nedhorning](../profile/nedhorning) | July 22, 2015 21:47
+by [nedhorning](../../../profile/nedhorning) | July 22, 2015 21:47
 
 July 22, 2015 21:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrared-photography](../tag/infrared-photography), [response:12021](../tag/response:12021), [ndvi-calibrate](../tag/ndvi-calibrate), [midopt](../tag/midopt), [activity:infragram](../tag/activity:infragram), [location:blurred](../tag/location:blurred), [activity:photo-monitoring-plugin](../tag/activity:photo-monitoring-plugin), [lat:41.449](../tag/lat:41.449), [lon:31.76](../tag/lon:31.76)
 

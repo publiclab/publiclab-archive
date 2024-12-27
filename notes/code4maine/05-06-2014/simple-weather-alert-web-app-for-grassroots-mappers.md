@@ -1,5 +1,7 @@
 ---
-title: "Simple Weather-Alert Web App for Grassroots Mappers?"\ntagnames: 'mapping, grassroots, weather, webapp, forecast'
+title: "Simple Weather-Alert Web App for Grassroots Mappers?"
+
+tagnames: 'mapping, grassroots, weather, webapp, forecast'
 author: ajawitz
 path: /notes/code4maine/05-06-2014/simple-weather-alert-web-app-for-grassroots-mappers.md
 nid: 10427
@@ -11,7 +13,7 @@ uid: 294634
 
 # Simple Weather-Alert Web App for Grassroots Mappers?
 
-by [ajawitz](../profile/ajawitz) | May 06, 2014 01:29
+by [ajawitz](../../../profile/ajawitz) | May 06, 2014 01:29
 
 May 06, 2014 01:29 | Tags: [mapping](../tag/mapping), [grassroots](../tag/grassroots), [weather](../tag/weather), [webapp](../tag/webapp), [forecast](../tag/forecast)
 

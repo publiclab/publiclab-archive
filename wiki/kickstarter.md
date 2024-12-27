@@ -1,5 +1,7 @@
 ---
-title: "Kickstarter"\ntagnames: 'kickstarter'
+title: "Kickstarter"
+
+tagnames: 'kickstarter'
 author: warren
 path: /wiki/kickstarter.md
 nid: 14568

@@ -1,5 +1,7 @@
 ---
-title: "Public Lab River Rat Pack -- St. Louis -- Amanda Malone"\ntagnames: 'mid-west, missouri, publiclabriverratpack, stlouis'
+title: "Public Lab River Rat Pack -- St. Louis -- Amanda Malone"
+
+tagnames: 'mid-west, missouri, publiclabriverratpack, stlouis'
 author: amandamalone
 path: /notes/amandamalone/05-12-2016/public-lab-river-rat-pack-st-louis-amanda-malone.md
 nid: 13109
@@ -11,7 +13,7 @@ uid: 465991
 
 # Public Lab River Rat Pack -- St. Louis -- Amanda Malone
 
-by [amandamalone](../profile/amandamalone) | May 12, 2016 15:24
+by [amandamalone](../../../profile/amandamalone) | May 12, 2016 15:24
 
 May 12, 2016 15:24 | Tags: [mid-west](../tag/mid-west), [missouri](../tag/missouri), [publiclabriverratpack](../tag/publiclabriverratpack), [stlouis](../tag/stlouis)
 

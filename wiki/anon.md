@@ -1,5 +1,7 @@
 ---
-title: "anon"\ntagnames: 'redirect:anonymity'
+title: "anon"
+
+tagnames: 'redirect:anonymity'
 author: warren
 path: /wiki/anon.md
 nid: 17261

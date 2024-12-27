@@ -1,5 +1,7 @@
 ---
-title: "PDF template"\ntagnames: ''
+title: "PDF template"
+
+tagnames: ''
 author: warren
 path: /wiki/pdf-template.md
 nid: 17362

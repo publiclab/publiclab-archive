@@ -1,5 +1,7 @@
 ---
-title: "gmf-8-Amy-LeGaux"\ntagnames: 'style:fancy'
+title: "gmf-8-Amy-LeGaux"
+
+tagnames: 'style:fancy'
 author: liz
 path: /wiki/gmf-8-amy-legaux.md
 nid: 12150

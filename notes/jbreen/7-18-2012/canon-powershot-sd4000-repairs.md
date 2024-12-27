@@ -1,5 +1,7 @@
 ---
-title: "Canon Powershot SD4000 repairs"\ntagnames: 'repairs, cameras, canon'
+title: "Canon Powershot SD4000 repairs"
+
+tagnames: 'repairs, cameras, canon'
 author: jbreen
 path: /notes/jbreen/7-18-2012/canon-powershot-sd4000-repairs.md
 nid: 2861
@@ -11,7 +13,7 @@ uid: 326
 
 # Canon Powershot SD4000 repairs
 
-by [jbreen](../profile/jbreen) | July 18, 2012 12:40
+by [jbreen](../../../profile/jbreen) | July 18, 2012 12:40
 
 July 18, 2012 12:40 | Tags: [repairs](../tag/repairs), [cameras](../tag/cameras), [canon](../tag/canon)
 

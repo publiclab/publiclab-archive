@@ -1,5 +1,7 @@
 ---
-title: "GSoC 2020 Report: PublicLab.Editor Repair and Fortification"\ntagnames: ''
+title: "GSoC 2020 Report: PublicLab.Editor Repair and Fortification"
+
+tagnames: ''
 author: keshavgarg234156
 path: /notes/keshavgarg234156/08-30-2020/gsoc-2020-report-publiclab-editor-repair-and-fortification.md
 nid: 24483
@@ -11,7 +13,7 @@ uid: 613595
 
 # GSoC 2020 Report: PublicLab.Editor Repair and Fortification
 
-by [keshavgarg234156](../profile/keshavgarg234156) | August 30, 2020 15:00
+by [keshavgarg234156](../../../profile/keshavgarg234156) | August 30, 2020 15:00
 
 August 30, 2020 15:00 | Tags: 
 

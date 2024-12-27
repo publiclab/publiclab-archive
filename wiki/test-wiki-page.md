@@ -1,5 +1,7 @@
 ---
-title: "test wiki page"\ntagnames: 'testing, developers, lat:22'
+title: "test wiki page"
+
+tagnames: 'testing, developers, lat:22'
 author: sagarpreet
 path: /wiki/test-wiki-page.md
 nid: 15530

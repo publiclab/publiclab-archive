@@ -1,5 +1,7 @@
 ---
-title: "Vancouver"\ntagnames: 'canada'
+title: "Vancouver"
+
+tagnames: 'canada'
 author: ann
 path: /wiki/vancouver.md
 nid: 11410

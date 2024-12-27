@@ -1,5 +1,7 @@
 ---
-title: "Indoor Air Remediation Kit—Paris Prototype and Workshop 2/2/18"\ntagnames: 'remediation, guides, design, bioremediation, formaldehyde, eu, indoor-air-quality, with:cguerin, with:gmalivel, france, paris, plant-air-purifier-prototypes'
+title: "Indoor Air Remediation Kit—Paris Prototype and Workshop 2/2/18"
+
+tagnames: 'remediation, guides, design, bioremediation, formaldehyde, eu, indoor-air-quality, with:cguerin, with:gmalivel, france, paris, plant-air-purifier-prototypes'
 author: nshapiro
 path: /notes/nshapiro/02-07-2018/indoor-air-remediation-kit-paris-prototype-and-workshop-2-2-18.md
 nid: 15699
@@ -11,7 +13,7 @@ uid: 380298
 
 # Indoor Air Remediation Kit—Paris Prototype and Workshop 2/2/18
 
-by [nshapiro](../profile/nshapiro) | February 07, 2018 19:43
+by [nshapiro](../../../profile/nshapiro) | February 07, 2018 19:43
 
 February 07, 2018 19:43 | Tags: [remediation](../tag/remediation), [guides](../tag/guides), [design](../tag/design), [bioremediation](../tag/bioremediation), [formaldehyde](../tag/formaldehyde), [eu](../tag/eu), [indoor-air-quality](../tag/indoor-air-quality), [with:cguerin](../tag/with:cguerin), [with:gmalivel](../tag/with:gmalivel), [france](../tag/france), [paris](../tag/paris), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
 

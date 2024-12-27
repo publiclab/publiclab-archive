@@ -1,5 +1,7 @@
 ---
-title: "JR 368 02 Water Conductivity Testing "\ntagnames: 'sensor-journalism, first-time-poster'
+title: "JR 368 02 Water Conductivity Testing "
+
+tagnames: 'sensor-journalism, first-time-poster'
 author: chelsea_tremblay
 path: /notes/chelsea_tremblay/02-23-2015/jr-368-02-water-conductivity-testing.md
 nid: 11616
@@ -11,7 +13,7 @@ uid: 434198
 
 # JR 368 02 Water Conductivity Testing 
 
-by [chelsea_tremblay](../profile/chelsea_tremblay) | February 23, 2015 00:50
+by [chelsea_tremblay](../../../profile/chelsea_tremblay) | February 23, 2015 00:50
 
 February 23, 2015 00:50 | Tags: [sensor-journalism](../tag/sensor-journalism), [first-time-poster](../tag/first-time-poster)
 

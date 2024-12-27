@@ -1,5 +1,7 @@
 ---
-title: "Microplastic Collection in City Park waterways"\ntagnames: 'gulf-coast, new-orleans, nola, location:blurred, place:united-states, lat:30, lon:-90, microplastics, zoom:6, citypark, loopnola, achschipmunks, reduceplasticconsumption, reducemicroplastics, nolitter, cleanupthebayou, archbishopchapelle, excelatchapelle, chipmunkcityparkproject, chipmunks'
+title: "Microplastic Collection in City Park waterways"
+
+tagnames: 'gulf-coast, new-orleans, nola, location:blurred, place:united-states, lat:30, lon:-90, microplastics, zoom:6, citypark, loopnola, achschipmunks, reduceplasticconsumption, reducemicroplastics, nolitter, cleanupthebayou, archbishopchapelle, excelatchapelle, chipmunkcityparkproject, chipmunks'
 author: jmerrill
 path: /wiki/microplastic-collection-in-city-park-waterways.md
 nid: 26500

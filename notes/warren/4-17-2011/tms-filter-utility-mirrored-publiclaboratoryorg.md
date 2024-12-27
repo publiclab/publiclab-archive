@@ -1,5 +1,7 @@
 ---
-title: "tms-filter utility mirrored at publiclaboratory.org"\ntagnames: ''
+title: "tms-filter utility mirrored at publiclaboratory.org"
+
+tagnames: ''
 author: warren
 path: /notes/warren/4-17-2011/tms-filter-utility-mirrored-publiclaboratoryorg.md
 nid: 176
@@ -11,7 +13,7 @@ uid: 1
 
 # tms-filter utility mirrored at publiclaboratory.org
 
-by [warren](../profile/warren) | April 17, 2011 19:14
+by [warren](../../../profile/warren) | April 17, 2011 19:14
 
 April 17, 2011 19:14 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Training and Equipment for Terra-Rovers available"\ntagnames: 'education, nasa, atmosphere, heat, urban-heat-island, aren, first-time-poster'
+title: "Training and Equipment for Terra-Rovers available"
+
+tagnames: 'education, nasa, atmosphere, heat, urban-heat-island, aren, first-time-poster'
 author: carmen2x
 path: /notes/carmen2x/03-17-2022/training-and-equipment-for-terra-rovers-available.md
 nid: 30140
@@ -11,7 +13,7 @@ uid: 787988
 
 # Training and Equipment for Terra-Rovers available
 
-by [carmen2x](../profile/carmen2x) | March 17, 2022 19:47
+by [carmen2x](../../../profile/carmen2x) | March 17, 2022 19:47
 
 March 17, 2022 19:47 | Tags: [education](../tag/education), [nasa](../tag/nasa), [atmosphere](../tag/atmosphere), [heat](../tag/heat), [urban-heat-island](../tag/urban-heat-island), [aren](../tag/aren), [first-time-poster](../tag/first-time-poster)
 

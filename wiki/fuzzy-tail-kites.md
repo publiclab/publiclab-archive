@@ -1,5 +1,7 @@
 ---
-title: "Fuzzy Tail for Kites"\ntagnames: 'kite-aerial-photography, diy-kite, parent:kite-mapping'
+title: "Fuzzy Tail for Kites"
+
+tagnames: 'kite-aerial-photography, diy-kite, parent:kite-mapping'
 author: MicheleTobias
 path: /wiki/fuzzy-tail-kites.md
 nid: 3010

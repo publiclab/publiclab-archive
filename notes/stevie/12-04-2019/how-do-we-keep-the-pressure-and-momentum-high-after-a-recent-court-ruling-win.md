@@ -1,5 +1,7 @@
 ---
-title: "How do we keep the pressure and momentum high after a recent court ruling win?"\ntagnames: 'air-quality, question:air-quality, lat:41, odor, question:plastic, question:odor, location:blurred, lon:-73, plastics, question:plastics, plastic, orangetown-aluf, question:orangetown-aluf'
+title: "How do we keep the pressure and momentum high after a recent court ruling win?"
+
+tagnames: 'air-quality, question:air-quality, lat:41, odor, question:plastic, question:odor, location:blurred, lon:-73, plastics, question:plastics, plastic, orangetown-aluf, question:orangetown-aluf'
 author: stevie
 path: /notes/stevie/12-04-2019/how-do-we-keep-the-pressure-and-momentum-high-after-a-recent-court-ruling-win.md
 nid: 21663
@@ -11,7 +13,7 @@ uid: 422561
 
 # How do we keep the pressure and momentum high after a recent court ruling win?
 
-by [stevie](../profile/stevie) | December 04, 2019 15:27
+by [stevie](../../../profile/stevie) | December 04, 2019 15:27
 
 December 04, 2019 15:27 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [lat:41](../tag/lat:41), [odor](../tag/odor), [question:plastic](../tag/question:plastic), [question:odor](../tag/question:odor), [location:blurred](../tag/location:blurred), [lon:-73](../tag/lon:-73), [plastics](../tag/plastics), [question:plastics](../tag/question:plastics), [plastic](../tag/plastic), [orangetown-aluf](../tag/orangetown-aluf), [question:orangetown-aluf](../tag/question:orangetown-aluf)
 

@@ -1,5 +1,7 @@
 ---
-title: "Updates needed to DustDuino DIY wiki"\ntagnames: 'question:dustduino'
+title: "Updates needed to DustDuino DIY wiki"
+
+tagnames: 'question:dustduino'
 author: apacheguy
 path: /notes/apacheguy/04-27-2016/updates-needed-to-dustduino-diy-wiki.md
 nid: 13042
@@ -9,7 +11,7 @@ uid: 471724
 
 # Updates needed to DustDuino DIY wiki
 
-by [apacheguy](../profile/apacheguy) | April 27, 2016 18:49
+by [apacheguy](../../../profile/apacheguy) | April 27, 2016 18:49
 
 April 27, 2016 18:49 | Tags: [question:dustduino](../tag/question:dustduino)
 

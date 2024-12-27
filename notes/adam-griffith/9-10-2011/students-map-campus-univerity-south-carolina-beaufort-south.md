@@ -1,5 +1,7 @@
 ---
-title: "Students map campus of University of South Carolina - Beaufort - South"\ntagnames: 'southeast'
+title: "Students map campus of University of South Carolina - Beaufort - South"
+
+tagnames: 'southeast'
 author: adam-griffith
 path: /notes/adam-griffith/9-10-2011/students-map-campus-univerity-south-carolina-beaufort-south.md
 nid: 457
@@ -11,7 +13,7 @@ uid: 3
 
 # Students map campus of University of South Carolina - Beaufort - South
 
-by [adam-griffith](../profile/adam-griffith) | September 10, 2011 17:06
+by [adam-griffith](../../../profile/adam-griffith) | September 10, 2011 17:06
 
 September 10, 2011 17:06 | Tags: [southeast](../tag/southeast)
 

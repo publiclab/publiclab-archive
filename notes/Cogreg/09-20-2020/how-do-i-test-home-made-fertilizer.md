@@ -1,5 +1,7 @@
 ---
-title: "How do I... Test home-made fertilizer"\ntagnames: 'agriculture, fertilizer, question:agriculture, first-time-poster'
+title: "How do I... Test home-made fertilizer"
+
+tagnames: 'agriculture, fertilizer, question:agriculture, first-time-poster'
 author: Cogreg
 path: /notes/Cogreg/09-20-2020/how-do-i-test-home-made-fertilizer.md
 nid: 24612
@@ -9,7 +11,7 @@ uid: 488685
 
 # How do I... Test home-made fertilizer
 
-by [Cogreg](../profile/Cogreg) | September 20, 2020 14:28
+by [Cogreg](../../../profile/Cogreg) | September 20, 2020 14:28
 
 September 20, 2020 14:28 | Tags: [agriculture](../tag/agriculture), [fertilizer](../tag/fertilizer), [question:agriculture](../tag/question:agriculture), [first-time-poster](../tag/first-time-poster)
 

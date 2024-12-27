@@ -1,5 +1,7 @@
 ---
-title: "Carbon Arc"\ntagnames: 'spectrometer, spectrometry, emission-spectroscopy, carbon-arc'
+title: "Carbon Arc"
+
+tagnames: 'spectrometer, spectrometry, emission-spectroscopy, carbon-arc'
 author: B.Williams
 path: /notes/bwilliams/10-9-2012/carbon-arc.md
 nid: 4291
@@ -11,7 +13,7 @@ uid: 42631
 
 # Carbon Arc
 
-by [B.Williams](../profile/B.Williams) | October 09, 2012 23:00
+by [B.Williams](../../../profile/B.Williams) | October 09, 2012 23:00
 
 October 09, 2012 23:00 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [emission-spectroscopy](../tag/emission-spectroscopy), [carbon-arc](../tag/carbon-arc)
 

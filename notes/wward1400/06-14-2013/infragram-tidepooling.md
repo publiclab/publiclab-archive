@@ -1,5 +1,7 @@
 ---
-title: "Infragram Tidepooling"\ntagnames: 'near-infrared-camera, infragram, intertidal, coastalmonitoring'
+title: "Infragram Tidepooling"
+
+tagnames: 'near-infrared-camera, infragram, intertidal, coastalmonitoring'
 author: wward1400
 path: /notes/wward1400/06-14-2013/infragram-tidepooling.md
 nid: 8196
@@ -11,7 +13,7 @@ uid: 46742
 
 # Infragram Tidepooling
 
-by [wward1400](../profile/wward1400) | June 14, 2013 06:09
+by [wward1400](../../../profile/wward1400) | June 14, 2013 06:09
 
 June 14, 2013 06:09 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [intertidal](../tag/intertidal), [coastalmonitoring](../tag/coastalmonitoring)
 

@@ -1,5 +1,7 @@
 ---
-title: "Simple Aerial Photomapping at EWB West Coast Regional Conference, Cal Poly, 2015"\ntagnames: 'balloon-mapping, mylar, bap, blog, mobius-actioncam, ewb, barnstar:basic, mini-balloon-mapping'
+title: "Simple Aerial Photomapping at EWB West Coast Regional Conference, Cal Poly, 2015"
+
+tagnames: 'balloon-mapping, mylar, bap, blog, mobius-actioncam, ewb, barnstar:basic, mini-balloon-mapping'
 author: patcoyle
 path: /notes/patcoyle/12-09-2015/simple-aerial-photomapping-at-ewb-west-coast-regional-conference-cal-poly-2015.md
 nid: 12491
@@ -11,7 +13,7 @@ uid: 77
 
 # Simple Aerial Photomapping at EWB West Coast Regional Conference, Cal Poly, 2015
 
-by [patcoyle](../profile/patcoyle) | December 09, 2015 00:21
+by [patcoyle](../../../profile/patcoyle) | December 09, 2015 00:21
 
 December 09, 2015 00:21 | Tags: [balloon-mapping](../tag/balloon-mapping), [mylar](../tag/mylar), [bap](../tag/bap), [blog](../tag/blog), [mobius-actioncam](../tag/mobius-actioncam), [ewb](../tag/ewb), [barnstar:basic](../tag/barnstar:basic), [mini-balloon-mapping](../tag/mini-balloon-mapping)
 

@@ -1,5 +1,7 @@
 ---
-title: "Landfill leachate in Louisiana ditches?"\ntagnames: 'gulf-coast, spectrometer, event, barnstar:watchdog, event:gulf-goast, event:gulf-coast'
+title: "Landfill leachate in Louisiana ditches?"
+
+tagnames: 'gulf-coast, spectrometer, event, barnstar:watchdog, event:gulf-goast, event:gulf-coast'
 author: eustatic
 path: /09-19-2016/landfill-leachate-in-louisiana-ditches.md
 nid: 13462
@@ -11,7 +13,7 @@ uid: 379
 
 # Landfill leachate in Louisiana ditches?
 
-by [eustatic](../profile/eustatic) | September 19, 2016 21:33
+by [eustatic](../../../profile/eustatic) | September 19, 2016 21:33
 
 September 19, 2016 21:33 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [event](../tag/event), [barnstar:watchdog](../tag/barnstar:watchdog), [event:gulf-goast](../tag/event:gulf-goast), [event:gulf-coast](../tag/event:gulf-coast)
 

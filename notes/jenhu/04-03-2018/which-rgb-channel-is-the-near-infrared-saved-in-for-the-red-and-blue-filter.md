@@ -1,5 +1,7 @@
 ---
-title: "Which RGB channel is the near-infrared saved in for the red and blue filter?  "\ntagnames: 'spectrometer, infrared, near-infrared, filter, infragram-filters, color, question:infragram, answered, first-time-poster'
+title: "Which RGB channel is the near-infrared saved in for the red and blue filter?  "
+
+tagnames: 'spectrometer, infrared, near-infrared, filter, infragram-filters, color, question:infragram, answered, first-time-poster'
 author: jenhu
 path: /notes/jenhu/04-03-2018/which-rgb-channel-is-the-near-infrared-saved-in-for-the-red-and-blue-filter.md
 nid: 16061
@@ -9,7 +11,7 @@ uid: 517893
 
 # Which RGB channel is the near-infrared saved in for the red and blue filter?  
 
-by [jenhu](../profile/jenhu) | April 03, 2018 16:26
+by [jenhu](../../../profile/jenhu) | April 03, 2018 16:26
 
 April 03, 2018 16:26 | Tags: [spectrometer](../tag/spectrometer), [infrared](../tag/infrared), [near-infrared](../tag/near-infrared), [filter](../tag/filter), [infragram-filters](../tag/infragram-filters), [color](../tag/color), [question:infragram](../tag/question:infragram), [answered](../tag/answered), [first-time-poster](../tag/first-time-poster)
 

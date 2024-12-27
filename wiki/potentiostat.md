@@ -1,5 +1,7 @@
 ---
-title: "Potentiostat"\ntagnames: 'potentiostat, cheapstat, water, tool, list:plots-waterquality, method, chemicals, location:blurred, zoom:3, lat:-20, lon:-40, place:brazil'
+title: "Potentiostat"
+
+tagnames: 'potentiostat, cheapstat, water, tool, list:plots-waterquality, method, chemicals, location:blurred, zoom:3, lat:-20, lon:-40, place:brazil'
 author: donblair
 path: /wiki/potentiostat.md
 nid: 7466

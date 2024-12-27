@@ -1,5 +1,7 @@
 ---
-title: "Oil Testing with the Green Team"\ntagnames: 'gulf-coast, spectrometer, gulfcoast, oil-testing-kit, barnstar:basic, otk, oiltesting, replication:11046, pipeline-monitoring'
+title: "Oil Testing with the Green Team"
+
+tagnames: 'gulf-coast, spectrometer, gulfcoast, oil-testing-kit, barnstar:basic, otk, oiltesting, replication:11046, pipeline-monitoring'
 author: stevie
 path: /notes/stevie/11-09-2015/oil-testing-with-the-green-team.md
 nid: 12386
@@ -11,7 +13,7 @@ uid: 422561
 
 # Oil Testing with the Green Team
 
-by [stevie](../profile/stevie) | November 09, 2015 17:42
+by [stevie](../../../profile/stevie) | November 09, 2015 17:42
 
 November 09, 2015 17:42 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [gulfcoast](../tag/gulfcoast), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [otk](../tag/otk), [oiltesting](../tag/oiltesting), [replication:11046](../tag/replication:11046), [pipeline-monitoring](../tag/pipeline-monitoring)
 

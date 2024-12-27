@@ -1,5 +1,7 @@
 ---
-title: "PBS Idea Lab Post: Field Trips"\ntagnames: 'balloon-mapping, education, idealab, pbs, field-trip'
+title: "PBS Idea Lab Post: Field Trips"
+
+tagnames: 'balloon-mapping, education, idealab, pbs, field-trip'
 author: adam-griffith
 path: /notes/adam-griffith/3-31-2013/pbs-idea-lab-post-field-trips.md
 nid: 6635
@@ -11,7 +13,7 @@ uid: 3
 
 # PBS Idea Lab Post: Field Trips
 
-by [adam-griffith](../profile/adam-griffith) | April 01, 2013 00:50
+by [adam-griffith](../../../profile/adam-griffith) | April 01, 2013 00:50
 
 April 01, 2013 00:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [education](../tag/education), [idealab](../tag/idealab), [pbs](../tag/pbs), [field-trip](../tag/field-trip)
 

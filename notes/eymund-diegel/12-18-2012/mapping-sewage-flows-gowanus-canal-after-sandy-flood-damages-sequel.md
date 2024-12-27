@@ -1,5 +1,7 @@
 ---
-title: "Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages - the sequel"\ntagnames: 'new-york-city, balloon-mapping, gowanus, brooklyn, plume, sewage, sandy, milky, canoe, water-quality, hurricane, great-photos, response:5220, wastewater, disaster-response'
+title: "Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages - the sequel"
+
+tagnames: 'new-york-city, balloon-mapping, gowanus, brooklyn, plume, sewage, sandy, milky, canoe, water-quality, hurricane, great-photos, response:5220, wastewater, disaster-response'
 author: eymund
 path: /notes/eymund-diegel/12-18-2012/mapping-sewage-flows-gowanus-canal-after-sandy-flood-damages-sequel.md
 nid: 5250
@@ -11,7 +13,7 @@ uid: 1016
 
 # Mapping Sewage Flows in the Gowanus Canal after Sandy flood damages - the sequel
 
-by [eymund](../profile/eymund) | December 19, 2012 04:27
+by [eymund](../../../profile/eymund) | December 19, 2012 04:27
 
 December 19, 2012 04:27 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [brooklyn](../tag/brooklyn), [plume](../tag/plume), [sewage](../tag/sewage), [sandy](../tag/sandy), [milky](../tag/milky), [canoe](../tag/canoe), [water-quality](../tag/water-quality), [hurricane](../tag/hurricane), [great-photos](../tag/great-photos), [response:5220](../tag/response:5220), [wastewater](../tag/wastewater), [disaster-response](../tag/disaster-response)
 

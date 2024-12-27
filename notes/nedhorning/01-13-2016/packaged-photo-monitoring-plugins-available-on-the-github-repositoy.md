@@ -1,5 +1,7 @@
 ---
-title: "Packaged photo monitoring plugins available on the GitHub repositoy"\ntagnames: 'remote-sensing, imagej, fiji, barnstar:basic'
+title: "Packaged photo monitoring plugins available on the GitHub repositoy"
+
+tagnames: 'remote-sensing, imagej, fiji, barnstar:basic'
 author: nedhorning
 path: /notes/nedhorning/01-13-2016/packaged-photo-monitoring-plugins-available-on-the-github-repositoy.md
 nid: 12582
@@ -11,7 +13,7 @@ uid: 133
 
 # Packaged photo monitoring plugins available on the GitHub repositoy
 
-by [nedhorning](../profile/nedhorning) | January 13, 2016 17:51
+by [nedhorning](../../../profile/nedhorning) | January 13, 2016 17:51
 
 January 13, 2016 17:51 | Tags: [remote-sensing](../tag/remote-sensing), [imagej](../tag/imagej), [fiji](../tag/fiji), [barnstar:basic](../tag/barnstar:basic)
 

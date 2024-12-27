@@ -1,5 +1,7 @@
 ---
-title: "Better smoothing and equalizing graph height for comparison of oil spectra"\ntagnames: 'spectrometer, oil, fluorescence, spectral-workbench, crude, smoothing, clipping, oil-testing-kit, exposure, equalizing, 405nm, response:11168, response:6197'
+title: "Better smoothing and equalizing graph height for comparison of oil spectra"
+
+tagnames: 'spectrometer, oil, fluorescence, spectral-workbench, crude, smoothing, clipping, oil-testing-kit, exposure, equalizing, 405nm, response:11168, response:6197'
 author: warren
 path: /notes/warren/09-23-2014/better-smoothing-and-equalizing-graph-height-for-comparison-of-oil-spectra.md
 nid: 11172
@@ -11,7 +13,7 @@ uid: 1
 
 # Better smoothing and equalizing graph height for comparison of oil spectra
 
-by [warren](../profile/warren) | September 23, 2014 01:37
+by [warren](../../../profile/warren) | September 23, 2014 01:37
 
 September 23, 2014 01:37 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [fluorescence](../tag/fluorescence), [spectral-workbench](../tag/spectral-workbench), [crude](../tag/crude), [smoothing](../tag/smoothing), [clipping](../tag/clipping), [oil-testing-kit](../tag/oil-testing-kit), [exposure](../tag/exposure), [equalizing](../tag/equalizing), [405nm](../tag/405nm), [response:11168](../tag/response:11168), [response:6197](../tag/response:6197)
 

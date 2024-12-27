@@ -1,5 +1,7 @@
 ---
-title: "Suratá Visible -- Part I"\ntagnames: 'colombia, water-quality, riffle, open-water, riffle-examples'
+title: "Suratá Visible -- Part I"
+
+tagnames: 'colombia, water-quality, riffle, open-water, riffle-examples'
 author: donblair
 path: /notes/donblair/10-19-2015/surata-visible-part-i.md
 nid: 12316
@@ -11,7 +13,7 @@ uid: 43651
 
 # Suratá Visible -- Part I
 
-by [donblair](../profile/donblair) | October 19, 2015 17:00
+by [donblair](../../../profile/donblair) | October 19, 2015 17:00
 
 October 19, 2015 17:00 | Tags: [colombia](../tag/colombia), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [riffle-examples](../tag/riffle-examples)
 

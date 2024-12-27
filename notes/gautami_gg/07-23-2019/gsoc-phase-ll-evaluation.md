@@ -1,5 +1,7 @@
 ---
-title: "GSoC Phase ll evaluation"\ntagnames: 'gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval'
+title: "GSoC Phase ll evaluation"
+
+tagnames: 'gsoc, soc, gsoc-2019, soc-2019, soc-2019-eval'
 author: gautami_gg
 path: /notes/gautami_gg/07-23-2019/gsoc-phase-ll-evaluation.md
 nid: 20250
@@ -11,7 +13,7 @@ uid: 579624
 
 # GSoC Phase ll evaluation
 
-by [gautami_gg](../profile/gautami_gg) | July 23, 2019 15:07
+by [gautami_gg](../../../profile/gautami_gg) | July 23, 2019 15:07
 
 July 23, 2019 15:07 | Tags: [gsoc](../tag/gsoc), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [soc-2019-eval](../tag/soc-2019-eval)
 

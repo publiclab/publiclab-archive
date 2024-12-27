@@ -1,5 +1,7 @@
 ---
-title: "Batching the process of NDVI in Fiji for modified mobius with red filter"\ntagnames: 'near-infrared-camera, ndvi, imagej, infragram, infrablue, fiji, photo-monitoring-plugin, answered, question:general'
+title: "Batching the process of NDVI in Fiji for modified mobius with red filter"
+
+tagnames: 'near-infrared-camera, ndvi, imagej, infragram, infrablue, fiji, photo-monitoring-plugin, answered, question:general'
 author: suman
 path: /notes/suman/03-26-2017/batching-the-process-of-ndvi-in-fiji-for-modified-mobius-with-red-filter.md
 nid: 14061
@@ -9,7 +11,7 @@ uid: 497769
 
 # Batching the process of NDVI in Fiji for modified mobius with red filter
 
-by [suman](../profile/suman) | March 26, 2017 12:15
+by [suman](../../../profile/suman) | March 26, 2017 12:15
 
 March 26, 2017 12:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [answered](../tag/answered), [question:general](../tag/question:general)
 

@@ -1,5 +1,7 @@
 ---
-title: "Reconfigurable Rig"\ntagnames: 'balloon-mapping, kite-mapping, photography, kap, photo-rig, kites, bap, pap, pole-mapping, diy-kites, kaptery, autodesk, reconfigurable-rig, activities:aerial-photography, camera-housing'
+title: "Reconfigurable Rig"
+
+tagnames: 'balloon-mapping, kite-mapping, photography, kap, photo-rig, kites, bap, pap, pole-mapping, diy-kites, kaptery, autodesk, reconfigurable-rig, activities:aerial-photography, camera-housing'
 author: mathew
 path: /wiki/reconfigurable-rig.md
 nid: 13395

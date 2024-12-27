@@ -1,5 +1,7 @@
 ---
-title: "Additive Image Stacking In Spectroscopy"\ntagnames: ''
+title: "Additive Image Stacking In Spectroscopy"
+
+tagnames: ''
 author: Ulao2
 path: /notes/ulao2/2-13-2013/additive-image-stacking-spectroscopy.md
 nid: 5973
@@ -9,7 +11,7 @@ uid: 48699
 
 # Additive Image Stacking In Spectroscopy
 
-by [Ulao2](../profile/Ulao2) | February 14, 2013 04:18
+by [Ulao2](../../../profile/Ulao2) | February 14, 2013 04:18
 
 February 14, 2013 04:18 | Tags: 
 

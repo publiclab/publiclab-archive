@@ -1,5 +1,7 @@
 ---
-title: "Prototype Raspberry Pi-based dual IR cam"\ntagnames: 'near-infrared-camera, nrg, ndvi, raspberry-pi, ircam'
+title: "Prototype Raspberry Pi-based dual IR cam"
+
+tagnames: 'near-infrared-camera, nrg, ndvi, raspberry-pi, ircam'
 author: warren
 path: /notes/warren/10-17-2012/prototype-raspberry-pi-based-dual-ir-cam.md
 nid: 4471
@@ -11,7 +13,7 @@ uid: 1
 
 # Prototype Raspberry Pi-based dual IR cam
 
-by [warren](../profile/warren) | October 17, 2012 20:35
+by [warren](../../../profile/warren) | October 17, 2012 20:35
 
 October 17, 2012 20:35 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [raspberry-pi](../tag/raspberry-pi), [ircam](../tag/ircam)
 

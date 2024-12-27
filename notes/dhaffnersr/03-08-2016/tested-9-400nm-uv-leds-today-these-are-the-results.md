@@ -1,5 +1,7 @@
 ---
-title: "Tested 9 400nm UV LEDs today these are the results"\ntagnames: 'barnstar:empiricism'
+title: "Tested 9 400nm UV LEDs today these are the results"
+
+tagnames: 'barnstar:empiricism'
 author: dhaffnersr
 path: /notes/dhaffnersr/03-08-2016/tested-9-400nm-uv-leds-today-these-are-the-results.md
 nid: 12818
@@ -11,7 +13,7 @@ uid: 461120
 
 # Tested 9 400nm UV LEDs today these are the results
 
-by [dhaffnersr](../profile/dhaffnersr) | March 08, 2016 15:58
+by [dhaffnersr](../../../profile/dhaffnersr) | March 08, 2016 15:58
 
 March 08, 2016 15:58 | Tags: [barnstar:empiricism](../tag/barnstar:empiricism)
 

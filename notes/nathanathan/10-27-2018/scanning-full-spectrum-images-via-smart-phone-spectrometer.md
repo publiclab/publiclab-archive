@@ -1,5 +1,7 @@
 ---
-title: "Scanning Full Spectrum Images via Smart Phone Spectrometer"\ntagnames: 'spectrometer'
+title: "Scanning Full Spectrum Images via Smart Phone Spectrometer"
+
+tagnames: 'spectrometer'
 author: nathanathan
 path: /notes/nathanathan/10-27-2018/scanning-full-spectrum-images-via-smart-phone-spectrometer.md
 nid: 17413
@@ -11,7 +13,7 @@ uid: 365600
 
 # Scanning Full Spectrum Images via Smart Phone Spectrometer
 
-by [nathanathan](../profile/nathanathan) | October 27, 2018 18:50
+by [nathanathan](../../../profile/nathanathan) | October 27, 2018 18:50
 
 October 27, 2018 18:50 | Tags: [spectrometer](../tag/spectrometer)
 

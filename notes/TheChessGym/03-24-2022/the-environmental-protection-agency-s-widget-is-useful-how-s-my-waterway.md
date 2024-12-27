@@ -1,5 +1,7 @@
 ---
-title: " The Environmental Protection Agency's Widget is Useful (How's My Waterway?)"\ntagnames: 'epa, lat:22, first-time-poster, lon:76, zoom:6'
+title: " The Environmental Protection Agency's Widget is Useful (How's My Waterway?)"
+
+tagnames: 'epa, lat:22, first-time-poster, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/03-24-2022/the-environmental-protection-agency-s-widget-is-useful-how-s-my-waterway.md
 nid: 30184
@@ -11,7 +13,7 @@ uid: 788868
 
 #  The Environmental Protection Agency's Widget is Useful (How's My Waterway?)
 
-by [TheChessGym](../profile/TheChessGym) | March 24, 2022 14:42
+by [TheChessGym](../../../profile/TheChessGym) | March 24, 2022 14:42
 
 March 24, 2022 14:42 | Tags: [epa](../tag/epa), [lat:22](../tag/lat:22), [first-time-poster](../tag/first-time-poster), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

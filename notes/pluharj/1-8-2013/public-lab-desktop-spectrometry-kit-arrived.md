@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Desktop Spectrometry Kit arrived"\ntagnames: 'spectrometer, first-time-poster'
+title: "Public Lab Desktop Spectrometry Kit arrived"
+
+tagnames: 'spectrometer, first-time-poster'
 author: pluharj
 path: /notes/pluharj/1-8-2013/public-lab-desktop-spectrometry-kit-arrived.md
 nid: 5473
@@ -11,7 +13,7 @@ uid: 46812
 
 # Public Lab Desktop Spectrometry Kit arrived
 
-by [pluharj](../profile/pluharj) | January 08, 2013 21:30
+by [pluharj](../../../profile/pluharj) | January 08, 2013 21:30
 
 January 08, 2013 21:30 | Tags: [spectrometer](../tag/spectrometer), [first-time-poster](../tag/first-time-poster)
 

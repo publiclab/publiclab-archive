@@ -1,5 +1,7 @@
 ---
-title: "Separation equipment I used in preparing my 10w40 oil sample"\ntagnames: ''
+title: "Separation equipment I used in preparing my 10w40 oil sample"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/02-29-2016/separation-equipment-i-used-in-preparing-my-10w40-oil-sample.md
 nid: 12762
@@ -11,7 +13,7 @@ uid: 461120
 
 # Separation equipment I used in preparing my 10w40 oil sample
 
-by [dhaffnersr](../profile/dhaffnersr) | February 29, 2016 21:54
+by [dhaffnersr](../../../profile/dhaffnersr) | February 29, 2016 21:54
 
 February 29, 2016 21:54 | Tags: 
 

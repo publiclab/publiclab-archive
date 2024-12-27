@@ -1,5 +1,7 @@
 ---
-title: "Birchton, WV 1/5/22"\ntagnames: 'drones, mountaintop-removal, coal, mmmp'
+title: "Birchton, WV 1/5/22"
+
+tagnames: 'drones, mountaintop-removal, coal, mmmp'
 author: junior_walk1337
 path: /notes/junior_walk1337/01-05-2022/birchton-wv-1-5-22.md
 nid: 28623
@@ -11,7 +13,7 @@ uid: 756318
 
 # Birchton, WV 1/5/22
 
-by [junior_walk1337](../profile/junior_walk1337) | January 05, 2022 22:45
+by [junior_walk1337](../../../profile/junior_walk1337) | January 05, 2022 22:45
 
 January 05, 2022 22:45 | Tags: [drones](../tag/drones), [mountaintop-removal](../tag/mountaintop-removal), [coal](../tag/coal), [mmmp](../tag/mmmp)
 

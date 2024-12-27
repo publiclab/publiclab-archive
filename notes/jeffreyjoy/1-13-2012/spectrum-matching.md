@@ -1,5 +1,7 @@
 ---
-title: "spectrum matching"\ntagnames: 'spectrometer, spectrum-matching, matching, spectral-workbench'
+title: "spectrum matching"
+
+tagnames: 'spectrometer, spectrum-matching, matching, spectral-workbench'
 author: jeffreyjoy
 path: /notes/jeffreyjoy/1-13-2012/spectrum-matching.md
 nid: 687
@@ -9,7 +11,7 @@ uid: 440
 
 # spectrum matching
 
-by [jeffreyjoy](../profile/jeffreyjoy) | January 13, 2012 23:07
+by [jeffreyjoy](../../../profile/jeffreyjoy) | January 13, 2012 23:07
 
 January 13, 2012 23:07 | Tags: [spectrometer](../tag/spectrometer), [spectrum-matching](../tag/spectrum-matching), [matching](../tag/matching), [spectral-workbench](../tag/spectral-workbench)
 

@@ -1,5 +1,7 @@
 ---
-title: "Start a Chapter"\ntagnames: 'community, organizers, chapters, workshops'
+title: "Start a Chapter"
+
+tagnames: 'community, organizers, chapters, workshops'
 author: warren
 path: /wiki/start-a-chapter.md
 nid: 7405

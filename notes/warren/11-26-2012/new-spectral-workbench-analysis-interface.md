@@ -1,5 +1,7 @@
 ---
-title: "New Spectral Workbench analysis interface"\ntagnames: 'spectrometer, spectralworkbench'
+title: "New Spectral Workbench analysis interface"
+
+tagnames: 'spectrometer, spectralworkbench'
 author: warren
 path: /notes/warren/11-26-2012/new-spectral-workbench-analysis-interface.md
 nid: 5020
@@ -11,7 +13,7 @@ uid: 1
 
 # New Spectral Workbench analysis interface
 
-by [warren](../profile/warren) | November 26, 2012 19:31
+by [warren](../../../profile/warren) | November 26, 2012 19:31
 
 November 26, 2012 19:31 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench)
 

@@ -1,5 +1,7 @@
 ---
-title: "What is a good resource for learning about chemical and toxicological information?"\ntagnames: 'ingredients, question:resources, question:toxicology, question:chemistry'
+title: "What is a good resource for learning about chemical and toxicological information?"
+
+tagnames: 'ingredients, question:resources, question:toxicology, question:chemistry'
 author: gretchengehrke
 path: /notes/gretchengehrke/03-21-2018/what-is-a-good-resource-for-learning-about-chemical-and-toxicological-information.md
 nid: 15992
@@ -9,7 +11,7 @@ uid: 430549
 
 # What is a good resource for learning about chemical and toxicological information?
 
-by [gretchengehrke](../profile/gretchengehrke) | March 21, 2018 18:18
+by [gretchengehrke](../../../profile/gretchengehrke) | March 21, 2018 18:18
 
 March 21, 2018 18:18 | Tags: [ingredients](../tag/ingredients), [question:resources](../tag/question:resources), [question:toxicology](../tag/question:toxicology), [question:chemistry](../tag/question:chemistry)
 

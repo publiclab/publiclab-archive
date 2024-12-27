@@ -1,5 +1,7 @@
 ---
-title: "How many people to do an activity?"\ntagnames: 'community, barnraising, organizing, research-culture, activity-grids, activities'
+title: "How many people to do an activity?"
+
+tagnames: 'community, barnraising, organizing, research-culture, activity-grids, activities'
 author: warren
 path: /notes/warren/11-30-2016/how-many-people-to-do-an-activity.md
 nid: 13734
@@ -11,7 +13,7 @@ uid: 1
 
 # How many people to do an activity?
 
-by [warren](../profile/warren) | November 30, 2016 21:55
+by [warren](../../../profile/warren) | November 30, 2016 21:55
 
 November 30, 2016 21:55 | Tags: [community](../tag/community), [barnraising](../tag/barnraising), [organizing](../tag/organizing), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [activities](../tag/activities)
 

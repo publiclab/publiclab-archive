@@ -1,5 +1,7 @@
 ---
-title: "Translate guides!"\ntagnames: 'translation, activity:translation'
+title: "Translate guides!"
+
+tagnames: 'translation, activity:translation'
 author: liz
 path: /notes/liz/10-13-2020/translate-guides.md
 nid: 24746
@@ -11,7 +13,7 @@ uid: 7
 
 # Translate guides!
 
-by [liz](../profile/liz) | October 13, 2020 15:24
+by [liz](../../../profile/liz) | October 13, 2020 15:24
 
 October 13, 2020 15:24 | Tags: [translation](../tag/translation), [activity:translation](../tag/activity:translation)
 

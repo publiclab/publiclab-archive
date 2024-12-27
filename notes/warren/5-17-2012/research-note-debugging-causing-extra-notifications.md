@@ -1,5 +1,7 @@
 ---
-title: "Research Note debugging causing extra notifications"\ntagnames: 'bugs, server-status'
+title: "Research Note debugging causing extra notifications"
+
+tagnames: 'bugs, server-status'
 author: warren
 path: /notes/warren/5-17-2012/research-note-debugging-causing-extra-notifications.md
 nid: 2103
@@ -9,7 +11,7 @@ uid: 1
 
 # Research Note debugging causing extra notifications
 
-by [warren](../profile/warren) | May 17, 2012 18:32
+by [warren](../../../profile/warren) | May 17, 2012 18:32
 
 May 17, 2012 18:32 | Tags: [bugs](../tag/bugs), [server-status](../tag/server-status)
 

@@ -1,5 +1,7 @@
 ---
-title: "Infragrams from a Quadcopter"\ntagnames: 'near-infrared-camera, infrared, infragram, quadcopter, drone, hooperfly'
+title: "Infragrams from a Quadcopter"
+
+tagnames: 'near-infrared-camera, infrared, infragram, quadcopter, drone, hooperfly'
 author: mathew
 path: /notes/mathew/05-05-2014/infragrams-from-a-quadcopter.md
 nid: 10425
@@ -11,7 +13,7 @@ uid: 4
 
 # Infragrams from a Quadcopter
 
-by [mathew](../profile/mathew) | May 05, 2014 20:04
+by [mathew](../../../profile/mathew) | May 05, 2014 20:04
 
 May 05, 2014 20:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [quadcopter](../tag/quadcopter), [drone](../tag/drone), [hooperfly](../tag/hooperfly)
 

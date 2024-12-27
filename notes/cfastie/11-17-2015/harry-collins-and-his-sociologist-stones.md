@@ -1,5 +1,7 @@
 ---
-title: "Harry Collins and his Sociologist Stones"\ntagnames: 'leaffest, barnraising, philosophy, leaffest2015, barnrising2015, expertise'
+title: "Harry Collins and his Sociologist Stones"
+
+tagnames: 'leaffest, barnraising, philosophy, leaffest2015, barnrising2015, expertise'
 author: cfastie
 path: /notes/cfastie/11-17-2015/harry-collins-and-his-sociologist-stones.md
 nid: 12418
@@ -11,7 +13,7 @@ uid: 554
 
 # Harry Collins and his Sociologist Stones
 
-by [cfastie](../profile/cfastie) | November 17, 2015 00:15
+by [cfastie](../../../profile/cfastie) | November 17, 2015 00:15
 
 November 17, 2015 00:15 | Tags: [leaffest](../tag/leaffest), [barnraising](../tag/barnraising), [philosophy](../tag/philosophy), [leaffest2015](../tag/leaffest2015), [barnrising2015](../tag/barnrising2015), [expertise](../tag/expertise)
 

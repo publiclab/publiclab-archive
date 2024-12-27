@@ -1,5 +1,7 @@
 ---
-title: "Join us January 23-24, 2021 for a virtual education workshop!"\ntagnames: 'gulf-coast, education, louisiana, mississippi, workshop, florida, texas, alabama, classroom-community-science, lesson-plan'
+title: "Join us January 23-24, 2021 for a virtual education workshop!"
+
+tagnames: 'gulf-coast, education, louisiana, mississippi, workshop, florida, texas, alabama, classroom-community-science, lesson-plan'
 author: mimiss
 path: /notes/mimiss/12-16-2020/join-us-january-23-24-2021-for-a-virtual-education-workshop.md
 nid: 25265
@@ -11,7 +13,7 @@ uid: 579821
 
 # Join us January 23-24, 2021 for a virtual education workshop!
 
-by [mimiss](../profile/mimiss) | December 16, 2020 16:31
+by [mimiss](../../../profile/mimiss) | December 16, 2020 16:31
 
 December 16, 2020 16:31 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [louisiana](../tag/louisiana), [mississippi](../tag/mississippi), [workshop](../tag/workshop), [florida](../tag/florida), [texas](../tag/texas), [alabama](../tag/alabama), [classroom-community-science](../tag/classroom-community-science), [lesson-plan](../tag/lesson-plan)
 

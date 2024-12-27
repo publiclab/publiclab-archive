@@ -1,5 +1,7 @@
 ---
-title: "Thermal flashlight -- now with more LEDz!"\ntagnames: 'thermal-photography, thermal-flashlight, led, igloo, snowfest, snowfest2014'
+title: "Thermal flashlight -- now with more LEDz!"
+
+tagnames: 'thermal-photography, thermal-flashlight, led, igloo, snowfest, snowfest2014'
 author: donblair
 path: /notes/donblair/02-15-2014/thermal-flashlight-now-with-more-ledz.md
 nid: 10042
@@ -11,7 +13,7 @@ uid: 43651
 
 # Thermal flashlight -- now with more LEDz!
 
-by [donblair](../profile/donblair) | February 15, 2014 17:55
+by [donblair](../../../profile/donblair) | February 15, 2014 17:55
 
 February 15, 2014 17:55 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [led](../tag/led), [igloo](../tag/igloo), [snowfest](../tag/snowfest), [snowfest2014](../tag/snowfest2014)
 

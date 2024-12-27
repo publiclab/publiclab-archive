@@ -1,5 +1,7 @@
 ---
-title: "Call for Papers"\ntagnames: 'events, call-for-papers, papers'
+title: "Call for Papers"
+
+tagnames: 'events, call-for-papers, papers'
 author: stefannibrasil
 path: /wiki/call-for-papers.md
 nid: 16014

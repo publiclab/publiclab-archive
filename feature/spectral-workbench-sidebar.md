@@ -1,5 +1,7 @@
 ---
-title: "spectral-workbench-sidebar"\ntagnames: ''
+title: "spectral-workbench-sidebar"
+
+tagnames: ''
 author: warren
 path: /feature/spectral-workbench-sidebar.md
 nid: 12061

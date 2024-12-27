@@ -1,5 +1,7 @@
 ---
-title: "Updated Map: Western Carolina University"\ntagnames: 'western-north-carolina, southeast'
+title: "Updated Map: Western Carolina University"
+
+tagnames: 'western-north-carolina, southeast'
 author: adam-griffith
 path: /notes/adam-griffith/2-6-2012/updated-map-western-carolina-university.md
 nid: 753
@@ -11,7 +13,7 @@ uid: 3
 
 # Updated Map: Western Carolina University
 
-by [adam-griffith](../profile/adam-griffith) | February 06, 2012 17:16
+by [adam-griffith](../../../profile/adam-griffith) | February 06, 2012 17:16
 
 February 06, 2012 17:16 | Tags: [western-north-carolina](../tag/western-north-carolina), [southeast](../tag/southeast)
 

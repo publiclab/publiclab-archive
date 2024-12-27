@@ -1,5 +1,7 @@
 ---
-title: "Hiperguardiões"\ntagnames: 'diy, brasil, sao-paulo'
+title: "Hiperguardiões"
+
+tagnames: 'diy, brasil, sao-paulo'
 author: neblinalab
 path: /notes/neblinalab/11-26-2015/hiperguardioes.md
 nid: 12448
@@ -11,7 +13,7 @@ uid: 459062
 
 # Hiperguardiões
 
-by [neblinalab](../profile/neblinalab) | November 26, 2015 19:26
+by [neblinalab](../../../profile/neblinalab) | November 26, 2015 19:26
 
 November 26, 2015 19:26 | Tags: [diy](../tag/diy), [brasil](../tag/brasil), [sao-paulo](../tag/sao-paulo)
 

@@ -1,5 +1,7 @@
 ---
-title: "Removing ambient interference from turbidity measurements through signal modulation"\ntagnames: 'water-quality, water, turbidity, open-water, barnstar:basic'
+title: "Removing ambient interference from turbidity measurements through signal modulation"
+
+tagnames: 'water-quality, water, turbidity, open-water, barnstar:basic'
 author: donblair
 path: /notes/donblair/03-08-2016/removing-ambient-background-light-from-turbidity-measurements-through-signal-modulation.md
 nid: 12782
@@ -11,7 +13,7 @@ uid: 43651
 
 # Removing ambient interference from turbidity measurements through signal modulation
 
-by [donblair](../profile/donblair) | March 08, 2016 04:12
+by [donblair](../../../profile/donblair) | March 08, 2016 04:12
 
 March 08, 2016 04:12 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [turbidity](../tag/turbidity), [open-water](../tag/open-water), [barnstar:basic](../tag/barnstar:basic)
 

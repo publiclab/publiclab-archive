@@ -1,5 +1,7 @@
 ---
-title: "CHAQ: Visualizing Air Quality - Class 5 - March 8th"\ntagnames: 'new-york-city, cypress-hills, chaq, air-quality, air-quality-egg, visualization, data-visualization'
+title: "CHAQ: Visualizing Air Quality - Class 5 - March 8th"
+
+tagnames: 'new-york-city, cypress-hills, chaq, air-quality, air-quality-egg, visualization, data-visualization'
 author: georgiabullen
 path: /notes/georgiabullen/3-19-2013/chaq-visualizing-air-quality-class-5-march-8th-0.md
 nid: 6448
@@ -9,7 +11,7 @@ uid: 50592
 
 # CHAQ: Visualizing Air Quality - Class 5 - March 8th
 
-by [georgiabullen](../profile/georgiabullen) | March 20, 2013 03:37
+by [georgiabullen](../../../profile/georgiabullen) | March 20, 2013 03:37
 
 March 20, 2013 03:37 | Tags: [new-york-city](../tag/new-york-city), [cypress-hills](../tag/cypress-hills), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg), [visualization](../tag/visualization), [data-visualization](../tag/data-visualization)
 

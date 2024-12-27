@@ -1,5 +1,7 @@
 ---
-title: "Writing"\ntagnames: ''
+title: "Writing"
+
+tagnames: ''
 author: warren
 path: /wiki/writing.md
 nid: 387

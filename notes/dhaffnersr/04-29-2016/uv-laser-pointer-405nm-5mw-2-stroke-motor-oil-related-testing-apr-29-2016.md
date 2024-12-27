@@ -1,5 +1,7 @@
 ---
-title: "Uv laser pointer (405nm <5mW) 2 stroke motor oil related testing Apr/29/2016"\ntagnames: ''
+title: "Uv laser pointer (405nm <5mW) 2 stroke motor oil related testing Apr/29/2016"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-29-2016/uv-laser-pointer-405nm-5mw-2-stroke-motor-oil-related-testing-apr-29-2016.md
 nid: 13049
@@ -11,7 +13,7 @@ uid: 461120
 
 # Uv laser pointer (405nm <5mW) 2 stroke motor oil related testing Apr/29/2016
 
-by [dhaffnersr](../profile/dhaffnersr) | April 29, 2016 18:08
+by [dhaffnersr](../../../profile/dhaffnersr) | April 29, 2016 18:08
 
 April 29, 2016 18:08 | Tags: 
 

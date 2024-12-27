@@ -1,5 +1,7 @@
 ---
-title: "Megacoqui"\ntagnames: 'redirect:18868'
+title: "Megacoqui"
+
+tagnames: 'redirect:18868'
 author: warren
 path: /wiki/megacoqui.md
 nid: 18870

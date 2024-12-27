@@ -1,5 +1,7 @@
 ---
-title: "Sprout HEAT dinner thermal images"\ntagnames: ''
+title: "Sprout HEAT dinner thermal images"
+
+tagnames: ''
 author: warren
 path: /notes/warren/2-1-2012/sprout-heat-dinner-thermal-images.md
 nid: 739
@@ -11,7 +13,7 @@ uid: 1
 
 # Sprout HEAT dinner thermal images
 
-by [warren](../profile/warren) | February 01, 2012 17:49
+by [warren](../../../profile/warren) | February 01, 2012 17:49
 
 February 01, 2012 17:49 | Tags: 
 

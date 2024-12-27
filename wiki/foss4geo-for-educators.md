@@ -1,5 +1,7 @@
 ---
-title: "FOSS4Geo for Educators"\ntagnames: 'foss4g, gis, foss, geo, geospatial'
+title: "FOSS4Geo for Educators"
+
+tagnames: 'foss4g, gis, foss, geo, geospatial'
 author: goliadranger
 path: /wiki/foss4geo-for-educators.md
 nid: 9320

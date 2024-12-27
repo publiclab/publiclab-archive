@@ -1,5 +1,7 @@
 ---
-title: "Results: Simple Aerial Photomapping session, EWB Symposium Without Borders, Davis,  CA, 2014"\ntagnames: 'ndvi, dual-camera, kap, infrablue'
+title: "Results: Simple Aerial Photomapping session, EWB Symposium Without Borders, Davis,  CA, 2014"
+
+tagnames: 'ndvi, dual-camera, kap, infrablue'
 author: patcoyle
 path: /notes/patcoyle/11-17-2014/results-simple-aerial-photomapping-session-ewb-symposium-without-borders-davis-ca-2014.md
 nid: 11364
@@ -11,7 +13,7 @@ uid: 77
 
 # Results: Simple Aerial Photomapping session, EWB Symposium Without Borders, Davis,  CA, 2014
 
-by [patcoyle](../profile/patcoyle) | November 17, 2014 23:55
+by [patcoyle](../../../profile/patcoyle) | November 17, 2014 23:55
 
 November 17, 2014 23:55 | Tags: [ndvi](../tag/ndvi), [dual-camera](../tag/dual-camera), [kap](../tag/kap), [infrablue](../tag/infrablue)
 

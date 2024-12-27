@@ -1,5 +1,7 @@
 ---
-title: "Mobius TrapCam Housing"\ntagnames: 'timelapse, housing, mobius, trapcam'
+title: "Mobius TrapCam Housing"
+
+tagnames: 'timelapse, housing, mobius, trapcam'
 author: tonyc
 path: /notes/tonyc/07-01-2016/mobius-trapcam-housing.md
 nid: 13254
@@ -11,7 +13,7 @@ uid: 447491
 
 # Mobius TrapCam Housing
 
-by [tonyc](../profile/tonyc) | July 01, 2016 23:22
+by [tonyc](../../../profile/tonyc) | July 01, 2016 23:22
 
 July 01, 2016 23:22 | Tags: [timelapse](../tag/timelapse), [housing](../tag/housing), [mobius](../tag/mobius), [trapcam](../tag/trapcam)
 

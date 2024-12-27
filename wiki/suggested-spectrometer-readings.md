@@ -1,5 +1,7 @@
 ---
-title: "Suggested Spectrometer Readings"\ntagnames: 'spectrometer, curriculum, readings'
+title: "Suggested Spectrometer Readings"
+
+tagnames: 'spectrometer, curriculum, readings'
 author: Shannon
 path: /wiki/suggested-spectrometer-readings.md
 nid: 7433

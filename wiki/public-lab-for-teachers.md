@@ -1,5 +1,7 @@
 ---
-title: "Public Lab for Educators"\ntagnames: 'education, teaching, classroom, teachers, parent:education'
+title: "Public Lab for Educators"
+
+tagnames: 'education, teaching, classroom, teachers, parent:education'
 author: warren
 path: /wiki/public-lab-for-teachers.md
 nid: 9894

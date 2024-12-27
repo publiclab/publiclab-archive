@@ -1,5 +1,7 @@
 ---
-title: "Some tools of the trade and a new Cree highpower Blue LED that I put together"\ntagnames: ''
+title: "Some tools of the trade and a new Cree highpower Blue LED that I put together"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/05-04-2016/some-tools-of-the-trade-and-a-new-cree-highpower-blue-led-that-i-put-together.md
 nid: 13069
@@ -11,7 +13,7 @@ uid: 461120
 
 # Some tools of the trade and a new Cree highpower Blue LED that I put together
 
-by [dhaffnersr](../profile/dhaffnersr) | May 04, 2016 09:31
+by [dhaffnersr](../../../profile/dhaffnersr) | May 04, 2016 09:31
 
 May 04, 2016 09:31 | Tags: 
 

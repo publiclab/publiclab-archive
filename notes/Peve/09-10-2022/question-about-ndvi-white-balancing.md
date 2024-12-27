@@ -1,5 +1,7 @@
 ---
-title: "Question about NDVI white balancing"\ntagnames: 'ndvi, white-balance, question:ndvi, question:white-balance, question:general, general, first-time-poster'
+title: "Question about NDVI white balancing"
+
+tagnames: 'ndvi, white-balance, question:ndvi, question:white-balance, question:general, general, first-time-poster'
 author: Peve
 path: /notes/Peve/09-10-2022/question-about-ndvi-white-balancing.md
 nid: 34956
@@ -9,7 +11,7 @@ uid: 813187
 
 # Question about NDVI white balancing
 
-by [Peve](../profile/Peve) | September 10, 2022 11:02
+by [Peve](../../../profile/Peve) | September 10, 2022 11:02
 
 September 10, 2022 11:02 | Tags: [ndvi](../tag/ndvi), [white-balance](../tag/white-balance), [question:ndvi](../tag/question:ndvi), [question:white-balance](../tag/question:white-balance), [question:general](../tag/question:general), [general](../tag/general), [first-time-poster](../tag/first-time-poster)
 

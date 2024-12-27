@@ -1,5 +1,7 @@
 ---
-title: "Water"\ntagnames: 'redirect:water-quality'
+title: "Water"
+
+tagnames: 'redirect:water-quality'
 author: warren
 path: /wiki/water.md
 nid: 18411

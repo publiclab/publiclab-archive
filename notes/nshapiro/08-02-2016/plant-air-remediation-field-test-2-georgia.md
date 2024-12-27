@@ -1,5 +1,7 @@
 ---
-title: "Plant Air Remediation Field Test #2 (Georgia)"\ntagnames: 'community, remediation, plant, formaldehyde, 2, with:liz, wwb, indoor-air-quality, with:gretchengehrke, indoor-air, with:silentdisaster, replication:13480, plant-air-purifier-prototypes'
+title: "Plant Air Remediation Field Test #2 (Georgia)"
+
+tagnames: 'community, remediation, plant, formaldehyde, 2, with:liz, wwb, indoor-air-quality, with:gretchengehrke, indoor-air, with:silentdisaster, replication:13480, plant-air-purifier-prototypes'
 author: nshapiro
 path: /notes/nshapiro/08-02-2016/plant-air-remediation-field-test-2-georgia.md
 nid: 13325
@@ -11,7 +13,7 @@ uid: 380298
 
 # Plant Air Remediation Field Test #2 (Georgia)
 
-by [nshapiro](../profile/nshapiro) | August 02, 2016 19:54
+by [nshapiro](../../../profile/nshapiro) | August 02, 2016 19:54
 
 August 02, 2016 19:54 | Tags: [community](../tag/community), [remediation](../tag/remediation), [plant](../tag/plant), [formaldehyde](../tag/formaldehyde), [2](../tag/2), [with:liz](../tag/with:liz), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [with:silentdisaster](../tag/with:silentdisaster), [replication:13480](../tag/replication:13480), [plant-air-purifier-prototypes](../tag/plant-air-purifier-prototypes)
 

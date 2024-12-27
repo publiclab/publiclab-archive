@@ -1,5 +1,7 @@
 ---
-title: "accuracy test for version 2.5 Plab spectrometer"\ntagnames: ''
+title: "accuracy test for version 2.5 Plab spectrometer"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-16-2016/accuracy-test-for-version-2-5-plab-spectrometer.md
 nid: 12990
@@ -11,7 +13,7 @@ uid: 461120
 
 # accuracy test for version 2.5 Plab spectrometer
 
-by [dhaffnersr](../profile/dhaffnersr) | April 16, 2016 16:35
+by [dhaffnersr](../../../profile/dhaffnersr) | April 16, 2016 16:35
 
 April 16, 2016 16:35 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Article comparing the effectiveness of recently passed lead exposure reduction laws"\ntagnames: 'housing, legal, lead, law-and-policy'
+title: "Article comparing the effectiveness of recently passed lead exposure reduction laws"
+
+tagnames: 'housing, legal, lead, law-and-policy'
 author: liz
 path: /notes/liz/09-26-2019/article-comparing-the-effectiveness-of-recently-passed-lead-exposure-reduction-laws.md
 nid: 20998
@@ -11,7 +13,7 @@ uid: 7
 
 # Article comparing the effectiveness of recently passed lead exposure reduction laws
 
-by [liz](../profile/liz) | September 26, 2019 17:34
+by [liz](../../../profile/liz) | September 26, 2019 17:34
 
 September 26, 2019 17:34 | Tags: [housing](../tag/housing), [legal](../tag/legal), [lead](../tag/lead), [law-and-policy](../tag/law-and-policy)
 

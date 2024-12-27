@@ -1,5 +1,7 @@
 ---
-title: "How to collect a water sample"\ntagnames: 'sample, water-quality, water-monitoring, sampling, frac-sand, new, parent:frac-sand, activity:water-monitoring, water-sampling, activity:sampling, activity:water-sampling, activity:water-quality, lon:-90, activity:new, lat:20, activity:frac-sand, activity:sample'
+title: "How to collect a water sample"
+
+tagnames: 'sample, water-quality, water-monitoring, sampling, frac-sand, new, parent:frac-sand, activity:water-monitoring, water-sampling, activity:sampling, activity:water-sampling, activity:water-quality, lon:-90, activity:new, lat:20, activity:frac-sand, activity:sample'
 author: stevie
 path: /notes/stevie/01-17-2020/how-to-collect-a-water-sample.md
 nid: 22335
@@ -11,7 +13,7 @@ uid: 422561
 
 # How to collect a water sample
 
-by [stevie](../profile/stevie) | January 17, 2020 20:51
+by [stevie](../../../profile/stevie) | January 17, 2020 20:51
 
 January 17, 2020 20:51 | Tags: [sample](../tag/sample), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [sampling](../tag/sampling), [frac-sand](../tag/frac-sand), [new](../tag/new), [parent:frac-sand](../tag/parent:frac-sand), [activity:water-monitoring](../tag/activity:water-monitoring), [water-sampling](../tag/water-sampling), [activity:sampling](../tag/activity:sampling), [activity:water-sampling](../tag/activity:water-sampling), [activity:water-quality](../tag/activity:water-quality), [lon:-90](../tag/lon:-90), [activity:new](../tag/activity:new), [lat:20](../tag/lat:20), [activity:frac-sand](../tag/activity:frac-sand), [activity:sample](../tag/activity:sample)
 

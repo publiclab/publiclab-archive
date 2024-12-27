@@ -1,5 +1,7 @@
 ---
-title: "Safety Precautions for H2S Research"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper'
+title: "Safety Precautions for H2S Research"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper'
 author: sara
 path: /notes/sara/7-18-2012/safety-precaution-h2s-research.md
 nid: 2866
@@ -9,7 +11,7 @@ uid: 8
 
 # Safety Precautions for H2S Research
 
-by [sara](../profile/sara) | July 18, 2012 18:01
+by [sara](../../../profile/sara) | July 18, 2012 18:01
 
 July 18, 2012 18:01 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 

@@ -1,5 +1,7 @@
 ---
-title: "Small DIY aerostat "Uchbovy" made in Kharkiv, Ukraine"\ntagnames: 'diy, balloon, training, eu, ukraine, lta, aerostat, europe'
+title: "Small DIY aerostat "Uchbovy" made in Kharkiv, Ukraine"
+
+tagnames: 'diy, balloon, training, eu, ukraine, lta, aerostat, europe'
 author: Alex_the_Ukrainian
 path: /notes/Alex_the_Ukrainian/03-21-2015/small-diy-aerostat-made-in-kharkiv-ukraine.md
 nid: 11708
@@ -11,7 +13,7 @@ uid: 436428
 
 # Small DIY aerostat "Uchbovy" made in Kharkiv, Ukraine
 
-by [Alex_the_Ukrainian](../profile/Alex_the_Ukrainian) | March 21, 2015 19:21
+by [Alex_the_Ukrainian](../../../profile/Alex_the_Ukrainian) | March 21, 2015 19:21
 
 March 21, 2015 19:21 | Tags: [diy](../tag/diy), [balloon](../tag/balloon), [training](../tag/training), [eu](../tag/eu), [ukraine](../tag/ukraine), [lta](../tag/lta), [aerostat](../tag/aerostat), [europe](../tag/europe)
 

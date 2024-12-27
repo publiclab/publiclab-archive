@@ -1,5 +1,7 @@
 ---
-title: "bucket"\ntagnames: 'redirect:air-sampling'
+title: "bucket"
+
+tagnames: 'redirect:air-sampling'
 author: warren
 path: /wiki/bucket.md
 nid: 24796

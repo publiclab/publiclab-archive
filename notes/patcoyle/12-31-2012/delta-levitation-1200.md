@@ -1,5 +1,7 @@
 ---
-title: "Delta Levitation with A-1200"\ntagnames: 'kap, a1200'
+title: "Delta Levitation with A-1200"
+
+tagnames: 'kap, a1200'
 author: patcoyle
 path: /notes/patcoyle/12-31-2012/delta-levitation-1200.md
 nid: 5387
@@ -11,7 +13,7 @@ uid: 77
 
 # Delta Levitation with A-1200
 
-by [patcoyle](../profile/patcoyle) | December 31, 2012 16:39
+by [patcoyle](../../../profile/patcoyle) | December 31, 2012 16:39
 
 December 31, 2012 16:39 | Tags: [kap](../tag/kap), [a1200](../tag/a1200)
 

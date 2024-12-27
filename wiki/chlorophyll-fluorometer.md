@@ -1,5 +1,7 @@
 ---
-title: "Chlorophyll Fluorometer "\ntagnames: 'uv, question, spectroscopy, algae'
+title: "Chlorophyll Fluorometer "
+
+tagnames: 'uv, question, spectroscopy, algae'
 author: briandegger
 path: /wiki/chlorophyll-fluorometer.md
 nid: 10041

@@ -1,5 +1,7 @@
 ---
-title: "Draft: Collect a sample for laboratory analysis"\ntagnames: 'oil, sample-containers, water-quality, sampling, with:eustatic, with:gretchengehrke, oil-pollution, activity:spectrometry, harvey, harvey-response, sample-collection, soil-sampling, water-sampling, oil-sampling, activity:sampling, activity:water-sampling, activity:soil-sampling, activity:water-quality, activity:sample-collection, soil-quality, activity:soil, soil-sampling-main'
+title: "Draft: Collect a sample for laboratory analysis"
+
+tagnames: 'oil, sample-containers, water-quality, sampling, with:eustatic, with:gretchengehrke, oil-pollution, activity:spectrometry, harvey, harvey-response, sample-collection, soil-sampling, water-sampling, oil-sampling, activity:sampling, activity:water-sampling, activity:soil-sampling, activity:water-quality, activity:sample-collection, soil-quality, activity:soil, soil-sampling-main'
 author: warren
 path: /notes/warren/09-07-2017/collect-a-sample-for-laboratory-analysis.md
 nid: 14843
@@ -9,7 +11,7 @@ uid: 1
 
 # Draft: Collect a sample for laboratory analysis
 
-by [warren](../profile/warren) | September 07, 2017 20:16
+by [warren](../../../profile/warren) | September 07, 2017 20:16
 
 September 07, 2017 20:16 | Tags: [oil](../tag/oil), [sample-containers](../tag/sample-containers), [water-quality](../tag/water-quality), [sampling](../tag/sampling), [with:eustatic](../tag/with:eustatic), [with:gretchengehrke](../tag/with:gretchengehrke), [oil-pollution](../tag/oil-pollution), [activity:spectrometry](../tag/activity:spectrometry), [harvey](../tag/harvey), [harvey-response](../tag/harvey-response), [sample-collection](../tag/sample-collection), [soil-sampling](../tag/soil-sampling), [water-sampling](../tag/water-sampling), [oil-sampling](../tag/oil-sampling), [activity:sampling](../tag/activity:sampling), [activity:water-sampling](../tag/activity:water-sampling), [activity:soil-sampling](../tag/activity:soil-sampling), [activity:water-quality](../tag/activity:water-quality), [activity:sample-collection](../tag/activity:sample-collection), [soil-quality](../tag/soil-quality), [activity:soil](../tag/activity:soil), [soil-sampling-main](../tag/soil-sampling-main)
 

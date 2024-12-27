@@ -1,5 +1,7 @@
 ---
-title: "Feb 20th Public Lab meetup in Somerville MA"\ntagnames: 'meetup, event'
+title: "Feb 20th Public Lab meetup in Somerville MA"
+
+tagnames: 'meetup, event'
 author: warren
 path: /notes/warren/2-7-2013/feb-20th-public-lab-meetup-somerville-ma.md
 nid: 5911
@@ -11,7 +13,7 @@ uid: 1
 
 # Feb 20th Public Lab meetup in Somerville MA
 
-by [warren](../profile/warren) | February 07, 2013 14:09
+by [warren](../../../profile/warren) | February 07, 2013 14:09
 
 February 07, 2013 14:09 | Tags: [meetup](../tag/meetup), [event](../tag/event)
 

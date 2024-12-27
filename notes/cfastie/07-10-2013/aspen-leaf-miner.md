@@ -1,5 +1,7 @@
 ---
-title: "Aspen Leaf Miner"\ntagnames: 'near-infrared-camera, ndvi, infrared, alaska, infragram, infrablue, insects, activity:multispectral-imaging'
+title: "Aspen Leaf Miner"
+
+tagnames: 'near-infrared-camera, ndvi, infrared, alaska, infragram, infrablue, insects, activity:multispectral-imaging'
 author: cfastie
 path: /notes/cfastie/07-10-2013/aspen-leaf-miner.md
 nid: 8789
@@ -11,7 +13,7 @@ uid: 554
 
 # Aspen Leaf Miner
 
-by [cfastie](../profile/cfastie) | July 10, 2013 03:40
+by [cfastie](../../../profile/cfastie) | July 10, 2013 03:40
 
 July 10, 2013 03:40 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [alaska](../tag/alaska), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [insects](../tag/insects), [activity:multispectral-imaging](../tag/activity:multispectral-imaging)
 

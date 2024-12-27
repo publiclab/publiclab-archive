@@ -1,5 +1,7 @@
 ---
-title: "Outreachy Application Template"\ntagnames: 'outreachy, proposal-template'
+title: "Outreachy Application Template"
+
+tagnames: 'outreachy, proposal-template'
 author: warren
 path: /wiki/outreachy-application-template.md
 nid: 17360

@@ -1,5 +1,7 @@
 ---
-title: "Infragram webcam test raw images"\ntagnames: 'near-infrared-camera, vermont, leaffest, infragram, infragram-conversion, leaffest2013, lat:44.02, lon:-73.09'
+title: "Infragram webcam test raw images"
+
+tagnames: 'near-infrared-camera, vermont, leaffest, infragram, infragram-conversion, leaffest2013, lat:44.02, lon:-73.09'
 author: warren
 path: /notes/warren/09-08-2013/infragram-webcam-test-raw-images.md
 nid: 9302
@@ -11,7 +13,7 @@ uid: 1
 
 # Infragram webcam test raw images
 
-by [warren](../profile/warren) | September 08, 2013 03:44
+by [warren](../../../profile/warren) | September 08, 2013 03:44
 
 September 08, 2013 03:44 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [infragram-conversion](../tag/infragram-conversion), [leaffest2013](../tag/leaffest2013), [lat:44.02](../tag/lat:44.02), [lon:-73.09](../tag/lon:-73.09)
 

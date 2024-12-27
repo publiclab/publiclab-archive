@@ -1,5 +1,7 @@
 ---
-title: "Can people make their own masks to protect from coronavirus?"\ntagnames: 'air-quality, indoor-air-quality, question:general, general, zoom:6, lat:22.319303, lon:114.169361'
+title: "Can people make their own masks to protect from coronavirus?"
+
+tagnames: 'air-quality, indoor-air-quality, question:general, general, zoom:6, lat:22.319303, lon:114.169361'
 author: joyofsoy
 path: /notes/joyofsoy/01-27-2020/can-people-make-their-own-masks-to-protect-from-coronavirus.md
 nid: 22415
@@ -11,7 +13,7 @@ uid: 540844
 
 # Can people make their own masks to protect from coronavirus?
 
-by [joyofsoy](../profile/joyofsoy) | January 27, 2020 20:09
+by [joyofsoy](../../../profile/joyofsoy) | January 27, 2020 20:09
 
 January 27, 2020 20:09 | Tags: [air-quality](../tag/air-quality), [indoor-air-quality](../tag/indoor-air-quality), [question:general](../tag/question:general), [general](../tag/general), [zoom:6](../tag/zoom:6), [lat:22.319303](../tag/lat:22.319303), [lon:114.169361](../tag/lon:114.169361)
 

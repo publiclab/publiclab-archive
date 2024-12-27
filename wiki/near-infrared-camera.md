@@ -1,5 +1,7 @@
 ---
-title: "Near-Infrared Camera"\ntagnames: 'near-infrared-camera, infragram, list:plots-infrared, tabbed:notes, tabbed:wikis, n'
+title: "Near-Infrared Camera"
+
+tagnames: 'near-infrared-camera, infragram, list:plots-infrared, tabbed:notes, tabbed:wikis, n'
 author: warren
 path: /wiki/near-infrared-camera.md
 nid: 59

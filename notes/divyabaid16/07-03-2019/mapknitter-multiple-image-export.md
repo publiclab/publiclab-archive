@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter: Multiple image export"\ntagnames: 'mapknitter, gsoc, export, soc, gsoc-2019, soc-2019, image'
+title: "MapKnitter: Multiple image export"
+
+tagnames: 'mapknitter, gsoc, export, soc, gsoc-2019, soc-2019, image'
 author: divyabaid16
 path: /notes/divyabaid16/07-03-2019/mapknitter-multiple-image-export.md
 nid: 19969
@@ -11,7 +13,7 @@ uid: 578652
 
 # MapKnitter: Multiple image export
 
-by [divyabaid16](../profile/divyabaid16) | July 03, 2019 12:35
+by [divyabaid16](../../../profile/divyabaid16) | July 03, 2019 12:35
 
 July 03, 2019 12:35 | Tags: [mapknitter](../tag/mapknitter), [gsoc](../tag/gsoc), [export](../tag/export), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [image](../tag/image)
 

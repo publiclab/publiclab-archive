@@ -1,5 +1,7 @@
 ---
-title: "More dock data!"\ntagnames: 'thermal-fishing, riffle, riffle-examples'
+title: "More dock data!"
+
+tagnames: 'thermal-fishing, riffle, riffle-examples'
 author: lperovich
 path: /notes/lperovich/08-30-2015/more-dock-data.md
 nid: 12186
@@ -11,7 +13,7 @@ uid: 443410
 
 # More dock data!
 
-by [lperovich](../profile/lperovich) | August 30, 2015 18:10
+by [lperovich](../../../profile/lperovich) | August 30, 2015 18:10
 
 August 30, 2015 18:10 | Tags: [thermal-fishing](../tag/thermal-fishing), [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples)
 

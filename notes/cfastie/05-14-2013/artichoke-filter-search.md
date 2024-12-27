@@ -1,5 +1,7 @@
 ---
-title: "Artichoke filter search"\ntagnames: 'near-infrared-camera, ndvi, infragram, rosco, infrablue, infragram-filters, gigapan'
+title: "Artichoke filter search"
+
+tagnames: 'near-infrared-camera, ndvi, infragram, rosco, infrablue, infragram-filters, gigapan'
 author: cfastie
 path: /notes/cfastie/05-14-2013/artichoke-filter-search.md
 nid: 7543
@@ -11,7 +13,7 @@ uid: 554
 
 # Artichoke filter search
 
-by [cfastie](../profile/cfastie) | May 14, 2013 15:26
+by [cfastie](../../../profile/cfastie) | May 14, 2013 15:26
 
 May 14, 2013 15:26 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [rosco](../tag/rosco), [infrablue](../tag/infrablue), [infragram-filters](../tag/infragram-filters), [gigapan](../tag/gigapan)
 

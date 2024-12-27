@@ -1,5 +1,7 @@
 ---
-title: "Progress of the Expanded Q & A Project"\ntagnames: 'software, gsoc, web, developers, barnstar:basic, gsoc-2016, q-and-a'
+title: "Progress of the Expanded Q & A Project"
+
+tagnames: 'software, gsoc, web, developers, barnstar:basic, gsoc-2016, q-and-a'
 author: ananyo2012
 path: /notes/ananyo2012/07-25-2016/progress-of-the-expanded-q-a-project.md
 nid: 13309
@@ -11,7 +13,7 @@ uid: 468506
 
 # Progress of the Expanded Q & A Project
 
-by [ananyo2012](../profile/ananyo2012) | July 25, 2016 20:19
+by [ananyo2012](../../../profile/ananyo2012) | July 25, 2016 20:19
 
 July 25, 2016 20:19 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [web](../tag/web), [developers](../tag/developers), [barnstar:basic](../tag/barnstar:basic), [gsoc-2016](../tag/gsoc-2016), [q-and-a](../tag/q-and-a)
 

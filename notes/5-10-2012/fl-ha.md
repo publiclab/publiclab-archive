@@ -1,5 +1,7 @@
 ---
-title: "flöha"\ntagnames: ''
+title: "flöha"
+
+tagnames: ''
 author: 
 path: /notes/5-10-2012/fl-ha.md
 nid: 2092
@@ -11,7 +13,7 @@ uid: 0
 
 # flöha
 
-by [](../profile/) | May 10, 2012 09:09
+by [](../../../profile/) | May 10, 2012 09:09
 
 May 10, 2012 09:09 | Tags: 
 

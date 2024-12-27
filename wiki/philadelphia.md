@@ -1,5 +1,7 @@
 ---
-title: "Philadelphia"\ntagnames: 'philadelphia, urban-design, events:philadelphia, list:plots-philadelphia, chapter, northeast, parent:northeast, location:blurred, lat:39, lon:-75'
+title: "Philadelphia"
+
+tagnames: 'philadelphia, urban-design, events:philadelphia, list:plots-philadelphia, chapter, northeast, parent:northeast, location:blurred, lat:39, lon:-75'
 author: geography76
 path: /wiki/philadelphia.md
 nid: 7147

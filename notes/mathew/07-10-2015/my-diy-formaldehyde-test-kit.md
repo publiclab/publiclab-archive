@@ -1,5 +1,7 @@
 ---
-title: "My DIY Formaldehyde test kit"\ntagnames: 'calibration, air-quality, air, h2s, barnstar:basic, formaldehyde, open-air, openair, wwb, indoor-air-quality, where-we-breathe, airpump, replication:11317'
+title: "My DIY Formaldehyde test kit"
+
+tagnames: 'calibration, air-quality, air, h2s, barnstar:basic, formaldehyde, open-air, openair, wwb, indoor-air-quality, where-we-breathe, airpump, replication:11317'
 author: mathew
 path: /notes/mathew/07-10-2015/my-diy-formaldehyde-test-kit.md
 nid: 12045
@@ -11,7 +13,7 @@ uid: 4
 
 # My DIY Formaldehyde test kit
 
-by [mathew](../profile/mathew) | July 10, 2015 00:58
+by [mathew](../../../profile/mathew) | July 10, 2015 00:58
 
 July 10, 2015 00:58 | Tags: [calibration](../tag/calibration), [air-quality](../tag/air-quality), [air](../tag/air), [h2s](../tag/h2s), [barnstar:basic](../tag/barnstar:basic), [formaldehyde](../tag/formaldehyde), [open-air](../tag/open-air), [openair](../tag/openair), [wwb](../tag/wwb), [indoor-air-quality](../tag/indoor-air-quality), [where-we-breathe](../tag/where-we-breathe), [airpump](../tag/airpump), [replication:11317](../tag/replication:11317)
 

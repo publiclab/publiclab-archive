@@ -1,5 +1,7 @@
 ---
-title: "Extensible OSS"\ntagnames: 'software, development'
+title: "Extensible OSS"
+
+tagnames: 'software, development'
 author: sashadev-sky
 path: /notes/sashadev-sky/08-12-2019/extensible-oss.md
 nid: 20513
@@ -11,7 +13,7 @@ uid: 555321
 
 # Extensible OSS
 
-by [sashadev-sky](../profile/sashadev-sky) | August 12, 2019 20:19
+by [sashadev-sky](../../../profile/sashadev-sky) | August 12, 2019 20:19
 
 August 12, 2019 20:19 | Tags: [software](../tag/software), [development](../tag/development)
 

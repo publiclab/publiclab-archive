@@ -1,5 +1,7 @@
 ---
-title: "Contact Us"\ntagnames: 'staff, contact, lat:41, locked, location:blurred, zoom:6, place:usa, lon:29'
+title: "Contact Us"
+
+tagnames: 'staff, contact, lat:41, locked, location:blurred, zoom:6, place:usa, lon:29'
 author: Shannon
 path: /wiki/contact.md
 nid: 9439

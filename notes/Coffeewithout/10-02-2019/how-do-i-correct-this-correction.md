@@ -1,5 +1,7 @@
 ---
-title: "How do I correct this correction?"\ntagnames: 'first-time-poster, question:lens-distortion, question:question:lens-distortion'
+title: "How do I correct this correction?"
+
+tagnames: 'first-time-poster, question:lens-distortion, question:question:lens-distortion'
 author: Coffeewithout
 path: /notes/Coffeewithout/10-02-2019/how-do-i-correct-this-correction.md
 nid: 21046
@@ -9,7 +11,7 @@ uid: 624474
 
 # How do I correct this correction?
 
-by [Coffeewithout](../profile/Coffeewithout) | October 02, 2019 04:21
+by [Coffeewithout](../../../profile/Coffeewithout) | October 02, 2019 04:21
 
 October 02, 2019 04:21 | Tags: [first-time-poster](../tag/first-time-poster), [question:lens-distortion](../tag/question:lens-distortion), [question:question:lens-distortion](../tag/question:question:lens-distortion)
 

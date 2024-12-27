@@ -1,5 +1,7 @@
 ---
-title: "Classification"\ntagnames: 'wetlands, aerial-photography, wetlands-restoration, mines'
+title: "Classification"
+
+tagnames: 'wetlands, aerial-photography, wetlands-restoration, mines'
 author: warren
 path: /wiki/classification.md
 nid: 675

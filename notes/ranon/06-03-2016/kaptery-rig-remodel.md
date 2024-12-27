@@ -1,5 +1,7 @@
 ---
-title: "Kaptery Rig Remodel"\ntagnames: 'balloon-mapping, kite-aerial-photography, polemapping, kap, photo-rig, pole-photography, kap-rigs, kaptery, activity:photo-rig, first-time-poster'
+title: "Kaptery Rig Remodel"
+
+tagnames: 'balloon-mapping, kite-aerial-photography, polemapping, kap, photo-rig, pole-photography, kap-rigs, kaptery, activity:photo-rig, first-time-poster'
 author: ranon
 path: /notes/ranon/06-03-2016/kaptery-rig-remodel.md
 nid: 13160
@@ -11,7 +13,7 @@ uid: 477060
 
 # Kaptery Rig Remodel
 
-by [ranon](../profile/ranon) | June 03, 2016 19:39
+by [ranon](../../../profile/ranon) | June 03, 2016 19:39
 
 June 03, 2016 19:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [polemapping](../tag/polemapping), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [pole-photography](../tag/pole-photography), [kap-rigs](../tag/kap-rigs), [kaptery](../tag/kaptery), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "BabyLegs in the classroom"\ntagnames: 'education, teaching, k-12, children, teachers, cirriculum, activity:education, schools, activity:classroom, microplastics, lat:40, babylegs, activity:babylegs, lon:-50, activity:microplastics'
+title: "BabyLegs in the classroom"
+
+tagnames: 'education, teaching, k-12, children, teachers, cirriculum, activity:education, schools, activity:classroom, microplastics, lat:40, babylegs, activity:babylegs, lon:-50, activity:microplastics'
 author: maxliboiron
 path: /notes/maxliboiron/06-15-2019/babylegs-in-the-classroom.md
 nid: 19712
@@ -11,7 +13,7 @@ uid: 310707
 
 # BabyLegs in the classroom
 
-by [maxliboiron](../profile/maxliboiron) | June 15, 2019 13:02
+by [maxliboiron](../../../profile/maxliboiron) | June 15, 2019 13:02
 
 June 15, 2019 13:02 | Tags: [education](../tag/education), [teaching](../tag/teaching), [k-12](../tag/k-12), [children](../tag/children), [teachers](../tag/teachers), [cirriculum](../tag/cirriculum), [activity:education](../tag/activity:education), [schools](../tag/schools), [activity:classroom](../tag/activity:classroom), [microplastics](../tag/microplastics), [lat:40](../tag/lat:40), [babylegs](../tag/babylegs), [activity:babylegs](../tag/activity:babylegs), [lon:-50](../tag/lon:-50), [activity:microplastics](../tag/activity:microplastics)
 

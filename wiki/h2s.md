@@ -1,5 +1,7 @@
 ---
-title: "h2s"\ntagnames: ''
+title: "h2s"
+
+tagnames: ''
 author: warren
 path: /wiki/h2s.md
 nid: 20836

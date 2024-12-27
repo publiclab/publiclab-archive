@@ -1,5 +1,7 @@
 ---
-title: "Riffle Beta"\ntagnames: 'parent:riffle'
+title: "Riffle Beta"
+
+tagnames: 'parent:riffle'
 author: liz
 path: /wiki/riffle-beta.md
 nid: 12766

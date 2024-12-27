@@ -1,5 +1,7 @@
 ---
-title: "Southwest Boston CDC seeks volunteers for land and water restoration"\ntagnames: 'boston, northeast, neponset'
+title: "Southwest Boston CDC seeks volunteers for land and water restoration"
+
+tagnames: 'boston, northeast, neponset'
 author: Patalvarez
 path: /notes/Patalvarez/01-03-2017/southwest-boston-cdc-seeks-volunteers-for-land-and-water-restoration.md
 nid: 13833
@@ -11,7 +13,7 @@ uid: 500512
 
 # Southwest Boston CDC seeks volunteers for land and water restoration
 
-by [Patalvarez](../profile/Patalvarez) | January 03, 2017 15:26
+by [Patalvarez](../../../profile/Patalvarez) | January 03, 2017 15:26
 
 January 03, 2017 15:26 | Tags: [boston](../tag/boston), [northeast](../tag/northeast), [neponset](../tag/neponset)
 

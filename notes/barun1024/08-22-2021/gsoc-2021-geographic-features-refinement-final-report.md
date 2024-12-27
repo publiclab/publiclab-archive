@@ -1,5 +1,7 @@
 ---
-title: "GSoC 2021: Geographic Features Refinement - Final Report "\ntagnames: 'leaflet, soc, map, geographic, leaflet-environmental-layers, lat:28.632746, zoom:5, soc-2021, gsoc-2021, soc-2021-final, lon:77.43164'
+title: "GSoC 2021: Geographic Features Refinement - Final Report "
+
+tagnames: 'leaflet, soc, map, geographic, leaflet-environmental-layers, lat:28.632746, zoom:5, soc-2021, gsoc-2021, soc-2021-final, lon:77.43164'
 author: barun1024
 path: /notes/barun1024/08-22-2021/gsoc-2021-geographic-features-refinement-final-report.md
 nid: 27614
@@ -11,7 +13,7 @@ uid: 647185
 
 # GSoC 2021: Geographic Features Refinement - Final Report 
 
-by [barun1024](../profile/barun1024) | August 22, 2021 20:01
+by [barun1024](../../../profile/barun1024) | August 22, 2021 20:01
 
 August 22, 2021 20:01 | Tags: [leaflet](../tag/leaflet), [soc](../tag/soc), [map](../tag/map), [geographic](../tag/geographic), [leaflet-environmental-layers](../tag/leaflet-environmental-layers), [lat:28.632746](../tag/lat:28.632746), [zoom:5](../tag/zoom:5), [soc-2021](../tag/soc-2021), [gsoc-2021](../tag/gsoc-2021), [soc-2021-final](../tag/soc-2021-final), [lon:77.43164](../tag/lon:77.43164)
 

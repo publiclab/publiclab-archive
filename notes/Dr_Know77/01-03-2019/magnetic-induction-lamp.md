@@ -1,5 +1,7 @@
 ---
-title: "magnetic induction lamp"\ntagnames: 'first-time-poster'
+title: "magnetic induction lamp"
+
+tagnames: 'first-time-poster'
 author: Dr_Know77
 path: /notes/Dr_Know77/01-03-2019/magnetic-induction-lamp.md
 nid: 18055
@@ -11,7 +13,7 @@ uid: 567857
 
 # magnetic induction lamp
 
-by [Dr_Know77](../profile/Dr_Know77) | January 03, 2019 09:50
+by [Dr_Know77](../../../profile/Dr_Know77) | January 03, 2019 09:50
 
 January 03, 2019 09:50 | Tags: [first-time-poster](../tag/first-time-poster)
 

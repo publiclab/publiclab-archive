@@ -1,5 +1,7 @@
 ---
-title: "Clips for the next spectrometer"\ntagnames: 'spectrometer, oil-testing-kit'
+title: "Clips for the next spectrometer"
+
+tagnames: 'spectrometer, oil-testing-kit'
 author: mathew
 path: /notes/mathew/08-20-2014/clips-for-the-next-spectrometer.md
 nid: 11068
@@ -11,7 +13,7 @@ uid: 4
 
 # Clips for the next spectrometer
 
-by [mathew](../profile/mathew) | August 20, 2014 23:54
+by [mathew](../../../profile/mathew) | August 20, 2014 23:54
 
 August 20, 2014 23:54 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit)
 

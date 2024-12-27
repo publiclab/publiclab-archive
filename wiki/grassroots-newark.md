@@ -1,5 +1,7 @@
 ---
-title: "Grassroots Newark"\ntagnames: 'newark, new-jersey, northeast'
+title: "Grassroots Newark"
+
+tagnames: 'newark, new-jersey, northeast'
 author: warren
 path: /wiki/grassroots-newark.md
 nid: 142

@@ -1,5 +1,7 @@
 ---
-title: "Pipeline Webinar"\ntagnames: 'monitoring, webinar, oil-and-gas, pipelines, pipeline-monitoring, parent:pipeline'
+title: "Pipeline Webinar"
+
+tagnames: 'monitoring, webinar, oil-and-gas, pipelines, pipeline-monitoring, parent:pipeline'
 author: warren
 path: /wiki/pipeline-webinar.md
 nid: 19112

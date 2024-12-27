@@ -1,5 +1,7 @@
 ---
-title: "July 12 event in Sheffield UK -- the changing face of expertise in the 21st C"\ntagnames: 'uk, event, excites, panel, eu, with:cindy_excites, expertise, sheffield'
+title: "July 12 event in Sheffield UK -- the changing face of expertise in the 21st C"
+
+tagnames: 'uk, event, excites, panel, eu, with:cindy_excites, expertise, sheffield'
 author: liz
 path: /notes/liz/06-14-2017/july-12-event-in-sheffield-uk-the-changing-face-of-expertise-in-the-21st-c.md
 nid: 14537
@@ -9,7 +11,7 @@ uid: 7
 
 # July 12 event in Sheffield UK -- the changing face of expertise in the 21st C
 
-by [liz](../profile/liz) | June 14, 2017 14:24
+by [liz](../../../profile/liz) | June 14, 2017 14:24
 
 June 14, 2017 14:24 | Tags: [uk](../tag/uk), [event](../tag/event), [excites](../tag/excites), [panel](../tag/panel), [eu](../tag/eu), [with:cindy_excites](../tag/with:cindy_excites), [expertise](../tag/expertise), [sheffield](../tag/sheffield)
 

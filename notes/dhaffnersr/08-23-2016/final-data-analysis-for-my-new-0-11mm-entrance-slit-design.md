@@ -1,5 +1,7 @@
 ---
-title: "Final Data Analysis for My New 0.11mm Entrance Slit Design"\ntagnames: ''
+title: "Final Data Analysis for My New 0.11mm Entrance Slit Design"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-23-2016/final-data-analysis-for-my-new-0-11mm-entrance-slit-design.md
 nid: 13392
@@ -11,7 +13,7 @@ uid: 461120
 
 # Final Data Analysis for My New 0.11mm Entrance Slit Design
 
-by [dhaffnersr](../profile/dhaffnersr) | August 23, 2016 18:27
+by [dhaffnersr](../../../profile/dhaffnersr) | August 23, 2016 18:27
 
 August 23, 2016 18:27 | Tags: 
 

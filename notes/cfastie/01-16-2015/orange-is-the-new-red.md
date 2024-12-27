@@ -1,5 +1,7 @@
 ---
-title: "Orange is the new red"\ntagnames: 'ndvi, vermont, calibration, infrared, infragram, wratten25a, super-red, wratten15, response:9717, upgrade:multispectral-imaging'
+title: "Orange is the new red"
+
+tagnames: 'ndvi, vermont, calibration, infrared, infragram, wratten25a, super-red, wratten15, response:9717, upgrade:multispectral-imaging'
 author: cfastie
 path: /notes/cfastie/01-16-2015/orange-is-the-new-red.md
 nid: 11527
@@ -11,7 +13,7 @@ uid: 554
 
 # Orange is the new red
 
-by [cfastie](../profile/cfastie) | January 16, 2015 21:57
+by [cfastie](../../../profile/cfastie) | January 16, 2015 21:57
 
 January 16, 2015 21:57 | Tags: [ndvi](../tag/ndvi), [vermont](../tag/vermont), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [wratten25a](../tag/wratten25a), [super-red](../tag/super-red), [wratten15](../tag/wratten15), [response:9717](../tag/response:9717), [upgrade:multispectral-imaging](../tag/upgrade:multispectral-imaging)
 

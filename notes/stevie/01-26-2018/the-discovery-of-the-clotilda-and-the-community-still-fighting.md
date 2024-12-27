@@ -1,5 +1,7 @@
 ---
-title: "The discovery of the Clotilda and the community 'still fighting' "\ntagnames: 'gulf-coast, mobile, blog, environmental-justice, ej, nas, mejac, africatown, alabama, chess, clotilda, ship, dioxin'
+title: "The discovery of the Clotilda and the community 'still fighting' "
+
+tagnames: 'gulf-coast, mobile, blog, environmental-justice, ej, nas, mejac, africatown, alabama, chess, clotilda, ship, dioxin'
 author: stevie
 path: /notes/stevie/01-26-2018/the-discovery-of-the-clotilda-and-the-community-still-fighting.md
 nid: 15618
@@ -11,7 +13,7 @@ uid: 422561
 
 # The discovery of the Clotilda and the community 'still fighting' 
 
-by [stevie](../profile/stevie) | January 26, 2018 17:25
+by [stevie](../../../profile/stevie) | January 26, 2018 17:25
 
 January 26, 2018 17:25 | Tags: [gulf-coast](../tag/gulf-coast), [mobile](../tag/mobile), [blog](../tag/blog), [environmental-justice](../tag/environmental-justice), [ej](../tag/ej), [nas](../tag/nas), [mejac](../tag/mejac), [africatown](../tag/africatown), [alabama](../tag/alabama), [chess](../tag/chess), [clotilda](../tag/clotilda), [ship](../tag/ship), [dioxin](../tag/dioxin)
 

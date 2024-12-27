@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Outreach Event - Jaipur"\ntagnames: 'open-source, meetup, event, outreach, gsoc, india, software-outreach, soc, jaipur, coding-events, lat:26.936346, lon:75.923523'
+title: "Public Lab Outreach Event - Jaipur"
+
+tagnames: 'open-source, meetup, event, outreach, gsoc, india, software-outreach, soc, jaipur, coding-events, lat:26.936346, lon:75.923523'
 author: divyabaid16
 path: /notes/divyabaid16/08-19-2019/public-lab-outreach-event-jaipur.md
 nid: 20581
@@ -11,7 +13,7 @@ uid: 578652
 
 # Public Lab Outreach Event - Jaipur
 
-by [divyabaid16](../profile/divyabaid16) | August 19, 2019 17:42
+by [divyabaid16](../../../profile/divyabaid16) | August 19, 2019 17:42
 
 August 19, 2019 17:42 | Tags: [open-source](../tag/open-source), [meetup](../tag/meetup), [event](../tag/event), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [india](../tag/india), [software-outreach](../tag/software-outreach), [soc](../tag/soc), [jaipur](../tag/jaipur), [coding-events](../tag/coding-events), [lat:26.936346](../tag/lat:26.936346), [lon:75.923523](../tag/lon:75.923523)
 

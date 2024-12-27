@@ -1,5 +1,7 @@
 ---
-title: "Celebrating Public Lab's tenth anniversary"\ntagnames: 'blog, anniversary, pl10, bp10, geography-of-robots'
+title: "Celebrating Public Lab's tenth anniversary"
+
+tagnames: 'blog, anniversary, pl10, bp10, geography-of-robots'
 author: joyofsoy
 path: /wiki/anniversary.md
 nid: 22315

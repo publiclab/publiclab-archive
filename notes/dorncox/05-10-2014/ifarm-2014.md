@@ -1,5 +1,7 @@
 ---
-title: "iFARM 2014"\ntagnames: 'boston, new-hampshire, farmhack, uav, agriculture, event, garden, ifarm, crops, northeast, uas, ifarm2014, aerial-imaging, internet-of-things'
+title: "iFARM 2014"
+
+tagnames: 'boston, new-hampshire, farmhack, uav, agriculture, event, garden, ifarm, crops, northeast, uas, ifarm2014, aerial-imaging, internet-of-things'
 author: dorncox
 path: /notes/dorncox/05-10-2014/ifarm-2014.md
 nid: 10461
@@ -11,7 +13,7 @@ uid: 1205
 
 # iFARM 2014
 
-by [dorncox](../profile/dorncox) | May 10, 2014 04:30
+by [dorncox](../../../profile/dorncox) | May 10, 2014 04:30
 
 May 10, 2014 04:30 | Tags: [boston](../tag/boston), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [uav](../tag/uav), [agriculture](../tag/agriculture), [event](../tag/event), [garden](../tag/garden), [ifarm](../tag/ifarm), [crops](../tag/crops), [northeast](../tag/northeast), [uas](../tag/uas), [ifarm2014](../tag/ifarm2014), [aerial-imaging](../tag/aerial-imaging), [internet-of-things](../tag/internet-of-things)
 

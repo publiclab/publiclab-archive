@@ -1,5 +1,7 @@
 ---
-title: "makelive"\ntagnames: 'redirect:20940'
+title: "makelive"
+
+tagnames: 'redirect:20940'
 author: warren
 path: /wiki/makelive.md
 nid: 21031

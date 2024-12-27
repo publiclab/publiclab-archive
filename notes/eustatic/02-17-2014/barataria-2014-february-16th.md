@@ -1,5 +1,7 @@
 ---
-title: "Barataria 2014:  II February 16th"\ntagnames: 'gulf-coast, balloon-mapping, barataria-bay, wetlands, louisiana, wetland, barataria, bp, patagonia'
+title: "Barataria 2014:  II February 16th"
+
+tagnames: 'gulf-coast, balloon-mapping, barataria-bay, wetlands, louisiana, wetland, barataria, bp, patagonia'
 author: eustatic
 path: /02-17-2014/barataria-2014-february-16th.md
 nid: 10045
@@ -11,7 +13,7 @@ uid: 379
 
 # Barataria 2014:  II February 16th
 
-by [eustatic](../profile/eustatic) | February 17, 2014 06:01
+by [eustatic](../../../profile/eustatic) | February 17, 2014 06:01
 
 February 17, 2014 06:01 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [barataria](../tag/barataria), [bp](../tag/bp), [patagonia](../tag/patagonia)
 

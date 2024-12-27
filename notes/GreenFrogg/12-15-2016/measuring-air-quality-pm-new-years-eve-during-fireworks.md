@@ -1,5 +1,7 @@
 ---
-title: "Measuring Air Quality (PM) @ new years eve during fireworks"\ntagnames: 'netherlands, dust, particulate, pm, particulate-monitoring, shinyei, blog-submission'
+title: "Measuring Air Quality (PM) @ new years eve during fireworks"
+
+tagnames: 'netherlands, dust, particulate, pm, particulate-monitoring, shinyei, blog-submission'
 author: GreenFrogg
 path: /notes/GreenFrogg/12-15-2016/measuring-air-quality-pm-new-years-eve-during-fireworks.md
 nid: 13787
@@ -11,7 +13,7 @@ uid: 499984
 
 # Measuring Air Quality (PM) @ new years eve during fireworks
 
-by [GreenFrogg](../profile/GreenFrogg) | December 15, 2016 11:09
+by [GreenFrogg](../../../profile/GreenFrogg) | December 15, 2016 11:09
 
 December 15, 2016 11:09 | Tags: [netherlands](../tag/netherlands), [dust](../tag/dust), [particulate](../tag/particulate), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [shinyei](../tag/shinyei), [blog-submission](../tag/blog-submission)
 

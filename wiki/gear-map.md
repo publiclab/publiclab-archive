@@ -1,5 +1,7 @@
 ---
-title: "Gear Map"\ntagnames: ''
+title: "Gear Map"
+
+tagnames: ''
 author: sara
 path: /wiki/gear-map.md
 nid: 9410

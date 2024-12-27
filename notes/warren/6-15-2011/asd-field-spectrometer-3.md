@@ -1,5 +1,7 @@
 ---
-title: "ASD Field Spectrometer 3"\ntagnames: ''
+title: "ASD Field Spectrometer 3"
+
+tagnames: ''
 author: warren
 path: /notes/warren/6-15-2011/asd-field-spectrometer-3.md
 nid: 345
@@ -11,7 +13,7 @@ uid: 1
 
 # ASD Field Spectrometer 3
 
-by [warren](../profile/warren) | June 15, 2011 23:03
+by [warren](../../../profile/warren) | June 15, 2011 23:03
 
 June 15, 2011 23:03 | Tags: 
 

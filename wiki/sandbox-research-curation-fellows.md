@@ -1,5 +1,7 @@
 ---
-title: "sandbox-research-curation-fellows"\ntagnames: ''
+title: "sandbox-research-curation-fellows"
+
+tagnames: ''
 author: bhamster
 path: /wiki/sandbox-research-curation-fellows.md
 nid: 26664

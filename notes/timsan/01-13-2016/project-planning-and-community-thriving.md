@@ -1,5 +1,7 @@
 ---
-title: "Project planning and community thriving"\ntagnames: 'organizing, communityengagement, local-projects, community-building'
+title: "Project planning and community thriving"
+
+tagnames: 'organizing, communityengagement, local-projects, community-building'
 author: timsan
 path: /notes/timsan/01-13-2016/project-planning-and-community-thriving.md
 nid: 12581
@@ -9,7 +11,7 @@ uid: 461538
 
 # Project planning and community thriving
 
-by [timsan](../profile/timsan) | January 13, 2016 14:11
+by [timsan](../../../profile/timsan) | January 13, 2016 14:11
 
 January 13, 2016 14:11 | Tags: [organizing](../tag/organizing), [communityengagement](../tag/communityengagement), [local-projects](../tag/local-projects), [community-building](../tag/community-building)
 

@@ -1,5 +1,7 @@
 ---
-title: "Table for choosing monitoring tools"\ntagnames: 'epa, development, comparison, sensitivity, regulations, monitoring, regulators'
+title: "Table for choosing monitoring tools"
+
+tagnames: 'epa, development, comparison, sensitivity, regulations, monitoring, regulators'
 author: warren
 path: /notes/warren/11-10-2014/table-for-choosing-monitoring-tools.md
 nid: 11328
@@ -11,7 +13,7 @@ uid: 1
 
 # Table for choosing monitoring tools
 
-by [warren](../profile/warren) | November 10, 2014 15:24
+by [warren](../../../profile/warren) | November 10, 2014 15:24
 
 November 10, 2014 15:24 | Tags: [epa](../tag/epa), [development](../tag/development), [comparison](../tag/comparison), [sensitivity](../tag/sensitivity), [regulations](../tag/regulations), [monitoring](../tag/monitoring), [regulators](../tag/regulators)
 

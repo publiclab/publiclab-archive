@@ -1,5 +1,7 @@
 ---
-title: "Middlebury Meetup April 30"\ntagnames: 'near-infrared-camera, ndvi, vermont, farmhack, agriculture, event'
+title: "Middlebury Meetup April 30"
+
+tagnames: 'near-infrared-camera, ndvi, vermont, farmhack, agriculture, event'
 author: cfastie
 path: /notes/cfastie/04-26-2013/middlebury-meetup.md
 nid: 7073
@@ -11,7 +13,7 @@ uid: 554
 
 # Middlebury Meetup April 30
 
-by [cfastie](../profile/cfastie) | April 26, 2013 19:04
+by [cfastie](../../../profile/cfastie) | April 26, 2013 19:04
 
 April 26, 2013 19:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [farmhack](../tag/farmhack), [agriculture](../tag/agriculture), [event](../tag/event)
 

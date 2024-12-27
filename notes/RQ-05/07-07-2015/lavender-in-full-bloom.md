@@ -1,5 +1,7 @@
 ---
-title: "Lavender in full bloom"\ntagnames: 'near-infrared-camera, ndvi, infragram, processing, compositing, infragram-sandbox, infragrammar, colormap, response:9054'
+title: "Lavender in full bloom"
+
+tagnames: 'near-infrared-camera, ndvi, infragram, processing, compositing, infragram-sandbox, infragrammar, colormap, response:9054'
 author: RQ-05
 path: /notes/RQ-05/07-07-2015/lavender-in-full-bloom.md
 nid: 12038
@@ -11,7 +13,7 @@ uid: 440673
 
 # Lavender in full bloom
 
-by [RQ-05](../profile/RQ-05) | July 07, 2015 23:16
+by [RQ-05](../../../profile/RQ-05) | July 07, 2015 23:16
 
 July 07, 2015 23:16 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [processing](../tag/processing), [compositing](../tag/compositing), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [colormap](../tag/colormap), [response:9054](../tag/response:9054)
 

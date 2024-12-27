@@ -1,5 +1,7 @@
 ---
-title: "Pierre's plastic Picavet"\ntagnames: 'balloon-mapping, kite-mapping, vermont, picavet, kap, 3d-printing, makerbot, response:10230, titan, redstone'
+title: "Pierre's plastic Picavet"
+
+tagnames: 'balloon-mapping, kite-mapping, vermont, picavet, kap, 3d-printing, makerbot, response:10230, titan, redstone'
 author: cfastie
 path: /notes/cfastie/04-15-2014/pierre-s-plastic-picavet.md
 nid: 10311
@@ -11,7 +13,7 @@ uid: 554
 
 # Pierre's plastic Picavet
 
-by [cfastie](../profile/cfastie) | April 15, 2014 16:19
+by [cfastie](../../../profile/cfastie) | April 15, 2014 16:19
 
 April 15, 2014 16:19 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [vermont](../tag/vermont), [picavet](../tag/picavet), [kap](../tag/kap), [3d-printing](../tag/3d-printing), [makerbot](../tag/makerbot), [response:10230](../tag/response:10230), [titan](../tag/titan), [redstone](../tag/redstone)
 

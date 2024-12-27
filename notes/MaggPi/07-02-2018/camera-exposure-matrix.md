@@ -1,5 +1,7 @@
 ---
-title: "Camera exposure matrix"\ntagnames: 'infrared, raspberry-pi, barnstar:basic, computer-vision, picamera, noir'
+title: "Camera exposure matrix"
+
+tagnames: 'infrared, raspberry-pi, barnstar:basic, computer-vision, picamera, noir'
 author: MaggPi
 path: /notes/MaggPi/07-02-2018/camera-exposure-matrix.md
 nid: 16605
@@ -11,7 +13,7 @@ uid: 501996
 
 # Camera exposure matrix
 
-by [MaggPi](../profile/MaggPi) | July 02, 2018 09:21
+by [MaggPi](../../../profile/MaggPi) | July 02, 2018 09:21
 
 July 02, 2018 09:21 | Tags: [infrared](../tag/infrared), [raspberry-pi](../tag/raspberry-pi), [barnstar:basic](../tag/barnstar:basic), [computer-vision](../tag/computer-vision), [picamera](../tag/picamera), [noir](../tag/noir)
 

@@ -1,5 +1,7 @@
 ---
-title: "C2H6O(Ethanol) + NaOH(sodium hydroxide) successful test results on C20H6Br4Na2O5(eosin y)  "\ntagnames: ''
+title: "C2H6O(Ethanol) + NaOH(sodium hydroxide) successful test results on C20H6Br4Na2O5(eosin y)  "
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-21-2016/c2h6o-ethanol-naoh-sodium-hydroxide-successful-test-results-on-c20h6br4na2o5-eosin-y.md
 nid: 13014
@@ -11,7 +13,7 @@ uid: 461120
 
 # C2H6O(Ethanol) + NaOH(sodium hydroxide) successful test results on C20H6Br4Na2O5(eosin y)  
 
-by [dhaffnersr](../profile/dhaffnersr) | April 21, 2016 21:17
+by [dhaffnersr](../../../profile/dhaffnersr) | April 21, 2016 21:17
 
 April 21, 2016 21:17 | Tags: 
 

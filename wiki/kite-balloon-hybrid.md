@@ -1,5 +1,7 @@
 ---
-title: "Kite-Balloon Hybrid"\ntagnames: 'balloon-mapping, kite-mapping, kite-balloon-hybrid, agriculture, diy-balloon, mining, urban-planning, fracking, tool, land-use, industry, method, land-change'
+title: "Kite-Balloon Hybrid"
+
+tagnames: 'balloon-mapping, kite-mapping, kite-balloon-hybrid, agriculture, diy-balloon, mining, urban-planning, fracking, tool, land-use, industry, method, land-change'
 author: mathew
 path: /wiki/kite-balloon-hybrid.md
 nid: 54

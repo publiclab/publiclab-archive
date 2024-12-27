@@ -1,5 +1,7 @@
 ---
-title: "Plab spectrometer version 2.5 vs Spex FluoroMax"\ntagnames: ''
+title: "Plab spectrometer version 2.5 vs Spex FluoroMax"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-20-2016/plab-spectrometer-version-2-5-vs-spex-fluoromax.md
 nid: 13006
@@ -11,7 +13,7 @@ uid: 461120
 
 # Plab spectrometer version 2.5 vs Spex FluoroMax
 
-by [dhaffnersr](../profile/dhaffnersr) | April 20, 2016 10:58
+by [dhaffnersr](../../../profile/dhaffnersr) | April 20, 2016 10:58
 
 April 20, 2016 10:58 | Tags: 
 

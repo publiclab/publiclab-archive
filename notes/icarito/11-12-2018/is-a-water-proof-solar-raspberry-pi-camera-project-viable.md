@@ -1,5 +1,7 @@
 ---
-title: "Is a Water Proof Solar Raspberry Pi Camera project viable?"\ntagnames: 'raspberry-pi, photo-monitoring, timelapse, pi-camera, question:timelapse, question:pi-camera'
+title: "Is a Water Proof Solar Raspberry Pi Camera project viable?"
+
+tagnames: 'raspberry-pi, photo-monitoring, timelapse, pi-camera, question:timelapse, question:pi-camera'
 author: icarito
 path: /notes/icarito/11-12-2018/is-a-water-proof-solar-raspberry-pi-camera-project-viable.md
 nid: 17526
@@ -9,7 +11,7 @@ uid: 448589
 
 # Is a Water Proof Solar Raspberry Pi Camera project viable?
 
-by [icarito](../profile/icarito) | November 12, 2018 07:02
+by [icarito](../../../profile/icarito) | November 12, 2018 07:02
 
 November 12, 2018 07:02 | Tags: [raspberry-pi](../tag/raspberry-pi), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [pi-camera](../tag/pi-camera), [question:timelapse](../tag/question:timelapse), [question:pi-camera](../tag/question:pi-camera)
 

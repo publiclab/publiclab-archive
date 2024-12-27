@@ -1,5 +1,7 @@
 ---
-title: "Commercial UAV near-infrared aerials"\ntagnames: 'near-infrared-camera'
+title: "Commercial UAV near-infrared aerials"
+
+tagnames: 'near-infrared-camera'
 author: warren
 path: /notes/warren/5-15-2012/commercial-uav-near-infrared-aerials.md
 nid: 1990
@@ -11,7 +13,7 @@ uid: 1
 
 # Commercial UAV near-infrared aerials
 
-by [warren](../profile/warren) | May 15, 2012 13:45
+by [warren](../../../profile/warren) | May 15, 2012 13:45
 
 May 15, 2012 13:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera)
 

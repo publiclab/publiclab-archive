@@ -1,5 +1,7 @@
 ---
-title: "Comment templates"\ntagnames: 'location:blurred, templates, lat:28, lon:77, place:india, parent:templates, zoom:6'
+title: "Comment templates"
+
+tagnames: 'location:blurred, templates, lat:28, lon:77, place:india, parent:templates, zoom:6'
 author: warren
 path: /wiki/comment-templates.md
 nid: 17494

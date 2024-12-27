@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal: Refine Geographic UI and JS Integration for PublicLab.org"\ntagnames: 'soc, outreachy, first-time-poster, outreachy-2019, outreachy-2019-proposals, response:18518'
+title: "Outreachy proposal: Refine Geographic UI and JS Integration for PublicLab.org"
+
+tagnames: 'soc, outreachy, first-time-poster, outreachy-2019, outreachy-2019-proposals, response:18518'
 author: christie_reni
 path: /notes/christie_reni/10-26-2019/outreachy-proposal-refine-geographic-ui-and-js-integration-for-publiclab-org.md
 nid: 21306
@@ -9,7 +11,7 @@ uid: 630062
 
 # Outreachy proposal: Refine Geographic UI and JS Integration for PublicLab.org
 
-by [christie_reni](../profile/christie_reni) | October 26, 2019 20:06
+by [christie_reni](../../../profile/christie_reni) | October 26, 2019 20:06
 
 October 26, 2019 20:06 | Tags: [soc](../tag/soc), [outreachy](../tag/outreachy), [first-time-poster](../tag/first-time-poster), [outreachy-2019](../tag/outreachy-2019), [outreachy-2019-proposals](../tag/outreachy-2019-proposals), [response:18518](../tag/response:18518)
 

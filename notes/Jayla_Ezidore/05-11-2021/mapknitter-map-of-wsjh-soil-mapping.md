@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of WSJH Soil Mapping"\ntagnames: 'mapknitter, zoom:14, lat:30.043257, lon:-90.560086, lat:30.007496, lon:-90.5730713'
+title: "MapKnitter map of WSJH Soil Mapping"
+
+tagnames: 'mapknitter, zoom:14, lat:30.043257, lon:-90.560086, lat:30.007496, lon:-90.5730713'
 author: Jayla_Ezidore
 path: /notes/Jayla_Ezidore/05-11-2021/mapknitter-map-of-wsjh-soil-mapping.md
 nid: 26548
@@ -11,7 +13,7 @@ uid: 754782
 
 # MapKnitter map of WSJH Soil Mapping
 
-by [Jayla_Ezidore](../profile/Jayla_Ezidore) | May 11, 2021 18:12
+by [Jayla_Ezidore](../../../profile/Jayla_Ezidore) | May 11, 2021 18:12
 
 May 11, 2021 18:12 | Tags: [mapknitter](../tag/mapknitter), [zoom:14](../tag/zoom:14), [lat:30.043257](../tag/lat:30.043257), [lon:-90.560086](../tag/lon:-90.560086), [lat:30.007496](../tag/lat:30.007496), [lon:-90.5730713](../tag/lon:-90.5730713)
 

@@ -1,5 +1,7 @@
 ---
-title: "community development"\ntagnames: 'community, website, wintercamp, history, irc'
+title: "community development"
+
+tagnames: 'community, website, wintercamp, history, irc'
 author: liz
 path: /wiki/community-development.md
 nid: 11292

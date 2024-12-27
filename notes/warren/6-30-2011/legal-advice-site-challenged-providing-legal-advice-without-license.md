@@ -1,5 +1,7 @@
 ---
-title: "Legal advice site challenged for providing legal advice without a license"\ntagnames: ''
+title: "Legal advice site challenged for providing legal advice without a license"
+
+tagnames: ''
 author: warren
 path: /notes/warren/6-30-2011/legal-advice-site-challenged-providing-legal-advice-without-license.md
 nid: 365
@@ -9,7 +11,7 @@ uid: 1
 
 # Legal advice site challenged for providing legal advice without a license
 
-by [warren](../profile/warren) | June 30, 2011 21:34
+by [warren](../../../profile/warren) | June 30, 2011 21:34
 
 June 30, 2011 21:34 | Tags: 
 

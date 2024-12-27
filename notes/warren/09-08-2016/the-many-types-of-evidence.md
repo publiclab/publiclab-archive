@@ -1,5 +1,7 @@
 ---
-title: "The many types of evidence"\ntagnames: 'evidence, timelapse, legal, with:gretchengehrke, evidence-project, proof, response:13365, spreadsheets, series:evidence-project, law-and-policy'
+title: "The many types of evidence"
+
+tagnames: 'evidence, timelapse, legal, with:gretchengehrke, evidence-project, proof, response:13365, spreadsheets, series:evidence-project, law-and-policy'
 author: warren
 path: /notes/warren/09-08-2016/the-many-types-of-evidence.md
 nid: 13431
@@ -11,7 +13,7 @@ uid: 1
 
 # The many types of evidence
 
-by [warren](../profile/warren) | September 08, 2016 18:06
+by [warren](../../../profile/warren) | September 08, 2016 18:06
 
 September 08, 2016 18:06 | Tags: [evidence](../tag/evidence), [timelapse](../tag/timelapse), [legal](../tag/legal), [with:gretchengehrke](../tag/with:gretchengehrke), [evidence-project](../tag/evidence-project), [proof](../tag/proof), [response:13365](../tag/response:13365), [spreadsheets](../tag/spreadsheets), [series:evidence-project](../tag/series:evidence-project), [law-and-policy](../tag/law-and-policy)
 

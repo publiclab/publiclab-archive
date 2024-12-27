@@ -1,5 +1,7 @@
 ---
-title: "Binocular Mobius Tripod for NVDI."\ntagnames: 'nvdi, gradient, first-time-poster'
+title: "Binocular Mobius Tripod for NVDI."
+
+tagnames: 'nvdi, gradient, first-time-poster'
 author: PatrickC
 path: /notes/PatrickC/11-13-2014/binocular-mobius-tripod-for-nvdi.md
 nid: 11339
@@ -11,7 +13,7 @@ uid: 431386
 
 # Binocular Mobius Tripod for NVDI.
 
-by [PatrickC](../profile/PatrickC) | November 13, 2014 23:19
+by [PatrickC](../../../profile/PatrickC) | November 13, 2014 23:19
 
 November 13, 2014 23:19 | Tags: [nvdi](../tag/nvdi), [gradient](../tag/gradient), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "Balloon mapping images as a way to explain life in a refugee camp"\ntagnames: 'lebanon, middle-east, refugees, refugeecamps, exhibition, berlin, germany, bourjalshamali'
+title: "Balloon mapping images as a way to explain life in a refugee camp"
+
+tagnames: 'lebanon, middle-east, refugees, refugeecamps, exhibition, berlin, germany, bourjalshamali'
 author: Mustapha
 path: /notes/Mustapha/09-27-2016/balloon-mapping-images-as-a-way-to-explain-life-in-a-refugee-camp.md
 nid: 13492
@@ -11,7 +13,7 @@ uid: 493078
 
 # Balloon mapping images as a way to explain life in a refugee camp
 
-by [Mustapha](../profile/Mustapha) | September 27, 2016 20:35
+by [Mustapha](../../../profile/Mustapha) | September 27, 2016 20:35
 
 September 27, 2016 20:35 | Tags: [lebanon](../tag/lebanon), [middle-east](../tag/middle-east), [refugees](../tag/refugees), [refugeecamps](../tag/refugeecamps), [exhibition](../tag/exhibition), [berlin](../tag/berlin), [germany](../tag/germany), [bourjalshamali](../tag/bourjalshamali)
 

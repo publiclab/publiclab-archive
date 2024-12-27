@@ -1,5 +1,7 @@
 ---
-title: "Risorse supplementari"\ntagnames: ''
+title: "Risorse supplementari"
+
+tagnames: ''
 author: Rapcompleto7
 path: /notes/rapcompleto7/5-30-2012/risorse-supplementari-0.md
 nid: 2256
@@ -9,7 +11,7 @@ uid: 1243
 
 # Risorse supplementari
 
-by [Rapcompleto7](../profile/Rapcompleto7) | May 30, 2012 08:03
+by [Rapcompleto7](../../../profile/Rapcompleto7) | May 30, 2012 08:03
 
 May 30, 2012 08:03 | Tags: 
 

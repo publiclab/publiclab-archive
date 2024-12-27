@@ -1,5 +1,7 @@
 ---
-title: "quick and dirty lanyard attachment for mobius camera"\ntagnames: 'balloon-mapping, kite-mapping, camera-rig-tests, photo-rig, mobius-actioncam, mobius, diy-mount-kit, activity:photo-rig'
+title: "quick and dirty lanyard attachment for mobius camera"
+
+tagnames: 'balloon-mapping, kite-mapping, camera-rig-tests, photo-rig, mobius-actioncam, mobius, diy-mount-kit, activity:photo-rig'
 author: tonyc
 path: /notes/tonyc/01-26-2016/quick-and-dirty-lanyard-attachment-for-mobius-camera.md
 nid: 12619
@@ -11,7 +13,7 @@ uid: 447491
 
 # quick and dirty lanyard attachment for mobius camera
 
-by [tonyc](../profile/tonyc) | January 26, 2016 00:17
+by [tonyc](../../../profile/tonyc) | January 26, 2016 00:17
 
 January 26, 2016 00:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [camera-rig-tests](../tag/camera-rig-tests), [photo-rig](../tag/photo-rig), [mobius-actioncam](../tag/mobius-actioncam), [mobius](../tag/mobius), [diy-mount-kit](../tag/diy-mount-kit), [activity:photo-rig](../tag/activity:photo-rig)
 

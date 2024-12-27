@@ -1,5 +1,7 @@
 ---
-title: "Riffle test data"\ntagnames: 'arduino, temperature, water-quality, riffle, micro-sd, response:13122, riffle-beta, category:test-limits, data-logging'
+title: "Riffle test data"
+
+tagnames: 'arduino, temperature, water-quality, riffle, micro-sd, response:13122, riffle-beta, category:test-limits, data-logging'
 author: cfastie
 path: /notes/cfastie/05-18-2016/riffle-test-data.md
 nid: 13127
@@ -11,7 +13,7 @@ uid: 554
 
 # Riffle test data
 
-by [cfastie](../profile/cfastie) | May 18, 2016 18:32
+by [cfastie](../../../profile/cfastie) | May 18, 2016 18:32
 
 May 18, 2016 18:32 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [micro-sd](../tag/micro-sd), [response:13122](../tag/response:13122), [riffle-beta](../tag/riffle-beta), [category:test-limits](../tag/category:test-limits), [data-logging](../tag/data-logging)
 

@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer"\ntagnames: ''
+title: "Spectrometer"
+
+tagnames: ''
 author: warren
 path: /wiki/spectrometer-2.md
 nid: 19

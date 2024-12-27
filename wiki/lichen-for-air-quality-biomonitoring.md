@@ -1,5 +1,7 @@
 ---
-title: "Lichen for Air Quality Biomonitoring"\ntagnames: 'lichen, resources, air-quality-monitoring, bioindicators, parent:bioindicators'
+title: "Lichen for Air Quality Biomonitoring"
+
+tagnames: 'lichen, resources, air-quality-monitoring, bioindicators, parent:bioindicators'
 author: fongvania
 path: /wiki/lichen-for-air-quality-biomonitoring.md
 nid: 31009

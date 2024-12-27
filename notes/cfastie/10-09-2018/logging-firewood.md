@@ -1,5 +1,7 @@
 ---
-title: "Logging firewood"\ntagnames: 'arduino, sensors, data-logging, temperature-sensing, thermal-infrared, gy90614, series:woodstove-control, response:15288'
+title: "Logging firewood"
+
+tagnames: 'arduino, sensors, data-logging, temperature-sensing, thermal-infrared, gy90614, series:woodstove-control, response:15288'
 author: cfastie
 path: /notes/cfastie/10-09-2018/logging-firewood.md
 nid: 17252
@@ -11,7 +13,7 @@ uid: 554
 
 # Logging firewood
 
-by [cfastie](../profile/cfastie) | October 09, 2018 04:27
+by [cfastie](../../../profile/cfastie) | October 09, 2018 04:27
 
 October 09, 2018 04:27 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [temperature-sensing](../tag/temperature-sensing), [thermal-infrared](../tag/thermal-infrared), [gy90614](../tag/gy90614), [series:woodstove-control](../tag/series:woodstove-control), [response:15288](../tag/response:15288)
 

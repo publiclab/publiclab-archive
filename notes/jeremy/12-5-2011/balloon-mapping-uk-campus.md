@@ -1,5 +1,7 @@
 ---
-title: "Balloon Mapping the UK Campus"\ntagnames: 'first-time-poster'
+title: "Balloon Mapping the UK Campus"
+
+tagnames: 'first-time-poster'
 author: jeremy
 path: /notes/jeremy/12-5-2011/balloon-mapping-uk-campus.md
 nid: 612
@@ -11,7 +13,7 @@ uid: 323
 
 # Balloon Mapping the UK Campus
 
-by [jeremy](../profile/jeremy) | December 05, 2011 15:34
+by [jeremy](../../../profile/jeremy) | December 05, 2011 15:34
 
 December 05, 2011 15:34 | Tags: [first-time-poster](../tag/first-time-poster)
 

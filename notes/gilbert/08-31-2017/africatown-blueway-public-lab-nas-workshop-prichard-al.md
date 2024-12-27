@@ -1,5 +1,7 @@
 ---
-title: "AFRICATOWN BLUEWAY -PUBLIC LAB NAS WORKSHOP-PRICHARD, AL"\ntagnames: 'gulf-coast, with:stevie, nas, mejac, africatown, alabama, blueway, prichard'
+title: "AFRICATOWN BLUEWAY -PUBLIC LAB NAS WORKSHOP-PRICHARD, AL"
+
+tagnames: 'gulf-coast, with:stevie, nas, mejac, africatown, alabama, blueway, prichard'
 author: gilbert
 path: /notes/gilbert/08-31-2017/africatown-blueway-public-lab-nas-workshop-prichard-al.md
 nid: 14808
@@ -11,7 +13,7 @@ uid: 508551
 
 # AFRICATOWN BLUEWAY -PUBLIC LAB NAS WORKSHOP-PRICHARD, AL
 
-by [gilbert](../profile/gilbert) | August 31, 2017 16:47
+by [gilbert](../../../profile/gilbert) | August 31, 2017 16:47
 
 August 31, 2017 16:47 | Tags: [gulf-coast](../tag/gulf-coast), [with:stevie](../tag/with:stevie), [nas](../tag/nas), [mejac](../tag/mejac), [africatown](../tag/africatown), [alabama](../tag/alabama), [blueway](../tag/blueway), [prichard](../tag/prichard)
 

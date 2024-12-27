@@ -1,5 +1,7 @@
 ---
-title: "Stickers"\ntagnames: 'stickers, drawings, parent:kits-artwork'
+title: "Stickers"
+
+tagnames: 'stickers, drawings, parent:kits-artwork'
 author: warren
 path: /wiki/stickers.md
 nid: 10571

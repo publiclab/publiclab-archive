@@ -1,5 +1,7 @@
 ---
-title: "Survey for newcomers on interface design of new editor"\ntagnames: 'software, developers, code, survey, editor, rich-editor, newcomers'
+title: "Survey for newcomers on interface design of new editor"
+
+tagnames: 'software, developers, code, survey, editor, rich-editor, newcomers'
 author: warren
 path: /notes/warren/05-19-2016/survey-for-newcomers-on-interface-design-of-new-editor.md
 nid: 13129
@@ -11,7 +13,7 @@ uid: 1
 
 # Survey for newcomers on interface design of new editor
 
-by [warren](../profile/warren) | May 19, 2016 17:00
+by [warren](../../../profile/warren) | May 19, 2016 17:00
 
 May 19, 2016 17:00 | Tags: [software](../tag/software), [developers](../tag/developers), [code](../tag/code), [survey](../tag/survey), [editor](../tag/editor), [rich-editor](../tag/rich-editor), [newcomers](../tag/newcomers)
 

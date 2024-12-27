@@ -1,5 +1,7 @@
 ---
-title: "¿Cómo detectar abrillantadores ópticos (aguas residuales) yendo a un río? / How to detect optical brighteners (wastewater) going to a river?"\ntagnames: 'water-quality, stormwater, lang:es, barnstar:basic, new, wastewater, activity:stormwater, activity:water-quality, activity:new, lat:-30, english, zoom:4, zoom:16, research-curation-fellows, lon:-60, activity:wastewater, detecting-wastewater, wastewater-optical-brighteners, activity:detecting-wastewater, lat:-31.403142, lon:-64.204251'
+title: "¿Cómo detectar abrillantadores ópticos (aguas residuales) yendo a un río? / How to detect optical brighteners (wastewater) going to a river?"
+
+tagnames: 'water-quality, stormwater, lang:es, barnstar:basic, new, wastewater, activity:stormwater, activity:water-quality, activity:new, lat:-30, english, zoom:4, zoom:16, research-curation-fellows, lon:-60, activity:wastewater, detecting-wastewater, wastewater-optical-brighteners, activity:detecting-wastewater, lat:-31.403142, lon:-64.204251'
 author: alejobonifacio
 path: /notes/alejobonifacio/08-04-2021/como-detectar-abrillantadores-opticos-aguas-residuales-yendo-a-un-rio-how-to-detect-optical-brighteners-wastewater-going-to-a-river.md
 nid: 27395
@@ -11,7 +13,7 @@ uid: 639376
 
 # ¿Cómo detectar abrillantadores ópticos (aguas residuales) yendo a un río? / How to detect optical brighteners (wastewater) going to a river?
 
-by [alejobonifacio](../profile/alejobonifacio) | August 04, 2021 17:54
+by [alejobonifacio](../../../profile/alejobonifacio) | August 04, 2021 17:54
 
 August 04, 2021 17:54 | Tags: [water-quality](../tag/water-quality), [stormwater](../tag/stormwater), [lang:es](../tag/lang:es), [barnstar:basic](../tag/barnstar:basic), [new](../tag/new), [wastewater](../tag/wastewater), [activity:stormwater](../tag/activity:stormwater), [activity:water-quality](../tag/activity:water-quality), [activity:new](../tag/activity:new), [lat:-30](../tag/lat:-30), [english](../tag/english), [zoom:4](../tag/zoom:4), [zoom:16](../tag/zoom:16), [research-curation-fellows](../tag/research-curation-fellows), [lon:-60](../tag/lon:-60), [activity:wastewater](../tag/activity:wastewater), [detecting-wastewater](../tag/detecting-wastewater), [wastewater-optical-brighteners](../tag/wastewater-optical-brighteners), [activity:detecting-wastewater](../tag/activity:detecting-wastewater), [lat:-31.403142](../tag/lat:-31.403142), [lon:-64.204251](../tag/lon:-64.204251)
 

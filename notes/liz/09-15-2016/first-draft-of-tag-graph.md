@@ -1,5 +1,7 @@
 ---
-title: "First draft of tag graph"\ntagnames: 'community-metrics, evaluation, with:bsugar'
+title: "First draft of tag graph"
+
+tagnames: 'community-metrics, evaluation, with:bsugar'
 author: liz
 path: /notes/liz/09-15-2016/first-draft-of-tag-graph.md
 nid: 13449
@@ -11,7 +13,7 @@ uid: 7
 
 # First draft of tag graph
 
-by [liz](../profile/liz) | September 15, 2016 18:23
+by [liz](../../../profile/liz) | September 15, 2016 18:23
 
 September 15, 2016 18:23 | Tags: [community-metrics](../tag/community-metrics), [evaluation](../tag/evaluation), [with:bsugar](../tag/with:bsugar)
 

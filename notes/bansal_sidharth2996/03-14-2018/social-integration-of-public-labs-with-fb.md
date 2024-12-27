@@ -1,5 +1,7 @@
 ---
-title: "Social Integration of Public Labs with FB"\ntagnames: 'question:website, question:website-structure'
+title: "Social Integration of Public Labs with FB"
+
+tagnames: 'question:website, question:website-structure'
 author: bansal_sidharth2996
 path: /notes/bansal_sidharth2996/03-14-2018/social-integration-of-public-labs-with-fb.md
 nid: 15945
@@ -9,7 +11,7 @@ uid: 503599
 
 # Social Integration of Public Labs with FB
 
-by [bansal_sidharth2996](../profile/bansal_sidharth2996) | March 14, 2018 04:33
+by [bansal_sidharth2996](../../../profile/bansal_sidharth2996) | March 14, 2018 04:33
 
 March 14, 2018 04:33 | Tags: [question:website](../tag/question:website), [question:website-structure](../tag/question:website-structure)
 

@@ -1,5 +1,7 @@
 ---
-title: "Caroline Witts Sensor Journalism Response"\ntagnames: 'journalism, sensor, sensor-journalism, response:12748, hidden:response'
+title: "Caroline Witts Sensor Journalism Response"
+
+tagnames: 'journalism, sensor, sensor-journalism, response:12748, hidden:response'
 author: cwitts20
 path: /notes/cwitts20/02-24-2016/caroline-witts-sensor-journalism-response.md
 nid: 12728
@@ -11,7 +13,7 @@ uid: 461484
 
 # Caroline Witts Sensor Journalism Response
 
-by [cwitts20](../profile/cwitts20) | February 24, 2016 02:02
+by [cwitts20](../../../profile/cwitts20) | February 24, 2016 02:02
 
 February 24, 2016 02:02 | Tags: [journalism](../tag/journalism), [sensor](../tag/sensor), [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

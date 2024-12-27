@@ -1,5 +1,7 @@
 ---
-title: "Newsletter"\ntagnames: 'community, newsletter, newsletter-archive'
+title: "Newsletter"
+
+tagnames: 'community, newsletter, newsletter-archive'
 author: warren
 path: /wiki/newsletter.md
 nid: 4965

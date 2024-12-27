@@ -1,5 +1,7 @@
 ---
-title: "Characterizing camera sensors – first step"\ntagnames: 'near-infrared-camera, vermont, infrared, leaffest, infragram, leaffest2013, leds'
+title: "Characterizing camera sensors – first step"
+
+tagnames: 'near-infrared-camera, vermont, infrared, leaffest, infragram, leaffest2013, leds'
 author: nedhorning
 path: /notes/nedhorning/09-11-2013/characterizing-camera-sensors-first-step.md
 nid: 9314
@@ -11,7 +13,7 @@ uid: 133
 
 # Characterizing camera sensors – first step
 
-by [nedhorning](../profile/nedhorning) | September 11, 2013 14:49
+by [nedhorning](../../../profile/nedhorning) | September 11, 2013 14:49
 
 September 11, 2013 14:49 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [vermont](../tag/vermont), [infrared](../tag/infrared), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [leaffest2013](../tag/leaffest2013), [leds](../tag/leds)
 

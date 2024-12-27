@@ -1,5 +1,7 @@
 ---
-title: "Ijw"\ntagnames: 'hidden:response, response:13586'
+title: "Ijw"
+
+tagnames: 'hidden:response, response:13586'
 author: Walker
 path: /notes/Walker/10-19-2016/ijw.md
 nid: 13598
@@ -11,7 +13,7 @@ uid: 494882
 
 # Ijw
 
-by [Walker](../profile/Walker) | October 19, 2016 15:11
+by [Walker](../../../profile/Walker) | October 19, 2016 15:11
 
 October 19, 2016 15:11 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 

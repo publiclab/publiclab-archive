@@ -1,5 +1,7 @@
 ---
-title: "Hydrogen Sulfide Testing-glove bag"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper'
+title: "Hydrogen Sulfide Testing-glove bag"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper'
 author: sara
 path: /notes/sara/2-6-2012/hydrogen-sulfide-testing-glove-bag.md
 nid: 755
@@ -11,7 +13,7 @@ uid: 8
 
 # Hydrogen Sulfide Testing-glove bag
 
-by [sara](../profile/sara) | February 06, 2012 19:06
+by [sara](../../../profile/sara) | February 06, 2012 19:06
 
 February 06, 2012 19:06 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 

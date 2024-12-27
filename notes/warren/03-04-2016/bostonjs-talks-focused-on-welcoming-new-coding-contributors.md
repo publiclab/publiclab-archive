@@ -1,5 +1,7 @@
 ---
-title: "BostonJS talks focused on welcoming new coding contributors"\ntagnames: 'boston, community, presentations, developers, coding, talks, javascript, new-contributors, first-timers-only, software-outreach, first-timers-only-blog'
+title: "BostonJS talks focused on welcoming new coding contributors"
+
+tagnames: 'boston, community, presentations, developers, coding, talks, javascript, new-contributors, first-timers-only, software-outreach, first-timers-only-blog'
 author: warren
 path: /notes/warren/03-04-2016/bostonjs-talks-focused-on-welcoming-new-coding-contributors.md
 nid: 12771
@@ -11,7 +13,7 @@ uid: 1
 
 # BostonJS talks focused on welcoming new coding contributors
 
-by [warren](../profile/warren) | March 04, 2016 01:09
+by [warren](../../../profile/warren) | March 04, 2016 01:09
 
 March 04, 2016 01:09 | Tags: [boston](../tag/boston), [community](../tag/community), [presentations](../tag/presentations), [developers](../tag/developers), [coding](../tag/coding), [talks](../tag/talks), [javascript](../tag/javascript), [new-contributors](../tag/new-contributors), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [first-timers-only-blog](../tag/first-timers-only-blog)
 

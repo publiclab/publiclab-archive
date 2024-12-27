@@ -1,5 +1,7 @@
 ---
-title: "unearthing"\ntagnames: 'redirect:unearthing-pvd'
+title: "unearthing"
+
+tagnames: 'redirect:unearthing-pvd'
 author: warren
 path: /wiki/unearthing.md
 nid: 22255

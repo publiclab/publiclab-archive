@@ -1,5 +1,7 @@
 ---
-title: "GSOC 2019: Final Project Report"\ntagnames: 'gsoc-2019-final-report'
+title: "GSOC 2019: Final Project Report"
+
+tagnames: 'gsoc-2019-final-report'
 author: aashnaaashna
 path: /notes/aashnaaashna/08-29-2019/gsoc-2019-final-project-report.md
 nid: 20717
@@ -9,7 +11,7 @@ uid: 553271
 
 # GSOC 2019: Final Project Report
 
-by [aashnaaashna](../profile/aashnaaashna) | August 29, 2019 20:57
+by [aashnaaashna](../../../profile/aashnaaashna) | August 29, 2019 20:57
 
 August 29, 2019 20:57 | Tags: [gsoc-2019-final-report](../tag/gsoc-2019-final-report)
 

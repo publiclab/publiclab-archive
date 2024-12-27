@@ -1,5 +1,7 @@
 ---
-title: "Help us refine the search interface at PublicLab.org/search"\ntagnames: 'question, search, rgsoc, ui, question:ui, comment-template:ui-feedback-template'
+title: "Help us refine the search interface at PublicLab.org/search"
+
+tagnames: 'question, search, rgsoc, ui, question:ui, comment-template:ui-feedback-template'
 author: warren
 path: /notes/warren/10-29-2018/help-us-refine-the-search-interface-at-publiclab-org.md
 nid: 17425
@@ -11,7 +13,7 @@ uid: 1
 
 # Help us refine the search interface at PublicLab.org/search
 
-by [warren](../profile/warren) | October 29, 2018 22:21
+by [warren](../../../profile/warren) | October 29, 2018 22:21
 
 October 29, 2018 22:21 | Tags: [question](../tag/question), [search](../tag/search), [rgsoc](../tag/rgsoc), [ui](../tag/ui), [question:ui](../tag/question:ui), [comment-template:ui-feedback-template](../tag/comment-template:ui-feedback-template)
 

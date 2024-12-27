@@ -1,5 +1,7 @@
 ---
-title: "Bohemia Spillway kite photos"\ntagnames: 'gulf-coast, kite-mapping, bohemia, energy, river, atriskfromenergy, atrisk, naturefightsback, mgp, mardigraspass'
+title: "Bohemia Spillway kite photos"
+
+tagnames: 'gulf-coast, kite-mapping, bohemia, energy, river, atriskfromenergy, atrisk, naturefightsback, mgp, mardigraspass'
 author: eustatic
 path: /4-9-2012/bohemia-spillway-kite-photos.md
 nid: 1633
@@ -11,7 +13,7 @@ uid: 379
 
 # Bohemia Spillway kite photos
 
-by [eustatic](../profile/eustatic) | April 09, 2012 06:20
+by [eustatic](../../../profile/eustatic) | April 09, 2012 06:20
 
 April 09, 2012 06:20 | Tags: [gulf-coast](../tag/gulf-coast), [kite-mapping](../tag/kite-mapping), [bohemia](../tag/bohemia), [energy](../tag/energy), [river](../tag/river), [atriskfromenergy](../tag/atriskfromenergy), [atrisk](../tag/atrisk), [naturefightsback](../tag/naturefightsback), [mgp](../tag/mgp), [mardigraspass](../tag/mardigraspass)
 

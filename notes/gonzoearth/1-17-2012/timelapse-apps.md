@@ -1,5 +1,7 @@
 ---
-title: "Timelapse Apps"\ntagnames: ''
+title: "Timelapse Apps"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/1-17-2012/timelapse-apps.md
 nid: 696
@@ -11,7 +13,7 @@ uid: 12
 
 # Timelapse Apps
 
-by [gonzoearth](../profile/gonzoearth) | January 18, 2012 04:12
+by [gonzoearth](../../../profile/gonzoearth) | January 18, 2012 04:12
 
 January 18, 2012 04:12 | Tags: 
 

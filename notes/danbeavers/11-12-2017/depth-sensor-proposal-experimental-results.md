@@ -1,5 +1,7 @@
 ---
-title: "Depth Sensor Proposal - Experimental Results"\ntagnames: 'water-depth, depth-sensor, barnraising2017, response:13126, replication:13126'
+title: "Depth Sensor Proposal - Experimental Results"
+
+tagnames: 'water-depth, depth-sensor, barnraising2017, response:13126, replication:13126'
 author: danbeavers
 path: /notes/danbeavers/11-12-2017/depth-sensor-proposal-experimental-results.md
 nid: 15175
@@ -11,7 +13,7 @@ uid: 51
 
 # Depth Sensor Proposal - Experimental Results
 
-by [danbeavers](../profile/danbeavers) | November 12, 2017 01:55
+by [danbeavers](../../../profile/danbeavers) | November 12, 2017 01:55
 
 November 12, 2017 01:55 | Tags: [water-depth](../tag/water-depth), [depth-sensor](../tag/depth-sensor), [barnraising2017](../tag/barnraising2017), [response:13126](../tag/response:13126), [replication:13126](../tag/replication:13126)
 

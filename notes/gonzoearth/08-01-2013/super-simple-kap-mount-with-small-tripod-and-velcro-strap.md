@@ -1,5 +1,7 @@
 ---
-title: "super simple KAP mount with small tripod and velcro strap"\ntagnames: 'kite-mapping, activity:kite-mapping, activity:balloon-mapping, activity:photo-rig'
+title: "super simple KAP mount with small tripod and velcro strap"
+
+tagnames: 'kite-mapping, activity:kite-mapping, activity:balloon-mapping, activity:photo-rig'
 author: gonzoearth
 path: /notes/gonzoearth/08-01-2013/super-simple-kap-mount-with-small-tripod-and-velcro-strap.md
 nid: 8953
@@ -11,7 +13,7 @@ uid: 12
 
 # super simple KAP mount with small tripod and velcro strap
 
-by [gonzoearth](../profile/gonzoearth) | August 01, 2013 16:45
+by [gonzoearth](../../../profile/gonzoearth) | August 01, 2013 16:45
 
 August 01, 2013 16:45 | Tags: [kite-mapping](../tag/kite-mapping), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:photo-rig](../tag/activity:photo-rig)
 

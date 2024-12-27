@@ -1,5 +1,7 @@
 ---
-title: "Experiments with kites, balloons, and infrared photography at FabLab Lima"\ntagnames: 'lima, peru, kite-balloon-hybrid, infrared, diy-balloon, south-america'
+title: "Experiments with kites, balloons, and infrared photography at FabLab Lima"
+
+tagnames: 'lima, peru, kite-balloon-hybrid, infrared, diy-balloon, south-america'
 author: warren
 path: /notes/warren/05-01-2018/experiments-with-kites-balloons-and-infrared-photography-at-fablab-lima.md
 nid: 45
@@ -9,7 +11,7 @@ uid: 1
 
 # Experiments with kites, balloons, and infrared photography at FabLab Lima
 
-by [warren](../profile/warren) | January 08, 2011 04:02
+by [warren](../../../profile/warren) | January 08, 2011 04:02
 
 January 08, 2011 04:02 | Tags: [lima](../tag/lima), [peru](../tag/peru), [kite-balloon-hybrid](../tag/kite-balloon-hybrid), [infrared](../tag/infrared), [diy-balloon](../tag/diy-balloon), [south-america](../tag/south-america)
 

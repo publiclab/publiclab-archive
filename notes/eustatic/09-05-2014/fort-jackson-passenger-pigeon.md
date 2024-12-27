@@ -1,5 +1,7 @@
 ---
-title: "Fort Jackson Passenger Pigeon"\ntagnames: 'gulf-coast, mapknitter, passenger-pigeon'
+title: "Fort Jackson Passenger Pigeon"
+
+tagnames: 'gulf-coast, mapknitter, passenger-pigeon'
 author: eustatic
 path: /09-05-2014/fort-jackson-passenger-pigeon.md
 nid: 11109
@@ -11,7 +13,7 @@ uid: 379
 
 # Fort Jackson Passenger Pigeon
 
-by [eustatic](../profile/eustatic) | September 05, 2014 19:06
+by [eustatic](../../../profile/eustatic) | September 05, 2014 19:06
 
 September 05, 2014 19:06 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [passenger-pigeon](../tag/passenger-pigeon)
 

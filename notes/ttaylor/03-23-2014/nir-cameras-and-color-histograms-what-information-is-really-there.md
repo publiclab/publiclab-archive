@@ -1,5 +1,7 @@
 ---
-title: "NIR cameras and color histograms: what information is really there?"\ntagnames: 'near-infrared-camera, infrared, infragram, infrablue, histogram, response:8190, histograms'
+title: "NIR cameras and color histograms: what information is really there?"
+
+tagnames: 'near-infrared-camera, infrared, infragram, infrablue, histogram, response:8190, histograms'
 author: ttaylor
 path: /notes/ttaylor/03-23-2014/nir-cameras-and-color-histograms-what-information-is-really-there.md
 nid: 10218
@@ -11,7 +13,7 @@ uid: 58398
 
 # NIR cameras and color histograms: what information is really there?
 
-by [ttaylor](../profile/ttaylor) | March 23, 2014 21:50
+by [ttaylor](../../../profile/ttaylor) | March 23, 2014 21:50
 
 March 23, 2014 21:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infrared](../tag/infrared), [infragram](../tag/infragram), [infrablue](../tag/infrablue), [histogram](../tag/histogram), [response:8190](../tag/response:8190), [histograms](../tag/histograms)
 

@@ -1,5 +1,7 @@
 ---
-title: "My opinion on the West St. John High School Soil Sampling experiment "\ntagnames: 'lat:1, lon:10, first-time-poster, zoom:6'
+title: "My opinion on the West St. John High School Soil Sampling experiment "
+
+tagnames: 'lat:1, lon:10, first-time-poster, zoom:6'
 author: dlrthekid8732
 path: /notes/dlrthekid8732/04-30-2021/my-opinion-on-the-west-st-john-high-school-soil-sampling-experiment.md
 nid: 26429
@@ -9,7 +11,7 @@ uid: 754777
 
 # My opinion on the West St. John High School Soil Sampling experiment 
 
-by [dlrthekid8732](../profile/dlrthekid8732) | April 30, 2021 18:40
+by [dlrthekid8732](../../../profile/dlrthekid8732) | April 30, 2021 18:40
 
 April 30, 2021 18:40 | Tags: [lat:1](../tag/lat:1), [lon:10](../tag/lon:10), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6)
 

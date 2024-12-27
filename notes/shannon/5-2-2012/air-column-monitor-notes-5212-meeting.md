@@ -1,5 +1,7 @@
 ---
-title: "Air Column Monitor notes: 5.2.12 meeting"\ntagnames: ''
+title: "Air Column Monitor notes: 5.2.12 meeting"
+
+tagnames: ''
 author: Shannon
 path: /notes/shannon/5-2-2012/air-column-monitor-notes-5212-meeting.md
 nid: 1890
@@ -9,7 +11,7 @@ uid: 9
 
 # Air Column Monitor notes: 5.2.12 meeting
 
-by [Shannon](../profile/Shannon) | May 02, 2012 16:42
+by [Shannon](../../../profile/Shannon) | May 02, 2012 16:42
 
 May 02, 2012 16:42 | Tags: 
 

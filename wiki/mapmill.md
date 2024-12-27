@@ -1,5 +1,7 @@
 ---
-title: "MapMill"\ntagnames: 'software, needs-revision, developers, mapmill, photo-sharing'
+title: "MapMill"
+
+tagnames: 'software, needs-revision, developers, mapmill, photo-sharing'
 author: warren
 path: /wiki/mapmill.md
 nid: 141

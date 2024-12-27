@@ -1,5 +1,7 @@
 ---
-title: "Kanitthong"\ntagnames: 'hidden:response, response:13586'
+title: "Kanitthong"
+
+tagnames: 'hidden:response, response:13586'
 author: Kanitthong
 path: /notes/Kanitthong/10-12-2016/kanitthong.md
 nid: 13554
@@ -11,7 +13,7 @@ uid: 492812
 
 # Kanitthong
 
-by [Kanitthong](../profile/Kanitthong) | October 12, 2016 04:24
+by [Kanitthong](../../../profile/Kanitthong) | October 12, 2016 04:24
 
 October 12, 2016 04:24 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 

@@ -1,5 +1,7 @@
 ---
-title: "GSoC proposal: Email integration project"\ntagnames: 'software, gsoc, soc, response:13975, soc-2018, soc-2018-proposals, soc-2018-email'
+title: "GSoC proposal: Email integration project"
+
+tagnames: 'software, gsoc, soc, response:13975, soc-2018, soc-2018-proposals, soc-2018-email'
 author: vishesh
 path: /notes/vishesh/02-16-2018/email-integration-project.md
 nid: 15745
@@ -9,7 +11,7 @@ uid: 525271
 
 # GSoC proposal: Email integration project
 
-by [vishesh](../profile/vishesh) | February 16, 2018 06:39
+by [vishesh](../../../profile/vishesh) | February 16, 2018 06:39
 
 February 16, 2018 06:39 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-email](../tag/soc-2018-email)
 

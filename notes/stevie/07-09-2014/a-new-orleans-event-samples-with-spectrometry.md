@@ -1,5 +1,7 @@
 ---
-title: "A New Orleans Event"\ntagnames: 'gulf-coast, spectrometer, events, spectrometry, event, date:07-31-2014'
+title: "A New Orleans Event"
+
+tagnames: 'gulf-coast, spectrometer, events, spectrometry, event, date:07-31-2014'
 author: stevie
 path: /notes/stevie/07-09-2014/a-new-orleans-event-samples-with-spectrometry.md
 nid: 10669
@@ -11,7 +13,7 @@ uid: 422561
 
 # A New Orleans Event
 
-by [stevie](../profile/stevie) | July 09, 2014 14:48
+by [stevie](../../../profile/stevie) | July 09, 2014 14:48
 
 July 09, 2014 14:48 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [events](../tag/events), [spectrometry](../tag/spectrometry), [event](../tag/event), [date:07-31-2014](../tag/date:07-31-2014)
 

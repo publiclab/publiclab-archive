@@ -1,5 +1,7 @@
 ---
-title: "Project for electrical"\ntagnames: ''
+title: "Project for electrical"
+
+tagnames: ''
 author: keerthana06
 path: /notes/keerthana06/05-08-2021/project-for-electrical.md
 nid: 26528
@@ -9,7 +11,7 @@ uid: 754722
 
 # Project for electrical
 
-by [keerthana06](../profile/keerthana06) | May 08, 2021 12:21
+by [keerthana06](../../../profile/keerthana06) | May 08, 2021 12:21
 
 May 08, 2021 12:21 | Tags: 
 

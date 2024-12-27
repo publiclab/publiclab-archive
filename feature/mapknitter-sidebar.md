@@ -1,5 +1,7 @@
 ---
-title: "mapknitter-sidebar"\ntagnames: ''
+title: "mapknitter-sidebar"
+
+tagnames: ''
 author: warren
 path: /feature/mapknitter-sidebar.md
 nid: 12326

@@ -1,5 +1,7 @@
 ---
-title: "Is there any correlation between Infragram, IR and Thermographic images ?"\ntagnames: 'infragram, question:infragram, first-time-poster'
+title: "Is there any correlation between Infragram, IR and Thermographic images ?"
+
+tagnames: 'infragram, question:infragram, first-time-poster'
 author: dariusjack
 path: /notes/dariusjack/11-09-2020/is-there-any-correlation-between-infragram-ir-and-thermographic-images.md
 nid: 25023
@@ -9,7 +11,7 @@ uid: 728980
 
 # Is there any correlation between Infragram, IR and Thermographic images ?
 
-by [dariusjack](../profile/dariusjack) | November 09, 2020 13:15
+by [dariusjack](../../../profile/dariusjack) | November 09, 2020 13:15
 
 November 09, 2020 13:15 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [first-time-poster](../tag/first-time-poster)
 

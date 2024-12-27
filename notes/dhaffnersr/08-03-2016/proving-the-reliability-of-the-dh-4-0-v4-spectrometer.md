@@ -1,5 +1,7 @@
 ---
-title: "Proving The Reliability Of The DH 4.0 v4 Spectrometer"\ntagnames: ''
+title: "Proving The Reliability Of The DH 4.0 v4 Spectrometer"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-03-2016/proving-the-reliability-of-the-dh-4-0-v4-spectrometer.md
 nid: 13330
@@ -11,7 +13,7 @@ uid: 461120
 
 # Proving The Reliability Of The DH 4.0 v4 Spectrometer
 
-by [dhaffnersr](../profile/dhaffnersr) | August 03, 2016 15:49
+by [dhaffnersr](../../../profile/dhaffnersr) | August 03, 2016 15:49
 
 August 03, 2016 15:49 | Tags: 
 

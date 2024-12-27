@@ -1,5 +1,7 @@
 ---
-title: "Barnraising 2013"\ntagnames: 'gulf-coast, louisiana, barnraising, event, list:plots-barnraising, parent:barnraising'
+title: "Barnraising 2013"
+
+tagnames: 'gulf-coast, louisiana, barnraising, event, list:plots-barnraising, parent:barnraising'
 author: warren
 path: /wiki/barnraising-2013.md
 nid: 8805

@@ -1,5 +1,7 @@
 ---
-title: "Reflected sunlight and a spectrometer improving proposal"\ntagnames: ''
+title: "Reflected sunlight and a spectrometer improving proposal"
+
+tagnames: ''
 author: viechdokter
 path: /notes/viechdokter/04-10-2016/reflected-sunlight-and-a-spectrometer-improving-proposal.md
 nid: 12954
@@ -11,7 +13,7 @@ uid: 468990
 
 # Reflected sunlight and a spectrometer improving proposal
 
-by [viechdokter](../profile/viechdokter) | April 10, 2016 13:15
+by [viechdokter](../../../profile/viechdokter) | April 10, 2016 13:15
 
 April 10, 2016 13:15 | Tags: 
 

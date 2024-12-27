@@ -1,5 +1,7 @@
 ---
-title: "buoy for water sensor"\ntagnames: 'water-sensing, water-quality, riffle, open-water, bottle, waterproofing, buoy, riffle-examples, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures, first-time-poster'
+title: "buoy for water sensor"
+
+tagnames: 'water-sensing, water-quality, riffle, open-water, bottle, waterproofing, buoy, riffle-examples, data-logger-enclosures, sensor-enclosures, activity:sensor-enclosures, first-time-poster'
 author: DavidMack
 path: /notes/DavidMack/09-11-2015/buoy-for-water-sensor.md
 nid: 12211
@@ -11,7 +13,7 @@ uid: 420189
 
 # buoy for water sensor
 
-by [DavidMack](../profile/DavidMack) | September 11, 2015 20:44
+by [DavidMack](../../../profile/DavidMack) | September 11, 2015 20:44
 
 September 11, 2015 20:44 | Tags: [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [bottle](../tag/bottle), [waterproofing](../tag/waterproofing), [buoy](../tag/buoy), [riffle-examples](../tag/riffle-examples), [data-logger-enclosures](../tag/data-logger-enclosures), [sensor-enclosures](../tag/sensor-enclosures), [activity:sensor-enclosures](../tag/activity:sensor-enclosures), [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "Workshop V: How do we study an environmental issue?"\ntagnames: 'education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, activity:student-community-science, with:purl, pin:study-design'
+title: "Workshop V: How do we study an environmental issue?"
+
+tagnames: 'education, workshop, curriculum, activity:education, study-design, lesson, parent:student-led-community-science-in-the-classroom-a-curriculum, activity:student-community-science, with:purl, pin:study-design'
 author: mimiss
 path: /notes/mimiss/06-03-2019/workshop-v-how-do-we-study-an-environmental-issue.md
 nid: 19432
@@ -11,7 +13,7 @@ uid: 579821
 
 # Workshop V: How do we study an environmental issue?
 
-by [mimiss](../profile/mimiss) | May 16, 2019 18:38
+by [mimiss](../../../profile/mimiss) | May 16, 2019 18:38
 
 May 16, 2019 18:38 | Tags: [education](../tag/education), [workshop](../tag/workshop), [curriculum](../tag/curriculum), [activity:education](../tag/activity:education), [study-design](../tag/study-design), [lesson](../tag/lesson), [parent:student-led-community-science-in-the-classroom-a-curriculum](../tag/parent:student-led-community-science-in-the-classroom-a-curriculum), [activity:student-community-science](../tag/activity:student-community-science), [with:purl](../tag/with:purl), [pin:study-design](../tag/pin:study-design)
 

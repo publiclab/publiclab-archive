@@ -1,5 +1,7 @@
 ---
-title: "Detection of Olive Oil Adulteration (with Peanut Oil) Using Visual Light Spectroscopy"\ntagnames: 'spectrometer, desktop-spectrometry-kit, food, olive-oil, response:10167, adulteration, peanut-oil, food-fraud, barnstar:empiricism, food-safety, response:10295, activity:spectrometry, difficulty:medium, time:10h, activity:science-fair, activity:food, first-time-poster'
+title: "Detection of Olive Oil Adulteration (with Peanut Oil) Using Visual Light Spectroscopy"
+
+tagnames: 'spectrometer, desktop-spectrometry-kit, food, olive-oil, response:10167, adulteration, peanut-oil, food-fraud, barnstar:empiricism, food-safety, response:10295, activity:spectrometry, difficulty:medium, time:10h, activity:science-fair, activity:food, first-time-poster'
 author: ygzstc
 path: /notes/ygzstc/04-30-2014/detection-of-olive-oil-adulteration-with-peanut-oil-using-visual-light-spectroscopy.md
 nid: 10382
@@ -11,7 +13,7 @@ uid: 422489
 
 # Detection of Olive Oil Adulteration (with Peanut Oil) Using Visual Light Spectroscopy
 
-by [ygzstc](../profile/ygzstc) | April 30, 2014 15:15
+by [ygzstc](../../../profile/ygzstc) | April 30, 2014 15:15
 
 April 30, 2014 15:15 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometry-kit](../tag/desktop-spectrometry-kit), [food](../tag/food), [olive-oil](../tag/olive-oil), [response:10167](../tag/response:10167), [adulteration](../tag/adulteration), [peanut-oil](../tag/peanut-oil), [food-fraud](../tag/food-fraud), [barnstar:empiricism](../tag/barnstar:empiricism), [food-safety](../tag/food-safety), [response:10295](../tag/response:10295), [activity:spectrometry](../tag/activity:spectrometry), [difficulty:medium](../tag/difficulty:medium), [time:10h](../tag/time:10h), [activity:science-fair](../tag/activity:science-fair), [activity:food](../tag/activity:food), [first-time-poster](../tag/first-time-poster)
 

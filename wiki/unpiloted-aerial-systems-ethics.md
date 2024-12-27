@@ -1,5 +1,7 @@
 ---
-title: "Unpiloted Aerial Systems Ethics"\ntagnames: 'open-source, gmf, drones, grassrootsmappingforum, aerial-photos, style:fancy, gmf-2'
+title: "Unpiloted Aerial Systems Ethics"
+
+tagnames: 'open-source, gmf, drones, grassrootsmappingforum, aerial-photos, style:fancy, gmf-2'
 author: mollydanielsson
 path: /wiki/unpiloted-aerial-systems-ethics.md
 nid: 11563

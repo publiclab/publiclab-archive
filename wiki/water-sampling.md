@@ -1,5 +1,7 @@
 ---
-title: "Water Sampling"\ntagnames: 'agriculture, mining, water-quality, water, sampling, fracking, tool, industry, water-testing, drinking-water, method, chemicals, oil-and-gas, parent:sampling, sample-collection, water-sampling, parent:water-quality'
+title: "Water Sampling"
+
+tagnames: 'agriculture, mining, water-quality, water, sampling, fracking, tool, industry, water-testing, drinking-water, method, chemicals, oil-and-gas, parent:sampling, sample-collection, water-sampling, parent:water-quality'
 author: warren
 path: /wiki/water-sampling.md
 nid: 14841

@@ -1,5 +1,7 @@
 ---
-title: "Barnraising 2016 at LUMCON: Resources for Landfill Researchers"\ntagnames: 'landfill, workshop, barnraising, organizers, dust, pm, particulate-monitoring, passive-particle-monitors, landfills, barnraising-2016, particulate-matter, location:blurred, lat:29.24, lon:-90.66, place:cocodrie-la-usa'
+title: "Barnraising 2016 at LUMCON: Resources for Landfill Researchers"
+
+tagnames: 'landfill, workshop, barnraising, organizers, dust, pm, particulate-monitoring, passive-particle-monitors, landfills, barnraising-2016, particulate-matter, location:blurred, lat:29.24, lon:-90.66, place:cocodrie-la-usa'
 author: sarasage
 path: /notes/sarasage/11-11-2016/barnraising-2016-at-lumcon-resources-for-landfill-researchers.md
 nid: 13696
@@ -11,7 +13,7 @@ uid: 451398
 
 # Barnraising 2016 at LUMCON: Resources for Landfill Researchers
 
-by [sarasage](../profile/sarasage) | November 11, 2016 05:38
+by [sarasage](../../../profile/sarasage) | November 11, 2016 05:38
 
 November 11, 2016 05:38 | Tags: [landfill](../tag/landfill), [workshop](../tag/workshop), [barnraising](../tag/barnraising), [organizers](../tag/organizers), [dust](../tag/dust), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [passive-particle-monitors](../tag/passive-particle-monitors), [landfills](../tag/landfills), [barnraising-2016](../tag/barnraising-2016), [particulate-matter](../tag/particulate-matter), [location:blurred](../tag/location:blurred), [lat:29.24](../tag/lat:29.24), [lon:-90.66](../tag/lon:-90.66), [place:cocodrie-la-usa](../tag/place:cocodrie-la-usa)
 

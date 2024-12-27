@@ -1,5 +1,7 @@
 ---
-title: "FLC Wetland MO"\ntagnames: 'mapknitter, lat:38.6628355686, lon:-121.1277329922'
+title: "FLC Wetland MO"
+
+tagnames: 'mapknitter, lat:38.6628355686, lon:-121.1277329922'
 author: maeganoverstreet
 path: /notes/maeganoverstreet/11-09-2015/flc-wetland-mo.md
 nid: 12382
@@ -11,7 +13,7 @@ uid: 456380
 
 # FLC Wetland MO
 
-by [maeganoverstreet](../profile/maeganoverstreet) | November 09, 2015 16:57
+by [maeganoverstreet](../../../profile/maeganoverstreet) | November 09, 2015 16:57
 
 November 09, 2015 16:57 | Tags: [mapknitter](../tag/mapknitter), [lat:38.6628355686](../tag/lat:38.6628355686), [lon:-121.1277329922](../tag/lon:-121.1277329922)
 

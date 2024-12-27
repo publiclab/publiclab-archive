@@ -1,5 +1,7 @@
 ---
-title: "LEAFFEST project"\ntagnames: 'near-infrared-camera, ndvi, vermont, leaffest, infragram, garden, events:vermont, leaffest2013'
+title: "LEAFFEST project"
+
+tagnames: 'near-infrared-camera, ndvi, vermont, leaffest, infragram, garden, events:vermont, leaffest2013'
 author: cfastie
 path: /notes/cfastie/09-02-2013/leaffest-test.md
 nid: 9088
@@ -11,7 +13,7 @@ uid: 554
 
 # LEAFFEST project
 
-by [cfastie](../profile/cfastie) | September 02, 2013 00:21
+by [cfastie](../../../profile/cfastie) | September 02, 2013 00:21
 
 September 02, 2013 00:21 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [leaffest](../tag/leaffest), [infragram](../tag/infragram), [garden](../tag/garden), [events:vermont](../tag/events:vermont), [leaffest2013](../tag/leaffest2013)
 

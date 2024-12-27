@@ -1,5 +1,7 @@
 ---
-title: "Timeline of the Huber Mill OSB Factory"\ntagnames: 'lat:47, zoom:8, mn-land-manoomin-protection, lon:-93'
+title: "Timeline of the Huber Mill OSB Factory"
+
+tagnames: 'lat:47, zoom:8, mn-land-manoomin-protection, lon:-93'
 author: noah_ben_furman
 path: /notes/noah_ben_furman/08-04-2022/timeline-of-the-huber-mill-osb-factory.md
 nid: 34827
@@ -11,7 +13,7 @@ uid: 795472
 
 # Timeline of the Huber Mill OSB Factory
 
-by [noah_ben_furman](../profile/noah_ben_furman) | August 04, 2022 19:12
+by [noah_ben_furman](../../../profile/noah_ben_furman) | August 04, 2022 19:12
 
 August 04, 2022 19:12 | Tags: [lat:47](../tag/lat:47), [zoom:8](../tag/zoom:8), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-93](../tag/lon:-93)
 

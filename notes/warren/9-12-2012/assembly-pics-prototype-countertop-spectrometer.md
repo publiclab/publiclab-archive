@@ -1,5 +1,7 @@
 ---
-title: "Assembly pics for prototype "countertop" spectrometer"\ntagnames: 'spectrometer'
+title: "Assembly pics for prototype "countertop" spectrometer"
+
+tagnames: 'spectrometer'
 author: warren
 path: /notes/warren/9-12-2012/assembly-pics-prototype-countertop-spectrometer.md
 nid: 3760
@@ -11,7 +13,7 @@ uid: 1
 
 # Assembly pics for prototype "countertop" spectrometer
 
-by [warren](../profile/warren) | September 12, 2012 17:12
+by [warren](../../../profile/warren) | September 12, 2012 17:12
 
 September 12, 2012 17:12 | Tags: [spectrometer](../tag/spectrometer)
 

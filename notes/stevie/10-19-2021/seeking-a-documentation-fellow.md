@@ -1,5 +1,7 @@
 ---
-title: "Seeking a Documentation Fellow"\ntagnames: 'documentation, air-quality, jobs, fellows, fellowship, job, fellowship-team, careers, st-james, with:travislondon, formosaplastics'
+title: "Seeking a Documentation Fellow"
+
+tagnames: 'documentation, air-quality, jobs, fellows, fellowship, job, fellowship-team, careers, st-james, with:travislondon, formosaplastics'
 author: stevie
 path: /notes/stevie/10-19-2021/seeking-a-documentation-fellow.md
 nid: 27947
@@ -11,7 +13,7 @@ uid: 422561
 
 # Seeking a Documentation Fellow
 
-by [stevie](../profile/stevie) | October 19, 2021 18:40
+by [stevie](../../../profile/stevie) | October 19, 2021 18:40
 
 October 19, 2021 18:40 | Tags: [documentation](../tag/documentation), [air-quality](../tag/air-quality), [jobs](../tag/jobs), [fellows](../tag/fellows), [fellowship](../tag/fellowship), [job](../tag/job), [fellowship-team](../tag/fellowship-team), [careers](../tag/careers), [st-james](../tag/st-james), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics)
 

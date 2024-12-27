@@ -1,5 +1,7 @@
 ---
-title: "Remote temperature sensing"\ntagnames: 'balloon-mapping, kite-mapping, hydrogen-sulfide-sensing, as220, temperature, leaffest, jeenode, h2s, compost, data-logging, cosm'
+title: "Remote temperature sensing"
+
+tagnames: 'balloon-mapping, kite-mapping, hydrogen-sulfide-sensing, as220, temperature, leaffest, jeenode, h2s, compost, data-logging, cosm'
 author: cfastie
 path: /notes/cfastie/9-14-2012/remote-temperature-sensing.md
 nid: 3822
@@ -11,7 +13,7 @@ uid: 554
 
 # Remote temperature sensing
 
-by [cfastie](../profile/cfastie) | September 14, 2012 22:28
+by [cfastie](../../../profile/cfastie) | September 14, 2012 22:28
 
 September 14, 2012 22:28 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [as220](../tag/as220), [temperature](../tag/temperature), [leaffest](../tag/leaffest), [jeenode](../tag/jeenode), [h2s](../tag/h2s), [compost](../tag/compost), [data-logging](../tag/data-logging), [cosm](../tag/cosm)
 

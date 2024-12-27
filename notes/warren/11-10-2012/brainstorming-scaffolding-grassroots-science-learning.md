@@ -1,5 +1,7 @@
 ---
-title: "Brainstorming a scaffolding for grassroots science learning"\ntagnames: 'helloworld, pedagogy'
+title: "Brainstorming a scaffolding for grassroots science learning"
+
+tagnames: 'helloworld, pedagogy'
 author: warren
 path: /notes/warren/11-10-2012/brainstorming-scaffolding-grassroots-science-learning.md
 nid: 4863
@@ -11,7 +13,7 @@ uid: 1
 
 # Brainstorming a scaffolding for grassroots science learning
 
-by [warren](../profile/warren) | November 11, 2012 03:31
+by [warren](../../../profile/warren) | November 11, 2012 03:31
 
 November 11, 2012 03:31 | Tags: [helloworld](../tag/helloworld), [pedagogy](../tag/pedagogy)
 

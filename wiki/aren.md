@@ -1,5 +1,7 @@
 ---
-title: "AREN Project"\ntagnames: 'as220, nasa, infragram, aren'
+title: "AREN Project"
+
+tagnames: 'as220, nasa, infragram, aren'
 author: warren
 path: /wiki/aren.md
 nid: 15256

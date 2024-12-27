@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal: Refine the Public Lab Rich Editor"\ntagnames: 'zoom:6, lon:30, outreachy-winter-2021, clear'
+title: "Outreachy proposal: Refine the Public Lab Rich Editor"
+
+tagnames: 'zoom:6, lon:30, outreachy-winter-2021, clear'
 author: ezrajet9
 path: /notes/ezrajet9/11-01-2021/outreachy-proposal-refine-the-public-lab-rich-editor.md
 nid: 28016
@@ -11,7 +13,7 @@ uid: 776386
 
 # Outreachy proposal: Refine the Public Lab Rich Editor
 
-by [ezrajet9](../profile/ezrajet9) | November 01, 2021 10:24
+by [ezrajet9](../../../profile/ezrajet9) | November 01, 2021 10:24
 
 November 01, 2021 10:24 | Tags: [zoom:6](../tag/zoom:6), [lon:30](../tag/lon:30), [outreachy-winter-2021](../tag/outreachy-winter-2021), [clear](../tag/clear)
 

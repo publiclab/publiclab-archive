@@ -1,5 +1,7 @@
 ---
-title: "Southeast Asia"\ntagnames: 'india, region, igem'
+title: "Southeast Asia"
+
+tagnames: 'india, region, igem'
 author: liz
 path: /wiki/southeast-asia.md
 nid: 817

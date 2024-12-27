@@ -1,5 +1,7 @@
 ---
-title: "The accidental raspberry pi spectrometer"\ntagnames: 'diy, spectroscopy, pi, spectral, response, curve, raspberry'
+title: "The accidental raspberry pi spectrometer"
+
+tagnames: 'diy, spectroscopy, pi, spectral, response, curve, raspberry'
 author: khufkens
 path: /notes/khufkens/04-25-2015/the-accidental-raspberry-pi-spectrometer.md
 nid: 11770
@@ -11,7 +13,7 @@ uid: 438931
 
 # The accidental raspberry pi spectrometer
 
-by [khufkens](../profile/khufkens) | April 25, 2015 01:20
+by [khufkens](../../../profile/khufkens) | April 25, 2015 01:20
 
 April 25, 2015 01:20 | Tags: [diy](../tag/diy), [spectroscopy](../tag/spectroscopy), [pi](../tag/pi), [spectral](../tag/spectral), [response](../tag/response), [curve](../tag/curve), [raspberry](../tag/raspberry)
 

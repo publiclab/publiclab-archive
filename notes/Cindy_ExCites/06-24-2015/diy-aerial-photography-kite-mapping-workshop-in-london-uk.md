@@ -1,5 +1,7 @@
 ---
-title: "DIY aerial photography: Kite-mapping workshop in London, UK"\ntagnames: 'kite-mapping, london, workshop, event, kitemapping, event:rsvp, eu, date:06-24-2015, rsvp:edibleurban, replication:14022'
+title: "DIY aerial photography: Kite-mapping workshop in London, UK"
+
+tagnames: 'kite-mapping, london, workshop, event, kitemapping, event:rsvp, eu, date:06-24-2015, rsvp:edibleurban, replication:14022'
 author: cindy_excites
 path: /notes/Cindy_ExCites/06-24-2015/diy-aerial-photography-kite-mapping-workshop-in-london-uk.md
 nid: 12000
@@ -11,7 +13,7 @@ uid: 1083
 
 # DIY aerial photography: Kite-mapping workshop in London, UK
 
-by [cindy_excites](../profile/cindy_excites) | June 24, 2015 14:45
+by [cindy_excites](../../../profile/cindy_excites) | June 24, 2015 14:45
 
 June 24, 2015 14:45 | Tags: [kite-mapping](../tag/kite-mapping), [london](../tag/london), [workshop](../tag/workshop), [event](../tag/event), [kitemapping](../tag/kitemapping), [event:rsvp](../tag/event:rsvp), [eu](../tag/eu), [date:06-24-2015](../tag/date:06-24-2015), [rsvp:edibleurban](../tag/rsvp:edibleurban), [replication:14022](../tag/replication:14022)
 

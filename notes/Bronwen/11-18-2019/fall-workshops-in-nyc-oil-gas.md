@@ -1,5 +1,7 @@
 ---
-title: "Fall Workshops in NYC- Oil & Gas"\ntagnames: 'workshops, nyc, oil-and-gas, simple-air-sensor'
+title: "Fall Workshops in NYC- Oil & Gas"
+
+tagnames: 'workshops, nyc, oil-and-gas, simple-air-sensor'
 author: Bronwen
 path: /notes/Bronwen/11-18-2019/fall-workshops-in-nyc-oil-gas.md
 nid: 21523
@@ -11,7 +13,7 @@ uid: 237313
 
 # Fall Workshops in NYC- Oil & Gas
 
-by [Bronwen](../profile/Bronwen) | November 18, 2019 15:28
+by [Bronwen](../../../profile/Bronwen) | November 18, 2019 15:28
 
 November 18, 2019 15:28 | Tags: [workshops](../tag/workshops), [nyc](../tag/nyc), [oil-and-gas](../tag/oil-and-gas), [simple-air-sensor](../tag/simple-air-sensor)
 

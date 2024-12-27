@@ -1,5 +1,7 @@
 ---
-title: "Public Lab helps people create great Data"\ntagnames: 'website, plots2, wintercamp'
+title: "Public Lab helps people create great Data"
+
+tagnames: 'website, plots2, wintercamp'
 author: mollydanielsson
 path: /wiki/public-lab-helps-people-create-great-data.md
 nid: 5613

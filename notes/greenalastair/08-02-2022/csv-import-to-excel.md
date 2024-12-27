@@ -1,5 +1,7 @@
 ---
-title: "CSV import to excel"\ntagnames: 'spectral-workbench, question:spectral-workbench, first-time-poster'
+title: "CSV import to excel"
+
+tagnames: 'spectral-workbench, question:spectral-workbench, first-time-poster'
 author: greenalastair
 path: /notes/greenalastair/08-02-2022/csv-import-to-excel.md
 nid: 34818
@@ -9,7 +11,7 @@ uid: 808697
 
 # CSV import to excel
 
-by [greenalastair](../profile/greenalastair) | August 02, 2022 05:25
+by [greenalastair](../../../profile/greenalastair) | August 02, 2022 05:25
 
 August 02, 2022 05:25 | Tags: [spectral-workbench](../tag/spectral-workbench), [question:spectral-workbench](../tag/question:spectral-workbench), [first-time-poster](../tag/first-time-poster)
 

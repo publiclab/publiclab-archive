@@ -1,5 +1,7 @@
 ---
-title: "Q&A enables automated FAQ"\ntagnames: 'community, blog, with:warren, with:gretchengehrke, research-culture, activity-grids, with:abdul'
+title: "Q&A enables automated FAQ"
+
+tagnames: 'community, blog, with:warren, with:gretchengehrke, research-culture, activity-grids, with:abdul'
 author: liz
 path: /notes/liz/09-07-2016/q-a-enables-automated-faq.md
 nid: 13428
@@ -11,7 +13,7 @@ uid: 7
 
 # Q&A enables automated FAQ
 
-by [liz](../profile/liz) | September 07, 2016 18:11
+by [liz](../../../profile/liz) | September 07, 2016 18:11
 
 September 07, 2016 18:11 | Tags: [community](../tag/community), [blog](../tag/blog), [with:warren](../tag/with:warren), [with:gretchengehrke](../tag/with:gretchengehrke), [research-culture](../tag/research-culture), [activity-grids](../tag/activity-grids), [with:abdul](../tag/with:abdul)
 

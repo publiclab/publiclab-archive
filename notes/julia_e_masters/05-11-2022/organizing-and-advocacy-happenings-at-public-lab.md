@@ -1,5 +1,7 @@
 ---
-title: "Organizing and Advocacy Happenings at Public Lab!"\ntagnames: 'organizing, advocacy, formosaplastics'
+title: "Organizing and Advocacy Happenings at Public Lab!"
+
+tagnames: 'organizing, advocacy, formosaplastics'
 author: julia_e_masters
 path: /notes/julia_e_masters/05-11-2022/organizing-and-advocacy-happenings-at-public-lab.md
 nid: 30715
@@ -9,7 +11,7 @@ uid: 756220
 
 # Organizing and Advocacy Happenings at Public Lab!
 
-by [julia_e_masters](../profile/julia_e_masters) | May 11, 2022 23:43
+by [julia_e_masters](../../../profile/julia_e_masters) | May 11, 2022 23:43
 
 May 11, 2022 23:43 | Tags: [organizing](../tag/organizing), [advocacy](../tag/advocacy), [formosaplastics](../tag/formosaplastics)
 

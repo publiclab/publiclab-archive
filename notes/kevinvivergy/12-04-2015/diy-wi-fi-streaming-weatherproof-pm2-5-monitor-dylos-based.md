@@ -1,5 +1,7 @@
 ---
-title: "DIY: Wi-Fi Streaming Weatherproof PM2.5 Monitor (Dylos-based)"\ntagnames: 'particulate-sensing, raspberry-pi, air-quality, dust, particulates, pm, particulate-monitoring, pm-sensing, time:5h, difficulty:medium, activity:open-air, category:monitor, status:complete'
+title: "DIY: Wi-Fi Streaming Weatherproof PM2.5 Monitor (Dylos-based)"
+
+tagnames: 'particulate-sensing, raspberry-pi, air-quality, dust, particulates, pm, particulate-monitoring, pm-sensing, time:5h, difficulty:medium, activity:open-air, category:monitor, status:complete'
 author: kevinvivergy
 path: /notes/kevinvivergy/12-04-2015/diy-wi-fi-streaming-weatherproof-pm2-5-monitor-dylos-based.md
 nid: 12481
@@ -11,7 +13,7 @@ uid: 456612
 
 # DIY: Wi-Fi Streaming Weatherproof PM2.5 Monitor (Dylos-based)
 
-by [kevinvivergy](../profile/kevinvivergy) | December 04, 2015 23:10
+by [kevinvivergy](../../../profile/kevinvivergy) | December 04, 2015 23:10
 
 December 04, 2015 23:10 | Tags: [particulate-sensing](../tag/particulate-sensing), [raspberry-pi](../tag/raspberry-pi), [air-quality](../tag/air-quality), [dust](../tag/dust), [particulates](../tag/particulates), [pm](../tag/pm), [particulate-monitoring](../tag/particulate-monitoring), [pm-sensing](../tag/pm-sensing), [time:5h](../tag/time:5h), [difficulty:medium](../tag/difficulty:medium), [activity:open-air](../tag/activity:open-air), [category:monitor](../tag/category:monitor), [status:complete](../tag/status:complete)
 

@@ -1,5 +1,7 @@
 ---
-title: "What are some techniques for drying kombucha leather?"\ntagnames: 'kombucha, kombucha-leather, question:kombucha-leather'
+title: "What are some techniques for drying kombucha leather?"
+
+tagnames: 'kombucha, kombucha-leather, question:kombucha-leather'
 author: liz
 path: /notes/liz/01-19-2018/what-are-some-techniques-for-drying-kombucha-leather.md
 nid: 15564
@@ -11,7 +13,7 @@ uid: 7
 
 # What are some techniques for drying kombucha leather?
 
-by [liz](../profile/liz) | January 19, 2018 20:18
+by [liz](../../../profile/liz) | January 19, 2018 20:18
 
 January 19, 2018 20:18 | Tags: [kombucha](../tag/kombucha), [kombucha-leather](../tag/kombucha-leather), [question:kombucha-leather](../tag/question:kombucha-leather)
 

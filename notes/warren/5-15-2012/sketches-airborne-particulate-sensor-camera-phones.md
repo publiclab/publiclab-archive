@@ -1,5 +1,7 @@
 ---
-title: "Sketches for airborne particulate sensor for camera phones"\ntagnames: 'particulate-sensing, laser, dust, particulate, pm, response:10552, air-sensors'
+title: "Sketches for airborne particulate sensor for camera phones"
+
+tagnames: 'particulate-sensing, laser, dust, particulate, pm, response:10552, air-sensors'
 author: warren
 path: /notes/warren/5-15-2012/sketches-airborne-particulate-sensor-camera-phones.md
 nid: 1993
@@ -11,7 +13,7 @@ uid: 1
 
 # Sketches for airborne particulate sensor for camera phones
 
-by [warren](../profile/warren) | May 15, 2012 19:43
+by [warren](../../../profile/warren) | May 15, 2012 19:43
 
 May 15, 2012 19:43 | Tags: [particulate-sensing](../tag/particulate-sensing), [laser](../tag/laser), [dust](../tag/dust), [particulate](../tag/particulate), [pm](../tag/pm), [response:10552](../tag/response:10552), [air-sensors](../tag/air-sensors)
 

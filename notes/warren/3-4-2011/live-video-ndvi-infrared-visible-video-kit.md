@@ -1,5 +1,7 @@
 ---
-title: "Live video NDVI with infrared-visible-video-kit"\ntagnames: 'video, ndvi, infrared, infragram'
+title: "Live video NDVI with infrared-visible-video-kit"
+
+tagnames: 'video, ndvi, infrared, infragram'
 author: warren
 path: /notes/warren/3-4-2011/live-video-ndvi-infrared-visible-video-kit.md
 nid: 115
@@ -9,7 +11,7 @@ uid: 1
 
 # Live video NDVI with infrared-visible-video-kit
 
-by [warren](../profile/warren) | March 04, 2011 17:50
+by [warren](../../../profile/warren) | March 04, 2011 17:50
 
 March 04, 2011 17:50 | Tags: [video](../tag/video), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram)
 

@@ -1,5 +1,7 @@
 ---
-title: "oil-testing-workshop-analyzing-and-sharing"\ntagnames: 'spectrometer, workshop, oil-testing-kit, parent:oil-testing-workshops'
+title: "oil-testing-workshop-analyzing-and-sharing"
+
+tagnames: 'spectrometer, workshop, oil-testing-kit, parent:oil-testing-workshops'
 author: liz
 path: /wiki/oil-testing-workshop-analyzing-and-sharing.md
 nid: 12672

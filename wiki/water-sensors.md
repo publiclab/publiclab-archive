@@ -1,5 +1,7 @@
 ---
-title: "Water Sensors"\ntagnames: 'water-quality-monitoring, hydrogen-sulfide, sensors, water-quality, water, water-quality-sensor, method, water-sensors, sidebar:none, parent:water-quality, parent:sensors'
+title: "Water Sensors"
+
+tagnames: 'water-quality-monitoring, hydrogen-sulfide, sensors, water-quality, water, water-quality-sensor, method, water-sensors, sidebar:none, parent:water-quality, parent:sensors'
 author: gretchengehrke
 path: /wiki/water-sensors.md
 nid: 14596

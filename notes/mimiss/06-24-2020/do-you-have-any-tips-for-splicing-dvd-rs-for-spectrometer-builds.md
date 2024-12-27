@@ -1,5 +1,7 @@
 ---
-title: "Do you have any tips for splicing DVD-Rs for spectrometer builds?"\ntagnames: 'spectrometry, question:spectrometry, dvd, build, question:general, general, question:lego-spectrometer, lego-spectrometer, question:dvd, kit-builds, question:kit-builds, question:build'
+title: "Do you have any tips for splicing DVD-Rs for spectrometer builds?"
+
+tagnames: 'spectrometry, question:spectrometry, dvd, build, question:general, general, question:lego-spectrometer, lego-spectrometer, question:dvd, kit-builds, question:kit-builds, question:build'
 author: mimiss
 path: /notes/mimiss/06-24-2020/do-you-have-any-tips-for-splicing-dvd-rs-for-spectrometer-builds.md
 nid: 24037
@@ -9,7 +11,7 @@ uid: 579821
 
 # Do you have any tips for splicing DVD-Rs for spectrometer builds?
 
-by [mimiss](../profile/mimiss) | June 24, 2020 18:34
+by [mimiss](../../../profile/mimiss) | June 24, 2020 18:34
 
 June 24, 2020 18:34 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [dvd](../tag/dvd), [build](../tag/build), [question:general](../tag/question:general), [general](../tag/general), [question:lego-spectrometer](../tag/question:lego-spectrometer), [lego-spectrometer](../tag/lego-spectrometer), [question:dvd](../tag/question:dvd), [kit-builds](../tag/kit-builds), [question:kit-builds](../tag/question:kit-builds), [question:build](../tag/question:build)
 

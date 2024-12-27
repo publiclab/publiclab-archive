@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of Prairie Island Penstemon Pole Mapping 2"\ntagnames: 'mapknitter, lon:-78.9067053795, lat:35.9894642657'
+title: "MapKnitter map of Prairie Island Penstemon Pole Mapping 2"
+
+tagnames: 'mapknitter, lon:-78.9067053795, lat:35.9894642657'
 author: jkpetter
 path: /notes/jkpetter/09-27-2016/mapknitter-map-of-penstemon-pole-mapping-2.md
 nid: 13486
@@ -11,7 +13,7 @@ uid: 489340
 
 # MapKnitter map of Prairie Island Penstemon Pole Mapping 2
 
-by [jkpetter](../profile/jkpetter) | September 27, 2016 13:29
+by [jkpetter](../../../profile/jkpetter) | September 27, 2016 13:29
 
 September 27, 2016 13:29 | Tags: [mapknitter](../tag/mapknitter), [lon:-78.9067053795](../tag/lon:-78.9067053795), [lat:35.9894642657](../tag/lat:35.9894642657)
 

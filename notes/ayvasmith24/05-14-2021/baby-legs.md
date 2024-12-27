@@ -1,5 +1,7 @@
 ---
-title: "Baby legs "\ntagnames: ''
+title: "Baby legs "
+
+tagnames: ''
 author: ayvasmith24
 path: /notes/ayvasmith24/05-14-2021/baby-legs.md
 nid: 26597
@@ -11,7 +13,7 @@ uid: 744112
 
 # Baby legs 
 
-by [ayvasmith24](../profile/ayvasmith24) | May 14, 2021 18:05
+by [ayvasmith24](../../../profile/ayvasmith24) | May 14, 2021 18:05
 
 May 14, 2021 18:05 | Tags: 
 

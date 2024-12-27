@@ -1,5 +1,7 @@
 ---
-title: "Absorption effects on UV radiation of Glass and Quartz using UV LED and UV laser"\ntagnames: ''
+title: "Absorption effects on UV radiation of Glass and Quartz using UV LED and UV laser"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/03-09-2016/absorption-effects-on-uv-radiation-of-glass-and-quartz-using-uv-led-and-uv-laser.md
 nid: 12821
@@ -9,7 +11,7 @@ uid: 461120
 
 # Absorption effects on UV radiation of Glass and Quartz using UV LED and UV laser
 
-by [dhaffnersr](../profile/dhaffnersr) | March 09, 2016 21:23
+by [dhaffnersr](../../../profile/dhaffnersr) | March 09, 2016 21:23
 
 March 09, 2016 21:23 | Tags: 
 

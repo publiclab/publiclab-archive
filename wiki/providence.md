@@ -1,5 +1,7 @@
 ---
-title: "Providence"\ntagnames: 'providence, rhode-island, northeast, parent:northeast, location:blurred, lat:41.8, lon:-71.4, list:providence'
+title: "Providence"
+
+tagnames: 'providence, rhode-island, northeast, parent:northeast, location:blurred, lat:41.8, lon:-71.4, list:providence'
 author: sara
 path: /wiki/providence.md
 nid: 65

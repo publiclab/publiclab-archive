@@ -1,5 +1,7 @@
 ---
-title: "home-carousel"\ntagnames: ''
+title: "home-carousel"
+
+tagnames: ''
 author: warren
 path: /feature/home-carousel.md
 nid: 11759

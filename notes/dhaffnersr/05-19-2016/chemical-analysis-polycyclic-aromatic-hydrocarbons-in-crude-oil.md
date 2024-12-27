@@ -1,5 +1,7 @@
 ---
-title: "Chemical Analysis [Polycyclic aromatic hydrocarbons] in Crude oil"\ntagnames: ''
+title: "Chemical Analysis [Polycyclic aromatic hydrocarbons] in Crude oil"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/05-19-2016/chemical-analysis-polycyclic-aromatic-hydrocarbons-in-crude-oil.md
 nid: 13131
@@ -11,7 +13,7 @@ uid: 461120
 
 # Chemical Analysis [Polycyclic aromatic hydrocarbons] in Crude oil
 
-by [dhaffnersr](../profile/dhaffnersr) | May 19, 2016 21:44
+by [dhaffnersr](../../../profile/dhaffnersr) | May 19, 2016 21:44
 
 May 19, 2016 21:44 | Tags: 
 

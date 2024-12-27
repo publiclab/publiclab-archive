@@ -1,5 +1,7 @@
 ---
-title: "Failed 3d print of mobile spectrometer attachment"\ntagnames: 'spectrometer, shapeways'
+title: "Failed 3d print of mobile spectrometer attachment"
+
+tagnames: 'spectrometer, shapeways'
 author: warren
 path: /notes/warren/7-17-2012/failed-3d-print-mobile-spectrometer-attachment.md
 nid: 2847
@@ -11,7 +13,7 @@ uid: 1
 
 # Failed 3d print of mobile spectrometer attachment
 
-by [warren](../profile/warren) | July 18, 2012 01:23
+by [warren](../../../profile/warren) | July 18, 2012 01:23
 
 July 18, 2012 01:23 | Tags: [spectrometer](../tag/spectrometer), [shapeways](../tag/shapeways)
 

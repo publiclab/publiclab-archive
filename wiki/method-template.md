@@ -1,5 +1,7 @@
 ---
-title: "Method template"\ntagnames: 'methodologies, tags, template, methods-template'
+title: "Method template"
+
+tagnames: 'methodologies, tags, template, methods-template'
 author: warren
 path: /wiki/method-template.md
 nid: 13732

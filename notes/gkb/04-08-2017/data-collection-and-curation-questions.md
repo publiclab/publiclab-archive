@@ -1,5 +1,7 @@
 ---
-title: "Data Collection and Curation Questions"\ntagnames: 'question:data-collection, curation, question:data-sharing, question:metadata'
+title: "Data Collection and Curation Questions"
+
+tagnames: 'question:data-collection, curation, question:data-sharing, question:metadata'
 author: gkb
 path: /notes/gkb/04-08-2017/data-collection-and-curation-questions.md
 nid: 14102
@@ -9,7 +11,7 @@ uid: 505449
 
 # Data Collection and Curation Questions
 
-by [gkb](../profile/gkb) | April 08, 2017 23:51
+by [gkb](../../../profile/gkb) | April 08, 2017 23:51
 
 April 08, 2017 23:51 | Tags: [question:data-collection](../tag/question:data-collection), [curation](../tag/curation), [question:data-sharing](../tag/question:data-sharing), [question:metadata](../tag/question:metadata)
 

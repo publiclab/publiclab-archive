@@ -1,5 +1,7 @@
 ---
-title: "NDVI and NRG"\ntagnames: 'near-infrared-camera, ndvi, agriculture'
+title: "NDVI and NRG"
+
+tagnames: 'near-infrared-camera, ndvi, agriculture'
 author: warren
 path: /wiki/ndvi.md
 nid: 66

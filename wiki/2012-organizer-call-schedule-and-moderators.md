@@ -1,5 +1,7 @@
 ---
-title: "2013 organizer call schedule and moderators"\ntagnames: ''
+title: "2013 organizer call schedule and moderators"
+
+tagnames: ''
 author: Shannon
 path: /wiki/2012-organizer-call-schedule-and-moderators.md
 nid: 3768

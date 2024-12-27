@@ -1,5 +1,7 @@
 ---
-title: "Opening up a Spectronic 20"\ntagnames: 'spectrometer, spectronic20, teardown'
+title: "Opening up a Spectronic 20"
+
+tagnames: 'spectrometer, spectronic20, teardown'
 author: warren
 path: /notes/warren/2-19-2013/opening-spectronic-20.md
 nid: 6060
@@ -11,7 +13,7 @@ uid: 1
 
 # Opening up a Spectronic 20
 
-by [warren](../profile/warren) | February 20, 2013 00:27
+by [warren](../../../profile/warren) | February 20, 2013 00:27
 
 February 20, 2013 00:27 | Tags: [spectrometer](../tag/spectrometer), [spectronic20](../tag/spectronic20), [teardown](../tag/teardown)
 

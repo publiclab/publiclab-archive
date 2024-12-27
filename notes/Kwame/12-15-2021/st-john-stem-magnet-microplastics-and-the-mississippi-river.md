@@ -1,5 +1,7 @@
 ---
-title: "St. John STEM MAGNET - Microplastics and the Mississippi River"\ntagnames: 'gulf-coast, education, lat:30, microplastics, first-time-poster, zoom:10, lon:-90.4'
+title: "St. John STEM MAGNET - Microplastics and the Mississippi River"
+
+tagnames: 'gulf-coast, education, lat:30, microplastics, first-time-poster, zoom:10, lon:-90.4'
 author: Kwame
 path: /notes/Kwame/12-15-2021/st-john-stem-magnet-microplastics-and-the-mississippi-river.md
 nid: 28497
@@ -11,7 +13,7 @@ uid: 748228
 
 # St. John STEM MAGNET - Microplastics and the Mississippi River
 
-by [Kwame](../profile/Kwame) | December 15, 2021 18:19
+by [Kwame](../../../profile/Kwame) | December 15, 2021 18:19
 
 December 15, 2021 18:19 | Tags: [gulf-coast](../tag/gulf-coast), [education](../tag/education), [lat:30](../tag/lat:30), [microplastics](../tag/microplastics), [first-time-poster](../tag/first-time-poster), [zoom:10](../tag/zoom:10), [lon:-90.4](../tag/lon:-90.4)
 

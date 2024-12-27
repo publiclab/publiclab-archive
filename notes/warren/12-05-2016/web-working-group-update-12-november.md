@@ -1,5 +1,7 @@
 ---
-title: "Web Working Group Update 12: November"\ntagnames: 'community, web-development, software, plots2, outreach, developers, wwg, webwg, internationalization, software-outreach, firsttimersonly, response:12781'
+title: "Web Working Group Update 12: November"
+
+tagnames: 'community, web-development, software, plots2, outreach, developers, wwg, webwg, internationalization, software-outreach, firsttimersonly, response:12781'
 author: warren
 path: /notes/warren/12-05-2016/web-working-group-update-12-november.md
 nid: 13746
@@ -11,7 +13,7 @@ uid: 1
 
 # Web Working Group Update 12: November
 
-by [warren](../profile/warren) | December 05, 2016 15:19
+by [warren](../../../profile/warren) | December 05, 2016 15:19
 
 December 05, 2016 15:19 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [internationalization](../tag/internationalization), [software-outreach](../tag/software-outreach), [firsttimersonly](../tag/firsttimersonly), [response:12781](../tag/response:12781)
 

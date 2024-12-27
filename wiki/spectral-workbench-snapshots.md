@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench Snapshots"\ntagnames: 'software, spectral-workbench, parent:spectral-workbench, data-management, versioning, 151'
+title: "Spectral Workbench Snapshots"
+
+tagnames: 'software, spectral-workbench, parent:spectral-workbench, data-management, versioning, 151'
 author: warren
 path: /wiki/spectral-workbench-snapshots.md
 nid: 12474

@@ -1,5 +1,7 @@
 ---
-title: "Building the coqui"\ntagnames: 'water-quality, coqui, replication:11209, replication:13459, first-time-poster'
+title: "Building the coqui"
+
+tagnames: 'water-quality, coqui, replication:11209, replication:13459, first-time-poster'
 author: jiteovien
 path: /notes/jiteovien/07-06-2018/building-the-coqui.md
 nid: 16652
@@ -11,7 +13,7 @@ uid: 540008
 
 # Building the coqui
 
-by [jiteovien](../profile/jiteovien) | July 06, 2018 17:47
+by [jiteovien](../../../profile/jiteovien) | July 06, 2018 17:47
 
 July 06, 2018 17:47 | Tags: [water-quality](../tag/water-quality), [coqui](../tag/coqui), [replication:11209](../tag/replication:11209), [replication:13459](../tag/replication:13459), [first-time-poster](../tag/first-time-poster)
 

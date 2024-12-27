@@ -1,5 +1,7 @@
 ---
-title: "Frac Sand"\ntagnames: 'wisconsin, dust, silica, frac-sand, pm, particle-sensing, particle-monitoring, dust-monitoring, parent:oil-and-gas'
+title: "Frac Sand"
+
+tagnames: 'wisconsin, dust, silica, frac-sand, pm, particle-sensing, particle-monitoring, dust-monitoring, parent:oil-and-gas'
 author: stevie
 path: /wiki/frac-sand.md
 nid: 12562

@@ -1,5 +1,7 @@
 ---
-title: "Mardi Gras Pass is digging in and building out: summer 2015 map"\ntagnames: 'gulf-coast, balloon-mapping, mapknitter, bohemia, mississippi-river, response:12190, mgp'
+title: "Mardi Gras Pass is digging in and building out: summer 2015 map"
+
+tagnames: 'gulf-coast, balloon-mapping, mapknitter, bohemia, mississippi-river, response:12190, mgp'
 author: eustatic
 path: /09-08-2015/mardi-gras-pass-is-digging-in-and-building-out-summer-2015-map.md
 nid: 12203
@@ -11,7 +13,7 @@ uid: 379
 
 # Mardi Gras Pass is digging in and building out: summer 2015 map
 
-by [eustatic](../profile/eustatic) | September 08, 2015 05:58
+by [eustatic](../../../profile/eustatic) | September 08, 2015 05:58
 
 September 08, 2015 05:58 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter), [bohemia](../tag/bohemia), [mississippi-river](../tag/mississippi-river), [response:12190](../tag/response:12190), [mgp](../tag/mgp)
 

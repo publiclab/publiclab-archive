@@ -1,5 +1,7 @@
 ---
-title: "Riffle Device: Water Conductivity Sensor"\ntagnames: 'water, data, probe, conductivity, riffle, logger, quality, coqui, open, rtc, drinking, surface, activity:riffle, riffle-examples, activity:conductivity, activity:coqui-version'
+title: "Riffle Device: Water Conductivity Sensor"
+
+tagnames: 'water, data, probe, conductivity, riffle, logger, quality, coqui, open, rtc, drinking, surface, activity:riffle, riffle-examples, activity:conductivity, activity:coqui-version'
 author: rebeccah
 path: /notes/rebeccah/08-29-2016/riffle-device-water-conductivity-sensor.md
 nid: 13403
@@ -11,7 +13,7 @@ uid: 489342
 
 # Riffle Device: Water Conductivity Sensor
 
-by [rebeccah](../profile/rebeccah) | August 29, 2016 15:07
+by [rebeccah](../../../profile/rebeccah) | August 29, 2016 15:07
 
 August 29, 2016 15:07 | Tags: [water](../tag/water), [data](../tag/data), [probe](../tag/probe), [conductivity](../tag/conductivity), [riffle](../tag/riffle), [logger](../tag/logger), [quality](../tag/quality), [coqui](../tag/coqui), [open](../tag/open), [rtc](../tag/rtc), [drinking](../tag/drinking), [surface](../tag/surface), [activity:riffle](../tag/activity:riffle), [riffle-examples](../tag/riffle-examples), [activity:conductivity](../tag/activity:conductivity), [activity:coqui-version](../tag/activity:coqui-version)
 

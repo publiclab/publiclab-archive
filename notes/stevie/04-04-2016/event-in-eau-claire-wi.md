@@ -1,5 +1,7 @@
 ---
-title: "Event in Eau Claire, WI"\ntagnames: 'event, wisconsin, air-quality, event:rsvp, mid-west, rsvp:marlokeno, date:04-23-2016'
+title: "Event in Eau Claire, WI"
+
+tagnames: 'event, wisconsin, air-quality, event:rsvp, mid-west, rsvp:marlokeno, date:04-23-2016'
 author: stevie
 path: /notes/stevie/04-04-2016/event-in-eau-claire-wi.md
 nid: 12919
@@ -11,7 +13,7 @@ uid: 422561
 
 # Event in Eau Claire, WI
 
-by [stevie](../profile/stevie) | April 04, 2016 20:23
+by [stevie](../../../profile/stevie) | April 04, 2016 20:23
 
 April 04, 2016 20:23 | Tags: [event](../tag/event), [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [event:rsvp](../tag/event:rsvp), [mid-west](../tag/mid-west), [rsvp:marlokeno](../tag/rsvp:marlokeno), [date:04-23-2016](../tag/date:04-23-2016)
 

@@ -1,5 +1,7 @@
 ---
-title: "Ethics and Politics"\ntagnames: 'community, ethics, politics, consent'
+title: "Ethics and Politics"
+
+tagnames: 'community, ethics, politics, consent'
 author: sara
 path: /wiki/ethics-and-politics.md
 nid: 395

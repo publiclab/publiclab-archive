@@ -1,5 +1,7 @@
 ---
-title: "What are rope sourcing tips for making a BabyLegs trawl?"\ntagnames: 'question:microplastics, microplastics, question:babylegs, babylegs, trawl, plastic, question:trawl'
+title: "What are rope sourcing tips for making a BabyLegs trawl?"
+
+tagnames: 'question:microplastics, microplastics, question:babylegs, babylegs, trawl, plastic, question:trawl'
 author: warren
 path: /notes/warren/07-15-2019/what-are-rope-sourcing-tips-for-making-a-babylegs-trawl.md
 nid: 20119
@@ -9,7 +11,7 @@ uid: 1
 
 # What are rope sourcing tips for making a BabyLegs trawl?
 
-by [warren](../profile/warren) | July 15, 2019 20:58
+by [warren](../../../profile/warren) | July 15, 2019 20:58
 
 July 15, 2019 20:58 | Tags: [question:microplastics](../tag/question:microplastics), [microplastics](../tag/microplastics), [question:babylegs](../tag/question:babylegs), [babylegs](../tag/babylegs), [trawl](../tag/trawl), [plastic](../tag/plastic), [question:trawl](../tag/question:trawl)
 

@@ -1,5 +1,7 @@
 ---
-title: "Introducing a new Privacy Policy for Public Lab"\ntagnames: 'blog, privacy, privacy-policy, gdpr'
+title: "Introducing a new Privacy Policy for Public Lab"
+
+tagnames: 'blog, privacy, privacy-policy, gdpr'
 author: warren
 path: /notes/warren/09-12-2018/introducing-a-new-privacy-policy-for-public-lab.md
 nid: 17103
@@ -11,7 +13,7 @@ uid: 1
 
 # Introducing a new Privacy Policy for Public Lab
 
-by [warren](../profile/warren) | September 12, 2018 22:16
+by [warren](../../../profile/warren) | September 12, 2018 22:16
 
 September 12, 2018 22:16 | Tags: [blog](../tag/blog), [privacy](../tag/privacy), [privacy-policy](../tag/privacy-policy), [gdpr](../tag/gdpr)
 

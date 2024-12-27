@@ -1,5 +1,7 @@
 ---
-title: "Mailing lists stats"\ntagnames: ''
+title: "Mailing lists stats"
+
+tagnames: ''
 author: warren
 path: /wiki/mailing-lists-stats.md
 nid: 3885

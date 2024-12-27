@@ -1,5 +1,7 @@
 ---
-title: "Talk at the "Emerging ICT for Citizens’ Veillance" workshop in Ispra (Italy) "\ntagnames: 'balloon-mapping, spain, presentations, presentation, italy'
+title: "Talk at the "Emerging ICT for Citizens’ Veillance" workshop in Ispra (Italy) "
+
+tagnames: 'balloon-mapping, spain, presentations, presentation, italy'
 author: pablo
 path: /notes/pablo/03-17-2014/talk-at-the-emerging-ict-for-citizens-veillance-workshop-in-ispra-italy.md
 nid: 10196
@@ -11,7 +13,7 @@ uid: 160
 
 # Talk at the "Emerging ICT for Citizens’ Veillance" workshop in Ispra (Italy) 
 
-by [pablo](../profile/pablo) | March 17, 2014 13:43
+by [pablo](../../../profile/pablo) | March 17, 2014 13:43
 
 March 17, 2014 13:43 | Tags: [balloon-mapping](../tag/balloon-mapping), [spain](../tag/spain), [presentations](../tag/presentations), [presentation](../tag/presentation), [italy](../tag/italy)
 

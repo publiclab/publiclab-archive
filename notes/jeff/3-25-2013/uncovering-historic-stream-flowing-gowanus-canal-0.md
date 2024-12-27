@@ -1,5 +1,7 @@
 ---
-title: "Uncovering a Historic Stream Flowing into the Gowanus Canal"\ntagnames: 'new-york-city, balloon-mapping, gowanus, dye-tracing, first-time-poster'
+title: "Uncovering a Historic Stream Flowing into the Gowanus Canal"
+
+tagnames: 'new-york-city, balloon-mapping, gowanus, dye-tracing, first-time-poster'
 author: jeff
 path: /notes/jeff/3-25-2013/uncovering-historic-stream-flowing-gowanus-canal-0.md
 nid: 6525
@@ -11,7 +13,7 @@ uid: 54526
 
 # Uncovering a Historic Stream Flowing into the Gowanus Canal
 
-by [jeff](../profile/jeff) | March 26, 2013 01:18
+by [jeff](../../../profile/jeff) | March 26, 2013 01:18
 
 March 26, 2013 01:18 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [dye-tracing](../tag/dye-tracing), [first-time-poster](../tag/first-time-poster)
 

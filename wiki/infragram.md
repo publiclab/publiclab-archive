@@ -1,5 +1,7 @@
 ---
-title: "Infragram"\ntagnames: 'near-infrared-camera, remote-sensing, ndvi, wetlands, agriculture, software, near-infrared, soil, infragram, list:plots-infrared, tool, 19, parent:multispectral-imaging, method, location:blurred, agricultural, fertilizer, remote-, zoom:13, lat:32.74, lon:-117.13'
+title: "Infragram"
+
+tagnames: 'near-infrared-camera, remote-sensing, ndvi, wetlands, agriculture, software, near-infrared, soil, infragram, list:plots-infrared, tool, 19, parent:multispectral-imaging, method, location:blurred, agricultural, fertilizer, remote-, zoom:13, lat:32.74, lon:-117.13'
 author: donblair
 path: /wiki/infragram.md
 nid: 7558

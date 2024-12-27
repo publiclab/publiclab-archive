@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Community Newsletter: January 2018"\ntagnames: 'kite-mapping, water-quality, community-kits, open-hour, community-toolbox, diy-science, the-economist, indian-bayou'
+title: "Public Lab Community Newsletter: January 2018"
+
+tagnames: 'kite-mapping, water-quality, community-kits, open-hour, community-toolbox, diy-science, the-economist, indian-bayou'
 author: Delaney
 path: /notes/Delaney/02-02-2018/public-lab-community-newsletter-january-2018.md
 nid: 15667
@@ -11,7 +13,7 @@ uid: 517173
 
 # Public Lab Community Newsletter: January 2018
 
-by [Delaney](../profile/Delaney) | February 02, 2018 17:37
+by [Delaney](../../../profile/Delaney) | February 02, 2018 17:37
 
 February 02, 2018 17:37 | Tags: [kite-mapping](../tag/kite-mapping), [water-quality](../tag/water-quality), [community-kits](../tag/community-kits), [open-hour](../tag/open-hour), [community-toolbox](../tag/community-toolbox), [diy-science](../tag/diy-science), [the-economist](../tag/the-economist), [indian-bayou](../tag/indian-bayou)
 

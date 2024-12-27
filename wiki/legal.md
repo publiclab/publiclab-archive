@@ -1,5 +1,7 @@
 ---
-title: "legal"\ntagnames: ''
+title: "legal"
+
+tagnames: ''
 author: liz
 path: /wiki/legal.md
 nid: 23887

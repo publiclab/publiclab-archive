@@ -1,5 +1,7 @@
 ---
-title: "Field Test of First Prototype of Kayak Towable Thermal Fishing Bob Rig"\ntagnames: 'thermal-photography, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689'
+title: "Field Test of First Prototype of Kayak Towable Thermal Fishing Bob Rig"
+
+tagnames: 'thermal-photography, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689'
 author: kgrevera
 path: /notes/kgrevera/05-22-2015/field-test-of-first-prototype-of-kayak-towable-thermal-fishing-bob-rig.md
 nid: 11831
@@ -11,7 +13,7 @@ uid: 432001
 
 # Field Test of First Prototype of Kayak Towable Thermal Fishing Bob Rig
 
-by [kgrevera](../profile/kgrevera) | May 22, 2015 23:10
+by [kgrevera](../../../profile/kgrevera) | May 22, 2015 23:10
 
 May 22, 2015 23:10 | Tags: [thermal-photography](../tag/thermal-photography), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
 

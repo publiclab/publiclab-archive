@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench download"\ntagnames: ''
+title: "Spectral Workbench download"
+
+tagnames: ''
 author: warren
 path: /wiki/spectral-workbench-download.md
 nid: 597

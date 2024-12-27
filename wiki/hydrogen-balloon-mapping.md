@@ -1,5 +1,7 @@
 ---
-title: "Hydrogen Balloon Mapping"\ntagnames: 'hydrogen, coffee-box, dunkin-donuts, lye, aluminum'
+title: "Hydrogen Balloon Mapping"
+
+tagnames: 'hydrogen, coffee-box, dunkin-donuts, lye, aluminum'
 author: warren
 path: /wiki/hydrogen-balloon-mapping.md
 nid: 158

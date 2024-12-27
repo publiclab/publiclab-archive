@@ -1,5 +1,7 @@
 ---
-title: "how open data practices help science research"\ntagnames: 'readings, with:gretchengehrke, reproducibility'
+title: "how open data practices help science research"
+
+tagnames: 'readings, with:gretchengehrke, reproducibility'
 author: liz
 path: /notes/liz/09-22-2017/how-open-data-practices-help-science-research.md
 nid: 14935
@@ -11,7 +13,7 @@ uid: 7
 
 # how open data practices help science research
 
-by [liz](../profile/liz) | September 22, 2017 14:17
+by [liz](../../../profile/liz) | September 22, 2017 14:17
 
 September 22, 2017 14:17 | Tags: [readings](../tag/readings), [with:gretchengehrke](../tag/with:gretchengehrke), [reproducibility](../tag/reproducibility)
 

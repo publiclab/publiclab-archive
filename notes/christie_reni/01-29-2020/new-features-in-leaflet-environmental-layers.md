@@ -1,5 +1,7 @@
 ---
-title: "New UI features in Leaflet Environmental Layers"\ntagnames: 'blog-submission'
+title: "New UI features in Leaflet Environmental Layers"
+
+tagnames: 'blog-submission'
 author: christie_reni
 path: /notes/christie_reni/01-29-2020/new-features-in-leaflet-environmental-layers.md
 nid: 22425
@@ -11,7 +13,7 @@ uid: 630062
 
 # New UI features in Leaflet Environmental Layers
 
-by [christie_reni](../profile/christie_reni) | January 29, 2020 18:03
+by [christie_reni](../../../profile/christie_reni) | January 29, 2020 18:03
 
 January 29, 2020 18:03 | Tags: [blog-submission](../tag/blog-submission)
 

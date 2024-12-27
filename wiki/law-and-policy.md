@@ -1,5 +1,7 @@
 ---
-title: "Law and Policy"\ntagnames: 'evidence, reporting, legal, regulations, advocacy, enforcement, public-comment, permits, federal-regulations, state-regulations, environmental-regulations, parent:advocacy, law-and-policy'
+title: "Law and Policy"
+
+tagnames: 'evidence, reporting, legal, regulations, advocacy, enforcement, public-comment, permits, federal-regulations, state-regulations, environmental-regulations, parent:advocacy, law-and-policy'
 author: bhamster
 path: /wiki/law-and-policy.md
 nid: 24116

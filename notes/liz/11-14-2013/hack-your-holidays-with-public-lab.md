@@ -1,5 +1,7 @@
 ---
-title: "Hack your holidays with Public Lab!"\ntagnames: 'kits, store, holidays, great-photos, kits-initiative'
+title: "Hack your holidays with Public Lab!"
+
+tagnames: 'kits, store, holidays, great-photos, kits-initiative'
 author: liz
 path: /notes/liz/11-14-2013/hack-your-holidays-with-public-lab.md
 nid: 9780
@@ -11,7 +13,7 @@ uid: 7
 
 # Hack your holidays with Public Lab!
 
-by [liz](../profile/liz) | November 14, 2013 22:15
+by [liz](../../../profile/liz) | November 14, 2013 22:15
 
 November 14, 2013 22:15 | Tags: [kits](../tag/kits), [store](../tag/store), [holidays](../tag/holidays), [great-photos](../tag/great-photos), [kits-initiative](../tag/kits-initiative)
 

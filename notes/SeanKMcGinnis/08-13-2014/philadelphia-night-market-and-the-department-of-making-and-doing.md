@@ -1,5 +1,7 @@
 ---
-title: "Philadelphia Night Market and the Department of Making and Doing"\ntagnames: 'philadelphia, event, northeast, event:rsvp, date:08-14-2014'
+title: "Philadelphia Night Market and the Department of Making and Doing"
+
+tagnames: 'philadelphia, event, northeast, event:rsvp, date:08-14-2014'
 author: seankmcginnis
 path: /notes/SeanKMcGinnis/08-13-2014/philadelphia-night-market-and-the-department-of-making-and-doing.md
 nid: 11043
@@ -11,7 +13,7 @@ uid: 552
 
 # Philadelphia Night Market and the Department of Making and Doing
 
-by [seankmcginnis](../profile/seankmcginnis) | August 13, 2014 17:08
+by [seankmcginnis](../../../profile/seankmcginnis) | August 13, 2014 17:08
 
 August 13, 2014 17:08 | Tags: [philadelphia](../tag/philadelphia), [event](../tag/event), [northeast](../tag/northeast), [event:rsvp](../tag/event:rsvp), [date:08-14-2014](../tag/date:08-14-2014)
 

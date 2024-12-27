@@ -1,5 +1,7 @@
 ---
-title: "Thermal Flashlight Casing"\ntagnames: 'thermal-photography, thermal-flashlight, thermal-camera, insulation, heat, replication:625'
+title: "Thermal Flashlight Casing"
+
+tagnames: 'thermal-photography, thermal-flashlight, thermal-camera, insulation, heat, replication:625'
 author: SCG
 path: /notes/SCG/11-24-2014/thermal-flashlight-casing.md
 nid: 11399
@@ -11,7 +13,7 @@ uid: 431781
 
 # Thermal Flashlight Casing
 
-by [SCG](../profile/SCG) | November 24, 2014 18:56
+by [SCG](../../../profile/SCG) | November 24, 2014 18:56
 
 November 24, 2014 18:56 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [insulation](../tag/insulation), [heat](../tag/heat), [replication:625](../tag/replication:625)
 

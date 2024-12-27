@@ -1,5 +1,7 @@
 ---
-title: ""Full Spectrum" grow LED Testing "\ntagnames: 'spectrometer, spectralworkbench, export, answered, graph, question:general, first-time-poster'
+title: ""Full Spectrum" grow LED Testing "
+
+tagnames: 'spectrometer, spectralworkbench, export, answered, graph, question:general, first-time-poster'
 author: soheilkh
 path: /notes/soheilkh/12-11-2016/full-spectrum-grow-led-testing.md
 nid: 13766
@@ -11,7 +13,7 @@ uid: 499133
 
 # "Full Spectrum" grow LED Testing 
 
-by [soheilkh](../profile/soheilkh) | December 11, 2016 01:12
+by [soheilkh](../../../profile/soheilkh) | December 11, 2016 01:12
 
 December 11, 2016 01:12 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [export](../tag/export), [answered](../tag/answered), [graph](../tag/graph), [question:general](../tag/question:general), [first-time-poster](../tag/first-time-poster)
 

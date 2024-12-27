@@ -1,5 +1,7 @@
 ---
-title: "Info-Activsts on a boat, Lake Orta Italy"\ntagnames: ''
+title: "Info-Activsts on a boat, Lake Orta Italy"
+
+tagnames: ''
 author: hagitkeysar
 path: /notes/hagitkeysar/06-26-2013/info-activsts-on-a-boat-lake-orta-italy.md
 nid: 8457
@@ -11,7 +13,7 @@ uid: 152
 
 # Info-Activsts on a boat, Lake Orta Italy
 
-by [hagitkeysar](../profile/hagitkeysar) | June 26, 2013 21:28
+by [hagitkeysar](../../../profile/hagitkeysar) | June 26, 2013 21:28
 
 June 26, 2013 21:28 | Tags: 
 

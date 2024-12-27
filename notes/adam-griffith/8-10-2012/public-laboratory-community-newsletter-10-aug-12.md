@@ -1,5 +1,7 @@
 ---
-title: "Public Laboratory Community Newsletter 10 AUG 12"\ntagnames: ''
+title: "Public Laboratory Community Newsletter 10 AUG 12"
+
+tagnames: ''
 author: adam-griffith
 path: /notes/adam-griffith/8-10-2012/public-laboratory-community-newsletter-10-aug-12.md
 nid: 3240
@@ -9,7 +11,7 @@ uid: 3
 
 # Public Laboratory Community Newsletter 10 AUG 12
 
-by [adam-griffith](../profile/adam-griffith) | August 10, 2012 18:23
+by [adam-griffith](../../../profile/adam-griffith) | August 10, 2012 18:23
 
 August 10, 2012 18:23 | Tags: 
 

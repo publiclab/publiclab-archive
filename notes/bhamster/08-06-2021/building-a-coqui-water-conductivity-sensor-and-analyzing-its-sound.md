@@ -1,5 +1,7 @@
 ---
-title: "Building a Coqui water conductivity sensor and analyzing its sound"\ntagnames: 'water-quality, conductivity, coqui, sound, replication:18313, replication:16465'
+title: "Building a Coqui water conductivity sensor and analyzing its sound"
+
+tagnames: 'water-quality, conductivity, coqui, sound, replication:18313, replication:16465'
 author: bhamster
 path: /notes/bhamster/08-06-2021/building-a-coqui-water-conductivity-sensor-and-analyzing-its-sound.md
 nid: 27442
@@ -11,7 +13,7 @@ uid: 664477
 
 # Building a Coqui water conductivity sensor and analyzing its sound
 
-by [bhamster](../profile/bhamster) | August 06, 2021 23:10
+by [bhamster](../../../profile/bhamster) | August 06, 2021 23:10
 
 August 06, 2021 23:10 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [sound](../tag/sound), [replication:18313](../tag/replication:18313), [replication:16465](../tag/replication:16465)
 

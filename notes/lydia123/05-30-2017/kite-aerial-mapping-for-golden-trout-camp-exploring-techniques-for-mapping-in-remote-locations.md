@@ -1,5 +1,7 @@
 ---
-title: "Kite Aerial Mapping for Golden Trout Camp: Exploring Techniques for Mapping in Remote Locations"\ntagnames: 'balloon-mapping, kite-mapping, kite, remote, blog, wind, ecosystem, location'
+title: "Kite Aerial Mapping for Golden Trout Camp: Exploring Techniques for Mapping in Remote Locations"
+
+tagnames: 'balloon-mapping, kite-mapping, kite, remote, blog, wind, ecosystem, location'
 author: lydia123
 path: /notes/lydia123/05-30-2017/kite-aerial-mapping-for-golden-trout-camp-exploring-techniques-for-mapping-in-remote-locations.md
 nid: 14487
@@ -11,7 +13,7 @@ uid: 508247
 
 # Kite Aerial Mapping for Golden Trout Camp: Exploring Techniques for Mapping in Remote Locations
 
-by [lydia123](../profile/lydia123) | May 30, 2017 16:50
+by [lydia123](../../../profile/lydia123) | May 30, 2017 16:50
 
 May 30, 2017 16:50 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [remote](../tag/remote), [blog](../tag/blog), [wind](../tag/wind), [ecosystem](../tag/ecosystem), [location](../tag/location)
 

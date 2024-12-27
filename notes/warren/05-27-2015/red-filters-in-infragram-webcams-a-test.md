@@ -1,5 +1,7 @@
 ---
-title: "Red filters in Infragram Webcams: a test"\ntagnames: 'ndvi, webcam, infragram, plants, vegetation, infra-red, infrablue, test, infragram-webcam, response:10996'
+title: "Red filters in Infragram Webcams: a test"
+
+tagnames: 'ndvi, webcam, infragram, plants, vegetation, infra-red, infrablue, test, infragram-webcam, response:10996'
 author: warren
 path: /notes/warren/05-27-2015/red-filters-in-infragram-webcams-a-test.md
 nid: 11846
@@ -11,7 +13,7 @@ uid: 1
 
 # Red filters in Infragram Webcams: a test
 
-by [warren](../profile/warren) | May 27, 2015 19:54
+by [warren](../../../profile/warren) | May 27, 2015 19:54
 
 May 27, 2015 19:54 | Tags: [ndvi](../tag/ndvi), [webcam](../tag/webcam), [infragram](../tag/infragram), [plants](../tag/plants), [vegetation](../tag/vegetation), [infra-red](../tag/infra-red), [infrablue](../tag/infrablue), [test](../tag/test), [infragram-webcam](../tag/infragram-webcam), [response:10996](../tag/response:10996)
 

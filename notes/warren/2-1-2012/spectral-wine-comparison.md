@@ -1,5 +1,7 @@
 ---
-title: "Spectral wine comparison"\ntagnames: ''
+title: "Spectral wine comparison"
+
+tagnames: ''
 author: warren
 path: /notes/warren/2-1-2012/spectral-wine-comparison.md
 nid: 738
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectral wine comparison
 
-by [warren](../profile/warren) | February 01, 2012 17:29
+by [warren](../../../profile/warren) | February 01, 2012 17:29
 
 February 01, 2012 17:29 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Report: 2020 Software Contributors Survey"\ntagnames: 'community, developers, code, evaluation, diversity'
+title: "Report: 2020 Software Contributors Survey"
+
+tagnames: 'community, developers, code, evaluation, diversity'
 author: liz
 path: /notes/liz/01-20-2021/report-2020-software-contributors-survey.md
 nid: 23484
@@ -9,7 +11,7 @@ uid: 7
 
 # Report: 2020 Software Contributors Survey
 
-by [liz](../profile/liz) | January 20, 2021 16:10
+by [liz](../../../profile/liz) | January 20, 2021 16:10
 
 January 20, 2021 16:10 | Tags: [community](../tag/community), [developers](../tag/developers), [code](../tag/code), [evaluation](../tag/evaluation), [diversity](../tag/diversity)
 

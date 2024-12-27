@@ -1,5 +1,7 @@
 ---
-title: "Datalogger part 2a; Generating a signal, amplifying it, and displaying the data."\ntagnames: 'datalogger, response:10288, activity:data-logging'
+title: "Datalogger part 2a; Generating a signal, amplifying it, and displaying the data."
+
+tagnames: 'datalogger, response:10288, activity:data-logging'
 author: JSummers
 path: /notes/JSummers/09-25-2014/datalogger-part-2a-generating-a-signal-amplifying-it-and-displaying-the-data.md
 nid: 11190
@@ -11,7 +13,7 @@ uid: 304279
 
 # Datalogger part 2a; Generating a signal, amplifying it, and displaying the data.
 
-by [JSummers](../profile/JSummers) | September 25, 2014 21:20
+by [JSummers](../../../profile/JSummers) | September 25, 2014 21:20
 
 September 25, 2014 21:20 | Tags: [datalogger](../tag/datalogger), [response:10288](../tag/response:10288), [activity:data-logging](../tag/activity:data-logging)
 

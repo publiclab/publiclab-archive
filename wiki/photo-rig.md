@@ -1,5 +1,7 @@
 ---
-title: "Photo Rig"\ntagnames: 'aerial-photography, photo-rig, parent:aerial-photography'
+title: "Photo Rig"
+
+tagnames: 'aerial-photography, photo-rig, parent:aerial-photography'
 author: warren
 path: /wiki/photo-rig.md
 nid: 13764

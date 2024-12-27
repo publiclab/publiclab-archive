@@ -1,5 +1,7 @@
 ---
-title: "Jornadas de Autodefensa Medioambiental JAM#1: I.M.V.E.C."\ntagnames: 'lang:es, spanish, zoom:14, cosquin, lat:41.408488, lon:2.199325, jam, autodefensa, autodefensa-vecinal'
+title: "Jornadas de Autodefensa Medioambiental JAM#1: I.M.V.E.C."
+
+tagnames: 'lang:es, spanish, zoom:14, cosquin, lat:41.408488, lon:2.199325, jam, autodefensa, autodefensa-vecinal'
 author: imvec
 path: /notes/imvec/04-27-2020/jornadas-de-autodefensa-medioambiental-1-i-m-v-e-c.md
 nid: 23485
@@ -11,7 +13,7 @@ uid: 495038
 
 # Jornadas de Autodefensa Medioambiental JAM#1: I.M.V.E.C.
 
-by [imvec](../profile/imvec) | April 27, 2020 16:31
+by [imvec](../../../profile/imvec) | April 27, 2020 16:31
 
 April 27, 2020 16:31 | Tags: [lang:es](../tag/lang:es), [spanish](../tag/spanish), [zoom:14](../tag/zoom:14), [cosquin](../tag/cosquin), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [jam](../tag/jam), [autodefensa](../tag/autodefensa), [autodefensa-vecinal](../tag/autodefensa-vecinal)
 

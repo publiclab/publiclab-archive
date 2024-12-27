@@ -1,5 +1,7 @@
 ---
-title: "Understanding the spectrum"\ntagnames: ''
+title: "Understanding the spectrum"
+
+tagnames: ''
 author: minot
 path: /notes/minot/12-13-2012/understanding-spectrum.md
 nid: 5191
@@ -9,7 +11,7 @@ uid: 46765
 
 # Understanding the spectrum
 
-by [minot](../profile/minot) | December 13, 2012 21:18
+by [minot](../../../profile/minot) | December 13, 2012 21:18
 
 December 13, 2012 21:18 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Initiatives"\ntagnames: 'style:presentation'
+title: "Initiatives"
+
+tagnames: 'style:presentation'
 author: Shannon
 path: /wiki/initiatives.md
 nid: 11082

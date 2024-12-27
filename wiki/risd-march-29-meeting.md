@@ -1,5 +1,7 @@
 ---
-title: "RISD March 29 meeting"\ntagnames: 'providence'
+title: "RISD March 29 meeting"
+
+tagnames: 'providence'
 author: warren
 path: /wiki/risd-march-29-meeting.md
 nid: 149

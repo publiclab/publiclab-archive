@@ -1,5 +1,7 @@
 ---
-title: "Public Lab's contribution framework (deep dive 2019)"\ntagnames: 'software, blog, code, barnstar:basic, software-outreach, first-time-poster'
+title: "Public Lab's contribution framework (deep dive 2019)"
+
+tagnames: 'software, blog, code, barnstar:basic, software-outreach, first-time-poster'
 author: sashadev-sky
 path: /notes/sashadev-sky/05-16-2019/public-lab-s-contribution-framework-deep-dive-2019.md
 nid: 19429
@@ -11,7 +13,7 @@ uid: 555321
 
 # Public Lab's contribution framework (deep dive 2019)
 
-by [sashadev-sky](../profile/sashadev-sky) | May 16, 2019 16:18
+by [sashadev-sky](../../../profile/sashadev-sky) | May 16, 2019 16:18
 
 May 16, 2019 16:18 | Tags: [software](../tag/software), [blog](../tag/blog), [code](../tag/code), [barnstar:basic](../tag/barnstar:basic), [software-outreach](../tag/software-outreach), [first-time-poster](../tag/first-time-poster)
 

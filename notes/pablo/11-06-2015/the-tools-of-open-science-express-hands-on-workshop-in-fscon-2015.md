@@ -1,5 +1,7 @@
 ---
-title: "The Tools of Open Science, express hands-on workshop in FSCONS 2015"\ntagnames: 'workshop, mapping, balloon, sweden, fscons'
+title: "The Tools of Open Science, express hands-on workshop in FSCONS 2015"
+
+tagnames: 'workshop, mapping, balloon, sweden, fscons'
 author: pablo
 path: /notes/pablo/11-06-2015/the-tools-of-open-science-express-hands-on-workshop-in-fscon-2015.md
 nid: 12374
@@ -11,7 +13,7 @@ uid: 160
 
 # The Tools of Open Science, express hands-on workshop in FSCONS 2015
 
-by [pablo](../profile/pablo) | November 06, 2015 02:20
+by [pablo](../../../profile/pablo) | November 06, 2015 02:20
 
 November 06, 2015 02:20 | Tags: [workshop](../tag/workshop), [mapping](../tag/mapping), [balloon](../tag/balloon), [sweden](../tag/sweden), [fscons](../tag/fscons)
 

@@ -1,5 +1,7 @@
 ---
-title: "MiCS-2614 Ozone sensor schematic"\ntagnames: 'sensing, ozone'
+title: "MiCS-2614 Ozone sensor schematic"
+
+tagnames: 'sensing, ozone'
 author: filimon_k
 path: /notes/filimon_k/12-14-2015/mics-2614-ozone-sensor-schematic.md
 nid: 12512
@@ -11,7 +13,7 @@ uid: 460113
 
 # MiCS-2614 Ozone sensor schematic
 
-by [filimon_k](../profile/filimon_k) | December 14, 2015 03:20
+by [filimon_k](../../../profile/filimon_k) | December 14, 2015 03:20
 
 December 14, 2015 03:20 | Tags: [sensing](../tag/sensing), [ozone](../tag/ozone)
 

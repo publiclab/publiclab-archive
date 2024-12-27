@@ -1,5 +1,7 @@
 ---
-title: "2013 Barn Raising: Cocodrie, Louisiana"\ntagnames: 'louisiana, barnraising'
+title: "2013 Barn Raising: Cocodrie, Louisiana"
+
+tagnames: 'louisiana, barnraising'
 author: Shannon
 path: /wiki/2013-barn-raising-cocodrie-louisiana.md
 nid: 8783

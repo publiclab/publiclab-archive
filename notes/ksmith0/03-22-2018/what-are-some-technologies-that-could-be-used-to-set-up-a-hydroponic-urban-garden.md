@@ -1,5 +1,7 @@
 ---
-title: "What are some technologies that could be used to set up a hydroponic urban garden?"\ntagnames: 'urban-ag, hydroponics, question:hydroponics'
+title: "What are some technologies that could be used to set up a hydroponic urban garden?"
+
+tagnames: 'urban-ag, hydroponics, question:hydroponics'
 author: ksmith0
 path: /notes/ksmith0/03-22-2018/what-are-some-technologies-that-could-be-used-to-set-up-a-hydroponic-urban-garden.md
 nid: 16007
@@ -9,7 +11,7 @@ uid: 528371
 
 # What are some technologies that could be used to set up a hydroponic urban garden?
 
-by [ksmith0](../profile/ksmith0) | March 22, 2018 21:33
+by [ksmith0](../../../profile/ksmith0) | March 22, 2018 21:33
 
 March 22, 2018 21:33 | Tags: [urban-ag](../tag/urban-ag), [hydroponics](../tag/hydroponics), [question:hydroponics](../tag/question:hydroponics)
 

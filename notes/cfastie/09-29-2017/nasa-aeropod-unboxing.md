@@ -1,5 +1,7 @@
 ---
-title: "NASA Aeropod unboxing"\ntagnames: 'air-column-monitor, kap, leaffest, anemometer, wind-speed-meter, atmosphere, sensors, wind, data-logging, wind-sensor, series:diy-wind-sensors, leaffest2017, location:blurred, lon:-73, wind-speed, aeropod, lat:43.9'
+title: "NASA Aeropod unboxing"
+
+tagnames: 'air-column-monitor, kap, leaffest, anemometer, wind-speed-meter, atmosphere, sensors, wind, data-logging, wind-sensor, series:diy-wind-sensors, leaffest2017, location:blurred, lon:-73, wind-speed, aeropod, lat:43.9'
 author: cfastie
 path: /notes/cfastie/09-29-2017/nasa-aeropod-unboxing.md
 nid: 14968
@@ -11,7 +13,7 @@ uid: 554
 
 # NASA Aeropod unboxing
 
-by [cfastie](../profile/cfastie) | September 29, 2017 00:39
+by [cfastie](../../../profile/cfastie) | September 29, 2017 00:39
 
 September 29, 2017 00:39 | Tags: [air-column-monitor](../tag/air-column-monitor), [kap](../tag/kap), [leaffest](../tag/leaffest), [anemometer](../tag/anemometer), [wind-speed-meter](../tag/wind-speed-meter), [atmosphere](../tag/atmosphere), [sensors](../tag/sensors), [wind](../tag/wind), [data-logging](../tag/data-logging), [wind-sensor](../tag/wind-sensor), [series:diy-wind-sensors](../tag/series:diy-wind-sensors), [leaffest2017](../tag/leaffest2017), [location:blurred](../tag/location:blurred), [lon:-73](../tag/lon:-73), [wind-speed](../tag/wind-speed), [aeropod](../tag/aeropod), [lat:43.9](../tag/lat:43.9)
 

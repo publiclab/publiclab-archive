@@ -1,5 +1,7 @@
 ---
-title: "Webinar 1: Impact of Industry on Louisiana's Geomorphology "\ntagnames: 'pipeline, webinar, industry, oil-and-gas, pipeline-monitoring, civilian-monitoring, lat:29.97397, lon:-90.043945, pipeline-monitoring-webinar'
+title: "Webinar 1: Impact of Industry on Louisiana's Geomorphology "
+
+tagnames: 'pipeline, webinar, industry, oil-and-gas, pipeline-monitoring, civilian-monitoring, lat:29.97397, lon:-90.043945, pipeline-monitoring-webinar'
 author: a1ahna
 path: /notes/a1ahna/03-19-2019/webinar-1-impact-of-industry-on-louisiana-s-geomorphology.md
 nid: 18777
@@ -11,7 +13,7 @@ uid: 518193
 
 # Webinar 1: Impact of Industry on Louisiana's Geomorphology 
 
-by [a1ahna](../profile/a1ahna) | March 19, 2019 15:32
+by [a1ahna](../../../profile/a1ahna) | March 19, 2019 15:32
 
 March 19, 2019 15:32 | Tags: [pipeline](../tag/pipeline), [webinar](../tag/webinar), [industry](../tag/industry), [oil-and-gas](../tag/oil-and-gas), [pipeline-monitoring](../tag/pipeline-monitoring), [civilian-monitoring](../tag/civilian-monitoring), [lat:29.97397](../tag/lat:29.97397), [lon:-90.043945](../tag/lon:-90.043945), [pipeline-monitoring-webinar](../tag/pipeline-monitoring-webinar)
 

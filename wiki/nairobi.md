@@ -1,5 +1,7 @@
 ---
-title: "nairobi"\ntagnames: 'kenya, africa, parent:kenya'
+title: "nairobi"
+
+tagnames: 'kenya, africa, parent:kenya'
 author: liz
 path: /wiki/nairobi.md
 nid: 11149

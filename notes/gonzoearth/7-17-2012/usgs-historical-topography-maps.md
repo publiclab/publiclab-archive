@@ -1,5 +1,7 @@
 ---
-title: "USGS historical topography maps"\ntagnames: 'balloon-mapping, kite-mapping'
+title: "USGS historical topography maps"
+
+tagnames: 'balloon-mapping, kite-mapping'
 author: gonzoearth
 path: /notes/gonzoearth/7-17-2012/usgs-historical-topography-maps.md
 nid: 2846
@@ -11,7 +13,7 @@ uid: 12
 
 # USGS historical topography maps
 
-by [gonzoearth](../profile/gonzoearth) | July 17, 2012 18:26
+by [gonzoearth](../../../profile/gonzoearth) | July 17, 2012 18:26
 
 July 17, 2012 18:26 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping)
 

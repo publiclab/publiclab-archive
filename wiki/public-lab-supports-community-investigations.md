@@ -1,5 +1,7 @@
 ---
-title: " Public Lab supports community investigations"\ntagnames: 'website, plots2, wintercamp, out-of-date'
+title: " Public Lab supports community investigations"
+
+tagnames: 'website, plots2, wintercamp, out-of-date'
 author: mollydanielsson
 path: /wiki/public-lab-supports-community-investigations.md
 nid: 5614

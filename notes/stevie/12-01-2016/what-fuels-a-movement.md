@@ -1,5 +1,7 @@
 ---
-title: "What fuels a movement?"\ntagnames: 'blog, petcoke, chicago, pm, midwest, pet-coke, with:olga, community-organizing, interview-series, series:community-interviews'
+title: "What fuels a movement?"
+
+tagnames: 'blog, petcoke, chicago, pm, midwest, pet-coke, with:olga, community-organizing, interview-series, series:community-interviews'
 author: stevie
 path: /notes/stevie/12-01-2016/what-fuels-a-movement.md
 nid: 13736
@@ -11,7 +13,7 @@ uid: 422561
 
 # What fuels a movement?
 
-by [stevie](../profile/stevie) | December 01, 2016 21:59
+by [stevie](../../../profile/stevie) | December 01, 2016 21:59
 
 December 01, 2016 21:59 | Tags: [blog](../tag/blog), [petcoke](../tag/petcoke), [chicago](../tag/chicago), [pm](../tag/pm), [midwest](../tag/midwest), [pet-coke](../tag/pet-coke), [with:olga](../tag/with:olga), [community-organizing](../tag/community-organizing), [interview-series](../tag/interview-series), [series:community-interviews](../tag/series:community-interviews)
 

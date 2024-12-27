@@ -1,5 +1,7 @@
 ---
-title: "next attempts at dye tracing"\ntagnames: 'new-york-city, balloon-mapping, gowanus, wetlands, dye-tracing, northeast, with:natasia, with:yvv, with:eymund, dye, inflow, lat:40.674568, lon:-73.989658, place:gowanus-canal'
+title: "next attempts at dye tracing"
+
+tagnames: 'new-york-city, balloon-mapping, gowanus, wetlands, dye-tracing, northeast, with:natasia, with:yvv, with:eymund, dye, inflow, lat:40.674568, lon:-73.989658, place:gowanus-canal'
 author: liz
 path: /notes/liz/10-01-2014/next-attempts-at-dye-tracing.md
 nid: 11223
@@ -11,7 +13,7 @@ uid: 7
 
 # next attempts at dye tracing
 
-by [liz](../profile/liz) | October 01, 2014 17:41
+by [liz](../../../profile/liz) | October 01, 2014 17:41
 
 October 01, 2014 17:41 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [gowanus](../tag/gowanus), [wetlands](../tag/wetlands), [dye-tracing](../tag/dye-tracing), [northeast](../tag/northeast), [with:natasia](../tag/with:natasia), [with:yvv](../tag/with:yvv), [with:eymund](../tag/with:eymund), [dye](../tag/dye), [inflow](../tag/inflow), [lat:40.674568](../tag/lat:40.674568), [lon:-73.989658](../tag/lon:-73.989658), [place:gowanus-canal](../tag/place:gowanus-canal)
 

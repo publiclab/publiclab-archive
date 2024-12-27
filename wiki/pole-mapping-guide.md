@@ -1,5 +1,7 @@
 ---
-title: "pole-mapping-guide"\ntagnames: 'workshop, polemapping, pole-mapping, parent:gardening-toolkit, gardening-toolkit'
+title: "pole-mapping-guide"
+
+tagnames: 'workshop, polemapping, pole-mapping, parent:gardening-toolkit, gardening-toolkit'
 author: liz
 path: /wiki/pole-mapping-guide.md
 nid: 11511

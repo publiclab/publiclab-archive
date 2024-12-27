@@ -1,5 +1,7 @@
 ---
-title: "[reference] "Carbon Bombs" or "Climate Bombs" --EcoFys analysis for Greenpeace"\ntagnames: 'gulf-coast, research, blog, climate-change, climate, global-climate-change, cop21, carbonbomb, reference, greenpeace'
+title: "[reference] "Carbon Bombs" or "Climate Bombs" --EcoFys analysis for Greenpeace"
+
+tagnames: 'gulf-coast, research, blog, climate-change, climate, global-climate-change, cop21, carbonbomb, reference, greenpeace'
 author: eustatic
 path: /01-13-2016/reference-carbon-bombs-or-climate-bombs-ecofys-analysis-for-greenpeace.md
 nid: 12580
@@ -11,7 +13,7 @@ uid: 379
 
 # [reference] "Carbon Bombs" or "Climate Bombs" --EcoFys analysis for Greenpeace
 
-by [eustatic](../profile/eustatic) | January 13, 2016 03:24
+by [eustatic](../../../profile/eustatic) | January 13, 2016 03:24
 
 January 13, 2016 03:24 | Tags: [gulf-coast](../tag/gulf-coast), [research](../tag/research), [blog](../tag/blog), [climate-change](../tag/climate-change), [climate](../tag/climate), [global-climate-change](../tag/global-climate-change), [cop21](../tag/cop21), [carbonbomb](../tag/carbonbomb), [reference](../tag/reference), [greenpeace](../tag/greenpeace)
 

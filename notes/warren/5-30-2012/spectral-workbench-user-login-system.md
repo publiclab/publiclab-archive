@@ -1,5 +1,7 @@
 ---
-title: "Spectral Workbench user login system"\ntagnames: 'spectrometer, spectral-workbench'
+title: "Spectral Workbench user login system"
+
+tagnames: 'spectrometer, spectral-workbench'
 author: warren
 path: /notes/warren/5-30-2012/spectral-workbench-user-login-system.md
 nid: 2258
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectral Workbench user login system
 
-by [warren](../profile/warren) | May 30, 2012 20:08
+by [warren](../../../profile/warren) | May 30, 2012 20:08
 
 May 30, 2012 20:08 | Tags: [spectrometer](../tag/spectrometer), [spectral-workbench](../tag/spectral-workbench)
 

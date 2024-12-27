@@ -1,5 +1,7 @@
 ---
-title: "GSoC Proposal - Email Notifications Overhaul"\ntagnames: 'software, gsoc, gsoc-2017, soc, soc-2017, soc-2017-proposals, response:13975'
+title: "GSoC Proposal - Email Notifications Overhaul"
+
+tagnames: 'software, gsoc, gsoc-2017, soc, soc-2017, soc-2017-proposals, response:13975'
 author: Khamba
 path: /notes/Khamba/03-13-2017/gsoc-proposal-email-notifications-overhaul.md
 nid: 14004
@@ -9,7 +11,7 @@ uid: 503974
 
 # GSoC Proposal - Email Notifications Overhaul
 
-by [Khamba](../profile/Khamba) | March 13, 2017 07:06
+by [Khamba](../../../profile/Khamba) | March 13, 2017 07:06
 
 March 13, 2017 07:06 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2017](../tag/gsoc-2017), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [soc-2017-proposals](../tag/soc-2017-proposals), [response:13975](../tag/response:13975)
 

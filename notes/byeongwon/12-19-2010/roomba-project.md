@@ -1,5 +1,7 @@
 ---
-title: "The Roomba Project"\ntagnames: 'rhode-island, roomba, risd'
+title: "The Roomba Project"
+
+tagnames: 'rhode-island, roomba, risd'
 author: byeongwon
 path: /notes/byeongwon/12-19-2010/roomba-project.md
 nid: 33
@@ -11,7 +13,7 @@ uid: 14
 
 # The Roomba Project
 
-by [byeongwon](../profile/byeongwon) | December 20, 2010 02:48
+by [byeongwon](../../../profile/byeongwon) | December 20, 2010 02:48
 
 December 20, 2010 02:48 | Tags: [rhode-island](../tag/rhode-island), [roomba](../tag/roomba), [risd](../tag/risd)
 

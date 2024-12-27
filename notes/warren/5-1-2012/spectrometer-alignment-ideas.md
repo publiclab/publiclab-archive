@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer alignment ideas"\ntagnames: 'spectrometer, calibration'
+title: "Spectrometer alignment ideas"
+
+tagnames: 'spectrometer, calibration'
 author: warren
 path: /notes/warren/5-1-2012/spectrometer-alignment-ideas.md
 nid: 1871
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectrometer alignment ideas
 
-by [warren](../profile/warren) | May 01, 2012 14:50
+by [warren](../../../profile/warren) | May 01, 2012 14:50
 
 May 01, 2012 14:50 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration)
 

@@ -1,5 +1,7 @@
 ---
-title: "What options are available for pollution/health models? "\ntagnames: 'answered, question:general, question:health, question:pollution, question:models, question:model, question:pollution-model'
+title: "What options are available for pollution/health models? "
+
+tagnames: 'answered, question:general, question:health, question:pollution, question:models, question:model, question:pollution-model'
 author: stevie
 path: /notes/stevie/08-03-2018/what-options-are-available-for-pollution-health-models.md
 nid: 16848
@@ -9,7 +11,7 @@ uid: 422561
 
 # What options are available for pollution/health models? 
 
-by [stevie](../profile/stevie) | August 03, 2018 14:02
+by [stevie](../../../profile/stevie) | August 03, 2018 14:02
 
 August 03, 2018 14:02 | Tags: [answered](../tag/answered), [question:general](../tag/question:general), [question:health](../tag/question:health), [question:pollution](../tag/question:pollution), [question:models](../tag/question:models), [question:model](../tag/question:model), [question:pollution-model](../tag/question:pollution-model)
 

@@ -1,5 +1,7 @@
 ---
-title: "Barnraising 2017"\ntagnames: 'barnraising'
+title: "Barnraising 2017"
+
+tagnames: 'barnraising'
 author: stevie
 path: /wiki/barnraising-2017.md
 nid: 15192

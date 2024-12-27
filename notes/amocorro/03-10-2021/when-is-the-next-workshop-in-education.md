@@ -1,5 +1,7 @@
 ---
-title: "When is the next workshop in education?"\ntagnames: 'education, workshop, question:general, general'
+title: "When is the next workshop in education?"
+
+tagnames: 'education, workshop, question:general, general'
 author: amocorro
 path: /notes/amocorro/03-10-2021/when-is-the-next-workshop-in-education.md
 nid: 25890
@@ -9,7 +11,7 @@ uid: 700923
 
 # When is the next workshop in education?
 
-by [amocorro](../profile/amocorro) | March 10, 2021 16:25
+by [amocorro](../../../profile/amocorro) | March 10, 2021 16:25
 
 March 10, 2021 16:25 | Tags: [education](../tag/education), [workshop](../tag/workshop), [question:general](../tag/question:general), [general](../tag/general)
 

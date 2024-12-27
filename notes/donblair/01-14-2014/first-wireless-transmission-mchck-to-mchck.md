@@ -1,5 +1,7 @@
 ---
-title: "First wireless transmission, mchck to mchck!"\ntagnames: 'temperature, wireless, pvos, water-quality, water-monitoring, water-quality-sensor, ioby, mystic-river, mchck'
+title: "First wireless transmission, mchck to mchck!"
+
+tagnames: 'temperature, wireless, pvos, water-quality, water-monitoring, water-quality-sensor, ioby, mystic-river, mchck'
 author: donblair
 path: /notes/donblair/01-14-2014/first-wireless-transmission-mchck-to-mchck.md
 nid: 9940
@@ -11,7 +13,7 @@ uid: 43651
 
 # First wireless transmission, mchck to mchck!
 
-by [donblair](../profile/donblair) | January 14, 2014 04:40
+by [donblair](../../../profile/donblair) | January 14, 2014 04:40
 
 January 14, 2014 04:40 | Tags: [temperature](../tag/temperature), [wireless](../tag/wireless), [pvos](../tag/pvos), [water-quality](../tag/water-quality), [water-monitoring](../tag/water-monitoring), [water-quality-sensor](../tag/water-quality-sensor), [ioby](../tag/ioby), [mystic-river](../tag/mystic-river), [mchck](../tag/mchck)
 

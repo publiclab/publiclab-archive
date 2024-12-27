@@ -1,5 +1,7 @@
 ---
-title: "Rain-garden research update"\ntagnames: 'stormwater, raspberry-pi-cameras, lat:1, lon:10, first-time-poster, rain-garden'
+title: "Rain-garden research update"
+
+tagnames: 'stormwater, raspberry-pi-cameras, lat:1, lon:10, first-time-poster, rain-garden'
 author: TJohnson
 path: /notes/TJohnson/10-22-2019/rain-garden-research-update.md
 nid: 21264
@@ -9,7 +11,7 @@ uid: 620732
 
 # Rain-garden research update
 
-by [TJohnson](../profile/TJohnson) | October 22, 2019 19:45
+by [TJohnson](../../../profile/TJohnson) | October 22, 2019 19:45
 
 October 22, 2019 19:45 | Tags: [stormwater](../tag/stormwater), [raspberry-pi-cameras](../tag/raspberry-pi-cameras), [lat:1](../tag/lat:1), [lon:10](../tag/lon:10), [first-time-poster](../tag/first-time-poster), [rain-garden](../tag/rain-garden)
 

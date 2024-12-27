@@ -1,5 +1,7 @@
 ---
-title: "Link: DIY Microbalance"\ntagnames: 'analytical_balance, weighing'
+title: "Link: DIY Microbalance"
+
+tagnames: 'analytical_balance, weighing'
 author: Frikkie
 path: /notes/Frikkie/03-25-2015/link-diy-microbalance.md
 nid: 11722
@@ -11,7 +13,7 @@ uid: 435693
 
 # Link: DIY Microbalance
 
-by [Frikkie](../profile/Frikkie) | March 25, 2015 10:34
+by [Frikkie](../../../profile/Frikkie) | March 25, 2015 10:34
 
 March 25, 2015 10:34 | Tags: [analytical_balance](../tag/analytical_balance), [weighing](../tag/weighing)
 

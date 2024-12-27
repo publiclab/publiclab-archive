@@ -1,5 +1,7 @@
 ---
-title: "KKMS Thermal Flashlight Project Sociology 4107"\ntagnames: 'thermal-photography, arduino, thermal-flashlight, canada, sociology-4107, response:11458, newfoundland, heat, replication:625, feminist, xbox, first-time-poster'
+title: "KKMS Thermal Flashlight Project Sociology 4107"
+
+tagnames: 'thermal-photography, arduino, thermal-flashlight, canada, sociology-4107, response:11458, newfoundland, heat, replication:625, feminist, xbox, first-time-poster'
 author: KKMS
 path: /notes/KKMS/12-15-2014/kkms-thermal-flashlight-project-sociology-4107.md
 nid: 11460
@@ -11,7 +13,7 @@ uid: 432742
 
 # KKMS Thermal Flashlight Project Sociology 4107
 
-by [KKMS](../profile/KKMS) | December 15, 2014 17:06
+by [KKMS](../../../profile/KKMS) | December 15, 2014 17:06
 
 December 15, 2014 17:06 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [canada](../tag/canada), [sociology-4107](../tag/sociology-4107), [response:11458](../tag/response:11458), [newfoundland](../tag/newfoundland), [heat](../tag/heat), [replication:625](../tag/replication:625), [feminist](../tag/feminist), [xbox](../tag/xbox), [first-time-poster](../tag/first-time-poster)
 

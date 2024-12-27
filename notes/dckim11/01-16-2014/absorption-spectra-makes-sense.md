@@ -1,5 +1,7 @@
 ---
-title: "Absorption spectra makes sense?"\ntagnames: ''
+title: "Absorption spectra makes sense?"
+
+tagnames: ''
 author: dckim11
 path: /notes/dckim11/01-16-2014/absorption-spectra-makes-sense.md
 nid: 9950
@@ -11,7 +13,7 @@ uid: 300699
 
 # Absorption spectra makes sense?
 
-by [dckim11](../profile/dckim11) | January 16, 2014 04:49
+by [dckim11](../../../profile/dckim11) | January 16, 2014 04:49
 
 January 16, 2014 04:49 | Tags: 
 

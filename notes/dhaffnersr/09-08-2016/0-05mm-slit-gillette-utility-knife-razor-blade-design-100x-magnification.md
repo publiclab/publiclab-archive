@@ -1,5 +1,7 @@
 ---
-title: "0.05mm Slit Gillette Utility Knife Razor Blade design 100X Magnification"\ntagnames: ''
+title: "0.05mm Slit Gillette Utility Knife Razor Blade design 100X Magnification"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/09-08-2016/0-05mm-slit-gillette-utility-knife-razor-blade-design-100x-magnification.md
 nid: 13432
@@ -11,7 +13,7 @@ uid: 461120
 
 # 0.05mm Slit Gillette Utility Knife Razor Blade design 100X Magnification
 
-by [dhaffnersr](../profile/dhaffnersr) | September 08, 2016 19:01
+by [dhaffnersr](../../../profile/dhaffnersr) | September 08, 2016 19:01
 
 September 08, 2016 19:01 | Tags: 
 

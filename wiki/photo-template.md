@@ -1,5 +1,7 @@
 ---
-title: "photo-template"\ntagnames: ''
+title: "photo-template"
+
+tagnames: ''
 author: warren
 path: /wiki/photo-template.md
 nid: 17223

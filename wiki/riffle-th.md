@@ -1,5 +1,7 @@
 ---
-title: "riffle-th"\ntagnames: 'water-quality, riffle, open-water, riffle-th, parent:riffle'
+title: "riffle-th"
+
+tagnames: 'water-quality, riffle, open-water, riffle-th, parent:riffle'
 author: donblair
 path: /wiki/riffle-th.md
 nid: 10647

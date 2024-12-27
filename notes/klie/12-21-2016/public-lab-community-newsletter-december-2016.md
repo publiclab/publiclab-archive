@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Community Newsletter: December 2016"\ntagnames: 'balloon-mapping, newsletter, barnraising, lumcon, urban-planning, refugeecamps, bourjalshamali, barnraising-2016'
+title: "Public Lab Community Newsletter: December 2016"
+
+tagnames: 'balloon-mapping, newsletter, barnraising, lumcon, urban-planning, refugeecamps, bourjalshamali, barnraising-2016'
 author: klie
 path: /notes/klie/12-21-2016/public-lab-community-newsletter-december-2016.md
 nid: 13802
@@ -11,7 +13,7 @@ uid: 441262
 
 # Public Lab Community Newsletter: December 2016
 
-by [klie](../profile/klie) | December 21, 2016 18:53
+by [klie](../../../profile/klie) | December 21, 2016 18:53
 
 December 21, 2016 18:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [newsletter](../tag/newsletter), [barnraising](../tag/barnraising), [lumcon](../tag/lumcon), [urban-planning](../tag/urban-planning), [refugeecamps](../tag/refugeecamps), [bourjalshamali](../tag/bourjalshamali), [barnraising-2016](../tag/barnraising-2016)
 

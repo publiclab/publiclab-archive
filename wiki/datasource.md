@@ -1,5 +1,7 @@
 ---
-title: "Datasource"\ntagnames: 'education, data, existing-data, datasource, public-data'
+title: "Datasource"
+
+tagnames: 'education, data, existing-data, datasource, public-data'
 author: liz
 path: /wiki/datasource.md
 nid: 20050

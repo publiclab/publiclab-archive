@@ -1,5 +1,7 @@
 ---
-title: "centrum-nauki-kopernik"\ntagnames: ''
+title: "centrum-nauki-kopernik"
+
+tagnames: ''
 author: 
 path: /notes/5-11-2012/centrum-nauki-kopernik.md
 nid: 2089
@@ -11,7 +13,7 @@ uid: 0
 
 # centrum-nauki-kopernik
 
-by [](../profile/) | May 11, 2012 15:41
+by [](../../../profile/) | May 11, 2012 15:41
 
 May 11, 2012 15:41 | Tags: 
 

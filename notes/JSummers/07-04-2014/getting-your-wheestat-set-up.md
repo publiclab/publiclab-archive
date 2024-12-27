@@ -1,5 +1,7 @@
 ---
-title: "Getting your WheeStat set up."\ntagnames: 'hydrogen-sulfide-sensing, water-quality, potentiostat, wheestat'
+title: "Getting your WheeStat set up."
+
+tagnames: 'hydrogen-sulfide-sensing, water-quality, potentiostat, wheestat'
 author: JSummers
 path: /notes/JSummers/07-04-2014/getting-your-wheestat-set-up.md
 nid: 10658
@@ -11,7 +13,7 @@ uid: 304279
 
 # Getting your WheeStat set up.
 
-by [JSummers](../profile/JSummers) | July 04, 2014 17:40
+by [JSummers](../../../profile/JSummers) | July 04, 2014 17:40
 
 July 04, 2014 17:40 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [water-quality](../tag/water-quality), [potentiostat](../tag/potentiostat), [wheestat](../tag/wheestat)
 

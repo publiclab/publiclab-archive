@@ -1,5 +1,7 @@
 ---
-title: "Requesting responses"\ntagnames: 'website, education, list:plots-education, parent:education'
+title: "Requesting responses"
+
+tagnames: 'website, education, list:plots-education, parent:education'
 author: warren
 path: /wiki/requesting-responses.md
 nid: 12750

@@ -1,5 +1,7 @@
 ---
-title: "Wiki gardening"\ntagnames: 'needs-revision'
+title: "Wiki gardening"
+
+tagnames: 'needs-revision'
 author: warren
 path: /wiki/wiki-gardening.md
 nid: 6925

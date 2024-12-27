@@ -1,5 +1,7 @@
 ---
-title: "Large flares, spikes on air monitors near Americas Styrenics facility   "\ntagnames: 'air-quality, air-monitoring, environmental-health, zoom:6, zoom:10, with:travislondon, formosaplastics, lat:30.017929, lon:-90.791322, stjames'
+title: "Large flares, spikes on air monitors near Americas Styrenics facility   "
+
+tagnames: 'air-quality, air-monitoring, environmental-health, zoom:6, zoom:10, with:travislondon, formosaplastics, lat:30.017929, lon:-90.791322, stjames'
 author: awoolverton1
 path: /notes/awoolverton1/04-14-2022/large-flares-spikes-on-air-monitors-near-americas-styrenics-facility.md
 nid: 30378
@@ -11,7 +13,7 @@ uid: 778039
 
 # Large flares, spikes on air monitors near Americas Styrenics facility   
 
-by [awoolverton1](../profile/awoolverton1) | April 14, 2022 19:56
+by [awoolverton1](../../../profile/awoolverton1) | April 14, 2022 19:56
 
 April 14, 2022 19:56 | Tags: [air-quality](../tag/air-quality), [air-monitoring](../tag/air-monitoring), [environmental-health](../tag/environmental-health), [zoom:6](../tag/zoom:6), [zoom:10](../tag/zoom:10), [with:travislondon](../tag/with:travislondon), [formosaplastics](../tag/formosaplastics), [lat:30.017929](../tag/lat:30.017929), [lon:-90.791322](../tag/lon:-90.791322), [stjames](../tag/stjames)
 

@@ -1,5 +1,7 @@
 ---
-title: "Germany"\ntagnames: ''
+title: "Germany"
+
+tagnames: ''
 author: stevie
 path: /wiki/germany.md
 nid: 16232

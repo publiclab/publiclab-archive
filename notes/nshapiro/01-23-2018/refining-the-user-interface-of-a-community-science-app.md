@@ -1,5 +1,7 @@
 ---
-title: "Refining the user interface of a community science app"\ntagnames: 'formaldehyde, indoor-air-quality, with:gretchengehrke, indoor-air, ui, smart-form, with:lightandluck'
+title: "Refining the user interface of a community science app"
+
+tagnames: 'formaldehyde, indoor-air-quality, with:gretchengehrke, indoor-air, ui, smart-form, with:lightandluck'
 author: nshapiro
 path: /notes/nshapiro/01-23-2018/refining-the-user-interface-of-a-community-science-app.md
 nid: 15589
@@ -11,7 +13,7 @@ uid: 380298
 
 # Refining the user interface of a community science app
 
-by [nshapiro](../profile/nshapiro) | January 23, 2018 02:27
+by [nshapiro](../../../profile/nshapiro) | January 23, 2018 02:27
 
 January 23, 2018 02:27 | Tags: [formaldehyde](../tag/formaldehyde), [indoor-air-quality](../tag/indoor-air-quality), [with:gretchengehrke](../tag/with:gretchengehrke), [indoor-air](../tag/indoor-air), [ui](../tag/ui), [smart-form](../tag/smart-form), [with:lightandluck](../tag/with:lightandluck)
 

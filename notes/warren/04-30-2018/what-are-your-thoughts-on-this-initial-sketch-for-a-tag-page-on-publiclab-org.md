@@ -1,5 +1,7 @@
 ---
-title: "What are your thoughts on this initial sketch for a Tag page on PublicLab.org?"\ntagnames: 'design, tags, ui, question:ui, topics, response:15072, comment-template:ui-feedback-template'
+title: "What are your thoughts on this initial sketch for a Tag page on PublicLab.org?"
+
+tagnames: 'design, tags, ui, question:ui, topics, response:15072, comment-template:ui-feedback-template'
 author: warren
 path: /notes/warren/04-30-2018/what-are-your-thoughts-on-this-initial-sketch-for-a-tag-page-on-publiclab-org.md
 nid: 16271
@@ -11,7 +13,7 @@ uid: 1
 
 # What are your thoughts on this initial sketch for a Tag page on PublicLab.org?
 
-by [warren](../profile/warren) | April 30, 2018 15:21
+by [warren](../../../profile/warren) | April 30, 2018 15:21
 
 April 30, 2018 15:21 | Tags: [design](../tag/design), [tags](../tag/tags), [ui](../tag/ui), [question:ui](../tag/question:ui), [topics](../tag/topics), [response:15072](../tag/response:15072), [comment-template:ui-feedback-template](../tag/comment-template:ui-feedback-template)
 

@@ -1,5 +1,7 @@
 ---
-title: "Writing a topic page on PublicLab.org"\ntagnames: 'website, guides, how-to, activities, authoring-help, topics, with:a1ahna, topic-pages, activity:website, with:bhamster'
+title: "Writing a topic page on PublicLab.org"
+
+tagnames: 'website, guides, how-to, activities, authoring-help, topics, with:a1ahna, topic-pages, activity:website, with:bhamster'
 author: warren
 path: /notes/warren/03-22-2019/writing-a-topic-page-on-publiclab-org.md
 nid: 18779
@@ -11,7 +13,7 @@ uid: 1
 
 # Writing a topic page on PublicLab.org
 
-by [warren](../profile/warren) | March 19, 2019 18:10
+by [warren](../../../profile/warren) | March 19, 2019 18:10
 
 March 19, 2019 18:10 | Tags: [website](../tag/website), [guides](../tag/guides), [how-to](../tag/how-to), [activities](../tag/activities), [authoring-help](../tag/authoring-help), [topics](../tag/topics), [with:a1ahna](../tag/with:a1ahna), [topic-pages](../tag/topic-pages), [activity:website](../tag/activity:website), [with:bhamster](../tag/with:bhamster)
 

@@ -1,5 +1,7 @@
 ---
-title: "Thermal Flashlight from hacked, off-the-shelf Pocket IR Thermometer "\ntagnames: 'thermal-photography, thermal-flashlight, thermal-camera, tool, activity:thermal-flashlight, upgrade:thermal-flashlight, activity:thermal-flashlight-assembly'
+title: "Thermal Flashlight from hacked, off-the-shelf Pocket IR Thermometer "
+
+tagnames: 'thermal-photography, thermal-flashlight, thermal-camera, tool, activity:thermal-flashlight, upgrade:thermal-flashlight, activity:thermal-flashlight-assembly'
 author: ajawitz
 path: /notes/code4maine/01-03-2014/thermal-flashlight-from-hacked-off-the-shelf-pocket-ir-thermometer.md
 nid: 9922
@@ -11,7 +13,7 @@ uid: 294634
 
 # Thermal Flashlight from hacked, off-the-shelf Pocket IR Thermometer 
 
-by [ajawitz](../profile/ajawitz) | January 03, 2014 21:10
+by [ajawitz](../../../profile/ajawitz) | January 03, 2014 21:10
 
 January 03, 2014 21:10 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight), [activity:thermal-flashlight-assembly](../tag/activity:thermal-flashlight-assembly)
 

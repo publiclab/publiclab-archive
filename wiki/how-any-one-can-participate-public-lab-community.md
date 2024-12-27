@@ -1,5 +1,7 @@
 ---
-title: "How any one can participate in the Public Lab community"\ntagnames: 'website, plots2, wintercamp, newcomers, onboarding, out-of-date'
+title: "How any one can participate in the Public Lab community"
+
+tagnames: 'website, plots2, wintercamp, newcomers, onboarding, out-of-date'
 author: mollydanielsson
 path: /wiki/how-any-one-can-participate-public-lab-community.md
 nid: 5612

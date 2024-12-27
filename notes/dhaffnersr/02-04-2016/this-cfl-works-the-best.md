@@ -1,5 +1,7 @@
 ---
-title: "This CFL works the best"\ntagnames: 'barnstar:basic'
+title: "This CFL works the best"
+
+tagnames: 'barnstar:basic'
 author: dhaffnersr
 path: /notes/dhaffnersr/02-04-2016/this-cfl-works-the-best.md
 nid: 12656
@@ -11,7 +13,7 @@ uid: 461120
 
 # This CFL works the best
 
-by [dhaffnersr](../profile/dhaffnersr) | February 04, 2016 20:22
+by [dhaffnersr](../../../profile/dhaffnersr) | February 04, 2016 20:22
 
 February 04, 2016 20:22 | Tags: [barnstar:basic](../tag/barnstar:basic)
 

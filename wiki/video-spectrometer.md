@@ -1,5 +1,7 @@
 ---
-title: "Video Spectrometer"\ntagnames: 'spectrometer'
+title: "Video Spectrometer"
+
+tagnames: 'spectrometer'
 author: warren
 path: /wiki/video-spectrometer.md
 nid: 521

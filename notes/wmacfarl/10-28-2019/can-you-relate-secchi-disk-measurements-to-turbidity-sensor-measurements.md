@@ -1,5 +1,7 @@
 ---
-title: "Can you relate Secchi disk measurements to turbidity sensor measurements?"\ntagnames: 'water-quality, turbidity, question:water-quality, question:turbidity, oil-and-gas-water-trio, question:oil-and-gas-water-trio'
+title: "Can you relate Secchi disk measurements to turbidity sensor measurements?"
+
+tagnames: 'water-quality, turbidity, question:water-quality, question:turbidity, oil-and-gas-water-trio, question:oil-and-gas-water-trio'
 author: wmacfarl
 path: /notes/wmacfarl/10-28-2019/can-you-relate-secchi-disk-measurements-to-turbidity-sensor-measurements.md
 nid: 21317
@@ -11,7 +13,7 @@ uid: 424597
 
 # Can you relate Secchi disk measurements to turbidity sensor measurements?
 
-by [wmacfarl](../profile/wmacfarl) | October 28, 2019 15:13
+by [wmacfarl](../../../profile/wmacfarl) | October 28, 2019 15:13
 
 October 28, 2019 15:13 | Tags: [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [question:water-quality](../tag/question:water-quality), [question:turbidity](../tag/question:turbidity), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [question:oil-and-gas-water-trio](../tag/question:oil-and-gas-water-trio)
 

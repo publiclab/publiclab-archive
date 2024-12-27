@@ -1,5 +1,7 @@
 ---
-title: "Live webcam Infragramming, WebGL option"\ntagnames: 'near-infrared-camera, infragram, infragram-sandbox, infragrammar, webgl'
+title: "Live webcam Infragramming, WebGL option"
+
+tagnames: 'near-infrared-camera, infragram, infragram-sandbox, infragrammar, webgl'
 author: warren
 path: /notes/warren/12-28-2013/live-webcam-infragramming-webgl-option.md
 nid: 9917
@@ -11,7 +13,7 @@ uid: 1
 
 # Live webcam Infragramming, WebGL option
 
-by [warren](../profile/warren) | December 28, 2013 20:03
+by [warren](../../../profile/warren) | December 28, 2013 20:03
 
 December 28, 2013 20:03 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [infragrammar](../tag/infragrammar), [webgl](../tag/webgl)
 

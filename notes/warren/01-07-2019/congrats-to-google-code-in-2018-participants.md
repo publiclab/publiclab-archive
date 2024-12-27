@@ -1,5 +1,7 @@
 ---
-title: "Congrats to Google Code-In 2018 participants!"\ntagnames: 'open-source, google, developers, code, wwg, software-outreach, gci, code-in'
+title: "Congrats to Google Code-In 2018 participants!"
+
+tagnames: 'open-source, google, developers, code, wwg, software-outreach, gci, code-in'
 author: warren
 path: /notes/warren/01-07-2019/congrats-to-google-code-in-2018-participants.md
 nid: 18072
@@ -11,7 +13,7 @@ uid: 1
 
 # Congrats to Google Code-In 2018 participants!
 
-by [warren](../profile/warren) | January 07, 2019 17:55
+by [warren](../../../profile/warren) | January 07, 2019 17:55
 
 January 07, 2019 17:55 | Tags: [open-source](../tag/open-source), [google](../tag/google), [developers](../tag/developers), [code](../tag/code), [wwg](../tag/wwg), [software-outreach](../tag/software-outreach), [gci](../tag/gci), [code-in](../tag/code-in)
 

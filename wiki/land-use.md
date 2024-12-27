@@ -1,5 +1,7 @@
 ---
-title: "Land use"\ntagnames: 'land-use, land-change'
+title: "Land use"
+
+tagnames: 'land-use, land-change'
 author: stevie
 path: /wiki/land-use.md
 nid: 21600

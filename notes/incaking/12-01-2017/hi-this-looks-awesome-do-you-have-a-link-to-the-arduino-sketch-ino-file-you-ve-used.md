@@ -1,5 +1,7 @@
 ---
-title: "Hi, this looks awesome! Do you have a link to the Arduino sketch (.ino) file you've used?"\ntagnames: 'include'
+title: "Hi, this looks awesome! Do you have a link to the Arduino sketch (.ino) file you've used?"
+
+tagnames: 'include'
 author: incaking
 path: /notes/incaking/12-01-2017/hi-this-looks-awesome-do-you-have-a-link-to-the-arduino-sketch-ino-file-you-ve-used.md
 nid: 15283
@@ -9,7 +11,7 @@ uid: 519451
 
 # Hi, this looks awesome! Do you have a link to the Arduino sketch (.ino) file you've used?
 
-by [incaking](../profile/incaking) | December 01, 2017 03:27
+by [incaking](../../../profile/incaking) | December 01, 2017 03:27
 
 December 01, 2017 03:27 | Tags: [include](../tag/include)
 

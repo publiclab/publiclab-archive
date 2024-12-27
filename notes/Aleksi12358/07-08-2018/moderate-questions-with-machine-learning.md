@@ -1,5 +1,7 @@
 ---
-title: "Moderate questions with machine learning."\ntagnames: 'spam, machine, learning, question:website'
+title: "Moderate questions with machine learning."
+
+tagnames: 'spam, machine, learning, question:website'
 author: Aleksi12358
 path: /notes/Aleksi12358/07-08-2018/moderate-questions-with-machine-learning.md
 nid: 16662
@@ -9,7 +11,7 @@ uid: 540470
 
 # Moderate questions with machine learning.
 
-by [Aleksi12358](../profile/Aleksi12358) | July 08, 2018 17:58
+by [Aleksi12358](../../../profile/Aleksi12358) | July 08, 2018 17:58
 
 July 08, 2018 17:58 | Tags: [spam](../tag/spam), [machine](../tag/machine), [learning](../tag/learning), [question:website](../tag/question:website)
 

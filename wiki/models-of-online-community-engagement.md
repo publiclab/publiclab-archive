@@ -1,5 +1,7 @@
 ---
-title: "Models of Online Community Engagement "\ntagnames: 'community'
+title: "Models of Online Community Engagement "
+
+tagnames: 'community'
 author: stevie
 path: /wiki/models-of-online-community-engagement.md
 nid: 10487

@@ -1,5 +1,7 @@
 ---
-title: "Side Scan Sonar: Towards a Low Cost Benthic Mapping Tool"\ntagnames: 'gulf-coast, water-sensing, water-quality, rivers, aquatic-monitoring, side-imaging, side-scan-sonar, fish-sonar'
+title: "Side Scan Sonar: Towards a Low Cost Benthic Mapping Tool"
+
+tagnames: 'gulf-coast, water-sensing, water-quality, rivers, aquatic-monitoring, side-imaging, side-scan-sonar, fish-sonar'
 author: wward1400
 path: /notes/wward1400/12-18-2014/side-scan-sonar-towards-a-low-cost-benthic-mapping-tool.md
 nid: 11484
@@ -11,7 +13,7 @@ uid: 46742
 
 # Side Scan Sonar: Towards a Low Cost Benthic Mapping Tool
 
-by [wward1400](../profile/wward1400) | December 18, 2014 16:19
+by [wward1400](../../../profile/wward1400) | December 18, 2014 16:19
 
 December 18, 2014 16:19 | Tags: [gulf-coast](../tag/gulf-coast), [water-sensing](../tag/water-sensing), [water-quality](../tag/water-quality), [rivers](../tag/rivers), [aquatic-monitoring](../tag/aquatic-monitoring), [side-imaging](../tag/side-imaging), [side-scan-sonar](../tag/side-scan-sonar), [fish-sonar](../tag/fish-sonar)
 

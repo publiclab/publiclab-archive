@@ -1,5 +1,7 @@
 ---
-title: "Light socket tests for countertop spectrometer, 3d prints of mobile spectrometer"\ntagnames: 'spectrometer, kickstarter'
+title: "Light socket tests for countertop spectrometer, 3d prints of mobile spectrometer"
+
+tagnames: 'spectrometer, kickstarter'
 author: warren
 path: /notes/warren/1-30-2013/light-socket-tests-countertop-spectrometer-3d-prints-mobile-spectrometer.md
 nid: 5806
@@ -11,7 +13,7 @@ uid: 1
 
 # Light socket tests for countertop spectrometer, 3d prints of mobile spectrometer
 
-by [warren](../profile/warren) | January 30, 2013 21:35
+by [warren](../../../profile/warren) | January 30, 2013 21:35
 
 January 30, 2013 21:35 | Tags: [spectrometer](../tag/spectrometer), [kickstarter](../tag/kickstarter)
 

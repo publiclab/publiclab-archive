@@ -1,5 +1,7 @@
 ---
-title: "Laser Eye Safety!"\ntagnames: ''
+title: "Laser Eye Safety!"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/02-15-2016/laser-eye-safety.md
 nid: 12692
@@ -11,7 +13,7 @@ uid: 461120
 
 # Laser Eye Safety!
 
-by [dhaffnersr](../profile/dhaffnersr) | February 15, 2016 13:56
+by [dhaffnersr](../../../profile/dhaffnersr) | February 15, 2016 13:56
 
 February 15, 2016 13:56 | Tags: 
 

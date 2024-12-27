@@ -1,5 +1,7 @@
 ---
-title: "Open Land"\ntagnames: 'wetlands, farmhack, wetland, soil, garden, photosynq, soil-testing'
+title: "Open Land"
+
+tagnames: 'wetlands, farmhack, wetland, soil, garden, photosynq, soil-testing'
 author: liz
 path: /wiki/open-land.md
 nid: 11625

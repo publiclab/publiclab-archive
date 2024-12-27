@@ -1,5 +1,7 @@
 ---
-title: "WheeStat potentiostat "sold out" in Public Lab store, how can I learn more about this tool?"\ntagnames: 'kits, potentiostat, cheapstat, tool, wheestat, manual, question:general, general, chemicals, question:wheestat'
+title: "WheeStat potentiostat "sold out" in Public Lab store, how can I learn more about this tool?"
+
+tagnames: 'kits, potentiostat, cheapstat, tool, wheestat, manual, question:general, general, chemicals, question:wheestat'
 author: amocorro
 path: /notes/amocorro/05-26-2021/wheestat-potentiostat-sold-out-in-public-lab-store-how-can-i-learn-more-about-this-unit.md
 nid: 26717
@@ -9,7 +11,7 @@ uid: 700923
 
 # WheeStat potentiostat "sold out" in Public Lab store, how can I learn more about this tool?
 
-by [amocorro](../profile/amocorro) | May 26, 2021 23:12
+by [amocorro](../../../profile/amocorro) | May 26, 2021 23:12
 
 May 26, 2021 23:12 | Tags: [kits](../tag/kits), [potentiostat](../tag/potentiostat), [cheapstat](../tag/cheapstat), [tool](../tag/tool), [wheestat](../tag/wheestat), [manual](../tag/manual), [question:general](../tag/question:general), [general](../tag/general), [chemicals](../tag/chemicals), [question:wheestat](../tag/question:wheestat)
 

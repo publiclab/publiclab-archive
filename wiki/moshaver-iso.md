@@ -1,5 +1,7 @@
 ---
-title: "moshaver iso"\ntagnames: 'first-time-poster'
+title: "moshaver iso"
+
+tagnames: 'first-time-poster'
 author: aryan
 path: /wiki/moshaver-iso.md
 nid: 14491

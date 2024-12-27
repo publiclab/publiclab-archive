@@ -1,5 +1,7 @@
 ---
-title: "Foldup Spectrometer for iPhone"\ntagnames: 'spectrometer, iphone, fold-up-mini-spectrometer, fold-up'
+title: "Foldup Spectrometer for iPhone"
+
+tagnames: 'spectrometer, iphone, fold-up-mini-spectrometer, fold-up'
 author: cfastie
 path: /notes/cfastie/1-4-2013/foldup-spectrometer-iphone.md
 nid: 5414
@@ -11,7 +13,7 @@ uid: 554
 
 # Foldup Spectrometer for iPhone
 
-by [cfastie](../profile/cfastie) | January 04, 2013 21:44
+by [cfastie](../../../profile/cfastie) | January 04, 2013 21:44
 
 January 04, 2013 21:44 | Tags: [spectrometer](../tag/spectrometer), [iphone](../tag/iphone), [fold-up-mini-spectrometer](../tag/fold-up-mini-spectrometer), [fold-up](../tag/fold-up)
 

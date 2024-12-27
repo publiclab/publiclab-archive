@@ -1,5 +1,7 @@
 ---
-title: "Thermal Imaging of Fresh Air Intake for Nightingale Hall"\ntagnames: 'thermal-photography, thermal-flashlight, thermal-imaging, northeastern, insulation, air-intake, heat, replication:625'
+title: "Thermal Imaging of Fresh Air Intake for Nightingale Hall"
+
+tagnames: 'thermal-photography, thermal-flashlight, thermal-imaging, northeastern, insulation, air-intake, heat, replication:625'
 author: jecnu
 path: /notes/jecnu/12-03-2014/thermal-imaging-of-fresh-air-intake-for-nightingale-hall.md
 nid: 11431
@@ -11,7 +13,7 @@ uid: 432296
 
 # Thermal Imaging of Fresh Air Intake for Nightingale Hall
 
-by [jecnu](../profile/jecnu) | December 03, 2014 17:18
+by [jecnu](../../../profile/jecnu) | December 03, 2014 17:18
 
 December 03, 2014 17:18 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-imaging](../tag/thermal-imaging), [northeastern](../tag/northeastern), [insulation](../tag/insulation), [air-intake](../tag/air-intake), [heat](../tag/heat), [replication:625](../tag/replication:625)
 

@@ -1,5 +1,7 @@
 ---
-title: "Formosa Plastics around the world"\ntagnames: 'louisiana, air-quality, pollution, pm, industry, particulate-matter, game-over-formosa, st-james, fellowship-teams, with:travislondon, with:caitlion, formosaplastics'
+title: "Formosa Plastics around the world"
+
+tagnames: 'louisiana, air-quality, pollution, pm, industry, particulate-matter, game-over-formosa, st-james, fellowship-teams, with:travislondon, with:caitlion, formosaplastics'
 author: stevie
 path: /notes/stevie/10-19-2021/formosa-plastics-around-the-world.md
 nid: 27943
@@ -11,7 +13,7 @@ uid: 422561
 
 # Formosa Plastics around the world
 
-by [stevie](../profile/stevie) | October 19, 2021 17:21
+by [stevie](../../../profile/stevie) | October 19, 2021 17:21
 
 October 19, 2021 17:21 | Tags: [louisiana](../tag/louisiana), [air-quality](../tag/air-quality), [pollution](../tag/pollution), [pm](../tag/pm), [industry](../tag/industry), [particulate-matter](../tag/particulate-matter), [game-over-formosa](../tag/game-over-formosa), [st-james](../tag/st-james), [fellowship-teams](../tag/fellowship-teams), [with:travislondon](../tag/with:travislondon), [with:caitlion](../tag/with:caitlion), [formosaplastics](../tag/formosaplastics)
 

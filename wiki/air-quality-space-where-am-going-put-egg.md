@@ -1,5 +1,7 @@
 ---
-title: "air quality space where am going to put the egg"\ntagnames: ''
+title: "air quality space where am going to put the egg"
+
+tagnames: ''
 author: colin13
 path: /wiki/air-quality-space-where-am-going-put-egg.md
 nid: 5992

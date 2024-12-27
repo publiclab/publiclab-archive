@@ -1,5 +1,7 @@
 ---
-title: "Draft revised spectrometer guide by Alex McCarthy"\ntagnames: 'spectrometer, guides, guide'
+title: "Draft revised spectrometer guide by Alex McCarthy"
+
+tagnames: 'spectrometer, guides, guide'
 author: warren
 path: /notes/warren/4-29-2011/draft-revised-spectrometer-guide-alex-mccarthy.md
 nid: 205
@@ -11,7 +13,7 @@ uid: 1
 
 # Draft revised spectrometer guide by Alex McCarthy
 
-by [warren](../profile/warren) | April 29, 2011 04:13
+by [warren](../../../profile/warren) | April 29, 2011 04:13
 
 April 29, 2011 04:13 | Tags: [spectrometer](../tag/spectrometer), [guides](../tag/guides), [guide](../tag/guide)
 

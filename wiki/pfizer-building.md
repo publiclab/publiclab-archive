@@ -1,5 +1,7 @@
 ---
-title: "Pfizer Building"\ntagnames: 'new-york-city, brooklyn, pfizer, workspace'
+title: "Pfizer Building"
+
+tagnames: 'new-york-city, brooklyn, pfizer, workspace'
 author: liz
 path: /wiki/pfizer-building.md
 nid: 1618

@@ -1,5 +1,7 @@
 ---
-title: "What are good ways to capture outputs and notes at events? "\ntagnames: 'events, documentation, barnraising, barnstar:photo-documentation, answered, doccom, question:general, location:blurred, barnraising-host, host, question:hosting-materials, question:facilitation'
+title: "What are good ways to capture outputs and notes at events? "
+
+tagnames: 'events, documentation, barnraising, barnstar:photo-documentation, answered, doccom, question:general, location:blurred, barnraising-host, host, question:hosting-materials, question:facilitation'
 author: stevie
 path: /notes/stevie/12-15-2017/what-are-good-ways-to-capture-outputs-and-notes-at-events.md
 nid: 15382
@@ -9,7 +11,7 @@ uid: 422561
 
 # What are good ways to capture outputs and notes at events? 
 
-by [stevie](../profile/stevie) | December 15, 2017 20:29
+by [stevie](../../../profile/stevie) | December 15, 2017 20:29
 
 December 15, 2017 20:29 | Tags: [events](../tag/events), [documentation](../tag/documentation), [barnraising](../tag/barnraising), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [answered](../tag/answered), [doccom](../tag/doccom), [question:general](../tag/question:general), [location:blurred](../tag/location:blurred), [barnraising-host](../tag/barnraising-host), [host](../tag/host), [question:hosting-materials](../tag/question:hosting-materials), [question:facilitation](../tag/question:facilitation)
 

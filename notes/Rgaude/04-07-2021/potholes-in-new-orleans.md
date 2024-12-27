@@ -1,5 +1,7 @@
 ---
-title: "Potholes in New Orleans"\ntagnames: 'gulf-coast, laplace, louisiana, new-orleans, potholes, soil-quality, lon:0, zoom:1, lat:30.145127'
+title: "Potholes in New Orleans"
+
+tagnames: 'gulf-coast, laplace, louisiana, new-orleans, potholes, soil-quality, lon:0, zoom:1, lat:30.145127'
 author: Rgaude
 path: /notes/Rgaude/04-07-2021/potholes-in-new-orleans.md
 nid: 26155
@@ -11,7 +13,7 @@ uid: 749812
 
 # Potholes in New Orleans
 
-by [Rgaude](../profile/Rgaude) | April 07, 2021 15:11
+by [Rgaude](../../../profile/Rgaude) | April 07, 2021 15:11
 
 April 07, 2021 15:11 | Tags: [gulf-coast](../tag/gulf-coast), [laplace](../tag/laplace), [louisiana](../tag/louisiana), [new-orleans](../tag/new-orleans), [potholes](../tag/potholes), [soil-quality](../tag/soil-quality), [lon:0](../tag/lon:0), [zoom:1](../tag/zoom:1), [lat:30.145127](../tag/lat:30.145127)
 

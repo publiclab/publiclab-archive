@@ -1,5 +1,7 @@
 ---
-title: "Question: retrieving true color image from infragram images"\ntagnames: 'question:infragram'
+title: "Question: retrieving true color image from infragram images"
+
+tagnames: 'question:infragram'
 author: brooksdr
 path: /notes/brooksdr/09-12-2014/question-retrieving-true-color-image-from-infragram-images.md
 nid: 11135
@@ -9,7 +11,7 @@ uid: 427254
 
 # Question: retrieving true color image from infragram images
 
-by [brooksdr](../profile/brooksdr) | September 12, 2014 18:09
+by [brooksdr](../../../profile/brooksdr) | September 12, 2014 18:09
 
 September 12, 2014 18:09 | Tags: [question:infragram](../tag/question:infragram)
 

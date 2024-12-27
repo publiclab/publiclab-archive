@@ -1,5 +1,7 @@
 ---
-title: "questions"\ntagnames: 'redirect:authoring-help'
+title: "questions"
+
+tagnames: 'redirect:authoring-help'
 author: warren
 path: /wiki/questions.md
 nid: 24070

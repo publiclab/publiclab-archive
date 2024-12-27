@@ -1,5 +1,7 @@
 ---
-title: "Add GPS logging to a Saturn V Rig"\ntagnames: 'kite-mapping, arduino, kite-aerial-photography, kap, photo-rig, gps, saturnv, skyshield, difficulty:medium, category:build, activity:kite-mapping, activity:balloon-mapping, activity:photo-rig, activity:camera-triggering, response:13845, skypod'
+title: "Add GPS logging to a Saturn V Rig"
+
+tagnames: 'kite-mapping, arduino, kite-aerial-photography, kap, photo-rig, gps, saturnv, skyshield, difficulty:medium, category:build, activity:kite-mapping, activity:balloon-mapping, activity:photo-rig, activity:camera-triggering, response:13845, skypod'
 author: cfastie
 path: /notes/cfastie/01-14-2017/add-gps-logging-to-microsd-card-to-a-saturn-v-rig.md
 nid: 13850
@@ -11,7 +13,7 @@ uid: 554
 
 # Add GPS logging to a Saturn V Rig
 
-by [cfastie](../profile/cfastie) | January 14, 2017 05:45
+by [cfastie](../../../profile/cfastie) | January 14, 2017 05:45
 
 January 14, 2017 05:45 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [photo-rig](../tag/photo-rig), [gps](../tag/gps), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [difficulty:medium](../tag/difficulty:medium), [category:build](../tag/category:build), [activity:kite-mapping](../tag/activity:kite-mapping), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:photo-rig](../tag/activity:photo-rig), [activity:camera-triggering](../tag/activity:camera-triggering), [response:13845](../tag/response:13845), [skypod](../tag/skypod)
 

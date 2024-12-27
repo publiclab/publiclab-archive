@@ -1,5 +1,7 @@
 ---
-title: "Rhus - Open Source Mobile GIS for Community Ecology "\ntagnames: 'first-time-poster'
+title: "Rhus - Open Source Mobile GIS for Community Ecology "
+
+tagnames: 'first-time-poster'
 author: deepwinter
 path: /notes/deepwinter/6-5-2012/rhus-open-source-mobile-gis-community-ecology.md
 nid: 2348
@@ -11,7 +13,7 @@ uid: 808
 
 # Rhus - Open Source Mobile GIS for Community Ecology 
 
-by [deepwinter](../profile/deepwinter) | June 05, 2012 07:34
+by [deepwinter](../../../profile/deepwinter) | June 05, 2012 07:34
 
 June 05, 2012 07:34 | Tags: [first-time-poster](../tag/first-time-poster)
 

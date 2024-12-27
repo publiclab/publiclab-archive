@@ -1,5 +1,7 @@
 ---
-title: "Grassroots image helps influence local land use debate"\ntagnames: 'gowanus, new-york, american-pie, 1776-battle-of-brooklyn, marylander-burial-site, the-grateful-dead'
+title: "Grassroots image helps influence local land use debate"
+
+tagnames: 'gowanus, new-york, american-pie, 1776-battle-of-brooklyn, marylander-burial-site, the-grateful-dead'
 author: eymund
 path: /notes/eymund-diegel/11-13-2012/grassroots-image-helps-influence-local-land-use-debate.md
 nid: 4899
@@ -11,7 +13,7 @@ uid: 1016
 
 # Grassroots image helps influence local land use debate
 
-by [eymund](../profile/eymund) | November 14, 2012 03:38
+by [eymund](../../../profile/eymund) | November 14, 2012 03:38
 
 November 14, 2012 03:38 | Tags: [gowanus](../tag/gowanus), [new-york](../tag/new-york), [american-pie](../tag/american-pie), [1776-battle-of-brooklyn](../tag/1776-battle-of-brooklyn), [marylander-burial-site](../tag/marylander-burial-site), [the-grateful-dead](../tag/the-grateful-dead)
 

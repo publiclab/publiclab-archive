@@ -1,5 +1,7 @@
 ---
-title: "Infragram FAQ"\ntagnames: 'near-infrared-camera, faq, infragram, parent:infragram'
+title: "Infragram FAQ"
+
+tagnames: 'near-infrared-camera, faq, infragram, parent:infragram'
 author: liz
 path: /wiki/infragram-faq.md
 nid: 7864

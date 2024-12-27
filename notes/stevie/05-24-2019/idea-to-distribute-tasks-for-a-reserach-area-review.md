@@ -1,5 +1,7 @@
 ---
-title: "Idea for Research Area Reviews"\ntagnames: 'organizers, organizing, organizer, community-development, research-area-review'
+title: "Idea for Research Area Reviews"
+
+tagnames: 'organizers, organizing, organizer, community-development, research-area-review'
 author: stevie
 path: /notes/stevie/05-24-2019/idea-to-distribute-tasks-for-a-reserach-area-review.md
 nid: 19516
@@ -11,7 +13,7 @@ uid: 422561
 
 # Idea for Research Area Reviews
 
-by [stevie](../profile/stevie) | May 24, 2019 20:21
+by [stevie](../../../profile/stevie) | May 24, 2019 20:21
 
 May 24, 2019 20:21 | Tags: [organizers](../tag/organizers), [organizing](../tag/organizing), [organizer](../tag/organizer), [community-development](../tag/community-development), [research-area-review](../tag/research-area-review)
 

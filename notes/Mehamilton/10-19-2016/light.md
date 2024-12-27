@@ -1,5 +1,7 @@
 ---
-title: "Light"\ntagnames: 'hidden:response, response:13586'
+title: "Light"
+
+tagnames: 'hidden:response, response:13586'
 author: Mehamilton
 path: /notes/Mehamilton/10-19-2016/light.md
 nid: 13595
@@ -11,7 +13,7 @@ uid: 494880
 
 # Light
 
-by [Mehamilton](../profile/Mehamilton) | October 19, 2016 15:10
+by [Mehamilton](../../../profile/Mehamilton) | October 19, 2016 15:10
 
 October 19, 2016 15:10 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 

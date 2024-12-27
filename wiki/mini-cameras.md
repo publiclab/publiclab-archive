@@ -1,5 +1,7 @@
 ---
-title: "Mini Cameras"\ntagnames: 'infragram, gopro, mini-camera, gitup'
+title: "Mini Cameras"
+
+tagnames: 'infragram, gopro, mini-camera, gitup'
 author: warren
 path: /wiki/mini-cameras.md
 nid: 19404

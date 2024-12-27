@@ -1,5 +1,7 @@
 ---
-title: "Leptos: gas detection and monitoring station"\ntagnames: 'arduino, barcelona, spain, air-quality, espana, gas-sensor, air-monitoring, activity:open-air, gas-monitoring, grove, first-time-poster'
+title: "Leptos: gas detection and monitoring station"
+
+tagnames: 'arduino, barcelona, spain, air-quality, espana, gas-sensor, air-monitoring, activity:open-air, gas-monitoring, grove, first-time-poster'
 author: imvec
 path: /notes/imvec/10-20-2016/leptos-gas-detection-and-monitoring-station.md
 nid: 13630
@@ -11,7 +13,7 @@ uid: 495038
 
 # Leptos: gas detection and monitoring station
 
-by [imvec](../profile/imvec) | October 20, 2016 13:14
+by [imvec](../../../profile/imvec) | October 20, 2016 13:14
 
 October 20, 2016 13:14 | Tags: [arduino](../tag/arduino), [barcelona](../tag/barcelona), [spain](../tag/spain), [air-quality](../tag/air-quality), [espana](../tag/espana), [gas-sensor](../tag/gas-sensor), [air-monitoring](../tag/air-monitoring), [activity:open-air](../tag/activity:open-air), [gas-monitoring](../tag/gas-monitoring), [grove](../tag/grove), [first-time-poster](../tag/first-time-poster)
 

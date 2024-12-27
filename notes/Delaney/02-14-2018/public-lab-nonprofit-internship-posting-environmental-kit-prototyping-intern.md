@@ -1,5 +1,7 @@
 ---
-title: "Public Lab nonprofit internship posting: Environmental Kit Prototyping Intern"\ntagnames: 'kits, nonprofit, jobs, autodesk, prototyping-kits'
+title: "Public Lab nonprofit internship posting: Environmental Kit Prototyping Intern"
+
+tagnames: 'kits, nonprofit, jobs, autodesk, prototyping-kits'
 author: Delaney
 path: /notes/Delaney/02-14-2018/public-lab-nonprofit-internship-posting-environmental-kit-prototyping-intern.md
 nid: 15731
@@ -11,7 +13,7 @@ uid: 517173
 
 # Public Lab nonprofit internship posting: Environmental Kit Prototyping Intern
 
-by [Delaney](../profile/Delaney) | February 14, 2018 20:05
+by [Delaney](../../../profile/Delaney) | February 14, 2018 20:05
 
 February 14, 2018 20:05 | Tags: [kits](../tag/kits), [nonprofit](../tag/nonprofit), [jobs](../tag/jobs), [autodesk](../tag/autodesk), [prototyping-kits](../tag/prototyping-kits)
 

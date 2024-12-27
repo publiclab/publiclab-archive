@@ -1,5 +1,7 @@
 ---
-title: "Evolution of a Picavet"\ntagnames: 'near-infrared-camera, kite-mapping, picavet, kite-aerial-photography, photo-rig, activity:photo-rig, first-time-poster'
+title: "Evolution of a Picavet"
+
+tagnames: 'near-infrared-camera, kite-mapping, picavet, kite-aerial-photography, photo-rig, activity:photo-rig, first-time-poster'
 author: jbreen
 path: /notes/jbreen/3-6-2012/evolution-picavet.md
 nid: 897
@@ -11,7 +13,7 @@ uid: 326
 
 # Evolution of a Picavet
 
-by [jbreen](../profile/jbreen) | March 06, 2012 13:47
+by [jbreen](../../../profile/jbreen) | March 06, 2012 13:47
 
 March 06, 2012 13:47 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [picavet](../tag/picavet), [kite-aerial-photography](../tag/kite-aerial-photography), [photo-rig](../tag/photo-rig), [activity:photo-rig](../tag/activity:photo-rig), [first-time-poster](../tag/first-time-poster)
 

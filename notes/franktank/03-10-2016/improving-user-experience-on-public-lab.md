@@ -1,5 +1,7 @@
 ---
-title: "Rich Profile Pages on PublicLab.org - GSoC 2016"\ntagnames: 'software, gsoc, gsoc-2016, proposal, response:12827'
+title: "Rich Profile Pages on PublicLab.org - GSoC 2016"
+
+tagnames: 'software, gsoc, gsoc-2016, proposal, response:12827'
 author: Franktank
 path: /notes/franktank/03-10-2016/improving-user-experience-on-public-lab.md
 nid: 12824
@@ -9,7 +11,7 @@ uid: 468625
 
 # Rich Profile Pages on PublicLab.org - GSoC 2016
 
-by [Franktank](../profile/Franktank) | March 10, 2016 04:48
+by [Franktank](../../../profile/Franktank) | March 10, 2016 04:48
 
 March 10, 2016 04:48 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [gsoc-2016](../tag/gsoc-2016), [proposal](../tag/proposal), [response:12827](../tag/response:12827)
 

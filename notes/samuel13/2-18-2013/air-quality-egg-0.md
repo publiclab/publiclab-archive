@@ -1,5 +1,7 @@
 ---
-title: "air quality egg"\ntagnames: 'new-york-city, chcs'
+title: "air quality egg"
+
+tagnames: 'new-york-city, chcs'
 author: Samuel13
 path: /notes/samuel13/2-18-2013/air-quality-egg-0.md
 nid: 6038
@@ -11,7 +13,7 @@ uid: 50437
 
 # air quality egg
 
-by [Samuel13](../profile/Samuel13) | February 18, 2013 06:30
+by [Samuel13](../../../profile/Samuel13) | February 18, 2013 06:30
 
 February 18, 2013 06:30 | Tags: [new-york-city](../tag/new-york-city), [chcs](../tag/chcs)
 

@@ -1,5 +1,7 @@
 ---
-title: "a paper spectrometer design"\ntagnames: 'spectrometer, desktop-spectrometer, fold-up, dsk, oil-testing-kit, barnstar:photo-documentation, paper'
+title: "a paper spectrometer design"
+
+tagnames: 'spectrometer, desktop-spectrometer, fold-up, dsk, oil-testing-kit, barnstar:photo-documentation, paper'
 author: mathew
 path: /notes/mathew/11-07-2014/a-paper-spectrometer-design.md
 nid: 11324
@@ -11,7 +13,7 @@ uid: 4
 
 # a paper spectrometer design
 
-by [mathew](../profile/mathew) | November 07, 2014 21:27
+by [mathew](../../../profile/mathew) | November 07, 2014 21:27
 
 November 07, 2014 21:27 | Tags: [spectrometer](../tag/spectrometer), [desktop-spectrometer](../tag/desktop-spectrometer), [fold-up](../tag/fold-up), [dsk](../tag/dsk), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:photo-documentation](../tag/barnstar:photo-documentation), [paper](../tag/paper)
 

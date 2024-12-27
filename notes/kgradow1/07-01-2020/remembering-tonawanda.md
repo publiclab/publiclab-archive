@@ -1,5 +1,7 @@
 ---
-title: "Remembering Tonawanda"\ntagnames: 'epa, air-quality, history, blog, northeast, bucket-brigade, tonawanda, storytelling, lon:-71, with:jjcreedon, lat:42, zoom:6, bucket-monitor, lat:43.020334, lon:-78.880315, lat:43.020713, lon:-78.881835'
+title: "Remembering Tonawanda"
+
+tagnames: 'epa, air-quality, history, blog, northeast, bucket-brigade, tonawanda, storytelling, lon:-71, with:jjcreedon, lat:42, zoom:6, bucket-monitor, lat:43.020334, lon:-78.880315, lat:43.020713, lon:-78.881835'
 author: kgradow1
 path: /notes/kgradow1/07-01-2020/remembering-tonawanda.md
 nid: 24074
@@ -11,7 +13,7 @@ uid: 297929
 
 # Remembering Tonawanda
 
-by [kgradow1](../profile/kgradow1) | July 01, 2020 04:17
+by [kgradow1](../../../profile/kgradow1) | July 01, 2020 04:17
 
 July 01, 2020 04:17 | Tags: [epa](../tag/epa), [air-quality](../tag/air-quality), [history](../tag/history), [blog](../tag/blog), [northeast](../tag/northeast), [bucket-brigade](../tag/bucket-brigade), [tonawanda](../tag/tonawanda), [storytelling](../tag/storytelling), [lon:-71](../tag/lon:-71), [with:jjcreedon](../tag/with:jjcreedon), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [lat:43.020334](../tag/lat:43.020334), [lon:-78.880315](../tag/lon:-78.880315), [lat:43.020713](../tag/lat:43.020713), [lon:-78.881835](../tag/lon:-78.881835)
 

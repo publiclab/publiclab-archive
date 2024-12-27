@@ -1,5 +1,7 @@
 ---
-title: "Buy Instagram Followers"\ntagnames: ''
+title: "Buy Instagram Followers"
+
+tagnames: ''
 author: ShaneWeaver
 path: /wiki/buy-instagram-followers.md
 nid: 12054

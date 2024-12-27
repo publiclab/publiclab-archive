@@ -1,5 +1,7 @@
 ---
-title: "Controlled Testing with B&W Film Hydrogen Sulfide Detectors"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper'
+title: "Controlled Testing with B&W Film Hydrogen Sulfide Detectors"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, h2s-photopaper'
 author: jschaffr
 path: /notes/jschaffr/11-21-2011/controlled-testing-bw-film-hydrogen-sulfide-detectors.md
 nid: 575
@@ -11,7 +13,7 @@ uid: 315
 
 # Controlled Testing with B&W Film Hydrogen Sulfide Detectors
 
-by [jschaffr](../profile/jschaffr) | November 21, 2011 19:45
+by [jschaffr](../../../profile/jschaffr) | November 21, 2011 19:45
 
 November 21, 2011 19:45 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [h2s-photopaper](../tag/h2s-photopaper)
 

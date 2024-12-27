@@ -1,5 +1,7 @@
 ---
-title: "Research From the Barnraising"\ntagnames: 'barnraising, barnstar:excessive-enthusiasm, barnraising2014'
+title: "Research From the Barnraising"
+
+tagnames: 'barnraising, barnstar:excessive-enthusiasm, barnraising2014'
 author: kanarinka
 path: /notes/kanarinka/11-17-2014/research-from-the-barnraising.md
 nid: 11346
@@ -11,7 +13,7 @@ uid: 994
 
 # Research From the Barnraising
 
-by [kanarinka](../profile/kanarinka) | November 17, 2014 11:46
+by [kanarinka](../../../profile/kanarinka) | November 17, 2014 11:46
 
 November 17, 2014 11:46 | Tags: [barnraising](../tag/barnraising), [barnstar:excessive-enthusiasm](../tag/barnstar:excessive-enthusiasm), [barnraising2014](../tag/barnraising2014)
 

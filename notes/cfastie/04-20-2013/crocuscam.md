@@ -1,5 +1,7 @@
 ---
-title: "CrocusCam"\ntagnames: 'near-infrared-camera, nrg, ndvi, nir, vermont, infragram, plant-health, timelapse, category:observe, activity:timelapse, difficulty:hard, time:10h'
+title: "CrocusCam"
+
+tagnames: 'near-infrared-camera, nrg, ndvi, nir, vermont, infragram, plant-health, timelapse, category:observe, activity:timelapse, difficulty:hard, time:10h'
 author: cfastie
 path: /notes/cfastie/04-20-2013/crocuscam.md
 nid: 6924
@@ -11,7 +13,7 @@ uid: 554
 
 # CrocusCam
 
-by [cfastie](../profile/cfastie) | April 20, 2013 04:50
+by [cfastie](../../../profile/cfastie) | April 20, 2013 04:50
 
 April 20, 2013 04:50 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nrg](../tag/nrg), [ndvi](../tag/ndvi), [nir](../tag/nir), [vermont](../tag/vermont), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [timelapse](../tag/timelapse), [category:observe](../tag/category:observe), [activity:timelapse](../tag/activity:timelapse), [difficulty:hard](../tag/difficulty:hard), [time:10h](../tag/time:10h)
 

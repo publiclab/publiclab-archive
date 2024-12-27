@@ -1,5 +1,7 @@
 ---
-title: "Makezine"\ntagnames: ''
+title: "Makezine"
+
+tagnames: ''
 author: warren
 path: /wiki/makezine.md
 nid: 10556

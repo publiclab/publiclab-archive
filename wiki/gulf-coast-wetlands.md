@@ -1,5 +1,7 @@
 ---
-title: "Gulf Coast Wetlands "\ntagnames: ''
+title: "Gulf Coast Wetlands "
+
+tagnames: ''
 author: stevie
 path: /wiki/gulf-coast-wetlands.md
 nid: 12013

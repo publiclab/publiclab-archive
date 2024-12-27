@@ -1,5 +1,7 @@
 ---
-title: "Prototyping a kite for kids"\ntagnames: 'kite-mapping, new-hampshire, mylar, diy-kite, diy-kites, northeast, difficulty:easy, time:3h, category:build, kite-making, activity:kite-making, activity:kids, activity:education, activity:science-fair, activity:classroom, activity:field-studies'
+title: "Prototyping a kite for kids"
+
+tagnames: 'kite-mapping, new-hampshire, mylar, diy-kite, diy-kites, northeast, difficulty:easy, time:3h, category:build, kite-making, activity:kite-making, activity:kids, activity:education, activity:science-fair, activity:classroom, activity:field-studies'
 author: oscarbrett
 path: /notes/oscar-brett/7-26-2012/prototyping-kite-kids.md
 nid: 2960
@@ -11,7 +13,7 @@ uid: 409
 
 # Prototyping a kite for kids
 
-by [oscarbrett](../profile/oscarbrett) | July 26, 2012 15:03
+by [oscarbrett](../../../profile/oscarbrett) | July 26, 2012 15:03
 
 July 26, 2012 15:03 | Tags: [kite-mapping](../tag/kite-mapping), [new-hampshire](../tag/new-hampshire), [mylar](../tag/mylar), [diy-kite](../tag/diy-kite), [diy-kites](../tag/diy-kites), [northeast](../tag/northeast), [difficulty:easy](../tag/difficulty:easy), [time:3h](../tag/time:3h), [category:build](../tag/category:build), [kite-making](../tag/kite-making), [activity:kite-making](../tag/activity:kite-making), [activity:kids](../tag/activity:kids), [activity:education](../tag/activity:education), [activity:science-fair](../tag/activity:science-fair), [activity:classroom](../tag/activity:classroom), [activity:field-studies](../tag/activity:field-studies)
 

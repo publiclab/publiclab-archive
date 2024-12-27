@@ -1,5 +1,7 @@
 ---
-title: "do the work exactly"\ntagnames: 'ndvi, white-balance, question:ndvi'
+title: "do the work exactly"
+
+tagnames: 'ndvi, white-balance, question:ndvi'
 author: bruno
 path: /notes/bruno/07-09-2015/do-the-work-exactly.md
 nid: 12043
@@ -11,7 +13,7 @@ uid: 445183
 
 # do the work exactly
 
-by [bruno](../profile/bruno) | July 09, 2015 15:56
+by [bruno](../../../profile/bruno) | July 09, 2015 15:56
 
 July 09, 2015 15:56 | Tags: [ndvi](../tag/ndvi), [white-balance](../tag/white-balance), [question:ndvi](../tag/question:ndvi)
 

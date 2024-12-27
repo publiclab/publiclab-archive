@@ -1,5 +1,7 @@
 ---
-title: "Inviting others to join PLOTS"\ntagnames: 'community, licensing, open-hardware, cern-ohl'
+title: "Inviting others to join PLOTS"
+
+tagnames: 'community, licensing, open-hardware, cern-ohl'
 author: warren
 path: /notes/warren/4-17-2012/inviting-others-join-plots.md
 nid: 1693
@@ -11,7 +13,7 @@ uid: 1
 
 # Inviting others to join PLOTS
 
-by [warren](../profile/warren) | April 17, 2012 19:14
+by [warren](../../../profile/warren) | April 17, 2012 19:14
 
 April 17, 2012 19:14 | Tags: [community](../tag/community), [licensing](../tag/licensing), [open-hardware](../tag/open-hardware), [cern-ohl](../tag/cern-ohl)
 

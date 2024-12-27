@@ -1,5 +1,7 @@
 ---
-title: "DIY Aerial Imaging + Map Knitting workshop at Pratt Institute"\ntagnames: 'balloon-mapping, event, prattinstitute, green-infrastructures, pspd, pratt, replication:14022'
+title: "DIY Aerial Imaging + Map Knitting workshop at Pratt Institute"
+
+tagnames: 'balloon-mapping, event, prattinstitute, green-infrastructures, pspd, pratt, replication:14022'
 author: Pratt_GI
 path: /notes/prattgi/11-15-2012/diy-aerial-imaging-map-knitting-workshop-pratt-institute.md
 nid: 4921
@@ -9,7 +11,7 @@ uid: 45852
 
 # DIY Aerial Imaging + Map Knitting workshop at Pratt Institute
 
-by [Pratt_GI](../profile/Pratt_GI) | November 15, 2012 22:51
+by [Pratt_GI](../../../profile/Pratt_GI) | November 15, 2012 22:51
 
 November 15, 2012 22:51 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [prattinstitute](../tag/prattinstitute), [green-infrastructures](../tag/green-infrastructures), [pspd](../tag/pspd), [pratt](../tag/pratt), [replication:14022](../tag/replication:14022)
 

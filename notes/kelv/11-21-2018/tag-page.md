@@ -1,5 +1,7 @@
 ---
-title: "tag page"\ntagnames: 'first-time-poster'
+title: "tag page"
+
+tagnames: 'first-time-poster'
 author: kelv
 path: /notes/kelv/11-21-2018/tag-page.md
 nid: 17724
@@ -11,7 +13,7 @@ uid: 553553
 
 # tag page
 
-by [kelv](../profile/kelv) | November 21, 2018 11:39
+by [kelv](../../../profile/kelv) | November 21, 2018 11:39
 
 November 21, 2018 11:39 | Tags: [first-time-poster](../tag/first-time-poster)
 

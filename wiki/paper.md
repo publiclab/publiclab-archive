@@ -1,5 +1,7 @@
 ---
-title: "paper"\ntagnames: 'redirect:papercraft-spectrometer'
+title: "paper"
+
+tagnames: 'redirect:papercraft-spectrometer'
 author: warren
 path: /wiki/paper.md
 nid: 18197

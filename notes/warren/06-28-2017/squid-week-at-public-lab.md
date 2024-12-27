@@ -1,5 +1,7 @@
 ---
-title: "Squid Week at Public Lab!"\ntagnames: 'kite-mapping, kickstarter, kites, mini-kite-kit, squidweek, squid, cephalopods, octopus'
+title: "Squid Week at Public Lab!"
+
+tagnames: 'kite-mapping, kickstarter, kites, mini-kite-kit, squidweek, squid, cephalopods, octopus'
 author: warren
 path: /notes/warren/06-28-2017/squid-week-at-public-lab.md
 nid: 14590
@@ -11,7 +13,7 @@ uid: 1
 
 # Squid Week at Public Lab!
 
-by [warren](../profile/warren) | June 28, 2017 20:50
+by [warren](../../../profile/warren) | June 28, 2017 20:50
 
 June 28, 2017 20:50 | Tags: [kite-mapping](../tag/kite-mapping), [kickstarter](../tag/kickstarter), [kites](../tag/kites), [mini-kite-kit](../tag/mini-kite-kit), [squidweek](../tag/squidweek), [squid](../tag/squid), [cephalopods](../tag/cephalopods), [octopus](../tag/octopus)
 

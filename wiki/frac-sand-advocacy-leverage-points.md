@@ -1,5 +1,7 @@
 ---
-title: "Frac Sand Advocacy Leverage Points"\ntagnames: 'fracking, advocacy, parent:frac-sand, reclamation, mine-reclamation, mine-reclamation-advocacy'
+title: "Frac Sand Advocacy Leverage Points"
+
+tagnames: 'fracking, advocacy, parent:frac-sand, reclamation, mine-reclamation, mine-reclamation-advocacy'
 author: stevie
 path: /wiki/frac-sand-advocacy-leverage-points.md
 nid: 12684

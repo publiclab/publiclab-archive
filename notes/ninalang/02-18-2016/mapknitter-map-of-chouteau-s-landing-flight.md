@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of Chouteau's Landing Flight"\ntagnames: 'mapknitter, washu-stlouis, lat:38.5732832604, lon:-90.2307879925, missouri, first-time-poster'
+title: "MapKnitter map of Chouteau's Landing Flight"
+
+tagnames: 'mapknitter, washu-stlouis, lat:38.5732832604, lon:-90.2307879925, missouri, first-time-poster'
 author: ninalang
 path: /notes/ninalang/02-18-2016/mapknitter-map-of-chouteau-s-landing-flight.md
 nid: 12706
@@ -11,7 +13,7 @@ uid: 465986
 
 # MapKnitter map of Chouteau's Landing Flight
 
-by [ninalang](../profile/ninalang) | February 18, 2016 19:32
+by [ninalang](../../../profile/ninalang) | February 18, 2016 19:32
 
 February 18, 2016 19:32 | Tags: [mapknitter](../tag/mapknitter), [washu-stlouis](../tag/washu-stlouis), [lat:38.5732832604](../tag/lat:38.5732832604), [lon:-90.2307879925](../tag/lon:-90.2307879925), [missouri](../tag/missouri), [first-time-poster](../tag/first-time-poster)
 

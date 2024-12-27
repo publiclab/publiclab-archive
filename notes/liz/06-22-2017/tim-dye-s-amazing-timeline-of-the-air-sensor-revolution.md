@@ -1,5 +1,7 @@
 ---
-title: "Tim Dye's amazing timeline of the air sensor revolution"\ntagnames: 'air-quality'
+title: "Tim Dye's amazing timeline of the air sensor revolution"
+
+tagnames: 'air-quality'
 author: liz
 path: /notes/liz/06-22-2017/tim-dye-s-amazing-timeline-of-the-air-sensor-revolution.md
 nid: 14570
@@ -11,7 +13,7 @@ uid: 7
 
 # Tim Dye's amazing timeline of the air sensor revolution
 
-by [liz](../profile/liz) | June 22, 2017 14:14
+by [liz](../../../profile/liz) | June 22, 2017 14:14
 
 June 22, 2017 14:14 | Tags: [air-quality](../tag/air-quality)
 

@@ -1,5 +1,7 @@
 ---
-title: "Barataria 2014:  VI June 12th"\ntagnames: 'gulf-coast, balloon-mapping, barataria-bay, wetlands, louisiana, wetland, barataria, bp, patagonia, response:10336, place:barataria-bay, lat:29.45604, lon:-89.845504'
+title: "Barataria 2014:  VI June 12th"
+
+tagnames: 'gulf-coast, balloon-mapping, barataria-bay, wetlands, louisiana, wetland, barataria, bp, patagonia, response:10336, place:barataria-bay, lat:29.45604, lon:-89.845504'
 author: eustatic
 path: /06-13-2014/barataria-2014-vii-june-12th.md
 nid: 10570
@@ -11,7 +13,7 @@ uid: 379
 
 # Barataria 2014:  VI June 12th
 
-by [eustatic](../profile/eustatic) | June 13, 2014 18:38
+by [eustatic](../../../profile/eustatic) | June 13, 2014 18:38
 
 June 13, 2014 18:38 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [barataria-bay](../tag/barataria-bay), [wetlands](../tag/wetlands), [louisiana](../tag/louisiana), [wetland](../tag/wetland), [barataria](../tag/barataria), [bp](../tag/bp), [patagonia](../tag/patagonia), [response:10336](../tag/response:10336), [place:barataria-bay](../tag/place:barataria-bay), [lat:29.45604](../tag/lat:29.45604), [lon:-89.845504](../tag/lon:-89.845504)
 

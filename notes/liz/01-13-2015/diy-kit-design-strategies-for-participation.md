@@ -1,5 +1,7 @@
 ---
-title: "DIY Kit Design Strategies for participation"\ntagnames: 'collaboration, kits, participation, materials, design, with:mathew, prototyping, prototyping-kits, sourcing'
+title: "DIY Kit Design Strategies for participation"
+
+tagnames: 'collaboration, kits, participation, materials, design, with:mathew, prototyping, prototyping-kits, sourcing'
 author: liz
 path: /notes/liz/01-13-2015/diy-kit-design-strategies-for-participation.md
 nid: 11520
@@ -11,7 +13,7 @@ uid: 7
 
 # DIY Kit Design Strategies for participation
 
-by [liz](../profile/liz) | January 13, 2015 22:57
+by [liz](../../../profile/liz) | January 13, 2015 22:57
 
 January 13, 2015 22:57 | Tags: [collaboration](../tag/collaboration), [kits](../tag/kits), [participation](../tag/participation), [materials](../tag/materials), [design](../tag/design), [with:mathew](../tag/with:mathew), [prototyping](../tag/prototyping), [prototyping-kits](../tag/prototyping-kits), [sourcing](../tag/sourcing)
 

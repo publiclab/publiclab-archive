@@ -1,5 +1,7 @@
 ---
-title: "forward into the light"\ntagnames: ''
+title: "forward into the light"
+
+tagnames: ''
 author: sonofaquark
 path: /notes/sonofaquark/4-1-2013/forward-light.md
 nid: 6642
@@ -11,7 +13,7 @@ uid: 54330
 
 # forward into the light
 
-by [sonofaquark](../profile/sonofaquark) | April 01, 2013 22:48
+by [sonofaquark](../../../profile/sonofaquark) | April 01, 2013 22:48
 
 April 01, 2013 22:48 | Tags: 
 

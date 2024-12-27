@@ -1,5 +1,7 @@
 ---
-title: "Vienna Plants"\ntagnames: 'near-infrared-camera, ndvi, infragram, first-time-poster'
+title: "Vienna Plants"
+
+tagnames: 'near-infrared-camera, ndvi, infragram, first-time-poster'
 author: GreenLeaves
 path: /notes/GreenLeaves/07-04-2014/vienna-plants.md
 nid: 10652
@@ -9,7 +11,7 @@ uid: 425426
 
 # Vienna Plants
 
-by [GreenLeaves](../profile/GreenLeaves) | July 04, 2014 09:30
+by [GreenLeaves](../../../profile/GreenLeaves) | July 04, 2014 09:30
 
 July 04, 2014 09:30 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infragram](../tag/infragram), [first-time-poster](../tag/first-time-poster)
 

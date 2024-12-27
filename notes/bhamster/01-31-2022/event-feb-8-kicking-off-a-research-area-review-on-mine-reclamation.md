@@ -1,5 +1,7 @@
 ---
-title: "EVENT Feb. 8: Kicking off a research area review on mine reclamation"\ntagnames: 'event, mining, event:rsvp, reviews, research-area-review, research-curation-fellows-event, rsvp:pat, reclamation, with:laurel_mire, mine-reclamation, land-rehabilitation, rsvp:junior_walk1337'
+title: "EVENT Feb. 8: Kicking off a research area review on mine reclamation"
+
+tagnames: 'event, mining, event:rsvp, reviews, research-area-review, research-curation-fellows-event, rsvp:pat, reclamation, with:laurel_mire, mine-reclamation, land-rehabilitation, rsvp:junior_walk1337'
 author: bhamster
 path: /notes/bhamster/01-31-2022/event-feb-8-kicking-off-a-research-area-review-on-mine-reclamation.md
 nid: 29605
@@ -11,7 +13,7 @@ uid: 664477
 
 # EVENT Feb. 8: Kicking off a research area review on mine reclamation
 
-by [bhamster](../profile/bhamster) | January 31, 2022 16:28
+by [bhamster](../../../profile/bhamster) | January 31, 2022 16:28
 
 January 31, 2022 16:28 | Tags: [event](../tag/event), [mining](../tag/mining), [event:rsvp](../tag/event:rsvp), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [research-curation-fellows-event](../tag/research-curation-fellows-event), [rsvp:pat](../tag/rsvp:pat), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation), [land-rehabilitation](../tag/land-rehabilitation), [rsvp:junior_walk1337](../tag/rsvp:junior_walk1337)
 

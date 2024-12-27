@@ -1,5 +1,7 @@
 ---
-title: "Spectrometry notes"\ntagnames: ''
+title: "Spectrometry notes"
+
+tagnames: ''
 author: warren
 path: /wiki/spectrometry-notes.md
 nid: 76

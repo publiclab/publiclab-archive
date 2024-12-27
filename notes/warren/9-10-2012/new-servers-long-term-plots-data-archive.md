@@ -1,5 +1,7 @@
 ---
-title: "New servers for a long-term PLOTS data archive"\ntagnames: 'website, archive, webworkinggroup'
+title: "New servers for a long-term PLOTS data archive"
+
+tagnames: 'website, archive, webworkinggroup'
 author: warren
 path: /notes/warren/9-10-2012/new-servers-long-term-plots-data-archive.md
 nid: 3725
@@ -11,7 +13,7 @@ uid: 1
 
 # New servers for a long-term PLOTS data archive
 
-by [warren](../profile/warren) | September 11, 2012 02:10
+by [warren](../../../profile/warren) | September 11, 2012 02:10
 
 September 11, 2012 02:10 | Tags: [website](../tag/website), [archive](../tag/archive), [webworkinggroup](../tag/webworkinggroup)
 

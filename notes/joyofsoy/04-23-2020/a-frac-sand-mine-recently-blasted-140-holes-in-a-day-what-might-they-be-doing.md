@@ -1,5 +1,7 @@
 ---
-title: "A frac sand mine recently blasted 140 holes in a day. What might they be doing?"\ntagnames: 'mining, frac-sand, parent:frac-sand, question:general, general, question:mining, reclamation, flocculants'
+title: "A frac sand mine recently blasted 140 holes in a day. What might they be doing?"
+
+tagnames: 'mining, frac-sand, parent:frac-sand, question:general, general, question:mining, reclamation, flocculants'
 author: joyofsoy
 path: /notes/joyofsoy/04-23-2020/a-frac-sand-mine-recently-blasted-140-holes-in-a-day-what-might-they-be-doing.md
 nid: 23462
@@ -9,7 +11,7 @@ uid: 540844
 
 # A frac sand mine recently blasted 140 holes in a day. What might they be doing?
 
-by [joyofsoy](../profile/joyofsoy) | April 23, 2020 15:04
+by [joyofsoy](../../../profile/joyofsoy) | April 23, 2020 15:04
 
 April 23, 2020 15:04 | Tags: [mining](../tag/mining), [frac-sand](../tag/frac-sand), [parent:frac-sand](../tag/parent:frac-sand), [question:general](../tag/question:general), [general](../tag/general), [question:mining](../tag/question:mining), [reclamation](../tag/reclamation), [flocculants](../tag/flocculants)
 

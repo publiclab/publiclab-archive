@@ -1,5 +1,7 @@
 ---
-title: "Surveying by Drone, Need help with Cfastie's .lut Usage"\ntagnames: 'mapping, drone, college, shasta'
+title: "Surveying by Drone, Need help with Cfastie's .lut Usage"
+
+tagnames: 'mapping, drone, college, shasta'
 author: PatrickC
 path: /notes/PatrickC/03-09-2015/surveying-by-drone-ndvi-need-help-with-cfastie-s-lut-usage.md
 nid: 11663
@@ -11,7 +13,7 @@ uid: 431386
 
 # Surveying by Drone, Need help with Cfastie's .lut Usage
 
-by [PatrickC](../profile/PatrickC) | March 09, 2015 04:13
+by [PatrickC](../../../profile/PatrickC) | March 09, 2015 04:13
 
 March 09, 2015 04:13 | Tags: [mapping](../tag/mapping), [drone](../tag/drone), [college](../tag/college), [shasta](../tag/shasta)
 

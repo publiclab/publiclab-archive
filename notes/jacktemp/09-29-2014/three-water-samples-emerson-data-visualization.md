@@ -1,5 +1,7 @@
 ---
-title: "Three water samples — Emerson Data Visualization "\ntagnames: 'water-quality-monitoring, first-time-poster'
+title: "Three water samples — Emerson Data Visualization "
+
+tagnames: 'water-quality-monitoring, first-time-poster'
 author: jacktemp
 path: /notes/jacktemp/09-29-2014/three-water-samples-emerson-data-visualization.md
 nid: 11197
@@ -11,7 +13,7 @@ uid: 428016
 
 # Three water samples — Emerson Data Visualization 
 
-by [jacktemp](../profile/jacktemp) | September 29, 2014 00:40
+by [jacktemp](../../../profile/jacktemp) | September 29, 2014 00:40
 
 September 29, 2014 00:40 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [first-time-poster](../tag/first-time-poster)
 

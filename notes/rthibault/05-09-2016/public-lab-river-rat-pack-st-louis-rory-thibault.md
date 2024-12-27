@@ -1,5 +1,7 @@
 ---
-title: "Public Lab River Rat Pack -- St. Louis -- Rory Thibault"\ntagnames: 'balloon-mapping, washu-stlouis, publiclabriverratpack, antidrone, plrrp'
+title: "Public Lab River Rat Pack -- St. Louis -- Rory Thibault"
+
+tagnames: 'balloon-mapping, washu-stlouis, publiclabriverratpack, antidrone, plrrp'
 author: rthibault
 path: /notes/rthibault/05-09-2016/public-lab-river-rat-pack-st-louis-rory-thibault.md
 nid: 13096
@@ -11,7 +13,7 @@ uid: 465998
 
 # Public Lab River Rat Pack -- St. Louis -- Rory Thibault
 
-by [rthibault](../profile/rthibault) | May 09, 2016 21:35
+by [rthibault](../../../profile/rthibault) | May 09, 2016 21:35
 
 May 09, 2016 21:35 | Tags: [balloon-mapping](../tag/balloon-mapping), [washu-stlouis](../tag/washu-stlouis), [publiclabriverratpack](../tag/publiclabriverratpack), [antidrone](../tag/antidrone), [plrrp](../tag/plrrp)
 

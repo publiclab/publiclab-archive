@@ -1,5 +1,7 @@
 ---
-title: "A Wintry Kite Mapping at Cranston Print Works"\ntagnames: 'with:warren, csf, one-cranston, csf17'
+title: "A Wintry Kite Mapping at Cranston Print Works"
+
+tagnames: 'with:warren, csf, one-cranston, csf17'
 author: joyofsoy
 path: /notes/joyofsoy/10-04-2019/a-wintry-kite-mapping-at-cranston-print-works.md
 nid: 21078
@@ -11,7 +13,7 @@ uid: 540844
 
 # A Wintry Kite Mapping at Cranston Print Works
 
-by [joyofsoy](../profile/joyofsoy) | October 04, 2019 18:20
+by [joyofsoy](../../../profile/joyofsoy) | October 04, 2019 18:20
 
 October 04, 2019 18:20 | Tags: [with:warren](../tag/with:warren), [csf](../tag/csf), [one-cranston](../tag/one-cranston), [csf17](../tag/csf17)
 

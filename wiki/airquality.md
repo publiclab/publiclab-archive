@@ -1,5 +1,7 @@
 ---
-title: "airquality"\ntagnames: 'redirect:air-quality'
+title: "airquality"
+
+tagnames: 'redirect:air-quality'
 author: warren
 path: /wiki/airquality.md
 nid: 17283

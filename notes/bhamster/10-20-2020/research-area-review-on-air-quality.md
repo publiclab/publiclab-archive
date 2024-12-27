@@ -1,5 +1,7 @@
 ---
-title: "Research area review on air quality"\ntagnames: 'research, air-quality, bucket-brigade, reviews, simple-air-sensor, research-area-review, bucket-monitor'
+title: "Research area review on air quality"
+
+tagnames: 'research, air-quality, bucket-brigade, reviews, simple-air-sensor, research-area-review, bucket-monitor'
 author: bhamster
 path: /notes/bhamster/10-20-2020/research-area-review-on-air-quality.md
 nid: 24777
@@ -11,7 +13,7 @@ uid: 664477
 
 # Research area review on air quality
 
-by [bhamster](../profile/bhamster) | October 20, 2020 16:37
+by [bhamster](../../../profile/bhamster) | October 20, 2020 16:37
 
 October 20, 2020 16:37 | Tags: [research](../tag/research), [air-quality](../tag/air-quality), [bucket-brigade](../tag/bucket-brigade), [reviews](../tag/reviews), [simple-air-sensor](../tag/simple-air-sensor), [research-area-review](../tag/research-area-review), [bucket-monitor](../tag/bucket-monitor)
 

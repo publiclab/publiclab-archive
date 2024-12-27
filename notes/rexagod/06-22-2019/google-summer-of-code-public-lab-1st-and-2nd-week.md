@@ -1,5 +1,7 @@
 ---
-title: "Google Summer of Code @ Public Lab: 1st and 2nd Week"\ntagnames: 'gsoc, progress, soc, gsoc-2019, soc-2019'
+title: "Google Summer of Code @ Public Lab: 1st and 2nd Week"
+
+tagnames: 'gsoc, progress, soc, gsoc-2019, soc-2019'
 author: rexagod
 path: /notes/rexagod/06-22-2019/google-summer-of-code-public-lab-1st-and-2nd-week.md
 nid: 19814
@@ -9,7 +11,7 @@ uid: 564358
 
 # Google Summer of Code @ Public Lab: 1st and 2nd Week
 
-by [rexagod](../profile/rexagod) | June 22, 2019 21:03
+by [rexagod](../../../profile/rexagod) | June 22, 2019 21:03
 
 June 22, 2019 21:03 | Tags: [gsoc](../tag/gsoc), [progress](../tag/progress), [soc](../tag/soc), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019)
 

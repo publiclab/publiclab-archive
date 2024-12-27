@@ -1,5 +1,7 @@
 ---
-title: "SoCal Waste Stream Mapping at Learn Beyond the Book in Santa Clarita"\ntagnames: 'waste, transportation, traffic, val-verde, socalwastestream, blog:socalwastestream, activity:waste'
+title: "SoCal Waste Stream Mapping at Learn Beyond the Book in Santa Clarita"
+
+tagnames: 'waste, transportation, traffic, val-verde, socalwastestream, blog:socalwastestream, activity:waste'
 author: sarasage
 path: /notes/sarasage/10-28-2016/socal-waste-stream-mapping-at-learn-beyond-the-book-in-santa-clarita.md
 nid: 13661
@@ -11,7 +13,7 @@ uid: 451398
 
 # SoCal Waste Stream Mapping at Learn Beyond the Book in Santa Clarita
 
-by [sarasage](../profile/sarasage) | October 28, 2016 01:17
+by [sarasage](../../../profile/sarasage) | October 28, 2016 01:17
 
 October 28, 2016 01:17 | Tags: [waste](../tag/waste), [transportation](../tag/transportation), [traffic](../tag/traffic), [val-verde](../tag/val-verde), [socalwastestream](../tag/socalwastestream), [blog:socalwastestream](../tag/blog:socalwastestream), [activity:waste](../tag/activity:waste)
 

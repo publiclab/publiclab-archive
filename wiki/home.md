@@ -1,5 +1,7 @@
 ---
-title: "The Public Laboratory"\ntagnames: 'attachments, content, slider'
+title: "The Public Laboratory"
+
+tagnames: 'attachments, content, slider'
 author: warren
 path: /wiki/home.md
 nid: 1

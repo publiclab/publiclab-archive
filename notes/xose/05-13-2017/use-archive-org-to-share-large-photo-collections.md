@@ -1,5 +1,7 @@
 ---
-title: "Use Archive.org to share large photo collections"\ntagnames: 'photo-monitoring, barnstar:basic, difficulty:easy, activity:photo-sharing, archiving, archive.org'
+title: "Use Archive.org to share large photo collections"
+
+tagnames: 'photo-monitoring, barnstar:basic, difficulty:easy, activity:photo-sharing, archiving, archive.org'
 author: xose
 path: /notes/xose/05-13-2017/use-archive-org-to-share-large-photo-collections.md
 nid: 14188
@@ -11,7 +13,7 @@ uid: 497123
 
 # Use Archive.org to share large photo collections
 
-by [xose](../profile/xose) | May 13, 2017 14:57
+by [xose](../../../profile/xose) | May 13, 2017 14:57
 
 May 13, 2017 14:57 | Tags: [photo-monitoring](../tag/photo-monitoring), [barnstar:basic](../tag/barnstar:basic), [difficulty:easy](../tag/difficulty:easy), [activity:photo-sharing](../tag/activity:photo-sharing), [archiving](../tag/archiving), [archive.org](../tag/archive.org)
 

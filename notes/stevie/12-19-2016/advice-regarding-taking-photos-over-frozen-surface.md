@@ -1,5 +1,7 @@
 ---
-title: "Advice regarding taking photos over frozen surface?"\ntagnames: 'timelapse, answered, question:timelapse'
+title: "Advice regarding taking photos over frozen surface?"
+
+tagnames: 'timelapse, answered, question:timelapse'
 author: stevie
 path: /notes/stevie/12-19-2016/advice-regarding-taking-photos-over-frozen-surface.md
 nid: 13796
@@ -9,7 +11,7 @@ uid: 422561
 
 # Advice regarding taking photos over frozen surface?
 
-by [stevie](../profile/stevie) | December 19, 2016 21:00
+by [stevie](../../../profile/stevie) | December 19, 2016 21:00
 
 December 19, 2016 21:00 | Tags: [timelapse](../tag/timelapse), [answered](../tag/answered), [question:timelapse](../tag/question:timelapse)
 

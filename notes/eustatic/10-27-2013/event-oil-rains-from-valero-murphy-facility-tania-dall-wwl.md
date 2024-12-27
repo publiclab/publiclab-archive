@@ -1,5 +1,7 @@
 ---
-title: "[Event] Oil rains from Valero / Murphy facility  Tania Dall / WWL"\ntagnames: 'gulf-coast, louisiana, oil, flare, spill, valero, ioby'
+title: "[Event] Oil rains from Valero / Murphy facility  Tania Dall / WWL"
+
+tagnames: 'gulf-coast, louisiana, oil, flare, spill, valero, ioby'
 author: eustatic
 path: /10-27-2013/event-oil-rains-from-valero-murphy-facility-tania-dall-wwl.md
 nid: 9643
@@ -11,7 +13,7 @@ uid: 379
 
 # [Event] Oil rains from Valero / Murphy facility  Tania Dall / WWL
 
-by [eustatic](../profile/eustatic) | October 27, 2013 15:56
+by [eustatic](../../../profile/eustatic) | October 27, 2013 15:56
 
 October 27, 2013 15:56 | Tags: [gulf-coast](../tag/gulf-coast), [louisiana](../tag/louisiana), [oil](../tag/oil), [flare](../tag/flare), [spill](../tag/spill), [valero](../tag/valero), [ioby](../tag/ioby)
 

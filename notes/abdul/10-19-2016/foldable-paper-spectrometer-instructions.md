@@ -1,5 +1,7 @@
 ---
-title: "Assemble a DIY Papercraft Spectrometer"\ntagnames: 'spectrometer, spectralworkbench, assembly, kit, instructions, smartphone, foldable, papercraft, with:warren, spectral, smart, beginner, activity:spectrometry, activity:foldable-spec, category:build, status:complete, difficulty:introductory, time:10min, starter, starterkit, phone, printable'
+title: "Assemble a DIY Papercraft Spectrometer"
+
+tagnames: 'spectrometer, spectralworkbench, assembly, kit, instructions, smartphone, foldable, papercraft, with:warren, spectral, smart, beginner, activity:spectrometry, activity:foldable-spec, category:build, status:complete, difficulty:introductory, time:10min, starter, starterkit, phone, printable'
 author: abdul
 path: /notes/abdul/10-19-2016/foldable-paper-spectrometer-instructions.md
 nid: 13577
@@ -11,7 +13,7 @@ uid: 479194
 
 # Assemble a DIY Papercraft Spectrometer
 
-by [abdul](../profile/abdul) | October 19, 2016 00:22
+by [abdul](../../../profile/abdul) | October 19, 2016 00:22
 
 October 19, 2016 00:22 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [assembly](../tag/assembly), [kit](../tag/kit), [instructions](../tag/instructions), [smartphone](../tag/smartphone), [foldable](../tag/foldable), [papercraft](../tag/papercraft), [with:warren](../tag/with:warren), [spectral](../tag/spectral), [smart](../tag/smart), [beginner](../tag/beginner), [activity:spectrometry](../tag/activity:spectrometry), [activity:foldable-spec](../tag/activity:foldable-spec), [category:build](../tag/category:build), [status:complete](../tag/status:complete), [difficulty:introductory](../tag/difficulty:introductory), [time:10min](../tag/time:10min), [starter](../tag/starter), [starterkit](../tag/starterkit), [phone](../tag/phone), [printable](../tag/printable)
 

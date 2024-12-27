@@ -1,5 +1,7 @@
 ---
-title: "pH"\ntagnames: 'sensors, water-quality, water, ph, parent:water-quality, mine-water-ph'
+title: "pH"
+
+tagnames: 'sensors, water-quality, water, ph, parent:water-quality, mine-water-ph'
 author: warren
 path: /wiki/ph.md
 nid: 15307

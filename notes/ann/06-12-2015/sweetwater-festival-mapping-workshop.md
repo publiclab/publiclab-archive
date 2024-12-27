@@ -1,5 +1,7 @@
 ---
-title: "Sweetwater Festival Mapping Workshop"\ntagnames: 'balloon-mapping, event, canada, event:rsvp, northwest, date:06-13-2015, replication:14022'
+title: "Sweetwater Festival Mapping Workshop"
+
+tagnames: 'balloon-mapping, event, canada, event:rsvp, northwest, date:06-13-2015, replication:14022'
 author: ann
 path: /notes/ann/06-12-2015/sweetwater-festival-mapping-workshop.md
 nid: 11978
@@ -11,7 +13,7 @@ uid: 421543
 
 # Sweetwater Festival Mapping Workshop
 
-by [ann](../profile/ann) | June 12, 2015 23:40
+by [ann](../../../profile/ann) | June 12, 2015 23:40
 
 June 12, 2015 23:40 | Tags: [balloon-mapping](../tag/balloon-mapping), [event](../tag/event), [canada](../tag/canada), [event:rsvp](../tag/event:rsvp), [northwest](../tag/northwest), [date:06-13-2015](../tag/date:06-13-2015), [replication:14022](../tag/replication:14022)
 

@@ -1,5 +1,7 @@
 ---
-title: "Trail Cam: Stream/ Wetland Sedimentation"\ntagnames: 'sand, photo-monitoring, timelapse, water-quality, trail-camera, sedimentation, sand-mine, sand-mining, crenova, story:timelapse'
+title: "Trail Cam: Stream/ Wetland Sedimentation"
+
+tagnames: 'sand, photo-monitoring, timelapse, water-quality, trail-camera, sedimentation, sand-mine, sand-mining, crenova, story:timelapse'
 author: dswenson
 path: /notes/dswenson/02-26-2017/trail-cam-stream-wetland-sedimentation.md
 nid: 13964
@@ -11,7 +13,7 @@ uid: 501635
 
 # Trail Cam: Stream/ Wetland Sedimentation
 
-by [dswenson](../profile/dswenson) | February 26, 2017 18:51
+by [dswenson](../../../profile/dswenson) | February 26, 2017 18:51
 
 February 26, 2017 18:51 | Tags: [sand](../tag/sand), [photo-monitoring](../tag/photo-monitoring), [timelapse](../tag/timelapse), [water-quality](../tag/water-quality), [trail-camera](../tag/trail-camera), [sedimentation](../tag/sedimentation), [sand-mine](../tag/sand-mine), [sand-mining](../tag/sand-mining), [crenova](../tag/crenova), [story:timelapse](../tag/story:timelapse)
 

@@ -1,5 +1,7 @@
 ---
-title: "The United States has a lot of helpful databases to identify Environmental Justice communities, are there similar tools being used in Canada?  "\ntagnames: 'metrics, california, mapping, epa, health, canada, minnesota, environmental-justice, question:general, general, government, governance, environmental-health, washington, ejscreen, us-census, environmental-governance, legislative, judicial, executive-branch, administration'
+title: "The United States has a lot of helpful databases to identify Environmental Justice communities, are there similar tools being used in Canada?  "
+
+tagnames: 'metrics, california, mapping, epa, health, canada, minnesota, environmental-justice, question:general, general, government, governance, environmental-health, washington, ejscreen, us-census, environmental-governance, legislative, judicial, executive-branch, administration'
 author: amocorro
 path: /notes/amocorro/05-27-2021/the-united-states-has-a-lot-of-helpful-databases-to-identify-environmental-justice-communities-are-there-similar-tools-being-used-in-canada.md
 nid: 26728
@@ -9,7 +11,7 @@ uid: 700923
 
 # The United States has a lot of helpful databases to identify Environmental Justice communities, are there similar tools being used in Canada?  
 
-by [amocorro](../profile/amocorro) | May 27, 2021 19:50
+by [amocorro](../../../profile/amocorro) | May 27, 2021 19:50
 
 May 27, 2021 19:50 | Tags: [metrics](../tag/metrics), [california](../tag/california), [mapping](../tag/mapping), [epa](../tag/epa), [health](../tag/health), [canada](../tag/canada), [minnesota](../tag/minnesota), [environmental-justice](../tag/environmental-justice), [question:general](../tag/question:general), [general](../tag/general), [government](../tag/government), [governance](../tag/governance), [environmental-health](../tag/environmental-health), [washington](../tag/washington), [ejscreen](../tag/ejscreen), [us-census](../tag/us-census), [environmental-governance](../tag/environmental-governance), [legislative](../tag/legislative), [judicial](../tag/judicial), [executive-branch](../tag/executive-branch), [administration](../tag/administration)
 

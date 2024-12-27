@@ -1,5 +1,7 @@
 ---
-title: "Does leaving the dye on a DVD-R grating make any difference?"\ntagnames: 'spectrometer-design'
+title: "Does leaving the dye on a DVD-R grating make any difference?"
+
+tagnames: 'spectrometer-design'
 author: MrBumper
 path: /notes/MrBumper/02-04-2015/does-leaving-the-dye-on-a-dvd-r-grating-make-any-difference.md
 nid: 11552
@@ -11,7 +13,7 @@ uid: 432766
 
 # Does leaving the dye on a DVD-R grating make any difference?
 
-by [MrBumper](../profile/MrBumper) | February 04, 2015 14:00
+by [MrBumper](../../../profile/MrBumper) | February 04, 2015 14:00
 
 February 04, 2015 14:00 | Tags: [spectrometer-design](../tag/spectrometer-design)
 

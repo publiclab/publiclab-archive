@@ -1,5 +1,7 @@
 ---
-title: "Riffle Water Bottle Enclosure: rubber stopper w/hole + silicone sealant: > 8 weeks!"\ntagnames: 'sensors, water-quality, riffle, open-water, barnstar:empiricism, bottle, enclosure, activity:sensor-enclosures, water-sensors'
+title: "Riffle Water Bottle Enclosure: rubber stopper w/hole + silicone sealant: > 8 weeks!"
+
+tagnames: 'sensors, water-quality, riffle, open-water, barnstar:empiricism, bottle, enclosure, activity:sensor-enclosures, water-sensors'
 author: donblair
 path: /notes/donblair/10-31-2015/riffle-water-bottle-enclosure-rubber-stopper-w-hole-silicone-sealant-8-weeks.md
 nid: 12347
@@ -11,7 +13,7 @@ uid: 43651
 
 # Riffle Water Bottle Enclosure: rubber stopper w/hole + silicone sealant: > 8 weeks!
 
-by [donblair](../profile/donblair) | October 31, 2015 21:07
+by [donblair](../../../profile/donblair) | October 31, 2015 21:07
 
 October 31, 2015 21:07 | Tags: [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [open-water](../tag/open-water), [barnstar:empiricism](../tag/barnstar:empiricism), [bottle](../tag/bottle), [enclosure](../tag/enclosure), [activity:sensor-enclosures](../tag/activity:sensor-enclosures), [water-sensors](../tag/water-sensors)
 

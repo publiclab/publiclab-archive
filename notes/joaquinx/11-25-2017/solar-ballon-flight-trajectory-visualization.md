@@ -1,5 +1,7 @@
 ---
-title: "Solar ballon flight trajectory visualization"\ntagnames: 'solar-balloon, google-earth, data-collection, dataviz, aerocene, activity:solar-balloon, activity:hot-air-balloon, data-visualization'
+title: "Solar ballon flight trajectory visualization"
+
+tagnames: 'solar-balloon, google-earth, data-collection, dataviz, aerocene, activity:solar-balloon, activity:hot-air-balloon, data-visualization'
 author: joaquinx
 path: /notes/joaquinx/11-25-2017/solar-ballon-flight-trajectory-visualization.md
 nid: 15237
@@ -11,7 +13,7 @@ uid: 518981
 
 # Solar ballon flight trajectory visualization
 
-by [joaquinx](../profile/joaquinx) | November 25, 2017 11:30
+by [joaquinx](../../../profile/joaquinx) | November 25, 2017 11:30
 
 November 25, 2017 11:30 | Tags: [solar-balloon](../tag/solar-balloon), [google-earth](../tag/google-earth), [data-collection](../tag/data-collection), [dataviz](../tag/dataviz), [aerocene](../tag/aerocene), [activity:solar-balloon](../tag/activity:solar-balloon), [activity:hot-air-balloon](../tag/activity:hot-air-balloon), [data-visualization](../tag/data-visualization)
 

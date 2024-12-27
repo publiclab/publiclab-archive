@@ -1,5 +1,7 @@
 ---
-title: "Silica (frac) Sand Research"\ntagnames: 'wisconsin, air-quality, timelapse, transportation, fracking, silica, frac-sand, particle-monitoring, traffic, fracsand, parent:frac-sand, trapcam, first-time-poster'
+title: "Silica (frac) Sand Research"
+
+tagnames: 'wisconsin, air-quality, timelapse, transportation, fracking, silica, frac-sand, particle-monitoring, traffic, fracsand, parent:frac-sand, trapcam, first-time-poster'
 author: bkleist
 path: /notes/bkleist/08-30-2016/silica-frac-sand-research.md
 nid: 13406
@@ -11,7 +13,7 @@ uid: 489504
 
 # Silica (frac) Sand Research
 
-by [bkleist](../profile/bkleist) | August 30, 2016 17:20
+by [bkleist](../../../profile/bkleist) | August 30, 2016 17:20
 
 August 30, 2016 17:20 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [timelapse](../tag/timelapse), [transportation](../tag/transportation), [fracking](../tag/fracking), [silica](../tag/silica), [frac-sand](../tag/frac-sand), [particle-monitoring](../tag/particle-monitoring), [traffic](../tag/traffic), [fracsand](../tag/fracsand), [parent:frac-sand](../tag/parent:frac-sand), [trapcam](../tag/trapcam), [first-time-poster](../tag/first-time-poster)
 

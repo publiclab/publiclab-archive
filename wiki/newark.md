@@ -1,5 +1,7 @@
 ---
-title: "Newark, NJ"\ntagnames: 'newark, new-jersey, community-garden, garden, food, ironbound, elp, northeast, parent:northeast'
+title: "Newark, NJ"
+
+tagnames: 'newark, new-jersey, community-garden, garden, food, ironbound, elp, northeast, parent:northeast'
 author: liz
 path: /wiki/newark.md
 nid: 10455

@@ -1,5 +1,7 @@
 ---
-title: "curved grating"\ntagnames: 'spectrometer, question:spectrometer'
+title: "curved grating"
+
+tagnames: 'spectrometer, question:spectrometer'
 author: DarkGreen
 path: /notes/DarkGreen/03-29-2015/curved-grating.md
 nid: 11730
@@ -11,7 +13,7 @@ uid: 437492
 
 # curved grating
 
-by [DarkGreen](../profile/DarkGreen) | March 29, 2015 03:33
+by [DarkGreen](../../../profile/DarkGreen) | March 29, 2015 03:33
 
 March 29, 2015 03:33 | Tags: [spectrometer](../tag/spectrometer), [question:spectrometer](../tag/question:spectrometer)
 

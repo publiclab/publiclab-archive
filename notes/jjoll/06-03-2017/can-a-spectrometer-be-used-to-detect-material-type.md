@@ -1,5 +1,7 @@
 ---
-title: "Can a Spectrometer be used to detect material type?"\ntagnames: 'spectrometry, tool, question:spectrometry, question:general, method, chemicals, oil-and-gas, question:spectrometry-challenge, first-time-poster'
+title: "Can a Spectrometer be used to detect material type?"
+
+tagnames: 'spectrometry, tool, question:spectrometry, question:general, method, chemicals, oil-and-gas, question:spectrometry-challenge, first-time-poster'
 author: jjoll
 path: /notes/jjoll/06-03-2017/can-a-spectrometer-be-used-to-detect-material-type.md
 nid: 14499
@@ -9,7 +11,7 @@ uid: 508437
 
 # Can a Spectrometer be used to detect material type?
 
-by [jjoll](../profile/jjoll) | June 03, 2017 18:28
+by [jjoll](../../../profile/jjoll) | June 03, 2017 18:28
 
 June 03, 2017 18:28 | Tags: [spectrometry](../tag/spectrometry), [tool](../tag/tool), [question:spectrometry](../tag/question:spectrometry), [question:general](../tag/question:general), [method](../tag/method), [chemicals](../tag/chemicals), [oil-and-gas](../tag/oil-and-gas), [question:spectrometry-challenge](../tag/question:spectrometry-challenge), [first-time-poster](../tag/first-time-poster)
 

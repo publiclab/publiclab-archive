@@ -1,5 +1,7 @@
 ---
-title: "Anyone working on Meteor Detection/Tracking?"\ntagnames: 'question:general, general'
+title: "Anyone working on Meteor Detection/Tracking?"
+
+tagnames: 'question:general, general'
 author: MadTinker
 path: /notes/MadTinker/12-26-2020/anyone-working-on-meteor-detection-tracking.md
 nid: 25336
@@ -9,7 +11,7 @@ uid: 461206
 
 # Anyone working on Meteor Detection/Tracking?
 
-by [MadTinker](../profile/MadTinker) | December 26, 2020 23:51
+by [MadTinker](../../../profile/MadTinker) | December 26, 2020 23:51
 
 December 26, 2020 23:51 | Tags: [question:general](../tag/question:general), [general](../tag/general)
 

@@ -1,5 +1,7 @@
 ---
-title: "Possible problem with DIY Infragram camera or infrapix"\ntagnames: 'near-infrared-camera, ndvi, mailing-lists, infragram'
+title: "Possible problem with DIY Infragram camera or infrapix"
+
+tagnames: 'near-infrared-camera, ndvi, mailing-lists, infragram'
 author: ceefoster
 path: /notes/ceefoster/09-19-2013/possible-problem-with-diy-infragram-camera-or-infrapix.md
 nid: 9347
@@ -11,7 +13,7 @@ uid: 264459
 
 # Possible problem with DIY Infragram camera or infrapix
 
-by [ceefoster](../profile/ceefoster) | September 19, 2013 17:11
+by [ceefoster](../../../profile/ceefoster) | September 19, 2013 17:11
 
 September 19, 2013 17:11 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [mailing-lists](../tag/mailing-lists), [infragram](../tag/infragram)
 

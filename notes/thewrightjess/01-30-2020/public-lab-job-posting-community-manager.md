@@ -1,5 +1,7 @@
 ---
-title: "Job Posting: Community Manager"\ntagnames: 'community, development, jobs'
+title: "Job Posting: Community Manager"
+
+tagnames: 'community, development, jobs'
 author: thewrightjess
 path: /notes/thewrightjess/01-30-2020/public-lab-job-posting-community-manager.md
 nid: 22438
@@ -11,7 +13,7 @@ uid: 603909
 
 # Job Posting: Community Manager
 
-by [thewrightjess](../profile/thewrightjess) | January 30, 2020 18:53
+by [thewrightjess](../../../profile/thewrightjess) | January 30, 2020 18:53
 
 January 30, 2020 18:53 | Tags: [community](../tag/community), [development](../tag/development), [jobs](../tag/jobs)
 

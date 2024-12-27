@@ -1,5 +1,7 @@
 ---
-title: "Glossary"\ntagnames: 'community, citizen-science, evaluation, glossary, definitions, civic-science, parent:about, about'
+title: "Glossary"
+
+tagnames: 'community, citizen-science, evaluation, glossary, definitions, civic-science, parent:about, about'
 author: warren
 path: /wiki/glossary.md
 nid: 10454

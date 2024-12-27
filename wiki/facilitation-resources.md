@@ -1,5 +1,7 @@
 ---
-title: "Facilitation Resources"\ntagnames: 'parent:facilitation, facilitation'
+title: "Facilitation Resources"
+
+tagnames: 'parent:facilitation, facilitation'
 author: Shannon
 path: /wiki/facilitation-resources.md
 nid: 12217

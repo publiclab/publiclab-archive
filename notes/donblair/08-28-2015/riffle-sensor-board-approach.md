@@ -1,5 +1,7 @@
 ---
-title: "Riffle: sensor board approach"\ntagnames: 'riffle, open-water'
+title: "Riffle: sensor board approach"
+
+tagnames: 'riffle, open-water'
 author: donblair
 path: /notes/donblair/08-28-2015/riffle-sensor-board-approach.md
 nid: 12179
@@ -11,7 +13,7 @@ uid: 43651
 
 # Riffle: sensor board approach
 
-by [donblair](../profile/donblair) | August 28, 2015 15:08
+by [donblair](../../../profile/donblair) | August 28, 2015 15:08
 
 August 28, 2015 15:08 | Tags: [riffle](../tag/riffle), [open-water](../tag/open-water)
 

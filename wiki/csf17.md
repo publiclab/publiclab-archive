@@ -1,5 +1,7 @@
 ---
-title: "csf17"\ntagnames: 'redirect:326'
+title: "csf17"
+
+tagnames: 'redirect:326'
 author: joyofsoy
 path: /wiki/csf17.md
 nid: 21082

@@ -1,5 +1,7 @@
 ---
-title: "Kite Aerial Remote Sensing (KARS) - Thermal Infra-Red."\ntagnames: 'thermal-photography, kite-mapping, aerial-photography, archaeology, flir, thermography, kite-aerial-thermography, activity:thermal-photography'
+title: "Kite Aerial Remote Sensing (KARS) - Thermal Infra-Red."
+
+tagnames: 'thermal-photography, kite-mapping, aerial-photography, archaeology, flir, thermography, kite-aerial-thermography, activity:thermal-photography'
 author: John_Wells
 path: /notes/John_Wells/09-20-2016/kite-aerial-remote-sensing.md
 nid: 13464
@@ -11,7 +13,7 @@ uid: 372
 
 # Kite Aerial Remote Sensing (KARS) - Thermal Infra-Red.
 
-by [John_Wells](../profile/John_Wells) | September 20, 2016 02:18
+by [John_Wells](../../../profile/John_Wells) | September 20, 2016 02:18
 
 September 20, 2016 02:18 | Tags: [thermal-photography](../tag/thermal-photography), [kite-mapping](../tag/kite-mapping), [aerial-photography](../tag/aerial-photography), [archaeology](../tag/archaeology), [flir](../tag/flir), [thermography](../tag/thermography), [kite-aerial-thermography](../tag/kite-aerial-thermography), [activity:thermal-photography](../tag/activity:thermal-photography)
 

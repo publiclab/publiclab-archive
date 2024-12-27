@@ -1,5 +1,7 @@
 ---
-title: "Evaluation: Listen4Good round one results"\ntagnames: 'events, evaluation, listen4good'
+title: "Evaluation: Listen4Good round one results"
+
+tagnames: 'events, evaluation, listen4good'
 author: stevie
 path: /notes/stevie/02-09-2017/evaluation-listen4good-round-one-results.md
 nid: 13914
@@ -11,7 +13,7 @@ uid: 422561
 
 # Evaluation: Listen4Good round one results
 
-by [stevie](../profile/stevie) | February 09, 2017 18:48
+by [stevie](../../../profile/stevie) | February 09, 2017 18:48
 
 February 09, 2017 18:48 | Tags: [events](../tag/events), [evaluation](../tag/evaluation), [listen4good](../tag/listen4good)
 

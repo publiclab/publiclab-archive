@@ -1,5 +1,7 @@
 ---
-title: "Public Lab Fellows Program"\ntagnames: 'community, nonprofit, openair, openwater, fellows, openland, parent:nonprofit-initiatives, contribute'
+title: "Public Lab Fellows Program"
+
+tagnames: 'community, nonprofit, openair, openwater, fellows, openland, parent:nonprofit-initiatives, contribute'
 author: Shannon
 path: /wiki/fellows.md
 nid: 11712

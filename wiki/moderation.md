@@ -1,5 +1,7 @@
 ---
-title: "Moderation"\ntagnames: 'community, spam, moderation, lat:25, first-contribution, contribute'
+title: "Moderation"
+
+tagnames: 'community, spam, moderation, lat:25, first-contribution, contribute'
 author: warren
 path: /wiki/moderation.md
 nid: 12861

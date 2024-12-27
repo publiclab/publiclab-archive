@@ -1,5 +1,7 @@
 ---
-title: "Improved smartphone-friendly posting form designs: feedback welcome!"\ntagnames: 'design, style-guide, ui, one-cranston, onecranston, digital-impact, brown'
+title: "Improved smartphone-friendly posting form designs: feedback welcome!"
+
+tagnames: 'design, style-guide, ui, one-cranston, onecranston, digital-impact, brown'
 author: warren
 path: /notes/warren/09-23-2019/improved-smartphone-friendly-posting-form-designs-feedback-welcome.md
 nid: 20973
@@ -11,7 +13,7 @@ uid: 1
 
 # Improved smartphone-friendly posting form designs: feedback welcome!
 
-by [warren](../profile/warren) | September 23, 2019 17:02
+by [warren](../../../profile/warren) | September 23, 2019 17:02
 
 September 23, 2019 17:02 | Tags: [design](../tag/design), [style-guide](../tag/style-guide), [ui](../tag/ui), [one-cranston](../tag/one-cranston), [onecranston](../tag/onecranston), [digital-impact](../tag/digital-impact), [brown](../tag/brown)
 

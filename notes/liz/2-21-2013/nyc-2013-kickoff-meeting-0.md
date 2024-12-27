@@ -1,5 +1,7 @@
 ---
-title: "NYC 2013 kickoff meeting"\ntagnames: 'new-york-city, event'
+title: "NYC 2013 kickoff meeting"
+
+tagnames: 'new-york-city, event'
 author: liz
 path: /notes/liz/2-21-2013/nyc-2013-kickoff-meeting-0.md
 nid: 6077
@@ -11,7 +13,7 @@ uid: 7
 
 # NYC 2013 kickoff meeting
 
-by [liz](../profile/liz) | February 21, 2013 16:24
+by [liz](../../../profile/liz) | February 21, 2013 16:24
 
 February 21, 2013 16:24 | Tags: [new-york-city](../tag/new-york-city), [event](../tag/event)
 

@@ -1,5 +1,7 @@
 ---
-title: "??what's this?"\ntagnames: 'barnstar:basic'
+title: "??what's this?"
+
+tagnames: 'barnstar:basic'
 author: Leekanghyun
 path: /notes/Leekanghyun/03-20-2016/what-s-this.md
 nid: 12866
@@ -11,7 +13,7 @@ uid: 468891
 
 # ??what's this?
 
-by [Leekanghyun](../profile/Leekanghyun) | March 20, 2016 10:47
+by [Leekanghyun](../../../profile/Leekanghyun) | March 20, 2016 10:47
 
 March 20, 2016 10:47 | Tags: [barnstar:basic](../tag/barnstar:basic)
 

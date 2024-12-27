@@ -1,5 +1,7 @@
 ---
-title: "EPA hazard review of toxic chemicals stalled"\ntagnames: ''
+title: "EPA hazard review of toxic chemicals stalled"
+
+tagnames: ''
 author: Shannon
 path: /notes/shannon/9-18-2011/epa-hazard-review-toxic-chemicals-stalled.md
 nid: 469
@@ -9,7 +11,7 @@ uid: 9
 
 # EPA hazard review of toxic chemicals stalled
 
-by [Shannon](../profile/Shannon) | September 18, 2011 19:45
+by [Shannon](../../../profile/Shannon) | September 18, 2011 19:45
 
 September 18, 2011 19:45 | Tags: 
 

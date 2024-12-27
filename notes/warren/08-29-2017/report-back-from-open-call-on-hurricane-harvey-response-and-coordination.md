@@ -1,5 +1,7 @@
 ---
-title: "Report-back from Open Call on Hurricane Harvey response and coordination"\ntagnames: 'gulf-restoration-network, skytruth, hurricane, stormwater, mapmill, storm, opencall, coordinating, disaster-response, cartoscope, harvey, harvey-calls'
+title: "Report-back from Open Call on Hurricane Harvey response and coordination"
+
+tagnames: 'gulf-restoration-network, skytruth, hurricane, stormwater, mapmill, storm, opencall, coordinating, disaster-response, cartoscope, harvey, harvey-calls'
 author: warren
 path: /notes/warren/08-29-2017/report-back-from-open-call-on-hurricane-harvey-response-and-coordination.md
 nid: 14797
@@ -9,7 +11,7 @@ uid: 1
 
 # Report-back from Open Call on Hurricane Harvey response and coordination
 
-by [warren](../profile/warren) | August 29, 2017 20:10
+by [warren](../../../profile/warren) | August 29, 2017 20:10
 
 August 29, 2017 20:10 | Tags: [gulf-restoration-network](../tag/gulf-restoration-network), [skytruth](../tag/skytruth), [hurricane](../tag/hurricane), [stormwater](../tag/stormwater), [mapmill](../tag/mapmill), [storm](../tag/storm), [opencall](../tag/opencall), [coordinating](../tag/coordinating), [disaster-response](../tag/disaster-response), [cartoscope](../tag/cartoscope), [harvey](../tag/harvey), [harvey-calls](../tag/harvey-calls)
 

@@ -1,5 +1,7 @@
 ---
-title: "Ethylene Oxide Testing - Covington and Smyrna, GA"\ntagnames: 'georgia, air-quality, southeast, advocacy, study-design, community-organizing, air-sensors, first-time-poster, lat:33.610044, lon:-83.871222, ethylene-oxide'
+title: "Ethylene Oxide Testing - Covington and Smyrna, GA"
+
+tagnames: 'georgia, air-quality, southeast, advocacy, study-design, community-organizing, air-sensors, first-time-poster, lat:33.610044, lon:-83.871222, ethylene-oxide'
 author: gccummings25
 path: /notes/gccummings25/10-12-2019/ethylene-oxide-testing-covington-and-smyrna-ga.md
 nid: 21149
@@ -11,7 +13,7 @@ uid: 622597
 
 # Ethylene Oxide Testing - Covington and Smyrna, GA
 
-by [gccummings25](../profile/gccummings25) | October 12, 2019 20:34
+by [gccummings25](../../../profile/gccummings25) | October 12, 2019 20:34
 
 October 12, 2019 20:34 | Tags: [georgia](../tag/georgia), [air-quality](../tag/air-quality), [southeast](../tag/southeast), [advocacy](../tag/advocacy), [study-design](../tag/study-design), [community-organizing](../tag/community-organizing), [air-sensors](../tag/air-sensors), [first-time-poster](../tag/first-time-poster), [lat:33.610044](../tag/lat:33.610044), [lon:-83.871222](../tag/lon:-83.871222), [ethylene-oxide](../tag/ethylene-oxide)
 

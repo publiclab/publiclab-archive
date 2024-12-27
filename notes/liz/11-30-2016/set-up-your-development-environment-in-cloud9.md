@@ -1,5 +1,7 @@
 ---
-title: "Set up your development environment in Cloud9"\ntagnames: 'software, web, developers, wwg, activity:software'
+title: "Set up your development environment in Cloud9"
+
+tagnames: 'software, web, developers, wwg, activity:software'
 author: liz
 path: /notes/liz/11-30-2016/set-up-your-development-environment-in-cloud9.md
 nid: 13733
@@ -11,7 +13,7 @@ uid: 7
 
 # Set up your development environment in Cloud9
 
-by [liz](../profile/liz) | November 30, 2016 16:50
+by [liz](../../../profile/liz) | November 30, 2016 16:50
 
 November 30, 2016 16:50 | Tags: [software](../tag/software), [web](../tag/web), [developers](../tag/developers), [wwg](../tag/wwg), [activity:software](../tag/activity:software)
 

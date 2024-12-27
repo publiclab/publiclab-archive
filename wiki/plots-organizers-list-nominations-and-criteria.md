@@ -1,5 +1,7 @@
 ---
-title: ""PLOTS-organizers" list nominations and criteria"\ntagnames: ''
+title: ""PLOTS-organizers" list nominations and criteria"
+
+tagnames: ''
 author: warren
 path: /wiki/plots-organizers-list-nominations-and-criteria.md
 nid: 1860

@@ -1,5 +1,7 @@
 ---
-title: "Analizing the signal of the Coqui using Audacity"\ntagnames: 'water, coqui, gaimec, water-conductivity, activity:coqui-usage'
+title: "Analizing the signal of the Coqui using Audacity"
+
+tagnames: 'water, coqui, gaimec, water-conductivity, activity:coqui-usage'
 author: imvec
 path: /notes/imvec/06-11-2018/analizing-the-signal-of-the-coqui-using-audacity.md
 nid: 16465
@@ -11,7 +13,7 @@ uid: 495038
 
 # Analizing the signal of the Coqui using Audacity
 
-by [imvec](../profile/imvec) | June 11, 2018 17:34
+by [imvec](../../../profile/imvec) | June 11, 2018 17:34
 
 June 11, 2018 17:34 | Tags: [water](../tag/water), [coqui](../tag/coqui), [gaimec](../tag/gaimec), [water-conductivity](../tag/water-conductivity), [activity:coqui-usage](../tag/activity:coqui-usage)
 

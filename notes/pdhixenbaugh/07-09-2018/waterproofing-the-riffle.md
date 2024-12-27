@@ -1,5 +1,7 @@
 ---
-title: "Waterproofing the Riffle"\ntagnames: 'water-quality-monitoring, water-quality, riffle, waterquality, waterproofing, waterproof'
+title: "Waterproofing the Riffle"
+
+tagnames: 'water-quality-monitoring, water-quality, riffle, waterquality, waterproofing, waterproof'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/07-09-2018/waterproofing-the-riffle.md
 nid: 16670
@@ -11,7 +13,7 @@ uid: 459085
 
 # Waterproofing the Riffle
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) | July 09, 2018 21:10
+by [pdhixenbaugh](../../../profile/pdhixenbaugh) | July 09, 2018 21:10
 
 July 09, 2018 21:10 | Tags: [water-quality-monitoring](../tag/water-quality-monitoring), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [waterquality](../tag/waterquality), [waterproofing](../tag/waterproofing), [waterproof](../tag/waterproof)
 

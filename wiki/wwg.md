@@ -1,5 +1,7 @@
 ---
-title: "Web Working Group"\ntagnames: 'website, working-groups, web-working-group, wwg, parent:working-groups, parent:website'
+title: "Web Working Group"
+
+tagnames: 'website, working-groups, web-working-group, wwg, parent:working-groups, parent:website'
 author: warren
 path: /wiki/wwg.md
 nid: 15748

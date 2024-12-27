@@ -1,5 +1,7 @@
 ---
-title: "Use a rubber band and knotted string to trigger a camera"\ntagnames: 'balloon-mapping, kite-mapping, camera-triggering, cameras, timelapse, intervalometer, difficulty:easy, time:15m, category:build, activity:timelapse, activity:aerial-photography, status:complete, activity:photo-monitoring, activity:balloon-mapping, activity:camera-triggering, activity:bourjalshamali'
+title: "Use a rubber band and knotted string to trigger a camera"
+
+tagnames: 'balloon-mapping, kite-mapping, camera-triggering, cameras, timelapse, intervalometer, difficulty:easy, time:15m, category:build, activity:timelapse, activity:aerial-photography, status:complete, activity:photo-monitoring, activity:balloon-mapping, activity:camera-triggering, activity:bourjalshamali'
 author: mathew
 path: /notes/mathew/1-29-2012/using-knot-trigger-cameras.md
 nid: 724
@@ -11,7 +13,7 @@ uid: 4
 
 # Use a rubber band and knotted string to trigger a camera
 
-by [mathew](../profile/mathew) | January 30, 2012 03:53
+by [mathew](../../../profile/mathew) | January 30, 2012 03:53
 
 January 30, 2012 03:53 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [camera-triggering](../tag/camera-triggering), [cameras](../tag/cameras), [timelapse](../tag/timelapse), [intervalometer](../tag/intervalometer), [difficulty:easy](../tag/difficulty:easy), [time:15m](../tag/time:15m), [category:build](../tag/category:build), [activity:timelapse](../tag/activity:timelapse), [activity:aerial-photography](../tag/activity:aerial-photography), [status:complete](../tag/status:complete), [activity:photo-monitoring](../tag/activity:photo-monitoring), [activity:balloon-mapping](../tag/activity:balloon-mapping), [activity:camera-triggering](../tag/activity:camera-triggering), [activity:bourjalshamali](../tag/activity:bourjalshamali)
 

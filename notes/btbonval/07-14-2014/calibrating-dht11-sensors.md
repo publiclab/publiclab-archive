@@ -1,5 +1,7 @@
 ---
-title: "Calibrating DHT11 sensors"\ntagnames: 'arduino, calibration, temperature, sensors, data-collection, data, collection, humidity, dht11, dht22, dht12, dhtxx, rh, relative-humidity'
+title: "Calibrating DHT11 sensors"
+
+tagnames: 'arduino, calibration, temperature, sensors, data-collection, data, collection, humidity, dht11, dht22, dht12, dhtxx, rh, relative-humidity'
 author: btbonval
 path: /notes/btbonval/07-14-2014/calibrating-dht11-sensors.md
 nid: 10688
@@ -11,7 +13,7 @@ uid: 43229
 
 # Calibrating DHT11 sensors
 
-by [btbonval](../profile/btbonval) | July 14, 2014 16:30
+by [btbonval](../../../profile/btbonval) | July 14, 2014 16:30
 
 July 14, 2014 16:30 | Tags: [arduino](../tag/arduino), [calibration](../tag/calibration), [temperature](../tag/temperature), [sensors](../tag/sensors), [data-collection](../tag/data-collection), [data](../tag/data), [collection](../tag/collection), [humidity](../tag/humidity), [dht11](../tag/dht11), [dht22](../tag/dht22), [dht12](../tag/dht12), [dhtxx](../tag/dhtxx), [rh](../tag/rh), [relative-humidity](../tag/relative-humidity)
 

@@ -1,5 +1,7 @@
 ---
-title: "GSoC proposal: Email integration Project"\ntagnames: 'software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-email, gsoc-2018-final, first-time-poster'
+title: "GSoC proposal: Email integration Project"
+
+tagnames: 'software, gsoc, soc, response:13975, gsoc-2018, soc-2018, soc-2018-proposals, soc-2018-email, gsoc-2018-final, first-time-poster'
 author: namangupta
 path: /notes/namangupta/02-17-2018/gsoc-proposal.md
 nid: 15755
@@ -9,7 +11,7 @@ uid: 522848
 
 # GSoC proposal: Email integration Project
 
-by [namangupta](../profile/namangupta) | February 17, 2018 20:27
+by [namangupta](../../../profile/namangupta) | February 17, 2018 20:27
 
 February 17, 2018 20:27 | Tags: [software](../tag/software), [gsoc](../tag/gsoc), [soc](../tag/soc), [response:13975](../tag/response:13975), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [soc-2018-proposals](../tag/soc-2018-proposals), [soc-2018-email](../tag/soc-2018-email), [gsoc-2018-final](../tag/gsoc-2018-final), [first-time-poster](../tag/first-time-poster)
 

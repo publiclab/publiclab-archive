@@ -1,5 +1,7 @@
 ---
-title: "pole mapping kit ideas"\ntagnames: 'polemapping, pole-photography, pole-mapping'
+title: "pole mapping kit ideas"
+
+tagnames: 'polemapping, pole-photography, pole-mapping'
 author: tonyc
 path: /notes/tonyc/11-03-2015/pole-mapping-kit-ideas.md
 nid: 12360
@@ -11,7 +13,7 @@ uid: 447491
 
 # pole mapping kit ideas
 
-by [tonyc](../profile/tonyc) | November 03, 2015 23:40
+by [tonyc](../../../profile/tonyc) | November 03, 2015 23:40
 
 November 03, 2015 23:40 | Tags: [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pole-mapping](../tag/pole-mapping)
 

@@ -1,5 +1,7 @@
 ---
-title: "test picture 1 "\ntagnames: ''
+title: "test picture 1 "
+
+tagnames: ''
 author: Lajoal
 path: /notes/Lajoal/12-03-2014/test-picture-1.md
 nid: 11427
@@ -11,7 +13,7 @@ uid: 432272
 
 # test picture 1 
 
-by [Lajoal](../profile/Lajoal) | December 03, 2014 13:28
+by [Lajoal](../../../profile/Lajoal) | December 03, 2014 13:28
 
 December 03, 2014 13:28 | Tags: 
 

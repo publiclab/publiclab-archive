@@ -1,5 +1,7 @@
 ---
-title: "Particulate Matter and its influence on CoVID-19 and its mortality rate"\ntagnames: 'air-quality, sensors, lat:12.940322, lon:80.15625, zoom:6, covidimpact'
+title: "Particulate Matter and its influence on CoVID-19 and its mortality rate"
+
+tagnames: 'air-quality, sensors, lat:12.940322, lon:80.15625, zoom:6, covidimpact'
 author: silentsairam
 path: /notes/silentsairam/05-10-2020/particulate-matter-and-its-influence-on-covid-19-and-its-mortality-rate.md
 nid: 23595
@@ -11,7 +13,7 @@ uid: 553044
 
 # Particulate Matter and its influence on CoVID-19 and its mortality rate
 
-by [silentsairam](../profile/silentsairam) | May 10, 2020 17:57
+by [silentsairam](../../../profile/silentsairam) | May 10, 2020 17:57
 
 May 10, 2020 17:57 | Tags: [air-quality](../tag/air-quality), [sensors](../tag/sensors), [lat:12.940322](../tag/lat:12.940322), [lon:80.15625](../tag/lon:80.15625), [zoom:6](../tag/zoom:6), [covidimpact](../tag/covidimpact)
 

@@ -1,5 +1,7 @@
 ---
-title: "How to Get Street Trees for your Community"\ntagnames: 'new-york-city, organizing, trees, habitat, stormwater, climate-change, land-use, advocacy, draft, lon:-73, activity:new, lat:40, first-time-poster, cities, zoom:6, street-trees'
+title: "How to Get Street Trees for your Community"
+
+tagnames: 'new-york-city, organizing, trees, habitat, stormwater, climate-change, land-use, advocacy, draft, lon:-73, activity:new, lat:40, first-time-poster, cities, zoom:6, street-trees'
 author: WendyBrawer
 path: /notes/WendyBrawer/08-20-2019/how-to-get-street-trees-for-your-community.md
 nid: 20601
@@ -11,7 +13,7 @@ uid: 492399
 
 # How to Get Street Trees for your Community
 
-by [WendyBrawer](../profile/WendyBrawer) | August 20, 2019 20:11
+by [WendyBrawer](../../../profile/WendyBrawer) | August 20, 2019 20:11
 
 August 20, 2019 20:11 | Tags: [new-york-city](../tag/new-york-city), [organizing](../tag/organizing), [trees](../tag/trees), [habitat](../tag/habitat), [stormwater](../tag/stormwater), [climate-change](../tag/climate-change), [land-use](../tag/land-use), [advocacy](../tag/advocacy), [draft](../tag/draft), [lon:-73](../tag/lon:-73), [activity:new](../tag/activity:new), [lat:40](../tag/lat:40), [first-time-poster](../tag/first-time-poster), [cities](../tag/cities), [zoom:6](../tag/zoom:6), [street-trees](../tag/street-trees)
 

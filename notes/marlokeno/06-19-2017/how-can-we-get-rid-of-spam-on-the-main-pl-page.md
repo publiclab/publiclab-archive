@@ -1,5 +1,7 @@
 ---
-title: "How can we get rid of spam on the main PL page?"\ntagnames: 'spam, moderation, question:question, question:moderation, question:spam'
+title: "How can we get rid of spam on the main PL page?"
+
+tagnames: 'spam, moderation, question:question, question:moderation, question:spam'
 author: marlokeno
 path: /notes/marlokeno/06-19-2017/how-can-we-get-rid-of-spam-on-the-main-pl-page.md
 nid: 14557
@@ -9,7 +11,7 @@ uid: 420760
 
 # How can we get rid of spam on the main PL page?
 
-by [marlokeno](../profile/marlokeno) | June 19, 2017 20:19
+by [marlokeno](../../../profile/marlokeno) | June 19, 2017 20:19
 
 June 19, 2017 20:19 | Tags: [spam](../tag/spam), [moderation](../tag/moderation), [question:question](../tag/question:question), [question:moderation](../tag/question:moderation), [question:spam](../tag/question:spam)
 

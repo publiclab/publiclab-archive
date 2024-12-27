@@ -1,5 +1,7 @@
 ---
-title: "Invite someone to translate on Transifex (managers)"\ntagnames: 'community, website, activity, localization, translation, language, activity:localization-managers'
+title: "Invite someone to translate on Transifex (managers)"
+
+tagnames: 'community, website, activity, localization, translation, language, activity:localization-managers'
 author: liz
 path: /notes/liz/10-26-2016/how-to-invite-someone-to-translate-on-transifex.md
 nid: 13649
@@ -11,7 +13,7 @@ uid: 7
 
 # Invite someone to translate on Transifex (managers)
 
-by [liz](../profile/liz) | October 26, 2016 14:52
+by [liz](../../../profile/liz) | October 26, 2016 14:52
 
 October 26, 2016 14:52 | Tags: [community](../tag/community), [website](../tag/website), [activity](../tag/activity), [localization](../tag/localization), [translation](../tag/translation), [language](../tag/language), [activity:localization-managers](../tag/activity:localization-managers)
 

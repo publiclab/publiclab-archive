@@ -1,5 +1,7 @@
 ---
-title: "Security/privacy best practices for data and devices"\ntagnames: 'security, locked, privacy, risk, parent:privacy'
+title: "Security/privacy best practices for data and devices"
+
+tagnames: 'security, locked, privacy, risk, parent:privacy'
 author: warren
 path: /wiki/security.md
 nid: 17805

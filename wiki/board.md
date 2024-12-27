@@ -1,5 +1,7 @@
 ---
-title: "Board of Directors"\ntagnames: 'nonprofit, board, parent:about, locked, nosidebar'
+title: "Board of Directors"
+
+tagnames: 'nonprofit, board, parent:about, locked, nosidebar'
 author: warren
 path: /wiki/board.md
 nid: 9731

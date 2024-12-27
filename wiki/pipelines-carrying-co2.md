@@ -1,5 +1,7 @@
 ---
-title: "pipelines-carrying-CO2"\ntagnames: ''
+title: "pipelines-carrying-CO2"
+
+tagnames: ''
 author: Pat
 path: /wiki/pipelines-carrying-co2.md
 nid: 30537

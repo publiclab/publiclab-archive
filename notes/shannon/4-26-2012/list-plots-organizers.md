@@ -1,5 +1,7 @@
 ---
-title: "A list for “plots-organizers”"\ntagnames: 'community'
+title: "A list for “plots-organizers”"
+
+tagnames: 'community'
 author: Shannon
 path: /notes/shannon/4-26-2012/list-plots-organizers.md
 nid: 1806
@@ -9,7 +11,7 @@ uid: 9
 
 # A list for “plots-organizers”
 
-by [Shannon](../profile/Shannon) | April 26, 2012 21:56
+by [Shannon](../../../profile/Shannon) | April 26, 2012 21:56
 
 April 26, 2012 21:56 | Tags: [community](../tag/community)
 

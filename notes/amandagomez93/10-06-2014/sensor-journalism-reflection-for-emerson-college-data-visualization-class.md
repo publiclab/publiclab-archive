@@ -1,5 +1,7 @@
 ---
-title: "Sensor Journalism Reflection for Emerson College Data Visualization Class"\ntagnames: ''
+title: "Sensor Journalism Reflection for Emerson College Data Visualization Class"
+
+tagnames: ''
 author: amandagomez93
 path: /notes/amandagomez93/10-06-2014/sensor-journalism-reflection-for-emerson-college-data-visualization-class.md
 nid: 11232
@@ -9,7 +11,7 @@ uid: 428015
 
 # Sensor Journalism Reflection for Emerson College Data Visualization Class
 
-by [amandagomez93](../profile/amandagomez93) | October 06, 2014 01:40
+by [amandagomez93](../../../profile/amandagomez93) | October 06, 2014 01:40
 
 October 06, 2014 01:40 | Tags: 
 

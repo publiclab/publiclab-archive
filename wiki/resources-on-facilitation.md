@@ -1,5 +1,7 @@
 ---
-title: "Resources on Facilitation"\ntagnames: 'community, parent:facilitation, resources-on-facilitation, facilitation, redirect:11486'
+title: "Resources on Facilitation"
+
+tagnames: 'community, parent:facilitation, resources-on-facilitation, facilitation, redirect:11486'
 author: wward1400
 path: /wiki/resources-on-facilitation.md
 nid: 11453

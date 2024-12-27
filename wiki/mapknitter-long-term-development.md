@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter Long-Term Development"\ntagnames: 'mapknitter, developers, coding, mapknitter-development, parent:mapknitter'
+title: "MapKnitter Long-Term Development"
+
+tagnames: 'mapknitter, developers, coding, mapknitter-development, parent:mapknitter'
 author: justinmanley
 path: /wiki/mapknitter-long-term-development.md
 nid: 11164

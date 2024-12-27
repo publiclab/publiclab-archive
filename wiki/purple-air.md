@@ -1,5 +1,7 @@
 ---
-title: "purple-air"\ntagnames: 'redirect:purpleair'
+title: "purple-air"
+
+tagnames: 'redirect:purpleair'
 author: warren
 path: /wiki/purple-air.md
 nid: 19108

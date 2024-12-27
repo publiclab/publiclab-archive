@@ -1,5 +1,7 @@
 ---
-title: "HELP! Cannot see any live video or take pictures."\ntagnames: 'android, wifi-camera, raspberry-pi-infragram, question:raspberry-pi-infragram, question:android, first-time-poster'
+title: "HELP! Cannot see any live video or take pictures."
+
+tagnames: 'android, wifi-camera, raspberry-pi-infragram, question:raspberry-pi-infragram, question:android, first-time-poster'
 author: JorgeHM
 path: /notes/JorgeHM/03-25-2021/help-cannot-see-any-live-video-or-take-pictures.md
 nid: 26029
@@ -9,7 +11,7 @@ uid: 750126
 
 # HELP! Cannot see any live video or take pictures.
 
-by [JorgeHM](../profile/JorgeHM) | March 25, 2021 18:10
+by [JorgeHM](../../../profile/JorgeHM) | March 25, 2021 18:10
 
 March 25, 2021 18:10 | Tags: [android](../tag/android), [wifi-camera](../tag/wifi-camera), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [question:raspberry-pi-infragram](../tag/question:raspberry-pi-infragram), [question:android](../tag/question:android), [first-time-poster](../tag/first-time-poster)
 

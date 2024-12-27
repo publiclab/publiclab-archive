@@ -1,5 +1,7 @@
 ---
-title: "Funding sources for science teachers"\ntagnames: 'fundraising, parent:fundraising'
+title: "Funding sources for science teachers"
+
+tagnames: 'fundraising, parent:fundraising'
 author: JSummers
 path: /wiki/funding-sources-for-science-teachers.md
 nid: 11576

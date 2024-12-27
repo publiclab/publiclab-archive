@@ -1,5 +1,7 @@
 ---
-title: "Testing PhotosynQ in a greenhouse"\ntagnames: 'photosynq, category:measure'
+title: "Testing PhotosynQ in a greenhouse"
+
+tagnames: 'photosynq, category:measure'
 author: gbathree
 path: /notes/gbathree/01-20-2014/testing-photosynq-in-a-greenhouse.md
 nid: 9960
@@ -11,7 +13,7 @@ uid: 53164
 
 # Testing PhotosynQ in a greenhouse
 
-by [gbathree](../profile/gbathree) | January 20, 2014 16:50
+by [gbathree](../../../profile/gbathree) | January 20, 2014 16:50
 
 January 20, 2014 16:50 | Tags: [photosynq](../tag/photosynq), [category:measure](../tag/category:measure)
 

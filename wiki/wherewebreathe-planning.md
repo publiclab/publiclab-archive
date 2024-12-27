@@ -1,5 +1,7 @@
 ---
-title: "WhereWeBreathe Planning"\ntagnames: 'wherewebreathe, parent:wherewebreathe'
+title: "WhereWeBreathe Planning"
+
+tagnames: 'wherewebreathe, parent:wherewebreathe'
 author: warren
 path: /wiki/wherewebreathe-planning.md
 nid: 10555

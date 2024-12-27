@@ -1,5 +1,7 @@
 ---
-title: "Minivol PM monitoring deployment"\ntagnames: 'air-quality, dust, silica, pm, particle-sensing, pm-monitoring, minivol, activity:minivol'
+title: "Minivol PM monitoring deployment"
+
+tagnames: 'air-quality, dust, silica, pm, particle-sensing, pm-monitoring, minivol, activity:minivol'
 author: mathew
 path: /notes/mathew/02-02-2017/minivol-pm-monitoring-deployment.md
 nid: 13899
@@ -11,7 +13,7 @@ uid: 4
 
 # Minivol PM monitoring deployment
 
-by [mathew](../profile/mathew) | February 02, 2017 21:07
+by [mathew](../../../profile/mathew) | February 02, 2017 21:07
 
 February 02, 2017 21:07 | Tags: [air-quality](../tag/air-quality), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [particle-sensing](../tag/particle-sensing), [pm-monitoring](../tag/pm-monitoring), [minivol](../tag/minivol), [activity:minivol](../tag/activity:minivol)
 

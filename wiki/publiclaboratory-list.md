@@ -1,5 +1,7 @@
 ---
-title: "publiclaboratory list"\ntagnames: 'mailing-lists'
+title: "publiclaboratory list"
+
+tagnames: 'mailing-lists'
 author: warren
 path: /wiki/publiclaboratory-list.md
 nid: 5852

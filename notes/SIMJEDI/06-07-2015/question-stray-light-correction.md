@@ -1,5 +1,7 @@
 ---
-title: "Question: Stray light correction"\ntagnames: 'question:spectrometer, question:spectral-workbench'
+title: "Question: Stray light correction"
+
+tagnames: 'question:spectrometer, question:spectral-workbench'
 author: SIMJEDI
 path: /notes/SIMJEDI/06-07-2015/question-stray-light-correction.md
 nid: 11953
@@ -9,7 +11,7 @@ uid: 443196
 
 # Question: Stray light correction
 
-by [SIMJEDI](../profile/SIMJEDI) | June 07, 2015 20:25
+by [SIMJEDI](../../../profile/SIMJEDI) | June 07, 2015 20:25
 
 June 07, 2015 20:25 | Tags: [question:spectrometer](../tag/question:spectrometer), [question:spectral-workbench](../tag/question:spectral-workbench)
 

@@ -1,5 +1,7 @@
 ---
-title: "Open Institute presentation on facilitating community science"\ntagnames: 'open-source, community, presentations, talk, eu, facilitation, madeira, slides, portugal, openness'
+title: "Open Institute presentation on facilitating community science"
+
+tagnames: 'open-source, community, presentations, talk, eu, facilitation, madeira, slides, portugal, openness'
 author: warren
 path: /notes/warren/12-20-2017/open-institute-presentation-on-facilitating-community-science.md
 nid: 15401
@@ -11,7 +13,7 @@ uid: 1
 
 # Open Institute presentation on facilitating community science
 
-by [warren](../profile/warren) | December 20, 2017 10:05
+by [warren](../../../profile/warren) | December 20, 2017 10:05
 
 December 20, 2017 10:05 | Tags: [open-source](../tag/open-source), [community](../tag/community), [presentations](../tag/presentations), [talk](../tag/talk), [eu](../tag/eu), [facilitation](../tag/facilitation), [madeira](../tag/madeira), [slides](../tag/slides), [portugal](../tag/portugal), [openness](../tag/openness)
 

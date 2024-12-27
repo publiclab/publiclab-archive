@@ -1,5 +1,7 @@
 ---
-title: "State of the Map, my slides & notes"\ntagnames: 'balloon-mapping, grassrootsmapping, kite-aerial-photography, open-street-map, osm'
+title: "State of the Map, my slides & notes"
+
+tagnames: 'balloon-mapping, grassrootsmapping, kite-aerial-photography, open-street-map, osm'
 author: mathew
 path: /wiki/state-map-my-slides-notes.md
 nid: 4420

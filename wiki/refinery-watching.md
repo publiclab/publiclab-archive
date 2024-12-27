@@ -1,5 +1,7 @@
 ---
-title: "Refinery Watching"\ntagnames: 'spectrometer, particulate-sensing, industrial-monitoring, flame-spectroscopy, photo-monitoring, refinery, air-quality, flare, tool, ioby, industry, method, chemicals, oil-and-gas, parent:photo-monitoring'
+title: "Refinery Watching"
+
+tagnames: 'spectrometer, particulate-sensing, industrial-monitoring, flame-spectroscopy, photo-monitoring, refinery, air-quality, flare, tool, ioby, industry, method, chemicals, oil-and-gas, parent:photo-monitoring'
 author: danbeavers
 path: /wiki/refinery-watching.md
 nid: 9827

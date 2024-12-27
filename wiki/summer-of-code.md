@@ -1,5 +1,7 @@
 ---
-title: "Summer of Code"\ntagnames: 'website, software, gsoc, web, parent:developers, wwg, soc, parent:website'
+title: "Summer of Code"
+
+tagnames: 'website, software, gsoc, web, parent:developers, wwg, soc, parent:website'
 author: warren
 path: /wiki/summer-of-code.md
 nid: 14816

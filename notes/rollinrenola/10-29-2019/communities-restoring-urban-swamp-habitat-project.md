@@ -1,5 +1,7 @@
 ---
-title: "Communities Restoring Urban Swamp Habitat Project"\ntagnames: 'lat:1.010689, lon:9.997558, oil-and-gas-water-trio'
+title: "Communities Restoring Urban Swamp Habitat Project"
+
+tagnames: 'lat:1.010689, lon:9.997558, oil-and-gas-water-trio'
 author: rollinrenola
 path: /notes/rollinrenola/10-29-2019/communities-restoring-urban-swamp-habitat-project.md
 nid: 21322
@@ -11,7 +13,7 @@ uid: 618903
 
 # Communities Restoring Urban Swamp Habitat Project
 
-by [rollinrenola](../profile/rollinrenola) | October 29, 2019 01:20
+by [rollinrenola](../../../profile/rollinrenola) | October 29, 2019 01:20
 
 October 29, 2019 01:20 | Tags: [lat:1.010689](../tag/lat:1.010689), [lon:9.997558](../tag/lon:9.997558), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio)
 

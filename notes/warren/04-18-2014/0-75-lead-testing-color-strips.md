@@ -1,5 +1,7 @@
 ---
-title: "$0.75 lead testing color strips"\ntagnames: 'soil, kit, lead, strip, lead-testing, lead-kits'
+title: "$0.75 lead testing color strips"
+
+tagnames: 'soil, kit, lead, strip, lead-testing, lead-kits'
 author: warren
 path: /notes/warren/04-18-2014/0-75-lead-testing-color-strips.md
 nid: 10328
@@ -11,7 +13,7 @@ uid: 1
 
 # $0.75 lead testing color strips
 
-by [warren](../profile/warren) | April 18, 2014 22:41
+by [warren](../../../profile/warren) | April 18, 2014 22:41
 
 April 18, 2014 22:41 | Tags: [soil](../tag/soil), [kit](../tag/kit), [lead](../tag/lead), [strip](../tag/strip), [lead-testing](../tag/lead-testing), [lead-kits](../tag/lead-kits)
 

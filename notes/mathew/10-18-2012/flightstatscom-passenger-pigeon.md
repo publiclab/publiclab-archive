@@ -1,5 +1,7 @@
 ---
-title: "Flightstats.com for Passenger Pigeon"\ntagnames: 'mapknitter, passenger-pigeon, flightstats, activity:passenger-pigeon'
+title: "Flightstats.com for Passenger Pigeon"
+
+tagnames: 'mapknitter, passenger-pigeon, flightstats, activity:passenger-pigeon'
 author: mathew
 path: /notes/mathew/10-18-2012/flightstatscom-passenger-pigeon.md
 nid: 4483
@@ -11,7 +13,7 @@ uid: 4
 
 # Flightstats.com for Passenger Pigeon
 
-by [mathew](../profile/mathew) | October 19, 2012 00:22
+by [mathew](../../../profile/mathew) | October 19, 2012 00:22
 
 October 19, 2012 00:22 | Tags: [mapknitter](../tag/mapknitter), [passenger-pigeon](../tag/passenger-pigeon), [flightstats](../tag/flightstats), [activity:passenger-pigeon](../tag/activity:passenger-pigeon)
 

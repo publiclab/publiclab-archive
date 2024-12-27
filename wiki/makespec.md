@@ -1,5 +1,7 @@
 ---
-title: "makespec"\ntagnames: 'redirect:papercraft-spectrometer'
+title: "makespec"
+
+tagnames: 'redirect:papercraft-spectrometer'
 author: warren
 path: /wiki/makespec.md
 nid: 20643

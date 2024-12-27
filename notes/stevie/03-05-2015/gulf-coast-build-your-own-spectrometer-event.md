@@ -1,5 +1,7 @@
 ---
-title: "Gulf Coast: Build your own spectrometer event! "\ntagnames: 'gulf-coast, spectrometer, event, gulfcoast, oiltesting, spec-3'
+title: "Gulf Coast: Build your own spectrometer event! "
+
+tagnames: 'gulf-coast, spectrometer, event, gulfcoast, oiltesting, spec-3'
 author: stevie
 path: /notes/stevie/03-05-2015/gulf-coast-build-your-own-spectrometer-event.md
 nid: 11657
@@ -11,7 +13,7 @@ uid: 422561
 
 # Gulf Coast: Build your own spectrometer event! 
 
-by [stevie](../profile/stevie) | March 05, 2015 18:38
+by [stevie](../../../profile/stevie) | March 05, 2015 18:38
 
 March 05, 2015 18:38 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [event](../tag/event), [gulfcoast](../tag/gulfcoast), [oiltesting](../tag/oiltesting), [spec-3](../tag/spec-3)
 

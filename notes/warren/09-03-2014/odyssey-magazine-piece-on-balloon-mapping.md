@@ -1,5 +1,7 @@
 ---
-title: "Odyssey magazine piece on Balloon Mapping"\ntagnames: 'balloon-mapping, media, press, odyssey, magazine'
+title: "Odyssey magazine piece on Balloon Mapping"
+
+tagnames: 'balloon-mapping, media, press, odyssey, magazine'
 author: warren
 path: /notes/warren/09-03-2014/odyssey-magazine-piece-on-balloon-mapping.md
 nid: 11100
@@ -11,7 +13,7 @@ uid: 1
 
 # Odyssey magazine piece on Balloon Mapping
 
-by [warren](../profile/warren) | September 03, 2014 18:34
+by [warren](../../../profile/warren) | September 03, 2014 18:34
 
 September 03, 2014 18:34 | Tags: [balloon-mapping](../tag/balloon-mapping), [media](../tag/media), [press](../tag/press), [odyssey](../tag/odyssey), [magazine](../tag/magazine)
 

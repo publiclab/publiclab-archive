@@ -1,5 +1,7 @@
 ---
-title: "Solar Powered Air Quality Sensor"\ntagnames: 'air-quality, cellular, dustduino, dust-monitoring, solar, gsm, shinyei, activity:dustduino, activity:pm, activity:arduino, replication:9818, activity:pm-monitoring, activity:dust, activity:sensors, activity:air-quality, activity:data-logging-power, air-sensors'
+title: "Solar Powered Air Quality Sensor"
+
+tagnames: 'air-quality, cellular, dustduino, dust-monitoring, solar, gsm, shinyei, activity:dustduino, activity:pm, activity:arduino, replication:9818, activity:pm-monitoring, activity:dust, activity:sensors, activity:air-quality, activity:data-logging-power, air-sensors'
 author: nicholas
 path: /notes/nicholas/12-22-2014/solar-powered-air-quality-sensor.md
 nid: 11492
@@ -11,7 +13,7 @@ uid: 53894
 
 # Solar Powered Air Quality Sensor
 
-by [nicholas](../profile/nicholas) | December 22, 2014 18:44
+by [nicholas](../../../profile/nicholas) | December 22, 2014 18:44
 
 December 22, 2014 18:44 | Tags: [air-quality](../tag/air-quality), [cellular](../tag/cellular), [dustduino](../tag/dustduino), [dust-monitoring](../tag/dust-monitoring), [solar](../tag/solar), [gsm](../tag/gsm), [shinyei](../tag/shinyei), [activity:dustduino](../tag/activity:dustduino), [activity:pm](../tag/activity:pm), [activity:arduino](../tag/activity:arduino), [replication:9818](../tag/replication:9818), [activity:pm-monitoring](../tag/activity:pm-monitoring), [activity:dust](../tag/activity:dust), [activity:sensors](../tag/activity:sensors), [activity:air-quality](../tag/activity:air-quality), [activity:data-logging-power](../tag/activity:data-logging-power), [air-sensors](../tag/air-sensors)
 

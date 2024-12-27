@@ -1,5 +1,7 @@
 ---
-title: "affiliates"\ntagnames: 'retail'
+title: "affiliates"
+
+tagnames: 'retail'
 author: liz
 path: /wiki/affiliates.md
 nid: 7747

@@ -1,5 +1,7 @@
 ---
-title: "Placematters.org launches balloon with iPhone attached"\ntagnames: ''
+title: "Placematters.org launches balloon with iPhone attached"
+
+tagnames: ''
 author: warren
 path: /notes/warren/4-28-2011/placemattersorg-launches-balloon-iphone-attached.md
 nid: 203
@@ -9,7 +11,7 @@ uid: 1
 
 # Placematters.org launches balloon with iPhone attached
 
-by [warren](../profile/warren) | April 28, 2011 23:31
+by [warren](../../../profile/warren) | April 28, 2011 23:31
 
 April 28, 2011 23:31 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Introducing new inline LEL power tags"\ntagnames: 'mapping, leaflet, location:blurred, lat:28, lon:77, leaflet-environmental-layers'
+title: "Introducing new inline LEL power tags"
+
+tagnames: 'mapping, leaflet, location:blurred, lat:28, lon:77, leaflet-environmental-layers'
 author: sagarpreet
 path: /notes/sagarpreet/12-17-2019/introducing-new-inline-lel-power-tags.md
 nid: 21773
@@ -11,7 +13,7 @@ uid: 516343
 
 # Introducing new inline LEL power tags
 
-by [sagarpreet](../profile/sagarpreet) | December 17, 2019 05:20
+by [sagarpreet](../../../profile/sagarpreet) | December 17, 2019 05:20
 
 December 17, 2019 05:20 | Tags: [mapping](../tag/mapping), [leaflet](../tag/leaflet), [location:blurred](../tag/location:blurred), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [leaflet-environmental-layers](../tag/leaflet-environmental-layers)
 

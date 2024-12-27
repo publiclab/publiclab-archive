@@ -1,5 +1,7 @@
 ---
-title: "Oil Testing Workshops"\ntagnames: 'workshop, workshops, oil-testing-kit, parent:diy-oil-testing'
+title: "Oil Testing Workshops"
+
+tagnames: 'workshop, workshops, oil-testing-kit, parent:diy-oil-testing'
 author: liz
 path: /wiki/oil-testing-workshops.md
 nid: 12655

@@ -1,5 +1,7 @@
 ---
-title: "Lifting capacity of PL balloon kit?"\ntagnames: 'balloon-mapping'
+title: "Lifting capacity of PL balloon kit?"
+
+tagnames: 'balloon-mapping'
 author: emjay
 path: /notes/emjay/2-20-2013/lifting-capacity-pl-balloon-kit.md
 nid: 6073
@@ -11,7 +13,7 @@ uid: 51038
 
 # Lifting capacity of PL balloon kit?
 
-by [emjay](../profile/emjay) | February 21, 2013 01:07
+by [emjay](../../../profile/emjay) | February 21, 2013 01:07
 
 February 21, 2013 01:07 | Tags: [balloon-mapping](../tag/balloon-mapping)
 

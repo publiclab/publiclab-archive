@@ -1,5 +1,7 @@
 ---
-title: "400nm LED variance thru 10w40 mtr oil in Quartz cuvette"\ntagnames: 'response:12818'
+title: "400nm LED variance thru 10w40 mtr oil in Quartz cuvette"
+
+tagnames: 'response:12818'
 author: dhaffnersr
 path: /notes/dhaffnersr/03-10-2016/400nm-led-variance-thru-10w40-mtr-oil-in-quartz-cuvette.md
 nid: 12826
@@ -11,7 +13,7 @@ uid: 461120
 
 # 400nm LED variance thru 10w40 mtr oil in Quartz cuvette
 
-by [dhaffnersr](../profile/dhaffnersr) | March 10, 2016 17:38
+by [dhaffnersr](../../../profile/dhaffnersr) | March 10, 2016 17:38
 
 March 10, 2016 17:38 | Tags: [response:12818](../tag/response:12818)
 

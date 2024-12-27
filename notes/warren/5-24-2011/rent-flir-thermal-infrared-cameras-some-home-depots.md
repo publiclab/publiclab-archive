@@ -1,5 +1,7 @@
 ---
-title: "Rent FLIR thermal infrared cameras at some Home Depots"\ntagnames: 'thermal-photography, flir, activity:thermal-photography'
+title: "Rent FLIR thermal infrared cameras at some Home Depots"
+
+tagnames: 'thermal-photography, flir, activity:thermal-photography'
 author: warren
 path: /notes/warren/5-24-2011/rent-flir-thermal-infrared-cameras-some-home-depots.md
 nid: 294
@@ -11,7 +13,7 @@ uid: 1
 
 # Rent FLIR thermal infrared cameras at some Home Depots
 
-by [warren](../profile/warren) | May 25, 2011 03:52
+by [warren](../../../profile/warren) | May 25, 2011 03:52
 
 May 25, 2011 03:52 | Tags: [thermal-photography](../tag/thermal-photography), [flir](../tag/flir), [activity:thermal-photography](../tag/activity:thermal-photography)
 

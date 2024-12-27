@@ -1,5 +1,7 @@
 ---
-title: "Dart balloon 1967"\ntagnames: 'kite-balloon-hybrid'
+title: "Dart balloon 1967"
+
+tagnames: 'kite-balloon-hybrid'
 author: liz
 path: /notes/liz/1-31-2013/dart-balloon-1967.md
 nid: 5831
@@ -11,7 +13,7 @@ uid: 7
 
 # Dart balloon 1967
 
-by [liz](../profile/liz) | January 31, 2013 23:02
+by [liz](../../../profile/liz) | January 31, 2013 23:02
 
 January 31, 2013 23:02 | Tags: [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
 

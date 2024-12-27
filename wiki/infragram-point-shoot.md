@@ -1,5 +1,7 @@
 ---
-title: "Infragram Point & Shoot"\ntagnames: 'infragram, parent:infragram'
+title: "Infragram Point & Shoot"
+
+tagnames: 'infragram, parent:infragram'
 author: warren
 path: /wiki/infragram-point-shoot.md
 nid: 10634

@@ -1,5 +1,7 @@
 ---
-title: "GSoC 2020 Proposal – Implementation of better printability of posts and wiki pages"\ntagnames: 'content, soc, project, location:blurred, lat:44, first-time-poster, soc-2020-proposals, soc-2020-proposal, abstract, lon:8, place:italy'
+title: "GSoC 2020 Proposal – Implementation of better printability of posts and wiki pages"
+
+tagnames: 'content, soc, project, location:blurred, lat:44, first-time-poster, soc-2020-proposals, soc-2020-proposal, abstract, lon:8, place:italy'
 author: susannadiv
 path: /notes/susannadiv/03-10-2020/gsoc-2020-proposal-implementation-of-better-printability-of-posts-and-wiki-pages.md
 nid: 23115
@@ -11,7 +13,7 @@ uid: 670493
 
 # GSoC 2020 Proposal – Implementation of better printability of posts and wiki pages
 
-by [susannadiv](../profile/susannadiv) | March 10, 2020 17:11
+by [susannadiv](../../../profile/susannadiv) | March 10, 2020 17:11
 
 March 10, 2020 17:11 | Tags: [content](../tag/content), [soc](../tag/soc), [project](../tag/project), [location:blurred](../tag/location:blurred), [lat:44](../tag/lat:44), [first-time-poster](../tag/first-time-poster), [soc-2020-proposals](../tag/soc-2020-proposals), [soc-2020-proposal](../tag/soc-2020-proposal), [abstract](../tag/abstract), [lon:8](../tag/lon:8), [place:italy](../tag/place:italy)
 

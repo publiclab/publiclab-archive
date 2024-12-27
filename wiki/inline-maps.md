@@ -1,5 +1,7 @@
 ---
-title: "Inline maps"\ntagnames: 'power-tags, parent:power-tags'
+title: "Inline maps"
+
+tagnames: 'power-tags, parent:power-tags'
 author: warren
 path: /wiki/inline-maps.md
 nid: 14171

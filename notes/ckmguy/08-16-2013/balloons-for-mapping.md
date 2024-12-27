@@ -1,5 +1,7 @@
 ---
-title: "Balloons for Mapping"\ntagnames: 'balloon-mapping, kite-balloon-hybrid'
+title: "Balloons for Mapping"
+
+tagnames: 'balloon-mapping, kite-balloon-hybrid'
 author: ckmguy
 path: /notes/ckmguy/08-16-2013/balloons-for-mapping.md
 nid: 9027
@@ -11,7 +13,7 @@ uid: 194238
 
 # Balloons for Mapping
 
-by [ckmguy](../profile/ckmguy) | August 16, 2013 20:45
+by [ckmguy](../../../profile/ckmguy) | August 16, 2013 20:45
 
 August 16, 2013 20:45 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-balloon-hybrid](../tag/kite-balloon-hybrid)
 

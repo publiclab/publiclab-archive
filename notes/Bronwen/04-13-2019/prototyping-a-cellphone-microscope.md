@@ -1,5 +1,7 @@
 ---
-title: "Prototyping A Cellphone Microscope"\ntagnames: 'kits, water-quality, prototyping, prototyping-kit, community-kits, community-microscope, lat:40.660203, lon:-73.968955, cellphone-microscope'
+title: "Prototyping A Cellphone Microscope"
+
+tagnames: 'kits, water-quality, prototyping, prototyping-kit, community-kits, community-microscope, lat:40.660203, lon:-73.968955, cellphone-microscope'
 author: Bronwen
 path: /notes/Bronwen/04-13-2019/prototyping-a-cellphone-microscope.md
 nid: 19050
@@ -11,7 +13,7 @@ uid: 237313
 
 # Prototyping A Cellphone Microscope
 
-by [Bronwen](../profile/Bronwen) | April 13, 2019 14:20
+by [Bronwen](../../../profile/Bronwen) | April 13, 2019 14:20
 
 April 13, 2019 14:20 | Tags: [kits](../tag/kits), [water-quality](../tag/water-quality), [prototyping](../tag/prototyping), [prototyping-kit](../tag/prototyping-kit), [community-kits](../tag/community-kits), [community-microscope](../tag/community-microscope), [lat:40.660203](../tag/lat:40.660203), [lon:-73.968955](../tag/lon:-73.968955), [cellphone-microscope](../tag/cellphone-microscope)
 

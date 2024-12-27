@@ -1,5 +1,7 @@
 ---
-title: "Baseline comparisons using .09mm slit UV flashlight and UV laser pointer"\ntagnames: 'fluorescence, led, oil-testing-kit, barnstar:basic, 405nm, 395nm, response:12716'
+title: "Baseline comparisons using .09mm slit UV flashlight and UV laser pointer"
+
+tagnames: 'fluorescence, led, oil-testing-kit, barnstar:basic, 405nm, 395nm, response:12716'
 author: dhaffnersr
 path: /notes/dhaffnersr/02-23-2016/baseline-comparisons-using-09mm-slit-uv-flashlight-and-uv-laser-pointer.md
 nid: 12722
@@ -11,7 +13,7 @@ uid: 461120
 
 # Baseline comparisons using .09mm slit UV flashlight and UV laser pointer
 
-by [dhaffnersr](../profile/dhaffnersr) | February 23, 2016 17:20
+by [dhaffnersr](../../../profile/dhaffnersr) | February 23, 2016 17:20
 
 February 23, 2016 17:20 | Tags: [fluorescence](../tag/fluorescence), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [405nm](../tag/405nm), [395nm](../tag/395nm), [response:12716](../tag/response:12716)
 

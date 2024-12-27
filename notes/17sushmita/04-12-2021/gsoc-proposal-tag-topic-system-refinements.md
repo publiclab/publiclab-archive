@@ -1,5 +1,7 @@
 ---
-title: "GSoC Proposal : Tag/Topic System Refinements"\ntagnames: 'gsoc, location:blurred, lat:28, lon:77, place:india, first-time-poster, zoom:6, gsoc-2021-proposals'
+title: "GSoC Proposal : Tag/Topic System Refinements"
+
+tagnames: 'gsoc, location:blurred, lat:28, lon:77, place:india, first-time-poster, zoom:6, gsoc-2021-proposals'
 author: 17sushmita
 path: /notes/17sushmita/04-12-2021/gsoc-proposal-tag-topic-system-refinements.md
 nid: 26208
@@ -11,7 +13,7 @@ uid: 741338
 
 # GSoC Proposal : Tag/Topic System Refinements
 
-by [17sushmita](../profile/17sushmita) | April 12, 2021 22:32
+by [17sushmita](../../../profile/17sushmita) | April 12, 2021 22:32
 
 April 12, 2021 22:32 | Tags: [gsoc](../tag/gsoc), [location:blurred](../tag/location:blurred), [lat:28](../tag/lat:28), [lon:77](../tag/lon:77), [place:india](../tag/place:india), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [gsoc-2021-proposals](../tag/gsoc-2021-proposals)
 

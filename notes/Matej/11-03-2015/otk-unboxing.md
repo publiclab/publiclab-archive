@@ -1,5 +1,7 @@
 ---
-title: "OTK Unboxing"\ntagnames: 'spectrometry, unboxing, otk'
+title: "OTK Unboxing"
+
+tagnames: 'spectrometry, unboxing, otk'
 author: Matej
 path: /notes/Matej/11-03-2015/otk-unboxing.md
 nid: 12359
@@ -11,7 +13,7 @@ uid: 451808
 
 # OTK Unboxing
 
-by [Matej](../profile/Matej) | November 03, 2015 17:58
+by [Matej](../../../profile/Matej) | November 03, 2015 17:58
 
 November 03, 2015 17:58 | Tags: [spectrometry](../tag/spectrometry), [unboxing](../tag/unboxing), [otk](../tag/otk)
 

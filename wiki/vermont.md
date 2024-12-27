@@ -1,5 +1,7 @@
 ---
-title: "Vermont"\ntagnames: 'vermont, events:vermont, place, chapter, lon:-73.1085, lat:43.97391, tabbed:notes, tabbed:wikis, parent:northeast, notes:vermont'
+title: "Vermont"
+
+tagnames: 'vermont, events:vermont, place, chapter, lon:-73.1085, lat:43.97391, tabbed:notes, tabbed:wikis, parent:northeast, notes:vermont'
 author: Shannon
 path: /wiki/vermont.md
 nid: 3686

@@ -1,5 +1,7 @@
 ---
-title: "Mexico City"\ntagnames: ''
+title: "Mexico City"
+
+tagnames: ''
 author: adam-griffith
 path: /wiki/mexico-city.md
 nid: 526

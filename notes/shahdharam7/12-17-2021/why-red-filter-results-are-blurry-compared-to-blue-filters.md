@@ -1,5 +1,7 @@
 ---
-title: "Why Red filter results are blurry compared to Blue filters?"\ntagnames: 'ndvi, infrared, filter, infragram, red, question:ndvi, question:infragram, blue, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster'
+title: "Why Red filter results are blurry compared to Blue filters?"
+
+tagnames: 'ndvi, infrared, filter, infragram, red, question:ndvi, question:infragram, blue, question:infrared, question:multispectral-imaging, multispectral-imaging, first-time-poster'
 author: shahdharam7
 path: /notes/shahdharam7/12-17-2021/why-red-filter-results-are-blurry-compared-to-blue-filters.md
 nid: 28502
@@ -9,7 +11,7 @@ uid: 772303
 
 # Why Red filter results are blurry compared to Blue filters?
 
-by [shahdharam7](../profile/shahdharam7) | December 17, 2021 06:39
+by [shahdharam7](../../../profile/shahdharam7) | December 17, 2021 06:39
 
 December 17, 2021 06:39 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [red](../tag/red), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [blue](../tag/blue), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [first-time-poster](../tag/first-time-poster)
 

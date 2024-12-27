@@ -1,5 +1,7 @@
 ---
-title: "Further explaining quantum yield"\ntagnames: ''
+title: "Further explaining quantum yield"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/05-07-2016/further-explaining-quantum-yield.md
 nid: 13089
@@ -11,7 +13,7 @@ uid: 461120
 
 # Further explaining quantum yield
 
-by [dhaffnersr](../profile/dhaffnersr) | May 07, 2016 23:29
+by [dhaffnersr](../../../profile/dhaffnersr) | May 07, 2016 23:29
 
 May 07, 2016 23:29 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Grants: Seed Magazine"\ntagnames: ''
+title: "Grants: Seed Magazine"
+
+tagnames: ''
 author: warren
 path: /wiki/grants-seed-magazine.md
 nid: 112

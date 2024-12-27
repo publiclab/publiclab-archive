@@ -1,5 +1,7 @@
 ---
-title: "Disaster-response"\ntagnames: 'disaster-preparedness, disaster-response'
+title: "Disaster-response"
+
+tagnames: 'disaster-preparedness, disaster-response'
 author: stevie
 path: /wiki/disaster-response.md
 nid: 21599

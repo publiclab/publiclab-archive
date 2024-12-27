@@ -1,5 +1,7 @@
 ---
-title: "People Vs. Storm Drains"\ntagnames: 'stormwater, storm, issue-brief, storm-drain, first-time-poster, lat:29.935867, lon:-90.114476, catch-basin, with:jeanell873'
+title: "People Vs. Storm Drains"
+
+tagnames: 'stormwater, storm, issue-brief, storm-drain, first-time-poster, lat:29.935867, lon:-90.114476, catch-basin, with:jeanell873'
 author: lukecollins
 path: /notes/lukecollins/09-19-2019/people-vs-storm-drains.md
 nid: 20928
@@ -9,7 +11,7 @@ uid: 618898
 
 # People Vs. Storm Drains
 
-by [lukecollins](../profile/lukecollins) | September 19, 2019 14:43
+by [lukecollins](../../../profile/lukecollins) | September 19, 2019 14:43
 
 September 19, 2019 14:43 | Tags: [stormwater](../tag/stormwater), [storm](../tag/storm), [issue-brief](../tag/issue-brief), [storm-drain](../tag/storm-drain), [first-time-poster](../tag/first-time-poster), [lat:29.935867](../tag/lat:29.935867), [lon:-90.114476](../tag/lon:-90.114476), [catch-basin](../tag/catch-basin), [with:jeanell873](../tag/with:jeanell873)
 

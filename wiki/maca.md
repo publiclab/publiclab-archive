@@ -1,5 +1,7 @@
 ---
-title: "MACA"\ntagnames: 'air-quality, sensors, datalogger, location:blurred, air-sensors, dustuino, lat:-32, lon:-68, place:mendoza-argentina, particle-sensor'
+title: "MACA"
+
+tagnames: 'air-quality, sensors, datalogger, location:blurred, air-sensors, dustuino, lat:-32, lon:-68, place:mendoza-argentina, particle-sensor'
 author: warren
 path: /wiki/maca.md
 nid: 16036

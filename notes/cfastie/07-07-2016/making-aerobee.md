@@ -1,5 +1,7 @@
 ---
-title: "Making the aluminum frame of an aerial camera rig (video)"\ntagnames: 'vermont, kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, barnstar:video-documentation, kaptery, aerobee, jerkpan, response:13261, category:build'
+title: "Making the aluminum frame of an aerial camera rig (video)"
+
+tagnames: 'vermont, kite-aerial-photography, camera-rig-tests, aerial-photography, photo-rig, barnstar:video-documentation, kaptery, aerobee, jerkpan, response:13261, category:build'
 author: cfastie
 path: /notes/cfastie/07-07-2016/making-aerobee.md
 nid: 13265
@@ -11,7 +13,7 @@ uid: 554
 
 # Making the aluminum frame of an aerial camera rig (video)
 
-by [cfastie](../profile/cfastie) | July 07, 2016 17:30
+by [cfastie](../../../profile/cfastie) | July 07, 2016 17:30
 
 July 07, 2016 17:30 | Tags: [vermont](../tag/vermont), [kite-aerial-photography](../tag/kite-aerial-photography), [camera-rig-tests](../tag/camera-rig-tests), [aerial-photography](../tag/aerial-photography), [photo-rig](../tag/photo-rig), [barnstar:video-documentation](../tag/barnstar:video-documentation), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [jerkpan](../tag/jerkpan), [response:13261](../tag/response:13261), [category:build](../tag/category:build)
 

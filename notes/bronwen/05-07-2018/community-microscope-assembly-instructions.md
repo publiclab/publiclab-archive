@@ -1,5 +1,7 @@
 ---
-title: "Community Microscope Assembly Instructions"\ntagnames: 'webcam, with:warren, microscope, activity:microscope, community-kits, activity:basic-microscope, optics, activity:community-microscope, community-microscope, activity:community-microscope-assembly, pin:activity:community-microscope-assembly'
+title: "Community Microscope Assembly Instructions"
+
+tagnames: 'webcam, with:warren, microscope, activity:microscope, community-kits, activity:basic-microscope, optics, activity:community-microscope, community-microscope, activity:community-microscope-assembly, pin:activity:community-microscope-assembly'
 author: Bronwen
 path: /notes/bronwen/05-07-2018/community-microscope-assembly-instructions.md
 nid: 16310
@@ -11,7 +13,7 @@ uid: 237313
 
 # Community Microscope Assembly Instructions
 
-by [Bronwen](../profile/Bronwen) | May 07, 2018 21:32
+by [Bronwen](../../../profile/Bronwen) | May 07, 2018 21:32
 
 May 07, 2018 21:32 | Tags: [webcam](../tag/webcam), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [activity:microscope](../tag/activity:microscope), [community-kits](../tag/community-kits), [activity:basic-microscope](../tag/activity:basic-microscope), [optics](../tag/optics), [activity:community-microscope](../tag/activity:community-microscope), [community-microscope](../tag/community-microscope), [activity:community-microscope-assembly](../tag/activity:community-microscope-assembly), [pin:activity:community-microscope-assembly](../tag/pin:activity:community-microscope-assembly)
 

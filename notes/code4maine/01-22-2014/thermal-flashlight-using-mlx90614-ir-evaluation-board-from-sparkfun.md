@@ -1,5 +1,7 @@
 ---
-title: "Thermal Flashlight Using MLX90614 IR Evaluation Board From Sparkfun "\ntagnames: 'thermal-photography, thermal-flashlight, thermal-camera, tool, response:9922, activity:thermal-flashlight, upgrade:thermal-flashlight'
+title: "Thermal Flashlight Using MLX90614 IR Evaluation Board From Sparkfun "
+
+tagnames: 'thermal-photography, thermal-flashlight, thermal-camera, tool, response:9922, activity:thermal-flashlight, upgrade:thermal-flashlight'
 author: ajawitz
 path: /notes/code4maine/01-22-2014/thermal-flashlight-using-mlx90614-ir-evaluation-board-from-sparkfun.md
 nid: 9962
@@ -11,7 +13,7 @@ uid: 294634
 
 # Thermal Flashlight Using MLX90614 IR Evaluation Board From Sparkfun 
 
-by [ajawitz](../profile/ajawitz) | January 22, 2014 19:44
+by [ajawitz](../../../profile/ajawitz) | January 22, 2014 19:44
 
 January 22, 2014 19:44 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-flashlight](../tag/thermal-flashlight), [thermal-camera](../tag/thermal-camera), [tool](../tag/tool), [response:9922](../tag/response:9922), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [upgrade:thermal-flashlight](../tag/upgrade:thermal-flashlight)
 

@@ -1,5 +1,7 @@
 ---
-title: "Measuring water in a rain gauge "\ntagnames: 'activity, stormwater, weather, activity:stormwater, raingauge, rain, activity:weather, activity:raingauge, rain-gauge'
+title: "Measuring water in a rain gauge "
+
+tagnames: 'activity, stormwater, weather, activity:stormwater, raingauge, rain, activity:weather, activity:raingauge, rain-gauge'
 author: stevie
 path: /notes/stevie/06-08-2017/measuring-water-in-a-cocorahs-rain-gauge.md
 nid: 14512
@@ -11,7 +13,7 @@ uid: 422561
 
 # Measuring water in a rain gauge 
 
-by [stevie](../profile/stevie) | June 08, 2017 15:49
+by [stevie](../../../profile/stevie) | June 08, 2017 15:49
 
 June 08, 2017 15:49 | Tags: [activity](../tag/activity), [stormwater](../tag/stormwater), [weather](../tag/weather), [activity:stormwater](../tag/activity:stormwater), [raingauge](../tag/raingauge), [rain](../tag/rain), [activity:weather](../tag/activity:weather), [activity:raingauge](../tag/activity:raingauge), [rain-gauge](../tag/rain-gauge)
 

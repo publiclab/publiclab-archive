@@ -1,5 +1,7 @@
 ---
-title: "IRCam materials"\ntagnames: 'ircam, materials'
+title: "IRCam materials"
+
+tagnames: 'ircam, materials'
 author: warren
 path: /wiki/ircam-materials.md
 nid: 4472

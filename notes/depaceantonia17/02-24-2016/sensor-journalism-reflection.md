@@ -1,5 +1,7 @@
 ---
-title: "Sensor Journalism Reflection "\ntagnames: 'sensor-journalism, response:12748, hidden:response'
+title: "Sensor Journalism Reflection "
+
+tagnames: 'sensor-journalism, response:12748, hidden:response'
 author: depaceantonia17
 path: /notes/depaceantonia17/02-24-2016/sensor-journalism-reflection.md
 nid: 12730
@@ -11,7 +13,7 @@ uid: 461495
 
 # Sensor Journalism Reflection 
 
-by [depaceantonia17](../profile/depaceantonia17) | February 24, 2016 04:19
+by [depaceantonia17](../../../profile/depaceantonia17) | February 24, 2016 04:19
 
 February 24, 2016 04:19 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

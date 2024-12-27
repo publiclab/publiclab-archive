@@ -1,5 +1,7 @@
 ---
-title: "Mapping Curriculum Introduction"\ntagnames: ''
+title: "Mapping Curriculum Introduction"
+
+tagnames: ''
 author: warren
 path: /wiki/mapping-curriculum-introduction.md
 nid: 77

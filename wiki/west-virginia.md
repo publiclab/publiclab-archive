@@ -1,5 +1,7 @@
 ---
-title: "west-virginia"\ntagnames: 'parent:southeast'
+title: "west-virginia"
+
+tagnames: 'parent:southeast'
 author: liz
 path: /wiki/west-virginia.md
 nid: 11174

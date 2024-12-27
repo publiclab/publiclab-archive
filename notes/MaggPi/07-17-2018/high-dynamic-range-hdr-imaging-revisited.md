@@ -1,5 +1,7 @@
 ---
-title: "High Dynamic Range (HDR) Imaging (revisited)"\ntagnames: 'image-processing, diffraction-grating, raspberry-pi, spectral-analysis, hdr, microscope, pi-noir, gsoc-2018'
+title: "High Dynamic Range (HDR) Imaging (revisited)"
+
+tagnames: 'image-processing, diffraction-grating, raspberry-pi, spectral-analysis, hdr, microscope, pi-noir, gsoc-2018'
 author: MaggPi
 path: /notes/MaggPi/07-17-2018/high-dynamic-range-hdr-imaging-revisited.md
 nid: 16726
@@ -11,7 +13,7 @@ uid: 501996
 
 # High Dynamic Range (HDR) Imaging (revisited)
 
-by [MaggPi](../profile/MaggPi) | July 17, 2018 08:07
+by [MaggPi](../../../profile/MaggPi) | July 17, 2018 08:07
 
 July 17, 2018 08:07 | Tags: [image-processing](../tag/image-processing), [diffraction-grating](../tag/diffraction-grating), [raspberry-pi](../tag/raspberry-pi), [spectral-analysis](../tag/spectral-analysis), [hdr](../tag/hdr), [microscope](../tag/microscope), [pi-noir](../tag/pi-noir), [gsoc-2018](../tag/gsoc-2018)
 

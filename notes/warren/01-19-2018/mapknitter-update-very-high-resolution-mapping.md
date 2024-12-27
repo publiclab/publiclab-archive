@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter update: very high resolution mapping"\ntagnames: 'balloon-mapping, kite-mapping, mapknitter, aerial-photography, software, blog, leaflet, upgrades, stitching, updates, leaflet-distortable-image, map-stitching, garden-mapping, gardens'
+title: "MapKnitter update: very high resolution mapping"
+
+tagnames: 'balloon-mapping, kite-mapping, mapknitter, aerial-photography, software, blog, leaflet, upgrades, stitching, updates, leaflet-distortable-image, map-stitching, garden-mapping, gardens'
 author: warren
 path: /notes/warren/01-19-2018/mapknitter-update-very-high-resolution-mapping.md
 nid: 15568
@@ -11,7 +13,7 @@ uid: 1
 
 # MapKnitter update: very high resolution mapping
 
-by [warren](../profile/warren) | January 19, 2018 22:15
+by [warren](../../../profile/warren) | January 19, 2018 22:15
 
 January 19, 2018 22:15 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [mapknitter](../tag/mapknitter), [aerial-photography](../tag/aerial-photography), [software](../tag/software), [blog](../tag/blog), [leaflet](../tag/leaflet), [upgrades](../tag/upgrades), [stitching](../tag/stitching), [updates](../tag/updates), [leaflet-distortable-image](../tag/leaflet-distortable-image), [map-stitching](../tag/map-stitching), [garden-mapping](../tag/garden-mapping), [gardens](../tag/gardens)
 

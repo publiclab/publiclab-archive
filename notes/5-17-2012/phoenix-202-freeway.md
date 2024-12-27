@@ -1,5 +1,7 @@
 ---
-title: "phoenix-202-freeway"\ntagnames: ''
+title: "phoenix-202-freeway"
+
+tagnames: ''
 author: 
 path: /notes/5-17-2012/phoenix-202-freeway.md
 nid: 2083
@@ -9,7 +11,7 @@ uid: 0
 
 # phoenix-202-freeway
 
-by [](../profile/) | May 17, 2012 16:03
+by [](../../../profile/) | May 17, 2012 16:03
 
 May 17, 2012 16:03 | Tags: 
 

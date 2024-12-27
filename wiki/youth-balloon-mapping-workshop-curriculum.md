@@ -1,5 +1,7 @@
 ---
-title: "Youth Balloon Mapping Workshop Curriculum "\ntagnames: 'balloon-mapping, education, curriculum, youth, chicago, midwest, civic-lab, civiclb, response:10638, response:10612'
+title: "Youth Balloon Mapping Workshop Curriculum "
+
+tagnames: 'balloon-mapping, education, curriculum, youth, chicago, midwest, civic-lab, civiclb, response:10638, response:10612'
 author: mjain26
 path: /wiki/youth-balloon-mapping-workshop-curriculum.md
 nid: 10689

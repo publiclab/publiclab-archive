@@ -1,5 +1,7 @@
 ---
-title: "Valve automation for laboratory liquid handeling"\ntagnames: '3d-printing, syringe, pump, response:11500'
+title: "Valve automation for laboratory liquid handeling"
+
+tagnames: '3d-printing, syringe, pump, response:11500'
 author: JSummers
 path: /notes/JSummers/01-12-2015/valve-automation-for-laboratory-liquid-handeling.md
 nid: 11519
@@ -11,7 +13,7 @@ uid: 304279
 
 # Valve automation for laboratory liquid handeling
 
-by [JSummers](../profile/JSummers) | January 12, 2015 22:52
+by [JSummers](../../../profile/JSummers) | January 12, 2015 22:52
 
 January 12, 2015 22:52 | Tags: [3d-printing](../tag/3d-printing), [syringe](../tag/syringe), [pump](../tag/pump), [response:11500](../tag/response:11500)
 

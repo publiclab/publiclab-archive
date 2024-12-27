@@ -1,5 +1,7 @@
 ---
-title: "New foldable spectrometer packaging"\ntagnames: 'spectrometer'
+title: "New foldable spectrometer packaging"
+
+tagnames: 'spectrometer'
 author: warren
 path: /notes/warren/07-05-2013/new-foldable-spectrometer-packaging.md
 nid: 8696
@@ -11,7 +13,7 @@ uid: 1
 
 # New foldable spectrometer packaging
 
-by [warren](../profile/warren) | July 05, 2013 15:39
+by [warren](../../../profile/warren) | July 05, 2013 15:39
 
 July 05, 2013 15:39 | Tags: [spectrometer](../tag/spectrometer)
 

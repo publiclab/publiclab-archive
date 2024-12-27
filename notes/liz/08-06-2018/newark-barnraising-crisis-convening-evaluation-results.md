@@ -1,5 +1,7 @@
 ---
-title: "Newark Barnraising & Crisis Convening evaluation results"\ntagnames: 'barnraising, evaluation, barnraising-newark-2018'
+title: "Newark Barnraising & Crisis Convening evaluation results"
+
+tagnames: 'barnraising, evaluation, barnraising-newark-2018'
 author: liz
 path: /notes/liz/08-06-2018/newark-barnraising-crisis-convening-evaluation-results.md
 nid: 16835
@@ -9,7 +11,7 @@ uid: 7
 
 # Newark Barnraising & Crisis Convening evaluation results
 
-by [liz](../profile/liz) | August 02, 2018 14:39
+by [liz](../../../profile/liz) | August 02, 2018 14:39
 
 August 02, 2018 14:39 | Tags: [barnraising](../tag/barnraising), [evaluation](../tag/evaluation), [barnraising-newark-2018](../tag/barnraising-newark-2018)
 

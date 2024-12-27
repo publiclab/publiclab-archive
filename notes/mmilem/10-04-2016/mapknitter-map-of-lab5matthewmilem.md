@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of Lab5matthewmilem"\ntagnames: ''
+title: "MapKnitter map of Lab5matthewmilem"
+
+tagnames: ''
 author: mmilem
 path: /notes/mmilem/10-04-2016/mapknitter-map-of-lab5matthewmilem.md
 nid: 13523
@@ -11,7 +13,7 @@ uid: 493590
 
 # MapKnitter map of Lab5matthewmilem
 
-by [mmilem](../profile/mmilem) | October 04, 2016 14:10
+by [mmilem](../../../profile/mmilem) | October 04, 2016 14:10
 
 October 04, 2016 14:10 | Tags: 
 

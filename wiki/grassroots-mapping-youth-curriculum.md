@@ -1,5 +1,7 @@
 ---
-title: "Grassroots Mapping youth curriculum"\ntagnames: 'balloon-mapping, education, curriculum, k-12, classroom'
+title: "Grassroots Mapping youth curriculum"
+
+tagnames: 'balloon-mapping, education, curriculum, k-12, classroom'
 author: warren
 path: /wiki/grassroots-mapping-youth-curriculum.md
 nid: 858

@@ -1,5 +1,7 @@
 ---
-title: "Public Laboratory on RAI TV's Ubiq"\ntagnames: 'media, rai, ubiq, tv, variety, promotional, first-time-poster'
+title: "Public Laboratory on RAI TV's Ubiq"
+
+tagnames: 'media, rai, ubiq, tv, variety, promotional, first-time-poster'
 author: btbonval
 path: /notes/btbonval/05-15-2014/public-laboratory-on-rai-tv-s-ubiq.md
 nid: 10474
@@ -11,7 +13,7 @@ uid: 43229
 
 # Public Laboratory on RAI TV's Ubiq
 
-by [btbonval](../profile/btbonval) | May 15, 2014 23:18
+by [btbonval](../../../profile/btbonval) | May 15, 2014 23:18
 
 May 15, 2014 23:18 | Tags: [media](../tag/media), [rai](../tag/rai), [ubiq](../tag/ubiq), [tv](../tag/tv), [variety](../tag/variety), [promotional](../tag/promotional), [first-time-poster](../tag/first-time-poster)
 

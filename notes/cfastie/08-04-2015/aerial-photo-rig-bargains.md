@@ -1,5 +1,7 @@
 ---
-title: "Aerial Photo Rig Bargains"\ntagnames: 'kite-aerial-photography, kap, autokap, redstone, kaptery, saturnv, response:12058'
+title: "Aerial Photo Rig Bargains"
+
+tagnames: 'kite-aerial-photography, kap, autokap, redstone, kaptery, saturnv, response:12058'
 author: cfastie
 path: /notes/cfastie/08-04-2015/aerial-photo-rig-bargains.md
 nid: 12119
@@ -11,7 +13,7 @@ uid: 554
 
 # Aerial Photo Rig Bargains
 
-by [cfastie](../profile/cfastie) | August 04, 2015 15:43
+by [cfastie](../../../profile/cfastie) | August 04, 2015 15:43
 
 August 04, 2015 15:43 | Tags: [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [autokap](../tag/autokap), [redstone](../tag/redstone), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [response:12058](../tag/response:12058)
 

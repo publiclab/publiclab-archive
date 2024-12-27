@@ -1,5 +1,7 @@
 ---
-title: "Frozen Riffle?"\ntagnames: 'arduino, temperature, sensors, water-quality, riffle, micro-sd, response:13127, category:test-limits, data-logging, riffle-examples'
+title: "Frozen Riffle?"
+
+tagnames: 'arduino, temperature, sensors, water-quality, riffle, micro-sd, response:13127, category:test-limits, data-logging, riffle-examples'
 author: cfastie
 path: /notes/cfastie/05-19-2016/frozen-riffle.md
 nid: 13128
@@ -11,7 +13,7 @@ uid: 554
 
 # Frozen Riffle?
 
-by [cfastie](../profile/cfastie) | May 19, 2016 03:53
+by [cfastie](../../../profile/cfastie) | May 19, 2016 03:53
 
 May 19, 2016 03:53 | Tags: [arduino](../tag/arduino), [temperature](../tag/temperature), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [riffle](../tag/riffle), [micro-sd](../tag/micro-sd), [response:13127](../tag/response:13127), [category:test-limits](../tag/category:test-limits), [data-logging](../tag/data-logging), [riffle-examples](../tag/riffle-examples)
 

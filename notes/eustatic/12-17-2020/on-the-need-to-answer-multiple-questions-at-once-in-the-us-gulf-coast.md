@@ -1,5 +1,7 @@
 ---
-title: "On the need to answer multiple questions at once in the US Gulf Coast"\ntagnames: 'gulf-coast, air-quality, barnstar:basic, zoom:16, lat:29.953744, lon:-90.073642'
+title: "On the need to answer multiple questions at once in the US Gulf Coast"
+
+tagnames: 'gulf-coast, air-quality, barnstar:basic, zoom:16, lat:29.953744, lon:-90.073642'
 author: eustatic
 path: /12-17-2020/on-the-need-to-answer-multiple-questions-at-once-in-the-us-gulf-coast.md
 nid: 25288
@@ -9,7 +11,7 @@ uid: 379
 
 # On the need to answer multiple questions at once in the US Gulf Coast
 
-by [eustatic](../profile/eustatic) | December 17, 2020 18:22
+by [eustatic](../../../profile/eustatic) | December 17, 2020 18:22
 
 December 17, 2020 18:22 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [barnstar:basic](../tag/barnstar:basic), [zoom:16](../tag/zoom:16), [lat:29.953744](../tag/lat:29.953744), [lon:-90.073642](../tag/lon:-90.073642)
 

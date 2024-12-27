@@ -1,5 +1,7 @@
 ---
-title: "Mini Pearl Logger Replication"\ntagnames: 'arduino, sensors, data-logging, arduino-pro-mini, mini-pearl-logger, replication:14518'
+title: "Mini Pearl Logger Replication"
+
+tagnames: 'arduino, sensors, data-logging, arduino-pro-mini, mini-pearl-logger, replication:14518'
 author: zengirl2
 path: /notes/Zengirl2/09-01-2017/mini-pearl-logger-replication.md
 nid: 14818
@@ -11,7 +13,7 @@ uid: 423961
 
 # Mini Pearl Logger Replication
 
-by [zengirl2](../profile/zengirl2) | September 01, 2017 22:25
+by [zengirl2](../../../profile/zengirl2) | September 01, 2017 22:25
 
 September 01, 2017 22:25 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [data-logging](../tag/data-logging), [arduino-pro-mini](../tag/arduino-pro-mini), [mini-pearl-logger](../tag/mini-pearl-logger), [replication:14518](../tag/replication:14518)
 

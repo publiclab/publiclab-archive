@@ -1,5 +1,7 @@
 ---
-title: "Occupy UC Davis - Nov. 21, 2011"\ntagnames: 'davis, protest-mapping, protest, california, occupy'
+title: "Occupy UC Davis - Nov. 21, 2011"
+
+tagnames: 'davis, protest-mapping, protest, california, occupy'
 author: MicheleTobias
 path: /notes/micheletobias/11-21-2011/occupy-uc-davis-nov-21-2011.md
 nid: 576
@@ -11,7 +13,7 @@ uid: 149
 
 # Occupy UC Davis - Nov. 21, 2011
 
-by [MicheleTobias](../profile/MicheleTobias) | November 21, 2011 22:36
+by [MicheleTobias](../../../profile/MicheleTobias) | November 21, 2011 22:36
 
 November 21, 2011 22:36 | Tags: [davis](../tag/davis), [protest-mapping](../tag/protest-mapping), [protest](../tag/protest), [california](../tag/california), [occupy](../tag/occupy)
 

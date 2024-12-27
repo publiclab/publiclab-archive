@@ -1,5 +1,7 @@
 ---
-title: "mini-camera"\ntagnames: 'redirect:mini-cameras'
+title: "mini-camera"
+
+tagnames: 'redirect:mini-cameras'
 author: warren
 path: /wiki/mini-camera.md
 nid: 19405

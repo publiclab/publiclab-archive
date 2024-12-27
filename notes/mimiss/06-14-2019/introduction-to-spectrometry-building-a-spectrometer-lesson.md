@@ -1,5 +1,7 @@
 ---
-title: "Introduction to Spectrometry (& Building a Spectrometer!) Lesson"\ntagnames: 'education, spectrometry, activity:spectrometry, activity:education, lesson, activity:spectrometer, lesson-spectrometry, pin:spectrometry'
+title: "Introduction to Spectrometry (& Building a Spectrometer!) Lesson"
+
+tagnames: 'education, spectrometry, activity:spectrometry, activity:education, lesson, activity:spectrometer, lesson-spectrometry, pin:spectrometry'
 author: mimiss
 path: /notes/mimiss/06-14-2019/introduction-to-spectrometry-building-a-spectrometer-lesson.md
 nid: 19700
@@ -9,7 +11,7 @@ uid: 579821
 
 # Introduction to Spectrometry (& Building a Spectrometer!) Lesson
 
-by [mimiss](../profile/mimiss) | June 14, 2019 15:10
+by [mimiss](../../../profile/mimiss) | June 14, 2019 15:10
 
 June 14, 2019 15:10 | Tags: [education](../tag/education), [spectrometry](../tag/spectrometry), [activity:spectrometry](../tag/activity:spectrometry), [activity:education](../tag/activity:education), [lesson](../tag/lesson), [activity:spectrometer](../tag/activity:spectrometer), [lesson-spectrometry](../tag/lesson-spectrometry), [pin:spectrometry](../tag/pin:spectrometry)
 

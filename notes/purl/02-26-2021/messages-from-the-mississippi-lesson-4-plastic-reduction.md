@@ -1,5 +1,7 @@
 ---
-title: "Messages from the Mississippi Lesson 4: Plastic Reduction"\ntagnames: 'microplastics, messagesfromthemississippi'
+title: "Messages from the Mississippi Lesson 4: Plastic Reduction"
+
+tagnames: 'microplastics, messagesfromthemississippi'
 author: purl
 path: /notes/purl/02-26-2021/messages-from-the-mississippi-lesson-4-plastic-reduction.md
 nid: 25811
@@ -11,7 +13,7 @@ uid: 736598
 
 # Messages from the Mississippi Lesson 4: Plastic Reduction
 
-by [purl](../profile/purl) | February 26, 2021 18:02
+by [purl](../../../profile/purl) | February 26, 2021 18:02
 
 February 26, 2021 18:02 | Tags: [microplastics](../tag/microplastics), [messagesfromthemississippi](../tag/messagesfromthemississippi)
 

@@ -1,5 +1,7 @@
 ---
-title: "barnraising-2015-photos-bronwen"\ntagnames: 'barnraising, lumcon, barnraising-2015'
+title: "barnraising-2015-photos-bronwen"
+
+tagnames: 'barnraising, lumcon, barnraising-2015'
 author: Bronwen
 path: /wiki/barnraising-2015-photos-bronwen.md
 nid: 12430

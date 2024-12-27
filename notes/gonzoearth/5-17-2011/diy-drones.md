@@ -1,5 +1,7 @@
 ---
-title: "DIY Drones"\ntagnames: ''
+title: "DIY Drones"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/5-17-2011/diy-drones.md
 nid: 242
@@ -9,7 +11,7 @@ uid: 12
 
 # DIY Drones
 
-by [gonzoearth](../profile/gonzoearth) | May 17, 2011 19:46
+by [gonzoearth](../../../profile/gonzoearth) | May 17, 2011 19:46
 
 May 17, 2011 19:46 | Tags: 
 

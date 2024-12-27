@@ -1,5 +1,7 @@
 ---
-title: "Comparing The Ebert CFL Spectral Image To the DH 4.0 v4 CFL Spectral Image"\ntagnames: ''
+title: "Comparing The Ebert CFL Spectral Image To the DH 4.0 v4 CFL Spectral Image"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/09-10-2016/comparing-the-ebert-cfl-spectral-image-to-the-dh-4-0-v4-cfl-spectral-image.md
 nid: 13440
@@ -11,7 +13,7 @@ uid: 461120
 
 # Comparing The Ebert CFL Spectral Image To the DH 4.0 v4 CFL Spectral Image
 
-by [dhaffnersr](../profile/dhaffnersr) | September 10, 2016 12:46
+by [dhaffnersr](../../../profile/dhaffnersr) | September 10, 2016 12:46
 
 September 10, 2016 12:46 | Tags: 
 

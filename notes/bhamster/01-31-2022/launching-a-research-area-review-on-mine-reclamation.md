@@ -1,5 +1,7 @@
 ---
-title: "Launching a research area review on mine reclamation"\ntagnames: 'mining, land-use, reviews, research-area-review, reclamation, with:laurel_mire, mine-reclamation, land-rehabilitation'
+title: "Launching a research area review on mine reclamation"
+
+tagnames: 'mining, land-use, reviews, research-area-review, reclamation, with:laurel_mire, mine-reclamation, land-rehabilitation'
 author: bhamster
 path: /notes/bhamster/01-31-2022/launching-a-research-area-review-on-mine-reclamation.md
 nid: 29075
@@ -11,7 +13,7 @@ uid: 664477
 
 # Launching a research area review on mine reclamation
 
-by [bhamster](../profile/bhamster) | January 31, 2022 16:17
+by [bhamster](../../../profile/bhamster) | January 31, 2022 16:17
 
 January 31, 2022 16:17 | Tags: [mining](../tag/mining), [land-use](../tag/land-use), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review), [reclamation](../tag/reclamation), [with:laurel_mire](../tag/with:laurel_mire), [mine-reclamation](../tag/mine-reclamation), [land-rehabilitation](../tag/land-rehabilitation)
 

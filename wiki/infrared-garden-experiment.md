@@ -1,5 +1,7 @@
 ---
-title: "infrared-garden-experiment"\ntagnames: 'workshop, gardening-toolkit, parent:gardening:toolkit'
+title: "infrared-garden-experiment"
+
+tagnames: 'workshop, gardening-toolkit, parent:gardening:toolkit'
 author: liz
 path: /wiki/infrared-garden-experiment.md
 nid: 11509

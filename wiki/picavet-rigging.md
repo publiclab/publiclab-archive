@@ -1,5 +1,7 @@
 ---
-title: "Picavet Rigging"\ntagnames: 'balloon-mapping, kite-mapping, photo-rig'
+title: "Picavet Rigging"
+
+tagnames: 'balloon-mapping, kite-mapping, photo-rig'
 author: mathew
 path: /wiki/picavet-rigging.md
 nid: 907

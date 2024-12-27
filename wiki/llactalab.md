@@ -1,5 +1,7 @@
 ---
-title: "llactalab"\ntagnames: 'ecuador, llactalab, cuenca, south-america'
+title: "llactalab"
+
+tagnames: 'ecuador, llactalab, cuenca, south-america'
 author: liz
 path: /wiki/llactalab.md
 nid: 12399

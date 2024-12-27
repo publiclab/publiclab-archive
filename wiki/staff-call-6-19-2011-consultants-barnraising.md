@@ -1,5 +1,7 @@
 ---
-title: "Staff Call 6 19 2011: Consultants, Barnraising"\ntagnames: ''
+title: "Staff Call 6 19 2011: Consultants, Barnraising"
+
+tagnames: ''
 author: warren
 path: /wiki/staff-call-6-19-2011-consultants-barnraising.md
 nid: 394

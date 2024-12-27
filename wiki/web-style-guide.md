@@ -1,5 +1,7 @@
 ---
-title: "Web Style Guide"\ntagnames: 'parent:style-guide'
+title: "Web Style Guide"
+
+tagnames: 'parent:style-guide'
 author: warren
 path: /wiki/web-style-guide.md
 nid: 19278

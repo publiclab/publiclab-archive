@@ -1,5 +1,7 @@
 ---
-title: "Leonard field- steadying the camera"\ntagnames: ''
+title: "Leonard field- steadying the camera"
+
+tagnames: ''
 author: Leonard
 path: /notes/leonard/4-1-2012/leonard-field-steadying-camera.md
 nid: 1589
@@ -11,7 +13,7 @@ uid: 768
 
 # Leonard field- steadying the camera
 
-by [Leonard](../profile/Leonard) | April 01, 2012 17:03
+by [Leonard](../../../profile/Leonard) | April 01, 2012 17:03
 
 April 01, 2012 17:03 | Tags: 
 

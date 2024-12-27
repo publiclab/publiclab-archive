@@ -1,5 +1,7 @@
 ---
-title: "How To Obtain Transmittance/ Absorbance Spectra"\ntagnames: 'gam'
+title: "How To Obtain Transmittance/ Absorbance Spectra"
+
+tagnames: 'gam'
 author: dhaffnersr
 path: /wiki/how-to-obtain-transmittance-absorbance-spectra.md
 nid: 13291

@@ -1,5 +1,7 @@
 ---
-title: "Examples of fenceline community emissions and spill reporting services?"\ntagnames: 'air-quality, water-quality, answered, question:general'
+title: "Examples of fenceline community emissions and spill reporting services?"
+
+tagnames: 'air-quality, water-quality, answered, question:general'
 author: nshapiro
 path: /notes/nshapiro/10-02-2018/examples-of-fenceline-community-emissions-and-spill-reporting-services.md
 nid: 17208
@@ -9,7 +11,7 @@ uid: 380298
 
 # Examples of fenceline community emissions and spill reporting services?
 
-by [nshapiro](../profile/nshapiro) | October 02, 2018 13:17
+by [nshapiro](../../../profile/nshapiro) | October 02, 2018 13:17
 
 October 02, 2018 13:17 | Tags: [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [answered](../tag/answered), [question:general](../tag/question:general)
 

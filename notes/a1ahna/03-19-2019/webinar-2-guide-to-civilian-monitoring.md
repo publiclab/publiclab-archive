@@ -1,5 +1,7 @@
 ---
-title: "Webinar 2: Guide to Civilian Monitoring"\ntagnames: 'industrial-monitoring, reporting, pipeline, pipeline-monitoring, lat:29.964614, lon:-90.046528, pipeline-monitoring-webinar'
+title: "Webinar 2: Guide to Civilian Monitoring"
+
+tagnames: 'industrial-monitoring, reporting, pipeline, pipeline-monitoring, lat:29.964614, lon:-90.046528, pipeline-monitoring-webinar'
 author: a1ahna
 path: /notes/a1ahna/03-19-2019/webinar-2-guide-to-civilian-monitoring.md
 nid: 18781
@@ -11,7 +13,7 @@ uid: 518193
 
 # Webinar 2: Guide to Civilian Monitoring
 
-by [a1ahna](../profile/a1ahna) | March 19, 2019 20:43
+by [a1ahna](../../../profile/a1ahna) | March 19, 2019 20:43
 
 March 19, 2019 20:43 | Tags: [industrial-monitoring](../tag/industrial-monitoring), [reporting](../tag/reporting), [pipeline](../tag/pipeline), [pipeline-monitoring](../tag/pipeline-monitoring), [lat:29.964614](../tag/lat:29.964614), [lon:-90.046528](../tag/lon:-90.046528), [pipeline-monitoring-webinar](../tag/pipeline-monitoring-webinar)
 

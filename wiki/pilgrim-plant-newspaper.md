@@ -1,5 +1,7 @@
 ---
-title: "Pilgrim Plant Newspaper"\ntagnames: ''
+title: "Pilgrim Plant Newspaper"
+
+tagnames: ''
 author: warren
 path: /wiki/pilgrim-plant-newspaper.md
 nid: 10535

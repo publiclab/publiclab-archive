@@ -1,5 +1,7 @@
 ---
-title: "reducing reflections in foldup spec"\ntagnames: 'spectrometer, fold-up, reflection'
+title: "reducing reflections in foldup spec"
+
+tagnames: 'spectrometer, fold-up, reflection'
 author: liz
 path: /notes/liz/04-11-2014/reducing-reflections-in-foldup-spec.md
 nid: 10297
@@ -11,7 +13,7 @@ uid: 7
 
 # reducing reflections in foldup spec
 
-by [liz](../profile/liz) | April 11, 2014 06:28
+by [liz](../../../profile/liz) | April 11, 2014 06:28
 
 April 11, 2014 06:28 | Tags: [spectrometer](../tag/spectrometer), [fold-up](../tag/fold-up), [reflection](../tag/reflection)
 

@@ -1,5 +1,7 @@
 ---
-title: "Outreachy Blog 1: Intro & Core Values"\ntagnames: 'zoom:6, lat:37.804351, lon:-122.271163'
+title: "Outreachy Blog 1: Intro & Core Values"
+
+tagnames: 'zoom:6, lat:37.804351, lon:-122.271163'
 author: noi5e
 path: /notes/noi5e/12-17-2020/outreachy-blog-1-intro-core-values.md
 nid: 25289
@@ -11,7 +13,7 @@ uid: 726270
 
 # Outreachy Blog 1: Intro & Core Values
 
-by [noi5e](../profile/noi5e) | December 17, 2020 22:29
+by [noi5e](../../../profile/noi5e) | December 17, 2020 22:29
 
 December 17, 2020 22:29 | Tags: [zoom:6](../tag/zoom:6), [lat:37.804351](../tag/lat:37.804351), [lon:-122.271163](../tag/lon:-122.271163)
 

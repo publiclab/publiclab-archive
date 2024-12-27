@@ -1,5 +1,7 @@
 ---
-title: "EDDI - Eletrodialysis Desalinator for Desalination"\ntagnames: 'water-quality, water, desalination'
+title: "EDDI - Eletrodialysis Desalinator for Desalination"
+
+tagnames: 'water-quality, water, desalination'
 author: mienaikoe
 path: /notes/mienaikoe/07-01-2017/eddi-eletrodialysis-desalinator-for-desalination.md
 nid: 14601
@@ -11,7 +13,7 @@ uid: 510171
 
 # EDDI - Eletrodialysis Desalinator for Desalination
 
-by [mienaikoe](../profile/mienaikoe) | July 01, 2017 16:05
+by [mienaikoe](../../../profile/mienaikoe) | July 01, 2017 16:05
 
 July 01, 2017 16:05 | Tags: [water-quality](../tag/water-quality), [water](../tag/water), [desalination](../tag/desalination)
 

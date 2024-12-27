@@ -1,5 +1,7 @@
 ---
-title: "Story Of Oil Field Worker's Death linked to VOCs"\ntagnames: 'hydrogen-sulfide-sensing'
+title: "Story Of Oil Field Worker's Death linked to VOCs"
+
+tagnames: 'hydrogen-sulfide-sensing'
 author: sara
 path: /notes/sara/7-18-2012/story-oil-field-workers-death-linked-vocs.md
 nid: 2864
@@ -9,7 +11,7 @@ uid: 8
 
 # Story Of Oil Field Worker's Death linked to VOCs
 
-by [sara](../profile/sara) | July 18, 2012 15:39
+by [sara](../../../profile/sara) | July 18, 2012 15:39
 
 July 18, 2012 15:39 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing)
 

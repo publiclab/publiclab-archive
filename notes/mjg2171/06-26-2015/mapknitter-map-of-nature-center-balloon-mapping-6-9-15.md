@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of Nature Center Balloon Mapping 6.9.15"\ntagnames: 'mapknitter, lat:30.0338465922, lon:-89.9616229534'
+title: "MapKnitter map of Nature Center Balloon Mapping 6.9.15"
+
+tagnames: 'mapknitter, lat:30.0338465922, lon:-89.9616229534'
 author: mjg2171
 path: /notes/mjg2171/06-26-2015/mapknitter-map-of-nature-center-balloon-mapping-6-9-15.md
 nid: 12010
@@ -11,7 +13,7 @@ uid: 428965
 
 # MapKnitter map of Nature Center Balloon Mapping 6.9.15
 
-by [mjg2171](../profile/mjg2171) | June 26, 2015 02:01
+by [mjg2171](../../../profile/mjg2171) | June 26, 2015 02:01
 
 June 26, 2015 02:01 | Tags: [mapknitter](../tag/mapknitter), [lat:30.0338465922](../tag/lat:30.0338465922), [lon:-89.9616229534](../tag/lon:-89.9616229534)
 

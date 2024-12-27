@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter: Exporting "\ntagnames: 'mapknitter, help, needs-revision, tutorial, parent:mapknitter, exporting'
+title: "MapKnitter: Exporting "
+
+tagnames: 'mapknitter, help, needs-revision, tutorial, parent:mapknitter, exporting'
 author: gonzoearth
 path: /wiki/mapknitter-exporting-your-map.md
 nid: 918

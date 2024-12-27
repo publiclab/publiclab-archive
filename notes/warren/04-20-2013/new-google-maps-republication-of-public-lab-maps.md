@@ -1,5 +1,7 @@
 ---
-title: "New Google Maps republication of Public Lab maps"\ntagnames: 'balloon-mapping, new-hampshire, farmhack, archive, lee-nh, google-maps'
+title: "New Google Maps republication of Public Lab maps"
+
+tagnames: 'balloon-mapping, new-hampshire, farmhack, archive, lee-nh, google-maps'
 author: warren
 path: /notes/warren/04-20-2013/new-google-maps-republication-of-public-lab-maps.md
 nid: 6934
@@ -11,7 +13,7 @@ uid: 1
 
 # New Google Maps republication of Public Lab maps
 
-by [warren](../profile/warren) | April 20, 2013 17:12
+by [warren](../../../profile/warren) | April 20, 2013 17:12
 
 April 20, 2013 17:12 | Tags: [balloon-mapping](../tag/balloon-mapping), [new-hampshire](../tag/new-hampshire), [farmhack](../tag/farmhack), [archive](../tag/archive), [lee-nh](../tag/lee-nh), [google-maps](../tag/google-maps)
 

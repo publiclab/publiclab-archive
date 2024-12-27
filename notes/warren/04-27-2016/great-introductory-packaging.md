@@ -1,5 +1,7 @@
 ---
-title: "Great introductory packaging"\ntagnames: 'community, open-hardware, kits, unboxing, packaging, first-timers'
+title: "Great introductory packaging"
+
+tagnames: 'community, open-hardware, kits, unboxing, packaging, first-timers'
 author: warren
 path: /notes/warren/04-27-2016/great-introductory-packaging.md
 nid: 13035
@@ -11,7 +13,7 @@ uid: 1
 
 # Great introductory packaging
 
-by [warren](../profile/warren) | April 27, 2016 00:56
+by [warren](../../../profile/warren) | April 27, 2016 00:56
 
 April 27, 2016 00:56 | Tags: [community](../tag/community), [open-hardware](../tag/open-hardware), [kits](../tag/kits), [unboxing](../tag/unboxing), [packaging](../tag/packaging), [first-timers](../tag/first-timers)
 

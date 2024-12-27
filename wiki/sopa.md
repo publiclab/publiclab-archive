@@ -1,5 +1,7 @@
 ---
-title: "Sopa"\ntagnames: ''
+title: "Sopa"
+
+tagnames: ''
 author: warren
 path: /wiki/sopa.md
 nid: 695

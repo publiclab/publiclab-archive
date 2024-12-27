@@ -1,5 +1,7 @@
 ---
-title: "Foldable and "countertop" spectrometers"\ntagnames: 'spectrometer'
+title: "Foldable and "countertop" spectrometers"
+
+tagnames: 'spectrometer'
 author: warren
 path: /notes/warren/8-13-2012/foldable-and-countertop-spectrometers.md
 nid: 3266
@@ -11,7 +13,7 @@ uid: 1
 
 # Foldable and "countertop" spectrometers
 
-by [warren](../profile/warren) | August 13, 2012 19:07
+by [warren](../../../profile/warren) | August 13, 2012 19:07
 
 August 13, 2012 19:07 | Tags: [spectrometer](../tag/spectrometer)
 

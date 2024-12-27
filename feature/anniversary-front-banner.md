@@ -1,5 +1,7 @@
 ---
-title: "anniversary-front-banner"\ntagnames: ''
+title: "anniversary-front-banner"
+
+tagnames: ''
 author: warren
 path: /feature/anniversary-front-banner.md
 nid: 11758

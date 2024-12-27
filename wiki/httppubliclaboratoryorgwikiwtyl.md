@@ -1,5 +1,7 @@
 ---
-title: "http://publiclaboratory.org/wiki/WTYL"\ntagnames: 'sinkhole, karst'
+title: "http://publiclaboratory.org/wiki/WTYL"
+
+tagnames: 'sinkhole, karst'
 author: arlisjohnson
 path: /wiki/httppubliclaboratoryorgwikiwtyl.md
 nid: 1765

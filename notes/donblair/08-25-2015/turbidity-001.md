@@ -1,5 +1,7 @@
 ---
-title: "Turbidity 001"\ntagnames: 'water-monitoring, turbidity, riffle, open-water, light, secchi-disk, clarity'
+title: "Turbidity 001"
+
+tagnames: 'water-monitoring, turbidity, riffle, open-water, light, secchi-disk, clarity'
 author: donblair
 path: /notes/donblair/08-25-2015/turbidity-001.md
 nid: 12168
@@ -11,7 +13,7 @@ uid: 43651
 
 # Turbidity 001
 
-by [donblair](../profile/donblair) | August 25, 2015 20:01
+by [donblair](../../../profile/donblair) | August 25, 2015 20:01
 
 August 25, 2015 20:01 | Tags: [water-monitoring](../tag/water-monitoring), [turbidity](../tag/turbidity), [riffle](../tag/riffle), [open-water](../tag/open-water), [light](../tag/light), [secchi-disk](../tag/secchi-disk), [clarity](../tag/clarity)
 

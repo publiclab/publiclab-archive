@@ -1,5 +1,7 @@
 ---
-title: "Proposal: SLR spectrometer attachment"\ntagnames: 'spectrometer, shapeways, slr, adaptor, 3d-printing, thingiverse'
+title: "Proposal: SLR spectrometer attachment"
+
+tagnames: 'spectrometer, shapeways, slr, adaptor, 3d-printing, thingiverse'
 author: warren
 path: /notes/warren/07-20-2013/proposal-slr-spectrometer-attachment.md
 nid: 8912
@@ -11,7 +13,7 @@ uid: 1
 
 # Proposal: SLR spectrometer attachment
 
-by [warren](../profile/warren) | July 20, 2013 17:10
+by [warren](../../../profile/warren) | July 20, 2013 17:10
 
 July 20, 2013 17:10 | Tags: [spectrometer](../tag/spectrometer), [shapeways](../tag/shapeways), [slr](../tag/slr), [adaptor](../tag/adaptor), [3d-printing](../tag/3d-printing), [thingiverse](../tag/thingiverse)
 

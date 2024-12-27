@@ -1,5 +1,7 @@
 ---
-title: "Public Comment"\ntagnames: 'organizing, tool, methods, resource, public-comment, method, community-organizing, prompt:public-comment'
+title: "Public Comment"
+
+tagnames: 'organizing, tool, methods, resource, public-comment, method, community-organizing, prompt:public-comment'
 author: stevie
 path: /wiki/public-comment.md
 nid: 13331

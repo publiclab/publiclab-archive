@@ -1,5 +1,7 @@
 ---
-title: "Mission"\ntagnames: 'mission'
+title: "Mission"
+
+tagnames: 'mission'
 author: warren
 path: /wiki/mission.md
 nid: 296

@@ -1,5 +1,7 @@
 ---
-title: "Sensors: A Powerful Asset to Journalism"\ntagnames: 'sensor-journalism'
+title: "Sensors: A Powerful Asset to Journalism"
+
+tagnames: 'sensor-journalism'
 author: philiptang42
 path: /notes/philiptang42/02-23-2015/sensors-a-powerful-asset-to-journalism.md
 nid: 11619
@@ -11,7 +13,7 @@ uid: 434166
 
 # Sensors: A Powerful Asset to Journalism
 
-by [philiptang42](../profile/philiptang42) | February 23, 2015 06:35
+by [philiptang42](../../../profile/philiptang42) | February 23, 2015 06:35
 
 February 23, 2015 06:35 | Tags: [sensor-journalism](../tag/sensor-journalism)
 

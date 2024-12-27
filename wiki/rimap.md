@@ -1,5 +1,7 @@
 ---
-title: "Geo Storytelling"\ntagnames: 'onecranston, geo-storytelling'
+title: "Geo Storytelling"
+
+tagnames: 'onecranston, geo-storytelling'
 author: warren
 path: /wiki/rimap.md
 nid: 21104

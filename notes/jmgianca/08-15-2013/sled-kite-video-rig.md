@@ -1,5 +1,7 @@
 ---
-title: "Sled kite video rig"\ntagnames: 'kite-mapping, michigan, sled-kite, sled'
+title: "Sled kite video rig"
+
+tagnames: 'kite-mapping, michigan, sled-kite, sled'
 author: jmgianca
 path: /notes/jmgianca/08-15-2013/sled-kite-video-rig.md
 nid: 9014
@@ -11,7 +13,7 @@ uid: 185763
 
 # Sled kite video rig
 
-by [jmgianca](../profile/jmgianca) | August 15, 2013 05:01
+by [jmgianca](../../../profile/jmgianca) | August 15, 2013 05:01
 
 August 15, 2013 05:01 | Tags: [kite-mapping](../tag/kite-mapping), [michigan](../tag/michigan), [sled-kite](../tag/sled-kite), [sled](../tag/sled)
 

@@ -1,5 +1,7 @@
 ---
-title: "Make: Magazine"\ntagnames: 'media, event, style:fancy, make-magazine'
+title: "Make: Magazine"
+
+tagnames: 'media, event, style:fancy, make-magazine'
 author: Bronwen
 path: /wiki/make.md
 nid: 19514

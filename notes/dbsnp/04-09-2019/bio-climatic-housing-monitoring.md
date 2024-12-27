@@ -1,5 +1,7 @@
 ---
-title: "Bio-Climatic Housing Monitoring"\ntagnames: 'sensors, central-america, housing, heat, community-science, el-salvador, lat:13.69294, lon:-89.218191'
+title: "Bio-Climatic Housing Monitoring"
+
+tagnames: 'sensors, central-america, housing, heat, community-science, el-salvador, lat:13.69294, lon:-89.218191'
 author: dbsnp
 path: /notes/dbsnp/04-09-2019/bio-climatic-housing-monitoring.md
 nid: 19014
@@ -11,7 +13,7 @@ uid: 543056
 
 # Bio-Climatic Housing Monitoring
 
-by [dbsnp](../profile/dbsnp) | April 09, 2019 23:38
+by [dbsnp](../../../profile/dbsnp) | April 09, 2019 23:38
 
 April 09, 2019 23:38 | Tags: [sensors](../tag/sensors), [central-america](../tag/central-america), [housing](../tag/housing), [heat](../tag/heat), [community-science](../tag/community-science), [el-salvador](../tag/el-salvador), [lat:13.69294](../tag/lat:13.69294), [lon:-89.218191](../tag/lon:-89.218191)
 

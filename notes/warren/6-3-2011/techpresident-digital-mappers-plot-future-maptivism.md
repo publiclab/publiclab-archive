@@ -1,5 +1,7 @@
 ---
-title: "TechPresident: Digital Mappers Plot the Future of Maptivism"\ntagnames: 'lima, open-source, media, techpresident, opensource'
+title: "TechPresident: Digital Mappers Plot the Future of Maptivism"
+
+tagnames: 'lima, open-source, media, techpresident, opensource'
 author: warren
 path: /notes/warren/6-3-2011/techpresident-digital-mappers-plot-future-maptivism.md
 nid: 332
@@ -9,7 +11,7 @@ uid: 1
 
 # TechPresident: Digital Mappers Plot the Future of Maptivism
 
-by [warren](../profile/warren) | June 03, 2011 23:14
+by [warren](../../../profile/warren) | June 03, 2011 23:14
 
 June 03, 2011 23:14 | Tags: [lima](../tag/lima), [open-source](../tag/open-source), [media](../tag/media), [techpresident](../tag/techpresident), [opensource](../tag/opensource)
 

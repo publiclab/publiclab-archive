@@ -1,5 +1,7 @@
 ---
-title: "Spectrometry activities"\ntagnames: 'education, spectrometry, curriculum, classroom'
+title: "Spectrometry activities"
+
+tagnames: 'education, spectrometry, curriculum, classroom'
 author: warren
 path: /wiki/spectrometry-activities.md
 nid: 4239

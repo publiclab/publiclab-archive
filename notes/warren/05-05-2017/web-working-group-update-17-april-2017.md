@@ -1,5 +1,7 @@
 ---
-title: "Web Working Group Update 17: April 2017"\ntagnames: 'community, web-development, software, plots2, outreach, gsoc, developers, wwg, webwg, first-timers-only, software-outreach, wwg-update, response:14091'
+title: "Web Working Group Update 17: April 2017"
+
+tagnames: 'community, web-development, software, plots2, outreach, gsoc, developers, wwg, webwg, first-timers-only, software-outreach, wwg-update, response:14091'
 author: warren
 path: /notes/warren/05-05-2017/web-working-group-update-17-april-2017.md
 nid: 14163
@@ -11,7 +13,7 @@ uid: 1
 
 # Web Working Group Update 17: April 2017
 
-by [warren](../profile/warren) | May 05, 2017 15:42
+by [warren](../../../profile/warren) | May 05, 2017 15:42
 
 May 05, 2017 15:42 | Tags: [community](../tag/community), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [outreach](../tag/outreach), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [software-outreach](../tag/software-outreach), [wwg-update](../tag/wwg-update), [response:14091](../tag/response:14091)
 

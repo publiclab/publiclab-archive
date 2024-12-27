@@ -1,5 +1,7 @@
 ---
-title: "Simple Data Visualizations in R Studio"\ntagnames: 'data, environmental-data, data-visualization, research-curation-fellows, presenting-data, air-quality-data, data-visualization-tool, data-viz, rstudio'
+title: "Simple Data Visualizations in R Studio"
+
+tagnames: 'data, environmental-data, data-visualization, research-curation-fellows, presenting-data, air-quality-data, data-visualization-tool, data-viz, rstudio'
 author: laurel_mire
 path: /notes/laurel_mire/12-16-2021/simple-data-visualizations-in-r-studio.md
 nid: 28500
@@ -9,7 +11,7 @@ uid: 759178
 
 # Simple Data Visualizations in R Studio
 
-by [laurel_mire](../profile/laurel_mire) | December 16, 2021 16:34
+by [laurel_mire](../../../profile/laurel_mire) | December 16, 2021 16:34
 
 December 16, 2021 16:34 | Tags: [data](../tag/data), [environmental-data](../tag/environmental-data), [data-visualization](../tag/data-visualization), [research-curation-fellows](../tag/research-curation-fellows), [presenting-data](../tag/presenting-data), [air-quality-data](../tag/air-quality-data), [data-visualization-tool](../tag/data-visualization-tool), [data-viz](../tag/data-viz), [rstudio](../tag/rstudio)
 

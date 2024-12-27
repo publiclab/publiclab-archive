@@ -1,5 +1,7 @@
 ---
-title: "One way of using the RTC Alarms to schedule logging on the Riffle"\ntagnames: 'riffle, riffle-examples, first-time-poster'
+title: "One way of using the RTC Alarms to schedule logging on the Riffle"
+
+tagnames: 'riffle, riffle-examples, first-time-poster'
 author: kinasmith
 path: /notes/kinasmith/06-07-2016/one-way-of-using-the-rtc-alarms-to-schedule-logging-on-the-riffle.md
 nid: 13171
@@ -11,7 +13,7 @@ uid: 445906
 
 # One way of using the RTC Alarms to schedule logging on the Riffle
 
-by [kinasmith](../profile/kinasmith) | June 07, 2016 04:51
+by [kinasmith](../../../profile/kinasmith) | June 07, 2016 04:51
 
 June 07, 2016 04:51 | Tags: [riffle](../tag/riffle), [riffle-examples](../tag/riffle-examples), [first-time-poster](../tag/first-time-poster)
 

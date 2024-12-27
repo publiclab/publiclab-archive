@@ -1,5 +1,7 @@
 ---
-title: "How to interpret PMS5003 sensor values?"\ntagnames: 'air-quality, question:air-quality, purpleair, question:purpleair, first-time-poster'
+title: "How to interpret PMS5003 sensor values?"
+
+tagnames: 'air-quality, question:air-quality, purpleair, question:purpleair, first-time-poster'
 author: samr
 path: /notes/samr/04-07-2019/how-to-interpret-pms5003-sensor-values.md
 nid: 18997
@@ -9,7 +11,7 @@ uid: 581810
 
 # How to interpret PMS5003 sensor values?
 
-by [samr](../profile/samr) | April 07, 2019 21:48
+by [samr](../../../profile/samr) | April 07, 2019 21:48
 
 April 07, 2019 21:48 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair), [first-time-poster](../tag/first-time-poster)
 

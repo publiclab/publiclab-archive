@@ -1,5 +1,7 @@
 ---
-title: "Spectronic 20 spectrometer for comparison to our own"\ntagnames: 'spectrometer, calibration'
+title: "Spectronic 20 spectrometer for comparison to our own"
+
+tagnames: 'spectrometer, calibration'
 author: warren
 path: /notes/warren/12-7-2012/spectronic-20-spectrometer-comparison-our-own.md
 nid: 5157
@@ -11,7 +13,7 @@ uid: 1
 
 # Spectronic 20 spectrometer for comparison to our own
 
-by [warren](../profile/warren) | December 08, 2012 01:13
+by [warren](../../../profile/warren) | December 08, 2012 01:13
 
 December 08, 2012 01:13 | Tags: [spectrometer](../tag/spectrometer), [calibration](../tag/calibration)
 

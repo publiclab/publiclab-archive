@@ -1,5 +1,7 @@
 ---
-title: "GMF 2 infrared camera feature"\ntagnames: 'near-infrared-camera'
+title: "GMF 2 infrared camera feature"
+
+tagnames: 'near-infrared-camera'
 author: warren
 path: /wiki/gmf-2-infrared-camera-feature.md
 nid: 2541

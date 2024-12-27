@@ -1,5 +1,7 @@
 ---
-title: "Leaflet Environmental Layer Library - Part 2"\ntagnames: 'air-quality, pipeline, gsoc, maps, leaflet, code, fracking, fractracker, soc, purpleair, gsoc-2018, soc-2018, infrastructure, pipelines, leaflet-environmental-layers'
+title: "Leaflet Environmental Layer Library - Part 2"
+
+tagnames: 'air-quality, pipeline, gsoc, maps, leaflet, code, fracking, fractracker, soc, purpleair, gsoc-2018, soc-2018, infrastructure, pipelines, leaflet-environmental-layers'
 author: sagarpreet
 path: /notes/sagarpreet/07-16-2018/leaflet-environmental-layer-library-part-2.md
 nid: 16724
@@ -11,7 +13,7 @@ uid: 516343
 
 # Leaflet Environmental Layer Library - Part 2
 
-by [sagarpreet](../profile/sagarpreet) | July 16, 2018 17:43
+by [sagarpreet](../../../profile/sagarpreet) | July 16, 2018 17:43
 
 July 16, 2018 17:43 | Tags: [air-quality](../tag/air-quality), [pipeline](../tag/pipeline), [gsoc](../tag/gsoc), [maps](../tag/maps), [leaflet](../tag/leaflet), [code](../tag/code), [fracking](../tag/fracking), [fractracker](../tag/fractracker), [soc](../tag/soc), [purpleair](../tag/purpleair), [gsoc-2018](../tag/gsoc-2018), [soc-2018](../tag/soc-2018), [infrastructure](../tag/infrastructure), [pipelines](../tag/pipelines), [leaflet-environmental-layers](../tag/leaflet-environmental-layers)
 

@@ -1,5 +1,7 @@
 ---
-title: "Recap of Greenpeace's Data Activist Co-op 2021"\ntagnames: 'data, data-analysis, data-visualization, data-activism, research-curation-fellows, with:julia_e_masters, presenting-data, with:fongvania, air-quality-data, data-advocacy'
+title: "Recap of Greenpeace's Data Activist Co-op 2021"
+
+tagnames: 'data, data-analysis, data-visualization, data-activism, research-curation-fellows, with:julia_e_masters, presenting-data, with:fongvania, air-quality-data, data-advocacy'
 author: laurel_mire
 path: /notes/laurel_mire/09-28-2021/recap-of-greenpeace-s-data-activist-co-op-2021.md
 nid: 27807
@@ -9,7 +11,7 @@ uid: 759178
 
 # Recap of Greenpeace's Data Activist Co-op 2021
 
-by [laurel_mire](../profile/laurel_mire) | September 28, 2021 20:03
+by [laurel_mire](../../../profile/laurel_mire) | September 28, 2021 20:03
 
 September 28, 2021 20:03 | Tags: [data](../tag/data), [data-analysis](../tag/data-analysis), [data-visualization](../tag/data-visualization), [data-activism](../tag/data-activism), [research-curation-fellows](../tag/research-curation-fellows), [with:julia_e_masters](../tag/with:julia_e_masters), [presenting-data](../tag/presenting-data), [with:fongvania](../tag/with:fongvania), [air-quality-data](../tag/air-quality-data), [data-advocacy](../tag/data-advocacy)
 

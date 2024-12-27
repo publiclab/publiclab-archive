@@ -1,5 +1,7 @@
 ---
-title: "Community"\ntagnames: 'community'
+title: "Community"
+
+tagnames: 'community'
 author: liz
 path: /wiki/community.md
 nid: 17014

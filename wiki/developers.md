@@ -1,5 +1,7 @@
 ---
-title: "Developers"\ntagnames: 'community, software, programmers, developers, code, mapknitter2, soc'
+title: "Developers"
+
+tagnames: 'community, software, programmers, developers, code, mapknitter2, soc'
 author: warren
 path: /wiki/developers.md
 nid: 9491

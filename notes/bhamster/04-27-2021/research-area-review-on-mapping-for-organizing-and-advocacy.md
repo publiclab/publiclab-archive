@@ -1,5 +1,7 @@
 ---
-title: "Research area review on mapping for organizing and advocacy"\ntagnames: 'aerial-photography, organizing, research, aerial-mapping, with:liz, advocacy, reviews, research-area-review'
+title: "Research area review on mapping for organizing and advocacy"
+
+tagnames: 'aerial-photography, organizing, research, aerial-mapping, with:liz, advocacy, reviews, research-area-review'
 author: bhamster
 path: /notes/bhamster/04-27-2021/research-area-review-on-mapping-for-organizing-and-advocacy.md
 nid: 26376
@@ -11,7 +13,7 @@ uid: 664477
 
 # Research area review on mapping for organizing and advocacy
 
-by [bhamster](../profile/bhamster) | April 27, 2021 21:20
+by [bhamster](../../../profile/bhamster) | April 27, 2021 21:20
 
 April 27, 2021 21:20 | Tags: [aerial-photography](../tag/aerial-photography), [organizing](../tag/organizing), [research](../tag/research), [aerial-mapping](../tag/aerial-mapping), [with:liz](../tag/with:liz), [advocacy](../tag/advocacy), [reviews](../tag/reviews), [research-area-review](../tag/research-area-review)
 

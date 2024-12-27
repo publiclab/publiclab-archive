@@ -1,5 +1,7 @@
 ---
-title: "The comparison of DVD and CD using halogen, incandescent, and fluorescent lamps "\ntagnames: 'spectrometer, spectralworkbench, plots, cd, centre_college, fluorescent-lamp, incandescent-lamp, halogen-lamp'
+title: "The comparison of DVD and CD using halogen, incandescent, and fluorescent lamps "
+
+tagnames: 'spectrometer, spectralworkbench, plots, cd, centre_college, fluorescent-lamp, incandescent-lamp, halogen-lamp'
 author: chem350vsap
 path: /notes/chem350vsap/3-28-2013/comparison-dvd-and-cd-using-halogen-incandescent-and-fluorescent-lamps.md
 nid: 6580
@@ -11,7 +13,7 @@ uid: 50508
 
 # The comparison of DVD and CD using halogen, incandescent, and fluorescent lamps 
 
-by [chem350vsap](../profile/chem350vsap) | March 28, 2013 16:19
+by [chem350vsap](../../../profile/chem350vsap) | March 28, 2013 16:19
 
 March 28, 2013 16:19 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [plots](../tag/plots), [cd](../tag/cd), [centre_college](../tag/centre_college), [fluorescent-lamp](../tag/fluorescent-lamp), [incandescent-lamp](../tag/incandescent-lamp), [halogen-lamp](../tag/halogen-lamp)
 

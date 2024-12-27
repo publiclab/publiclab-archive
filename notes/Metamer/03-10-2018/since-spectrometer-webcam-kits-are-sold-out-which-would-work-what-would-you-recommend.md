@@ -1,5 +1,7 @@
 ---
-title: "Since spectrometer webcam kits are sold out, which would work/what would you recommend?"\ntagnames: 'spectrometer, kits, webcam, answered, question:kits'
+title: "Since spectrometer webcam kits are sold out, which would work/what would you recommend?"
+
+tagnames: 'spectrometer, kits, webcam, answered, question:kits'
 author: Metamer
 path: /notes/Metamer/03-10-2018/since-spectrometer-webcam-kits-are-sold-out-which-would-work-what-would-you-recommend.md
 nid: 15910
@@ -9,7 +11,7 @@ uid: 525402
 
 # Since spectrometer webcam kits are sold out, which would work/what would you recommend?
 
-by [Metamer](../profile/Metamer) | March 10, 2018 00:18
+by [Metamer](../../../profile/Metamer) | March 10, 2018 00:18
 
 March 10, 2018 00:18 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [webcam](../tag/webcam), [answered](../tag/answered), [question:kits](../tag/question:kits)
 

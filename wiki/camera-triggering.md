@@ -1,5 +1,7 @@
 ---
-title: "camera-triggering"\ntagnames: 'redirect:800'
+title: "camera-triggering"
+
+tagnames: 'redirect:800'
 author: warren
 path: /wiki/camera-triggering.md
 nid: 13963

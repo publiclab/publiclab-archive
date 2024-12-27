@@ -1,5 +1,7 @@
 ---
-title: "Calibration Issues with larger images "\ntagnames: 'question:spectral-workbench'
+title: "Calibration Issues with larger images "
+
+tagnames: 'question:spectral-workbench'
 author: Anmar
 path: /notes/Anmar/08-19-2016/question-calibration-issues.md
 nid: 13371
@@ -9,7 +11,7 @@ uid: 482249
 
 # Calibration Issues with larger images 
 
-by [Anmar](../profile/Anmar) | August 19, 2016 22:22
+by [Anmar](../../../profile/Anmar) | August 19, 2016 22:22
 
 August 19, 2016 22:22 | Tags: [question:spectral-workbench](../tag/question:spectral-workbench)
 

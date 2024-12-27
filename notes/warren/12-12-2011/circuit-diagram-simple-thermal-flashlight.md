@@ -1,5 +1,7 @@
 ---
-title: "Build a simple Thermal Flashlight"\ntagnames: 'thermal-photography, arduino, thermal-flashlight, fritzing, activity:thermal-flashlight, activity:thermal-flashlight-assembly'
+title: "Build a simple Thermal Flashlight"
+
+tagnames: 'thermal-photography, arduino, thermal-flashlight, fritzing, activity:thermal-flashlight, activity:thermal-flashlight-assembly'
 author: warren
 path: /notes/warren/12-12-2011/circuit-diagram-simple-thermal-flashlight.md
 nid: 625
@@ -11,7 +13,7 @@ uid: 1
 
 # Build a simple Thermal Flashlight
 
-by [warren](../profile/warren) | December 12, 2011 05:40
+by [warren](../../../profile/warren) | December 12, 2011 05:40
 
 December 12, 2011 05:40 | Tags: [thermal-photography](../tag/thermal-photography), [arduino](../tag/arduino), [thermal-flashlight](../tag/thermal-flashlight), [fritzing](../tag/fritzing), [activity:thermal-flashlight](../tag/activity:thermal-flashlight), [activity:thermal-flashlight-assembly](../tag/activity:thermal-flashlight-assembly)
 

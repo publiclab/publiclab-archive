@@ -1,5 +1,7 @@
 ---
-title: "Webinar on using hyperspectral imaging in the recycling industry "\ntagnames: 'spectrometry, question:spectrometry, general'
+title: "Webinar on using hyperspectral imaging in the recycling industry "
+
+tagnames: 'spectrometry, question:spectrometry, general'
 author: amirberAgain
 path: /notes/amirberAgain/10-22-2020/webinar-on-using-hyperspectral-imaging-in-the-recycling-industry.md
 nid: 24790
@@ -9,7 +11,7 @@ uid: 420776
 
 # Webinar on using hyperspectral imaging in the recycling industry 
 
-by [amirberAgain](../profile/amirberAgain) | October 22, 2020 06:21
+by [amirberAgain](../../../profile/amirberAgain) | October 22, 2020 06:21
 
 October 22, 2020 06:21 | Tags: [spectrometry](../tag/spectrometry), [question:spectrometry](../tag/question:spectrometry), [general](../tag/general)
 

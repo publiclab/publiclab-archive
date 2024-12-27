@@ -1,5 +1,7 @@
 ---
-title: "PART II: How to create a relational diagram of the Public Lab database."\ntagnames: 'database, networks, activity:new, diagrams'
+title: "PART II: How to create a relational diagram of the Public Lab database."
+
+tagnames: 'database, networks, activity:new, diagrams'
 author: bsugar
 path: /notes/bsugar/04-30-2019/part-ii-how-to-create-a-relational-diagram-of-the-public-lab-database.md
 nid: 19189
@@ -11,7 +13,7 @@ uid: 217812
 
 # PART II: How to create a relational diagram of the Public Lab database.
 
-by [bsugar](../profile/bsugar) | April 29, 2019 22:59
+by [bsugar](../../../profile/bsugar) | April 29, 2019 22:59
 
 April 29, 2019 22:59 | Tags: [database](../tag/database), [networks](../tag/networks), [activity:new](../tag/activity:new), [diagrams](../tag/diagrams)
 

@@ -1,5 +1,7 @@
 ---
-title: "6.  Looking at Dust (and other things)"\ntagnames: 'raspberry-pi, with:kgradow1, with:warren, microscope, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope, raspberry-pi-camera'
+title: "6.  Looking at Dust (and other things)"
+
+tagnames: 'raspberry-pi, with:kgradow1, with:warren, microscope, with:wmacfarl, with:bmela, activity:basic-microscope, series:basic-microscope, raspberry-pi-camera'
 author: partsandcrafts
 path: /notes/partsandcrafts/02-26-2018/6-looking-at-dust-and-other-things.md
 nid: 15820
@@ -9,7 +11,7 @@ uid: 66014
 
 # 6.  Looking at Dust (and other things)
 
-by [partsandcrafts](../profile/partsandcrafts) | February 26, 2018 18:13
+by [partsandcrafts](../../../profile/partsandcrafts) | February 26, 2018 18:13
 
 February 26, 2018 18:13 | Tags: [raspberry-pi](../tag/raspberry-pi), [with:kgradow1](../tag/with:kgradow1), [with:warren](../tag/with:warren), [microscope](../tag/microscope), [with:wmacfarl](../tag/with:wmacfarl), [with:bmela](../tag/with:bmela), [activity:basic-microscope](../tag/activity:basic-microscope), [series:basic-microscope](../tag/series:basic-microscope), [raspberry-pi-camera](../tag/raspberry-pi-camera)
 

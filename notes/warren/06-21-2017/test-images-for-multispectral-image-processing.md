@@ -1,5 +1,7 @@
 ---
-title: ""Test images" for multispectral image processing"\ntagnames: 'ndvi, infragram, question:near-infrared-camera, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, question:photo-monitoring-plugin'
+title: ""Test images" for multispectral image processing"
+
+tagnames: 'ndvi, infragram, question:near-infrared-camera, question:ndvi, question:infragram, question:infrared, question:multispectral-imaging, multispectral-imaging, question:photo-monitoring-plugin'
 author: warren
 path: /notes/warren/06-21-2017/test-images-for-multispectral-image-processing.md
 nid: 14565
@@ -11,7 +13,7 @@ uid: 1
 
 # "Test images" for multispectral image processing
 
-by [warren](../profile/warren) | June 21, 2017 20:48
+by [warren](../../../profile/warren) | June 21, 2017 20:48
 
 June 21, 2017 20:48 | Tags: [ndvi](../tag/ndvi), [infragram](../tag/infragram), [question:near-infrared-camera](../tag/question:near-infrared-camera), [question:ndvi](../tag/question:ndvi), [question:infragram](../tag/question:infragram), [question:infrared](../tag/question:infrared), [question:multispectral-imaging](../tag/question:multispectral-imaging), [multispectral-imaging](../tag/multispectral-imaging), [question:photo-monitoring-plugin](../tag/question:photo-monitoring-plugin)
 

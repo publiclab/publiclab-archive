@@ -1,5 +1,7 @@
 ---
-title: "GrassrootsMappingBelizeFeb25"\ntagnames: 'balloon-mapping, grassrootsmappingwiki'
+title: "GrassrootsMappingBelizeFeb25"
+
+tagnames: 'balloon-mapping, grassrootsmappingwiki'
 author: warren
 path: /wiki/grassrootsmappingbelizefeb25.md
 nid: 1737

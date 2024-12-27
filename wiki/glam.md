@@ -1,5 +1,7 @@
 ---
-title: "GLAM"\ntagnames: 'new-york-city, gowanus, glam, northeast, parent:new-york-city, wastewater-project'
+title: "GLAM"
+
+tagnames: 'new-york-city, gowanus, glam, northeast, parent:new-york-city, wastewater-project'
 author: liz
 path: /wiki/glam.md
 nid: 8980

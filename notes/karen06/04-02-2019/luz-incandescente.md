@@ -1,5 +1,7 @@
 ---
-title: "luz incandescente"\ntagnames: 'first-time-poster, lat:14.069946, lon:-87.18139'
+title: "luz incandescente"
+
+tagnames: 'first-time-poster, lat:14.069946, lon:-87.18139'
 author: karen06
 path: /notes/karen06/04-02-2019/luz-incandescente.md
 nid: 18935
@@ -11,7 +13,7 @@ uid: 581794
 
 # luz incandescente
 
-by [karen06](../profile/karen06) | April 02, 2019 13:01
+by [karen06](../../../profile/karen06) | April 02, 2019 13:01
 
 April 02, 2019 13:01 | Tags: [first-time-poster](../tag/first-time-poster), [lat:14.069946](../tag/lat:14.069946), [lon:-87.18139](../tag/lon:-87.18139)
 

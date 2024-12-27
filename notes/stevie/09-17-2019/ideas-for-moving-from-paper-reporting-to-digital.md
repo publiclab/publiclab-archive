@@ -1,5 +1,7 @@
 ---
-title: "Ideas for moving from paper reporting to digital?"\ntagnames: 'question:question, question:sentinel, question:reporting, question:midwest'
+title: "Ideas for moving from paper reporting to digital?"
+
+tagnames: 'question:question, question:sentinel, question:reporting, question:midwest'
 author: stevie
 path: /notes/stevie/09-17-2019/ideas-for-moving-from-paper-reporting-to-digital.md
 nid: 20898
@@ -9,7 +11,7 @@ uid: 422561
 
 # Ideas for moving from paper reporting to digital?
 
-by [stevie](../profile/stevie) | September 17, 2019 20:23
+by [stevie](../../../profile/stevie) | September 17, 2019 20:23
 
 September 17, 2019 20:23 | Tags: [question:question](../tag/question:question), [question:sentinel](../tag/question:sentinel), [question:reporting](../tag/question:reporting), [question:midwest](../tag/question:midwest)
 

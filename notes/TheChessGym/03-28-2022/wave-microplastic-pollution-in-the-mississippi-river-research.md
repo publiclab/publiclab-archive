@@ -1,5 +1,7 @@
 ---
-title: "WAVe -Microplastic Pollution in the Mississippi River Research"\ntagnames: 'microplastics, zoom:6, lat:22.004174, lon:76.003417'
+title: "WAVe -Microplastic Pollution in the Mississippi River Research"
+
+tagnames: 'microplastics, zoom:6, lat:22.004174, lon:76.003417'
 author: TheChessGym
 path: /notes/TheChessGym/03-28-2022/wave-microplastic-pollution-in-the-mississippi-river-research.md
 nid: 30194
@@ -11,7 +13,7 @@ uid: 788868
 
 # WAVe -Microplastic Pollution in the Mississippi River Research
 
-by [TheChessGym](../profile/TheChessGym) | March 28, 2022 15:16
+by [TheChessGym](../../../profile/TheChessGym) | March 28, 2022 15:16
 
 March 28, 2022 15:16 | Tags: [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
 

@@ -1,5 +1,7 @@
 ---
-title: "sandbox2"\ntagnames: ''
+title: "sandbox2"
+
+tagnames: ''
 author: icarito
 path: /wiki/sandbox2.md
 nid: 16460

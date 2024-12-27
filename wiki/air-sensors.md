@@ -1,5 +1,7 @@
 ---
-title: "Air Sensors"\ntagnames: 'sensors, dylos, shinyei, sidebar:none, 11927, parent:sensors, parent:air-quality'
+title: "Air Sensors"
+
+tagnames: 'sensors, dylos, shinyei, sidebar:none, 11927, parent:sensors, parent:air-quality'
 author: warren
 path: /wiki/air-sensors.md
 nid: 15366

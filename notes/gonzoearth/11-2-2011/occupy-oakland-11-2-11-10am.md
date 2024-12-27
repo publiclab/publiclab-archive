@@ -1,5 +1,7 @@
 ---
-title: "Occupy Oakland 11-2-11 10AM"\ntagnames: 'oakland, protest-mapping, protest, california, occupy'
+title: "Occupy Oakland 11-2-11 10AM"
+
+tagnames: 'oakland, protest-mapping, protest, california, occupy'
 author: gonzoearth
 path: /notes/gonzoearth/11-2-2011/occupy-oakland-11-2-11-10am.md
 nid: 537
@@ -11,7 +13,7 @@ uid: 12
 
 # Occupy Oakland 11-2-11 10AM
 
-by [gonzoearth](../profile/gonzoearth) | November 03, 2011 01:38
+by [gonzoearth](../../../profile/gonzoearth) | November 03, 2011 01:38
 
 November 03, 2011 01:38 | Tags: [oakland](../tag/oakland), [protest-mapping](../tag/protest-mapping), [protest](../tag/protest), [california](../tag/california), [occupy](../tag/occupy)
 

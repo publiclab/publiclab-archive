@@ -1,5 +1,7 @@
 ---
-title: "Equipo barato para PAP (FABApole)"\ntagnames: 'near-infrared-camera, spain, rig, polemapping, pap, pole-mapping, lang:es, mobius, outfit, eu'
+title: "Equipo barato para PAP (FABApole)"
+
+tagnames: 'near-infrared-camera, spain, rig, polemapping, pap, pole-mapping, lang:es, mobius, outfit, eu'
 author: Juan
 path: /notes/Juan/05-05-2014/equipo-barato-para-pap-fabapole.md
 nid: 10426
@@ -11,7 +13,7 @@ uid: 1310
 
 # Equipo barato para PAP (FABApole)
 
-by [Juan](../profile/Juan) | May 05, 2014 20:22
+by [Juan](../../../profile/Juan) | May 05, 2014 20:22
 
 May 05, 2014 20:22 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [spain](../tag/spain), [rig](../tag/rig), [polemapping](../tag/polemapping), [pap](../tag/pap), [pole-mapping](../tag/pole-mapping), [lang:es](../tag/lang:es), [mobius](../tag/mobius), [outfit](../tag/outfit), [eu](../tag/eu)
 

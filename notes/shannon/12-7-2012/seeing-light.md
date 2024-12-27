@@ -1,5 +1,7 @@
 ---
-title: "Seeing the Light"\ntagnames: 'spectrometer, media'
+title: "Seeing the Light"
+
+tagnames: 'spectrometer, media'
 author: Shannon
 path: /notes/shannon/12-7-2012/seeing-light.md
 nid: 5152
@@ -11,7 +13,7 @@ uid: 9
 
 # Seeing the Light
 
-by [Shannon](../profile/Shannon) | December 07, 2012 18:55
+by [Shannon](../../../profile/Shannon) | December 07, 2012 18:55
 
 December 07, 2012 18:55 | Tags: [spectrometer](../tag/spectrometer), [media](../tag/media)
 

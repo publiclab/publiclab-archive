@@ -1,5 +1,7 @@
 ---
-title: "Geologists take over Vienna"\ntagnames: 'spectrometer, image-compositing, image-stitching, conferences'
+title: "Geologists take over Vienna"
+
+tagnames: 'spectrometer, image-compositing, image-stitching, conferences'
 author: adam-griffith
 path: /notes/adam-griffith/5-3-2012/geologists-take-over-vienna.md
 nid: 1905
@@ -11,7 +13,7 @@ uid: 3
 
 # Geologists take over Vienna
 
-by [adam-griffith](../profile/adam-griffith) | May 03, 2012 19:25
+by [adam-griffith](../../../profile/adam-griffith) | May 03, 2012 19:25
 
 May 03, 2012 19:25 | Tags: [spectrometer](../tag/spectrometer), [image-compositing](../tag/image-compositing), [image-stitching](../tag/image-stitching), [conferences](../tag/conferences)
 

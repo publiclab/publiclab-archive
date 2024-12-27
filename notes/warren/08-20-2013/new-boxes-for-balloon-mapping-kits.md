@@ -1,5 +1,7 @@
 ---
-title: "New boxes for balloon mapping kits"\ntagnames: 'balloon-mapping, kits, balloon-mapping-kit, packaging, box'
+title: "New boxes for balloon mapping kits"
+
+tagnames: 'balloon-mapping, kits, balloon-mapping-kit, packaging, box'
 author: warren
 path: /notes/warren/08-20-2013/new-boxes-for-balloon-mapping-kits.md
 nid: 9042
@@ -11,7 +13,7 @@ uid: 1
 
 # New boxes for balloon mapping kits
 
-by [warren](../profile/warren) | August 20, 2013 19:32
+by [warren](../../../profile/warren) | August 20, 2013 19:32
 
 August 20, 2013 19:32 | Tags: [balloon-mapping](../tag/balloon-mapping), [kits](../tag/kits), [balloon-mapping-kit](../tag/balloon-mapping-kit), [packaging](../tag/packaging), [box](../tag/box)
 

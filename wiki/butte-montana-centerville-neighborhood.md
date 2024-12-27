@@ -1,5 +1,7 @@
 ---
-title: "Butte, Montana: Centerville Neighborhood"\ntagnames: 'montana, reclamation'
+title: "Butte, Montana: Centerville Neighborhood"
+
+tagnames: 'montana, reclamation'
 author: Olivia
 path: /wiki/butte-montana-centerville-neighborhood.md
 nid: 446

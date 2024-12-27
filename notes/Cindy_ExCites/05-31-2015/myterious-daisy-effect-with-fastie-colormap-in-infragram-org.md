@@ -1,5 +1,7 @@
 ---
-title: "The myterious case of the British Daisy - Fastie colormap in Infragram.org"\ntagnames: 'nir, london, uk, infragram, colormap, infrabluephoto, eu, fastiecolormap'
+title: "The myterious case of the British Daisy - Fastie colormap in Infragram.org"
+
+tagnames: 'nir, london, uk, infragram, colormap, infrabluephoto, eu, fastiecolormap'
 author: cindy_excites
 path: /notes/Cindy_ExCites/05-31-2015/myterious-daisy-effect-with-fastie-colormap-in-infragram-org.md
 nid: 11923
@@ -11,7 +13,7 @@ uid: 1083
 
 # The myterious case of the British Daisy - Fastie colormap in Infragram.org
 
-by [cindy_excites](../profile/cindy_excites) | May 31, 2015 20:04
+by [cindy_excites](../../../profile/cindy_excites) | May 31, 2015 20:04
 
 May 31, 2015 20:04 | Tags: [nir](../tag/nir), [london](../tag/london), [uk](../tag/uk), [infragram](../tag/infragram), [colormap](../tag/colormap), [infrabluephoto](../tag/infrabluephoto), [eu](../tag/eu), [fastiecolormap](../tag/fastiecolormap)
 

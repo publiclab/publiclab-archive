@@ -1,5 +1,7 @@
 ---
-title: "Education"\ntagnames: 'community, education, classroom, teachers'
+title: "Education"
+
+tagnames: 'community, education, classroom, teachers'
 author: liz
 path: /wiki/education.md
 nid: 5957

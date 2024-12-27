@@ -1,5 +1,7 @@
 ---
-title: "sensor-journalism"\ntagnames: ''
+title: "sensor-journalism"
+
+tagnames: ''
 author: donblair
 path: /wiki/sensor-journalism.md
 nid: 11428

@@ -1,5 +1,7 @@
 ---
-title: "What are important aspects to consider about replication on the website and in the community?"\ntagnames: 'question:activity'
+title: "What are important aspects to consider about replication on the website and in the community?"
+
+tagnames: 'question:activity'
 author: liz
 path: /notes/liz/09-28-2016/what-are-important-aspects-to-consider-about-replication-on-the-website-and-in-the-community.md
 nid: 13500
@@ -9,7 +11,7 @@ uid: 7
 
 # What are important aspects to consider about replication on the website and in the community?
 
-by [liz](../profile/liz) | September 28, 2016 20:50
+by [liz](../../../profile/liz) | September 28, 2016 20:50
 
 September 28, 2016 20:50 | Tags: [question:activity](../tag/question:activity)
 

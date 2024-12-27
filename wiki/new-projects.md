@@ -1,5 +1,7 @@
 ---
-title: "New Projects"\ntagnames: 'community, parent:website'
+title: "New Projects"
+
+tagnames: 'community, parent:website'
 author: Shannon
 path: /wiki/new-projects.md
 nid: 9388

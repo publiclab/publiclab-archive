@@ -1,5 +1,7 @@
 ---
-title: "[Method] IR Aerial photograph monitoring and evaluation of terracing restoration"\ntagnames: 'gulf-coast, balloon-mapping, propublica, washustlouis, washu-stlouis, response:11137'
+title: "[Method] IR Aerial photograph monitoring and evaluation of terracing restoration"
+
+tagnames: 'gulf-coast, balloon-mapping, propublica, washustlouis, washu-stlouis, response:11137'
 author: eustatic
 path: /09-23-2014/method-ir-aerial-photograph-monitoring-and-evaluation-of-terracing-restoration.md
 nid: 11175
@@ -11,7 +13,7 @@ uid: 379
 
 # [Method] IR Aerial photograph monitoring and evaluation of terracing restoration
 
-by [eustatic](../profile/eustatic) | September 23, 2014 17:31
+by [eustatic](../../../profile/eustatic) | September 23, 2014 17:31
 
 September 23, 2014 17:31 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [propublica](../tag/propublica), [washustlouis](../tag/washustlouis), [washu-stlouis](../tag/washu-stlouis), [response:11137](../tag/response:11137)
 

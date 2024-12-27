@@ -1,5 +1,7 @@
 ---
-title: "NDVI from PiNoir with a blue filter"\ntagnames: 'ndvi, infrared, raspberry-pi, infrared-photography, fiji, ngb, raspberry, pi-camera, pinoir, raspberry-pi-infragram, activity:raspberry-pi-infragram, activity:pi-camera, first-time-poster'
+title: "NDVI from PiNoir with a blue filter"
+
+tagnames: 'ndvi, infrared, raspberry-pi, infrared-photography, fiji, ngb, raspberry, pi-camera, pinoir, raspberry-pi-infragram, activity:raspberry-pi-infragram, activity:pi-camera, first-time-poster'
 author: carolccarvalho
 path: /notes/carolccarvalho/02-18-2016/ndvi-from-pinoir-with-a-blue-filter.md
 nid: 12712
@@ -11,7 +13,7 @@ uid: 461381
 
 # NDVI from PiNoir with a blue filter
 
-by [carolccarvalho](../profile/carolccarvalho) | February 18, 2016 23:16
+by [carolccarvalho](../../../profile/carolccarvalho) | February 18, 2016 23:16
 
 February 18, 2016 23:16 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [raspberry-pi](../tag/raspberry-pi), [infrared-photography](../tag/infrared-photography), [fiji](../tag/fiji), [ngb](../tag/ngb), [raspberry](../tag/raspberry), [pi-camera](../tag/pi-camera), [pinoir](../tag/pinoir), [raspberry-pi-infragram](../tag/raspberry-pi-infragram), [activity:raspberry-pi-infragram](../tag/activity:raspberry-pi-infragram), [activity:pi-camera](../tag/activity:pi-camera), [first-time-poster](../tag/first-time-poster)
 

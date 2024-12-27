@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter map of 2015 Public Lab Barnraiser visible"\ntagnames: 'mapknitter, lat:29.254103, lon:-90.6626'
+title: "MapKnitter map of 2015 Public Lab Barnraiser visible"
+
+tagnames: 'mapknitter, lat:29.254103, lon:-90.6626'
 author: patcoyle
 path: /notes/patcoyle/11-21-2015/mapknitter-map-of-2015-public-lab-barnraiser-visible.md
 nid: 12432
@@ -9,7 +11,7 @@ uid: 77
 
 # MapKnitter map of 2015 Public Lab Barnraiser visible
 
-by [patcoyle](../profile/patcoyle) | November 21, 2015 23:29
+by [patcoyle](../../../profile/patcoyle) | November 21, 2015 23:29
 
 November 21, 2015 23:29 | Tags: [mapknitter](../tag/mapknitter), [lat:29.254103](../tag/lat:29.254103), [lon:-90.6626](../tag/lon:-90.6626)
 

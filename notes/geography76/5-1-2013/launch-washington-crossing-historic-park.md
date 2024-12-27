@@ -1,5 +1,7 @@
 ---
-title: "Launch at Washington Crossing Historic Park"\ntagnames: 'philadelphia, events:philadelphia'
+title: "Launch at Washington Crossing Historic Park"
+
+tagnames: 'philadelphia, events:philadelphia'
 author: geography76
 path: /notes/geography76/5-1-2013/launch-washington-crossing-historic-park.md
 nid: 7146
@@ -11,7 +13,7 @@ uid: 176
 
 # Launch at Washington Crossing Historic Park
 
-by [geography76](../profile/geography76) | May 01, 2013 14:18
+by [geography76](../../../profile/geography76) | May 01, 2013 14:18
 
 May 01, 2013 14:18 | Tags: [philadelphia](../tag/philadelphia), [events:philadelphia](../tag/events:philadelphia)
 

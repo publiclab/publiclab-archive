@@ -1,5 +1,7 @@
 ---
-title: "Happy Sysadmin appreciation day!"\ntagnames: 'code, wwg'
+title: "Happy Sysadmin appreciation day!"
+
+tagnames: 'code, wwg'
 author: warren
 path: /notes/warren/07-29-2019/happy-sysadmin-appreciation-day.md
 nid: 20352
@@ -11,7 +13,7 @@ uid: 1
 
 # Happy Sysadmin appreciation day!
 
-by [warren](../profile/warren) | July 29, 2019 14:26
+by [warren](../../../profile/warren) | July 29, 2019 14:26
 
 July 29, 2019 14:26 | Tags: [code](../tag/code), [wwg](../tag/wwg)
 

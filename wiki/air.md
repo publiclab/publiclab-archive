@@ -1,5 +1,7 @@
 ---
-title: "Air"\ntagnames: 'list:plots-airquality, redirect:air-quality'
+title: "Air"
+
+tagnames: 'list:plots-airquality, redirect:air-quality'
 author: liz
 path: /wiki/air.md
 nid: 12461

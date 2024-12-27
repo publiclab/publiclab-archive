@@ -1,5 +1,7 @@
 ---
-title: "The weTable and CHARM"\ntagnames: 'university, texas'
+title: "The weTable and CHARM"
+
+tagnames: 'university, texas'
 author: jacobsimonson
 path: /notes/jacobsimonson/10-19-2011/wetable-and-charm.md
 nid: 510
@@ -9,7 +11,7 @@ uid: 295
 
 # The weTable and CHARM
 
-by [jacobsimonson](../profile/jacobsimonson) | October 19, 2011 18:59
+by [jacobsimonson](../../../profile/jacobsimonson) | October 19, 2011 18:59
 
 October 19, 2011 18:59 | Tags: [university](../tag/university), [texas](../tag/texas)
 

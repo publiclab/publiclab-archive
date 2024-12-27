@@ -1,5 +1,7 @@
 ---
-title: "DIY Indoor Air Remediation Kit"\ntagnames: 'remediation, air-quality, tool, formaldehyde, wherewebreathe, filters, first, parent:indoor-air-quality-monitoring, indoor-air, pick, current, method, chemicals, air-filters, questions:indoor-air-remediation, activities:indoor-air-remediation'
+title: "DIY Indoor Air Remediation Kit"
+
+tagnames: 'remediation, air-quality, tool, formaldehyde, wherewebreathe, filters, first, parent:indoor-air-quality-monitoring, indoor-air, pick, current, method, chemicals, air-filters, questions:indoor-air-remediation, activities:indoor-air-remediation'
 author: scoops
 path: /wiki/diy-indoor-air-quality-remediation-kit.md
 nid: 11323

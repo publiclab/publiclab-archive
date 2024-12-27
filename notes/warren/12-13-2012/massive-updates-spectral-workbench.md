@@ -1,5 +1,7 @@
 ---
-title: "Massive updates to Spectral Workbench"\ntagnames: 'spectrometer, spectralworkbench, kickstarter'
+title: "Massive updates to Spectral Workbench"
+
+tagnames: 'spectrometer, spectralworkbench, kickstarter'
 author: warren
 path: /notes/warren/12-13-2012/massive-updates-spectral-workbench.md
 nid: 5188
@@ -11,7 +13,7 @@ uid: 1
 
 # Massive updates to Spectral Workbench
 
-by [warren](../profile/warren) | December 13, 2012 20:48
+by [warren](../../../profile/warren) | December 13, 2012 20:48
 
 December 13, 2012 20:48 | Tags: [spectrometer](../tag/spectrometer), [spectralworkbench](../tag/spectralworkbench), [kickstarter](../tag/kickstarter)
 

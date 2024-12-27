@@ -1,5 +1,7 @@
 ---
-title: "Nov 16th Saturday wetlands planting (and mapping)"\ntagnames: 'gulf-coast, event, bsj'
+title: "Nov 16th Saturday wetlands planting (and mapping)"
+
+tagnames: 'gulf-coast, event, bsj'
 author: eustatic
 path: /11-09-2013/nov-16th-saturday-wetlands-planting-and-mapping.md
 nid: 9753
@@ -11,7 +13,7 @@ uid: 379
 
 # Nov 16th Saturday wetlands planting (and mapping)
 
-by [eustatic](../profile/eustatic) | November 09, 2013 15:56
+by [eustatic](../../../profile/eustatic) | November 09, 2013 15:56
 
 November 09, 2013 15:56 | Tags: [gulf-coast](../tag/gulf-coast), [event](../tag/event), [bsj](../tag/bsj)
 

@@ -1,5 +1,7 @@
 ---
-title: "Help Public Lab raise $2,014 by 2014!"\ntagnames: 'donation'
+title: "Help Public Lab raise $2,014 by 2014!"
+
+tagnames: 'donation'
 author: Becki
 path: /notes/Becki/12-23-2013/help-public-lab-raise-2-014-by-2014.md
 nid: 9913
@@ -11,7 +13,7 @@ uid: 46673
 
 # Help Public Lab raise $2,014 by 2014!
 
-by [Becki](../profile/Becki) | December 23, 2013 19:49
+by [Becki](../../../profile/Becki) | December 23, 2013 19:49
 
 December 23, 2013 19:49 | Tags: [donation](../tag/donation)
 

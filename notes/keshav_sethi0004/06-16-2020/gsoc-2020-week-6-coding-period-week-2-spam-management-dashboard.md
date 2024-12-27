@@ -1,5 +1,7 @@
 ---
-title: "GSOC 2020 Week 6 (coding Period Week-2)@Spam Management Dashboard"\ntagnames: 'gsoc, dashboard, keshav, smd, weekly-update'
+title: "GSOC 2020 Week 6 (coding Period Week-2)@Spam Management Dashboard"
+
+tagnames: 'gsoc, dashboard, keshav, smd, weekly-update'
 author: keshav_sethi0004
 path: /notes/keshav_sethi0004/06-16-2020/gsoc-2020-week-6-coding-period-week-2-spam-management-dashboard.md
 nid: 23863
@@ -11,7 +13,7 @@ uid: 653396
 
 # GSOC 2020 Week 6 (coding Period Week-2)@Spam Management Dashboard
 
-by [keshav_sethi0004](../profile/keshav_sethi0004) | June 16, 2020 07:14
+by [keshav_sethi0004](../../../profile/keshav_sethi0004) | June 16, 2020 07:14
 
 June 16, 2020 07:14 | Tags: [gsoc](../tag/gsoc), [dashboard](../tag/dashboard), [keshav](../tag/keshav), [smd](../tag/smd), [weekly-update](../tag/weekly-update)
 

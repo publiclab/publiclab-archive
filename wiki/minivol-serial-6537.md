@@ -1,5 +1,7 @@
 ---
-title: "MiniVol serial #6537"\ntagnames: '6537'
+title: "MiniVol serial #6537"
+
+tagnames: '6537'
 author: mathew
 path: /wiki/minivol-serial-6537.md
 nid: 13908

@@ -1,5 +1,7 @@
 ---
-title: "Map of Trees to be cut for a golf course in City Park"\ntagnames: 'gulf-coast, mapknitter, neworleans, land-use'
+title: "Map of Trees to be cut for a golf course in City Park"
+
+tagnames: 'gulf-coast, mapknitter, neworleans, land-use'
 author: eustatic
 path: /02-28-2015/map-of-trees-to-be-cut-for-a-golf-course-in-city-park.md
 nid: 11645
@@ -11,7 +13,7 @@ uid: 379
 
 # Map of Trees to be cut for a golf course in City Park
 
-by [eustatic](../profile/eustatic) | February 28, 2015 22:18
+by [eustatic](../../../profile/eustatic) | February 28, 2015 22:18
 
 February 28, 2015 22:18 | Tags: [gulf-coast](../tag/gulf-coast), [mapknitter](../tag/mapknitter), [neworleans](../tag/neworleans), [land-use](../tag/land-use)
 

@@ -1,5 +1,7 @@
 ---
-title: "Comment piece in Nature about peer review"\ntagnames: 'barnstar:basic, with:warren, peer-production, peer-review'
+title: "Comment piece in Nature about peer review"
+
+tagnames: 'barnstar:basic, with:warren, peer-production, peer-review'
 author: liz
 path: /notes/liz/04-21-2016/comment-piece-in-nature-about-peer-review.md
 nid: 13010
@@ -11,7 +13,7 @@ uid: 7
 
 # Comment piece in Nature about peer review
 
-by [liz](../profile/liz) | April 21, 2016 16:01
+by [liz](../../../profile/liz) | April 21, 2016 16:01
 
 April 21, 2016 16:01 | Tags: [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [peer-production](../tag/peer-production), [peer-review](../tag/peer-review)
 

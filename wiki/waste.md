@@ -1,5 +1,7 @@
 ---
-title: "Waste"\ntagnames: 'landfill, waste, needs-revision, trash, basura'
+title: "Waste"
+
+tagnames: 'landfill, waste, needs-revision, trash, basura'
 author: nicholas
 path: /wiki/waste.md
 nid: 9409

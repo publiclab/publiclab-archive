@@ -1,5 +1,7 @@
 ---
-title: "Notes on assembling an Aerobee Rig"\ntagnames: 'kite-mapping, kite-aerial-photography, kite, kaptery, aerobee, difficulty:easy, category:build, activity:photo-rig'
+title: "Notes on assembling an Aerobee Rig"
+
+tagnames: 'kite-mapping, kite-aerial-photography, kite, kaptery, aerobee, difficulty:easy, category:build, activity:photo-rig'
 author: mathew
 path: /notes/mathew/07-08-2016/notes-on-assembling-an-aerobee-rig.md
 nid: 13273
@@ -11,7 +13,7 @@ uid: 4
 
 # Notes on assembling an Aerobee Rig
 
-by [mathew](../profile/mathew) | July 08, 2016 20:35
+by [mathew](../../../profile/mathew) | July 08, 2016 20:35
 
 July 08, 2016 20:35 | Tags: [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [kite](../tag/kite), [kaptery](../tag/kaptery), [aerobee](../tag/aerobee), [difficulty:easy](../tag/difficulty:easy), [category:build](../tag/category:build), [activity:photo-rig](../tag/activity:photo-rig)
 

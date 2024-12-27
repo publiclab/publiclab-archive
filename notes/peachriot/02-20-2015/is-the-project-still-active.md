@@ -1,5 +1,7 @@
 ---
-title: "Is the project still active?"\ntagnames: 'environmental-estrogen-testing, estrogen, question:environmental-estrogen-testing'
+title: "Is the project still active?"
+
+tagnames: 'environmental-estrogen-testing, estrogen, question:environmental-estrogen-testing'
 author: peachriot
 path: /notes/peachriot/02-20-2015/is-the-project-still-active.md
 nid: 11610
@@ -9,7 +11,7 @@ uid: 435436
 
 # Is the project still active?
 
-by [peachriot](../profile/peachriot) | February 20, 2015 18:36
+by [peachriot](../../../profile/peachriot) | February 20, 2015 18:36
 
 February 20, 2015 18:36 | Tags: [environmental-estrogen-testing](../tag/environmental-estrogen-testing), [estrogen](../tag/estrogen), [question:environmental-estrogen-testing](../tag/question:environmental-estrogen-testing)
 

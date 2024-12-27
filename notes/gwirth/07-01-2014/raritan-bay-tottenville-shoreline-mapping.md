@@ -1,5 +1,7 @@
 ---
-title: "Raritan Bay Tottenville Shoreline Mapping "\ntagnames: 'coastal, coastalmonitoring, staten-island, island, bay, raritan, staten, tottenville, kayak, shoreline, place:raritan-bay, lat:40.497679, lon:-74.239897'
+title: "Raritan Bay Tottenville Shoreline Mapping "
+
+tagnames: 'coastal, coastalmonitoring, staten-island, island, bay, raritan, staten, tottenville, kayak, shoreline, place:raritan-bay, lat:40.497679, lon:-74.239897'
 author: gwirth
 path: /notes/gwirth/07-01-2014/raritan-bay-tottenville-shoreline-mapping.md
 nid: 10639
@@ -11,7 +13,7 @@ uid: 30539
 
 # Raritan Bay Tottenville Shoreline Mapping 
 
-by [gwirth](../profile/gwirth) | July 01, 2014 21:33
+by [gwirth](../../../profile/gwirth) | July 01, 2014 21:33
 
 July 01, 2014 21:33 | Tags: [coastal](../tag/coastal), [coastalmonitoring](../tag/coastalmonitoring), [staten-island](../tag/staten-island), [island](../tag/island), [bay](../tag/bay), [raritan](../tag/raritan), [staten](../tag/staten), [tottenville](../tag/tottenville), [kayak](../tag/kayak), [shoreline](../tag/shoreline), [place:raritan-bay](../tag/place:raritan-bay), [lat:40.497679](../tag/lat:40.497679), [lon:-74.239897](../tag/lon:-74.239897)
 

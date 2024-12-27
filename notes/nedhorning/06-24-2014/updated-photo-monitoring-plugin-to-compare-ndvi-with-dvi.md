@@ -1,5 +1,7 @@
 ---
-title: "Updated photo monitoring plugin to compare NDVI with DVI"\ntagnames: 'near-infrared-camera, ndvi, imagej, software, plugin, photo, infragram, fiji, photo-monitoring-plugin, monitoring, dvi'
+title: "Updated photo monitoring plugin to compare NDVI with DVI"
+
+tagnames: 'near-infrared-camera, ndvi, imagej, software, plugin, photo, infragram, fiji, photo-monitoring-plugin, monitoring, dvi'
 author: nedhorning
 path: /notes/nedhorning/06-24-2014/updated-photo-monitoring-plugin-to-compare-ndvi-with-dvi.md
 nid: 10610
@@ -11,7 +13,7 @@ uid: 133
 
 # Updated photo monitoring plugin to compare NDVI with DVI
 
-by [nedhorning](../profile/nedhorning) | June 24, 2014 14:25
+by [nedhorning](../../../profile/nedhorning) | June 24, 2014 14:25
 
 June 24, 2014 14:25 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [imagej](../tag/imagej), [software](../tag/software), [plugin](../tag/plugin), [photo](../tag/photo), [infragram](../tag/infragram), [fiji](../tag/fiji), [photo-monitoring-plugin](../tag/photo-monitoring-plugin), [monitoring](../tag/monitoring), [dvi](../tag/dvi)
 

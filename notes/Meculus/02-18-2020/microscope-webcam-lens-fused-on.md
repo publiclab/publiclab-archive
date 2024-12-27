@@ -1,5 +1,7 @@
 ---
-title: "Microscope webcam lens fused on"\ntagnames: 'question:general, general'
+title: "Microscope webcam lens fused on"
+
+tagnames: 'question:general, general'
 author: Meculus
 path: /notes/Meculus/02-18-2020/microscope-webcam-lens-fused-on.md
 nid: 22846
@@ -9,7 +11,7 @@ uid: 651005
 
 # Microscope webcam lens fused on
 
-by [Meculus](../profile/Meculus) | February 18, 2020 15:19
+by [Meculus](../../../profile/Meculus) | February 18, 2020 15:19
 
 February 18, 2020 15:19 | Tags: [question:general](../tag/question:general), [general](../tag/general)
 

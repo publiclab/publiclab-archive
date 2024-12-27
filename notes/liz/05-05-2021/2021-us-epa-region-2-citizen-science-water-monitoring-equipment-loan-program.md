@@ -1,5 +1,7 @@
 ---
-title: "2021 US EPA Region 2 Citizen Science Water Monitoring Equipment Loan Program"\ntagnames: 'epa, ecoli, turbidity-tube, location:blurred, place:united-states, microplastics, lat:40, lon:-74, zoom:6, manta-trawl'
+title: "2021 US EPA Region 2 Citizen Science Water Monitoring Equipment Loan Program"
+
+tagnames: 'epa, ecoli, turbidity-tube, location:blurred, place:united-states, microplastics, lat:40, lon:-74, zoom:6, manta-trawl'
 author: liz
 path: /notes/liz/05-05-2021/2021-us-epa-region-2-citizen-science-water-monitoring-equipment-loan-program.md
 nid: 26504
@@ -11,7 +13,7 @@ uid: 7
 
 # 2021 US EPA Region 2 Citizen Science Water Monitoring Equipment Loan Program
 
-by [liz](../profile/liz) | May 05, 2021 22:07
+by [liz](../../../profile/liz) | May 05, 2021 22:07
 
 May 05, 2021 22:07 | Tags: [epa](../tag/epa), [ecoli](../tag/ecoli), [turbidity-tube](../tag/turbidity-tube), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [microplastics](../tag/microplastics), [lat:40](../tag/lat:40), [lon:-74](../tag/lon:-74), [zoom:6](../tag/zoom:6), [manta-trawl](../tag/manta-trawl)
 

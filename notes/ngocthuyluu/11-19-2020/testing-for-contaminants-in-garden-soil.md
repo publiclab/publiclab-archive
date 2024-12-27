@@ -1,5 +1,7 @@
 ---
-title: "Testing for Contaminants in Garden Soil"\ntagnames: 'soil, waste-management, trash, public-health, advocacy, soil-sampling, question:soil-sampling, issue-brief, seattle, first-time-poster, soil-contamination, litter, dumping, washington, pacific-northwest'
+title: "Testing for Contaminants in Garden Soil"
+
+tagnames: 'soil, waste-management, trash, public-health, advocacy, soil-sampling, question:soil-sampling, issue-brief, seattle, first-time-poster, soil-contamination, litter, dumping, washington, pacific-northwest'
 author: ngocthuyluu
 path: /notes/ngocthuyluu/11-19-2020/testing-for-contaminants-in-garden-soil.md
 nid: 25075
@@ -9,7 +11,7 @@ uid: 727477
 
 # Testing for Contaminants in Garden Soil
 
-by [ngocthuyluu](../profile/ngocthuyluu) | November 19, 2020 01:35
+by [ngocthuyluu](../../../profile/ngocthuyluu) | November 19, 2020 01:35
 
 November 19, 2020 01:35 | Tags: [soil](../tag/soil), [waste-management](../tag/waste-management), [trash](../tag/trash), [public-health](../tag/public-health), [advocacy](../tag/advocacy), [soil-sampling](../tag/soil-sampling), [question:soil-sampling](../tag/question:soil-sampling), [issue-brief](../tag/issue-brief), [seattle](../tag/seattle), [first-time-poster](../tag/first-time-poster), [soil-contamination](../tag/soil-contamination), [litter](../tag/litter), [dumping](../tag/dumping), [washington](../tag/washington), [pacific-northwest](../tag/pacific-northwest)
 

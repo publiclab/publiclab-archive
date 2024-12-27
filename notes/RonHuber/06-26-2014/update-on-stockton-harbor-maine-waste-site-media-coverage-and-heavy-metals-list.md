@@ -1,5 +1,7 @@
 ---
-title: "Update on Stockton Harbor, Maine waste site: Media Coverage and heavy metals list"\ntagnames: 'heavy-metals, arsenic, silver, maine, selenium, northeast, lead, phosphogypsum, penobscot, mercury, bay, mud, cadmium, friends-of-penobscot-bay, searsport, acid, metals, sulfuric-acid, chromium, cobalt, nickel, copper, zinc, antimony, thallium, uranium, radium, location:blurred, lat:44.46, lon:-68.86, place:stockton-harbor-stockton-springs-me-usa, lead-testing'
+title: "Update on Stockton Harbor, Maine waste site: Media Coverage and heavy metals list"
+
+tagnames: 'heavy-metals, arsenic, silver, maine, selenium, northeast, lead, phosphogypsum, penobscot, mercury, bay, mud, cadmium, friends-of-penobscot-bay, searsport, acid, metals, sulfuric-acid, chromium, cobalt, nickel, copper, zinc, antimony, thallium, uranium, radium, location:blurred, lat:44.46, lon:-68.86, place:stockton-harbor-stockton-springs-me-usa, lead-testing'
 author: ronhuber
 path: /notes/RonHuber/06-26-2014/update-on-stockton-harbor-maine-waste-site-media-coverage-and-heavy-metals-list.md
 nid: 10621
@@ -11,7 +13,7 @@ uid: 437
 
 # Update on Stockton Harbor, Maine waste site: Media Coverage and heavy metals list
 
-by [ronhuber](../profile/ronhuber) | June 26, 2014 18:24
+by [ronhuber](../../../profile/ronhuber) | June 26, 2014 18:24
 
 June 26, 2014 18:24 | Tags: [heavy-metals](../tag/heavy-metals), [arsenic](../tag/arsenic), [silver](../tag/silver), [maine](../tag/maine), [selenium](../tag/selenium), [northeast](../tag/northeast), [lead](../tag/lead), [phosphogypsum](../tag/phosphogypsum), [penobscot](../tag/penobscot), [mercury](../tag/mercury), [bay](../tag/bay), [mud](../tag/mud), [cadmium](../tag/cadmium), [friends-of-penobscot-bay](../tag/friends-of-penobscot-bay), [searsport](../tag/searsport), [acid](../tag/acid), [metals](../tag/metals), [sulfuric-acid](../tag/sulfuric-acid), [chromium](../tag/chromium), [cobalt](../tag/cobalt), [nickel](../tag/nickel), [copper](../tag/copper), [zinc](../tag/zinc), [antimony](../tag/antimony), [thallium](../tag/thallium), [uranium](../tag/uranium), [radium](../tag/radium), [location:blurred](../tag/location:blurred), [lat:44.46](../tag/lat:44.46), [lon:-68.86](../tag/lon:-68.86), [place:stockton-harbor-stockton-springs-me-usa](../tag/place:stockton-harbor-stockton-springs-me-usa), [lead-testing](../tag/lead-testing)
 

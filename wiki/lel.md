@@ -1,5 +1,7 @@
 ---
-title: "LEL"\ntagnames: 'redirect:leaflet-environmental-layers'
+title: "LEL"
+
+tagnames: 'redirect:leaflet-environmental-layers'
 author: warren
 path: /wiki/lel.md
 nid: 17434

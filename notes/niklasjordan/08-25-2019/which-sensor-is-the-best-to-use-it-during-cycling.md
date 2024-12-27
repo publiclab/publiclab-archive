@@ -1,5 +1,7 @@
 ---
-title: "Which sensor is the best to use it during cycling?"\ntagnames: 'arduino, air-quality, question:air-quality'
+title: "Which sensor is the best to use it during cycling?"
+
+tagnames: 'arduino, air-quality, question:air-quality'
 author: niklasjordan
 path: /notes/niklasjordan/08-25-2019/which-sensor-is-the-best-to-use-it-during-cycling.md
 nid: 20657
@@ -9,7 +11,7 @@ uid: 531062
 
 # Which sensor is the best to use it during cycling?
 
-by [niklasjordan](../profile/niklasjordan) | August 25, 2019 00:52
+by [niklasjordan](../../../profile/niklasjordan) | August 25, 2019 00:52
 
 August 25, 2019 00:52 | Tags: [arduino](../tag/arduino), [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality)
 

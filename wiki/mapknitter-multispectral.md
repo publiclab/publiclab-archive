@@ -1,5 +1,7 @@
 ---
-title: "MapKnitter Multispectral"\ntagnames: ''
+title: "MapKnitter Multispectral"
+
+tagnames: ''
 author: warren
 path: /wiki/mapknitter-multispectral.md
 nid: 683

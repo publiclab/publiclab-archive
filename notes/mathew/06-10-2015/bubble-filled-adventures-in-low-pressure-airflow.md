@@ -1,5 +1,7 @@
 ---
-title: "bubble-filled adventures in low-pressure airflow"\ntagnames: 'calibration, diy, air, dustduino, open-air, openair, shinyei, particle-monitor, airflow, bubbles, soap, response:11949'
+title: "bubble-filled adventures in low-pressure airflow"
+
+tagnames: 'calibration, diy, air, dustduino, open-air, openair, shinyei, particle-monitor, airflow, bubbles, soap, response:11949'
 author: mathew
 path: /notes/mathew/06-10-2015/bubble-filled-adventures-in-low-pressure-airflow.md
 nid: 11968
@@ -11,7 +13,7 @@ uid: 4
 
 # bubble-filled adventures in low-pressure airflow
 
-by [mathew](../profile/mathew) | June 10, 2015 22:20
+by [mathew](../../../profile/mathew) | June 10, 2015 22:20
 
 June 10, 2015 22:20 | Tags: [calibration](../tag/calibration), [diy](../tag/diy), [air](../tag/air), [dustduino](../tag/dustduino), [open-air](../tag/open-air), [openair](../tag/openair), [shinyei](../tag/shinyei), [particle-monitor](../tag/particle-monitor), [airflow](../tag/airflow), [bubbles](../tag/bubbles), [soap](../tag/soap), [response:11949](../tag/response:11949)
 

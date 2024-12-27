@@ -1,5 +1,7 @@
 ---
-title: "San Francisco Mapping Meetup Saturday May 4th"\ntagnames: 'meetup, norcal, california, event'
+title: "San Francisco Mapping Meetup Saturday May 4th"
+
+tagnames: 'meetup, norcal, california, event'
 author: gonzoearth
 path: /notes/gonzoearth/05-03-2013/san-francisco-mapping-meetup-saturday-may-4th.md
 nid: 7224
@@ -11,7 +13,7 @@ uid: 12
 
 # San Francisco Mapping Meetup Saturday May 4th
 
-by [gonzoearth](../profile/gonzoearth) | May 03, 2013 18:16
+by [gonzoearth](../../../profile/gonzoearth) | May 03, 2013 18:16
 
 May 03, 2013 18:16 | Tags: [meetup](../tag/meetup), [norcal](../tag/norcal), [california](../tag/california), [event](../tag/event)
 

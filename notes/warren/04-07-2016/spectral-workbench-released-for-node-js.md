@@ -1,5 +1,7 @@
 ---
-title: "spectral-workbench released for Node.js"\ntagnames: 'web-development, spectral-workbench, code, javascript, nodejs'
+title: "spectral-workbench released for Node.js"
+
+tagnames: 'web-development, spectral-workbench, code, javascript, nodejs'
 author: warren
 path: /notes/warren/04-07-2016/spectral-workbench-released-for-node-js.md
 nid: 12933
@@ -11,7 +13,7 @@ uid: 1
 
 # spectral-workbench released for Node.js
 
-by [warren](../profile/warren) | April 07, 2016 16:19
+by [warren](../../../profile/warren) | April 07, 2016 16:19
 
 April 07, 2016 16:19 | Tags: [web-development](../tag/web-development), [spectral-workbench](../tag/spectral-workbench), [code](../tag/code), [javascript](../tag/javascript), [nodejs](../tag/nodejs)
 

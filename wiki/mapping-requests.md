@@ -1,5 +1,7 @@
 ---
-title: "Mapping Requests"\ntagnames: 'balloon-mapping, kite-mapping, aerial-photography, ifarm, pole-mapping, request:aerial-photography, parent:requests'
+title: "Mapping Requests"
+
+tagnames: 'balloon-mapping, kite-mapping, aerial-photography, ifarm, pole-mapping, request:aerial-photography, parent:requests'
 author: warren
 path: /wiki/mapping-requests.md
 nid: 14627

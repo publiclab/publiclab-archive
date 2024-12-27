@@ -1,5 +1,7 @@
 ---
-title: "educators"\ntagnames: 'redirect:education'
+title: "educators"
+
+tagnames: 'redirect:education'
 author: warren
 path: /wiki/educators.md
 nid: 20271

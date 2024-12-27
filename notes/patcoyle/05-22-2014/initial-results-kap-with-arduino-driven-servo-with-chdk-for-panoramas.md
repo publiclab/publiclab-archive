@@ -1,5 +1,7 @@
 ---
-title: "Initial results: Arduino driven servo with CHDK for aerial panoramas"\ntagnames: 'arduino, aerial-photography, panorama, autokap'
+title: "Initial results: Arduino driven servo with CHDK for aerial panoramas"
+
+tagnames: 'arduino, aerial-photography, panorama, autokap'
 author: patcoyle
 path: /notes/patcoyle/05-22-2014/initial-results-kap-with-arduino-driven-servo-with-chdk-for-panoramas.md
 nid: 10500
@@ -11,7 +13,7 @@ uid: 77
 
 # Initial results: Arduino driven servo with CHDK for aerial panoramas
 
-by [patcoyle](../profile/patcoyle) | May 22, 2014 04:21
+by [patcoyle](../../../profile/patcoyle) | May 22, 2014 04:21
 
 May 22, 2014 04:21 | Tags: [arduino](../tag/arduino), [aerial-photography](../tag/aerial-photography), [panorama](../tag/panorama), [autokap](../tag/autokap)
 

@@ -1,5 +1,7 @@
 ---
-title: "[Meta] Silos and opportunities to Share"\ntagnames: 'community, publiclab, meta, organization'
+title: "[Meta] Silos and opportunities to Share"
+
+tagnames: 'community, publiclab, meta, organization'
 author: pdhixenbaugh
 path: /notes/pdhixenbaugh/08-28-2017/meta-silos-and-opportunities-to-share.md
 nid: 14795
@@ -11,7 +13,7 @@ uid: 459085
 
 # [Meta] Silos and opportunities to Share
 
-by [pdhixenbaugh](../profile/pdhixenbaugh) | August 28, 2017 00:20
+by [pdhixenbaugh](../../../profile/pdhixenbaugh) | August 28, 2017 00:20
 
 August 28, 2017 00:20 | Tags: [community](../tag/community), [publiclab](../tag/publiclab), [meta](../tag/meta), [organization](../tag/organization)
 

@@ -1,5 +1,7 @@
 ---
-title: "Kite"\ntagnames: 'redirect:kite-mapping'
+title: "Kite"
+
+tagnames: 'redirect:kite-mapping'
 author: warren
 path: /wiki/kite.md
 nid: 18416

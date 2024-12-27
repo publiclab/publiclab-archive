@@ -1,5 +1,7 @@
 ---
-title: "Horticultural Spectrometer - Assembly II"\ntagnames: 'spectrometer, slit, blade, razor'
+title: "Horticultural Spectrometer - Assembly II"
+
+tagnames: 'spectrometer, slit, blade, razor'
 author: jenjimah
 path: /notes/jenjimah/06-02-2019/horticultural-spectrometer-assembly-ii.md
 nid: 19599
@@ -11,7 +13,7 @@ uid: 505738
 
 # Horticultural Spectrometer - Assembly II
 
-by [jenjimah](../profile/jenjimah) | June 02, 2019 18:37
+by [jenjimah](../../../profile/jenjimah) | June 02, 2019 18:37
 
 June 02, 2019 18:37 | Tags: [spectrometer](../tag/spectrometer), [slit](../tag/slit), [blade](../tag/blade), [razor](../tag/razor)
 

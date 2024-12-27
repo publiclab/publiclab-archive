@@ -1,5 +1,7 @@
 ---
-title: "Inspirational deltas"\ntagnames: 'kite-mapping, diy-kite, delta, kites, tyvek, kite-making'
+title: "Inspirational deltas"
+
+tagnames: 'kite-mapping, diy-kite, delta, kites, tyvek, kite-making'
 author: mathew
 path: /notes/mathew/2-23-2013/inspirational-deltas.md
 nid: 6097
@@ -11,7 +13,7 @@ uid: 4
 
 # Inspirational deltas
 
-by [mathew](../profile/mathew) | February 23, 2013 07:04
+by [mathew](../../../profile/mathew) | February 23, 2013 07:04
 
 February 23, 2013 07:04 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite), [delta](../tag/delta), [kites](../tag/kites), [tyvek](../tag/tyvek), [kite-making](../tag/kite-making)
 

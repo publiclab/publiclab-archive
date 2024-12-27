@@ -1,5 +1,7 @@
 ---
-title: "Rough placement of Chandeleur map"\ntagnames: 'balloon-mapping'
+title: "Rough placement of Chandeleur map"
+
+tagnames: 'balloon-mapping'
 author: warren
 path: /notes/warren/3-19-2012/rough-placement-chandeleur-map.md
 nid: 1489
@@ -11,7 +13,7 @@ uid: 1
 
 # Rough placement of Chandeleur map
 
-by [warren](../profile/warren) | March 19, 2012 23:41
+by [warren](../../../profile/warren) | March 19, 2012 23:41
 
 March 19, 2012 23:41 | Tags: [balloon-mapping](../tag/balloon-mapping)
 

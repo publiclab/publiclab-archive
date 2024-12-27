@@ -1,5 +1,7 @@
 ---
-title: "Infrared balloon image reveals Gowanus plume"\ntagnames: 'gowanus, nrg, infrared, plume, watchdog, great-photos'
+title: "Infrared balloon image reveals Gowanus plume"
+
+tagnames: 'gowanus, nrg, infrared, plume, watchdog, great-photos'
 author: liz
 path: /notes/liz/8-3-2011/ir-reveals-gowanus-plume.md
 nid: 425
@@ -11,7 +13,7 @@ uid: 7
 
 # Infrared balloon image reveals Gowanus plume
 
-by [liz](../profile/liz) | August 03, 2011 18:32
+by [liz](../../../profile/liz) | August 03, 2011 18:32
 
 August 03, 2011 18:32 | Tags: [gowanus](../tag/gowanus), [nrg](../tag/nrg), [infrared](../tag/infrared), [plume](../tag/plume), [watchdog](../tag/watchdog), [great-photos](../tag/great-photos)
 

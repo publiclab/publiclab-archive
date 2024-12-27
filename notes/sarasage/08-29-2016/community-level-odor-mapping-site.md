@@ -1,5 +1,7 @@
 ---
-title: "Community-level Odor Mapping Site"\ntagnames: 'landfill, california, barnstar:basic, los-angeles, regionalbarnraising, landfills, val-verde, odors, odor, activity:socalwastestream, activity:waste, odor-log, activity:odor, odor-logging, activity:odor-logging, odor-mapping'
+title: "Community-level Odor Mapping Site"
+
+tagnames: 'landfill, california, barnstar:basic, los-angeles, regionalbarnraising, landfills, val-verde, odors, odor, activity:socalwastestream, activity:waste, odor-log, activity:odor, odor-logging, activity:odor-logging, odor-mapping'
 author: sarasage
 path: /notes/sarasage/08-29-2016/community-level-odor-mapping-site.md
 nid: 13405
@@ -11,7 +13,7 @@ uid: 451398
 
 # Community-level Odor Mapping Site
 
-by [sarasage](../profile/sarasage) | August 29, 2016 19:57
+by [sarasage](../../../profile/sarasage) | August 29, 2016 19:57
 
 August 29, 2016 19:57 | Tags: [landfill](../tag/landfill), [california](../tag/california), [barnstar:basic](../tag/barnstar:basic), [los-angeles](../tag/los-angeles), [regionalbarnraising](../tag/regionalbarnraising), [landfills](../tag/landfills), [val-verde](../tag/val-verde), [odors](../tag/odors), [odor](../tag/odor), [activity:socalwastestream](../tag/activity:socalwastestream), [activity:waste](../tag/activity:waste), [odor-log](../tag/odor-log), [activity:odor](../tag/activity:odor), [odor-logging](../tag/odor-logging), [activity:odor-logging](../tag/activity:odor-logging), [odor-mapping](../tag/odor-mapping)
 

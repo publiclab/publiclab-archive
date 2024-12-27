@@ -1,5 +1,7 @@
 ---
-title: "Light Aircraft Aerial Mapping Setup"\ntagnames: 'near-infrared-camera, aerial-photography, plane, overflight, hand-clamp, clamp, cessna, window'
+title: "Light Aircraft Aerial Mapping Setup"
+
+tagnames: 'near-infrared-camera, aerial-photography, plane, overflight, hand-clamp, clamp, cessna, window'
 author: gonzoearth
 path: /notes/gonzoearth/4-23-2012/light-aircraft-aerial-mapping-setup.md
 nid: 1759
@@ -11,7 +13,7 @@ uid: 12
 
 # Light Aircraft Aerial Mapping Setup
 
-by [gonzoearth](../profile/gonzoearth) | April 23, 2012 20:04
+by [gonzoearth](../../../profile/gonzoearth) | April 23, 2012 20:04
 
 April 23, 2012 20:04 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [aerial-photography](../tag/aerial-photography), [plane](../tag/plane), [overflight](../tag/overflight), [hand-clamp](../tag/hand-clamp), [clamp](../tag/clamp), [cessna](../tag/cessna), [window](../tag/window)
 

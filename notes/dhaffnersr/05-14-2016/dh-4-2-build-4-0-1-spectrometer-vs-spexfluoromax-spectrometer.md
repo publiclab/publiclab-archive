@@ -1,5 +1,7 @@
 ---
-title: "DH 4.2 (build 4.0.1) spectrometer vs SpexFluoroMax spectrometer"\ntagnames: ''
+title: "DH 4.2 (build 4.0.1) spectrometer vs SpexFluoroMax spectrometer"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/05-14-2016/dh-4-2-build-4-0-1-spectrometer-vs-spexfluoromax-spectrometer.md
 nid: 13117
@@ -11,7 +13,7 @@ uid: 461120
 
 # DH 4.2 (build 4.0.1) spectrometer vs SpexFluoroMax spectrometer
 
-by [dhaffnersr](../profile/dhaffnersr) | May 14, 2016 21:15
+by [dhaffnersr](../../../profile/dhaffnersr) | May 14, 2016 21:15
 
 May 14, 2016 21:15 | Tags: 
 

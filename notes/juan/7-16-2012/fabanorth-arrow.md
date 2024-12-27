@@ -1,5 +1,7 @@
 ---
-title: "FABAnorth arrow"\ntagnames: 'balloon-mapping, kite-mapping, ground-control-points, svg, faba'
+title: "FABAnorth arrow"
+
+tagnames: 'balloon-mapping, kite-mapping, ground-control-points, svg, faba'
 author: Juan
 path: /notes/juan/7-16-2012/fabanorth-arrow.md
 nid: 2824
@@ -11,7 +13,7 @@ uid: 1310
 
 # FABAnorth arrow
 
-by [Juan](../profile/Juan) | July 16, 2012 18:08
+by [Juan](../../../profile/Juan) | July 16, 2012 18:08
 
 July 16, 2012 18:08 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [ground-control-points](../tag/ground-control-points), [svg](../tag/svg), [faba](../tag/faba)
 

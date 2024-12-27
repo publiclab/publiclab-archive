@@ -1,5 +1,7 @@
 ---
-title: "Adjustable 555-based shutter trigger circuit  "\ntagnames: '555-timer, camera-triggering, timer, 555'
+title: "Adjustable 555-based shutter trigger circuit  "
+
+tagnames: '555-timer, camera-triggering, timer, 555'
 author: mathew
 path: /notes/mathew/05-01-2018/adjustable-555-based-shutter-trigger-circuit.md
 nid: 103
@@ -9,7 +11,7 @@ uid: 4
 
 # Adjustable 555-based shutter trigger circuit  
 
-by [mathew](../profile/mathew) | February 26, 2011 05:38
+by [mathew](../../../profile/mathew) | February 26, 2011 05:38
 
 February 26, 2011 05:38 | Tags: [555-timer](../tag/555-timer), [camera-triggering](../tag/camera-triggering), [timer](../tag/timer), [555](../tag/555)
 

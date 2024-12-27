@@ -1,5 +1,7 @@
 ---
-title: "What are the differences between the Nano Data Logger and the Riffle?"\ntagnames: 'riffle, question:riffle, answered, nano-data-logger, question:nano-data-logger'
+title: "What are the differences between the Nano Data Logger and the Riffle?"
+
+tagnames: 'riffle, question:riffle, answered, nano-data-logger, question:nano-data-logger'
 author: warren
 path: /notes/warren/06-12-2017/what-are-the-differences-between-the-nano-data-logger-and-the-riffle.md
 nid: 14524
@@ -9,7 +11,7 @@ uid: 1
 
 # What are the differences between the Nano Data Logger and the Riffle?
 
-by [warren](../profile/warren) | June 12, 2017 20:20
+by [warren](../../../profile/warren) | June 12, 2017 20:20
 
 June 12, 2017 20:20 | Tags: [riffle](../tag/riffle), [question:riffle](../tag/question:riffle), [answered](../tag/answered), [nano-data-logger](../tag/nano-data-logger), [question:nano-data-logger](../tag/question:nano-data-logger)
 

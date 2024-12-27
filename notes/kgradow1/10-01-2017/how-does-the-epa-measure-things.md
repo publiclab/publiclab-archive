@@ -1,5 +1,7 @@
 ---
-title: "How does the EPA measure things, especially the size of dust particles?"\ntagnames: 'leaffest, epa, dust, silica, pm, answered, question:pm, question:particulates, question:silica, question:microscopes, question:dust, question:leaffest, question:regulation, question:epa, question:leaffest2017, question:dust-sampling, question:air-regulations, question:method'
+title: "How does the EPA measure things, especially the size of dust particles?"
+
+tagnames: 'leaffest, epa, dust, silica, pm, answered, question:pm, question:particulates, question:silica, question:microscopes, question:dust, question:leaffest, question:regulation, question:epa, question:leaffest2017, question:dust-sampling, question:air-regulations, question:method'
 author: kgradow1
 path: /notes/kgradow1/10-01-2017/how-does-the-epa-measure-things.md
 nid: 14985
@@ -9,7 +11,7 @@ uid: 297929
 
 # How does the EPA measure things, especially the size of dust particles?
 
-by [kgradow1](../profile/kgradow1) | October 01, 2017 12:11
+by [kgradow1](../../../profile/kgradow1) | October 01, 2017 12:11
 
 October 01, 2017 12:11 | Tags: [leaffest](../tag/leaffest), [epa](../tag/epa), [dust](../tag/dust), [silica](../tag/silica), [pm](../tag/pm), [answered](../tag/answered), [question:pm](../tag/question:pm), [question:particulates](../tag/question:particulates), [question:silica](../tag/question:silica), [question:microscopes](../tag/question:microscopes), [question:dust](../tag/question:dust), [question:leaffest](../tag/question:leaffest), [question:regulation](../tag/question:regulation), [question:epa](../tag/question:epa), [question:leaffest2017](../tag/question:leaffest2017), [question:dust-sampling](../tag/question:dust-sampling), [question:air-regulations](../tag/question:air-regulations), [question:method](../tag/question:method)
 

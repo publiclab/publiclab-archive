@@ -1,5 +1,7 @@
 ---
-title: "Rotating magnetic field generator potentate analgezic effect on human body "\ntagnames: 'rotating-magnetic-field-device, rmf-device, rmf, rotating-magnetic-field-device-analgesic-effect, therapy-device, generating-rotative-magnetic-field, the-effects-of-magnetic-fields, the-effect-of-rotating-magnetic-field, magnetosensitivity, electrical-field, x-device'
+title: "Rotating magnetic field generator potentate analgezic effect on human body "
+
+tagnames: 'rotating-magnetic-field-device, rmf-device, rmf, rotating-magnetic-field-device-analgesic-effect, therapy-device, generating-rotative-magnetic-field, the-effects-of-magnetic-fields, the-effect-of-rotating-magnetic-field, magnetosensitivity, electrical-field, x-device'
 author: sciencetoolbar
 path: /notes/sciencetoolbar/02-15-2018/rotating-magnetic-field-rmf-device-analgesic-effect-accelerates-human-body-proceses-research-note.md
 nid: 15741
@@ -11,7 +13,7 @@ uid: 513114
 
 # Rotating magnetic field generator potentate analgezic effect on human body 
 
-by [sciencetoolbar](../profile/sciencetoolbar) | February 15, 2018 14:17
+by [sciencetoolbar](../../../profile/sciencetoolbar) | February 15, 2018 14:17
 
 February 15, 2018 14:17 | Tags: [rotating-magnetic-field-device](../tag/rotating-magnetic-field-device), [rmf-device](../tag/rmf-device), [rmf](../tag/rmf), [rotating-magnetic-field-device-analgesic-effect](../tag/rotating-magnetic-field-device-analgesic-effect), [therapy-device](../tag/therapy-device), [generating-rotative-magnetic-field](../tag/generating-rotative-magnetic-field), [the-effects-of-magnetic-fields](../tag/the-effects-of-magnetic-fields), [the-effect-of-rotating-magnetic-field](../tag/the-effect-of-rotating-magnetic-field), [magnetosensitivity](../tag/magnetosensitivity), [electrical-field](../tag/electrical-field), [x-device](../tag/x-device)
 

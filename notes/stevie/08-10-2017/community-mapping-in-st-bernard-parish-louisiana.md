@@ -1,5 +1,7 @@
 ---
-title: "Community Mapping in St. Bernard Parish, Louisiana"\ntagnames: 'gulf-coast, balloon-mapping, kite-mapping, event, new-orleans, nas, st.bernard'
+title: "Community Mapping in St. Bernard Parish, Louisiana"
+
+tagnames: 'gulf-coast, balloon-mapping, kite-mapping, event, new-orleans, nas, st.bernard'
 author: stevie
 path: /notes/stevie/08-10-2017/community-mapping-in-st-bernard-parish-louisiana.md
 nid: 14729
@@ -11,7 +13,7 @@ uid: 422561
 
 # Community Mapping in St. Bernard Parish, Louisiana
 
-by [stevie](../profile/stevie) | August 10, 2017 17:50
+by [stevie](../../../profile/stevie) | August 10, 2017 17:50
 
 August 10, 2017 17:50 | Tags: [gulf-coast](../tag/gulf-coast), [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [event](../tag/event), [new-orleans](../tag/new-orleans), [nas](../tag/nas), [st.bernard](../tag/st.bernard)
 

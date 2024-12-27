@@ -1,5 +1,7 @@
 ---
-title: "interior aerial photos"\ntagnames: ''
+title: "interior aerial photos"
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/8-21-2012/interior-aerial-photos.md
 nid: 3352
@@ -9,7 +11,7 @@ uid: 12
 
 # interior aerial photos
 
-by [gonzoearth](../profile/gonzoearth) | August 21, 2012 19:43
+by [gonzoearth](../../../profile/gonzoearth) | August 21, 2012 19:43
 
 August 21, 2012 19:43 | Tags: 
 

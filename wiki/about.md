@@ -1,5 +1,7 @@
 ---
-title: "About Public Lab"\ntagnames: 'style:wide, about'
+title: "About Public Lab"
+
+tagnames: 'style:wide, about'
 author: warren
 path: /wiki/about.md
 nid: 4

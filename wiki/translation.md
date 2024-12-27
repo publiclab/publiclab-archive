@@ -1,5 +1,7 @@
 ---
-title: "Translation"\ntagnames: 'community, website, internationalization, localization, translation, language, prompt:translation'
+title: "Translation"
+
+tagnames: 'community, website, internationalization, localization, translation, language, prompt:translation'
 author: liz
 path: /wiki/translation.md
 nid: 13654

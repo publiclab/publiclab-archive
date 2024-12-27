@@ -1,5 +1,7 @@
 ---
-title: "Public Lab friends, partners and collaborators"\ntagnames: 'community, partnerships, citizenscience'
+title: "Public Lab friends, partners and collaborators"
+
+tagnames: 'community, partnerships, citizenscience'
 author: Shannon
 path: /wiki/partners.md
 nid: 11013

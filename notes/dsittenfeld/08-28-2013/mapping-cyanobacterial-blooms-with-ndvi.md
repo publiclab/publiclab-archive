@@ -1,5 +1,7 @@
 ---
-title: "Mapping Cyanobacterial Blooms with NDVI"\ntagnames: 'near-infrared-camera, ndvi, boston, infragram, algae, bacterial-blooms, bacteria, museum-of-science, response:337, cyanobacteria, response:8809'
+title: "Mapping Cyanobacterial Blooms with NDVI"
+
+tagnames: 'near-infrared-camera, ndvi, boston, infragram, algae, bacterial-blooms, bacteria, museum-of-science, response:337, cyanobacteria, response:8809'
 author: dsittenfeld
 path: /notes/dsittenfeld/08-28-2013/mapping-cyanobacterial-blooms-with-ndvi.md
 nid: 9061
@@ -11,7 +13,7 @@ uid: 170174
 
 # Mapping Cyanobacterial Blooms with NDVI
 
-by [dsittenfeld](../profile/dsittenfeld) | August 28, 2013 03:15
+by [dsittenfeld](../../../profile/dsittenfeld) | August 28, 2013 03:15
 
 August 28, 2013 03:15 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [boston](../tag/boston), [infragram](../tag/infragram), [algae](../tag/algae), [bacterial-blooms](../tag/bacterial-blooms), [bacteria](../tag/bacteria), [museum-of-science](../tag/museum-of-science), [response:337](../tag/response:337), [cyanobacteria](../tag/cyanobacteria), [response:8809](../tag/response:8809)
 

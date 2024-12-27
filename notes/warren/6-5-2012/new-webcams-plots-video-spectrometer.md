@@ -1,5 +1,7 @@
 ---
-title: "New webcams for PLOTS video spectrometer"\ntagnames: 'spectrometer'
+title: "New webcams for PLOTS video spectrometer"
+
+tagnames: 'spectrometer'
 author: warren
 path: /notes/warren/6-5-2012/new-webcams-plots-video-spectrometer.md
 nid: 2349
@@ -11,7 +13,7 @@ uid: 1
 
 # New webcams for PLOTS video spectrometer
 
-by [warren](../profile/warren) | June 05, 2012 15:33
+by [warren](../../../profile/warren) | June 05, 2012 15:33
 
 June 05, 2012 15:33 | Tags: [spectrometer](../tag/spectrometer)
 

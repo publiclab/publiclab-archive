@@ -1,5 +1,7 @@
 ---
-title: "Mapping the Tar Sands Healing Walk"\ntagnames: 'kite-mapping, protest-mapping, oil, pipeline, canada, alberta, oil-sands, fort-mcmurray, oil-and-gas, first-time-poster'
+title: "Mapping the Tar Sands Healing Walk"
+
+tagnames: 'kite-mapping, protest-mapping, oil, pipeline, canada, alberta, oil-sands, fort-mcmurray, oil-and-gas, first-time-poster'
 author: ann
 path: /notes/ann/10-04-2014/mapping-the-tar-sands-healing-walk.md
 nid: 11229
@@ -11,7 +13,7 @@ uid: 421543
 
 # Mapping the Tar Sands Healing Walk
 
-by [ann](../profile/ann) | October 04, 2014 01:51
+by [ann](../../../profile/ann) | October 04, 2014 01:51
 
 October 04, 2014 01:51 | Tags: [kite-mapping](../tag/kite-mapping), [protest-mapping](../tag/protest-mapping), [oil](../tag/oil), [pipeline](../tag/pipeline), [canada](../tag/canada), [alberta](../tag/alberta), [oil-sands](../tag/oil-sands), [fort-mcmurray](../tag/fort-mcmurray), [oil-and-gas](../tag/oil-and-gas), [first-time-poster](../tag/first-time-poster)
 

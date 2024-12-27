@@ -1,5 +1,7 @@
 ---
-title: "Conducting and Writing a Health Effects Literature Review"\ntagnames: 'research, tool, methods, literature-review, method'
+title: "Conducting and Writing a Health Effects Literature Review"
+
+tagnames: 'research, tool, methods, literature-review, method'
 author: gretchengehrke
 path: /wiki/health-effects-lit-review.md
 nid: 13399

@@ -1,5 +1,7 @@
 ---
-title: "WheeTrometer Optics and Wavelength Calibration"\ntagnames: 'spectrometer, wheetrometer, spectrophotometry'
+title: "WheeTrometer Optics and Wavelength Calibration"
+
+tagnames: 'spectrometer, wheetrometer, spectrophotometry'
 author: JSummers
 path: /notes/JSummers/07-18-2019/wheetrometer-optics-and-wavelength-calibration.md
 nid: 20183
@@ -11,7 +13,7 @@ uid: 304279
 
 # WheeTrometer Optics and Wavelength Calibration
 
-by [JSummers](../profile/JSummers) | July 18, 2019 19:55
+by [JSummers](../../../profile/JSummers) | July 18, 2019 19:55
 
 July 18, 2019 19:55 | Tags: [spectrometer](../tag/spectrometer), [wheetrometer](../tag/wheetrometer), [spectrophotometry](../tag/spectrophotometry)
 

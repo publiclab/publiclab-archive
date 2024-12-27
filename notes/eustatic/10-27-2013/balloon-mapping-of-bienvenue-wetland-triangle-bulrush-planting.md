@@ -1,5 +1,7 @@
 ---
-title: "Balloon Mapping of Bienvenue Wetland Triangle Bulrush Planting"\ntagnames: 'balloon-mapping, annotated-maps, bayou-bienvenue, bienvenue, blog'
+title: "Balloon Mapping of Bienvenue Wetland Triangle Bulrush Planting"
+
+tagnames: 'balloon-mapping, annotated-maps, bayou-bienvenue, bienvenue, blog'
 author: eustatic
 path: /10-27-2013/balloon-mapping-of-bienvenue-wetland-triangle-bulrush-planting.md
 nid: 9644
@@ -11,7 +13,7 @@ uid: 379
 
 # Balloon Mapping of Bienvenue Wetland Triangle Bulrush Planting
 
-by [eustatic](../profile/eustatic) | October 27, 2013 16:39
+by [eustatic](../../../profile/eustatic) | October 27, 2013 16:39
 
 October 27, 2013 16:39 | Tags: [balloon-mapping](../tag/balloon-mapping), [annotated-maps](../tag/annotated-maps), [bayou-bienvenue](../tag/bayou-bienvenue), [bienvenue](../tag/bienvenue), [blog](../tag/blog)
 

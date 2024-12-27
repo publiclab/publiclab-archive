@@ -1,5 +1,7 @@
 ---
-title: "Smartphone Spectrometer"\ntagnames: 'spectrometer, spectrometry, smartphone-spectrometer'
+title: "Smartphone Spectrometer"
+
+tagnames: 'spectrometer, spectrometry, smartphone-spectrometer'
 author: omarormachea
 path: /notes/omarormachea/10-20-2017/smartphone-spectrometer.md
 nid: 15077
@@ -11,7 +13,7 @@ uid: 426114
 
 # Smartphone Spectrometer
 
-by [omarormachea](../profile/omarormachea) | October 20, 2017 20:58
+by [omarormachea](../../../profile/omarormachea) | October 20, 2017 20:58
 
 October 20, 2017 20:58 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [smartphone-spectrometer](../tag/smartphone-spectrometer)
 

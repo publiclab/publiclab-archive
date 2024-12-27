@@ -1,5 +1,7 @@
 ---
-title: "Carbol Fuchsin Doped with Lugol’s Iodine Solution AUG 13 2016"\ntagnames: ''
+title: "Carbol Fuchsin Doped with Lugol’s Iodine Solution AUG 13 2016"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/08-16-2016/carbol-fuchsin-doped-with-lugol-s-iodine-solution-aug-13-2016.md
 nid: 13355
@@ -11,7 +13,7 @@ uid: 461120
 
 # Carbol Fuchsin Doped with Lugol’s Iodine Solution AUG 13 2016
 
-by [dhaffnersr](../profile/dhaffnersr) | August 16, 2016 20:42
+by [dhaffnersr](../../../profile/dhaffnersr) | August 16, 2016 20:42
 
 August 16, 2016 20:42 | Tags: 
 

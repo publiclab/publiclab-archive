@@ -1,5 +1,7 @@
 ---
-title: "Suggested Readings"\ntagnames: 'readings, literature-review, works-cited, bibliography'
+title: "Suggested Readings"
+
+tagnames: 'readings, literature-review, works-cited, bibliography'
 author: Shannon
 path: /wiki/suggested-readings.md
 nid: 404

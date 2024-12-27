@@ -1,5 +1,7 @@
 ---
-title: "Infragram Point and Shoot Plant Cam"\ntagnames: 'infragram, question:infragram, question:infragram-point-shoot'
+title: "Infragram Point and Shoot Plant Cam"
+
+tagnames: 'infragram, question:infragram, question:infragram-point-shoot'
 author: alexrfholland
 path: /notes/alexrfholland/09-06-2016/infragram-point-and-shoot-plant-cam.md
 nid: 13418
@@ -11,7 +13,7 @@ uid: 490194
 
 # Infragram Point and Shoot Plant Cam
 
-by [alexrfholland](../profile/alexrfholland) | September 06, 2016 03:53
+by [alexrfholland](../../../profile/alexrfholland) | September 06, 2016 03:53
 
 September 06, 2016 03:53 | Tags: [infragram](../tag/infragram), [question:infragram](../tag/question:infragram), [question:infragram-point-shoot](../tag/question:infragram-point-shoot)
 

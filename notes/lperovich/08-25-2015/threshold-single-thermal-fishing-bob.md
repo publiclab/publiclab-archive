@@ -1,5 +1,7 @@
 ---
-title: "Threshold single thermal fishing bob"\ntagnames: 'thermal-fishing, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689'
+title: "Threshold single thermal fishing bob"
+
+tagnames: 'thermal-fishing, water-quality, thermal-fishing-bob, thermal, thermal-pollution, heat, replication:689'
 author: lperovich
 path: /notes/lperovich/08-25-2015/threshold-single-thermal-fishing-bob.md
 nid: 12170
@@ -11,7 +13,7 @@ uid: 443410
 
 # Threshold single thermal fishing bob
 
-by [lperovich](../profile/lperovich) | August 25, 2015 22:13
+by [lperovich](../../../profile/lperovich) | August 25, 2015 22:13
 
 August 25, 2015 22:13 | Tags: [thermal-fishing](../tag/thermal-fishing), [water-quality](../tag/water-quality), [thermal-fishing-bob](../tag/thermal-fishing-bob), [thermal](../tag/thermal), [thermal-pollution](../tag/thermal-pollution), [heat](../tag/heat), [replication:689](../tag/replication:689)
 

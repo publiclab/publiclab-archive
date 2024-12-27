@@ -1,5 +1,7 @@
 ---
-title: "txbr"\ntagnames: 'redirect:17210'
+title: "txbr"
+
+tagnames: 'redirect:17210'
 author: liz
 path: /wiki/txbr.md
 nid: 18342

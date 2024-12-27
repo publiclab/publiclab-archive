@@ -1,5 +1,7 @@
 ---
-title: "DIY Oil Testing Toolkit: Graphic Template Release!"\ntagnames: 'spectrometer, community, workshops, oil-testing-kit, barnstar:basic, with:warren, homebrew-oil-testing-kit, booklet'
+title: "DIY Oil Testing Toolkit: Graphic Template Release!"
+
+tagnames: 'spectrometer, community, workshops, oil-testing-kit, barnstar:basic, with:warren, homebrew-oil-testing-kit, booklet'
 author: mlamadrid
 path: /notes/mlamadrid/05-04-2016/diy-oil-testing-toolkit-graphic-template-release.md
 nid: 13071
@@ -11,7 +13,7 @@ uid: 45586
 
 # DIY Oil Testing Toolkit: Graphic Template Release!
 
-by [mlamadrid](../profile/mlamadrid) | May 04, 2016 16:35
+by [mlamadrid](../../../profile/mlamadrid) | May 04, 2016 16:35
 
 May 04, 2016 16:35 | Tags: [spectrometer](../tag/spectrometer), [community](../tag/community), [workshops](../tag/workshops), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:basic](../tag/barnstar:basic), [with:warren](../tag/with:warren), [homebrew-oil-testing-kit](../tag/homebrew-oil-testing-kit), [booklet](../tag/booklet)
 

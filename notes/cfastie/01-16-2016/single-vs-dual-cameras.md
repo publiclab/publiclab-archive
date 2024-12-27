@@ -1,5 +1,7 @@
 ---
-title: "Single vs. dual cameras"\ntagnames: 'ndvi, infrared, filter, infragram, plant-health, dualband, midopt, dichroic, interference, response:12473'
+title: "Single vs. dual cameras"
+
+tagnames: 'ndvi, infrared, filter, infragram, plant-health, dualband, midopt, dichroic, interference, response:12473'
 author: cfastie
 path: /notes/cfastie/01-16-2016/single-vs-dual-cameras.md
 nid: 12592
@@ -11,7 +13,7 @@ uid: 554
 
 # Single vs. dual cameras
 
-by [cfastie](../profile/cfastie) | January 16, 2016 21:41
+by [cfastie](../../../profile/cfastie) | January 16, 2016 21:41
 
 January 16, 2016 21:41 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [dualband](../tag/dualband), [midopt](../tag/midopt), [dichroic](../tag/dichroic), [interference](../tag/interference), [response:12473](../tag/response:12473)
 

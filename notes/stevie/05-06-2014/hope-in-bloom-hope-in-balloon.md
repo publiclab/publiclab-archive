@@ -1,5 +1,7 @@
 ---
-title: "Hope in Bloom: Hope in Balloon"\ntagnames: 'new-york-city, balloon-mapping, nyc, elpuente, southside, williamsburg, first-time-poster'
+title: "Hope in Bloom: Hope in Balloon"
+
+tagnames: 'new-york-city, balloon-mapping, nyc, elpuente, southside, williamsburg, first-time-poster'
 author: stevie
 path: /notes/stevie/05-06-2014/hope-in-bloom-hope-in-balloon.md
 nid: 10428
@@ -11,7 +13,7 @@ uid: 422561
 
 # Hope in Bloom: Hope in Balloon
 
-by [stevie](../profile/stevie) | May 06, 2014 16:27
+by [stevie](../../../profile/stevie) | May 06, 2014 16:27
 
 May 06, 2014 16:27 | Tags: [new-york-city](../tag/new-york-city), [balloon-mapping](../tag/balloon-mapping), [nyc](../tag/nyc), [elpuente](../tag/elpuente), [southside](../tag/southside), [williamsburg](../tag/williamsburg), [first-time-poster](../tag/first-time-poster)
 

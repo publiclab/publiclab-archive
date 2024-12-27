@@ -1,5 +1,7 @@
 ---
-title: "Terrain Surveying with Emery Boards"\ntagnames: 'oil, pipeline, survey, industry, hardware, oil-and-gas, activity:site-survey, topography, activity:new, pipelines, elevation, emery-board'
+title: "Terrain Surveying with Emery Boards"
+
+tagnames: 'oil, pipeline, survey, industry, hardware, oil-and-gas, activity:site-survey, topography, activity:new, pipelines, elevation, emery-board'
 author: a1ahna
 path: /notes/a1ahna/12-12-2018/terrain-surveying-with-emery-boards.md
 nid: 17856
@@ -11,7 +13,7 @@ uid: 518193
 
 # Terrain Surveying with Emery Boards
 
-by [a1ahna](../profile/a1ahna) | December 10, 2018 20:25
+by [a1ahna](../../../profile/a1ahna) | December 10, 2018 20:25
 
 December 10, 2018 20:25 | Tags: [oil](../tag/oil), [pipeline](../tag/pipeline), [survey](../tag/survey), [industry](../tag/industry), [hardware](../tag/hardware), [oil-and-gas](../tag/oil-and-gas), [activity:site-survey](../tag/activity:site-survey), [topography](../tag/topography), [activity:new](../tag/activity:new), [pipelines](../tag/pipelines), [elevation](../tag/elevation), [emery-board](../tag/emery-board)
 

@@ -1,5 +1,7 @@
 ---
-title: "Balloon mapping and Soil sampling behind the scenes"\ntagnames: 'first-time-poster, zoom:6, lat:30.043257, lon:-90.560086'
+title: "Balloon mapping and Soil sampling behind the scenes"
+
+tagnames: 'first-time-poster, zoom:6, lat:30.043257, lon:-90.560086'
 author: Puppylover07
 path: /notes/Puppylover07/04-30-2021/balloon-mapping-and-soil-sampling-behind-the-scenes.md
 nid: 26427
@@ -11,7 +13,7 @@ uid: 754788
 
 # Balloon mapping and Soil sampling behind the scenes
 
-by [Puppylover07](../profile/Puppylover07) | April 30, 2021 18:35
+by [Puppylover07](../../../profile/Puppylover07) | April 30, 2021 18:35
 
 April 30, 2021 18:35 | Tags: [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [lat:30.043257](../tag/lat:30.043257), [lon:-90.560086](../tag/lon:-90.560086)
 

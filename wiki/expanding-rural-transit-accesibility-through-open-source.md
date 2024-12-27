@@ -1,5 +1,7 @@
 ---
-title: "Expanding Rural Transit Accesibility through Open Source"\ntagnames: 'transit'
+title: "Expanding Rural Transit Accesibility through Open Source"
+
+tagnames: 'transit'
 author: ajawitz
 path: /wiki/expanding-rural-transit-accesibility-through-open-source.md
 nid: 10216

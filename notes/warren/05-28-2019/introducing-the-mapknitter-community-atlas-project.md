@@ -1,5 +1,7 @@
 ---
-title: "Introducing the MapKnitter: Community Atlas project"\ntagnames: 'balloon-mapping, kite-mapping, grassrootsmapping, mapknitter, aerial-photography, software, gsoc, blog, aerial-mapping, leaflet, code, fellows, soc, lon:-71.426406, gsoc-2019, soc-2019, community-atlas, lat:41.809084'
+title: "Introducing the MapKnitter: Community Atlas project"
+
+tagnames: 'balloon-mapping, kite-mapping, grassrootsmapping, mapknitter, aerial-photography, software, gsoc, blog, aerial-mapping, leaflet, code, fellows, soc, lon:-71.426406, gsoc-2019, soc-2019, community-atlas, lat:41.809084'
 author: warren
 path: /notes/warren/05-28-2019/introducing-the-mapknitter-community-atlas-project.md
 nid: 19558
@@ -11,7 +13,7 @@ uid: 1
 
 # Introducing the MapKnitter: Community Atlas project
 
-by [warren](../profile/warren) | May 28, 2019 16:17
+by [warren](../../../profile/warren) | May 28, 2019 16:17
 
 May 28, 2019 16:17 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [grassrootsmapping](../tag/grassrootsmapping), [mapknitter](../tag/mapknitter), [aerial-photography](../tag/aerial-photography), [software](../tag/software), [gsoc](../tag/gsoc), [blog](../tag/blog), [aerial-mapping](../tag/aerial-mapping), [leaflet](../tag/leaflet), [code](../tag/code), [fellows](../tag/fellows), [soc](../tag/soc), [lon:-71.426406](../tag/lon:-71.426406), [gsoc-2019](../tag/gsoc-2019), [soc-2019](../tag/soc-2019), [community-atlas](../tag/community-atlas), [lat:41.809084](../tag/lat:41.809084)
 

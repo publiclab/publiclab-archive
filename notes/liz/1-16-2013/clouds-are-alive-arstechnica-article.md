@@ -1,5 +1,7 @@
 ---
-title: ""the clouds are alive" -- ArsTechnica article"\ntagnames: 'air-column-monitor, microbes'
+title: ""the clouds are alive" -- ArsTechnica article"
+
+tagnames: 'air-column-monitor, microbes'
 author: liz
 path: /notes/liz/1-16-2013/clouds-are-alive-arstechnica-article.md
 nid: 5615
@@ -11,7 +13,7 @@ uid: 7
 
 # "the clouds are alive" -- ArsTechnica article
 
-by [liz](../profile/liz) | January 16, 2013 21:54
+by [liz](../../../profile/liz) | January 16, 2013 21:54
 
 January 16, 2013 21:54 | Tags: [air-column-monitor](../tag/air-column-monitor), [microbes](../tag/microbes)
 

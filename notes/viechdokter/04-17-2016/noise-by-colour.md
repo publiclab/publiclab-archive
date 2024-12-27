@@ -1,5 +1,7 @@
 ---
-title: "Noise by colour"\ntagnames: 'spectrometer, rgb, bayer-filter, color, noise, activity:spectrometry'
+title: "Noise by colour"
+
+tagnames: 'spectrometer, rgb, bayer-filter, color, noise, activity:spectrometry'
 author: viechdokter
 path: /notes/viechdokter/04-17-2016/noise-by-colour.md
 nid: 12994
@@ -11,7 +13,7 @@ uid: 468990
 
 # Noise by colour
 
-by [viechdokter](../profile/viechdokter) | April 17, 2016 19:12
+by [viechdokter](../../../profile/viechdokter) | April 17, 2016 19:12
 
 April 17, 2016 19:12 | Tags: [spectrometer](../tag/spectrometer), [rgb](../tag/rgb), [bayer-filter](../tag/bayer-filter), [color](../tag/color), [noise](../tag/noise), [activity:spectrometry](../tag/activity:spectrometry)
 

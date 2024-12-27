@@ -1,5 +1,7 @@
 ---
-title: "OTK Proto3 Analysis"\ntagnames: 'spectrometer, oil, laser, oil-testing-kit, barnstar:empiricism, otk, otkbeta, dilution, wow, response:12593, grading-oils'
+title: "OTK Proto3 Analysis"
+
+tagnames: 'spectrometer, oil, laser, oil-testing-kit, barnstar:empiricism, otk, otkbeta, dilution, wow, response:12593, grading-oils'
 author: stoft
 path: /notes/stoft/01-26-2016/otk-proto3-analysis.md
 nid: 12618
@@ -11,7 +13,7 @@ uid: 54025
 
 # OTK Proto3 Analysis
 
-by [stoft](../profile/stoft) | January 26, 2016 00:12
+by [stoft](../../../profile/stoft) | January 26, 2016 00:12
 
 January 26, 2016 00:12 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [laser](../tag/laser), [oil-testing-kit](../tag/oil-testing-kit), [barnstar:empiricism](../tag/barnstar:empiricism), [otk](../tag/otk), [otkbeta](../tag/otkbeta), [dilution](../tag/dilution), [wow](../tag/wow), [response:12593](../tag/response:12593), [grading-oils](../tag/grading-oils)
 

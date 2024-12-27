@@ -1,5 +1,7 @@
 ---
-title: "Is there an offline version of Mapknitter? "\ntagnames: 'mapknitter, answered, question:mapknitter'
+title: "Is there an offline version of Mapknitter? "
+
+tagnames: 'mapknitter, answered, question:mapknitter'
 author: stevie
 path: /notes/stevie/09-20-2017/is-there-an-offline-version-of-mapknitter.md
 nid: 14917
@@ -9,7 +11,7 @@ uid: 422561
 
 # Is there an offline version of Mapknitter? 
 
-by [stevie](../profile/stevie) | September 20, 2017 15:07
+by [stevie](../../../profile/stevie) | September 20, 2017 15:07
 
 September 20, 2017 15:07 | Tags: [mapknitter](../tag/mapknitter), [answered](../tag/answered), [question:mapknitter](../tag/question:mapknitter)
 

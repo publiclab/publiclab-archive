@@ -1,5 +1,7 @@
 ---
-title: "PLOTS map tools walkthrough  "\ntagnames: ''
+title: "PLOTS map tools walkthrough  "
+
+tagnames: ''
 author: gonzoearth
 path: /notes/gonzoearth/8-6-2011/plots-map-tools-walkthrough.md
 nid: 433
@@ -11,7 +13,7 @@ uid: 12
 
 # PLOTS map tools walkthrough  
 
-by [gonzoearth](../profile/gonzoearth) | August 06, 2011 16:15
+by [gonzoearth](../../../profile/gonzoearth) | August 06, 2011 16:15
 
 August 06, 2011 16:15 | Tags: 
 

@@ -1,5 +1,7 @@
 ---
-title: "Community Microscope Kit"\ntagnames: 'dust, pm, microscope, method, microscopes, communityscience, community-kits, parent:microscopes, microplastics, community-microscope, communitymicroscope, activities:microscope, questions:community-microscope, micro'
+title: "Community Microscope Kit"
+
+tagnames: 'dust, pm, microscope, method, microscopes, communityscience, community-kits, parent:microscopes, microplastics, community-microscope, communitymicroscope, activities:microscope, questions:community-microscope, micro'
 author: warren
 path: /wiki/micro.md
 nid: 16329

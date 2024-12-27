@@ -1,5 +1,7 @@
 ---
-title: "Qualitative Time Lapse of Copper Corrosion"\ntagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, barnstar:basic, barnstar:empiricism, h2s-copper-pipe, activity:h2s, activity:hydrogen-sulfide, activity:h2s-copper-pipe, copper-rods, qualitative, replication:15142'
+title: "Qualitative Time Lapse of Copper Corrosion"
+
+tagnames: 'hydrogen-sulfide-sensing, hydrogen-sulfide, h2s, barnstar:basic, barnstar:empiricism, h2s-copper-pipe, activity:h2s, activity:hydrogen-sulfide, activity:h2s-copper-pipe, copper-rods, qualitative, replication:15142'
 author: ErikHanley11
 path: /notes/ErikHanley11/04-12-2018/qualitative-time-lapse-of-copper-corrosion.md
 nid: 16138
@@ -11,7 +13,7 @@ uid: 444638
 
 # Qualitative Time Lapse of Copper Corrosion
 
-by [ErikHanley11](../profile/ErikHanley11) | April 12, 2018 01:58
+by [ErikHanley11](../../../profile/ErikHanley11) | April 12, 2018 01:58
 
 April 12, 2018 01:58 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [hydrogen-sulfide](../tag/hydrogen-sulfide), [h2s](../tag/h2s), [barnstar:basic](../tag/barnstar:basic), [barnstar:empiricism](../tag/barnstar:empiricism), [h2s-copper-pipe](../tag/h2s-copper-pipe), [activity:h2s](../tag/activity:h2s), [activity:hydrogen-sulfide](../tag/activity:hydrogen-sulfide), [activity:h2s-copper-pipe](../tag/activity:h2s-copper-pipe), [copper-rods](../tag/copper-rods), [qualitative](../tag/qualitative), [replication:15142](../tag/replication:15142)
 

@@ -1,5 +1,7 @@
 ---
-title: "NDVI in realtime video"\ntagnames: 'ndvi, infrared, question:ndvi, ndvi-arg, argiculture'
+title: "NDVI in realtime video"
+
+tagnames: 'ndvi, infrared, question:ndvi, ndvi-arg, argiculture'
 author: andresc4
 path: /notes/Andresc4/02-24-2015/ndvi-in-realtime-video.md
 nid: 11633
@@ -11,7 +13,7 @@ uid: 328260
 
 # NDVI in realtime video
 
-by [andresc4](../profile/andresc4) | February 24, 2015 16:37
+by [andresc4](../../../profile/andresc4) | February 24, 2015 16:37
 
 February 24, 2015 16:37 | Tags: [ndvi](../tag/ndvi), [infrared](../tag/infrared), [question:ndvi](../tag/question:ndvi), [ndvi-arg](../tag/ndvi-arg), [argiculture](../tag/argiculture)
 

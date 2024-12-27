@@ -1,5 +1,7 @@
 ---
-title: "Log all the data with Adafruit's TPL5110 Low Power Timer"\ntagnames: 'arduino, sensors, datalogger, low-power, data-logging, bme280, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger, bmp280, activity:data-logging-power, tpl5110, low-power-logging'
+title: "Log all the data with Adafruit's TPL5110 Low Power Timer"
+
+tagnames: 'arduino, sensors, datalogger, low-power, data-logging, bme280, activity:data-logging, mini-pearl-logger, activity:mini-pearl-logger, bmp280, activity:data-logging-power, tpl5110, low-power-logging'
 author: cfastie
 path: /notes/cfastie/12-21-2017/log-all-the-data-with-adafruit-s-tpl5110-low-power-timer.md
 nid: 15413
@@ -11,7 +13,7 @@ uid: 554
 
 # Log all the data with Adafruit's TPL5110 Low Power Timer
 
-by [cfastie](../profile/cfastie) | December 21, 2017 22:02
+by [cfastie](../../../profile/cfastie) | December 21, 2017 22:02
 
 December 21, 2017 22:02 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [datalogger](../tag/datalogger), [low-power](../tag/low-power), [data-logging](../tag/data-logging), [bme280](../tag/bme280), [activity:data-logging](../tag/activity:data-logging), [mini-pearl-logger](../tag/mini-pearl-logger), [activity:mini-pearl-logger](../tag/activity:mini-pearl-logger), [bmp280](../tag/bmp280), [activity:data-logging-power](../tag/activity:data-logging-power), [tpl5110](../tag/tpl5110), [low-power-logging](../tag/low-power-logging)
 

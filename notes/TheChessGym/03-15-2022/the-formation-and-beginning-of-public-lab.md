@@ -1,5 +1,7 @@
 ---
-title: "The Formation and Beginning of "Public Lab" "\ntagnames: 'microplastics, zoom:6, lat:22.004174, lon:76.003417'
+title: "The Formation and Beginning of "Public Lab" "
+
+tagnames: 'microplastics, zoom:6, lat:22.004174, lon:76.003417'
 author: TheChessGym
 path: /notes/TheChessGym/03-15-2022/the-formation-and-beginning-of-public-lab.md
 nid: 30130
@@ -11,7 +13,7 @@ uid: 788868
 
 # The Formation and Beginning of "Public Lab" 
 
-by [TheChessGym](../profile/TheChessGym) | March 15, 2022 14:39
+by [TheChessGym](../../../profile/TheChessGym) | March 15, 2022 14:39
 
 March 15, 2022 14:39 | Tags: [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
 

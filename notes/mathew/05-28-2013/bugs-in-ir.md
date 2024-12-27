@@ -1,5 +1,7 @@
 ---
-title: "Bugs in IR"\ntagnames: 'near-infrared-camera, infragram'
+title: "Bugs in IR"
+
+tagnames: 'near-infrared-camera, infragram'
 author: mathew
 path: /notes/mathew/05-28-2013/bugs-in-ir.md
 nid: 7944
@@ -11,7 +13,7 @@ uid: 4
 
 # Bugs in IR
 
-by [mathew](../profile/mathew) | May 28, 2013 16:27
+by [mathew](../../../profile/mathew) | May 28, 2013 16:27
 
 May 28, 2013 16:27 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [infragram](../tag/infragram)
 

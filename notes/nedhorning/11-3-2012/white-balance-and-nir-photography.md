@@ -1,5 +1,7 @@
 ---
-title: "White balance and NIR photography"\ntagnames: 'near-infrared-camera, nir, infrared, white-balance'
+title: "White balance and NIR photography"
+
+tagnames: 'near-infrared-camera, nir, infrared, white-balance'
 author: nedhorning
 path: /notes/nedhorning/11-3-2012/white-balance-and-nir-photography.md
 nid: 4759
@@ -11,7 +13,7 @@ uid: 133
 
 # White balance and NIR photography
 
-by [nedhorning](../profile/nedhorning) | November 03, 2012 12:00
+by [nedhorning](../../../profile/nedhorning) | November 03, 2012 12:00
 
 November 03, 2012 12:00 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [nir](../tag/nir), [infrared](../tag/infrared), [white-balance](../tag/white-balance)
 

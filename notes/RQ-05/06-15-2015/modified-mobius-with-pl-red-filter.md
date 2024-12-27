@@ -1,5 +1,7 @@
 ---
-title: "Modified MOBIUS with PL red filter"\ntagnames: 'white-balance, mobius-actioncam, ndvi-ag, first-time-poster'
+title: "Modified MOBIUS with PL red filter"
+
+tagnames: 'white-balance, mobius-actioncam, ndvi-ag, first-time-poster'
 author: RQ-05
 path: /notes/RQ-05/06-15-2015/modified-mobius-with-pl-red-filter.md
 nid: 11979
@@ -11,7 +13,7 @@ uid: 440673
 
 # Modified MOBIUS with PL red filter
 
-by [RQ-05](../profile/RQ-05) | June 15, 2015 00:03
+by [RQ-05](../../../profile/RQ-05) | June 15, 2015 00:03
 
 June 15, 2015 00:03 | Tags: [white-balance](../tag/white-balance), [mobius-actioncam](../tag/mobius-actioncam), [ndvi-ag](../tag/ndvi-ag), [first-time-poster](../tag/first-time-poster)
 

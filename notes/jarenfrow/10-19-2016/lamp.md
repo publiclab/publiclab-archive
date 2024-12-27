@@ -1,5 +1,7 @@
 ---
-title: "Lamp"\ntagnames: 'hidden:response, response:13586'
+title: "Lamp"
+
+tagnames: 'hidden:response, response:13586'
 author: jarenfrow
 path: /notes/jarenfrow/10-19-2016/lamp.md
 nid: 13617
@@ -11,7 +13,7 @@ uid: 494927
 
 # Lamp
 
-by [jarenfrow](../profile/jarenfrow) | October 19, 2016 17:27
+by [jarenfrow](../../../profile/jarenfrow) | October 19, 2016 17:27
 
 October 19, 2016 17:27 | Tags: [hidden:response](../tag/hidden:response), [response:13586](../tag/response:13586)
 

@@ -1,5 +1,7 @@
 ---
-title: "How to find out past and current uses for an area of land"\ntagnames: 'mapping, soil, getting-started, land-use, difficulty:easy, time:3h, status:review-me, category:observe, existing-data, activity:soil, activity:land-use, getting-started-soil, activity:getting-started-soil'
+title: "How to find out past and current uses for an area of land"
+
+tagnames: 'mapping, soil, getting-started, land-use, difficulty:easy, time:3h, status:review-me, category:observe, existing-data, activity:soil, activity:land-use, getting-started-soil, activity:getting-started-soil'
 author: bhamster
 path: /notes/bhamster/02-19-2021/how-to-find-out-past-and-current-uses-for-an-area-of-land.md
 nid: 25743
@@ -11,7 +13,7 @@ uid: 664477
 
 # How to find out past and current uses for an area of land
 
-by [bhamster](../profile/bhamster) | February 19, 2021 19:47
+by [bhamster](../../../profile/bhamster) | February 19, 2021 19:47
 
 February 19, 2021 19:47 | Tags: [mapping](../tag/mapping), [soil](../tag/soil), [getting-started](../tag/getting-started), [land-use](../tag/land-use), [difficulty:easy](../tag/difficulty:easy), [time:3h](../tag/time:3h), [status:review-me](../tag/status:review-me), [category:observe](../tag/category:observe), [existing-data](../tag/existing-data), [activity:soil](../tag/activity:soil), [activity:land-use](../tag/activity:land-use), [getting-started-soil](../tag/getting-started-soil), [activity:getting-started-soil](../tag/activity:getting-started-soil)
 

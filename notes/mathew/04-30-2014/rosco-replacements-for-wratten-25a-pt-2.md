@@ -1,5 +1,7 @@
 ---
-title: "Rosco replacements for Wratten 25A, pt 2"\ntagnames: 'infrared, infragram, mobius'
+title: "Rosco replacements for Wratten 25A, pt 2"
+
+tagnames: 'infrared, infragram, mobius'
 author: mathew
 path: /notes/mathew/04-30-2014/rosco-replacements-for-wratten-25a-pt-2.md
 nid: 10380
@@ -11,7 +13,7 @@ uid: 4
 
 # Rosco replacements for Wratten 25A, pt 2
 
-by [mathew](../profile/mathew) | April 30, 2014 01:57
+by [mathew](../../../profile/mathew) | April 30, 2014 01:57
 
 April 30, 2014 01:57 | Tags: [infrared](../tag/infrared), [infragram](../tag/infragram), [mobius](../tag/mobius)
 

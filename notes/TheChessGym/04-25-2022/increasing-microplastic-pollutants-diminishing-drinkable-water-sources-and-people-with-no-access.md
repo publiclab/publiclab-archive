@@ -1,5 +1,7 @@
 ---
-title: "Increasing Microplastic Pollutants, Diminishing Drinkable Water Sources, and People With No Access "\ntagnames: 'microplastics, lat:22, lon:76, zoom:6'
+title: "Increasing Microplastic Pollutants, Diminishing Drinkable Water Sources, and People With No Access "
+
+tagnames: 'microplastics, lat:22, lon:76, zoom:6'
 author: TheChessGym
 path: /notes/TheChessGym/04-25-2022/increasing-microplastic-pollutants-diminishing-drinkable-water-sources-and-people-with-no-access.md
 nid: 30589
@@ -11,7 +13,7 @@ uid: 788868
 
 # Increasing Microplastic Pollutants, Diminishing Drinkable Water Sources, and People With No Access 
 
-by [TheChessGym](../profile/TheChessGym) | April 25, 2022 15:24
+by [TheChessGym](../../../profile/TheChessGym) | April 25, 2022 15:24
 
 April 25, 2022 15:24 | Tags: [microplastics](../tag/microplastics), [lat:22](../tag/lat:22), [lon:76](../tag/lon:76), [zoom:6](../tag/zoom:6)
 

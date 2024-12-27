@@ -1,5 +1,7 @@
 ---
-title: "Art Environment Action!"\ntagnames: 'balloon-mapping, mapknitter'
+title: "Art Environment Action!"
+
+tagnames: 'balloon-mapping, mapknitter'
 author: liz
 path: /notes/liz/9-11-2012/art-environment-action.md
 nid: 3736
@@ -11,7 +13,7 @@ uid: 7
 
 # Art Environment Action!
 
-by [liz](../profile/liz) | September 11, 2012 13:49
+by [liz](../../../profile/liz) | September 11, 2012 13:49
 
 September 11, 2012 13:49 | Tags: [balloon-mapping](../tag/balloon-mapping), [mapknitter](../tag/mapknitter)
 

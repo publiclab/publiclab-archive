@@ -1,5 +1,7 @@
 ---
-title: "Open source licensing of our spectral data"\ntagnames: 'spectrometer, licensing'
+title: "Open source licensing of our spectral data"
+
+tagnames: 'spectrometer, licensing'
 author: warren
 path: /notes/warren/8-14-2012/open-source-licensing-our-spectral-data.md
 nid: 3288
@@ -11,7 +13,7 @@ uid: 1
 
 # Open source licensing of our spectral data
 
-by [warren](../profile/warren) | August 14, 2012 20:59
+by [warren](../../../profile/warren) | August 14, 2012 20:59
 
 August 14, 2012 20:59 | Tags: [spectrometer](../tag/spectrometer), [licensing](../tag/licensing)
 

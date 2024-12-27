@@ -1,5 +1,7 @@
 ---
-title: "JAM#4: Instituto de Tecnología SociAmbiental"\ntagnames: 'lang:es, argentina, spanish, zoom:14, cosquin, lat:41.408488, lon:2.199325, jam, charla, epidemiologia, colaborativa, autodefensa-vecinal'
+title: "JAM#4: Instituto de Tecnología SociAmbiental"
+
+tagnames: 'lang:es, argentina, spanish, zoom:14, cosquin, lat:41.408488, lon:2.199325, jam, charla, epidemiologia, colaborativa, autodefensa-vecinal'
 author: imvec
 path: /notes/imvec/04-29-2020/jam-4-instituto-de-tecnologia-sociambiental.md
 nid: 23513
@@ -11,7 +13,7 @@ uid: 495038
 
 # JAM#4: Instituto de Tecnología SociAmbiental
 
-by [imvec](../profile/imvec) | April 29, 2020 22:38
+by [imvec](../../../profile/imvec) | April 29, 2020 22:38
 
 April 29, 2020 22:38 | Tags: [lang:es](../tag/lang:es), [argentina](../tag/argentina), [spanish](../tag/spanish), [zoom:14](../tag/zoom:14), [cosquin](../tag/cosquin), [lat:41.408488](../tag/lat:41.408488), [lon:2.199325](../tag/lon:2.199325), [jam](../tag/jam), [charla](../tag/charla), [epidemiologia](../tag/epidemiologia), [colaborativa](../tag/colaborativa), [autodefensa-vecinal](../tag/autodefensa-vecinal)
 

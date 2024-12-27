@@ -1,5 +1,7 @@
 ---
-title: "Design for coffee spectrometer"\ntagnames: 'spectrometer, water-monitoring, 3d-printing, coffee, sampling, eyedropper, response:8973, colorimetry'
+title: "Design for coffee spectrometer"
+
+tagnames: 'spectrometer, water-monitoring, 3d-printing, coffee, sampling, eyedropper, response:8973, colorimetry'
 author: warren
 path: /notes/warren/08-08-2013/design-for-coffee-spectrometer.md
 nid: 8981
@@ -11,7 +13,7 @@ uid: 1
 
 # Design for coffee spectrometer
 
-by [warren](../profile/warren) | August 08, 2013 14:52
+by [warren](../../../profile/warren) | August 08, 2013 14:52
 
 August 08, 2013 14:52 | Tags: [spectrometer](../tag/spectrometer), [water-monitoring](../tag/water-monitoring), [3d-printing](../tag/3d-printing), [coffee](../tag/coffee), [sampling](../tag/sampling), [eyedropper](../tag/eyedropper), [response:8973](../tag/response:8973), [colorimetry](../tag/colorimetry)
 

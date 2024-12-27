@@ -1,5 +1,7 @@
 ---
-title: "Summerlab 2018: citizen investigation and civic use of technology"\ntagnames: 'spain, citizen-science, event, event:rsvp, gaimec, diwosurvival, date:07-11-2018, rsvp:zengirl2'
+title: "Summerlab 2018: citizen investigation and civic use of technology"
+
+tagnames: 'spain, citizen-science, event, event:rsvp, gaimec, diwosurvival, date:07-11-2018, rsvp:zengirl2'
 author: imvec
 path: /notes/imvec/07-06-2018/summerlab-2018-citizen-investigation-and-civic-use-of-technology.md
 nid: 16654
@@ -11,7 +13,7 @@ uid: 495038
 
 # Summerlab 2018: citizen investigation and civic use of technology
 
-by [imvec](../profile/imvec) | July 06, 2018 18:03
+by [imvec](../../../profile/imvec) | July 06, 2018 18:03
 
 July 06, 2018 18:03 | Tags: [spain](../tag/spain), [citizen-science](../tag/citizen-science), [event](../tag/event), [event:rsvp](../tag/event:rsvp), [gaimec](../tag/gaimec), [diwosurvival](../tag/diwosurvival), [date:07-11-2018](../tag/date:07-11-2018), [rsvp:zengirl2](../tag/rsvp:zengirl2)
 

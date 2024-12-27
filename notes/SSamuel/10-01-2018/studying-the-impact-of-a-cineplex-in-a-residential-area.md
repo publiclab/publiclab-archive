@@ -1,5 +1,7 @@
 ---
-title: "Studying the impact of a Cineplex in a residential area"\ntagnames: 'air, urban-planning, water-quality, city-planning, land-use, noise, question:general'
+title: "Studying the impact of a Cineplex in a residential area"
+
+tagnames: 'air, urban-planning, water-quality, city-planning, land-use, noise, question:general'
 author: SSamuel
 path: /notes/SSamuel/10-01-2018/studying-the-impact-of-a-cineplex-in-a-residential-area.md
 nid: 17194
@@ -9,7 +11,7 @@ uid: 429972
 
 # Studying the impact of a Cineplex in a residential area
 
-by [SSamuel](../profile/SSamuel) | October 01, 2018 07:50
+by [SSamuel](../../../profile/SSamuel) | October 01, 2018 07:50
 
 October 01, 2018 07:50 | Tags: [air](../tag/air), [urban-planning](../tag/urban-planning), [water-quality](../tag/water-quality), [city-planning](../tag/city-planning), [land-use](../tag/land-use), [noise](../tag/noise), [question:general](../tag/question:general)
 

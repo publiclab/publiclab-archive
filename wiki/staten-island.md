@@ -1,5 +1,7 @@
 ---
-title: "Staten Island"\ntagnames: 'new-york-city, northeast, staten-island'
+title: "Staten Island"
+
+tagnames: 'new-york-city, northeast, staten-island'
 author: liz
 path: /wiki/staten-island.md
 nid: 10355

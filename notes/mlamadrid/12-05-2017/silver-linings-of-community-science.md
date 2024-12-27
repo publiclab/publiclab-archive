@@ -1,5 +1,7 @@
 ---
-title: "Silver Linings of Community Science"\ntagnames: 'water-quality, environment, landscape, with:gretchengehrke'
+title: "Silver Linings of Community Science"
+
+tagnames: 'water-quality, environment, landscape, with:gretchengehrke'
 author: mlamadrid
 path: /notes/mlamadrid/12-05-2017/silver-linings-of-community-science.md
 nid: 15311
@@ -11,7 +13,7 @@ uid: 45586
 
 # Silver Linings of Community Science
 
-by [mlamadrid](../profile/mlamadrid) | December 05, 2017 23:41
+by [mlamadrid](../../../profile/mlamadrid) | December 05, 2017 23:41
 
 December 05, 2017 23:41 | Tags: [water-quality](../tag/water-quality), [environment](../tag/environment), [landscape](../tag/landscape), [with:gretchengehrke](../tag/with:gretchengehrke)
 

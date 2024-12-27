@@ -1,5 +1,7 @@
 ---
-title: "Web Working Group Update 20: August 2017"\ntagnames: 'nasa, web-development, software, plots2, infragram, gsoc, developers, wwg, webwg, first-timers-only, soc, soc-2017, wwg-update, response:14614'
+title: "Web Working Group Update 20: August 2017"
+
+tagnames: 'nasa, web-development, software, plots2, infragram, gsoc, developers, wwg, webwg, first-timers-only, soc, soc-2017, wwg-update, response:14614'
 author: warren
 path: /notes/warren/09-01-2017/web-working-group-update-20-august-2017.md
 nid: 14817
@@ -11,7 +13,7 @@ uid: 1
 
 # Web Working Group Update 20: August 2017
 
-by [warren](../profile/warren) | September 01, 2017 14:53
+by [warren](../../../profile/warren) | September 01, 2017 14:53
 
 September 01, 2017 14:53 | Tags: [nasa](../tag/nasa), [web-development](../tag/web-development), [software](../tag/software), [plots2](../tag/plots2), [infragram](../tag/infragram), [gsoc](../tag/gsoc), [developers](../tag/developers), [wwg](../tag/wwg), [webwg](../tag/webwg), [first-timers-only](../tag/first-timers-only), [soc](../tag/soc), [soc-2017](../tag/soc-2017), [wwg-update](../tag/wwg-update), [response:14614](../tag/response:14614)
 

@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer Kickstarter requests"\ntagnames: ''
+title: "Spectrometer Kickstarter requests"
+
+tagnames: ''
 author: warren
 path: /wiki/spectrometer-kickstarter-requests.md
 nid: 3910

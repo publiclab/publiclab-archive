@@ -1,5 +1,7 @@
 ---
-title: "What is Manoomin?"\ntagnames: 'lake, wetland, water, river, lon:-90, lat:40, zoom:5, wild-rice, mn-land-manoomin-protection, great-lakes-region, manoomin, minneosta'
+title: "What is Manoomin?"
+
+tagnames: 'lake, wetland, water, river, lon:-90, lat:40, zoom:5, wild-rice, mn-land-manoomin-protection, great-lakes-region, manoomin, minneosta'
 author: Giiwedin
 path: /notes/Giiwedin/06-28-2022/what-is-manoomin.md
 nid: 31164
@@ -11,7 +13,7 @@ uid: 799642
 
 # What is Manoomin?
 
-by [Giiwedin](../profile/Giiwedin) | June 28, 2022 21:28
+by [Giiwedin](../../../profile/Giiwedin) | June 28, 2022 21:28
 
 June 28, 2022 21:28 | Tags: [lake](../tag/lake), [wetland](../tag/wetland), [water](../tag/water), [river](../tag/river), [lon:-90](../tag/lon:-90), [lat:40](../tag/lat:40), [zoom:5](../tag/zoom:5), [wild-rice](../tag/wild-rice), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [great-lakes-region](../tag/great-lakes-region), [manoomin](../tag/manoomin), [minneosta](../tag/minneosta)
 

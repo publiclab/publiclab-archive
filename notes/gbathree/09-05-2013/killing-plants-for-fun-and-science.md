@@ -1,5 +1,7 @@
 ---
-title: "Killing plants for fun and science"\ntagnames: 'fluorescence, photosynthesis, photosynq'
+title: "Killing plants for fun and science"
+
+tagnames: 'fluorescence, photosynthesis, photosynq'
 author: gbathree
 path: /notes/gbathree/09-05-2013/killing-plants-for-fun-and-science.md
 nid: 9291
@@ -11,7 +13,7 @@ uid: 53164
 
 # Killing plants for fun and science
 
-by [gbathree](../profile/gbathree) | September 05, 2013 12:49
+by [gbathree](../../../profile/gbathree) | September 05, 2013 12:49
 
 September 05, 2013 12:49 | Tags: [fluorescence](../tag/fluorescence), [photosynthesis](../tag/photosynthesis), [photosynq](../tag/photosynq)
 

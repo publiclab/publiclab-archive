@@ -1,5 +1,7 @@
 ---
-title: "Introducing a (draft) Style Guide for Public Lab"\ntagnames: 'website, design, blog, code, interface, style-guide, ui, with:sylvan, pin:ui'
+title: "Introducing a (draft) Style Guide for Public Lab"
+
+tagnames: 'website, design, blog, code, interface, style-guide, ui, with:sylvan, pin:ui'
 author: warren
 path: /notes/warren/05-07-2019/introducing-a-draft-style-guide-for-public-lab.md
 nid: 19270
@@ -11,7 +13,7 @@ uid: 1
 
 # Introducing a (draft) Style Guide for Public Lab
 
-by [warren](../profile/warren) | May 07, 2019 20:07
+by [warren](../../../profile/warren) | May 07, 2019 20:07
 
 May 07, 2019 20:07 | Tags: [website](../tag/website), [design](../tag/design), [blog](../tag/blog), [code](../tag/code), [interface](../tag/interface), [style-guide](../tag/style-guide), [ui](../tag/ui), [with:sylvan](../tag/with:sylvan), [pin:ui](../tag/pin:ui)
 

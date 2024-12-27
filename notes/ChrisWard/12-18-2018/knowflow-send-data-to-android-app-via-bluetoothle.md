@@ -1,5 +1,7 @@
 ---
-title: "KnowFlow: Send Data to Android App via BluetoothLE"\ntagnames: 'arduino, hardware, question:knowflow, first-time-poster'
+title: "KnowFlow: Send Data to Android App via BluetoothLE"
+
+tagnames: 'arduino, hardware, question:knowflow, first-time-poster'
 author: ChrisWard
 path: /notes/ChrisWard/12-18-2018/knowflow-send-data-to-android-app-via-bluetoothle.md
 nid: 17963
@@ -9,7 +11,7 @@ uid: 565268
 
 # KnowFlow: Send Data to Android App via BluetoothLE
 
-by [ChrisWard](../profile/ChrisWard) | December 18, 2018 00:01
+by [ChrisWard](../../../profile/ChrisWard) | December 18, 2018 00:01
 
 December 18, 2018 00:01 | Tags: [arduino](../tag/arduino), [hardware](../tag/hardware), [question:knowflow](../tag/question:knowflow), [first-time-poster](../tag/first-time-poster)
 

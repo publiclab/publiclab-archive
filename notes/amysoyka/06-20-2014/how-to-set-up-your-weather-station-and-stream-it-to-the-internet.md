@@ -1,5 +1,7 @@
 ---
-title: "How to set up your weather station and stream it to the internet."\ntagnames: 'raspberry-pi, air-quality, data-collection, data, weather, rasperry, pi, weather-station, raspbian, collection, meteorological, activity:weather, activity:wind, first-time-poster'
+title: "How to set up your weather station and stream it to the internet."
+
+tagnames: 'raspberry-pi, air-quality, data-collection, data, weather, rasperry, pi, weather-station, raspbian, collection, meteorological, activity:weather, activity:wind, first-time-poster'
 author: amysoyka
 path: /notes/amysoyka/06-20-2014/how-to-set-up-your-weather-station-and-stream-it-to-the-internet.md
 nid: 10595
@@ -11,7 +13,7 @@ uid: 422627
 
 # How to set up your weather station and stream it to the internet.
 
-by [amysoyka](../profile/amysoyka) | June 20, 2014 13:40
+by [amysoyka](../../../profile/amysoyka) | June 20, 2014 13:40
 
 June 20, 2014 13:40 | Tags: [raspberry-pi](../tag/raspberry-pi), [air-quality](../tag/air-quality), [data-collection](../tag/data-collection), [data](../tag/data), [weather](../tag/weather), [rasperry](../tag/rasperry), [pi](../tag/pi), [weather-station](../tag/weather-station), [raspbian](../tag/raspbian), [collection](../tag/collection), [meteorological](../tag/meteorological), [activity:weather](../tag/activity:weather), [activity:wind](../tag/activity:wind), [first-time-poster](../tag/first-time-poster)
 

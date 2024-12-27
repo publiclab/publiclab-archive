@@ -1,5 +1,7 @@
 ---
-title: "Sneak Peak Balloon/Kite Photography Event"\ntagnames: 'balloon-mapping, kite-mapping, landfill, event, trash, nyc, event:rsvp, freshkills-park, date:09-28-2014, replication:14022'
+title: "Sneak Peak Balloon/Kite Photography Event"
+
+tagnames: 'balloon-mapping, kite-mapping, landfill, event, trash, nyc, event:rsvp, freshkills-park, date:09-28-2014, replication:14022'
 author: nicholas
 path: /notes/nicholas/09-08-2014/sneak-peak-balloon-kite-photography-event.md
 nid: 11118
@@ -11,7 +13,7 @@ uid: 53894
 
 # Sneak Peak Balloon/Kite Photography Event
 
-by [nicholas](../profile/nicholas) | September 08, 2014 20:36
+by [nicholas](../../../profile/nicholas) | September 08, 2014 20:36
 
 September 08, 2014 20:36 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [landfill](../tag/landfill), [event](../tag/event), [trash](../tag/trash), [nyc](../tag/nyc), [event:rsvp](../tag/event:rsvp), [freshkills-park](../tag/freshkills-park), [date:09-28-2014](../tag/date:09-28-2014), [replication:14022](../tag/replication:14022)
 

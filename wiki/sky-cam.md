@@ -1,5 +1,7 @@
 ---
-title: "sky-cam"\ntagnames: ''
+title: "sky-cam"
+
+tagnames: ''
 author: warren
 path: /wiki/sky-cam.md
 nid: 9323

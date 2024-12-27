@@ -1,5 +1,7 @@
 ---
-title: "Tales from the Cryptogam"\ntagnames: 'vermont, polemapping, pole-photography, pap, pole-aerial-photography, pole-mapping, moss, kaptery, saturnv, response:8988, cryptogam, pole-bracket'
+title: "Tales from the Cryptogam"
+
+tagnames: 'vermont, polemapping, pole-photography, pap, pole-aerial-photography, pole-mapping, moss, kaptery, saturnv, response:8988, cryptogam, pole-bracket'
 author: cfastie
 path: /notes/cfastie/12-24-2015/tales-from-the-cryptogam.md
 nid: 12541
@@ -11,7 +13,7 @@ uid: 554
 
 # Tales from the Cryptogam
 
-by [cfastie](../profile/cfastie) | December 24, 2015 23:43
+by [cfastie](../../../profile/cfastie) | December 24, 2015 23:43
 
 December 24, 2015 23:43 | Tags: [vermont](../tag/vermont), [polemapping](../tag/polemapping), [pole-photography](../tag/pole-photography), [pap](../tag/pap), [pole-aerial-photography](../tag/pole-aerial-photography), [pole-mapping](../tag/pole-mapping), [moss](../tag/moss), [kaptery](../tag/kaptery), [saturnv](../tag/saturnv), [response:8988](../tag/response:8988), [cryptogam](../tag/cryptogam), [pole-bracket](../tag/pole-bracket)
 

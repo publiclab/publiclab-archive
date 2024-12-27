@@ -1,5 +1,7 @@
 ---
-title: "Last Day!"\ntagnames: 'new-york-city, chaq, air-quality, air-quality-egg'
+title: "Last Day!"
+
+tagnames: 'new-york-city, chaq, air-quality, air-quality-egg'
 author: msmelody
 path: /notes/msmelody/08-08-2013/last-day.md
 nid: 8982
@@ -11,7 +13,7 @@ uid: 163752
 
 # Last Day!
 
-by [msmelody](../profile/msmelody) | August 08, 2013 17:51
+by [msmelody](../../../profile/msmelody) | August 08, 2013 17:51
 
 August 08, 2013 17:51 | Tags: [new-york-city](../tag/new-york-city), [chaq](../tag/chaq), [air-quality](../tag/air-quality), [air-quality-egg](../tag/air-quality-egg)
 

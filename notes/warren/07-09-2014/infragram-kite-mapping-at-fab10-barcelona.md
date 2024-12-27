@@ -1,5 +1,7 @@
 ---
-title: "Infragram kite mapping at Fab10 Barcelona"\ntagnames: 'near-infrared-camera, kite-mapping, barcelona, spain, infragram, mobius, fab10, infragram-point-shoot, mini-kite-kit'
+title: "Infragram kite mapping at Fab10 Barcelona"
+
+tagnames: 'near-infrared-camera, kite-mapping, barcelona, spain, infragram, mobius, fab10, infragram-point-shoot, mini-kite-kit'
 author: warren
 path: /notes/warren/07-09-2014/infragram-kite-mapping-at-fab10-barcelona.md
 nid: 10666
@@ -11,7 +13,7 @@ uid: 1
 
 # Infragram kite mapping at Fab10 Barcelona
 
-by [warren](../profile/warren) | July 09, 2014 08:42
+by [warren](../../../profile/warren) | July 09, 2014 08:42
 
 July 09, 2014 08:42 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [kite-mapping](../tag/kite-mapping), [barcelona](../tag/barcelona), [spain](../tag/spain), [infragram](../tag/infragram), [mobius](../tag/mobius), [fab10](../tag/fab10), [infragram-point-shoot](../tag/infragram-point-shoot), [mini-kite-kit](../tag/mini-kite-kit)
 

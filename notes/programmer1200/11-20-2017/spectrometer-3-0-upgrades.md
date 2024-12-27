@@ -1,5 +1,7 @@
 ---
-title: "Spectrometer 3.0 Upgrades"\ntagnames: 'spectrometer, spectrometry, cuvette, modifications, barnstar:basic, upgrade:spectrometry, upgrade:dssk, activity:dssk, dssk'
+title: "Spectrometer 3.0 Upgrades"
+
+tagnames: 'spectrometer, spectrometry, cuvette, modifications, barnstar:basic, upgrade:spectrometry, upgrade:dssk, activity:dssk, dssk'
 author: programmer1200
 path: /notes/programmer1200/11-20-2017/spectrometer-3-0-upgrades.md
 nid: 15207
@@ -11,7 +13,7 @@ uid: 509305
 
 # Spectrometer 3.0 Upgrades
 
-by [programmer1200](../profile/programmer1200) | November 20, 2017 17:35
+by [programmer1200](../../../profile/programmer1200) | November 20, 2017 17:35
 
 November 20, 2017 17:35 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [cuvette](../tag/cuvette), [modifications](../tag/modifications), [barnstar:basic](../tag/barnstar:basic), [upgrade:spectrometry](../tag/upgrade:spectrometry), [upgrade:dssk](../tag/upgrade:dssk), [activity:dssk](../tag/activity:dssk), [dssk](../tag/dssk)
 

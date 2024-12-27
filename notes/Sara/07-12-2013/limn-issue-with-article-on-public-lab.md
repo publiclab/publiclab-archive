@@ -1,5 +1,7 @@
 ---
-title: "Limn Issue with Article on Public Lab"\ntagnames: 'boston'
+title: "Limn Issue with Article on Public Lab"
+
+tagnames: 'boston'
 author: sara
 path: /notes/Sara/07-12-2013/limn-issue-with-article-on-public-lab.md
 nid: 8857
@@ -11,7 +13,7 @@ uid: 8
 
 # Limn Issue with Article on Public Lab
 
-by [sara](../profile/sara) | July 12, 2013 10:39
+by [sara](../../../profile/sara) | July 12, 2013 10:39
 
 July 12, 2013 10:39 | Tags: [boston](../tag/boston)
 

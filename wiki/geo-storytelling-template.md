@@ -1,5 +1,7 @@
 ---
-title: "Geo Storytelling Template"\ntagnames: ''
+title: "Geo Storytelling Template"
+
+tagnames: ''
 author: warren
 path: /wiki/geo-storytelling-template.md
 nid: 21350

@@ -1,5 +1,7 @@
 ---
-title: "Infragrammer WebGL HSV vs Standard equations"\ntagnames: 'near-infrared-camera, ndvi, infrared, infragram, infragram-sandbox, question:general'
+title: "Infragrammer WebGL HSV vs Standard equations"
+
+tagnames: 'near-infrared-camera, ndvi, infrared, infragram, infragram-sandbox, question:general'
 author: plam
 path: /notes/plam/03-31-2017/infragrammer-webgl-hsv-vs-standard-equations.md
 nid: 14069
@@ -11,7 +13,7 @@ uid: 504901
 
 # Infragrammer WebGL HSV vs Standard equations
 
-by [plam](../profile/plam) | March 31, 2017 02:32
+by [plam](../../../profile/plam) | March 31, 2017 02:32
 
 March 31, 2017 02:32 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [infragram](../tag/infragram), [infragram-sandbox](../tag/infragram-sandbox), [question:general](../tag/question:general)
 

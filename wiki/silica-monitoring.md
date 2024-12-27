@@ -1,5 +1,7 @@
 ---
-title: "Silica Monitoring"\ntagnames: 'regulations, fracking, dust, silica, particulate, frac-sand, pm, parent:pm, particulate-matter, silica-monitoring, federal-regulations, state-regulations, parent:air-quality, respirable-silica, crystalline-silica'
+title: "Silica Monitoring"
+
+tagnames: 'regulations, fracking, dust, silica, particulate, frac-sand, pm, parent:pm, particulate-matter, silica-monitoring, federal-regulations, state-regulations, parent:air-quality, respirable-silica, crystalline-silica'
 author: mathew
 path: /wiki/silica-monitoring.md
 nid: 12690

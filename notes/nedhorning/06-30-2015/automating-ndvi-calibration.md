@@ -1,5 +1,7 @@
 ---
-title: "Automating NDVI calibration"\ntagnames: 'ndvi, calibration, infrared, infragram, response:10389, response:10607, ndvi-calibrate, midopt'
+title: "Automating NDVI calibration"
+
+tagnames: 'ndvi, calibration, infrared, infragram, response:10389, response:10607, ndvi-calibrate, midopt'
 author: nedhorning
 path: /notes/nedhorning/06-30-2015/automating-ndvi-calibration.md
 nid: 12021
@@ -11,7 +13,7 @@ uid: 133
 
 # Automating NDVI calibration
 
-by [nedhorning](../profile/nedhorning) | June 30, 2015 12:57
+by [nedhorning](../../../profile/nedhorning) | June 30, 2015 12:57
 
 June 30, 2015 12:57 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [infragram](../tag/infragram), [response:10389](../tag/response:10389), [response:10607](../tag/response:10607), [ndvi-calibrate](../tag/ndvi-calibrate), [midopt](../tag/midopt)
 

@@ -1,5 +1,7 @@
 ---
-title: "Minnesota General Public Comment"\ntagnames: 'minnesota, public-comment, environmental-policy, zoom:6, lat:46, mn-land-manoomin-protection, lon:-94'
+title: "Minnesota General Public Comment"
+
+tagnames: 'minnesota, public-comment, environmental-policy, zoom:6, lat:46, mn-land-manoomin-protection, lon:-94'
 author: JuliaGuerrein
 path: /notes/JuliaGuerrein/01-24-2023/minnesota-general-public-comment.md
 nid: 38557
@@ -11,7 +13,7 @@ uid: 796025
 
 # Minnesota General Public Comment
 
-by [JuliaGuerrein](../profile/JuliaGuerrein) | January 24, 2023 01:20
+by [JuliaGuerrein](../../../profile/JuliaGuerrein) | January 24, 2023 01:20
 
 January 24, 2023 01:20 | Tags: [minnesota](../tag/minnesota), [public-comment](../tag/public-comment), [environmental-policy](../tag/environmental-policy), [zoom:6](../tag/zoom:6), [lat:46](../tag/lat:46), [mn-land-manoomin-protection](../tag/mn-land-manoomin-protection), [lon:-94](../tag/lon:-94)
 

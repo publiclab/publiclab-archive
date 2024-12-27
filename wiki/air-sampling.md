@@ -1,5 +1,7 @@
 ---
-title: "Air Sampling"\ntagnames: 'air-quality, air, benzene, open-air, bucket-brigade, method, parent:sampling, bucket, air-sampling, summa-canisters, grab-samples, dichloromethane, perchloroethylene, toluene'
+title: "Air Sampling"
+
+tagnames: 'air-quality, air, benzene, open-air, bucket-brigade, method, parent:sampling, bucket, air-sampling, summa-canisters, grab-samples, dichloromethane, perchloroethylene, toluene'
 author: stevie
 path: /wiki/air-sampling.md
 nid: 15025

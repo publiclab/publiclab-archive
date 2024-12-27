@@ -1,5 +1,7 @@
 ---
-title: "How to Connect a pH Sensor to the Simple Water Sensor Platform"\ntagnames: 'arduino, sensors, water-quality, turbidity, new, ph, draft, time:3h, include, activity:arduino, water-sensors, activity:water-sensors, status:request, oil-and-gas-water-trio, oil-and-gas-water-quality, activity:oil-and-gas-water-quality, simple-water-sensor-platform, activity:simple-water-sensor-platform'
+title: "How to Connect a pH Sensor to the Simple Water Sensor Platform"
+
+tagnames: 'arduino, sensors, water-quality, turbidity, new, ph, draft, time:3h, include, activity:arduino, water-sensors, activity:water-sensors, status:request, oil-and-gas-water-trio, oil-and-gas-water-quality, activity:oil-and-gas-water-quality, simple-water-sensor-platform, activity:simple-water-sensor-platform'
 author: wmacfarl
 path: /notes/wmacfarl/12-09-2019/building-the-simple-ph-sensor-prototype.md
 nid: 21697
@@ -11,7 +13,7 @@ uid: 424597
 
 # How to Connect a pH Sensor to the Simple Water Sensor Platform
 
-by [wmacfarl](../profile/wmacfarl) | December 09, 2019 02:37
+by [wmacfarl](../../../profile/wmacfarl) | December 09, 2019 02:37
 
 December 09, 2019 02:37 | Tags: [arduino](../tag/arduino), [sensors](../tag/sensors), [water-quality](../tag/water-quality), [turbidity](../tag/turbidity), [new](../tag/new), [ph](../tag/ph), [draft](../tag/draft), [time:3h](../tag/time:3h), [include](../tag/include), [activity:arduino](../tag/activity:arduino), [water-sensors](../tag/water-sensors), [activity:water-sensors](../tag/activity:water-sensors), [status:request](../tag/status:request), [oil-and-gas-water-trio](../tag/oil-and-gas-water-trio), [oil-and-gas-water-quality](../tag/oil-and-gas-water-quality), [activity:oil-and-gas-water-quality](../tag/activity:oil-and-gas-water-quality), [simple-water-sensor-platform](../tag/simple-water-sensor-platform), [activity:simple-water-sensor-platform](../tag/activity:simple-water-sensor-platform)
 

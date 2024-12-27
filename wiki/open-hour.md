@@ -1,5 +1,7 @@
 ---
-title: "open-hour"\ntagnames: 'redirect:10388'
+title: "open-hour"
+
+tagnames: 'redirect:10388'
 author: liz
 path: /wiki/open-hour.md
 nid: 16023

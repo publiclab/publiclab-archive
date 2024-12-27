@@ -1,5 +1,7 @@
 ---
-title: "LeafKam"\ntagnames: 'near-infrared-camera, infrared-camera, infragram, development'
+title: "LeafKam"
+
+tagnames: 'near-infrared-camera, infrared-camera, infragram, development'
 author: cfastie
 path: /wiki/leafkam.md
 nid: 6791

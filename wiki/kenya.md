@@ -1,5 +1,7 @@
 ---
-title: "kenya"\ntagnames: 'africa, parent:africa'
+title: "kenya"
+
+tagnames: 'africa, parent:africa'
 author: liz
 path: /wiki/kenya.md
 nid: 11156

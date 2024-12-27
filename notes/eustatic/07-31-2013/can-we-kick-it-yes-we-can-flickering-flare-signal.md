@@ -1,5 +1,7 @@
 ---
-title: "Can we kick it?  Yes we can. Signal from a Flickering Refinery Flare "\ntagnames: 'gulf-coast, spectrometer, spectrometry, flare, chalmette, distance-spectrometry'
+title: "Can we kick it?  Yes we can. Signal from a Flickering Refinery Flare "
+
+tagnames: 'gulf-coast, spectrometer, spectrometry, flare, chalmette, distance-spectrometry'
 author: eustatic
 path: /07-31-2013/can-we-kick-it-yes-we-can-flickering-flare-signal.md
 nid: 8944
@@ -11,7 +13,7 @@ uid: 379
 
 # Can we kick it?  Yes we can. Signal from a Flickering Refinery Flare 
 
-by [eustatic](../profile/eustatic) | July 31, 2013 06:04
+by [eustatic](../../../profile/eustatic) | July 31, 2013 06:04
 
 July 31, 2013 06:04 | Tags: [gulf-coast](../tag/gulf-coast), [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [flare](../tag/flare), [chalmette](../tag/chalmette), [distance-spectrometry](../tag/distance-spectrometry)
 

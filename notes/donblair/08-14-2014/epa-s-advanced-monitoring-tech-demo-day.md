@@ -1,5 +1,7 @@
 ---
-title: "EPA's Advanced Monitoring Tech Demo Day"\ntagnames: 'epa, water, riffle, demo, barnstar:basic, openwater'
+title: "EPA's Advanced Monitoring Tech Demo Day"
+
+tagnames: 'epa, water, riffle, demo, barnstar:basic, openwater'
 author: donblair
 path: /notes/donblair/08-14-2014/epa-s-advanced-monitoring-tech-demo-day.md
 nid: 11054
@@ -11,7 +13,7 @@ uid: 43651
 
 # EPA's Advanced Monitoring Tech Demo Day
 
-by [donblair](../profile/donblair) | August 14, 2014 23:38
+by [donblair](../../../profile/donblair) | August 14, 2014 23:38
 
 August 14, 2014 23:38 | Tags: [epa](../tag/epa), [water](../tag/water), [riffle](../tag/riffle), [demo](../tag/demo), [barnstar:basic](../tag/barnstar:basic), [openwater](../tag/openwater)
 

@@ -1,5 +1,7 @@
 ---
-title: "Using Ethyl acetate as a primary solvent for non-polar compounds"\ntagnames: ''
+title: "Using Ethyl acetate as a primary solvent for non-polar compounds"
+
+tagnames: ''
 author: dhaffnersr
 path: /notes/dhaffnersr/04-28-2016/using-ethyl-acetate-as-a-primary-solvent-for-non-polar-compounds.md
 nid: 13046
@@ -11,7 +13,7 @@ uid: 461120
 
 # Using Ethyl acetate as a primary solvent for non-polar compounds
 
-by [dhaffnersr](../profile/dhaffnersr) | April 28, 2016 21:06
+by [dhaffnersr](../../../profile/dhaffnersr) | April 28, 2016 21:06
 
 April 28, 2016 21:06 | Tags: 
 

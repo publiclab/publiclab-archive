@@ -1,5 +1,7 @@
 ---
-title: "2013 Slideshow"\ntagnames: 'sidebar:featured, style:wide, style:presentation'
+title: "2013 Slideshow"
+
+tagnames: 'sidebar:featured, style:wide, style:presentation'
 author: warren
 path: /wiki/2013-slideshow.md
 nid: 9896

@@ -1,5 +1,7 @@
 ---
-title: "Revised 3D printable mini spectrometer"\ntagnames: 'spectrometer, spectrometry, intensity-calibration, absorption, absorption-spectrometry, hardware, activity:spectrometry, vis-spectroscopy, 3d-print, build:13865, lat:1.655043, lon:3.863525'
+title: "Revised 3D printable mini spectrometer"
+
+tagnames: 'spectrometer, spectrometry, intensity-calibration, absorption, absorption-spectrometry, hardware, activity:spectrometry, vis-spectroscopy, 3d-print, build:13865, lat:1.655043, lon:3.863525'
 author: B-winters
 path: /notes/B-winters/12-14-2018/revised-3d-printable-mini-spectrometer.md
 nid: 17891
@@ -11,7 +13,7 @@ uid: 563397
 
 # Revised 3D printable mini spectrometer
 
-by [B-winters](../profile/B-winters) | December 14, 2018 00:00
+by [B-winters](../../../profile/B-winters) | December 14, 2018 00:00
 
 December 14, 2018 00:00 | Tags: [spectrometer](../tag/spectrometer), [spectrometry](../tag/spectrometry), [intensity-calibration](../tag/intensity-calibration), [absorption](../tag/absorption), [absorption-spectrometry](../tag/absorption-spectrometry), [hardware](../tag/hardware), [activity:spectrometry](../tag/activity:spectrometry), [vis-spectroscopy](../tag/vis-spectroscopy), [3d-print](../tag/3d-print), [build:13865](../tag/build:13865), [lat:1.655043](../tag/lat:1.655043), [lon:3.863525](../tag/lon:3.863525)
 

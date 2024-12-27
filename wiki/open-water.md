@@ -1,5 +1,7 @@
 ---
-title: "Open Water"\ntagnames: 'water-sensing, water-quality, conductivity, ioby, mystic-river, initiative-area, parent:nonprofit-initiatives, project:water-quality'
+title: "Open Water"
+
+tagnames: 'water-sensing, water-quality, conductivity, ioby, mystic-river, initiative-area, parent:nonprofit-initiatives, project:water-quality'
 author: donblair
 path: /wiki/open-water.md
 nid: 9978

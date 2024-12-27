@@ -1,5 +1,7 @@
 ---
-title: "Compare environmental test results to health standards"\ntagnames: 'education, air-quality, water-quality, barnstar:basic, bucket-brigade, new, soil-testing, draft, soil-quality, activity:air-quality, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action, interpret-soil-tests, activity:interpret-soil-tests'
+title: "Compare environmental test results to health standards"
+
+tagnames: 'education, air-quality, water-quality, barnstar:basic, bucket-brigade, new, soil-testing, draft, soil-quality, activity:air-quality, activity:new, lon:-71, lat:42, zoom:6, bucket-monitor, activity:bucket-monitor, statistics-for-action, interpret-soil-tests, activity:interpret-soil-tests'
 author: kgradow1
 path: /notes/kgradow1/12-31-2020/compare-environmental-test-results-to-health-standards.md
 nid: 25367
@@ -9,7 +11,7 @@ uid: 297929
 
 # Compare environmental test results to health standards
 
-by [kgradow1](../profile/kgradow1) | December 31, 2020 19:52
+by [kgradow1](../../../profile/kgradow1) | December 31, 2020 19:52
 
 December 31, 2020 19:52 | Tags: [education](../tag/education), [air-quality](../tag/air-quality), [water-quality](../tag/water-quality), [barnstar:basic](../tag/barnstar:basic), [bucket-brigade](../tag/bucket-brigade), [new](../tag/new), [soil-testing](../tag/soil-testing), [draft](../tag/draft), [soil-quality](../tag/soil-quality), [activity:air-quality](../tag/activity:air-quality), [activity:new](../tag/activity:new), [lon:-71](../tag/lon:-71), [lat:42](../tag/lat:42), [zoom:6](../tag/zoom:6), [bucket-monitor](../tag/bucket-monitor), [activity:bucket-monitor](../tag/activity:bucket-monitor), [statistics-for-action](../tag/statistics-for-action), [interpret-soil-tests](../tag/interpret-soil-tests), [activity:interpret-soil-tests](../tag/activity:interpret-soil-tests)
 

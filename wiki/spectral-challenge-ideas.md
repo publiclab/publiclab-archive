@@ -1,5 +1,7 @@
 ---
-title: "Spectral Challenge ideas"\ntagnames: 'spectrometer, spectralchallenge'
+title: "Spectral Challenge ideas"
+
+tagnames: 'spectrometer, spectralchallenge'
 author: liz
 path: /wiki/spectral-challenge-ideas.md
 nid: 6936

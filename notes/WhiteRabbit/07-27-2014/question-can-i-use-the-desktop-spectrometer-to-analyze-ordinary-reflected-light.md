@@ -1,5 +1,7 @@
 ---
-title: "Question: Can the Public Labs Desktop Spectrometer analyze light from a patch of grass?"\ntagnames: 'question:spectrometry'
+title: "Question: Can the Public Labs Desktop Spectrometer analyze light from a patch of grass?"
+
+tagnames: 'question:spectrometry'
 author: WhiteRabbit
 path: /notes/WhiteRabbit/07-27-2014/question-can-i-use-the-desktop-spectrometer-to-analyze-ordinary-reflected-light.md
 nid: 10984
@@ -11,7 +13,7 @@ uid: 425996
 
 # Question: Can the Public Labs Desktop Spectrometer analyze light from a patch of grass?
 
-by [WhiteRabbit](../profile/WhiteRabbit) | July 27, 2014 17:11
+by [WhiteRabbit](../../../profile/WhiteRabbit) | July 27, 2014 17:11
 
 July 27, 2014 17:11 | Tags: [question:spectrometry](../tag/question:spectrometry)
 

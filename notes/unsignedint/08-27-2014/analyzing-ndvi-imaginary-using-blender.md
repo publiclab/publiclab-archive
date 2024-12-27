@@ -1,5 +1,7 @@
 ---
-title: "Analyzing NDVI Imagery Using Blender"\ntagnames: 'near-infrared-camera, ndvi, image-processing, software, blender'
+title: "Analyzing NDVI Imagery Using Blender"
+
+tagnames: 'near-infrared-camera, ndvi, image-processing, software, blender'
 author: unsignedint
 path: /notes/unsignedint/08-27-2014/analyzing-ndvi-imaginary-using-blender.md
 nid: 11080
@@ -11,7 +13,7 @@ uid: 427535
 
 # Analyzing NDVI Imagery Using Blender
 
-by [unsignedint](../profile/unsignedint) | August 27, 2014 11:33
+by [unsignedint](../../../profile/unsignedint) | August 27, 2014 11:33
 
 August 27, 2014 11:33 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [image-processing](../tag/image-processing), [software](../tag/software), [blender](../tag/blender)
 

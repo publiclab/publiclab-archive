@@ -1,5 +1,7 @@
 ---
-title: "Raspberry Pi problems"\ntagnames: 'troubleshooting, raspberry-pi, air-quality, frac-sand, uwec, science-is-frustrating-sometimes, question:raspberry-pi'
+title: "Raspberry Pi problems"
+
+tagnames: 'troubleshooting, raspberry-pi, air-quality, frac-sand, uwec, science-is-frustrating-sometimes, question:raspberry-pi'
 author: bkleist
 path: /notes/bkleist/04-19-2017/raspberry-pi-problems.md
 nid: 14124
@@ -11,7 +13,7 @@ uid: 489504
 
 # Raspberry Pi problems
 
-by [bkleist](../profile/bkleist) | April 19, 2017 19:11
+by [bkleist](../../../profile/bkleist) | April 19, 2017 19:11
 
 April 19, 2017 19:11 | Tags: [troubleshooting](../tag/troubleshooting), [raspberry-pi](../tag/raspberry-pi), [air-quality](../tag/air-quality), [frac-sand](../tag/frac-sand), [uwec](../tag/uwec), [science-is-frustrating-sometimes](../tag/science-is-frustrating-sometimes), [question:raspberry-pi](../tag/question:raspberry-pi)
 

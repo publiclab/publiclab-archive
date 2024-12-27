@@ -1,5 +1,7 @@
 ---
-title: "Error on calibrating uploaded spectrum"\ntagnames: 'spectralworkbench, spectral-workbench, export, question:spectrometry, question:spectral-workbench, question:generalspectrometer'
+title: "Error on calibrating uploaded spectrum"
+
+tagnames: 'spectralworkbench, spectral-workbench, export, question:spectrometry, question:spectral-workbench, question:generalspectrometer'
 author: sarahcm
 path: /notes/sarahcm/10-24-2016/endless-spinning.md
 nid: 13643
@@ -11,7 +13,7 @@ uid: 495280
 
 # Error on calibrating uploaded spectrum
 
-by [sarahcm](../profile/sarahcm) | October 24, 2016 19:21
+by [sarahcm](../../../profile/sarahcm) | October 24, 2016 19:21
 
 October 24, 2016 19:21 | Tags: [spectralworkbench](../tag/spectralworkbench), [spectral-workbench](../tag/spectral-workbench), [export](../tag/export), [question:spectrometry](../tag/question:spectrometry), [question:spectral-workbench](../tag/question:spectral-workbench), [question:generalspectrometer](../tag/question:generalspectrometer)
 

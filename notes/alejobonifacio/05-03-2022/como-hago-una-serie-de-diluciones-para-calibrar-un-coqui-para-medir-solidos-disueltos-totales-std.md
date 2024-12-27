@@ -1,5 +1,7 @@
 ---
-title: "¿Cómo hago una serie de diluciones para calibrar un Coqui para medir sólidos disueltos totales (STD)?"\ntagnames: 'calibration, water-quality, lang:es, coqui, activity:coqui, activity:new, zoom:6, lon:-64, lat:-31, conductividad, coqui-conductivity'
+title: "¿Cómo hago una serie de diluciones para calibrar un Coqui para medir sólidos disueltos totales (STD)?"
+
+tagnames: 'calibration, water-quality, lang:es, coqui, activity:coqui, activity:new, zoom:6, lon:-64, lat:-31, conductividad, coqui-conductivity'
 author: alejobonifacio
 path: /notes/alejobonifacio/05-03-2022/como-hago-una-serie-de-diluciones-para-calibrar-un-coqui-para-medir-solidos-disueltos-totales-std.md
 nid: 30545
@@ -11,7 +13,7 @@ uid: 639376
 
 # ¿Cómo hago una serie de diluciones para calibrar un Coqui para medir sólidos disueltos totales (STD)?
 
-by [alejobonifacio](../profile/alejobonifacio) | May 03, 2022 20:45
+by [alejobonifacio](../../../profile/alejobonifacio) | May 03, 2022 20:45
 
 May 03, 2022 20:45 | Tags: [calibration](../tag/calibration), [water-quality](../tag/water-quality), [lang:es](../tag/lang:es), [coqui](../tag/coqui), [activity:coqui](../tag/activity:coqui), [activity:new](../tag/activity:new), [zoom:6](../tag/zoom:6), [lon:-64](../tag/lon:-64), [lat:-31](../tag/lat:-31), [conductividad](../tag/conductividad), [coqui-conductivity](../tag/coqui-conductivity)
 

@@ -1,5 +1,7 @@
 ---
-title: "Chronology: Presidential Contributions to  Public Health & the Environment"\ntagnames: 'public-health, environment, us-presidents, environmental-legislation, public-health-laws, executive-orders, deregulation'
+title: "Chronology: Presidential Contributions to  Public Health & the Environment"
+
+tagnames: 'public-health, environment, us-presidents, environmental-legislation, public-health-laws, executive-orders, deregulation'
 author: gilbert
 path: /notes/gilbert/11-29-2017/chronology-presidential-contributions-to-public-health-the-environment.md
 nid: 15265
@@ -11,7 +13,7 @@ uid: 508551
 
 # Chronology: Presidential Contributions to  Public Health & the Environment
 
-by [gilbert](../profile/gilbert) | November 29, 2017 19:01
+by [gilbert](../../../profile/gilbert) | November 29, 2017 19:01
 
 November 29, 2017 19:01 | Tags: [public-health](../tag/public-health), [environment](../tag/environment), [us-presidents](../tag/us-presidents), [environmental-legislation](../tag/environmental-legislation), [public-health-laws](../tag/public-health-laws), [executive-orders](../tag/executive-orders), [deregulation](../tag/deregulation)
 

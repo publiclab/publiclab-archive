@@ -1,5 +1,7 @@
 ---
-title: "Why are the PM10 particles of the Purpleair monitor biased so high?"\ntagnames: 'wisconsin, air-quality, particulate-matter, question:air-sensors, purpleair, question:purpleair'
+title: "Why are the PM10 particles of the Purpleair monitor biased so high?"
+
+tagnames: 'wisconsin, air-quality, particulate-matter, question:air-sensors, purpleair, question:purpleair'
 author: Cbarnes9
 path: /notes/Cbarnes9/11-09-2018/why-are-the-pm10-particles-of-the-purpleair-monitor-biased-so-high.md
 nid: 17497
@@ -9,7 +11,7 @@ uid: 558529
 
 # Why are the PM10 particles of the Purpleair monitor biased so high?
 
-by [Cbarnes9](../profile/Cbarnes9) | November 09, 2018 00:37
+by [Cbarnes9](../../../profile/Cbarnes9) | November 09, 2018 00:37
 
 November 09, 2018 00:37 | Tags: [wisconsin](../tag/wisconsin), [air-quality](../tag/air-quality), [particulate-matter](../tag/particulate-matter), [question:air-sensors](../tag/question:air-sensors), [purpleair](../tag/purpleair), [question:purpleair](../tag/question:purpleair)
 

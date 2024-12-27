@@ -1,5 +1,7 @@
 ---
-title: "Use 3-D glasses to modify a camera for infrared"\ntagnames: 'ndvi, multispectral, drones, infrared, infragram, eu, with, multispectral-imaging, uavs, sport-camera, first-time-poster, zoom:6, replication:13742, lat:52.635238, lon:4.725145'
+title: "Use 3-D glasses to modify a camera for infrared"
+
+tagnames: 'ndvi, multispectral, drones, infrared, infragram, eu, with, multispectral-imaging, uavs, sport-camera, first-time-poster, zoom:6, replication:13742, lat:52.635238, lon:4.725145'
 author: umberto_rootman
 path: /notes/umberto_rootman/05-17-2020/cheap-sports-cam-mod.md
 nid: 23655
@@ -11,7 +13,7 @@ uid: 694138
 
 # Use 3-D glasses to modify a camera for infrared
 
-by [umberto_rootman](../profile/umberto_rootman) | May 17, 2020 06:42
+by [umberto_rootman](../../../profile/umberto_rootman) | May 17, 2020 06:42
 
 May 17, 2020 06:42 | Tags: [ndvi](../tag/ndvi), [multispectral](../tag/multispectral), [drones](../tag/drones), [infrared](../tag/infrared), [infragram](../tag/infragram), [eu](../tag/eu), [with](../tag/with), [multispectral-imaging](../tag/multispectral-imaging), [uavs](../tag/uavs), [sport-camera](../tag/sport-camera), [first-time-poster](../tag/first-time-poster), [zoom:6](../tag/zoom:6), [replication:13742](../tag/replication:13742), [lat:52.635238](../tag/lat:52.635238), [lon:4.725145](../tag/lon:4.725145)
 

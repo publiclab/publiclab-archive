@@ -1,5 +1,7 @@
 ---
-title: "Post 2 - Google Summer of Code 2019"\ntagnames: 'spectral-workbench, gsoc-2019, soc-2019-eval, spectral-workbench-capture'
+title: "Post 2 - Google Summer of Code 2019"
+
+tagnames: 'spectral-workbench, gsoc-2019, soc-2019-eval, spectral-workbench-capture'
 author: sidntrivedi012
 path: /notes/sidntrivedi012/07-26-2019/post-2-google-summer-of-code-2019.md
 nid: 20335
@@ -11,7 +13,7 @@ uid: 572743
 
 # Post 2 - Google Summer of Code 2019
 
-by [sidntrivedi012](../profile/sidntrivedi012) | July 26, 2019 22:11
+by [sidntrivedi012](../../../profile/sidntrivedi012) | July 26, 2019 22:11
 
 July 26, 2019 22:11 | Tags: [spectral-workbench](../tag/spectral-workbench), [gsoc-2019](../tag/gsoc-2019), [soc-2019-eval](../tag/soc-2019-eval), [spectral-workbench-capture](../tag/spectral-workbench-capture)
 

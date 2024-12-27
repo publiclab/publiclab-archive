@@ -1,5 +1,7 @@
 ---
-title: "VIDEO: hunting for groundwater springs"\ntagnames: 'new-york-city, gowanus, proteus-gowanus, spring'
+title: "VIDEO: hunting for groundwater springs"
+
+tagnames: 'new-york-city, gowanus, proteus-gowanus, spring'
 author: liz
 path: /notes/liz/05-06-2014/video-hunting-for-groundwater-springs.md
 nid: 10434
@@ -11,7 +13,7 @@ uid: 7
 
 # VIDEO: hunting for groundwater springs
 
-by [liz](../profile/liz) | May 06, 2014 21:12
+by [liz](../../../profile/liz) | May 06, 2014 21:12
 
 May 06, 2014 21:12 | Tags: [new-york-city](../tag/new-york-city), [gowanus](../tag/gowanus), [proteus-gowanus](../tag/proteus-gowanus), [spring](../tag/spring)
 

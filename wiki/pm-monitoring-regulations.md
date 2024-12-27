@@ -1,5 +1,7 @@
 ---
-title: "pm-monitoring-regulations"\ntagnames: 'epa, regulations, particulates, pm, parent:pm, air-quality-regulations'
+title: "pm-monitoring-regulations"
+
+tagnames: 'epa, regulations, particulates, pm, parent:pm, air-quality-regulations'
 author: mathew
 path: /wiki/pm-monitoring-regulations.md
 nid: 12578

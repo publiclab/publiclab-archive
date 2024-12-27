@@ -1,5 +1,7 @@
 ---
-title: "Sensor Journalism Reflection"\ntagnames: 'sensor-journalism, response:12748, hidden:response'
+title: "Sensor Journalism Reflection"
+
+tagnames: 'sensor-journalism, response:12748, hidden:response'
 author: Jimmymcinnis
 path: /notes/Jimmymcinnis/02-24-2016/sensor-journalism-reflection.md
 nid: 12732
@@ -9,7 +11,7 @@ uid: 461514
 
 # Sensor Journalism Reflection
 
-by [Jimmymcinnis](../profile/Jimmymcinnis) | February 24, 2016 06:04
+by [Jimmymcinnis](../../../profile/Jimmymcinnis) | February 24, 2016 06:04
 
 February 24, 2016 06:04 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

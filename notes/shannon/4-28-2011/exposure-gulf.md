@@ -1,5 +1,7 @@
 ---
-title: "Exposure in the Gulf"\ntagnames: ''
+title: "Exposure in the Gulf"
+
+tagnames: ''
 author: Shannon
 path: /notes/shannon/4-28-2011/exposure-gulf.md
 nid: 198
@@ -9,7 +11,7 @@ uid: 9
 
 # Exposure in the Gulf
 
-by [Shannon](../profile/Shannon) | April 28, 2011 03:42
+by [Shannon](../../../profile/Shannon) | April 28, 2011 03:42
 
 April 28, 2011 03:42 | Tags: 
 

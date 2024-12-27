@@ -1,5 +1,7 @@
 ---
-title: "Absorbance of grass in blue light"\ntagnames: 'spectrometer, absorption, chlorophyll, grass, absorbance, beginner'
+title: "Absorbance of grass in blue light"
+
+tagnames: 'spectrometer, absorption, chlorophyll, grass, absorbance, beginner'
 author: vanjo63
 path: /notes/vanjo63/02-21-2016/absorbance-of-grass-in-blue-light.md
 nid: 12717
@@ -11,7 +13,7 @@ uid: 458760
 
 # Absorbance of grass in blue light
 
-by [vanjo63](../profile/vanjo63) | February 21, 2016 18:45
+by [vanjo63](../../../profile/vanjo63) | February 21, 2016 18:45
 
 February 21, 2016 18:45 | Tags: [spectrometer](../tag/spectrometer), [absorption](../tag/absorption), [chlorophyll](../tag/chlorophyll), [grass](../tag/grass), [absorbance](../tag/absorbance), [beginner](../tag/beginner)
 

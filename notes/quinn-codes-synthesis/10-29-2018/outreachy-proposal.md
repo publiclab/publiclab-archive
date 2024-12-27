@@ -1,5 +1,7 @@
 ---
-title: "Outreachy proposal"\ntagnames: 'software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster'
+title: "Outreachy proposal"
+
+tagnames: 'software, soc, soc-2018, rgsoc-2018, outreachy, outreachy-2018, outreachy-2018-proposals, response:17359, first-time-poster'
 author: quinn-codes-synthesis
 path: /notes/quinn-codes-synthesis/10-29-2018/outreachy-proposal.md
 nid: 17419
@@ -9,7 +11,7 @@ uid: 553069
 
 # Outreachy proposal
 
-by [quinn-codes-synthesis](../profile/quinn-codes-synthesis) | October 29, 2018 07:01
+by [quinn-codes-synthesis](../../../profile/quinn-codes-synthesis) | October 29, 2018 07:01
 
 October 29, 2018 07:01 | Tags: [software](../tag/software), [soc](../tag/soc), [soc-2018](../tag/soc-2018), [rgsoc-2018](../tag/rgsoc-2018), [outreachy](../tag/outreachy), [outreachy-2018](../tag/outreachy-2018), [outreachy-2018-proposals](../tag/outreachy-2018-proposals), [response:17359](../tag/response:17359), [first-time-poster](../tag/first-time-poster)
 

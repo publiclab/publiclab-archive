@@ -1,5 +1,7 @@
 ---
-title: "NDVI from infrared and visible-light"\ntagnames: 'nrg, ndvi, infrared, photoshop, aerial-photography, raspberry-pi, infrared-photography, fiji, gimp, rasperry'
+title: "NDVI from infrared and visible-light"
+
+tagnames: 'nrg, ndvi, infrared, photoshop, aerial-photography, raspberry-pi, infrared-photography, fiji, gimp, rasperry'
 author: Rayishido
 path: /notes/Rayishido/02-10-2016/ndvi-from-infrared-and-visible-light.md
 nid: 12676
@@ -11,7 +13,7 @@ uid: 464454
 
 # NDVI from infrared and visible-light
 
-by [Rayishido](../profile/Rayishido) | February 10, 2016 11:42
+by [Rayishido](../../../profile/Rayishido) | February 10, 2016 11:42
 
 February 10, 2016 11:42 | Tags: [nrg](../tag/nrg), [ndvi](../tag/ndvi), [infrared](../tag/infrared), [photoshop](../tag/photoshop), [aerial-photography](../tag/aerial-photography), [raspberry-pi](../tag/raspberry-pi), [infrared-photography](../tag/infrared-photography), [fiji](../tag/fiji), [gimp](../tag/gimp), [rasperry](../tag/rasperry)
 

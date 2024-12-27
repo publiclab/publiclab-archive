@@ -1,5 +1,7 @@
 ---
-title: "DIY-spectrometer"\ntagnames: 'spectrometer, diy-bio, hardware, first-time-poster'
+title: "DIY-spectrometer"
+
+tagnames: 'spectrometer, diy-bio, hardware, first-time-poster'
 author: TakeshiMatsumoto
 path: /notes/TakeshiMatsumoto/03-20-2018/diy-spectrometer.md
 nid: 15985
@@ -11,7 +13,7 @@ uid: 528173
 
 # DIY-spectrometer
 
-by [TakeshiMatsumoto](../profile/TakeshiMatsumoto) | March 20, 2018 22:26
+by [TakeshiMatsumoto](../../../profile/TakeshiMatsumoto) | March 20, 2018 22:26
 
 March 20, 2018 22:26 | Tags: [spectrometer](../tag/spectrometer), [diy-bio](../tag/diy-bio), [hardware](../tag/hardware), [first-time-poster](../tag/first-time-poster)
 

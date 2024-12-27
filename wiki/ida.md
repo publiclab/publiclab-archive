@@ -1,5 +1,7 @@
 ---
-title: "Ida"\ntagnames: 'hurricane, climate-change, disaster-response, ida, hurricane-ida'
+title: "Ida"
+
+tagnames: 'hurricane, climate-change, disaster-response, ida, hurricane-ida'
 author: stevie
 path: /wiki/ida.md
 nid: 27636

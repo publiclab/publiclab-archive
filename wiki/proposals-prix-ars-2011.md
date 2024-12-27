@@ -1,5 +1,7 @@
 ---
-title: "Proposals Prix Ars 2011"\ntagnames: ''
+title: "Proposals Prix Ars 2011"
+
+tagnames: ''
 author: warren
 path: /wiki/proposals-prix-ars-2011.md
 nid: 154

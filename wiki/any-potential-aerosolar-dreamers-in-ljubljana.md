@@ -1,5 +1,7 @@
 ---
-title: "..... any potential aerosolar dreamers in Ljubljana?"\ntagnames: 'new-mexico, solar-balloon, slovenia, event, sun, event:rsvp, solar, aerocene, ljubljana, white-sands, flight, tivoli-park, date:04-24-2018'
+title: "..... any potential aerosolar dreamers in Ljubljana?"
+
+tagnames: 'new-mexico, solar-balloon, slovenia, event, sun, event:rsvp, solar, aerocene, ljubljana, white-sands, flight, tivoli-park, date:04-24-2018'
 author: AeroceneFoundation
 path: /wiki/any-potential-aerosolar-dreamers-in-ljubljana.md
 nid: 16185
@@ -11,7 +13,7 @@ uid: 519183
 
 # ..... any potential aerosolar dreamers in Ljubljana?
 
-by [AeroceneFoundation](../profile/AeroceneFoundation) | April 21, 2018 18:27
+by [AeroceneFoundation](../../../profile/AeroceneFoundation) | April 21, 2018 18:27
 
 April 21, 2018 18:27 | Tags: [new-mexico](../tag/new-mexico), [solar-balloon](../tag/solar-balloon), [slovenia](../tag/slovenia), [event](../tag/event), [sun](../tag/sun), [event:rsvp](../tag/event:rsvp), [solar](../tag/solar), [aerocene](../tag/aerocene), [ljubljana](../tag/ljubljana), [white-sands](../tag/white-sands), [flight](../tag/flight), [tivoli-park](../tag/tivoli-park), [date:04-24-2018](../tag/date:04-24-2018)
 

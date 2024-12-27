@@ -1,5 +1,7 @@
 ---
-title: "Public Lab receives support from EPA Urban Waters Program"\ntagnames: 'nonprofit'
+title: "Public Lab receives support from EPA Urban Waters Program"
+
+tagnames: 'nonprofit'
 author: Becki
 path: /notes/Becki/07-17-2014/public-lab-receives-support-from-epa-urban-waters-program.md
 nid: 10703
@@ -11,7 +13,7 @@ uid: 46673
 
 # Public Lab receives support from EPA Urban Waters Program
 
-by [Becki](../profile/Becki) | July 17, 2014 16:55
+by [Becki](../../../profile/Becki) | July 17, 2014 16:55
 
 July 17, 2014 16:55 | Tags: [nonprofit](../tag/nonprofit)
 

@@ -1,5 +1,7 @@
 ---
-title: "Conductivity and Temperature Meter"\ntagnames: 'water-quality, conductivity, barnstar:basic, waterquality, activity:conductivity, activity:temperature'
+title: "Conductivity and Temperature Meter"
+
+tagnames: 'water-quality, conductivity, barnstar:basic, waterquality, activity:conductivity, activity:temperature'
 author: bhickman
 path: /notes/bhickman/05-09-2016/conductivity-and-temperature-meter.md
 nid: 13091
@@ -11,7 +13,7 @@ uid: 201929
 
 # Conductivity and Temperature Meter
 
-by [bhickman](../profile/bhickman) | May 09, 2016 05:21
+by [bhickman](../../../profile/bhickman) | May 09, 2016 05:21
 
 May 09, 2016 05:21 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [barnstar:basic](../tag/barnstar:basic), [waterquality](../tag/waterquality), [activity:conductivity](../tag/activity:conductivity), [activity:temperature](../tag/activity:temperature)
 

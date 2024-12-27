@@ -1,5 +1,7 @@
 ---
-title: "h2s-copper-rod"\ntagnames: 'redirect:15067'
+title: "h2s-copper-rod"
+
+tagnames: 'redirect:15067'
 author: warren
 path: /wiki/h2s-copper-rod.md
 nid: 15253

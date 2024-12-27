@@ -1,5 +1,7 @@
 ---
-title: "Supply Chain Project Images"\ntagnames: ''
+title: "Supply Chain Project Images"
+
+tagnames: ''
 author: warren
 path: /wiki/supply-chain-project-images.md
 nid: 13121

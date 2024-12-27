@@ -1,5 +1,7 @@
 ---
-title: "Calibration cogitation"\ntagnames: 'ndvi, calibration, infrared, filter, infragram, plant-health, targets, response:13028, qgis'
+title: "Calibration cogitation"
+
+tagnames: 'ndvi, calibration, infrared, filter, infragram, plant-health, targets, response:13028, qgis'
 author: cfastie
 path: /notes/cfastie/05-01-2016/calibration-cogitation.md
 nid: 13058
@@ -11,7 +13,7 @@ uid: 554
 
 # Calibration cogitation
 
-by [cfastie](../profile/cfastie) | May 01, 2016 19:19
+by [cfastie](../../../profile/cfastie) | May 01, 2016 19:19
 
 May 01, 2016 19:19 | Tags: [ndvi](../tag/ndvi), [calibration](../tag/calibration), [infrared](../tag/infrared), [filter](../tag/filter), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [targets](../tag/targets), [response:13028](../tag/response:13028), [qgis](../tag/qgis)
 

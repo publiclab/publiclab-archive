@@ -1,5 +1,7 @@
 ---
-title: "community-microscope"\ntagnames: 'redirect:micro'
+title: "community-microscope"
+
+tagnames: 'redirect:micro'
 author: warren
 path: /wiki/community-microscope.md
 nid: 16587

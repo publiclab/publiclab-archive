@@ -1,5 +1,7 @@
 ---
-title: "Inconsistent two cam ndvi"\ntagnames: 'ndvi, canon, a2500'
+title: "Inconsistent two cam ndvi"
+
+tagnames: 'ndvi, canon, a2500'
 author: gpenzo
 path: /notes/gpenzo/07-10-2014/inconsistant-two-cam-ndvi.md
 nid: 10674
@@ -11,7 +13,7 @@ uid: 420719
 
 # Inconsistent two cam ndvi
 
-by [gpenzo](../profile/gpenzo) | July 10, 2014 23:10
+by [gpenzo](../../../profile/gpenzo) | July 10, 2014 23:10
 
 July 10, 2014 23:10 | Tags: [ndvi](../tag/ndvi), [canon](../tag/canon), [a2500](../tag/a2500)
 

@@ -1,5 +1,7 @@
 ---
-title: "The open burning of textile waste"\ntagnames: 'landfill, sewage, waste, asia, china'
+title: "The open burning of textile waste"
+
+tagnames: 'landfill, sewage, waste, asia, china'
 author: shanlter
 path: /notes/shanlter/01-31-2016/the-open-burning-of-textile-waste.md
 nid: 12638
@@ -11,7 +13,7 @@ uid: 420999
 
 # The open burning of textile waste
 
-by [shanlter](../profile/shanlter) | January 31, 2016 13:05
+by [shanlter](../../../profile/shanlter) | January 31, 2016 13:05
 
 January 31, 2016 13:05 | Tags: [landfill](../tag/landfill), [sewage](../tag/sewage), [waste](../tag/waste), [asia](../tag/asia), [china](../tag/china)
 

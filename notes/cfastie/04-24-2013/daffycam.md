@@ -1,5 +1,7 @@
 ---
-title: "DaffyCam"\ntagnames: 'near-infrared-camera, ndvi, vermont, infrared, imagej, infragram, plant-health, timelapse, superblue, vegetation, infrablue, activity:timelapse'
+title: "DaffyCam"
+
+tagnames: 'near-infrared-camera, ndvi, vermont, infrared, imagej, infragram, plant-health, timelapse, superblue, vegetation, infrablue, activity:timelapse'
 author: cfastie
 path: /notes/cfastie/04-24-2013/daffycam.md
 nid: 7031
@@ -11,7 +13,7 @@ uid: 554
 
 # DaffyCam
 
-by [cfastie](../profile/cfastie) | April 24, 2013 16:45
+by [cfastie](../../../profile/cfastie) | April 24, 2013 16:45
 
 April 24, 2013 16:45 | Tags: [near-infrared-camera](../tag/near-infrared-camera), [ndvi](../tag/ndvi), [vermont](../tag/vermont), [infrared](../tag/infrared), [imagej](../tag/imagej), [infragram](../tag/infragram), [plant-health](../tag/plant-health), [timelapse](../tag/timelapse), [superblue](../tag/superblue), [vegetation](../tag/vegetation), [infrablue](../tag/infrablue), [activity:timelapse](../tag/activity:timelapse)
 

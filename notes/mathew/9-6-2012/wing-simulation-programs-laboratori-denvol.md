@@ -1,5 +1,7 @@
 ---
-title: "Wing Simulation Programs from Laboratori d'Envol"\ntagnames: 'kite-mapping, diy-kite'
+title: "Wing Simulation Programs from Laboratori d'Envol"
+
+tagnames: 'kite-mapping, diy-kite'
 author: mathew
 path: /notes/mathew/9-6-2012/wing-simulation-programs-laboratori-denvol.md
 nid: 3671
@@ -11,7 +13,7 @@ uid: 4
 
 # Wing Simulation Programs from Laboratori d'Envol
 
-by [mathew](../profile/mathew) | September 07, 2012 00:35
+by [mathew](../../../profile/mathew) | September 07, 2012 00:35
 
 September 07, 2012 00:35 | Tags: [kite-mapping](../tag/kite-mapping), [diy-kite](../tag/diy-kite)
 

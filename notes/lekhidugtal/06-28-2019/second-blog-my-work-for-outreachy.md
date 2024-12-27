@@ -1,5 +1,7 @@
 ---
-title: "Second Blog: My work for outreachy"\ntagnames: 'design, blog, soc, ui, summer-of-code, outreachy, soc-2019, outreachy-2019'
+title: "Second Blog: My work for outreachy"
+
+tagnames: 'design, blog, soc, ui, summer-of-code, outreachy, soc-2019, outreachy-2019'
 author: lekhidugtal
 path: /notes/lekhidugtal/06-28-2019/second-blog-my-work-for-outreachy.md
 nid: 19912
@@ -11,7 +13,7 @@ uid: 577754
 
 # Second Blog: My work for outreachy
 
-by [lekhidugtal](../profile/lekhidugtal) | June 28, 2019 18:01
+by [lekhidugtal](../../../profile/lekhidugtal) | June 28, 2019 18:01
 
 June 28, 2019 18:01 | Tags: [design](../tag/design), [blog](../tag/blog), [soc](../tag/soc), [ui](../tag/ui), [summer-of-code](../tag/summer-of-code), [outreachy](../tag/outreachy), [soc-2019](../tag/soc-2019), [outreachy-2019](../tag/outreachy-2019)
 

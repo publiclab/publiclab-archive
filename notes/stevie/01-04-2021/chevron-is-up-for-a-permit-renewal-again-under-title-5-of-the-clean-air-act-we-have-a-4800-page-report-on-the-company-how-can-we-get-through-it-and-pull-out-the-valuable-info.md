@@ -1,5 +1,7 @@
 ---
-title: "Chevron is up for a permit renewal again (under title 5 of the Clean Air Act), we have a 4800 page report on the company, how can we get through it and pull out the valuable info?"\ntagnames: 'air-quality, question:air-quality, question:general, general, oil-and-gas, question:oil-and-gas, location:blurred, place:united-states, lat:30, lon:-88, zoom:6, with:cherokeeconcernedcitizens'
+title: "Chevron is up for a permit renewal again (under title 5 of the Clean Air Act), we have a 4800 page report on the company, how can we get through it and pull out the valuable info?"
+
+tagnames: 'air-quality, question:air-quality, question:general, general, oil-and-gas, question:oil-and-gas, location:blurred, place:united-states, lat:30, lon:-88, zoom:6, with:cherokeeconcernedcitizens'
 author: stevie
 path: /notes/stevie/01-04-2021/chevron-is-up-for-a-permit-renewal-again-under-title-5-of-the-clean-air-act-we-have-a-4800-page-report-on-the-company-how-can-we-get-through-it-and-pull-out-the-valuable-info.md
 nid: 25409
@@ -9,7 +11,7 @@ uid: 422561
 
 # Chevron is up for a permit renewal again (under title 5 of the Clean Air Act), we have a 4800 page report on the company, how can we get through it and pull out the valuable info?
 
-by [stevie](../profile/stevie) | January 04, 2021 21:18
+by [stevie](../../../profile/stevie) | January 04, 2021 21:18
 
 January 04, 2021 21:18 | Tags: [air-quality](../tag/air-quality), [question:air-quality](../tag/question:air-quality), [question:general](../tag/question:general), [general](../tag/general), [oil-and-gas](../tag/oil-and-gas), [question:oil-and-gas](../tag/question:oil-and-gas), [location:blurred](../tag/location:blurred), [place:united-states](../tag/place:united-states), [lat:30](../tag/lat:30), [lon:-88](../tag/lon:-88), [zoom:6](../tag/zoom:6), [with:cherokeeconcernedcitizens](../tag/with:cherokeeconcernedcitizens)
 

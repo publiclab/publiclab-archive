@@ -1,5 +1,7 @@
 ---
-title: "UCSB Campus Point"\ntagnames: 'first-time-poster'
+title: "UCSB Campus Point"
+
+tagnames: 'first-time-poster'
 author: asac177
 path: /notes/asac177/05-03-2015/ucsb-campus-point.md
 nid: 11781
@@ -11,7 +13,7 @@ uid: 440398
 
 # UCSB Campus Point
 
-by [asac177](../profile/asac177) | May 03, 2015 22:55
+by [asac177](../../../profile/asac177) | May 03, 2015 22:55
 
 May 03, 2015 22:55 | Tags: [first-time-poster](../tag/first-time-poster)
 

@@ -1,5 +1,7 @@
 ---
-title: "Sensor Journalism: A Reflection on the Opportunities and Challenges it Brings"\ntagnames: 'sensor-journalism, response:12748, hidden:response'
+title: "Sensor Journalism: A Reflection on the Opportunities and Challenges it Brings"
+
+tagnames: 'sensor-journalism, response:12748, hidden:response'
 author: deirdrem
 path: /notes/deirdrem/02-24-2016/sensor-journalism-a-reflection-on-the-opportunities-and-challenges-it-brings.md
 nid: 12746
@@ -11,7 +13,7 @@ uid: 461479
 
 # Sensor Journalism: A Reflection on the Opportunities and Challenges it Brings
 
-by [deirdrem](../profile/deirdrem) | February 24, 2016 19:03
+by [deirdrem](../../../profile/deirdrem) | February 24, 2016 19:03
 
 February 24, 2016 19:03 | Tags: [sensor-journalism](../tag/sensor-journalism), [response:12748](../tag/response:12748), [hidden:response](../tag/hidden:response)
 

@@ -1,5 +1,7 @@
 ---
-title: "WheeTrometer 2.0"\ntagnames: 'spectrometer'
+title: "WheeTrometer 2.0"
+
+tagnames: 'spectrometer'
 author: bhickman
 path: /notes/bhickman/04-21-2014/wheetrometer-2-0.md
 nid: 10338
@@ -11,7 +13,7 @@ uid: 201929
 
 # WheeTrometer 2.0
 
-by [bhickman](../profile/bhickman) | April 21, 2014 04:11
+by [bhickman](../../../profile/bhickman) | April 21, 2014 04:11
 
 April 21, 2014 04:11 | Tags: [spectrometer](../tag/spectrometer)
 

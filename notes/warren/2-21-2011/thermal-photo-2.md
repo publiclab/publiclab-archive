@@ -1,5 +1,7 @@
 ---
-title: "Thermal photo 2"\ntagnames: 'thermal-photography, thermal-camera, thermal, scanning'
+title: "Thermal photo 2"
+
+tagnames: 'thermal-photography, thermal-camera, thermal, scanning'
 author: warren
 path: /notes/warren/2-21-2011/thermal-photo-2.md
 nid: 97
@@ -11,7 +13,7 @@ uid: 1
 
 # Thermal photo 2
 
-by [warren](../profile/warren) | February 21, 2011 21:33
+by [warren](../../../profile/warren) | February 21, 2011 21:33
 
 February 21, 2011 21:33 | Tags: [thermal-photography](../tag/thermal-photography), [thermal-camera](../tag/thermal-camera), [thermal](../tag/thermal), [scanning](../tag/scanning)
 

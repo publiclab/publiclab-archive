@@ -1,5 +1,7 @@
 ---
-title: "Rig refinement"\ntagnames: 'balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery, response:11726'
+title: "Rig refinement"
+
+tagnames: 'balloon-mapping, kite-mapping, kite-aerial-photography, 3dprinting, kaptery, response:11726'
 author: cfastie
 path: /notes/cfastie/02-14-2016/rig-refinement.md
 nid: 12686
@@ -11,7 +13,7 @@ uid: 554
 
 # Rig refinement
 
-by [cfastie](../profile/cfastie) | February 14, 2016 16:18
+by [cfastie](../../../profile/cfastie) | February 14, 2016 16:18
 
 February 14, 2016 16:18 | Tags: [balloon-mapping](../tag/balloon-mapping), [kite-mapping](../tag/kite-mapping), [kite-aerial-photography](../tag/kite-aerial-photography), [3dprinting](../tag/3dprinting), [kaptery](../tag/kaptery), [response:11726](../tag/response:11726)
 

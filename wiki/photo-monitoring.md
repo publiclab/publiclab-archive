@@ -1,5 +1,7 @@
 ---
-title: "Photo Monitoring"\ntagnames: 'agriculture, photo-monitoring, timelapse, mining, urban-planning, fracking, tool, question:spectrometer, industry, trapcam, trap-cam, trail-cam, activities:timelapse, upgrades:timelapse, method, land-change, oil-and-gas'
+title: "Photo Monitoring"
+
+tagnames: 'agriculture, photo-monitoring, timelapse, mining, urban-planning, fracking, tool, question:spectrometer, industry, trapcam, trap-cam, trail-cam, activities:timelapse, upgrades:timelapse, method, land-change, oil-and-gas'
 author: warren
 path: /wiki/photo-monitoring.md
 nid: 13450

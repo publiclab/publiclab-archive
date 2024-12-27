@@ -1,5 +1,7 @@
 ---
-title: "Annotated maps roundup"\ntagnames: 'balloon-mapping, annotated-maps'
+title: "Annotated maps roundup"
+
+tagnames: 'balloon-mapping, annotated-maps'
 author: warren
 path: /notes/warren/5-15-2012/annotated-maps-roundup.md
 nid: 1994
@@ -11,7 +13,7 @@ uid: 1
 
 # Annotated maps roundup
 
-by [warren](../profile/warren) | May 15, 2012 20:52
+by [warren](../../../profile/warren) | May 15, 2012 20:52
 
 May 15, 2012 20:52 | Tags: [balloon-mapping](../tag/balloon-mapping), [annotated-maps](../tag/annotated-maps)
 

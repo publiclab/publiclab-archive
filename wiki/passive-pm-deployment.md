@@ -1,5 +1,7 @@
 ---
-title: "passive-pm-deployment"\ntagnames: 'parent:passive-pm'
+title: "passive-pm-deployment"
+
+tagnames: 'parent:passive-pm'
 author: mathew
 path: /wiki/passive-pm-deployment.md
 nid: 12647

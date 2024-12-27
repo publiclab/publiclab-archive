@@ -1,5 +1,7 @@
 ---
-title: "Dowel failure on my Tyvek Delta kite"\ntagnames: 'kite-mapping, kite, delta, kap, dowel, folly, tyvek, aerial-mapping, fail'
+title: "Dowel failure on my Tyvek Delta kite"
+
+tagnames: 'kite-mapping, kite, delta, kap, dowel, folly, tyvek, aerial-mapping, fail'
 author: adam-griffith
 path: /notes/adam-griffith/5-21-2013/dowel-failure-my-tyvek-delta-kite.md
 nid: 7783
@@ -11,7 +13,7 @@ uid: 3
 
 # Dowel failure on my Tyvek Delta kite
 
-by [adam-griffith](../profile/adam-griffith) | May 21, 2013 15:01
+by [adam-griffith](../../../profile/adam-griffith) | May 21, 2013 15:01
 
 May 21, 2013 15:01 | Tags: [kite-mapping](../tag/kite-mapping), [kite](../tag/kite), [delta](../tag/delta), [kap](../tag/kap), [dowel](../tag/dowel), [folly](../tag/folly), [tyvek](../tag/tyvek), [aerial-mapping](../tag/aerial-mapping), [fail](../tag/fail)
 

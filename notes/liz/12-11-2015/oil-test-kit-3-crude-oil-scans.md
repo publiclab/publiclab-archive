@@ -1,5 +1,7 @@
 ---
-title: "Oil Test Kit: 3 crude oil scans"\ntagnames: 'spectrometer, oil-testing-kit, oil-testing-kit-beta'
+title: "Oil Test Kit: 3 crude oil scans"
+
+tagnames: 'spectrometer, oil-testing-kit, oil-testing-kit-beta'
 author: liz
 path: /notes/liz/12-11-2015/oil-test-kit-3-crude-oil-scans.md
 nid: 12498
@@ -11,7 +13,7 @@ uid: 7
 
 # Oil Test Kit: 3 crude oil scans
 
-by [liz](../profile/liz) | December 11, 2015 20:25
+by [liz](../../../profile/liz) | December 11, 2015 20:25
 
 December 11, 2015 20:25 | Tags: [spectrometer](../tag/spectrometer), [oil-testing-kit](../tag/oil-testing-kit), [oil-testing-kit-beta](../tag/oil-testing-kit-beta)
 

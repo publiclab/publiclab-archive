@@ -1,5 +1,7 @@
 ---
-title: "brasil"\ntagnames: 'events:brasil, brasil, list:publiclab-portugues, south-america, sa'
+title: "brasil"
+
+tagnames: 'events:brasil, brasil, list:publiclab-portugues, south-america, sa'
 author: liz
 path: /wiki/brasil.md
 nid: 10164

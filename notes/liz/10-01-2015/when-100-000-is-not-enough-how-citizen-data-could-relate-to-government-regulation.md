@@ -1,5 +1,7 @@
 ---
-title: "When $100,000 is not enough: how citizen data (could) relate to government regulation"\ntagnames: 'gulf-coast, air-quality, blog, regulations, open-air, particle-sensing, particle-monitoring, openair, style:fancy, with:gretchengehrke, texas, with:reltub1, passive-pm, houston'
+title: "When $100,000 is not enough: how citizen data (could) relate to government regulation"
+
+tagnames: 'gulf-coast, air-quality, blog, regulations, open-air, particle-sensing, particle-monitoring, openair, style:fancy, with:gretchengehrke, texas, with:reltub1, passive-pm, houston'
 author: liz
 path: /notes/liz/10-01-2015/when-100-000-is-not-enough-how-citizen-data-could-relate-to-government-regulation.md
 nid: 12261
@@ -11,7 +13,7 @@ uid: 7
 
 # When $100,000 is not enough: how citizen data (could) relate to government regulation
 
-by [liz](../profile/liz) | October 01, 2015 02:01
+by [liz](../../../profile/liz) | October 01, 2015 02:01
 
 October 01, 2015 02:01 | Tags: [gulf-coast](../tag/gulf-coast), [air-quality](../tag/air-quality), [blog](../tag/blog), [regulations](../tag/regulations), [open-air](../tag/open-air), [particle-sensing](../tag/particle-sensing), [particle-monitoring](../tag/particle-monitoring), [openair](../tag/openair), [style:fancy](../tag/style:fancy), [with:gretchengehrke](../tag/with:gretchengehrke), [texas](../tag/texas), [with:reltub1](../tag/with:reltub1), [passive-pm](../tag/passive-pm), [houston](../tag/houston)
 

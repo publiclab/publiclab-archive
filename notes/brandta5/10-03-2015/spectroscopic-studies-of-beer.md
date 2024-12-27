@@ -1,5 +1,7 @@
 ---
-title: "Spectroscopic Studies of Beer"\ntagnames: 'first-time-poster'
+title: "Spectroscopic Studies of Beer"
+
+tagnames: 'first-time-poster'
 author: brandta5
 path: /notes/brandta5/10-03-2015/spectroscopic-studies-of-beer.md
 nid: 12263
@@ -9,7 +11,7 @@ uid: 453302
 
 # Spectroscopic Studies of Beer
 
-by [brandta5](../profile/brandta5) | October 03, 2015 19:27
+by [brandta5](../../../profile/brandta5) | October 03, 2015 19:27
 
 October 03, 2015 19:27 | Tags: [first-time-poster](../tag/first-time-poster)
 

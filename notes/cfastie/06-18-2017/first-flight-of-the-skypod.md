@@ -1,5 +1,7 @@
 ---
-title: "First flight of the SkyPod"\ntagnames: 'kite-mapping, arduino, kite-aerial-photography, kap, gps, saturnv, skyshield, half-spherical, eos_m, autodesk, skypod, bme280, ublox, skypod-gps-logger, activity:skypod-gps-logger'
+title: "First flight of the SkyPod"
+
+tagnames: 'kite-mapping, arduino, kite-aerial-photography, kap, gps, saturnv, skyshield, half-spherical, eos_m, autodesk, skypod, bme280, ublox, skypod-gps-logger, activity:skypod-gps-logger'
 author: cfastie
 path: /notes/cfastie/06-18-2017/first-flight-of-the-skypod.md
 nid: 14551
@@ -11,7 +13,7 @@ uid: 554
 
 # First flight of the SkyPod
 
-by [cfastie](../profile/cfastie) | June 18, 2017 22:56
+by [cfastie](../../../profile/cfastie) | June 18, 2017 22:56
 
 June 18, 2017 22:56 | Tags: [kite-mapping](../tag/kite-mapping), [arduino](../tag/arduino), [kite-aerial-photography](../tag/kite-aerial-photography), [kap](../tag/kap), [gps](../tag/gps), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield), [half-spherical](../tag/half-spherical), [eos_m](../tag/eos_m), [autodesk](../tag/autodesk), [skypod](../tag/skypod), [bme280](../tag/bme280), [ublox](../tag/ublox), [skypod-gps-logger](../tag/skypod-gps-logger), [activity:skypod-gps-logger](../tag/activity:skypod-gps-logger)
 

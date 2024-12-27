@@ -1,5 +1,7 @@
 ---
-title: "Riffle pics"\ntagnames: 'riffle'
+title: "Riffle pics"
+
+tagnames: 'riffle'
 author: liz
 path: /wiki/riffle-pics.md
 nid: 13290

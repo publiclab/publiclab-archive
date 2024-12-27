@@ -1,5 +1,7 @@
 ---
-title: "barnraising-northeast-2014"\ntagnames: 'barnraising, event, massachusetts, plymouth, tidmarsh, list:plots-barnraising, northeast, jones-river, parent:barnraising'
+title: "barnraising-northeast-2014"
+
+tagnames: 'barnraising, event, massachusetts, plymouth, tidmarsh, list:plots-barnraising, northeast, jones-river, parent:barnraising'
 author: liz
 path: /wiki/barnraising-northeast-2014.md
 nid: 10466

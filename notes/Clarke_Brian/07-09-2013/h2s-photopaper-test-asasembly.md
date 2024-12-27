@@ -1,5 +1,7 @@
 ---
-title: "H2S photopaper test asasembly"\ntagnames: 'hydrogen-sulfide-sensing, boston, h2s, hydrogensulfide-h2s-boston, hydrogen-sulfide-testing'
+title: "H2S photopaper test asasembly"
+
+tagnames: 'hydrogen-sulfide-sensing, boston, h2s, hydrogensulfide-h2s-boston, hydrogen-sulfide-testing'
 author: Clarke_Brian
 path: /notes/Clarke_Brian/07-09-2013/h2s-photopaper-test-asasembly.md
 nid: 8760
@@ -11,7 +13,7 @@ uid: 48632
 
 # H2S photopaper test asasembly
 
-by [Clarke_Brian](../profile/Clarke_Brian) | July 09, 2013 01:17
+by [Clarke_Brian](../../../profile/Clarke_Brian) | July 09, 2013 01:17
 
 July 09, 2013 01:17 | Tags: [hydrogen-sulfide-sensing](../tag/hydrogen-sulfide-sensing), [boston](../tag/boston), [h2s](../tag/h2s), [hydrogensulfide-h2s-boston](../tag/hydrogensulfide-h2s-boston), [hydrogen-sulfide-testing](../tag/hydrogen-sulfide-testing)
 

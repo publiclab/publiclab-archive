@@ -1,5 +1,7 @@
 ---
-title: "PhotosynQ"\ntagnames: 'photosynq, multispeq'
+title: "PhotosynQ"
+
+tagnames: 'photosynq, multispeq'
 author: natalie
 path: /wiki/photosynq.md
 nid: 11452

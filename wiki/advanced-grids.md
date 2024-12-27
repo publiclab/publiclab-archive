@@ -1,5 +1,7 @@
 ---
-title: "Advanced Grids"\ntagnames: 'parent:power-tags, basic-microscope:, basic-'
+title: "Advanced Grids"
+
+tagnames: 'parent:power-tags, basic-microscope:, basic-'
 author: warren
 path: /wiki/advanced-grids.md
 nid: 15582

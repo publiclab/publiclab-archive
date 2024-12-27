@@ -1,5 +1,7 @@
 ---
-title: "Sketches for how-to-prep sediment for spectral analysis"\ntagnames: 'spectroscopy, illustrated-guides'
+title: "Sketches for how-to-prep sediment for spectral analysis"
+
+tagnames: 'spectroscopy, illustrated-guides'
 author: liz
 path: /notes/liz/2-26-2013/sketches-how-prep-sediment-spectral-analysis.md
 nid: 6125
@@ -11,7 +13,7 @@ uid: 7
 
 # Sketches for how-to-prep sediment for spectral analysis
 
-by [liz](../profile/liz) | February 26, 2013 15:18
+by [liz](../../../profile/liz) | February 26, 2013 15:18
 
 February 26, 2013 15:18 | Tags: [spectroscopy](../tag/spectroscopy), [illustrated-guides](../tag/illustrated-guides)
 

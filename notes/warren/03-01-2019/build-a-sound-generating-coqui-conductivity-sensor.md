@@ -1,5 +1,7 @@
 ---
-title: "Build a sound-generating Coqui conductivity sensor (new version!)"\ntagnames: 'water-quality, conductivity, coqui, activity:coqui, sound, with:zengirl2, with:asnow, pin:activity:coqui, activity:one-cranston'
+title: "Build a sound-generating Coqui conductivity sensor (new version!)"
+
+tagnames: 'water-quality, conductivity, coqui, activity:coqui, sound, with:zengirl2, with:asnow, pin:activity:coqui, activity:one-cranston'
 author: warren
 path: /notes/warren/03-01-2019/build-a-sound-generating-coqui-conductivity-sensor.md
 nid: 18313
@@ -11,7 +13,7 @@ uid: 1
 
 # Build a sound-generating Coqui conductivity sensor (new version!)
 
-by [warren](../profile/warren) | February 08, 2019 00:09
+by [warren](../../../profile/warren) | February 08, 2019 00:09
 
 February 08, 2019 00:09 | Tags: [water-quality](../tag/water-quality), [conductivity](../tag/conductivity), [coqui](../tag/coqui), [activity:coqui](../tag/activity:coqui), [sound](../tag/sound), [with:zengirl2](../tag/with:zengirl2), [with:asnow](../tag/with:asnow), [pin:activity:coqui](../tag/pin:activity:coqui), [activity:one-cranston](../tag/activity:one-cranston)
 

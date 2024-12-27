@@ -1,5 +1,7 @@
 ---
-title: "Working with the Spec. 3.0!"\ntagnames: 'spectrometer, kits, spectrometry, oil-testing-kit, with:micheal, spec-3'
+title: "Working with the Spec. 3.0!"
+
+tagnames: 'spectrometer, kits, spectrometry, oil-testing-kit, with:micheal, spec-3'
 author: stevie
 path: /notes/stevie/01-28-2015/working-with-the-spec-3-0.md
 nid: 11544
@@ -11,7 +13,7 @@ uid: 422561
 
 # Working with the Spec. 3.0!
 
-by [stevie](../profile/stevie) | January 28, 2015 18:13
+by [stevie](../../../profile/stevie) | January 28, 2015 18:13
 
 January 28, 2015 18:13 | Tags: [spectrometer](../tag/spectrometer), [kits](../tag/kits), [spectrometry](../tag/spectrometry), [oil-testing-kit](../tag/oil-testing-kit), [with:micheal](../tag/with:micheal), [spec-3](../tag/spec-3)
 

@@ -1,5 +1,7 @@
 ---
-title: "Event: Wisconsin Sand Sentinel Training "\ntagnames: 'reporting, event, wisconsin, legal, frac-sand, pm, midwest, sentinel, parent:the-sand-sentinel-program, sand-sentinel, law-and-policy'
+title: "Event: Wisconsin Sand Sentinel Training "
+
+tagnames: 'reporting, event, wisconsin, legal, frac-sand, pm, midwest, sentinel, parent:the-sand-sentinel-program, sand-sentinel, law-and-policy'
 author: stevie
 path: /notes/stevie/08-06-2019/event-wisconsin-sand-sentinel-training.md
 nid: 20438
@@ -11,7 +13,7 @@ uid: 422561
 
 # Event: Wisconsin Sand Sentinel Training 
 
-by [stevie](../profile/stevie) | August 06, 2019 13:26
+by [stevie](../../../profile/stevie) | August 06, 2019 13:26
 
 August 06, 2019 13:26 | Tags: [reporting](../tag/reporting), [event](../tag/event), [wisconsin](../tag/wisconsin), [legal](../tag/legal), [frac-sand](../tag/frac-sand), [pm](../tag/pm), [midwest](../tag/midwest), [sentinel](../tag/sentinel), [parent:the-sand-sentinel-program](../tag/parent:the-sand-sentinel-program), [sand-sentinel](../tag/sand-sentinel), [law-and-policy](../tag/law-and-policy)
 

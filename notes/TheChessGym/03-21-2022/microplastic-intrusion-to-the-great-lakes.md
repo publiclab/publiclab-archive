@@ -1,5 +1,7 @@
 ---
-title: "Microplastic Intrusion To The Great Lakes"\ntagnames: 'microplastics, zoom:6, lat:22.004174, lon:76.003417'
+title: "Microplastic Intrusion To The Great Lakes"
+
+tagnames: 'microplastics, zoom:6, lat:22.004174, lon:76.003417'
 author: TheChessGym
 path: /notes/TheChessGym/03-21-2022/microplastic-intrusion-to-the-great-lakes.md
 nid: 30168
@@ -11,7 +13,7 @@ uid: 788868
 
 # Microplastic Intrusion To The Great Lakes
 
-by [TheChessGym](../profile/TheChessGym) | March 21, 2022 15:00
+by [TheChessGym](../../../profile/TheChessGym) | March 21, 2022 15:00
 
 March 21, 2022 15:00 | Tags: [microplastics](../tag/microplastics), [zoom:6](../tag/zoom:6), [lat:22.004174](../tag/lat:22.004174), [lon:76.003417](../tag/lon:76.003417)
 

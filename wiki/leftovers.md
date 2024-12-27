@@ -1,5 +1,7 @@
 ---
-title: "Leftovers"\ntagnames: ''
+title: "Leftovers"
+
+tagnames: ''
 author: warren
 path: /wiki/leftovers.md
 nid: 110

@@ -1,5 +1,7 @@
 ---
-title: "water-quality-colombia"\ntagnames: ''
+title: "water-quality-colombia"
+
+tagnames: ''
 author: donblair
 path: /wiki/water-quality-colombia.md
 nid: 10122

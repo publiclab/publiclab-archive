@@ -1,5 +1,7 @@
 ---
-title: "Landscaping Assistant Drone"\ntagnames: ''
+title: "Landscaping Assistant Drone"
+
+tagnames: ''
 author: wjd13
 path: /notes/wjd13/04-07-2015/landscaping-assistant-drone.md
 nid: 11749
@@ -11,7 +13,7 @@ uid: 438057
 
 # Landscaping Assistant Drone
 
-by [wjd13](../profile/wjd13) | April 07, 2015 14:36
+by [wjd13](../../../profile/wjd13) | April 07, 2015 14:36
 
 April 07, 2015 14:36 | Tags: 
 

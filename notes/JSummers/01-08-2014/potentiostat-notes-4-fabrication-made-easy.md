@@ -1,5 +1,7 @@
 ---
-title: "Potentiostat Notes 4:  Fabrication made easy"\ntagnames: 'potentiostat, response:9918'
+title: "Potentiostat Notes 4:  Fabrication made easy"
+
+tagnames: 'potentiostat, response:9918'
 author: JSummers
 path: /notes/JSummers/01-08-2014/potentiostat-notes-4-fabrication-made-easy.md
 nid: 9931
@@ -11,7 +13,7 @@ uid: 304279
 
 # Potentiostat Notes 4:  Fabrication made easy
 
-by [JSummers](../profile/JSummers) | January 08, 2014 21:03
+by [JSummers](../../../profile/JSummers) | January 08, 2014 21:03
 
 January 08, 2014 21:03 | Tags: [potentiostat](../tag/potentiostat), [response:9918](../tag/response:9918)
 

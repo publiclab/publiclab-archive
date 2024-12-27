@@ -1,5 +1,7 @@
 ---
-title: "Frequently Asked Questions"\ntagnames: 'community, welcome, needs-revision'
+title: "Frequently Asked Questions"
+
+tagnames: 'community, welcome, needs-revision'
 author: Shannon
 path: /wiki/frequently-asked-questions.md
 nid: 567

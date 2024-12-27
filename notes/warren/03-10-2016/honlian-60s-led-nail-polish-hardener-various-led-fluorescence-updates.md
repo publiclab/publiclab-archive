@@ -1,5 +1,7 @@
 ---
-title: "Honlian 60s LED nail polish hardener, various LED fluorescence updates"\ntagnames: 'spectrometer, oil, ultraviolet, fluorescence, led, oil-testing-kit, cuvette-frame, response:12716, response:12818, response:12725, response:12722, activity:spectrometry-sampling'
+title: "Honlian 60s LED nail polish hardener, various LED fluorescence updates"
+
+tagnames: 'spectrometer, oil, ultraviolet, fluorescence, led, oil-testing-kit, cuvette-frame, response:12716, response:12818, response:12725, response:12722, activity:spectrometry-sampling'
 author: warren
 path: /notes/warren/03-10-2016/honlian-60s-led-nail-polish-hardener-various-led-fluorescence-updates.md
 nid: 12823
@@ -11,7 +13,7 @@ uid: 1
 
 # Honlian 60s LED nail polish hardener, various LED fluorescence updates
 
-by [warren](../profile/warren) | March 10, 2016 00:04
+by [warren](../../../profile/warren) | March 10, 2016 00:04
 
 March 10, 2016 00:04 | Tags: [spectrometer](../tag/spectrometer), [oil](../tag/oil), [ultraviolet](../tag/ultraviolet), [fluorescence](../tag/fluorescence), [led](../tag/led), [oil-testing-kit](../tag/oil-testing-kit), [cuvette-frame](../tag/cuvette-frame), [response:12716](../tag/response:12716), [response:12818](../tag/response:12818), [response:12725](../tag/response:12725), [response:12722](../tag/response:12722), [activity:spectrometry-sampling](../tag/activity:spectrometry-sampling)
 

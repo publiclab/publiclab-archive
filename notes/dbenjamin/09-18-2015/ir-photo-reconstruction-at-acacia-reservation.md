@@ -1,5 +1,7 @@
 ---
-title: "IR Photo Reconstruction at Acacia Reservation"\ntagnames: 'balloon-mapping, kap, opendronemap, saturnv, skyshield'
+title: "IR Photo Reconstruction at Acacia Reservation"
+
+tagnames: 'balloon-mapping, kap, opendronemap, saturnv, skyshield'
 author: dbenjamin
 path: /notes/dbenjamin/09-18-2015/ir-photo-reconstruction-at-acacia-reservation.md
 nid: 12227
@@ -11,7 +13,7 @@ uid: 444468
 
 # IR Photo Reconstruction at Acacia Reservation
 
-by [dbenjamin](../profile/dbenjamin) | September 18, 2015 15:30
+by [dbenjamin](../../../profile/dbenjamin) | September 18, 2015 15:30
 
 September 18, 2015 15:30 | Tags: [balloon-mapping](../tag/balloon-mapping), [kap](../tag/kap), [opendronemap](../tag/opendronemap), [saturnv](../tag/saturnv), [skyshield](../tag/skyshield)
 
